@@ -685,8 +685,8 @@ main:focus {
 }
 
 /* Words on the meadow. Rather than a dark patch behind the text, the whole scene behind a hero or a
-   window is shown at a lower exposure, evenly from edge to edge, a touch deeper in colour: white
-   type keeps about the contrast the patch gave (measured on the sky) and nothing smudges the view. */
+   window is shown at a slightly lower exposure, evenly from edge to edge, a touch deeper in colour,
+   so white type keeps its contrast (measured on the sky) and nothing smudges the view. */
 .hero,
 .window {
   position: relative;
@@ -699,14 +699,35 @@ main:focus {
   inset: 0;
   z-index: -1;
   pointer-events: none;
-  background: rgba(18, 50, 92, 0.12);
-  -webkit-backdrop-filter: brightness(0.62) saturate(1.3);
-  backdrop-filter: brightness(0.62) saturate(1.3);
+  background: rgba(18, 50, 92, 0.07);
+  -webkit-backdrop-filter: brightness(0.72) saturate(1.2);
+  backdrop-filter: brightness(0.72) saturate(1.2);
 }
 /* the grass at the foot of the hero comes back to full light, under the buttons and the facts */
 .hero::before {
   -webkit-mask-image: linear-gradient(#000 70%, transparent);
   mask-image: linear-gradient(#000 70%, transparent);
+}
+/* The meadow first shows in full light; the dimming comes in slowly once the words have arrived
+   (a revealed line inside), on every page and each time a window scrolls into view. */
+.js .hero::before,
+.js .window::before {
+  opacity: 0;
+  transition: opacity 2.2s var(--ease) 1.2s;
+}
+.js .window::before {
+  transition-delay: 0.5s;
+}
+.js .hero:has(.is-in)::before,
+.js .window:has(.is-in)::before {
+  opacity: 1;
+}
+/* where :has() isn't understood, the dimming is simply there from the start */
+@supports not selector(:has(*)) {
+  .js .hero::before,
+  .js .window::before {
+    opacity: 1;
+  }
 }
 
 .hero {
@@ -2345,6 +2366,11 @@ main {
   }
   .js .rule {
     transform: none;
+  }
+  .js .hero::before,
+  .js .window::before {
+    opacity: 1;
+    transition: none;
   }
   .stem {
     display: none;
