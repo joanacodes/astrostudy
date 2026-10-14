@@ -6,20 +6,18 @@
     {{- with $r.featured }}
     <figure class="quote-feature">
       <p class="quote-feature__pull" data-reveal>“{{ .pull }}”</p>
-      <div>
-        <blockquote data-reveal style="--d:.1s">
-          {{- range .quote }}
-          <p>{{ . }}</p>
-          {{- end }}
-        </blockquote>
-        <figcaption data-reveal style="--d:.16s"><strong>{{ .name }}</strong> — {{ .context }}</figcaption>
-      </div>
+      <blockquote data-reveal style="--d:.1s">
+        {{- range .quote }}
+        <p>{{ . }}</p>
+        {{- end }}
+      </blockquote>
+      <figcaption data-reveal style="--d:.16s"><strong>{{ .name }}</strong> — {{ .context }}</figcaption>
     </figure>
     {{- end }}
     {{- with $r.tarot }}
     <div style="margin-top:clamp(56px,7vw,96px)">
-      <p class="label" data-reveal>And from my tarot readings, on the Maison Tarot page — tarot, not astrology, but the same reader</p>
-      <div class="quotes" style="margin-top:18px" data-reveal>
+      <p class="label" data-reveal id="tarot-reviews">And from my tarot readings, on the {{ with site.Params.maisonTarot }}<a class="link" href="{{ . }}" rel="noopener">Maison Tarot</a>{{ else }}Maison Tarot{{ end }} page — tarot, not astrology, but the same reader</p>
+      <div class="quotes" style="margin-top:18px" data-reveal tabindex="0" role="region" aria-labelledby="tarot-reviews">
         {{- range . }}
         <figure class="quote">
           <blockquote>“{{ .quote }}”</blockquote>

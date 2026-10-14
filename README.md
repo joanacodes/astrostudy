@@ -1,6 +1,6 @@
 # Astrostudy — site
 
-Birth chart readings for adults and synastry readings for couples, friends, coworkers and family.
+Birth chart readings for adults and synastry readings for couples, friends, co-workers and family.
 Hugo (v0.165, extended) · English (en-GB) · GitHub Pages · a live 3D meadow behind every page.
 
 ## Run it locally
@@ -37,7 +37,7 @@ Messages go through [FormSubmit](https://formsubmit.co) to **hello@astrostudy.co
 2. **Then hide the address** (recommended). After activation FormSubmit gives you a random alias. Put it in `hugo.toml` → `formEndpoint` and `formAjaxEndpoint` (`https://formsubmit.co/<alias>` and `https://formsubmit.co/ajax/<alias>`), so bots can’t read the address in the page source.
 3. People who write get an automatic confirmation (`_autoresponse` in `layouts/_partials/form.html`). Edit the wording there.
 
-The form asks for a name, an email, which reading, a message, optional birth details (yours, and for synastry the other person’s), and a 18+ confirmation — plus, for synastry, confirmation that the other person is an adult and that their details are shared with care. Spam is filtered with a hidden honeypot field.
+The form asks for a name, an email, which reading, a message, optional birth details (yours, and for synastry the other person’s), and an 18+ confirmation — plus, for synastry, confirmation that the other person is an adult and that their details are shared with care. Spam is filtered with a hidden honeypot field.
 
 ## The meadow
 

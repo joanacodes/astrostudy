@@ -1,6 +1,6 @@
 ---
 title: "Synastry readings"
-description: "Synastry readings for two adults — couples, friends, coworkers and family. Two birth charts side by side: where you flow, where you rub, and how to meet each other better."
+description: "Synastry readings for two adults — couples, friends, co-workers and family. Two birth charts side by side: where you flow, where you rub, and how to meet each other better."
 eyebrow: "Synastry readings · for two adults"
 h1: "Two charts, <em>one conversation.</em>"
 lede: "Synastry lays two birth charts side by side and reads how they speak to each other: where you flow, where you rub, and what each of you brings out in the other. It isn’t a score. It’s a way of understanding."
@@ -59,7 +59,7 @@ faq:
   - q: "Will you tell us whether we’re compatible?"
     a: "Not as a verdict. Every pair has easy contacts and hard ones; what matters is how you meet them. You’ll know where you flow and where to be careful — which is far more useful than a percentage."
   - q: "Can I ask for a reading without the other person?"
-    a: "For couples, friends and family, yes — most people ask on their own. I’ll only ask you to share their details with care, and I’ll read them as kindly as I read you. For coworkers, I ask that your colleague agrees first."
+    a: "For couples, friends and family, yes — most people ask on their own. I’ll only ask you to share their details with care, and I’ll read them as kindly as I read you. For co-workers, I ask that your colleague agrees first."
   - q: "Can we read a relationship that has ended?"
     a: "Yes, gently. Sometimes understanding why it hurt is the whole reading, and it can help you close the door softly."
 

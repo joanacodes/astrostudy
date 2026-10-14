@@ -13,7 +13,7 @@ h1: "Why some friends <em>feel like home.</em>"
 lede: "For the friendships that shape you — the one you call first, the one you’ve drifted from, the one that’s complicated. We look at what you give each other, how you talk, and why certain things always rub."
 facts:
   - { k: "For", v: "Two adults, 18+" }
-  - { k: "I need", v: "Both birth dates, times and places" }
+  - { k: "I need", v: "Both birth dates and places — times if you know them" }
   - { k: "You receive", v: "A reading about your friendship", param: "format" }
   - { k: "Price", v: "", param: "priceSynastry" }
 

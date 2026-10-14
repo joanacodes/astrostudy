@@ -1,7 +1,7 @@
 ---
 title: "Astrostudy"
 titleTail: "birth chart and synastry readings, written with care"
-description: "Birth chart readings for adults, and synastry readings for couples, friends, coworkers and family — written in soft, plain language by a reader who tested astrology before trusting it."
+description: "Birth chart readings for adults, and synastry readings for couples, friends, co-workers and family — written in soft, plain language by a reader who tested astrology before trusting it."
 eyebrow: "(Astrology readings — written with care — 18+)"
 h1: "Look up. <em>Then, gently, look in.</em>"
 lede: "Birth chart readings for adults, and synastry readings for the people you share your life with — partners, friends, colleagues, family. Read slowly and written softly, by someone who tested all of this before believing a word of it."
@@ -17,7 +17,7 @@ services:
     href: "/birth-chart/"
     cta: "About the birth chart reading"
     mark: "wheel"
-  - kicker: "For two · couples, friends, coworkers, family"
+  - kicker: "For two · couples, friends, co-workers, family"
     title: "Synastry <em>readings</em>"
     text: "Two charts side by side: what flows between you, where you rub, and how to meet each other better. Four readings, one for each kind of bond."
     href: "/synastry/"

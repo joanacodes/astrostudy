@@ -1,8 +1,8 @@
 {{- $id := .id }}
-{{- $preset := .reading | default "" }}
 <form class="form{{ if eq $id "page" }} form--page{{ end }}" action="{{ site.Params.formEndpoint }}" method="POST" accept-charset="UTF-8" data-form data-ajax="{{ site.Params.formAjaxEndpoint }}" data-email="{{ site.Params.email }}">
   <input type="hidden" name="_subject" value="New message — astrostudy.co.uk" data-subject>
   <input type="hidden" name="_template" value="table">
+  <input type="hidden" name="_captcha" value="false">
   <input type="hidden" name="_next" value="{{ "thank-you/" | absURL }}">
   <input type="hidden" name="_autoresponse" value="Thank you for writing to Astrostudy. Your message arrived safely — I read every one myself, and I’ll come back to you personally. If you didn’t mean to write, you can ignore this email.">
   <div class="honey" aria-hidden="true"><label>Leave this empty <input type="text" name="_honey" tabindex="-1" autocomplete="off"></label></div>
@@ -22,7 +22,7 @@
     <label for="{{ $id }}-reading">What would you like?</label>
     <select id="{{ $id }}-reading" name="reading" data-reading>
       {{- range hugo.Data.readings }}
-      <option value="{{ .label }}" data-id="{{ .id }}" data-kind="{{ .kind }}"{{ with .consent }} data-consent="{{ . }}"{{ end }}{{ if eq .id $preset }} selected{{ end }}>{{ .label }}</option>
+      <option value="{{ .label }}" data-id="{{ .id }}" data-kind="{{ .kind }}"{{ with .consent }} data-consent="{{ . }}"{{ end }}>{{ .label }}</option>
       {{- end }}
     </select>
   </div>
@@ -78,7 +78,7 @@
   </details>
 
   <label class="check"><input type="checkbox" name="adult" value="Yes, 18 or over" required><span>I’m 18 or over.</span></label>
-  <label class="check" data-pair hidden><input type="checkbox" name="other_adult" value="Yes" data-pair-required><span data-consent-text>The other person is 18 or over too, and I’m sharing their details with care.</span></label>
+  <label class="check" data-pair hidden><input type="checkbox" name="other_adult" value="The other person is 18 or over too, and I’m sharing their details with care." data-pair-required><span data-consent-text>The other person is 18 or over too, and I’m sharing their details with care.</span></label>
 
   <p class="fine">Your message reaches my inbox through FormSubmit, a form-to-email service. What happens to it next is in the <a href="{{ "privacy/" | relURL }}">privacy note</a>.</p>
 

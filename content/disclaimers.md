@@ -2,7 +2,7 @@
 title: "Disclaimers"
 description: "Everything Astrostudy has to say in one place: reflection and entertainment, adults only, what I won’t read, what I don’t claim, consent in synastry, and where to find help."
 eyebrow: "Disclaimers"
-h1: "Everything we have to say, <em>in one place.</em>"
+h1: "Everything I have to say, <em>in one place.</em>"
 lede: "Not small print to hide behind — the promises I make, and the limits I keep, so you know exactly where you stand."
 ---
 ## For reflection and entertainment {#entertainment}
@@ -38,7 +38,7 @@ Act on what you feel and know, not on what was said in a reading. A reading is n
 
 ## Synastry and consent {#consent}
 
-A synastry reading involves another person’s birth details. Both people must be adults. Please share someone else’s details only in a way you’d be comfortable telling them about — and for coworker readings, only with their agreement. I never use a chart to tell anyone to stay, leave, forgive, or cut someone off, and I never read anyone for hiring, firing or promotion.
+A synastry reading involves another person’s birth details. Both people must be adults. Please share someone else’s details only in a way you’d be comfortable telling them about — and for co-worker readings, only with their agreement. I never use a chart to tell anyone to stay, leave, forgive, or cut someone off, and I never read anyone for hiring, firing or promotion.
 
 ## If you’re struggling {#help}
 

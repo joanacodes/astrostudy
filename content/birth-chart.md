@@ -10,7 +10,7 @@ lede: "A birth chart is a picture of the sky at the minute you were born. Read s
 ctaLabel: "Request this reading"
 facts:
   - { k: "For", v: "Adults, 18+" }
-  - { k: "I need", v: "Date, time and place of birth" }
+  - { k: "I need", v: "Date and place of birth — and the time, if you know it" }
   - { k: "You receive", v: "A reading written for you", param: "format" }
   - { k: "Price", v: "", param: "priceBirthChart" }
 

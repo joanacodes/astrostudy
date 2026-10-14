@@ -22,13 +22,15 @@ I use them to answer you and, if we agree on a reading, to prepare and deliver i
 
 ## Someone else’s details
 
-For a synastry reading you may send another person’s birth details. Please do so only in a way you’d be comfortable telling them about — and for coworker readings, only with their agreement. I use their details for your reading alone.
+For a synastry reading you may send another person’s birth details. Please do so only in a way you’d be comfortable telling them about — and for co-worker readings, only with their agreement. I use their details for your reading alone.
 
 ## Who else touches it
 
 - **FormSubmit** ([formsubmit.co](https://formsubmit.co)) receives what you type in the form and forwards it to my inbox. Their own privacy terms, on their site, explain what they keep.
 - **My email provider** stores our messages.
 - **GitHub Pages** hosts this website and, like any web host, keeps short-lived technical logs (such as IP addresses) to keep the site running and secure.
+
+These services may store or process data outside the UK — GitHub, for example, is based in the United States. Each explains its own safeguards on its site.
 
 ## No cookies, no tracking
 

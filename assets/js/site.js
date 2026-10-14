@@ -3,6 +3,9 @@
 // Pages change without a full reload, so the sky keeps drifting while you move around the site.
 // Everything still works as plain links and a plain form if this script never runs.
 
+// Tells the safety net in <head> that the page is in good hands (see head.html).
+window.__astro = true;
+
 const reduce = matchMedia('(prefers-reduced-motion: reduce)');
 const $ = (s, r = document) => r.querySelector(s);
 const $$ = (s, r = document) => Array.from(r.querySelectorAll(s));
@@ -114,7 +117,7 @@ function faqs(root) {
 }
 
 /* ---------------------------------------------------------------------------------------------
-   The mobile menu. */
+   The mobile menu. While it's open the page behind it is inert, so Tab stays in the menu. */
 
 const menuBtn = $('[data-menu]');
 const drawer = $('#drawer');
@@ -123,6 +126,7 @@ function setMenu(open) {
   document.body.classList.toggle('menu-open', open);
   menuBtn.setAttribute('aria-expanded', String(open));
   drawer.inert = !open;
+  for (const el of [$('main'), $('.footer')]) if (el) el.inert = open;
   const label = $('[data-menu-label]', menuBtn);
   if (label) label.textContent = open ? 'Close' : 'Menu';
   if (open) drawer.querySelector('a')?.focus({ preventScroll: true });
@@ -133,6 +137,10 @@ addEventListener('keydown', (e) => {
     setMenu(false);
     menuBtn.focus();
   }
+});
+// the menu only exists on narrow screens; widening the window must not leave it covering the page
+matchMedia('(min-width: 861px)').addEventListener?.('change', (e) => {
+  if (e.matches) setMenu(false);
 });
 
 /* ---------------------------------------------------------------------------------------------
@@ -156,19 +164,26 @@ function wireForm(form) {
   const subject = form.querySelector('[data-subject]');
   const status = form.querySelector('[data-status]');
   const button = form.querySelector('[data-submit]');
+  const consent = form.querySelector('[data-pair-required]');
+  const consentText = form.querySelector('[data-consent-text]');
   const sent = form.nextElementSibling?.matches('[data-sent]') ? form.nextElementSibling : null;
 
   const sync = () => {
     const opt = select.selectedOptions[0];
     const pair = opt?.dataset.kind === 'pair';
-    for (const el of form.querySelectorAll('[data-pair]')) el.hidden = !pair;
-    const consent = form.querySelector('[data-pair-required]');
+    // Hidden and disabled: nothing about another person is sent unless the reading is about two.
+    for (const el of form.querySelectorAll('[data-pair]')) {
+      el.hidden = !pair;
+      if (el.matches('fieldset')) el.disabled = !pair;
+      else el.querySelectorAll('input, select, textarea').forEach((c) => (c.disabled = !pair));
+    }
     if (consent) consent.required = pair;
-    // coworker readings ask for the colleague's agreement, not just care
-    const consentText = form.querySelector('[data-consent-text]');
+    // coworker readings ask for the colleague's agreement, not just care; the email records
+    // exactly the sentence that was ticked
     if (consentText) {
       consentText.dataset.default ??= consentText.textContent;
       consentText.textContent = opt?.dataset.consent || consentText.dataset.default;
+      if (consent) consent.value = consentText.textContent;
     }
     if (subject) subject.value = `New message — ${opt && opt.dataset.id !== 'unsure' ? opt.value : 'astrostudy.co.uk'}`;
   };
@@ -227,6 +242,11 @@ function wireForm(form) {
   });
 }
 
+/* ---------------------------------------------------------------------------------------------
+   The contact sheet. It closes with a short animation; a second Esc (or Android's back) can close
+   it natively mid-way, so every path tidies up after itself. */
+
+let pendingClose = null;
 function openContact(readingId) {
   if (!sheet || typeof sheet.showModal !== 'function') return false;
   const form = sheet.querySelector('[data-form]');
@@ -238,7 +258,8 @@ function openContact(readingId) {
   }
   if (readingId) preset(form, readingId);
   setMenu(false);
-  sheet.showModal();
+  sheet.classList.remove('is-closing');
+  if (!sheet.open) sheet.showModal();
   document.body.classList.add('contact-open');
   return true;
 }
@@ -249,35 +270,48 @@ function closeContact() {
     return;
   }
   sheet.classList.add('is-closing');
-  sheet.addEventListener(
-    'animationend',
-    () => {
-      sheet.classList.remove('is-closing');
-      sheet.close();
-    },
-    { once: true }
-  );
+  pendingClose = (e) => {
+    if (e.target !== sheet || e.animationName !== 'sheet-out') return;
+    sheet.close();
+  };
+  sheet.addEventListener('animationend', pendingClose);
 }
 if (sheet) {
   wireForm(sheet.querySelector('[data-form]'));
-  sheet.addEventListener('close', () => document.body.classList.remove('contact-open'));
+  sheet.addEventListener('close', () => {
+    sheet.classList.remove('is-closing');
+    if (pendingClose) sheet.removeEventListener('animationend', pendingClose);
+    pendingClose = null;
+    document.body.classList.remove('contact-open');
+  });
   sheet.addEventListener('cancel', (e) => {
     e.preventDefault();
     closeContact();
   });
+  // Only a press that starts and ends on the backdrop closes the sheet, so selecting text in the
+  // form and letting go outside it doesn't throw the message away.
+  const outside = (e) => {
+    const r = sheet.getBoundingClientRect();
+    return e.clientX < r.left || e.clientX > r.right || e.clientY < r.top || e.clientY > r.bottom;
+  };
+  let downOutside = false;
+  sheet.addEventListener('pointerdown', (e) => {
+    downOutside = e.target === sheet && outside(e);
+  });
   sheet.addEventListener('click', (e) => {
     if (e.target.closest('[data-close]')) return closeContact();
-    if (e.target !== sheet) return;
-    const r = sheet.getBoundingClientRect();
-    if (e.clientX < r.left || e.clientX > r.right || e.clientY < r.top || e.clientY > r.bottom) closeContact();
+    if (e.target === sheet && downOutside && outside(e)) closeContact();
+    downOutside = false;
   });
 }
 
 /* ---------------------------------------------------------------------------------------------
-   Moving between pages without reloading the meadow. */
+   Moving between pages without reloading the meadow. The newest navigation always wins; scroll
+   positions live in history entries so Back, Forward and reloads land where you were. */
 
 const cache = new Map();
-let navigating = false;
+let navToken = 0;
+let shown = location.pathname + location.search;
 
 function classify(a) {
   if (!a || !a.href || a.hasAttribute('download') || a.hasAttribute('data-no-route')) return null;
@@ -302,10 +336,15 @@ function fetchPage(url) {
   return cache.get(key);
 }
 
-function scrollToHash(hash, smooth) {
-  const el = hash && document.getElementById(decodeURIComponent(hash.slice(1)));
+function scrollToHash(hash, smooth, focus = false) {
+  const el = hash && hash.length > 1 && document.getElementById(decodeURIComponent(hash.slice(1)));
   if (!el) return false;
   el.scrollIntoView({ behavior: smooth && !reduce.matches ? 'smooth' : 'auto', block: 'start' });
+  if (focus) {
+    // move keyboard focus too, or the next Tab starts back at the top of the page
+    if (!el.matches('a[href], button, input, select, textarea, [tabindex]')) el.setAttribute('tabindex', '-1');
+    el.focus({ preventScroll: true });
+  }
   return true;
 }
 
@@ -326,26 +365,35 @@ function swapHead(doc) {
   }
 }
 
+function saveY() {
+  try {
+    history.replaceState({ ...(history.state || {}), y: scrollY }, '');
+  } catch {
+    // Safari throttles history writes; losing one position is harmless
+  }
+}
+
 async function go(href, { push = true, y = null } = {}) {
-  if (navigating) return;
-  navigating = true;
+  const token = ++navToken;
   const html = document.documentElement;
   try {
     const textP = fetchPage(href);
     setMenu(false);
     if (sheet?.open) sheet.close();
+    if (push) saveY();
     html.classList.add('is-leaving');
     await wait(reduce.matches ? 0 : 380);
-    const doc = new DOMParser().parseFromString(await textP, 'text/html');
+    const text = await textP;
+    if (token !== navToken) return; // somebody clicked again, or pressed Back: theirs wins
+    const doc = new DOMParser().parseFromString(text, 'text/html');
     const next = doc.querySelector('main');
     if (!next) throw new Error('no <main>');
-    if (push) {
-      history.replaceState({ ...(history.state || {}), y: scrollY }, '');
-      history.pushState({ y: 0 }, '', href);
-    }
+    if (push) history.pushState({ y: null }, '', href);
+    shown = location.pathname + location.search;
     swapHead(doc);
-    const main = $('main');
-    main.replaceWith(document.importNode(next, true));
+    io?.disconnect();
+    io = null;
+    $('main').replaceWith(document.importNode(next, true));
     document.body.dataset.page = doc.body.dataset.page || '';
     const nav = $('[data-nav]');
     const nextNav = doc.querySelector('[data-nav]');
@@ -364,17 +412,35 @@ async function go(href, { push = true, y = null } = {}) {
     dispatchEvent(new CustomEvent('astro:page'));
   } catch (err) {
     console.warn('[router]', err);
-    location.href = href;
-  } finally {
-    navigating = false;
+    if (token === navToken) location.href = href;
   }
 }
 
-if ('fetch' in window && 'DOMParser' in window && history.pushState) {
-  // We restore scroll positions ourselves (pages are swapped in place), including after a reload.
+const routing = 'fetch' in window && 'DOMParser' in window && !!history.pushState;
+if (routing) {
   history.scrollRestoration = 'manual';
-  addEventListener('pagehide', () => history.replaceState({ ...(history.state || {}), y: scrollY }, ''));
-  addEventListener('popstate', (e) => go(location.href, { push: false, y: e.state?.y ?? 0 }));
+  let saveTimer = 0;
+  addEventListener(
+    'scroll',
+    () => {
+      clearTimeout(saveTimer);
+      saveTimer = setTimeout(saveY, 250);
+    },
+    { passive: true }
+  );
+  addEventListener('pagehide', saveY);
+  addEventListener('popstate', (e) => {
+    const y = typeof e.state?.y === 'number' ? e.state.y : null;
+    if (location.pathname + location.search === shown) {
+      // the same page, another anchor: just move there (and cancel any page change in flight)
+      navToken++;
+      document.documentElement.classList.remove('is-leaving');
+      if (y != null) scrollTo(0, y);
+      else if (!scrollToHash(location.hash, false)) scrollTo(0, 0);
+      return;
+    }
+    go(location.href, { push: false, y });
+  });
   // warm the next page while the pointer is still on its way to the link
   addEventListener(
     'pointerover',
@@ -396,20 +462,20 @@ document.addEventListener('click', (e) => {
   const a = e.target.closest('a');
   const kind = classify(a);
   if (!kind) return;
-  if (kind === 'hash') {
+  if (kind === 'hash' || kind === 'same') {
     e.preventDefault();
+    setMenu(false);
+    if (sheet?.open) sheet.close();
     const url = new URL(a.href);
-    if (scrollToHash(url.hash, true)) history.pushState(history.state, '', url.hash);
-    setMenu(false);
+    if (kind === 'hash') {
+      if (routing) saveY();
+      if (scrollToHash(url.hash, true, true) && routing) history.pushState({ y: null }, '', url.hash);
+    } else {
+      scrollTo({ top: 0, behavior: reduce.matches ? 'auto' : 'smooth' });
+    }
     return;
   }
-  if (kind === 'same') {
-    e.preventDefault();
-    setMenu(false);
-    scrollTo({ top: 0, behavior: reduce.matches ? 'auto' : 'smooth' });
-    return;
-  }
-  if (!('DOMParser' in window)) return;
+  if (!routing) return;
   e.preventDefault();
   go(a.href);
 });
@@ -431,6 +497,7 @@ function initPage(root) {
 }
 
 initPage(document);
-const reloaded = performance.getEntriesByType?.('navigation')[0]?.type === 'reload';
-if (reloaded && history.state?.y) requestAnimationFrame(() => scrollTo(0, history.state.y));
+const arrival = performance.getEntriesByType?.('navigation')[0]?.type;
+const savedY = typeof history.state?.y === 'number' ? history.state.y : null;
+if ((arrival === 'reload' || arrival === 'back_forward') && savedY != null) requestAnimationFrame(() => scrollTo(0, savedY));
 else if (location.hash) requestAnimationFrame(() => scrollToHash(location.hash, false));

@@ -13,7 +13,7 @@ h1: "How you love, <em>side by side.</em>"
 lede: "For partners at any stage — the first months, the long middle, the hard patch. We look at what draws you together, what makes each of you feel safe, how you fight, and how you find your way back."
 facts:
   - { k: "For", v: "Two adults, 18+" }
-  - { k: "I need", v: "Both birth dates, times and places" }
+  - { k: "I need", v: "Both birth dates and places — times if you know them" }
   - { k: "You receive", v: "A reading about the two of you", param: "format" }
   - { k: "Price", v: "", param: "priceSynastry" }
 

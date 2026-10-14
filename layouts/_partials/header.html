@@ -3,14 +3,14 @@
   <nav class="nav" aria-label="Main" data-nav>
     {{- $page := . }}
     {{- range site.Menus.main }}
-    <a href="{{ .URL }}"{{ if or ($page.IsMenuCurrent "main" .) ($page.HasMenuCurrent "main" .) }} aria-current="page"{{ end }}>{{ .Name }}</a>
+    <a href="{{ .URL }}"{{ if $page.IsMenuCurrent "main" . }} aria-current="page"{{ else if $page.HasMenuCurrent "main" . }} aria-current="true"{{ end }}>{{ .Name }}</a>
     {{- end }}
   </nav>
   <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="drawer" data-menu><span class="menu-toggle__lines" aria-hidden="true"></span><span data-menu-label>Menu</span></button>
 </header>
-<div class="drawer" id="drawer" inert>
+<nav class="drawer" id="drawer" aria-label="Menu" inert>
   <a href="{{ site.Home.RelPermalink }}">Home</a>
   {{- range site.Menus.main }}
   <a href="{{ .URL }}">{{ .Name }}</a>
   {{- end }}
-</div>
+</nav>

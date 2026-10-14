@@ -10,10 +10,11 @@ disableKinds = ["taxonomy", "term", "rss"]
 
 [params]
   brand = "Astrostudy"
-  description = "Birth chart readings for adults and synastry readings for couples, friends, coworkers and family. Written in soft, plain language, by someone who tested astrology before trusting it."
+  description = "Birth chart readings for adults and synastry readings for couples, friends, co-workers and family. Written in soft, plain language, by someone who tested astrology before trusting it."
   email = "hello@astrostudy.co.uk"
   # FormSubmit: the first message sent triggers an activation email to this address. Click "Activate" once.
-  # After activation FormSubmit offers a random alias (formsubmit.co/el/xxxx): paste it here to hide the address from bots.
+  # After activation FormSubmit offers a random alias (formsubmit.co/el/xxxx): paste it into both lines below so the
+  # address isn't in the form's code. It still appears where the site shows it on purpose (footer, contact page).
   formEndpoint = "https://formsubmit.co/hello@astrostudy.co.uk"
   formAjaxEndpoint = "https://formsubmit.co/ajax/hello@astrostudy.co.uk"
   # Empty = hidden. Fill when ready.

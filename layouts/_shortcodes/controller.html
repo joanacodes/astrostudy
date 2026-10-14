@@ -1,5 +1,6 @@
 {{- with site.Params.legal.controllerName -}}
 Astrostudy is run by {{ . }}{{ with site.Params.legal.controllerAddress }}, {{ . }}{{ end }}, who is responsible for your data (the “controller”, in UK GDPR terms).
 {{- else -}}
-{{ if not hugo.IsProduction }}<mark>[fill in hugo.toml → params.legal.controllerName]</mark> {{ end }}The person who runs Astrostudy is responsible for your data (the “controller”, in UK GDPR terms).
+{{- if hugo.IsProduction }}{{ warnf "privacy: params.legal.controllerName is empty — UK GDPR asks the privacy notice to name who is responsible for the data." }}{{ else }}<mark>[fill in hugo.toml → params.legal.controllerName]</mark> {{ end -}}
+The person who runs Astrostudy is responsible for your data (the “controller”, in UK GDPR terms).
 {{- end -}}

@@ -49,6 +49,8 @@ function useVideo() {
   v.addEventListener('playing', () => host.classList.add('is-video'), { once: true });
   host.appendChild(v);
   v.play().catch(() => {});
+  // asking for less motion mid-visit stills the film too
+  reduce.addEventListener?.('change', (e) => (e.matches ? v.pause() : v.play().catch(() => {})));
   // the film cannot tilt like the live camera, so it slides a little instead
   const tilt = () => {
     v.style.transform = `translate3d(0, ${(scrollProgress() * 7).toFixed(2)}%, 0) scale(1.16)`;

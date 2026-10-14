@@ -3,5 +3,5 @@
 - { id: "birth-chart", label: "Birth chart reading", kind: "single", page: "/birth-chart/" }
 - { id: "synastry-couples", label: "Synastry — couples", kind: "pair", page: "/synastry/couples/" }
 - { id: "synastry-friends", label: "Synastry — friends", kind: "pair", page: "/synastry/friends/" }
-- { id: "synastry-coworkers", label: "Synastry — coworkers", kind: "pair", page: "/synastry/coworkers/", consent: "My colleague is 18 or over too, and has agreed to share their birth details." }
+- { id: "synastry-coworkers", label: "Synastry — co-workers", kind: "pair", page: "/synastry/coworkers/", consent: "My colleague is 18 or over too, and has agreed to share their birth details." }
 - { id: "synastry-family", label: "Synastry — family", kind: "pair", page: "/synastry/family/" }

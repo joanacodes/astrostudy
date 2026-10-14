@@ -1,19 +1,19 @@
 ---
-title: "Synastry for coworkers"
-short: "Coworkers"
+title: "Synastry for co-workers"
+short: "Co-workers"
 summary: "For colleagues, co-founders and duos at work: how you communicate, decide, share the load and handle pressure."
-linkLabel: "Synastry for coworkers"
+linkLabel: "Synastry for co-workers"
 weight: 30
 type: reading
 reading: "synastry-coworkers"
 figure: "synastry"
-description: "Coworker synastry for two consenting adults: communication (Mercury), pace and drive (Mars), structure and responsibility (Saturn), leadership, and everyday working life. Never for hiring or firing."
-eyebrow: "Synastry · coworkers · two adults"
+description: "Co-worker synastry for two consenting adults: communication (Mercury), pace and drive (Mars), structure and responsibility (Saturn), leadership, and everyday working life. Never for hiring or firing."
+eyebrow: "Synastry · co-workers · two adults"
 h1: "Work better together, <em>without guessing.</em>"
 lede: "For colleagues, co-founders, a manager and their report, two freelancers sharing a project. We look at how you communicate, decide, share the load and handle pressure — so the work gets easier and the friction gets smaller."
 facts:
   - { k: "For", v: "Two adults who both agree" }
-  - { k: "I need", v: "Both birth dates, times and places" }
+  - { k: "I need", v: "Both birth dates and places — times if you know them" }
   - { k: "You receive", v: "A reading about how you work together", param: "format" }
   - { k: "Price", v: "", param: "priceSynastry" }
 
@@ -48,7 +48,7 @@ care:
     - title: "Never for hiring, firing or promotion"
       text: "A chart is not a fair basis for decisions about anyone’s job — and asking for someone’s birth date for that would be discrimination. I don’t take those requests."
     - title: "Ask your colleague first"
-      text: "Work is not the place for secrets. A coworker reading needs your colleague’s agreement to share their birth details."
+      text: "Work is not the place for secrets. A co-worker reading needs your colleague’s agreement to share their birth details."
     - title: "Both sides, fairly"
       text: "I read your colleague with the same respect I’d give them if they were sitting next to you."
     - title: "When work hurts"
@@ -69,5 +69,5 @@ closing:
   kicker: "For the two of you"
   title: "Let’s read <em>how you work.</em>"
   text: "Tell me about the partnership, and confirm your colleague is happy to take part. I’ll ask for both sets of birth details when you’re both ready."
-  cta: "Request a coworker reading"
+  cta: "Request a co-worker reading"
 ---

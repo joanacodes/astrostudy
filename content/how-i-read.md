@@ -50,4 +50,4 @@ Sometimes what someone carries is psychological, sometimes medical. In those mom
 
 ## The same reader, elsewhere
 
-I also read and teach tarot, at Maison Tarot. Same person, same rules: no guru, no gift you don’t have yourself, and the misses counted along with the hits.
+I also read and teach tarot, at {{< maison-tarot >}}. Same person, same rules: no guru, no gift you don’t have yourself, and the misses counted along with the hits.

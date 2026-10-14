@@ -8,4 +8,4 @@ noindex: true
 sitemap:
   disable: true
 ---
-In the meantime, there’s nothing you need to do. If you’d like, you can read [how I read](/how-i-read/), or go back to [the meadow](/).
+In the meantime, there’s nothing you need to do.{{< reply-time >}} If you’d like, you can read [how I read](/how-i-read/), or go back to [the meadow](/).
