@@ -113,6 +113,86 @@ function faqs(root) {
 }
 
 /* ---------------------------------------------------------------------------------------------
+   The dropdown in the top bar (Synastry). Its listeners sit on the bar itself, not on the button:
+   the bar's contents are replaced on every page change (to mark the current page), the bar stays.
+   A mouse opens it by resting on it and closes it by leaving, with a moment's grace either way; a
+   click, Enter or Space toggles it; the arrow keys move through it; Esc closes it and hands the
+   focus back to the button. */
+
+const navBar = $('[data-nav]');
+let navTimer = 0;
+let hoverOpenedAt = 0;
+const groupOpen = (group) => group.querySelector('.nav__toggle')?.getAttribute('aria-expanded') === 'true';
+function setGroup(group, open) {
+  const button = group?.querySelector('.nav__toggle');
+  const menu = group?.querySelector('.nav__menu');
+  if (!button || !menu) return;
+  button.setAttribute('aria-expanded', String(open));
+  menu.hidden = !open;
+}
+function closeGroups(except) {
+  for (const group of $$('[data-navgroup]', navBar)) if (group !== except) setGroup(group, false);
+}
+if (navBar) {
+  navBar.addEventListener('pointerover', (e) => {
+    if (e.pointerType !== 'mouse') return;
+    const group = e.target.closest('[data-navgroup]');
+    if (!group) return;
+    clearTimeout(navTimer);
+    if (groupOpen(group)) return;
+    navTimer = setTimeout(() => {
+      closeGroups(group);
+      setGroup(group, true);
+      hoverOpenedAt = performance.now();
+    }, 70);
+  });
+  navBar.addEventListener('pointerout', (e) => {
+    if (e.pointerType !== 'mouse') return;
+    const group = e.target.closest('[data-navgroup]');
+    if (!group || group.contains(e.relatedTarget)) return;
+    clearTimeout(navTimer);
+    navTimer = setTimeout(() => setGroup(group, false), 240);
+  });
+  navBar.addEventListener('click', (e) => {
+    const button = e.target.closest('.nav__toggle');
+    if (!button) return;
+    const group = button.closest('[data-navgroup]');
+    clearTimeout(navTimer);
+    // a click just after the mouse opened it would only shut it again: it stays open
+    if (groupOpen(group) && performance.now() - hoverOpenedAt < 600) return;
+    closeGroups(group);
+    setGroup(group, !groupOpen(group));
+  });
+  navBar.addEventListener('keydown', (e) => {
+    const group = e.target.closest('[data-navgroup]');
+    if (!group) return;
+    const button = group.querySelector('.nav__toggle');
+    const links = $$('.nav__menu a', group);
+    const at = links.indexOf(e.target);
+    if (e.key === 'Escape' && groupOpen(group)) {
+      e.preventDefault();
+      setGroup(group, false);
+      button.focus();
+    } else if (e.key === 'ArrowDown') {
+      e.preventDefault();
+      setGroup(group, true);
+      links[at < 0 ? 0 : (at + 1) % links.length]?.focus();
+    } else if (e.key === 'ArrowUp' && at >= 0) {
+      e.preventDefault();
+      (at === 0 ? button : links[at - 1]).focus();
+    }
+  });
+  // focus moving out of the group, or a click anywhere else, closes it
+  navBar.addEventListener('focusout', (e) => {
+    const group = e.target.closest('[data-navgroup]');
+    if (group && !group.contains(e.relatedTarget)) setGroup(group, false);
+  });
+  document.addEventListener('click', (e) => {
+    if (!navBar.contains(e.target)) closeGroups();
+  });
+}
+
+/* ---------------------------------------------------------------------------------------------
    The mobile menu. While it's open the page behind it is inert, so Tab stays in the menu. */
 
 const menuBtn = $('[data-menu]');

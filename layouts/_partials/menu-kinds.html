@@ -1,0 +1,5 @@
+{{- /* The readings under a menu entry, when that entry is a section (Synastry): its pages in their
+       weight order, for the dropdowns in the top bar and the phone menu. Anything else: none. */ -}}
+{{- $kinds := slice }}
+{{- with .Page }}{{ if .IsSection }}{{ $kinds = .RegularPages.ByWeight }}{{ end }}{{ end }}
+{{- return $kinds }}

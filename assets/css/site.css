@@ -398,22 +398,133 @@ p {
   border: 1px solid rgba(255, 255, 255, 0.55);
   box-shadow: 0 10px 40px -20px rgba(20, 40, 20, 0.35);
 }
-.nav a {
+.nav > a,
+.nav__toggle {
   position: relative;
+  font: inherit;
   font-size: 0.8rem;
   letter-spacing: 0.01em;
   padding: 8px 15px;
+  border: 0;
   border-radius: 999px;
+  background: none;
   text-decoration: none;
   color: var(--ink);
+  cursor: pointer;
   transition: background 0.4s var(--ease), color 0.4s var(--ease);
 }
-.nav a:hover {
+.nav > a:hover,
+.nav__toggle:hover,
+.nav__toggle[aria-expanded="true"] {
   background: rgba(28, 33, 27, 0.06);
 }
-.nav a[aria-current] {
+.nav > a[aria-current],
+.nav__toggle[aria-current] {
   background: var(--ink);
   color: var(--paper);
+}
+
+/* The Synastry group in the top bar: the button, then a card of the readings under it. The card is
+   nearly opaque because the bar's own glass would keep it from blurring what lies behind. */
+.nav__group {
+  position: relative;
+}
+.nav__toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+}
+.nav__chevron {
+  width: 6px;
+  height: 6px;
+  margin-top: -3px;
+  border-right: 1.25px solid currentColor;
+  border-bottom: 1.25px solid currentColor;
+  transform: rotate(45deg);
+  transition: transform 0.45s var(--ease-out), margin 0.45s var(--ease-out);
+}
+.nav__toggle[aria-expanded="true"] .nav__chevron {
+  margin-top: 3px;
+  transform: rotate(-135deg);
+}
+.nav__menu {
+  position: absolute;
+  top: calc(100% + 13px);
+  left: 50%;
+  translate: -50% 0;
+  z-index: 2;
+  display: grid;
+  min-width: 230px;
+  padding: 8px;
+  border-radius: 18px;
+  background: rgba(248, 247, 242, 0.96);
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  box-shadow: 0 24px 60px -24px rgba(18, 38, 18, 0.45);
+  text-align: left;
+}
+.nav__menu:not([hidden]) {
+  animation: nav-menu-in 0.4s var(--ease-out);
+}
+@keyframes nav-menu-in {
+  from {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+}
+/* a bridge over the gap under the button, so the pointer never "leaves" on its way down */
+.nav__menu::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 100%;
+  height: 14px;
+}
+.nav__menu a {
+  display: block;
+  padding: 10px 14px;
+  border-radius: 12px;
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  letter-spacing: -0.01em;
+  text-decoration: none;
+  color: var(--ink-2);
+  transition: background 0.3s var(--ease), color 0.3s var(--ease);
+}
+.nav__menu a:hover {
+  background: rgba(28, 33, 27, 0.06);
+  color: var(--ink);
+}
+.nav__menu a[aria-current] {
+  color: var(--ink);
+}
+.nav__menu a[aria-current]::before {
+  content: "";
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  margin-right: 0.55em;
+  border-radius: 50%;
+  background: var(--accent);
+  vertical-align: middle;
+}
+.nav__menu .nav__all {
+  margin-top: 6px;
+  padding-top: 13px;
+  border-top: 1px solid var(--line);
+  border-radius: 0 0 12px 12px;
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink);
+}
+/* without the script, hovering or tabbing into the group opens it (past the rule that keeps
+   anything [hidden] hidden) */
+.no-js .nav__group:hover .nav__menu[hidden],
+.no-js .nav__group:focus-within .nav__menu[hidden] {
+  display: grid !important;
 }
 .header .brand {
   margin-left: 0;
@@ -437,7 +548,8 @@ p {
 }
 .brand,
 .nav,
-.nav a,
+.nav > a,
+.nav__toggle,
 .menu-toggle {
   transition: color 0.6s var(--ease), background-color 0.6s var(--ease), border-color 0.6s var(--ease);
 }

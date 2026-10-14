@@ -7,7 +7,23 @@
     {{- with $m.Params.fragment }}
     <a href="{{ site.Home.RelPermalink }}#{{ . }}">{{ $m.Name }}</a>
     {{- else }}
-    <a href="{{ .URL }}"{{ if $page.IsMenuCurrent "main" . }} aria-current="page"{{ else if $page.HasMenuCurrent "main" . }} aria-current="true"{{ end }}>{{ .Name }}</a>
+    {{- $kinds := partial "menu-kinds.html" $m }}
+    {{- if $kinds }}
+    {{- /* The same group as in the phone menu: a button that opens on hover or click, the readings,
+           then the overview. Without the script, hovering or tabbing into it opens it too (CSS). */}}
+    {{- $id := printf "nav-%s" (anchorize $m.Name) }}
+    <div class="nav__group" data-navgroup>
+      <button class="nav__toggle" type="button" aria-expanded="false" aria-controls="{{ $id }}"{{ if or ($page.IsMenuCurrent "main" $m) ($page.HasMenuCurrent "main" $m) }} aria-current="true"{{ end }}>{{ $m.Name }}<span class="nav__chevron" aria-hidden="true"></span></button>
+      <div class="nav__menu" id="{{ $id }}" hidden>
+        {{- range $kinds }}
+        <a href="{{ .RelPermalink }}"{{ if eq .RelPermalink $page.RelPermalink }} aria-current="page"{{ end }}>{{ .Params.short | default .LinkTitle }}</a>
+        {{- end }}
+        <a class="nav__all" href="{{ $m.URL }}"{{ if $page.IsMenuCurrent "main" $m }} aria-current="page"{{ end }}>{{ i18n "seeAll" }}<span class="visually-hidden"> — {{ $m.Name }}</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </div>
+    {{- else }}
+    <a href="{{ $m.URL }}"{{ if $page.IsMenuCurrent "main" $m }} aria-current="page"{{ else if $page.HasMenuCurrent "main" $m }} aria-current="true"{{ end }}>{{ $m.Name }}</a>
+    {{- end }}
     {{- end }}
     {{- end }}
     <a class="nav__lang" href="{{ $other.url }}" hreflang="{{ $other.locale }}" lang="{{ $other.locale }}" aria-label="{{ i18n "otherLangHint" }}" data-lang-link>{{ i18n "otherLangShort" }}</a>
@@ -20,8 +36,7 @@
   {{- with $m.Params.fragment }}
   <a href="{{ site.Home.RelPermalink }}#{{ . }}">{{ $m.Name }}</a>
   {{- else }}
-  {{- $kinds := slice }}
-  {{- with $m.Page }}{{ if .IsSection }}{{ $kinds = .RegularPages.ByWeight }}{{ end }}{{ end }}
+  {{- $kinds := partial "menu-kinds.html" $m }}
   {{- if $kinds }}
   {{- /* A section with readings under it (Synastry) opens in place, so a phone reaches a kind of
          reading in one tap; the overview stays one tap further, as "See all". New readings added to
