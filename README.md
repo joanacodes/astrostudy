@@ -121,7 +121,7 @@ The background is rendered live in the visitor’s browser with WebGL2 — no vi
 - **Droplets**: traced as tiny lenses (the sky upside-down inside, the sun caught on the skin); out of focus they open into soft discs, as a real lens would. Plus a little pollen in the air.
 - **Film**: bloom, AgX tone curve, a soft warm grade, a whisper of lateral colour, vignette, grain.
 
-It adapts itself: three quality levels, chosen from the device and lowered automatically if frames run slow. It pauses when the tab is hidden. The page changes without reloading, so the sky keeps drifting from page to page.
+It adapts itself: three quality levels, chosen from the device and lowered automatically if frames run slow, with the work capped on big screens so the page itself always has room. It pauses when the tab is hidden, while only paper is on screen, and — on a laptop or desktop — while the page is being scrolled, easing its tilt to the new place a moment after: scrolling stays smooth on big screens, and phones keep the tilt following the finger. The page changes without reloading, so the sky keeps drifting from page to page.
 
 **Fallbacks**, in order: live scene → pre-rendered 16-second video loop (`static/media/meadow-loop-wide` and `-tall`, VP9 `.webm` first, H.264 `.mp4` for browsers that can’t play it) if WebGL2 is missing or the device can’t keep up → the still poster. Visitors who ask their device for reduced motion get the still poster on purpose, and all text appears without animation.
 

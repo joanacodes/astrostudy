@@ -91,7 +91,31 @@ async function boot() {
   // a window between sheets, the closing sky) is on screen: it saves battery, and the browser no
   // longer has to re-blur the backdrop behind every sheet thirty times a second.
   const open = new Set();
-  const update = () => (!document.hidden && !reduce.matches && open.size > 0 ? meadow.start() : meadow.stop());
+  // On a laptop or desktop the scene also holds still while the page scrolls, and eases its tilt
+  // to the new place a moment after: the graphics card then only has the page and its glass to
+  // move, which keeps scrolling smooth on big screens. Phones scroll smoothly either way, so there
+  // the tilt keeps following the finger.
+  const fine = matchMedia('(pointer: fine)');
+  let scrolling = false;
+  let settle = 0;
+  const update = () =>
+    !document.hidden && !reduce.matches && open.size > 0 && !scrolling ? meadow.start() : meadow.stop();
+  addEventListener(
+    'scroll',
+    () => {
+      if (!fine.matches) return;
+      clearTimeout(settle);
+      if (!scrolling) {
+        scrolling = true;
+        update();
+      }
+      settle = setTimeout(() => {
+        scrolling = false;
+        update();
+      }, 160);
+    },
+    { passive: true }
+  );
   const io = new IntersectionObserver(
     (entries) => {
       for (const e of entries) e.isIntersecting ? open.add(e.target) : open.delete(e.target);

@@ -21,7 +21,7 @@ export const OPENING_MOMENT = 1000;
 
 const PRESETS = {
   capture: { scale: 1.0, dprCap: 1, cloudScale: 0.75, cloudSteps: 96, density: 1.0, noise: 96 },
-  high: { scale: 1.0, dprCap: 1.75, cloudScale: 0.5, cloudSteps: 56, density: 1.0, noise: 96 },
+  high: { scale: 1.0, dprCap: 1.5, cloudScale: 0.5, cloudSteps: 56, density: 1.0, noise: 96 },
   medium: { scale: 0.8, dprCap: 1.5, cloudScale: 0.42, cloudSteps: 44, density: 0.78, noise: 64 },
   low: { scale: 0.62, dprCap: 1.25, cloudScale: 0.34, cloudSteps: 30, density: 0.55, noise: 64 },
 };
@@ -299,8 +299,9 @@ export function createMeadow(canvas, opts = {}) {
     const dpr = capture ? 1 : Math.min(window.devicePixelRatio || 1, q.dprCap);
     const cw = capture ? capture.width : Math.max(1, Math.round(canvas.clientWidth * dpr));
     const ch = capture ? capture.height : Math.max(1, Math.round(canvas.clientHeight * dpr));
-    // Big screens don't need every pixel of a soft, blurred scene: cap the work, not the size.
-    const sceneCap = capture ? Infinity : 2.4e6, cloudCap = capture ? Infinity : 0.55e6;
+    // Big screens don't need every pixel of a soft, blurred scene: cap the work, not the size. The
+    // caps leave a laptop's graphics card room for the page itself (its glass, its scrolling).
+    const sceneCap = capture ? Infinity : 1.8e6, cloudCap = capture ? Infinity : 0.45e6;
     const s1 = Math.min(q.scale, Math.sqrt(sceneCap / (cw * ch)));
     const sw = Math.max(1, Math.round(cw * s1)), sh = Math.max(1, Math.round(ch * s1));
     const k1 = Math.min(q.cloudScale, Math.sqrt(cloudCap / (sw * sh)));
