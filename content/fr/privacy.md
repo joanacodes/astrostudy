@@ -32,6 +32,7 @@ Pour une lecture de synastrie, la commande demande les données de naissance d�
 - **FormSubmit** ([formsubmit.co](https://formsubmit.co)) reçoit ce que vous tapez dans le formulaire et le transfère dans ma boîte mail. Ses propres règles de confidentialité, sur son site, expliquent ce qu’il conserve.
 - **Mon fournisseur de messagerie** conserve nos échanges.
 - **{{< host >}}** héberge ce site et, comme tout hébergeur, conserve brièvement des journaux techniques (comme les adresses IP) pour faire fonctionner le site et le sécuriser.
+- **Photon** ([photon.komoot.io](https://photon.komoot.io)), un moteur de recherche de lieux libre, construit sur OpenStreetMap, suggère des villes pendant que vous tapez un lieu de naissance dans le formulaire de commande. {{% on-host "cloudflare" %}}Il est interrogé par le serveur de ce site : il reçoit les lettres tapées dans ce champ, et rien sur vous.{{% /on-host %}}{{% on-host "github" %}}Sur cette version de prévisualisation, votre navigateur l’interroge directement : il reçoit les lettres tapées dans ce champ et, comme tout site web, votre adresse IP.{{% /on-host %}}
 {{% payments %}}- **Stripe** ([stripe.com](https://stripe.com)) gère les paiements : vos coordonnées bancaires vont chez Stripe, jamais chez moi, et Stripe conserve ce que la loi demande à un prestataire de paiement.{{% /payments %}}
 
 Ces services peuvent stocker ou traiter des données hors de l’Union européenne — {{< host >}}, par exemple, est basé aux États-Unis. Chacun présente ses propres garanties sur son site.

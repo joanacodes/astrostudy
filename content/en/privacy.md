@@ -31,6 +31,7 @@ For a synastry reading, the order asks for another person’s birth details. Giv
 - **FormSubmit** ([formsubmit.co](https://formsubmit.co)) receives what you type in the form and forwards it to my inbox. Their own privacy terms, on their site, explain what they keep.
 - **My email provider** stores our messages.
 - **{{< host >}}** hosts this website and, like any web host, keeps short-lived technical logs (such as IP addresses) to keep the site running and secure.
+- **Photon** ([photon.komoot.io](https://photon.komoot.io)), an open-source place search built on OpenStreetMap, suggests towns while you type a birthplace in the order form. {{% on-host "cloudflare" %}}It’s asked by this site’s own server: it receives the letters typed in that field, and nothing about you.{{% /on-host %}}{{% on-host "github" %}}On this preview your browser asks it directly, so it receives the letters typed in that field and, like any website, your IP address.{{% /on-host %}}
 {{% payments %}}- **Stripe** ([stripe.com](https://stripe.com)) handles payments: your card details go to them, never to me, and they keep what the law asks of a payment provider.{{% /payments %}}
 
 These services may store or process data outside the European Union — {{< host >}}, for example, is based in the United States. Each explains its own safeguards on its site.

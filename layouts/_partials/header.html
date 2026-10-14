@@ -14,7 +14,7 @@
   </nav>
   <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="drawer" data-menu data-label-open="{{ i18n "menu" }}" data-label-close="{{ i18n "close" }}"><span class="menu-toggle__lines" aria-hidden="true"></span><span data-menu-label>{{ i18n "menu" }}</span></button>
 </header>
-<nav class="drawer" id="drawer" aria-label="{{ i18n "menu" }}" inert data-drawer>
+<nav class="drawer" id="drawer" aria-label="{{ i18n "menu" }}" tabindex="-1" inert data-drawer>
   <a href="{{ site.Home.RelPermalink }}">{{ i18n "home" }}</a>
   {{- range $m := site.Menus.main }}
   {{- with $m.Params.fragment }}

@@ -132,7 +132,10 @@ function markDrawer() {
     d.open = !!d.querySelector('a[aria-current]');
   }
 }
-function setMenu(open) {
+// Opened from the keyboard, focus goes to the first link, ring and all, as keyboard users expect.
+// Opened by a tap or a click it goes to the menu itself, so no ring is drawn around "Home"; Tab
+// still starts at the first link.
+function setMenu(open, byKeyboard = false) {
   if (!menuBtn || !drawer) return;
   if (open) markDrawer();
   document.body.classList.toggle('menu-open', open);
@@ -141,9 +144,10 @@ function setMenu(open) {
   for (const el of [$('main'), $('.footer')]) if (el) el.inert = open;
   const label = $('[data-menu-label]', menuBtn);
   if (label) label.textContent = open ? menuBtn.dataset.labelClose || 'Close' : menuBtn.dataset.labelOpen || 'Menu';
-  if (open) drawer.querySelector('a')?.focus({ preventScroll: true });
+  if (open) (byKeyboard ? drawer.querySelector('a') : drawer)?.focus({ preventScroll: true });
 }
-menuBtn?.addEventListener('click', () => setMenu(!document.body.classList.contains('menu-open')));
+// a click that comes from Enter or Space has no pointer behind it: detail is 0
+menuBtn?.addEventListener('click', (e) => setMenu(!document.body.classList.contains('menu-open'), e.detail === 0));
 addEventListener('keydown', (e) => {
   if (e.key === 'Escape' && document.body.classList.contains('menu-open')) {
     setMenu(false);
@@ -285,6 +289,7 @@ function wireOrder(form) {
     });
   }
   sync();
+  wirePlaces(form);
 
   form.addEventListener('submit', async (e) => {
     e.preventDefault();
@@ -315,6 +320,147 @@ function wireOrder(form) {
       button.disabled = false;
     }
   });
+}
+
+/* ---------------------------------------------------------------------------------------------
+   Birthplace suggestions as you type, from Photon — the open-source place search built on
+   OpenStreetMap — through this site's server where there is one (/api/places), straight from the
+   browser on the preview (the form's data-places says which). Picking a place fills in the town
+   and keeps its coordinates with the order; typing freely still works. */
+
+function placeOf(f) {
+  const p = f?.properties || {};
+  const c = f?.geometry?.coordinates;
+  if (!p.name || !Array.isArray(c) || !Number.isFinite(c[0]) || !Number.isFinite(c[1])) return null;
+  const region = [p.state || p.county, p.country].filter((v, i, all) => v && v !== p.name && all.indexOf(v) === i);
+  return { name: p.name, rest: region.join(', '), label: [p.name, ...region].join(', '), lon: c[0], lat: c[1] };
+}
+
+function wirePlaces(form) {
+  const endpoint = form.dataset.places;
+  if (!endpoint || !window.fetch) return;
+  const lang = document.documentElement.lang.startsWith('fr') ? 'fr' : 'en';
+  for (const box of form.querySelectorAll('[data-place]')) {
+    const input = box.querySelector('[data-place-input]');
+    const list = box.querySelector('[data-place-list]');
+    const lat = box.querySelector('[data-place-lat]');
+    const lon = box.querySelector('[data-place-lon]');
+    let items = [];
+    let active = -1;
+    let timer = 0;
+    let pending = null;
+
+    const close = () => {
+      list.hidden = true;
+      input.setAttribute('aria-expanded', 'false');
+      input.removeAttribute('aria-activedescendant');
+      active = -1;
+    };
+    const mark = (i) => {
+      active = i;
+      list.querySelectorAll('[role="option"]').forEach((li, k) => li.setAttribute('aria-selected', String(k === i)));
+      input.setAttribute('aria-activedescendant', `${list.id}-${i}`);
+      list.children[i]?.scrollIntoView({ block: 'nearest' });
+    };
+    const choose = (i) => {
+      const it = items[i];
+      if (!it) return;
+      input.value = it.label;
+      lat.value = it.lat.toFixed(5);
+      lon.value = it.lon.toFixed(5);
+      close();
+    };
+    const show = () => {
+      if (!items.length) {
+        close();
+        return;
+      }
+      const rows = items.map((it, i) => {
+        const li = document.createElement('li');
+        li.id = `${list.id}-${i}`;
+        li.setAttribute('role', 'option');
+        li.setAttribute('aria-selected', 'false');
+        const name = document.createElement('strong');
+        name.textContent = it.name;
+        const rest = document.createElement('span');
+        rest.textContent = it.rest;
+        li.append(name, rest);
+        // the field keeps focus while a mouse chooses; a tap ends in a click like any other
+        li.addEventListener('mousedown', (e) => e.preventDefault());
+        li.addEventListener('click', () => choose(i));
+        return li;
+      });
+      const credit = document.createElement('li');
+      credit.className = 'place__credit';
+      credit.setAttribute('role', 'presentation');
+      credit.textContent = form.dataset.placesCredit || '';
+      list.replaceChildren(...rows, credit);
+      list.hidden = false;
+      input.setAttribute('aria-expanded', 'true');
+      active = -1;
+    };
+    const search = async (q) => {
+      pending?.abort();
+      pending = new AbortController();
+      const url = new URL(endpoint, location.href);
+      url.searchParams.set('q', q);
+      url.searchParams.set('lang', lang);
+      url.searchParams.set('limit', '6');
+      url.searchParams.append('layer', 'city');
+      url.searchParams.append('layer', 'locality');
+      try {
+        const res = await fetch(url, { signal: pending.signal, headers: { Accept: 'application/json' } });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+        const seen = new Set();
+        items = (data.features || [])
+          .map(placeOf)
+          .filter((it) => it && !seen.has(it.label) && seen.add(it.label))
+          .slice(0, 6);
+        if (document.activeElement === input) show();
+      } catch (err) {
+        if (err.name === 'AbortError') return;
+        items = [];
+        close();
+      }
+    };
+
+    input.addEventListener('input', () => {
+      // typed by hand: coordinates from an earlier pick no longer belong to this text
+      lat.value = '';
+      lon.value = '';
+      clearTimeout(timer);
+      const q = input.value.trim();
+      if (q.length < 2) {
+        pending?.abort();
+        items = [];
+        close();
+        return;
+      }
+      // a pause in typing, not every key: Photon's public server asks for a reasonable pace
+      timer = setTimeout(() => search(q), 280);
+    });
+    input.addEventListener('keydown', (e) => {
+      if (list.hidden || !items.length) return;
+      if (e.key === 'ArrowDown') {
+        e.preventDefault();
+        mark((active + 1) % items.length);
+      } else if (e.key === 'ArrowUp') {
+        e.preventDefault();
+        mark(active <= 0 ? items.length - 1 : active - 1);
+      } else if (e.key === 'Enter' && active >= 0) {
+        e.preventDefault();
+        choose(active);
+      } else if (e.key === 'Escape') {
+        // the list closes first; the panel stays open
+        e.preventDefault();
+        e.stopPropagation();
+        close();
+      }
+    });
+    // a moment's grace, so a tap on a suggestion still lands after the field lets go
+    input.addEventListener('blur', () => setTimeout(close, 180));
+  }
 }
 
 /* ---------------------------------------------------------------------------------------------

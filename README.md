@@ -98,6 +98,8 @@ Every reading page has an **Order this reading** button (and the same at the bot
 
 The order asks for the reading, the option (**Full reading** or **Full reading + consulting**), a name and email, the birth details (date, place, and the time if known; for a synastry, the other person’s first name and birth details too), an optional note, and three confirmations: 18 or over; for a synastry, that the other person is an adult and knows about the reading (for co-workers, that they agreed); and the request to start straight away, giving up the 14-day withdrawal right once the reading is delivered (Code de la consommation, L221-28). When a page exists at `/terms/` (the terms of sale, *CGV*), a fourth box asks to accept them, with a link.
 
+**Birthplaces** are suggested as people type, by [Photon](https://github.com/komoot/photon) — the open-source place search built on OpenStreetMap, on Komoot’s free public server. On Cloudflare the browser asks the Worker (`/api/places`), which asks Photon and keeps each answer a week, so visitors never talk to a third party; on the GitHub Pages preview, which has no server, the browser asks photon.komoot.io directly. Picking a suggestion also keeps the town’s coordinates with the order (`birth_lat`, `birth_lon`, and `their_…` for a synastry); a place typed by hand is kept as typed. The privacy note says which way it goes, per host.
+
 **Nothing is sent until payment is connected.** With `checkout` empty in `hugo.toml` (as now), the form checks every field, then says payment opens soon — and sends nothing anywhere. Birth details only ever travel with a payment.
 
 ### Payments (to set up)

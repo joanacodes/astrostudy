@@ -1,7 +1,7 @@
 {
   // The Astro Study on Cloudflare Workers, deployed by .github/workflows/deploy.yml (see README).
   // The built Hugo site (public/) is served as static files; worker/index.js only runs for
-  // /api/* — the sky of the day — so every other request costs nothing.
+  // /api/* — the sky of the day and the birthplace suggestions — so every other request costs nothing.
   "name": "the-astro-study",
   "main": "worker/index.js",
   "compatibility_date": "2026-10-01",

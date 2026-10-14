@@ -1,9 +1,11 @@
 // The Astro Study on Cloudflare Workers. The Hugo site (public/) is served as static files; this
-// script answers one address only, /api/sky: the sky right now, read from FreeAstroAPI with the
-// key kept here as a Worker secret (FREE_ASTRO_API_KEY) instead of in a page, where anyone could
-// copy it. Same idea as AGS's sky-store: one call captures every planet's position and speed,
-// the answer is kept for six hours, and each visitor's browser moves the planets on to the minute
-// (assets/js/sky.js).
+// script answers two addresses:
+//   /api/sky     the sky right now, read from FreeAstroAPI with the key kept here as a Worker secret
+//                (FREE_ASTRO_API_KEY) instead of in a page, where anyone could copy it. Same idea as
+//                AGS's sky-store: one call captures every planet's position and speed, the answer is
+//                kept for six hours, and each visitor's browser moves the planets on to the minute
+//                (assets/js/sky.js).
+//   /api/places  birthplace suggestions for the order form, from Photon (see places() below).
 
 const DEFAULT_ENDPOINT = 'https://api.freeastroapi.com/api/v1/natal/calculate';
 // FreeAstroAPI is asked again after six hours, as AGS does. If it doesn't answer, the last good
@@ -26,6 +28,10 @@ export default {
     if (url.pathname === '/api/sky' || url.pathname === '/api/sky/') {
       if (request.method !== 'GET' && request.method !== 'HEAD') return json({ error: 'method_not_allowed' }, 405, { allow: 'GET, HEAD' });
       return sky(request, env, ctx);
+    }
+    if (url.pathname === '/api/places' || url.pathname === '/api/places/') {
+      if (request.method !== 'GET' && request.method !== 'HEAD') return json({ error: 'method_not_allowed' }, 405, { allow: 'GET, HEAD' });
+      return places(request, env, ctx);
     }
     return env.ASSETS.fetch(request);
   },
@@ -135,6 +141,60 @@ function readPlanets(data) {
     found.set(key, { key, lon: Math.round(lon * 10000) / 10000, speed });
   }
   return KEYS.filter((k) => found.has(k)).map((k) => found.get(k));
+}
+
+// Birthplace suggestions, from Photon: the open-source place search built on OpenStreetMap, on
+// Komoot's free public server. Asked from here rather than from the visitor's browser, so Komoot
+// never learns who is typing; each answer is kept a week for the whole data centre, which also
+// spares that server (its fair-use rule is "a reasonable number of requests"). Only towns and
+// villages come back, trimmed to what the form shows, in Photon's own GeoJSON shape so the
+// browser reads this and the public server (on the GitHub Pages preview) alike.
+const PLACES_ENDPOINT = 'https://photon.komoot.io/api/';
+const PLACES_KEEP_S = 7 * 24 * 60 * 60;
+const PLACES_TIMEOUT_MS = 6000;
+
+async function places(request, env, ctx) {
+  const url = new URL(request.url);
+  const q = (url.searchParams.get('q') ?? '').trim().replace(/\s+/g, ' ').slice(0, 80);
+  const lang = url.searchParams.get('lang') === 'fr' ? 'fr' : 'en';
+  if (q.length < 2) return json({ type: 'FeatureCollection', features: [] });
+
+  const cache = caches.default;
+  const key = new Request(`${url.origin}/api/places/cache?lang=${lang}&q=${encodeURIComponent(q.toLowerCase())}`);
+  const hit = await cache.match(key).catch(() => null);
+  if (hit) return hit;
+
+  const target = new URL(env.PHOTON_URL || PLACES_ENDPOINT);
+  target.searchParams.set('q', q);
+  target.searchParams.set('lang', lang);
+  target.searchParams.set('limit', '6');
+  for (const layer of ['city', 'locality']) target.searchParams.append('layer', layer);
+  try {
+    const res = await fetch(target, {
+      headers: { accept: 'application/json', 'user-agent': 'The Astro Study (astrostudy.co.uk) - birthplace suggestions' },
+      signal: AbortSignal.timeout(PLACES_TIMEOUT_MS),
+    });
+    if (!res.ok) throw new Error(`Photon answered ${res.status}`);
+    const data = await res.json();
+    const features = (data?.features ?? []).map(slimPlace).filter(Boolean);
+    const out = json({ type: 'FeatureCollection', features }, 200, { 'cache-control': `public, max-age=${PLACES_KEEP_S}` });
+    ctx.waitUntil(cache.put(key, out.clone()).catch(() => {}));
+    return out;
+  } catch (err) {
+    console.warn('[places]', err);
+    return json({ type: 'FeatureCollection', features: [], error: 'places_failed' }, 502);
+  }
+}
+
+function slimPlace(f) {
+  const p = f?.properties ?? {};
+  const c = f?.geometry?.coordinates;
+  if (!p.name || !Array.isArray(c) || !Number.isFinite(c[0]) || !Number.isFinite(c[1])) return null;
+  return {
+    type: 'Feature',
+    geometry: { type: 'Point', coordinates: [c[0], c[1]] },
+    properties: { name: p.name, county: p.county, state: p.state, country: p.country, countrycode: p.countrycode },
+  };
 }
 
 function reply(snapshot, stale = false) {

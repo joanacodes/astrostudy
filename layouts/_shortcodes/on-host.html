@@ -1,0 +1,4 @@
+{{- /* What it wraps is said only on the given host ("cloudflare" or "github", params.legal.host): where
+       the site runs decides who talks to whom, and the privacy note says it as it is.
+       Use with % so the words inside stay Markdown: {{% on-host "github" %}}…{{% /on-host %}} */ -}}
+{{- if eq (string (site.Params.legal.host | default "cloudflare")) (.Get 0) }}{{ .Inner }}{{ end -}}

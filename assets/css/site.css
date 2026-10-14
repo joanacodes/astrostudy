@@ -550,6 +550,10 @@ p {
 .drawer > :first-child {
   margin-top: auto; /* sit at the bottom when there's room, scroll from the top when there isn't */
 }
+/* the menu itself takes focus when opened by touch: nothing to outline */
+.drawer:focus {
+  outline: none;
+}
 @media (min-width: 861px) {
   .drawer {
     display: none;
@@ -2310,6 +2314,45 @@ main:focus {
 .option__price {
   font-family: var(--serif);
   font-size: 1.05rem;
+}
+/* birthplace suggestions: a short list under the field, in the flow of the form, so nothing can
+   hide it at the edge of the panel or behind a phone's keyboard */
+.place__list {
+  list-style: none;
+  margin: 2px 0 0;
+  padding: 4px 0;
+  border: 1px solid var(--line-2);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.92);
+  box-shadow: 0 18px 40px -26px rgba(18, 38, 18, 0.5);
+  max-height: 300px;
+  overflow-y: auto;
+}
+.place__list [role="option"] {
+  display: grid;
+  gap: 1px;
+  padding: 9px 12px;
+  cursor: pointer;
+}
+.place__list [role="option"] strong {
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--ink);
+}
+.place__list [role="option"] span {
+  font-size: 0.8rem;
+  color: var(--ink-3);
+}
+.place__list [role="option"]:hover,
+.place__list [aria-selected="true"] {
+  background: rgba(28, 33, 27, 0.06);
+}
+.place__credit {
+  margin-top: 4px;
+  padding: 7px 12px 3px;
+  border-top: 1px solid var(--line);
+  font-size: 0.7rem;
+  color: var(--ink-3);
 }
 .order-form__sum {
   display: grid;

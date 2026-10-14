@@ -4,10 +4,15 @@
        everything, says payment isn't open yet, and sends nothing: no birth details without a payment.
        Prices are read from hugo.toml by kind of reading; an empty one simply isn't shown. */ -}}
 {{- $id := .id }}
+{{- /* Birthplace suggestions come from Photon (OpenStreetMap): through the Worker where it runs, so
+       visitors never talk to a third party; straight from the browser on the GitHub Pages preview,
+       which has no server (the privacy note says which). */}}
+{{- $places := "https://photon.komoot.io/api/" }}
+{{- if eq (string (site.Params.legal.host | default "cloudflare")) "cloudflare" }}{{ $places = "api/places" | relURL }}{{ end }}
 {{- $prices := dict
       "single" (dict "full" site.Params.priceBirthChart "consulting" site.Params.priceBirthChartConsulting)
       "pair" (dict "full" site.Params.priceSynastry "consulting" site.Params.priceSynastryConsulting) }}
-<form class="form order-form" data-order-form data-checkout="{{ site.Params.checkout }}" data-msg-closed="{{ i18n "orderClosed" }}" data-msg-opening="{{ i18n "orderOpening" }}" data-msg-error="{{ i18n "orderError" }}">
+<form class="form order-form" data-order-form data-places="{{ $places }}" data-places-credit="{{ i18n "placesCredit" }}" data-checkout="{{ site.Params.checkout }}" data-msg-closed="{{ i18n "orderClosed" }}" data-msg-opening="{{ i18n "orderOpening" }}" data-msg-error="{{ i18n "orderError" }}">
   <div class="field">
     <label for="{{ $id }}-reading">{{ i18n "orderReading" }}</label>
     <select id="{{ $id }}-reading" name="reading" data-order-reading>
@@ -52,9 +57,12 @@
         <input id="{{ $id }}-time" type="time" name="birth_time">
       </div>
     </div>
-    <div class="field">
+    <div class="field place" data-place>
       <label for="{{ $id }}-place">{{ i18n "place" }}</label>
-      <input id="{{ $id }}-place" type="text" name="birth_place" autocomplete="off" required>
+      <input id="{{ $id }}-place" type="text" name="birth_place" autocomplete="off" placeholder="{{ i18n "placeHint" }}" required role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="{{ $id }}-place-list" data-place-input>
+      <input type="hidden" name="birth_lat" data-place-lat>
+      <input type="hidden" name="birth_lon" data-place-lon>
+      <ul class="place__list" id="{{ $id }}-place-list" role="listbox" aria-label="{{ i18n "placeSuggestions" }}" hidden data-place-list></ul>
     </div>
     <label class="check"><input type="checkbox" name="birth_time_unknown" value="{{ i18n "timeUnknownValue" }}" data-time-unknown="birth_time"><span>{{ i18n "timeUnknown" }}</span></label>
   </fieldset>
@@ -75,9 +83,12 @@
         <input id="{{ $id }}-their-time" type="time" name="their_birth_time">
       </div>
     </div>
-    <div class="field">
+    <div class="field place" data-place>
       <label for="{{ $id }}-their-place">{{ i18n "place" }}</label>
-      <input id="{{ $id }}-their-place" type="text" name="their_birth_place" autocomplete="off" required>
+      <input id="{{ $id }}-their-place" type="text" name="their_birth_place" autocomplete="off" placeholder="{{ i18n "placeHint" }}" required role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="{{ $id }}-their-place-list" data-place-input>
+      <input type="hidden" name="their_birth_lat" data-place-lat>
+      <input type="hidden" name="their_birth_lon" data-place-lon>
+      <ul class="place__list" id="{{ $id }}-their-place-list" role="listbox" aria-label="{{ i18n "placeSuggestions" }}" hidden data-place-list></ul>
     </div>
     <label class="check"><input type="checkbox" name="their_birth_time_unknown" value="{{ i18n "timeUnknownValue" }}" data-time-unknown="their_birth_time"><span>{{ i18n "theirTimeUnknown" }}</span></label>
   </fieldset>
