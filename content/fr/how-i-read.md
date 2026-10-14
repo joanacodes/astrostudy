@@ -1,7 +1,7 @@
 ---
 title: "Ma méthode"
 slug: "methode"
-description: "Venue à l’astrologie pour m’en moquer, j’ai testé mon thème case par case. Ce qui a tenu, ce qui a moins tenu — et depuis, je lis doucement, honnêtement, sans verdict."
+description: "Venue à l’astrologie pour m’en moquer, j’ai testé mon thème case par case. Ce qui a tenu, ce qui a moins tenu — et depuis, je lis honnêtement, sans verdict."
 eyebrow: "Ma méthode"
 h1: "Je suis venue à l’astrologie <em>pour m’en moquer.</em>"
 lede: "Puis je l’ai testée, position par position, et elle m’a répondu. Voici comment je lis depuis — et ce que je ne ferai jamais de votre thème."
@@ -34,10 +34,14 @@ C’est un carnet, pas une étude : un comptage à la main, par moi, surtout su
 
 ## Ce que ça change dans ma façon de lire
 
-- **Plus lentement là où ça compte le plus.** Les positions sensibles reçoivent le plus de temps et les mots les plus doux.
+- **Plus de temps là où ça compte le plus.** Les positions qui ont le mieux tenu reçoivent la lecture la plus approfondie.
 - **Honnête sur le reste.** Quand quelque chose repose sur une position qui a moins souvent tenu dans mes tests, je vous le dis, pour que vous puissiez en juger par vous-même.
 - **Des tendances, pas un destin.** Un thème décrit la façon dont vous avez tendance à avancer, pas l’endroit où vous devez arriver.
-- **C’est vous qui décidez.** Prenez ce qui vous parle et laissez le reste. Une lecture est une conversation avec vous-même, pas une injonction.
+- **C’est vous qui décidez.** Une lecture est une conversation avec vous-même, pas une injonction.
+
+## Comment une lecture est préparée
+
+Chaque lecture est préparée avec un système que j’ai construit moi-même, à partir de la méthode décrite sur cette page — et je la lis avant qu’elle vous soit envoyée. Elle vous arrive dans un espace privé en ligne, où vous pouvez laisser des notes, surligner ce qui compte et la télécharger en PDF.
 
 ## Ce que je refuse de lire
 
@@ -47,8 +51,8 @@ Ce n’est pas de la pruderie. Ce sont les sujets où un thème, même bien lu, 
 
 ## Tout n’est pas écrit dans les étoiles
 
-Parfois, ce qu’une personne porte est d’ordre psychologique, parfois médical. Dans ces moments-là, la bonne porte n’est pas la mienne, et je vous le dirai — sans détour, et avec douceur. Commencer une thérapie, ce n’est pas un échec de votre thème. C’est le bon outil pour le bon travail.
+Parfois, ce qu’une personne porte est d’ordre psychologique, parfois médical. Dans ces moments-là, la bonne porte n’est pas la mienne, et je vous le dirai — sans détour. Commencer une thérapie, ce n’est pas un échec de votre thème. C’est le bon outil pour le bon travail.
 
-## La même personne, ailleurs
+## Mon autre pratique
 
-Je lis et j’enseigne aussi le tarot, à {{< maison-tarot >}}. Même personne, mêmes règles : pas de gourou, aucun don que vous n’ayez pas vous-même, et les erreurs comptées avec les réussites.
+Je lis et j’enseigne aussi le tarot, à {{< maison-tarot >}} — une pratique à part, avec son propre site. Les mêmes règles s’y appliquent : pas de gourou, aucun don que vous n’ayez pas vous-même, et les erreurs comptées avec les réussites.

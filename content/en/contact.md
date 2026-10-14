@@ -2,7 +2,7 @@
 title: "Write to me"
 description: "Ask a question, or request a birth chart or synastry reading. I read every message myself."
 eyebrow: "Contact"
-h1: "Ask anything. <em>Gently is fine.</em>"
+h1: "Ask anything. <em>No question is too small.</em>"
 lede: "A question, a reading, or just a hello. I read every message myself."
 form: true
 ---

@@ -15,7 +15,8 @@ lede: "Pour les amitiés qui vous façonnent — la personne que vous appelez en
 facts:
   - { k: "Pour", v: "Deux adultes, 18 ans et plus" }
   - { k: "Il me faut", v: "Les deux dates et lieux de naissance — et les heures, si vous les connaissez" }
-  - { k: "Vous recevez", v: "Une lecture sur votre amitié", param: "format" }
+  - { k: "Vous recevez", v: "Une lecture privée, en ligne, sur votre amitié", param: "format" }
+  - { k: "Formules", v: "Lecture complète, ou lecture complète + consultation" }
   - { k: "Tarif", v: "", param: "priceSynastry" }
 
 looks:
@@ -43,15 +44,15 @@ looks:
 window: "Certaines amitiés sont écrites dans le ciel. <em>Toutes s’entretiennent sur terre.</em>"
 
 care:
-  label: "Avec soin"
-  title: "L’amitié mérite <em>le même soin</em>"
+  label: "Le cadre"
+  title: "L’amitié mérite <em>le même respect</em>"
   items:
     - title: "Pas un test"
       text: "Ne vous servez pas d’une lecture pour décider si une amitié est « vraie ». C’est l’autre qui vous le montrera, avec le temps."
     - title: "Les amitiés fanées aussi"
       text: "On peut lire une amitié qui s’est éloignée ou qui s’est terminée — pour la comprendre, pas pour la forcer à revenir."
-    - title: "Les données de l’autre, avec soin"
-      text: "Ne partagez les données de naissance de l’autre personne que d’une façon que vous pourriez lui raconter sans gêne — idéalement, demandez-lui d’abord. C’est l’occasion d’une jolie conversation."
+    - title: "Les données de l’autre, jamais dans son dos"
+      text: "Ne partagez les données de naissance de l’autre personne que si elle sait que vous demandez cette lecture. Lui en parler, c’est souvent l’occasion d’une jolie conversation."
     - title: "Deux adultes"
       text: "Les deux personnes doivent avoir 18 ans ou plus."
 
@@ -61,7 +62,7 @@ faq:
   - q: "Et si l’autre ne connaît pas son heure de naissance ?"
     a: "Ce n’est pas grave. Sans les heures, je laisse les maisons de côté, et je vous le dis ; les contacts entre vos planètes se lisent toujours clairement."
   - q: "Peut-on lire une amitié qui s’est mal terminée ?"
-    a: "Oui, avec douceur. Comprendre ce qui s’est passé entre vos thèmes peut vous aider à la laisser en paix — sans que personne doive tenir le mauvais rôle."
+    a: "Oui. Comprendre ce qui s’est passé entre vos thèmes peut vous aider à la laisser en paix — sans que personne doive tenir le mauvais rôle."
 
 closing:
   kicker: "Pour vous deux"

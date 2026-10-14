@@ -533,6 +533,21 @@ p {
     transform: rotate(-45deg);
   }
 }
+/* The name and the "Menu" button need about 360px side by side: on narrower phones the word would
+   be cut off at the edge, so only the lines show. The word stays for screen readers. */
+@media (max-width: 374px) {
+  .menu-toggle {
+    padding: 13px 15px;
+  }
+  .menu-toggle [data-menu-label] {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+}
 
 .drawer {
   position: fixed;

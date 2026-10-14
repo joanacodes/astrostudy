@@ -25,11 +25,11 @@ Ce site est hébergé par :
 
 Les textes, la prairie, les dessins de thèmes et l’apparence de ce site sont la propriété de l’éditeur, sauf mention contraire. Merci de ne pas les reproduire sans autorisation écrite — les courtes citations avec un lien vers la source sont les bienvenues. Les polices Fraunces et Inter sont utilisées sous licence SIL Open Font License. Les avis cités sur le site appartiennent aux personnes qui les ont écrits.
 
-Les positions des planètes affichées sur la page d’accueil sont fournies par [FreeAstroAPI](https://freeastroapi.com).
+{{% live-sky %}}Les positions des planètes affichées sur la page d’accueil sont fournies par [FreeAstroAPI](https://freeastroapi.com).{{% /live-sky %}}
 
 ## Les lectures {#services}
 
-Les lectures s’adressent aux adultes (18 ans et plus) et sont proposées pour réfléchir et se divertir. Aucun résultat n’est promis, et une lecture ne remplace pas un avis médical, juridique, financier ou psychologique. Tout ce que j’en dis est dans les [avertissements](/disclaimers/).
+Les lectures s’adressent aux adultes (18 ans et plus) et sont proposées à titre de réflexion et de divertissement. Aucun résultat n’est promis, et une lecture ne remplace pas un avis médical, juridique, financier ou psychologique. Tout ce que j’en dis est dans les [avertissements](/disclaimers/).
 
 ## En cas de désaccord {#mediation}
 

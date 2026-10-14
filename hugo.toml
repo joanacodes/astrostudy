@@ -21,7 +21,7 @@ disableKinds = ["taxonomy", "term", "rss"]
       description = "Birth chart readings for adults and synastry readings for couples, friends, co-workers and family. Written in soft, plain language, by someone who tested astrology before trusting it."
       ogImage = "media/og.jpg"
       replyTime = ""      # e.g. "within three working days" — empty = no promise is shown
-      format = ""         # e.g. "A written reading, sent by email within 10 days" — empty = the line written in each page
+      format = ""         # e.g. "A private online reading, within 10 days" — empty = the line written in each page
     [[languages.en.menus.main]]
       name = "Birth chart"
       pageRef = "/birth-chart"
@@ -63,7 +63,7 @@ disableKinds = ["taxonomy", "term", "rss"]
       ogImage = "media/og-fr.jpg"
       maisonTarot = ""    # the French pages of Maison Tarot, once it has its final address
       replyTime = ""      # ex. « sous trois jours ouvrés » — vide = aucune promesse affichée
-      format = ""         # ex. « Une lecture écrite, envoyée par e-mail sous 10 jours »
+      format = ""         # ex. « Une lecture privée, en ligne, sous 10 jours »
     [languages.fr.permalinks.page]
       synastry = "/synastrie/:slug/"
     [languages.fr.permalinks.section]

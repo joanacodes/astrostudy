@@ -16,6 +16,10 @@ C’est la phrase d’usage, et je la trouve juste. Pas parce que je prends l’
 
 Les lectures sont réservées aux personnes de 18 ans et plus. Aucune lecture pour une personne de moins de 18 ans, et aucune à son sujet non plus — y compris dans une synastrie familiale.
 
+## Où les lectures sont proposées {#where}
+
+Les lectures ne sont pas proposées aux personnes qui vivent en Pennsylvanie (États-Unis), où la loi de l’État (18 Pa.C.S. § 7104) fait de la prédiction de l’avenir contre rémunération une infraction — y compris par le mouvement des corps célestes.
+
 ## Ce que je refuse de lire {#refusals}
 
 {{< refusals >}}
@@ -25,7 +29,7 @@ Ce sont les sujets où un thème, même bien lu, peut faire des dégâts.
 ## Ce que je ne prétends pas {#claims}
 
 - Savoir **comment** l’astrologie fonctionne. Je sais ce qui a tenu dans mes propres tests, et je vous dis ce qui a moins tenu.
-- Avoir un **don**. Il n’y a rien dans une lecture que vous ne puissiez apprendre vous-même, lentement.
+- Avoir un **don**. Il n’y a rien dans une lecture que vous ne puissiez apprendre vous-même, avec le temps.
 - Que mon comptage soit une **étude scientifique**. C’est un comptage à la main, dans un carnet, non audité.
 - Prédire **l’avenir**. Un thème décrit des tendances et des saisons ; vos choix font le reste.
 
@@ -35,11 +39,11 @@ Ce sont les sujets où un thème, même bien lu, peut faire des dégâts.
 
 ## C’est vous qui décidez {#choices}
 
-Agissez selon ce que vous ressentez et ce que vous savez, pas selon ce qui a été dit pendant une lecture. Une lecture n’est pas une injonction, et vous restez responsable de vos choix. Si vous vous surprenez à consulter des thèmes sans arrêt, faites doucement une pause : le muscle qui décide est le vôtre, et il se renforce à l’usage.
+Agissez selon ce que vous ressentez et ce que vous savez, pas selon ce qui a été dit pendant une lecture. Une lecture n’est pas une injonction, et vous restez responsable de vos choix. Si vous vous surprenez à consulter des thèmes sans arrêt, faites une pause : le muscle qui décide est le vôtre, et il se renforce à l’usage.
 
 ## Synastrie et consentement {#consent}
 
-Une lecture de synastrie fait intervenir les données de naissance d’une autre personne. Les deux personnes doivent être majeures. Ne partagez les données de quelqu’un d’autre que d’une façon que vous pourriez lui raconter sans gêne — et, pour une lecture entre collègues, seulement avec son accord. Je ne me sers jamais d’un thème pour dire à quelqu’un de rester, de partir, de pardonner ou de couper les ponts, et je ne lis jamais le thème de qui que ce soit pour un recrutement, un licenciement ou une promotion.
+Une lecture de synastrie fait intervenir les données de naissance d’une autre personne. Les deux personnes doivent être majeures. Ne partagez les données de quelqu’un d’autre que si cette personne sait que vous demandez la lecture — et, pour une lecture entre collègues, seulement avec son accord. Je ne me sers jamais d’un thème pour dire à quelqu’un de rester, de partir, de pardonner ou de couper les ponts, et je ne lis jamais le thème de qui que ce soit pour un recrutement, un licenciement ou une promotion.
 
 ## Si vous traversez un moment difficile {#help}
 
@@ -53,7 +57,7 @@ Ailleurs :
 
 - **Belgique** — le Centre de Prévention du Suicide, gratuit, jour et nuit, au **0800 32 123** ; en urgence, le **112**.
 - **Suisse** — La Main Tendue, jour et nuit, au **143** ; en urgence, le **144** ou le **112**.
-- **Canada** — le **988**, par appel ou par texto, gratuit, jour et nuit ; en urgence, le **911**.
+- **Canada et États-Unis** — le **988**, par appel ou par texto, gratuit, jour et nuit ; en urgence, le **911**.
 
 ## Le reste {#data}
 

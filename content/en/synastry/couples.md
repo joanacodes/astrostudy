@@ -14,7 +14,8 @@ lede: "For partners at any stage — the first months, the long middle, the hard
 facts:
   - { k: "For", v: "Two adults, 18+" }
   - { k: "I need", v: "Both birth dates and places — times if you know them" }
-  - { k: "You receive", v: "A reading about the two of you", param: "format" }
+  - { k: "You receive", v: "A private online reading about the two of you", param: "format" }
+  - { k: "Options", v: "Full reading, or full reading + consulting" }
   - { k: "Price", v: "", param: "priceSynastry" }
 
 looks:
@@ -34,7 +35,7 @@ looks:
       text: "The glue and the weight: what makes you stay, what starts to feel like duty, and what you build together over time."
     - title: "Where you can hurt or heal each other"
       planets: "Chiron · Lilith"
-      text: "The tender contacts. Named gently, they stop being landmines and become places to be careful with."
+      text: "The sensitive contacts. Once named, they stop being landmines and become places to be careful with."
     - title: "Where you land in each other’s life"
       planets: "House overlays"
       text: "Which parts of life you light up for each other — home, pleasure, everyday routines, the future."
@@ -43,22 +44,22 @@ window: "Every couple has easy contacts and hard ones. <em>What matters is how y
 
 care:
   label: "Care"
-  title: "Love is tender ground, <em>so we tread softly</em>"
+  title: "Love is sensitive ground, <em>so the rules are clear</em>"
   items:
     - title: "No verdict on staying or leaving"
       text: "I won’t tell you to stay or to go. You’ll leave with understanding, and the decision stays yours."
     - title: "Beside couples therapy, not instead"
       text: "If you’re in a crisis together, a reading can give you words; a therapist can give you tools. Both can help."
     - title: "Ended relationships, too"
-      text: "We can read a bond that’s over. Sometimes understanding why it hurt is how you close the door softly."
+      text: "We can read a bond that’s over. Sometimes understanding why it hurt is how you close the door."
     - title: "Your safety comes first"
-      text: "If you feel unsafe with a partner, please reach out to someone who can help now. In England, the National Domestic Abuse Helpline is free, day and night, on 0808 2000 247. In an emergency, call 999."
+      text: "If you feel unsafe with a partner, please reach out to someone who can help now. In England, the National Domestic Abuse Helpline is free, day and night, on 0808 2000 247; in the US, the National Domestic Violence Hotline answers on 1-800-799-7233. In an emergency, call 999 (UK) or 911 (US and Canada)."
 
 faq:
   - q: "We’ve only just met. Is it too early?"
     a: "Not at all. It can help you understand what you’re feeling early on — just hold it lightly, the way you’d hold any first impression."
-  - q: "Can I have a reading without my partner knowing?"
-    a: "Yes. Most people ask on their own. I’ll ask you to share their details with care, and I’ll read them as kindly as I read you."
+  - q: "Can I ask for a reading on my own?"
+    a: "Yes — most people do. Your partner doesn’t have to take part, but they need to know you’re asking for this reading. I read them with the same respect as you."
   - q: "Is it only for romantic couples?"
     a: "This one is. For friends, colleagues or family there’s a reading made for that bond — the questions are different."
   - q: "Do we both need to know our birth times?"

@@ -1,6 +1,6 @@
 ---
 title: "How I read"
-description: "I came to astrology to mock it, then tested my own chart placement by placement. What held, what held less, and how I read because of it — gently, honestly, and never as a verdict."
+description: "I came to astrology to mock it, then tested my own chart placement by placement. What held, what held less, and how I read because of it — honestly, and never as a verdict."
 eyebrow: "How I read"
 h1: "I came to astrology <em>to mock it.</em>"
 lede: "Then I tested it, placement by placement, and it answered back. This is how I read because of that — and what I will never do with your chart."
@@ -33,10 +33,14 @@ It’s a notebook, not a study: a count by hand, by me, mostly on people I knew.
 
 ## How I read because of it
 
-- **Slowest where it matters most.** The tender placements get the most time and the softest words.
+- **Most time where it matters most.** The placements that held best get the closest reading.
 - **Honest about the rest.** When something rests on a placement that held less often in my tests, I tell you, so you can weigh it for yourself.
 - **Tendencies, not fate.** A chart describes how you’re inclined to move, not where you must end up.
-- **You stay in charge.** Take what fits and leave the rest. A reading is a conversation with yourself, not an instruction.
+- **You stay in charge.** A reading is a conversation with yourself, not an instruction.
+
+## How a reading is made
+
+Each reading is prepared with a system I built myself, from the method on this page — and I read it before it’s sent. It reaches you in a private online space, where you can leave notes, highlight what matters, and download it as a PDF.
 
 ## What I won’t read
 
@@ -46,8 +50,8 @@ This isn’t prudishness. These are the subjects where a chart, even well read, 
 
 ## Not everything is in the stars
 
-Sometimes what someone carries is psychological, sometimes medical. In those moments the right door isn’t mine, and I’ll tell you — plainly, and kindly. Seeing a therapist isn’t your chart failing. It’s the right tool for the right job.
+Sometimes what someone carries is psychological, sometimes medical. In those moments the right door isn’t mine, and I’ll tell you — plainly. Seeing a therapist isn’t your chart failing. It’s the right tool for the right job.
 
-## The same reader, elsewhere
+## My other practice
 
-I also read and teach tarot, at {{< maison-tarot >}}. Same person, same rules: no guru, no gift you don’t have yourself, and the misses counted along with the hits.
+I also read and teach tarot, at {{< maison-tarot >}} — a separate practice, with its own site. The same rules apply there: no guru, no gift you don’t have yourself, and the misses counted along with the hits.

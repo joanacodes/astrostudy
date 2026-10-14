@@ -14,7 +14,8 @@ lede: "For adult family bonds: a parent and their grown-up child, siblings, in-l
 facts:
   - { k: "For", v: "Two adults, 18+" }
   - { k: "I need", v: "Both birth dates and places — times if you know them" }
-  - { k: "You receive", v: "A reading about the two of you", param: "format" }
+  - { k: "You receive", v: "A private online reading about the two of you", param: "format" }
+  - { k: "Options", v: "Full reading, or full reading + consulting" }
   - { k: "Price", v: "", param: "priceSynastry" }
 
 looks:
@@ -34,21 +35,21 @@ looks:
       text: "The conversations that always go the same way, and how to have a different one."
     - title: "The family wound"
       planets: "Chiron"
-      text: "Old hurts that pass from one person to the next. Named gently, they can stop with you."
+      text: "Old hurts that pass from one person to the next. Once named, they can stop with you."
     - title: "What travels between generations"
       planets: "Uranus · Neptune · Pluto"
-      text: "The slow patterns a whole generation shares, and how they shape what each of you expects of the other."
+      text: "The long patterns a whole generation shares, and how they shape what each of you expects of the other."
 
 window: "What was handed to you <em>is not all you are.</em>"
 
 care:
   label: "Care"
-  title: "Family can stir old things, <em>so we go slowly</em>"
+  title: "Family can stir old things, <em>so you set the pace</em>"
   items:
     - title: "Adults only"
       text: "Both people must be 18 or over. I don’t read about children, even inside a family."
     - title: "At your pace"
-      text: "If something old comes up, we slow down. You never have to look at more than you’re ready for."
+      text: "If something old comes up, we stop there. You never have to look at more than you’re ready for."
     - title: "Estrangement, too"
       text: "We can read a bond that’s broken or distant — to understand it, not to push you back towards it."
     - title: "Beside support, never instead"
@@ -56,7 +57,7 @@ care:
 
 faq:
   - q: "Can I have a reading about my child?"
-    a: "Only if they’re an adult, and ideally with their blessing. I don’t read about anyone under 18."
+    a: "Only if they’re an adult, and they know you’re asking for it. I don’t read about anyone under 18."
   - q: "Is it for siblings too?"
     a: "Yes. Siblings often share a lot of sky and still read it very differently — that’s usually where the reading gets interesting."
   - q: "Will it say who’s to blame?"

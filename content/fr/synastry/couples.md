@@ -15,7 +15,8 @@ lede: "Pour les couples à tous les stades — les premiers mois, les longues an
 facts:
   - { k: "Pour", v: "Deux adultes, 18 ans et plus" }
   - { k: "Il me faut", v: "Les deux dates et lieux de naissance — et les heures, si vous les connaissez" }
-  - { k: "Vous recevez", v: "Une lecture sur vous deux", param: "format" }
+  - { k: "Vous recevez", v: "Une lecture privée, en ligne, sur vous deux", param: "format" }
+  - { k: "Formules", v: "Lecture complète, ou lecture complète + consultation" }
   - { k: "Tarif", v: "", param: "priceSynastry" }
 
 looks:
@@ -35,7 +36,7 @@ looks:
       text: "Le ciment et le poids : ce qui vous fait rester, ce qui commence à ressembler à une obligation, et ce que vous construisez ensemble avec le temps."
     - title: "Là où vous pouvez vous blesser ou vous guérir"
       planets: "Chiron · Lilith"
-      text: "Les contacts sensibles. Nommés avec douceur, ils cessent d’être des terrains minés et deviennent des endroits où l’on avance avec précaution."
+      text: "Les contacts sensibles. Une fois nommés, ils cessent d’être des terrains minés et deviennent des endroits où l’on avance avec précaution."
     - title: "Votre place dans la vie de l’autre"
       planets: "Superpositions de maisons"
       text: "Les domaines de la vie que vous illuminez mutuellement — le foyer, le plaisir, le quotidien, l’avenir."
@@ -43,23 +44,23 @@ looks:
 window: "Tout couple a des contacts faciles et des contacts durs. <em>Ce qui compte, c’est la façon dont vous les abordez.</em>"
 
 care:
-  label: "Avec soin"
-  title: "L’amour est un terrain sensible, <em>alors on avance à pas feutrés</em>"
+  label: "Le cadre"
+  title: "L’amour est un terrain sensible, <em>alors les règles sont claires</em>"
   items:
     - title: "Rester ou partir : pas de verdict"
       text: "Je ne vous dirai pas de rester ou de partir. Vous repartirez en comprenant mieux, et la décision restera la vôtre."
     - title: "À côté d’une thérapie de couple, pas à sa place"
       text: "Si vous traversez une crise à deux, une lecture peut vous donner des mots ; une thérapie peut vous donner des outils. Les deux peuvent aider."
     - title: "Les histoires terminées aussi"
-      text: "On peut lire un lien qui est fini. Parfois, comprendre pourquoi ça a fait mal, c’est ce qui permet de refermer la porte doucement."
+      text: "On peut lire un lien qui est fini. Parfois, comprendre pourquoi ça a fait mal, c’est ce qui permet de refermer la porte."
     - title: "Votre sécurité d’abord"
-      text: "Si vous ne vous sentez pas en sécurité avec votre partenaire, parlez-en dès maintenant à quelqu’un qui peut vous aider. En France, le 3919 répond jour et nuit, gratuitement et anonymement. En Belgique, Écoute violences conjugales : 0800 30 030. En Suisse, le 142. Au Québec, SOS violence conjugale : 1 800 363-9010. En cas de danger immédiat : le 17 ou le 112 en France (ou un SMS au 114 si vous ne pouvez pas parler), le 112 en Belgique et en Suisse, le 911 au Canada."
+      text: "Si vous ne vous sentez pas en sécurité avec votre partenaire, parlez-en dès maintenant à quelqu’un qui peut vous aider. En France, le 3919 répond jour et nuit, gratuitement et anonymement. En Belgique, Écoute violences conjugales : 0800 30 030. En Suisse, le 142. Au Québec, SOS violence conjugale : 1 800 363-9010. Aux États-Unis, la National Domestic Violence Hotline : 1-800-799-7233. En cas de danger immédiat : le 17 ou le 112 en France (ou un SMS au 114 si vous ne pouvez pas parler), le 112 en Belgique et en Suisse, le 911 au Canada et aux États-Unis."
 
 faq:
   - q: "Nous venons à peine de nous rencontrer. Est-ce trop tôt ?"
     a: "Pas du tout. Une lecture peut vous aider à comprendre ce que vous ressentez dès le début — prenez-la simplement avec légèreté, comme n’importe quelle première impression."
-  - q: "Puis-je demander une lecture sans que l’autre le sache ?"
-    a: "Oui. La plupart des gens font la demande de leur côté. Je vous demanderai de partager ses données avec soin, et je lirai son thème avec la même douceur que le vôtre."
+  - q: "Puis-je demander une lecture de mon côté ?"
+    a: "Oui — c’est le cas de la plupart des gens. Votre partenaire n’a pas à y participer, mais doit savoir que vous demandez cette lecture. Je lis son thème avec le même respect que le vôtre."
   - q: "Est-ce seulement pour les couples amoureux ?"
     a: "Celle-ci, oui. Pour les amis, les collègues ou la famille, il existe une lecture faite pour ce lien-là — les questions ne sont pas les mêmes."
   - q: "Faut-il connaître nos deux heures de naissance ?"

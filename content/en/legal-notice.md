@@ -24,7 +24,7 @@ This site is hosted by:
 
 The texts, the meadow, the chart drawings and the design of this site belong to the publisher, unless stated otherwise. Please don’t reproduce them without written permission — short quotations with a link back are welcome. The typefaces, Fraunces and Inter, are used under the SIL Open Font License. The reviews quoted on the site belong to the people who wrote them.
 
-The positions of the planets on the home page are provided by [FreeAstroAPI](https://freeastroapi.com).
+{{% live-sky %}}The positions of the planets on the home page are provided by [FreeAstroAPI](https://freeastroapi.com).{{% /live-sky %}}
 
 ## The readings {#services}
 

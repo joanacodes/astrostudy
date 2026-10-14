@@ -2,7 +2,7 @@
 title: "Privacy"
 description: "What The Astro Study collects, why, who else touches it, how long it is kept, and your rights under the GDPR. No cookies, no tracking."
 eyebrow: "Privacy"
-h1: "Your details, <em>handled gently.</em>"
+h1: "Your details, <em>handled properly.</em>"
 lede: "A reading asks for personal things — your birth details, sometimes someone else’s, sometimes your story. Here is exactly what happens to them."
 ---
 ## Who is responsible
@@ -22,7 +22,7 @@ I use them to answer you and, if we agree on a reading, to prepare and deliver i
 
 ## Someone else’s details
 
-For a synastry reading you may send another person’s birth details. Please do so only in a way you’d be comfortable telling them about — and for co-worker readings, only with their agreement. I use their details for your reading alone.
+For a synastry reading you may send another person’s birth details. Please do so only if they know you’re asking for this reading — and for co-worker readings, only with their agreement. I use their details for your reading alone.
 
 ## Who else touches it
 
@@ -34,7 +34,7 @@ These services may store or process data outside the European Union — {{< host
 
 ## No cookies, no tracking
 
-This site sets no cookies, runs no analytics and no advertising trackers. The fonts are served from this site, not from a third party. The moving meadow behind the pages is drawn by your own browser; nothing about it is sent anywhere. The sky on the home page comes from [FreeAstroAPI](https://freeastroapi.com), asked by this site’s own server a few times a day — never by your browser, and nothing about you is sent to them. Your browser then moves the planets on to the minute.
+This site sets no cookies, runs no analytics and no advertising trackers. The fonts are served from this site, not from a third party. The moving meadow behind the pages is drawn by your own browser; nothing about it is sent anywhere.{{% live-sky %}} The sky on the home page comes from [FreeAstroAPI](https://freeastroapi.com), asked by this site’s own server a few times a day — never by your browser, and nothing about you is sent to them. Your browser then moves the planets on to the minute.{{% /live-sky %}}
 
 ## How long I keep things
 

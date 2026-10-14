@@ -3,7 +3,7 @@ title: "Confidentialité"
 slug: "confidentialite"
 description: "Ce que The Astro Study collecte, pourquoi, qui d’autre y a accès, combien de temps, et vos droits selon le RGPD. Ni cookies, ni pistage."
 eyebrow: "Confidentialité"
-h1: "Vos données, <em>traitées avec délicatesse.</em>"
+h1: "Vos données, <em>traitées comme il se doit.</em>"
 lede: "Une lecture demande des choses personnelles — vos données de naissance, parfois celles de quelqu’un d’autre, parfois votre histoire. Voici exactement ce qu’elles deviennent."
 ---
 ## Qui est responsable
@@ -23,7 +23,7 @@ Je les utilise pour vous répondre et, si nous convenons d’une lecture, pour l
 
 ## Les données de quelqu’un d’autre
 
-Pour une lecture de synastrie, vous pouvez m’envoyer les données de naissance d’une autre personne. Ne le faites que d’une façon que vous pourriez lui raconter sans gêne — et, pour une lecture entre collègues, seulement avec son accord. J’utilise ses données pour votre lecture, et pour rien d’autre.
+Pour une lecture de synastrie, vous pouvez m’envoyer les données de naissance d’une autre personne. Ne le faites que si elle sait que vous demandez cette lecture — et, pour une lecture entre collègues, seulement avec son accord. J’utilise ses données pour votre lecture, et pour rien d’autre.
 
 ## Qui d’autre y a accès
 
@@ -35,7 +35,7 @@ Ces services peuvent stocker ou traiter des données hors de l’Union européen
 
 ## Ni cookies, ni pistage
 
-Ce site ne dépose aucun cookie, et n’utilise ni outil de mesure d’audience ni traceur publicitaire. Les polices sont servies par ce site, pas par un tiers. La prairie en mouvement derrière les pages est dessinée par votre propre navigateur ; rien n’en est envoyé nulle part. Le ciel de la page d’accueil vient de [FreeAstroAPI](https://freeastroapi.com), interrogé par le serveur de ce site quelques fois par jour — jamais par votre navigateur, et rien sur vous ne lui est envoyé. Votre navigateur fait ensuite avancer les planètes à la minute près.
+Ce site ne dépose aucun cookie, et n’utilise ni outil de mesure d’audience ni traceur publicitaire. Les polices sont servies par ce site, pas par un tiers. La prairie en mouvement derrière les pages est dessinée par votre propre navigateur ; rien n’en est envoyé nulle part.{{% live-sky %}} Le ciel de la page d’accueil vient de [FreeAstroAPI](https://freeastroapi.com), interrogé par le serveur de ce site quelques fois par jour — jamais par votre navigateur, et rien sur vous ne lui est envoyé. Votre navigateur fait ensuite avancer les planètes à la minute près.{{% /live-sky %}}
 
 ## Combien de temps je garde tout cela
 

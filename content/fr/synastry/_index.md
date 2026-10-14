@@ -21,7 +21,7 @@ looks:
       text: "Pourquoi certaines conversations coulent toutes seules et d’autres se nouent, ce qui vous apaise de part et d’autre, et comment vous vous retrouvez après une journée difficile."
     - title: "Les contacts sensibles"
       planets: "Saturne · Chiron · Lilith"
-      text: "Là où vous pouvez vous blesser sans le vouloir — et là où, avec soin, vous pouvez vous aider mutuellement à guérir."
+      text: "Là où vous pouvez vous blesser sans le vouloir — et là où, une fois que vous le savez, vous pouvez vous aider mutuellement à guérir."
 
 typesTitle: "Choisissez le lien <em>que vous voulez comprendre</em>"
 typesLede: "La même méthode, quatre types de questions. Chaque lecture regarde d’abord ce qui compte le plus dans ce type de relation."
@@ -35,19 +35,19 @@ steps:
       text: "Dites-moi de quel lien il s’agit, et racontez-m’en autant ou aussi peu que vous le voulez."
     - title: "Vous m’envoyez vos données de naissance, à vous deux"
       text: "Date, heure et lieu, pour l’une et l’autre personne. Les heures aident, mais ne sont pas indispensables — je vous dirai ce qu’on gagne et ce qu’on perd sans elles."
-    - title: "Je lis les deux thèmes, puis l’espace entre eux"
-      text: "D’abord chaque thème séparément, pour bien comprendre chacune des deux personnes. Ensuite, la façon dont ils se rencontrent."
+    - title: "Les deux thèmes, puis l’espace entre eux"
+      text: "D’abord chaque thème séparément, puis la façon dont ils se rencontrent — une lecture préparée avec un système que j’ai construit moi-même, et lue par moi avant d’être envoyée."
     - title: "Vous recevez votre lecture"
-      text: "Avec des mots simples et doux — sur vous deux, et jamais contre personne."
+      text: "Avec des mots simples, sur vous deux et jamais contre personne — dans un espace privé en ligne, à annoter et à télécharger en PDF."
 
 care:
   label: "Soin et consentement"
-  title: "Quelqu’un d’autre est dans cette lecture, <em>alors on y va doucement</em>"
+  title: "Quelqu’un d’autre est dans cette lecture, <em>alors cette personne doit le savoir</em>"
   items:
     - title: "Deux adultes"
       text: "Les deux personnes doivent avoir 18 ans ou plus. Je ne fais aucune lecture au sujet d’un enfant, même dans une synastrie familiale."
-    - title: "Les données de l’autre, partagées avec soin"
-      text: "La synastrie demande les données de naissance de l’autre personne. Ne les partagez que d’une façon que vous pourriez lui raconter sans gêne — idéalement, avec sa bénédiction."
+    - title: "Les données de l’autre, jamais dans son dos"
+      text: "La synastrie demande les données de naissance de l’autre personne. Ne les partagez que si elle sait que vous demandez cette lecture — le formulaire vous demande de le confirmer."
     - title: "Jamais de verdict"
       text: "Je ne vous dirai pas de rester, de partir, de pardonner ou de couper les ponts. Cette décision vous appartient, et c’est bien ainsi."
     - title: "Les deux côtés, à égalité"
@@ -59,9 +59,9 @@ faq:
   - q: "Allez-vous nous dire si nous sommes compatibles ?"
     a: "Pas sous forme de verdict. Toute relation a des contacts faciles et des contacts durs ; ce qui compte, c’est la façon dont vous les abordez. Vous saurez où ça circule et où faire attention — ce qui est bien plus utile qu’un pourcentage."
   - q: "Puis-je demander une lecture sans l’autre personne ?"
-    a: "Pour les couples, les amis et la famille, oui — la plupart des gens font la demande de leur côté. Je vous demanderai seulement de partager ses données avec soin, et je lirai son thème avec la même douceur que le vôtre. Pour une lecture entre collègues, je demande d’abord l’accord de votre collègue."
+    a: "Oui — la plupart des gens font la demande de leur côté. L’autre personne n’a pas à y participer, mais elle doit savoir que vous demandez cette lecture, et je lis son thème avec le même respect que le vôtre. Pour une lecture entre collègues, il faut aussi l’accord de votre collègue."
   - q: "Peut-on lire une relation qui est terminée ?"
-    a: "Oui, avec douceur. Parfois, comprendre pourquoi ça a fait mal, c’est toute la lecture — et ça peut vous aider à refermer la porte doucement."
+    a: "Oui. Parfois, comprendre pourquoi ça a fait mal, c’est toute la lecture — et ça peut vous aider à refermer la porte."
 
 closing:
   kicker: "Vous ne savez pas quel lien choisir ?"
