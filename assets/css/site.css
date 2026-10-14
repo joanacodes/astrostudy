@@ -754,15 +754,17 @@ main:focus {
   backdrop-filter: blur(26px) saturate(1.4) brightness(1.04);
   border: 1px solid rgba(255, 255, 255, 0.55);
   border-radius: 14px;
+  overflow: hidden;
 }
+/* Rows fill the width, with a line before each fact and above each row. They are shadows rather
+   than borders so the ones falling on the box's own edge (first column, first row) are clipped by
+   the overflow — wherever the facts happen to wrap, however many there are. */
 .facts li {
+  flex: 1 1 auto;
   padding: 14px 22px;
   text-align: left;
-  border-left: 1px solid var(--line);
+  box-shadow: -1px 0 0 var(--line), 0 -1px 0 var(--line);
   min-width: 150px;
-}
-.facts li:first-child {
-  border-left: 0;
 }
 .facts .label {
   display: block;
@@ -782,14 +784,10 @@ main:focus {
   .facts li {
     min-width: 0;
     padding: 12px 14px;
-    border-left: 0;
-    border-top: 1px solid var(--line);
   }
-  .facts li:nth-child(2n) {
-    border-left: 1px solid var(--line);
-  }
-  .facts li:nth-child(-n + 2) {
-    border-top: 0;
+  /* an odd fact out takes the whole last row rather than leaving an empty cell beside it */
+  .facts li:last-child:nth-child(odd) {
+    grid-column: 1 / -1;
   }
 }
 
