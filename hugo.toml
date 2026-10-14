@@ -18,10 +18,11 @@ disableKinds = ["taxonomy", "term", "rss"]
     contentDir = "content/en"
     weight = 1
     [languages.en.params]
-      description = "Birth chart readings for adults and synastry readings for couples, friends, co-workers and family. Written in soft, plain language, by someone who tested astrology before trusting it."
+      description = "Birth chart readings for adults and synastry readings for couples, friends, co-workers and family. Written in plain language, by someone who tested astrology before trusting it."
       ogImage = "media/og.jpg"
       replyTime = ""      # e.g. "within three working days" — empty = no promise is shown
       format = ""         # e.g. "A private online reading, within 10 days" — empty = the line written in each page
+      nextSlot = ""       # e.g. "this week", "from 3 November" — shown under the form's reading menu; empty = hidden
     [[languages.en.menus.main]]
       name = "Birth chart"
       pageRef = "/birth-chart"
@@ -59,11 +60,12 @@ disableKinds = ["taxonomy", "term", "rss"]
     contentDir = "content/fr"
     weight = 2
     [languages.fr.params]
-      description = "Lectures de thème natal pour adultes, et synastries pour les couples, les amis, les collègues et la famille. Écrites avec des mots simples et doux, par quelqu’un qui a testé l’astrologie avant d’y croire."
+      description = "Lectures de thème natal pour adultes, et synastries pour les couples, les amis, les collègues et la famille. Écrites avec des mots simples, par quelqu’un qui a testé l’astrologie avant d’y croire."
       ogImage = "media/og-fr.jpg"
       maisonTarot = ""    # the French pages of Maison Tarot, once it has its final address
       replyTime = ""      # ex. « sous trois jours ouvrés » — vide = aucune promesse affichée
       format = ""         # ex. « Une lecture privée, en ligne, sous 10 jours »
+      nextSlot = ""       # ex. « cette semaine », « à partir du 3 novembre » — vide = rien d’affiché
     [languages.fr.permalinks.page]
       synastry = "/synastrie/:slug/"
     [languages.fr.permalinks.section]

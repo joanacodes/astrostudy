@@ -29,6 +29,9 @@
       <option value="{{ .label }}" data-id="{{ .id }}" data-kind="{{ .kind }}"{{ with .consent }} data-consent="{{ . }}"{{ end }}>{{ .label }}</option>
       {{- end }}
     </select>
+    {{- with site.Params.nextSlot }}
+    <p class="hint">{{ i18n "nextSlot" (dict "when" .) }}</p>
+    {{- end }}
   </div>
 
   <div class="field">

@@ -90,7 +90,7 @@ Messages go through [FormSubmit](https://formsubmit.co) to **hello@astrostudy.co
 2. **Then hide the address** (recommended). After activation FormSubmit gives you a random alias. Put it in `hugo.toml` → `formEndpoint` and `formAjaxEndpoint` (`https://formsubmit.co/<alias>` and `https://formsubmit.co/ajax/<alias>`), so bots can’t read the address in the page source.
 3. People who write get an automatic confirmation, in the language they wrote in (`autoresponse` in `i18n/en.toml` and `i18n/fr.toml`). Edit the wording there.
 
-The form asks for a name, an email, which reading, a message, optional birth details (yours, and for synastry the other person’s), and an 18+ confirmation — plus, for synastry, confirmation that the other person is an adult and that their details are shared with care. Spam is filtered with a hidden honeypot field.
+The form asks for a name, an email, which reading, a message, optional birth details (yours, and for synastry the other person’s), and an 18+ confirmation — plus, for synastry, confirmation that the other person is an adult and knows about the reading (for co-workers, that they have agreed). Spam is filtered with a hidden honeypot field.
 
 ## The meadow
 
@@ -133,7 +133,7 @@ The video loop is seamless: the wind and the pollen repeat exactly every 16 seco
 
 1. **Hosting**: the three secrets above (until then `main` publishes the GitHub Pages preview). Attach **astrostudy.co.uk** to the Worker as a custom domain (see Hosting). `baseURL` in `hugo.toml` stays the canonical address.
 2. **FormSubmit**: send one test message from the live site and click the activation link (see above).
-3. **Prices and format**: `priceBirthChart`, `priceSynastry` in `[params]`, and `format`, `replyTime` for each language in `hugo.toml`. Until they’re filled, the site says “On request” / “Sur demande” and makes no promise about delays.
+3. **Prices and format**: `priceBirthChart`, `priceSynastry` in `[params]`, and `format`, `replyTime`, `nextSlot` for each language in `hugo.toml`. Until they’re filled, the site says “On request” / “Sur demande” and makes no promise about delays; `nextSlot` (e.g. “this week”) shows a “Next available slot” line in the form, to update as bookings fill.
 4. **Legal notice and privacy**: fill `[params.legal]` in `hugo.toml` (see Legal notice) — including a consumer mediator, which French law requires before selling to consumers. Check the retention periods written in `content/en/privacy.md` and `content/fr/privacy.md` (twelve months for messages, two years for readings) match what you actually do. Before taking paid orders, the site will also need terms of sale (*CGV*: prices, payment, the 14-day withdrawal right and how it applies to a reading).
 5. **The client’s message** on the home page is shortened and anonymised, with the most personal passages left out (the French version says it’s translated). If you haven’t already, ask them whether they’re happy to have it there.
 6. **Instagram**: `instagram` in `hugo.toml`, if you want the link in the footer.
