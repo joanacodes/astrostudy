@@ -1,0 +1,77 @@
+# Astrostudy — Hugo configuration.
+# One canonical domain. The deploy workflow overrides baseURL with the GitHub Pages address until a custom domain is set.
+baseURL = "https://astrostudy.co.uk/"
+title = "Astrostudy"
+locale = "en-GB"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+timeZone = "Europe/London"
+disableKinds = ["taxonomy", "term", "rss"]
+
+[params]
+  brand = "Astrostudy"
+  description = "Birth chart readings for adults and synastry readings for couples, friends, coworkers and family. Written in soft, plain language, by someone who tested astrology before trusting it."
+  email = "hello@astrostudy.co.uk"
+  # FormSubmit: the first message sent triggers an activation email to this address. Click "Activate" once.
+  # After activation FormSubmit offers a random alias (formsubmit.co/el/xxxx): paste it here to hide the address from bots.
+  formEndpoint = "https://formsubmit.co/hello@astrostudy.co.uk"
+  formAjaxEndpoint = "https://formsubmit.co/ajax/hello@astrostudy.co.uk"
+  # Empty = hidden. Fill when ready.
+  instagram = ""          # e.g. "https://www.instagram.com/astrostudy"
+  maisonTarot = ""        # the Maison Tarot site, once it has its final address
+  replyTime = ""          # e.g. "within three working days" — empty = no promise is shown
+  priceBirthChart = ""    # e.g. "£65" — empty = "on request"
+  priceSynastry = ""      # e.g. "£95"
+  format = ""             # e.g. "A written reading, sent by email within 10 days" — empty = the generic line in each page
+  [params.legal]
+    # Needed for the privacy notice (UK GDPR: who is responsible for the data). Empty = a reminder shows in local preview only.
+    controllerName = ""
+    controllerAddress = ""
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.goldmark.extensions]
+    typographer = true
+
+[outputs]
+  home = ["HTML"]
+  section = ["HTML"]
+  page = ["HTML"]
+
+[minify]
+  minifyOutput = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+
+[menus]
+  [[menus.main]]
+    name = "Birth chart"
+    pageRef = "/birth-chart"
+    weight = 10
+  [[menus.main]]
+    name = "Synastry"
+    pageRef = "/synastry"
+    weight = 20
+  [[menus.main]]
+    name = "How I read"
+    pageRef = "/how-i-read"
+    weight = 30
+  [[menus.main]]
+    name = "Kind words"
+    url = "/#kind-words"
+    weight = 40
+  [[menus.footer]]
+    name = "Write to me"
+    pageRef = "/contact"
+    weight = 10
+  [[menus.footer]]
+    name = "Disclaimers"
+    pageRef = "/disclaimers"
+    weight = 20
+  [[menus.footer]]
+    name = "Privacy"
+    pageRef = "/privacy"
+    weight = 30

@@ -1,0 +1,42 @@
+<footer class="footer">
+  <div class="wrap">
+    <div class="footer__grid">
+      <div>
+        <a class="brand" href="{{ site.Home.RelPermalink }}"><span class="brand__mark" aria-hidden="true"></span><span>astro<em>study</em></span></a>
+        <p>Birth chart readings for adults, and synastry readings for the people you share your life with. Written in soft, plain language.</p>
+        <p><a href="mailto:{{ site.Params.email }}">{{ site.Params.email }}</a>{{ with site.Params.instagram }} · <a href="{{ . }}" rel="me noopener">Instagram</a>{{ end }}</p>
+      </div>
+      <div>
+        <h2>Readings</h2>
+        <ul>
+          <li><a href="{{ "birth-chart/" | relURL }}">Birth chart</a></li>
+          <li><a href="{{ "synastry/" | relURL }}">Synastry</a></li>
+          <li><a href="{{ "synastry/couples/" | relURL }}">Couples</a></li>
+          <li><a href="{{ "synastry/friends/" | relURL }}">Friends</a></li>
+          <li><a href="{{ "synastry/coworkers/" | relURL }}">Coworkers</a></li>
+          <li><a href="{{ "synastry/family/" | relURL }}">Family</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2>Astrostudy</h2>
+        <ul>
+          <li><a href="{{ "how-i-read/" | relURL }}">How I read</a></li>
+          <li><a href="{{ site.Home.RelPermalink }}#kind-words">Kind words</a></li>
+          <li><a href="{{ "contact/" | relURL }}" data-contact>Write to me</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2>Small print</h2>
+        <ul>
+          {{- range site.Menus.footer }}{{ if ne .Name "Write to me" }}
+          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+          {{- end }}{{ end }}
+        </ul>
+      </div>
+    </div>
+    <div class="footer__fine">
+      <p>Readings are for adults (18+) and are offered for reflection and entertainment. They are not medical, legal, financial or psychological advice, and no outcome is promised. <a href="{{ "disclaimers/" | relURL }}">Everything we say about that</a>.</p>
+      <p>© {{ now.Year }} Astrostudy</p>
+    </div>
+  </div>
+</footer>

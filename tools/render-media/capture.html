@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head><meta charset="utf-8"><title>meadow capture</title><style>html,body{margin:0;background:#000}canvas{display:block;width:320px;height:180px}</style></head>
+<body>
+<canvas id="c"></canvas>
+<script type="module">
+  import { createMeadow, OPENING_MOMENT } from '/assets/js/meadow/index.js';
+  const q = new URLSearchParams(location.search);
+  const w = +q.get('w'), h = +q.get('h'), period = +(q.get('period') || 16), grain = +(q.get('grain') || 0);
+  const preset = q.get('preset') ? JSON.parse(q.get('preset')) : null;
+  window.T0 = OPENING_MOMENT;
+  try {
+    const canvas = document.getElementById('c');
+    const m = createMeadow(canvas, { capture: { width: w, height: h, period }, grain, adaptive: false, debug: preset ? { preset } : undefined });
+    await m.init();
+    m.setScroll(+(q.get('scroll') || 0));
+    window.frame = (t, dt) => { m.renderAt(t, dt); return canvas.toDataURL('image/png'); };
+    window.warm = (t, n) => { for (let i = 0; i < n; i++) m.renderAt(t, 1 / 30); };
+    window.__ready = true;
+  } catch (e) {
+    window.__err = String((e && e.stack) || e);
+  }
+</script>
+</body>
+</html>

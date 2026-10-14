@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en-GB" class="no-js">
+<head>
+{{ partial "head.html" . }}
+</head>
+<body data-page="{{ with .Params.type }}{{ . }}{{ else }}{{ if .IsHome }}home{{ else }}{{ .Section | default "page" }}{{ end }}{{ end }}">
+  <a class="skip" href="#main">Skip to content</a>
+  <div class="meadow" aria-hidden="true" data-loop-wide="{{ "media/meadow-loop-wide.mp4" | relURL }}" data-loop-tall="{{ "media/meadow-loop-tall.mp4" | relURL }}">
+    <div class="meadow__poster"></div>
+    <canvas></canvas>
+  </div>
+  <div class="site">
+    {{ partial "header.html" . }}
+    <main id="main" tabindex="-1">
+      {{ block "main" . }}{{ end }}
+    </main>
+    {{ partial "footer.html" . }}
+  </div>
+  {{ partial "contact.html" . }}
+  <p class="visually-hidden" aria-live="polite" id="announcer"></p>
+  {{ partial "scripts.html" . }}
+</body>
+</html>

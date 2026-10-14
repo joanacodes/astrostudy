@@ -1,0 +1,33 @@
+{{- $r := hugo.Data.reviews }}
+<section class="paper section" id="kind-words" aria-labelledby="kind-words-title">
+  <div class="wrap">
+    {{ partial "meta.html" (dict "n" .n "label" "Kind words") }}
+    <h2 class="visually-hidden" id="kind-words-title">Kind words</h2>
+    {{- with $r.featured }}
+    <figure class="quote-feature">
+      <p class="quote-feature__pull" data-reveal>“{{ .pull }}”</p>
+      <div>
+        <blockquote data-reveal style="--d:.1s">
+          {{- range .quote }}
+          <p>{{ . }}</p>
+          {{- end }}
+        </blockquote>
+        <figcaption data-reveal style="--d:.16s"><strong>{{ .name }}</strong> — {{ .context }}</figcaption>
+      </div>
+    </figure>
+    {{- end }}
+    {{- with $r.tarot }}
+    <div style="margin-top:clamp(56px,7vw,96px)">
+      <p class="label" data-reveal>And from my tarot readings, on the Maison Tarot page — tarot, not astrology, but the same reader</p>
+      <div class="quotes" style="margin-top:18px" data-reveal>
+        {{- range . }}
+        <figure class="quote">
+          <blockquote>“{{ .quote }}”</blockquote>
+          <figcaption><strong>{{ .name }}</strong> — {{ .context }}</figcaption>
+        </figure>
+        {{- end }}
+      </div>
+    </div>
+    {{- end }}
+  </div>
+</section>

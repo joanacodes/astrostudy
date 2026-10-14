@@ -1,0 +1,5 @@
+{{- $opts := dict "minify" hugo.IsProduction "format" "esm" "target" "es2020" }}
+{{- $ui := resources.Get "js/site.js" | js.Build $opts | fingerprint }}
+{{- $meadow := resources.Get "js/meadow-boot.js" | js.Build $opts | fingerprint }}
+<script type="module" src="{{ $ui.RelPermalink }}" integrity="{{ $ui.Data.Integrity }}"></script>
+<script type="module" src="{{ $meadow.RelPermalink }}" integrity="{{ $meadow.Data.Integrity }}" async></script>

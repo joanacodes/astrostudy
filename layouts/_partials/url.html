@@ -1,0 +1,7 @@
+{{- /* Turns a link written in content or config into one that works under any base path:
+       "#anchor" and external links stay as they are; "/page/" and "page/" go through relURL. */ -}}
+{{- $u := . -}}
+{{- if not (or (hasPrefix $u "#") (hasPrefix $u "http") (hasPrefix $u "mailto:") (hasPrefix $u "tel:")) -}}
+  {{- $u = strings.TrimPrefix "/" $u | relURL -}}
+{{- end -}}
+{{- return $u -}}

@@ -1,0 +1,16 @@
+<header class="header" data-header>
+  <a class="brand" href="{{ site.Home.RelPermalink }}" aria-label="Astrostudy — home"><span class="brand__mark" aria-hidden="true"></span><span>astro<em>study</em></span></a>
+  <nav class="nav" aria-label="Main" data-nav>
+    {{- $page := . }}
+    {{- range site.Menus.main }}
+    <a href="{{ .URL }}"{{ if or ($page.IsMenuCurrent "main" .) ($page.HasMenuCurrent "main" .) }} aria-current="page"{{ end }}>{{ .Name }}</a>
+    {{- end }}
+  </nav>
+  <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="drawer" data-menu><span class="menu-toggle__lines" aria-hidden="true"></span><span data-menu-label>Menu</span></button>
+</header>
+<div class="drawer" id="drawer" inert>
+  <a href="{{ site.Home.RelPermalink }}">Home</a>
+  {{- range site.Menus.main }}
+  <a href="{{ .URL }}">{{ .Name }}</a>
+  {{- end }}
+</div>

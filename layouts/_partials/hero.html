@@ -1,0 +1,23 @@
+{{- $p := .page }}
+<section class="hero{{ if not $p.IsHome }} hero--page{{ end }}">
+  <div class="hero__inner halo">
+    {{ with $p.Params.eyebrow }}<p class="eyebrow" data-reveal>{{ . }}</p>{{ end }}
+    <h1 data-reveal style="--d:.08s">{{ $p.Params.h1 | default $p.Title | safeHTML }}</h1>
+    {{ with $p.Params.lede }}<p class="lede" data-reveal style="--d:.18s">{{ . | safeHTML }}</p>{{ end }}
+    {{- with .actions }}
+    <div class="hero__actions" data-reveal style="--d:.28s">
+      {{- range . }}
+      <a class="btn{{ if .solid }} btn--solid{{ end }}" href="{{ partial "url.html" .href }}"{{ if .contact }} data-contact{{ end }}{{ with .reading }} data-reading="{{ . }}"{{ end }}>{{ .label }} <span class="btn__arrow" aria-hidden="true">{{ .arrow | default "→" }}</span></a>
+      {{- end }}
+    </div>
+    {{- end }}
+    {{- with .facts }}
+    <ul class="facts" data-reveal style="--d:.36s">
+      {{- range . }}
+      <li><span class="label">{{ .k }}</span><strong>{{ .v }}</strong></li>
+      {{- end }}
+    </ul>
+    {{- end }}
+  </div>
+  <span class="stem" aria-hidden="true"></span>
+</section>

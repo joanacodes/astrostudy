@@ -1,0 +1,7 @@
+# The readings, in the order they appear in the contact form. `id` travels in links (?reading=…).
+- { id: "unsure", label: "I’m not sure yet", kind: "" }
+- { id: "birth-chart", label: "Birth chart reading", kind: "single", page: "/birth-chart/" }
+- { id: "synastry-couples", label: "Synastry — couples", kind: "pair", page: "/synastry/couples/" }
+- { id: "synastry-friends", label: "Synastry — friends", kind: "pair", page: "/synastry/friends/" }
+- { id: "synastry-coworkers", label: "Synastry — coworkers", kind: "pair", page: "/synastry/coworkers/" }
+- { id: "synastry-family", label: "Synastry — family", kind: "pair", page: "/synastry/family/" }

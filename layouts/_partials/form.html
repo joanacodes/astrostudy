@@ -1,0 +1,95 @@
+{{- $id := .id }}
+{{- $preset := .reading | default "" }}
+<form class="form{{ if eq $id "page" }} form--page{{ end }}" action="{{ site.Params.formEndpoint }}" method="POST" accept-charset="UTF-8" data-form data-ajax="{{ site.Params.formAjaxEndpoint }}" data-email="{{ site.Params.email }}">
+  <input type="hidden" name="_subject" value="New message — astrostudy.co.uk" data-subject>
+  <input type="hidden" name="_template" value="table">
+  <input type="hidden" name="_next" value="{{ "thank-you/" | absURL }}">
+  <input type="hidden" name="_autoresponse" value="Thank you for writing to Astrostudy. Your message arrived safely — I read every one myself, and I’ll come back to you personally. If you didn’t mean to write, you can ignore this email.">
+  <div class="honey" aria-hidden="true"><label>Leave this empty <input type="text" name="_honey" tabindex="-1" autocomplete="off"></label></div>
+
+  <div class="row-2">
+    <div class="field">
+      <label for="{{ $id }}-name">Your name</label>
+      <input id="{{ $id }}-name" type="text" name="name" autocomplete="name" required>
+    </div>
+    <div class="field">
+      <label for="{{ $id }}-email">Email</label>
+      <input id="{{ $id }}-email" type="email" name="email" autocomplete="email" required>
+    </div>
+  </div>
+
+  <div class="field">
+    <label for="{{ $id }}-reading">What would you like?</label>
+    <select id="{{ $id }}-reading" name="reading" data-reading>
+      {{- range hugo.Data.readings }}
+      <option value="{{ .label }}" data-id="{{ .id }}" data-kind="{{ .kind }}"{{ if eq .id $preset }} selected{{ end }}>{{ .label }}</option>
+      {{- end }}
+    </select>
+  </div>
+
+  <div class="field">
+    <label for="{{ $id }}-message">Your message</label>
+    <textarea id="{{ $id }}-message" name="message" rows="5" placeholder="As much or as little as you like."></textarea>
+  </div>
+
+  <details data-birth>
+    <summary>Birth details <span class="hint">optional — you can send them later</span></summary>
+    <div class="inner">
+      <fieldset class="who">
+        <legend class="label">You</legend>
+        <div class="row-2">
+          <div class="field">
+            <label for="{{ $id }}-date">Date of birth</label>
+            <input id="{{ $id }}-date" type="date" name="birth_date" min="1900-01-01">
+          </div>
+          <div class="field">
+            <label for="{{ $id }}-time">Time</label>
+            <input id="{{ $id }}-time" type="time" name="birth_time">
+          </div>
+        </div>
+        <div class="field">
+          <label for="{{ $id }}-place">Place (town, country)</label>
+          <input id="{{ $id }}-place" type="text" name="birth_place" autocomplete="off">
+        </div>
+        <label class="check"><input type="checkbox" name="birth_time_unknown" value="I don’t know my exact time"><span>I don’t know my exact time — that’s fine, I’ll tell you what changes.</span></label>
+      </fieldset>
+      <fieldset class="who" data-pair hidden>
+        <legend class="label">The other person</legend>
+        <div class="field">
+          <label for="{{ $id }}-their-name">Their first name</label>
+          <input id="{{ $id }}-their-name" type="text" name="their_name" autocomplete="off">
+        </div>
+        <div class="row-2">
+          <div class="field">
+            <label for="{{ $id }}-their-date">Date of birth</label>
+            <input id="{{ $id }}-their-date" type="date" name="their_birth_date" min="1900-01-01">
+          </div>
+          <div class="field">
+            <label for="{{ $id }}-their-time">Time</label>
+            <input id="{{ $id }}-their-time" type="time" name="their_birth_time">
+          </div>
+        </div>
+        <div class="field">
+          <label for="{{ $id }}-their-place">Place (town, country)</label>
+          <input id="{{ $id }}-their-place" type="text" name="their_birth_place" autocomplete="off">
+        </div>
+      </fieldset>
+    </div>
+  </details>
+
+  <label class="check"><input type="checkbox" name="adult" value="Yes, 18 or over" required><span>I’m 18 or over.</span></label>
+  <label class="check" data-pair hidden><input type="checkbox" name="other_adult" value="Yes — 18 or over, details shared with care" data-pair-required><span>The other person is 18 or over too, and I’m sharing their details with care.</span></label>
+
+  <p class="fine">Your message reaches my inbox through FormSubmit, a form-to-email service. What happens to it next is in the <a href="{{ "privacy/" | relURL }}">privacy note</a>.</p>
+
+  <div class="actions">
+    <button class="btn btn--solid" type="submit" data-submit>Send my message <span class="btn__arrow" aria-hidden="true">→</span></button>
+    <p class="status" role="status" aria-live="polite" data-status></p>
+  </div>
+</form>
+<div class="sent" data-sent hidden tabindex="-1">
+  <p class="label">Sent</p>
+  <p class="display">Thank you. <em>It’s with me now.</em></p>
+  <p>I read every message myself{{ with site.Params.replyTime }} and reply {{ . }}{{ end }}. A short confirmation is on its way to your inbox — if it isn’t there in a few minutes, peek in your spam folder.</p>
+  <button class="again" type="button" data-again>Write another message <span aria-hidden="true">→</span></button>
+</div>

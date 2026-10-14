@@ -1,0 +1,8 @@
+<ol class="steps" data-progress data-steps>
+  {{- range . }}
+  <li data-reveal>
+    <h3>{{ .title | safeHTML }}</h3>
+    <p>{{ .text | safeHTML }}</p>
+  </li>
+  {{- end }}
+</ol>

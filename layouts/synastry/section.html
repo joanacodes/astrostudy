@@ -1,0 +1,107 @@
+{{ define "main" }}
+{{ partial "hero.html" (dict "page" . "actions" (slice (dict "label" "Choose a reading" "href" "#readings" "arrow" "↓" "solid" true) (dict "label" "Ask me first" "href" "contact/" "contact" true))) }}
+
+{{ with .Params.looks }}
+<section class="paper section" aria-labelledby="looks-title">
+  <div class="wrap">
+    {{ partial "meta.html" (dict "n" "01" "label" (.label | default "What synastry is")) }}
+    <div class="study">
+      <div class="study__figure" data-reveal>{{ partial "wheel-synastry.html" . }}</div>
+      <div>
+        <div class="section__head">
+          <h2 id="looks-title" data-reveal>{{ .title | safeHTML }}</h2>
+          {{ with .lede }}<p class="lede" data-reveal style="--d:.1s">{{ . | safeHTML }}</p>{{ end }}
+        </div>
+        <ol class="items">
+          {{- range $i, $e := .items }}
+          <li data-reveal>
+            <span class="rule"></span>
+            <span class="label label--index">{{ printf "%02d" (add $i 1) }}</span>
+            <h3>{{ .title | safeHTML }}</h3>
+            {{ with .planets }}<span class="planets">{{ . }}</span>{{ end }}
+            <p>{{ .text | safeHTML }}</p>
+          </li>
+          {{- end }}
+        </ol>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<section class="paper section" id="readings" aria-labelledby="readings-title">
+  <div class="wrap">
+    {{ partial "meta.html" (dict "n" "02" "label" "Four readings") }}
+    <div class="section__head">
+      <h2 id="readings-title" data-reveal>{{ .Params.typesTitle | safeHTML }}</h2>
+      {{ with .Params.typesLede }}<p class="lede" data-reveal style="--d:.1s">{{ . | safeHTML }}</p>{{ end }}
+    </div>
+    <div class="types">
+      {{- range $i, $p := .RegularPages.ByWeight }}
+      <a class="type" href="{{ .RelPermalink }}" data-reveal style="--d:{{ mul (mod $i 2) 0.1 }}s">
+        {{ partial "mark-pair.html" . }}
+        <h3>{{ .Params.short | default .Title | safeHTML }}</h3>
+        <p>{{ .Params.summary }}</p>
+        <span class="btn">{{ .Params.linkLabel | default .Title }} <span class="btn__arrow" aria-hidden="true">→</span></span>
+      </a>
+      {{- end }}
+    </div>
+  </div>
+</section>
+
+{{ with .Params.window }}
+<section class="window"><div class="window__text halo"><p class="display" data-reveal>{{ . | safeHTML }}</p></div></section>
+{{ end }}
+
+{{ with .Params.steps }}
+<section class="paper section" aria-labelledby="steps-title">
+  <div class="wrap">
+    {{ partial "meta.html" (dict "n" "03" "label" "How it goes") }}
+    <div class="split">
+      <div class="section__head">
+        <h2 id="steps-title" data-reveal>{{ .title | safeHTML }}</h2>
+        {{ with .lede }}<p class="lede" data-reveal style="--d:.1s">{{ . | safeHTML }}</p>{{ end }}
+      </div>
+      {{ partial "steps.html" .items }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ with .Params.care }}
+<section class="paper section" aria-labelledby="care-title">
+  <div class="wrap">
+    {{ partial "meta.html" (dict "n" "04" "label" (.label | default "Care and consent")) }}
+    <div class="section__head">
+      <h2 id="care-title" data-reveal>{{ .title | safeHTML }}</h2>
+      {{ with .lede }}<p class="lede" data-reveal style="--d:.1s">{{ . | safeHTML }}</p>{{ end }}
+    </div>
+    <div class="care">
+      {{- range $i, $e := .items }}
+      <div data-reveal style="--d:{{ mul (mod $i 2) 0.1 }}s">
+        <h3>{{ .title | safeHTML }}</h3>
+        <p>{{ .text | safeHTML }}</p>
+      </div>
+      {{- end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ with .Params.faq }}
+<section class="paper section" aria-labelledby="faq-title">
+  <div class="wrap">
+    {{ partial "meta.html" (dict "n" "05" "label" "Questions") }}
+    <div class="split">
+      <div class="section__head">
+        <h2 id="faq-title" data-reveal>Questions <em>people ask</em></h2>
+        <p class="lede" data-reveal style="--d:.1s">Anything else? <a class="link" href="{{ "contact/" | relURL }}" data-contact>Ask me</a> — there are no silly questions here.</p>
+      </div>
+      {{ partial "faq.html" . }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ partial "closing.html" (dict "closing" .Params.closing) }}
+{{ end }}

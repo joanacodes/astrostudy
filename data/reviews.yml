@@ -1,0 +1,24 @@
+# Kind words. Quoted as written; cuts are marked with an ellipsis.
+#
+# featured: a message a client sent on Instagram after a birth chart reading,
+# shortened and anonymised — the most personal passages are left out on purpose.
+# Ask the client before publishing if you haven't already.
+featured:
+  pull: "I really feel ease after your reading."
+  quote:
+    - "I don't know where you live or who you are or what's your actual name… but I really want to meet you one day and want to thank you."
+    - "I always wonder why I always feel like delaying… why this situation feels so heavy… And you just find me the answers like I am an open book to you."
+    - "You wrote about my insecurities, about my internal collision, about my working style, about my strength, about my creativeness, about my communication skills, all of these with a really soft language."
+    - "I don't know about the degrees or how the planets work, but now I can understand… It feels like all my planets like to work inward first. I don't know whether to feel happy or sad… but I really feel ease after your reading."
+  name: "A client"
+  context: "after a birth chart reading · a message on Instagram, shortened"
+
+# Reviews of the same reader's tarot readings, published on the Maison Tarot Facebook page.
+# They are tarot, not astrology, and the site says so next to each one.
+tarot:
+  - { quote: "Everything that she said resonates. She was hitting the nail on its head when she mentioned my current situation. She also gives spot-on advice.", name: "Lhara B. S.", context: "tarot reading, April 2021" }
+  - { quote: "One of the best readings ever. Absolutely accurate, detailed and yet very sweet.", name: "Violeta S.", context: "tarot reading, April 2024" }
+  - { quote: "I had a reading with her during her live, and everything resonated so well. Very intuitive, spot on with my current situation, and she goes into detail.", name: "Rinckee B.", context: "live tarot reading, April 2021" }
+  - { quote: "Very accurate reading and gave me another perspective to approach my goals. Totally recommended.", name: "Kevin C. A.", context: "tarot reading, April 2021" }
+  - { quote: "Absolutely loved my reading! She got everything spot on and I am completely confident about my spiritual journey.", name: "Kylene P.", context: "tarot reading, April 2021" }
+  - { quote: "1000% recommended reader. I truly love the reading from her and it’s so spot on.", name: "Hana L.", context: "tarot reading, February 2021" }

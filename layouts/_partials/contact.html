@@ -1,0 +1,13 @@
+{{/* The contact button lives bottom left on every page. Without JavaScript it is a plain link to /contact/. */}}
+<a class="contact-fab" href="{{ "contact/" | relURL }}" data-contact aria-haspopup="dialog"><span class="contact-fab__dot" aria-hidden="true"></span>Contact</a>
+<dialog class="sheet" id="contact-sheet" aria-labelledby="sheet-title">
+  <div class="sheet__head">
+    <span class="label">Write to me</span>
+    <button class="sheet__close" type="button" data-close aria-label="Close"></button>
+  </div>
+  <div class="sheet__body">
+    <h2 id="sheet-title">Ask anything. <em>Gently is fine.</em></h2>
+    <p>A question, a reading, or just a hello. I read every message myself{{ with site.Params.replyTime }} and reply {{ . }}{{ end }}. No birth details needed yet.</p>
+    {{ partial "form.html" (dict "id" "sheet" "page" .) }}
+  </div>
+</dialog>
