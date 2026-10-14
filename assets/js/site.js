@@ -93,12 +93,12 @@ addEventListener('scroll', onScroll, { passive: true });
 addEventListener('resize', onScroll, { passive: true });
 
 /* ---------------------------------------------------------------------------------------------
-   Questions that open and close softly instead of jumping. */
+   Questions, and the menu's groups, that open and close softly instead of jumping. */
 
 function faqs(root) {
-  for (const d of $$('details[data-faq]', root)) {
+  for (const d of $$('details[data-faq], details[data-fold]', root)) {
     const summary = d.querySelector('summary');
-    const body = d.querySelector('.answer');
+    const body = d.querySelector('.answer, [data-fold-body]');
     summary.addEventListener('click', (e) => {
       if (reduce.matches || !body.animate) return;
       e.preventDefault();
@@ -133,8 +133,24 @@ function faqs(root) {
 
 const menuBtn = $('[data-menu]');
 const drawer = $('#drawer');
+// The menu lives outside <main>, so page changes don't redraw it: where you are is marked each time
+// it opens, while it's still invisible, and the group holding this page (a synastry reading) opens.
+function markDrawer() {
+  for (const a of $$('a:not([hreflang])', drawer)) {
+    const url = new URL(a.href, location.href);
+    if (!url.hash && url.pathname === location.pathname) a.setAttribute('aria-current', 'page');
+    else a.removeAttribute('aria-current');
+  }
+  for (const d of $$('details[data-fold]', drawer)) {
+    // a fold still animating from the last visit would otherwise finish by undoing this
+    for (const a of d.querySelector('[data-fold-body]')?.getAnimations?.() || []) a.cancel();
+    delete d.dataset.busy;
+    d.open = !!d.querySelector('a[aria-current]');
+  }
+}
 function setMenu(open) {
   if (!menuBtn || !drawer) return;
+  if (open) markDrawer();
   document.body.classList.toggle('menu-open', open);
   menuBtn.setAttribute('aria-expanded', String(open));
   drawer.inert = !open;

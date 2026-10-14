@@ -20,7 +20,26 @@
   {{- with $m.Params.fragment }}
   <a href="{{ site.Home.RelPermalink }}#{{ . }}">{{ $m.Name }}</a>
   {{- else }}
-  <a href="{{ .URL }}">{{ .Name }}</a>
+  {{- $kinds := slice }}
+  {{- with $m.Page }}{{ if .IsSection }}{{ $kinds = .RegularPages.ByWeight }}{{ end }}{{ end }}
+  {{- if $kinds }}
+  {{- /* A section with readings under it (Synastry) opens in place, so a phone reaches a kind of
+         reading in one tap; the overview stays one tap further, as "See all". New readings added to
+         the section appear here by themselves, in their weight order. */}}
+  <details class="drawer__group" data-fold>
+    <summary>{{ $m.Name }}</summary>
+    <div class="drawer__sub" data-fold-body>
+      <div>
+        {{- range $kinds }}
+        <a href="{{ .RelPermalink }}">{{ .Params.short | default .LinkTitle }}</a>
+        {{- end }}
+        <a class="drawer__all" href="{{ $m.URL }}">{{ i18n "seeAll" }}<span class="visually-hidden"> — {{ $m.Name }}</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </div>
+  </details>
+  {{- else }}
+  <a href="{{ $m.URL }}">{{ $m.Name }}</a>
+  {{- end }}
   {{- end }}
   {{- end }}
   <a class="drawer__lang" href="{{ $other.url }}" hreflang="{{ $other.locale }}" lang="{{ $other.locale }}" data-lang-link>{{ i18n "otherLang" }}</a>
