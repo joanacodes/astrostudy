@@ -180,15 +180,26 @@ a {
   height: 100%;
 }
 .meadow__poster {
-  background-image: image-set(url("../media/meadow-poster-wide.webp") type("image/webp"), url("../media/meadow-poster-wide.jpg") type("image/jpeg"));
+  background-image: url("../media/meadow-poster-wide.jpg");
   background-size: cover;
   background-position: center 62%;
   transition: opacity 1.6s var(--ease);
 }
 @media (orientation: portrait) {
   .meadow__poster {
-    background-image: image-set(url("../media/meadow-poster-tall.webp") type("image/webp"), url("../media/meadow-poster-tall.jpg") type("image/jpeg"));
+    background-image: url("../media/meadow-poster-tall.jpg");
     background-position: center 70%;
+  }
+}
+/* WebP where the browser can choose; the minifier would merge a plain fallback away, hence @supports */
+@supports (background-image: image-set(url("a.webp") type("image/webp"))) {
+  .meadow__poster {
+    background-image: image-set(url("../media/meadow-poster-wide.webp") type("image/webp"), url("../media/meadow-poster-wide.jpg") type("image/jpeg"));
+  }
+  @media (orientation: portrait) {
+    .meadow__poster {
+      background-image: image-set(url("../media/meadow-poster-tall.webp") type("image/webp"), url("../media/meadow-poster-tall.jpg") type("image/jpeg"));
+    }
   }
 }
 .meadow canvas,
@@ -597,6 +608,25 @@ main {
 .facts strong {
   font-weight: 500;
   font-size: 0.92rem;
+}
+@media (max-width: 640px) {
+  .facts {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    width: 100%;
+  }
+  .facts li {
+    min-width: 0;
+    padding: 12px 14px;
+    border-left: 0;
+    border-top: 1px solid var(--line);
+  }
+  .facts li:nth-child(2n) {
+    border-left: 1px solid var(--line);
+  }
+  .facts li:nth-child(-n + 2) {
+    border-top: 0;
+  }
 }
 
 /* the stem that grows under the hero, telling you to scroll */

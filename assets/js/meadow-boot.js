@@ -66,10 +66,10 @@ async function boot() {
     host.classList.remove('is-live');
     useVideo();
   };
+  // Each visit opens on the same sky as the poster, then lets it drift. The page changes without
+  // reloading, so the clock keeps running from page to page.
+  const clock = () => OPENING_MOMENT + performance.now() / 1000;
   try {
-    // Each visit opens on the same sky as the poster, then lets it drift. The page changes without
-    // reloading, so the clock keeps running from page to page.
-    const clock = () => OPENING_MOMENT + performance.now() / 1000;
     meadow = createMeadow(canvas, { quality: firstQuality(), onStruggle: giveUp, clock });
     if (!meadow) return useVideo();
     await meadow.init();
@@ -82,6 +82,8 @@ async function boot() {
   addEventListener('scroll', sync, { passive: true });
   addEventListener('astro:page', sync);
   sync();
+  // a few settled frames straight away, so there is always a picture before the canvas fades in
+  meadow.still(clock(), 3);
 
   // The paper sheets hide almost all of the meadow. Only draw while one of its openings (the hero,
   // a window between sheets, the closing sky) is on screen: it saves battery, and the browser no
