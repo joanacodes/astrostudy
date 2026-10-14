@@ -1,0 +1,13 @@
+{{ define "main" }}
+{{ partial "hero.html" (dict "page" .) }}
+<section class="paper section">
+  <div class="wrap">
+    {{ with .Params.metaLabel }}{{ partial "meta.html" (dict "label" .) }}<div style="height:clamp(28px,4vw,56px)"></div>{{ end }}
+    <div class="prose" data-reveal>{{ .Content }}</div>
+    {{ if .Params.form }}
+    <div style="margin-top:48px" data-reveal>{{ partial "form.html" (dict "id" "page" "page" .) }}</div>
+    {{ end }}
+  </div>
+</section>
+{{ with .Params.closing }}{{ partial "closing.html" (dict "closing" .) }}{{ end }}
+{{ end }}

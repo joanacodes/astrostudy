@@ -1,0 +1,146 @@
+# The Astro Study — Hugo configuration.
+# One canonical domain. The site is served by Cloudflare (wrangler.jsonc); the sky of the day comes from
+# worker/index.js at /api/sky, not from the build.
+baseURL = "https://astrostudy.co.uk/"
+title = "The Astro Study"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+timeZone = "Europe/London"
+disableKinds = ["taxonomy", "term", "rss"]
+
+# English is the main site, at the root. French lives under /fr/: the same pages, French addresses
+# (/fr/theme-natal/, /fr/synastrie/collegues/…). A page and its translation share a file name.
+[languages]
+  [languages.en]
+    label = "English"
+    locale = "en-GB"
+    contentDir = "content/en"
+    weight = 1
+    [languages.en.params]
+      description = "Birth chart readings for adults and synastry readings for couples, friends, co-workers and family. Written in soft, plain language, by someone who tested astrology before trusting it."
+      ogImage = "media/og.jpg"
+      replyTime = ""      # e.g. "within three working days" — empty = no promise is shown
+      format = ""         # e.g. "A written reading, sent by email within 10 days" — empty = the line written in each page
+    [[languages.en.menus.main]]
+      name = "Birth chart"
+      pageRef = "/birth-chart"
+      weight = 10
+    [[languages.en.menus.main]]
+      name = "Synastry"
+      pageRef = "/synastry"
+      weight = 20
+    [[languages.en.menus.main]]
+      name = "How I read"
+      pageRef = "/how-i-read"
+      weight = 30
+    [[languages.en.menus.main]]
+      name = "Kind words"
+      pageRef = "/"
+      weight = 40
+      [languages.en.menus.main.params]
+        fragment = "kind-words"
+    [[languages.en.menus.footer]]
+      name = "Disclaimers"
+      pageRef = "/disclaimers"
+      weight = 20
+    [[languages.en.menus.footer]]
+      name = "Privacy"
+      pageRef = "/privacy"
+      weight = 30
+    [[languages.en.menus.footer]]
+      name = "Legal notice"
+      pageRef = "/legal-notice"
+      weight = 40
+
+  [languages.fr]
+    label = "Français"
+    locale = "fr-FR"
+    contentDir = "content/fr"
+    weight = 2
+    [languages.fr.params]
+      description = "Lectures de thème natal pour adultes, et synastries pour les couples, les amis, les collègues et la famille. Écrites avec des mots simples et doux, par quelqu’un qui a testé l’astrologie avant d’y croire."
+      ogImage = "media/og-fr.jpg"
+      maisonTarot = ""    # the French pages of Maison Tarot, once it has its final address
+      replyTime = ""      # ex. « sous trois jours ouvrés » — vide = aucune promesse affichée
+      format = ""         # ex. « Une lecture écrite, envoyée par e-mail sous 10 jours »
+    [languages.fr.permalinks.page]
+      synastry = "/synastrie/:slug/"
+    [languages.fr.permalinks.section]
+      synastry = "/synastrie/"
+    [[languages.fr.menus.main]]
+      name = "Thème natal"
+      pageRef = "/birth-chart"
+      weight = 10
+    [[languages.fr.menus.main]]
+      name = "Synastrie"
+      pageRef = "/synastry"
+      weight = 20
+    [[languages.fr.menus.main]]
+      name = "Ma méthode"
+      pageRef = "/how-i-read"
+      weight = 30
+    [[languages.fr.menus.main]]
+      name = "Témoignages"
+      pageRef = "/"
+      weight = 40
+      [languages.fr.menus.main.params]
+        fragment = "kind-words"
+    [[languages.fr.menus.footer]]
+      name = "Avertissements"
+      pageRef = "/disclaimers"
+      weight = 20
+    [[languages.fr.menus.footer]]
+      name = "Confidentialité"
+      pageRef = "/privacy"
+      weight = 30
+    [[languages.fr.menus.footer]]
+      name = "Mentions légales"
+      pageRef = "/legal-notice"
+      weight = 40
+
+[params]
+  brand = "The Astro Study"
+  email = "hello@astrostudy.co.uk"
+  # FormSubmit: the first message sent triggers an activation email to this address. Click "Activate" once.
+  # After activation FormSubmit offers a random alias (formsubmit.co/el/xxxx): paste it into both lines below so the
+  # address isn't in the form's code. It still appears where the site shows it on purpose (footer, contact page).
+  formEndpoint = "https://formsubmit.co/hello@astrostudy.co.uk"
+  formAjaxEndpoint = "https://formsubmit.co/ajax/hello@astrostudy.co.uk"
+  # Empty = hidden. Fill when ready. Any of these can also be set per language, under [languages.xx.params].
+  instagram = ""          # e.g. "https://www.instagram.com/astrostudy"
+  maisonTarot = ""        # the Maison Tarot site, once it has its final address
+  priceBirthChart = ""    # e.g. "£65" — empty = "on request"
+  priceSynastry = ""      # e.g. "£95"
+  [params.legal]
+    # The legal notice (mentions légales, required by French law for a site published from France) and the
+    # privacy notice read these. Anything left empty shows on those pages as a highlighted [to fill in] marker,
+    # and the build log lists it, so nothing is missing without anyone noticing.
+    publisherName = ""      # first name and surname, e.g. "Prénom Nom"
+    status = ""             # e.g. "Entrepreneur individuel (EI) — micro-entreprise"
+    address = ""            # postal address (a domiciliation address is fine)
+    phone = ""              # French law asks for a phone number on the legal notice
+    siren = ""              # SIREN (or SIRET) from the Registre national des entreprises
+    vat = ""                # optional, e.g. "TVA non applicable, art. 293 B du CGI"
+    mediatorName = ""       # the consumer mediator you've joined (required to sell to consumers in France)
+    mediatorUrl = ""        # its website
+    # Who serves the site: "cloudflare" or "github" (the preview on GitHub Pages). The deploy workflow sets it.
+    host = "cloudflare"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.goldmark.extensions]
+    typographer = true
+
+[outputs]
+  home = ["HTML"]
+  section = ["HTML"]
+  page = ["HTML"]
+
+[minify]
+  minifyOutput = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5

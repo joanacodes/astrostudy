@@ -1,0 +1,34 @@
+{{- /* The zodiac ring for "the sky right now", drawn like the other wheels (each stroke follows the
+       scroll). 0° Aries sits at nine o'clock and the signs run anticlockwise, as on a printed chart.
+       The planets are placed by the browser, at the minute the page is read (site.js, drawSky). */ -}}
+{{- $signs := split (i18n "signs") "," -}}
+{{- $rad := div math.Pi 180.0 -}}
+<svg class="wheel wheel--sky" viewBox="-216 -216 432 432" role="img" aria-label="{{ i18n "skyWheel" }}" data-progress>
+  <defs>
+    {{- range $i, $s := $signs }}
+    {{- $a0 := mul $i 30.0 }}{{ $a1 := add $a0 30.0 }}
+    {{- /* lower half (signs 0–5): the text runs along the bottom, left to right, so its arc goes anticlockwise */ -}}
+    {{- if lt $i 6 }}
+    {{- $r := 191.0 }}
+    <path id="sky-sign-{{ $i }}" d="M{{ printf "%.2f %.2f" (mul -1 $r (math.Cos (mul $a0 $rad))) (mul $r (math.Sin (mul $a0 $rad))) }}A{{ $r }} {{ $r }} 0 0 0 {{ printf "%.2f %.2f" (mul -1 $r (math.Cos (mul $a1 $rad))) (mul $r (math.Sin (mul $a1 $rad))) }}"/>
+    {{- else }}
+    {{- $r := 181.0 }}
+    <path id="sky-sign-{{ $i }}" d="M{{ printf "%.2f %.2f" (mul -1 $r (math.Cos (mul $a1 $rad))) (mul $r (math.Sin (mul $a1 $rad))) }}A{{ $r }} {{ $r }} 0 0 1 {{ printf "%.2f %.2f" (mul -1 $r (math.Cos (mul $a0 $rad))) (mul $r (math.Sin (mul $a0 $rad))) }}"/>
+    {{- end }}
+    {{- end }}
+  </defs>
+  <circle class="w-line" r="200" transform="rotate(180)" pathLength="1" style="--s:0;--l:.22"/>
+  <circle class="w-line" r="170" transform="rotate(180)" pathLength="1" style="--s:.04;--l:.22"/>
+  <circle class="w-line w-faint" r="86" transform="rotate(180)" pathLength="1" style="--s:.12;--l:.2"/>
+  {{- range $i := seq 0 11 }}
+  {{- $a := mul $i 30.0 $rad }}
+  <path class="w-line" d="M{{ printf "%.2f %.2f" (mul -170 (math.Cos $a)) (mul 170 (math.Sin $a)) }}L{{ printf "%.2f %.2f" (mul -200 (math.Cos $a)) (mul 200 (math.Sin $a)) }}" pathLength="1" style="--s:{{ printf "%.3f" (add 0.08 (mul $i 0.006)) }};--l:.05"/>
+  {{- end }}
+  {{- $ticks := "" }}
+  {{- range $d := seq 0 71 }}{{ if ne (mod $d 6) 0 }}{{ $a := mul $d 5.0 $rad }}{{ $ticks = printf "%sM%.2f %.2fL%.2f %.2f" $ticks (mul -195 (math.Cos $a)) (mul 195 (math.Sin $a)) (mul -200 (math.Cos $a)) (mul 200 (math.Sin $a)) }}{{ end }}{{ end }}
+  <path class="w-line w-faint" d="{{ $ticks }}" pathLength="1" style="--s:.12;--l:.22"/>
+  {{- range $i, $s := $signs }}
+  <text class="w-sign" style="--s:{{ printf "%.3f" (add 0.2 (mul $i 0.012)) }}"><textPath href="#sky-sign-{{ $i }}" startOffset="50%" text-anchor="middle">{{ $s }}</textPath></text>
+  {{- end }}
+  <g data-sky-planets></g>
+</svg>

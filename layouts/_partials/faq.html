@@ -1,0 +1,8 @@
+<div class="faq">
+  {{- range . }}
+  <details data-faq>
+    <summary>{{ .q | safeHTML }}</summary>
+    <div class="answer"><div>{{ .a | markdownify }}</div></div>
+  </details>
+  {{- end }}
+</div>

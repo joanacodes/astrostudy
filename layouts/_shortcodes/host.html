@@ -1,0 +1,1 @@
+{{- /* The name of whoever serves the site right now (params.legal.host → data/hosts.yml). */ -}}{{- (index hugo.Data.hosts (site.Params.legal.host | default "cloudflare")).name -}}

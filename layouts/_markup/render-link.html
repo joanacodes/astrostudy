@@ -1,0 +1,3 @@
+{{- $external := hasPrefix .Destination "http" -}}
+<a href="{{ partial "url.html" .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if $external }} rel="noopener"{{ end }}>{{ .Text }}</a>
+{{- /* keep the trailing whitespace out */ -}}

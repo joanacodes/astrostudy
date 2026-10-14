@@ -1,0 +1,44 @@
+# Kind words, in each language. Quoted as written; cuts are marked with an ellipsis.
+# The French versions are translations and say so, like on Maison Tarot.
+#
+# featured: a message a client sent on Instagram after a birth chart reading,
+# shortened and anonymised — the most personal passages are left out on purpose.
+# Ask the client before publishing if you haven't already.
+#
+# tarot: reviews of the same reader's tarot readings, published on the Maison Tarot Facebook page.
+# They are tarot, not astrology, and the site says so next to each one.
+en:
+  featured:
+    pull: "I really feel ease after your reading."
+    quote:
+      - "I don't know where you live or who you are or what's your actual name… but I really want to meet you one day and want to thank you."
+      - "I always wonder why I always feel like delaying… why this situation feels so heavy… And you just find me the answers like I am an open book to you."
+      - "You wrote about my insecurities, about my internal collision, about my working style, about my strength, about my creativeness, about my communication skills, all of these with a really soft language."
+      - "I don't know about the degrees or how the planets work, but now I can understand… It feels like all my planets like to work inward first. I don't know whether to feel happy or sad… but I really feel ease after your reading."
+    name: "A client"
+    context: "after a birth chart reading · a message on Instagram, shortened"
+  tarot:
+    - { quote: "Everything that she said resonates. She was hitting the nail on its head when she mentioned my current situation. She also gives spot-on advice.", name: "Lhara B. S.", context: "tarot reading, April 2021" }
+    - { quote: "One of the best readings ever. Absolutely accurate, detailed and yet very sweet.", name: "Violeta S.", context: "tarot reading, April 2024" }
+    - { quote: "I had a reading with her during her live, and everything resonated so well. Very intuitive, spot on with my current situation, and she goes into detail.", name: "Rinckee B.", context: "live tarot reading, April 2021" }
+    - { quote: "Very accurate reading and gave me another perspective to approach my goals. Totally recommended.", name: "Kevin C. A.", context: "tarot reading, April 2021" }
+    - { quote: "Absolutely loved my reading! She got everything spot on and I am completely confident about my spiritual journey.", name: "Kylene P.", context: "tarot reading, April 2021" }
+    - { quote: "1000% recommended reader. I truly love the reading from her and it’s so spot on.", name: "Hana L.", context: "tarot reading, February 2021" }
+
+fr:
+  featured:
+    pull: "Après votre lecture, je ressens vraiment de l’apaisement."
+    quote:
+      - "Je ne sais pas où vous vivez, ni qui vous êtes, ni quel est votre vrai nom… mais j’aimerais vraiment vous rencontrer un jour, pour vous remercier."
+      - "Je me demande toujours pourquoi j’ai sans cesse envie de remettre à plus tard… pourquoi cette situation me pèse autant… Et vous m’avez trouvé les réponses, comme si j’étais un livre ouvert pour vous."
+      - "Vous avez écrit sur mes insécurités, sur mes collisions intérieures, sur ma façon de travailler, sur ma force, sur ma créativité, sur ma manière de communiquer — tout cela avec des mots vraiment doux."
+      - "Je ne connais rien aux degrés ni au fonctionnement des planètes, mais maintenant je comprends… On dirait que toutes mes planètes aiment d’abord travailler vers l’intérieur. Je ne sais pas si c’est de la joie ou de la tristesse… mais après votre lecture, je ressens vraiment de l’apaisement."
+    name: "Un message reçu"
+    context: "après une lecture de thème natal · sur Instagram, raccourci et traduit de l’anglais"
+  tarot:
+    - { quote: "Tout ce qu’elle a dit résonne. Elle a tapé dans le mille sur ma situation actuelle, et ses conseils sont justes.", name: "Lhara B. S.", context: "lecture de tarot, avril 2021 — traduit de l’anglais" }
+    - { quote: "L’une des meilleures lectures que j’aie reçues. Précise, détaillée, et pourtant très douce.", name: "Violeta S.", context: "lecture de tarot, avril 2024 — traduit de l’anglais" }
+    - { quote: "J’ai eu une lecture avec elle pendant son live, et tout résonnait. Très intuitive, juste sur ma situation, et elle entre dans le détail.", name: "Rinckee B.", context: "lecture de tarot en direct, avril 2021 — traduit de l’anglais" }
+    - { quote: "Lecture très juste, qui m’a donné une autre perspective pour aborder mes objectifs. Je recommande totalement.", name: "Kevin C. A.", context: "lecture de tarot, avril 2021 — traduit de l’anglais" }
+    - { quote: "J’ai adoré ma lecture ! Elle a tout vu juste, et je suis pleinement confiante dans mon cheminement.", name: "Kylene P.", context: "lecture de tarot, avril 2021 — traduit de l’anglais" }
+    - { quote: "Lectrice recommandée à 1000 %. J’adore ses lectures, c’est d’une justesse.", name: "Hana L.", context: "lecture de tarot, février 2021 — traduit de l’anglais" }

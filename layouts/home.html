@@ -1,0 +1,77 @@
+{{ define "main" }}
+{{ partial "hero.html" (dict "page" . "actions" .Params.actions) }}
+
+<section class="paper section" aria-labelledby="readings-title">
+  <div class="wrap">
+    {{ partial "meta.html" (dict "n" "01" "label" (i18n "twoReadings")) }}
+    <h2 class="visually-hidden" id="readings-title">{{ i18n "twoReadings" }}</h2>
+    <p class="statement" data-reveal>{{ .Params.statement | safeHTML }}</p>
+    {{ with .Params.sky }}{{ partial "sky.html" . }}{{ end }}
+    <div class="grid-2" style="margin-top:clamp(48px,6vw,88px)">
+      {{- range $i, $s := .Params.services }}
+      <a class="offer" href="{{ partial "url.html" .href }}" data-reveal style="--d:{{ mul $i 0.1 }}s">
+        <span class="rule" style="--d:{{ mul $i 0.15 }}s"></span>
+        <div class="offer__top"><span class="label">{{ .kicker }}</span>{{ if eq .mark "pair" }}{{ partial "mark-pair.html" . }}{{ else }}{{ partial "mark-wheel.html" . }}{{ end }}</div>
+        <h3>{{ .title | safeHTML }}</h3>
+        <p>{{ .text }}</p>
+        <span class="arrow-link">{{ .cta }} <span aria-hidden="true">→</span></span>
+      </a>
+      {{- end }}
+    </div>
+  </div>
+</section>
+
+{{ with .Params.window }}
+<section class="window"><div class="window__text halo"><p class="display" data-reveal>{{ . | safeHTML }}</p></div></section>
+{{ end }}
+
+{{ with .Params.principles }}
+<section class="paper section" aria-labelledby="principles-title">
+  <div class="wrap">
+    {{ partial "meta.html" (dict "n" "02" "label" .label) }}
+    <div class="section__head">
+      <h2 id="principles-title" data-reveal>{{ .title | safeHTML }}</h2>
+      <p class="lede" data-reveal style="--d:.1s">{{ .lede | safeHTML }}</p>
+    </div>
+    <div class="grid-3">
+      {{- range $i, $e := .items }}
+      <div class="point" data-reveal style="--d:{{ mul $i 0.1 }}s">
+        <span class="rule" style="--d:{{ mul $i 0.15 }}s"></span>
+        <span class="label label--index">{{ printf "%02d" (add $i 1) }}</span>
+        <h3>{{ .title | safeHTML }}</h3>
+        <p>{{ .text | safeHTML }}</p>
+      </div>
+      {{- end }}
+    </div>
+    <p style="margin-top:44px" data-reveal><a class="arrow-link" href="{{ partial "url.html" "/how-i-read/" }}">{{ .cta }} <span aria-hidden="true">→</span></a></p>
+  </div>
+</section>
+{{ end }}
+
+{{ partial "reviews.html" (dict "n" "03") }}
+
+{{ with .Params.window2 }}
+<section class="window"><div class="window__text halo"><p class="display" data-reveal>{{ . | safeHTML }}</p></div></section>
+{{ end }}
+
+{{ with .Params.care }}
+<section class="paper section" aria-labelledby="care-title">
+  <div class="wrap">
+    {{ partial "meta.html" (dict "n" "04" "label" .label) }}
+    <div class="section__head">
+      <h2 id="care-title" data-reveal>{{ .title | safeHTML }}</h2>
+    </div>
+    <div class="care">
+      {{- range $i, $e := .items }}
+      <div data-reveal style="--d:{{ mul (mod $i 2) 0.1 }}s">
+        <h3>{{ .title | safeHTML }}</h3>
+        <p>{{ .text | safeHTML }}</p>
+      </div>
+      {{- end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ partial "closing.html" (dict "closing" .Params.closing) }}
+{{ end }}
