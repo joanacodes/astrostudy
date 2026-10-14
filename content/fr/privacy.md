@@ -12,24 +12,27 @@ lede: "Une lecture demande des choses personnelles — vos données de naissance
 
 ## Ce que je collecte, et pourquoi
 
-Quand vous m’écrivez par le formulaire ou par email, je reçois :
+**Quand vous m’écrivez** par le formulaire ou par email, je reçois votre nom, votre adresse email et votre message — pour vous répondre.
 
-- **votre nom et votre adresse email** — pour vous répondre ;
-- **votre message** — pour savoir ce que vous me demandez ;
-- **la lecture qui vous intéresse** ;
-- **vos données de naissance, si vous choisissez de les envoyer** — date, heure et lieu de naissance, les vôtres et, pour une synastrie, celles de l’autre personne. Elles servent uniquement à préparer votre lecture.
+**Quand vous commandez une lecture**, je reçois, avec votre paiement :
 
-Je les utilise pour vous répondre et, si nous convenons d’une lecture, pour la préparer et vous la remettre. Au sens du RGPD, la base légale est l’exécution de mesures précontractuelles prises à votre demande, puis l’exécution du contrat lui-même. Les données de naissance ne servent jamais à autre chose : jamais publiées, jamais vendues, jamais utilisées à des fins de marketing.
+- **votre nom et votre adresse email** — pour vous livrer votre lecture et rester en contact à son sujet ;
+- **la lecture et la formule choisies** ;
+- **vos données de naissance** — date, heure et lieu de naissance — et, pour une synastrie, le prénom et les données de naissance de l’autre personne ;
+- **ce que vous ajoutez pour moi** dans la commande.
+
+Les données de naissance ne sont demandées que dans le formulaire de commande, et ne me parviennent qu’avec un paiement. Elles servent à préparer et à livrer votre lecture, et à rien d’autre : jamais publiées, jamais vendues, jamais utilisées à des fins de marketing. Au sens du RGPD, la base légale est le contrat qui nous lie — et, avant lui, les mesures prises à votre demande.
 
 ## Les données de quelqu’un d’autre
 
-Pour une lecture de synastrie, vous pouvez m’envoyer les données de naissance d’une autre personne. Ne le faites que si elle sait que vous demandez cette lecture — et, pour une lecture entre collègues, seulement avec son accord. J’utilise ses données pour votre lecture, et pour rien d’autre.
+Pour une lecture de synastrie, la commande demande les données de naissance d’une autre personne. Ne les donnez que si elle sait que vous demandez cette lecture — le formulaire de commande vous demande de le confirmer — et, pour une lecture entre collègues, seulement avec son accord. J’utilise ses données pour votre lecture, et pour rien d’autre.
 
 ## Qui d’autre y a accès
 
 - **FormSubmit** ([formsubmit.co](https://formsubmit.co)) reçoit ce que vous tapez dans le formulaire et le transfère dans ma boîte mail. Ses propres règles de confidentialité, sur son site, expliquent ce qu’il conserve.
 - **Mon fournisseur de messagerie** conserve nos échanges.
 - **{{< host >}}** héberge ce site et, comme tout hébergeur, conserve brièvement des journaux techniques (comme les adresses IP) pour faire fonctionner le site et le sécuriser.
+{{% payments %}}- **Stripe** ([stripe.com](https://stripe.com)) gère les paiements : vos coordonnées bancaires vont chez Stripe, jamais chez moi, et Stripe conserve ce que la loi demande à un prestataire de paiement.{{% /payments %}}
 
 Ces services peuvent stocker ou traiter des données hors de l’Union européenne — {{< host >}}, par exemple, est basé aux États-Unis. Chacun présente ses propres garanties sur son site.
 

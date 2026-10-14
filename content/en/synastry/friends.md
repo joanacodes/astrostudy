@@ -14,7 +14,7 @@ lede: "For the friendships that shape you — the one you call first, the one yo
 facts:
   - { k: "For", v: "Two adults, 18+" }
   - { k: "I need", v: "Both birth dates and places — times if you know them" }
-  - { k: "You receive", v: "A private online reading about your friendship", param: "format" }
+  - { k: "You receive", v: "A private online reading about your friendship, within a week", param: "format" }
   - { k: "Options", v: "Full reading, or full reading + consulting" }
   - { k: "Price", v: "", param: "priceSynastry" }
 
@@ -57,7 +57,7 @@ care:
 
 faq:
   - q: "Is this the same as a couple reading?"
-    a: "The method is the same; the questions aren’t. In a friendship I look first at conversation, comfort and growth, rather than desire and commitment."
+    a: "The method is the same as the [couple reading](/synastry/couples/); the questions aren’t. In a friendship I look first at conversation, comfort and growth, rather than desire and commitment."
   - q: "My friend doesn’t know their birth time."
     a: "That’s fine. Without times I leave out the houses and say so; the contacts between your planets still read clearly."
   - q: "Can we read a friendship that ended badly?"
@@ -66,6 +66,6 @@ faq:
 closing:
   kicker: "For the two of you"
   title: "Let’s read <em>your friendship.</em>"
-  text: "Tell me a little about your friend — or nothing yet. I’ll ask for both sets of birth details when we’re ready."
-  cta: "Request a friendship reading"
+  text: "Both sets of birth details, then payment: your reading arrives within a week. A question first? Write to me — before or after."
+  cta: "Order a friendship reading"
 ---

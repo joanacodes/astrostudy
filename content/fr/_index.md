@@ -62,6 +62,6 @@ care:
 closing:
   kicker: "Vous ne savez pas quelle lecture choisir ?"
   title: "Demandez-moi d’abord. <em>Sans engagement.</em>"
-  text: "Dites-moi en quelques lignes où vous en êtes. Pas besoin de vos données de naissance pour l’instant — un bonjour suffit."
+  text: "Dites-moi en quelques lignes où vous en êtes — un bonjour suffit."
   cta: "Écrivez-moi"
 ---

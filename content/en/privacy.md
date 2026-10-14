@@ -11,24 +11,27 @@ lede: "A reading asks for personal things — your birth details, sometimes some
 
 ## What I collect, and why
 
-When you write through the form or by email, I receive:
+**When you write to me** through the form or by email, I receive your name, your email address and your message — to answer you.
 
-- **your name and email address** — to reply to you;
-- **your message** — so I know what you’re asking;
-- **the reading you’re interested in**;
-- **birth details, if you choose to send them** — date, time and place of birth, yours and, for synastry, the other person’s. They’re only used to prepare your reading.
+**When you order a reading**, I receive, with your payment:
 
-I use them to answer you and, if we agree on a reading, to prepare and deliver it. The legal basis is taking steps at your request before a contract, and then the contract itself. Birth details are never used for anything else: never published, never sold, never used for marketing.
+- **your name and email address** — to deliver your reading and keep in touch about it;
+- **the reading and the option you chose**;
+- **your birth details** — date, time and place of birth — and, for a synastry, the other person’s first name and birth details;
+- **anything you add for me** in the order.
+
+Birth details are asked for only in the order form, and reach me only with a payment. They’re used to prepare and deliver your reading, and nothing else: never published, never sold, never used for marketing. The legal basis is the contract between us — and, before it, steps taken at your request.
 
 ## Someone else’s details
 
-For a synastry reading you may send another person’s birth details. Please do so only if they know you’re asking for this reading — and for co-worker readings, only with their agreement. I use their details for your reading alone.
+For a synastry reading, the order asks for another person’s birth details. Give them only if they know you’re asking for this reading — the order form asks you to confirm it — and for co-worker readings, only with their agreement. I use their details for your reading alone.
 
 ## Who else touches it
 
 - **FormSubmit** ([formsubmit.co](https://formsubmit.co)) receives what you type in the form and forwards it to my inbox. Their own privacy terms, on their site, explain what they keep.
 - **My email provider** stores our messages.
 - **{{< host >}}** hosts this website and, like any web host, keeps short-lived technical logs (such as IP addresses) to keep the site running and secure.
+{{% payments %}}- **Stripe** ([stripe.com](https://stripe.com)) handles payments: your card details go to them, never to me, and they keep what the law asks of a payment provider.{{% /payments %}}
 
 These services may store or process data outside the European Union — {{< host >}}, for example, is based in the United States. Each explains its own safeguards on its site.
 

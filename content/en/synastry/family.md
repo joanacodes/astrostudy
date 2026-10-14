@@ -14,7 +14,7 @@ lede: "For adult family bonds: a parent and their grown-up child, siblings, in-l
 facts:
   - { k: "For", v: "Two adults, 18+" }
   - { k: "I need", v: "Both birth dates and places — times if you know them" }
-  - { k: "You receive", v: "A private online reading about the two of you", param: "format" }
+  - { k: "You receive", v: "A private online reading about the two of you, within a week", param: "format" }
   - { k: "Options", v: "Full reading, or full reading + consulting" }
   - { k: "Price", v: "", param: "priceSynastry" }
 
@@ -57,7 +57,7 @@ care:
 
 faq:
   - q: "Can I have a reading about my child?"
-    a: "Only if they’re an adult, and they know you’re asking for it. I don’t read about anyone under 18."
+    a: "Only if they’re an adult and happy with it — a birth chart is very personal. I’d rather suggest a family synastry you do together, so they get to know you as well. Again: only if they agree, and only between adults. I don’t read about anyone under 18."
   - q: "Is it for siblings too?"
     a: "Yes. Siblings often share a lot of sky and still read it very differently — that’s usually where the reading gets interesting."
   - q: "Will it say who’s to blame?"
@@ -66,6 +66,6 @@ faq:
 closing:
   kicker: "For the two of you"
   title: "Let’s read <em>where you come from.</em>"
-  text: "Tell me who the reading is about — or nothing yet. We’ll go at whatever pace feels right."
-  cta: "Request a family reading"
+  text: "Both sets of birth details, then payment: your reading arrives within a week. A question first? Write to me — before or after."
+  cta: "Order a family reading"
 ---

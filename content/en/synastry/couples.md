@@ -14,7 +14,7 @@ lede: "For partners at any stage — the first months, the long middle, the hard
 facts:
   - { k: "For", v: "Two adults, 18+" }
   - { k: "I need", v: "Both birth dates and places — times if you know them" }
-  - { k: "You receive", v: "A private online reading about the two of you", param: "format" }
+  - { k: "You receive", v: "A private online reading about the two of you, within a week", param: "format" }
   - { k: "Options", v: "Full reading, or full reading + consulting" }
   - { k: "Price", v: "", param: "priceSynastry" }
 
@@ -57,17 +57,17 @@ care:
 
 faq:
   - q: "We’ve only just met. Is it too early?"
-    a: "Not at all. It can help you understand what you’re feeling early on — just hold it lightly, the way you’d hold any first impression."
-  - q: "Can I ask for a reading on my own?"
-    a: "Yes — most people do. Your partner doesn’t have to take part, but they need to know you’re asking for this reading. I read them with the same respect as you."
+    a: "It might be. Early on, just learn to be curious about the other person — let them show you who they are. I suggest a couple’s synastry once you’ve been together for at least a few months."
+  - q: "Can I get a reading without my partner knowing?"
+    a: "No — never. Your partner must know you’re asking for this reading: the order form asks you to confirm it. They don’t have to take part, and I read them with the same respect as you."
   - q: "Is it only for romantic couples?"
-    a: "This one is. For friends, colleagues or family there’s a reading made for that bond — the questions are different."
+    a: "This one is. For friends, co-workers or family there’s a reading made for each bond — [friends](/synastry/friends/), [co-workers](/synastry/coworkers/), [family](/synastry/family/) — because the questions are different."
   - q: "Do we both need to know our birth times?"
     a: "It helps, but no. Without times I leave out the houses and say so. The contacts that matter most between partners still read clearly."
 
 closing:
   kicker: "For the two of you"
   title: "Let’s read <em>how you love.</em>"
-  text: "Write a few words about the two of you — or none. I’ll ask for both sets of birth details when we’re ready."
-  cta: "Request a couple reading"
+  text: "Both sets of birth details, then payment: your reading arrives within a week. A question first? Write to me — before or after."
+  cta: "Order a couple reading"
 ---

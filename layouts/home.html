@@ -22,7 +22,7 @@
 </section>
 
 {{ with .Params.window }}
-<section class="window"><div class="window__text halo"><p class="display" data-reveal>{{ . | safeHTML }}</p></div></section>
+<section class="window"><div class="window__text"><p class="display" data-reveal>{{ . | safeHTML }}</p></div></section>
 {{ end }}
 
 {{ with .Params.principles }}
@@ -51,7 +51,7 @@
 {{ partial "reviews.html" (dict "n" "03") }}
 
 {{ with .Params.window2 }}
-<section class="window"><div class="window__text halo"><p class="display" data-reveal>{{ . | safeHTML }}</p></div></section>
+<section class="window"><div class="window__text"><p class="display" data-reveal>{{ . | safeHTML }}</p></div></section>
 {{ end }}
 
 {{ with .Params.care }}

@@ -40,7 +40,7 @@ It’s a notebook, not a study: a count by hand, by me, mostly on people I knew.
 
 ## How a reading is made
 
-Each reading is prepared with a system I built myself, from the method on this page — and I read it before it’s sent. It reaches you in a private online space, where you can leave notes, highlight what matters, and download it as a PDF.
+Each reading is prepared with a system I built myself, from the method on this page — and I read it before it’s sent. It reaches you within a week, in a private online space where you can leave notes, highlight what matters, and download it as a PDF.
 
 ## What I won’t read
 

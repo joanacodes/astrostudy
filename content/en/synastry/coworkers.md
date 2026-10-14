@@ -14,7 +14,7 @@ lede: "For colleagues, co-founders, a manager and their report, two freelancers 
 facts:
   - { k: "For", v: "Two adults who both agree" }
   - { k: "I need", v: "Both birth dates and places — times if you know them" }
-  - { k: "You receive", v: "A private online reading about how you work together", param: "format" }
+  - { k: "You receive", v: "A private online reading about how you work together, within a week", param: "format" }
   - { k: "Options", v: "Full reading, or full reading + consulting" }
   - { k: "Price", v: "", param: "priceSynastry" }
 
@@ -69,6 +69,6 @@ faq:
 closing:
   kicker: "For the two of you"
   title: "Let’s read <em>how you work.</em>"
-  text: "Tell me about the partnership, and confirm your colleague is happy to take part. I’ll ask for both sets of birth details when you’re both ready."
-  cta: "Request a co-worker reading"
+  text: "Both sets of birth details — with your colleague’s agreement — then payment: your reading arrives within a week. A question first? Write to me — before or after."
+  cta: "Order a co-worker reading"
 ---

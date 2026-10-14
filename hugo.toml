@@ -112,8 +112,14 @@ disableKinds = ["taxonomy", "term", "rss"]
   # Empty = hidden. Fill when ready. Any of these can also be set per language, under [languages.xx.params].
   instagram = ""          # e.g. "https://www.instagram.com/astrostudy"
   maisonTarot = ""        # the Maison Tarot site, once it has its final address
-  priceBirthChart = ""    # e.g. "£65" — empty = "on request"
+  priceBirthChart = ""    # e.g. "£65" — empty = "on request"; the full reading
   priceSynastry = ""      # e.g. "£95"
+  priceBirthChartConsulting = ""   # the full reading + consulting, e.g. "£110" — shown in the order panel
+  priceSynastryConsulting = ""     # e.g. "£150"
+  # Payment: the address the order form sends to once Stripe is set up (README → "Payments"), e.g.
+  # "/api/checkout". Empty = payment isn't open: the order form checks everything, says so, and sends
+  # nothing — birth details only ever travel with a payment.
+  checkout = ""
   [params.legal]
     # The legal notice (mentions légales, required by French law for a site published from France) and the
     # privacy notice read these. Anything left empty shows on those pages as a highlighted [to fill in] marker,

@@ -31,13 +31,13 @@ window: "Not a compatibility score. <em>There is no percentage.</em>"
 steps:
   title: "How a synastry reading goes"
   items:
-    - title: "You write to me"
-      text: "Tell me which kind of bond, and as much or as little about it as you like."
-    - title: "You send both sets of birth details"
-      text: "Date, time and place for each of you. Times help but aren’t required — I’ll tell you what we gain and what we lose without them."
+    - title: "You choose the bond"
+      text: "Couple, friends, co-workers or family — each has its own reading, and its own questions."
+    - title: "You enter both sets of birth details, and pay"
+      text: "Date, time and place for each of you, in the order form. Times help but aren’t required — I’ll tell you what we gain and what we lose without them."
     - title: "Both charts, then the space between them"
       text: "Each chart on its own first, then how they meet — prepared with a system I built myself, and read by me before it’s sent."
-    - title: "You receive your reading"
+    - title: "You receive it within a week"
       text: "In plain words, about both of you and never against either of you — in a private online space you can annotate and download as a PDF."
 
 care:
@@ -47,7 +47,7 @@ care:
     - title: "Two adults"
       text: "Both people must be 18 or over. I don’t read about children, even inside a family reading."
     - title: "Their details, with their knowledge"
-      text: "Synastry needs the other person’s birth details. Share them only if they know you’re asking for this reading — the form asks you to confirm it."
+      text: "Synastry needs the other person’s birth details. Share them only if they know you’re asking for this reading — the order form asks you to confirm it."
     - title: "Never a verdict"
       text: "I won’t tell you to stay, leave, forgive or cut anyone off. That decision is yours, and it should be."
     - title: "Both sides, fairly"
@@ -58,8 +58,8 @@ faq:
     a: "It helps, but no. Without times I leave out the houses and say so. The contacts between your planets still read clearly."
   - q: "Will you tell us whether we’re compatible?"
     a: "Not as a verdict. Every pair has easy contacts and hard ones; what matters is how you meet them. You’ll know where you flow and where to be careful — which is far more useful than a percentage."
-  - q: "Can I ask for a reading without the other person?"
-    a: "Yes — most people ask on their own. The other person doesn’t have to take part, but they need to know you’re asking for this reading, and I read them with the same respect as you. For co-workers, your colleague also has to agree."
+  - q: "Can I get a reading without the other person knowing?"
+    a: "No — never. The other person must know you’re asking for this reading: the order form asks you to confirm it. They don’t have to take part, and I read them with the same respect as you. For co-workers, your colleague also has to agree."
   - q: "Can we read a relationship that has ended?"
     a: "Yes. Sometimes understanding why it hurt is the whole reading, and it can help you close the door."
 

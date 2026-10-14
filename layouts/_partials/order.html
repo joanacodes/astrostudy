@@ -1,0 +1,13 @@
+{{- /* The order panel, along the right edge on every page. The "Order" buttons open it on their own
+       reading; without JavaScript they lead to the order page, which says ordering needs it. */ -}}
+<dialog class="sheet sheet--side" id="order-panel" aria-labelledby="order-title">
+  <div class="sheet__head">
+    <span class="label">{{ i18n "orderLabel" }}</span>
+    <button class="sheet__close" type="button" data-close aria-label="{{ i18n "close" }}"></button>
+  </div>
+  <div class="sheet__body">
+    <h2 id="order-title">{{ i18n "orderTitle" | safeHTML }}</h2>
+    <p>{{ i18n "orderLede" }}</p>
+    {{ partial "order-form.html" (dict "id" "panel") }}
+  </div>
+</dialog>

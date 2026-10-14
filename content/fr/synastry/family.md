@@ -15,7 +15,7 @@ lede: "Pour les liens familiaux entre adultes : un parent et son enfant adulte,
 facts:
   - { k: "Pour", v: "Deux adultes, 18 ans et plus" }
   - { k: "Il me faut", v: "Les deux dates et lieux de naissance — et les heures, si vous les connaissez" }
-  - { k: "Vous recevez", v: "Une lecture privée, en ligne, sur vous deux", param: "format" }
+  - { k: "Vous recevez", v: "Une lecture privée, en ligne, sur vous deux, sous une semaine", param: "format" }
   - { k: "Formules", v: "Lecture complète, ou lecture complète + consultation" }
   - { k: "Tarif", v: "", param: "priceSynastry" }
 
@@ -58,7 +58,7 @@ care:
 
 faq:
   - q: "Puis-je avoir une lecture au sujet de mon enfant ?"
-    a: "Seulement si votre enfant est adulte, et sait que vous demandez cette lecture. Je ne lis rien qui concerne une personne de moins de 18 ans."
+    a: "Seulement si votre enfant a 18 ans ou plus et est d’accord — un thème natal, c’est très personnel. Je vous suggère plutôt une synastrie familiale faite ensemble, pour que votre enfant apprenne aussi à vous connaître. Là encore : seulement avec son accord, et seulement entre adultes. Je ne lis rien qui concerne une personne de moins de 18 ans."
   - q: "Est-ce aussi pour les frères et sœurs ?"
     a: "Oui. Les frères et sœurs partagent souvent une bonne part de leur ciel, et pourtant le vivent de façon très différente — c’est en général là que la lecture devient intéressante."
   - q: "Est-ce que la lecture dira qui a tort ?"
@@ -67,6 +67,6 @@ faq:
 closing:
   kicker: "Pour vous deux"
   title: "Lisons <em>d’où vous venez.</em>"
-  text: "Dites-moi sur qui porte la lecture — ou ne dites rien pour l’instant. On ira au rythme qui vous convient."
-  cta: "Demander une lecture familiale"
+  text: "Vos données de naissance, à vous deux, puis le paiement : votre lecture arrive sous une semaine. Une question d’abord ? Écrivez-moi — avant comme après."
+  cta: "Commander une lecture familiale"
 ---

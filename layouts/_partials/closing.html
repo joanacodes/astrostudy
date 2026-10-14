@@ -1,12 +1,17 @@
 {{- $c := .closing }}
-{{- $href := "/contact/" }}{{ with .reading }}{{ $href = printf "/contact/?reading=%s" . }}{{ end }}
 <section class="window closing">
-  <div class="window__text halo">
+  <div class="window__text">
     <p class="label" data-reveal>{{ $c.kicker | default (i18n "whenReady") }}</p>
     <h2 class="display" data-reveal style="--d:.08s">{{ $c.title | safeHTML }}</h2>
     <p class="lede" data-reveal style="--d:.16s">{{ $c.text | safeHTML }}</p>
-    <div data-reveal style="--d:.24s">
-      <a class="btn btn--solid" href="{{ partial "url.html" $href }}" data-contact{{ with .reading }} data-reading="{{ . }}"{{ end }}>{{ $c.cta | default (i18n "writeToMe") }} <span class="btn__arrow" aria-hidden="true">→</span></a>
+    <div class="closing__actions" data-reveal style="--d:.24s">
+      {{- with .reading }}
+      {{- /* on a reading's own page the closing orders it; a question can still go to the contact form */}}
+      <a class="btn btn--solid" href="{{ partial "url.html" (printf "/order/?reading=%s" .) }}" data-order data-reading="{{ . }}">{{ $c.cta | default (i18n "requestReading") }} <span class="btn__arrow" aria-hidden="true">→</span></a>
+      <a class="btn" href="{{ partial "url.html" "/contact/" }}" data-contact>{{ i18n "writeToMe" }} <span class="btn__arrow" aria-hidden="true">→</span></a>
+      {{- else }}
+      <a class="btn btn--solid" href="{{ partial "url.html" "/contact/" }}" data-contact>{{ $c.cta | default (i18n "writeToMe") }} <span class="btn__arrow" aria-hidden="true">→</span></a>
+      {{- end }}
     </div>
   </div>
 </section>

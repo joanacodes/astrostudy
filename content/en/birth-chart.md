@@ -7,11 +7,11 @@ figure: "natal"
 eyebrow: "Birth chart reading · for adults, 18+"
 h1: "The sky you arrived under, <em>read in depth.</em>"
 lede: "A birth chart is a picture of the sky at the minute you were born. Read placement by placement, it describes how you think, feel, love, work and recover — and what you protect most. Not who you must be: who you already are, in more words."
-ctaLabel: "Request this reading"
+ctaLabel: "Order this reading"
 facts:
   - { k: "For", v: "Adults, 18+" }
   - { k: "I need", v: "Date and place of birth — and the time, if you know it" }
-  - { k: "You receive", v: "A private online reading — notes, highlights, PDF", param: "format" }
+  - { k: "You receive", v: "A private online reading within a week — notes, highlights, PDF", param: "format" }
   - { k: "Options", v: "Full reading, or full reading + consulting" }
   - { k: "Price", v: "", param: "priceBirthChart" }
 
@@ -43,14 +43,14 @@ window: "It isn’t delay. <em>It’s your rhythm.</em>"
 steps:
   title: "Four steps"
   items:
-    - title: "You write to me"
-      text: "A few words about where you are in life — or none at all. Use the Contact button, bottom left, whenever you’re ready."
-    - title: "You send your birth details"
-      text: "Date, time and place. If you don’t know your time, say so: we work with what we have, and I tell you what changes."
+    - title: "You enter your birth details"
+      text: "Date, time and place, in the order form. If you don’t know your time, say so: we work with what we have, and I tell you what changes."
+    - title: "You pay"
+      text: "For the full reading, or the full reading with consulting. Your birth details reach me with your payment, not before."
     - title: "Your reading is prepared"
       text: "With a system I built myself, from the method I tested on my own chart — and I read it before it’s sent."
-    - title: "You receive your reading"
-      text: "In plain words, in a private online space: leave notes, highlight what matters, download it as a PDF."
+    - title: "You receive it within a week"
+      text: "In plain words, in a private online space: leave notes, highlight what matters, download it as a PDF. No need to write to me — but you can, before or after."
 
 care:
   label: "What it isn’t"
@@ -80,6 +80,6 @@ faq:
 closing:
   kicker: "When you’re ready"
   title: "Let’s read <em>your</em> sky."
-  text: "Write a few words — or none. I’ll ask for your birth details when we’re both ready."
-  cta: "Request a birth chart reading"
+  text: "Your birth details, then payment: your reading arrives within a week. A question first? Write to me — before or after."
+  cta: "Order a birth chart reading"
 ---

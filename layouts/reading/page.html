@@ -6,7 +6,7 @@
   {{- with .param }}{{ with index site.Params . }}{{ $v = . }}{{ end }}{{ end }}
   {{- $facts = $facts | append (dict "k" .k "v" ($v | default (i18n "onRequest"))) }}
 {{- end }}
-{{ partial "hero.html" (dict "page" . "facts" $facts "actions" (slice (dict "label" (.Params.ctaLabel | default (i18n "requestReading")) "href" (printf "/contact/?reading=%s" $reading) "contact" true "reading" $reading "solid" true) (dict "label" (i18n "whatWeLookAt") "href" "#looks" "arrow" "↓"))) }}
+{{ partial "hero.html" (dict "page" . "facts" $facts "actions" (slice (dict "label" (.Params.ctaLabel | default (i18n "requestReading")) "href" (printf "/order/?reading=%s" $reading) "order" true "reading" $reading "solid" true) (dict "label" (i18n "whatWeLookAt") "href" "#looks" "arrow" "↓"))) }}
 
 {{ with .Params.looks }}
 <section class="paper section" id="looks" aria-labelledby="looks-title">
@@ -37,7 +37,7 @@
 {{ end }}
 
 {{ with .Params.window }}
-<section class="window"><div class="window__text halo"><p class="display" data-reveal>{{ . | safeHTML }}</p></div></section>
+<section class="window"><div class="window__text"><p class="display" data-reveal>{{ . | safeHTML }}</p></div></section>
 {{ end }}
 
 {{ with .Params.steps | default .CurrentSection.Params.steps }}

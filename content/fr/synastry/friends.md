@@ -15,7 +15,7 @@ lede: "Pour les amitiés qui vous façonnent — la personne que vous appelez en
 facts:
   - { k: "Pour", v: "Deux adultes, 18 ans et plus" }
   - { k: "Il me faut", v: "Les deux dates et lieux de naissance — et les heures, si vous les connaissez" }
-  - { k: "Vous recevez", v: "Une lecture privée, en ligne, sur votre amitié", param: "format" }
+  - { k: "Vous recevez", v: "Une lecture privée, en ligne, sur votre amitié, sous une semaine", param: "format" }
   - { k: "Formules", v: "Lecture complète, ou lecture complète + consultation" }
   - { k: "Tarif", v: "", param: "priceSynastry" }
 
@@ -58,7 +58,7 @@ care:
 
 faq:
   - q: "Est-ce la même chose qu’une lecture de couple ?"
-    a: "La méthode est la même ; les questions, non. Dans une amitié, je regarde d’abord la conversation, le réconfort et ce qui vous fait grandir, plutôt que le désir et l’engagement."
+    a: "La méthode est la même que pour la [lecture de couple](/synastry/couples/) ; les questions, non. Dans une amitié, je regarde d’abord la conversation, le réconfort et ce qui vous fait grandir, plutôt que le désir et l’engagement."
   - q: "Et si l’autre ne connaît pas son heure de naissance ?"
     a: "Ce n’est pas grave. Sans les heures, je laisse les maisons de côté, et je vous le dis ; les contacts entre vos planètes se lisent toujours clairement."
   - q: "Peut-on lire une amitié qui s’est mal terminée ?"
@@ -67,6 +67,6 @@ faq:
 closing:
   kicker: "Pour vous deux"
   title: "Lisons <em>votre amitié.</em>"
-  text: "Parlez-moi un peu de cette amitié — ou ne dites rien pour l’instant. Je vous demanderai vos données de naissance, à vous deux, le moment venu."
-  cta: "Demander une lecture d’amitié"
+  text: "Vos données de naissance, à vous deux, puis le paiement : votre lecture arrive sous une semaine. Une question d’abord ? Écrivez-moi — avant comme après."
+  cta: "Commander une lecture d’amitié"
 ---

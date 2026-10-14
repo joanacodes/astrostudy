@@ -15,7 +15,7 @@ lede: "Pour les couples à tous les stades — les premiers mois, les longues an
 facts:
   - { k: "Pour", v: "Deux adultes, 18 ans et plus" }
   - { k: "Il me faut", v: "Les deux dates et lieux de naissance — et les heures, si vous les connaissez" }
-  - { k: "Vous recevez", v: "Une lecture privée, en ligne, sur vous deux", param: "format" }
+  - { k: "Vous recevez", v: "Une lecture privée, en ligne, sur vous deux, sous une semaine", param: "format" }
   - { k: "Formules", v: "Lecture complète, ou lecture complète + consultation" }
   - { k: "Tarif", v: "", param: "priceSynastry" }
 
@@ -58,17 +58,17 @@ care:
 
 faq:
   - q: "Nous venons à peine de nous rencontrer. Est-ce trop tôt ?"
-    a: "Pas du tout. Une lecture peut vous aider à comprendre ce que vous ressentez dès le début — prenez-la simplement avec légèreté, comme n’importe quelle première impression."
-  - q: "Puis-je demander une lecture de mon côté ?"
-    a: "Oui — c’est le cas de la plupart des gens. Votre partenaire n’a pas à y participer, mais doit savoir que vous demandez cette lecture. Je lis son thème avec le même respect que le vôtre."
+    a: "C’est possible. Au début, apprenez simplement à découvrir l’autre avec curiosité — laissez cette personne vous montrer qui elle est. Je conseille la synastrie de couple après au moins quelques mois ensemble."
+  - q: "Puis-je demander une lecture sans que l’autre le sache ?"
+    a: "Non, jamais. Votre partenaire doit savoir que vous demandez cette lecture : le formulaire de commande vous demande de le confirmer. Votre partenaire n’a pas à y participer, et je lis son thème avec le même respect que le vôtre."
   - q: "Est-ce seulement pour les couples amoureux ?"
-    a: "Celle-ci, oui. Pour les amis, les collègues ou la famille, il existe une lecture faite pour ce lien-là — les questions ne sont pas les mêmes."
+    a: "Celle-ci, oui. Pour les amis, les collègues ou la famille, il existe une lecture faite pour chaque lien — [amis](/synastry/friends/), [collègues](/synastry/coworkers/), [famille](/synastry/family/) — parce que les questions ne sont pas les mêmes."
   - q: "Faut-il connaître nos deux heures de naissance ?"
     a: "Ça aide, mais non. Sans les heures, je laisse les maisons de côté, et je vous le dis. Les contacts qui comptent le plus dans un couple se lisent toujours clairement."
 
 closing:
   kicker: "Pour vous deux"
   title: "Lisons <em>votre façon d’aimer.</em>"
-  text: "Écrivez-moi quelques mots sur vous deux — ou aucun. Je vous demanderai vos données de naissance, à vous deux, le moment venu."
-  cta: "Demander une lecture de couple"
+  text: "Vos données de naissance, à vous deux, puis le paiement : votre lecture arrive sous une semaine. Une question d’abord ? Écrivez-moi — avant comme après."
+  cta: "Commander une lecture de couple"
 ---

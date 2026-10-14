@@ -8,11 +8,11 @@ figure: "natal"
 eyebrow: "Lecture de thème natal · pour les adultes, 18 ans et plus"
 h1: "Le ciel de votre naissance, <em>lu en profondeur.</em>"
 lede: "Un thème natal est une image du ciel à la minute de votre naissance. Lu position par position, il décrit votre façon de penser, de ressentir, d’aimer, de travailler et de récupérer — et ce que vous protégez le plus. Pas qui vous devez être : qui vous êtes déjà, avec plus de mots pour le dire."
-ctaLabel: "Demander cette lecture"
+ctaLabel: "Commander cette lecture"
 facts:
   - { k: "Pour", v: "Les adultes, 18 ans et plus" }
   - { k: "Il me faut", v: "Votre date et votre lieu de naissance — et l’heure, si vous la connaissez" }
-  - { k: "Vous recevez", v: "Une lecture privée, en ligne — notes, surlignage, PDF", param: "format" }
+  - { k: "Vous recevez", v: "Une lecture privée, en ligne, sous une semaine — notes, surlignage, PDF", param: "format" }
   - { k: "Formules", v: "Lecture complète, ou lecture complète + consultation" }
   - { k: "Tarif", v: "", param: "priceBirthChart" }
 
@@ -44,14 +44,14 @@ window: "Ce n’est pas du retard. <em>C’est votre rythme.</em>"
 steps:
   title: "Quatre étapes"
   items:
-    - title: "Vous m’écrivez"
-      text: "Quelques mots pour me dire où vous en êtes dans la vie — ou rien du tout. Utilisez le bouton Contact, en bas à gauche, quand vous le souhaitez."
-    - title: "Vous m’envoyez vos données de naissance"
-      text: "Date, heure et lieu. Si vous ne connaissez pas l’heure, dites-le-moi : on fait avec ce qu’on a, et je vous dis ce que ça change."
+    - title: "Vous entrez vos données de naissance"
+      text: "Date, heure et lieu, dans le formulaire de commande. Si vous ne connaissez pas l’heure, dites-le : on fait avec ce qu’on a, et je vous dis ce que ça change."
+    - title: "Vous payez"
+      text: "Pour la lecture complète, ou la lecture complète avec consultation. Vos données de naissance m’arrivent avec votre paiement, pas avant."
     - title: "Votre lecture est préparée"
       text: "Avec un système que j’ai construit moi-même, à partir de la méthode testée sur mon propre thème — et je la lis avant qu’elle vous soit envoyée."
-    - title: "Vous recevez votre lecture"
-      text: "Avec des mots simples, dans un espace privé en ligne : laissez des notes, surlignez ce qui compte, téléchargez-la en PDF."
+    - title: "Vous la recevez sous une semaine"
+      text: "Avec des mots simples, dans un espace privé en ligne : laissez des notes, surlignez ce qui compte, téléchargez-la en PDF. Pas besoin de m’écrire — mais vous pouvez, avant comme après."
 
 care:
   label: "Ce qu’elle n’est pas"
@@ -81,6 +81,6 @@ faq:
 closing:
   kicker: "Quand vous le souhaitez"
   title: "Lisons <em>votre</em> ciel."
-  text: "Écrivez-moi quelques mots — ou aucun. Je vous demanderai vos données de naissance quand ce sera le bon moment pour nous deux."
-  cta: "Demander une lecture de thème natal"
+  text: "Vos données de naissance, puis le paiement : votre lecture arrive sous une semaine. Une question d’abord ? Écrivez-moi — avant comme après."
+  cta: "Commander une lecture de thème natal"
 ---

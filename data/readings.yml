@@ -1,14 +1,13 @@
-# The readings, in the order they appear in the contact form, in each language. `id` travels in
-# links (?reading=…) and must stay the same in both lists; `label` is what the email shows.
+# The readings, in the order they appear in the order form, in each language. `id` travels in links
+# (?reading=…) and in the order itself, and must stay the same in both lists; `label` is what people
+# see. `kind` is "single" or "pair" (a synastry: the form then asks for the other person too).
 en:
-  - { id: "unsure", label: "I’m not sure yet", kind: "" }
   - { id: "birth-chart", label: "Birth chart reading", kind: "single" }
   - { id: "synastry-couples", label: "Synastry — couples", kind: "pair" }
   - { id: "synastry-friends", label: "Synastry — friends", kind: "pair" }
   - { id: "synastry-coworkers", label: "Synastry — co-workers", kind: "pair", consent: "My colleague is an adult, knows I’m requesting this reading, and has agreed to share their birth details." }
   - { id: "synastry-family", label: "Synastry — family", kind: "pair" }
 fr:
-  - { id: "unsure", label: "Je ne sais pas encore", kind: "" }
   - { id: "birth-chart", label: "Lecture de thème natal", kind: "single" }
   - { id: "synastry-couples", label: "Synastrie — couple", kind: "pair" }
   - { id: "synastry-friends", label: "Synastrie — amitié", kind: "pair" }

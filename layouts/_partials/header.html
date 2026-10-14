@@ -1,6 +1,6 @@
 {{- $page := . }}
 {{- $other := partial "lang-switch.html" . }}
-<header class="header on-sky" data-header>
+<header class="header" data-header>
   <a class="brand" href="{{ site.Home.RelPermalink }}" aria-label="{{ i18n "brandHome" }}"><span class="brand__mark" aria-hidden="true"></span><span class="brand__name">The Astro <em>Study</em></span></a>
   <nav class="nav" aria-label="{{ i18n "navMain" }}" data-nav>
     {{- range $m := site.Menus.main }}

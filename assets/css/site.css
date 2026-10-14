@@ -1,6 +1,6 @@
 /* The Astro Study — one stylesheet.
    The page floats over a live meadow (see assets/js/meadow). Text never sits on the moving image
-   without help: either on paper, or inside a soft frosted halo. */
+   without help: either on glass paper, or over the meadow shown at a lower exposure (.hero, .window). */
 
 @font-face {
   font-family: "Fraunces";
@@ -70,8 +70,7 @@
   /* over the meadow: white type on a soft, feathered shade of the sky behind it */
   --sky-ink: #fff;
   --sky-ink-2: rgba(255, 255, 255, 0.9);
-  --sky-shade: 12, 22, 32;
-  --sky-shadow: 0 1px 2px rgba(6, 16, 26, 0.28), 0 0 24px rgba(6, 16, 26, 0.32);
+  --sky-shadow: 0 1px 2px rgba(6, 16, 26, 0.3), 0 0 1px rgba(6, 16, 26, 0.25);
   /* glass panels: the meadow shows through, blurred, behind the reading */
   --pane: rgba(247, 246, 241, 0.6);
   --pane-2: rgba(244, 243, 237, 0.7);
@@ -442,29 +441,6 @@ p {
 .menu-toggle {
   transition: color 0.6s var(--ease), background-color 0.6s var(--ease), border-color 0.6s var(--ease);
 }
-.js .header.on-sky .brand,
-.js .header.on-sky .nav,
-.js .header.on-sky .menu-toggle {
-  color: var(--sky-ink);
-  background: rgba(var(--sky-shade), 0.26);
-  border-color: rgba(255, 255, 255, 0.3);
-  text-shadow: 0 1px 2px rgba(6, 16, 26, 0.25);
-}
-.js .header.on-sky .nav a {
-  color: var(--sky-ink);
-}
-.js .header.on-sky .nav a:hover {
-  background: rgba(255, 255, 255, 0.14);
-}
-.js .header.on-sky .nav a[aria-current] {
-  background: #fff;
-  color: var(--ink);
-  text-shadow: none;
-}
-.js .header.on-sky .nav .nav__lang {
-  box-shadow: inset 1px 0 0 rgba(255, 255, 255, 0.3);
-}
-
 @media (max-width: 860px) {
   .js .nav {
     display: none;
@@ -708,22 +684,29 @@ main:focus {
   padding: 0 var(--gutter);
 }
 
-/* the frosted halo: text floating on the sky, helped by a feathered patch of blur and light */
-.halo {
+/* Words on the meadow. Rather than a dark patch behind the text, the whole scene behind a hero or a
+   window is shown at a lower exposure, evenly from edge to edge, a touch deeper in colour: white
+   type keeps about the contrast the patch gave (measured on the sky) and nothing smudges the view. */
+.hero,
+.window {
   position: relative;
   isolation: isolate;
 }
-.halo::before {
+.hero::before,
+.window::before {
   content: "";
   position: absolute;
-  inset: -26% -14%;
+  inset: 0;
   z-index: -1;
-  background: radial-gradient(closest-side, rgba(var(--sky-shade), 0.5), rgba(var(--sky-shade), 0.34) 55%, rgba(var(--sky-shade), 0));
-  -webkit-backdrop-filter: blur(14px) brightness(0.8);
-  backdrop-filter: blur(14px) brightness(0.8);
-  -webkit-mask-image: radial-gradient(closest-side, #000 45%, transparent);
-  mask-image: radial-gradient(closest-side, #000 45%, transparent);
   pointer-events: none;
+  background: rgba(18, 50, 92, 0.12);
+  -webkit-backdrop-filter: brightness(0.62) saturate(1.3);
+  backdrop-filter: brightness(0.62) saturate(1.3);
+}
+/* the grass at the foot of the hero comes back to full light, under the buttons and the facts */
+.hero::before {
+  -webkit-mask-image: linear-gradient(#000 70%, transparent);
+  mask-image: linear-gradient(#000 70%, transparent);
 }
 
 .hero {
@@ -757,16 +740,16 @@ main:focus {
 .window .label {
   color: var(--sky-ink-2);
 }
-/* small type on a bright sky needs more than a shadow: it gets its own pane of dark glass */
+/* small type gets its own pane of light glass, like the header and the facts, with ink on it */
 .hero .eyebrow {
   justify-self: center;
   padding: 7px 15px 6px;
   border-radius: 999px;
-  color: var(--sky-ink);
-  background: rgba(var(--sky-shade), 0.34);
-  -webkit-backdrop-filter: blur(12px) brightness(0.85);
-  backdrop-filter: blur(12px) brightness(0.85);
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: var(--ink);
+  background: var(--glass-strong);
+  -webkit-backdrop-filter: blur(16px) saturate(1.3);
+  backdrop-filter: blur(16px) saturate(1.3);
+  border: 1px solid rgba(255, 255, 255, 0.6);
   text-shadow: none;
 }
 .hero .btn,
@@ -1700,6 +1683,12 @@ main:focus {
 .closing .lede {
   margin: 22px auto 30px;
 }
+.closing__actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
 
 .footer {
   position: relative;
@@ -1770,11 +1759,11 @@ main:focus {
 }
 
 /* ------------------------------------------------------------------------------------------------
-   The contact button, bottom left, and the sheet it opens */
+   The contact button, bottom right, the sheet it opens, and the order panel */
 
 .contact-fab {
   position: fixed;
-  left: max(16px, env(safe-area-inset-left));
+  right: max(16px, env(safe-area-inset-right));
   bottom: max(16px, env(safe-area-inset-bottom));
   z-index: 45;
   display: inline-flex;
@@ -1818,7 +1807,8 @@ main:focus {
   0% { transform: scale(1); opacity: 0.7; }
   70%, 100% { transform: scale(3.2); opacity: 0; }
 }
-.contact-open .contact-fab {
+.contact-open .contact-fab,
+.order-open .contact-fab {
   opacity: 0;
   pointer-events: none;
 }
@@ -1846,10 +1836,11 @@ main:focus {
   overscroll-behavior: contain;
   --sheet-from: translateY(26px) scale(0.975);
 }
+/* a light veil, not a dark one: the page stays bright behind the glass */
 .sheet::backdrop {
-  background: rgba(20, 30, 24, 0.3);
-  -webkit-backdrop-filter: blur(3px);
-  backdrop-filter: blur(3px);
+  background: rgba(244, 243, 237, 0.34);
+  -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
 }
 .sheet[open] {
   animation: sheet-in 0.75s var(--ease-out);
@@ -2183,6 +2174,145 @@ main:focus {
   max-width: 640px;
 }
 
+/* The order panel: the sheet's glass, full height along the right edge (the whole screen on a
+   phone), sliding in from the side it sits on. */
+.sheet--side {
+  inset: 0 0 0 auto;
+  margin: 0;
+  width: min(500px, 100vw);
+  height: 100%;
+  height: 100dvh;
+  max-height: none;
+  border-right: 0;
+  border-radius: 22px 0 0 22px;
+  --sheet-from: translateX(56px);
+}
+@media (max-width: 560px) {
+  .sheet--side {
+    inset: 0;
+    width: 100%;
+    max-width: 100vw;
+    height: 100%;
+    height: 100dvh;
+    max-height: none;
+    border: 0;
+    border-radius: 0;
+    --sheet-from: translateX(40px);
+  }
+}
+.order-page {
+  max-width: 640px;
+  margin-top: 48px;
+}
+/* Ordering needs the script (nothing may be sent before payment). Without it — turned off, or
+   failed to load, which head.html also flags as no-js — a word instead of the form. */
+.no-js .order-form,
+.js .order-noscript {
+  display: none;
+}
+.order-noscript {
+  margin: 0;
+  color: var(--ink-2);
+}
+.order-form .options {
+  gap: 8px;
+}
+/* the form's three parts — the option, your birth, the other person's — each under a hairline */
+.order-form .options,
+.order-form .who {
+  padding-top: 16px;
+  border-top: 1px solid var(--line);
+}
+/* more specific than .form .label, which these legends also carry */
+.form.order-form fieldset > legend {
+  float: left;
+  width: 100%;
+  margin-bottom: 4px;
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  text-transform: none;
+  color: var(--ink);
+}
+.field label .hint {
+  text-transform: none;
+  letter-spacing: 0;
+}
+.option {
+  display: grid;
+  grid-template-columns: 20px minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 14px;
+  border: 1px solid var(--line-2);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.45);
+  cursor: pointer;
+  transition: border-color 0.4s var(--ease), background 0.4s var(--ease);
+}
+.option:has(input:checked) {
+  border-color: var(--ink);
+  background: rgba(255, 255, 255, 0.8);
+}
+.option input {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  margin: 0;
+  border: 1px solid var(--ink-2);
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+}
+.option input::after {
+  content: "";
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--ink);
+  transform: scale(0);
+  transition: transform 0.35s var(--ease-out);
+}
+.option input:checked::after {
+  transform: scale(1);
+}
+.option input:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+.option__name {
+  font-size: 0.95rem;
+}
+.option__price {
+  font-family: var(--serif);
+  font-size: 1.05rem;
+}
+.order-form__sum {
+  display: grid;
+  gap: 4px;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+}
+.order-form__sum p {
+  margin: 0;
+  font-size: 0.88rem;
+  color: var(--ink-2);
+}
+.order-form__total {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.order-form__total strong {
+  font-family: var(--serif);
+  font-size: 1.4rem;
+  font-weight: 400;
+  color: var(--ink);
+}
+
 /* ------------------------------------------------------------------------------------------------
    Page transitions (the meadow stays; only the paper changes) */
 
@@ -2223,6 +2353,10 @@ main {
 
 /* no blur support: make the glass solid enough to read */
 @supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+  .hero::before,
+  .window::before {
+    background: linear-gradient(180deg, rgba(18, 50, 92, 0.46), rgba(18, 50, 92, 0.34) 60%, rgba(18, 50, 92, 0.12));
+  }
   .nav,
   .facts,
   .contact-fab,

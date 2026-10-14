@@ -15,7 +15,7 @@ lede: "Pour des collègues, un duo fondateur, une relation hiérarchique, deux f
 facts:
   - { k: "Pour", v: "Deux adultes qui sont d’accord" }
   - { k: "Il me faut", v: "Les deux dates et lieux de naissance — et les heures, si vous les connaissez" }
-  - { k: "Vous recevez", v: "Une lecture privée, en ligne, sur votre façon de travailler ensemble", param: "format" }
+  - { k: "Vous recevez", v: "Une lecture privée, en ligne, sur votre façon de travailler ensemble, sous une semaine", param: "format" }
   - { k: "Formules", v: "Lecture complète, ou lecture complète + consultation" }
   - { k: "Tarif", v: "", param: "priceSynastry" }
 
@@ -70,6 +70,6 @@ faq:
 closing:
   kicker: "Pour vous deux"
   title: "Lisons <em>votre façon de travailler.</em>"
-  text: "Parlez-moi de votre collaboration, et confirmez-moi que votre collègue est d’accord pour y participer. Je vous demanderai vos données de naissance, à vous deux, quand ce sera le bon moment pour vous."
-  cta: "Demander une lecture entre collègues"
+  text: "Vos données de naissance, à vous deux — avec l’accord de votre collègue — puis le paiement : votre lecture arrive sous une semaine. Une question d’abord ? Écrivez-moi — avant comme après."
+  cta: "Commander une lecture entre collègues"
 ---

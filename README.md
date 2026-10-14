@@ -82,7 +82,7 @@ Without the first two, `main` goes to the GitHub Pages preview; without the thir
 
 ## The contact button and the form
 
-The **Contact** button sits bottom left on every page and opens the form in the middle of the screen (from the bottom on phones). The same form is on `/contact/` and `/fr/contact/` (and that’s where the button leads if JavaScript is off).
+The **Contact** button sits bottom right on every page and opens the form in the middle of the screen (from the bottom on phones). The same form is on `/contact/` and `/fr/contact/` (and that’s where the button leads if JavaScript is off).
 
 Messages go through [FormSubmit](https://formsubmit.co) to **hello@astrostudy.co.uk**:
 
@@ -90,7 +90,24 @@ Messages go through [FormSubmit](https://formsubmit.co) to **hello@astrostudy.co
 2. **Then hide the address** (recommended). After activation FormSubmit gives you a random alias. Put it in `hugo.toml` → `formEndpoint` and `formAjaxEndpoint` (`https://formsubmit.co/<alias>` and `https://formsubmit.co/ajax/<alias>`), so bots can’t read the address in the page source.
 3. People who write get an automatic confirmation, in the language they wrote in (`autoresponse` in `i18n/en.toml` and `i18n/fr.toml`). Edit the wording there.
 
-The form asks for a name, an email, which reading, a message, optional birth details (yours, and for synastry the other person’s), and an 18+ confirmation — plus, for synastry, confirmation that the other person is an adult and knows about the reading (for co-workers, that they have agreed). Spam is filtered with a hidden honeypot field.
+The contact form asks for a name, an email, a message and an 18+ confirmation — nothing else. Birth details are never asked for here: they belong to the order (below). Spam is filtered with a hidden honeypot field.
+
+## Ordering a reading
+
+Every reading page has an **Order this reading** button (and the same at the bottom of the page). It opens the order panel from the right edge of the screen — the whole screen on a phone — on that reading; the same form is on `/order/` and `/fr/commander/`, and `?reading=birth-chart` (or `synastry-couples`, `synastry-friends`, `synastry-coworkers`, `synastry-family`) picks the reading.
+
+The order asks for the reading, the option (**Full reading** or **Full reading + consulting**), a name and email, the birth details (date, place, and the time if known; for a synastry, the other person’s first name and birth details too), an optional note, and three confirmations: 18 or over; for a synastry, that the other person is an adult and knows about the reading (for co-workers, that they agreed); and the request to start straight away, giving up the 14-day withdrawal right once the reading is delivered (Code de la consommation, L221-28). When a page exists at `/terms/` (the terms of sale, *CGV*), a fourth box asks to accept them, with a link.
+
+**Nothing is sent until payment is connected.** With `checkout` empty in `hugo.toml` (as now), the form checks every field, then says payment opens soon — and sends nothing anywhere. Birth details only ever travel with a payment.
+
+### Payments (to set up)
+
+Once Stripe is ready, payment goes through the Cloudflare Worker, like the sky:
+
+1. In Stripe, create the four prices (birth chart and synastry, each with and without consulting), and put the amounts to show in `hugo.toml` → `priceBirthChart`, `priceBirthChartConsulting`, `priceSynastry`, `priceSynastryConsulting`.
+2. Add a `/api/checkout` route to `worker/index.js`: it receives the order (JSON), creates a Stripe Checkout Session with the matching price and the order in its metadata, and answers `{ "url": … }` — the form then opens that page. A Stripe webhook (`checkout.session.completed`) hands the paid order on to the reading app. The Stripe secret key goes to the Worker as a secret, like the FreeAstroAPI key — never in a page.
+3. Set `checkout = "/api/checkout"` in `hugo.toml`. The privacy note then names Stripe by itself (`{{% payments %}}` in `privacy.md`).
+4. Publish the terms of sale at `/terms/` (and `/fr/conditions/` or similar, translated) before the first order.
 
 ## The meadow
 
@@ -133,7 +150,7 @@ The video loop is seamless: the wind and the pollen repeat exactly every 16 seco
 
 1. **Hosting**: the three secrets above (until then `main` publishes the GitHub Pages preview). Attach **astrostudy.co.uk** to the Worker as a custom domain (see Hosting). `baseURL` in `hugo.toml` stays the canonical address.
 2. **FormSubmit**: send one test message from the live site and click the activation link (see above).
-3. **Prices and format**: `priceBirthChart`, `priceSynastry` in `[params]`, and `format`, `replyTime`, `nextSlot` for each language in `hugo.toml`. Until they’re filled, the site says “On request” / “Sur demande” and makes no promise about delays; `nextSlot` (e.g. “this week”) shows a “Next available slot” line in the form, to update as bookings fill.
+3. **Prices and payment**: the four prices in `[params]` and Stripe (see Ordering a reading); `format`, `replyTime`, `nextSlot` for each language in `hugo.toml`. Until the prices are filled, the reading pages say “On request” / “Sur demande”; `nextSlot` (e.g. “this week”) shows a “Next available slot” line in the order form, to update as bookings fill.
 4. **Legal notice and privacy**: fill `[params.legal]` in `hugo.toml` (see Legal notice) — including a consumer mediator, which French law requires before selling to consumers. Check the retention periods written in `content/en/privacy.md` and `content/fr/privacy.md` (twelve months for messages, two years for readings) match what you actually do. Before taking paid orders, the site will also need terms of sale (*CGV*: prices, payment, the 14-day withdrawal right and how it applies to a reading).
 5. **The client’s message** on the home page is shortened and anonymised, with the most personal passages left out (the French version says it’s translated). If you haven’t already, ask them whether they’re happy to have it there.
 6. **Instagram**: `instagram` in `hugo.toml`, if you want the link in the footer.

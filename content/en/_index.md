@@ -62,6 +62,6 @@ care:
 closing:
   kicker: "Not sure which reading?"
   title: "Ask me first. <em>No commitment.</em>"
-  text: "Write a few lines about where you are. No birth details needed yet — a hello is enough."
+  text: "Write a few lines about where you are — a hello is enough."
   cta: "Write to me"
 ---

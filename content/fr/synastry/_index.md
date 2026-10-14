@@ -31,13 +31,13 @@ window: "Pas de score de compatibilité. <em>Il n’y a pas de pourcentage.</em>
 steps:
   title: "Comment se passe une lecture de synastrie"
   items:
-    - title: "Vous m’écrivez"
-      text: "Dites-moi de quel lien il s’agit, et racontez-m’en autant ou aussi peu que vous le voulez."
-    - title: "Vous m’envoyez vos données de naissance, à vous deux"
-      text: "Date, heure et lieu, pour l’une et l’autre personne. Les heures aident, mais ne sont pas indispensables — je vous dirai ce qu’on gagne et ce qu’on perd sans elles."
+    - title: "Vous choisissez le lien"
+      text: "Couple, amis, collègues ou famille — chaque lien a sa lecture, et ses propres questions."
+    - title: "Vous entrez vos données de naissance, à vous deux, et vous payez"
+      text: "Date, heure et lieu, pour l’une et l’autre personne, dans le formulaire de commande. Les heures aident, mais ne sont pas indispensables — je vous dirai ce qu’on gagne et ce qu’on perd sans elles."
     - title: "Les deux thèmes, puis l’espace entre eux"
       text: "D’abord chaque thème séparément, puis la façon dont ils se rencontrent — une lecture préparée avec un système que j’ai construit moi-même, et lue par moi avant d’être envoyée."
-    - title: "Vous recevez votre lecture"
+    - title: "Vous la recevez sous une semaine"
       text: "Avec des mots simples, sur vous deux et jamais contre personne — dans un espace privé en ligne, à annoter et à télécharger en PDF."
 
 care:
@@ -47,7 +47,7 @@ care:
     - title: "Deux adultes"
       text: "Les deux personnes doivent avoir 18 ans ou plus. Je ne fais aucune lecture au sujet d’un enfant, même dans une synastrie familiale."
     - title: "Les données de l’autre, jamais dans son dos"
-      text: "La synastrie demande les données de naissance de l’autre personne. Ne les partagez que si elle sait que vous demandez cette lecture — le formulaire vous demande de le confirmer."
+      text: "La synastrie demande les données de naissance de l’autre personne. Ne les partagez que si elle sait que vous demandez cette lecture — le formulaire de commande vous demande de le confirmer."
     - title: "Jamais de verdict"
       text: "Je ne vous dirai pas de rester, de partir, de pardonner ou de couper les ponts. Cette décision vous appartient, et c’est bien ainsi."
     - title: "Les deux côtés, à égalité"
@@ -58,8 +58,8 @@ faq:
     a: "Ça aide, mais non. Sans les heures, je laisse les maisons de côté, et je vous le dis. Les contacts entre vos planètes se lisent toujours clairement."
   - q: "Allez-vous nous dire si nous sommes compatibles ?"
     a: "Pas sous forme de verdict. Toute relation a des contacts faciles et des contacts durs ; ce qui compte, c’est la façon dont vous les abordez. Vous saurez où ça circule et où faire attention — ce qui est bien plus utile qu’un pourcentage."
-  - q: "Puis-je demander une lecture sans l’autre personne ?"
-    a: "Oui — la plupart des gens font la demande de leur côté. L’autre personne n’a pas à y participer, mais elle doit savoir que vous demandez cette lecture, et je lis son thème avec le même respect que le vôtre. Pour une lecture entre collègues, il faut aussi l’accord de votre collègue."
+  - q: "Puis-je demander une lecture sans que l’autre le sache ?"
+    a: "Non, jamais. L’autre personne doit savoir que vous demandez cette lecture : le formulaire de commande vous demande de le confirmer. Elle n’a pas à y participer, et je lis son thème avec le même respect que le vôtre. Pour une lecture entre collègues, il faut aussi l’accord de votre collègue."
   - q: "Peut-on lire une relation qui est terminée ?"
     a: "Oui. Parfois, comprendre pourquoi ça a fait mal, c’est toute la lecture — et ça peut vous aider à refermer la porte."
 

@@ -1,0 +1,4 @@
+{{- /* What it wraps is said only once payment is open (params.checkout is set): until then nobody can
+       pay, no payment provider handles anything, and the privacy note mustn't name one.
+       Use with % so the words inside stay Markdown: {{% payments %}}…{{% /payments %}} */ -}}
+{{- if site.Params.checkout }}{{ .Inner }}{{ end -}}

@@ -7,6 +7,9 @@
     {{ if .Params.form }}
     <div style="margin-top:48px" data-reveal>{{ partial "form.html" (dict "id" "page" "page" .) }}</div>
     {{ end }}
+    {{ if .Params.order }}
+    <div class="order-page" data-reveal>{{ partial "order-form.html" (dict "id" "page") }}</div>
+    {{ end }}
   </div>
 </section>
 {{ with .Params.closing }}{{ partial "closing.html" (dict "closing" .) }}{{ end }}

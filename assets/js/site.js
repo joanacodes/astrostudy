@@ -14,7 +14,6 @@ const $$ = (s, r = document) => Array.from(r.querySelectorAll(s));
 const clamp = (v, a, b) => Math.min(b, Math.max(a, v));
 const wait = (ms) => new Promise((r) => setTimeout(r, ms));
 
-const header = $('[data-header]');
 const sheet = $('#contact-sheet');
 
 /* ---------------------------------------------------------------------------------------------
@@ -65,20 +64,6 @@ function updateDrawings() {
   }
 }
 
-// The header is white while the meadow is behind it and turns ink over the glass panels. It looks
-// at what actually sits under its middle line, so it's right on every page and after any jump.
-let skies = [];
-function headerState() {
-  if (!header) return;
-  header.classList.toggle('is-scrolled', scrollY > 40);
-  const y = header.offsetHeight / 2;
-  const onSky = skies.some((s) => {
-    const r = s.getBoundingClientRect();
-    return r.top <= y && r.bottom >= y;
-  });
-  header.classList.toggle('on-sky', onSky);
-}
-
 let ticking = false;
 function onScroll() {
   if (ticking) return;
@@ -86,7 +71,6 @@ function onScroll() {
   requestAnimationFrame(() => {
     ticking = false;
     updateDrawings();
-    headerState();
   });
 }
 addEventListener('scroll', onScroll, { passive: true });
@@ -172,51 +156,15 @@ matchMedia('(min-width: 861px)').addEventListener?.('change', (e) => {
 });
 
 /* ---------------------------------------------------------------------------------------------
-   The form: one in the sheet, one on /contact/. Sent through FormSubmit's AJAX endpoint so the
-   visitor never leaves the page; without JavaScript it posts normally and lands on /thank-you/. */
-
-function preset(form, id) {
-  const select = form?.querySelector('[data-reading]');
-  if (!select || !id) return;
-  const opt = Array.from(select.options).find((o) => o.dataset.id === id);
-  if (opt) {
-    select.value = opt.value;
-    select.dispatchEvent(new Event('change'));
-  }
-}
+   The contact form: one in the sheet, one on /contact/. Sent through FormSubmit's AJAX endpoint so
+   the visitor never leaves the page; without JavaScript it posts normally and lands on /thank-you/. */
 
 function wireForm(form) {
   if (!form || form.dataset.wired) return;
   form.dataset.wired = '1';
-  const select = form.querySelector('[data-reading]');
-  const subject = form.querySelector('[data-subject]');
   const status = form.querySelector('[data-status]');
   const button = form.querySelector('[data-submit]');
-  const consent = form.querySelector('[data-pair-required]');
-  const consentText = form.querySelector('[data-consent-text]');
   const sent = form.nextElementSibling?.matches('[data-sent]') ? form.nextElementSibling : null;
-
-  const sync = () => {
-    const opt = select.selectedOptions[0];
-    const pair = opt?.dataset.kind === 'pair';
-    // Hidden and disabled: nothing about another person is sent unless the reading is about two.
-    for (const el of form.querySelectorAll('[data-pair]')) {
-      el.hidden = !pair;
-      if (el.matches('fieldset')) el.disabled = !pair;
-      else el.querySelectorAll('input, select, textarea').forEach((c) => (c.disabled = !pair));
-    }
-    if (consent) consent.required = pair;
-    // coworker readings ask for the colleague's agreement, not just care; the email records
-    // exactly the sentence that was ticked
-    if (consentText) {
-      consentText.dataset.default ??= consentText.textContent;
-      consentText.textContent = opt?.dataset.consent || consentText.dataset.default;
-      if (consent) consent.value = consentText.textContent;
-    }
-    if (subject) subject.value = `${subject.dataset.prefix ?? ''}${opt && opt.dataset.id !== 'unsure' ? opt.value : 'astrostudy.co.uk'}`;
-  };
-  select?.addEventListener('change', sync);
-  sync();
 
   form.addEventListener('submit', async (e) => {
     const endpoint = form.dataset.ajax;
@@ -239,7 +187,6 @@ function wireForm(form) {
       if (!res.ok || String(json.success) !== 'true') throw new Error(json.message || `HTTP ${res.status}`);
       status.textContent = '';
       form.reset();
-      sync();
       if (sent) {
         form.hidden = true;
         sent.hidden = false;
@@ -273,12 +220,168 @@ function wireForm(form) {
 }
 
 /* ---------------------------------------------------------------------------------------------
-   The contact sheet. It closes with a short animation; a second Esc (or Android's back) can close
-   it natively mid-way, so every path tidies up after itself. */
+   The order form: in the panel, and on /order/. The reading decides whether there's a second person
+   (and their fields) and which prices show. Until params.checkout is set nothing leaves the page:
+   birth details travel with a payment or not at all. Once it is, the order goes to that endpoint,
+   which answers with the payment page to open (README → "Payments"). */
 
-let pendingClose = null;
-function openContact(readingId) {
-  if (!sheet || typeof sheet.showModal !== 'function') return false;
+function presetOrder(form, id) {
+  const select = form?.querySelector('[data-order-reading]');
+  if (!select || !id || !Array.from(select.options).some((o) => o.value === id)) return;
+  select.value = id;
+  select.dispatchEvent(new Event('change'));
+}
+
+function wireOrder(form) {
+  if (!form || form.dataset.wired) return;
+  form.dataset.wired = '1';
+  const select = form.querySelector('[data-order-reading]');
+  const status = form.querySelector('[data-status]');
+  const button = form.querySelector('[data-submit]');
+  const consent = form.querySelector('[data-pair-required]');
+  const consentText = form.querySelector('[data-consent-text]');
+  const total = form.querySelector('[data-total]');
+
+  const sync = () => {
+    const opt = select.selectedOptions[0];
+    const pair = opt?.dataset.kind === 'pair';
+    // The other person exists only in a synastry: hidden and disabled otherwise, so their fields
+    // are neither required nor sent.
+    for (const el of form.querySelectorAll('[data-pair]')) {
+      el.hidden = !pair;
+      if (el.matches('fieldset')) el.disabled = !pair;
+    }
+    if (consent) {
+      consent.disabled = !pair;
+      consent.required = pair;
+    }
+    // a co-worker reading asks for the colleague's agreement too; the order keeps the very sentence
+    // that was ticked
+    if (consentText) {
+      consentText.dataset.default ??= consentText.textContent;
+      consentText.textContent = opt?.dataset.consent || consentText.dataset.default;
+      if (consent) consent.value = consentText.textContent;
+    }
+    const prices = { full: opt?.dataset.priceFull || '', consulting: opt?.dataset.priceConsulting || '' };
+    for (const el of form.querySelectorAll('[data-price]')) el.textContent = prices[el.dataset.price] || '';
+    const chosen = prices[form.querySelector('input[name="option"]:checked')?.value] || '';
+    if (total) {
+      total.hidden = !chosen;
+      total.querySelector('[data-total-value]').textContent = chosen;
+    }
+    status.textContent = '';
+  };
+  select.addEventListener('change', sync);
+  form.addEventListener('change', (e) => {
+    if (e.target.name === 'option') sync();
+  });
+  // "I don't know the time" empties the time beside it and sets it aside
+  for (const box of form.querySelectorAll('[data-time-unknown]')) {
+    const time = form.querySelector(`input[name="${box.dataset.timeUnknown}"]`);
+    box.addEventListener('change', () => {
+      if (!time) return;
+      time.disabled = box.checked;
+      if (box.checked) time.value = '';
+    });
+  }
+  sync();
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    if (!form.reportValidity()) return;
+    const endpoint = form.dataset.checkout;
+    if (!endpoint) {
+      status.textContent = form.dataset.msgClosed || '';
+      return;
+    }
+    button.disabled = true;
+    status.textContent = form.dataset.msgOpening || '…';
+    const order = { lang: document.documentElement.lang };
+    for (const [k, v] of new FormData(form)) {
+      if (typeof v === 'string' && v.trim() !== '') order[k] = v.trim();
+    }
+    try {
+      const res = await fetch(endpoint, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+        body: JSON.stringify(order),
+      });
+      const json = await res.json().catch(() => ({}));
+      if (!res.ok || !json.url) throw new Error(json.error || `HTTP ${res.status}`);
+      location.assign(json.url);
+    } catch (err) {
+      console.warn('[order]', err);
+      status.textContent = form.dataset.msgError || '';
+      button.disabled = false;
+    }
+  });
+}
+
+/* ---------------------------------------------------------------------------------------------
+   The contact sheet and the order panel, one at a time. Each closes with a short animation; a
+   second Esc (or Android's back) can close it natively mid-way, so every path tidies up after
+   itself. */
+
+function modal(dialog, bodyClass) {
+  if (!dialog || typeof dialog.showModal !== 'function') return null;
+  let pending = null;
+  const close = () => {
+    if (!dialog.open || dialog.classList.contains('is-closing')) return;
+    if (reduce.matches) {
+      dialog.close();
+      return;
+    }
+    dialog.classList.add('is-closing');
+    pending = (e) => {
+      if (e.target === dialog && e.animationName === 'sheet-out') dialog.close();
+    };
+    dialog.addEventListener('animationend', pending);
+  };
+  dialog.addEventListener('close', () => {
+    dialog.classList.remove('is-closing');
+    if (pending) dialog.removeEventListener('animationend', pending);
+    pending = null;
+    document.body.classList.remove(bodyClass);
+  });
+  dialog.addEventListener('cancel', (e) => {
+    e.preventDefault();
+    close();
+  });
+  // Only a press that starts and ends on the backdrop closes it, so selecting text in a field and
+  // letting go outside doesn't throw away what was typed.
+  const outside = (e) => {
+    const r = dialog.getBoundingClientRect();
+    return e.clientX < r.left || e.clientX > r.right || e.clientY < r.top || e.clientY > r.bottom;
+  };
+  let downOutside = false;
+  dialog.addEventListener('pointerdown', (e) => {
+    downOutside = e.target === dialog && outside(e);
+  });
+  dialog.addEventListener('click', (e) => {
+    if (e.target.closest('[data-close]')) return close();
+    if (e.target === dialog && downOutside && outside(e)) close();
+    downOutside = false;
+  });
+  return {
+    open() {
+      setMenu(false);
+      dialog.classList.remove('is-closing');
+      if (!dialog.open) dialog.showModal();
+      document.body.classList.add(bodyClass);
+    },
+    // at once, without the animation: when the other one opens, or the page changes
+    shut() {
+      if (dialog.open) dialog.close();
+    },
+  };
+}
+
+const orderPanel = $('#order-panel');
+const contactModal = modal(sheet, 'contact-open');
+const orderModal = modal(orderPanel, 'order-open');
+
+function openContact() {
+  if (!contactModal) return false;
   const form = sheet.querySelector('[data-form]');
   const sent = sheet.querySelector('[data-sent]');
   if (sent && !sent.hidden) {
@@ -286,53 +389,16 @@ function openContact(readingId) {
     form.hidden = false;
     form.parentElement.classList.remove('is-sent');
   }
-  if (readingId) preset(form, readingId);
-  setMenu(false);
-  sheet.classList.remove('is-closing');
-  if (!sheet.open) sheet.showModal();
-  document.body.classList.add('contact-open');
+  orderModal?.shut();
+  contactModal.open();
   return true;
 }
-function closeContact() {
-  if (!sheet?.open || sheet.classList.contains('is-closing')) return;
-  if (reduce.matches) {
-    sheet.close();
-    return;
-  }
-  sheet.classList.add('is-closing');
-  pendingClose = (e) => {
-    if (e.target !== sheet || e.animationName !== 'sheet-out') return;
-    sheet.close();
-  };
-  sheet.addEventListener('animationend', pendingClose);
-}
-if (sheet) {
-  wireForm(sheet.querySelector('[data-form]'));
-  sheet.addEventListener('close', () => {
-    sheet.classList.remove('is-closing');
-    if (pendingClose) sheet.removeEventListener('animationend', pendingClose);
-    pendingClose = null;
-    document.body.classList.remove('contact-open');
-  });
-  sheet.addEventListener('cancel', (e) => {
-    e.preventDefault();
-    closeContact();
-  });
-  // Only a press that starts and ends on the backdrop closes the sheet, so selecting text in the
-  // form and letting go outside it doesn't throw the message away.
-  const outside = (e) => {
-    const r = sheet.getBoundingClientRect();
-    return e.clientX < r.left || e.clientX > r.right || e.clientY < r.top || e.clientY > r.bottom;
-  };
-  let downOutside = false;
-  sheet.addEventListener('pointerdown', (e) => {
-    downOutside = e.target === sheet && outside(e);
-  });
-  sheet.addEventListener('click', (e) => {
-    if (e.target.closest('[data-close]')) return closeContact();
-    if (e.target === sheet && downOutside && outside(e)) closeContact();
-    downOutside = false;
-  });
+function openOrder(readingId) {
+  if (!orderModal) return false;
+  presetOrder(orderPanel.querySelector('[data-order-form]'), readingId);
+  contactModal?.shut();
+  orderModal.open();
+  return true;
 }
 
 /* ---------------------------------------------------------------------------------------------
@@ -410,7 +476,8 @@ async function go(href, { push = true, y = null } = {}) {
   try {
     const textP = fetchPage(href);
     setMenu(false);
-    if (sheet?.open) sheet.close();
+    contactModal?.shut();
+    orderModal?.shut();
     if (push) saveY();
     html.classList.add('is-leaving');
     await wait(reduce.matches ? 0 : 380);
@@ -492,8 +559,12 @@ if (routing) {
 
 document.addEventListener('click', (e) => {
   if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
-  const trigger = e.target.closest('[data-contact]');
-  if (trigger && openContact(trigger.dataset.reading)) {
+  const order = e.target.closest('[data-order]');
+  if (order && openOrder(order.dataset.reading)) {
+    e.preventDefault();
+    return;
+  }
+  if (e.target.closest('[data-contact]') && openContact()) {
     e.preventDefault();
     return;
   }
@@ -503,7 +574,8 @@ document.addEventListener('click', (e) => {
   if (kind === 'hash' || kind === 'same') {
     e.preventDefault();
     setMenu(false);
-    if (sheet?.open) sheet.close();
+    contactModal?.shut();
+    orderModal?.shut();
     const url = new URL(a.href);
     if (kind === 'hash') {
       if (routing) saveY();
@@ -525,15 +597,13 @@ function initPage(root) {
   arrivals(root);
   initSky(root);
   collectDrawings(root);
-  skies = $$('.hero, .window');
   faqs(root);
-  for (const form of $$('[data-form]', root)) {
-    wireForm(form);
-    const id = new URLSearchParams(location.search).get('reading');
-    if (id) preset(form, id);
+  for (const form of $$('[data-form]', root)) wireForm(form);
+  for (const form of $$('[data-order-form]', root)) {
+    wireOrder(form);
+    presetOrder(form, new URLSearchParams(location.search).get('reading'));
   }
   updateDrawings();
-  headerState();
 }
 
 initPage(document);

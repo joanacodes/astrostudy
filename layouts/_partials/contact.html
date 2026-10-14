@@ -1,4 +1,4 @@
-{{/* The contact button lives bottom left on every page. Without JavaScript it is a plain link to the contact page. */}}
+{{/* The contact button lives bottom right on every page. Without JavaScript it is a plain link to the contact page. */}}
 {{- $reply := "" }}{{ with site.Params.replyTime }}{{ $reply = i18n "replyClause" (dict "time" .) }}{{ end }}
 <a class="contact-fab" href="{{ partial "url.html" "/contact/" }}" data-contact aria-haspopup="dialog"><span class="contact-fab__dot" aria-hidden="true"></span>{{ i18n "contact" }}</a>
 <dialog class="sheet" id="contact-sheet" aria-labelledby="sheet-title">

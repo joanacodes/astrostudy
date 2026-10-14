@@ -1,8 +1,10 @@
+{{- /* The contact form: a name, an email, a message, and the 18+ box. Birth details are never asked
+       for here: they belong to the order, and travel with its payment (see order-form.html). */ -}}
 {{- $id := .id }}
 {{- $reply := "" }}{{ with site.Params.replyTime }}{{ $reply = i18n "replyClause" (dict "time" .) }}{{ end }}
 {{- $next := "" }}{{ with site.GetPage "/thank-you" }}{{ $next = .Permalink }}{{ end }}
 <form class="form{{ if eq $id "page" }} form--page{{ end }}" action="{{ site.Params.formEndpoint }}" method="POST" accept-charset="UTF-8" data-form data-ajax="{{ site.Params.formAjaxEndpoint }}" data-email="{{ site.Params.email }}" data-msg-sending="{{ i18n "sending" }}" data-msg-sent="{{ i18n "sentInline" }}" data-msg-activate="{{ i18n "activate" }}" data-msg-error="{{ i18n "sendError" }}">
-  <input type="hidden" name="_subject" value="{{ i18n "subjectPrefix" }}astrostudy.co.uk" data-subject data-prefix="{{ i18n "subjectPrefix" }}">
+  <input type="hidden" name="_subject" value="{{ i18n "subjectPrefix" }}astrostudy.co.uk">
   <input type="hidden" name="_template" value="table">
   <input type="hidden" name="_captcha" value="false">
   {{- with $next }}
@@ -23,69 +25,11 @@
   </div>
 
   <div class="field">
-    <label for="{{ $id }}-reading">{{ i18n "whatWouldYouLike" }}</label>
-    <select id="{{ $id }}-reading" name="reading" data-reading>
-      {{- range index hugo.Data.readings site.Language.Lang }}
-      <option value="{{ .label }}" data-id="{{ .id }}" data-kind="{{ .kind }}"{{ with .consent }} data-consent="{{ . }}"{{ end }}>{{ .label }}</option>
-      {{- end }}
-    </select>
-    {{- with site.Params.nextSlot }}
-    <p class="hint">{{ i18n "nextSlot" (dict "when" .) }}</p>
-    {{- end }}
-  </div>
-
-  <div class="field">
     <label for="{{ $id }}-message">{{ i18n "yourMessage" }}</label>
-    <textarea id="{{ $id }}-message" name="message" rows="5" placeholder="{{ i18n "messagePlaceholder" }}"></textarea>
+    <textarea id="{{ $id }}-message" name="message" rows="5" placeholder="{{ i18n "messagePlaceholder" }}" required></textarea>
   </div>
-
-  <details data-birth>
-    <summary>{{ i18n "birthDetails" }} <span class="hint">{{ i18n "birthDetailsHint" }}</span></summary>
-    <div class="inner">
-      <fieldset class="who">
-        <legend class="label">{{ i18n "you" }}</legend>
-        <div class="row-2">
-          <div class="field">
-            <label for="{{ $id }}-date">{{ i18n "dateOfBirth" }}</label>
-            <input id="{{ $id }}-date" type="date" name="birth_date" min="1900-01-01">
-          </div>
-          <div class="field">
-            <label for="{{ $id }}-time">{{ i18n "time" }}</label>
-            <input id="{{ $id }}-time" type="time" name="birth_time">
-          </div>
-        </div>
-        <div class="field">
-          <label for="{{ $id }}-place">{{ i18n "place" }}</label>
-          <input id="{{ $id }}-place" type="text" name="birth_place" autocomplete="off">
-        </div>
-        <label class="check"><input type="checkbox" name="birth_time_unknown" value="{{ i18n "timeUnknownValue" }}"><span>{{ i18n "timeUnknown" }}</span></label>
-      </fieldset>
-      <fieldset class="who" data-pair hidden>
-        <legend class="label">{{ i18n "otherPerson" }}</legend>
-        <div class="field">
-          <label for="{{ $id }}-their-name">{{ i18n "theirName" }}</label>
-          <input id="{{ $id }}-their-name" type="text" name="their_name" autocomplete="off">
-        </div>
-        <div class="row-2">
-          <div class="field">
-            <label for="{{ $id }}-their-date">{{ i18n "dateOfBirth" }}</label>
-            <input id="{{ $id }}-their-date" type="date" name="their_birth_date" min="1900-01-01">
-          </div>
-          <div class="field">
-            <label for="{{ $id }}-their-time">{{ i18n "time" }}</label>
-            <input id="{{ $id }}-their-time" type="time" name="their_birth_time">
-          </div>
-        </div>
-        <div class="field">
-          <label for="{{ $id }}-their-place">{{ i18n "place" }}</label>
-          <input id="{{ $id }}-their-place" type="text" name="their_birth_place" autocomplete="off">
-        </div>
-      </fieldset>
-    </div>
-  </details>
 
   <label class="check"><input type="checkbox" name="adult" value="{{ i18n "adultValue" }}" required><span>{{ i18n "adult" }}</span></label>
-  <label class="check" data-pair hidden><input type="checkbox" name="other_adult" value="{{ i18n "otherAdult" }}" data-pair-required><span data-consent-text>{{ i18n "otherAdult" }}</span></label>
 
   <p class="fine">{{ i18n "formFine" (dict "privacy" (partial "url.html" "/privacy/")) | safeHTML }}</p>
 

@@ -1,0 +1,109 @@
+{{- /* The order: which reading and which option, who it's for, the birth details, then payment.
+       Birth details are asked for here and nowhere else, and they only ever leave the browser towards
+       payment (params.checkout, the endpoint that will open Stripe). Until that is set, the form checks
+       everything, says payment isn't open yet, and sends nothing: no birth details without a payment.
+       Prices are read from hugo.toml by kind of reading; an empty one simply isn't shown. */ -}}
+{{- $id := .id }}
+{{- $prices := dict
+      "single" (dict "full" site.Params.priceBirthChart "consulting" site.Params.priceBirthChartConsulting)
+      "pair" (dict "full" site.Params.priceSynastry "consulting" site.Params.priceSynastryConsulting) }}
+<form class="form order-form" data-order-form data-checkout="{{ site.Params.checkout }}" data-msg-closed="{{ i18n "orderClosed" }}" data-msg-opening="{{ i18n "orderOpening" }}" data-msg-error="{{ i18n "orderError" }}">
+  <div class="field">
+    <label for="{{ $id }}-reading">{{ i18n "orderReading" }}</label>
+    <select id="{{ $id }}-reading" name="reading" data-order-reading>
+      {{- range index hugo.Data.readings site.Language.Lang }}
+      {{- if .kind }}
+      {{- $p := index $prices .kind }}
+      <option value="{{ .id }}" data-kind="{{ .kind }}"{{ with .consent }} data-consent="{{ . }}"{{ end }}{{ with $p.full }} data-price-full="{{ . }}"{{ end }}{{ with $p.consulting }} data-price-consulting="{{ . }}"{{ end }}>{{ .label }}</option>
+      {{- end }}
+      {{- end }}
+    </select>
+    {{- with site.Params.nextSlot }}
+    <p class="hint">{{ i18n "nextSlot" (dict "when" .) }}</p>
+    {{- end }}
+  </div>
+
+  <fieldset class="options">
+    <legend class="label">{{ i18n "orderOption" }}</legend>
+    <label class="option"><input type="radio" name="option" value="full" checked><span class="option__name">{{ i18n "optionFull" }}</span><span class="option__price" data-price="full"></span></label>
+    <label class="option"><input type="radio" name="option" value="consulting"><span class="option__name">{{ i18n "optionConsulting" }}</span><span class="option__price" data-price="consulting"></span></label>
+  </fieldset>
+
+  <div class="row-2">
+    <div class="field">
+      <label for="{{ $id }}-name">{{ i18n "yourName" }}</label>
+      <input id="{{ $id }}-name" type="text" name="name" autocomplete="name" required>
+    </div>
+    <div class="field">
+      <label for="{{ $id }}-email">{{ i18n "email" }}</label>
+      <input id="{{ $id }}-email" type="email" name="email" autocomplete="email" required>
+    </div>
+  </div>
+
+  <fieldset class="who">
+    <legend class="label">{{ i18n "yourBirth" }}</legend>
+    <div class="row-2">
+      <div class="field">
+        <label for="{{ $id }}-date">{{ i18n "dateOfBirth" }}</label>
+        <input id="{{ $id }}-date" type="date" name="birth_date" min="1900-01-01" required>
+      </div>
+      <div class="field">
+        <label for="{{ $id }}-time">{{ i18n "time" }}</label>
+        <input id="{{ $id }}-time" type="time" name="birth_time">
+      </div>
+    </div>
+    <div class="field">
+      <label for="{{ $id }}-place">{{ i18n "place" }}</label>
+      <input id="{{ $id }}-place" type="text" name="birth_place" autocomplete="off" required>
+    </div>
+    <label class="check"><input type="checkbox" name="birth_time_unknown" value="{{ i18n "timeUnknownValue" }}" data-time-unknown="birth_time"><span>{{ i18n "timeUnknown" }}</span></label>
+  </fieldset>
+
+  <fieldset class="who" data-pair hidden disabled>
+    <legend class="label">{{ i18n "otherPerson" }}</legend>
+    <div class="field">
+      <label for="{{ $id }}-their-name">{{ i18n "theirName" }}</label>
+      <input id="{{ $id }}-their-name" type="text" name="their_name" autocomplete="off" required>
+    </div>
+    <div class="row-2">
+      <div class="field">
+        <label for="{{ $id }}-their-date">{{ i18n "dateOfBirth" }}</label>
+        <input id="{{ $id }}-their-date" type="date" name="their_birth_date" min="1900-01-01" required>
+      </div>
+      <div class="field">
+        <label for="{{ $id }}-their-time">{{ i18n "time" }}</label>
+        <input id="{{ $id }}-their-time" type="time" name="their_birth_time">
+      </div>
+    </div>
+    <div class="field">
+      <label for="{{ $id }}-their-place">{{ i18n "place" }}</label>
+      <input id="{{ $id }}-their-place" type="text" name="their_birth_place" autocomplete="off" required>
+    </div>
+    <label class="check"><input type="checkbox" name="their_birth_time_unknown" value="{{ i18n "timeUnknownValue" }}" data-time-unknown="their_birth_time"><span>{{ i18n "theirTimeUnknown" }}</span></label>
+  </fieldset>
+
+  <div class="field">
+    <label for="{{ $id }}-notes">{{ i18n "orderNotes" }} <span class="hint">({{ i18n "optional" }})</span></label>
+    <textarea id="{{ $id }}-notes" name="notes" rows="3" placeholder="{{ i18n "orderNotesPlaceholder" }}"></textarea>
+  </div>
+
+  <label class="check"><input type="checkbox" name="adult" value="{{ i18n "adultValue" }}" required><span>{{ i18n "adult" }}</span></label>
+  <label class="check" data-pair hidden><input type="checkbox" name="other_adult" value="{{ i18n "otherAdult" }}" data-pair-required disabled><span data-consent-text>{{ i18n "otherAdult" }}</span></label>
+  <label class="check"><input type="checkbox" name="withdrawal" value="{{ i18n "withdrawal" }}" required><span>{{ i18n "withdrawal" }}</span></label>
+  {{- with site.GetPage "/terms" }}
+  <label class="check"><input type="checkbox" name="terms" value="{{ .Title }}" required><span>{{ i18n "acceptTerms" (dict "href" .RelPermalink) | safeHTML }}</span></label>
+  {{- end }}
+
+  <div class="order-form__sum">
+    <p>{{ i18n "delivered" }}</p>
+    <p class="order-form__total" data-total hidden><span>{{ i18n "total" }}</span> <strong data-total-value></strong></p>
+  </div>
+
+  <div class="actions">
+    <button class="btn btn--solid" type="submit" data-submit>{{ i18n "toPayment" }} <span class="btn__arrow" aria-hidden="true">→</span></button>
+    <p class="status" role="status" aria-live="polite" data-status></p>
+  </div>
+  <p class="fine">{{ i18n "orderFine" (dict "privacy" (partial "url.html" "/privacy/")) | safeHTML }}</p>
+  <p class="fine">{{ i18n "orderAsk" (dict "href" (partial "url.html" "/contact/")) | safeHTML }}</p>
+</form>
+<p class="order-noscript">{{ i18n "orderNoJs" (dict "href" (partial "url.html" "/contact/")) | safeHTML }}</p>
