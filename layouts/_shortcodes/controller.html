@@ -1,7 +1,8 @@
-{{- with site.Params.legal.controllerName -}}
-{{- $name := . }}{{ with site.Params.legal.controllerAddress }}{{ $name = printf "%s, %s" $name . }}{{ end -}}
+{{- /* Who is responsible for the data: the publisher named in the legal notice ([params.legal]). */ -}}
+{{- with site.Params.legal.publisherName -}}
+{{- $name := . }}{{ with site.Params.legal.address }}{{ $name = printf "%s, %s" $name . }}{{ end -}}
 {{ i18n "controllerNamed" (dict "name" $name) }}
 {{- else -}}
-{{- if hugo.IsProduction }}{{ if eq site.Language.Lang "en" }}{{ warnf "privacy: params.legal.controllerName is empty — UK GDPR asks the privacy notice to name who is responsible for the data." }}{{ end }}{{ else }}<mark>[fill in hugo.toml → params.legal.controllerName]</mark> {{ end -}}
+{{- if not hugo.IsProduction }}<mark class="todo">{{ i18n "toFill" (dict "label" (i18n "legalName")) }}</mark> {{ end -}}
 {{ i18n "controllerAnon" }}
 {{- end -}}

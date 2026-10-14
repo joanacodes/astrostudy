@@ -1,0 +1,43 @@
+{{- /* The blocks of the legal notice, in the page's language, from [params.legal] and data/hosts.yml:
+       {{< legal "publisher" >}}, {{< legal "director" >}}, {{< legal "host" >}}, {{< legal "mediator" >}}.
+       A field still empty shows as a highlighted [to fill in] marker — in production too: a legal
+       notice with a hole in it should look like one — and the English build lists it in the log. */ -}}
+{{- $l := site.Params.legal -}}
+{{- $missing := slice -}}
+{{- $field := dict -}}
+{{- range $key, $label := dict
+      "publisherName" (i18n "legalName")
+      "status" (i18n "legalStatus")
+      "address" (i18n "legalAddress")
+      "phone" (i18n "legalPhone")
+      "siren" "SIREN"
+      "mediatorName" (i18n "legalMediator") -}}
+  {{- with index $l $key -}}
+    {{- $field = merge $field (dict $key (htmlEscape .)) -}}
+  {{- else -}}
+    {{- $field = merge $field (dict $key (printf "<mark class=\"todo\">%s</mark>" (i18n "toFill" (dict "label" $label)))) -}}
+    {{- $missing = $missing | append $key -}}
+  {{- end -}}
+{{- end -}}
+{{- $block := .Get 0 -}}
+{{- if eq $block "publisher" -}}
+<p class="legal-block"><strong>{{ index $field "publisherName" | safeHTML }}</strong> — {{ index $field "status" | safeHTML }}<br>
+{{ i18n "lblAddress" }} {{ index $field "address" | safeHTML }}<br>
+{{ i18n "lblPhone" }} {{ index $field "phone" | safeHTML }}<br>
+{{ i18n "lblEmail" }} <a href="mailto:{{ site.Params.email }}">{{ site.Params.email }}</a><br>
+{{ i18n "lblSiren" }} {{ index $field "siren" | safeHTML }}{{ with $l.vat }}<br>
+{{ i18n "lblVat" }} {{ . }}{{ end }}</p>
+{{- else if eq $block "director" -}}
+{{ index $field "publisherName" | safeHTML }}
+{{- else if eq $block "host" -}}
+{{- $h := index hugo.Data.hosts ($l.host | default "cloudflare") -}}
+<p class="legal-block"><strong>{{ $h.name }}</strong><br>
+{{ $h.address }}, {{ i18n (printf "country%s" $h.country) }}<br>
+{{ i18n "lblPhone" }} {{ $h.phone }}<br>
+<a href="{{ $h.url }}" rel="noopener">{{ strings.TrimPrefix "www." (strings.TrimPrefix "https://" $h.url) }}</a></p>
+{{- else if eq $block "mediator" -}}
+{{- with $l.mediatorUrl }}<a href="{{ . }}" rel="noopener">{{ index $field "mediatorName" | safeHTML }}</a>{{ else }}{{ index $field "mediatorName" | safeHTML }}{{ end -}}
+{{- end -}}
+{{- if and hugo.IsProduction (eq site.Language.Lang "en") (eq $block "publisher") $missing -}}
+  {{- warnf "legal notice: still to fill in hugo.toml → [params.legal]: %s" (delimit $missing ", ") -}}
+{{- end -}}

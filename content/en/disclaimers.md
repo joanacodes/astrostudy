@@ -9,7 +9,7 @@ lede: "Not small print to hide behind — the promises I make, and the limits I 
 
 Readings from The Astro Study are offered **for reflection and entertainment**. No outcome is promised, and a reading is not a substitute for medical, legal, financial or psychological advice.
 
-That’s the sentence the law expects, and I think it’s fair. Not because I take astrology lightly — I tested my own chart line by line before reading anyone else’s — but because **nobody knows exactly how it works**, me included. Saying so is a promise not to pretend.
+That’s the customary sentence, and I think it’s fair. Not because I take astrology lightly — I tested my own chart line by line before reading anyone else’s — but because **nobody knows exactly how it works**, me included. Saying so is a promise not to pretend.
 
 ## Adults only {#adults}
 

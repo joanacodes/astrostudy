@@ -40,6 +40,10 @@ hugo && npx wrangler dev                    # http://localhost:8787/
 | Fonts (self-hosted, OFL) | `static/fonts/` — Fraunces and Inter, with their licences |
 | Poster stills, video loops, share image | `static/media/` |
 
+## Legal notice
+
+The site is published from France, so it has a legal notice (*mentions légales*, `/legal-notice/` and `/fr/mentions-legales/`, linked from the footer) as French law requires of a professional site. Its details live in one place, `hugo.toml` → `[params.legal]`: your name, legal status (e.g. “Entrepreneur individuel (EI) — micro-entreprise”), address, phone, SIREN, optionally the VAT line, and the consumer mediator you’ve joined. Until a field is filled, the page shows a highlighted **[to fill in]** marker there and the build log lists it. The privacy notice takes its “who is responsible” line from the same fields, under the GDPR, with the CNIL as the authority.
+
 ## Two languages
 
 English lives at the root, French under `/fr/`. A page and its translation share a file name (`content/en/privacy.md` ↔ `content/fr/privacy.md`), which is how Hugo pairs them: the **FR / EN** link in the header, the menu and the footer always leads to the same page in the other language, and search engines are told about both (`hreflang`). A page with no translation yet sends its language link to the other language’s home page — never to a dead end.
@@ -59,7 +63,12 @@ It works the way AGS’s sky does:
 
 ## Hosting
 
-Cloudflare Workers, deployed like AGS by `.github/workflows/deploy.yml` on every push to `main` (or by hand: Actions → “Deploy to Cloudflare” → Run workflow). The Hugo build is served as static files; the Worker only runs for `/api/*`. Pushes to other branches build the site and check the Worker without deploying.
+`.github/workflows/deploy.yml` publishes every push to `main` (or by hand: Actions → “Deploy” → Run workflow) to one of two places:
+
+- **GitHub Pages, as a preview**, until the Cloudflare secrets below exist: the whole site at `https://joanacodes.github.io/astrostudy/`, without the live sky (Pages has no server to keep the API key, so that block steps aside). One-time setting: Settings → Pages → Build and deployment → Source: **GitHub Actions**. On a private repository, GitHub Pages needs a paid GitHub plan.
+- **Cloudflare Workers**, like AGS, as soon as `CLOUDFLARE_API_TOKEN` and `CLOUDFLARE_ACCOUNT_ID` are set — nothing else to change. The Hugo build is served as static files; the Worker only runs for `/api/*`.
+
+The legal and privacy notices name whichever host is serving the site (`params.legal.host`, set by the workflow; the details are in `data/hosts.yml`). Pushes to other branches build the site and check the Worker without publishing anything.
 
 Repository secrets (GitHub → Settings → Secrets and variables → Actions):
 
@@ -69,7 +78,7 @@ Repository secrets (GitHub → Settings → Secrets and variables → Actions):
 | `CLOUDFLARE_ACCOUNT_ID` | Same value as AGS (Cloudflare → Workers & Pages → Account ID) |
 | `FREE_ASTRO_API` | The FreeAstroAPI key (the same one as AGS). Copied to the Worker as the encrypted secret `FREE_ASTRO_API_KEY` on every deploy |
 
-The workflow stops with a clear message if one of the first two is missing; without the third, the site deploys without the sky. After the first deploy the site answers at `https://the-astro-study.<your-account>.workers.dev`; to put it on **astrostudy.co.uk**, Cloudflare → Workers & Pages → the-astro-study → Settings → Domains & Routes → Add → Custom domain (the domain’s DNS has to be on Cloudflare).
+Without the first two, `main` goes to the GitHub Pages preview; without the third, the site deploys without the sky. After the first deploy the site answers at `https://the-astro-study.<your-account>.workers.dev`; to put it on **astrostudy.co.uk**, Cloudflare → Workers & Pages → the-astro-study → Settings → Domains & Routes → Add → Custom domain (the domain’s DNS has to be on Cloudflare).
 
 ## The contact button and the form
 
@@ -122,10 +131,10 @@ The video loop is seamless: the wind and the pollen repeat exactly every 16 seco
 
 ## Before going live
 
-1. **Hosting**: the three secrets above, then merge into `main`. Attach **astrostudy.co.uk** to the Worker as a custom domain (see Hosting). `baseURL` in `hugo.toml` stays the canonical address.
+1. **Hosting**: the three secrets above (until then `main` publishes the GitHub Pages preview). Attach **astrostudy.co.uk** to the Worker as a custom domain (see Hosting). `baseURL` in `hugo.toml` stays the canonical address.
 2. **FormSubmit**: send one test message from the live site and click the activation link (see above).
 3. **Prices and format**: `priceBirthChart`, `priceSynastry` in `[params]`, and `format`, `replyTime` for each language in `hugo.toml`. Until they’re filled, the site says “On request” / “Sur demande” and makes no promise about delays.
-4. **Privacy notice**: your name (and, if you like, an address) in `[params.legal]`. Check the retention periods written in `content/en/privacy.md` and `content/fr/privacy.md` (twelve months for messages, two years for readings) match what you actually do. The notice is written for a business run from the UK; if The Astro Study is run from France, as Maison Tarot is, the French site also needs a *mentions légales* page and the notice should name the CNIL first.
+4. **Legal notice and privacy**: fill `[params.legal]` in `hugo.toml` (see Legal notice) — including a consumer mediator, which French law requires before selling to consumers. Check the retention periods written in `content/en/privacy.md` and `content/fr/privacy.md` (twelve months for messages, two years for readings) match what you actually do. Before taking paid orders, the site will also need terms of sale (*CGV*: prices, payment, the 14-day withdrawal right and how it applies to a reading).
 5. **The client’s message** on the home page is shortened and anonymised, with the most personal passages left out (the French version says it’s translated). If you haven’t already, ask them whether they’re happy to have it there.
 6. **Instagram**: `instagram` in `hugo.toml`, if you want the link in the footer.
 

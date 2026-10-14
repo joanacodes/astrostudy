@@ -91,8 +91,8 @@ notFoundLede = "The page you were looking for isn’t here — it may have moved
 backToMeadow = "Back to the meadow"
 
 # privacy
-controllerNamed = "The Astro Study is run by {{ .name }}, who is responsible for your data (the “controller”, in UK GDPR terms)."
-controllerAnon = "The person who runs The Astro Study is responsible for your data (the “controller”, in UK GDPR terms)."
+controllerNamed = "The Astro Study is run by {{ .name }}, who is responsible for your data (the “controller”, in GDPR terms)."
+controllerAnon = "The person who runs The Astro Study, in France, is responsible for your data (the “controller”, in GDPR terms)."
 
 # the chart drawings
 wheelNatal = "A birth chart wheel, drawing itself: the zodiac, the twelve houses, the planets, and the lines between them"
@@ -121,3 +121,17 @@ chiron = "Chiron"
 lilith = "Lilith"
 signs = "Aries,Taurus,Gemini,Cancer,Leo,Virgo,Libra,Scorpio,Sagittarius,Capricorn,Aquarius,Pisces"
 phases = "new moon,waxing crescent,first quarter,waxing gibbous,full moon,waning gibbous,last quarter,waning crescent"
+
+# legal notice
+toFill = "[to fill in: {{ .label }}]"
+legalName = "first name and surname"
+legalStatus = "legal status"
+legalAddress = "address"
+legalPhone = "phone number"
+legalMediator = "consumer mediator"
+lblAddress = "Address:"
+lblPhone = "Phone:"
+lblEmail = "Email:"
+lblSiren = "SIREN:"
+lblVat = "VAT:"
+countryUS = "USA"
