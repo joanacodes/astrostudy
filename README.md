@@ -57,16 +57,20 @@ Every visit opens on the same moment of sky as the poster (`OPENING_MOMENT` in `
 
 ### Regenerating the posters and the video
 
-If you change the scene, re-render the media so the fallbacks match. `tools/render-media/` has the scripts (Node with Playwright, Python with Pillow and NumPy, ffmpeg):
+If you change the scene, re-render the media so the fallbacks match. `tools/render-media/` has the scripts (Node, Python with Pillow and NumPy, ffmpeg):
 
 ```
-node tools/render-media/serve.mjs &                         # serves the renderer on :8123
-node tools/render-media/capture.mjs still 1920 1080 /tmp/wide   # → /tmp/wide/still.png
-node tools/render-media/capture.mjs still 1080 1920 /tmp/tall
-node tools/render-media/capture.mjs video 1280 720 /tmp/vwide 16 2.5
-python3 tools/render-media/compose.py /tmp/vwide static/media/meadow-loop-wide.mp4 16 2.5 30 1280 720
-python3 tools/render-media/compose.py /tmp/vwide static/media/meadow-loop-wide.webm 16 2.5 30 1280 720
+cd tools/render-media
+npm install && npx playwright install chromium     # once
+node serve.mjs &                                   # serves the renderer on :8123
+node capture.mjs still 1920 1080 /tmp/wide         # → /tmp/wide/still.png
+node capture.mjs still 1080 1920 /tmp/tall
+node capture.mjs video 1280 720 /tmp/vwide 16 2.5
+python3 compose.py /tmp/vwide ../../static/media/meadow-loop-wide.mp4 16 2.5 30 1280 720
+python3 compose.py /tmp/vwide ../../static/media/meadow-loop-wide.webm 16 2.5 30 1280 720
 ```
+
+On a machine without a GPU, prefix the captures with `SOFTWARE_GL=1` (slow but fine).
 
 (Same for the tall version at 720×1280. Convert the stills to `meadow-poster-*.webp` and `.jpg`.)
 

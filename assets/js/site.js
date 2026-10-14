@@ -164,6 +164,12 @@ function wireForm(form) {
     for (const el of form.querySelectorAll('[data-pair]')) el.hidden = !pair;
     const consent = form.querySelector('[data-pair-required]');
     if (consent) consent.required = pair;
+    // coworker readings ask for the colleague's agreement, not just care
+    const consentText = form.querySelector('[data-consent-text]');
+    if (consentText) {
+      consentText.dataset.default ??= consentText.textContent;
+      consentText.textContent = opt?.dataset.consent || consentText.dataset.default;
+    }
     if (subject) subject.value = `New message — ${opt && opt.dataset.id !== 'unsure' ? opt.value : 'astrostudy.co.uk'}`;
   };
   select?.addEventListener('change', sync);
