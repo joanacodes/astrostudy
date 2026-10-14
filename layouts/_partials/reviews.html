@@ -1,8 +1,8 @@
-{{- $r := hugo.Data.reviews }}
+{{- $r := index hugo.Data.reviews site.Language.Lang }}
 <section class="paper section" id="kind-words" aria-labelledby="kind-words-title">
   <div class="wrap">
-    {{ partial "meta.html" (dict "n" .n "label" "Kind words") }}
-    <h2 class="visually-hidden" id="kind-words-title">Kind words</h2>
+    {{ partial "meta.html" (dict "n" .n "label" (i18n "kindWords")) }}
+    <h2 class="visually-hidden" id="kind-words-title">{{ i18n "kindWords" }}</h2>
     {{- with $r.featured }}
     <figure class="quote-feature">
       <p class="quote-feature__pull" data-reveal>“{{ .pull }}”</p>
@@ -16,7 +16,8 @@
     {{- end }}
     {{- with $r.tarot }}
     <div style="margin-top:clamp(56px,7vw,96px)">
-      <p class="label" data-reveal id="tarot-reviews">And from my tarot readings, on the {{ with site.Params.maisonTarot }}<a class="link" href="{{ . }}" rel="noopener">Maison Tarot</a>{{ else }}Maison Tarot{{ end }} page — tarot, not astrology, but the same reader</p>
+      {{- $link := "Maison Tarot" }}{{ with site.Params.maisonTarot }}{{ $link = printf "<a class=\"link\" href=\"%s\" rel=\"noopener\">Maison Tarot</a>" . }}{{ end }}
+      <p class="label" data-reveal id="tarot-reviews">{{ i18n "tarotIntro" (dict "link" $link) | safeHTML }}</p>
       <div class="quotes" style="margin-top:18px" data-reveal tabindex="0" role="region" aria-labelledby="tarot-reviews">
         {{- range . }}
         <figure class="quote">

@@ -1,13 +1,14 @@
-{{/* The contact button lives bottom left on every page. Without JavaScript it is a plain link to /contact/. */}}
-<a class="contact-fab" href="{{ "contact/" | relURL }}" data-contact aria-haspopup="dialog"><span class="contact-fab__dot" aria-hidden="true"></span>Contact</a>
+{{/* The contact button lives bottom left on every page. Without JavaScript it is a plain link to the contact page. */}}
+{{- $reply := "" }}{{ with site.Params.replyTime }}{{ $reply = i18n "replyClause" (dict "time" .) }}{{ end }}
+<a class="contact-fab" href="{{ partial "url.html" "/contact/" }}" data-contact aria-haspopup="dialog"><span class="contact-fab__dot" aria-hidden="true"></span>{{ i18n "contact" }}</a>
 <dialog class="sheet" id="contact-sheet" aria-labelledby="sheet-title">
   <div class="sheet__head">
-    <span class="label">Write to me</span>
-    <button class="sheet__close" type="button" data-close aria-label="Close"></button>
+    <span class="label">{{ i18n "writeToMe" }}</span>
+    <button class="sheet__close" type="button" data-close aria-label="{{ i18n "close" }}"></button>
   </div>
   <div class="sheet__body">
-    <h2 id="sheet-title">Ask anything. <em>Gently is fine.</em></h2>
-    <p>A question, a reading, or just a hello. I read every message myself{{ with site.Params.replyTime }} and reply {{ . }}{{ end }}. No birth details needed yet.</p>
+    <h2 id="sheet-title">{{ i18n "sheetTitle" | safeHTML }}</h2>
+    <p>{{ i18n "sheetLede" (dict "reply" $reply) }}</p>
     {{ partial "form.html" (dict "id" "sheet" "page" .) }}
   </div>
 </dialog>

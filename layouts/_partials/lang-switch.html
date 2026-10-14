@@ -1,0 +1,8 @@
+{{- /* The same page in the other language — or, if it has no translation, the other language's home.
+       Never a dead end. Returns {url, lang, locale}. */ -}}
+{{- $other := cond (eq site.Language.Lang "fr") "en" "fr" -}}
+{{- $url := "" -}}
+{{- $locale := "" -}}
+{{- range .Translations }}{{ if eq .Language.Lang $other }}{{ $url = .RelPermalink }}{{ $locale = .Language.Locale }}{{ end }}{{ end -}}
+{{- if not $url }}{{ range hugo.Sites }}{{ if eq .Language.Lang $other }}{{ $url = .Home.RelPermalink }}{{ $locale = .Language.Locale }}{{ end }}{{ end }}{{ end -}}
+{{- return (dict "url" $url "lang" $other "locale" $locale) -}}

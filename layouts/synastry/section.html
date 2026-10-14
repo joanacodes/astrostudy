@@ -1,10 +1,10 @@
 {{ define "main" }}
-{{ partial "hero.html" (dict "page" . "actions" (slice (dict "label" "Choose a reading" "href" "#readings" "arrow" "↓" "solid" true) (dict "label" "Ask me first" "href" "contact/" "contact" true))) }}
+{{ partial "hero.html" (dict "page" . "actions" (slice (dict "label" (i18n "chooseReading") "href" "#readings" "arrow" "↓" "solid" true) (dict "label" (i18n "askFirst") "href" "/contact/" "contact" true))) }}
 
 {{ with .Params.looks }}
 <section class="paper section" aria-labelledby="looks-title">
   <div class="wrap">
-    {{ partial "meta.html" (dict "n" "01" "label" (.label | default "What synastry is")) }}
+    {{ partial "meta.html" (dict "n" "01" "label" (.label | default (i18n "whatSynastryIs"))) }}
     <div class="study">
       <div class="study__figure" data-reveal>{{ partial "wheel-synastry.html" . }}</div>
       <div>
@@ -31,7 +31,7 @@
 
 <section class="paper section" id="readings" aria-labelledby="readings-title">
   <div class="wrap">
-    {{ partial "meta.html" (dict "n" "02" "label" "Four readings") }}
+    {{ partial "meta.html" (dict "n" "02" "label" (i18n "fourReadings")) }}
     <div class="section__head">
       <h2 id="readings-title" data-reveal>{{ .Params.typesTitle | safeHTML }}</h2>
       {{ with .Params.typesLede }}<p class="lede" data-reveal style="--d:.1s">{{ . | safeHTML }}</p>{{ end }}
@@ -56,7 +56,7 @@
 {{ with .Params.steps }}
 <section class="paper section" aria-labelledby="steps-title">
   <div class="wrap">
-    {{ partial "meta.html" (dict "n" "03" "label" "How it goes") }}
+    {{ partial "meta.html" (dict "n" "03" "label" (i18n "howItGoes")) }}
     <div class="split">
       <div class="section__head">
         <h2 id="steps-title" data-reveal>{{ .title | safeHTML }}</h2>
@@ -71,7 +71,7 @@
 {{ with .Params.care }}
 <section class="paper section" aria-labelledby="care-title">
   <div class="wrap">
-    {{ partial "meta.html" (dict "n" "04" "label" (.label | default "Care and consent")) }}
+    {{ partial "meta.html" (dict "n" "04" "label" (.label | default (i18n "careConsent"))) }}
     <div class="section__head">
       <h2 id="care-title" data-reveal>{{ .title | safeHTML }}</h2>
       {{ with .lede }}<p class="lede" data-reveal style="--d:.1s">{{ . | safeHTML }}</p>{{ end }}
@@ -91,11 +91,11 @@
 {{ with .Params.faq }}
 <section class="paper section" aria-labelledby="faq-title">
   <div class="wrap">
-    {{ partial "meta.html" (dict "n" "05" "label" "Questions") }}
+    {{ partial "meta.html" (dict "n" "05" "label" (i18n "questions")) }}
     <div class="split">
       <div class="section__head">
-        <h2 id="faq-title" data-reveal>Questions <em>people ask</em></h2>
-        <p class="lede" data-reveal style="--d:.1s">Anything else? <a class="link" href="{{ "contact/" | relURL }}" data-contact>Ask me</a> — there are no silly questions here.</p>
+        <h2 id="faq-title" data-reveal>{{ i18n "questionsTitle" | safeHTML }}</h2>
+        <p class="lede" data-reveal style="--d:.1s">{{ i18n "anythingElse" (dict "href" (partial "url.html" "/contact/")) | safeHTML }}</p>
       </div>
       {{ partial "faq.html" . }}
     </div>

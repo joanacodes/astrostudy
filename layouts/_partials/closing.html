@@ -1,11 +1,12 @@
 {{- $c := .closing }}
+{{- $href := "/contact/" }}{{ with .reading }}{{ $href = printf "/contact/?reading=%s" . }}{{ end }}
 <section class="window closing">
   <div class="window__text halo">
-    <p class="label" data-reveal>{{ $c.kicker | default "Whenever you’re ready" }}</p>
+    <p class="label" data-reveal>{{ $c.kicker | default (i18n "whenReady") }}</p>
     <h2 class="display" data-reveal style="--d:.08s">{{ $c.title | safeHTML }}</h2>
     <p class="lede" data-reveal style="--d:.16s">{{ $c.text | safeHTML }}</p>
     <div data-reveal style="--d:.24s">
-      <a class="btn btn--solid" href="{{ printf "contact/%s" (cond (ne (.reading | default "") "") (printf "?reading=%s" .reading) "") | relURL }}" data-contact{{ with .reading }} data-reading="{{ . }}"{{ end }}>{{ $c.cta | default "Write to me" }} <span class="btn__arrow" aria-hidden="true">→</span></a>
+      <a class="btn btn--solid" href="{{ partial "url.html" $href }}" data-contact{{ with .reading }} data-reading="{{ . }}"{{ end }}>{{ $c.cta | default (i18n "writeToMe") }} <span class="btn__arrow" aria-hidden="true">→</span></a>
     </div>
   </div>
 </section>

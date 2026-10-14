@@ -1,7 +1,9 @@
-// Astrostudy — how the pages behave. The meadow behind them boots separately (meadow-boot.js).
+// The Astro Study — how the pages behave. The meadow behind them boots separately (meadow-boot.js).
 //
 // Pages change without a full reload, so the sky keeps drifting while you move around the site.
 // Everything still works as plain links and a plain form if this script never runs.
+
+import { initSky } from './sky.js';
 
 // Tells the safety net in <head> that the page is in good hands (see head.html).
 window.__astro = true;
@@ -63,8 +65,18 @@ function updateDrawings() {
   }
 }
 
+// The header is white while the meadow is behind it and turns ink over the glass panels. It looks
+// at what actually sits under its middle line, so it's right on every page and after any jump.
+let skies = [];
 function headerState() {
-  header?.classList.toggle('is-scrolled', scrollY > 40);
+  if (!header) return;
+  header.classList.toggle('is-scrolled', scrollY > 40);
+  const y = header.offsetHeight / 2;
+  const onSky = skies.some((s) => {
+    const r = s.getBoundingClientRect();
+    return r.top <= y && r.bottom >= y;
+  });
+  header.classList.toggle('on-sky', onSky);
 }
 
 let ticking = false;
@@ -128,7 +140,7 @@ function setMenu(open) {
   drawer.inert = !open;
   for (const el of [$('main'), $('.footer')]) if (el) el.inert = open;
   const label = $('[data-menu-label]', menuBtn);
-  if (label) label.textContent = open ? 'Close' : 'Menu';
+  if (label) label.textContent = open ? menuBtn.dataset.labelClose || 'Close' : menuBtn.dataset.labelOpen || 'Menu';
   if (open) drawer.querySelector('a')?.focus({ preventScroll: true });
 }
 menuBtn?.addEventListener('click', () => setMenu(!document.body.classList.contains('menu-open')));
@@ -185,7 +197,7 @@ function wireForm(form) {
       consentText.textContent = opt?.dataset.consent || consentText.dataset.default;
       if (consent) consent.value = consentText.textContent;
     }
-    if (subject) subject.value = `New message — ${opt && opt.dataset.id !== 'unsure' ? opt.value : 'astrostudy.co.uk'}`;
+    if (subject) subject.value = `${subject.dataset.prefix ?? ''}${opt && opt.dataset.id !== 'unsure' ? opt.value : 'astrostudy.co.uk'}`;
   };
   select?.addEventListener('change', sync);
   sync();
@@ -196,7 +208,7 @@ function wireForm(form) {
     e.preventDefault();
     if (!form.reportValidity()) return;
     button.disabled = true;
-    status.textContent = 'Sending…';
+    status.textContent = form.dataset.msgSending || '…';
     const data = {};
     for (const [k, v] of new FormData(form)) {
       if (typeof v === 'string' && v.trim() !== '' && k !== '_next') data[k] = v.trim();
@@ -218,16 +230,18 @@ function wireForm(form) {
         form.parentElement.classList.add('is-sent');
         sent.focus({ preventScroll: true });
       } else {
-        status.textContent = 'Thank you — your message is with me.';
+        status.textContent = form.dataset.msgSent || '';
       }
     } catch (err) {
       console.warn('[contact]', err);
       const mail = form.dataset.email;
       // FormSubmit answers this way until the owner clicks the link in its first email.
       if (/activat/i.test(err.message)) {
-        status.textContent = `Almost there: this form still needs to be activated. FormSubmit has sent the activation link to ${mail}.`;
+        status.textContent = (form.dataset.msgActivate || '').replace('{email}', mail);
       } else {
-        status.innerHTML = `Sorry — that didn’t go through. Please try again, or write to <a href="mailto:${mail}">${mail}</a>.`;
+        const [before, after = ''] = (form.dataset.msgError || '{email}').split('{email}');
+        const link = Object.assign(document.createElement('a'), { href: `mailto:${mail}`, textContent: mail });
+        status.replaceChildren(before, link, after);
       }
     } finally {
       button.disabled = false;
@@ -314,7 +328,8 @@ let navToken = 0;
 let shown = location.pathname + location.search;
 
 function classify(a) {
-  if (!a || !a.href || a.hasAttribute('download') || a.hasAttribute('data-no-route')) return null;
+  // the language links lead to the other site (its own header, footer and form): a plain page load
+  if (!a || !a.href || a.hasAttribute('download') || a.hasAttribute('data-no-route') || a.hasAttribute('hreflang')) return null;
   if (a.target && a.target !== '_self') return null;
   const url = new URL(a.href, location.href);
   if (url.origin !== location.origin || !/^https?:$/.test(url.protocol)) return null;
@@ -388,6 +403,10 @@ async function go(href, { push = true, y = null } = {}) {
     const doc = new DOMParser().parseFromString(text, 'text/html');
     const next = doc.querySelector('main');
     if (!next) throw new Error('no <main>');
+    if (doc.documentElement.lang !== html.lang) {
+      location.href = href;
+      return;
+    }
     if (push) history.pushState({ y: null }, '', href);
     shown = location.pathname + location.search;
     swapHead(doc);
@@ -398,6 +417,9 @@ async function go(href, { push = true, y = null } = {}) {
     const nav = $('[data-nav]');
     const nextNav = doc.querySelector('[data-nav]');
     if (nav && nextNav) nav.innerHTML = nextNav.innerHTML;
+    // the language links point at this page's translation, so they change with the page
+    const langNext = doc.querySelector('[data-lang-link]')?.getAttribute('href');
+    if (langNext) for (const a of $$('[data-lang-link]')) a.setAttribute('href', langNext);
 
     const url = new URL(href, location.href);
     if (y != null) scrollTo(0, y);
@@ -485,7 +507,9 @@ document.addEventListener('click', (e) => {
 
 function initPage(root) {
   arrivals(root);
+  initSky(root);
   collectDrawings(root);
+  skies = $$('.hero, .window');
   faqs(root);
   for (const form of $$('[data-form]', root)) {
     wireForm(form);

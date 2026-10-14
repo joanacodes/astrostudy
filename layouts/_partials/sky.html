@@ -1,0 +1,27 @@
+{{- /* "The sky right now", in the section after the hero. The positions come from /api/sky — the
+       Cloudflare Worker in worker/index.js, which keeps the FreeAstroAPI key — when the page is read
+       (assets/js/sky.js). Until they arrive the wheel is an empty zodiac; if they can't be had, the
+       block steps aside. Without JavaScript it isn't shown. */ -}}
+{{- $copy := . -}}
+{{- $keys := slice "sun" "moon" "mercury" "venus" "mars" "jupiter" "saturn" "uranus" "neptune" "pluto" "chiron" "lilith" -}}
+{{- $tender := slice "saturn" "chiron" "lilith" -}}
+{{- $names := dict }}{{ range $keys }}{{ $names = merge $names (dict . (i18n .)) }}{{ end -}}
+<div class="sky" data-sky data-api="{{ "api/sky" | relURL }}">
+  <div class="sky__figure" data-reveal>{{ partial "wheel-sky.html" . }}</div>
+  <div class="sky__text">
+    <p class="label" data-reveal>{{ $copy.label }}<span data-sky-when hidden> · <time data-sky-time></time></span></p>
+    <h2 data-reveal style="--d:.08s">{{ $copy.title | safeHTML }}</h2>
+    <p class="lede" data-reveal style="--d:.14s">{{ $copy.text | safeHTML }}</p>
+    <ul class="sky__list" data-reveal style="--d:.2s">
+      {{- range $keys }}
+      <li class="sky__row{{ if in $tender . }} is-tender{{ end }}" data-body="{{ . }}">
+        <span class="sky__name">{{ i18n . }}</span>
+        <span class="sky__where" data-where></span>
+        <span class="sky__note" data-note></span>
+      </li>
+      {{- end }}
+    </ul>
+    <p class="fine" data-reveal style="--d:.26s">{{ with $copy.note }}{{ . | safeHTML }} {{ end }}{{ i18n "skySource" }}</p>
+  </div>
+  <script type="application/json" data-sky-words>{{ dict "signs" (split (i18n "signs") ",") "phases" (split (i18n "phases") ",") "names" $names "retro" (i18n "skyRetro") "lit" (i18n "skyLit") "locale" site.Language.Locale | jsonify | safeJS }}</script>
+</div>

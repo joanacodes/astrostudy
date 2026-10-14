@@ -1,5 +1,5 @@
 <ul class="refusals">
-  {{- range hugo.Data.refusals }}
+  {{- range index hugo.Data.refusals site.Language.Lang }}
   <li>{{ . }}</li>
   {{- end }}
 </ul>

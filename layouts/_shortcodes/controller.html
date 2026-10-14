@@ -1,6 +1,7 @@
 {{- with site.Params.legal.controllerName -}}
-Astrostudy is run by {{ . }}{{ with site.Params.legal.controllerAddress }}, {{ . }}{{ end }}, who is responsible for your data (the “controller”, in UK GDPR terms).
+{{- $name := . }}{{ with site.Params.legal.controllerAddress }}{{ $name = printf "%s, %s" $name . }}{{ end -}}
+{{ i18n "controllerNamed" (dict "name" $name) }}
 {{- else -}}
-{{- if hugo.IsProduction }}{{ warnf "privacy: params.legal.controllerName is empty — UK GDPR asks the privacy notice to name who is responsible for the data." }}{{ else }}<mark>[fill in hugo.toml → params.legal.controllerName]</mark> {{ end -}}
-The person who runs Astrostudy is responsible for your data (the “controller”, in UK GDPR terms).
+{{- if hugo.IsProduction }}{{ if eq site.Language.Lang "en" }}{{ warnf "privacy: params.legal.controllerName is empty — UK GDPR asks the privacy notice to name who is responsible for the data." }}{{ end }}{{ else }}<mark>[fill in hugo.toml → params.legal.controllerName]</mark> {{ end -}}
+{{ i18n "controllerAnon" }}
 {{- end -}}

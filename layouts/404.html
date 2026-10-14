@@ -1,10 +1,10 @@
 {{ define "main" }}
 <section class="hero">
   <div class="hero__inner halo">
-    <p class="eyebrow">Page not found</p>
-    <h1>This path leads <em>into the long grass</em>.</h1>
-    <p class="lede">The page you were looking for isn’t here — it may have moved. Nothing is lost.</p>
-    <div class="hero__actions"><a class="btn btn--solid" href="{{ site.Home.RelPermalink }}">Back to the meadow <span class="btn__arrow" aria-hidden="true">→</span></a></div>
+    <p class="eyebrow">{{ i18n "notFound" }}</p>
+    <h1>{{ i18n "notFoundTitle" | safeHTML }}</h1>
+    <p class="lede">{{ i18n "notFoundLede" }}</p>
+    <div class="hero__actions"><a class="btn btn--solid" href="{{ site.Home.RelPermalink }}">{{ i18n "backToMeadow" }} <span class="btn__arrow" aria-hidden="true">→</span></a></div>
   </div>
 </section>
 {{ end }}

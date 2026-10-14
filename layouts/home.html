@@ -3,9 +3,10 @@
 
 <section class="paper section" aria-labelledby="readings-title">
   <div class="wrap">
-    {{ partial "meta.html" (dict "n" "01" "label" "Two readings") }}
-    <h2 class="visually-hidden" id="readings-title">Two readings</h2>
+    {{ partial "meta.html" (dict "n" "01" "label" (i18n "twoReadings")) }}
+    <h2 class="visually-hidden" id="readings-title">{{ i18n "twoReadings" }}</h2>
     <p class="statement" data-reveal>{{ .Params.statement | safeHTML }}</p>
+    {{ with .Params.sky }}{{ partial "sky.html" . }}{{ end }}
     <div class="grid-2" style="margin-top:clamp(48px,6vw,88px)">
       {{- range $i, $s := .Params.services }}
       <a class="offer" href="{{ partial "url.html" .href }}" data-reveal style="--d:{{ mul $i 0.1 }}s">
@@ -42,7 +43,7 @@
       </div>
       {{- end }}
     </div>
-    <p style="margin-top:44px" data-reveal><a class="arrow-link" href="{{ "how-i-read/" | relURL }}">{{ .cta }} <span aria-hidden="true">→</span></a></p>
+    <p style="margin-top:44px" data-reveal><a class="arrow-link" href="{{ partial "url.html" "/how-i-read/" }}">{{ .cta }} <span aria-hidden="true">→</span></a></p>
   </div>
 </section>
 {{ end }}

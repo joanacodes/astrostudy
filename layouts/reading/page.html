@@ -4,14 +4,14 @@
 {{- range .Params.facts }}
   {{- $v := .v }}
   {{- with .param }}{{ with index site.Params . }}{{ $v = . }}{{ end }}{{ end }}
-  {{- $facts = $facts | append (dict "k" .k "v" ($v | default "On request")) }}
+  {{- $facts = $facts | append (dict "k" .k "v" ($v | default (i18n "onRequest"))) }}
 {{- end }}
-{{ partial "hero.html" (dict "page" . "facts" $facts "actions" (slice (dict "label" (.Params.ctaLabel | default "Request this reading") "href" (printf "contact/?reading=%s" $reading) "contact" true "reading" $reading "solid" true) (dict "label" "What we look at" "href" "#looks" "arrow" "↓"))) }}
+{{ partial "hero.html" (dict "page" . "facts" $facts "actions" (slice (dict "label" (.Params.ctaLabel | default (i18n "requestReading")) "href" (printf "/contact/?reading=%s" $reading) "contact" true "reading" $reading "solid" true) (dict "label" (i18n "whatWeLookAt") "href" "#looks" "arrow" "↓"))) }}
 
 {{ with .Params.looks }}
 <section class="paper section" id="looks" aria-labelledby="looks-title">
   <div class="wrap">
-    {{ partial "meta.html" (dict "n" "01" "label" (.label | default "What we look at")) }}
+    {{ partial "meta.html" (dict "n" "01" "label" (.label | default (i18n "whatWeLookAt"))) }}
     <div class="study">
       <div class="study__figure" data-reveal>{{ if eq $.Params.figure "synastry" }}{{ partial "wheel-synastry.html" . }}{{ else }}{{ partial "wheel-natal.html" . }}{{ end }}</div>
       <div>
@@ -43,7 +43,7 @@
 {{ with .Params.steps | default .CurrentSection.Params.steps }}
 <section class="paper section" aria-labelledby="steps-title">
   <div class="wrap">
-    {{ partial "meta.html" (dict "n" "02" "label" "How it goes") }}
+    {{ partial "meta.html" (dict "n" "02" "label" (i18n "howItGoes")) }}
     <div class="split">
       <div class="section__head">
         <h2 id="steps-title" data-reveal>{{ .title | safeHTML }}</h2>
@@ -58,7 +58,7 @@
 {{ with .Params.care }}
 <section class="paper section" aria-labelledby="care-title">
   <div class="wrap">
-    {{ partial "meta.html" (dict "n" "03" "label" (.label | default "What it isn’t")) }}
+    {{ partial "meta.html" (dict "n" "03" "label" (.label | default (i18n "whatItIsnt"))) }}
     <div class="section__head">
       <h2 id="care-title" data-reveal>{{ .title | safeHTML }}</h2>
       {{ with .lede }}<p class="lede" data-reveal style="--d:.1s">{{ . | safeHTML }}</p>{{ end }}
@@ -85,11 +85,11 @@
 {{ with .Params.faq }}
 <section class="paper section" aria-labelledby="faq-title">
   <div class="wrap">
-    {{ partial "meta.html" (dict "n" "04" "label" "Questions") }}
+    {{ partial "meta.html" (dict "n" "04" "label" (i18n "questions")) }}
     <div class="split">
       <div class="section__head">
-        <h2 id="faq-title" data-reveal>Questions <em>people ask</em></h2>
-        <p class="lede" data-reveal style="--d:.1s">Anything else? <a class="link" href="{{ "contact/" | relURL }}" data-contact>Ask me</a> — there are no silly questions here.</p>
+        <h2 id="faq-title" data-reveal>{{ i18n "questionsTitle" | safeHTML }}</h2>
+        <p class="lede" data-reveal style="--d:.1s">{{ i18n "anythingElse" (dict "href" (partial "url.html" "/contact/")) | safeHTML }}</p>
       </div>
       {{ partial "faq.html" . }}
     </div>
@@ -100,8 +100,8 @@
 {{ if eq .Section "synastry" }}
 <section class="paper section section--tight" aria-labelledby="others-title">
   <div class="wrap">
-    {{ partial "meta.html" (dict "label" "The other synastry readings") }}
-    <h2 class="visually-hidden" id="others-title">The other synastry readings</h2>
+    {{ partial "meta.html" (dict "label" (i18n "otherSynastry")) }}
+    <h2 class="visually-hidden" id="others-title">{{ i18n "otherSynastry" }}</h2>
     <div class="types">
       {{- range where .CurrentSection.RegularPages.ByWeight "Permalink" "ne" .Permalink }}
       <a class="type" href="{{ .RelPermalink }}" data-reveal>

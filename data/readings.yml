@@ -1,7 +1,16 @@
-# The readings, in the order they appear in the contact form. `id` travels in links (?reading=…).
-- { id: "unsure", label: "I’m not sure yet", kind: "" }
-- { id: "birth-chart", label: "Birth chart reading", kind: "single", page: "/birth-chart/" }
-- { id: "synastry-couples", label: "Synastry — couples", kind: "pair", page: "/synastry/couples/" }
-- { id: "synastry-friends", label: "Synastry — friends", kind: "pair", page: "/synastry/friends/" }
-- { id: "synastry-coworkers", label: "Synastry — co-workers", kind: "pair", page: "/synastry/coworkers/", consent: "My colleague is 18 or over too, and has agreed to share their birth details." }
-- { id: "synastry-family", label: "Synastry — family", kind: "pair", page: "/synastry/family/" }
+# The readings, in the order they appear in the contact form, in each language. `id` travels in
+# links (?reading=…) and must stay the same in both lists; `label` is what the email shows.
+en:
+  - { id: "unsure", label: "I’m not sure yet", kind: "" }
+  - { id: "birth-chart", label: "Birth chart reading", kind: "single" }
+  - { id: "synastry-couples", label: "Synastry — couples", kind: "pair" }
+  - { id: "synastry-friends", label: "Synastry — friends", kind: "pair" }
+  - { id: "synastry-coworkers", label: "Synastry — co-workers", kind: "pair", consent: "My colleague is 18 or over too, and has agreed to share their birth details." }
+  - { id: "synastry-family", label: "Synastry — family", kind: "pair" }
+fr:
+  - { id: "unsure", label: "Je ne sais pas encore", kind: "" }
+  - { id: "birth-chart", label: "Lecture de thème natal", kind: "single" }
+  - { id: "synastry-couples", label: "Synastrie — couple", kind: "pair" }
+  - { id: "synastry-friends", label: "Synastrie — amitié", kind: "pair" }
+  - { id: "synastry-coworkers", label: "Synastrie — collègues", kind: "pair", consent: "La personne avec qui je travaille a aussi 18 ans ou plus, et a accepté de partager ses données de naissance." }
+  - { id: "synastry-family", label: "Synastrie — famille", kind: "pair" }

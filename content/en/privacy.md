@@ -1,6 +1,6 @@
 ---
 title: "Privacy"
-description: "What Astrostudy collects, why, who else touches it, how long it is kept, and your rights under UK data protection law. No cookies, no tracking."
+description: "What The Astro Study collects, why, who else touches it, how long it is kept, and your rights under UK data protection law. No cookies, no tracking."
 eyebrow: "Privacy"
 h1: "Your details, <em>handled gently.</em>"
 lede: "A reading asks for personal things — your birth details, sometimes someone else’s, sometimes your story. Here is exactly what happens to them."
@@ -28,13 +28,13 @@ For a synastry reading you may send another person’s birth details. Please do 
 
 - **FormSubmit** ([formsubmit.co](https://formsubmit.co)) receives what you type in the form and forwards it to my inbox. Their own privacy terms, on their site, explain what they keep.
 - **My email provider** stores our messages.
-- **GitHub Pages** hosts this website and, like any web host, keeps short-lived technical logs (such as IP addresses) to keep the site running and secure.
+- **Cloudflare** hosts this website and, like any web host, keeps short-lived technical logs (such as IP addresses) to keep the site running and secure.
 
-These services may store or process data outside the UK — GitHub, for example, is based in the United States. Each explains its own safeguards on its site.
+These services may store or process data outside the UK — Cloudflare, for example, is based in the United States. Each explains its own safeguards on its site.
 
 ## No cookies, no tracking
 
-This site sets no cookies, runs no analytics and no advertising trackers. The fonts are served from this site, not from a third party. The moving meadow behind the pages is drawn by your own browser; nothing about it is sent anywhere.
+This site sets no cookies, runs no analytics and no advertising trackers. The fonts are served from this site, not from a third party. The moving meadow behind the pages is drawn by your own browser; nothing about it is sent anywhere. The sky on the home page comes from [FreeAstroAPI](https://freeastroapi.com), asked by this site’s own server a few times a day — never by your browser, and nothing about you is sent to them. Your browser then moves the planets on to the minute.
 
 ## How long I keep things
 
@@ -42,6 +42,6 @@ Messages that don’t lead to a reading are deleted within twelve months. For re
 
 ## Your rights
 
-You can ask me to show you what I hold about you, correct it, delete it, or stop using it. Just write to {{< email >}}. If you’re unhappy with how I’ve handled your data, you can complain to the Information Commissioner’s Office at [ico.org.uk](https://ico.org.uk) — but I’d be grateful for the chance to put it right first.
+You can ask me to show you what I hold about you, correct it, delete it, or stop using it. Just write to {{< email >}}. If you’re unhappy with how I’ve handled your data, you can complain to the Information Commissioner’s Office at [ico.org.uk](https://ico.org.uk), or to the data protection authority where you live (in France, the CNIL, at [cnil.fr](https://www.cnil.fr)) — but I’d be grateful for the chance to put it right first.
 
 *Last updated: October 2026.*

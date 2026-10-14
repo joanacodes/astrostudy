@@ -1,7 +1,8 @@
-# Astrostudy — site
+# The Astro Study — site
 
 Birth chart readings for adults and synastry readings for couples, friends, co-workers and family.
-Hugo (v0.165, extended) · English (en-GB) · GitHub Pages · a live 3D meadow behind every page.
+Hugo (v0.165, extended) · English (en-GB) at the root, French (fr-FR) under `/fr/` · Cloudflare Workers,
+like AGS · a live 3D meadow behind every page · the sky right now on the home page.
 
 ## Run it locally
 
@@ -9,33 +10,76 @@ Hugo (v0.165, extended) · English (en-GB) · GitHub Pages · a live 3D meadow b
 hugo server
 ```
 
-Then http://localhost:1313/. In local preview, anything still to fill in shows as a highlighted `[fill in …]` marker; in production it falls back to neutral wording.
+Then http://localhost:1313/ (and http://localhost:1313/fr/). In local preview, anything still to fill in shows as a highlighted `[fill in …]` marker; in production it falls back to neutral wording.
+
+`hugo server` has no `/api/sky`, so the home page goes without the sky there. To see everything as Cloudflare serves it, sky included, put the key in a file Git ignores and run the Worker over a build:
+
+```
+echo 'FREE_ASTRO_API_KEY=…' > .dev.vars     # once; .dev.vars is in .gitignore
+hugo && npx wrangler dev                    # http://localhost:8787/
+```
 
 ## Where things are
 
 | What | Where |
 | --- | --- |
-| Settings: email, FormSubmit endpoints, prices, format, Instagram, legal name | `hugo.toml` → `[params]` (empty = hidden or “On request”) |
-| Page copy | `content/` — `_index.md` (home), `birth-chart.md`, `synastry/_index.md` + `couples.md`, `friends.md`, `coworkers.md`, `family.md`, `how-i-read.md`, `contact.md`, `disclaimers.md`, `privacy.md`, `thank-you.md` |
-| Reviews | `data/reviews.yml` — the featured client message (shortened, anonymised) and the Maison Tarot reviews, labelled as tarot |
-| What I won’t read | `data/refusals.yml` (same list as Maison Tarot) |
-| Readings offered in the form | `data/readings.yml` |
+| Settings: email, FormSubmit endpoints, prices, Instagram, legal name | `hugo.toml` → `[params]` (empty = hidden or “On request”) |
+| Settings that differ by language: description, format, reply time, share image, menus | `hugo.toml` → `[languages.en]` and `[languages.fr]` |
+| Page copy, English | `content/en/` — `_index.md` (home), `birth-chart.md`, `synastry/_index.md` + `couples.md`, `friends.md`, `coworkers.md`, `family.md`, `how-i-read.md`, `contact.md`, `disclaimers.md`, `privacy.md`, `thank-you.md` |
+| Page copy, French | `content/fr/` — the same file names; each sets its French address with `slug` (`/fr/theme-natal/`, `/fr/synastrie/collegues/`…) |
+| Words used by the templates (buttons, form, footer, the sky) | `i18n/en.toml` and `i18n/fr.toml` — keep the keys in step |
+| Reviews | `data/reviews.yml` — `en:` and `fr:`; the featured client message (shortened, anonymised) and the Maison Tarot reviews, labelled as tarot; the French ones say they’re translated |
+| What I won’t read | `data/refusals.yml` (same list as Maison Tarot, in both languages) |
+| Readings offered in the form | `data/readings.yml` (both languages; the `id`s must match) |
+| The sky right now | `worker/index.js` (`/api/sky`, on Cloudflare), `layouts/_partials/sky.html` and `wheel-sky.html` (the block and its wheel), `assets/js/sky.js` (placing the planets at the minute) |
+| Hosting | `wrangler.jsonc` and `.github/workflows/deploy.yml` |
 | Design | `assets/css/site.css` (tokens at the top) |
-| Page behaviour (reveals, drawn lines, FAQ, menu, contact sheet, page transitions) | `assets/js/site.js` |
+| Page behaviour (reveals, drawn lines, FAQ, menu, contact sheet, page transitions, header colour) | `assets/js/site.js` |
 | The meadow | `assets/js/meadow/` + `assets/js/meadow-boot.js` |
 | Templates | `layouts/` — `home.html`, `reading/page.html` (birth chart and the four synastry pages), `synastry/section.html`, `page.html` |
 | Fonts (self-hosted, OFL) | `static/fonts/` — Fraunces and Inter, with their licences |
 | Poster stills, video loops, share image | `static/media/` |
 
+## Two languages
+
+English lives at the root, French under `/fr/`. A page and its translation share a file name (`content/en/privacy.md` ↔ `content/fr/privacy.md`), which is how Hugo pairs them: the **FR / EN** link in the header, the menu and the footer always leads to the same page in the other language, and search engines are told about both (`hreflang`). A page with no translation yet sends its language link to the other language’s home page — never to a dead end.
+
+Write internal links in either language with the English path — `[privacy note](/privacy/)`, `href: "/synastry/couples/"` — and they come out at the right address for the page’s language. Switching language is a full page load (the header, footer and form change language too); everything else moves without reloading the meadow.
+
+## The sky right now
+
+The section after the hero on the home page draws the sky as it is at the minute the page is read: each planet in its sign on a fine-line wheel, the major aspects between them, the Moon’s phase, and a list beside it. Saturn, Chiron and Lilith are in accent — the three read slowest.
+
+It works the way AGS’s sky does:
+
+- **The key stays on the server.** The page asks `/api/sky`, a few lines of Cloudflare Worker (`worker/index.js`) that hold the FreeAstroAPI key as an encrypted secret. A key in the page itself could be copied by anyone who opened the source.
+- **One FreeAstroAPI call every six hours**, at most, per Cloudflare location: it captures every planet’s position and speed. Each visitor’s browser then moves the planets on to the minute, and again every minute while the page is open.
+- **If FreeAstroAPI is down**, the Worker keeps serving its last good sky for up to two days (moved on by the speeds, it stays right to within a degree or so). With no sky at all, the block steps aside and the section reads as before. Without JavaScript the block isn’t shown.
+- Nothing about the visitor is sent to FreeAstroAPI: the Worker asks for “the sky now”, from Greenwich.
+
+## Hosting
+
+Cloudflare Workers, deployed like AGS by `.github/workflows/deploy.yml` on every push to `main` (or by hand: Actions → “Deploy to Cloudflare” → Run workflow). The Hugo build is served as static files; the Worker only runs for `/api/*`. Pushes to other branches build the site and check the Worker without deploying.
+
+Repository secrets (GitHub → Settings → Secrets and variables → Actions):
+
+| Secret | What |
+| --- | --- |
+| `CLOUDFLARE_API_TOKEN` | Same value as AGS (Cloudflare → My Profile → API Tokens → template **Edit Cloudflare Workers**) |
+| `CLOUDFLARE_ACCOUNT_ID` | Same value as AGS (Cloudflare → Workers & Pages → Account ID) |
+| `FREE_ASTRO_API` | The FreeAstroAPI key (the same one as AGS). Copied to the Worker as the encrypted secret `FREE_ASTRO_API_KEY` on every deploy |
+
+The workflow stops with a clear message if one of the first two is missing; without the third, the site deploys without the sky. After the first deploy the site answers at `https://the-astro-study.<your-account>.workers.dev`; to put it on **astrostudy.co.uk**, Cloudflare → Workers & Pages → the-astro-study → Settings → Domains & Routes → Add → Custom domain (the domain’s DNS has to be on Cloudflare).
+
 ## The contact button and the form
 
-The **Contact** button sits bottom left on every page and opens a sheet with the form. The same form is on `/contact/` (and that’s where the button leads if JavaScript is off).
+The **Contact** button sits bottom left on every page and opens the form in the middle of the screen (from the bottom on phones). The same form is on `/contact/` and `/fr/contact/` (and that’s where the button leads if JavaScript is off).
 
 Messages go through [FormSubmit](https://formsubmit.co) to **hello@astrostudy.co.uk**:
 
 1. **Activate it once.** The very first message sent triggers an email from FormSubmit to hello@astrostudy.co.uk with an “Activate Form” link. Until it’s clicked, nothing is forwarded. Send yourself a test from the live site, then click the link.
 2. **Then hide the address** (recommended). After activation FormSubmit gives you a random alias. Put it in `hugo.toml` → `formEndpoint` and `formAjaxEndpoint` (`https://formsubmit.co/<alias>` and `https://formsubmit.co/ajax/<alias>`), so bots can’t read the address in the page source.
-3. People who write get an automatic confirmation (`_autoresponse` in `layouts/_partials/form.html`). Edit the wording there.
+3. People who write get an automatic confirmation, in the language they wrote in (`autoresponse` in `i18n/en.toml` and `i18n/fr.toml`). Edit the wording there.
 
 The form asks for a name, an email, which reading, a message, optional birth details (yours, and for synastry the other person’s), and an 18+ confirmation — plus, for synastry, confirmation that the other person is an adult and that their details are shared with care. Spam is filtered with a hidden honeypot field.
 
@@ -78,13 +122,13 @@ The video loop is seamless: the wind and the pollen repeat exactly every 16 seco
 
 ## Before going live
 
-1. **Domain**: `baseURL` in `hugo.toml`. In GitHub: Settings → Pages → Source: **GitHub Actions**, then set the custom domain there. Push to `main` to deploy (`.github/workflows/deploy.yml`).
-2. **FormSubmit**: send one test message and click the activation link (see above).
-3. **Prices and format**: `priceBirthChart`, `priceSynastry`, `format`, `replyTime` in `hugo.toml`. Until they’re filled, the site says “On request” and makes no promise about delays.
-4. **Privacy notice**: your name (and, if you like, an address) in `[params.legal]`. Check the retention periods written in `content/privacy.md` (twelve months for messages, two years for readings) match what you actually do.
-5. **The client’s message** on the home page is shortened and anonymised, with the most personal passages left out. If you haven’t already, ask them whether they’re happy to have it there.
+1. **Hosting**: the three secrets above, then merge into `main`. Attach **astrostudy.co.uk** to the Worker as a custom domain (see Hosting). `baseURL` in `hugo.toml` stays the canonical address.
+2. **FormSubmit**: send one test message from the live site and click the activation link (see above).
+3. **Prices and format**: `priceBirthChart`, `priceSynastry` in `[params]`, and `format`, `replyTime` for each language in `hugo.toml`. Until they’re filled, the site says “On request” / “Sur demande” and makes no promise about delays.
+4. **Privacy notice**: your name (and, if you like, an address) in `[params.legal]`. Check the retention periods written in `content/en/privacy.md` and `content/fr/privacy.md` (twelve months for messages, two years for readings) match what you actually do. The notice is written for a business run from the UK; if The Astro Study is run from France, as Maison Tarot is, the French site also needs a *mentions légales* page and the notice should name the CNIL first.
+5. **The client’s message** on the home page is shortened and anonymised, with the most personal passages left out (the French version says it’s translated). If you haven’t already, ask them whether they’re happy to have it there.
 6. **Instagram**: `instagram` in `hugo.toml`, if you want the link in the footer.
 
 ## Rules of the site
 
-No tracking, no cookies, no third-party fonts or scripts. Nothing invented: no fake reviews, no Review or AggregateRating schema, the tarot reviews are labelled as tarot. 18+ only, and never about children. Help lines (Samaritans, Shout, the National Domestic Abuse Helpline, Acas) appear where they belong.
+No tracking, no cookies, no third-party fonts or scripts. Nothing invented: no fake reviews, no Review or AggregateRating schema, the tarot reviews are labelled as tarot. 18+ only, and never about children. Help lines appear where they belong — the UK’s in English (Samaritans, Shout, the National Domestic Abuse Helpline, Acas), French, Belgian, Swiss and Canadian ones in French. API keys live on the server, never in a page.

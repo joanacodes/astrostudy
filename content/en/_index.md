@@ -1,5 +1,5 @@
 ---
-title: "Astrostudy"
+title: "The Astro Study"
 titleTail: "birth chart and synastry readings, written with care"
 description: "Birth chart readings for adults, and synastry readings for couples, friends, co-workers and family — written in soft, plain language by a reader who tested astrology before trusting it."
 eyebrow: "(Astrology readings — written with care — 18+)"
@@ -10,6 +10,11 @@ actions:
   - { label: "Synastry readings", href: "/synastry/" }
 
 statement: "Nothing in your chart is wrong with you. A hard placement is only where a strength is learned slowly. I’ll tell you what I see — <em>clearly, kindly, and without fear.</em>"
+sky:
+  label: "The sky right now"
+  title: "The sky above all of us, <em>right now.</em>"
+  text: "Your birth chart is this same sky, held still at the minute you were born. Here it is as you read this: each planet in its sign, moved on to the minute."
+  note: "In accent: Saturn, Chiron and Lilith — the three I read slowest."
 services:
   - kicker: "For you · adults, 18+"
     title: "Birth chart <em>reading</em>"

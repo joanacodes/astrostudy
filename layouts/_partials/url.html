@@ -1,7 +1,20 @@
-{{- /* Turns a link written in content or config into one that works under any base path:
-       "#anchor" and external links stay as they are; "/page/" and "page/" go through relURL. */ -}}
+{{- /* Turns a link written in content or config into the right address for the language being built,
+       under any base path. "#anchor", external and mailto links stay as they are. A page path such as
+       "/privacy/" or "contact/?reading=x#form" becomes that page in the current language
+       (/fr/confidentialite/ on a French page), so French content can keep the English paths. */ -}}
 {{- $u := . -}}
 {{- if not (or (hasPrefix $u "#") (hasPrefix $u "http") (hasPrefix $u "mailto:") (hasPrefix $u "tel:")) -}}
-  {{- $u = strings.TrimPrefix "/" $u | relURL -}}
+  {{- $path := $u -}}
+  {{- $tail := "" -}}
+  {{- with findRESubmatch `^([^?#]*)([?#].*)$` $u 1 -}}
+    {{- $path = index (index . 0) 1 -}}
+    {{- $tail = index (index . 0) 2 -}}
+  {{- end -}}
+  {{- $key := strings.TrimSuffix "/" (printf "/%s" (strings.TrimPrefix "/" $path)) | default "/" -}}
+  {{- with site.GetPage $key -}}
+    {{- $u = printf "%s%s" .RelPermalink $tail -}}
+  {{- else -}}
+    {{- $u = strings.TrimPrefix "/" $u | relLangURL -}}
+  {{- end -}}
 {{- end -}}
 {{- return $u -}}

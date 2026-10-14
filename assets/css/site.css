@@ -1,4 +1,4 @@
-/* Astrostudy — one stylesheet.
+/* The Astro Study — one stylesheet.
    The page floats over a live meadow (see assets/js/meadow). Text never sits on the moving image
    without help: either on paper, or inside a soft frosted halo. */
 
@@ -55,11 +55,11 @@
   color-scheme: light;
   --paper: #f3f1ea;
   --paper-2: #ebe8de;
-  --glass: rgba(244, 242, 235, 0.8);
-  --glass-strong: rgba(246, 245, 239, 0.94);
+  --glass: rgba(246, 245, 240, 0.68);
+  --glass-strong: rgba(247, 246, 241, 0.84);
   --ink: #1c211b;
   --ink-2: #474e44;
-  --ink-3: #5c6359;
+  --ink-3: #4b5249;
   --line: rgba(28, 33, 27, 0.14);
   --line-2: rgba(28, 33, 27, 0.3);
   --field-line: rgba(28, 33, 27, 0.55); /* 3:1 against the paper, as WCAG asks of input edges */
@@ -67,6 +67,14 @@
   --accent-ink: #8f3d1f;
   --leaf: #50683c;
   --halo: 246, 245, 239;
+  /* over the meadow: white type on a soft, feathered shade of the sky behind it */
+  --sky-ink: #fff;
+  --sky-ink-2: rgba(255, 255, 255, 0.9);
+  --sky-shade: 12, 22, 32;
+  --sky-shadow: 0 1px 2px rgba(6, 16, 26, 0.28), 0 0 24px rgba(6, 16, 26, 0.32);
+  /* glass panels: the meadow shows through, blurred, behind the reading */
+  --pane: rgba(247, 246, 241, 0.6);
+  --pane-2: rgba(244, 243, 237, 0.7);
   --serif: "Fraunces", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
   --sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
@@ -367,6 +375,9 @@ p {
   font-style: italic;
   font-weight: 300;
 }
+.brand__name {
+  white-space: nowrap;
+}
 .brand__mark {
   width: 0.5em;
   height: 0.5em;
@@ -415,6 +426,43 @@ p {
 }
 .menu-toggle {
   display: none;
+}
+.nav .nav__lang {
+  margin-left: 4px;
+  padding-left: 13px;
+  padding-right: 13px;
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  box-shadow: inset 1px 0 0 var(--line);
+  border-radius: 0 999px 999px 0;
+}
+.brand,
+.nav,
+.nav a,
+.menu-toggle {
+  transition: color 0.6s var(--ease), background-color 0.6s var(--ease), border-color 0.6s var(--ease);
+}
+.js .header.on-sky .brand,
+.js .header.on-sky .nav,
+.js .header.on-sky .menu-toggle {
+  color: var(--sky-ink);
+  background: rgba(var(--sky-shade), 0.26);
+  border-color: rgba(255, 255, 255, 0.3);
+  text-shadow: 0 1px 2px rgba(6, 16, 26, 0.25);
+}
+.js .header.on-sky .nav a {
+  color: var(--sky-ink);
+}
+.js .header.on-sky .nav a:hover {
+  background: rgba(255, 255, 255, 0.14);
+}
+.js .header.on-sky .nav a[aria-current] {
+  background: #fff;
+  color: var(--ink);
+  text-shadow: none;
+}
+.js .header.on-sky .nav .nav__lang {
+  box-shadow: inset 1px 0 0 rgba(255, 255, 255, 0.3);
 }
 
 @media (max-width: 860px) {
@@ -495,9 +543,10 @@ p {
   overflow-y: auto;
   overscroll-behavior: contain;
   padding: 96px var(--gutter) calc(110px + env(safe-area-inset-bottom));
-  background: rgba(243, 241, 234, 0.9);
-  -webkit-backdrop-filter: blur(26px) saturate(1.2);
-  backdrop-filter: blur(26px) saturate(1.2);
+  text-align: right;
+  background: rgba(244, 243, 237, 0.74);
+  -webkit-backdrop-filter: blur(34px) saturate(1.4);
+  backdrop-filter: blur(34px) saturate(1.4);
   opacity: 0;
   visibility: hidden;
   transition: opacity 0.6s var(--ease), visibility 0s linear 0.6s;
@@ -542,6 +591,16 @@ p {
   font-style: italic;
   font-weight: 300;
 }
+.drawer .drawer__lang {
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  border-bottom: 0;
+  padding-top: 22px;
+  color: var(--ink-2);
+}
 
 /* ------------------------------------------------------------------------------------------------
    Layout */
@@ -567,11 +626,11 @@ main:focus {
 .halo::before {
   content: "";
   position: absolute;
-  inset: -18% -14%;
+  inset: -26% -14%;
   z-index: -1;
-  background: radial-gradient(closest-side, rgba(var(--halo), 0.78), rgba(var(--halo), 0.5) 55%, rgba(var(--halo), 0));
-  -webkit-backdrop-filter: blur(10px);
-  backdrop-filter: blur(10px);
+  background: radial-gradient(closest-side, rgba(var(--sky-shade), 0.5), rgba(var(--sky-shade), 0.34) 55%, rgba(var(--sky-shade), 0));
+  -webkit-backdrop-filter: blur(14px) brightness(0.8);
+  backdrop-filter: blur(14px) brightness(0.8);
   -webkit-mask-image: radial-gradient(closest-side, #000 45%, transparent);
   mask-image: radial-gradient(closest-side, #000 45%, transparent);
   pointer-events: none;
@@ -593,9 +652,64 @@ main:focus {
   justify-items: center;
   gap: 26px;
 }
-.hero .lede {
-  margin: 0 auto;
+.hero,
+.window {
+  color: var(--sky-ink);
+  text-shadow: var(--sky-shadow);
+}
+.hero .lede,
+.window .lede {
+  margin-left: auto;
+  margin-right: auto;
+  color: var(--sky-ink-2);
+}
+.hero .eyebrow,
+.window .label {
+  color: var(--sky-ink-2);
+}
+/* small type on a bright sky needs more than a shadow: it gets its own pane of dark glass */
+.hero .eyebrow {
+  justify-self: center;
+  padding: 7px 15px 6px;
+  border-radius: 999px;
+  color: var(--sky-ink);
+  background: rgba(var(--sky-shade), 0.34);
+  -webkit-backdrop-filter: blur(12px) brightness(0.85);
+  backdrop-filter: blur(12px) brightness(0.85);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  text-shadow: none;
+}
+.hero .btn,
+.window .btn {
+  text-shadow: none;
+  color: var(--sky-ink);
+  border-color: rgba(255, 255, 255, 0.85);
+  background: rgba(255, 255, 255, 0.1);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+}
+.hero .btn::before,
+.window .btn::before {
+  background: #fff;
+}
+.hero .btn:hover,
+.window .btn:hover {
   color: var(--ink);
+}
+.hero .btn--solid,
+.window .btn--solid {
+  background: #fff;
+  border-color: #fff;
+  color: var(--ink);
+}
+.hero .btn--solid::before,
+.window .btn--solid::before {
+  background: var(--accent-ink);
+}
+.hero .btn--solid:hover,
+.window .btn--solid:hover {
+  color: #fff;
+  border-color: var(--accent-ink);
 }
 .hero__actions {
   display: flex;
@@ -611,6 +725,8 @@ main:focus {
   max-width: 900px;
 }
 .facts {
+  text-shadow: none;
+  color: var(--ink);
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -618,10 +734,11 @@ main:focus {
   margin: 18px 0 0;
   padding: 0;
   list-style: none;
-  background: var(--glass);
-  -webkit-backdrop-filter: blur(18px) saturate(1.2);
-  backdrop-filter: blur(18px) saturate(1.2);
-  border: 1px solid rgba(255, 255, 255, 0.5);
+  background: rgba(248, 247, 242, 0.62);
+  -webkit-backdrop-filter: blur(26px) saturate(1.4) brightness(1.04);
+  backdrop-filter: blur(26px) saturate(1.4) brightness(1.04);
+  border: 1px solid rgba(255, 255, 255, 0.55);
+  border-radius: 14px;
 }
 .facts li {
   padding: 14px 22px;
@@ -668,7 +785,7 @@ main:focus {
   bottom: 28px;
   width: 1px;
   height: 84px;
-  background: linear-gradient(rgba(28, 33, 27, 0), rgba(28, 33, 27, 0.55));
+  background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.8));
   transform-origin: top;
   animation: stem 3.2s var(--ease-out) infinite;
 }
@@ -680,7 +797,7 @@ main:focus {
   width: 6px;
   height: 6px;
   border-radius: 50%;
-  background: rgba(28, 33, 27, 0.6);
+  background: rgba(255, 255, 255, 0.85);
 }
 @keyframes stem {
   0% { transform: scaleY(0); opacity: 0; }
@@ -692,10 +809,11 @@ main:focus {
 /* paper: where the reading happens */
 .paper {
   position: relative;
-  background: rgba(243, 241, 234, 0.93);
-  -webkit-backdrop-filter: blur(22px) saturate(1.15);
-  backdrop-filter: blur(22px) saturate(1.15);
+  background: linear-gradient(180deg, var(--pane), var(--pane-2));
+  -webkit-backdrop-filter: blur(36px) saturate(1.45) brightness(1.06);
+  backdrop-filter: blur(36px) saturate(1.45) brightness(1.06);
   border-top: 1px solid rgba(255, 255, 255, 0.6);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.45);
 }
 .paper + .paper {
   border-top: 1px solid var(--line);
@@ -1385,6 +1503,97 @@ main:focus {
   font-weight: 340;
 }
 
+/* the sky right now: the wheel on one side, where each planet stands on the other */
+.sky {
+  display: grid;
+  grid-template-columns: minmax(0, 0.95fr) minmax(0, 1.05fr);
+  gap: clamp(32px, 6vw, 96px);
+  align-items: center;
+  margin-top: clamp(56px, 7vw, 110px);
+}
+.sky__figure .wheel {
+  display: block;
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+  color: var(--ink);
+}
+.sky__text h2 {
+  margin: 14px 0 18px;
+}
+.sky__text .lede {
+  margin-bottom: 0;
+}
+.sky__list {
+  list-style: none;
+  margin: 28px 0 18px;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: clamp(20px, 3vw, 40px);
+}
+.sky__row {
+  display: grid;
+  grid-template-columns: 6.4em minmax(0, 1fr);
+  column-gap: 10px;
+  padding: 9px 0 8px;
+  border-top: 1px solid var(--line);
+  font-size: 0.92rem;
+  line-height: 1.4;
+}
+.sky__name {
+  font-weight: 500;
+}
+.sky__where {
+  font-variant-numeric: tabular-nums;
+}
+.sky__note {
+  grid-column: 2;
+  font-size: 0.78rem;
+  color: var(--ink-2);
+}
+.sky__note:empty {
+  display: none;
+}
+/* the positions arrive from /api/sky a moment after the page; without JavaScript they never do */
+.no-js .sky {
+  display: none;
+}
+.sky__where:empty::before {
+  content: "·";
+  color: var(--ink-3);
+}
+.sky__row.is-tender .sky__name {
+  color: var(--accent-ink);
+}
+.sky .fine {
+  font-size: 0.8rem;
+  color: var(--ink-2);
+  margin: 0;
+  max-width: 40em;
+}
+.wheel .w-sign {
+  font-size: 7.2px;
+  letter-spacing: 0.18em;
+  fill: var(--ink-2);
+}
+.wheel .w-accent-text {
+  fill: var(--accent-ink);
+}
+@media (max-width: 860px) {
+  .sky {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .sky__figure .wheel {
+    max-width: 380px;
+  }
+}
+@media (max-width: 460px) {
+  .sky__list {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
 /* ------------------------------------------------------------------------------------------------
    Closing call and footer */
 
@@ -1393,7 +1602,7 @@ main:focus {
   min-height: clamp(520px, 88vh, 900px);
 }
 .closing .label {
-  color: var(--ink);
+  color: var(--sky-ink);
 }
 .closing .display {
   font-size: clamp(2.3rem, 1.3rem + 4vw, 4.6rem);
@@ -1406,10 +1615,10 @@ main:focus {
 
 .footer {
   position: relative;
-  background: rgba(28, 33, 27, 0.92);
-  -webkit-backdrop-filter: blur(20px);
-  backdrop-filter: blur(20px);
-  color: rgba(243, 241, 234, 0.82);
+  background: rgba(24, 31, 25, 0.8);
+  -webkit-backdrop-filter: blur(30px) saturate(1.3);
+  backdrop-filter: blur(30px) saturate(1.3);
+  color: rgba(243, 241, 234, 0.84);
   padding: clamp(56px, 7vw, 96px) 0 110px;
   font-size: 0.92rem;
 }
@@ -1526,48 +1735,65 @@ main:focus {
   pointer-events: none;
 }
 
+/* The sheet opens in the middle of the screen (a sheet from the bottom on phones), whatever the
+   corner of the button that opened it. */
 .sheet {
   position: fixed;
-  inset: auto auto max(16px, env(safe-area-inset-bottom)) max(16px, env(safe-area-inset-left));
-  margin: 0;
+  inset: 0;
+  margin: auto;
   padding: 0;
-  width: min(460px, calc(100vw - 32px));
+  width: min(580px, calc(100vw - 32px));
   max-width: none;
-  max-height: min(88vh, 860px);
-  max-height: min(88dvh, 860px);
-  border: 1px solid rgba(255, 255, 255, 0.6);
-  background: rgba(245, 244, 238, 0.97);
-  -webkit-backdrop-filter: blur(24px);
-  backdrop-filter: blur(24px);
+  height: fit-content;
+  max-height: min(90vh, 880px);
+  max-height: min(90dvh, 880px);
+  border: 1px solid rgba(255, 255, 255, 0.65);
+  border-radius: 22px;
+  background: rgba(248, 247, 242, 0.76);
+  -webkit-backdrop-filter: blur(32px) saturate(1.45);
+  backdrop-filter: blur(32px) saturate(1.45);
   color: var(--ink);
-  box-shadow: 0 50px 140px -40px rgba(10, 30, 10, 0.55);
+  box-shadow: 0 60px 160px -40px rgba(10, 30, 10, 0.55), inset 0 1px 0 rgba(255, 255, 255, 0.6);
   overflow: hidden auto;
   overscroll-behavior: contain;
+  --sheet-from: translateY(26px) scale(0.975);
 }
 .sheet::backdrop {
-  background: rgba(24, 34, 24, 0.22);
+  background: rgba(20, 30, 24, 0.3);
+  -webkit-backdrop-filter: blur(3px);
+  backdrop-filter: blur(3px);
 }
 .sheet[open] {
-  animation: sheet-in 0.9s var(--ease-out);
+  animation: sheet-in 0.75s var(--ease-out);
+}
+.sheet[open]::backdrop {
+  animation: sheet-veil 0.75s var(--ease) both;
 }
 .sheet.is-closing {
-  animation: sheet-out 0.45s var(--ease) forwards;
+  animation: sheet-out 0.4s var(--ease) forwards;
 }
 @keyframes sheet-in {
-  from { clip-path: circle(28px at 36px calc(100% - 26px)); }
-  to { clip-path: circle(150% at 36px calc(100% - 26px)); }
+  from { opacity: 0; transform: var(--sheet-from); }
+  to { opacity: 1; transform: none; }
 }
 @keyframes sheet-out {
-  from { clip-path: circle(150% at 36px calc(100% - 26px)); opacity: 1; }
-  to { clip-path: circle(28px at 36px calc(100% - 26px)); opacity: 0; }
+  from { opacity: 1; transform: none; }
+  to { opacity: 0; transform: var(--sheet-from); }
+}
+@keyframes sheet-veil {
+  from { opacity: 0; }
+  to { opacity: 1; }
 }
 @media (max-width: 560px) {
   .sheet {
     inset: auto 0 0 0;
+    margin: 0;
     width: 100%;
     max-width: 100vw;
     max-height: 92dvh;
-    border-radius: 18px 18px 0 0;
+    border-radius: 22px 22px 0 0;
+    border-bottom: 0;
+    --sheet-from: translateY(60px);
   }
   .sheet__body {
     padding: 20px 18px calc(28px + env(safe-area-inset-bottom));
@@ -1581,7 +1807,9 @@ main:focus {
   justify-content: space-between;
   align-items: center;
   padding: 18px 22px 14px;
-  background: #f5f4ee;
+  background: rgba(248, 247, 242, 0.72);
+  -webkit-backdrop-filter: blur(18px);
+  backdrop-filter: blur(18px);
   border-bottom: 1px solid var(--line);
 }
 .sheet__close {
