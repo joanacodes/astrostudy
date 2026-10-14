@@ -1,4 +1,4 @@
-# Les mots des gabarits, en français. Le jumeau anglais est en.toml ; garder les clés en phase.
+# Les mots des gabarits, en français. Le jumeau anglais est en.toml ; garder les clés en phase.
 
 skip = "Aller au contenu"
 brandHome = "The Astro Study — accueil"
@@ -29,16 +29,16 @@ fineprintLink = "Tout ce que j’en dis"
 
 # fenêtre de contact et formulaire
 contact = "Contact"
-sheetTitle = "Écrivez-moi. <em>Tout doucement.</em>"
-sheetLede = "Une question, une lecture, ou simplement un bonjour. Je lis chaque message moi-même{{ .reply }}. Pas besoin de vos données de naissance pour l’instant."
+sheetTitle = "Demandez-moi ce que vous voulez. <em>Tout doucement, ça me va.</em>"
+sheetLede = "Une question, une lecture, ou juste un bonjour. Je lis chaque message moi-même{{ .reply }}. Pas besoin de vos données de naissance pour l’instant."
 replyClause = " et je réponds {{ .time }}"
 replySentence = " Je réponds {{ .time }}."
 subjectPrefix = "Nouveau message — "
-autoresponse = "Merci d’avoir écrit à The Astro Study. Votre message est bien arrivé — je les lis tous moi-même, et je vous répondrai personnellement. Si vous n’aviez pas l’intention d’écrire, vous pouvez ignorer cet e-mail."
+autoresponse = "Merci d’avoir écrit à The Astro Study. Votre message est bien arrivé — je les lis tous moi-même, et je vous répondrai personnellement. Si vous n’aviez pas l’intention d’écrire, vous pouvez ignorer cet email."
 honey = "Laissez ce champ vide"
 yourName = "Votre nom"
-email = "E-mail"
-whatWouldYouLike = "Que souhaitez-vous ?"
+email = "Email"
+whatWouldYouLike = "Que souhaitez-vous ?"
 yourMessage = "Votre message"
 messagePlaceholder = "Autant ou aussi peu que vous voulez."
 birthDetails = "Données de naissance"
@@ -54,15 +54,15 @@ theirName = "Son prénom"
 adultValue = "Oui, 18 ans ou plus"
 adult = "J’ai 18 ans ou plus."
 otherAdult = "L’autre personne a aussi 18 ans ou plus, et je partage ses données avec soin."
-formFine = "Votre message arrive dans ma boîte mail par FormSubmit, un service qui transforme les formulaires en e-mails. La suite est expliquée dans la <a href=\"{{ .privacy }}\">note de confidentialité</a>."
+formFine = "Votre message arrive dans ma boîte mail par FormSubmit, un service qui transforme les formulaires en emails. La suite est expliquée dans la <a href=\"{{ .privacy }}\">note de confidentialité</a>."
 send = "Envoyer mon message"
 sentLabel = "Envoyé"
-sentTitle = "Merci. <em>Votre message est bien arrivé.</em>"
-sentText = "Je lis chaque message moi-même{{ .reply }}. Une courte confirmation est en route vers votre boîte mail — si elle n’y est pas d’ici quelques minutes, jetez un œil dans les indésirables."
+sentTitle = "Merci. <em>Il est bien arrivé jusqu’à moi.</em>"
+sentText = "Je lis chaque message moi-même{{ .reply }}. Une courte confirmation est en route vers votre boîte mail — si elle n’y est pas d’ici quelques minutes, jetez un œil dans vos spams."
 again = "Écrire un autre message"
 sending = "Envoi…"
 sentInline = "Merci — votre message est bien arrivé."
-activate = "Presque : ce formulaire doit encore être activé. FormSubmit a envoyé le lien d’activation à {email}."
+activate = "Presque : ce formulaire doit encore être activé. FormSubmit a envoyé le lien d’activation à {email}."
 sendError = "Pardon — l’envoi n’a pas abouti. Réessayez, ou écrivez à {email}."
 
 # sections
@@ -76,7 +76,7 @@ howItGoes = "Comment ça se passe"
 whatItIsnt = "Ce que ce n’est pas"
 questions = "Questions"
 questionsTitle = "Les questions <em>qu’on me pose</em>"
-anythingElse = "Autre chose ? <a class=\"link\" href=\"{{ .href }}\" data-contact>Demandez-moi</a> — ici, il n’y a pas de question bête."
+anythingElse = "Autre chose ? <a class=\"link\" href=\"{{ .href }}\" data-contact>Demandez-moi</a> — ici, il n’y a pas de question bête."
 otherSynastry = "Les autres synastries"
 chooseReading = "Choisir une lecture"
 askFirst = "Me demander d’abord"
@@ -91,17 +91,17 @@ notFoundLede = "La page que vous cherchiez n’est pas ici — elle a peut-être
 backToMeadow = "Retour à la prairie"
 
 # confidentialité
-controllerNamed = "The Astro Study est tenu par {{ .name }}, responsable de vos données (le « responsable du traitement », au sens du RGPD britannique)."
-controllerAnon = "La personne qui tient The Astro Study est responsable de vos données (le « responsable du traitement », au sens du RGPD britannique)."
+controllerNamed = "The Astro Study est tenu par {{ .name }}, responsable de vos données (le « responsable du traitement », au sens du RGPD britannique)."
+controllerAnon = "La personne qui tient The Astro Study est responsable de vos données (le « responsable du traitement », au sens du RGPD britannique)."
 
 # les dessins de thème
-wheelNatal = "Un thème natal qui se dessine : le zodiaque, les douze maisons, les planètes et les lignes qui les relient"
+wheelNatal = "Un thème natal qui se dessine : le zodiaque, les douze maisons, les planètes et les lignes qui les relient"
 wheelSynastry = "Deux thèmes natals, l’un dans l’autre, avec des lignes qui se tracent entre leurs planètes"
 wheelYou = "Vous"
 wheelThem = "L’autre"
 
 # le ciel en ce moment
-skyWheel = "Le ciel en ce moment : le zodiaque, et chaque planète à sa place"
+skyWheel = "Le ciel en ce moment : le zodiaque, et chaque planète à sa place"
 skyNow = "En ce moment"
 skySource = "Positions calculées par FreeAstroAPI, actualisées plusieurs fois par jour et avancées à la minute par votre navigateur. Zodiaque tropical."
 skyRetro = "rétrograde"
