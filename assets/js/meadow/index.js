@@ -658,6 +658,7 @@ export function createMeadow(canvas, opts = {}) {
     },
     destroy() {
       api.stop();
+      ready = false; // for good: start() is a no-op from here on
       const lose = gl.getExtension('WEBGL_lose_context');
       if (lose) lose.loseContext();
     },

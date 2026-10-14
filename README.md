@@ -51,7 +51,7 @@ The background is rendered live in the visitor’s browser with WebGL2 — no vi
 
 It adapts itself: three quality levels, chosen from the device and lowered automatically if frames run slow. It pauses when the tab is hidden. The page changes without reloading, so the sky keeps drifting from page to page.
 
-**Fallbacks**, in order: live scene → pre-rendered video loop (`static/media/meadow-loop-wide.mp4` / `-tall.mp4`) if WebGL2 is missing or the device can’t keep up → the still poster. Visitors who ask their device for reduced motion get the still poster on purpose, and all text appears without animation.
+**Fallbacks**, in order: live scene → pre-rendered 16-second video loop (`static/media/meadow-loop-wide` and `-tall`, VP9 `.webm` first, H.264 `.mp4` for browsers that can’t play it) if WebGL2 is missing or the device can’t keep up → the still poster. Visitors who ask their device for reduced motion get the still poster on purpose, and all text appears without animation.
 
 Every visit opens on the same moment of sky as the poster (`OPENING_MOMENT` in `assets/js/meadow/index.js`), so the still dissolves into the live scene without a jump.
 
@@ -65,7 +65,10 @@ node tools/render-media/capture.mjs still 1920 1080 /tmp/wide   # → /tmp/wide/
 node tools/render-media/capture.mjs still 1080 1920 /tmp/tall
 node tools/render-media/capture.mjs video 1280 720 /tmp/vwide 16 2.5
 python3 tools/render-media/compose.py /tmp/vwide static/media/meadow-loop-wide.mp4 16 2.5 30 1280 720
+python3 tools/render-media/compose.py /tmp/vwide static/media/meadow-loop-wide.webm 16 2.5 30 1280 720
 ```
+
+(Same for the tall version at 720×1280. Convert the stills to `meadow-poster-*.webp` and `.jpg`.)
 
 The video loop is seamless: the wind and the pollen repeat exactly every 16 seconds, and the clouds cross-fade over the last 2.5 seconds into the first.
 

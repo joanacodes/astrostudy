@@ -6,8 +6,12 @@ import numpy as np
 from PIL import Image
 src, out, T, F, fps, w, h = sys.argv[1], sys.argv[2], float(sys.argv[3]), float(sys.argv[4]), int(sys.argv[5]), int(sys.argv[6]), int(sys.argv[7])
 N, NF = int(round(T * fps)), int(round(F * fps))
+# A keyframe exactly every 96 frames (five per 16 s loop), so the loop point looks like any other frame.
+codec = (['-c:v', 'libvpx-vp9', '-crf', '36', '-b:v', '0', '-row-mt', '1', '-deadline', 'good', '-cpu-used', '2', '-g', '96']
+         if out.endswith('.webm') else
+         ['-c:v', 'libx264', '-preset', 'slow', '-crf', '23', '-g', '96', '-keyint_min', '96', '-sc_threshold', '0', '-movflags', '+faststart'])
 ff = subprocess.Popen(['ffmpeg', '-loglevel', 'error', '-y', '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-s', f'{w}x{h}', '-r', str(fps), '-i', '-',
-                       '-c:v', 'libx264', '-preset', 'slow', '-crf', '23', '-pix_fmt', 'yuv420p', '-movflags', '+faststart', '-an', out], stdin=subprocess.PIPE)
+                       *codec, '-pix_fmt', 'yuv420p', '-an', out], stdin=subprocess.PIPE)
 def load(i):
     return np.asarray(Image.open(os.path.join(src, f'f{i:05d}.png')).convert('RGB'), dtype=np.float32)
 for i in range(N):

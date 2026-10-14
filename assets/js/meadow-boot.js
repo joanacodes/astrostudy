@@ -38,7 +38,14 @@ function useVideo() {
   v.setAttribute('muted', '');
   v.setAttribute('playsinline', '');
   v.setAttribute('aria-hidden', 'true');
-  v.src = innerHeight > innerWidth ? host.dataset.loopTall : host.dataset.loopWide;
+  // VP9 first (smaller); browsers that can't play it take the H.264 file
+  const base = host.dataset.loop + (innerHeight > innerWidth ? 'tall' : 'wide');
+  for (const [ext, type] of [['webm', 'video/webm; codecs="vp9"'], ['mp4', 'video/mp4']]) {
+    const src = document.createElement('source');
+    src.src = `${base}.${ext}`;
+    src.type = type;
+    v.appendChild(src);
+  }
   v.addEventListener('playing', () => host.classList.add('is-video'), { once: true });
   host.appendChild(v);
   v.play().catch(() => {});
@@ -75,6 +82,26 @@ async function boot() {
   addEventListener('scroll', sync, { passive: true });
   addEventListener('astro:page', sync);
   sync();
+
+  // The paper sheets hide almost all of the meadow. Only draw while one of its openings (the hero,
+  // a window between sheets, the closing sky) is on screen: it saves battery, and the browser no
+  // longer has to re-blur the backdrop behind every sheet thirty times a second.
+  const open = new Set();
+  const update = () => (!document.hidden && !reduce.matches && open.size > 0 ? meadow.start() : meadow.stop());
+  const io = new IntersectionObserver(
+    (entries) => {
+      for (const e of entries) e.isIntersecting ? open.add(e.target) : open.delete(e.target);
+      update();
+    },
+    { rootMargin: '15% 0px' }
+  );
+  const watch = () => {
+    io.disconnect();
+    open.clear();
+    document.querySelectorAll('.hero, .window').forEach((el) => io.observe(el));
+  };
+  addEventListener('astro:page', watch);
+  watch();
   meadow.start();
 
   // fade the live scene in over the poster once a few frames have landed
@@ -82,7 +109,7 @@ async function boot() {
   const reveal = () => (++frames < 4 ? requestAnimationFrame(reveal) : host.classList.add('is-live'));
   requestAnimationFrame(reveal);
 
-  document.addEventListener('visibilitychange', () => (document.hidden ? meadow.stop() : meadow.start()));
+  document.addEventListener('visibilitychange', update);
   canvas.addEventListener('webglcontextlost', (e) => {
     e.preventDefault();
     giveUp();
@@ -92,7 +119,7 @@ async function boot() {
     clearTimeout(t);
     t = setTimeout(() => meadow.resize(), 180);
   });
-  reduce.addEventListener?.('change', (e) => (e.matches ? meadow.stop() : meadow.start()));
+  reduce.addEventListener?.('change', update);
 }
 
 // Let the page itself paint first; the meadow is the backdrop, not the headline.

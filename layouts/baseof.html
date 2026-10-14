@@ -5,7 +5,7 @@
 </head>
 <body data-page="{{ with .Params.type }}{{ . }}{{ else }}{{ if .IsHome }}home{{ else }}{{ .Section | default "page" }}{{ end }}{{ end }}">
   <a class="skip" href="#main">Skip to content</a>
-  <div class="meadow" aria-hidden="true" data-loop-wide="{{ "media/meadow-loop-wide.mp4" | relURL }}" data-loop-tall="{{ "media/meadow-loop-tall.mp4" | relURL }}">
+  <div class="meadow" aria-hidden="true" data-loop="{{ "media/meadow-loop-" | relURL }}">
     <div class="meadow__poster"></div>
     <canvas></canvas>
   </div>
