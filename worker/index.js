@@ -105,14 +105,19 @@ export async function ask(endpoint, apiKey, now) {
   try {
     res = await fetch(endpoint, {
       method: 'POST',
-      headers: { 'content-type': 'application/json', accept: 'application/json', 'x-api-key': apiKey },
+      // a named client: bot filters in front of APIs turn away anonymous ones (a 403 from a build runner)
+      headers: { 'content-type': 'application/json', accept: 'application/json', 'user-agent': 'The Astro Study (astrostudy.co.uk) - sky of the day', 'x-api-key': apiKey },
       body: JSON.stringify(body),
       signal: controller.signal,
     });
   } finally {
     clearTimeout(timer);
   }
-  if (!res.ok) throw new Error(`FreeAstroAPI answered ${res.status}`);
+  if (!res.ok) {
+    // the start of the answer says why (bad key, plan, blocked client); it never holds the key
+    const why = (await res.text().catch(() => '')).replace(/\s+/g, ' ').slice(0, 160);
+    throw new Error(`FreeAstroAPI answered ${res.status}${why ? `: ${why}` : ''}`);
+  }
   const data = await res.json().catch(() => null);
   const bodies = readPlanets(data);
   if (!bodies.some((b) => b.key === 'sun') || !bodies.some((b) => b.key === 'moon') || bodies.length < 7) {
