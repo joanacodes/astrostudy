@@ -2,8 +2,9 @@
 #   - Cloudflare Workers, as AGS is deployed, once the CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID
 #     secrets exist: the Hugo site as static files, plus worker/index.js for /api/sky (the sky of the
 #     day, read from FreeAstroAPI with the key kept on the Worker, never in a page);
-#   - until then, GitHub Pages, as a preview: the whole site, without the live sky (Pages has no
-#     server to keep the key). One-time setting: Settings → Pages → Source: "GitHub Actions".
+#   - until then, GitHub Pages, as a preview: the whole site, with the sky captured at build time
+#     (Pages has no server to keep the key; a daily run keeps it fresh). One-time setting:
+#     Settings → Pages → Source: "GitHub Actions".
 # Pushes to other branches build the site and check the Worker, without publishing anything.
 #
 # Repository secrets (Settings → Secrets and variables → Actions), see README → "Hosting":
@@ -14,6 +15,10 @@ on:
   push:
   # the moment the repository is made public, the preview publishes itself (see the wait below)
   public:
+  # once a day, so the sky carried in the pages stays fresh where no Worker serves it (the preview);
+  # each browser moves it on to the minute, which holds for about three days
+  schedule:
+    - cron: "17 4 * * *"
   workflow_dispatch: {}
 permissions:
   contents: read
@@ -45,13 +50,12 @@ jobs:
             target=cloudflare
           else
             target=pages
-            echo "::notice::No Cloudflare secrets yet: publishing a preview on GitHub Pages, without the live sky."
+            echo "::notice::No Cloudflare secrets yet: publishing a preview on GitHub Pages, with the sky captured at build time."
           fi
           echo "target=$target" >> "$GITHUB_OUTPUT"
           echo "This build goes to: $target"
 
       - uses: actions/setup-node@v4
-        if: steps.target.outputs.target != 'pages'
         with:
           node-version: 22
 
@@ -81,6 +85,13 @@ jobs:
       - uses: actions/configure-pages@v5
         id: pages
         if: steps.target.outputs.target == 'pages'
+
+      # The sky of the day, written into data/sky.json and carried inline by every page (first paint,
+      # the preloader, the preview). Only positions and speeds: the key stays in this step.
+      - name: Capture the sky of the day
+        env:
+          FREE_ASTRO_API: ${{ secrets.FREE_ASTRO_API }}
+        run: node tools/sky-snapshot.mjs
 
       - name: Build the site
         env:

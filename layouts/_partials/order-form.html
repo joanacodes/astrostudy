@@ -1,25 +1,30 @@
 {{- /* The order: which reading and which option, who it's for, the birth details, then payment.
-       Birth details are asked for here and nowhere else, and they only ever leave the browser towards
-       payment (params.checkout, the endpoint that will open Stripe). Until that is set, the form checks
-       everything, says payment isn't open yet, and sends nothing: no birth details without a payment.
-       Prices are read from hugo.toml by kind of reading; an empty one simply isn't shown. */ -}}
+       Birth details are asked for here and nowhere else. On "Continue to payment" they stay in this
+       browser tab while the visitor pays on Stripe (the Payment Link for that reading and option,
+       params.stripe); Stripe sends them back to /order-received/, which is where the details leave,
+       with the payment's reference. No payment, nothing sent. Until a link is set, the form checks
+       everything and says payment isn't open yet. Prices are read from hugo.toml by kind of reading;
+       an empty one simply isn't shown. */ -}}
 {{- $id := .id }}
 {{- /* Birthplace suggestions come from Photon (OpenStreetMap): through the Worker where it runs, so
        visitors never talk to a third party; straight from the browser on the GitHub Pages preview,
        which has no server (the privacy note says which). */}}
 {{- $places := "https://photon.komoot.io/api/" }}
 {{- if eq (string (site.Params.legal.host | default "cloudflare")) "cloudflare" }}{{ $places = "api/places" | relURL }}{{ end }}
+{{- $pay := dict
+      "single" (dict "full" site.Params.stripe.birthChart "consulting" site.Params.stripe.birthChartConsulting)
+      "pair" (dict "full" site.Params.stripe.synastry "consulting" site.Params.stripe.synastryConsulting) }}
 {{- $prices := dict
       "single" (dict "full" site.Params.priceBirthChart "consulting" site.Params.priceBirthChartConsulting)
       "pair" (dict "full" site.Params.priceSynastry "consulting" site.Params.priceSynastryConsulting) }}
-<form class="form order-form" data-order-form data-places="{{ $places }}" data-places-credit="{{ i18n "placesCredit" }}" data-checkout="{{ site.Params.checkout }}" data-msg-closed="{{ i18n "orderClosed" }}" data-msg-opening="{{ i18n "orderOpening" }}" data-msg-error="{{ i18n "orderError" }}">
+<form class="form order-form" data-order-form data-places="{{ $places }}" data-places-credit="{{ i18n "placesCredit" }}" data-msg-closed="{{ i18n "orderClosed" }}" data-msg-opening="{{ i18n "orderOpening" }}" data-msg-error="{{ i18n "orderError" }}">
   <div class="field">
     <label for="{{ $id }}-reading">{{ i18n "orderReading" }}</label>
     <select id="{{ $id }}-reading" name="reading" data-order-reading>
       {{- range index hugo.Data.readings site.Language.Lang }}
       {{- if .kind }}
-      {{- $p := index $prices .kind }}
-      <option value="{{ .id }}" data-kind="{{ .kind }}"{{ with .consent }} data-consent="{{ . }}"{{ end }}{{ with $p.full }} data-price-full="{{ . }}"{{ end }}{{ with $p.consulting }} data-price-consulting="{{ . }}"{{ end }}>{{ .label }}</option>
+      {{- $p := index $prices .kind }}{{ $l := index $pay .kind }}
+      <option value="{{ .id }}" data-kind="{{ .kind }}"{{ with .consent }} data-consent="{{ . }}"{{ end }}{{ with $l.full }} data-pay-full="{{ . }}"{{ end }}{{ with $l.consulting }} data-pay-consulting="{{ . }}"{{ end }}{{ with $p.full }} data-price-full="{{ . }}"{{ end }}{{ with $p.consulting }} data-price-consulting="{{ . }}"{{ end }}>{{ .label }}</option>
       {{- end }}
       {{- end }}
     </select>

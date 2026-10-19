@@ -159,3 +159,19 @@ lblEmail = "Email :"
 lblSiren = "SIREN :"
 lblVat = "TVA :"
 countryUS = "États-Unis"
+
+# préchargement, menu, étoiles
+preloaderLine = "Thème natal & synastrie"
+menuOrder = "Commander une lecture"
+starsLabel = "{{ .n }} étoiles sur 5"
+
+# retour de Stripe (/fr/commande-recue/)
+orderSubject = "Nouvelle commande"
+receivedSending = "Envoi de vos données de naissance…"
+receivedSent = "Vos données de naissance me sont bien parvenues. Votre référence :"
+receivedSentNext = "Gardez-la sous la main si vous m’écrivez. Stripe vous a envoyé un reçu par e-mail."
+receivedFailed = "Votre paiement est passé, mais vos données de naissance ne me sont pas encore parvenues. Réessayez — ou <a href=\"{{ .href }}\">écrivez-moi</a> avec votre référence :"
+receivedRetry = "Réessayer"
+receivedMissing = "Si vous venez de payer : ce navigateur n’a plus vos données de naissance (elles n’attendent que dans l’onglet où vous avez commandé). <a href=\"{{ .href }}\">Écrivez-moi</a> avec l’adresse e-mail utilisée pour payer, et je vous les redemanderai."
+receivedUnpaid = "Aucun paiement n’est arrivé pour cette commande. Si vous avez bien payé, <a href=\"{{ .href }}\">écrivez-moi</a> avec votre référence :"
+receivedNoJs = "Cette page a besoin de JavaScript pour envoyer vos données de naissance. <a href=\"{{ .href }}\">Écrivez-moi</a> avec l’adresse e-mail utilisée pour payer."

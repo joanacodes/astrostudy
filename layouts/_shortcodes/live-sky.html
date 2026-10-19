@@ -1,5 +1,6 @@
 {{- /* What it wraps is said only where the sky of the day actually runs: on Cloudflare, where the
-       Worker keeps the FreeAstroAPI key. The GitHub Pages preview has no server, so no sky — and the
-       privacy note and legal notice mustn't describe a service the site isn't using.
+       Worker keeps the FreeAstroAPI key, or wherever the build captured a sky (data/sky.json). Without
+       either the pages have no sky, and the privacy note and legal notice mustn't describe a service
+       the site isn't using.
        Use with % so the words inside stay Markdown: {{% live-sky %}}…{{% /live-sky %}} */ -}}
-{{- if eq (string (site.Params.legal.host | default "cloudflare")) "cloudflare" }}{{ .Inner }}{{ end -}}
+{{- if or hugo.Data.sky (eq (string (site.Params.legal.host | default "cloudflare")) "cloudflare") }}{{ .Inner }}{{ end -}}

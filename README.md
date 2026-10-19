@@ -28,7 +28,7 @@ hugo && npx wrangler dev                    # http://localhost:8787/
 | Page copy, English | `content/en/` — `_index.md` (home), `birth-chart.md`, `synastry/_index.md` + `couples.md`, `friends.md`, `coworkers.md`, `family.md`, `how-i-read.md`, `contact.md`, `disclaimers.md`, `privacy.md`, `thank-you.md` |
 | Page copy, French | `content/fr/` — the same file names; each sets its French address with `slug` (`/fr/theme-natal/`, `/fr/synastrie/collegues/`…) |
 | Words used by the templates (buttons, form, footer, the sky) | `i18n/en.toml` and `i18n/fr.toml` — keep the keys in step |
-| Reviews | `data/reviews.yml` — `en:` and `fr:`; the featured client message (shortened, anonymised) and the Maison Tarot reviews, labelled as tarot; the French ones say they’re translated |
+| Reviews | `data/reviews.yml` — `en:` and `fr:`; each shows five stars unless it has its own `stars:`; the featured client message (shortened, anonymised) and the Maison Tarot reviews, labelled as tarot; the French ones say they’re translated |
 | What I won’t read | `data/refusals.yml` (same list as Maison Tarot, in both languages) |
 | Readings offered in the form | `data/readings.yml` (both languages; the `id`s must match) |
 | The sky right now | `worker/index.js` (`/api/sky`, on Cloudflare), `layouts/_partials/sky.html` and `wheel-sky.html` (the block and its wheel), `assets/js/sky.js` (placing the planets at the minute) |
@@ -37,7 +37,8 @@ hugo && npx wrangler dev                    # http://localhost:8787/
 | Page behaviour (reveals, drawn lines, FAQ, menu, contact sheet, page transitions, header colour) | `assets/js/site.js` |
 | The meadow | `assets/js/meadow/` + `assets/js/meadow-boot.js` |
 | Templates | `layouts/` — `home.html`, `reading/page.html` (birth chart and the four synastry pages), `synastry/section.html`, `page.html` |
-| Fonts (self-hosted, OFL) | `static/fonts/` — Fraunces and Inter, with their licences |
+| Fonts (self-hosted, OFL) | `static/fonts/` — Fraunces, Inter, and Noto Sans Symbols cut down to the planet and sign symbols (3 KB), with their licences |
+| Symbols before headings | `## Heading {glyph="♄"}` in a Markdown page; `{{ partial "glyph.html" "☉" }}` in a template |
 | Poster stills, video loops, share image | `static/media/` |
 
 ## Legal notice
@@ -52,7 +53,7 @@ Write internal links in either language with the English path — `[privacy note
 
 ## The sky right now
 
-The section after the hero on the home page draws the sky as it is at the minute the page is read: each planet in its sign on a fine-line wheel, the major aspects between them, the Moon’s phase, and a list beside it. Saturn, Chiron and Lilith are in accent — the three read slowest.
+The section after the hero on the home page draws the sky as it is at the minute the page is read: each planet in its sign on a fine-line wheel, the major aspects between them, the Moon’s phase, and a list beside it. Saturn, Chiron and Lilith are in accent — the three read slowest. The same sky is on the wheel of the birth chart page, on the small wheel of the birth chart card, and in the preloader’s dots. (The synastry wheel stays a drawn figure: it shows two people, not the sky.)
 
 It works the way AGS’s sky does:
 
@@ -60,6 +61,7 @@ It works the way AGS’s sky does:
 - **One FreeAstroAPI call every six hours**, at most, per Cloudflare location: it captures every planet’s position and speed. Each visitor’s browser then moves the planets on to the minute, and again every minute while the page is open.
 - **If FreeAstroAPI is down**, the Worker keeps serving its last good sky for up to two days (moved on by the speeds, it stays right to within a degree or so). With no sky at all, the block steps aside and the section reads as before. Without JavaScript the block isn’t shown.
 - Nothing about the visitor is sent to FreeAstroAPI: the Worker asks for “the sky now”, from Greenwich.
+- **Every page also carries the sky inline**, captured at build time by `tools/sky-snapshot.mjs` (same request as the Worker; the `FREE_ASTRO_API` repository secret is read in that one build step and goes nowhere else). That’s what the preloader draws before any script runs, what stands in if `/api/sky` doesn’t answer, and the only source on the GitHub Pages preview, which has no server. The workflow runs once a day so it stays fresh; the browser moves it on to the minute (good for about three days). `data/sky.json` is written by the build and kept out of git.
 
 ## Hosting
 
@@ -100,16 +102,27 @@ The order asks for the reading, the option (**Full reading** or **Full reading +
 
 **Birthplaces** are suggested as people type, by [Photon](https://github.com/komoot/photon) — the open-source place search built on OpenStreetMap, on Komoot’s free public server. On Cloudflare the browser asks the Worker (`/api/places`), which asks Photon and keeps each answer a week, so visitors never talk to a third party; on the GitHub Pages preview, which has no server, the browser asks photon.komoot.io directly. Picking a suggestion also keeps the town’s coordinates with the order (`birth_lat`, `birth_lon`, and `their_…` for a synastry); a place typed by hand is kept as typed. The privacy note says which way it goes, per host.
 
-**Nothing is sent until payment is connected.** With `checkout` empty in `hugo.toml` (as now), the form checks every field, then says payment opens soon — and sends nothing anywhere. Birth details only ever travel with a payment.
+**Birth details travel with a payment, or not at all.** “Continue to payment” keeps the order in that browser tab and opens the Stripe Payment Link for that reading and option. Stripe, once paid, sends the visitor to `/order-received/`, and only from there does the order leave the browser — to the same FormSubmit address as the contact form, as an email titled “New order AS-…” with Stripe’s session id. A French order moves on to `/fr/commande-recue/` by itself. If someone leaves Stripe without paying, nothing is sent.
+
+Each order has a reference (`AS-251019-K7QD`): it’s on the confirmation page, in the order email, and in Stripe as the payment’s *client reference ID*. **Before reading, check that reference in Stripe → Payments**: the order email is only sent from Stripe’s return page, but the page itself can’t prove a payment.
+
+With no link set for a reading (as now), the form checks every field, then says payment opens soon — and sends nothing anywhere.
 
 ### Payments (to set up)
 
-Once Stripe is ready, payment goes through the Cloudflare Worker, like the sky:
+1. In Stripe → **Payment links**, create four links: birth chart, birth chart + consulting, synastry, synastry + consulting (one synastry link serves all four kinds; the kind is in the order email).
+2. In each link → **After payment** → *Don’t show confirmation page* → redirect to `https://astrostudy.co.uk/order-received/?session_id={CHECKOUT_SESSION_ID}` (on the preview: `https://joanacodes.github.io/astrostudy/order-received/?session_id={CHECKOUT_SESSION_ID}`).
+3. Paste the four links into `hugo.toml` → `[params.stripe]`, and the amounts into `priceBirthChart`, `priceBirthChartConsulting`, `priceSynastry`, `priceSynastryConsulting`. The privacy note then names Stripe by itself (`{{% payments %}}` in `privacy.md`).
+4. **The form address must work first**: orders arrive through FormSubmit at `params.email` (see “The contact button and the form”). Send a test order through a Stripe test-mode link before switching to live.
+5. Publish the terms of sale at `/terms/` (and its French page) before the first order.
 
-1. In Stripe, create the four prices (birth chart and synastry, each with and without consulting), and put the amounts to show in `hugo.toml` → `priceBirthChart`, `priceBirthChartConsulting`, `priceSynastry`, `priceSynastryConsulting`.
-2. Add a `/api/checkout` route to `worker/index.js`: it receives the order (JSON), creates a Stripe Checkout Session with the matching price and the order in its metadata, and answers `{ "url": … }` — the form then opens that page. A Stripe webhook (`checkout.session.completed`) hands the paid order on to the reading app. The Stripe secret key goes to the Worker as a secret, like the FreeAstroAPI key — never in a page.
-3. Set `checkout = "/api/checkout"` in `hugo.toml`. The privacy note then names Stripe by itself (`{{% payments %}}` in `privacy.md`).
-4. Publish the terms of sale at `/terms/` (and `/fr/conditions/` or similar, translated) before the first order.
+## The menu
+
+One **Menu** button in the bar opens, on a computer, a panel that slides down from the top (40% of the screen): a card per page with its picture, name and one line, Synastry’s four readings under its card, and the order button, Home, Contact and the other language at the end. On a phone it opens the whole-screen menu, Synastry folding open in place. Each card’s line, sign and picture are in `hugo.toml`, on the menu entry: `blurb`, `glyph` and `image` (e.g. `image = "media/menu/birth-chart.jpg"`, about 4:3, put the file in `static/media/menu/`). Until a picture is given, the card shows the page’s sign on a patch of sky.
+
+## The preloader
+
+A visit opens on the name, “Birth chart & synastry readings”, and a faint zodiac whose dots are the planets of that minute, turning slowly — 2.45 seconds in all, by CSS alone (`layouts/_partials/preloader.html`). It’s shown once per visit: pages change without reloading, and a reload in the same tab skips it.
 
 ## The meadow
 

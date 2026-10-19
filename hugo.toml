@@ -27,20 +27,35 @@ disableKinds = ["taxonomy", "term", "rss"]
       name = "Birth chart"
       pageRef = "/birth-chart"
       weight = 10
+      [languages.en.menus.main.params]
+        glyph = "☉"
+        blurb = "Your chart, placement by placement, in plain words."
+        image = ""   # the card's picture in the computer menu, e.g. "media/menu/birth-chart.jpg" (about 4:3)
     [[languages.en.menus.main]]
       name = "Synastry"
       pageRef = "/synastry"
       weight = 20
+      [languages.en.menus.main.params]
+        glyph = "♀"
+        blurb = "Two charts side by side, for each kind of bond."
+        image = ""   # the card's picture in the computer menu, e.g. "media/menu/synastry.jpg" (about 4:3)
     [[languages.en.menus.main]]
       name = "How I read"
       pageRef = "/how-i-read"
       weight = 30
+      [languages.en.menus.main.params]
+        glyph = "♄"
+        blurb = "How I tested astrology before trusting it."
+        image = ""   # the card's picture in the computer menu, e.g. "media/menu/how-i-read.jpg" (about 4:3)
     [[languages.en.menus.main]]
       name = "Kind words"
       pageRef = "/"
       weight = 40
       [languages.en.menus.main.params]
         fragment = "kind-words"
+        glyph = "★"
+        blurb = "What people said after their readings."
+        image = ""   # the card's picture in the computer menu, e.g. "media/menu/kind-words.jpg" (about 4:3)
     [[languages.en.menus.footer]]
       name = "Disclaimers"
       pageRef = "/disclaimers"
@@ -74,20 +89,35 @@ disableKinds = ["taxonomy", "term", "rss"]
       name = "Thème natal"
       pageRef = "/birth-chart"
       weight = 10
+      [languages.fr.menus.main.params]
+        glyph = "☉"
+        blurb = "Votre thème, placement par placement, avec des mots simples."
+        image = ""   # the card's picture in the computer menu, e.g. "media/menu/birth-chart.jpg" (about 4:3)
     [[languages.fr.menus.main]]
       name = "Synastrie"
       pageRef = "/synastry"
       weight = 20
+      [languages.fr.menus.main.params]
+        glyph = "♀"
+        blurb = "Deux thèmes côte à côte, pour chaque sorte de lien."
+        image = ""   # the card's picture in the computer menu, e.g. "media/menu/synastry.jpg" (about 4:3)
     [[languages.fr.menus.main]]
       name = "Ma méthode"
       pageRef = "/how-i-read"
       weight = 30
+      [languages.fr.menus.main.params]
+        glyph = "♄"
+        blurb = "Comment j’ai testé l’astrologie avant d’y croire."
+        image = ""   # the card's picture in the computer menu, e.g. "media/menu/how-i-read.jpg" (about 4:3)
     [[languages.fr.menus.main]]
       name = "Témoignages"
       pageRef = "/"
       weight = 40
       [languages.fr.menus.main.params]
         fragment = "kind-words"
+        glyph = "★"
+        blurb = "Ce qu’en disent les personnes que j’ai lues."
+        image = ""   # the card's picture in the computer menu, e.g. "media/menu/kind-words.jpg" (about 4:3)
     [[languages.fr.menus.footer]]
       name = "Avertissements"
       pageRef = "/disclaimers"
@@ -116,10 +146,17 @@ disableKinds = ["taxonomy", "term", "rss"]
   priceSynastry = ""      # e.g. "£95"
   priceBirthChartConsulting = ""   # the full reading + consulting, e.g. "£110" — shown in the order panel
   priceSynastryConsulting = ""     # e.g. "£150"
-  # Payment: the address the order form sends to once Stripe is set up (README → "Payments"), e.g.
-  # "/api/checkout". Empty = payment isn't open: the order form checks everything, says so, and sends
-  # nothing — birth details only ever travel with a payment.
-  checkout = ""
+  # Payment: one Stripe Payment Link per reading and option (Stripe → Payment links → + New), pasted
+  # below. In each link: After payment → "Don't show confirmation page" → redirect customers to
+  #   https://astrostudy.co.uk/order-received/?session_id={CHECKOUT_SESSION_ID}
+  # (one address for both languages: a French order moves on to the French page by itself).
+  # Empty = that one isn't open for payment yet: the form says so and sends nothing.
+  # README → "Payments" has the whole path, from the form to the reading.
+  [params.stripe]
+    birthChart = ""            # e.g. "https://buy.stripe.com/…" — the birth chart reading
+    birthChartConsulting = ""  # the birth chart reading + consulting
+    synastry = ""              # a synastry reading (all four kinds)
+    synastryConsulting = ""    # a synastry reading + consulting
   [params.legal]
     # The legal notice (mentions légales, required by French law for a site published from France) and the
     # privacy notice read these. Anything left empty shows on those pages as a highlighted [to fill in] marker,

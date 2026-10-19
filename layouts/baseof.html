@@ -4,6 +4,11 @@
 {{ partial "head.html" . }}
 </head>
 <body data-page="{{ with .Params.type }}{{ . }}{{ else }}{{ if .IsHome }}home{{ else }}{{ .Section | default "page" }}{{ end }}{{ end }}">
+  {{- /* The sky captured at build time (tools/sky-snapshot.mjs), and the live address where the Worker
+         serves one: read by the preloader just below and by sky.js. Outside <main>, so it stays put
+         while pages change. */}}
+  <script type="application/json" id="sky-snapshot"{{ if eq (string (site.Params.legal.host | default "cloudflare")) "cloudflare" }} data-api="{{ "api/sky" | relURL }}"{{ end }}>{{ with hugo.Data.sky }}{{ . | jsonify | safeJS }}{{ else }}null{{ end }}</script>
+  {{ partial "preloader.html" . }}
   <a class="skip" href="#main">{{ i18n "skip" }}</a>
   <div class="meadow" aria-hidden="true" data-loop="{{ "media/meadow-loop-" | relURL }}">
     <div class="meadow__poster"></div>

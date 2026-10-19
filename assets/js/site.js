@@ -113,99 +113,26 @@ function faqs(root) {
 }
 
 /* ---------------------------------------------------------------------------------------------
-   The dropdown in the top bar (Synastry). Its listeners sit on the bar itself, not on the button:
-   the bar's contents are replaced on every page change (to mark the current page), the bar stays.
-   A mouse opens it by resting on it and closes it by leaving, with a moment's grace either way; a
-   click, Enter or Space toggles it; the arrow keys move through it; Esc closes it and hands the
-   focus back to the button. */
-
-const navBar = $('[data-nav]');
-let navTimer = 0;
-let hoverOpenedAt = 0;
-const groupOpen = (group) => group.querySelector('.nav__toggle')?.getAttribute('aria-expanded') === 'true';
-function setGroup(group, open) {
-  const button = group?.querySelector('.nav__toggle');
-  const menu = group?.querySelector('.nav__menu');
-  if (!button || !menu) return;
-  button.setAttribute('aria-expanded', String(open));
-  menu.hidden = !open;
-}
-function closeGroups(except) {
-  for (const group of $$('[data-navgroup]', navBar)) if (group !== except) setGroup(group, false);
-}
-if (navBar) {
-  navBar.addEventListener('pointerover', (e) => {
-    if (e.pointerType !== 'mouse') return;
-    const group = e.target.closest('[data-navgroup]');
-    if (!group) return;
-    clearTimeout(navTimer);
-    if (groupOpen(group)) return;
-    navTimer = setTimeout(() => {
-      closeGroups(group);
-      setGroup(group, true);
-      hoverOpenedAt = performance.now();
-    }, 70);
-  });
-  navBar.addEventListener('pointerout', (e) => {
-    if (e.pointerType !== 'mouse') return;
-    const group = e.target.closest('[data-navgroup]');
-    if (!group || group.contains(e.relatedTarget)) return;
-    clearTimeout(navTimer);
-    navTimer = setTimeout(() => setGroup(group, false), 240);
-  });
-  navBar.addEventListener('click', (e) => {
-    const button = e.target.closest('.nav__toggle');
-    if (!button) return;
-    const group = button.closest('[data-navgroup]');
-    clearTimeout(navTimer);
-    // a click just after the mouse opened it would only shut it again: it stays open
-    if (groupOpen(group) && performance.now() - hoverOpenedAt < 600) return;
-    closeGroups(group);
-    setGroup(group, !groupOpen(group));
-  });
-  navBar.addEventListener('keydown', (e) => {
-    const group = e.target.closest('[data-navgroup]');
-    if (!group) return;
-    const button = group.querySelector('.nav__toggle');
-    const links = $$('.nav__menu a', group);
-    const at = links.indexOf(e.target);
-    if (e.key === 'Escape' && groupOpen(group)) {
-      e.preventDefault();
-      setGroup(group, false);
-      button.focus();
-    } else if (e.key === 'ArrowDown') {
-      e.preventDefault();
-      setGroup(group, true);
-      links[at < 0 ? 0 : (at + 1) % links.length]?.focus();
-    } else if (e.key === 'ArrowUp' && at >= 0) {
-      e.preventDefault();
-      (at === 0 ? button : links[at - 1]).focus();
-    }
-  });
-  // focus moving out of the group, or a click anywhere else, closes it
-  navBar.addEventListener('focusout', (e) => {
-    const group = e.target.closest('[data-navgroup]');
-    if (group && !group.contains(e.relatedTarget)) setGroup(group, false);
-  });
-  document.addEventListener('click', (e) => {
-    if (!navBar.contains(e.target)) closeGroups();
-  });
-}
-
-/* ---------------------------------------------------------------------------------------------
-   The mobile menu. While it's open the page behind it is inert, so Tab stays in the menu. */
+   The menu: one button, two menus — the panel that slides down from the top on a computer, the whole
+   screen on a phone (CSS shows the one that fits). While it's open the page behind it is inert, so
+   Tab stays in the menu; a click on the page below the panel closes it. */
 
 const menuBtn = $('[data-menu]');
 const drawer = $('#drawer');
-// The menu lives outside <main>, so page changes don't redraw it: where you are is marked each time
-// it opens, while it's still invisible, and the group holding this page (a synastry reading) opens.
+const panel = $('#menu-panel');
+const menus = [drawer, panel].filter(Boolean);
+const wide = matchMedia('(min-width: 861px)');
+// The menus live outside <main>, so page changes don't redraw them: where you are is marked each
+// time one opens, while it's still invisible, and the phone menu's group holding this page opens.
 function markDrawer() {
-  for (const a of $$('a:not([hreflang])', drawer)) {
-    const url = new URL(a.href, location.href);
-    if (!url.hash && url.pathname === location.pathname) a.setAttribute('aria-current', 'page');
-    else a.removeAttribute('aria-current');
+  for (const menu of menus) {
+    for (const a of $$('a:not([hreflang])', menu)) {
+      const url = new URL(a.href, location.href);
+      if (!url.hash && url.pathname === location.pathname) a.setAttribute('aria-current', 'page');
+      else a.removeAttribute('aria-current');
+    }
   }
-  for (const d of $$('details[data-fold]', drawer)) {
+  for (const d of $$('details[data-fold]', drawer || document.createElement('div'))) {
     // a fold still animating from the last visit would otherwise finish by undoing this
     for (const a of d.querySelector('[data-fold-body]')?.getAnimations?.() || []) a.cancel();
     delete d.dataset.busy;
@@ -213,31 +140,31 @@ function markDrawer() {
   }
 }
 // Opened from the keyboard, focus goes to the first link, ring and all, as keyboard users expect.
-// Opened by a tap or a click it goes to the menu itself, so no ring is drawn around "Home"; Tab
+// Opened by a tap or a click it goes to the menu itself, so no ring is drawn around a link; Tab
 // still starts at the first link.
 function setMenu(open, byKeyboard = false) {
-  if (!menuBtn || !drawer) return;
+  if (!menuBtn || !menus.length) return;
   if (open) markDrawer();
   document.body.classList.toggle('menu-open', open);
   menuBtn.setAttribute('aria-expanded', String(open));
-  drawer.inert = !open;
+  for (const menu of menus) menu.inert = !open;
   for (const el of [$('main'), $('.footer')]) if (el) el.inert = open;
   const label = $('[data-menu-label]', menuBtn);
   if (label) label.textContent = open ? menuBtn.dataset.labelClose || 'Close' : menuBtn.dataset.labelOpen || 'Menu';
-  if (open) (byKeyboard ? drawer.querySelector('a') : drawer)?.focus({ preventScroll: true });
+  const shown = wide.matches ? panel : drawer;
+  if (open) (byKeyboard ? shown?.querySelector('a') : shown)?.focus({ preventScroll: true });
 }
 // a click that comes from Enter or Space has no pointer behind it: detail is 0
 menuBtn?.addEventListener('click', (e) => setMenu(!document.body.classList.contains('menu-open'), e.detail === 0));
+$('[data-menu-scrim]')?.addEventListener('click', () => setMenu(false));
 addEventListener('keydown', (e) => {
   if (e.key === 'Escape' && document.body.classList.contains('menu-open')) {
     setMenu(false);
     menuBtn.focus();
   }
 });
-// the menu only exists on narrow screens; widening the window must not leave it covering the page
-matchMedia('(min-width: 861px)').addEventListener?.('change', (e) => {
-  if (e.matches) setMenu(false);
-});
+// the open menu belongs to the width it was opened at: crossing over closes it
+wide.addEventListener?.('change', () => setMenu(false));
 
 /* ---------------------------------------------------------------------------------------------
    The contact form: one in the sheet, one on /contact/. Sent through FormSubmit's AJAX endpoint so
@@ -305,9 +232,21 @@ function wireForm(form) {
 
 /* ---------------------------------------------------------------------------------------------
    The order form: in the panel, and on /order/. The reading decides whether there's a second person
-   (and their fields) and which prices show. Until params.checkout is set nothing leaves the page:
-   birth details travel with a payment or not at all. Once it is, the order goes to that endpoint,
-   which answers with the payment page to open (README → "Payments"). */
+   (and their fields) and which prices show. "Continue to payment" opens that reading's Stripe
+   Payment Link; the order waits in this tab (sessionStorage) and leaves it only from the page Stripe
+   sends the visitor back to once they've paid (wireReceived). Birth details travel with a payment
+   or not at all. */
+
+const ORDER_KEY = 'astro-order';
+// A reference the visitor, Stripe and the order email all carry, so a payment and its birth
+// details meet: AS-251019-K7QD. Letters that can't be misread for digits.
+function orderRef() {
+  const d = new Date();
+  const day = [d.getFullYear() % 100, d.getMonth() + 1, d.getDate()].map((n) => String(n).padStart(2, '0')).join('');
+  const abc = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789';
+  const pick = crypto.getRandomValues(new Uint8Array(4));
+  return `AS-${day}-${Array.from(pick, (n) => abc[n % abc.length]).join('')}`;
+}
 
 function presetOrder(form, id) {
   const select = form?.querySelector('[data-order-reading]');
@@ -371,35 +310,99 @@ function wireOrder(form) {
   sync();
   wirePlaces(form);
 
-  form.addEventListener('submit', async (e) => {
+  form.addEventListener('submit', (e) => {
     e.preventDefault();
     if (!form.reportValidity()) return;
-    const endpoint = form.dataset.checkout;
-    if (!endpoint) {
+    const opt = select.selectedOptions[0];
+    const option = form.querySelector('input[name="option"]:checked')?.value === 'consulting' ? 'consulting' : 'full';
+    const link = opt?.dataset[option === 'consulting' ? 'payConsulting' : 'payFull'];
+    if (!link) {
       status.textContent = form.dataset.msgClosed || '';
       return;
     }
-    button.disabled = true;
-    status.textContent = form.dataset.msgOpening || '…';
-    const order = { lang: document.documentElement.lang };
+    const ref = orderRef();
+    const order = { ref, lang: document.documentElement.lang, reading_label: opt.textContent.trim() };
     for (const [k, v] of new FormData(form)) {
       if (typeof v === 'string' && v.trim() !== '') order[k] = v.trim();
     }
+    let url;
     try {
-      const res = await fetch(endpoint, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
-        body: JSON.stringify(order),
-      });
-      const json = await res.json().catch(() => ({}));
-      if (!res.ok || !json.url) throw new Error(json.error || `HTTP ${res.status}`);
-      location.assign(json.url);
+      url = new URL(link);
+      sessionStorage.setItem(ORDER_KEY, JSON.stringify({ at: Date.now(), order }));
     } catch (err) {
+      // no storage (a locked-down browser) or a mistyped link: better to say so than take a payment
+      // whose details would be lost
       console.warn('[order]', err);
       status.textContent = form.dataset.msgError || '';
-      button.disabled = false;
+      return;
     }
+    url.searchParams.set('client_reference_id', ref);
+    if (order.email) url.searchParams.set('prefilled_email', order.email);
+    url.searchParams.set('locale', order.lang.startsWith('fr') ? 'fr' : 'en-GB');
+    button.disabled = true;
+    status.textContent = form.dataset.msgOpening || '…';
+    location.assign(url.href);
+    // coming back with the browser's Back button shows the form as it was, ready again
+    addEventListener('pageshow', () => {
+      button.disabled = false;
+      status.textContent = '';
+    }, { once: true });
   });
+}
+
+/* ---------------------------------------------------------------------------------------------
+   Back from Stripe: /order-received/?session_id=… The order kept in this tab is sent now, with
+   Stripe's session id and the reference, through the same form service as the contact form. It's
+   only sent when Stripe sent the visitor here; it stays in the tab until it has gone, so a failed
+   send can be tried again. An order placed in French moves on to the French page first. */
+
+function wireReceived(box) {
+  if (!box || box.dataset.wired) return;
+  box.dataset.wired = '1';
+  const show = (name, ref = '') => {
+    for (const el of box.querySelectorAll('[data-state]')) el.hidden = el.dataset.state !== name;
+    for (const el of box.querySelectorAll('[data-ref]')) el.textContent = ref;
+  };
+  const session = new URLSearchParams(location.search).get('session_id') || '';
+  let kept = null;
+  try {
+    kept = JSON.parse(sessionStorage.getItem(ORDER_KEY) || 'null');
+  } catch {
+    kept = null;
+  }
+  const order = kept?.order;
+  if (!session || !order) {
+    show(order ? 'unpaid' : 'missing', order?.ref || '');
+    return;
+  }
+  const here = document.documentElement.lang.slice(0, 2);
+  if (order.lang && order.lang.slice(0, 2) !== here && box.dataset.altUrl && box.dataset.altLang === order.lang.slice(0, 2)) {
+    location.replace(`${box.dataset.altUrl}${location.search}`);
+    return;
+  }
+  const send = async () => {
+    show('sending', order.ref);
+    try {
+      const res = await fetch(box.dataset.endpoint, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+        body: JSON.stringify({ _subject: `${box.dataset.subject || 'New order'} ${order.ref}`, _template: 'table', stripe_session: session, ...order }),
+      });
+      const json = await res.json().catch(() => ({}));
+      if (!res.ok || String(json.success) !== 'true') throw new Error(json.message || `HTTP ${res.status}`);
+      try {
+        sessionStorage.removeItem(ORDER_KEY);
+      } catch {
+        // nothing kept, nothing to clear
+      }
+      show('sent', order.ref);
+    } catch (err) {
+      console.warn('[order]', err);
+      show('failed', order.ref);
+    }
+  };
+  box.querySelector('[data-retry]')?.addEventListener('click', send);
+  send();
 }
 
 /* ---------------------------------------------------------------------------------------------
@@ -723,9 +726,6 @@ async function go(href, { push = true, y = null } = {}) {
     io = null;
     $('main').replaceWith(document.importNode(next, true));
     document.body.dataset.page = doc.body.dataset.page || '';
-    const nav = $('[data-nav]');
-    const nextNav = doc.querySelector('[data-nav]');
-    if (nav && nextNav) nav.innerHTML = nextNav.innerHTML;
     // the language links point at this page's translation, so they change with the page
     const langNext = doc.querySelector('[data-lang-link]')?.getAttribute('href');
     if (langNext) for (const a of $$('[data-lang-link]')) a.setAttribute('href', langNext);
@@ -819,12 +819,14 @@ document.addEventListener('click', (e) => {
 /* ---------------------------------------------------------------------------------------------
    Per page. */
 
-function initPage(root) {
-  arrivals(root);
+function initPage(root, settle = 0) {
+  if (settle) setTimeout(() => arrivals(root), settle);
+  else arrivals(root);
   initSky(root);
   collectDrawings(root);
   faqs(root);
   for (const form of $$('[data-form]', root)) wireForm(form);
+  for (const box of $$('[data-received]', root)) wireReceived(box);
   for (const form of $$('[data-order-form]', root)) {
     wireOrder(form);
     presetOrder(form, new URLSearchParams(location.search).get('reading'));
@@ -832,7 +834,15 @@ function initPage(root) {
   updateDrawings();
 }
 
-initPage(document);
+// The preloader lifts by CSS alone (preloader.html); the page's arrivals wait for it, or they would
+// play unseen beneath it. Once gone, it leaves the page.
+const preloader = $('[data-preloader]');
+const preloading = !!preloader && !document.documentElement.classList.contains('seen') && getComputedStyle(preloader).display !== 'none';
+if (preloader && !preloading) preloader.remove();
+preloader?.addEventListener('animationend', (e) => {
+  if (e.target === preloader && e.animationName === 'preloader-out') preloader.remove();
+});
+initPage(document, preloading ? 1650 : 0);
 const arrival = performance.getEntriesByType?.('navigation')[0]?.type;
 const savedY = typeof history.state?.y === 'number' ? history.state.y : null;
 if ((arrival === 'reload' || arrival === 'back_forward') && savedY != null) requestAnimationFrame(() => scrollTo(0, savedY));

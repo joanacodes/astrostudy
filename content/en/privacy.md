@@ -38,7 +38,7 @@ These services may store or process data outside the European Union — {{< host
 
 ## No cookies, no tracking
 
-This site sets no cookies, runs no analytics and no advertising trackers. The fonts are served from this site, not from a third party. The moving meadow behind the pages is drawn by your own browser; nothing about it is sent anywhere.{{% live-sky %}} The sky on the home page comes from [FreeAstroAPI](https://freeastroapi.com), asked by this site’s own server a few times a day — never by your browser, and nothing about you is sent to them. Your browser then moves the planets on to the minute.{{% /live-sky %}}
+This site sets no cookies, runs no analytics and no advertising trackers. The fonts are served from this site, not from a third party. The moving meadow behind the pages is drawn by your own browser; nothing about it is sent anywhere.{{% live-sky %}} The positions of the planets on these pages come from [FreeAstroAPI](https://freeastroapi.com), asked by this site itself a few times a day — never by your browser, and nothing about you is sent to them. Your browser then moves the planets on to the minute.{{% /live-sky %}}
 
 ## How long I keep things
 

@@ -2,34 +2,53 @@
 {{- $other := partial "lang-switch.html" . }}
 <header class="header" data-header>
   <a class="brand" href="{{ site.Home.RelPermalink }}" aria-label="{{ i18n "brandHome" }}"><span class="brand__mark" aria-hidden="true"></span><span class="brand__name">The Astro <em>Study</em></span></a>
-  <nav class="nav" aria-label="{{ i18n "navMain" }}" data-nav>
+  {{- /* Without the script there is no menu to open: the links sit in the bar (and wrap on a phone). */}}
+  <nav class="nav" aria-label="{{ i18n "navMain" }}">
     {{- range $m := site.Menus.main }}
-    {{- with $m.Params.fragment }}
-    <a href="{{ site.Home.RelPermalink }}#{{ . }}">{{ $m.Name }}</a>
-    {{- else }}
-    {{- $kinds := partial "menu-kinds.html" $m }}
-    {{- if $kinds }}
-    {{- /* The same group as in the phone menu: a button that opens on hover or click, the readings,
-           then the overview. Without the script, hovering or tabbing into it opens it too (CSS). */}}
-    {{- $id := printf "nav-%s" (anchorize $m.Name) }}
-    <div class="nav__group" data-navgroup>
-      <button class="nav__toggle" type="button" aria-expanded="false" aria-controls="{{ $id }}"{{ if or ($page.IsMenuCurrent "main" $m) ($page.HasMenuCurrent "main" $m) }} aria-current="true"{{ end }}>{{ $m.Name }}<span class="nav__chevron" aria-hidden="true"></span></button>
-      <div class="nav__menu" id="{{ $id }}" hidden>
-        {{- range $kinds }}
-        <a href="{{ .RelPermalink }}"{{ if eq .RelPermalink $page.RelPermalink }} aria-current="page"{{ end }}>{{ .Params.short | default .LinkTitle }}</a>
-        {{- end }}
-        <a class="nav__all" href="{{ $m.URL }}"{{ if $page.IsMenuCurrent "main" $m }} aria-current="page"{{ end }}>{{ i18n "seeAll" }}<span class="visually-hidden"> — {{ $m.Name }}</span> <span aria-hidden="true">→</span></a>
-      </div>
-    </div>
-    {{- else }}
-    <a href="{{ $m.URL }}"{{ if $page.IsMenuCurrent "main" $m }} aria-current="page"{{ else if $page.HasMenuCurrent "main" $m }} aria-current="true"{{ end }}>{{ $m.Name }}</a>
+    <a href="{{ with $m.Params.fragment }}{{ site.Home.RelPermalink }}#{{ . }}{{ else }}{{ $m.URL }}{{ end }}">{{ $m.Name }}</a>
     {{- end }}
-    {{- end }}
-    {{- end }}
-    <a class="nav__lang" href="{{ $other.url }}" hreflang="{{ $other.locale }}" lang="{{ $other.locale }}" aria-label="{{ i18n "otherLangHint" }}" data-lang-link>{{ i18n "otherLangShort" }}</a>
   </nav>
-  <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="drawer" data-menu data-label-open="{{ i18n "menu" }}" data-label-close="{{ i18n "close" }}"><span class="menu-toggle__lines" aria-hidden="true"></span><span data-menu-label>{{ i18n "menu" }}</span></button>
+  <div class="header__end">
+    <a class="header__lang" href="{{ $other.url }}" hreflang="{{ $other.locale }}" lang="{{ $other.locale }}" aria-label="{{ i18n "otherLangHint" }}" data-lang-link>{{ i18n "otherLangShort" }}</a>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="drawer menu-panel" data-menu data-label-open="{{ i18n "menu" }}" data-label-close="{{ i18n "close" }}"><span class="menu-toggle__lines" aria-hidden="true"></span><span data-menu-label>{{ i18n "menu" }}</span></button>
+  </div>
 </header>
+
+{{- /* The menu on a computer: a panel that slides down from the top, 40% of the screen, one card per
+       page — its picture, its name, a line about it. A card's picture is the menu entry's "image" in
+       hugo.toml; until there is one, the card shows the page's sign on a patch of sky. Synastry lists
+       its readings under its card, in their weight order, as the phone menu does. */}}
+<nav class="menu-panel" id="menu-panel" aria-label="{{ i18n "menu" }}" tabindex="-1" inert data-menu-panel>
+  <div class="menu-panel__grid">
+    {{- range $i, $m := site.Menus.main }}
+    {{- $href := $m.URL }}{{ with $m.Params.fragment }}{{ $href = printf "%s#%s" site.Home.RelPermalink . }}{{ end }}
+    {{- $kinds := cond (isset $m.Params "fragment") slice (partial "menu-kinds.html" $m) }}
+    <div class="mcard" style="--i:{{ $i }}">
+      <a class="mcard__link" href="{{ $href }}">
+        <span class="mcard__pic" aria-hidden="true">
+          {{- with $m.Params.image }}<img src="{{ . | relURL }}" alt="" loading="lazy" decoding="async">{{ else }}<span class="mcard__glyph">{{ $m.Params.glyph | default "✦" }}&#xFE0E;</span>{{ end -}}
+        </span>
+        <span class="mcard__title">{{ $m.Name }}</span>
+        <span class="mcard__desc">{{ $m.Params.blurb | default ($m.Page.Description) }}</span>
+      </a>
+      {{- with $kinds }}
+      <p class="mcard__kinds">
+        {{- range . }}<a href="{{ .RelPermalink }}">{{ .Params.short | default .LinkTitle }}</a>{{ end -}}
+      </p>
+      {{- end }}
+    </div>
+    {{- end }}
+    <div class="menu-panel__side">
+      <a class="btn btn--solid" href="{{ partial "url.html" "/order/" }}" data-order>{{ i18n "menuOrder" }} <span class="btn__arrow" aria-hidden="true">→</span></a>
+      <a href="{{ site.Home.RelPermalink }}">{{ i18n "home" }}</a>
+      <a href="{{ partial "url.html" "/contact/" }}" data-contact>{{ i18n "contact" }}</a>
+      <a class="menu-panel__lang" href="{{ $other.url }}" hreflang="{{ $other.locale }}" lang="{{ $other.locale }}" data-lang-link>{{ i18n "otherLang" }}</a>
+    </div>
+  </div>
+</nav>
+<div class="menu-scrim" aria-hidden="true" data-menu-scrim></div>
+
+{{- /* The menu on a phone: the whole screen, big words. */}}
 <nav class="drawer" id="drawer" aria-label="{{ i18n "menu" }}" tabindex="-1" inert data-drawer>
   <a href="{{ site.Home.RelPermalink }}">{{ i18n "home" }}</a>
   {{- range $m := site.Menus.main }}

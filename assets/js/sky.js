@@ -1,7 +1,11 @@
-// The sky right now, on the home page. The positions come from /api/sky — the Cloudflare Worker in
-// worker/index.js, which keeps the FreeAstroAPI key and refreshes its answer every few hours — with
-// each planet's speed in degrees a day. Here they're moved on to this minute, placed on the wheel,
-// and the list beside it follows. If the sky can't be had, the block steps aside.
+// The sky right now, wherever a zodiac is drawn: the wheel and list on the home page, the wheel on
+// the birth chart page, the small wheels on the cards (and the preloader, which reads the same
+// snapshot inline, before this script runs). The positions come from /api/sky — the Cloudflare
+// Worker in worker/index.js, which keeps the FreeAstroAPI key — or, where there is no Worker (the
+// GitHub Pages preview) or it doesn't answer, from the snapshot each page carries, captured at
+// build time (tools/sky-snapshot.mjs). Each comes with every planet's speed in degrees a day: here
+// they're moved on to this minute. If no sky can be had, the home block steps aside and the other
+// wheels keep their drawn figure.
 
 const SVGNS = 'http://www.w3.org/2000/svg';
 const TENDER = new Set(['saturn', 'chiron', 'lilith']);
@@ -15,7 +19,7 @@ const ASPECTS = [
 ];
 const R_DOT = 150;
 const R_LINES = 86;
-// Older than this, the straight-line move from the build's snapshot drifts (the Moon speeds up and
+// Older than this, the straight-line move from the snapshot drifts (the Moon speeds up and
 // slows down, planets station and turn): the wheel then shows the snapshot as it was, with its date.
 const MAX_DAYS = 3;
 
@@ -167,73 +171,141 @@ function updateList(box, bodies, data) {
   }
 }
 
+// The snapshot every page carries (baseof.html), and the live address where there is one.
+function snapshotTag() {
+  return document.getElementById('sky-snapshot');
+}
+function inlineSky() {
+  try {
+    return JSON.parse(snapshotTag()?.textContent || 'null');
+  } catch {
+    return null;
+  }
+}
+
 // One request per visit: moving between pages reuses the answer for ten minutes, the planets being
-// moved on by their speeds in the meantime.
+// moved on by their speeds in the meantime. If the live address fails, the inline snapshot stands in.
 let fetched = null;
-function loadSky(api) {
-  if (fetched && fetched.api === api && Date.now() - fetched.t < 10 * 60 * 1000) return fetched.p;
-  const p = fetch(api, { headers: { accept: 'application/json' } }).then((r) => {
-    if (!r.ok) throw new Error(`sky ${r.status}`);
-    return r.json();
-  });
-  fetched = { api, t: Date.now(), p };
+function loadSky() {
+  const api = snapshotTag()?.dataset.api;
+  if (fetched && Date.now() - fetched.t < 10 * 60 * 1000) return fetched.p;
+  const fallback = () => {
+    const sky = inlineSky();
+    if (!sky) throw new Error('sky: none to be had');
+    return sky;
+  };
+  const p = api
+    ? fetch(api, { headers: { accept: 'application/json' } })
+        .then((r) => {
+          if (!r.ok) throw new Error(`sky ${r.status}`);
+          return r.json();
+        })
+        .catch((err) => {
+          console.warn('[sky]', err.message);
+          return fallback();
+        })
+    : Promise.resolve().then(fallback);
+  fetched = { t: Date.now(), p };
   p.catch(() => (fetched = null));
   return p;
+}
+
+// The planets at this minute, moved on from when the sky was read. Past MAX_DAYS the straight-line
+// move would drift: the sky is then shown as it was, and `fresh` says so.
+function bodiesAt(sky, now) {
+  const from = Date.parse(sky?.at);
+  if (!Number.isFinite(from) || !Array.isArray(sky.bodies) || !sky.bodies.length) throw new Error('sky: nothing to draw');
+  const days = (now - from) / 864e5;
+  const fresh = days > -1 && days < MAX_DAYS;
+  return { fresh, from, bodies: sky.bodies.map((b) => ({ ...b, lon: norm(b.lon + (fresh ? b.speed * days : 0)) })) };
+}
+
+// The small wheel on the birth chart card: a dot per planet in the ring, the day's main aspects
+// inside. Its drawn figure stays until the sky is in.
+function drawMini(svg, bodies) {
+  const layer = svg.querySelector('[data-sky-mini]');
+  if (!layer) return;
+  const frag = document.createDocumentFragment();
+  const lined = bodies.filter((b) => b.key !== 'lilith');
+  for (let i = 0; i < lined.length; i++) {
+    for (let j = i + 1; j < lined.length; j++) {
+      const asp = ASPECTS.find((a) => Math.abs(gap(lined[i].lon, lined[j].lon) - a.angle) <= a.orb);
+      if (!asp) continue;
+      const [x1, y1] = at(lined[i].lon, 27);
+      const [x2, y2] = at(lined[j].lon, 27);
+      frag.append(el('path', { d: `M${x1.toFixed(2)} ${y1.toFixed(2)}L${x2.toFixed(2)} ${y2.toFixed(2)}`, stroke: asp.hard ? '#b5512c' : 'currentColor', 'stroke-width': 1, opacity: asp.hard ? 1 : 0.55 }));
+    }
+  }
+  for (const b of bodies) {
+    const [x, y] = at(b.lon, 33.5);
+    frag.append(el('circle', { cx: x.toFixed(2), cy: y.toFixed(2), r: b.key === 'sun' ? 2.6 : 1.7, fill: TENDER.has(b.key) ? '#b5512c' : 'currentColor' }));
+  }
+  layer.replaceChildren(frag);
+  svg.querySelector('[data-sky-drawn]')?.remove();
 }
 
 let timer = 0;
 export function initSky(root) {
   clearInterval(timer);
   const box = root.querySelector?.('[data-sky]');
-  if (!box) return;
-  let words;
-  try {
-    words = JSON.parse(box.querySelector('[data-sky-words]').textContent);
-  } catch {
-    box.hidden = true;
-    return;
+  const wheels = Array.from(root.querySelectorAll?.('svg[data-sky-wheel]') || []).filter((w) => !box?.contains(w));
+  const minis = Array.from(root.querySelectorAll?.('svg[data-sky-mini-wheel]') || []);
+  if (!box && !wheels.length && !minis.length) return;
+  let words = null;
+  if (box) {
+    try {
+      words = JSON.parse(box.querySelector('[data-sky-words]').textContent);
+    } catch {
+      box.hidden = true;
+    }
   }
-  const svg = box.querySelector('svg');
-  const when = box.querySelector('[data-sky-when]');
-  const time = box.querySelector('[data-sky-time]');
+  const svg = box?.querySelector('svg');
+  const when = box?.querySelector('[data-sky-when]');
+  const time = box?.querySelector('[data-sky-time]');
   let format = null;
   try {
-    format = new Intl.DateTimeFormat(words.locale, { weekday: 'long', day: 'numeric', month: 'long', hour: '2-digit', minute: '2-digit' });
+    if (words) format = new Intl.DateTimeFormat(words.locale, { weekday: 'long', day: 'numeric', month: 'long', hour: '2-digit', minute: '2-digit' });
   } catch {
     // an unknown locale: the time line simply stays out
   }
+  const namesOf = (w) => {
+    try {
+      return JSON.parse(w.dataset.names || '{}');
+    } catch {
+      return {};
+    }
+  };
 
-  loadSky(box.dataset.api)
+  loadSky()
     .then((sky) => {
-      const from = Date.parse(sky?.at);
-      if (!Number.isFinite(from) || !Array.isArray(sky.bodies) || !sky.bodies.length) throw new Error('sky: nothing to draw');
-      if (!box.isConnected) return;
+      bodiesAt(sky, Date.now()); // throws now, not every minute, if there's nothing usable
       const render = () => {
         const now = Date.now();
-        const days = (now - from) / 864e5;
-        // an answer older than this would drift (the Moon speeds up and slows down, planets
-        // station and turn): show it as it was rather than guess
-        const fresh = days > -1 && days < MAX_DAYS;
-        const bodies = sky.bodies.map((b) => ({ ...b, lon: norm(b.lon + (fresh ? b.speed * days : 0)) }));
-        if (svg) drawPlanets(svg, bodies, words.names || {});
-        updateList(box, bodies, words);
-        if (time && format) {
-          const shown = fresh ? now : from;
-          time.textContent = format.format(shown);
-          time.setAttribute('datetime', new Date(shown).toISOString());
-          if (when) when.hidden = false;
+        const { fresh, from, bodies } = bodiesAt(sky, now);
+        if (box && words && box.isConnected) {
+          if (svg) drawPlanets(svg, bodies, words.names || {});
+          updateList(box, bodies, words);
+          if (time && format) {
+            const shown = fresh ? now : from;
+            time.textContent = format.format(shown);
+            time.setAttribute('datetime', new Date(shown).toISOString());
+            if (when) when.hidden = false;
+          }
         }
+        for (const w of wheels) if (w.isConnected) drawPlanets(w, bodies, namesOf(w));
+        for (const m of minis) if (m.isConnected) drawMini(m, bodies);
       };
       render();
-      box.classList.add('is-ready');
-      // the Moon moves about half a degree an hour: once a minute keeps the wheel honest
+      box?.classList.add('is-ready');
+      for (const w of wheels) w.classList.add('is-live');
+      // the Moon moves about half a degree an hour: once a minute keeps the wheels honest
       timer = setInterval(() => {
-        if (!box.isConnected) clearInterval(timer);
+        if (![box, ...wheels, ...minis].some((n) => n?.isConnected)) clearInterval(timer);
         else if (!document.hidden) render();
       }, 60000);
     })
     .catch((err) => {
       console.warn('[sky]', err.message);
-      box.hidden = true;
+      if (box) box.hidden = true;
     });
 }

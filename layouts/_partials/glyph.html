@@ -1,0 +1,4 @@
+{{- /* A planet's or a sign's symbol before a heading (see .glyph in site.css). The variation selector
+       asks for the plain symbol, never the emoji. */ -}}
+<span class="glyph" aria-hidden="true">{{ . }}&#xFE0E;</span>
+{{- /* keep the trailing whitespace out */ -}}

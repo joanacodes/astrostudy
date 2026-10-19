@@ -1,0 +1,4 @@
+{{- /* Stars over a kind word: the "stars" given with it in data/reviews.yml, five unless it says
+       otherwise. Read out as words; drawn as symbols. */ -}}
+{{- $n := int (. | default 5) }}
+<p class="stars" role="img" aria-label="{{ i18n "starsLabel" (dict "n" $n) }}">{{ range seq $n }}<span aria-hidden="true">★&#xFE0E;</span>{{ end }}</p>

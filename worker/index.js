@@ -7,7 +7,7 @@
 //                (assets/js/sky.js).
 //   /api/places  birthplace suggestions for the order form, from Photon (see places() below).
 
-const DEFAULT_ENDPOINT = 'https://api.freeastroapi.com/api/v1/natal/calculate';
+export const DEFAULT_ENDPOINT = 'https://api.freeastroapi.com/api/v1/natal/calculate';
 // FreeAstroAPI is asked again after six hours, as AGS does. If it doesn't answer, the last good
 // sky is kept for two days: moved on by its speeds, it's still right to within a degree or so.
 const FRESH_MS = 6 * 60 * 60 * 1000;
@@ -78,7 +78,7 @@ async function sky(request, env, ctx) {
   }
 }
 
-async function ask(endpoint, apiKey, now) {
+export async function ask(endpoint, apiKey, now) {
   const at = new Date(Math.floor(now / 60000) * 60000);
   const body = {
     name: 'The sky',

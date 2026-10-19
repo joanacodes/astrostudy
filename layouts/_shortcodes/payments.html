@@ -1,4 +1,5 @@
-{{- /* What it wraps is said only once payment is open (params.checkout is set): until then nobody can
-       pay, no payment provider handles anything, and the privacy note mustn't name one.
+{{- /* What it wraps is said only once payment is open (a Stripe link is set in params.stripe): until
+       then nobody can pay, so Stripe receives nothing and mustn't be described as receiving anything.
        Use with % so the words inside stay Markdown: {{% payments %}}…{{% /payments %}} */ -}}
-{{- if site.Params.checkout }}{{ .Inner }}{{ end -}}
+{{- $open := false }}{{ range $k, $v := site.Params.stripe }}{{ if $v }}{{ $open = true }}{{ end }}{{ end -}}
+{{- if $open }}{{ .Inner }}{{ end -}}

@@ -6,6 +6,7 @@
     {{- with $r.featured }}
     <figure class="quote-feature">
       <p class="quote-feature__pull" data-reveal>“{{ .pull }}”</p>
+      <div data-reveal style="--d:.06s">{{ partial "stars.html" .stars }}</div>
       <blockquote data-reveal style="--d:.1s">
         {{- range .quote }}
         <p>{{ . }}</p>
@@ -21,6 +22,7 @@
       <div class="quotes" style="margin-top:18px" data-reveal tabindex="0" role="region" aria-labelledby="tarot-reviews">
         {{- range . }}
         <figure class="quote">
+          {{- partial "stars.html" .stars }}
           <blockquote>“{{ .quote }}”</blockquote>
           <figcaption><strong>{{ .name }}</strong> — {{ .context }}</figcaption>
         </figure>

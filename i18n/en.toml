@@ -159,3 +159,19 @@ lblEmail = "Email:"
 lblSiren = "SIREN:"
 lblVat = "VAT:"
 countryUS = "USA"
+
+# preloader, menu, stars
+preloaderLine = "Birth chart & synastry readings"
+menuOrder = "Order a reading"
+starsLabel = "{{ .n }} out of 5 stars"
+
+# back from Stripe (/order-received/)
+orderSubject = "New order"
+receivedSending = "Sending your birth details…"
+receivedSent = "Your birth details have reached me. Your reference:"
+receivedSentNext = "Keep it to hand if you write to me. Stripe has emailed you a receipt."
+receivedFailed = "Your payment went through, but your birth details haven’t reached me yet. Please try again — or <a href=\"{{ .href }}\">write to me</a> with your reference:"
+receivedRetry = "Try again"
+receivedMissing = "If you’ve just paid: this browser no longer holds your birth details (they wait only in the tab you ordered from). Please <a href=\"{{ .href }}\">write to me</a> with the email address you paid with, and I’ll ask you for them."
+receivedUnpaid = "No payment came through for this order. If you did pay, please <a href=\"{{ .href }}\">write to me</a> with your reference:"
+receivedNoJs = "This page needs JavaScript to send your birth details. Please <a href=\"{{ .href }}\">write to me</a> with the email address you paid with."

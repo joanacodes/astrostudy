@@ -39,7 +39,7 @@ Ces services peuvent stocker ou traiter des données hors de l’Union européen
 
 ## Ni cookies, ni pistage
 
-Ce site ne dépose aucun cookie, et n’utilise ni outil de mesure d’audience ni traceur publicitaire. Les polices sont servies par ce site, pas par un tiers. La prairie en mouvement derrière les pages est dessinée par votre propre navigateur ; rien n’en est envoyé nulle part.{{% live-sky %}} Le ciel de la page d’accueil vient de [FreeAstroAPI](https://freeastroapi.com), interrogé par le serveur de ce site quelques fois par jour — jamais par votre navigateur, et rien sur vous ne lui est envoyé. Votre navigateur fait ensuite avancer les planètes à la minute près.{{% /live-sky %}}
+Ce site ne dépose aucun cookie, et n’utilise ni outil de mesure d’audience ni traceur publicitaire. Les polices sont servies par ce site, pas par un tiers. La prairie en mouvement derrière les pages est dessinée par votre propre navigateur ; rien n’en est envoyé nulle part.{{% live-sky %}} Les positions des planètes sur ces pages viennent de [FreeAstroAPI](https://freeastroapi.com), interrogé par ce site lui-même quelques fois par jour — jamais par votre navigateur, et rien sur vous ne lui est envoyé. Votre navigateur fait ensuite avancer les planètes à la minute près.{{% /live-sky %}}
 
 ## Combien de temps je garde tout cela
 

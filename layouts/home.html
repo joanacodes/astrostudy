@@ -30,7 +30,7 @@
   <div class="wrap">
     {{ partial "meta.html" (dict "n" "02" "label" .label) }}
     <div class="section__head">
-      <h2 id="principles-title" data-reveal>{{ .title | safeHTML }}</h2>
+      <h2 id="principles-title" data-reveal>{{ partial "glyph.html" "♄" }}{{ .title | safeHTML }}</h2>
       <p class="lede" data-reveal style="--d:.1s">{{ .lede | safeHTML }}</p>
     </div>
     <div class="grid-3">
@@ -59,7 +59,7 @@
   <div class="wrap">
     {{ partial "meta.html" (dict "n" "04" "label" .label) }}
     <div class="section__head">
-      <h2 id="care-title" data-reveal>{{ .title | safeHTML }}</h2>
+      <h2 id="care-title" data-reveal>{{ partial "glyph.html" "⚷" }}{{ .title | safeHTML }}</h2>
     </div>
     <div class="care">
       {{- range $i, $e := .items }}

@@ -1,0 +1,19 @@
+{{- /* Back from Stripe: what happens to the order kept in the tab (site.js, wireReceived), one line
+       per outcome. The translation's address lets a French order move on to the French page, Stripe
+       having one return address for both. */ -}}
+{{- $alt := "" }}{{ $altLang := "" }}{{ range .Translations }}{{ $alt = .RelPermalink }}{{ $altLang = .Language.Lang }}{{ end }}
+{{- $contact := dict "href" (partial "url.html" "/contact/") }}
+<div class="received" data-received data-endpoint="{{ site.Params.formAjaxEndpoint }}" data-subject="{{ i18n "orderSubject" }}" data-alt-url="{{ $alt }}" data-alt-lang="{{ $altLang }}">
+  <p class="received__line" data-state="sending" role="status">{{ i18n "receivedSending" }}</p>
+  <div data-state="sent" hidden>
+    <p class="received__line">{{ i18n "receivedSent" }} <strong class="received__ref" data-ref></strong></p>
+    <p>{{ i18n "receivedSentNext" }}</p>
+  </div>
+  <div data-state="failed" hidden>
+    <p class="received__line">{{ i18n "receivedFailed" $contact | safeHTML }} <strong class="received__ref" data-ref></strong></p>
+    <button class="btn btn--solid" type="button" data-retry>{{ i18n "receivedRetry" }}</button>
+  </div>
+  <p class="received__line" data-state="missing" hidden>{{ i18n "receivedMissing" $contact | safeHTML }}</p>
+  <p class="received__line" data-state="unpaid" hidden>{{ i18n "receivedUnpaid" $contact | safeHTML }} <strong class="received__ref" data-ref></strong></p>
+</div>
+<noscript><p class="received__line">{{ i18n "receivedNoJs" $contact | safeHTML }}</p></noscript>

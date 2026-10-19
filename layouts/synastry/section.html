@@ -9,7 +9,7 @@
       <div class="study__figure" data-reveal>{{ partial "wheel-synastry.html" . }}</div>
       <div>
         <div class="section__head">
-          <h2 id="looks-title" data-reveal>{{ .title | safeHTML }}</h2>
+          <h2 id="looks-title" data-reveal>{{ partial "glyph.html" "☌" }}{{ .title | safeHTML }}</h2>
           {{ with .lede }}<p class="lede" data-reveal style="--d:.1s">{{ . | safeHTML }}</p>{{ end }}
         </div>
         <ol class="items">
@@ -33,7 +33,7 @@
   <div class="wrap">
     {{ partial "meta.html" (dict "n" "02" "label" (i18n "fourReadings")) }}
     <div class="section__head">
-      <h2 id="readings-title" data-reveal>{{ .Params.typesTitle | safeHTML }}</h2>
+      <h2 id="readings-title" data-reveal>{{ partial "glyph.html" "♀" }}{{ .Params.typesTitle | safeHTML }}</h2>
       {{ with .Params.typesLede }}<p class="lede" data-reveal style="--d:.1s">{{ . | safeHTML }}</p>{{ end }}
     </div>
     <div class="types">
@@ -59,7 +59,7 @@
     {{ partial "meta.html" (dict "n" "03" "label" (i18n "howItGoes")) }}
     <div class="split">
       <div class="section__head">
-        <h2 id="steps-title" data-reveal>{{ .title | safeHTML }}</h2>
+        <h2 id="steps-title" data-reveal>{{ partial "glyph.html" "☿" }}{{ .title | safeHTML }}</h2>
         {{ with .lede }}<p class="lede" data-reveal style="--d:.1s">{{ . | safeHTML }}</p>{{ end }}
       </div>
       {{ partial "steps.html" .items }}
@@ -73,7 +73,7 @@
   <div class="wrap">
     {{ partial "meta.html" (dict "n" "04" "label" (.label | default (i18n "careConsent"))) }}
     <div class="section__head">
-      <h2 id="care-title" data-reveal>{{ .title | safeHTML }}</h2>
+      <h2 id="care-title" data-reveal>{{ partial "glyph.html" "⚷" }}{{ .title | safeHTML }}</h2>
       {{ with .lede }}<p class="lede" data-reveal style="--d:.1s">{{ . | safeHTML }}</p>{{ end }}
     </div>
     <div class="care">
@@ -94,7 +94,7 @@
     {{ partial "meta.html" (dict "n" "05" "label" (i18n "questions")) }}
     <div class="split">
       <div class="section__head">
-        <h2 id="faq-title" data-reveal>{{ i18n "questionsTitle" | safeHTML }}</h2>
+        <h2 id="faq-title" data-reveal>{{ partial "glyph.html" "☽" }}{{ i18n "questionsTitle" | safeHTML }}</h2>
         <p class="lede" data-reveal style="--d:.1s">{{ i18n "anythingElse" (dict "href" (partial "url.html" "/contact/")) | safeHTML }}</p>
       </div>
       {{ partial "faq.html" . }}

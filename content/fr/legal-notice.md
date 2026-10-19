@@ -23,9 +23,9 @@ Ce site est hébergé par :
 
 ## Propriété intellectuelle {#ip}
 
-Les textes, la prairie, les dessins de thèmes et l’apparence de ce site sont la propriété de l’éditeur, sauf mention contraire. Merci de ne pas les reproduire sans autorisation écrite — les courtes citations avec un lien vers la source sont les bienvenues. Les polices Fraunces et Inter sont utilisées sous licence SIL Open Font License. Les avis cités sur le site appartiennent aux personnes qui les ont écrits.
+Les textes, la prairie, les dessins de thèmes et l’apparence de ce site sont la propriété de l’éditeur, sauf mention contraire. Merci de ne pas les reproduire sans autorisation écrite — les courtes citations avec un lien vers la source sont les bienvenues. Les polices Fraunces, Inter et Noto Sans Symbols sont utilisées sous licence SIL Open Font License. Les avis cités sur le site appartiennent aux personnes qui les ont écrits.
 
-{{% live-sky %}}Les positions des planètes affichées sur la page d’accueil sont fournies par [FreeAstroAPI](https://freeastroapi.com).{{% /live-sky %}}
+{{% live-sky %}}Les positions des planètes affichées sur ce site sont fournies par [FreeAstroAPI](https://freeastroapi.com).{{% /live-sky %}}
 
 ## Les lectures {#services}
 

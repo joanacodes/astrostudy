@@ -1,9 +1,13 @@
 {{- /* The zodiac ring for "the sky right now", drawn like the other wheels (each stroke follows the
        scroll). 0° Aries sits at nine o'clock and the signs run anticlockwise, as on a printed chart.
-       The planets are placed by the browser, at the minute the page is read (site.js, drawSky). */ -}}
+       The planets are placed by the browser, at the minute the page is read (sky.js). Standalone (the
+       birth chart page), it carries its own planet names; in the home block, the block does. */ -}}
+{{- $keys := slice "sun" "moon" "mercury" "venus" "mars" "jupiter" "saturn" "uranus" "neptune" "pluto" "chiron" "lilith" -}}
+{{- $names := dict }}{{ range $keys }}{{ $names = merge $names (dict . (i18n .)) }}{{ end -}}
+{{- $standalone := and (reflect.IsMap .) (index . "standalone") -}}
 {{- $signs := split (i18n "signs") "," -}}
 {{- $rad := div math.Pi 180.0 -}}
-<svg class="wheel wheel--sky" viewBox="-216 -216 432 432" role="img" aria-label="{{ i18n "skyWheel" }}" data-progress>
+<svg class="wheel wheel--sky" viewBox="-216 -216 432 432" role="img" aria-label="{{ i18n "skyWheel" }}" data-progress{{ if $standalone }} data-sky-wheel data-names="{{ $names | jsonify }}"{{ end }}>
   <defs>
     {{- range $i, $s := $signs }}
     {{- $a0 := mul $i 30.0 }}{{ $a1 := add $a0 30.0 }}
