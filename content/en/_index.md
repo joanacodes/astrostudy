@@ -17,7 +17,7 @@ sky:
   note: "In accent: Saturn, Chiron and Lilith — the three that held best in my tests."
 services:
   - kicker: "For you · adults, 18+"
-    title: "Birth <span class=\"sunword\">chart</span> <em>reading</em>"
+    title: "Birth <span class=\"sunword\">chart</span> <em>readings</em>"
     text: "The sky at the minute you were born, read as a map of how you think, feel, love, work and rest — and of what you protect most."
     href: "/birth-chart/"
     cta: "About the birth chart reading"
@@ -36,11 +36,11 @@ principles:
   title: "I came to astrology to mock it. <em>It answered back.</em>"
   lede: "So I tested it the way you check an invoice — my own chart first, then friends’, then strangers’, a tick or a cross beside every placement. What held, I read in depth. What held less, I hold lightly, and I tell you which is which."
   items:
-    - title: "Tendencies, <em>not fate</em>"
+    - title: "Tendencies, <em class=\"struck\">not fate</em>"
       text: "A chart describes how you’re inclined to move through life, not where you must end up. Anything in it can be met and worked with."
-    - title: "Soft words, <em>clear meaning</em>"
+    - title: "Soft words, <em class=\"marked\">clear meaning</em>"
       text: "Gentle doesn’t mean vague. I say what I see in plain language, and I say it the way I’d want it said to me."
-    - title: "You stay <em>in charge</em>"
+    - title: "You stay <em class=\"lit\">in charge</em>"
       text: "A reading is a conversation with yourself, not an instruction — and never a reason to stop trusting your own judgement."
   cta: "More on how I read"
 

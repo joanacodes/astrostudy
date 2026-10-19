@@ -2884,3 +2884,25 @@ mark.todo {
   background-image: linear-gradient(to left, #d96a3c 0%, var(--accent) 30%, #8f3d1f 62%, #4a2a1c 88%, var(--ink) 100%);
   filter: drop-shadow(0 0 11px rgba(200, 90, 50, 0.5));
 }
+
+/* Words set apart in a heading, italics kept: crossed out ("not fate"), underlined ("clear meaning"),
+   or lit in the site's red with white letters ("in charge"). */
+.struck {
+  text-decoration: line-through;
+  text-decoration-thickness: 1.5px;
+  text-decoration-color: var(--accent);
+}
+.marked {
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 0.16em;
+  text-decoration-color: var(--accent);
+}
+.lit {
+  color: #fff;
+  background: var(--accent);
+  padding: 0 0.22em 0.04em;
+  border-radius: 0.18em;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}

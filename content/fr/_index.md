@@ -17,7 +17,7 @@ sky:
   note: "En couleur : Saturne, Chiron et Lilith — les trois qui ont le mieux tenu dans mes tests."
 services:
   - kicker: "Pour vous · adultes, 18 ans et plus"
-    title: "<em>Lecture</em> de <span class=\"sunword\">thème</span> natal"
+    title: "<em>Lectures</em> de <span class=\"sunword\">thème</span> natal"
     text: "Le ciel à la minute de votre naissance, lu comme une carte de votre façon de penser, de ressentir, d’aimer, de travailler et de vous reposer — et de ce que vous protégez le plus."
     href: "/birth-chart/"
     cta: "La lecture de thème natal, en détail"
@@ -36,11 +36,11 @@ principles:
   title: "Je suis venue à l’astrologie pour m’en moquer. <em>Elle m’a répondu.</em>"
   lede: "Alors je l’ai testée comme on vérifie une facture — mon propre thème d’abord, puis ceux d’amis, puis ceux d’inconnus, une coche ou une croix à côté de chaque position. Ce qui a tenu, je le lis en profondeur. Ce qui a moins tenu, je le prends avec des pincettes — et je vous dis toujours lequel est lequel."
   items:
-    - title: "Des tendances, <em>pas un destin</em>"
+    - title: "Des tendances, <em class=\"struck\">pas un destin</em>"
       text: "Un thème décrit la façon dont vous avez tendance à traverser la vie, pas l’endroit où vous devez arriver. Tout ce qu’il montre peut se regarder en face et se travailler."
-    - title: "Des mots doux, <em>un sens clair</em>"
+    - title: "Des mots doux, <em class=\"marked\">un sens clair</em>"
       text: "Doux ne veut pas dire flou. Je dis ce que je vois avec des mots simples, et je le dis comme j’aimerais qu’on me le dise."
-    - title: "C’est vous <em>qui décidez</em>"
+    - title: "C’est vous <em class=\"lit\">qui décidez</em>"
       text: "Une lecture est une conversation avec vous-même, pas une injonction — et jamais une raison de ne plus vous fier à votre propre jugement."
   cta: "En savoir plus sur ma méthode"
 
