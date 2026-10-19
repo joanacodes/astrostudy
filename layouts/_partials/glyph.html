@@ -1,4 +1,4 @@
-{{- /* A planet's or a sign's symbol before a heading (see .glyph in site.css). The variation selector
-       asks for the plain symbol, never the emoji. */ -}}
-<span class="glyph" aria-hidden="true">{{ . }}&#xFE0E;</span>
+{{- /* A planet's or a sign's symbol before a heading (see .glyph in site.css), or a pair of them
+       ("☌/☍"). The variation selector after each asks for the plain symbol, never the emoji. */ -}}
+<span class="glyph" aria-hidden="true">{{ range split . "" }}{{ if eq . "/" }}<span class="glyph__slash">/</span>{{ else }}{{ . }}&#xFE0E;{{ end }}{{ end }}</span>
 {{- /* keep the trailing whitespace out */ -}}

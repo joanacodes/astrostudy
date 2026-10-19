@@ -26,7 +26,7 @@
     <div class="mcard" style="--i:{{ $i }}">
       <a class="mcard__link" href="{{ $href }}">
         <span class="mcard__pic" aria-hidden="true">
-          {{- with $m.Params.image }}<img src="{{ . | relURL }}" alt="" loading="lazy" decoding="async">{{ else }}<span class="mcard__glyph">{{ $m.Params.glyph | default "✦" }}&#xFE0E;</span>{{ end -}}
+          {{- with $m.Params.image }}<img src="{{ . | relURL }}" alt="" loading="lazy" decoding="async">{{ else }}<span class="mcard__glyph">{{ range split ($m.Params.glyph | default "✦") "" }}{{ if eq . "/" }}<span class="glyph__slash">/</span>{{ else }}{{ . }}&#xFE0E;{{ end }}{{ end }}</span>{{ end -}}
         </span>
         <span class="mcard__title">{{ $m.Name }}</span>
         <span class="mcard__desc">{{ $m.Params.blurb | default ($m.Page.Description) }}</span>

@@ -2906,3 +2906,11 @@ mark.todo {
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
 }
+
+/* between two symbols (conjunction / opposition): thinner, closer */
+.glyph__slash {
+  font-family: var(--sans);
+  font-weight: 300;
+  margin: 0 0.08em;
+  opacity: 0.7;
+}

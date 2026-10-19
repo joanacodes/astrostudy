@@ -36,7 +36,7 @@ disableKinds = ["taxonomy", "term", "rss"]
       pageRef = "/synastry"
       weight = 20
       [languages.en.menus.main.params]
-        glyph = "☌"
+        glyph = "☌/☍"
         blurb = "Two charts side by side, for each kind of bond."
         image = ""   # the card's picture in the computer menu, e.g. "media/menu/synastry.jpg" (about 4:3)
     [[languages.en.menus.main]]
@@ -98,7 +98,7 @@ disableKinds = ["taxonomy", "term", "rss"]
       pageRef = "/synastry"
       weight = 20
       [languages.fr.menus.main.params]
-        glyph = "☌"
+        glyph = "☌/☍"
         blurb = "Deux thèmes côte à côte, pour chaque sorte de lien."
         image = ""   # the card's picture in the computer menu, e.g. "media/menu/synastry.jpg" (about 4:3)
     [[languages.fr.menus.main]]
