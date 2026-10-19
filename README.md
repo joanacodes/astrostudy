@@ -120,6 +120,12 @@ With no link set for a reading (as now), the form checks every field, then says 
 
 One **Menu** button in the bar opens, on a computer, a panel that slides down from the top (40% of the screen): a card per page with its picture, name and one line, Synastry’s four readings under its card, and the order button, Home, Contact and the other language at the end. On a phone it opens the whole-screen menu, Synastry folding open in place. Each card’s line, sign and picture are in `hugo.toml`, on the menu entry: `blurb`, `glyph` and `image` (e.g. `image = "media/menu/birth-chart.jpg"`, about 4:3, put the file in `static/media/menu/`). Until a picture is given, the card shows the page’s sign on a patch of sky.
 
+## The blog
+
+`/blog/` and `/fr/blog/`, laid out like Maison Tarot’s: the latest article large, then the others as cards; an article has its date and short answer beside the title, then the anchor menu (“In this article”, which marks the section being read), the text, and an order panel. On a phone the anchor menu is a tab at the bottom left that slides up.
+
+A new article is a Markdown file in `content/en/blog/` (and its translation in `content/fr/blog/`, same file name, with a French `slug`). Front matter: `title`, `description`, `date`, `categories`, `summary` (the short answer), `glyph` (the sign on its cover until it has a picture) and optionally `image` (a path under `static/`). Give each `##` heading an anchor, e.g. `## We just met {#we-just-met}`: those make the anchor menu. The first article, on synastry and consent, is a sample in your voice: read it before it goes live.
+
 ## The preloader
 
 A visit opens on the name, “Birth chart & synastry readings”, and a faint zodiac whose dots are the planets of that minute, turning slowly — 2.45 seconds in all, by CSS alone (`layouts/_partials/preloader.html`). It’s shown once per visit: pages change without reloading, and a reload in the same tab skips it.

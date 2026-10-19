@@ -557,7 +557,7 @@ p {
 .menu-panel__grid {
   height: 100%;
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr)) minmax(256px, 0.8fr);
+  grid-template-columns: repeat(var(--cards, 4), minmax(0, 1fr)) minmax(240px, 0.75fr);
   gap: clamp(14px, 1.8vw, 26px);
 }
 .mcard {
@@ -2913,4 +2913,354 @@ mark.todo {
   font-weight: 300;
   margin: 0 0.08em;
   opacity: 0.7;
+}
+
+/* ------------------------------------------------------------------------------------------------
+   Blog — laid out as on Maison Tarot: breadcrumbs, the latest article large; an article with its
+   short answer beside the title, then the anchor menu, the text and a panel side by side. */
+
+.blog-top {
+  padding: calc(96px + env(safe-area-inset-top)) 0 clamp(72px, 9vw, 130px);
+  min-height: 100svh;
+}
+.crumbs {
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  color: var(--ink-3);
+  margin: 0 0 clamp(22px, 3vw, 36px);
+}
+.crumbs a {
+  color: inherit;
+  text-decoration: none;
+}
+.crumbs a:hover {
+  color: var(--ink);
+}
+.crumbs span {
+  margin: 0 0.55em;
+}
+.article-meta {
+  font-size: 0.76rem;
+  letter-spacing: 0.04em;
+  line-height: 1.7;
+  color: var(--ink-3);
+  margin: 0 0 1.2em;
+}
+.post-cover {
+  position: relative;
+  display: grid;
+  place-items: center;
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  border-radius: 18px;
+  background: linear-gradient(160deg, #8fb0c9 0%, #c3d4e0 55%, #dfe3d6 100%);
+}
+.post-cover img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.post-cover__glyph {
+  font-family: "Astro Symbols", var(--serif);
+  font-size: clamp(2.6rem, 6vw, 5rem);
+  line-height: 1;
+  color: #fff;
+  text-shadow: 0 1px 18px rgba(20, 50, 80, 0.25);
+}
+
+/* the blog's front page */
+.post-hero {
+  display: grid;
+  gap: clamp(28px, 4vw, 64px);
+  align-items: center;
+}
+@media (min-width: 900px) {
+  .post-hero {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  }
+}
+.post-hero__title {
+  font-size: clamp(2rem, 1.3rem + 2.6vw, 3.6rem);
+  line-height: 1.04;
+  margin: 10px 0 18px;
+}
+.post-hero__title a {
+  text-decoration: none;
+}
+.post-hero .lede {
+  margin-bottom: 1em;
+}
+.post-visual {
+  display: block;
+}
+.blog-more {
+  margin: clamp(56px, 7vw, 96px) 0 18px;
+  padding-top: 18px;
+  border-top: 1px solid var(--line-2);
+}
+.post-grid {
+  display: grid;
+  gap: clamp(20px, 3vw, 36px);
+}
+@media (min-width: 760px) {
+  .post-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+.post-card {
+  display: grid;
+  gap: 8px;
+  text-decoration: none;
+  color: var(--ink);
+}
+.post-card__title {
+  margin-top: 6px;
+  font-family: var(--serif);
+  font-size: 1.3rem;
+  line-height: 1.2;
+}
+.post-card .article-meta {
+  margin: 0;
+}
+.post-card__desc {
+  font-size: 0.9rem;
+  color: var(--ink-2);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* an article */
+.article-head {
+  display: grid;
+  gap: clamp(20px, 3vw, 48px);
+  align-items: end;
+}
+@media (min-width: 1000px) {
+  .article-head {
+    grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
+  }
+}
+.article-head h1 {
+  font-size: clamp(2.2rem, 1.3rem + 3.4vw, 4.4rem);
+  line-height: 1.02;
+}
+.short-answer {
+  border-left: 2px solid var(--accent);
+  padding: 4px 0 4px 20px;
+}
+.short-answer .label {
+  margin: 0 0 8px;
+}
+.short-answer__text {
+  font-family: var(--serif);
+  font-size: 1.12rem;
+  line-height: 1.4;
+  letter-spacing: -0.01em;
+  margin: 0 0 8px;
+}
+.short-answer__more {
+  font-size: 0.8rem;
+  color: var(--ink-3);
+  margin: 0;
+}
+.article-cover {
+  margin-top: clamp(28px, 4vw, 56px);
+}
+.article-cover .post-cover {
+  aspect-ratio: 21 / 8;
+}
+.article-body {
+  display: grid;
+  gap: 40px;
+  margin-top: clamp(32px, 5vw, 64px);
+  padding-top: 32px;
+  border-top: 1px solid var(--ink);
+}
+.article-body .prose {
+  max-width: 38em;
+}
+@media (min-width: 1000px) {
+  .article-body {
+    grid-template-columns: 3fr 6fr 3fr;
+  }
+  .article-body .rail,
+  .article-side {
+    position: sticky;
+    top: 96px;
+    align-self: start;
+  }
+}
+.toc {
+  font-size: 0.86rem;
+}
+.toc ul {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0 0;
+}
+.toc li {
+  border-top: 1px solid var(--line);
+}
+.toc a {
+  position: relative;
+  display: block;
+  padding: 9px 0 9px 14px;
+  text-decoration: none;
+  color: var(--ink-2);
+  transition: color 0.3s var(--ease);
+}
+.toc a::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 5px;
+  height: 5px;
+  margin-top: -2.5px;
+  border-radius: 50%;
+  background: var(--accent);
+  opacity: 0;
+  transform: scale(0.4);
+  transition: opacity 0.3s var(--ease), transform 0.3s var(--ease);
+}
+.toc a:hover,
+.toc a[aria-current] {
+  color: var(--ink);
+}
+.toc a[aria-current]::before {
+  opacity: 1;
+  transform: none;
+}
+.rail__note {
+  font-size: 0.82rem;
+  color: var(--ink-3);
+  margin: 24px 0 0;
+}
+.side-card {
+  display: grid;
+  gap: 12px;
+  justify-items: start;
+  padding: 22px;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.38);
+  border: 1px solid rgba(255, 255, 255, 0.6);
+}
+.side-card p {
+  margin: 0;
+}
+.side-card__title {
+  font-family: var(--serif);
+  font-size: 1.4rem;
+  line-height: 1.15;
+}
+.side-card__text {
+  font-size: 0.88rem;
+  color: var(--ink-2);
+}
+.prose h2 {
+  scroll-margin-top: 96px;
+}
+@media (max-width: 999px) {
+  .article-body .rail {
+    display: none;
+  }
+}
+
+/* On a phone the anchor menu is a tab at the bottom left (the contact button holds the right), which
+   slides up a glass panel. */
+.folder {
+  display: none;
+}
+@media (max-width: 999px) {
+  .js .folder {
+    display: block;
+  }
+  .folder-panel {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 30;
+    padding: 16px var(--gutter) calc(22px + env(safe-area-inset-bottom));
+    background: rgba(143, 61, 31, 0.8);
+    -webkit-backdrop-filter: blur(18px);
+    backdrop-filter: blur(18px);
+    border-top: 4px solid var(--accent);
+    color: #fff;
+    transform: translateY(calc(100% - 4px));
+    transition: transform 0.6s var(--ease-out);
+  }
+  .folder-open .folder-panel {
+    transform: none;
+    box-shadow: 0 -20px 50px rgba(0, 0, 0, 0.18);
+  }
+  .folder-tab {
+    position: absolute;
+    left: 0;
+    bottom: 100%;
+    margin-bottom: 0;
+    padding: 11px 26px calc(11px + 0px) 18px;
+    border: 0;
+    background: var(--accent);
+    color: #fff;
+    font: 500 0.72rem var(--sans);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    clip-path: polygon(0 0, calc(100% - 14px) 0, 100% 100%, 0 100%);
+    cursor: pointer;
+  }
+  .folder-body {
+    max-height: 62svh;
+    overflow: auto;
+    opacity: 0;
+    transition: opacity 0.4s var(--ease);
+  }
+  .folder-open .folder-body {
+    opacity: 1;
+    transition-delay: 0.2s;
+  }
+  .folder-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+  .folder-head .label {
+    color: #fff;
+  }
+  .folder-close {
+    font: inherit;
+    font-size: 0.8rem;
+    color: #fff;
+    background: none;
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    border-radius: 999px;
+    padding: 6px 14px;
+    cursor: pointer;
+  }
+  .folder-panel .toc li {
+    border-color: rgba(255, 255, 255, 0.22);
+  }
+  .folder-panel .toc a,
+  .folder-panel .toc a[aria-current] {
+    color: #fff;
+  }
+  .folder-panel .toc a::before {
+    background: #fff;
+  }
+}
+@media print {
+  .folder,
+  .article-side {
+    display: none !important;
+  }
+}
+/* the open anchor panel and the contact button would overlap on a phone: the button steps aside */
+.folder-open .contact-fab {
+  opacity: 0;
+  pointer-events: none;
 }

@@ -1,0 +1,33 @@
+{{ define "main" }}
+{{- /* The blog, laid out as on Maison Tarot: the latest article large, its picture beside it, then the
+       others as cards. A post without a picture shows its sign on a patch of sky, as the menu does. */ -}}
+{{- $posts := .RegularPages.ByDate.Reverse -}}
+<section class="paper blog-top">
+  <div class="wrap">
+    <p class="crumbs"><a href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a><span aria-hidden="true">›</span>{{ .Title }}</p>
+    {{- with index $posts 0 }}
+    <div class="post-hero">
+      <div>
+        <p class="label">{{ i18n "blogLatest" }}</p>
+        <h1 class="post-hero__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+        <p class="lede">{{ .Description }}</p>
+        <p class="article-meta">{{ partial "post-meta.html" . }}</p>
+        <a class="btn btn--solid" href="{{ .RelPermalink }}">{{ i18n "blogRead" }} <span class="btn__arrow" aria-hidden="true">→</span></a>
+      </div>
+      <a class="post-visual" href="{{ .RelPermalink }}" tabindex="-1" aria-hidden="true" data-reveal>{{ partial "post-cover.html" . }}</a>
+    </div>
+    {{- else }}
+    <h1>{{ .Title }}</h1>
+    <p class="lede">{{ i18n "blogNone" }}</p>
+    {{- end }}
+    {{- with after 1 $posts }}
+    <p class="label blog-more">{{ i18n "blogMore" }}</p>
+    <div class="post-grid">
+      {{- range . }}
+      <a class="post-card" href="{{ .RelPermalink }}" data-reveal>{{ partial "post-cover.html" . }}<span class="post-card__title">{{ .Title }}</span><span class="article-meta">{{ partial "post-meta.html" . }}</span><span class="post-card__desc">{{ .Description }}</span></a>
+      {{- end }}
+    </div>
+    {{- end }}
+  </div>
+</section>
+{{ end }}

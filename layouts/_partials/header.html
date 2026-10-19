@@ -19,7 +19,7 @@
        hugo.toml; until there is one, the card shows the page's sign on a patch of sky. Synastry lists
        its readings under its card, in their weight order, as the phone menu does. */}}
 <nav class="menu-panel" id="menu-panel" aria-label="{{ i18n "menu" }}" tabindex="-1" inert data-menu-panel>
-  <div class="menu-panel__grid">
+  <div class="menu-panel__grid" style="--cards:{{ len site.Menus.main }}">
     {{- range $i, $m := site.Menus.main }}
     {{- $href := $m.URL }}{{ with $m.Params.fragment }}{{ $href = printf "%s#%s" site.Home.RelPermalink . }}{{ end }}
     {{- $kinds := cond (isset $m.Params "fragment") slice (partial "menu-kinds.html" $m) }}

@@ -1,0 +1,56 @@
+{{ define "main" }}
+{{- /* An article, laid out as on Maison Tarot: the title with the date and a short answer beside it,
+       the picture, then three columns — "In this article" (the anchor menu, which follows your reading),
+       the text, and a panel to order or ask. On a phone the anchor menu is a tab at the bottom of the
+       screen that slides up. The headings carry their own anchors ({#…} in the Markdown). */ -}}
+<article class="paper blog-top">
+  <div class="wrap">
+    <p class="crumbs"><a href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a><span aria-hidden="true">›</span><a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a><span aria-hidden="true">›</span>{{ .Title }}</p>
+    <div class="article-head">
+      <h1>{{ partial "glyph.html" (.Params.glyph | default "✦") }}{{ .Title }}</h1>
+      <div>
+        <p class="article-meta">{{ partial "post-meta.html" . }}</p>
+        {{- with .Params.summary }}
+        <aside class="short-answer">
+          <p class="label">{{ i18n "blogShort" }}</p>
+          <p class="short-answer__text">{{ . }}</p>
+          <p class="short-answer__more">{{ i18n "blogReadFull" }}</p>
+        </aside>
+        {{- end }}
+      </div>
+    </div>
+    <div class="article-cover" data-reveal>{{ partial "post-cover.html" . }}</div>
+    <div class="article-body">
+      <aside class="rail">
+        {{- with .TableOfContents }}
+        <p class="label">{{ i18n "blogInArticle" }}</p>
+        <nav class="toc" aria-label="{{ i18n "blogInArticle" }}" data-toc>{{ . }}</nav>
+        {{- end }}
+        <p class="rail__note">{{ i18n "blogMethod" }} <a class="link" href="{{ partial "url.html" "/how-i-read/" }}">{{ i18n "blogMethodLink" }}</a>.</p>
+        <p class="rail__note"><a class="link" href="{{ partial "url.html" "/disclaimers/" }}#entertainment">{{ i18n "blogDisclaimer" }}</a></p>
+      </aside>
+      <div class="prose">{{ .Content }}</div>
+      <aside class="article-side">
+        <div class="side-card">
+          <p class="label">{{ i18n "blogSideLabel" }}</p>
+          <p class="side-card__title">{{ i18n "blogSideTitle" | safeHTML }}</p>
+          <p class="side-card__text">{{ i18n "blogSideText" }}</p>
+          <a class="btn btn--solid" href="{{ partial "url.html" "/order/" }}" data-order>{{ i18n "menuOrder" }} <span class="btn__arrow" aria-hidden="true">→</span></a>
+          <a class="arrow-link" href="{{ partial "url.html" "/contact/" }}" data-contact>{{ i18n "blogAsk" }} <span aria-hidden="true">→</span></a>
+        </div>
+      </aside>
+    </div>
+  </div>
+</article>
+{{- with .TableOfContents }}
+<div class="folder" data-folder>
+  <div class="folder-panel" id="folder-panel">
+    <button type="button" class="folder-tab" data-folder-open aria-expanded="false" aria-controls="folder-panel">{{ i18n "blogOnPage" }}</button>
+    <div class="folder-body">
+      <div class="folder-head"><span class="label">{{ i18n "blogOnPage" }}</span><button type="button" class="folder-close" data-folder-close>{{ i18n "close" }}</button></div>
+      <nav class="toc" aria-label="{{ i18n "blogOnPage" }}">{{ . }}</nav>
+    </div>
+  </div>
+</div>
+{{- end }}
+{{ end }}

@@ -817,12 +817,55 @@ document.addEventListener('click', (e) => {
 });
 
 /* ---------------------------------------------------------------------------------------------
+   A blog article's anchor menu: the section you're reading is marked as you scroll (the last heading
+   to have passed the top third of the screen), and on a phone the menu is a tab that slides up. */
+
+let tocObserver = null;
+function articleAnchors(root) {
+  tocObserver?.disconnect();
+  tocObserver = null;
+  document.body.classList.remove('folder-open');
+  const links = $$('.toc a[href^="#"]', root);
+  if (!links.length) return;
+  const heads = [...new Set(links.map((a) => decodeURIComponent(a.hash.slice(1))))]
+    .map((id) => document.getElementById(id))
+    .filter(Boolean);
+  const mark = () => {
+    const line = innerHeight * 0.33;
+    let current = null;
+    for (const h of heads) if (h.getBoundingClientRect().top <= line) current = h.id;
+    for (const a of links) {
+      if (current && decodeURIComponent(a.hash.slice(1)) === current) a.setAttribute('aria-current', 'location');
+      else a.removeAttribute('aria-current');
+    }
+  };
+  if ('IntersectionObserver' in window) {
+    // only headings crossing the screen can change the answer: no work on every scroll frame
+    tocObserver = new IntersectionObserver(mark, { rootMargin: '0px 0px -60% 0px' });
+    heads.forEach((h) => tocObserver.observe(h));
+  }
+  mark();
+
+  const folder = root.querySelector('[data-folder]');
+  if (!folder) return;
+  const tab = folder.querySelector('[data-folder-open]');
+  const set = (open) => {
+    document.body.classList.toggle('folder-open', open);
+    tab.setAttribute('aria-expanded', String(open));
+  };
+  tab.addEventListener('click', () => set(!document.body.classList.contains('folder-open')));
+  folder.querySelector('[data-folder-close]')?.addEventListener('click', () => set(false));
+  for (const a of folder.querySelectorAll('a')) a.addEventListener('click', () => set(false));
+}
+
+/* ---------------------------------------------------------------------------------------------
    Per page. */
 
 function initPage(root, settle = 0) {
   if (settle) setTimeout(() => arrivals(root), settle);
   else arrivals(root);
   initSky(root);
+  articleAnchors(root);
   collectDrawings(root);
   faqs(root);
   for (const form of $$('[data-form]', root)) wireForm(form);

@@ -48,6 +48,14 @@ disableKinds = ["taxonomy", "term", "rss"]
         blurb = "How I tested astrology before trusting it."
         image = ""   # the card's picture in the computer menu, e.g. "media/menu/how-i-read.jpg" (about 4:3)
     [[languages.en.menus.main]]
+      name = "Blog"
+      pageRef = "/blog"
+      weight = 35
+      [languages.en.menus.main.params]
+        glyph = "✦"
+        blurb = "Notes from the reading desk."
+        image = ""   # the card's picture in the computer menu, e.g. "media/menu/blog.jpg" (about 4:3)
+    [[languages.en.menus.main]]
       name = "Kind words"
       pageRef = "/"
       weight = 40
@@ -109,6 +117,14 @@ disableKinds = ["taxonomy", "term", "rss"]
         glyph = "♄"
         blurb = "Comment j’ai testé l’astrologie avant d’y croire."
         image = ""   # the card's picture in the computer menu, e.g. "media/menu/how-i-read.jpg" (about 4:3)
+    [[languages.fr.menus.main]]
+      name = "Blog"
+      pageRef = "/blog"
+      weight = 35
+      [languages.fr.menus.main.params]
+        glyph = "✦"
+        blurb = "Notes depuis ma table de lecture."
+        image = ""   # the card's picture in the computer menu, e.g. "media/menu/blog.jpg" (about 4:3)
     [[languages.fr.menus.main]]
       name = "Témoignages"
       pageRef = "/"
@@ -173,6 +189,10 @@ disableKinds = ["taxonomy", "term", "rss"]
     host = "cloudflare"
 
 [markup]
+  # the anchor menu of a blog article lists its sections (## headings)
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 2
   [markup.goldmark.renderer]
     unsafe = true
   [markup.goldmark.extensions]

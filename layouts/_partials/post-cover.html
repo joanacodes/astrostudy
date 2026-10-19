@@ -1,0 +1,6 @@
+{{- /* An article's picture (front matter "image", a path under static/), or until there is one its
+       sign on a patch of sky, like the cards in the menu. */ -}}
+<span class="post-cover">
+  {{- with .Params.image }}<img src="{{ . | relURL }}" alt="{{ $.Params.imageAlt | default "" }}" loading="lazy" decoding="async">{{ else }}<span class="post-cover__glyph" aria-hidden="true">{{ range split ($.Params.glyph | default "✦") "" }}{{ if eq . "/" }}<span class="glyph__slash">/</span>{{ else }}{{ . }}&#xFE0E;{{ end }}{{ end }}</span>{{ end -}}
+</span>
+{{- /* keep the trailing whitespace out */ -}}
