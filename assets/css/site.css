@@ -2724,7 +2724,10 @@ mark.todo {
   justify-content: center;
   text-align: center;
   padding: var(--gutter);
-  background: radial-gradient(ellipse at 50% 45%, #f7f6f1 0%, #eceade 70%, #e3e2d6 100%);
+  /* the same paper colours, as frosted glass: the meadow shows through, softly */
+  background: radial-gradient(ellipse at 50% 45%, rgba(247, 246, 241, 0.62) 0%, rgba(236, 234, 222, 0.55) 70%, rgba(227, 226, 214, 0.5) 100%);
+  -webkit-backdrop-filter: blur(22px) saturate(1.2);
+  backdrop-filter: blur(22px) saturate(1.2);
   color: var(--ink);
   pointer-events: none;
   animation: preloader-out 0.6s var(--ease) 1.85s forwards;
