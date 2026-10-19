@@ -3,6 +3,7 @@ title: "Why I won’t read a synastry behind someone’s back"
 description: "The question I’m asked most about synastry is whether the other person needs to know. They do — every time. Here’s why, what I ask before a couple reading, and what I suggest instead for a new crush or your own child."
 date: 2026-10-19
 categories: ["Synastry"]
+tags: ["synastry", "consent", "couples", "family"]
 glyph: "☌/☍"
 summary: "A synastry reads two people, so it needs two people who agreed. A birth chart is personal: reading one in secret means telling you things about someone they never chose to share. So I ask that the other person knows — for a colleague, that they agreed — and I’ll gently say no to a crush you met last week or to a child who isn’t an adult yet."
 ---

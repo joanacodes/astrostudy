@@ -859,6 +859,104 @@ function articleAnchors(root) {
 }
 
 /* ---------------------------------------------------------------------------------------------
+   The blog's search, category filters and sort, as on Maison Tarot. Every card is in the page
+   already: this only hides, shows and reorders them. While the search box is empty and unfocused, a
+   hint types itself in it, one example at a time. */
+
+let typeTimer = 0;
+function blogTools(root) {
+  clearTimeout(typeTimer);
+  const tools = root.querySelector('[data-post-tools]');
+  const grid = root.querySelector('[data-posts]');
+  if (!tools || !grid) return;
+  tools.hidden = false;
+  const cards = Array.from(grid.children);
+  const input = tools.querySelector('[data-post-search]');
+  const empty = root.querySelector('[data-posts-empty]');
+  const menu = tools.querySelector('[data-sort-menu]');
+  const opener = tools.querySelector('[data-sort-open]');
+  let cat = '';
+  let sort = 'new';
+  const norm = (t) => t.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+
+  const apply = () => {
+    const words = norm(input.value).split(/\s+/).filter(Boolean);
+    const key = { new: (c) => -c.dataset.date, old: (c) => +c.dataset.date, short: (c) => +c.dataset.min, long: (c) => -c.dataset.min }[sort];
+    const ordered = cards.slice().sort((a, b) => key(a) - key(b));
+    let shown = 0;
+    for (const c of ordered) {
+      const text = norm(c.dataset.text || '');
+      const ok = (!cat || (c.dataset.cat || '').split(' ').includes(cat)) && words.every((w) => text.includes(w));
+      c.hidden = !ok;
+      if (ok) shown++;
+      grid.append(c);
+    }
+    if (empty) empty.hidden = shown > 0;
+  };
+  const press = (group, btn) => {
+    for (const b of tools.querySelectorAll(group)) b.setAttribute('aria-pressed', String(b === btn));
+  };
+
+  input.addEventListener('input', apply);
+  tools.addEventListener('click', (e) => {
+    const c = e.target.closest('[data-cat]');
+    if (c) {
+      cat = c.dataset.cat;
+      press('[data-cat]', c);
+      apply();
+      return;
+    }
+    const s = e.target.closest('[data-sort]');
+    if (s) {
+      sort = s.dataset.sort;
+      press('[data-sort]', s);
+      apply();
+      menu.hidden = true;
+      opener.setAttribute('aria-expanded', 'false');
+      return;
+    }
+    if (e.target.closest('[data-sort-open]')) {
+      menu.hidden = !menu.hidden;
+      opener.setAttribute('aria-expanded', String(!menu.hidden));
+    }
+  });
+  document.addEventListener('click', (e) => {
+    if (menu.isConnected && !e.target.closest('.sort-wrap')) {
+      menu.hidden = true;
+      opener.setAttribute('aria-expanded', 'false');
+    }
+  });
+
+  const ghost = tools.querySelector('[data-type-text]');
+  const hints = (input.dataset.typeWords || '').split('|').filter(Boolean);
+  if (!ghost || !hints.length) return;
+  if (reduce.matches) {
+    ghost.textContent = hints[0];
+    return;
+  }
+  let h = 0;
+  let n = 0;
+  let back = false;
+  const step = () => {
+    if (!ghost.isConnected) return;
+    const word = hints[h];
+    n += back ? -1 : 1;
+    ghost.textContent = word.slice(0, n);
+    let wait = back ? 40 : 90;
+    if (!back && n >= word.length) {
+      back = true;
+      wait = 1600;
+    } else if (back && n <= 0) {
+      back = false;
+      h = (h + 1) % hints.length;
+      wait = 400;
+    }
+    typeTimer = setTimeout(step, wait);
+  };
+  step();
+}
+
+/* ---------------------------------------------------------------------------------------------
    Per page. */
 
 function initPage(root, settle = 0) {
@@ -866,6 +964,7 @@ function initPage(root, settle = 0) {
   else arrivals(root);
   initSky(root);
   articleAnchors(root);
+  blogTools(root);
   collectDrawings(root);
   faqs(root);
   for (const form of $$('[data-form]', root)) wireForm(form);

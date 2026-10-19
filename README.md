@@ -122,9 +122,9 @@ One **Menu** button in the bar opens, on a computer, a panel that slides down fr
 
 ## The blog
 
-`/blog/` and `/fr/blog/`, laid out like Maison Tarot’s: the latest article large, then the others as cards; an article has its date and short answer beside the title, then the anchor menu (“In this article”, which marks the section being read), the text, and an order panel. On a phone the anchor menu is a tab at the bottom left that slides up.
+`/blog/` and `/fr/blog/`, laid out like Maison Tarot’s: the latest article large, two featured ones (`featured: true`), then every article as a card with a search box (its typing hints are `blogSearchHints` in `i18n/`), the categories as filters and a sort menu; under each article, “You might also read” (same categories and tags) and the latest articles; an article has its date and short answer beside the title, then the anchor menu (“In this article”, which marks the section being read), the text, and an order panel. On a phone the anchor menu is a tab at the bottom left that slides up.
 
-A new article is a Markdown file in `content/en/blog/` (and its translation in `content/fr/blog/`, same file name, with a French `slug`). Front matter: `title`, `description`, `date`, `categories`, `summary` (the short answer), `glyph` (the sign on its cover until it has a picture) and optionally `image` (a path under `static/`). Give each `##` heading an anchor, e.g. `## We just met {#we-just-met}`: those make the anchor menu. The first article, on synastry and consent, is a sample in your voice: read it before it goes live.
+A new article is a Markdown file in `content/en/blog/` (and its translation in `content/fr/blog/`, same file name, with a French `slug`). Front matter: `title`, `description`, `date`, `categories`, `summary` (the short answer), `glyph` (the sign on its cover until it has a picture) and optionally `image` (a path under `static/`). Give each `##` heading an anchor, e.g. `## We just met {#we-just-met}`: those make the anchor menu. The five first articles are samples in your voice, built from what the site already says: read them before they go live.
 
 ## The preloader
 

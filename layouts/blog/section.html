@@ -1,11 +1,16 @@
 {{ define "main" }}
-{{- /* The blog, laid out as on Maison Tarot: the latest article large, its picture beside it, then the
-       others as cards. A post without a picture shows its sign on a patch of sky, as the menu does. */ -}}
+{{- /* The blog, laid out as on Maison Tarot: the latest article large, two featured ones under it,
+       then every article as a card, with a search box, the categories as filters and a sort menu
+       (site.js, blogTools). Without the script every card simply shows, newest first. A post without
+       a picture shows its sign on a patch of sky, as the menu does. */ -}}
 {{- $posts := .RegularPages.ByDate.Reverse -}}
+{{- $latest := index $posts 0 -}}
+{{- $featured := first 2 (where (where $posts "Params.featured" true) "Permalink" "ne" $latest.Permalink) -}}
+{{- $cats := slice }}{{ range $posts }}{{ range .Params.categories }}{{ $cats = $cats | append . }}{{ end }}{{ end }}{{ $cats = uniq $cats -}}
 <section class="paper blog-top">
   <div class="wrap">
     <p class="crumbs"><a href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a><span aria-hidden="true">›</span>{{ .Title }}</p>
-    {{- with index $posts 0 }}
+    {{- with $latest }}
     <div class="post-hero">
       <div>
         <p class="label">{{ i18n "blogLatest" }}</p>
@@ -20,13 +25,46 @@
     <h1>{{ .Title }}</h1>
     <p class="lede">{{ i18n "blogNone" }}</p>
     {{- end }}
-    {{- with after 1 $posts }}
-    <p class="label blog-more">{{ i18n "blogMore" }}</p>
-    <div class="post-grid">
-      {{- range . }}
-      <a class="post-card" href="{{ .RelPermalink }}" data-reveal>{{ partial "post-cover.html" . }}<span class="post-card__title">{{ .Title }}</span><span class="article-meta">{{ partial "post-meta.html" . }}</span><span class="post-card__desc">{{ .Description }}</span></a>
+
+    {{- with $featured }}
+    <div class="blog-featured">
+      <p class="label">{{ i18n "blogFeatured" }}</p>
+      <div class="post-featured-row">
+        {{- range . }}
+        <a class="post-featured" href="{{ .RelPermalink }}">{{ partial "post-cover.html" . }}<span><span class="post-card__title">{{ .Title }}</span><span class="post-card__desc">{{ .Description }}</span></span></a>
+        {{- end }}
+      </div>
+    </div>
+    {{- end }}
+
+    {{- if $posts }}
+    <div class="post-tools" data-post-tools hidden>
+      <label class="search-field">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input type="search" placeholder=" " data-post-search autocomplete="off" aria-label="{{ i18n "blogSearch" }}" data-type-words="{{ i18n "blogSearchHints" }}">
+        <span class="type-ghost" aria-hidden="true"><span data-type-text></span><i>|</i></span>
+      </label>
+      <div class="sort-wrap">
+        <button type="button" class="chip chip--icon" data-sort-open aria-expanded="false" aria-label="{{ i18n "blogSort" }}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 6h18M6 12h12M10 18h4"/></svg></button>
+        <div class="sort-menu" hidden data-sort-menu>
+          <p class="label">{{ i18n "blogSort" }}</p>
+          <button type="button" class="chip" data-sort="new" aria-pressed="true">{{ i18n "blogSortNew" }}</button>
+          <button type="button" class="chip" data-sort="old" aria-pressed="false">{{ i18n "blogSortOld" }}</button>
+          <button type="button" class="chip" data-sort="short" aria-pressed="false">{{ i18n "blogSortShort" }}</button>
+          <button type="button" class="chip" data-sort="long" aria-pressed="false">{{ i18n "blogSortLong" }}</button>
+        </div>
+      </div>
+      <div class="chips" role="group" aria-label="{{ i18n "blogCategories" }}">
+        <button type="button" class="chip" data-cat="" aria-pressed="true">{{ i18n "blogAll" }}</button>
+        {{- range $cats }}<button type="button" class="chip" data-cat="{{ . | urlize }}" aria-pressed="false">{{ . }}</button>{{ end }}
+      </div>
+    </div>
+    <div class="post-grid" data-posts>
+      {{- range $posts }}
+      <a class="post-card" href="{{ .RelPermalink }}" data-cat="{{ with .Params.categories }}{{ delimit (apply . "urlize" ".") " " }}{{ end }}" data-date="{{ .Date.Unix }}" data-min="{{ .ReadingTime }}" data-text="{{ lower (printf "%s %s %s %s" .Title .Description (delimit (.Params.tags | default slice) " ") (delimit (.Params.categories | default slice) " ")) }}">{{ partial "post-cover.html" . }}<span class="post-card__title">{{ .Title }}</span><span class="article-meta">{{ partial "post-meta.html" . }}</span><span class="post-card__desc">{{ .Description }}</span></a>
       {{- end }}
     </div>
+    <p class="blog-empty" data-posts-empty hidden>{{ i18n "blogNoMatch" }}</p>
     {{- end }}
   </div>
 </section>

@@ -4,6 +4,7 @@ slug: "synastrie-dans-son-dos"
 description: "La question qu’on me pose le plus sur la synastrie : l’autre personne doit-elle être au courant ? Oui — à chaque fois. Voici pourquoi, ce que je demande avant une lecture de couple, et ce que je propose à la place pour un coup de cœur récent ou pour votre enfant."
 date: 2026-10-19
 categories: ["Synastrie"]
+tags: ["synastrie", "consentement", "couples", "famille"]
 glyph: "☌/☍"
 summary: "Une synastrie lit deux personnes : il faut donc deux personnes d’accord. Un thème natal est intime : le lire en secret, c’est vous dire sur quelqu’un ce qu’il n’a jamais choisi de partager. Je demande donc que l’autre personne soit au courant — pour un collègue, qu’il ait accepté — et je dirai doucement non pour un coup de cœur de la semaine dernière ou pour un enfant pas encore majeur."
 ---

@@ -3264,3 +3264,208 @@ mark.todo {
   opacity: 0;
   pointer-events: none;
 }
+
+/* Blog: featured row, search, filters and sort (as on Maison Tarot), and what follows an article */
+.blog-featured {
+  margin-top: clamp(48px, 6vw, 80px);
+  padding-top: 18px;
+  border-top: 1px solid var(--line-2);
+}
+.post-featured-row {
+  display: grid;
+  gap: clamp(20px, 3vw, 36px);
+  margin-top: 16px;
+}
+@media (min-width: 760px) {
+  .post-featured-row {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+.post-featured {
+  display: grid;
+  grid-template-columns: minmax(110px, 0.8fr) minmax(0, 1.2fr);
+  gap: 18px;
+  align-items: center;
+  text-decoration: none;
+  color: var(--ink);
+}
+.post-featured > span {
+  display: grid;
+  gap: 6px;
+}
+.post-featured .post-card__title {
+  margin: 0;
+}
+.post-featured .post-cover__glyph {
+  font-size: 2.2rem;
+}
+.post-tools {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin: clamp(48px, 6vw, 80px) 0 28px;
+  padding-top: 18px;
+  border-top: 1px solid var(--line-2);
+}
+.search-field {
+  position: relative;
+  flex: 1 1 260px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 0 16px;
+  min-height: 44px;
+  border-radius: 999px;
+  border: 1px solid var(--field-line);
+  background: rgba(255, 255, 255, 0.4);
+  cursor: text;
+}
+.search-field svg {
+  width: 17px;
+  height: 17px;
+  flex: none;
+  color: var(--ink-2);
+}
+.search-field input {
+  flex: 1;
+  min-width: 0;
+  font: inherit;
+  font-size: 0.95rem;
+  color: var(--ink);
+  background: none;
+  border: 0;
+  outline: none;
+  padding: 10px 0;
+}
+.search-field:focus-within {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+/* a hint that types itself while the box is empty (site.js); the real placeholder stays empty */
+.type-ghost {
+  position: absolute;
+  left: 43px;
+  pointer-events: none;
+  font-size: 0.95rem;
+  color: var(--ink-3);
+}
+.type-ghost i {
+  font-style: normal;
+  animation: caret 1s steps(1) infinite;
+}
+@keyframes caret {
+  50% {
+    opacity: 0;
+  }
+}
+.search-field input:not(:placeholder-shown) + .type-ghost,
+.search-field:focus-within .type-ghost {
+  display: none;
+}
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  flex-basis: 100%;
+}
+.chip {
+  font: inherit;
+  font-size: 0.82rem;
+  padding: 8px 14px;
+  border-radius: 999px;
+  border: 1px solid var(--line-2);
+  background: rgba(255, 255, 255, 0.3);
+  color: var(--ink);
+  cursor: pointer;
+  transition: background-color 0.3s var(--ease), color 0.3s var(--ease), border-color 0.3s var(--ease);
+}
+.chip:hover {
+  border-color: var(--ink);
+}
+.chip[aria-pressed="true"] {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--paper);
+}
+.chip--icon {
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+}
+.chip--icon svg {
+  width: 18px;
+  height: 18px;
+}
+.sort-wrap {
+  position: relative;
+}
+.sort-menu {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 8px);
+  z-index: 5;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  width: 260px;
+  padding: 16px;
+  border-radius: 18px;
+  background: rgba(248, 247, 242, 0.96);
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  box-shadow: 0 24px 60px -24px rgba(18, 38, 18, 0.45);
+}
+.sort-menu .label {
+  flex-basis: 100%;
+  margin: 0;
+}
+.blog-empty {
+  color: var(--ink-2);
+  text-align: center;
+  margin: 32px 0 0;
+}
+.blog-after {
+  margin-top: clamp(56px, 7vw, 96px);
+  padding-top: 18px;
+  border-top: 1px solid var(--line-2);
+}
+.blog-after > .label {
+  margin: 0 0 18px;
+}
+.post-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.post-list li {
+  border-bottom: 1px solid var(--line);
+}
+.post-list a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  padding: 16px 0;
+  text-decoration: none;
+  color: var(--ink);
+}
+.post-list a > span:first-child {
+  display: grid;
+  gap: 4px;
+}
+.post-list__title {
+  font-family: var(--serif);
+  font-size: 1.2rem;
+  line-height: 1.25;
+}
+.post-list .article-meta {
+  margin: 0;
+}
+.post-list__arrow {
+  transition: transform 0.4s var(--ease-out);
+}
+.post-list a:hover .post-list__arrow {
+  transform: translateX(4px);
+}

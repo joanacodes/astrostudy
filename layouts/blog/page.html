@@ -40,6 +40,28 @@
         </div>
       </aside>
     </div>
+    {{- /* after the article, as on Maison Tarot: what's close to it, then the latest */}}
+    {{- $related := first 3 (where (site.RegularPages.Related .) "Section" "blog") }}
+    {{- with $related }}
+    <div class="blog-after">
+      <p class="label">{{ i18n "blogRelated" }}</p>
+      <div class="post-grid">
+        {{- range . }}
+        <a class="post-card" href="{{ .RelPermalink }}">{{ partial "post-cover.html" . }}<span class="post-card__title">{{ .Title }}</span><span class="article-meta">{{ partial "post-meta.html" . }}</span></a>
+        {{- end }}
+      </div>
+    </div>
+    {{- end }}
+    {{- with first 3 (where .Parent.RegularPages.ByDate.Reverse "Permalink" "ne" .Permalink) }}
+    <div class="blog-after">
+      <p class="label">{{ i18n "blogLatestList" }}</p>
+      <ul class="post-list">
+        {{- range . }}
+        <li><a href="{{ .RelPermalink }}"><span><span class="post-list__title">{{ .Title }}</span><span class="article-meta">{{ partial "post-meta.html" . }}</span></span><span class="post-list__arrow" aria-hidden="true">→</span></a></li>
+        {{- end }}
+      </ul>
+    </div>
+    {{- end }}
   </div>
 </article>
 {{- with .TableOfContents }}
