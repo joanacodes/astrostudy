@@ -842,7 +842,8 @@ if (preloader && !preloading) preloader.remove();
 preloader?.addEventListener('animationend', (e) => {
   if (e.target === preloader && e.animationName === 'preloader-out') preloader.remove();
 });
-initPage(document, preloading ? 1650 : 0);
+// the preloader lifts at 2.45s; the meadow then shows on its own for a second before the words come
+initPage(document, preloading ? 3400 : 0);
 const arrival = performance.getEntriesByType?.('navigation')[0]?.type;
 const savedY = typeof history.state?.y === 'number' ? history.state.y : null;
 if ((arrival === 'reload' || arrival === 'back_forward') && savedY != null) requestAnimationFrame(() => scrollTo(0, savedY));

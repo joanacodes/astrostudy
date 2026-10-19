@@ -12,7 +12,7 @@
       <a class="offer" href="{{ partial "url.html" .href }}" data-reveal style="--d:{{ mul $i 0.1 }}s">
         <span class="rule" style="--d:{{ mul $i 0.15 }}s"></span>
         <div class="offer__top"><span class="label">{{ .kicker }}</span>{{ if eq .mark "pair" }}{{ partial "mark-pair.html" . }}{{ else }}{{ partial "mark-wheel.html" . }}{{ end }}</div>
-        <h3>{{ partial "glyph.html" (cond (eq .mark "pair") "♀" "☉") }}{{ .title | safeHTML }}</h3>
+        <h3>{{ partial "glyph.html" (cond (eq .mark "pair") "☌" "☉") }}{{ .title | safeHTML }}</h3>
         <p>{{ .text }}</p>
         <span class="arrow-link">{{ .cta }} <span aria-hidden="true">→</span></span>
       </a>
