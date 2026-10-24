@@ -45,8 +45,8 @@ const WORDS = {
     statLabel: 'In my tests',
     challengeLabel: 'The Blind Chart Challenge',
     challengeTitle: 'Which one <em>is you?</em>',
-    challengeSub: 'Three anonymous readings. Only one was written for you.',
-    challengeChance: 'Chance: 1 in 3',
+    challengeSub: (n) => `${['Two', 'Three', 'Four', 'Five', 'Six'][n - 2]} anonymous readings. Only one was written for you.`,
+    challengeChance: (n) => `Chance: 1 in ${n}`,
     resultTitle: 'I picked <em>my chart</em>',
     blog: 'Blog',
     astrology: 'Astrology encyclopaedia',
@@ -57,8 +57,8 @@ const WORDS = {
     statLabel: 'Dans mes tests',
     challengeLabel: 'Le défi du thème à l’aveugle',
     challengeTitle: 'Laquelle <em>est la vôtre ?</em>',
-    challengeSub: 'Trois lectures anonymes. Une seule a été écrite pour vous.',
-    challengeChance: 'Au hasard : 1 sur 3',
+    challengeSub: (n) => `${['Deux', 'Trois', 'Quatre', 'Cinq', 'Six'][n - 2]} lectures anonymes. Une seule a été écrite pour vous.`,
+    challengeChance: (n) => `Au hasard : 1 sur ${n}`,
     resultTitle: 'J’ai trouvé <em>mon thème</em>',
     blog: 'Blog',
     astrology: 'Encyclopédie de l’astrologie',
@@ -473,7 +473,8 @@ function statCard(job, d) {
   };
 }
 
-// challenge — the Blind Chart Challenge: three readings, one is yours (or the result card)
+// challenge — the Blind Chart Challenge: three readings, one is yours (or the result card). `count`
+// (2 to 6) sets how many cards when no `choices` are given: the live calls use six, A to F.
 const CHALLENGE_CSS = `
 .stage{left:calc(var(--u)*64);right:calc(var(--u)*64);top:calc(var(--u)*80);bottom:calc(var(--u)*80);justify-content:center}
 .size-story .stage{top:calc(var(--u)*290);bottom:calc(var(--u)*360)}
@@ -485,6 +486,8 @@ const CHALLENGE_CSS = `
 .challenge .text{font-size:calc(var(--u)*34)}
 .is-land.challenge .text{font-size:22px}
 .choices{display:grid;grid-template-columns:repeat(3,1fr);gap:calc(var(--u)*22);margin-top:calc(var(--u)*6)}
+.is-land .choices--many{grid-template-columns:repeat(6,1fr);gap:14px}
+.is-land .choices--many .choice b{font-size:44px}
 .choice{display:flex;flex-direction:column;gap:calc(var(--u)*14);padding:calc(var(--u)*26) calc(var(--u)*24) calc(var(--u)*30);border-radius:calc(var(--u)*24);background:rgba(255,255,255,.5);border:1px solid rgba(255,255,255,.75);box-shadow:0 calc(var(--u)*14) calc(var(--u)*34) calc(var(--u)*-20) rgba(20,40,20,.35)}
 .is-land .choice{padding:16px 18px 18px;gap:9px;border-radius:16px}
 .choice b{font:italic 300 calc(var(--u)*92)/.9 var(--serif);color:var(--accent);letter-spacing:-.03em}
@@ -501,10 +504,11 @@ const CHALLENGE_CSS = `
 function challenge(job, d) {
   const w = words(job.lang);
   const isResult = job.variant === 'result';
-  const letters = ['A', 'B', 'C'];
+  const letters = ['A', 'B', 'C', 'D', 'E', 'F'];
   const picked = String(job.picked || '').toUpperCase();
-  const choices = (job.choices || letters.map((l) => ({ letter: l })))
-    .slice(0, 3)
+  const n = job.choices ? Math.min(job.choices.length, 6) : Math.min(Math.max(Number(job.count) || 3, 2), 6);
+  const choices = (job.choices || letters.slice(0, n).map((l) => ({ letter: l })))
+    .slice(0, n)
     .map((c, i) => {
       const letter = c.letter || letters[i];
       const inner = c.text ? `<p>${c.text}</p>` : '<i></i><i></i><i></i><i></i>';
@@ -516,10 +520,10 @@ function challenge(job, d) {
     ? `${mark}
     <h1 class="title" ${fit(36 * d.u)}>${job.title || w.resultTitle}</h1>
     ${job.result ? `<p class="text" ${fit(16 * d.u)}>${job.result}</p>` : ''}
-    ${job.showChoices === false ? '' : `<div class="choices">${choices}</div>`}`
+    ${job.showChoices === false ? '' : `<div class="choices${n > 3 ? ' choices--many' : ''}">${choices}</div>`}`
     : `<h1 class="title" ${fit(36 * d.u)}>${job.title || w.challengeTitle}</h1>
-    <p class="text" ${fit(16 * d.u)}>${job.subtitle || w.challengeSub}</p>
-    <div class="choices">${choices}</div>`;
+    <p class="text" ${fit(16 * d.u)}>${job.subtitle || w.challengeSub(n)}</p>
+    <div class="choices${n > 3 ? ' choices--many' : ''}">${choices}</div>`;
   return {
     cls: 'challenge',
     css: CHALLENGE_CSS,
@@ -527,7 +531,7 @@ function challenge(job, d) {
   <div class="card__in" data-fit-box>
     <p class="label">${job.label || w.challengeLabel}</p>
     ${body}
-    <div class="foot">${wordmark()}<span class="chance">${job.chance || w.challengeChance}</span></div>
+    <div class="foot">${wordmark()}<span class="chance">${job.chance || w.challengeChance(n)}</span></div>
   </div>
 </div></div>`,
   };
@@ -673,6 +677,34 @@ async function siteJobs() {
           });
         }
       }
+    }
+    // Any other page can ask for its own link preview, in any template, by naming it in its front
+    // matter: shareTemplate, then shareLabel, shareTitle, shareText, shareCount and shareChance for its
+    // words (top-level keys: nested blocks are beyond this reader). Without one, the page keeps the
+    // site's picture. The words are the page author's, so <em> and the lit words work as in a job file.
+    for (const file of await walk(path.join(CONTENT, lang))) {
+      const rel = path.relative(path.join(CONTENT, lang), file).split(path.sep);
+      if (['blog', 'astrology'].includes(rel[0]) || path.basename(file).startsWith('_index')) continue;
+      const fm = frontMatter(await readFile(file, 'utf8'));
+      if (!fm.shareTemplate || fm.draft === true) continue;
+      const isBundle = path.basename(file) === 'index.md';
+      const base = isBundle ? path.basename(path.dirname(file)) : path.basename(file, '.md');
+      const relDir = path.relative(path.join(CONTENT, lang), path.dirname(file));
+      jobs.push({
+        lang,
+        name: base,
+        template: fm.shareTemplate,
+        size: 'og',
+        format: 'jpeg',
+        label: fm.shareLabel || esc(fm.title || base),
+        title: fm.shareTitle || esc(fm.title || base),
+        subtitle: fm.shareText,
+        text: fm.shareText,
+        count: fm.shareCount,
+        chance: fm.shareChance,
+        source: file,
+        file: path.join(ROOT, 'static', 'og', lang, relDir, `${base}.jpg`),
+      });
     }
   }
   return jobs;

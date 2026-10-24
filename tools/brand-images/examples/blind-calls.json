@@ -1,0 +1,24 @@
+[
+  {
+    "name": "blind-calls-announce",
+    "template": "challenge",
+    "size": "post",
+    "lang": "en",
+    "count": 6,
+    "label": "The blind chart calls",
+    "title": "Six charts. <em>One is yours.</em>",
+    "subtitle": "Two free Zoom calls · Friday 30 and Saturday 31 October · 8pm Paris, 7pm UK, 3pm New York"
+  },
+  {
+    "name": "blind-calls-result",
+    "template": "challenge",
+    "variant": "result",
+    "size": "post",
+    "lang": "en",
+    "count": 6,
+    "label": "The blind chart calls",
+    "title": "<em>N</em> of 6 picked their own",
+    "result": "Friday’s call. Chance alone would give one.",
+    "showChoices": false
+  }
+]

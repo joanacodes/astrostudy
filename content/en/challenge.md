@@ -6,6 +6,12 @@ type: event
 eyebrow: "Free · on Zoom · in English · 18+"
 h1: "Six charts. <em>One of them is yours.</em>"
 lede: "I draw six birth charts and write each one as a portrait in plain words: no signs, no planets, no dates. Then you pick the one you think is yours. Chance alone gets one person in six right. Let’s see what the charts add."
+# The page's link preview (drawn at deploy by tools/brand-images): six cards, A to F.
+shareTemplate: "challenge"
+shareLabel: "The blind chart calls"
+shareTitle: "Six charts. <em>One is yours.</em>"
+shareText: "Free on Zoom · Friday 30 and Saturday 31 October · 8pm Paris, 7pm UK, 3pm New York"
+shareCount: 6
 
 # The calls. Times are written once, in Paris time with its offset; every other city's clock is worked
 # out from them. Paste each Zoom registration link into "zoom" (empty = "registration opens very soon"),

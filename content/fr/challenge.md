@@ -7,6 +7,12 @@ type: event
 eyebrow: "Gratuit · sur Zoom · en anglais · 18 ans et plus"
 h1: "Six thèmes. <em>L’un d’eux est le vôtre.</em>"
 lede: "Je dresse six thèmes natals et j’écris chacun comme un portrait, avec des mots simples : sans signes, sans planètes, sans dates. Puis vous choisissez celui que vous pensez être le vôtre. Le hasard seul donne une bonne réponse sur six. Voyons ce que les thèmes y ajoutent."
+# L’aperçu de la page quand on partage son lien (dessiné au déploiement par tools/brand-images).
+shareTemplate: "challenge"
+shareLabel: "Le défi du thème à l’aveugle"
+shareTitle: "Six thèmes. <em>L’un est le vôtre.</em>"
+shareText: "Gratuit sur Zoom, en anglais · vendredi 30 et samedi 31 octobre · 20 h, heure de Paris"
+shareCount: 6
 
 # Les appels. Les heures sont écrites une fois, à l’heure de Paris avec son décalage ; l’heure des autres
 # villes en est déduite. Collez le lien d’inscription Zoom de chaque appel dans « zoom » (vide = « les

@@ -61,8 +61,8 @@ sun word), `<span class="redword">…</span>` (the red word), and French spaces 
 - **stat** — one number: `number` (e.g. `"75–90%"`), `text`, `note`, `label` (default "In my
   tests"), `numberStyle` (`"sun"` default, `"red"` or `"plain"`). Defaults to `post`.
 - **challenge** — the Blind Chart Challenge: by default "Which one is you?" with three cards A, B,
-  C; `title`, `subtitle`, `choices` (`[{ "letter": "A", "text": "…" }, …]` to show real excerpts),
-  `chance`. With `"variant": "result"`: "I picked my chart", `result` (a line), `picked` (`"B"`
+  C; `count` (2 to 6: the live calls use six, A to F, and the built-in words follow it), `title`,
+  `subtitle`, `choices` (`[{ "letter": "A", "text": "…" }, …]` to show real excerpts), `chance`. With `"variant": "result"`: "I picked my chart", `result` (a line), `picked` (`"B"`
   frames that card). Defaults to `post`.
 - **carousel** — `slides`: a list of `{ label?, title, text?, glyph? }`. The first slide is a
   cover (with "Swipe →"), the middle ones a symbol on the sky and a few lines (or the zodiac ring
@@ -79,6 +79,11 @@ astrology encyclopaedia, `content/<lang>/astrology/`), from the article's front 
 
 - a link preview, 1200×630: `static/og/<lang>/<section>/<file name>.jpg`
 - a Pinterest pin, 1000×1500: `static/pin/<lang>/<section>/<file name>.jpg`
+
+Any other page can have its own link preview too, in any template, by naming it in its front matter:
+`shareTemplate` (e.g. `"challenge"`), then `shareLabel`, `shareTitle`, `shareText`, `shareCount`,
+`shareChance` for its words. The blind chart calls page (`content/en/challenge.md`) does this: its
+preview is six cards, A to F, at `static/og/en/challenge.jpg`.
 
 `<file name>` is the article's Markdown file name, even when the page has a French `slug`:
 `content/fr/blog/unknown-birth-time.md` → `static/og/fr/blog/unknown-birth-time.jpg`. Articles in
