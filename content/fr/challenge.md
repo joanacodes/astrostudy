@@ -52,7 +52,7 @@ steps:
     - title: "Vous choisissez, en privé"
       text: "Vous m’envoyez une lettre dans le chat privé : le portrait que vous pensez être le vôtre. Personne ne voit le choix des autres."
     - title: "J’ouvre l’enveloppe"
-      text: "Et je dis à chacun, en privé, quelle lettre était la sienne. Vous pouvez le dire à voix haute si vous le souhaitez. Personne n’y est obligé."
+      text: "Devant la caméra, et je dis à chacun, en privé, quelle lettre était la sienne. Gardez votre lettre pour vous pendant l’appel : si cinq personnes disaient la leur, on connaîtrait celle de la sixième."
 
 window: "Le hasard seul donne une bonne réponse sur six. <em>Voyons ce que les thèmes y ajoutent.</em>"
 
@@ -71,7 +71,7 @@ care:
     - title: "Un soir chacun"
       text: "Si vous connaissez quelqu’un dans le même appel, vous pourriez reconnaître son portrait. Entre amis : inscrivez-vous à des soirs différents."
     - title: "Vous pouvez changer d’avis"
-      text: "Annulez depuis l’email de confirmation de Zoom, pour libérer la place, et demandez-moi de supprimer vos données quand vous le souhaitez."
+      text: "Annulez depuis l’email de confirmation de Zoom (avant la clôture des inscriptions, quelqu’un d’autre pourra prendre votre place), et demandez-moi de supprimer vos données quand vous le souhaitez."
 
 faq:
   - q: "Dois-je connaître mon heure de naissance ?"
@@ -79,13 +79,13 @@ faq:
   - q: "Pourquoi en anglais ?"
     a: "Pour que les six personnes de chaque appel entendent les mêmes portraits, dans les mêmes mots. Ils sont lus à voix haute et affichés à l’écran : un anglais simple suffit."
   - q: "Les autres verront-ils ma date de naissance ?"
-    a: "Non. Ils ne voient que les six portraits, chacun avec une lettre, et personne ne sait qui est qui, sauf à choisir de le dire."
+    a: "Non. Ils ne voient que les six portraits, chacun avec une lettre, et les lettres ne se disent pas pendant l’appel : personne ne sait qui est qui."
   - q: "Et si je me trompe ?"
     a: "Vous faites partie du décompte, comme tout le monde. Un mauvais choix m’en apprend autant qu’un bon : c’est à ça que sert un test."
   - q: "Est-ce une lecture ?"
     a: "Non. Un portrait tient en quelques lignes, écrites pour être distinguées de cinq autres. Une [lecture de thème natal](/birth-chart/) parcourt tout votre thème, placement par placement, en s’attardant là où c’est le plus important."
   - q: "Que ferez-vous des résultats ?"
-    a: "Je publierai le décompte de chaque appel, et un compte rendu sur [le blog](/blog/) : ce qui a tenu, ce qui n’a pas tenu, et ce que je changerais. Vous aurez le décompte, pas un best-of."
+    a: "Je publierai le décompte de chaque appel, et un compte rendu sur [le blog](/blog/) : ce qui a tenu, ce qui n’a pas tenu, et ce que je changerais. Par le seul hasard, quatre bonnes réponses ou plus sur douze arrivent environ une fois sur huit, et cinq ou plus moins d’une fois sur vingt-cinq : c’est donc cinq, la barre que je fixe avant les appels. Vous aurez le décompte, pas un best-of."
   - q: "Ces horaires ne me conviennent pas."
     a: "D’autres appels, à des heures de soirée américaines, arrivent en novembre. [Écrivez-moi](/contact/) et je vous préviendrai de leur ouverture."
 
@@ -99,7 +99,7 @@ closing:
 
 En 1948, un psychologue, Bertram Forer, a remis à chacun de ses étudiants un profil de personnalité « écrit pour lui ». Ils l’ont jugé exact à 4,26 sur 5. Tous avaient reçu le même texte, tiré pour l’essentiel d’un livre d’astrologie. On l’appelle aujourd’hui l’[effet Barnum](https://fr.wikipedia.org/wiki/Effet_Barnum).
 
-C’est le piège de toute lecture qu’on vous tend avec votre nom dessus : bien sûr qu’elle vous ressemble. Alors je ne vous tendrai pas la vôtre. Je vous en tendrai six, et vous choisirez.
+C’est le point faible de toute lecture qu’on vous tend avec votre nom dessus, les miennes comprises : difficile de distinguer une lecture juste d’une lecture flatteuse. Alors, pendant ces appels, je ne vous tendrai pas la vôtre. Je vous en tendrai six, et vous choisirez.
 
 ## Pourquoi je le fais {glyph="♄"}
 

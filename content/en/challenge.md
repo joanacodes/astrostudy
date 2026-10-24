@@ -52,7 +52,7 @@ steps:
     - title: "You pick, privately"
       text: "You send me one letter in the private chat: the portrait you think is yours. Nobody sees anyone else’s pick."
     - title: "I open the envelope"
-      text: "And tell each of you, privately, which letter was yours. You can say it out loud if you like. Nobody has to."
+      text: "On camera, and tell each of you, privately, which letter was yours. Please keep your letter off the call: if five people said theirs, the sixth would be known."
 
 window: "Chance alone gets one in six right. <em>Let’s see what the charts add.</em>"
 
@@ -71,19 +71,19 @@ care:
     - title: "Come alone"
       text: "If you know someone on the same call, you might recognise their portrait. Friends: book different nights."
     - title: "You can change your mind"
-      text: "Cancel from your Zoom confirmation email, so someone else gets the place, and ask me to delete your details at any time."
+      text: "Cancel from your Zoom confirmation email (before registration closes, someone else can take your place), and ask me to delete your details at any time."
 
 faq:
   - q: "Do I need to know my birth time?"
     a: "Yes, for this test. Without it there are no houses, and your portrait would stand out from the other five. [Here’s where to find it](/blog/unknown-birth-time/), country by country."
   - q: "Will the others see my birth date?"
-    a: "No. They only see the six portraits, each with a letter, and nobody learns whose is whose unless they choose to say."
+    a: "No. They only see the six portraits, each with a letter, and letters stay off the call, so nobody learns whose is whose."
   - q: "What if I pick the wrong one?"
     a: "Then you’re part of the count, like everyone else. A wrong pick tells me as much as a right one: that’s what a test is for."
   - q: "Is it a reading?"
     a: "No. A portrait is a few lines, written to be told apart from five others. A [birth chart reading](/birth-chart/) goes through your whole chart, placement by placement, with the most time where it matters most."
   - q: "What will you do with the results?"
-    a: "Post the count for each call, and write it up on [the blog](/blog/): what held, what didn’t, and what I’d change. You’ll get the count, not a highlight reel."
+    a: "Post the count for each call, and write it up on [the blog](/blog/): what held, what didn’t, and what I’d change. By luck alone, four or more right out of twelve happens about one time in eight, and five or more under one time in twenty-five, so five is the bar I set before the calls. You’ll get the count, not a highlight reel."
   - q: "I can’t make these times."
     a: "More calls at US-evening times are coming in November. [Write to me](/contact/) and I’ll tell you when they open."
 
@@ -97,7 +97,7 @@ closing:
 
 In 1948 a psychologist, Bertram Forer, gave each of his students a personality profile “written just for them”. They rated it 4.26 out of 5 for accuracy. Every student had the same text, taken mostly from an astrology book. It’s known today as the [Barnum effect](https://en.wikipedia.org/wiki/Barnum_effect).
 
-That’s the trap with any reading handed to you with your name on it: of course it fits. So I won’t hand you yours. I’ll hand you six, and you pick.
+That’s the weak spot of any reading handed to you with your name on it, mine included: it’s hard to tell a good fit from a flattering one. So on these calls I won’t hand you yours. I’ll hand you six, and you pick.
 
 ## Why I’m doing it {glyph="♄"}
 
