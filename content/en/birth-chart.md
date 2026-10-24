@@ -11,7 +11,7 @@ ctaLabel: "Order this reading"
 facts:
   - { k: "For", v: "Adults, 18+" }
   - { k: "I need", v: "Date and place of birth — and the time, if you know it" }
-  - { k: "You receive", v: "A private online reading within a week — notes, highlights, PDF", param: "format" }
+  - { k: "You receive", v: "Within a week, by email: a private online reading (notes, highlights) and its PDF", param: "format" }
   - { k: "Options", v: "Full reading, or full reading + consulting" }
   - { k: "Price", v: "", param: "priceBirthChart" }
 
@@ -50,7 +50,7 @@ steps:
     - title: "Your reading is prepared"
       text: "With a system I built myself, from the method I tested on my own chart — and I read it before it’s sent."
     - title: "You receive it within a week"
-      text: "In plain words, in a private online space: leave notes, highlight what matters, download it as a PDF. No need to write to me — but you can, before or after."
+      text: "In plain words, sent by email to a private online space: leave notes, highlight what matters, download it as a PDF. No need to write to me — but you can, before or after."
 
 care:
   label: "What it isn’t"

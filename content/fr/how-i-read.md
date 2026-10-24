@@ -41,7 +41,7 @@ C’est un carnet, pas une étude : un comptage à la main, par moi, surtout su
 
 ## Comment une lecture est préparée {glyph="♃"}
 
-Chaque lecture est préparée avec un système que j’ai construit moi-même, à partir de la méthode décrite sur cette page — et je la lis avant qu’elle vous soit envoyée. Elle vous arrive sous une semaine, dans un espace privé en ligne où vous pouvez laisser des notes, surligner ce qui compte et la télécharger en PDF.
+Chaque lecture est préparée avec un système que j’ai construit moi-même, à partir de la méthode décrite sur cette page — et je la lis avant qu’elle vous soit envoyée. Elle vous arrive sous une semaine par e-mail, dans un espace privé en ligne où vous pouvez laisser des notes, surligner ce qui compte et la télécharger en PDF.
 
 ## Ce que je refuse de lire {glyph="⚸"}
 

@@ -38,7 +38,7 @@ steps:
     - title: "Les deux thèmes, puis l’espace entre eux"
       text: "D’abord chaque thème séparément, puis la façon dont ils se rencontrent — une lecture préparée avec un système que j’ai construit moi-même, et lue par moi avant d’être envoyée."
     - title: "Vous la recevez sous une semaine"
-      text: "Avec des mots simples, sur vous deux et jamais contre personne — dans un espace privé en ligne, à annoter et à télécharger en PDF."
+      text: "Avec des mots simples, sur vous deux et jamais contre personne — envoyée par e-mail dans un espace privé en ligne, à annoter, et en PDF."
 
 care:
   label: "Soin et consentement"

@@ -14,7 +14,7 @@ lede: "For the friendships that shape you — the one you call first, the one yo
 facts:
   - { k: "For", v: "Two adults, 18+" }
   - { k: "I need", v: "Both birth dates and places — times if you know them" }
-  - { k: "You receive", v: "A private online reading about your friendship, within a week", param: "format" }
+  - { k: "You receive", v: "A private online reading about your friendship, within a week, by email and as a PDF", param: "format" }
   - { k: "Options", v: "Full reading, or full reading + consulting" }
   - { k: "Price", v: "", param: "priceSynastry" }
 

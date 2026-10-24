@@ -38,7 +38,7 @@ steps:
     - title: "Both charts, then the space between them"
       text: "Each chart on its own first, then how they meet — prepared with a system I built myself, and read by me before it’s sent."
     - title: "You receive it within a week"
-      text: "In plain words, about both of you and never against either of you — in a private online space you can annotate and download as a PDF."
+      text: "In plain words, about both of you and never against either of you — sent by email to a private online space you can annotate, and as a PDF."
 
 care:
   label: "Care and consent"

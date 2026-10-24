@@ -12,7 +12,7 @@ ctaLabel: "Commander cette lecture"
 facts:
   - { k: "Pour", v: "Les adultes, 18 ans et plus" }
   - { k: "Il me faut", v: "Votre date et votre lieu de naissance — et l’heure, si vous la connaissez" }
-  - { k: "Vous recevez", v: "Une lecture privée, en ligne, sous une semaine — notes, surlignage, PDF", param: "format" }
+  - { k: "Vous recevez", v: "Sous une semaine, par e-mail : une lecture privée en ligne (notes, surlignage) et son PDF", param: "format" }
   - { k: "Formules", v: "Lecture complète, ou lecture complète + consultation" }
   - { k: "Tarif", v: "", param: "priceBirthChart" }
 
@@ -51,7 +51,7 @@ steps:
     - title: "Votre lecture est préparée"
       text: "Avec un système que j’ai construit moi-même, à partir de la méthode testée sur mon propre thème — et je la lis avant qu’elle vous soit envoyée."
     - title: "Vous la recevez sous une semaine"
-      text: "Avec des mots simples, dans un espace privé en ligne : laissez des notes, surlignez ce qui compte, téléchargez-la en PDF. Pas besoin de m’écrire — mais vous pouvez, avant comme après."
+      text: "Avec des mots simples, envoyée par e-mail dans un espace privé en ligne : laissez des notes, surlignez ce qui compte, téléchargez-la en PDF. Pas besoin de m’écrire — mais vous pouvez, avant comme après."
 
 care:
   label: "Ce qu’elle n’est pas"

@@ -1,0 +1,294 @@
+<title>Astro Study page plan</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,350;0,9..144,500;1,9..144,350&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400&display=swap">
+<style>
+  /* An index card drawer for the encyclopaedia: the site's paper, ink and terracotta, a field guide's
+     tree on the left of every row (family, group, page), and each page's card opening in place. */
+  :root {
+    --paper: #f3f1ea;
+    --card: #fbfaf6;
+    --ink: #1c211b;
+    --ink-2: #4b5249;
+    --line: rgba(28, 33, 27, 0.13);
+    --accent: #b5512c;
+    --accent-soft: rgba(181, 81, 44, 0.1);
+    --leaf: #50683c;
+    --leaf-soft: rgba(80, 104, 60, 0.12);
+    --t1: #b5512c;
+    --t2: #6f7f9c;
+    --t3: #8d8f86;
+    --display: "Fraunces", "Iowan Old Style", Palatino, Georgia, serif;
+    --body: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    --mono: "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper: #141713; --card: #1b1f1a; --ink: #ecebe3; --ink-2: #b4b8ad; --line: rgba(236, 235, 227, 0.14);
+      --accent: #e0825a; --accent-soft: rgba(224, 130, 90, 0.14); --leaf: #a3bd86; --leaf-soft: rgba(163, 189, 134, 0.14);
+      --t1: #e0825a; --t2: #9fb0cf; --t3: #a3a59b; color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper: #141713; --card: #1b1f1a; --ink: #ecebe3; --ink-2: #b4b8ad; --line: rgba(236, 235, 227, 0.14);
+    --accent: #e0825a; --accent-soft: rgba(224, 130, 90, 0.14); --leaf: #a3bd86; --leaf-soft: rgba(163, 189, 134, 0.14);
+    --t1: #e0825a; --t2: #9fb0cf; --t3: #a3a59b; color-scheme: dark;
+  }
+  body { background: var(--paper); color: var(--ink); font-family: var(--body); font-size: 15px; line-height: 1.5; }
+  .wrap { max-width: 1080px; margin: 0 auto; padding-block: 40px 80px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); display: grid; gap: 36px; }
+  .eyebrow { font-size: 12px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-2); margin: 0; }
+  h1 { font-family: var(--display); font-weight: 350; font-size: clamp(2.2rem, 1.6rem + 2.6vw, 3.6rem); line-height: 1.05; margin: 6px 0 12px; text-wrap: balance; }
+  h1 em { font-style: italic; color: var(--accent); }
+  h2 { font-family: var(--display); font-weight: 500; font-size: 1.35rem; margin: 0; text-wrap: balance; }
+  .lede { max-width: 62ch; color: var(--ink-2); margin: 0; font-size: 1.02rem; }
+  .tiers { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+  .tier { border-top: 3px solid var(--c); padding: 12px 2px 0; display: grid; gap: 2px; }
+  .tier b { font-family: var(--display); font-weight: 500; font-size: 2rem; font-variant-numeric: tabular-nums; line-height: 1.1; }
+  .tier span { color: var(--ink-2); font-size: 13px; }
+  .bar { display: flex; height: 6px; border-radius: 3px; overflow: hidden; background: var(--line); }
+  .bar i { display: block; background: var(--c); }
+  .batches { display: grid; gap: 10px; }
+  .batches ol { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr)); gap: 8px; }
+  .batch { width: 100%; text-align: left; font: inherit; color: inherit; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; display: grid; grid-template-columns: 30px minmax(0, 1fr) auto; gap: 10px; align-items: start; cursor: pointer; }
+  .batch:hover { border-color: var(--accent); }
+  .batch[aria-pressed="true"] { border-color: var(--accent); background: var(--accent-soft); }
+  .batch .n { font-family: var(--display); font-size: 1.4rem; line-height: 1; color: var(--accent); }
+  .batch .count { font-variant-numeric: tabular-nums; color: var(--ink-2); font-size: 13px; }
+  .controls { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--paper); padding: 10px 0; border-bottom: 1px solid var(--line); display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+  body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--paper); }
+  .search { flex: 1 1 260px; min-width: 0; font: inherit; color: inherit; background: var(--card); border: 1px solid var(--line); border-radius: 999px; padding: 9px 16px; }
+  .search:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; overflow: hidden; background: var(--card); }
+  .seg button { font: inherit; font-size: 13px; color: var(--ink-2); background: none; border: 0; padding: 8px 12px; cursor: pointer; }
+  .seg button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+  .clear { font: inherit; font-size: 13px; background: none; border: 0; color: var(--accent); cursor: pointer; text-decoration: underline; padding: 8px 4px; }
+  .status { color: var(--ink-2); font-size: 13px; margin: 0; }
+  .family { display: grid; gap: 6px; padding-top: 18px; border-top: 1px solid var(--line); }
+  .family-head { display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: baseline; justify-content: space-between; }
+  .family-head .count { color: var(--ink-2); font-size: 13px; font-variant-numeric: tabular-nums; }
+  details.group { border-radius: 8px; }
+  details.group > summary { list-style: none; cursor: pointer; display: grid; grid-template-columns: 16px minmax(0, 1fr) auto; gap: 8px; align-items: baseline; padding: 8px 6px; border-radius: 8px; }
+  details.group > summary::-webkit-details-marker { display: none; }
+  details.group > summary::before { content: "›"; color: var(--accent); transition: transform 0.2s; display: inline-block; }
+  details.group[open] > summary::before { transform: rotate(90deg); }
+  details.group > summary:hover { background: var(--accent-soft); }
+  .gname { font-weight: 500; }
+  .gname small { font-weight: 400; color: var(--ink-2); margin-left: 6px; }
+  .mix { display: inline-flex; gap: 4px; font-size: 12px; font-variant-numeric: tabular-nums; color: var(--ink-2); }
+  .rows { list-style: none; margin: 0 0 8px 22px; padding: 0 0 0 12px; border-left: 1px solid var(--line); display: grid; }
+  .row { display: grid; }
+  .row > button { width: 100%; font: inherit; color: inherit; text-align: left; background: none; border: 0; border-radius: 6px; padding: 7px 8px; cursor: pointer; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 4px 12px; align-items: baseline; }
+  .row > button:hover, .row.open > button { background: var(--card); }
+  .row.flash > button { background: var(--accent-soft); }
+  .title { overflow-wrap: anywhere; }
+  .addr { grid-column: 1; font-family: var(--mono); font-size: 12px; color: var(--ink-2); overflow-wrap: anywhere; }
+  .pills { grid-column: 2; grid-row: 1 / span 2; display: inline-flex; gap: 4px; align-items: center; flex-wrap: wrap; justify-content: flex-end; }
+  .pill { font-size: 11px; letter-spacing: 0.04em; border-radius: 999px; padding: 1px 8px; border: 1px solid currentColor; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .pill.t1 { color: var(--t1); } .pill.t2 { color: var(--t2); } .pill.t3 { color: var(--t3); }
+  .pill.done { color: var(--leaf); background: var(--leaf-soft); border-color: transparent; }
+  .pill.batch-pill { color: var(--ink-2); }
+  .card { margin: 2px 0 10px 8px; padding: 14px 16px; background: var(--card); border: 1px solid var(--line); border-radius: 10px; display: grid; gap: 14px; }
+  .langs { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+  .langs div { min-width: 0; display: grid; gap: 2px; }
+  .label { font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-2); }
+  .card ol { margin: 0; padding-left: 20px; display: grid; gap: 2px; }
+  .links { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+  .chip { font: inherit; font-size: 13px; color: var(--ink); background: var(--paper); border: 1px solid var(--line); border-radius: 999px; padding: 3px 10px; cursor: pointer; }
+  .chip:hover { border-color: var(--accent); color: var(--accent); }
+  .chip.hub { cursor: default; color: var(--ink-2); }
+  .flat { list-style: none; margin: 0; padding: 0; display: grid; }
+  .crumb { font-size: 12px; color: var(--ink-2); }
+  .more { color: var(--ink-2); font-size: 13px; padding: 10px 8px; }
+  footer { color: var(--ink-2); font-size: 13px; border-top: 1px solid var(--line); padding-top: 16px; max-width: 70ch; }
+  @media (max-width: 560px) {
+    .controls { position: static; }
+    .tiers { grid-template-columns: 1fr; }
+    .langs { grid-template-columns: 1fr; }
+    .rows { margin-left: 8px; }
+    .row > button { grid-template-columns: minmax(0, 1fr); }
+    .pills { grid-column: 1; grid-row: auto; justify-content: flex-start; }
+  }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <p class="eyebrow">The Astro Study · the encyclopaedia</p>
+    <h1>The page plan, <em>every page before it is written</em></h1>
+    <p class="lede" id="lede"></p>
+  </header>
+
+  <section class="tiers" id="tiers" aria-label="Pages by tier"></section>
+
+  <section class="batches" aria-labelledby="batches-title">
+    <h2 id="batches-title">Tier 1, in the order it is written</h2>
+    <ol id="batches"></ol>
+  </section>
+
+  <section style="display:grid;gap:12px">
+    <div class="controls">
+      <input class="search" id="q" type="search" placeholder="Search titles and addresses" aria-label="Search the plan" autocomplete="off">
+      <div class="seg" role="group" aria-label="Tier" id="tierSeg">
+        <button type="button" data-tier="0" aria-pressed="true">All tiers</button><button type="button" data-tier="1" aria-pressed="false">T1</button><button type="button" data-tier="2" aria-pressed="false">T2</button><button type="button" data-tier="3" aria-pressed="false">T3</button>
+      </div>
+      <div class="seg" role="group" aria-label="Language" id="langSeg">
+        <button type="button" data-lang="en" aria-pressed="true">English</button><button type="button" data-lang="fr" aria-pressed="false">Français</button>
+      </div>
+      <button type="button" class="clear" id="clear" hidden>Clear</button>
+    </div>
+    <p class="status" id="status" aria-live="polite"></p>
+    <div id="view"></div>
+  </section>
+
+  <footer id="foot"></footer>
+</div>
+
+<script id="data" type="application/json">/*DATA*/</script>
+<script>
+(() => {
+  const D = JSON.parse(document.getElementById('data').textContent);
+  const fams = D.families, groups = D.groups, kinds = D.kinds;
+  const rows = D.rows.map((r, i) => ({ i, id: r[0], fam: r[1], grp: r[2], kind: r[3], tier: r[4], batch: r[5], done: r[6] === 1,
+    en: r[7], fr: r[8], path: r[9], pathFr: r[10], up: r[11] ? r[11].split(' ') : [], across: r[12] ? r[12].split(' ') : [] }));
+  const byId = new Map(rows.map((r) => [r.id, r]));
+  const st = { q: '', tier: 0, batch: 0, lang: 'en', open: new Set() };
+  try { const l = localStorage.getItem('plan-lang'); if (l === 'fr' || l === 'en') st.lang = l; } catch (e) {}
+  const $ = (id) => document.getElementById(id);
+  const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const fmt = (n) => n.toLocaleString('en-GB');
+  const title = (r) => (st.lang === 'fr' ? r.fr : r.en);
+  const addr = (r) => (st.lang === 'fr' ? r.pathFr : r.path);
+  const tierName = { 1: 'the core, written first', 2: 'depth', 3: 'the long tail' };
+  const tiers = [1, 2, 3].map((t) => rows.filter((r) => r.tier === t).length);
+  const done = rows.filter((r) => r.done).length;
+
+  $('lede').textContent = `Every page the encyclopaedia will have, in English and French: ${fmt(rows.length)} per language, ${done} already published. Each page’s address, headings and links are fixed here before it is written, so nothing changes once it is live. Tier 1 is written first, in six batches.`;
+  $('tiers').innerHTML = [1, 2, 3].map((t) => `<div class="tier" style="--c:var(--t${t})"><b>${fmt(tiers[t - 1])}</b><span>Tier ${t}: ${tierName[t]}</span></div>`).join('') +
+    `<div class="bar" style="grid-column:1/-1" aria-hidden="true">${[1, 2, 3].map((t) => `<i style="--c:var(--t${t});width:${(100 * tiers[t - 1] / rows.length).toFixed(2)}%"></i>`).join('')}</div>`;
+  $('batches').innerHTML = D.batches.map((name, k) => {
+    const n = rows.filter((r) => r.batch === k + 1).length;
+    return `<li><button type="button" class="batch" data-batch="${k + 1}" aria-pressed="false"><span class="n">${k + 1}</span><span>${esc(name)}</span><span class="count">${fmt(n)} pages</span></button></li>`;
+  }).join('');
+  $('foot').textContent = `Built ${D.built} from the master list (the “Astrology bible — master list” tab of the growth plan) by tools/plan/build-plan.mjs. Published: ${rows.filter((r) => r.done).map((r) => r.en).join(', ')}.`;
+
+  const pills = (r) => `${r.done ? '<span class="pill done">Published</span>' : ''}${r.batch > 0 ? `<span class="pill batch-pill">Batch ${r.batch}</span>` : ''}<span class="pill t${r.tier}">T${r.tier}</span>`;
+  const heads = (r) => {
+    const k = kinds[r.kind];
+    const list = st.lang === 'fr' ? k[2] : k[1];
+    const name = title(r);
+    return list.map((h) => h.replace('{name}', name));
+  };
+  const chip = (id) => {
+    if (id === '/astrology/' || id === '/sky/') return `<span class="chip hub">${id === '/sky/' ? 'The sky' : 'The encyclopaedia'}</span>`;
+    const t = byId.get(id);
+    return t ? `<button type="button" class="chip" data-go="${esc(id)}">${esc(title(t))}</button>` : '';
+  };
+  const card = (r) => `<div class="card">
+      <div class="langs"><div><span class="label">English</span><span>${esc(r.en)}</span><span class="addr">${esc(r.path)}</span></div>
+        <div><span class="label">Français</span><span>${esc(r.fr)}</span><span class="addr">${esc(r.pathFr)}</span></div></div>
+      <div><span class="label">Headings</span><ol>${heads(r).map((h) => `<li>${esc(h)}</li>`).join('')}</ol></div>
+      <div class="links"><span class="label">Links up</span>${r.up.map(chip).join('')}</div>
+      ${r.across.length ? `<div class="links"><span class="label">Links across</span>${r.across.map(chip).join('')}</div>` : ''}
+    </div>`;
+  const rowHtml = (r, crumb) => `<li class="row${st.open.has(r.id) ? ' open' : ''}" data-id="${esc(r.id)}"><button type="button" aria-expanded="${st.open.has(r.id)}">
+      <span class="title">${esc(title(r))}${crumb ? `<br><span class="crumb">${esc(crumb)}</span>` : ''}</span><span class="pills">${pills(r)}</span><span class="addr">${esc(addr(r))}</span></button>${st.open.has(r.id) ? card(r) : ''}</li>`;
+  const grpName = (g) => (st.lang === 'fr' ? groups[g][2] : groups[g][1]);
+  const famName = (f) => (st.lang === 'fr' ? fams[f][2] : fams[f][1]);
+
+  function visible() {
+    const q = st.q.trim().toLowerCase();
+    return rows.filter((r) => (!st.tier || r.tier === st.tier) && (!st.batch || r.batch === st.batch) &&
+      (!q || r.en.toLowerCase().includes(q) || r.fr.toLowerCase().includes(q) || r.path.includes(q) || r.pathFr.includes(q)));
+  }
+  const openGroups = new Set();
+  function render() {
+    const list = visible();
+    const flat = st.q.trim() || st.batch;
+    $('clear').hidden = !(st.q || st.tier || st.batch);
+    document.querySelectorAll('[data-tier]').forEach((b) => b.setAttribute('aria-pressed', String(Number(b.dataset.tier) === st.tier)));
+    document.querySelectorAll('[data-lang]').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.lang === st.lang)));
+    document.querySelectorAll('[data-batch]').forEach((b) => b.setAttribute('aria-pressed', String(Number(b.dataset.batch) === st.batch)));
+    if (flat) {
+      const shown = list.slice(0, 300);
+      $('status').textContent = `${fmt(list.length)} page${list.length === 1 ? '' : 's'}${st.batch ? ` in batch ${st.batch}, in writing order` : ''}${list.length > shown.length ? `; the first ${shown.length} are shown` : ''}.`;
+      $('view').innerHTML = `<ul class="flat">${shown.map((r) => rowHtml(r, `${famName(r.fam)} › ${grpName(r.grp)}`)).join('')}</ul>${list.length > shown.length ? '<p class="more">Narrow the search to see the rest.</p>' : ''}`;
+      return;
+    }
+    $('status').textContent = `${fmt(list.length)} pages${st.tier ? ` in tier ${st.tier}` : ''}, by family. Open a group to see its pages, and a page to see its addresses, headings and links.`;
+    const byFam = new Map();
+    for (const r of list) {
+      if (!byFam.has(r.fam)) byFam.set(r.fam, new Map());
+      const g = byFam.get(r.fam);
+      if (!g.has(r.grp)) g.set(r.grp, []);
+      g.get(r.grp).push(r);
+    }
+    let html = '';
+    for (const [f, gs] of byFam) {
+      const n = [...gs.values()].reduce((a, x) => a + x.length, 0);
+      html += `<section class="family"><div class="family-head"><h2>${esc(famName(f))}</h2><span class="count">${fmt(n)} page${n === 1 ? '' : 's'}</span></div>`;
+      for (const [g, rs] of gs) {
+        const mix = [1, 2, 3].map((t) => [t, rs.filter((r) => r.tier === t).length]).filter(([, c]) => c).map(([t, c]) => `<span class="pill t${t}">T${t} ${fmt(c)}</span>`).join('');
+        const open = openGroups.has(g);
+        html += `<details class="group" data-g="${g}"${open ? ' open' : ''}><summary><span class="gname">${esc(grpName(g))}<small>${fmt(rs.length)}</small></span><span class="mix">${mix}</span></summary>${open ? `<ul class="rows">${rs.map((r) => rowHtml(r)).join('')}</ul>` : ''}</details>`;
+      }
+      html += '</section>';
+    }
+    $('view').innerHTML = html;
+  }
+
+  $('view').addEventListener('toggle', (e) => {
+    const d = e.target.closest && e.target.closest('details.group');
+    if (!d) return;
+    const g = Number(d.dataset.g);
+    if (d.open) {
+      openGroups.add(g);
+      if (!d.querySelector('.rows')) {
+        const rs = visible().filter((r) => r.grp === g);
+        d.insertAdjacentHTML('beforeend', `<ul class="rows">${rs.map((r) => rowHtml(r)).join('')}</ul>`);
+      }
+    } else openGroups.delete(g);
+  }, true);
+  $('view').addEventListener('click', (e) => {
+    const go = e.target.closest('[data-go]');
+    if (go) { jump(go.dataset.go); return; }
+    const b = e.target.closest('.row > button');
+    if (!b) return;
+    const li = b.parentElement, id = li.dataset.id, r = byId.get(id);
+    if (st.open.has(id)) { st.open.delete(id); li.classList.remove('open'); b.setAttribute('aria-expanded', 'false'); li.querySelector('.card')?.remove(); }
+    else { st.open.add(id); li.classList.add('open'); b.setAttribute('aria-expanded', 'true'); li.insertAdjacentHTML('beforeend', card(r)); }
+  });
+  function jump(id) {
+    const r = byId.get(id);
+    if (!r) return;
+    st.q = ''; $('q').value = ''; st.batch = 0;
+    if (st.tier && r.tier !== st.tier) st.tier = 0;
+    openGroups.add(r.grp); st.open.add(id);
+    render();
+    const li = document.querySelector(`.row[data-id="${CSS.escape(id)}"]`);
+    if (li) {
+      li.scrollIntoView({ block: 'center', behavior: 'smooth' });
+      li.classList.add('flash'); setTimeout(() => li.classList.remove('flash'), 1600);
+      li.querySelector('button')?.focus({ preventScroll: true });
+    }
+  }
+  let t;
+  $('q').addEventListener('input', (e) => { clearTimeout(t); t = setTimeout(() => { st.q = e.target.value; if (st.q.trim()) st.batch = 0; render(); }, 120); });
+  $('tierSeg').addEventListener('click', (e) => { const b = e.target.closest('[data-tier]'); if (!b) return; st.tier = Number(b.dataset.tier); render(); });
+  $('langSeg').addEventListener('click', (e) => {
+    const b = e.target.closest('[data-lang]'); if (!b) return; st.lang = b.dataset.lang;
+    try { localStorage.setItem('plan-lang', st.lang); } catch (err) {}
+    render();
+  });
+  $('batches').addEventListener('click', (e) => {
+    const b = e.target.closest('[data-batch]'); if (!b) return;
+    const n = Number(b.dataset.batch); st.batch = st.batch === n ? 0 : n; if (st.batch) st.tier = 0;
+    render(); $('status').scrollIntoView({ block: 'start', behavior: 'smooth' });
+  });
+  $('clear').addEventListener('click', () => { st.q = ''; $('q').value = ''; st.tier = 0; st.batch = 0; render(); });
+
+  // opens on the first batch's planets, so the page shows what it holds at a glance
+  openGroups.add(rows.find((r) => r.id === 'sun').grp);
+  render();
+})();
+</script>

@@ -15,7 +15,7 @@ lede: "Pour des collègues, un duo fondateur, une relation hiérarchique, deux f
 facts:
   - { k: "Pour", v: "Deux adultes qui sont d’accord" }
   - { k: "Il me faut", v: "Les deux dates et lieux de naissance — et les heures, si vous les connaissez" }
-  - { k: "Vous recevez", v: "Une lecture privée, en ligne, sur votre façon de travailler ensemble, sous une semaine", param: "format" }
+  - { k: "Vous recevez", v: "Une lecture privée, en ligne, sur votre façon de travailler ensemble, sous une semaine, par e-mail et en PDF", param: "format" }
   - { k: "Formules", v: "Lecture complète, ou lecture complète + consultation" }
   - { k: "Tarif", v: "", param: "priceSynastry" }
 

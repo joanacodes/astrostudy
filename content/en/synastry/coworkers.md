@@ -14,7 +14,7 @@ lede: "For colleagues, co-founders, a manager and their report, two freelancers 
 facts:
   - { k: "For", v: "Two adults who both agree" }
   - { k: "I need", v: "Both birth dates and places — times if you know them" }
-  - { k: "You receive", v: "A private online reading about how you work together, within a week", param: "format" }
+  - { k: "You receive", v: "A private online reading about how you work together, within a week, by email and as a PDF", param: "format" }
   - { k: "Options", v: "Full reading, or full reading + consulting" }
   - { k: "Price", v: "", param: "priceSynastry" }
 

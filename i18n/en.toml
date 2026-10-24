@@ -70,7 +70,7 @@ sendError = "Sorry — that didn’t go through. Please try again, or write to {
 # the order panel and page
 orderLabel = "Order a reading"
 orderTitle = "Your reading, <em>within a week.</em>"
-orderLede = "Enter your birth details and pay: your reading arrives in your private online space within a week. You don’t need to write to me first — but you can, before or after."
+orderLede = "Enter your birth details and pay: your reading arrives within a week, by email, in a private online space and as a PDF. You don’t need to write to me first — but you can, before or after."
 orderReading = "Reading"
 orderOption = "Option"
 optionFull = "Full reading"
@@ -82,7 +82,7 @@ optional = "optional"
 orderNotesPlaceholder = "What’s on your mind, or what you’d like the reading to look at."
 withdrawal = "I ask for my reading to be prepared straight away, without waiting for the 14-day withdrawal period to end, and I give up my right to withdraw once it has been delivered."
 acceptTerms = "I accept the <a href=\"{{ .href }}\">terms of sale</a>."
-delivered = "Delivered within a week, in your private online space: notes, highlights, PDF."
+delivered = "Delivered within a week by email, in your private online space: notes, highlights, PDF."
 total = "Total"
 toPayment = "Continue to payment"
 orderClosed = "Payment opens very soon — nothing has been sent. A question in the meantime? Write to me."
@@ -211,7 +211,7 @@ blogEntries = "In the encyclopaedia"
 byline = "By {{ .name }} from The Astro Study"
 
 # llms.txt (a plain map of the site for AI assistants)
-llmsAbout = """The Astro Study offers written astrology readings in English and French: birth chart readings for adults (18+) and synastry readings for couples, friends, co-workers and family. Each reading is prepared with the reader's own system and read in full before it is sent; it arrives within a week in a private online space. The readings and the articles are by Joana, who runs The Astro Study.
+llmsAbout = """The Astro Study offers written astrology readings in English and French: birth chart readings for adults (18+) and synastry readings for couples, friends, co-workers and family. Each reading is prepared with the reader's own system and read in full before it is sent; it arrives within a week by email, in a private online space and as a PDF. The readings and the articles are by Joana, who runs The Astro Study.
 
 The method comes from testing astrology placement by placement. In the reader's own notebook tests, about 30–40% of placements held overall, while Saturn, Lilith and Chiron held 75–90% of the time, so the readings spend the most time there and say which parts rest on less. Readings are offered for reflection and entertainment.
 

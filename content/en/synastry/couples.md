@@ -14,7 +14,7 @@ lede: "For partners at any stage — the first months, the long middle, the hard
 facts:
   - { k: "For", v: "Two adults, 18+" }
   - { k: "I need", v: "Both birth dates and places — times if you know them" }
-  - { k: "You receive", v: "A private online reading about the two of you, within a week", param: "format" }
+  - { k: "You receive", v: "A private online reading about the two of you, within a week, by email and as a PDF", param: "format" }
   - { k: "Options", v: "Full reading, or full reading + consulting" }
   - { k: "Price", v: "", param: "priceSynastry" }
 
