@@ -6,3 +6,10 @@ node_modules/
 .wrangler/
 .dev.vars
 data/sky.json
+
+# share pictures, drawn at deploy by tools/brand-images (cached between runs)
+static/og/
+static/pin/
+tools/brand-images/out/
+tools/brand-images/node_modules/
+tools/brand-images/.cache/

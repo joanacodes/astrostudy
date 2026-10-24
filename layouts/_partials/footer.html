@@ -5,7 +5,8 @@
       <div>
         <a class="brand" href="{{ site.Home.RelPermalink }}"><span class="brand__mark" aria-hidden="true"></span><span class="brand__name">The Astro <em>Study</em></span></a>
         <p>{{ i18n "footerBlurb" }}</p>
-        <p><a href="mailto:{{ site.Params.email }}">{{ site.Params.email }}</a>{{ with site.Params.instagram }} · <a href="{{ . }}" rel="me noopener">Instagram</a>{{ end }}</p>
+        <p><a href="mailto:{{ site.Params.email }}">{{ site.Params.email }}</a>
+          {{- range $pair := slice (slice "instagram" "Instagram") (slice "threads" "Threads") (slice "tiktok" "TikTok") (slice "youtube" "YouTube") (slice "pinterest" "Pinterest") (slice "facebook" "Facebook") (slice "trustpilot" "Trustpilot") }}{{ with index site.Params (index $pair 0) }} · <a href="{{ . }}" rel="me noopener">{{ index $pair 1 }}</a>{{ end }}{{ end }}</p>
       </div>
       <div>
         <h2>{{ i18n "readings" }}</h2>
@@ -22,6 +23,12 @@
         <h2>{{ site.Title }}</h2>
         <ul>
           <li><a href="{{ partial "url.html" "/how-i-read/" }}">{{ i18n "howIRead" }}</a></li>
+          {{- with site.GetPage "/astrology" }}
+          <li><a href="{{ .RelPermalink }}">{{ .Params.short | default .Title }}</a></li>
+          {{- end }}
+          {{- with site.GetPage "/blog" }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{- end }}
           <li><a href="{{ site.Home.RelPermalink }}#kind-words">{{ i18n "kindWords" }}</a></li>
           <li><a href="{{ partial "url.html" "/contact/" }}" data-contact>{{ i18n "writeToMe" }}</a></li>
         </ul>

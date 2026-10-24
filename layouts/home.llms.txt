@@ -1,0 +1,51 @@
+{{- /* llms.txt: a short, plain map of the site for AI assistants — who this is, what is offered and
+       what isn't, and the pages worth reading, in this language. Built from the pages themselves. */ -}}
+# {{ site.Title }}
+
+> {{ site.Params.description }}
+
+{{ i18n "llmsAbout" }}
+
+## {{ i18n "llmsReadings" }}
+{{ with site.GetPage "/birth-chart" }}
+- [{{ .Title }}]({{ .Permalink }}): {{ .Description }}
+{{- end }}
+{{- with site.GetPage "/synastry" }}
+- [{{ .Title }}]({{ .Permalink }}): {{ .Description }}
+{{- range .RegularPages.ByWeight }}
+  - [{{ .Title }}]({{ .Permalink }}): {{ .Description }}
+{{- end }}
+{{- end }}
+{{- with site.GetPage "/order" }}
+- [{{ .Title }}]({{ .Permalink }}): {{ .Description }}
+{{- end }}
+
+## {{ i18n "llmsMethod" }}
+{{ with site.GetPage "/how-i-read" }}
+- [{{ .Title }}]({{ .Permalink }}): {{ .Description }}
+{{- end }}
+
+## {{ i18n "encName" }}
+{{ with site.GetPage "/astrology" }}
+- [{{ .Title }}]({{ .Permalink }}): {{ .Description }}
+{{- range .RegularPages.ByWeight }}
+  - [{{ .Title }}]({{ .Permalink }}): {{ .Params.definition | default .Description | plainify }}
+{{- end }}
+{{- end }}
+
+## {{ i18n "llmsArticles" }}
+{{ with site.GetPage "/blog" }}
+{{- range .RegularPages.ByDate.Reverse }}
+- [{{ .Title }}]({{ .Permalink }}): {{ .Description }}
+{{- end }}
+{{- end }}
+
+## {{ i18n "llmsPolicies" }}
+{{ range slice "/disclaimers" "/privacy" "/legal-notice" "/contact" }}{{ with site.GetPage . }}
+- [{{ .Title }}]({{ .Permalink }}): {{ .Description }}
+{{- end }}{{ end }}
+
+## {{ i18n "llmsOtherLanguages" }}
+{{ range site.Home.Translations }}
+- [{{ .Language.Label }}]({{ .Permalink }}llms.txt)
+{{- end }}

@@ -1,0 +1,87 @@
+{{ define "main" }}
+{{- /* An encyclopaedia entry. The same frame as a blog article, so readers find their way: the name and
+       its symbol, the one-paragraph definition (the lines Google and AI assistants quote), the quick
+       facts, then the anchor menu beside the text, the questions people ask, what to read next and the
+       sources. "Last reviewed" is the date the reader last checked the entry. */ -}}
+{{- $fam := .Params.family }}
+<article class="paper blog-top">
+  <div class="wrap">
+    <p class="crumbs"><a href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a><span aria-hidden="true">›</span><a href="{{ .Parent.RelPermalink }}">{{ .Parent.Params.short | default .Parent.Title }}</a><span aria-hidden="true">›</span>{{ .Title }}</p>
+    <div class="article-head">
+      <h1>{{ with .Params.glyph }}{{ partial "glyph.html" . }}{{ end }}{{ .Params.h1 | default .Title | safeHTML }}</h1>
+      <div>
+        <p class="article-meta">{{ with $fam }}{{ i18n (printf "fam_%s" .) }} · {{ end }}{{ with .Params.reviewed }}{{ i18n "encReviewed" (dict "date" (time.Format ":date_long" .)) }}{{ end }}</p>
+        {{- with .Params.definition }}
+        <aside class="short-answer">
+          <p class="label">{{ i18n "encDefinition" }}</p>
+          <p class="short-answer__text">{{ . | safeHTML }}</p>
+        </aside>
+        {{- end }}
+      </div>
+    </div>
+    {{- with .Params.facts }}
+    <dl class="facts-grid" data-reveal>
+      {{- range . }}
+      <div><dt class="label">{{ .k }}</dt><dd>{{ .v | safeHTML }}</dd></div>
+      {{- end }}
+    </dl>
+    {{- end }}
+    <div class="article-body">
+      <aside class="rail">
+        {{- with .TableOfContents }}
+        <p class="label">{{ i18n "encInEntry" }}</p>
+        <nav class="toc" aria-label="{{ i18n "encInEntry" }}" data-toc>{{ . }}</nav>
+        {{- end }}
+        <p class="rail__note">{{ i18n "encMethod" }} <a class="link" href="{{ partial "url.html" "/how-i-read/" }}">{{ i18n "blogMethodLink" }}</a>.</p>
+        <p class="rail__note"><a class="link" href="{{ partial "url.html" "/disclaimers/" }}#entertainment">{{ i18n "blogDisclaimer" }}</a></p>
+      </aside>
+      <div class="prose">{{ .Content }}</div>
+      <aside class="article-side">
+        <div class="side-card">
+          <p class="label">{{ i18n "blogSideLabel" }}</p>
+          <p class="side-card__title">{{ i18n "blogSideTitle" | safeHTML }}</p>
+          <p class="side-card__text">{{ i18n "blogSideText" }}</p>
+          <a class="btn btn--solid" href="{{ partial "url.html" "/order/" }}" data-order>{{ i18n "menuOrder" }} <span class="btn__arrow" aria-hidden="true">→</span></a>
+          <a class="arrow-link" href="{{ partial "url.html" "/contact/" }}" data-contact>{{ i18n "blogAsk" }} <span aria-hidden="true">→</span></a>
+        </div>
+      </aside>
+    </div>
+
+    {{- with .Params.faq }}
+    <div class="blog-after" id="questions">
+      <p class="label">{{ i18n "encQuestions" }}</p>
+      {{ partial "faq.html" . }}
+    </div>
+    {{- end }}
+
+    {{- $related := slice }}
+    {{- range .Params.related }}{{ with site.GetPage . }}{{ $related = $related | append . }}{{ end }}{{ end }}
+    {{- with $related }}
+    <div class="blog-after">
+      <p class="label">{{ i18n "encRelated" }}</p>
+      <div class="post-grid">
+        {{- range . }}
+        <a class="post-card" href="{{ .RelPermalink }}">{{ partial "post-cover.html" . }}<span class="post-card__title">{{ .Title }}</span><span class="post-card__desc">{{ .Params.definition | default .Description | plainify }}</span></a>
+        {{- end }}
+      </div>
+    </div>
+    {{- end }}
+
+    {{- with .Params.sources }}
+    <div class="blog-after">
+      <p class="label">{{ i18n "encSources" }}</p>
+      <ul class="sources">
+        {{- /* a source on this site is named by its page (page: "/blog/…"), so it opens in the reader's
+               language and under the site's address; an outside source keeps its url */}}
+        {{- range . }}
+        {{- $href := .url }}{{ $outside := true }}
+        {{- with .page }}{{ with site.GetPage . }}{{ $href = .RelPermalink }}{{ $outside = false }}{{ end }}{{ end }}
+        <li>{{ if $href }}<a class="link" href="{{ $href }}"{{ if $outside }} rel="noopener"{{ end }}>{{ .title }}</a>{{ else }}{{ .title }}{{ end }}{{ with .note }} — {{ . }}{{ end }}</li>
+        {{- end }}
+      </ul>
+    </div>
+    {{- end }}
+  </div>
+</article>
+{{ partial "toc-folder.html" . }}
+{{ end }}

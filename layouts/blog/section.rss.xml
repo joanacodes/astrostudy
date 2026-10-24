@@ -1,0 +1,45 @@
+{{- /* The blog's feed. Pinterest can turn each new article into a Pin from here (it takes the image in
+       <enclosure> / <media:content>: the article's pin, rendered at deploy by tools/brand-images), and
+       feed readers get every article in full order, newest first. */ -}}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>{{ .Title }} · {{ site.Title }}</title>
+    <link>{{ .Permalink }}</link>
+    <description>{{ .Description }}</description>
+    <language>{{ site.Language.Locale }}</language>
+    {{- with .OutputFormats.Get "rss" }}
+    {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType.Type | safeHTML }}
+    {{- end }}
+    {{- $posts := .RegularPages.ByDate.Reverse }}
+    {{- with index $posts 0 }}
+    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</lastBuildDate>
+    {{- end }}
+    {{- range first 50 $posts }}
+    <item>
+      <title>{{ .Title }}</title>
+      <link>{{ .Permalink }}</link>
+      <guid isPermaLink="true">{{ .Permalink }}</guid>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+      {{- /* the image first in the description too: some readers (Pinterest among them) take the first one */}}
+      {{- $pinFile := "" }}{{ with .File }}{{ $pinFile = printf "pin/%s/%s%s.jpg" $.Language.Lang (replace .Dir "\\" "/") .ContentBaseName }}{{ end }}
+      <description>{{ if and $pinFile (os.FileExists (printf "static/%s" $pinFile)) }}{{ printf "<img src=%q alt=%q />" ($pinFile | absURL) .Title }}{{ end }}{{ .Description }}</description>
+      {{- range .Params.categories }}
+      <category>{{ . }}</category>
+      {{- end }}
+      {{- /* the tall pin first (what Pinterest wants), else the share picture */}}
+      {{- $img := "" }}{{ $w := 0 }}{{ $h := 0 }}
+      {{- with .File }}
+      {{- $pin := printf "pin/%s/%s%s.jpg" $.Language.Lang (replace .Dir "\\" "/") .ContentBaseName }}
+      {{- $og := printf "og/%s/%s%s.jpg" $.Language.Lang (replace .Dir "\\" "/") .ContentBaseName }}
+      {{- if os.FileExists (printf "static/%s" $pin) }}{{ $img = $pin }}{{ $w = 1000 }}{{ $h = 1500 }}
+      {{- else if os.FileExists (printf "static/%s" $og) }}{{ $img = $og }}{{ $w = 1200 }}{{ $h = 630 }}{{ end }}
+      {{- end }}
+      {{- with $img }}
+      <enclosure url="{{ . | absURL }}" type="image/jpeg" length="{{ (os.Stat (printf "static/%s" .)).Size }}" />
+      <media:content url="{{ . | absURL }}" medium="image" type="image/jpeg" width="{{ $w }}" height="{{ $h }}" />
+      {{- end }}
+    </item>
+    {{- end }}
+  </channel>
+</rss>

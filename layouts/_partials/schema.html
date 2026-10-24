@@ -1,0 +1,72 @@
+{{- /* Structured data (schema.org JSON-LD), one graph per page. It tells Google and AI assistants what
+       the page is in their own vocabulary: who runs the site (the Organization every page points to),
+       what an article is and who wrote it, what a reading page offers, its questions and answers, and
+       where the page sits (breadcrumbs). Everything is read from the page and hugo.toml, never typed
+       twice. Text goes through plainify: no markup, and nothing that could close the script tag. */ -}}
+{{- $p := .page }}
+{{- $home := site.Home.Permalink }}
+{{- /* one business across every language: its id and address are the main site's, never /fr/'s */}}
+{{- $root := (index hugo.Sites 0).Home.Permalink }}
+{{- $orgID := printf "%s#org" $root }}
+
+{{- $org := dict "@type" "Organization" "@id" $orgID "name" site.Title "url" $root "logo" (dict "@type" "ImageObject" "url" ("apple-touch-icon.png" | absURL) "width" 180 "height" 180) }}
+{{- with site.Params.email }}{{ $org = merge $org (dict "email" .) }}{{ end }}
+{{- $same := slice }}
+{{- range slice "instagram" "threads" "tiktok" "youtube" "pinterest" "facebook" "trustpilot" }}{{ with index site.Params . }}{{ $same = $same | append . }}{{ end }}{{ end }}
+{{- with $same }}{{ $org = merge $org (dict "sameAs" .) }}{{ end }}
+{{- $graph := slice $org }}
+
+{{- /* the author: the person once hugo.toml names them, the business until then */}}
+{{- $author := dict "@id" $orgID }}
+{{- with site.Params.author.name }}
+{{- $author = dict "@type" "Person" "name" . }}
+{{- with site.Params.author.url }}{{ $author = merge $author (dict "url" (. | absURL)) }}{{ end }}
+{{- end }}
+
+{{- if $p.IsHome }}
+{{- $graph = $graph | append (dict "@type" "WebSite" "@id" (printf "%s#website" $home) "url" $home "name" site.Title "description" site.Params.description "inLanguage" site.Language.Locale "publisher" (dict "@id" $orgID)) }}
+{{- end }}
+
+{{- if and $p.IsPage (eq $p.Section "blog") }}
+{{- $post := dict "@type" "BlogPosting" "@id" (printf "%s#article" $p.Permalink) "headline" (truncate 110 "…" $p.Title) "description" ($p.Description | plainify) "image" (slice .image) "datePublished" ($p.Date.Format "2006-01-02T15:04:05Z07:00") "dateModified" ($p.Lastmod.Format "2006-01-02T15:04:05Z07:00") "author" $author "publisher" (dict "@id" $orgID) "mainEntityOfPage" $p.Permalink "inLanguage" site.Language.Locale "wordCount" $p.WordCount }}
+{{- with $p.Params.categories }}{{ $post = merge $post (dict "articleSection" (index . 0)) }}{{ end }}
+{{- with $p.Params.tags }}{{ $post = merge $post (dict "keywords" (delimit . ", ")) }}{{ end }}
+{{- $graph = $graph | append $post }}
+{{- end }}
+
+{{- /* the encyclopaedia: the whole set, and each entry as a defined term within it, with its
+       one-paragraph definition — the form AI assistants and Google read definitions in */}}
+{{- if eq $p.Section "astrology" }}
+{{- $set := $p }}{{ if $p.IsPage }}{{ $set = $p.Parent }}{{ end }}
+{{- $setRef := dict "@type" "DefinedTermSet" "@id" (printf "%s#set" $set.Permalink) "name" ($set.Title | plainify) "url" $set.Permalink }}
+{{- if $p.IsPage }}
+{{- $term := dict "@type" "DefinedTerm" "@id" (printf "%s#term" $p.Permalink) "name" ($p.Title | plainify) "description" ($p.Params.definition | default $p.Description | plainify) "url" $p.Permalink "inDefinedTermSet" $setRef }}
+{{- $graph = $graph | append $term }}
+{{- $graph = $graph | append (dict "@type" "Article" "@id" (printf "%s#article" $p.Permalink) "headline" (truncate 110 "…" ($p.Title | plainify)) "description" ($p.Description | plainify) "image" (slice .image) "datePublished" ($p.Date.Format "2006-01-02T15:04:05Z07:00") "dateModified" ($p.Lastmod.Format "2006-01-02T15:04:05Z07:00") "author" $author "publisher" (dict "@id" $orgID) "mainEntityOfPage" $p.Permalink "inLanguage" site.Language.Locale "about" (dict "@id" (printf "%s#term" $p.Permalink))) }}
+{{- else }}
+{{- $graph = $graph | append (merge $setRef (dict "description" ($p.Description | plainify) "inLanguage" site.Language.Locale "publisher" (dict "@id" $orgID))) }}
+{{- end }}
+{{- end }}
+
+{{- /* a reading page (the birth chart, synastry and its four kinds) describes a service; prices join
+       as offers once hugo.toml has them as numbers */}}
+{{- if or (eq $p.Type "reading") (and (eq $p.Kind "section") (eq $p.Section "synastry")) }}
+{{- $graph = $graph | append (dict "@type" "Service" "@id" (printf "%s#service" $p.Permalink) "name" ($p.Title | plainify) "description" ($p.Description | plainify) "serviceType" "Astrology reading" "provider" (dict "@id" $orgID) "url" $p.Permalink "inLanguage" site.Language.Locale) }}
+{{- end }}
+
+{{- with $p.Params.faq }}
+{{- $qs := slice }}
+{{- range . }}{{ $qs = $qs | append (dict "@type" "Question" "name" (.q | plainify | htmlUnescape) "acceptedAnswer" (dict "@type" "Answer" "text" (.a | markdownify | plainify | htmlUnescape))) }}{{ end }}
+{{- $graph = $graph | append (dict "@type" "FAQPage" "@id" (printf "%s#faq" $p.Permalink) "mainEntity" $qs) }}
+{{- end }}
+
+{{- if not $p.IsHome }}
+{{- $items := slice }}
+{{- $trail := $p.Ancestors.Reverse | append $p }}
+{{- range $i, $a := $trail }}
+{{- $name := cond $a.IsHome site.Title ($a.LinkTitle | plainify) }}
+{{- $items = $items | append (dict "@type" "ListItem" "position" (add $i 1) "name" $name "item" $a.Permalink) }}
+{{- end }}
+{{- $graph = $graph | append (dict "@type" "BreadcrumbList" "@id" (printf "%s#breadcrumbs" $p.Permalink) "itemListElement" $items) }}
+{{- end }}
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" $graph | jsonify | safeJS }}</script>

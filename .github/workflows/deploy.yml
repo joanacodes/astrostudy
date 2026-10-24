@@ -93,6 +93,27 @@ jobs:
           FREE_ASTRO_API: ${{ secrets.FREE_ASTRO_API }}
         run: node tools/sky-snapshot.mjs
 
+      # Share pictures (Open Graph images and Pinterest pins) for every article, drawn from the brand
+      # templates in tools/brand-images. The cache brings back the last run's pictures, so only pages
+      # whose words changed are drawn again. A failure here never blocks a deploy: a page without its
+      # own picture uses the site's.
+      - name: Restore the share pictures
+        uses: actions/cache@v4
+        with:
+          path: |
+            static/og
+            static/pin
+            tools/brand-images/.cache
+          key: share-pictures-${{ hashFiles('content/**/*.md', 'tools/brand-images/render.mjs') }}
+          restore-keys: share-pictures-
+
+      - name: Draw the share pictures
+        continue-on-error: true
+        run: |
+          npm --prefix tools/brand-images install --no-audit --no-fund
+          npx --prefix tools/brand-images playwright install --with-deps chromium
+          node tools/brand-images/render.mjs --site
+
       - name: Build the site
         env:
           # the legal and privacy notices name whoever actually serves the site

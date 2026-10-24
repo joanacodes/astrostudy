@@ -3469,3 +3469,100 @@ mark.todo {
 .post-list a:hover .post-list__arrow {
   transform: translateX(4px);
 }
+
+/* ------------------------------------------------------------------------------------------------
+   The encyclopaedia: entries share the blog article's frame; the facts sit in a grid under the
+   title, and the front page lists entries by family as small cards with their sign. */
+
+.facts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  gap: 0 clamp(16px, 2.4vw, 32px);
+  margin: clamp(28px, 4vw, 48px) 0 0;
+  padding: 0;
+}
+.facts-grid > div {
+  padding: 14px 0;
+  border-top: 1px solid var(--line-2);
+}
+.facts-grid dt {
+  margin: 0 0 4px;
+}
+.facts-grid dd {
+  margin: 0;
+  font-family: "Astro Symbols", var(--serif);
+  font-size: 1.12rem;
+  line-height: 1.3;
+}
+.sources {
+  margin: 0;
+  padding-left: 1.1em;
+  font-size: 0.9rem;
+  color: var(--ink-2);
+}
+.sources li {
+  margin: 6px 0;
+}
+.sources li::marker {
+  color: var(--accent);
+}
+.enc-family {
+  margin-top: clamp(40px, 5vw, 64px);
+  padding-top: 16px;
+  border-top: 1px solid var(--line-2);
+}
+.enc-family__title {
+  font-size: clamp(1.4rem, 1.1rem + 1vw, 2rem);
+  margin: 0 0 20px;
+}
+.enc-grid {
+  display: grid;
+  gap: clamp(14px, 2vw, 24px);
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+}
+.enc-card {
+  display: grid;
+  grid-template-columns: 52px minmax(0, 1fr);
+  grid-template-rows: auto auto;
+  column-gap: 14px;
+  row-gap: 4px;
+  align-items: start;
+  padding: 16px;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.36);
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  text-decoration: none;
+  color: var(--ink);
+  transition: background-color 0.3s var(--ease), transform 0.4s var(--ease-out);
+}
+.enc-card:hover {
+  background: rgba(255, 255, 255, 0.6);
+  transform: translateY(-2px);
+}
+.enc-card__glyph {
+  grid-row: 1 / span 2;
+  display: grid;
+  place-items: center;
+  width: 52px;
+  height: 52px;
+  border-radius: 12px;
+  background: linear-gradient(160deg, #8fb0c9 0%, #c3d4e0 55%, #dfe3d6 100%);
+  color: #fff;
+  font-family: "Astro Symbols", var(--serif);
+  font-size: 1.6rem;
+  line-height: 1;
+}
+.enc-card__name {
+  font-family: var(--serif);
+  font-size: 1.2rem;
+  line-height: 1.2;
+}
+.enc-card__def {
+  font-size: 0.85rem;
+  line-height: 1.45;
+  color: var(--ink-2);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

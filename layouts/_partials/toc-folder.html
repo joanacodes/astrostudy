@@ -1,0 +1,13 @@
+{{- /* On a phone the anchor menu ("On this page") is a tab at the bottom left that slides up a glass
+       panel (site.js, articleAnchors). Shared by blog articles and encyclopaedia entries. */ -}}
+{{- with .TableOfContents }}
+<div class="folder" data-folder>
+  <div class="folder-panel" id="folder-panel">
+    <button type="button" class="folder-tab" data-folder-open aria-expanded="false" aria-controls="folder-panel">{{ i18n "blogOnPage" }}</button>
+    <div class="folder-body">
+      <div class="folder-head"><span class="label">{{ i18n "blogOnPage" }}</span><button type="button" class="folder-close" data-folder-close>{{ i18n "close" }}</button></div>
+      <nav class="toc" aria-label="{{ i18n "blogOnPage" }}">{{ . }}</nav>
+    </div>
+  </div>
+</div>
+{{- end }}

@@ -126,6 +126,19 @@ One **Menu** button in the bar opens, on a computer, a panel that slides down fr
 
 A new article is a Markdown file in `content/en/blog/` (and its translation in `content/fr/blog/`, same file name, with a French `slug`). Front matter: `title`, `description`, `date`, `categories`, `summary` (the short answer), `glyph` (the sign on its cover until it has a picture) and optionally `image` (a path under `static/`). Give each `##` heading an anchor, e.g. `## We just met {#we-just-met}`: those make the anchor menu. The five first articles are samples in your voice, built from what the site already says: read them before they go live.
 
+## The encyclopaedia
+
+`/astrology/` and `/fr/astrologie/`: one entry per element of astrology, from the master list (the "Astrology bible — master list" tab of the growth plan). Each entry is a Markdown file in `content/en/astrology/` and its translation in `content/fr/astrology/` (same file name, French `slug`). Front matter: `title`, `h1`, `description`, `family` (its group on the front page: planets, points, bodies, signs, houses… — the labels are `fam_*` in `i18n/`), `weight` (order in the group), `glyph`, `definition` (the one paragraph shown first, 40–60 words: the lines Google and AI assistants quote), `facts` (the quick facts grid), `faq`, `related`, `sources` (each a `title` with either `page`, a page of this site such as `/blog/i-tested-my-birth-chart`, which opens in the reader's language, or `url`, an outside address), `reviewed` (the date you last checked it). Give every `##` heading an anchor: they make the "In this entry" menu. Three entries are written as samples of the format: Saturn, Chiron and Black Moon Lilith.
+
+## Search engines and AI assistants
+
+- **Structured data** on every page (`layouts/_partials/schema.html`): the business (one entity in every language), articles with author and dates, encyclopaedia entries as defined terms, reading pages as services, questions and answers, breadcrumbs. Set `[params.author] name` in `hugo.toml` and articles carry your name.
+- **Profiles** (`instagram`, `threads`, `tiktok`, `youtube`, `pinterest`, `facebook`, `trustpilot` in `hugo.toml`): each one set appears in the footer and links the accounts to the site for Google and AI assistants.
+- **Large previews** for Google Discover (`max-image-preview:large`), and each article's own share picture (`static/og/…`, drawn at deploy).
+- **`/llms.txt`** (and `/fr/llms.txt`): a plain map of the site for AI assistants, built from the pages.
+- **`robots.txt`** welcomes AI search crawlers by name. Cloudflare's own settings can override it: in its AI crawler settings, allow Search (and Training, which teaches future models the site's name), turn off the managed robots.txt, and never pick a Block setting, which now also stops Googlebot and Bingbot.
+- **The blog's feed** (`/blog/index.xml`, `/fr/blog/index.xml`), with each article's pin picture: connect it in Pinterest (Settings → Bulk create Pins → auto-publish from RSS) and new articles become Pins by themselves.
+
 ## The preloader
 
 A visit opens on the name, “Birth chart & synastry readings”, and a faint zodiac whose dots are the planets of that minute, turning slowly — 2.45 seconds in all, by CSS alone (`layouts/_partials/preloader.html`). It’s shown once per visit: pages change without reloading, and a reload in the same tab skips it.

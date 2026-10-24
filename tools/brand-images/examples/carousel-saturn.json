@@ -1,0 +1,39 @@
+{
+  "name": "carousel-saturn",
+  "template": "carousel",
+  "lang": "en",
+  "slides": [
+    {
+      "label": "Astrology, tested",
+      "title": "Saturn, Chiron and Lilith: <em>the three that held</em>",
+      "text": "What I found when I checked my own chart like an invoice."
+    },
+    {
+      "title": "About a third <em>held</em>",
+      "text": "Sun, rising, Venus, Mercury: 30 to 40%. Close to what a flattering horoscope scores."
+    },
+    {
+      "glyph": "♄",
+      "label": "Saturn",
+      "title": "The hardest <em>teacher</em>",
+      "text": "A timetable, not a wall: what will take you longer, then what you’ll teach."
+    },
+    {
+      "glyph": "⚷",
+      "label": "Chiron",
+      "title": "The wound you <em>keep circling</em>",
+      "text": "Often where you’re best at caring for other people."
+    },
+    {
+      "glyph": "⚸",
+      "label": "Lilith",
+      "title": "What you were <em>told to hide</em>",
+      "text": "Not something to fix. Something to put back on the table."
+    },
+    {
+      "title": "75 to 90% <em>held</em>",
+      "text": "For me and for the people I tested. A notebook, not a study.",
+      "url": "astrostudy.co.uk/blog"
+    }
+  ]
+}

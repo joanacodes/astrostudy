@@ -1,0 +1,16 @@
+{
+  "name": "astrostudy-brand-images",
+  "private": true,
+  "type": "module",
+  "description": "Share and social pictures for The Astro Study, drawn from the site's own fonts, colours and meadow.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "render": "node render.mjs",
+    "site": "node render.mjs --site"
+  },
+  "dependencies": {
+    "playwright": "1.56.1"
+  }
+}

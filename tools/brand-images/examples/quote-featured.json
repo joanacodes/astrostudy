@@ -1,0 +1,13 @@
+{
+  "name": "quote-featured",
+  "template": "quote",
+  "sizes": [
+    "post",
+    "story"
+  ],
+  "lang": "en",
+  "quote": "I really feel ease after your reading.",
+  "author": "A client",
+  "context": "After a birth chart reading · a message on Threads, shortened",
+  "stars": 5
+}

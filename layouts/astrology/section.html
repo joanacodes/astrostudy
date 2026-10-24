@@ -1,0 +1,33 @@
+{{ define "main" }}
+{{- /* The encyclopaedia's front page: every published entry, grouped by family in the order of the
+       master list. A family appears once it has its first entry; nothing is listed before it exists. */ -}}
+{{- $entries := .RegularPages }}
+{{- $order := slice "foundations" "planets" "angles" "points" "bodies" "stars" "signs" "houses" "aspects" "patterns" "dignities" "moon" "cycles" "techniques" "history" "tested" "practical" "ethics" }}
+<section class="paper blog-top">
+  <div class="wrap">
+    <p class="crumbs"><a href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a><span aria-hidden="true">›</span>{{ .Params.short | default .Title }}</p>
+    <div class="section__head">
+      <h1 class="post-hero__title">{{ .Params.h1 | default .Title | safeHTML }}</h1>
+      <p class="lede">{{ .Description }}</p>
+    </div>
+    {{- with .Content }}<div class="prose">{{ . }}</div>{{ end }}
+    {{- range $order }}
+    {{- $fam := . }}
+    {{- with where $entries "Params.family" $fam }}
+    <div class="enc-family">
+      <h2 class="enc-family__title">{{ i18n (printf "fam_%s" $fam) }}</h2>
+      <div class="enc-grid">
+        {{- range .ByWeight }}
+        <a class="enc-card" href="{{ .RelPermalink }}">
+          <span class="enc-card__glyph" aria-hidden="true">{{ with .Params.glyph }}{{ range split . "" }}{{ if eq . "/" }}<span class="glyph__slash">/</span>{{ else }}{{ . }}&#xFE0E;{{ end }}{{ end }}{{ else }}✦&#xFE0E;{{ end }}</span>
+          <span class="enc-card__name">{{ .Title }}</span>
+          <span class="enc-card__def">{{ .Params.definition | default .Description | plainify }}</span>
+        </a>
+        {{- end }}
+      </div>
+    </div>
+    {{- end }}
+    {{- end }}
+  </div>
+</section>
+{{ end }}

@@ -7,7 +7,9 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
 timeZone = "Europe/London"
-disableKinds = ["taxonomy", "term", "rss"]
+# RSS is kept for the blog alone (its _index.md asks for it): Pinterest and feed readers take new articles
+# from there. Every other page has no feed.
+disableKinds = ["taxonomy", "term"]
 
 # English is the main site, at the root. French lives under /fr/: the same pages, French addresses
 # (/fr/theme-natal/, /fr/synastrie/collegues/…). A page and its translation share a file name.
@@ -91,8 +93,10 @@ disableKinds = ["taxonomy", "term", "rss"]
       nextSlot = ""       # ex. « cette semaine », « à partir du 3 novembre » — vide = rien d’affiché
     [languages.fr.permalinks.page]
       synastry = "/synastrie/:slug/"
+      astrology = "/astrologie/:slug/"
     [languages.fr.permalinks.section]
       synastry = "/synastrie/"
+      astrology = "/astrologie/"
     [[languages.fr.menus.main]]
       name = "Thème natal"
       pageRef = "/birth-chart"
@@ -156,7 +160,15 @@ disableKinds = ["taxonomy", "term", "rss"]
   formEndpoint = "https://formsubmit.co/hello@astrostudy.co.uk"
   formAjaxEndpoint = "https://formsubmit.co/ajax/hello@astrostudy.co.uk"
   # Empty = hidden. Fill when ready. Any of these can also be set per language, under [languages.xx.params].
+  # Profiles elsewhere. Each one set shows in the footer and tells Google and AI assistants that the
+  # account belongs to this business ("sameAs" in the structured data, layouts/_partials/schema.html).
   instagram = ""          # e.g. "https://www.instagram.com/astrostudy"
+  threads = ""            # e.g. "https://www.threads.net/@astrostudy"
+  tiktok = ""             # e.g. "https://www.tiktok.com/@astrostudy"
+  youtube = ""            # e.g. "https://www.youtube.com/@astrostudy"
+  pinterest = ""          # e.g. "https://www.pinterest.com/astrostudy"
+  facebook = ""
+  trustpilot = ""         # the Trustpilot profile page, once it exists
   maisonTarot = ""        # the Maison Tarot site, once it has its final address
   priceBirthChart = ""    # e.g. "£65" — empty = "on request"; the full reading
   priceSynastry = ""      # e.g. "£95"
@@ -188,6 +200,11 @@ disableKinds = ["taxonomy", "term", "rss"]
     # Who serves the site: "cloudflare" or "github" (the preview on GitHub Pages). The deploy workflow sets it.
     host = "cloudflare"
 
+# Who signs the articles, for readers and for Google: empty = the business itself.
+[params.author]
+  name = ""   # the name you sign readings and articles with
+  url = ""    # your "about the reader" page, once it exists
+
 [markup]
   # the anchor menu of a blog article lists its sections (## headings)
   [markup.tableOfContents]
@@ -213,8 +230,16 @@ disableKinds = ["taxonomy", "term", "rss"]
     name = "date"
     weight = 10
 
+# llms.txt: a plain-text map of the site for AI assistants (layouts/home.llms.txt), one per language.
+[outputFormats]
+  [outputFormats.llms]
+    mediaType = "text/plain"
+    baseName = "llms"
+    isPlainText = true
+    notAlternative = true
+
 [outputs]
-  home = ["HTML"]
+  home = ["HTML", "llms"]
   section = ["HTML"]
   page = ["HTML"]
 

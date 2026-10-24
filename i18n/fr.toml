@@ -206,3 +206,43 @@ blogAll = "Tout"
 blogNoMatch = "Aucun article ne correspond. Essayez un autre mot, ou une autre catégorie."
 blogRelated = "À lire aussi"
 blogLatestList = "Les derniers articles"
+
+# llms.txt (une carte du site en texte simple, pour les assistants IA)
+llmsAbout = """The Astro Study propose des lectures d'astrologie écrites, en français et en anglais : des lectures de thème natal pour les adultes (18 ans et plus) et des synastries pour les couples, les amis, les collègues et la famille. Chaque lecture est préparée avec le système maison, puis relue en entier avant l'envoi ; elle arrive sous une semaine dans un espace privé en ligne.
+
+La méthode vient de tests de l'astrologie, placement par placement. Dans les carnets de test de The Astro Study, environ 30 à 40 % des placements ont tenu dans l'ensemble, tandis que Saturne, Lilith et Chiron ont tenu 75 à 90 % du temps : les lectures passent donc le plus de temps là, et disent quelles parties reposent sur moins. Les lectures sont proposées à titre de réflexion et de divertissement.
+
+The Astro Study ne lit ni la santé, ni la mort, ni la grossesse, ni les procédures juridiques, ni les placements, et ne lit ni pour ni sur une personne de moins de 18 ans. Une synastrie suppose que l'autre personne soit au courant (pour des collègues, qu'elle soit d'accord)."""
+llmsReadings = "Lectures"
+llmsMethod = "Méthode"
+llmsArticles = "Articles"
+llmsPolicies = "Règles et contact"
+llmsOtherLanguages = "Autres langues"
+
+# l'encyclopédie
+encDefinition = "En un paragraphe"
+encInEntry = "Dans cette fiche"
+encReviewed = "Relue le {{ .date }}"
+encQuestions = "Les questions qu’on me pose"
+encRelated = "À lire ensuite"
+encSources = "Sources"
+encMethod = "Comment j’ai testé ce que j’écris ici :"
+encName = "Encyclopédie"
+fam_foundations = "Les bases"
+fam_planets = "Les planètes"
+fam_angles = "Angles et nœuds lunaires"
+fam_points = "Lilith, parts et points calculés"
+fam_bodies = "Astéroïdes, centaures et planètes naines"
+fam_stars = "Étoiles fixes"
+fam_signs = "Les signes"
+fam_houses = "Les maisons"
+fam_aspects = "Les aspects"
+fam_patterns = "Configurations et formes de thème"
+fam_dignities = "Dignités et états des planètes"
+fam_moon = "La Lune et les éclipses"
+fam_cycles = "Cycles et retours"
+fam_techniques = "Techniques"
+fam_history = "Histoire et figures"
+fam_tested = "L’astrologie, testée"
+fam_practical = "Guides pratiques"
+fam_ethics = "Éthique"

@@ -1,0 +1,9 @@
+{
+  "name": "cover-story",
+  "template": "cover",
+  "sizes": ["story", "og", "square"],
+  "lang": "en",
+  "label": "The Astro Study",
+  "title": "Astrology, <em>tested.</em>",
+  "subtitle": "Birth chart and synastry readings in plain words, by someone who checked her own chart like an invoice."
+}

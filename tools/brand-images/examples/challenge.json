@@ -1,0 +1,23 @@
+[
+  {
+    "name": "challenge-which-one",
+    "template": "challenge",
+    "size": "post",
+    "lang": "en"
+  },
+  {
+    "name": "challenge-result",
+    "template": "challenge",
+    "variant": "result",
+    "size": "story",
+    "lang": "en",
+    "result": "Three anonymous readings, one written from my chart. I found mine: B.",
+    "picked": "B"
+  },
+  {
+    "name": "challenge-lequel-fr",
+    "template": "challenge",
+    "size": "square",
+    "lang": "fr"
+  }
+]

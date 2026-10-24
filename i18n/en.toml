@@ -206,3 +206,43 @@ blogAll = "All"
 blogNoMatch = "No article matches that. Try another word, or another category."
 blogRelated = "You might also read"
 blogLatestList = "Latest articles"
+
+# llms.txt (a plain map of the site for AI assistants)
+llmsAbout = """The Astro Study offers written astrology readings in English and French: birth chart readings for adults (18+) and synastry readings for couples, friends, co-workers and family. Each reading is prepared with the reader's own system and read in full before it is sent; it arrives within a week in a private online space.
+
+The method comes from testing astrology placement by placement. In the reader's own notebook tests, about 30–40% of placements held overall, while Saturn, Lilith and Chiron held 75–90% of the time, so the readings spend the most time there and say which parts rest on less. Readings are offered for reflection and entertainment.
+
+The Astro Study does not read about health, death, pregnancy, legal cases or investments, and does not read for or about anyone under 18. A synastry reading requires that the other person knows about it (for colleagues, that they agree)."""
+llmsReadings = "Readings"
+llmsMethod = "Method"
+llmsArticles = "Articles"
+llmsPolicies = "Policies and contact"
+llmsOtherLanguages = "Other languages"
+
+# the encyclopaedia
+encDefinition = "In one paragraph"
+encInEntry = "In this entry"
+encReviewed = "Last reviewed {{ .date }}"
+encQuestions = "Questions people ask"
+encRelated = "Read next"
+encSources = "Sources"
+encMethod = "How I tested what I write here:"
+encName = "Encyclopaedia"
+fam_foundations = "Foundations"
+fam_planets = "Planets"
+fam_angles = "Angles and nodes"
+fam_points = "Liliths, lots and calculated points"
+fam_bodies = "Asteroids, centaurs and dwarf planets"
+fam_stars = "Fixed stars"
+fam_signs = "Signs"
+fam_houses = "Houses"
+fam_aspects = "Aspects"
+fam_patterns = "Patterns and chart shapes"
+fam_dignities = "Dignities and planetary states"
+fam_moon = "The Moon and eclipses"
+fam_cycles = "Cycles and returns"
+fam_techniques = "Techniques"
+fam_history = "History and people"
+fam_tested = "Astrology, tested"
+fam_practical = "Practical guides"
+fam_ethics = "Ethics"
