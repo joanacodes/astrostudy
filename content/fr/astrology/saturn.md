@@ -72,7 +72,7 @@ Saturne reste environ deux ans et demi dans chaque signe : tous ceux qui naisse
 
 ## Saturne en synastrie {#en-synastrie}
 
-Quand la Saturne de l’un touche les planètes de l’autre, la relation devient sérieuse. Cela peut être le ciment — loyauté, structure, l’impression de construire ensemble — ou le froid, quand l’un se sent jugé ou freiné. Les contacts de Saturne avec la Lune et Vénus sont ceux que je lis avec le plus de soin : ils décident si la stabilité de l’autre ressemble à de la sécurité ou à de la critique.
+En [synastrie](/synastry/), quand la Saturne de l’un touche les planètes de l’autre, la relation devient sérieuse. Cela peut être le ciment — loyauté, structure, l’impression de construire ensemble — ou le froid, quand l’un se sent jugé ou freiné. Les contacts de Saturne avec la Lune et Vénus sont ceux que je lis avec le plus de soin : ils décident si la stabilité de l’autre ressemble à de la sécurité ou à de la critique.
 
 ## Transits et retour de Saturne {#retour-de-saturne}
 
@@ -82,10 +82,10 @@ Le retour a la réputation d’une crise. En lecture, il ressemble plutôt à un
 
 ## Ce qui a tenu dans mes tests {#ce-qui-a-tenu}
 
-Quand j’ai vérifié des thèmes placement par placement — le mien, puis ceux de ma famille, d’amis, et d’inconnus qui ne m’avaient rien dit d’eux — Saturne, Chiron et Lilith ont tenu 75 à 90 % du temps, quand la plupart des placements tenaient environ une fois sur trois. C’est un carnet, pas une étude : un décompte à la main, surtout sur des personnes que je connaissais. Mais c’est pour cela que je ralentis quand j’arrive à Saturne dans un thème. [Comment j’ai testé](/blog/i-tested-my-birth-chart/).
+Quand j’ai vérifié des thèmes placement par placement — le mien, puis ceux de ma famille, d’amis, et d’inconnus qui ne m’avaient rien dit d’eux — Saturne, [Chiron](/astrology/chiron/) et [Lilith](/astrology/black-moon-lilith/) ont tenu 75 à 90 % du temps, quand la plupart des placements tenaient environ une fois sur trois. C’est un carnet, pas une étude : un décompte à la main, surtout sur des personnes que je connaissais. Mais c’est pour cela que je ralentis quand j’arrive à Saturne dans un thème. [Comment j’ai testé](/blog/i-tested-my-birth-chart/), et [comment je lis les trois](/blog/saturn-chiron-lilith/).
 
 ## Idées reçues {#idees-recues}
 
 - **« Saturne gâche la fin de la vingtaine. »** Les grands changements vers 28 ou 30 ans sont fréquents pour bien des raisons ; Saturne décrit le bilan, pas les dégâts.
 - **« Une Saturne forte, c’est une vie dure. »** Cela veut dire que certaines choses prennent plus de temps. Les personnes à la Saturne marquée sont souvent celles sur qui les autres s’appuient.
-- **« Saturne rétrograde est mauvais signe. »** Plus d’un tiers des gens l’ont. Cela change le rythme, pas la valeur.
+- **« Saturne rétrograde est mauvais signe. »** Plus d’un tiers des gens l’ont. Cela change le [rythme](/blog/retrograde-planets/), pas la valeur.

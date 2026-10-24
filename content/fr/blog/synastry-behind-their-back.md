@@ -12,13 +12,13 @@ C’est la question qu’on me pose le plus, souvent en fin de message, comme un
 
 ## La question qu’on me pose le plus {#la-question}
 
-Elle part presque toujours d’une bonne intention. Vous tenez à quelqu’un, vous n’arrivez pas tout à fait à le lire, et vous espérez que le ciel y arrivera. Je le comprends. Je suis venue à l’astrologie parce que j’aime comprendre comment les gens en arrivent à leur façon de penser.
+Elle part presque toujours d’une bonne intention. Vous tenez à quelqu’un, vous n’arrivez pas tout à fait à le lire, et vous espérez que le ciel y arrivera. Je le comprends. Je suis [venue à l’astrologie](/blog/i-tested-my-birth-chart/) parce que j’aime comprendre comment les gens en arrivent à leur façon de penser.
 
-Mais une synastrie n’est pas une lecture *sur* quelqu’un. C’est la lecture de deux personnes côte à côte — ce qui circule entre vous, là où ça accroche, comment mieux vous rejoindre. L’une des deux ne peut pas être absente de la décision.
+Mais [une synastrie](/synastry/) n’est pas une lecture *sur* quelqu’un. C’est la lecture de deux personnes côte à côte — ce qui circule entre vous, là où ça accroche, comment mieux vous rejoindre. L’une des deux ne peut pas être absente de la décision.
 
 ## Un thème est intime {#un-theme-est-intime}
 
-Une date, une heure et un lieu de naissance suffisent à dessiner tout un thème : là où se trouvent les leçons les plus dures de quelqu’un, la blessure autour de laquelle il tourne, la part de lui qu’on lui a appris à cacher. Dans mes propres tests, ce sont les placements qui ont le mieux tenu — [Saturne, Chiron et Lilith](/how-i-read/), trois fois sur quatre ou plus.
+Une date, une heure et un lieu de naissance suffisent à dessiner tout un thème : là où se trouvent les leçons les plus dures de quelqu’un, [la blessure autour de laquelle il tourne](/blog/saturn-chiron-lilith/), la part de lui qu’on lui a appris à cacher. Dans [mes propres tests](/how-i-read/), ce sont les placements qui ont le mieux tenu — [Saturne](/astrology/saturn/), [Chiron](/astrology/chiron/) et [Lilith](/astrology/black-moon-lilith/), trois fois sur quatre ou plus.
 
 C’est précisément pour cela que je ne les lis pas en secret. Vous dire où se trouve le Chiron de quelqu’un, sans qu’il le sache, c’est vous parler d’une blessure qu’il n’a jamais choisi de vous montrer. Même avec douceur. Même si c’est juste. *Surtout* si c’est juste.
 
@@ -30,7 +30,7 @@ Peu de choses, mais elles ne sont pas facultatives :
 - **L’autre personne est au courant** de la lecture — et pour une [lecture entre collègues](/synastry/coworkers/), elle a donné son accord.
 - **Vous êtes ensemble depuis un moment.** Pour un couple, je conseille [une synastrie](/synastry/couples/) après au moins quelques mois partagés.
 
-Le formulaire de commande vous demande de le confirmer. Ce n’est pas de la paperasse : c’est la première phrase de la lecture.
+[Le formulaire de commande](/order/) vous demande de le confirmer. Ce n’est pas de la paperasse : c’est la première phrase de la lecture.
 
 ## « On vient de se rencontrer » {#on-vient-de-se-rencontrer}
 

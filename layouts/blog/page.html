@@ -9,7 +9,7 @@
     <div class="article-head">
       <h1>{{ partial "glyph.html" (.Params.glyph | default "✦") }}{{ .Title }}</h1>
       <div>
-        <p class="article-meta">{{ partial "post-meta.html" . }}</p>
+        <p class="article-meta">{{ partial "byline.html" . }}{{ partial "post-meta.html" . }}</p>
         {{- with .Params.summary }}
         <aside class="short-answer">
           <p class="label">{{ i18n "blogShort" }}</p>
@@ -29,7 +29,7 @@
         <p class="rail__note">{{ i18n "blogMethod" }} <a class="link" href="{{ partial "url.html" "/how-i-read/" }}">{{ i18n "blogMethodLink" }}</a>.</p>
         <p class="rail__note"><a class="link" href="{{ partial "url.html" "/disclaimers/" }}#entertainment">{{ i18n "blogDisclaimer" }}</a></p>
       </aside>
-      <div class="prose">{{ .Content }}</div>
+      <div class="prose" data-body="article">{{ .Content }}</div>
       <aside class="article-side">
         <div class="side-card">
           <p class="label">{{ i18n "blogSideLabel" }}</p>
@@ -40,6 +40,26 @@
         </div>
       </aside>
     </div>
+    {{- /* the encyclopaedia entries the article mentions, found by name: every article links to the
+           entries it touches without a list to keep up, and an entry written later joins the older
+           articles by itself. The links written into the text come first; this is the net under them. */}}
+    {{- $text := .Plain }}
+    {{- $entries := slice }}
+    {{- range (where site.RegularPages "Section" "astrology").ByWeight }}
+    {{- $e := . }}{{ $hit := false }}
+    {{- range partial "entry-terms.html" $e }}{{ if in $text . }}{{ $hit = true }}{{ end }}{{ end }}
+    {{- if $hit }}{{ $entries = $entries | append $e }}{{ end }}
+    {{- end }}
+    {{- with $entries }}
+    <div class="blog-after">
+      <p class="label">{{ i18n "blogEntries" }}</p>
+      <div class="enc-grid">
+        {{- range . }}
+        {{ partial "enc-card.html" . }}
+        {{- end }}
+      </div>
+    </div>
+    {{- end }}
     {{- /* after the article, as on Maison Tarot: what's close to it, then the latest */}}
     {{- $related := first 3 (where (site.RegularPages.Related .) "Section" "blog") }}
     {{- with $related }}

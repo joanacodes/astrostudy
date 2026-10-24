@@ -5,6 +5,7 @@ h1: "La Lune noire Lilith en astrologie"
 description: "La Lune noire Lilith en astrologie : le point le plus lointain de l’orbite de la Lune, lu comme ce qu’on a appris à cacher. Quelle Lilith utiliser, ce qu’elle signifie dans chaque maison et en synastrie — et combien de fois elle a tenu dans mes tests."
 date: 2026-10-24
 reviewed: 2026-10-24
+terms: ["Lune noire", "Lilith"]
 family: "points"
 weight: 12
 glyph: "⚸"
@@ -67,7 +68,7 @@ Quatre choses s’appellent Lilith en astrologie, ce qui explique pourquoi les t
 
 ## Lilith en synastrie {#en-synastrie}
 
-Quand la Lilith de l’un touche les planètes de l’autre, l’attirance est forte et souvent troublante : fascination, interdit, l’impression d’être vu d’une manière à la fois grisante et exposée. Ces contacts demandent de l’honnêteté, parce qu’ils font sortir ce que chacun garde d’habitude caché.
+En [synastrie](/synastry/), quand la Lilith de l’un touche les planètes de l’autre, l’attirance est forte et souvent troublante : fascination, interdit, l’impression d’être vu d’une manière à la fois grisante et exposée. Ces contacts demandent de l’honnêteté, parce qu’ils font sortir ce que chacun garde d’habitude caché.
 
 ## Transits et retour de Lilith {#retour-de-lilith}
 
@@ -75,7 +76,7 @@ La Lilith moyenne traverse un signe en environ neuf mois et revient à sa positi
 
 ## Ce qui a tenu dans mes tests {#ce-qui-a-tenu}
 
-Quand j’ai vérifié des thèmes placement par placement — le mien, puis ceux de ma famille, d’amis, et d’inconnus qui ne m’avaient rien dit d’eux — Lilith, Saturne et Chiron ont tenu 75 à 90 % du temps, quand la plupart des placements tenaient environ une fois sur trois. C’est un carnet, pas une étude : un décompte à la main, surtout sur des personnes que je connaissais. Mais c’est pour cela que Lilith a toujours sa propre partie dans mes lectures. [Comment j’ai testé](/blog/i-tested-my-birth-chart/).
+Quand j’ai vérifié des thèmes placement par placement — le mien, puis ceux de ma famille, d’amis, et d’inconnus qui ne m’avaient rien dit d’eux — Lilith, [Saturne](/astrology/saturn/) et [Chiron](/astrology/chiron/) ont tenu 75 à 90 % du temps, quand la plupart des placements tenaient environ une fois sur trois. C’est un carnet, pas une étude : un décompte à la main, surtout sur des personnes que je connaissais. Mais c’est pour cela que Lilith a toujours sa propre partie dans mes lectures. [Comment j’ai testé](/blog/i-tested-my-birth-chart/), et [comment je lis les trois](/blog/saturn-chiron-lilith/).
 
 ## Idées reçues {#idees-recues}
 

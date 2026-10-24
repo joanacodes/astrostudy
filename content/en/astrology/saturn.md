@@ -71,7 +71,7 @@ Saturn stays about two and a half years in each sign, so everyone born in the sa
 
 ## Saturn in synastry {#in-synastry}
 
-When one person's Saturn touches the other's planets, the relationship feels serious. It can be the glue — loyalty, structure, a sense of building something — or the chill, when one feels judged or held back. Saturn contacts to the Moon and Venus are the ones I read most carefully: they decide whether the other person's steadiness feels like safety or like criticism.
+In [synastry](/synastry/), when one person's Saturn touches the other's planets, the relationship feels serious. It can be the glue — loyalty, structure, a sense of building something — or the chill, when one feels judged or held back. Saturn contacts to the Moon and Venus are the ones I read most carefully: they decide whether the other person's steadiness feels like safety or like criticism.
 
 ## Transits and the Saturn return {#saturn-return}
 
@@ -81,10 +81,10 @@ The return has a reputation as a crisis. In readings it looks more like a review
 
 ## What held in my tests {#what-held}
 
-When I checked charts placement by placement — mine, then my family's, friends', and strangers' who told me nothing first — Saturn, Chiron and Lilith held 75 to 90% of the time, while most placements held about a third. It's a notebook, not a study: a count by hand, mostly on people I knew. But it's why I slow down when I reach Saturn in a chart. [How I tested](/blog/i-tested-my-birth-chart/).
+When I checked charts placement by placement — mine, then my family's, friends', and strangers' who told me nothing first — Saturn, [Chiron](/astrology/chiron/) and [Lilith](/astrology/black-moon-lilith/) held 75 to 90% of the time, while most placements held about a third. It's a notebook, not a study: a count by hand, mostly on people I knew. But it's why I slow down when I reach Saturn in a chart. [How I tested](/blog/i-tested-my-birth-chart/), and [how I read the three](/blog/saturn-chiron-lilith/).
 
 ## Common myths {#myths}
 
 - **“Saturn ruins your late twenties.”** Big changes around 28 to 30 are common for many reasons; Saturn describes the review, not the damage.
 - **“A strong Saturn means a hard life.”** It means some things take longer. People with a prominent Saturn are often the ones others lean on.
-- **“Saturn retrograde is a bad sign.”** More than a third of people have it. It changes the rhythm, not the worth.
+- **“Saturn retrograde is a bad sign.”** More than a third of people have it. It changes the [rhythm](/blog/retrograde-planets/), not the worth.

@@ -1,0 +1,4 @@
+{{- /* The names an encyclopaedia entry is found by in the text of an article: its title, or the list in
+       its "terms" when people also call it something shorter ("Lilith" for Black Moon Lilith). The match is
+       case-sensitive, so the French month "mars" never counts as the planet Mars. */ -}}
+{{- return (.Params.terms | default (slice .Title)) -}}

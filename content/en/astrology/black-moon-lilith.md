@@ -4,6 +4,7 @@ h1: "Black Moon Lilith in astrology"
 description: "Black Moon Lilith in astrology: the Moon’s farthest point, read as what you learned to hide. Which Lilith to use, what it means in each house and in synastry — and how often it held in my tests."
 date: 2026-10-24
 reviewed: 2026-10-24
+terms: ["Black Moon Lilith", "Lilith"]
 family: "points"
 weight: 12
 glyph: "⚸"
@@ -66,7 +67,7 @@ There are four things called Lilith in astrology, which is why charts disagree:
 
 ## Lilith in synastry {#in-synastry}
 
-When one person's Lilith touches the other's planets, the pull is strong and often unsettling: fascination, taboo, a sense of being seen in a way that's both thrilling and exposing. These contacts ask for honesty, because they bring out what each person usually keeps hidden.
+In [synastry](/synastry/), when one person's Lilith touches the other's planets, the pull is strong and often unsettling: fascination, taboo, a sense of being seen in a way that's both thrilling and exposing. These contacts ask for honesty, because they bring out what each person usually keeps hidden.
 
 ## Transits and the Lilith return {#lilith-return}
 
@@ -74,7 +75,7 @@ Mean Lilith moves through a sign in about nine months and comes back to its birt
 
 ## What held in my tests {#what-held}
 
-When I checked charts placement by placement — mine, then my family's, friends', and strangers' who told me nothing first — Lilith, Saturn and Chiron held 75 to 90% of the time, while most placements held about a third. It's a notebook, not a study: a count by hand, mostly on people I knew. But it's why Lilith always gets its own part in my readings. [How I tested](/blog/i-tested-my-birth-chart/).
+When I checked charts placement by placement — mine, then my family's, friends', and strangers' who told me nothing first — Lilith, [Saturn](/astrology/saturn/) and [Chiron](/astrology/chiron/) held 75 to 90% of the time, while most placements held about a third. It's a notebook, not a study: a count by hand, mostly on people I knew. But it's why Lilith always gets its own part in my readings. [How I tested](/blog/i-tested-my-birth-chart/), and [how I read the three](/blog/saturn-chiron-lilith/).
 
 ## Common myths {#myths}
 

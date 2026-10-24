@@ -61,7 +61,7 @@ Because its orbit is so uneven, Chiron's sign is shared by everyone born over a 
 
 ## Chiron in synastry {#in-synastry}
 
-When one person's Chiron touches the other's planets, each can reach the other's tender spot — to hurt it or to help it heal. Chiron contacts with the Moon and Venus are often described as recognition: *you see the part of me I hide*. They ask for gentleness on both sides.
+In [synastry](/synastry/), when one person's Chiron touches the other's planets, each can reach the other's tender spot — to hurt it or to help it heal. Chiron contacts with the Moon and Venus are often described as recognition: *you see the part of me I hide*. They ask for gentleness on both sides.
 
 ## Transits and the Chiron return {#chiron-return}
 
@@ -69,7 +69,7 @@ Chiron's uneven orbit means its transits arrive at different ages for different 
 
 ## What held in my tests {#what-held}
 
-When I checked charts placement by placement — mine, then my family's, friends', and strangers' who told me nothing first — Chiron, Saturn and Lilith held 75 to 90% of the time, while most placements held about a third. It's a notebook, not a study: a count by hand, mostly on people I knew. But it's why Chiron gets more time than the Sun in my readings. [How I tested](/blog/i-tested-my-birth-chart/).
+When I checked charts placement by placement — mine, then my family's, friends', and strangers' who told me nothing first — Chiron, [Saturn](/astrology/saturn/) and [Lilith](/astrology/black-moon-lilith/) held 75 to 90% of the time, while most placements held about a third. It's a notebook, not a study: a count by hand, mostly on people I knew. But it's why Chiron gets more time than the Sun in my readings. [How I tested](/blog/i-tested-my-birth-chart/), and [how I read the three](/blog/saturn-chiron-lilith/).
 
 ## Common myths {#myths}
 

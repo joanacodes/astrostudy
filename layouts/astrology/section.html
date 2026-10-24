@@ -18,11 +18,7 @@
       <h2 class="enc-family__title">{{ i18n (printf "fam_%s" $fam) }}</h2>
       <div class="enc-grid">
         {{- range .ByWeight }}
-        <a class="enc-card" href="{{ .RelPermalink }}">
-          <span class="enc-card__glyph" aria-hidden="true">{{ with .Params.glyph }}{{ range split . "" }}{{ if eq . "/" }}<span class="glyph__slash">/</span>{{ else }}{{ . }}&#xFE0E;{{ end }}{{ end }}{{ else }}✦&#xFE0E;{{ end }}</span>
-          <span class="enc-card__name">{{ .Title }}</span>
-          <span class="enc-card__def">{{ .Params.definition | default .Description | plainify }}</span>
-        </a>
+        {{ partial "enc-card.html" . }}
         {{- end }}
       </div>
     </div>

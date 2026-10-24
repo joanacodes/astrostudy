@@ -62,7 +62,7 @@ Son orbite étant très irrégulière, le signe de Chiron est partagé par toute
 
 ## Chiron en synastrie {#en-synastrie}
 
-Quand le Chiron de l’un touche les planètes de l’autre, chacun peut atteindre le point sensible de l’autre — pour le blesser ou pour l’aider à guérir. Les contacts de Chiron avec la Lune et Vénus sont souvent vécus comme une reconnaissance : *tu vois la part de moi que je cache*. Ils demandent de la douceur des deux côtés.
+En [synastrie](/synastry/), quand le Chiron de l’un touche les planètes de l’autre, chacun peut atteindre le point sensible de l’autre — pour le blesser ou pour l’aider à guérir. Les contacts de Chiron avec la Lune et Vénus sont souvent vécus comme une reconnaissance : *tu vois la part de moi que je cache*. Ils demandent de la douceur des deux côtés.
 
 ## Transits et retour de Chiron {#retour-de-chiron}
 
@@ -70,7 +70,7 @@ L’orbite irrégulière de Chiron fait que ses transits arrivent à des âges d
 
 ## Ce qui a tenu dans mes tests {#ce-qui-a-tenu}
 
-Quand j’ai vérifié des thèmes placement par placement — le mien, puis ceux de ma famille, d’amis, et d’inconnus qui ne m’avaient rien dit d’eux — Chiron, Saturne et Lilith ont tenu 75 à 90 % du temps, quand la plupart des placements tenaient environ une fois sur trois. C’est un carnet, pas une étude : un décompte à la main, surtout sur des personnes que je connaissais. Mais c’est pour cela que Chiron a plus de place que le Soleil dans mes lectures. [Comment j’ai testé](/blog/i-tested-my-birth-chart/).
+Quand j’ai vérifié des thèmes placement par placement — le mien, puis ceux de ma famille, d’amis, et d’inconnus qui ne m’avaient rien dit d’eux — Chiron, [Saturne](/astrology/saturn/) et [Lilith](/astrology/black-moon-lilith/) ont tenu 75 à 90 % du temps, quand la plupart des placements tenaient environ une fois sur trois. C’est un carnet, pas une étude : un décompte à la main, surtout sur des personnes que je connaissais. Mais c’est pour cela que Chiron a plus de place que le Soleil dans mes lectures. [Comment j’ai testé](/blog/i-tested-my-birth-chart/), et [comment je lis les trois](/blog/saturn-chiron-lilith/).
 
 ## Idées reçues {#idees-recues}
 

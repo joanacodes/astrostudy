@@ -56,8 +56,8 @@ sun word), `<span class="redword">…</span>` (the red word), and French spaces 
 - **cover** — `label` (small capitals), `title`, `subtitle`. Defaults to `post`.
 - **glyph** — a big white symbol on the sky, then the text: `glyph` (one symbol, several separated by
   spaces, or a pair like `"☌/☍"`), `label`, `title`, `text`. Defaults to `og`.
-- **quote** — a review: `quote`, `author`, `context`, `stars` (0–5, default 5). Defaults to `post`.
-  Use real words from a real person, with their permission, and the stars they actually gave.
+- **quote** — a review: `quote`, `author`, `context`, `stars` (1–5, none by default). Defaults to `post`.
+  Use real words from a real person, with their permission, and stars only if they gave that rating.
 - **stat** — one number: `number` (e.g. `"75–90%"`), `text`, `note`, `label` (default "In my
   tests"), `numberStyle` (`"sun"` default, `"red"` or `"plain"`). Defaults to `post`.
 - **challenge** — the Blind Chart Challenge: by default "Which one is you?" with three cards A, B,

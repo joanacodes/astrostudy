@@ -11,13 +11,13 @@ It’s the question I’m asked most, usually at the end of a message, as if it 
 
 ## The question I get most {#the-question}
 
-It almost always comes from a good place. You care about someone, you can’t quite read them, and you hope the sky will. I understand that. I came to astrology because I love understanding how people get to the way they think.
+It almost always comes from a good place. You care about someone, you can’t quite read them, and you hope the sky will. I understand that. I [came to astrology](/blog/i-tested-my-birth-chart/) because I love understanding how people get to the way they think.
 
-But a synastry isn’t a reading *about* someone. It’s a reading of two people side by side — what flows between you, where you rub, how to meet each other better. One of those two people can’t be absent from the decision.
+But [a synastry](/synastry/) isn’t a reading *about* someone. It’s a reading of two people side by side — what flows between you, where you rub, how to meet each other better. One of those two people can’t be absent from the decision.
 
 ## A chart is personal {#a-chart-is-personal}
 
-A birth date, a time and a place are enough to draw a whole chart: where someone’s hardest lessons sit, the wound they keep circling, the part of them they were told to hide. In my own tests, those were the placements that held best — [Saturn, Chiron and Lilith](/how-i-read/), three times out of four or more.
+A birth date, a time and a place are enough to draw a whole chart: where someone’s hardest lessons sit, [the wound they keep circling](/blog/saturn-chiron-lilith/), the part of them they were told to hide. In [my own tests](/how-i-read/), those were the placements that held best — [Saturn](/astrology/saturn/), [Chiron](/astrology/chiron/) and [Lilith](/astrology/black-moon-lilith/), three times out of four or more.
 
 That’s exactly why I won’t read them in secret. Telling you where someone’s Chiron sits, without them knowing, is telling you about a wound they never chose to show you. Even if it’s kind. Even if it’s accurate. *Especially* if it’s accurate.
 
@@ -29,7 +29,7 @@ Not much, but it isn’t optional:
 - **The other person knows** about the reading — and for a [co-worker reading](/synastry/coworkers/), that they agreed to it.
 - **You’ve been together a while.** For couples, I suggest [a synastry](/synastry/couples/) once you’ve shared at least a few months.
 
-The order form asks you to confirm these. It’s not paperwork: it’s the first sentence of the reading.
+[The order form](/order/) asks you to confirm these. It’s not paperwork: it’s the first sentence of the reading.
 
 ## “We just met” {#we-just-met}
 

@@ -6,7 +6,7 @@
     {{- with $r.featured }}
     <figure class="quote-feature">
       <p class="quote-feature__pull" data-reveal>“{{ .pull }}”</p>
-      <div data-reveal style="--d:.06s">{{ partial "stars.html" .stars }}</div>
+      {{- with .stars }}<div data-reveal style="--d:.06s">{{ partial "stars.html" . }}</div>{{ end }}
       <blockquote data-reveal style="--d:.1s">
         {{- range .quote }}
         <p>{{ . }}</p>
@@ -30,5 +30,7 @@
       </div>
     </div>
     {{- end }}
+    {{- /* EU law asks a site that shows reviews to say where they come from and how they were checked */}}
+    <p class="reviews-source" data-reveal>{{ i18n "reviewsSource" }}</p>
   </div>
 </section>

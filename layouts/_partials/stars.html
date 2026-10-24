@@ -1,4 +1,7 @@
-{{- /* Stars over a kind word: the "stars" given with it in data/reviews.yml, five unless it says
-       otherwise. Read out as words; drawn as symbols. */ -}}
-{{- $n := int (. | default 5) }}
+{{- /* Stars over a kind word, only when the person gave that rating: the "stars" beside it in
+       data/reviews.yml. Without a rating there are no stars: stars nobody gave would mislead, and UK and
+       EU law on reviews forbids it. Read out as words; drawn as symbols. */ -}}
+{{- with . }}
+{{- $n := int . }}
 <p class="stars" role="img" aria-label="{{ i18n "starsLabel" (dict "n" $n) }}">{{ range seq $n }}<span aria-hidden="true">★&#xFE0E;</span>{{ end }}</p>
+{{- end }}

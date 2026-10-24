@@ -6,6 +6,9 @@
 # Ask the client before publishing if you haven't already.
 #
 # tarot: reviews of the same reader's tarot readings, published on the Maison Tarot Facebook page.
+#
+# stars: add it (1 to 5) only to a review whose author gave that rating, e.g. on Trustpilot. Facebook
+# recommendations and messages carry no rating, so they show no stars.
 # They are tarot, not astrology, and the site says so next to each one.
 en:
   featured:

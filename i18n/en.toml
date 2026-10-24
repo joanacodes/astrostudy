@@ -24,6 +24,7 @@ coworkers = "Co-workers"
 family = "Family"
 howIRead = "How I read"
 kindWords = "Kind words"
+reviewsSource = "Where these come from: a message a client sent after a birth chart reading, shortened (cuts are marked), and reviews copied as written, with their dates, from the Maison Tarot Facebook page. Each was written by someone who had a reading with me."
 writeToMe = "Write to me"
 fineprint = "Readings are for adults (18+) and are offered for reflection and entertainment. They are not medical, legal, financial or psychological advice, and no outcome is promised."
 fineprintLink = "Everything I say about that"
@@ -206,9 +207,11 @@ blogAll = "All"
 blogNoMatch = "No article matches that. Try another word, or another category."
 blogRelated = "You might also read"
 blogLatestList = "Latest articles"
+blogEntries = "In the encyclopaedia"
+byline = "By {{ .name }} from The Astro Study"
 
 # llms.txt (a plain map of the site for AI assistants)
-llmsAbout = """The Astro Study offers written astrology readings in English and French: birth chart readings for adults (18+) and synastry readings for couples, friends, co-workers and family. Each reading is prepared with the reader's own system and read in full before it is sent; it arrives within a week in a private online space.
+llmsAbout = """The Astro Study offers written astrology readings in English and French: birth chart readings for adults (18+) and synastry readings for couples, friends, co-workers and family. Each reading is prepared with the reader's own system and read in full before it is sent; it arrives within a week in a private online space. The readings and the articles are by Joana, who runs The Astro Study.
 
 The method comes from testing astrology placement by placement. In the reader's own notebook tests, about 30–40% of placements held overall, while Saturn, Lilith and Chiron held 75–90% of the time, so the readings spend the most time there and say which parts rest on less. Readings are offered for reflection and entertainment.
 
@@ -226,6 +229,7 @@ encReviewed = "Last reviewed {{ .date }}"
 encQuestions = "Questions people ask"
 encRelated = "Read next"
 encSources = "Sources"
+encInBlog = "In the blog"
 encMethod = "How I tested what I write here:"
 encName = "Encyclopaedia"
 fam_foundations = "Foundations"

@@ -1782,6 +1782,14 @@ main h2:not(.visually-hidden),
   outline: 2px solid var(--accent);
   outline-offset: 4px;
 }
+/* where the reviews come from: small print under them, as the EU asks */
+.reviews-source {
+  margin: 22px 0 0;
+  max-width: 64ch;
+  font-size: 0.82rem;
+  line-height: 1.5;
+  color: var(--ink-2);
+}
 .quotes {
   display: flex;
   gap: 0;

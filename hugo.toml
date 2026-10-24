@@ -202,8 +202,8 @@ disableKinds = ["taxonomy", "term"]
 
 # Who signs the articles, for readers and for Google: empty = the business itself.
 [params.author]
-  name = ""   # the name you sign readings and articles with
-  url = ""    # your "about the reader" page, once it exists
+  name = "Joana"         # signs the articles and entries: "By Joana from The Astro Study"
+  page = "/how-i-read"   # the page the name links to (the reader and the method), in each language
 
 [markup]
   # the anchor menu of a blog article lists its sections (## headings)

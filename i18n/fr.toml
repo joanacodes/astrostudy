@@ -24,6 +24,7 @@ coworkers = "Collègues"
 family = "Famille"
 howIRead = "Ma méthode"
 kindWords = "Témoignages"
+reviewsSource = "D’où ils viennent : un message envoyé après une lecture de thème natal, raccourci (les coupes sont signalées), et des avis recopiés avec leur date depuis la page Facebook de Maison Tarot ; tous sont traduits de l’anglais. Chacun a été écrit par une personne qui a eu une lecture avec moi."
 writeToMe = "M’écrire"
 fineprint = "Les lectures s’adressent aux adultes (18 ans et plus) et sont proposées à titre de réflexion et de divertissement. Elles ne remplacent pas un avis médical, juridique, financier ou psychologique, et aucun résultat n’est promis."
 fineprintLink = "Tout ce que j’en dis"
@@ -206,9 +207,11 @@ blogAll = "Tout"
 blogNoMatch = "Aucun article ne correspond. Essayez un autre mot, ou une autre catégorie."
 blogRelated = "À lire aussi"
 blogLatestList = "Les derniers articles"
+blogEntries = "Dans l’encyclopédie"
+byline = "Par {{ .name }}, de The Astro Study"
 
 # llms.txt (une carte du site en texte simple, pour les assistants IA)
-llmsAbout = """The Astro Study propose des lectures d'astrologie écrites, en français et en anglais : des lectures de thème natal pour les adultes (18 ans et plus) et des synastries pour les couples, les amis, les collègues et la famille. Chaque lecture est préparée avec le système maison, puis relue en entier avant l'envoi ; elle arrive sous une semaine dans un espace privé en ligne.
+llmsAbout = """The Astro Study propose des lectures d'astrologie écrites, en français et en anglais : des lectures de thème natal pour les adultes (18 ans et plus) et des synastries pour les couples, les amis, les collègues et la famille. Chaque lecture est préparée avec le système maison, puis relue en entier avant l'envoi ; elle arrive sous une semaine dans un espace privé en ligne. Les lectures et les articles sont signés Joana, qui tient The Astro Study.
 
 La méthode vient de tests de l'astrologie, placement par placement. Dans les carnets de test de The Astro Study, environ 30 à 40 % des placements ont tenu dans l'ensemble, tandis que Saturne, Lilith et Chiron ont tenu 75 à 90 % du temps : les lectures passent donc le plus de temps là, et disent quelles parties reposent sur moins. Les lectures sont proposées à titre de réflexion et de divertissement.
 
@@ -226,6 +229,7 @@ encReviewed = "Relue le {{ .date }}"
 encQuestions = "Les questions qu’on me pose"
 encRelated = "À lire ensuite"
 encSources = "Sources"
+encInBlog = "Dans le blog"
 encMethod = "Comment j’ai testé ce que j’écris ici :"
 encName = "Encyclopédie"
 fam_foundations = "Les bases"

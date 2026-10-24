@@ -414,7 +414,7 @@ const QUOTE_CSS = `
 .is-land .who span{font-size:17px}
 `;
 function quote(job, d) {
-  const n = Math.max(0, Math.min(5, Number(job.stars ?? 5)));
+  const n = Math.max(0, Math.min(5, Number(job.stars ?? 0))); // only a rating the person gave
   const stars = n ? `<div class="stars" role="img" aria-label="${esc(words(job.lang).stars(n))}">${'★︎'.repeat(n)}</div>` : '';
   const q = String(job.quote || '').trim();
   const quoted = /^[“"«]/.test(q) ? q : job.lang?.startsWith('fr') ? `« ${q} »` : `“${q}”`;

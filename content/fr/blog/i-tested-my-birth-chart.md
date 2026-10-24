@@ -13,19 +13,19 @@ Je ne suis pas venue à l’astrologie pour y croire. J’y suis arrivée pendan
 
 ## La méthode de la facture {#la-methode}
 
-J’ai imprimé mon thème et je l’ai épluché comme une facture. Chaque placement — Soleil, Lune, ascendant, chaque planète dans son signe et sa maison — et à côté de chacun, une coche ou une croix.
+J’ai imprimé mon thème et je l’ai épluché comme une facture. Chaque [placement](/astrology/) — Soleil, Lune, ascendant, chaque planète dans son signe et sa maison — et à côté de chacun, une coche ou une croix.
 
 Une **coche** si cela me décrivait d’une façon que je n’aurais pu écrire sur personne d’autre. Une **croix** si c’était vague, faux, ou si cela allait aussi bien à ma voisine. Pas de demi-points. Les demi-points, c’est là que se loge l’envie d’y croire.
 
 ## Puis d’autres personnes {#d-autres-personnes}
 
-Mon propre thème ne suffisait pas : je me connais trop bien pour être juste. J’ai donc fait de même pour ma famille, des amis, et des personnes en ligne qui ne m’avaient rien dit d’elles — avec leur accord, et en silence jusqu’à la fin. Puis elles ont noté chaque ligne.
+Mon propre thème ne suffisait pas : je me connais trop bien pour être juste. J’ai donc fait de même pour ma famille, des amis, et des personnes en ligne qui ne m’avaient rien dit d’elles — [avec leur accord](/blog/synastry-behind-their-back/), et en silence jusqu’à la fin. Puis elles ont noté chaque ligne.
 
 ## Ce qui a tenu {#ce-qui-a-tenu}
 
-Dans l’ensemble, environ un tiers : **30 à 40 %**. Le signe solaire, l’ascendant, Vénus, Mercure — les placements que tout le monde lit en premier. Ce n’est pas rien, mais c’est proche du score d’un horoscope flatteur et vague, alors je les tiens à distance.
+Dans l’ensemble, environ un tiers : **30 à 40 %**. Le signe solaire, l’[ascendant](/blog/unknown-birth-time/), Vénus, Mercure — les placements que tout le monde lit en premier. Ce n’est pas rien, mais c’est proche du score d’un horoscope flatteur et vague, alors je les tiens à distance.
 
-Trois étaient différents. **Saturne, Lilith et Chiron ont tenu 75 à 90 % du temps**, pour moi et pour les personnes testées. Je les ai vérifiés plus que les autres, justement parce que je ne voulais pas que ce soit vrai.
+Trois étaient différents. **[Saturne](/astrology/saturn/), [Lilith](/astrology/black-moon-lilith/) et [Chiron](/astrology/chiron/) ont tenu 75 à 90 % du temps**, pour moi et pour les personnes testées. Je les ai vérifiés plus que les autres, justement parce que je ne voulais pas que ce soit vrai.
 
 ## Ce que cela ne prouve pas {#ce-que-cela-ne-prouve-pas}
 
@@ -33,4 +33,4 @@ C’est un carnet, pas une étude : un décompte à la main, par moi, surtout s
 
 ## Ce que cela a changé {#ce-que-cela-a-change}
 
-Deux choses. Je passe le plus de temps là où se trouvent, dans votre thème, [les trois qui ont le mieux tenu](/blog/saturn-chiron-lilith/). Et quand quelque chose repose sur un placement qui a moins souvent tenu dans mes tests, je vous le dis — pour que vous en jugiez vous-même. C’est toute [ma méthode](/how-i-read/).
+Deux choses. Dans une [lecture de thème natal](/birth-chart/), je passe le plus de temps là où se trouvent, dans votre thème, [les trois qui ont le mieux tenu](/blog/saturn-chiron-lilith/). Et quand quelque chose repose sur un placement qui a moins souvent tenu dans mes tests, je vous le dis — pour que vous en jugiez vous-même. C’est toute [ma méthode](/how-i-read/).

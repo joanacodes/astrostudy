@@ -12,19 +12,19 @@ I didn’t come to astrology to believe it. I came to it during the pandemic, bo
 
 ## The invoice method {#the-method}
 
-I printed my chart and went through it like an invoice. Every placement — Sun, Moon, rising, each planet in its sign and house — and beside each one, a tick or a cross.
+I printed my chart and went through it like an invoice. Every [placement](/astrology/) — Sun, Moon, rising, each planet in its sign and house — and beside each one, a tick or a cross.
 
 A **tick** if it described me in a way I couldn’t have written about anyone else. A **cross** if it was vague, wrong, or would have fitted my neighbour just as well. No half marks. Half marks are where wishful thinking lives.
 
 ## Then other people {#other-people}
 
-My own chart wasn’t enough: I know myself too well to be fair. So I did the same for my family, for friends, and for people online who told me nothing about themselves first — with their permission, and in silence until I’d finished. Then they marked each line.
+My own chart wasn’t enough: I know myself too well to be fair. So I did the same for my family, for friends, and for people online who told me nothing about themselves first — [with their permission](/blog/synastry-behind-their-back/), and in silence until I’d finished. Then they marked each line.
 
 ## What held {#what-held}
 
-Overall, about a third: **30 to 40%**. The Sun sign, the rising sign, Venus, Mercury — the placements everyone reads first. That isn’t nothing, but it’s close to what a flattering, vague horoscope scores, so I hold those lightly.
+Overall, about a third: **30 to 40%**. The Sun sign, the [rising sign](/blog/unknown-birth-time/), Venus, Mercury — the placements everyone reads first. That isn’t nothing, but it’s close to what a flattering, vague horoscope scores, so I hold those lightly.
 
-Three were different. **Saturn, Lilith and Chiron held 75 to 90% of the time**, for me and for the people I tested. I checked them more than the rest, precisely because I didn’t want it to be true.
+Three were different. **[Saturn](/astrology/saturn/), [Lilith](/astrology/black-moon-lilith/) and [Chiron](/astrology/chiron/) held 75 to 90% of the time**, for me and for the people I tested. I checked them more than the rest, precisely because I didn’t want it to be true.
 
 ## What it doesn’t prove {#what-it-doesnt-prove}
 
@@ -32,4 +32,4 @@ It’s a notebook, not a study: a count by hand, by me, mostly on people I knew.
 
 ## How it changed my readings {#how-it-changed}
 
-Two things. I spend the most time where the [three that held best](/blog/saturn-chiron-lilith/) sit in your chart. And when something rests on a placement that held less often in my tests, I tell you — so you can weigh it for yourself. That’s the whole of [how I read](/how-i-read/).
+Two things. In a [birth chart reading](/birth-chart/), I spend the most time where the [three that held best](/blog/saturn-chiron-lilith/) sit in your chart. And when something rests on a placement that held less often in my tests, I tell you — so you can weigh it for yourself. That’s the whole of [how I read](/how-i-read/).

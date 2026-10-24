@@ -123,6 +123,11 @@ jobs:
           BASE_URL: ${{ steps.pages.outputs.base_url }}
         run: hugo --gc --minify ${BASE_URL:+--baseURL "$BASE_URL/"}
 
+      # A broken internal link or #anchor, or a blog article that links to fewer than 3 other pages from
+      # its own text, stops the deploy here, before anything is published; thinner spots show as warnings.
+      - name: Check the links
+        run: node tools/check-links.mjs public
+
       - name: Check the Worker (not deployed from this branch)
         if: steps.target.outputs.target == 'check'
         run: npx --yes "wrangler@${WRANGLER_VERSION}" deploy --dry-run --outdir "$RUNNER_TEMP/worker"

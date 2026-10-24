@@ -11,13 +11,13 @@ summary: "A planet is retrograde when, seen from Earth, it seems to move backwar
 
 ## What retrograde means {#what-it-means}
 
-No planet actually turns back. Seen from Earth, which is moving too, a planet sometimes seems to slow, stop, and drift backwards against the stars for a few weeks, before carrying on. That apparent backwards stretch is called retrograde. If you were born during one, that planet is retrograde in your chart.
+No planet actually turns back. Seen from Earth, which is moving too, a planet sometimes seems to slow, stop, and drift backwards against the stars for a few weeks, before carrying on. That apparent backwards stretch is called retrograde. If you were born during one, that planet is retrograde in your chart. The slow planets spend months of every year this way: [Saturn](/astrology/saturn/) about four and a half, [Chiron](/astrology/chiron/) about five. A retrograde Saturn or Chiron is common, and never a flaw.
 
 ## Planets that work inward {#inward}
 
 When I see several retrograde planets in a chart, I often find a person who processes inside first: who needs to turn something over, alone, before they can say it. In conversation they may look slow. Inside, they’re usually miles ahead.
 
-One client put it better than I could, after their reading: *it feels like all my planets like to work inward first.*
+[One client](/#kind-words) put it better than I could, after their reading: *it feels like all my planets like to work inward first.*
 
 ## It isn’t delay {#it-isnt-delay}
 
@@ -29,4 +29,4 @@ A few things that tend to help: asking for time before answering, writing things
 
 ## In a reading {#in-a-reading}
 
-In a [birth chart reading](/birth-chart/), retrogrades get their own place, next to the planets themselves: which ones, and what they turn inward. Like everything else in a chart, it describes a tendency, never a sentence.
+In a [birth chart reading](/birth-chart/), retrogrades get their own place, next to [the planets themselves](/astrology/): which ones, and what they turn inward. Like everything else in a chart, it describes [a tendency, never a sentence](/how-i-read/).

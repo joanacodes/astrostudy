@@ -12,13 +12,13 @@ summary: "Une planète est rétrograde quand, vue de la Terre, elle semble recul
 
 ## Ce que veut dire rétrograde {#ce-que-cela-veut-dire}
 
-Aucune planète ne fait vraiment demi-tour. Vue depuis la Terre, qui bouge elle aussi, une planète semble parfois ralentir, s’arrêter et reculer devant les étoiles quelques semaines, avant de reprendre sa route. Ce recul apparent s’appelle la rétrogradation. Si vous êtes né pendant l’une d’elles, cette planète est rétrograde dans votre thème.
+Aucune planète ne fait vraiment demi-tour. Vue depuis la Terre, qui bouge elle aussi, une planète semble parfois ralentir, s’arrêter et reculer devant les étoiles quelques semaines, avant de reprendre sa route. Ce recul apparent s’appelle la rétrogradation. Si vous êtes né pendant l’une d’elles, cette planète est rétrograde dans votre thème. Les planètes lentes passent ainsi des mois chaque année : [Saturne](/astrology/saturn/) environ quatre mois et demi, [Chiron](/astrology/chiron/) environ cinq. Un Saturne ou un Chiron rétrograde est donc courant, et jamais un défaut.
 
 ## Des planètes qui travaillent à l’intérieur {#a-l-interieur}
 
 Quand je vois plusieurs planètes rétrogrades dans un thème, je trouve souvent une personne qui digère d’abord à l’intérieur : qui a besoin de retourner une chose, seule, avant de pouvoir la dire. En conversation, elle peut sembler lente. À l’intérieur, elle a souvent plusieurs longueurs d’avance.
 
-Une personne lue l’a dit mieux que moi, après sa lecture : *on dirait que toutes mes planètes aiment d’abord travailler vers l’intérieur.*
+[Une personne lue](/#kind-words) l’a dit mieux que moi, après sa lecture : *on dirait que toutes mes planètes aiment d’abord travailler vers l’intérieur.*
 
 ## Ce n’est pas du retard {#pas-du-retard}
 
@@ -30,4 +30,4 @@ Quelques choses aident souvent : demander du temps avant de répondre, écrire 
 
 ## Dans une lecture {#dans-une-lecture}
 
-Dans une [lecture de thème natal](/birth-chart/), les rétrogrades ont leur place, à côté des planètes elles-mêmes : lesquelles, et ce qu’elles tournent vers l’intérieur. Comme tout le reste d’un thème, cela décrit une tendance, jamais une sentence.
+Dans une [lecture de thème natal](/birth-chart/), les rétrogrades ont leur place, à côté [des planètes elles-mêmes](/astrology/) : lesquelles, et ce qu’elles tournent vers l’intérieur. Comme tout le reste d’un thème, cela décrit [une tendance, jamais une sentence](/how-i-read/).

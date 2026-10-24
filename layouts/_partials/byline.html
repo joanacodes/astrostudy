@@ -1,0 +1,7 @@
+{{- /* "By Joana from The Astro Study", the name linking to the page about the reader and the method, in
+       the reader's language. Google, AI assistants and readers all trust a page more when they can see who
+       wrote it. Nothing shows until hugo.toml names the author. */ -}}
+{{- with site.Params.author.name -}}
+{{- $name := . -}}
+{{- with site.Params.author.page }}{{ with site.GetPage . }}{{ $name = printf `<a class="link" href="%s" rel="author">%s</a>` .RelPermalink $name }}{{ end }}{{ end -}}
+{{ i18n "byline" (dict "name" $name) | safeHTML }} · {{ end -}}

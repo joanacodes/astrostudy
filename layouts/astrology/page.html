@@ -10,7 +10,7 @@
     <div class="article-head">
       <h1>{{ with .Params.glyph }}{{ partial "glyph.html" . }}{{ end }}{{ .Params.h1 | default .Title | safeHTML }}</h1>
       <div>
-        <p class="article-meta">{{ with $fam }}{{ i18n (printf "fam_%s" .) }} · {{ end }}{{ with .Params.reviewed }}{{ i18n "encReviewed" (dict "date" (time.Format ":date_long" .)) }}{{ end }}</p>
+        <p class="article-meta">{{ with $fam }}{{ i18n (printf "fam_%s" .) }} · {{ end }}{{ partial "byline.html" . }}{{ with .Params.reviewed }}{{ i18n "encReviewed" (dict "date" (time.Format ":date_long" .)) }}{{ end }}</p>
         {{- with .Params.definition }}
         <aside class="short-answer">
           <p class="label">{{ i18n "encDefinition" }}</p>
@@ -35,7 +35,7 @@
         <p class="rail__note">{{ i18n "encMethod" }} <a class="link" href="{{ partial "url.html" "/how-i-read/" }}">{{ i18n "blogMethodLink" }}</a>.</p>
         <p class="rail__note"><a class="link" href="{{ partial "url.html" "/disclaimers/" }}#entertainment">{{ i18n "blogDisclaimer" }}</a></p>
       </aside>
-      <div class="prose">{{ .Content }}</div>
+      <div class="prose" data-body="entry" data-terms="{{ delimit (partial "entry-terms.html" .) "|" }}">{{ .Content }}</div>
       <aside class="article-side">
         <div class="side-card">
           <p class="label">{{ i18n "blogSideLabel" }}</p>
@@ -64,6 +64,26 @@
         <a class="post-card" href="{{ .RelPermalink }}">{{ partial "post-cover.html" . }}<span class="post-card__title">{{ .Title }}</span><span class="post-card__desc">{{ .Params.definition | default .Description | plainify }}</span></a>
         {{- end }}
       </div>
+    </div>
+    {{- end }}
+
+    {{- /* the articles that mention this entry, newest first: the way back from the encyclopaedia to the
+           blog, kept up by itself as articles are added */}}
+    {{- $terms := partial "entry-terms.html" . }}
+    {{- $posts := slice }}
+    {{- range (where site.RegularPages "Section" "blog").ByDate.Reverse }}
+    {{- $p := . }}{{ $hit := false }}
+    {{- range $terms }}{{ if in $p.Plain . }}{{ $hit = true }}{{ end }}{{ end }}
+    {{- if $hit }}{{ $posts = $posts | append $p }}{{ end }}
+    {{- end }}
+    {{- with first 6 $posts }}
+    <div class="blog-after">
+      <p class="label">{{ i18n "encInBlog" }}</p>
+      <ul class="post-list">
+        {{- range . }}
+        <li><a href="{{ .RelPermalink }}"><span><span class="post-list__title">{{ .Title }}</span><span class="article-meta">{{ partial "post-meta.html" . }}</span></span><span class="post-list__arrow" aria-hidden="true">→</span></a></li>
+        {{- end }}
+      </ul>
     </div>
     {{- end }}
 

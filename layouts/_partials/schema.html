@@ -16,11 +16,11 @@
 {{- with $same }}{{ $org = merge $org (dict "sameAs" .) }}{{ end }}
 {{- $graph := slice $org }}
 
-{{- /* the author: the person once hugo.toml names them, the business until then */}}
+{{- /* the author: the person once hugo.toml names them, working for the business; the business until then */}}
 {{- $author := dict "@id" $orgID }}
 {{- with site.Params.author.name }}
-{{- $author = dict "@type" "Person" "name" . }}
-{{- with site.Params.author.url }}{{ $author = merge $author (dict "url" (. | absURL)) }}{{ end }}
+{{- $author = dict "@type" "Person" "name" . "worksFor" (dict "@id" $orgID) }}
+{{- with site.Params.author.page }}{{ with site.GetPage . }}{{ $author = merge $author (dict "url" .Permalink) }}{{ end }}{{ end }}
 {{- end }}
 
 {{- if $p.IsHome }}

@@ -126,13 +126,21 @@ One **Menu** button in the bar opens, on a computer, a panel that slides down fr
 
 A new article is a Markdown file in `content/en/blog/` (and its translation in `content/fr/blog/`, same file name, with a French `slug`). Front matter: `title`, `description`, `date`, `categories`, `summary` (the short answer), `glyph` (the sign on its cover until it has a picture) and optionally `image` (a path under `static/`). Give each `##` heading an anchor, e.g. `## We just met {#we-just-met}`: those make the anchor menu. The five first articles are samples in your voice, built from what the site already says: read them before they go live.
 
+## Internal links
+
+Links between pages are how readers, Google and AI assistants find their way through the site, so they are written in, added automatically, and checked.
+
+- **In the text.** Every article links to at least 3 other pages of the site, and 5 or more is the aim: the encyclopaedia entries it names, the articles it builds on, How I read, and at most one reading page. Write the English path even in a French text (`[Saturne](/astrology/saturn/)`): it opens the French page.
+- **Automatically.** Under each article, “In the encyclopaedia” shows the entries it names; under each entry, “In the blog” lists the articles that name it. An entry is found by its title, or by the names in its `terms` (`terms: ["Black Moon Lilith", "Lilith"]`), with capitals as written, so an entry written later joins the older articles by itself.
+- **Checked at every deploy** (`tools/check-links.mjs`, after the build). A broken link or #anchor, or an article with fewer than 3 links in its text, stops the deploy before anything is published. Warnings in the run list an article under 5 links, a page no article or entry links to from its text, and an entry an article names without linking. To run it yourself after `hugo`: `node tools/check-links.mjs public`.
+
 ## The encyclopaedia
 
 `/astrology/` and `/fr/astrologie/`: one entry per element of astrology, from the master list (the "Astrology bible — master list" tab of the growth plan). Each entry is a Markdown file in `content/en/astrology/` and its translation in `content/fr/astrology/` (same file name, French `slug`). Front matter: `title`, `h1`, `description`, `family` (its group on the front page: planets, points, bodies, signs, houses… — the labels are `fam_*` in `i18n/`), `weight` (order in the group), `glyph`, `definition` (the one paragraph shown first, 40–60 words: the lines Google and AI assistants quote), `facts` (the quick facts grid), `faq`, `related`, `sources` (each a `title` with either `page`, a page of this site such as `/blog/i-tested-my-birth-chart`, which opens in the reader's language, or `url`, an outside address), `reviewed` (the date you last checked it). Give every `##` heading an anchor: they make the "In this entry" menu. Three entries are written as samples of the format: Saturn, Chiron and Black Moon Lilith.
 
 ## Search engines and AI assistants
 
-- **Structured data** on every page (`layouts/_partials/schema.html`): the business (one entity in every language), articles with author and dates, encyclopaedia entries as defined terms, reading pages as services, questions and answers, breadcrumbs. Set `[params.author] name` in `hugo.toml` and articles carry your name.
+- **Structured data** on every page (`layouts/_partials/schema.html`): the business (one entity in every language), articles with author and dates, encyclopaedia entries as defined terms, reading pages as services, questions and answers, breadcrumbs. Articles and entries are signed “By Joana from The Astro Study” (`[params.author]` in `hugo.toml`), the name linking to How I read.
 - **Profiles** (`instagram`, `threads`, `tiktok`, `youtube`, `pinterest`, `facebook`, `trustpilot` in `hugo.toml`): each one set appears in the footer and links the accounts to the site for Google and AI assistants.
 - **Large previews** for Google Discover (`max-image-preview:large`), and each article's own share picture (`static/og/…`, drawn at deploy).
 - **`/llms.txt`** (and `/fr/llms.txt`): a plain map of the site for AI assistants, built from the pages.
