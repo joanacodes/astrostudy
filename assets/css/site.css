@@ -1649,6 +1649,75 @@ main h2:not(.visually-hidden),
   font-weight: 550;
 }
 
+/* the blind chart calls (layouts/event/page.html): one card per call, its time in a few cities' clocks,
+   the reader's own clock under them, then its sign-up */
+.calls {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: clamp(16px, 2.5vw, 28px);
+}
+@media (max-width: 760px) {
+  .calls {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+.call {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: clamp(22px, 3vw, 34px);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: rgba(var(--halo), 0.45);
+}
+.call h3 {
+  font-size: 1.6rem;
+  margin: 6px 0 16px;
+}
+.call__times {
+  align-self: stretch;
+  margin: 0 0 16px;
+  padding: 0;
+  list-style: none;
+}
+.call__times li {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 9px 0;
+  border-top: 1px solid var(--line);
+}
+.call__times span {
+  color: var(--ink-2);
+}
+.call__times strong {
+  font-weight: 500;
+}
+/* the calls' own clock (the first city) carries the weight; the others are conversions of it */
+.call__times li:first-child strong {
+  color: var(--accent-ink);
+  font-weight: 600;
+}
+.call__yours {
+  margin: 0 0 20px;
+  color: var(--ink-2);
+  font-size: 0.92rem;
+}
+.call__yours strong {
+  color: var(--ink);
+  font-weight: 500;
+}
+.call__status {
+  margin: 14px 0 0;
+  color: var(--ink-3);
+  font-size: 0.86rem;
+}
+.call__status--soon {
+  margin-top: auto;
+  padding-top: 4px;
+  color: var(--ink-2);
+}
+
 /* refusals list */
 .refusals {
   list-style: none;

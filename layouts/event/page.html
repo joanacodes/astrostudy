@@ -1,0 +1,142 @@
+{{ define "main" }}
+{{- /* The free blind chart calls: everything someone needs to decide (when, on their own clock; how a
+       call runs; what happens to their birth details) and, for each call, its Zoom sign-up. The calls
+       live in the page's front matter, read here and by the structured data (schema.html), so each time
+       is typed once and every city's clock is worked out from it. */ -}}
+{{- $p := . }}
+{{- $calls := .Params.calls }}
+{{- $zones := .Params.zones }}
+{{- $home := index $zones 0 }}
+{{- $first := time.AsTime (index $calls 0).start }}
+{{- $firstClock := partial "clock.html" (dict "t" $first "tz" $home.tz) }}
+
+{{- /* the hero's facts: the days, and the time in the first three cities while every call starts at
+       the same hour (if one didn't, a single time would mislead, so the line is left out) */}}
+{{- $days := slice }}
+{{- $sameHour := true }}
+{{- range $calls }}
+  {{- $days = $days | append (time.Format (i18n "eventDay") (time.In $home.tz (time.AsTime .start))) }}
+  {{- if ne (partial "clock.html" (dict "t" .start "tz" $home.tz)) $firstClock }}{{ $sameHour = false }}{{ end }}
+{{- end }}
+{{- $facts := slice (dict "k" (i18n "eventWhen") "v" (delimit $days (i18n "eventAnd"))) }}
+{{- if $sameHour }}
+  {{- $times := slice }}
+  {{- range first 3 $zones }}{{ $times = $times | append (printf "%s %s" (partial "clock.html" (dict "t" $first "tz" .tz)) .name) }}{{ end }}
+  {{- $facts = $facts | append (dict "k" (i18n "eventTime") "v" (delimit $times " · ")) }}
+{{- end }}
+{{- $facts = $facts | append (dict "k" (i18n "eventWhereLabel") "v" (i18n "eventWhere" (dict "m" .Params.minutes))) }}
+{{- $facts = $facts | append (dict "k" (i18n "eventWhoLabel") "v" (i18n "eventWho" (dict "n" .Params.places))) }}
+{{- range .Params.facts }}{{ $facts = $facts | append . }}{{ end }}
+{{ partial "hero.html" (dict "page" . "facts" $facts "actions" (slice (dict "label" (i18n "eventSeeCalls") "href" "#calls" "arrow" "↓" "solid" true))) }}
+
+<section class="paper section" id="calls" aria-labelledby="calls-title">
+  <div class="wrap">
+    {{ partial "meta.html" (dict "n" "01" "label" (i18n "eventCalls")) }}
+    <div class="section__head">
+      <h2 id="calls-title" data-reveal>{{ partial "glyph.html" "☉" }}{{ .Params.callsTitle | safeHTML }}</h2>
+      {{ with .Params.callsLede }}<p class="lede" data-reveal style="--d:.1s">{{ . | safeHTML }}</p>{{ end }}
+    </div>
+    {{- $closes := "" }}
+    {{- with .Params.closes }}
+      {{- $c := time.AsTime . }}
+      {{- $closes = i18n "eventAt" (dict "day" (time.Format (i18n "eventDay") (time.In $home.tz $c)) "time" (partial "clock.html" (dict "t" $c "tz" $home.tz)) "zone" $home.name) }}
+    {{- end }}
+    <div class="calls">
+      {{- range $i, $c := $calls }}
+      {{- $start := time.AsTime $c.start }}
+      {{- $there := time.In $home.tz $start }}
+      <article class="call" data-reveal style="--d:{{ mul $i 0.1 }}s">
+        <p class="label">{{ i18n "eventCallN" (dict "n" (add $i 1)) }}</p>
+        <h3>{{ time.Format (i18n "eventDay") $there }}</h3>
+        <ul class="call__times">
+          {{- range $zones }}
+          {{- $t := time.In .tz $start }}
+          {{- /* a city past midnight says so, rather than showing a time that reads as the same evening */}}
+          <li><span>{{ .name }}</span><strong>{{ partial "clock.html" (dict "t" $start "tz" .tz) }}{{ if ne $t.Day $there.Day }} ({{ time.Format "Monday" $t }}){{ end }}</strong></li>
+          {{- end }}
+        </ul>
+        {{- /* filled in by site.js from the reader's own time zone; hidden if the script never runs */}}
+        <p class="call__yours" data-local-time="{{ $start.UTC.Format "2006-01-02T15:04:05Z" }}" hidden>{{ i18n "eventYourClock" }} <strong></strong></p>
+        {{- if now.After $start }}
+        <p class="call__status">{{ i18n "eventPast" }}</p>
+        {{- else if $c.full }}
+        <p class="call__status">{{ i18n "eventFull" }}</p>
+        {{- else if $c.zoom }}
+        <a class="btn btn--solid" href="{{ $c.zoom }}" rel="noopener" target="_blank">{{ i18n "eventRegister" }} <span class="btn__arrow" aria-hidden="true">→</span></a>
+        <p class="call__status">{{ i18n "eventPlaces" (dict "n" $p.Params.places) }}{{ with $closes }} · {{ i18n "eventCloses" (dict "when" .) }}{{ end }}</p>
+        {{- else }}
+        {{- /* no Zoom link yet: say so plainly rather than show a button that leads nowhere */}}
+        <p class="call__status call__status--soon">{{ i18n "eventSoon" }}</p>
+        {{- end }}
+      </article>
+      {{- end }}
+    </div>
+    {{ with .Params.later }}<p class="note" data-reveal style="margin-top:32px">{{ . | safeHTML }}</p>{{ end }}
+  </div>
+</section>
+
+{{ with .Params.steps }}
+<section class="paper section" aria-labelledby="steps-title">
+  <div class="wrap">
+    {{ partial "meta.html" (dict "n" "02" "label" (i18n "howItGoes")) }}
+    <div class="split">
+      <div class="section__head">
+        <h2 id="steps-title" data-reveal>{{ partial "glyph.html" "☿" }}{{ .title | safeHTML }}</h2>
+        {{ with .lede }}<p class="lede" data-reveal style="--d:.1s">{{ . | safeHTML }}</p>{{ end }}
+      </div>
+      {{ partial "steps.html" .items }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ with .Params.window }}
+<section class="window"><div class="window__text"><p class="display" data-reveal>{{ . | safeHTML }}</p></div></section>
+{{ end }}
+
+{{ with .Content }}
+<section class="paper section">
+  <div class="wrap">
+    {{ partial "meta.html" (dict "n" "03" "label" (i18n "eventWhy")) }}
+    <div class="prose" data-reveal data-body="page">{{ . }}</div>
+  </div>
+</section>
+{{ end }}
+
+{{ with .Params.care }}
+<section class="paper section" aria-labelledby="care-title">
+  <div class="wrap">
+    {{ partial "meta.html" (dict "n" "04" "label" .label) }}
+    <div class="section__head">
+      <h2 id="care-title" data-reveal>{{ partial "glyph.html" "⚷" }}{{ .title | safeHTML }}</h2>
+    </div>
+    <div class="care">
+      {{- range $i, $e := .items }}
+      <div data-reveal style="--d:{{ mul (mod $i 2) 0.1 }}s">
+        <h3>{{ .title | safeHTML }}</h3>
+        <p>{{ .text | safeHTML }}</p>
+      </div>
+      {{- end }}
+    </div>
+    <p class="note" style="margin-top:40px" data-reveal>{{ i18n "eventPrivacy" (dict "href" (partial "url.html" "/privacy/")) | safeHTML }}</p>
+  </div>
+</section>
+{{ end }}
+
+{{ with .Params.faq }}
+<section class="paper section" aria-labelledby="faq-title">
+  <div class="wrap">
+    {{ partial "meta.html" (dict "n" "05" "label" (i18n "questions")) }}
+    <div class="split">
+      <div class="section__head">
+        <h2 id="faq-title" data-reveal>{{ partial "glyph.html" "☽" }}{{ i18n "questionsTitle" | safeHTML }}</h2>
+        <p class="lede" data-reveal style="--d:.1s">{{ i18n "anythingElse" (dict "href" (partial "url.html" "/contact/")) | safeHTML }}</p>
+      </div>
+      {{ partial "faq.html" . }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ with .Params.closing }}{{ partial "closing.html" (dict "closing" .) }}{{ end }}
+{{ end }}

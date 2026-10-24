@@ -1,0 +1,21 @@
+{{- /* A time of day on one city's clock, the way people say it in the page's language: "8pm", "8:30pm",
+       "noon" in English; "20 h", "20 h 30" in French. The time is taken in that zone's own clock, so a call
+       set in Paris time reads right in London or New York whatever their summer time is doing that week
+       (Europe and the US change their clocks a week apart in October).
+       Takes (dict "t" <a time> "tz" "America/New_York"). */ -}}
+{{- $t := time.In .tz (time.AsTime .t) -}}
+{{- $h := $t.Hour -}}
+{{- $m := $t.Minute -}}
+{{- $s := "" -}}
+{{- if eq site.Language.Lang "fr" -}}
+  {{- $s = cond (gt $m 0) (printf "%d h %02d" $h $m) (printf "%d h" $h) -}}
+{{- else if and (eq $h 12) (eq $m 0) -}}
+  {{- $s = "noon" -}}
+{{- else if and (eq $h 0) (eq $m 0) -}}
+  {{- $s = "midnight" -}}
+{{- else -}}
+  {{- $h12 := cond (eq (mod $h 12) 0) 12 (mod $h 12) -}}
+  {{- $ap := cond (lt $h 12) "am" "pm" -}}
+  {{- $s = cond (gt $m 0) (printf "%d:%02d%s" $h12 $m $ap) (printf "%d%s" $h12 $ap) -}}
+{{- end -}}
+{{- return $s -}}

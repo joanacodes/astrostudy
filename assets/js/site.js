@@ -957,6 +957,23 @@ function blogTools(root) {
 }
 
 /* ---------------------------------------------------------------------------------------------
+   The calls page gives each call in a few cities' clocks; this adds the reader's own, from their
+   browser's time zone, so nobody has to do the sum — least of all in the week Europe and the US
+   change their clocks on different Sundays. */
+
+function localTimes(root) {
+  const lang = document.documentElement.lang || undefined;
+  for (const el of $$('[data-local-time]', root)) {
+    const when = new Date(el.dataset.localTime);
+    if (Number.isNaN(when.getTime())) continue;
+    el.querySelector('strong').textContent = when.toLocaleString(lang, {
+      weekday: 'long', day: 'numeric', month: 'long', hour: 'numeric', minute: '2-digit', timeZoneName: 'short',
+    });
+    el.hidden = false;
+  }
+}
+
+/* ---------------------------------------------------------------------------------------------
    Per page. */
 
 function initPage(root, settle = 0) {
@@ -967,6 +984,7 @@ function initPage(root, settle = 0) {
   blogTools(root);
   collectDrawings(root);
   faqs(root);
+  localTimes(root);
   for (const form of $$('[data-form]', root)) wireForm(form);
   for (const box of $$('[data-received]', root)) wireReceived(box);
   for (const form of $$('[data-order-form]', root)) {

@@ -29,6 +29,10 @@
           {{- with site.GetPage "/blog" }}
           <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
           {{- end }}
+          {{- /* the blind chart calls, for as long as their page exists */}}
+          {{- with site.GetPage "/challenge" }}
+          <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+          {{- end }}
           <li><a href="{{ site.Home.RelPermalink }}#kind-words">{{ i18n "kindWords" }}</a></li>
           <li><a href="{{ partial "url.html" "/contact/" }}" data-contact>{{ i18n "writeToMe" }}</a></li>
         </ul>

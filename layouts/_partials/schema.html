@@ -54,6 +54,20 @@
 {{- $graph = $graph | append (dict "@type" "Service" "@id" (printf "%s#service" $p.Permalink) "name" ($p.Title | plainify) "description" ($p.Description | plainify) "serviceType" "Astrology reading" "provider" (dict "@id" $orgID) "url" $p.Permalink "inLanguage" site.Language.Locale) }}
 {{- end }}
 
+{{- /* the blind chart calls: each call an online event, free, with its own sign-up; read from the same
+       front matter as the page, so the times here and on screen can't disagree */}}
+{{- if eq $p.Type "event" }}
+{{- $img := .image }}
+{{- $home := index $p.Params.zones 0 }}
+{{- $length := time.ParseDuration (printf "%dm" (int $p.Params.minutes)) }}
+{{- range $i, $c := $p.Params.calls }}
+{{- $start := time.AsTime $c.start }}
+{{- $offer := dict "@type" "Offer" "price" "0" "priceCurrency" "GBP" "availability" (cond (default false $c.full) "https://schema.org/SoldOut" "https://schema.org/InStock") "url" ($c.zoom | default $p.Permalink) }}
+{{- with $p.Params.closes }}{{ $offer = merge $offer (dict "validThrough" ((time.AsTime .).Format "2006-01-02T15:04:05Z07:00")) }}{{ end }}
+{{- $graph = $graph | append (dict "@type" "Event" "@id" (printf "%s#call-%d" $p.Permalink (add $i 1)) "name" (printf "%s, %s" ($p.Title | plainify) (time.Format (i18n "eventDay") (time.In $home.tz $start))) "description" ($p.Description | plainify) "image" (slice $img) "startDate" ($start.Format "2006-01-02T15:04:05Z07:00") "endDate" (($start.Add $length).Format "2006-01-02T15:04:05Z07:00") "eventAttendanceMode" "https://schema.org/OnlineEventAttendanceMode" "eventStatus" "https://schema.org/EventScheduled" "location" (dict "@type" "VirtualLocation" "url" ($c.zoom | default $p.Permalink)) "isAccessibleForFree" true "maximumAttendeeCapacity" $p.Params.places "inLanguage" "en" "organizer" (dict "@id" $orgID) "performer" $author "offers" $offer "url" $p.Permalink) }}
+{{- end }}
+{{- end }}
+
 {{- with $p.Params.faq }}
 {{- $qs := slice }}
 {{- range . }}{{ $qs = $qs | append (dict "@type" "Question" "name" (.q | plainify | htmlUnescape) "acceptedAnswer" (dict "@type" "Answer" "text" (.a | markdownify | plainify | htmlUnescape))) }}{{ end }}
