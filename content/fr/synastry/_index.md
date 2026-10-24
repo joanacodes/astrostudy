@@ -55,11 +55,11 @@ care:
 
 faq:
   - q: "Faut-il connaître nos deux heures de naissance ?"
-    a: "Ça aide, mais non. Sans les heures, je laisse les maisons de côté, et je vous le dis. Les contacts entre vos planètes se lisent toujours clairement."
+    a: "Ça aide, mais non. Sans les heures, je laisse les maisons de côté, et je vous le dis. Les contacts entre vos planètes se lisent toujours clairement. Plus de détails dans [ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)."
   - q: "Allez-vous nous dire si nous sommes compatibles ?"
     a: "Pas sous forme de verdict. Toute relation a des contacts faciles et des contacts durs ; ce qui compte, c’est la façon dont vous les abordez. Vous saurez où ça circule et où faire attention — ce qui est bien plus utile qu’un pourcentage."
   - q: "Puis-je demander une lecture sans que l’autre le sache ?"
-    a: "Non, jamais. L’autre personne doit savoir que vous demandez cette lecture : le formulaire de commande vous demande de le confirmer. Elle n’a pas à y participer, et je lis son thème avec le même respect que le vôtre. Pour une lecture entre collègues, il faut aussi l’accord de votre collègue."
+    a: "Non, jamais. L’autre personne doit savoir que vous demandez cette lecture : le formulaire de commande vous demande de le confirmer. Elle n’a pas à y participer, et je lis son thème avec le même respect que le vôtre. Pour une lecture entre collègues, il faut aussi l’accord de votre collègue. [Pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)."
   - q: "Peut-on lire une relation qui est terminée ?"
     a: "Oui. Parfois, comprendre pourquoi ça a fait mal, c’est toute la lecture — et ça peut vous aider à refermer la porte."
 

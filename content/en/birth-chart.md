@@ -67,7 +67,7 @@ care:
 
 faq:
   - q: "I don’t know my birth time. Can I still have a reading?"
-    a: "Yes. Without a time, the rising sign and the houses stay unknown, so I leave them out and tell you so. Everything else — the planets, their signs, and how they speak to each other — still reads well. If you can, ask a parent, or look through old family papers."
+    a: "Yes. Without a time, the rising sign and the houses stay unknown, so I leave them out and tell you so. Everything else — the planets, their signs, and how they speak to each other — still reads well. If you can, ask a parent, or look through old family papers. More in [what changes without a birth time](/blog/unknown-birth-time/)."
   - q: "Why only for adults?"
     a: "Because a chart read at the wrong age can become a label you grow into. I don’t read for anyone under 18, and I don’t read about them either."
   - q: "Will it tell me my future?"

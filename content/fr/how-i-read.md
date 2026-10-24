@@ -20,21 +20,21 @@ Pendant la pandémie, je m’ennuyais, et j’ai découvert l’astrologie sur Y
 
 ## Comment j’ai testé {glyph="♄"}
 
-J’ai imprimé mon thème et je l’ai parcouru comme une facture : chaque position — Soleil, Lune, Ascendant, chaque planète dans son signe et sa maison — et, à côté de chacune, une coche ou une croix. Une coche si la description me correspondait d’une façon que je n’aurais pu écrire pour personne d’autre. Une croix si c’était vague, faux, ou si ça aurait aussi bien convenu à ma voisine.
+J’ai imprimé mon thème et je l’ai [parcouru comme une facture](/blog/i-tested-my-birth-chart/) : chaque position — Soleil, Lune, Ascendant, chaque planète dans son signe et sa maison — et, à côté de chacune, une coche ou une croix. Une coche si la description me correspondait d’une façon que je n’aurais pu écrire pour personne d’autre. Une croix si c’était vague, faux, ou si ça aurait aussi bien convenu à ma voisine.
 
-Puis j’ai fait de même, avec leur accord, pour ma famille, mes amis, et des inconnus en ligne qui ne m’avaient rien dit au préalable.
+Puis j’ai fait de même, [avec leur accord](/blog/synastry-behind-their-back/), pour ma famille, mes amis, et des inconnus en ligne qui ne m’avaient rien dit au préalable.
 
 ## Ce qui a tenu {glyph="⚷"}
 
 Dans l’ensemble, environ un tiers de ce que j’ai vérifié a tenu : **30 à 40 %**. Le signe solaire, l’Ascendant, Vénus, Mercure — les positions que tout le monde lit en premier. Ce n’est pas rien, mais c’est proche de ce qu’obtient un horoscope flatteur, alors je les prends avec des pincettes.
 
-Trois corps étaient différents. **Saturne, Lilith et Chiron tenaient 75 à 90 % du temps**, pour moi et pour les personnes que j’ai testées. Là où est Saturne, la leçon la plus dure. Là où est Chiron, la blessure autour de laquelle la personne tourne. Lilith, la part d’elle-même qu’on lui a dit de cacher.
+Trois corps étaient différents. **[Saturne](/astrology/saturn/), [Lilith](/astrology/black-moon-lilith/) et [Chiron](/astrology/chiron/) tenaient 75 à 90 % du temps**, pour moi et pour les personnes que j’ai testées. Là où est Saturne, la leçon la plus dure. Là où est Chiron, la blessure autour de laquelle la personne tourne. Lilith, la part d’elle-même qu’on lui a dit de cacher.
 
 C’est un carnet, pas une étude : un comptage à la main, par moi, surtout sur des gens que je connaissais. Mais c’est pour ça que je lis comme je lis.
 
 ## Ce que ça change dans ma façon de lire {glyph="☿"}
 
-- **Plus de temps là où ça compte le plus.** Les positions qui ont le mieux tenu reçoivent la lecture la plus approfondie.
+- **Plus de temps là où ça compte le plus.** [Les positions qui ont le mieux tenu](/blog/saturn-chiron-lilith/) reçoivent la lecture la plus approfondie.
 - **Honnête sur le reste.** Quand quelque chose repose sur une position qui a moins souvent tenu dans mes tests, je vous le dis, pour que vous puissiez en juger par vous-même.
 - **Des tendances, pas un destin.** Un thème décrit la façon dont vous avez tendance à avancer, pas l’endroit où vous devez arriver.
 - **C’est vous qui décidez.** Une lecture est une conversation avec vous-même, pas une injonction.

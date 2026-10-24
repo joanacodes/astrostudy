@@ -5,19 +5,26 @@
 //   - every internal link, picture and #anchor must lead somewhere: a broken one stops the deploy;
 //   - every blog article must link to at least 3 other pages from its own text (5 or more is the aim):
 //     fewer stops the deploy;
-//   - warnings, which don't stop it: an article under 5 links or an entry under 3, a page that no article
-//     or entry links to from its text, and an article that names an encyclopaedia entry without linking it.
+//   - warnings, which don't stop it: an article under 5 links or an entry under 3, an article or entry
+//     that no text links to, and an article that names an encyclopaedia entry without linking it.
+//
+// It also writes the link map: every article, entry and page, in each language, with its headings, the
+// pages its text links to and the texts that link to it. The map is read off the build, so it is never
+// out of date; in the deploy it goes on the run's summary page.
 //
 // "Its own text" is the element the templates mark with data-body: the cards and lists around it are
 // built automatically, so they don't count. The site's address comes from the home page's canonical link,
 // so the same check works on the GitHub Pages preview (under /astrostudy/) and on astrostudy.co.uk.
 //
-//   node tools/check-links.mjs public
+//   node tools/check-links.mjs public [--map link-map.md]
 
-import { readFile, readdir } from 'node:fs/promises';
+import { appendFile, readFile, readdir, writeFile } from 'node:fs/promises';
 import { join, relative, sep } from 'node:path';
 
-const root = process.argv[2] || 'public';
+const args = process.argv.slice(2);
+const mapAt = args.indexOf('--map');
+const mapFile = mapAt >= 0 ? args[mapAt + 1] : null;
+const root = args.find((a, i) => !a.startsWith('--') && (mapAt < 0 || i !== mapAt + 1)) || 'public';
 const errors = [];
 const warnings = [];
 
@@ -36,6 +43,9 @@ const entities = { amp: '&', lt: '<', gt: '>', quot: '"', apos: "'", nbsp: ' ',
 const decode = (s) => s.replace(/&(#x[0-9a-f]+|#\d+|[a-z]+);/gi, (m, e) =>
   e[0] === '#' ? String.fromCodePoint(e[1] === 'x' || e[1] === 'X' ? parseInt(e.slice(2), 16) : parseInt(e.slice(1), 10))
     : entities[e.toLowerCase()] ?? m);
+// the words of a bit of HTML, without the planet and sign symbols drawn before headings
+const words = (html) => decode(html.replace(/<[^>]+>/g, ' ')).replace(/[←-⇿☀-➿︎]/g, '')
+  .replace(/\s+/g, ' ').replace(/^[\s/]+/, '').trim();
 
 // attribute values, quoted or not (the minified HTML drops quotes where it can)
 const attrRe = (names) => new RegExp(`\\s(${names})=(?:"([^"]*)"|'([^']*)'|([^\\s>]+))`, 'gi');
@@ -83,7 +93,7 @@ function resolve(raw, from) {
 
 // the element marked data-body, up to its own closing tag
 function bodyOf(html) {
-  const open = html.match(/<div\b[^>]*\bdata-body=["']?(article|entry)\b[^>]*>/i);
+  const open = html.match(/<div\b[^>]*\bdata-body=["']?(article|entry|page)\b[^>]*>/i);
   if (!open) return null;
   const start = open.index + open[0].length;
   const tags = /<(\/?)div\b[^>]*>/gi;
@@ -107,7 +117,9 @@ for (const file of files.filter((f) => f.endsWith('.html'))) {
   const html = await readFile(file, 'utf8');
   const ids = new Set([...html.matchAll(attrRe('id'))].map(valueOf));
   const lang = (html.match(/<html\b[^>]*\blang=["']?([\w-]+)/i) || [])[1] || '';
-  pages.set(pathOf(rel), { path: pathOf(rel), rel, html, ids, lang, body: bodyOf(html) });
+  // the page's own name, as its <title> gives it, without the site's name after it
+  const title = words((html.match(/<title>([\s\S]*?)<\/title>/i) || [])[1] || rel).replace(/\s+·\s+[^·]+$/, '');
+  pages.set(pathOf(rel), { path: pathOf(rel), rel, html, ids, lang, title, body: bodyOf(html) });
 }
 
 // 1. every link, picture and anchor leads somewhere
@@ -134,7 +146,7 @@ for (const page of pages.values()) {
   }
 }
 
-// 2. what each article and entry links to from its own text
+// 2. what each text links to, and what links to it
 const texts = [...pages.values()].filter((p) => p.body);
 for (const p of texts) {
   p.links = new Set();
@@ -144,8 +156,11 @@ for (const p of texts) {
     const target = r && r.path && fileFor(r.path);
     if (target && target.endsWith('.html') && pathOf(target) !== p.path) p.links.add(pathOf(target));
   }
-  p.text = decode(p.body.html.replace(/<[^>]+>/g, ' ')).replace(/\s+/g, ' ');
+  p.text = words(p.body.html);
+  p.headings = [...p.body.html.matchAll(/<h2\b[^>]*>([\s\S]*?)<\/h2>/gi)].map((m) => words(m[1]));
 }
+const inbound = new Map();
+for (const p of texts) for (const t of p.links) inbound.set(t, [...(inbound.get(t) || []), p.path]);
 const articles = texts.filter((p) => p.body.kind === 'article');
 const entries = texts.filter((p) => p.body.kind === 'entry');
 
@@ -157,10 +172,8 @@ for (const a of articles) {
 for (const e of entries) {
   if (e.links.size < 3) warnings.push(`${e.path} links to ${e.links.size} other pages from its text; 3 or more is the aim`);
 }
-const inbound = new Map();
-for (const p of texts) for (const t of p.links) inbound.set(t, (inbound.get(t) || 0) + 1);
-for (const p of texts) {
-  if (!inbound.get(p.path)) warnings.push(`${p.path}: no article or entry links to it from its text yet`);
+for (const p of [...articles, ...entries]) {
+  if (!inbound.get(p.path)) warnings.push(`${p.path}: no text links to it yet`);
 }
 for (const a of articles) {
   for (const e of entries) {
@@ -169,6 +182,23 @@ for (const a of articles) {
     if (term) warnings.push(`${a.path} names “${term}” without linking ${e.path}`);
   }
 }
+
+// 3. the link map, language by language: articles, then entries, then the other pages with a text
+const short = (path) => `/${path.slice(base.length)}`;
+const cell = (s) => s.replace(/\|/g, '\\|');
+const named = (path) => (pages.get(path)?.title || short(path));
+const order = { article: 0, entry: 1, page: 2 };
+let map = `# Link map\n\n${site.href} · ${new Date().toISOString().slice(0, 10)}. Each text: its headings, the pages it links to, and the texts that link to it.\n`;
+for (const lang of [...new Set(texts.map((p) => p.lang))].sort()) {
+  map += `\n## ${lang || '?'}\n\n| Page | Headings | Links to | Linked from |\n|---|---|---|---|\n`;
+  const rows = texts.filter((p) => p.lang === lang).sort((x, y) => order[x.body.kind] - order[y.body.kind] || x.path.localeCompare(y.path));
+  for (const p of rows) {
+    const from = inbound.get(p.path) || [];
+    map += `| ${cell(p.title)} (${short(p.path)}) | ${cell(p.headings.join(' · ') || '—')} | ${cell([...p.links].map(named).join(' · ') || '—')} | ${cell(from.map(named).join(' · ') || 'nothing yet')} |\n`;
+  }
+}
+if (mapFile) await writeFile(mapFile, map);
+if (process.env.GITHUB_STEP_SUMMARY) await appendFile(process.env.GITHUB_STEP_SUMMARY, map);
 
 const inCI = !!process.env.GITHUB_ACTIONS;
 for (const m of warnings) console.log(inCI ? `::warning::${m}` : `warning: ${m}`);

@@ -68,7 +68,7 @@ care:
 
 faq:
   - q: "Je ne connais pas mon heure de naissance. Puis-je quand même avoir une lecture ?"
-    a: "Oui. Sans l’heure, l’Ascendant et les maisons restent inconnus : je les laisse de côté, et je vous le dis. Tout le reste — les planètes, leurs signes, et la façon dont elles se parlent — se lit toujours bien. Si vous le pouvez, demandez à un parent, ou cherchez dans les vieux papiers de famille."
+    a: "Oui. Sans l’heure, l’Ascendant et les maisons restent inconnus : je les laisse de côté, et je vous le dis. Tout le reste — les planètes, leurs signes, et la façon dont elles se parlent — se lit toujours bien. Si vous le pouvez, demandez à un parent, ou cherchez dans les vieux papiers de famille. Plus de détails dans [ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)."
   - q: "Pourquoi seulement pour les adultes ?"
     a: "Parce qu’un thème lu au mauvais âge peut devenir une étiquette à laquelle on finit par ressembler. Je ne lis pas pour les moins de 18 ans, et je ne lis pas à leur sujet non plus."
   - q: "Est-ce que la lecture me dira mon avenir ?"

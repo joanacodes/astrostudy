@@ -55,11 +55,11 @@ care:
 
 faq:
   - q: "Do we both need to know our birth times?"
-    a: "It helps, but no. Without times I leave out the houses and say so. The contacts between your planets still read clearly."
+    a: "It helps, but no. Without times I leave out the houses and say so. The contacts between your planets still read clearly. More in [what changes without a birth time](/blog/unknown-birth-time/)."
   - q: "Will you tell us whether we’re compatible?"
     a: "Not as a verdict. Every pair has easy contacts and hard ones; what matters is how you meet them. You’ll know where you flow and where to be careful — which is far more useful than a percentage."
   - q: "Can I get a reading without the other person knowing?"
-    a: "No — never. The other person must know you’re asking for this reading: the order form asks you to confirm it. They don’t have to take part, and I read them with the same respect as you. For co-workers, your colleague also has to agree."
+    a: "No — never. The other person must know you’re asking for this reading: the order form asks you to confirm it. They don’t have to take part, and I read them with the same respect as you. For co-workers, your colleague also has to agree. [Why I won’t read a synastry behind someone’s back](/blog/synastry-behind-their-back/)."
   - q: "Can we read a relationship that has ended?"
     a: "Yes. Sometimes understanding why it hurt is the whole reading, and it can help you close the door."
 
