@@ -4,6 +4,7 @@
 // Everything still works as plain links and a plain form if this script never runs.
 
 import { initSky } from './sky.js';
+import { wireStudy } from './study.js';
 
 // Tells the safety net in <head> that the page is in good hands (see head.html).
 window.__astro = true;
@@ -416,7 +417,7 @@ function placeOf(f) {
   const c = f?.geometry?.coordinates;
   if (!p.name || !Array.isArray(c) || !Number.isFinite(c[0]) || !Number.isFinite(c[1])) return null;
   const region = [p.state || p.county, p.country].filter((v, i, all) => v && v !== p.name && all.indexOf(v) === i);
-  return { name: p.name, rest: region.join(', '), label: [p.name, ...region].join(', '), lon: c[0], lat: c[1] };
+  return { name: p.name, rest: region.join(', '), label: [p.name, ...region].join(', '), country: p.country || '', lon: c[0], lat: c[1] };
 }
 
 function wirePlaces(form) {
@@ -428,6 +429,8 @@ function wirePlaces(form) {
     const list = box.querySelector('[data-place-list]');
     const lat = box.querySelector('[data-place-lat]');
     const lon = box.querySelector('[data-place-lon]');
+    // the test sends the country with the place (study.html); the order form has no such field
+    const country = box.querySelector('[data-place-country]');
     let items = [];
     let active = -1;
     let timer = 0;
@@ -451,6 +454,7 @@ function wirePlaces(form) {
       input.value = it.label;
       lat.value = it.lat.toFixed(5);
       lon.value = it.lon.toFixed(5);
+      if (country) country.value = it.country;
       close();
     };
     const show = () => {
@@ -512,6 +516,7 @@ function wirePlaces(form) {
       // typed by hand: coordinates from an earlier pick no longer belong to this text
       lat.value = '';
       lon.value = '';
+      if (country) country.value = '';
       clearTimeout(timer);
       const q = input.value.trim();
       if (q.length < 2) {
@@ -1056,6 +1061,10 @@ function initPage(root, settle = 0) {
   faqs(root);
   localTimes(root);
   for (const form of $$('[data-signup]', root)) wireSignup(form);
+  for (const box of $$('[data-study]', root)) {
+    wirePlaces($('[data-study-form]', box));
+    wireStudy(box);
+  }
   for (const form of $$('[data-form]', root)) wireForm(form);
   for (const box of $$('[data-received]', root)) wireReceived(box);
   for (const form of $$('[data-order-form]', root)) {

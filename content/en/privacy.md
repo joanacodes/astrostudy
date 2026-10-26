@@ -32,12 +32,25 @@ For the free [blind chart calls](/challenge/), the sign-up form asks for your na
 
 The calls aren’t recorded. Afterwards I publish only how many people picked their own portrait. The registrations, and any note that links a person to a birth date, are deleted within 60 days of the call.
 
+## The blind test
+
+For the free [blind test](/test/), the form asks for your name (or a nickname), your email address, your date, time and place of birth and how long a test you’d like; then it records each answer you give. I use them to draw your chart, write your questions, give you your score and write your full reading, which waits for you on a private page that only opens with your date of birth. The legal basis is your consent, given with the box you tick on the form: you can withdraw it, and ask me to delete everything, at any time.
+
+Your answers become part of the study. I publish only overall figures, such as how often people recognise their own chart in each part of life: never a name, an email address or a birth date. If you also tick “Send me news from The Astro Study”, I use your email address for that news too, and every email has a link to stop it; if you don’t, your email address is used for nothing else.
+
+The test runs on my own reading software, AGS: your details are kept in its database, and the services it relies on are listed below.
+
 ## Who else touches it
 
 - **FormSubmit** ([formsubmit.co](https://formsubmit.co)) receives what you type in the form and forwards it to my inbox. Their own privacy terms, on their site, explain what they keep.
 - **My email provider** stores our messages.
 - **{{< host >}}** hosts this website and, like any web host, keeps short-lived technical logs (such as IP addresses) to keep the site running and secure.
-- **Photon** ([photon.komoot.io](https://photon.komoot.io)), an open-source place search built on OpenStreetMap, suggests towns while you type a birthplace in the order form. {{% on-host "cloudflare" %}}It’s asked by this site’s own server: it receives the letters typed in that field, and nothing about you.{{% /on-host %}}{{% on-host "github" %}}On this preview your browser asks it directly, so it receives the letters typed in that field and, like any website, your IP address.{{% /on-host %}}
+- **Photon** ([photon.komoot.io](https://photon.komoot.io)), an open-source place search built on OpenStreetMap, suggests towns while you type a birthplace in the order form or the test. {{% on-host "cloudflare" %}}It’s asked by this site’s own server: it receives the letters typed in that field, and nothing about you.{{% /on-host %}}{{% on-host "github" %}}On this preview your browser asks it directly, so it receives the letters typed in that field and, like any website, your IP address.{{% /on-host %}}
+- **Supabase** ([supabase.com](https://supabase.com)) hosts the database where the test keeps your details, your answers and your reading.
+- **Vercel** ([vercel.com](https://vercel.com)) and **Cloudflare** ([cloudflare.com](https://www.cloudflare.com)) run the software behind the test, and keep short-lived technical logs, such as IP addresses, as any host does.
+- **FreeAstroAPI** ([freeastroapi.com](https://freeastroapi.com)) calculates your chart for the test: it receives your name as you typed it, and your date, time and place of birth.
+- **Anthropic** ([anthropic.com](https://www.anthropic.com)), the maker of Claude, writes the descriptions in your test and your reading from your chart: it receives your chart and, for the reading, your name as you typed it, never your email address.
+- **Open-Meteo** ([open-meteo.com](https://open-meteo.com)) gives the time zone of your birthplace from its map coordinates, and receives nothing else.
 - **Zoom** ([zoom.com](https://zoom.com)) runs the blind chart calls themselves: it receives your name as you enter it on the call, and what is said and shown there. Its own privacy statement, on its site, explains what it keeps.
 {{% payments %}}- **Stripe** ([stripe.com](https://stripe.com)) handles payments: your card details go to them, never to me, and they keep what the law asks of a payment provider.{{% /payments %}}
 
@@ -49,7 +62,7 @@ This site sets no cookies, runs no analytics and no advertising trackers. The fo
 
 ## How long I keep things
 
-Messages that don’t lead to a reading are deleted within twelve months. For readings, I keep what I need for as long as you might come back to me with questions about it, and no longer than two years — unless you ask me to delete it sooner, which you can do at any time.
+Messages that don’t lead to a reading are deleted within twelve months. For readings, I keep what I need for as long as you might come back to me with questions about it, and no longer than two years — unless you ask me to delete it sooner, which you can do at any time. For the blind test, your details, answers and reading are kept while the study runs, and no longer than three years, so the published figures can be checked; you can ask me to delete them sooner, at any time.
 
 ## Your rights
 

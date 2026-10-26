@@ -50,6 +50,14 @@ disableKinds = ["taxonomy", "term"]
         blurb = "How I tested astrology before trusting it."
         image = ""   # the card's picture in the computer menu, e.g. "media/menu/how-i-read.jpg" (about 4:3)
     [[languages.en.menus.main]]
+      name = "Take the test"
+      pageRef = "/test"
+      weight = 33
+      [languages.en.menus.main.params]
+        glyph = "☽"
+        blurb = "Three descriptions, one of them yours. Free, and blind."
+        image = ""   # the card's picture in the computer menu, e.g. "media/menu/test.jpg" (about 4:3)
+    [[languages.en.menus.main]]
       name = "Blog"
       pageRef = "/blog"
       weight = 35
@@ -122,6 +130,14 @@ disableKinds = ["taxonomy", "term"]
         blurb = "Comment j’ai testé l’astrologie avant d’y croire."
         image = ""   # the card's picture in the computer menu, e.g. "media/menu/how-i-read.jpg" (about 4:3)
     [[languages.fr.menus.main]]
+      name = "Faire le test"
+      pageRef = "/test"
+      weight = 33
+      [languages.fr.menus.main.params]
+        glyph = "☽"
+        blurb = "Trois descriptions, dont la vôtre. Gratuit, et à l’aveugle."
+        image = ""   # the card's picture in the computer menu, e.g. "media/menu/test.jpg" (about 4:3)
+    [[languages.fr.menus.main]]
       name = "Blog"
       pageRef = "/blog"
       weight = 35
@@ -187,6 +203,12 @@ disableKinds = ["taxonomy", "term"]
   # sends nothing.
   [params.signup]
     endpoint = ""
+  # The Astro Study test (content/<lang>/test.md): the page is the test, and AGS is its back end. api is
+  # AGS's address; the page sends it the birth details and the answers (AGS lets this site's pages in:
+  # STUDY_SITE_ORIGINS in AGS's DEPLOY.md). Empty = the form shows "the test opens very soon" and sends
+  # nothing.
+  [params.study]
+    api = "https://ags-v2-nine.vercel.app"
   [params.stripe]
     birthChart = ""            # e.g. "https://buy.stripe.com/…" — the birth chart reading
     birthChartConsulting = ""  # the birth chart reading + consulting

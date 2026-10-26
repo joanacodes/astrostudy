@@ -8,6 +8,7 @@ lede: "Des lectures de thème natal pour les adultes, et des lectures de synastr
 actions:
   - { label: "Lecture de thème natal", href: "/birth-chart/", solid: true }
   - { label: "Lectures de synastrie", href: "/synastry/" }
+  - { label: "Faire le test gratuit", href: "/test/" }
 
 statement: "Rien dans votre thème ne dit que quelque chose cloche chez vous. Une position difficile, c’est seulement l’endroit où une force met plus de temps à s’apprendre. Je vous dirai ce que je vois — <em>clairement, et sans vous faire peur.</em>"
 sky:

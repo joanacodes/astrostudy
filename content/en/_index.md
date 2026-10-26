@@ -8,6 +8,7 @@ lede: "Birth chart readings for adults, and synastry readings for the people you
 actions:
   - { label: "Birth chart reading", href: "/birth-chart/", solid: true }
   - { label: "Synastry readings", href: "/synastry/" }
+  - { label: "Take the free test", href: "/test/" }
 
 statement: "Nothing in your chart is wrong with you. A hard placement is only where a strength takes longer to learn. I’ll tell you what I see — <em>clearly, and without fear.</em>"
 sky:

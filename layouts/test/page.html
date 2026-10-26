@@ -1,0 +1,53 @@
+{{ define "main" }}
+{{- /* The Astro Study test. The test itself comes first, in the hero, on the same pane of glass as the
+       calls' sign-up; how it works, why it's blind and the questions people ask follow it. The page
+       is the test, and AGS is its back end (study.html). */ -}}
+<section class="hero hero--page hero--event hero--test">
+  <div class="hero__inner">
+    {{ with .Params.eyebrow }}<p class="eyebrow" data-reveal>{{ . }}</p>{{ end }}
+    <h1 data-reveal style="--d:.08s">{{ .Params.h1 | default .Title | safeHTML }}</h1>
+    {{ with .Params.lede }}<p class="lede" data-reveal style="--d:.18s">{{ . | safeHTML }}</p>{{ end }}
+    {{ partial "study.html" (dict "page" .) }}
+  </div>
+  <span class="stem" aria-hidden="true"></span>
+</section>
+
+{{ with .Params.steps }}
+<section class="paper section" aria-labelledby="steps-title">
+  <div class="wrap">
+    {{ partial "meta.html" (dict "n" "01" "label" (i18n "howItGoes")) }}
+    <div class="split">
+      <div class="section__head">
+        <h2 id="steps-title" data-reveal>{{ partial "glyph.html" "☿" }}{{ .title | safeHTML }}</h2>
+        {{ with .lede }}<p class="lede" data-reveal style="--d:.1s">{{ . | safeHTML }}</p>{{ end }}
+      </div>
+      {{ partial "steps.html" .items }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ with .Content }}
+<section class="paper section">
+  <div class="wrap">
+    {{ partial "meta.html" (dict "n" "02" "label" (i18n "eventWhy")) }}
+    <div class="prose" data-reveal data-body="page">{{ . }}</div>
+  </div>
+</section>
+{{ end }}
+
+{{ with .Params.faq }}
+<section class="paper section" aria-labelledby="faq-title">
+  <div class="wrap">
+    {{ partial "meta.html" (dict "n" "03" "label" (i18n "questions")) }}
+    <div class="split">
+      <div class="section__head">
+        <h2 id="faq-title" data-reveal>{{ partial "glyph.html" "☽" }}{{ i18n "questionsTitle" | safeHTML }}</h2>
+        <p class="lede" data-reveal style="--d:.1s">{{ i18n "anythingElse" (dict "href" (partial "url.html" "/contact/")) | safeHTML }}</p>
+      </div>
+      {{ partial "faq.html" . }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}

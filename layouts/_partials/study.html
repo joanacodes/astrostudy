@@ -1,0 +1,123 @@
+{{- /* The Astro Study test, on one pane of glass: the form, then one question at a time, then the result
+       with the private link to the full reading. AGS is the back end, at site.Params.study.api: it draws
+       the chart, writes the questions, keeps the answers and writes the reading. This page only shows
+       them (assets/js/study.js). Until an address is set, the form shows, says the test opens soon, and
+       sends nothing. The birthplace suggestions are the order form's (Photon); AGS finds the timezone
+       from the place's coordinates. Takes (dict "page" .). */ -}}
+{{- $api := site.Params.study.api | default "" }}
+{{- $places := "https://photon.komoot.io/api/" }}
+{{- if eq (string (site.Params.legal.host | default "cloudflare")) "cloudflare" }}{{ $places = "api/places" | relURL }}{{ end }}
+{{- $words := dict
+      "soon" (i18n "studySoon")
+      "preparing" (i18n "studyPreparing")
+      "pickPlace" (i18n "studyPickPlace")
+      "adult" (i18n "studyAdult")
+      "loading" (i18n "studyLoading")
+      "notFound" (i18n "studyNotFound")
+      "questionOf" (i18n "studyQuestionOf")
+      "saving" (i18n "studySaving")
+      "percent" (i18n "studyPercent")
+      "resultLine" (i18n "studyResultLine")
+      "chance" (i18n "studyChance")
+      "chartSaid" (i18n "studyChartSaid")
+      "picked" (i18n "studyPicked")
+      "notPicked" (i18n "studyNotPicked")
+      "problems" (dict
+        "full_today" (i18n "studyFull")
+        "already_today" (i18n "studyAlready")
+        "under_18" (i18n "studyAdult")
+        "place_failed" (i18n "studyPlaceFailed")
+        "chart_failed" (i18n "studyChartFailed")
+        "not_ready" (i18n "studyNotReady")
+        "ai_failed" (i18n "studyAiFailed")
+        "not_configured" (i18n "studyNotReady")
+        "not_found" (i18n "studyNotFound")
+        "INVALID_INPUT" (i18n "studyInvalid")
+        "default" (i18n "studyError")) }}
+
+<div class="signup quiz" data-study data-api="{{ $api }}" data-lang="{{ site.Language.Lang }}" data-reveal style="--d:.28s">
+  <script type="application/json" data-study-words>{{ $words | jsonify | safeJS }}</script>
+
+  <form class="form" data-study-form data-places="{{ $places }}" data-places-credit="{{ i18n "placesCredit" }}">
+    <div class="honey" aria-hidden="true"><label>{{ i18n "honey" }} <input type="text" name="website" tabindex="-1" autocomplete="off"></label></div>
+
+    <div class="row-2">
+      <div class="field">
+        <label for="study-name">{{ i18n "studyName" }}</label>
+        <input id="study-name" type="text" name="name" autocomplete="nickname" maxlength="80" placeholder="{{ i18n "eventNameHint" }}" required>
+      </div>
+      <div class="field">
+        <label for="study-email">{{ i18n "email" }}</label>
+        <input id="study-email" type="email" name="email" autocomplete="email" maxlength="254" required>
+      </div>
+    </div>
+    <div class="row-2">
+      <div class="field">
+        <label for="study-birth">{{ i18n "dateOfBirth" }}</label>
+        <input id="study-birth" type="date" name="birthDate" autocomplete="bday" min="1900-01-01" required>
+      </div>
+      <div class="field">
+        <label for="study-time">{{ i18n "studyTime" }}</label>
+        <input id="study-time" type="time" name="birthTime" required>
+      </div>
+    </div>
+    <label class="check"><input type="checkbox" name="timeUnknown" data-study-unknown><span>{{ i18n "studyTimeUnknown" }}</span></label>
+    <div class="field place" data-place>
+      <label for="study-place">{{ i18n "studyPlace" }}</label>
+      <input id="study-place" type="text" name="place" autocomplete="off" maxlength="160" placeholder="{{ i18n "placeHint" }}" required role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="study-place-list" data-place-input>
+      <input type="hidden" name="placeLat" data-place-lat>
+      <input type="hidden" name="placeLon" data-place-lon>
+      <input type="hidden" name="placeCountry" data-place-country>
+      <ul class="place__list" id="study-place-list" role="listbox" aria-label="{{ i18n "placeSuggestions" }}" hidden data-place-list></ul>
+    </div>
+
+    <fieldset class="evenings">
+      <legend class="label">{{ i18n "studyLength" }}</legend>
+      <div class="evenings__list">
+        {{- range slice (dict "v" "short" "n" 5) (dict "v" "medium" "n" 10) (dict "v" "long" "n" 20) }}
+        <label class="evening">
+          <input type="radio" name="length" value="{{ .v }}"{{ if eq .v "medium" }} checked{{ end }} required>
+          <span class="evening__day">{{ i18n (printf "study_%s" .v) }}</span>
+          <span class="evening__num">{{ .n }}</span>
+          <span class="evening__month">{{ i18n (printf "study_%s_detail" .v) }}</span>
+        </label>
+        {{- end }}
+      </div>
+    </fieldset>
+
+    <label class="check"><input type="checkbox" name="consent" required><span>{{ i18n "studyConsent" (dict "privacy" (partial "url.html" "/privacy/")) | safeHTML }}</span></label>
+    <label class="check"><input type="checkbox" name="news" value="yes"><span>{{ i18n "studyNews" }}</span></label>
+
+    <div class="actions">
+      <button class="btn btn--solid" type="submit" data-submit>{{ i18n "studyStart" }} <span class="btn__arrow" aria-hidden="true">→</span></button>
+    </div>
+    <p class="status" role="status" aria-live="polite" data-status>{{ if not $api }}{{ i18n "studySoon" }}{{ end }}</p>
+  </form>
+
+  <div class="quiz__quiz" data-study-quiz hidden tabindex="-1">
+    <p class="label" data-study-count></p>
+    <div class="quiz__bar" aria-hidden="true"><span data-study-bar></span></div>
+    <h2 class="quiz__question" data-study-question></h2>
+    <p class="quiz__pick">{{ i18n "studyPick" }}</p>
+    <div class="quiz__options" data-study-options></div>
+    <p class="status" role="status" aria-live="polite" data-study-status></p>
+  </div>
+
+  <div class="quiz__result" data-study-result hidden tabindex="-1">
+    <p class="label">{{ i18n "studyResult" }}</p>
+    <p class="quiz__percent" data-study-percent></p>
+    <p class="quiz__line" data-study-line></p>
+    <p class="quiz__chance" data-study-chance></p>
+    <div class="quiz__chart">
+      <h3>{{ i18n "studyChartTitle" }}</h3>
+      <div class="quiz__link" data-study-link hidden>
+        <p>{{ i18n "studyChartText" }}</p>
+        <p class="quiz__password">{{ i18n "studyPassword" }}</p>
+        <a class="btn btn--solid" href="#" target="_blank" rel="noopener" data-study-open>{{ i18n "studyOpenChart" }} <span class="btn__arrow" aria-hidden="true">→</span></a>
+        <p class="quiz__address" data-study-address></p>
+      </div>
+      <p data-study-nolink hidden>{{ i18n "studyNoLink" }}</p>
+    </div>
+    <ol class="quiz__answers" data-study-answers></ol>
+  </div>
+</div>

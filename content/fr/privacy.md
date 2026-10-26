@@ -33,12 +33,25 @@ Pour les [appels à l’aveugle](/challenge/), gratuits, le formulaire d’inscr
 
 Les appels ne sont pas enregistrés. Ensuite, je publie seulement le nombre de personnes qui ont reconnu leur propre portrait. Les inscriptions, et toute note qui relie une personne à une date de naissance, sont supprimées dans les 60 jours qui suivent l’appel.
 
+## Le test à l’aveugle
+
+Pour le [test à l’aveugle](/test/), gratuit, le formulaire demande votre nom (ou un pseudo), votre adresse email, la date, l’heure et le lieu de votre naissance et la durée de test que vous souhaitez ; il enregistre ensuite chacune de vos réponses. Je m’en sers pour dresser votre thème, écrire vos questions, vous donner votre score et écrire votre lecture complète, qui vous attend sur une page privée qui ne s’ouvre qu’avec votre date de naissance. La base légale est votre consentement, donné en cochant la case du formulaire : vous pouvez le retirer, et me demander de tout effacer, à tout moment.
+
+Vos réponses rejoignent l’étude. Je n’en publie que des chiffres d’ensemble, par exemple combien de fois on reconnaît son propre thème dans chaque domaine de la vie : jamais un nom, une adresse email ou une date de naissance. Si vous cochez aussi « Envoyez-moi les nouvelles de The Astro Study », j’utilise aussi votre adresse email pour ces nouvelles, et chaque email contient un lien pour les arrêter ; sinon, votre adresse ne sert à rien d’autre.
+
+Le test fonctionne avec mon propre logiciel de lecture, AGS : vos données sont conservées dans sa base de données, et les services sur lesquels il s’appuie sont listés ci-dessous.
+
 ## Qui d’autre y a accès
 
 - **FormSubmit** ([formsubmit.co](https://formsubmit.co)) reçoit ce que vous tapez dans le formulaire et le transfère dans ma boîte mail. Ses propres règles de confidentialité, sur son site, expliquent ce qu’il conserve.
 - **Mon fournisseur de messagerie** conserve nos échanges.
 - **{{< host >}}** héberge ce site et, comme tout hébergeur, conserve brièvement des journaux techniques (comme les adresses IP) pour faire fonctionner le site et le sécuriser.
-- **Photon** ([photon.komoot.io](https://photon.komoot.io)), un moteur de recherche de lieux libre, construit sur OpenStreetMap, suggère des villes pendant que vous tapez un lieu de naissance dans le formulaire de commande. {{% on-host "cloudflare" %}}Il est interrogé par le serveur de ce site : il reçoit les lettres tapées dans ce champ, et rien sur vous.{{% /on-host %}}{{% on-host "github" %}}Sur cette version de prévisualisation, votre navigateur l’interroge directement : il reçoit les lettres tapées dans ce champ et, comme tout site web, votre adresse IP.{{% /on-host %}}
+- **Photon** ([photon.komoot.io](https://photon.komoot.io)), un moteur de recherche de lieux libre, construit sur OpenStreetMap, suggère des villes pendant que vous tapez un lieu de naissance dans le formulaire de commande ou dans le test. {{% on-host "cloudflare" %}}Il est interrogé par le serveur de ce site : il reçoit les lettres tapées dans ce champ, et rien sur vous.{{% /on-host %}}{{% on-host "github" %}}Sur cette version de prévisualisation, votre navigateur l’interroge directement : il reçoit les lettres tapées dans ce champ et, comme tout site web, votre adresse IP.{{% /on-host %}}
+- **Supabase** ([supabase.com](https://supabase.com)) héberge la base de données où le test conserve vos données, vos réponses et votre lecture.
+- **Vercel** ([vercel.com](https://vercel.com)) et **Cloudflare** ([cloudflare.com](https://www.cloudflare.com)) font tourner le logiciel du test et conservent brièvement, comme tout hébergeur, des journaux techniques (comme les adresses IP).
+- **FreeAstroAPI** ([freeastroapi.com](https://freeastroapi.com)) calcule votre thème pour le test : il reçoit votre nom tel que vous l’avez tapé, et la date, l’heure et le lieu de votre naissance.
+- **Anthropic** ([anthropic.com](https://www.anthropic.com)), qui conçoit Claude, écrit les descriptions de votre test et votre lecture à partir de votre thème : il reçoit votre thème et, pour la lecture, votre nom tel que vous l’avez tapé, jamais votre adresse email.
+- **Open-Meteo** ([open-meteo.com](https://open-meteo.com)) donne le fuseau horaire de votre lieu de naissance à partir de ses coordonnées, et ne reçoit rien d’autre.
 - **Zoom** ([zoom.com](https://zoom.com)) gère les appels à l’aveugle eux-mêmes : il reçoit le nom que vous indiquez en rejoignant l’appel, et ce qui y est dit et montré. Sa propre politique de confidentialité, sur son site, explique ce qu’il conserve.
 {{% payments %}}- **Stripe** ([stripe.com](https://stripe.com)) gère les paiements : vos coordonnées bancaires vont chez Stripe, jamais chez moi, et Stripe conserve ce que la loi demande à un prestataire de paiement.{{% /payments %}}
 
@@ -50,7 +63,7 @@ Ce site ne dépose aucun cookie, et n’utilise ni outil de mesure d’audience 
 
 ## Combien de temps je garde tout cela
 
-Les messages qui n’aboutissent pas à une lecture sont supprimés dans un délai de douze mois. Pour les lectures, je garde ce dont j’ai besoin tant que vous êtes susceptible de revenir vers moi avec des questions à leur sujet, et pas plus de deux ans — sauf si vous me demandez de l’effacer plus tôt, ce que vous pouvez faire à tout moment.
+Les messages qui n’aboutissent pas à une lecture sont supprimés dans un délai de douze mois. Pour les lectures, je garde ce dont j’ai besoin tant que vous êtes susceptible de revenir vers moi avec des questions à leur sujet, et pas plus de deux ans — sauf si vous me demandez de l’effacer plus tôt, ce que vous pouvez faire à tout moment. Pour le test à l’aveugle, vos données, vos réponses et votre lecture sont conservées le temps de l’étude, et pas plus de trois ans, pour que les chiffres publiés puissent être vérifiés ; vous pouvez me demander de les effacer plus tôt, à tout moment.
 
 ## Vos droits
 
