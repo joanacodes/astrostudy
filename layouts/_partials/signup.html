@@ -1,0 +1,96 @@
+{{- /* The sign-up for the blind chart calls, first thing on its page: an evening, a name, an email, a
+       date of birth, Send. Everything else about the calls comes after it.
+
+       It sends to site.Params.signup.endpoint (hugo.toml), the newsletter or email service chosen for the
+       calls. Until there is one, the form still shows, says so under its button, and sends nothing: a
+       sign-up that silently went nowhere would be worse than none. The birth time and place are asked
+       later, by email, so the form stays this short. Takes (dict "page" .). */ -}}
+{{- $p := .page }}
+{{- $calls := $p.Params.calls }}
+{{- $zones := $p.Params.zones }}
+{{- $home := index $zones 0 }}
+{{- $endpoint := site.Params.signup.endpoint }}
+{{- $first := time.AsTime (index $calls 0).start }}
+
+{{- /* every call at the same hour (the usual case): its time is said once, under both evenings */}}
+{{- $firstClock := partial "clock.html" (dict "t" $first "tz" $home.tz) }}
+{{- $sameHour := true }}
+{{- range $calls }}{{ if ne (partial "clock.html" (dict "t" .start "tz" $home.tz)) $firstClock }}{{ $sameHour = false }}{{ end }}{{ end }}
+{{- $times := slice }}
+{{- range $zones }}{{ $times = $times | append (printf "%s %s" (partial "clock.html" (dict "t" $first "tz" .tz)) .name) }}{{ end }}
+
+{{- $closes := "" }}
+{{- $closed := false }}
+{{- with $p.Params.closes }}
+  {{- $c := time.AsTime . }}
+  {{- $closed = now.After $c }}
+  {{- $closes = i18n "eventAt" (dict "day" (time.Format (i18n "eventDay") (time.In $home.tz $c)) "time" (partial "clock.html" (dict "t" $c "tz" $home.tz)) "zone" $home.name) }}
+{{- end }}
+{{- $open := 0 }}
+{{- range $calls }}{{ if not (or .full (now.After (time.AsTime .start))) }}{{ $open = add $open 1 }}{{ end }}{{ end }}
+
+<div class="signup" data-reveal style="--d:.28s">
+  {{- if or $closed (eq $open 0) }}
+  <p class="signup__closed">{{ i18n "eventClosed" }}</p>
+  {{- else }}
+  {{- /* the youngest birth date allowed: 18 on the day of the first call */}}
+  {{- $maxBirth := ($first.AddDate -18 0 0).Format "2006-01-02" }}
+  <form class="form signup__form" action="{{ $endpoint }}" method="post" accept-charset="UTF-8" data-signup data-endpoint="{{ $endpoint }}"{{ with $p.Params.closes }} data-closes="{{ (time.AsTime .).UTC.Format "2006-01-02T15:04:05Z" }}"{{ end }} data-msg-sending="{{ i18n "sending" }}" data-msg-soon="{{ i18n "eventNotOpen" }}" data-msg-error="{{ i18n "eventError" }}" data-msg-adult="{{ i18n "eventAdultOnly" }}" data-msg-closed="{{ i18n "eventClosed" }}">
+    <input type="hidden" name="lang" value="{{ site.Language.Lang }}">
+    <div class="honey" aria-hidden="true"><label>{{ i18n "honey" }} <input type="text" name="_honey" tabindex="-1" autocomplete="off"></label></div>
+
+    <fieldset class="evenings">
+      <legend class="label">{{ i18n "eventPick" }}</legend>
+      <div class="evenings__list">
+        {{- range $calls }}
+        {{- $start := time.AsTime .start }}
+        {{- $there := time.In $home.tz $start }}
+        {{- $past := now.After $start }}
+        {{- $off := or .full $past }}
+        <label class="evening{{ if $off }} is-off{{ end }}">
+          <input type="radio" name="evening" value="{{ $there.Format "2006-01-02" }}" required{{ if $off }} disabled{{ end }}>
+          <span class="evening__day">{{ time.Format "Monday" $there }}</span>
+          <span class="evening__num">{{ $there.Day }}</span>
+          <span class="evening__month">{{ time.Format "January" $there }}</span>
+          {{- if not $sameHour }}<span class="evening__time">{{ partial "clock.html" (dict "t" $start "tz" $home.tz) }} {{ $home.name }}</span>{{ end }}
+          {{- if $off }}<span class="evening__tag">{{ cond $past (i18n "eventPastTag") (i18n "eventFullTag") }}</span>{{ end }}
+        </label>
+        {{- end }}
+      </div>
+      {{- if $sameHour }}
+      <p class="evenings__time">{{ delimit $times " · " }}</p>
+      {{- /* the reader's own clock, from their browser (site.js); hidden if the script never runs */}}
+      <p class="evenings__yours" data-local-time="{{ $first.UTC.Format "2006-01-02T15:04:05Z" }}" data-local-parts="time" hidden>{{ i18n "eventYourClock" }} <strong></strong></p>
+      {{- end }}
+    </fieldset>
+
+    <div class="row-2">
+      <div class="field">
+        <label for="signup-name">{{ i18n "eventName" }}</label>
+        <input id="signup-name" type="text" name="name" autocomplete="name" placeholder="{{ i18n "eventNameHint" }}" required>
+      </div>
+      <div class="field">
+        <label for="signup-email">{{ i18n "email" }}</label>
+        <input id="signup-email" type="email" name="email" autocomplete="email" required>
+      </div>
+    </div>
+    <div class="signup__last">
+      <div class="field">
+        <label for="signup-birth">{{ i18n "dateOfBirth" }}</label>
+        <input id="signup-birth" type="date" name="birthDate" autocomplete="bday" min="1900-01-01" max="{{ $maxBirth }}" required>
+      </div>
+      <button class="btn btn--solid" type="submit" data-submit>{{ i18n "eventSend" }} <span class="btn__arrow" aria-hidden="true">→</span></button>
+    </div>
+
+    <p class="status" role="status" aria-live="polite" data-status>{{ if not $endpoint }}{{ i18n "eventSoonNote" }}{{ end }}</p>
+    <p class="fine">{{ with $closes }}{{ i18n "eventClosesLine" (dict "when" .) }} {{ end }}{{ i18n "eventFine" (dict "privacy" (partial "url.html" "/privacy/")) | safeHTML }}</p>
+  </form>
+  {{- with $p.Params.success }}
+  <div class="signup__done" data-signup-done hidden tabindex="-1">
+    <p class="label">{{ .label }}</p>
+    <p class="display">{{ .title | safeHTML }}</p>
+    <p>{{ .text | safeHTML }}</p>
+  </div>
+  {{- end }}
+  {{- end }}
+</div>

@@ -136,11 +136,12 @@ Links between pages are how readers, Google and AI assistants find their way thr
 
 ## The blind chart calls
 
-`/challenge/` and `/fr/defi/`: the free Zoom calls where six people each pick, out of six plain-language portraits, the one drawn from their own chart. Everything is in the page’s front matter (`content/en/challenge.md`, and the French one under the same file name), and the layout is `layouts/event/page.html`.
+`/challenge/` and `/fr/defi/`: the free Zoom calls where six people each pick, out of six plain-language portraits, the one drawn from their own chart. The page opens on its sign-up form; everything else about the calls comes after it. The words are in the page’s front matter (`content/en/challenge.md`, and the French one under the same file name); the layout is `layouts/event/page.html`, the form `layouts/_partials/signup.html`.
 
-- **Sign-up.** Each call is a `calls` entry: `start` (written once, in Paris time with its offset: London, New York and Los Angeles are worked out from it, and the reader’s own clock is added in the browser), `zoom` (the Zoom registration link: empty shows “registration opens very soon” instead of a button) and `full` (`true` once six people are approved). Change both languages together.
-- **Closing and after.** `closes` is when registration ends, shown under each button. Once a call’s time has passed, the next deploy shows “This call has taken place” in place of its sign-up. Afterwards, the results go into the page’s text.
-- **Structured data.** Each call is an online event for Google and AI assistants (`layouts/_partials/schema.html`), read from the same front matter. The footer links to the page for as long as it exists; the privacy page explains what Zoom receives.
+- **The form.** An evening (the two dates are cards to pick), a name (first name, full name or a nickname), an email and a date of birth, then Send. The birth time and place are asked afterwards, by email, so the form stays short. Someone under 18 on the evening is stopped with a message.
+- **Where it sends.** To `[params.signup] endpoint` in `hugo.toml`: the newsletter or email service you choose (a Resend-backed `/api/signup` on the Cloudflare worker, or a newsletter’s own sign-up address). It receives JSON: `name`, `email`, `birthDate` and `evening` (both `YYYY-MM-DD`), `lang`, `page`. While it’s empty the form says “sign-ups open very soon” and sends nothing, so nobody believes they’re signed up when they aren’t. Once set, the privacy page should name the service.
+- **The calls.** Each is a `calls` entry: `start` (written once, in Paris time with its offset: the other cities and the reader’s own clock are worked out from it) and `full` (`true` once six people are confirmed: that evening can no longer be picked). `closes` is when sign-ups end, shown under the form; after it, or once both evenings are full or past, the form gives way to “sign-ups are closed”. What the form turns into after Send is `success`. Change both languages together.
+- **Structured data and sharing.** Each call is an online event for Google and AI assistants (`layouts/_partials/schema.html`), read from the same front matter; the link preview is drawn from the page’s `share*` fields (see tools/brand-images). The footer links to the page for as long as it exists.
 
 ## The encyclopaedia
 

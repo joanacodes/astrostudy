@@ -29,7 +29,7 @@ Pour une lecture de synastrie, la commande demande les données de naissance d�
 
 ## Les appels à l’aveugle
 
-Pour les [appels à l’aveugle](/challenge/), gratuits, le formulaire d’inscription de Zoom demande votre nom, votre adresse email, votre date, votre heure et votre lieu de naissance, votre familiarité avec l’astrologie, comment vous avez connu les appels, et votre accord sur leurs règles. Je m’en sers pour dresser votre thème, écrire votre portrait pour l’appel et vous envoyer le lien, et pour rien d’autre. La base légale est votre consentement, donné dans ce formulaire : vous pouvez le retirer à tout moment, en annulant votre inscription ou en m’écrivant.
+Pour les [appels à l’aveugle](/challenge/), gratuits, le formulaire d’inscription demande votre nom (ou un pseudo), votre adresse email, votre date de naissance et la soirée choisie ; mon email vous demande ensuite votre heure et votre lieu de naissance. Je m’en sers pour dresser votre thème, écrire votre portrait pour l’appel et vous envoyer le lien, et pour rien d’autre. La base légale est votre demande de participation : vous pouvez annuler, et me demander de supprimer vos données, à tout moment.
 
 Les appels ne sont pas enregistrés. Ensuite, je publie seulement le nombre de personnes qui ont reconnu leur propre portrait. Les inscriptions, et toute note qui relie une personne à une date de naissance, sont supprimées dans les 60 jours qui suivent l’appel.
 
@@ -39,7 +39,7 @@ Les appels ne sont pas enregistrés. Ensuite, je publie seulement le nombre de p
 - **Mon fournisseur de messagerie** conserve nos échanges.
 - **{{< host >}}** héberge ce site et, comme tout hébergeur, conserve brièvement des journaux techniques (comme les adresses IP) pour faire fonctionner le site et le sécuriser.
 - **Photon** ([photon.komoot.io](https://photon.komoot.io)), un moteur de recherche de lieux libre, construit sur OpenStreetMap, suggère des villes pendant que vous tapez un lieu de naissance dans le formulaire de commande. {{% on-host "cloudflare" %}}Il est interrogé par le serveur de ce site : il reçoit les lettres tapées dans ce champ, et rien sur vous.{{% /on-host %}}{{% on-host "github" %}}Sur cette version de prévisualisation, votre navigateur l’interroge directement : il reçoit les lettres tapées dans ce champ et, comme tout site web, votre adresse IP.{{% /on-host %}}
-- **Zoom** ([zoom.com](https://zoom.com)) gère l’inscription aux appels à l’aveugle et les appels eux-mêmes : il reçoit ce que vous tapez dans son formulaire d’inscription, et ce qui est dit et montré pendant un appel. Sa propre politique de confidentialité, sur son site, explique ce qu’il conserve.
+- **Zoom** ([zoom.com](https://zoom.com)) gère les appels à l’aveugle eux-mêmes : il reçoit le nom que vous indiquez en rejoignant l’appel, et ce qui y est dit et montré. Sa propre politique de confidentialité, sur son site, explique ce qu’il conserve.
 {{% payments %}}- **Stripe** ([stripe.com](https://stripe.com)) gère les paiements : vos coordonnées bancaires vont chez Stripe, jamais chez moi, et Stripe conserve ce que la loi demande à un prestataire de paiement.{{% /payments %}}
 
 Ces services peuvent stocker ou traiter des données hors de l’Union européenne — {{< host >}}, par exemple, est basé aux États-Unis. Chacun présente ses propres garanties sur son site.

@@ -28,7 +28,7 @@ For a synastry reading, the order asks for another person’s birth details. Giv
 
 ## The blind chart calls
 
-For the free [blind chart calls](/challenge/), Zoom’s registration form asks for your name, your email address, your date, time and place of birth, how much astrology you know, how you heard about the calls, and your agreement to their rules. I use them to draw your chart, write your portrait for the call and send you the link, and for nothing else. The legal basis is your consent, given in that form: you can withdraw it at any time, by cancelling or by writing to me.
+For the free [blind chart calls](/challenge/), the sign-up form asks for your name (or a nickname), your email address, your date of birth and the evening you choose; my email then asks for your time and place of birth. I use them to draw your chart, write your portrait for the call and send you the link, and for nothing else. The legal basis is your request to take part: you can cancel, and ask me to delete your details, at any time.
 
 The calls aren’t recorded. Afterwards I publish only how many people picked their own portrait. The registrations, and any note that links a person to a birth date, are deleted within 60 days of the call.
 
@@ -38,7 +38,7 @@ The calls aren’t recorded. Afterwards I publish only how many people picked th
 - **My email provider** stores our messages.
 - **{{< host >}}** hosts this website and, like any web host, keeps short-lived technical logs (such as IP addresses) to keep the site running and secure.
 - **Photon** ([photon.komoot.io](https://photon.komoot.io)), an open-source place search built on OpenStreetMap, suggests towns while you type a birthplace in the order form. {{% on-host "cloudflare" %}}It’s asked by this site’s own server: it receives the letters typed in that field, and nothing about you.{{% /on-host %}}{{% on-host "github" %}}On this preview your browser asks it directly, so it receives the letters typed in that field and, like any website, your IP address.{{% /on-host %}}
-- **Zoom** ([zoom.com](https://zoom.com)) runs the sign-up for the blind chart calls and the calls themselves: it receives what you type in its registration form, and what is said and shown on a call. Its own privacy statement, on its site, explains what it keeps.
+- **Zoom** ([zoom.com](https://zoom.com)) runs the blind chart calls themselves: it receives your name as you enter it on the call, and what is said and shown there. Its own privacy statement, on its site, explains what it keeps.
 {{% payments %}}- **Stripe** ([stripe.com](https://stripe.com)) handles payments: your card details go to them, never to me, and they keep what the law asks of a payment provider.{{% /payments %}}
 
 These services may store or process data outside the European Union — {{< host >}}, for example, is based in the United States. Each explains its own safeguards on its site.

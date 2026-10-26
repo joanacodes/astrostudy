@@ -966,11 +966,81 @@ function localTimes(root) {
   for (const el of $$('[data-local-time]', root)) {
     const when = new Date(el.dataset.localTime);
     if (Number.isNaN(when.getTime())) continue;
-    el.querySelector('strong').textContent = when.toLocaleString(lang, {
-      weekday: 'long', day: 'numeric', month: 'long', hour: 'numeric', minute: '2-digit', timeZoneName: 'short',
-    });
+    // "time": the hour alone, for a line that already names the days
+    const parts = el.dataset.localParts === 'time'
+      ? { hour: 'numeric', minute: '2-digit', timeZoneName: 'short' }
+      : { weekday: 'long', day: 'numeric', month: 'long', hour: 'numeric', minute: '2-digit', timeZoneName: 'short' };
+    el.querySelector('strong').textContent = when.toLocaleString(lang, parts);
     el.hidden = false;
   }
+}
+
+/* ---------------------------------------------------------------------------------------------
+   The calls' sign-up (signup.html): an evening, a name, an email, a date of birth. It goes to the
+   service set in hugo.toml; until there is one, it says so and sends nothing, so nobody believes
+   they're signed up when they aren't. */
+
+function wireSignup(form) {
+  if (!form || form.dataset.wired) return;
+  form.dataset.wired = '1';
+  const status = form.querySelector('[data-status]');
+  const button = form.querySelector('[data-submit]');
+  const birth = form.querySelector('input[name="birthDate"]');
+  const done = form.parentElement.querySelector('[data-signup-done]');
+  const say = (text) => {
+    status.textContent = text;
+  };
+  // 18 on the evening chosen (or the first one), counted in calendar days, as a birthday is
+  const adultOn = (born, evening) => {
+    const b = new Date(`${born}T12:00:00Z`);
+    const e = new Date(`${evening}T12:00:00Z`);
+    const eighteenth = new Date(Date.UTC(b.getUTCFullYear() + 18, b.getUTCMonth(), b.getUTCDate(), 12));
+    return eighteenth <= e;
+  };
+  birth?.addEventListener('input', () => birth.setCustomValidity(''));
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const closes = form.dataset.closes ? new Date(form.dataset.closes) : null;
+    if (closes && Date.now() > closes.getTime()) return say(form.dataset.msgClosed);
+    // nowhere to send yet: say so before asking anyone to correct a field
+    const endpoint = form.dataset.endpoint;
+    if (!endpoint) return say(form.dataset.msgSoon);
+    const evening = form.querySelector('input[name="evening"]:checked')?.value
+      || form.querySelector('input[name="evening"]:not(:disabled)')?.value;
+    if (birth?.value && evening && !adultOn(birth.value, evening)) birth.setCustomValidity(form.dataset.msgAdult);
+    if (!form.reportValidity()) return;
+    const data = Object.fromEntries([...new FormData(form)].map(([k, v]) => [k, String(v).trim()]));
+    const show = () => {
+      form.hidden = true;
+      if (done) {
+        done.hidden = false;
+        done.focus({ preventScroll: true });
+      }
+    };
+    // a robot filled the hidden field: thank it, send nothing
+    if (data._honey) return show();
+    delete data._honey;
+    data.page = location.href;
+    button.disabled = true;
+    say(form.dataset.msgSending || '…');
+    try {
+      const res = await fetch(endpoint, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+        body: JSON.stringify(data),
+      });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      say('');
+      form.reset();
+      show();
+    } catch (err) {
+      console.warn('[signup]', err);
+      say(form.dataset.msgError);
+    } finally {
+      button.disabled = false;
+    }
+  });
 }
 
 /* ---------------------------------------------------------------------------------------------
@@ -985,6 +1055,7 @@ function initPage(root, settle = 0) {
   collectDrawings(root);
   faqs(root);
   localTimes(root);
+  for (const form of $$('[data-signup]', root)) wireSignup(form);
   for (const form of $$('[data-form]', root)) wireForm(form);
   for (const box of $$('[data-received]', root)) wireReceived(box);
   for (const form of $$('[data-order-form]', root)) {

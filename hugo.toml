@@ -180,6 +180,13 @@ disableKinds = ["taxonomy", "term"]
   # (one address for both languages: a French order moves on to the French page by itself).
   # Empty = that one isn't open for payment yet: the form says so and sends nothing.
   # README → "Payments" has the whole path, from the form to the reading.
+  # The blind chart calls' sign-up form (content/<lang>/challenge.md). endpoint is the address the form
+  # sends to: the newsletter or email service chosen for the calls (a Resend-backed /api/signup on the
+  # Cloudflare worker, or a newsletter's own sign-up address). It receives JSON: name, email, birthDate
+  # (YYYY-MM-DD), evening (YYYY-MM-DD), lang, page. Empty = the form shows "sign-ups open very soon" and
+  # sends nothing.
+  [params.signup]
+    endpoint = ""
   [params.stripe]
     birthChart = ""            # e.g. "https://buy.stripe.com/…" — the birth chart reading
     birthChartConsulting = ""  # the birth chart reading + consulting
