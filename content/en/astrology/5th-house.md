@@ -87,7 +87,7 @@ The sign on the cusp of the 5th house gives your pleasures their style: how you 
 
 ## Its ruler {#ruler}
 
-The ruler of the 5th house is the planet that rules the sign on its cusp. Where it sits shows where your creativity and pleasure go to play out: the part of life your joy flows into. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler to read ([house rulers](/astrology/house-rulers/)).
+The ruler of the 5th house is the planet that rules the sign on its cusp. Where it sits shows where your creativity and pleasure go to play out: the part of life your joy flows into. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler, and I read both ([house rulers](/astrology/house-rulers/)).
 
 1. **[In the 1st house](/astrology/5th-house-ruler-in-1st-house/):** creativity is part of who you are; you show yourself through what you make.
 2. **[In the 2nd house](/astrology/5th-house-ruler-in-2nd-house/):** what you create can earn; pleasure in good things.

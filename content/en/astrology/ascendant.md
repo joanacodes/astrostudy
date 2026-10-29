@@ -39,7 +39,7 @@ Your rising sign is the placement people ask about right after the Sun, and the 
 
 ## In a birth chart {#in-a-birth-chart}
 
-Picture the sky at the moment of your birth, cut in two by the horizon. The zodiac crosses that line in two places: in the east, where signs are rising, and in the west, where they are setting. The eastern point is your Ascendant; the western one, exactly opposite, is the [Descendant](/astrology/descendant/). Together they make the [horizon axis](/astrology/horizon-axis/). On most chart wheels the Ascendant is the line on the left, at nine o'clock, and in Placidus and the other quadrant systems it is the cusp, the starting line, of the [1st house](/astrology/1st-house/). The Greeks called it the *horoskopos*, the hour-marker: the word horoscope comes from it.
+Picture the sky at the moment of your birth, cut in two by the horizon. The zodiac crosses that line in two places: in the east, where signs are rising, and in the west, where they are setting. The eastern point is your Ascendant; the western one, exactly opposite, is the [Descendant](/astrology/descendant/). Together they make the [horizon axis](/astrology/horizon-axis/). On most chart wheels the Ascendant is the line on the left, at nine o'clock, and in Placidus, the house system I use, as in the other quadrant systems, it is the cusp, the starting line, of the [1st house](/astrology/1st-house/). The Greeks called it the *horoskopos*, the hour-marker: the word horoscope comes from it.
 
 I read the Ascendant as the way you come through the door: how you start things, the manner people meet before they know you, the move you make before you've had time to think. It isn't a mask. It's the part of you that goes first.
 
@@ -70,7 +70,7 @@ The Ascendant changes sign about every two hours on average, faster or slower wi
 
 ## Its ruler in the houses {#in-the-houses}
 
-The planet that rules your rising sign is your [chart ruler](/astrology/chart-ruler/): Mars for Aries rising, Venus for Taurus and Libra, Mercury for Gemini and Virgo, the Moon for Cancer, the Sun for Leo, Jupiter for Sagittarius, Saturn for Capricorn. Scorpio, Aquarius and Pisces have a modern ruler and a traditional one (Pluto and Mars, Uranus and Saturn, Neptune and Jupiter), and astrologers read one, the other or both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). The house your chart ruler sits in is where your life tends to pull you:
+The planet that rules your rising sign is your [chart ruler](/astrology/chart-ruler/): Mars for Aries rising, Venus for Taurus and Libra, Mercury for Gemini and Virgo, the Moon for Cancer, the Sun for Leo, Jupiter for Sagittarius, Saturn for Capricorn. Scorpio, Aquarius and Pisces have a modern ruler and a traditional one (Pluto and Mars, Uranus and Saturn, Neptune and Jupiter), and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). The house your chart ruler sits in is where your life tends to pull you:
 
 1. **[In the 1st house](/astrology/1st-house-ruler-in-1st-house/):** your life is its own project; you steer it yourself, and it shows.
 2. **[In the 2nd house](/astrology/1st-house-ruler-in-2nd-house/):** you build yourself through what you earn, keep and value.

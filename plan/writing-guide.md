@@ -1,6 +1,6 @@
 # Writing an encyclopaedia entry
 
-How every entry of `/astrology/` is written, in English and French, so that 3,620 pages read as one site: one voice, one shape per kind of page, every page linked where the page plan puts it. The rules of each kind come from the "Site map and links" tab of the growth plan; the addresses and titles from `plan/pages.json`.
+How every entry of `/astrology/` is written, in English and French, so that 3,604 pages read as one site: one voice, one shape per kind of page, every page linked where the page plan puts it. The rules of each kind come from the "Site map and links" tab of the growth plan; the addresses and titles from `plan/pages.json`.
 
 ## Before writing
 
@@ -144,7 +144,7 @@ The angles take the same sections with their own pages: the Ascendant's signs ar
   `1. **[1st house](/astrology/aries-rising/):** Aries rising — …` then `2. **[2nd house](/astrology/aries-on-2nd-house-cusp/):** …` · `1. **[Maison I](/astrology/aries-rising/) :** l’ascendant Bélier — …`
 - **In synastry** — what the sign brings between two people, the pull of the opposite sign, link `/synastry/`. Sun-sign compatibility is the least reliable kind: say so, gently.
 - **Common myths** — 3 or 4.
-- Facts keys: Symbol · Dates (the Sun's, with *about*: *About 21 March – 19 April*) · Element · Modality · Ruler · Exalted here · Weakened here · Opposite sign · Natural house. French: Symbole · Dates (Soleil) · Élément · Mode · Maître · Exalté ici · Affaiblis ici · Signe opposé · Maison naturelle.
+- Facts keys: Symbol · Dates (the Sun's, with *about*: *About 21 March – 19 April*) · Element · Modality · Ruler · Exalted here · Weakened here · Opposite sign · Natural house. French: Symbole · Dates (Soleil) · Élément · Mode · Maître · Exaltation · Exil et chute · Signe opposé · Maison naturelle.
 
 ### House
 
@@ -162,7 +162,7 @@ The angles take the same sections with their own pages: the Ascendant's signs ar
 - **The sign on its cusp** — what the sign on the cusp does to the house, then 12 lines with the page title as the link text (`Aries on the 2nd house cusp` · `Bélier sur la cuspide de la maison 2`); for the 1st house these are the rising signs (`Aries rising` · `Ascendant Bélier`).
 - **Its ruler** — the ruler of the sign on the cusp, and why where it sits tells where the house's story plays out (for the 1st: the chart ruler, planned page `chart-ruler`), then 12 numbered lines with short labels: `1. **[In the 1st house](/astrology/7th-house-ruler-in-1st-house/):** …` · `1. **[En maison I](…) :** …`.
 - **Transits** — the fast planets cross it every month or year, the slow ones for years: link the 7 "transiting" pages (Jupiter, Saturn, Uranus, Neptune, Pluto, Chiron, the North Node) with their titles as link text.
-- Facts keys: Type (angular · succedent · cadent) · Its angle (1, 4, 7, 10) · Natural sign · Natural ruler · Opposite house · and where tradition gives one, its old name or the planet that has its joy there. French: Type · Son angle · Signe naturel · Maître naturel · Maison opposée · Nom ancien · Joie de.
+- Facts keys: Type (angular · succedent · cadent) · Its angle (1, 4, 7, 10) · Natural sign · Natural ruler · Opposite house (“The 7th house”) · and where tradition gives one, its old name (“Old name”) or the planet that has its joy there (“Joy of”). French: Type · Son angle · Signe naturel · Maître naturel · Maison opposée (« La maison 7 ») · Nom ancien · Joie de.
 
 ### Aspect
 
@@ -209,6 +209,19 @@ Joana's, as on the rest of the site (read `content/en/astrology/sun.md` and `sat
 - No famous people as examples, no sun-sign stereotypes passed off as fact, no "the stars say".
 - Health, death, pregnancy, money and legal outcomes are never predicted. Where a house or planet traditionally covers them (6th: illness, 8th: death, 5th: children, 12th: confinement), say what tradition gave it, read it in an adult's life, and link the planned ethics page: `can-astrology-predict-health-problems`, `can-astrology-predict-death`, `can-astrology-predict-pregnancy`, `childrens-charts`, `astrology-and-mental-health`.
 - Readers are adults; the site never reads children's charts.
+
+What Joana has said about her own practice, to state in her voice where it matters:
+
+- **Houses: Placidus.** Where the house system changes what a page says (the angles, the 1st house, the cusps), name it: *In Placidus, the house system I use, …*; the other systems are described, not dismissed.
+- **Rulers: both.** Scorpio, Aquarius and Pisces have a modern ruler (Pluto, Uranus, Neptune) and a traditional one (Mars, Saturn, Jupiter): talk about both, and *I read both*.
+- **Nodes: both.** Mean and true node: talk about both; *I look at both*, and near the edge of a sign she says when they disagree.
+
+## French
+
+- **No gender for the planets whose gender varies between writers:** Mercure, Mars, Jupiter, Saturne, Uranus, Neptune, Pluton. No gendered determiner before them (*le, la, un, une, du, au, son, sa, ce, cette*: write *Saturne, dans le thème de l’autre*, never *la Saturne de l’un* or *son Saturne*), no pronoun for them (*il, elle*, the *-t-il / -t-elle* of a question: repeat the name or turn the sentence round), no agreeing adjective or participle (*Mars a son exaltation en Capricorne*, *Herschel découvre Uranus en 1781*). Invariable words are fine (*rétrograde, maléfique, rapide*), and so is *cette planète*, used sparingly. Le Soleil, la Lune, Vénus, la Terre, Chiron, Lilith and the nodes keep their usual gender.
+- **Planet facts keys** in French are nouns, the same on every planet page: *Exaltation* and *Exil et chute*, not *Exalté(e) en* / *Affaibli(e) en*.
+- **The old names of the houses:** 3rd *la Déesse*, 5th *la Fortune favorable*, 6th *la Fortune défavorable*, 9th *le Dieu*, 11th *le Génie favorable*, 12th *le Génie défavorable* (English: the Goddess, Good Fortune, Bad Fortune, the God, Good Spirit, Bad Spirit).
+- Typography by `tools/fr-typography.mjs`; *vous*; Joana writes in the feminine; never assume the reader's gender.
 
 ## Facts
 

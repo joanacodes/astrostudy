@@ -86,7 +86,7 @@ In Placidus and the other quadrant systems, the sign on the cusp of the 10th hou
 
 ## Its ruler {#ruler}
 
-The ruler of the 10th house is the planet that rules the sign on its cusp, and where it sits shows what your public life draws its energy from: the part of life that feeds your work, or that your work keeps coming back to. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler to read ([house rulers](/astrology/house-rulers/)).
+The ruler of the 10th house is the planet that rules the sign on its cusp, and where it sits shows what your public life draws its energy from: the part of life that feeds your work, or that your work keeps coming back to. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler, and I read both ([house rulers](/astrology/house-rulers/)).
 
 1. **[In the 1st house](/astrology/10th-house-ruler-in-1st-house/):** your work is part of who you are; you often make your own way.
 2. **[In the 2nd house](/astrology/10th-house-ruler-in-2nd-house/):** work tied to earning and to what you value; security built through what you do.

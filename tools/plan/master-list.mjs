@@ -492,7 +492,7 @@ export const families = [
     key: 'cycles', en: 'Cycles, returns and life transits', fr: 'Cycles, retours et transits de vie', groups: [
       g('Returns', 'Les retours', 1, 'concept', [
         'Saturn return | Retour de Saturne', 'Chiron return | Retour de Chiron', 'Solar return | Révolution solaire',
-        'Jupiter return | Retour de Jupiter | 2', 'Venus star point | Point étoile de Vénus | 3',
+        'Jupiter return | Retour de Jupiter | 2', 'Uranus return | Retour d’Uranus | 3', 'Venus star point | Point étoile de Vénus | 3',
       ]),
       g('Life transits', 'Les transits de vie', 2, 'concept', [
         'Saturn squares and opposition | Carrés et opposition de Saturne', 'Uranus opposition | Opposition d’Uranus',

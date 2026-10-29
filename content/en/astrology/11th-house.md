@@ -85,7 +85,7 @@ The sign on the cusp of the 11th house describes how you make friends and join i
 
 ## Its ruler {#ruler}
 
-The ruler of the 11th house is the planet that rules the sign on its cusp, and where it sits shows where your friendships and hopes play out: where you find your people, and what you build with them. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler to read ([house rulers](/astrology/house-rulers/)).
+The ruler of the 11th house is the planet that rules the sign on its cusp, and where it sits shows where your friendships and hopes play out: where you find your people, and what you build with them. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler, and I read both ([house rulers](/astrology/house-rulers/)).
 
 1. **[In the 1st house](/astrology/11th-house-ruler-in-1st-house/):** friends shape who you are; you often embody what your group stands for.
 2. **[In the 2nd house](/astrology/11th-house-ruler-in-2nd-house/):** friendships and networks connect to what you earn and value.

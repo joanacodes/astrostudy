@@ -167,7 +167,7 @@ New entries go up as drafts (`draft: true`) and are published once approved in b
 
 ## The page plan
 
-`plan/pages.json`, and `plan/pages.csv` for a spreadsheet, lists every page the encyclopaedia will have: 3,620 per language, each with its title and address in English and French, its tier, its writing batch (tier 1 is written in six batches), its headings and the pages it links up and across to. `node tools/plan/build-plan.mjs` builds it from the master list (`tools/plan/master-list.mjs`, the “Astrology bible — master list” tab as data), and refuses two pages with one address or a link to a page outside the plan. Write each new entry at the address the plan gives it: an address never changes once it is published. `node tools/plan/build-viewer.mjs page-plan.html` turns the plan into one page to browse, published as the “Astro Study page plan” artifact.
+`plan/pages.json`, and `plan/pages.csv` for a spreadsheet, lists every page the encyclopaedia will have: 3,604 per language, each with its title and address in English and French, its tier, its writing batch (tier 1 is written in six batches), its headings and the pages it links up and across to. `node tools/plan/build-plan.mjs` builds it from the master list (`tools/plan/master-list.mjs`, the “Astrology bible — master list” tab as data), and refuses two pages with one address or a link to a page outside the plan. Write each new entry at the address the plan gives it: an address never changes once it is published. `node tools/plan/build-viewer.mjs page-plan.html` turns the plan into one page to browse, published as the “Astro Study page plan” artifact.
 
 ## Search engines and AI assistants
 

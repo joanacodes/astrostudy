@@ -85,7 +85,7 @@ The sign on the cusp of the 3rd house gives your everyday mind its style: the pa
 
 ## Its ruler {#ruler}
 
-The ruler of the 3rd house is the planet that rules the sign on its cusp, and where it sits shows what your thinking and talking are put to work for: the part of life your words serve. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler to read ([house rulers](/astrology/house-rulers/)).
+The ruler of the 3rd house is the planet that rules the sign on its cusp, and where it sits shows what your thinking and talking are put to work for: the part of life your words serve. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler, and I read both ([house rulers](/astrology/house-rulers/)).
 
 1. **[In the 1st house](/astrology/3rd-house-ruler-in-1st-house/):** how you speak is a large part of who you are.
 2. **[In the 2nd house](/astrology/3rd-house-ruler-in-2nd-house/):** your words and skills can earn; you think a lot about value.

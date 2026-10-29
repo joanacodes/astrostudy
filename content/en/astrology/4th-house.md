@@ -86,7 +86,7 @@ The sign on the IC, the cusp of the 4th house, gives the tone of your private li
 
 ## Its ruler {#ruler}
 
-The ruler of the 4th house is the planet that rules the sign on the IC. Where it sits shows where your sense of home goes looking: the part of life that roots you, or the one family matters spill into. With Scorpio, Aquarius or Pisces on the IC, there's a modern and a traditional ruler to read ([house rulers](/astrology/house-rulers/)).
+The ruler of the 4th house is the planet that rules the sign on the IC. Where it sits shows where your sense of home goes looking: the part of life that roots you, or the one family matters spill into. With Scorpio, Aquarius or Pisces on the IC, there's a modern and a traditional ruler, and I read both ([house rulers](/astrology/house-rulers/)).
 
 1. **[In the 1st house](/astrology/4th-house-ruler-in-1st-house/):** you carry home with you; your roots show in who you are.
 2. **[In the 2nd house](/astrology/4th-house-ruler-in-2nd-house/):** home and money are linked: property, family resources, security.

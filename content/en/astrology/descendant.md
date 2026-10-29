@@ -70,7 +70,7 @@ The Descendant is always the sign opposite your rising sign, so it changes sign 
 
 ## Its ruler in the houses {#in-the-houses}
 
-The planet that rules the sign on your Descendant is the ruler of your 7th house ([house rulers](/astrology/house-rulers/)): Venus if it's Taurus or Libra, Mars if it's Aries, Saturn if it's Capricorn, and so on; Scorpio, Aquarius and Pisces have a modern and a traditional ruler ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). Where it sits shows where relationships tend to find you, and what they get tied up with:
+The planet that rules the sign on your Descendant is the ruler of your 7th house ([house rulers](/astrology/house-rulers/)): Venus if it's Taurus or Libra, Mars if it's Aries, Saturn if it's Capricorn, and so on; Scorpio, Aquarius and Pisces have a modern and a traditional ruler, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). Where it sits shows where relationships tend to find you, and what they get tied up with:
 
 1. **[In the 1st house](/astrology/7th-house-ruler-in-1st-house/):** partners seek you out, and relationships shape who you become.
 2. **[In the 2nd house](/astrology/7th-house-ruler-in-2nd-house/):** love and security go together; shared values matter as much as feelings.

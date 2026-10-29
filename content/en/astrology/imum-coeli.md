@@ -69,7 +69,7 @@ The IC is always the sign opposite your Midheaven, and changes sign with it, abo
 
 ## Its ruler in the houses {#in-the-houses}
 
-The planet that rules the sign on your IC is the ruler of your 4th house ([house rulers](/astrology/house-rulers/)): the Moon for a Cancer IC, Venus for Taurus or Libra, Saturn for Capricorn, and so on; Scorpio, Aquarius and Pisces have a modern and a traditional ruler ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). Where it sits shows where the story of home and family plays out in the rest of your life:
+The planet that rules the sign on your IC is the ruler of your 4th house ([house rulers](/astrology/house-rulers/)): the Moon for a Cancer IC, Venus for Taurus or Libra, Saturn for Capricorn, and so on; Scorpio, Aquarius and Pisces have a modern and a traditional ruler, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). Where it sits shows where the story of home and family plays out in the rest of your life:
 
 1. **[In the 1st house](/astrology/4th-house-ruler-in-1st-house/):** you carry home with you; your family shaped who you are, visibly.
 2. **[In the 2nd house](/astrology/4th-house-ruler-in-2nd-house/):** home means security; you build it with what you earn and value.

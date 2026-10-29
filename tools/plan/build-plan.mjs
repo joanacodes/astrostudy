@@ -178,10 +178,14 @@ for (let i = 0; i < bodies.length; i++) {
     }
   }
 }
-for (const [b, bf, gender] of bodies) {
+// French gives Saturne, Mars, Jupiter… no settled gender, so the French titles never lend them one: no
+// "son Saturne" or "Saturne natal", but "Saturne de l’autre" and "Saturne du thème natal". Only the
+// words French always writes with an article keep it.
+const withArticle = { Soleil: 'Le Soleil', Lune: 'La Lune', 'Nœud Nord': 'Le Nœud Nord' };
+for (const [b, bf] of bodies) {
   houses.forEach((k, i) => combo(['House overlays in synastry', 'Superpositions de maisons'], 'overlay', 2, {
     id: `${slug(b)}-in-${n(k)}-house-synastry`, slugFr: `${slug(bf, 'fr')}-en-maison-${k}-synastrie`,
-    en: `Their ${b} in your ${n(k)} house`, fr: `${gender === 'f' ? 'Sa' : 'Son'} ${bf} dans votre maison ${k}`,
+    en: `Their ${b} in your ${n(k)} house`, fr: `${withArticle[bf] ?? bf} de l’autre dans votre maison ${k}`,
     up: [pillarOf(b), `${n(k)}-house`, 'house-overlays'], across: around(houses, i, (x) => `${slug(b)}-in-${n(x)}-house-synastry`) }));
 }
 const slow = ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto', 'Chiron', 'North Node'];
@@ -203,16 +207,20 @@ for (const b of ['Mercury', 'Venus', 'Mars']) {
 signs.forEach(([s, sf], i) => combo(['Eclipses by sign', 'Éclipses par signe'], 'eclipse-sign', 2, {
   id: `eclipse-in-${slug(s)}`, slugFr: `eclipse-en-${slug(sf, 'fr')}`, en: `Eclipse in ${s}`, fr: `Éclipse en ${sf}`,
   up: ['solar-eclipses', 'lunar-eclipses', slug(s)], across: around(signs, i, ([x]) => `eclipse-in-${slug(x)}`) }));
-const natalPoints = [...bodies.slice(0, 10).map(([e, f, g]) => [e, f, g]), ['Ascendant', 'Ascendant', 'm'], ['Midheaven', 'Milieu du Ciel', 'm']];
+const natalPoints = [...bodies.slice(0, 10).map(([e, f]) => [e, f]), ['Ascendant', 'Ascendant'], ['Midheaven', 'Milieu du Ciel']];
+// a slow planet's conjunction with its own birth place is its return: the Jupiter and Saturn returns have
+// their own pages, the Uranus return at about 84 too, and Neptune's and Pluto's never come in a lifetime
+const isReturn = (t, v, p) => v === 'conjunct' && t === p;
 for (const t of slow) {
   const tf = fr(t)[1];
-  for (const [p, pf, gender] of natalPoints) {
+  for (const [p, pf] of natalPoints) {
     for (const [v, vf, type] of aspects) {
+      if (isReturn(t, v, p)) continue;
       combo(['Transits to natal points', 'Transits aux points natals'], 'transit-natal', 3, {
         id: `transiting-${slug(t)}-${v}-natal-${slug(p)}`, slugFr: `${slug(tf, 'fr')}-transit-${slug(vf, 'fr')}-${slug(pf, 'fr')}-natal`,
-        en: `Transiting ${t} ${v} natal ${p}`, fr: `${tf} en transit ${vf} ${pf} ${gender === 'f' ? 'natale' : 'natal'}`,
+        en: `Transiting ${t} ${v} natal ${p}`, fr: `${tf} en transit ${vf} ${pf} du thème natal`,
         up: [pillarOf(t), p === 'Midheaven' ? 'midheaven' : pillarOf(p), slug(type), 'transits'],
-        across: aspects.filter(([w]) => w !== v).map(([w]) => `transiting-${slug(t)}-${w}-natal-${slug(p)}`) });
+        across: aspects.filter(([w]) => w !== v && !isReturn(t, w, p)).map(([w]) => `transiting-${slug(t)}-${w}-natal-${slug(p)}`) });
     }
   }
 }
@@ -229,10 +237,12 @@ for (const k1 of houses) {
     id: `${n(k1)}-house-ruler-in-${n(k2)}-house`, slugFr: `maitre-maison-${k1}-en-maison-${k2}`, en: `Ruler of the ${n(k1)} in the ${n(k2)} house`, fr: `Maître de la maison ${k1} en maison ${k2}`,
     up: [`${n(k1)}-house`, `${n(k2)}-house`, 'house-rulers'], across: around(houses, i, (x) => `${n(k1)}-house-ruler-in-${n(x)}-house`) }));
 }
+// the sign on the 1st house cusp is the rising sign, which has its own page: no second page competes with it
+const cuspPage = (s, k) => (k === 1 ? `${slug(s)}-rising` : `${slug(s)}-on-${n(k)}-house-cusp`);
 for (const [s, sf] of signs) {
-  houses.forEach((k, i) => combo(['Signs on the house cusps', 'Signes sur les cuspides'], 'sign-cusp', 3, {
-    id: `${slug(s)}-on-${n(k)}-house-cusp`, slugFr: `${slug(sf, 'fr')}-cuspide-maison-${k}`, en: `${s} on the ${n(k)} house cusp`, fr: `${sf} sur la cuspide de la maison ${k}`,
-    up: [slug(s), `${n(k)}-house`, 'house-cusps'], across: around(houses, i, (x) => `${slug(s)}-on-${n(x)}-house-cusp`) }));
+  houses.forEach((k, i) => k > 1 && combo(['Signs on the house cusps', 'Signes sur les cuspides'], 'sign-cusp', 3, {
+    id: cuspPage(s, k), slugFr: `${slug(sf, 'fr')}-cuspide-maison-${k}`, en: `${s} on the ${n(k)} house cusp`, fr: `${sf} sur la cuspide de la maison ${k}`,
+    up: [slug(s), `${n(k)}-house`, 'house-cusps'], across: around(houses, i, (x) => cuspPage(s, x)) }));
 }
 const stars = [['Regulus', 'Régulus'], ['Aldebaran', 'Aldébaran'], ['Antares', 'Antarès'], ['Fomalhaut', 'Fomalhaut'], ['Algol', 'Algol'], ['Spica', 'Spica']];
 const starBodies = ['Sun', 'Moon', 'Venus', 'Mars', 'Saturn'];

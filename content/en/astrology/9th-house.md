@@ -85,7 +85,7 @@ The sign on the cusp of the 9th house is the style of your search: how you learn
 
 ## Its ruler {#ruler}
 
-The ruler of the 9th house is the planet that rules the sign on its cusp, and where it sits shows where your search for meaning plays out: the part of life your beliefs are built from, or put to work in. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler to read ([house rulers](/astrology/house-rulers/)).
+The ruler of the 9th house is the planet that rules the sign on its cusp, and where it sits shows where your search for meaning plays out: the part of life your beliefs are built from, or put to work in. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler, and I read both ([house rulers](/astrology/house-rulers/)).
 
 1. **[In the 1st house](/astrology/9th-house-ruler-in-1st-house/):** your beliefs show in who you are; a natural traveller, student or teacher.
 2. **[In the 2nd house](/astrology/9th-house-ruler-in-2nd-house/):** what you know becomes how you earn; values shaped by belief.

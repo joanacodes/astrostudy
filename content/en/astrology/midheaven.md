@@ -27,7 +27,7 @@ faq:
   - q: "Is the Midheaven my career?"
     a: "Partly. It describes the direction you’re building towards and how you want to be seen for your work, not a job title. Its sign gives the style, and its ruler shows where that ambition draws its energy. I read it as a direction you can follow in many different jobs."
   - q: "Is the Midheaven the same as the 10th house cusp?"
-    a: "In Placidus and the other quadrant systems, yes. In Whole Sign and equal houses, the Midheaven keeps its meaning but floats, and can fall in the 9th or the 11th house. That’s one reason the same chart can look different from one website to another."
+    a: "In Placidus, the house system I use, and the other quadrant systems, yes. In Whole Sign and equal houses, the Midheaven keeps its meaning but floats, and can fall in the 9th or the 11th house. That’s one reason the same chart can look different from one website to another."
   - q: "Why do I need my birth time for my Midheaven?"
     a: "The whole zodiac crosses the meridian once a day, so the Midheaven changes sign about every two hours. A birth time half an hour out can be enough to move it into the next sign. Without a time, I read your planets in their signs and leave the angles aside."
 sources:
@@ -70,7 +70,7 @@ The whole zodiac crosses the meridian once a day, so the Midheaven changes sign 
 
 ## Its ruler in the houses {#in-the-houses}
 
-The planet that rules the sign on your Midheaven is the ruler of your 10th house ([house rulers](/astrology/house-rulers/)): Saturn for a Capricorn Midheaven, the Sun for Leo, Mercury for Gemini or Virgo, and so on; for Scorpio, Aquarius and Pisces, astrologers use a modern ruler, a traditional one, or both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). Where it sits shows which part of life feeds your work and your standing:
+The planet that rules the sign on your Midheaven is the ruler of your 10th house ([house rulers](/astrology/house-rulers/)): Saturn for a Capricorn Midheaven, the Sun for Leo, Mercury for Gemini or Virgo, and so on; Scorpio, Aquarius and Pisces have a modern ruler and a traditional one, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). Where it sits shows which part of life feeds your work and your standing:
 
 1. **[In the 1st house](/astrology/10th-house-ruler-in-1st-house/):** your work is personal; you are, very visibly, what you do.
 2. **[In the 2nd house](/astrology/10th-house-ruler-in-2nd-house/):** work tied to earning, and to making things of value.

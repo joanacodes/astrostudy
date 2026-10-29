@@ -87,7 +87,7 @@ The sign on the cusp of the 6th house gives your days their style: how you work,
 
 ## Its ruler {#ruler}
 
-The ruler of the 6th house is the planet that rules the sign on its cusp. Where it sits shows where your daily work and routines go: the part of life your effort serves. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler to read ([house rulers](/astrology/house-rulers/)).
+The ruler of the 6th house is the planet that rules the sign on its cusp. Where it sits shows where your daily work and routines go: the part of life your effort serves. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler, and I read both ([house rulers](/astrology/house-rulers/)).
 
 1. **[In the 1st house](/astrology/6th-house-ruler-in-1st-house/):** you're known for how you work; effort is part of who you are.
 2. **[In the 2nd house](/astrology/6th-house-ruler-in-2nd-house/):** daily work as a livelihood; skills that pay.

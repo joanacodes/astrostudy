@@ -82,7 +82,7 @@ The sign on the cusp of the 2nd house is your style with money and things: how y
 
 ## Its ruler {#ruler}
 
-The ruler of the 2nd house is the planet that rules the sign on its cusp. Where it sits shows where your money and your sense of worth come from, and where they tend to go: the part of life that feeds your security, or the one that spends it. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler, and both are worth reading ([house rulers](/astrology/house-rulers/)).
+The ruler of the 2nd house is the planet that rules the sign on its cusp. Where it sits shows where your money and your sense of worth come from, and where they tend to go: the part of life that feeds your security, or the one that spends it. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler, and I read both ([house rulers](/astrology/house-rulers/)).
 
 1. **[In the 1st house](/astrology/2nd-house-ruler-in-1st-house/):** you earn through your own effort and presence; worth and identity sit close together.
 2. **[In the 2nd house](/astrology/2nd-house-ruler-in-2nd-house/):** the story stays at home; what you have tends to build on itself.

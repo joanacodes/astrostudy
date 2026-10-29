@@ -40,7 +40,7 @@ The nodal axis is the North and South Nodes taken together: one line across the 
 
 The Moon's path around us is tilted about five degrees to the [ecliptic](/astrology/ecliptic/), the path the Sun seems to follow through the year. Two tilted circles cross at two points, exactly opposite each other. Where the Moon crosses going north is the [North Node](/astrology/north-node/); where it crosses going south, the [South Node](/astrology/south-node/). The line through them is the nodal axis.
 
-Nothing is there to see: the nodes are crossing points, worked out from the Moon's orbit. That's also why there are two ways to calculate them — a smoothed mean node and a wobbling true node — which are a degree or two apart at most ([mean node and true node](/astrology/mean-node-and-true-node/)). Near the edge of a sign, it's worth checking which one a chart uses.
+Nothing is there to see: the nodes are crossing points, worked out from the Moon's orbit. That's also why there are two ways to calculate them — a smoothed mean node and a wobbling true node — which are a degree or two apart at most ([mean node and true node](/astrology/mean-node-and-true-node/)). I look at both, and near the edge of a sign I tell you when they disagree.
 
 ## How it works {#how-it-works}
 

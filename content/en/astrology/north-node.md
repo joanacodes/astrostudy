@@ -27,7 +27,7 @@ faq:
   - q: "How often does the North Node change sign?"
     a: "About every 18 months. The nodes move backwards through the zodiac and take about 18.6 years to go all the way round, so everyone born within the same year and a half or so shares the North Node’s sign. Its house, which needs a birth time, makes it personal."
   - q: "What is the difference between the true node and the mean node?"
-    a: "The mean node is a smoothed, average position that always moves backwards. The true node follows the Moon’s actual orbit, which wobbles. They are a degree or two apart at most, so the sign is nearly always the same; near the edge of a sign, check which one your chart uses."
+    a: "The mean node is a smoothed, average position that always moves backwards. The true node follows the Moon’s actual orbit, which wobbles. They are a degree or two apart at most, so the sign is nearly always the same. I look at both, and near the edge of a sign I tell you when they disagree."
   - q: "Is the North Node my destiny?"
     a: "Not as I read it. Some astrologers call it a soul’s purpose or a karmic path; I read it as a direction that tends to repay effort, never an obligation. Nothing in a chart decides for you, and nobody fails their North Node."
 sources:

@@ -39,7 +39,7 @@ The 1st house is where a birth chart starts: the stretch of the zodiac that was 
 I read the 1st house as the front door of a chart. It describes your body and your manner, your first reaction, the way you start things and the impression you make before anyone knows you. Whatever the rest of the chart holds comes out through this door, so I look here first.
 
 - **An angular house.** It's one of the four houses that begin at the angles of the chart, and what sits in an angular house shows. [Angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/) explains the three kinds.
-- **Its angle.** Its cusp is the [Ascendant](/astrology/ascendant/), the degree that was rising on the eastern horizon when you were born. In Placidus and the other quadrant systems, the Ascendant is where the 1st house begins; in whole sign houses, the 1st house is the whole of the rising sign ([which house system should I use?](/astrology/which-house-system-should-i-use/)).
+- **Its angle.** Its cusp is the [Ascendant](/astrology/ascendant/), the degree that was rising on the eastern horizon when you were born. In Placidus, the house system I use, and in the other quadrant systems, the Ascendant is where the 1st house begins; in whole sign houses, the 1st house is the whole of the rising sign ([which house system should I use?](/astrology/which-house-system-should-i-use/)).
 - **Its natural sign and planet.** [Aries](/astrology/aries/) and [Mars](/astrology/mars/): beginnings, drive, the first move.
 - **Mercury's joy.** Tradition said [Mercury](/astrology/mercury/) rejoices here ([planetary joys](/astrology/planetary-joys/)): the planet of thought and speech, at home in the house of the self.
 - **Its opposite.** The [7th house](/astrology/7th-house/), the house of partners: the 1st is *me*, the 7th is *you*.
@@ -86,7 +86,7 @@ The sign on the cusp of the 1st house is your rising sign. It sets the style of 
 
 ## Its ruler {#ruler}
 
-The planet that rules your rising sign rules your 1st house, and astrologers call it the [chart ruler](/astrology/chart-ruler/): Mars with Aries rising, Venus with Taurus rising, and so on. Where it sits is where your life tends to gather — the house that keeps drawing you in, whatever your rising sign promised. With Scorpio, Aquarius or Pisces rising there are two to look at, the modern ruler and the traditional one ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). Every house has a ruler that works this way ([house rulers](/astrology/house-rulers/)); the ruler of the 1st is simply the one that speaks for you.
+The planet that rules your rising sign rules your 1st house, and astrologers call it the [chart ruler](/astrology/chart-ruler/): Mars with Aries rising, Venus with Taurus rising, and so on. Where it sits is where your life tends to gather — the house that keeps drawing you in, whatever your rising sign promised. With Scorpio, Aquarius or Pisces rising there are two, the modern ruler and the traditional one, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). Every house has a ruler that works this way ([house rulers](/astrology/house-rulers/)); the ruler of the 1st is simply the one that speaks for you.
 
 1. **[In the 1st house](/astrology/1st-house-ruler-in-1st-house/):** you're your own project; what people see is very much what there is.
 2. **[In the 2nd house](/astrology/1st-house-ruler-in-2nd-house/):** you find yourself through what you earn, make and keep.

@@ -87,7 +87,7 @@ The sign on the cusp of the 12th house describes how you retreat and recover, an
 
 ## Its ruler {#ruler}
 
-The ruler of the 12th house is the planet that rules the sign on its cusp, and where it sits shows where the 12th's quiet work plays out: the part of life you retreat into, or the one you serve without being seen. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler to read ([house rulers](/astrology/house-rulers/)).
+The ruler of the 12th house is the planet that rules the sign on its cusp, and where it sits shows where the 12th's quiet work plays out: the part of life you retreat into, or the one you serve without being seen. With Scorpio, Aquarius or Pisces on the cusp, there's a modern and a traditional ruler, and I read both ([house rulers](/astrology/house-rulers/)).
 
 1. **[In the 1st house](/astrology/12th-house-ruler-in-1st-house/):** your inner life shows in your manner; a quiet, sensitive presence.
 2. **[In the 2nd house](/astrology/12th-house-ruler-in-2nd-house/):** private worries about security; money earned behind the scenes, or spent on rest and calm.
