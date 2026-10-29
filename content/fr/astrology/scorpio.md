@@ -12,11 +12,11 @@ glyph: "♏"
 definition: "Le Scorpion est le huitième signe du zodiaque, un signe d’eau fixe gouverné par Pluton en astrologie moderne et par Mars dans la tradition ; le Soleil le traverse environ du 23 octobre au 21 novembre. Dans un thème natal, il montre où vous allez au fond, tenez bon et préférez la vérité aux apparences."
 facts:
   - { k: "Symbole", v: "♏ — le scorpion et son dard" }
-  - { k: "Dates (Soleil)", v: "Environ du 23 octobre au 21 novembre" }
+  - { k: "Dates (Soleil)", v: "Du 23 octobre au 21 novembre environ" }
   - { k: "Élément", v: "Eau" }
   - { k: "Mode", v: "Fixe" }
   - { k: "Maître", v: "Pluton (moderne), Mars (traditionnel)" }
-  - { k: "Exalté ici", v: "Aucune planète" }
+  - { k: "Exalté ici", v: "Aucune planète, dans le schéma classique" }
   - { k: "Affaiblis ici", v: "Vénus (exil), la Lune (chute)" }
   - { k: "Signe opposé", v: "Taureau" }
   - { k: "Maison naturelle", v: "La maison 8" }
@@ -39,15 +39,15 @@ Le Scorpion est le huitième signe du zodiaque, un signe d’eau fixe, et celui 
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Où qu’il tombe dans votre thème, le Scorpion veut ce qu’il y a sous la surface, et ne se contente pas de moins. C’est un [signe d’eau](/astrology/water-signs/), qui avance par le ressenti, et un signe fixe, qui tient : à ses proches, à ses loyautés, à tout ce qu’il a jugé important (les [trois modalités](/astrology/three-modalities/) expliquent la différence). Juste avant lui, la [Balance](/astrology/libra/) conclut l’accord ; le Scorpion veut savoir ce que l’accord coûte, et ce que chacun y apporte vraiment. Le [Sagittaire](/astrology/sagittarius/), ensuite, remonte respirer et cherche un sens.
+Chaque thème contient du Scorpion quelque part, qu’une planète s’y trouve ou non. Où qu’il tombe, il veut ce qu’il y a sous la surface, et ne se contente pas de moins. C’est un [signe d’eau](/astrology/water-signs/), qui avance par le ressenti, et un signe fixe, qui tient : à ses proches, à ses loyautés, à tout ce qu’il a jugé important (les [trois modalités](/astrology/three-modalities/) expliquent la différence). Juste avant lui, la [Balance](/astrology/libra/) conclut l’accord ; le Scorpion veut savoir ce que l’accord coûte, et ce que chacun y apporte vraiment. Le [Sagittaire](/astrology/sagittarius/), ensuite, remonte respirer et cherche un sens.
 
-Les trois placements dont on me parle d’abord :
+Trois placements amènent la plupart des gens ici :
 
-- **[Soleil en Scorpion](/astrology/sun-in-scorpio/) :** vous grandissez en allant au fond des choses, et en y restant. Vous préférez connaître une chose à fond que beaucoup un peu, et c’est souvent dans la crise, quand les autres reculent, que vous êtes le plus solide.
-- **[Lune en Scorpion](/astrology/moon-in-scorpio/) :** vos émotions sont profondes et secrètes. Très peu de personnes vous donnent un sentiment de sécurité, mais quand vous faites confiance, le lien est entier. La Lune est ici en chute, ce qui, en pratique, veut souvent dire des sentiments forts gardés à l’abri des regards.
-- **[Ascendant Scorpion](/astrology/scorpio-rising/) :** on sent votre intensité avant que vous ayez dit un mot, et vous observez avant de parler. Avec deux maîtres, il y a deux planètes à regarder comme [maître du thème](/astrology/chart-ruler/) : Mars et Pluton. Connaître son ascendant demande une [heure de naissance](/blog/unknown-birth-time/) précise.
+- **[Soleil en Scorpion](/astrology/sun-in-scorpio/)** — une naissance entre le 23 octobre et le 21 novembre environ. Vous grandissez en allant au fond des choses, et en y restant. Vous préférez connaître une chose à fond que beaucoup un peu, et c’est souvent dans la crise, quand les autres reculent, que vous êtes le plus solide.
+- **[Lune en Scorpion](/astrology/moon-in-scorpio/)** — vos émotions sont profondes et secrètes. Très peu de personnes vous donnent un sentiment de sécurité, mais quand vous faites confiance, le lien est entier. La Lune est ici en chute, ce qui, en pratique, veut souvent dire des sentiments forts gardés à l’abri des regards.
+- **[Ascendant Scorpion](/astrology/scorpio-rising/)** — on sent votre intensité avant que vous ayez dit un mot, et vous observez avant de parler. Avec deux maîtres, il y a deux planètes à regarder comme [maître du thème](/astrology/chart-ruler/) : Mars et Pluton. Un ascendant demande votre [heure de naissance](/blog/unknown-birth-time/) : il change de signe toutes les deux heures environ.
 
-Le signe solaire et l’ascendant sont les placements que tout le monde lit en premier. Dans [mon carnet](/blog/i-tested-my-birth-chart/), ils ont tenu environ une fois sur trois : un Soleil en Scorpion me dit par où commencer, pas quoi conclure.
+Aucun des trois ne fait toute la personne. Dans [mon carnet](/blog/i-tested-my-birth-chart/), le signe solaire et l’ascendant ont chacun tenu environ une fois sur trois, et la Lune, vérifiée comme tous les autres placements, ne faisait pas partie des trois qui ont tenu bien plus souvent. Un Soleil en Scorpion me dit donc par où commencer, pas quoi conclure.
 
 ## Ses maîtres : Pluton et Mars {#maitre}
 
@@ -72,7 +72,7 @@ Toutes les planètes traversent le Scorpion, de la Lune, qui y passe environ deu
 
 ## Le Scorpion sur une cuspide {#sur-une-cuspide}
 
-Dans la plupart des thèmes, le Scorpion ouvre l’une des douze maisons (sinon, il est [intercepté](/astrology/intercepted-signs/), enfermé à l’intérieur d’une maison), et ce domaine de vie devient celui où vous allez au fond et tenez bon. La maison dépend de votre heure et de votre lieu de naissance.
+Dans la plupart des thèmes, le Scorpion ouvre l’une des douze maisons. En Placidus et dans les autres systèmes par quadrants, un signe peut aussi en ouvrir deux, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur de l’une d’elles. Là où le Scorpion ouvre une maison, vous allez au fond et tenez bon, et Mars et Pluton, où qu’ils soient, poursuivent l’histoire. La maison dépend de votre heure et de votre lieu de naissance.
 
 1. **[Maison I](/astrology/scorpio-rising/) :** l’ascendant Scorpion — une présence intense et attentive ; on vous sent avant de vous connaître.
 2. **[Maison II](/astrology/scorpio-on-2nd-house-cusp/) :** l’argent gardé discret et géré avec stratégie ; vous pouvez gagner votre vie par la recherche, l’argent d’autrui ou ce que personne ne regarde.

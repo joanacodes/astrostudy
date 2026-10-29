@@ -37,15 +37,15 @@ Capricorn is the tenth sign of the zodiac, a cardinal earth sign, and its old sy
 
 ## In a birth chart {#in-a-birth-chart}
 
-Wherever Capricorn falls in your chart, it asks *what will this be worth in ten years?* It's an [earth sign](/astrology/earth-signs/), so it works with what's real and measurable, and a cardinal one, so it takes the lead — usually by taking responsibility (the [three modalities](/astrology/three-modalities/) explain what that means). [Sagittarius](/astrology/sagittarius/), just before it, finds the vision; Capricorn builds the structure that makes it real. [Aquarius](/astrology/aquarius/), next, will ask who the structure is for.
+Every chart has Capricorn somewhere, whether or not a planet sits in it. Wherever it falls, it asks *what will this be worth in ten years?* It's an [earth sign](/astrology/earth-signs/), so it works with what's real and measurable, and a cardinal one, so it takes the lead — usually by taking responsibility (the [three modalities](/astrology/three-modalities/) explain what that means). [Sagittarius](/astrology/sagittarius/), just before it, finds the vision; Capricorn builds the structure that makes it real. [Aquarius](/astrology/aquarius/), next, will ask who the structure is for.
 
-The three placements people ask about first:
+Three placements bring most people here:
 
-- **[Sun in Capricorn](/astrology/sun-in-capricorn/):** you grow by earning your place, slowly. You'd rather be respected than admired, and you often take on responsibility before anyone asks you to.
-- **[Moon in Capricorn](/astrology/moon-in-capricorn/):** you feel safe when things are under control and you know what's expected of you. It often describes someone who grew up early. The Moon is in detriment here, which in practice tends to mean care shown through doing rather than saying — and a need to let yourself be looked after.
-- **[Capricorn rising](/astrology/capricorn-rising/):** you meet the world with reserve and quiet competence, and people trust you with things. Saturn becomes your [chart ruler](/astrology/chart-ruler/), so where it sits matters a great deal. Knowing your rising sign takes an accurate [birth time](/blog/unknown-birth-time/).
+- **[Sun in Capricorn](/astrology/sun-in-capricorn/)** — born between about 22 December and 19 January. You grow by earning your place, slowly. You'd rather be respected than admired, and you often take on responsibility before anyone asks you to.
+- **[Moon in Capricorn](/astrology/moon-in-capricorn/)** — you feel safe when things are under control and you know what's expected of you. It often describes someone who grew up early. The Moon is in detriment here, which in practice tends to mean care shown through doing rather than saying — and a need to let yourself be looked after.
+- **[Capricorn rising](/astrology/capricorn-rising/)** — you meet the world with reserve and quiet competence, and people trust you with things. Saturn becomes your [chart ruler](/astrology/chart-ruler/), so where it sits matters a great deal. A rising sign needs your [birth time](/blog/unknown-birth-time/): it changes about every two hours.
 
-The Sun sign and the rising sign are the placements everyone reads first, and in [my notebook](/blog/i-tested-my-birth-chart/) they held about a third of the time. Capricorn's ruler is another story: Saturn was one of the three placements that held 75 to 90% of the time, so in a chart with a lot of Capricorn, Saturn is where I slow down.
+None of these tells the whole story. In [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign and the rising sign each held about a third of the time, and the Moon, checked like every other placement, wasn't one of the three that held far more often. Capricorn's ruler was one of those three: Saturn held 75 to 90% of the time, so in a chart with a lot of Capricorn, Saturn is where I slow down.
 
 ## Its ruler: Saturn {#ruler}
 
@@ -70,7 +70,7 @@ Every planet passes through Capricorn, from the Moon in about two and a half day
 
 ## Capricorn on a house cusp {#on-a-house-cusp}
 
-In most charts Capricorn opens one of the twelve houses (when it doesn't, it's [intercepted](/astrology/intercepted-signs/), held inside a house), and that part of life is where you take things seriously, start slowly and build to last. Which house it is depends on your birth time and place.
+In most charts Capricorn opens one of the twelve houses. In Placidus and the other quadrant systems, a sign can also open two, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Capricorn opens a house, that's where you take things seriously, start slowly and build to last, and Saturn, wherever it sits, carries the story on. Which house it is depends on your birth time and place.
 
 1. **[1st house](/astrology/capricorn-rising/):** Capricorn rising — a reserved, capable presence; often serious early on, and lighter with the years.
 2. **[2nd house](/astrology/capricorn-on-2nd-house-cusp/):** money built slowly and kept; security comes from structure, savings and skills you've earned.

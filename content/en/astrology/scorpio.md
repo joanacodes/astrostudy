@@ -15,7 +15,7 @@ facts:
   - { k: "Element", v: "Water" }
   - { k: "Modality", v: "Fixed" }
   - { k: "Ruler", v: "Pluto (modern), Mars (traditional)" }
-  - { k: "Exalted here", v: "None" }
+  - { k: "Exalted here", v: "No planet, in the classical scheme" }
   - { k: "Weakened here", v: "Venus (detriment), the Moon (fall)" }
   - { k: "Opposite sign", v: "Taurus" }
   - { k: "Natural house", v: "The 8th house" }
@@ -38,15 +38,15 @@ Scorpio is the eighth sign of the zodiac, a fixed water sign, and the one with t
 
 ## In a birth chart {#in-a-birth-chart}
 
-Wherever Scorpio falls in your chart, it wants what's under the surface and won't settle for less. It's a [water sign](/astrology/water-signs/), so it works through feeling, and a fixed one, so it holds on — to people, to loyalties, to whatever it has decided matters (the [three modalities](/astrology/three-modalities/) explain the difference). [Libra](/astrology/libra/), just before it, makes the agreement; Scorpio wants to know what the agreement costs and what each person is really bringing. [Sagittarius](/astrology/sagittarius/), next, comes up for air and looks for meaning.
+Every chart has Scorpio somewhere, whether or not a planet sits in it. Wherever it falls, it wants what's under the surface and won't settle for less. It's a [water sign](/astrology/water-signs/), so it works through feeling, and a fixed one, so it holds on — to people, to loyalties, to whatever it has decided matters (the [three modalities](/astrology/three-modalities/) explain the difference). [Libra](/astrology/libra/), just before it, makes the agreement; Scorpio wants to know what the agreement costs and what each person is really bringing. [Sagittarius](/astrology/sagittarius/), next, comes up for air and looks for meaning.
 
-The three placements people ask about first:
+Three placements bring most people here:
 
-- **[Sun in Scorpio](/astrology/sun-in-scorpio/):** you grow by going deep, and staying. You'd rather know one thing completely than many things a little, and you can be at your steadiest in a crisis, when others step back.
-- **[Moon in Scorpio](/astrology/moon-in-scorpio/):** your feelings run deep and private. You feel safe with very few people, and once you trust someone the bond is whole. The Moon is in its fall here, which in practice often means strong feelings kept out of sight.
-- **[Scorpio rising](/astrology/scorpio-rising/):** people sense your intensity before you say a word, and you watch before you speak. With two rulers, there are two planets to look at as your [chart ruler](/astrology/chart-ruler/): Mars and Pluto. Knowing your rising sign takes an accurate [birth time](/blog/unknown-birth-time/).
+- **[Sun in Scorpio](/astrology/sun-in-scorpio/)** — born between about 23 October and 21 November. You grow by going deep, and staying. You'd rather know one thing completely than many things a little, and you can be at your steadiest in a crisis, when others step back.
+- **[Moon in Scorpio](/astrology/moon-in-scorpio/)** — your feelings run deep and private. You feel safe with very few people, and once you trust someone the bond is whole. The Moon is in its fall here, which in practice often means strong feelings kept out of sight.
+- **[Scorpio rising](/astrology/scorpio-rising/)** — people sense your intensity before you say a word, and you watch before you speak. With two rulers, there are two planets to look at as your [chart ruler](/astrology/chart-ruler/): Mars and Pluto. A rising sign needs your [birth time](/blog/unknown-birth-time/): it changes about every two hours.
 
-The Sun sign and the rising sign are the placements everyone reads first. In [my notebook](/blog/i-tested-my-birth-chart/) they held about a third of the time, so a Scorpio Sun tells me where to start, not what to conclude.
+None of these tells the whole story. In [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign and the rising sign each held about a third of the time, and the Moon, checked like every other placement, wasn't one of the three that held far more often. So a Scorpio Sun tells me where to start, not what to conclude.
 
 ## Its rulers: Pluto and Mars {#ruler}
 
@@ -71,7 +71,7 @@ Every planet passes through Scorpio, from the Moon in about two and a half days 
 
 ## Scorpio on a house cusp {#on-a-house-cusp}
 
-In most charts Scorpio opens one of the twelve houses (when it doesn't, it's [intercepted](/astrology/intercepted-signs/), held inside a house), and that part of life is where you go deep and hold on. Which house it is depends on your birth time and place.
+In most charts Scorpio opens one of the twelve houses. In Placidus and the other quadrant systems, a sign can also open two, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Scorpio opens a house, that's where you go deep and hold on, and Mars and Pluto, wherever they sit, carry the story on. Which house it is depends on your birth time and place.
 
 1. **[1st house](/astrology/scorpio-rising/):** Scorpio rising — an intense, watchful presence; people feel you before they know you.
 2. **[2nd house](/astrology/scorpio-on-2nd-house-cusp/):** money kept private and handled strategically; you may earn through research, other people's resources or what others overlook.

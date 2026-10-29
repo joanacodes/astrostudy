@@ -15,7 +15,7 @@ facts:
   - { k: "Its angle", v: "The Descendant" }
   - { k: "Natural sign", v: "Libra" }
   - { k: "Natural ruler", v: "Venus" }
-  - { k: "Opposite house", v: "The 1st" }
+  - { k: "Opposite house", v: "The 1st house" }
 related: ["/astrology/descendant", "/astrology/venus", "/astrology/6th-house", "/astrology/8th-house", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does the 7th house represent?"

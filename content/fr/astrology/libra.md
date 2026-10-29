@@ -12,7 +12,7 @@ glyph: "♎"
 definition: "La Balance est le septième signe du zodiaque, un signe d’air cardinal gouverné par Vénus ; le Soleil la traverse environ du 23 septembre au 22 octobre. Dans un thème natal, elle montre où vous pesez le pour et le contre, où vous cherchez l’équité, et ce que vous préférez régler à deux plutôt qu’en solitaire."
 facts:
   - { k: "Symbole", v: "♎ — une balance à deux plateaux" }
-  - { k: "Dates (Soleil)", v: "Environ du 23 septembre au 22 octobre" }
+  - { k: "Dates (Soleil)", v: "Du 23 septembre au 22 octobre environ" }
   - { k: "Élément", v: "Air" }
   - { k: "Mode", v: "Cardinal" }
   - { k: "Maître", v: "Vénus" }
@@ -38,15 +38,15 @@ La Balance est le septième signe du zodiaque, et le seul qu’on représente pa
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Où qu’elle tombe dans votre thème, la Balance pose une question : *est-ce juste ?* C’est un [signe d’air](/astrology/air-signs/), qui avance par les idées, la conversation et la comparaison, et un signe cardinal, qui lance les choses — le plus souvent en se tournant vers quelqu’un (les [trois modalités](/astrology/three-modalities/) expliquent ce que cela veut dire). Juste avant elle, la [Vierge](/astrology/virgo/) perfectionne ce qui est à vous. Avec la Balance, le zodiaque se tourne vers l’autre ; le [Scorpion](/astrology/scorpio/), ensuite, plonge au fond de ce lien.
+Chaque thème contient de la Balance quelque part, qu’une planète s’y trouve ou non. Où qu’elle tombe, elle pose une question : *est-ce juste ?* C’est un [signe d’air](/astrology/air-signs/), qui avance par les idées, la conversation et la comparaison, et un signe cardinal, qui lance les choses — le plus souvent en se tournant vers quelqu’un (les [trois modalités](/astrology/three-modalities/) expliquent ce que cela veut dire). Juste avant elle, la [Vierge](/astrology/virgo/) perfectionne ce qui est à vous. Avec la Balance, le zodiaque se tourne vers l’autre ; le [Scorpion](/astrology/scorpio/), ensuite, plonge au fond de ce lien.
 
-Les trois placements dont on me parle d’abord :
+Trois placements amènent la plupart des gens ici :
 
-- **[Soleil en Balance](/astrology/sun-in-libra/) :** vous grandissez par la relation et par un sens aigu de la justice. Vous voyez souvent le point de vue de l’autre avant le vôtre, et une partie du chemin consiste à apprendre que votre propre poids compte aussi dans la balance.
-- **[Lune en Balance](/astrology/moon-in-libra/) :** vous vous sentez en sécurité quand tout est paisible entre vous et les personnes que vous aimez. Les tensions vous ébranlent plus qu’elles ne semblent ébranler les autres : il vous arrive d’arrondir les angles avant d’avoir dit ce dont vous avez besoin.
-- **[Ascendant Balance](/astrology/libra-rising/) :** vous abordez le monde avec tact, chaleur et un œil pour ce qui est beau et agréable, et l’on vient facilement vers vous. Vénus devient le [maître du thème](/astrology/chart-ruler/) : son signe et sa maison comptent beaucoup. Connaître son ascendant demande une [heure de naissance](/blog/unknown-birth-time/) précise.
+- **[Soleil en Balance](/astrology/sun-in-libra/)** — une naissance entre le 23 septembre et le 22 octobre environ. Vous grandissez par la relation et par un sens aigu de la justice. Vous voyez souvent le point de vue de l’autre avant le vôtre, et une partie du chemin consiste à apprendre que votre propre poids compte aussi dans la balance.
+- **[Lune en Balance](/astrology/moon-in-libra/)** — vous vous sentez en sécurité quand tout est paisible entre vous et les personnes que vous aimez. Les tensions vous ébranlent plus qu’elles ne semblent ébranler les autres : il vous arrive d’arrondir les angles avant d’avoir dit ce dont vous avez besoin.
+- **[Ascendant Balance](/astrology/libra-rising/)** — vous abordez le monde avec tact, chaleur et un œil pour ce qui est beau et agréable, et l’on vient facilement vers vous. Vénus devient le [maître du thème](/astrology/chart-ruler/) : son signe et sa maison comptent beaucoup. Un ascendant demande votre [heure de naissance](/blog/unknown-birth-time/) : il change de signe toutes les deux heures environ.
 
-Le signe solaire et l’ascendant sont les placements que tout le monde lit en premier. Dans [mon carnet](/blog/i-tested-my-birth-chart/), ils ont tenu environ une fois sur trois : je lis donc la Balance comme une voix parmi d’autres dans un thème, jamais comme le thème entier.
+Aucun des trois ne fait toute la personne. Dans [mon carnet](/blog/i-tested-my-birth-chart/), le signe solaire et l’ascendant ont chacun tenu environ une fois sur trois, et la Lune, vérifiée comme tous les autres placements, ne faisait pas partie des trois qui ont tenu bien plus souvent. Je lis donc la Balance comme une voix parmi d’autres dans un thème, jamais comme le thème entier.
 
 ## Son maître : Vénus {#maitre}
 
@@ -71,7 +71,7 @@ Toutes les planètes traversent la Balance un jour ou l’autre : la Lune envir
 
 ## La Balance sur une cuspide {#sur-une-cuspide}
 
-Dans la plupart des thèmes, la Balance ouvre l’une des douze maisons (sinon, elle est [interceptée](/astrology/intercepted-signs/), enfermée à l’intérieur d’une maison), et ce domaine de vie prend sa question : *qu’est-ce qui est juste ici, et avec qui ?* La maison dépend de votre heure et de votre lieu de naissance.
+Dans la plupart des thèmes, la Balance ouvre l’une des douze maisons. En Placidus et dans les autres systèmes par quadrants, un signe peut aussi en ouvrir deux, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur de l’une d’elles. Là où la Balance ouvre une maison, ce domaine de vie prend sa question — *qu’est-ce qui est juste ici, et avec qui ?* — et Vénus, où qu’elle soit, poursuit l’histoire. La maison dépend de votre heure et de votre lieu de naissance.
 
 1. **[Maison I](/astrology/libra-rising/) :** l’ascendant Balance — vous abordez le monde avec grâce et diplomatie, et c’est souvent vers vous qu’on se tourne pour garder la paix.
 2. **[Maison II](/astrology/libra-on-2nd-house-cusp/) :** l’argent et les biens sont une affaire d’équité et de goût ; vous pouvez gagner votre vie par les relations, la beauté ou la négociation.

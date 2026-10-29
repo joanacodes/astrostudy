@@ -12,11 +12,11 @@ glyph: "♐"
 definition: "Le Sagittaire est le neuvième signe du zodiaque, un signe de feu mutable gouverné par Jupiter ; le Soleil le traverse environ du 22 novembre au 21 décembre. Dans un thème natal, il montre où vous cherchez du sens, de la liberté et un horizon plus large — le domaine où vous voulez explorer, apprendre et croire."
 facts:
   - { k: "Symbole", v: "♐ — la flèche de l’archer" }
-  - { k: "Dates (Soleil)", v: "Environ du 22 novembre au 21 décembre" }
+  - { k: "Dates (Soleil)", v: "Du 22 novembre au 21 décembre environ" }
   - { k: "Élément", v: "Feu" }
   - { k: "Mode", v: "Mutable" }
   - { k: "Maître", v: "Jupiter" }
-  - { k: "Exalté ici", v: "Aucune planète" }
+  - { k: "Exalté ici", v: "Aucune planète, dans le schéma classique" }
   - { k: "Affaiblis ici", v: "Mercure (exil)" }
   - { k: "Signe opposé", v: "Gémeaux" }
   - { k: "Maison naturelle", v: "La maison 9" }
@@ -38,15 +38,15 @@ Le Sagittaire est le neuvième signe du zodiaque, un signe de feu mutable, qu’
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Où qu’il tombe dans votre thème, le Sagittaire demande : *qu’est-ce que cela veut dire, et où cela mène-t-il ?* C’est un [signe de feu](/astrology/fire-signs/), qui agit par enthousiasme, et un signe mutable, qui s’adapte et repart (les [trois modalités](/astrology/three-modalities/) expliquent la différence). Juste avant lui, le [Scorpion](/astrology/scorpio/) descend dans les profondeurs ; le Sagittaire remonte respirer et regarde l’horizon. Le [Capricorne](/astrology/capricorn/), ensuite, voudra bâtir quelque chose sur ce qu’il a trouvé.
+Chaque thème contient du Sagittaire quelque part, qu’une planète s’y trouve ou non. Où qu’il tombe, il demande : *qu’est-ce que cela veut dire, et où cela mène-t-il ?* C’est un [signe de feu](/astrology/fire-signs/), qui agit par enthousiasme, et un signe mutable, qui s’adapte et repart (les [trois modalités](/astrology/three-modalities/) expliquent la différence). Juste avant lui, le [Scorpion](/astrology/scorpio/) descend dans les profondeurs ; le Sagittaire remonte respirer et regarde l’horizon. Le [Capricorne](/astrology/capricorn/), ensuite, voudra bâtir quelque chose sur ce qu’il a trouvé.
 
-Les trois placements dont on me parle d’abord :
+Trois placements amènent la plupart des gens ici :
 
-- **[Soleil en Sagittaire](/astrology/sun-in-sagittarius/) :** c’est en cherchant du sens que vous prenez vie — par le voyage, les études, la foi ou simplement une bonne discussion. Il vous faut une direction plus qu’une destination.
-- **[Lune en Sagittaire](/astrology/moon-in-sagittarius/) :** vous vous sentez en sécurité quand vous avez de la place : de l’espace, des projets, un horizon. L’humour est votre façon de vous consoler et de consoler les autres, et rien ne vous trouble autant que de vous sentir à l’étroit.
-- **[Ascendant Sagittaire](/astrology/sagittarius-rising/) :** vous abordez le monde avec ouverture et franchise, et l’on vous parle facilement. Jupiter devient le [maître du thème](/astrology/chart-ruler/) : sa place compte beaucoup. Connaître son ascendant demande une [heure de naissance](/blog/unknown-birth-time/) précise.
+- **[Soleil en Sagittaire](/astrology/sun-in-sagittarius/)** — une naissance entre le 22 novembre et le 21 décembre environ. C’est en cherchant du sens que vous prenez vie — par le voyage, les études, la foi ou simplement une bonne discussion. Il vous faut une direction plus qu’une destination.
+- **[Lune en Sagittaire](/astrology/moon-in-sagittarius/)** — vous vous sentez en sécurité quand vous avez de la place : de l’espace, des projets, un horizon. L’humour est votre façon de vous consoler et de consoler les autres, et rien ne vous trouble autant que de vous sentir à l’étroit.
+- **[Ascendant Sagittaire](/astrology/sagittarius-rising/)** — vous abordez le monde avec ouverture et franchise, et l’on vous parle facilement. Jupiter devient le [maître du thème](/astrology/chart-ruler/) : sa place compte beaucoup. Un ascendant demande votre [heure de naissance](/blog/unknown-birth-time/) : il change de signe toutes les deux heures environ.
 
-Le signe solaire et l’ascendant sont les placements que tout le monde lit en premier. Dans [mon carnet](/blog/i-tested-my-birth-chart/), ils ont tenu environ une fois sur trois : je lis donc le Sagittaire comme une voix parmi d’autres dans un thème, jamais comme le thème entier.
+Aucun des trois ne fait toute la personne. Dans [mon carnet](/blog/i-tested-my-birth-chart/), le signe solaire et l’ascendant ont chacun tenu environ une fois sur trois, et la Lune, vérifiée comme tous les autres placements, ne faisait pas partie des trois qui ont tenu bien plus souvent. Je lis donc le Sagittaire comme une voix parmi d’autres dans un thème, jamais comme le thème entier.
 
 ## Son maître : Jupiter {#maitre}
 
@@ -71,7 +71,7 @@ Toutes les planètes traversent le Sagittaire un jour ou l’autre : la Lune en
 
 ## Le Sagittaire sur une cuspide {#sur-une-cuspide}
 
-Dans la plupart des thèmes, le Sagittaire ouvre l’une des douze maisons (sinon, il est [intercepté](/astrology/intercepted-signs/), enfermé à l’intérieur d’une maison), et ce domaine de vie devient celui où vous voulez de l’espace, du sens et de quoi grandir. La maison dépend de votre heure et de votre lieu de naissance.
+Dans la plupart des thèmes, le Sagittaire ouvre l’une des douze maisons. En Placidus et dans les autres systèmes par quadrants, un signe peut aussi en ouvrir deux, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur de l’une d’elles. Là où le Sagittaire ouvre une maison, vous voulez de l’espace, du sens et de quoi grandir, et Jupiter, où qu’il soit, poursuit l’histoire. La maison dépend de votre heure et de votre lieu de naissance.
 
 1. **[Maison I](/astrology/sagittarius-rising/) :** l’ascendant Sagittaire — une présence ouverte, franche et remuante ; vous abordez les gens comme si la conversation avait déjà commencé.
 2. **[Maison II](/astrology/sagittarius-on-2nd-house-cusp/) :** l’argent comme liberté plutôt que comme sécurité, avec une générosité et un optimisme parfois excessifs ; vous pouvez gagner votre vie par l’enseignement, le voyage ou les idées.

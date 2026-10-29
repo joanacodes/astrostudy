@@ -37,15 +37,15 @@ Libra is the seventh sign of the zodiac, and the only one drawn as an object rat
 
 ## In a birth chart {#in-a-birth-chart}
 
-Wherever Libra falls in your chart, it asks one question: *is this fair?* It's an [air sign](/astrology/air-signs/), so it works through ideas, conversation and comparison, and a cardinal one, so it starts things — usually by turning towards someone else (the [three modalities](/astrology/three-modalities/) explain what that means). [Virgo](/astrology/virgo/), just before it, perfects what's yours. Libra is where the zodiac turns to face another person, and [Scorpio](/astrology/scorpio/), next, goes deep into that bond.
+Every chart has Libra somewhere, whether or not a planet sits in it. Wherever it falls, it asks one question: *is this fair?* It's an [air sign](/astrology/air-signs/), so it works through ideas, conversation and comparison, and a cardinal one, so it starts things — usually by turning towards someone else (the [three modalities](/astrology/three-modalities/) explain what that means). [Virgo](/astrology/virgo/), just before it, perfects what's yours. Libra is where the zodiac turns to face another person, and [Scorpio](/astrology/scorpio/), next, goes deep into that bond.
 
-The three placements people ask about first:
+Three placements bring most people here:
 
-- **[Sun in Libra](/astrology/sun-in-libra/):** you grow through relationships and a strong sense of fairness. You often see the other person's side before your own, and part of your path is learning that your own weight counts in the balance too.
-- **[Moon in Libra](/astrology/moon-in-libra/):** you feel safe when things are calm between you and the people you love. Tension unsettles you more than it seems to unsettle others, so you may smooth things over before you've said what you need.
-- **[Libra rising](/astrology/libra-rising/):** you meet the world with tact, warmth and an eye for how things look and feel, and people find you easy to approach. Venus becomes your [chart ruler](/astrology/chart-ruler/), so its sign and house matter a great deal. Knowing your rising sign takes an accurate [birth time](/blog/unknown-birth-time/).
+- **[Sun in Libra](/astrology/sun-in-libra/)** — born between about 23 September and 22 October. You grow through relationships and a strong sense of fairness. You often see the other person's side before your own, and part of your path is learning that your own weight counts in the balance too.
+- **[Moon in Libra](/astrology/moon-in-libra/)** — you feel safe when things are calm between you and the people you love. Tension unsettles you more than it seems to unsettle others, so you may smooth things over before you've said what you need.
+- **[Libra rising](/astrology/libra-rising/)** — you meet the world with tact, warmth and an eye for how things look and feel, and people find you easy to approach. Venus becomes your [chart ruler](/astrology/chart-ruler/), so its sign and house matter a great deal. A rising sign needs your [birth time](/blog/unknown-birth-time/): it changes about every two hours.
 
-The Sun sign and the rising sign are the placements everyone reads first. In [my notebook](/blog/i-tested-my-birth-chart/) they held about a third of the time, so I read Libra as one voice in a chart, never the whole of it.
+None of these tells the whole story. In [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign and the rising sign each held about a third of the time, and the Moon, checked like every other placement, wasn't one of the three that held far more often. So I read Libra as one voice in a chart, never the whole of it.
 
 ## Its ruler: Venus {#ruler}
 
@@ -70,7 +70,7 @@ Every planet passes through Libra sooner or later: the Moon for about two and a 
 
 ## Libra on a house cusp {#on-a-house-cusp}
 
-In most charts Libra opens one of the twelve houses (when it doesn't, it's [intercepted](/astrology/intercepted-signs/), held inside a house), and that part of life takes on its question: *what's fair here, and who am I doing it with?* Which house it is depends on your birth time and place.
+In most charts Libra opens one of the twelve houses. In Placidus and the other quadrant systems, a sign can also open two, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Libra opens a house, that part of life takes on its question — *what's fair here, and who am I doing it with?* — and Venus, wherever it sits, carries the story on. Which house it is depends on your birth time and place.
 
 1. **[1st house](/astrology/libra-rising/):** Libra rising — you meet the world with grace and diplomacy, and people often turn to you to keep the peace.
 2. **[2nd house](/astrology/libra-on-2nd-house-cusp/):** money and possessions are a matter of fairness and taste; you may earn through people, beauty or negotiation.
