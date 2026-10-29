@@ -2,7 +2,7 @@
 title: "Maison 11"
 slug: "maison-11"
 h1: "La maison 11 en astrologie"
-description: "La maison 11 en astrologie : les amis, les groupes et les espoirs, l’ancien Bon Génie — chaque planète et chaque signe, son maître et ses transits."
+description: "La maison 11 en astrologie : les amis, les groupes et les espoirs, l’ancien Génie favorable — chaque planète et chaque signe, son maître et ses transits."
 date: 2026-10-29
 reviewed: 2026-10-29
 draft: true
@@ -10,22 +10,22 @@ terms: ["maison 11", "maison XI"]
 family: "houses"
 weight: 11
 glyph: "XI"
-definition: "La maison 11 est la onzième des douze maisons d’un thème natal. Les astrologues y lisent les amis, les groupes et les espoirs : les personnes avec qui vous bâtissez un avenir, et l’avenir que vous aimeriez bâtir. La tradition l’appelait le Bon Génie, et Jupiter y a sa joie."
+definition: "La maison 11 est la onzième des douze maisons d’un thème natal. Les astrologues y lisent les amis, les groupes et les espoirs : les personnes avec qui vous bâtissez un avenir, et l’avenir que vous aimeriez bâtir. La tradition l’appelait le Génie favorable, et Jupiter y a sa joie."
 facts:
   - { k: "Type", v: "Succédente" }
   - { k: "Signe naturel", v: "Verseau" }
   - { k: "Maître naturel", v: "Uranus, et traditionnellement Saturne" }
   - { k: "Maison opposée", v: "La maison 5" }
-  - { k: "Nom ancien", v: "Le Bon Génie" }
+  - { k: "Nom ancien", v: "Le Génie favorable" }
   - { k: "Joie de", v: "Jupiter" }
 related: ["/astrology/10th-house", "/astrology/12th-house", "/astrology/5th-house", "/astrology/jupiter", "/astrology/uranus"]
 faq:
   - q: "Que représente la maison 11 ?"
     a: "Les amis, les groupes et les espoirs : les personnes que vous choisissez, les communautés et les causes que vous rejoignez, l’aide que vous donnez et recevez, et l’avenir que vous aimeriez bâtir avec les autres. Son signe, ses planètes et son maître décrivent votre façon d’appartenir, et ce que vous espérez."
-  - q: "Pourquoi la maison 11 s’appelle-t-elle le Bon Génie ?"
-    a: "C’est un nom très ancien, venu des astrologues grecs. Les astrologues d’autrefois en faisaient un lieu favorable, celui des amis, des espoirs et des bienfaiteurs, et disaient que Jupiter, la planète de la générosité, s’y réjouit. La maison 12, à côté, était le Mauvais Génie. Je garde ces noms pour leur histoire, pas comme des verdicts."
+  - q: "Pourquoi la maison 11 s’appelle-t-elle le Génie favorable ?"
+    a: "C’est un nom très ancien, venu des astrologues grecs. Les astrologues d’autrefois en faisaient un lieu propice, celui des amis, des espoirs et des bienfaiteurs, et disaient que Jupiter, la planète de la générosité, s’y réjouit. La maison 12, à côté, était le Génie défavorable. Je garde ces noms pour leur histoire, pas comme des verdicts."
   - q: "Que veut dire Jupiter en maison 11 ?"
-    a: "Jupiter a sa joie en maison 11, la maison où, selon la tradition, il est le plus à son aise : des amitiés généreuses, de grands espoirs, et le don de trouver des personnes qui aident. J’y lis une vie sociale ouverte et généreuse, avec une seule tâche : choisir vos causes plutôt que de toutes les rejoindre."
+    a: "Jupiter a sa joie en maison 11 et, selon la tradition, n’est nulle part plus à son aise : des amitiés généreuses, de grands espoirs, et le don de trouver des personnes qui aident. J’y lis une vie sociale ouverte et généreuse, avec une seule tâche : choisir vos causes plutôt que de toutes les rejoindre."
   - q: "Que veut dire une maison 11 vide ?"
     a: "Pas une vie sans amis. Il y a douze maisons et seulement dix planètes : tout thème a donc des maisons vides. Une maison 11 vide n’a simplement aucune planète pour y ajouter sa voix ; on la lit par le signe sur sa cuspide et par son maître, où qu’il se trouve dans votre thème."
 sources:
@@ -41,7 +41,7 @@ Je lis la maison 11 comme la maison de l’appartenance et de l’avenir. Les am
 
 - **Une maison succédente.** Elle suit un angle, et les maisons succédentes sont celles où les choses se posent et s’accumulent : ce que vous accomplissez en maison 10, vous le partagez et le faites vivre avec les autres en maison 11. La page [Maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/) explique les trois familles.
 - **Son signe et sa planète naturels.** Le [Verseau](/astrology/aquarius/) et [Uranus](/astrology/uranus/), avec [Saturne](/astrology/saturn/) pour maître traditionnel du Verseau : la communauté, l’indépendance, le regard qui porte loin.
-- **Le Bon Génie.** La tradition lui donnait ce nom et la comptait parmi les maisons favorables : celle des amis, des espoirs et des bienfaiteurs. [Jupiter](/astrology/jupiter/), la planète de la croissance et de la générosité, s’y réjouit (voir [joies des planètes](/astrology/planetary-joys/)).
+- **Le Génie favorable.** La tradition lui donnait ce nom et la comptait parmi les maisons fastes : celle des amis, des espoirs et des bienfaiteurs. [Jupiter](/astrology/jupiter/), la planète de la croissance et de la générosité, s’y réjouit (voir [joies des planètes](/astrology/planetary-joys/)).
 - **Son opposée.** La [maison 5](/astrology/5th-house/) : la maison 5, c’est ce que vous savourez pour vous et avec les personnes que vous aimez ; la maison 11, ce que vous partagez avec beaucoup.
 
 Une maison se lit avec ses voisines. La [maison 10](/astrology/10th-house/), juste avant, c’est votre rôle public ; la maison 11, les personnes qui se tiennent à vos côtés dans ce rôle. La [maison 12](/astrology/12th-house/), juste après, est l’endroit où la foule se raréfie, jusqu’à la solitude et au repos.

@@ -46,7 +46,7 @@ Je lis la maison 3 comme la circulation de la vie de tous les jours : les messa
 
 Une maison se lit avec ses voisines. La [maison 2](/astrology/2nd-house/), juste avant, c’est ce que vous avez ; la maison 3, ce que vous en faites au jour le jour, en mots et en allées et venues. La [maison 4](/astrology/4th-house/), juste après, c’est le foyer : l’endroit où mènent tous les va-et-vient de la maison 3.
 
-Comme toutes les maisons, la maison 3 dépend de votre heure de naissance. Sans elle, je peux lire votre Mercure dans son signe, mais pas la maison d’où il parle (voir [ce que change une heure de naissance inconnue](/blog/unknown-birth-time/)).
+Comme toutes les maisons, la maison 3 dépend de votre heure de naissance. Sans elle, je peux lire votre Mercure dans son signe, mais pas la maison d’où vient sa parole (voir [ce que change une heure de naissance inconnue](/blog/unknown-birth-time/)).
 
 ## Les planètes en maison 3 {#planetes}
 

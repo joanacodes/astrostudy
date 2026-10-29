@@ -10,13 +10,13 @@ terms: ["maison 5", "maison V"]
 family: "houses"
 weight: 5
 glyph: "V"
-definition: "La maison 5 est la cinquième des douze maisons d’un thème natal. Les astrologues y lisent ce que vous faites pour la joie : la créativité, le plaisir, le jeu et les amours, et la façon dont vous vous montrez quand personne ne vous note. La tradition l’appelait Bonne Fortune et y plaçait la joie de Vénus."
+definition: "La maison 5 est la cinquième des douze maisons d’un thème natal. Les astrologues y lisent ce que vous faites pour la joie : la créativité, le plaisir, le jeu et les amours, et la façon dont vous vous montrez quand personne ne vous note. La tradition l’appelait la Fortune favorable et y plaçait la joie de Vénus."
 facts:
   - { k: "Type", v: "Succédente" }
   - { k: "Signe naturel", v: "Lion" }
   - { k: "Maître naturel", v: "Le Soleil" }
   - { k: "Maison opposée", v: "La maison 11" }
-  - { k: "Nom ancien", v: "Bonne Fortune" }
+  - { k: "Nom ancien", v: "La Fortune favorable" }
   - { k: "Joie de", v: "Vénus" }
 related: ["/astrology/4th-house", "/astrology/6th-house", "/astrology/venus", "/astrology/childrens-charts", "/astrology/can-astrology-predict-pregnancy"]
 faq:
@@ -26,8 +26,8 @@ faq:
     a: "Non. La tradition donnait les enfants à la maison 5, mais aucun thème ne peut dire si ni quand quelqu’un aura un enfant, et je ne prédis pas les grossesses. Je lis la maison 5 comme votre propre créativité, vos plaisirs et vos amours, et je ne lis pas le thème des enfants."
   - q: "La maison 5, c’est l’amour ou le mariage ?"
     a: "Les amours : la séduction, le coup de cœur, le plaisir d’être ensemble. L’engagement et le mariage relèvent de la maison 7. La maison 5 montre comment vous savourez l’amour ; la maison 7, comment vous construisez une vie avec quelqu’un. Je lis les deux ensemble."
-  - q: "Pourquoi la maison 5 s’appelle-t-elle Bonne Fortune ?"
-    a: "C’est un nom ancien. Les astrologues d’autrefois appelaient la maison 5 Bonne Fortune et y plaçaient la joie de Vénus, la planète du plaisir ; la maison 6, juste à côté, était la Mauvaise Fortune. Je lis ces noms comme un contraste entre la joie et la peine, pas comme une promesse de chance."
+  - q: "Pourquoi la maison 5 s’appelle-t-elle la Fortune favorable ?"
+    a: "C’est un nom ancien. Les astrologues d’autrefois appelaient la maison 5 la Fortune favorable et y plaçaient la joie de Vénus, la planète du plaisir ; la maison 6, juste à côté, était la Fortune défavorable. Je lis ces noms comme un contraste entre la joie et la peine, pas comme une promesse de chance."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les douze maisons et ce que la tradition leur donnait" }
   - { title: "Dorothée de Sidon, Carmen Astrologicum", note: "les maisons en pratique" }
@@ -43,8 +43,8 @@ La tradition donnait les enfants à la maison 5, et certains astrologues les y c
 
 - **Une maison succédente.** Elle suit un angle, et les maisons succédentes sont celles où les choses se posent et grandissent : la maison 5, c’est ce qui grandit une fois que vous vous sentez chez vous. La page [Maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/) explique les trois familles.
 - **Son signe et sa planète naturels.** Le [Lion](/astrology/leo/) et le [Soleil](/astrology/sun/) : la chaleur, l’expression de soi, le plaisir d’attirer les regards.
-- **Bonne Fortune.** La tradition lui donnait ce nom et disait que [Vénus](/astrology/venus/) s’y réjouit (voir [joies des planètes](/astrology/planetary-joys/)) : la planète du plaisir, chez elle dans la maison du jeu.
-- **Son opposée.** La [maison 11](/astrology/11th-house/), les amis et les groupes, que la tradition appelait Bon Génie, où Jupiter a sa joie : la maison 5, c’est ce que vous savourez pour vous et avec les personnes que vous aimez ; la maison 11, ce que vous partagez avec beaucoup.
+- **La Fortune favorable.** La tradition lui donnait ce nom et disait que [Vénus](/astrology/venus/) s’y réjouit (voir [joies des planètes](/astrology/planetary-joys/)) : la planète du plaisir, chez elle dans la maison du jeu.
+- **Son opposée.** La [maison 11](/astrology/11th-house/), les amis et les groupes, que la tradition appelait le Génie favorable, où Jupiter a sa joie : la maison 5, c’est ce que vous savourez pour vous et avec les personnes que vous aimez ; la maison 11, ce que vous partagez avec beaucoup.
 
 Une maison se lit avec ses voisines. La [maison 4](/astrology/4th-house/), juste avant, c’est le foyer ; la maison 5, ce que vous faites une fois en sécurité. La [maison 6](/astrology/6th-house/), juste après, ramène le travail : les habitudes, l’effort, le soin du corps.
 

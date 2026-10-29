@@ -10,13 +10,13 @@ terms: ["maison 6", "maison VI"]
 family: "houses"
 weight: 6
 glyph: "VI"
-definition: "La maison 6 est la sixième des douze maisons d’un thème natal. Les astrologues y lisent la forme d’une journée ordinaire : le travail que vous faites, les habitudes qui vous tiennent debout, les personnes avec qui vous travaillez et le soin que vous donnez à votre corps. La tradition l’appelait Mauvaise Fortune et y plaçait la joie de Mars."
+definition: "La maison 6 est la sixième des douze maisons d’un thème natal. Les astrologues y lisent la forme d’une journée ordinaire : le travail que vous faites, les habitudes qui vous tiennent debout, les personnes avec qui vous travaillez et le soin que vous donnez à votre corps. La tradition l’appelait la Fortune défavorable et y plaçait la joie de Mars."
 facts:
   - { k: "Type", v: "Cadente" }
   - { k: "Signe naturel", v: "Vierge" }
   - { k: "Maître naturel", v: "Mercure" }
   - { k: "Maison opposée", v: "La maison 12" }
-  - { k: "Nom ancien", v: "Mauvaise Fortune" }
+  - { k: "Nom ancien", v: "La Fortune défavorable" }
   - { k: "Joie de", v: "Mars" }
 related: ["/astrology/5th-house", "/astrology/7th-house", "/astrology/mercury", "/astrology/can-astrology-predict-health-problems", "/blog/unknown-birth-time"]
 faq:
@@ -26,8 +26,8 @@ faq:
     a: "La tradition donnait la maladie à la maison 6, mais aucun thème ne peut diagnostiquer ni prédire un problème de santé, et je n’en lis aucun pour cela. Je lis la maison 6 comme vos habitudes et le soin quotidien du corps : le sommeil, les repas, le mouvement, le repos. Pour votre santé, c’est un médecin qu’il faut voir."
   - q: "Quelle différence entre la maison 6 et la maison 10 ?"
     a: "La maison 6, c’est le travail de tous les jours : les tâches, la routine, les collègues à côté de vous. La maison 10, c’est la carrière et la place publique : ce pour quoi l’on vous connaît, et où vous allez. L’une, c’est votre façon de travailler chaque jour ; l’autre, ce que ce travail bâtit au fil des années."
-  - q: "Pourquoi la maison 6 s’appelle-t-elle Mauvaise Fortune ?"
-    a: "C’est un nom ancien. Les astrologues d’autrefois appelaient la maison 6 Mauvaise Fortune, juste à côté de la Bonne Fortune de la maison 5, et lui donnaient la maladie et la peine. Le nom parle du dur labeur plus que d’une malédiction, et l’on disait que Mars, la planète de l’effort, y avait sa joie."
+  - q: "Pourquoi la maison 6 s’appelle-t-elle la Fortune défavorable ?"
+    a: "C’est un nom ancien. Les astrologues d’autrefois appelaient la maison 6 la Fortune défavorable, juste à côté de la Fortune favorable de la maison 5, et lui donnaient la maladie et la peine. Le nom parle du dur labeur plus que d’une malédiction, et l’on disait que Mars, la planète de l’effort, y avait sa joie."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les douze maisons et ce que la tradition leur donnait" }
   - { title: "Dorothée de Sidon, Carmen Astrologicum", note: "les maisons en pratique" }
@@ -39,12 +39,12 @@ La maison 6 est celle des journées ordinaires : le travail que vous faites, le
 
 Je lis la maison 6 comme la forme d’une journée ordinaire. Elle couvre le travail que vous faites au quotidien — les tâches plutôt que le titre —, vos habitudes et vos routines, votre façon de vous organiser, les collègues à côté de qui vous travaillez, et le soin que vous donnez à votre corps : le sommeil, les repas, le mouvement, le repos. Les astrologues modernes y ajoutent souvent les animaux dont vous vous occupez.
 
-La tradition donnait la maladie à la maison 6 et l’appelait Mauvaise Fortune. Je ne lis pas la maladie dans un thème : aucun thème ne peut diagnostiquer ni prédire un problème de santé, et tout ce qui touche à votre santé regarde un médecin (voir [L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)). Ce que je lis ici, c’est votre façon de travailler et de prendre soin de vous.
+La tradition donnait la maladie à la maison 6 et l’appelait la Fortune défavorable. Je ne lis pas la maladie dans un thème : aucun thème ne peut diagnostiquer ni prédire un problème de santé, et tout ce qui touche à votre santé regarde un médecin (voir [L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)). Ce que je lis ici, c’est votre façon de travailler et de prendre soin de vous.
 
 - **Une maison cadente.** Elle suit une maison succédente, et les maisons cadentes se lisent comme des lieux d’ajustement et d’entretien : la maison 6 fait tourner les choses. La page [Maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/) explique les trois familles.
 - **Son signe et sa planète naturels.** La [Vierge](/astrology/virgo/) et [Mercure](/astrology/mercury/) : la méthode, le détail, l’utilité.
-- **Mauvaise Fortune.** La tradition lui donnait ce nom et disait que [Mars](/astrology/mars/) s’y réjouit (voir [joies des planètes](/astrology/planetary-joys/)) : la planète de l’effort, chez elle dans la maison de la peine.
-- **Son opposée.** La [maison 12](/astrology/12th-house/), que la tradition appelait Mauvais Génie, où Saturne a sa joie : la maison 6, c’est le quotidien qu’on voit ; la maison 12, ce qui se passe loin des regards.
+- **La Fortune défavorable.** La tradition lui donnait ce nom et disait que [Mars](/astrology/mars/) s’y réjouit (voir [joies des planètes](/astrology/planetary-joys/)) : la planète de l’effort, chez elle dans la maison de la peine.
+- **Son opposée.** La [maison 12](/astrology/12th-house/), que la tradition appelait le Génie défavorable, où Saturne a sa joie : la maison 6, c’est le quotidien qu’on voit ; la maison 12, ce qui se passe loin des regards.
 
 Une maison se lit avec ses voisines. La [maison 5](/astrology/5th-house/), juste avant, c’est le jeu ; la maison 6, le travail qui suit. La [maison 7](/astrology/7th-house/), juste après, tourne le thème vers les autres : après le soin de soi vient la personne assise en face.
 

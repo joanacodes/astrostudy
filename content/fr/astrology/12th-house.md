@@ -16,14 +16,14 @@ facts:
   - { k: "Signe naturel", v: "Poissons" }
   - { k: "Maître naturel", v: "Neptune, et traditionnellement Jupiter" }
   - { k: "Maison opposée", v: "La maison 6" }
-  - { k: "Nom ancien", v: "Le Mauvais Génie" }
+  - { k: "Nom ancien", v: "Le Génie défavorable" }
   - { k: "Joie de", v: "Saturne" }
 related: ["/astrology/11th-house", "/astrology/1st-house", "/astrology/6th-house", "/astrology/neptune", "/astrology/astrology-and-mental-health"]
 faq:
   - q: "Que représente la maison 12 ?"
     a: "Ce qui se passe loin des regards : la solitude, le repos, la vie intérieure, et le soin ou le travail que vous donnez sans qu’on le voie. La tradition y ajoutait l’enfermement, les hôpitaux et les ennemis cachés. Son signe, ses planètes et son maître décrivent votre façon de vous retirer, et ce que vous y trouvez."
   - q: "La maison 12 est-elle mauvaise ?"
-    a: "Non. Les astrologues d’autrefois l’appelaient le Mauvais Génie, et cette réputation est restée. Je la lis comme la part de la vie qui se passe loin des regards : la solitude, le repos, le travail discret, le soin. Ses planètes mettent souvent plus de temps à se montrer, ce qui ne veut pas dire qu’elles sont faibles."
+    a: "Non. Les astrologues d’autrefois l’appelaient le Génie défavorable, et cette réputation est restée. Je la lis comme la part de la vie qui se passe loin des regards : la solitude, le repos, le travail discret, le soin. Ses planètes mettent souvent plus de temps à se montrer, ce qui ne veut pas dire qu’elles sont faibles."
   - q: "Que veut dire avoir beaucoup de planètes en maison 12 ?"
     a: "Souvent une vie intérieure riche, et un vrai besoin de temps à soi. Une maison 12 chargée peut décrire une personne plus silencieuse au-dehors qu’au-dedans, ou qui fait son meilleur travail en coulisses. Ce n’est pas le signe que quelque chose ne va pas chez vous, et cela ne prédit rien."
   - q: "Pourquoi appelle-t-on la maison 12 la maison des ennemis cachés ?"
@@ -43,8 +43,8 @@ Ce que la tradition appelait les ennemis cachés, je le lis le plus souvent comm
 
 - **Une maison cadente.** Elle suit une maison succédente, et les maisons cadentes se lisent comme des lieux d’ajustement, d’apprentissage et de transmission : la maison 12 est l’endroit où l’on laisse partir un tour complet des maisons avant que le suivant commence. La page [Maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/) explique les trois familles.
 - **Son signe et sa planète naturels.** Les [Poissons](/astrology/pisces/) et [Neptune](/astrology/neptune/), avec [Jupiter](/astrology/jupiter/) pour maître traditionnel des Poissons : la compassion, l’imagination, les contours qui s’adoucissent.
-- **Le Mauvais Génie.** La tradition lui donnait ce nom et disait que [Saturne](/astrology/saturn/), la planète du temps et des limites, s’y réjouit (voir [joies des planètes](/astrology/planetary-joys/)) : la vieille planète de la solitude, à son aise dans la maison du retrait.
-- **Son opposée.** La [maison 6](/astrology/6th-house/), que la tradition appelait la Mauvaise Fortune : la maison 6, c’est le quotidien qu’on voit ; la maison 12, ce qui se passe loin des regards.
+- **Le Génie défavorable.** La tradition lui donnait ce nom et disait que [Saturne](/astrology/saturn/), la planète du temps et des limites, s’y réjouit (voir [joies des planètes](/astrology/planetary-joys/)) : la vieille planète de la solitude, à son aise dans la maison du retrait.
+- **Son opposée.** La [maison 6](/astrology/6th-house/), que la tradition appelait la Fortune défavorable : la maison 6, c’est le quotidien qu’on voit ; la maison 12, ce qui se passe loin des regards.
 
 Une maison se lit avec ses voisines. La [maison 11](/astrology/11th-house/), juste avant, c’est la foule — les amis, les groupes, les espoirs partagés — et la maison 12, l’endroit où la foule se raréfie. La [maison 1](/astrology/1st-house/), juste après, est l’endroit où l’on sort au grand jour ; la maison 12 est la dernière pièce avant la porte.
 
