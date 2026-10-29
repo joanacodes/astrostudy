@@ -12,7 +12,7 @@ glyph: "♉"
 definition: "Le Taureau est le deuxième signe du zodiaque, un signe de terre fixe gouverné par Vénus ; le Soleil le traverse du 20 avril au 20 mai environ. Dans un thème natal, il désigne là où vous construisez lentement : la patience, les sens, le confort, ce qui a de la valeur. Sa maison montre ce que vous voulez faire durer."
 facts:
   - { k: "Symbole", v: "♉ — le taureau, dessiné par sa tête et ses cornes" }
-  - { k: "Dates (Soleil)", v: "Du 20 avril au 20 mai environ" }
+  - { k: "Dates (Soleil)", v: "Environ du 20 avril au 20 mai" }
   - { k: "Élément", v: "Terre" }
   - { k: "Mode", v: "Fixe" }
   - { k: "Maître", v: "Vénus" }
@@ -29,7 +29,7 @@ faq:
   - q: "Que signifie un ascendant Taureau ?"
     a: "Que le Taureau se levait à l’horizon est au moment de votre naissance. Il colore votre façon d’aborder le monde : avec calme, à votre rythme, souvent avec une présence rassurante. Vénus devient le maître de votre thème. Il faut une heure de naissance précise, car l’ascendant change de signe toutes les deux heures environ."
   - q: "Avec quels signes le Taureau s’entend-il ?"
-    a: "Avec n’importe lequel. Les rubriques des magazines l’associent aux autres signes de terre et aux signes d’eau, mais la compatibilité des signes solaires est la moins fiable de toutes. Deux personnes sont bien plus que deux signes : ce qui compte, c’est la rencontre des thèmes entiers, à commencer par la Lune, Vénus et Mars."
+    a: "Avec n’importe lequel, et aucun n’est une dispute assurée. La compatibilité des signes solaires est la moins fiable de toutes : deux thèmes entiers en disent bien plus que deux signes, à commencer par la Lune, Vénus et Mars. Le Scorpion, son signe opposé, se lit comme son miroir : ce que l’on garde face à ce que l’on transforme."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les signes, leurs maîtres et leurs exaltations" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
@@ -42,9 +42,9 @@ Chaque thème contient du Taureau quelque part, qu’une planète s’y trouve o
 
 Trois placements amènent la plupart des gens ici :
 
-- **[Soleil en Taureau](/astrology/sun-in-taurus/)** — une naissance entre le 20 avril et le 20 mai environ. Vous grandissez en bâtissant ce qui dure — un savoir-faire, un foyer, un lien — et votre élan change rarement de cap sur un coup de tête.
-- **[Lune en Taureau](/astrology/moon-in-taurus/)** — la Lune y est exaltée, à son plus stable. Vous vous sentez en sécurité avec des habitudes, du confort et des personnes sur qui compter, et vos humeurs prennent leur temps pour changer, dans un sens comme dans l’autre.
-- **[Ascendant Taureau](/astrology/taurus-rising/)** — vous abordez le monde avec calme et à votre rythme, et votre présence rassure souvent avant même qu’on vous connaisse. Vénus devient le [maître du thème](/astrology/chart-ruler/). Un ascendant demande votre [heure de naissance](/blog/unknown-birth-time/) : il change de signe toutes les deux heures environ.
+- **[Soleil en Taureau](/astrology/sun-in-taurus/) :** une naissance entre le 20 avril et le 20 mai environ. Vous grandissez en bâtissant ce qui dure — un savoir-faire, un foyer, un lien — et votre élan change rarement de cap sur un coup de tête.
+- **[Lune en Taureau](/astrology/moon-in-taurus/) :** la Lune y est exaltée, à son plus stable. Vous vous sentez en sécurité avec des habitudes, du confort et des personnes sur qui compter, et vos humeurs prennent leur temps pour changer, dans un sens comme dans l’autre.
+- **[Ascendant Taureau](/astrology/taurus-rising/) :** vous abordez le monde avec calme et à votre rythme, et votre présence rassure souvent avant même qu’on vous connaisse. Vénus devient le [maître du thème](/astrology/chart-ruler/). Un ascendant demande votre [heure de naissance](/blog/unknown-birth-time/) : il change de signe toutes les deux heures environ.
 
 Chacun de ces placements n’est qu’une partie du tableau. Dans [mon carnet](/blog/i-tested-my-birth-chart/), le signe solaire et l’ascendant ont chacun tenu environ une fois sur trois, et la Lune, vérifiée comme tous les autres placements, ne faisait pas partie des trois qui ont tenu bien plus souvent. Alors je lis le Taureau à travers tout le thème, en commençant par la place de Vénus.
 
@@ -75,7 +75,7 @@ Une planète en Taureau ralentit et s’installe ; la maison où elle se trouv
 
 ## Le Taureau sur une cuspide {#sur-une-cuspide}
 
-Chaque thème a le Taureau sur la cuspide de l’une de ses douze maisons. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur de l’une d’elles. Là où le Taureau ouvre une maison, vous avancez lentement et voulez ce qui dure, et Vénus, où qu’elle soit, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
+Chaque thème a le Taureau quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Taureau ouvre une maison, vous avancez lentement et voulez ce qui dure, et Vénus, où qu’elle soit, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
 
 1. **[Maison I](/astrology/taurus-rising/) :** l’ascendant Taureau — une présence calme et stable ; vous prenez la vie à votre rythme, et l’on trouve votre compagnie rassurante.
 2. **[Maison II](/astrology/taurus-on-2nd-house-cusp/) :** le Taureau dans sa maison naturelle — un rapport patient à l’argent et aux biens ; vous aimez la qualité, et gardez ce qui est bon.
@@ -83,7 +83,7 @@ Chaque thème a le Taureau sur la cuspide de l’une de ses douze maisons. En Pl
 4. **[Maison IV](/astrology/taurus-on-4th-house-cusp/) :** le foyer comme refuge — le confort, la bonne table, un lieu qui ne change pas ; vous prenez racine, et vous gardez vos racines.
 5. **[Maison V](/astrology/taurus-on-5th-house-cusp/) :** le plaisir par les sens — la musique, la cuisine, le travail des mains ; une romance qui prend son temps.
 6. **[Maison VI](/astrology/taurus-on-6th-house-cusp/) :** un travail régulier et fiable, à un rythme tenable ; une bonne routine, une fois trouvée, vous sert des années.
-7. **[Maison VII](/astrology/taurus-on-7th-house-cusp/) :** une attirance pour des partenaires stables et fidèles ; vous voulez une relation sur laquelle compter, et vous offrez la même chose.
+7. **[Maison VII](/astrology/taurus-on-7th-house-cusp/) :** le Taureau au descendant, donc l’ascendant Scorpion — une attirance pour la stabilité et la fidélité chez l’autre ; vous voulez une relation sur laquelle compter, et vous offrez la même chose.
 8. **[Maison VIII](/astrology/taurus-on-8th-house-cusp/) :** une confiance qui se construit lentement ; dans l’intimité et l’argent partagé, il vous faut de la sécurité avant de partager.
 9. **[Maison IX](/astrology/taurus-on-9th-house-cusp/) :** des convictions ancrées dans l’expérience ; vous apprenez en voyant et en touchant par vous-même, et voyagez à votre rythme.
 10. **[Maison X](/astrology/taurus-on-10th-house-cusp/) :** une carrière que vous préférez bâtir pas à pas plutôt que réinventer ; l’image publique de quelqu’un de fiable.

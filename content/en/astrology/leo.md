@@ -73,7 +73,7 @@ A planet in Leo warms up and wants an audience; the house it sits in shows where
 
 ## Leo on a house cusp {#on-a-house-cusp}
 
-Every chart has Leo on the cusp of one of its twelve houses. In Placidus and the other quadrant systems, a sign can open two houses, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Leo opens a house, that's where you want to put your heart into things and be seen doing it, and the Sun, wherever it sits, carries the story on. Which house it is depends on your birth time.
+Every chart has Leo somewhere in its twelve houses, usually on the cusp of one of them. In Placidus and the other quadrant systems, a sign can open two houses, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Leo opens a house, that's where you want to put your heart into things and be seen doing it, and the Sun, wherever it sits, carries the story on. Which house it is depends on your birth time.
 
 1. **[1st house](/astrology/leo-rising/):** Leo rising — a warm, noticeable presence; you meet the world generously, and people remember you.
 2. **[2nd house](/astrology/leo-on-2nd-house-cusp/):** generous with what you have; you value quality and things that express who you are, and your pride is tied to earning your own way.

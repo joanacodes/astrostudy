@@ -28,7 +28,7 @@ faq:
   - q: "What does Taurus rising mean?"
     a: "It means Taurus was rising on the eastern horizon when you were born. It colours how you meet the world: calmly, at your own pace, often with a reassuring presence. Venus becomes your chart ruler. It takes an accurate birth time, because the rising sign changes about every two hours."
   - q: "Which signs get on with Taurus?"
-    a: "Any sign can. Magazine columns usually pair Taurus with the other earth signs and with the water signs, but Sun-sign compatibility is the least reliable kind. Two people are far more than two Sun signs: what matters is how their whole charts meet, starting with the Moon, Venus and Mars."
+    a: "Any sign can, and none is a guaranteed clash. Sun-sign compatibility is the least reliable kind: two whole charts say far more than two Sun signs, starting with the Moon, Venus and Mars. Scorpio, the opposite sign, is read as Taurus’ mirror: what you keep, facing what you transform."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the signs, their rulers and exaltations" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
@@ -41,9 +41,9 @@ Every chart has Taurus somewhere, whether or not a planet sits in it. Wherever i
 
 Three placements bring most people here:
 
-- **[Sun in Taurus](/astrology/sun-in-taurus/)** — born between about 20 April and 20 May. You grow by building what lasts — a skill, a home, a bond — and your sense of purpose rarely changes course on a whim.
-- **[Moon in Taurus](/astrology/moon-in-taurus/)** — the Moon is exalted here, at its steadiest. You feel safe with routine, comfort and people you can count on, and your moods take their time to change, in both directions.
-- **[Taurus rising](/astrology/taurus-rising/)** — you meet the world calmly and at your own pace, and people often find you reassuring before they know you. Venus becomes your [chart ruler](/astrology/chart-ruler/). A rising sign needs your [birth time](/blog/unknown-birth-time/): it changes about every two hours.
+- **[Sun in Taurus](/astrology/sun-in-taurus/):** born between about 20 April and 20 May. You grow by building what lasts — a skill, a home, a bond — and your sense of purpose rarely changes course on a whim.
+- **[Moon in Taurus](/astrology/moon-in-taurus/):** the Moon is exalted here, at its steadiest. You feel safe with routine, comfort and people you can count on, and your moods take their time to change, in both directions.
+- **[Taurus rising](/astrology/taurus-rising/):** you meet the world calmly and at your own pace, and people often find you reassuring before they know you. Venus becomes your [chart ruler](/astrology/chart-ruler/). A rising sign needs your [birth time](/blog/unknown-birth-time/): it changes about every two hours.
 
 Each of these is one part of the picture. In [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign and the rising sign each held about a third of the time, and the Moon, checked like every other placement, wasn't one of the three that held far more often. So I read Taurus through the whole chart, beginning with where Venus sits.
 
@@ -74,7 +74,7 @@ A planet in Taurus slows down and settles; the house it sits in shows where that
 
 ## Taurus on a house cusp {#on-a-house-cusp}
 
-Every chart has Taurus on the cusp of one of its twelve houses. In Placidus and the other quadrant systems, a sign can open two houses, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Taurus opens a house, that's where you go slowly and want what lasts, and Venus, wherever it sits, carries the story on. Which house it is depends on your birth time.
+Every chart has Taurus somewhere in its twelve houses, usually on the cusp of one of them. In Placidus and the other quadrant systems, a sign can open two houses, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Taurus opens a house, that's where you go slowly and want what lasts, and Venus, wherever it sits, carries the story on. Which house it is depends on your birth time.
 
 1. **[1st house](/astrology/taurus-rising/):** Taurus rising — a calm, steady presence; you take life at your own pace, and people find you reassuring.
 2. **[2nd house](/astrology/taurus-on-2nd-house-cusp/):** Taurus in its natural house — a patient relationship with money and possessions; you value quality, and keep what's good.
@@ -82,7 +82,7 @@ Every chart has Taurus on the cusp of one of its twelve houses. In Placidus and 
 4. **[4th house](/astrology/taurus-on-4th-house-cusp/):** home as a sanctuary — comfort, good food, a place that stays the same; you put down roots and keep them.
 5. **[5th house](/astrology/taurus-on-5th-house-cusp/):** pleasure through the senses — music, food, making things with your hands; romance that takes its time.
 6. **[6th house](/astrology/taurus-on-6th-house-cusp/):** steady, reliable work at a pace you can keep; a good routine, once found, lasts you for years.
-7. **[7th house](/astrology/taurus-on-7th-house-cusp/):** drawn to steady, loyal partners; you want a relationship you can rely on, and you offer the same.
+7. **[7th house](/astrology/taurus-on-7th-house-cusp/):** Taurus on the Descendant, which means Scorpio rising — drawn to steady, loyal partners; you want a relationship you can rely on, and you offer the same.
 8. **[8th house](/astrology/taurus-on-8th-house-cusp/):** trust built slowly; in intimacy and shared money, you want to feel secure before you share.
 9. **[9th house](/astrology/taurus-on-9th-house-cusp/):** beliefs grounded in experience; you learn by seeing and touching for yourself, and travel at your own pace.
 10. **[10th house](/astrology/taurus-on-10th-house-cusp/):** a career you'd rather build steadily than reinvent; a public image of reliability.

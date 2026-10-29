@@ -12,7 +12,7 @@ glyph: "♈"
 definition: "Le Bélier est le premier signe du zodiaque, un signe de feu cardinal gouverné par Mars, que le Soleil traverse du 21 mars au 19 avril environ. Dans un thème natal, il désigne là où vous préférez agir plutôt qu’attendre : le courage, la franchise, l’envie de commencer. Sa maison montre où cet élan va d’abord."
 facts:
   - { k: "Symbole", v: "♈ — le bélier, dessiné par ses cornes" }
-  - { k: "Dates (Soleil)", v: "Du 21 mars au 19 avril environ" }
+  - { k: "Dates (Soleil)", v: "Environ du 21 mars au 19 avril" }
   - { k: "Élément", v: "Feu" }
   - { k: "Mode", v: "Cardinal" }
   - { k: "Maître", v: "Mars" }
@@ -29,7 +29,7 @@ faq:
   - q: "Que signifie un ascendant Bélier ?"
     a: "Que le Bélier se levait à l’horizon est au moment de votre naissance. Il colore votre façon d’aborder le monde et la première impression que vous laissez : vive, franche, prête à démarrer. Mars devient le maître de votre thème. Il faut une heure de naissance précise, car l’ascendant change de signe toutes les deux heures environ."
   - q: "Avec quels signes le Bélier s’entend-il ?"
-    a: "Avec n’importe lequel. Les rubriques des magazines l’associent aux autres signes de feu et aux signes d’air, mais la compatibilité des signes solaires est la moins fiable de toutes : deux personnes sont bien plus que deux signes. Ce qui compte, c’est la rencontre des thèmes entiers — les Lunes, Vénus et Mars, et les maisons où chacun tombe chez l’autre."
+    a: "Avec n’importe lequel, et aucun n’est une dispute assurée. La compatibilité des signes solaires est la moins fiable de toutes : deux thèmes entiers en disent bien plus que deux signes, à commencer par les Lunes, Vénus et Mars. La Balance, son signe opposé, se lit comme son miroir : ce que je veux face à ce que nous voulons."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les signes, leurs maîtres et leurs exaltations" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
@@ -42,9 +42,9 @@ Chaque thème contient du Bélier quelque part, qu’une planète s’y trouve o
 
 Trois placements amènent la plupart des gens ici :
 
-- **[Soleil en Bélier](/astrology/sun-in-aries/)** — une naissance entre le 21 mars et le 19 avril environ. Vous découvrez qui vous êtes en essayant, et le courage est un muscle que vous ne cessez d’entraîner.
-- **[Lune en Bélier](/astrology/moon-in-aries/)** — les émotions arrivent vite et repartent aussi vite. Vous avez besoin de réagir avant de réfléchir, et c’est en bougeant que vous retrouvez votre calme, pas en vous faisant consoler.
-- **[Ascendant Bélier](/astrology/aries-rising/)** — vous abordez le monde de front, et l’on remarque votre énergie avant tout le reste. Mars devient le [maître du thème](/astrology/chart-ruler/). Un ascendant demande votre [heure de naissance](/blog/unknown-birth-time/) : il change de signe toutes les deux heures environ.
+- **[Soleil en Bélier](/astrology/sun-in-aries/) :** une naissance entre le 21 mars et le 19 avril environ. Vous découvrez qui vous êtes en essayant, et le courage est un muscle que vous ne cessez d’entraîner.
+- **[Lune en Bélier](/astrology/moon-in-aries/) :** les émotions arrivent vite et repartent aussi vite. Vous avez besoin de réagir avant de réfléchir, et c’est en bougeant que vous retrouvez votre calme, pas en vous faisant consoler.
+- **[Ascendant Bélier](/astrology/aries-rising/) :** vous abordez le monde de front, et l’on remarque votre énergie avant tout le reste. Mars devient le [maître du thème](/astrology/chart-ruler/). Un ascendant demande votre [heure de naissance](/blog/unknown-birth-time/) : il change de signe toutes les deux heures environ.
 
 Aucun des trois ne fait toute la personne. Dans [mon carnet](/blog/i-tested-my-birth-chart/), le signe solaire et l’ascendant ont chacun tenu environ une fois sur trois, et la Lune, vérifiée comme tous les autres placements, ne faisait pas partie des trois qui ont tenu bien plus souvent. Alors je lis le Bélier à travers tout le thème : les planètes qui s’y trouvent, la maison qu’il ouvre, et la place de Mars.
 
@@ -75,7 +75,7 @@ Une planète en Bélier prend la vitesse et la franchise du signe ; la maison 
 
 ## Le Bélier sur une cuspide {#sur-une-cuspide}
 
-Chaque thème a le Bélier sur la cuspide — la ligne de départ — de l’une de ses douze maisons. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur de l’une d’elles. Là où le Bélier ouvre une maison, vous agissez d’abord et posez les questions ensuite, et Mars, où qu’il soit, dit où l’histoire continue. Laquelle, c’est votre heure de naissance qui le décide.
+Chaque thème a le Bélier quelque part dans ses douze maisons, le plus souvent sur la cuspide — la ligne de départ — de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Bélier ouvre une maison, vous agissez d’abord et posez les questions ensuite, et Mars, où qu’il soit, dit où l’histoire continue. Laquelle, c’est votre heure de naissance qui le décide.
 
 1. **[Maison I](/astrology/aries-rising/) :** l’ascendant Bélier — vous abordez la vie de front, avec franchise et vivacité, et l’on voit en vous quelqu’un qui fait bouger les choses.
 2. **[Maison II](/astrology/aries-on-2nd-house-cusp/) :** l’envie de gagner votre vie à votre façon, par votre propre initiative ; les décisions d’argent se prennent vite, et attendre avant de dépenser est ce qui s’apprend.
@@ -83,7 +83,7 @@ Chaque thème a le Bélier sur la cuspide — la ligne de départ — de l’une
 4. **[Maison IV](/astrology/aries-on-4th-house-cusp/) :** le foyer comme camp de base, d’où l’on repart ; vous voulez avoir votre mot à dire sous votre propre toit.
 5. **[Maison V](/astrology/aries-on-5th-house-cusp/) :** le jeu comme un défi — le sport, la compétition, une attirance assumée au grand jour ; une créativité qui vient par élans.
 6. **[Maison VI](/astrology/aries-on-6th-house-cusp/) :** vous travaillez vite, et mieux de votre propre initiative ; les routines choisies vous vont mieux que celles qu’on vous impose.
-7. **[Maison VII](/astrology/aries-on-7th-house-cusp/) :** une attirance pour des partenaires francs et indépendants ; une relation qui sait se disputer et se réconcilier garde votre intérêt.
+7. **[Maison VII](/astrology/aries-on-7th-house-cusp/) :** le Bélier au descendant, donc l’ascendant Balance — une attirance pour la franchise et l’indépendance chez l’autre ; une relation qui sait se disputer et se réconcilier garde votre intérêt.
 8. **[Maison VIII](/astrology/aries-on-8th-house-cusp/) :** vous affrontez les crises de face ; dans l’intimité comme dans l’argent partagé, vous voulez que tout soit dit, et vite.
 9. **[Maison IX](/astrology/aries-on-9th-house-cusp/) :** des convictions qu’il a fallu défendre ou trouver par vous-même ; vous apprenez en faisant, et partez sur un coup de tête.
 10. **[Maison X](/astrology/aries-on-10th-house-cusp/) :** une ambition qui veut mener, ou lancer son propre projet ; l’image publique de quelqu’un qui ouvre la voie.

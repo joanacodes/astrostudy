@@ -74,7 +74,7 @@ Une planète en Lion se réchauffe et cherche un public ; la maison où elle s
 
 ## Le Lion sur une cuspide {#sur-une-cuspide}
 
-Chaque thème a le Lion sur la cuspide de l’une de ses douze maisons. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur de l’une d’elles. Là où le Lion ouvre une maison, vous voulez y mettre du cœur, et que cela se voie, et le Soleil, où qu’il soit, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
+Chaque thème a le Lion quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Lion ouvre une maison, vous voulez y mettre du cœur, et que cela se voie, et le Soleil, où qu’il soit, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
 
 1. **[Maison I](/astrology/leo-rising/) :** l’ascendant Lion — une présence chaleureuse qu’on remarque ; vous abordez le monde avec générosité, et l’on se souvient de vous.
 2. **[Maison II](/astrology/leo-on-2nd-house-cusp/) :** de la générosité avec ce que vous avez ; vous aimez la qualité et les choses qui vous ressemblent, et votre fierté tient à gagner votre vie par vous-même.

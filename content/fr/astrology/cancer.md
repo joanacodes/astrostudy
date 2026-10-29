@@ -75,7 +75,7 @@ Une planète en Cancer devient protectrice et n’oublie rien ; la maison où 
 
 ## Le Cancer sur une cuspide {#sur-une-cuspide}
 
-Chaque thème a le Cancer sur la cuspide de l’une de ses douze maisons. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur de l’une d’elles. Là où le Cancer ouvre une maison, vous protégez et vous nourrissez, et la Lune, où qu’elle soit, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
+Chaque thème a le Cancer quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Cancer ouvre une maison, vous protégez et vous nourrissez, et la Lune, où qu’elle soit, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
 
 1. **[Maison I](/astrology/cancer-rising/) :** l’ascendant Cancer — une présence attentive et bienveillante ; de la réserve d’abord, de la chaleur une fois en confiance.
 2. **[Maison II](/astrology/cancer-on-2nd-house-cusp/) :** l’argent et les biens comme source de sécurité ; vous gardez les choses pour ce qu’elles signifient, et aimez avoir un peu de côté.

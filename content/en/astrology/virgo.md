@@ -74,7 +74,7 @@ A planet in Virgo sharpens its focus and wants to be useful; the house it sits i
 
 ## Virgo on a house cusp {#on-a-house-cusp}
 
-Every chart has Virgo on the cusp of one of its twelve houses. In Placidus and the other quadrant systems, a sign can open two houses, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Virgo opens a house, that's where you notice the details and want things done properly, and Mercury, wherever it sits, carries the story on. Which house it is depends on your birth time.
+Every chart has Virgo somewhere in its twelve houses, usually on the cusp of one of them. In Placidus and the other quadrant systems, a sign can open two houses, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Virgo opens a house, that's where you notice the details and want things done properly, and Mercury, wherever it sits, carries the story on. Which house it is depends on your birth time.
 
 1. **[1st house](/astrology/virgo-rising/):** Virgo rising — an attentive, careful presence; you notice everything, and people see you as capable and modest.
 2. **[2nd house](/astrology/virgo-on-2nd-house-cusp/):** careful with money and possessions; you value skill and usefulness, and like to know exactly where things stand.

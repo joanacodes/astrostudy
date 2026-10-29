@@ -75,7 +75,7 @@ Une planète en Vierge affûte son regard et veut se rendre utile ; la maison 
 
 ## La Vierge sur une cuspide {#sur-une-cuspide}
 
-Chaque thème a la Vierge sur la cuspide de l’une de ses douze maisons. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur de l’une d’elles. Là où la Vierge ouvre une maison, vous remarquez les détails et voulez que les choses soient bien faites, et Mercure, où qu’il soit, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
+Chaque thème a la Vierge quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où la Vierge ouvre une maison, vous remarquez les détails et voulez que les choses soient bien faites, et Mercure, où qu’il soit, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
 
 1. **[Maison I](/astrology/virgo-rising/) :** l’ascendant Vierge — une présence attentive et soigneuse ; vous remarquez tout, et l’on voit en vous une personne capable et modeste.
 2. **[Maison II](/astrology/virgo-on-2nd-house-cusp/) :** du soin avec l’argent et les biens ; vous accordez de la valeur au savoir-faire et à l’utilité, et aimez savoir exactement où en sont les choses.

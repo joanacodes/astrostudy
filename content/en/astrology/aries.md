@@ -28,7 +28,7 @@ faq:
   - q: "What does Aries rising mean?"
     a: "It means Aries was rising on the eastern horizon at the moment you were born. It colours how you meet the world and how people first see you: quick, frank, ready to start. Mars becomes your chart ruler. It takes an accurate birth time, as the rising sign changes about every two hours."
   - q: "Which signs get on with Aries?"
-    a: "Any sign can. Magazine columns usually pair Aries with the other fire signs and with the air signs, but Sun-sign compatibility is the least reliable kind: two people are far more than two Sun signs. What matters is how the whole charts meet — the Moons, Venus and Mars, and the houses each lands in."
+    a: "Any sign can, and none is a guaranteed clash. Sun-sign compatibility is the least reliable kind: two whole charts say far more than two Sun signs — the Moons, Venus and Mars, and the houses each lands in. Libra, the opposite sign, is read as Aries’ mirror: what I want, facing what we want."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the signs, their rulers and exaltations" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
@@ -41,9 +41,9 @@ Every chart has Aries somewhere, whether or not a planet sits in it. Wherever it
 
 Three placements bring most people here:
 
-- **[Sun in Aries](/astrology/sun-in-aries/)** — born between about 21 March and 19 April. You find out who you are by trying things, and courage is the muscle you keep training.
-- **[Moon in Aries](/astrology/moon-in-aries/)** — feelings arrive fast and leave just as fast. You need to react before you can reflect, and you settle by moving, not by being soothed.
-- **[Aries rising](/astrology/aries-rising/)** — you meet the world head on, and people notice your energy before anything else. Mars becomes your [chart ruler](/astrology/chart-ruler/). A rising sign needs your [birth time](/blog/unknown-birth-time/): it changes about every two hours.
+- **[Sun in Aries](/astrology/sun-in-aries/):** born between about 21 March and 19 April. You find out who you are by trying things, and courage is the muscle you keep training.
+- **[Moon in Aries](/astrology/moon-in-aries/):** feelings arrive fast and leave just as fast. You need to react before you can reflect, and you settle by moving, not by being soothed.
+- **[Aries rising](/astrology/aries-rising/):** you meet the world head on, and people notice your energy before anything else. Mars becomes your [chart ruler](/astrology/chart-ruler/). A rising sign needs your [birth time](/blog/unknown-birth-time/): it changes about every two hours.
 
 None of the three is the whole of you. In [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign and the rising sign each held about a third of the time, and the Moon, checked like every other placement, wasn't one of the three that held far more often. So I read Aries through the whole chart: the planets in it, the house it opens, and where Mars sits.
 
@@ -74,7 +74,7 @@ A planet in Aries takes on the sign's speed and honesty; the house it sits in sh
 
 ## Aries on a house cusp {#on-a-house-cusp}
 
-Every chart has Aries on the cusp — the starting line — of one of its twelve houses. In Placidus and the other quadrant systems, a sign can open two houses, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Aries opens a house, that's where you act first and ask questions later, and Mars, wherever it sits, says where the story goes next. Which house it is depends on your birth time.
+Every chart has Aries somewhere in its twelve houses, usually on the cusp — the starting line — of one of them. In Placidus and the other quadrant systems, a sign can open two houses, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Aries opens a house, that's where you act first and ask questions later, and Mars, wherever it sits, says where the story goes next. Which house it is depends on your birth time.
 
 1. **[1st house](/astrology/aries-rising/):** Aries rising — you meet life head on, frank and quick, and people see you as the one who gets things moving.
 2. **[2nd house](/astrology/aries-on-2nd-house-cusp/):** you want to earn your own way, on your own initiative; money decisions come fast, and waiting before you spend is the skill to learn.
@@ -82,7 +82,7 @@ Every chart has Aries on the cusp — the starting line — of one of its twelve
 4. **[4th house](/astrology/aries-on-4th-house-cusp/):** home as a base to set out from; you want your own say under your own roof.
 5. **[5th house](/astrology/aries-on-5th-house-cusp/):** play as a challenge — sport, competition, a crush pursued openly; creativity that comes in bursts.
 6. **[6th house](/astrology/aries-on-6th-house-cusp/):** you work fast, and best on your own initiative; routines you choose suit you better than routines you're handed.
-7. **[7th house](/astrology/aries-on-7th-house-cusp/):** drawn to frank, independent partners; a relationship that can argue and make up keeps you interested.
+7. **[7th house](/astrology/aries-on-7th-house-cusp/):** Aries on the Descendant, which means Libra rising — drawn to frank, independent partners; a relationship that can argue and make up keeps you interested.
 8. **[8th house](/astrology/aries-on-8th-house-cusp/):** you meet crises head on; in intimacy and shared money, you want everything in the open, and quickly.
 9. **[9th house](/astrology/aries-on-9th-house-cusp/):** beliefs you've had to fight for or find yourself; you learn by doing, and travel on impulse.
 10. **[10th house](/astrology/aries-on-10th-house-cusp/):** ambition that wants to lead, or to start its own thing; a public image as the one who begins.

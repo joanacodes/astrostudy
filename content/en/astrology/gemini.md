@@ -28,7 +28,7 @@ faq:
   - q: "What does Gemini rising mean?"
     a: "It means Gemini was rising on the eastern horizon when you were born. It colours how you meet the world: with questions, quick conversation and a light touch. Mercury becomes your chart ruler. It takes an accurate birth time, because the rising sign changes about every two hours."
   - q: "Which signs get on with Gemini?"
-    a: "Any sign can. Magazine columns usually pair Gemini with the other air signs and with the fire signs, but Sun-sign compatibility is the least reliable kind. How two people talk, laugh and argue shows in their whole charts — Mercury and the Moon above all — far more than in their Sun signs."
+    a: "Any sign can, and none is a guaranteed clash. Sun-sign compatibility is the least reliable kind: how two people talk, laugh and argue shows in their whole charts — Mercury and the Moon above all — far more than in their Sun signs. Sagittarius, the opposite sign, is read as Gemini’s mirror: the facts facing the meaning."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the signs, their rulers and exaltations" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
@@ -41,9 +41,9 @@ Every chart has Gemini somewhere, whether or not a planet sits in it. Wherever i
 
 Three placements bring most people here:
 
-- **[Sun in Gemini](/astrology/sun-in-gemini/)** — born between about 21 May and 20 June. You grow by learning and by connecting ideas, people and places, and your sense of purpose often has more than one strand.
-- **[Moon in Gemini](/astrology/moon-in-gemini/)** — you understand your feelings by putting them into words. Talking things through is how you settle, and boredom unsettles you more than most things.
-- **[Gemini rising](/astrology/gemini-rising/)** — you meet the world with questions and quick conversation, and people find you lively and easy to talk to. Mercury becomes your [chart ruler](/astrology/chart-ruler/). A rising sign needs your [birth time](/blog/unknown-birth-time/): it changes about every two hours.
+- **[Sun in Gemini](/astrology/sun-in-gemini/):** born between about 21 May and 20 June. You grow by learning and by connecting ideas, people and places, and your sense of purpose often has more than one strand.
+- **[Moon in Gemini](/astrology/moon-in-gemini/):** you understand your feelings by putting them into words. Talking things through is how you settle, and boredom unsettles you more than most things.
+- **[Gemini rising](/astrology/gemini-rising/):** you meet the world with questions and quick conversation, and people find you lively and easy to talk to. Mercury becomes your [chart ruler](/astrology/chart-ruler/). A rising sign needs your [birth time](/blog/unknown-birth-time/): it changes about every two hours.
 
 None of these tells the whole story. In [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign and the rising sign each held about a third of the time, and the Moon, checked like every other placement, wasn't one of the three that held far more often. So I read Gemini through the whole chart, beginning with where Mercury sits.
 
@@ -72,7 +72,7 @@ A planet in Gemini speeds up and starts asking questions; the house it sits in s
 
 ## Gemini on a house cusp {#on-a-house-cusp}
 
-Every chart has Gemini on the cusp of one of its twelve houses. In Placidus and the other quadrant systems, a sign can open two houses, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Gemini opens a house, that's where you stay curious and keep things moving, and Mercury, wherever it sits, carries the story on. Which house it is depends on your birth time.
+Every chart has Gemini somewhere in its twelve houses, usually on the cusp of one of them. In Placidus and the other quadrant systems, a sign can open two houses, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Gemini opens a house, that's where you stay curious and keep things moving, and Mercury, wherever it sits, carries the story on. Which house it is depends on your birth time.
 
 1. **[1st house](/astrology/gemini-rising/):** Gemini rising — a quick, curious presence; you lead with questions, and people find you easy to talk to.
 2. **[2nd house](/astrology/gemini-on-2nd-house-cusp/):** you value ideas, skills and contacts; you like money to circulate rather than sit still, and may enjoy having more than one string to your bow.
@@ -80,7 +80,7 @@ Every chart has Gemini on the cusp of one of its twelve houses. In Placidus and 
 4. **[4th house](/astrology/gemini-on-4th-house-cusp/):** a lively home full of conversation, books and comings and goings; a home that changes as you do.
 5. **[5th house](/astrology/gemini-on-5th-house-cusp/):** play through words and games; you flirt with wit, and create through many small projects.
 6. **[6th house](/astrology/gemini-on-6th-house-cusp/):** varied daily work; you need several tasks on the go, and a routine with room to change.
-7. **[7th house](/astrology/gemini-on-7th-house-cusp/):** drawn to partners who make you think; a relationship that is also a long conversation.
+7. **[7th house](/astrology/gemini-on-7th-house-cusp/):** Gemini on the Descendant, which means Sagittarius rising — drawn to partners who make you think; a relationship that is also a long conversation.
 8. **[8th house](/astrology/gemini-on-8th-house-cusp/):** you approach intimacy and shared resources by talking them through; understanding is how you come to trust.
 9. **[9th house](/astrology/gemini-on-9th-house-cusp/):** a mind that collects beliefs and compares them; you study widely, and travel to meet people.
 10. **[10th house](/astrology/gemini-on-10th-house-cusp/):** a working life built on communication, often with more than one strand; a public image of someone articulate.

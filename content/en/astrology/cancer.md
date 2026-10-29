@@ -74,7 +74,7 @@ A planet in Cancer turns protective and remembers everything; the house it sits 
 
 ## Cancer on a house cusp {#on-a-house-cusp}
 
-Every chart has Cancer on the cusp of one of its twelve houses. In Placidus and the other quadrant systems, a sign can open two houses, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Cancer opens a house, that's where you protect and nurture, and the Moon, wherever it sits, carries the story on. Which house it is depends on your birth time.
+Every chart has Cancer somewhere in its twelve houses, usually on the cusp of one of them. In Placidus and the other quadrant systems, a sign can open two houses, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Cancer opens a house, that's where you protect and nurture, and the Moon, wherever it sits, carries the story on. Which house it is depends on your birth time.
 
 1. **[1st house](/astrology/cancer-rising/):** Cancer rising — a careful, caring presence; guarded at first, warm once you feel safe.
 2. **[2nd house](/astrology/cancer-on-2nd-house-cusp/):** money and possessions as a source of safety; you keep things for what they mean, and like to have something put by.

@@ -12,7 +12,7 @@ glyph: "♊"
 definition: "Les Gémeaux sont le troisième signe du zodiaque, un signe d’air mutable gouverné par Mercure ; le Soleil les traverse du 21 mai au 20 juin environ. Dans un thème natal, ils désignent là où la curiosité vous mène, et vite : les questions, les mots, les liens, plusieurs centres d’intérêt à la fois. Leur maison montre où votre esprit vagabonde."
 facts:
   - { k: "Symbole", v: "♊ — les jumeaux, côte à côte" }
-  - { k: "Dates (Soleil)", v: "Du 21 mai au 20 juin environ" }
+  - { k: "Dates (Soleil)", v: "Environ du 21 mai au 20 juin" }
   - { k: "Élément", v: "Air" }
   - { k: "Mode", v: "Mutable" }
   - { k: "Maître", v: "Mercure" }
@@ -29,7 +29,7 @@ faq:
   - q: "Que signifie un ascendant Gémeaux ?"
     a: "Que les Gémeaux se levaient à l’horizon est au moment de votre naissance. Ils colorent votre façon d’aborder le monde : avec des questions, une conversation vive et de la légèreté. Mercure devient le maître de votre thème. Il faut une heure de naissance précise, car l’ascendant change de signe toutes les deux heures environ."
   - q: "Avec quels signes les Gémeaux s’entendent-ils ?"
-    a: "Avec n’importe lequel. Les rubriques des magazines les associent aux autres signes d’air et aux signes de feu, mais la compatibilité des signes solaires est la moins fiable de toutes. La façon dont deux personnes parlent, rient et se disputent se lit dans leurs thèmes entiers — Mercure et la Lune surtout — bien plus que dans leurs signes solaires."
+    a: "Avec n’importe lequel, et aucun n’est une dispute assurée. La compatibilité des signes solaires est la moins fiable de toutes : la façon dont deux personnes parlent, rient et se disputent se lit dans leurs thèmes entiers, Mercure et la Lune surtout. Le Sagittaire, leur signe opposé, se lit comme leur miroir : les faits face au sens."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les signes, leurs maîtres et leurs exaltations" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
@@ -42,9 +42,9 @@ Chaque thème contient des Gémeaux quelque part, qu’une planète s’y trouve
 
 Trois placements amènent la plupart des gens ici :
 
-- **[Soleil en Gémeaux](/astrology/sun-in-gemini/)** — une naissance entre le 21 mai et le 20 juin environ. Vous grandissez en apprenant et en reliant les idées, les gens et les lieux, et votre élan suit souvent plus d’un fil.
-- **[Lune en Gémeaux](/astrology/moon-in-gemini/)** — vous comprenez vos émotions en les mettant en mots. C’est en parlant que vous retrouvez votre calme, et l’ennui vous déstabilise plus que presque tout.
-- **[Ascendant Gémeaux](/astrology/gemini-rising/)** — vous abordez le monde avec des questions et une conversation vive, et votre vivacité met les gens à l’aise pour parler. Mercure devient le [maître du thème](/astrology/chart-ruler/). Un ascendant demande votre [heure de naissance](/blog/unknown-birth-time/) : il change de signe toutes les deux heures environ.
+- **[Soleil en Gémeaux](/astrology/sun-in-gemini/) :** une naissance entre le 21 mai et le 20 juin environ. Vous grandissez en apprenant et en reliant les idées, les gens et les lieux, et votre élan suit souvent plus d’un fil.
+- **[Lune en Gémeaux](/astrology/moon-in-gemini/) :** vous comprenez vos émotions en les mettant en mots. C’est en parlant que vous retrouvez votre calme, et l’ennui vous déstabilise plus que presque tout.
+- **[Ascendant Gémeaux](/astrology/gemini-rising/) :** vous abordez le monde avec des questions et une conversation vive, et votre vivacité met les gens à l’aise pour parler. Mercure devient le [maître du thème](/astrology/chart-ruler/). Un ascendant demande votre [heure de naissance](/blog/unknown-birth-time/) : il change de signe toutes les deux heures environ.
 
 Aucun de ces placements ne raconte toute l’histoire. Dans [mon carnet](/blog/i-tested-my-birth-chart/), le signe solaire et l’ascendant ont chacun tenu environ une fois sur trois, et la Lune, vérifiée comme tous les autres placements, ne faisait pas partie des trois qui ont tenu bien plus souvent. Alors je lis les Gémeaux à travers tout le thème, en commençant par la place de Mercure.
 
@@ -73,7 +73,7 @@ Une planète en Gémeaux accélère et se met à poser des questions ; la mais
 
 ## Les Gémeaux sur une cuspide {#sur-une-cuspide}
 
-Chaque thème a les Gémeaux sur la cuspide de l’une de ses douze maisons. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur de l’une d’elles. Là où les Gémeaux ouvrent une maison, votre curiosité reste en éveil et les choses circulent, et Mercure, où qu’il soit, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
+Chaque thème a les Gémeaux quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où les Gémeaux ouvrent une maison, votre curiosité reste en éveil et les choses circulent, et Mercure, où qu’il soit, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
 
 1. **[Maison I](/astrology/gemini-rising/) :** l’ascendant Gémeaux — une présence vive et curieuse ; vous entrez en matière par des questions, et l’on vous parle facilement.
 2. **[Maison II](/astrology/gemini-on-2nd-house-cusp/) :** vous accordez de la valeur aux idées, aux savoir-faire et aux contacts ; l’argent, vous l’aimez en circulation plutôt qu’immobile, et avoir plusieurs cordes à votre arc vous plaît.
@@ -81,7 +81,7 @@ Chaque thème a les Gémeaux sur la cuspide de l’une de ses douze maisons. En 
 4. **[Maison IV](/astrology/gemini-on-4th-house-cusp/) :** un foyer vivant, plein de discussions, de livres et d’allées et venues ; une maison qui change en même temps que vous.
 5. **[Maison V](/astrology/gemini-on-5th-house-cusp/) :** le jeu par les mots ; vous séduisez par l’esprit, et créez à travers beaucoup de petits projets.
 6. **[Maison VI](/astrology/gemini-on-6th-house-cusp/) :** un travail quotidien varié ; il vous faut plusieurs tâches en cours, et une routine qui laisse place au changement.
-7. **[Maison VII](/astrology/gemini-on-7th-house-cusp/) :** une attirance pour des partenaires qui vous font réfléchir ; une relation qui est aussi une longue conversation.
+7. **[Maison VII](/astrology/gemini-on-7th-house-cusp/) :** les Gémeaux au descendant, donc l’ascendant Sagittaire — une attirance pour des partenaires qui vous font réfléchir ; une relation qui est aussi une longue conversation.
 8. **[Maison VIII](/astrology/gemini-on-8th-house-cusp/) :** vous abordez l’intimité et les ressources partagées en en parlant ; c’est en comprenant que vous en venez à faire confiance.
 9. **[Maison IX](/astrology/gemini-on-9th-house-cusp/) :** un esprit qui collectionne les convictions et les compare ; vous étudiez largement, et voyagez pour rencontrer des gens.
 10. **[Maison X](/astrology/gemini-on-10th-house-cusp/) :** une vie professionnelle bâtie sur la communication, souvent avec plus d’un fil ; l’image publique de quelqu’un qui sait s’exprimer.
