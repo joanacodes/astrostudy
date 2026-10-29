@@ -47,7 +47,7 @@
     {{- $entries := slice }}
     {{- range (where site.RegularPages "Section" "astrology").ByWeight }}
     {{- $e := . }}{{ $hit := false }}
-    {{- range partial "entry-terms.html" $e }}{{ if in $text . }}{{ $hit = true }}{{ end }}{{ end }}
+    {{- if partial "names.html" (dict "text" $text "terms" (partial "entry-terms.html" $e)) }}{{ $hit = true }}{{ end }}
     {{- if $hit }}{{ $entries = $entries | append $e }}{{ end }}
     {{- end }}
     {{- with $entries }}

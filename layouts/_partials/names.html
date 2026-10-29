@@ -1,0 +1,9 @@
+{{- /* Whether a text names one of a list of terms, as a whole word: "Sun" in "the Sun sign", never in
+       "Sunday"; case as written, so the French month "mars" never counts as the planet Mars.
+       Called with (dict "text" … "terms" …). */ -}}
+{{- $hit := false -}}
+{{- range .terms -}}
+  {{- $re := printf `(^|[^\p{L}\p{N}])%s([^\p{L}\p{N}]|$)` (replaceRE `([\\.+*?()|\[\]{}^$])` `\$1` .) -}}
+  {{- if findRE $re $.text 1 -}}{{ $hit = true }}{{- end -}}
+{{- end -}}
+{{- return $hit -}}

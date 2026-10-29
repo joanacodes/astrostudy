@@ -47,6 +47,10 @@ const decode = (s) => s.replace(/&(#x[0-9a-f]+|#\d+|[a-z]+);/gi, (m, e) =>
 const words = (html) => decode(html.replace(/<[^>]+>/g, ' ')).replace(/[←-⇿☀-➿︎]/g, '')
   .replace(/\s+/g, ' ').replace(/^[\s/]+/, '').trim();
 
+// whether a text names a term as a whole word ("Sun" in "the Sun sign", not in "Sunday"), case as written
+const names = (text, term) =>
+  new RegExp(`(^|[^\\p{L}\\p{N}])${term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}([^\\p{L}\\p{N}]|$)`, 'u').test(text);
+
 // attribute values, quoted or not (the minified HTML drops quotes where it can)
 const attrRe = (names) => new RegExp(`\\s(${names})=(?:"([^"]*)"|'([^']*)'|([^\\s>]+))`, 'gi');
 const valueOf = (m) => decode(m[2] ?? m[3] ?? m[4] ?? '');
@@ -178,7 +182,7 @@ for (const p of [...articles, ...entries]) {
 for (const a of articles) {
   for (const e of entries) {
     if (e.lang !== a.lang || a.links.has(e.path)) continue;
-    const term = e.body.terms.find((t) => a.text.includes(t));
+    const term = e.body.terms.find((t) => names(a.text, t));
     if (term) warnings.push(`${a.path} names “${term}” without linking ${e.path}`);
   }
 }

@@ -1,0 +1,11 @@
+{{- /* Every address in the page plan (plan/pages.json), English paths without their trailing slash, as a
+       set. A link written to a planned page that isn't built yet (a draft waiting for review, or a page
+       of a later batch) shows as plain text until that page is published, and then becomes a link by
+       itself; a link to an address outside the plan still breaks the link check. Read once per build. */ -}}
+{{- $s := newScratch -}}
+{{- with os.ReadFile "plan/pages.json" | transform.Unmarshal -}}
+  {{- range .pages -}}
+    {{- $s.SetInMap "set" (strings.TrimSuffix "/" .path) true -}}
+  {{- end -}}
+{{- end -}}
+{{- return ($s.Get "set") | default dict -}}

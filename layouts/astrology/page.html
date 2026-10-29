@@ -73,7 +73,7 @@
     {{- $posts := slice }}
     {{- range (where site.RegularPages "Section" "blog").ByDate.Reverse }}
     {{- $p := . }}{{ $hit := false }}
-    {{- range $terms }}{{ if in $p.Plain . }}{{ $hit = true }}{{ end }}{{ end }}
+    {{- if partial "names.html" (dict "text" $p.Plain "terms" $terms) }}{{ $hit = true }}{{ end }}
     {{- if $hit }}{{ $posts = $posts | append $p }}{{ end }}
     {{- end }}
     {{- with first 6 $posts }}
