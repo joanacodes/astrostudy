@@ -16,8 +16,8 @@ facts:
   - { k: "Élément", v: "Terre" }
   - { k: "Mode", v: "Cardinal" }
   - { k: "Maître", v: "Saturne" }
-  - { k: "Exalté ici", v: "Mars" }
-  - { k: "Affaiblis ici", v: "La Lune (exil), Jupiter (chute)" }
+  - { k: "Exaltation", v: "Mars" }
+  - { k: "Exil et chute", v: "La Lune (exil), Jupiter (chute)" }
   - { k: "Signe opposé", v: "Cancer" }
   - { k: "Maison naturelle", v: "La maison 10" }
 related: ["/astrology/saturn", "/astrology/cancer", "/astrology/10th-house", "/astrology/earth-signs", "/blog/saturn-chiron-lilith"]
@@ -25,7 +25,7 @@ faq:
   - q: "Quelles sont les dates du Capricorne ?"
     a: "Le Soleil est en Capricorne environ du 22 décembre au 19 janvier : il y entre au solstice de décembre. Le moment exact où il change de signe varie d’un jour environ d’une année à l’autre ; si votre naissance tombe près de l’une des deux limites, votre date, votre heure et votre lieu de naissance permettent de trancher."
   - q: "Quelle est la planète maîtresse du Capricorne ?"
-    a: "Saturne, la planète du temps, des limites et de la maîtrise lente, à qui la tradition donnait aussi le Verseau. En Capricorne, elle est chez elle. Sa place dans votre thème montre où vos placements en Capricorne mettent leur effort, et dans mon carnet, Saturne a fait partie des trois placements qui ont tenu le plus souvent."
+    a: "Saturne, la planète du temps, des limites et de la maîtrise lente, à qui la tradition donnait aussi le Verseau. Le Capricorne est son domicile. Sa place dans votre thème montre où vos placements en Capricorne mettent leur effort, et dans mon carnet, Saturne a fait partie des trois placements qui ont tenu le plus souvent."
   - q: "Que veut dire un ascendant Capricorne ?"
     a: "Que le Capricorne se levait à l’horizon est à la minute de votre naissance. Vous abordez le monde avec réserve et une compétence tranquille, et l’on vous confie souvent des responsabilités très tôt. Saturne devient le maître de votre thème. Pour le connaître, il faut une heure de naissance précise."
   - q: "Avec quels signes le Capricorne s’entend-il ?"
@@ -62,16 +62,16 @@ Toutes les planètes traversent le Capricorne, de la Lune, qui y passe environ d
 - **[Lune en Capricorne](/astrology/moon-in-capricorn/) :** la Lune en exil : des émotions tenues par la maîtrise de soi ; la sécurité vient de la structure, et demander de l’aide est la leçon.
 - **[Mercure en Capricorne](/astrology/mercury-in-capricorn/) :** une pensée pratique et structurée ; vous planifiez par étapes, parlez moins que les autres et pensez ce que vous dites.
 - **[Vénus en Capricorne](/astrology/venus-in-capricorn/) :** l’amour montré par l’engagement et la fiabilité ; il met du temps à s’ouvrir, puis reste fidèle longtemps.
-- **[Mars en Capricorne](/astrology/mars-in-capricorn/) :** Mars exalté : une énergie disciplinée et stratégique ; de l’ambition avec de la patience, et une force dépensée là où elle compte.
+- **[Mars en Capricorne](/astrology/mars-in-capricorn/) :** Mars en exaltation : une énergie disciplinée et stratégique ; de l’ambition avec de la patience, et une force dépensée là où elle compte.
 - **[Jupiter en Capricorne](/astrology/jupiter-in-capricorn/) :** Jupiter en chute : on grandit par les limites et le travail ; une générosité mesurée, et un optimisme qui doit se mériter.
-- **[Saturne en Capricorne](/astrology/saturn-in-capricorn/) :** Saturne chez elle, partagée par toutes les personnes nées sur environ deux ans et demi : la responsabilité, la structure et la maîtrise. Sa maison montre où vous bâtissez.
-- **[Uranus en Capricorne](/astrology/uranus-in-capricorn/) :** partagé par toutes les personnes nées sur environ sept ans : de l’impatience envers les vieilles structures, et un talent pour les redessiner. Sa maison montre où.
-- **[Neptune en Capricorne](/astrology/neptune-in-capricorn/) :** partagé par toutes les personnes nées sur environ quatorze ans : des rêves qui veulent une forme concrète, des idéaux sur le travail et les institutions. Sa maison le rend personnel.
-- **[Pluton en Capricorne](/astrology/pluto-in-capricorn/) :** partagé par toutes les personnes nées sur de nombreuses années : des transformations profondes du pouvoir, des institutions et des structures sur lesquelles on s’appuie. Sa maison dit où elles se posent.
+- **[Saturne en Capricorne](/astrology/saturn-in-capricorn/) :** Saturne en domicile, un placement partagé par toutes les personnes nées sur environ deux ans et demi : la responsabilité, la structure et la maîtrise. Sa maison montre où vous bâtissez.
+- **[Uranus en Capricorne](/astrology/uranus-in-capricorn/) :** un placement partagé par toutes les personnes nées sur environ sept ans : de l’impatience envers les vieilles structures, et un talent pour les redessiner. Sa maison montre où.
+- **[Neptune en Capricorne](/astrology/neptune-in-capricorn/) :** un placement partagé par toutes les personnes nées sur environ quatorze ans : des rêves qui veulent une forme concrète, des idéaux sur le travail et les institutions. Sa maison le rend personnel.
+- **[Pluton en Capricorne](/astrology/pluto-in-capricorn/) :** un placement partagé par toutes les personnes nées sur de nombreuses années : des transformations profondes du pouvoir, des institutions et des structures sur lesquelles on s’appuie. Sa maison dit où elles se posent.
 
 ## Le Capricorne sur une cuspide {#sur-une-cuspide}
 
-Chaque thème a le Capricorne quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Capricorne ouvre une maison, vous prenez les choses au sérieux, commencez lentement et bâtissez pour durer, et Saturne, où qu’elle soit, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
+Chaque thème a le Capricorne quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Capricorne ouvre une maison, vous prenez les choses au sérieux, commencez lentement et bâtissez pour durer, et Saturne, quelle que soit sa place, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
 
 1. **[Maison I](/astrology/capricorn-rising/) :** l’ascendant Capricorne — une présence réservée et capable ; souvent sérieuse tôt, plus légère avec les années.
 2. **[Maison II](/astrology/capricorn-on-2nd-house-cusp/) :** un argent bâti lentement et conservé ; la sécurité vient de la structure, de l’épargne et des compétences acquises.

@@ -16,8 +16,8 @@ facts:
   - { k: "Élément", v: "Air" }
   - { k: "Mode", v: "Mutable" }
   - { k: "Maître", v: "Mercure" }
-  - { k: "Exalté ici", v: "Aucune planète, dans le schéma classique" }
-  - { k: "Affaiblis ici", v: "Jupiter (exil)" }
+  - { k: "Exaltation", v: "Aucune planète, dans le schéma classique" }
+  - { k: "Exil et chute", v: "Jupiter (exil)" }
   - { k: "Signe opposé", v: "Sagittaire" }
   - { k: "Maison naturelle", v: "La maison 3" }
 related: ["/astrology/sun-in-gemini", "/astrology/gemini-rising", "/astrology/mercury", "/astrology/sagittarius", "/blog/i-tested-my-birth-chart"]
@@ -50,11 +50,11 @@ Aucun de ces placements ne raconte toute l’histoire. Dans [mon carnet](/blog/i
 
 ## Son maître : Mercure {#maitre}
 
-Le maître d’un signe est la planète qui s’y trouve chez elle : c’est elle qui porte les affaires du signe dans le reste du thème. Les Gémeaux appartiennent à [Mercure](/astrology/mercury/), la planète de la pensée, de la parole et de l’échange, qui gouverne aussi la [Vierge](/astrology/virgo/) : en Gémeaux, il rassemble et relie ; en Vierge, il trie et affine. La position de votre Mercure, par signe et par maison, montre vers quoi votre part Gémeaux tourne sa curiosité. Avec les Gémeaux sur la cuspide de la maison 10 et Mercure en maison 3, par exemple, votre vie professionnelle tourne autour des mots, des messages et des gens proches. Mercure ne s’éloigne jamais de plus de 28° environ du Soleil : il se trouve toujours dans votre signe solaire ou dans un signe voisin.
+Le maître d’un signe est la planète qui s’y trouve chez elle : c’est elle qui porte les affaires du signe dans le reste du thème. Les Gémeaux appartiennent à [Mercure](/astrology/mercury/), la planète de la pensée, de la parole et de l’échange, qui gouverne aussi la [Vierge](/astrology/virgo/) : en Gémeaux, son rôle est de rassembler et de relier ; en Vierge, de trier et d’affiner. La position de votre Mercure, par signe et par maison, montre vers quoi votre part Gémeaux tourne sa curiosité. Avec les Gémeaux sur la cuspide de la maison 10 et Mercure en maison 3, par exemple, votre vie professionnelle tourne autour des mots, des messages et des gens proches. Mercure ne s’éloigne jamais de plus de 28° environ du Soleil : votre Mercure est donc toujours dans votre signe solaire ou dans un signe voisin.
 
 Dans le schéma classique, aucune planète n’est exaltée en Gémeaux ni n’y tombe en chute. Une seule y est affaiblie :
 
-- [Jupiter](/astrology/jupiter/) y est en [exil](/astrology/detriment/), face au Sagittaire, le signe qu’il gouverne : la grande vue d’ensemble s’y morcelle en mille petites. Jupiter y grandit en collectionnant plutôt qu’en croyant — une autre forme de sagesse, pas une sagesse moindre.
+- [Jupiter](/astrology/jupiter/) y est en [exil](/astrology/detriment/), face au Sagittaire, son propre signe : la grande vue d’ensemble s’y morcelle en mille petites. Jupiter y grandit en collectionnant plutôt qu’en croyant — une autre forme de sagesse, pas une sagesse moindre.
 
 ## Les planètes en Gémeaux {#planetes-dans-le-signe}
 
@@ -62,18 +62,18 @@ Une planète en Gémeaux accélère et se met à poser des questions ; la mais
 
 - **[Soleil en Gémeaux](/astrology/sun-in-gemini/) :** une volonté curieuse ; vous grandissez en apprenant, en reliant et en transmettant ce que vous trouvez.
 - **[Lune en Gémeaux](/astrology/moon-in-gemini/) :** des émotions comprises en les nommant ; parler vous apaise, et la variété vous réconforte.
-- **[Mercure en Gémeaux](/astrology/mercury-in-gemini/) :** Mercure chez lui — vif, souple et drôle ; un esprit qui suit plusieurs fils à la fois.
+- **[Mercure en Gémeaux](/astrology/mercury-in-gemini/) :** Mercure en domicile — vivacité, souplesse et humour ; un esprit qui suit plusieurs fils à la fois.
 - **[Vénus en Gémeaux](/astrology/venus-in-gemini/) :** un amour qui commence par la conversation ; l’esprit vous séduit, et il vous faut quelqu’un à qui parler.
 - **[Mars en Gémeaux](/astrology/mars-in-gemini/) :** une énergie qui argumente, écrit et jongle ; vous agissez par les mots, et tournez en rond quand tout se bloque.
 - **[Jupiter en Gémeaux](/astrology/jupiter-in-gemini/) :** Jupiter en exil — grandir en apprenant beaucoup de choses ; la foi dans les bonnes questions plus que dans les réponses définitives.
 - **[Saturne en Gémeaux](/astrology/saturn-in-gemini/) :** la confiance dans votre propre esprit, apprise lentement ; des mots pesés, et le courage de penser par vous-même.
 - **[Uranus en Gémeaux](/astrology/uranus-in-gemini/) :** une génération qui change la façon de parler, d’apprendre et de se relier ; ce placement est partagé par toutes les personnes nées sur environ sept ans, et sa maison le rend personnel.
-- **[Neptune en Gémeaux](/astrology/neptune-in-gemini/) :** un idéal porté par les mots et les histoires ; il est partagé par toutes les personnes nées sur environ quatorze ans, alors je le lis par sa maison.
+- **[Neptune en Gémeaux](/astrology/neptune-in-gemini/) :** un idéal porté par les mots et les histoires ; ce placement est partagé par toutes les personnes nées sur environ quatorze ans, alors je le lis par sa maison.
 - **[Pluton en Gémeaux](/astrology/pluto-in-gemini/) :** une génération qui transforme en profondeur la circulation des idées et de l’information ; un placement partagé sur douze ans ou plus, que sa maison rend personnel.
 
 ## Les Gémeaux sur une cuspide {#sur-une-cuspide}
 
-Chaque thème a les Gémeaux quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où les Gémeaux ouvrent une maison, votre curiosité reste en éveil et les choses circulent, et Mercure, où qu’il soit, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
+Chaque thème a les Gémeaux quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où les Gémeaux ouvrent une maison, votre curiosité reste en éveil et les choses circulent, et Mercure, quelle que soit sa place, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
 
 1. **[Maison I](/astrology/gemini-rising/) :** l’ascendant Gémeaux — une présence vive et curieuse ; vous entrez en matière par des questions, et l’on vous parle facilement.
 2. **[Maison II](/astrology/gemini-on-2nd-house-cusp/) :** vous accordez de la valeur aux idées, aux savoir-faire et aux contacts ; l’argent, vous l’aimez en circulation plutôt qu’immobile, et avoir plusieurs cordes à votre arc vous plaît.

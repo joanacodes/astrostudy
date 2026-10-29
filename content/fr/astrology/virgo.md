@@ -16,8 +16,8 @@ facts:
   - { k: "Élément", v: "Terre" }
   - { k: "Mode", v: "Mutable" }
   - { k: "Maître", v: "Mercure" }
-  - { k: "Exalté ici", v: "Mercure, son propre maître" }
-  - { k: "Affaiblis ici", v: "Jupiter et Neptune (exil), Vénus (chute)" }
+  - { k: "Exaltation", v: "Mercure, son propre maître" }
+  - { k: "Exil et chute", v: "Jupiter et Neptune (exil), Vénus (chute)" }
   - { k: "Signe opposé", v: "Poissons" }
   - { k: "Maison naturelle", v: "La maison 6" }
 related: ["/astrology/sun-in-virgo", "/astrology/virgo-rising", "/astrology/mercury", "/astrology/pisces", "/blog/i-tested-my-birth-chart"]
@@ -25,7 +25,7 @@ faq:
   - q: "Quelles sont les dates de la Vierge ?"
     a: "Du 23 août au 22 septembre environ. Le Soleil change de signe à un moment un peu différent chaque année, si bien que les dates bougent d’un jour environ. Si votre naissance tombe à un jour de l’une de ces dates, seules votre heure et votre lieu de naissance peuvent dire si le Soleil était en Vierge."
   - q: "Quelle est la planète maîtresse de la Vierge ?"
-    a: "Mercure, qui gouverne aussi les Gémeaux et qui est exalté en Vierge : c’est le seul signe où une planète est à la fois chez elle et en exaltation. Le signe et la maison de votre Mercure montrent où la part Vierge de votre thème met son savoir-faire et son attention."
+    a: "Mercure, qui gouverne aussi les Gémeaux et qui a son exaltation en Vierge : c’est le seul signe où une planète est à la fois chez elle et en exaltation. Le signe et la maison de votre Mercure montrent où la part Vierge de votre thème met son savoir-faire et son attention."
   - q: "Que signifie un ascendant Vierge ?"
     a: "Que la Vierge se levait à l’horizon est au moment de votre naissance. Elle colore votre façon d’aborder le monde : avec attention, avec soin, avec un peu de réserve au début. Mercure devient le maître de votre thème. Il faut une heure de naissance précise, car l’ascendant change de signe toutes les deux heures environ."
   - q: "Avec quels signes la Vierge s’entend-elle ?"
@@ -50,7 +50,7 @@ Aucun de ces placements ne raconte toute l’histoire. Dans [mon carnet](/blog/i
 
 ## Son maître : Mercure {#maitre}
 
-Le maître d’un signe est la planète qui s’y trouve chez elle : c’est elle qui porte les affaires du signe dans le reste du thème. La Vierge appartient à [Mercure](/astrology/mercury/), qui gouverne aussi les [Gémeaux](/astrology/gemini/) : en Gémeaux, il rassemble ; en Vierge, il trie. Mercure est aussi en [exaltation](/astrology/exaltation/) en Vierge — le seul signe où une planète est à la fois chez elle et exaltée — si bien qu’il y est à son plus précis. La position de votre Mercure, par signe et par maison, montre où votre part Vierge met son savoir-faire. Avec la Vierge sur la cuspide de la maison 6 et Mercure en maison 10, par exemple, le travail bien fait au quotidien devient une réputation publique.
+Le maître d’un signe est la planète qui s’y trouve chez elle : c’est elle qui porte les affaires du signe dans le reste du thème. La Vierge appartient à [Mercure](/astrology/mercury/), qui gouverne aussi les [Gémeaux](/astrology/gemini/) : en Gémeaux, son rôle est de rassembler ; en Vierge, de trier. Mercure est aussi en [exaltation](/astrology/exaltation/) en Vierge — le seul signe où une planète est à la fois chez elle et exaltée — si bien que sa précision y est à son comble. La position de votre Mercure, par signe et par maison, montre où votre part Vierge met son savoir-faire. Avec la Vierge sur la cuspide de la maison 6 et Mercure en maison 10, par exemple, le travail bien fait au quotidien devient une réputation publique.
 
 Trois planètes y sont affaiblies :
 
@@ -64,18 +64,18 @@ Une planète en Vierge affûte son regard et veut se rendre utile ; la maison 
 
 - **[Soleil en Vierge](/astrology/sun-in-virgo/) :** une volonté attentive et utile ; vous grandissez en améliorant les choses et en maîtrisant un savoir-faire.
 - **[Lune en Vierge](/astrology/moon-in-virgo/) :** des émotions apaisées par l’ordre et l’utilité ; vous prenez soin des gens de façon concrète.
-- **[Mercure en Vierge](/astrology/mercury-in-virgo/) :** Mercure chez lui et exalté — précis, observateur, analytique ; un esprit qui trie et répare.
+- **[Mercure en Vierge](/astrology/mercury-in-virgo/) :** Mercure en domicile et en exaltation — précision, sens de l’observation et de l’analyse ; un esprit qui trie et répare.
 - **[Vénus en Vierge](/astrology/venus-in-virgo/) :** Vénus en chute — un amour qui se montre par le soin et l’attention aux détails ; vous aimez en aidant.
 - **[Mars en Vierge](/astrology/mars-in-virgo/) :** une énergie méthodique et efficace ; vous agissez par le savoir-faire et la préparation.
 - **[Jupiter en Vierge](/astrology/jupiter-in-virgo/) :** Jupiter en exil — grandir par le savoir-faire, l’étude et le service ; la foi dans le travail bien fait.
 - **[Saturne en Vierge](/astrology/saturn-in-virgo/) :** une compétence apprise par le long chemin ; des exigences élevées, qui doivent laisser de la place à l’erreur.
 - **[Uranus en Vierge](/astrology/uranus-in-virgo/) :** une génération qui change l’organisation du travail et de la vie quotidienne ; ce placement est partagé par toutes les personnes nées sur environ sept ans, et sa maison le rend personnel.
-- **[Neptune en Vierge](/astrology/neptune-in-virgo/) :** Neptune en exil — un idéal de service, et le rêve d’un monde remis en ordre ; il est partagé par toutes les personnes nées sur environ quatorze ans, alors je le lis par sa maison.
+- **[Neptune en Vierge](/astrology/neptune-in-virgo/) :** Neptune en exil — un idéal de service, et le rêve d’un monde remis en ordre ; ce placement est partagé par toutes les personnes nées sur environ quatorze ans, alors je le lis par sa maison.
 - **[Pluton en Vierge](/astrology/pluto-in-virgo/) :** une génération qui transforme en profondeur le travail, la méthode et la vie quotidienne ; un placement partagé sur douze ans ou plus, que sa maison rend personnel.
 
 ## La Vierge sur une cuspide {#sur-une-cuspide}
 
-Chaque thème a la Vierge quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où la Vierge ouvre une maison, vous remarquez les détails et voulez que les choses soient bien faites, et Mercure, où qu’il soit, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
+Chaque thème a la Vierge quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où la Vierge ouvre une maison, vous remarquez les détails et voulez que les choses soient bien faites, et Mercure, quelle que soit sa place, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
 
 1. **[Maison I](/astrology/virgo-rising/) :** l’ascendant Vierge — une présence attentive et soigneuse ; vous remarquez tout, et l’on voit en vous une personne capable et modeste.
 2. **[Maison II](/astrology/virgo-on-2nd-house-cusp/) :** du soin avec l’argent et les biens ; vous accordez de la valeur au savoir-faire et à l’utilité, et aimez savoir exactement où en sont les choses.

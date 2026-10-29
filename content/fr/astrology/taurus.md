@@ -16,8 +16,8 @@ facts:
   - { k: "Élément", v: "Terre" }
   - { k: "Mode", v: "Fixe" }
   - { k: "Maître", v: "Vénus" }
-  - { k: "Exalté ici", v: "La Lune" }
-  - { k: "Affaiblis ici", v: "Mars et Pluton (exil)" }
+  - { k: "Exaltation", v: "La Lune" }
+  - { k: "Exil et chute", v: "Mars et Pluton (exil)" }
   - { k: "Signe opposé", v: "Scorpion" }
   - { k: "Maison naturelle", v: "La maison 2" }
 related: ["/astrology/sun-in-taurus", "/astrology/taurus-rising", "/astrology/venus", "/astrology/scorpio", "/blog/i-tested-my-birth-chart"]
@@ -55,7 +55,7 @@ Le maître d’un signe est la planète qui s’y trouve chez elle : c’est el
 Trois autres planètes entretiennent un lien particulier avec le Taureau :
 
 - La [Lune](/astrology/moon/) y est en [exaltation](/astrology/exaltation/) : les émotions y trouvent un sol ferme, et le confort apaise le cœur.
-- [Mars](/astrology/mars/) y est en [exil](/astrology/detriment/), face au Scorpion, le second signe que lui donne la tradition : l’élan y avance lentement et obstinément, plus siège que charge. Il arrive au but, à son rythme.
+- [Mars](/astrology/mars/) y est en [exil](/astrology/detriment/), face au Scorpion, le second signe que lui donne la tradition : l’élan y avance lentement et obstinément, plus siège que charge. Cet élan arrive au but, à son rythme.
 - [Pluton](/astrology/pluto/), maître moderne du Scorpion, y est aussi en exil pour les astrologues modernes : un besoin de tout démolir pour reconstruire rencontre un signe qui préfère garder ce qui marche.
 
 ## Les planètes en Taureau {#planetes-dans-le-signe}
@@ -63,19 +63,19 @@ Trois autres planètes entretiennent un lien particulier avec le Taureau :
 Une planète en Taureau ralentit et s’installe ; la maison où elle se trouve dit où cela se joue.
 
 - **[Soleil en Taureau](/astrology/sun-in-taurus/) :** une volonté patiente ; vous grandissez en bâtissant quelque chose qui dure, et en restant fidèle à ce choix.
-- **[Lune en Taureau](/astrology/moon-in-taurus/) :** la Lune exaltée — des émotions stables, un besoin de confort, d’habitudes et de contact ; lente à se troubler, lente à lâcher prise.
+- **[Lune en Taureau](/astrology/moon-in-taurus/) :** la Lune en exaltation — des émotions stables, un besoin de confort, d’habitudes et de contact ; lente à se troubler, lente à lâcher prise.
 - **[Mercure en Taureau](/astrology/mercury-in-taurus/) :** un esprit pratique et réfléchi ; vous pesez les choses, et une fois la décision prise, vous changez rarement d’avis.
-- **[Vénus en Taureau](/astrology/venus-in-taurus/) :** Vénus chez elle — un amour fidèle et sensuel, qui se montre par le soin, la table, le temps et la présence.
+- **[Vénus en Taureau](/astrology/venus-in-taurus/) :** Vénus en domicile — un amour fidèle et sensuel, qui se montre par le soin, la table, le temps et la présence.
 - **[Mars en Taureau](/astrology/mars-in-taurus/) :** Mars en exil — une énergie qui monte lentement et qui dure ; difficile à pousser, difficile à arrêter.
 - **[Jupiter en Taureau](/astrology/jupiter-in-taurus/) :** grandir par la patience ; la générosité du confort, et la foi dans ce qui se construit pas à pas.
 - **[Saturne en Taureau](/astrology/saturn-in-taurus/) :** la sécurité et l’estime de soi apprises par le long chemin ; vous bâtissez ce qui est à vous pierre après pierre.
 - **[Uranus en Taureau](/astrology/uranus-in-taurus/) :** une génération qui bouscule ce que veut dire posséder, gagner et garder ; ce placement est partagé par toutes les personnes nées sur environ sept ans, et sa maison le rend personnel.
-- **[Neptune en Taureau](/astrology/neptune-in-taurus/) :** un idéal qui cherche la beauté dans le monde matériel ; il est partagé par toutes les personnes nées sur environ quatorze ans, alors je le lis par sa maison.
+- **[Neptune en Taureau](/astrology/neptune-in-taurus/) :** un idéal qui cherche la beauté dans le monde matériel ; ce placement est partagé par toutes les personnes nées sur environ quatorze ans, alors je le lis par sa maison.
 - **[Pluton en Taureau](/astrology/pluto-in-taurus/) :** Pluton en exil — une génération aux prises, en profondeur, avec la valeur, la terre et les ressources ; un placement partagé sur douze ans ou plus, que sa maison rend personnel.
 
 ## Le Taureau sur une cuspide {#sur-une-cuspide}
 
-Chaque thème a le Taureau quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Taureau ouvre une maison, vous avancez lentement et voulez ce qui dure, et Vénus, où qu’elle soit, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
+Chaque thème a le Taureau quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Taureau ouvre une maison, vous avancez lentement et voulez ce qui dure, et Vénus, quelle que soit sa place, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
 
 1. **[Maison I](/astrology/taurus-rising/) :** l’ascendant Taureau — une présence calme et stable ; vous prenez la vie à votre rythme, et l’on trouve votre compagnie rassurante.
 2. **[Maison II](/astrology/taurus-on-2nd-house-cusp/) :** le Taureau dans sa maison naturelle — un rapport patient à l’argent et aux biens ; vous aimez la qualité, et gardez ce qui est bon.

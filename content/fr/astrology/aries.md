@@ -16,8 +16,8 @@ facts:
   - { k: "Élément", v: "Feu" }
   - { k: "Mode", v: "Cardinal" }
   - { k: "Maître", v: "Mars" }
-  - { k: "Exalté ici", v: "Le Soleil" }
-  - { k: "Affaiblis ici", v: "Vénus (exil), Saturne (chute)" }
+  - { k: "Exaltation", v: "Le Soleil" }
+  - { k: "Exil et chute", v: "Vénus (exil), Saturne (chute)" }
   - { k: "Signe opposé", v: "Balance" }
   - { k: "Maison naturelle", v: "La maison 1" }
 related: ["/astrology/sun-in-aries", "/astrology/aries-rising", "/astrology/mars", "/astrology/libra", "/blog/i-tested-my-birth-chart"]
@@ -55,7 +55,7 @@ Le maître d’un signe est la planète qui s’y trouve chez elle : c’est el
 Trois autres planètes entretiennent un lien particulier avec le Bélier :
 
 - Le [Soleil](/astrology/sun/) y est en [exaltation](/astrology/exaltation/), le mot des anciens pour un invité d’honneur : fort et bien reçu. La volonté d’être soi y est à son plus simple.
-- [Saturne](/astrology/saturn/) y est en [chute](/astrology/fall/) : la patience est difficile à trouver dans un signe qui veut tout, tout de suite. Je le lis comme un rythme à apprendre, pas comme un défaut.
+- [Saturne](/astrology/saturn/) y est en [chute](/astrology/fall/) : la patience est difficile à trouver dans un signe qui veut tout, tout de suite. J’y lis un rythme à apprendre, pas un défaut.
 - [Vénus](/astrology/venus/) y est en [exil](/astrology/detriment/), face à son propre signe, la Balance : l’amour y est franc et pressé plutôt que diplomate. Il fonctionne autrement, pas moins bien.
 
 ## Les planètes en Bélier {#planetes-dans-le-signe}
@@ -66,16 +66,16 @@ Une planète en Bélier prend la vitesse et la franchise du signe ; la maison 
 - **[Lune en Bélier](/astrology/moon-in-aries/) :** des émotions qui s’enflamment et passent vite ; un pardon rapide aussi, et le besoin d’espace pour réagir.
 - **[Mercure en Bélier](/astrology/mercury-in-aries/) :** un esprit qui va droit au but ; vous le dites d’abord, vous le peaufinez ensuite.
 - **[Vénus en Bélier](/astrology/venus-in-aries/) :** un amour qui fait le premier pas ; l’attirance est immédiate, et la lenteur de la séduction s’apprend.
-- **[Mars en Bélier](/astrology/mars-in-aries/) :** Mars chez lui — une énergie directe et entière, prompte à démarrer comme à s’emporter.
+- **[Mars en Bélier](/astrology/mars-in-aries/) :** Mars en domicile — une énergie directe et entière, prompte à démarrer comme à s’emporter.
 - **[Jupiter en Bélier](/astrology/jupiter-in-aries/) :** la foi dans l’initiative ; vous grandissez en tentant votre chance, et en encourageant les autres à tenter la leur.
 - **[Saturne en Bélier](/astrology/saturn-in-aries/) :** une confiance qui se construit lentement ; se fier à son propre élan, agir sans attendre la permission, cela vient avec le temps.
 - **[Uranus en Bélier](/astrology/uranus-in-aries/) :** le besoin de rupture et de nouveaux départs d’une génération, partagé par toutes les personnes nées sur environ sept ans ; sa maison le rend personnel.
-- **[Neptune en Bélier](/astrology/neptune-in-aries/) :** un idéal qui veut agir, pas seulement rêver ; il est partagé par toutes les personnes nées sur environ quatorze ans, alors je le lis par sa maison.
+- **[Neptune en Bélier](/astrology/neptune-in-aries/) :** un idéal qui veut agir, pas seulement rêver ; ce placement est partagé par toutes les personnes nées sur environ quatorze ans, alors je le lis par sa maison.
 - **[Pluton en Bélier](/astrology/pluto-in-aries/) :** le besoin profond d’une génération de tout recommencer et de reprendre la main ; partagé sur douze ans ou plus, rendu personnel par sa maison.
 
 ## Le Bélier sur une cuspide {#sur-une-cuspide}
 
-Chaque thème a le Bélier quelque part dans ses douze maisons, le plus souvent sur la cuspide — la ligne de départ — de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Bélier ouvre une maison, vous agissez d’abord et posez les questions ensuite, et Mars, où qu’il soit, dit où l’histoire continue. Laquelle, c’est votre heure de naissance qui le décide.
+Chaque thème a le Bélier quelque part dans ses douze maisons, le plus souvent sur la cuspide — la ligne de départ — de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Bélier ouvre une maison, vous agissez d’abord et posez les questions ensuite, et Mars, quelle que soit sa place, dit où l’histoire continue. Laquelle, c’est votre heure de naissance qui le décide.
 
 1. **[Maison I](/astrology/aries-rising/) :** l’ascendant Bélier — vous abordez la vie de front, avec franchise et vivacité, et l’on voit en vous quelqu’un qui fait bouger les choses.
 2. **[Maison II](/astrology/aries-on-2nd-house-cusp/) :** l’envie de gagner votre vie à votre façon, par votre propre initiative ; les décisions d’argent se prennent vite, et attendre avant de dépenser est ce qui s’apprend.

@@ -15,9 +15,9 @@ facts:
   - { k: "Dates (Soleil)", v: "Environ du 19 février au 20 mars" }
   - { k: "Élément", v: "Eau" }
   - { k: "Mode", v: "Mutable" }
-  - { k: "Maître", v: "Neptune (moderne), Jupiter (traditionnel)" }
-  - { k: "Exalté ici", v: "Vénus" }
-  - { k: "Affaiblis ici", v: "Mercure (exil et chute)" }
+  - { k: "Maître", v: "Neptune (astrologie moderne), Jupiter (tradition)" }
+  - { k: "Exaltation", v: "Vénus" }
+  - { k: "Exil et chute", v: "Mercure (exil et chute)" }
   - { k: "Signe opposé", v: "Vierge" }
   - { k: "Maison naturelle", v: "La maison 12" }
 related: ["/astrology/neptune", "/astrology/jupiter", "/astrology/virgo", "/astrology/12th-house", "/astrology/water-signs"]
@@ -25,7 +25,7 @@ faq:
   - q: "Quelles sont les dates des Poissons ?"
     a: "Le Soleil est en Poissons environ du 19 février au 20 mars, et les quitte à l’équinoxe de mars. Le moment exact où il change de signe varie d’un jour environ d’une année à l’autre : si votre naissance tombe près de l’une des deux limites, votre date, votre heure et votre lieu de naissance permettent de trancher."
   - q: "Quelle est la planète maîtresse des Poissons ?"
-    a: "Les Poissons en ont deux. Jupiter les gouvernait dans l’astrologie traditionnelle, comme il gouverne le Sagittaire ; après la découverte de Neptune en 1846, les astrologues modernes ont fini par lui donner les Poissons. Les traditionnels gardent Jupiter seul ; beaucoup de modernes lisent d’abord Neptune et gardent Jupiter comme co-maître."
+    a: "Les Poissons en ont deux. Jupiter, maître du Sagittaire, les gouvernait aussi dans l’astrologie traditionnelle ; après la découverte de Neptune en 1846, les astrologues modernes ont fini par lui donner les Poissons. Les traditionnels ne gardent que Jupiter ; beaucoup de modernes lisent d’abord Neptune et gardent Jupiter comme co-maître."
   - q: "Que veut dire un ascendant Poissons ?"
     a: "Que les Poissons se levaient à l’horizon est à la minute de votre naissance. Vous abordez le monde en douceur, en captant l’humeur d’une pièce avant que quiconque parle, et l’on a du mal à vous cerner. Le maître de votre thème est Jupiter, ou Neptune pour les modernes."
   - q: "Avec quels signes les Poissons s’entendent-ils ?"
@@ -51,7 +51,7 @@ Aucun des trois ne fait toute la personne. Dans [mon carnet](/blog/i-tested-my-b
 
 ## Ses maîtres : Neptune et Jupiter {#maitre}
 
-Le maître d’un signe est la planète qui s’y trouve chez elle, et sa place dans votre thème montre où va l’énergie du signe. Les Poissons en ont deux. Pendant l’essentiel de l’histoire de l’astrologie, ils étaient gouvernés par [Jupiter](/astrology/jupiter/), qui gouverne aussi le Sagittaire : en Sagittaire, la foi de Jupiter part à la rencontre du monde ; en Poissons, elle devient compassion. Après la découverte de [Neptune](/astrology/neptune/) en 1846, les astrologues modernes ont fini par lui confier les Poissons, et l’ont lu comme la planète des rêves, du désir d’ailleurs et des contours qui se dissolvent. Les astrologues traditionnels gardent Jupiter seul ; beaucoup de modernes lisent d’abord Neptune et gardent Jupiter comme co-maître (les [maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/) expliquent ce partage). Le signe de Neptune est partagé par toutes les personnes nées sur environ quatorze ans, si bien que c’est sa maison qui le rend personnel ; Jupiter, plus rapide, parle de vous plus directement.
+Le maître d’un signe est la planète qui s’y trouve chez elle, et sa place dans votre thème montre où va l’énergie du signe. Les Poissons en ont deux. Pendant l’essentiel de l’histoire de l’astrologie, ils étaient gouvernés par [Jupiter](/astrology/jupiter/), qui gouverne aussi le Sagittaire : en Sagittaire, la foi de Jupiter part à la rencontre du monde ; en Poissons, elle devient compassion. Après la découverte de [Neptune](/astrology/neptune/) en 1846, les astrologues modernes ont fini par lui confier les Poissons, et y ont vu la planète des rêves, du désir d’ailleurs et des contours qui se dissolvent. Les astrologues traditionnels ne gardent que Jupiter ; beaucoup de modernes lisent d’abord Neptune et gardent Jupiter comme co-maître (les [maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/) expliquent ce partage). Le signe de Neptune est partagé par toutes les personnes nées sur environ quatorze ans, si bien que c’est sa maison qui le rend personnel ; Jupiter, plus rapide, parle de vous plus directement. Je lis les deux, et je vous dis ce que chacun raconte.
 
 [Vénus](/astrology/venus/) est en [exaltation](/astrology/exaltation/) en Poissons : l’amour à son plus généreux et à son plus indulgent. [Mercure](/astrology/mercury/) y est à la fois en [exil](/astrology/detriment/), à l’opposé de son domicile de la Vierge, et en [chute](/astrology/fall/), à l’opposé de son exaltation en Vierge — la seule planète affaiblie deux fois dans le même signe. Cela ne fait pas un esprit terne. Cela fait un esprit qui pense en images et en sensations plutôt qu’en listes, et qui doit travailler à mettre en mots ce qu’il perçoit.
 
@@ -62,17 +62,17 @@ Toutes les planètes traversent les Poissons, de la Lune, qui y passe environ de
 - **[Soleil en Poissons](/astrology/sun-in-pisces/) :** un moi qui grandit par l’imagination, l’empathie et la foi, et qui doit apprendre ses propres contours.
 - **[Lune en Poissons](/astrology/moon-in-pisces/) :** des émotions qui absorbent l’ambiance ; vous avez besoin de retrait pour vous remettre, et consolez sans qu’on vous le demande.
 - **[Mercure en Poissons](/astrology/mercury-in-pisces/) :** Mercure en exil et en chute : une pensée en images, en musique et en intuitions ; le travail consiste à mettre des mots sur ce que vous percevez.
-- **[Vénus en Poissons](/astrology/venus-in-pisces/) :** Vénus exaltée : l’amour comme dévouement et compassion ; indulgent, romantique, et qui a besoin de limites.
+- **[Vénus en Poissons](/astrology/venus-in-pisces/) :** Vénus en exaltation : l’amour comme dévouement et compassion ; indulgent, romantique, et qui a besoin de limites.
 - **[Mars en Poissons](/astrology/mars-in-pisces/) :** une énergie qui contourne les obstacles plutôt que de les traverser ; vous agissez mieux pour les autres ou pour un rêve.
-- **[Jupiter en Poissons](/astrology/jupiter-in-pisces/) :** Jupiter chez lui dans la tradition : générosité, foi et compassion à grande échelle.
-- **[Saturne en Poissons](/astrology/saturn-in-pisces/) :** partagée par toutes les personnes nées sur environ deux ans et demi : des limites apprises autour de la compassion, et une structure donnée aux rêves.
-- **[Uranus en Poissons](/astrology/uranus-in-pisces/) :** partagé par toutes les personnes nées sur environ sept ans : des intuitions soudaines, et de nouvelles formes d’art et de foi. Sa maison montre où.
-- **[Neptune en Poissons](/astrology/neptune-in-pisces/) :** Neptune chez lui en astrologie moderne : les frontières entre les gens, l’art et la foi deviennent minces. Toutes les personnes nées avec lui sont encore des enfants : je le lirai quand elles seront en âge de le demander.
-- **[Pluton en Poissons](/astrology/pluto-in-pisces/) :** aucune personne en vie aujourd’hui n’est née avec lui. Le dernier passage de Pluton en Poissons s’est achevé bien avant nous, et le prochain est encore loin.
+- **[Jupiter en Poissons](/astrology/jupiter-in-pisces/) :** Jupiter en domicile dans la tradition : générosité, foi et compassion à grande échelle.
+- **[Saturne en Poissons](/astrology/saturn-in-pisces/) :** un placement partagé par toutes les personnes nées sur environ deux ans et demi : des limites apprises autour de la compassion, et une structure donnée aux rêves.
+- **[Uranus en Poissons](/astrology/uranus-in-pisces/) :** un placement partagé par toutes les personnes nées sur environ sept ans : des intuitions soudaines, et de nouvelles formes d’art et de foi. Sa maison montre où.
+- **[Neptune en Poissons](/astrology/neptune-in-pisces/) :** Neptune en domicile selon l’astrologie moderne : les frontières entre les gens, l’art et la foi deviennent minces. Toutes les personnes nées avec ce placement sont encore des enfants : je le lirai quand elles seront en âge de le demander.
+- **[Pluton en Poissons](/astrology/pluto-in-pisces/) :** aucune personne en vie aujourd’hui n’est née avec ce placement. Le dernier passage de Pluton en Poissons s’est achevé bien avant nous, et le prochain est encore loin.
 
 ## Les Poissons sur une cuspide {#sur-une-cuspide}
 
-Chaque thème a les Poissons quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où les Poissons ouvrent une maison, vos frontières sont les plus souples et votre imagination la plus vive, et Neptune et Jupiter, où qu’ils soient, poursuivent l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
+Chaque thème a les Poissons quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où les Poissons ouvrent une maison, vos frontières sont les plus souples et votre imagination la plus vive, et Neptune et Jupiter, quelle que soit leur place, poursuivent l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
 
 1. **[Maison I](/astrology/pisces-rising/) :** l’ascendant Poissons — une présence douce et réceptive, qui prend la couleur de la pièce.
 2. **[Maison II](/astrology/pisces-on-2nd-house-cusp/) :** un rapport fluide à l’argent, généreux et parfois flou ; vous accordez du prix à ce qui ne s’achète pas.

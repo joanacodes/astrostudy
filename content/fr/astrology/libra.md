@@ -16,8 +16,8 @@ facts:
   - { k: "Élément", v: "Air" }
   - { k: "Mode", v: "Cardinal" }
   - { k: "Maître", v: "Vénus" }
-  - { k: "Exalté ici", v: "Saturne" }
-  - { k: "Affaiblis ici", v: "Mars (exil), le Soleil (chute)" }
+  - { k: "Exaltation", v: "Saturne" }
+  - { k: "Exil et chute", v: "Mars (exil), le Soleil (chute)" }
   - { k: "Signe opposé", v: "Bélier" }
   - { k: "Maison naturelle", v: "La maison 7" }
 related: ["/astrology/venus", "/astrology/aries", "/astrology/7th-house", "/astrology/air-signs", "/astrology/sun-sign-compatibility-and-why-it-isnt-enough"]
@@ -52,7 +52,7 @@ Aucun des trois ne fait toute la personne. Dans [mon carnet](/blog/i-tested-my-b
 
 Le maître d’un signe est la planète qui s’y trouve chez elle, et sa place dans votre thème montre où va l’énergie du signe. La Balance est gouvernée par [Vénus](/astrology/venus/), qui gouverne aussi le Taureau : en Taureau, c’est la Vénus du corps et de ce qu’on garde ; en Balance, celle des accords, de la courtoisie et de la beauté comme juste proportion. Si la Balance est sur la cuspide de votre maison 10 et que Vénus se trouve en maison 4, par exemple, votre vie publique puise dans ce que vous construisez chez vous.
 
-[Saturne](/astrology/saturn/) est en [exaltation](/astrology/exaltation/) en Balance : la tradition voyait la planète des règles et du temps au meilleur d’elle-même là où les règles sont justes et acceptées des deux côtés. [Mars](/astrology/mars/) y est en [exil](/astrology/detriment/), à l’opposé de son domicile du Bélier — un combattant dans le signe de la négociation —, et le [Soleil](/astrology/sun/) en [chute](/astrology/fall/), à l’opposé de son exaltation : le moi doit apprendre à partager la scène. Une planète en exil ou en chute n’est pas abîmée. Elle parle une langue qui n’est pas la sienne, et la parle souvent avec plus de soin que ceux qui l’ont apprise au berceau.
+[Saturne](/astrology/saturn/) est en [exaltation](/astrology/exaltation/) en Balance : la tradition voyait la planète des règles et du temps au meilleur d’elle-même là où les règles sont justes et acceptées des deux côtés. [Mars](/astrology/mars/) y est en [exil](/astrology/detriment/), à l’opposé de son domicile du Bélier — la planète du combat dans le signe de la négociation —, et le [Soleil](/astrology/sun/) en [chute](/astrology/fall/), à l’opposé de son exaltation : le moi doit apprendre à partager la scène. Une planète en exil ou en chute n’est pas abîmée. Elle parle une langue qui n’est pas la sienne, et la parle souvent avec plus de soin que ceux qui l’ont apprise au berceau.
 
 ## Les planètes en Balance {#planetes-dans-le-signe}
 
@@ -61,17 +61,17 @@ Toutes les planètes traversent la Balance un jour ou l’autre : la Lune envir
 - **[Soleil en Balance](/astrology/sun-in-libra/) :** le Soleil en chute : un moi qui grandit par les autres, et qui doit penser à rester dans le tableau.
 - **[Lune en Balance](/astrology/moon-in-libra/) :** le réconfort vient de l’harmonie et de la bonne compagnie ; vous apaisez les autres plus facilement que vous-même.
 - **[Mercure en Balance](/astrology/mercury-in-libra/) :** un esprit de diplomate : vous pensez en pesant les avis et savez dire les choses difficiles avec élégance, même si décider peut prendre un moment.
-- **[Vénus en Balance](/astrology/venus-in-libra/) :** Vénus chez elle : l’amour comme partenariat et courtoisie, un sens fin de la beauté, et le besoin d’un échange juste pour que l’amour paraisse vrai.
+- **[Vénus en Balance](/astrology/venus-in-libra/) :** Vénus en domicile : l’amour comme partenariat et courtoisie, un sens fin de la beauté, et le besoin d’un échange juste pour que l’amour paraisse vrai.
 - **[Mars en Balance](/astrology/mars-in-libra/) :** Mars en exil : vous vous battez mieux pour quelqu’un d’autre ou pour ce qui est juste, et pouvez mettre longtemps à dire ce que vous voulez pour vous-même.
 - **[Jupiter en Balance](/astrology/jupiter-in-libra/) :** on grandit par les partenaires, les accords et les échanges loyaux ; une générosité qui veut que chacun ait sa part.
-- **[Saturne en Balance](/astrology/saturn-in-libra/) :** Saturne exaltée : des engagements pris au sérieux, un sens aigu de la justice, et des relations qui mûrissent lentement et qui tiennent.
-- **[Uranus en Balance](/astrology/uranus-in-libra/) :** partagé par toutes les personnes nées sur environ sept ans : de nouvelles idées sur le couple et l’égalité. Sa maison montre où vous réécrivez les règles du lien.
-- **[Neptune en Balance](/astrology/neptune-in-libra/) :** partagé par toutes les personnes nées sur environ quatorze ans : un idéal d’harmonie parfaite et d’amour parfait. Sa maison montre où vous le cherchez.
-- **[Pluton en Balance](/astrology/pluto-in-libra/) :** partagé par toutes les personnes nées sur de nombreuses années : la relation comme lieu des transformations profondes. Sa maison le rend personnel.
+- **[Saturne en Balance](/astrology/saturn-in-libra/) :** Saturne en exaltation : des engagements pris au sérieux, un sens aigu de la justice, et des relations qui mûrissent lentement et qui tiennent.
+- **[Uranus en Balance](/astrology/uranus-in-libra/) :** un placement partagé par toutes les personnes nées sur environ sept ans : de nouvelles idées sur le couple et l’égalité. Sa maison montre où vous réécrivez les règles du lien.
+- **[Neptune en Balance](/astrology/neptune-in-libra/) :** un placement partagé par toutes les personnes nées sur environ quatorze ans : un idéal d’harmonie parfaite et d’amour parfait. Sa maison montre où vous le cherchez.
+- **[Pluton en Balance](/astrology/pluto-in-libra/) :** un placement partagé par toutes les personnes nées sur de nombreuses années : la relation comme lieu des transformations profondes. Sa maison le rend personnel.
 
 ## La Balance sur une cuspide {#sur-une-cuspide}
 
-Chaque thème a la Balance quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où la Balance ouvre une maison, ce domaine de vie prend sa question — *qu’est-ce qui est juste ici, et avec qui ?* — et Vénus, où qu’elle soit, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
+Chaque thème a la Balance quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où la Balance ouvre une maison, ce domaine de vie prend sa question — *qu’est-ce qui est juste ici, et avec qui ?* — et Vénus, quelle que soit sa place, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
 
 1. **[Maison I](/astrology/libra-rising/) :** l’ascendant Balance — vous abordez le monde avec grâce et diplomatie, et c’est souvent vers vous qu’on se tourne pour garder la paix.
 2. **[Maison II](/astrology/libra-on-2nd-house-cusp/) :** l’argent et les biens sont une affaire d’équité et de goût ; vous pouvez gagner votre vie par les relations, la beauté ou la négociation.

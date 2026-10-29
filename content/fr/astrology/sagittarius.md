@@ -16,8 +16,8 @@ facts:
   - { k: "Élément", v: "Feu" }
   - { k: "Mode", v: "Mutable" }
   - { k: "Maître", v: "Jupiter" }
-  - { k: "Exalté ici", v: "Aucune planète, dans le schéma classique" }
-  - { k: "Affaiblis ici", v: "Mercure (exil)" }
+  - { k: "Exaltation", v: "Aucune planète, dans le schéma classique" }
+  - { k: "Exil et chute", v: "Mercure (exil)" }
   - { k: "Signe opposé", v: "Gémeaux" }
   - { k: "Maison naturelle", v: "La maison 9" }
 related: ["/astrology/jupiter", "/astrology/gemini", "/astrology/9th-house", "/astrology/fire-signs", "/astrology/ophiuchus-and-the-13th-sign"]
@@ -25,7 +25,7 @@ faq:
   - q: "Quelles sont les dates du Sagittaire ?"
     a: "Le Soleil est en Sagittaire environ du 22 novembre au 21 décembre. Le moment exact où il change de signe varie d’un jour environ d’une année à l’autre : si votre naissance tombe près de l’une des deux limites, votre date, votre heure et votre lieu de naissance permettent de trancher."
   - q: "Quelle est la planète maîtresse du Sagittaire ?"
-    a: "Jupiter, la plus grande planète, à qui la tradition donnait aussi les Poissons. Les astrologues y lisent la croissance, la foi et la générosité, et en Sagittaire il est chez lui. La place de Jupiter dans votre thème montre où vos placements en Sagittaire vont chercher du sens."
+    a: "Jupiter, la plus grande planète, à qui la tradition donnait aussi les Poissons. Les astrologues y lisent la croissance, la foi et la générosité, et le Sagittaire est son domicile. La place de Jupiter dans votre thème montre où vos placements en Sagittaire vont chercher du sens."
   - q: "Que veut dire un ascendant Sagittaire ?"
     a: "Que le Sagittaire se levait à l’horizon est à la minute de votre naissance. Vous abordez le monde avec ouverture, humour et franchise, et vous avez besoin d’espace pour bouger. Jupiter devient le maître de votre thème. Pour le connaître, il faut une heure de naissance précise."
   - q: "Avec quels signes le Sagittaire s’entend-il ?"
@@ -63,15 +63,15 @@ Toutes les planètes traversent le Sagittaire un jour ou l’autre : la Lune en
 - **[Mercure en Sagittaire](/astrology/mercury-in-sagittarius/) :** Mercure en exil : une pensée qui voit grand, une parole franche, un don pour enseigner, tandis que les détails peuvent filer.
 - **[Vénus en Sagittaire](/astrology/venus-in-sagittarius/) :** l’amour comme une aventure partagée ; il vous faut une relation qui soit aussi une amitié et un voyage à deux, avec de l’air pour respirer.
 - **[Mars en Sagittaire](/astrology/mars-in-sagittarius/) :** une énergie nourrie d’enthousiasme et de causes ; vous agissez vite pour ce en quoi vous croyez, et vous vous désintéressez du reste.
-- **[Jupiter en Sagittaire](/astrology/jupiter-in-sagittarius/) :** Jupiter chez lui : optimisme, générosité et foi en l’avenir, avec le risque de promettre plus qu’une seule personne ne peut donner.
-- **[Saturne en Sagittaire](/astrology/saturn-in-sagittarius/) :** partagée par toutes les personnes nées sur environ deux ans et demi : des convictions gagnées à la dure, après avoir douté de celles qu’on vous avait données.
-- **[Uranus en Sagittaire](/astrology/uranus-in-sagittarius/) :** partagé par toutes les personnes nées sur environ sept ans : des idées radicales et remuantes sur la foi, le voyage et le savoir. Sa maison montre où.
-- **[Neptune en Sagittaire](/astrology/neptune-in-sagittarius/) :** partagé par toutes les personnes nées sur environ quatorze ans : une soif de foi, de lointains et d’un sens plus grand. Sa maison le rend personnel.
-- **[Pluton en Sagittaire](/astrology/pluto-in-sagittarius/) :** partagé par toutes les personnes nées sur de nombreuses années : des croyances et des vérités transformées, parfois de fond en comble. Sa maison dit où.
+- **[Jupiter en Sagittaire](/astrology/jupiter-in-sagittarius/) :** Jupiter en domicile : optimisme, générosité et foi en l’avenir, avec le risque de promettre plus qu’une seule personne ne peut donner.
+- **[Saturne en Sagittaire](/astrology/saturn-in-sagittarius/) :** un placement partagé par toutes les personnes nées sur environ deux ans et demi : des convictions gagnées à la dure, après avoir douté de celles qu’on vous avait données.
+- **[Uranus en Sagittaire](/astrology/uranus-in-sagittarius/) :** un placement partagé par toutes les personnes nées sur environ sept ans : des idées radicales et remuantes sur la foi, le voyage et le savoir. Sa maison montre où.
+- **[Neptune en Sagittaire](/astrology/neptune-in-sagittarius/) :** un placement partagé par toutes les personnes nées sur environ quatorze ans : une soif de foi, de lointains et d’un sens plus grand. Sa maison le rend personnel.
+- **[Pluton en Sagittaire](/astrology/pluto-in-sagittarius/) :** un placement partagé par toutes les personnes nées sur de nombreuses années : des croyances et des vérités transformées, parfois de fond en comble. Sa maison dit où.
 
 ## Le Sagittaire sur une cuspide {#sur-une-cuspide}
 
-Chaque thème a le Sagittaire quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Sagittaire ouvre une maison, vous voulez de l’espace, du sens et de quoi grandir, et Jupiter, où qu’il soit, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
+Chaque thème a le Sagittaire quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Sagittaire ouvre une maison, vous voulez de l’espace, du sens et de quoi grandir, et Jupiter, quelle que soit sa place, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
 
 1. **[Maison I](/astrology/sagittarius-rising/) :** l’ascendant Sagittaire — une présence ouverte, franche et remuante ; vous abordez les gens comme si la conversation avait déjà commencé.
 2. **[Maison II](/astrology/sagittarius-on-2nd-house-cusp/) :** l’argent comme liberté plutôt que comme sécurité, avec une générosité et un optimisme parfois excessifs ; vous pouvez gagner votre vie par l’enseignement, le voyage ou les idées.

@@ -16,8 +16,8 @@ facts:
   - { k: "Élément", v: "Feu" }
   - { k: "Mode", v: "Fixe" }
   - { k: "Maître", v: "Le Soleil" }
-  - { k: "Exalté ici", v: "Aucune planète, dans le schéma classique" }
-  - { k: "Affaiblis ici", v: "Saturne et Uranus (exil)" }
+  - { k: "Exaltation", v: "Aucune planète, dans le schéma classique" }
+  - { k: "Exil et chute", v: "Saturne et Uranus (exil)" }
   - { k: "Signe opposé", v: "Verseau" }
   - { k: "Maison naturelle", v: "La maison 5" }
 related: ["/astrology/sun-in-leo", "/astrology/leo-rising", "/astrology/sun", "/astrology/aquarius", "/blog/i-tested-my-birth-chart"]
@@ -61,7 +61,7 @@ Dans le schéma classique, aucune planète n’est exaltée en Lion ni n’y tom
 
 Une planète en Lion se réchauffe et cherche un public ; la maison où elle se trouve dit où cela se joue.
 
-- **[Soleil en Lion](/astrology/sun-in-leo/) :** le Soleil chez lui — une volonté chaleureuse et créative ; vous rayonnez en faisant des choses et en les partageant.
+- **[Soleil en Lion](/astrology/sun-in-leo/) :** le Soleil en domicile — une volonté chaleureuse et créative ; vous rayonnez en faisant des choses et en les partageant.
 - **[Lune en Lion](/astrology/moon-in-leo/) :** un besoin de chaleur, de jeu et d’attention ; une grande générosité affective, et de la peine quand elle passe inaperçue.
 - **[Mercure en Lion](/astrology/mercury-in-leo/) :** un esprit vif et expressif ; vous parlez avec conviction et savez raconter une histoire.
 - **[Vénus en Lion](/astrology/venus-in-leo/) :** un amour généreux et démonstratif ; vous aimez de tout votre cœur, et aimez qu’on vous adore un peu en retour.
@@ -69,12 +69,12 @@ Une planète en Lion se réchauffe et cherche un public ; la maison où elle s
 - **[Jupiter en Lion](/astrology/jupiter-in-leo/) :** grandir par la générosité et l’audace créative ; un grand cœur et le sens de la fête.
 - **[Saturne en Lion](/astrology/saturn-in-leo/) :** Saturne en exil — la confiance et l’expression de soi apprises lentement ; une joie qu’il a fallu s’autoriser.
 - **[Uranus en Lion](/astrology/uranus-in-leo/) :** Uranus en exil — une génération qui veut s’exprimer selon ses propres règles ; ce placement est partagé par toutes les personnes nées sur environ sept ans, et sa maison le rend personnel.
-- **[Neptune en Lion](/astrology/neptune-in-leo/) :** un idéal de romance, de création et d’éclat ; il est partagé par toutes les personnes nées sur environ quatorze ans, alors je le lis par sa maison.
+- **[Neptune en Lion](/astrology/neptune-in-leo/) :** un idéal de romance, de création et d’éclat ; ce placement est partagé par toutes les personnes nées sur environ quatorze ans, alors je le lis par sa maison.
 - **[Pluton en Lion](/astrology/pluto-in-leo/) :** une génération qui transforme en profondeur l’expression de soi et le pouvoir personnel ; un placement partagé sur douze ans ou plus, que sa maison rend personnel.
 
 ## Le Lion sur une cuspide {#sur-une-cuspide}
 
-Chaque thème a le Lion quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Lion ouvre une maison, vous voulez y mettre du cœur, et que cela se voie, et le Soleil, où qu’il soit, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
+Chaque thème a le Lion quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Lion ouvre une maison, vous voulez y mettre du cœur, et que cela se voie, et le Soleil, quelle que soit sa place, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
 
 1. **[Maison I](/astrology/leo-rising/) :** l’ascendant Lion — une présence chaleureuse qu’on remarque ; vous abordez le monde avec générosité, et l’on se souvient de vous.
 2. **[Maison II](/astrology/leo-on-2nd-house-cusp/) :** de la générosité avec ce que vous avez ; vous aimez la qualité et les choses qui vous ressemblent, et votre fierté tient à gagner votre vie par vous-même.

@@ -15,9 +15,9 @@ facts:
   - { k: "Dates (Soleil)", v: "Environ du 20 janvier au 18 février" }
   - { k: "Élément", v: "Air" }
   - { k: "Mode", v: "Fixe" }
-  - { k: "Maître", v: "Uranus (moderne), Saturne (traditionnel)" }
-  - { k: "Exalté ici", v: "Aucune planète, dans le schéma classique" }
-  - { k: "Affaiblis ici", v: "Le Soleil (exil)" }
+  - { k: "Maître", v: "Uranus (astrologie moderne), Saturne (tradition)" }
+  - { k: "Exaltation", v: "Aucune planète, dans le schéma classique" }
+  - { k: "Exil et chute", v: "Le Soleil (exil)" }
   - { k: "Signe opposé", v: "Lion" }
   - { k: "Maison naturelle", v: "La maison 11" }
 related: ["/astrology/uranus", "/astrology/saturn", "/astrology/leo", "/astrology/11th-house", "/astrology/traditional-and-modern-rulers"]
@@ -25,7 +25,7 @@ faq:
   - q: "Quelles sont les dates du Verseau ?"
     a: "Le Soleil est en Verseau environ du 20 janvier au 18 février. Le moment exact où il change de signe varie d’un jour environ d’une année à l’autre : si votre naissance tombe près de l’une des deux limites, votre date, votre heure et votre lieu de naissance permettent de trancher."
   - q: "Quelle est la planète maîtresse du Verseau ?"
-    a: "Le Verseau en a deux. Saturne le gouvernait dans l’astrologie traditionnelle, comme elle gouverne le Capricorne ; après la découverte d’Uranus par William Herschel en 1781, les astrologues modernes ont fini par lui donner le Verseau. Les traditionnels gardent Saturne seule ; beaucoup de modernes lisent d’abord Uranus et gardent Saturne comme co-maître."
+    a: "Le Verseau en a deux. Saturne, maître du Capricorne, le gouvernait aussi dans l’astrologie traditionnelle ; après la découverte d’Uranus par William Herschel en 1781, les astrologues modernes ont fini par lui donner le Verseau. Les traditionnels ne gardent que Saturne ; beaucoup de modernes lisent d’abord Uranus et gardent Saturne comme co-maître."
   - q: "Que veut dire un ascendant Verseau ?"
     a: "Que le Verseau se levait à l’horizon est à la minute de votre naissance. Vous abordez les gens de façon amicale, curieuse et un peu détachée, et l’on se souvient de vous comme d’une personne un peu à part. Le maître de votre thème est Saturne, ou Uranus pour les modernes. Il faut une heure de naissance précise."
   - q: "Avec quels signes le Verseau s’entend-il ?"
@@ -47,11 +47,11 @@ Trois placements amènent la plupart des gens ici :
 - **[Lune en Verseau](/astrology/moon-in-aquarius/) :** vous vous sentez en sécurité avec de l’espace, et avec des amitiés qui ne vous étouffent pas. Vous comprenez vos émotions en y réfléchissant, ce qui peut ressembler, vu de l’extérieur, à de la distance.
 - **[Ascendant Verseau](/astrology/aquarius-rising/) :** vous abordez le monde de façon amicale, curieuse et un peu détachée, et l’on se souvient de vous comme d’une personne un peu à part. Avec deux maîtres, il y a deux planètes à regarder comme [maître du thème](/astrology/chart-ruler/) : Saturne et Uranus. Un ascendant demande votre [heure de naissance](/blog/unknown-birth-time/) : il change de signe toutes les deux heures environ.
 
-Aucun des trois ne fait toute la personne. Dans [mon carnet](/blog/i-tested-my-birth-chart/), le signe solaire et l’ascendant ont chacun tenu environ une fois sur trois, et la Lune, vérifiée comme tous les autres placements, ne faisait pas partie des trois qui ont tenu bien plus souvent. Le maître traditionnel du Verseau, lui, en faisait partie : Saturne a tenu 75 à 90 % du temps, et dans un thème où le Verseau pèse lourd, je ne la saute jamais.
+Aucun des trois ne fait toute la personne. Dans [mon carnet](/blog/i-tested-my-birth-chart/), le signe solaire et l’ascendant ont chacun tenu environ une fois sur trois, et la Lune, vérifiée comme tous les autres placements, ne faisait pas partie des trois qui ont tenu bien plus souvent. Le maître traditionnel du Verseau, lui, en faisait partie : Saturne a tenu 75 à 90 % du temps, et dans un thème où le Verseau pèse lourd, je ne saute jamais Saturne.
 
 ## Ses maîtres : Uranus et Saturne {#maitre}
 
-Le maître d’un signe est la planète qui s’y trouve chez elle, et sa place dans votre thème montre où va l’énergie du signe. Le Verseau en a deux. Pendant l’essentiel de l’histoire de l’astrologie, il était gouverné par [Saturne](/astrology/saturn/), qui gouverne aussi le Capricorne : en Capricorne, Saturne bâtit pour le long terme ; en Verseau, elle bâtit des systèmes et des règles pour le groupe. Après la découverte d’[Uranus](/astrology/uranus/) par William Herschel en 1781, les astrologues modernes ont fini par lui confier le Verseau, et l’ont lu comme la planète des changements soudains, de l’indépendance et de l’invention. Les astrologues traditionnels gardent Saturne seule ; beaucoup de modernes lisent d’abord Uranus et gardent Saturne comme co-maître (les [maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/) expliquent ce partage). Ensemble, ils décrivent bien le Verseau : le rebelle et celui qui écrit les règles. Le signe d’Uranus est partagé par toutes les personnes nées sur environ sept ans, si bien que c’est sa maison qui le rend personnel.
+Le maître d’un signe est la planète qui s’y trouve chez elle, et sa place dans votre thème montre où va l’énergie du signe. Le Verseau en a deux. Pendant l’essentiel de l’histoire de l’astrologie, il était gouverné par [Saturne](/astrology/saturn/), qui gouverne aussi le Capricorne : en Capricorne, Saturne bâtit pour le long terme ; en Verseau, des systèmes et des règles pour le groupe. Après la découverte d’[Uranus](/astrology/uranus/) par William Herschel en 1781, les astrologues modernes ont fini par lui confier le Verseau, et y ont vu la planète des changements soudains, de l’indépendance et de l’invention. Les astrologues traditionnels ne gardent que Saturne ; beaucoup de modernes lisent d’abord Uranus et gardent Saturne comme co-maître (les [maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/) expliquent ce partage). Ensemble, ces deux planètes décrivent bien le Verseau : un signe qui se rebelle et qui écrit les règles. Le signe d’Uranus est partagé par toutes les personnes nées sur environ sept ans, si bien que c’est sa maison qui le rend personnel ; Saturne, plus rapide, parle de vous plus directement. Je lis les deux, et je vous dis ce que chacun raconte.
 
 La tradition n’exalte aucune planète en Verseau, et aucune n’y est en chute. Le [Soleil](/astrology/sun/) y est en [exil](/astrology/detriment/), à l’opposé de son domicile du Lion : la planète de l’individu dans le signe du collectif. Ce n’est pas un Soleil terne. C’est un moi qui se trouve parmi les autres, et qui doit apprendre à y rester lui-même.
 
@@ -65,14 +65,14 @@ Toutes les planètes traversent le Verseau, de la Lune, qui y passe environ deux
 - **[Vénus en Verseau](/astrology/venus-in-aquarius/) :** un amour qui commence par l’amitié ; il vous faut de l’égalité, de l’espace, et quelqu’un qui accepte votre originalité.
 - **[Mars en Verseau](/astrology/mars-in-aquarius/) :** une énergie au service des causes et du groupe ; vous agissez contre les règles qui n’ont pas de sens.
 - **[Jupiter en Verseau](/astrology/jupiter-in-aquarius/) :** on grandit par les réseaux, les amitiés et les idées neuves ; une générosité tournée vers le grand nombre plutôt que vers quelques-uns.
-- **[Saturne en Verseau](/astrology/saturn-in-aquarius/) :** Saturne chez elle dans la tradition, partagée par toutes les personnes nées sur environ deux ans et demi : des règles au service du groupe, et des responsabilités dans les communautés.
-- **[Uranus en Verseau](/astrology/uranus-in-aquarius/) :** Uranus chez lui en astrologie moderne, partagé par toutes les personnes nées sur environ sept ans : l’indépendance et l’invention. Sa maison montre où vous ouvrez des voies nouvelles.
-- **[Neptune en Verseau](/astrology/neptune-in-aquarius/) :** partagé par toutes les personnes nées sur environ quatorze ans : l’idéal d’un monde relié et plus juste. Sa maison le rend personnel.
-- **[Pluton en Verseau](/astrology/pluto-in-aquarius/) :** Pluton n’est entré en Verseau que récemment, si bien que toutes les personnes nées avec lui sont encore des enfants. Pour les adultes, c’est un transit : la maison qu’il traverse dans votre thème est celle où sa lente pression se fait sentir — le temps qu’il fait, pas une prédiction.
+- **[Saturne en Verseau](/astrology/saturn-in-aquarius/) :** Saturne en domicile dans la tradition, un placement partagé par toutes les personnes nées sur environ deux ans et demi : des règles au service du groupe, et des responsabilités dans les communautés.
+- **[Uranus en Verseau](/astrology/uranus-in-aquarius/) :** Uranus en domicile selon l’astrologie moderne, un placement partagé par toutes les personnes nées sur environ sept ans : l’indépendance et l’invention. Sa maison montre où vous ouvrez des voies nouvelles.
+- **[Neptune en Verseau](/astrology/neptune-in-aquarius/) :** un placement partagé par toutes les personnes nées sur environ quatorze ans : l’idéal d’un monde relié et plus juste. Sa maison le rend personnel.
+- **[Pluton en Verseau](/astrology/pluto-in-aquarius/) :** Pluton n’a fait son entrée en Verseau que récemment, si bien que toutes les personnes nées avec ce placement sont encore des enfants. Pour les adultes, c’est un transit : la maison que Pluton traverse dans votre thème est celle où sa lente pression se fait sentir — le temps qu’il fait, pas une prédiction.
 
 ## Le Verseau sur une cuspide {#sur-une-cuspide}
 
-Chaque thème a le Verseau quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Verseau ouvre une maison, vous faites les choses à votre façon en pensant au groupe, et Uranus et Saturne, où qu’ils soient, poursuivent l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
+Chaque thème a le Verseau quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Verseau ouvre une maison, vous faites les choses à votre façon en pensant au groupe, et Uranus et Saturne, quelle que soit leur place, poursuivent l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
 
 1. **[Maison I](/astrology/aquarius-rising/) :** l’ascendant Verseau — une présence amicale et indépendante, un peu à l’écart de la foule même quand vous êtes dedans.
 2. **[Maison II](/astrology/aquarius-on-2nd-house-cusp/) :** un rapport peu conventionnel à l’argent ; vous pouvez gagner votre vie par la technique, les réseaux ou les idées, et la liberté compte plus que les possessions.

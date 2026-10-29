@@ -16,8 +16,8 @@ facts:
   - { k: "Élément", v: "Eau" }
   - { k: "Mode", v: "Cardinal" }
   - { k: "Maître", v: "La Lune" }
-  - { k: "Exalté ici", v: "Jupiter" }
-  - { k: "Affaiblis ici", v: "Saturne (exil), Mars (chute)" }
+  - { k: "Exaltation", v: "Jupiter" }
+  - { k: "Exil et chute", v: "Saturne (exil), Mars (chute)" }
   - { k: "Signe opposé", v: "Capricorne" }
   - { k: "Maison naturelle", v: "La maison 4" }
 related: ["/astrology/sun-in-cancer", "/astrology/cancer-rising", "/astrology/moon", "/astrology/capricorn", "/blog/i-tested-my-birth-chart"]
@@ -56,26 +56,26 @@ Trois autres planètes entretiennent un lien particulier avec le Cancer :
 
 - [Jupiter](/astrology/jupiter/) y est en [exaltation](/astrology/exaltation/) : la générosité y trouve sa forme la plus chaleureuse, dans le soin, la protection et une table bien garnie.
 - [Mars](/astrology/mars/) y est en [chute](/astrology/fall/) : la colère y prend des chemins détournés plutôt que d’aller droit au problème, et elle défend mieux qu’elle n’attaque. Je lis cette position comme protectrice, pas comme faible.
-- [Saturne](/astrology/saturn/) y est en [exil](/astrology/detriment/), face au Capricorne, le signe qu’elle gouverne : la structure y rencontre l’émotion, et la leçon porte sur les limites affectives — non pas se durcir, mais savoir où l’on s’arrête et où l’autre commence.
+- [Saturne](/astrology/saturn/) y est en [exil](/astrology/detriment/), face au Capricorne, son propre signe : la structure y rencontre l’émotion, et la leçon porte sur les limites affectives — non pas se durcir, mais savoir où l’on s’arrête et où l’autre commence.
 
 ## Les planètes en Cancer {#planetes-dans-le-signe}
 
 Une planète en Cancer devient protectrice et n’oublie rien ; la maison où elle se trouve dit où cela se joue.
 
 - **[Soleil en Cancer](/astrology/sun-in-cancer/) :** une volonté protectrice ; vous grandissez en veillant sur les autres et en gardant ce qui compte.
-- **[Lune en Cancer](/astrology/moon-in-cancer/) :** la Lune chez elle — des émotions profondes, une longue mémoire, un fort besoin de foyer et d’appartenance.
+- **[Lune en Cancer](/astrology/moon-in-cancer/) :** la Lune en domicile — des émotions profondes, une longue mémoire, un fort besoin de foyer et d’appartenance.
 - **[Mercure en Cancer](/astrology/mercury-in-cancer/) :** un esprit qui avance au ressenti ; vous retenez la façon dont les choses ont été dites autant que ce qui a été dit.
 - **[Vénus en Cancer](/astrology/venus-in-cancer/) :** un amour tendre et fidèle ; vous le montrez en prenant soin de l’autre, et il vous faut de la sécurité avant de vous ouvrir.
 - **[Mars en Cancer](/astrology/mars-in-cancer/) :** Mars en chute — une énergie qui protège plutôt qu’elle n’attaque ; une colère qui sort de biais quand elle n’est pas nommée.
-- **[Jupiter en Cancer](/astrology/jupiter-in-cancer/) :** Jupiter exalté — généreux et nourricier, à son meilleur quand il veille sur les autres.
+- **[Jupiter en Cancer](/astrology/jupiter-in-cancer/) :** Jupiter en exaltation — une générosité nourricière, à son meilleur quand vous veillez sur les autres.
 - **[Saturne en Cancer](/astrology/saturn-in-cancer/) :** Saturne en exil — une sécurité affective apprise lentement ; des limites autour des émotions et de la famille qui prennent du temps à se construire.
 - **[Uranus en Cancer](/astrology/uranus-in-cancer/) :** une génération qui change ce que peuvent être un foyer et une famille ; ce placement est partagé par toutes les personnes nées sur environ sept ans, et sa maison le rend personnel.
-- **[Neptune en Cancer](/astrology/neptune-in-cancer/) :** un idéal de foyer, de terre natale et d’appartenance ; il est partagé par toutes les personnes nées sur environ quatorze ans, alors je le lis par sa maison.
+- **[Neptune en Cancer](/astrology/neptune-in-cancer/) :** un idéal de foyer, de terre natale et d’appartenance ; ce placement est partagé par toutes les personnes nées sur environ quatorze ans, alors je le lis par sa maison.
 - **[Pluton en Cancer](/astrology/pluto-in-cancer/) :** une génération qui transforme en profondeur la famille et la sécurité ; un placement partagé sur douze ans ou plus, que sa maison rend personnel.
 
 ## Le Cancer sur une cuspide {#sur-une-cuspide}
 
-Chaque thème a le Cancer quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Cancer ouvre une maison, vous protégez et vous nourrissez, et la Lune, où qu’elle soit, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
+Chaque thème a le Cancer quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Cancer ouvre une maison, vous protégez et vous nourrissez, et la Lune, quelle que soit sa place, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
 
 1. **[Maison I](/astrology/cancer-rising/) :** l’ascendant Cancer — une présence attentive et bienveillante ; de la réserve d’abord, de la chaleur une fois en confiance.
 2. **[Maison II](/astrology/cancer-on-2nd-house-cusp/) :** l’argent et les biens comme source de sécurité ; vous gardez les choses pour ce qu’elles signifient, et aimez avoir un peu de côté.
