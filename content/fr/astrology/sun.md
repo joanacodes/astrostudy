@@ -17,8 +17,8 @@ facts:
   - { k: "Un tour du zodiaque", v: "Un an" }
   - { k: "Temps dans chaque signe", v: "Environ 30 jours" }
   - { k: "Maîtrise", v: "Lion" }
-  - { k: "Exalté en", v: "Bélier" }
-  - { k: "Affaibli en", v: "Verseau (exil), Balance (chute)" }
+  - { k: "Exaltation", v: "Bélier" }
+  - { k: "Exil et chute", v: "Verseau (exil), Balance (chute)" }
   - { k: "Rétrograde", v: "Jamais" }
   - { k: "Dans mes tests", v: "Le signe solaire a tenu environ une fois sur trois" }
 related: ["/astrology/moon", "/astrology/ascendant", "/astrology/leo", "/astrology/saturn", "/blog/saturn-chiron-lilith"]
@@ -84,7 +84,7 @@ Le Soleil passe environ un mois dans chaque signe : votre signe solaire vient d
 
 ## Le Soleil en synastrie {#en-synastrie}
 
-En [synastrie](/synastry/), le Soleil montre où l’un éclaire l’autre. Le contact sur lequel les astrologues ont le plus écrit, c’est [le Soleil de l’un sur la Lune de l’autre](/astrology/sun-conjunct-moon-synastry/) — l’élan qui rencontre le besoin — et il ressemble souvent à une reconnaissance. Quand le Soleil touche la Vénus de l’autre, il y a de la chaleur et de l’admiration ; quand il rencontre sa [Saturne](/astrology/saturn/), le lien peut sembler stabilisant ou pesant, selon la façon dont chacun vit la structure. Je lis toujours les contacts du Soleil dans les deux sens : qui éclaire qui n’est pas toujours réciproque.
+En [synastrie](/synastry/), le Soleil montre où l’un éclaire l’autre. Le contact sur lequel les astrologues ont le plus écrit, c’est [le Soleil de l’un sur la Lune de l’autre](/astrology/sun-conjunct-moon-synastry/) — l’élan qui rencontre le besoin — et il ressemble souvent à une reconnaissance. Quand le Soleil touche la Vénus de l’autre, il y a de la chaleur et de l’admiration ; quand il rencontre [Saturne](/astrology/saturn/) chez l’autre, le lien peut sembler stabilisant ou pesant, selon la façon dont chacun vit la structure. Je lis toujours les contacts du Soleil dans les deux sens : qui éclaire qui n’est pas toujours réciproque.
 
 ## Transits et révolution solaire {#revolution-solaire}
 

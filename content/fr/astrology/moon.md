@@ -17,8 +17,8 @@ facts:
   - { k: "Un tour du zodiaque", v: "Environ 27 jours et un tiers ; 29 jours et demi d’une nouvelle lune à l’autre" }
   - { k: "Temps dans chaque signe", v: "Environ 2 jours et demi" }
   - { k: "Maîtrise", v: "Cancer" }
-  - { k: "Exaltée en", v: "Taureau" }
-  - { k: "Affaiblie en", v: "Capricorne (exil), Scorpion (chute)" }
+  - { k: "Exaltation", v: "Taureau" }
+  - { k: "Exil et chute", v: "Capricorne (exil), Scorpion (chute)" }
   - { k: "Rétrograde", v: "Jamais" }
   - { k: "Dans mes tests", v: "Vérifiée comme chaque placement ; pas parmi les trois qui se sont détachés" }
 related: ["/astrology/sun", "/astrology/mercury", "/astrology/cancer", "/astrology/lunar-return", "/blog/unknown-birth-time"]

@@ -16,8 +16,8 @@ facts:
   - { k: "Distance au Soleil", v: "Jamais plus de 47° environ, vue de la Terre" }
   - { k: "Temps dans chaque signe", v: "Environ 4 à 5 semaines" }
   - { k: "Maîtrise", v: "Taureau et Balance" }
-  - { k: "Exaltée en", v: "Poissons" }
-  - { k: "Affaiblie en", v: "Bélier et Scorpion (exil), Vierge (chute)" }
+  - { k: "Exaltation", v: "Poissons" }
+  - { k: "Exil et chute", v: "Bélier et Scorpion (exil), Vierge (chute)" }
   - { k: "Rétrograde", v: "Environ tous les 18 mois, pendant environ 6 semaines" }
   - { k: "Dans mes tests", v: "A tenu environ une fois sur trois" }
 related: ["/astrology/mercury", "/astrology/mars", "/astrology/taurus", "/astrology/libra", "/blog/synastry-behind-their-back"]
@@ -68,7 +68,7 @@ Vénus passe environ quatre à cinq semaines dans chaque signe, davantage quand 
 
 ## Vénus dans les maisons {#dans-les-maisons}
 
-Sa maison montre où la vie vous semble la plus douce. La tradition donnait à Vénus sa joie en maison 5, qu’on appelait autrefois la maison de la Bonne Fortune : le plaisir, le jeu et les amours.
+Sa maison montre où la vie vous semble la plus douce. La tradition donnait à Vénus sa joie en maison 5, qu’on appelait autrefois la maison de la Fortune favorable : le plaisir, le jeu et les amours.
 
 1. **[Maison I](/astrology/venus-in-1st-house/) :** un charme qui se voit d’emblée ; on vous trouve facile à aimer.
 2. **[Maison II](/astrology/venus-in-2nd-house/) :** vous tenez au confort et aux belles choses, et à la sécurité qu’ils apportent.
@@ -85,7 +85,7 @@ Sa maison montre où la vie vous semble la plus douce. La tradition donnait à V
 
 ## Vénus en synastrie {#en-synastrie}
 
-En [synastrie](/synastry/), Vénus montre ce que deux personnes aiment l’une chez l’autre : des goûts partagés, de l’affection, le simple plaisir d’être ensemble. Son contact le plus connu est celui avec le Mars de l’autre — [Vénus conjonction Mars en synastrie](/astrology/venus-conjunct-mars-synastry/) — lu comme l’attirance, la rencontre entre ce que l’une trouve beau et ce que l’autre va chercher. Quand sa Vénus tombe dans votre maison 7 — [Sa Vénus dans votre maison 7](/astrology/venus-in-7th-house-synastry/) — cette personne peut ressembler de près à ce que vous espériez trouver en couple. Je lis les contacts de Vénus dans les deux sens, parce que qui se réjouit de qui n’est pas toujours réciproque, et seulement quand les deux personnes le savent : [pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/).
+En [synastrie](/synastry/), Vénus montre ce que deux personnes aiment l’une chez l’autre : des goûts partagés, de l’affection, le simple plaisir d’être ensemble. Son contact le plus connu est celui avec Mars chez l’autre — [Vénus conjonction Mars en synastrie](/astrology/venus-conjunct-mars-synastry/) — lu comme l’attirance, la rencontre entre ce que l’une trouve beau et ce que l’autre va chercher. Quand sa Vénus tombe dans votre maison 7 — [Sa Vénus dans votre maison 7](/astrology/venus-in-7th-house-synastry/) — cette personne peut ressembler de près à ce que vous espériez trouver en couple. Je lis les contacts de Vénus dans les deux sens, parce que qui se réjouit de qui n’est pas toujours réciproque, et seulement quand les deux personnes le savent : [pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/).
 
 ## Transits et Vénus rétrograde {#venus-retrograde}
 
