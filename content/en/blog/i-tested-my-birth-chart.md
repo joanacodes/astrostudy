@@ -12,7 +12,7 @@ I didn’t come to astrology to believe it. I came to it during the pandemic, bo
 
 ## The invoice method {#the-method}
 
-I printed my chart and went through it like an invoice. Every [placement](/astrology/) — Sun, Moon, rising, each planet in its sign and house — and beside each one, a tick or a cross.
+I printed my chart and went through it like an invoice. Every [placement](/astrology/) — Sun, [Moon](/astrology/moon/), rising, each planet in its sign and house — and beside each one, a tick or a cross.
 
 A **tick** if it described me in a way I couldn’t have written about anyone else. A **cross** if it was vague, wrong, or would have fitted my neighbour just as well. No half marks. Half marks are where wishful thinking lives.
 
@@ -22,7 +22,7 @@ My own chart wasn’t enough: I know myself too well to be fair. So I did the sa
 
 ## What held {#what-held}
 
-Overall, about a third: **30 to 40%**. The Sun sign, the [rising sign](/blog/unknown-birth-time/), Venus, Mercury — the placements everyone reads first. That isn’t nothing, but it’s close to what a flattering, vague horoscope scores, so I hold those lightly.
+Overall, about a third: **30 to 40%**. The [Sun sign](/astrology/sun/), the [rising sign](/blog/unknown-birth-time/), [Venus](/astrology/venus/), [Mercury](/astrology/mercury/) — the placements everyone reads first. That isn’t nothing, but it’s close to what a flattering, vague horoscope scores, so I hold those lightly.
 
 Three were different. **[Saturn](/astrology/saturn/), [Lilith](/astrology/black-moon-lilith/) and [Chiron](/astrology/chiron/) held 75 to 90% of the time**, for me and for the people I tested. I checked them more than the rest, precisely because I didn’t want it to be true.
 

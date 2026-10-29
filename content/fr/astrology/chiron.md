@@ -2,13 +2,13 @@
 title: "Chiron"
 slug: "chiron"
 h1: "Chiron en astrologie"
-description: "Chiron en astrologie : le guérisseur blessé. Ce qu’il signifie dans un thème natal, dans chaque maison, en synastrie et au retour de Chiron vers 50 ans — et combien de fois il a tenu dans mes tests."
+description: "Chiron en astrologie : le guérisseur blessé dans un thème natal, chaque signe et maison, la synastrie, le retour de Chiron — et ce qui a tenu dans mes tests."
 date: 2026-10-24
-reviewed: 2026-10-24
+reviewed: 2026-10-29
 family: "bodies"
 weight: 11
 glyph: "⚷"
-definition: "Chiron est un petit corps glacé qui tourne entre Saturne et Uranus, nommé d’après le centaure guérisseur qui ne put soigner sa propre blessure. Dans un thème natal, il désigne la blessure autour de laquelle on tourne — et, très souvent, là où l’on devient le plus capable de prendre soin des autres. Il revient à sa place de naissance vers 50 ans."
+definition: "Chiron est un petit corps glacé qui tourne entre Saturne et Uranus, nommé d’après le centaure guérisseur qui ne put soigner sa propre blessure. Dans un thème natal, il désigne la blessure autour de laquelle on tourne — et, souvent, là où l’on sait le mieux prendre soin des autres. Il revient à sa place vers 50 ans."
 facts:
   - { k: "Symbole", v: "⚷ — une clé, ou les lettres O et K" }
   - { k: "Nature", v: "Centaure : un petit corps glacé d’environ 200 km" }
@@ -45,28 +45,30 @@ C’est le placement que je lis avec le plus de précaution. Nommer juste une bl
 
 Son orbite étant très irrégulière, le signe de Chiron est partagé par toutes les personnes nées sur une période qui va de moins de deux ans à environ huit. Son signe colore la blessure — la confiance en Bélier, la valeur en Taureau, le fait d’être compris en Gémeaux, l’appartenance en Cancer — mais ce sont la maison et les aspects qui la rendent personnelle.
 
+Signe par signe : [Chiron en Bélier](/astrology/chiron-in-aries/), [Chiron en Taureau](/astrology/chiron-in-taurus/), [Chiron en Gémeaux](/astrology/chiron-in-gemini/), [Chiron en Cancer](/astrology/chiron-in-cancer/), [Chiron en Lion](/astrology/chiron-in-leo/), [Chiron en Vierge](/astrology/chiron-in-virgo/), [Chiron en Balance](/astrology/chiron-in-libra/), [Chiron en Scorpion](/astrology/chiron-in-scorpio/), [Chiron en Sagittaire](/astrology/chiron-in-sagittarius/), [Chiron en Capricorne](/astrology/chiron-in-capricorn/), [Chiron en Verseau](/astrology/chiron-in-aquarius/) et [Chiron en Poissons](/astrology/chiron-in-pisces/).
+
 ## Chiron dans les maisons {#dans-les-maisons}
 
-1. **Maison I :** se sentir « pas tout à fait comme il faut » ; plus tard, une manière de mettre les autres à l’aise.
-2. **Maison II :** un point sensible autour de la valeur — la vôtre, ou ce que vous gagnez.
-3. **Maison III :** ne pas avoir été entendu, ou mal compris très tôt ; plus tard, un don pour expliquer.
-4. **Maison IV :** une blessure autour de l’appartenance ; souvent, un foyer accueillant construit plus tard.
-5. **Maison V :** un jeu ou une expression de soi moqués ; plus tard, l’art d’encourager ceux des autres.
-6. **Maison VI :** ne se sentir utile qu’en aidant ; apprendre à travailler sans s’épuiser.
-7. **Maison VII :** une blessure dans ou par les relations proches ; plus tard, une rare qualité d’écoute envers l’autre.
-8. **Maison VIII :** une grande méfiance dans l’intimité ; la capacité de rester près des gens dans leurs moments les plus durs.
-9. **Maison IX :** une blessure autour du sens ou de la foi ; plus tard, transmettre ce qu’on a dû trouver seul.
-10. **Maison X :** se sentir exposé ou jugé en public ; souvent un travail qui aide ceux qui vivent la même chose.
-11. **Maison XI :** se sentir en marge des groupes ; plus tard, rassembler d’autres marginaux.
-12. **Maison XII :** une douleur difficile à nommer ; une compassion discrète que les autres sentent sans savoir pourquoi.
+1. **[Maison I](/astrology/chiron-in-1st-house/) :** se sentir « pas tout à fait comme il faut » ; plus tard, une manière de mettre les autres à l’aise.
+2. **[Maison II](/astrology/chiron-in-2nd-house/) :** un point sensible autour de la valeur — la vôtre, ou ce que vous gagnez.
+3. **[Maison III](/astrology/chiron-in-3rd-house/) :** ne pas avoir été entendu, ou mal compris très tôt ; plus tard, un don pour expliquer.
+4. **[Maison IV](/astrology/chiron-in-4th-house/) :** une blessure autour de l’appartenance ; souvent, un foyer accueillant construit plus tard.
+5. **[Maison V](/astrology/chiron-in-5th-house/) :** un jeu ou une expression de soi moqués ; plus tard, l’art d’encourager ceux des autres.
+6. **[Maison VI](/astrology/chiron-in-6th-house/) :** ne se sentir utile qu’en aidant ; apprendre à travailler sans s’épuiser.
+7. **[Maison VII](/astrology/chiron-in-7th-house/) :** une blessure dans ou par les relations proches ; plus tard, une rare qualité d’écoute envers l’autre.
+8. **[Maison VIII](/astrology/chiron-in-8th-house/) :** une grande méfiance dans l’intimité ; la capacité de rester près des gens dans leurs moments les plus durs.
+9. **[Maison IX](/astrology/chiron-in-9th-house/) :** une blessure autour du sens ou de la foi ; plus tard, transmettre ce qu’on a dû trouver seul.
+10. **[Maison X](/astrology/chiron-in-10th-house/) :** se sentir exposé ou jugé en public ; souvent un travail qui aide ceux qui vivent la même chose.
+11. **[Maison XI](/astrology/chiron-in-11th-house/) :** se sentir en marge des groupes ; plus tard, rassembler d’autres marginaux.
+12. **[Maison XII](/astrology/chiron-in-12th-house/) :** une douleur difficile à nommer ; une compassion discrète que les autres sentent sans savoir pourquoi.
 
 ## Chiron en synastrie {#en-synastrie}
 
-En [synastrie](/synastry/), quand le Chiron de l’un touche les planètes de l’autre, chacun peut atteindre le point sensible de l’autre — pour le blesser ou pour l’aider à guérir. Les contacts de Chiron avec la Lune et Vénus sont souvent vécus comme une reconnaissance : *tu vois la part de moi que je cache*. Ils demandent de la douceur des deux côtés.
+En [synastrie](/synastry/), quand le Chiron de l’un touche les planètes de l’autre, chacun peut atteindre le point sensible de l’autre — pour le blesser ou pour l’aider à guérir. Les contacts de Chiron avec la [Lune](/astrology/moon/) et [Vénus](/astrology/venus/) sont souvent vécus comme une reconnaissance : *tu vois la part de moi que je cache*. Ils demandent de la douceur des deux côtés.
 
 ## Transits et retour de Chiron {#retour-de-chiron}
 
-L’orbite irrégulière de Chiron fait que ses transits arrivent à des âges différents selon les générations, sauf un : le **retour de Chiron**, vers 50 ans, quand il revient à sa position de naissance. On le décrit souvent comme le moment où une vieille blessure est enfin vue pour ce qu’elle était.
+L’orbite irrégulière de Chiron fait que ses transits arrivent à des âges différents selon les générations, sauf un : le [retour de Chiron](/astrology/chiron-return/), vers 50 ans, quand il revient à sa position de naissance. On le décrit souvent comme le moment où une vieille blessure est enfin vue pour ce qu’elle était.
 
 ## Ce qui a tenu dans mes tests {#ce-qui-a-tenu}
 

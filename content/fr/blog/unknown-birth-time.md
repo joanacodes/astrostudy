@@ -12,7 +12,7 @@ Beaucoup de gens ne connaissent pas la minute de leur naissance. Elle ne figure 
 
 ## Ce que l’heure décide {#ce-que-l-heure-decide}
 
-Le ciel fait un tour complet chaque jour : l’heure de naissance décide donc de ce qui se levait à l’horizon — votre **ascendant** — et de la façon dont tombent les douze **maisons**, les domaines de la vie dont parle chaque planète (le travail, le foyer, l’amour…). Quatre minutes suffisent à déplacer l’horizon d’un degré.
+Le ciel fait un tour complet chaque jour : l’heure de naissance décide donc de ce qui se levait à l’horizon — votre **[ascendant](/astrology/ascendant/)** — et de la façon dont tombent les douze **maisons**, les domaines de la vie dont parle chaque planète (le travail, le foyer, l’amour…). Quatre minutes suffisent à déplacer l’horizon d’un degré.
 
 ## Ce qu’elle ne décide pas {#ce-qu-elle-ne-decide-pas}
 
@@ -20,7 +20,7 @@ Les planètes avancent bien plus lentement que l’horizon. En une journée, la 
 
 ## La Lune, celle à vérifier {#la-lune}
 
-La Lune est la plus rapide : elle change de signe environ tous les deux jours et demi. La plupart des jours, elle reste dans un seul signe de minuit à minuit. Le jour où elle change, votre Lune peut être l’une ou l’autre — je vous le dis, et je lis les deux si cela compte.
+La [Lune](/astrology/moon/) est la plus rapide : elle change de signe environ tous les deux jours et demi. La plupart des jours, elle reste dans un seul signe de minuit à minuit. Le jour où elle change, votre Lune peut être l’une ou l’autre — je vous le dis, et je lis les deux si cela compte.
 
 ## Comment je lis sans elle {#comment-je-lis-sans-elle}
 

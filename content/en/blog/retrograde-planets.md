@@ -7,7 +7,7 @@ tags: ["retrograde", "Mercury retrograde", "birth chart"]
 glyph: "☿"
 summary: "A planet is retrograde when, seen from Earth, it seems to move backwards for a while. In a birth chart, several retrogrades often describe someone who works things through inside before they say them. It isn’t slowness or weakness: it’s a rhythm, and it can be trusted."
 ---
-“Mercury retrograde” has become shorthand for everything going wrong. In a birth chart, retrograde planets mean something quieter, and far kinder.
+“[Mercury retrograde](/astrology/mercury-retrograde/)” has become shorthand for everything going wrong. In a birth chart, retrograde planets mean something quieter, and far kinder.
 
 ## What retrograde means {#what-it-means}
 

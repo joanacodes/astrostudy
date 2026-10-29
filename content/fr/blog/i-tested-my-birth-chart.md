@@ -13,7 +13,7 @@ Je ne suis pas venue à l’astrologie pour y croire. J’y suis arrivée pendan
 
 ## La méthode de la facture {#la-methode}
 
-J’ai imprimé mon thème et je l’ai épluché comme une facture. Chaque [placement](/astrology/) — Soleil, Lune, ascendant, chaque planète dans son signe et sa maison — et à côté de chacun, une coche ou une croix.
+J’ai imprimé mon thème et je l’ai épluché comme une facture. Chaque [placement](/astrology/) — Soleil, [Lune](/astrology/moon/), ascendant, chaque planète dans son signe et sa maison — et à côté de chacun, une coche ou une croix.
 
 Une **coche** si cela me décrivait d’une façon que je n’aurais pu écrire sur personne d’autre. Une **croix** si c’était vague, faux, ou si cela allait aussi bien à ma voisine. Pas de demi-points. Les demi-points, c’est là que se loge l’envie d’y croire.
 
@@ -23,7 +23,7 @@ Mon propre thème ne suffisait pas : je me connais trop bien pour être juste. 
 
 ## Ce qui a tenu {#ce-qui-a-tenu}
 
-Dans l’ensemble, environ un tiers : **30 à 40 %**. Le signe solaire, l’[ascendant](/blog/unknown-birth-time/), Vénus, Mercure — les placements que tout le monde lit en premier. Ce n’est pas rien, mais c’est proche du score d’un horoscope flatteur et vague, alors je les tiens à distance.
+Dans l’ensemble, environ un tiers : **30 à 40 %**. Le [signe solaire](/astrology/sun/), l’[ascendant](/blog/unknown-birth-time/), [Vénus](/astrology/venus/), [Mercure](/astrology/mercury/) — les placements que tout le monde lit en premier. Ce n’est pas rien, mais c’est proche du score d’un horoscope flatteur et vague, alors je les tiens à distance.
 
 Trois étaient différents. **[Saturne](/astrology/saturn/), [Lilith](/astrology/black-moon-lilith/) et [Chiron](/astrology/chiron/) ont tenu 75 à 90 % du temps**, pour moi et pour les personnes testées. Je les ai vérifiés plus que les autres, justement parce que je ne voulais pas que ce soit vrai.
 

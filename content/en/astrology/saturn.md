@@ -1,9 +1,9 @@
 ---
 title: "Saturn"
 h1: "Saturn in astrology"
-description: "Saturn in astrology: the planet of time, limits and slow mastery. What it means in a birth chart, in each house, in synastry, and at the Saturn return — and how often it held in my tests."
+description: "Saturn in astrology: time, limits and slow mastery — in a birth chart, each sign and house, synastry and the Saturn return, and how often it held in my tests."
 date: 2026-10-24
-reviewed: 2026-10-24
+reviewed: 2026-10-29
 family: "planets"
 weight: 7
 glyph: "♄"
@@ -54,28 +54,30 @@ Saturn stays about two and a half years in each sign, so everyone born in the sa
 - **In air signs** (Gemini, Libra, Aquarius), about thinking for yourself and fair relationships.
 - **In water signs** (Cancer, Scorpio, Pisces), about feelings, trust and emotional boundaries.
 
+Sign by sign: [Saturn in Aries](/astrology/saturn-in-aries/), [Saturn in Taurus](/astrology/saturn-in-taurus/), [Saturn in Gemini](/astrology/saturn-in-gemini/), [Saturn in Cancer](/astrology/saturn-in-cancer/), [Saturn in Leo](/astrology/saturn-in-leo/), [Saturn in Virgo](/astrology/saturn-in-virgo/), [Saturn in Libra](/astrology/saturn-in-libra/), [Saturn in Scorpio](/astrology/saturn-in-scorpio/), [Saturn in Sagittarius](/astrology/saturn-in-sagittarius/), [Saturn in Capricorn](/astrology/saturn-in-capricorn/), [Saturn in Aquarius](/astrology/saturn-in-aquarius/) and [Saturn in Pisces](/astrology/saturn-in-pisces/).
+
 ## Saturn in the houses {#in-the-houses}
 
-1. **1st house:** serious early, slow to feel at ease in yourself — and steadier for it later.
-2. **2nd house:** money and self-worth learned the long way; security built brick by brick.
-3. **3rd house:** careful words, and a late confidence in your own ideas.
-4. **4th house:** responsibility early at home; the home you build later is the one you trust.
-5. **5th house:** joy and play you had to give yourself permission for.
-6. **6th house:** a strong work ethic that needs limits as much as discipline.
-7. **7th house:** commitment taken very seriously; partners who test or teach you, often later in life.
-8. **8th house:** trust given slowly — and kept.
-9. **9th house:** convictions earned after doubting the ones you were handed.
-10. **10th house:** ambition on a long timetable; authority earned rather than given.
-11. **11th house:** few, chosen friends; responsibility in groups.
-12. **12th house:** fears worked through quietly; strength found alone.
+1. **[1st house](/astrology/saturn-in-1st-house/):** serious early, slow to feel at ease in yourself — and steadier for it later.
+2. **[2nd house](/astrology/saturn-in-2nd-house/):** money and self-worth learned the long way; security built brick by brick.
+3. **[3rd house](/astrology/saturn-in-3rd-house/):** careful words, and a late confidence in your own ideas.
+4. **[4th house](/astrology/saturn-in-4th-house/):** responsibility early at home; the home you build later is the one you trust.
+5. **[5th house](/astrology/saturn-in-5th-house/):** joy and play you had to give yourself permission for.
+6. **[6th house](/astrology/saturn-in-6th-house/):** a strong work ethic that needs limits as much as discipline.
+7. **[7th house](/astrology/saturn-in-7th-house/):** commitment taken very seriously; partners who test or teach you, often later in life.
+8. **[8th house](/astrology/saturn-in-8th-house/):** trust given slowly — and kept.
+9. **[9th house](/astrology/saturn-in-9th-house/):** convictions earned after doubting the ones you were handed.
+10. **[10th house](/astrology/saturn-in-10th-house/):** ambition on a long timetable; authority earned rather than given.
+11. **[11th house](/astrology/saturn-in-11th-house/):** few, chosen friends; responsibility in groups.
+12. **[12th house](/astrology/saturn-in-12th-house/):** fears worked through quietly; strength found alone.
 
 ## Saturn in synastry {#in-synastry}
 
-In [synastry](/synastry/), when one person's Saturn touches the other's planets, the relationship feels serious. It can be the glue — loyalty, structure, a sense of building something — or the chill, when one feels judged or held back. Saturn contacts to the Moon and Venus are the ones I read most carefully: they decide whether the other person's steadiness feels like safety or like criticism.
+In [synastry](/synastry/), when one person's Saturn touches the other's planets, the relationship feels serious. It can be the glue — loyalty, structure, a sense of building something — or the chill, when one feels judged or held back. Saturn contacts to the [Moon](/astrology/moon/) and [Venus](/astrology/venus/) are the ones I read most carefully: they decide whether the other person's steadiness feels like safety or like criticism.
 
 ## Transits and the Saturn return {#saturn-return}
 
-Saturn moves through each house of your chart in about two and a half years, and it meets its own birth position at regular steps: a first square around 7, an opposition around 14 to 15, another square around 21 to 22, and the first **Saturn return** between about 27 and 30. The cycle starts again: square around 36 to 37, opposition around 44, square around 51, second return around 58 to 60.
+Saturn moves through each house of your chart in about two and a half years, and it meets its own birth position at regular steps: a first square around 7, an opposition around 14 to 15, another square around 21 to 22, and the first [Saturn return](/astrology/saturn-return/) between about 27 and 30. The cycle starts again: square around 36 to 37, opposition around 44, square around 51, second return around 58 to 60.
 
 The return has a reputation as a crisis. In readings it looks more like a review: what you built on someone else's plan tends to wobble, what you built on your own tends to hold.
 

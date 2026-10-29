@@ -2,13 +2,13 @@
 title: "Saturne"
 slug: "saturne"
 h1: "Saturne en astrologie"
-description: "Saturne en astrologie : la planète du temps, des limites et de la maîtrise lente. Ce qu’elle signifie dans un thème natal, dans chaque maison, en synastrie et au retour de Saturne — et combien de fois elle a tenu dans mes tests."
+description: "Saturne en astrologie : le temps, les limites, la maîtrise lente — thème natal, signes, maisons, synastrie, retour de Saturne, et ce qui a tenu dans mes tests."
 date: 2026-10-24
-reviewed: 2026-10-24
+reviewed: 2026-10-29
 family: "planets"
 weight: 7
 glyph: "♄"
-definition: "Saturne est la planète du temps, des limites et de la maîtrise lente. Dans un thème natal, elle désigne la leçon qui vous prend le plus de temps — là où vous vous sentez mis à l’épreuve, en retard ou pas à la hauteur — et, avec de la patience, là où vous bâtissez quelque chose d’assez solide pour l’enseigner. Elle revient à sa place de naissance tous les 29 ans et demi : c’est le retour de Saturne."
+definition: "Saturne est la planète du temps, des limites et de la maîtrise lente. Dans un thème natal, elle montre la leçon qui vous prend le plus de temps — là où vous vous sentez à l’épreuve — et ce que vous finissez par bâtir d’assez solide pour l’enseigner. Elle revient à sa place tous les 29 ans et demi."
 facts:
   - { k: "Symbole", v: "♄ — la faucille de Cronos" }
   - { k: "Nature", v: "Planète ; la plus lointaine visible à l’œil nu" }
@@ -55,28 +55,30 @@ Saturne reste environ deux ans et demi dans chaque signe : tous ceux qui naisse
 - **En signe d’air** (Gémeaux, Balance, Verseau), sur le fait de penser par soi-même et l’équité dans les relations.
 - **En signe d’eau** (Cancer, Scorpion, Poissons), sur les émotions, la confiance et les limites affectives.
 
+Signe par signe : [Saturne en Bélier](/astrology/saturn-in-aries/), [Saturne en Taureau](/astrology/saturn-in-taurus/), [Saturne en Gémeaux](/astrology/saturn-in-gemini/), [Saturne en Cancer](/astrology/saturn-in-cancer/), [Saturne en Lion](/astrology/saturn-in-leo/), [Saturne en Vierge](/astrology/saturn-in-virgo/), [Saturne en Balance](/astrology/saturn-in-libra/), [Saturne en Scorpion](/astrology/saturn-in-scorpio/), [Saturne en Sagittaire](/astrology/saturn-in-sagittarius/), [Saturne en Capricorne](/astrology/saturn-in-capricorn/), [Saturne en Verseau](/astrology/saturn-in-aquarius/) et [Saturne en Poissons](/astrology/saturn-in-pisces/).
+
 ## Saturne dans les maisons {#dans-les-maisons}
 
-1. **Maison I :** sérieux très tôt, lent à se sentir bien dans sa peau — et plus solide pour cela ensuite.
-2. **Maison II :** l’argent et l’estime de soi appris par le long chemin ; une sécurité bâtie pierre après pierre.
-3. **Maison III :** des mots pesés, et une confiance tardive en ses propres idées.
-4. **Maison IV :** des responsabilités très tôt à la maison ; le foyer construit plus tard est celui auquel on se fie.
-5. **Maison V :** une joie et un jeu qu’il a fallu s’autoriser.
-6. **Maison VI :** une grande éthique de travail, qui demande des limites autant que de la discipline.
-7. **Maison VII :** l’engagement pris très au sérieux ; des partenaires qui éprouvent ou enseignent, souvent plus tard dans la vie.
-8. **Maison VIII :** une confiance donnée lentement — et tenue.
-9. **Maison IX :** des convictions gagnées après avoir douté de celles qu’on vous avait données.
-10. **Maison X :** une ambition au long cours ; une autorité gagnée plutôt que reçue.
-11. **Maison XI :** peu d’amis, mais choisis ; des responsabilités dans les groupes.
-12. **Maison XII :** des peurs traversées en silence ; une force trouvée seul.
+1. **[Maison I](/astrology/saturn-in-1st-house/) :** sérieux très tôt, lent à se sentir bien dans sa peau — et plus solide pour cela ensuite.
+2. **[Maison II](/astrology/saturn-in-2nd-house/) :** l’argent et l’estime de soi appris par le long chemin ; une sécurité bâtie pierre après pierre.
+3. **[Maison III](/astrology/saturn-in-3rd-house/) :** des mots pesés, et une confiance tardive en ses propres idées.
+4. **[Maison IV](/astrology/saturn-in-4th-house/) :** des responsabilités très tôt à la maison ; le foyer construit plus tard est celui auquel on se fie.
+5. **[Maison V](/astrology/saturn-in-5th-house/) :** une joie et un jeu qu’il a fallu s’autoriser.
+6. **[Maison VI](/astrology/saturn-in-6th-house/) :** une grande éthique de travail, qui demande des limites autant que de la discipline.
+7. **[Maison VII](/astrology/saturn-in-7th-house/) :** l’engagement pris très au sérieux ; des partenaires qui éprouvent ou enseignent, souvent plus tard dans la vie.
+8. **[Maison VIII](/astrology/saturn-in-8th-house/) :** une confiance donnée lentement — et tenue.
+9. **[Maison IX](/astrology/saturn-in-9th-house/) :** des convictions gagnées après avoir douté de celles qu’on vous avait données.
+10. **[Maison X](/astrology/saturn-in-10th-house/) :** une ambition au long cours ; une autorité gagnée plutôt que reçue.
+11. **[Maison XI](/astrology/saturn-in-11th-house/) :** peu d’amis, mais choisis ; des responsabilités dans les groupes.
+12. **[Maison XII](/astrology/saturn-in-12th-house/) :** des peurs traversées en silence ; une force trouvée seul.
 
 ## Saturne en synastrie {#en-synastrie}
 
-En [synastrie](/synastry/), quand la Saturne de l’un touche les planètes de l’autre, la relation devient sérieuse. Cela peut être le ciment — loyauté, structure, l’impression de construire ensemble — ou le froid, quand l’un se sent jugé ou freiné. Les contacts de Saturne avec la Lune et Vénus sont ceux que je lis avec le plus de soin : ils décident si la stabilité de l’autre ressemble à de la sécurité ou à de la critique.
+En [synastrie](/synastry/), quand la Saturne de l’un touche les planètes de l’autre, la relation devient sérieuse. Cela peut être le ciment — loyauté, structure, l’impression de construire ensemble — ou le froid, quand l’un se sent jugé ou freiné. Les contacts de Saturne avec la [Lune](/astrology/moon/) et [Vénus](/astrology/venus/) sont ceux que je lis avec le plus de soin : ils décident si la stabilité de l’autre ressemble à de la sécurité ou à de la critique.
 
 ## Transits et retour de Saturne {#retour-de-saturne}
 
-Saturne traverse chaque maison de votre thème en environ deux ans et demi, et rejoint sa position de naissance par étapes régulières : un premier carré vers 7 ans, une opposition vers 14 ou 15 ans, un autre carré vers 21 ou 22 ans, puis le premier **retour de Saturne** entre 27 et 30 ans environ. Le cycle recommence : carré vers 36 ou 37 ans, opposition vers 44 ans, carré vers 51 ans, second retour vers 58 à 60 ans.
+Saturne traverse chaque maison de votre thème en environ deux ans et demi, et rejoint sa position de naissance par étapes régulières : un premier carré vers 7 ans, une opposition vers 14 ou 15 ans, un autre carré vers 21 ou 22 ans, puis le premier [retour de Saturne](/astrology/saturn-return/) entre 27 et 30 ans environ. Le cycle recommence : carré vers 36 ou 37 ans, opposition vers 44 ans, carré vers 51 ans, second retour vers 58 à 60 ans.
 
 Le retour a la réputation d’une crise. En lecture, il ressemble plutôt à un bilan : ce que vous avez bâti sur le plan de quelqu’un d’autre tend à vaciller, ce que vous avez bâti sur le vôtre tend à tenir.
 

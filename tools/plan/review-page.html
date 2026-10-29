@@ -1,0 +1,398 @@
+<title>Astro Study drafts</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..600;1,9..144,300..500&family=Inter:wght@400;500;600&display=swap">
+<style>
+/* A reading desk: the batch's drafts down the left, the page being read on the right, the decision under
+   it. The colours and faces are The Astro Study's own, so a draft reads as it will on the site. */
+:root {
+  --paper: #f3f1ea;
+  --sheet: #fbfaf6;
+  --ink: #1c211b;
+  --muted: #5d6358;
+  --line: rgba(28, 33, 27, 0.14);
+  --accent: #b5512c;
+  --accent-ink: #8f3d1f;
+  --leaf: #50683c;
+  --amber: #96650f;
+  --leaf-soft: rgba(80, 104, 60, 0.12);
+  --amber-soft: rgba(150, 101, 15, 0.13);
+  --serif: "Fraunces", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --symbols: "Noto Sans Symbols 2", "Segoe UI Symbol", "Apple Symbols", var(--sans);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #141812; --sheet: #1b2019; --ink: #ebeae2; --muted: #a6ab9e; --line: rgba(235, 234, 226, 0.14);
+    --accent: #e08a62; --accent-ink: #f0a582; --leaf: #9dbd80; --amber: #dcab4c;
+    --leaf-soft: rgba(157, 189, 128, 0.14); --amber-soft: rgba(220, 171, 76, 0.14); color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #141812; --sheet: #1b2019; --ink: #ebeae2; --muted: #a6ab9e; --line: rgba(235, 234, 226, 0.14);
+  --accent: #e08a62; --accent-ink: #f0a582; --leaf: #9dbd80; --amber: #dcab4c;
+  --leaf-soft: rgba(157, 189, 128, 0.14); --amber-soft: rgba(220, 171, 76, 0.14); color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--paper); color: var(--ink); font: 15px/1.55 var(--sans); }
+button { font: inherit; color: inherit; }
+a { color: var(--accent-ink); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+.desk { max-width: 1240px; margin: 0 auto; padding-block: 28px 64px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.top { display: grid; gap: 14px; padding-bottom: 22px; border-bottom: 1px solid var(--line); }
+.eyebrow { margin: 0; font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.top h1 { margin: 0; font: 400 clamp(28px, 4vw, 40px)/1.1 var(--serif); text-wrap: balance; }
+.tally { margin: 0; color: var(--muted); font-variant-numeric: tabular-nums; }
+.tally strong { color: var(--ink); font-weight: 600; }
+.filters { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip { border: 1px solid var(--line); background: transparent; border-radius: 999px; padding: 5px 12px; cursor: pointer; font-size: 13px; }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.notice { margin: 0; padding: 10px 12px; background: var(--amber-soft); border-radius: 6px; font-size: 13px; }
+
+.layout { display: grid; grid-template-columns: 290px minmax(0, 1fr); gap: 36px; padding-top: 24px; align-items: start; }
+.list { position: sticky; top: max(12px, env(safe-area-inset-top, 0px)); max-height: calc(100vh - 24px); overflow-y: auto; display: grid; gap: 18px; padding-right: 4px; }
+.group h2 { margin: 0 0 6px; font: 600 11px/1.4 var(--sans); letter-spacing: 0.09em; text-transform: uppercase; color: var(--muted); }
+.group ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 2px; }
+.item { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 8px; align-items: center; width: 100%; text-align: left; border: 0; background: transparent; padding: 7px 8px; border-radius: 6px; cursor: pointer; }
+.item:hover { background: var(--sheet); }
+.item[aria-current="page"] { background: var(--sheet); box-shadow: inset 0 0 0 1px var(--line); }
+.item__name { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.item__fr { color: var(--muted); font-size: 12px; }
+.item--missing { opacity: 0.5; }
+.marks { display: flex; gap: 4px; }
+.mark { font: 600 10px/1 var(--sans); letter-spacing: 0.04em; padding: 4px 5px; border-radius: 4px; border: 1px solid var(--line); color: var(--muted); font-variant-numeric: tabular-nums; }
+.mark--approved { background: var(--leaf-soft); border-color: transparent; color: var(--leaf); }
+.mark--changes { background: var(--amber-soft); border-color: transparent; color: var(--amber); }
+
+.reader { min-width: 0; display: grid; gap: 22px; }
+.bar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; }
+.back { display: none; border: 0; background: transparent; padding: 6px 0; cursor: pointer; color: var(--accent-ink); }
+.switch { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; padding: 3px; }
+.switch button { border: 0; background: transparent; border-radius: 999px; padding: 5px 14px; cursor: pointer; font-size: 13px; }
+.switch button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+.step { display: flex; gap: 6px; }
+.step button { border: 1px solid var(--line); background: transparent; border-radius: 6px; padding: 5px 10px; cursor: pointer; font-size: 13px; }
+
+.serp { background: var(--sheet); border: 1px solid var(--line); border-radius: 8px; padding: 14px 16px; display: grid; gap: 3px; }
+.serp__label { margin: 0 0 6px; font-size: 11px; letter-spacing: 0.09em; text-transform: uppercase; color: var(--muted); }
+.serp__url { margin: 0; font-size: 12.5px; color: var(--muted); overflow-wrap: anywhere; }
+.serp__title { margin: 0; font-size: 18px; line-height: 1.3; color: var(--accent-ink); }
+.serp__desc { margin: 0; font-size: 13.5px; color: var(--ink); }
+.serp__count { margin: 6px 0 0; font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.serp__count .over { color: var(--amber); font-weight: 600; }
+
+.page { background: var(--sheet); border: 1px solid var(--line); border-radius: 10px; padding: clamp(18px, 4vw, 40px); display: grid; gap: 22px; min-width: 0; }
+.page h1 { margin: 0; font: 400 clamp(28px, 4.4vw, 42px)/1.12 var(--serif); text-wrap: balance; }
+.glyph { font-family: var(--symbols); color: var(--accent); margin-right: 0.35em; font-size: 0.82em; }
+.short { border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding: 14px 0; }
+.short p:not(.label) { margin: 0; max-width: 68ch; font: 400 18px/1.55 var(--serif); }
+.label { margin: 0 0 6px; font: 600 11px/1.4 var(--sans); letter-spacing: 0.09em; text-transform: uppercase; color: var(--muted); }
+.facts { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 12px 20px; margin: 0; }
+.facts div { min-width: 0; }
+.facts dt { margin: 0 0 2px; font: 600 11px/1.4 var(--sans); letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
+.facts dd { margin: 0; }
+.prose { max-width: 68ch; min-width: 0; }
+.prose h2 { font: 400 24px/1.25 var(--serif); margin: 1.6em 0 0.5em; text-wrap: balance; }
+.prose p, .prose li { overflow-wrap: break-word; }
+.prose li { margin: 0.25em 0; }
+.prose a { text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.planned { text-decoration: underline dotted var(--muted); text-underline-offset: 3px; cursor: help; }
+.sitelink { text-decoration: underline solid var(--line); text-underline-offset: 3px; cursor: help; }
+.faq { display: grid; gap: 0; max-width: 68ch; }
+.faq details { border-top: 1px solid var(--line); padding: 10px 0; }
+.faq details:last-child { border-bottom: 1px solid var(--line); }
+.faq summary { cursor: pointer; font-weight: 500; }
+.faq .answer p { margin: 8px 0 0; }
+.sources { margin: 0; padding-left: 1.1em; max-width: 68ch; }
+.stats { margin: 0; color: var(--muted); font-size: 13px; font-variant-numeric: tabular-nums; }
+
+.ask { border: 1px solid var(--line); border-radius: 8px; padding: 14px 16px; display: grid; gap: 8px; background: var(--amber-soft); }
+.ask ul { margin: 0; padding-left: 1.1em; display: grid; gap: 4px; }
+
+.decide { border: 1px solid var(--line); border-radius: 10px; padding: 16px; display: grid; gap: 14px; background: var(--sheet); }
+.decide h2 { margin: 0; font: 400 20px/1.2 var(--serif); }
+.row { display: grid; grid-template-columns: 80px minmax(0, 1fr); gap: 10px; align-items: center; }
+.row__lang { font-weight: 600; }
+.row__buttons { display: flex; flex-wrap: wrap; gap: 8px; }
+.choice { border: 1px solid var(--line); background: transparent; border-radius: 6px; padding: 7px 12px; cursor: pointer; }
+.choice:disabled { cursor: not-allowed; opacity: 0.5; }
+.choice--ok[aria-pressed="true"] { background: var(--leaf); border-color: var(--leaf); color: var(--sheet); }
+.choice--no[aria-pressed="true"] { background: var(--amber); border-color: var(--amber); color: var(--sheet); }
+.note { display: grid; gap: 6px; }
+.note textarea { width: 100%; min-height: 84px; resize: vertical; font: inherit; color: var(--ink); background: var(--paper); border: 1px solid var(--line); border-radius: 6px; padding: 8px 10px; }
+.note__foot { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.save { border: 0; background: var(--ink); color: var(--paper); border-radius: 6px; padding: 7px 14px; cursor: pointer; }
+.save:disabled { opacity: 0.5; cursor: not-allowed; }
+.status { font-size: 13px; color: var(--muted); }
+.status--error { color: var(--amber); }
+.empty { color: var(--muted); }
+
+@media (max-width: 860px) {
+  .layout { grid-template-columns: minmax(0, 1fr); }
+  .list { position: static; max-height: none; overflow: visible; }
+  body.reading .list { display: none; }
+  body:not(.reading) .reader { display: none; }
+  .back { display: inline-block; }
+  .row { grid-template-columns: minmax(0, 1fr); gap: 6px; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .item, .chip, .choice { transition: background-color 0.15s ease, color 0.15s ease; }
+}
+</style>
+
+<div class="desk">
+  <header class="top">
+    <p class="eyebrow">The Astro Study · Encyclopaedia</p>
+    <h1 id="heading">Drafts</h1>
+    <p class="tally" id="tally">Loading decisions…</p>
+    <div class="filters" role="group" aria-label="Show">
+      <button class="chip" type="button" data-filter="all" aria-pressed="true">All</button>
+      <button class="chip" type="button" data-filter="open" aria-pressed="false">To read</button>
+      <button class="chip" type="button" data-filter="approved" aria-pressed="false">Approved in both</button>
+      <button class="chip" type="button" data-filter="changes" aria-pressed="false">Needs changes</button>
+    </div>
+    <p class="notice" id="notice" hidden></p>
+  </header>
+  <div class="layout">
+    <nav class="list" id="list" aria-label="Entries"></nav>
+    <main class="reader" id="reader"></main>
+  </div>
+</div>
+
+<script>
+const DATA = /*DATA*/null;
+const state = { lang: 'en', filter: 'all', reviews: {}, db: null, canWrite: false, busy: {}, drafts: {} };
+const $ = (s, el = document) => el.querySelector(s);
+const entries = DATA.entries;
+const byId = Object.fromEntries(entries.map((e) => [e.id, e]));
+const wide = matchMedia('(min-width: 861px)');
+
+try { const l = localStorage.getItem('drafts-lang'); if (l === 'en' || l === 'fr') state.lang = l; } catch (e) {}
+
+// the entry on screen: the one in the address, or on a wide screen the first one written
+function currentId() {
+  const h = location.hash.slice(1);
+  if (byId[h]) return h;
+  return wide.matches ? (entries.find((e) => e.written) || entries[0] || {}).id || '' : '';
+}
+const review = (id) => state.reviews[id] || { en: '', fr: '', note: '' };
+function bucket(id) {
+  const r = review(id);
+  if (r.en === 'changes' || r.fr === 'changes') return 'changes';
+  if (r.en === 'approved' && r.fr === 'approved') return 'approved';
+  return 'open';
+}
+function esc(s) { return String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c])); }
+
+function renderTally() {
+  const n = entries.length;
+  const written = entries.filter((e) => e.written).length;
+  let en = 0, fr = 0, both = 0, changes = 0;
+  for (const e of entries) {
+    const r = review(e.id);
+    if (r.en === 'approved') en++;
+    if (r.fr === 'approved') fr++;
+    if (r.en === 'approved' && r.fr === 'approved') both++;
+    if (r.en === 'changes' || r.fr === 'changes') changes++;
+  }
+  $('#heading').textContent = `Drafts, batch ${DATA.batch}`;
+  $('#tally').innerHTML = `<strong>${n}</strong> entries${written < n ? ` (${written} written so far)` : ''} · <strong>${en}</strong> approved in English · <strong>${fr}</strong> in French · <strong>${both}</strong> ready to publish · <strong>${changes}</strong> need changes`;
+}
+
+function mark(lang, status) {
+  const cls = status === 'approved' ? ' mark--approved' : status === 'changes' ? ' mark--changes' : '';
+  const word = status === 'approved' ? 'approved' : status === 'changes' ? 'needs changes' : 'not reviewed';
+  return `<span class="mark${cls}" title="${lang === 'en' ? 'English' : 'French'}: ${word}">${lang.toUpperCase()}</span>`;
+}
+
+function renderList() {
+  const current = currentId();
+  const groups = {};
+  for (const e of entries) {
+    if (state.filter !== 'all' && bucket(e.id) !== state.filter) continue;
+    (groups[e.family] ||= []).push(e);
+  }
+  const html = Object.keys(DATA.families).filter((f) => groups[f]).map((f) => `
+    <section class="group"><h2>${DATA.families[f]}</h2><ul>${groups[f].map((e) => {
+      const r = review(e.id);
+      return `<li><button class="item${e.written ? '' : ' item--missing'}" type="button" data-go="${e.id}"${e.id === current ? ' aria-current="page"' : ''}>
+        <span class="item__name">${esc(e.en)} <span class="item__fr">· ${esc(e.fr)}</span></span>
+        <span class="marks">${mark('en', r.en)}${mark('fr', r.fr)}</span></button></li>`;
+    }).join('')}</ul></section>`).join('');
+  $('#list').innerHTML = html || '<p class="empty">Nothing here with this filter.</p>';
+}
+
+function serp(p) {
+  const crumbs = 'astrostudy.co.uk' + p.url.replace(/\/$/, '').split('/').join(' › ');
+  const t = p.titleTag.length, d = p.description.length;
+  return `<div class="serp" aria-label="Search result preview">
+    <p class="serp__label">In search results</p>
+    <p class="serp__url">${esc(crumbs)}</p>
+    <p class="serp__title">${esc(p.titleTag)}</p>
+    <p class="serp__desc">${esc(p.description)}</p>
+    <p class="serp__count">Title ${t > 60 ? `<span class="over">${t}</span>` : t}/60 characters · description ${d > 160 || d < 110 ? `<span class="over">${d}</span>` : d} (110–160)</p>
+  </div>`;
+}
+
+function renderReader() {
+  const id = currentId();
+  const e = byId[id];
+  document.body.classList.toggle('reading', Boolean(byId[location.hash.slice(1)]));
+  if (!e) {
+    $('#reader').innerHTML = '<p class="empty">Pick an entry to read it.</p>';
+    return;
+  }
+  const p = e.pages[state.lang];
+  const i = entries.indexOf(e);
+  const prev = entries[i - 1], next = entries[i + 1];
+  const fr = state.lang === 'fr';
+  const page = p ? `
+    ${serp(p)}
+    <article class="page" lang="${state.lang}">
+      <h1>${p.h1}</h1>
+      ${p.definition ? `<div class="short"><p class="label">${fr ? 'En bref' : 'In short'}</p><p>${p.definition}</p></div>` : ''}
+      ${p.facts ? `<dl class="facts">${p.facts}</dl>` : ''}
+      <div class="prose">${p.body}</div>
+      ${p.faq ? `<section><p class="label">Questions</p><div class="faq">${p.faq}</div></section>` : ''}
+      ${p.sources ? `<section><p class="label">Sources</p><ul class="sources">${p.sources}</ul></section>` : ''}
+      <p class="stats">${p.words.toLocaleString('en-GB')} words · ${p.links} links in the text, ${p.planned} of them to pages not written yet (dotted: they become links when those pages go up)</p>
+    </article>` : `<p class="empty">The ${fr ? 'French' : 'English'} page of this entry isn’t written yet.</p>`;
+  const ask = e.notes.length ? `<aside class="ask"><p class="label">Only you can say</p><ul>${e.notes.map((n) => `<li>${esc(n)}</li>`).join('')}</ul></aside>` : '';
+  const dis = state.canWrite && e.written ? '' : ' disabled';
+  const row = (lang, name) => `<div class="row"><span class="row__lang">${name}</span><span class="row__buttons">
+      <button class="choice choice--ok" type="button" data-set="${lang}" data-value="approved" aria-pressed="false"${dis}>Approved</button>
+      <button class="choice choice--no" type="button" data-set="${lang}" data-value="changes" aria-pressed="false"${dis}>Needs changes</button></span></div>`;
+  $('#reader').innerHTML = `
+    <div class="bar">
+      <button class="back" type="button" data-go="">← All drafts</button>
+      <div class="switch" role="group" aria-label="Language">
+        <button type="button" data-lang="en" aria-pressed="${!fr}">English</button>
+        <button type="button" data-lang="fr" aria-pressed="${fr}">Français</button>
+      </div>
+      <div class="step">
+        <button type="button" data-go="${prev ? prev.id : ''}"${prev ? '' : ' disabled'} aria-label="Previous entry">←</button>
+        <button type="button" data-go="${next ? next.id : ''}"${next ? '' : ' disabled'} aria-label="Next entry">→</button>
+      </div>
+    </div>
+    ${page}
+    ${ask}
+    <section class="decide" aria-label="Your decision">
+      <h2>Your decision on ${esc(e.en)}</h2>
+      ${row('en', 'English')}
+      ${row('fr', 'French')}
+      <div class="note">
+        <label class="label" for="note-text">What should change (in either language)</label>
+        <textarea id="note-text" placeholder="Anything to change, add or cut. Claude reads this before reworking the entry."${state.canWrite ? '' : ' disabled'}></textarea>
+        <div class="note__foot"><button class="save" type="button" id="save-note"${state.canWrite ? '' : ' disabled'}>Save note</button><span class="status" id="save-status" role="status"></span></div>
+      </div>
+    </section>`;
+  $('#note-text').value = state.drafts[id] ?? review(id).note ?? '';
+  $('#note-text').addEventListener('input', (ev) => { state.drafts[id] = ev.target.value; });
+  renderDecision();
+}
+
+// the buttons follow the stored decision without redrawing the page under the reader's eyes
+function renderDecision() {
+  const id = currentId();
+  const r = review(id);
+  document.querySelectorAll('[data-set]').forEach((b) => {
+    b.setAttribute('aria-pressed', String(r[b.getAttribute('data-set')] === b.getAttribute('data-value')));
+  });
+  const t = $('#note-text');
+  if (t && !(id in state.drafts) && document.activeElement !== t) t.value = r.note || '';
+}
+
+function refresh() { renderTally(); renderList(); renderDecision(); }
+function render() { renderTally(); renderList(); renderReader(); }
+
+function say(text, error) {
+  const s = $('#save-status');
+  if (!s) return;
+  s.className = error ? 'status status--error' : 'status';
+  s.textContent = text;
+}
+
+// one write at a time per entry, each carrying the whole decision
+function save(id, patch) {
+  if (!state.db || !state.canWrite) return Promise.resolve(false);
+  const next = { ...review(id), ...patch, at: new Date().toISOString() };
+  state.reviews[id] = next;
+  refresh();
+  const prior = state.busy[id] || Promise.resolve();
+  state.busy[id] = prior
+    .then(() => state.db.doc(`reviews/${id}`).set({ en: next.en || '', fr: next.fr || '', note: next.note || '', at: next.at }))
+    .then(() => { if (currentId() === id) say('Saved.'); return true; })
+    .catch((err) => { if (currentId() === id) say(`Not saved: ${err && err.message ? err.message : 'the store refused it'}. Try again in a moment.`, true); return false; });
+  return state.busy[id];
+}
+
+document.addEventListener('click', (ev) => {
+  const go = ev.target.closest('[data-go]');
+  if (go) {
+    ev.preventDefault();
+    if (go.disabled) return;
+    location.hash = go.getAttribute('data-go');
+    window.scrollTo({ top: 0 });
+    return;
+  }
+  const lang = ev.target.closest('[data-lang]');
+  if (lang) {
+    state.lang = lang.getAttribute('data-lang');
+    try { localStorage.setItem('drafts-lang', state.lang); } catch (e) {}
+    renderReader();
+    return;
+  }
+  const filter = ev.target.closest('[data-filter]');
+  if (filter) {
+    state.filter = filter.getAttribute('data-filter');
+    document.querySelectorAll('[data-filter]').forEach((b) => b.setAttribute('aria-pressed', String(b === filter)));
+    renderList();
+    return;
+  }
+  const set = ev.target.closest('[data-set]');
+  if (set && !set.disabled) {
+    const id = currentId();
+    const l = set.getAttribute('data-set');
+    const v = set.getAttribute('data-value');
+    save(id, { [l]: review(id)[l] === v ? '' : v });
+    return;
+  }
+  if (ev.target.closest('#save-note')) {
+    const id = currentId();
+    save(id, { note: $('#note-text').value.trim() }).then((ok) => { if (ok) delete state.drafts[id]; });
+  }
+});
+window.addEventListener('hashchange', render);
+wide.addEventListener('change', render);
+render();
+
+// the decisions live in the artifact's database; without it the page still reads, but can't record them
+(async () => {
+  const notice = $('#notice');
+  const db = window.claude && claude.use ? await claude.use('db') : null;
+  const user = window.claude && claude.use ? await claude.use('user') : null;
+  if (!db) {
+    notice.hidden = false;
+    notice.textContent = 'Decisions can only be recorded on this page’s claude.ai address, signed in. You can still read every draft.';
+    return;
+  }
+  state.db = db;
+  state.canWrite = user ? await user.canEdit() : false;
+  if (!state.canWrite) {
+    notice.hidden = false;
+    notice.textContent = 'You can read the drafts and see the decisions; only the owner records them.';
+  }
+  renderReader();
+  db.collection('reviews').onSnapshot((snap) => {
+    const next = {};
+    for (const d of snap.docs) if (d.exists) next[d.id] = d.data();
+    state.reviews = next;
+    refresh();
+  }, (err) => {
+    notice.hidden = false;
+    notice.textContent = `The decisions couldn’t be loaded (${err.code}). Reload the page to try again.`;
+  });
+})();
+</script>

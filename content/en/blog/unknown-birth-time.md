@@ -11,7 +11,7 @@ Plenty of people don’t know the minute they were born. It isn’t on every bir
 
 ## What the time decides {#what-the-time-decides}
 
-The sky turns a full circle every day, so the time of birth decides what was rising on the horizon — your **rising sign** — and how the twelve **houses** fall: the areas of life each planet speaks to (work, home, love, and so on). Four minutes is enough to move the horizon by a degree.
+The sky turns a full circle every day, so the time of birth decides what was rising on the horizon — your **[rising sign](/astrology/ascendant/)** — and how the twelve **houses** fall: the areas of life each planet speaks to (work, home, love, and so on). Four minutes is enough to move the horizon by a degree.
 
 ## What it doesn’t {#what-it-doesnt}
 
@@ -19,7 +19,7 @@ The planets move far more slowly than the horizon. Over one day, most of them st
 
 ## The Moon, the one to check {#the-moon}
 
-The Moon is the quick one: it changes sign roughly every two and a half days. On most birthdays it stays in one sign from midnight to midnight. On the day it changes, your Moon could be either — and I’ll tell you so, and read both if they matter.
+The [Moon](/astrology/moon/) is the quick one: it changes sign roughly every two and a half days. On most birthdays it stays in one sign from midnight to midnight. On the day it changes, your Moon could be either — and I’ll tell you so, and read both if they matter.
 
 ## How I read without it {#how-i-read-without-it}
 

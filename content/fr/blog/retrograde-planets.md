@@ -8,7 +8,7 @@ tags: ["rétrograde", "Mercure rétrograde", "thème natal"]
 glyph: "☿"
 summary: "Une planète est rétrograde quand, vue de la Terre, elle semble reculer quelque temps. Dans un thème natal, plusieurs rétrogrades décrivent souvent quelqu’un qui travaille les choses à l’intérieur avant de les dire. Ce n’est ni de la lenteur ni une faiblesse : c’est un rythme, et on peut s’y fier."
 ---
-« Mercure rétrograde » est devenu le raccourci pour tout ce qui tourne mal. Dans un thème natal, les planètes rétrogrades disent quelque chose de plus discret, et de bien plus bienveillant.
+« [Mercure rétrograde](/astrology/mercury-retrograde/) » est devenu le raccourci pour tout ce qui tourne mal. Dans un thème natal, les planètes rétrogrades disent quelque chose de plus discret, et de bien plus bienveillant.
 
 ## Ce que veut dire rétrograde {#ce-que-cela-veut-dire}
 

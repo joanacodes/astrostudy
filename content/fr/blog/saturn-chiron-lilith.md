@@ -35,4 +35,4 @@ Ce sont [les endroits les plus durs](/birth-chart/) d’un thème, donc ceux où
 
 ## Pourquoi pas le Soleil ? {#pourquoi-pas-le-soleil}
 
-Votre signe solaire compte toujours, et je le lis. Mais dans mes tests, il a tenu à peu près aussi souvent qu’un horoscope flatteur : il n’a donc pas le plus de temps. Ce sont les placements qui ont mérité leur place qui l’ont.
+Votre [signe solaire](/astrology/sun/) compte toujours, et je le lis. Mais dans mes tests, il a tenu à peu près aussi souvent qu’un horoscope flatteur : il n’a donc pas le plus de temps. Ce sont les placements qui ont mérité leur place qui l’ont.

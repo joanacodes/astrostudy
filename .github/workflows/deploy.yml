@@ -128,6 +128,11 @@ jobs:
       - name: Check the links
         run: node tools/check-links.mjs public
 
+      # Every published encyclopaedia entry against the page plan and the rules of its kind (its address,
+      # its sections, the pages it must link to, French typography); drafts are checked as they're written.
+      - name: Check the encyclopaedia entries
+        run: node tools/plan/check-entries.mjs --published
+
       - name: Check the Worker (not deployed from this branch)
         if: steps.target.outputs.target == 'check'
         run: npx --yes "wrangler@${WRANGLER_VERSION}" deploy --dry-run --outdir "$RUNNER_TEMP/worker"
