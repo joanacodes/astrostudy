@@ -605,7 +605,7 @@ export const families = [
       g('Questions people search', 'Les questions qu’on se pose', 1, 'tested', [
         'Is astrology real? | L’astrologie, c’est vrai ?', 'Does astrology work? | L’astrologie, ça marche ?',
         'Is astrology a science? | L’astrologie est-elle une science ?', 'Did my sign change? | Mon signe a-t-il changé ?',
-        'Does Mercury retrograde break things? | Mercure rétrograde casse-t-il tout ?', 'Are some signs toxic? | Y a-t-il des signes toxiques ?',
+        { en: 'Does Mercury retrograde break things?', fr: 'Mercure rétrograde : est-ce que tout casse ?', slugFr: 'mercure-retrograde-tout-casse' }, 'Are some signs toxic? | Y a-t-il des signes toxiques ?',
         'Astrology versus personality tests | Astrologie et tests de personnalité', 'Are horoscopes written by AI? | Les horoscopes sont-ils écrits par l’IA ?',
       ]),
     ],
