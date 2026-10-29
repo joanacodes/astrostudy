@@ -74,7 +74,7 @@ The planet that rules your rising sign is your [chart ruler](/astrology/chart-ru
 
 1. **[In the 1st house](/astrology/1st-house-ruler-in-1st-house/):** your life is its own project; you steer it yourself, and it shows.
 2. **[In the 2nd house](/astrology/1st-house-ruler-in-2nd-house/):** you build yourself through what you earn, keep and value.
-3. **[In the 3rd house](/astrology/1st-house-ruler-in-3rd-house/):** words, learning and the people close by, siblings and neighbours, shape your path.
+3. **[In the 3rd house](/astrology/1st-house-ruler-in-3rd-house/):** words, learning and the people close by — siblings, neighbours — shape your path.
 4. **[In the 4th house](/astrology/1st-house-ruler-in-4th-house/):** home and roots come first; your private life is where you find yourself.
 5. **[In the 5th house](/astrology/1st-house-ruler-in-5th-house/):** you come alive through creating, playing and loving.
 6. **[In the 6th house](/astrology/1st-house-ruler-in-6th-house/):** you shape yourself through daily work, craft and being useful.

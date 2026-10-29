@@ -80,7 +80,7 @@ The planet that rules the sign on your Descendant is the ruler of your 7th house
 6. **[In the 6th house](/astrology/7th-house-ruler-in-6th-house/):** partners met through work or daily routine; love shown in practical help.
 7. **[In the 7th house](/astrology/7th-house-ruler-in-7th-house/):** relationships are a story of their own; commitment comes naturally.
 8. **[In the 8th house](/astrology/7th-house-ruler-in-8th-house/):** bonds that change you, built on deep trust and on what you share.
-9. **[In the 9th house](/astrology/7th-house-ruler-in-9th-house/):** partners from elsewhere, another country, culture or belief; love as a journey.
+9. **[In the 9th house](/astrology/7th-house-ruler-in-9th-house/):** partners from elsewhere: another country, culture or belief; love as a journey.
 10. **[In the 10th house](/astrology/7th-house-ruler-in-10th-house/):** partners met through work, or a relationship lived in public.
 11. **[In the 11th house](/astrology/7th-house-ruler-in-11th-house/):** partners who arrive through friendship, often within a group.
 12. **[In the 12th house](/astrology/7th-house-ruler-in-12th-house/):** relationships you keep private, or that grow quietly, away from view.

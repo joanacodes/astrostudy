@@ -2,7 +2,7 @@
 title: "Milieu du Ciel"
 slug: "milieu-du-ciel"
 h1: "Le Milieu du Ciel en astrologie"
-description: "Le Milieu du Ciel (MC) en astrologie : votre direction publique, le signe sur la cuspide de la maison 10, son maître, la synastrie, les transits et mes tests."
+description: "Le Milieu du Ciel (MC) en astrologie : votre cap dans la vie publique, son signe, son maître, la synastrie, les transits — et ce que disent mes tests."
 date: 2026-10-29
 reviewed: 2026-10-29
 draft: true
@@ -92,7 +92,7 @@ En [synastrie](/synastry/), le Milieu du Ciel montre comment l’autre touche vo
 
 ## Les transits sur le Milieu du Ciel {#transits}
 
-Les angles n’ont pas de retour : c’est le ciel qui bouge. Jupiter atteint votre Milieu du Ciel environ tous les 12 ans, Saturne environ tous les 29 ans et demi, après avoir gravi votre maison 9. Quand [Saturne en transit passe sur votre Milieu du Ciel](/astrology/transiting-saturn-conjunct-natal-midheaven/), on décrit souvent un sommet de responsabilités : ce que vous avez bâti se voit, et demande à être porté. Elle traverse ensuite votre maison 10 ([Saturne en transit en maison 10](/astrology/saturn-transit-10th-house/)). [Jupiter sur le Milieu du Ciel](/astrology/transiting-jupiter-conjunct-natal-midheaven/) ressemble plutôt à de la visibilité et à des encouragements ; [Pluton](/astrology/transiting-pluto-conjunct-natal-midheaven/), que beaucoup ne rencontrent jamais à cet endroit, à un lent changement de cap. Uranus et Neptune, eux aussi, l’atteignent une fois dans une vie au plus.
+Les angles n’ont pas de retour : c’est le ciel qui bouge. Jupiter atteint votre Milieu du Ciel environ tous les 12 ans, Saturne environ tous les 29 ans et demi, après avoir gravi votre maison 9. Quand [Saturne en transit passe sur votre Milieu du Ciel](/astrology/transiting-saturn-conjunct-natal-midheaven/), on décrit souvent un sommet de responsabilités : ce que vous avez bâti se voit, et demande à être porté. Saturne traverse ensuite votre maison 10 ([Saturne en transit en maison 10](/astrology/saturn-transit-10th-house/)). [Jupiter sur le Milieu du Ciel](/astrology/transiting-jupiter-conjunct-natal-midheaven/) ressemble plutôt à de la visibilité et à des encouragements ; [Pluton](/astrology/transiting-pluto-conjunct-natal-midheaven/), que beaucoup ne rencontrent jamais à cet endroit, à un lent changement de cap. Uranus et Neptune, eux aussi, l’atteignent une fois dans une vie au plus.
 
 Un transit, c’est une météo, pas une prédiction : il décrit le climat autour de votre travail, jamais une promotion ou un licenciement écrits d’avance. Et il n’est précis qu’à la mesure de votre heure de naissance.
 
@@ -102,6 +102,6 @@ Mon carnet ne rapporte pas le Milieu du Ciel à part : je ne lui donnerai donc 
 
 ## Idées reçues {#idees-recues}
 
-- **« Le Milieu du Ciel est le point juste au-dessus de la tête. »** Ça, c’est le zénith. Le Milieu du Ciel est le point où le zodiaque croise le méridien, et il peut se trouver loin du zénith.
+- **« Pas de planète en maison 10, pas de carrière. »** Une [maison vide](/astrology/empty-houses/) a toujours un signe sur sa cuspide et un maître, et ils décrivent toujours votre travail.
 - **« Votre Milieu du Ciel vous dit quel métier faire. »** Il décrit une direction et un style ; bien des métiers différents peuvent les suivre.
 - **« Le Milieu du Ciel est toujours la cuspide de la maison 10. »** Seulement en Placidus et dans les autres systèmes par quadrants. En maisons Whole Sign ou égales, il peut tomber en maison 9 ou 11 : tout dépend du [système de maisons](/astrology/which-house-system-should-i-use/) choisi.

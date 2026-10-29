@@ -78,7 +78,7 @@ The planet that rules the sign on your IC is the ruler of your 4th house ([house
 5. **[In the 5th house](/astrology/4th-house-ruler-in-5th-house/):** home as a place of play, warmth and creativity.
 6. **[In the 6th house](/astrology/4th-house-ruler-in-6th-house/):** home and daily work overlap: duties at home, or working from it.
 7. **[In the 7th house](/astrology/4th-house-ruler-in-7th-house/):** home is made with a partner; partners become family.
-8. **[In the 8th house](/astrology/4th-house-ruler-in-8th-house/):** what the family passes down, its stories, habits and unfinished business, weighs more than most.
+8. **[In the 8th house](/astrology/4th-house-ruler-in-8th-house/):** what the family passes down — its stories, habits and unfinished business — weighs on you more than on most.
 9. **[In the 9th house](/astrology/4th-house-ruler-in-9th-house/):** home far from where you started, or roots in another culture or belief.
 10. **[In the 10th house](/astrology/4th-house-ruler-in-10th-house/):** family and career intertwine, through a family business or a family name.
 11. **[In the 11th house](/astrology/4th-house-ruler-in-11th-house/):** friends become family; home as a meeting place.
@@ -86,7 +86,7 @@ The planet that rules the sign on your IC is the ruler of your 4th house ([house
 
 ## The IC in synastry {#in-synastry}
 
-In [synastry](/synastry/), the IC shows who feels like home. When someone's Moon falls on your IC or in your 4th house ([their Moon in your 4th house](/astrology/moon-in-4th-house-synastry/)), being together can feel familiar from the start, sometimes so familiar that it stirs up old family patterns. [Their Venus in your 4th house](/astrology/venus-in-4th-house-synastry/) tends to bring tenderness into the home you share. These contacts matter for couples who live together and between adult members of a family alike. I read them in both directions and, as always, only [with both people's agreement](/blog/synastry-behind-their-back/).
+In [synastry](/synastry/), the IC shows who feels like home. When someone's Moon falls on your IC or in your 4th house ([their Moon in your 4th house](/astrology/moon-in-4th-house-synastry/)), being together can feel familiar from the start, sometimes so familiar that it stirs up old family patterns. [Their Venus in your 4th house](/astrology/venus-in-4th-house-synastry/) tends to bring tenderness into the home you share. These contacts matter for couples who live together, and for adult members of the same family. I read them in both directions and, as always, only [with both people's agreement](/blog/synastry-behind-their-back/).
 
 ## Transits to the IC {#transits}
 

@@ -1,7 +1,7 @@
 ---
 title: "Midheaven"
 h1: "The Midheaven in astrology"
-description: "The Midheaven (MC) in astrology: your direction in public life, the sign on your 10th house cusp, its ruler, synastry and transits — and my tests."
+description: "The Midheaven (MC) in astrology: your direction in public life, the sign on your 10th house cusp, its ruler, synastry, transits — and what my tests say."
 date: 2026-10-29
 reviewed: 2026-10-29
 draft: true
@@ -53,7 +53,7 @@ Because the Midheaven and the IC are always exactly opposite, an aspect to one i
 
 ## The Midheaven through the signs {#through-the-signs}
 
-The whole zodiac crosses the meridian once a day, so the Midheaven changes sign about every two hours. People born on the same day can have Midheavens in very different signs, and only your [birth time](/blog/unknown-birth-time/) settles yours. What each one tends to want to be known for:
+The whole zodiac crosses the meridian once a day, so the Midheaven changes sign about every two hours. People born on the same day can have Midheavens in very different signs, and only your [birth time](/blog/unknown-birth-time/) settles yours. What each one wants to be known for:
 
 - **[Midheaven in Aries](/astrology/aries-on-10th-house-cusp/):** initiative; work where you can lead or start things.
 - **[Midheaven in Taurus](/astrology/taurus-on-10th-house-cusp/):** reliability; a career that builds something lasting and real.
@@ -91,7 +91,7 @@ In [synastry](/synastry/), the Midheaven shows how another person touches your d
 
 ## Transits to the Midheaven {#transits}
 
-The angles have no return: what moves is the sky. Jupiter reaches your Midheaven about every 12 years, Saturn about every 29½, after climbing through your 9th house. When [Saturn crosses your Midheaven](/astrology/transiting-saturn-conjunct-natal-midheaven/), people often describe a peak of responsibility: what you've built is seen, and asks to be carried. It then moves through your 10th house ([Saturn transiting the 10th house](/astrology/saturn-transit-10th-house/)). [Jupiter on the Midheaven](/astrology/transiting-jupiter-conjunct-natal-midheaven/) tends to feel like visibility and encouragement; [Pluto](/astrology/transiting-pluto-conjunct-natal-midheaven/), which many people never meet there, like a slow change of direction. Uranus and Neptune, too, reach it once in a lifetime at most.
+The angles have no return: what moves is the sky. Jupiter reaches your Midheaven about every 12 years, Saturn about every 29½, after climbing through your 9th house. When [Saturn crosses your Midheaven](/astrology/transiting-saturn-conjunct-natal-midheaven/), people often describe a peak of responsibility: what you've built is seen, and asks to be carried. Saturn then moves on through your 10th house ([Saturn transiting the 10th house](/astrology/saturn-transit-10th-house/)). [Jupiter on the Midheaven](/astrology/transiting-jupiter-conjunct-natal-midheaven/) tends to feel like visibility and encouragement; [Pluto](/astrology/transiting-pluto-conjunct-natal-midheaven/), which many people never meet there, like a slow change of direction. Uranus and Neptune, too, reach it once in a lifetime at most.
 
 A transit is weather, not a forecast: it describes the climate around your work, never a promotion or a dismissal written in advance. And it is only as precise as your birth time.
 
@@ -101,6 +101,6 @@ My notebook doesn't report the Midheaven on its own, so I won't give it a figure
 
 ## Common myths {#myths}
 
-- **“The Midheaven is the point straight overhead.”** That's the zenith. The Midheaven is where the zodiac crosses the meridian, and it can sit a long way from overhead.
+- **“No planets in the 10th house, no career.”** An [empty house](/astrology/empty-houses/) still has a sign on its cusp and a ruler, and they still describe your work.
 - **“Your Midheaven tells you which job to do.”** It describes a direction and a style; many different jobs can follow it.
 - **“The Midheaven is always the cusp of the 10th house.”** Only in Placidus and the other quadrant systems. In Whole Sign and equal houses it can fall in the 9th or the 11th: it depends on the [house system](/astrology/which-house-system-should-i-use/) you use.
