@@ -12,7 +12,7 @@ I didn’t come to astrology to believe it. I came to it during the pandemic, bo
 
 ## The invoice method {#the-method}
 
-I printed my chart and went through it like an invoice. Every [placement](/astrology/) — Sun, [Moon](/astrology/moon/), rising, each planet in its sign and house — and beside each one, a tick or a cross.
+I printed my chart and went through it like an invoice. Every [placement](/astrology/) — Sun, [Moon](/astrology/moon/), [rising](/astrology/ascendant/), each planet in its sign and house — and beside each one, a tick or a cross.
 
 A **tick** if it described me in a way I couldn’t have written about anyone else. A **cross** if it was vague, wrong, or would have fitted my neighbour just as well. No half marks. Half marks are where wishful thinking lives.
 

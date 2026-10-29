@@ -13,7 +13,7 @@ Je ne suis pas venue à l’astrologie pour y croire. J’y suis arrivée pendan
 
 ## La méthode de la facture {#la-methode}
 
-J’ai imprimé mon thème et je l’ai épluché comme une facture. Chaque [placement](/astrology/) — Soleil, [Lune](/astrology/moon/), ascendant, chaque planète dans son signe et sa maison — et à côté de chacun, une coche ou une croix.
+J’ai imprimé mon thème et je l’ai épluché comme une facture. Chaque [placement](/astrology/) — Soleil, [Lune](/astrology/moon/), [ascendant](/astrology/ascendant/), chaque planète dans son signe et sa maison — et à côté de chacun, une coche ou une croix.
 
 Une **coche** si cela me décrivait d’une façon que je n’aurais pu écrire sur personne d’autre. Une **croix** si c’était vague, faux, ou si cela allait aussi bien à ma voisine. Pas de demi-points. Les demi-points, c’est là que se loge l’envie d’y croire.
 

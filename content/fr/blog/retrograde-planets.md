@@ -12,7 +12,7 @@ summary: "Une planète est rétrograde quand, vue de la Terre, elle semble recul
 
 ## Ce que veut dire rétrograde {#ce-que-cela-veut-dire}
 
-Aucune planète ne fait vraiment demi-tour. Vue depuis la Terre, qui bouge elle aussi, une planète semble parfois ralentir, s’arrêter et reculer devant les étoiles quelques semaines, avant de reprendre sa route. Ce recul apparent s’appelle la rétrogradation. Si vous êtes né pendant l’une d’elles, cette planète est rétrograde dans votre thème. Les planètes lentes passent ainsi des mois chaque année : [Saturne](/astrology/saturn/) environ quatre mois et demi, [Chiron](/astrology/chiron/) environ cinq. Un Saturne ou un Chiron rétrograde est donc courant, et jamais un défaut.
+Aucune planète ne fait vraiment demi-tour. Vue depuis la Terre, qui bouge elle aussi, une planète semble parfois ralentir, s’arrêter et reculer devant les étoiles quelques semaines, avant de reprendre sa route. Ce recul apparent s’appelle la rétrogradation. Si vous êtes né pendant l’une d’elles, cette planète est rétrograde dans votre thème. Les planètes lentes passent ainsi des mois chaque année : [Saturne](/astrology/saturn/) environ quatre mois et demi, [Chiron](/astrology/chiron/) environ cinq. [Mercure](/astrology/mercury/), le plus rapide, le fait trois ou quatre fois par an, pendant environ trois semaines. Un Saturne ou un Chiron rétrograde est donc courant, et jamais un défaut.
 
 ## Des planètes qui travaillent à l’intérieur {#a-l-interieur}
 

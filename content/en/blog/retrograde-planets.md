@@ -11,7 +11,7 @@ summary: "A planet is retrograde when, seen from Earth, it seems to move backwar
 
 ## What retrograde means {#what-it-means}
 
-No planet actually turns back. Seen from Earth, which is moving too, a planet sometimes seems to slow, stop, and drift backwards against the stars for a few weeks, before carrying on. That apparent backwards stretch is called retrograde. If you were born during one, that planet is retrograde in your chart. The slow planets spend months of every year this way: [Saturn](/astrology/saturn/) about four and a half, [Chiron](/astrology/chiron/) about five. A retrograde Saturn or Chiron is common, and never a flaw.
+No planet actually turns back. Seen from Earth, which is moving too, a planet sometimes seems to slow, stop, and drift backwards against the stars for a few weeks, before carrying on. That apparent backwards stretch is called retrograde. If you were born during one, that planet is retrograde in your chart. The slow planets spend months of every year this way: [Saturn](/astrology/saturn/) about four and a half, [Chiron](/astrology/chiron/) about five. [Mercury](/astrology/mercury/), the quickest, does it three or four times a year, for about three weeks. A retrograde Saturn or Chiron is common, and never a flaw.
 
 ## Planets that work inward {#inward}
 
