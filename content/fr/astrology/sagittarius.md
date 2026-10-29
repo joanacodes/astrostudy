@@ -12,7 +12,7 @@ glyph: "♐"
 definition: "Le Sagittaire est le neuvième signe du zodiaque, un signe de feu mutable gouverné par Jupiter ; le Soleil le traverse environ du 22 novembre au 21 décembre. Dans un thème natal, il montre où vous cherchez du sens, de la liberté et un horizon plus large — le domaine où vous voulez explorer, apprendre et croire."
 facts:
   - { k: "Symbole", v: "♐ — la flèche de l’archer" }
-  - { k: "Dates (Soleil)", v: "Du 22 novembre au 21 décembre environ" }
+  - { k: "Dates (Soleil)", v: "Environ du 22 novembre au 21 décembre" }
   - { k: "Élément", v: "Feu" }
   - { k: "Mode", v: "Mutable" }
   - { k: "Maître", v: "Jupiter" }
@@ -42,9 +42,9 @@ Chaque thème contient du Sagittaire quelque part, qu’une planète s’y trouv
 
 Trois placements amènent la plupart des gens ici :
 
-- **[Soleil en Sagittaire](/astrology/sun-in-sagittarius/)** — une naissance entre le 22 novembre et le 21 décembre environ. C’est en cherchant du sens que vous prenez vie — par le voyage, les études, la foi ou simplement une bonne discussion. Il vous faut une direction plus qu’une destination.
-- **[Lune en Sagittaire](/astrology/moon-in-sagittarius/)** — vous vous sentez en sécurité quand vous avez de la place : de l’espace, des projets, un horizon. L’humour est votre façon de vous consoler et de consoler les autres, et rien ne vous trouble autant que de vous sentir à l’étroit.
-- **[Ascendant Sagittaire](/astrology/sagittarius-rising/)** — vous abordez le monde avec ouverture et franchise, et l’on vous parle facilement. Jupiter devient le [maître du thème](/astrology/chart-ruler/) : sa place compte beaucoup. Un ascendant demande votre [heure de naissance](/blog/unknown-birth-time/) : il change de signe toutes les deux heures environ.
+- **[Soleil en Sagittaire](/astrology/sun-in-sagittarius/) :** une naissance entre le 22 novembre et le 21 décembre environ. C’est en cherchant du sens que vous prenez vie — par le voyage, les études, la foi ou simplement une bonne discussion. Il vous faut une direction plus qu’une destination.
+- **[Lune en Sagittaire](/astrology/moon-in-sagittarius/) :** vous vous sentez en sécurité quand vous avez de la place : de l’espace, des projets, un horizon. L’humour est votre façon de vous consoler et de consoler les autres, et rien ne vous trouble autant que de vous sentir à l’étroit.
+- **[Ascendant Sagittaire](/astrology/sagittarius-rising/) :** vous abordez le monde avec ouverture et franchise, et l’on vous parle facilement. Jupiter devient le [maître du thème](/astrology/chart-ruler/) : sa place compte beaucoup. Un ascendant demande votre [heure de naissance](/blog/unknown-birth-time/) : il change de signe toutes les deux heures environ.
 
 Aucun des trois ne fait toute la personne. Dans [mon carnet](/blog/i-tested-my-birth-chart/), le signe solaire et l’ascendant ont chacun tenu environ une fois sur trois, et la Lune, vérifiée comme tous les autres placements, ne faisait pas partie des trois qui ont tenu bien plus souvent. Je lis donc le Sagittaire comme une voix parmi d’autres dans un thème, jamais comme le thème entier.
 
@@ -71,7 +71,7 @@ Toutes les planètes traversent le Sagittaire un jour ou l’autre : la Lune en
 
 ## Le Sagittaire sur une cuspide {#sur-une-cuspide}
 
-Dans la plupart des thèmes, le Sagittaire ouvre l’une des douze maisons. En Placidus et dans les autres systèmes par quadrants, un signe peut aussi en ouvrir deux, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur de l’une d’elles. Là où le Sagittaire ouvre une maison, vous voulez de l’espace, du sens et de quoi grandir, et Jupiter, où qu’il soit, poursuit l’histoire. La maison dépend de votre heure et de votre lieu de naissance.
+Chaque thème a le Sagittaire quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Sagittaire ouvre une maison, vous voulez de l’espace, du sens et de quoi grandir, et Jupiter, où qu’il soit, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
 
 1. **[Maison I](/astrology/sagittarius-rising/) :** l’ascendant Sagittaire — une présence ouverte, franche et remuante ; vous abordez les gens comme si la conversation avait déjà commencé.
 2. **[Maison II](/astrology/sagittarius-on-2nd-house-cusp/) :** l’argent comme liberté plutôt que comme sécurité, avec une générosité et un optimisme parfois excessifs ; vous pouvez gagner votre vie par l’enseignement, le voyage ou les idées.

@@ -42,9 +42,9 @@ Every chart has Aquarius somewhere, whether or not a planet sits in it. Wherever
 
 Three placements bring most people here:
 
-- **[Sun in Aquarius](/astrology/sun-in-aquarius/)** — born between about 20 January and 18 February. You shine by thinking differently, for others. You often feel most yourself in a group or a cause, and you need the freedom to be the exception.
-- **[Moon in Aquarius](/astrology/moon-in-aquarius/)** — you feel safe with space, and with friends who don't crowd you. You understand feelings by thinking them through, which can look like distance from the outside.
-- **[Aquarius rising](/astrology/aquarius-rising/)** — you meet the world in a friendly, curious, slightly detached way, and people remember you as a little different. With two rulers, there are two planets to look at as your [chart ruler](/astrology/chart-ruler/): Saturn and Uranus. A rising sign needs your [birth time](/blog/unknown-birth-time/): it changes about every two hours.
+- **[Sun in Aquarius](/astrology/sun-in-aquarius/):** born between about 20 January and 18 February. You shine by thinking differently, for others. You often feel most yourself in a group or a cause, and you need the freedom to be the exception.
+- **[Moon in Aquarius](/astrology/moon-in-aquarius/):** you feel safe with space, and with friends who don't crowd you. You understand feelings by thinking them through, which can look like distance from the outside.
+- **[Aquarius rising](/astrology/aquarius-rising/):** you meet the world in a friendly, curious, slightly detached way, and people remember you as a little different. With two rulers, there are two planets to look at as your [chart ruler](/astrology/chart-ruler/): Saturn and Uranus. A rising sign needs your [birth time](/blog/unknown-birth-time/): it changes about every two hours.
 
 None of these tells the whole story. In [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign and the rising sign each held about a third of the time, and the Moon, checked like every other placement, wasn't one of the three that held far more often. Aquarius's traditional ruler was one of those three: Saturn held 75 to 90% of the time, so in a chart with a lot of Aquarius, I never skip it.
 
@@ -71,7 +71,7 @@ Every planet passes through Aquarius, from the Moon in about two and a half days
 
 ## Aquarius on a house cusp {#on-a-house-cusp}
 
-In most charts Aquarius opens one of the twelve houses. In Placidus and the other quadrant systems, a sign can also open two, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Aquarius opens a house, that's where you do things your own way and think of the wider group, and Uranus and Saturn, wherever they sit, carry the story on. Which house it is depends on your birth time and place.
+Every chart has Aquarius somewhere in its twelve houses, usually on the cusp of one of them. In Placidus and the other quadrant systems, a sign can open two houses, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Aquarius opens a house, that's where you do things your own way and think of the wider group, and Uranus and Saturn, wherever they sit, carry the story on. Which house it is depends on your birth time.
 
 1. **[1st house](/astrology/aquarius-rising/):** Aquarius rising — a friendly, independent presence, a little apart from the crowd even when you're in it.
 2. **[2nd house](/astrology/aquarius-on-2nd-house-cusp/):** an unusual relationship with money; you may earn through technology, networks or ideas, and value freedom over possessions.

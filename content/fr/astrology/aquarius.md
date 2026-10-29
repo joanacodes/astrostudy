@@ -12,7 +12,7 @@ glyph: "♒"
 definition: "Le Verseau est le onzième signe du zodiaque, un signe d’air fixe gouverné par Uranus en astrologie moderne et par Saturne dans la tradition ; le Soleil le traverse environ du 20 janvier au 18 février. Dans un thème natal, il montre où vous pensez par vous-même, choisissez le groupe et voulez faire autrement."
 facts:
   - { k: "Symbole", v: "♒ — les vagues du porteur d’eau" }
-  - { k: "Dates (Soleil)", v: "Du 20 janvier au 18 février environ" }
+  - { k: "Dates (Soleil)", v: "Environ du 20 janvier au 18 février" }
   - { k: "Élément", v: "Air" }
   - { k: "Mode", v: "Fixe" }
   - { k: "Maître", v: "Uranus (moderne), Saturne (traditionnel)" }
@@ -43,9 +43,9 @@ Chaque thème contient du Verseau quelque part, qu’une planète s’y trouve o
 
 Trois placements amènent la plupart des gens ici :
 
-- **[Soleil en Verseau](/astrology/sun-in-aquarius/)** — une naissance entre le 20 janvier et le 18 février environ. Vous rayonnez en pensant autrement, pour les autres. C’est souvent dans un groupe ou une cause que vous vous sentez le plus vous-même, et il vous faut la liberté d’être l’exception.
-- **[Lune en Verseau](/astrology/moon-in-aquarius/)** — vous vous sentez en sécurité avec de l’espace, et avec des amitiés qui ne vous étouffent pas. Vous comprenez vos émotions en y réfléchissant, ce qui peut ressembler, vu de l’extérieur, à de la distance.
-- **[Ascendant Verseau](/astrology/aquarius-rising/)** — vous abordez le monde de façon amicale, curieuse et un peu détachée, et l’on se souvient de vous comme d’une personne un peu à part. Avec deux maîtres, il y a deux planètes à regarder comme [maître du thème](/astrology/chart-ruler/) : Saturne et Uranus. Un ascendant demande votre [heure de naissance](/blog/unknown-birth-time/) : il change de signe toutes les deux heures environ.
+- **[Soleil en Verseau](/astrology/sun-in-aquarius/) :** une naissance entre le 20 janvier et le 18 février environ. Vous rayonnez en pensant autrement, pour les autres. C’est souvent dans un groupe ou une cause que vous vous sentez le plus vous-même, et il vous faut la liberté d’être l’exception.
+- **[Lune en Verseau](/astrology/moon-in-aquarius/) :** vous vous sentez en sécurité avec de l’espace, et avec des amitiés qui ne vous étouffent pas. Vous comprenez vos émotions en y réfléchissant, ce qui peut ressembler, vu de l’extérieur, à de la distance.
+- **[Ascendant Verseau](/astrology/aquarius-rising/) :** vous abordez le monde de façon amicale, curieuse et un peu détachée, et l’on se souvient de vous comme d’une personne un peu à part. Avec deux maîtres, il y a deux planètes à regarder comme [maître du thème](/astrology/chart-ruler/) : Saturne et Uranus. Un ascendant demande votre [heure de naissance](/blog/unknown-birth-time/) : il change de signe toutes les deux heures environ.
 
 Aucun des trois ne fait toute la personne. Dans [mon carnet](/blog/i-tested-my-birth-chart/), le signe solaire et l’ascendant ont chacun tenu environ une fois sur trois, et la Lune, vérifiée comme tous les autres placements, ne faisait pas partie des trois qui ont tenu bien plus souvent. Le maître traditionnel du Verseau, lui, en faisait partie : Saturne a tenu 75 à 90 % du temps, et dans un thème où le Verseau pèse lourd, je ne la saute jamais.
 
@@ -72,7 +72,7 @@ Toutes les planètes traversent le Verseau, de la Lune, qui y passe environ deux
 
 ## Le Verseau sur une cuspide {#sur-une-cuspide}
 
-Dans la plupart des thèmes, le Verseau ouvre l’une des douze maisons. En Placidus et dans les autres systèmes par quadrants, un signe peut aussi en ouvrir deux, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur de l’une d’elles. Là où le Verseau ouvre une maison, vous faites les choses à votre façon en pensant au groupe, et Uranus et Saturne, où qu’ils soient, poursuivent l’histoire. La maison dépend de votre heure et de votre lieu de naissance.
+Chaque thème a le Verseau quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Verseau ouvre une maison, vous faites les choses à votre façon en pensant au groupe, et Uranus et Saturne, où qu’ils soient, poursuivent l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
 
 1. **[Maison I](/astrology/aquarius-rising/) :** l’ascendant Verseau — une présence amicale et indépendante, un peu à l’écart de la foule même quand vous êtes dedans.
 2. **[Maison II](/astrology/aquarius-on-2nd-house-cusp/) :** un rapport peu conventionnel à l’argent ; vous pouvez gagner votre vie par la technique, les réseaux ou les idées, et la liberté compte plus que les possessions.

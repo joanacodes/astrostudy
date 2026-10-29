@@ -12,7 +12,7 @@ glyph: "♓"
 definition: "Les Poissons sont le douzième et dernier signe du zodiaque, un signe d’eau mutable gouverné par Neptune en astrologie moderne et par Jupiter dans la tradition ; le Soleil les traverse environ du 19 février au 20 mars. Dans un thème natal, ils montrent où vos frontières s’adoucissent : où vous imaginez, ressentez et lâchez prise."
 facts:
   - { k: "Symbole", v: "♓ — deux poissons liés l’un à l’autre" }
-  - { k: "Dates (Soleil)", v: "Du 19 février au 20 mars environ" }
+  - { k: "Dates (Soleil)", v: "Environ du 19 février au 20 mars" }
   - { k: "Élément", v: "Eau" }
   - { k: "Mode", v: "Mutable" }
   - { k: "Maître", v: "Neptune (moderne), Jupiter (traditionnel)" }
@@ -43,9 +43,9 @@ Chaque thème contient des Poissons quelque part, qu’une planète s’y trouve
 
 Trois placements amènent la plupart des gens ici :
 
-- **[Soleil en Poissons](/astrology/sun-in-pisces/)** — une naissance entre le 19 février et le 20 mars environ. Vous grandissez par l’imagination et la compassion. Vous comprenez les gens sans qu’ils aient à parler, et une partie du chemin consiste à apprendre où vous finissez et où ils commencent.
-- **[Lune en Poissons](/astrology/moon-in-pisces/)** — vous ressentez ce que ressentent les autres, parfois avant eux. Il vous faut du calme, de la musique, de l’eau ou du temps à l’écart pour revenir à vous.
-- **[Ascendant Poissons](/astrology/pisces-rising/)** — vous abordez le monde en douceur et vous accordez à l’ambiance, et l’on vous trouve à la fois tendre et difficile à cerner. Avec deux maîtres, il y a deux planètes à regarder comme [maître du thème](/astrology/chart-ruler/) : Jupiter et Neptune. Un ascendant demande votre [heure de naissance](/blog/unknown-birth-time/) : il change de signe toutes les deux heures environ.
+- **[Soleil en Poissons](/astrology/sun-in-pisces/) :** une naissance entre le 19 février et le 20 mars environ. Vous grandissez par l’imagination et la compassion. Vous comprenez les gens sans qu’ils aient à parler, et une partie du chemin consiste à apprendre où vous finissez et où ils commencent.
+- **[Lune en Poissons](/astrology/moon-in-pisces/) :** vous ressentez ce que ressentent les autres, parfois avant eux. Il vous faut du calme, de la musique, de l’eau ou du temps à l’écart pour revenir à vous.
+- **[Ascendant Poissons](/astrology/pisces-rising/) :** vous abordez le monde en douceur et vous accordez à l’ambiance, et l’on vous trouve à la fois tendre et difficile à cerner. Avec deux maîtres, il y a deux planètes à regarder comme [maître du thème](/astrology/chart-ruler/) : Jupiter et Neptune. Un ascendant demande votre [heure de naissance](/blog/unknown-birth-time/) : il change de signe toutes les deux heures environ.
 
 Aucun des trois ne fait toute la personne. Dans [mon carnet](/blog/i-tested-my-birth-chart/), le signe solaire et l’ascendant ont chacun tenu environ une fois sur trois, et la Lune, vérifiée comme tous les autres placements, ne faisait pas partie des trois qui ont tenu bien plus souvent. Je lis donc les Poissons comme une voix parmi d’autres dans un thème, jamais comme le thème entier.
 
@@ -72,7 +72,7 @@ Toutes les planètes traversent les Poissons, de la Lune, qui y passe environ de
 
 ## Les Poissons sur une cuspide {#sur-une-cuspide}
 
-Dans la plupart des thèmes, les Poissons ouvrent l’une des douze maisons. En Placidus et dans les autres systèmes par quadrants, un signe peut aussi en ouvrir deux, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur de l’une d’elles. Là où les Poissons ouvrent une maison, vos frontières sont les plus souples et votre imagination la plus vive, et Neptune et Jupiter, où qu’ils soient, poursuivent l’histoire. La maison dépend de votre heure et de votre lieu de naissance.
+Chaque thème a les Poissons quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où les Poissons ouvrent une maison, vos frontières sont les plus souples et votre imagination la plus vive, et Neptune et Jupiter, où qu’ils soient, poursuivent l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
 
 1. **[Maison I](/astrology/pisces-rising/) :** l’ascendant Poissons — une présence douce et réceptive, qui prend la couleur de la pièce.
 2. **[Maison II](/astrology/pisces-on-2nd-house-cusp/) :** un rapport fluide à l’argent, généreux et parfois flou ; vous accordez du prix à ce qui ne s’achète pas.

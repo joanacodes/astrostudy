@@ -12,7 +12,7 @@ glyph: "♏"
 definition: "Le Scorpion est le huitième signe du zodiaque, un signe d’eau fixe gouverné par Pluton en astrologie moderne et par Mars dans la tradition ; le Soleil le traverse environ du 23 octobre au 21 novembre. Dans un thème natal, il montre où vous allez au fond, tenez bon et préférez la vérité aux apparences."
 facts:
   - { k: "Symbole", v: "♏ — le scorpion et son dard" }
-  - { k: "Dates (Soleil)", v: "Du 23 octobre au 21 novembre environ" }
+  - { k: "Dates (Soleil)", v: "Environ du 23 octobre au 21 novembre" }
   - { k: "Élément", v: "Eau" }
   - { k: "Mode", v: "Fixe" }
   - { k: "Maître", v: "Pluton (moderne), Mars (traditionnel)" }
@@ -43,9 +43,9 @@ Chaque thème contient du Scorpion quelque part, qu’une planète s’y trouve 
 
 Trois placements amènent la plupart des gens ici :
 
-- **[Soleil en Scorpion](/astrology/sun-in-scorpio/)** — une naissance entre le 23 octobre et le 21 novembre environ. Vous grandissez en allant au fond des choses, et en y restant. Vous préférez connaître une chose à fond que beaucoup un peu, et c’est souvent dans la crise, quand les autres reculent, que vous êtes le plus solide.
-- **[Lune en Scorpion](/astrology/moon-in-scorpio/)** — vos émotions sont profondes et secrètes. Très peu de personnes vous donnent un sentiment de sécurité, mais quand vous faites confiance, le lien est entier. La Lune est ici en chute, ce qui, en pratique, veut souvent dire des sentiments forts gardés à l’abri des regards.
-- **[Ascendant Scorpion](/astrology/scorpio-rising/)** — on sent votre intensité avant que vous ayez dit un mot, et vous observez avant de parler. Avec deux maîtres, il y a deux planètes à regarder comme [maître du thème](/astrology/chart-ruler/) : Mars et Pluton. Un ascendant demande votre [heure de naissance](/blog/unknown-birth-time/) : il change de signe toutes les deux heures environ.
+- **[Soleil en Scorpion](/astrology/sun-in-scorpio/) :** une naissance entre le 23 octobre et le 21 novembre environ. Vous grandissez en allant au fond des choses, et en y restant. Vous préférez connaître une chose à fond que beaucoup un peu, et c’est souvent dans la crise, quand les autres reculent, que vous êtes le plus solide.
+- **[Lune en Scorpion](/astrology/moon-in-scorpio/) :** vos émotions sont profondes et secrètes. Très peu de personnes vous donnent un sentiment de sécurité, mais quand vous faites confiance, le lien est entier. La Lune est ici en chute, ce qui, en pratique, veut souvent dire des sentiments forts gardés à l’abri des regards.
+- **[Ascendant Scorpion](/astrology/scorpio-rising/) :** on sent votre intensité avant que vous ayez dit un mot, et vous observez avant de parler. Avec deux maîtres, il y a deux planètes à regarder comme [maître du thème](/astrology/chart-ruler/) : Mars et Pluton. Un ascendant demande votre [heure de naissance](/blog/unknown-birth-time/) : il change de signe toutes les deux heures environ.
 
 Aucun des trois ne fait toute la personne. Dans [mon carnet](/blog/i-tested-my-birth-chart/), le signe solaire et l’ascendant ont chacun tenu environ une fois sur trois, et la Lune, vérifiée comme tous les autres placements, ne faisait pas partie des trois qui ont tenu bien plus souvent. Un Soleil en Scorpion me dit donc par où commencer, pas quoi conclure.
 
@@ -72,7 +72,7 @@ Toutes les planètes traversent le Scorpion, de la Lune, qui y passe environ deu
 
 ## Le Scorpion sur une cuspide {#sur-une-cuspide}
 
-Dans la plupart des thèmes, le Scorpion ouvre l’une des douze maisons. En Placidus et dans les autres systèmes par quadrants, un signe peut aussi en ouvrir deux, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur de l’une d’elles. Là où le Scorpion ouvre une maison, vous allez au fond et tenez bon, et Mars et Pluton, où qu’ils soient, poursuivent l’histoire. La maison dépend de votre heure et de votre lieu de naissance.
+Chaque thème a le Scorpion quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Scorpion ouvre une maison, vous allez au fond et tenez bon, et Mars et Pluton, où qu’ils soient, poursuivent l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
 
 1. **[Maison I](/astrology/scorpio-rising/) :** l’ascendant Scorpion — une présence intense et attentive ; on vous sent avant de vous connaître.
 2. **[Maison II](/astrology/scorpio-on-2nd-house-cusp/) :** l’argent gardé discret et géré avec stratégie ; vous pouvez gagner votre vie par la recherche, l’argent d’autrui ou ce que personne ne regarde.

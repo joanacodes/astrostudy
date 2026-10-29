@@ -41,9 +41,9 @@ Every chart has Sagittarius somewhere, whether or not a planet sits in it. Where
 
 Three placements bring most people here:
 
-- **[Sun in Sagittarius](/astrology/sun-in-sagittarius/)** — born between about 22 November and 21 December. You come alive by searching for meaning — through travel, study, belief or simply a good argument. You need a direction more than a destination.
-- **[Moon in Sagittarius](/astrology/moon-in-sagittarius/)** — you feel safe when you have room: space, plans, a horizon. Humour is how you comfort yourself and others, and feeling hemmed in is what unsettles you most.
-- **[Sagittarius rising](/astrology/sagittarius-rising/)** — you meet the world with openness and frankness, and people find you easy to talk to. Jupiter becomes your [chart ruler](/astrology/chart-ruler/), so where it sits matters a great deal. A rising sign needs your [birth time](/blog/unknown-birth-time/): it changes about every two hours.
+- **[Sun in Sagittarius](/astrology/sun-in-sagittarius/):** born between about 22 November and 21 December. You come alive by searching for meaning — through travel, study, belief or simply a good argument. You need a direction more than a destination.
+- **[Moon in Sagittarius](/astrology/moon-in-sagittarius/):** you feel safe when you have room: space, plans, a horizon. Humour is how you comfort yourself and others, and feeling hemmed in is what unsettles you most.
+- **[Sagittarius rising](/astrology/sagittarius-rising/):** you meet the world with openness and frankness, and people find you easy to talk to. Jupiter becomes your [chart ruler](/astrology/chart-ruler/), so where it sits matters a great deal. A rising sign needs your [birth time](/blog/unknown-birth-time/): it changes about every two hours.
 
 None of these tells the whole story. In [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign and the rising sign each held about a third of the time, and the Moon, checked like every other placement, wasn't one of the three that held far more often. So I read Sagittarius as one voice in a chart, never the whole of it.
 
@@ -70,7 +70,7 @@ Every planet passes through Sagittarius sooner or later: the Moon for about two 
 
 ## Sagittarius on a house cusp {#on-a-house-cusp}
 
-In most charts Sagittarius opens one of the twelve houses. In Placidus and the other quadrant systems, a sign can also open two, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Sagittarius opens a house, that's where you want space, meaning and room to grow, and Jupiter, wherever it sits, carries the story on. Which house it is depends on your birth time and place.
+Every chart has Sagittarius somewhere in its twelve houses, usually on the cusp of one of them. In Placidus and the other quadrant systems, a sign can open two houses, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Sagittarius opens a house, that's where you want space, meaning and room to grow, and Jupiter, wherever it sits, carries the story on. Which house it is depends on your birth time.
 
 1. **[1st house](/astrology/sagittarius-rising/):** Sagittarius rising — an open, frank, restless presence; you meet people as if the conversation had already started.
 2. **[2nd house](/astrology/sagittarius-on-2nd-house-cusp/):** money as freedom rather than security; generous and optimistic with it, sometimes too much so; you may earn through teaching, travel or ideas.

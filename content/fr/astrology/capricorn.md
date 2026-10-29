@@ -12,7 +12,7 @@ glyph: "♑"
 definition: "Le Capricorne est le dixième signe du zodiaque, un signe de terre cardinal gouverné par Saturne ; le Soleil le traverse environ du 22 décembre au 19 janvier. Dans un thème natal, il montre où vous prenez vos responsabilités, travaillez avec patience et construisez sur le long terme — le domaine où vous voulez gagner votre place."
 facts:
   - { k: "Symbole", v: "♑ — une chèvre à queue de poisson" }
-  - { k: "Dates (Soleil)", v: "Du 22 décembre au 19 janvier environ" }
+  - { k: "Dates (Soleil)", v: "Environ du 22 décembre au 19 janvier" }
   - { k: "Élément", v: "Terre" }
   - { k: "Mode", v: "Cardinal" }
   - { k: "Maître", v: "Saturne" }
@@ -42,9 +42,9 @@ Chaque thème contient du Capricorne quelque part, qu’une planète s’y trouv
 
 Trois placements amènent la plupart des gens ici :
 
-- **[Soleil en Capricorne](/astrology/sun-in-capricorn/)** — une naissance entre le 22 décembre et le 19 janvier environ. Vous grandissez en gagnant votre place, lentement. Vous préférez le respect à l’admiration, et vous prenez souvent des responsabilités avant qu’on vous le demande.
-- **[Lune en Capricorne](/astrology/moon-in-capricorn/)** — vous vous sentez en sécurité quand les choses sont sous contrôle et que vous savez ce qu’on attend de vous. Elle décrit souvent quelqu’un qui a grandi tôt. La Lune est ici en exil, ce qui, en pratique, veut souvent dire un soin qui passe par les actes plutôt que par les mots — et le besoin d’accepter qu’on prenne soin de vous.
-- **[Ascendant Capricorne](/astrology/capricorn-rising/)** — vous abordez le monde avec réserve et une compétence tranquille, et l’on vous confie des choses. Saturne devient le [maître du thème](/astrology/chart-ruler/) : sa place compte beaucoup. Un ascendant demande votre [heure de naissance](/blog/unknown-birth-time/) : il change de signe toutes les deux heures environ.
+- **[Soleil en Capricorne](/astrology/sun-in-capricorn/) :** une naissance entre le 22 décembre et le 19 janvier environ. Vous grandissez en gagnant votre place, lentement. Vous préférez le respect à l’admiration, et vous prenez souvent des responsabilités avant qu’on vous le demande.
+- **[Lune en Capricorne](/astrology/moon-in-capricorn/) :** vous vous sentez en sécurité quand les choses sont sous contrôle et que vous savez ce qu’on attend de vous. Elle décrit souvent quelqu’un qui a grandi tôt. La Lune est ici en exil, ce qui, en pratique, veut souvent dire un soin qui passe par les actes plutôt que par les mots — et le besoin d’accepter qu’on prenne soin de vous.
+- **[Ascendant Capricorne](/astrology/capricorn-rising/) :** vous abordez le monde avec réserve et une compétence tranquille, et l’on vous confie des choses. Saturne devient le [maître du thème](/astrology/chart-ruler/) : sa place compte beaucoup. Un ascendant demande votre [heure de naissance](/blog/unknown-birth-time/) : il change de signe toutes les deux heures environ.
 
 Aucun des trois ne fait toute la personne. Dans [mon carnet](/blog/i-tested-my-birth-chart/), le signe solaire et l’ascendant ont chacun tenu environ une fois sur trois, et la Lune, vérifiée comme tous les autres placements, ne faisait pas partie des trois qui ont tenu bien plus souvent. Le maître du Capricorne, lui, en faisait partie : Saturne a tenu 75 à 90 % du temps, et dans un thème où le Capricorne pèse lourd, c’est à Saturne que je ralentis.
 
@@ -71,7 +71,7 @@ Toutes les planètes traversent le Capricorne, de la Lune, qui y passe environ d
 
 ## Le Capricorne sur une cuspide {#sur-une-cuspide}
 
-Dans la plupart des thèmes, le Capricorne ouvre l’une des douze maisons. En Placidus et dans les autres systèmes par quadrants, un signe peut aussi en ouvrir deux, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur de l’une d’elles. Là où le Capricorne ouvre une maison, vous prenez les choses au sérieux, commencez lentement et bâtissez pour durer, et Saturne, où qu’elle soit, poursuit l’histoire. La maison dépend de votre heure et de votre lieu de naissance.
+Chaque thème a le Capricorne quelque part dans ses douze maisons, le plus souvent sur la cuspide de l’une d’elles. En Placidus et dans les autres systèmes par quadrants, un signe peut ouvrir deux maisons, ou aucune quand il est [intercepté](/astrology/intercepted-signs/) à l’intérieur d’une maison. Là où le Capricorne ouvre une maison, vous prenez les choses au sérieux, commencez lentement et bâtissez pour durer, et Saturne, où qu’elle soit, poursuit l’histoire. Laquelle, c’est votre heure de naissance qui le décide.
 
 1. **[Maison I](/astrology/capricorn-rising/) :** l’ascendant Capricorne — une présence réservée et capable ; souvent sérieuse tôt, plus légère avec les années.
 2. **[Maison II](/astrology/capricorn-on-2nd-house-cusp/) :** un argent bâti lentement et conservé ; la sécurité vient de la structure, de l’épargne et des compétences acquises.

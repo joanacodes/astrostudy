@@ -42,9 +42,9 @@ Every chart has Pisces somewhere, whether or not a planet sits in it. Wherever i
 
 Three placements bring most people here:
 
-- **[Sun in Pisces](/astrology/sun-in-pisces/)** — born between about 19 February and 20 March. You grow through imagination and compassion. You understand people without being told, and part of your path is learning where you end and they begin.
-- **[Moon in Pisces](/astrology/moon-in-pisces/)** — you feel what others feel, sometimes before they do. You need quiet, music, water or time alone to come back to yourself.
-- **[Pisces rising](/astrology/pisces-rising/)** — you meet the world softly and adapt to the room, and people find you gentle and a little hard to pin down. With two rulers, there are two planets to look at as your [chart ruler](/astrology/chart-ruler/): Jupiter and Neptune. A rising sign needs your [birth time](/blog/unknown-birth-time/): it changes about every two hours.
+- **[Sun in Pisces](/astrology/sun-in-pisces/):** born between about 19 February and 20 March. You grow through imagination and compassion. You understand people without being told, and part of your path is learning where you end and they begin.
+- **[Moon in Pisces](/astrology/moon-in-pisces/):** you feel what others feel, sometimes before they do. You need quiet, music, water or time alone to come back to yourself.
+- **[Pisces rising](/astrology/pisces-rising/):** you meet the world softly and adapt to the room, and people find you gentle and a little hard to pin down. With two rulers, there are two planets to look at as your [chart ruler](/astrology/chart-ruler/): Jupiter and Neptune. A rising sign needs your [birth time](/blog/unknown-birth-time/): it changes about every two hours.
 
 None of these tells the whole story. In [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign and the rising sign each held about a third of the time, and the Moon, checked like every other placement, wasn't one of the three that held far more often. So I read Pisces as one voice in a chart, never the whole of it.
 
@@ -71,7 +71,7 @@ Every planet passes through Pisces, from the Moon in about two and a half days t
 
 ## Pisces on a house cusp {#on-a-house-cusp}
 
-In most charts Pisces opens one of the twelve houses. In Placidus and the other quadrant systems, a sign can also open two, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Pisces opens a house, that's where your boundaries are softest and your imagination strongest, and Neptune and Jupiter, wherever they sit, carry the story on. Which house it is depends on your birth time and place.
+Every chart has Pisces somewhere in its twelve houses, usually on the cusp of one of them. In Placidus and the other quadrant systems, a sign can open two houses, or none at all when it is [intercepted](/astrology/intercepted-signs/) inside one. Wherever Pisces opens a house, that's where your boundaries are softest and your imagination strongest, and Neptune and Jupiter, wherever they sit, carry the story on. Which house it is depends on your birth time.
 
 1. **[1st house](/astrology/pisces-rising/):** Pisces rising — a soft, receptive presence that takes on the colour of the room.
 2. **[2nd house](/astrology/pisces-on-2nd-house-cusp/):** a fluid relationship with money, generous and sometimes vague; you value what can't be bought.
