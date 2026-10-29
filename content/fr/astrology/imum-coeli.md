@@ -9,7 +9,7 @@ draft: true
 terms: ["Fond du Ciel", "fond du ciel", "FC"]
 family: "angles"
 weight: 4
-glyph: "IC"
+glyph: "FC"
 definition: "Le Fond du Ciel, noté FC ou IC (du latin Imum Coeli), est le point où le zodiaque croisait le méridien sous l’horizon à votre naissance, à l’opposé exact du Milieu du Ciel. Les astrologues y lisent vos racines : le foyer, la famille, le terrain intime sur lequel repose votre vie. Il demande l’heure de naissance."
 facts:
   - { k: "Symbole", v: "IC, pour Imum Coeli ; FC en français" }
@@ -79,7 +79,7 @@ La planète qui gouverne le signe de votre Fond du Ciel est le maître de votre 
 5. **[En maison V](/astrology/4th-house-ruler-in-5th-house/) :** le foyer comme lieu de jeu, de chaleur et de création.
 6. **[En maison VI](/astrology/4th-house-ruler-in-6th-house/) :** le foyer et le travail quotidien se mêlent : des tâches à la maison, ou un travail fait depuis chez soi.
 7. **[En maison VII](/astrology/4th-house-ruler-in-7th-house/) :** le foyer se construit avec un partenaire ; les partenaires deviennent la famille.
-8. **[En maison VIII](/astrology/4th-house-ruler-in-8th-house/) :** ce que la famille transmet, ses histoires, ses habitudes, ses affaires inachevées, pèse plus qu’ailleurs.
+8. **[En maison VIII](/astrology/4th-house-ruler-in-8th-house/) :** ce que la famille transmet — ses histoires, ses habitudes, ses affaires inachevées — pèse sur vous plus que sur la plupart des gens.
 9. **[En maison IX](/astrology/4th-house-ruler-in-9th-house/) :** un foyer loin du point de départ, ou des racines dans une autre culture ou une autre foi.
 10. **[En maison X](/astrology/4th-house-ruler-in-10th-house/) :** la famille et la carrière s’entremêlent, par une entreprise familiale ou un nom de famille.
 11. **[En maison XI](/astrology/4th-house-ruler-in-11th-house/) :** les amis deviennent la famille ; la maison comme lieu de rencontre.
@@ -87,7 +87,7 @@ La planète qui gouverne le signe de votre Fond du Ciel est le maître de votre 
 
 ## Le Fond du Ciel en synastrie {#en-synastrie}
 
-En [synastrie](/synastry/), le Fond du Ciel montre qui vous donne le sentiment d’être chez vous. Quand la Lune de l’autre tombe sur votre Fond du Ciel ou dans votre maison 4 ([sa Lune dans votre maison 4](/astrology/moon-in-4th-house-synastry/)), être ensemble peut sembler familier dès le début, parfois au point de réveiller de vieux schémas familiaux. [Sa Vénus dans votre maison 4](/astrology/venus-in-4th-house-synastry/) apporte souvent de la tendresse dans le foyer que vous partagez. Ces contacts comptent pour les couples qui vivent ensemble comme entre les membres adultes d’une même famille. Je les lis dans les deux sens et, comme toujours, seulement [avec l’accord des deux personnes](/blog/synastry-behind-their-back/).
+En [synastrie](/synastry/), le Fond du Ciel montre qui vous donne le sentiment d’être chez vous. Quand la Lune de l’autre tombe sur votre Fond du Ciel ou dans votre maison 4 ([sa Lune dans votre maison 4](/astrology/moon-in-4th-house-synastry/)), être ensemble peut sembler familier dès le début, parfois au point de réveiller de vieux schémas familiaux. [Sa Vénus dans votre maison 4](/astrology/venus-in-4th-house-synastry/) apporte souvent de la tendresse dans le foyer que vous partagez. Ces contacts comptent pour les couples qui vivent ensemble comme pour les membres adultes d’une même famille. Je les lis dans les deux sens et, comme toujours, seulement [avec l’accord des deux personnes](/blog/synastry-behind-their-back/).
 
 ## Les transits sur le Fond du Ciel {#transits}
 
