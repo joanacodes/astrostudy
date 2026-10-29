@@ -48,7 +48,7 @@ Parmi les cinq aspects majeurs, le trigone est l’un des quatre de Ptolémée, 
 
 ## Entre quelles planètes {#entre-quelles-planetes}
 
-Le Soleil ne forme jamais de trigone avec Mercure ni avec Vénus, qui ne s’en éloignent jamais de plus de 28° et de 47°, et les deux ne s’écartent jamais assez l’une de l’autre pour en former un entre elles. Voici les trigones que l’on cherche le plus :
+Le Soleil ne forme jamais de trigone avec Mercure ni avec Vénus, qui ne s’en éloignent jamais de plus de 28° et de 47°, et l’écart entre les deux reste toujours trop petit pour un trigone. Voici les trigones que l’on cherche le plus :
 
 - **[Soleil trigone Lune](/astrology/sun-trine-moon/) :** une naissance à quelques jours d’une pleine lune ; ce que vous voulez et ce dont vous avez besoin s’entendent.
 - **[Vénus trigone Mars](/astrology/venus-trine-mars/) :** la tendresse et le désir au même pas ; une chaleur simple, à laquelle les autres répondent.

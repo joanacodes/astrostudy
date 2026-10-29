@@ -52,7 +52,7 @@ Dans le ciel, le Soleil et la Lune sont en carré à chaque [premier quartier](/
 
 ## Entre quelles planètes {#entre-quelles-planetes}
 
-Le Soleil ne forme jamais de carré avec Mercure ni avec Vénus : Mercure ne s’éloigne jamais de plus de 28° du Soleil, Vénus de plus de 47°, et les deux ne s’écartent jamais assez l’une de l’autre pour former un carré entre elles. Voici les carrés que l’on cherche le plus :
+Le Soleil ne forme jamais de carré avec Mercure ni avec Vénus : Mercure ne s’éloigne jamais de plus de 28° du Soleil, Vénus de plus de 47°, et l’écart entre les deux reste toujours trop petit pour un carré. Voici les carrés que l’on cherche le plus :
 
 - **[Soleil carré Lune](/astrology/sun-square-moon/) :** une naissance proche d’un quartier de lune ; ce que vous voulez et ce dont vous avez besoin vous demandent sans cesse de choisir.
 - **[Soleil carré Saturne](/astrology/sun-square-saturn/) :** une confiance gagnée lentement, souvent contre le doute ; une fois bâtie, difficile à ébranler.

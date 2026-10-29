@@ -48,7 +48,7 @@ Parmi les cinq aspects majeurs, le sextile est le plus petit angle des quatre de
 
 ## Entre quelles planètes {#entre-quelles-planetes}
 
-Le Soleil ne forme jamais de sextile avec Mercure ni avec Vénus : Mercure ne s’éloigne jamais de plus de 28° du Soleil, Vénus de plus de 47°. Les deux peuvent en former un entre elles, mais seulement de part et d’autre du Soleil : c’est [Mercure sextile Vénus](/astrology/mercury-sextile-venus/). Voici les sextiles que l’on cherche le plus :
+Le Soleil ne forme jamais de sextile avec Mercure ni avec Vénus : Mercure ne s’éloigne jamais de plus de 28° du Soleil, Vénus de plus de 47°. Un sextile entre les deux est possible, mais seulement de part et d’autre du Soleil : c’est [Mercure sextile Vénus](/astrology/mercury-sextile-venus/). Voici les sextiles que l’on cherche le plus :
 
 - **[Soleil sextile Lune](/astrology/sun-sextile-moon/) :** une naissance à quelques jours d’une nouvelle lune ; ce que vous voulez et ce dont vous avez besoin se parlent facilement.
 - **[Vénus sextile Mars](/astrology/venus-sextile-mars/) :** la tendresse et le désir coopèrent ; une chaleur qui sait faire le premier pas.
