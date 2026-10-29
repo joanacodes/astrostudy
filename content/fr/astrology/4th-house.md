@@ -28,7 +28,7 @@ faq:
   - q: "La maison 4, est-ce la mère ou le père ?"
     a: "Les astrologues ne se sont jamais mis d’accord, et les livres la donnent à l’un ou à l’autre parent. Je ne la lis comme ni l’un ni l’autre. Je lis la maison 4 comme le foyer et les racines tels que vous les avez vécus ; un parent a son propre thème, et seul ce thème peut le décrire."
 sources:
-  - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
+  - { title: "Vettius Valens, Anthologies", note: "les douze maisons et ce que la tradition leur donnait" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "le Milieu du Ciel et le Fond du Ciel" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---

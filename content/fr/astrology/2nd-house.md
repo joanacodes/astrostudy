@@ -27,8 +27,8 @@ faq:
   - q: "Quelle différence entre la maison 2 et la maison 8 ?"
     a: "La maison 2, c’est ce qui est à vous : ce que vous gagnez, possédez et estimez. La maison 8, en face, c’est ce que vous partagez ou devez : l’argent d’un partenaire, les comptes communs, les dettes, et la confiance qu’ils demandent. Lues ensemble, elles montrent comment vous gardez et comment vous partagez."
 sources:
-  - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
-  - { title: "Dorothée de Sidon, Carmen Astrologicum", note: "les maisons lues dans un thème de naissance" }
+  - { title: "Vettius Valens, Anthologies", note: "les douze maisons et ce que la tradition leur donnait" }
+  - { title: "Dorothée de Sidon, Carmen Astrologicum", note: "les maisons en pratique" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
 La maison 2 est celle de ce que vous avez et de ce qui compte pour vous : l’argent, les biens, les ressources sur lesquelles vous pouvez compter, et le sentiment de votre propre valeur qui se trouve dessous. Elle décrit votre rapport à l’argent, pas le solde de votre compte.

@@ -14,7 +14,7 @@ facts:
   - { k: "Type", v: "Cadent" }
   - { k: "Natural sign", v: "Gemini" }
   - { k: "Natural ruler", v: "Mercury" }
-  - { k: "Opposite house", v: "The 9th" }
+  - { k: "Opposite house", v: "The 9th house" }
   - { k: "Old name", v: "The Goddess" }
   - { k: "Joy of", v: "The Moon" }
 related: ["/astrology/2nd-house", "/astrology/4th-house", "/astrology/9th-house", "/astrology/mercury", "/blog/unknown-birth-time"]
@@ -28,8 +28,8 @@ faq:
   - q: "What is the difference between the 3rd and the 9th house?"
     a: "Distance. The 3rd covers short journeys, everyday learning and the conversations of an ordinary week; the 9th, opposite, covers long journeys, higher study and the beliefs you live by. One is the mind at work on the day, the other the mind looking beyond it."
 sources:
-  - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
-  - { title: "Dorotheus of Sidon, Carmen Astrologicum", note: "the houses read in a nativity" }
+  - { title: "Vettius Valens, Anthology", note: "the twelve houses and what tradition gave them" }
+  - { title: "Dorotheus of Sidon, Carmen Astrologicum", note: "the houses in practice" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
 The 3rd house is the house of the everyday mind: how you think, talk, write and learn, and the people and places close at hand. It's the house of short distances — the next street, the next message, the next thing to understand.

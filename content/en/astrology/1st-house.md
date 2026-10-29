@@ -15,7 +15,7 @@ facts:
   - { k: "Its angle", v: "The Ascendant" }
   - { k: "Natural sign", v: "Aries" }
   - { k: "Natural ruler", v: "Mars" }
-  - { k: "Opposite house", v: "The 7th" }
+  - { k: "Opposite house", v: "The 7th house" }
   - { k: "Joy of", v: "Mercury" }
 related: ["/astrology/ascendant", "/astrology/chart-ruler", "/astrology/12th-house", "/astrology/2nd-house", "/blog/unknown-birth-time"]
 faq:
@@ -28,7 +28,7 @@ faq:
   - q: "Can I know my 1st house without a birth time?"
     a: "No. The Ascendant changes sign about every two hours on average, and four minutes are enough to move the horizon by a degree, so the 1st house needs the time you were born. Without it, I read your planets in their signs and leave the houses aside."
 sources:
-  - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
+  - { title: "Vettius Valens, Anthology", note: "the twelve houses and what tradition gave them" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Ascendant" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
@@ -36,7 +36,7 @@ The 1st house is where a birth chart starts: the stretch of the zodiac that was 
 
 ## What it covers {#what-it-covers}
 
-I read the 1st house as the front door of a chart. It describes your body and your manner, your first reaction, the way you start things and the impression you make before anyone knows you. Whatever the rest of the chart holds comes out through this door, which is why I look here before anything else.
+I read the 1st house as the front door of a chart. It describes your body and your manner, your first reaction, the way you start things and the impression you make before anyone knows you. Whatever the rest of the chart holds comes out through this door, so I look here first.
 
 - **An angular house.** It's one of the four houses that begin at the angles of the chart, and what sits in an angular house shows. [Angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/) explains the three kinds.
 - **Its angle.** Its cusp is the [Ascendant](/astrology/ascendant/), the degree that was rising on the eastern horizon when you were born. In Placidus and the other quadrant systems, the Ascendant is where the 1st house begins; in whole sign houses, the 1st house is the whole of the rising sign ([which house system should I use?](/astrology/which-house-system-should-i-use/)).
@@ -86,7 +86,7 @@ The sign on the cusp of the 1st house is your rising sign. It sets the style of 
 
 ## Its ruler {#ruler}
 
-The planet that rules your rising sign rules your 1st house, and astrologers call it the [chart ruler](/astrology/chart-ruler/): Mars with Aries rising, Venus with Taurus rising, and so on round the zodiac. Where it sits is where your life tends to gather — the house that keeps drawing you in, whatever your rising sign promised. With Scorpio, Aquarius or Pisces rising there are two to look at, the modern ruler and the traditional one ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). Every house has a ruler that works this way ([house rulers](/astrology/house-rulers/)); the ruler of the 1st is simply the one that speaks for you.
+The planet that rules your rising sign rules your 1st house, and astrologers call it the [chart ruler](/astrology/chart-ruler/): Mars with Aries rising, Venus with Taurus rising, and so on. Where it sits is where your life tends to gather — the house that keeps drawing you in, whatever your rising sign promised. With Scorpio, Aquarius or Pisces rising there are two to look at, the modern ruler and the traditional one ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). Every house has a ruler that works this way ([house rulers](/astrology/house-rulers/)); the ruler of the 1st is simply the one that speaks for you.
 
 1. **[In the 1st house](/astrology/1st-house-ruler-in-1st-house/):** you're your own project; what people see is very much what there is.
 2. **[In the 2nd house](/astrology/1st-house-ruler-in-2nd-house/):** you find yourself through what you earn, make and keep.

@@ -14,7 +14,7 @@ facts:
   - { k: "Type", v: "Succedent" }
   - { k: "Natural sign", v: "Taurus" }
   - { k: "Natural ruler", v: "Venus" }
-  - { k: "Opposite house", v: "The 8th" }
+  - { k: "Opposite house", v: "The 8th house" }
 related: ["/astrology/1st-house", "/astrology/3rd-house", "/astrology/8th-house", "/astrology/venus", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "What does the 2nd house represent?"
@@ -26,8 +26,8 @@ faq:
   - q: "What is the difference between the 2nd and the 8th house?"
     a: "The 2nd is what's yours: what you earn, own and value. The 8th, opposite it, is what you share or owe: a partner's money, joint accounts, debts, and the trust they take. Read together, they show how you hold on and how you share."
 sources:
-  - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
-  - { title: "Dorotheus of Sidon, Carmen Astrologicum", note: "the houses read in a nativity" }
+  - { title: "Vettius Valens, Anthology", note: "the twelve houses and what tradition gave them" }
+  - { title: "Dorotheus of Sidon, Carmen Astrologicum", note: "the houses in practice" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
 The 2nd house is the house of what you have and what you value: money, belongings, the resources you can count on, and the sense of your own worth underneath them. It describes your relationship with money, not your bank balance.

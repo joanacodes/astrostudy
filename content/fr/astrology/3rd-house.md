@@ -29,8 +29,8 @@ faq:
   - q: "Quelle différence entre la maison 3 et la maison 9 ?"
     a: "La distance. La maison 3 couvre les petits trajets, l’apprentissage de tous les jours et les conversations d’une semaine ordinaire ; la maison 9, en face, les longs voyages, les études supérieures et les convictions qui vous guident. L’une, c’est l’esprit au travail dans la journée ; l’autre, l’esprit qui regarde au-delà."
 sources:
-  - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
-  - { title: "Dorothée de Sidon, Carmen Astrologicum", note: "les maisons lues dans un thème de naissance" }
+  - { title: "Vettius Valens, Anthologies", note: "les douze maisons et ce que la tradition leur donnait" }
+  - { title: "Dorothée de Sidon, Carmen Astrologicum", note: "les maisons en pratique" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
 La maison 3 est celle de l’esprit au quotidien : votre façon de penser, de parler, d’écrire et d’apprendre, et les gens et les lieux tout proches. C’est la maison des petites distances — la rue d’à côté, le prochain message, la prochaine chose à comprendre.

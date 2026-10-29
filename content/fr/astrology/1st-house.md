@@ -29,7 +29,7 @@ faq:
   - q: "Peut-on connaître sa maison 1 sans heure de naissance ?"
     a: "Non. L’ascendant change de signe environ toutes les deux heures en moyenne, et quatre minutes suffisent à déplacer l’horizon d’un degré : la maison 1 a besoin de votre heure de naissance. Sans elle, je lis vos planètes dans leurs signes et je laisse les maisons de côté."
 sources:
-  - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
+  - { title: "Vettius Valens, Anthologies", note: "les douze maisons et ce que la tradition leur donnait" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "l’ascendant" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---

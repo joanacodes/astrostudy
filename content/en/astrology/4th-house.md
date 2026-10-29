@@ -15,7 +15,7 @@ facts:
   - { k: "Its angle", v: "The Imum Coeli (IC)" }
   - { k: "Natural sign", v: "Cancer" }
   - { k: "Natural ruler", v: "The Moon" }
-  - { k: "Opposite house", v: "The 10th" }
+  - { k: "Opposite house", v: "The 10th house" }
 related: ["/astrology/imum-coeli", "/astrology/moon", "/astrology/3rd-house", "/astrology/5th-house", "/blog/unknown-birth-time"]
 faq:
   - q: "What does the 4th house represent?"
@@ -27,7 +27,7 @@ faq:
   - q: "Is the 4th house the mother or the father?"
     a: "Astrologers have never agreed, and books give it to one parent or the other. I don't read it as either. I read the 4th as home and roots as you lived them; a parent has a chart of their own, and only that chart can describe them."
 sources:
-  - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
+  - { title: "Vettius Valens, Anthology", note: "the twelve houses and what tradition gave them" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Midheaven and the IC" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
