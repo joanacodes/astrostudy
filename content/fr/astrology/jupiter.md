@@ -78,7 +78,7 @@ Jupiter passe environ un an dans chaque signe : les personnes nées la même an
 8. **[Maison VIII](/astrology/jupiter-in-8th-house/) :** vous grandissez par une confiance profonde et par ce que vous partagez avec d’autres.
 9. **[Maison IX](/astrology/jupiter-in-9th-house/) :** les voyages, les études et les convictions sont votre terrain ; la maison que la tradition appelait le Dieu.
 10. **[Maison X](/astrology/jupiter-in-10th-house/) :** votre croissance se voit en public, dans votre travail et votre place.
-11. **[Maison XI](/astrology/jupiter-in-11th-house/) :** les amis, les groupes et les espoirs partagés ; Jupiter a sa joie ici, dans la maison que la tradition appelait le Bon Esprit.
+11. **[Maison XI](/astrology/jupiter-in-11th-house/) :** les amis, les groupes et les espoirs partagés ; Jupiter a sa joie ici, dans la maison que la tradition appelait le Bon Génie.
 12. **[Maison XII](/astrology/jupiter-in-12th-house/) :** une foi intime ; vous grandissez dans le calme, par la solitude, le soin et l’imagination.
 
 ## Jupiter en synastrie {#en-synastrie}

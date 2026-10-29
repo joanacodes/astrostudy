@@ -41,7 +41,7 @@ Je lis la maison 7 comme celle de la personne assise en face : un conjoint ou u
 Elle ne dit pas avec qui vous finirez, ni quand. Elle décrit ce que vous cherchez chez les autres et, très souvent, les qualités qu’il vous est plus facile de voir chez quelqu’un d’autre qu’en vous.
 
 - **Une maison angulaire.** C’est l’une des quatre maisons qui commencent aux angles du thème, et ce qui s’y trouve se voit : dans les personnes que vous choisissez, et dans celles avec qui vous vous heurtez. La page [Maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/) explique les trois familles.
-- **Son angle.** Sa cuspide est le [descendant](/astrology/descendant/), le degré qui se couchait à l’ouest à votre naissance. En Placidus et dans les autres systèmes par quadrants, il marque le début de la maison 7 ; en maisons Whole Sign, la maison 7 est tout le signe opposé à votre ascendant (voir [quel système de maisons choisir](/astrology/which-house-system-should-i-use/)).
+- **Son angle.** Sa cuspide est le [descendant](/astrology/descendant/), le degré qui se couchait à l’ouest à votre naissance. En Placidus et dans les autres systèmes par quadrants, il marque le début de la maison 7 ; en maisons Whole Sign, la maison 7 est tout le signe opposé à votre ascendant (voir [Quel système de maisons choisir ?](/astrology/which-house-system-should-i-use/)).
 - **Son signe et sa planète naturels.** La [Balance](/astrology/libra/) et [Vénus](/astrology/venus/) : l’équilibre, l’équité, le plaisir d’être à deux.
 - **Son opposée.** La [maison 1](/astrology/1st-house/), celle du moi : la maison 1, c’est *moi* ; la maison 7, c’est *l’autre*, et je lis toujours les deux ensemble.
 
