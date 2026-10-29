@@ -8,33 +8,33 @@ reviewed: 2026-10-29
 family: "planets"
 weight: 7
 glyph: "♄"
-definition: "Saturne est la planète du temps, des limites et de la maîtrise lente. Dans un thème natal, elle montre la leçon qui vous prend le plus de temps — là où vous vous sentez à l’épreuve — et ce que vous finissez par bâtir d’assez solide pour l’enseigner. Elle revient à sa place tous les 29 ans et demi."
+definition: "Saturne est la planète du temps, des limites et de la maîtrise lente. Sa place dans un thème natal montre la leçon qui vous prend le plus de temps — là où vous vous sentez à l’épreuve — et ce que vous finissez par bâtir d’assez solide pour l’enseigner. Saturne y revient tous les 29 ans et demi."
 facts:
   - { k: "Symbole", v: "♄ — la faucille de Cronos" }
   - { k: "Nature", v: "Planète ; la plus lointaine visible à l’œil nu" }
   - { k: "Un tour du zodiaque", v: "Environ 29 ans et demi" }
   - { k: "Temps dans chaque signe", v: "Environ 2 ans et demi" }
   - { k: "Maîtrise", v: "Capricorne, et traditionnellement Verseau" }
-  - { k: "Exaltée en", v: "Balance" }
-  - { k: "Affaiblie en", v: "Cancer et Lion (exil), Bélier (chute)" }
+  - { k: "Exaltation", v: "Balance" }
+  - { k: "Exil et chute", v: "Cancer et Lion (exil), Bélier (chute)" }
   - { k: "Rétrograde", v: "Environ 4 mois et demi chaque année" }
   - { k: "Dans mes tests", v: "A tenu 75 à 90 % du temps" }
 related: ["/astrology/chiron", "/astrology/black-moon-lilith", "/blog/saturn-chiron-lilith"]
 faq:
-  - q: "Saturne est-elle mauvaise dans un thème natal ?"
-    a: "Non. L’astrologie traditionnelle l’appelait « maléfique » parce qu’elle apporte retard et pression. Lue comme un calendrier plutôt que comme un mur, elle montre où les choses vous prennent plus de temps — et ce que vous finissez par connaître mieux que la plupart des gens."
+  - q: "Faut-il craindre Saturne dans un thème natal ?"
+    a: "Non. L’astrologie traditionnelle appelait Saturne « maléfique » parce que cette planète apporte retard et pression. Si on y voit un calendrier plutôt qu’un mur, Saturne montre où les choses vous prennent plus de temps — et ce que vous finissez par connaître mieux que la plupart des gens."
   - q: "Quand a lieu mon retour de Saturne ?"
-    a: "Saturne revient à la place qu’elle occupait à votre naissance environ tous les 29 ans et demi : le premier retour tombe entre 27 et 30 ans environ, le second vers 58 à 60 ans. Les dates exactes dépendent de votre thème."
+    a: "Saturne revient à sa position de naissance environ tous les 29 ans et demi : le premier retour tombe entre 27 et 30 ans environ, le second vers 58 à 60 ans. Les dates exactes dépendent de votre thème."
   - q: "Que veut dire naître avec Saturne rétrograde ?"
     a: "Saturne passe environ quatre mois et demi par an en rétrogradation : plus d’un tiers des gens naissent ainsi. En lecture, cela décrit souvent des règles qu’une personne a dû s’écrire elle-même plutôt que les recevoir."
-  - q: "Quel signe Saturne gouverne-t-elle ?"
+  - q: "Quel signe gouverne Saturne ?"
     a: "Le Capricorne. Avant la découverte d’Uranus en 1781, Saturne gouvernait aussi le Verseau, et les astrologues qui travaillent de façon traditionnelle utilisent toujours les deux."
 sources:
   - { title: "NASA — Saturn facts", url: "https://science.nasa.gov/saturn/facts/", note: "orbite et distance" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "les maîtrises, exaltations et l’étiquette de « maléfique »" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-Saturne est la plus lente des planètes visibles sans télescope, et les astrologues la lisent depuis toujours comme la planète du temps. Là où elle se trouve dans votre thème, la vie demande de la patience : le sujet que vous apprenez plus tard que tout le monde autour de vous, puis, très souvent, que vous enseignez.
+Saturne est la plus lente des planètes visibles sans télescope, et les astrologues y lisent depuis toujours la planète du temps. Là où Saturne se trouve dans votre thème, la vie demande de la patience : le sujet que vous apprenez plus tard que tout le monde autour de vous, puis, très souvent, que vous enseignez.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
@@ -44,11 +44,11 @@ Je lis Saturne comme un calendrier, pas comme un mur. *Cela vous prendra plus de
 - **Comment vous construisez.** Lentement, avec méthode, et souvent plus solidement que ceux pour qui c’était facile.
 - **Ce que vous finissez par savoir.** La leçon qui vous a le plus coûté est souvent celle que vous pouvez transmettre.
 
-Son signe montre le style de la leçon ; sa maison, le domaine de vie où elle tombe ; ses aspects, la force avec laquelle elle parle au reste du thème.
+Son signe montre le style de la leçon ; sa maison, le domaine de vie où tombe cette leçon ; ses aspects, la force avec laquelle Saturne parle au reste du thème.
 
 ## Saturne dans les signes {#dans-les-signes}
 
-Saturne reste environ deux ans et demi dans chaque signe : tous ceux qui naissent dans cette période partagent donc son signe, et ce sont la maison et les aspects qui la rendent personnelle. En gros :
+Saturne reste environ deux ans et demi dans chaque signe : tous ceux qui naissent dans cette période partagent donc son signe, et ce sont la maison et les aspects qui en font quelque chose de personnel. En gros :
 
 - **En signe de feu** (Bélier, Lion, Sagittaire), la leçon porte sur la confiance et le fait de prendre sa place.
 - **En signe de terre** (Taureau, Vierge, Capricorne), sur la sécurité, la compétence et les limites du corps.
@@ -74,7 +74,7 @@ Signe par signe : [Saturne en Bélier](/astrology/saturn-in-aries/), [Saturne e
 
 ## Saturne en synastrie {#en-synastrie}
 
-En [synastrie](/synastry/), quand la Saturne de l’un touche les planètes de l’autre, la relation devient sérieuse. Cela peut être le ciment — loyauté, structure, l’impression de construire ensemble — ou le froid, quand l’un se sent jugé ou freiné. Les contacts de Saturne avec la [Lune](/astrology/moon/) et [Vénus](/astrology/venus/) sont ceux que je lis avec le plus de soin : ils décident si la stabilité de l’autre ressemble à de la sécurité ou à de la critique.
+En [synastrie](/synastry/), quand Saturne, dans le thème de l’un, touche les planètes de l’autre, la relation devient sérieuse. Cela peut être le ciment — loyauté, structure, l’impression de construire ensemble — ou le froid, quand l’un se sent jugé ou freiné. Les contacts de Saturne avec la [Lune](/astrology/moon/) et [Vénus](/astrology/venus/) sont ceux que je lis avec le plus de soin : ils décident si la stabilité de l’autre ressemble à de la sécurité ou à de la critique.
 
 ## Transits et retour de Saturne {#retour-de-saturne}
 
@@ -89,5 +89,5 @@ Quand j’ai vérifié des thèmes placement par placement — le mien, puis ceu
 ## Idées reçues {#idees-recues}
 
 - **« Saturne gâche la fin de la vingtaine. »** Les grands changements vers 28 ou 30 ans sont fréquents pour bien des raisons ; Saturne décrit le bilan, pas les dégâts.
-- **« Une Saturne forte, c’est une vie dure. »** Cela veut dire que certaines choses prennent plus de temps. Les personnes à la Saturne marquée sont souvent celles sur qui les autres s’appuient.
+- **« Un thème très saturnien, c’est une vie dure. »** Cela veut dire que certaines choses prennent plus de temps. Les personnes chez qui Saturne domine sont souvent celles sur qui les autres s’appuient.
 - **« Saturne rétrograde est mauvais signe. »** Plus d’un tiers des gens l’ont. Cela change le [rythme](/blog/retrograde-planets/), pas la valeur.

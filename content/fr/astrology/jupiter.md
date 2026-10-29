@@ -9,49 +9,49 @@ draft: true
 family: "planets"
 weight: 6
 glyph: "♃"
-definition: "Jupiter est la plus grande planète du système solaire et, en astrologie, celle de la croissance, de la confiance et de la générosité. Dans un thème natal, il montre où la vie s’ouvre le plus facilement pour vous — et où vous pouvez en faire trop. Il revient à sa place de naissance environ tous les 12 ans."
+definition: "Jupiter est la plus grande planète du système solaire et, en astrologie, celle de la croissance, de la confiance et de la générosité. Dans un thème natal, sa position montre où la vie s’ouvre le plus facilement pour vous — et où vous pouvez en faire trop. Jupiter revient à sa place de naissance environ tous les 12 ans."
 facts:
   - { k: "Symbole", v: "♃ — un croissant joint à une croix" }
   - { k: "Nature", v: "Planète ; la plus grande du système solaire" }
   - { k: "Un tour du zodiaque", v: "Environ 12 ans" }
   - { k: "Temps dans chaque signe", v: "Environ un an" }
   - { k: "Maîtrise", v: "Sagittaire, et traditionnellement Poissons" }
-  - { k: "Exalté en", v: "Cancer" }
-  - { k: "Affaibli en", v: "Gémeaux et Vierge (exil), Capricorne (chute)" }
+  - { k: "Exaltation", v: "Cancer" }
+  - { k: "Exil et chute", v: "Gémeaux et Vierge (exil), Capricorne (chute)" }
   - { k: "Rétrograde", v: "Environ 4 mois chaque année" }
-  - { k: "Dans mes tests", v: "Pas l’un des trois qui ont tenu bien plus souvent" }
+  - { k: "Dans mes tests", v: "Pas parmi les trois qui ont tenu bien plus souvent" }
 related: ["/astrology/saturn", "/astrology/sagittarius", "/astrology/jupiter-return", "/astrology/benefics-and-malefics", "/blog/retrograde-planets"]
 faq:
   - q: "Que représente Jupiter en astrologie ?"
-    a: "La croissance, la confiance, la générosité et le sens : la part de vous qui dit oui, qui croit que les choses peuvent bien tourner et qui veut voir plus loin. Son signe en montre le style, sa maison le domaine où il ouvre des portes, ses aspects la façon dont le reste du thème s’en sert."
+    a: "La croissance, la confiance, la générosité et le sens : la part de vous qui dit oui, qui croit que les choses peuvent bien tourner et qui veut voir plus loin. Son signe en montre le style, sa maison le domaine où les portes s’ouvrent, ses aspects la façon dont le reste du thème s’en sert."
   - q: "Quand a lieu mon retour de Jupiter ?"
-    a: "Jupiter met environ 12 ans à faire le tour du zodiaque : il revient donc à la place qu’il occupait à votre naissance vers 12, 24, 36 ans, et ainsi de suite toute la vie. Les dates exactes dépendent de votre thème ; si Jupiter est rétrograde à ce moment-là, il peut passer trois fois sur le même degré."
-  - q: "Jupiter porte-t-il toujours chance dans un thème natal ?"
-    a: "La tradition l’appelait le grand bénéfique, la plus bienveillante des planètes, et il montre souvent où les choses viennent plus facilement. Mais la facilité a son piège : trop, trop vite, avec trop d’assurance. Je lis Jupiter comme l’endroit où vous grandissez, pas celui où la victoire vous est garantie."
-  - q: "Quel signe Jupiter gouverne-t-il ?"
-    a: "Le Sagittaire, et traditionnellement les Poissons aussi, avant qu’on les confie à Neptune. On dit Jupiter exalté en Cancer, où il donne le meilleur de lui-même, et affaibli en Gémeaux et en Vierge, à l’opposé de ses propres signes, ainsi qu’en Capricorne, à l’opposé de son exaltation."
+    a: "Jupiter met environ 12 ans à faire le tour du zodiaque : son retour à la place occupée à votre naissance a donc lieu vers 12, 24, 36 ans, et ainsi de suite toute la vie. Les dates exactes dépendent de votre thème ; si Jupiter est rétrograde à ce moment-là, il peut y avoir trois passages sur le même degré."
+  - q: "Est-ce que Jupiter porte toujours chance dans un thème natal ?"
+    a: "La tradition voyait en Jupiter la planète bénéfique par excellence, la plus bienveillante de toutes, et sa place dans le thème montre souvent où les choses viennent plus facilement. Mais la facilité a son piège : trop, trop vite, avec trop d’assurance. Je lis Jupiter comme l’endroit où vous grandissez, pas celui où la victoire vous est garantie."
+  - q: "Quels signes gouverne Jupiter ?"
+    a: "Le Sagittaire, et traditionnellement les Poissons aussi, avant qu’on les confie à Neptune. On place l’exaltation de Jupiter en Cancer, où s’exprime le meilleur de sa nature. Son exil est en Gémeaux et en Vierge, à l’opposé de ses propres signes, et sa chute en Capricorne, à l’opposé de son exaltation."
 sources:
   - { title: "NASA — Jupiter facts", url: "https://science.nasa.gov/jupiter/jupiter-facts/", note: "taille et orbite" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "les maîtrises et les exaltations classiques, et l’étiquette de « bénéfique »" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-Jupiter est la plus grande planète du système solaire, et les astrologues y lisent depuis longtemps la planète de la croissance. Là où il se trouve dans votre thème, la vie a tendance à s’ouvrir : vous y faites confiance plus facilement, vous y apprenez en disant oui, vous y donnez sans compter — parfois un peu trop.
+Jupiter est la plus grande planète du système solaire, et les astrologues y lisent depuis longtemps la planète de la croissance. Là où Jupiter se trouve dans votre thème, la vie a tendance à s’ouvrir : vous y faites confiance plus facilement, vous y apprenez en disant oui, vous y donnez sans compter — parfois un peu trop.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Je lis Jupiter comme l’endroit où vous grandissez, pas celui où vous gagnez. C’est la part du thème qui croit que les choses peuvent bien tourner, et cette confiance y est souvent pour quelque chose. Mais Jupiter sait rarement s’arrêter : je regarde donc toujours ce qu’il agrandit, et si c’est bien ce que vous voulez voir grandir.
+Je lis Jupiter comme l’endroit où vous grandissez, pas celui où vous gagnez. C’est la part du thème qui croit que les choses peuvent bien tourner, et cette confiance y est souvent pour quelque chose. Mais Jupiter sait rarement s’arrêter : je regarde donc toujours ce que sa présence agrandit, et si c’est bien ce que vous voulez voir grandir.
 
 - **Son signe** montre comment vous grandissez et en quoi vous placez votre confiance : l’action, le confort, les idées, le soin.
 - **Sa maison** montre où, dans la vie, les portes ont tendance à s’ouvrir : le travail, le foyer, l’amour, les études, l’amitié.
 - **Ses aspects** montrent comment le reste du thème se sert de cette confiance, et là où il lui faut un frein.
 
-Jupiter se lit avec [Saturne](/astrology/saturn/) : ensemble, on les appelle les [planètes sociales](/astrology/personal-social-and-generational-planets/), plus lentes que les planètes personnelles et plus rapides que les générationnelles. Jupiter ouvre, Saturne donne forme ; l’un dit *oui*, l’autre *pas encore*, et un thème a besoin des deux. Avec le [Soleil](/astrology/sun/), Jupiter donne de l’assurance ; avec [Mars](/astrology/mars/), il donne une raison à l’élan. Son signe est le [Sagittaire](/astrology/sagittarius/) ; avant la découverte de Neptune, il gouvernait aussi les [Poissons](/astrology/pisces/), et les astrologues traditionnels lui donnent toujours les deux.
+Jupiter se lit avec [Saturne](/astrology/saturn/) : ensemble, on les appelle les [planètes sociales](/astrology/personal-social-and-generational-planets/), plus lentes que les planètes personnelles et plus rapides que les générationnelles. Jupiter ouvre et dit *oui*, Saturne donne forme et dit *pas encore* ; un thème a besoin des deux. Avec le [Soleil](/astrology/sun/), Jupiter donne de l’assurance ; avec [Mars](/astrology/mars/), une raison à l’élan. Son signe est le [Sagittaire](/astrology/sagittarius/) ; avant la découverte de Neptune, les [Poissons](/astrology/pisces/) lui revenaient aussi, et les astrologues traditionnels lui donnent toujours les deux.
 
-Ses aspects, c’est là que la lecture devient personnelle. Avec le [Soleil conjoint à Jupiter](/astrology/sun-conjunct-jupiter/), la confiance est là d’emblée, et la leçon consiste à savoir quand c’est assez. Une [Lune trigone Jupiter](/astrology/moon-trine-jupiter/) décrit souvent une humeur qui se relève vite et un don pour réconforter. Une [Vénus carré Jupiter](/astrology/venus-square-jupiter/) aime avec générosité, et peut promettre plus qu’elle ne peut donner. Et un [Jupiter carré Saturne](/astrology/jupiter-square-saturn/), c’est l’espoir et la prudence qui se relaient : fatigant parfois, et souvent la recette de projets à la fois audacieux et solides.
+Ses aspects, c’est là que la lecture devient personnelle. Avec le [Soleil conjoint à Jupiter](/astrology/sun-conjunct-jupiter/), la confiance est là d’emblée, et la leçon consiste à savoir quand c’est assez. Une [Lune trigone Jupiter](/astrology/moon-trine-jupiter/) décrit souvent une humeur qui se relève vite et un don pour réconforter. Une [Vénus carré Jupiter](/astrology/venus-square-jupiter/) aime avec générosité, et peut promettre plus qu’elle ne peut donner. Et [Jupiter carré Saturne](/astrology/jupiter-square-saturn/), c’est l’espoir et la prudence qui se relaient : fatigant parfois, et souvent la recette de projets à la fois audacieux et solides.
 
 ## Jupiter dans les signes {#dans-les-signes}
 
-Jupiter passe environ un an dans chaque signe : les personnes nées la même année, à peu près, partagent souvent son signe, et ce sont la maison et les aspects qui le rendent vôtre. En mots simples :
+Jupiter passe environ un an dans chaque signe : les personnes nées la même année, à peu près, partagent souvent son signe, et ce sont la maison et les aspects qui en font un placement bien à vous. En mots simples :
 
 - **[Jupiter en Bélier](/astrology/jupiter-in-aries/) :** vous grandissez en ouvrant la voie, et votre foi va aux nouveaux départs.
 - **[Jupiter en Taureau](/astrology/jupiter-in-taurus/) :** vous grandissez lentement, par le confort, la patience et ce qui dure.
@@ -78,25 +78,25 @@ Jupiter passe environ un an dans chaque signe : les personnes nées la même an
 8. **[Maison VIII](/astrology/jupiter-in-8th-house/) :** vous grandissez par une confiance profonde et par ce que vous partagez avec d’autres.
 9. **[Maison IX](/astrology/jupiter-in-9th-house/) :** les voyages, les études et les convictions sont votre terrain ; la maison que la tradition appelait le Dieu.
 10. **[Maison X](/astrology/jupiter-in-10th-house/) :** votre croissance se voit en public, dans votre travail et votre place.
-11. **[Maison XI](/astrology/jupiter-in-11th-house/) :** les amis, les groupes et les espoirs partagés ; Jupiter a sa joie ici, dans la maison que la tradition appelait le Bon Génie.
+11. **[Maison XI](/astrology/jupiter-in-11th-house/) :** les amis, les groupes et les espoirs partagés ; Jupiter a sa joie ici, dans la maison que la tradition appelait le Génie favorable.
 12. **[Maison XII](/astrology/jupiter-in-12th-house/) :** une foi intime ; vous grandissez dans le calme, par la solitude, le soin et l’imagination.
 
 ## Jupiter en synastrie {#en-synastrie}
 
-En [synastrie](/synastry/), Jupiter montre où l’un fait grandir l’autre : plus d’espoir, plus d’audace, plus de place pour être soi. Quand [le Jupiter de l’un touche le Soleil de l’autre](/astrology/sun-conjunct-jupiter-synastry/), la personne dont c’est le Soleil se sent souvent soutenue, comme si quelqu’un croyait en elle. Avec [son Jupiter dans votre maison 7](/astrology/jupiter-in-7th-house-synastry/), c’est le couple lui-même qui peut ressembler à une porte ouverte. Le revers, c’est l’excès : on s’encourage à en faire trop, on promet plus qu’on ne peut tenir, on prend l’enthousiasme pour un plan. Je lis les contacts de Jupiter dans les deux sens, car la personne qui encourage n’est pas toujours celle qu’on encourage.
+En [synastrie](/synastry/), Jupiter montre où l’un fait grandir l’autre : plus d’espoir, plus d’audace, plus de place pour être soi. Quand [Jupiter, chez l’un, touche le Soleil de l’autre](/astrology/sun-conjunct-jupiter-synastry/), la personne dont c’est le Soleil se sent souvent soutenue, comme si quelqu’un croyait en elle. Avec [Jupiter de l’autre dans votre maison 7](/astrology/jupiter-in-7th-house-synastry/), c’est le couple lui-même qui peut ressembler à une porte ouverte. Le revers, c’est l’excès : on s’encourage à en faire trop, on promet plus qu’on ne peut tenir, on prend l’enthousiasme pour un plan. Je lis les contacts de Jupiter dans les deux sens, car la personne qui encourage n’est pas toujours celle qu’on encourage.
 
 ## Transits et retour de Jupiter {#retour-de-jupiter}
 
-Jupiter traverse chaque maison de votre thème en environ un an : ses transits forment un rythme régulier et doux, une année où un domaine de la vie prend plus de place. [Jupiter en transit en maison 10](/astrology/jupiter-transit-10th-house/) met souvent le travail et la visibilité au premier plan ; [Jupiter en transit en maison 7](/astrology/jupiter-transit-7th-house/), les partenariats et les accords. Environ tous les douze ans — vers 12, 24, 36 ans et ainsi de suite — il revient au degré qu’il occupait à votre naissance : c’est le **[retour de Jupiter](/astrology/jupiter-return/)**. Je le lis comme le début d’un nouveau chapitre de croissance, un bon moment pour se demander ce qu’on veut voir grandir, et ce qu’on a dépassé.
+Jupiter traverse chaque maison de votre thème en environ un an : ses transits forment un rythme régulier et doux, une année où un domaine de la vie prend plus de place. [Jupiter en transit en maison 10](/astrology/jupiter-transit-10th-house/) met souvent le travail et la visibilité au premier plan ; [Jupiter en transit en maison 7](/astrology/jupiter-transit-7th-house/), les partenariats et les accords. Environ tous les douze ans — vers 12, 24, 36 ans et ainsi de suite — Jupiter revient au degré qui était le sien à votre naissance : c’est le **[retour de Jupiter](/astrology/jupiter-return/)**. Je le lis comme le début d’un nouveau chapitre de croissance, un bon moment pour se demander ce qu’on veut voir grandir, et ce qu’on a dépassé.
 
-Jupiter passe aussi environ quatre mois par an en rétrogradation : beaucoup de gens naissent avec [Jupiter rétrograde](/astrology/jupiter-retrograde/). Ce n’est pas un défaut : j’y lis une confiance et une croissance qui travaillent d’abord à l’intérieur — [un rythme, pas un retard](/blog/retrograde-planets/). Quant à ses transits, ils décrivent le temps qu’il fait, pas une prédiction : Jupiter peut ouvrir une porte, il ne promet pas ce qu’il y a derrière.
+Jupiter passe aussi environ quatre mois par an en rétrogradation : beaucoup de gens naissent avec [Jupiter rétrograde](/astrology/jupiter-retrograde/). Ce n’est pas un défaut : j’y lis une confiance et une croissance qui travaillent d’abord à l’intérieur — [un rythme, pas un retard](/blog/retrograde-planets/). Quant à ses transits, ils décrivent le temps qu’il fait, pas une prédiction : Jupiter peut ouvrir une porte, sans promettre ce qu’il y a derrière.
 
 ## Ce qui a tenu dans mes tests {#ce-qui-a-tenu}
 
-J’ai vérifié Jupiter comme tout le reste de [mon carnet](/blog/i-tested-my-birth-chart/) : son signe et sa maison, dans mon propre thème d’abord, puis dans ceux de ma famille, d’amis et d’inconnus, avec leur accord, une coche ou une croix à côté de chaque ligne. Il ne fait pas partie des trois qui ont tenu bien plus souvent — [Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/) ont tenu 75 à 90 % du temps — et, sur l’ensemble de ce que j’ai vérifié, environ un tiers a tenu. Je lis donc Jupiter dans chaque thème, mais je le tiens à distance, et quand une partie de la lecture repose sur lui, je vous le dis. C’est un carnet, pas une étude, et il façonne [ma façon de lire](/how-i-read/).
+J’ai vérifié Jupiter comme tout le reste de [mon carnet](/blog/i-tested-my-birth-chart/) : son signe et sa maison, dans mon propre thème d’abord, puis dans ceux de ma famille, d’amis et d’inconnus, avec leur accord, une coche ou une croix à côté de chaque ligne. Jupiter ne fait pas partie des trois qui ont tenu bien plus souvent — [Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/) ont tenu 75 à 90 % du temps — et, sur l’ensemble de ce que j’ai vérifié, environ un tiers a tenu. Je lis donc Jupiter dans chaque thème, mais avec du recul, et quand une partie de la lecture en dépend, je vous le dis. C’est un carnet, pas une étude, et il façonne [ma façon de lire](/how-i-read/).
 
 ## Idées reçues {#idees-recues}
 
-- **« Jupiter, c’est la chance. »** La tradition l’appelait le grand [bénéfique](/astrology/benefics-and-malefics/), et il montre souvent où les choses viennent plus facilement. Mais grandir demande quand même des efforts, et la facilité a son piège : trop, trop vite, avec trop d’assurance.
+- **« Jupiter, c’est la chance. »** La tradition voyait en Jupiter la planète [bénéfique](/astrology/benefics-and-malefics/) par excellence, et sa place dans le thème montre souvent où les choses viennent plus facilement. Mais grandir demande quand même des efforts, et la facilité a son piège : trop, trop vite, avec trop d’assurance.
 - **« Jupiter apporte l’argent. »** On le dit du retour de Jupiter, ou de Jupiter en maison 2. J’y lis de la croissance et de la confiance ; un thème ne peut pas promettre d’argent, et je ne le lis pas pour cela.
-- **« Jupiter en Gémeaux, en Vierge ou en Capricorne, c’est mauvais. »** Un exil ou une chute change la façon dont Jupiter agit, pas ce qu’il vaut : une foi qui continue de poser des questions, ou une foi qui veut des preuves.
+- **« Jupiter en Gémeaux, en Vierge ou en Capricorne, c’est mauvais. »** Un exil ou une chute change la façon dont Jupiter agit, pas sa valeur : une foi qui continue de poser des questions, ou une foi qui veut des preuves.
