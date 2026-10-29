@@ -89,10 +89,10 @@ async function check(id, lang, problems) {
   const say = (level, text) => problems.push({ id, lang, level, text });
   const e = entry(id);
   const f = file(lang, `astrology/${id}.md`);
-  if (!existsSync(f)) return say('error', 'no file');
+  if (!existsSync(f)) { say('error', 'no file'); return null; }
   const src = await readFile(f, 'utf8');
   const fm = frontMatter(src);
-  if (!fm) return say('error', 'no front matter between --- lines');
+  if (!fm) { say('error', 'no front matter between --- lines'); return null; }
   for (const [l, n] of fm.unreadable) say('error', `front matter line ${n} isn't in a shape the entries use: ${l.slice(0, 70)}`);
 
   for (const key of ['title', 'h1', 'description', 'date', 'reviewed', 'family', 'weight', 'glyph', 'definition']) {

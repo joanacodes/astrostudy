@@ -16,15 +16,16 @@ const GAP = '[ \\u00a0\\u202f]*';
 
 const prose = (t) =>
   t
-    .replace(new RegExp(`([^\\s:])${GAP}:(?=[\\s*_»)]|$)`, 'g'), `$1${NBSP}:`)
-    .replace(new RegExp(`([^\\s;?!])${GAP}([;?!])(?=[\\s*_»)"]|$)`, 'g'), `$1${NNBSP}$2`)
+    .replace(new RegExp(`([^\\s:])${GAP}:(?=[\\s*_»)\uE000]|$)`, 'g'), `$1${NBSP}:`)
+    .replace(new RegExp(`([^\\s;?!])${GAP}([;?!])(?=[\\s*_»)"\uE000]|$)`, 'g'), `$1${NNBSP}$2`)
     .replace(new RegExp(`«${GAP}`, 'g'), `«${NBSP}`)
     .replace(new RegExp(`${GAP}»`, 'g'), `${NBSP}»`)
     .replace(/(\d)[ \u00a0\u202f]?%/g, `$1${NNBSP}%`)
     .replace(/(\p{L})'(\p{L})/gu, '$1’$2');
 
 // The parts to keep are set aside behind a marker, the rest is fixed, and they are put back: a colon
-// right after a link, as in "[Soleil](/astrology/sun/) :", is still seen as following a word.
+// right after a link, as in "[Soleil](/astrology/sun/) :", is still seen as following a word, and a
+// question mark that ends a link's text, as in "[Quelle Lilith est la mienne ?](…)", as ending a word.
 const KEEP = /\]\([^)]*\)|\{#[^}]*\}|`[^`]*`|<[^>]+>|https?:\/\/[^\s")\]]+/g;
 const fix = (s) => {
   const kept = [];

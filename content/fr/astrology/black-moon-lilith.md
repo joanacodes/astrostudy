@@ -28,7 +28,7 @@ faq:
   - q: "Qu’est-ce que le retour de Lilith ?"
     a: "La Lilith moyenne fait le tour du zodiaque en environ 8 ans et 10 mois : elle revient donc à sa place de naissance vers 9, 18, 27, 35, 44 et 53 ans. On remarque souvent qu’un vieux refus remonte à la surface."
   - q: "La Lune noire Lilith est-elle l’astéroïde Lilith ?"
-    a: "Non. L’astéroïde 1181 Lilith est un vrai corps de la ceinture d’astéroïdes, et la « Lune noire » de Waldemath une seconde lune hypothétique. La Lune noire Lilith est l’apogée de la Lune : un point, pas un objet."
+    a: "Non. L’astéroïde 1181 Lilith est un vrai corps de la ceinture d’astéroïdes, et la « Lune sombre » de Waldemath une seconde lune hypothétique. La Lune noire Lilith est l’apogée de la Lune : un point, pas un objet."
 sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "l’apogée de la Lune et son mouvement" }
   - { title: "L’Alphabet de Ben Sira", note: "le texte médiéval à l’origine de l’histoire de Lilith" }
@@ -50,7 +50,7 @@ Quatre choses portent le plus souvent le nom de Lilith en astrologie, ce qui exp
 
 - **La Lune noire moyenne :** la moyenne lissée de l’apogée de la Lune. Celle que j’utilise.
 - **La Lilith vraie (osculatrice) :** l’apogée réel de la Lune à cet instant ; elle oscille beaucoup.
-- **La « Lune noire » de Waldemath :** une seconde lune hypothétique, jamais confirmée.
+- **La « Lune sombre » de Waldemath :** une seconde lune hypothétique, jamais confirmée.
 - **L’astéroïde 1181 Lilith :** un vrai astéroïde, lu à part.
 
 Pour lire la bonne, [vérifiez d’abord quelle Lilith votre thème affiche](/astrology/which-lilith-is-mine/).
