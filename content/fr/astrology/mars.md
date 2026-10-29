@@ -13,6 +13,7 @@ definition: "Mars est la planète rouge et, en astrologie, celle de l’élan :
 facts:
   - { k: "Symbole", v: "♂ — un cercle d’où part une flèche, vers le haut et vers la droite" }
   - { k: "Nature", v: "Planète ; la suivante après la Terre, la rouge" }
+  - { k: "Un tour du zodiaque", v: "Environ 2 ans" }
   - { k: "Temps dans chaque signe", v: "Environ 6 à 7 semaines, davantage quand il rétrograde" }
   - { k: "Maîtrise", v: "Bélier, et traditionnellement Scorpion" }
   - { k: "Exalté en", v: "Capricorne" }
@@ -26,7 +27,7 @@ faq:
   - q: "Que dit Mars de ma colère ?"
     a: "Il montre comment votre colère monte et comment elle sort : vite et fort, lentement et avec obstination, en mots tranchants, ou retenue jusqu’à ce qu’elle ne puisse plus l’être. C’est une tendance, pas une fatalité, et la connaître aide à choisir quoi en faire."
   - q: "Mars est-il une mauvaise planète ?"
-    a: "Non. L’astrologie traditionnelle appelait Mars un « maléfique » parce qu’il tranche, brûle et sépare. Lu aujourd’hui, c’est l’énergie qui vous permet d’agir, de dire non et de protéger ce qui compte ; là où il se trouve dans votre thème, vous apprenez à bien vous servir de cette force."
+    a: "Non. L’astrologie traditionnelle appelait Mars un « maléfique » parce qu’on l’associait à la chaleur, au conflit et à la séparation. Lu aujourd’hui, c’est l’énergie qui vous permet d’agir, de dire non et de protéger ce qui compte ; là où il se trouve dans votre thème, vous apprenez à bien vous servir de cette force."
   - q: "Quels signes Mars gouverne-t-il ?"
     a: "Le Bélier, et traditionnellement le Scorpion, que les astrologues modernes donnent à Pluton. On dit Mars exalté en Capricorne, où son énergie est la plus disciplinée, et affaibli en Balance et en Taureau, à l’opposé de ses propres signes, ainsi qu’en Cancer, à l’opposé de son exaltation."
 sources:
@@ -34,7 +35,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les maîtrises, les exaltations et l’étiquette de « maléfique »" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-Mars est la planète qui vient juste après la Terre, et il porte le nom du dieu romain de la guerre. Les astrologues y lisent la force en vous qui avance, qui veut et qui résiste : votre élan, votre désir, et votre façon de vivre la colère.
+Mars, la planète qui vient juste après la Terre, porte le nom du dieu romain de la guerre. Les astrologues y lisent la force en vous qui avance, qui veut et qui résiste : votre élan, votre désir, et votre façon de vivre la colère.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
@@ -44,7 +45,7 @@ Je lis Mars comme un élan plutôt que comme de l’agressivité. Il répond à 
 - **Sa maison** montre où vous mettez votre énergie, et où vous tenez bon le plus volontiers.
 - **Ses aspects** montrent si cette énergie circule librement, se bloque, ou sort de travers.
 
-Mars travaille avec [Vénus](/astrology/venus/) : l’une décrit ce qui vous attire, l’autre la façon dont vous le poursuivez. Avec le [Soleil](/astrology/sun/), il montre la force qu’il y a derrière votre élan ; avec [Saturne](/astrology/saturn/), où vous apprenez à doser cette force ; avec [Jupiter](/astrology/jupiter/), où elle devient plus grande et plus audacieuse. Il gouverne le [Bélier](/astrology/aries/) et, traditionnellement, le [Scorpion](/astrology/scorpio/), que les astrologues modernes donnent à [Pluton](/astrology/pluto/) — c’est toute la question des [maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/). On le dit exalté en [Capricorne](/astrology/capricorn/), où l’effort est régulier et bien visé. Il est affaibli en Balance et en Taureau, à l’opposé de ses propres signes, et en Cancer, où se trouve sa chute : il s’y bat moins directement, pas moins bien. La tradition en faisait un [maléfique](/astrology/benefics-and-malefics/), une planète qui tranche et qui sépare ; je le lis comme la part de vous qui sait agir, refuser et protéger.
+Mars travaille avec [Vénus](/astrology/venus/) : elle décrit ce qui vous attire, lui la façon dont vous le poursuivez. Avec le [Soleil](/astrology/sun/), il montre la force qu’il y a derrière votre élan ; avec [Saturne](/astrology/saturn/), où vous apprenez à doser cette force ; avec [Jupiter](/astrology/jupiter/), où elle devient plus grande et plus audacieuse. Il gouverne le [Bélier](/astrology/aries/) et, traditionnellement, le [Scorpion](/astrology/scorpio/), que les astrologues modernes donnent à [Pluton](/astrology/pluto/) — c’est toute la question des [maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/). On le dit exalté en [Capricorne](/astrology/capricorn/), où l’effort est régulier et bien visé. Il est affaibli en Balance et en Taureau, à l’opposé de ses propres signes, et en Cancer, où se trouve sa chute : il s’y bat moins directement, pas moins bien. La tradition en faisait un [maléfique](/astrology/benefics-and-malefics/), une planète de chaleur et de conflit ; je le lis comme la part de vous qui sait agir, refuser et protéger.
 
 Ses aspects montrent comment cette force est branchée. Un [Soleil carré Mars](/astrology/sun-square-mars/) décrit souvent une volonté forte qui doit apprendre sa propre force. [Vénus conjonction Mars](/astrology/venus-conjunct-mars/) réunit l’attirance et la conquête au même endroit. Une [Lune conjonction Mars](/astrology/moon-conjunct-mars/) réagit vite, ressent et agit d’un même mouvement. Et un [Mars carré Saturne](/astrology/mars-square-saturn/), c’est le pied sur l’accélérateur et sur le frein à la fois : un effort qui doit attendre, et qui y gagne de l’endurance.
 
@@ -94,7 +95,7 @@ Naître pendant une rétrogradation de Mars n’est pas un manque d’élan ; 
 
 ## Ce qui a tenu dans mes tests {#ce-qui-a-tenu}
 
-Mars était sur ma liste comme chaque placement — son signe et sa maison, une coche ou une croix — dans [mon carnet](/blog/i-tested-my-birth-chart/), pour mon propre thème puis pour ma famille, des amis et des inconnus qui avaient donné leur accord. Il ne fait pas partie des trois qui ont tenu bien plus souvent : ce sont [Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/), qui ont tenu 75 à 90 % du temps. Dans l’ensemble, environ un tiers de ce que j’ai vérifié a tenu : 30 à 40 %. Je lis donc Mars dans chaque thème, mais je ne fais pas reposer une lecture sur lui seul, et quand une partie de ce que je vous dis en dépend, je vous le dis. C’est un carnet, pas une étude, et il façonne [ma façon de lire](/how-i-read/).
+Mars était sur ma liste comme chaque placement — son signe et sa maison, une coche ou une croix — dans [mon carnet](/blog/i-tested-my-birth-chart/), pour mon propre thème puis pour ma famille, des amis et des inconnus qui avaient donné leur accord. Il ne fait pas partie des trois qui ont tenu bien plus souvent : ce sont [Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/), qui ont tenu 75 à 90 % du temps. Dans l’ensemble, environ un tiers de ce que j’ai vérifié a tenu : 30 à 40 %. Je lis donc Mars dans chaque thème, mais je ne fais pas reposer une lecture sur lui seul, et quand une partie de ma lecture en dépend, je vous le dis. C’est un carnet, pas une étude, et il façonne [ma façon de lire](/how-i-read/).
 
 ## Idées reçues {#idees-recues}
 

@@ -24,7 +24,7 @@ facts:
 related: ["/astrology/sun", "/astrology/mercury", "/astrology/cancer", "/astrology/lunar-return", "/blog/unknown-birth-time"]
 faq:
   - q: "Quel est mon signe lunaire ?"
-    a: "Le signe dans lequel se trouvait la Lune au moment de votre naissance. Elle change de signe environ tous les deux jours et demi : la plupart du temps, la date suffit. Le jour où elle change, seule votre heure de naissance peut dire lequel des deux signes est le vôtre."
+    a: "Le signe dans lequel se trouvait la Lune au moment de votre naissance. Elle change de signe environ tous les deux jours et demi : la plupart du temps, la date suffit. Le jour où elle change, seuls votre heure et votre lieu de naissance peuvent dire lequel des deux signes est le vôtre."
   - q: "Que représente la Lune dans un thème natal ?"
     a: "Ce dont vous avez besoin pour vous sentir en sécurité : vos réactions avant toute réflexion, ce qui vous apaise, les habitudes vers lesquelles vous revenez quand la fatigue vient. Son signe montre le style de ces besoins, sa maison le domaine de vie où ils se jouent, ses aspects la facilité avec laquelle ils sont comblés."
   - q: "Le signe lunaire compte-t-il plus que le signe solaire ?"
@@ -96,7 +96,7 @@ Les planètes lentes, elles, prennent leur temps. Quand Saturne passe sur votre 
 
 ## Ce qui a tenu dans mes tests {#ce-qui-a-tenu}
 
-La Lune était sur ma liste comme chaque placement : son signe et sa maison, une coche ou une croix, dans [mon carnet](/blog/i-tested-my-birth-chart/) — mon propre thème d’abord, puis ceux de ma famille, d’amis et d’inconnus qui avaient donné leur accord. Elle ne fait pas partie des trois qui ont tenu bien plus souvent : ce sont [Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/), qui ont tenu 75 à 90 % du temps. Dans l’ensemble, environ un tiers de ce que j’ai vérifié a tenu : 30 à 40 %. Je lis donc la Lune dans chaque thème, mais je ne bâtis pas une lecture sur elle seule, et quand une partie de la lecture repose sur elle, je vous le dis. Si vous ne connaissez pas votre heure et que la Lune a changé de signe ce jour-là, je vous le signale aussi, et je lis les deux. C’est un carnet, pas une étude, et il façonne [ma façon de lire](/how-i-read/).
+La Lune était sur ma liste comme chaque placement : son signe et sa maison, une coche ou une croix, dans [mon carnet](/blog/i-tested-my-birth-chart/) — mon propre thème d’abord, puis ceux de ma famille, d’amis et d’inconnus qui avaient donné leur accord. Elle ne fait pas partie des trois qui ont tenu bien plus souvent : ce sont [Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/), qui ont tenu 75 à 90 % du temps. Dans l’ensemble, environ un tiers de ce que j’ai vérifié a tenu : 30 à 40 %. Je lis donc la Lune dans chaque thème, mais je ne bâtis pas une lecture sur elle seule, et quand une partie de la lecture repose sur elle, je vous le dis. Si vous ne connaissez pas votre heure et que la Lune a changé de signe ce jour-là, je vous le signale aussi, et je lis les deux si cela compte. C’est un carnet, pas une étude, et il façonne [ma façon de lire](/how-i-read/).
 
 ## Idées reçues {#idees-recues}
 

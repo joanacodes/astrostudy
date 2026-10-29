@@ -12,6 +12,7 @@ definition: "Mars is the red planet, and in astrology the planet of drive: how y
 facts:
   - { k: "Symbol", v: "♂ — a circle with an arrow pointing up and to the right" }
   - { k: "Type", v: "Planet; the next one out from Earth, the red one" }
+  - { k: "One trip round the zodiac", v: "About 2 years" }
   - { k: "Time in each sign", v: "About 6 to 7 weeks, longer when retrograde" }
   - { k: "Rules", v: "Aries, and traditionally Scorpio" }
   - { k: "Exalted in", v: "Capricorn" }
@@ -25,7 +26,7 @@ faq:
   - q: "What does Mars in my chart say about anger?"
     a: "It shows how your anger tends to rise and come out: fast and hot, slow and stubborn, sharp in words, or held in until it can’t be. It describes a tendency, not a temper you’re stuck with, and knowing it can help you choose what to do with it."
   - q: "Is Mars a bad planet?"
-    a: "No. Traditional astrology called Mars a “malefic” because it cuts, burns and divides. Read today, it’s the energy that lets you act, say no and protect what matters; where it sits in your chart is where you learn to use that force well."
+    a: "No. Traditional astrology called Mars a “malefic” because it was linked with heat, conflict and separation. Read today, it’s the energy that lets you act, say no and protect what matters; where it sits in your chart is where you learn to use that force well."
   - q: "Which signs does Mars rule?"
     a: "Aries, and traditionally Scorpio, which modern astrologers give to Pluto. Mars is said to be exalted in Capricorn, where its energy is most disciplined, and weakened in Libra and Taurus, opposite its own signs, and in Cancer, opposite its exaltation."
 sources:
@@ -43,7 +44,7 @@ I read Mars as drive rather than aggression. It answers *how do you go after wha
 - **Its house** shows where you put your energy, and where you're most ready to stand your ground.
 - **Its aspects** show whether that energy flows freely, gets blocked, or comes out sideways.
 
-Mars works with [Venus](/astrology/venus/): one describes what attracts you, the other how you pursue it. With the [Sun](/astrology/sun/), it shows how much force your purpose has behind it; with [Saturn](/astrology/saturn/), where you learn to pace that force; with [Jupiter](/astrology/jupiter/), where it grows bigger and bolder. It rules [Aries](/astrology/aries/) and, traditionally, [Scorpio](/astrology/scorpio/), which modern astrologers give to [Pluto](/astrology/pluto/) — the split explained in [traditional and modern rulers](/astrology/traditional-and-modern-rulers/). It is said to be exalted in [Capricorn](/astrology/capricorn/), where effort is steady and aimed. It is weakened in Libra and Taurus, opposite its own signs, and in Cancer, its fall: places where it fights less directly, not less well. Tradition called Mars a [malefic](/astrology/benefics-and-malefics/), a planet that cuts and divides; I read it as the part of you that can act, refuse and protect.
+Mars works with [Venus](/astrology/venus/): Venus describes what attracts you, Mars how you pursue it. With the [Sun](/astrology/sun/), it shows how much force your purpose has behind it; with [Saturn](/astrology/saturn/), where you learn to pace that force; with [Jupiter](/astrology/jupiter/), where it grows bigger and bolder. It rules [Aries](/astrology/aries/) and, traditionally, [Scorpio](/astrology/scorpio/), which modern astrologers give to [Pluto](/astrology/pluto/) — the split explained in [traditional and modern rulers](/astrology/traditional-and-modern-rulers/). It is said to be exalted in [Capricorn](/astrology/capricorn/), where effort is steady and aimed. It is weakened in Libra and Taurus, opposite its own signs, and in Cancer, its fall: places where it fights less directly, not less well. Tradition called Mars a [malefic](/astrology/benefics-and-malefics/), a planet of heat and conflict; I read it as the part of you that can act, refuse and protect.
 
 Its aspects show how that force is wired. A [Sun square Mars](/astrology/sun-square-mars/) often describes a strong will that has to learn its own strength. [Venus conjunct Mars](/astrology/venus-conjunct-mars/) puts attraction and pursuit in the same place. A [Moon conjunct Mars](/astrology/moon-conjunct-mars/) tends to react quickly, feeling and acting in one movement. And a [Mars square Saturn](/astrology/mars-square-saturn/) is the foot on the accelerator and the brake at once: effort that has to wait, and gains stamina because of it.
 

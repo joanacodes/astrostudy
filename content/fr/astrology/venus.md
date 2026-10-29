@@ -51,9 +51,9 @@ Ses aspects la rendent vraiment vôtre. Vénus ne s’éloigne jamais de plus de
 
 ## Vénus dans les signes {#dans-les-signes}
 
-Vénus passe environ quatre à cinq semaines dans chaque signe, davantage quand elle rétrograde. Comme elle reste à 47° environ du Soleil au plus, elle se trouve dans votre signe solaire ou à deux signes de lui, au maximum. En mots simples :
+Vénus passe environ quatre à cinq semaines dans chaque signe, davantage quand elle rétrograde. Comme elle ne s’éloigne jamais de plus de 47° environ du Soleil, elle se trouve dans votre signe solaire ou à un ou deux signes de lui. En mots simples :
 
-- **[Vénus en Bélier](/astrology/venus-in-aries/) :** vous aimez avec audace et sans attendre, et aimez faire le premier pas.
+- **[Vénus en Bélier](/astrology/venus-in-aries/) :** vous aimez avec audace et sans attendre, et faites volontiers le premier pas.
 - **[Vénus en Taureau](/astrology/venus-in-taurus/) :** de la fidélité, de la sensualité ; il vous faut du temps pour vous engager, et plus encore pour lâcher ; son propre signe.
 - **[Vénus en Gémeaux](/astrology/venus-in-gemini/) :** c’est un esprit qui vous séduit ; la conversation et la légèreté gardent l’amour vivant.
 - **[Vénus en Cancer](/astrology/venus-in-cancer/) :** vous aimez en prenant soin et en protégeant, et il vous faut vous sentir chez vous avec quelqu’un.
@@ -77,7 +77,7 @@ Sa maison montre où la vie vous semble la plus douce. La tradition donnait à V
 5. **[Maison V](/astrology/venus-in-5th-house/) :** la joie de Vénus : l’amour, le jeu et le plaisir de créer.
 6. **[Maison VI](/astrology/venus-in-6th-house/) :** il vous faut de l’harmonie au travail, et le travail bien fait vous fait plaisir.
 7. **[Maison VII](/astrology/venus-in-7th-house/) :** le couple compte profondément ; vous cherchez la grâce et l’équité chez l’autre.
-8. **[Maison VIII](/astrology/venus-in-8th-house/) :** un amour qui va loin, avec l’intimité et la confiance en son centre.
+8. **[Maison VIII](/astrology/venus-in-8th-house/) :** un amour qui va loin, avec l’intimité et la confiance au cœur.
 9. **[Maison IX](/astrology/venus-in-9th-house/) :** l’étranger et le lointain vous attirent, et les amours qui élargissent votre monde.
 10. **[Maison X](/astrology/venus-in-10th-house/) :** de la grâce dans la vie publique ; un travail lié à la beauté, aux gens ou à la diplomatie.
 11. **[Maison XI](/astrology/venus-in-11th-house/) :** les amitiés sont une grande source de joie ; l’amour peut commencer en amitié.
