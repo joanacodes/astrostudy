@@ -9,7 +9,7 @@ draft: true
 terms: ["axe du méridien"]
 family: "angles"
 weight: 6
-glyph: "MC/IC"
+glyph: "MC/FC"
 definition: "L’axe du méridien va du Milieu du Ciel au Fond du Ciel : les deux points où le zodiaque croisait votre méridien local, la ligne nord-sud du ciel, au moment de votre naissance. Le Milieu du Ciel n’est pas le point situé juste au-dessus de la tête. Les astrologues y lisent la vie publique et les racines intimes."
 facts:
   - { k: "Ses deux bouts", v: "Le Milieu du Ciel (MC) en haut du thème, le Fond du Ciel (FC, ou IC) en bas" }
