@@ -30,7 +30,7 @@ faq:
   - q: "L’ascendant, c’est un signe ou un degré ?"
     a: "Les deux. L’ascendant est un degré précis du zodiaque, celui qui se trouvait à l’est, sur l’horizon, à votre naissance ; votre « ascendant Lion » ou « ascendant Bélier » est le signe où tombe ce degré. Deux personnes du même ascendant peuvent avoir des degrés distants de près de trente degrés, l’un au début du signe, l’autre à la fin."
   - q: "Qu’est-ce que le maître du thème ?"
-    a: "La planète qui gouverne votre signe ascendant : Mars pour l’ascendant Bélier, Vénus pour le Taureau ou la Balance, Saturne pour le Capricorne, et ainsi de suite. Son signe et sa maison montrent vers où votre vie a tendance à vous porter. Le Scorpion, le Verseau et les Poissons ont chacun un maître moderne et un maître traditionnel."
+    a: "La planète qui gouverne votre signe ascendant : Mars pour l’ascendant Bélier, Vénus pour le Taureau ou la Balance, Saturne pour le Capricorne, et ainsi de suite. Son signe et sa maison montrent vers où votre vie a tendance à vous porter. Le Scorpion, le Verseau et les Poissons ont chacun un maître moderne et un maître traditionnel, et je lis les deux."
 sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "l’astronomie des angles" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons, comptées à partir de l’ascendant" }
@@ -40,7 +40,7 @@ Votre ascendant est le placement qu’on vous demande juste après votre signe s
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Imaginez le ciel à l’instant de votre naissance, coupé en deux par l’horizon. Le zodiaque croise cette ligne en deux points : à l’est, où les signes se lèvent, et à l’ouest, où ils se couchent. Le point de l’est, c’est votre ascendant ; celui de l’ouest, juste en face, c’est le [descendant](/astrology/descendant/). Ensemble, ils forment l’[axe de l’horizon](/astrology/horizon-axis/). Sur la plupart des roues, l’ascendant est la ligne de gauche, à neuf heures. En Placidus et dans les autres systèmes par quadrants, c’est la cuspide, la ligne de départ, de la [maison 1](/astrology/1st-house/). Les Grecs l’appelaient *hôroskopos*, « celui qui marque l’heure » : le mot horoscope vient de là.
+Imaginez le ciel à l’instant de votre naissance, coupé en deux par l’horizon. Le zodiaque croise cette ligne en deux points : à l’est, où les signes se lèvent, et à l’ouest, où ils se couchent. Le point de l’est, c’est votre ascendant ; celui de l’ouest, juste en face, c’est le [descendant](/astrology/descendant/). Ensemble, ils forment l’[axe de l’horizon](/astrology/horizon-axis/). Sur la plupart des roues, l’ascendant est la ligne de gauche, à neuf heures. En Placidus, le système de maisons que j’utilise, comme dans les autres systèmes par quadrants, c’est la cuspide, la ligne de départ, de la [maison 1](/astrology/1st-house/). Les Grecs l’appelaient *hôroskopos*, « celui qui marque l’heure » : le mot horoscope vient de là.
 
 Je lis l’ascendant comme votre façon de passer la porte : comment vous commencez les choses, l’allure que les gens rencontrent avant de vous connaître, le geste que vous faites avant d’avoir eu le temps d’y penser. Ce n’est pas un masque. C’est la part de vous qui passe en premier.
 
@@ -71,7 +71,7 @@ L’ascendant change de signe environ toutes les deux heures en moyenne, plus ou
 
 ## Son maître dans les maisons {#dans-les-maisons}
 
-La planète qui gouverne votre signe ascendant est le [maître du thème](/astrology/chart-ruler/) : Mars pour l’ascendant Bélier, Vénus pour le Taureau et la Balance, Mercure pour les Gémeaux et la Vierge, la Lune pour le Cancer, le Soleil pour le Lion, Jupiter pour le Sagittaire, Saturne pour le Capricorne. Le Scorpion, le Verseau et les Poissons ont un maître moderne et un maître traditionnel (Pluton et Mars, Uranus et Saturne, Neptune et Jupiter), et les astrologues lisent l’un, l’autre ou les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)). La maison où se trouve votre maître du thème montre vers où votre vie a tendance à vous porter :
+La planète qui gouverne votre signe ascendant est le [maître du thème](/astrology/chart-ruler/) : Mars pour l’ascendant Bélier, Vénus pour le Taureau et la Balance, Mercure pour les Gémeaux et la Vierge, la Lune pour le Cancer, le Soleil pour le Lion, Jupiter pour le Sagittaire, Saturne pour le Capricorne. Le Scorpion, le Verseau et les Poissons ont un maître moderne et un maître traditionnel (Pluton et Mars, Uranus et Saturne, Neptune et Jupiter), et je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)). La maison où se trouve votre maître du thème montre vers où votre vie a tendance à vous porter :
 
 1. **[En maison I](/astrology/1st-house-ruler-in-1st-house/) :** votre vie est son propre projet ; vous la menez vous-même, et cela se voit.
 2. **[En maison II](/astrology/1st-house-ruler-in-2nd-house/) :** vous vous construisez par ce que vous gagnez, gardez et estimez.

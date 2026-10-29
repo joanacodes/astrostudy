@@ -70,7 +70,7 @@ Le Fond du Ciel est toujours le signe opposé à votre Milieu du Ciel, et change
 
 ## Son maître dans les maisons {#dans-les-maisons}
 
-La planète qui gouverne le signe de votre Fond du Ciel est le maître de votre maison 4 ([maîtres des maisons](/astrology/house-rulers/)) : la Lune pour un Fond du Ciel en Cancer, Vénus pour le Taureau ou la Balance, Saturne pour le Capricorne, et ainsi de suite ; le Scorpion, le Verseau et les Poissons ont un maître moderne et un maître traditionnel ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)). Là où il se trouve, on voit où l’histoire du foyer et de la famille se joue dans le reste de votre vie :
+La planète qui gouverne le signe de votre Fond du Ciel est le maître de votre maison 4 ([maîtres des maisons](/astrology/house-rulers/)) : la Lune pour un Fond du Ciel en Cancer, Vénus pour le Taureau ou la Balance, Saturne pour le Capricorne, et ainsi de suite ; le Scorpion, le Verseau et les Poissons ont un maître moderne et un maître traditionnel, et je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)). Là où il se trouve, on voit où l’histoire du foyer et de la famille se joue dans le reste de votre vie :
 
 1. **[En maison I](/astrology/4th-house-ruler-in-1st-house/) :** vous portez le foyer en vous ; votre famille a façonné, visiblement, la personne que vous êtes.
 2. **[En maison II](/astrology/4th-house-ruler-in-2nd-house/) :** le foyer, c’est la sécurité ; vous le bâtissez avec ce que vous gagnez et ce qui compte pour vous.

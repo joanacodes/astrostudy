@@ -85,7 +85,7 @@ Le signe sur la cuspide de la maison 8 décrit votre façon d’aborder ce qui s
 
 ## Son maître {#maitre}
 
-Le maître de la maison 8 est la planète qui gouverne le signe sur sa cuspide, et là où il se trouve, on voit où les questions de la maison 8 — la confiance, le partage, les dettes — se posent dans votre vie. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel à lire (voir [maîtres des maisons](/astrology/house-rulers/)).
+Le maître de la maison 8 est la planète qui gouverne le signe sur sa cuspide, et là où il se trouve, on voit où les questions de la maison 8 — la confiance, le partage, les dettes — se posent dans votre vie. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel, et je lis les deux (voir [maîtres des maisons](/astrology/house-rulers/)).
 
 1. **[En maison I](/astrology/8th-house-ruler-in-1st-house/) :** l’intensité se voit dans votre façon d’aborder le monde ; la profondeur fait partie de qui vous êtes.
 2. **[En maison II](/astrology/8th-house-ruler-in-2nd-house/) :** ce que vous partagez et ce que vous possédez sont liés ; des limites claires aident.

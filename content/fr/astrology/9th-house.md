@@ -86,7 +86,7 @@ Le signe sur la cuspide de la maison 9 donne le style de votre quête : votre f
 
 ## Son maître {#maitre}
 
-Le maître de la maison 9 est la planète qui gouverne le signe sur sa cuspide, et là où il se trouve, on voit où se joue votre quête de sens : le domaine de vie qui nourrit vos convictions, ou celui où vous les mettez à l’œuvre. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel à lire (voir [maîtres des maisons](/astrology/house-rulers/)).
+Le maître de la maison 9 est la planète qui gouverne le signe sur sa cuspide, et là où il se trouve, on voit où se joue votre quête de sens : le domaine de vie qui nourrit vos convictions, ou celui où vous les mettez à l’œuvre. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel, et je lis les deux (voir [maîtres des maisons](/astrology/house-rulers/)).
 
 1. **[En maison I](/astrology/9th-house-ruler-in-1st-house/) :** vos convictions se voient dans qui vous êtes ; le goût du voyage, de l’étude ou de l’enseignement fait partie de vous.
 2. **[En maison II](/astrology/9th-house-ruler-in-2nd-house/) :** ce que vous savez devient votre gagne-pain ; des valeurs façonnées par vos convictions.

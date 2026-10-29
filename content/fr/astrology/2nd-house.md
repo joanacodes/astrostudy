@@ -83,7 +83,7 @@ Le signe sur la cuspide de la maison 2 donne votre style avec l’argent et les 
 
 ## Son maître {#maitre}
 
-Le maître de la maison 2 est la planète qui gouverne le signe sur sa cuspide. Là où il se trouve, on voit d’où viennent votre argent et votre sentiment de valeur, et où ils ont tendance à aller : le domaine qui nourrit votre sécurité, ou celui qui la dépense. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel, et les deux méritent d’être lus (voir [maîtres des maisons](/astrology/house-rulers/)).
+Le maître de la maison 2 est la planète qui gouverne le signe sur sa cuspide. Là où il se trouve, on voit d’où viennent votre argent et votre sentiment de valeur, et où ils ont tendance à aller : le domaine qui nourrit votre sécurité, ou celui qui la dépense. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel, et je lis les deux (voir [maîtres des maisons](/astrology/house-rulers/)).
 
 1. **[En maison I](/astrology/2nd-house-ruler-in-1st-house/) :** vous gagnez par votre propre effort et votre présence ; votre valeur et votre identité se touchent.
 2. **[En maison II](/astrology/2nd-house-ruler-in-2nd-house/) :** l’histoire reste à la maison ; ce que vous avez tend à se construire sur lui-même.

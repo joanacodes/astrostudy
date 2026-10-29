@@ -88,7 +88,7 @@ Le signe sur la cuspide de la maison 6 donne son style à vos journées : votre
 
 ## Son maître {#maitre}
 
-Le maître de la maison 6 est la planète qui gouverne le signe sur sa cuspide. Là où il se trouve, on voit où vont votre travail quotidien et vos habitudes : le domaine de vie que votre effort sert. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel à lire (voir [maîtres des maisons](/astrology/house-rulers/)).
+Le maître de la maison 6 est la planète qui gouverne le signe sur sa cuspide. Là où il se trouve, on voit où vont votre travail quotidien et vos habitudes : le domaine de vie que votre effort sert. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel, et je lis les deux (voir [maîtres des maisons](/astrology/house-rulers/)).
 
 1. **[En maison I](/astrology/6th-house-ruler-in-1st-house/) :** on vous connaît pour votre façon de travailler ; l’effort fait partie de qui vous êtes.
 2. **[En maison II](/astrology/6th-house-ruler-in-2nd-house/) :** le travail quotidien comme gagne-pain ; des compétences qui rapportent.

@@ -89,7 +89,7 @@ Le signe sur la cuspide de la maison 7 est celui de votre descendant, toujours o
 
 ## Son maître {#maitre}
 
-Le maître de la maison 7 est la planète qui gouverne le signe sur sa cuspide, et là où il se trouve, on voit où se joue l’histoire de vos relations : là où vous rencontrez les autres, et ce que vous finissez par partager avec eux. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel à lire (voir [maîtres des maisons](/astrology/house-rulers/)).
+Le maître de la maison 7 est la planète qui gouverne le signe sur sa cuspide, et là où il se trouve, on voit où se joue l’histoire de vos relations : là où vous rencontrez les autres, et ce que vous finissez par partager avec eux. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel, et je lis les deux (voir [maîtres des maisons](/astrology/house-rulers/)).
 
 1. **[En maison I](/astrology/7th-house-ruler-in-1st-house/) :** vos partenaires façonnent la personne que vous devenez ; vous vous reconnaissez parfois dans celles que vous choisissez.
 2. **[En maison II](/astrology/7th-house-ruler-in-2nd-house/) :** le couple lié à l’argent et aux valeurs ; un lien doit sembler sûr, et en valoir la peine.

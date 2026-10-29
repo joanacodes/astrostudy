@@ -41,7 +41,7 @@ L’axe des nœuds, c’est le Nœud Nord et le Nœud Sud pris ensemble : une s
 
 La route de la Lune autour de nous est inclinée d’environ cinq degrés sur l’[écliptique](/astrology/ecliptic/), le chemin que le Soleil semble suivre au fil de l’année. Deux cercles inclinés l’un sur l’autre se croisent en deux points, exactement opposés. Là où la Lune passe vers le nord, c’est le [Nœud Nord](/astrology/north-node/) ; là où elle passe vers le sud, le [Nœud Sud](/astrology/south-node/). La ligne qui les relie est l’axe des nœuds.
 
-Il n’y a rien à voir : les nœuds sont des points de croisement, calculés à partir de l’orbite de la Lune. C’est aussi pour cela qu’il existe deux façons de les calculer — un nœud moyen, lissé, et un nœud vrai, qui oscille — à un ou deux degrés l’un de l’autre au plus ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). Près de la limite d’un signe, mieux vaut vérifier lequel un thème utilise.
+Il n’y a rien à voir : les nœuds sont des points de croisement, calculés à partir de l’orbite de la Lune. C’est aussi pour cela qu’il existe deux façons de les calculer — un nœud moyen, lissé, et un nœud vrai, qui oscille — à un ou deux degrés l’un de l’autre au plus ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). Je regarde les deux, et près de la limite d’un signe, je vous dis quand ils ne s’accordent pas.
 
 ## Comment ça marche {#comment-ca-marche}
 

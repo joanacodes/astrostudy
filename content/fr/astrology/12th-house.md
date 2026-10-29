@@ -88,7 +88,7 @@ Le signe sur la cuspide de la maison 12 décrit votre façon de vous retirer et 
 
 ## Son maître {#maitre}
 
-Le maître de la maison 12 est la planète qui gouverne le signe sur sa cuspide, et là où il se trouve, on voit où se joue le travail discret de la maison 12 : le domaine où vous vous retirez, ou celui que vous servez loin des regards. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel à lire (voir [maîtres des maisons](/astrology/house-rulers/)).
+Le maître de la maison 12 est la planète qui gouverne le signe sur sa cuspide, et là où il se trouve, on voit où se joue le travail discret de la maison 12 : le domaine où vous vous retirez, ou celui que vous servez loin des regards. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel, et je lis les deux (voir [maîtres des maisons](/astrology/house-rulers/)).
 
 1. **[En maison I](/astrology/12th-house-ruler-in-1st-house/) :** votre vie intérieure se voit dans votre manière d’être ; une présence calme et sensible.
 2. **[En maison II](/astrology/12th-house-ruler-in-2nd-house/) :** des inquiétudes intimes autour de la sécurité ; de l’argent gagné en coulisses, ou dépensé pour le repos et le calme.

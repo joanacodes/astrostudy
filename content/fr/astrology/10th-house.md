@@ -87,7 +87,7 @@ En Placidus et dans les autres systèmes par quadrants, le signe sur la cuspide 
 
 ## Son maître {#maitre}
 
-Le maître de la maison 10 est la planète qui gouverne le signe sur sa cuspide, et là où il se trouve, on voit ce qui nourrit votre vie publique : le domaine qui alimente votre travail, ou celui vers lequel votre travail revient sans cesse. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel à lire (voir [maîtres des maisons](/astrology/house-rulers/)).
+Le maître de la maison 10 est la planète qui gouverne le signe sur sa cuspide, et là où il se trouve, on voit ce qui nourrit votre vie publique : le domaine qui alimente votre travail, ou celui vers lequel votre travail revient sans cesse. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel, et je lis les deux (voir [maîtres des maisons](/astrology/house-rulers/)).
 
 1. **[En maison I](/astrology/10th-house-ruler-in-1st-house/) :** votre travail fait partie de qui vous êtes ; vous tracez souvent votre propre route.
 2. **[En maison II](/astrology/10th-house-ruler-in-2nd-house/) :** un travail lié à ce que vous gagnez et à ce qui compte pour vous ; une sécurité bâtie par ce que vous faites.

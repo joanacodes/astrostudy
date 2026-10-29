@@ -88,7 +88,7 @@ Le signe sur la cuspide de la maison 5 donne son style à vos plaisirs : votre 
 
 ## Son maître {#maitre}
 
-Le maître de la maison 5 est la planète qui gouverne le signe sur sa cuspide. Là où il se trouve, on voit où votre créativité et votre plaisir vont se jouer : le domaine de vie dans lequel votre joie se déverse. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel à lire (voir [maîtres des maisons](/astrology/house-rulers/)).
+Le maître de la maison 5 est la planète qui gouverne le signe sur sa cuspide. Là où il se trouve, on voit où votre créativité et votre plaisir vont se jouer : le domaine de vie dans lequel votre joie se déverse. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel, et je lis les deux (voir [maîtres des maisons](/astrology/house-rulers/)).
 
 1. **[En maison I](/astrology/5th-house-ruler-in-1st-house/) :** la créativité fait partie de qui vous êtes ; vous vous montrez à travers ce que vous créez.
 2. **[En maison II](/astrology/5th-house-ruler-in-2nd-house/) :** ce que vous créez peut rapporter ; le plaisir des belles choses.

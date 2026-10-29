@@ -71,7 +71,7 @@ Le descendant est toujours le signe opposé à votre ascendant : il change de s
 
 ## Son maître dans les maisons {#dans-les-maisons}
 
-La planète qui gouverne le signe de votre descendant est le maître de votre maison 7 ([maîtres des maisons](/astrology/house-rulers/)) : Vénus pour le Taureau ou la Balance, Mars pour le Bélier, Saturne pour le Capricorne, et ainsi de suite ; le Scorpion, le Verseau et les Poissons ont un maître moderne et un maître traditionnel ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)). Là où il se trouve, on voit où les relations ont tendance à vous trouver, et à quoi elles se mêlent :
+La planète qui gouverne le signe de votre descendant est le maître de votre maison 7 ([maîtres des maisons](/astrology/house-rulers/)) : Vénus pour le Taureau ou la Balance, Mars pour le Bélier, Saturne pour le Capricorne, et ainsi de suite ; le Scorpion, le Verseau et les Poissons ont un maître moderne et un maître traditionnel, et je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)). Là où il se trouve, on voit où les relations ont tendance à vous trouver, et à quoi elles se mêlent :
 
 1. **[En maison I](/astrology/7th-house-ruler-in-1st-house/) :** les partenaires viennent à vous, et les relations façonnent la personne que vous devenez.
 2. **[En maison II](/astrology/7th-house-ruler-in-2nd-house/) :** l’amour et la sécurité vont ensemble ; les valeurs partagées comptent autant que les sentiments.

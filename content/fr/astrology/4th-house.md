@@ -87,7 +87,7 @@ Le signe au Fond du Ciel, la cuspide de la maison 4, donne le ton de votre vie p
 
 ## Son maître {#maitre}
 
-Le maître de la maison 4 est la planète qui gouverne le signe au Fond du Ciel. Là où il se trouve, on voit où votre sentiment d’être chez vous va chercher : le domaine de vie qui vous enracine, ou celui dans lequel les affaires de famille débordent. Avec le Scorpion, le Verseau ou les Poissons au Fond du Ciel, il y a un maître moderne et un maître traditionnel à lire (voir [maîtres des maisons](/astrology/house-rulers/)).
+Le maître de la maison 4 est la planète qui gouverne le signe au Fond du Ciel. Là où il se trouve, on voit où votre sentiment d’être chez vous va chercher : le domaine de vie qui vous enracine, ou celui dans lequel les affaires de famille débordent. Avec le Scorpion, le Verseau ou les Poissons au Fond du Ciel, il y a un maître moderne et un maître traditionnel, et je lis les deux (voir [maîtres des maisons](/astrology/house-rulers/)).
 
 1. **[En maison I](/astrology/4th-house-ruler-in-1st-house/) :** vous emportez votre foyer avec vous ; vos racines se voient dans qui vous êtes.
 2. **[En maison II](/astrology/4th-house-ruler-in-2nd-house/) :** le foyer et l’argent sont liés : un bien, des ressources familiales, la sécurité.

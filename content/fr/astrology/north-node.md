@@ -28,7 +28,7 @@ faq:
   - q: "À quelle fréquence le Nœud Nord change-t-il de signe ?"
     a: "Environ tous les 18 mois. Les nœuds reculent dans le zodiaque et en font le tour en environ 18,6 ans : toutes les personnes nées dans le même an et demi environ partagent donc le signe de leur Nœud Nord. Sa maison, qui demande l’heure de naissance, le rend personnel."
   - q: "Quelle différence entre le nœud vrai et le nœud moyen ?"
-    a: "Le nœud moyen est une position lissée, qui recule toujours. Le nœud vrai suit l’orbite réelle de la Lune, qui oscille. Les deux ont un ou deux degrés d’écart au plus : le signe est presque toujours le même, mais près de la limite d’un signe, vérifiez lequel votre thème utilise."
+    a: "Le nœud moyen est une position lissée, qui recule toujours. Le nœud vrai suit l’orbite réelle de la Lune, qui oscille. Les deux ont un ou deux degrés d’écart au plus : le signe est presque toujours le même. Je regarde les deux, et près de la limite d’un signe, je vous dis quand ils ne s’accordent pas."
   - q: "Le Nœud Nord est-il mon destin ?"
     a: "Pas dans ma façon de le lire. Certains astrologues y voient la mission d’une âme ou un chemin karmique ; j’y lis une direction qui récompense l’effort, jamais une obligation. Rien dans un thème ne décide à votre place, et personne ne rate son Nœud Nord."
 sources:

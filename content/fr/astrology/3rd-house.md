@@ -86,7 +86,7 @@ Le signe sur la cuspide de la maison 3 donne son style à votre esprit de tous l
 
 ## Son maître {#maitre}
 
-Le maître de la maison 3 est la planète qui gouverne le signe sur sa cuspide, et là où il se trouve, on voit à quoi servent votre pensée et votre parole : le domaine de vie que vos mots servent. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel à lire (voir [maîtres des maisons](/astrology/house-rulers/)).
+Le maître de la maison 3 est la planète qui gouverne le signe sur sa cuspide, et là où il se trouve, on voit à quoi servent votre pensée et votre parole : le domaine de vie que vos mots servent. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel, et je lis les deux (voir [maîtres des maisons](/astrology/house-rulers/)).
 
 1. **[En maison I](/astrology/3rd-house-ruler-in-1st-house/) :** votre façon de parler fait une grande part de qui vous êtes.
 2. **[En maison II](/astrology/3rd-house-ruler-in-2nd-house/) :** vos mots et vos compétences peuvent rapporter ; vous pensez beaucoup à la valeur des choses.

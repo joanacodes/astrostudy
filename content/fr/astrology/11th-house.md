@@ -86,7 +86,7 @@ Le signe sur la cuspide de la maison 11 décrit votre façon de vous faire des a
 
 ## Son maître {#maitre}
 
-Le maître de la maison 11 est la planète qui gouverne le signe sur sa cuspide, et là où il se trouve, on voit où se jouent vos amitiés et vos espoirs : là où vous trouvez les vôtres, et ce que vous bâtissez avec eux. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel à lire (voir [maîtres des maisons](/astrology/house-rulers/)).
+Le maître de la maison 11 est la planète qui gouverne le signe sur sa cuspide, et là où il se trouve, on voit où se jouent vos amitiés et vos espoirs : là où vous trouvez les vôtres, et ce que vous bâtissez avec eux. Avec le Scorpion, le Verseau ou les Poissons sur la cuspide, il y a un maître moderne et un maître traditionnel, et je lis les deux (voir [maîtres des maisons](/astrology/house-rulers/)).
 
 1. **[En maison I](/astrology/11th-house-ruler-in-1st-house/) :** vos amis façonnent qui vous êtes ; vous incarnez souvent ce que votre groupe défend.
 2. **[En maison II](/astrology/11th-house-ruler-in-2nd-house/) :** les amitiés et les réseaux touchent à ce que vous gagnez et à ce qui compte pour vous.

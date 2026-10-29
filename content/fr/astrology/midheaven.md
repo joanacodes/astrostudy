@@ -28,7 +28,7 @@ faq:
   - q: "Le Milieu du Ciel, est-ce la carrière ?"
     a: "En partie. Il décrit la direction vers laquelle vous avancez et l’image que vous voulez donner de votre travail, pas un intitulé de poste. Son signe en donne le style, et son maître montre où cette ambition puise son énergie. Je le lis comme une direction qu’on peut suivre dans bien des métiers différents."
   - q: "Le Milieu du Ciel est-il la cuspide de la maison 10 ?"
-    a: "En Placidus et dans les autres systèmes par quadrants, oui. En maisons Whole Sign ou égales, le Milieu du Ciel garde son sens mais flotte, et peut tomber en maison 9 ou en maison 11. C’est une des raisons pour lesquelles un même thème peut changer d’allure d’un site à l’autre."
+    a: "En Placidus, le système de maisons que j’utilise, et dans les autres systèmes par quadrants, oui. En maisons Whole Sign ou égales, le Milieu du Ciel garde son sens mais flotte, et peut tomber en maison 9 ou en maison 11. C’est une des raisons pour lesquelles un même thème peut changer d’allure d’un site à l’autre."
   - q: "Pourquoi faut-il l’heure de naissance pour le Milieu du Ciel ?"
     a: "Tout le zodiaque croise le méridien une fois par jour : le Milieu du Ciel change donc de signe environ toutes les deux heures. Une demi-heure d’écart sur l’heure de naissance peut suffire à le faire passer dans le signe suivant. Sans l’heure, je lis vos planètes dans leurs signes et je laisse les angles de côté."
 sources:
@@ -71,7 +71,7 @@ Tout le zodiaque croise le méridien une fois par jour : le Milieu du Ciel chan
 
 ## Son maître dans les maisons {#dans-les-maisons}
 
-La planète qui gouverne le signe de votre Milieu du Ciel est le maître de votre maison 10 ([maîtres des maisons](/astrology/house-rulers/)) : Saturne pour un Milieu du Ciel en Capricorne, le Soleil pour le Lion, Mercure pour les Gémeaux ou la Vierge, et ainsi de suite ; pour le Scorpion, le Verseau et les Poissons, les astrologues prennent le maître moderne, le traditionnel, ou les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)). Là où il se trouve, on voit quel domaine de vie nourrit votre travail et votre place :
+La planète qui gouverne le signe de votre Milieu du Ciel est le maître de votre maison 10 ([maîtres des maisons](/astrology/house-rulers/)) : Saturne pour un Milieu du Ciel en Capricorne, le Soleil pour le Lion, Mercure pour les Gémeaux ou la Vierge, et ainsi de suite ; le Scorpion, le Verseau et les Poissons ont un maître moderne et un maître traditionnel, et je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)). Là où il se trouve, on voit quel domaine de vie nourrit votre travail et votre place :
 
 1. **[En maison I](/astrology/10th-house-ruler-in-1st-house/) :** votre travail est personnel ; ce que vous faites se confond, aux yeux de tous, avec ce que vous êtes.
 2. **[En maison II](/astrology/10th-house-ruler-in-2nd-house/) :** un travail lié à ce que l’on gagne, et à ce qui a de la valeur.
