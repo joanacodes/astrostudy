@@ -28,7 +28,7 @@ faq:
     a: "Neptune met environ 165 ans à faire le tour du zodiaque : vers 41 ans, au quart du parcours, se forme un carré avec sa position de naissance. Les astrologues y lisent un moment où les vieilles certitudes s’adoucissent et où ce que vous poursuiviez est remis en question, en douceur ou dans le brouillard."
   - q: "Faut-il craindre Neptune dans un thème natal ?"
     a: "Non. Neptune montre où l’imagination et la compassion sont les plus vives chez vous, et aussi où il est le plus facile de voir ce qu’on espère voir. J’y vois un endroit où rêver en connaissance de cause et vérifier deux fois les faits, pas un avertissement."
-  - q: "Quel signe gouverne Neptune ?"
+  - q: "Quel signe est gouverné par Neptune ?"
     a: "Les Poissons, en maîtrise moderne. Avant la découverte de Neptune en 1846, les Poissons revenaient à Jupiter, et les astrologues qui travaillent de façon traditionnelle les lisent toujours ainsi. Neptune n’a pas d’exaltation dans la tradition, qui ignorait son existence."
 sources:
   - { title: "NASA — Neptune facts", url: "https://science.nasa.gov/neptune/neptune-facts/", note: "orbite et découverte" }

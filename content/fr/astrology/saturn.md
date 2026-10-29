@@ -27,7 +27,7 @@ faq:
     a: "Saturne revient à sa position de naissance environ tous les 29 ans et demi : le premier retour tombe entre 27 et 30 ans environ, le second vers 58 à 60 ans. Les dates exactes dépendent de votre thème."
   - q: "Que veut dire naître avec Saturne rétrograde ?"
     a: "Saturne passe environ quatre mois et demi par an en rétrogradation : plus d’un tiers des gens naissent ainsi. En lecture, cela décrit souvent des règles qu’une personne a dû s’écrire elle-même plutôt que les recevoir."
-  - q: "Quel signe gouverne Saturne ?"
+  - q: "Quel signe est gouverné par Saturne ?"
     a: "Le Capricorne. Avant la découverte d’Uranus en 1781, Saturne gouvernait aussi le Verseau, et les astrologues qui travaillent de façon traditionnelle utilisent toujours les deux."
 sources:
   - { title: "NASA — Saturn facts", url: "https://science.nasa.gov/saturn/facts/", note: "orbite et distance" }
@@ -59,7 +59,7 @@ Signe par signe : [Saturne en Bélier](/astrology/saturn-in-aries/), [Saturne e
 
 ## Saturne dans les maisons {#dans-les-maisons}
 
-1. **[Maison I](/astrology/saturn-in-1st-house/) :** sérieux très tôt, lent à se sentir bien dans sa peau — et plus solide pour cela ensuite.
+1. **[Maison I](/astrology/saturn-in-1st-house/) :** du sérieux très tôt, du temps pour se sentir bien dans sa peau — et plus de solidité ensuite.
 2. **[Maison II](/astrology/saturn-in-2nd-house/) :** l’argent et l’estime de soi appris par le long chemin ; une sécurité bâtie pierre après pierre.
 3. **[Maison III](/astrology/saturn-in-3rd-house/) :** des mots pesés, et une confiance tardive en ses propres idées.
 4. **[Maison IV](/astrology/saturn-in-4th-house/) :** des responsabilités très tôt à la maison ; le foyer construit plus tard est celui auquel on se fie.
@@ -74,7 +74,7 @@ Signe par signe : [Saturne en Bélier](/astrology/saturn-in-aries/), [Saturne e
 
 ## Saturne en synastrie {#en-synastrie}
 
-En [synastrie](/synastry/), quand Saturne, dans le thème de l’un, touche les planètes de l’autre, la relation devient sérieuse. Cela peut être le ciment — loyauté, structure, l’impression de construire ensemble — ou le froid, quand l’un se sent jugé ou freiné. Les contacts de Saturne avec la [Lune](/astrology/moon/) et [Vénus](/astrology/venus/) sont ceux que je lis avec le plus de soin : ils décident si la stabilité de l’autre ressemble à de la sécurité ou à de la critique.
+En [synastrie](/synastry/), quand Saturne, dans le thème de l’un, touche les planètes de l’autre, la relation devient sérieuse. Cela peut être le ciment — loyauté, structure, l’impression de construire ensemble — ou le froid, quand l’une des deux personnes se sent jugée ou freinée. Les contacts de Saturne avec la [Lune](/astrology/moon/) et [Vénus](/astrology/venus/) sont ceux que je lis avec le plus de soin : ils décident si la stabilité de l’autre ressemble à de la sécurité ou à de la critique.
 
 ## Transits et retour de Saturne {#retour-de-saturne}
 

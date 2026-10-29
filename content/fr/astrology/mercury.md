@@ -28,7 +28,7 @@ faq:
     a: "Qu’à votre naissance, depuis la Terre, Mercure semblait reculer. Cela arrive trois ou quatre fois par an, pendant environ trois semaines chaque fois : c’est donc courant. En lecture, cela décrit souvent quelqu’un qui retourne les choses à l’intérieur avant de les dire — un rythme, pas un défaut."
   - q: "Pourquoi ai-je Mercure dans mon signe solaire, ou juste à côté ?"
     a: "Dans notre ciel, Mercure ne s’éloigne jamais de plus de 28° environ du Soleil. Votre Mercure se trouve donc dans votre signe solaire, ou dans le signe juste avant ou juste après, et c’est pour cela que les astrologues lisent si souvent les deux ensemble."
-  - q: "Quels signes gouverne Mercure ?"
+  - q: "Quels signes sont gouvernés par Mercure ?"
     a: "Les Gémeaux et la Vierge. On place aussi l’exaltation de Mercure en Vierge, ce qui en fait la seule planète traditionnelle exaltée dans un signe qu’elle gouverne. Son exil est en Sagittaire et en Poissons, à l’opposé de ses propres signes ; les Poissons sont aussi le signe de sa chute."
 sources:
   - { title: "NASA — Mercury facts", url: "https://science.nasa.gov/mercury/facts/", note: "taille, orbite et distance au Soleil" }

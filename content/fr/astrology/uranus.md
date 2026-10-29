@@ -28,7 +28,7 @@ faq:
     a: "Uranus met environ 84 ans à faire le tour du zodiaque : vers 42 ans, à mi-parcours, la planète se trouve à l’opposé de sa position de naissance. Les astrologues y lisent un réveil de milieu de vie : l’envie de changer ce qui serre trop, à accueillir avec curiosité plutôt qu’avec panique."
   - q: "Pourquoi dit-on qu’Uranus est une planète générationnelle ?"
     a: "Parce qu’Uranus reste environ sept ans dans chaque signe : toutes les personnes nées pendant ces années partagent son signe. Je ne lis donc pas votre signe d’Uranus comme quelque chose de personnel. Ce qui vous est propre, c’est sa maison, et ses aspects avec votre Soleil, votre Lune, Mercure, Vénus, Mars et les angles."
-  - q: "Quel signe gouverne Uranus ?"
+  - q: "Quel signe est gouverné par Uranus ?"
     a: "Le Verseau, en maîtrise moderne. Avant la découverte d’Uranus en 1781, le Verseau revenait à Saturne, et les astrologues qui travaillent de façon traditionnelle le lisent toujours ainsi. Uranus n’a pas d’exaltation dans la tradition, qui ignorait son existence."
 sources:
   - { title: "NASA — Uranus facts", url: "https://science.nasa.gov/uranus/facts/", note: "orbite et découverte" }

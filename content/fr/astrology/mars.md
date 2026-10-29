@@ -28,7 +28,7 @@ faq:
     a: "Mars montre comment votre colère monte et comment elle sort : vite et fort, lentement et avec obstination, en mots tranchants, ou retenue jusqu’à ce qu’elle ne puisse plus l’être. C’est une tendance, pas une fatalité, et la connaître aide à choisir quoi en faire."
   - q: "Faut-il voir en Mars une mauvaise planète ?"
     a: "Non. L’astrologie traditionnelle donnait à Mars l’étiquette de « maléfique » parce qu’on l’associait à la chaleur, au conflit et à la séparation. Dans une lecture d’aujourd’hui, c’est l’énergie qui vous permet d’agir, de dire non et de protéger ce qui compte ; là où Mars se trouve dans votre thème, vous apprenez à bien vous servir de cette force."
-  - q: "Quels signes gouverne Mars ?"
+  - q: "Quels signes sont gouvernés par Mars ?"
     a: "Le Bélier, et traditionnellement le Scorpion, que les astrologues modernes donnent à Pluton. On place l’exaltation de Mars en Capricorne, où son énergie est la plus disciplinée. Son exil est en Balance et en Taureau, à l’opposé de ses propres signes, et sa chute en Cancer, à l’opposé de son exaltation."
 sources:
   - { title: "NASA — Mars facts", url: "https://science.nasa.gov/mars/facts/", note: "orbite et distance" }

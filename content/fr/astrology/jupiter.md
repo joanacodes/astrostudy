@@ -28,7 +28,7 @@ faq:
     a: "Jupiter met environ 12 ans à faire le tour du zodiaque : son retour à la place occupée à votre naissance a donc lieu vers 12, 24, 36 ans, et ainsi de suite toute la vie. Les dates exactes dépendent de votre thème ; si Jupiter est rétrograde à ce moment-là, il peut y avoir trois passages sur le même degré."
   - q: "Est-ce que Jupiter porte toujours chance dans un thème natal ?"
     a: "La tradition voyait en Jupiter la planète bénéfique par excellence, la plus bienveillante de toutes, et sa place dans le thème montre souvent où les choses viennent plus facilement. Mais la facilité a son piège : trop, trop vite, avec trop d’assurance. Je lis Jupiter comme l’endroit où vous grandissez, pas celui où la victoire vous est garantie."
-  - q: "Quels signes gouverne Jupiter ?"
+  - q: "Quels signes sont gouvernés par Jupiter ?"
     a: "Le Sagittaire, et traditionnellement les Poissons aussi, avant qu’on les confie à Neptune. On place l’exaltation de Jupiter en Cancer, où s’exprime le meilleur de sa nature. Son exil est en Gémeaux et en Vierge, à l’opposé de ses propres signes, et sa chute en Capricorne, à l’opposé de son exaltation."
 sources:
   - { title: "NASA — Jupiter facts", url: "https://science.nasa.gov/jupiter/jupiter-facts/", note: "taille et orbite" }

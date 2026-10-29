@@ -66,13 +66,13 @@ Pour lire la bonne, [vérifiez d’abord quelle Lilith votre thème affiche](/as
 7. **[Maison VII](/astrology/lilith-in-7th-house/) :** l’attirance pour l’interdit ou l’inégal ; apprendre à ne pas rapetisser en couple.
 8. **[Maison VIII](/astrology/lilith-in-8th-house/) :** des désirs profonds et intimes ; un besoin de vérité dans la proximité.
 9. **[Maison IX](/astrology/lilith-in-9th-house/) :** le rejet des dogmes ; une philosophie entièrement à soi.
-10. **[Maison X](/astrology/lilith-in-10th-house/) :** être vu comme « trop » en public ; une autorité qui ne demande pas la permission.
+10. **[Maison X](/astrology/lilith-in-10th-house/) :** passer pour « trop » en public ; une autorité qui ne demande pas la permission.
 11. **[Maison XI](/astrology/lilith-in-11th-house/) :** ne pas appartenir à la foule ; trouver les siens.
 12. **[Maison XII](/astrology/lilith-in-12th-house/) :** ce qu’on se cache même à soi-même ; les rêves, la solitude, les secrets.
 
 ## Lilith en synastrie {#en-synastrie}
 
-En [synastrie](/synastry/), quand la Lilith de l’un touche les planètes de l’autre, l’attirance est forte et souvent troublante : fascination, interdit, l’impression d’être vu d’une manière à la fois grisante et exposée. Ces contacts demandent de l’honnêteté, parce qu’ils font sortir ce que chacun garde d’habitude caché.
+En [synastrie](/synastry/), quand la Lilith de l’un touche les planètes de l’autre, l’attirance est forte et souvent troublante : fascination, interdit, l’impression que l’autre vous voit d’une manière à la fois grisante et exposée. Ces contacts demandent de l’honnêteté, parce qu’ils font sortir ce que chacun garde d’habitude caché.
 
 ## Transits et retour de Lilith {#retour-de-lilith}
 

@@ -28,7 +28,7 @@ faq:
     a: "La profondeur, le pouvoir et la transformation : là où vous ressentez les choses jusqu’au fond, où le contrôle compte pour vous, et où vous pouvez laisser finir quelque chose pour que quelque chose de plus vrai commence. Son signe est celui d’une génération ; sa maison et ses aspects montrent où Pluton vit dans votre vie."
   - q: "Quand a lieu mon carré de Pluton ?"
     a: "Cela dépend de votre année de naissance. L’orbite de Pluton est si irrégulière que son passage dans un signe dure de 12 à 31 ans : le carré à sa position de naissance arrive donc à des âges très différents selon les générations. Seul votre propre thème peut le dater."
-  - q: "Quel signe gouverne Pluton ?"
+  - q: "Quel signe est gouverné par Pluton ?"
     a: "Le Scorpion, en maîtrise moderne. Avant la découverte de Pluton en 1930, le Scorpion revenait à Mars, et les astrologues qui travaillent de façon traditionnelle le lisent toujours ainsi. Pluton n’a pas d’exaltation dans la tradition, qui ignorait son existence."
 sources:
   - { title: "NASA — Pluto facts", url: "https://science.nasa.gov/dwarf-planets/pluto/facts/", note: "orbite et distance" }

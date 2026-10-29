@@ -58,7 +58,7 @@ Signe par signe : [Chiron en Bélier](/astrology/chiron-in-aries/), [Chiron en 
 7. **[Maison VII](/astrology/chiron-in-7th-house/) :** une blessure dans ou par les relations proches ; plus tard, une rare qualité d’écoute envers l’autre.
 8. **[Maison VIII](/astrology/chiron-in-8th-house/) :** une grande méfiance dans l’intimité ; la capacité de rester près des gens dans leurs moments les plus durs.
 9. **[Maison IX](/astrology/chiron-in-9th-house/) :** une blessure autour du sens ou de la foi ; plus tard, transmettre ce qu’on a dû trouver seul.
-10. **[Maison X](/astrology/chiron-in-10th-house/) :** se sentir exposé ou jugé en public ; souvent un travail qui aide ceux qui vivent la même chose.
+10. **[Maison X](/astrology/chiron-in-10th-house/) :** la peur du regard et du jugement en public ; souvent un travail qui aide ceux qui vivent la même chose.
 11. **[Maison XI](/astrology/chiron-in-11th-house/) :** se sentir en marge des groupes ; plus tard, rassembler d’autres marginaux.
 12. **[Maison XII](/astrology/chiron-in-12th-house/) :** une douleur difficile à nommer ; une compassion discrète que les autres sentent sans savoir pourquoi.
 
