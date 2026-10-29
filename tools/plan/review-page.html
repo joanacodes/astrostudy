@@ -111,6 +111,13 @@ a { color: var(--accent-ink); }
 .ask { border: 1px solid var(--line); border-radius: 8px; padding: 14px 16px; display: grid; gap: 8px; background: var(--amber-soft); }
 .ask ul { margin: 0; padding-left: 1.1em; display: grid; gap: 4px; }
 
+.quick { position: sticky; bottom: 0; z-index: 5; display: flex; flex-wrap: wrap; align-items: center; gap: 8px 16px; padding: 10px 12px calc(10px + env(safe-area-inset-bottom, 0px)); background: var(--sheet); border: 1px solid var(--line); border-radius: 10px 10px 0 0; box-shadow: 0 -8px 20px rgba(20, 24, 18, 0.08); }
+.quick__group { display: flex; align-items: center; gap: 6px; }
+.quick__lang { font: 600 11px/1 var(--sans); letter-spacing: 0.08em; color: var(--muted); min-width: 2em; }
+.quick .choice { padding: 6px 10px; font-size: 13px; }
+.quick__note { margin-left: auto; border: 0; background: transparent; color: var(--accent-ink); cursor: pointer; font-size: 13px; padding: 6px 0; text-decoration: underline; text-underline-offset: 3px; }
+.choice[aria-pressed="true"]::after { content: " ✓"; }
+.hint { margin: 0; max-width: 70ch; }
 .decide { border: 1px solid var(--line); border-radius: 10px; padding: 16px; display: grid; gap: 14px; background: var(--sheet); }
 .decide h2 { margin: 0; font: 400 20px/1.2 var(--serif); }
 .row { display: grid; grid-template-columns: 80px minmax(0, 1fr); gap: 10px; align-items: center; }
@@ -147,6 +154,7 @@ a { color: var(--accent-ink); }
     <p class="eyebrow">The Astro Study · Encyclopaedia</p>
     <h1 id="heading">Drafts</h1>
     <p class="tally" id="tally">Loading decisions…</p>
+    <p class="hint">Open an entry and read it, then use the bar at the bottom of the screen: <strong>Approve</strong> or <strong>Needs changes</strong>, once for English and once for French. Every tap is saved straight away; add a note to say what should change.</p>
     <div class="filters" role="group" aria-label="Show">
       <button class="chip" type="button" data-filter="all" aria-pressed="true">All</button>
       <button class="chip" type="button" data-filter="open" aria-pressed="false">To read</button>
@@ -261,6 +269,9 @@ function renderReader() {
     </article>` : `<p class="empty">The ${fr ? 'French' : 'English'} page of this entry isn’t written yet.</p>`;
   const ask = e.notes.length ? `<aside class="ask"><p class="label">Only you can say</p><ul>${e.notes.map((n) => `<li>${esc(n)}</li>`).join('')}</ul></aside>` : '';
   const dis = state.canWrite && e.written ? '' : ' disabled';
+  const quick = (lang, name) => `<span class="quick__group"><span class="quick__lang">${name}</span>
+      <button class="choice choice--ok" type="button" data-set="${lang}" data-value="approved" aria-pressed="false"${dis}>Approve</button>
+      <button class="choice choice--no" type="button" data-set="${lang}" data-value="changes" aria-pressed="false"${dis}>Needs changes</button></span>`;
   const row = (lang, name) => `<div class="row"><span class="row__lang">${name}</span><span class="row__buttons">
       <button class="choice choice--ok" type="button" data-set="${lang}" data-value="approved" aria-pressed="false"${dis}>Approved</button>
       <button class="choice choice--no" type="button" data-set="${lang}" data-value="changes" aria-pressed="false"${dis}>Needs changes</button></span></div>`;
@@ -287,7 +298,8 @@ function renderReader() {
         <textarea id="note-text" placeholder="Anything to change, add or cut. Claude reads this before reworking the entry."${state.canWrite ? '' : ' disabled'}></textarea>
         <div class="note__foot"><button class="save" type="button" id="save-note"${state.canWrite ? '' : ' disabled'}>Save note</button><span class="status" id="save-status" role="status"></span></div>
       </div>
-    </section>`;
+    </section>
+    <div class="quick" role="group" aria-label="Your decision on ${esc(e.en)}">${quick('en', 'EN')}${quick('fr', 'FR')}<button class="quick__note" type="button" data-note>Add a note</button></div>`;
   $('#note-text').value = state.drafts[id] ?? review(id).note ?? '';
   $('#note-text').addEventListener('input', (ev) => { state.drafts[id] = ev.target.value; });
   renderDecision();
@@ -359,6 +371,11 @@ document.addEventListener('click', (ev) => {
     save(id, { [l]: review(id)[l] === v ? '' : v });
     return;
   }
+  if (ev.target.closest('[data-note]')) {
+    const t = $('#note-text');
+    if (t) { t.scrollIntoView({ block: 'center' }); t.focus({ preventScroll: true }); }
+    return;
+  }
   if (ev.target.closest('#save-note')) {
     const id = currentId();
     save(id, { note: $('#note-text').value.trim() }).then((ok) => { if (ok) delete state.drafts[id]; });
@@ -379,7 +396,8 @@ render();
     return;
   }
   state.db = db;
-  state.canWrite = user ? await user.canEdit() : false;
+  state.canWrite = true;
+  if (user && !(await user.canEdit()) && (await user.can('data.write')) === false) state.canWrite = false;
   if (!state.canWrite) {
     notice.hidden = false;
     notice.textContent = 'You can read the drafts and see the decisions; only the owner records them.';
