@@ -79,8 +79,9 @@ export const line = (points, width) => ({ stroke: `M${points.map(pt).join(' L')}
 
 export const cut = (shape) => ({ ...shape, cut: true });
 
-// the figure as an SVG, in `fg` on `bg` (bg null: transparent). Cut-outs are a mask over what came before.
-export function toSvg(shapes, { fg = '#fff', bg = '#000', size = 1000 } = {}) {
+// the figure as an SVG, in `fg` on `bg` (bg null: transparent). Cut-outs are a mask over what came before;
+// `ids` prefixes the masks' ids, so several figures can share one page.
+export function toSvg(shapes, { fg = '#fff', bg = '#000', size = 1000, ids = 'm' } = {}) {
   const flat = shapes.flat(Infinity).filter(Boolean);
   const body = [];
   let group = [];
@@ -92,8 +93,8 @@ export function toSvg(shapes, { fg = '#fff', bg = '#000', size = 1000 } = {}) {
   for (const s of flat) {
     if (s.cut) {
       masks += 1;
-      defs.push(`<mask id="m${masks}" maskUnits="userSpaceOnUse" x="0" y="0" width="1000" height="1000"><rect width="1000" height="1000" fill="#fff"/>${el(s, '#000')}</mask>`);
-      group = [`<g mask="url(#m${masks})">${group.join('')}</g>`];
+      defs.push(`<mask id="${ids}${masks}" maskUnits="userSpaceOnUse" x="0" y="0" width="1000" height="1000"><rect width="1000" height="1000" fill="#fff"/>${el(s, '#000')}</mask>`);
+      group = [`<g mask="url(#${ids}${masks})">${group.join('')}</g>`];
     } else {
       group.push(el(s, fg));
     }
