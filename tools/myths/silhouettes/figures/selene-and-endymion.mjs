@@ -28,8 +28,8 @@ function crescent(x1, y1, r1, x2, y2, r2) {
   const t2 = [px + h * uy, py - h * ux];
   const away = Math.atan2(-uy, -ux);
   const ang = (cx, cy, [x, y]) => Math.atan2(y - cy, x - cx);
-  const outer = arcPoints(x1, y1, r1, ang(x1, y1, t1), ang(x1, y1, t2), away, 36);
-  const inner = arcPoints(x2, y2, r2, ang(x2, y2, t2), ang(x2, y2, t1), away, 36);
+  const outer = arcPoints(x1, y1, r1, ang(x1, y1, t1), ang(x1, y1, t2), away, 96);
+  const inner = arcPoints(x2, y2, r2, ang(x2, y2, t2), ang(x2, y2, t1), away, 96);
   return poly([...outer, ...inner]);
 }
 
@@ -40,12 +40,12 @@ function turn(points, x, y, deg = 0, k = 1) {
 }
 
 // her head in profile facing right, about 84 high, the hair waved back from the brow
-const SELENE = [[-4, -42], [16, -38], [26, -28], [30, -18], [31, -8], [40, 6], [32, 10], [34, 15], [31, 19], [32, 23],
-  [28, 30], [16, 34], [10, 40], [-16, 32], [-30, 14], [-34, -8], [-28, -30], [-16, -40]];
+const SELENE = [[-4, -42], [16, -38], [26, -28], [30, -18], [31, -8], [40, 6], [32, 11], [34, 17], [29, 27], [16, 34],
+  [10, 40], [-16, 32], [-30, 14], [-34, -8], [-28, -30], [-16, -40]];
 
 // his head in profile facing left, young and beardless, the short hair curling at the back
-const ENDYMION = [[0, -42], [-22, -36], [-32, -22], [-36, -8], [-34, -2], [-44, 10], [-34, 14], [-36, 20], [-32, 26],
-  [-30, 34], [-18, 40], [0, 38], [16, 34], [26, 26], [36, 22], [38, 8], [44, -2], [40, -16], [42, -28], [30, -36],
+const ENDYMION = [[0, -42], [-22, -36], [-32, -22], [-36, -8], [-34, -2], [-44, 10], [-34, 15], [-35, 22], [-29, 34],
+  [-18, 40], [0, 38], [16, 34], [26, 26], [36, 22], [38, 8], [44, -2], [40, -16], [42, -28], [30, -36],
   [24, -46], [12, -44]];
 
 export function draw() {
@@ -60,8 +60,8 @@ export function draw() {
     // the crescent moon rising behind her shoulders
     crescent(274, 361, 116, 274, 311, 105),
     // the goddess leaning down towards him: head, neck, the raised arm holding the veil, the other reaching out
-    blob(turn(SELENE, 292, 276, 18, 1.1)),
-    circle(257, 258, 15),
+    blob(turn(SELENE, 292, 278, 18)),
+    circle(261, 262, 13),
     limb(281, 311, 12, 272, 347, 17),
     chain([[241, 358, 17], [196, 282, 12], [160, 211, 9]]),
     circle(154, 197, 11),
@@ -78,7 +78,7 @@ export function draw() {
     chain([[210, 663, 16], [151, 710, 10]]),
     limb(151, 710, 9, 129, 748, 7),
     // Endymion asleep on the rock at her feet, his head thrown back under his arched arm
-    blob(turn(ENDYMION, 458, 774, 40, 1)),
+    blob(turn(ENDYMION, 458, 774, 40)),
     limb(488, 798, 22, 470, 786, 15),
     chain([[496, 806, 16], [522, 702, 12], [444, 690, 9]]),
     limb(444, 690, 9, 422, 708, 6),
