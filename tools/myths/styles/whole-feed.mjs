@@ -29,7 +29,7 @@ for (const name of FEED) {
 // and over the words the site describes it with
 const subjects = [];
 for (const f of await FIGURE_SETS.myths.load()) subjects.push({ set: 'myths', slug: f.slug, kicker: f.astrology, title: f.myth });
-for (const f of await FIGURE_SETS.symbols.load()) subjects.push({ set: 'symbols', slug: f.slug, kicker: f.family === 'signs' ? 'Sign' : 'Celestial', title: f.name, about: f.about });
+for (const f of await FIGURE_SETS.symbols.load()) subjects.push({ set: 'symbols', slug: f.slug, kicker: { signs: 'Sign', aspects: 'Aspect' }[f.family] ?? 'Celestial', title: f.name, about: f.about });
 const count = (set) => subjects.filter((s) => s.set === set).length;
 
 const sources = subjects.flatMap((s) => designs.map((d) => `${media}${FIGURE_SETS[s.set].out}${d.name}/${s.slug}--white-on-black.png`));

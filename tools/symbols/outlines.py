@@ -1,8 +1,8 @@
-"""Draws the symbols of the twelve signs and of the twelve celestial bodies for the picture kit in tools/myths/styles/,
-from the site's own symbol font (static/fonts/noto-sans-symbols-astro.woff2, a cut of Noto Sans Symbols under the OFL),
-so the pictures show exactly the symbols the site's headings show. Writes tools/symbols/symbols.json: for each symbol,
-in the order of a chart, its name, glyph, description and family from its encyclopaedia entry (content/en/astrology/<slug>.md)
-and its outline on the 1000 x 1000 canvas the figures are drawn on.
+"""Draws the symbols of the twelve signs, the twelve celestial bodies and the five aspects for the picture kit in
+tools/myths/styles/, from the site's own symbol font (static/fonts/noto-sans-symbols-astro.woff2, a cut of Noto Sans
+Symbols under the OFL), so the pictures show exactly the symbols the site's headings show. Writes
+tools/symbols/symbols.json: for each symbol, in the order of a chart, its name, glyph, description and family from its
+encyclopaedia entry (content/en/astrology/<slug>.md) and its outline on the 1000 x 1000 canvas the figures are drawn on.
 
 Every symbol is fitted to the same size and brought to the same stroke weight. The font's regular weight is too light
 for designs that fill the strokes with dots, stones or stars, so each outline is drawn heavier by a stroke of its own
@@ -25,6 +25,7 @@ CELESTIALS = ['sun', 'moon', 'mercury', 'venus', 'mars', 'jupiter', 'saturn', 'u
               'black-moon-lilith']
 SIGNS = ['aries', 'taurus', 'gemini', 'cancer', 'leo', 'virgo', 'libra', 'scorpio', 'sagittarius', 'capricorn',
          'aquarius', 'pisces']
+ASPECTS = ['conjunction', 'sextile', 'square', 'trine', 'opposition']
 SIZE = 700    # the longer side of every symbol on the canvas, about the height of a standing myth figure
 WEIGHT = 78   # the stroke every symbol is brought to: broad enough for a mosaic's stones or a paper cut's stars
 STEP = 3      # curves are drawn as straight runs this long (in font units), too short to see
@@ -74,6 +75,34 @@ def circle(cx, cy, r, clockwise):
     return [(cx + r * math.cos(turn * 2 * math.pi * i / n), cy + r * math.sin(turn * 2 * math.pi * i / n)) for i in range(n)]
 
 
+def polygon(n, r, first, clockwise):
+    """A regular n-gon round the origin, r to each corner, the first corner at `first` degrees (y upwards)."""
+    turn = -1 if clockwise else 1
+    return [(r * math.cos(math.radians(first + turn * 360 * i / n)), r * math.sin(math.radians(first + turn * 360 * i / n)))
+            for i in range(n)]
+
+
+def bar(length, angle):
+    """A straight stroke WEIGHT wide with square ends, through the origin at `angle` degrees."""
+    c, s = math.cos(math.radians(angle)), math.sin(math.radians(angle))
+    corners = [(-length / 2, -WEIGHT / 2), (-length / 2, WEIGHT / 2), (length / 2, WEIGHT / 2), (length / 2, -WEIGHT / 2)]
+    return [(x * c - y * s, x * s + y * c) for x, y in corners]
+
+
+# The symbols the font lacks (the site shows them in the reader's own fonts), drawn here at the weight of the rest and at
+# the canvas's scale. A closed shape looks larger than an open symbol of the same width, so these are drawn smaller than
+# SIZE: the ring of the Sun about as wide as the ring and horns of Taurus, the square no wider than the Sun.
+TRINE = 358   # from the middle of the triangle to a corner: about as wide as the Sun, a little lower
+DRAWN = {
+    '☉': lambda: [circle(0, 0, 300, True), circle(0, 0, 300 - WEIGHT, False), circle(0, 0, WEIGHT * 0.82, True)],
+    '□': lambda: [polygon(4, 270 * math.sqrt(2), 45, True), polygon(4, (270 - WEIGHT) * math.sqrt(2), 45, False)],
+    # the inner triangle is inset by the weight on every side, which takes twice the weight off its corners' distance
+    '△': lambda: [polygon(3, TRINE, 90, True), polygon(3, TRINE - 2 * WEIGHT, 90, False)],
+    # upright and at sixty degrees either side, square-ended like the font's strokes
+    '⚹': lambda: [bar(640, 90), bar(640, 30), bar(640, 150)],
+}
+
+
 def entry(slug):
     """The symbol's name, glyph, description and family (signs, planets, …), as its encyclopaedia entry gives them."""
     text = (ROOT / 'content/en/astrology' / f'{slug}.md').read_text(encoding='utf-8')
@@ -108,19 +137,19 @@ font = TTFont(ROOT / 'static/fonts/noto-sans-symbols-astro.woff2')
 glyphs = font.getGlyphSet()
 cmap = font.getBestCmap()
 symbols = []
-for slug in CELESTIALS + SIGNS:
+for slug in CELESTIALS + SIGNS + ASPECTS:
     s = {'slug': slug, **entry(slug)}
     code = ord(s['glyph'][0])
     if code in cmap:
         pen = Flatten(glyphs)
         glyphs[cmap[code]].draw(pen)
         s['d'], s['solid'], s['grow'] = outline(pen.contours, SIZE)
-    elif s['glyph'] == '☉':
-        # the font has no Sun (the site shows it in the reader's own symbol font), so it is drawn here: a ring of the
-        # same weight round a point. A closed ring looks larger than the open symbols of the same width, so it is
-        # drawn smaller, about as wide as the ring and horns of Taurus.
-        r = 300
-        s['d'], s['solid'], _ = outline([circle(0, 0, r, True), circle(0, 0, r - WEIGHT, False), circle(0, 0, WEIGHT * 0.82, True)], 2 * r)
+    elif s['glyph'] in DRAWN:
+        contours = DRAWN[s['glyph']]()
+        # already at the canvas's scale and at WEIGHT: centred, not scaled, not grown
+        span = max(max(x for c in contours for x, _ in c) - min(x for c in contours for x, _ in c),
+                   max(y for c in contours for _, y in c) - min(y for c in contours for _, y in c))
+        s['d'], s['solid'], _ = outline(contours, span)
         s['grow'] = 0
     else:
         raise SystemExit(f'{slug}: {s["glyph"]} is not in the symbol font')

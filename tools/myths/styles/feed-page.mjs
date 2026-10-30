@@ -44,14 +44,15 @@ const SETS = {
   },
   symbols: {
     noun: 'symbol',
-    every: 'The symbols of the 12 signs and the 12 celestials (the Sun, the Moon, the planets, Chiron and Black Moon Lilith), as the site draws them,',
-    named: 'named after the sign or the body',
+    every: 'The symbols of the 12 signs, the 12 celestials (the Sun, the Moon, the planets, Chiron and Black Moon Lilith) and the 5 aspects, as the site draws them,',
+    named: 'named after the sign, the body or the aspect',
     example: 'aries',
-    tile: (f) => ({ title: f.name, about: f.about, alt: `the symbol of ${f.name}`, group: f.family === 'signs' ? 'Signs' : 'Celestials' }),
-    // twelve in a group: six, four, three or two across, so each group fills its rows and the next starts on a new one
+    tile: (f) => ({ title: f.name, about: f.about, alt: `the symbol of ${f.name}`, group: { signs: 'Signs', aspects: 'Aspects' }[f.family] ?? 'Celestials' }),
+    // the celestials and the signs are twelve each: six, four, three or two across, so each fills its rows and the next
+    // group starts on a new one; the five aspects come last
     across: 6,
     columns: '.sheet { grid-template-columns: repeat(6, minmax(0, 1fr)); }\n@media (max-width: 980px) { .sheet { grid-template-columns: repeat(4, minmax(0, 1fr)); } }\n@media (max-width: 760px) { .sheet { grid-template-columns: repeat(3, minmax(0, 1fr)); } }',
-    extra: ' They are the symbols of the site&rsquo;s own symbol font, Noto Sans Symbols, drawn heavier; the Sun&rsquo;s is not in that font, so it is drawn to match.',
+    extra: ' They are the symbols of the site&rsquo;s own symbol font, Noto Sans Symbols, drawn heavier; the symbols of the Sun, the sextile, the square and the trine are not in that font, so they are drawn to match.',
   },
 };
 const set = SETS[setName];
