@@ -21,7 +21,7 @@ const out = fileURLToPath(new URL('../../../media/myths/silhouettes/', import.me
 const args = process.argv.slice(2);
 const sheetAt = args.indexOf('--sheet');
 const sheet = sheetAt >= 0 ? args[sheetAt + 1] : null;
-const wanted = args.filter((a, i) => !a.startsWith('--') && i !== sheetAt + 1);
+const wanted = args.filter((a, i) => !a.startsWith('--') && (sheetAt < 0 || i !== sheetAt + 1));
 
 const files = (await readdir(`${here}figures`)).filter((f) => f.endsWith('.mjs')).sort();
 const figures = [];
