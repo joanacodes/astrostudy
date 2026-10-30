@@ -79,11 +79,11 @@ export const line = (points, width) => ({ stroke: `M${points.map(pt).join(' L')}
 
 export const cut = (shape) => ({ ...shape, cut: true });
 
-// the figure as an SVG, in `fg` on `bg` (bg null: transparent). Cut-outs are a mask over what came before;
-// `ids` prefixes the masks' ids, so several figures can share one page.
-export function toSvg(shapes, { fg = '#fff', bg = '#000', size = 1000, ids = 'm' } = {}) {
+// the figure as SVG markup to set into a page of one's own: `body` draws it in `fg`, `defs` holds the masks its
+// cut-outs need. Cut-outs are a mask over what came before; `ids` prefixes the masks' ids, so several figures can
+// share one page.
+export function toParts(shapes, { fg = '#fff', ids = 'm' } = {}) {
   const flat = shapes.flat(Infinity).filter(Boolean);
-  const body = [];
   let group = [];
   let masks = 0;
   const defs = [];
@@ -99,9 +99,14 @@ export function toSvg(shapes, { fg = '#fff', bg = '#000', size = 1000, ids = 'm'
       group.push(el(s, fg));
     }
   }
-  body.push(...group);
+  return { defs: defs.join(''), body: group.join('') };
+}
+
+// the figure as an SVG, in `fg` on `bg` (bg null: transparent)
+export function toSvg(shapes, { fg = '#fff', bg = '#000', size = 1000, ids = 'm' } = {}) {
+  const { defs, body } = toParts(shapes, { fg, ids });
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="${size}" height="${size}">`
-    + (defs.length ? `<defs>${defs.join('')}</defs>` : '')
+    + (defs ? `<defs>${defs}</defs>` : '')
     + (bg ? `<rect width="1000" height="1000" fill="${bg}"/>` : '')
-    + body.join('') + '</svg>';
+    + body + '</svg>';
 }
