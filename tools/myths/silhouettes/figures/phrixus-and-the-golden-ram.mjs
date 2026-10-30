@@ -1,33 +1,21 @@
-// Phrixus on the golden ram, after the Roman type of the ram flying over the Hellespont (the wall painting of
-// Phrixus and Helle from Pompeii, Naples): the ram leaps over the sea with the boy astride, gripping a horn.
+// After the Roman wall paintings of Phrixus and Helle on the golden ram, from Pompeii (Naples, Museo Archeologico Nazionale).
 import * as kit from '../lib.mjs';
 
 export const slug = 'phrixus-and-the-golden-ram';
-export const myth = 'Phrixus and the golden ram';
+export const myth = 'Phrixus rides the golden ram';
 export const astrology = 'Aries';
 
 // the figure is laid out on the canvas as below, then moved (and scaled about the centre) by FIT to sit in the middle
 const FIT = { dx: 0, dy: -8, s: 1.06 };
-
 const fit = ([x, y]) => [500 + (x - 500) * FIT.s + FIT.dx, 500 + (y - 500) * FIT.s + FIT.dy];
 const blob = (pts, t) => kit.blob(pts.map(fit), t);
-const poly = (pts) => kit.poly(pts.map(fit));
-const line = (pts, w) => kit.line(pts.map(fit), w * FIT.s);
 const circle = (x, y, r) => kit.circle(...fit([x, y]), r * FIT.s);
-const ellipse = (x, y, rx, ry, deg) => kit.ellipse(...fit([x, y]), rx * FIT.s, ry * FIT.s, deg);
 const limb = (x1, y1, r1, x2, y2, r2) => kit.limb(...fit([x1, y1]), r1 * FIT.s, ...fit([x2, y2]), r2 * FIT.s);
 const chain = (js) => kit.chain(js.map(([x, y, r]) => [...fit([x, y]), r * FIT.s]));
 const { cut } = kit;
 
 const rad = (d) => (d * Math.PI) / 180;
 const ang = (p, q) => (Math.atan2(q[1] - p[1], q[0] - p[0]) * 180) / Math.PI;
-
-// points (or [x, y, r] joints) turned about a pivot; positive degrees lift the front (right) up
-function turn(pts, cx, cy, deg) {
-  const c = Math.cos(rad(deg));
-  const s = Math.sin(rad(deg));
-  return pts.map(([x, y, ...rest]) => [cx + (x - cx) * c + (y - cy) * s, cy - (x - cx) * s + (y - cy) * c, ...rest]);
-}
 
 // an outline drawn in the frame of a bone from joint a to joint b: v runs 0 → 1 down the bone, u across it
 // (positive = the front of the limb), both in units of the bone's length
@@ -46,8 +34,7 @@ function hoof(x, y, pasternDeg, s) {
   return blob([[-0.55, -0.05], [0.35, -0.08], [0.85, 0.6], [0.95, 0.95], [-0.6, 1.0], [-0.75, 0.55]].map(at), 0.6);
 }
 
-// below the knee or the hock: the short cannon, the fetlock with its dewclaw, the pastern and the hoof (B: height
-// at the withers)
+// below the knee or the hock: the short cannon, the fetlock, the pastern and the hoof (B: height at the withers)
 function lower(top, f, c, B) {
   const [fx, fy] = bone(top, f, [[-0.08, 1.0]])[0];
   return [
@@ -141,11 +128,11 @@ function fleece(pts, n, puff) {
 
 // a ram's horn: a spiral round (cx, cy) from the root at angle a0 (degrees, on the screen) winding back over the
 // ear, down and forward round the cheek, the radius shrinking from r0 to r1 and the horn tapering from w0 to w1
-function horn(cx, cy, a0, turn, r0, r1, w0, w1) {
+function horn(cx, cy, a0, sweep, r0, r1, w0, w1) {
   const pts = [];
   for (let i = 0; i <= 40; i += 1) {
     const t = i / 40;
-    const a = rad(a0 - turn * t);
+    const a = rad(a0 - sweep * t);
     const r = r0 + (r1 - r0) * t;
     pts.push([cx + r * Math.cos(a), cy + r * Math.sin(a), w0 + (w1 - w0) * t]);
   }
@@ -153,16 +140,19 @@ function horn(cx, cy, a0, turn, r0, r1, w0, w1) {
 }
 
 export function draw() {
+  // the ram's height at the withers, which sets the thickness of his legs
   const R = 300;
   // the ram's body, a woolly barrel, the chest round in front and the rump round behind
   const body = [[676, 445], [665, 405], [630, 378], [570, 362], [500, 358], [430, 362], [368, 374], [320, 394], [288, 426],
     [276, 466], [282, 506], [306, 540], [350, 562], [420, 574], [500, 576], [575, 564], [632, 540], [666, 500]];
   // the horn's coil, round the ear: the root on the poll, back, down and forward under the ear, the tip at the cheek
   const coil = horn(672, 372, 300, 345, 58, 14, 23, 6);
+  // the boy's head height
   const h = 50;
   // Phrixus's near leg, bent round the ram's flank: hip, knee, ankle, toe
   const thigh = [[530, 374, 15], [590, 428, 10.5]];
   const shin = [[590, 428, 10.5], [566, 500, 7], [586, 512, 5.5]];
+  // white on white, so a limb lying over the fleece is parted from it by a fine groove cut round it first
   const grooved = (js) => [...chain(js.map(([x, y, r]) => [x, y, r + 4])).map(cut), chain(js)];
 
   return [
@@ -184,11 +174,10 @@ export function draw() {
     // near legs: the foreleg reaching forward, the hind leg stretched back
     foreleg([650, 520], 0.08 * R, [726, 552], [790, 574], [808, 582], R),
     hindleg([330, 528], 0.13 * R, [246, 574], [182, 600], [162, 606], R),
-
     // the great horn curling round the ear, parted from the head by a fine groove
     ...chain(coil.map(([x, y, w]) => [x, y, w + 4])).map(cut),
     chain(coil),
-    // Phrixus astride, leaning along the ram's neck, his leg round its flank, both hands on the horn
+    // Phrixus astride, leaning along the ram's neck, his leg round its flank, his hands on the horn
     ...grooved(thigh),
     ...grooved(shin),
     blob([[505, 370], [512, 340], [532, 310], [556, 290], [580, 280], [604, 292], [602, 314], [586, 336], [566, 358],

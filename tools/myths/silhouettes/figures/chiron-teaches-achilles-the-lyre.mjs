@@ -2,7 +2,7 @@
 import * as kit from '../lib.mjs';
 
 export const slug = 'chiron-teaches-achilles-the-lyre';
-export const myth = 'Chiron teaches Achilles the lyre';
+export const myth = 'The centaur Chiron teaches Achilles the lyre';
 export const astrology = 'Chiron';
 
 // the figure is laid out on the canvas as below, then moved (and scaled about the centre) by FIT to sit in the middle
@@ -163,6 +163,7 @@ export function draw() {
     // the tail falling from the croup in a long curve, swinging out at the end
     strand([P(-0.74, 0.94), [186, 585], [170, 640], [160, 700], [156, 760], [142, 805]], 17, 5),
     strand([P(-0.77, 0.9), [192, 605], [182, 660], [174, 720], [166, 778]], 16, 6),
+    strand([P(-0.76, 0.86), [204, 612], [200, 650]], 18, 14),
     // far legs: the foreleg set back, the hind leg taking the weight under the belly
     foreleg(P(0.04, 0.58), P(0.0, 0.29), P(-0.02, 0.115), P(0.02, 0.055), W),
     hindleg(P(-0.58, 0.6), 0.14 * W, P(-0.63, 0.37), P(-0.6, 0.115), P(-0.56, 0.055), W),
