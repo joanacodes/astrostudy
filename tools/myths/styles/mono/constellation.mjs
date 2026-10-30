@@ -72,10 +72,11 @@ export async function paint({ svg, S, seed }) {
     g.arc(rnd() * S, rnd() * S, 0.6 + rnd() ** 3 * 1.6, 0, Math.PI * 2);
     g.fill();
   }
-  g.fillStyle = 'rgba(255,255,255,.38)';
+  // the dotted outline: faint, but enough to tell the figure by when its stars are few
+  g.fillStyle = 'rgba(255,255,255,.62)';
   for (let i = 0; i < dots.x.length; i += 1) {
     g.beginPath();
-    g.arc(dots.x[i], dots.y[i], 1.4, 0, Math.PI * 2);
+    g.arc(dots.x[i], dots.y[i], 2, 0, Math.PI * 2);
     g.fill();
   }
   g.strokeStyle = 'rgba(255,255,255,.82)';

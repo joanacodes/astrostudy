@@ -93,7 +93,10 @@ function render() {
   pills(document.getElementById('inks'), INKS, 'ink');
   const mixed = state.design === 'mixed';
   const cols = mixed ? 3 : 5;
-  const tiles = FIGS.map((f, i) => {
+  // the mixed feed runs on past the last figure to fill its last row, starting the figures over in other designs
+  const count = mixed ? Math.ceil(FIGS.length / cols) * cols : FIGS.length;
+  const tiles = Array.from({ length: count }, (_, i) => {
+    const f = FIGS[i % FIGS.length];
     // neighbours along a row and down a column of three always differ: steps of 3 and 9 are never a multiple of 8
     const design = mixed ? DESIGNS[(i * 3) % DESIGNS.length] : DESIGNS.find((d) => d.name === state.design);
     const ink = state.ink !== 'alternate' ? state.ink : ((Math.floor(i / cols) + (i % cols)) % 2 ? 'black-on-white' : 'white-on-black');
