@@ -6,21 +6,17 @@
 import { readdir, writeFile } from 'node:fs/promises';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { toSvg } from './lib.mjs';
+import { chartRank } from './order.mjs';
 
 const out = process.argv[2];
 if (!out) throw new Error('usage: node tools/myths/silhouettes/gallery.mjs <out.html>');
 const here = fileURLToPath(new URL('.', import.meta.url));
-// the order of a chart: the lights and planets, the points, then the signs from Aries to Pisces
-const order = ['Sun', 'Moon', 'Mercury', 'Venus', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto', 'Chiron',
-  'Black Moon Lilith', 'The constellations', 'Aries', 'Taurus', 'Gemini', 'Cancer', 'Leo', 'Virgo', 'Libra', 'Scorpio',
-  'Sagittarius', 'Capricorn', 'Aquarius', 'Pisces'];
 const figs = [];
 for (const file of (await readdir(`${here}figures`)).filter((f) => f.endsWith('.mjs'))) {
   const m = await import(pathToFileURL(`${here}figures/${file}`).href);
   figs.push({ slug: m.slug, myth: m.myth, astrology: m.astrology, svg: toSvg(m.draw(), { fg: 'currentColor', bg: null, size: 1000, ids: `${m.slug}-m` }) });
 }
-const rank = (a) => (order.indexOf(a) < 0 ? 99 : order.indexOf(a));
-figs.sort((a, b) => rank(a.astrology) - rank(b.astrology));
+figs.sort((a, b) => chartRank(a.astrology) - chartRank(b.astrology));
 const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
 
 const html = `<title>Myth silhouettes</title>

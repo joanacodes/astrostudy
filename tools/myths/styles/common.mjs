@@ -10,6 +10,16 @@ export function placed(fig, { fill = '#fff', ids = 'f', s = 1, dx = 0, dy = 0 } 
   return { defs, body: `<g transform="translate(${500 + dx} ${500 + dy}) scale(${s}) translate(-500 -500)">${body}</g>` };
 }
 
+// the middle of the figure's bounding box as placed (from the points of its outlines, near enough for placing things
+// behind it)
+export function middle(fig, { s = 1, dx = 0, dy = 0 } = {}) {
+  const pts = toParts(fig.draw()).body.match(/[ML]-?[\d.]+ -?[\d.]+/g).map((p) => p.slice(1).split(' ').map(Number));
+  const xs = pts.map((p) => p[0]);
+  const ys = pts.map((p) => p[1]);
+  const mid = (lo, hi, d) => 500 + ((lo + hi) / 2 - 500) * s + d;
+  return [mid(Math.min(...xs), Math.max(...xs), dx), mid(Math.min(...ys), Math.max(...ys), dy)];
+}
+
 export const svgDoc = (defs, body, size = 1000) => `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="${size}" height="${size}"><defs>${defs}</defs>${body}</svg>`;
 
 // a mask that lets through only the figure (placed as given); `away` shifts a second copy that is taken out again,

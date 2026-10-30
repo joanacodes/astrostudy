@@ -1,7 +1,7 @@
 // A woodcut, or a linocut: what is left standing on the block prints black, every stroke of the gouge prints as the
 // white of the paper. The figure is cut clear with a ring of black left round it, rays are cut into the sky behind,
 // the ground is cut in strokes, and lines across the figure's shadow side are left standing for its shade.
-import { figureMask, noise, placed, random, svgDoc } from './common.mjs';
+import { figureMask, middle, noise, placed, random, svgDoc } from './common.mjs';
 
 export const name = 'woodcut';
 export const title = 'Woodcut';
@@ -16,14 +16,17 @@ export function svg(fig, { ink = INK, paper = PAPER, margin = 70, grain = true }
   const at = { s: 0.78, dy: 14 };
   const figure = placed(fig, { ...at, fill: paper, ids: 'wc1' });
   const halo = placed(fig, { ...at, fill: '#000', ids: 'wc2' });
-  // rays cut from behind the figure out to the edge of the block, each a thin wedge widening as it goes
-  const c = [560, 420];
-  let rays = '';
+  // rays cut from behind the middle of the figure out to the edge of the block, each a thin wedge widening as it goes;
+  // they start a little way out from a small cut sun, which shows wherever the figure does not cover it (cut all the
+  // way in, the wedges would run together into a grey blur where they meet)
+  const c = middle(fig, at);
+  let rays = `M${c[0] - 30} ${c[1]} a30 30 0 1 0 60 0 a30 30 0 1 0 -60 0 Z `;
   for (let i = 0; i < 70; i += 1) {
     const a = (i / 70) * 2 * Math.PI + rnd() * 0.02;
     const w = (0.55 + rnd() * 0.5) * (Math.PI / 180);
-    const r = 760;
-    rays += `M${c[0]} ${c[1]} L${(c[0] + r * Math.cos(a - w)).toFixed(1)} ${(c[1] + r * Math.sin(a - w)).toFixed(1)} L${(c[0] + r * Math.cos(a + w)).toFixed(1)} ${(c[1] + r * Math.sin(a + w)).toFixed(1)} Z `;
+    const [r0, r] = [52, 760];
+    const at2 = (q, b) => `${(c[0] + q * Math.cos(b)).toFixed(1)} ${(c[1] + q * Math.sin(b)).toFixed(1)}`;
+    rays += `M${at2(r0, a - w * 0.07)} L${at2(r, a - w)} L${at2(r, a + w)} L${at2(r0, a + w * 0.07)} Z `;
   }
   // the ground, cut in long strokes, each a thin lens
   let ground = '';

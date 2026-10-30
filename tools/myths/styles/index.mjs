@@ -33,3 +33,6 @@ export const SETS = {
 };
 
 export const stylesOf = (set) => set.groups.flatMap((g) => g.styles);
+
+// the black-and-white designs chosen for the social feed, drawn for every figure by feed.mjs
+export const FEED = ['line', 'brush', 'stipple', 'halftone', 'mosaic', 'constellation', 'woodcut', 'paper-cut'];
