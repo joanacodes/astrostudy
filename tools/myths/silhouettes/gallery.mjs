@@ -47,6 +47,7 @@ h1 { margin: 0; font: 400 clamp(28px, 4vw, 40px)/1.1 var(--serif); }
 .switch button { border: 0; background: transparent; color: var(--text); border-radius: 999px; padding: 6px 14px; cursor: pointer; font: inherit; font-size: 13px; }
 .switch button[aria-pressed="true"] { background: var(--text); color: var(--page); }
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 20px; }
+@media (max-width: 520px) { .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px 12px; } .myth { font-size: 15px; } }
 figure { margin: 0; display: grid; gap: 8px; align-content: start; }
 .plate { aspect-ratio: 1; max-width: 100%; background: var(--plate); color: var(--ink); border-radius: 4px; overflow: hidden; }
 .plate svg { width: 100%; height: 100%; display: block; }
