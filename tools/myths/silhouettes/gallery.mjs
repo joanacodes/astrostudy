@@ -23,7 +23,8 @@ const rank = (a) => (order.indexOf(a) < 0 ? 99 : order.indexOf(a));
 figs.sort((a, b) => rank(a.astrology) - rank(b.astrology));
 const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
 
-const html = `<title>Myth silhouettes</title>
+const html = `<meta charset="utf-8">
+<title>Myth silhouettes</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -46,7 +47,7 @@ h1 { margin: 0; font: 400 clamp(28px, 4vw, 40px)/1.1 var(--serif); }
 .switch button { border: 0; background: transparent; color: var(--text); border-radius: 999px; padding: 6px 14px; cursor: pointer; font: inherit; font-size: 13px; }
 .switch button[aria-pressed="true"] { background: var(--text); color: var(--page); }
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 20px; }
-figure { margin: 0; display: grid; gap: 8px; }
+figure { margin: 0; display: grid; gap: 8px; align-content: start; }
 .plate { aspect-ratio: 1; max-width: 100%; background: var(--plate); color: var(--ink); border-radius: 4px; overflow: hidden; }
 .plate svg { width: 100%; height: 100%; display: block; }
 figcaption { display: grid; gap: 2px; }
@@ -57,7 +58,7 @@ figcaption { display: grid; gap: 2px; }
 </style>
 <div class="wrap">
   <header>
-    <p class="eyebrow">The Astro Study · Myths behind the chart</p>
+    <p class="eyebrow">The Astro Study &middot; Myths behind the chart</p>
     <h1>Myth silhouettes</h1>
     <p class="lede">${figs.length} figures from the myths behind the planets and the signs, drawn after the ancient works that show them. Each exists as an SVG to recolour and as 2000 px PNGs, white on black and black on white, in media/myths/silhouettes/ under the name shown.</p>
     <div class="switch" role="group" aria-label="Colours">
