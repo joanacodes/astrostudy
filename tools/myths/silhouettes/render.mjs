@@ -48,7 +48,7 @@ for (const fig of figures) {
 if (sheet) {
   const cells = figures.map((fig) => `<figure style="margin:0;text-align:center">${toSvg(fig.draw(), { size: 300, ids: `${fig.slug}-m` })}<figcaption style="font:13px sans-serif;color:#bbb;padding:6px 0 14px">${fig.slug}</figcaption></figure>`);
   const cols = Math.min(5, cells.length);
-  await page.setViewportSize({ width: cols * 310, height: 1000 });
+  await page.setViewportSize({ width: cols * 310 + 20, height: 1000 });
   await page.setContent(`<html><body style="margin:0;background:#111;display:grid;grid-template-columns:repeat(${cols},300px);gap:10px;padding:10px">${cells.join('')}</body></html>`);
   await page.screenshot({ path: sheet, fullPage: true });
   console.log(`sheet: ${sheet}`);
