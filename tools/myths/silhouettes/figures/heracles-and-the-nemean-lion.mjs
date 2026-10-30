@@ -1,5 +1,5 @@
 // Heracles resting on the dead Nemean lion, after the first metope of the Temple of Zeus at Olympia (about 460 BC); the club is not on the metope but names him in silhouette.
-import { blob, chain, circle, ellipse, limb } from '../lib.mjs';
+import { blob, chain, circle, cut, ellipse, limb, line } from '../lib.mjs';
 
 export const slug = 'heracles-and-the-nemean-lion';
 export const myth = 'Heracles and the Nemean lion';
@@ -48,6 +48,9 @@ const paw = (x, y, s) => [
 function lion(ox, oy, k) {
   const P = ([x, y]) => [ox + k * x, oy + k * y];
   const C = (list) => chain(list.map(([x, y, r]) => [...P([x, y]), r * k]));
+  // the mane's crest over the neck and shoulders, coming down over the ear to the brow, and its ruff under the throat
+  const crest = [[250, -168], [276, -226], [330, -274], [396, -296], [452, -292], [492, -268], [520, -236], [536, -200], [534, -166]];
+  const ruff = [[488, -80], [482, -56], [450, -36], [400, -24], [360, -20]];
   return [
     // the long tail, curling up behind it to its tuft
     C(Array.from({ length: 15 }, (_, i) => {
@@ -70,15 +73,15 @@ function lion(ox, oy, k) {
     C([[330, -40, 34], [490, -18, 24], [552, -16, 18]]),
     paw(...P([582, -14]), k),
     // the mane, its locks swept back in a hump over the shoulders and hanging in a ruff from the throat
-    blob([...tufts(dense([[250, -168], [276, -226], [330, -274], [396, -296], [452, -292], [492, -272], [510, -246]], 20), 18, -10),
-      [496, -214], [484, -170], [494, -116], ...tufts(dense([[494, -116], [500, -84], [474, -52], [420, -30], [360, -20]], 22), 13, 6),
-      [300, -60], [262, -120]].map(P), 0.75),
-    // the head sunk on the paws: a short blunt muzzle, the jaw hanging open on a fang, one ear
-    blob([[482, -214], [512, -224], [548, -214], [576, -196], [596, -176], [608, -158], [614, -142], [608, -128], [590, -118],
-      [560, -112], [528, -108], [500, -120], [482, -160]].map(P)),
-    blob([[498, -118], [530, -106], [558, -96], [584, -86], [594, -76], [578, -66], [548, -70], [516, -84], [494, -100]].map(P)),
-    blob([[588, -122], [598, -122], [594, -104]].map(P), 0.3),
-    limb(...P([528, -214]), 13 * k, ...P([540, -242]), 9 * k),
+    blob([...tufts(dense(crest, 14), 9, -7), [510, -140], [490, -100], ...tufts(dense(ruff, 14), 7, 5), [300, -60], [262, -120]]
+      .map(P), 0.8),
+    // the head sunk on the paws, eyes shut and mouth closed: a flat brow, a straight nose, a broad square muzzle
+    blob([[485, -132], [515, -148], [540, -152], [562, -148], [576, -138], [596, -128], [612, -120], [622, -112], [623, -104],
+      [618, -98], [622, -90], [618, -80], [606, -74], [594, -71], [595, -63], [575, -55], [545, -51], [515, -54], [488, -72]].map(P)),
+    cut(line([[608, -75], [590, -71], [572, -67]].map(P), 4 * k)),
+    cut(line([[564, -120], [573, -123], [582, -121]].map(P), 4 * k)),
+    // a small round ear, half lost in the mane
+    circle(...P([512, -153]), 11 * k),
   ];
 }
 
@@ -102,8 +105,9 @@ export function draw() {
     chain([[232, 540, 46], [226, 640, 33], [222, 690, 26], [212, 740, 27], [196, 856, 15]]),
     circle(234, 680, 16),
     blob([[176, 882], [178, 862], [196, 850], [214, 860], [244, 872], [248, 884]]),
-    blob([[198, 556], [200, 524], [216, 494], [244, 462], [280, 428], [320, 394], [350, 372], [380, 354], [410, 380],
-      [418, 408], [408, 438], [380, 466], [348, 496], [318, 526], [290, 548], [250, 562]]),
+    // the torso bent forward from the hips: the buttock, the hollow of the back, the rounded shoulders; the chest, the belly
+    blob([[180, 550], [187, 521], [217, 497], [259, 466], [287, 423], [315, 380], [345, 356], [373, 347], [420, 390],
+      [406, 429], [371, 465], [331, 497], [296, 535], [262, 573], [233, 590]]),
     chain([[246, 545, 46], [420, 505, 30]]),
     chain([[420, 505, 30], [432, 562, 28], [452, 688, 16]]),
     blob([[438, 712], [458, 698], [482, 706], [512, 712], [516, 722], [440, 722]]),
@@ -118,7 +122,7 @@ export function draw() {
   // the club in his other hand, its heavy knotted end on the ground behind him
   const club = [
     chain([[206, 560, 9], [176, 660, 13], [144, 762, 18], [116, 852, 23]]),
-    ...[[188, 620, 7], [158, 708, 8], [128, 802, 9], [100, 840, 8]].map(([x, y, r]) => circle(x, y, r)),
+    ...[[197, 621, 7], [161, 668, 8], [169, 725, 9], [127, 766, 10], [143, 822, 10], [100, 840, 8]].map(([x, y, r]) => circle(x, y, r)),
   ];
   return placed([club, lion(407, 880, 0.84), hero], 0.958, 12, -48);
 }
