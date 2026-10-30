@@ -102,8 +102,12 @@ export function draw() {
     // the tail fin, forked: two broad lobes swept apart like a crescent
     blob([[202, 500], [214, 470], [236, 444], [264, 428], [292, 424], [272, 440], [250, 462], [228, 494]]),
     blob([[180, 494], [172, 462], [160, 432], [140, 408], [116, 392], [124, 418], [140, 450], [162, 500]]),
-    // a fin like a frill where the goat turns into the fish, raked back under the belly
-    blob([[566, 528], [540, 556], [512, 580], [482, 594], [500, 572], [478, 584], [452, 590], [480, 566], [506, 540], [530, 520]]),
+    // a fin like a frill where the goat turns into the fish, its rays raked back under the belly
+    blob([[590, 512], [580, 548], [566, 576], [552, 592], [546, 574], [532, 588], [514, 602], [512, 582], [496, 592],
+      [478, 600], [478, 572], [494, 548], [524, 530]]),
+
+
+
     // far foreleg, folded under the chest
     foreleg([672, 505], [744, 548], [714, 602], [700, 616], G),
     // the neck and body in one outline: the neck rising to the poll, the deep chest, the waist

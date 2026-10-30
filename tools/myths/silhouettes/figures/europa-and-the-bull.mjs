@@ -133,7 +133,7 @@ export function draw() {
   const H = (pts) => pts.map(([u, v]) => [qx + u * L * ax[0] + v * L * ax[1], qy + u * L * ax[1] - v * L * ax[0]]);
   // Europa, seated sideways just behind the bull's hump, her head turned to his horns
   const h = 58;
-  const [hx, hy] = [586, 318];
+  const [hx, hy] = [588, 326];
 
   return [
     // the tail lifted behind in an S, its tuft at the end
@@ -167,7 +167,8 @@ export function draw() {
     // Europa's torso, turned three-quarters to us, rising from the bull's back
     blob([[514, 516], [507, 482], [510, 450], [520, 420], [536, 396], [556, 382], [592, 378], [614, 390], [616, 414],
       [606, 442], [598, 470], [606, 500], [604, 522]]),
-    limb(578, 380, 12.5, 586, 350, 12),
+    limb(578, 382, 12.5, 586, 356, 12),
+
     womanHead(hx, hy, h, 4),
     // her near arm reaching forward to grasp the horn
     chain([[604, 392, 13], [676, 418, 10], [738, 446, 7.5]]),
