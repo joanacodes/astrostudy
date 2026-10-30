@@ -8,6 +8,7 @@
 //   poly([[x, y], …])              a hard-edged outline (a thunderbolt, a spearhead, a throne)
 //   line([[x, y], …], width)       a rod of even width (a spear, a sceptre, a string)
 //   cut(shape)                     the shape taken out of everything drawn before it (negative space)
+//   { d, grow }                    an outline drawn `grow` heavier all round (a symbol set bolder than its font)
 //
 // A figure module exports { slug, myth, astrology, draw }, where draw() returns a list of these.
 
@@ -89,7 +90,7 @@ export function toParts(shapes, { fg = '#fff', ids = 'm' } = {}) {
   const defs = [];
   const el = (s, colour) => (s.stroke
     ? `<path d="${s.stroke}" fill="none" stroke="${colour}" stroke-width="${s.width}" stroke-linecap="round" stroke-linejoin="round"/>`
-    : `<path d="${s.d}" fill="${colour}"/>`);
+    : `<path d="${s.d}" fill="${colour}"${s.grow ? ` stroke="${colour}" stroke-width="${s.grow}" stroke-linejoin="round"` : ''}/>`);
   for (const s of flat) {
     if (s.cut) {
       masks += 1;

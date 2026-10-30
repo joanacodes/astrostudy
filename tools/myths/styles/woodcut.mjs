@@ -13,14 +13,17 @@ const PAPER = '#f0e8d8';
 // ink, paper and the block's margin can be given, for the black-and-white set's full-bleed block
 export function svg(fig, { ink = INK, paper = PAPER, margin = 70, grain = true } = {}) {
   const rnd = random(77);
-  const at = { s: 0.78, dy: 14 };
+  // a figure that stands on nothing (a symbol) is set in the middle of the block with no ground under it, no sun is cut
+  // where its open spaces would show it (a point inside a ring makes another symbol), and its rings and loops stay shut
+  const floats = Boolean(fig.floating);
+  const at = { s: 0.78, dy: floats ? 0 : 14 };
   const figure = placed(fig, { ...at, fill: paper, ids: 'wc1' });
-  const halo = placed(fig, { ...at, fill: '#000', ids: 'wc2' });
+  const halo = placed(floats && fig.solid ? { draw: fig.solid } : fig, { ...at, fill: '#000', ids: 'wc2' });
   // rays cut from behind the middle of the figure out to the edge of the block, each a thin wedge widening as it goes;
   // they start a little way out from a small cut sun, which shows wherever the figure does not cover it (cut all the
   // way in, the wedges would run together into a grey blur where they meet)
   const c = middle(fig, at);
-  let rays = `M${c[0] - 30} ${c[1]} a30 30 0 1 0 60 0 a30 30 0 1 0 -60 0 Z `;
+  let rays = floats ? '' : `M${c[0] - 30} ${c[1]} a30 30 0 1 0 60 0 a30 30 0 1 0 -60 0 Z `;
   for (let i = 0; i < 70; i += 1) {
     const a = (i / 70) * 2 * Math.PI + rnd() * 0.02;
     const w = (0.55 + rnd() * 0.5) * (Math.PI / 180);
@@ -30,7 +33,7 @@ export function svg(fig, { ink = INK, paper = PAPER, margin = 70, grain = true }
   }
   // the ground, cut in long strokes, each a thin lens
   let ground = '';
-  for (let y = 838; y < 920; y += 13) {
+  for (let y = 838; !floats && y < 920; y += 13) {
     for (let x = 80 + rnd() * 40; x < 920;) {
       const len = 60 + rnd() * 140;
       const t = 2 + rnd() * 2.5;

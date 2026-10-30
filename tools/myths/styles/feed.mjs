@@ -1,37 +1,36 @@
-// Draws every myth figure in each black-and-white design chosen for the social feed, white on black and black on
-// white, into media/myths/feed/<design>/:
+// Draws every figure of a set (see figure-sets.mjs) in each black-and-white design chosen for the social feed, white on
+// black and black on white, into media/<set>/feed/<design>/:
 //
 //   <slug>--white-on-black.png   2000 × 2000, greyscale
 //   <slug>--black-on-white.png   the same picture inverted
 //
-//   node tools/myths/styles/feed.mjs                                every design, every figure
+//   node tools/myths/styles/feed.mjs                                every design, every myth
+//   node tools/myths/styles/feed.mjs --set symbols                  the symbols of the signs and celestial bodies
 //   node tools/myths/styles/feed.mjs [design…] [--figures a,b]      only some of them
 //   node tools/myths/styles/feed.mjs … --sheets <dir>               also a contact sheet of each design, to check it
 
-import { readdir, readFile, writeFile, mkdir } from 'node:fs/promises';
+import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { execFileSync } from 'node:child_process';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { createRequire } from 'node:module';
 import { FEED } from './index.mjs';
+import { FIGURE_SETS } from './figure-sets.mjs';
 
 const require = createRequire(import.meta.url);
 const { chromium } = require('playwright');
 
 const here = fileURLToPath(new URL('.', import.meta.url));
-const figuresDir = fileURLToPath(new URL('../silhouettes/figures/', import.meta.url));
-const out = fileURLToPath(new URL('../../../media/myths/feed/', import.meta.url));
 const args = process.argv.slice(2);
 const option = (flag) => (args.indexOf(flag) >= 0 ? args[args.indexOf(flag) + 1] : null);
+const set = FIGURE_SETS[option('--set') ?? 'myths'];
+if (!set) throw new Error(`no such set of figures: ${option('--set')}`);
+const out = fileURLToPath(new URL(`../../../media/${set.out}`, import.meta.url));
 const sheets = option('--sheets');
 const only = option('--figures')?.split(',');
-const words = args.filter((a, i) => !a.startsWith('--') && !['--sheets', '--figures'].includes(args[i - 1]));
+const words = args.filter((a, i) => !a.startsWith('--') && !['--sheets', '--figures', '--set'].includes(args[i - 1]));
 const designs = words.length ? words.filter((w) => FEED.includes(w)) : FEED;
 
-const figures = [];
-for (const file of (await readdir(figuresDir)).filter((f) => f.endsWith('.mjs')).sort()) {
-  const fig = await import(pathToFileURL(`${figuresDir}${file}`).href);
-  if (!only || only.includes(fig.slug)) figures.push(fig);
-}
+const figures = (await set.load()).filter((fig) => !only || only.includes(fig.slug));
 const kit = await readFile(`${here}canvas-kit.js`, 'utf8');
 
 const browser = await chromium.launch();
@@ -87,4 +86,4 @@ for (const design of designs) {
 await browser.close();
 // the browser writes RGBA; one grey channel holds these in a third of the space
 execFileSync('python3', ['-I', `${here}grey.py`, ...written]);
-console.log(`${written.length} pictures in media/myths/feed/`);
+console.log(`${written.length} pictures in media/${set.out}`);
