@@ -23,8 +23,7 @@ const rank = (a) => (order.indexOf(a) < 0 ? 99 : order.indexOf(a));
 figs.sort((a, b) => rank(a.astrology) - rank(b.astrology));
 const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
 
-const html = `<meta charset="utf-8">
-<title>Myth silhouettes</title>
+const html = `<title>Myth silhouettes</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
