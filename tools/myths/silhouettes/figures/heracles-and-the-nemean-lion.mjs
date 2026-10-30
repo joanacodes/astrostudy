@@ -26,14 +26,13 @@ function lionHead(ox, oy, k, deg) {
   ];
 }
 
-// a forepaw with its claws out, reaching along deg
+// a forepaw, a round mitt with short hooked claws at its front, reaching along deg
 const forepaw = (x, y, deg) => {
   const t = (deg * Math.PI) / 180;
   return [
-    ellipse(x, y, 23, 17, deg),
-    ...[-0.6, -0.2, 0.2, 0.6].map((o) => chain([[x + 17 * Math.cos(t + o), y + 17 * Math.sin(t + o), 5],
-      [x + 26 * Math.cos(t + o * 0.85 + 0.12), y + 26 * Math.sin(t + o * 0.85 + 0.12), 2.6],
-      [x + 29 * Math.cos(t + o * 0.7 + 0.42), y + 29 * Math.sin(t + o * 0.7 + 0.42), 1]])),
+    ellipse(x, y, 24, 18, deg),
+    ...[-0.75, -0.25, 0.25, 0.75].map((o) => limb(x + 19 * Math.cos(t + o), y + 19 * Math.sin(t + o), 4,
+      x + 29 * Math.cos(t + o + 0.3), y + 29 * Math.sin(t + o + 0.3), 1)),
   ];
 };
 
@@ -63,12 +62,12 @@ export function draw() {
       [624, 594], [604, 628], [596, 672], [540, 690], [486, 688]]),
     chain([[486, 655, 11], [452, 700, 10]]),
     // the forelegs, elbows tucked back under the chest, forearms reaching out with the claws bared
-    chain([[648, 456, 30], [664, 500, 25], [726, 474, 21], [786, 440, 17]]),
-    forepaw(804, 432, -28),
-    chain([[660, 500, 32], [668, 556, 27], [736, 566, 22], [794, 552, 18]]),
-    forepaw(812, 550, -5),
-    blob([[640, 430], [676, 428], [700, 452], [706, 478], [694, 492], [698, 512], [680, 520], [682, 540], [660, 532],
-      [650, 500], [638, 470]], 0.85),
+    chain([[648, 456, 30], [664, 500, 25], [730, 470, 21], [778, 426, 17]]),
+    forepaw(792, 414, -42),
+    chain([[660, 500, 32], [668, 556, 27], [736, 578, 22], [786, 600, 18]]),
+    forepaw(802, 606, 20),
+    blob([[640, 430], [676, 426], [700, 448], [712, 476], [700, 490], [708, 512], [690, 518], [694, 542], [672, 538],
+      [668, 562], [650, 544], [640, 500], [634, 466]], 0.85),
     lionHead(712, 320, 1.08, -12),
   ];
   // its tail, lashing out between the hero's legs

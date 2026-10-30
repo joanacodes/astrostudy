@@ -19,7 +19,6 @@ const chain = (js) => kit.chain(js.map(([x, y, r]) => [...fit([x, y]), r * FIT.s
 const rad = (d) => (d * Math.PI) / 180;
 const ang = (p, q) => (Math.atan2(q[1] - p[1], q[0] - p[0]) * 180) / Math.PI;
 
-
 // an outline drawn in the frame of a bone from joint a to joint b: v runs 0 → 1 down the bone, u across it
 // (positive = the front of the limb), both in units of the bone's length
 function bone(a, b, pts) {
