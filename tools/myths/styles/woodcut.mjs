@@ -10,10 +10,11 @@ export const about = 'A relief print: what the gouge cut away is the white of th
 const INK = '#17130f';
 const PAPER = '#f0e8d8';
 
-export function svg(fig) {
+// ink, paper and the block's margin can be given, for the black-and-white set's full-bleed block
+export function svg(fig, { ink = INK, paper = PAPER, margin = 70, grain = true } = {}) {
   const rnd = random(77);
   const at = { s: 0.78, dy: 14 };
-  const figure = placed(fig, { ...at, fill: PAPER, ids: 'wc1' });
+  const figure = placed(fig, { ...at, fill: paper, ids: 'wc1' });
   const halo = placed(fig, { ...at, fill: '#000', ids: 'wc2' });
   // rays cut from behind the figure out to the edge of the block, each a thin wedge widening as it goes
   const c = [560, 420];
@@ -44,14 +45,14 @@ export function svg(fig) {
     + '<filter id="wc-grow" x="0" y="0" width="1000" height="1000" filterUnits="userSpaceOnUse"><feMorphology operator="dilate" radius="15"/></filter>'
     + `<mask id="wc-free" maskUnits="userSpaceOnUse" x="0" y="0" width="1000" height="1000"><rect width="1000" height="1000" fill="#fff"/><g filter="url(#wc-grow)">${halo.body}</g></mask>`
     + figureMask('wc-shade', fig, at, [-13, -15])
-    + `<pattern id="wc-lines" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(-8)"><rect width="10" height="3.8" fill="${INK}"/></pattern>`
-    + '<clipPath id="wc-block"><rect x="70" y="70" width="860" height="860"/></clipPath>';
+    + `<pattern id="wc-lines" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(-8)"><rect width="10" height="3.8" fill="${ink}"/></pattern>`
+    + `<clipPath id="wc-block"><rect x="${margin}" y="${margin}" width="${1000 - 2 * margin}" height="${1000 - 2 * margin}"/></clipPath>`;
   return svgDoc(defs, [
-    `<rect width="1000" height="1000" fill="${PAPER}"/>`,
-    '<rect width="1000" height="1000" filter="url(#wc-paper)" opacity=".07" style="mix-blend-mode:multiply"/>',
+    `<rect width="1000" height="1000" fill="${paper}"/>`,
+    grain ? '<rect width="1000" height="1000" filter="url(#wc-paper)" opacity=".07" style="mix-blend-mode:multiply"/>' : '',
     '<g filter="url(#wc-rough)"><g mask="url(#wc-ink)">',
-    `<rect x="70" y="70" width="860" height="860" fill="${INK}"/>`,
-    `<g clip-path="url(#wc-block)" mask="url(#wc-free)" fill="${PAPER}"><path d="${rays}"/><path d="${ground}"/></g>`,
+    `<rect x="${margin}" y="${margin}" width="${1000 - 2 * margin}" height="${1000 - 2 * margin}" fill="${ink}"/>`,
+    `<g clip-path="url(#wc-block)" mask="url(#wc-free)" fill="${paper}"><path d="${rays}"/><path d="${ground}"/></g>`,
     figure.body,
     '<rect width="1000" height="1000" fill="url(#wc-lines)" mask="url(#wc-shade)"/>',
     '</g></g>',

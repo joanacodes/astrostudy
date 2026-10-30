@@ -168,5 +168,98 @@ window.kit = (() => {
     }
   }
 
-  return { mask, distance, random, Points, scatter };
+  // a box blur run three times over a field of numbers: close to a Gaussian about r wide
+  function blur(src, S, r) {
+    const a = Float32Array.from(src);
+    const b = new Float32Array(S * S);
+    const w = 2 * r + 1;
+    const at = (v) => Math.min(S - 1, Math.max(0, v));
+    for (let pass = 0; pass < 3; pass += 1) {
+      for (let y = 0; y < S; y += 1) {
+        const row = y * S;
+        let sum = 0;
+        for (let x = -r; x <= r; x += 1) sum += a[row + at(x)];
+        for (let x = 0; x < S; x += 1) {
+          b[row + x] = sum / w;
+          sum += a[row + at(x + r + 1)] - a[row + at(x - r)];
+        }
+      }
+      for (let x = 0; x < S; x += 1) {
+        let sum = 0;
+        for (let y = -r; y <= r; y += 1) sum += b[at(y) * S + x];
+        for (let y = 0; y < S; y += 1) {
+          a[y * S + x] = sum / w;
+          sum += b[at(y + r + 1) * S + x] - b[at(y - r) * S + x];
+        }
+      }
+    }
+    return a;
+  }
+
+  // light from the upper left on the figure as if it were a low relief whose height is the mask blurred r wide:
+  // 0 in the deepest shade, about two thirds on a flat top, 1 on a slope facing the light (0 off the figure)
+  function shade(m, S, r, height) {
+    const h = blur(m, S, r);
+    const L = [-0.55, -0.55, 0.63];
+    const len = Math.hypot(...L);
+    const out = new Float32Array(S * S);
+    for (let y = 1; y < S - 1; y += 1) {
+      for (let x = 1; x < S - 1; x += 1) {
+        const i = y * S + x;
+        if (!m[i]) continue;
+        const gx = (h[i + 1] - h[i - 1]) * 0.5 * height;
+        const gy = (h[i + S] - h[i - S]) * 0.5 * height;
+        out[i] = Math.max(0, (-gx * L[0] - gy * L[1] + L[2]) / (len * Math.hypot(gx, gy, 1)));
+      }
+    }
+    return out;
+  }
+
+  // smooth noise between 0 and 1, changing over about `cell` pixels
+  function noise(S, cell, seed) {
+    const rnd = random(seed);
+    const n = Math.ceil(S / cell) + 2;
+    const g = new Float32Array(n * n).map(() => rnd());
+    const out = new Float32Array(S * S);
+    const ease = (t) => t * t * (3 - 2 * t);
+    for (let y = 0; y < S; y += 1) {
+      const iy = Math.floor(y / cell);
+      const ty = ease(y / cell - iy);
+      for (let x = 0; x < S; x += 1) {
+        const ix = Math.floor(x / cell);
+        const tx = ease(x / cell - ix);
+        const a = g[iy * n + ix];
+        const b = g[iy * n + ix + 1];
+        const c = g[(iy + 1) * n + ix];
+        const d = g[(iy + 1) * n + ix + 1];
+        const top = a + (b - a) * tx;
+        out[y * S + x] = top + (c + (d - c) * tx - top) * ty;
+      }
+    }
+    return out;
+  }
+
+  // how much of a pixel a line covers when its middle is d away and it is 2w wide, smoothed over one pixel
+  const cover = (d, w) => Math.min(1, Math.max(0, w - d + 0.5));
+
+  // a field of ink (0 none, 1 full) painted in `ink` on `ground`, as a PNG data URL
+  function picture(ink, S, colour = [255, 255, 255], ground = [0, 0, 0]) {
+    const c = document.createElement('canvas');
+    c.width = S;
+    c.height = S;
+    const g = c.getContext('2d');
+    const img = g.createImageData(S, S);
+    const d = img.data;
+    for (let i = 0; i < S * S; i += 1) {
+      const v = Math.min(1, Math.max(0, ink[i]));
+      d[i * 4] = ground[0] + (colour[0] - ground[0]) * v;
+      d[i * 4 + 1] = ground[1] + (colour[1] - ground[1]) * v;
+      d[i * 4 + 2] = ground[2] + (colour[2] - ground[2]) * v;
+      d[i * 4 + 3] = 255;
+    }
+    g.putImageData(img, 0, 0);
+    return c.toDataURL('image/png');
+  }
+
+  return { mask, distance, random, Points, scatter, blur, shade, noise, cover, picture };
 })();

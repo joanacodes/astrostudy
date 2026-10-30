@@ -7,13 +7,21 @@ export const name = 'mosaic';
 export const title = 'Roman mosaic';
 export const about = 'A black-and-white floor mosaic like those at Ostia, second century AD: stone tesserae, the rows following the figure.';
 
-export function args(fig) {
-  const f = placed(fig, { fill: '#fff', ids: 'mo', s: 0.8 });
-  return { svg: svgDoc(f.defs, f.body, 2000), S: 2000, T: 20, seed: 11 };
+// the stones: for the figure (and the border bands) and for the ground, the usual stone, an odd one and how many
+// of the odd ones there are; and the mortar
+export const STONES = {
+  figure: { main: [42, 38, 36], odd: [74, 64, 57], share: 0.2 },
+  ground: { main: [238, 232, 219], odd: [224, 213, 190], share: 0.14 },
+  mortar: [178, 170, 154],
+};
+
+export function args(fig, { s = 0.8, stones = STONES, type = 'image/jpeg' } = {}) {
+  const f = placed(fig, { fill: '#fff', ids: 'mo', s });
+  return { svg: svgDoc(f.defs, f.body, 2000), S: 2000, T: 20, seed: 11, stones, type };
 }
 
 // runs in the page, with canvas-kit.js loaded
-export async function paint({ svg, S, T, seed }) {
+export async function paint({ svg, S, T, seed, stones, type }) {
   const K = window.kit;
   const rnd = K.random(seed);
   const m = await K.mask(svg, S);
@@ -55,11 +63,12 @@ export async function paint({ svg, S, T, seed }) {
       pts.add(x, y, edge < 2 || edge === 3 ? 2 : 0);
     }
   }
-  // each stone its own shade of white marble or black limestone, a few creamier or browner
+  // each stone its own shade, a few of an odd colour (creamier marble, browner limestone)
   const col = new Float32Array(pts.x.length * 3);
   for (let i = 0; i < pts.x.length; i += 1) {
     const v = rnd();
-    const c = pts.tag[i] === 0 ? (v < 0.14 ? [224, 213, 190] : [238, 232, 219]) : (v < 0.2 ? [74, 64, 57] : [42, 38, 36]);
+    const kind = pts.tag[i] === 0 ? stones.ground : stones.figure;
+    const c = v < kind.share ? kind.odd : kind.main;
     const j = (rnd() - 0.5) * 16;
     col.set([c[0] + j, c[1] + j, c[2] + j], i * 3);
   }
@@ -75,10 +84,9 @@ export async function paint({ svg, S, T, seed }) {
       pts.nearest2(x + 0.5, y + 0.5, near);
       const p = (y * S + x) * 4;
       if (near[3] - near[1] < 2.2) {
-        // mortar
-        d[p] = 178;
-        d[p + 1] = 170;
-        d[p + 2] = 154;
+        d[p] = stones.mortar[0];
+        d[p + 1] = stones.mortar[1];
+        d[p + 2] = stones.mortar[2];
       } else {
         // each stone a little domed: darker toward its edges
         const s = 1 - 0.1 * Math.min(1, near[1] / (T * 0.62)) ** 2;
@@ -91,5 +99,5 @@ export async function paint({ svg, S, T, seed }) {
     }
   }
   g.putImageData(img, 0, 0);
-  return canvas.toDataURL('image/jpeg', 0.92);
+  return canvas.toDataURL(type, 0.92);
 }
