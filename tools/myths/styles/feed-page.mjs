@@ -1,17 +1,22 @@
-// The page for choosing pictures for the social feed, published as the "Myth feed" artifact together with the
-// pictures in media/myths/feed/, at the same paths (feed/<design>/<slug>--<colours>.png). It opens on a mixed feed,
-// three across like a profile grid, every picture in a different design from its neighbours and the colours
-// alternating; a tab shows one design for all the figures. Tapping a picture opens it at full size, to save.
+// The pages for choosing pictures for the social feed, published as artifacts together with the pictures in
+// media/myths/feed/, at the same paths (feed/<design>/<slug>--<colours>.png). Tapping a picture opens it at full
+// size, to save.
 //
-//   node tools/myths/styles/feed-page.mjs <out.html>
+// The "Myth feed" opens on a mixed feed, three across like a profile grid, every picture in a different design from
+// its neighbours and the colours alternating; a tab shows one design for all the figures. With --transparent it makes
+// "Transparent myth pictures" instead: one design at a time, in black ink or in white ink with nothing behind, over
+// checks that only mark where the picture is empty, light under black ink and dark under white so the ink shows.
+//
+//   node tools/myths/styles/feed-page.mjs [--transparent] <out.html>
 
 import { readdir, writeFile } from 'node:fs/promises';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { FEED } from './index.mjs';
 import { chartRank } from '../silhouettes/order.mjs';
 
-const out = process.argv[2];
-if (!out) throw new Error('usage: node tools/myths/styles/feed-page.mjs <out.html>');
+const transparent = process.argv.includes('--transparent');
+const out = process.argv.slice(2).find((a) => !a.startsWith('--'));
+if (!out) throw new Error('usage: node tools/myths/styles/feed-page.mjs [--transparent] <out.html>');
 const here = fileURLToPath(new URL('.', import.meta.url));
 const figuresDir = fileURLToPath(new URL('../silhouettes/figures/', import.meta.url));
 const figs = [];
@@ -27,7 +32,36 @@ for (const name of FEED) {
 }
 const pictures = figs.length * designs.length * 2;
 
-const html = `<title>Myth feed</title>
+// each ink: its value in the file names, its label, and the words for the pictures' alt text
+const page = transparent
+  ? {
+      title: 'Transparent myth pictures',
+      heading: 'Transparent myth pictures',
+      lede: `Every figure in the ${designs.length} designs you kept with nothing behind the ink, in black ink for light grounds and in white ink for dark ones: ${pictures} pictures, 2000 px square. The checks only mark where a picture is empty; they are not in the files. Tap a picture to open it full size and save it.`,
+      note: 'The files are also on the branch, in media/myths/feed/&lt;design&gt;/ next to the others, named after the myth: for example feed/woodcut/europa-and-the-bull--white-transparent.png. In the mosaic only the light stones are kept, so its ground and mortar fall away; the holes of the paper cut are see-through too.',
+      mixed: false,
+      inks: [['black', 'Black ink', 'black ink on a transparent ground'], ['white', 'White ink', 'white ink on a transparent ground']],
+      start: { design: designs[0].name, ink: 'black' },
+      suffix: '-transparent',
+      // the checks stand for the empty ground; under white ink they are dark, or the ink would vanish into them
+      css: `:root { --checks-light: #ffffff; --checks-light-2: #dadada; --checks-dark: #2b2b2b; --checks-dark-2: #3d3d3d; }
+.sheet.ink-black img { background: repeating-conic-gradient(var(--checks-light) 0 25%, var(--checks-light-2) 0 50%) 0 0 / 20px 20px; }
+.sheet.ink-white img { background: repeating-conic-gradient(var(--checks-dark) 0 25%, var(--checks-dark-2) 0 50%) 0 0 / 20px 20px; }
+`,
+    }
+  : {
+      title: 'Myth feed',
+      heading: 'The myth feed',
+      lede: `Every figure in the ${designs.length} designs you kept, white on black and black on white: ${pictures} pictures, 2000 px square. The mixed feed gives each picture a different design from its neighbours. Tap a picture to open it full size and save it.`,
+      note: 'The files are also on the branch, in media/myths/feed/&lt;design&gt;/, named after the myth: for example feed/woodcut/europa-and-the-bull--black-on-white.png.',
+      mixed: true,
+      inks: [['alternate', 'Alternate'], ['white-on-black', 'White on black', 'white on black'], ['black-on-white', 'Black on white', 'black on white']],
+      start: { design: 'mixed', ink: 'alternate' },
+      suffix: '',
+      css: '',
+    };
+
+const html = `<title>${page.title}</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -63,25 +97,26 @@ figcaption { display: grid; gap: 1px; }
 .myth { font: 400 15px/1.3 var(--serif); }
 .note { margin: 32px 0 0; padding-top: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: 13px; max-width: 72ch; }
 :focus-visible { outline: 2px solid currentColor; outline-offset: 2px; }
-</style>
+${page.css}</style>
 <div class="wrap">
   <header>
     <p class="eyebrow">The Astro Study &middot; Myths behind the chart</p>
-    <h1>The myth feed</h1>
-    <p class="lede">Every figure in the ${designs.length} designs you kept, white on black and black on white: ${pictures} pictures, 2000 px square. The mixed feed gives each picture a different design from its neighbours. Tap a picture to open it full size and save it.</p>
+    <h1>${page.heading}</h1>
+    <p class="lede">${page.lede}</p>
     <div class="controls">
       <div class="pills" role="group" aria-label="Design" id="designs"></div>
       <div class="pills" role="group" aria-label="Colours" id="inks"></div>
     </div>
   </header>
   <div id="view"></div>
-  <p class="note">The files are also on the branch, in media/myths/feed/&lt;design&gt;/, named after the myth: for example feed/woodcut/europa-and-the-bull--black-on-white.png.</p>
+  <p class="note">${page.note}</p>
 </div>
 <script>
 const FIGS = ${JSON.stringify(figs)};
 const DESIGNS = ${JSON.stringify(designs)};
-const INKS = [['alternate', 'Alternate'], ['white-on-black', 'White on black'], ['black-on-white', 'Black on white']];
-const state = { design: 'mixed', ink: 'alternate' };
+const PAGE = ${JSON.stringify({ mixed: page.mixed, inks: page.inks, suffix: page.suffix })};
+const WORDS = Object.fromEntries(PAGE.inks.map(([value, , words]) => [value, words]));
+const state = ${JSON.stringify(page.start)};
 const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
 
 function pills(el, items, key) {
@@ -89,8 +124,8 @@ function pills(el, items, key) {
 }
 
 function render() {
-  pills(document.getElementById('designs'), [['mixed', 'Mixed feed'], ...DESIGNS.map((d) => [d.name, d.title])], 'design');
-  pills(document.getElementById('inks'), INKS, 'ink');
+  pills(document.getElementById('designs'), [...(PAGE.mixed ? [['mixed', 'Mixed feed']] : []), ...DESIGNS.map((d) => [d.name, d.title])], 'design');
+  pills(document.getElementById('inks'), PAGE.inks, 'ink');
   const mixed = state.design === 'mixed';
   const cols = mixed ? 3 : 5;
   // the mixed feed runs on past the last figure to fill its last row, starting the figures over in other designs
@@ -100,12 +135,12 @@ function render() {
     // neighbours along a row and down a column of three always differ: steps of 3 and 9 are never a multiple of 8
     const design = mixed ? DESIGNS[(i * 3) % DESIGNS.length] : DESIGNS.find((d) => d.name === state.design);
     const ink = state.ink !== 'alternate' ? state.ink : ((Math.floor(i / cols) + (i % cols)) % 2 ? 'black-on-white' : 'white-on-black');
-    const src = 'feed/' + design.name + '/' + f.slug + '--' + ink + '.png';
-    return '<figure><a href="' + src + '" target="_blank" rel="noopener"><img src="' + src + '" alt="' + esc(f.myth + ', ' + design.title.toLowerCase() + ', ' + ink.replaceAll('-', ' ')) + '" width="2000" height="2000" loading="lazy" decoding="async"></a>'
+    const src = 'feed/' + design.name + '/' + f.slug + '--' + ink + PAGE.suffix + '.png';
+    return '<figure><a href="' + src + '" target="_blank" rel="noopener"><img src="' + src + '" alt="' + esc(f.myth + ', ' + design.title.toLowerCase() + ', ' + WORDS[ink]) + '" width="2000" height="2000" loading="lazy" decoding="async"></a>'
       + '<figcaption><span class="sign">' + esc(f.astrology) + '</span><span class="myth">' + esc(f.myth) + '</span></figcaption></figure>';
   });
   const view = document.getElementById('view');
-  view.className = mixed ? 'feed' : 'sheet';
+  view.className = (mixed ? 'feed' : 'sheet') + ' ink-' + state.ink;
   view.innerHTML = tiles.join('');
 }
 
@@ -120,4 +155,4 @@ render();
 </script>
 `;
 await writeFile(out, html);
-console.log(`${out}: ${figs.length} figures × ${designs.length} designs`);
+console.log(`${out}: ${figs.length} figures × ${designs.length} designs${transparent ? ', transparent' : ''}`);
