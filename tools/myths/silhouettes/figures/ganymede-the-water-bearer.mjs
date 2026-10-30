@@ -1,4 +1,4 @@
-// Ganymede as the water-bearer, after the Roman statues of the Trojan youth in a Phrygian cap with Zeus's eagle at his feet.
+// Ganymede as the water-bearer, after the Roman statues of the Trojan youth in a Phrygian cap with Zeus's eagle.
 import { blob, chain, circle, ellipse, limb, line } from '../lib.mjs';
 
 export const slug = 'ganymede-the-water-bearer';
@@ -9,7 +9,7 @@ export const astrology = 'Aquarius';
 function amphora(cx, cy, deg) {
   const a = (deg * Math.PI) / 180;
   const P = ([u, v]) => [cx + u * Math.cos(a) - v * Math.sin(a), cy + u * Math.sin(a) + v * Math.cos(a)];
-  const side = (s) => [[-58, 8 * s], [-50, 24 * s], [-30, 40 * s], [-8, 44 * s], [14, 42 * s], [30, 34 * s], [40, 22 * s], [46, 13 * s]];
+  const side = (s) => [[-58, 8], [-50, 24], [-30, 40], [-8, 44], [14, 42], [30, 34], [40, 22], [46, 13]].map(([u, v]) => [u, v * s]);
   return [
     blob([...side(-1), ...side(1).reverse()].map(P), 0.9),
     limb(...P([44, 0]), 13, ...P([72, 0]), 12),
@@ -20,7 +20,8 @@ function amphora(cx, cy, deg) {
   ];
 }
 
-// Zeus's eagle hovering, wings spread and fingered, tail fanned, its head turned down towards him: drawn about its body at scale k
+// Zeus's eagle hovering, wings spread and fingered, tail fanned, its head turned down towards him: drawn about its body
+// at scale k
 function eagle(ox, oy, k) {
   const P = ([x, y]) => [ox + k * x, oy + k * y];
   const L = (x1, y1, r1, x2, y2, r2) => limb(...P([x1, y1]), k * r1, ...P([x2, y2]), k * r2);
@@ -41,13 +42,27 @@ function eagle(ox, oy, k) {
   ];
 }
 
+// the scene scaled by k and moved by (dx, dy) to sit centred: the kit's outlines are absolute M, L and C points, a circle
+// is drawn with relative arcs (radii and end point scale, flags do not), and a rod keeps its width in proportion
+function placed(shapes, k, dx, dy) {
+  const num = (n) => Math.round(n * 10) / 10;
+  const path = (d) => d.replace(/([MLCa])([^MLCaZ]*)/g, (_, c, body) => {
+    const n = body.trim().split(/[\s,]+/).map(Number);
+    const out = c === 'a'
+      ? n.map((v, i) => ([0, 1, 5, 6].includes(i % 7) ? num(v * k) : v))
+      : n.map((v, i) => num(i % 2 ? v * k + dy : v * k + dx));
+    return `${c}${out.join(' ')} `;
+  });
+  return shapes.flat(Infinity).map((s) => (s.stroke ? { ...s, stroke: path(s.stroke), width: s.width * k } : { ...s, d: path(s.d) }));
+}
+
 export function draw() {
   // the water, falling from the urn's mouth in a long curve to the ground, where it splashes
-  const fall = Array.from({ length: 15 }, (_, i) => {
-    const t = i / 14;
-    return [662 + 176 * t, 300 + 60 * t + 504 * t * t, 11 - 3 * t];
+  const fall = Array.from({ length: 41 }, (_, i) => {
+    const t = i / 40;
+    return [650 + 188 * t, 288 + 72 * t + 504 * t * t, 11 - 3 * t];
   });
-  return [
+  return placed([
     chain(fall),
     ellipse(842, 866, 42, 7),
     ...[[806, 846, 5], [874, 842, 4], [858, 826, 3], [820, 828, 3]].map(([x, y, r]) => circle(x, y, r)),
@@ -59,23 +74,23 @@ export function draw() {
       [430, 210]]),
     limb(452, 236, 17, 452, 274, 20),
     // the body in contrapposto: the weight on his right leg, that hip pushed out, the other knee bent and the heel raised
-    blob([[436, 266], [392, 284], [370, 298], [364, 318], [378, 340], [384, 362], [388, 392], [396, 418], [386, 452],
-      [380, 480], [384, 520], [452, 522], [514, 500], [512, 465], [510, 428], [516, 395], [524, 360], [530, 330],
-      [544, 296], [528, 280], [502, 272], [468, 266]]),
+    blob([[436, 266], [404, 276], [382, 288], [368, 306], [374, 334], [386, 364], [394, 396], [400, 428], [394, 458],
+      [388, 486], [386, 520], [454, 530], [514, 500], [512, 465], [504, 430], [512, 398], [522, 364], [532, 332],
+      [540, 302], [524, 284], [500, 272], [468, 266]]),
     blob([[384, 510], [392, 580], [400, 630], [404, 662], [398, 700], [404, 750], [418, 826], [444, 828], [446, 790],
       [450, 720], [446, 662], [444, 640], [448, 580], [452, 520]]),
     blob([[416, 822], [446, 824], [452, 846], [452, 862], [412, 862], [410, 846]]),
     blob([[458, 522], [514, 498], [512, 540], [506, 600], [500, 668], [506, 720], [516, 780], [522, 828], [502, 830],
       [494, 790], [478, 730], [468, 672], [466, 640], [462, 580]]),
     blob([[500, 824], [524, 826], [542, 848], [538, 858], [514, 852]]),
-    // his left arm steadying the urn, his right hanging with the cup he pours for the gods
+    // his left arm steadying the urn, his right hanging with the cup he pours for the gods; above, the eagle that came for him
     chain([[536, 302, 21], [600, 362, 15], [618, 304, 11]]),
     ellipse(624, 292, 12, 15, 30),
-    chain([[378, 308, 20], [356, 418, 16], [344, 506, 11]]),
+    chain([[382, 312, 19], [358, 418, 16], [344, 506, 11]]),
     ellipse(340, 520, 11, 15),
     blob([[308, 532], [358, 532], [352, 546], [338, 554], [326, 554], [312, 546]]),
     limb(332, 552, 4, 332, 570, 4),
     ellipse(332, 572, 12, 4),
     eagle(218, 228, 0.88),
-  ];
+  ], 1.03, 10, -15);
 }

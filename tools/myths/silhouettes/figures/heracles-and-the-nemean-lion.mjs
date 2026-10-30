@@ -26,18 +26,21 @@ function lionHead(ox, oy, k, deg) {
   ];
 }
 
-// a forepaw, a round mitt with short hooked claws at its front, reaching along deg
+// a forepaw reaching along deg: a round paw, its claws bared as short hooks curving down off the front
 const forepaw = (x, y, deg) => {
   const t = (deg * Math.PI) / 180;
   return [
-    ellipse(x, y, 24, 18, deg),
-    ...[-0.75, -0.25, 0.25, 0.75].map((o) => limb(x + 19 * Math.cos(t + o), y + 19 * Math.sin(t + o), 4,
-      x + 29 * Math.cos(t + o + 0.3), y + 29 * Math.sin(t + o + 0.3), 1)),
+    ellipse(x, y, 23, 17, deg),
+    ...[-0.35, 0.1, 0.55].map((o) => {
+      const [cx, cy] = [x + 20 * Math.cos(t + o), y + 20 * Math.sin(t + o)];
+      return chain([[cx, cy, 4], [cx + 7 * Math.cos(t + 0.5), cy + 7 * Math.sin(t + 0.5), 2.4],
+        [cx + 9 * Math.cos(t + 1.3), cy + 9 * Math.sin(t + 1.3), 1]]);
+    }),
   ];
 };
 
-// the whole group scaled by k and moved by (dx, dy) to fill the frame: the kit's outlines are absolute M, L and C points,
-// a circle is drawn with relative arcs (radii and end point scale, flags do not), and a rod or an incision keeps its width in proportion
+// the whole group scaled by k and moved by (dx, dy) to fill the frame: the kit's outlines are absolute M, L and C points, a
+// circle is drawn with relative arcs (radii and end point scale, flags do not), and a rod or an incision keeps its width in proportion
 function placed(shapes, k, dx, dy) {
   const num = (n) => Math.round(n * 10) / 10;
   const path = (d) => d.replace(/([MLCa])([^MLCaZ]*)/g, (_, c, body) => {
@@ -53,24 +56,25 @@ function placed(shapes, k, dx, dy) {
 export function draw() {
   // the lion rearing on its hind legs, its forepaws clawing the air, roaring; its back pressed against the hero
   const lion = [
-    // the far hind leg, then the near one: thigh forward to the stifle, back to the pointed hock, forward to the long paw
-    blob([[452, 662], [546, 682], [570, 728], [558, 760], [546, 792], [552, 832], [566, 852], [586, 864], [580, 874],
-      [538, 874], [528, 860], [510, 818], [494, 796], [476, 752], [460, 706]]),
-    blob([[488, 650], [600, 672], [628, 724], [616, 758], [602, 790], [608, 832], [622, 852], [644, 864], [638, 876],
-      [594, 876], [584, 862], [566, 820], [550, 798], [530, 752], [506, 704]]),
+    // the far hind leg, then the near one: the thigh forward to the stifle, back to the pointed hock, down to the paw
+    blob([[452, 662], [546, 682], [570, 728], [558, 760], [546, 792], [544, 830], [558, 854], [566, 870], [522, 874],
+      [514, 860], [506, 828], [494, 798], [476, 752], [460, 706]]),
+    blob([[488, 650], [600, 672], [628, 724], [616, 758], [602, 790], [600, 830], [616, 854], [624, 870], [580, 876],
+      [572, 862], [560, 830], [548, 798], [530, 752], [506, 704]]),
     blob([[476, 655], [492, 590], [520, 530], [562, 476], [608, 432], [652, 440], [676, 492], [672, 536], [650, 568],
       [624, 594], [604, 628], [596, 672], [540, 690], [486, 688]]),
-    chain([[486, 655, 11], [452, 700, 10]]),
     // the forelegs, elbows tucked back under the chest, forearms reaching out with the claws bared
-    chain([[648, 456, 30], [664, 500, 25], [730, 470, 21], [778, 426, 17]]),
-    forepaw(792, 414, -42),
+    chain([[648, 456, 30], [664, 500, 25], [734, 482, 21], [784, 448, 17]]),
+    forepaw(800, 438, -32),
     chain([[660, 500, 32], [668, 556, 27], [736, 578, 22], [786, 600, 18]]),
     forepaw(802, 606, 20),
+    // the mane falling over the chest, and the roaring head
     blob([[640, 430], [676, 426], [700, 448], [712, 476], [700, 490], [708, 512], [690, 518], [694, 542], [672, 538],
       [668, 562], [650, 544], [640, 500], [634, 466]], 0.85),
     lionHead(712, 320, 1.08, -12),
   ];
-  // its tail, lashing out between the hero's legs
+  // its tail, lashing out between the hero's legs; the root, drawn after the incision, keeps it joined to the rump
+  const tailRoot = chain([[486, 655, 11], [452, 700, 10]]);
   const tail = [
     chain([[452, 700, 10], [420, 748, 9], [402, 800, 8], [378, 836, 7], [348, 840, 6], [328, 822, 5]]),
     ellipse(322, 808, 16, 10, 70),
@@ -81,10 +85,10 @@ export function draw() {
     blob([[108, 880], [112, 860], [132, 850], [148, 860], [174, 870], [178, 882]]),
     chain([[320, 610, 44], [402, 702, 28], [404, 752, 26], [394, 858, 15]]),
     blob([[376, 882], [378, 860], [398, 852], [416, 864], [446, 874], [448, 884]]),
-    blob([[262, 590], [300, 548], [350, 512], [400, 480], [450, 448], [485, 424], [510, 412], [522, 455], [500, 490],
-      [460, 520], [420, 552], [385, 585], [350, 615], [320, 628], [285, 615]]),
+    blob([[258, 594], [270, 560], [300, 538], [346, 516], [396, 488], [446, 454], [484, 426], [510, 412], [524, 455],
+      [502, 492], [462, 524], [422, 556], [386, 588], [350, 616], [318, 630], [282, 620]]),
   ];
-  // the parts of him that lie over the lion: the bearded head pressed into its mane, the arm locked round its throat
+  // the parts of him that lie over the lion: the curly head pressed into its mane, the arm locked round its throat
   const heroFront = [
     limb(486, 420, 25, 512, 392, 22),
     blob([[494, 340], [506, 320], [528, 312], [550, 320], [564, 340], [574, 360], [565, 370], [570, 388], [556, 414],
@@ -99,6 +103,7 @@ export function draw() {
     hero,
     heroFront,
     incise(tail),
+    tailRoot,
     tail,
   ], 1.08, -8, -93);
 }

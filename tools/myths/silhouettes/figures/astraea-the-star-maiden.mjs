@@ -1,23 +1,25 @@
-// Astraea, after the winged maidens of Greek art and the winged Virgo of the ancient star maps, the ear of wheat in her hand.
+// Astraea, after the winged Victories of Greek and Roman art, with the ear of wheat that marks Virgo on the ancient star globes.
 import { blob, chain, circle, ellipse, limb, line } from '../lib.mjs';
 
 export const slug = 'astraea-the-star-maiden';
 export const myth = 'Astraea, the star maiden';
 export const astrology = 'Virgo';
 
+// the wings are drawn once, for m(x) = x (our left) and m(x) = 1000 - x (our right)
 const L = (x) => x;
 const R = (x) => 1000 - x;
 
 // a wing spread from behind the shoulder: the coverts, the long primaries parted at its end, the secondaries overlapping
 // along its lower edge until near their tips
-const SECONDARIES = [[296, 230, 240, 286], [322, 244, 278, 304], [348, 258, 316, 318], [374, 272, 352, 326], [400, 286, 388, 330],
-  [426, 298, 424, 330]];
+const SECONDARIES = [[296, 230, 240, 286], [322, 244, 278, 304], [348, 258, 316, 318], [374, 272, 352, 326],
+  [400, 286, 388, 330], [426, 298, 424, 330]];
 const wing = (m) => [
   blob([[452, 300], [430, 272], [398, 238], [358, 204], [312, 178], [266, 162], [232, 160], [220, 176], [236, 214],
     ...SECONDARIES.map(([, , x, y]) => [x + 4, y - 26]), [446, 312]].map(([x, y]) => [m(x), y])),
   ...[[250, 166, 176, 138], [254, 178, 170, 166], [260, 192, 174, 196], [268, 206, 184, 226], [280, 220, 202, 254]].map(
     ([x1, y1, x2, y2]) => limb(m(x1), y1, 15, m(x2), y2, 3)),
-  ...SECONDARIES.map(([x1, y1, x2, y2]) => chain([[m(x1), y1, 18], [m((x1 + 2 * x2) / 3), (y1 + 2 * y2) / 3, 15], [m(x2), y2, 4]])),
+  ...SECONDARIES.map(([x1, y1, x2, y2]) =>
+    chain([[m(x1), y1, 18], [m((x1 + 2 * x2) / 3), (y1 + 2 * y2) / 3, 15], [m(x2), y2, 4]])),
 ];
 
 // an ear of wheat on its stalk: kernels in two rows up the spike, awns standing off them
@@ -34,8 +36,8 @@ function wheat(x, y, len, deg) {
   ];
 }
 
-// the figure scaled by k and moved by (dx, dy) to fill the frame: the kit's outlines are absolute M, L and C points,
-// a circle is drawn with relative arcs (radii and end point scale, flags do not), and a rod keeps its width in proportion
+// the figure scaled by k and moved by (dx, dy) to fill the frame: the kit's outlines are absolute M, L and C points, a
+// circle is drawn with relative arcs (radii and end point scale, flags do not), and a rod keeps its width in proportion
 function placed(shapes, k, dx, dy) {
   const num = (n) => Math.round(n * 10) / 10;
   const path = (d) => d.replace(/([MLCa])([^MLCaZ]*)/g, (_, c, body) => {
@@ -65,13 +67,13 @@ export function draw() {
     blob([[442, 464], [436, 540], [432, 620], [426, 700], [418, 780], [410, 846], [424, 856], [440, 846], [456, 858],
       [472, 846], [488, 858], [504, 846], [520, 858], [536, 846], [552, 858], [568, 846], [584, 856], [596, 846],
       [588, 790], [584, 720], [580, 650], [572, 610], [564, 540], [558, 464]]),
-    blob([[452, 846], [490, 846], [492, 860], [470, 866], [450, 862]]),
-    blob([[510, 848], [548, 848], [550, 862], [530, 868], [508, 864]]),
-    // her right arm held out with the ear of wheat, the star Spica; her left lowered, holding a torch
-    chain([[440, 302, 19], [404, 404, 14], [348, 448, 10]]),
+    blob([[452, 838], [490, 838], [492, 860], [470, 866], [450, 862]]),
+    blob([[510, 840], [548, 840], [550, 862], [530, 868], [508, 864]]),
+    // her right arm held out with the ear of wheat, the star Spica; her left lowered, holding a burning torch
+    chain([[440, 304, 21], [404, 404, 15], [348, 448, 11]]),
     ellipse(340, 450, 10, 13, -40),
     wheat(337, 444, 40, -10),
-    chain([[560, 302, 19], [590, 404, 14], [646, 498, 10]]),
+    chain([[560, 304, 21], [590, 404, 15], [646, 498, 11]]),
     ellipse(652, 510, 10, 13),
     line([[660, 470], [660, 740]], 8),
     ellipse(660, 466, 13, 6),

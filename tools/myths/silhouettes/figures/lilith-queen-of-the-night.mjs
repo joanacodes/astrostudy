@@ -9,7 +9,11 @@ export const astrology = 'Black Moon Lilith';
 const L = (x) => x;
 const R = (x) => 1000 - x;
 const pts = (m, list) => list.map(([x, y]) => [m(x), y]);
-const ring = (m, cx, cy, r, w) => line(pts(m, Array.from({ length: 33 }, (_, i) => [cx + r * Math.sin((i / 32) * 2 * Math.PI), cy - r * Math.cos((i / 32) * 2 * Math.PI)])), w);
+// a ring of rod of width w, closed on itself
+const ring = (m, cx, cy, r, w) => line(pts(m, Array.from({ length: 33 }, (_, i) => {
+  const t = (i / 32) * 2 * Math.PI;
+  return [cx + r * Math.sin(t), cy - r * Math.cos(t)];
+})), w);
 
 // a shaggy edge along an open run of outline points: a lock pushed out between every two of them
 function scallop(list, amp) {
@@ -36,7 +40,10 @@ function owl(m, cx) {
   ];
 }
 
+// the tips of a wing's long feathers, from the outermost in
 const PRIMARIES = [[182, 602], [214, 600], [246, 596], [278, 588], [310, 578], [342, 564], [372, 546], [400, 524]];
+// where each owl stands, on its lion's back
+const OWL = 362;
 
 function half(m) {
   return [
@@ -45,13 +52,13 @@ function half(m) {
       [171, 410], [172, 452], [200, 474], [262, 482], [330, 478], [388, 462], [416, 438], [430, 396]])),
     // its long primaries, overlapping, the outermost longest, parting only towards their tips
     blob(pts(m, [[188, 440], ...PRIMARIES.map(([x, y]) => [x + 3, y - 40]), [414, 440], [300, 430]])),
-    ...PRIMARIES.map(([x, y], i) => chain([[m(x + 10 + i * 1.5), 432, 17], [m(x + 4), 432 + (y - 432) * 0.7, 15], [m(x), y, 2.5]])),
+    ...PRIMARIES.map(([x, y], i) => chain([[m(x + 10 - i * 0.5), 432, 17], [m(x + 4), 432 + (y - 432) * 0.7, 15], [m(x), y, 2.5]])),
     // the raised arm and the rod-and-ring in the fist
     chain([[m(437), 320, 22], [m(385), 338, 18], [m(332), 357, 15]]),
     chain([[m(332), 357, 14], [m(329), 322, 13], [m(323), 266, 10]]),
     ellipse(m(322), 249, 12, 17),
     line([[m(294), 248], [m(350), 248]], 8),
-    ring(m, 322, 206, 20, 7),
+    ring(m, 322, 211, 20, 7),
     // the leg, ending in a bird's foot whose talons grip the lion's back
     blob(pts(m, [[438, 505], [433, 548], [438, 600], [445, 646], [440, 692], [446, 732], [450, 758], [472, 758],
       [478, 716], [483, 680], [488, 648], [494, 600], [500, 548], [500, 522], [472, 506]])),
@@ -61,9 +68,9 @@ function half(m) {
     // the horns of the crown, tier above tier, each curving up from the cap
     ...[[186, 470], [160, 475], [134, 481]].map(([y, x]) =>
       chain([[m(x + 2), y, 8], [m(x - 12), y - 2, 6.5], [m(x - 19), y - 10, 4], [m(x - 21), y - 21, 1.5]])),
-    owl(m, 362),
+    owl(m, OWL),
     // the lion lying down, its back to the other lion's
-    blob(pts(m, [[478, 812], [440, 795], [380, 800], [320, 806], [272, 804], [190, 860], [212, 876], [260, 884],
+    blob(pts(m, [[478, 812], [440, 795], [380, 800], [320, 806], [264, 796], [190, 860], [212, 876], [260, 884],
       [330, 880], [390, 886], [440, 895], [496, 868], [498, 840]])),
     ellipse(m(440), 846, 58, 50),
     limb(m(210), 860, 24, m(112), 882, 14),
@@ -95,9 +102,9 @@ export function draw() {
     limb(500, 268, 15, 500, 302, 19),
     // the body, frontal and bare
     blob([[462, 298], [440, 304], [420, 316], [414, 332], [428, 348], [440, 362], [446, 385], [450, 410], [456, 440],
-      [450, 468], [440, 492], [436, 512], [470, 528], [500, 530], [530, 528], [564, 512], [560, 492], [550, 468], [544, 440], [550, 410],
-      [554, 385], [560, 362], [572, 348], [586, 332], [580, 316], [560, 304], [538, 298]]),
-    // the owls' eyes
-    ...[345, 379, 621, 655].map((x) => cut(circle(x, 660, 12))),
+      [450, 468], [440, 492], [436, 512], [470, 528], [500, 530], [530, 528], [564, 512], [560, 492], [550, 468],
+      [544, 440], [550, 410], [554, 385], [560, 362], [572, 348], [586, 332], [580, 316], [560, 304], [538, 298]]),
+    // the owls' wide eyes, taken out of their heads once both halves are drawn
+    ...[OWL, 1000 - OWL].flatMap((x) => [cut(circle(x - 17, 660, 12)), cut(circle(x + 17, 660, 12))]),
   ];
 }

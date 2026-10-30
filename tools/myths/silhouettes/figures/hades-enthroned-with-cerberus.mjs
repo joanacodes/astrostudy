@@ -1,4 +1,4 @@
-// Hades enthroned, after the Roman copies of the seated Serapis of Alexandria (Bryaxis's lost cult statue), with Cerberus at his feet.
+// Hades enthroned with Cerberus at his feet, after the Roman copies of the seated Serapis of Alexandria (the lost cult statue given to Bryaxis).
 import { blob, chain, circle, cut, ellipse, limb, line, poly } from '../lib.mjs';
 
 export const slug = 'hades-enthroned-with-cerberus';
@@ -26,15 +26,15 @@ function cerberus(ox, oy, k) {
   };
   return [
     // sitting: the body sloping down to the haunch, the hind paw, the forelegs one behind the other
-    blob([[-74, -170], [-66, -200], [-38, -226], [0, -218], [37, -176], [73, -114], [99, -52], [105, -16], [87, 0],
-      [25, 0], [-15, -12], [-28, -60], [-38, -104], [-58, -122], [-76, -140]].map(P)),
+    blob([[-76, -170], [-66, -200], [-38, -226], [0, -218], [37, -176], [73, -114], [99, -52], [105, -16], [87, 0],
+      [25, 0], [-15, -12], [-28, -60], [-38, -104], [-60, -118], [-82, -144]].map(P)),
     E(55, -57, 52, 57),
     L(77, -10, 14, 5, -4, 11),
-    E(-5, -4, 21, 6),
-    L(-20, -146, 21, -24, -10, 14),
-    E(-34, -4, 19, 6),
-    L(-54, -150, 24, -62, -10, 15),
-    E(-74, -5, 22, 7),
+    E(-5, -2, 21, 6),
+    L(-18, -146, 23, -22, -26, 15),
+    E(-30, -7, 21, 9),
+    L(-52, -150, 26, -58, -28, 17),
+    E(-68, -10, 24, 10),
     // the serpent that serves him as a tail, curling up over the haunch
     chain([[101, -30, 11], [122, -52, 10], [130, -84, 9], [124, -114, 8], [108, -132, 7], [96, -142, 9], [82, -146, 4]].map(
       ([x, y, r]) => [...P([x, y]), k * r])),
@@ -48,15 +48,22 @@ function cerberus(ox, oy, k) {
   ];
 }
 
-// the scene moved sideways to sit centred: the kit's outlines are absolute M, L and C points (a circle's arcs are relative)
-const shifted = (shapes, dx) => shapes.flat(Infinity).map((s) => {
-  const key = s.stroke ? 'stroke' : 'd';
-  const move = (_, c, nums) => `${c}${nums.trim().split(/\s+/).map((n, i) => (i % 2 ? n : Math.round((+n + dx) * 10) / 10)).join(' ')} `;
-  return { ...s, [key]: s[key].replace(/([MLC])([-\d. ]+)/g, move) };
-});
+// the scene scaled by k and moved by (dx, dy) to sit centred: the kit's outlines are absolute M, L and C points, a circle
+// is drawn with relative arcs (radii and end point scale, flags do not), and a rod keeps its width in proportion
+function placed(shapes, k, dx, dy) {
+  const num = (n) => Math.round(n * 10) / 10;
+  const path = (d) => d.replace(/([MLCa])([^MLCaZ]*)/g, (_, c, body) => {
+    const n = body.trim().split(/[\s,]+/).map(Number);
+    const out = c === 'a'
+      ? n.map((v, i) => ([0, 1, 5, 6].includes(i % 7) ? num(v * k) : v))
+      : n.map((v, i) => num(i % 2 ? v * k + dy : v * k + dx));
+    return `${c}${out.join(' ')} `;
+  });
+  return shapes.flat(Infinity).map((s) => (s.stroke ? { ...s, stroke: path(s.stroke), width: s.width * k } : { ...s, d: path(s.d) }));
+}
 
 export function draw() {
-  return shifted([
+  return placed([
     // the dais and the throne: a high back ending in a scroll, the seat, two turned legs and their stretcher
     poly([[150, 852], [935, 852], [945, 884], [140, 884]]),
     blob([[206, 612], [196, 480], [188, 340], [184, 236], [190, 210], [210, 200], [228, 210], [234, 240], [238, 340],
@@ -71,7 +78,7 @@ export function draw() {
     poly([[396, 802], [532, 802], [528, 852], [400, 852]]),
     // the god: the lap, the himation hanging from the knee to the ankle, a sandalled foot below
     blob([[246, 600], [244, 548], [300, 534], [400, 532], [486, 538], [512, 556], [516, 610], [510, 680], [506, 740],
-      [514, 786], [500, 793], [486, 787], [470, 793], [454, 788], [458, 720], [462, 662], [444, 628], [320, 610]]),
+      [514, 786], [500, 793], [486, 787], [470, 793], [454, 788], [458, 720], [462, 664], [452, 636], [430, 622], [320, 610]]),
     blob([[456, 800], [460, 782], [486, 780], [504, 788], [526, 796], [530, 802]]),
     // the chest and shoulders, upright against the throne
     blob([[246, 600], [242, 520], [244, 440], [252, 392], [276, 360], [306, 356], [336, 372], [352, 410], [358, 450],
@@ -82,10 +89,10 @@ export function draw() {
       [272, 290], [282, 262]]),
     poly([[284, 268], [286, 248], [294, 224], [304, 246], [318, 218], [330, 246], [342, 224], [348, 250], [352, 268]]),
     // the arm reaching out to hold the sceptre
-    chain([[300, 386, 25], [430, 385, 19], [526, 320, 14]]),
+    chain([[300, 386, 26], [426, 394, 20], [526, 320, 14]]),
     ellipse(542, 312, 15, 18),
     line([[552, 128], [552, 852]], 12),
     ellipse(552, 118, 11, 15),
-    cerberus(785, 852, 1.12),
-  ], -40);
+    cerberus(790, 852, 1.18),
+  ], 1, -47, 0);
 }
