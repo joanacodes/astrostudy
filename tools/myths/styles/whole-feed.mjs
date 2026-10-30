@@ -26,11 +26,13 @@ for (const name of FEED) {
   designs.push({ name, title: m.title });
 }
 // what a picture shows, in the words the other pages use: a myth under its place in the chart, a symbol under its group
-// and over the words the site describes it with
+// and over the words the site describes it with. `set` names the folder of media/ its pictures are in (the aspects are
+// kept with the other symbols), `kind` the part of the lede that counts it.
 const subjects = [];
-for (const f of await FIGURE_SETS.myths.load()) subjects.push({ set: 'myths', slug: f.slug, kicker: f.astrology, title: f.myth });
-for (const f of await FIGURE_SETS.symbols.load()) subjects.push({ set: 'symbols', slug: f.slug, kicker: { signs: 'Sign', aspects: 'Aspect' }[f.family] ?? 'Celestial', title: f.name, about: f.about });
-const count = (set) => subjects.filter((s) => s.set === set).length;
+for (const f of await FIGURE_SETS.myths.load()) subjects.push({ set: 'myths', kind: 'myth', slug: f.slug, kicker: f.astrology, title: f.myth });
+for (const f of await FIGURE_SETS.symbols.load()) subjects.push({ set: 'symbols', kind: 'symbol', slug: f.slug, kicker: f.family === 'signs' ? 'Sign' : 'Celestial', title: f.name, about: f.about });
+for (const f of await FIGURE_SETS.aspects.load()) subjects.push({ set: 'symbols', kind: 'aspect', slug: f.slug, kicker: `Aspect, ${f.angle}`, title: f.name, about: f.about });
+const count = (kind) => subjects.filter((s) => s.kind === kind).length;
 
 const sources = subjects.flatMap((s) => designs.map((d) => `${media}${FIGURE_SETS[s.set].out}${d.name}/${s.slug}--white-on-black.png`));
 await mkdir(`${dir}/thumbs`, { recursive: true });
@@ -84,7 +86,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
   <header>
     <p class="eyebrow">The Astro Study &middot; Myths behind the chart</p>
     <h1>The myth and symbol feed</h1>
-    <p class="lede">All ${pictures} pictures, the ${count('myths')} myths and the ${count('symbols')} symbols in the ${designs.length} designs you kept, white on black and black on white, in a random order. No picture sits beside or under one in the same design, the colours alternate, and the same myth or symbol never comes back within six pictures. Shuffle for a new order; tap a picture to see which one it is.</p>
+    <p class="lede">All ${pictures} pictures, the ${count('myth')} myths, the ${count('symbol')} symbols of the signs and celestials and the ${count('aspect')} aspects, in the ${designs.length} designs you kept, white on black and black on white, in a random order. No picture sits beside or under one in the same design, the colours alternate, and the same myth or symbol never comes back within six pictures. Shuffle for a new order; tap a picture to see which one it is.</p>
     <div class="controls">
       <button type="button" class="shuffle" id="shuffle">Shuffle</button>
       <div class="pills" role="group" aria-label="Colours" id="inks"></div>

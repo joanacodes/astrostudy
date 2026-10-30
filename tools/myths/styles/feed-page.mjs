@@ -29,7 +29,8 @@ for (const name of FEED) {
 }
 
 // what each tile says: a myth under the place in the chart it stands for; a symbol over the words the site describes it
-// with, under the heading of its group
+// with, under the heading of its group; an aspect under its angle
+const SYMBOL_COLUMNS = '.sheet { grid-template-columns: repeat(6, minmax(0, 1fr)); }\n@media (max-width: 980px) { .sheet { grid-template-columns: repeat(4, minmax(0, 1fr)); } }\n@media (max-width: 760px) { .sheet { grid-template-columns: repeat(3, minmax(0, 1fr)); } }';
 const SETS = {
   myths: {
     noun: 'myth',
@@ -44,15 +45,24 @@ const SETS = {
   },
   symbols: {
     noun: 'symbol',
-    every: 'The symbols of the 12 signs, the 12 celestials (the Sun, the Moon, the planets, Chiron and Black Moon Lilith) and the 5 aspects, as the site draws them,',
-    named: 'named after the sign, the body or the aspect',
+    every: 'The symbols of the 12 signs and the 12 celestials (the Sun, the Moon, the planets, Chiron and Black Moon Lilith), as the site draws them,',
+    named: 'named after the sign or the body',
     example: 'aries',
-    tile: (f) => ({ title: f.name, about: f.about, alt: `the symbol of ${f.name}`, group: { signs: 'Signs', aspects: 'Aspects' }[f.family] ?? 'Celestials' }),
-    // the celestials and the signs are twelve each: six, four, three or two across, so each fills its rows and the next
-    // group starts on a new one; the five aspects come last
+    tile: (f) => ({ title: f.name, about: f.about, alt: `the symbol of ${f.name}`, group: f.family === 'signs' ? 'Signs' : 'Celestials' }),
+    // twelve in a group: six, four, three or two across, so each group fills its rows and the next starts on a new one
     across: 6,
-    columns: '.sheet { grid-template-columns: repeat(6, minmax(0, 1fr)); }\n@media (max-width: 980px) { .sheet { grid-template-columns: repeat(4, minmax(0, 1fr)); } }\n@media (max-width: 760px) { .sheet { grid-template-columns: repeat(3, minmax(0, 1fr)); } }',
-    extra: ' They are the symbols of the site&rsquo;s own symbol font, Noto Sans Symbols, drawn heavier; the symbols of the Sun, the sextile, the square and the trine are not in that font, so they are drawn to match.',
+    columns: SYMBOL_COLUMNS,
+    extra: ' They are the symbols of the site&rsquo;s own symbol font, Noto Sans Symbols, drawn heavier; the Sun&rsquo;s is not in that font, so it is drawn to match.',
+  },
+  aspects: {
+    noun: 'aspect',
+    every: 'The symbols of the 11 aspects, from the conjunction to the opposition,',
+    named: 'named after the aspect',
+    example: 'trine',
+    tile: (f) => ({ kicker: f.angle, title: f.name, about: f.about, alt: `the symbol of the ${f.name.toLowerCase()}` }),
+    across: 6,
+    columns: SYMBOL_COLUMNS,
+    extra: ' The conjunction and the opposition come from the site&rsquo;s own symbol font, Noto Sans Symbols, drawn heavier; the others are not in it, so they are drawn to match, and the quintile and the biquintile are written Q and bQ in the site&rsquo;s sans, Inter. The minor aspects have no encyclopaedia entries yet, so their captions only describe the symbols.',
   },
 };
 const set = SETS[setName];

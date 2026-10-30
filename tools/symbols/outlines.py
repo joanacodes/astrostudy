@@ -25,7 +25,20 @@ CELESTIALS = ['sun', 'moon', 'mercury', 'venus', 'mars', 'jupiter', 'saturn', 'u
               'black-moon-lilith']
 SIGNS = ['aries', 'taurus', 'gemini', 'cancer', 'leo', 'virgo', 'libra', 'scorpio', 'sagittarius', 'capricorn',
          'aquarius', 'pisces']
-ASPECTS = ['conjunction', 'sextile', 'square', 'trine', 'opposition']
+# the aspects in the order of their angles, from 0 to 180 degrees
+ASPECTS = ['conjunction', 'semi-sextile', 'semi-square', 'sextile', 'quintile', 'square', 'trine', 'sesquiquadrate',
+           'biquintile', 'quincunx', 'opposition']
+# The minor aspects have pages in the site plan but no encyclopaedia entries yet, so their names and symbols are given
+# here; once an entry is written, entry() reads it instead. The quintiles have no symbol in Unicode: astrologers write
+# them Q and bQ, set here in the site's own sans.
+UNWRITTEN = {
+    'semi-sextile': ('Semi-sextile', '⚺', 'a V standing on a line', '30°'),
+    'semi-square': ('Semi-square', '∠', 'a sharp angle, open to the right', '45°'),
+    'quintile': ('Quintile', 'Q', 'the letter Q', '72°'),
+    'sesquiquadrate': ('Sesquiquadrate', '⚼', 'a square over a hooked line', '135°'),
+    'biquintile': ('Biquintile', 'bQ', 'the letters b and Q', '144°'),
+    'quincunx': ('Quincunx', '⚻', 'an upturned V hanging from a line', '150°'),
+}
 SIZE = 700    # the longer side of every symbol on the canvas, about the height of a standing myth figure
 WEIGHT = 78   # the stroke every symbol is brought to: broad enough for a mosaic's stones or a paper cut's stars
 STEP = 3      # curves are drawn as straight runs this long (in font units), too short to see
@@ -82,6 +95,26 @@ def polygon(n, r, first, clockwise):
             for i in range(n)]
 
 
+def stroke(*points):
+    """A stroke WEIGHT wide along the points, square-ended and mitred at its corners, which keeps them sharp, as the
+    font's are. Each corner's point lies the half-weight from both edges that meet there."""
+    normals = []
+    for (x0, y0), (x1, y1) in zip(points, points[1:]):
+        d = math.dist((x0, y0), (x1, y1))
+        normals.append(((y0 - y1) / d, (x1 - x0) / d))  # to the left of the way it runs, y upwards
+
+    def side(k):
+        edge = []
+        for i, (x, y) in enumerate(points):
+            a, b = normals[max(0, i - 1)], normals[min(i, len(normals) - 1)]
+            f = k * WEIGHT / 2 / (1 + a[0] * b[0] + a[1] * b[1])
+            edge.append((x + (a[0] + b[0]) * f, y + (a[1] + b[1]) * f))
+        return edge
+
+    # along its left edge and back along its right: clockwise, like an outline of the font
+    return side(1) + side(-1)[::-1]
+
+
 def bar(length, angle):
     """A straight stroke WEIGHT wide with square ends, through the origin at `angle` degrees."""
     c, s = math.cos(math.radians(angle)), math.sin(math.radians(angle))
@@ -100,21 +133,52 @@ DRAWN = {
     '△': lambda: [polygon(3, TRINE, 90, True), polygon(3, TRINE - 2 * WEIGHT, 90, False)],
     # upright and at sixty degrees either side, square-ended like the font's strokes
     '⚹': lambda: [bar(640, 90), bar(640, 30), bar(640, 150)],
+    # a V standing on a line; the quincunx is the same turned over
+    '⚺': lambda: [stroke((-210, 280), (0, -250)), stroke((210, 280), (0, -250)), stroke((-270, -250), (270, -250))],
+    '⚻': lambda: [stroke((-210, -280), (0, 250)), stroke((210, -280), (0, 250)), stroke((-270, 250), (270, 250))],
+    # forty-five degrees, with a sharp corner; an open shape, so as wide as the font's symbols
+    '∠': lambda: [stroke((300, -200), (-300, -200), (150, 250))],
+    # a square, and a line rising into it from a foot below, as the sesquiquadrate is usually drawn
+    '⚼': lambda: [[(-210, -60), (-210, 360), (210, 360), (210, -60)], [(-132, 18), (132, 18), (132, 282), (-132, 282)],
+                  stroke((0, 150), (0, -200), (210, -200))],
 }
+# The quintiles' letters, in the site's own sans (Inter): Q about as large as the ring of the Sun; bQ, two letters side
+# by side, wider than the other symbols and lighter, or the bowls of the b and the Q would close up at that size.
+LETTERS = TTFont(ROOT / 'static/fonts/inter-normal-latin.woff2')
+LETTERED = {'Q': (640, WEIGHT), 'bQ': (760, 64)}
+
+
+def lettered(text):
+    """The contours of the text in Inter, its letters set side by side by their widths."""
+    glyph_set, letters = LETTERS.getGlyphSet(), LETTERS.getBestCmap()
+    x, contours = 0, []
+    for ch in text:
+        g = glyph_set[letters[ord(ch)]]
+        pen = Flatten(glyph_set)
+        g.draw(pen)
+        contours += [[(px + x, py) for px, py in c] for c in pen.contours]
+        x += g.width
+    return contours
 
 
 def entry(slug):
-    """The symbol's name, glyph, description and family (signs, planets, …), as its encyclopaedia entry gives them."""
-    text = (ROOT / 'content/en/astrology' / f'{slug}.md').read_text(encoding='utf-8')
+    """The symbol's name, glyph, description and family (signs, planets, …), and an aspect's angle, as its encyclopaedia
+    entry gives them."""
+    source = ROOT / 'content/en/astrology' / f'{slug}.md'
+    if not source.exists():
+        name, glyph, about, angle = UNWRITTEN[slug]
+        return {'name': name, 'glyph': glyph, 'about': about, 'family': 'aspects', 'angle': angle}
+    text = source.read_text(encoding='utf-8')
     front = yaml.safe_load(text.split('---')[1])
-    symbol = next(f['v'] for f in front['facts'] if f['k'] == 'Symbol')
-    return {'name': front['title'], 'glyph': front['glyph'], 'about': symbol.split(' — ', 1)[1], 'family': front['family']}
+    facts = {f['k']: f['v'] for f in front['facts']}
+    found = {'name': front['title'], 'glyph': front['glyph'], 'about': facts['Symbol'].split(' — ', 1)[1], 'family': front['family']}
+    return {**found, 'angle': facts['Angle']} if 'Angle' in facts else found
 
 
-def outline(contours, size):
+def outline(contours, size, weight=WEIGHT):
     """The contours fitted to `size` and centred on the canvas, as path data; the same with the counters (the holes in
     rings and loops) filled, for a design that sets a halo round the symbol; and the grow that brings their strokes to
-    WEIGHT. The stroke they have is measured as twice their area over their perimeter: a stroke w wide and L long has
+    `weight`. The stroke they have is measured as twice their area over their perimeter: a stroke w wide and L long has
     an area of wL and a perimeter of about 2L."""
     xs = [x for c in contours for x, _ in c]
     ys = [y for c in contours for _, y in c]
@@ -130,7 +194,7 @@ def outline(contours, size):
     # a counter runs the other way round from the outline it sits in, and the largest contour is always an outline
     outer = math.copysign(1, max(areas, key=abs))
     solid = [c for c, a in zip(contours, areas) if math.copysign(1, a) == outer]
-    return path(contours), path(solid), round(max(0.0, WEIGHT - stroke), 1)
+    return path(contours), path(solid), round(max(0.0, weight - stroke), 1)
 
 
 font = TTFont(ROOT / 'static/fonts/noto-sans-symbols-astro.woff2')
@@ -151,6 +215,9 @@ for slug in CELESTIALS + SIGNS + ASPECTS:
                    max(y for c in contours for _, y in c) - min(y for c in contours for _, y in c))
         s['d'], s['solid'], _ = outline(contours, span)
         s['grow'] = 0
+    elif s['glyph'] in LETTERED:
+        size, weight = LETTERED[s['glyph']]
+        s['d'], s['solid'], s['grow'] = outline(lettered(s['glyph']), size, weight)
     else:
         raise SystemExit(f'{slug}: {s["glyph"]} is not in the symbol font')
     symbols.append(s)
