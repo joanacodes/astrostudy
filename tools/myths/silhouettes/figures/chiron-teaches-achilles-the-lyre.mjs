@@ -1,5 +1,4 @@
-// Chiron teaching Achilles the lyre, after the Roman fresco from the Basilica at Herculaneum (Naples,
-// Museo Archeologico Nazionale): the old centaur bends over the boy and guides his hand on the strings.
+// After the Roman fresco of Chiron teaching Achilles the lyre, from the Basilica at Herculaneum (Naples, Museo Archeologico Nazionale).
 import * as kit from '../lib.mjs';
 
 export const slug = 'chiron-teaches-achilles-the-lyre';
@@ -8,7 +7,6 @@ export const astrology = 'Chiron';
 
 // the figure is laid out on the canvas as below, then moved (and scaled about the centre) by FIT to sit in the middle
 const FIT = { dx: 44, dy: -83, s: 1.2 };
-
 const fit = ([x, y]) => [500 + (x - 500) * FIT.s + FIT.dx, 500 + (y - 500) * FIT.s + FIT.dy];
 const blob = (pts, t) => kit.blob(pts.map(fit), t);
 const poly = (pts) => kit.poly(pts.map(fit));
@@ -21,12 +19,6 @@ const chain = (js) => kit.chain(js.map(([x, y, r]) => [...fit([x, y]), r * FIT.s
 const rad = (d) => (d * Math.PI) / 180;
 const ang = (p, q) => (Math.atan2(q[1] - p[1], q[0] - p[0]) * 180) / Math.PI;
 
-// points (or [x, y, r] joints) turned about a pivot; positive degrees lift the front (right) up
-function turn(pts, cx, cy, deg) {
-  const c = Math.cos(rad(deg));
-  const s = Math.sin(rad(deg));
-  return pts.map(([x, y, ...rest]) => [cx + (x - cx) * c + (y - cy) * s, cy - (x - cx) * s + (y - cy) * c, ...rest]);
-}
 
 // an outline drawn in the frame of a bone from joint a to joint b: v runs 0 → 1 down the bone, u across it
 // (positive = the front of the limb), both in units of the bone's length
@@ -160,18 +152,19 @@ function lyre(x, y, H, deg) {
 }
 
 export function draw() {
-  // Chiron's horse body, standing, laid out in units of its height at the withers (its back a little short,
-  // as the sculptors gave it, so the horse does not outweigh the man)
+  // Chiron's horse body, standing, laid out in units of its height at the withers, x forward from the withers and
+  // y up from the ground; the back is shortened a little so the horse does not outweigh the man
   const W = 380;
   const P = (x, y) => [470 + (x < 0 ? 0.88 * x : x) * W, 890 - y * W];
   const T = (pts) => pts.map(([x, y]) => P(x, y));
+  // the boy's head height: he stands about seven heads tall
   const h = 58;
 
   return [
     // the tail falling from the croup in a long curve, swinging out at the end
     strand([P(-0.74, 0.94), [186, 585], [170, 640], [160, 700], [156, 760], [142, 805]], 17, 5),
-    strand([P(-0.77, 0.9), [192, 605], [182, 660], [178, 720], [182, 775]], 15, 5),
-    // far legs: the foreleg set back, the hind leg forward under the belly
+    strand([P(-0.77, 0.9), [192, 605], [182, 660], [174, 720], [166, 778]], 16, 6),
+    // far legs: the foreleg set back, the hind leg taking the weight under the belly
     foreleg(P(0.04, 0.58), P(0.0, 0.29), P(-0.02, 0.115), P(0.02, 0.055), W),
     hindleg(P(-0.58, 0.6), 0.14 * W, P(-0.63, 0.37), P(-0.6, 0.115), P(-0.56, 0.055), W),
     // Chiron's torso and the horse's body in one sweep
@@ -180,12 +173,10 @@ export function draw() {
         [-0.795, 0.85], [-0.8, 0.76], [-0.78, 0.66], [-0.7, 0.58], [-0.52, 0.6], [-0.45, 0.625], [-0.3, 0.575],
         [-0.12, 0.545], [0.0, 0.54], [0.05, 0.555], [0.14, 0.6], [0.205, 0.72], [0.215, 0.84]]),
       [564, 532], [574, 498], [578, 468], [588, 442], [602, 418], [608, 394], [602, 368], [574, 342]]),
-
     // his far hand set on his hip, the elbow out behind
     chain([[504, 372, 20], [445, 428, 14], [488, 470, 11]]),
-    // near legs: the foreleg square under the chest, the hind leg set back
+    // near legs: the foreleg square under the chest, the hind leg at rest, its hoof tipped on the toe
     foreleg(P(0.11, 0.58), P(0.12, 0.29), P(0.12, 0.115), P(0.16, 0.055), W),
-
     hindleg(P(-0.68, 0.6), 0.14 * W, P(-0.76, 0.38), P(-0.7, 0.15), P(-0.675, 0.075), W),
     // Chiron's neck and long-bearded head, bent to look down at the boy
     limb(552, 345, 21, 562, 315, 19),
@@ -200,8 +191,6 @@ export function draw() {
     // his arms: the far one holding the lyre out, the near one plucking the strings
     chain([[634, 566, 13], [672, 592, 10], [704, 590, 8]]),
     chain([[626, 568, 14.5], [642, 630, 11], [690, 624, 8.5]]),
-
-
     // the lyre
     lyre(714, 648, 150, 10),
     // Chiron's arm reaching over the boy to guide the lyre
