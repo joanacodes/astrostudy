@@ -2,8 +2,10 @@
 // caption. Meanings follow the AGS definition library (ags-v2, knowledge/vocabulary and its glossary): a planet is a
 // function, a sign the manner of it, a house its context, an aspect a relationship between two functions, and no post
 // gives a sign, house or aspect a quality the library lists as not inherent to it (Scorpio is not vengeful, the 8th
-// house is not death, a trine is not luck). Readings and the test are described from the site's own pages; the sky's
-// times are computed.
+// house is not death, a trine is not luck). Every myth, piece of history or computed time carries its exact source
+// (author, work, book or line), and "modern astrology" is always "modern tropical astrology" (the owner's rules, the
+// same the Studio follows: ags-v2 docs/decisions/ADR-0011). Readings and the test are described from the site's own
+// pages.
 //
 // Times of the new and full moons: Meeus, Astronomical Algorithms, ch. 49 (to the minute); the place of the Sun
 // and Moon, and the Sun's entry into Sagittarius: ch. 25 (to a few minutes, hence "around"). Local times: Paris on CET, London on GMT, New York on EST (summer time ended 1 November 2026),
@@ -24,7 +26,7 @@ export const POSTS = [
     caption: `New Moon in Scorpio · Monday 9 November, 07:02 UTC
 (08:02 in Paris, 07:02 in London, 02:02 in New York, 18:02 in Sydney)
 
-The Moon catches up with the Sun at 16°53′ Scorpio. A new moon is the dark start of the lunar month: the Moon passes between us and the Sun, and its lit side faces away from us.
+The Moon catches up with the Sun at 16°53′ Scorpio, in the tropical zodiac. A new moon is the dark start of the lunar month: the Moon passes between us and the Sun, and its lit side faces away from us.
 
 Scorpio colours whatever it touches with depth: it looks beneath the surface for what is really there, and changes form without losing what matters. A good week to write with these:
 
@@ -33,6 +35,8 @@ Scorpio colours whatever it touches with depth: it looks beneath the surface for
 3. Whom do I trust, and how did they earn it?
 
 Then write one intention. Keep it short, and keep it somewhere you'll see it when the Moon is full, on 24 November.
+
+Source for the times: computed with Jean Meeus, Astronomical Algorithms, 2nd ed. (1998), ch. 25 and 49.
 
 #newmoon #scorpioseason #astrology #newmoonintentions`,
   },
@@ -49,11 +53,13 @@ Then write one intention. Keep it short, and keep it somewhere you'll see it whe
     alt: 'A woodcut of a scorpion, claws raised and tail curled, with rays cut all around it, printed in white on electric blue. Below: Why is Scorpio a scorpion? The myth behind the sign.',
     caption: `Why is Scorpio a scorpion?
 
-In one Greek telling, Orion the hunter boasted that he would kill every animal on earth. Gaia, the Earth herself, sent a scorpion to stop him, and its sting killed him. In another, it is Artemis who sends it.
+In the version Pseudo-Eratosthenes credits to Hesiod, Orion the hunter threatened to kill every animal on earth, and Earth sent a huge scorpion that stung him to death. At the prayer of Artemis and Leto, Zeus set Orion among the stars for his courage, and the scorpion too, as a memorial (Catasterismi 32, Orion; 7, the Scorpion).
 
-Both were set among the stars, on opposite sides of the sky, and they are still kept apart: as Scorpius rises in the east, Orion sets in the west.
+Aratus tells it differently: Orion attacked Artemis while hunting on Chios, and she sent the scorpion. That is why, he writes, Orion flees when the Scorpion rises (Phaenomena 634–646). The sky agrees: as Scorpius rises in the east, Orion sets in the west.
 
-In astrology, Scorpio is the eighth sign: fixed water, ruled by Pluto in modern astrology and by Mars in the tradition. The Sun crosses it from about 23 October to 21 November. In a birth chart, a planet in Scorpio works with depth and intensity: it looks for the truth beneath appearances, and it can transform and regenerate.
+In tropical astrology, Scorpio is the eighth sign: fixed water, ruled by Pluto in modern tropical astrology and by Mars in traditional astrology (Ptolemy, Tetrabiblos I.17). The Sun crosses it from about 23 October to 21 November. In a birth chart, a planet in Scorpio works with depth and intensity: it looks for the truth beneath appearances, and it can transform and regenerate.
+
+Sources: Pseudo-Eratosthenes, Catasterismi 7 and 32; Aratus, Phaenomena 634–646; Ptolemy, Tetrabiblos I.17.
 
 #scorpio #scorpioseason #mythology #astrology`,
   },
@@ -98,7 +104,7 @@ To order, the link is in my bio.
     caption: `Full Moon in Gemini · Tuesday 24 November, 14:53 UTC
 (15:53 in Paris, 14:53 in London, 09:53 in New York, 01:53 on the 25th in Sydney)
 
-The Moon stands opposite the Sun, at 2°20′ Gemini, and its whole lit face turns towards us. The new moon of 9 November began this cycle; the full moon is its turning point.
+The Moon stands opposite the Sun, at 2°20′ Gemini in the tropical zodiac, and its whole lit face turns towards us. The new moon of 9 November began this cycle; the full moon is its turning point.
 
 Gemini colours things with curiosity: it compares, connects, exchanges and keeps several perspectives in play at once. Three questions to write with:
 
@@ -107,6 +113,8 @@ Gemini colours things with curiosity: it compares, connects, exchanges and keeps
 3. What am I saying yes to out of habit?
 
 Then choose one thing to let go of before the next new moon.
+
+Source for the times: computed with Jean Meeus, Astronomical Algorithms, 2nd ed. (1998), ch. 25 and 49.
 
 #fullmoon #geminifullmoon #astrology #fullmoonritual`,
   },
@@ -123,16 +131,18 @@ Then choose one thing to let go of before the next new moon.
       moons: [[205, 420, 34, -20], [870, 470, 26, 160]],
       kicker: 'From Sunday 22 November',
       title: ['Sagittarius season'],
-      text: 'Sagittarius is the ninth sign of the zodiac, a mutable fire sign ruled by Jupiter; the Sun crosses it from about 22 November to 21 December. A planet in Sagittarius works by exploring, learning and looking for meaning: it takes the wider view and connects ideas into a whole.',
+      text: 'Sagittarius is the ninth sign of the tropical zodiac, a mutable fire sign ruled by Jupiter; the Sun crosses it from about 22 November to 21 December. A planet in Sagittarius works by exploring, learning and looking for meaning: it takes the wider view and connects ideas into a whole.',
     },
     alt: 'A large paper-cut Sagittarius glyph, an arrow crossed near its tail, drawn in pale periwinkle on chartreuse with hand-drawn stars and crescent moons. In the middle: From Sunday 22 November, Sagittarius season.',
     caption: `Sagittarius season begins · Sunday 22 November
 
-The Sun moves from Scorpio into Sagittarius around 07:20 UTC (08:20 in Paris) and stays there until 21 December.
+The Sun moves from Scorpio into Sagittarius in the tropical zodiac around 07:20 UTC (08:20 in Paris) and stays there until 21 December.
 
-Sagittarius is the ninth sign of the zodiac: mutable fire, ruled by Jupiter. A planet in Sagittarius works by exploring, learning and looking for meaning: it takes the wider view and connects ideas into a whole. Exploring is not recklessness, and vision is not dogmatism.
+Sagittarius is the ninth sign of the tropical zodiac: mutable fire, ruled by Jupiter. A planet in Sagittarius works by exploring, learning and looking for meaning: it takes the wider view and connects ideas into a whole. Exploring is not recklessness, and vision is not dogmatism.
 
 Look for ♐ in your chart: every planet you have there takes on this way of working.
+
+Source for the time: computed with Jean Meeus, Astronomical Algorithms, 2nd ed. (1998), ch. 25; given to the nearest few minutes.
 
 #sagittariusseason #sagittarius #astrology #zodiac`,
   },
@@ -222,11 +232,13 @@ And a sign never acts on its own: it colours how a planet works, in a house, in 
     alt: 'A woodcut of a centaur drawing his bow, with rays cut all around him, printed in white on electric blue. Below: Why is Sagittarius a centaur? The myth behind the sign.',
     caption: `Why is Sagittarius a centaur?
 
-The archer is older than the Greeks. In Babylon, the god Pabilsag was carved on boundary stones as an archer with wings, a horse's body and a scorpion's tail.
+The constellation is older than the Greeks: the Babylonian star list MUL.APIN already names it, as Pabilsag, among the stars in the path of the Moon (tablet I, column iv, lines 31–39).
 
-The Greeks kept the bow and the horse: a centaur, his arrow drawn towards the heart of the Scorpion, next to him in the sky. Some said he was Chiron, the wise centaur who taught heroes; others gave Chiron a constellation of his own, the Centaur.
+The Greeks and Romans weren't sure he was a centaur. Hyginus writes that many call him the Centaur and others deny it, and tells of Crotus, son of Eupheme, the Muses' nurse: the Muses asked Jupiter to set him among the stars, and he was given a horse's flanks because he rode a great deal (De Astronomia 2.27; the same story is in Pseudo-Eratosthenes, Catasterismi 28). Chiron, the wise centaur, has a constellation of his own: the Centaur (Catasterismi 40; De Astronomia 2.38).
 
-In astrology, Sagittarius is the ninth sign: mutable fire, ruled by Jupiter, crossed by the Sun from about 22 November to 21 December. A planet in Sagittarius works by exploring, learning and looking for meaning.
+In tropical astrology, Sagittarius is the ninth sign: mutable fire, ruled by Jupiter, crossed by the Sun from about 22 November to 21 December. A planet in Sagittarius works by exploring, learning and looking for meaning.
+
+Sources: MUL.APIN I iv 31–39, ed. H. Hunger and J. Steele, The Babylonian Astronomical Compendium MUL.APIN (2019); Hyginus, De Astronomia 2.27 and 2.38; Pseudo-Eratosthenes, Catasterismi 28 and 40.
 
 #sagittarius #sagittariusseason #mythology #astrology`,
   },
@@ -315,7 +327,7 @@ Tell me yours below. Don't know your Rising sign? It needs your birth time: it's
 .
 .
 
-Pisces ♓: two fish, tied together. Pisces is the twelfth and last sign of the zodiac, mutable water, ruled by Neptune in modern astrology and by Jupiter in the tradition. A planet in Pisces works through imagination, empathy and compassion: it senses how everything connects. Empathy is not a lack of boundaries.
+Pisces ♓: two fish, tied together. In tropical astrology, Pisces is the twelfth and last sign: mutable water, ruled by Neptune in modern tropical astrology and by Jupiter in traditional astrology (Ptolemy, Tetrabiblos I.17). A planet in Pisces works through imagination, empathy and compassion: it senses how everything connects. Empathy is not a lack of boundaries.
 
 #pisces #astrology #zodiacquiz #guessthesign`,
   },

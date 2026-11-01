@@ -10,10 +10,12 @@ A woodcut of a centaur drawing his bow, with rays cut all around him, printed in
 
 Why is Sagittarius a centaur?
 
-The archer is older than the Greeks. In Babylon, the god Pabilsag was carved on boundary stones as an archer with wings, a horse's body and a scorpion's tail.
+The constellation is older than the Greeks: the Babylonian star list MUL.APIN already names it, as Pabilsag, among the stars in the path of the Moon (tablet I, column iv, lines 31–39).
 
-The Greeks kept the bow and the horse: a centaur, his arrow drawn towards the heart of the Scorpion, next to him in the sky. Some said he was Chiron, the wise centaur who taught heroes; others gave Chiron a constellation of his own, the Centaur.
+The Greeks and Romans weren't sure he was a centaur. Hyginus writes that many call him the Centaur and others deny it, and tells of Crotus, son of Eupheme, the Muses' nurse: the Muses asked Jupiter to set him among the stars, and he was given a horse's flanks because he rode a great deal (De Astronomia 2.27; the same story is in Pseudo-Eratosthenes, Catasterismi 28). Chiron, the wise centaur, has a constellation of his own: the Centaur (Catasterismi 40; De Astronomia 2.38).
 
-In astrology, Sagittarius is the ninth sign: mutable fire, ruled by Jupiter, crossed by the Sun from about 22 November to 21 December. A planet in Sagittarius works by exploring, learning and looking for meaning.
+In tropical astrology, Sagittarius is the ninth sign: mutable fire, ruled by Jupiter, crossed by the Sun from about 22 November to 21 December. A planet in Sagittarius works by exploring, learning and looking for meaning.
+
+Sources: MUL.APIN I iv 31–39, ed. H. Hunger and J. Steele, The Babylonian Astronomical Compendium MUL.APIN (2019); Hyginus, De Astronomia 2.27 and 2.38; Pseudo-Eratosthenes, Catasterismi 28 and 40.
 
 #sagittarius #sagittariusseason #mythology #astrology

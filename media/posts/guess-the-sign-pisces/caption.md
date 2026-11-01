@@ -14,6 +14,6 @@ Which sign is this? Guess in the comments before you read on.
 .
 .
 
-Pisces ♓: two fish, tied together. Pisces is the twelfth and last sign of the zodiac, mutable water, ruled by Neptune in modern astrology and by Jupiter in the tradition. A planet in Pisces works through imagination, empathy and compassion: it senses how everything connects. Empathy is not a lack of boundaries.
+Pisces ♓: two fish, tied together. In tropical astrology, Pisces is the twelfth and last sign: mutable water, ruled by Neptune in modern tropical astrology and by Jupiter in traditional astrology (Ptolemy, Tetrabiblos I.17). A planet in Pisces works through imagination, empathy and compassion: it senses how everything connects. Empathy is not a lack of boundaries.
 
 #pisces #astrology #zodiacquiz #guessthesign

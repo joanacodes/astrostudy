@@ -10,10 +10,12 @@ A large paper-cut Sagittarius glyph, an arrow crossed near its tail, drawn in pa
 
 Sagittarius season begins · Sunday 22 November
 
-The Sun moves from Scorpio into Sagittarius around 07:20 UTC (08:20 in Paris) and stays there until 21 December.
+The Sun moves from Scorpio into Sagittarius in the tropical zodiac around 07:20 UTC (08:20 in Paris) and stays there until 21 December.
 
-Sagittarius is the ninth sign of the zodiac: mutable fire, ruled by Jupiter. A planet in Sagittarius works by exploring, learning and looking for meaning: it takes the wider view and connects ideas into a whole. Exploring is not recklessness, and vision is not dogmatism.
+Sagittarius is the ninth sign of the tropical zodiac: mutable fire, ruled by Jupiter. A planet in Sagittarius works by exploring, learning and looking for meaning: it takes the wider view and connects ideas into a whole. Exploring is not recklessness, and vision is not dogmatism.
 
 Look for ♐ in your chart: every planet you have there takes on this way of working.
+
+Source for the time: computed with Jean Meeus, Astronomical Algorithms, 2nd ed. (1998), ch. 25; given to the nearest few minutes.
 
 #sagittariusseason #sagittarius #astrology #zodiac
