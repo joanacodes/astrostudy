@@ -14,6 +14,6 @@ In one Greek telling, Orion the hunter boasted that he would kill every animal o
 
 Both were set among the stars, on opposite sides of the sky, and they are still kept apart: as Scorpius rises in the east, Orion sets in the west.
 
-In astrology, Scorpio is the eighth sign: fixed water, ruled by Pluto in modern astrology and by Mars in the tradition. The Sun crosses it from about 23 October to 21 November. In a birth chart it shows where you go deep, hold on, and want the truth rather than the surface.
+In astrology, Scorpio is the eighth sign: fixed water, ruled by Pluto in modern astrology and by Mars in the tradition. The Sun crosses it from about 23 October to 21 November. In a birth chart, a planet in Scorpio works with depth and intensity: it looks for the truth beneath appearances, and it can transform and regenerate.
 
 #scorpio #scorpioseason #mythology #astrology

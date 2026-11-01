@@ -10,9 +10,11 @@ White on dark red corduroy: SUN SIGN, what drives you, vs MOON SIGN, what soothe
 
 Sun sign vs Moon sign
 
-Your Sun sign is the one horoscopes use. Astrologers read it as your core purpose and the way you shine: what you are trying to become.
+Your Sun sign is the one horoscopes use. The Sun organizes your identity, vitality and purpose: what gives you direction, and how you express who you are.
 
-Your Moon sign shows what you need to feel safe: your moods, your instincts, the comfort you reach for.
+The Moon regulates how you process feelings: what you need to feel secure, how you bond, and the habits that steady you.
+
+The sign each one is in colours how it does that.
 
 Same chart, two different questions. Which one do you recognise yourself in more?
 

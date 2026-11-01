@@ -1,5 +1,9 @@
 // The feed posts drawn by render.mjs: for each, the layout it uses, the words that go in it, its alt text and its
-// caption. Facts come from the site's own pages (the encyclopaedia, the reading pages) or are computed.
+// caption. Meanings follow the AGS definition library (ags-v2, knowledge/vocabulary and its glossary): a planet is a
+// function, a sign the manner of it, a house its context, an aspect a relationship between two functions, and no post
+// gives a sign, house or aspect a quality the library lists as not inherent to it (Scorpio is not vengeful, the 8th
+// house is not death, a trine is not luck). Readings and the test are described from the site's own pages; the sky's
+// times are computed.
 //
 // Times of the new and full moons: Meeus, Astronomical Algorithms, ch. 49 (to the minute); the place of the Sun
 // and Moon, and the Sun's entry into Sagittarius: ch. 25 (to a few minutes, hence "around"). Local times: Paris on CET, London on GMT, New York on EST (summer time ended 1 November 2026),
@@ -22,10 +26,10 @@ export const POSTS = [
 
 The Moon catches up with the Sun at 16°53′ Scorpio. A new moon is the dark start of the lunar month: the Moon passes between us and the Sun, and its lit side faces away from us.
 
-Scorpio is the sign of depth: where you go deep, hold on, and want the truth rather than the surface. A good week to write with these:
+Scorpio colours whatever it touches with depth: it looks beneath the surface for what is really there, and changes form without losing what matters. A good week to write with these:
 
 1. What am I ready to look at honestly?
-2. What am I holding on to that I could set down?
+2. What lies beneath what I say I want?
 3. Whom do I trust, and how did they earn it?
 
 Then write one intention. Keep it short, and keep it somewhere you'll see it when the Moon is full, on 24 November.
@@ -49,7 +53,7 @@ In one Greek telling, Orion the hunter boasted that he would kill every animal o
 
 Both were set among the stars, on opposite sides of the sky, and they are still kept apart: as Scorpius rises in the east, Orion sets in the west.
 
-In astrology, Scorpio is the eighth sign: fixed water, ruled by Pluto in modern astrology and by Mars in the tradition. The Sun crosses it from about 23 October to 21 November. In a birth chart it shows where you go deep, hold on, and want the truth rather than the surface.
+In astrology, Scorpio is the eighth sign: fixed water, ruled by Pluto in modern astrology and by Mars in the tradition. The Sun crosses it from about 23 October to 21 November. In a birth chart, a planet in Scorpio works with depth and intensity: it looks for the truth beneath appearances, and it can transform and regenerate.
 
 #scorpio #scorpioseason #mythology #astrology`,
   },
@@ -96,7 +100,7 @@ To order, the link is in my bio.
 
 The Moon stands opposite the Sun, at 2°20′ Gemini, and its whole lit face turns towards us. The new moon of 9 November began this cycle; the full moon is its turning point.
 
-Gemini is where you are curious and quick: questions, words, connections, more than one interest at a time. Three questions to write with:
+Gemini colours things with curiosity: it compares, connects, exchanges and keeps several perspectives in play at once. Three questions to write with:
 
 1. Which conversation have I been putting off?
 2. Which idea have I outgrown?
@@ -119,16 +123,16 @@ Then choose one thing to let go of before the next new moon.
       moons: [[205, 420, 34, -20], [870, 470, 26, 160]],
       kicker: 'From Sunday 22 November',
       title: ['Sagittarius season'],
-      text: 'Sagittarius is the ninth sign of the zodiac, a mutable fire sign ruled by Jupiter; the Sun crosses it from about 22 November to 21 December. In a birth chart it shows where you look for meaning, freedom and a wider view: the part of life where you want to explore, learn and believe.',
+      text: 'Sagittarius is the ninth sign of the zodiac, a mutable fire sign ruled by Jupiter; the Sun crosses it from about 22 November to 21 December. A planet in Sagittarius works by exploring, learning and looking for meaning: it takes the wider view and connects ideas into a whole.',
     },
     alt: 'A large paper-cut Sagittarius glyph, an arrow crossed near its tail, drawn in pale periwinkle on chartreuse with hand-drawn stars and crescent moons. In the middle: From Sunday 22 November, Sagittarius season.',
     caption: `Sagittarius season begins · Sunday 22 November
 
 The Sun moves from Scorpio into Sagittarius around 07:20 UTC (08:20 in Paris) and stays there until 21 December.
 
-Sagittarius is the ninth sign of the zodiac: mutable fire, ruled by Jupiter. In a birth chart it shows where you look for meaning, freedom and a wider view: the part of life where you want to explore, learn and believe.
+Sagittarius is the ninth sign of the zodiac: mutable fire, ruled by Jupiter. A planet in Sagittarius works by exploring, learning and looking for meaning: it takes the wider view and connects ideas into a whole. Exploring is not recklessness, and vision is not dogmatism.
 
-Look for ♐ in your chart: the house it falls in is where that search happens for you.
+Look for ♐ in your chart: every planet you have there takes on this way of working.
 
 #sagittariusseason #sagittarius #astrology #zodiac`,
   },
@@ -140,17 +144,19 @@ Look for ♐ in your chart: the house it falls in is where that search happens f
       kicker: 'Word of the week',
       symbol: 'media/symbols/feed/paper-cut/trine--white-transparent.png',
       headline: 'Trine',
-      body: 'An angle of 120° between two planets, usually four signs apart and in the same element: two parts of you that work together without effort.',
+      body: 'An angle of 120°, a third of the zodiac, usually between signs of the same element: two parts of you that flow together and reinforce each other.',
       footer: 'The Astro Study · △ 120°',
     },
-    alt: 'Cream on dark red: Word of the week, a drawn triangle, and the word Trine in a tall narrow serif, with its meaning: an angle of 120° between two planets, two parts of you that work together without effort.',
+    alt: 'Cream on dark red: Word of the week, a drawn triangle, and the word Trine in a tall narrow serif, with its meaning: an angle of 120°, a third of the zodiac, usually between signs of the same element: two parts of you that flow together and reinforce each other.',
     caption: `Word of the week: trine △
 
-A trine is an angle of 120° between two planets, usually four signs apart and in the same element. In a birth chart it shows two parts of you that work together without effort: a natural ease, often a talent.
+A trine is an angle of 120° between two planets: a third of the zodiac. It usually joins two signs of the same element, like Aries and Leo, or Cancer and Pisces.
 
-Astrologers count it the easiest of the aspects. Its one risk is being taken for granted.
+In a birth chart it connects two parts of you through flow: they support and reinforce each other, and each keeps its own nature.
 
-Do you have a trine you lean on without noticing?
+A trine isn't luck. Ease is not a guarantee, and flow is not passivity: left unnoticed, a trine is support you take for granted; used on purpose, it's a strength you can build on.
+
+Which trine in your chart do you lean on without noticing?
 
 #astrology #aspects #trine #learnastrology`,
   },
@@ -170,9 +176,11 @@ Do you have a trine you lean on without noticing?
     alt: 'White on dark red corduroy: SUN SIGN, what drives you, vs MOON SIGN, what soothes you, with a hand-drawn arrow. Below, the Sun and Moon symbols, captioned: your core purpose; what you need to feel safe.',
     caption: `Sun sign vs Moon sign
 
-Your Sun sign is the one horoscopes use. Astrologers read it as your core purpose and the way you shine: what you are trying to become.
+Your Sun sign is the one horoscopes use. The Sun organizes your identity, vitality and purpose: what gives you direction, and how you express who you are.
 
-Your Moon sign shows what you need to feel safe: your moods, your instincts, the comfort you reach for.
+The Moon regulates how you process feelings: what you need to feel secure, how you bond, and the habits that steady you.
+
+The sign each one is in colours how it does that.
 
 Same chart, two different questions. Which one do you recognise yourself in more?
 
@@ -186,16 +194,18 @@ Same chart, two different questions. Which one do you recognise yourself in more
       labels: [['Common myth'], ['Scorpio']],
       statement: ['“scorpios', 'are vengeful.”'],
       flourish: ['not quite.'],
-      note: ['Scorpio remembers, because it takes trust', 'seriously. What looks like a grudge is often', 'a hurt that was never acknowledged.'],
+      note: ['Vengefulness isn’t part of Scorpio. Scorpio', 'is depth and the search for truth: intensity', 'is not aggression, depth is not secrecy.'],
       call: 'Read on',
       colours: { bg: '#1c1311', ink: '#f1ebe1', note: '#cbbcae' },
     },
-    alt: 'Cream on near-black: “scorpios are vengeful.” not quite. Small print: Scorpio remembers, because it takes trust seriously. What looks like a grudge is often a hurt that was never acknowledged.',
+    alt: 'Cream on near-black: “scorpios are vengeful.” not quite. Small print: Vengefulness isn’t part of Scorpio. Scorpio is depth and the search for truth: intensity is not aggression, depth is not secrecy.',
     caption: `“Scorpios are vengeful.” Not quite.
 
-Scorpio remembers, because it takes trust seriously. What looks like a grudge is often a hurt that was never acknowledged, and the rest of the chart says far more about how someone handles it.
+Vengefulness isn't part of Scorpio's meaning, and neither are jealousy, manipulation or secrecy. Scorpio is depth: the search for what lies beneath appearances, transformation, regeneration, resilience.
 
-One sign never sums up a person: the Sun is one placement among many.
+Intensity is not aggression. Depth is not secrecy. Investigation is not manipulation.
+
+And a sign never acts on its own: it colours how a planet works, in a house, in a whole chart. One sign never sums up a person.
 
 #scorpio #scorpioseason #astrology #astrologymyths`,
   },
@@ -216,7 +226,7 @@ The archer is older than the Greeks. In Babylon, the god Pabilsag was carved on 
 
 The Greeks kept the bow and the horse: a centaur, his arrow drawn towards the heart of the Scorpion, next to him in the sky. Some said he was Chiron, the wise centaur who taught heroes; others gave Chiron a constellation of his own, the Centaur.
 
-In astrology, Sagittarius is the ninth sign: mutable fire, ruled by Jupiter, crossed by the Sun from about 22 November to 21 December. In a birth chart it shows where you look for meaning, freedom and a wider view.
+In astrology, Sagittarius is the ninth sign: mutable fire, ruled by Jupiter, crossed by the Sun from about 22 November to 21 December. A planet in Sagittarius works by exploring, learning and looking for meaning.
 
 #sagittarius #sagittariusseason #mythology #astrology`,
   },
@@ -228,13 +238,15 @@ In astrology, Sagittarius is the ninth sign: mutable fire, ruled by Jupiter, cro
       number: '08',
       label: 'The twelve houses',
       headline: ['the 8th', 'house.'],
-      text: 'Intimacy and trust: what you share with others or owe them, and the closeness that changes you.',
+      text: 'Intimacy and trust, what you share and owe with others, and the changes that renew you.',
       picture: 'media/symbols/feed/mosaic/scorpio--white-on-black.png',
     },
-    alt: 'The Scorpio glyph laid in mosaic tiles, warmed to amber and brown. In yellow: 08, The twelve houses, the 8th house. Intimacy and trust: what you share with others or owe them, and the closeness that changes you.',
+    alt: 'The Scorpio glyph laid in mosaic tiles, warmed to amber and brown. In yellow: 08, The twelve houses, the 8th house. Intimacy and trust, what you share and owe with others, and the changes that renew you.',
     caption: `The twelve houses · 08
 
-The 8th house comes just after the house of partners. Tradition gave it death and inheritance; astrologers today read it as intimacy and trust, and what you share with others or owe them: joint money, debts, the closeness that changes you.
+The 8th house comes just after the house of partners. A house is a context: the part of life where a planet works. The 8th is the context of intimacy and trust, of what you share with others or owe them (joint resources, inheritance, shared obligations), and of the transformations that renew you.
+
+It is not a house of death or catastrophe: transformation is not destruction, and depth is not obsession.
 
 It is Scorpio's natural house. Which sign sits on the cusp of your 8th house? You need your birth time to know.
 
@@ -245,13 +257,13 @@ It is Scorpio's natural house. Which sign sits on the cusp of your 8th house? Yo
     postOn: 'Between two picture posts, in Scorpio season',
     layout: 'quietTile',
     words: {
-      line: 'What do I keep to myself, and who would I trust with it?',
+      line: 'What is ready to change in me, and what will I keep through the change?',
       signature: 'The Astro Study · a question for Scorpio season',
     },
-    alt: 'One line in cream italic on olive green: What do I keep to myself, and who would I trust with it?',
+    alt: 'One line in cream italic on olive green: What is ready to change in me, and what will I keep through the change?',
     caption: `A question for Scorpio season, to write with for five minutes. No one has to read it.
 
-What do I keep to myself, and who would I trust with it?
+What is ready to change in me, and what will I keep through the change?
 
 #journalprompts #scorpioseason #selfreflection #astrology`,
   },
@@ -303,7 +315,7 @@ Tell me yours below. Don't know your Rising sign? It needs your birth time: it's
 .
 .
 
-Pisces ♓: two fish, tied together. Pisces is the twelfth and last sign of the zodiac, mutable water, ruled by Neptune in modern astrology and by Jupiter in the tradition. In a birth chart it shows where your edges soften: where you imagine, empathise and let go.
+Pisces ♓: two fish, tied together. Pisces is the twelfth and last sign of the zodiac, mutable water, ruled by Neptune in modern astrology and by Jupiter in the tradition. A planet in Pisces works through imagination, empathy and compassion: it senses how everything connects. Empathy is not a lack of boundaries.
 
 #pisces #astrology #zodiacquiz #guessthesign`,
   },

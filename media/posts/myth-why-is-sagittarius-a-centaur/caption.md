@@ -14,6 +14,6 @@ The archer is older than the Greeks. In Babylon, the god Pabilsag was carved on 
 
 The Greeks kept the bow and the horse: a centaur, his arrow drawn towards the heart of the Scorpion, next to him in the sky. Some said he was Chiron, the wise centaur who taught heroes; others gave Chiron a constellation of his own, the Centaur.
 
-In astrology, Sagittarius is the ninth sign: mutable fire, ruled by Jupiter, crossed by the Sun from about 22 November to 21 December. In a birth chart it shows where you look for meaning, freedom and a wider view.
+In astrology, Sagittarius is the ninth sign: mutable fire, ruled by Jupiter, crossed by the Sun from about 22 November to 21 December. A planet in Sagittarius works by exploring, learning and looking for meaning.
 
 #sagittarius #sagittariusseason #mythology #astrology

@@ -13,7 +13,7 @@ Full Moon in Gemini · Tuesday 24 November, 14:53 UTC
 
 The Moon stands opposite the Sun, at 2°20′ Gemini, and its whole lit face turns towards us. The new moon of 9 November began this cycle; the full moon is its turning point.
 
-Gemini is where you are curious and quick: questions, words, connections, more than one interest at a time. Three questions to write with:
+Gemini colours things with curiosity: it compares, connects, exchanges and keeps several perspectives in play at once. Three questions to write with:
 
 1. Which conversation have I been putting off?
 2. Which idea have I outgrown?

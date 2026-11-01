@@ -12,8 +12,8 @@ Sagittarius season begins · Sunday 22 November
 
 The Sun moves from Scorpio into Sagittarius around 07:20 UTC (08:20 in Paris) and stays there until 21 December.
 
-Sagittarius is the ninth sign of the zodiac: mutable fire, ruled by Jupiter. In a birth chart it shows where you look for meaning, freedom and a wider view: the part of life where you want to explore, learn and believe.
+Sagittarius is the ninth sign of the zodiac: mutable fire, ruled by Jupiter. A planet in Sagittarius works by exploring, learning and looking for meaning: it takes the wider view and connects ideas into a whole. Exploring is not recklessness, and vision is not dogmatism.
 
-Look for ♐ in your chart: the house it falls in is where that search happens for you.
+Look for ♐ in your chart: every planet you have there takes on this way of working.
 
 #sagittariusseason #sagittarius #astrology #zodiac
