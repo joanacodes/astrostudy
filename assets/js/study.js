@@ -160,11 +160,14 @@ export function wireStudy(box) {
     }
   };
 
-  // no birth time: the field steps aside, and isn't asked for
+  // no birth time, no test for now (the owner, 2026-11-02): the field steps aside, the note says why, and the
+  // test can't start until a time is given
+  const unknownNote = form.querySelector('[data-study-unknown-note]');
   const syncTime = () => {
     time.disabled = unknown.checked;
-    time.required = !unknown.checked;
     if (unknown.checked) time.value = '';
+    if (unknownNote) unknownNote.hidden = !unknown.checked;
+    unknown.setCustomValidity(unknown.checked && unknownNote ? unknownNote.textContent.trim() : '');
   };
   unknown.addEventListener('change', syncTime);
   syncTime();
@@ -188,7 +191,7 @@ export function wireStudy(box) {
       name: text('name', 80),
       email: text('email', 254),
       birthDate: text('birthDate', 10),
-      birthTime: unknown.checked ? null : text('birthTime', 5),
+      birthTime: text('birthTime', 5),
       place: { label: place.value.trim().slice(0, 160), country: text('placeCountry', 80), latitude: Number(lat), longitude: Number(lon) },
       length: text('length', 10) || 'medium',
       language: lang,

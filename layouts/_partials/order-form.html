@@ -72,6 +72,8 @@
       <input type="hidden" name="birth_lon" data-place-lon>
       <ul class="place__list" id="{{ $id }}-place-list" role="listbox" aria-label="{{ i18n "placeSuggestions" }}" hidden data-place-list></ul>
     </div>
+    <label class="check"><input type="checkbox" name="birth_time_unknown" data-time-unknown="birth_time"><span>{{ i18n "timeUnknown" }}</span></label>
+    <p class="fine" data-time-unknown-note="birth_time" role="status" hidden>{{ i18n "timeUnknownNote" }}</p>
   </fieldset>
 
   <fieldset class="who" data-pair hidden disabled>
@@ -98,6 +100,8 @@
       <input type="hidden" name="their_birth_lon" data-place-lon>
       <ul class="place__list" id="{{ $id }}-their-place-list" role="listbox" aria-label="{{ i18n "placeSuggestions" }}" hidden data-place-list></ul>
     </div>
+    <label class="check"><input type="checkbox" name="their_birth_time_unknown" data-time-unknown="their_birth_time"><span>{{ i18n "theirTimeUnknown" }}</span></label>
+    <p class="fine" data-time-unknown-note="their_birth_time" role="status" hidden>{{ i18n "timeUnknownNote" }}</p>
   </fieldset>
 
   <div class="field">

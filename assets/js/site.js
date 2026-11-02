@@ -299,6 +299,22 @@ function wireOrder(form) {
   form.addEventListener('change', (e) => {
     if (e.target.name === 'option') sync();
   });
+  // "I don't know my birth time": the time steps aside, the note says why there is no reading yet, and the
+  // order can't go through (the owner's rule, 2026-11-02: no birth time, no reading)
+  for (const box of form.querySelectorAll('[data-time-unknown]')) {
+    const time = form.querySelector(`input[name="${box.dataset.timeUnknown}"]`);
+    const note = form.querySelector(`[data-time-unknown-note="${box.dataset.timeUnknown}"]`);
+    const syncUnknown = () => {
+      if (time) {
+        time.disabled = box.checked;
+        if (box.checked) time.value = '';
+      }
+      if (note) note.hidden = !box.checked;
+      box.setCustomValidity(box.checked && note ? note.textContent.trim() : '');
+    };
+    box.addEventListener('change', syncUnknown);
+    syncUnknown();
+  }
   sync();
   wirePlaces(form);
 

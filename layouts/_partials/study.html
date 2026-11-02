@@ -62,6 +62,7 @@
       </div>
     </div>
     <label class="check"><input type="checkbox" name="timeUnknown" data-study-unknown><span>{{ i18n "studyTimeUnknown" }}</span></label>
+    <p class="fine" data-study-unknown-note role="status" hidden>{{ i18n "studyTimeUnknownNote" }}</p>
     <div class="field place" data-place>
       <label for="study-place">{{ i18n "studyPlace" }}</label>
       <input id="study-place" type="text" name="place" autocomplete="off" maxlength="160" placeholder="{{ i18n "placeHint" }}" required role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="study-place-list" data-place-input>
