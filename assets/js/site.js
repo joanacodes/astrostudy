@@ -299,15 +299,6 @@ function wireOrder(form) {
   form.addEventListener('change', (e) => {
     if (e.target.name === 'option') sync();
   });
-  // "I don't know the time" empties the time beside it and sets it aside
-  for (const box of form.querySelectorAll('[data-time-unknown]')) {
-    const time = form.querySelector(`input[name="${box.dataset.timeUnknown}"]`);
-    box.addEventListener('change', () => {
-      if (!time) return;
-      time.disabled = box.checked;
-      if (box.checked) time.value = '';
-    });
-  }
   sync();
   wirePlaces(form);
 

@@ -13,7 +13,7 @@ h1: "Work better together, <em>without guessing.</em>"
 lede: "For colleagues, co-founders, a manager and their report, two freelancers sharing a project. We look at how you communicate, decide, share the load and handle pressure — so the work gets easier and the friction gets smaller."
 facts:
   - { k: "For", v: "Two adults who both agree" }
-  - { k: "I need", v: "Both birth dates and places — times if you know them" }
+  - { k: "I need", v: "Both birth dates, times and places" }
   - { k: "You receive", v: "A private online reading about how you work together, within a week, by email and as a PDF", param: "format" }
   - { k: "Options", v: "Full reading, or full reading + consulting" }
   - { k: "Price", v: "", param: "priceSynastry" }
@@ -64,7 +64,7 @@ faq:
   - q: "Is it useful for co-founders?"
     a: "It’s one of the best times to look. Before the hard decisions arrive, it helps to know how each of you will want to make them."
   - q: "What if we don’t know our birth times?"
-    a: "Then we leave out the houses and say so. The contacts that matter most at work still read clearly."
+    a: "Then they have to be found first: without both times, there is no reading. [Here’s where to look](/blog/unknown-birth-time/#finding-your-time)."
 
 closing:
   kicker: "For the two of you"

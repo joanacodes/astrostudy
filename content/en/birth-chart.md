@@ -10,7 +10,7 @@ lede: "A birth chart is a picture of the sky at the minute you were born. Read p
 ctaLabel: "Order this reading"
 facts:
   - { k: "For", v: "Adults, 18+" }
-  - { k: "I need", v: "Date and place of birth — and the time, if you know it" }
+  - { k: "I need", v: "Date, time and place of birth" }
   - { k: "You receive", v: "Within a week, by email: a private online reading (notes, highlights) and its PDF", param: "format" }
   - { k: "Options", v: "Full reading, or full reading + consulting" }
   - { k: "Price", v: "", param: "priceBirthChart" }
@@ -44,7 +44,7 @@ steps:
   title: "Four steps"
   items:
     - title: "You enter your birth details"
-      text: "Date, time and place, in the order form. If you don’t know your time, say so: we work with what we have, and I tell you what changes."
+      text: "Date, time and place, in the order form. The time is needed: without it, there is no reading."
     - title: "You pay"
       text: "For the full reading, or the full reading with consulting. Your birth details reach me with your payment, not before."
     - title: "Your reading is prepared"
@@ -67,7 +67,7 @@ care:
 
 faq:
   - q: "I don’t know my birth time. Can I still have a reading?"
-    a: "Yes. Without a time, the rising sign and the houses stay unknown, so I leave them out and tell you so. Everything else — the planets, their signs, and how they speak to each other — still reads well. If you can, ask a parent, or look through old family papers. More in [what changes without a birth time](/blog/unknown-birth-time/)."
+    a: "No. Without the time, the rising sign and the houses — the areas of life your planets speak to — stay unknown, and I don’t read a chart without them. Your birth record may have it: [here’s where to look](/blog/unknown-birth-time/#finding-your-time)."
   - q: "Why only for adults?"
     a: "Because a chart read at the wrong age can become a label you grow into. I don’t read for anyone under 18, and I don’t read about them either."
   - q: "Will it tell me my future?"

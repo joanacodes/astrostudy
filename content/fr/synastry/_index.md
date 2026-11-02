@@ -34,7 +34,7 @@ steps:
     - title: "Vous choisissez le lien"
       text: "Couple, amis, collègues ou famille — chaque lien a sa lecture, et ses propres questions."
     - title: "Vous entrez vos données de naissance, à vous deux, et vous payez"
-      text: "Date, heure et lieu, pour l’une et l’autre personne, dans le formulaire de commande. Les heures aident, mais ne sont pas indispensables — je vous dirai ce qu’on gagne et ce qu’on perd sans elles."
+      text: "Date, heure et lieu, pour l’une et l’autre personne, dans le formulaire de commande. Les deux heures sont indispensables : sans elles, pas de lecture."
     - title: "Les deux thèmes, puis l’espace entre eux"
       text: "D’abord chaque thème séparément, puis la façon dont ils se rencontrent — une lecture préparée avec un système que j’ai construit moi-même, et lue par moi avant d’être envoyée."
     - title: "Vous la recevez sous une semaine"
@@ -55,7 +55,7 @@ care:
 
 faq:
   - q: "Faut-il connaître nos deux heures de naissance ?"
-    a: "Ça aide, mais non. Sans les heures, je laisse les maisons de côté, et je vous le dis. Les contacts entre vos planètes se lisent toujours clairement. Plus de détails dans [ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)."
+    a: "Oui. Sans les deux heures, les maisons restent inconnues — dans chaque thème, et là où chacun tombe dans le thème de l’autre — et je ne lis pas une synastrie sans elles. [Voici où chercher une heure de naissance](/blog/unknown-birth-time/#retrouver-votre-heure)."
   - q: "Allez-vous nous dire si nous sommes compatibles ?"
     a: "Pas sous forme de verdict. Toute relation a des contacts faciles et des contacts durs ; ce qui compte, c’est la façon dont vous les abordez. Vous saurez où ça circule et où faire attention — ce qui est bien plus utile qu’un pourcentage."
   - q: "Puis-je demander une lecture sans que l’autre le sache ?"

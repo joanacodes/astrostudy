@@ -13,7 +13,7 @@ h1: "The patterns <em>we’re born into.</em>"
 lede: "For adult family bonds: a parent and their grown-up child, siblings, in-laws, grandparents. We look at how you were cared for, what you inherited, and how to meet each other as the adults you are now."
 facts:
   - { k: "For", v: "Two adults, 18+" }
-  - { k: "I need", v: "Both birth dates and places — times if you know them" }
+  - { k: "I need", v: "Both birth dates, times and places" }
   - { k: "You receive", v: "A private online reading about the two of you, within a week, by email and as a PDF", param: "format" }
   - { k: "Options", v: "Full reading, or full reading + consulting" }
   - { k: "Price", v: "", param: "priceSynastry" }
