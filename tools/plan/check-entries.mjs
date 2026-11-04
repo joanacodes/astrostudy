@@ -20,7 +20,10 @@ import { frenchTypography } from '../fr-typography.mjs';
 
 const root = new URL('../../', import.meta.url);
 const file = (lang, path) => new URL(`content/${lang}/${path}`, root);
-const MIN_WORDS = { pillar: 900, sign: 900, house: 900, 'aspect-type': 700, concept: 600 };
+const MIN_WORDS = { pillar: 900, sign: 900, house: 900, 'aspect-type': 700, aspect: 500, concept: 600 };
+// a minor aspect says less than a major one, and says it shorter rather than padded
+const MAJOR = new Set(['conjunction', 'sextile', 'square', 'trine', 'opposition']);
+const minWords = (e, id) => (e.kind === 'aspect-type' && !MAJOR.has(id) ? 500 : MIN_WORDS[e.kind] ?? 500);
 
 const unquote = (s) => s.replace(/\\"/g, '"');
 const words = (s) => (s.match(/[\p{L}\p{N}][\p{L}\p{N}’'-]*/gu) || []).length;
@@ -166,7 +169,7 @@ async function check(id, lang, problems) {
   }
 
   const n = words(fm.body.replace(/\]\([^)]*\)|\{#[^}]*\}/g, ''));
-  if (n < (MIN_WORDS[e.kind] ?? 500)) say('warning', `${n} words of text: ${MIN_WORDS[e.kind] ?? 500} or more for a ${e.kind} entry`);
+  if (n < minWords(e, id)) say('warning', `${n} words of text: ${minWords(e, id)} or more for a ${e.kind} entry`);
   for (const pct of fm.body.matchAll(/(\d+)\s?[%]|(\d+)\u202f%/g)) {
     const v = pct[1] ?? pct[2];
     if (!['30', '40', '75', '90'].includes(v)) say('warning', `${v}%: the notebook's figures are 30 to 40% and 75 to 90% — check this one`);

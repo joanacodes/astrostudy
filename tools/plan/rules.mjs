@@ -103,8 +103,21 @@ function house(id) {
   return groups;
 }
 
+// the minor aspects that divide the circle by 5, 7, 9 or 11: the ones harmonic charts are built on
+const HARMONIC = new Set(['quintile', 'biquintile', 'septile', 'biseptile', 'triseptile', 'novile', 'binovile', 'quadnovile', 'decile', 'tredecile', 'undecile']);
+
 function aspectType(id) {
   const w = ASPECT_WORD[id];
+  // a minor aspect has no pages of its own between two planets: it points back to the five major ones
+  if (!w) {
+    return [
+      { section: 'The five major aspects', pages: Object.keys(ASPECT_WORD).map(p) },
+      { section: 'Its neighbours among the minor aspects', pages: (entry(id).across || []).map(p) },
+      { section: 'Orbs', pages: [p('orbs')] },
+      ...(HARMONIC.has(id) ? [{ section: 'Harmonic charts', pages: [p('harmonic-charts')] }] : []),
+      { section: 'In synastry (the readings)', pages: ['/synastry/'] },
+    ];
+  }
   const natal = [];
   const syn = [];
   // the contacts people search for most, in order; only those the plan has (and the geometry allows)
@@ -123,6 +136,25 @@ function aspectType(id) {
     { section: 'In synastry (2+ synastry aspect pages)', need: 2, pages: syn },
     { section: 'In synastry (the readings)', pages: ['/synastry/'] },
     { section: 'In transits (2+ transit pages)', need: 2, pages: transits },
+  ];
+}
+
+// A natal aspect between two bodies ("sun-square-moon"): the two bodies and the aspect it is made of, the
+// same pair's other aspects, the transits of one over the other by this aspect, the same contact between two
+// charts, and an article or How I read.
+function natalAspect(id) {
+  const self = entry(id);
+  const [a, b, type] = self.up;
+  const w = ASPECT_WORD[type];
+  const short = (x) => (x === 'black-moon-lilith' ? 'lilith' : x);
+  const transits = real([p(`transiting-${short(a)}-${w}-natal-${short(b)}`), p(`transiting-${short(b)}-${w}-natal-${short(a)}`)]);
+  const syn = real([p(`${id}-synastry`)]);
+  return [
+    { section: 'The two bodies and the aspect', pages: [a, b, type].map(p) },
+    { section: "The same pair's other aspects", pages: (self.across || []).map(p) },
+    ...(transits.length ? [{ section: 'In transits (1+ transit page)', need: 1, pages: transits }] : []),
+    ...(syn.length ? [{ section: 'The same aspect in synastry', pages: syn }] : []),
+    { section: 'Articles or How I read (1+)', need: 1, pages: [...ARTICLES, '/how-i-read/'] },
   ];
 }
 
@@ -149,7 +181,7 @@ function concept(id) {
 export function rulesFor(id) {
   const self = entry(id);
   if (!self) return null;
-  const make = { pillar, sign, house, 'aspect-type': aspectType, concept }[self.kind];
+  const make = { pillar, sign, house, 'aspect-type': aspectType, aspect: natalAspect, concept }[self.kind];
   if (!make) return null;
   return make(id).map((g) => ({ ...g, pages: real(g.pages), need: g.need ?? real(g.pages).length }));
 }
@@ -186,6 +218,7 @@ export function suggestionsFor(id) {
       `chiron-in-${h}-house`, `lilith-in-${h}-house`, `north-node-in-${h}-house`, `venus-in-${h}-house-synastry`, `saturn-in-${h}-house-synastry`);
   }
   if (self.kind === 'aspect-type') add('orbs', 'applying-and-separating-aspects', 'hard-and-soft-aspects', 'exact-aspects', 'synastry-aspects');
+  if (self.kind === 'aspect') add('orbs', 'applying-and-separating-aspects', 'hard-and-soft-aspects', 'exact-aspects', 'aspect-patterns', 'synastry-aspects', '/birth-chart/');
   out.push('/how-i-read/');
   return [...new Set(out)].filter((x) => x !== self.path);
 }

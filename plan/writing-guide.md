@@ -179,6 +179,35 @@ The angles take the same sections with their own pages: the Ascendant's signs ar
 - **In transits** — 2 or more "Transiting Saturn square natal Sun" pages; *weather, not a forecast*.
 - Facts keys: Angle · Symbol · Signs apart · Orb · Nature · Ptolemaic (yes/no; the conjunction is a meeting rather than one of Ptolemy's four aspects).
 
+### Minor aspect
+
+The same four sections as a major aspect (*What it means · Between which planets · In synastry · In transits*), shorter: 500 words or more, never padded.
+
+- **What it means** — the angle and the share of the circle it is, how tight astrologers keep it (*a degree or two*), and what the AGS library says it does (`semisextile`, `quincunx`, `quintile`… in the library; its definition and what it is not). Link the five major aspects and [Orbs](/astrology/orbs/).
+- **Between which planets** — there are no pages for a minor aspect between two planets: say how it is read between fast and slow bodies, in general, and link its neighbours among the minor aspects.
+- **In synastry** — what it adds between two charts, if anything; `/synastry/`.
+- **In transits** — how briefly it is in orb; *weather, not a forecast*.
+- History only as sourced: Johannes Kepler added the quintile (72°), the biquintile (144°) and the sesquiquadrate (135°) to Ptolemy's aspects (*Harmonices Mundi*, Linz, 1619). The aspects that divide the circle by 5, 7, 9 or 11 are the ones [harmonic charts](/astrology/harmonic-charts/) are built on: link it on those pages. No other origin story.
+- Facts keys: Angle · Symbol (only a symbol in common use; otherwise leave the key out) · Share of the circle · Orb · Nature.
+
+### Natal aspect (two bodies)
+
+| | English | French |
+|---|---|---|
+| 1 | `## What it means {#what-it-means}` | `## Ce qu’il veut dire {#ce-qu-il-veut-dire}` |
+| 2 | `## In a birth chart {#in-a-birth-chart}` | `## Dans un thème natal {#dans-un-theme-natal}` |
+| 3 | `## In transits {#in-transits}` | `## En transit {#en-transit}` |
+
+Title: the plan's (*Sun square Moon* · *Soleil carré Lune*); h1: *Sun square Moon in a birth chart* · *Soleil carré Lune dans un thème natal*; `family: "combinations"`; glyph: the two bodies' symbols around the aspect's (*☉□☽*; Chiron ⚷, Lilith ⚸, North Node ☊); terms: the title in lower case.
+
+- **What it means** — the two functions, as the AGS library defines them, and how this aspect relates them (the library's entry for the aspect: what it does, and what it is never written as: a square is *friction*, never *failure*). Plain words, then what that is like to live with. Link the two bodies and the aspect.
+- **In a birth chart** — how it tends to show; that the signs and houses of the two bodies change it, and the orb how strongly; which of the two moves faster, when that matters. **How common it is**, from `plan/aspect-facts.json`: *about 1 person in 11 is born with it (within 8°)*, said once, with the orb. For two slow bodies, **who has it**: the years from the same file (*born between August 1963 and December 1967*), and that it is then a generation's aspect more than a personal one, read through the houses. Link the same pair's other aspects, one line each, and the same aspect in synastry when the plan has it.
+- **In transits** — the moment a moving body makes this aspect to the other in a birth chart (*transiting Saturn square natal Moon*), linked where the plan has the page; how long it lasts, from the slower body (the *Time in each sign* list below); *weather, not a forecast*.
+- Facts keys: Bodies · Aspect (with its angle) · Nature · How common (the count above) · and for two slow bodies, Born with it (the years). French: Corps · Aspect · Nature · Fréquence · Années de naissance.
+- Sources: the AGS library is not cited by name; cite *Ptolemy, Tetrabiblos, book I* for the five aspects, and *The Astro Study's count from the planets' positions, 1930–2009* (French: *Le décompte de The Astro Study d’après la position des planètes, 1930–2009*) for the count, without an address.
+
+**Not junk, page by page.** Each page answers the question in its title on its own, and holds at least one thing a competitor couldn't have written: the count above, and the library's reading of these two functions. Two pages of the same pair, or of the same aspect, never share a sentence: say what this pair does that another pair wouldn't, and what this aspect does to this pair that another aspect wouldn't. No sentence that would fit any pair with the names swapped.
+
 ### Concept
 
 | | English | French |
