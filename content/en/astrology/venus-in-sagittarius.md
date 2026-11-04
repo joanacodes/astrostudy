@@ -18,13 +18,13 @@ facts:
 related: ["/astrology/venus", "/astrology/sagittarius", "/astrology/jupiter", "/astrology/venus-in-9th-house", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Venus in Sagittarius mean?"
-    a: "That Venus was in Sagittarius when you were born. You tend to value freedom, honesty and meaning, to be drawn to people who widen your world, and to show affection by sharing adventures, ideas and laughter. You need room to breathe in love. Its house shows where that roaming spirit matters most."
+    a: "It means Venus stood in Sagittarius, the sign of the far horizon, at your birth. You tend to value freedom, honesty and meaning, to be drawn to people who widen your world, and to show affection by sharing adventures, ideas and laughter. You need room to breathe in love. Its house shows where that roaming spirit matters most."
   - q: "Can Venus in Sagittarius commit?"
     a: "Yes. What it resists is confinement, not commitment. Sagittarius gives Venus a need for room, honesty and shared growth, so a relationship that keeps moving, with new places, ideas and plans, tends to hold it far better than one that asks it to stand still."
   - q: "What attracts Venus in Sagittarius?"
     a: "Usually frankness, curiosity and a sense of humour, and often someone a little unfamiliar: from another place, another field, another way of seeing. A person who can teach you something, and laugh at themselves while doing it, tends to be very attractive to this Venus."
   - q: "How common is Venus in Sagittarius?"
-    a: "One of the less common Venus signs: about 1 person in 14 born between 1930 and 2009. Venus usually crosses Sagittarius in about 24 days, and in those years no single stay lasted longer than 34, so fewer births fell there than in most signs."
+    a: "Less common than most, at about 1 person in 14 born between 1930 and 2009. Venus tends to cross Sagittarius quickly, in some 24 days, and no stay in those decades went past 34, so it collected fewer births than the signs where Venus turned retrograde."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Jupiter’s rule of Sagittarius, and the signs of Venus" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Venus stays in Sagittarius, and how many people born 1930–2009 have it" }
@@ -36,9 +36,9 @@ Venus in Sagittarius likes what it hasn't met yet. The planet of attraction and 
 
 [Venus](/astrology/venus/) weighs what is worth having and how you relate. [Sagittarius](/astrology/sagittarius/), mutable fire ruled by [Jupiter](/astrology/jupiter/), gives it a roaming, frank and curious manner. You tend to value whatever teaches you something: a language, a country, a person whose life is unlike yours, a book that changes your mind. Honesty ranks high, sometimes above tact.
 
-Venus has no dignity in Sagittarius, so I read it through its manner and its ruler. Jupiter, by sign and house, shows where this Venus goes looking for meaning and growth, the wider view that keeps affection alive for it.
+Sagittarius holds no dignity for Venus, which leaves its ruler to fill in the picture. Jupiter, by sign and house, shows where this Venus goes looking for meaning and growth, the wider view that keeps affection alive for it.
 
-Venus usually crosses Sagittarius in about 24 days, and between 1930 and 2009 no single stay lasted more than 34. That is one reason it ranks among the less common Venus signs, held by about 1 person in 14 born in those years. Your Sun is in Sagittarius or within two signs of it, from Libra to Aquarius.
+Venus moves through Sagittarius briskly, usually in about 24 days, and between 1930 and 2009 no single stay lasted more than 34. That is one reason it ranks among the less common Venus signs, held by about 1 person in 14 born in those years. Your Sun will be found from Libra to Aquarius, never further.
 
 ## In close relationships {#in-close-relationships}
 
@@ -56,4 +56,4 @@ Restlessness, and frankness with nowhere soft to land. You may promise generousl
 
 Find the adventure inside what you have already chosen: a new place together, a new subject, a question you have never asked each other. Keep promises small enough to keep. Before you say the honest thing, ask whether it is also the kind thing, and look for the sentence that is both. And when you need space, ask for it in words, with a date for coming back, so that freedom never has to be taken by leaving.
 
-In [my notebook](/blog/i-tested-my-birth-chart/), Venus held about a third of the time. A Sagittarius Venus prefers an honest number to a flattering one, so here it is plainly: a third is close to what a vague horoscope scores. I read your Venus with that in mind, and I say so whenever a reading leans on it.
+In [my notebook](/blog/i-tested-my-birth-chart/), Venus held about a third of the time. A Sagittarius Venus prefers an honest number to a flattering one, so here it is plainly: a third is close to what a vague horoscope scores. I read your Venus knowing that, and I flag it whenever a reading relies on it.

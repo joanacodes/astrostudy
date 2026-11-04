@@ -18,13 +18,13 @@ facts:
 related: ["/astrology/venus", "/astrology/pisces", "/astrology/exaltation", "/astrology/neptune", "/astrology/jupiter"]
 faq:
   - q: "What does Venus in Pisces mean?"
-    a: "That Venus was in Pisces, the sign of its exaltation, when you were born. You tend to value compassion, imagination and forgiveness, to sense what others feel, and to love without keeping score. Gentleness and meaning matter more to you than display. Its house shows where that tenderness flows most freely."
+    a: "Venus was in Pisces, its exaltation, when you were born. You tend to value compassion, imagination and forgiveness, to sense what others feel, and to love without keeping score. Gentleness and meaning matter more to you than display. Its house shows where that tenderness flows most freely."
   - q: "Is Venus exalted in Pisces?"
     a: "Yes. Tradition places the exaltation of Venus in Pisces, where it is said to be at its strongest, and its fall opposite, in Virgo. I read the strength as range: this Venus can love what is imperfect or hurt and still find it lovely. It needs boundaries to stay well."
   - q: "Who rules Venus in Pisces?"
-    a: "Pisces has two rulers: Neptune in modern tropical astrology, Jupiter in the tradition. I read both. Neptune’s sign and house show how far the compassion of this Venus reaches; Jupiter’s show the meaning and generosity it grows into."
+    a: "Neptune, its ruler in modern tropical astrology, and Jupiter, its traditional ruler; I read both. Neptune’s sign and house show how far the compassion of this Venus reaches; Jupiter’s show the meaning and generosity it grows into."
   - q: "How common is Venus in Pisces?"
-    a: "One of the rarest Venus signs: about 1 person in 14 born between 1930 and 2009. Venus usually crosses Pisces in about 25 days, and in those years it never stayed longer than 30 at a time, so fewer births fell there than in almost any other sign."
+    a: "One of the rarest: about 1 person in 14 born between 1930 and 2009, second only to Libra for scarcity. In those years Venus never stayed in Pisces for more than 30 days at a stretch, and usually for about 25, so fewer births fell there."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the exaltation of Venus in Pisces, and Jupiter as the ruler of Pisces" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Venus stays in Pisces, and how many people born 1930–2009 have it" }
@@ -34,11 +34,11 @@ Venus in Pisces doesn't keep score. Tradition calls Pisces the sign of Venus's e
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Venus](/astrology/venus/) values, attracts and relates. [Pisces](/astrology/pisces/), mutable water, gives it softness, empathy and a wide imagination. You tend to value what can't quite be measured: a piece of music that undoes you, a kindness nobody saw, the person behind the role. Mutable signs adapt, and this one adapts to feeling. You often sense what someone needs before they say it.
+[Venus](/astrology/venus/) values, attracts and relates. [Pisces](/astrology/pisces/), mutable water, gives it softness, empathy and a wide imagination. You tend to value what can't quite be measured: a piece of music that undoes you, a kindness nobody saw, the person behind the role. You often sense what someone needs before they say it, as if feeling were a language you had always spoken.
 
-This is Venus's [exaltation](/astrology/exaltation/), the sign where tradition says it is strongest. I read that strength as range rather than luck: this Venus can love what is imperfect, unfinished or hurt, and still find it lovely. Pisces has two rulers, [Neptune](/astrology/neptune/) in modern tropical astrology and [Jupiter](/astrology/jupiter/) in the tradition. I read both: Neptune for how far this Venus's compassion reaches, Jupiter for the meaning and generosity it grows into.
+This is Venus's [exaltation](/astrology/exaltation/), the sign where tradition says it is strongest. I read that strength as range rather than luck: this Venus can love what is imperfect, unfinished or hurt, and still find it lovely. Pisces answers to [Neptune](/astrology/neptune/) in modern tropical astrology and to [Jupiter](/astrology/jupiter/) in the older scheme, and I read both: Neptune for how far this Venus's compassion reaches, Jupiter for the meaning and generosity it grows into.
 
-Venus usually crosses Pisces in about 25 days, and from 1930 to 2009 it never stayed longer than 30 in one stretch. The sign of its exaltation is one of its rarest, held by about 1 person in 14 born in those years. Your Sun is in Pisces or within two signs of it, from Capricorn to Taurus. The exaltation sits right beside one of Venus's detriments: [Venus in Aries](/astrology/venus-in-aries/), one sign on, is where tradition finds Venus least at ease, so a birth on the day Venus moved between the two needs a chart cast for the hour. One sign back, [Venus in Aquarius](/astrology/venus-in-aquarius/) has no dignity at all.
+Venus's usual visit to Pisces lasts about 25 days, and from 1930 to 2009 no visit lasted longer than 30. So the sign of its exaltation is one of its rarest, held by about 1 person in 14 born in those years. Its companion Sun is in Capricorn, Aquarius, Pisces, Aries or Taurus. The exaltation sits right beside one of Venus's detriments: [Venus in Aries](/astrology/venus-in-aries/), one sign on, is where tradition finds Venus least at ease, so a birth on the day Venus moved between the two needs a chart cast for the hour. One sign back, [Venus in Aquarius](/astrology/venus-in-aquarius/) has no dignity at all.
 
 ## In close relationships {#in-close-relationships}
 
@@ -56,4 +56,4 @@ Telling compassion from self-erasure. You may give until little is left, forgive
 
 Keep something for yourself: time, energy, a part of your life that belongs to you alone. Love people as they are today, not only as they could be. Practise a gentle no, and notice that love survives it. And give your imagination a form, music, painting, writing, long walks by water, so that it has somewhere to go besides other people.
 
-Exaltation sounds like a promise, and a Pisces Venus is generous enough to believe it. But in [my notebook](/blog/i-tested-my-birth-chart/), Venus held about a third of the time, like the other placements everyone reads first. So I read this one tenderly and without promises, and I tell you which parts of a reading lean on it.
+Exaltation sounds like a promise, and a Pisces Venus is generous enough to believe it. But [my notebook](/blog/i-tested-my-birth-chart/) gives Venus the same modest score as the other placements everyone reads first: about one time in three. So I read this one tenderly and without promises, and I mark the parts of a reading that depend on it.

@@ -18,13 +18,13 @@ facts:
 related: ["/astrology/venus", "/astrology/taurus", "/astrology/domicile", "/astrology/venus-in-libra", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Venus in Taurus mean?"
-    a: "That Venus was in Taurus, one of its own signs, when you were born. You tend to value what is real, lasting and good to the senses, and to show affection through presence and care rather than speeches. You choose slowly and keep what you choose. Its house shows where that steadiness matters most."
+    a: "Venus stood in Taurus, a sign it rules, at your birth. You tend to value what is real, lasting and good to the senses, and to show affection through presence and care rather than speeches. You choose slowly and keep what you choose. Its house shows where that steadiness matters most."
   - q: "Is Venus strong in Taurus?"
     a: "Yes, by tradition: Taurus is one of the two signs of Venus, its domicile, with Libra. Venus rules Taurus, so here it answers to no other planet. I read that as clarity rather than luck: you usually know what you like and what you value, and you hold to it."
   - q: "Is Venus in Taurus materialistic?"
     a: "Not as I read it. This Venus values what is real and lasting, which includes things you can own, but its pleasure is in quality and care rather than in having more. Many people with it would rather keep one good thing for years than buy ten. And no chart says how much money anyone will have."
   - q: "How common is Venus in Taurus?"
-    a: "Less common than you might expect for one of Venus’s own signs: about 1 person in 14 born between 1930 and 2009. Venus usually crosses Taurus in about 25 days, and in those decades it never stayed longer than 35 in a single stretch, so fewer births fell there."
+    a: "Rarer than you might expect for a sign Venus rules: about 1 person in 14 born between 1930 and 2009. Venus never lingered in Taurus in those decades, 35 days at the very most and usually about 25, so fewer birthdays fell under it than under the signs where it turned retrograde."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Taurus and Libra as the houses of Venus" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Venus stays in Taurus, and how many people born 1930–2009 have it" }
@@ -34,11 +34,11 @@ Hand someone with Venus in Taurus a cup and they'll often notice its weight befo
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Venus](/astrology/venus/) evaluates: what is worth having, what you enjoy, what you'd like returned. [Taurus](/astrology/taurus/), fixed earth, gives it a manner that is unhurried, sensory and loyal to whatever it has tested. Your preferences form through the body and through repetition: the bread you go back to, the walk you never tire of, the friend whose company fits like a good chair.
+[Venus](/astrology/venus/) evaluates: what is worth having, what you enjoy, what you'd like returned. In [Taurus](/astrology/taurus/), fixed earth, Venus turns unhurried, sensory and loyal to whatever it has tested. Your preferences form through the body and through repetition: the bread you go back to, the walk you never tire of, the friend whose company fits like a good chair.
 
 Taurus is one of the two signs Venus rules, its [domicile](/astrology/domicile/), the other being [Venus in Libra](/astrology/venus-in-libra/). In Libra, Venus weighs people and fairness; in Taurus, it weighs comfort, things and time. And because Venus rules this sign, it takes its cue from no other planet here: it works without a go-between. Pleasure matters a great deal, but it isn't a taste for luxury. You'd rather have one good coat for fifteen winters than a wardrobe that changes every season.
 
-Venus usually crosses Taurus in about 25 days, and from 1930 to 2009 it never stayed longer than 35 in one stretch. That makes its own sign one of its rarer placements: about 1 person in 14 born in those years has it. Your Sun is in Taurus or within two signs of it, anywhere from Pisces to Cancer. Next door, [Venus in Aries](/astrology/venus-in-aries/) takes what it wants at once, and [Venus in Gemini](/astrology/venus-in-gemini/) would like to talk it over; a Taurus Venus wants to hold it, and see whether it still feels right next spring.
+A typical pass through Taurus takes Venus about 25 days, and from 1930 to 2009 none lasted longer than 35. So its own sign is one of its rarer placements, shared by about 1 person in 14 born in those years. The Sun is close by too: in Taurus, or as far as Pisces one way and Cancer the other. Next door, [Venus in Aries](/astrology/venus-in-aries/) takes what it wants at once, and [Venus in Gemini](/astrology/venus-in-gemini/) would like to talk it over; a Taurus Venus wants to hold it, and see whether it still feels right next spring.
 
 ## In close relationships {#in-close-relationships}
 
@@ -56,4 +56,4 @@ Holding on. What was good can be kept long after it stopped being good: a job, a
 
 Let change come in tastings: try the new arrangement for a season before deciding what it means. Once a year, look at what you keep, the possessions, the routines, the people you see out of habit, and ask which still give you pleasure. Put your values into words for someone close, so they don't have to guess them from your cooking.
 
-Venus held about a third of the time in [my notebook](/blog/i-tested-my-birth-chart/), as one of the placements everyone reads first. In its own sign it is easy to recognise, and easy to over-read, so I weigh a Taurus Venus against the rest of your chart before I lean on it, and I tell you when I do.
+Venus came out right about a third of the time in [my notebook](/blog/i-tested-my-birth-chart/), level with the other placements everyone reads first. In its own sign it is easy to recognise, and easy to over-read, so I weigh a Taurus Venus against the rest of your chart before I lean on it, and I tell you when I do.

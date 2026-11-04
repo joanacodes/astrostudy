@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 53
 glyph: "♂"
-definition: "Mars en maison 5 place Mars dans la maison du jeu, du plaisir, de l’amour et de la création, la Fortune favorable de la tradition. On y lit un élan tourné vers la joie : vous jouez pour gagner, faites la cour avec audace et créez avec énergie. Il faut l’heure de naissance, et rien n’y concerne les enfants."
+definition: "Mars en maison 5, c’est Mars au jeu, dans la maison du plaisir, de l’amour et de la création, la Fortune favorable de la tradition. On y lit un élan tourné vers la joie : vous jouez pour gagner, faites la cour avec audace et créez avec énergie. Il faut l’heure de naissance, et rien n’y concerne les enfants."
 facts:
   - { k: "Corps", v: "Mars ♂" }
   - { k: "Maison", v: "Maison 5 : le jeu, le plaisir, l’amour, la création" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/5th-house", "/astrology/mars-in-leo", "/astrology/can-astrology-predict-pregnancy", "/astrology/childrens-charts"]
 faq:
   - q: "Que veut dire Mars en maison 5 ?"
-    a: "Que votre élan va vers le jeu : à votre naissance, Mars se trouvait en maison 5, celle du plaisir, de l’amour et de la création. Vous apportez de l’énergie et un goût de la compétition à vos loisirs, faites la cour avec audace et vous exprimez avec courage. Il s’agit de vos propres plaisirs d’adulte."
+    a: "Que votre élan va vers le jeu : Mars occupait, lors de votre naissance, la maison 5, celle du plaisir, de l’amour et de la création. Vous apportez de l’énergie et un goût de la compétition à vos loisirs, faites la cour avec audace et vous exprimez avec courage. Il s’agit de vos propres plaisirs d’adulte."
   - q: "Avec Mars en maison 5, peut-on savoir quelque chose des enfants ?"
     a: "Non. La tradition donnait les enfants à la maison 5, mais aucun thème ne peut prédire ni si ni quand une personne aura un enfant, et je ne lis pas le thème des enfants. Ce que je lis en maison 5, c’est votre propre créativité, votre jeu et votre vie amoureuse, et Mars y montre l’énergie que vous leur donnez."
   - q: "Mars en maison 5, est-ce bon pour l’amour ?"
@@ -31,11 +31,11 @@ Mars en maison 5 fait du jeu une compétition et du plaisir une conquête. Tout 
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-[Mars](/astrology/mars/), c’est l’élan et le désir : ce que vous allez chercher, et comment. La [maison 5](/astrology/5th-house/), c’est ce que vous faites pour la joie : la création, le plaisir, le jeu, l’amour, votre façon de vous montrer quand personne ne vous note. Avec Mars ici, vos loisirs ont de l’énergie. Vous aimez les jeux où l’on compte les points, le sport, la scène, les projets créatifs avec une échéance, et les amours où il y a une conquête. Le courage se voit dans l’expression de soi : vous montez chanter, montrez votre travail, proposez un rendez-vous. Le sport et le jeu physique sont souvent l’endroit où ce placement se sent le plus lui-même, parce que le corps rivalise autant que la volonté.
+[Mars](/astrology/mars/), c’est l’élan et le désir : la manière dont vous poursuivez ce qui vous attire. La [maison 5](/astrology/5th-house/) rassemble ce que vous faites pour la joie : la création, le plaisir, le jeu, l’amour, votre façon de vous montrer quand personne ne vous note. Avec Mars ici, vos loisirs ont de l’énergie. Vous aimez les jeux où l’on compte les points, le sport, la scène, les projets créatifs avec une échéance, et les amours où il y a une conquête. Le courage se voit dans l’expression de soi : vous montez chanter, montrez votre travail, proposez un rendez-vous. Le sport et le jeu physique sont souvent l’endroit où ce placement se sent le plus lui-même, parce que le corps rivalise autant que la volonté.
 
-C’est une maison succédente, que la tradition appelait la Fortune favorable et où elle plaçait la joie de Vénus : Mars travaille donc ici dans la maison même du plaisir de Vénus, où le désir et le plaisir se distinguent mal. Son signe naturel est le Lion. De l’autre côté du thème, la maison 11, celle des amis et des groupes, rappelle que vos plaisirs peuvent parfois tirer contre vos loyautés.
+C’est une maison succédente, que la tradition appelait la Fortune favorable et où elle plaçait la joie de Vénus , et ce placement se retrouve ainsi dans la maison même du plaisir de Vénus, où le désir et le plaisir se distinguent mal. Son signe naturel est le Lion. De l’autre côté du thème, la maison 11, celle des amis et des groupes, rappelle que vos plaisirs peuvent parfois tirer contre vos loyautés.
 
-La tradition donnait aussi les enfants à la maison 5. Je ne lis pas cela dans un thème : aucun ne peut dire ni si ni quand une personne aura un enfant ([l’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et je ne lis jamais [le thème des enfants](/astrology/childrens-charts/). Ce que je lis ici, c’est votre propre jeu et votre propre créativité, en adulte.
+La tradition donnait aussi les enfants à la maison 5. Je ne lis pas cela dans un thème : aucun ne peut dire ni si ni quand une personne aura un enfant ([l’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et je ne lis jamais [le thème des enfants](/astrology/childrens-charts/). Ici, je lis votre propre jeu et votre propre créativité, en adulte.
 
 Comme toute maison, la maison 5 repose sur l’heure de naissance. Je calcule les maisons en Placidus, et avec une heure connue seulement à peu près, une planète proche d’une pointe peut appartenir à la maison voisine ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). [Mars en maison 4](/astrology/mars-in-4th-house/) défend un foyer ; [Mars en maison 6](/astrology/mars-in-6th-house/), dans sa joie, abat le travail.
 
@@ -49,7 +49,7 @@ Au travail, Mars en maison 5 veut créer, se produire ou rivaliser. Le sport, le
 
 ## Le plus difficile {#le-plus-difficile}
 
-Faire de chaque plaisir une compétition, jusqu’à ce qu’une partie amicale cesse de l’être. Prendre des risques pour le frisson : le courage n’est pas l’imprudence, et la maison 5 est l’endroit où on les confond le plus facilement. L’agitation quand la vie est calme, ou quand un amour dépasse sa première étincelle. Et une fierté dans votre travail créatif qui rend la critique difficile à entendre.
+Faire de chaque plaisir une compétition, jusqu’à ce qu’une partie amicale cesse de l’être. Prendre des risques pour le frisson, alors que courage et imprudence ne sont pas la même chose ; la maison 5 est l’endroit où on les confond le plus facilement. L’agitation quand la vie est calme, ou quand un amour dépasse sa première étincelle. Et une fierté dans votre travail créatif qui rend la critique difficile à entendre.
 
 ## Ce qui aide {#ce-qui-aide}
 

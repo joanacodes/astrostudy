@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 37
 glyph: "♀"
-definition: "Venus in the 1st house means Venus was near the eastern horizon when you were born, in the house of the self you lead with. It describes warmth and taste that show in your manner, a gift for making first meetings easy, and a pleasantness worth keeping honest. Like every house, it needs an exact birth time."
+definition: "Venus in the 1st house means Venus was close to rising when you were born, in the house of your body, bearing and first impressions. It describes warmth and taste that show at once, a gift for making first meetings easy, and a pleasantness worth keeping honest. Like every house, it needs an exact birth time."
 facts:
   - { k: "Body", v: "Venus ♀" }
   - { k: "House", v: "The 1st house: the self you lead with, body and manner" }

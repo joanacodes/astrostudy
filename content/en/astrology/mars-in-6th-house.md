@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 54
 glyph: "♂"
-definition: "Mars in the 6th house places Mars in its joy, the house tradition called Bad Fortune: daily work, routines, colleagues and the care of the body. It describes energetic, practical effort, at its best with a task in hand. It needs an exact birth time; tradition gave the house illness, and a chart predicts none."
+definition: "In the 6th house, Mars is in its joy, in the house tradition called Bad Fortune: daily work, routines, colleagues and the care of the body. It describes energetic, practical effort, at its best with a task in hand. It needs an exact birth time; tradition gave the house illness, and a chart predicts none."
 facts:
   - { k: "Body", v: "Mars ♂" }
   - { k: "House", v: "The 6th house: daily work, routines, colleagues, care of the body" }
@@ -18,9 +18,9 @@ facts:
 related: ["/astrology/mars", "/astrology/6th-house", "/astrology/planetary-joys", "/astrology/can-astrology-predict-health-problems", "/blog/unknown-birth-time"]
 faq:
   - q: "What does Mars in the 6th house mean?"
-    a: "Mars is in its joy: you were born with the planet of effort in the 6th house, the house of daily work, routines and colleagues. You tend to work hard and fast, tackle problems practically, and feel best with a task in hand. The lesson: let rest and your body’s care count as part of the work."
+    a: "Mars is in its joy: you were born with the planet of effort in the 6th, home of daily work, routines and colleagues. You tend to work hard and fast, tackle problems practically, and feel best with a task in hand. The lesson: let rest and your body’s care count as part of the work."
   - q: "Does Mars in the 6th house mean health problems?"
-    a: "No. Tradition gave the 6th house illness, but no chart can diagnose or predict anything about your health, and questions about it belong with a doctor. With Mars here I look at how you spend your energy day to day: often generously, and sometimes without enough rest."
+    a: "No. Illness was the 6th house’s in the old books; a chart, though, can’t diagnose or predict anything about your health, and those questions belong with a doctor. With Mars here I look at how you spend your energy day to day: often generously, and sometimes without enough rest."
   - q: "Why is the 6th house Mars’s joy?"
     a: "Tradition placed each planet’s joy in a house that suits its nature, and Mars, the planet of effort, was given the 6th, the house of toil and daily work. It suggests that this Mars is at ease wherever there’s something practical to do, which is why I read it as a working placement first."
 sources:
@@ -31,13 +31,13 @@ Tradition gave Mars one house where it is said to rejoice, and it isn't a house 
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Mars](/astrology/mars/) is effort, initiative and the will to get things done. [The 6th house](/astrology/6th-house/) is the shape of an ordinary day: the work you actually do, your routines, the people you work alongside, the care you give your body. Tradition called it Bad Fortune, the house of toil, and said that Mars has its [joy](/astrology/planetary-joys/) there: the planet of effort is happy where there's effort to be made. With Mars here, you tend to work hard, quickly and practically, to tackle problems as they come, and to feel best with something in your hands.
+[Mars](/astrology/mars/) is the planet of effort: initiative, energy, the will to get things done. [The 6th house](/astrology/6th-house/) is the shape of an ordinary day: the work you actually do, your routines, the people you work alongside, the care you give your body. Tradition called it Bad Fortune, the house of toil, and said that Mars has its [joy](/astrology/planetary-joys/) there: the planet of effort is happy where there's effort to be made. With Mars here, you tend to work hard, quickly and practically, to tackle problems as they come, and to feel best with something in your hands.
 
-It's a cadent house, one of the houses of adjusting and maintaining, and its natural sign is Virgo. Opposite it is the 12th, where Saturn rejoices, so this Mars faces a house of retreat and rest across the chart: a hint about what it most often forgets.
+The 6th is cadent, a house of upkeep and adjustment, and its natural sign is Virgo. Opposite it is the 12th, where Saturn rejoices, so this Mars faces a house of retreat and rest across the chart: a hint about what it most often forgets.
 
 The old books also gave the 6th illness. A chart can't diagnose or predict anything about your health ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)), and questions about it belong with a doctor. What I read with Mars here is how you spend your energy from day to day, and whether your body gets a share of the care you give your work.
 
-At your birth, Mars had dropped below the western horizon within the last couple of hours or so. Placidus, my house system, puts the Descendant at the start of the 7th, so a Mars that had set only minutes earlier sits at the very end of the 6th, and with an uncertain time it could as easily be in the 7th ([what changes without a birth time](/blog/unknown-birth-time/)). [Mars in the 5th house](/astrology/mars-in-5th-house/) plays to win; [Mars in the 7th house](/astrology/mars-in-7th-house/) meets its match in a partner. Between them, the 6th simply gets on with the job.
+At your birth, Mars had dropped below the western horizon within the last couple of hours or so. Placidus, my house system, puts the Descendant at the start of the 7th, so a Mars that had set only minutes earlier sits at the very end of the 6th, and with an uncertain time it could as easily be in the 7th ([what changes without a birth time](/blog/unknown-birth-time/)). [Mars in the 5th house](/astrology/mars-in-5th-house/) turns effort into play; [Mars in the 7th house](/astrology/mars-in-7th-house/) meets its match in a partner. Between them, the 6th simply gets on with the job.
 
 ## In close relationships {#in-close-relationships}
 

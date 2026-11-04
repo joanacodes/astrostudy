@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 51
 glyph: "♂"
-definition: "Avec Mars en maison 3, la planète de l’élan travaille dans la maison de l’esprit de tous les jours : penser, parler, apprendre, les proches du voisinage et les petits trajets. On y lit un élan qui passe par les mots : vous décidez vite, parlez avec franchise et aimez les débats animés. Sa lecture demande une heure de naissance exacte."
+definition: "Avec Mars en maison 3, la planète de l’élan travaille dans la maison de l’esprit de tous les jours : penser, parler, apprendre, les proches du voisinage et les petits trajets. On y lit un élan verbal : vous décidez vite, parlez avec franchise et aimez les débats animés. Sa lecture demande une heure de naissance exacte."
 facts:
   - { k: "Corps", v: "Mars ♂" }
   - { k: "Maison", v: "Maison 3 : l’esprit de tous les jours, la parole et l’apprentissage, les proches, les petits trajets" }

@@ -18,13 +18,13 @@ facts:
 related: ["/astrology/venus", "/astrology/libra", "/astrology/domicile", "/astrology/venus-in-7th-house", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Venus in Libra mean?"
-    a: "That Venus was in Libra, one of its own signs, when you were born. You tend to value fairness, balance and partnership, to relate through courtesy and consideration, and to judge by proportion: what fits, what is fair, what sits well together. Its house shows where that sense of balance matters most."
+    a: "Your Venus is at home: it was in Libra, a sign it rules, at your birth. You tend to value fairness, balance and partnership, to relate through courtesy and consideration, and to judge by proportion: what fits, what is fair, what sits well together. Its house shows where that sense of balance matters most."
   - q: "Is Venus in Libra a people-pleaser?"
     a: "It can drift that way, but that isn’t its aim. Libra gives Venus a gift for seeing the other side and a dislike of discord. At its best, that makes for fair, generous relationships in which both people speak. The work is to keep your own voice in the balance."
   - q: "Is Venus strong in Libra?"
-    a: "By tradition, yes: Libra is one of the two signs of Venus, its domicile, with Taurus, so here Venus answers only to itself. I read that as ease in relating rather than luck in love. You usually know how to make a room, or a relationship, feel fair."
+    a: "By tradition, yes. Libra is a domicile of Venus, as Taurus is, and in it Venus has no other planet to report to. I read that as ease in relating rather than luck in love. You usually know how to make a room, or a relationship, feel fair."
   - q: "How common is Venus in Libra?"
-    a: "It is one of the less common Venus signs: about 1 person in 14 born between 1930 and 2009. Venus usually crosses Libra in about 25 days, and in those years it never stayed longer than 32 at a time, so fewer births fell there."
+    a: "Less common than most: about 1 person in 14 born between 1930 and 2009, the smallest share of any Venus sign in those years, a hair below Pisces. No stay in Libra lasted more than 32 days then, against the usual 25 or so, so fewer births fell there."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Libra and Taurus as the houses of Venus" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Venus stays in Libra, and how many people born 1930–2009 have it" }
@@ -36,9 +36,9 @@ Venus in Libra is Venus in the sign of the scales, and it weighs everything: two
 
 [Venus](/astrology/venus/) judges what is worth having and how to relate. In [Libra](/astrology/libra/), cardinal air, it rules its own sign, its [domicile](/astrology/domicile/), and the judging becomes a matter of proportion and fairness. You tend to value balance: a room where nothing shouts, a conversation where both people get to speak, an exchange where neither side is short-changed. Cardinal signs start things, and this one starts connections: the invitation, the introduction, the gesture that brings two people to the same table.
 
-Libra is one of the two signs Venus rules, with Taurus, so here it answers to no other planet. The air element turns its taste towards people and ideas. A Libra Venus cares how things look, but even more how they sit together, and whether they're fair. And the harmony it's known for isn't the same as avoiding conflict. What this Venus values is a balance actually reached, sometimes after an honest disagreement, not a peace kept by keeping quiet.
+Libra is the second of the two signs Venus rules, after Taurus, and in it Venus reports to no planet but itself. The air element turns its taste towards people and ideas. A Libra Venus cares how things look, but even more how they sit together, and whether they're fair. And the harmony it's known for isn't the same as avoiding conflict. What this Venus values is a balance actually reached, sometimes after an honest disagreement, not a peace kept by keeping quiet.
 
-Venus usually crosses Libra in about 25 days, and from 1930 to 2009 it never lingered longer than 32, which made it one of the less common Venus signs of those decades: about 1 person in 14. Your Sun is in Libra or within two signs, from Leo to Sagittarius. On either side sit two of Venus's hardest signs, [Venus in Virgo](/astrology/venus-in-virgo/), its fall, and [Venus in Scorpio](/astrology/venus-in-scorpio/), its detriment. Between them, at home, Venus in Libra has the easiest time of the three, and the most to lose by keeping the peace at any price.
+Venus tends to pass through Libra in about 25 days, and between 1930 and 2009 it never lingered beyond 32, so its home sign was among the less common Venus signs of those decades, at about 1 person in 14. Your Sun lies somewhere between Leo and Sagittarius. On either side sit two of Venus's hardest signs, [Venus in Virgo](/astrology/venus-in-virgo/), its fall, and [Venus in Scorpio](/astrology/venus-in-scorpio/), its detriment. Between them, at home, Venus in Libra has the easiest time of the three, and the most to lose by keeping the peace at any price.
 
 ## In close relationships {#in-close-relationships}
 
@@ -50,10 +50,10 @@ At work, a Libra Venus values cooperation, fairness and pleasant surroundings. Y
 
 ## The hard part {#the-hard-part}
 
-Indecision, and the cost of being agreeable. When every option has to be weighed, choosing takes time, and others may end up deciding for you. You may say yes to keep the peace and resent it later, or adapt so well to a partner that your own preferences go quiet. And because unfairness bothers you deeply, small imbalances can be noted in silence for a long time before they are ever mentioned.
+Indecision, and the cost of being agreeable. When every option has to be weighed, choosing takes time, and others may end up deciding for you. You may agree for the sake of peace and quietly regret it, or adapt so well to a partner that your own preferences go quiet. And because unfairness bothers you deeply, small imbalances can be noted in silence for a long time before they are ever mentioned.
 
 ## What helps {#what-helps}
 
 Practise saying what you want first, before asking what the other person wants. Let a disagreement run its course instead of smoothing it over: real balance often comes after friction. Make some choices alone, and quickly, and notice that nothing breaks. And keep one pleasure that belongs only to you, chosen by no one else.
 
-Venus in its own sign sounds like a strong reading, and it's tempting to lean on it. But in [my notebook](/blog/i-tested-my-birth-chart/), Venus held about a third of the time, no more, so I weigh a Libra Venus as carefully as it would weigh anything, and I tell you which parts of a reading rest on it.
+Venus in its own sign sounds like a strong reading, and it's tempting to lean on it. But in [my notebook](/blog/i-tested-my-birth-chart/), Venus held about a third of the time, no more, so I weigh a Libra Venus as carefully as it would weigh anything, and I say plainly how much of your reading hangs on it.

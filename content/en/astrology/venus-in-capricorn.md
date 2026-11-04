@@ -18,13 +18,13 @@ facts:
 related: ["/astrology/venus", "/astrology/capricorn", "/astrology/saturn", "/blog/saturn-chiron-lilith", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Venus in Capricorn mean?"
-    a: "That Venus was in Capricorn when you were born. You tend to value what lasts and what is earned, to show affection through reliability and commitment, and to open up slowly, then stay loyal for a long time. Respect matters to you as much as tenderness. Its house shows where you build what you value."
+    a: "Your Venus was in Capricorn, Saturn’s sign, when you were born. You tend to value what lasts and what is earned, to show affection through reliability and commitment, and to open up slowly, then stay loyal for a long time. Respect matters to you as much as tenderness. Its house shows where you build what you value."
   - q: "Is Venus in Capricorn cold?"
     a: "No, though it can look reserved. Capricorn gives Venus a careful, serious manner, so affection is shown through acts and commitment more than through declarations. Once trust is there, this Venus is among the most loyal. The warmth is real; it simply keeps its own timetable."
   - q: "Who rules Venus in Capricorn?"
-    a: "Saturn, the ruler of Capricorn, so Saturn’s sign, house and aspects shape how this Venus loves. In my notebook Saturn was one of the three placements that held far more often than the rest, 75 to 90% of the time, so I always read it next to a Capricorn Venus."
+    a: "Saturn, the ruler of Capricorn, so Saturn’s sign, house and aspects shape how this Venus loves. My notebook found Saturn, with Chiron and Lilith, holding 75 to 90% of the time, far above everything else, so I never read a Capricorn Venus without it."
   - q: "How common is Venus in Capricorn?"
-    a: "About 1 person in 13 born between 1930 and 2009. Venus usually spends about 24 days in Capricorn, and when it is retrograde there it can stay up to 62. Your Sun is then in Capricorn or within two signs of it, from Scorpio to Pisces."
+    a: "A little less common than an even share: about 1 person in 13 born between 1930 and 2009. Venus usually takes some 24 days over Capricorn, up to 62 in a retrograde year, and anyone born with it has a Sun from Scorpio to Pisces."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Saturn’s rule of Capricorn, and the signs of Venus" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Venus stays in Capricorn, and how many people born 1930–2009 have it" }
@@ -34,11 +34,11 @@ Venus in Capricorn measures affection in years. The planet of what you value sit
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Venus](/astrology/venus/) judges value and the way you relate. [Capricorn](/astrology/capricorn/), cardinal earth ruled by [Saturn](/astrology/saturn/), gives it a patient, structured, serious manner. You tend to value what lasts: the coat that ages well, the friendship that has survived a move and a decade, the craft learned over years. Cardinal signs start things, and this one starts structures. You're often the one who turns *we should* into a plan with dates.
+[Venus](/astrology/venus/) judges value and the way you relate. [Capricorn](/astrology/capricorn/), cardinal earth ruled by [Saturn](/astrology/saturn/), gives it a patient, structured, serious manner. You tend to value what lasts: the coat that ages well, the friendship that has survived a move and a decade, the craft learned over years. You're often the one who turns *we should* into a plan with dates.
 
-Venus has no dignity in Capricorn, so I read it through its manner and its ruler, and the ruler here is Saturn, the planet of time and structure. Saturn's sign and house show where this Venus learned to be careful with what it values, and where its loyalty gets built.
+Capricorn gives Venus no dignity, good or bad, so much depends on the ruler, and the ruler here is Saturn, the planet of time and structure. Saturn's sign and house show where this Venus learned to be careful with what it values, and where its loyalty gets built.
 
-Venus usually spends about 24 days in Capricorn, and up to 62 when it is retrograde there; about 1 person in 13 born from 1930 to 2009 has it. Your Sun is in Capricorn or within two signs, from Scorpio to Pisces. Saturn rules Capricorn and, in the tradition, Aquarius as well, so [Venus in Aquarius](/astrology/venus-in-aquarius/), one sign on, shares this Venus's ruler in the old scheme. [Venus in Sagittarius](/astrology/venus-in-sagittarius/), one sign back, answers to Jupiter instead, and holds things more loosely.
+Expect about 24 days for an ordinary pass through Capricorn and up to 62 when Venus is retrograde there; about 1 person in 13 born from 1930 to 2009 has it. Saturn rules Capricorn and, in the tradition, Aquarius as well, so [Venus in Aquarius](/astrology/venus-in-aquarius/), one sign on, shares this Venus's ruler in the old scheme. [Venus in Sagittarius](/astrology/venus-in-sagittarius/), one sign back, answers to Jupiter instead, and holds things more loosely.
 
 ## In close relationships {#in-close-relationships}
 
@@ -56,4 +56,4 @@ Affection postponed until it feels earned. You may wait until you've proved your
 
 Put pleasure in the diary, literally, and keep the appointment. Let someone love you before you've finished becoming who you think you ought to be. Say one warm thing out loud each day, even when it feels unnecessary. And look at what you have already built with the people you love: the years themselves are evidence.
 
-Here the notebook has something particular to add. Venus held about a third of the time ([my notebook](/blog/i-tested-my-birth-chart/)), but the planet that rules this Venus is Saturn, one of [the three that held](/blog/saturn-chiron-lilith/) 75 to 90% of the time. So with a Capricorn Venus I read Saturn closely alongside it, by sign, house and aspect, before I say much about how you love.
+Here the notebook has something particular to add. Venus came out at about a third ([my notebook](/blog/i-tested-my-birth-chart/)), but this Venus answers to Saturn, and Saturn belongs to [the three that held](/blog/saturn-chiron-lilith/) 75 to 90% of the time. So with a Capricorn Venus I read Saturn closely alongside it, by sign, house and aspect, before I say much about how you love.

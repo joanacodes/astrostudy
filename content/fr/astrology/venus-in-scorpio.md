@@ -23,7 +23,7 @@ faq:
   - q: "Vénus en Scorpion, est-ce mauvais ?"
     a: "Non. La tradition fait du Scorpion l’exil de Vénus, parce qu’il fait face au Taureau, l’un des signes de Vénus. Cela décrit un amour qui dépasse la surface et demande beaucoup, pas un amour qui échoue. Ses difficultés : la jalousie, la peine à lâcher prise ; ses dons : la loyauté, l’honnêteté, l’endurance."
   - q: "Qui gouverne Vénus en Scorpion ?"
-    a: "Le Scorpion a deux maîtres : Pluton en astrologie tropicale moderne, Mars dans la tradition. Je lis les deux. La place de Pluton dans votre thème montre où cette Vénus est invitée à laisser changer ce qui compte pour elle ; Mars, comment elle protège ce qu’elle aime et où elle pose ses limites."
+    a: "Le Scorpion a deux maîtres : Pluton en astrologie tropicale moderne, Mars dans la tradition. Je lis les deux. La place de Pluton dans votre thème montre où cette Vénus est invitée à laisser changer ce qui compte pour elle ; Mars, comment cette Vénus protège ce qu’elle aime et où elle pose ses limites."
   - q: "Vénus en Scorpion, est-ce fréquent ?"
     a: "Très, pour un signe de Vénus : environ 1 personne sur 10 née entre 1930 et 2009. Vénus traverse d’habitude le Scorpion en 24 jours environ, mais quand elle y rétrograde, elle peut y rester jusqu’à 122 jours, et ces longs séjours ajoutent un grand nombre de naissances."
 sources:
@@ -39,7 +39,7 @@ Vénus en Scorpion préfère vous connaître plutôt qu’être charmée par vou
 
 La tradition fait du Scorpion l’[exil](/astrology/detriment/) de Vénus : il fait face au Taureau, son propre signe. Le Taureau tient à ce qui se voit et se touche ; le Scorpion, à ce qui est caché et doit se mériter. Je ne lis pas l’exil comme un amour qui tourne mal. C’est un amour qui refuse la surface, et qui demande beaucoup, à vous comme aux autres.
 
-En astrologie tropicale moderne, le Scorpion est gouverné par [Pluton](/astrology/pluto/) ; dans la tradition, par [Mars](/astrology/mars/). Je lis les deux. Pluton, par signe et par maison, montre où cette Vénus est invitée à laisser changer de forme ce qui compte pour elle. Mars montre comment elle protège ce qu’elle aime, et où elle pose ses limites.
+En astrologie tropicale moderne, le Scorpion est gouverné par [Pluton](/astrology/pluto/) ; dans la tradition, par [Mars](/astrology/mars/). Je lis les deux. Pluton, par signe et par maison, montre où cette Vénus est invitée à laisser changer de forme ce qui compte pour elle. Mars montre comment cette Vénus protège ce qu’elle aime, et où elle pose ses limites.
 
 Vénus traverse d’habitude le Scorpion en 24 jours environ, et y reste jusqu’à 122 jours quand elle y rétrograde. Ces longs séjours font du Scorpion, avec le Bélier, l’autre signe de son exil, l’un des deux signes de Vénus les plus fréquents parmi les naissances de 1930 à 2009 : environ 1 personne sur 10. Votre Soleil est en Scorpion ou à deux signes au plus, de la Vierge au Capricorne. Vénus y arrive tout droit de la Balance, son propre signe ([Vénus en Balance](/astrology/venus-in-libra/)), et le changement de manière est net, de la pesée au grand plongeon ; trois semaines plus tard environ, elle passe en Sagittaire ([Vénus en Sagittaire](/astrology/venus-in-sagittarius/)) et remonte respirer.
 

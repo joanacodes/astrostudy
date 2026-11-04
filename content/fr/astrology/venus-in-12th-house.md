@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 48
 glyph: "♀"
-definition: "Vénus en maison 12 signifie que Vénus venait de se lever à votre naissance, dans la maison de ce qui se passe hors de la vue, dont le signe naturel est les Poissons, son exaltation. On y lit une façon d’aimer discrète et tendre, un besoin de beauté et de calme, et une gentillesse offerte sans qu’on la demande. Il faut l’heure de naissance."
+definition: "Vénus en maison 12 signifie que Vénus venait de se lever à votre naissance, dans la maison de ce qui reste caché, dont le signe naturel est les Poissons, son exaltation. On y lit une façon d’aimer discrète et tendre, un besoin de beauté et de calme, et une gentillesse spontanée. Il faut l’heure de naissance."
 facts:
   - { k: "Corps", v: "Vénus ♀" }
   - { k: "Maison", v: "Maison 12 : ce qui se passe hors de la vue, la solitude, la vie intérieure" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/venus", "/astrology/12th-house", "/astrology/venus-in-pisces", "/astrology/astrology-and-mental-health", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Vénus en maison 12 ?"
-    a: "Qu’à votre naissance, Vénus se trouvait dans la maison de ce qui se passe hors de la vue : la solitude, le repos, la vie intérieure, le soin donné sans témoin. Vous aimez avec tendresse et discrétion, il vous faut de la beauté et du calme, et vous offrez de la gentillesse sans qu’on la demande. Le travail : dire ce que vous ressentez."
+    a: "Qu’à votre naissance, Vénus se trouvait dans la maison de ce qui se passe hors de la vue : la solitude, la vie intérieure, le soin donné sans témoin. Vous aimez avec tendresse et discrétion, il vous faut de la beauté et du calme, et votre gentillesse vient sans qu’on la demande. Le travail : dire ce que vous ressentez."
   - q: "Vénus en maison 12, est-ce un amour secret ?"
     a: "Pas comme prédiction. Vénus en maison 12 décrit une façon d’aimer discrète et privée : des sentiments gardés près de soi, une gentillesse montrée en silence, une attirance qui peut rester tue un moment. Qu’une relation soit vécue au grand jour ou cachée, c’est un choix que font les gens, pas quelque chose d’écrit dans un thème."
   - q: "Faut-il l’heure de naissance pour Vénus en maison 12 ?"

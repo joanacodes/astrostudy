@@ -18,13 +18,13 @@ facts:
 related: ["/astrology/venus", "/astrology/leo", "/astrology/sun", "/astrology/venus-in-5th-house", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Venus in Leo mean?"
-    a: "That Venus was in Leo when you were born. You tend to love generously and openly, to value loyalty, warmth and wholeheartedness, and to want your affection received and returned. Celebrations, gestures and creative play matter to you. Its house shows where you most want to give, and to be appreciated."
+    a: "Your Venus is in Leo, the Sun’s sign. You tend to love generously and openly, to value loyalty, warmth and wholeheartedness, and to want your affection received and returned. Celebrations, gestures and creative play matter to you. The house it occupies shows where giving, and being thanked for it, matter most."
   - q: "Is Venus in Leo vain?"
     a: "No, and vanity isn’t what Venus describes. Leo gives Venus a warm, demonstrative manner and a wish to be appreciated, which is a need for reciprocity rather than for admiration in itself. People with this Venus often spend far more energy celebrating others than celebrating themselves."
   - q: "Where is the Sun if Venus is in Leo?"
-    a: "In Leo or within two signs of it: Gemini, Cancer, Virgo or Libra, because Venus never gets more than about 47° from the Sun. Since the Sun rules Leo, the ruler of this Venus is always close by, and I read the two together."
+    a: "In Leo itself, or in Gemini, Cancer, Virgo or Libra: the two are never more than about 47° apart. Since the Sun rules Leo, the ruler of this Venus is always close by, and I read the two together."
   - q: "How common is Venus in Leo?"
-    a: "About 1 person in 12 born between 1930 and 2009. Venus usually spends about 25 days in Leo, and when it is retrograde there it can stay up to 60, so in some years far more births fall under it than in others."
+    a: "About 1 person in 12 born between 1930 and 2009. Most years Venus spends some 25 days in Leo, but in a year when it is retrograde there it can stay up to 60, so some years bring far more Leo Venus births than others."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the Sun’s rule of Leo, and the signs of Venus" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Venus stays in Leo, and how many people born 1930–2009 have it" }
@@ -34,11 +34,11 @@ Venus in Leo gives affection the way the Sun gives light: openly, generously, an
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Venus](/astrology/venus/) evaluates what is worth loving and how you relate to it. [Leo](/astrology/leo/), fixed fire ruled by the [Sun](/astrology/sun/), gives it warmth, loyalty and a sense of occasion. You tend to value what is wholehearted: the friend who laughs fully, the gesture made without counting, the work someone has put their whole self into. Fixed signs hold steady, and this one holds its warmth: once you love something, you keep the fire lit.
+[Venus](/astrology/venus/) evaluates what is worth loving and how you relate to it. [Leo](/astrology/leo/), fixed fire ruled by the [Sun](/astrology/sun/), gives it warmth, loyalty and a sense of occasion. You tend to value what is wholehearted: the friend who laughs fully, the gesture made without counting, the work someone has put their whole self into. Once you love something, you keep that fire lit for years.
 
-Venus has no dignity in Leo, but its ruler is unusually close. Venus never gets more than about 47° from the Sun, so with Venus in Leo your Sun is in Leo too or no more than two signs away, from Gemini to Libra. The Sun's sign and house describe the sense of self and purpose this Venus warms, and I read them side by side.
+Venus has no dignity in Leo, but its ruler is unusually close. The two are never more than about 47° apart, which puts your Sun in Leo too, or somewhere from Gemini round to Libra. The Sun's sign and house describe the sense of self and purpose this Venus warms, and I read them side by side.
 
-Venus usually spends about 25 days in Leo, and up to 60 when it is retrograde there; about 1 person in 12 born from 1930 to 2009 has it. What it wants, more than anything, is for its affection to be received as the gift it is. That isn't vanity. It's reciprocity in a fiery key: warmth given, and warmth hoped for in return.
+In Leo, Venus normally spends about 25 days, or up to 60 in a year when it is retrograde there, and about 1 person in 12 born 1930–2009 carries it. What it wants, more than anything, is for its affection to be received as the gift it is. That isn't vanity. It's reciprocity in a fiery key: warmth given, and warmth hoped for in return.
 
 ## In close relationships {#in-close-relationships}
 
@@ -54,6 +54,6 @@ Pride can stand in the way of asking. You may wait for a grand gesture rather th
 
 ## What helps {#what-helps}
 
-Ask for appreciation in plain words, and give it just as plainly. Make something purely for the pleasure of it, with no audience at all, and notice that it still counts. Borrow from the neighbours: a little of the privacy of [Venus in Cancer](/astrology/venus-in-cancer/), so that not every feeling needs a stage, and a little of the modesty of [Venus in Virgo](/astrology/venus-in-virgo/), the kindness nobody sees.
+Ask for appreciation in plain words, and give it just as plainly. Make something with no audience at all, a song for the kitchen, a sketch nobody sees, and notice that it still counts. Borrow from the neighbours: a little of the privacy of [Venus in Cancer](/astrology/venus-in-cancer/), so that not every feeling needs a stage, and a little of the modesty of [Venus in Virgo](/astrology/venus-in-virgo/), the kindness nobody sees.
 
-Venus, like the Sun sign, the rising sign and Mercury, held about a third of the time in [my notebook](/blog/i-tested-my-birth-chart/). A Leo Venus and its ruling Sun are usually read together, and both sit in that same third, so I hold them lightly and let the rest of your chart have its say too.
+In [my notebook](/blog/i-tested-my-birth-chart/), both Venus and the Sun sign landed among the placements that held about one time in three. A Leo Venus is read with its ruling Sun, so that's two lightly held placements leaning on each other, and I let the rest of your chart have its say too.

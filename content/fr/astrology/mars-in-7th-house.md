@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 55
 glyph: "♂"
-definition: "Mars en maison 7 place Mars dans la maison des partenaires et des liens en tête-à-tête, qui commence au descendant. On y lit un élan rencontré dans les relations : l’attirance pour les personnes fortes, des liens vifs, un peu de friction, et l’art de se battre loyalement. Il faut une heure exacte, et rien n’y prédit de mariage."
+definition: "Mars en maison 7 occupe la maison des partenaires et des liens en tête-à-tête, qui commence au descendant. On y lit un élan rencontré dans les relations : l’attirance pour les personnes fortes, des liens vifs, un peu de friction, et l’art de se battre loyalement. L’heure de naissance doit être exacte, et rien n’y annonce de mariage."
 facts:
   - { k: "Corps", v: "Mars ♂" }
   - { k: "Maison", v: "Maison 7 : les partenaires, les liens en tête-à-tête, les adversaires déclarés" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/7th-house", "/astrology/descendant", "/astrology/mars-in-libra", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire Mars en maison 7 ?"
-    a: "Que votre élan vous attend chez les autres : à votre naissance, Mars se tenait en maison 7, celle des partenaires et des liens en tête-à-tête. Les personnes fortes et directes vous attirent, vous donnez de l’énergie aux personnes avec qui vous faites équipe, et le couple vous apprend à vous affirmer. C’est une dynamique, pas une prédiction."
+    a: "Que votre élan vous attend chez les autres : la maison 7, celle des partenaires et des liens en tête-à-tête, accueillait Mars à votre naissance. Les personnes fortes et directes vous attirent, vous donnez de l’énergie aux personnes avec qui vous faites équipe, et le couple vous apprend à vous affirmer. C’est une dynamique, pas une prédiction."
   - q: "Mars en maison 7, est-ce l’annonce de conflits dans le couple ?"
     a: "Aucun placement ne prédit de conflit dans un couple, ni même un mariage. Mars peut décrire ici des relations pleines d’étincelles, avec un peu de friction, et une attirance pour les partenaires de caractère. Beaucoup de personnes avec ce placement bâtissent des couples vivants et égaux. Le travail : apprendre à vous battre loyalement et à assumer vos envies."
   - q: "Pourquoi les personnes fortes m’attirent-elles, avec Mars en maison 7 ?"
@@ -35,11 +35,11 @@ Avec Mars en maison 7, vous rencontrez souvent votre propre élan d’abord chez
 
 C’est une maison angulaire, et sa pointe est le [descendant](/astrology/descendant/). À votre naissance, Mars se tenait au-dessus de l’horizon ouest, sur le point de se coucher. En Placidus, le système dans lequel je lis les maisons, la maison 7 commence au descendant, et juste sous cette ligne, Mars appartiendrait à la maison 6 : c’est l’heure de naissance qui tranche ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Son signe naturel est la Balance, où Mars est en exil, et le parallèle est juste : dans les deux cas, Mars doit agir en tenant compte d’une autre personne. La tradition donnait aussi à la maison 7 les ennemis déclarés et les contrats. Je ne prédis ni disputes, ni mariages, ni leur issue ; ce que je lis, c’est la façon dont votre volonté rencontre celle de l’autre. [Mars en maison 6](/astrology/mars-in-6th-house/) verse son effort dans le quotidien ; [Mars en maison 8](/astrology/mars-in-8th-house/) le porte dans l’intimité et dans ce qui se partage.
+Son signe naturel est la Balance, où Mars est en exil, et le parallèle tombe bien : ici comme là, Mars doit agir en tenant compte d’une autre personne. La tradition donnait aussi à la maison 7 les ennemis déclarés et les contrats. Je ne prédis ni disputes, ni mariages, ni leur issue ; ce que je lis, c’est la façon dont votre volonté rencontre celle de l’autre. [Mars en maison 6](/astrology/mars-in-6th-house/) verse son effort dans le quotidien ; [Mars en maison 8](/astrology/mars-in-8th-house/) le porte dans l’intimité et dans ce qui se partage.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-C’est le cœur de ce placement. L’attirance vient souvent avec une étincelle de défi : vous aimez les personnes qui résistent, et une relation sans aucune friction peut sembler étrangement plate. Au mieux, l’énergie circule dans les deux sens, entre deux personnes qui encouragent chacune le courage de l’autre. Au plus difficile, vous confiez votre propre affirmation à votre partenaire, puis lui en voulez de s’en servir, ou vous vous retrouvez dans des disputes que vous n’avez pas commencées. Apprendre à vous battre loyalement, et à assumer vos envies comme les vôtres, change le schéma. Si vous voulez comparer vos thèmes, faites-le ensemble : je ne lis une synastrie que lorsque les deux personnes ont donné leur accord ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+C’est le cœur de ce placement. L’attirance vient souvent avec une étincelle de défi : vous aimez les personnes qui résistent, et une relation sans aucune friction peut sembler étrangement plate. Au mieux, l’énergie circule dans les deux sens, entre deux personnes qui encouragent chacune le courage de l’autre. Au plus difficile, vous confiez votre propre affirmation à votre partenaire, puis lui en voulez de s’en servir, ou vous vous retrouvez dans des disputes que vous n’avez pas commencées. Apprendre à vous battre loyalement, et à assumer vos envies comme les vôtres, change le schéma. Si vous voulez comparer vos thèmes, faites-le ensemble : pour moi, une synastrie commence par le oui des deux personnes ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
 
 ## Au travail {#au-travail}
 

@@ -18,13 +18,13 @@ facts:
 related: ["/astrology/venus", "/astrology/virgo", "/astrology/fall", "/astrology/mercury", "/astrology/venus-in-pisces"]
 faq:
   - q: "What does Venus in Virgo mean?"
-    a: "That Venus was in Virgo when you were born. You tend to show affection through help and attention, to value what is useful, sincere and well made, and to notice details others miss. Love, for you, is something done as much as felt. Its house shows where that careful attention matters most."
+    a: "Venus was in Virgo, the sign of its fall, at your birth. You tend to show affection through help and attention, to value what is useful, sincere and well made, and to notice details others miss. Love, for you, is something done as much as felt. Its house shows where that careful attention matters most."
   - q: "Is Venus weak in Virgo?"
     a: "Tradition calls Virgo the fall of Venus, opposite Pisces, where it is exalted. I don’t read that as a weakness in love. It describes affection shown through service and precision rather than sweeping gestures, and a critical eye that can turn on yourself. With kindness added, it is one of the most dependable ways of loving."
   - q: "How does Venus in Virgo show love?"
     a: "Through acts: fixing, organising, remembering, helping. A Virgo Venus may never make a speech about its feelings, yet it knows how you take your coffee and when your train leaves. If you love someone with this Venus, notice what they do for you, and thank them for it specifically."
   - q: "How common is Venus in Virgo?"
-    a: "Fairly common: about 1 person in 11 born between 1930 and 2009. Venus usually crosses Virgo in about 25 days, but when it turns retrograde there it can stay up to 125, more than four months, and those long stays add a good many births."
+    a: "About 1 person in 11 born between 1930 and 2009 has it, a little above an even share. In those decades Virgo was one of the signs where Venus turned retrograde, and a retrograde kept it there for up to 125 days instead of the usual 25 or so."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the exaltation of Venus in Pisces, and its fall in Virgo opposite" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Venus stays in Virgo, and how many people born 1930–2009 have it" }
@@ -38,7 +38,7 @@ Venus in Virgo notices: the loose button, the tiredness in a voice, the thing yo
 
 Tradition puts Venus in its [fall](/astrology/fall/) here, opposite Pisces, the sign of its exaltation. Where [Venus in Pisces](/astrology/venus-in-pisces/) forgives without counting, Venus in Virgo counts carefully, and the planet of pleasure is asked to love with its sleeves rolled up. I don't read the fall as a smaller capacity for love. It describes love that proves itself through care, and a readiness to criticise, yourself first, that is worth knowing about. Mercury rules the sign, so this Venus thinks while it feels; your Mercury's sign and house show how that thinking runs.
 
-Venus usually crosses Virgo in about 25 days. When it turns retrograde there it can stay up to 125, more than four months, which is part of why about 1 person in 11 born from 1930 to 2009 has it. Your Sun is in Virgo or no more than two signs away, from Cancer to Scorpio.
+The usual crossing takes about 25 days. A retrograde in Virgo holds Venus there for up to 125, more than four months, and that is part of why about 1 person in 11 born from 1930 to 2009 has it. As for your Sun, it can be no further away than Cancer or Scorpio.
 
 ## In close relationships {#in-close-relationships}
 

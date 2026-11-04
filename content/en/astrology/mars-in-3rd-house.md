@@ -30,7 +30,7 @@ Mars in the 3rd house fights in sentences. Its arena is the conversation, the me
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Mars](/astrology/mars/) is the drive to act and assert. [The 3rd house](/astrology/3rd-house/) is the everyday mind and the world close at hand: how you think, talk, write and learn; the people nearby, brothers and sisters, cousins, neighbours; and the short trips of an ordinary week. Mars here puts its energy into communication and local life. You think fast, decide quickly, say what you mean and enjoy an exchange with some edge to it. Learning is active for you: you learn by arguing, trying and doing.
+[Mars](/astrology/mars/) is assertion and the drive to act. [The 3rd house](/astrology/3rd-house/) is the everyday mind and the world close at hand: how you think, talk, write and learn; the people nearby, brothers and sisters, cousins, neighbours; and the short trips of an ordinary week. Mars here puts its energy into communication and local life. You think fast, decide quickly, say what you mean and enjoy an exchange with some edge to it. Learning is active for you: you learn by arguing, trying and doing.
 
 It's a cadent house, one of the houses of adjusting and processing, and its natural sign is Gemini. Tradition called it the Goddess and gave the Moon its joy here, so this Mars works in the Moon's house of everyday movement: errands, visits, the comings and goings that fill a week. Across the chart lies the 9th, the house of the far horizon; with Mars in the 3rd, the battles are local and the arguments are about today rather than about ultimate truths.
 

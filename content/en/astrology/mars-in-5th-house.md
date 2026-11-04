@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 53
 glyph: "♂"
-definition: "Mars in the 5th house places Mars in the house of play, pleasure, romance and creativity, which tradition called Good Fortune. It describes drive aimed at joy: you play to win, pursue love boldly and put real energy into creative work. It needs the birth time, and it says nothing about children."
+definition: "Mars in the 5th house is Mars at play, in the house of pleasure, romance and creativity that tradition called Good Fortune. It describes drive aimed at joy: you play to win, pursue love boldly and put real energy into creative work. It needs the birth time, and it says nothing about children."
 facts:
   - { k: "Body", v: "Mars ♂" }
   - { k: "House", v: "The 5th house: play, pleasure, romance, creativity" }
@@ -36,7 +36,7 @@ It's a succedent house, and tradition called it Good Fortune and gave Venus its 
 
 Tradition also gave the 5th children. I don't read that in a chart: none can say whether or when anyone will have a child ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and I don't read [children's charts](/astrology/childrens-charts/) at all. What I read here is your own play and creativity, as an adult.
 
-Like every house, the 5th rests on the birth time. I calculate houses in Placidus, and with a time that's only roughly known, a Mars near either cusp could belong to the house next door ([what changes without a birth time](/blog/unknown-birth-time/)). [Mars in the 4th house](/astrology/mars-in-4th-house/) defends a home; [Mars in the 6th house](/astrology/mars-in-6th-house/), in its joy, gets the work done.
+Like every house, the 5th rests on the birth time. I calculate houses in Placidus, and with a time that's only roughly known, a Mars near either cusp could belong to the house next door ([what changes without a birth time](/blog/unknown-birth-time/)). [Mars in the 4th house](/astrology/mars-in-4th-house/) guards the home front; [Mars in the 6th house](/astrology/mars-in-6th-house/), in its joy, gets the work done.
 
 ## In close relationships {#in-close-relationships}
 

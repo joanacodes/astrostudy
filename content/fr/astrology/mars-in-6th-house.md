@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 54
 glyph: "♂"
-definition: "Mars en maison 6 place Mars dans sa joie, la Fortune défavorable des anciens : le travail quotidien, les habitudes, les collègues et le soin du corps. On y lit un effort énergique et pratique, au mieux avec une tâche en main. Il faut une heure exacte ; la tradition y mettait la maladie, et un thème n’en prédit aucune."
+definition: "En maison 6, Mars est dans sa joie, la Fortune défavorable des anciens : le travail quotidien, les habitudes, les collègues et le soin du corps. On y lit un effort énergique et pratique, au mieux avec une tâche en main. Il faut une heure exacte ; la tradition y mettait la maladie, et un thème n’en prédit aucune."
 facts:
   - { k: "Corps", v: "Mars ♂" }
   - { k: "Maison", v: "Maison 6 : le travail quotidien, les habitudes, les collègues, le soin du corps" }
@@ -21,7 +21,7 @@ faq:
   - q: "Que veut dire Mars en maison 6 ?"
     a: "Que Mars est dans sa joie : votre naissance a placé la planète de l’effort en maison 6, celle du travail quotidien, des habitudes et des collègues. Vous travaillez dur et vite, réglez les problèmes concrètement, et vous sentez au mieux avec une tâche en main. La leçon : compter le repos et le soin du corps dans le travail."
   - q: "Avec Mars en maison 6, faut-il craindre des problèmes de santé ?"
-    a: "Non. La tradition donnait la maladie à la maison 6, mais aucun thème ne peut diagnostiquer ni prédire quoi que ce soit sur votre santé : ces questions regardent un médecin. Avec Mars ici, je regarde la façon dont vous dépensez votre énergie au jour le jour : souvent avec générosité, parfois sans assez de repos."
+    a: "Non. La maison 6 recevait la maladie dans la tradition ; aucun thème, pourtant, ne peut diagnostiquer ni prédire quoi que ce soit sur votre santé : ces questions regardent un médecin. Avec Mars ici, je regarde la façon dont vous dépensez votre énergie au jour le jour : souvent avec générosité, parfois sans assez de repos."
   - q: "Pourquoi la maison 6 est-elle la joie de Mars ?"
     a: "La tradition plaçait la joie de chaque planète dans une maison accordée à sa nature, et Mars, la planète de l’effort, a reçu la maison 6, celle de la peine et du travail quotidien. Cela suggère que ce placement est à l’aise partout où il y a du concret à faire : je le lis comme un placement de travail."
 sources:
@@ -32,9 +32,9 @@ La tradition a donné à Mars une maison où se réjouir, et ce n’est pas une 
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-[Mars](/astrology/mars/), c’est l’effort, l’initiative et la volonté de faire avancer les choses. La [maison 6](/astrology/6th-house/), c’est la forme d’une journée ordinaire : le travail que vous faites vraiment, vos habitudes, les personnes qui travaillent à vos côtés, le soin que vous donnez à votre corps. La tradition l’appelait la Fortune défavorable, la maison de la peine, et disait que Mars y a sa [joie](/astrology/planetary-joys/) : la planète de l’effort se plaît là où il y a de l’effort à fournir. Avec Mars ici, vous travaillez en général dur, vite et concrètement, vous attaquez les problèmes à mesure qu’ils viennent, et vous vous sentez au mieux avec quelque chose entre les mains.
+[Mars](/astrology/mars/) est la planète de l’effort : l’initiative, l’énergie, la volonté de faire avancer les choses. La [maison 6](/astrology/6th-house/), c’est la forme d’une journée ordinaire : le travail que vous faites vraiment, vos habitudes, les personnes qui travaillent à vos côtés, le soin que vous donnez à votre corps. La tradition l’appelait la Fortune défavorable, la maison de la peine, et disait que Mars y a sa [joie](/astrology/planetary-joys/) : la planète de l’effort se plaît là où il y a de l’effort à fournir. Avec Mars ici, vous travaillez en général dur, vite et concrètement, vous attaquez les problèmes à mesure qu’ils viennent, et vous vous sentez au mieux avec quelque chose entre les mains.
 
-C’est une maison cadente, l’une des maisons de l’ajustement et de l’entretien, et son signe naturel est la Vierge. En face se trouve la maison 12, où Saturne a sa joie : de l’autre côté du thème, ce placement regarde donc une maison de retrait et de repos, ce qui en dit long sur ce qu’il oublie le plus souvent.
+La maison 6 est cadente, une maison d’entretien et d’ajustement, et son signe naturel est la Vierge. La maison 12, où Saturne a sa joie, lui fait face : ce placement regarde donc, de l’autre côté du thème, une maison de retrait et de repos, ce qui en dit long sur ce qu’il oublie le plus souvent.
 
 Les anciens livres donnaient aussi la maladie à la maison 6. Un thème ne peut ni diagnostiquer ni prédire quoi que ce soit sur votre santé ([l’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)), et ces questions regardent un médecin. Ce que je lis avec Mars ici, c’est la façon dont vous dépensez votre énergie d’un jour à l’autre, et la part de soin que reçoit votre corps à côté de celle que reçoit votre travail.
 

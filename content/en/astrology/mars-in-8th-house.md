@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 56
 glyph: "♂"
-definition: "Mars in the 8th house puts Mars in the house of intimacy, trust and what you share or owe, the house of Scorpio. It describes strong desire and a strong will: you commit deeply, face crises head on and care how power is shared. It needs an exact birth time, and it predicts neither death nor money."
+definition: "Mars in the 8th house sets your drive in the house of intimacy, trust and what you share or owe. It describes strong desire and a strong will: you commit deeply, face crises head on and care how power is shared. Without an exact birth time it can’t be placed, and it predicts neither death nor money."
 facts:
   - { k: "Body", v: "Mars ♂" }
   - { k: "House", v: "The 8th house: intimacy, trust, what is shared or owed" }
@@ -19,7 +19,7 @@ faq:
   - q: "What does Mars in the 8th house mean?"
     a: "In the 8th house, Mars puts its drive into intimacy, trust and what you share with others; that’s where it sat when you were born. You tend to feel desire strongly, commit deeply, face difficult things head on, and care a great deal about how power and shared resources are handled."
   - q: "Does Mars in the 8th house predict death?"
-    a: "No. Tradition gave the 8th house death and inheritance, but no chart can predict death, and I never read a chart for it. In an adult’s life I read the 8th as intimacy, trust and what’s shared, and Mars there as the intensity and courage you bring to them."
+    a: "No. Death and inheritance belonged to the 8th in the tradition, yet death is something no chart can predict, and I never read one for it. In an adult’s life I read the 8th as intimacy, trust and what’s shared, and Mars there as the intensity and courage you bring to them."
   - q: "Is Mars in the 8th house about sex?"
     a: "Partly. Modern astrologers give the 8th sexual intimacy as one form of closeness, and Mars there can describe strong desire. The house is about depth and trust more than desire alone, though: this Mars wants closeness that’s real, honest and mutual, in bed and out of it."
 sources:
@@ -36,7 +36,7 @@ The 8th's natural sign is Scorpio, which Mars rules in the tradition, so this is
 
 Tradition gave the 8th death and inheritance. I don't read death in any chart ([can astrology predict death?](/astrology/can-astrology-predict-death/)), and I don't forecast what anyone will inherit or owe. In an adult's life, the 8th is the house of what we share with the living, and Mars there describes how you handle it: with intensity, loyalty and a strong need to trust.
 
-At your birth, Mars was in the western sky, past its highest point and on its way down. My houses are Placidus houses, drawn from the minute and the place of birth, so without the time the 8th can't be found at all ([what changes without a birth time](/blog/unknown-birth-time/)). Before it, [Mars in the 7th house](/astrology/mars-in-7th-house/) meets the other person face to face; after it, [Mars in the 9th house](/astrology/mars-in-9th-house/) takes the fight to ideas.
+When you were born, Mars was in the western sky, past its highest point and on its way down. My houses are Placidus houses, drawn from the minute and the place of birth, so without the time the 8th can't be found at all ([what changes without a birth time](/blog/unknown-birth-time/)). Before it, [Mars in the 7th house](/astrology/mars-in-7th-house/) meets the other person face to face; after it, [Mars in the 9th house](/astrology/mars-in-9th-house/) takes the fight to ideas.
 
 ## In close relationships {#in-close-relationships}
 
