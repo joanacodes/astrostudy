@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun", "/astrology/cancer", "/astrology/moon", "/astrology/luminaries", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Sun in Cancer mean?"
-    a: "That the Sun was in Cancer when you were born, so it is your Sun sign. I read it as a sense of self that is strongest when you feel secure, a purpose tied to protecting what you love, and an energy that recovers in familiar places. It works through the Moon, the sign’s ruler."
+    a: "Your Sun sits in Cancer, the one sign the Moon rules. I read it as a sense of self that is strongest when you feel secure, a purpose tied to protecting what you love, and an energy that recovers in familiar places."
   - q: "Why does the Moon matter so much with a Cancer Sun?"
     a: "Because the Moon rules Cancer, so the planet your Sun answers to is the other light of the chart. The Moon’s sign and house show where this Sun refuels and what it needs before it can act. I read the two together: what you are for, and what you need on the way there."
   - q: "Why does the Sun stay longer in Cancer than in Capricorn?"

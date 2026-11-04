@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun", "/astrology/2nd-house", "/astrology/sun-in-taurus", "/astrology/8th-house", "/blog/unknown-birth-time"]
 faq:
   - q: "What does the Sun in the 2nd house mean?"
-    a: "That the Sun was in the house of resources and values when you were born. I read it as a self that grows by building something it can stand on, a skill, a home, a body of work, and that learns over time to separate its worth from what it owns or earns. Its sign shows the style."
+    a: "Your Sun was deep below the horizon, in the small hours, in the house of resources and values. I read it as a self that grows by building something it can stand on, a skill, a home, a body of work, and that learns over time to separate its worth from what it owns or earns."
   - q: "Does the Sun in the 2nd house mean money?"
     a: "It describes an attitude, not an amount. No chart can say what you will earn, keep or lose. The Sun here shows how closely your sense of self is tied to feeling resourced, and how much of your purpose goes into making something lasting. What happens with money depends on your life, not your chart."
   - q: "Was I born at night if my Sun is in the 2nd house?"
@@ -31,15 +31,15 @@ With the Sun in the 2nd house, the question *who am I?* keeps running into anoth
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 2nd house](/astrology/2nd-house/) holds what you have and what you value: money, belongings, the talents you could live from, and the sense of your own worth underneath them. It's succedent, a house that gathers and keeps what the 1st began, and its natural sign is Taurus. The house doesn't hand the [Sun](/astrology/sun/) anything; it gives it a setting. Here the Sun's identity, vitality and purpose are worked out through resources and values: what you build, what you keep, and what you think is worth having.
+[The 2nd house](/astrology/2nd-house/) holds what you have and what you value: money, belongings, the talents you could live from, and the sense of your own worth underneath them. It's succedent, a house that gathers and keeps what the 1st began, and its natural sign is Taurus. The house doesn't hand the [Sun](/astrology/sun/) anything; it gives it a setting. Here the Sun's business, who you are and what you're for, gets settled through resources and values: what you build, what you keep, and what you think is worth having.
 
-In Placidus, the house system I use, a 2nd-house Sun was deep below the horizon when you were born, in the small hours, on its way back towards the east. Nearer dawn, it would be the [Sun in the 1st house](/astrology/sun-in-1st-house/); a little earlier, closer to the middle of the night, the [Sun in the 3rd house](/astrology/sun-in-3rd-house/). Those are times by the Sun rather than the clock, and the houses stretch and shrink with the season, so only your exact [birth time](/blog/unknown-birth-time/) and place settle it.
+Placidus, the house system I use, puts a 2nd-house Sun deep below the horizon at your birth, in the small hours, on its way back towards the east. Nearer dawn, it would be the [Sun in the 1st house](/astrology/sun-in-1st-house/); a little earlier, closer to the middle of the night, the [Sun in the 3rd house](/astrology/sun-in-3rd-house/). Those are times by the Sun rather than the clock, and the houses stretch and shrink with the season, so only your exact [birth time](/blog/unknown-birth-time/) and place settle it.
 
 This Sun says nothing about how much you'll earn or own. No chart can. What it describes is how closely your sense of self is tied to feeling resourced, and how much of your purpose goes into making something that lasts and supports you.
 
 ## In close relationships {#in-close-relationships}
 
-In love, you may show who you are through what you provide: the meal, the home, the practical help, the present chosen with care. Security matters, and so does being valued for more than what you bring. The opposite house, the 8th, holds what is shared, so joint money and possessions can be tender ground; talking about them early, plainly and without blame helps a great deal. The lesson is that you are the gift, more than anything you bring with you.
+In love, what you provide often speaks for you: the meal, the home, the practical help, the present chosen with care. Security matters, and so does being valued for more than what you bring. The opposite house, the 8th, holds what is shared, so joint money and possessions can be tender ground; talking about them early, plainly and without blame helps a great deal. The lesson is that you are the gift, more than anything you bring with you.
 
 ## At work {#at-work}
 

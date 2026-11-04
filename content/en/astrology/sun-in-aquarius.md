@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun", "/astrology/aquarius", "/astrology/detriment", "/astrology/uranus", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "What does Sun in Aquarius mean?"
-    a: "That the Sun was in Aquarius when you were born, so it is your Sun sign. I read it as a self organised around principles, ideas held for years, and its place in a network of people, more than around a personal story. It draws energy from the future, and its purpose tends to be larger than one life."
+    a: "Aquarius, the fixed air sign opposite the Sun’s own, held your Sun at birth. I read it as a self organised around principles, ideas held for years, and its place in a network of people, more than around a personal story. It draws energy from the future, and its purpose tends to be larger than one life."
   - q: "Is the Sun weak in Aquarius?"
     a: "Tradition places the Sun in detriment in Aquarius, opposite its own sign, Leo. I don’t read that as weakness in a person. Leo organises a self around one personal centre, Aquarius around a network of ideas and people. The detriment describes a self more at home in the plural, which has to work harder to say I want."
   - q: "Which planet rules an Aquarius Sun?"
@@ -36,13 +36,13 @@ I read the [Sun](/astrology/sun/) as a chart's organising centre: identity, vita
 
 Tradition calls Aquarius the Sun's [detriment](/astrology/detriment/), because it faces Leo, the Sun's own sign. Leo organises a self around one warm, personal centre; Aquarius organises it around a system. I don't read the detriment as a dim Sun. I read a self that is genuinely at home in the plural, and has to work a little harder to say *I want* rather than *we should*.
 
-Aquarius has two rulers, and I read both. [Saturn](/astrology/saturn/), its ruler in the tradition, shows by sign and house where this Sun builds the frameworks it believes in. [Uranus](/astrology/uranus/), its ruler in modern tropical astrology, shows by house where it insists on doing things differently.
+Aquarius has two rulers, and I read both. [Saturn](/astrology/saturn/), its ruler in the tradition, shows by sign and house where this Sun builds the frameworks it believes in. [Uranus](/astrology/uranus/), its ruler in modern tropical astrology, shows by house where this Sun insists on doing things differently.
 
 The [Sun in Capricorn](/astrology/sun-in-capricorn/) hands over around 20 January, and the [Sun in Pisces](/astrology/sun-in-pisces/) takes over around 19 February; the Aquarius Sun holds the 29 or 30 days between, when the northern days are lengthening but winter hasn't let go. About 1 person in 12 has it, and a birth near either end needs the [birth time](/blog/unknown-birth-time/) to be placed.
 
 ## In close relationships {#in-close-relationships}
 
-Love, for an Aquarius Sun, usually starts as friendship and keeps that shape: respect, honesty, room for each person to stay themselves. You tend to show care by taking someone's ideas seriously and backing their independence. The risk is keeping the personal at arm's length, discussing the relationship as if it were a system you were improving. The lesson is to give a partner your particular, unreasonable preferences as well as your principles, the small *I just like it* that makes you knowable.
+An Aquarius Sun usually comes to love by way of friendship, and keeps that shape: respect, honesty, room for each person to stay themselves. You tend to show care by taking someone's ideas seriously and backing their independence. The risk is keeping the personal at arm's length, discussing the relationship as if it were a system you were improving. The lesson is to give a partner your particular, unreasonable preferences as well as your principles, the small *I just like it* that makes you knowable.
 
 ## At work {#at-work}
 
@@ -50,7 +50,7 @@ This Sun works best on things meant for many people: systems, communities, resea
 
 ## The hard part {#the-hard-part}
 
-The self can drift into the abstract. Asked what you need, you may answer with what would be better for everyone, and only notice later that the question was about you. Feeling different can harden into the whole of who you are, until belonging feels like a betrayal of yourself. Neither is coldness. It's a self that learned to stand slightly apart, and sometimes forgets it's allowed back in.
+The self can drift into the abstract. Asked what you need, you may answer with what would be better for everyone, and only notice later that the question was about you. Feeling different can harden into the whole of who you are, until belonging feels like a betrayal of yourself. A self that learned to stand slightly apart can forget that it's allowed back in.
 
 ## What helps {#what-helps}
 

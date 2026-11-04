@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/sun", "/astrology/sagittarius", "/astrology/jupiter", "/astrology/sun-in-9th-house", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Que veut dire Soleil en Sagittaire ?"
-    a: "Que le Soleil était en Sagittaire à votre naissance : c’est votre signe solaire. J’y lis un moi qui se comprend en replaçant l’expérience dans un tableau plus large, une énergie qui monte quand il y a quelque chose à attendre, et un but qui fonctionne comme un principe que vous suivriez même sans témoin."
+    a: "Qu’à votre naissance, dans les dernières semaines avant le solstice de décembre, le Soleil traversait le signe de feu de Jupiter. J’y lis un moi qui se comprend en replaçant l’expérience dans un tableau plus large, une énergie qui monte quand il y a quelque chose à attendre, et un but qui fonctionne comme un principe."
   - q: "Où un Soleil en Sagittaire va-t-il chercher du sens ?"
     a: "Là où se trouve son maître, Jupiter, par maison. Jupiter passe environ un an dans chaque signe : son signe est donc partagé par toutes les personnes nées à un an près de vous, mais sa maison, qui demande l’heure de naissance, est personnelle. Elle montre où ce Soleil cherche du sens, et où il grandit le plus."
   - q: "Pourquoi est-ce que je me désintéresse d’une chose une fois que je l’ai comprise ?"

@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun", "/astrology/capricorn", "/astrology/saturn", "/astrology/saturn-return", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "What does Sun in Capricorn mean?"
-    a: "That the Sun was in Capricorn when you were born, so it is your Sun sign. I read it as a self that recognises itself in what it has sustained, an energy spent carefully on what is worth it, and a purpose that means building something lasting. It answers to Saturn, which shapes its pace."
+    a: "The Sun was making its quickest crossing of the year, through Capricorn, when you were born. I read it as a self that recognises itself in what it has sustained, an energy spent carefully on what is worth it, and a purpose that means building something lasting, at Saturn’s pace."
   - q: "Is Sun in Capricorn all about status?"
     a: "No. The Sun describes purpose, and purpose isn’t status. A Capricorn Sun wants to build something that holds, a body of work, a structure others can use, a life with foundations, and a position may or may not come with it. The two are easy to confuse, for this Sun as much as for anyone watching it."
   - q: "What does Saturn have to do with a Capricorn Sun?"

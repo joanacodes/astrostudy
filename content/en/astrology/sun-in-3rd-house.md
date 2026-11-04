@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun", "/astrology/3rd-house", "/astrology/9th-house", "/astrology/planetary-joys", "/blog/unknown-birth-time"]
 faq:
   - q: "What does the Sun in the 3rd house mean?"
-    a: "That the Sun was in the house of the everyday mind when you were born. I read it as a self closely tied to its voice, how you think, talk and learn, and a purpose found in the near world: conversation, teaching, writing, the people and places within reach. Its sign shows the style of all that."
+    a: "The Sun sits opposite its own joy here, in the house of the everyday mind. I read it as a self closely tied to its voice, how you think, talk and learn, and a purpose found in the near world: conversation, teaching, writing, the people and places within reach. Its sign shows the style of all that."
   - q: "Why is the 3rd house called the Goddess?"
     a: "It is one of the names Hellenistic astrologers gave the houses. The Moon, a goddess in their world, was said to have her joy in the 3rd, and the Sun had his in the 9th, directly opposite. With the Sun in the 3rd, the light of purpose works in the house tradition gave to the other light."
   - q: "Does the Sun in the 3rd house mean I am close to my siblings?"
@@ -27,19 +27,19 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the 3rd house, its old name and the Moon’s joy, opposite the Sun’s" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Sun’s place relative to the horizon and the meridian" }
 ---
-The Sun in the 3rd house works at street level. It sits opposite the house tradition called its joy, and I read it as a self that finds its purpose in the near and the everyday: the conversation, the lesson, the familiar route, the people within reach.
+The Sun in the 3rd house works at street level. It sits opposite the house tradition called its joy, and its purpose is found in the near and the everyday: the conversation, the lesson, the familiar route, the people within reach.
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 3rd house](/astrology/3rd-house/) is the everyday mind and the world close at hand: how you think, talk, write and learn, siblings and neighbours, the short journeys of an ordinary week. It's cadent, its natural sign is Gemini, and the old astrologers called it the Goddess, the house where the Moon had its joy. Directly across the chart lies [the 9th house](/astrology/9th-house/), the God, where the Sun has its own ([planetary joys](/astrology/planetary-joys/)). So a 3rd-house [Sun](/astrology/sun/) is a light working in the house tradition gave to the other light. I read it as purpose found close by rather than far away: meaning made in daily exchange, not on a distant horizon.
+[The 3rd house](/astrology/3rd-house/) is the everyday mind and the world close at hand: how you think, talk, write and learn, siblings and neighbours, the short journeys of an ordinary week. A cadent house tied to Gemini, it was the Goddess to the old astrologers, the place of the Moon's joy. Directly across the chart lies [the 9th house](/astrology/9th-house/), the God, where the Sun has its own ([planetary joys](/astrology/planetary-joys/)). So a 3rd-house [Sun](/astrology/sun/) is a light working in the house tradition gave to the other light. I read it as purpose found close by rather than far away: meaning made in daily exchange, not on a distant horizon.
 
-In Placidus, the house system I use, the Sun was below the horizon at your birth, in the hours just after the middle of the night, by the Sun's own clock rather than yours. A few minutes can shift a cusp, so I don't read this house without an exact [birth time](/blog/unknown-birth-time/).
+In Placidus, the house system I use, this placement means a birth in the hours just after the middle of the night, by the Sun's own clock rather than yours. A few minutes can shift a cusp, so I don't read this house without an exact [birth time](/blog/unknown-birth-time/).
 
 Your identity, here, is closely tied to your voice: the way you put things, the questions you ask, what you notice on the way to somewhere else. Tradition gave the 3rd house siblings, and for some people with this Sun the brothers, sisters or classmates they grew up beside were where they first found out who they were.
 
 ## In close relationships {#in-close-relationships}
 
-In love, a 3rd-house Sun wants a partner who is also good company on an ordinary Tuesday: someone to talk to in the car, to send the funny thing to, to learn something new with. Conversation is how closeness grows, and silence, unless it's chosen, can feel like distance. The particular risk is talking around a feeling instead of through it, with plenty of words and none of them the difficult ones. The lesson is to say the simple, heavy sentence first.
+A 3rd-house Sun wants a partner who is also good company on an ordinary Tuesday: someone to talk to in the car, to send the funny thing to, to learn something new with. Conversation is how closeness grows, and silence, unless it's chosen, can feel like distance. The particular risk is talking around a feeling instead of through it, with plenty of words and none of them the difficult ones. The lesson is to say the simple, heavy sentence first.
 
 ## At work {#at-work}
 

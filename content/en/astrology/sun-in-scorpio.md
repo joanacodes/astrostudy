@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun", "/astrology/scorpio", "/astrology/pluto", "/astrology/traditional-and-modern-rulers", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Sun in Scorpio mean?"
-    a: "That the Sun was in Scorpio when you were born, so it is your Sun sign. I read it as a self that keeps its core private and shows it in stages, an energy that runs in cycles of depletion and renewal, and a purpose that wants to change things at the root rather than tidy their surface."
+    a: "Your Sun was in Scorpio, the fixed water sign with two rulers, Mars and Pluto. I read it as a self that keeps its core private and shows it in stages, an energy that runs in cycles of depletion and renewal, and a purpose that wants to change things at the root rather than tidy their surface."
   - q: "Which planet rules a Scorpio Sun, Mars or Pluto?"
     a: "Mars, in the tradition, and Pluto for modern astrologers, who gave it Scorpio after its discovery in 1930. I read both. Mars, by sign and house, shows where this Sun puts its effort and draws its lines. Pluto’s sign belongs to a whole generation, so its house is where it speaks to you."
   - q: "Why do I take so long to let people in?"
@@ -40,7 +40,7 @@ The Sun is in Scorpio for 29 or 30 days, from about 23 October to 21 November, t
 
 ## In close relationships {#in-close-relationships}
 
-In love, a Scorpio Sun shows itself room by room, like a house you're invited into slowly. You may watch for a long time before you say much, and test, often without meaning to, whether what you show will be kept safe. Once you trust someone, the bond tends to be total, and so does the hurt when that trust is broken. The lesson is that intimacy can be built in equal steps: you reveal a little, they reveal a little, and nobody has to hand over everything at once to prove they mean it.
+Room by room is how a Scorpio Sun shows itself in love, like a house you're invited into slowly. You may watch for a long time before you say much, and test, often without meaning to, whether what you show will be kept safe. Once you trust someone, the bond tends to be total, and so does the hurt when that trust is broken. The lesson is that intimacy can be built in equal steps: you reveal a little, they reveal a little, and nobody has to hand over everything at once to prove they mean it.
 
 ## At work {#at-work}
 

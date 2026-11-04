@@ -19,9 +19,9 @@ facts:
 related: ["/astrology/sun", "/astrology/scorpio", "/astrology/pluto", "/astrology/traditional-and-modern-rulers", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Que veut dire Soleil en Scorpion ?"
-    a: "Que le Soleil était en Scorpion à votre naissance : c’est votre signe solaire. J’y lis un moi qui garde son cœur secret et le montre par étapes, une énergie qui va par cycles d’épuisement et de renouveau, et un but qui veut changer les choses à la racine plutôt que d’en arranger la surface."
+    a: "Le Scorpion, signe d’eau fixe aux deux maîtres, Mars et Pluton, abritait le Soleil à votre naissance. J’y lis un moi qui garde son cœur secret et le montre par étapes, une énergie qui va par cycles d’épuisement et de renouveau, et un but qui veut changer les choses à la racine plutôt que d’en arranger la surface."
   - q: "Quelle planète gouverne un Soleil en Scorpion, Mars ou Pluton ?"
-    a: "Mars dans la tradition, et Pluton pour les astrologues modernes, qui lui ont confié le Scorpion après sa découverte en 1930. Je lis les deux. Mars, par signe et par maison, montre où ce Soleil met son effort et trace ses limites. Le signe de Pluton appartient à toute une génération : c’est par sa maison que Pluton vous parle."
+    a: "Mars dans la tradition, et Pluton chez les modernes, qui ont donné le Scorpion à cette planète après sa découverte en 1930. Je lis les deux. Mars, par signe et par maison, montre où ce Soleil met son effort. Le signe de Pluton appartient à toute une génération : c’est par sa maison que Pluton vous parle."
   - q: "Pourquoi est-ce que je mets si longtemps à laisser entrer les autres ?"
     a: "Beaucoup de personnes au Soleil en Scorpion le vivent. Le signe protège l’essentiel tant que le terrain ne paraît pas sûr, et le moi se montre pièce par pièce. Ce n’est pas de la froideur : vous vous assurez que ce que vous révélez sera bien reçu, et cela s’apaise quand une personne a montré qu’elle pouvait le porter."
 sources:
@@ -41,7 +41,7 @@ Le Soleil reste 29 ou 30 jours en Scorpion, du 23 octobre au 21 novembre environ
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-En amour, un Soleil en Scorpion se montre pièce par pièce, comme une maison où l’on vous invite lentement. Vous observez peut-être longtemps avant de dire grand-chose, et vous vérifiez, souvent sans le vouloir, que ce que vous montrez sera gardé en lieu sûr. Une fois la confiance donnée, le lien est volontiers total, et la blessure aussi quand cette confiance est trahie. La leçon : l’intimité peut se construire à pas égaux. Vous révélez un peu, l’autre révèle un peu, et personne n’a besoin de tout livrer d’un coup pour prouver son sérieux.
+Pièce par pièce : c’est ainsi qu’un Soleil en Scorpion se montre en amour, comme une maison où l’on vous invite lentement. Vous observez peut-être longtemps avant de dire grand-chose, et vous vérifiez, souvent sans le vouloir, que ce que vous montrez sera gardé en lieu sûr. Une fois la confiance donnée, le lien est volontiers total, et la blessure aussi quand cette confiance est trahie. La leçon : l’intimité peut se construire à pas égaux. Vous révélez un peu, l’autre révèle un peu, et personne n’a besoin de tout livrer d’un coup pour prouver son sérieux.
 
 ## Au travail {#au-travail}
 

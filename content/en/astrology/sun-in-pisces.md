@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun", "/astrology/pisces", "/astrology/neptune", "/astrology/jupiter", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Sun in Pisces mean?"
-    a: "That the Sun was in Pisces when you were born, so it is your Sun sign. I read it as a self held together less by a fixed outline than by what it is devoted to, an energy that ebbs and returns like a tide, and a purpose found through imagination and care for something larger than one life."
+    a: "The Sun was in the last sign of the zodiac when you were born, in the weeks before the March equinox. I read it as a self held together less by a fixed outline than by what it is devoted to, an energy that ebbs and returns like a tide, and a purpose found through imagination."
   - q: "Which planet rules a Pisces Sun?"
     a: "Two. Jupiter ruled Pisces in the tradition; Neptune, discovered in 1846, was given it by modern astrologers. I read both: Jupiter, by sign and house, for where this Sun finds meaning and grows, and Neptune, by house, for where its imagination and compassion most want to work."
   - q: "Why is it hard to say who I am with the Sun in Pisces?"

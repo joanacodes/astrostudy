@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/sun", "/astrology/pisces", "/astrology/neptune", "/astrology/jupiter", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Que veut dire Soleil en Poissons ?"
-    a: "Que le Soleil était en Poissons à votre naissance : c’est votre signe solaire. J’y lis un moi tenu ensemble moins par un contour fixe que par ce à quoi il se consacre, une énergie qui reflue et revient comme une marée, et un but trouvé par l’imagination et le soin de quelque chose de plus grand qu’une seule vie."
+    a: "Le Soleil était dans le dernier signe du zodiaque à votre naissance, dans les semaines qui précèdent l’équinoxe de mars. J’y lis un moi tenu ensemble moins par un contour fixe que par ce à quoi il se consacre, une énergie qui reflue et revient comme une marée, et un but trouvé par l’imagination."
   - q: "Quelle planète gouverne un Soleil en Poissons ?"
     a: "Deux. Jupiter gouvernait les Poissons dans la tradition ; Neptune, que l’on découvre en 1846, les a reçus des astrologues modernes. Je lis les deux : Jupiter, par signe et par maison, pour l’endroit où ce Soleil trouve du sens et grandit, et Neptune, par maison, pour l’endroit où son imagination et sa compassion veulent le plus travailler."
   - q: "Pourquoi est-ce si difficile de dire qui je suis avec le Soleil en Poissons ?"
@@ -41,7 +41,7 @@ Le Soleil passe 29 ou 30 jours en Poissons, du 19 février à l’équinoxe de m
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-En amour, un Soleil en Poissons se donne avec générosité, et sent souvent ce dont l’autre a besoin avant qu’un mot soit dit. Le risque, c’est de prendre le contour de l’autre — ses humeurs, ses projets, sa version de vous — jusqu’à ce que votre propre direction se brouille. La compassion n’est pas l’effacement de soi, et une relation va mieux, pas moins bien, quand vous gardez une part de vous qui n’en dépend pas. Quelqu’un qui vous demande ce que *vous* imaginez pour votre vie, et attend la réponse, vaut plus que quelqu’un qui se contente de vous adorer.
+Un Soleil en Poissons se donne avec générosité quand il aime, et sent souvent ce dont l’autre a besoin avant qu’un mot soit dit. Le risque, c’est de prendre le contour de l’autre — ses humeurs, ses projets, sa version de vous — jusqu’à ce que votre propre direction se brouille. La compassion n’est pas l’effacement de soi, et une relation va mieux, pas moins bien, quand vous gardez une part de vous qui n’en dépend pas. Quelqu’un qui vous demande ce que *vous* imaginez pour votre vie, et attend la réponse, vaut plus que quelqu’un qui se contente de vous adorer.
 
 ## Au travail {#au-travail}
 

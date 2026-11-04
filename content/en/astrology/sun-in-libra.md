@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun", "/astrology/libra", "/astrology/fall", "/astrology/venus", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Sun in Libra mean?"
-    a: "That the Sun was in Libra when you were born, so it is your Sun sign. I read it as a self that knows itself through what it finds fair, fitting and well made, an energy that recovers in harmony, and a purpose built around balance. It tends to act by weighing and consulting, rather than by deciding alone."
+    a: "You were born in the month after the September equinox, with the Sun in Libra, the sign of its fall. I read it as a self that knows itself through what it finds fair, fitting and well made, an energy that recovers in harmony, and a purpose built around balance, acting by weighing rather than deciding alone."
   - q: "Is the Sun weak in Libra?"
     a: "Tradition calls Libra the Sun’s fall, opposite its exaltation in Aries. Ptolemy tied it to the season: after the September equinox, the days shorten in the northern hemisphere. I don’t read that as a weak person. I read a self whose strength is judgement and proportion rather than going it alone, which is a different strength."
   - q: "Why is it hard to know what I want with the Sun in Libra?"

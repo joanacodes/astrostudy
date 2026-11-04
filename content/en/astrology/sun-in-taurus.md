@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun", "/astrology/taurus", "/astrology/venus", "/astrology/sun-in-2nd-house", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Sun in Taurus mean?"
-    a: "That the Sun was in Taurus when you were born, so it is your Sun sign. I read it as a sense of self built on a few things you value deeply and keep for years, an energy that recovers through the body rather than through ideas, and a purpose that grows by tending something until it is truly yours."
+    a: "Your birthday falls in the Sun’s month in Taurus, the fixed earth sign that Venus rules. I read it as a sense of self built on a few things you value deeply and keep for years, an energy that recovers through the body, and a purpose that grows by tending something until it is truly yours."
   - q: "Is the Sun strong in Taurus?"
     a: "Tradition gives the Sun no special status in Taurus: it is not at home there, not exalted, and not weakened. I read that as neutral ground. What colours this Sun is the sign’s fixed, earthy manner and its ruler, Venus, which is always close to the Sun in the sky and so always close to its story."
   - q: "Where is Venus if my Sun is in Taurus?"

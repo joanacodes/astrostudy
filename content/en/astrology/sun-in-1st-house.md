@@ -48,7 +48,7 @@ At work, your person tends to be part of the job. Roles where you're the face of
 
 ## The hard part {#the-hard-part}
 
-When identity and presence are this close, a bad day can feel like a verdict on who you are. You may feel responsible for the mood of every room you enter, or find it hard to be ordinary and unnoticed in a crowd. Vitality shows too: when you're tired, everyone can tell, and you may push on rather than let it be seen. None of this is vanity. It's a self with nowhere to hide, still learning that it doesn't have to be switched on all the time.
+When identity and presence are this close, a bad day can feel like a verdict on who you are. You may feel responsible for the mood of every room you enter, or find it hard to be ordinary and unnoticed in a crowd. Vitality shows too: when you're tired, everyone can tell, and you may push on rather than let it be seen. Being seen this easily is tiring: this is a self with nowhere to hide, still learning that it doesn't have to be switched on all the time.
 
 ## What helps {#what-helps}
 

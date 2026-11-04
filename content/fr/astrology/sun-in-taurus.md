@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/sun", "/astrology/taurus", "/astrology/venus", "/astrology/sun-in-2nd-house", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Que veut dire Soleil en Taureau ?"
-    a: "Que le Soleil était en Taureau à votre naissance : c’est votre signe solaire. J’y lis un sentiment de soi bâti sur quelques valeurs profondes, gardées pendant des années, une énergie qui se refait par le corps plutôt que par les idées, et un but qui grandit à force de soigner quelque chose jusqu’à le faire vraiment vôtre."
+    a: "Votre anniversaire tombe pendant le passage du Soleil en Taureau, le signe de terre fixe que gouverne Vénus. J’y lis un sentiment de soi bâti sur quelques valeurs profondes, gardées pendant des années, une énergie qui se refait par le corps, et un but qui grandit à force de soigner quelque chose jusqu’à le faire vraiment vôtre."
   - q: "Le Soleil est-il fort en Taureau ?"
     a: "La tradition ne donne au Soleil aucun statut particulier en Taureau : il n’y est ni chez lui, ni exalté, ni affaibli. J’y lis un terrain neutre. Ce qui colore ce Soleil, c’est la manière fixe et terrienne du signe, et son maître, Vénus, toujours proche du Soleil dans le ciel, donc toujours proche de son histoire."
   - q: "Où est Vénus si mon Soleil est en Taureau ?"

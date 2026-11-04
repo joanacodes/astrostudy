@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/sun", "/astrology/cancer", "/astrology/moon", "/astrology/luminaries", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Que veut dire Soleil en Cancer ?"
-    a: "Que le Soleil était en Cancer à votre naissance : c’est votre signe solaire. J’y lis un sentiment de soi plus fort quand vous vous sentez en sécurité, un but lié à la protection de ce que vous aimez, et une énergie qui se refait dans les lieux familiers. Ce Soleil passe par la Lune, qui gouverne le signe."
+    a: "Votre Soleil est dans le seul signe que gouverne la Lune. J’y lis un sentiment de soi plus fort quand vous vous sentez en sécurité, un but lié à la protection de ce que vous aimez, et une énergie qui se refait dans les lieux familiers."
   - q: "Pourquoi la Lune compte-t-elle autant avec un Soleil en Cancer ?"
     a: "Parce que la Lune gouverne le Cancer : la planète dont dépend votre Soleil est l’autre luminaire du thème. Le signe et la maison de votre Lune montrent où ce Soleil se ressource, et ce dont il a besoin avant d’agir. Je les lis ensemble : ce pour quoi vous êtes là, et ce dont vous avez besoin en chemin."
   - q: "Pourquoi le Soleil reste-t-il plus longtemps en Cancer qu’en Capricorne ?"

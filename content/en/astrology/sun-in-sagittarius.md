@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun", "/astrology/sagittarius", "/astrology/jupiter", "/astrology/sun-in-9th-house", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Sun in Sagittarius mean?"
-    a: "That the Sun was in Sagittarius when you were born, so it is your Sun sign. I read it as a self that makes sense of itself by fitting experience into a larger picture, an energy that rises when there is something to look forward to, and a purpose that works like a principle you would act on even unobserved."
+    a: "You were born in the last weeks before the December solstice, with the Sun in Jupiter’s fire sign. I read it as a self that makes sense of itself by fitting experience into a larger picture, an energy that rises when there is something to look forward to, and a purpose that works like a principle."
   - q: "Where does a Sagittarius Sun look for meaning?"
     a: "Where its ruler, Jupiter, sits by house. Jupiter spends about a year in each sign, so its sign is shared by everyone born within a year or so of you, but its house, which needs a birth time, is personal. It shows the part of life where this Sun goes looking for meaning, and where it tends to grow most."
   - q: "Why do I lose interest once I’ve understood something?"

@@ -49,7 +49,7 @@ Au travail, votre personne fait souvent partie du métier. Les rôles où vous �
 
 ## Le plus difficile {#le-plus-difficile}
 
-Quand l’identité et la présence sont aussi proches, un mauvais jour peut ressembler à un verdict sur ce que vous êtes. Vous vous sentez peut-être responsable de l’ambiance de chaque pièce où vous entrez, ou vous avez du mal à disparaître dans une foule. La vitalité se voit aussi : quand vous êtes à plat, tout le monde le sent, et vous préférez peut-être continuer plutôt que de le laisser voir. Rien de tout cela n’est de la vanité. C’est un moi qui n’a nulle part où se cacher, et qui apprend encore qu’il n’a pas à briller en permanence.
+Quand l’identité et la présence sont aussi proches, un mauvais jour peut ressembler à un verdict sur ce que vous êtes. Vous vous sentez peut-être responsable de l’ambiance de chaque pièce où vous entrez, ou vous avez du mal à disparaître dans une foule. La vitalité se voit aussi : quand vous êtes à plat, tout le monde le sent, et vous préférez peut-être continuer plutôt que de le laisser voir. Une visibilité aussi facile fatigue : c’est un moi qui n’a nulle part où se cacher, et qui apprend encore qu’il n’a pas à briller en permanence.
 
 ## Ce qui aide {#ce-qui-aide}
 

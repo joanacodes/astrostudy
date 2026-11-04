@@ -19,11 +19,11 @@ facts:
 related: ["/astrology/sun", "/astrology/capricorn", "/astrology/saturn", "/astrology/saturn-return", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "Que veut dire Soleil en Capricorne ?"
-    a: "Que le Soleil était en Capricorne à votre naissance : c’est votre signe solaire. J’y lis un moi qui se reconnaît dans ce qu’il a fait durer, une énergie dépensée avec soin pour ce qui en vaut la peine, et un but qui consiste à bâtir quelque chose de durable. Il répond à Saturne, qui lui donne son rythme."
+    a: "Le Soleil faisait sa traversée la plus rapide de l’année, celle du Capricorne, à votre naissance. J’y lis un moi qui se reconnaît dans ce qu’il a fait durer, une énergie dépensée avec soin pour ce qui en vaut la peine, et un but qui consiste à bâtir quelque chose de durable, au rythme de Saturne."
   - q: "Le Soleil en Capricorne, est-ce une affaire de statut ?"
     a: "Non. Le Soleil décrit le but, et le but n’est pas le statut. Un Soleil en Capricorne veut bâtir quelque chose qui tient — une œuvre, une structure dont d’autres se servent, une vie avec des fondations —, et une position peut venir avec, ou pas. Les deux se confondent facilement, pour ce Soleil comme pour son entourage."
   - q: "Qu’est-ce que Saturne a à voir avec un Soleil en Capricorne ?"
-    a: "Saturne gouverne le Capricorne, sans planète moderne pour partager ce rôle : c’est donc à Saturne que votre Soleil répond. Le signe et la maison de Saturne montrent où ce Soleil fait son long travail de construction. Dans mon propre carnet, Saturne faisait partie des trois placements qui ont tenu le plus souvent : je lui donne donc du temps."
+    a: "Saturne gouverne le Capricorne, sans planète moderne pour partager ce rôle : c’est donc à Saturne que votre Soleil répond. Le signe et la maison de Saturne montrent où ce Soleil fait son long travail de construction. Dans mon propre carnet, Saturne faisait partie des trois placements qui ont tenu le plus souvent : je donne donc du temps à Saturne."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les signes et leurs maîtres" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée du passage du Soleil en Capricorne, et la part des personnes nées entre 1930 et 2009 qui ont ce placement" }

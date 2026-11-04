@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun", "/astrology/virgo", "/astrology/mercury", "/astrology/sun-in-6th-house", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Sun in Virgo mean?"
-    a: "That the Sun was in Virgo when you were born, so it is your Sun sign. I read it as a self that knows itself through the distinctions it can make, a purpose expressed through method and care for detail, and an energy that steadies when work has a clear shape. Its ruler, Mercury, shows how it thinks."
+    a: "The Sun was in Virgo, the sign where Mercury is both at home and exalted, when you were born. I read it as a self that knows itself through the distinctions it can make, a purpose expressed through method and care for detail, and an energy that steadies when work has a clear shape."
   - q: "Does Sun in Virgo make you a perfectionist?"
     a: "Not by itself. The Sun describes identity and purpose; in Virgo it works through discernment, the ability to tell what is right from what is nearly right. That turns into perfectionism only when the standard stops serving anyone, including you. Many people with this Sun learn to set the bar before they start, and stop there."
   - q: "What does Mercury add to a Virgo Sun?"
@@ -48,7 +48,7 @@ A Virgo Sun is often the one who notices the step everyone else skips. Work that
 
 ## The hard part {#the-hard-part}
 
-The self, here, can become a draft that never gets finished. If you know yourself by what could be better, you may never quite let yourself be done, and the inner editor that serves your work so well can turn its red pen on you. Rest is hard to justify when rest isn't useful, so vitality wears down without anyone noticing, you least of all. None of this is coldness. It's a self that is very exact, still learning that it's allowed to be enough.
+The self, here, can become a draft that never gets finished. If you know yourself by what could be better, you may never quite let yourself be done, and the inner editor that serves your work so well can turn its red pen on you. Rest is hard to justify when rest isn't useful, so vitality wears down without anyone noticing, you least of all. What sits behind the red pen is a very exact self, still learning that it's allowed to be enough.
 
 ## What helps {#what-helps}
 

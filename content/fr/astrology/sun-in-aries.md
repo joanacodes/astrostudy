@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/sun", "/astrology/aries", "/astrology/exaltation", "/astrology/mars", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Que veut dire Soleil en Bélier ?"
-    a: "Que le Soleil était en Bélier le jour de votre naissance : le Bélier est votre signe solaire. J’y lis une identité qui devient nette quand vous commencez quelque chose, une énergie qui arrive par élans, et un sens de la direction trouvé en faisant le premier pas. Le reste du thème dit comment tout cela se montre."
+    a: "Votre naissance tombe dans les semaines qui suivent l’équinoxe de mars, quand le Soleil traverse le Bélier. J’y lis une identité qui devient nette quand vous commencez quelque chose, une énergie qui arrive par élans, et un sens de la direction trouvé en faisant le premier pas. Le reste du thème dit comment cela se montre."
   - q: "Pourquoi le Soleil est-il exalté en Bélier ?"
     a: "Pour Ptolémée, c’était une affaire de saison. Le Soleil entre en Bélier à l’équinoxe de mars : dans l’hémisphère Nord, où il écrivait, les jours commencent alors à l’emporter sur les nuits, et la chaleur monte. La tradition en a fait l’exaltation du Soleil. J’y lis un moi qui n’a guère besoin de permission pour exister, pas une personne meilleure."
   - q: "Le Soleil en Bélier fait-il de vous un chef ?"

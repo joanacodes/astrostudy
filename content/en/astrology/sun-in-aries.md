@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun", "/astrology/aries", "/astrology/exaltation", "/astrology/mars", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Sun in Aries mean?"
-    a: "That the Sun was in Aries on the day you were born, so Aries is your Sun sign. I read it as an identity that comes into focus when you begin something, energy that arrives in bursts, and a sense of direction you find by taking the first step. The rest of your chart decides how all that shows."
+    a: "You were born in the weeks after the March equinox, while the Sun crossed Aries, the first sign. I read it as an identity that comes into focus when you begin something, energy that arrives in bursts, and a sense of direction found by taking the first step. The rest of the chart decides how that shows."
   - q: "Why is the Sun exalted in Aries?"
     a: "Ptolemy’s reason was the season. The Sun enters Aries at the March equinox, when, in the northern hemisphere where he wrote, the days begin to outlast the nights and the warmth builds. Tradition calls that the Sun’s exaltation. I read it as a self that needs little permission to exist, not as a better person."
   - q: "Does Sun in Aries make you a leader?"

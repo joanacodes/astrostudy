@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/sun", "/astrology/libra", "/astrology/fall", "/astrology/venus", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Que veut dire Soleil en Balance ?"
-    a: "Que le Soleil était en Balance à votre naissance : c’est votre signe solaire. J’y lis un moi qui se connaît par ce qu’il trouve juste, à sa place et bien fait, une énergie qui se refait dans l’harmonie, et un but construit autour de l’équilibre. Il agit volontiers en pesant et en consultant, plutôt qu’en décidant seul."
+    a: "Que vous êtes du mois qui suit l’équinoxe de septembre, quand le Soleil traverse la Balance, le signe de sa chute. J’y lis un moi qui se connaît par ce qu’il trouve juste, à sa place et bien fait, une énergie qui se refait dans l’harmonie, et un but construit autour de l’équilibre."
   - q: "Le Soleil est-il faible en Balance ?"
     a: "La tradition fait de la Balance la chute du Soleil, à l’opposé de son exaltation en Bélier. Ptolémée la rattachait à la saison : après l’équinoxe de septembre, les jours raccourcissent dans l’hémisphère Nord. Je n’y lis pas une personne faible, mais un moi dont la force est le jugement et la proportion plutôt que l’action en solitaire : une autre force."
   - q: "Pourquoi est-ce difficile de savoir ce que je veux avec le Soleil en Balance ?"

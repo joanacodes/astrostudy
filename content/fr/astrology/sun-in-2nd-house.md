@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/sun", "/astrology/2nd-house", "/astrology/sun-in-taurus", "/astrology/8th-house", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire le Soleil en maison 2 ?"
-    a: "Que le Soleil se trouvait dans la maison des ressources et des valeurs à votre naissance. J’y lis un moi qui grandit en bâtissant quelque chose sur quoi s’appuyer — un savoir-faire, un foyer, une œuvre — et qui apprend avec le temps à séparer sa valeur de ce qu’il possède ou gagne. Son signe en donne le style."
+    a: "Votre Soleil était loin sous l’horizon, au cœur de la nuit, dans la maison des ressources et des valeurs. J’y lis un moi qui grandit en bâtissant quelque chose sur quoi s’appuyer — un savoir-faire, un foyer, une œuvre — et qui apprend avec le temps à séparer sa valeur de ce qu’il possède ou gagne. Son signe en donne le style."
   - q: "Le Soleil en maison 2 parle-t-il d’argent ?"
     a: "Il décrit une attitude, pas un montant. Aucun thème ne peut dire ce que vous gagnerez, garderez ou perdrez. Le Soleil montre ici à quel point votre sentiment de vous-même est lié au fait de disposer de ressources, et quelle part de votre but va à construire du durable. L’argent, lui, dépend de votre vie, pas de votre thème."
   - q: "Le Soleil en maison 2 veut-il dire une naissance de nuit ?"
@@ -32,15 +32,15 @@ Avec le Soleil en maison 2, la question *qui suis-je ?* en croise sans cesse u
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La [maison 2](/astrology/2nd-house/) contient ce que vous avez et ce qui compte pour vous : l’argent, les biens, les talents dont vous pourriez vivre, et le sentiment de votre propre valeur en dessous. Elle est succédente, une maison qui rassemble et garde ce que la maison 1 a commencé, et son signe naturel est le Taureau. La maison ne donne rien au [Soleil](/astrology/sun/) : elle lui donne un cadre. L’identité, la vitalité et le but du Soleil s’y travaillent à travers les ressources et les valeurs : ce que vous bâtissez, ce que vous gardez, ce qui vous paraît valoir la peine.
+La [maison 2](/astrology/2nd-house/) contient ce que vous avez et ce qui compte pour vous : l’argent, les biens, les talents dont vous pourriez vivre, et le sentiment de votre propre valeur en dessous. Elle est succédente, une maison qui rassemble et garde ce que la maison 1 a commencé, et son signe naturel est le Taureau. La maison ne donne rien au [Soleil](/astrology/sun/) : elle lui donne un cadre. Les affaires du Soleil, qui vous êtes et ce pour quoi vous êtes là, s’y règlent à travers les ressources et les valeurs : ce que vous bâtissez, ce que vous gardez, ce qui vous paraît valoir la peine.
 
-En Placidus, le système de maisons que j’utilise, un Soleil en maison 2 était loin sous l’horizon à votre naissance, au cœur de la nuit, sur le chemin du retour vers l’est. Plus près de l’aube, ce serait le [Soleil en maison 1](/astrology/sun-in-1st-house/) ; un peu plus tôt, vers le milieu de la nuit, le [Soleil en maison 3](/astrology/sun-in-3rd-house/). Ce sont des heures de Soleil plutôt que d’horloge, et les maisons s’allongent ou rétrécissent avec la saison : seules votre [heure de naissance](/blog/unknown-birth-time/) exacte et votre lieu de naissance tranchent.
+Placidus, le système de maisons que j’utilise, place un Soleil en maison 2 loin sous l’horizon à votre naissance, au cœur de la nuit, sur le chemin du retour vers l’est. Plus près de l’aube, ce serait le [Soleil en maison 1](/astrology/sun-in-1st-house/) ; un peu plus tôt, vers le milieu de la nuit, le [Soleil en maison 3](/astrology/sun-in-3rd-house/). Ce sont des heures de Soleil plutôt que d’horloge, et les maisons s’allongent ou rétrécissent avec la saison : seules votre [heure de naissance](/blog/unknown-birth-time/) exacte et votre lieu de naissance tranchent.
 
 Ce Soleil ne dit rien de ce que vous gagnerez ou posséderez. Aucun thème ne le peut. Il décrit à quel point votre sentiment de vous-même est lié au fait de disposer de ressources, et quelle part de votre but va à faire quelque chose qui dure et vous soutient.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-En amour, vous montrez peut-être qui vous êtes par ce que vous apportez : le repas, le foyer, l’aide pratique, le cadeau choisi avec soin. La sécurité compte, et il vous importe aussi qu’on vous aime pour autre chose que ce que vous apportez. La maison opposée, la maison 8, contient ce qui se partage : l’argent et les biens communs peuvent donc être un terrain sensible, et en parler tôt, simplement et sans reproche aide beaucoup. La leçon : le cadeau, c’est vous, plus que tout ce que vous apportez.
+En amour, ce que vous apportez parle souvent pour vous : le repas, le foyer, l’aide pratique, le cadeau choisi avec soin. La sécurité compte, et il vous importe aussi qu’on vous aime pour autre chose que ce que vous apportez. La maison opposée, la maison 8, contient ce qui se partage : l’argent et les biens communs peuvent donc être un terrain sensible, et en parler tôt, simplement et sans reproche aide beaucoup. La leçon : le cadeau, c’est vous, plus que tout ce que vous apportez.
 
 ## Au travail {#au-travail}
 

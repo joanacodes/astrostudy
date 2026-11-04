@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun", "/astrology/gemini", "/astrology/mercury", "/astrology/sun-conjunct-mercury", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Sun in Gemini mean?"
-    a: "That the Sun was in Gemini when you were born, so Gemini is your Sun sign. I read it as a self with several real strands, interests and roles that genuinely differ, held together by a question you keep asking. It draws energy from exchange, and it grows by finding the thread that runs through all its parts."
+    a: "The Sun was passing through Gemini, the mutable air sign Mercury rules, when you were born. I read it as a self with several real strands, interests and roles that genuinely differ, held together by a question you keep asking. It draws energy from exchange, and grows by finding the thread through all its parts."
   - q: "Which sign is Mercury in if my Sun is in Gemini?"
     a: "Taurus, Gemini or Cancer. Mercury never gets more than about 28° from the Sun, so it can only be in your Sun sign or a sign next to it. In Taurus it slows and steadies your thinking, in Gemini it speaks with the Sun’s own voice, and in Cancer it thinks through memory and feeling."
   - q: "Why do I feel like a different person with different people?"

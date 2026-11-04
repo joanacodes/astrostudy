@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/sun", "/astrology/gemini", "/astrology/mercury", "/astrology/sun-conjunct-mercury", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Que veut dire Soleil en Gémeaux ?"
-    a: "Que le Soleil était en Gémeaux à votre naissance : c’est votre signe solaire. J’y lis un moi à plusieurs fils, des intérêts et des rôles vraiment différents, tenus ensemble par une question que vous ne cessez de poser. Il tire son énergie de l’échange, et grandit en trouvant le fil qui traverse toutes ses parts."
+    a: "Le Soleil traversait les Gémeaux, signe d’air mutable gouverné par Mercure, à votre naissance. J’y lis un moi à plusieurs fils, des intérêts et des rôles vraiment différents, tenus ensemble par une question que vous ne cessez de poser. Il tire son énergie de l’échange, et grandit en trouvant le fil qui traverse toutes ses parts."
   - q: "Dans quel signe est Mercure si mon Soleil est en Gémeaux ?"
     a: "En Taureau, en Gémeaux ou en Cancer. Mercure ne s’écarte jamais de plus de 28° environ du Soleil, et ne peut donc être que dans votre signe solaire ou dans un signe voisin. En Taureau, la pensée ralentit et s’affermit ; en Gémeaux, elle parle avec la voix même du Soleil ; en Cancer, elle passe par la mémoire et le ressenti."
   - q: "Pourquoi suis-je une personne différente selon les gens ?"
@@ -55,4 +55,4 @@ Ce moi-là peut s’éparpiller. Vous vous sentez peut-être une personne diffé
 
 Cherchez votre fil conducteur : la question que vous posez sous tous vos centres d’intérêt. Écrivez-la, et laissez-la décider de ce à quoi vous dites oui. Gardez un seul carnet, papier ou non, où les fils se rejoignent : pour beaucoup de Soleils en Gémeaux, écrire est la façon dont le moi se rassemble. Offrez aussi à votre esprit un vrai silence, une marche sans rien à lire ni à écouter, une soirée sans messages, pour que les voix se posent en une seule.
 
-Un Soleil en Gémeaux repose sur deux des placements qui ont tenu environ une fois sur trois dans [mon carnet](/blog/i-tested-my-birth-chart/) : le signe solaire, et Mercure, son maître. Saturne, Chiron et Lilith ont tenu bien plus souvent. Je traite donc ce que disent ces deux-là comme un premier jet, et je laisse le reste du thème le corriger.
+Un Soleil en Gémeaux repose sur deux des placements qui ont tenu environ une fois sur trois dans [mon carnet](/blog/i-tested-my-birth-chart/) : le signe solaire, et Mercure, qui gouverne ce signe. Saturne, Chiron et Lilith ont tenu bien plus souvent. Je traite donc ce que disent ces deux-là comme un premier jet, et je laisse le reste du thème le corriger.

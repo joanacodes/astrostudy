@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/sun", "/astrology/virgo", "/astrology/mercury", "/astrology/sun-in-6th-house", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Que veut dire Soleil en Vierge ?"
-    a: "Que le Soleil était en Vierge à votre naissance : c’est votre signe solaire. J’y lis un moi qui se connaît par les distinctions qu’il sait faire, un but qui s’exprime par la méthode et le soin du détail, et une énergie qui se stabilise quand le travail a une forme claire. Mercure, maître du signe, montre comment il pense."
+    a: "Le Soleil était en Vierge à votre naissance, le signe où Mercure a à la fois son domicile et son exaltation. J’y lis un moi qui se connaît par les distinctions qu’il sait faire, un but qui s’exprime par la méthode et le soin du détail, et une énergie qui se stabilise quand le travail a une forme claire."
   - q: "Le Soleil en Vierge rend-il perfectionniste ?"
     a: "Pas à lui seul. Le Soleil décrit l’identité et le but ; en Vierge, il passe par le discernement, la capacité de distinguer le juste du presque juste. Cela ne tourne au perfectionnisme que lorsque l’exigence ne sert plus personne, pas même vous. Beaucoup apprennent à fixer la barre avant de commencer, et à s’arrêter là."
   - q: "Qu’apporte Mercure à un Soleil en Vierge ?"
@@ -35,7 +35,7 @@ Bien des gens voient quand quelque chose cloche. Un Soleil en Vierge sait en gé
 
 Votre [Soleil](/astrology/sun/) décrit l’identité, la vitalité et la direction, le centre autour duquel s’organise le reste du thème. La [Vierge](/astrology/virgo/), terre mutable, donne à ce centre une manière analytique et pratique. Le but y prend souvent la forme d’une méthode : vous vous sentez le plus vous-même quand vous faites quelque chose avec soin, selon un procédé auquel vous vous fiez, et quand le résultat peut supporter l’examen. Pour ce Soleil, une exigence est moins un fardeau qu’une façon de dire *voilà ce qui compte pour moi*.
 
-Pour le Soleil lui-même, la Vierge n’est ni un domicile ni un exil : il n’y a aucune dignité. Le maître du signe, c’est autre chose. [Mercure](/astrology/mercury/) gouverne la Vierge et y a aussi son exaltation, et comme Mercure ne s’éloigne jamais de plus de 28° environ du Soleil, votre Mercure se trouve en Lion, en Vierge ou en Balance. Quand Mercure partage le signe du Soleil, le maître de ce Soleil travaille avec toute sa précision, et une partie de ma lecture consiste à vérifier que l’esprit d’analyse ne parle pas à la place du moi.
+Pour le Soleil lui-même, la Vierge n’est ni un domicile ni un exil : il n’y a aucune dignité. Le maître du signe, c’est autre chose. [Mercure](/astrology/mercury/) gouverne la Vierge et y a aussi son exaltation, et comme Mercure ne s’éloigne jamais de plus de 28° environ du Soleil, votre Mercure se trouve en Lion, en Vierge ou en Balance. Quand Mercure partage le signe du Soleil, la précision de Mercure est entière, et une partie de ma lecture consiste à vérifier que l’esprit d’analyse ne parle pas à la place du moi.
 
 Le Soleil arrive en Vierge vers le 23 août, quand le [Soleil en Lion](/astrology/sun-in-leo/) achève son mois, et en repart à l’équinoxe de septembre, vers le 22 septembre, là où commence le [Soleil en Balance](/astrology/sun-in-libra/). Il y reste 30 ou 31 jours, assez pour être le signe solaire d’à peu près 1 personne sur 12 ; pour une naissance un jour de passage, votre [heure de naissance](/blog/unknown-birth-time/) décide.
 
@@ -49,7 +49,7 @@ Un Soleil en Vierge est souvent celui qui remarque l’étape que tout le monde 
 
 ## Le plus difficile {#le-plus-difficile}
 
-Le moi, ici, peut devenir un brouillon jamais fini. Si vous vous connaissez par ce qui pourrait être mieux, vous ne vous autorisez peut-être jamais à avoir terminé, et le correcteur intérieur qui sert si bien votre travail peut tourner son stylo rouge contre vous. Le repos est difficile à justifier quand il n’est pas utile, alors la vitalité s’use sans que personne le remarque, et vous moins que quiconque. Rien de tout cela n’est de la froideur. C’est un moi très exact, qui apprend encore qu’il a le droit de suffire.
+Le moi, ici, peut devenir un brouillon jamais fini. Si vous vous connaissez par ce qui pourrait être mieux, vous ne vous autorisez peut-être jamais à avoir terminé, et le correcteur intérieur qui sert si bien votre travail peut tourner son stylo rouge contre vous. Le repos est difficile à justifier quand il n’est pas utile, alors la vitalité s’use sans que personne le remarque, et vous moins que quiconque. Derrière le stylo rouge se tient un moi très exact, qui apprend encore qu’il a le droit de suffire.
 
 ## Ce qui aide {#ce-qui-aide}
 
