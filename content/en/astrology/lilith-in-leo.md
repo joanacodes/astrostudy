@@ -37,7 +37,7 @@ Perhaps someone, early on, told you not to show off. Lilith in Leo is what happe
 
 What this Lilith won't accept is being made smaller. Criticism it can take; contempt, never. The boundary here is dignity, and when someone crosses it you go very still and very upright, or you leave with your head high. Fixed fire burns a long time, and so does the refusal.
 
-The [Sun](/astrology/sun/), Leo's ruler, shows where that light wants to go: its sign and house are where being seen matters most. In my notebook Lilith was one of the three placements that held best, 75 to 90% of the time, while the Sun sign held about a third ([why not the Sun?](/blog/saturn-chiron-lilith/#why-not-the-sun)) — one more reason not to read your Lilith in Leo as a Sun-sign cliché.
+The [Sun](/astrology/sun/), Leo's ruler, shows where that light wants to go: its sign and house are where being seen matters most. Lilith came out of my notebook among the three strongest placements, holding 75 to 90% of the time, where the Sun sign managed about a third ([why not the Sun?](/blog/saturn-chiron-lilith/#why-not-the-sun)) — one more reason not to read your Lilith in Leo as a Sun-sign cliché.
 
 Mean Lilith ([which Lilith is mine?](/astrology/which-lilith-is-mine/)) stays about nine months in Leo each time: July 1934 to April 1935, May 1943 to February 1944, March to December 1952, February to October 1961, December 1969 to September 1970, October 1978 to July 1979, August 1987 to May 1988, June 1996 to March 1997 and April 2005 to January 2006. You share it with everyone born in the same stretch, so it's the placement of a season rather than a generation; the house, readable only [with the birth time](/blog/unknown-birth-time/#what-it-doesnt), is where it becomes yours alone.
 

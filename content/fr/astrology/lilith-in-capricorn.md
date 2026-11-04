@@ -60,4 +60,4 @@ La compétence peut devenir une armure. Si l’ambition a été moquée, il arri
 
 Dites l’ambition à voix haute, en mots simples, à quelqu’un qui la prendra au sérieux : *je veux diriger ceci*, *je veux mon nom dessus.* Vouloir de l’autorité, ce n’est pas vouloir du pouvoir sur les autres ; cela peut simplement vouloir dire qu’on vous confie quelque chose qui compte.
 
-Puis laissez une part de la structure se partager. Confiez une chose que vous garderiez d’habitude. Le symbole ancien du Capricorne est une chèvre à queue de poisson, une créature des profondeurs autant que des sommets, et cette Lilith peut être les deux : celle qui grimpe, et celle qui laisse quelqu’un d’autre tenir la corde.
+Puis laissez une part de la structure se partager. Confiez une chose que vous garderiez d’habitude. Le vieux symbole du Capricorne, mi-chèvre mi-poisson, est chez lui sur la montagne comme dans la mer, et cette Lilith peut être les deux : celle qui grimpe, et celle qui laisse quelqu’un d’autre tenir la corde.

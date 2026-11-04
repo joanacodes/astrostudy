@@ -20,9 +20,9 @@ faq:
   - q: "What does Lilith in the 5th house mean?"
     a: "It means mean Lilith sat in the 5th house of your chart, the house of play, pleasure, romance and creative work. I read it as a joy that was once made to justify itself, and a refusal to enjoy, create or love in the approved way, which can make it one of the liveliest places in a chart."
   - q: "Does Lilith in the 5th house say anything about children?"
-    a: "No. Tradition gave the 5th house children, but no chart can tell whether or when someone will have a child, and I don’t read children’s charts. I read the 5th in an adult’s own life: what you do for joy, what you make, how you play and fall in love."
-  - q: "Why is the 5th house called Good Fortune?"
-    a: "It’s an old name. The old astrologers called the 5th Good Fortune and gave Venus, the planet of pleasure, its joy there. With Lilith in this house, I read the name as a reminder: joy is part of a life, not a reward you have to earn first."
+    a: "No. Tradition gave the 5th house children, but a chart is no way to learn whether a pregnancy will come, or when, and I don’t read children’s charts. I read the 5th in an adult’s own life: what you do for joy, what you make, how you play and fall in love."
+  - q: "Is Lilith in the 5th house about romance?"
+    a: "Partly. The 5th covers the playful, early stage of love along with creativity and pleasure. With Lilith here, romance tends to follow its own rules rather than a script, and it cools when love becomes a show put on for other people. It’s about loving freely, not about any particular kind of relationship."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, their old names and Venus’s joy in the 5th" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s mean apogee, the point read as Black Moon Lilith" }
@@ -32,11 +32,11 @@ There's a kind of joy that is always asked to explain itself. With Lilith in the
 
 ## In a birth chart {#in-a-birth-chart}
 
-The 5th house is succedent and its natural sign is Leo. The old astrologers called it Good Fortune and gave Venus, the planet of pleasure, its joy there. It covers what you do because you want to: creating, playing, flirting, falling in love, taking a risk for the fun of it. With Lilith here, the hidden part is pleasure itself — the game you were told you'd outgrown, the hobby that wasn't a proper use of time, the way you enjoyed things more openly than the people around you liked.
+Leo is the natural sign of the 5th. The house is succedent, following the 4th; its old name is Good Fortune, and Venus, the planet of pleasure, was said to rejoice there. It covers what you do because you want to: creating, playing, flirting, falling in love, taking a risk for the fun of it. With Lilith here, the hidden part is pleasure itself — the game you were told you'd outgrown, the hobby that wasn't a proper use of time, the way you enjoyed things more openly than the people around you liked.
 
 This Lilith refuses to enjoy things in the approved way. It won't make its art agreeable, its fun respectable or its love conventional just to be allowed them. The boundary here protects play: free time that stays free, work made for its own sake, a love that's chosen rather than arranged.
 
-Tradition also gave the 5th children. I don't read them there: no chart can say whether or when anyone will have a child ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and I never read [children's charts](/astrology/childrens-charts/). What I read in the 5th is your own joy, as an adult.
+Tradition also gave the 5th children. I don't read them there: a chart can't tell anyone if or when a child will come ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and I never read [children's charts](/astrology/childrens-charts/). In the 5th I read your own joy, as an adult.
 
 You'll need your birth time for this one, as for every house ([what changes without a birth time](/blog/unknown-birth-time/)); I read houses in Placidus. The house before, [Lilith in the 4th house](/astrology/lilith-in-4th-house/), keeps its hidden part at home; the house after, [Lilith in the 6th house](/astrology/lilith-in-6th-house/), in the daily routine. In the 5th, it hides in the hours that were meant to be free.
 

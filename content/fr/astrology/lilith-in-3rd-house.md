@@ -23,7 +23,7 @@ faq:
   - q: "Lilith en maison 3 parle-t-elle des frères et sœurs ?"
     a: "En partie. La maison 3 couvre la fratrie avec les échanges quotidiens et l’apprentissage, et je la lis comme votre façon d’être avec vos frères et sœurs, pas comme ce qu’ils sont. Avec Lilith ici, ces liens peuvent contenir à la fois les premiers silences et les premières alliances, ce qui mérite d’être regardé avec douceur."
   - q: "Pourquoi appelle-t-on la maison 3 la Déesse ?"
-    a: "C’est un nom ancien : la tradition appelait la maison 3 la Déesse et y plaçait la joie de la Lune, comme la maison 9, en face, était le Dieu. Lilith est un point de l’orbite de la Lune elle-même, ce qui fait une jolie coïncidence. Je la note, mais je n’y fonde aucune lecture."
+    a: "C’est un nom ancien : la tradition appelait la maison 3 la Déesse et y plaçait la joie de la Lune, comme la maison 9, en face, était le Dieu. Lilith appartient à l’orbite même de la Lune, ce qui fait une jolie coïncidence. Je la note, mais je n’y fonde aucune lecture."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons, leurs anciens noms et la joie de la Lune en maison 3" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "l’apogée moyen de la Lune, le point lu comme la Lune noire Lilith" }
@@ -32,7 +32,7 @@ La maison 3 est l’endroit où vous avez appris à parler, et, avec Lilith, cel
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La maison 3 est cadente, une maison d’apprentissage et d’ajustement, et son signe naturel, ce sont les Gémeaux. Elle couvre la communication de tous les jours, votre façon d’apprendre, vos frères et sœurs et le voisinage, les petits trajets et le monde proche où vous avez grandi. La tradition l’appelait la Déesse et y plaçait la joie de la Lune. Lilith est un point de l’orbite de la Lune elle-même, et j’aime la coïncidence, même si je n’y fonde rien.
+Les maisons cadentes sont celles où l’on apprend et où l’on s’ajuste, et la maison 3, qui a pour signe naturel les Gémeaux, est la première d’entre elles. Elle couvre la communication de tous les jours, votre façon d’apprendre, vos frères et sœurs et le voisinage, les petits trajets et le monde proche où vous avez grandi. La tradition l’appelait la Déesse et y plaçait la joie de la Lune. Lilith appartient à l’orbite même de la Lune, et j’aime la coïncidence, même si je n’y fonde rien.
 
 Avec Lilith dans cette maison, la part cachée vit dans votre voix. Il y avait peut-être une façon de parler à la maison et une autre au-dehors, une question qui vous a valu des ennuis à l’école, un sujet devant lequel la famille se taisait, ou une sœur, un frère qui disait la chose à votre place. Il en reste une oreille pour le non-dit et une réticence à répéter ce qu’on vous dit avant de l’avoir vérifié vous-même. Les limites, ici, sont verbales : *non, je ne le dirai pas comme ça.*
 

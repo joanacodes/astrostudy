@@ -30,11 +30,11 @@ Some placements you discover in yourself. Lilith in the 7th house you tend to di
 
 ## In a birth chart {#in-a-birth-chart}
 
-The 7th house is angular, one of the four that begin at the angles, and its natural sign is Libra. It's the house of the person facing you: partners in love and in work, close collaborators, contracts, and, in tradition, the open rival too. With Lilith here, the hidden part often meets you in someone else. You may be drawn, again and again, to people who live what you were taught not to — the outspoken one, the free one, the one who won't be managed — or find them maddening, which is often the same pull from the other side.
+Across the chart from the 1st, the 7th is an angular house with Libra as its natural sign. It's the house of the person facing you: partners in love and in work, close collaborators, contracts, and, in tradition, the open rival too. With Lilith here, the hidden part often meets you in someone else. You may be drawn, again and again, to people who live what you were taught not to — the outspoken one, the free one, the one who won't be managed — or find them maddening, which is often the same pull from the other side.
 
 This Lilith refuses to be the smaller half. It won't sign up, in love or in business, to an arrangement where one person's needs are the weather and the other's an inconvenience. Its boundary is equality: a bond between two whole people, or nothing it will stay in for long.
 
-In Placidus, the system I use, the 7th begins at the [Descendant](/astrology/descendant/), the degree that was setting in the west when you were born, so it rests on an accurate birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+In Placidus, the system I use, the 7th begins at the [Descendant](/astrology/descendant/), the point of the zodiac sinking below the western horizon at your birth, so it rests on an accurate birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## In close relationships {#in-close-relationships}
 

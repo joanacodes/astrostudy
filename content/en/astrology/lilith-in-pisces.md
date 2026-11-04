@@ -39,7 +39,7 @@ The refusal here rarely argues. It goes around: it keeps the inner life alive in
 
 Pisces is the end of the round. Mean Lilith arrives from [Lilith in Aquarius](/astrology/lilith-in-aquarius/) and, about nine months later, starts its lap again at [Lilith in Aries](/astrology/lilith-in-aries/). It was in Pisces from November 1930 to August 1931, September 1939 to June 1940, July 1948 to April 1949, May 1957 to February 1958, April to December 1966, February to November 1975, December 1983 to September 1984, October 1992 to July 1993 and August 2001 to May 2002. Those are mean Lilith's dates ([which Lilith is mine?](/astrology/which-lilith-is-mine/)). Everyone born in one of those stretches shares the fish; the house, which [needs your birth time](/blog/unknown-birth-time/#what-it-doesnt), says which waters are yours.
 
-Pisces is a sign of faith, but I'd rather you didn't take this on faith: when I checked charts line by line, Lilith was one of [the three placements that held best](/blog/saturn-chiron-lilith/), 75 to 90% of the time.
+Pisces is a sign of faith, but I'd rather you didn't take this on faith: when I checked charts line by line, Lilith came out among [the three placements that held most often](/blog/saturn-chiron-lilith/), at 75 to 90%.
 
 ## In close relationships {#in-close-relationships}
 
@@ -57,6 +57,6 @@ Feeling everything has a cost. You may take in other people's moods so readily t
 
 ## What helps {#what-helps}
 
-Give the imagination a form: a notebook, a practice, music, a place you go to be quiet on purpose. Pisces has two rulers to say where, and I read both. [Neptune](/astrology/neptune/), the modern one, shows by its house where the dreaming needs room; its sign is shared by everyone born over about fourteen years. [Jupiter](/astrology/jupiter/), the traditional one, shows by sign and house where that inner life can grow into something you share.
+Give the imagination a form: a notebook, a practice, music, a place you go to be quiet on purpose. Pisces has two rulers to say where, and I read both. [Neptune](/astrology/neptune/), the modern one, shows by its house where the dreaming needs room; its sign changes only about every fourteen years. [Jupiter](/astrology/jupiter/), the traditional one, shows by sign and house where that inner life can grow into something you share.
 
 Practise the small, clear no. It's an act of compassion too, for you as much as for anyone, and it keeps the two fish tied together instead of pulling apart.

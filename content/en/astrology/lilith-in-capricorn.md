@@ -59,4 +59,4 @@ Competence can become armour. If ambition was shamed, you may do everything righ
 
 Say the ambition out loud, in plain words, to someone who'll take it seriously: *I want to run this*, *I want my name on it.* Wanting authority isn't the same as wanting power over people; it can simply mean wanting to be trusted with something that matters.
 
-Then let some of the structure be shared. Hand over one thing you'd usually keep. Capricorn's old symbol is the sea-goat, a creature of the depths as well as the heights, and this Lilith can be both: the one who climbs, and the one who lets someone else hold the rope.
+Then let some of the structure be shared. Hand over one thing you'd usually keep. Capricorn's old emblem joins a goat to a fish, at home on the mountain and in the sea, and this Lilith can be both: the one who climbs, and the one who lets someone else hold the rope.

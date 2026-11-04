@@ -19,7 +19,7 @@ faq:
   - q: "What does Lilith in the 8th house mean?"
     a: "It means mean Lilith sat in the 8th house of your chart, the house of intimacy, trust and shared resources. I read it as a part of you that stays your own even inside the closest bonds, and a refusal to be possessed through love, money or need, however deep the closeness goes."
   - q: "Does Lilith in the 8th house say anything about death?"
-    a: "No. Tradition gave the 8th death and inheritance, but I don’t read death in anyone’s chart, and a chart can’t say what you’ll inherit. I read the 8th in an adult’s life: what you share with other people, what you owe them, and how much of yourself you keep."
+    a: "No. The old books put death and inheritance in the 8th, but I never look for death in a chart, and no chart can say what you’ll inherit. I read the 8th in an adult’s life: what you share with other people, what you owe them, and how much of yourself you keep."
   - q: "Is Lilith in the 8th house about intimacy?"
     a: "Yes, in the widest sense: trust, closeness and what you share. With Lilith here, intimacy matters a great deal and still has limits you set yourself. It isn’t a placement about taboo or excess; it’s about staying whole while letting someone close."
 sources:
@@ -31,11 +31,11 @@ Letting someone in is the 8th house's business, and Lilith in the 8th has its ow
 
 ## In a birth chart {#in-a-birth-chart}
 
-The 8th house is succedent and its natural sign is Scorpio. It begins where a bond gets serious: intimacy, trust, money in common, debts, everything that's harder to take back once it's shared. With Lilith here, the hidden part lives inside closeness itself. It may be a need you never voiced with the people nearest you, a strength that came out only in a crisis, or simply a self that was expected to merge and quietly didn't.
+A succedent house with Scorpio as its natural sign, the 8th covers what deepens between people once they're close: intimacy, trust, money in common, debts, all the things that are hard to undo once they're shared. With Lilith here, the hidden part lives inside closeness itself. It may be a need you never voiced with the people nearest you, a strength that came out only in a crisis, or simply a self that was expected to merge and quietly didn't.
 
 What this Lilith refuses is being possessed. Love, money, dependence, knowing someone's weak spots: any of these can be used as a hold over a person, and the hidden part notices when they are. Its boundary is the line between sharing and being owned, and it draws that line wherever closeness starts to feel like a claim.
 
-Tradition gave the 8th death and inheritance. I don't read death in a chart, for anyone ([can astrology predict death?](/astrology/can-astrology-predict-death/)), and no chart can tell you what you'll inherit. I read the 8th in an adult's life, where it's busy with the living.
+The old books put death and inheritance here. I never look for death in a chart, whoever it belongs to ([can astrology predict death?](/astrology/can-astrology-predict-death/)), and no chart can tell you what you'll inherit. What I read in the 8th is the life you share with the living: trust, closeness, what's owed.
 
 Like every house, this one needs your birth time ([what changes without a birth time](/blog/unknown-birth-time/)), and I read it in Placidus. In my notebook, Lilith held 75 to 90% of the time, with Saturn and Chiron, so I take this placement slowly: trust is the subject, and it can't be rushed.
 
@@ -47,7 +47,7 @@ What it needs is trust built in stages, and a partner who doesn't take the locke
 
 ## At work {#at-work}
 
-At work you may be steady where others panic: in a crisis, in a hard conversation, in work that handles what's shared or owed, or what other people would rather not look at. You can be trusted with something entrusted to you, and you know it. The hidden part refuses to be bought through what's held in common, and it does well where responsibility for something precious is genuinely yours.
+At work you may be steady where others panic: in a crisis, in a hard conversation, in work that handles what's shared or owed, or what other people would rather not look at. You're often the one people trust with what matters to them. The hidden part refuses to be bought through what's held in common, and it does well where responsibility for something precious is genuinely yours.
 
 ## The hard part {#the-hard-part}
 

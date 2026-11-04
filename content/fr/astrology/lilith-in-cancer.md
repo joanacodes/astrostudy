@@ -30,7 +30,7 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "l’apogée moyen de la Lune, le point lu comme la Lune noire Lilith" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-La [Lune noire Lilith](/astrology/black-moon-lilith/) est un point de l’orbite de la Lune elle-même, l’endroit où elle s’éloigne le plus de la Terre, et en Cancer, elle tombe dans le signe de la Lune. Lilith en Cancer est donc un placement qui parle de soin : le besoin d’en recevoir, que vous avez appris à cacher, et la façon farouche et discrète dont vous protégez ce que vous aimez.
+La [Lune noire Lilith](/astrology/black-moon-lilith/) appartient à l’orbite même de la Lune, dont elle marque le point le plus éloigné de la Terre, et en Cancer, elle tombe dans le signe de la Lune. Lilith en Cancer est donc un placement qui parle de soin : le besoin d’en recevoir, que vous avez appris à cacher, et la façon farouche et discrète dont vous protégez ce que vous aimez.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 

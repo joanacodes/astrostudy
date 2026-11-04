@@ -40,15 +40,15 @@ Le Scorpion est une eau fixe : il descend profond et y reste, à la recherche d
 
 Cette Lilith refuse le faux-semblant. Elle préfère une vérité dure à une histoire confortable, et distingue vite l’une de l’autre. Ses limites portent sur l’accès : qui peut entrer en eau profonde, et à quelles conditions. Trahissez sa confiance, elle n’a pas besoin de se venger ; elle cesse simplement de vous laisser entrer.
 
-Le Scorpion a deux maîtres, et je lis les deux. [Pluton](/astrology/pluto/), le maître moderne, montre par sa maison où vous allez au fond des choses ; le signe de Pluton est partagé par toute une génération, c’est donc la maison qui fait le travail. [Mars](/astrology/mars/), le maître traditionnel, montre par son signe et sa maison où la part cachée défend ce qu’elle trouve.
+Le Scorpion a deux maîtres, et je lis les deux. [Pluton](/astrology/pluto/), le maître moderne, montre par sa maison où vous allez au fond des choses ; le signe de Pluton appartient à votre génération plus qu’à vous, c’est donc la maison qui fait le travail. [Mars](/astrology/mars/), le maître traditionnel, montre par son signe et sa maison où la part cachée défend ce qu’elle trouve.
 
-Dans [mon carnet](/blog/i-tested-my-birth-chart/), j’ai vérifié Lilith plus durement que la plupart des placements, justement parce que je ne voulais pas que ce soit vrai. Elle a tenu 75 à 90 % du temps malgré tout.
+Dans [mon carnet](/blog/i-tested-my-birth-chart/), où chaque placement recevait une coche ou une croix, Lilith a tenu 75 à 90 % du temps. Un carnet n’est pas une étude, mais dans un signe qui veut la vérité, je préfère vous dire ce que j’ai compté.
 
 La Lilith moyenne ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)) a été en Scorpion pour la dernière fois de mars à décembre 2025. Pour les thèmes de naissance, ses séjours vont d’octobre 1936 à juin 1937, d’août 1945 à mai 1946, de juin 1954 à mars 1955, d’avril 1963 à janvier 1964, de février à novembre 1972, de décembre 1980 à septembre 1981, de novembre 1989 à juillet 1990, de septembre 1998 à juin 1999 et de juillet 2007 à avril 2008. Le signe est partagé par des mois entiers de naissances ; la profondeur, elle, est particulière, et elle vit dans la maison, qui [demande l’heure de naissance](/blog/unknown-birth-time/#ce-qu-elle-ne-decide-pas).
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-Du vrai, ou pas grand-chose : voilà ce que Lilith en Scorpion attend de l’amour. Les banalités peuvent ressembler à une porte fermée à clé ; vous préférez connaître les peurs de quelqu’un plutôt que ses films préférés. La part cachée a besoin de vérité dans la proximité, dite plutôt que sous-entendue, et elle remarque vite quand l’autre joue un rôle. Elle peut attendre longtemps avant de laisser voir sa propre profondeur, en tâtant l’eau d’abord.
+Du vrai, ou pas grand-chose : voilà ce que Lilith en Scorpion attend de l’amour. Les banalités peuvent ressembler à une porte fermée à clé ; vous préférez connaître les peurs de quelqu’un plutôt que ses films préférés. La part cachée a besoin de vérité dans la proximité, dite plutôt que sous-entendue, et elle remarque vite quand l’autre joue un rôle. Elle peut attendre longtemps avant de montrer sa propre profondeur.
 
 La confiance donnée ici est donnée profondément, et c’est un cadeau, pas une dette : qui la reçoit ne vous doit pas tout en retour d’un seul coup, seulement de l’honnêteté.
 
@@ -64,8 +64,8 @@ Entendre qu’on est « trop intense » peut aussi pousser à s’aplatir en q
 
 ## Ce qui aide {#ce-qui-aide}
 
-Laissez une personne voir la profondeur, exprès et à votre rythme. Dites ce que vous remarquez, avec douceur et simplement : *je crois que quelque chose ne va pas*, *je vois que ça te touche.* Dite à voix haute, la perception devient un cadeau plutôt qu’une menace.
+Laissez une personne voir la profondeur, exprès et à votre rythme. Dites ce que vous remarquez, avec douceur et simplement : *je crois que quelque chose ne va pas*, *je vois que ça te touche.* Dite tout haut, la perception devient un cadeau, non une menace.
 
-Laissez certaines choses finir. Le Scorpion est un signe de renouveau, et cette Lilith sait, entre autres, qu’on survit aux fins, et que quelque chose pousse après elles.
+Laissez certaines choses finir. Le Scorpion est un signe de renouveau, et cette Lilith sait qu’on survit aux fins, et que quelque chose pousse après elles.
 
-Si une personne proche de vous est née quelques mois avant ou après vous, avec [Lilith en Balance](/astrology/lilith-in-libra/) ou [Lilith en Sagittaire](/astrology/lilith-in-sagittarius/), comparez vos notes. Là où vous avez caché la profondeur, cette personne aura caché l’équité ou la liberté, et entendre son histoire peut vous aider à nommer la vôtre.
+Si une personne proche de vous est née quelques mois avant ou après vous, avec [Lilith en Balance](/astrology/lilith-in-libra/) ou [Lilith en Sagittaire](/astrology/lilith-in-sagittarius/), comparez vos notes : là où vous avez caché la profondeur, elle aura caché l’équité ou la liberté, et son histoire peut vous aider à nommer la vôtre.

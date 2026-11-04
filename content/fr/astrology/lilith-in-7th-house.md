@@ -31,11 +31,11 @@ Certains placements se découvrent en soi. Lilith en maison 7, on la découvre d
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La maison 7 est angulaire, l’une des quatre qui commencent aux angles, et son signe naturel est la Balance. C’est la maison de la personne en face : les partenaires en amour et au travail, les collaborations proches, les contrats, et, selon la tradition, l’adversaire déclaré. Avec Lilith ici, la part cachée vient souvent à votre rencontre chez quelqu’un d’autre. Il se peut que des personnes qui vivent ce qu’on vous a appris à ne pas vivre vous attirent encore et encore — celle qui dit tout, celle qui est libre, celle qui ne se laisse pas diriger — ou qu’elles vous exaspèrent, ce qui est souvent la même attirance vue de l’autre côté.
+En face de la maison 1, de l’autre côté du thème, la maison 7 est une maison angulaire qui a pour signe naturel la Balance. C’est la maison de la personne en face : les partenaires en amour et au travail, les collaborations proches, les contrats, et, selon la tradition, l’adversaire déclaré. Avec Lilith ici, la part cachée vient souvent à votre rencontre chez quelqu’un d’autre. Il se peut que des personnes qui vivent ce qu’on vous a appris à ne pas vivre vous attirent encore et encore — celle qui dit tout, celle qui est libre, celle qui ne se laisse pas diriger — ou qu’elles vous exaspèrent, ce qui est souvent la même attirance vue de l’autre côté.
 
 Cette Lilith refuse d’être la plus petite moitié. En amour comme en affaires, elle ne s’engage pas dans un arrangement où les besoins de l’un font la pluie et le beau temps et ceux de l’autre ne sont qu’un dérangement. Sa limite, c’est l’égalité : un lien entre deux personnes entières, ou rien dans quoi elle reste longtemps.
 
-En Placidus, le système que j’utilise, la maison 7 commence au [descendant](/astrology/descendant/), le degré qui se couchait à l’ouest à votre naissance : elle repose donc sur une heure de naissance exacte ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+En Placidus, le système que j’utilise, la maison 7 commence au [descendant](/astrology/descendant/), le point du zodiaque qui passait sous l’horizon ouest à votre naissance : elle repose donc sur une heure de naissance exacte ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Dans les relations proches {#dans-les-relations-proches}
 

@@ -54,7 +54,7 @@ Il vous faut peut-être du sens plus qu’un titre. Cette Lilith s’épanouit l
 
 ## Le plus difficile {#le-plus-difficile}
 
-Partir peut devenir une habitude. Si chaque lien ou chaque emploi qui demande de la profondeur finit par ressembler à une clôture, vous risquez de repartir avant que la question ait trouvé sa réponse : le pays suivant, la formation suivante, la prochaine grande idée. Ou bien cette faim vous a été retirée si tôt que vous vivez plus petit que vous ne le voudriez, en appelant cela de la sagesse.
+Partir peut devenir une habitude. Si chaque lien ou chaque emploi qui demande de la profondeur finit par ressembler à une clôture, vous risquez de repartir avant que la question ait trouvé sa réponse : le pays suivant, la formation suivante, la prochaine grande idée. Ou bien cette faim vous a été retirée si tôt que vous vivez à plus petite échelle que vous ne le voudriez, en appelant cela de la sagesse.
 
 La vérité dite en riant peut aussi frapper plus fort que prévu. Avoir le droit de la dire, ce n’est pas encore qu’on vous entende.
 

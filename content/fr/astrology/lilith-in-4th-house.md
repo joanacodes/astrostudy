@@ -32,11 +32,11 @@ Derrière chaque porte d’entrée, il existe une version de vous que les visite
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La maison 4 est angulaire, l’une des quatre qui commencent aux angles, et son signe naturel est le Cancer. C’est le bas du thème : le foyer, la famille, les racines, la vie privée derrière la porte et les fondations sur lesquelles vous vous tenez. Avec Lilith ici, la part cachée est proche de la racine. Ce peut être quelque chose dont la famille ne parlait pas, une façon d’être qui n’avait pas de place à la maison, ou simplement la personne que vous êtes quand personne ne regarde.
+La maison 4 est la maison angulaire du bas du thème, et le Cancer est son signe naturel. Elle couvre le foyer, la famille, les racines, la vie privée derrière la porte et les fondations sur lesquelles vous vous tenez. Avec Lilith ici, la part cachée est proche de la racine. Ce peut être quelque chose dont la famille ne parlait pas, une façon d’être qui n’avait pas de place à la maison, ou simplement la personne que vous êtes quand personne ne regarde.
 
 Le refus de cette Lilith est un refus de tout hériter. Une partie de ce qu’on vous a transmis, vous la gardez ; une autre, vous refusez sans bruit de la transmettre — une règle, un silence, une façon de traiter les gens. Sa limite, c’est la porte d’entrée : qui entre, et ce qu’on a le droit de voir une fois à l’intérieur.
 
-En Placidus, le système que j’utilise, la maison 4 commence au [Fond du Ciel](/astrology/imum-coeli/), le point opposé au Milieu du Ciel, tout en bas du thème. Il faut pour cela une heure de naissance exacte ([ce que l’heure décide](/blog/unknown-birth-time/#ce-que-l-heure-decide)) : avec Lilith proche de cette cuspide, une heure un peu différente pourrait en faire une [Lilith en maison 3](/astrology/lilith-in-3rd-house/).
+En Placidus, le système que j’utilise, la maison 4 commence au [Fond du Ciel](/astrology/imum-coeli/), le plus bas des quatre angles, en face du Milieu du Ciel. Il faut pour cela une heure de naissance exacte ([ce que l’heure décide](/blog/unknown-birth-time/#ce-que-l-heure-decide)) : avec Lilith proche de cette cuspide, une heure un peu différente pourrait en faire une [Lilith en maison 3](/astrology/lilith-in-3rd-house/).
 
 Comme Lilith a tenu si souvent dans [mon carnet](/blog/i-tested-my-birth-chart/), 75 à 90 % du temps avec Saturne et Chiron, je prends cette partie d’une lecture lentement. Le foyer est un terrain sensible.
 

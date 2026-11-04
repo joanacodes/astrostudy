@@ -40,7 +40,7 @@ Le refus est mesuré, précis. Il ne claque pas la porte ; il nomme le déséq
 
 La Lilith moyenne entre en Balance en franchissant le point où se tient le Soleil à l’équinoxe de septembre, et y reste environ neuf mois. Elle y a été de janvier à octobre 1936, de novembre 1944 à août 1945, de septembre 1953 à juin 1954, de juillet 1962 à avril 1963, de mai 1971 à février 1972, d’avril à décembre 1980, de février à novembre 1989, de décembre 1997 à septembre 1998 et d’octobre 2006 à juillet 2007. Ce sont les mois de la Lilith moyenne, et une Lilith vraie peut tomber dans un autre signe ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)). Vous partagez ce signe avec toutes les personnes nées pendant la même période ; sa maison, que seule [l’heure de naissance](/blog/unknown-birth-time/#ce-qu-elle-ne-decide-pas) peut donner, le rend vôtre.
 
-L’équité compte aussi dans mes lectures : je dis quand quelque chose repose sur un placement qui a moins bien tenu dans mes tests. Lilith n’en fait pas partie. C’est l’un des [trois qui ont tenu](/blog/saturn-chiron-lilith/), 75 à 90 % du temps.
+L’équité compte aussi dans mes lectures : je précise quelles parties d’une lecture s’appuient sur des placements qui ont moins bien tenu dans mes tests. Lilith n’en fait pas partie. C’est l’un des [trois qui ont tenu](/blog/saturn-chiron-lilith/), 75 à 90 % du temps.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 

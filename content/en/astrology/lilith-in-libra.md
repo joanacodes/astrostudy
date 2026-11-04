@@ -39,7 +39,7 @@ The refusal is measured and precise. It doesn't storm out; it names the imbalanc
 
 Mean Lilith enters Libra by crossing the point where the Sun stands at the September equinox, and stays about nine months. It was there from January to October 1936, November 1944 to August 1945, September 1953 to June 1954, July 1962 to April 1963, May 1971 to February 1972, April to December 1980, February to November 1989, December 1997 to September 1998 and October 2006 to July 2007. Those are mean Lilith's months, and a true Lilith can land in a different sign ([which Lilith is mine?](/astrology/which-lilith-is-mine/)). You share the sign with everyone born in the same stretch; its house, which only [the birth time](/blog/unknown-birth-time/#what-it-doesnt) can give, makes it yours.
 
-Fairness matters in my readings too: I say when something rests on a placement that held less often in my tests. Lilith isn't one of those. It's one of [the three that held](/blog/saturn-chiron-lilith/), 75 to 90% of the time.
+Fairness matters in my readings too: I tell people which parts of a reading stand on placements that held less often in my tests. Lilith isn't one of those. It's one of [the three that held](/blog/saturn-chiron-lilith/), 75 to 90% of the time.
 
 ## In close relationships {#in-close-relationships}
 

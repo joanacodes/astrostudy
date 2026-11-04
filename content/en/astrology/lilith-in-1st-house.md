@@ -31,7 +31,7 @@ Most people keep their Lilith somewhere private. With Lilith in the 1st house, i
 
 ## In a birth chart {#in-a-birth-chart}
 
-The 1st house is angular, the first of the four houses that begin at the angles of the chart, and its natural sign is Aries. It covers how you come across before you've said much: your manner, your energy, your body in a room, the style in which you meet life. Lilith here doesn't stay backstage. Whatever you were told was too much — too intense, too unusual, too quick to say no — tends to show in your face and bearing, whether you mean it to or not.
+The 1st is the first of the chart's four angular houses, and its natural sign is Aries. It covers how you come across before you've said much: your manner, your energy, your body in a room, the style in which you meet life. Lilith here doesn't stay backstage. Whatever you were told was too much — too intense, too unusual, too quick to say no — tends to show in your face and bearing, whether you mean it to or not.
 
 That can feel unfair. Other people keep their refusals in a drawer; yours comes in with you. I read it as Lilith's instinct for autonomy written on the surface: you are visibly not easy to manage, and people respond to that, with interest or unease, long before they know you.
 

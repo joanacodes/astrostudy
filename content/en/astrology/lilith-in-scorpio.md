@@ -39,9 +39,9 @@ Scorpio is fixed water: it goes deep and stays there, looking for what's true un
 
 This Lilith refuses pretence. It would rather have a hard truth than a comfortable story, and it can tell the two apart quickly. Its boundaries are about access: who is allowed into the deep water, and on what terms. Break its trust and it doesn't need to retaliate; it simply stops letting you in.
 
-Scorpio has two rulers, and I read both. [Pluto](/astrology/pluto/), the modern one, shows by house where you go to the bottom of things; its sign is shared by a whole generation, so the house does the work. [Mars](/astrology/mars/), the traditional ruler, shows by sign and house where the hidden part defends what it finds.
+Scorpio has two rulers, and I read both. [Pluto](/astrology/pluto/), the modern one, shows by house where you go to the bottom of things; its sign belongs to your generation more than to you, so the house does the work. [Mars](/astrology/mars/), the traditional ruler, shows by sign and house where the hidden part defends what it finds.
 
-I checked Lilith harder than most placements in [my notebook](/blog/i-tested-my-birth-chart/), precisely because I didn't want it to be true. It held 75 to 90% of the time anyway.
+In [my notebook](/blog/i-tested-my-birth-chart/), where every placement got a tick or a cross, Lilith held 75 to 90% of the time. A notebook isn't a study, but in a sign that wants the truth, I'd rather tell you what I counted.
 
 Mean Lilith ([which Lilith is mine?](/astrology/which-lilith-is-mine/)) was last in Scorpio from March to December 2025. For birth charts, its stays were October 1936 to June 1937, August 1945 to May 1946, June 1954 to March 1955, April 1963 to January 1964, February to November 1972, December 1980 to September 1981, November 1989 to July 1990, September 1998 to June 1999 and July 2007 to April 2008. The sign is shared by months of births; the depth is particular, and it lives in the house, which [needs your birth time](/blog/unknown-birth-time/#what-it-doesnt).
 

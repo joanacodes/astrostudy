@@ -21,9 +21,9 @@ faq:
   - q: "Que signifie Lilith en maison 5 ?"
     a: "Que la Lilith moyenne se trouvait dans la maison 5 de votre thème, celle du jeu, du plaisir, des amours et de la création. J’y lis une joie qu’on a obligée à se justifier, et le refus de s’amuser, de créer ou d’aimer de la façon approuvée, ce qui peut en faire l’un des endroits les plus vivants d’un thème."
   - q: "Lilith en maison 5 dit-elle quelque chose des enfants ?"
-    a: "Non. La tradition donnait les enfants à la maison 5, mais aucun thème ne peut dire si ni quand quelqu’un aura un enfant, et je ne lis pas le thème des enfants. Je lis la maison 5 dans une vie d’adulte : ce que vous faites par joie, ce que vous créez, votre façon de jouer et d’aimer."
-  - q: "Pourquoi la maison 5 s’appelle-t-elle la Fortune favorable ?"
-    a: "C’est un nom ancien. Les astrologues d’autrefois appelaient la maison 5 la Fortune favorable et y plaçaient la joie de Vénus, la planète du plaisir. Avec Lilith dans cette maison, je lis ce nom comme un rappel : la joie fait partie d’une vie, ce n’est pas une récompense à mériter d’abord."
+    a: "Non. La tradition donnait les enfants à la maison 5, mais un thème ne permet pas de savoir si une grossesse viendra, ni quand, et je ne lis pas le thème des enfants. Je lis la maison 5 dans une vie d’adulte : ce que vous faites par joie, ce que vous créez, votre façon de jouer et d’aimer."
+  - q: "Lilith en maison 5 parle-t-elle des amours ?"
+    a: "En partie. La maison 5 couvre le premier temps de l’amour, joueur et léger, avec la création et le plaisir. Avec Lilith ici, les amours suivent leurs propres règles plutôt qu’un scénario, et se refroidissent quand l’amour devient un spectacle donné aux autres. C’est une question de liberté d’aimer, pas d’un genre de relation en particulier."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons, leurs anciens noms et la joie de Vénus en maison 5" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "l’apogée moyen de la Lune, le point lu comme la Lune noire Lilith" }
@@ -33,11 +33,11 @@ Il existe une sorte de joie à qui l’on demande toujours de s’expliquer. Ave
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La maison 5 est succédente, et son signe naturel est le Lion. Les astrologues d’autrefois l’appelaient la Fortune favorable et y plaçaient la joie de Vénus, la planète du plaisir. Elle couvre ce que vous faites parce que vous en avez envie : créer, jouer, séduire, aimer, prendre un risque pour le plaisir. Avec Lilith ici, la part cachée, c’est le plaisir lui-même — le jeu dont on vous disait que vous aviez passé l’âge, le passe-temps qui n’était pas un emploi sérieux du temps, votre façon d’aimer les choses plus ouvertement que votre entourage ne l’appréciait.
+Le Lion est le signe naturel de la maison 5. Cette maison succédente suit la maison 4 ; son ancien nom est la Fortune favorable, et Vénus, la planète du plaisir, passait pour s’y réjouir. Elle couvre ce que vous faites parce que vous en avez envie : créer, jouer, séduire, aimer, prendre un risque pour le plaisir. Avec Lilith ici, la part cachée, c’est le plaisir lui-même — le jeu dont on vous disait que vous aviez passé l’âge, le passe-temps qui n’était pas un emploi sérieux du temps, votre façon d’aimer les choses plus ouvertement que votre entourage ne l’appréciait.
 
 Cette Lilith refuse de prendre du plaisir de la façon approuvée. Elle ne rendra pas son art aimable, son amusement respectable ni son amour conventionnel simplement pour y avoir droit. Ici, la limite protège le jeu : un temps libre qui reste libre, un travail fait pour lui-même, un amour choisi plutôt qu’arrangé.
 
-La tradition donnait aussi les enfants à la maison 5. Je ne les y lis pas : aucun thème ne peut dire si ni quand quelqu’un aura un enfant ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et je ne lis jamais [le thème des enfants](/astrology/childrens-charts/). Ce que je lis en maison 5, c’est votre propre joie, une joie d’adulte.
+La tradition donnait aussi les enfants à la maison 5. Je ne les y lis pas : un thème est incapable de dire si un enfant viendra, ni quand ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et je ne lis jamais [le thème des enfants](/astrology/childrens-charts/). Ce que je lis en maison 5, c’est votre propre joie, une joie d’adulte.
 
 Il vous faudra votre heure de naissance, comme pour toute maison ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)) ; je lis les maisons en Placidus. La maison d’avant, [Lilith en maison 4](/astrology/lilith-in-4th-house/), garde sa part cachée au foyer ; la maison d’après, [Lilith en maison 6](/astrology/lilith-in-6th-house/), dans la routine des jours. En maison 5, elle se cache dans les heures qui devaient être libres.
 

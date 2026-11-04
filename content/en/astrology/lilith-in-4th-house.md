@@ -31,11 +31,11 @@ Behind every front door there's a version of you that visitors don't meet. With 
 
 ## In a birth chart {#in-a-birth-chart}
 
-The 4th house is angular, one of the four that begin at the angles, and its natural sign is Cancer. It's the bottom of the chart: home, family, roots, the private life behind the door and the foundations you stand on. With Lilith here, the hidden part is close to the root. It may be something the family didn't talk about, a way of being that had no room at home, or simply the self you are when nobody is watching.
+The 4th is the angular house at the bottom of the chart, and Cancer is its natural sign. It covers home, family, roots, the private life behind the door and the foundations you stand on. With Lilith here, the hidden part is close to the root. It may be something the family didn't talk about, a way of being that had no room at home, or simply the self you are when nobody is watching.
 
 This Lilith's refusal is a refusal to inherit everything. Some of what you were handed you keep; some you quietly decline to pass on — a rule, a silence, a way of treating people. Its boundary is the front door: who comes in, and what they're allowed to see once inside.
 
-In Placidus, the system I use, the 4th begins at the [Imum Coeli](/astrology/imum-coeli/), the point opposite the Midheaven at the bottom of the chart. That takes an accurate birth time ([what the time decides](/blog/unknown-birth-time/#what-the-time-decides)): with Lilith close to that cusp, a slightly different time could make it [Lilith in the 3rd house](/astrology/lilith-in-3rd-house/) instead.
+In Placidus, the system I use, the 4th begins at the [Imum Coeli](/astrology/imum-coeli/), the lowest of the four angles, facing the Midheaven across the chart. That takes an accurate birth time ([what the time decides](/blog/unknown-birth-time/#what-the-time-decides)): with Lilith close to that cusp, a slightly different time could make it [Lilith in the 3rd house](/astrology/lilith-in-3rd-house/) instead.
 
 Because Lilith held so often in [my notebook](/blog/i-tested-my-birth-chart/), 75 to 90% of the time with Saturn and Chiron, I take this part of a reading slowly. Home is tender ground.
 

@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 140
 glyph: "⚸"
-definition: "Lilith en maison 8 signifie qu’à votre naissance, la Lune noire Lilith, point le plus lointain de l’orbite lunaire, se trouvait dans la maison de l’intimité, de la confiance et de ce qui se partage. J’y lis une part de vous qui reste à vous au cœur des liens les plus proches, et le refus qu’on vous possède par l’amour, l’argent ou le besoin."
+definition: "Lilith en maison 8 signifie qu’à votre naissance, la Lune noire Lilith, point le plus lointain de l’orbite lunaire, se trouvait dans la maison de l’intimité et de la confiance. J’y lis une part de vous qui reste à vous au cœur des liens les plus proches, et le refus qu’on vous possède par l’amour, l’argent ou le besoin."
 facts:
   - { k: "Corps", v: "Lune noire Lilith ⚸, moyenne" }
   - { k: "Maison", v: "La maison 8 (VIII)" }
@@ -20,7 +20,7 @@ faq:
   - q: "Que signifie Lilith en maison 8 ?"
     a: "Que la Lilith moyenne se trouvait dans la maison 8 de votre thème, celle de l’intimité, de la confiance et des ressources partagées. J’y lis une part de vous qui reste à vous jusque dans les liens les plus proches, et le refus qu’on vous possède par l’amour, l’argent ou le besoin, si profonde que soit la proximité."
   - q: "Lilith en maison 8 dit-elle quelque chose de la mort ?"
-    a: "Non. La tradition donnait à la maison 8 la mort et l’héritage, mais je ne lis la mort dans le thème de personne, et un thème ne peut pas dire ce dont vous hériterez. Je lis la maison 8 dans une vie d’adulte : ce que vous partagez avec les autres, ce que vous leur devez, et la part de vous que vous gardez."
+    a: "Non. Les vieux livres plaçaient la mort et l’héritage en maison 8, mais je ne cherche la mort dans le thème de personne, et aucun thème ne dit ce dont vous hériterez. Je lis la maison 8 dans une vie d’adulte : ce que vous partagez, ce que vous devez, la part de vous que vous gardez."
   - q: "Lilith en maison 8 parle-t-elle d’intimité ?"
     a: "Oui, au sens le plus large : la confiance, la proximité, ce qui se partage. Avec Lilith ici, l’intimité compte énormément et garde pourtant des limites que vous fixez vous-même. Ce n’est pas un placement de l’interdit ou de l’excès ; c’est l’art de rester une personne entière en laissant quelqu’un s’approcher."
 sources:
@@ -32,11 +32,11 @@ Laisser quelqu’un entrer, c’est l’affaire de la maison 8, et Lilith, dans 
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La maison 8 est succédente, et son signe naturel est le Scorpion. Elle commence là où un lien devient sérieux : l’intimité, la confiance, l’argent commun, les dettes, tout ce qui se reprend mal une fois partagé. Avec Lilith ici, la part cachée vit au cœur de la proximité elle-même. Ce peut être un besoin jamais dit aux personnes les plus proches, une force apparue seulement dans une crise, ou simplement un moi dont on attendait qu’il se fonde dans l’autre et qui, sans bruit, ne l’a pas fait.
+Maison succédente, la maison 8 a pour signe naturel le Scorpion, et elle couvre ce qui s’approfondit entre les personnes une fois proches : l’intimité, la confiance, l’argent commun, les dettes, tout ce qui se reprend mal une fois partagé. Avec Lilith ici, la part cachée vit au cœur de la proximité elle-même. Ce peut être un besoin jamais dit aux personnes les plus proches, une force apparue seulement dans une crise, ou simplement un moi dont on attendait qu’il se fonde dans l’autre et qui, sans bruit, ne l’a pas fait.
 
 Ce que cette Lilith refuse, c’est qu’on la possède. L’amour, l’argent, la dépendance, la connaissance des points faibles de quelqu’un : chacun peut servir d’emprise sur une personne, et la part cachée remarque quand c’est le cas. Sa limite est la frontière entre partager et appartenir, et elle la trace dès que la proximité commence à ressembler à une revendication.
 
-La tradition donnait à la maison 8 la mort et l’héritage. Je ne lis la mort dans le thème de personne ([L’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)), et aucun thème ne peut vous dire ce dont vous hériterez. Je lis la maison 8 dans une vie d’adulte, où elle s’occupe des vivants.
+Les vieux livres plaçaient ici la mort et l’héritage. Je ne lis la mort dans le thème de personne ([L’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)), et aucun thème ne peut vous dire ce dont vous hériterez. Ce que je lis en maison 8, c’est la vie partagée avec les vivants : la confiance, la proximité, ce qui se doit.
 
 Comme toute maison, celle-ci demande votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)), et je la lis en Placidus. Dans mon carnet, Lilith a tenu 75 à 90 % du temps, avec Saturne et Chiron : j’avance donc lentement avec ce placement. Le sujet, c’est la confiance, et elle ne se brusque pas.
 
@@ -48,7 +48,7 @@ Ce dont elle a besoin, c’est d’une confiance construite par étapes, et de q
 
 ## Au travail {#au-travail}
 
-Au travail, vous gardez peut-être votre calme là où les autres s’affolent : dans une crise, une conversation difficile, un travail qui touche à ce qui se partage ou se doit, ou à ce que les autres préfèrent ne pas regarder. On peut vous confier quelque chose, et vous le savez. La part cachée refuse qu’on l’achète par ce qui est mis en commun, et donne le meilleur là où la responsabilité de quelque chose de précieux lui revient vraiment.
+Au travail, vous gardez peut-être votre calme là où les autres s’affolent : dans une crise, une conversation difficile, un travail qui touche à ce qui se partage ou se doit, ou à ce que les autres préfèrent ne pas regarder. C’est souvent à vous qu’on confie ce qui compte. La part cachée refuse qu’on l’achète par ce qui est mis en commun, et donne le meilleur là où la responsabilité de quelque chose de précieux lui revient vraiment.
 
 ## Le plus difficile {#le-plus-difficile}
 

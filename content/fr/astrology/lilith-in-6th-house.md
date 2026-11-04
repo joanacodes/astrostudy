@@ -2,7 +2,7 @@
 title: "Lilith en maison 6"
 slug: "lilith-en-maison-6"
 h1: "Lilith en maison 6 dans un thème natal"
-description: "Lilith en maison 6 dans un thème natal : le quotidien et le travail à votre façon, le refus qu’on vous traite en simple aide. L’amour, le travail, ce qui aide."
+description: "Lilith en maison 6 dans un thème natal : le quotidien et le travail à votre façon, le refus qu’on vous traite en simple aide. Couple, travail, ce qui aide."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -21,9 +21,9 @@ faq:
   - q: "Que signifie Lilith en maison 6 ?"
     a: "Que la Lilith moyenne se trouvait dans la maison 6 de votre thème, celle du travail quotidien, des routines et du soin. J’y lis une façon bien à vous de faire les choses ordinaires, tue là où elle n’était pas voulue, et le refus ferme qu’on vous traite en simple aide plutôt qu’en personne."
   - q: "Lilith en maison 6 a-t-elle un effet sur la santé ?"
-    a: "Pas comme je la lis. La tradition donnait la maladie à la maison 6, mais aucun thème ne peut diagnostiquer ni prédire un problème de santé ; tout ce qui touche à votre santé relève d’un médecin. Je lis la maison 6 comme la forme de vos journées : votre travail, vos routines, votre façon de prendre soin de vous."
+    a: "Pas comme je la lis. Les vieux livres mettaient la maladie en maison 6, mais un thème n’est pas un outil de diagnostic ni de prédiction, et une inquiétude pour votre santé mérite un médecin. Ce que je lis en maison 6, c’est la construction de vos journées : votre travail, vos routines, votre façon de prendre soin de vous."
   - q: "Lilith en maison 6 parle-t-elle du travail ?"
-    a: "Surtout du travail quotidien : les tâches plutôt que le titre, les routines qui tiennent une journée, les personnes à côté de qui vous travaillez. Avec Lilith ici, la part cachée se voit dans votre façon de faire, et dans ce que vous refusez de supporter dans la façon dont on vous demande de faire."
+    a: "Surtout du travail quotidien : ce qui figure sur la liste plutôt que sur la carte de visite, les routines qui tiennent une journée, les personnes avec qui vous travaillez. Avec Lilith ici, la part cachée se voit dans votre façon de faire, et dans ce que vous refusez de supporter dans celle qu’on vous impose."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons, leurs anciens noms et la joie de Mars en maison 6" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "l’apogée moyen de la Lune, le point lu comme la Lune noire Lilith" }
@@ -32,11 +32,11 @@ Lilith en maison 6 vit dans la journée ordinaire : les tâches, l’emploi du 
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La maison 6 est cadente, une maison d’ajustement et d’entretien, et son signe naturel est la Vierge. Les astrologues d’autrefois l’appelaient la Fortune défavorable et lui donnaient la peine ; Mars, la planète de l’effort, y avait sa joie. Elle couvre le travail quotidien — les tâches plutôt que le titre —, les routines et les habitudes, les collègues à côté de vous, et le soin ordinaire que vous vous accordez. Avec Lilith ici, la part cachée, c’est souvent votre propre méthode : un rythme, un ordre, une façon de faire les choses ordinaires qui vous convenait et n’était pas celle de la maison.
+La maison 6 est celle où une vie s’entretient : c’est une maison cadente, la deuxième des quatre, et son signe naturel est la Vierge. Les astrologues d’autrefois l’appelaient la Fortune défavorable et lui donnaient la peine ; Mars, la planète de l’effort, y avait sa joie. Elle couvre le travail quotidien — ce qui figure sur la liste plutôt que sur la carte de visite —, les routines et les habitudes, les collègues à côté de vous, et le soin ordinaire que vous vous accordez. Avec Lilith ici, la part cachée, c’est souvent votre propre méthode : un rythme, un ordre, une façon de faire les choses ordinaires qui vous convenait et n’était pas celle de la maison.
 
 Ce que cette Lilith refuse, c’est qu’on la traite en simple aide. Elle travaillera dur, et souvent bien, mais pas comme le prolongement de la volonté de quelqu’un d’autre, ni selon un emploi du temps qui n’a aucun sens. Ses limites sont pratiques : ce qui fait partie de votre travail et ce qui n’en fait pas partie, les heures qui sont à vous, la façon dont une chose se fait une fois qu’elle vous revient.
 
-La tradition donnait la maladie à la maison 6. Je ne lis la maladie dans le thème de personne : aucun thème ne peut diagnostiquer ni prédire un problème de santé, et tout ce qui vous inquiète pour votre santé est une question pour un médecin ([L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)). Je lis la maison 6 comme la forme de vos journées.
+Les vieux livres mettaient la maladie en maison 6. Je ne cherche la maladie dans le thème de personne : un thème n’est pas un outil de diagnostic, et une inquiétude pour votre santé mérite un médecin, pas une astrologue ([L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)). Ce que je lis là, c’est la construction de vos journées.
 
 La maison demande votre heure de naissance ([ce que l’heure décide](/blog/unknown-birth-time/#ce-que-l-heure-decide)) ; en Placidus, le système que j’utilise, la maison 6 s’arrête là où commence la maison 7, au descendant. D’un côté, il y a le jeu, [Lilith en maison 5](/astrology/lilith-in-5th-house/) ; de l’autre, le couple, [Lilith en maison 7](/astrology/lilith-in-7th-house/). Entre les deux, cette Lilith vit dans l’emploi du temps.
 

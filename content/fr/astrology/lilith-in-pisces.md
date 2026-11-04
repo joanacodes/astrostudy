@@ -40,7 +40,7 @@ Le refus, ici, discute rarement. Il contourne : il garde la vie intérieure en 
 
 Les Poissons sont la fin du tour. La Lilith moyenne y arrive de [Lilith en Verseau](/astrology/lilith-in-aquarius/) et, environ neuf mois plus tard, recommence son tour avec [Lilith en Bélier](/astrology/lilith-in-aries/). Elle a été en Poissons de novembre 1930 à août 1931, de septembre 1939 à juin 1940, de juillet 1948 à avril 1949, de mai 1957 à février 1958, d’avril à décembre 1966, de février à novembre 1975, de décembre 1983 à septembre 1984, d’octobre 1992 à juillet 1993 et d’août 2001 à mai 2002. Ce sont les dates de la Lilith moyenne ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)). Toutes les personnes nées dans l’une de ces périodes partagent les poissons ; la maison, qui [demande l’heure de naissance](/blog/unknown-birth-time/#ce-qu-elle-ne-decide-pas), dit quelles eaux sont les vôtres.
 
-Les Poissons sont un signe de foi, mais je préfère que vous ne me croyiez pas sur parole : quand j’ai vérifié des thèmes ligne par ligne, Lilith a fait partie des [trois placements qui ont le mieux tenu](/blog/saturn-chiron-lilith/), 75 à 90 % du temps.
+Les Poissons sont un signe de foi, mais je préfère que vous ne me croyiez pas sur parole : quand j’ai vérifié des thèmes ligne par ligne, Lilith est arrivée parmi les [trois placements qui tenaient le plus souvent](/blog/saturn-chiron-lilith/), à 75 à 90 %.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -58,6 +58,6 @@ Tout ressentir a un prix. Il se peut que vous absorbiez si vite les humeurs des 
 
 ## Ce qui aide {#ce-qui-aide}
 
-Donnez une forme à l’imagination : un carnet, une pratique, de la musique, un endroit où vous allez vous taire exprès. Les Poissons ont deux maîtres pour dire où, et je lis les deux. [Neptune](/astrology/neptune/), le maître moderne, montre par sa maison où le rêve a besoin de place ; le signe de Neptune est partagé par toutes les personnes nées sur environ quatorze ans. [Jupiter](/astrology/jupiter/), le maître traditionnel, dont le signe et la maison montrent où cette vie intérieure peut grandir en quelque chose que vous partagez.
+Donnez une forme à l’imagination : un carnet, une pratique, de la musique, un endroit où vous allez vous taire exprès. Les Poissons ont deux maîtres pour dire où, et je lis les deux. [Neptune](/astrology/neptune/), le maître moderne, montre par sa maison où le rêve a besoin de place ; le signe de Neptune ne change qu’à peu près tous les quatorze ans. [Jupiter](/astrology/jupiter/), le maître traditionnel, dont le signe et la maison montrent où cette vie intérieure peut grandir en quelque chose que vous partagez.
 
 Exercez-vous au petit non, clair et net. C’est aussi un acte de compassion, envers vous autant qu’envers les autres, et il garde les deux poissons liés au lieu de les laisser tirer chacun de son côté.

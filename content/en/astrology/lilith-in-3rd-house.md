@@ -31,7 +31,7 @@ The 3rd house is where you learned to speak, and, with Lilith there, where you a
 
 ## In a birth chart {#in-a-birth-chart}
 
-The 3rd house is cadent, a house of learning and adjusting, and its natural sign is Gemini. It covers everyday communication, the way you learn, your brothers and sisters and the people next door, short journeys and the local world you grew up in. Tradition called it the Goddess and placed the Moon's joy there. Lilith is a point of the Moon's own orbit, and I like the coincidence, though I don't build anything on it.
+Cadent houses are where things are learned and adjusted, and the 3rd, with Gemini as its natural sign, is the first of them. It covers everyday communication, the way you learn, your brothers and sisters and the people next door, short journeys and the local world you grew up in. Tradition called it the Goddess and placed the Moon's joy there. Lilith is a point of the Moon's own orbit, and I like the coincidence, though I don't build anything on it.
 
 With Lilith in this house, the hidden part lives in your voice. There may have been one way of talking at home and another outside it, a question that got you into trouble at school, a subject the family went quiet around, or a sibling who said the thing for you. What stays is an ear for the unsaid and a reluctance to repeat what you're told until you've checked it yourself. The boundaries here are verbal: *no, I won't put it that way.*
 

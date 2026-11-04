@@ -20,7 +20,7 @@ faq:
   - q: "Que signifie Lilith en maison 1 ?"
     a: "Que la Lilith moyenne se trouvait dans la maison 1 de votre thème, celle de la présence et de la première impression. J’y lis la part qu’on a appris à cacher qui se voit à la surface : les autres sentent votre refus de vous laisser diriger avant de vous connaître, et réagissent avec intérêt ou avec méfiance."
   - q: "Et si Lilith est conjointe à mon ascendant ?"
-    a: "Elle se trouve alors sur le degré qui se levait, ou tout près, là où commence la maison 1 en Placidus. C’est la place la plus visible que Lilith puisse occuper dans un thème, et la plus sensible à l’heure de naissance : quelques minutes d’écart suffisent à la faire passer de l’autre côté de l’ascendant, d’où l’importance d’une heure exacte."
+    a: "Elle se trouve alors sur le degré ascendant, ou tout près, là où commence la maison 1 en Placidus. C’est la place la plus visible que Lilith puisse occuper dans un thème, et la plus sensible à l’heure de naissance : quelques minutes d’écart suffisent à la faire passer de l’autre côté de l’ascendant, d’où l’importance d’une heure exacte."
   - q: "Lilith en maison 1 change-t-elle l’apparence ?"
     a: "Pas comme je la lis. Un thème ne décide pas de votre apparence. Ce que ce placement décrit, c’est l’impression que vous laissez — une manière, une énergie que les autres perçoivent vite — et votre rapport au regard des autres, que vous pouvez façonner."
 sources:
@@ -32,11 +32,11 @@ La plupart des gens gardent leur Lilith dans un endroit privé. En maison 1, ell
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La maison 1 est angulaire, la première des quatre maisons qui commencent aux angles du thème, et son signe naturel est le Bélier. Elle couvre la façon dont vous apparaissez avant d’avoir dit grand-chose : vos manières, votre énergie, votre corps dans une pièce, le style avec lequel vous abordez la vie. Ici, Lilith ne reste pas en coulisses. Ce qu’on vous a reproché d’avoir en trop — trop d’intensité, trop d’étrangeté, un non trop prompt — se lit volontiers sur votre visage et dans votre allure, que vous le vouliez ou non.
+La maison 1 est la première des quatre maisons angulaires du thème, et son signe naturel est le Bélier. Elle couvre la façon dont vous apparaissez avant d’avoir dit grand-chose : vos manières, votre énergie, votre corps dans une pièce, le style avec lequel vous abordez la vie. Ici, Lilith ne reste pas en coulisses. Ce qu’on vous a reproché d’avoir en trop — trop d’intensité, trop d’étrangeté, un non trop prompt — se lit volontiers sur votre visage et dans votre allure, que vous le vouliez ou non.
 
 Cela peut sembler injuste. Les autres rangent leurs refus dans un tiroir ; le vôtre entre avec vous. J’y lis l’instinct d’autonomie de Lilith écrit à la surface : on voit que vous ne vous laissez pas diriger facilement, et les gens y réagissent, avec intérêt ou avec méfiance, bien avant de vous connaître.
 
-En Placidus, le système de maisons que j’utilise, la maison 1 commence exactement à l’[ascendant](/astrology/ascendant/), le degré qui se levait à l’est à votre naissance. L’heure de naissance devient donc décisive ([ce que l’heure décide](/blog/unknown-birth-time/#ce-que-l-heure-decide)). Quatre minutes déplacent l’horizon d’un degré : si votre Lilith est proche de l’ascendant, une petite erreur sur l’heure peut en faire une [Lilith en maison 12](/astrology/lilith-in-12th-house/), qui se lit tout autrement ; à l’autre bout de la maison, une [Lilith en maison 2](/astrology/lilith-in-2nd-house/).
+En Placidus, le système de maisons que j’utilise, la maison 1 commence exactement à l’[ascendant](/astrology/ascendant/), le point du zodiaque qui montait à l’horizon est à votre naissance. L’heure de naissance devient donc décisive ([ce que l’heure décide](/blog/unknown-birth-time/#ce-que-l-heure-decide)). Quatre minutes déplacent l’horizon d’un degré : si votre Lilith est proche de l’ascendant, une petite erreur sur l’heure peut en faire une [Lilith en maison 12](/astrology/lilith-in-12th-house/), qui se lit tout autrement ; à l’autre bout de la maison, une [Lilith en maison 2](/astrology/lilith-in-2nd-house/).
 
 Lilith fait partie des trois placements qui ont tenu 75 à 90 % du temps dans [mon carnet](/blog/i-tested-my-birth-chart/), et sur l’ascendant, on la manque difficilement. Je vérifie quand même l’heure avant d’en dire quoi que ce soit.
 
