@@ -45,7 +45,7 @@ Chaque passage de la Lune en Verseau dure environ deux jours et demi, d’où ce
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-L’amitié est le sol où pousse votre amour. Vous voulez quelqu’un qui soit aussi une amie ou un ami, qui respecte votre temps à vous, vos opinions et vos projets un peu étranges, et qui n’ait pas besoin de réassurance permanente pour se sentir en sécurité. L’égalité compte, tout comme l’honnêteté sur ce que chacun veut. Les grandes exigences émotionnelles peuvent vous faire reculer, non par indifférence, mais parce qu’il vous faut un moment pour comprendre ce qui se passe. Le dire à l’autre, *j’ai besoin d’une minute pour réfléchir, je ne pars pas*, peut éviter bien des blessures.
+L’amitié est le sol où pousse votre amour. Vous cherchez en l’autre une amitié autant qu’un amour : quelqu’un qui respecte votre temps à vous, vos opinions et vos projets un peu étranges, et qui n’ait pas besoin de réassurance permanente pour se sentir en sécurité. L’égalité compte, tout comme l’honnêteté sur ce que chacun veut. Les grandes exigences émotionnelles peuvent vous faire reculer, non par indifférence, mais parce qu’il vous faut un moment pour comprendre ce qui se passe. Le dire à l’autre, *j’ai besoin d’une minute pour réfléchir, je ne pars pas*, peut éviter bien des blessures.
 
 ## Au travail {#au-travail}
 

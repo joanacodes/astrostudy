@@ -39,7 +39,7 @@ En [Capricorne](/astrology/capricorn/), terre cardinale, la [Lune](/astrology/mo
 
 La tradition fait du Capricorne l’[exil](/astrology/detriment/) de la Lune : le signe opposé au Cancer, le sien. Le Cancer abrite les émotions ; le Capricorne les gère. Cette Lune est donc moins à l’aise avec le simple fait d’avoir besoin, pas moins aimante, et en pratique, son amour prend souvent la forme de la fiabilité : la facture payée, le retour en voiture assuré, le problème réglé en silence avant que vous sachiez qu’il existait.
 
-[Saturne](/astrology/saturn/) gouverne le Capricorne, et ici, mon carnet apporte une nuance qui compte. La Lune elle-même a eu un résultat ordinaire : vérifiée comme tout le reste, elle reste en dehors des [trois qui ont tenu](/blog/saturn-chiron-lilith/) de loin le mieux. Saturne en fait partie, avec 75 à 90 % de tenue, contre environ un tiers pour l’ensemble de ce que j’ai vérifié ([mon carnet](/blog/i-tested-my-birth-chart/)). Avec une Lune en Capricorne, je lis donc le signe, la maison et les aspects de Saturne avec un soin particulier : ils décrivent la structure sur laquelle cette Lune s’appuie, et c’est la part du tableau à laquelle je fais le plus confiance.
+[Saturne](/astrology/saturn/) gouverne le Capricorne, et ici, mon carnet apporte une nuance qui compte. La Lune elle-même a eu un résultat ordinaire : vérifiée comme tout le reste, elle reste en dehors des [trois qui ont tenu](/blog/saturn-chiron-lilith/) de loin le mieux. Saturne en fait partie, avec 75 à 90 % de tenue, contre environ un tiers pour l’ensemble de ce que j’ai vérifié ([mon carnet](/blog/i-tested-my-birth-chart/)). Avec une Lune en Capricorne, je lis donc avec un soin particulier tout ce qui concerne Saturne, signe, maison et aspects : cela décrit la structure sur laquelle cette Lune s’appuie, et c’est la part du tableau à laquelle je fais le plus confiance.
 
 Environ deux jours et demi : c’est le temps que met la Lune à traverser le Capricorne, et environ 1 personne sur 12 l’y a donc. Elle arrive de la [Lune en Sagittaire](/astrology/moon-in-sagittarius/), tout horizon et humour, et repart vers la [Lune en Verseau](/astrology/moon-in-aquarius/), qui comprend une émotion avec un peu de recul. Un jour de passage, c’est votre heure de naissance qui choisit entre les deux ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/#la-lune)).
 
@@ -53,7 +53,7 @@ C’est souvent au travail que cette Lune se sent à l’abri, parce qu’il y a
 
 ## Le plus difficile {#le-plus-difficile}
 
-Des émotions repoussées jusqu’à ce que le travail soit fini, alors qu’il ne l’est jamais. Une autonomie qui refuse l’aide, même offerte avec chaleur. Le sentiment qu’il faut mériter le réconfort, que le repos vient après, qu’avoir besoin de quelque chose est une forme d’échec. Avec le temps, l’écart entre l’air capable que vous avez et ce que vous ressentez vraiment peut se creuser, et les autres ne pensent pas toujours à demander.
+Des émotions remises à plus tard, après le travail, qui n’est jamais fini. Une autonomie qui refuse l’aide, même offerte avec chaleur. Le sentiment qu’il faut mériter le réconfort, que le repos vient après, qu’avoir besoin de quelque chose est une forme d’échec. Avec le temps, l’écart entre l’air capable que vous avez et ce que vous ressentez vraiment peut se creuser, et les autres ne pensent pas toujours à demander.
 
 ## Ce qui aide {#ce-qui-aide}
 

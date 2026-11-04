@@ -39,7 +39,7 @@ Avec la [Lune](/astrology/moon/) en [Balance](/astrology/libra/), signe d’air 
 
 Dans l’ancien système des dignités, la Balance est un terrain neutre pour la Lune : ni son propre signe, ni son exaltation, ni en face de l’un ou de l’autre.
 
-[Vénus](/astrology/venus/) gouverne la Balance, et je la lis ensuite. Elle montre ce que vous trouvez juste, agréable et digne d’être gardé, et donc ce qui vous restaure. Une Lune en Balance s’apaise par la réciprocité et par ce qui plaît à l’œil, une table bien mise, une conversation où chacun a la parole, et le signe et la maison de Vénus disent où vous les trouvez, et ce que vous acceptez de donner en échange.
+[Vénus](/astrology/venus/) gouverne la Balance, et je la lis ensuite. Elle montre ce que vous trouvez juste, agréable et digne d’être gardé, et donc ce qui vous restaure. Une Lune en Balance s’apaise par la réciprocité et par ce qui plaît à l’œil, une table bien mise, une conversation où chacun a la parole, et c’est Vénus, par son signe et sa maison, qui dit où vous les trouvez, et ce que vous acceptez de donner en échange.
 
 Environ 1 personne sur 12 partage cette Lune. La Lune arrive en Balance depuis la Vierge, où la [Lune en Vierge](/astrology/moon-in-virgo/) trouve son calme dans l’ordre, et la quitte pour le Scorpion, où la [Lune en Scorpion](/astrology/moon-in-scorpio/) ressent tout en profondeur et en secret. Entre les deux, elle reste deux jours et demi environ : un anniversaire qui tombe un jour de passage demande l’heure de naissance pour trancher ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/#la-lune)).
 

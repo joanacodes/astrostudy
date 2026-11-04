@@ -34,7 +34,7 @@ Avec la Lune en maison 9, le lointain réconforte. Un nouveau pays, une grande i
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La [maison 9](/astrology/9th-house/) regarde vers le dehors : les longs voyages, les pays et les langues étrangères, les études supérieures, les convictions qui vous guident et les livres qui vous ont fait changer d’avis. C’est une maison cadente, et le Sagittaire est son signe naturel. Pour une Lune placée ici, la sécurité est dans la vue d’ensemble. Vous vous régulez en élargissant le cadre : une semaine ailleurs, un livre qui éclaire le problème autrement, une conversation avec quelqu’un dont la vie ne ressemble en rien à la vôtre.
+La [maison 9](/astrology/9th-house/) regarde vers le dehors : les longs voyages, les pays et les langues étrangères, les études supérieures, les convictions qui vous guident et les livres qui vous ont fait changer d’avis. C’est une maison cadente, et le Sagittaire est son signe naturel. Pour une [Lune](/astrology/moon/) placée ici, la sécurité est dans la vue d’ensemble. Vous vous régulez en élargissant le cadre : une semaine ailleurs, un livre qui éclaire le problème autrement, une conversation avec quelqu’un dont la vie ne ressemble en rien à la vôtre.
 
 Pour les anciens, cette maison était le Dieu, celle où se réjouit le Soleil, face à la maison 3, la Déesse, où se réjouit la Lune ([joies des planètes](/astrology/planetary-joys/)). Une Lune en maison 9 se tient donc en face de sa propre joie, dans celle du Soleil : la lumière du proche et du quotidien, placée dans la maison du lointain. J’y lis une Lune qui trouve son foyer dans ce que d’autres trouvent étranger, et qui se sent parfois de passage dans le familier.
 

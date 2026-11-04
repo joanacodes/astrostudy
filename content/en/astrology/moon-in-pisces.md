@@ -52,7 +52,7 @@ Work with meaning and some quiet in it suits this Moon: creative work, caring wo
 
 ## The hard part {#the-hard-part}
 
-Not knowing whose feeling it is. You can come home from a day among people carrying a sadness that started in someone else, and spend the evening trying to solve it. Saying yes to keep the mood around you steady can leave your own needs unspoken. Boundaries can feel unkind, so you may put them off until you're worn out. And when the world is too loud, withdrawing helps; withdrawing for too long can leave you more alone than you want to be.
+Not knowing whose feeling it is. You can come home from a day among people carrying a sadness that started in someone else, and spend the evening trying to solve it. Saying yes to keep the mood around you steady can leave your own needs unspoken. A boundary can seem unkind to you, so you may put it off until you're worn out. And when the world is too loud, withdrawing helps; withdrawing for too long can leave you more alone than you want to be.
 
 ## What helps {#what-helps}
 

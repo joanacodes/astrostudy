@@ -33,7 +33,7 @@ With the Moon in the 9th house, the far-off is a comfort. A new country, a big i
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 9th house](/astrology/9th-house/) reaches outward: long journeys, foreign places and languages, higher learning, the beliefs you live by and the books that changed your mind. It is cadent, and Sagittarius is its natural sign. For a Moon placed here, safety lives in the wide view. You regulate by widening the lens: a week away, a book that puts the problem in a new light, a conversation with someone whose life looks nothing like yours.
+[The 9th house](/astrology/9th-house/) reaches outward: long journeys, foreign places and languages, higher learning, the beliefs you live by and the books that changed your mind. It is cadent, and Sagittarius is its natural sign. For a [Moon](/astrology/moon/) placed here, safety lives in the wide view. You regulate by widening the lens: a week away, a book that puts the problem in a new light, a conversation with someone whose life looks nothing like yours.
 
 The old astrologers named this house the God, and it is where the Sun rejoices, facing the 3rd, the Goddess, where the Moon does ([planetary joys](/astrology/planetary-joys/)). So a 9th-house Moon sits opposite its own joy, in the Sun's: the light of the near and the daily, set in the house of the far. I read that as a Moon that finds home in what others find foreign, and sometimes feels like a visitor in the familiar.
 

@@ -38,7 +38,7 @@ With the Moon in Aquarius, you often need to stand a little way back from a feel
 
 Tradition attaches no dignity to the Moon in Aquarius; its condition here comes from the rest of the chart, not from the sign.
 
-Two rulers share Aquarius, and I read both. [Uranus](/astrology/uranus/), its modern ruler, marks where this Moon needs room to be itself, to differ, to change the rules. [Saturn](/astrology/saturn/), its traditional ruler, marks the commitments and boundaries that let it stay close without feeling caged. Autonomy isn't isolation, and an Aquarius Moon that is well understood usually has both: its freedom, and a few people it would cross the country for.
+Two rulers share Aquarius, and I read both. [Uranus](/astrology/uranus/), the ruler modern astrologers give it, marks where this Moon needs room to be itself, to differ, to change the rules. [Saturn](/astrology/saturn/), the one the older books give, marks the commitments and boundaries that let it stay close without feeling caged. Autonomy isn't isolation, and an Aquarius Moon that is well understood usually has both: its freedom, and a few people it would cross the country for.
 
 Each pass the Moon makes through Aquarius lasts about two and a half days, which is why it belongs to about 1 person in 12. On one side sits the [Moon in Capricorn](/astrology/moon-in-capricorn/), which copes by taking responsibility; on the other, the [Moon in Pisces](/astrology/moon-in-pisces/), which feels its way into other people's moods. For a birth on the day of the change, I need the time before I can tell you which ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)).
 

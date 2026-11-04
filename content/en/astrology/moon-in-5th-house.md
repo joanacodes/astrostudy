@@ -32,7 +32,7 @@ With the Moon in the 5th house, enjoyment is part of how you stay steady. A morn
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 5th house](/astrology/5th-house/) covers doing things for the pleasure of it: making, playing, losing yourself in a hobby, flirting and falling for someone, taking a risk for fun, self-expression with no exam attached. It is succedent, its natural sign is Leo, and it carries the old name Good Fortune, with Venus rejoicing there. With the [Moon](/astrology/moon/) here, the chart's need for safety is met through enjoyment. You settle when there is room to play, and what you feel takes shape in what you make: a cake, a painting, a playlist, a joke told well.
+[The 5th house](/astrology/5th-house/) covers doing things for the pleasure of it: making, playing, losing yourself in a hobby, flirting and falling for someone, taking a risk for fun, self-expression with no exam attached. It is succedent, Leo is its natural sign, and it carries the old name Good Fortune, with Venus rejoicing there. With the [Moon](/astrology/moon/) here, the chart's need for safety is met through enjoyment. You settle when there is room to play, and what you feel takes shape in what you make: a cake, a painting, a playlist, a joke told well.
 
 The old books add children to this house. I don't read them there: whether anyone will have a child is beyond what a chart can say ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and I read adults' charts only, never [children's charts](/astrology/childrens-charts/). What I read in a 5th-house Moon is your own capacity for delight.
 
