@@ -22,12 +22,12 @@ faq:
   - q: "Does Venus in the 1st house make you attractive?"
     a: "It describes a manner rather than a face. Venus here tends to give an easy, pleasant way of meeting people and an eye for how things look, which others often find attractive. But Venus isn’t beauty, and no chart decides how anyone looks or whom they will attract."
   - q: "Do I need my birth time for Venus in the 1st house?"
-    a: "Yes. Houses come from the time and place of birth. The 1st house begins at the Ascendant, the degree rising at that moment, and a few minutes later Venus could have crossed into the 12th house, while an earlier time could put it in the 2nd. Without the time I don’t read a house at all."
+    a: "Yes, more than for most houses. The 1st begins at the Ascendant, which moves about a degree every four minutes on average, so a small change in the time can carry Venus up into the 12th house or down into the 2nd. Without a time I don’t read a house at all."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, and what tradition gave the first" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-Venus in the 1st house is often the first thing people meet in you. The planet of what you value and how you relate sits in the house of the self you lead with, so warmth and taste show in your manner before you've said much at all. I read it as a gift for setting a pleasant tone, and a lesson in keeping that tone honest.
+Venus in the 1st house is often the first thing people meet in you. Your taste and your way of relating sit right at the front of the chart, so warmth shows in your manner before you've said much at all. I read it as a gift for setting a pleasant tone, and a lesson in keeping that tone honest.
 
 ## In a birth chart {#in-a-birth-chart}
 
