@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/6th-house", "/astrology/planetary-joys", "/astrology/can-astrology-predict-health-problems", "/blog/unknown-birth-time"]
 faq:
   - q: "What does Mars in the 6th house mean?"
-    a: "Mars is in its joy: you were born with the planet of effort in the 6th house, the house of daily work, routines and colleagues. You tend to work hard and fast, tackle problems practically, and feel best with a task in hand. The lesson is to let rest and the care of your body count as part of the work."
+    a: "Mars is in its joy: you were born with the planet of effort in the 6th house, the house of daily work, routines and colleagues. You tend to work hard and fast, tackle problems practically, and feel best with a task in hand. The lesson: let rest and your body’s care count as part of the work."
   - q: "Does Mars in the 6th house mean health problems?"
     a: "No. Tradition gave the 6th house illness, but no chart can diagnose or predict anything about your health, and questions about it belong with a doctor. With Mars here I look at how you spend your energy day to day: often generously, and sometimes without enough rest."
   - q: "Why is the 6th house Mars’s joy?"
@@ -53,4 +53,4 @@ Overwork. Rest can feel like laziness, and a free day turns into a list. Irritat
 
 ## What helps {#what-helps}
 
-Build movement into the day, a walk, a training session, a physical job, so that effort has somewhere to go besides work. Schedule rest as firmly as tasks. Turn irritation into improvement: fix the process instead of fighting the person. Take questions about your health to a doctor, and give your body the same steady attention you'd give a machine you relied on. The 6th is Mars's joy; let the joy include stopping when the work is done.
+Build movement into the day, a walk, a training session, a physical job, so that effort has somewhere to go besides work. Plan rest with the same firmness as tasks. Turn irritation into improvement: fix the process instead of fighting the person. Take questions about your health to a doctor, and give your body the same steady attention you'd give a machine you relied on. The 6th is Mars's joy; let the joy include stopping when the work is done.
