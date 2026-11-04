@@ -36,11 +36,11 @@ A new moon gives the darkest nights of the lunar month, and Scorpio is the sign 
 
 ## What it brings {#what-it-brings}
 
-At a [new moon](/astrology/new-moon/), the Moon stands at the Sun's degree, lost in its glare, and the cycle of phases starts over. In [Scorpio](/astrology/scorpio/), a fixed water sign, that start is slow and serious. Scorpio holds on to what matters and wants the truth rather than the surface, so the month it opens tends to begin with a conversation about trust, a debt or a promise looked at squarely, or a feeling you've carried long enough to know whether to keep it.
+The [new moon](/astrology/new-moon/) puts the Moon at the Sun's degree, lost in its glare, and the cycle of phases starts over. In [Scorpio](/astrology/scorpio/), a fixed water sign, that start is slow and serious. Scorpio holds on to what matters and wants the truth rather than the surface, and its month often opens on a conversation about trust, a debt or a promise looked at squarely, or a feeling you've carried long enough to know whether to keep it.
 
 Tradition puts the Moon in its fall in Scorpio. I read that as feeling that runs deep and stays private, not as damage: the month may begin quietly, with more going on inside than shows. Scorpio has two rulers, [Pluto](/astrology/pluto/) in modern tropical astrology and [Mars](/astrology/mars/) in the tradition, and I read both. Pluto's house in your chart shows where you're asked to transform something; Mars's, where you find the nerve to begin.
 
-None of this happens on cue. A new moon earns a place in a reading only when it falls within about 1° of a planet or angle of yours while a transit, a progression, a solar arc or an eclipse is already working there. Then it can bring that into focus for a few days. On its own, it forecasts nothing.
+None of this happens on cue. A new moon earns a place in a reading only when it falls within about 1° of a planet or angle of yours while something slower is already at work there (a transit or progression, a solar arc, an eclipse). Then it can bring that into focus for a few days. On its own, it forecasts nothing.
 
 The next falls on 9 November 2026 at 07:02 UT, at 16°53′ Scorpio. After it come 29 October 2027 at 5°54′, 16 November 2028 at 24°43′, 6 November 2029 at 14°02′ and 26 October 2030 at 3°27′. None of the five is an eclipse.
 
@@ -65,7 +65,7 @@ Your birth time decides the house, and a few minutes can move a cusp by a degree
 
 ## What helps {#what-helps}
 
-- **Look for the degree.** Anything of yours within a degree of 16°53′ Scorpio in 2026, 5°54′ in 2027, 24°43′ in 2028, 14°02′ in 2029 or 3°27′ in 2030? If not, the month starts quietly in one house, and that's all.
+- **Look for the degree.** Does anything of yours sit within a degree of one of those five positions? If not, the month starts quietly in one house, and that's all.
 - **Read both rulers.** The houses of Pluto and Mars show where a Scorpio beginning gathers its force.
 - **One honest thing.** Scorpio prefers one deep change to several shallow ones.
 - **No talk of endings.** Older books tie Scorpio and its house to death. I don't read death in a chart, ever ([can astrology predict death?](/astrology/can-astrology-predict-death/)): if this new moon asks you to end anything, it's a pretence.

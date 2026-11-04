@@ -25,7 +25,7 @@ faq:
   - q: "La nouvelle lune en Balance est-elle bonne pour les relations ?"
     a: "C’est la nouvelle lune du signe du couple et des associations : si vous aimez marquer un nouveau départ à deux, elle s’y prête. Mais à elle seule, elle ne fait naître ni amour ni accord. Dans votre thème, elle ne compte qu’à un degré environ d’une planète ou d’un angle, comme déclencheur de ce qui est déjà actif."
   - q: "Que veut dire le Soleil en chute en Balance ?"
-    a: "La tradition place la chute du Soleil en Balance, le signe opposé à son exaltation en Bélier. Je n’y lis pas une faiblesse. Ici, le sens de soi passe par la comparaison et l’accord : une nouvelle lune en Balance lance donc les choses avec les autres en vue, plutôt que seule ou seul dans son coin."
+    a: "La tradition place la chute du Soleil en Balance, le signe opposé à son exaltation en Bélier. Je n’y lis pas une faiblesse. Ici, le sens de soi passe par la comparaison et l’accord : une nouvelle lune en Balance lance donc les choses avec les autres en vue, plutôt qu’en solitaire."
   - q: "La nouvelle lune en Balance compte-t-elle si je n’ai pas de planète en Balance ?"
     a: "Elle traverse quand même la maison qu’occupe la Balance dans votre thème, comme un mois tranquille à cet endroit. Elle ne ressort qu’à un degré environ d’un point natal, et ce point n’est pas forcément une planète : un angle en Balance, ou Chiron, Lilith ou un nœud, peut aussi la recevoir."
 sources:
@@ -33,7 +33,7 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les phases de la Lune" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "la maîtrise de Vénus sur la Balance, l’exaltation et la chute du Soleil" }
 ---
-Le Soleil entre en Balance à l’équinoxe de septembre, quand le jour et la nuit sont presque égaux, et la première nouvelle lune qui suit est toujours une nouvelle lune en Balance. Elle ouvre un mois dans le signe de la balance, où l’on commence rarement seule ou seul.
+Le Soleil entre en Balance à l’équinoxe de septembre, quand le jour et la nuit sont presque égaux, et la première nouvelle lune qui suit est toujours une nouvelle lune en Balance. Elle ouvre un mois dans le signe de la balance, où l’on commence rarement sans quelqu’un.
 
 ## Ce qu’elle apporte {#ce-qu-elle-apporte}
 

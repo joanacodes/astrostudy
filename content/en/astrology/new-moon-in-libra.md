@@ -36,7 +36,7 @@ The Sun crosses into Libra at the September equinox, when day and night are near
 
 ## What it brings {#what-it-brings}
 
-At a [new moon](/astrology/new-moon/), the Moon draws level with the Sun and turns its dark side towards us; a new round of phases starts from that meeting. In [Libra](/astrology/libra/), a cardinal air sign, the round starts by turning towards someone. Libra asks *is this fair?*, so the month it opens tends to begin with an agreement, a conversation that resets the terms, or a partnership seen afresh.
+When the Moon draws level with the Sun, at a [new moon](/astrology/new-moon/), it turns its dark side towards us, and a new round of phases starts from that meeting. In [Libra](/astrology/libra/), a cardinal air sign, the round starts by turning towards someone. Libra asks *is this fair?*, so the month it opens tends to begin with an agreement, a conversation that resets the terms, or a partnership seen afresh.
 
 There's an old wrinkle here. Tradition puts the Sun in its [fall](/astrology/fall/) in Libra, opposite its exaltation in Aries, and at this new moon the Moon joins it there. I don't read it as a weak start: it's a self that finds its shape through other people, so the month leans towards *we* before *I*. Libra is ruled by [Venus](/astrology/venus/): where Venus sits in your chart shows how you weigh what's fair, and that's where a Libra theme goes once it has begun.
 

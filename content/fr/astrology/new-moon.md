@@ -49,7 +49,7 @@ La plupart des mois, la Lune passe un peu au-dessus ou au-dessous du Soleil, par
 
 ## Dans une lecture {#dans-une-lecture}
 
-Si vous êtes venu au monde à la nouvelle lune, votre thème réunit le Soleil et la Lune : [Soleil conjonction Lune](/astrology/sun-conjunct-moon/). Le système que j’ai construit pour mes lectures traite une conjonction comme deux fonctions réunies en un seul mouvement, sans qu’aucune ne s’efface ; j’y lis donc un élan et un besoin qui partent du même endroit. Cela peut donner une belle unité de direction, et, avec les années, cela demande un travail précis : distinguer ce que l’on veut de ce dont on a besoin.
+Pour une naissance à la nouvelle lune, votre thème réunit le Soleil et la Lune : [Soleil conjonction Lune](/astrology/sun-conjunct-moon/). Le système que j’ai construit pour mes lectures traite une conjonction comme deux fonctions réunies en un seul mouvement, sans qu’aucune ne s’efface ; j’y lis donc un élan et un besoin qui partent du même endroit. Cela peut donner une belle unité de direction, et, avec les années, cela demande un travail précis : distinguer ce que l’on veut de ce dont on a besoin.
 
 L’heure de naissance peut compter ici. La Lune gagne environ 12° par jour sur le Soleil : pour une naissance à un jour environ de la nouvelle lune exacte, l’heure décide si votre Lune se trouvait encore juste derrière le Soleil, à la fin du cycle précédent, ou déjà devant lui ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)).
 
