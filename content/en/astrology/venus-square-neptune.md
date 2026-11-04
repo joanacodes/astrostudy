@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 177
 glyph: "♀□♆"
-definition: "Venus square Neptune means Venus and Neptune were about 90° apart at your birth, often in signs of one modality. In a chart, your sense of worth and your longing for more rub against each other, and ideal and real rarely match at first. To me it’s friction with a lesson: loving clearly without loving less."
+definition: "Venus square Neptune means Venus and Neptune met at a right angle, about 90°, when you were born, often in signs of one modality. In a chart, your sense of worth and your longing for more rub against each other, and ideal and real rarely match at first. To me it’s friction with a lesson: loving clearly without loving less."
 facts:
   - { k: "Bodies", v: "Venus ♀ and Neptune ♆" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -24,7 +24,7 @@ faq:
   - q: "Why do I fall for potential with Venus square Neptune?"
     a: "Because Neptune shows you what someone or something could become, and Venus values it before it’s there. That’s generous, and it can be painful when the potential doesn’t arrive. Over time, the square tends to teach you to love what’s present as well as what’s possible, and to tell the two apart."
   - q: "Can Venus square Neptune be a creative aspect?"
-    a: "Often, yes. Longing that doesn’t quite fit real life has always fed art, music and stories, and this square gives you plenty of it. Making something from the gap between the ideal and the real is one of the most constructive ways to live with it."
+    a: "Often, yes. Longing that doesn’t quite fit real life has always fed art, music and stories, and this square gives you plenty of it. Making something out of the distance between ideal and real is among the best ways to live with this square."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the square, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people are born with it" }
@@ -56,6 +56,6 @@ Between two charts, [Venus square Neptune in synastry](/astrology/venus-square-n
 
 ## In transits {#in-transits}
 
-In [transits](/astrology/transits/), [Transiting Neptune square natal Venus](/astrology/transiting-neptune-square-natal-venus/) comes at most once in most lifetimes and stays for a year or two: a stretch when what you love, and what you find beautiful, can blur before it clears. For anyone born with this square, the [Neptune square](/astrology/neptune-square/) around 41 comes with a twist: Neptune in the sky then crosses your Venus or opposes it, depending on which side of Neptune your Venus sits.
+In [transits](/astrology/transits/), [Transiting Neptune square natal Venus](/astrology/transiting-neptune-square-natal-venus/) comes at most once in most lifetimes and stays for a year or two: a stretch when what you love, and what you find beautiful, can blur before it clears. For anyone born with this square, the [Neptune square](/astrology/neptune-square/) around 41 comes with a twist: Neptune in the sky then either reaches your Venus or opposes it, according to whether your Venus lies 90° ahead of Neptune or 90° behind.
 
 Weather, not a forecast: a soft-focus season that clears in its own time.

@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 82
 glyph: "♄♑"
-definition: "Saturne en Capricorne, c’est Saturne en domicile, dans le signe de terre cardinal que Saturne gouverne. Avec le Verseau, c’est le signe de Saturne le plus fréquent pour les naissances de 1930 à 2009, partagé par les classes d’âge de 1930–1932, 1959–1962 et 1988–1991. On y lit la responsabilité, la maîtrise, et une vie bâtie pour durer."
+definition: "En Capricorne, Saturne est en domicile : un signe de terre cardinal, celui que Saturne gouverne. Avec le Verseau, c’est le signe de Saturne le plus fréquent pour les naissances de 1930 à 2009, partagé par les classes d’âge de 1930–1932, 1959–1962 et 1988–1991. On y lit la responsabilité, la maîtrise, et une vie bâtie pour durer."
 facts:
   - { k: "Corps", v: "Saturne ♄" }
   - { k: "Signe", v: "Capricorne ♑, gouverné par Saturne" }
@@ -19,13 +19,13 @@ facts:
 related: ["/astrology/saturn", "/astrology/capricorn", "/astrology/domicile", "/astrology/saturn-in-10th-house", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "Que veut dire Saturne en Capricorne ?"
-    a: "Saturne chez soi. Dans son propre signe, la planète de la structure travaille sans rien de dilué : la responsabilité, la patience, le réalisme et la longue ascension. Vous prenez souvent la vie au sérieux très tôt, et bâtissez des choses qui durent. C’est moins un placement facile qu’un placement fort ; la maison de Saturne montre où l’on bâtit."
+    a: "Saturne chez soi. Dans son propre signe, la planète de la structure travaille sans rien de dilué : la responsabilité, la patience, le réalisme et la longue ascension. Vous prenez souvent la vie au sérieux très tôt, et bâtissez des choses qui durent. C’est moins un placement facile qu’un placement fort ; c’est dans la maison de Saturne que l’on bâtit."
   - q: "Saturne en Capricorne, est-ce un placement fort ?"
     a: "Oui, au sens de la tradition : le Capricorne est le domicile de Saturne, le signe que Saturne gouverne. Fort veut dire net et entier, pas facile. La discipline et l’endurance viennent naturellement. Les leçons sont le repos, la douceur et le fait de demander de l’aide, que ce placement oublie souvent de lui-même."
   - q: "Quelles années ont connu Saturne en Capricorne ?"
-    a: "Du début de mon décompte, en janvier 1930, jusqu’en novembre 1932, puis de janvier 1959 à janvier 1962, de février 1988 à février 1991 et de décembre 2017 à décembre 2020. Saturne a fait des allers-retours avec le Verseau en 1932 et en 2020, et avec le Sagittaire en 1988 : pour ces mois-là, il faut un thème."
+    a: "Du début de mon décompte, en janvier 1930, jusqu’en novembre 1932, puis de janvier 1959 à janvier 1962, de février 1988 à février 1991 et de décembre 2017 à décembre 2020. En 1932 et en 2020, la frontière du Verseau a été franchie plusieurs fois, et en 1988 celle du Sagittaire : un thème tranche pour les naissances de ces mois-là."
   - q: "Que dit le retour de Saturne pour Saturne en Capricorne ?"
-    a: "Le séjour de décembre 2017 à décembre 2020 a apporté le premier retour aux personnes nées avec ce placement en 1988–1991, et le deuxième à celles nées en 1959–1962. Avec Saturne dans son propre signe, le bilan porte sur l’ambition et la responsabilité : ce que vous avez bâti, et sur le plan de qui."
+    a: "Saturne a retrouvé son propre signe de décembre 2017 à décembre 2020 : premier retour pour les naissances de 1988–1991, deuxième pour celles de 1959–1962. Ici, le bilan porte sur l’ambition et la responsabilité : ce que vous avez bâti, et sur le plan de qui."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "la maîtrise de Saturne sur le Capricorne" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les mois passés par Saturne en Capricorne de 1930 à 2039, et la part des personnes nées entre 1930 et 2009 qui ont ce placement" }
@@ -35,17 +35,17 @@ Saturne en Capricorne, c’est la planète dans sa propre maison, avec ses propr
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-[Saturne](/astrology/saturn/) est la part de vous qui prend les responsabilités, donne le rythme et bâtit sur le long terme. Le [Capricorne](/astrology/capricorn/), signe de terre cardinal, est celui de l’ambition, de la structure, de l’endurance et de la longue ascension, et c’est le signe de Saturne. Ici, la leçon n’est pas un conflit entre la planète et le signe : c’est Saturne à pleine puissance. Vous apprenez tôt la patience, le réalisme et la discipline, souvent plus tôt que vous ne l’auriez choisi, et vous bâtissez des choses faites pour survivre à l’effort.
+Le [Capricorne](/astrology/capricorn/) est un signe de terre cardinal et le propre signe de Saturne : l’ambition, l’endurance, la longue ascension. Quand [Saturne](/astrology/saturn/), le sens des responsabilités et du rythme de votre thème, s’y trouve, il n’y a donc pas de conflit à résoudre entre la planète et le signe : c’est Saturne à pleine puissance. Vous apprenez tôt la patience, le réalisme et la discipline, souvent plus tôt que vous ne l’auriez choisi, et vous bâtissez des choses faites pour survivre à l’effort.
 
 C’est le [domicile](/astrology/domicile/) de Saturne. Être chez soi ne veut pourtant pas dire que c’est facile : sans rien dans le signe pour l’adoucir, Saturne apporte ses vertus et sa sévérité ensemble. Et comme Saturne gouverne le Capricorne, il n’y a pas d’autre maître à consulter : la maison occupée par Saturne raconte à elle seule où va votre effort. La terre cardinale lance des choses concrètes, et avec Saturne aux commandes, ce qui est lancé est en général fait pour tenir des décennies.
 
 Saturne se trouvait déjà en Capricorne au début de mon décompte, en janvier 1930, et l’a occupé jusqu’en novembre 1932 ; puis Saturne a retrouvé le signe de janvier 1959 à janvier 1962, de février 1988 à février 1991 et de décembre 2017 à décembre 2020. Avec le Verseau, c’est le signe de Saturne le plus fréquent chez les personnes nées entre 1930 et 2009 : environ 1 personne sur 10. Un placement aussi partagé ne devient personnel que par sa maison et ses aspects : c’est donc là que je regarde d’abord.
 
-Le séjour de 2017–2020 a apporté le premier [retour de Saturne](/astrology/saturn-return/) à toutes les personnes nées avec ce placement en 1988–1991, et le deuxième à celles nées en 1959–1962 : un bilan de ce qui a été bâti, et sur le plan de qui.
+Pour la classe d’âge 1988–1991, le séjour de 2017–2020 a été un premier [retour de Saturne](/astrology/saturn-return/) ; pour les personnes nées en 1959–1962, un deuxième : un bilan de ce qui a été bâti, et sur le plan de qui.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-Vous aimez en étant là et en pourvoyant : des projets faits, des promesses tenues, une vie construite à deux, pièce par pièce. La réserve vient naturellement, et votre partenaire peut avoir besoin de temps pour voir tout ce qu’elle contient d’émotion. La tendresse se montre souvent d’abord sous une forme pratique : le manteau chaud, l’étagère réparée, le trajet du retour à minuit. L’amour peut se retrouver casé après le travail, ou traité comme une responsabilité de plus à bien gérer. La leçon : une relation est aussi un endroit où l’on prend soin de vous, où l’on rit, et où l’on peut ne rien produire ensemble.
+Être là et pourvoir, c’est votre façon de le dire : des projets faits, des promesses tenues, une vie construite à deux, pièce par pièce. La réserve vient naturellement, et votre partenaire peut avoir besoin de temps pour voir tout ce qu’elle contient d’émotion. La tendresse se montre souvent d’abord sous une forme pratique : le manteau chaud, l’étagère réparée, le trajet du retour à minuit. L’amour peut se retrouver casé après le travail, ou traité comme une responsabilité de plus à bien gérer. Avec le temps, vous apprenez que l’amour est aussi un endroit où l’on prend soin de vous, où l’on rit, et où l’on peut ne rien produire ensemble.
 
 ## Au travail {#au-travail}
 
@@ -57,4 +57,4 @@ La sévérité, surtout tournée vers vous-même. Porter des années de trop dè
 
 ## Ce qui aide {#ce-qui-aide}
 
-Mettre le repos dans le plan, comme une tâche avec une échéance. Mesurer vos progrès en années, pas en semaines : les résultats de Saturne sont lents ici, et ils durent. Laisser quelqu’un porter une part de la charge, sans aller vérifier comment cette personne la porte. Garder votre humour tout près : il allège un poids bien réel. Dans mes tests, Saturne a fait partie [des trois qui ont tenu](/blog/saturn-chiron-lilith/), 75 à 90 % du temps. Dans son propre signe, Saturne parle à plein volume : je donne donc à Saturne le temps demandé, c’est-à-dire, Saturne oblige, beaucoup.
+Mettre le repos dans le plan, comme une tâche avec une échéance. Mesurer vos progrès en années, pas en semaines : les résultats de Saturne sont lents ici, et ils durent. Laisser quelqu’un porter une part de la charge, sans aller vérifier comment cette personne la porte. Garder votre humour tout près : il allège un poids bien réel. Saturne a mieux traversé mes tests que presque tout le reste ; j’en parle dans [Les trois qui ont tenu](/blog/saturn-chiron-lilith/). Dans son propre signe, Saturne parle à plein volume : je donne donc à Saturne le temps demandé, c’est-à-dire, Saturne oblige, beaucoup.

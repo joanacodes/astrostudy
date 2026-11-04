@@ -22,7 +22,7 @@ faq:
   - q: "Que veut dire Mercure trigone Nœud Nord dans un thème natal ?"
     a: "Le jour de votre naissance, un tiers de cercle séparait Mercure du Nœud Nord. Votre façon de remarquer, de penser, de parler vous mène volontiers vers les capacités moins familières que décrit le Nœud Nord, et c’est souvent en posant des questions que vous y arrivez. J’y lis une route facile pour apprendre, à son meilleur quand vous pratiquez aussi."
   - q: "Est-ce que Mercure trigone Nœud Nord est un bon aspect ?"
-    a: "C’est un aspect facile, ce qui n’est pas tout à fait pareil. Le trigone fait coopérer la pensée et la croissance : les nouvelles directions prennent vite du sens pour vous. Son seul piège, c’est que comprendre peut sembler suffire. Le Nœud Nord se construit en pratiquant, et comprendre un pas, ce n’est pas encore le faire."
+    a: "C’est un aspect facile, et la nuance compte. Le trigone fait coopérer la pensée et la croissance : les nouvelles directions prennent vite du sens pour vous. Son seul piège, c’est que comprendre peut sembler suffire. Le Nœud Nord se construit en pratiquant, et comprendre un pas, ce n’est pas encore le faire."
   - q: "Quel est le rôle du Nœud Sud dans Mercure trigone Nœud Nord ?"
     a: "Le Nœud Sud fait exactement face au Nœud Nord : un trigone à l’un est donc un sextile à l’autre, à environ 60°. Votre esprit coule vers la nouvelle direction et reste en bons termes avec l’ancienne. J’y lis un don pour emmener vos forces de toujours au lieu de les laisser derrière vous."
   - q: "Avec Mercure trigone Nœud Nord, ma voie passe-t-elle par la communication ?"
@@ -44,11 +44,11 @@ Ce trigone a un piège, et il est propre à Mercure et au nœud. Comme la direct
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Dans un thème, ce trigone se montre souvent comme un apprentissage qui mène quelque part. Un trigone relie en général deux signes du même élément : Mercure partage souvent l’élément du Nœud Nord et se trouve à deux signes du Nœud Sud. Avec le Nœud Nord en Lion et le Nœud Sud en Verseau, Mercure en Bélier ou en Sagittaire pense dans le feu, comme la direction, et reste en bons termes avec le bout aérien et familier. Côté maisons, le Nœud Nord en maison 10 et Mercure en maison 6 pourraient laisser votre façon de penser le travail quotidien vous porter vers un rôle public, sans perdre le lien avec le foyer, côté Nœud Sud.
+Dans un thème, ce trigone prend souvent la forme d’un apprentissage qui mène quelque part. D’ordinaire, un trigone réunit deux signes du même élément : Mercure partage souvent l’élément du Nœud Nord et se trouve à deux signes du Nœud Sud. Avec le Nœud Nord en Lion et le Nœud Sud en Verseau, Mercure en Bélier ou en Sagittaire pense dans le feu, comme la direction, et reste en bons termes avec le bout aérien et familier. Côté maisons, le Nœud Nord en maison 10 et Mercure en maison 6 pourraient laisser votre façon de penser le travail quotidien vous porter vers un rôle public, sans perdre le lien avec le foyer, côté Nœud Sud.
 
 Environ 1 personne sur 19 naît avec Mercure à moins de 6° d’un trigone exact au Nœud Nord. Plus le trigone est serré, plus penser et grandir ressemblent à une seule route ; au bord de l’orbe, l’aide est là, mais il faut aller la chercher.
 
-Le nœud met environ 18 mois à traverser un signe, à reculons, et Mercure bien moins : c’est surtout votre date de naissance qui décide de l’aspect. Je regarde à la fois le nœud moyen et le nœud vrai ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)) ; près de la limite de l’orbe, l’un peut compter un trigone que l’autre écarte.
+Le nœud met environ 18 mois à traverser un signe, à reculons, et Mercure bien moins : c’est surtout votre date de naissance qui décide de l’aspect. Je compare toujours les deux calculs du nœud ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)) ; près de la limite de l’orbe, l’un peut compter un trigone que l’autre écarte.
 
 Aux nœuds, chaque aspect de Mercure donne à l’esprit un autre rôle :
 
@@ -57,10 +57,10 @@ Aux nœuds, chaque aspect de Mercure donne à l’esprit un autre rôle :
 - **[Mercure carré Nœud Nord](/astrology/mercury-square-north-node/) :** l’esprit en travers du chemin, qui traduit d’un bout à l’autre et que la friction entraîne.
 - **[Mercure opposition Nœud Nord](/astrology/mercury-opposite-north-node/) :** une pensée enracinée dans le familier, qui apprend à regarder vers l’autre bout.
 
-Entre deux thèmes, dans [Mercure trigone Nœud Nord en synastrie](/astrology/mercury-trine-north-node-synastry/), la curiosité de l’une des deux personnes aplanit le chemin de l’autre : des conversations qui font grandir l’une de vous, pas toujours la même, et la question de savoir laquelle vaut d’être posée de chaque côté.
+Entre deux thèmes, dans [Mercure trigone Nœud Nord en synastrie](/astrology/mercury-trine-north-node-synastry/), la curiosité d’une personne aplanit le chemin de l’autre : des conversations qui font grandir une personne du couple, pas toujours la même, et la question de savoir laquelle vaut d’être posée de chaque côté.
 
 ## En transit {#en-transit}
 
-En [transit](/astrology/transits/), deux fois par an au moins, Mercure, dans le ciel, forme pour un jour environ un trigone avec votre Nœud Nord natal : un bon moment pour poser la question que vous repoussez. La version longue, c’est le [Nœud Nord en transit trigone Mercure du thème natal](/astrology/transiting-north-node-trine-natal-mercury/), qui revient deux fois par cycle des nœuds, soit tous les 18,6 ans environ, et reste proche pendant des semaines. Quand ce trigone figure dans votre thème, l’un de ces deux passages coïncide avec votre [retour nodal](/astrology/nodal-return/), qui revient tous les 18 ans et demi environ.
+En [transit](/astrology/transits/), deux fois par an au moins, Mercure, dans le ciel, forme pour un jour environ un trigone avec votre Nœud Nord natal : un bon moment pour poser la question que vous repoussez. La version longue, c’est le [Nœud Nord en transit trigone Mercure du thème natal](/astrology/transiting-north-node-trine-natal-mercury/), qui se produit deux fois à chaque tour des nœuds, d’environ 18,6 ans, et reste proche pendant des semaines. Quand ce trigone figure dans votre thème, l’un de ces deux passages coïncide avec votre [retour nodal](/astrology/nodal-return/), qui revient tous les 18 ans et demi environ.
 
 Une météo, pas une prédiction : une saison où les idées semblent indiquer le chemin, et où la marche reste la vôtre. Je lis les transits comme des tendances dans le temps, jamais comme des consignes ([ma méthode](/how-i-read/)).

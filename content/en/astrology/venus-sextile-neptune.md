@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 176
 glyph: "♀⚹♆"
-definition: "Venus sextile Neptune means Venus and Neptune sat roughly 60° apart on the day you were born, often in signs whose elements complement each other. In a chart, imagination and compassion come to the aid of what you love: art, kindness, a dream given a shape. As with any sextile, the gift needs you to act."
+definition: "Venus sextile Neptune means Venus and Neptune were some 60° apart on the day of your birth, often in signs whose elements complement each other. In a chart, imagination and compassion come to the aid of what you love: art, kindness, a dream given a shape. As with any sextile, the gift needs you to act."
 facts:
   - { k: "Bodies", v: "Venus ♀ and Neptune ♆" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -34,7 +34,7 @@ Venus sextile Neptune is imagination within reach of what you love. It doesn't f
 
 ## What it means {#what-it-means}
 
-[Venus](/astrology/venus/) chooses and values: taste, attraction, the give and take that keeps a bond fair. [Neptune](/astrology/neptune/) widens and softens: imagination, empathy, the pull of the ideal. Linked by a [sextile](/astrology/sextile/), they cooperate when the chance arises: imagination can lift what you value, and what you value can give imagination a job, but only when you take part.
+[Venus](/astrology/venus/) chooses and values: taste, attraction, fairness in what you give and receive. [Neptune](/astrology/neptune/) widens and softens: imagination, empathy, the pull of the ideal. Linked by a [sextile](/astrology/sextile/), they cooperate when the chance arises: imagination can lift what you value, and what you value can give imagination a job, but only when you take part.
 
 In plain words, your feeling for beauty and your capacity for compassion are on speaking terms, and they work best together. You may be good at making something lovely out of very little, at sensing what someone needs before they say it, or at turning a vague longing into a song, a garden, a meal, a kindness. It softens judgement in a useful way, too: you can like people without needing them to be perfect, and forgive without pretending nothing happened. The sextile keeps Neptune's tide at a workable level: enough to inspire, rarely enough to blur. Its condition is the usual one for a sextile: inspiration that isn't used stays a daydream.
 
@@ -42,7 +42,7 @@ When I see this sextile, I ask what you've made or given lately, because Neptune
 
 ## In a birth chart {#in-a-birth-chart}
 
-In a chart, the sextile tends to pair complementary elements, so the two planets meet as allies. With Venus in Virgo and Neptune in Scorpio, careful affection gains depth and intuition; with Venus in Aquarius and Neptune in Sagittarius, friendship and a wide faith feed each other. Neptune's sign marks your generation, so the house tells the personal story: Venus in the 3rd sextile Neptune in the 5th might give your words a poetic streak and your creative work a gentle voice.
+In a chart, the sextile tends to pair complementary elements, so the two planets meet as allies. With Venus in Virgo and Neptune in Scorpio, careful affection gains depth and intuition; with Venus in Aquarius and Neptune in Sagittarius, friendship and a wide faith feed each other. Neptune's sign marks your generation, so the house tells the personal story: Venus in the 4th sextile Neptune in the 6th might bring a soft, imaginative touch to home life and a quiet devotion to daily work.
 
 About 1 person in 15 is born with Venus and Neptune within 6° of a sextile. Near exact, the link between taste and imagination is easy to see in what you choose and make; towards 6°, it waits to be called on.
 
@@ -57,6 +57,6 @@ Between two charts, [Venus sextile Neptune in synastry](/astrology/venus-sextile
 
 ## In transits {#in-transits}
 
-In [transits](/astrology/transits/), [Transiting Neptune sextile natal Venus](/astrology/transiting-neptune-sextile-natal-venus/) may come once in a lifetime or not at all, depending on how far your Venus sits from your Neptune, since Neptune covers only about half the zodiac in eighty years. When it comes, it stays a year or two: a gentle season for art, compassion, and love with a little more imagination in it.
+In [transits](/astrology/transits/), [Transiting Neptune sextile natal Venus](/astrology/transiting-neptune-sextile-natal-venus/) may come once in a lifetime or not at all: it hangs on the distance between your Venus and your Neptune, since Neptune covers only about half the zodiac in eighty years. When it comes, it stays a year or two: a gentle season for art, compassion, and love with a little more imagination in it.
 
 Weather, not a forecast: inspiration on offer, which you can follow or let pass.

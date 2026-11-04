@@ -34,7 +34,7 @@ Le crabe porte sa maison sur son dos, et Saturne en Cancer peut donner cette imp
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-[Saturne](/astrology/saturn/) garde les limites et les responsabilités du thème, et bâtit sur le long terme. Le [Cancer](/astrology/cancer/), signe d’eau cardinal gouverné par la Lune, est celui du soin, de la mémoire, de l’appartenance et de l’instinct de protéger. Ici, Saturne structure l’émotion elle-même : votre sentiment de sécurité, les personnes dont vous prenez soin, et la part de vous-même que vous laissez voir.
+Le soin, la mémoire, l’appartenance et l’instinct de protéger sont l’affaire du [Cancer](/astrology/cancer/), signe d’eau cardinal gouverné par la Lune. L’affaire de [Saturne](/astrology/saturn/), ce sont les limites, les responsabilités et le long terme. Réunissez les deux, et Saturne se met à structurer l’émotion elle-même : votre sentiment de sécurité, les personnes dont vous prenez soin, et la part de vous-même que vous laissez voir.
 
 C’est l’[exil](/astrology/detriment/) de Saturne : le Cancer fait face au Capricorne, le signe que Saturne gouverne, si bien que la planète des règles et de la distance travaille dans le signe de la proximité. Je n’y lis pas un défaut. Saturne apprend ici le soin comme une adulte ou un adulte apprend à nager : plus tard que la plupart des gens, plus délibérément, et souvent avec plus d’assurance au bout du compte. Et comme la Lune gouverne le Cancer, la position de votre [Lune](/astrology/moon/) dans le thème montre comment ce placement trouve du réconfort, et ce qu’il protège.
 

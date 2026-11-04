@@ -22,9 +22,9 @@ faq:
   - q: "Is Saturn in Sagittarius a good placement?"
     a: "Tradition neither strengthens nor weakens Saturn there. In Jupiter’s sign, Saturn meets hope, freedom and the big picture, and asks them for evidence. That can feel heavy, like doubting what others find easy to believe. It can also give a rare honesty, and convictions that don’t break under pressure."
   - q: "When was Saturn in Sagittarius?"
-    a: "From January 1956 to January 1959, November 1985 to November 1988 and December 2014 to December 2017; the next stay falls after 2039. For most of 1956 and from December 2014 to September 2015 Saturn crossed back and forth with Scorpio, and from February to November 1988 with Capricorn."
+    a: "From January 1956 to January 1959, November 1985 to November 1988 and December 2014 to December 2017; the next stay falls after 2039. Saturn went to and fro between Scorpio and Sagittarius for most of 1956 and from December 2014 to September 2015, and between Sagittarius and Capricorn from February to November 1988."
   - q: "What is the Saturn return for Saturn in Sagittarius?"
-    a: "Saturn’s stay in Sagittarius from December 2014 to December 2017 brought the first return to people born with it in 1985–88, and the second to those born in 1956–59. It suits a review of beliefs: which ones you chose and which you only inherited. I read it as weather for that review, never a forecast."
+    a: "Anyone born with it in 1985–88 had a first return between December 2014 and December 2017, when Saturn was back in Sagittarius; those born in 1956–59 had their second then. It suits a review of beliefs: which ones you chose and which you only inherited. I read it as weather for that review, never a forecast."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the signs, Jupiter’s rulership of Sagittarius and Saturn’s dignities" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "the months Saturn spent in Sagittarius, 1930–2039, and how many people born 1930–2009 have it" }
@@ -34,11 +34,11 @@ There's a kind of faith that only arrives after doubt has done its work. Saturn 
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Saturn](/astrology/saturn/) tests, structures and takes the long road. [Sagittarius](/astrology/sagittarius/), mutable fire, is the sign of meaning, belief, freedom, travel and the far horizon. Here Saturn's lesson is conviction: deciding what you actually believe, rather than what you were told to, and carrying it with enough confidence to take up room in the world.
+Meaning, belief, freedom and the far horizon belong to [Sagittarius](/astrology/sagittarius/), mutable fire. [Saturn](/astrology/saturn/) arrives with its tests and its long road, and the lesson turns into conviction: deciding what you actually believe, rather than what you were told to, and carrying it with enough confidence to take up room in the world.
 
 By the old rules Sagittarius neither honours nor weakens Saturn. Its ruler is [Jupiter](/astrology/jupiter/), and astrologers have long paired the two planets: one expands, the other gives shape. In Jupiter's sign Saturn has to make room for hope, and hope has to pass Saturn's tests. Your Jupiter, by sign and house, shows which hopes this Saturn is weighing.
 
-Saturn was in Sagittarius from January 1956 to January 1959, November 1985 to November 1988 and December 2014 to December 2017, and the next visit falls after 2039, outside the years I counted. Of people born between 1930 and 2009, about 1 in 15 has it. Each stay shared months with a neighbour as Saturn crossed back and forth: [Saturn in Scorpio](/astrology/saturn-in-scorpio/) for most of 1956 and again in 2014–15, [Saturn in Capricorn](/astrology/saturn-in-capricorn/) from February to November 1988. A cohort shares the sign; its house is where your doubts and convictions do their work.
+Saturn was in Sagittarius from January 1956 to January 1959, November 1985 to November 1988 and December 2014 to December 2017, and the next visit falls after 2039, outside the years I counted. About 1 person in 15 of the 1930–2009 births has it. Each stay shared months with a neighbour, Saturn stepping over the border and back: [Saturn in Scorpio](/astrology/saturn-in-scorpio/) for most of 1956 and again in 2014–15, [Saturn in Capricorn](/astrology/saturn-in-capricorn/) from February to November 1988. A cohort shares the sign; its house is where your doubts and convictions do their work.
 
 ## In close relationships {#in-close-relationships}
 

@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 78
 glyph: "♄♍"
-definition: "Saturne en Vierge place la planète de la structure dans un signe de terre mutable, celui de la méthode, du détail et de l’utile, gouverné par Mercure. Les personnes nées vers 1948–1951, 1977–1980 ou 2007–2010 portent ce placement. Ses leçons : une compétence apprise lentement, et des exigences qui doivent laisser place à l’erreur."
+definition: "Saturne en Vierge place la planète de la structure dans un signe de terre mutable, celui de la méthode, du détail et de l’utile, gouverné par Mercure. Les personnes nées vers 1948–1951, 1977–1980 ou 2007–2010 portent ce placement. Ses leçons : une compétence gagnée par la pratique, et des exigences qui doivent laisser place à l’erreur."
 facts:
   - { k: "Corps", v: "Saturne ♄" }
   - { k: "Signe", v: "Vierge ♍, gouvernée par Mercure" }
@@ -19,13 +19,13 @@ facts:
 related: ["/astrology/saturn", "/astrology/virgo", "/astrology/mercury", "/astrology/saturn-in-6th-house", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Que veut dire Saturne en Vierge ?"
-    a: "Le sens du devoir de votre thème passe par le détail. Avec Saturne en Vierge, la compétence s’apprend à force de pratique et de corrections, et les exigences sont hautes, parfois plus que ce qu’on vous demandait. La leçon : faire place à l’erreur. Une classe d’âge entière partage le signe ; la maison de Saturne montre où les exigences mordent."
+    a: "Le sens du devoir de votre thème passe par le détail. Avec Saturne en Vierge, la compétence s’apprend à force de pratique et de corrections, et les exigences sont hautes, parfois plus que ce qu’on vous demandait. La leçon : faire place à l’erreur. Votre classe d’âge partage le signe ; la maison de Saturne indique où les exigences mordent."
   - q: "Saturne en Vierge, est-ce un placement perfectionniste ?"
     a: "Cela peut l’être. Saturne prend les choses au sérieux et la Vierge remarque chaque défaut : ensemble, le soin devient facilement un travail jamais fini. Lu avec douceur, c’est un placement de savoir-faire : de la patience avec le détail, de la fiabilité, et une habileté qui ne cesse de progresser. Le travail consiste à savoir quand le bien suffit."
   - q: "Quelles années ont connu Saturne en Vierge ?"
     a: "De septembre 1948 à août 1951, de novembre 1977 à septembre 1980 et de septembre 2007 à juillet 2010, puis d’octobre 2036 à septembre 2039. Certains séjours commencent par des mois de chevauchement avec le Lion, d’autres finissent par des mois de chevauchement avec la Balance : pour ces naissances, il faut un thème."
   - q: "Quand a lieu le retour de Saturne pour Saturne en Vierge ?"
-    a: "Le prochain passage de Saturne en Vierge, d’octobre 2036 à septembre 2039, apporte le premier retour aux personnes nées avec ce placement en 2007–2010, et le deuxième à celles nées en 1977–1980. Pour les naissances de 1948–1951, le deuxième a eu lieu en 2007–2010. Les mois exacts dépendent du degré de Saturne dans chaque thème."
+    a: "Le prochain passage, d’octobre 2036 à septembre 2039, sera un premier retour pour la classe d’âge 2007–2010 et un deuxième pour celle de 1977–1980 ; les personnes nées en 1948–1951 ont eu leur deuxième en 2007–2010. Pour Saturne en Vierge, c’est souvent un bilan des exigences : celles qui vous servent, et celles qui vous épuisent."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les signes, la maîtrise de Mercure sur la Vierge et les dignités de Saturne" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les mois passés par Saturne en Vierge de 1930 à 2039, et la part des personnes nées entre 1930 et 2009 qui ont ce placement" }
@@ -35,11 +35,11 @@ Chaque page que vous rendez revient avec des notes dans la marge, et la plupart 
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-[Saturne](/astrology/saturn/) apporte de la structure, du devoir et un long apprentissage à tout ce que la planète touche. La [Vierge](/astrology/virgo/), signe de terre mutable, est celle de la méthode, du discernement et de l’utile : trier, améliorer, faire en sorte que les choses marchent. Ensemble, la leçon porte sur la compétence elle-même. Vous apprenez en refaisant, en remarquant ce qui cloche, en corrigeant, et la question en dessous est toujours la même : est-ce assez bien, enfin ?
+La méthode, le discernement, l’utile : la [Vierge](/astrology/virgo/), signe de terre mutable, trie, améliore et fait en sorte que les choses marchent. Faites-y entrer [Saturne](/astrology/saturn/), avec son devoir et ses longs apprentissages, et la leçon devient la compétence elle-même. Vous apprenez en refaisant, en remarquant ce qui cloche, en corrigeant, et la question en dessous est toujours la même : est-ce assez bien, enfin ?
 
-La Vierge ne donne à Saturne aucune des dignités anciennes, et pourtant les deux s’entendent en pratique : un signe de terre qui aime la méthode convient à une planète qui aime la structure. Le risque, c’est que l’alliance marche trop bien, jusqu’à ce que le suffisant ne suffise jamais. Son maître est [Mercure](/astrology/mercury/), la planète qui gouverne aussi les Gémeaux ; mais ici, Mercure travaille avec ses mains, et le signe et la maison de Mercure disent où Saturne vérifie, trie et répare.
+La Vierge ne donne à Saturne aucune des dignités anciennes, et pourtant les deux s’entendent en pratique : un signe de terre qui aime la méthode convient à une planète qui aime la structure. Le risque, c’est que l’alliance marche trop bien, jusqu’à ce que le suffisant ne suffise jamais. Son maître est [Mercure](/astrology/mercury/), la planète qui gouverne aussi les Gémeaux ; mais ici, Mercure travaille avec ses mains, et la place de Mercure, par signe et par maison, dit où Saturne vérifie, trie et répare.
 
-Saturne a gagné la Vierge depuis [Saturne en Lion](/astrology/saturn-in-leo/) en septembre 1948, en novembre 1977 et en septembre 2007, et l’a quittée pour [Saturne en Balance](/astrology/saturn-in-libra/) en août 1951, en septembre 1980 et en juillet 2010, avec des mois d’allers-retours à plusieurs de ces frontières. Environ 1 personne sur 12 née entre 1930 et 2009 a ce placement : le signe est celui de votre classe d’âge, et la maison, l’endroit où vos propres exigences mordent.
+Saturne a gagné la Vierge depuis [Saturne en Lion](/astrology/saturn-in-leo/) en septembre 1948, en novembre 1977 et en septembre 2007, et l’a quittée pour [Saturne en Balance](/astrology/saturn-in-libra/) en août 1951, en septembre 1980 et en juillet 2010, avec des mois d’allers-retours à plusieurs de ces frontières. Entre 1930 et 2009, environ 1 personne sur 12 est née avec ce placement : le signe est celui de votre classe d’âge, et la maison, l’endroit où vos propres exigences mordent.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -55,4 +55,4 @@ Le perfectionnisme, et l’inquiétude qui le pousse. La terre mutable s’adapt
 
 ## Ce qui aide {#ce-qui-aide}
 
-Définir *assez bien* avant de commencer, puis s’arrêter là. Finir les choses et les rendre, imperfections comprises. Déléguer une tâche et ne plus y toucher, même si elle est faite autrement. Tenir le compte de ce qui a bien marché, parce que Saturne en Vierge ne garde que l’autre colonne. Mon carnet était une sorte d’exercice de Vierge, chaque placement coché ou barré comme sur une épreuve d’imprimerie, et Saturne a fait partie des trois seuls placements revenus sans correction bien plus souvent que les autres, 75 à 90 % du temps (voir [la méthode de la facture](/blog/i-tested-my-birth-chart/)). C’est pourquoi je lis Saturne en Vierge avec soin, et sans encre rouge.
+Définir *assez bien* avant de commencer, puis s’arrêter là. Finir les choses et les rendre, imperfections comprises. Déléguer une tâche et ne plus y toucher, même si elle est faite autrement. Tenir le compte de ce qui a bien marché, parce que Saturne en Vierge ne garde que l’autre colonne. Mon carnet (voir [la méthode de la facture](/blog/i-tested-my-birth-chart/)) était une sorte d’exercice de Vierge, chaque placement coché ou barré comme sur une épreuve d’imprimerie, et Saturne a passé l’épreuve sans correction plus souvent que la plupart des placements, 75 à 90 % du temps. C’est pourquoi je lis Saturne en Vierge avec soin, et sans encre rouge.

@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 74
 glyph: "♄♉"
-definition: "Saturn in Taurus puts the planet of structure and long effort in fixed earth, the sign ruled by Venus. People born in roughly 1939–42, 1969–72 or 1998–2001 have it too. Its lessons: security and self-worth learned the long way, and a life built one solid layer at a time."
+definition: "Saturn in Taurus is long effort in its most patient setting: the structuring planet in fixed earth, the sign Venus rules. People born in roughly 1939–42, 1969–72 or 1998–2001 have it too. Its lessons: security and self-worth learned the long way, and a life built one solid layer at a time."
 facts:
   - { k: "Body", v: "Saturn ♄" }
   - { k: "Sign", v: "Taurus ♉, ruled by Venus" }
@@ -34,7 +34,7 @@ Saturn in Taurus works the way a hedge grows: you never catch it moving, and one
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Saturn](/astrology/saturn/) is the part of a chart that structures, takes responsibility and plays the long game. [Taurus](/astrology/taurus/), fixed earth ruled by Venus, is the sign of value, the body, comfort and what lasts. Here Saturn's lessons come through the senses and through what you can hold: security, the worth of your time and skills, and the right to enjoy what you've earned.
+In [Taurus](/astrology/taurus/), fixed earth and Venus's sign, things are measured by what they're worth and how long they last. [Saturn](/astrology/saturn/), the part of a chart that structures and plays the long game, settles into that pace easily, and its lessons come through the senses and through what you can hold: security, the worth of your time and skills, and the right to enjoy what you've earned.
 
 Tradition gives Saturn no special dignity in Taurus: it isn't Saturn's home, its exaltation, its detriment or its fall. Earth suits its practical side, so the work isn't overcoming the sign. It's not letting caution and a fixed sign's love of sameness add up to standing still.
 
@@ -56,4 +56,4 @@ Holding on. To things, routines, a role, a way of doing it that once kept you sa
 
 ## What helps {#what-helps}
 
-Decide what *enough* looks like before you start counting. Put one pleasure a week in the diary, and keep that appointment as faithfully as any other. Change one routine on purpose, to show your body that change can be safe. Saturn comes back to Taurus from April 2028 to May 2030: the first [Saturn return](/astrology/saturn-return/) for those born with it between 1998 and 2001, the second for those born between 1969 and 1972. It's a good stretch for looking at what you've built and asking whether you still want to live in it.
+Decide what *enough* looks like before you start counting. Put one pleasure a week in the diary, and keep that appointment as faithfully as any other. Change one routine on purpose, to show your body that change can be safe. Saturn comes back to Taurus from April 2028 to May 2030: a first [Saturn return](/astrology/saturn-return/) if you were born with it between 1998 and 2001, a second if you were born between 1969 and 1972. It's a good stretch for looking at what you've built and asking whether you still want to live in it.

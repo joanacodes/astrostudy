@@ -2,13 +2,13 @@
 title: "Vénus carré Neptune"
 slug: "venus-carre-neptune"
 h1: "Vénus carré Neptune dans un thème natal"
-description: "Vénus carré Neptune dans un thème natal : l’idéal et le réel à angle droit, une tendresse qui finit par voir clair, et ses longues saisons."
+description: "Vénus carré Neptune dans un thème natal : l’idéal et le réel en équerre, une tendresse qui finit par voir clair, et ses longues saisons."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 177
 glyph: "♀□♆"
-definition: "Vénus carré Neptune signifie qu’à votre naissance, Vénus et Neptune étaient à environ 90° d’écart, souvent dans des signes d’un même mode. Dans un thème, la valeur que vous donnez aux choses et vos rêves frottent l’un contre l’autre : idéal et réel coïncident rarement au début. Pour moi, c’est une friction qui enseigne : aimer clairement, sans aimer moins."
+definition: "Vénus carré Neptune signifie que votre thème met Vénus et Neptune à 90° environ, souvent dans des signes d’un même mode. Dans un thème, la valeur que vous donnez aux choses et vos rêves frottent l’un contre l’autre : idéal et réel coïncident rarement au début. Pour moi, c’est une friction qui enseigne : aimer clairement, sans aimer moins."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Neptune ♆" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -42,7 +42,7 @@ En lecture, je vais lentement avec ce carré et je demande d’abord qui sont le
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Les deux planètes partagent en général un mode, à trois signes d’écart. Avec Vénus en Gémeaux et Neptune en Vierge ou en Poissons, tous mutables, la curiosité et le rêve échangent leurs places, et vous aimez parfois plusieurs possibles à la fois ; avec Vénus en Lion et Neptune en Scorpion, deux signes fixes, le désir chaleureux de briller rencontre un désir d’ailleurs qui va loin et qui dure. Le signe de Neptune appartient à une génération : c’est la maison qui montre où ce carré se fait sentir. Vénus en maison 2 au carré de Neptune en maison 11 pourrait faire tirer en sens différents l’amour du beau et un rêve partagé entre amis.
+Trois signes les séparent, d’ordinaire dans un même mode. Avec Vénus en Gémeaux et Neptune en Vierge ou en Poissons, tous mutables, la curiosité et le rêve échangent leurs places, et vous aimez parfois plusieurs possibles à la fois ; avec Vénus en Lion et Neptune en Scorpion, deux signes fixes, le désir chaleureux de briller rencontre un désir d’ailleurs qui va loin et qui dure. Le signe de Neptune appartient à une génération : c’est la maison qui montre où ce carré se fait sentir. Vénus en maison 2 au carré de Neptune en maison 11 pourrait faire tirer en sens différents l’amour du beau et un rêve partagé entre amis.
 
 Environ 1 personne sur 15 naît avec Vénus et Neptune à moins de 6° d’un carré exact. Exact ou presque, l’écart entre l’idéal et le réel enseigne toute la vie ; au bord de l’orbe, il se montre surtout quand vous vous éprenez de quelque chose.
 
@@ -53,10 +53,10 @@ Les autres rencontres de la paire :
 - **[Vénus trigone Neptune](/astrology/venus-trine-neptune/) :** les deux dans un même élément ; une bonté facile, qui laisse l’amour voir large.
 - **[Vénus opposition Neptune](/astrology/venus-opposite-neptune/) :** le quotidien à un bout, le rêve à l’autre ; l’équilibre vient d’accueillir les deux.
 
-Entre deux thèmes, dans [Vénus carré Neptune en synastrie](/astrology/venus-square-neptune-synastry/), le discernement de l’une des deux personnes rencontre de biais le rêve de l’autre : un contact tour à tour enchanteur et déroutant. Il vaut la peine de se demander, des deux côtés, ce qui relève du regard et ce qui relève du rêve : je lis donc les deux thèmes.
+Entre deux thèmes, dans [Vénus carré Neptune en synastrie](/astrology/venus-square-neptune-synastry/), le discernement d’une personne croise de biais le rêve de l’autre : un contact tour à tour enchanteur et déroutant. Il vaut la peine de se demander, des deux côtés, ce qui relève du regard et ce qui relève du rêve : je lis donc les deux thèmes.
 
 ## En transit {#en-transit}
 
-En [transit](/astrology/transits/), [Neptune en transit carré Vénus du thème natal](/astrology/transiting-neptune-square-natal-venus/) ne se présente pas plus d’une fois dans la plupart des vies et reste un an ou deux : un temps où vos amours et votre sens du beau peuvent se brouiller avant de s’éclaircir. Avec ce carré dans votre propre thème, votre [carré de Neptune](/astrology/neptune-square/), vers 41 ans, a une particularité : Neptune, dans le ciel, passe alors sur votre Vénus ou s’y oppose, selon le côté de Neptune où se trouve votre Vénus.
+En [transit](/astrology/transits/), [Neptune en transit carré Vénus du thème natal](/astrology/transiting-neptune-square-natal-venus/) ne se présente pas plus d’une fois dans la plupart des vies et reste un an ou deux : un temps où vos amours et votre sens du beau peuvent se brouiller avant de s’éclaircir. Avec ce carré dans votre propre thème, le [carré de Neptune](/astrology/neptune-square/) que vous vivez autour de 41 ans a une particularité : Neptune, dans le ciel, rejoint alors votre Vénus ou s’y oppose, selon que votre Vénus se trouve 90° devant Neptune ou 90° derrière.
 
 Une météo, pas une prédiction : une saison un peu floue, qui s’éclaircit à son heure.

@@ -22,7 +22,7 @@ faq:
   - q: "Does Venus square Saturn mean I’ll be alone?"
     a: "No. A chart can’t decide whether or when you’ll have a partner, and this square doesn’t try. It describes caution in how you love, which can slow the start of things. What caution protects tends to be kept, and many astrologers read this square as love that deepens with the years."
   - q: "Does Venus square Saturn get easier with age?"
-    a: "The angle stays, but the way you live it usually changes. Early on it can feel like reserve or self-doubt; with time it tends to become discernment, knowing what deserves your love and keeping it well. Saturn sets a pace rather than a limit, and the pace is yours to learn."
+    a: "You keep the angle for life; what changes, usually, is how you live it. Early on it can feel like reserve or self-doubt; with time it tends to become discernment, knowing what deserves your love and keeping it well. Saturn sets a pace rather than a limit, and the pace is yours to learn."
   - q: "Is Venus square Saturn about low self-worth?"
     a: "It can show as a sense that you must earn what you enjoy, or prove you deserve affection. That’s a tendency to recognise, not a diagnosis, and it often softens as you collect evidence of your own worth. If that feeling weighs heavily, a therapist is a better guide than any chart."
 sources:
@@ -42,9 +42,9 @@ Challenge isn't punishment. Saturn here sets a pace, not a limit, and the pace o
 
 ## In a birth chart {#in-a-birth-chart}
 
-Most squares join signs that move the same way, cardinal, fixed or mutable, and the pairing shapes the caution. With Venus in Sagittarius and Saturn in Virgo or Pisces, all mutable, open-hearted affection meets careful standards, and both keep adjusting; with Venus in Cancer and Saturn in Libra, where Saturn is exalted, tenderness meets a strong sense of fairness and form. The houses show where the caution sits: Venus in the 5th square Saturn in the 8th might make pleasure easy and intimacy slow; Venus in the 1st square Saturn in the 10th, a natural charm against a strict sense of duty at work.
+Most squares join signs that move the same way, cardinal, fixed or mutable, and the pairing shapes the caution. With Venus in Sagittarius and Saturn in Virgo or Pisces, all mutable, open-hearted affection meets careful standards, and both keep adjusting; with Venus in Cancer and Saturn in Libra, where Saturn is exalted, tenderness meets a strong sense of fairness and form. The houses show where the caution sits: Venus in the 5th square Saturn in the 8th might make pleasure easy and intimacy slow; Venus in the 9th square Saturn in the 12th, a love of far places and big ideas against a quiet, private caution.
 
-About 1 person in 15 is born with Venus and Saturn within 6° of a square. Tight, the caution is part of how you love; near 6°, it shows mostly when something matters a great deal. Of everything in [my notebook](/blog/i-tested-my-birth-chart/), Saturn was among the three placements that held most reliably, 75 to 90% of the time, so I never skim this square: I ask where in your life affection has been made to wait, and what it built while it waited ([the three that held](/blog/saturn-chiron-lilith/)).
+About 1 person in 15 is born with Venus and Saturn within 6° of a square. Tight, the caution is part of how you love; near 6°, it shows mostly when something matters a great deal. Of everything in [my notebook](/blog/i-tested-my-birth-chart/), Saturn was among the three placements that held most reliably, 75 to 90% of the time, which is why I never skim this square: I ask where in your life affection has been made to wait, and what it built while it waited ([the three that held](/blog/saturn-chiron-lilith/)).
 
 Venus and Saturn at their other angles:
 

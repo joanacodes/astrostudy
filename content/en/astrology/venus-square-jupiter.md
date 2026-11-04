@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 162
 glyph: "♀□♃"
-definition: "Venus square Jupiter means that, at your birth, Venus and Jupiter were some 90° apart, most often in signs that share a modality. In a chart, what you value and what you want more of rub against each other, so generosity can outrun its measure. I read it as a friction whose lesson is proportion: promises you can keep."
+definition: "Venus square Jupiter means that, at your birth, Venus and Jupiter were some 90° apart, most often in signs that share a modality. In a chart, your sense of value and your wish for more rub against each other, so generosity can outrun its measure. I read it as a friction whose lesson is proportion: promises you can keep."
 facts:
   - { k: "Bodies", v: "Venus ♀ and Jupiter ♃" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -20,7 +20,7 @@ faq:
   - q: "What does Venus square Jupiter mean in a birth chart?"
     a: "When you were born, Venus and Jupiter sat about a quarter of the circle apart. Your sense of what something is worth and your wish for more of it don’t always agree, so you may love generously and promise more than you can give. Its friction slowly teaches you the right size of a yes."
   - q: "Is Venus square Jupiter bad?"
-    a: "No. This one is friction between two planets tradition counted among the kindest, so its trouble is usually one of measure, not of harm. Lived with, it tends to give you generosity with an accurate sense of size."
+    a: "No. This one is friction between two planets tradition counted among the kindest, so its trouble is usually one of measure, not of harm. With time, it often gives you generosity with an accurate sense of size."
   - q: "Does Venus square Jupiter make you promise too much?"
     a: "It can. Saying yes is easy for this square, and keeping every yes is harder, in friendship, love or work. The square doesn’t make you careless; it puts you where generosity and measure have to negotiate. Over time, the promises tend to get smaller and the keeping more reliable."
   - q: "Does Venus square Jupiter mean overindulgence?"
@@ -33,7 +33,7 @@ Venus square Jupiter is generosity with a question attached: how much? It loves 
 
 ## What it means {#what-it-means}
 
-[Venus](/astrology/venus/) measures value: what attracts you, what you prefer, what a fair exchange looks like. [Jupiter](/astrology/jupiter/) enlarges: it looks for meaning and room to grow, and it tends to say yes. A [square](/astrology/square/) relates them through constructive friction, so the planet that measures and the planet that enlarges keep testing each other's judgement.
+[Venus](/astrology/venus/) measures value: attraction, preference, what a fair exchange looks like. [Jupiter](/astrology/jupiter/) enlarges: it looks for meaning and room to grow, and it tends to say yes. A [square](/astrology/square/) makes them rub, usefully, so the planet that measures and the planet that enlarges keep checking each other's judgement.
 
 In plain words, your appetite for good things and your sense of their worth don't always agree. You may promise more than an evening, a week or a friendship can hold, or rate something higher because it's bigger, newer or further away. Sometimes the friction runs the other way: what you believe you ought to enjoy and what you actually enjoy part company. None of this is excess built into you; growth isn't excess. It's a square doing its work, and over time it tends to leave you with a rare skill: generosity with an accurate sense of size.
 
@@ -41,7 +41,7 @@ When a chart has this square, I don't tell anyone to want less. I ask what they'
 
 ## In a birth chart {#in-a-birth-chart}
 
-Squares tend to fall between signs of one modality, and here that sets the tone of the generosity. With Venus in Leo and Jupiter in Taurus or Scorpio, all fixed, warmth and the wish for more are both steady, and both hard to scale back. With Venus in Gemini and Jupiter in Pisces, both mutable, curiosity and idealism trade places quickly. The houses show where the promises get made: Venus in the 6th square Jupiter in the 9th might set the small pleasures of daily work against a hunger for the far horizon.
+Squares tend to fall between signs of one modality, and here that sets the tone of the generosity. With Venus in Leo and Jupiter in Taurus or Scorpio, all fixed, warmth and the wish for more are both steady, and both hard to scale back. With Venus in Gemini and Jupiter in Pisces, both mutable, curiosity and idealism trade places quickly. The houses show where the promises get made: Venus in the 8th square Jupiter in the 11th might set a taste for depth with one person against a generous appetite for groups and causes.
 
 About 1 person in 14 is born with Venus and Jupiter within 6° of a square. Within a degree or two, measure is a lifelong conversation; near 6°, it comes up mainly when something big is on offer. Venus is the one moving, Jupiter the steady party at about a year a sign, so your birth date sets the aspect.
 
@@ -52,7 +52,7 @@ The same two planets at their other angles:
 - **[Venus trine Jupiter](/astrology/venus-trine-jupiter/):** the two flowing in one element; warmth that rarely argues with itself.
 - **[Venus opposite Jupiter](/astrology/venus-opposite-jupiter/):** the near and the far facing each other; pleasure here, meaning there, balanced over time.
 
-Between two charts, [Venus square Jupiter in synastry](/astrology/venus-square-jupiter-synastry/) is one person's taste meeting the other's wish for more at an awkward angle: generous and encouraging, with a habit of making plans bigger than the calendar. The one who dreams bigger isn't always the one who notices, so I read both charts.
+Between two charts, in [Venus square Jupiter in synastry](/astrology/venus-square-jupiter-synastry/), one person's taste meets the other's wish for more at an awkward angle: generous and encouraging, with a habit of making plans bigger than the calendar. The one who dreams bigger isn't always the one who notices, so I read both charts.
 
 ## In transits {#in-transits}
 

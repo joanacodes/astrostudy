@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 157
 glyph: "♀□♂"
-definition: "Vénus carré Mars signifie que Vénus et Mars se trouvaient à quelque 90° d’écart à votre naissance, en général dans des signes du même mode. Dans un thème, votre goût et votre façon d’aller le chercher n’ont pas le même horaire : vous apprenez à les accorder. J’y lis une friction qui apprend à demander juste, pas un conflit écrit."
+definition: "Vénus carré Mars signifie que Vénus et Mars se trouvaient à quelque 90° d’écart à votre naissance, en général dans deux signes du même mode. Dans un thème, votre goût et votre façon d’aller le chercher n’ont pas le même horaire : vous apprenez à les accorder. J’y vois une friction qui enseigne à demander juste, pas un conflit écrit."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Mars ♂" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -31,7 +31,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes naissent avec cet aspect" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-Vénus carré Mars place votre goût et votre élan à un quart de cercle d’écart. Les deux n’ont pas le même horaire : le désir arrive parfois avant la tendresse, ou la tendresse sans l’audace d’agir, et une bonne part du travail de ce carré consiste à les accorder dans le temps.
+Dans Vénus carré Mars, un quart de cercle sépare votre goût de votre élan. Les deux n’ont pas le même horaire : le désir arrive parfois avant la tendresse, ou la tendresse sans l’audace d’agir, et une bonne part du travail de ce carré consiste à les accorder dans le temps.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
@@ -39,13 +39,13 @@ Vénus carré Mars place votre goût et votre élan à un quart de cercle d’é
 
 Concrètement, désirer et aimer peuvent tirer dans des directions un peu différentes. Vous poursuivez parfois ce dont vous doutez, ou vous retenez devant ce que vous aimez clairement ; vous adoucissez une demande jusqu’à la faire disparaître, ou vous la poussez si fort que l’échange penche. Rien de tout cela n’est un défaut. Ce carré enseigne souvent deux leçons à la fois : garder la paix n’est pas la même chose que l’harmonie, et s’affirmer ne coûte pas forcément la relation. Avec le temps, il aide souvent à tenir les deux : savoir clairement ce que vous voulez, et demander avec justesse.
 
-Il y a aussi de l’étincelle là-dedans. La friction entre désirer et aimer est vivante, et c’est pourquoi les astrologues lisent souvent ce carré comme une attirance qui reste éveillée. Je ne le lis pas comme un conflit : le frottement a lieu entre deux parts de vous, qui apprennent le rythme l’une de l’autre.
+Il y a aussi de l’étincelle là-dedans. La friction entre désirer et aimer est vivante, et c’est pourquoi les astrologues lisent souvent ce carré comme une attirance qui reste éveillée. Je n’y vois pas un conflit : le frottement a lieu entre deux parts de vous, qui apprennent le rythme l’une de l’autre.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Dans un thème, un carré relie en général deux signes du même mode : Vénus et Mars partagent une allure et diffèrent sur le reste. Avec Vénus en Cancer et Mars en Bélier, deux signes cardinaux, prompts à commencer, la tendresse veut abriter quand l’élan veut charger. Avec Vénus en Taureau et Mars en Lion, deux signes fixes, le confort et la fierté sont aussi difficiles à déplacer l’un que l’autre. Les maisons montrent où la friction se fait sentir : Vénus en maison 7 au carré de Mars en maison 10 pourrait faire réclamer les mêmes soirées par le couple et par l’ambition.
+Dans un thème, les deux planètes partagent le plus souvent un mode, cardinal, fixe ou mutable, et ce mode règle le rythme du frottement. Avec Vénus en Cancer et Mars en Bélier, deux signes cardinaux, prompts à commencer, la tendresse veut abriter quand l’élan veut charger. Avec Vénus en Taureau et Mars en Lion, deux signes fixes, le confort et la fierté sont aussi difficiles à déplacer l’un que l’autre. Les maisons montrent où la friction se fait sentir : Vénus en maison 7 au carré de Mars en maison 10 pourrait faire réclamer les mêmes soirées par le couple et par l’ambition.
 
-Environ 1 personne sur 15 naît avec Vénus et Mars à moins de 6° d’un carré exact. Exact ou presque, le frottement fait partie de presque tous les jours ; à 5 ou 6°, il remonte plutôt sous pression, quand vous voulez quelque chose très fort. Dans [mon carnet](/blog/i-tested-my-birth-chart/), Vénus a tenu environ une fois sur trois : je propose donc ce carré comme une tendance à vérifier dans votre vie, pas comme un verdict.
+Environ 1 personne sur 15 naît avec Vénus et Mars à moins de 6° d’un carré exact. Exact ou presque, le frottement fait partie de presque tous les jours ; à 5 ou 6°, il remonte plutôt sous pression, quand vous voulez quelque chose très fort. Dans [mon carnet](/blog/i-tested-my-birth-chart/), Vénus a tenu environ une fois sur trois : ce carré est donc une tendance à vérifier dans votre vie, pas un verdict.
 
 Les autres rencontres de la paire, pour comparer :
 
@@ -54,10 +54,10 @@ Les autres rencontres de la paire, pour comparer :
 - **[Vénus trigone Mars](/astrology/venus-trine-mars/) :** le désir et le goût avancent ensemble dans un même élément, et se disputent rarement.
 - **[Vénus opposition Mars](/astrology/venus-opposite-mars/) :** aimer et poursuivre aux deux bouts du thème, une balançoire qui penche souvent du côté des autres avant de trouver son équilibre.
 
-Entre deux thèmes, [Vénus carré Mars en synastrie](/astrology/venus-square-mars-synastry/), c’est l’étincelle et l’accroc dans un même contact : les envies de l’une des deux personnes frottent contre l’élan de l’autre, et demande aux deux de dire simplement ce qu’elles veulent ; chacune sentant un autre côté de l’accroc, je lis les deux thèmes.
+Entre deux thèmes, [Vénus carré Mars en synastrie](/astrology/venus-square-mars-synastry/), c’est l’étincelle et l’accroc dans un même contact : les envies d’une personne frottent contre l’élan de l’autre, ce qui demande aux deux de dire simplement ce qu’elles veulent ; chacune sentant un autre côté de l’accroc, je lis les deux thèmes.
 
 ## En transit {#en-transit}
 
-En [transit](/astrology/transits/), deux fois par an, pendant un jour ou deux, Vénus forme dans le ciel un carré avec Mars dans votre thème natal : un moment où ce qui vous ferait plaisir et ce que vous cherchez à obtenir ne s’alignent pas. Environ une fois par an, Mars rend la pareille et forme un carré avec votre Vénus natale pendant plusieurs jours, davantage si Mars repasse en rétrograde tout près : un élan qui met à l’épreuve ce qui compte pour vous, ou un plaisir qui demande plus de patience que vous ne voudriez.
+En [transit](/astrology/transits/), Vénus passe au carré de Mars dans votre thème natal deux fois par an, et chaque fois un jour ou deux : un moment où ce qui vous ferait plaisir et ce que vous cherchez à obtenir ne s’alignent pas. Environ une fois par an, Mars rend la pareille et forme un carré avec votre Vénus natale pendant plusieurs jours, davantage si Mars repasse en rétrograde tout près : un élan qui met à l’épreuve ce qui compte pour vous, ou un plaisir qui demande plus de patience que vous ne voudriez.
 
 Une météo, pas une prédiction : quelques jours de friction à remarquer, jamais le signe que quelque chose va mal tourner.

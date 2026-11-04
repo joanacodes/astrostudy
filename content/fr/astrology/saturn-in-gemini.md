@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 75
 glyph: "♄♊"
-definition: "Saturne en Gémeaux place la planète de la maîtrise lente dans un signe d’air mutable, celui des mots et de la curiosité, gouverné par Mercure. Ce placement appartient aux personnes nées vers 1942–1944, 1971–1974 ou 2000–2003. Imaginez un esprit bâti avec soin : une confiance tardive en ses idées, et des mots pesés, puis tenus."
+definition: "Avec Saturne en Gémeaux, la planète de la maîtrise lente travaille par les mots et la curiosité, dans un signe d’air mutable gouverné par Mercure. Ce placement appartient aux personnes nées vers 1942–1944, 1971–1974 ou 2000–2003. Imaginez un esprit bâti avec soin : une confiance tardive en ses idées, et des mots pesés, puis tenus."
 facts:
   - { k: "Corps", v: "Saturne ♄" }
   - { k: "Signe", v: "Gémeaux ♊, gouvernés par Mercure" }
@@ -35,7 +35,7 @@ Que dire quand on n’a pas la certitude d’avoir le droit d’avoir un avis 
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-[Saturne](/astrology/saturn/) bâtit des structures, prend ses responsabilités et travaille sur un long calendrier. Les [Gémeaux](/astrology/gemini/), signe d’air mutable gouverné par Mercure, sont le signe de la curiosité, des mots, des liens et de plusieurs choses à la fois. Ici, la leçon de Saturne passe par l’esprit : apprendre à se fier à sa propre pensée, à la dire simplement, et à aller en profondeur dans un signe qui préfère aller en largeur. Ce placement ne dit rien de votre intelligence ; il décrit la façon dont vous en venez à croire votre propre esprit.
+Les [Gémeaux](/astrology/gemini/), c’est la curiosité, les mots et les liens : un signe d’air mutable gouverné par Mercure, heureux de faire plusieurs choses à la fois. Dans ce signe rapide arrive [Saturne](/astrology/saturn/), avec sa structure et son long calendrier, et la leçon passe par l’esprit : apprendre à se fier à sa propre pensée, à la dire simplement, et à aller en profondeur là où le signe préférerait aller en largeur. Rien de cela ne dit votre intelligence ; ce placement décrit la façon dont vous en venez à croire votre propre esprit.
 
 Selon les règles anciennes, les Gémeaux ne sont pour Saturne ni un foyer ni une épreuve : ni domicile, ni exaltation, ni exil, ni chute. La friction est plus subtile : le désir de Saturne de trancher une question, face à un signe qui adore la laisser ouverte. Et comme Mercure gouverne les Gémeaux, le signe et la maison de [Mercure](/astrology/mercury/) montrent comment Saturne pense et trouve ses mots ici.
 

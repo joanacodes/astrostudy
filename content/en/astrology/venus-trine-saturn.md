@@ -20,7 +20,7 @@ faq:
   - q: "What does Venus trine Saturn mean in a birth chart?"
     a: "Your Venus and Saturn sit about 120° apart. Caring and committing run on the same track: you tend to keep friends for decades, look after things so they age well, and find real pleasure in reliability. I read it as loyalty that comes easily, at its best when it stays a choice."
   - q: "Is Venus trine Saturn good for marriage?"
-    a: "It describes a talent for commitment, which helps any long relationship. But a chart can’t promise how a marriage goes, or whether one happens, and I don’t read it for that. What the trine shows is how you tend to love: steadily, with care for the long run."
+    a: "It describes a talent for commitment, which helps any long relationship. But a chart can’t promise how a marriage goes, or whether one happens, and that isn’t something I read for. What the trine shows is how you tend to love: steadily, with care for the long run."
   - q: "Can Venus trine Saturn feel boring?"
     a: "It can, from inside or outside. Constancy that runs by itself sometimes turns into habit: holding on out of loyalty to the past rather than to the person. The answer isn’t to give up the steadiness but to keep choosing it, so that loyalty stays alive rather than automatic."
   - q: "How is Venus trine Saturn different from Venus square Saturn?"

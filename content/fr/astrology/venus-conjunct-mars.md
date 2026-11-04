@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 155
 glyph: "♀☌♂"
-definition: "Vénus conjonction Mars signifie qu’à votre naissance, Vénus et Mars se trouvaient à quelques degrés d’écart, en général dans le même signe. Dans un thème, cette conjonction fond ensemble ce qui vous plaît et la façon d’aller le chercher : l’intérêt devient vite effort, et l’effort, attachement. Tout l’enjeu est de remarquer laquelle des deux fonctions mène."
+definition: "Vénus conjonction Mars signifie qu’au moment de votre naissance, Vénus et Mars n’avaient que quelques degrés d’écart, en général dans un seul signe. Dans un thème, ce qui vous plaît et la façon d’aller le chercher se fondent l’un dans l’autre : l’intérêt devient vite effort, et l’effort, attachement. Tout l’enjeu est de remarquer laquelle des deux fonctions mène."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Mars ♂" }
   - { k: "Aspect", v: "Conjonction ☌, 0°" }
@@ -35,17 +35,17 @@ Vénus conjonction Mars réunit la planète de ce qui vous plaît et celle de ce
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Vénus](/astrology/venus/) évalue : ce qui vous attire, ce que vous préférez, ce qui vous semble juste entre les gens. [Mars](/astrology/mars/) lance : l’effort, l’affirmation, la poussée qui fait démarrer les choses. Une [conjonction](/astrology/conjunction/) lie les deux fonctions en un seul mouvement, sans que chacune perde sa nature : Vénus pèse toujours, Mars agit toujours, mais au même instant.
+[Vénus](/astrology/venus/) évalue : l’attirance, la préférence, ce qui vous semble juste entre les gens. [Mars](/astrology/mars/) lance : l’effort, l’affirmation, la poussée qui fait démarrer les choses. Une [conjonction](/astrology/conjunction/) lie les deux fonctions en un seul mouvement, sans que chacune perde sa nature : Vénus pèse toujours, Mars agit toujours, mais au même instant.
 
 Concrètement, vous voulez rarement quelque chose à moitié. La tendresse devient effort, et l’effort tendresse : les personnes et les projets auxquels vous donnez votre énergie deviennent ceux que vous aimez, et ceux que vous aimez reçoivent votre énergie. Cela peut vous donner à la fois de la chaleur et de la franchise, avec un intérêt facile à lire. Comme dans toute conjonction, la tâche est de remarquer laquelle des deux fonctions mène quand cela compte : voulez-vous cette chose parce qu’elle compte pour vous, ou compte-t-elle parce que vous êtes déjà à sa poursuite ?
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le signe compte plus que d’habitude, parce qu’il donne son style aux deux planètes à la fois, et qu’il peut en avantager une. Vénus gouverne le Taureau et la Balance ; Mars gouverne le Bélier et, traditionnellement, le Scorpion. En Bélier ou en Scorpion, c’est donc la poursuite qui donne le ton, Vénus se trouvant face à l’un de ses propres signes ; en Taureau ou en Balance, c’est le goût qui mène, et Mars travaille en terrain peu familier. Ailleurs, le partage est plus égal : en Lion, de la générosité et de l’entrain ; en Vierge, de l’attention et du sens pratique. La maison montre où cela vit : en maison 10, vous finissez peut-être par aimer le travail où vous poussez le plus fort ; en maison 5, le jeu et l’amour reçoivent la même énergie.
+Le signe compte plus que d’habitude, parce qu’il donne son style aux deux planètes à la fois, et qu’il peut en avantager une. Vénus a pour domiciles le Taureau et la Balance ; Mars, le Bélier et, dans la tradition, le Scorpion. En Bélier ou en Scorpion, c’est donc la poursuite qui donne le ton, Vénus se trouvant face à l’un de ses propres signes ; en Taureau ou en Balance, c’est le goût qui mène, et Mars travaille en terrain peu familier. Ailleurs, le partage est plus égal : en Lion, de la générosité et de l’entrain ; en Vierge, de l’attention et du sens pratique. La maison montre où cela vit : en maison 10, vous finissez peut-être par aimer le travail où vous poussez le plus fort ; en maison 5, le jeu et l’amour reçoivent la même énergie.
 
 Environ 1 personne sur 15 naît avec Vénus et Mars à moins de 6° d’écart. À un ou deux degrés près, aimer et aller chercher se distinguent mal, même pour vous ; à 5 ou 6°, les deux fonctions ressemblent plutôt à des voisines proches, et la différence s’entend mieux. Des deux, c’est en général Vénus qui va le plus vite, et qui se rapproche ou s’éloigne. Près de la fin d’un signe, la paire peut tomber de part et d’autre de la frontière ([aspects dissociés](/astrology/out-of-sign-aspects/)) : la fusion parle alors avec deux accents.
 
-Les deux planètes peuvent se rencontrer sous tous les angles, et chacun donne à aimer et à faire une autre relation :
+À chacun de leurs angles, aimer et faire changent de relation :
 
 - **[Vénus sextile Mars](/astrology/venus-sextile-mars/) :** les deux fonctions s’aident par de petites ouvertures : une invitation, une suggestion, un premier pas.
 - **[Vénus carré Mars](/astrology/venus-square-mars/) :** aimer et poursuivre à contretemps, qui apprennent le rythme l’un de l’autre.
@@ -56,6 +56,6 @@ Entre deux thèmes, [Vénus conjonction Mars en synastrie](/astrology/venus-conj
 
 ## En transit {#en-transit}
 
-En [transit](/astrology/transits/), la paire de votre thème reçoit les visites d’un seul bloc. Vénus, dans le ciel, la traverse environ une fois par an, et Mars environ tous les deux ans ; comme Vénus et Mars sont côte à côte dans votre thème, ce qui touche l’une des deux planètes touche l’autre à quelques jours près : quelques jours où la tendresse et l’effort reçoivent la même poussée. Une année où Mars repasse en rétrograde près de la paire, la traversée peut se faire trois fois en quelques mois, et la poussée vient par vagues.
+En [transit](/astrology/transits/), la paire de votre thème reçoit les visites d’un seul bloc. Vénus, dans le ciel, la traverse environ une fois par an, et Mars environ tous les deux ans ; comme Vénus et Mars sont côte à côte dans votre thème, ce qui touche l’une des deux planètes touche l’autre à quelques jours près : quelques jours où la tendresse et l’effort reçoivent la même poussée. Une année où Mars repasse en rétrograde près de la paire, la traversée peut se répéter trois fois en quelques mois, et la poussée arrive par vagues.
 
 Une météo, pas une prédiction : une courte saison de chaleur et d’élan au même endroit, sans promesse sur la personne ou la chose à laquelle elle s’adresse.

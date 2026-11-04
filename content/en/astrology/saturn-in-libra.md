@@ -24,7 +24,7 @@ faq:
   - q: "Why is Saturn in Libra less common?"
     a: "Between 1930 and 2009 Saturn crossed Libra in full only twice, in 1950–53 and 1980–83, and its third stay began in October 2009, at the very end of that span. So only about 1 person in 16 born in those years has it, fewer than for most Saturn signs."
   - q: "When was Saturn in Libra?"
-    a: "From November 1950 to October 1953, September 1980 to August 1983 and October 2009 to October 2012, and again from September 2039. The 2009–12 stay brought the first Saturn return to people born with it in 1980–83, and the second to those born in 1950–53."
+    a: "From November 1950 to October 1953, September 1980 to August 1983 and October 2009 to October 2012, and again from September 2039. The 2009–12 stay doubled as a Saturn return: the first for people born in 1980–83, the second for those born in 1950–53."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Saturn’s exaltation in Libra, its fall in Aries, and Venus’s rulership" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "the months Saturn spent in Libra, 1930–2039, and how many people born 1930–2009 have it" }
@@ -34,7 +34,7 @@ Give the planet of rules a pair of scales and it starts weighing everything: pro
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Saturn](/astrology/saturn/) gives structure, asks for responsibility and keeps the long view. [Libra](/astrology/libra/), cardinal air ruled by Venus, is the sign of balance, partnership, diplomacy and agreements. Here Saturn's lesson is fairness: commitments that are kept, rules that apply to everyone, and relationships built slowly enough to last.
+[Libra](/astrology/libra/) starts things through other people, as cardinal air ruled by Venus, and wants whatever it starts to be balanced. When [Saturn](/astrology/saturn/), the planet of structure and the long view, sits in that sign, the lesson is fairness: commitments that are kept, rules that apply to everyone, and relationships built slowly enough to last.
 
 Ptolemy lists Libra as Saturn's [exaltation](/astrology/exaltation/), opposite its fall in Aries. I read it this way: Saturn's rules work best when both sides agreed to them. And because [Venus](/astrology/venus/) rules Libra, your Venus shows what this Saturn is trying to keep fair, and with whom.
 
@@ -42,7 +42,7 @@ Saturn was in Libra from November 1950 to October 1953, September 1980 to August
 
 ## In close relationships {#in-close-relationships}
 
-Commitment is serious business for you: a promise is a contract, even when nobody wrote it down. You want a partnership of equals, with the load shared and the rules clear, and you can stay a long time in one that isn't, out of duty or a hope that patience will even things out. The lesson is that a fair relationship isn't a scoreboard. When two people ask me to compare their charts, I read Saturn with particular care, because it held 75 to 90% of the time in my notebook, and only ever once both of them have said yes ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Commitment is serious business for you: a promise is a contract, even when nobody wrote it down. You want a partnership of equals, with the load shared and the rules clear, and you can stay a long time in one that isn't, out of duty or a hope that patience will even things out. The lesson is that a fair relationship isn't a scoreboard. When two people ask me to compare their charts, I read Saturn with particular care, because Saturn proved itself in my notebook more than almost anything else, and only ever once both of them have said yes ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
 
 ## At work {#at-work}
 

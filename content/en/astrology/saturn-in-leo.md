@@ -34,7 +34,7 @@ From the inside, Saturn in Leo can feel like waiting in the wings of a lit stage
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Saturn](/astrology/saturn/) marks where a chart takes things seriously: duties, limits, the long apprenticeship. [Leo](/astrology/leo/), fixed fire ruled by the Sun, is the sign of warmth, pride, creativity and being seen. Here the planet that prefers to be useful lands in the sign that wants to shine, and its lesson is self-expression: showing yourself, making things with your name on them, and taking your own joy seriously.
+Warmth, pride, creativity and being seen are [Leo](/astrology/leo/)'s territory, fixed fire under the Sun's rule. [Saturn](/astrology/saturn/), the place where a chart takes things seriously, arrives there as a planet that would rather be useful than admired, and its lesson is self-expression: showing yourself, making things with your name on them, and taking your own joy seriously.
 
 Tradition places Saturn in [detriment](/astrology/detriment/) in Leo, opposite Aquarius, the second sign the old rulerships give it. In that scheme Saturn's two signs face the signs of the two lights, so in Leo the planet of restraint is staying in the Sun's own house. I read that as a question of permission. The work isn't earning the right to be seen; it's noticing, eventually, that you never needed a licence. Since the Sun rules Leo, your [Sun](/astrology/sun/)'s placement points to where this Saturn most wants recognition, and where it hides from it.
 

@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 74
 glyph: "♄♉"
-definition: "Saturne en Taureau place la planète de l’effort au long cours dans un signe de terre fixe, gouverné par Vénus. Les personnes nées vers 1939–1942, 1969–1972 ou 1998–2001 ont aussi ce placement. Ses leçons : une sécurité et une estime de soi apprises par le long chemin, et une vie bâtie couche après couche."
+definition: "Saturne en Taureau, c’est l’effort au long cours dans son cadre le plus patient, un signe de terre fixe gouverné par Vénus. Les personnes nées vers 1939–1942, 1969–1972 ou 1998–2001 ont aussi ce placement. Ses leçons : une sécurité et une estime de soi apprises lentement, et une vie bâtie couche après couche."
 facts:
   - { k: "Corps", v: "Saturne ♄" }
   - { k: "Signe", v: "Taureau ♉, gouverné par Vénus" }
@@ -25,7 +25,7 @@ faq:
   - q: "Quelles années ont eu Saturne en Taureau ?"
     a: "De juillet 1939 à mai 1942, d’avril 1969 à février 1972 et de juin 1998 à avril 2001, puis d’avril 2028 à mai 2030. Aux bords de chaque séjour, Saturne a fait un crochet par le Bélier ou une incursion en Gémeaux : pour une naissance pendant les mois qui se chevauchent, c’est le thème qui tranche."
   - q: "Saturne en Taureau, est-ce de l’entêtement ?"
-    a: "Ce placement peut vous rendre difficile à faire bouger, ce qui n’est pas tout à fait pareil. La terre fixe donne à Saturne de l’endurance : vous finissez ce que vous commencez et tenez vos promesses pendant des années. Le prix, c’est que le changement doit sembler sûr avant d’être accepté. Changer une petite chose par choix garde la force sans l’immobilité."
+    a: "Ce placement peut vous rendre difficile à faire bouger, ce qui n’est pas pareil. La terre fixe donne à Saturne de l’endurance : vous finissez ce que vous commencez et tenez vos promesses pendant des années. Le prix, c’est que le changement doit sembler sûr avant d’être accepté. Changer une petite chose par choix garde la force sans l’immobilité."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les signes, la maîtrise de Vénus sur le Taureau et les dignités de Saturne" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les mois passés par Saturne en Taureau de 1930 à 2039, et la part des personnes nées entre 1930 et 2009 qui ont ce placement" }
@@ -35,7 +35,7 @@ Saturne en Taureau pousse comme une haie : on ne la voit jamais bouger, et une 
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-[Saturne](/astrology/saturn/) est la part du thème qui structure, prend ses responsabilités et voit loin. Le [Taureau](/astrology/taurus/), signe de terre fixe gouverné par Vénus, est celui de la valeur, du corps, du confort et de ce qui dure. Ici, les leçons de Saturne passent par les sens et par ce que l’on peut tenir dans ses mains : la sécurité, la valeur de votre temps et de vos savoir-faire, et le droit de profiter de ce que vous avez gagné.
+Dans le [Taureau](/astrology/taurus/), signe de terre fixe gouverné par Vénus, les choses se mesurent à ce qu’elles valent et au temps qu’elles durent. [Saturne](/astrology/saturn/), la part du thème qui structure et voit loin, s’installe sans peine dans ce rythme, et ses leçons passent par les sens et par ce que l’on peut tenir dans ses mains : la sécurité, la valeur de votre temps et de vos savoir-faire, et le droit de profiter de ce que vous avez gagné.
 
 La tradition ne donne à Saturne aucune dignité particulière en Taureau : ce n’est ni son domicile, ni son exaltation, ni son exil, ni sa chute. La terre convient à son côté pratique ; le travail ne consiste donc pas à surmonter le signe, mais à éviter que la prudence et le goût d’un signe fixe pour ce qui ne change pas finissent par faire du surplace.
 

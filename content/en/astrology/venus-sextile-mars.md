@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 156
 glyph: "♀⚹♂"
-definition: "Venus sextile Mars means Venus and Mars were about 60° apart at your birth, usually in signs of complementary elements. In a chart it lets liking and pursuing cooperate, which often shows as a knack for the welcome first move. Like every sextile, it works when you use it."
+definition: "Venus sextile Mars means a sixth of the circle, about 60°, lay between Venus and Mars when you were born, usually across complementary elements. In a chart it lets liking and pursuing cooperate, which often shows as a knack for the welcome first move. Like every sextile, it works when you use it."
 facts:
   - { k: "Bodies", v: "Venus ♀ and Mars ♂" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -21,7 +21,7 @@ faq:
   - q: "What does Venus sextile Mars mean in a birth chart?"
     a: "With Venus and Mars about 60° apart at your birth, liking and pursuing can cooperate: liking turns into a move without turning into a campaign, and the move tends to leave the other person room to say yes. I read it as a practical warmth that works once you use it."
   - q: "Is Venus sextile Mars good for relationships?"
-    a: "It helps, in the way a sextile helps: it makes it easier to take the first step and keep the exchange friendly, in love, in friendship and at work. It doesn’t choose anyone for you, and it doesn’t act on its own. The opening is real; walking through it is up to you."
+    a: "It helps, in the way a sextile helps: it makes it easier to take the first step and keep the exchange friendly, in love, in friendship and at work. It doesn’t choose anyone for you, and it doesn’t act on its own. The opening is real, and stepping through is your choice."
   - q: "Is Venus sextile Mars weaker than Venus trine Mars?"
     a: "Not weaker, more conditional. The trine tends to run by itself, sometimes so smoothly you don’t notice it. The sextile waits for an invitation, a situation or a decision, then comes alive. I read the sextile as the more trainable of the two: the more you use it, the more it becomes a habit."
   - q: "Does Venus sextile Mars make you good at flirting?"
@@ -42,9 +42,9 @@ The condition is written into the aspect. A sextile is potential that needs enga
 
 ## In a birth chart {#in-a-birth-chart}
 
-In a chart, the sextile usually joins two signs of complementary elements, fire with air or earth with water, so your Venus and Mars speak different but compatible languages. With Venus in Gemini and Mars in Leo, you like with words and act with warmth; with Venus in Scorpio and Mars in Capricorn, affection shows up as loyal, practical effort. The houses are usually two apart, and one feeds the other: Venus in the 3rd with Mars in the 5th might turn a good conversation into a shared project, or a date.
+In a chart, the sextile usually joins two signs of complementary elements, fire beside air or earth beside water, so your Venus and Mars speak different but compatible languages. With Venus in Gemini and Mars in Leo, you like with words and act with warmth; with Venus in Scorpio and Mars in Capricorn, affection shows up as loyal, practical effort. The houses are usually two apart, and one feeds the other: Venus in the 9th with Mars in the 11th might turn a love of learning into a project among friends, or a friendship into a date.
 
-About 1 person in 11 is born with Venus and Mars within 6° of a sextile, the most common of the pair's aspects. Within a degree or two, the knack is easy to see; near 6°, it's there when you look for it. Venus is usually the faster, so it's usually Venus moving towards the exact angle or away from it.
+About 1 person in 11 is born with Venus and Mars within 6° of a sextile. Within a degree or two, the knack is easy to see; near 6°, it's there when you look for it. Venus is usually the faster, so it's usually Venus moving towards the exact angle or away from it.
 
 A sextile is the plainest example of what I mean by a tendency rather than a fate: it describes what's available, and you decide what to do with it ([how I read](/how-i-read/)).
 
@@ -59,6 +59,6 @@ Between two charts, [Venus sextile Mars in synastry](/astrology/venus-sextile-ma
 
 ## In transits {#in-transits}
 
-In [transits](/astrology/transits/), twice a year or so, for a couple of days, Venus in the sky sextiles your natal Mars: a good moment to suggest the plan you've been turning over. Mars sextiles your natal Venus about once a year and lingers a few days longer, being the slower of the two: energy that drifts easily towards something you enjoy.
+In [transits](/astrology/transits/), twice a year or so, for a couple of days, Venus in the sky sextiles your natal Mars: a good moment to suggest the plan you've been turning over. Mars sextiles your natal Venus about once a year and lingers rather longer, at Mars's slower pace: energy that drifts easily towards something you enjoy.
 
 Weather, not a forecast: an opening in the week, which you can take or leave, and no more than that.

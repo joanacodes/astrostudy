@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 80
 glyph: "♄♏"
-definition: "Saturn in Scorpio brings the planet of boundaries into fixed water, the sign of depth and trust, ruled by Pluto in modern tropical astrology and by Mars in the tradition. People born in roughly 1953–56, 1982–85 or 2012–15 share it. Its lessons are trust and control, and an intimacy guarded until it is earned."
+definition: "Saturn in Scorpio is a guarded placement: the planet of boundaries in fixed water, the sign of depth and trust, ruled by Pluto in modern tropical astrology and by Mars in the tradition. People born in roughly 1953–56, 1982–85 or 2012–15 share it. Its lessons are trust, control, and intimacy guarded until it is earned."
 facts:
   - { k: "Body", v: "Saturn ♄" }
   - { k: "Sign", v: "Scorpio ♏, ruled by Pluto (modern) and Mars (traditional)" }
@@ -24,7 +24,7 @@ faq:
   - q: "Is Saturn in Scorpio a hard placement?"
     a: "It is an intense one, not a doomed one. Saturn’s caution in the sign of depth can make trust slow and control tempting. The same pairing gives great endurance, loyalty and steadiness in a crisis. With time, guardedness tends to soften into a discretion that other people come to rely on."
   - q: "When was Saturn in Scorpio?"
-    a: "From October 1953 to October 1956, November 1982 to November 1985 and October 2012 to September 2015; the next stay begins after 2039. In 1956, and from late 2014 to autumn 2015, Saturn crossed back and forth with Sagittarius, and from late 1982 to summer 1983 with Libra."
+    a: "From October 1953 to October 1956, November 1982 to November 1985 and October 2012 to September 2015; the next stay begins after 2039. Saturn straddled the border with Sagittarius in 1956 and again from late 2014 to autumn 2015, and the one with Libra from late 1982 to summer 1983."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the signs, Mars’s traditional rulership of Scorpio and Saturn’s dignities" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "the months Saturn spent in Scorpio, 1930–2039, and how many people born 1930–2009 have it" }
@@ -34,11 +34,11 @@ Some people keep a diary; Saturn in Scorpio keeps a vault. Feelings, secrets, pr
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Saturn](/astrology/saturn/) sets boundaries, carries weight and plays for the long term. [Scorpio](/astrology/scorpio/), fixed water, is the sign of depth, intimacy, trust and what lies under the surface. Here Saturn structures the hidden life: what you share and with whom, how much control you need to feel safe, and how you come through a crisis.
+What matters in [Scorpio](/astrology/scorpio/), fixed water, lies under the surface: intimacy, trust, power, the things people don't say. [Saturn](/astrology/saturn/), which sets boundaries and carries weight, takes charge of that hidden life: what you share and with whom, how much control you need to feel safe, and how you come through a crisis.
 
 Scorpio isn't one of Saturn's signs of dignity or debility, but fixed water and Saturn share a talent for endurance: holding steady under pressure, for a very long time. The sign has two rulers, [Pluto](/astrology/pluto/) in modern tropical astrology and [Mars](/astrology/mars/) in the tradition, and I read both. Mars shows how this Saturn defends its boundaries; Pluto, where it's asked to let something end and be remade.
 
-Saturn was in Scorpio from October 1953 to October 1956, November 1982 to November 1985 and October 2012 to September 2015, and about 1 person in 15 born between 1930 and 2009 carries it. The 2012–15 stay was the first Saturn return of the 1982–85 cohort, and the second of those born in 1953–56; the next stay begins after 2039, beyond the end of my count. Born in 1956, or between December 2014 and September 2015? Check whether your chart says [Saturn in Sagittarius](/astrology/saturn-in-sagittarius/) instead. Born between November 1982 and August 1983? Check for [Saturn in Libra](/astrology/saturn-in-libra/). Either way you share the sign with your cohort, and the house shows which part of life the vault guards.
+Saturn was in Scorpio from October 1953 to October 1956, November 1982 to November 1985 and October 2012 to September 2015, and about 1 person in 15 born between 1930 and 2009 carries it. The 1982–85 cohort met its first Saturn return during the 2012–15 stay, and those born in 1953–56 their second; the next stay begins after 2039, beyond the end of my count. Born in 1956, or between December 2014 and September 2015? Check whether your chart says [Saturn in Sagittarius](/astrology/saturn-in-sagittarius/) instead. Born between November 1982 and August 1983? Check for [Saturn in Libra](/astrology/saturn-in-libra/). Either way the sign belongs to your whole cohort; the house shows which part of life the vault guards.
 
 ## In close relationships {#in-close-relationships}
 
@@ -54,4 +54,4 @@ Control, as a way of feeling safe. If you hold every thread, nothing can surpris
 
 ## What helps {#what-helps}
 
-Extend trust in small, testable steps, and notice when it's honoured. Tell one person one thing you'd usually keep. Let something end on purpose: a grudge, a habit, a role you've outgrown. When you feel the urge to check up on someone, ask what you're actually afraid of losing, and say that instead. Saturn held 75 to 90% of the time in my tests ([the three that held](/blog/saturn-chiron-lilith/)), so with a Scorpio Saturn I go slowly and ask before going deeper. What's in the vault is yours, and you decide what comes out.
+Extend trust in small, testable steps, and notice when it's honoured. Tell one person one thing you'd usually keep. Let something end on purpose: a grudge, a habit, a role you've outgrown. When you feel the urge to check up on someone, ask what you're actually afraid of losing, and say that instead. Saturn stood up to my tests better than most placements ([the three that held](/blog/saturn-chiron-lilith/)), so with a Scorpio Saturn I go slowly and ask before going deeper. What's in the vault is yours, and you decide what comes out.

@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 75
 glyph: "♄♊"
-definition: "Saturn in Gemini brings the planet of slow mastery into mutable air, the sign of words and curiosity ruled by Mercury. It belongs to everyone born in roughly 1942–44, 1971–74 or 2000–03. Think of a mind built carefully: confidence in your own ideas learned slowly, and words that are weighed, then kept."
+definition: "With Saturn in Gemini, the planet of slow mastery works through words and curiosity, in mutable air ruled by Mercury. It belongs to everyone born in roughly 1942–44, 1971–74 or 2000–03. Think of a mind built carefully: confidence in your own ideas learned slowly, and words that are weighed, then kept."
 facts:
   - { k: "Body", v: "Saturn ♄" }
   - { k: "Sign", v: "Gemini ♊, ruled by Mercury" }
@@ -34,7 +34,7 @@ What do you say when you're not sure you're allowed to have an opinion? With Sat
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Saturn](/astrology/saturn/) builds structure, takes responsibility and works on a long timetable. [Gemini](/astrology/gemini/), mutable air ruled by Mercury, is the sign of curiosity, words, links and several things at once. Here Saturn's lesson runs through the mind: learning to trust your own thinking, to say it plainly, and to go deep in a sign that would rather go wide. It says nothing about how clever you are; it describes how you come to believe your own mind.
+[Gemini](/astrology/gemini/) is all curiosity, words and links, mutable air under Mercury's rule, happiest doing several things at once. Into that quick sign comes [Saturn](/astrology/saturn/), with its structure and its long timetable, and the lesson runs through the mind: learning to trust your own thinking, to say it plainly, and to go deep where the sign would rather go wide. None of this says how clever you are; it describes how you come to believe your own mind.
 
 Gemini is neither a home nor a hardship for Saturn by the old rules: no domicile, exaltation, detriment or fall. The friction is subtler, Saturn's wish to settle a question against a sign that loves to keep it open. And because [Mercury](/astrology/mercury/) rules Gemini, its sign and house show how this Saturn thinks and finds its words.
 

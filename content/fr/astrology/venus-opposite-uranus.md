@@ -19,11 +19,11 @@ facts:
 related: ["/astrology/venus", "/astrology/uranus", "/astrology/opposition", "/astrology/venus-opposite-uranus-synastry", "/astrology/uranus-opposition"]
 faq:
   - q: "Que veut dire Vénus opposition Uranus dans un thème natal ?"
-    a: "Dans votre thème, Vénus et Uranus occupent les deux bouts d’un même axe. L’envie d’être proche et l’envie d’être libre tirent chacune de son côté : vous désirez l’une, puis l’autre vous manque. J’y lis l’apprentissage d’une demande qui réunit les deux, la proximité et l’espace en même temps."
+    a: "Dans votre thème, Vénus regarde Uranus droit en face. L’envie d’être proche et l’envie d’être libre tirent chacune de son côté : vous désirez l’une, puis l’autre vous manque. J’y lis l’apprentissage d’une demande qui réunit les deux, la proximité et l’espace en même temps."
   - q: "Est-ce que Vénus opposition Uranus attire des partenaires indisponibles ?"
     a: "Cela peut en donner l’impression quand le bout de la liberté revient sans cesse chez les autres. Mais ce n’est pas le thème qui choisit. Je regarderais plutôt si l’indépendance que vous remarquez chez l’autre est aussi un besoin à vous, que vous pourriez revendiquer, pour qu’elle ne repose pas sur une seule personne."
   - q: "Est-ce que Vénus opposition Uranus annonce un divorce ?"
-    a: "Non. Un thème ne peut prédire ni une séparation ni un divorce, et je ne le lis pas pour cela. Cette opposition décrit une tension entre proximité et indépendance, à laquelle chacune de vos relations devra faire de la place. De longs liens heureux peuvent se bâtir précisément sur ce genre d’espace."
+    a: "Non. Un thème ne peut prédire ni une séparation ni un divorce, et je refuse de le lire ainsi. Cette opposition décrit une tension entre proximité et indépendance, à laquelle chacune de vos relations devra faire de la place. De longs liens heureux peuvent se bâtir précisément sur ce genre d’espace."
   - q: "Peut-on vivre une relation durable avec Vénus opposition Uranus ?"
     a: "Oui. L’opposition demande une relation conçue avec de l’espace : du temps à part qui ne soit pas une menace, des changements discutés plutôt qu’imposés, une proximité qui ne veut pas dire ressemblance. Quand les deux personnes savent demander ce dont elles ont besoin, cet aspect garde plutôt un lien vivant qu’il ne le brise."
 sources:
@@ -34,15 +34,15 @@ Vénus opposition Uranus tend une ligne entre l’envie d’être proche et l’
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Vénus](/astrology/venus/) vous attire vers ce qui compte pour vous et vers les personnes qui vous sont chères : peser, attirer, garder l’échange équitable. [Uranus](/astrology/uranus/) tire vers l’indépendance et le renouveau : différencier, libérer, réformer. Dans une [opposition](/astrology/opposition/), chaque fonction occupe un pôle du même axe, et aucune n’est faite pour gagner.
+[Vénus](/astrology/venus/) vous attire vers ce que vous estimez et vers les gens que vous aimez : peser, attirer, garder l’échange équitable. [Uranus](/astrology/uranus/) tire vers l’indépendance et le renouveau : différencier, libérer, réformer. Dans une [opposition](/astrology/opposition/), chaque fonction occupe un pôle du même axe, et aucune n’est faite pour gagner.
 
-Concrètement, l’union et l’indépendance se font face dans votre thème. Vous désirez parfois la proximité, puis vous y sentez à l’étroit ; ou vous tenez à votre liberté, puis la chaleur que vous avez tenue à distance vous manque. Souvent, l’un des bouts apparaît chez quelqu’un d’autre : une personne qui a besoin de plus d’espace que vous, ou qui fait entrer le changement dans votre vie pendant que vous tenez le bout stable ; parfois, c’est l’inverse, et c’est vous qui gardez la porte ouverte. Le but n’est pas un compromis où personne n’a assez, mais un lien, ou une vie, capable de tenir les deux : une vraie proximité, avec un vrai espace.
+Concrètement, l’union et l’indépendance se font face dans votre thème. Vous désirez parfois la proximité, puis vous y sentez à l’étroit ; ou vous tenez à votre liberté, puis la chaleur que vous avez tenue à distance vous manque. Souvent, l’un des bouts apparaît chez quelqu’un d’autre : une personne qui réclame plus d’espace que vous, ou qui fait entrer le changement dans votre vie pendant que vous tenez le bout stable ; parfois, c’est l’inverse, et c’est vous qui gardez la porte ouverte. Le but n’est pas un compromis où personne n’a assez, mais un lien, ou une vie, capable de tenir les deux : une vraie proximité, avec un vrai espace.
 
 Je lis tout cela comme une tendance dans votre façon d’aimer, jamais comme une prédiction sur qui restera ou partira ([ma méthode](/how-i-read/)).
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Les deux planètes se tiennent dans des signes opposés, du même mode. Avec Vénus en Lion face à Uranus en Verseau, le signe que les modernes donnent à Uranus, le désir chaleureux de compter pour quelqu’un fait face au besoin plus frais de n’appartenir à personne ; avec Vénus en Taureau en face d’Uranus en Scorpion, l’amour du confort fait face à une envie de changement qui va loin. Les maisons rendent cela concret : Vénus en maison 1 et Uranus en maison 7 pourraient amener des partenaires qui arrivent soudain ou ont besoin d’espace ; Vénus en maison 5 et Uranus en maison 11, une vie amoureuse et des amitiés qui demandent à être distinguées.
+Vénus et Uranus occupent deux signes opposés, donc du même mode. Avec Vénus en Balance, l’un de ses signes, face à Uranus en Bélier, le désir d’harmonie et de partenariat fait face à l’envie de tracer sa route sans personne ; avec Vénus en Taureau en face d’Uranus en Scorpion, l’amour du confort fait face à une envie de changement qui va loin. Les maisons rendent cela concret : Vénus en maison 2 et Uranus en maison 8 pourraient opposer le goût du confort stable à une intimité qui se réinvente sans cesse ; Vénus en maison 5 et Uranus en maison 11, une vie amoureuse et des amitiés qui demandent à être distinguées.
 
 Environ 1 personne sur 32 naît avec Vénus et Uranus à moins de 6° d’une opposition exacte. Serrée, elle traverse chaque lien proche ; large, elle revient surtout quand une relation arrive à un carrefour.
 

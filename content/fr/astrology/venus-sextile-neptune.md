@@ -2,7 +2,7 @@
 title: "Vénus sextile Neptune"
 slug: "venus-sextile-neptune"
 h1: "Vénus sextile Neptune dans un thème natal"
-description: "Vénus sextile Neptune dans un thème natal : l’imagination à portée de ce que vous aimez, des rêves qui demandent une forme, un transit rare."
+description: "Vénus sextile Neptune dans un thème natal : une imagination prête à servir ce que vous aimez, des rêves qui demandent une forme, un transit rare."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -31,11 +31,11 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes naissent avec cet aspect" }
   - { title: "NASA — Neptune facts", url: "https://science.nasa.gov/neptune/neptune-facts/", note: "une orbite d’environ 165 ans" }
 ---
-Vénus sextile Neptune, c’est l’imagination à portée de ce que vous aimez. Ce sextile n’inonde pas un thème comme peut le faire la conjonction : il ouvre une porte entre votre goût et vos rêves, et les rêves passent quand vous leur donnez quelque chose à faire.
+Vénus sextile Neptune met l’imagination à la disposition de ce que vous aimez. Ce sextile n’inonde pas un thème comme peut le faire la conjonction : il ouvre une porte entre votre goût et vos rêves, et les rêves passent quand vous leur donnez quelque chose à faire.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Vénus](/astrology/venus/) choisit et évalue : le goût, l’attirance, le donnant-donnant qui garde un lien équitable. [Neptune](/astrology/neptune/) élargit et adoucit : l’imagination, l’empathie, l’attrait de l’idéal. Reliées par un [sextile](/astrology/sextile/), les deux fonctions travaillent ensemble quand l’occasion s’y prête : l’imagination élève ce qui compte pour vous, ce qui compte lui donne un travail, mais seulement si vous y prenez part.
+[Vénus](/astrology/venus/) choisit et évalue : le goût, l’attirance, le donnant-donnant qui garde un lien équitable. [Neptune](/astrology/neptune/) élargit et adoucit : l’imagination, l’empathie, l’attrait de l’idéal. Avec un [sextile](/astrology/sextile/), les deux fonctions travaillent ensemble quand l’occasion s’y prête : l’imagination élève ce qui compte pour vous, ce qui compte lui donne un travail, mais seulement si vous y prenez part.
 
 Concrètement, votre sens du beau et votre capacité de compassion se parlent, et donnent le meilleur ensemble. Vous savez peut-être faire quelque chose de joli avec très peu, sentir un besoin avant qu’il soit dit, ou changer un désir vague en chanson, en jardin, en repas, en geste de bonté. Ce sextile adoucit aussi le jugement, utilement : vous pouvez aimer sans exiger la perfection, et pardonner sans faire comme si rien ne s’était passé. Le sextile garde la marée de Neptune à un niveau praticable : assez pour inspirer, rarement assez pour brouiller. Sa condition est celle de tout sextile : une inspiration qui ne sert pas reste une rêverie.
 
@@ -43,7 +43,7 @@ Quand je vois ce sextile, je demande ce que vous avez fait ou donné ces dernier
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Dans un thème, le sextile associe en général des éléments complémentaires : les deux planètes s’y rencontrent en alliées. Avec Vénus en Vierge et Neptune en Scorpion, une tendresse soigneuse gagne en profondeur et en intuition ; avec Vénus en Verseau et Neptune en Sagittaire, l’amitié et une foi large se nourrissent l’une l’autre. Le signe de Neptune marque votre génération : c’est la maison qui raconte l’histoire personnelle. Vénus en maison 3 en sextile avec Neptune en maison 5 pourrait donner à vos mots une veine poétique, et à votre travail créatif une voix douce.
+Dans un thème, le sextile associe en général des éléments complémentaires : les deux planètes s’y rencontrent en alliées. Avec Vénus en Vierge et Neptune en Scorpion, une tendresse soigneuse gagne en profondeur et en intuition ; avec Vénus en Verseau et Neptune en Sagittaire, l’amitié et une foi large se nourrissent l’une l’autre. Le signe de Neptune marque votre génération : c’est la maison qui raconte l’histoire personnelle. Vénus en maison 4 en sextile avec Neptune en maison 6 pourrait apporter une touche douce et imaginative à la vie du foyer, et un dévouement discret au travail de chaque jour.
 
 Environ 1 personne sur 15 naît avec Vénus et Neptune à moins de 6° d’un sextile exact. Près de l’exactitude, le lien entre le goût et l’imagination se voit facilement dans ce que vous choisissez et faites ; vers 6°, il attend qu’on l’appelle.
 
@@ -58,6 +58,6 @@ Entre deux thèmes, dans [Vénus sextile Neptune en synastrie](/astrology/venus-
 
 ## En transit {#en-transit}
 
-En [transit](/astrology/transits/), [Neptune en transit sextile Vénus du thème natal](/astrology/transiting-neptune-sextile-natal-venus/) peut arriver une fois dans une vie, ou jamais, selon la distance entre votre Vénus et votre Neptune, car Neptune ne parcourt qu’environ la moitié du zodiaque en quatre-vingts ans. Quand ce transit arrive, il reste un an ou deux : une saison douce pour l’art, la compassion, et un amour avec un peu plus d’imagination.
+En [transit](/astrology/transits/), [Neptune en transit sextile Vénus du thème natal](/astrology/transiting-neptune-sextile-natal-venus/) peut arriver une fois dans une vie, ou jamais : tout dépend de l’écart entre votre Vénus et votre Neptune, car Neptune ne couvre qu’à peu près la moitié du zodiaque en quatre-vingts ans. Quand ce transit arrive, il reste un an ou deux : une saison douce pour l’art, la compassion, et un amour avec un peu plus d’imagination.
 
 Une météo, pas une prédiction : une inspiration offerte, à suivre ou à laisser passer.

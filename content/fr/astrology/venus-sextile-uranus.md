@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 171
 glyph: "♀⚹♅"
-definition: "Vénus sextile Uranus signifie que votre thème place Vénus et Uranus à environ 60° d’écart, en général dans des éléments qui s’entendent. Dans un thème, ce sextile ouvre ce que vous aimez au changement, par petites doses bienvenues : nouveaux goûts, nouvelles amitiés, nouvelles façons d’aimer. Les ouvertures restent à saisir."
+definition: "Vénus sextile Uranus signifie que votre thème place Vénus et Uranus à environ 60° d’écart, le plus souvent dans deux éléments qui s’entendent. Dans un thème, ce sextile ouvre ce que vous aimez au changement, par petites doses bienvenues : nouveaux goûts, nouvelles amitiés, nouvelles façons d’aimer. Les ouvertures restent à saisir."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Uranus ♅" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -34,7 +34,7 @@ Vénus sextile Uranus, c’est le changement en amour qui vient sur invitation p
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Vénus](/astrology/venus/) choisit ce qui vaut la peine et garde les échanges équitables. [Uranus](/astrology/uranus/) expérimente : vous distinguer de la foule, réformer ce qui ne convient plus. Un [sextile](/astrology/sextile/) relie les deux par la coopération : l’envie de nouveau peut rafraîchir ce que vous aimez, et ce que vous aimez donne une direction à cette envie, pourvu que vous agissiez.
+[Vénus](/astrology/venus/) choisit ce qui vaut la peine et garde les échanges équitables. [Uranus](/astrology/uranus/) expérimente : vous distinguer de la foule, réformer ce qui ne convient plus. Un [sextile](/astrology/sextile/) relie les deux par la coopération : l’envie de nouveau peut rafraîchir vos attachements, et vos attachements donnent une direction à cette envie, pourvu que vous agissiez.
 
 Concrètement, vous mettez vos goûts à jour sans les jeter. Une personne de votre entourage vous fait découvrir une musique que vous n’auriez jamais choisie, et elle devient la vôtre ; une relation trouve un nouveau rythme au lieu de finir ; un groupe, une cause ou un nouvel outil devient le lieu où vous rencontrez des gens avec qui le courant passe. L’originalité, chez vous, n’a pas besoin de contrarier, ni l’indépendance de tenir les gens à distance. Même votre sens de l’équité tend à inventer : vous préférez trouver un nouvel arrangement qui convient à tout le monde plutôt que garder l’ancien, qui ne convient à personne.
 
@@ -42,7 +42,7 @@ Rien n’arrive sans votre oui. Laissé de côté, ce sextile n’est qu’une l
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Les signes en sextile appartiennent à des éléments complémentaires, et ce couple d’éléments dit comment le nouveau rejoint ce que vous aimez. Avec Vénus en Sagittaire et Uranus en Verseau, le signe moderne d’Uranus, l’amour du vaste monde rencontre l’amour du nouveau ; avec Vénus en Vierge et Uranus en Scorpion, une tendresse soigneuse gagne une profondeur inattendue. Le signe d’Uranus appartient à votre génération : c’est la maison qui porte l’histoire personnelle, et elle demande une heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Vénus en maison 11 en sextile avec Uranus en maison 1, par exemple, pourrait faire des amitiés le chemin par lequel vous découvrez qui vous devenez.
+Les signes en sextile appartiennent à des éléments complémentaires, et ce couple d’éléments dit comment le nouveau rejoint ce que vous aimez. Avec Vénus en Sagittaire et Uranus en Verseau, le signe moderne d’Uranus, l’amour du vaste monde rencontre l’amour du nouveau ; avec Vénus en Vierge et Uranus en Scorpion, une tendresse soigneuse gagne une profondeur inattendue. Le signe d’Uranus appartient à votre génération : l’histoire personnelle se lit donc dans la maison, que seule l’heure de naissance permet de situer ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Vénus en maison 11 en sextile avec Uranus en maison 1, par exemple, pourrait faire des amitiés le chemin par lequel vous découvrez qui vous devenez.
 
 Environ 1 personne sur 15 naît avec Vénus et Uranus à moins de 6° d’un sextile exact. À un ou deux degrés, l’ouverture au nouveau fait partie de votre façon d’aimer ; vers 6°, c’est une porte que vous remarquez de temps en temps.
 

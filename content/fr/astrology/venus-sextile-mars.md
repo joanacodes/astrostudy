@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 156
 glyph: "♀⚹♂"
-definition: "Vénus sextile Mars signifie qu’à votre naissance, Vénus et Mars étaient à environ 60° d’écart, en général dans des signes d’éléments complémentaires. Dans un thème, ce sextile fait coopérer le goût et la poursuite, souvent sous la forme d’un don pour le premier pas bienvenu. Comme tout sextile, il agit quand vous vous en servez."
+definition: "Vénus sextile Mars signifie qu’un sixième du cercle, environ 60°, séparait Vénus et Mars à votre naissance, le plus souvent entre deux éléments complémentaires. Dans un thème, ce sextile fait coopérer le goût et la poursuite, souvent sous la forme d’un don pour le premier pas bienvenu. Comme tout sextile, celui-ci ne travaille que si vous vous en servez."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Mars ♂" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -35,7 +35,7 @@ Vénus sextile Mars est la plus courante des cinq façons dont ces deux planète
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Vénus](/astrology/venus/) juge ce qui vaut la peine et veille à ce que l’échange reste juste ; [Mars](/astrology/mars/) apporte l’initiative d’aller le chercher. Un [sextile](/astrology/sextile/) relie les deux par l’occasion : chaque fonction peut mettre l’autre en marche, mais seulement quand quelque chose, ou quelqu’un, offre la chance, et que vous la saisissez.
+[Vénus](/astrology/venus/) juge ce qui vaut la peine et veille à ce que l’échange reste juste ; [Mars](/astrology/mars/) apporte l’initiative d’aller le chercher. Un [sextile](/astrology/sextile/) les associe par l’occasion : chaque fonction peut mettre l’autre en marche, mais seulement quand quelque chose, ou quelqu’un, offre la chance, et que vous la saisissez.
 
 Concrètement, le goût peut devenir un pas sans devenir une campagne. Vous proposez la promenade, offrez votre aide, lancez la conversation, posez une proposition sur la table, et votre manière de le faire laisse en général à l’autre la place de dire oui. L’effort pèse moins quand il sert quelque chose qui vous plaît, et le plaisir s’anime quand il y a quelque chose à faire. Cela va bien au-delà de l’amour : l’amitié, les équipes, partout où un premier pas doit être à la fois clair et aimable.
 
@@ -43,9 +43,9 @@ La condition est inscrite dans l’aspect. Un sextile est un potentiel qui deman
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Dans un thème, le sextile relie en général deux signes d’éléments complémentaires, le feu avec l’air ou la terre avec l’eau : Vénus et Mars parlent alors deux langues différentes, mais compatibles. Avec Vénus en Gémeaux et Mars en Lion, vous aimez avec des mots et agissez avec chaleur ; avec Vénus en Scorpion et Mars en Capricorne, l’affection prend la forme d’un effort loyal et concret. Les maisons sont en général à deux d’écart, et l’une nourrit l’autre : Vénus en maison 3 et Mars en maison 5 pourraient changer une bonne conversation en projet commun, ou en rendez-vous.
+Dans un thème, le sextile réunit d’habitude deux signes d’éléments complémentaires, le feu et l’air, ou bien la terre et l’eau : Vénus et Mars parlent alors deux langues différentes, mais compatibles. Avec Vénus en Gémeaux et Mars en Lion, vous aimez avec des mots et agissez avec chaleur ; avec Vénus en Scorpion et Mars en Capricorne, l’affection prend la forme d’un effort loyal et concret. Les maisons sont en général à deux d’écart, et l’une nourrit l’autre : Vénus en maison 9 et Mars en maison 11 pourraient changer le goût d’apprendre en projet entre amis, ou une amitié en rendez-vous.
 
-Environ 1 personne sur 11 naît avec Vénus et Mars à moins de 6° d’un sextile exact : c’est le plus courant des aspects de la paire. À un ou deux degrés près, le don se voit facilement ; vers 6°, il est là quand vous le cherchez. Vénus va plus vite que Mars presque tout le temps, et c’est elle qui fait varier l’angle.
+Environ 1 personne sur 11 naît avec Vénus et Mars à moins de 6° d’un sextile exact : c’est le plus courant des aspects de la paire. Serré à un ou deux degrés, le sextile montre son don facilement ; vers 6°, il est là quand vous le cherchez. Vénus va plus vite que Mars presque tout le temps, et c’est elle qui fait varier l’angle.
 
 Un sextile est l’exemple le plus simple de ce que j’appelle une tendance plutôt qu’un destin : il décrit ce qui est disponible, et vous décidez de ce que vous en faites ([ma méthode](/how-i-read/)).
 
@@ -60,6 +60,6 @@ Entre deux thèmes, dans [Vénus sextile Mars en synastrie](/astrology/venus-sex
 
 ## En transit {#en-transit}
 
-En [transit](/astrology/transits/), deux fois par an environ, l’espace d’un jour ou deux, Vénus, dans le ciel, forme un sextile avec Mars dans votre thème natal : un bon moment pour proposer le projet que vous retournez dans votre tête. Mars forme un sextile avec votre Vénus natale environ une fois par an, et s’attarde quelques jours de plus, car Mars avance moins vite : une énergie qui glisse sans effort vers ce qui vous plaît.
+En [transit](/astrology/transits/), à peu près deux fois par an, pour un jour ou deux, Vénus, en chemin, se place à 60° de Mars dans votre thème natal : un bon moment pour proposer le projet que vous retournez dans votre tête. Dans l’autre sens, une fois par an environ, Mars vient à 60° de votre Vénus natale et s’y attarde un peu plus, au rythme plus lent de Mars : une énergie qui glisse sans effort vers ce qui vous plaît.
 
 Une météo, pas une prédiction : une ouverture dans la semaine, à prendre ou à laisser, et rien de plus.

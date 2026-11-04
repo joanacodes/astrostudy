@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 157
 glyph: "♀□♂"
-definition: "Venus square Mars means Venus and Mars stood about 90° apart when you were born, usually in signs of the same modality. In a chart, what you like and the way you go after it keep different schedules, so you learn to time them. I read it as friction that teaches fair asking, never as conflict written in."
+definition: "Venus square Mars means Venus and Mars stood about 90° apart when you were born, mostly in two signs of one modality. In a chart, liking and pursuing keep different schedules, so you learn to time them. It's friction that teaches fair asking, as I read it, never a conflict written in."
 facts:
   - { k: "Bodies", v: "Venus ♀ and Mars ♂" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/mars", "/astrology/square", "/astrology/venus-trine-mars", "/astrology/venus-square-mars-synastry"]
 faq:
   - q: "What does Venus square Mars mean in a birth chart?"
-    a: "A quarter of the circle separated Venus and Mars at your birth. Liking and pursuing don’t always arrive together: you may chase what you’re unsure you value, or hold back from what you plainly love. I read it as friction that teaches timing, and asking clearly without tipping the exchange."
+    a: "A quarter of the circle separated Venus and Mars at your birth. Liking and pursuing don’t always arrive together: you may chase what you’re unsure you value, or hold back from what you plainly love. What I see in it is friction that teaches timing, and asking clearly without tipping the exchange."
   - q: "Is Venus square Mars a bad aspect?"
     a: "No. A square is friction, and friction isn’t failure. This one rubs your liking against your wanting, which can be uncomfortable and is also how you learn what you actually want and how to ask for it. Over time it often becomes a strength: knowing your mind and staying fair."
   - q: "Does Venus square Mars mean arguments in relationships?"
@@ -30,7 +30,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people are born with it" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-Venus square Mars sets what you like and the way you go after it a quarter of the circle apart. The two don't keep the same schedule: desire may come before affection, or affection without the nerve to act, and much of this square's work is learning to time them.
+Venus square Mars sets liking and pursuing a quarter of the circle apart. The two don't keep the same schedule: desire may come before affection, or affection without the nerve to act, and much of this square's work is learning to time them.
 
 ## What it means {#what-it-means}
 
@@ -42,7 +42,7 @@ There's spark in it too. Friction between wanting and liking is lively, which is
 
 ## In a birth chart {#in-a-birth-chart}
 
-In a chart, a square usually joins two signs of the same modality, so your Venus and Mars share a pace and disagree about the rest. With Venus in Cancer and Mars in Aries, both cardinal and quick to begin, care wants to shelter while drive wants to charge. With Venus in Taurus and Mars in Leo, both fixed, comfort and pride are each hard to move. The houses show where the friction is felt: Venus in the 7th square Mars in the 10th might set partnership and ambition asking for the same evenings.
+In a chart, the two planets usually share a modality, cardinal, fixed or mutable, and that sets the rhythm of the rub. With Venus in Cancer and Mars in Aries, both cardinal and quick to begin, care wants to shelter while drive wants to charge. With Venus in Taurus and Mars in Leo, both fixed, comfort and pride are each hard to move. The houses show where the friction is felt: Venus in the 7th square Mars in the 10th might set partnership and ambition asking for the same evenings.
 
 About 1 person in 15 is born with Venus and Mars within 6° of a square. Exact or close to it, the rub is part of most days; at 5° or 6°, it tends to surface under pressure, when you want something badly. Venus held about a third of the time in [my notebook](/blog/i-tested-my-birth-chart/), so I offer this square as a tendency to test against your own life, not as a verdict.
 
@@ -57,6 +57,6 @@ Between two charts, [Venus square Mars in synastry](/astrology/venus-square-mars
 
 ## In transits {#in-transits}
 
-In [transits](/astrology/transits/), twice a year, for a day or two, Venus moving through the sky squares your natal Mars: a moment when what you'd enjoy and what you're pushing for don't line up. About once a year Mars returns the angle, squaring your natal Venus for several days, longer if it turns retrograde nearby: drive that tests what you value, or a pleasure that asks for more patience than you'd like.
+In [transits](/astrology/transits/), Venus moving through the sky squares your natal Mars twice a year, a day or two each time: a moment when what you'd enjoy and what you're pushing for don't line up. About once a year Mars returns the angle, squaring your natal Venus for several days, longer if it turns retrograde nearby: drive that tests what you value, or a pleasure that asks for more patience than you'd like.
 
 Weather, not a forecast: a few days of friction worth noticing, never a sign that something will go wrong.

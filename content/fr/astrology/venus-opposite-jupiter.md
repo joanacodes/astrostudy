@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 164
 glyph: "♀☍♃"
-definition: "Vénus opposition Jupiter signifie que 180° environ séparaient Vénus et Jupiter à votre naissance, de part et d’autre du zodiaque. Dans un thème, ce que vous aimez tout près fait face à ce qui vous appelle plus loin : le plaisir ici, le sens là-bas. J’y lis un équilibre, trouvé lentement, entre apprécier ce qui est et chercher davantage."
+definition: "Vénus opposition Jupiter signifie que 180° environ séparaient Vénus et Jupiter à votre naissance, de part et d’autre du zodiaque. Dans un thème, ce qui vous comble tout près fait face à ce qui vous appelle plus loin : le plaisir ici, le sens là-bas. J’y lis un équilibre, trouvé lentement, entre apprécier ce qui est et chercher davantage."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Jupiter ♃" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -23,28 +23,28 @@ faq:
   - q: "Vénus opposition Jupiter, est-ce une relation à distance ?"
     a: "Aucun thème n’en décide. Cette opposition peut se montrer comme une attirance pour le lointain, l’étranger ou l’inconnu, et pour les personnes qui élargissent votre monde. Que cela prenne la forme de la distance, du voyage ou simplement d’une relation avec quelqu’un aux idées très différentes, c’est votre histoire : l’aspect ne la prédit pas."
   - q: "Est-ce que Vénus opposition Jupiter nuit aux relations ?"
-    a: "Pas dans ma lecture. Une opposition est une polarité, pas une lutte : ici, ce que vous aimez maintenant fait face à ce que vous espérez devenir. Dans une relation, cela peut ressembler à deux personnes aux horizons différents, et cela peut aussi faire de chacune celle qui ouvre le monde de l’autre."
+    a: "Pas dans ma lecture. Polarité ne veut pas dire lutte : ici, ce que vous aimez maintenant fait face à ce que vous espérez devenir. Dans une relation, cela peut ressembler à deux personnes aux horizons différents, et cela peut aussi faire de chacune celle qui ouvre le monde de l’autre."
   - q: "Quelle différence entre Vénus opposition Jupiter et Vénus carré Jupiter ?"
-    a: "Le carré pose une question de mesure : une générosité qui dépasse ce qu’elle peut tenir. L’opposition pose une question de direction : le proche et le lointain, le plaisir et le sens, face à face d’un bout à l’autre du thème. Le carré apprend la proportion ; l’opposition apprend à faire tenir les deux bouts dans une seule vie."
+    a: "Le carré pose une question de mesure : une générosité qui dépasse ce qu’elle peut tenir. L’opposition pose une question de direction : le proche et le lointain, le plaisir et le sens, de part et d’autre du thème. Le carré apprend la proportion ; l’opposition apprend à faire tenir les deux bouts dans une seule vie."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’opposition, l’un de ses quatre aspects, et les signes de Jupiter" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes naissent avec cet aspect" }
 ---
-Vénus opposition Jupiter tend une ligne à travers le thème, entre ce que vous aimez tout près et ce qui appelle de plus loin. C’est le plus rare des cinq aspects de la paire, et celui où la générosité doit apprendre l’équilibre.
+Vénus opposition Jupiter relie, d’un bout à l’autre du thème, ce que vous aimez tout près et ce qui vous appelle de plus loin. C’est le plus rare des cinq aspects de la paire, et celui où la générosité doit apprendre l’équilibre.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
 [Vénus](/astrology/venus/) évalue et relie : l’attirance, ce que vous garderiez, la personne assise en face de vous. [Jupiter](/astrology/jupiter/) cherche le sens et l’élargissement : la vue d’ensemble, l’horizon lointain, ce que vous croyez. Mises en [opposition](/astrology/opposition/), les deux fonctions deviennent les pôles d’un même axe : chacune rend l’autre plus visible, et le travail consiste à intégrer, non à gagner.
 
-Concrètement, le plaisir qui est devant vous et le sens que vous cherchez peuvent tirer en sens contraires. Une soirée confortable se dispute avec la formation que vous aimeriez suivre ; une relation qui vous convient aujourd’hui, avec une idée de la façon dont la vie devrait grandir ; l’amour du proche, avec la faim du lointain. Vous oscillez parfois entre savourer et chercher. Souvent, vous rencontrez le bout de Jupiter chez les autres avant de le faire vôtre : une personne qui enseigne, qui voyage, qui a la foi large ou la main ouverte, et qui semble porter la vue plus vaste que vous cherchez.
+Concrètement, le plaisir qui est devant vous et le sens que vous cherchez peuvent tirer en sens contraires. Une soirée confortable se dispute avec la formation que vous aimeriez suivre ; une relation qui vous convient aujourd’hui, avec une idée de la façon dont la vie devrait grandir ; l’amour du proche, avec la faim du lointain. Vous oscillez parfois entre savourer et chercher. Souvent, le bout de Jupiter se montre d’abord chez les autres, et ne devient vôtre qu’ensuite : une personne qui enseigne, qui voyage, qui a la foi large ou la main ouverte, et qui semble porter la vue plus vaste que vous cherchez.
 
 Aucun des deux bouts n’est le bon. Le plaisir sans le sens devient fade, et le sens sans le plaisir devient aride. L’opposition demande les deux, et avec le temps elle aide souvent à faire entrer le lointain dans le proche : une vue plus large, savourée chez soi.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Dans un thème, les deux planètes occupent des signes opposés, qui partagent un mode. Avec Vénus en Gémeaux face à Jupiter en Sagittaire, le signe que gouverne Jupiter, le goût de la variété et de la conversation fait face à la faim d’une seule grande vue ; avec Vénus en Taureau en face de Jupiter en Scorpion, le confort fait face à la profondeur. Les maisons peuvent rendre cela littéral : Vénus en maison 3 et Jupiter en maison 9 opposent le voisinage à l’horizon lointain ; Vénus en maison 7 et Jupiter en maison 1, la grâce que vous cherchez chez vos partenaires et la croissance que vous trouvez en étant vous-même. L’axe de maisons sur lequel court la ligne dépend de votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Dans un thème, Vénus et Jupiter prennent deux signes opposés, et deux signes opposés appartiennent toujours au même mode. Avec Vénus en Vierge, en face de Jupiter en Poissons, l’un des signes traditionnels de Jupiter, le goût du détail juste fait face à une foi sans limites ; avec Vénus en Taureau en face de Jupiter en Scorpion, le confort fait face à la profondeur. Les maisons peuvent rendre cela littéral : Vénus en maison 6 et Jupiter en maison 12 opposent les petits plaisirs du travail quotidien à une foi vaste et intime ; Vénus en maison 7 et Jupiter en maison 1, la grâce que vous cherchez chez vos partenaires et la croissance que vous trouvez en étant vous-même. Pour savoir sur quel axe de maisons court la ligne, il faut l’heure précise de la naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Environ 1 personne sur 36 naît avec Vénus et Jupiter à moins de 6° d’une opposition exacte, moins que pour tous les autres aspects de la paire. À un ou deux degrés près, le proche et le lointain sont une conversation permanente ; vers 6°, elle va et vient.
+Environ 1 personne sur 36 naît avec Vénus et Jupiter à moins de 6° d’une opposition exacte, moins que pour tous les autres aspects de la paire. Quand l’aspect est serré, le proche et le lointain sont une conversation permanente ; vers 6°, elle va et vient.
 
 Vénus et Jupiter sous leurs autres angles :
 

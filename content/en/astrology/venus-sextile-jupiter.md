@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/jupiter", "/astrology/sextile", "/astrology/venus-sextile-jupiter-synastry", "/astrology/transiting-jupiter-sextile-natal-venus"]
 faq:
   - q: "What does Venus sextile Jupiter mean in a birth chart?"
-    a: "At your birth, Venus and Jupiter stood about 60° apart. What you enjoy and what helps you grow can cooperate: a pleasure turns into a subject, a friendship into a wider world. I read it as a talent for saying yes to the slightly larger version of what you already love."
+    a: "At your birth, Venus and Jupiter stood about 60° apart. What you enjoy and what helps you grow can cooperate: a pleasure turns into a subject, a friendship into a wider world. To me it’s a talent for saying yes to the slightly larger version of what you already love."
   - q: "Is Venus sextile Jupiter lucky?"
     a: "I don’t read Jupiter as luck, and I read a sextile as an opening, no more. What this one gives is a habit of noticing where enjoyment could lead, and the warmth to go there with other people. The openings are real; whether you take them, and what comes of it, isn’t written in the chart."
   - q: "What does Venus sextile Jupiter do in relationships?"
@@ -33,7 +33,7 @@ Venus sextile Jupiter is a friendly angle between the planet of what you enjoy a
 
 ## What it means {#what-it-means}
 
-[Venus](/astrology/venus/) weighs value and attraction: what you like, whom you like, what feels fair. [Jupiter](/astrology/jupiter/) widens: it seeks meaning, learns, and makes room for more. A [sextile](/astrology/sextile/) relates the two through opportunity and cooperation: each can wake the other, as long as you take part.
+[Venus](/astrology/venus/) weighs value and attraction: what you like, whom you like, what feels fair. [Jupiter](/astrology/jupiter/) widens: it seeks meaning, learns, and makes room for more. A [sextile](/astrology/sextile/) links them by opportunity and cooperation: each can wake the other, as long as you take part.
 
 In plain words, your pleasures tend to lead somewhere. A class you take for fun becomes a field of interest; a friend's invitation becomes a trip that changes your view; a taste for something beautiful becomes knowing why it's beautiful. Generosity runs the same road the other way: being open-handed with others tends to widen your own world too. None of this happens by itself. This sextile waits for a yes, and specifically a yes to the slightly larger version of what you already enjoy.
 

@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 163
 glyph: "♀△♃"
-definition: "Vénus trigone Jupiter signifie que votre thème place Vénus et Jupiter à environ 120° d’écart, le plus souvent dans des signes d’un même élément. Dans un thème, ce trigone fait couler ensemble vos goûts et votre élan de croissance : l’appréciation vient facilement, la bienveillance aussi. L’aisance est réelle ; j’y lis une ressource, jamais une chance."
+definition: "Vénus trigone Jupiter signifie que votre thème place Vénus et Jupiter à 120° environ, d’ordinaire dans deux signes du même élément. Dans un thème, ce trigone fait couler ensemble vos goûts et votre élan de croissance : l’appréciation vient facilement, la bienveillance aussi. L’aisance est réelle ; j’y lis une ressource, jamais une chance."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Jupiter ♃" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -24,17 +24,17 @@ faq:
     a: "Aucun aspect n’est le meilleur pour l’amour, parce qu’un thème ne décide ni de qui vous aimerez ni de la suite. Ce trigone apporte souvent de la générosité, de l’appréciation et une présence facile, ce qui aide tout lien. Le reste dépend de deux personnes, et de bien plus qu’un angle entre deux planètes."
   - q: "Est-ce que Vénus trigone Jupiter pousse à se reposer sur ses lauriers ?"
     a: "Cela peut arriver, en douceur. Un trigone ne pousse pas : les bonnes choses risquent d’aller de soi, ou le oui facile de Jupiter de l’emporter sur le jugement de Vénus. Mais la fluidité n’est pas la passivité : le trigone travaille mieux quand vous décidez quoi faire grandir, au lieu de laisser grandir ce qui est le plus proche."
-  - q: "Quelle différence entre Vénus trigone Jupiter et Vénus conjonction Jupiter ?"
-    a: "Dans la conjonction, les deux planètes agissent comme une seule : le goût et la croissance arrivent à plein volume, dans un même signe. Dans le trigone, un tiers de cercle sépare les deux planètes, et les deux se soutiennent sans se fondre : la générosité est plus discrète, et plus facile à orienter."
+  - q: "Est-ce que Vénus trigone Jupiter pèse plus lourd que Vénus conjonction Jupiter ?"
+    a: "Pas plus lourd : plus discret. Dans la conjonction, les deux planètes agissent comme une seule : le goût et la croissance arrivent à plein volume, dans un même signe. Dans le trigone, un tiers de cercle sépare les deux planètes, et les deux se soutiennent sans se fondre : la générosité se fait plus douce, et plus facile à orienter."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les bénéfiques, les exaltations, et le trigone, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes naissent avec cet aspect" }
 ---
-Vénus trigone Jupiter, c’est la rencontre tranquille des deux bénéfiques de la tradition, à un tiers de cercle d’écart, en général dans un même élément, et qui coopèrent sans qu’on le demande. Dans un thème, ce trigone décrit une chaleur qui voit volontiers ce qui est bon, et lui fait de la place.
+Vénus trigone Jupiter, c’est la rencontre tranquille des deux bénéfiques de la tradition, avec un tiers de cercle d’écart et, le plus souvent, un élément en commun : une coopération qui n’attend pas qu’on la demande. Dans un thème, ce trigone décrit une chaleur qui voit volontiers ce qui est bon, et lui fait de la place.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Vénus](/astrology/venus/) évalue : l’attirance, le plaisir, l’équilibre du donnant-donnant. [Jupiter](/astrology/jupiter/) élargit la compréhension et soutient la croissance. Un [trigone](/astrology/trine/) relie les deux par la fluidité : aucune des deux fonctions ne remplace l’autre, mais chacune rend l’autre plus facile à employer.
+[Vénus](/astrology/venus/) évalue : l’attirance, le plaisir, l’équilibre du donnant-donnant. [Jupiter](/astrology/jupiter/) élargit la compréhension et soutient la croissance. Par un [trigone](/astrology/trine/), tout circule entre les deux : aucune des deux fonctions ne remplace l’autre, mais chacune rend l’autre plus facile à employer.
 
 Concrètement, aimer et grandir voyagent ensemble. Vous savourez plus volontiers que la plupart ce qui vous fait du bien, vous voyez le meilleur d’une situation sans faire semblant, et vous encouragez sans compter : on repart souvent de votre compagnie avec un peu plus de confiance. Le goût s’élargit avec l’expérience au lieu de se resserrer : ce que vous aimiez à vingt ans est toujours là, et d’autres choses l’ont rejoint. Sur le papier, c’est à peu près le plus doux des contacts : la tradition comptait les deux planètes parmi les bénéfiques, et le trigone parmi les aspects harmonieux. J’y lis un talent, et un talent demande à servir.
 
@@ -51,12 +51,12 @@ Les autres angles entre les deux planètes, pour comparer :
 - **[Vénus conjonction Jupiter](/astrology/venus-conjunct-jupiter/) :** les deux planètes ensemble dans un même signe ; la générosité à son plus fort.
 - **[Vénus sextile Jupiter](/astrology/venus-sextile-jupiter/) :** une coopération qui attend votre oui ; un goût qui grandit quand vous le suivez.
 - **[Vénus carré Jupiter](/astrology/venus-square-jupiter/) :** les deux à angle droit ; une générosité qui apprend encore sa taille.
-- **[Vénus opposition Jupiter](/astrology/venus-opposite-jupiter/) :** les deux aux deux bouts du thème ; ce que vous aimez et ce que vous croyez, qui demandent un équilibre.
+- **[Vénus opposition Jupiter](/astrology/venus-opposite-jupiter/) :** les deux aux deux bouts du thème ; vos goûts et vos convictions, qui demandent un équilibre.
 
-Entre deux thèmes, [Vénus trigone Jupiter en synastrie](/astrology/venus-trine-jupiter-synastry/) ressemble souvent à une bonne compagnie dès le début : l’appréciation de l’une des deux personnes rencontre sans frottement la générosité de l’autre. Même un contact facile ne se vit pas pareil des deux côtés : je lis donc les deux thèmes.
+Entre deux thèmes, [Vénus trigone Jupiter en synastrie](/astrology/venus-trine-jupiter-synastry/) ressemble souvent à une bonne compagnie dès le début : l’appréciation d’une personne rencontre sans frottement la générosité de l’autre. Même un contact facile ne se vit pas pareil des deux côtés : je lis donc les deux thèmes.
 
 ## En transit {#en-transit}
 
-En [transit](/astrology/transits/), [Jupiter en transit trigone Vénus du thème natal](/astrology/transiting-jupiter-trine-natal-venus/) survient quatre ans environ après le passage de Jupiter sur votre Vénus, puis de nouveau quatre ans plus tard, et reste des semaines, parfois des mois : une période où l’appréciation se donne et se reçoit facilement.
+En [transit](/astrology/transits/), [Jupiter en transit trigone Vénus du thème natal](/astrology/transiting-jupiter-trine-natal-venus/) survient environ quatre ans après la conjonction de Jupiter à votre Vénus, puis encore quatre ans plus tard, et reste des semaines, parfois des mois : une période où l’appréciation se donne et se reçoit facilement.
 
 Une météo, pas une prédiction : une saison agréable, qui mérite d’être remarquée, sans aucune promesse sur l’amour ou l’argent.

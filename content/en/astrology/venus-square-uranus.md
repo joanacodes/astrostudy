@@ -22,7 +22,7 @@ faq:
   - q: "Does Venus square Uranus mean I can’t commit?"
     a: "No. It describes a need for space and change within commitment, not an inability to commit. This square tends to commit best to relationships that leave each person free to grow. Saying so early, and choosing changes together, tends to matter more than the promise itself."
   - q: "Does Venus square Uranus make relationships unpredictable?"
-    a: "It can bring surprises, in who attracts you and in how bonds change shape. But Uranus describes reform, not chaos, and the square describes friction that pushes you to adapt. Over time, the unpredictability tends to become flexibility: relationships that can change without ending."
+    a: "It can bring surprises, in who attracts you and in how bonds change shape. But Uranus stands for reform rather than chaos, and a square for friction that pushes you to adapt. Over time, the unpredictability tends to become flexibility: relationships that can change without ending."
   - q: "How do you work with Venus square Uranus?"
     a: "By giving the need for freedom a place instead of a fight: time of your own, new experiences shared, changes agreed rather than sprung. It also helps to notice when restlessness is about the relationship and when it’s about the rest of life. The square asks for honest design, not for leaving."
 sources:
@@ -41,7 +41,7 @@ When this square is loud in a chart, I don't tell anyone to stay or to go. I ask
 
 ## In a birth chart {#in-a-birth-chart}
 
-Squares usually link signs that share a modality, and the modality colours the rub. With Venus in Taurus and Uranus in Leo or Aquarius, all fixed, a love of the familiar meets a stubborn need to be different, and neither likes to move first. With Venus in Cancer and Uranus in Aries or Libra, all cardinal, care and independence each want to start things their own way. In the houses, Venus in the 4th square Uranus in the 7th might set the wish for a settled home against partnerships that keep changing shape.
+Squares usually link signs that share a modality, and the modality colours the rub. With Venus in Taurus and Uranus in Leo or Aquarius, all fixed, a love of the familiar meets a stubborn need to be different, and neither likes to move first. With Venus in Cancer and Uranus in Aries or Libra, all cardinal, care and independence each want to start things their own way. In the houses, Venus in the 3rd square Uranus in the 6th might set the pleasure of easy conversation against daily routines that keep changing shape.
 
 About 1 person in 15 is born with Venus and Uranus within 6° of a square. Close to exact, the question of closeness and room tends to come up in every important bond; with a wider orb, mostly at turning points.
 

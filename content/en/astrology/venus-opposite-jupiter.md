@@ -22,28 +22,28 @@ faq:
   - q: "Does Venus opposite Jupiter mean a long-distance relationship?"
     a: "No chart decides that. This opposition can show as an attraction to the far, the foreign or the unfamiliar, and to people who widen your world. Whether that means distance, travel or simply a partner with very different ideas is your story to live, not the aspect’s to predict."
   - q: "Is Venus opposite Jupiter bad for relationships?"
-    a: "Not as I read it. An opposition is a polarity, not a fight: here, what you enjoy now faces what you hope to grow into. In a relationship that can feel like two people with different horizons, and it can also make each of you the one who opens the other’s world."
+    a: "Not as I read it. Polarity isn’t a fight: here, what you enjoy now faces what you hope to grow into. In a relationship that can feel like two people with different horizons, and it can also make each of you the one who opens the other’s world."
   - q: "How is Venus opposite Jupiter different from Venus square Jupiter?"
     a: "The square is a question of measure: generosity outrunning what it can keep. The opposition is a question of direction: the near and the far, pleasure and meaning, facing each other across the chart. The square teaches proportion; the opposition teaches you to bring both ends into one life."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the opposition, one of his four aspects, and Jupiter’s signs" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people are born with it" }
 ---
-Venus opposite Jupiter stretches a line across the chart between what you enjoy close at hand and what calls from further off. It's the rarest of the pair's five aspects, and the one in which generosity has to learn balance.
+Venus opposite Jupiter sets what you enjoy close at hand across the chart from what calls from further off. It's the rarest way for these two to meet, and the one in which generosity has to learn balance.
 
 ## What it means {#what-it-means}
 
 [Venus](/astrology/venus/) values and relates: what attracts you, what you'd keep, the person across the table. [Jupiter](/astrology/jupiter/) seeks meaning and room to grow: the bigger picture, the far horizon, what you believe. Set in [opposition](/astrology/opposition/), the two become poles of one axis: each throws light on the other, and the work is integration, not victory.
 
-In plain words, the pleasure in front of you and the meaning you're reaching for can pull in opposite directions. A comfortable evening argues with the course you'd like to take; a relationship that suits you now argues with a belief about how life should grow; a love of the near argues with a hunger for the far. You may swing between savouring and seeking. Often you meet Jupiter's end in other people before you claim it: the teacher, the traveller, the friend with a large faith or an open hand, who seems to carry the wider view you're after.
+In plain words, the pleasure in front of you and the meaning you're reaching for can pull in opposite directions. A comfortable evening argues with the course you'd like to take; a relationship that suits you now argues with a belief about how life should grow; a love of the near argues with a hunger for the far. You may swing between savouring and seeking. Often Jupiter's end shows up first in other people, and only later as your own: the teacher, the traveller, the friend with a large faith or an open hand, who seems to carry the wider view you're after.
 
 Neither end is the right one. Enjoyment without meaning goes flat, and meaning without enjoyment goes dry. The opposition asks for both, and with time it often makes you good at bringing the far into the near: a larger view, enjoyed at home.
 
 ## In a birth chart {#in-a-birth-chart}
 
-In a chart, the two planets sit in opposite signs that share a modality. With Venus in Gemini facing Jupiter in Sagittarius, the sign Jupiter rules, a love of variety and conversation faces a hunger for one big picture; with Venus in Taurus across from Jupiter in Scorpio, comfort faces depth. The houses can make it literal: Venus in the 3rd with Jupiter in the 9th sets the neighbourhood against the far horizon; Venus in the 7th with Jupiter in the 1st, the grace you look for in partners against the growth you find by being yourself. Which pair of houses the line runs across depends on your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+In a chart, Venus and Jupiter take opposite signs, which always belong to the same modality. With Venus in Virgo facing Jupiter in Pisces, a sign the tradition gives Jupiter, a love of the precise detail faces a boundless faith; with Venus in Taurus across from Jupiter in Scorpio, comfort faces depth. The houses can make it literal: Venus in the 6th with Jupiter in the 12th sets the small pleasures of daily work against a wide, private faith; Venus in the 7th with Jupiter in the 1st, the grace you look for in partners against the growth you find by being yourself. Which pair of houses the line runs across needs the hour you were born ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-About 1 person in 36 is born with Venus and Jupiter within 6° of an opposition, fewer than for any of the pair's other aspects. When the opposition is close, the near and the far are a constant conversation; near 6°, it comes and goes.
+About 1 person in 36 is born with Venus and Jupiter within 6° of an opposition, the lowest count of the pair's five aspects. When the opposition is close, the near and the far are a constant conversation; near 6°, it comes and goes.
 
 Venus and Jupiter at their other angles:
 

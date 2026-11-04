@@ -55,6 +55,6 @@ Between two charts, [Venus conjunct Neptune in synastry](/astrology/venus-conjun
 
 ## In transits {#in-transits}
 
-In [transits](/astrology/transits/), [Transiting Neptune conjunct natal Venus](/astrology/transiting-neptune-conjunct-natal-venus/) arrives at most once in a lifetime, since Neptune takes about 165 years to go round, and stays a year or two, coming and going as Neptune turns retrograde: a season when love and beauty feel larger, and edges softer. If the conjunction is yours, a related season comes around 41 instead, at the [Neptune square](/astrology/neptune-square/), when Neptune, a quarter of the way round, squares your Venus along with its own starting point.
+In [transits](/astrology/transits/), [Transiting Neptune conjunct natal Venus](/astrology/transiting-neptune-conjunct-natal-venus/) arrives at most once in a lifetime, since Neptune needs about 165 years for one circuit, and stays a year or two, coming and going as Neptune turns retrograde: a season when love and beauty feel larger, and edges softer. If the conjunction is yours, a related season comes around 41 instead, at the [Neptune square](/astrology/neptune-square/), when Neptune, having covered a quarter of its circuit, squares your Venus along with its own starting point.
 
 Weather, not a forecast: a long, gentle season that softens things, never one that decides them.

@@ -2,7 +2,7 @@
 title: "Saturne en Balance"
 slug: "saturne-en-balance"
 h1: "Saturne en Balance dans un thème natal"
-description: "Saturne en Balance dans un thème natal : Saturne en exaltation dans l’air cardinal, un sens aigu de la justice et des engagements qui mûrissent lentement."
+description: "Saturne en Balance dans un thème natal : l’exaltation de Saturne dans l’air cardinal, un sens aigu de la justice et des engagements qui mûrissent lentement."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -19,13 +19,13 @@ facts:
 related: ["/astrology/saturn", "/astrology/libra", "/astrology/exaltation", "/astrology/venus", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire Saturne en Balance ?"
-    a: "Un sens de l’équité qui a la mémoire longue. Avec Saturne en Balance, l’engagement, la justice et l’équilibre sont les longues leçons : ce que vous devez aux autres, ce qu’ils vous doivent, et comment garder l’équilibre sans tenir les comptes. Les relations mûrissent lentement, puis elles tiennent. La maison de Saturne montre où pend votre balance."
+    a: "Un sens de l’équité qui a la mémoire longue. Avec Saturne en Balance, l’engagement, la justice et l’équilibre sont les longues leçons : ce que vous devez aux autres, ce qu’ils vous doivent, et comment garder l’équilibre sans tenir les comptes. Les relations mûrissent lentement, puis elles tiennent. Votre balance pend dans la maison de Saturne."
   - q: "Pourquoi la Balance est-elle l’exaltation de Saturne ?"
     a: "Ptolémée donne la Balance comme exaltation de Saturne, et le Bélier, en face, comme sa chute. On l’explique d’ordinaire ainsi : les règles marchent le mieux quand les deux parties les ont acceptées, et la Balance est le signe de l’accord. J’y lis un sens de la justice fort, parfois lourd, et la patience du compromis."
   - q: "Pourquoi trouve-t-on moins souvent Saturne en Balance ?"
     a: "Entre 1930 et 2009, Saturne n’a traversé la Balance en entier que deux fois, en 1950–1953 et en 1980–1983 ; le troisième séjour a commencé en octobre 2009, tout à la fin de la période. D’où environ 1 personne sur 16 parmi les naissances de ces années, moins que pour la plupart des signes de Saturne."
   - q: "Quelles années ont connu Saturne en Balance ?"
-    a: "De novembre 1950 à octobre 1953, de septembre 1980 à août 1983 et d’octobre 2009 à octobre 2012, puis de nouveau à partir de septembre 2039. Le séjour de 2009–2012 a apporté le premier retour de Saturne aux personnes nées avec ce placement en 1980–1983, et le deuxième à celles nées en 1950–1953."
+    a: "De novembre 1950 à octobre 1953, de septembre 1980 à août 1983 et d’octobre 2009 à octobre 2012, puis de nouveau à partir de septembre 2039. Le séjour de 2009–2012 a aussi été un retour de Saturne : le premier pour les personnes nées en 1980–1983, le deuxième pour celles nées en 1950–1953."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’exaltation de Saturne en Balance, sa chute en Bélier, et la maîtrise de Vénus" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les mois passés par Saturne en Balance de 1930 à 2039, et la part des personnes nées entre 1930 et 2009 qui ont ce placement" }
@@ -35,7 +35,7 @@ Donnez une balance à la planète des règles, et tout se met à être pesé : 
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-[Saturne](/astrology/saturn/) donne de la structure, demande des responsabilités et garde le long terme en vue. La [Balance](/astrology/libra/), signe d’air cardinal gouverné par Vénus, est celle de l’équilibre, du partenariat, de la diplomatie et des accords. Ici, la leçon de Saturne porte sur l’équité : des engagements tenus, des règles qui s’appliquent à tout le monde, et des relations construites assez lentement pour durer.
+La [Balance](/astrology/libra/), signe d’air cardinal gouverné par Vénus, commence les choses à travers les autres, et veut que ce qu’elle commence soit équilibré. Quand [Saturne](/astrology/saturn/), planète de la structure et du long terme, se trouve dans ce signe, la leçon porte sur l’équité : des engagements tenus, des règles qui s’appliquent à tout le monde, et des relations construites assez lentement pour durer.
 
 Ptolémée donne la Balance comme [exaltation](/astrology/exaltation/) de Saturne, à l’opposé de sa chute en Bélier. Je le lis ainsi : les règles de Saturne marchent le mieux quand les deux parties les ont acceptées. Et comme [Vénus](/astrology/venus/) gouverne la Balance, votre Vénus montre ce que Saturne cherche ici à garder équitable, et avec qui.
 
@@ -43,7 +43,7 @@ Saturne était en Balance de novembre 1950 à octobre 1953, de septembre 1980 à
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-L’engagement est une affaire sérieuse pour vous : une promesse est un contrat, même quand personne ne l’a écrite. Vous voulez un partenariat d’égal à égal, avec une charge partagée et des règles claires, et vous pouvez rester longtemps dans un couple qui ne l’est pas, par devoir ou dans l’espoir que la patience finira par rééquilibrer les choses. La leçon : une relation équitable n’est pas un tableau d’affichage des scores. Quand deux personnes me demandent de comparer leurs thèmes, je lis Saturne avec un soin particulier, parce que Saturne a tenu 75 à 90 % du temps dans mon carnet, et seulement une fois que les deux ont dit oui (voir [pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+L’engagement est une affaire sérieuse pour vous : une promesse est un contrat, même quand personne ne l’a écrite. Vous voulez un partenariat d’égal à égal, avec une charge partagée et des règles claires, et vous pouvez rester longtemps dans un couple qui ne l’est pas, par devoir ou dans l’espoir que la patience finira par rééquilibrer les choses. La leçon : une relation équitable n’est pas un tableau d’affichage des scores. Quand deux personnes me demandent de comparer leurs thèmes, je lis Saturne avec un soin particulier, parce que Saturne a fait ses preuves dans mon carnet plus que presque tout le reste, et seulement une fois que les deux ont dit oui (voir [pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
 
 ## Au travail {#au-travail}
 
@@ -55,4 +55,4 @@ Tenir les comptes, en silence. Accepter des choses pour préserver la paix, puis
 
 ## Ce qui aide {#ce-qui-aide}
 
-Dire les accords à voix haute, et y revenir : un arrangement équitable il y a cinq ans ne l’est peut-être plus. Distinguer *juste* et *égal* : parfois, la chose juste est inégale. S’exercer à un non clair et bienveillant. Quand Saturne reviendra en Balance, à partir de septembre 2039, les personnes nées avec ce placement en 2009–2012 rencontreront leur premier [retour de Saturne](/astrology/saturn-return/), l’occasion de regarder quels engagements elles ont choisis, et lesquels elles ont simplement reçus en héritage.
+Dire les accords à voix haute, et y revenir : un arrangement équitable il y a cinq ans ne l’est peut-être plus. Distinguer *juste* et *égal* : parfois, la chose juste est inégale. S’exercer à un non clair et bienveillant. Quand Saturne reviendra en Balance, à partir de septembre 2039, les personnes nées en 2009–2012 y trouveront leur premier [retour de Saturne](/astrology/saturn-return/), l’occasion de regarder quels engagements elles ont choisis, et lesquels elles ont simplement reçus en héritage.

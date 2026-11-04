@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 80
 glyph: "♄♏"
-definition: "Saturne en Scorpion place la planète des limites dans un signe d’eau fixe, celui de la profondeur, gouverné par Pluton en astrologie tropicale moderne et par Mars dans la tradition. Les personnes nées vers 1953–1956, 1982–1985 ou 2012–2015 partagent ce placement. Ses leçons : la confiance, le contrôle, et une intimité gardée jusqu’à ce qu’elle soit méritée."
+definition: "Saturne en Scorpion est un placement sur ses gardes : la planète des limites dans un signe d’eau fixe gouverné par Pluton en astrologie tropicale moderne et par Mars dans la tradition. Les personnes nées vers 1953–1956, 1982–1985 ou 2012–2015 l’ont en commun. Ses leçons : la confiance, le contrôle, une intimité gardée tant qu’elle n’est pas méritée."
 facts:
   - { k: "Corps", v: "Saturne ♄" }
   - { k: "Signe", v: "Scorpion ♏, gouverné par Pluton (moderne) et Mars (tradition)" }
@@ -19,13 +19,13 @@ facts:
 related: ["/astrology/saturn", "/astrology/scorpio", "/astrology/pluto", "/astrology/mars", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "Que veut dire Saturne en Scorpion ?"
-    a: "Une confiance bâtie lentement, et gardée pour de bon. Les longues leçons portent sur l’intimité, le contrôle et le partage : qui vous laissez entrer, ce que vous retenez, et quand lâcher prise. Les émotions sont profondes et restent sur leurs gardes tant que la confiance n’est pas méritée. La maison de Saturne montre où se trouve ce lieu gardé."
+    a: "Une confiance bâtie lentement, et gardée pour de bon. Les longues leçons portent sur l’intimité, le contrôle et le partage : qui vous laissez entrer, ce que vous retenez, et quand lâcher prise. Les émotions sont profondes et restent sur leurs gardes tant que la confiance n’est pas méritée. La maison de Saturne situe ce lieu gardé."
   - q: "Faut-il regarder Pluton ou Mars pour Saturne en Scorpion ?"
     a: "Les deux. Pluton gouverne le Scorpion en astrologie tropicale moderne, Mars dans la tradition, et je lis les deux. Mars montre comment Saturne défend ici ses limites et agit sous pression. Pluton montre où il faut laisser quelque chose finir, pour que quelque chose de plus solide pousse à sa place."
   - q: "Saturne en Scorpion, est-ce un placement difficile ?"
     a: "Un placement intense, pas un placement maudit. La prudence de Saturne dans le signe de la profondeur peut rendre la confiance lente et le contrôle tentant. La même alliance donne une grande endurance, de la loyauté et du sang-froid dans les crises. Avec le temps, la méfiance s’adoucit souvent en une discrétion sur laquelle les autres finissent par compter."
   - q: "Quelles années ont connu Saturne en Scorpion ?"
-    a: "D’octobre 1953 à octobre 1956, de novembre 1982 à novembre 1985 et d’octobre 2012 à septembre 2015 ; le prochain séjour commence après 2039. En 1956, puis de fin 2014 à l’automne 2015, Saturne a fait des allers-retours avec le Sagittaire, et de fin 1982 à l’été 1983 avec la Balance."
+    a: "D’octobre 1953 à octobre 1956, de novembre 1982 à novembre 1985 et d’octobre 2012 à septembre 2015 ; le prochain séjour commence après 2039. Saturne a chevauché la frontière du Sagittaire en 1956, puis de fin 2014 à l’automne 2015, et celle de la Balance de fin 1982 à l’été 1983."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les signes, la maîtrise traditionnelle de Mars sur le Scorpion et les dignités de Saturne" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les mois passés par Saturne en Scorpion de 1930 à 2039, et la part des personnes nées entre 1930 et 2009 qui ont ce placement" }
@@ -35,11 +35,11 @@ Certaines personnes tiennent un journal ; Saturne en Scorpion tient un coffre-
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-[Saturne](/astrology/saturn/) pose des limites, porte le poids des choses et joue sur le long terme. Le [Scorpion](/astrology/scorpio/), signe d’eau fixe, est celui de la profondeur, de l’intimité, de la confiance et de ce qui se cache sous la surface. Ici, Saturne structure la vie cachée : ce que vous partagez et avec qui, la part de contrôle dont vous avez besoin pour vous sentir en sécurité, et votre façon de traverser une crise.
+Ce qui compte, dans le [Scorpion](/astrology/scorpio/), signe d’eau fixe, se trouve sous la surface : l’intimité, la confiance, le pouvoir, ce que les gens ne disent pas. [Saturne](/astrology/saturn/), qui pose des limites et porte le poids des choses, prend en charge cette vie cachée : ce que vous partagez et avec qui, la part de contrôle dont vous avez besoin pour vous sentir en sécurité, et votre façon de traverser une crise.
 
 Le Scorpion ne compte pas parmi les signes de dignité ou de faiblesse de Saturne, mais l’eau fixe et Saturne ont un talent en commun, l’endurance : tenir bon sous la pression, très longtemps. Le signe a deux maîtres, [Pluton](/astrology/pluto/) en astrologie tropicale moderne et [Mars](/astrology/mars/) dans la tradition, et je lis les deux. Mars montre comment Saturne défend ses limites ici ; Pluton, où il faut laisser quelque chose finir pour être refait.
 
-Saturne était en Scorpion d’octobre 1953 à octobre 1956, de novembre 1982 à novembre 1985 et d’octobre 2012 à septembre 2015, et environ 1 personne sur 15 née entre 1930 et 2009 a ce placement. Le séjour de 2012–2015 a été le premier retour de Saturne de la classe d’âge 1982–1985, et le deuxième des personnes nées en 1953–1956 ; le prochain commence après 2039, au-delà de la fin de mon décompte. Votre naissance tombe en 1956, ou entre décembre 2014 et septembre 2015 ? Vérifiez si votre thème n’indique pas plutôt [Saturne en Sagittaire](/astrology/saturn-in-sagittarius/). Entre novembre 1982 et août 1983 ? Vérifiez s’il ne s’agit pas de [Saturne en Balance](/astrology/saturn-in-libra/). Dans tous les cas, vous partagez le signe avec votre classe d’âge, et la maison montre quel domaine de la vie le coffre protège.
+Saturne était en Scorpion d’octobre 1953 à octobre 1956, de novembre 1982 à novembre 1985 et d’octobre 2012 à septembre 2015, et environ 1 personne sur 15 née entre 1930 et 2009 a ce placement. La classe d’âge 1982–1985 a vécu son premier retour de Saturne pendant le séjour de 2012–2015, et les personnes nées en 1953–1956 leur deuxième ; le prochain commence après 2039, au-delà de la fin de mon décompte. Votre naissance tombe en 1956, ou entre décembre 2014 et septembre 2015 ? Vérifiez si votre thème n’indique pas plutôt [Saturne en Sagittaire](/astrology/saturn-in-sagittarius/). Entre novembre 1982 et août 1983 ? Vérifiez s’il ne s’agit pas de [Saturne en Balance](/astrology/saturn-in-libra/). Dans tous les cas, le signe appartient à toute votre classe d’âge ; la maison montre quel domaine de la vie le coffre protège.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -55,4 +55,4 @@ Le contrôle, comme façon de se sentir en sécurité. Si vous tenez tous les fi
 
 ## Ce qui aide {#ce-qui-aide}
 
-Accorder la confiance par petites étapes vérifiables, et remarquer quand elle est honorée. Dire à une personne une chose que vous garderiez d’habitude. Laisser quelque chose finir exprès : une rancune, une habitude, un rôle devenu trop petit. Quand l’envie vous prend de vérifier ce que fait quelqu’un, demandez-vous ce que vous avez vraiment peur de perdre, et dites plutôt cela. Saturne a tenu 75 à 90 % du temps dans mes tests (voir [les trois qui ont tenu](/blog/saturn-chiron-lilith/)) : avec Saturne en Scorpion, j’avance donc lentement, et je demande avant d’aller plus loin. Ce qui est dans le coffre vous appartient, et c’est vous qui décidez de ce qui en sort.
+Accorder la confiance par petites étapes vérifiables, et remarquer quand elle est honorée. Dire à une personne une chose que vous garderiez d’habitude. Laisser quelque chose finir exprès : une rancune, une habitude, un rôle devenu trop petit. Quand l’envie vous prend de vérifier ce que fait quelqu’un, demandez-vous ce que vous avez vraiment peur de perdre, et dites plutôt cela. Saturne a mieux résisté à mes tests que la plupart des placements (voir [les trois qui ont tenu](/blog/saturn-chiron-lilith/)) : avec Saturne en Scorpion, j’avance donc lentement, et je demande avant d’aller plus loin. Ce qui est dans le coffre vous appartient, et c’est vous qui décidez de ce qui en sort.

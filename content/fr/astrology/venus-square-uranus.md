@@ -23,7 +23,7 @@ faq:
   - q: "Est-ce que Vénus carré Uranus empêche de s’engager ?"
     a: "Non. Ce carré décrit un besoin d’espace et de changement au sein de l’engagement, pas une incapacité à s’engager. Les engagements qui lui conviennent le mieux laissent chaque personne libre de grandir. Le dire tôt, et choisir ensemble les changements, compte souvent plus que la promesse elle-même."
   - q: "Est-ce que Vénus carré Uranus rend les relations imprévisibles ?"
-    a: "Ce carré peut apporter des surprises, dans qui vous attire comme dans la façon dont les liens changent de forme. Mais Uranus décrit la réforme, pas le chaos, et le carré une friction qui pousse à s’adapter. Avec le temps, l’imprévu devient souvent souplesse : des relations capables de changer sans finir."
+    a: "Ce carré peut apporter des surprises, dans qui vous attire comme dans la façon dont les liens changent de forme. Mais Uranus parle de réforme plutôt que de chaos, et le carré, d’une friction qui pousse à s’adapter. Avec le temps, l’imprévu devient souvent souplesse : des relations capables de changer sans finir."
   - q: "Comment vivre avec Vénus carré Uranus ?"
     a: "En donnant une place au besoin de liberté au lieu d’en faire un combat : du temps à vous, des expériences nouvelles partagées, des changements décidés ensemble plutôt qu’imposés. Il est utile aussi de remarquer quand l’impatience concerne la relation, et quand elle concerne le reste de la vie. Ce carré demande une construction honnête, pas un départ."
 sources:
@@ -34,7 +34,7 @@ Vénus carré Uranus, c’est ce qui vous est cher qui rencontre, à angle droit
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Vénus](/astrology/venus/) s’attache et évalue : l’attirance, ce que vous garderiez, ce qui rend un lien juste. [Uranus](/astrology/uranus/) libère et réforme : de l’espace, de la différence, une nouvelle façon de faire. Liées par un [carré](/astrology/square/), les deux fonctions se rencontrent dans une friction constructive : chacune dérange l’autre, et c’est dans les ajustements que vous grandissez.
+[Vénus](/astrology/venus/) s’attache et évalue : l’attirance, ce que vous garderiez, ce qui rend un lien juste. [Uranus](/astrology/uranus/) libère et réforme : de l’espace, de la différence, une nouvelle façon de faire. Par un [carré](/astrology/square/), les deux fonctions se frottent l’une à l’autre, et ce frottement construit : chacune dérange l’autre, et c’est dans les ajustements que vous grandissez.
 
 Concrètement, l’élan vers quelqu’un et l’élan vers la liberté peuvent arriver ensemble. Ce qui vous surprend vous attire, puis vous avez besoin de distance ; vous aimez la stabilité et vous y sentez à l’étroit ; votre goût change juste au moment où il s’installait. Rien de tout cela n’est de l’instabilité. C’est un carré qui vous demande de concevoir des relations, et une vie, avec de l’espace dedans : une proximité qui n’enferme pas, une indépendance qui ne s’en va pas. L’harmonie, ici, n’est pas l’absence de changement : c’est un changement convenu ensemble.
 
@@ -42,7 +42,7 @@ Quand ce carré parle fort dans un thème, je ne dis à personne de rester ou de
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Un carré relie en général des signes qui partagent un mode, et ce mode colore le frottement. Avec Vénus en Taureau et Uranus en Lion ou en Verseau, trois signes fixes, l’amour du familier rencontre un besoin tenace de différence, et aucun des deux n’aime bouger le premier. Avec Vénus en Cancer et Uranus en Bélier ou en Balance, trois signes cardinaux, le soin et l’indépendance veulent chacun commencer les choses à leur façon. Côté maisons, Vénus en maison 4 au carré d’Uranus en maison 7 pourrait opposer le désir d’un foyer stable à des partenariats qui changent sans cesse de forme.
+D’ordinaire, les deux planètes occupent des signes d’un même mode, et ce mode colore le frottement. Avec Vénus en Taureau et Uranus en Lion ou en Verseau, trois signes fixes, l’amour du familier rencontre un besoin tenace de différence, et aucun des deux n’aime bouger le premier. Avec Vénus en Cancer et Uranus en Bélier ou en Balance, trois signes cardinaux, le soin et l’indépendance veulent chacun commencer les choses à leur façon. Côté maisons, Vénus en maison 3 au carré d’Uranus en maison 6 pourrait opposer le plaisir des conversations faciles à un quotidien qui change sans cesse de forme.
 
 Environ 1 personne sur 15 naît avec Vénus et Uranus à moins de 6° d’un carré exact. Près de l’exactitude, la question de la proximité et de l’espace revient dans chaque lien important ; avec un orbe plus large, surtout aux tournants.
 

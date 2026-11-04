@@ -33,7 +33,7 @@ Venus sextile Uranus is change in love that comes by invitation rather than by s
 
 ## What it means {#what-it-means}
 
-[Venus](/astrology/venus/) chooses what's worth having and keeps exchanges fair. [Uranus](/astrology/uranus/) experiments: it sets you apart from the crowd and reforms what has stopped fitting. A [sextile](/astrology/sextile/) relates them through cooperation: the urge for something new can refresh what you love, and what you love gives that urge a direction, provided you act on it.
+[Venus](/astrology/venus/) chooses what's worth having and keeps exchanges fair. [Uranus](/astrology/uranus/) experiments: it marks you out from the crowd and reworks what has stopped fitting. A [sextile](/astrology/sextile/) relates them through cooperation: the urge for something new can refresh what you love, and what you love gives that urge a direction, provided you act on it.
 
 In plain words, you tend to update your tastes without throwing them out. A friend introduces you to music you'd never have chosen, and it becomes yours; a relationship finds a new rhythm instead of ending; a group, a cause or a new tool becomes the place where you meet people you click with. You can be original without being contrary, and independent without keeping people at arm's length. Even your sense of fairness tends to be inventive: you'd rather find a new arrangement that suits everyone than keep an old one that suits nobody.
 
@@ -41,7 +41,7 @@ Nothing happens unless you say yes. Left alone, this sextile is a mild restlessn
 
 ## In a birth chart {#in-a-birth-chart}
 
-Sextile signs belong to complementary elements, and here that pairing shapes how the new reaches what you love. With Venus in Sagittarius and Uranus in Aquarius, Uranus's modern sign, a love of the wide world meets a love of the new; with Venus in Virgo and Uranus in Scorpio, careful affection gains an unexpected depth. Uranus's sign belongs to your generation, so the house carries the personal story, and the house needs a birth time ([what changes without a birth time](/blog/unknown-birth-time/)). Venus in the 11th sextile Uranus in the 1st, for instance, might make friendships the way you discover who you're becoming.
+Sextile signs belong to complementary elements, and here that pairing shapes how the new reaches what you love. With Venus in Sagittarius and Uranus in Aquarius, Uranus's modern sign, a love of the wide world meets a love of the new; with Venus in Virgo and Uranus in Scorpio, careful affection gains an unexpected depth. Uranus's sign belongs to your generation, so the house carries the personal story, and the house is read from the time you were born ([what changes without a birth time](/blog/unknown-birth-time/)). Venus in the 11th sextile Uranus in the 1st, for instance, might make friendships the way you discover who you're becoming.
 
 About 1 person in 15 is born with Venus and Uranus within 6° of a sextile. At a degree or two, openness to the new is part of how you love; towards 6°, it's a door you notice now and then.
 
@@ -52,7 +52,7 @@ The pair's other angles, side by side:
 - **[Venus trine Uranus](/astrology/venus-trine-uranus/):** freedom and affection cooperating with no effort at all; change that comes easily.
 - **[Venus opposite Uranus](/astrology/venus-opposite-uranus/):** closeness and independence at opposite ends, asking to share one life.
 
-Between two charts, [Venus sextile Uranus in synastry](/astrology/venus-sextile-uranus-synastry/) is one person's taste meeting the other's originality on friendly terms: a relationship that keeps introducing each of you to something new. The person who brings Uranus may feel freer than the one who brings Venus, which is why both charts get a reading.
+Between two charts, in [Venus sextile Uranus in synastry](/astrology/venus-sextile-uranus-synastry/), the taste of one person and the originality of the other get on well: a relationship that keeps introducing each of you to something new. The person who brings Uranus may feel freer than the one who brings Venus, which is why both charts get a reading.
 
 ## In transits {#in-transits}
 

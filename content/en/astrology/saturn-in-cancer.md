@@ -1,7 +1,7 @@
 ---
 title: "Saturn in Cancer"
 h1: "Saturn in Cancer in a birth chart"
-description: "Saturn in Cancer in a birth chart: Saturn in detriment, emotional safety learned slowly in cardinal water — how it loves, works, struggles and heals."
+description: "Saturn in Cancer in a birth chart: the planet of boundaries in detriment, emotional safety learned slowly in cardinal water — in love, at work, and healing."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -33,7 +33,7 @@ A crab carries its house on its back, and Saturn in Cancer can feel like that: a
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Saturn](/astrology/saturn/) keeps a chart's limits and responsibilities, and builds for the long term. [Cancer](/astrology/cancer/), cardinal water ruled by the Moon, is the sign of care, memory, belonging and the instinct to protect. Saturn here structures feeling itself: how safe you feel, whom you look after, and how much of yourself you let others see.
+Care, memory, belonging and the instinct to protect are [Cancer](/astrology/cancer/)'s business: it's cardinal water, ruled by the Moon. [Saturn](/astrology/saturn/)'s business is limits, responsibility and the long term. Put the two together and Saturn starts structuring feeling itself: how safe you feel, whom you look after, and how much of yourself you let others see.
 
 This is Saturn's [detriment](/astrology/detriment/): Cancer faces Capricorn, the sign Saturn rules, so the planet of rules and distance is working in the sign of closeness. I don't read that as a flaw. It learns care the way an adult learns to swim, later than most and more deliberately, and often ends up the steadiest person in the water. And since the Moon rules Cancer, the sign and house of your [Moon](/astrology/moon/) show how this Saturn gets comforted, and what it guards.
 
