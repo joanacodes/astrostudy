@@ -41,11 +41,11 @@ L’opposition ne vous demande pas d’abattre l’ancienne structure : les deu
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 24 née entre 1930 et 2009 a Saturne à moins de 6° d’une opposition exacte au Nœud Nord, compté avec le nœud vrai. Le nœud moyen n’en est jamais à plus d’un ou deux degrés : les deux ne divergent qu’au bord de l’orbe, et je regarde les deux ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). Près de l’exactitude, la tension entre les deux bouts est forte ; à 5 ou 6°, elle est plus douce.
+Environ 1 personne sur 24 née entre 1930 et 2009 a Saturne à moins de 6° d’une opposition exacte au Nœud Nord, compté avec le nœud vrai. Le nœud moyen n’en est jamais à plus d’un ou deux degrés, et je regarde les deux ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). Près de l’exactitude, la tension entre les deux bouts est forte ; à 5 ou 6°, elle est plus douce.
 
 Une opposition relie deux signes opposés, du même mode. Saturne en Vierge avec le Nœud Nord en Poissons peut s’appuyer sur la méthode et l’ordre tout en grandissant vers la confiance en ce qui ne se planifie pas. Les maisons désignent les deux domaines de vie concernés : Saturne en maison 4 avec le Nœud Nord en maison 10, par exemple, pourrait décrire des devoirs familiaux venus tôt et une croissance du côté de la vie publique et professionnelle. Cela demande votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Le Nœud Nord va plus vite : il recule d’un signe en 18 mois environ, quand Saturne met environ 2 ans et demi à en traverser un. L’opposition va et vient en quelques mois : elle décrit votre thème plutôt que celui de toutes les personnes nées la même année.
+Le Nœud Nord va plus vite : il recule d’un signe en 18 mois environ, quand Saturne met environ 2 ans et demi à en traverser un. L’opposition va et vient en quelques mois : elle parle de vous, pas de toute votre année de naissance.
 
 Les autres aspects de la paire :
 
@@ -60,4 +60,4 @@ Entre deux thèmes, [Saturne opposition Nœud Nord en synastrie](/astrology/satu
 
 [Nœud Nord en transit opposition Saturne du thème natal](/astrology/transiting-north-node-opposite-natal-saturn/) revient une fois par tour des nœuds, soit tous les 18,6 ans : c’est aussi le Nœud Sud du ciel sur votre Saturne, pendant un mois ou deux. Saturne en transit s’oppose à votre Nœud Nord natal une fois en 29 ans et demi environ, sur quelques mois, parfois en trois passages au gré de ses rétrogradations.
 
-Si cette opposition est dans votre thème, un moment particulier revient à chaque [inversion nodale](/astrology/nodal-reversal/), à mi-chemin entre deux retours nodaux : le Nœud Nord du ciel passe alors sur le Nœud Sud de votre thème, et donc sur votre Saturne. C’est une saison où la nouvelle direction touche ce que vous avez construit avec le plus de soin. Une météo, pas une prédiction : un moment pour regarder les anciennes structures, jamais un verdict sur elles.
+Si cette opposition est dans votre thème, un moment particulier revient à chaque [inversion nodale](/astrology/nodal-reversal/), à mi-chemin entre deux retours nodaux : le Nœud Nord du ciel passe alors sur le Nœud Sud de votre thème, et donc sur votre Saturne. Une météo, pas une prédiction : un moment pour regarder les anciennes structures, jamais un verdict sur elles.

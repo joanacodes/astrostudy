@@ -59,4 +59,4 @@ Between two charts, [Saturn opposite North Node in synastry](/astrology/saturn-o
 
 [Transiting North Node opposite natal Saturn](/astrology/transiting-north-node-opposite-natal-saturn/) comes once in each 18.6-year round of the nodes; it is also the transiting South Node on your Saturn, for a month or two. Transiting Saturn opposes your natal North Node once in about 29½ years, over a few months, sometimes in three passes as it turns retrograde.
 
-Born with the opposition, you meet a particular moment at each [nodal reversal](/astrology/nodal-reversal/), halfway between two nodal returns: the transiting North Node then crosses the South Node of your chart, and with it your Saturn. It's a season when the new direction touches what you have built most carefully. Weather, not a forecast: a time to look at old structures, never a verdict on them.
+Born with the opposition, you meet a particular moment at each [nodal reversal](/astrology/nodal-reversal/), halfway between two nodal returns: the transiting North Node then crosses the South Node of your chart, and with it your Saturn. Weather, not a forecast: a time to look at old structures, never a verdict on them.
