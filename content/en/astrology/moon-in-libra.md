@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 19
 glyph: "☽♎"
-definition: "Moon in Libra means the Moon was in Libra at your birth. I read it as feelings steadied by balance and good company: you settle when things are calm between you and the people you love, you find comfort in fairness and beauty, and you often soothe others more easily than yourself."
+definition: "Moon in Libra means the Moon was in Libra at your birth. I read it as feelings steadied by balance and good company: you settle when there is peace with the people closest to you, you find comfort in fairness and in surroundings that please you, and you often soothe others more easily than yourself."
 facts:
   - { k: "Body", v: "The Moon ☽" }
   - { k: "Sign", v: "Libra ♎, ruled by Venus" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/moon", "/astrology/libra", "/astrology/venus", "/astrology/7th-house", "/blog/unknown-birth-time"]
 faq:
   - q: "What does Moon in Libra mean?"
-    a: "That the Moon was in Libra when you were born. I read it as feelings steadied by harmony and good company: you settle when things are calm between you and the people you love, you soothe others easily, and open tension unsettles you more than it seems to unsettle other people."
+    a: "That the Moon was in Libra when you were born. I read it as feelings steadied by harmony and good company: you settle when there is peace between you and those closest to you, you soothe others easily, and open tension unsettles you more than it seems to unsettle other people."
   - q: "Is a Libra Moon a people-pleaser?"
     a: "It can become one under pressure, but that isn’t its nature. A Libra Moon regulates through balance and fairness, and it is very good at seeing what other people need. The habit to watch is leaving your own needs off the scale. Fairness that includes you is the real thing."
   - q: "What does a Libra Moon need in love?"
@@ -30,7 +30,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the Moon stays in a sign, and how many people born 1930–2009 have it in Libra" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-A Libra Moon often knows how everyone in the room feels before it knows how it feels itself. What settles it is balance: things calm between you and the people you love, a fair exchange, a room that looks right.
+A Libra Moon often knows how everyone in the room feels before it knows how it feels itself. What settles it is balance: peace with the people closest to you, a fair exchange, a room that looks right.
 
 ## In a birth chart {#in-a-birth-chart}
 
@@ -38,9 +38,9 @@ With the [Moon](/astrology/moon/) in [Libra](/astrology/libra/), cardinal air, f
 
 In the old scheme of dignities, Libra is neutral ground for the Moon: not its own sign, not its exaltation, and not opposite either of them.
 
-[Venus](/astrology/venus/) rules Libra, and I read it next. It shows what you find fair, pleasing and worth keeping, and so what restores you. A Libra Moon is soothed by beauty and reciprocity, a well-laid table, a conversation where both people get to speak, and the sign and house of Venus say where you find those, and what you're willing to give for them.
+[Venus](/astrology/venus/) rules Libra, and I read it next. It shows what you find fair, pleasing and worth keeping, and so what restores you. A Libra Moon is soothed by reciprocity and by what pleases the eye, a well-laid table, a conversation where both people get to speak, and the sign and house of Venus say where you find those, and what you're willing to give for them.
 
-About 1 person in 12 shares this Moon. It reaches Libra from Virgo, where the [Moon in Virgo](/astrology/moon-in-virgo/) finds its calm in order, and leaves for Scorpio, where the [Moon in Scorpio](/astrology/moon-in-scorpio/) feels everything privately and in depth. It spends about two and a half days in between, so a birthday that falls on a crossing day needs the birth time to decide ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)).
+About 1 person in 12 shares this Moon. It reaches Libra from Virgo, where the [Moon in Virgo](/astrology/moon-in-virgo/) finds its calm in order, and leaves for Scorpio, where the [Moon in Scorpio](/astrology/moon-in-scorpio/) feels everything privately and in depth. It lingers about two and a half days between them, so a birthday that falls on a crossing day needs the birth time to decide ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)).
 
 ## In close relationships {#in-close-relationships}
 
@@ -52,10 +52,10 @@ You do well where cooperation is the point: negotiating, mediating, hosting, des
 
 ## The hard part {#the-hard-part}
 
-Your own need can get lost in the weighing. When you see every side, it's hard to choose yours, and you may agree to things to keep the peace and resent them later. Harmony isn't the same as avoiding conflict, but under pressure the two can blur. You may not know what you feel until you've heard what the other person feels, and by then you've already begun adjusting to it.
+Your own need can get lost in the weighing. When you see every side, it's hard to choose yours, and you may agree to things to keep the peace and resent them later. Harmony isn't the same as avoiding conflict, but under pressure the two can blur. Sometimes you only learn what you feel from what the other person feels, and by then you've already begun adjusting to it.
 
 ## What helps {#what-helps}
 
-Say what you need first, then listen; the order matters. Before a big decision, take a little time away from everyone else's preferences and ask what you'd choose if nobody minded. Practise small, kind disagreements, so that a bigger one doesn't feel like a disaster. Keep beauty around you, a tidy corner, flowers, music, because for this Moon it genuinely helps. And count yourself in when you work out what's fair.
+Say what you need first, then listen; the order matters. Before a big decision, take a little time away from everyone else's preferences and ask what you'd choose if nobody minded. Practise small, kind disagreements, so that a bigger one doesn't feel like a disaster. Keep something lovely to look at nearby, a tidy corner, flowers, music, because for this Moon it genuinely helps. And count yourself in when you work out what's fair.
 
-Weighed in [my notebook](/blog/i-tested-my-birth-chart/) like every other placement, the Moon came out on the ordinary side of the scale. Saturn, Chiron and Lilith held far more often; across the whole notebook, about a third held. So I balance a Libra Moon against the rest of the chart before I say what it means.
+Weighed in [my notebook](/blog/i-tested-my-birth-chart/) like every other placement, the Moon came out on the ordinary side of the scale. Saturn, Chiron and Lilith tipped the scale far more often; across the whole notebook, about a third held. So I balance a Libra Moon against the rest of the chart before I say what it means.

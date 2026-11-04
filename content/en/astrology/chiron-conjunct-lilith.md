@@ -40,7 +40,7 @@ The difficulty is context, not identity, and neither body describes harm done or
 
 ## In a birth chart {#in-a-birth-chart}
 
-The two usually share a sign. Chiron's sign is shared by everyone born over anything from under two years to about eight, while Lilith changes sign every nine months or so, so the conjunction belongs to a few months of births, roughly once a decade, when Lilith catches Chiron up. With both in Aries, adapting and refusing share a first-person style: you work round a difficulty by going your own way.
+Most often the two fall in one sign. Chiron's sign is shared by everyone born over anything from under two years to about eight, while Lilith changes sign every nine months or so, so the conjunction belongs to a few months of births, roughly once a decade, when Lilith catches Chiron up. With both in Aries, adapting and refusing share a first-person style: you work round a difficulty by going your own way.
 
 The house shows where this happens, given a birth time ([what changes without a birth time](/blog/unknown-birth-time/)): in the 6th, daily routines adapted on your own terms; in the 10th, a public role that refuses the usual mould.
 
