@@ -52,7 +52,7 @@ Le carré qui en est le cœur, c’est, dans le système que j’ai construit po
 
 Pour une naissance au premier quartier, votre thème a un carré croissant entre le Soleil et la Lune, et la page [Soleil carré Lune](/astrology/sun-square-moon/) décrit cet aspect en entier. Ce que la phase ajoute, c’est une direction. Je lis le premier quartier comme une friction qui pousse vers l’extérieur : la Lune s’est assez éloignée du Soleil pour que ce dont vous avez besoin et ce que vous visez tirent dans deux sens, et la façon dont vous tendez à le résoudre, c’est de faire quelque chose, d’agir plutôt que d’attendre. Ce n’est pas un verdict sur votre caractère ; les signes et les maisons de votre Soleil et de votre Lune lui donnent sa couleur.
 
-L’heure peut décider de quel côté de la limite vous tombez. La Lune gagne environ 12° par jour sur le Soleil : le jour d’un quartier, quelques heures la font passer de la phase du croissant de Rudhyar à celle de son premier quartier ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)). [Votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) montre comment trouver la vôtre.
+L’heure peut décider de quel côté de la limite vous tombez. L’écart entre la Lune et le Soleil grandit d’environ 12° par jour : le jour d’un quartier, quelques heures font passer la Lune de la phase du croissant de Rudhyar à celle de son premier quartier ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)). [Votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) montre comment trouver la vôtre.
 
 Dans le ciel, je ne donne aux quartiers de lune aucun poids propre dans une prévision. Ils appartiennent au rythme du mois ; les nouvelles et les pleines lunes sont les repères que j’utilise.
 

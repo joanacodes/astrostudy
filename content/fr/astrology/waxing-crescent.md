@@ -44,7 +44,7 @@ Les astrologues qui travaillent avec les huit phases de Dane Rudhyar, tirées de
 
 ## Comment ça marche {#comment-ca-marche}
 
-La Lune gagne environ 12° par jour sur le Soleil : pendant le croissant, elle passe du signe même du Soleil à environ trois signes plus loin. Deux aspects tombent dans cet intervalle : le semi-carré à 45°, où commence le croissant de Rudhyar, et le sextile à 60°, au tiers du chemin vers la pleine lune au sens du ciel. Le système que j’ai construit pour mes lectures décrit le sextile comme une coopération et une occasion, une ouverture qui demande qu’on s’en saisisse, et le semi-carré comme une petite tension locale qui corrige la trajectoire en chemin. À eux deux, ils dessinent bien le croissant : un départ en cours, qui s’ajuste en grandissant.
+À raison d’environ 12° d’avance par jour, la Lune passe, pendant le croissant, du signe même du Soleil à environ trois signes plus loin. Deux aspects tombent dans cet intervalle : le semi-carré à 45°, où commence le croissant de Rudhyar, et le sextile à 60°, au tiers du chemin vers la pleine lune au sens du ciel. Le système que j’ai construit pour mes lectures décrit le sextile comme une coopération et une occasion, une ouverture qui demande qu’on s’en saisisse, et le semi-carré comme une petite tension locale qui corrige la trajectoire en chemin. À eux deux, ils dessinent bien le croissant : un départ en cours, qui s’ajuste en grandissant.
 
 Rien de tout cela ne demande de télescope ni de thème. Regardez vers l’ouest par un soir clair, deux ou trois jours après une nouvelle lune : le croissant est là, encore près de l’endroit où le Soleil s’est couché.
 

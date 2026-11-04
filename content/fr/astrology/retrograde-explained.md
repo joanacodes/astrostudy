@@ -43,7 +43,7 @@ Rétrograder, c’est reculer dans le zodiaque : revenir du Taureau vers le Bé
 - **Mercure et Vénus** sont plus proches du Soleil que nous, et plus rapides. Ces deux planètes semblent reculer quand elles nous doublent par l’intérieur, en passant entre la Terre et le Soleil. À mi-parcours, la planète est alignée avec le Soleil et noyée dans son éclat, et elle passe du ciel du soir au ciel du matin.
 - **Mars et tout ce qui se trouve au-delà**, Chiron compris, avancent moins vite que nous. Ces planètes semblent reculer quand la Terre les dépasse, et à mi-parcours, la planète se trouve à l’opposé du Soleil : visible toute la nuit, et au plus près de nous pour l’année.
 
-C’est l’effet de l’autoroute : depuis une voiture rapide, celle qu’on double sur la voie d’à côté semble reculer, alors que toutes deux roulent dans le même sens.
+C’est l’effet de l’autoroute : depuis une voiture rapide, celle qu’on double semble reculer, alors que toutes deux roulent dans le même sens.
 
 Deux corps ne semblent jamais reculer. Le chemin du [Soleil](/astrology/sun/) dans les signes, c’est notre propre orbite vue de l’intérieur, et la [Lune](/astrology/moon/) tourne vraiment autour de nous, toujours dans le même sens. Les nœuds lunaires moyens, eux, sont toujours rétrogrades : ils font le tour du zodiaque à reculons en 18,6 ans environ.
 
@@ -69,7 +69,7 @@ Dans un thème natal, je lis une planète rétrograde à travers les mêmes chos
 
 Tout dépend de la planète. Une rétrogradation de Mercure, de Vénus ou de Mars signale une naissance dans une période de quelques semaines qui ne revient que tous les quelques mois ou années. Une rétrogradation de Jupiter, de Saturne ou de Pluton est partagée par toutes les personnes nées sur plusieurs mois de la même année : je la lis donc plus légèrement, à travers la maison où elle tombe, qui demande l’heure de naissance.
 
-Dans le ciel, les rétrogradations dont on entend le plus parler sont celles de Mercure, de Vénus et de Mars. Je lis chacune comme une saison de révision pour la fonction de la planète, dans la maison de votre thème où elle recule. C’est le temps qu’il fait, pas une prédiction : une rétrogradation ne fait rien arriver, elle décrit une façon plus lente et plus réfléchie d’aborder ce qui est déjà là.
+Dans le ciel, les rétrogradations dont on entend le plus parler sont celles de Mercure, de Vénus et de Mars. Je lis chacune comme une saison de révision pour la fonction de la planète, dans la maison de votre thème où elle recule. Je le lis comme le temps qu’il fait, non comme une prédiction : une rétrogradation ne fait rien arriver, elle décrit une façon plus lente et plus réfléchie d’aborder ce qui est déjà là.
 
 ## Idées reçues {#idees-recues}
 

@@ -36,7 +36,7 @@ The new moon is the one phase of the Moon that nobody sees. For a day or two the
 
 ## What it is {#what-it-is}
 
-A new moon is the moment the Moon passes the Sun: both at the same degree of the zodiac, the Moon’s sunlit side facing away from Earth. Astronomers time it to the minute, as the instant the two share the same longitude. It always falls in the Sun’s sign, at the Sun’s degree. The new moon of 9 November 2026, for instance, has the Sun and Moon together at 16°53′ Scorpio, a [New moon in Scorpio](/astrology/new-moon-in-scorpio/).
+At a new moon, the Moon overtakes the Sun: the two stand at the same degree of the zodiac, and the Moon’s sunlit side faces away from Earth. Astronomers time it to the minute, as the instant the two share the same longitude. It always falls in the Sun’s sign, at the Sun’s degree. The new moon of 9 November 2026, for instance, has the Sun and Moon together at 16°53′ Scorpio, a [New moon in Scorpio](/astrology/new-moon-in-scorpio/).
 
 From there the Moon draws ahead, about 12° a day on average, and the cycle runs on through the [waxing crescent](/astrology/waxing-crescent/) to the first quarter and the full moon. Astrologers who use Dane Rudhyar’s eight phases, from *The Lunation Cycle* (1967), treat the new moon not as an instant but as the first of eight equal phases: the Moon 0° to 45° ahead of the Sun, about 3¾ days. A birth two days after the exact new moon, when a fine crescent may already show at dusk, still belongs to it.
 

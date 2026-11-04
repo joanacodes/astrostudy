@@ -52,7 +52,7 @@ Le carré qui en est le cœur est le même aspect qu’au premier quartier, et l
 
 Pour une naissance au dernier quartier, votre thème a un carré décroissant entre le Soleil et la Lune, et la page [Soleil carré Lune](/astrology/sun-square-moon/) décrit l’aspect lui-même. Ce que la phase ajoute, c’est un sens de marche. Je lis le dernier quartier comme un carré abordé de l’intérieur : quand ce que vous voulez et ce dont vous avez besoin tirent dans deux sens, vous tendez à trancher en changeant d’abord vos propres priorités, en revoyant, en retouchant, en décidant de ce qui peut partir. C’est la description d’un rythme, jamais un verdict, et les signes et les maisons de votre Soleil et de votre Lune lui donnent sa couleur.
 
-L’heure peut décider de la phase. Près du quartier exact, quelques heures font passer votre Lune de la phase disséminante de Rudhyar à son dernier quartier ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)) ; [votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) montre comment trouver la vôtre.
+L’heure peut décider de la phase. Près du quartier exact, quelques heures font passer votre Lune de la phase disséminante de Rudhyar à son dernier quartier ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)) ; [votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) explique comment retrouver la phase de votre naissance.
 
 Quant aux derniers quartiers du ciel, ils donnent pour moi la cadence du mois plutôt que ses événements. Je garde mon attention pour les nouvelles et les pleines lunes, et même celles-là ne comptent que sur des points déjà en jeu.
 

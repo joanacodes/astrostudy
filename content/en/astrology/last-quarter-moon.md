@@ -52,7 +52,7 @@ The square at its heart is the same aspect as at the first quarter, and the syst
 
 Born at a last quarter moon, you have the Sun square the Moon, waning, and [Sun square Moon](/astrology/sun-square-moon/) describes the aspect itself. What the phase adds is a direction of travel. I read the last quarter as a square met from the inside: when what you want and what you need pull apart, you tend to settle it by changing your own priorities first, by reviewing, editing, deciding what can go. That’s a description of a rhythm, never a verdict, and the signs and houses of your Sun and Moon give it its colour.
 
-The time can decide the phase. Near the exact quarter, a few hours move your Moon from Rudhyar’s disseminating phase into his last quarter ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)); [your birth lunar phase](/astrology/your-birth-lunar-phase/) shows how to find yours.
+The time can decide the phase. Near the exact quarter, a few hours move your Moon from Rudhyar’s disseminating phase into his last quarter ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)); [your birth lunar phase](/astrology/your-birth-lunar-phase/) explains how to work out the phase you were born in.
 
 As for the sky’s last quarters, they set the pace of the month for me rather than its events. I keep my attention for the new and full moons, and even those count only on points already in play.
 

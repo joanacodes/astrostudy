@@ -60,6 +60,6 @@ En transit, Vénus rétrograde recule pendant six semaines environ dans une mais
 ## Idées reçues {#idees-recues}
 
 - **« Pas de changement de look pendant Vénus rétrograde. »** Aucun transit ne légifère sur les coupes de cheveux. Si vous avez envie de changement, ce n’est pas au ciel qu’il faut demander.
-- **« Un mariage sous Vénus rétrograde est voué à l’échec. »** Un transit décrit le temps qu’il fait, pas une issue. Ce sont les deux personnes d’un couple qui décident de la suite, quoi que fasse Vénus le jour de la noce.
+- **« Un mariage sous Vénus rétrograde est voué à l’échec. »** Un transit dit le temps qu’il fait, il ne dit pas comment les choses finissent. Ce sont les deux personnes d’un couple qui décident de la suite, quoi que fasse Vénus le jour de la noce.
 - **« Avec Vénus rétrograde à la naissance, l’amour sera difficile. »** Cela décrit une façon de valoriser qui prend son temps, pas un amour qui ne viendra pas. La chaleur est bien là ; elle arrive à son heure.
 - **« Vénus rétrograde arrive au hasard. »** Elle suit un calendrier strict : tous les huit ans, elle recule presque au même endroit.
