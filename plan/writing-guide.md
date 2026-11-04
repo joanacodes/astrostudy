@@ -208,6 +208,31 @@ Title: the plan's (*Sun square Moon* · *Soleil carré Lune*); h1: *Sun square M
 
 **Not junk, page by page.** Each page answers the question in its title on its own, and holds at least one thing a competitor couldn't have written: the count above, and the library's reading of these two functions. Two pages of the same pair, or of the same aspect, never share a sentence: say what this pair does that another pair wouldn't, and what this aspect does to this pair that another aspect wouldn't. No sentence that would fit any pair with the names swapped.
 
+### Synastry aspect (one person's body, the other's)
+
+| | English | French |
+|---|---|---|
+| 1 | `## What flows {#what-flows}` | `## Ce qui circule {#ce-qui-circule}` |
+| 2 | `## Where it rubs {#where-it-rubs}` | `## Là où ça frotte {#la-ou-ca-frotte}` |
+| 3 | `## How to meet it {#how-to-meet-it}` | `## Comment le vivre {#comment-le-vivre}` |
+
+Title: the plan's (*Sun square Moon in synastry* · *Soleil carré Lune en synastrie*); h1: *Sun square Moon between two charts* · *Soleil carré Lune entre deux thèmes*; `family: "combinations"`; glyph: the natal aspect's (*☉□☽*); no `terms`.
+
+- **The grammar.** One person's body meets the other's: the two functions of the AGS library, carried by two people, related by the aspect. The page reads it **both ways round**: what it is like to be the one with the Sun, and the one with the Moon. That difference is what makes the page particular: say who tends to feel what, never who is to blame.
+- **What flows**: what the contact gives the pair, in plain words, then what that is like to live with. For a hard aspect, what the friction makes possible; for a soft one, what comes easily.
+- **Where it rubs**: for a square or an opposition, the friction itself (a square is *friction*, never *failure*; an opposition is a *seesaw*, never *enmity*); for a trine or sextile, what the ease can hide; for a conjunction, where two things this close blur.
+- **How to meet it**: what helps, for any adult pair: a couple, friends, family, coworkers (the four synastry readings). One line on consent where it fits, linked: [why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/).
+- **How common**, from `plan/synastry-facts.json`, said once with the orb:
+  - When one of the two is the Sun, Moon, Mercury, Venus or Mars: *about 1 pair of people in 7 has it, one way round or the other, within 6.8°*. The orbs are the ones my synastry readings use (the wider of the two bodies: Sun and Moon 8°, Mercury, Venus and Mars 6°, Jupiter and Saturn 5°, Uranus, Neptune and Pluto 4°, Chiron, Lilith and the North Node 3°; the full orb for a conjunction or an opposition, 85% of it for a trine or a square, 60% for a sextile).
+  - For the Sun, Mercury and Venus with each other, how far apart the two birthdays usually are, any year (`birthdayGapDays`), because Mercury and Venus stay close to the Sun. When the same aspect can't exist inside one chart (the plan has no natal page for it: Mercury is never more than about 28° from the Sun, Venus about 47°, and the two never more than about 75° apart), say so: this contact only exists between two people.
+  - When **neither** is personal (two of Jupiter, Saturn, Uranus, Neptune, Pluto, Chiron, Lilith, the North Node): no count, because it depends on the two birth years. Say **who has it**, from `examples`: *someone born in mid-1965 and someone born between October 1960 and August 1965*. Everyone born in the same few years shares these contacts, so in my synastry readings I count only contacts with at least one personal body: the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. A contact between two slow bodies I read through the houses it falls in, as a difference between two eras more than between two people.
+- **The birth time**: both charts need one (no reading without it). Say where it decides the contact: the Moon moves about 13° a day, so with the Moon the time can make or unmake it; the houses each body falls into always need it.
+- Link the same aspect in one birth chart when the plan has the page (*[Sun square Moon](/astrology/sun-square-moon/)*), as one line.
+- Facts keys: Bodies (*One person's Sun ☉, the other's Moon ☽*) · Aspect (with its angle) · Nature · Orb (*6.8°, the orb I use in synastry*) · How common (*About 1 pair in 7, either way round*) or, for two slow bodies, Who has it (one example). French: Corps · Aspect · Nature · Orbe · Fréquence (or Qui l’a).
+- Sources: *Ptolemy, Tetrabiblos, book I* for the five aspects, and *The Astro Study's count from the planets' positions, 1930–2009* (French: *Le décompte de The Astro Study d’après la position des planètes, 1930–2009*) for the count.
+
+**Not junk, page by page.** Each page answers its title on its own and holds what a competitor couldn't have written: the count or the birth years, the both-ways reading, and the library's two functions. Two pages of the same pair, or of the same aspect, never share a sentence; no sentence would fit another pair with the names swapped.
+
 ### A body in a sign, a body in a house
 
 | | English | French |
