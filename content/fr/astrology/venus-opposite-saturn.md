@@ -2,13 +2,13 @@
 title: "Vénus opposition Saturne"
 slug: "venus-opposition-saturne"
 h1: "Vénus opposition Saturne dans un thème natal"
-description: "Vénus opposition Saturne dans un thème natal : une ligne entre ce que vous aimez et ce que vous devez, et l’équilibre qui s’apprend."
+description: "Vénus opposition Saturne dans un thème natal : une ligne entre vos amours et vos devoirs, et l’équilibre qui s’apprend avec le temps."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 169
 glyph: "♀☍♄"
-definition: "Vénus opposition Saturne signifie qu’à votre naissance, Vénus et Saturne étaient à environ 180° d’écart, dans des signes opposés. Dans un thème, ce qui vous plaît fait face à ce dont vous vous sentez responsable : la tendresse d’un côté, les règles de l’autre. J’y lis un équilibre entre plaisir et devoir, souvent appris d’abord à travers quelqu’un d’autre."
+definition: "Vénus opposition Saturne signifie que Vénus et Saturne se trouvaient à quelque 180° d’écart à votre naissance, dans des signes qui se font face. Ce qui vous plaît y fait face à ce dont vous vous sentez responsable : la tendresse d’un côté, les règles de l’autre. J’y lis un équilibre entre plaisir et devoir, souvent appris à travers quelqu’un d’autre."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Saturne ♄" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -57,6 +57,6 @@ Entre deux thèmes, [Vénus opposition Saturne en synastrie](/astrology/venus-op
 
 ## En transit {#en-transit}
 
-En [transit](/astrology/transits/), [Saturne en transit opposition Vénus du thème natal](/astrology/transiting-saturn-opposite-natal-venus/) arrive une quinzaine d’années après chaque passage de Saturne sur votre Vénus, une fois par tour, et s’attarde des semaines ou des mois. Pour qui porte cette opposition, ce transit accompagne les deux [retours de Saturne](/astrology/saturn-return/), à la fin de la vingtaine puis vers 58 à 60 ans : Saturne retrouve son degré de naissance, juste en face de votre Vénus, et la vieille question du plaisir et du devoir revient se régler, à votre façon.
+En [transit](/astrology/transits/), [Saturne en transit opposition Vénus du thème natal](/astrology/transiting-saturn-opposite-natal-venus/) arrive au milieu du tour de Saturne, une quinzaine d’années après son passage sur votre Vénus, et reste quelques semaines ou quelques mois. Pour qui porte cette opposition, ce transit accompagne les deux [retours de Saturne](/astrology/saturn-return/), à la fin de la vingtaine puis vers 58 à 60 ans : Saturne retrouve son degré de naissance, juste en face de votre Vénus, et la vieille question du plaisir et du devoir revient se régler, à votre façon.
 
 Une météo, pas une prédiction : une saison de rééquilibrage, jamais un verdict sur une relation.

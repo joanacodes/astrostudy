@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 153
 glyph: "☿△☊"
-definition: "Mercure trigone Nœud Nord signifie qu’à votre naissance, Mercure se trouvait à environ 120° du Nœud Nord, et donc à environ 60° du Nœud Sud. Dans un thème, ce trigone laisse votre façon de penser vous porter vers un terrain moins familier sans vous couper de ce que vous savez. L’aisance est réelle, et demande encore de la pratique."
+definition: "Mercure trigone Nœud Nord signifie qu’à votre naissance, environ 120° séparaient Mercure du Nœud Nord, et environ 60° du Nœud Sud. Dans un thème, ce trigone laisse votre façon de penser vous porter vers un terrain moins familier sans vous couper de ce que vous savez. L’aisance est réelle, et demande encore de la pratique."
 facts:
   - { k: "Corps", v: "Mercure ☿ et le Nœud Nord ☊" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -48,7 +48,7 @@ Dans un thème, ce trigone se montre souvent comme un apprentissage qui mène qu
 
 Environ 1 personne sur 19 naît avec Mercure à moins de 6° d’un trigone exact au Nœud Nord. Plus le trigone est serré, plus penser et grandir ressemblent à une seule route ; au bord de l’orbe, l’aide est là, mais il faut aller la chercher.
 
-Le nœud met environ 18 mois à traverser un signe, à reculons, et Mercure bien moins : c’est surtout votre date de naissance qui décide de l’aspect. Je regarde à la fois le nœud moyen et le nœud vrai ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)), qui peuvent faire entrer ou sortir de l’orbe un trigone proche de sa limite.
+Le nœud met environ 18 mois à traverser un signe, à reculons, et Mercure bien moins : c’est surtout votre date de naissance qui décide de l’aspect. Je regarde à la fois le nœud moyen et le nœud vrai ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)) ; près de la limite de l’orbe, l’un peut compter un trigone que l’autre écarte.
 
 Aux nœuds, chaque aspect de Mercure donne à l’esprit un autre rôle :
 

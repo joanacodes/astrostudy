@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 166
 glyph: "♀⚹♄"
-definition: "Vénus sextile Saturne signifie qu’à votre naissance, Vénus et Saturne étaient à environ 60° d’écart, en général dans des signes d’éléments complémentaires. Dans un thème, ce sextile offre à ce qui compte pour vous l’aide de la patience : un amour qui grandit de petites promesses tenues, un goût affiné par la pratique. L’aide est réelle dès que vous la saisissez."
+definition: "Vénus sextile Saturne signifie que, dans votre thème, un angle d’environ 60° relie Vénus et Saturne, en général à deux signes d’intervalle. Dans un thème, ce sextile offre à ce qui compte pour vous l’aide de la patience : un amour qui grandit de petites promesses tenues, un goût affiné par la pratique. L’aide est réelle dès que vous la saisissez."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Saturne ♄" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -53,10 +53,10 @@ Les autres aspects de la paire, pour comparer :
 - **[Vénus trigone Saturne](/astrology/venus-trine-saturn/) :** une constance dans un même élément, si naturelle que la loyauté ne ressemble guère à un effort.
 - **[Vénus opposition Saturne](/astrology/venus-opposite-saturn/) :** le plaisir face à la responsabilité, d’un bout à l’autre du thème ; un équilibre souvent appris à travers la vie à deux.
 
-Entre deux thèmes, dans [Vénus sextile Saturne en synastrie](/astrology/venus-sextile-saturn-synastry/), la tendresse de l’une des deux personnes coopère avec la stabilité de l’autre : le genre de lien qui se renforce à chaque année ordinaire, et que chacune apprécie pour des raisons différentes. Je lis donc les deux thèmes.
+Entre deux thèmes, dans [Vénus sextile Saturne en synastrie](/astrology/venus-sextile-saturn-synastry/), la tendresse de l’une des deux personnes s’appuie sur la stabilité de l’autre : le genre de lien qui se renforce à chaque année ordinaire, et que chacune apprécie pour des raisons différentes. Je lis donc les deux thèmes.
 
 ## En transit {#en-transit}
 
-En [transit](/astrology/transits/), [Saturne en transit sextile Vénus du thème natal](/astrology/transiting-saturn-sextile-natal-venus/) arrive environ cinq ans, puis vingt-cinq ans, après chaque passage de Saturne sur votre Vénus, et s’attarde des semaines, ou des mois quand la rétrogradation de Saturne ramène l’aspect : une saison où un engagement lent, envers une personne, une pratique ou vous-même, paraît faisable. Entre-temps, deux fois par an environ, un sextile de Vénus, dans le ciel, à Saturne dans votre thème offre un jour ou deux où le choix patient est aussi le plus agréable.
+En [transit](/astrology/transits/), [Saturne en transit sextile Vénus du thème natal](/astrology/transiting-saturn-sextile-natal-venus/) arrive cinq ans environ après que Saturne a croisé votre Vénus, puis de nouveau cinq ans avant son retour, et s’attarde des semaines, ou des mois quand la rétrogradation de Saturne ramène l’aspect : une saison où un engagement lent, envers une personne, une pratique ou vous-même, paraît faisable. Entre-temps, deux fois par an environ, un sextile de Vénus, dans le ciel, à Saturne dans votre thème offre un jour ou deux où le choix patient est aussi le plus agréable.
 
 Une météo, pas une prédiction : un bon moment pour construire, sans promesse sur ce qui sera construit.

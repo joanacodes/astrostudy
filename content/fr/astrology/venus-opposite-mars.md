@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 159
 glyph: "♀☍♂"
-definition: "Vénus opposition Mars signifie qu’à votre naissance, Vénus et Mars étaient à environ 180° d’écart, dans des signes opposés : le plus rare de leurs aspects. Dans un thème, ce qui vous plaît et la façon d’aller le chercher se tiennent aux deux bouts d’une même ligne : vous penchez d’un côté, puis de l’autre, jusqu’à faire vôtres les deux bouts."
+definition: "Vénus opposition Mars signifie que votre thème place Vénus et Mars à environ 180° d’écart, dans des signes opposés : le plus rare de leurs aspects. Dans un thème, le goût et la poursuite se tiennent aux deux bouts d’une même ligne : vous penchez d’un côté, puis de l’autre, jusqu’à faire vôtres les deux bouts."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Mars ♂" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/venus", "/astrology/mars", "/astrology/opposition", "/astrology/venus-trine-mars", "/astrology/venus-opposite-mars-synastry"]
 faq:
   - q: "Que veut dire Vénus opposition Mars dans un thème natal ?"
-    a: "Le jour de votre naissance, Vénus et Mars se faisaient face dans le ciel. Aimer et poursuivre occupent alors les deux bouts d’une même ligne : vous oscillez parfois entre conciliation et poussée, et chaque oscillation vous apprend quelque chose. J’y vois un équilibre construit avec le temps, pas une contradiction en vous."
+    a: "Vénus et Mars se faisaient face dans le ciel de votre naissance. Aimer et poursuivre occupent alors les deux bouts d’une même ligne : vous oscillez parfois entre conciliation et poussée, et chaque oscillation vous apprend quelque chose. J’y vois un équilibre construit avec le temps, pas une contradiction en vous."
   - q: "Pourquoi l’opposition Vénus–Mars est-elle si rare ?"
     a: "À cause du Soleil. Vénus ne s’en éloigne jamais de plus de 47° environ : pour se trouver en face de Vénus, Mars doit être loin du Soleil dans le ciel. Cela n’arrive que dans les mois qui entourent l’opposition de Mars au Soleil, environ tous les deux ans, et c’est pourquoi si peu de personnes naissent avec cet aspect."
   - q: "Vénus opposition Mars, est-ce l’attirance des contraires ?"
@@ -32,7 +32,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes naissent avec cet aspect" }
   - { title: "NASA — Venus facts", url: "https://science.nasa.gov/venus/venus-facts/", note: "une orbite intérieure à celle de la Terre, qui garde Vénus près du Soleil" }
 ---
-Vénus opposition Mars place ce qui vous plaît et la façon d’aller le chercher aux deux bouts du thème. C’est aussi la plus rare des rencontres entre ces deux planètes, et la raison est écrite dans le ciel.
+Vénus opposition Mars met le goût et la poursuite aux deux bouts du thème. C’est aussi la plus rare des rencontres entre ces deux planètes, et la raison est écrite dans le ciel.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
@@ -53,7 +53,7 @@ Les autres aspects de la paire, vus de ce bout-ci :
 - **[Vénus carré Mars](/astrology/venus-square-mars/) :** un angle droit plutôt qu’une ligne droite ; les deux frottent dans le temps au lieu de se refléter.
 - **[Vénus trigone Mars](/astrology/venus-trine-mars/) :** un tiers de cercle d’écart, dans un même élément ; un soutien qui se passe d’intermédiaire.
 
-Entre deux thèmes, dans [Vénus opposition Mars en synastrie](/astrology/venus-opposite-mars-synastry/), le goût de l’une des deux personnes fait face à l’élan de l’autre, de part et d’autre de la table : une forte attraction, qui demande en général un donnant-donnant attentif, et que chacune décrit souvent à sa façon.
+Entre deux thèmes, dans [Vénus opposition Mars en synastrie](/astrology/venus-opposite-mars-synastry/), l’attrait de l’une des deux personnes fait face à l’élan de l’autre, de part et d’autre de la table : une forte attraction, qui demande en général un donnant-donnant attentif, et que chacune décrit souvent à sa façon.
 
 ## En transit {#en-transit}
 

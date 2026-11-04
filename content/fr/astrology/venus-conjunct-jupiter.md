@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 160
 glyph: "♀☌♃"
-definition: "Vénus conjonction Jupiter signifie qu’à votre naissance, Vénus et Jupiter se trouvaient à quelques degrés d’écart, en général dans le même signe. Dans un thème, ce qui compte pour vous et ce qui vous fait grandir s’unissent : goût et générosité s’élargissent ensemble. La tradition y voyait les deux bénéfiques ; j’y lis une abondance qui apprend ce qu’est assez."
+definition: "Vénus conjonction Jupiter signifie que les deux planètes se rejoignaient à votre naissance, à quelques degrés près, en général dans un même signe. Dans un thème, ce qui compte pour vous et ce qui vous fait grandir s’unissent : goût et générosité s’élargissent ensemble. La tradition y voyait les deux bénéfiques ; j’y lis une abondance qui apprend ce qu’est assez."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Jupiter ♃" }
   - { k: "Aspect", v: "Conjonction ☌, 0°" }
@@ -55,7 +55,7 @@ Sous chacun de leurs autres angles, le goût et la croissance s’entendent autr
 - **[Vénus trigone Jupiter](/astrology/venus-trine-jupiter/) :** l’appréciation et la bienveillance coulent dans un même élément ; une vraie aisance, qui demande un peu de discernement.
 - **[Vénus opposition Jupiter](/astrology/venus-opposite-jupiter/) :** le proche et le lointain d’un bout à l’autre du thème ; un équilibre souvent trouvé à travers les autres.
 
-Entre deux thèmes, [Vénus conjonction Jupiter en synastrie](/astrology/venus-conjunct-jupiter-synastry/) dépose le goût de l’une des deux personnes sur l’envie de grandir de l’autre : le genre de contact qui rend la générosité contagieuse. La chaleur y circule rarement à parts égales : je regarde donc chaque thème.
+Entre deux thèmes, [Vénus conjonction Jupiter en synastrie](/astrology/venus-conjunct-jupiter-synastry/) dépose le sens du plaisir de l’une des deux personnes sur l’envie de grandir de l’autre : le genre de contact qui rend la générosité contagieuse. La chaleur y circule rarement à parts égales : je regarde donc chaque thème.
 
 ## En transit {#en-transit}
 

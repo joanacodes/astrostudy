@@ -2,13 +2,13 @@
 title: "Vénus carré Neptune"
 slug: "venus-carre-neptune"
 h1: "Vénus carré Neptune dans un thème natal"
-description: "Vénus carré Neptune dans un thème natal : l’idéal et le réel à angle droit, l’amour qui apprend à voir clair, et ses longues saisons."
+description: "Vénus carré Neptune dans un thème natal : l’idéal et le réel à angle droit, une tendresse qui finit par voir clair, et ses longues saisons."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 177
 glyph: "♀□♆"
-definition: "Vénus carré Neptune signifie qu’à votre naissance, Vénus et Neptune étaient à environ 90° d’écart, en général dans des signes du même mode. Dans un thème, la valeur que vous donnez aux choses et vos rêves frottent l’un contre l’autre : idéal et réel coïncident rarement au début. Pour moi, c’est une friction qui enseigne : aimer clairement, sans aimer moins."
+definition: "Vénus carré Neptune signifie qu’à votre naissance, Vénus et Neptune étaient à environ 90° d’écart, souvent dans des signes d’un même mode. Dans un thème, la valeur que vous donnez aux choses et vos rêves frottent l’un contre l’autre : idéal et réel coïncident rarement au début. Pour moi, c’est une friction qui enseigne : aimer clairement, sans aimer moins."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Neptune ♆" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/venus", "/astrology/neptune", "/astrology/square", "/astrology/venus-square-neptune-synastry", "/astrology/transiting-neptune-square-natal-venus"]
 faq:
   - q: "Que veut dire Vénus carré Neptune dans un thème natal ?"
-    a: "À votre naissance, Neptune se trouvait à environ 90° de Vénus. Votre sens de ce qui vaut la peine et votre désir d’autre chose frottent l’un contre l’autre : vous vous éprenez parfois d’un potentiel, ou donnez plus que vous ne recevez. Avec le temps, cela devient souvent une tendresse lucide."
+    a: "À votre naissance, Neptune se trouvait à environ 90° de Vénus. Votre sens de ce qui vaut la peine et votre désir d’autre chose frottent l’un contre l’autre : vous vous éprenez parfois d’un potentiel, ou donnez plus que vous ne recevez. Peu à peu, une tendresse lucide en naît souvent."
   - q: "Est-ce que Vénus carré Neptune annonce des tromperies en amour ?"
     a: "Non. Neptune décrit l’imagination et la compassion, pas la tromperie, et ce carré décrit l’écart entre un idéal et la personne réelle, pas un mensonge. Ce carré peut retarder le moment où vous voyez ce qui ne colle pas à l’image. Comparer l’image à la vie réelle, avec douceur et souvent, c’est le talent qu’il construit."
   - q: "Pourquoi s’éprend-on d’un potentiel avec Vénus carré Neptune ?"
@@ -53,10 +53,10 @@ Les autres rencontres de la paire :
 - **[Vénus trigone Neptune](/astrology/venus-trine-neptune/) :** les deux dans un même élément ; une bonté facile, qui laisse l’amour voir large.
 - **[Vénus opposition Neptune](/astrology/venus-opposite-neptune/) :** le quotidien à un bout, le rêve à l’autre ; l’équilibre vient d’accueillir les deux.
 
-Entre deux thèmes, dans [Vénus carré Neptune en synastrie](/astrology/venus-square-neptune-synastry/), le goût de l’une des deux personnes rencontre de biais le rêve de l’autre : un contact tour à tour enchanteur et déroutant. Il vaut la peine de se demander, des deux côtés, ce qui relève du regard et ce qui relève du rêve : je lis donc les deux thèmes.
+Entre deux thèmes, dans [Vénus carré Neptune en synastrie](/astrology/venus-square-neptune-synastry/), le discernement de l’une des deux personnes rencontre de biais le rêve de l’autre : un contact tour à tour enchanteur et déroutant. Il vaut la peine de se demander, des deux côtés, ce qui relève du regard et ce qui relève du rêve : je lis donc les deux thèmes.
 
 ## En transit {#en-transit}
 
-En [transit](/astrology/transits/), [Neptune en transit carré Vénus du thème natal](/astrology/transiting-neptune-square-natal-venus/) ne se présente pas plus d’une fois dans la plupart des vies et reste un an ou deux : un temps où ce que vous aimez et ce que vous trouvez beau peuvent se brouiller avant de s’éclaircir. Avec ce carré dans votre propre thème, votre [carré de Neptune](/astrology/neptune-square/), vers 41 ans, a une particularité : Neptune, dans le ciel, passe alors sur votre Vénus ou s’y oppose, selon le côté de Neptune où se trouve votre Vénus.
+En [transit](/astrology/transits/), [Neptune en transit carré Vénus du thème natal](/astrology/transiting-neptune-square-natal-venus/) ne se présente pas plus d’une fois dans la plupart des vies et reste un an ou deux : un temps où vos amours et votre sens du beau peuvent se brouiller avant de s’éclaircir. Avec ce carré dans votre propre thème, votre [carré de Neptune](/astrology/neptune-square/), vers 41 ans, a une particularité : Neptune, dans le ciel, passe alors sur votre Vénus ou s’y oppose, selon le côté de Neptune où se trouve votre Vénus.
 
 Une météo, pas une prédiction : une saison un peu floue, qui s’éclaircit à son heure.

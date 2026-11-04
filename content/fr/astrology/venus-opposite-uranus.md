@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 174
 glyph: "♀☍♅"
-definition: "Vénus opposition Uranus signifie qu’à votre naissance, Vénus et Uranus étaient à environ 180° d’écart, dans des signes opposés. Dans un thème, la proximité se tient à un bout d’une ligne et la liberté à l’autre : vous voulez les deux, et rencontrez souvent l’une d’elles chez quelqu’un d’autre d’abord. J’y lis l’art de demander les deux à la fois."
+definition: "Vénus opposition Uranus signifie qu’à votre naissance, Vénus et Uranus étaient à environ 180° d’écart, à six signes d’intervalle. Dans un thème, la proximité se tient à un bout d’une ligne et la liberté à l’autre : vous voulez les deux, et rencontrez souvent l’une d’elles chez quelqu’un d’autre d’abord. J’y lis l’art de demander les deux à la fois."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Uranus ♅" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -42,21 +42,21 @@ Je lis tout cela comme une tendance dans votre façon d’aimer, jamais comme un
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Les deux planètes se tiennent dans des signes opposés, qui partagent un mode. Avec Vénus en Lion face à Uranus en Verseau, le signe que les modernes donnent à Uranus, le désir chaleureux de compter pour quelqu’un fait face au besoin plus frais de n’appartenir à personne ; avec Vénus en Taureau en face d’Uranus en Scorpion, l’amour du confort fait face à une envie de changement qui va loin. Les maisons rendent cela concret : Vénus en maison 1 et Uranus en maison 7 pourraient amener des partenaires qui arrivent soudain ou ont besoin d’espace ; Vénus en maison 5 et Uranus en maison 11, une vie amoureuse et des amitiés qui demandent à être distinguées.
+Les deux planètes se tiennent dans des signes opposés, du même mode. Avec Vénus en Lion face à Uranus en Verseau, le signe que les modernes donnent à Uranus, le désir chaleureux de compter pour quelqu’un fait face au besoin plus frais de n’appartenir à personne ; avec Vénus en Taureau en face d’Uranus en Scorpion, l’amour du confort fait face à une envie de changement qui va loin. Les maisons rendent cela concret : Vénus en maison 1 et Uranus en maison 7 pourraient amener des partenaires qui arrivent soudain ou ont besoin d’espace ; Vénus en maison 5 et Uranus en maison 11, une vie amoureuse et des amitiés qui demandent à être distinguées.
 
 Environ 1 personne sur 32 naît avec Vénus et Uranus à moins de 6° d’une opposition exacte. Serrée, elle traverse chaque lien proche ; large, elle revient surtout quand une relation arrive à un carrefour.
 
 Et les autres aspects de la paire :
 
 - **[Vénus conjonction Uranus](/astrology/venus-conjunct-uranus/) :** les deux côte à côte ; l’étincelle et le besoin d’espace d’un même geste.
-- **[Vénus sextile Uranus](/astrology/venus-sextile-uranus/) :** un angle amical ; le nouveau rejoint ce que vous aimez par les amitiés et les idées.
+- **[Vénus sextile Uranus](/astrology/venus-sextile-uranus/) :** un angle amical ; la nouveauté se glisse dans ce que vous aimez par les amitiés et les idées.
 - **[Vénus carré Uranus](/astrology/venus-square-uranus/) :** un angle droit ; l’attachement et le changement frottent jusqu’à ce que quelque chose se réforme.
 - **[Vénus trigone Uranus](/astrology/venus-trine-uranus/) :** un angle doux dans un même élément ; la liberté et la tendresse sans querelle.
 
-Entre deux thèmes, [Vénus opposition Uranus en synastrie](/astrology/venus-opposite-uranus-synastry/) place l’attachement de l’une des deux personnes face à l’indépendance de l’autre : un contact électrique, qui demande beaucoup d’honnêteté sur l’espace. L’une sent en général l’attraction, l’autre la poussée : je lis donc chaque thème à son tour.
+Entre deux thèmes, [Vénus opposition Uranus en synastrie](/astrology/venus-opposite-uranus-synastry/) met en regard l’attachement de l’une des deux personnes et l’indépendance de l’autre : un contact électrique, qui demande beaucoup d’honnêteté sur l’espace. L’une sent en général l’attraction, l’autre la poussée : je lis donc chaque thème à son tour.
 
 ## En transit {#en-transit}
 
-En [transit](/astrology/transits/), [Uranus en transit opposition Vénus du thème natal](/astrology/transiting-uranus-opposite-natal-venus/) marque le milieu du cycle, environ 42 ans après la rencontre d’Uranus avec votre Vénus, et dure, comme les autres, un an environ. Quand cette opposition est la vôtre, vous rencontrez plutôt l’autre moitié du tableau vers 42 ans : à votre [opposition d’Uranus](/astrology/uranus-opposition/), Uranus, dans le ciel, vient se poser sur votre Vénus, comme si le bout lointain de la ligne avait traversé le thème pour une visite.
+En [transit](/astrology/transits/), [Uranus en transit opposition Vénus du thème natal](/astrology/transiting-uranus-opposite-natal-venus/) marque le milieu du cycle, environ 42 ans après qu’Uranus a rejoint votre Vénus, et dure, comme les autres, un an environ. Quand cette opposition est la vôtre, vous rencontrez plutôt l’autre moitié du tableau vers 42 ans : à votre [opposition d’Uranus](/astrology/uranus-opposition/), Uranus, dans le ciel, vient se poser sur votre Vénus, comme si le bout lointain de la ligne avait traversé le thème pour une visite.
 
 Une météo, pas une prédiction : une saison pour renégocier la proximité et l’espace, jamais l’annonce d’une fin.

@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 176
 glyph: "♀⚹♆"
-definition: "Vénus sextile Neptune signifie qu’à votre naissance, Vénus et Neptune étaient à environ 60° d’écart, en général dans des signes d’éléments complémentaires. Dans un thème, l’imagination et la compassion viennent en aide à ce que vous aimez : l’art, la bonté, un rêve qui prend forme. Comme pour tout sextile, le don attend que vous agissiez."
+definition: "Vénus sextile Neptune signifie que 60° environ séparaient Vénus et Neptune à votre naissance, souvent dans des signes aux éléments complémentaires. Dans un thème, l’imagination et la compassion viennent en aide à ce que vous aimez : l’art, la bonté, un rêve qui prend forme. Comme pour tout sextile, le don attend que vous agissiez."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Neptune ♆" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -54,7 +54,7 @@ Les autres façons dont les deux planètes se rencontrent :
 - **[Vénus trigone Neptune](/astrology/venus-trine-neptune/) :** l’imagination et l’affection dans un même élément ; une tendresse qui vient facilement et pardonne vite.
 - **[Vénus opposition Neptune](/astrology/venus-opposite-neptune/) :** le réel et l’idéal face à face ; un rêve que vous rencontrez parfois d’abord chez quelqu’un d’autre.
 
-Entre deux thèmes, dans [Vénus sextile Neptune en synastrie](/astrology/venus-sextile-neptune-synastry/), le goût de l’une des deux personnes et l’imagination de l’autre se rencontrent avec douceur : des musiques partagées, des rêves partagés, une gentillesse facile. La personne qui rêve et celle dont on rêve ne remarquent pas toujours les mêmes choses : je le lis donc de chaque côté.
+Entre deux thèmes, dans [Vénus sextile Neptune en synastrie](/astrology/venus-sextile-neptune-synastry/), la sensibilité de l’une des deux personnes et l’imagination de l’autre se rencontrent avec douceur : des musiques partagées, des rêves partagés, une gentillesse facile. La personne qui rêve et celle dont on rêve ne remarquent pas toujours les mêmes choses : je le lis donc de chaque côté.
 
 ## En transit {#en-transit}
 

@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 161
 glyph: "♀⚹♃"
-definition: "Vénus sextile Jupiter signifie qu’à votre naissance, Vénus et Jupiter étaient à environ 60° d’écart, en général dans des signes d’éléments complémentaires. Dans un thème, ce sextile relie ce qui vous plaît et ce qui vous fait grandir par l’occasion : des plaisirs qui instruisent, des amitiés qui élargissent la vue. Il agit quand vous dites oui aux ouvertures."
+definition: "Vénus sextile Jupiter signifie que Vénus et Jupiter se trouvaient à quelque 60° d’écart à votre naissance, souvent l’air avec le feu, ou l’eau avec la terre. Dans un thème, ce qui vous plaît et ce qui vous fait grandir se rejoignent par l’occasion : des plaisirs qui instruisent, des amitiés qui élargissent la vue. Il agit quand vous dites oui."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Jupiter ♃" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -53,10 +53,10 @@ Sous les autres angles de la paire, le goût et la croissance passent d’autres
 - **[Vénus trigone Jupiter](/astrology/venus-trine-jupiter/) :** le goût et le sens dans un même élément, si fluides qu’on les tient pour acquis.
 - **[Vénus opposition Jupiter](/astrology/venus-opposite-jupiter/) :** le plaisir tout proche et le sens au loin, aux deux bouts du thème, qui apprennent à se relayer.
 
-Entre deux thèmes, dans [Vénus sextile Jupiter en synastrie](/astrology/venus-sextile-jupiter-synastry/), le goût de l’une des deux personnes coopère avec l’ouverture de l’autre : l’amitié qui vous fait découvrir un monde, et aime votre compagnie dedans. Qui ouvre le monde et qui en profite peut changer avec les années ; je lis les deux thèmes, et seulement quand les deux personnes ont accepté la lecture ([synastrie et consentement](/blog/synastry-behind-their-back/)).
+Entre deux thèmes, dans [Vénus sextile Jupiter en synastrie](/astrology/venus-sextile-jupiter-synastry/), les plaisirs de l’une des deux personnes coopèrent avec l’ouverture de l’autre : l’amitié qui vous fait découvrir un monde, et aime votre compagnie dedans. Qui ouvre le monde et qui en profite peut changer avec les années ; je lis les deux thèmes, et seulement quand les deux personnes ont accepté la lecture ([synastrie et consentement](/blog/synastry-behind-their-back/)).
 
 ## En transit {#en-transit}
 
-En [transit](/astrology/transits/), [Jupiter en transit sextile Vénus du thème natal](/astrology/transiting-jupiter-sextile-natal-venus/) arrive environ deux ans, puis dix ans, après chaque passage de Jupiter sur votre Vénus, et dure des semaines, davantage quand la rétrogradation annuelle de Jupiter ramène l’aspect : une saison où dire oui à ce qui vous plairait élargit souvent votre monde.
+En [transit](/astrology/transits/), [Jupiter en transit sextile Vénus du thème natal](/astrology/transiting-jupiter-sextile-natal-venus/) arrive environ deux ans, puis dix ans, après chaque passage de Jupiter sur votre Vénus, et tient des semaines, davantage quand la rétrogradation annuelle de Jupiter ramène l’aspect : une saison où dire oui à ce qui vous plairait élargit souvent votre monde.
 
 Une météo, pas une prédiction : une porte entrouverte, et le choix de la franchir vous appartient.

@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 156
 glyph: "♀⚹♂"
-definition: "Vénus sextile Mars signifie qu’à votre naissance, Vénus et Mars étaient à environ 60° d’écart, en général dans des signes d’éléments complémentaires. Dans un thème, ce sextile fait coopérer ce qui vous plaît et la façon d’aller le chercher, souvent sous la forme d’un don pour le premier pas bienvenu. Comme tout sextile, il agit quand vous vous en servez."
+definition: "Vénus sextile Mars signifie qu’à votre naissance, Vénus et Mars étaient à environ 60° d’écart, en général dans des signes d’éléments complémentaires. Dans un thème, ce sextile fait coopérer le goût et la poursuite, souvent sous la forme d’un don pour le premier pas bienvenu. Comme tout sextile, il agit quand vous vous en servez."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Mars ♂" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -56,10 +56,10 @@ Les autres aspects de la paire, chacun un autre arrangement entre aimer et faire
 - **[Vénus trigone Mars](/astrology/venus-trine-mars/) :** les deux vont au même pas dans un même élément ; une aisance si douce qu’on l’oublie.
 - **[Vénus opposition Mars](/astrology/venus-opposite-mars/) :** la rencontre la plus rare, les deux fonctions aux deux bouts du thème ; un équilibre souvent appris à travers les autres.
 
-Entre deux thèmes, dans [Vénus sextile Mars en synastrie](/astrology/venus-sextile-mars-synastry/), le goût de l’une des deux personnes et l’initiative de l’autre s’entendent dès le début : une chaleur qui facilite les projets plutôt qu’une étincelle. Celle qui propose et celle qui accepte avec joie ne remarquent pas les mêmes choses : je regarde donc chaque thème.
+Entre deux thèmes, dans [Vénus sextile Mars en synastrie](/astrology/venus-sextile-mars-synastry/), les préférences de l’une des deux personnes et l’initiative de l’autre s’entendent dès le début : une chaleur qui facilite les projets plutôt qu’une étincelle. Celle qui propose et celle qui accepte avec joie ne remarquent pas les mêmes choses : je regarde donc chaque thème.
 
 ## En transit {#en-transit}
 
-En [transit](/astrology/transits/), Vénus, dans le ciel, forme un sextile avec Mars dans votre thème natal environ deux fois par an, pendant un jour ou deux : un bon moment pour proposer le projet que vous retournez dans votre tête. Mars forme un sextile avec votre Vénus natale environ une fois par an, et s’attarde quelques jours de plus, car Mars avance moins vite : une énergie qui glisse sans effort vers ce qui vous plaît.
+En [transit](/astrology/transits/), deux fois par an environ, l’espace d’un jour ou deux, Vénus, dans le ciel, forme un sextile avec Mars dans votre thème natal : un bon moment pour proposer le projet que vous retournez dans votre tête. Mars forme un sextile avec votre Vénus natale environ une fois par an, et s’attarde quelques jours de plus, car Mars avance moins vite : une énergie qui glisse sans effort vers ce qui vous plaît.
 
 Une météo, pas une prédiction : une ouverture dans la semaine, à prendre ou à laisser, et rien de plus.

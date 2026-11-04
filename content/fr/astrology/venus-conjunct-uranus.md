@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 170
 glyph: "♀☌♅"
-definition: "Vénus conjonction Uranus signifie qu’à votre naissance, Vénus et Uranus étaient très proches, en général dans le même signe. Dans un thème, ce qui compte pour vous se mêle à l’envie de renouveler : un goût bien à vous, une attirance qui s’allume vite, une proximité qui a besoin d’espace. J’y lis la liberté au sein de l’amour."
+definition: "Vénus conjonction Uranus signifie qu’à votre naissance, Vénus et Uranus se tenaient côte à côte, en général dans un même signe. Dans un thème, vos valeurs se mêlent à l’envie de renouveler : un goût bien à vous, une attirance qui s’allume vite, une proximité qui a besoin d’espace. J’y lis la liberté au sein de l’amour."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Uranus ♅" }
   - { k: "Aspect", v: "Conjonction ☌, 0°" }

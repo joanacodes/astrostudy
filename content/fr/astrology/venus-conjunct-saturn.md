@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 165
 glyph: "♀☌♄"
-definition: "Vénus conjonction Saturne signifie qu’à votre naissance, Vénus et Saturne étaient très proches, en général dans le même signe. Dans un thème, ce qui compte pour vous prend le poids de ce que vous construisez pour durer : une tendresse prise au sérieux, un goût pour ce qui tient. J’y lis un amour qui a son horaire, jamais un amour refusé."
+definition: "Vénus conjonction Saturne signifie que Vénus et Saturne occupaient presque le même degré à votre naissance, le plus souvent dans un seul signe. Vos attachements y prennent le poids de ce que vous construisez pour durer : une tendresse prise au sérieux, un goût pour ce qui tient. J’y lis un amour qui a son horaire, jamais un refus."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Saturne ♄" }
   - { k: "Aspect", v: "Conjonction ☌, 0°" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/venus", "/astrology/saturn", "/astrology/conjunction", "/astrology/saturn-return", "/astrology/transiting-saturn-conjunct-natal-venus"]
 faq:
   - q: "Que veut dire Vénus conjonction Saturne dans un thème natal ?"
-    a: "Vénus et Saturne étaient côte à côte à votre naissance. Ce que vous aimez et ce que vous bâtissez pour durer vont d’un même pas : la tendresse vient avec l’engagement, et le goût penche vers ce qui tient. J’y lis un amour qui suit son horaire : lent à se dire, constant une fois dit."
+    a: "Vénus et Saturne étaient côte à côte à votre naissance. Vos amours et ce que vous bâtissez pour durer vont d’un même pas : la tendresse vient avec l’engagement, et le goût penche vers ce qui tient. J’y lis un amour qui suit son horaire : lent à se dire, constant une fois dit."
   - q: "Est-ce que Vénus conjonction Saturne veut dire un mariage tardif ?"
     a: "Un thème ne peut pas dater un mariage, et je n’essaie pas. Beaucoup d’astrologues lisent cette conjonction comme un amour qui prend son temps ; j’y lis un soin porté à ce qui vous engage, qui peut mûrir à tout âge. Si, quand et avec qui vous vous mariez, c’est entièrement votre décision."
   - q: "Est-ce que Vénus conjonction Saturne rend solitaire ?"

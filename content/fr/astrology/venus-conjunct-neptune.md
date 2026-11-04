@@ -2,13 +2,13 @@
 title: "Vénus conjonction Neptune"
 slug: "venus-conjonction-neptune"
 h1: "Vénus conjonction Neptune dans un thème natal"
-description: "Vénus conjonction Neptune dans un thème natal : ce que vous aimez uni à ce dont vous rêvez, la tendresse, le sens du beau, le carré de Neptune."
+description: "Vénus conjonction Neptune dans un thème natal : aimer et imaginer d’un même élan, la tendresse, le sens du beau, et le carré de Neptune."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 175
 glyph: "♀☌♆"
-definition: "Vénus conjonction Neptune signifie qu’à votre naissance, Vénus et Neptune étaient très proches, en général dans le même signe. Dans un thème, évaluer et imaginer ne font plus qu’un seul sentiment : une beauté qui vous émeut, un don pour voir le meilleur chez les gens. J’y lis une tâche : aimer la personne autant que l’image."
+definition: "Vénus conjonction Neptune signifie que, le jour de votre naissance, peu de degrés séparaient Vénus et Neptune, souvent dans le même signe. Dans un thème, évaluer et imaginer ne font plus qu’un seul sentiment : une beauté qui vous émeut, un don pour voir le meilleur chez les gens. J’y lis une tâche : aimer la personne autant que l’image."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Neptune ♆" }
   - { k: "Aspect", v: "Conjonction ☌, 0°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/venus", "/astrology/neptune", "/astrology/conjunction", "/astrology/venus-conjunct-neptune-synastry", "/astrology/transiting-neptune-conjunct-natal-venus"]
 faq:
   - q: "Que veut dire Vénus conjonction Neptune dans un thème natal ?"
-    a: "Neptune et Vénus se rejoignaient dans votre ciel de naissance. Ce que vous aimez et ce que vous imaginez arrivent en un seul sentiment : la beauté vous touche, l’affection est généreuse, et vous voyez les gens sous leur meilleur jour. J’y lis une tâche : garder les deux en vue, la personne aimée et l’espoir que vous placez en elle."
+    a: "Neptune et Vénus se rejoignaient dans votre ciel de naissance. Aimer et imaginer arrivent en un seul sentiment : la beauté vous touche, l’affection est généreuse, et vous voyez les gens sous leur meilleur jour. J’y lis une tâche : garder les deux en vue, la personne aimée et l’espoir que vous placez en elle."
   - q: "Est-ce que Vénus conjonction Neptune pousse à idéaliser ses partenaires ?"
     a: "Cela arrive. Cette conjonction voit volontiers ce que quelqu’un pourrait être, parfois avant que ce soit le cas. Idéaliser n’est pas se tromper soi-même, et ce peut être une façon généreuse d’aimer. La bonne habitude consiste à vérifier de temps en temps si la personne devant vous ressemble à l’image."
   - q: "Est-ce que Vénus conjonction Neptune est un aspect d’artiste ?"

@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 172
 glyph: "♀□♅"
-definition: "Vénus carré Uranus signifie qu’à votre naissance, Vénus et Uranus étaient à environ 90° d’écart, en général dans des signes du même mode. Dans un thème, l’attachement et l’envie de liberté frottent l’un contre l’autre : vous voulez proximité et air, stabilité et surprise. J’y lis un frottement qui exerce l’amour à plier sans rompre."
+definition: "Vénus carré Uranus signifie que 90° environ séparaient Vénus et Uranus à votre naissance, le plus souvent dans des signes tous deux cardinaux, fixes ou mutables. Dans un thème, l’attachement et l’envie de liberté frottent l’un contre l’autre : vous voulez proximité et air, stabilité et surprise. J’y lis un frottement qui exerce l’amour à plier sans rompre."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Uranus ♅" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/venus", "/astrology/uranus", "/astrology/square", "/astrology/venus-square-uranus-synastry", "/astrology/transiting-uranus-square-natal-venus"]
 faq:
   - q: "Que veut dire Vénus carré Uranus dans un thème natal ?"
-    a: "Entre Vénus et Uranus, votre thème montre un carré d’environ 90°. L’élan vers la proximité et l’élan vers la liberté arrivent souvent ensemble : vous aimez la stabilité et vous y sentez parfois à l’étroit. J’y lis une friction qui apprend à bâtir des liens où il y a de l’air, et qui peuvent durer plus longtemps que les autres."
+    a: "Entre Vénus et Uranus, votre thème montre un carré d’environ 90°. L’élan vers la proximité et l’élan vers la liberté arrivent souvent ensemble : vous aimez la stabilité et vous y sentez parfois à l’étroit. Cette friction apprend souvent à bâtir des liens où il y a de l’air, et qui peuvent durer plus longtemps que les autres."
   - q: "Est-ce que Vénus carré Uranus empêche de s’engager ?"
     a: "Non. Ce carré décrit un besoin d’espace et de changement au sein de l’engagement, pas une incapacité à s’engager. Les engagements qui lui conviennent le mieux laissent chaque personne libre de grandir. Le dire tôt, et choisir ensemble les changements, compte souvent plus que la promesse elle-même."
   - q: "Est-ce que Vénus carré Uranus rend les relations imprévisibles ?"
@@ -34,7 +34,7 @@ Vénus carré Uranus, c’est ce qui vous est cher qui rencontre, à angle droit
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Vénus](/astrology/venus/) s’attache et évalue : ce qui vous attire, ce que vous garderiez, ce qui rend un lien juste. [Uranus](/astrology/uranus/) libère et réforme : de l’espace, de la différence, une nouvelle façon de faire. Liées par un [carré](/astrology/square/), les deux fonctions se rencontrent dans une friction constructive : chacune dérange l’autre, et c’est dans les ajustements que vous grandissez.
+[Vénus](/astrology/venus/) s’attache et évalue : l’attirance, ce que vous garderiez, ce qui rend un lien juste. [Uranus](/astrology/uranus/) libère et réforme : de l’espace, de la différence, une nouvelle façon de faire. Liées par un [carré](/astrology/square/), les deux fonctions se rencontrent dans une friction constructive : chacune dérange l’autre, et c’est dans les ajustements que vous grandissez.
 
 Concrètement, l’élan vers quelqu’un et l’élan vers la liberté peuvent arriver ensemble. Ce qui vous surprend vous attire, puis vous avez besoin de distance ; vous aimez la stabilité et vous y sentez à l’étroit ; votre goût change juste au moment où il s’installait. Rien de tout cela n’est de l’instabilité. C’est un carré qui vous demande de concevoir des relations, et une vie, avec de l’espace dedans : une proximité qui n’enferme pas, une indépendance qui ne s’en va pas. L’harmonie, ici, n’est pas l’absence de changement : c’est un changement convenu ensemble.
 
@@ -53,10 +53,10 @@ Les autres aspects de la paire :
 - **[Vénus trigone Uranus](/astrology/venus-trine-uranus/) :** les deux dans un même élément ; une originalité qui s’accorde sans peine à la tendresse.
 - **[Vénus opposition Uranus](/astrology/venus-opposite-uranus/) :** la proximité et la liberté face à face ; un équilibre qui doit se dire à voix haute.
 
-Entre deux thèmes, [Vénus carré Uranus en synastrie](/astrology/venus-square-uranus-synastry/) met la tendresse de l’une des deux personnes en travers du besoin de liberté de l’autre : excitant, déroutant, rarement ennuyeux. Ce qui ressemble à une bouffée d’air pour l’une peut ressembler à un courant d’air pour l’autre : je lis donc les deux thèmes.
+Entre deux thèmes, [Vénus carré Uranus en synastrie](/astrology/venus-square-uranus-synastry/) confronte la tendresse de l’une des deux personnes au besoin de liberté de l’autre : excitant, déroutant, rarement ennuyeux. Ce qui ressemble à une bouffée d’air pour l’une peut ressembler à un courant d’air pour l’autre : je lis donc les deux thèmes.
 
 ## En transit {#en-transit}
 
-En [transit](/astrology/transits/), [Uranus en transit carré Vénus du thème natal](/astrology/transiting-uranus-square-natal-venus/) se situe environ 21 ans avant ou après la rencontre d’Uranus avec votre Vénus, et s’attarde un an environ : une saison où ce que vous aimez, ou votre façon d’aimer, réclame plus d’espace. Quand ce carré vous appartient, ce transit arrive avec votre [opposition d’Uranus](/astrology/uranus-opposition/), vers 42 ans, quand Uranus fait face à sa propre place de naissance et forme en même temps un carré à votre Vénus.
+En [transit](/astrology/transits/), [Uranus en transit carré Vénus du thème natal](/astrology/transiting-uranus-square-natal-venus/) se situe environ 21 ans avant ou après la rencontre d’Uranus avec votre Vénus, et s’attarde un an environ : une saison où vos amours, ou votre manière d’aimer, réclament plus d’espace. Quand ce carré vous appartient, ce transit arrive avec votre [opposition d’Uranus](/astrology/uranus-opposition/), vers 42 ans, quand Uranus fait face à sa propre place de naissance et forme en même temps un carré à votre Vénus.
 
 Une météo, pas une prédiction : un vent qui réarrange les choses, jamais une décision prise à votre place.

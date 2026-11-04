@@ -26,7 +26,7 @@ faq:
   - q: "Est-ce que Vénus conjonction Mars est un bon aspect ?"
     a: "Ni bon ni mauvais : une conjonction prend le caractère des planètes qui la forment. Ici, deux planètes personnelles agissent ensemble, ce qui donne souvent de l’élan à la tendresse et de la tendresse à l’élan. Le signe la colore, et le reste du thème dit avec quelle aisance les deux fonctions partagent la pièce."
   - q: "Quelle différence entre Vénus conjonction Mars et Vénus carré Mars ?"
-    a: "Dans la conjonction, les deux planètes agissent au même moment : aimer et poursuivre se distinguent mal. Dans le carré, les deux planètes sont à un quart de cercle d’écart et n’ont pas le même horaire : ce qui vous plaît et la façon d’aller le chercher frottent l’un contre l’autre, et vous apprenez en vous ajustant."
+    a: "Dans la conjonction, les deux planètes agissent au même moment : aimer et poursuivre se distinguent mal. Dans le carré, les deux planètes sont à un quart de cercle d’écart et n’ont pas le même horaire : le goût et la poursuite frottent l’un contre l’autre, et vous apprenez en vous ajustant."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les domiciles, et ses quatre aspects, qui laissent de côté la conjonction" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes naissent avec cet aspect" }

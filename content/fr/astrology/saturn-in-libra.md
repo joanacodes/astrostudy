@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 79
 glyph: "♄♎"
-definition: "Saturne en Balance, c’est la planète des règles dans le signe de l’équité : un signe d’air cardinal gouverné par Vénus, où la tradition place l’exaltation de Saturne. Plus rare que la plupart des signes de Saturne, ce placement réunit les personnes nées vers 1950–1953, 1980–1983 ou 2009–2012. On y lit des engagements pris au sérieux et un sens aigu de la justice."
+definition: "Saturne en Balance, c’est la planète des règles dans le signe de l’équité : un signe d’air cardinal gouverné par Vénus, où la tradition place l’exaltation de Saturne. Ce placement, assez rare, réunit les personnes nées vers 1950–1953, 1980–1983 ou 2009–2012. On y lit des engagements pris au sérieux et un sens aigu de la justice."
 facts:
   - { k: "Corps", v: "Saturne ♄" }
   - { k: "Signe", v: "Balance ♎, gouvernée par Vénus" }
@@ -21,9 +21,9 @@ faq:
   - q: "Que veut dire Saturne en Balance ?"
     a: "Un sens de l’équité qui a la mémoire longue. Avec Saturne en Balance, l’engagement, la justice et l’équilibre sont les longues leçons : ce que vous devez aux autres, ce qu’ils vous doivent, et comment garder l’équilibre sans tenir les comptes. Les relations mûrissent lentement, puis elles tiennent. La maison de Saturne montre où pend votre balance."
   - q: "Pourquoi la Balance est-elle l’exaltation de Saturne ?"
-    a: "Ptolémée donne la Balance comme exaltation de Saturne, et le Bélier, en face, comme sa chute. La lecture habituelle : les règles marchent le mieux quand les deux parties les ont acceptées, et la Balance est le signe de l’accord. Dans un thème, j’y lis un sens de la justice fort, parfois lourd, et de la patience pour le lent travail du compromis."
+    a: "Ptolémée donne la Balance comme exaltation de Saturne, et le Bélier, en face, comme sa chute. On l’explique d’ordinaire ainsi : les règles marchent le mieux quand les deux parties les ont acceptées, et la Balance est le signe de l’accord. J’y lis un sens de la justice fort, parfois lourd, et la patience du compromis."
   - q: "Pourquoi trouve-t-on moins souvent Saturne en Balance ?"
-    a: "Entre 1930 et 2009, Saturne n’a traversé la Balance en entier que deux fois, en 1950–1953 et en 1980–1983, et son troisième séjour a commencé en octobre 2009, tout à la fin de cette période. Seule 1 personne sur 16 environ, parmi les naissances de ces années, a donc ce placement : moins que pour la plupart des signes de Saturne."
+    a: "Entre 1930 et 2009, Saturne n’a traversé la Balance en entier que deux fois, en 1950–1953 et en 1980–1983 ; le troisième séjour a commencé en octobre 2009, tout à la fin de la période. D’où environ 1 personne sur 16 parmi les naissances de ces années, moins que pour la plupart des signes de Saturne."
   - q: "Quelles années ont connu Saturne en Balance ?"
     a: "De novembre 1950 à octobre 1953, de septembre 1980 à août 1983 et d’octobre 2009 à octobre 2012, puis de nouveau à partir de septembre 2039. Le séjour de 2009–2012 a apporté le premier retour de Saturne aux personnes nées avec ce placement en 1980–1983, et le deuxième à celles nées en 1950–1953."
 sources:
@@ -47,11 +47,11 @@ L’engagement est une affaire sérieuse pour vous : une promesse est un contra
 
 ## Au travail {#au-travail}
 
-Au travail, ce qui vous attire, ce sont les parts du métier où l’équité est le sujet même : négocier, servir de médiation, rédiger l’accord, concevoir quelque chose qui doit tenir en équilibre. Vos collègues comptent sur votre impartialité. Le prix : une lenteur à décider quand chaque option a de bons arguments, et du mal à dire non à quiconque demande gentiment.
+Au travail, ce qui vous attire, ce sont les parts du métier où l’équité est le sujet même : négocier, servir de médiation, rédiger l’accord, concevoir quelque chose qui doit tenir en équilibre. Vos collègues comptent sur votre impartialité, et Saturne en exaltation donne volontiers de l’autorité à la personne que l’on voit équitable : la responsabilité vous arrive souvent sous la forme d’une demande de trancher, de présider ou d’arbitrer. Le prix : une lenteur à décider quand chaque option a de bons arguments, et du mal à dire non à quiconque demande gentiment.
 
 ## Le plus difficile {#le-plus-difficile}
 
-Tenir les comptes, en silence. Accepter des choses pour préserver la paix, puis en vouloir au marché conclu. Une peur d’être injuste qui rend difficile de choisir, ou de vouloir quelque chose rien que pour vous. Et parfois l’inverse : tenir les autres à des règles si strictes que la relation finit par ressembler à un tribunal.
+Tenir les comptes, en silence. Accepter des choses pour préserver la paix, puis en vouloir au marché conclu. Une peur d’être injuste qui rend difficile de choisir, ou de vouloir quelque chose rien que pour vous. Et parfois l’inverse : tenir les autres à des règles si strictes que la relation finit par ressembler à un tribunal. L’air cardinal lance facilement la conversation ; mettre fin à un arrangement injuste est plus dur, parce qu’il faut admettre que l’équilibre pour lequel vous avez travaillé n’a pas tenu.
 
 ## Ce qui aide {#ce-qui-aide}
 

@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 154
 glyph: "☿☍☊"
-definition: "Mercure opposition Nœud Nord signifie qu’à votre naissance, Mercure se trouvait à environ 180° du Nœud Nord, donc sur le Nœud Sud. Dans un thème, votre façon de penser appartient au terrain familier, venu tôt et facilement, et votre croissance se trouve en face. J’y lis un esprit prêt qui apprend à tendre la main."
+definition: "Mercure opposition Nœud Nord signifie que Mercure faisait face au Nœud Nord à votre naissance, et se trouvait donc sur le Nœud Sud. Dans un thème, votre façon de penser appartient au terrain familier, venu tôt et facilement, et votre croissance se trouve en face. J’y lis un esprit prêt qui apprend à tendre la main."
 facts:
   - { k: "Corps", v: "Mercure ☿ et le Nœud Nord ☊" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -57,7 +57,7 @@ Les autres aspects de Mercure aux nœuds, vus d’ici :
 - **[Mercure carré Nœud Nord](/astrology/mercury-square-north-node/) :** Mercure à mi-chemin, au carré des deux bouts ; un intermédiaire que la friction fait apprendre.
 - **[Mercure trigone Nœud Nord](/astrology/mercury-trine-north-node/) :** une route facile de la pensée à la croissance, le bout familier à portée amicale.
 
-Entre deux thèmes, [Mercure opposition Nœud Nord en synastrie](/astrology/mercury-opposite-north-node-synastry/) place la façon de penser de l’une des deux personnes sur le Nœud Sud de l’autre : des conversations familières dès le premier soir, confortables, à surveiller pour qu’elles ne vous figent pas, ce que chaque personne peut juger autrement.
+Entre deux thèmes, [Mercure opposition Nœud Nord en synastrie](/astrology/mercury-opposite-north-node-synastry/) pose la pensée de l’une des deux personnes sur le Nœud Sud de l’autre : des conversations familières dès le premier soir, confortables, à surveiller pour qu’elles ne vous figent pas, ce que chaque personne peut juger autrement.
 
 ## En transit {#en-transit}
 

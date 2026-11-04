@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 168
 glyph: "♀△♄"
-definition: "Vénus trigone Saturne signifie qu’à votre naissance, Vénus et Saturne étaient à environ 120° d’écart, en général dans des signes d’un même élément. Dans un thème, la tendresse et la constance s’y aident l’une l’autre : l’engagement semble naturel, et ce que vous aimez dure. J’y lis une constance sans effort, qui demande pourtant d’être choisie."
+definition: "Vénus trigone Saturne signifie que 120° environ séparaient Vénus et Saturne à votre naissance, en général à quatre signes d’intervalle, dans un même élément. Dans un thème, la tendresse et la constance s’y aident l’une l’autre : l’engagement semble naturel, et ce que vous aimez dure. J’y lis une constance sans effort, qui demande pourtant d’être choisie."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Saturne ♄" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -54,10 +54,10 @@ Les autres façons dont la paire peut se rencontrer :
 - **[Vénus carré Saturne](/astrology/venus-square-saturn/) :** la tendresse et la prudence en désaccord ; un amour qui doit s’accorder sa propre permission.
 - **[Vénus opposition Saturne](/astrology/venus-opposite-saturn/) :** le plaisir et le devoir d’un bout à l’autre du thème ; un équilibre qui s’apprend en général avec quelqu’un d’autre.
 
-Entre deux thèmes, dans [Vénus trigone Saturne en synastrie](/astrology/venus-trine-saturn-synastry/), la tendresse de l’une des deux personnes repose sans peine sur la constance de l’autre : un lien où l’on se sent en sécurité très tôt, et qui le reste souvent. La stabilité que l’on donne et celle que l’on reçoit ne se vivent pas pareil : je lis donc chaque thème à son tour.
+Entre deux thèmes, dans [Vénus trigone Saturne en synastrie](/astrology/venus-trine-saturn-synastry/), l’affection de l’une des deux personnes repose sans peine sur la constance de l’autre : un lien où l’on se sent en sécurité très tôt, et qui le reste souvent. La stabilité que l’on donne et celle que l’on reçoit ne se vivent pas pareil : je lis donc chaque thème à son tour.
 
 ## En transit {#en-transit}
 
-En [transit](/astrology/transits/), [Saturne en transit trigone Vénus du thème natal](/astrology/transiting-saturn-trine-natal-venus/) se présente environ dix ans puis vingt ans après chaque passage de Saturne sur votre Vénus, dans un tour d’environ 29 ans et demi, et reste proche quelques semaines, parfois des mois quand Saturne revient sur ses pas. Ce transit donne souvent l’impression que les engagements deviennent plus légers à porter.
+En [transit](/astrology/transits/), [Saturne en transit trigone Vénus du thème natal](/astrology/transiting-saturn-trine-natal-venus/) se présente une dizaine d’années après le passage de Saturne sur votre Vénus, puis une dizaine d’années avant son retour, dans un tour d’environ 29 ans et demi, et reste proche quelques semaines, parfois des mois quand Saturne revient sur ses pas. Ce transit donne souvent l’impression que les engagements deviennent plus légers à porter.
 
 Une météo, pas une prédiction : une bonne saison pour tout ce qui doit durer, sans un mot sur la durée.

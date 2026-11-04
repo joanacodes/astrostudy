@@ -2,7 +2,7 @@
 title: "Soleil carré Uranus"
 slug: "soleil-carre-uranus"
 h1: "Soleil carré Uranus dans un thème natal"
-description: "Soleil carré Uranus dans un thème natal : un besoin de liberté qui pousse contre votre direction, une friction qui devient réforme. Ce qu’il montre, ses transits."
+description: "Soleil carré Uranus dans un thème natal : un besoin de liberté contre votre direction, une friction qui devient réforme. Ce qu’il montre, ses transits."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"

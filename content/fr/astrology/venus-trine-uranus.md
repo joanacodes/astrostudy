@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 173
 glyph: "♀△♅"
-definition: "Vénus trigone Uranus signifie qu’à votre naissance, Vénus et Uranus étaient à environ 120° d’écart, en général dans des signes du même élément. Dans un thème, la tendresse et l’originalité y coulent ensemble : vous aimez librement, changez de goûts sans bouleversement et laissez de la place aux autres sans effort. J’y lis une aisance réelle, à employer avec attention."
+definition: "Vénus trigone Uranus signifie que Vénus et Uranus se trouvaient à quelque 120° d’écart à votre naissance, dans un même élément le plus souvent. Dans un thème, la tendresse et l’originalité y coulent ensemble : vous aimez librement, changez de goûts sans bouleversement et laissez de la place aux autres sans effort. J’y lis une aisance réelle, à employer avec attention."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Uranus ♅" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -54,7 +54,7 @@ Les autres angles de la paire, en regard :
 - **[Vénus carré Uranus](/astrology/venus-square-uranus/) :** l’attachement et la nouveauté en friction ; des liens qui apprennent la souplesse à la dure.
 - **[Vénus opposition Uranus](/astrology/venus-opposite-uranus/) :** les deux d’un bout à l’autre du thème ; la proximité ici, l’indépendance là, et une vie bâtie pour les deux.
 
-Entre deux thèmes, [Vénus trigone Uranus en synastrie](/astrology/venus-trine-uranus-synastry/) met à l’aise l’affection de l’une des deux personnes et l’originalité de l’autre : un lien proche de l’amitié, où la curiosité ne s’éteint pas. Le sentiment de liberté dépend de qui apporte Uranus : je regarde donc chaque thème.
+Entre deux thèmes, [Vénus trigone Uranus en synastrie](/astrology/venus-trine-uranus-synastry/) met à l’aise le cœur de l’une des deux personnes et l’originalité de l’autre : un lien proche de l’amitié, où la curiosité ne s’éteint pas. Le sentiment de liberté dépend de qui apporte Uranus : je regarde donc chaque thème.
 
 ## En transit {#en-transit}
 

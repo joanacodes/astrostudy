@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 171
 glyph: "♀⚹♅"
-definition: "Vénus sextile Uranus signifie qu’à votre naissance, Vénus et Uranus étaient à environ 60° d’écart, en général dans des signes d’éléments complémentaires. Dans un thème, ce sextile ouvre ce que vous aimez au changement, par petites doses bienvenues : nouveaux goûts, nouvelles amitiés, nouvelles façons d’aimer. Les ouvertures restent à saisir."
+definition: "Vénus sextile Uranus signifie que votre thème place Vénus et Uranus à environ 60° d’écart, en général dans des éléments qui s’entendent. Dans un thème, ce sextile ouvre ce que vous aimez au changement, par petites doses bienvenues : nouveaux goûts, nouvelles amitiés, nouvelles façons d’aimer. Les ouvertures restent à saisir."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Uranus ♅" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }

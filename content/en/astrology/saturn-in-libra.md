@@ -46,11 +46,11 @@ Commitment is serious business for you: a promise is a contract, even when nobod
 
 ## At work {#at-work}
 
-At work you're drawn to the parts of a job where fairness is the point: negotiating, mediating, drafting the agreement, designing something that has to balance. Colleagues trust you to be even-handed. The cost is slowness to decide when every option has a fair case, and difficulty saying no to anyone who asks nicely.
+At work you're drawn to the parts of a job where fairness is the point: negotiating, mediating, drafting the agreement, designing something that has to balance. Colleagues trust you to be even-handed, and an exalted Saturn tends to hand authority to whoever is seen to be fair, so responsibility often finds you as a request to judge, chair or arbitrate. The cost is slowness to decide when every option has a fair case, and difficulty saying no to anyone who asks nicely.
 
 ## The hard part {#the-hard-part}
 
-Keeping score, quietly. Agreeing to things to keep the peace, then resenting the bargain. A fear of being unfair that makes it hard to choose, or to want something just for yourself. And sometimes the opposite: holding others to rules so strictly that the relationship starts to feel like a court.
+Keeping score, quietly. Agreeing to things to keep the peace, then resenting the bargain. A fear of being unfair that makes it hard to choose, or to want something just for yourself. And sometimes the opposite: holding others to rules so strictly that the relationship starts to feel like a court. Cardinal air starts conversations easily; ending an unfair arrangement is harder, because it means admitting that the balance you worked for didn't hold.
 
 ## What helps {#what-helps}
 

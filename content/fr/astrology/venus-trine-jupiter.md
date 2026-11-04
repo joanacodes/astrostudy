@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 163
 glyph: "♀△♃"
-definition: "Vénus trigone Jupiter signifie qu’à votre naissance, Vénus et Jupiter étaient à environ 120° d’écart, en général dans des signes du même élément. Dans un thème, ce trigone fait couler ensemble ce qui compte pour vous et ce qui vous fait grandir : l’appréciation vient facilement, la bienveillance aussi. L’aisance est réelle ; j’y lis une ressource, jamais une chance."
+definition: "Vénus trigone Jupiter signifie que votre thème place Vénus et Jupiter à environ 120° d’écart, le plus souvent dans des signes d’un même élément. Dans un thème, ce trigone fait couler ensemble vos goûts et votre élan de croissance : l’appréciation vient facilement, la bienveillance aussi. L’aisance est réelle ; j’y lis une ressource, jamais une chance."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Jupiter ♃" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/venus", "/astrology/jupiter", "/astrology/trine", "/astrology/venus-trine-jupiter-synastry", "/astrology/transiting-jupiter-trine-natal-venus"]
 faq:
   - q: "Que veut dire Vénus trigone Jupiter dans un thème natal ?"
-    a: "Vénus et Jupiter se trouvaient à environ 120° d’écart à votre naissance. Ce qui compte pour vous et ce qui vous fait grandir avancent ensemble : vous savourez ce qui vous fait du bien, voyez le meilleur sans faire semblant et encouragez volontiers. J’y lis une chaleur facile, à son meilleur quand vous choisissez où la diriger."
+    a: "Vénus et Jupiter se trouvaient à environ 120° d’écart à votre naissance. Vos goûts et votre élan de croissance avancent ensemble : vous savourez ce qui vous fait du bien, voyez le meilleur sans faire semblant et encouragez volontiers. J’y lis une chaleur facile, à son meilleur quand vous choisissez où la diriger."
   - q: "Est-ce que Vénus trigone Jupiter est le meilleur aspect pour l’amour ?"
     a: "Aucun aspect n’est le meilleur pour l’amour, parce qu’un thème ne décide ni de qui vous aimerez ni de la suite. Ce trigone apporte souvent de la générosité, de l’appréciation et une présence facile, ce qui aide tout lien. Le reste dépend de deux personnes, et de bien plus qu’un angle entre deux planètes."
   - q: "Est-ce que Vénus trigone Jupiter pousse à se reposer sur ses lauriers ?"
@@ -53,10 +53,10 @@ Les autres angles entre les deux planètes, pour comparer :
 - **[Vénus carré Jupiter](/astrology/venus-square-jupiter/) :** les deux à angle droit ; une générosité qui apprend encore sa taille.
 - **[Vénus opposition Jupiter](/astrology/venus-opposite-jupiter/) :** les deux aux deux bouts du thème ; ce que vous aimez et ce que vous croyez, qui demandent un équilibre.
 
-Entre deux thèmes, [Vénus trigone Jupiter en synastrie](/astrology/venus-trine-jupiter-synastry/) ressemble souvent à une bonne compagnie dès le début : le goût de l’une des deux personnes rencontre sans frottement la générosité de l’autre. Même un contact facile ne se vit pas pareil des deux côtés : je lis donc les deux thèmes.
+Entre deux thèmes, [Vénus trigone Jupiter en synastrie](/astrology/venus-trine-jupiter-synastry/) ressemble souvent à une bonne compagnie dès le début : l’appréciation de l’une des deux personnes rencontre sans frottement la générosité de l’autre. Même un contact facile ne se vit pas pareil des deux côtés : je lis donc les deux thèmes.
 
 ## En transit {#en-transit}
 
-En [transit](/astrology/transits/), [Jupiter en transit trigone Vénus du thème natal](/astrology/transiting-jupiter-trine-natal-venus/) arrive environ quatre ans, puis huit ans, après le passage de Jupiter sur votre Vénus, et dure des semaines, parfois des mois : une période où l’appréciation se donne et se reçoit facilement.
+En [transit](/astrology/transits/), [Jupiter en transit trigone Vénus du thème natal](/astrology/transiting-jupiter-trine-natal-venus/) survient quatre ans environ après le passage de Jupiter sur votre Vénus, puis de nouveau quatre ans plus tard, et reste des semaines, parfois des mois : une période où l’appréciation se donne et se reçoit facilement.
 
 Une météo, pas une prédiction : une saison agréable, qui mérite d’être remarquée, sans aucune promesse sur l’amour ou l’argent.

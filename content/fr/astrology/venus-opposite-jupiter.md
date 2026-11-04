@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 164
 glyph: "♀☍♃"
-definition: "Vénus opposition Jupiter signifie qu’à votre naissance, Vénus et Jupiter étaient à environ 180° d’écart, dans des signes opposés. Dans un thème, ce que vous aimez tout près fait face à ce qui vous appelle plus loin : le plaisir ici, le sens là-bas. J’y lis un équilibre, trouvé lentement, entre apprécier ce qui est et chercher davantage."
+definition: "Vénus opposition Jupiter signifie que 180° environ séparaient Vénus et Jupiter à votre naissance, de part et d’autre du zodiaque. Dans un thème, ce que vous aimez tout près fait face à ce qui vous appelle plus loin : le plaisir ici, le sens là-bas. J’y lis un équilibre, trouvé lentement, entre apprécier ce qui est et chercher davantage."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Jupiter ♃" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -53,10 +53,10 @@ Vénus et Jupiter sous leurs autres angles :
 - **[Vénus carré Jupiter](/astrology/venus-square-jupiter/) :** un angle droit entre les deux ; une générosité qui apprend à tenir ses promesses.
 - **[Vénus trigone Jupiter](/astrology/venus-trine-jupiter/) :** les deux à l’aise dans un même élément ; le goût et le sens se passent d’arbitre.
 
-Entre deux thèmes, [Vénus opposition Jupiter en synastrie](/astrology/venus-opposite-jupiter-synastry/) oppose le goût de l’une des deux personnes à la vue plus large de l’autre : chacune peut ouvrir le monde de l’autre, si les deux font de la place à son rythme, et chacune raconte souvent l’histoire à sa manière.
+Entre deux thèmes, [Vénus opposition Jupiter en synastrie](/astrology/venus-opposite-jupiter-synastry/) oppose les attachements de l’une des deux personnes à la vue plus large de l’autre : chacune peut ouvrir le monde de l’autre, si les deux font de la place à son rythme, et chacune raconte souvent l’histoire à sa manière.
 
 ## En transit {#en-transit}
 
-En [transit](/astrology/transits/), [Jupiter en transit opposition Vénus du thème natal](/astrology/transiting-jupiter-opposite-natal-venus/) arrive environ six ans après chaque passage de Jupiter sur votre Vénus, une fois par tour, et s’attarde des semaines, ou des mois quand la rétrogradation de Jupiter ramène l’aspect sur ce point : une saison où le bout lointain de la ligne réclame de l’attention. Quand cette opposition figure dans votre thème, chaque [retour de Jupiter](/astrology/jupiter-return/) l’apporte, car Jupiter, de nouveau à sa place de naissance, se tient face à votre Vénus ; environ six ans plus tard, à mi-parcours, Jupiter passe sur votre Vénus elle-même.
+En [transit](/astrology/transits/), [Jupiter en transit opposition Vénus du thème natal](/astrology/transiting-jupiter-opposite-natal-venus/) arrive à mi-chemin entre deux passages de Jupiter sur votre Vénus, environ six ans après chacun, et s’attarde des semaines, ou des mois quand la rétrogradation de Jupiter ramène l’aspect sur ce point : une saison où le bout lointain de la ligne réclame de l’attention. Quand cette opposition figure dans votre thème, chaque [retour de Jupiter](/astrology/jupiter-return/) l’apporte, car Jupiter, de nouveau à sa place de naissance, se tient face à votre Vénus ; environ six ans plus tard, à mi-parcours, Jupiter passe sur votre Vénus elle-même.
 
 Une météo, pas une prédiction : une période pour rééquilibrer ce que vous aimez et ce vers quoi vous tendez, jamais un événement.
