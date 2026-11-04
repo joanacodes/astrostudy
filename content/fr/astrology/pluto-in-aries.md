@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 109
 glyph: "♇♈"
-definition: "Pluton en Bélier, c’est la planète de la transformation dans le premier signe du zodiaque, un signe de feu cardinal gouverné par Mars. Aucune personne née entre 1930 et 2009 n’a ce placement, qui appartient aux naissances de 1822 à 1853 et de 2066 à 2097. On y lit un renouveau par le recommencement, avec plus de courage que de prudence."
+definition: "Pluton en Bélier, c’est la planète de la transformation dans le premier signe du zodiaque, signe de feu cardinal gouverné par Mars. Aucune personne née entre 1930 et 2009 n’a ce placement, qui appartient aux naissances de 1822 à 1853 et de 2066 à 2097. On y lit un renouveau par le recommencement, porté par le courage."
 facts:
   - { k: "Corps", v: "Pluton ♇" }
   - { k: "Signe", v: "Bélier ♈, gouverné par Mars" }
@@ -33,7 +33,7 @@ Pluton a quitté le Bélier en février 1853 et n’y reviendra qu’en juin 206
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Dans un thème, [Pluton](/astrology/pluto/) est ce qui transforme : ce qui fait le tri dans ce qui a cessé de fonctionner et régénère le reste. Le [Bélier](/astrology/aries/), signe de feu cardinal gouverné par Mars, donne à ce qui s’y trouve une manière rapide et directe, qui démarre au quart de tour. Ensemble, la planète et le signe font de la transformation un acte d’initiative. Là où Pluton, dans un signe plus lent, creuserait pendant des années, Pluton en Bélier recommence, et le renouveau vient de l’audace de commencer plutôt que d’un long travail en profondeur.
+Dans un thème, [Pluton](/astrology/pluto/) est ce qui transforme : ce qui fait le tri dans ce qui a cessé de fonctionner et régénère le reste. Le [Bélier](/astrology/aries/), signe de feu cardinal gouverné par Mars, donne à ce qui s’y trouve une manière rapide et directe, qui démarre au quart de tour. Ensemble, la planète et le signe font de la transformation un acte d’initiative : là où Pluton, dans un signe plus lent, creuserait pendant des années, Pluton en Bélier recommence, et le renouveau vient de l’audace de commencer.
 
 La tradition, qui ignorait Pluton, ne lui accorde aucune dignité, et l’astrologie tropicale moderne ne lui donne qu’un domicile, le Scorpion. Le Bélier garde pourtant un lien avec ce domicile : son maître, [Mars](/astrology/mars/), gouvernait le Scorpion jusqu’à la découverte de Pluton en 1930. Dans tout thème où Pluton est en Bélier, je regarde donc Mars de près : son signe et sa maison disent comment le courage d’une génération devient celui d’une personne.
 
@@ -45,7 +45,7 @@ Dans un thème avec Pluton en Bélier, une relation se renouvelle par une franch
 
 ## Au travail {#au-travail}
 
-Au travail, Pluton en Bélier est du côté des fondations et des premiers essais. Ce placement préfère inventer une nouvelle façon de faire plutôt que de passer des années à rapiécer l’ancienne, et trouve l’élan qu’il faut pour porter un projet à travers ses débuts incertains, quand la plupart des gens attendraient de voir. À travers Mars, on voit le genre d’effort qu’une personne peut tenir : des élans, des départs, un vrai talent pour se lever face à une crise. Pluton en Bélier s’épanouit là où recommencer compte comme une compétence plutôt que comme un échec, aux côtés de collègues capables de faire tourner la nouveauté une fois qu’elle tient debout.
+Au travail, Pluton en Bélier est du côté des fondations et des premiers essais. Ce placement préfère inventer une nouvelle façon de faire plutôt que de passer des années à rapiécer l’ancienne, et trouve l’élan qu’il faut pour porter un projet à travers ses débuts incertains, quand d’autres attendraient de voir. À travers Mars, on voit le genre d’effort qu’une personne peut tenir : des élans, des départs, un vrai talent pour se lever face à une crise. Pluton en Bélier s’épanouit là où recommencer compte comme une compétence plutôt que comme un échec, aux côtés de collègues capables de faire tourner la nouveauté une fois qu’elle tient debout.
 
 ## Le plus difficile {#le-plus-difficile}
 
