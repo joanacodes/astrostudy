@@ -52,7 +52,7 @@ Compared with the pair's other aspects:
 - **[Mars square Pluto](/astrology/mars-square-pluto/):** friction at a corner, felt as inner pressure more than as a face-off.
 - **[Mars trine Pluto](/astrology/mars-trine-pluto/):** depth and effort in one element, a staying power the opposition reaches by balancing.
 
-Between two charts, [Mars opposite Pluto in synastry](/astrology/mars-opposite-pluto-synastry/) can be intense for both people, which is exactly why I look at it only when both have asked ([Synastry and consent](/blog/synastry-behind-their-back/)).
+Across two charts, [Mars opposite Pluto in synastry](/astrology/mars-opposite-pluto-synastry/) can be intense for both people, which is exactly why I look at it only when both have asked ([Synastry and consent](/blog/synastry-behind-their-back/)).
 
 ## In transits {#in-transits}
 

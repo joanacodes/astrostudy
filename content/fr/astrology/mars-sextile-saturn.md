@@ -53,7 +53,7 @@ Le reste de la famille Mars–Saturne, pour comparer :
 - **[Mars trigone Saturne](/astrology/mars-trine-saturn/) :** une version plus profonde de la même aisance, les deux planètes dans un même élément.
 - **[Mars opposition Saturne](/astrology/mars-opposite-saturn/) :** les deux se font face d’un bout à l’autre du thème, et l’équilibre reste à trouver.
 
-Entre deux thèmes, [Mars sextile Saturne en synastrie](/astrology/mars-sextile-saturn-synastry/), c’est l’énergie de l’une des deux personnes qui trouve utile la structure de l’autre, et inversement. Je le lis des deux côtés, parce que donner de l’assise à quelqu’un et en recevoir, ce n’est pas pareil.
+Entre deux personnes, [Mars sextile Saturne en synastrie](/astrology/mars-sextile-saturn-synastry/), c’est l’énergie de l’une des deux personnes qui trouve utile la structure de l’autre, et inversement. Je le lis des deux côtés, parce que donner de l’assise à quelqu’un et en recevoir, ce n’est pas pareil.
 
 ## En transit {#en-transit}
 

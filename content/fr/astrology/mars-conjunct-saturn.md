@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 205
 glyph: "♂☌♄"
-definition: "Mars conjonction Saturne signifie qu’à votre naissance, Mars et Saturne étaient à quelques degrés d’écart. Dans un thème, l’envie d’agir s’y lie à l’envie de structurer : l’effort vient mesuré, éprouvé, fait pour durer. J’y lis un élan qui apprend son propre rythme, une endurance en devenir, jamais un effort qui ne mène nulle part."
+definition: "Mars conjonction Saturne réunit Mars et Saturne à quelques degrés près dans votre thème natal. L’envie d’agir s’y lie à l’envie de structurer : l’effort vient mesuré, éprouvé, fait pour durer. J’y lis un élan qui apprend son propre rythme, une endurance en devenir, jamais un effort qui ne mène nulle part."
 facts:
   - { k: "Corps", v: "Mars ♂ et Saturne ♄" }
   - { k: "Aspect", v: "Conjonction ☌, 0°" }
@@ -36,7 +36,7 @@ Quand Mars et Saturne se rencontrent dans un thème natal, l’envie d’agir et
 
 [Mars](/astrology/mars/) est votre capacité à démarrer et à pousser : l’action, l’affirmation, la compétition, l’effort. [Saturne](/astrology/saturn/) établit la structure : la responsabilité, les limites, la discipline, et la vue à long terme qui fait tenir les choses. Dans une [conjonction](/astrology/conjunction/), les deux fonctions s’unissent en un seul mouvement, chacune gardant sa nature. Mars pousse toujours et Saturne façonne toujours : la poussée arrive déjà façonnée.
 
-Concrètement, vous agissez rarement sur un coup de tête, et quand vous agissez, c’est pour de bon. Vous sondez peut-être le terrain avant d’avancer et préférez une longue poussée régulière à un sursaut. Tôt dans la vie, cela peut ressembler à une attente imposée : vouloir y aller et entendre *pas encore*, de la part des autres ou de vous-même. Plus tard, la même conjonction se montre souvent en endurance, en précision, et en un courage tranquille qui continue quand d’autres s’arrêtent.
+Au quotidien, vous agissez rarement sur un coup de tête, et quand vous agissez, c’est pour de bon. Vous sondez peut-être le terrain avant d’avancer et préférez une longue poussée régulière à un sursaut. Tôt dans la vie, cela peut ressembler à une attente imposée : vouloir y aller et entendre *pas encore*, de la part des autres ou de vous-même. Plus tard, la même conjonction se montre souvent en endurance, en précision, et en un courage tranquille qui continue quand d’autres s’arrêtent.
 
 La tradition rangeait les deux planètes parmi les maléfiques ([bénéfiques et maléfiques](/astrology/benefics-and-malefics/)) et se méfiait de leur rencontre. Je la lis autrement : un effort qui connaît ses limites est un effort sur lequel on peut compter, et c’est ce que cette conjonction construit, lentement.
 

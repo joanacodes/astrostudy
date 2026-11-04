@@ -33,7 +33,7 @@ Mars trine Pluto lets drive and depth run on the same current. The two share an 
 
 [Mars](/astrology/mars/) is effort that goes somewhere: initiative, assertion, the energy to compete and to finish. [Pluto](/astrology/pluto/) is the capacity to renew from the root: clearing out what's obsolete, regenerating what remains, growing into real power. Through a [trine](/astrology/trine/) they flow together and reinforce each other: Mars gives Pluto's depth a way to act, and Pluto gives Mars's effort a second wind.
 
-In plain words, you can go the distance. When something matters, you find reserves others don't expect, and you tend to come back from setbacks with more rather than less. Change doesn't frighten you much: you can strip a habit or a project back and rebuild it without drama. People may find you calm under pressure; you may simply experience it as knowing you'll get through.
+In practice, you can go the distance. When something matters, you find reserves others don't expect, and you tend to come back from setbacks with more rather than less. Change doesn't frighten you much: you can strip a habit or a project back and rebuild it without drama. People may find you calm under pressure; you may simply experience it as knowing you'll get through.
 
 The trine's risk is a quiet one: power that's never asked for anything. Its worth shows when you give it something long and demanding.
 
@@ -41,7 +41,7 @@ The trine's risk is a quiet one: power that's never asked for anything. Its wort
 
 The element the two share ([the four elements](/astrology/four-elements/)) shapes the staying power. In water, where Scorpio is ruled by both planets, by tradition and in modern tropical astrology, the trine works through persistence and emotional depth; in earth, through patient building; in fire, through courage renewed; in air, through ideas pursued to the end. The houses show where it goes: Mars in the 2nd trine Pluto in the 6th, say, might mean resources built steadily through demanding daily work.
 
-With 6° allowed, about 1 person in 17 has this trine. Tight, it's part of how you're made; near 6°, it's a reserve you draw on in hard seasons.
+Within 6°, Mars and Pluto make this trine for about 1 person in 17. Tight, it's part of how you're made; near 6°, it's a reserve you draw on in hard seasons.
 
 Mars makes the trine with Pluto about twice every two years, for a few weeks of births each time, while Pluto keeps a sign for 12 to 31 years. Like the other slow planets, Pluto spends months of every year retrograde, so many people are born with it that way; I read that as depth worked on inwardly, never as delay ([Natal retrograde planets](/blog/retrograde-planets/)).
 

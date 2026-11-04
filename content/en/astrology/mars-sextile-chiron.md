@@ -42,7 +42,7 @@ Its quiet gift is that limitation and competence can sit together. Neither has t
 
 The pair of elements shapes the link: in earth and water, adapting tends to look like patient practice and care; in fire and air, like inventive workarounds and encouragement. The houses show the field: Mars in the 5th sextile Chiron in the 7th, say, might bring adaptive effort to play, creative work and partnership.
 
-About 1 person in 15 has this sextile within 6°. Close to exact, the know-how is part of how you work; near 6°, it's something you return to when a task gets hard.
+Mars and Chiron make this sextile in the charts of about 1 person in 15, counting within 6°. Close to exact, the know-how is part of how you work; near 6°, it's something you return to when a task gets hard.
 
 Twice in each two-year cycle, Mars comes into sextile with Chiron and stays for a few weeks of births. In my notebook, Chiron's sign and house held 75 to 90% of the time, one of three placements that did, while overall about a third held and Mars was not among the three ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)). That's why this sextile, small as it looks, gets real attention when I read.
 
@@ -53,7 +53,7 @@ The pair's other aspects, for comparison:
 - **[Mars trine Chiron](/astrology/mars-trine-chiron/):** a fuller flow between doing and adjusting, in one element.
 - **[Mars opposite Chiron](/astrology/mars-opposite-chiron/):** the sensitive place met across the chart, often in someone else's push.
 
-Between two charts, [Mars sextile Chiron in synastry](/astrology/mars-sextile-chiron-synastry/) can feel like practical encouragement: one person's drive helps the other try again, at a pace that works. I read it for both people.
+Between two people, [Mars sextile Chiron in synastry](/astrology/mars-sextile-chiron-synastry/) can feel like practical encouragement: one person's drive helps the other try again, at a pace that works. I read it for both people.
 
 ## In transits {#in-transits}
 

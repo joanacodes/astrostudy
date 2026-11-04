@@ -53,11 +53,11 @@ The pair's other aspects, for contrast:
 - **[Mars trine Pluto](/astrology/mars-trine-pluto/):** staying power that flows in one element, intense without strain.
 - **[Mars opposite Pluto](/astrology/mars-opposite-pluto/):** the intensity sits across the chart, often in other people, until you own it.
 
-Between two charts, [Mars conjunct Pluto in synastry](/astrology/mars-conjunct-pluto-synastry/) is powerful both ways: one person's drive meets the other's depth in the same place. I read it from both sides, with care for how power is shared.
+Between two people, [Mars conjunct Pluto in synastry](/astrology/mars-conjunct-pluto-synastry/) is powerful both ways: one person's drive meets the other's depth in the same place. I read it from both sides, with care for how power is shared.
 
 ## In transits {#in-transits}
 
-Pluto moves so slowly, about 248 years for a round, that [Transiting Pluto conjunct natal Mars](/astrology/transiting-pluto-conjunct-natal-mars/) comes at most once in a life, and for many people never; when it does, it lingers for a year or two, or longer. Born with the conjunction, you met it in childhood if Mars was a little ahead of Pluto, and otherwise won't. The [Pluto square](/astrology/pluto-square/), whose age depends on your birth year, squares your Pluto and your Mars together.
+Pluto moves so slowly, about 248 years for a round, that [Transiting Pluto conjunct natal Mars](/astrology/transiting-pluto-conjunct-natal-mars/) comes at most once in a life, and for many people never; when it does, it lingers for a year or two, or longer. Born with the conjunction, you met it in childhood if Mars was a little ahead of Pluto, and otherwise won't. The [Pluto square](/astrology/pluto-square/), which comes at an age that varies with your birth year, squares your Pluto and your Mars together.
 
 Mars in the sky reaches the pair about every two years, crossing both within a few days: a short charge of concentrated energy.
 

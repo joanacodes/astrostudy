@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 205
 glyph: "♂☌♄"
-definition: "Mars conjunct Saturn means Mars and Saturn were within a few degrees of each other when you were born. In a chart it binds the urge to act to the urge to structure: effort comes measured, tested and built to last. I read it as drive learning its own pace: stamina in the making, never effort wasted."
+definition: "Mars conjunct Saturn brings Mars and Saturn within a few degrees of each other in your birth chart. There it binds the urge to act to the urge to structure: effort comes measured, tested and built to last. I read it as drive learning its own pace: stamina in the making, never effort wasted."
 facts:
   - { k: "Bodies", v: "Mars ♂ and Saturn ♄" }
   - { k: "Aspect", v: "Conjunction ☌, 0°" }
@@ -35,7 +35,7 @@ When Mars and Saturn meet in a birth chart, the urge to act and the urge to buil
 
 [Mars](/astrology/mars/) is your capacity to start and to push: action, assertion, competition, effort. [Saturn](/astrology/saturn/) establishes structure: responsibility, boundaries, discipline, and the long view that holds things together over time. In a [conjunction](/astrology/conjunction/) the two bind into one movement while each keeps its own nature. Mars still pushes and Saturn still shapes, so the push arrives already shaped.
 
-In plain words, you rarely act on a whim, and when you act, you mean it. You may test the ground before you move, plan an effort before you spend it, and prefer one long, steady push to a burst. Early in life this can feel like being made to wait: wanting to go and hearing *not yet*, from others or from yourself. Later the same conjunction tends to show as endurance, precision and a quiet courage that keeps going when others stop.
+Day to day, you rarely act on a whim, and when you act, you mean it. You may test the ground before you move, plan an effort before you spend it, and prefer one long, steady push to a burst. Early in life this can feel like being made to wait: wanting to go and hearing *not yet*, from others or from yourself. Later the same conjunction tends to show as endurance, precision and a quiet courage that keeps going when others stop.
 
 Tradition called both planets malefics ([benefics and malefics](/astrology/benefics-and-malefics/)) and was wary of their meeting. I read it differently: effort that knows its limits is effort others can rely on, and that's what this conjunction builds, slowly.
 

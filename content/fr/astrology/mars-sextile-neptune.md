@@ -53,7 +53,7 @@ Mars et Neptune dans leurs autres aspects :
 - **[Mars trigone Neptune](/astrology/mars-trine-neptune/) :** un flux plus ample dans un même élément, où l’action inspirée vient presque sans qu’on la demande.
 - **[Mars opposition Neptune](/astrology/mars-opposite-neptune/) :** la volonté et l’idéal de part et d’autre du thème, souvent rencontrés d’abord chez les autres.
 
-Entre deux thèmes, [Mars sextile Neptune en synastrie](/astrology/mars-sextile-neptune-synastry/) est souvent un encouragement doux : l’élan de l’une des deux personnes et l’imagination de l’autre s’entendent. Je le lis du point de vue de chacune des deux personnes.
+D’un thème à l’autre, [Mars sextile Neptune en synastrie](/astrology/mars-sextile-neptune-synastry/) est souvent un encouragement doux : l’élan de l’une des deux personnes et l’imagination de l’autre s’entendent. Je le lis du point de vue de chacune des deux personnes.
 
 ## En transit {#en-transit}
 

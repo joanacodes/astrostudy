@@ -33,7 +33,7 @@ Mars trine Uranus lets the way you act and the way you change keep the same easy
 
 [Mars](/astrology/mars/) turns wanting into doing: initiative, assertion, effort, the courage to compete and to finish. [Uranus](/astrology/uranus/) differentiates and reforms: it experiments, frees what is stuck and finds original solutions. A [trine](/astrology/trine/) relates them through flow, each reinforcing the other: Mars gives a new idea legs, and Uranus keeps effort from going stale.
 
-In plain words, you change course easily and without drama. You may be quick to try a new tool, to work out your own method, or to take a step others hesitate over, and you rarely need permission to do things your way. Effort feels lighter when there's something new in it. People often notice how naturally you adapt; you may not, because it costs you so little.
+Put simply, you change course easily and without drama. You may be quick to try a new tool, to work out your own method, or to take a step others hesitate over, and you rarely need permission to do things your way. Effort feels lighter when there's something new in it. People often notice how naturally you adapt; you may not, because it costs you so little.
 
 That's also the trine's quiet catch. Ease is not inevitability: the readiness to start something new doesn't finish it, and a trine left to itself can drift from one fresh idea to the next. Its best years come when you aim it.
 

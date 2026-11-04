@@ -41,7 +41,7 @@ The mature form of this aspect knows that compassion is not self-erasure: genero
 
 Opposite signs mirror each other ([polarity](/astrology/polarity/)), and the axis gives this polarity its subject. Across Virgo and Pisces, with Neptune in its modern sign, the pull runs between practical effort and an ideal; across Aries and Libra, with Mars in its own sign, between your initiative and a partner's picture of things. The houses name the arenas: Mars in the 6th opposite Neptune in the 12th, for instance, might set daily work against a quieter, inward calling.
 
-Within 6° of exact, about 1 person in 33 has this opposition. Close to exact, the balance between will and ideal is central to how you relate; at the wide end, it shows when a cause or a person asks a lot of you.
+Mars and Neptune face each other like this in the charts of about 1 person in 33, counting within 6°. Close to exact, the balance between will and ideal is central to how you relate; at the wide end, it shows when a cause or a person asks a lot of you.
 
 Neptune lingers some fourteen years in a sign, and Mars crosses the opposite point once in each two-year cycle, so only a few weeks of births share the aspect each time. Because this aspect so often plays out with other people, I'll repeat what I say of any contact between two lives: a synastry is read with both people's consent, never behind anyone's back ([Synastry and consent](/blog/synastry-behind-their-back/)).
 

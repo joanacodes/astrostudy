@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/chiron", "/astrology/square", "/astrology/transiting-chiron-square-natal-mars", "/astrology/mars-square-chiron-synastry"]
 faq:
   - q: "What does Mars square Chiron mean in a birth chart?"
-    a: "Your Mars and Chiron sit about a quarter of the circle apart, usually in signs that share a modality. Your drive keeps meeting a sensitive place: the push to act, compete or stand up for yourself runs into something that needs a different pace or method. I read it as friction that, with practice, becomes a sure sense of how to act within your limits."
+    a: "Your Mars and Chiron sit about a quarter of the circle apart. Your drive keeps meeting a sensitive place: the push to act, compete or stand up for yourself runs into something that needs a different pace or method. I read it as friction that, with practice, teaches you to act within your limits."
   - q: "Does Mars square Chiron mean injuries?"
     a: "No. Injuries and illness aren’t something a chart can foresee, and health is one of the subjects I leave to doctors. What I see in this square is a pattern in how you act: effort that meets a sensitivity, and keeps finding better ways to work with it."
   - q: "Can Mars square Chiron make you push too hard?"
@@ -34,13 +34,13 @@ Mars square Chiron sets your drive at an angle to the place where you've had to 
 
 [Mars](/astrology/mars/) is the push: initiative, assertion, effort, the will to compete and to hold a line. [Chiron](/astrology/chiron/) adapts around a persistent limit: it alters method, pace, tool or expectation so that you can keep taking part, and builds capacity through repeated, adjusted practice. A [square](/astrology/square/) makes them rub, usefully: neither replaces the other, and each keeps prompting the other to adjust.
 
-In plain words, effort and sensitivity keep interrupting each other. You may push hard to prove you can, then find you need a different approach; or hold back from a challenge that touches the sensitive place, then go at it on your own terms. None of this is failure. The square's learning task is practical: to treat a limit as information, to say plainly where it is, and to adjust the plan rather than abandon it.
+In practice, effort and sensitivity keep interrupting each other. You may push hard to prove you can, then find you need a different approach; or hold back from a challenge that touches the sensitive place, then go at it on your own terms. None of this is failure. The square's learning task is practical: to treat a limit as information, to say plainly where it is, and to adjust the plan rather than abandon it.
 
 The sensitive place is real, but it isn't the whole of you, and it needn't be permanent. Many people with this square become unusually good at helping others push in a way that lasts.
 
 ## In a birth chart {#in-a-birth-chart}
 
-Cardinal, fixed or mutable, the signs of the square colour the friction: in cardinal signs, it tends to show in how you start things; in fixed signs, in how you keep going; in mutable signs, in how often you change approach. The houses show where: Mars in the 10th square Chiron in the 7th, say, might set career ambition against a sensitivity in partnership, until each teaches the other.
+Cardinal, fixed or mutable, the signs of the square colour the friction: it may bite when you begin something, when you try to keep it going, or each time you change tack. The houses show where: Mars in the 10th square Chiron in the 7th, say, might set career ambition against a sensitivity in partnership, until each teaches the other.
 
 About 1 person in 13 has this square within 6°, more than have the pair's conjunction or sextile.
 

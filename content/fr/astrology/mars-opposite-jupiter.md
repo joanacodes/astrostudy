@@ -55,7 +55,7 @@ Mars et Jupiter parcourent tous leurs aspects en un cycle d’un peu plus de deu
 - **[Mars carré Jupiter](/astrology/mars-square-jupiter/) :** une friction à angle droit, là où l’opposition met les deux face à face.
 - **[Mars trigone Jupiter](/astrology/mars-trine-jupiter/) :** l’effort et le sens dans un même élément, qui se soutiennent sans intermédiaire.
 
-Entre deux thèmes, [Mars opposition Jupiter en synastrie](/astrology/mars-opposite-jupiter-synastry/) partage souvent les rôles : l’élan de l’une des deux personnes, l’horizon de l’autre. Je le lis dans les deux sens, parce que la personne qui agit et celle qui élargit le regard ne la ressentent pas de la même façon.
+Quand deux thèmes se rencontrent, [Mars opposition Jupiter en synastrie](/astrology/mars-opposite-jupiter-synastry/) partage souvent les rôles : l’élan de l’une des deux personnes, l’horizon de l’autre. Je le lis dans les deux sens, parce que la personne qui agit et celle qui élargit le regard ne la ressentent pas de la même façon.
 
 ## En transit {#en-transit}
 

@@ -52,7 +52,7 @@ Where the trine sits among the pair's aspects:
 - **[Mars square Neptune](/astrology/mars-square-neptune/):** the trine's ease turned into friction, where vision and action have to negotiate.
 - **[Mars opposite Neptune](/astrology/mars-opposite-neptune/):** your will and your ideals across the chart, often worked out through someone else.
 
-Between two charts, [Mars trine Neptune in synastry](/astrology/mars-trine-neptune-synastry/) often feels like being inspired by each other: one person's drive and the other's imagination move together. I read it from each side, since inspiring and being inspired are different gifts.
+When two charts meet, [Mars trine Neptune in synastry](/astrology/mars-trine-neptune-synastry/) often feels like being inspired by each other: one person's drive and the other's imagination move together. I read it from each side, since inspiring and being inspired are different gifts.
 
 ## In transits {#in-transits}
 

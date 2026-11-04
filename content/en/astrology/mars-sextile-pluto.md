@@ -33,7 +33,7 @@ Mars sextile Pluto is staying power that waits to be asked. The part of you that
 
 [Mars](/astrology/mars/) is the function that starts and pushes: initiative, assertion, effort, competition. [Pluto](/astrology/pluto/) transforms and regenerates: it eliminates what no longer serves, renews what's left, and supports authentic empowerment. A [sextile](/astrology/sextile/) relates them through opportunity: neither takes over, and the angle opens a channel between drive and depth.
 
-In plain words, you can go deep when you choose to. Faced with a stalled project or a hard situation, you're able to cut back to what matters, find the reserves to keep going, and come out with something renewed. You don't need drama to do it. The sextile asks for engagement, though: without a real task the capacity can sit unused for years, and many people only discover it in a crisis.
+Put simply, you can go deep when you choose to. Faced with a stalled project or a hard situation, you're able to cut back to what matters, find the reserves to keep going, and come out with something renewed. You don't need drama to do it. The sextile asks for engagement, though: without a real task the capacity can sit unused for years, and many people only discover it in a crisis.
 
 Empowerment is not domination, and this aspect tends to know it: its strength works on the problem rather than on the people around it.
 

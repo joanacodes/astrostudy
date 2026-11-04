@@ -53,11 +53,11 @@ The pair's other aspects, by comparison:
 - **[Mars trine Pluto](/astrology/mars-trine-pluto/):** the same staying power without the friction, steady rather than tested.
 - **[Mars opposite Pluto](/astrology/mars-opposite-pluto/):** the intensity faces you from across the chart, often through another person.
 
-Between two charts, [Mars square Pluto in synastry](/astrology/mars-square-pluto-synastry/) can be magnetic and demanding: one person's drive keeps meeting the other's intensity. It asks both people to name what they want plainly, and I read it from each side.
+In a relationship, [Mars square Pluto in synastry](/astrology/mars-square-pluto-synastry/) can be magnetic and demanding: one person's drive keeps meeting the other's intensity. It asks both people to name what they want plainly, and I read it from each side.
 
 ## In transits {#in-transits}
 
-[Transiting Pluto square natal Mars](/astrology/transiting-pluto-square-natal-mars/) is long and slow: Pluto holds the square for a year or more, often in several passes, as a season of pressure to change how you use your energy. Born with the square, you meet a stronger contact at the [Pluto square](/astrology/pluto-square/), whose age depends on your birth year: Pluto in the sky then reaches your Mars or the point opposite it.
+[Transiting Pluto square natal Mars](/astrology/transiting-pluto-square-natal-mars/) is long and slow: Pluto holds the square for a year or more, often in several passes, as a season of pressure to change how you use your energy. Born with the square, you meet a stronger contact at the [Pluto square](/astrology/pluto-square/), which arrives at different ages for different generations: Pluto in the sky then reaches your Mars or the point opposite it.
 
 Mars in the sky squares your natal Pluto twice every two years, for a few days: short bursts of intensity, worth spending on something that matters.
 

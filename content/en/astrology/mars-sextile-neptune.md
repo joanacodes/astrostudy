@@ -52,7 +52,7 @@ Mars and Neptune in their other aspects:
 - **[Mars trine Neptune](/astrology/mars-trine-neptune/):** a fuller flow in one element, where inspired action comes almost without asking.
 - **[Mars opposite Neptune](/astrology/mars-opposite-neptune/):** will and ideal across the chart, often met first in other people.
 
-Between two charts, [Mars sextile Neptune in synastry](/astrology/mars-sextile-neptune-synastry/) tends to be a gentle encouragement: one person's drive and the other's imagination get on. I read it for each of you.
+Across two charts, [Mars sextile Neptune in synastry](/astrology/mars-sextile-neptune-synastry/) tends to be a gentle encouragement: one person's drive and the other's imagination get on. I read it for each of you.
 
 ## In transits {#in-transits}
 

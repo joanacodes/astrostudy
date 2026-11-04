@@ -55,11 +55,11 @@ Les autres aspects Mars–Saturne, pour comparer :
 - **[Mars carré Saturne](/astrology/mars-square-saturn/) :** ce que le trigone fait par tempérament, le carré doit l’apprendre par la friction.
 - **[Mars opposition Saturne](/astrology/mars-opposite-saturn/) :** l’élan et la limite aux deux bouts du thème, qui demandent un équilibre que ce trigone trouve presque sans y penser.
 
-Entre deux thèmes, [Mars trigone Saturne en synastrie](/astrology/mars-trine-saturn-synastry/), l’énergie de l’une des deux personnes et le sens de la structure de l’autre travaillent bien ensemble. Je le lis dans les deux sens, car donner de la stabilité et en recevoir sont deux rôles différents.
+D’un thème à l’autre, [Mars trigone Saturne en synastrie](/astrology/mars-trine-saturn-synastry/), l’énergie de l’une des deux personnes et le sens de la structure de l’autre travaillent bien ensemble. Je le lis dans les deux sens, car donner de la stabilité et en recevoir sont deux rôles différents.
 
 ## En transit {#en-transit}
 
-Deux fois par tour, environ dix ans après son passage sur votre Mars et dix ans avant d’y revenir, Saturne forme un trigone avec Mars depuis le ciel : c’est [Saturne en transit trigone Mars du thème natal](/astrology/transiting-saturn-trine-natal-mars/). Au rythme de Saturne, ce transit s’attarde, revenant souvent à l’angle exact. C’est souvent une bonne saison pour l’effort à long horizon : se former, bâtir, installer une routine. Pour les personnes nées avec ce trigone, le [retour de Saturne](/astrology/saturn-return/) le reforme ; vers 15 et 44 ans, au demi-tour de Saturne, il se change en sextile.
+Deux fois par tour, environ dix ans après son passage sur votre Mars et dix ans avant d’y revenir, Saturne forme un trigone avec Mars depuis le ciel : c’est [Saturne en transit trigone Mars du thème natal](/astrology/transiting-saturn-trine-natal-mars/). Au rythme de Saturne, ce transit s’attarde, revenant souvent à l’angle exact. C’est souvent une bonne saison pour l’effort à long horizon : se former, bâtir, installer une routine. Pour les personnes nées avec ce trigone, le [retour de Saturne](/astrology/saturn-return/) le reforme ; vers 15 et 44 ans, au demi-tour de Saturne, le trigone se change en sextile.
 
 La version rapide vient de Mars : deux trigones à Saturne du thème natal par tour de deux ans, quelques jours chacun, dont l’un au retour de Mars à son degré de naissance, puisque votre Mars est déjà en trigone avec votre Saturne.
 

@@ -34,7 +34,7 @@ Mars trigone Uranus laisse votre façon d’agir et votre façon de changer gard
 
 [Mars](/astrology/mars/) change l’envie en acte : l’initiative, l’affirmation, l’effort, le courage de rivaliser et de finir. [Uranus](/astrology/uranus/) différencie et réforme : expérimenter, libérer ce qui est coincé, trouver des solutions originales. Un [trigone](/astrology/trine/) les relie par la fluidité, chaque fonction renforçant l’autre : Mars donne des jambes à une idée neuve, et Uranus empêche l’effort de s’éventer.
 
-Concrètement, vous changez de cap facilement et sans drame. Vous essayez peut-être volontiers un nouvel outil, trouvez votre propre méthode ou faites un pas devant lequel d’autres hésitent, et vous avez rarement besoin d’une permission pour faire à votre façon. L’effort paraît plus léger quand il contient du neuf. Les autres remarquent souvent avec quel naturel vous vous adaptez ; vous, peut-être pas, parce que cela vous coûte si peu.
+Dit simplement, vous changez de cap facilement et sans drame. Vous essayez peut-être volontiers un nouvel outil, trouvez votre propre méthode ou faites un pas devant lequel d’autres hésitent, et vous avez rarement besoin d’une permission pour faire à votre façon. L’effort paraît plus léger quand il contient du neuf. Les autres remarquent souvent avec quel naturel vous vous adaptez ; vous, peut-être pas, parce que cela vous coûte si peu.
 
 C’est aussi le piège discret du trigone. L’aisance n’est pas une fatalité : l’envie de commencer quelque chose de neuf ne le termine pas, et un trigone laissé à lui-même peut passer d’une idée fraîche à la suivante. Ses meilleures années viennent quand vous le dirigez.
 

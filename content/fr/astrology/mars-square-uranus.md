@@ -54,7 +54,7 @@ Les autres angles entre Mars et Uranus :
 - **[Mars trigone Uranus](/astrology/mars-trine-uranus/) :** la même originalité sans la friction, qui coule dans un même élément.
 - **[Mars opposition Uranus](/astrology/mars-opposite-uranus/) :** l’envie de changement vous fait face d’un bout à l’autre du thème, et arrive souvent par quelqu’un d’autre.
 
-Entre deux thèmes, [Mars carré Uranus en synastrie](/astrology/mars-square-uranus-synastry/) peut être excitant et déroutant à la fois : l’élan de l’une des deux personnes rencontre sans cesse le besoin d’espace de l’autre. Le dire aide, et je le lis de chaque côté.
+Dans un couple ou une association, [Mars carré Uranus en synastrie](/astrology/mars-square-uranus-synastry/) peut être excitant et déroutant à la fois : l’élan de l’une des deux personnes rencontre sans cesse le besoin d’espace de l’autre. Le dire aide, et je le lis de chaque côté.
 
 ## En transit {#en-transit}
 

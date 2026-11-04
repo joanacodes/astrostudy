@@ -54,7 +54,7 @@ Mars and Jupiter go through all their aspects in a cycle of a little over two ye
 - **[Mars square Jupiter](/astrology/mars-square-jupiter/):** friction at a right angle, where the opposition has the two face to face.
 - **[Mars trine Jupiter](/astrology/mars-trine-jupiter/):** effort and meaning in one element, backing each other without a go-between.
 
-Between two charts, [Mars opposite Jupiter in synastry](/astrology/mars-opposite-jupiter-synastry/) often divides the roles: one person's push, the other's horizon. I read it in both directions, because the one who acts and the one who widens the view feel the pull differently.
+When two charts meet, [Mars opposite Jupiter in synastry](/astrology/mars-opposite-jupiter-synastry/) often divides the roles: one person's push, the other's horizon. I read it in both directions, because the one who acts and the one who widens the view feel the pull differently.
 
 ## In transits {#in-transits}
 

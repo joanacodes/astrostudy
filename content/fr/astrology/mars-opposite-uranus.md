@@ -53,7 +53,7 @@ Face aux autres aspects de la paire :
 - **[Mars carré Uranus](/astrology/mars-square-uranus/) :** une friction en angle plutôt qu’un face-à-face, vécue en dedans plus qu’à travers les autres.
 - **[Mars trigone Uranus](/astrology/mars-trine-uranus/) :** l’indépendance et l’effort dans un même élément, à l’aise là où l’opposition doit chercher l’équilibre.
 
-Entre deux thèmes, [Mars opposition Uranus en synastrie](/astrology/mars-opposite-uranus-synastry/) peut être électrique : l’élan de l’une des deux personnes rencontre de front le besoin d’espace de l’autre. Je le lis pour chacune, car la personne qui pousse et celle qui a besoin d’air ne le vivent pas de la même façon.
+Entre deux personnes, [Mars opposition Uranus en synastrie](/astrology/mars-opposite-uranus-synastry/) peut être électrique : l’élan de l’une des deux personnes rencontre de front le besoin d’espace de l’autre. Je le lis pour chacune, car la personne qui pousse et celle qui a besoin d’air ne le vivent pas de la même façon.
 
 ## En transit {#en-transit}
 

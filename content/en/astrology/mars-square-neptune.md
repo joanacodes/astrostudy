@@ -33,7 +33,7 @@ Mars square Neptune puts what you do and what you dream at a right angle. The pa
 
 [Mars](/astrology/mars/) acts on wants: it initiates, asserts, competes and defends a line. [Neptune](/astrology/neptune/) widens the frame: imagination, transcendence, compassion, and a loosening of boundaries that serve no purpose. A [square](/astrology/square/) puts them in a friction that promotes adaptation: neither replaces the other, and each keeps asking the other to adjust.
 
-In plain words, you may hesitate when an aim isn't clear yet, or push hard for an ideal and then find reality smaller than the picture. A plain personal want can feel too small next to what you can imagine, and you may fight for others more easily than for yourself. None of that is weakness. Idealisation is not delusion, and the square's work is to bring vision and effort into contact: to act on what you care about one practical step at a time.
+In daily life, you may hesitate when an aim isn't clear yet, or push hard for an ideal and then find reality smaller than the picture. A plain personal want can feel too small next to what you can imagine, and you may fight for others more easily than for yourself. None of that is weakness. Idealisation is not delusion, and the square's work is to bring vision and effort into contact: to act on what you care about one practical step at a time.
 
 Done well, it gives a rare combination: someone who can imagine what could be and still roll up their sleeves.
 

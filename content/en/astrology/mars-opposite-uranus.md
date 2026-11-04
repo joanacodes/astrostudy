@@ -52,7 +52,7 @@ Set against the pair's other aspects:
 - **[Mars square Uranus](/astrology/mars-square-uranus/):** friction at a corner instead of a face-off, felt more inside than through others.
 - **[Mars trine Uranus](/astrology/mars-trine-uranus/):** independence and effort in one element, at ease where the opposition has to balance.
 
-Between two charts, [Mars opposite Uranus in synastry](/astrology/mars-opposite-uranus-synastry/) can be electric: one person's drive meets the other's need for room head-on. I read it for each person, since the one who pushes and the one who needs space feel it differently.
+Between two people, [Mars opposite Uranus in synastry](/astrology/mars-opposite-uranus-synastry/) can be electric: one person's drive meets the other's need for room head-on. I read it for each person, since the one who pushes and the one who needs space feel it differently.
 
 ## In transits {#in-transits}
 

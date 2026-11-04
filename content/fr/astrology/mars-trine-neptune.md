@@ -53,7 +53,7 @@ Le trigone parmi les autres aspects Mars–Neptune :
 - **[Mars carré Neptune](/astrology/mars-square-neptune/) :** l’aisance du trigone changée en friction, où la vision et l’action doivent négocier.
 - **[Mars opposition Neptune](/astrology/mars-opposite-neptune/) :** votre volonté et vos idéaux de part et d’autre du thème, souvent travaillés à travers quelqu’un d’autre.
 
-Entre deux thèmes, [Mars trigone Neptune en synastrie](/astrology/mars-trine-neptune-synastry/) donne souvent l’impression de s’inspirer mutuellement : l’élan de l’une des deux personnes et l’imagination de l’autre avancent ensemble. Je le lis de chaque côté, car inspirer et recevoir l’inspiration sont deux dons différents.
+Quand deux thèmes se rencontrent, [Mars trigone Neptune en synastrie](/astrology/mars-trine-neptune-synastry/) donne souvent l’impression de s’inspirer mutuellement : l’élan de l’une des deux personnes et l’imagination de l’autre avancent ensemble. Je le lis de chaque côté, car inspirer et recevoir l’inspiration sont deux dons différents.
 
 ## En transit {#en-transit}
 

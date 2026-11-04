@@ -53,7 +53,7 @@ Mars and Uranus in their other aspects:
 - **[Mars trine Uranus](/astrology/mars-trine-uranus/):** original initiative comes easily, in one element, without the conjunction's all-at-once charge.
 - **[Mars opposite Uranus](/astrology/mars-opposite-uranus/):** the need for freedom seems to sit across the chart, often in other people, until you claim it.
 
-Between two charts, [Mars conjunct Uranus in synastry](/astrology/mars-conjunct-uranus-synastry/) puts one person's drive on the other's urge to change: lively, unsettling at times, and read from both sides.
+When this conjunction links two charts, [Mars conjunct Uranus in synastry](/astrology/mars-conjunct-uranus-synastry/) puts one person's drive on the other's urge to change: lively, unsettling at times, and read from both sides.
 
 ## In transits {#in-transits}
 

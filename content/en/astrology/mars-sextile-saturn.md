@@ -52,7 +52,7 @@ The rest of the Mars–Saturn family, for comparison:
 - **[Mars trine Saturn](/astrology/mars-trine-saturn/):** a deeper version of the same ease, with both planets in one element.
 - **[Mars opposite Saturn](/astrology/mars-opposite-saturn/):** the two face each other across the chart, and the balance has to be found.
 
-Between two charts, [Mars sextile Saturn in synastry](/astrology/mars-sextile-saturn-synastry/) is one person's energy finding the other's structure useful, and the reverse. I read it from both sides, because steadying someone and being steadied aren't the same.
+Between two people, [Mars sextile Saturn in synastry](/astrology/mars-sextile-saturn-synastry/) is one person's energy finding the other's structure useful, and the reverse. I read it from both sides, because steadying someone and being steadied aren't the same.
 
 ## In transits {#in-transits}
 

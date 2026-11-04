@@ -54,11 +54,11 @@ Les autres aspects de la paire, par contraste :
 - **[Mars trigone Pluton](/astrology/mars-trine-pluto/) :** une endurance qui coule dans un même élément, intense sans tension.
 - **[Mars opposition Pluton](/astrology/mars-opposite-pluto/) :** l’intensité se tient de l’autre côté du thème, souvent chez d’autres, jusqu’à ce que vous la fassiez vôtre.
 
-Entre deux thèmes, [Mars conjonction Pluton en synastrie](/astrology/mars-conjunct-pluto-synastry/) est un contact puissant dans les deux sens : l’élan de l’une des deux personnes rencontre la profondeur de l’autre au même endroit. Je le lis des deux côtés, en veillant à la façon dont le pouvoir se partage.
+Entre deux personnes, [Mars conjonction Pluton en synastrie](/astrology/mars-conjunct-pluto-synastry/) est un contact puissant dans les deux sens : l’élan de l’une des deux personnes rencontre la profondeur de l’autre au même endroit. Je le lis des deux côtés, en veillant à la façon dont le pouvoir se partage.
 
 ## En transit {#en-transit}
 
-Pluton avance si lentement, environ 248 ans pour un tour, que [Pluton en transit conjonction Mars du thème natal](/astrology/transiting-pluto-conjunct-natal-mars/) arrive au plus une fois dans une vie, et pour beaucoup jamais ; quand ce transit a lieu, il s’attarde un an ou deux, ou davantage. Si la conjonction est dans votre thème, vous l’avez rencontrée dans l’enfance si Mars avait un peu d’avance sur Pluton, et sinon vous ne la rencontrerez pas. Le [carré de Pluton](/astrology/pluto-square/), dont l’âge dépend de votre année de naissance, forme un carré avec votre Pluton et votre Mars à la fois.
+Pluton avance si lentement, environ 248 ans pour un tour, que [Pluton en transit conjonction Mars du thème natal](/astrology/transiting-pluto-conjunct-natal-mars/) arrive au plus une fois dans une vie, et pour beaucoup jamais ; quand ce transit a lieu, il s’attarde un an ou deux, ou davantage. Si la conjonction est dans votre thème, vous l’avez rencontrée dans l’enfance si Mars avait un peu d’avance sur Pluton, et sinon vous ne la rencontrerez pas. Le [carré de Pluton](/astrology/pluto-square/), dont l’âge varie selon l’année de naissance, forme un carré avec votre Pluton et votre Mars à la fois.
 
 Mars, dans le ciel, atteint la paire environ tous les deux ans et passe sur les deux en quelques jours : une courte charge d’énergie concentrée.
 

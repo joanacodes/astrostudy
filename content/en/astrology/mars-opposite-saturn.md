@@ -33,7 +33,7 @@ Mars opposite Saturn draws a line across the chart with the push at one end and 
 
 [Mars](/astrology/mars/) is agency in motion: starting, asserting, competing, standing your ground. [Saturn](/astrology/saturn/) stands for structure in its widest sense: duties, boundaries, discipline, and the patience of the long term. An [opposition](/astrology/opposition/) sets them face to face as a polarity. Each keeps its identity, and the tension between them is real, but how it feels depends on how you hold it.
 
-In plain words, you may swing between pushing hard and holding back, or find that the limit always seems to come from outside: a rule, a timetable, a person who says *not like that*. Sometimes it's the other way round, and you're the careful one, facing someone who charges ahead. Either way, the opposition tends to show through relationships before it's recognised as an inner rhythm. Nothing in that is a defeat. It's how a polarity teaches: by showing you each end clearly enough to want both.
+In practice, you may swing between pushing hard and holding back, or find that the limit always seems to come from outside: a rule, a timetable, a person who says *not like that*. Sometimes it's the other way round, and you're the careful one, facing someone who charges ahead. Either way, the opposition tends to show through relationships before it's recognised as an inner rhythm. Nothing in that is a defeat. It's how a polarity teaches: by showing you each end clearly enough to want both.
 
 What it builds is proportion. People who have lived with this aspect a while often know how to push without breaking things and how to wait without giving up, which is exactly the balance it asks for.
 

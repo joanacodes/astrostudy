@@ -53,7 +53,7 @@ The pair's other aspects, for comparison:
 - **[Mars trine Uranus](/astrology/mars-trine-uranus/):** the same originality with the friction gone, flowing in one element.
 - **[Mars opposite Uranus](/astrology/mars-opposite-uranus/):** the urge for change faces you across the chart, often arriving through someone else.
 
-Between two charts, [Mars square Uranus in synastry](/astrology/mars-square-uranus-synastry/) can be exciting and unsettling at once: one person's push keeps meeting the other's need for room. Saying so helps, and I read it from each side.
+In a couple or a partnership, [Mars square Uranus in synastry](/astrology/mars-square-uranus-synastry/) can be exciting and unsettling at once: one person's push keeps meeting the other's need for room. Saying so helps, and I read it from each side.
 
 ## In transits {#in-transits}
 

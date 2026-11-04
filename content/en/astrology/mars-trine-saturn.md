@@ -54,7 +54,7 @@ The other Mars–Saturn aspects, for comparison:
 - **[Mars square Saturn](/astrology/mars-square-saturn/):** what the trine does by temperament, the square has to learn through friction.
 - **[Mars opposite Saturn](/astrology/mars-opposite-saturn/):** the push and the limit at opposite ends, asking for a balance this trine mostly finds without trying.
 
-Between two charts, [Mars trine Saturn in synastry](/astrology/mars-trine-saturn-synastry/) is one person's energy and the other's sense of structure working well together. I read it in both directions, since giving steadiness and receiving it are different roles.
+Across two charts, [Mars trine Saturn in synastry](/astrology/mars-trine-saturn-synastry/) is one person's energy and the other's sense of structure working well together. I read it in both directions, since giving steadiness and receiving it are different roles.
 
 ## In transits {#in-transits}
 
