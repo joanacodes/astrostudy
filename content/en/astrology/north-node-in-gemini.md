@@ -60,4 +60,4 @@ The beginner's version runs the other way: so many angles, so many tabs open, th
 
 Ask three questions before you give an opinion, and let the answers change it at least once. Keep a notebook of things you didn't know last week. Talk to neighbours, siblings, the person in the next seat: growth in Gemini is local and ordinary.
 
-Gemini likes to check its sources, so here's mine. The angle my [testing notebook](/blog/i-tested-my-birth-chart/) reports is the rising sign, which held about a third of the time, and the three that stood out were Saturn, Chiron and Lilith. Take this page as a question to ask of your own life, which is the Gemini way to read anything.
+Gemini likes to check its sources, so here's mine. My [testing notebook](/blog/i-tested-my-birth-chart/) has one angle in it, the rising sign, which held about a third of the time; the three standouts were Saturn, Chiron and Lilith. Take this page as a question to ask of your own life, which is the Gemini way to read anything.

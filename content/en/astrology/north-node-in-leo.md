@@ -40,6 +40,8 @@ The [Sun](/astrology/sun/) rules Leo, so your Sun's sign and house show the styl
 
 Using the true node, the node was in Leo from November 1942 to May 1944, June 1961 to December 1962, January 1980 to September 1981, October 1998 to April 2000 and May 2017 to November 2018, and it returns in November 2035. That makes it a generation's placement, shared by about 1 person in 13 of those born from 1930 to 2009; the house it falls in, which needs [your birth time](/blog/unknown-birth-time/), is what turns it into yours. The node came into Leo from Virgo and left for Cancer, so if you were born around one of those changes, [North Node in Virgo](/astrology/north-node-in-virgo/) or [North Node in Cancer](/astrology/north-node-in-cancer/) may fit better. The mean and true nodes stay within a degree or two of each other; I look at both, and if they fall either side of the line, I say so ([mean node and true node](/astrology/mean-node-and-true-node/)).
 
+As for evidence, the rising sign is the angle my [testing notebook](/blog/i-tested-my-birth-chart/) reports, and about a third held; the three that stood out were Saturn, Chiron and Lilith. So take this page as a sketch to hold up to your own life, not a portrait.
+
 ## In close relationships {#in-close-relationships}
 
 In love, the Aquarius end can keep things friendly: a relationship like a great friendship, plenty of freedom, not much fuss. The Leo end wants the fuss. Romance, the declaration, the evening planned just for two, the courage to say *I adore you* first. You may also need to let yourself be adored back, which can be the harder half.
@@ -62,4 +64,4 @@ Make one thing that is unmistakably yours, a song, a dish, a garden, a business,
 
 Keep your Aquarius friendships close; they'll be the first to clap.
 
-Since July 2026 the North Node has been in Aquarius, the sign of your South Node, and it stays there until about March 2028. For anyone born with it in Leo, that's the [nodal reversal](/astrology/nodal-reversal/): at about 28 for births from late 1998 to early 2000, and about 46 for births in 1980 and 1981. Astrologers read it as a checkpoint; I'd call it weather, not a forecast. As for evidence, the angle my [testing notebook](/blog/i-tested-my-birth-chart/) reports is the rising sign, which held about a third of the time, while the three that stood out were Saturn, Chiron and Lilith.
+Since July 2026 the North Node has been in Aquarius, the sign of your South Node, and it stays there until about March 2028. For anyone born with it in Leo, that's the [nodal reversal](/astrology/nodal-reversal/): at about 28 for births from late 1998 to early 2000, and about 46 for births in 1980 and 1981. Astrologers read it as a checkpoint; I'd call it weather, not a forecast.

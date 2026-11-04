@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 40
 glyph: "♀"
-definition: "Venus in the 4th house means Venus was at the bottom of the chart when you were born, in the house of home, roots and family. It describes pleasure found in private life, a gift for making a home people are glad to return to, and a love of peace at home that is worth keeping honest."
+definition: "Venus in the 4th house means Venus was near the lowest point of the chart when you were born, in the house of home and roots. It describes pleasure found in private life, a gift for making a home people are glad to return to, and a love of peace at home that is worth keeping honest."
 facts:
   - { k: "Body", v: "Venus ♀" }
   - { k: "House", v: "The 4th house: home, roots, family, the private self" }
@@ -18,11 +18,11 @@ facts:
 related: ["/astrology/venus", "/astrology/4th-house", "/astrology/imum-coeli", "/astrology/venus-in-cancer", "/blog/unknown-birth-time"]
 faq:
   - q: "What does Venus in the 4th house mean?"
-    a: "That Venus was at the bottom of your chart when you were born, in the house of home, roots and family. You tend to find pleasure and harmony in private: making a home lovely, gathering people you love around a table, keeping the traditions that matter. Peace at home matters to you a great deal."
+    a: "At your birth Venus was low beneath the horizon, in the house of home, roots and family. You tend to find pleasure and harmony in private: making a home lovely, gathering people you love around a table, keeping the traditions that matter. Peace at home matters to you a great deal."
   - q: "Does Venus in the 4th house mean a happy family?"
     a: "It doesn’t describe your family; it describes what you value in home and belonging. Some people with Venus here grew up somewhere gentle, others build the warmth they missed. Either way, this Venus points to a gift for making home a good place to be."
   - q: "Do I need my birth time for Venus in the 4th house?"
-    a: "Yes. In Placidus, the 4th house begins at the Imum Coeli, which moves with the time and place of birth. A slightly later birth can move Venus across it into the 3rd house, an earlier one can leave it in the 5th. Without the exact time, I don’t read a house."
+    a: "Yes. The 4th house opens at the Imum Coeli, a point that moves with the time and place of birth, and in Placidus, which I use, a slightly later birth can carry Venus across it into the 3rd house while an earlier one leaves it in the 5th. Without the exact time, I don’t read a house."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, and what tradition gave the fourth" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
@@ -31,9 +31,9 @@ Venus in the 4th house keeps what it values most out of public view: at home, am
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 4th house](/astrology/4th-house/) holds home, roots and family: where you come from, what you build in order to belong, the self you are when the door is shut. It is angular, and in [Placidus](/astrology/placidus/), the house system I use, it begins at the Imum Coeli, the point opposite the Midheaven. Its natural sign is Cancer. With [Venus](/astrology/venus/) here, pleasure and harmony are found mostly in private: a kitchen table, a garden, a room arranged just so, an evening with the people who know you best.
+[The 4th house](/astrology/4th-house/) is home in every sense: the family and places you come from, the household you make, and the person you are once the door is shut. In [Placidus](/astrology/placidus/), the system I read, this angular house opens at the Imum Coeli, the low point facing the Midheaven across the chart. Its natural sign is Cancer. With [Venus](/astrology/venus/) here, pleasure and harmony are found mostly in private: a kitchen table, a garden, a room arranged just so, an evening with the people who know you best.
 
-Venus is never far from the Sun, so Venus in the 4th usually goes with a birth in the night, around midnight, Venus itself far below your feet. The Imum Coeli is a sensitive point for timing. A birth a few minutes later can carry Venus across it into [Venus in the 3rd house](/astrology/venus-in-3rd-house/); an earlier one can leave it in [Venus in the 5th house](/astrology/venus-in-5th-house/). Without an exact time I can't place it at all ([what changes without a birth time](/blog/unknown-birth-time/)).
+Since Venus and the Sun travel close together, a 4th-house Venus usually means a night birth, somewhere around midnight, with Venus far below the ground under you. The Imum Coeli is a sensitive point for timing. A birth a few minutes later can carry Venus across it into [Venus in the 3rd house](/astrology/venus-in-3rd-house/); an earlier one can leave it in [Venus in the 5th house](/astrology/venus-in-5th-house/). Without an exact time I can't place it at all ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## In close relationships {#in-close-relationships}
 
@@ -51,4 +51,4 @@ Home can turn into a hiding place. When the world feels harsh, you may retreat b
 
 Let your home hold disagreements as well as comfort: a household where people can argue kindly is more peaceful in the long run. Invite people in, rather than only retreating. Make one corner, one ritual, one object entirely your own, chosen for your taste and not the family's. And if your roots were difficult, the home this Venus describes can be one you build now, not only the one you came from.
 
-Venus held about a third of the time in [my notebook](/blog/i-tested-my-birth-chart/), along with the other placements everyone reads first. In the 4th house it speaks of a private life I usually know least about at a first reading, so I ask before I assume anything.
+Venus scored about one in three in [my notebook](/blog/i-tested-my-birth-chart/), much like the other placements everyone reads first. In the 4th house it speaks of a private life I usually know least about at a first reading, so I ask before I assume anything.

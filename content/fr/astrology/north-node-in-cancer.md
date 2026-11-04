@@ -63,4 +63,4 @@ Commencez à la maison : un repas cuisiné lentement, une pièce arrangée pour
 
 Gardez aussi le bout Capricorne. Planifiez, bien sûr ; planifiez simplement le repos avec.
 
-Et lisez cette page sans la serrer trop fort. L’angle que rapporte mon [carnet de test](/blog/i-tested-my-birth-chart/), c’est l’ascendant, qui a tenu environ une fois sur trois, et les trois placements qui se sont détachés sont Saturne, Chiron et Lilith. Ce que vous ressentez en lisant vous guidera mieux.
+Et lisez cette page sans la serrer trop fort. Mon [carnet de test](/blog/i-tested-my-birth-chart/) ne parle que d’un angle, l’ascendant, qui a tenu environ une fois sur trois, et trois placements se sont détachés : Saturne, Chiron et Lilith. Ce que vous ressentez en lisant vous guidera mieux.

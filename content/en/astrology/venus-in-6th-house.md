@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 42
 glyph: "♀"
-definition: "Venus in the 6th house puts the planet of value and harmony in the house of daily work and routine, whose natural sign is Virgo, its fall. It describes grace brought to ordinary tasks, a need for a pleasant workplace and easy colleagues, and affection shown through daily care. It needs an exact birth time."
+definition: "Venus in the 6th house puts the planet of value and harmony among the chores, routines and colleagues of the working day, in a house whose natural sign is Virgo, its fall. It describes grace brought to ordinary tasks, a need for a pleasant workplace and easy colleagues, and affection shown through daily care. It needs an exact birth time."
 facts:
   - { k: "Body", v: "Venus ♀" }
   - { k: "House", v: "The 6th house: daily work, routines, colleagues, the care of your days" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/6th-house", "/astrology/venus-in-virgo", "/astrology/can-astrology-predict-health-problems", "/blog/unknown-birth-time"]
 faq:
   - q: "What does Venus in the 6th house mean?"
-    a: "That Venus was in the house of daily work, routine and the care you give your days when you were born. You tend to value a pleasant workplace and easy colleagues, to bring grace to ordinary tasks, and to enjoy being useful. Harmony in the everyday matters to you more than to most."
+    a: "Venus was in the house of the working day, its routines and its small acts of care, when you were born. You tend to value a pleasant workplace and easy colleagues, to bring grace to ordinary tasks, and to enjoy being useful. Harmony in the everyday matters to you more than to most."
   - q: "Is Venus in the 6th house about health?"
     a: "Not as a prediction. Tradition linked the 6th house with illness, but no chart can forecast anyone’s health, and I don’t read it that way. Venus here describes how you like to look after your days: unhurried meals, gentle routines, work that feels humane."
   - q: "Is Venus in the 6th house good for work?"
@@ -31,9 +31,9 @@ Venus in the 6th house finds its pleasure on an ordinary Tuesday: a tidy desk, a
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 6th house](/astrology/6th-house/) is the shape of an ordinary day: the work you actually do, the routines that hold you up, the people you work alongside, the care you give your body. It is cadent, the house just before the Descendant; tradition called it Bad Fortune and gave Mars its joy there. Its natural sign is Virgo, where Venus has its fall. On paper, that makes it an unlikely home for the planet of pleasure. In practice, [Venus](/astrology/venus/) here brings grace to the ordinary: you tend to value a pleasant workplace, easy colleagues and well-made routines, and to enjoy usefulness more than most.
+[The 6th house](/astrology/6th-house/) covers the working week as it is actually lived: the tasks on your list, the habits that keep you going, the people at the next desk, the way you look after your body from one day to the next. Cadent, and lying just under the Descendant, it carried the old name Bad Fortune and was where Mars had its joy. Its natural sign is Virgo, where Venus has its fall. On paper, that makes it an unlikely home for the planet of pleasure. In practice, [Venus](/astrology/venus/) here brings grace to the ordinary: you tend to value a pleasant workplace, easy colleagues and well-made routines, and to enjoy usefulness more than most.
 
-The same old books tied this house to sickness. I don't read illness, or health, in a chart, and no chart can forecast it ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). What I read with Venus here is the way you like to look after your days: the meals you take time over, the walk that clears your head, the rhythm that makes work feel humane.
+The same old books tied this house to sickness. I don't read illness, or health, in a chart, and no chart can forecast it ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). With Venus here I read something gentler: the way you like to look after your days, the meals you take time over, the walk that clears your head, the rhythm that makes work feel humane.
 
 Venus had set not long before you were born, sinking just below the western horizon, and with the Sun close by, the birth most often fell in the late afternoon or evening. A few minutes matter here. A slightly earlier birth would find Venus still above the horizon, in [Venus in the 7th house](/astrology/venus-in-7th-house/); a later one would carry it down into [Venus in the 5th house](/astrology/venus-in-5th-house/). [Placidus](/astrology/placidus/), the system I use, draws those lines from the exact time, so without it I can't tell you which of the three you have ([what changes without a birth time](/blog/unknown-birth-time/)).
 
@@ -53,4 +53,4 @@ The need for harmony at work can make you put up with what you shouldn't: an unf
 
 Build one small pleasure into every working day, and guard it. Say clearly when a workload isn't fair: harmony that rests on one person's silence isn't harmony. Choose routines that feel good, not only ones that are efficient. And turn some of your care on yourself: an unhurried lunch, a walk, an evening with no tasks in it at all.
 
-In [my notebook](/blog/i-tested-my-birth-chart/), Venus held about a third of the time, and in the 6th it is a quiet placement, easy to miss in a chart and easy to see in a life. I look for it in how you describe your working days.
+In [my notebook](/blog/i-tested-my-birth-chart/), Venus came out at about a third, and in the 6th it is a quiet placement, easy to miss in a chart and easy to see in a life. I look for it in how you describe your working days.

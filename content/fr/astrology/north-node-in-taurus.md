@@ -41,7 +41,7 @@ Le Taureau est une terre fixe : il garde, stabilise et savoure ce qui est devan
 
 Environ 1 personne sur 12 née entre 1930 et 2009 partage ce placement. D’après le nœud vrai, il a été en Taureau jusqu’en juillet 1930, puis d’août 1947 à janvier 1949, de février 1966 à août 1967, de septembre 1984 à avril 1986 et d’avril 2003 à décembre 2004, et dernièrement de janvier 2022 à juillet 2023. Reculant comme le font les nœuds, il est arrivé des Gémeaux et a passé le relais au Bélier. Près de ces changements, le nœud moyen et le nœud vrai, à un ou deux degrés l’un de l’autre au plus, peuvent se trouver dans deux signes différents. Je regarde les deux, et quand les vôtres ne s’accordent pas, je le dis ; lisez alors [Nœud Nord en Gémeaux](/astrology/north-node-in-gemini/) ou [Nœud Nord en Bélier](/astrology/north-node-in-aries/) à côté de cette page. Toutes les personnes nées sur le même an et demi portent ce signe ; c’est la maison, qui demande [votre heure de naissance](/blog/unknown-birth-time/), qui le rend personnel.
 
-Côté preuves : mon [carnet](/blog/i-tested-my-birth-chart/) rapporte un seul angle, l’ascendant, qui a tenu environ une fois sur trois, et les trois placements qui se sont détachés sont Saturne, Chiron et Lilith. Je tiens donc ce nœud pour une description à essayer, lentement, ce qui convient au Taureau.
+Côté preuves : mon [carnet](/blog/i-tested-my-birth-chart/) ne rapporte qu’un angle, l’ascendant, qui a tenu environ une fois sur trois ; Saturne, Chiron et Lilith sont les trois placements qui se sont détachés. Je tiens donc ce nœud pour une description à essayer, lentement, ce qui convient au Taureau.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 

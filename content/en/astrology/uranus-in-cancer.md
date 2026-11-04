@@ -36,7 +36,7 @@ A house with a window cut into every wall: that's the picture I keep for Uranus 
 
 The Moon, ruler of Cancer, is the one to read alongside: her sign and house describe what makes you feel safe, and Uranus here asks that safety include room to be yourself. There's no dignity in play, Uranus being at home only in Aquarius.
 
-Uranus was in Cancer from August 1948 to June 1956, and will be again from August 2032 to May 2040: about 1 person in 12 born from 1930 to 2009 has it. From August 1948 to June 1949 it was moving back and forth with Gemini, and from August 1955 to June 1956 with Leo ([Uranus in Gemini](/astrology/uranus-in-gemini/), [Uranus in Leo](/astrology/uranus-in-leo/)), so births in those months need the chart. Many people born from mid-1951 also have [Uranus square Neptune](/astrology/uranus-square-neptune/). Your age group shares the sign; the house names the corner of your own life where belonging has to come with a door that opens.
+The births with this placement ran from August 1948 to June 1956, and the next ones will come from August 2032 to May 2040; over the eighty years from 1930 to 2009, that's about 1 person in 12. Twice the border wavered: until June 1949 Uranus kept returning to Gemini, and from August 1955 it was already dipping into Leo ([Uranus in Gemini](/astrology/uranus-in-gemini/), [Uranus in Leo](/astrology/uranus-in-leo/)), so a birth in either stretch needs the chart. From mid-1951 the generation also shares [Uranus square Neptune](/astrology/uranus-square-neptune/). Your age group shares the sign; the house names the corner of your own life where belonging has to come with a door that opens.
 
 ## In close relationships {#in-close-relationships}
 

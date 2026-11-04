@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 43
 glyph: "♀"
-definition: "Venus in the 7th house means Venus was close to the western horizon at your birth, in the house of partners and one-to-one bonds, whose natural sign, Libra, Venus rules. It describes a gift for partnership and fair exchange, attraction to grace and good company, and a habit of keeping the peace worth balancing with your own voice."
+definition: "Venus in the 7th house means Venus was low in the west, about to set, when you were born, in the house of partners, whose natural sign, Libra, Venus rules. It describes a gift for partnership and fair exchange, attraction to grace and good company, and a habit of keeping the peace worth balancing with your own voice."
 facts:
   - { k: "Body", v: "Venus ♀" }
   - { k: "House", v: "The 7th house: partners and one-to-one bonds" }
@@ -18,11 +18,11 @@ facts:
 related: ["/astrology/venus", "/astrology/7th-house", "/astrology/descendant", "/astrology/venus-in-7th-house-synastry", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What does Venus in the 7th house mean?"
-    a: "That Venus was in the house of partners and one-to-one bonds when you were born, close to the western horizon. You tend to value partnership, fairness and grace, to enjoy being half of a pair, and to look for good company in the person facing you. The work is to keep your own voice in the balance."
+    a: "When you were born, Venus was about to set, in the house of partners. You tend to value partnership, fairness and grace, to enjoy being half of a pair, and to look for good company in the person facing you. The work is to keep your own voice in the balance."
   - q: "Does Venus in the 7th house mean a happy marriage?"
     a: "No chart can promise a marriage, happy or otherwise, and I don’t read it that way. Venus here describes what you value in partnership: fairness, kindness, good company, and a talent for making a couple work. Who you meet, and what you build together, isn’t written in your chart."
   - q: "Do I need my birth time for Venus in the 7th house?"
-    a: "Yes. In Placidus, the 7th house begins at the Descendant, which moves with every minute of the birth time. A slightly later birth puts Venus in the 6th house, while an earlier one can lift it into the 8th. Without the exact time, I don’t read Venus by house."
+    a: "Yes. The Descendant, where the 7th begins, moves with every minute of the birth time; in Placidus, which I use, a slightly later birth puts Venus in the 6th house and an earlier one can lift it into the 8th. Without the exact time, I don’t read Venus by house."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, and what tradition gave the seventh" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
@@ -31,11 +31,11 @@ Venus in the 7th house sits across the chart from you, in the house of the perso
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 7th house](/astrology/7th-house/) holds partners and close one-to-one bonds, in love, in marriage, in work, and what you look for in the person across from you. It is angular, and in [Placidus](/astrology/placidus/), the house system I use, it begins at the Descendant, the degree setting in the west at your birth. Its natural sign is Libra, one of Venus's own. [Venus](/astrology/venus/), the planet of reciprocity, is at home here: relating is where you tend to come alive, and fairness between two people matters to you as much as warmth.
+[The 7th house](/astrology/7th-house/) is the house of the other person: the partner, the spouse, the business associate, even the open rival, and the qualities you hope to find in whoever sits across the table. Angular, it starts at the Descendant, which in [Placidus](/astrology/placidus/), the system I use, is the degree sinking below the western horizon as you were born. Its natural sign is Libra, one of Venus's own. [Venus](/astrology/venus/), the planet of reciprocity, is at home here: relating is where you tend to come alive, and fairness between two people matters to you as much as warmth.
 
-Venus keeps close to the Sun, so Venus in the 7th usually goes with a birth around sunset, Venus low in the west and about to go down. Near the Descendant, minutes count. A slightly later birth would put Venus below the horizon, in [Venus in the 6th house](/astrology/venus-in-6th-house/), and an earlier one could place it higher, in [Venus in the 8th house](/astrology/venus-in-8th-house/) ([what changes without a birth time](/blog/unknown-birth-time/)).
+With the Sun never far from Venus, this placement usually means a birth around sunset. Near the Descendant, minutes count. A slightly later birth would put Venus below the horizon, in [Venus in the 6th house](/astrology/venus-in-6th-house/), and an earlier one could place it higher, in [Venus in the 8th house](/astrology/venus-in-8th-house/) ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-One distinction is worth making. This page is about your own Venus in your 7th house. Someone else's Venus falling in your 7th belongs to synastry ([Their Venus in your 7th house](/astrology/venus-in-7th-house-synastry/)), which I read only when both people have agreed to it ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+One distinction is worth making. This page is about your own Venus in your 7th house. Someone else's Venus falling in your 7th belongs to synastry ([Their Venus in your 7th house](/astrology/venus-in-7th-house-synastry/)), and that is a reading I do only with both people's agreement ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
 
 ## In close relationships {#in-close-relationships}
 
@@ -47,7 +47,7 @@ At work, a 7th-house Venus thrives in partnership: a business partner, a client 
 
 ## The hard part {#the-hard-part}
 
-You may keep the peace a little too willingly. Disagreement can feel like a threat to the bond, so you smooth it over, agree too soon, or let a partner decide. You might define yourself through your relationships, and feel unsure who you are between them. And because fairness matters so much to you, an imbalance you've never mentioned can sour things slowly.
+Peace can be bought too cheaply. Disagreement can feel like a threat to the bond, so you smooth it over, agree too soon, or let a partner decide. You might define yourself through your relationships, and feel unsure who you are between them. And because fairness matters so much to you, an imbalance you've never mentioned can sour things slowly.
 
 ## What helps {#what-helps}
 

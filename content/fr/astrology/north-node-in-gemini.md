@@ -61,4 +61,4 @@ La version débutante va dans l’autre sens : tant d’angles, tant d’onglet
 
 Posez trois questions avant de donner votre avis, et laissez les réponses le changer au moins une fois. Tenez un carnet de ce que vous ne saviez pas la semaine dernière. Parlez aux voisins, à la fratrie, à la personne assise à côté : la croissance, en Gémeaux, est locale et ordinaire.
 
-Les Gémeaux aiment vérifier leurs sources, alors voici la mienne. L’angle que rapporte mon [carnet de test](/blog/i-tested-my-birth-chart/), c’est l’ascendant, qui a tenu environ une fois sur trois, et les trois placements qui se sont détachés sont Saturne, Chiron et Lilith. Prenez cette page comme une question à poser à votre propre vie : c’est la façon Gémeaux de tout lire.
+Les Gémeaux aiment vérifier leurs sources, alors voici la mienne. Mon [carnet de test](/blog/i-tested-my-birth-chart/) ne contient qu’un angle, l’ascendant, qui a tenu environ une fois sur trois ; les trois placements qui se sont distingués sont Saturne, Chiron et Lilith. Prenez cette page comme une question à poser à votre propre vie : c’est la façon Gémeaux de tout lire.

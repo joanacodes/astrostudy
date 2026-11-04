@@ -1,13 +1,13 @@
 ---
 title: "Venus in the 3rd house"
 h1: "Venus in the 3rd house in a birth chart"
-description: "Venus in the 3rd house in a birth chart: a kind way with words, warm ties with siblings and neighbours, affection in conversation. Placidus and birth time."
+description: "Venus in the 3rd house in a birth chart: tact in everyday words, warmth for the people close at hand, affection shown in conversation. Placidus and birth time."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 39
 glyph: "♀"
-definition: "Venus in the 3rd house places the planet of value and relating in the house of the everyday mind: thinking, talking, learning and the people close at hand. It describes a kind way with words, warm ties with siblings and neighbours, and affection shown in conversation. Its house needs an exact birth time."
+definition: "Venus in the 3rd house places the planet of value and relating in the house of daily thought and talk, learning, and the people close at hand. It describes tact in everyday words, real warmth for siblings, cousins and neighbours, and affection that travels by conversation. Its house needs an exact birth time."
 facts:
   - { k: "Body", v: "Venus ♀" }
   - { k: "House", v: "The 3rd house: the everyday mind, words, siblings, neighbours" }
@@ -18,24 +18,24 @@ facts:
 related: ["/astrology/venus", "/astrology/3rd-house", "/astrology/venus-in-gemini", "/astrology/placidus", "/blog/unknown-birth-time"]
 faq:
   - q: "What does Venus in the 3rd house mean?"
-    a: "That Venus was in the house of everyday thinking, talking and the people close at hand when you were born. You tend to speak kindly, enjoy learning, and keep warm ties with siblings, cousins and neighbours. Words are often how you show affection, and how you notice it in others."
+    a: "Venus sat in the house of everyday thought, talk and the people close at hand when you were born. You tend to speak kindly, enjoy learning, and keep warm ties with siblings, cousins and neighbours. Words are often how you show affection, and how you notice it in others."
   - q: "Is Venus in the 3rd house good for writing?"
     a: "It often gives a pleasure in words and a tactful, graceful way of using them, which suits writing, teaching and any work built on communication. Whether you write is up to you and the rest of your chart; Venus here mostly describes how much you enjoy language and how kindly you use it."
   - q: "Do I need my birth time for Venus in the 3rd house?"
-    a: "Yes. Placidus, the house system I use, divides the chart by time, so its house edges move with the hour and the place of birth. An uncertain time can put Venus in the 2nd or the 4th house instead. Without the time, I don’t read a house."
+    a: "Yes. My house system, Placidus, cuts the chart up by time, so its boundaries move with the hour and place of birth, and an uncertain time could just as well give you Venus in the 2nd or the 4th. No time, no house."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, their old names, and the joy of the Moon in the third" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-Venus in the 3rd house lives in the ordinary week: the message to a sister, the chat with a neighbour over the fence, the book read on the bus. The planet of what you value and how you relate sits in the house of the everyday mind and the people close at hand. I read it as a kind way with words, and warm ties with the world within walking distance.
+Venus in the 3rd house lives in the ordinary week: the message to a sister, the chat with a neighbour over the fence, the book read on the bus. Here the planet of value and relating works through the everyday mind and the people close at hand. I read it as tact in ordinary speech, and affection for the world within walking distance.
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 3rd house](/astrology/3rd-house/) covers how you think, talk, write and learn, the people near you, siblings, cousins, neighbours, and the short journeys of a normal week. It is cadent, the house that comes just before the bottom angle of the chart, and its natural sign is Gemini. Tradition called it the Goddess and gave the Moon its joy there, not Venus, yet [Venus](/astrology/venus/) settles in easily. Here the planet of affinity and pleasure works through language and daily contact: you tend to say things kindly, to enjoy learning for its own sake, and to keep good relations with the people you see every day.
+[The 3rd house](/astrology/3rd-house/) is the near world: the way your mind works from day to day, how you talk and write and pick things up, the brothers, sisters, cousins and neighbours around you, and the errands and short trips of an ordinary week. A cadent house, lying just before the chart's lowest angle, it has Gemini as its natural sign; its old name was the Goddess, and the joy that belonged there was the Moon's, not Venus's. [Venus](/astrology/venus/) settles in easily all the same. Here the planet of affinity and pleasure works through language and daily contact: you tend to say things kindly, to enjoy learning for its own sake, and to keep good relations with the people you see every day.
 
 Words are where this Venus shows its taste. A well-turned sentence can please you as much as a painting, and you may have a gift for the tactful phrase, the thank-you note, the message that smooths a quarrel before it starts.
 
-When you were born, Venus was below the horizon on the eastern side of the chart, and since it keeps close to the Sun, that usually points to a night birth. [Placidus](/astrology/placidus/), the system I use, divides the houses by time, so their edges move with the hour and the latitude, and an uncertain time can just as easily give you [Venus in the 2nd house](/astrology/venus-in-2nd-house/) or [Venus in the 4th house](/astrology/venus-in-4th-house/) ([what changes without a birth time](/blog/unknown-birth-time/)).
+When you were born, Venus was below the horizon on the eastern side of the chart, and since it keeps close to the Sun, that usually points to a night birth. In [Placidus](/astrology/placidus/), which I use, the houses are divided by time, so their edges move with the hour and the latitude, and an uncertain time can just as easily give you [Venus in the 2nd house](/astrology/venus-in-2nd-house/) or [Venus in the 4th house](/astrology/venus-in-4th-house/) ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## In close relationships {#in-close-relationships}
 
@@ -53,4 +53,4 @@ Niceness can cost honesty. You may avoid saying the hard thing to a sibling, a n
 
 Write the difficult letter, then read it aloud to yourself before you send it. Keep one sibling, cousin or old neighbour close on purpose, with a regular call or a shared walk. Learn something purely for pleasure: a language, an instrument, the history of your street. And now and then, let a silence sit between you and someone you love, without filling it.
 
-Venus, tested like every placement in [my notebook](/blog/i-tested-my-birth-chart/), held about a third of the time. In the 3rd house its effect is often quiet, a matter of tone rather than events, so I listen for it in how you talk about the people near you before I say much.
+Venus, tested like every placement in [my notebook](/blog/i-tested-my-birth-chart/), was right about one time in three. In the 3rd house its effect is often quiet, a matter of tone rather than events, so I listen for it in how you talk about the people near you before I say much.

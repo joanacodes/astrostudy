@@ -19,13 +19,13 @@ facts:
 related: ["/astrology/venus", "/astrology/5th-house", "/astrology/planetary-joys", "/astrology/childrens-charts", "/astrology/can-astrology-predict-pregnancy"]
 faq:
   - q: "What does Venus in the 5th house mean?"
-    a: "That Venus was in the house of creativity, pleasure, play and romance when you were born, the house tradition gave it as its joy. Pleasure tends to come easily, and so does generosity with it. You may make things for the love of it, and enjoy the early chapters of love most."
+    a: "Venus was in the 5th house at your birth, the house of making, play and love affairs that tradition gave it as its joy. Pleasure tends to come easily, and so does generosity with it. You may make things for the love of it, and enjoy the early chapters of love most."
   - q: "Is Venus happy in the 5th house?"
     a: "By tradition, yes: the 5th house, once called Good Fortune, is the joy of Venus, where it was said to be glad. I read that as ease with pleasure and play, not as a promise of happy events. It shows what delights you, and how freely you let yourself enjoy it."
   - q: "Does Venus in the 5th house mean children?"
-    a: "Not as I read it. Tradition gave the 5th house children, but a chart can’t tell you if a child will come into your life, or when. With Venus here, I read your own creativity, play and pleasure as an adult, and how much room you give them."
+    a: "No. The old books gave the 5th house children, but a chart can’t tell you if a child will come into your life, or when. With Venus here, I read your own creativity, play and pleasure as an adult, and how much room you give them."
   - q: "Do I need my birth time for Venus in the 5th house?"
-    a: "Yes. Houses come from the exact time and place of birth. In Placidus, which I use, an hour’s error can move Venus on into the 4th house or back into the 6th, and the joy of Venus belongs to the 5th alone. Without the time, I don’t read Venus by house."
+    a: "Yes. The joy of Venus belongs to the 5th alone, and in Placidus, the system I use, an hour’s error can move Venus on into the 4th house or back into the 6th. I wait for a real birth time before I read any house."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, Good Fortune, and what tradition gave the fifth" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
@@ -34,11 +34,11 @@ Venus in the 5th house is the planet in the house tradition set aside for it. Th
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 5th house](/astrology/5th-house/) gathers what you do for joy: creativity, pleasure, play and romance, and the way you show yourself when nothing is at stake. It is succedent, following the 4th, and its natural sign is Leo. Tradition called it Good Fortune and placed the joy of [Venus](/astrology/venus/) there, the house where the planet of pleasure was said to be glad ([planetary joys](/astrology/planetary-joys/)). In its joy, Venus finds pleasure without effort, and shares it generously. You may make things simply because they please you, and find that other people enjoy them too.
+[The 5th house](/astrology/5th-house/) is the part of life you'd keep even if nobody paid you: making things, games and hobbies, flirting and love affairs, the self that comes out when nothing is at stake. It is succedent, following the 4th, and its natural sign is Leo. Its old name was Good Fortune, and it was the house of [Venus](/astrology/venus/)'s joy, where the planet of pleasure was said to be glad ([planetary joys](/astrology/planetary-joys/)). In its joy, Venus finds pleasure without effort, and shares it generously. You may make things simply because they please you, and find that other people enjoy them too.
 
 The old books also put children in this house. Nothing in a chart says whether a child will come into your life, or when, and I won't pretend it does ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)); nor do I read [children's charts](/astrology/childrens-charts/). With Venus in the 5th, I read the grown-up version of play: what delights you, what you make for the love of it, and how easily you let pleasure in.
 
-Venus had set some hours before you were born, and since the Sun is never far from it, that usually means an evening or night birth. In [Placidus](/astrology/placidus/), which is what I read in, the 5th house's edges come from the exact time: a later birth can move Venus on into [Venus in the 4th house](/astrology/venus-in-4th-house/), an earlier one back into [Venus in the 6th house](/astrology/venus-in-6th-house/), and only the 5th is its joy ([what changes without a birth time](/blog/unknown-birth-time/)).
+Venus had set some hours before you were born, and since the Sun is never far from it, that usually means an evening or night birth. In [Placidus](/astrology/placidus/), my house system, the 5th house's edges come from the exact time: a later birth can move Venus on into [Venus in the 4th house](/astrology/venus-in-4th-house/), an earlier one back into [Venus in the 6th house](/astrology/venus-in-6th-house/), and only the 5th is its joy ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## In close relationships {#in-close-relationships}
 
@@ -56,4 +56,4 @@ Pleasure can become the only measure. You may avoid what isn't fun, or drift awa
 
 Make something every week for no reason but your own delight, and keep it even when it's bad. Let a relationship move past the sparkling stage, and look for the play inside the ordinary: a shared joke, a new game, a day off together. Notice when you are performing pleasure rather than having it. And take play seriously enough to protect time for it.
 
-This is Venus at its traditional joy, and it's tempting to promise delight. The notebook keeps me honest: Venus held about a third of the time ([my notebook](/blog/i-tested-my-birth-chart/)), so I describe what tends to please you and let you tell me whether it does.
+This is Venus at its traditional joy, and it's tempting to promise delight. The notebook keeps me honest: Venus earned a record of about one in three ([my notebook](/blog/i-tested-my-birth-chart/)), so I describe what tends to please you and let you tell me whether it does.

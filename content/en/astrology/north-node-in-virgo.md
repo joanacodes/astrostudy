@@ -52,12 +52,12 @@ At work, you may be the one with the vision and the empathy, who knows what peop
 
 ## The hard part {#the-hard-part}
 
-Under pressure, the old reflex is to float: to escape into a screen, a daydream or someone else's crisis, and hope the practical side sorts itself out. Routines can feel like a cage at first, and the cage is the reason you avoid them.
+When life gets heavy, the familiar move is to float: to escape into a screen, a daydream or someone else's crisis, and hope the practical side sorts itself out. Routines can feel like a cage at first, and the cage is the reason you avoid them.
 
 The overcorrection is the opposite: discovering lists and turning them on yourself. Once the Virgo end wakes up, it can become a harsh inner voice. That's the practice overshooting. Usefulness was the aim, never flawlessness.
 
 ## What helps {#what-helps}
 
-Start with one habit and keep it for a month: the same walk, the same bedtime, ten minutes of tidying. Write things down. Finish one task before you start the next. Let your timetable include rest, so the Pisces end has its hour too; your compassion and imagination are what make the routine worth having.
+Virgo prefers a modest claim to a grand one, and so do I: the rising sign is the one angle in my [testing notebook](/blog/i-tested-my-birth-chart/), about a third held, and Saturn, Chiron and Lilith were the three that stood out. So start small, and see what holds.
 
-Virgo prefers a modest claim to a grand one, and so do I. The angle my [testing notebook](/blog/i-tested-my-birth-chart/) reports is the rising sign, which held about a third of the time, and the three that stood out were Saturn, Chiron and Lilith.
+Start with one habit and keep it for a month: the same walk, the same bedtime, ten minutes of tidying. Write things down. Finish one task before you start the next. Let your timetable include rest, so the Pisces end has its hour too; your compassion and imagination are what make the routine worth having.

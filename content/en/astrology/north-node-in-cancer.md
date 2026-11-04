@@ -62,4 +62,4 @@ Start at home: a meal cooked slowly, a room arranged for comfort, an evening wit
 
 Keep the Capricorn end too. Plan, by all means; just plan the rest in.
 
-And hold this page lightly. The angle my [testing notebook](/blog/i-tested-my-birth-chart/) reports is the rising sign, which held about a third of the time, and the three that stood out were Saturn, Chiron and Lilith. What you feel as you read is the better guide.
+And hold this page lightly. My [testing notebook](/blog/i-tested-my-birth-chart/) speaks of one angle only, the rising sign, which held about a third of the time, and three placements stood out: Saturn, Chiron and Lilith. What you feel as you read is the better guide.

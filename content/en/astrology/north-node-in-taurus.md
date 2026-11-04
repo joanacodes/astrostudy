@@ -40,7 +40,7 @@ Taurus is fixed earth: it keeps, steadies and enjoys what's in front of it. The 
 
 About 1 person in 12 born from 1930 to 2009 shares it. Using the true node, it was in Taurus until July 1930, then from August 1947 to January 1949, February 1966 to August 1967, September 1984 to April 1986 and April 2003 to December 2004, and lately from January 2022 to July 2023. Travelling backwards as the nodes do, it reached Taurus from Gemini and handed over to Aries. Near those changes the mean and true nodes, a degree or two apart at most, can sit in different signs. I look at both, and when yours disagree I say so; read [North Node in Gemini](/astrology/north-node-in-gemini/) or [North Node in Aries](/astrology/north-node-in-aries/) beside this page. Everyone born in the same year and a half carries this sign; the house it occupies, which takes [your birth time](/blog/unknown-birth-time/), is where it becomes personal.
 
-On the evidence: my [notebook](/blog/i-tested-my-birth-chart/) reports one angle, the rising sign, which held about a third of the time, and the three that stood out were Saturn, Chiron and Lilith. I hold this node as a description to try for size, slowly, which suits Taurus.
+On the evidence: my [notebook](/blog/i-tested-my-birth-chart/) reports a single angle, the rising sign, and it held about a third of the time; Saturn, Chiron and Lilith were the three that stood out. I hold this node as a description to try for size, slowly, which suits Taurus.
 
 ## In close relationships {#in-close-relationships}
 

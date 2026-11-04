@@ -22,7 +22,7 @@ faq:
   - q: "Does Venus in the 2nd house mean money?"
     a: "Not as a prediction. The old books gave the 2nd house money and possessions, and Venus here is often read as pleasure and earning going together. I read it as your relationship with having and with your own worth. No chart says how much anyone will earn, and I don’t read one for that."
   - q: "Do I need my birth time for Venus in the 2nd house?"
-    a: "Yes. The houses come from the exact time and place of birth. In Placidus, which I use, an hour’s difference can lift Venus into the 1st house or leave it in the 3rd, and those read very differently. Without the time, I don’t read Venus by house."
+    a: "Yes. An hour either way can lift Venus into the 1st house or leave it in the 3rd, and in Placidus, the system I use, every cusp is worked out from the exact time and place. A guessed time gives a guessed house, so I wait for the real one."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, and what tradition gave the second" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
@@ -53,4 +53,4 @@ Worth can get tangled with having. On a bad day, buying something lovely may sta
 
 Write down what you value that money can't buy, and check your weeks against it now and then. Spend on what lasts, and on experiences you'll remember, rather than on comfort for the moment. Practise naming your fee, or your need, out loud, as plainly as you would price someone else's work. And keep at least one pleasure that costs nothing.
 
-A note on weight: in [my notebook](/blog/i-tested-my-birth-chart/), Venus held about a third of the time, and the 2nd house is where people most want certainty. I give a 2nd-house Venus its due as a picture of taste and self-worth, and I never let it stand in for advice about money.
+A note on weight: [my notebook](/blog/i-tested-my-birth-chart/) gave Venus a record of about one in three, and the 2nd house is where people most want certainty. I give a 2nd-house Venus its due as a picture of taste and self-worth, and I never let it stand in for advice about money.
