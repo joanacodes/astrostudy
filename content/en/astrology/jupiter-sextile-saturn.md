@@ -42,9 +42,9 @@ Opportunity isn't automatic success. What this aspect gives is judgement, the ha
 
 Of everyone born from 1930 through 2009, about 1 in 15 has it within 6°, in eight short windows: February to May 1937 and November 1937 to January 1938; October 1943 to October 1944; August to November 1957 and March to August 1958; June to November 1963 and March to May 1964; April to July 1977 and November 1977 to April 1978; March to August 1984 and December 1984 to February 1985; the whole of 1997; and September to December 2003 with March to October 2004. Half came a few years before a great conjunction, half a few years after.
 
-Everyone born in one of those spells shares the sextile, so it describes the months you arrived in as much as you. The house it occupies, and its links to your personal planets, are what make it personal ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). With Jupiter in the 6th and Saturn in the 4th, it might show as daily work that grows steadily because home life is well ordered; in the 11th, as groups where your ideas find a structure. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+Everyone born in one of those spells shares the sextile, so it describes the months you arrived in as much as you. The house it occupies, and its links to your personal planets, are what make it personal ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). With Jupiter in the 6th and Saturn in the 4th, it might show as daily work that grows steadily because home life is well ordered; with Jupiter in the 11th and Saturn in the 9th, as groups where your ideas find a structure. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Among the pair's other aspects:
+Elsewhere in the Jupiter–Saturn cycle:
 
 - **[Jupiter conjunct Saturn](/astrology/jupiter-conjunct-saturn/):** born around a great conjunction, in 1940–41, 1960–61, 1980–81 or 2000; growth and structure fused.
 - **[Jupiter square Saturn](/astrology/jupiter-square-saturn/):** the 1955–56, 1975–77 and 1994–96 births, among others; expansion and caution push against each other.

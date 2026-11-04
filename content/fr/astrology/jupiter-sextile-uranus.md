@@ -45,7 +45,7 @@ Une occasion demande qu’on s’engage. Laissé de côté, cet aspect peut deve
 
 Les naissances de chaque période le partagent : il se lit donc d’abord comme l’ouverture d’une cohorte au nouveau ; sa place parmi vos maisons, et ce qu’il touche parmi vos planètes personnelles, le rendent propre à vous ([placements générationnels par année de naissance](/astrology/generational-placements-by-birth-year/)). Avec Jupiter en maison 9 et Uranus en maison 11, par exemple, les études ou les voyages pourraient s’ouvrir par des amis et des réseaux ; avec Jupiter en maison 5 et Uranus en maison 7, la croissance créative pourrait passer par un partenariat peu conventionnel. Les maisons demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Les autres aspects de la paire :
+Le reste de la famille Jupiter–Uranus :
 
 - **[Jupiter conjonction Uranus](/astrology/jupiter-conjunct-uranus/) :** la rencontre elle-même, environ tous les quatorze ans, comme en 1954–55 ou en 1982–83.
 - **[Jupiter carré Uranus](/astrology/jupiter-square-uranus/) :** la version en friction, pour les naissances de 1951–52 ou de 1986–87, entre autres.

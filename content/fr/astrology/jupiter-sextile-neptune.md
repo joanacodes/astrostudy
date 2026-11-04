@@ -45,7 +45,7 @@ Treize courtes périodes entre 1930 et 2009 le portent à 6° près, soit enviro
 
 Toutes les naissances de ces périodes partagent le sextile ; vos maisons le rendent particulier ([planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)). Avec Neptune en maison 5 et Jupiter en maison 3, par exemple, les mots du quotidien pourraient ouvrir la voie à un travail créatif ; avec Neptune en maison 12 et Jupiter en maison 10, un rôle public peut puiser discrètement dans une vie intérieure. Les maisons demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Les autres aspects de la paire :
+À côté du sextile :
 
 - **[Jupiter conjonction Neptune](/astrology/jupiter-conjunct-neptune/) :** la rencontre elle-même, environ tous les treize ans, comme en 1957–58 ou en 1983–84.
 - **[Jupiter carré Neptune](/astrology/jupiter-square-neptune/) :** idéaux et principes en friction, pour les naissances de 1961–62 ou de 1980, entre autres.
@@ -56,6 +56,6 @@ Les autres aspects de la paire :
 
 ## En transit {#en-transit}
 
-[Neptune en transit sextile Jupiter du thème natal](/astrology/transiting-neptune-sextile-natal-jupiter/) compte parmi les transits les plus lents : à raison d’environ quatorze ans par signe, Neptune s’attarde près du sextile en plusieurs passages, une saison douce où l’imaginaire nourrit ce que vous croyez. [Jupiter en transit sextile Neptune du thème natal](/astrology/transiting-jupiter-sextile-natal-neptune/), en comparaison, revient souvent et passe vite, en quelques jours ou quelques semaines.
+[Neptune en transit sextile Jupiter du thème natal](/astrology/transiting-neptune-sextile-natal-jupiter/) compte parmi les transits les plus lents : à raison d’environ quatorze ans par signe, Neptune s’attarde près du sextile en plusieurs passages, une saison douce où l’imaginaire nourrit ce que vous croyez. [Jupiter en transit sextile Neptune du thème natal](/astrology/transiting-jupiter-sextile-natal-neptune/), en comparaison, revient souvent et ne s’attarde que quelques jours ou quelques semaines.
 
 Une météo, pas une prédiction : une invitation à donner à un rêve quelque chose d’utile à faire, que vous restez libre d’accepter ou de décliner.

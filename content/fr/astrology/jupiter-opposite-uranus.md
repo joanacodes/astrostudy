@@ -45,7 +45,7 @@ Environ 1 personne sur 30, parmi les naissances de 1930 à 2009, la porte à 6°
 
 Les maisons la ramènent à vous. Avec Jupiter en maison 6 et Uranus en maison 12, les routines quotidiennes peuvent porter votre besoin de sens tandis que votre besoin de liberté travaille hors de vue ; avec Jupiter en maison 8 et Uranus en maison 2, des engagements partagés auxquels vous croyez peuvent faire face à une façon très personnelle de gagner et de posséder. Les maisons demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Les autres aspects de la paire :
+Sur le même cycle de quatorze ans :
 
 - **[Jupiter conjonction Uranus](/astrology/jupiter-conjunct-uranus/) :** le point de rencontre, à peu près sept ans avant et après celui-ci.
 - **[Jupiter sextile Uranus](/astrology/jupiter-sextile-uranus/) :** une ouverture, pour les naissances de 1971–72 ou de 1994, entre autres.
@@ -56,6 +56,6 @@ Les autres aspects de la paire :
 
 ## En transit {#en-transit}
 
-Pour cette cohorte, les transits suivent un schéma. [Jupiter en transit opposition Uranus du thème natal](/astrology/transiting-jupiter-opposite-natal-uranus/) revient avec chaque [retour de Jupiter](/astrology/jupiter-return/), tous les 12 ans environ, pour quelques jours ou quelques semaines. [Uranus en transit opposition Jupiter du thème natal](/astrology/transiting-uranus-opposite-natal-jupiter/) tombe soit dans la première ou la deuxième année de la vie, soit pas avant 84 ans environ, parce que le point visé se trouve tout près de votre Uranus natal. Le moment qui compte davantage vient entre les deux : à l’[opposition d’Uranus](/astrology/uranus-opposition/), vers 42 ans, Uranus en transit passe sur votre Jupiter.
+Pour cette cohorte, les transits suivent un schéma. [Jupiter en transit opposition Uranus du thème natal](/astrology/transiting-jupiter-opposite-natal-uranus/) revient avec chaque [retour de Jupiter](/astrology/jupiter-return/), tous les 12 ans environ, pour quelques jours ou quelques semaines. [Uranus en transit opposition Jupiter du thème natal](/astrology/transiting-uranus-opposite-natal-jupiter/) tombe soit dans la première ou la deuxième année de la vie, soit pas avant 84 ans environ, parce que le point visé se trouve tout près de la position natale d’Uranus. Le moment qui compte davantage vient entre les deux : à l’[opposition d’Uranus](/astrology/uranus-opposition/), vers 42 ans, Uranus en transit passe sur votre Jupiter.
 
 Une météo, pas une prédiction : une longue saison pour réexaminer ce que vous croyez et ce dont vous voulez vous libérer, sans rien de décidé d’avance.

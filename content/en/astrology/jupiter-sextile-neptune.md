@@ -44,7 +44,7 @@ Thirteen short spells between 1930 and 2009 carry it within 6°, about 1 birth i
 
 The sextile belongs to everyone born in those spells; your houses make it particular ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). With Jupiter in the 3rd and Neptune in the 5th, for instance, everyday words might become a way into creative work; with Jupiter in the 10th and Neptune in the 12th, a public role may draw quietly on an inner life. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-The pair's other aspects:
+Next to the sextile:
 
 - **[Jupiter conjunct Neptune](/astrology/jupiter-conjunct-neptune/):** the meeting itself, about every thirteen years, as in 1957–58 or 1983–84.
 - **[Jupiter square Neptune](/astrology/jupiter-square-neptune/):** ideals and principles in friction, for the births of 1961–62 or 1980, among others.

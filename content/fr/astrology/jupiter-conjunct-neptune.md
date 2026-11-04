@@ -46,7 +46,7 @@ Les deux planètes gouvernent les Poissons, Jupiter dans la tradition et Neptune
 
 Une naissance dans l’une de ces périodes vous la fait partager avec toutes les personnes arrivées cette saison-là : elle décrit d’abord une cohorte, comme les motifs des planètes lentes ([planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)). Vos maisons la rendent personnelle. En maison 9, la conjonction pourrait signifier une quête de sens par les études, le voyage ou la foi ; en maison 12, un sens intime et discret du sacré ; en maison 6, une compassion mise au service du quotidien. Les maisons demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Les autres aspects de la paire :
+Jupiter et Neptune sous leurs autres angles :
 
 - **[Jupiter sextile Neptune](/astrology/jupiter-sextile-neptune/) :** une ouverture pour que l’inspiration devienne utile, pour les naissances de 1955–56 ou de 1968–69, entre autres.
 - **[Jupiter carré Neptune](/astrology/jupiter-square-neptune/) :** idéaux et principes qui frottent, pour les naissances de 1954–55 ou de 1999–2000, par exemple.
@@ -57,6 +57,6 @@ Les autres aspects de la paire :
 
 ## En transit {#en-transit}
 
-[Jupiter en transit conjonction Neptune du thème natal](/astrology/transiting-jupiter-conjunct-natal-neptune/) revient avec chaque [retour de Jupiter](/astrology/jupiter-return/), environ tous les 12 ans, puisque votre Neptune et votre Jupiter se touchent presque, pendant quelques jours ou quelques semaines. [Neptune en transit conjonction Jupiter du thème natal](/astrology/transiting-neptune-conjunct-natal-jupiter/) est rare : Neptune avance si lentement, environ 165 ans pour un tour, que ce transit ne survient que dans la petite enfance, quand Jupiter avait un peu d’avance à la naissance, et sinon jamais. Ce que cette cohorte rencontre, c’est le [carré de Neptune](/astrology/neptune-square/), vers 41 ans, quand Neptune en transit forme un carré avec les deux planètes à la fois.
+[Jupiter en transit conjonction Neptune du thème natal](/astrology/transiting-jupiter-conjunct-natal-neptune/) revient avec chaque [retour de Jupiter](/astrology/jupiter-return/), environ tous les 12 ans, pendant quelques jours ou quelques semaines, puisque votre Neptune et votre Jupiter se touchent presque. [Neptune en transit conjonction Jupiter du thème natal](/astrology/transiting-neptune-conjunct-natal-jupiter/) est rare : Neptune avance si lentement, environ 165 ans pour un tour, que ce transit ne survient que dans la petite enfance, quand Jupiter avait un peu d’avance à la naissance, et sinon jamais. Ce que cette cohorte rencontre, c’est le [carré de Neptune](/astrology/neptune-square/), vers 41 ans, quand Neptune en transit forme un carré avec les deux planètes à la fois.
 
 Une météo, pas une prédiction : des saisons où les idéaux et l’imaginaire demandent de la place, et où vérifier ce qui est réel fait partie du travail.

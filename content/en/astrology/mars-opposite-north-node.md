@@ -44,7 +44,7 @@ The signs show what the practised drive is, and what it's asked to learn. With t
 
 About 1 person in 29 is born with Mars within 6° of the South Node, which is the same as opposing the North Node, using the true node. I also check the mean node, since it can move the result by a degree or two. Tight, the familiar drive is the first thing people meet in you; wide, it's one strength among several.
 
-The pair's other aspects:
+From the South Node, the other aspects of the pair look like this:
 
 - **[Mars conjunct North Node](/astrology/mars-conjunct-north-node/):** Mars on the North Node instead; action is the new skill, not the old one.
 - **[Mars sextile North Node](/astrology/mars-sextile-north-node/):** an opening towards growth, with Mars trine the familiar end.

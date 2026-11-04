@@ -20,7 +20,7 @@ faq:
   - q: "What does Jupiter square Saturn mean in a birth chart?"
     a: "Jupiter and Saturn are about 90° apart in your chart. One part of you wants to say yes to whatever is worth doing; another wants proof and a plan first. The two keep pressing on each other, and over time that friction tends to produce growth that is ambitious and also built to hold."
   - q: "Who was born with Jupiter square Saturn?"
-    a: "Counting within 6°, people born in spells of a few months within 1935–36, 1945–47, 1955–56, 1964–66, 1975–77, 1985–87, 1994–96 and 2005–06. The square comes about every ten years, each time for a few months, so many people of the same school year share it."
+    a: "Counting within 6°, people born in spells of a few months within 1935–36, 1945–47, 1955–56, 1964–66, 1975–77, 1985–87, 1994–96 and 2005–06. The square comes about every ten years and lasts a few months, so many people of the same school year share it."
   - q: "Is Jupiter square Saturn a bad aspect?"
     a: "Not as I read it. Squares describe friction, and friction isn’t failure: here, growth and caution rarely agree on the timing, which can feel like stop and start. It also means you learn to test your hopes and to stretch your limits, and plans that survive both tests tend to last."
 sources:
@@ -46,7 +46,7 @@ Because whole spells of births share it, I read the square through its houses, w
 
 The two planets don't carry the same weight in my notebook. Saturn stood there with Chiron and Lilith as the placements that kept proving right, 75 to 90% of the time, against about a third overall; Jupiter, checked like every placement, wasn't one of them ([the three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)). So in this square, Saturn's half is the one I trust most.
 
-The pair's other aspects:
+Around the square, the rest of the cycle:
 
 - **[Jupiter conjunct Saturn](/astrology/jupiter-conjunct-saturn/):** the great conjunction of 1940–41, 1961, 1980–81 and 2000; growth and structure as one.
 - **[Jupiter sextile Saturn](/astrology/jupiter-sextile-saturn/):** births of 1957–58 or 1977–78, among others; an opening the two can share.

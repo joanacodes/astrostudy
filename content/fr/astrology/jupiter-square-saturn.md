@@ -47,7 +47,7 @@ Comme des périodes entières de naissances le partagent, je lis ce carré à tr
 
 Les deux planètes n’ont pas le même poids dans mon carnet. Saturne s’y tenait avec Chiron et Lilith parmi les placements qui tenaient le plus souvent, de 75 à 90 % des cas, quand l’ensemble tournait autour d’un tiers ; j’ai passé Jupiter au crible comme tous les autres, et Jupiter n’a pas rejoint ces trois-là ([les trois qui ont tenu : Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/)). Dans ce carré, c’est donc au côté de Saturne que je me fie le plus.
 
-Les autres aspects de la paire :
+Autour du carré, le reste du cycle :
 
 - **[Jupiter conjonction Saturne](/astrology/jupiter-conjunct-saturn/) :** la grande conjonction de 1940–41, 1961, 1980–81 et 2000 ; croissance et structure ne font qu’un.
 - **[Jupiter sextile Saturne](/astrology/jupiter-sextile-saturn/) :** les naissances de 1957–58 ou de 1977–78, entre autres ; une ouverture que les deux peuvent partager.

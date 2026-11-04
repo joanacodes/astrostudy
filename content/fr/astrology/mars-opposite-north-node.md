@@ -45,7 +45,7 @@ Les signes disent quel est l’élan rodé, et ce qu’il doit apprendre. Avec l
 
 On trouve Mars à 6° ou moins du Nœud Sud chez environ 1 personne sur 29, ce qui revient à une opposition au Nœud Nord, d’après le nœud vrai. Je regarde aussi le nœud moyen, qui peut déplacer le résultat d’un ou deux degrés. Serrée, l’opposition fait de cet élan familier la première chose qu’on rencontre chez vous ; large, c’est une force parmi d’autres.
 
-Les autres aspects de la paire :
+Vus du Nœud Sud, les autres aspects de la paire :
 
 - **[Mars conjonction Nœud Nord](/astrology/mars-conjunct-north-node/) :** Mars sur le Nœud Nord cette fois ; l’action est la nouvelle compétence, pas l’ancienne.
 - **[Mars sextile Nœud Nord](/astrology/mars-sextile-north-node/) :** une ouverture vers la croissance, avec Mars en trigone au bout familier.

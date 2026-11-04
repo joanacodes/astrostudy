@@ -44,7 +44,7 @@ Within 6°, it concerns about 1 person in 17 born from 1930 to 2009, in short sp
 
 Each spell's births share it, so it reads first as a cohort's openness to the new; where it sits among your houses, and what it touches among your personal planets, make it particular to you ([generational placements by birth year](/astrology/generational-placements-by-birth-year/)). With Jupiter in the 9th and Uranus in the 11th, for instance, study or travel might open up through friends and networks; with Jupiter in the 5th and Uranus in the 7th, creative growth might come through an unconventional partnership. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-The pair's other aspects:
+The rest of the Jupiter–Uranus family:
 
 - **[Jupiter conjunct Uranus](/astrology/jupiter-conjunct-uranus/):** the meeting itself, about every fourteen years, as in 1954–55 or 1982–83.
 - **[Jupiter square Uranus](/astrology/jupiter-square-uranus/):** the friction version, for those born in 1951–52 or 1986–87, among others.

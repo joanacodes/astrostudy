@@ -44,7 +44,7 @@ It is carried, within 6°, by about 1 person in 30 of those born from 1930 to 20
 
 The houses bring it home. With Jupiter in the 6th and Uranus in the 12th, daily routines may carry your sense of meaning while your need for freedom works out of sight; with Jupiter in the 8th and Uranus in the 2nd, shared commitments you believe in may sit across from a very personal way of earning and owning. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-The pair's other aspects:
+Across the same fourteen-year cycle:
 
 - **[Jupiter conjunct Uranus](/astrology/jupiter-conjunct-uranus/):** the meeting point, roughly seven years before and after this one.
 - **[Jupiter sextile Uranus](/astrology/jupiter-sextile-uranus/):** an opening, for those born in 1971–72 or 1994, among others.

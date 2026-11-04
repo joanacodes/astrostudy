@@ -45,7 +45,7 @@ Roughly one birth in 27 between 1930 and 2009 carries it within 6°, spread over
 
 Born in one of those windows, you share it with everyone who arrived that season, so it describes a cohort first, as the slower planets' patterns do ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). Your houses make it personal. A 9th-house conjunction could mean a search for meaning through study, travel or faith; a 12th-house one, a private, inner sense of the sacred; a 6th-house one, compassion put into daily work. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-The pair's other aspects:
+Jupiter and Neptune at their other angles:
 
 - **[Jupiter sextile Neptune](/astrology/jupiter-sextile-neptune/):** an opening for inspiration to become useful, for those born in 1955–56 or 1968–69, among others.
 - **[Jupiter square Neptune](/astrology/jupiter-square-neptune/):** ideals and principles rubbing, for the births of 1954–55 or 1999–2000, for example.
@@ -56,6 +56,6 @@ The pair's other aspects:
 
 ## In transits {#in-transits}
 
-[Transiting Jupiter conjunct natal Neptune](/astrology/transiting-jupiter-conjunct-natal-neptune/) comes round with each [Jupiter return](/astrology/jupiter-return/), about every 12 years, since your Neptune sits beside your Jupiter, for a few days or weeks. [Transiting Neptune conjunct natal Jupiter](/astrology/transiting-neptune-conjunct-natal-jupiter/) is rare: Neptune is so slow, about 165 years round, that it catches up with your Jupiter only in early childhood, when Jupiter was slightly ahead at birth, and otherwise never. What this cohort does meet is the [Neptune square](/astrology/neptune-square/), around 41, when transiting Neptune squares both planets at once.
+[Transiting Jupiter conjunct natal Neptune](/astrology/transiting-jupiter-conjunct-natal-neptune/) comes round with each [Jupiter return](/astrology/jupiter-return/), about every 12 years, for a few days or weeks, since your Neptune sits beside your Jupiter. [Transiting Neptune conjunct natal Jupiter](/astrology/transiting-neptune-conjunct-natal-jupiter/) is rare: Neptune is so slow, about 165 years round, that it catches up with your Jupiter only in early childhood, when Jupiter was slightly ahead at birth, and otherwise never. What this cohort does meet is the [Neptune square](/astrology/neptune-square/), around 41, when transiting Neptune squares both planets at once.
 
 Weather, not a forecast: seasons in which ideals and imagination ask for room, and checking what is real stays part of the work.
