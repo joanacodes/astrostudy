@@ -31,13 +31,13 @@ Mercury in Cancer keeps the tone of a conversation long after the words have gon
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Mercury](/astrology/mercury/) is how you take in information and make meaning from it. [Cancer](/astrology/cancer/) is cardinal water, ruled by the Moon: a sign that starts things through feeling and protects what it starts. Here Mercury thinks in context: who said this, what it meant to them, what it will mean to the people you look after. Facts matter, but they arrive with a history attached. You learn best where you feel safe enough to ask the question that shows you don't know yet.
+Placed in [Cancer](/astrology/cancer/), cardinal water ruled by the Moon, [Mercury](/astrology/mercury/) makes meaning the way this sign starts everything: through feeling, and with the people it protects in mind. Here Mercury thinks in context: who said this, what it meant to them, what it will mean to the people you look after. Facts matter, but they arrive with a history attached. You learn best where you feel safe enough to ask the question that shows you don't know yet.
 
-Nothing in the classical scheme strengthens or weakens Mercury in Cancer. The Moon, as ruler of the sign, is where I look next. The sign and house of your [Moon](/astrology/moon/) show what your feelings are doing while this mind works, and whether the two tend to pull together.
+The classical scheme exalts Jupiter in Cancer and has Mars fall there, but it leaves Mercury alone, neither strengthened nor weakened. The Moon, as ruler of the sign, is where I look next. The sign and house of your [Moon](/astrology/moon/) show what your feelings are doing while this mind works, and whether the two tend to pull together.
 
 Sixteen days or so is the usual length of a visit. In a year when Mercury turns retrograde in Cancer, the stay can stretch to 70, with the planet doubling back over ground it has already crossed, the kind of revisiting this sign is good at. Being born in those backward weeks is common, and I've written about what a retrograde planet tends to mean in a birth chart in [natal retrograde planets](/blog/retrograde-planets/). Count the births from 1930 to 2009 and about 1 person in 13 has this Mercury.
 
-Across the year, Mercury moves from [Mercury in Gemini](/astrology/mercury-in-gemini/), where it gathers, to Cancer, where it keeps, and on to [Mercury in Leo](/astrology/mercury-in-leo/), where it tells. Your Sun is in one of those three signs. With a Gemini Sun, a curious, sociable self gets a mind that listens for feelings; with a Leo Sun, a warm and outgoing self gets a mind that thinks in private first.
+Across the year, Mercury moves from [Mercury in Gemini](/astrology/mercury-in-gemini/), where it gathers, to Cancer, where it keeps, and on to [Mercury in Leo](/astrology/mercury-in-leo/), where it tells. Your Sun sits somewhere along that same stretch of the year. With a Gemini Sun, a curious, sociable self gets a mind that listens for feelings; with a Leo Sun, a warm and outgoing self gets a mind that thinks in private first.
 
 ## In close relationships {#in-close-relationships}
 

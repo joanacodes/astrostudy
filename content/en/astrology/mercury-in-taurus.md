@@ -32,9 +32,9 @@ Mercury in Taurus doesn't take a new idea on trust. It turns it over, weighs it 
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Mercury](/astrology/mercury/) is how you notice, sort and pass on what you learn. [Taurus](/astrology/taurus/), fixed earth ruled by Venus, slows whatever sits in it to the pace of something growing: steady, sensory, hard to rush. Here Mercury thinks with its hands and its senses. You learn by doing a thing and remember it because you did it; an explanation lands when it comes with an example you could touch. Your words tend to be few and solid, and people often find them easy to lean on.
+[Mercury](/astrology/mercury/) notices, sorts and passes on what you learn; in [Taurus](/astrology/taurus/), fixed earth ruled by Venus, it does all three at the pace of something growing: steady, sensory, hard to rush. Here Mercury thinks with its hands and its senses. You learn by doing a thing and remember it because you did it; an explanation lands when it comes with an example you could touch. Your words tend to be few and solid, and people often find them easy to lean on.
 
-No dignity attaches to Mercury in Taurus, for good or ill. What the sign changes is the tempo of the mind, not its quality: a mind that takes its time is not a mind that's behind.
+Taurus is where tradition exalts the Moon; Mercury gets no dignity here, for good or ill. What the sign changes is the tempo of the mind, not its quality: a mind that takes its time is not a mind that's behind.
 
 The calendar gives this patient placement a short window: Mercury's stay in Taurus is usually about 16 days, stretching to as many as 69 in a year when it turns retrograde in the sign, which gives a sign that likes to chew things over several extra weeks to do it. That works out at about 1 person in 13 among those born between 1930 and 2009.
 

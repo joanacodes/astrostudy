@@ -38,9 +38,9 @@ Tradition calls Scorpio the Moon's fall, and the old word sounds harsher than wh
 
 Ptolemy gives Scorpio as the Moon's fall, the sign opposite its exaltation in Taurus. Where Taurus lets the Moon rest on what's solid and visible, I read Scorpio as asking it to feel what's hidden before it can relax: a harder condition, not a lesser heart. A [fall](/astrology/fall/), to me, describes how much effort comfort takes here. It says nothing about how deeply you can love, and a Scorpio Moon often loves more deeply than most.
 
-Scorpio has two rulers, and I read both. [Pluto](/astrology/pluto/), the modern one, shows where this Moon goes deep and how it renews itself after a loss. [Mars](/astrology/mars/), the traditional one, shows how it protects what it loves and where it draws its boundaries. When the two tell different stories, the reading lives in the space between them.
+With two rulers to consult, I read both. [Pluto](/astrology/pluto/), given to Scorpio by modern astrologers, marks where this Moon goes deepest and how it renews itself after a loss. [Mars](/astrology/mars/), its ruler in the older books, marks where it stands guard and draws its lines. When the two tell different stories, the reading lives in the space between them.
 
-Scorpio keeps the Moon two and a half days or so each time round, which puts about 1 person in 12 under this Moon. Before it comes the [Moon in Libra](/astrology/moon-in-libra/), which settles through harmony; after it, the [Moon in Sagittarius](/astrology/moon-in-sagittarius/), which settles through space. If your birth date falls on one of those crossings, only the time of birth can place the Moon ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)).
+Scorpio keeps the Moon roughly two and a half days each time round, which puts about 1 person in 12 under this Moon. Before it comes the [Moon in Libra](/astrology/moon-in-libra/), which settles through harmony; after it, the [Moon in Sagittarius](/astrology/moon-in-sagittarius/), which settles through space. If your birth date falls on one of those crossings, only the time of birth can place the Moon ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)).
 
 ## In close relationships {#in-close-relationships}
 
@@ -48,7 +48,7 @@ You love with everything, and you need to know it's safe to. Trust is slow: you 
 
 ## At work {#at-work}
 
-Depth suits you. Research, investigation, crisis work, therapy, anything that asks you to stay with what's difficult and keep a confidence can draw on this Moon's steadiness under pressure. You tend to notice what's really going on in an organisation long before it's announced. Shallow office politics bore you, and you may keep your own feelings well out of sight at work, which protects you but can leave colleagues unsure where they stand.
+Depth suits you. Investigation, research, crisis work, therapy: anything that asks you to stay with what's difficult and keep a confidence can draw on this Moon's steadiness under pressure. You tend to notice what's really going on in an organisation long before it's announced. Shallow office politics bore you, and you may keep your own feelings well out of sight at work, which protects you but can leave colleagues unsure where they stand.
 
 ## The hard part {#the-hard-part}
 

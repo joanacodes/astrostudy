@@ -31,7 +31,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "le temps que la Lune passe dans un signe, et la part des personnes nées entre 1930 et 2009 qui l’ont en Taureau" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-Le Taureau est le signe où la tradition dit la Lune exaltée. J’y lis une émotion qui va au pas : elle arrive lentement, se pose par le corps et par l’habitude, et reste longtemps une fois arrivée.
+C’est en Taureau, dit la tradition, que la Lune est exaltée. J’y lis une émotion qui va au pas : elle arrive lentement, se pose par le corps et par l’habitude, et reste longtemps une fois arrivée.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
@@ -45,7 +45,7 @@ La Lune ne passe que deux jours et demi environ en Taureau à chaque tour du zod
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-Vous aimez par la présence. Un repas préparé, une main dans le dos, la même place gardée chaque soir : votre soin est physique et fiable, et vous remarquez quand on ne vous le rend pas de la même façon. La confiance se construit lentement, puis elle tient. Une fois quelqu’un entré, vous ne lâchez pas facilement, même après une année difficile. Souvent, c’est vous qui gardez votre calme quand l’autre traverse une tempête, un vrai cadeau, à condition que vos propres émotions aient leur tour. Un changement dans le couple a besoin de temps pour devenir familier : annoncé brusquement, il peut rencontrer un mur qui n’est en réalité qu’une pause.
+Vous aimez par la présence. Un repas préparé, un bras autour des épaules, le fauteuil préféré de l’autre gardé libre chaque soir : votre soin est physique et fiable, et vous remarquez quand on ne vous le rend pas de la même façon. La confiance se construit lentement, puis elle tient. Une fois quelqu’un entré, vous ne lâchez pas facilement, même après une année difficile. Souvent, c’est vous qui gardez votre calme quand l’autre traverse une tempête, un vrai cadeau, à condition que vos propres émotions aient leur tour. Un changement dans le couple a besoin de temps pour devenir familier : annoncé brusquement, il peut rencontrer un mur qui n’est en réalité qu’une pause.
 
 ## Au travail {#au-travail}
 
@@ -57,6 +57,6 @@ Le réconfort peut devenir un couvercle. Quand quelque chose fait mal, les plais
 
 ## Ce qui aide {#ce-qui-aide}
 
-Laissez le changement arriver par petites portions : visitez le nouveau lieu avant d’y emménager, essayez la nouvelle routine un jour par semaine. Gardez vos réconforts, et laissez-les porter une émotion au lieu de la recouvrir : une promenade où vous dites ce qui ne va pas, un repas pendant lequel vous dites la vérité à quelqu’un. Dites tôt ce qui vous gêne, tant que c’est encore assez petit pour bouger. Et gardez un plaisir rien que pour vous, car cette Lune partage son confort avant d’en prendre.
+Accueillez le changement à petites doses : visitez le nouveau lieu avant d’y emménager, essayez la nouvelle routine un jour par semaine. Gardez vos réconforts, et laissez-les porter une émotion au lieu de la recouvrir : une promenade où vous dites ce qui ne va pas, un repas pendant lequel vous dites la vérité à quelqu’un. Dites tôt ce qui vous gêne, tant que c’est encore assez petit pour bouger. Et gardez un plaisir rien que pour vous, car cette Lune partage son confort avant d’en prendre.
 
 L’exaltation n’a pas valu à la Lune un meilleur score dans [mon carnet](/blog/i-tested-my-birth-chart/). Elle a été cochée ou barrée comme le reste ; les trois qui ont récolté bien plus de coches que les autres sont Saturne, Chiron et Lilith, et à peu près un placement sur trois a tenu dans l’ensemble. Je prends donc une Lune en Taureau comme un bon terrain solide, et je bâtis la lecture avec le reste du thème.

@@ -32,13 +32,13 @@ Virgo is where Mercury is most exact. Here the mind notices what's missing as ea
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Mercury](/astrology/mercury/) is how you take in information, sort it and pass it on. [Virgo](/astrology/virgo/), mutable earth, is the second sign Mercury rules, after Gemini, and the one where tradition also places its [exaltation](/astrology/exaltation/). No other traditional planet is at home and exalted in the same sign. In Gemini, Mercury gathers; in Virgo, it sorts, checks and refines. The mind works like a good editor: it finds the gap in the argument, the small thing that will matter later, the simpler way to do what everyone has been doing the hard way.
+[Virgo](/astrology/virgo/), mutable earth, is the second sign [Mercury](/astrology/mercury/) rules, after Gemini, and the one where tradition also places its [exaltation](/astrology/exaltation/). No other traditional planet is at home and exalted in the same sign. In Gemini, Mercury gathers; in Virgo, it sorts, checks and refines. The mind works like a good editor: it finds the gap in the argument, the small thing that will matter later, the simpler way to do what everyone has been doing the hard way.
 
 I don't read the double dignity as a cleverer mind. I read it as Mercury in its most exact condition: thinking that is grounded, useful and patient with detail, at its best when it has something real to work on. With Mercury in the 6th house too, the house whose natural sign is Virgo, that habit of improving things runs through your working days ([Mercury in the 6th house](/astrology/mercury-in-6th-house/)).
 
 A typical visit lasts about 18 days. When Mercury turns retrograde in Virgo it can stay for up to 69, going back over its own work like a second proofread. About 1 person in 12 born in the eighty years from 1930 has it.
 
-Neither neighbour gives Mercury any special standing: [Mercury in Leo](/astrology/mercury-in-leo/) and [Mercury in Libra](/astrology/mercury-in-libra/) are read for their manner alone, which is part of why Virgo stands out. And since your Sun is never far from Mercury, it's in one of those three signs. If it's in Leo, this Mercury is the careful voice behind a generous heart; if it's in Libra, the precise mind behind a gracious manner; if it's in Virgo as well, purpose and thinking share one standard.
+Neither neighbour gives Mercury any special standing: [Mercury in Leo](/astrology/mercury-in-leo/) and [Mercury in Libra](/astrology/mercury-in-libra/) are read for their manner alone, which is part of why Virgo stands out. Your Sun, never far from Mercury, is in Virgo or in one of those two neighbours. If it's in Leo, this Mercury is the careful voice behind a generous heart; if it's in Libra, the precise mind behind a gracious manner; if it's in Virgo as well, the same high standard governs what you aim for and how you think.
 
 ## In close relationships {#in-close-relationships}
 
@@ -54,4 +54,4 @@ The finish line moves. There's always one more thing that could be better, so ca
 
 ## What helps {#what-helps}
 
-Set the finish line before you start, and keep to it. Use the eye for detail on purpose, on the work that needs it, and switch it off for a friend's holiday photos. Say what works before what doesn't. Every so often, step back and ask what the whole thing is for. Tradition gives Mercury its strongest place here; in [my notebook](/blog/i-tested-my-birth-chart/), Mercury held about a third of the time. So I treat even this doubly dignified Mercury as a hypothesis to be tested, item by item, which is exactly how Virgo would want it tested.
+Set the finish line before you start, and keep to it. Use the eye for detail on purpose, on the work that needs it, and switch it off for a friend's holiday photos. Say what works before what doesn't. Every so often, step back and ask what the whole thing is for. Tradition gives Mercury its strongest place here; the ticks in [my notebook](/blog/i-tested-my-birth-chart/) were more modest, about one in three for Mercury. So I treat even this doubly dignified Mercury as a hypothesis to be tested, item by item, which is exactly how Virgo would want it tested.

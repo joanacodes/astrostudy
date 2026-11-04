@@ -31,11 +31,11 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "le temps que la Lune passe dans un signe, et la part des personnes nées entre 1930 et 2009 qui l’ont en Cancer" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-Le Cancer est le signe de la Lune, et elle y travaille sans traduction. Les émotions y sont profondes et retiennent beaucoup, et la première question reste toujours la même : est-ce un endroit sûr, pour moi et pour les personnes dont je prends soin ?
+La Lune gouverne le Cancer, et elle y travaille sans traduction. Les émotions y sont profondes et retiennent beaucoup, et la première question reste toujours la même : est-ce un endroit sûr, pour moi et pour les personnes dont je prends soin ?
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Signe d’eau cardinal gouverné par la [Lune](/astrology/moon/) elle-même, le [Cancer](/astrology/cancer/) est ce que la tradition appelle son domicile : le signe où elle est le plus elle-même. Tout ce que la Lune fait dans un thème y est amplifié plutôt que changé : accueillir ce qui arrive, s’attacher, garder la mémoire, retrouver la sécurité. Vous sentez souvent l’humeur d’une pièce avant que quiconque ait parlé, et vos émotions vont et viennent par marées plutôt que par éclairs.
+Le [Cancer](/astrology/cancer/), eau et mode cardinal, appartient à la [Lune](/astrology/moon/) et à elle seule : c’est ce que la tradition appelle son domicile, le signe où elle est le plus elle-même. Tout ce que la Lune fait dans un thème y est amplifié plutôt que changé : accueillir ce qui arrive, s’attacher, garder la mémoire, retrouver la sécurité. Vous sentez souvent l’humeur d’une pièce avant que quiconque ait parlé, et vos émotions vont et viennent par marées plutôt que par éclairs.
 
 Le domicile décrit une aisance, pas un rang. Le signe demande à la Lune exactement ce qu’elle veut déjà donner : il y a peu de frottement entre vos besoins et votre façon d’y répondre. Un signe cardinal lance les choses, même si l’on peint souvent le Cancer en timide : une Lune en Cancer prend l’initiative de protéger. Elle fait le premier pas pour créer un foyer, nourrir quelqu’un, faire bloc autour des personnes qu’elle aime.
 
@@ -45,7 +45,7 @@ Comme la Lune gouverne ce signe, il n’y a pas d’autre planète à qui passer
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-Vous faites un foyer avec des personnes. Vous vous rappelez comment quelqu’un prend son thé, ce qui lui faisait peur dans l’enfance, quelle date lui pèse chaque année, et tout cela vous sert à en prendre soin. La proximité, pour vous, est un abri : un endroit où revenir, où personne n’a à jouer un rôle. Ce dont vous avez besoin en retour est souvent plus difficile à dire que ce que vous donnez. Vous espérez peut-être que l’autre remarquera votre fatigue sans qu’on le lui dise, et vous avez de la peine quand ce n’est pas le cas. Dire *ce soir, j’ai besoin qu’on prenne soin de moi* n’est pas une faiblesse pour une Lune en Cancer. C’est l’autre moitié du soin que vous donnez déjà.
+Vous faites un foyer avec des personnes. Vous vous rappelez comment quelqu’un prend son thé, ce qui lui faisait peur dans l’enfance, quelle date lui pèse chaque année, et tout cela vous sert à en prendre soin. La proximité, pour vous, est un abri : un endroit où revenir, où personne n’a à jouer un rôle. Ce dont vous avez besoin en retour est souvent plus difficile à dire que ce que vous donnez. Vous espérez peut-être que l’autre devinera votre fatigue sans un mot, et vous avez de la peine quand ce n’est pas le cas. Dire *ce soir, j’ai besoin qu’on prenne soin de moi* n’est pas une faiblesse pour une Lune en Cancer. C’est l’autre moitié du soin que vous donnez déjà.
 
 ## Au travail {#au-travail}
 
@@ -53,7 +53,7 @@ Vous travaillez le mieux là où les gens forment une équipe plutôt qu’une l
 
 ## Le plus difficile {#le-plus-difficile}
 
-Une longue mémoire marche dans les deux sens. Ce qui garde chaque gentillesse peut garder chaque blessure, et un vieil affront peut revenir des années plus tard avec sa piqûre d’origine. Quand vous ne vous sentez pas en sécurité, vous fermez peut-être la porte au lieu de dire ce qui ne va pas, en espérant qu’on vienne frapper. Et comme prendre soin des autres vous vient si naturellement, vos propres besoins finissent en bas d’une liste que vous écrivez toujours pour tout le monde.
+Une longue mémoire marche dans les deux sens. Ce qui garde chaque gentillesse peut garder chaque blessure, et un vieil affront peut revenir des années plus tard avec sa piqûre d’origine. Quand l’insécurité gagne, vous fermez peut-être la porte au lieu de dire ce qui ne va pas, en espérant qu’on vienne frapper. Et comme prendre soin des autres vous vient si naturellement, vos propres besoins finissent en bas d’une liste que vous écrivez toujours pour tout le monde.
 
 ## Ce qui aide {#ce-qui-aide}
 

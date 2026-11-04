@@ -32,15 +32,15 @@ Mercury in Scorpio listens for what a sentence is carrying underneath. It would 
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Mercury](/astrology/mercury/) is how you investigate, interpret and exchange what you know. [Scorpio](/astrology/scorpio/), fixed water, gives whatever sits in it depth, intensity and staying power. With Mercury here, thinking goes down rather than across: you research, you read the subtext, you notice the motive under the reason given, and you don't let a question go until it has given up its answer. Words are chosen for their weight. You may say little, and what you say tends to land.
+[Scorpio](/astrology/scorpio/), fixed water, gives depth, intensity and staying power to whatever it holds, and [Mercury](/astrology/mercury/), the planet that investigates and interprets, takes all three. Thought goes down rather than across: you research, you read the subtext, you notice the motive under the reason given, and you don't let a question go until it has given up its answer. Words are chosen for their weight. You may say little, and what you say tends to land.
 
-Mercury has no dignity here in the tradition; the sign lends it depth, not rank.
+Tradition puts the Moon in its fall in Scorpio and gives Mercury no dignity at all: the sign lends depth, not rank.
 
 Scorpio has two rulers. Modern tropical astrology gives it to [Pluto](/astrology/pluto/); tradition gave it to [Mars](/astrology/mars/), and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). Through Mars, this Mercury can be direct, even sharp, once it decides to speak. Through Pluto, it's drawn to whatever is hidden, avoided or in the middle of changing. Their signs and houses in your chart show where each one pulls.
 
 Among people born from 1930 to 2009, it turns up in about 1 person in 11. A visit usually lasts about 20 days; when Mercury turns retrograde in the sign it can stay for up to 67, a long, slow dive for a mind that likes depth.
 
-[Mercury in Libra](/astrology/mercury-in-libra/) wants everyone heard; [Mercury in Sagittarius](/astrology/mercury-in-sagittarius/) wants the truth said out loud. Mercury in Scorpio wants the truth found, and decides for itself who hears it. Your Sun is in one of those three signs. With a Libra Sun, a gracious, sociable self has a mind that sees beneath the politeness. With a Sagittarius Sun, an open, frank self keeps some things back without quite meaning to.
+[Mercury in Libra](/astrology/mercury-in-libra/) wants everyone heard; [Mercury in Sagittarius](/astrology/mercury-in-sagittarius/) wants the truth said out loud. Mercury in Scorpio wants the truth found, and decides for itself who hears it. As for your Sun, Mercury keeps so close to it that it can only be in Libra, Scorpio or Sagittarius. A Libra Sun brings grace and good company, and this Mercury sees beneath the politeness. A Sagittarius Sun is open and frank, and through this Mercury keeps some things back without quite meaning to.
 
 ## In close relationships {#in-close-relationships}
 
@@ -56,4 +56,4 @@ Suspicion. A mind tuned to subtext can find a hidden motive in a plain sentence,
 
 ## What helps {#what-helps}
 
-Check the hunch with a question before acting on it: *what did you mean by that?* is often all it takes. When you need time before telling someone something, say so, rather than going quiet. Share one small thing first and see what comes back. Write the cutting line in a notebook, not a message. In [my notebook](/blog/i-tested-my-birth-chart/), Mercury held about a third of the time, so I question this Mercury's portrait as closely as it would question mine.
+Check the hunch with a question before acting on it: *what did you mean by that?* is often all it takes. When you need time before telling someone something, say so, rather than going quiet. Share one small thing first and see what comes back. Write the cutting line in a notebook, not a message. Only about a third of my Mercury checks held up in [my notebook](/blog/i-tested-my-birth-chart/), so I question this Mercury's portrait as closely as it would question mine.

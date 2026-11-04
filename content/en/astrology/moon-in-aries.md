@@ -34,11 +34,11 @@ Some feelings need to be talked through, others slept on. With the Moon in Aries
 
 ## In a birth chart {#in-a-birth-chart}
 
-The [Moon](/astrology/moon/) is the part of a chart that handles what you feel and need: how you take in what happens, how you bond, what makes you feel safe again. [Aries](/astrology/aries/), the first sign, cardinal fire, gives all of that a quick and direct manner. You find out what a feeling is by answering it: you speak up, get up, put it into motion. The distance between feeling and doing is short, and that's both the gift of this Moon and the thing to watch.
+In a chart, the [Moon](/astrology/moon/) handles what you feel and need: how you take in what happens, how you bond, what makes you feel safe again. [Aries](/astrology/aries/), the first sign, cardinal fire, gives all of that a quick and direct manner. You find out what a feeling is by answering it: you speak up, get up, put it into motion. The distance between feeling and doing is short, and that's both the gift of this Moon and the thing to watch.
 
 Tradition gives the Moon no dignity in Aries: not its domicile or its exaltation, not its detriment or its fall. Nothing in the sign helps or hinders it by rule; the question is pace. Fire suits the Moon's responsiveness, and a cardinal sign starts things, so an Aries Moon meets a change by moving first rather than waiting to see how it feels.
 
-[Mars](/astrology/mars/), which rules Aries, is the next thing I look at. Its sign and house show where these feelings go once they're up, and whether they have somewhere useful to land: a sport, a cause, a job with a deadline. When Mars has real work to do, an Aries Moon finds its calm faster.
+Then I turn to [Mars](/astrology/mars/), the ruler of Aries, because this Moon borrows its outlet from it. The house Mars occupies is where these feelings tend to go once they're up: into a sport, a cause, a job with a deadline. Give that Mars real work and an Aries Moon settles faster.
 
 About 1 person in 12 has the Moon in Aries, since it stays in each sign about two and a half days. Just before, it was in Pisces, where the [Moon in Pisces](/astrology/moon-in-pisces/) takes in every feeling in the room; just after, the [Moon in Taurus](/astrology/moon-in-taurus/) holds a feeling slowly and for a long time. Born on the day the Moon crossed either border, you need your birth time to know which sign is yours ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)).
 

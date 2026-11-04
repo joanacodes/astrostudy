@@ -35,11 +35,11 @@ La tradition fait du Scorpion la chute de la Lune, et le vieux mot sonne plus du
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le [Scorpion](/astrology/scorpio/) est un signe d’eau fixe. Avec la [Lune](/astrology/moon/) ici, les émotions ne font pas que passer : elles s’installent et gardent longtemps leur forme. Vous percevez ce qui se passe sous la surface d’une pièce, la chose que personne ne dit, et vous vous en souvenez. La sécurité, pour cette Lune, vient de la profondeur et d’une confiance mise à l’épreuve. Une fois donnée, elle l’est entièrement, et une trahison se ressent jusqu’aux os.
+Le [Scorpion](/astrology/scorpio/) est un signe d’eau fixe. Avec la [Lune](/astrology/moon/) ici, les émotions ne font pas que passer : elles s’installent et gardent longtemps leur forme. Vous percevez ce qui se passe sous la surface d’une pièce, ce que personne ne dit, et vous vous en souvenez. La sécurité, pour cette Lune, vient de la profondeur et d’une confiance mise à l’épreuve. Une fois donnée, elle l’est entièrement, et une trahison se ressent jusqu’aux os.
 
-Ptolémée donne le Scorpion comme chute de la Lune, le signe opposé à son exaltation en Taureau. Là où le Taureau la laisse se reposer sur le solide et le visible, le Scorpion, tel que je le lis, lui demande de ressentir ce qui est caché avant de se détendre : une condition plus difficile, pas un cœur moindre. Pour moi, la [chute](/astrology/fall/) décrit l’effort que demande le réconfort ici. Elle ne dit rien de la profondeur de votre amour, et une Lune en Scorpion aime souvent plus profondément que beaucoup.
+Ptolémée donne le Scorpion comme chute de la Lune, le signe opposé à son exaltation en Taureau. Là où le Taureau la laisse se reposer sur le solide et le visible, le Scorpion, tel que je le lis, lui demande de ressentir ce qui est caché avant de se détendre : une condition plus difficile, pas un cœur moindre. Pour moi, la [chute](/astrology/fall/) décrit l’effort que demande le réconfort ici. Elle ne dit rien de la profondeur de votre amour : une Lune en Scorpion aime souvent plus profondément que beaucoup.
 
-Le Scorpion a deux maîtres, et je lis les deux. Côté moderne, [Pluton](/astrology/pluto/) montre où cette Lune va en profondeur et comment elle se renouvelle après une perte. Côté traditionnel, [Mars](/astrology/mars/) montre comment elle protège ce qu’elle aime et où elle pose ses limites. Quand les deux racontent des histoires différentes, la lecture se tient dans l’espace entre elles.
+Avec deux maîtrises à consulter, je lis les deux. [Pluton](/astrology/pluto/), maîtrise moderne du Scorpion, marque l’endroit où cette Lune descend le plus profond et sa façon de se renouveler après une perte. [Mars](/astrology/mars/), maîtrise traditionnelle, marque l’endroit où elle monte la garde et trace ses lignes. Quand les deux racontent des histoires différentes, la lecture se tient entre elles.
 
 Le Scorpion garde la Lune deux jours et demi environ à chaque passage, ce qui place environ 1 personne sur 12 sous cette Lune. Avant lui vient la [Lune en Balance](/astrology/moon-in-libra/), qui s’apaise par l’harmonie ; après lui, la [Lune en Sagittaire](/astrology/moon-in-sagittarius/), qui s’apaise par l’espace. Si votre date de naissance tombe sur l’un de ces passages, seule l’heure permet de placer la Lune ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/#la-lune)).
 
@@ -49,11 +49,11 @@ Vous aimez de tout votre être, à condition de savoir que c’est sans danger. 
 
 ## Au travail {#au-travail}
 
-La profondeur vous convient. La recherche, l’enquête, les situations de crise, la thérapie, tout ce qui demande de rester avec ce qui est difficile et de garder un secret peut puiser dans le calme de cette Lune sous pression. Vous remarquez souvent ce qui se passe vraiment dans une organisation bien avant que ce soit annoncé. Les petites politiques de bureau vous ennuient, et vous gardez peut-être vos émotions bien à l’abri au travail, ce qui vous protège mais peut laisser vos collègues dans le doute.
+La profondeur vous convient. L’enquête, la recherche, la gestion de crise, l’accompagnement thérapeutique : tout ce qui demande de rester avec ce qui est difficile et de garder un secret peut puiser dans le calme de cette Lune sous pression. Vous remarquez souvent ce qui se passe vraiment dans une organisation bien avant que ce soit annoncé. Les petites politiques de bureau vous ennuient, et vous gardez peut-être vos émotions bien à l’abri au travail, ce qui vous protège mais peut laisser vos collègues dans le doute.
 
 ## Le plus difficile {#le-plus-difficile}
 
-Les vieilles blessures. Une blessure peut être gardée, examinée et portée pendant des années, longtemps après que la personne qui l’a causée est passée à autre chose. Mettre les gens à l’épreuve avant de leur faire confiance peut devenir une épreuve que personne ne réussit. Et comme vous montrez si peu en surface, les autres ne mesurent pas toujours ce que vous ressentez, ce qui peut créer de la solitude au cœur même d’une relation. Le tout ou rien est le schéma à surveiller : la porte grande ouverte, ou fermée à double tour.
+Les vieilles blessures. Une blessure peut être gardée, examinée et portée pendant des années, longtemps après que la personne qui l’a causée est passée à autre chose. Tester les gens avant de se fier à eux peut devenir un examen que personne ne réussit. Et comme vous montrez si peu en surface, les autres ne mesurent pas toujours ce que vous ressentez, ce qui peut créer de la solitude au cœur même d’une relation. Le tout ou rien est le schéma à surveiller : la porte grande ouverte, ou fermée à double tour.
 
 ## Ce qui aide {#ce-qui-aide}
 

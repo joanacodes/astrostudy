@@ -38,7 +38,7 @@ Gemini is mutable air, the sign of exchange, and it gives the [Moon](/astrology/
 
 [Gemini](/astrology/gemini/) holds no dignity for the Moon, neither domicile nor exaltation, detriment nor fall, so the sign doesn't strengthen or weaken it by rule. What it changes is the route a feeling takes: through language first, through the body later.
 
-[Mercury](/astrology/mercury/) rules Gemini, and its place in your chart shows how this Moon finds its words: quickly or carefully, aloud or on paper, in jokes or in questions. When Mercury and the Moon get on, a feeling turns into a sentence easily. When they're at odds, you may have plenty of words and still feel unheard.
+[Mercury](/astrology/mercury/) rules Gemini, so wherever Mercury sits in your chart tells me how this Moon finds its words: quickly or carefully, aloud or on paper, in jokes or in questions. When Mercury and the Moon get on, a feeling turns into a sentence easily. When they're at odds, you may have plenty of words and still feel unheard.
 
 It's a short visit. The Moon is through Gemini in roughly two and a half days, and about 1 person in 12 arrives during one. On the day of a change, the birth time is the only way to tell which sign you have ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)): a little earlier, the [Moon in Taurus](/astrology/moon-in-taurus/), which settles through the senses; a little later, the [Moon in Cancer](/astrology/moon-in-cancer/), which settles at home.
 

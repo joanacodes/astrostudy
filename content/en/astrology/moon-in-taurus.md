@@ -44,7 +44,7 @@ Two and a half days or so is all the Moon spends in Taurus on each trip round th
 
 ## In close relationships {#in-close-relationships}
 
-You love through presence. A meal made, a hand on the back, the same seat kept for someone every evening: your care is physical and dependable, and you notice when it isn't returned in kind. Trust builds slowly and then holds. Once you've let someone in, you don't let go easily, even after a hard year. You're often the calm one when a partner is in a storm, which is a real gift, as long as your own feelings get their turn. Change in a relationship needs time to become familiar before you can welcome it, so a partner who announces one suddenly may meet a wall that is really only a pause.
+You love through presence. A meal made, an arm round a shoulder, someone's favourite chair kept free every evening: your care is physical and dependable, and you notice when it isn't returned in kind. Trust builds slowly and then holds. Once you've let someone in, you don't let go easily, even after a hard year. You're often the calm one when a partner is in a storm, which is a real gift, as long as your own feelings get their turn. Change in a relationship needs time to become familiar before you can welcome it, so a partner who announces one suddenly may meet a wall that is really only a pause.
 
 ## At work {#at-work}
 
@@ -56,6 +56,6 @@ Comfort can become a lid. When something hurts, the familiar pleasures that usua
 
 ## What helps {#what-helps}
 
-Let change arrive in small portions: visit the new place before you move, try the new routine one day a week. Keep your comforts, and let them carry a feeling instead of covering it: a walk where you say what's wrong, a meal over which you tell someone the truth. Say early when something bothers you, while it's still small enough to move. And keep one pleasure purely for yourself, since this Moon tends to share its comfort before it takes any.
+Take change in small doses: visit the new place before you move, try the new routine one day a week. Keep your comforts, and let them carry a feeling instead of covering it: a walk where you say what's wrong, a meal over which you tell someone the truth. Say early when something bothers you, while it's still small enough to move. And keep one pleasure purely for yourself, since this Moon tends to share its comfort before it takes any.
 
 The exaltation didn't earn the Moon a better score in [my notebook](/blog/i-tested-my-birth-chart/). It was ticked or crossed like every other placement, the three that came out ticked far more often were Saturn, Chiron and Lilith, and across everything I checked, roughly one placement in three held. So I treat a Taurus Moon as good solid ground, and build the reading on the rest of the chart as well.

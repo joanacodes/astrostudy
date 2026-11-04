@@ -31,9 +31,9 @@ Some minds wait until a thought is finished before they let it out. With Mercury
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Mercury](/astrology/mercury/) is the part of a chart that takes in information, makes sense of it and passes it on. [Aries](/astrology/aries/), cardinal fire ruled by Mars, gives whatever sits in it a quick, direct, self-starting manner. Together they make a mind that reacts first and reflects second: you see the problem, name it and start on it while the room is still describing it. This Mercury likes questions with an answer you can act on today.
+[Mercury](/astrology/mercury/), the part of a chart that takes in information and passes it on, runs here on the fuel of [Aries](/astrology/aries/): cardinal fire, ruled by Mars, quick, direct and self-starting. Together they make a mind that reacts first and reflects second: you see the problem, name it and start on it while the room is still describing it. This Mercury likes questions with an answer you can act on today.
 
-Aries is neither one of Mercury's own signs nor one where tradition says it struggles, so there's no dignity to weigh: I read the sign for its manner and nothing more.
+Aries exalts the Sun, not Mercury, and Mercury has neither a home nor a weakness here, so there's no dignity to weigh: I read the sign for its manner and nothing more.
 
 Its visits are as brisk as the sign: about 17 days as a rule, though in the years Mercury turns retrograde in Aries it can linger for up to 69, doubling back over the same degrees. If you were born during those backward weeks themselves, I read this quick mind as one that also goes over its first answers in private, later ([natal retrograde planets](/blog/retrograde-planets/)). Of everyone born from 1930 to 2009, about 1 person in 13 has Mercury in Aries.
 

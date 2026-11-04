@@ -34,7 +34,7 @@ Give a Virgo Moon something to sort and you can watch a bad day settle. Folding 
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Virgo](/astrology/virgo/), mutable earth, is the sign of method and of making things work. With the [Moon](/astrology/moon/) here, digesting what happens, attaching and finding safety all take a practical, precise turn. Order outside is how you find order inside, and being of use is how you feel safe. Care, for you, is concrete: the meal in the freezer for someone who's unwell, the form filled in, the detail nobody else noticed. A feeling becomes manageable once it has a place, the way a drawer becomes calm once it's sorted.
+Mutable earth and the sign of method, [Virgo](/astrology/virgo/) is about making things work. With the [Moon](/astrology/moon/) here, digesting what happens, attaching and finding safety all take a practical, precise turn. Order outside is how you find order inside, and being of use is how you feel safe. Care, for you, is concrete: the meal in the freezer for someone who's unwell, the form filled in, the detail nobody else noticed. A feeling becomes manageable once it has a place, the way a drawer becomes calm once it's sorted.
 
 None of the four dignities applies here: Virgo is not the Moon's domicile, exaltation, detriment or fall. Mutable signs adjust, and in Virgo adjusting means improving. You respond to a change by working out what it needs and doing it, which is responsiveness in its most hands-on form.
 

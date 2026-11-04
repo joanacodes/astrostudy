@@ -32,13 +32,13 @@ Gemini is one of the two signs Mercury rules, and here the planet speaks without
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Mercury](/astrology/mercury/) is how you take in the world and hand it on: questions, words, comparisons, connections. [Gemini](/astrology/gemini/), mutable air, is the sign that belongs to Mercury, so the planet is in its [domicile](/astrology/domicile/). I read a planet at home as one that acts on its own terms, with nothing to translate through a sign that has other priorities. With Mercury in Gemini, your mind follows its curiosity, gathers from many places and finds its pleasure in the link between two things nobody had thought to put side by side.
+In [Gemini](/astrology/gemini/), mutable air, [Mercury](/astrology/mercury/) is in the sign that belongs to it, its [domicile](/astrology/domicile/), and its everyday work of taking in the world and handing it on, through questions, words, comparisons and connections, goes on without a filter. I read a planet at home as one that acts on its own terms, with nothing to translate through a sign that has other priorities. With Mercury in Gemini, your mind follows its curiosity, gathers from many places and finds its pleasure in the link between two things nobody had thought to put side by side.
 
 Since Mercury rules Gemini, there's no other ruler to look up. The chain stops here, and Mercury's own house and aspects carry the rest of the story. When it also sits in the 3rd house, the one whose natural sign is Gemini, sign and context say the same thing twice ([Mercury in the 3rd house](/astrology/mercury-in-3rd-house/)).
 
 Mercury rarely lingers at home: a visit to Gemini usually lasts about 16 days, and only a retrograde turn inside the sign stretches it, to 69 days at the most. It belongs to about 1 person in 13 of everyone born between 1930 and 2009. A retrograde loop near either edge of the sign can carry Mercury back over the border before it returns: into [Mercury in Taurus](/astrology/mercury-in-taurus/) when the loop falls in the first degrees, out into [Mercury in Cancer](/astrology/mercury-in-cancer/) and back when it falls in the last ones. Born close to one of those crossings, you'll want your chart to say which side you landed on.
 
-The Sun can't be far: it's in Taurus, Gemini or Cancer. Pair this Mercury with a Taurus Sun and a steady person turns out to have a mind that won't sit still; with a Cancer Sun, feelings come first and Mercury finds them words; with a Gemini Sun, purpose and thinking both run on curiosity.
+The Sun can't be far: it's in Taurus, Gemini or Cancer. Pair this Mercury with a Taurus Sun and a steady person turns out to have a mind that won't sit still; with a Cancer Sun, feelings come first and Mercury finds them words; with a Gemini Sun, curiosity is both your engine and your method.
 
 ## In close relationships {#in-close-relationships}
 

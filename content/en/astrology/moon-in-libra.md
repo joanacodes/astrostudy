@@ -38,7 +38,7 @@ With the [Moon](/astrology/moon/) in [Libra](/astrology/libra/), cardinal air, f
 
 In the old scheme of dignities, Libra is neutral ground for the Moon: not its own sign, not its exaltation, and not opposite either of them.
 
-[Venus](/astrology/venus/) rules Libra, and I read it next. It shows what you find fair, pleasing and worth keeping, and so what restores you. A Libra Moon is soothed by reciprocity and by what pleases the eye, a well-laid table, a conversation where both people get to speak, and the sign and house of Venus say where you find those, and what you're willing to give for them.
+[Venus](/astrology/venus/) rules Libra, and I read it next. It shows what you find fair, pleasing and worth keeping, and so what restores you. A Libra Moon is soothed by reciprocity and by what pleases the eye, a well-laid table, a conversation in which each person is heard, and the sign and house of Venus say where you find those, and what you're willing to give for them.
 
 About 1 person in 12 shares this Moon. It reaches Libra from Virgo, where the [Moon in Virgo](/astrology/moon-in-virgo/) finds its calm in order, and leaves for Scorpio, where the [Moon in Scorpio](/astrology/moon-in-scorpio/) feels everything privately and in depth. It lingers about two and a half days between them, so a birthday that falls on a crossing day needs the birth time to decide ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)).
 
@@ -52,7 +52,7 @@ You do well where cooperation is the point: negotiating, mediating, hosting, des
 
 ## The hard part {#the-hard-part}
 
-Your own need can get lost in the weighing. When you see every side, it's hard to choose yours, and you may agree to things to keep the peace and resent them later. Harmony isn't the same as avoiding conflict, but under pressure the two can blur. Sometimes you only learn what you feel from what the other person feels, and by then you've already begun adjusting to it.
+Your own need can get lost in the weighing. When you see every side, it's hard to choose yours, and you may agree to things to keep the peace and resent them later. Keeping the peace and making peace are different things, but under pressure they can blur. Sometimes you only learn what you feel from what the other person feels, and by then you've already begun adjusting to it.
 
 ## What helps {#what-helps}
 

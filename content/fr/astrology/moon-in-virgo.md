@@ -35,7 +35,7 @@ Donnez à une Lune en Vierge quelque chose à trier, et vous verrez une mauvaise
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La [Vierge](/astrology/virgo/), terre mutable, est le signe de la méthode et des choses qui marchent. Avec la [Lune](/astrology/moon/) ici, absorber ce qui arrive, s’attacher et retrouver la sécurité prennent un tour pratique et précis. L’ordre au-dehors vous aide à trouver l’ordre au-dedans, et vous rendre utile vous donne la sécurité. Le soin, chez vous, est concret : le plat au congélateur pour quelqu’un de malade, le formulaire rempli, le détail que personne n’avait vu. Une émotion devient gérable une fois qu’elle a sa place, comme un tiroir devient calme une fois rangé.
+Terre mutable, signe de la méthode, la [Vierge](/astrology/virgo/) aime que les choses marchent. Avec la [Lune](/astrology/moon/) ici, absorber ce qui arrive, s’attacher et retrouver la sécurité prennent un tour pratique et précis. L’ordre au-dehors vous aide à trouver l’ordre au-dedans, et vous rendre utile vous donne la sécurité. Le soin, chez vous, est concret : le plat au congélateur pour quelqu’un de malade, le formulaire rempli, le détail que personne n’avait vu. Une émotion devient gérable une fois qu’elle a sa place, comme un tiroir devient calme une fois rangé.
 
 Aucune des quatre dignités ne s’applique ici : la Vierge n’est pour la Lune ni un domicile, ni une exaltation, ni un exil, ni une chute. Les signes mutables s’ajustent, et en Vierge, s’ajuster veut dire améliorer. Face à un changement, vous cherchez ce qu’il demande et vous le faites : la réactivité sous sa forme la plus concrète.
 

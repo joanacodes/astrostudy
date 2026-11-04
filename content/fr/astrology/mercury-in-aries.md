@@ -32,9 +32,9 @@ Certains esprits attendent qu’une pensée soit finie pour la laisser sortir. A
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-[Mercure](/astrology/mercury/) est la part du thème qui reçoit l’information, lui donne un sens et la transmet. Le [Bélier](/astrology/aries/), feu cardinal gouverné par Mars, donne à ce qui s’y trouve une manière rapide, directe, qui part d’elle-même. De cette rencontre naît un esprit qui réagit d’abord et réfléchit ensuite : vous voyez le problème, le nommez et vous y attaquez pendant que la salle est encore en train de le décrire. Ce placement aime les questions dont la réponse peut servir dès aujourd’hui.
+[Mercure](/astrology/mercury/), la part du thème qui reçoit l’information et la transmet, fonctionne ici au carburant du [Bélier](/astrology/aries/) : un feu cardinal gouverné par Mars, fait de vitesse, de franchise et d’élan. De cette rencontre naît un esprit qui réagit d’abord et réfléchit ensuite : vous voyez le problème, le nommez et vous y attaquez pendant que la salle est encore en train de le décrire. Ce placement aime les questions dont la réponse peut servir dès aujourd’hui.
 
-Le Bélier n’est ni l’un des signes de Mercure ni un signe où la tradition voit Mercure en difficulté : pas de dignité à peser ici, je lis le signe pour sa manière, et rien de plus.
+Le Bélier exalte le Soleil, pas Mercure, et Mercure n’y a ni domicile ni faiblesse : pas de dignité à peser ici, je lis le signe pour sa manière, et rien de plus.
 
 Les visites de Mercure sont aussi vives que le signe : 17 jours environ en règle générale, même si, les années où Mercure devient rétrograde en Bélier, le séjour peut aller jusqu’à 69 jours, le temps de repasser sur les mêmes degrés. Si votre naissance tombe pendant ces semaines de recul elles-mêmes, je lis cet esprit rapide comme un esprit qui, en plus, revient plus tard et en privé sur ses premières réponses ([planètes rétrogrades natales](/blog/retrograde-planets/)). Sur l’ensemble des personnes nées de 1930 à 2009, environ 1 sur 13 a Mercure en Bélier.
 

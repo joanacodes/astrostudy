@@ -34,7 +34,7 @@ Cancer is the Moon's own sign, and here it works without translation. Feelings r
 
 ## In a birth chart {#in-a-birth-chart}
 
-Cancer is cardinal water, ruled by the [Moon](/astrology/moon/) itself, so a Moon in [Cancer](/astrology/cancer/) is in what tradition calls its domicile: the sign it rules, where it is most itself. Everything the Moon does in a chart is turned up here rather than changed: taking in what happens, bonding, keeping memory, restoring safety. You often sense the mood of a room before anyone has spoken, and your feelings come and go in tides rather than in flashes.
+A Moon in [Cancer](/astrology/cancer/) is in the one sign it rules, a cardinal water sign, and so in what tradition calls its domicile: the place where the [Moon](/astrology/moon/) is most itself. Everything the Moon does in a chart is turned up here rather than changed: taking in what happens, bonding, keeping memory, restoring safety. A room's mood reaches you before anyone has spoken, and your feelings come and go in tides rather than in flashes.
 
 Domicile describes ease, not rank. The sign asks of the Moon exactly what the Moon already wants to give, so there's little friction between your needs and the way you go about meeting them. Cardinal signs start things, which is worth saying because Cancer is so often painted as shy: a Cancer Moon takes the initiative to protect. It moves first to make a home, to feed someone, to close ranks around the people it loves.
 
@@ -58,4 +58,4 @@ A long memory works both ways. What keeps every kindness can keep every hurt, an
 
 Keep a real place of return, a room, a ritual, a person, for when the world is loud, and let it be a harbour rather than a fortress. Put yourself on the list of people you look after, by name. When an old hurt comes back, ask whether it belongs to now or to then. Say what you need in words, early, even when you hope it's obvious. And use your memory as a resource: recipes, photographs, letters, everything that reminds you of the care you've been given.
 
-Being at home in its sign didn't buy the Moon a better result in [my notebook](/blog/i-tested-my-birth-chart/). It went on the list like everything else; the placements that stood out, holding far more often than the rest, were Lilith, Chiron and Saturn, and the list as a whole came out at about a third. So I read a Cancer Moon with care, alongside the rest of the chart, never instead of it.
+Being at home in its sign didn't buy the Moon a better result in [my notebook](/blog/i-tested-my-birth-chart/). It went on the list like everything else; the ones that stood apart were Lilith, Chiron and Saturn, holding up far more often than anything else, and the list as a whole came out at about a third. So I read a Cancer Moon with care, alongside the rest of the chart, never instead of it.

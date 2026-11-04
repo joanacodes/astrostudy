@@ -33,9 +33,9 @@ Avec Mercure en Taureau, une idée nouvelle n’est jamais prise sur parole : v
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-[Mercure](/astrology/mercury/), c’est votre façon de remarquer, de trier et de transmettre ce que vous apprenez. Le [Taureau](/astrology/taurus/), terre fixe gouvernée par Vénus, ramène ce qui s’y trouve au rythme de ce qui pousse : régulier, sensoriel, impossible à presser. Ici, la pensée passe par les mains et par les sens. Vous apprenez une chose en la faisant, et vous vous en souvenez parce que vous l’avez faite ; une explication porte quand elle s’accompagne d’un exemple que l’on pourrait toucher. Vos mots sont souvent peu nombreux et solides, et les autres trouvent facile de s’y appuyer.
+[Mercure](/astrology/mercury/) remarque, trie et transmet ce que vous apprenez ; en [Taureau](/astrology/taurus/), terre fixe gouvernée par Vénus, ces trois gestes prennent le rythme de ce qui pousse : régulier, sensoriel, impossible à presser. Ici, la pensée passe par les mains et par les sens. Vous apprenez une chose en la faisant, et vous vous en souvenez parce que vous l’avez faite ; une explication porte quand elle s’accompagne d’un exemple que l’on pourrait toucher. Vos mots sont souvent peu nombreux et solides, et les autres trouvent facile de s’y appuyer.
 
-Aucune dignité ne s’attache à Mercure en Taureau, en bien ou en mal. Ce que le signe change, c’est le tempo de l’esprit, pas sa qualité : un esprit qui prend son temps n’est pas un esprit en retard.
+Le Taureau est le signe où la tradition exalte la Lune ; Mercure n’y reçoit aucune dignité, en bien ou en mal. Ce que le signe change, c’est le tempo de l’esprit, pas sa qualité : un esprit qui prend son temps n’est pas un esprit en retard.
 
 Le calendrier n’accorde à ce placement patient qu’une courte fenêtre : le séjour de Mercure en Taureau dure en général 16 jours environ, et jusqu’à 69 les années où Mercure y devient rétrograde, ce qui offre à un signe qui aime prendre son temps plusieurs semaines de plus. Cela fait environ 1 personne sur 13 parmi celles nées entre 1930 et 2009.
 

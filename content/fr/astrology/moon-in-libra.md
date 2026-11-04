@@ -53,7 +53,7 @@ Vous réussissez là où la coopération est le but : négocier, servir de méd
 
 ## Le plus difficile {#le-plus-difficile}
 
-Votre propre besoin peut se perdre dans la pesée. Quand vous voyez tous les points de vue, il est difficile de choisir le vôtre, et vous acceptez peut-être des choses pour garder la paix, quitte à le regretter ensuite. L’harmonie n’est pas l’évitement du conflit, mais sous pression, les deux peuvent se confondre. Il arrive que vous découvriez ce que vous ressentez à travers ce que ressent l’autre, et à ce moment-là, vous avez déjà commencé à vous y ajuster.
+Votre propre besoin peut se perdre dans la pesée. Quand vous voyez tous les points de vue, il est difficile de choisir le vôtre, et vous acceptez peut-être des choses pour garder la paix, quitte à le regretter ensuite. Garder la paix et faire la paix ne sont pas la même chose, mais sous pression, les deux se confondent parfois. Il arrive que vous découvriez ce que vous ressentez à travers ce que ressent l’autre, et à ce moment-là, vous avez déjà commencé à vous y ajuster.
 
 ## Ce qui aide {#ce-qui-aide}
 

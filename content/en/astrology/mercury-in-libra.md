@@ -27,17 +27,17 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the rulership of Libra and Mercury’s dignities" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Mercury stays in Libra, and how many people born 1930–2009 have it" }
 ---
-Mercury in Libra thinks in pairs: this view and that one, what you mean and how it will sound to the person hearing it. It reaches its conclusions by conversation, even when the conversation happens silently, between two voices in your own head.
+For Mercury in Libra, every thought has a partner: this view and that one, what you mean and how it will sound to the person hearing it. It reaches its conclusions by conversation, even when the conversation happens silently, between two voices in your own head.
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Mercury](/astrology/mercury/) is how you reason, learn and exchange ideas. [Libra](/astrology/libra/) is cardinal air under Venus: it starts things by relating, and measures them against fairness and grace. With Mercury here, thinking is comparative. You understand a position best beside its opposite, you can hear what a sentence will do before you say it, and you look for the wording that lets two people go on talking after they disagree.
+[Mercury](/astrology/mercury/) reasons and exchanges ideas, and [Libra](/astrology/libra/), cardinal air under Venus, starts things by relating and measures them against fairness and grace, so here the reasoning is done in company, even when the company is imagined. Thinking, in this sign, works by comparison. You understand a position best beside its opposite, you can hear what a sentence will do before you say it, and you look for the wording that lets two people go on talking after they disagree.
 
-The old tables say nothing about Mercury in Libra: no domicile, no exaltation, no detriment, no fall. The sign brings a manner rather than a condition. Your [Venus](/astrology/venus/) matters here as the sign's ruler: where it sits shows what kind of harmony this mind is trying to build, and for whom.
+The old tables exalt Saturn in Libra and put the Sun in its fall there, but say nothing about Mercury: no domicile, no exaltation, no detriment, no fall. The sign brings a manner rather than a condition. Your [Venus](/astrology/venus/) matters here as the sign's ruler: where it sits shows what kind of harmony this mind is trying to build, and for whom.
 
 About 19 days is a typical passage through Libra, time enough, you might say, to hear both sides; when Mercury turns retrograde in the sign, it can stay for up to 68. It's a placement shared by about 1 person in 11 born from 1930 to 2009.
 
-[Mercury in Virgo](/astrology/mercury-in-virgo/), just before, asks whether a thing is correct; Mercury in Libra asks whether it's fair; [Mercury in Scorpio](/astrology/mercury-in-scorpio/), just after, asks what's being left unsaid. Your Sun is in one of those three signs. A Virgo Sun gives this tactful mind a precise, helpful self to speak for. A Scorpio Sun gives it an intense, private one, and Mercury becomes the diplomat at its door. With the Sun in Libra too, the wish for balance runs through both purpose and thought. When Mercury also sits in the 7th house, Libra's natural house, the other person is part of how you think ([Mercury in the 7th house](/astrology/mercury-in-7th-house/)).
+[Mercury in Virgo](/astrology/mercury-in-virgo/), just before, asks whether a thing is correct; Mercury in Libra asks whether it's fair; [Mercury in Scorpio](/astrology/mercury-in-scorpio/), just after, asks what's being left unsaid. Mercury's closeness to the Sun puts your Sun in that same trio. A Virgo Sun gives this tactful mind a precise, helpful self to speak for. A Scorpio Sun gives it an intense, private one, and Mercury becomes the diplomat at its door. With the Sun in Libra too, the wish for balance runs through everything, aims and arguments alike. When Mercury also sits in the 7th house, Libra's natural house, the other person is part of how you think ([Mercury in the 7th house](/astrology/mercury-in-7th-house/)).
 
 ## In close relationships {#in-close-relationships}
 
