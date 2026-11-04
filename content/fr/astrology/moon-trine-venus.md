@@ -16,7 +16,7 @@ facts:
   - { k: "Fréquence", v: "Environ 1 personne sur 11, à 8° près" }
   - { k: "Signes d’écart", v: "Quatre, en général du même élément" }
   - { k: "Dans le ciel", v: "Environ deux fois par mois, jamais près d’une nouvelle lune" }
-  - { k: "Le plus rapide des deux", v: "La Lune, environ 13° par jour ; Vénus met environ 4 à 5 semaines par signe" }
+  - { k: "Le plus rapide des deux", v: "La Lune, environ 13° par jour ; Vénus met environ 3 à 4 semaines par signe" }
 related: ["/astrology/moon", "/astrology/venus", "/astrology/trine", "/astrology/out-of-sign-aspects", "/astrology/moon-trine-venus-synastry"]
 faq:
   - q: "Que veut dire Lune trigone Vénus dans un thème natal ?"

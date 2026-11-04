@@ -15,7 +15,7 @@ facts:
   - { k: "How common", v: "About 1 person in 11, within 8°" }
   - { k: "Signs apart", v: "Three, usually in the same modality" }
   - { k: "In the sky", v: "About twice a month, never near a new or full moon" }
-  - { k: "Faster of the two", v: "The Moon, about 13° a day; Venus takes about 4 to 5 weeks per sign" }
+  - { k: "Faster of the two", v: "The Moon, about 13° a day; Venus takes about 3 to 4 weeks per sign" }
 related: ["/astrology/moon", "/astrology/venus", "/astrology/square", "/astrology/hard-and-soft-aspects", "/astrology/moon-square-venus-synastry"]
 faq:
   - q: "What does Moon square Venus mean in a birth chart?"

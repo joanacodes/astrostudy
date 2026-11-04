@@ -13,7 +13,7 @@ facts:
   - { k: "Aspect", v: "Conjunction ☌, 0°" }
   - { k: "Nature", v: "A meeting: valuing and renewing act together" }
   - { k: "How common", v: "About 1 person in 29, within 6°" }
-  - { k: "Time in each sign", v: "Venus about 4 to 5 weeks; Uranus about 7 years" }
+  - { k: "Time in each sign", v: "Venus about 3 to 4 weeks; Uranus about 7 years" }
   - { k: "Uranus retrograde", v: "About five months of every year" }
 related: ["/astrology/venus", "/astrology/uranus", "/astrology/conjunction", "/astrology/venus-conjunct-uranus-synastry", "/astrology/transiting-uranus-conjunct-natal-venus"]
 faq:

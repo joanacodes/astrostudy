@@ -13,7 +13,7 @@ facts:
   - { k: "Symbole", v: "♀ — un cercle au-dessus d’une croix" }
   - { k: "Nature", v: "Planète ; l’étoile du Berger, du matin ou du soir" }
   - { k: "Distance au Soleil", v: "Jamais plus de 47° environ, vue de la Terre" }
-  - { k: "Temps dans chaque signe", v: "Environ 4 à 5 semaines" }
+  - { k: "Temps dans chaque signe", v: "Environ 3 à 4 semaines" }
   - { k: "Maîtrise", v: "Taureau et Balance" }
   - { k: "Exaltation", v: "Poissons" }
   - { k: "Exil et chute", v: "Bélier et Scorpion (exil), Vierge (chute)" }
@@ -50,7 +50,7 @@ Ses aspects la rendent vraiment vôtre. Vénus ne s’éloigne jamais de plus de
 
 ## Vénus dans les signes {#dans-les-signes}
 
-Vénus passe environ quatre à cinq semaines dans chaque signe, davantage quand elle rétrograde. Comme elle ne s’éloigne jamais de plus de 47° environ du Soleil, elle se trouve dans votre signe solaire ou à un ou deux signes de lui. En mots simples :
+Vénus passe environ trois à quatre semaines dans chaque signe, davantage quand elle rétrograde. Comme elle ne s’éloigne jamais de plus de 47° environ du Soleil, elle se trouve dans votre signe solaire ou à un ou deux signes de lui. En mots simples :
 
 - **[Vénus en Bélier](/astrology/venus-in-aries/) :** vous aimez avec audace et sans attendre, et faites volontiers le premier pas.
 - **[Vénus en Taureau](/astrology/venus-in-taurus/) :** de la fidélité, de la sensualité ; il vous faut du temps pour vous engager, et plus encore pour lâcher ; son propre signe.
@@ -88,7 +88,7 @@ En [synastrie](/synastry/), Vénus montre ce que deux personnes aiment l’une c
 
 ## Transits et Vénus rétrograde {#venus-retrograde}
 
-Vénus traverse un signe en quatre à cinq semaines environ : ses transits sont courts et doux, quelques jours de chaleur, de plaisir ou de manque quand elle touche l’une de vos planètes. Environ tous les 18 mois, elle rétrograde pendant six semaines environ — [Vénus rétrograde](/astrology/venus-retrograde/) — et les astrologues y lisent un temps pour regarder à nouveau ce à quoi, et à qui, vous tenez. C’est le temps qu’il fait, pas une prédiction : je ne donne à personne de date pour aimer, se marier ou partir.
+Vénus traverse un signe en trois à quatre semaines environ : ses transits sont courts et doux, quelques jours de chaleur, de plaisir ou de manque quand elle touche l’une de vos planètes. Environ tous les 18 mois, elle rétrograde pendant six semaines environ — [Vénus rétrograde](/astrology/venus-retrograde/) — et les astrologues y lisent un temps pour regarder à nouveau ce à quoi, et à qui, vous tenez. C’est le temps qu’il fait, pas une prédiction : je ne donne à personne de date pour aimer, se marier ou partir.
 
 Naître pendant une rétrogradation de Vénus change le rythme de l’affection plutôt que sa profondeur ; j’ai écrit sur ce rythme dans [planètes rétrogrades natales](/blog/retrograde-planets/). Quand une planète lente rencontre votre Vénus — [Saturne en transit conjonction Vénus natale](/astrology/transiting-saturn-conjunct-natal-venus/), par exemple — la saison est plus longue, et l’amour comme ce qui compte pour vous sont invités à devenir plus solides.
 

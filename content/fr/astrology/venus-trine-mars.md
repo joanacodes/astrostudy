@@ -16,7 +16,7 @@ facts:
   - { k: "Fréquence", v: "Environ 1 personne sur 19, à 6° près" }
   - { k: "Écart en signes", v: "Quatre, en général dans le même élément" }
   - { k: "Le plus rapide des deux", v: "Vénus, la plupart du temps" }
-  - { k: "Temps dans chaque signe", v: "Vénus environ 4 à 5 semaines ; Mars environ 6 à 7" }
+  - { k: "Temps dans chaque signe", v: "Vénus environ 3 à 4 semaines ; Mars environ 6 à 7" }
 related: ["/astrology/venus", "/astrology/mars", "/astrology/trine", "/astrology/venus-square-mars", "/astrology/venus-trine-mars-synastry", "/astrology/four-elements"]
 faq:
   - q: "Que veut dire Vénus trigone Mars dans un thème natal ?"
@@ -47,7 +47,7 @@ L’aisance a son piège, et il est discret. Comme le désir et l’action se di
 
 Dans un thème, Vénus trigone Mars se montre souvent comme une circulation facile entre vouloir et faire, avec le style des signes et le décor des maisons : Vénus en maison 7 en trigone avec Mars en maison 11, par exemple, pourrait laisser la chaleur que vous apportez au couple et l’énergie que vous donnez à vos amitiés se nourrir l’une l’autre. Environ 1 personne sur 19 naît avec Vénus et Mars à moins de 6° d’un trigone exact. À un ou deux degrés près, cette aisance entre vouloir et faire devient un fil conducteur du thème ; au bord de l’orbe, c’est plutôt une chaleur de fond.
 
-Vénus est la plus rapide des deux la plupart du temps : elle traverse un signe en quatre à cinq semaines environ, Mars en six à sept. C’est donc en général Vénus qui referme ou creuse l’écart, et beaucoup d’astrologues ressentent un trigone qui se resserre comme plus fort qu’un trigone qui s’ouvre ([aspects appliquants et séparants](/astrology/applying-and-separating-aspects/)). Chacune des deux planètes passe aussi, de temps en temps, en rétrogradation : Vénus environ tous les 18 mois, Mars environ tous les deux ans. Si votre naissance tombe pendant l’une de ces périodes, vous savez peut-être ce que vous voulez bien avant d’agir : j’y lis la même aisance, qui travaille d’abord à l’intérieur — un rythme, pas un retard ([planètes rétrogrades natales](/blog/retrograde-planets/)).
+Vénus est la plus rapide des deux la plupart du temps : elle traverse un signe en trois à quatre semaines environ, Mars en six à sept. C’est donc en général Vénus qui referme ou creuse l’écart, et beaucoup d’astrologues ressentent un trigone qui se resserre comme plus fort qu’un trigone qui s’ouvre ([aspects appliquants et séparants](/astrology/applying-and-separating-aspects/)). Chacune des deux planètes passe aussi, de temps en temps, en rétrogradation : Vénus environ tous les 18 mois, Mars environ tous les deux ans. Si votre naissance tombe pendant l’une de ces périodes, vous savez peut-être ce que vous voulez bien avant d’agir : j’y lis la même aisance, qui travaille d’abord à l’intérieur — un rythme, pas un retard ([planètes rétrogrades natales](/blog/retrograde-planets/)).
 
 Vénus et Mars peuvent former tous les aspects, et chacun branche autrement ce qui compte et ce qui agit :
 

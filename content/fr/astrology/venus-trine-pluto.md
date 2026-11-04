@@ -15,7 +15,7 @@ facts:
   - { k: "Nature", v: "Doux : une profondeur qui coule" }
   - { k: "Fréquence", v: "Environ 1 personne sur 15, à 6° près" }
   - { k: "Écart en signes", v: "Quatre, en général dans le même élément" }
-  - { k: "Temps dans chaque signe", v: "Vénus environ 4 à 5 semaines ; Pluton 12 à 31 ans" }
+  - { k: "Temps dans chaque signe", v: "Vénus environ 3 à 4 semaines ; Pluton 12 à 31 ans" }
 related: ["/astrology/venus", "/astrology/pluto", "/astrology/trine", "/astrology/venus-square-pluto", "/astrology/venus-trine-pluto-synastry"]
 faq:
   - q: "Que veut dire Vénus trigone Pluton dans un thème natal ?"

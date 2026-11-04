@@ -15,7 +15,7 @@ facts:
   - { k: "Nature", v: "Une rencontre : le besoin et l’affection agissent d’un seul geste" }
   - { k: "Fréquence", v: "Environ 1 personne sur 22, à 8° près" }
   - { k: "Dans le ciel", v: "Environ une fois par mois, dans les jours qui entourent une nouvelle lune" }
-  - { k: "Le plus rapide des deux", v: "La Lune, environ 13° par jour ; Vénus met environ 4 à 5 semaines par signe" }
+  - { k: "Le plus rapide des deux", v: "La Lune, environ 13° par jour ; Vénus met environ 3 à 4 semaines par signe" }
 related: ["/astrology/moon", "/astrology/venus", "/astrology/conjunction", "/astrology/taurus", "/astrology/moon-conjunct-venus-synastry"]
 faq:
   - q: "Que veut dire Lune conjonction Vénus dans un thème natal ?"

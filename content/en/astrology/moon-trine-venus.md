@@ -15,7 +15,7 @@ facts:
   - { k: "How common", v: "About 1 person in 11, within 8°" }
   - { k: "Signs apart", v: "Four, usually in the same element" }
   - { k: "In the sky", v: "About twice a month, never near a new moon" }
-  - { k: "Faster of the two", v: "The Moon, about 13° a day; Venus takes about 4 to 5 weeks per sign" }
+  - { k: "Faster of the two", v: "The Moon, about 13° a day; Venus takes about 3 to 4 weeks per sign" }
 related: ["/astrology/moon", "/astrology/venus", "/astrology/trine", "/astrology/out-of-sign-aspects", "/astrology/moon-trine-venus-synastry"]
 faq:
   - q: "What does Moon trine Venus mean in a birth chart?"

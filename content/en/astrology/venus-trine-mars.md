@@ -15,7 +15,7 @@ facts:
   - { k: "How common", v: "About 1 person in 19, within 6°" }
   - { k: "Signs apart", v: "Four, usually in the same element" }
   - { k: "Faster of the two", v: "Venus, on most days" }
-  - { k: "Time in each sign", v: "Venus about 4 to 5 weeks; Mars about 6 to 7" }
+  - { k: "Time in each sign", v: "Venus about 3 to 4 weeks; Mars about 6 to 7" }
 related: ["/astrology/venus", "/astrology/mars", "/astrology/trine", "/astrology/venus-square-mars", "/astrology/venus-trine-mars-synastry", "/astrology/four-elements"]
 faq:
   - q: "What does Venus trine Mars mean in a birth chart?"
@@ -46,7 +46,7 @@ Ease has its own quiet trap. Because desire and action rarely argue in you, you 
 
 In a chart, Venus trine Mars tends to show as easy traffic between wanting and doing, styled by the signs and set by the houses: Venus in the 7th trine Mars in the 11th, for instance, might let the warmth you bring to a partner and the energy you bring to friends feed each other. About 1 person in 19 is born with Venus and Mars within 6° of a trine. Within a degree or two, that ease between wanting and doing becomes a theme of the chart; near the edge of the orb, it's more of a background warmth.
 
-Venus is the faster of the two on most days: it crosses a sign in about four to five weeks, Mars in about six to seven. So it's usually Venus that closes or widens the gap, and many astrologers feel a trine that's still closing as stronger than one that's opening ([applying and separating aspects](/astrology/applying-and-separating-aspects/)). Each also turns retrograde from time to time, Venus about every 18 months and Mars about every two years. Born during either, you may know what you want well before you act on it: I read that as the same ease working inward first, a rhythm rather than a delay ([natal retrograde planets](/blog/retrograde-planets/)).
+Venus is the faster of the two on most days: it crosses a sign in about three to four weeks, Mars in about six to seven. So it's usually Venus that closes or widens the gap, and many astrologers feel a trine that's still closing as stronger than one that's opening ([applying and separating aspects](/astrology/applying-and-separating-aspects/)). Each also turns retrograde from time to time, Venus about every 18 months and Mars about every two years. Born during either, you may know what you want well before you act on it: I read that as the same ease working inward first, a rhythm rather than a delay ([natal retrograde planets](/blog/retrograde-planets/)).
 
 Venus and Mars can meet in every aspect, and each one wires value and action differently:
 

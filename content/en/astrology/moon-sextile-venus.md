@@ -14,7 +14,7 @@ facts:
   - { k: "Nature", v: "Soft: an opening between need and affection" }
   - { k: "How common", v: "About 1 person in 11, within 8°" }
   - { k: "Signs apart", v: "Two: fire with air, or earth with water" }
-  - { k: "Faster of the two", v: "The Moon, about 13° a day; Venus takes about 4 to 5 weeks per sign" }
+  - { k: "Faster of the two", v: "The Moon, about 13° a day; Venus takes about 3 to 4 weeks per sign" }
   - { k: "Venus retrograde", v: "About every 18 months, for about 6 weeks" }
 related: ["/astrology/moon", "/astrology/venus", "/astrology/sextile", "/blog/retrograde-planets", "/astrology/moon-sextile-venus-synastry"]
 faq:

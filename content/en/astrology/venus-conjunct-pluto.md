@@ -14,7 +14,7 @@ facts:
   - { k: "Nature", v: "A meeting: valuing and renewal as one" }
   - { k: "How common", v: "About 1 person in 30, within 6°" }
   - { k: "Faster of the two", v: "Venus, by far" }
-  - { k: "Time in each sign", v: "Venus about 4 to 5 weeks; Pluto 12 to 31 years" }
+  - { k: "Time in each sign", v: "Venus about 3 to 4 weeks; Pluto 12 to 31 years" }
 related: ["/astrology/venus", "/astrology/pluto", "/astrology/conjunction", "/astrology/venus-opposite-pluto", "/astrology/venus-conjunct-pluto-synastry"]
 faq:
   - q: "What does Venus conjunct Pluto mean in a birth chart?"

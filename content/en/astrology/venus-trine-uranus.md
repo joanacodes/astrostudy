@@ -14,7 +14,7 @@ facts:
   - { k: "Nature", v: "Soft: the two support each other" }
   - { k: "How common", v: "About 1 person in 16, within 6°" }
   - { k: "Signs apart", v: "Four, usually in the same element" }
-  - { k: "Time in each sign", v: "Venus about 4 to 5 weeks; Uranus about 7 years" }
+  - { k: "Time in each sign", v: "Venus about 3 to 4 weeks; Uranus about 7 years" }
 related: ["/astrology/venus", "/astrology/uranus", "/astrology/trine", "/astrology/venus-trine-uranus-synastry", "/astrology/transiting-uranus-trine-natal-venus"]
 faq:
   - q: "What does Venus trine Uranus mean in a birth chart?"

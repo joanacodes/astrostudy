@@ -14,7 +14,7 @@ facts:
   - { k: "Nature", v: "Soft: an opening you have to use" }
   - { k: "How common", v: "About 1 person in 14, within 6°" }
   - { k: "Signs apart", v: "Two: fire with air, earth with water" }
-  - { k: "Time in each sign", v: "Venus about 4 to 5 weeks; Jupiter about a year" }
+  - { k: "Time in each sign", v: "Venus about 3 to 4 weeks; Jupiter about a year" }
 related: ["/astrology/venus", "/astrology/jupiter", "/astrology/sextile", "/astrology/venus-sextile-jupiter-synastry", "/astrology/transiting-jupiter-sextile-natal-venus"]
 faq:
   - q: "What does Venus sextile Jupiter mean in a birth chart?"

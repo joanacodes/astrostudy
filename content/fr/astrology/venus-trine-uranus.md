@@ -15,7 +15,7 @@ facts:
   - { k: "Nature", v: "Doux : les deux se soutiennent" }
   - { k: "Fréquence", v: "Environ 1 personne sur 16, à 6° près" }
   - { k: "Écart en signes", v: "Quatre, en général dans le même élément" }
-  - { k: "Temps dans chaque signe", v: "Vénus environ 4 à 5 semaines ; Uranus environ 7 ans" }
+  - { k: "Temps dans chaque signe", v: "Vénus environ 3 à 4 semaines ; Uranus environ 7 ans" }
 related: ["/astrology/venus", "/astrology/uranus", "/astrology/trine", "/astrology/venus-trine-uranus-synastry", "/astrology/transiting-uranus-trine-natal-venus"]
 faq:
   - q: "Que veut dire Vénus trigone Uranus dans un thème natal ?"

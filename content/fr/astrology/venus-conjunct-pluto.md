@@ -15,7 +15,7 @@ facts:
   - { k: "Nature", v: "Une rencontre : aimer et renouveler ne font qu’un" }
   - { k: "Fréquence", v: "Environ 1 personne sur 30, à 6° près" }
   - { k: "Le plus rapide des deux", v: "Vénus, de loin" }
-  - { k: "Temps dans chaque signe", v: "Vénus environ 4 à 5 semaines ; Pluton 12 à 31 ans" }
+  - { k: "Temps dans chaque signe", v: "Vénus environ 3 à 4 semaines ; Pluton 12 à 31 ans" }
 related: ["/astrology/venus", "/astrology/pluto", "/astrology/conjunction", "/astrology/venus-opposite-pluto", "/astrology/venus-conjunct-pluto-synastry"]
 faq:
   - q: "Que veut dire Vénus conjonction Pluton dans un thème natal ?"

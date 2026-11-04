@@ -15,7 +15,7 @@ facts:
   - { k: "Nature", v: "Dur : une friction qui demande de la franchise" }
   - { k: "Fréquence", v: "Environ 1 personne sur 15, à 6° près" }
   - { k: "Écart en signes", v: "Trois, en général dans le même mode" }
-  - { k: "Temps dans chaque signe", v: "Vénus environ 4 à 5 semaines ; Pluton 12 à 31 ans" }
+  - { k: "Temps dans chaque signe", v: "Vénus environ 3 à 4 semaines ; Pluton 12 à 31 ans" }
 related: ["/astrology/venus", "/astrology/pluto", "/astrology/square", "/astrology/venus-conjunct-pluto", "/astrology/venus-square-pluto-synastry"]
 faq:
   - q: "Que veut dire Vénus carré Pluton dans un thème natal ?"

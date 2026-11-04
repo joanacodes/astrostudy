@@ -15,7 +15,7 @@ facts:
   - { k: "Nature", v: "Doux : une ouverture entre le besoin et l’affection" }
   - { k: "Fréquence", v: "Environ 1 personne sur 11, à 8° près" }
   - { k: "Signes d’écart", v: "Deux : le feu avec l’air, ou la terre avec l’eau" }
-  - { k: "Le plus rapide des deux", v: "La Lune, environ 13° par jour ; Vénus met environ 4 à 5 semaines par signe" }
+  - { k: "Le plus rapide des deux", v: "La Lune, environ 13° par jour ; Vénus met environ 3 à 4 semaines par signe" }
   - { k: "Vénus rétrograde", v: "Environ tous les 18 mois, pendant environ 6 semaines" }
 related: ["/astrology/moon", "/astrology/venus", "/astrology/sextile", "/blog/retrograde-planets", "/astrology/moon-sextile-venus-synastry"]
 faq:

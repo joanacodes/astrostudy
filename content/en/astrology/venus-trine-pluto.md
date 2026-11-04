@@ -14,7 +14,7 @@ facts:
   - { k: "Nature", v: "Soft: depth that flows" }
   - { k: "How common", v: "About 1 person in 15, within 6°" }
   - { k: "Signs apart", v: "Four, usually in the same element" }
-  - { k: "Time in each sign", v: "Venus about 4 to 5 weeks; Pluto 12 to 31 years" }
+  - { k: "Time in each sign", v: "Venus about 3 to 4 weeks; Pluto 12 to 31 years" }
 related: ["/astrology/venus", "/astrology/pluto", "/astrology/trine", "/astrology/venus-square-pluto", "/astrology/venus-trine-pluto-synastry"]
 faq:
   - q: "What does Venus trine Pluto mean in a birth chart?"

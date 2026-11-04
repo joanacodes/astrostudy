@@ -14,7 +14,7 @@ facts:
   - { k: "Aspect", v: "Conjonction ☌, 0°" }
   - { k: "Nature", v: "Une rencontre : évaluer et renouveler agissent ensemble" }
   - { k: "Fréquence", v: "Environ 1 personne sur 29, à 6° près" }
-  - { k: "Temps dans chaque signe", v: "Vénus environ 4 à 5 semaines ; Uranus environ 7 ans" }
+  - { k: "Temps dans chaque signe", v: "Vénus environ 3 à 4 semaines ; Uranus environ 7 ans" }
   - { k: "Uranus rétrograde", v: "Environ cinq mois par an" }
 related: ["/astrology/venus", "/astrology/uranus", "/astrology/conjunction", "/astrology/venus-conjunct-uranus-synastry", "/astrology/transiting-uranus-conjunct-natal-venus"]
 faq:

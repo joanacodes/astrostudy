@@ -14,7 +14,7 @@ facts:
   - { k: "Nature", v: "A polarity: valuing across from renewing" }
   - { k: "How common", v: "About 1 person in 30, within 6°" }
   - { k: "Opposite signs", v: "Same modality, complementary elements" }
-  - { k: "Time in each sign", v: "Venus about 4 to 5 weeks; Pluto 12 to 31 years" }
+  - { k: "Time in each sign", v: "Venus about 3 to 4 weeks; Pluto 12 to 31 years" }
 related: ["/astrology/venus", "/astrology/pluto", "/astrology/opposition", "/astrology/pluto-square", "/astrology/venus-opposite-pluto-synastry"]
 faq:
   - q: "What does Venus opposite Pluto mean in a birth chart?"

@@ -14,7 +14,7 @@ facts:
   - { k: "Nature", v: "A meeting: need and affection work as one" }
   - { k: "How common", v: "About 1 person in 22, within 8°" }
   - { k: "In the sky", v: "About once a month, in the days around a new moon" }
-  - { k: "Faster of the two", v: "The Moon, about 13° a day; Venus takes about 4 to 5 weeks per sign" }
+  - { k: "Faster of the two", v: "The Moon, about 13° a day; Venus takes about 3 to 4 weeks per sign" }
 related: ["/astrology/moon", "/astrology/venus", "/astrology/conjunction", "/astrology/taurus", "/astrology/moon-conjunct-venus-synastry"]
 faq:
   - q: "What does Moon conjunct Venus mean in a birth chart?"

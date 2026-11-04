@@ -15,7 +15,7 @@ facts:
   - { k: "Nature", v: "Une polarité : aimer face à renouveler" }
   - { k: "Fréquence", v: "Environ 1 personne sur 30, à 6° près" }
   - { k: "Signes opposés", v: "Même mode, éléments complémentaires" }
-  - { k: "Temps dans chaque signe", v: "Vénus environ 4 à 5 semaines ; Pluton 12 à 31 ans" }
+  - { k: "Temps dans chaque signe", v: "Vénus environ 3 à 4 semaines ; Pluton 12 à 31 ans" }
 related: ["/astrology/venus", "/astrology/pluto", "/astrology/opposition", "/astrology/pluto-square", "/astrology/venus-opposite-pluto-synastry"]
 faq:
   - q: "Que veut dire Vénus opposition Pluton dans un thème natal ?"

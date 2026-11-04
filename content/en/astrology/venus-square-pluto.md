@@ -14,7 +14,7 @@ facts:
   - { k: "Nature", v: "Hard: friction that asks for honesty" }
   - { k: "How common", v: "About 1 person in 15, within 6°" }
   - { k: "Signs apart", v: "Three, usually in the same modality" }
-  - { k: "Time in each sign", v: "Venus about 4 to 5 weeks; Pluto 12 to 31 years" }
+  - { k: "Time in each sign", v: "Venus about 3 to 4 weeks; Pluto 12 to 31 years" }
 related: ["/astrology/venus", "/astrology/pluto", "/astrology/square", "/astrology/venus-conjunct-pluto", "/astrology/venus-square-pluto-synastry"]
 faq:
   - q: "What does Venus square Pluto mean in a birth chart?"

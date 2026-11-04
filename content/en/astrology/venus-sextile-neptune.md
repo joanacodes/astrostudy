@@ -14,7 +14,7 @@ facts:
   - { k: "Nature", v: "Soft: an opening you have to use" }
   - { k: "How common", v: "About 1 person in 15, within 6°" }
   - { k: "Signs apart", v: "Two: fire with air, earth with water" }
-  - { k: "Time in each sign", v: "Venus about 4 to 5 weeks; Neptune about 14 years" }
+  - { k: "Time in each sign", v: "Venus about 3 to 4 weeks; Neptune about 14 years" }
 related: ["/astrology/venus", "/astrology/neptune", "/astrology/sextile", "/astrology/venus-sextile-neptune-synastry", "/astrology/transiting-neptune-sextile-natal-venus"]
 faq:
   - q: "What does Venus sextile Neptune mean in a birth chart?"

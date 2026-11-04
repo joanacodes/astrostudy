@@ -15,7 +15,7 @@ facts:
   - { k: "Nature", v: "Doux : une ouverture qu’il faut saisir" }
   - { k: "Fréquence", v: "Environ 1 personne sur 15, à 6° près" }
   - { k: "Écart en signes", v: "Deux : le feu avec l’air, la terre avec l’eau" }
-  - { k: "Temps dans chaque signe", v: "Vénus environ 4 à 5 semaines ; Neptune environ 14 ans" }
+  - { k: "Temps dans chaque signe", v: "Vénus environ 3 à 4 semaines ; Neptune environ 14 ans" }
 related: ["/astrology/venus", "/astrology/neptune", "/astrology/sextile", "/astrology/venus-sextile-neptune-synastry", "/astrology/transiting-neptune-sextile-natal-venus"]
 faq:
   - q: "Que veut dire Vénus sextile Neptune dans un thème natal ?"

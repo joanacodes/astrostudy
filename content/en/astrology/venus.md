@@ -12,7 +12,7 @@ facts:
   - { k: "Symbol", v: "♀ — a circle above a cross" }
   - { k: "Type", v: "Planet; the morning and evening star" }
   - { k: "Distance from the Sun", v: "Never more than about 47°, seen from Earth" }
-  - { k: "Time in each sign", v: "About 4 to 5 weeks" }
+  - { k: "Time in each sign", v: "About 3 to 4 weeks" }
   - { k: "Rules", v: "Taurus and Libra" }
   - { k: "Exalted in", v: "Pisces" }
   - { k: "Weakened in", v: "Aries and Scorpio (detriment), Virgo (fall)" }
@@ -49,7 +49,7 @@ Its aspects are where it becomes yours. Venus is never more than about 47° from
 
 ## Venus through the signs {#through-the-signs}
 
-Venus spends about four to five weeks in each sign, and longer when it turns retrograde. Because it stays within about 47° of the Sun, it is in your Sun sign or no more than two signs away from it. In plain words:
+Venus spends about three to four weeks in each sign, and longer when it turns retrograde. Because it stays within about 47° of the Sun, it is in your Sun sign or no more than two signs away from it. In plain words:
 
 - **[Venus in Aries](/astrology/venus-in-aries/):** you love boldly and quickly, and like to make the first move.
 - **[Venus in Taurus](/astrology/venus-in-taurus/):** loyal and sensual, slow to commit and slower to let go; its own sign.
@@ -87,7 +87,7 @@ In [synastry](/synastry/), Venus shows where two people enjoy each other: shared
 
 ## Transits and Venus retrograde {#venus-retrograde}
 
-Venus crosses a sign in about four to five weeks, so its transits are short and gentle: a few days of warmth, pleasure or longing when it touches one of your planets. About every 18 months it turns retrograde for about six weeks — [Venus retrograde](/astrology/venus-retrograde/) — which astrologers read as a time for looking again at what, and whom, you value. It's weather, not a forecast: I don't give anyone dates for falling in love, marrying or leaving.
+Venus crosses a sign in about three to four weeks, so its transits are short and gentle: a few days of warmth, pleasure or longing when it touches one of your planets. About every 18 months it turns retrograde for about six weeks — [Venus retrograde](/astrology/venus-retrograde/) — which astrologers read as a time for looking again at what, and whom, you value. It's weather, not a forecast: I don't give anyone dates for falling in love, marrying or leaving.
 
 Being born during a Venus retrograde changes the rhythm of affection rather than its depth; I wrote about that rhythm in [natal retrograde planets](/blog/retrograde-planets/). When a slow planet meets your Venus — [Transiting Saturn conjunct natal Venus](/astrology/transiting-saturn-conjunct-natal-venus/), for instance — the season is longer, and love and values are asked to become more solid.
 

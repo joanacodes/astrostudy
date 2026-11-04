@@ -15,7 +15,7 @@ facts:
   - { k: "Nature", v: "Doux : une ouverture qu’il faut saisir" }
   - { k: "Fréquence", v: "Environ 1 personne sur 14, à 6° près" }
   - { k: "Écart en signes", v: "Deux : le feu avec l’air, la terre avec l’eau" }
-  - { k: "Temps dans chaque signe", v: "Vénus environ 4 à 5 semaines ; Jupiter environ un an" }
+  - { k: "Temps dans chaque signe", v: "Vénus environ 3 à 4 semaines ; Jupiter environ un an" }
 related: ["/astrology/venus", "/astrology/jupiter", "/astrology/sextile", "/astrology/venus-sextile-jupiter-synastry", "/astrology/transiting-jupiter-sextile-natal-venus"]
 faq:
   - q: "Que veut dire Vénus sextile Jupiter dans un thème natal ?"

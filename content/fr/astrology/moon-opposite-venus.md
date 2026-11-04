@@ -16,7 +16,7 @@ facts:
   - { k: "Fréquence", v: "Environ 1 personne sur 23, à 8° près" }
   - { k: "Signes d’écart", v: "Six : des signes opposés" }
   - { k: "Dans le ciel", v: "Environ une fois par mois, dans les jours qui entourent une pleine lune" }
-  - { k: "Le plus rapide des deux", v: "La Lune, environ 13° par jour ; Vénus met environ 4 à 5 semaines par signe" }
+  - { k: "Le plus rapide des deux", v: "La Lune, environ 13° par jour ; Vénus met environ 3 à 4 semaines par signe" }
 related: ["/astrology/moon", "/astrology/venus", "/astrology/opposition", "/astrology/full-moon", "/astrology/moon-opposite-venus-synastry"]
 faq:
   - q: "Que veut dire Lune opposition Vénus dans un thème natal ?"

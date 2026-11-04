@@ -15,7 +15,7 @@ facts:
   - { k: "Nature", v: "Doux : le goût et l’imaginaire en fluidité" }
   - { k: "Fréquence", v: "Environ 1 personne sur 15, à 6° près" }
   - { k: "Le plus rapide des deux", v: "Vénus, de loin" }
-  - { k: "Temps dans chaque signe", v: "Vénus environ 4 à 5 semaines ; Neptune environ 14 ans" }
+  - { k: "Temps dans chaque signe", v: "Vénus environ 3 à 4 semaines ; Neptune environ 14 ans" }
 related: ["/astrology/venus", "/astrology/neptune", "/astrology/trine", "/astrology/venus-conjunct-neptune", "/astrology/venus-trine-neptune-synastry"]
 faq:
   - q: "Que veut dire Vénus trigone Neptune dans un thème natal ?"

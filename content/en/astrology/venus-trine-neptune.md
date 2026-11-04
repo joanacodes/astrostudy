@@ -14,7 +14,7 @@ facts:
   - { k: "Nature", v: "Soft: taste and imagination in flow" }
   - { k: "How common", v: "About 1 person in 15, within 6°" }
   - { k: "Faster of the two", v: "Venus, by far" }
-  - { k: "Time in each sign", v: "Venus about 4 to 5 weeks; Neptune about 14 years" }
+  - { k: "Time in each sign", v: "Venus about 3 to 4 weeks; Neptune about 14 years" }
 related: ["/astrology/venus", "/astrology/neptune", "/astrology/trine", "/astrology/venus-conjunct-neptune", "/astrology/venus-trine-neptune-synastry"]
 faq:
   - q: "What does Venus trine Neptune mean in a birth chart?"

@@ -15,7 +15,7 @@ facts:
   - { k: "How common", v: "About 1 person in 23, within 8°" }
   - { k: "Signs apart", v: "Six: opposite signs" }
   - { k: "In the sky", v: "About once a month, in the days around a full moon" }
-  - { k: "Faster of the two", v: "The Moon, about 13° a day; Venus takes about 4 to 5 weeks per sign" }
+  - { k: "Faster of the two", v: "The Moon, about 13° a day; Venus takes about 3 to 4 weeks per sign" }
 related: ["/astrology/moon", "/astrology/venus", "/astrology/opposition", "/astrology/full-moon", "/astrology/moon-opposite-venus-synastry"]
 faq:
   - q: "What does Moon opposite Venus mean in a birth chart?"
