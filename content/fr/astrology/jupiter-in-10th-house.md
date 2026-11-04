@@ -33,7 +33,7 @@ Tout en haut du thème, près du Milieu du Ciel, Jupiter place votre croissance 
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La [maison 10](/astrology/10th-house/), c’est votre vie publique : le travail, la position, la réputation, ce que vous voulez bâtir dans le monde. Elle montre une direction, pas un intitulé de poste. Elle est angulaire, commence au [Milieu du Ciel](/astrology/midheaven/) en Placidus et dans les systèmes semblables, et son signe naturel est le Capricorne. Avec [Jupiter](/astrology/jupiter/) ici, la vocation devient une source de sens. Vous grandissez par le travail que vous offrez au monde, vos principes se voient dans votre façon de le faire, et l’on voit souvent en vous une personne qui enseigne, qui guide, ou qui croit en ce qu’elle fait.
+La [maison 10](/astrology/10th-house/), c’est votre vie publique : le travail, la position, la réputation, ce que vous voulez bâtir dans le monde. Elle montre une direction, pas un intitulé de poste. Maison angulaire, elle commence au [Milieu du Ciel](/astrology/midheaven/) en Placidus et dans les systèmes semblables, avec le Capricorne pour signe naturel. Dans cette maison, [Jupiter](/astrology/jupiter/) fait de la vocation une source de sens. Vous grandissez par le travail que vous offrez au monde, vos principes se voient dans votre façon de le faire, et l’on voit souvent en vous une personne qui enseigne, qui guide, ou qui croit en ce qu’elle fait.
 
 Le Capricorne, signe naturel de la maison, est la chute de Jupiter, et la maison 10 partage un peu de l’exigence de ce signe : ici, la croissance doit faire ses preuves en public, avec le temps. Jupiter dans cette maison ne promet ni réussite, ni célébrité, ni titre, et je ne lis pas un thème pour cela. Ce placement décrit la contribution que vous voulez apporter, et la façon dont vous grandissez en l’apportant.
 
@@ -41,11 +41,11 @@ Le Milieu du Ciel est l’endroit où le zodiaque croise le méridien, ce qui n�
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-Vie publique et vie privée tirent l’une sur l’autre ici. Une ou un partenaire qui comprend et soutient votre direction fait une vraie différence, et vous apportez souvent à ses ambitions de la générosité et des encouragements. La maison 4, en face, c’est le foyer ; avec Jupiter au sommet du thème, le risque est que le travail l’envahisse, ou que vous rapportiez à la maison votre rôle public, la personne qui guide et organise, quand il faudrait simplement vous.
+Vie publique et vie privée tirent l’une sur l’autre ici. Une ou un partenaire qui comprend et soutient votre direction fait une vraie différence, et vous apportez souvent à ses ambitions de la générosité et des encouragements. En face de la maison 10 se trouve la maison 4, le foyer, et avec Jupiter au sommet du thème, le risque est que le travail l’envahisse, ou que vous rapportiez à la maison votre rôle public, la personne qui guide et organise, quand il faudrait simplement vous.
 
 ## Au travail {#au-travail}
 
-C’est la maison où la croissance de Jupiter se voit le plus. L’enseignement, la direction d’équipes, le service public, le droit, l’université, l’édition, le mentorat, tout rôle où comptent les principes et la perspective peuvent vous convenir. On vous confie parfois des responsabilités tôt. Les occasions viennent souvent par la réputation ; une occasion n’est pourtant pas une garantie, et la suite compte toujours. La question à vous poser sans cesse : à quoi sert ce travail, et non de quoi il a l’air vu de l’extérieur.
+Nulle part la croissance de Jupiter ne se voit autant qu’ici. L’enseignement, la direction d’équipes, le service public, le droit, l’université, l’édition, le mentorat, tout rôle où comptent les principes et la perspective peuvent vous convenir. On vous confie parfois des responsabilités tôt. Les occasions viennent souvent par la réputation ; une occasion n’est pourtant pas une garantie, et la suite compte toujours. La question à vous poser sans cesse : à quoi sert ce travail, et non de quoi il a l’air vu de l’extérieur.
 
 ## Le plus difficile {#le-plus-difficile}
 
@@ -55,4 +55,4 @@ La croissance peut devenir statut : un titre, une réputation, l’échelon sui
 
 Définir ce qu’est pour vous une bonne vie de travail, avec des mots qui ne parlent pas de statut. Accompagner quelqu’un en mentor : le sens reste dans le travail. Garder une vie privée que votre rôle public ne peut pas atteindre. Refuser certaines des occasions qui se présentent. Et laisser votre parcours changer de forme à mesure que vous changez : la maison 10 montre une direction, et une direction peut tourner.
 
-Une réputation se fait sur ce qui se voit, et [mon carnet](/blog/i-tested-my-birth-chart/) ne comptait que ce que je pouvais vérifier : une coche ou une croix. Jupiter ne fait pas partie des trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith, et sur l’ensemble, environ un tiers a tenu. Je lis donc Jupiter en maison 10 comme une direction qui mérite réflexion, jamais comme une prédiction de votre carrière.
+Une réputation se fait sur ce qui se voit, et [mon carnet](/blog/i-tested-my-birth-chart/) ne comptait que ce que je pouvais vérifier : une coche ou une croix. Trois noms se sont détachés dans ce décompte, Saturne, Chiron et Lilith, qui ont tenu bien plus souvent que le reste ; Jupiter n’en fait pas partie, et sur l’ensemble, environ un tiers a tenu. Jupiter en maison 10 est donc, pour moi, une direction qui mérite réflexion, jamais une prédiction de votre carrière.

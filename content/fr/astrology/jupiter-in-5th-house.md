@@ -33,7 +33,7 @@ C’est par le plaisir que grandit Jupiter en maison 5 : la chanson, le jeu, l�
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La [maison 5](/astrology/5th-house/), c’est ce que vous faites pour la joie : la créativité, le plaisir, le jeu et les amours, et la façon dont vous vous montrez quand personne ne vous note. Elle est succédente, son signe naturel est le Lion, et la tradition l’appelait la Fortune favorable et y plaçait la joie de Vénus. Avec [Jupiter](/astrology/jupiter/) ici, vous grandissez en prenant du plaisir. Vous apprenez par les loisirs, l’art et les jeux, vous trouvez vos convictions dans ce qui vous allume, et votre générosité prend la forme d’un élan qui entraîne les autres.
+La [maison 5](/astrology/5th-house/), c’est ce que vous faites pour la joie : la créativité, le plaisir, le jeu et les amours, et la façon dont vous vous montrez quand personne ne vous note. Succédente, avec le Lion pour signe naturel, elle portait dans la tradition le nom de Fortune favorable, et Vénus y avait sa joie. Ici, [Jupiter](/astrology/jupiter/) grandit par le plaisir. Vous apprenez par les loisirs, l’art et les jeux, vous trouvez vos convictions dans ce qui vous allume, et votre générosité prend la forme d’un élan qui entraîne les autres.
 
 La Fortune favorable est un nom ancien, pas une promesse. La maison 5 couvrait aussi les jeux de hasard, et l’on prend parfois Jupiter ici pour une série de chances ; je ne lis dans un thème ni la chance, ni les gains, ni les pertes. La tradition lui donnait aussi les enfants. Aucun thème ne peut dire si vous en aurez ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et je ne lis pas [le thème des enfants](/astrology/childrens-charts/). Ce que je lis ici, dans une vie d’adulte, c’est votre propre capacité à la joie.
 
@@ -41,11 +41,11 @@ Comme toutes les maisons, la maison 5 demande votre heure de naissance. En Placi
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-L’amour, pour ce placement, est un lieu de croissance. Vous aimez souvent avec générosité et légèreté : le voyage surprise, le grand geste, la soirée qui tourne à l’aventure. Auprès de vous, l’autre se sent souvent plus en vie. Le risque : préférer les débuts, le frisson du nouveau, et perdre l’intérêt quand le jeu devient habitude. La maison 11, en face, où Jupiter a sa propre joie, rappelle que l’amitié fait aussi partie d’une histoire d’amour qui dure.
+L’amour, pour ce placement, est un lieu de croissance. Vous aimez souvent avec générosité et légèreté : le voyage surprise, le grand geste, la soirée qui tourne à l’aventure. Auprès de vous, l’autre se sent souvent plus en vie. Le piège : préférer les débuts, le frisson du nouveau, et perdre l’intérêt quand le jeu devient habitude. La maison 11, en face, où Jupiter a sa propre joie, rappelle que l’amitié fait aussi partie d’une histoire d’amour qui dure.
 
 ## Au travail {#au-travail}
 
-Les métiers qui vous laissent créer ou jouer vous conviennent souvent : les arts, la scène, le design, le jeu, le sport, le spectacle, un enseignement qui rend l’apprentissage joyeux. Vous grandissez souvent en faisant d’un loisir un savoir-faire, puis d’un savoir-faire une chose que vous partagez. L’enseignement est aussi un débouché naturel : vous savez donner à une salle l’envie d’apprendre. Les occasions peuvent venir de ce que vous créez pour le plaisir. À surveiller : le risque créatif pris pour le frisson plutôt que pour l’œuvre, car une occasion n’est pas une garantie.
+Les métiers qui vous laissent créer ou jouer vous conviennent souvent : les arts, la scène, le design, le jeu, le sport, le spectacle, un enseignement qui rend l’apprentissage joyeux. Vous grandissez souvent en faisant d’un loisir un savoir-faire, puis d’un savoir-faire une chose que vous partagez. L’enseignement est aussi un débouché naturel : vous savez donner à une salle l’envie d’apprendre. Les occasions peuvent venir de ce que vous créez pour le plaisir. Là où cela peut mal tourner : le risque créatif pris pour le frisson plutôt que pour l’œuvre, car une occasion n’est pas une garantie.
 
 ## Le plus difficile {#le-plus-difficile}
 
@@ -55,4 +55,4 @@ La joie peut devenir une obligation : le besoin d’être drôle, de passer le 
 
 Faire chaque semaine quelque chose que personne ne verra. Terminer un projet créatif par an, même petit, et prendre exprès un risque créatif, assez petit pour y survivre s’il échoue. Jouer régulièrement, pas seulement en vacances, et accepter que ce soit parfois bête. En amour, chercher le jeu qui dure : les plaisanteries partagées, les rituels, les petites aventures des semaines ordinaires. Et vous rappeler qu’une maison nommée la Fortune favorable vous demande quand même de vous présenter et de faire le travail.
 
-Dans [mon carnet](/blog/i-tested-my-birth-chart/), je n’ai pas cru sur parole un placement qui sonne heureux plus qu’un autre. Jupiter ne fait pas partie des trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith, et environ un tiers de l’ensemble a tenu. Jupiter en maison 5 se lit donc pour la joie que ce placement décrit, jamais comme une prédiction de fortune.
+Dans [mon carnet](/blog/i-tested-my-birth-chart/), je n’ai pas cru sur parole un placement qui sonne heureux plus qu’un autre. Trois placements seulement ont tenu bien plus souvent que les autres, Saturne, Chiron et Lilith. Jupiter n’en était pas, et environ un tiers de l’ensemble a tenu. Jupiter en maison 5 se lit donc pour la joie que ce placement décrit, jamais comme une prédiction de fortune.

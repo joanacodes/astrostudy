@@ -41,11 +41,11 @@ Jupiter was in Sagittarius from December 1982 to January 1984, December 1994 to 
 
 ## In close relationships {#in-close-relationships}
 
-The partner who suits this Jupiter is going somewhere too: a fellow traveller, a partner in the big conversation, a person who gives you room and wants it too. Honesty matters to you, sometimes more than tact. You're generous with enthusiasm and with the wider view, and you often help a partner see past a problem to what it might teach. The risk is restlessness, or treating closeness as a limit on freedom. A bond grows when exploring includes exploring each other, which can perfectly well happen at home.
+The partner who suits this Jupiter is going somewhere too: a fellow traveller, a partner in the big conversation, a person who gives you room and wants it too. Honesty matters to you, sometimes more than tact. You're generous with enthusiasm and with the wider view, and you often help a partner see past a problem to what it might teach. Restlessness is the snag, or treating closeness as a limit on freedom. A bond grows when exploring includes exploring each other, which can perfectly well happen at home.
 
 ## At work {#at-work}
 
-At work, this Jupiter thrives on teaching, study, publishing, travel, translation, international or cross-cultural work, coaching, anything that widens what people know. You're often the one who sees the larger purpose of a project and can explain it. Your openings tend to come from stepping beyond your patch: a course, a trip, a neighbouring field you dared to enter. Watch the gap between the vision and the detail; you may promise the destination before the route is mapped.
+At work, this Jupiter thrives on teaching, study, publishing, travel, translation, international or cross-cultural work, coaching, anything that widens what people know. It's often you who sees the larger purpose of a project and can explain it. Your openings tend to come from stepping beyond your patch: a course, a trip, a neighbouring field you dared to enter. Watch the gap between the vision and the detail; you may promise the destination before the route is mapped.
 
 ## The hard part {#the-hard-part}
 

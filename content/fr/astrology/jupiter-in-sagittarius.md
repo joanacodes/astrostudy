@@ -42,7 +42,7 @@ Jupiter était en Sagittaire de décembre 1982 à janvier 1984, de décembre 199
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-La personne qui convient à ce placement a sa propre route : une compagne ou un compagnon de voyage, une ou un partenaire de grande conversation, une personne qui vous laisse de l’espace et en réclame aussi. L’honnêteté compte pour vous, parfois plus que le tact. Votre générosité passe par l’enthousiasme et la vue large, et vous aidez souvent l’autre à voir au-delà d’un problème, vers ce qu’il pourrait lui apprendre. Le risque : l’agitation, ou une proximité vécue comme une limite à la liberté. Le lien grandit quand l’exploration inclut celle de l’autre, ce qui peut très bien se faire à la maison.
+La personne qui convient à ce placement a sa propre route : une compagne ou un compagnon de voyage, une ou un partenaire de grande conversation, une personne qui vous laisse de l’espace et en réclame aussi. L’honnêteté compte pour vous, parfois plus que le tact. Votre générosité passe par l’enthousiasme et la vue large, et vous aidez souvent l’autre à voir au-delà d’un problème, vers ce qu’il pourrait lui apprendre. L’accroc : l’agitation, ou une proximité vécue comme une limite à la liberté. Le lien grandit quand l’exploration inclut celle de l’autre, ce qui peut très bien se faire à la maison.
 
 ## Au travail {#au-travail}
 

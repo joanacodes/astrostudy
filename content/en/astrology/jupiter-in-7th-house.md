@@ -32,7 +32,7 @@ With Jupiter in the 7th house, the other person is often where your growing happ
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 7th house](/astrology/7th-house/) holds partners and close one-to-one bonds: love, marriage, business partnerships, clients, open rivals, and what you look for in the person facing you. It's angular, beginning at the [Descendant](/astrology/descendant/), and its natural sign is Libra. With [Jupiter](/astrology/jupiter/) here, other people widen your world. You learn through partnership, you meet beliefs unlike your own across the table and grow from them, and you're generous with the people you commit to.
+Partners and close one-to-one bonds belong to [the 7th house](/astrology/7th-house/): love, marriage, business partnerships, clients, open rivals, and what you look for in the person facing you. Angular, it opens at the [Descendant](/astrology/descendant/), and Libra is its natural sign. With [Jupiter](/astrology/jupiter/) here, other people widen your world. You learn through partnership, you meet beliefs unlike your own across the table and grow from them, and you're generous with the people you commit to.
 
 There's a mirror in this house. The partners who draw you may seem wise, generous or sure of their beliefs, and part of the work is noticing that the same qualities live in you. A partner can widen your world, but no single person can be the whole of it. Jupiter here doesn't promise marriage, or say when, or with whom; I don't read a chart for that.
 
@@ -44,7 +44,7 @@ This is the house where Jupiter does its relationship work most directly. You te
 
 ## At work {#at-work}
 
-At work, you grow through partnership: consulting, client work, negotiation, mediation, agency work, business partnerships, any role built on one-to-one relationships. People often trust you to represent them fairly and to see the best in a deal. Openings arrive through other people. What to watch is overpromising to the person across the table because you believe in the outcome, or signing up before you've read the terms.
+At work, you grow through partnership: consulting, client work, negotiation, mediation, agency work, business partnerships, any role built on one-to-one relationships. People often trust you to represent them fairly and to see the best in a deal. Openings arrive through other people. The pitfall is overpromising to the person across the table because you believe in the outcome, or signing up before you've read the terms.
 
 ## The hard part {#the-hard-part}
 
@@ -54,4 +54,4 @@ Waiting for someone else to bring the growth. With Jupiter in the 7th, it's easy
 
 Name the qualities you admire in your partners, and practise them yourself. Make agreements explicit, in love and in business. Let a partner be ordinary, and see what grows from that. Take a rival's criticism as information. And keep some growth of your own going, a subject, a practice, a friendship, that doesn't depend on any one relationship.
 
-Consent mattered in [my notebook](/blog/i-tested-my-birth-chart/) as much as in synastry: I tested other people's charts only with their permission. Jupiter wasn't among the three that held far more often, Saturn, Chiron and Lilith, and overall about a third held. So a 7th-house Jupiter is part of how I read your relationships, never the verdict on them.
+Consent mattered in [my notebook](/blog/i-tested-my-birth-chart/) as much as in synastry: I tested other people's charts only with their permission. Saturn, Chiron and Lilith were the ones that held far more often, a trio Jupiter didn't belong to, and across the notebook about a third held. So a 7th-house Jupiter is part of how I read your relationships, never the verdict on them.

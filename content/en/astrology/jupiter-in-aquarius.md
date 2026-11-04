@@ -41,11 +41,11 @@ Jupiter's Aquarius years include February 1973 to March 1974, February 1985 to F
 
 ## In close relationships {#in-close-relationships}
 
-In love, friendship comes first. You grow with a partner who is also a friend, who shares your ideals or argues with them well, and who gives you room to be unusual. You're often generous with freedom, encouraging someone to become more themselves rather than more like you. The risk is distance: caring about people in general more easily than about the one in front of you, or turning a hurt into a debate. A bond grows when your ideals make room for the small, particular needs of one person.
+In love, friendship comes first. You grow with a partner who is also a friend, who shares your ideals or argues with them well, and who gives you room to be unusual. Freedom is what you give most generously, encouraging someone to become more themselves rather than more like you. Distance is the danger: caring about people in general more easily than about the one in front of you, or turning a hurt into a debate. A bond grows when your ideals make room for the small, particular needs of one person.
 
 ## At work {#at-work}
 
-Networks, teams and causes are where this Jupiter grows at work: technology, science, research, social enterprise, campaigning, community organising, any role that gathers people round a shared aim or a better system. You're often the one with the idea that sounds odd now and obvious in ten years. Your openings tend to come through groups and connections. Be wary of impatience with how slowly institutions change, and of principles so firm they can't bend for the people they're meant to serve.
+Networks, teams and causes are where this Jupiter grows at work: technology, science, research, social enterprise, campaigning, community organising, any role that gathers people round a shared aim or a better system. Your ideas often sound odd now and obvious in ten years. Groups and connections bring most of your openings. Be wary of impatience with how slowly institutions change, and of principles so firm they can't bend for the people they're meant to serve.
 
 ## The hard part {#the-hard-part}
 
@@ -55,4 +55,4 @@ Ideas can become a creed. Fixed air holds a belief steadily, and here a vision o
 
 Test your ideas in one real, small community, a team, a street, a group of friends, where you can see their effect on actual people. Let a friend you respect disagree with you, and stay curious about why. Put some of your generosity into one person, specifically and face to face. Uranus and Saturn, the sign's two rulers, are worth reading together here: Uranus for the change you want, Saturn for the structure that would make it last.
 
-My [notebook](/blog/i-tested-my-birth-chart/) was, in its way, an Aquarian project: one method, applied to everyone, with their consent. Jupiter wasn't among the three that held far more often, Saturn, Chiron and Lilith, and about a third of everything held. So I read an Aquarius Jupiter as one part of a larger system, your whole chart, never as the headline.
+My [notebook](/blog/i-tested-my-birth-chart/) was, in its way, an Aquarian project: one method, applied to everyone, with their consent. Saturn, Chiron and Lilith stood apart by holding far more often; Jupiter didn't, and the notebook as a whole came out at about a third. An Aquarius Jupiter, for me, is one part of a larger system, your whole chart, never the headline.

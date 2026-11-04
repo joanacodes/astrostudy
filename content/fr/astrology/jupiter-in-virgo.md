@@ -42,7 +42,7 @@ Parmi les passages de Jupiter en Vierge : de septembre 1979 à octobre 1980, de
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-Vous montrez votre foi en quelqu’un par le soin pratique : l’étagère réparée, le rendez-vous qu’on n’oublie pas, l’organisation pensée pour que sa semaine se passe bien. Vous grandissez auprès d’une ou d’un partenaire qui remarque ce genre d’attention et vous la rend, et qui vous laisse aussi vos imperfections. Le risque : aider à la place de se rapprocher, ou améliorer quelqu’un qui demandait seulement une oreille. Des exigences qui vous servent bien au travail peuvent ressembler, dans un couple, à une liste de contrôle. Le lien grandit quand votre soin s’accompagne d’un peu moins de corrections.
+Vous montrez votre foi en quelqu’un par le soin pratique : l’étagère réparée, le rendez-vous qu’on n’oublie pas, l’organisation pensée pour que sa semaine se passe bien. Vous grandissez auprès d’une ou d’un partenaire qui remarque ce genre d’attention et vous la rend, et qui vous laisse aussi vos imperfections. Aider peut pourtant remplacer la proximité, ou tourner à vouloir améliorer quelqu’un qui demandait seulement une oreille. Des exigences qui vous servent bien au travail peuvent ressembler, dans un couple, à une liste de contrôle. Un soin avec un peu moins de corrections, voilà ce qui fait grandir le lien.
 
 ## Au travail {#au-travail}
 
@@ -56,4 +56,4 @@ La vue d’ensemble peut se perdre sous les corrections. La confiance attend par
 
 Faire du *suffisamment bien* l’un de vos principes, et vous y exercer exprès. Garder une grande question à côté de la liste du jour, quelque chose vers quoi vous apprenez plutôt qu’une chose à réparer. Enseigner votre méthode : vous verrez tout ce que vous avez construit. Laisser entrer dans votre semaine quelque chose qui ne se mesure pas, la musique, la marche, une vue qui ne sert à rien, pour que les Poissons, le signe d’en face, aient leur mot à dire. Et lire le signe et les aspects de Mercure à côté de Jupiter : ils décident d’une bonne part de sa façon de raisonner.
 
-Dans [mon carnet](/blog/i-tested-my-birth-chart/), pas de demi-point, ce que Jupiter en Vierge approuverait : une coche ou une croix. Saturne, Chiron et Lilith ont tenu bien plus souvent que tout le reste ; Jupiter ne fait pas partie de ce trio, et environ un tiers de l’ensemble a tenu. Je lis donc ce placement avec soin, et je vous préviens quand une partie de la lecture en dépend.
+Dans [mon carnet](/blog/i-tested-my-birth-chart/), pas de demi-point, ce que Jupiter en Vierge approuverait : une coche ou une croix. Saturne, Chiron et Lilith ont tenu bien plus souvent que tout le reste ; Jupiter ne fait pas partie de ce trio, et environ un tiers de l’ensemble a tenu. Je lis ce placement avec soin, par conséquent, et je vous préviens quand une partie de la lecture en dépend.

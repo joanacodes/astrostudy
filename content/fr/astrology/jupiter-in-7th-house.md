@@ -33,7 +33,7 @@ Avec Jupiter en maison 7, c’est souvent par l’autre que vous grandissez : l
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La [maison 7](/astrology/7th-house/) rassemble les partenaires et les liens en tête-à-tête : l’amour, le mariage, les associations, les clients, les adversaires déclarés, et ce que vous cherchez chez la personne en face de vous. Elle est angulaire, commence au [Descendant](/astrology/descendant/), et son signe naturel est la Balance. Avec [Jupiter](/astrology/jupiter/) ici, les autres élargissent votre monde. Vous apprenez par le partenariat, vous rencontrez de l’autre côté de la table des convictions différentes des vôtres et vous en grandissez, et votre générosité va aux personnes avec qui vous vous engagez.
+Les partenaires et les liens en tête-à-tête appartiennent à la [maison 7](/astrology/7th-house/) : l’amour, le mariage, les associations, les clients, les adversaires déclarés, et ce que vous cherchez chez la personne en face de vous. Angulaire, elle s’ouvre au [Descendant](/astrology/descendant/), et la Balance est son signe naturel. Avec [Jupiter](/astrology/jupiter/) ici, les autres élargissent votre monde. Vous apprenez par le partenariat, vous rencontrez de l’autre côté de la table des convictions différentes des vôtres et vous en grandissez, et votre générosité va aux personnes avec qui vous vous engagez.
 
 Il y a un miroir dans cette maison. Les personnes qui vous attirent semblent souvent sages, généreuses ou sûres de leurs convictions, et une part du travail consiste à remarquer que ces qualités vivent aussi en vous. Une ou un partenaire peut élargir votre monde, mais personne ne peut en être le tout. Jupiter ici ne promet pas de mariage, ni ne dit quand, ni avec qui ; je ne lis pas un thème pour cela.
 
@@ -45,7 +45,7 @@ C’est la maison où Jupiter fait le plus directement son travail relationnel. 
 
 ## Au travail {#au-travail}
 
-Au travail, vous grandissez par le partenariat : le conseil, la relation client, la négociation, la médiation, le travail d’agence, les associations, tout rôle bâti sur des relations en tête-à-tête. On vous fait souvent confiance pour représenter les gens avec loyauté et voir le meilleur d’un accord. Les occasions arrivent par les autres. À surveiller : trop promettre à la personne en face parce que vous croyez au résultat, ou signer avant d’avoir lu les conditions.
+Au travail, vous grandissez par le partenariat : le conseil, la relation client, la négociation, la médiation, le travail d’agence, les associations, tout rôle bâti sur des relations en tête-à-tête. On vous fait souvent confiance pour représenter les gens avec loyauté et voir le meilleur d’un accord. Les occasions arrivent par les autres. L’écueil : trop promettre à la personne en face parce que vous croyez au résultat, ou signer avant d’avoir lu les conditions.
 
 ## Le plus difficile {#le-plus-difficile}
 
@@ -55,4 +55,4 @@ Attendre que quelqu’un d’autre apporte la croissance. Avec Jupiter en maison
 
 Nommer les qualités que vous admirez chez vos partenaires, et les pratiquer vous-même. Rendre les accords explicites, en amour comme en affaires. Laisser l’autre être ordinaire, et voir ce qui en grandit. Prendre la critique d’une rivale ou d’un rival comme une information. Et garder une croissance bien à vous, un sujet, une pratique, une amitié, qui ne dépende d’aucune relation en particulier.
 
-Le consentement comptait dans [mon carnet](/blog/i-tested-my-birth-chart/) autant qu’en synastrie : je n’ai testé le thème de quelqu’un d’autre qu’avec son accord. Jupiter ne fait pas partie des trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith, et sur l’ensemble, environ un tiers a tenu. Jupiter en maison 7 fait donc partie de ma lecture de vos relations, jamais du verdict sur elles.
+Le consentement comptait dans [mon carnet](/blog/i-tested-my-birth-chart/) autant qu’en synastrie : je n’ai testé le thème de quelqu’un d’autre qu’avec son accord. Le trio qui a tenu bien plus souvent, Saturne, Chiron et Lilith, ne comprend pas Jupiter, et sur tout le carnet, environ un tiers a tenu. Jupiter en maison 7 fait donc partie de ma lecture de vos relations, jamais du verdict sur elles.

@@ -42,7 +42,7 @@ Le Capricorne a accueilli Jupiter de janvier 1984 à février 1985, de janvier 1
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-En amour, vous montrez votre foi en quelqu’un par la fiabilité : être là, tenir parole, bâtir une vie commune pas à pas. Vous mettez parfois du temps à vous engager, et une fois l’engagement pris, vous tenez bon. La chaleur passe plutôt par les actes que par les grandes déclarations. Le risque : repousser la joie jusqu’à ce que le travail soit fini, ou traiter une relation comme une responsabilité de plus à bien gérer. Le lien grandit quand vous le laissez être un lieu de repos autant qu’un projet.
+En amour, vous montrez votre foi en quelqu’un par la fiabilité : être là, tenir parole, bâtir une vie commune pas à pas. Vous mettez parfois du temps à vous engager, et une fois l’engagement pris, vous tenez bon. La chaleur passe plutôt par les actes que par les grandes déclarations. Le risque : repousser la joie jusqu’à ce que le travail soit fini, ou traiter une relation comme une responsabilité de plus à bien gérer. Laissez la relation être un lieu de repos autant qu’un projet, et elle grandira.
 
 ## Au travail {#au-travail}
 

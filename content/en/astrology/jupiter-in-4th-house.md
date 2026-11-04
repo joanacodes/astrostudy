@@ -32,9 +32,9 @@ At the bottom of the chart, under your feet at the moment of birth, lies the 4th
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 4th house](/astrology/4th-house/) is home, roots and family: where you come from, what you build in order to belong, and the private self underneath your public life. It's angular, beginning at the [Imum Coeli](/astrology/imum-coeli/), the point opposite the Midheaven, and its natural sign is Cancer. With [Jupiter](/astrology/jupiter/) here, the foundation is where you grow. Your beliefs often took root early, at home or in a culture you belong to, and much of your learning happens in private: reading at the kitchen table, conversations late at night, the slow understanding of where you come from.
+Home, roots and family: [the 4th house](/astrology/4th-house/) is where you come from, what you build in order to belong, and the private self underneath your public life. It's angular, beginning at the [Imum Coeli](/astrology/imum-coeli/), the point opposite the Midheaven, and its natural sign is Cancer. [Jupiter](/astrology/jupiter/) in this house grows from the ground up. Your beliefs often took root early, at home or in a culture you belong to, and much of your learning happens in private: reading at the kitchen table, conversations late at night, the slow understanding of where you come from.
 
-Cancer, this house's natural sign, is where Jupiter is exalted. That's a matter of signs rather than houses, but it suits a Jupiter that grows from home. What it gives you is a base that can hold other people: they tend to find room in your home and in your attention.
+Cancer, the house's natural sign, is also the sign of Jupiter's exaltation, which makes a pleasing echo. That's a matter of signs rather than houses, but it suits a Jupiter that grows from home. What it gives you is a base that can hold other people: they tend to find room in your home and in your attention.
 
 In Placidus, the house system I use, the 4th begins at the IC, which moves with the birth time just as the Ascendant does ([what changes without a birth time](/blog/unknown-birth-time/)). Close to that cusp, a few minutes can put Jupiter in [Jupiter in the 3rd house](/astrology/jupiter-in-3rd-house/) territory instead; at the far end of the house, the ground of [Jupiter in the 5th house](/astrology/jupiter-in-5th-house/) begins.
 
@@ -44,7 +44,7 @@ Home is where your love shows. You may want a lively household, a table with ext
 
 ## At work {#at-work}
 
-Work that starts from home or comes back to it often suits this Jupiter: working from home, family businesses, property, housing, hospitality, history, genealogy, heritage, anything rooted in a place. The 10th house opposite is your public life; with Jupiter in the 4th, growth there tends to rest on a private base, a settled home, a sense of belonging, a philosophy worked out in private. Openings can come through family or local roots. What to watch is staying close to home when the next step would take you further out.
+Work that starts from home or comes back to it often suits this Jupiter: working from home, family businesses, property, housing, hospitality, history, genealogy, heritage, anything rooted in a place. Your public life, the 10th house, sits directly across the chart, and with Jupiter in the 4th your growth there tends to rest on a private base: a settled home, a sense of belonging, a philosophy worked out in private. Family or local roots can open doors. Keep an eye on the pull to stay close to home when the next step would take you further out.
 
 ## The hard part {#the-hard-part}
 
@@ -54,4 +54,4 @@ Roots can hold you in place. Beliefs inherited at home can feel like the truth i
 
 Look at which beliefs you inherited and which you chose, and keep the ones you'd choose today. Make one corner of home that's only yours. Learn about where you come from, the family stories, the place, and let what you find widen your view rather than narrow it. Invite people in, and also let yourself be a guest. And notice that growth from a secure base is still growth: you don't have to leave home to widen your world.
 
-The 4th is the most private house, and [my notebook](/blog/i-tested-my-birth-chart/) was private too: a tick or a cross, with each person's consent. Jupiter wasn't among the three that held far more often, Saturn, Chiron and Lilith, and overall about a third held. So I read a 4th-house Jupiter as one strand of your foundations, not the whole of them.
+The 4th is the most private house, and [my notebook](/blog/i-tested-my-birth-chart/) was private too: a tick or a cross, with each person's consent. When I added it all up, about a third held; the three that held far more often were Saturn, Chiron and Lilith, and Jupiter wasn't one of them. So I read a 4th-house Jupiter as one strand of your foundations, not the whole of them.

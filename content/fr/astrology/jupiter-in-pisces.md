@@ -34,7 +34,7 @@ Les Poissons sont le signe que la tradition donnait à Jupiter bien avant la dé
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-[Jupiter](/astrology/jupiter/) cherche du sens et rassemble l’expérience en un tout. Les [Poissons](/astrology/pisces/), signe d’eau mutable, adoucissent les contours, imaginent, ressentent et lâchent prise. Ici, tout se relie par le ressenti plutôt que par l’argument. Vous comprenez les gens en sentant ce que c’est d’être à leur place, vos convictions se ressentent plus qu’elles ne se défendent, et vos principes tournent autour de la compassion, du pardon et de la valeur de ce qui ne se mesure pas. Avec ce placement, la sagesse ressemble souvent à l’acceptation.
+[Jupiter](/astrology/jupiter/) cherche du sens et rassemble l’expérience en un tout. Les [Poissons](/astrology/pisces/), signe d’eau mutable, adoucissent les contours, imaginent, ressentent et lâchent prise. Ici, tout se relie par le ressenti plutôt que par l’argument. Vous comprenez les gens en sentant ce que c’est d’être à leur place, vos convictions se ressentent plus qu’elles ne se défendent, et vos principes tournent autour de la compassion, du pardon et de la valeur de ce qui ne se mesure pas. Ici, la sagesse ressemble souvent à l’acceptation.
 
 Les Poissons ont deux maîtres, et je lis les deux. Dans la tradition, c’est le signe propre de Jupiter, un [domicile](/astrology/domicile/) : la planète qui s’y trouve est aussi celle qui gouverne le signe. En astrologie tropicale moderne, les Poissons reviennent à [Neptune](/astrology/neptune/), dont le signe, la maison et les aspects montrent où votre imagination et votre compassion sont les plus fortes. Lire les deux ensemble me dit si la croissance de Jupiter en Poissons a un endroit où se poser.
 
@@ -42,7 +42,7 @@ Jupiter a traversé les Poissons de mars 1974 à mars 1975, de février 1986 à 
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-La compassion est votre chemin de croissance en amour : voir le meilleur en quelqu’un, pardonner ce qui peut l’être, offrir une acceptation que l’on trouve rarement ailleurs. Vous sentez peut-être l’humeur de l’autre avant qu’elle soit dite. Le risque : des limites qui se dissolvent, donner jusqu’à ne plus rien garder, sauver au lieu de rencontrer, ou aimer le potentiel d’une personne plus que la personne qui est là. Le lien grandit quand la compassion vous inclut, et quand l’autre peut voir vos contours autant que votre douceur.
+La compassion est votre chemin de croissance en amour : voir le meilleur en quelqu’un, pardonner ce qui peut l’être, offrir une acceptation que l’on trouve rarement ailleurs. Vous sentez peut-être l’humeur de l’autre avant qu’elle soit dite. Les limites peuvent pourtant se dissoudre : donner jusqu’à ne plus rien garder, sauver au lieu de rencontrer, ou aimer le potentiel d’une personne plus que la personne qui est là. L’amour s’approfondit quand la compassion vous inclut, et quand l’autre peut voir vos contours autant que votre douceur.
 
 ## Au travail {#au-travail}
 
@@ -56,4 +56,4 @@ Le sens peut rester trop vague pour qu’on agisse. Avec tant de sympathie pour 
 
 Donner une forme à votre imagination : une page, une chanson, un jardin, une pratique où vous revenez. Voir les limites comme une part de la compassion, pas son contraire. Vous demander, avant de donner, si vous donnez par plénitude ou par peur de décevoir. Garder un temps de calme régulier, et en revenir avec quelque chose à partager. Et lire Neptune à côté de Jupiter : Neptune montre le rêve, Jupiter la croissance que ce rêve peut devenir.
 
-Les Poissons demandent de la foi ; [mon carnet](/blog/i-tested-my-birth-chart/) demandait des preuves. Jupiter ne fait pas partie des trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith, et environ un tiers de l’ensemble a tenu. Je présente donc Jupiter en Poissons avec douceur, comme un fil parmi d’autres de votre thème, et je le dis chaque fois qu’une lecture s’appuie dessus.
+Les Poissons demandent de la foi ; [mon carnet](/blog/i-tested-my-birth-chart/) demandait des preuves. Le décompte a fait apparaître trois exceptions, Saturne, Chiron et Lilith, qui ont tenu bien plus souvent ; Jupiter n’est pas parmi elles, et sur l’ensemble, environ un tiers a tenu. Je présente donc Jupiter en Poissons avec douceur, comme un fil parmi d’autres de votre thème, et je le dis chaque fois qu’une lecture s’appuie dessus.

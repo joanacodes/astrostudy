@@ -33,7 +33,7 @@ There are two ways to widen a world: add to it, or go down into it. Jupiter in S
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Jupiter](/astrology/jupiter/) is the function that seeks meaning and helps experience add up. [Scorpio](/astrology/scorpio/), fixed water, is intense, private, loyal and unwilling to stay on the surface. So here meaning comes from depth. You understand something once you've seen what drives it, your beliefs are the ones that have been through difficulty and held, and your principles centre on truth, loyalty and what people owe each other. Wisdom, with this Jupiter, often grows from what you've lived rather than what you've read.
+[Jupiter](/astrology/jupiter/) is the function that seeks meaning and helps experience add up. [Scorpio](/astrology/scorpio/), fixed water, is intense, private, loyal and unwilling to stay on the surface. So here meaning comes from depth. You understand something once you've seen what drives it, your beliefs are the ones that have been through difficulty and held, and your principles centre on truth, loyalty and what people owe each other. Wisdom tends to grow from what you've lived rather than what you've read.
 
 Scorpio has two rulers ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)), and I read both. [Pluto](/astrology/pluto/), its ruler in modern tropical astrology, shows where this Jupiter seeks transformation; [Mars](/astrology/mars/), its traditional ruler, shows the drive and courage it uses to get there. Scorpio holds none of Jupiter's own dignities, so those two rulers carry much of the story.
 
@@ -55,4 +55,4 @@ Depth can become the only thing that counts. Light conversation may feel pointle
 
 Let some things be as simple as they look. Share one lesson you learned the hard way with someone who could use it; that turns depth into generosity. Let trust be partial while it builds, rather than total or nothing. Keep a practice that takes you below the surface on purpose, writing, study, research, so that intensity has somewhere to go besides your relationships. Both rulers matter here: Pluto for what wants transforming, Mars for the will to do it.
 
-I don't take a placement on trust, Scorpio-style or otherwise: in [my notebook](/blog/i-tested-my-birth-chart/) every line had to earn its tick or its cross. Jupiter wasn't among the three that held far more often, Saturn, Chiron and Lilith, and overall about a third of what I checked held. So I read a Scorpio Jupiter with the same healthy suspicion it would bring to me.
+I don't take a placement on trust, Scorpio-style or otherwise: in [my notebook](/blog/i-tested-my-birth-chart/) every line had to earn its tick or its cross. Three placements held far more often than the rest, Saturn, Chiron and Lilith; Jupiter wasn't one of them, and about a third of what I checked held overall. So I read a Scorpio Jupiter with the same healthy suspicion it would bring to me.

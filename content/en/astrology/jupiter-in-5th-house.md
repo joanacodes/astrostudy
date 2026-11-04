@@ -32,7 +32,7 @@ Delight is how Jupiter in the 5th house grows: the song, the game, the love affa
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 5th house](/astrology/5th-house/) is what you do for joy: creativity, pleasure, play and romance, and the way you show yourself when nobody is grading you. It's succedent, its natural sign is Leo, and tradition called it Good Fortune and gave Venus her joy there. With [Jupiter](/astrology/jupiter/) here, you grow by enjoying. You learn through hobbies, art and games, you find your beliefs in what lights you up, and your generosity shows as a zest that pulls other people in.
+[The 5th house](/astrology/5th-house/) is what you do for joy: creativity, pleasure, play and romance, and the way you show yourself when nobody is grading you. Succedent, with Leo as its natural sign, it went by the name of Good Fortune in the tradition, and Venus had her joy there. Here [Jupiter](/astrology/jupiter/) grows through enjoyment. You learn through hobbies, art and games, you find your beliefs in what lights you up, and your generosity shows as a zest that pulls other people in.
 
 Good Fortune is an old name, not a promise. The 5th also held games of chance, and a Jupiter here is sometimes taken for a lucky streak; I don't read luck, wins or losses in a chart. Tradition gave this house children as well. No chart can say whether you'll have them ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and I don't read [children's charts](/astrology/childrens-charts/). What I read here, in an adult's life, is your own capacity for joy.
 
@@ -40,11 +40,11 @@ Like every house, the 5th needs your birth time. In Placidus, the system I use, 
 
 ## In close relationships {#in-close-relationships}
 
-Romance, for this Jupiter, is a place to grow. You tend to love generously and playfully: the surprise trip, the grand gesture, the evening that turns into an adventure. Partners often feel more alive around you. The risk is loving the beginning best, the thrill of the new, and losing interest once play becomes routine. The 11th house opposite, where Jupiter has its own joy, is a reminder that friendship lives inside a lasting romance too.
+Romance, for this Jupiter, is a place to grow. You tend to love generously and playfully: the surprise trip, the grand gesture, the evening that turns into an adventure. Partners often feel more alive around you. The trap is loving the beginning best, the thrill of the new, and losing interest once play becomes routine. The 11th house opposite, where Jupiter has its own joy, is a reminder that friendship lives inside a lasting romance too.
 
 ## At work {#at-work}
 
-Work that lets you create or play tends to suit you: the arts, performance, design, games, sport, entertainment, teaching that makes learning fun. You often grow by turning a hobby into a skill, and a skill into something you share. Teaching is a natural outlet too: you can make a room want to learn. Openings can come through what you make for pleasure. What to watch is creative risk taken for the thrill rather than for the work, since an opening is a chance and not a guarantee.
+Work that lets you create or play tends to suit you: the arts, performance, design, games, sport, entertainment, teaching that makes learning fun. You often grow by turning a hobby into a skill, and a skill into something you share. Teaching is a natural outlet too: you can make a room want to learn. Openings can come through what you make for pleasure. Where it can go wrong is creative risk taken for the thrill rather than for the work, since an opening is a chance and not a guarantee.
 
 ## The hard part {#the-hard-part}
 
@@ -54,4 +54,4 @@ Joy can become an obligation: the need to be fun, to have the best time, to keep
 
 Make something every week that nobody will see. Finish one creative project a year, even a small one, and take one creative risk on purpose, small enough to survive if it fails. Play regularly, not only on holiday, and let some of it be silly. In love, look for the kind of play that lasts: shared jokes, rituals, the small adventures of ordinary weeks. And remember that a house called Good Fortune still asks you to turn up and do the work.
 
-In [my notebook](/blog/i-tested-my-birth-chart/), I took a lucky-sounding placement no more on trust than any other. Jupiter wasn't one of the three that held far more often, Saturn, Chiron and Lilith, and about a third of everything held. So a 5th-house Jupiter gets read for the joy it describes, never as a forecast of fortune.
+In [my notebook](/blog/i-tested-my-birth-chart/), I took a lucky-sounding placement no more on trust than any other. Only three placements held far more often than the rest, Saturn, Chiron and Lilith. Jupiter wasn't one, and about a third of everything held. So a 5th-house Jupiter gets read for the joy it describes, never as a forecast of fortune.

@@ -41,7 +41,7 @@ Capricorn hosted Jupiter from January 1984 to February 1985, January 1996 to Jan
 
 ## In close relationships {#in-close-relationships}
 
-In love, you show belief in someone through reliability: turning up, keeping promises, building a shared life step by step. You may be slow to commit and steady once you have. Warmth tends to come out in what you do rather than in grand declarations. The risk is postponing joy until the work is done, or treating a relationship as one more responsibility to manage well. A bond grows when you let it be a place to rest as well as a project.
+In love, you show belief in someone through reliability: turning up, keeping promises, building a shared life step by step. You may be slow to commit and steady once you have. Warmth tends to come out in what you do rather than in grand declarations. The risk is postponing joy until the work is done, or treating a relationship as one more responsibility to manage well. Let the relationship be a place to rest as well as a project, and it grows.
 
 ## At work {#at-work}
 

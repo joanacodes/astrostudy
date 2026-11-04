@@ -33,7 +33,7 @@ Pisces is the sign tradition gave Jupiter long before Neptune was discovered in 
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Jupiter](/astrology/jupiter/) seeks meaning and gathers experience into a whole. [Pisces](/astrology/pisces/), mutable water, softens edges, imagines, empathises and lets go. Here, things connect through feeling rather than argument. You understand people by sensing what it's like to be them, your beliefs tend to be felt more than defended, and your principles centre on compassion, forgiveness and the worth of what can't be measured. Wisdom, with this Jupiter, often looks like acceptance.
+[Jupiter](/astrology/jupiter/) seeks meaning and gathers experience into a whole. [Pisces](/astrology/pisces/), mutable water, softens edges, imagines, empathises and lets go. Here, things connect through feeling rather than argument. You understand people by sensing what it's like to be them, your beliefs tend to be felt more than defended, and your principles centre on compassion, forgiveness and the worth of what can't be measured. Here, wisdom often looks like acceptance.
 
 Pisces has two rulers, and I read both. In the tradition it is Jupiter's own sign, a [domicile](/astrology/domicile/), so the planet sitting there is also the one that rules it. In modern tropical astrology it belongs to [Neptune](/astrology/neptune/), whose sign, house and aspects show where your imagination and compassion run strongest. Reading the two together tells me whether this Jupiter's growth has somewhere to land.
 
@@ -41,7 +41,7 @@ Jupiter crossed Pisces from March 1974 to March 1975, February 1986 to March 198
 
 ## In close relationships {#in-close-relationships}
 
-Compassion is how you grow in love: seeing the best in someone, forgiving what can be forgiven, offering an acceptance people rarely find elsewhere. You may sense a partner's mood before they name it. The risk is boundaries that dissolve: giving until there's little left, rescuing rather than meeting, or loving a person's potential more than the person who is actually there. A bond grows when your compassion includes yourself, and when your partner can see your edges as well as your softness.
+Compassion is how you grow in love: seeing the best in someone, forgiving what can be forgiven, offering an acceptance people rarely find elsewhere. You may sense a partner's mood before they name it. Boundaries can dissolve, though: giving until there's little left, rescuing rather than meeting, or loving a person's potential more than the person who is actually there. Love deepens when your compassion includes yourself, and when your partner can see your edges as well as your softness.
 
 ## At work {#at-work}
 
@@ -55,4 +55,4 @@ Meaning can stay too vague to act on. With so much sympathy for every side, you 
 
 Give your imagination a form: a page, a song, a garden, a practice you come back to. Treat boundaries as part of compassion, not its opposite. Ask, before you give, whether you're giving from fullness or from fear of disappointing someone. Keep a regular quiet time, and come back from it with something to share. And read Neptune alongside Jupiter: Neptune shows the dream, Jupiter the growth that dream can become.
 
-Pisces asks for faith; my [notebook](/blog/i-tested-my-birth-chart/) asked for evidence. Jupiter didn't make the three that held far more often, Saturn, Chiron and Lilith, and about a third of everything held overall. So I offer a Pisces Jupiter gently, as one thread in your chart, and I say so whenever a reading leans on it.
+Pisces asks for faith; my [notebook](/blog/i-tested-my-birth-chart/) asked for evidence. The count had three clear exceptions, Saturn, Chiron and Lilith, which held far more often; Jupiter wasn't among them, and overall about a third held. So I offer a Pisces Jupiter gently, as one thread in your chart, and I say so whenever a reading leans on it.

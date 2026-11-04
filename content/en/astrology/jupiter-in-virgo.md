@@ -41,7 +41,7 @@ The Virgo stays include September 1979 to October 1980, September 1991 to Octobe
 
 ## In close relationships {#in-close-relationships}
 
-You show belief in someone through practical care: the shelf repaired, the appointment remembered, the plan worked out so their week runs smoothly. You grow with a partner who notices that kind of attention and returns it, and who lets you be imperfect too. The risk is helping as a substitute for closeness, or improving someone who only wanted to be heard. Standards that serve you well at work can feel like a checklist in a relationship. A bond grows when your care comes with a little less correction.
+You show belief in someone through practical care: the shelf repaired, the appointment remembered, the plan worked out so their week runs smoothly. You grow with a partner who notices that kind of attention and returns it, and who lets you be imperfect too. Helping can stand in for closeness, though, or turn into improving someone who only wanted to be heard. Standards that serve you well at work can feel like a checklist in a relationship. Care with a little less correction is what lets the bond grow.
 
 ## At work {#at-work}
 
@@ -49,7 +49,7 @@ Your growth at work runs through skill. Editing, research, analysis, crafts, sys
 
 ## The hard part {#the-hard-part}
 
-The big picture can get lost under the corrections. Trust may be withheld until things are perfect, and so it rarely arrives. Growth can shrink to a to-do list, and wisdom to being right about the details. A belief system built on self-criticism can pass for high standards. And because this placement sees exactly how things could be better, it can struggle to see how far they have already come.
+The big picture can get lost under the corrections. Trust may be withheld until things are perfect, and so it rarely arrives. Growth can shrink to a to-do list, and wisdom to being right about the details. A belief system built on self-criticism can pass for high standards. And seeing exactly how things could be better makes it hard to see how far they have already come.
 
 ## What helps {#what-helps}
 

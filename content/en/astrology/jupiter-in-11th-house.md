@@ -33,7 +33,7 @@ Tradition placed Jupiter's joy in the 11th house, the place where it was said to
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 11th house](/astrology/11th-house/) holds friends, groups and hopes: the people you build a future with, and the future you'd like to build. It's succedent, its natural sign is Aquarius, and tradition called it the Good Spirit. With [Jupiter](/astrology/jupiter/) here, growth is social and forward-looking. You learn through the circles you belong to, your beliefs are often shaped and tested by your friendships, and your sense of meaning attaches to what you're building with others: a community, a cause, a shared plan.
+Friends, groups and hopes fill [the 11th house](/astrology/11th-house/): the people you build a future with, and the future you'd like to build. Its natural sign is Aquarius, it's succedent, and the old astrologers called it the Good Spirit. With [Jupiter](/astrology/jupiter/) here, growth is social and forward-looking. You learn through the circles you belong to, your beliefs are often shaped and tested by your friendships, and your sense of meaning attaches to what you're building with others: a community, a cause, a shared plan.
 
 Each of the seven traditional planets had a house where it rejoiced ([planetary joys](/astrology/planetary-joys/)), and for Jupiter it was this one. I read the joy as a fit: the planet of growth and the house of shared hopes want the same thing. The old astrologers also counted benefactors here, the people who help; that describes a way of living among others, not a promise that help will come.
 
@@ -41,18 +41,18 @@ In Placidus, the house system I use, the 11th's cusps depend on the exact birth 
 
 ## In close relationships {#in-close-relationships}
 
-Friendship is often the root of your love life. You tend to grow with a partner who is also a friend, who shares your circle or your hopes, and you bring warmth to the groups around a relationship: the shared friends, the wider family of choice. You're generous with introductions and support. The 5th house opposite is romance and personal joy; with Jupiter in the 11th, the risk is letting the group crowd out the couple, or keeping love so sociable that it never gets quiet enough to deepen.
+Friendship is often the root of your love life. You tend to grow with a partner who is also a friend, who shares your circle or your hopes, and you bring warmth to the groups around a relationship: the shared friends, the wider family of choice. You're generous with introductions and support. Opposite lies the 5th, romance and personal joy, so the risk here is letting the group crowd out the couple, or keeping love so sociable that it never gets quiet enough to deepen.
 
 ## At work {#at-work}
 
-At work, you grow through teams, networks and shared aims: associations, community work, campaigns, collaborative projects, technology, science, any setting where people pool what they know. You're often the connector who brings the right people together. Openings tend to come through friends and colleagues. What to watch is saying yes to every group and plan, until your own direction gets lost among everyone else's.
+Your working life grows through teams, networks and shared aims: associations, community work, campaigns, collaborative projects, technology, science, any setting where people pool what they know. You're often the connector who brings the right people together. Openings tend to come through friends and colleagues. The danger is saying yes to every group and plan, until your own direction gets lost among everyone else's.
 
 ## The hard part {#the-hard-part}
 
-Hopes can stay general: a better world, a bigger circle, someday. With Jupiter in the 11th, it's easy to find meaning in belonging and lose track of what you, personally, want. Friendships can stay wide rather than deep, many people who know you a little. And because this Jupiter trusts the group, you may take on its beliefs without testing them against your own experience.
+Hopes can stay general: a better world, a bigger circle, someday. It's easy, here, to find meaning in belonging and lose track of what you, personally, want. Friendships can stay wide rather than deep, many people who know you a little. And trusting the group as you do, you may take on its beliefs without testing them against your own experience.
 
 ## What helps {#what-helps}
 
 Name one hope precisely enough to start on it this year, and find two people to work on it with. Invest deeply in a few friendships, not only lightly in many. Leave a group when it no longer fits, kindly and without guilt. Notice when a belief is the group's rather than yours. And let your friends carry you sometimes: for a Jupiter in its joy, receiving is as much a part of this house as giving.
 
-Even a planet in its joy had to earn its tick in [my notebook](/blog/i-tested-my-birth-chart/). Jupiter wasn't one of the three that held far more often, Saturn, Chiron and Lilith, and overall about a third held. So I read an 11th-house Jupiter as a placement at ease, not as a guarantee about the people in your life.
+Even a planet in its joy had to earn its tick in [my notebook](/blog/i-tested-my-birth-chart/), and Jupiter didn't end up among the three that held far more often, Saturn, Chiron and Lilith. The notebook's overall tally was about a third. I read an 11th-house Jupiter, then, as a placement at ease, not as a guarantee about the people in your life.

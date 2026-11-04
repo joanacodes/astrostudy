@@ -32,19 +32,19 @@ Jupiter in the 3rd house finds the big questions in small places: the bus stop, 
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 3rd house](/astrology/3rd-house/) is the everyday mind and the world close at hand: how you think, talk, write and learn, the people near you, siblings, cousins, neighbours, and the short journeys of an ordinary week. It's cadent, a house of adjustment and learning; its natural sign is Gemini, and tradition called it the Goddess, the Moon's joy. With [Jupiter](/astrology/jupiter/) here, the planet of meaning works in the near and the daily. You learn constantly, from conversation as much as from books, and your beliefs take shape in ordinary exchanges rather than grand moments.
+[The 3rd house](/astrology/3rd-house/) is the everyday mind and the world close at hand: how you think, talk, write and learn, the people near you, siblings, cousins, neighbours, and the short journeys of an ordinary week. A cadent house, it's where things get adjusted and learned; Gemini is its natural sign, its old name was the Goddess, and the Moon had its joy here. Here [Jupiter](/astrology/jupiter/), the planet of meaning, works in the near and the daily. You learn constantly, from conversation as much as from books, and your beliefs take shape in ordinary exchanges rather than grand moments.
 
-The house opposite, the 9th, is the far horizon Jupiter usually gets the credit for: long journeys, higher study, philosophy. In the 3rd, Jupiter brings that long view to the short trip and the plain sentence. Gemini, this house's natural sign, happens to be Jupiter's detriment. Houses carry no dignities, so I don't make much of it, except to note the shared flavour: understanding built from many pieces.
+The house opposite, the 9th, is the far horizon Jupiter usually gets the credit for: long journeys, higher study, philosophy. In the 3rd, Jupiter brings that long view to the short trip and the plain sentence. As it happens, Gemini is also the sign of Jupiter's detriment. Houses carry no dignities, so I don't make much of it, except to note the shared flavour: understanding built from many pieces.
 
 In Placidus, the house system I use, the edges of the 3rd depend on your birth time and place, and near a cusp a few minutes can tip Jupiter over into [Jupiter in the 2nd house](/astrology/jupiter-in-2nd-house/), where the story would be about values, or [Jupiter in the 4th house](/astrology/jupiter-in-4th-house/), where it would be about home ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## In close relationships {#in-close-relationships}
 
-Siblings, cousins, neighbours and the people you see in an ordinary week belong to this house, and with Jupiter here they can be some of your best teachers, as you can be theirs. With a partner, the daily exchange counts for more than the grand gesture: the shared commute, the running joke, the book read aloud. You give your attention and your ideas freely. The risk is staying on the surface: a lively conversation can circle a feeling for years without ever landing on it.
+Siblings, cousins, neighbours and the people you see in an ordinary week belong to this house, and with Jupiter here they can be some of your best teachers, as you can be theirs. With a partner, the daily exchange counts for more than the grand gesture: the shared commute, the running joke, the book read aloud. You give your attention and your ideas freely. Where it falters is on the surface: a lively conversation can circle a feeling for years without ever landing on it.
 
 ## At work {#at-work}
 
-At work, you grow through communication: teaching, writing, editing, journalism, local work, sales, transport, the admin that keeps information moving, any job where explaining is part of the task. You're often the colleague who makes a complicated idea plain, and short formats suit you too: the workshop, the explainer, the talk that changes how people see a subject in an hour. Openings come through your web of everyday contacts. Watch out for learning so many things at once that none of them gets the time to become expertise.
+Communication is the thread of your working life: teaching, writing, editing, journalism, local work, sales, transport, the admin that keeps information moving, any job where explaining is part of the task. Colleagues often rely on you to make a complicated idea plain, and short formats suit you too: the workshop, the explainer, the talk that changes how people see a subject in an hour. Your web of everyday contacts is where openings tend to start. Watch out for learning so many things at once that none of them gets the time to become expertise.
 
 ## The hard part {#the-hard-part}
 
@@ -54,4 +54,4 @@ An opinion on everything. With so much to say and so many sources, it's easy to 
 
 Write, regularly, even briefly; it turns talk into understanding. Choose one subject a year to go deep in. In one conversation a day, listen more than you speak. Teach locally: a class, a bit of mentoring, a neighbour's question answered properly. And treat your daily routes as places of learning, which for this Jupiter they are.
 
-Every line in [my notebook](/blog/i-tested-my-birth-chart/) was a sentence about a person, ticked or crossed, and Jupiter's house was among them. The three that held far more often were Saturn, Chiron and Lilith, not Jupiter, and overall about a third held. So I offer a 3rd-house Jupiter the way you'd pass on news to a neighbour: as something worth hearing, not the final word.
+Every line in [my notebook](/blog/i-tested-my-birth-chart/) was a sentence about a person, ticked or crossed, and Jupiter's house was among them. It wasn't one of the lines that held far more often; those belonged to Saturn, Chiron and Lilith, and about a third of the whole notebook held. So I offer a 3rd-house Jupiter the way you'd pass on news to a neighbour: as something worth hearing, not the final word.

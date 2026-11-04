@@ -34,7 +34,7 @@ Il y a deux façons d’agrandir un monde : y ajouter, ou y descendre. Jupiter 
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-[Jupiter](/astrology/jupiter/) est la fonction qui cherche du sens et aide l’expérience à faire un tout. Le [Scorpion](/astrology/scorpio/), signe d’eau fixe, est intense, discret, loyal, et refuse de rester en surface. Ici, le sens vient donc de la profondeur. Vous comprenez une chose une fois que vous avez vu ce qui la pousse, vos convictions sont celles qui ont traversé la difficulté et tenu bon, et vos principes tournent autour de la vérité, de la loyauté et de ce que les gens se doivent. Avec ce placement, la sagesse naît souvent de ce que vous avez vécu plutôt que de ce que vous avez lu.
+[Jupiter](/astrology/jupiter/) est la fonction qui cherche du sens et aide l’expérience à faire un tout. Le [Scorpion](/astrology/scorpio/), signe d’eau fixe, est intense, discret, loyal, et refuse de rester en surface. Ici, le sens vient donc de la profondeur. Vous comprenez une chose une fois que vous avez vu ce qui la pousse, vos convictions sont celles qui ont traversé la difficulté et tenu bon, et vos principes tournent autour de la vérité, de la loyauté et de ce que les gens se doivent. La sagesse naît souvent de ce que vous avez vécu plutôt que de ce que vous avez lu.
 
 Le Scorpion a deux maîtres ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)), et je lis les deux. [Pluton](/astrology/pluto/), son maître en astrologie tropicale moderne, montre où Jupiter en Scorpion cherche la transformation ; [Mars](/astrology/mars/), son maître traditionnel, montre l’élan et le courage employés pour y parvenir. Le Scorpion n’offre à Jupiter aucune de ses dignités propres : ces deux maîtres portent donc une bonne part de l’histoire.
 
@@ -42,7 +42,7 @@ Les passages récents de Jupiter en Scorpion vont de novembre 1981 à décembre 
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-Une intimité vraie, c’est là que vous grandissez en amour : des secrets gardés, des peurs avouées, une confiance mise à l’épreuve. La générosité se montre quand elle compte le plus, dans une crise, à trois heures du matin, quand d’autres seraient partis. Vous demandez peut-être beaucoup à un lien, et vous donnez beaucoup en retour. Le risque : traiter la confiance en tout ou rien, éprouver l’autre pour voir si l’autre reste, ou garder des parts de vous cachées tout en demandant à l’autre tout son être. Le lien grandit quand la profondeur a aussi le droit d’être ordinaire.
+Une intimité vraie, c’est là que vous grandissez en amour : des secrets gardés, des peurs avouées, une confiance mise à l’épreuve. La générosité se montre quand elle compte le plus, dans une crise, à trois heures du matin, quand d’autres seraient partis. Vous demandez peut-être beaucoup à un lien, et vous donnez beaucoup en retour. Le risque : traiter la confiance en tout ou rien, éprouver l’autre pour voir si l’autre reste, ou garder des parts de vous cachées tout en demandant à l’autre tout son être. La profondeur a aussi le droit d’être ordinaire, et c’est là que le lien grandit.
 
 ## Au travail {#au-travail}
 
@@ -56,4 +56,4 @@ La profondeur peut devenir la seule chose qui compte. Une conversation légère 
 
 Laisser certaines choses être aussi simples qu’elles en ont l’air. Partager une leçon apprise à la dure avec quelqu’un à qui elle servirait : la profondeur devient générosité. Laisser la confiance être partielle pendant qu’elle se construit, plutôt que totale ou nulle. Garder une pratique qui vous emmène sous la surface exprès, l’écriture, l’étude, la recherche, pour que l’intensité ait un endroit où aller qui ne soit pas votre couple. Les deux maîtres comptent ici : Pluton pour ce qui demande à se transformer, Mars pour la volonté de le faire.
 
-Je ne crois pas un placement sur parole, Scorpion ou pas : dans [mon carnet](/blog/i-tested-my-birth-chart/), chaque ligne a dû mériter sa coche ou sa croix. Jupiter ne fait pas partie des trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith, et environ un tiers de ce que j’ai vérifié a tenu. Je lis donc Jupiter en Scorpion avec la même saine méfiance que ce placement me réserverait.
+Je ne crois pas un placement sur parole, Scorpion ou pas : dans [mon carnet](/blog/i-tested-my-birth-chart/), chaque ligne a dû mériter sa coche ou sa croix. Sur l’ensemble, environ un tiers a tenu, avec un trio à part qui a tenu bien plus souvent : Saturne, Chiron et Lilith. Jupiter n’en fait pas partie. Je lis donc Jupiter en Scorpion avec la même saine méfiance que ce placement me réserverait.
