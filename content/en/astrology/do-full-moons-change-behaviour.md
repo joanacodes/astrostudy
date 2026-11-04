@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "tested"
 weight: 8
 glyph: "✦"
-definition: "The idea that people behave differently at the full moon is old enough to have given English the word lunatic. Tested, it doesn’t hold: a meta-analysis of 37 studies found no significant link between the Moon’s phases and human behaviour, and many studies that claimed one contained statistical errors. Sleep is still argued over."
+definition: "The idea that people behave differently at the full moon is old enough to have given English the word lunatic. Tested, it doesn’t hold: a meta-analysis of 37 studies found no significant link between the Moon’s phases and human behaviour, and nearly half of the studies claiming one contained statistical errors. Sleep is still argued over."
 facts:
   - { k: "Question", v: "Do people behave differently around the full moon?" }
   - { k: "Short answer", v: "No link found with behaviour; sleep results disagree" }
@@ -18,7 +18,7 @@ facts:
   - { k: "My notebook", v: "The natal Moon checked like every placement, not one of the three that held far more often" }
 related: ["/astrology/barnum-forer-effect", "/astrology/sun-signs-and-personality-the-studies", "/astrology/full-moon", "/astrology/moon"]
 faq:
-  - q: "Do people act crazier during a full moon?"
+  - q: "Are people more agitated at the full moon?"
     a: "The research says no. A meta-analysis of 37 studies of the Moon’s phases and human behaviour found no significant correlation, and nearly half of the studies that had claimed one contained at least one statistical error. A 1978 review had already concluded that lunar phases and behaviour are not related."
   - q: "Does the full moon affect sleep?"
     a: "That question is still open. A small 2013 study suggested a link between the full moon and sleep quality; a larger study with better controls found no effect; then a 2021 study found that people went to bed later and slept less in the days before a full moon. The results disagree."

@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "tested"
 weight: 8
 glyph: "✦"
-definition: "L’idée que l’on se comporte autrement à la pleine lune est assez ancienne pour avoir donné à l’anglais le mot lunatic. Mise à l’épreuve, elle ne tient pas : une méta-analyse de 37 études n’a trouvé aucun lien significatif entre les phases de la Lune et le comportement humain, et bien des études affirmant le contraire comportaient des erreurs statistiques."
+definition: "L’idée qu’on se comporte autrement à la pleine lune a donné à l’anglais le mot lunatic. Mise à l’épreuve, elle ne tient pas : une méta-analyse de 37 études n’a trouvé aucun lien significatif entre les phases de la Lune et le comportement, et près de la moitié des études affirmant un lien comportaient des erreurs statistiques. Le sommeil reste débattu."
 facts:
   - { k: "Question", v: "Se comporte-t-on autrement autour de la pleine lune ?" }
   - { k: "Réponse courte", v: "Aucun lien trouvé avec le comportement ; sur le sommeil, les résultats divergent" }
@@ -24,7 +24,7 @@ faq:
   - q: "La pleine lune a-t-elle un effet sur le sommeil ?"
     a: "C’est la question encore ouverte. Une petite étude de 2013 a suggéré un lien entre la pleine lune et la qualité du sommeil ; une étude plus large, mieux contrôlée, n’a trouvé aucun effet ; puis une étude de 2021 a constaté qu’on se couchait plus tard et dormait moins les jours précédant la pleine lune. Les résultats divergent."
   - q: "Y a-t-il plus de crimes à la pleine lune ?"
-    a: "Les études ne l’ont pas montré. Un lien annoncé entre la Lune et les homicides du comté de Miami-Dade n’a pas résisté à une analyse ultérieure, et une étude de plus de 23 000 agressions graves en Allemagne n’a trouvé aucun lien avec les phases lunaires. Une étude a bien trouvé plus de délits en extérieur les nuits plus claires : la lumière, pas la folie."
+    a: "Les études ne l’ont pas montré. Un lien annoncé avec les homicides du comté de Miami-Dade n’a pas résisté à une analyse ultérieure, et une étude de plus de 23 000 agressions graves en Allemagne n’a trouvé aucun lien avec les phases lunaires. Une étude a trouvé plus de délits dehors les nuits claires : la lumière, pas la folie."
   - q: "Pourquoi tant de gens croient-ils à l’effet de la pleine lune ?"
     a: "Une explication est la corrélation illusoire, la perception d’une association qui n’existe pas réellement. Une autre hypothèse fait de cette croyance un fossile culturel de l’époque d’avant l’éclairage extérieur, quand la vive lumière de la pleine lune pouvait empêcher de dormir les gens qui dormaient dehors."
 sources:

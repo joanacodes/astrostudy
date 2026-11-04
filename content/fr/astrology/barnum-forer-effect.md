@@ -39,7 +39,7 @@ sources:
   - { title: "Wikipédia (en anglais) — Horoscope", url: "https://en.wikipedia.org/wiki/Horoscope", note: "consulté le 4 novembre 2026" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "la règle de la coche et de la croix, et comment j’ai compté ce qui a tenu" }
 ---
-Lisez un portrait de personnalité qui semble parler de vous, et vous le trouverez très probablement juste, même si tout le monde autour de vous a reçu le même. C’est l’effet Barnum, qu’on appelle aussi effet Forer, et c’est le piège que je voulais le plus éviter dans mes propres tests.
+Lisez un portrait de personnalité qui semble parler de vous, et vous le trouverez très probablement juste, même si tout le monde autour de vous a reçu le même. C’est l’effet Barnum, qu’on appelle aussi effet Forer, et c’est le piège contre lequel mes propres tests ont été conçus.
 
 ## La réponse courte {#la-reponse-courte}
 

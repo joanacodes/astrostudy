@@ -37,7 +37,7 @@ sources:
   - { title: "Wikipédia (en anglais) — Astrology", url: "https://en.wikipedia.org/wiki/Astrology", note: "consulté le 4 novembre 2026" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-Un thème natal est une image du ciel à la minute de votre naissance, telle qu’on la voyait depuis votre lieu de naissance. Deux personnes nées presque au même instant, dans la même ville, ont donc presque le même thème, et si le thème décrit la personne, elles devraient se ressembler. On les appelle jumeaux astrologiques (*time twins* en anglais), et elles font un test net.
+Un thème natal est une image du ciel à la minute et à l’endroit de votre naissance. Deux personnes nées presque au même instant, dans la même ville, ont donc presque le même thème, et si le thème décrit la personne, elles devraient se ressembler. On les appelle jumeaux astrologiques (*time twins* en anglais), et elles font un test net.
 
 ## La réponse courte {#la-reponse-courte}
 

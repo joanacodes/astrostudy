@@ -38,7 +38,7 @@ sources:
   - { title: "Wikipedia — Horoscope", url: "https://en.wikipedia.org/wiki/Horoscope", note: "checked on 4 November 2026" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "the tick-and-cross rule, and how I counted what held" }
 ---
-Read a personality sketch that seems to be about you, and you'll very likely find it accurate, even if everyone around you was handed the same one. That's the Barnum effect, also called the Forer effect, and it's the trap I most wanted my own testing to avoid.
+Read a personality sketch that seems to be about you, and you'll very likely find it accurate, even if everyone around you was handed the same one. That's the Barnum effect, also called the Forer effect, and it's the trap my own testing was set up to avoid.
 
 ## The short answer {#the-short-answer}
 
