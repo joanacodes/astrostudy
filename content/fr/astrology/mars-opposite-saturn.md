@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 209
 glyph: "♂☍♄"
-definition: "Avec Mars opposition Saturne, les deux planètes se tenaient à environ 180° à votre naissance, dans des signes qui se font face. Dans un thème, l’envie d’agir y fait face au besoin de structure, et demande de tenir les deux : pousser et doser. J’y lis une polarité à faire sienne, souvent rencontrée d’abord chez d’autres, jamais un combat perdu."
+definition: "Avec Mars opposition Saturne, les deux planètes se tenaient à environ 180° à votre naissance, dans des signes qui se font face. Dans un thème, l’envie d’agir y fait face au besoin de structure, et demande de tenir les deux : pousser et doser. J’y lis une polarité à faire sienne, souvent rencontrée d’abord chez d’autres, jamais une bataille contre vous-même."
 facts:
   - { k: "Corps", v: "Mars ♂ et Saturne ♄" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }

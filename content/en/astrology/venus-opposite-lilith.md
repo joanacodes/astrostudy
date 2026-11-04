@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/black-moon-lilith", "/astrology/opposition", "/astrology/venus-square-lilith", "/astrology/venus-opposite-lilith-synastry"]
 faq:
   - q: "What does Venus opposite Lilith mean in a birth chart?"
-    a: "Venus and mean Black Moon Lilith on opposite sides of your birth chart, about 180° apart. Closeness and autonomy face each other, and your own untamed side is often met first in someone else. I read it as a polarity that teaches intimacy without shrinking, never as a choice between love and freedom."
+    a: "At your birth, Venus faced mean Black Moon Lilith from the other side of the zodiac, about 180° away. Closeness and autonomy face each other, and your own untamed side is often met first in someone else. I read it as a polarity that teaches intimacy without shrinking, never as a choice between love and freedom."
   - q: "Does Venus opposite Lilith mean relationships will be difficult?"
     a: "No. An opposition is a polarity, not a conflict waiting to happen. It can make you aware early of the tension between wanting closeness and wanting to stay your own person, which is useful: many people with it build relationships with a lot of room in them, because they’ve had to think about what freedom means."
   - q: "Is Venus opposite Lilith about a rival?"
@@ -29,7 +29,7 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s apogee and its motion" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "Lilith among the three that held" }
 ---
-Venus opposite Lilith sets what you love across the chart from the part of you that won't be tamed. Closeness and autonomy face each other, and the untamed side is often met first in someone else: the person whose freedom draws you, or the one who seems to want you to be less.
+Venus opposite Lilith stretches a line across the chart between what you love and the part of you that won't be tamed. The untamed side is often met first in someone else: the person whose freedom draws you, or the one who seems to want you to be less.
 
 ## What it means {#what-it-means}
 

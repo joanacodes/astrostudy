@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 193
 glyph: "♀△⚸"
-definition: "Vénus trigone Lilith signifie qu’à votre naissance, Vénus se trouvait à environ 120° de la Lune noire Lilith moyenne, en général dans des signes du même élément. Dans un thème, ce que vous aimez et votre part indomptée s’entendent : être pleinement vous-même dans une relation vous semble naturel. J’y lis une authenticité facile, à utiliser exprès."
+definition: "Vénus trigone Lilith signifie qu’à votre naissance, Vénus se trouvait à environ 120° de la Lune noire Lilith moyenne, en général dans des signes du même élément. Dans un thème, ce que vous aimez et votre part indomptée s’entendent : être pleinement vous-même dans une relation vous semble naturel. J’y lis une liberté naturelle en amour, à utiliser exprès."
 facts:
   - { k: "Corps", v: "Vénus ♀ et la Lune noire Lilith ⚸ (moyenne)" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/venus", "/astrology/black-moon-lilith", "/astrology/trine", "/astrology/venus-conjunct-lilith", "/astrology/venus-trine-lilith-synastry"]
 faq:
   - q: "Que veut dire Vénus trigone Lilith dans un thème natal ?"
-    a: "Dans un thème natal, cela veut dire Vénus et la Lune noire Lilith moyenne à un tiers de cercle l’une de l’autre, en général dans un même élément. Ce que vous aimez et votre part indomptée s’entendent : être pleinement vous-même dans une relation vous semble naturel plutôt qu’audacieux. J’y lis une authenticité facile, à son meilleur quand on s’en sert."
+    a: "Vénus et la Lune noire Lilith moyenne à un tiers de cercle l’une de l’autre, en général dans un même élément. Ce que vous aimez et votre part indomptée s’entendent : être pleinement vous-même dans une relation vous semble naturel plutôt qu’audacieux. J’y lis une authenticité sans effort, qui mérite pourtant qu’on s’en serve exprès."
   - q: "Est-ce que Vénus trigone Lilith donne du charme ?"
     a: "Aucun aspect ne donne du charme à qui que ce soit. Ce trigone décrit une aisance : vous aimez ouvertement ce que vous aimez, et les personnes qui apprécient cela vous apprécient souvent. L’attirance va dans les deux sens, et un thème ne peut décrire que votre côté, jamais garantir celui de quelqu’un d’autre."
   - q: "Quelle différence entre Vénus trigone Lilith et Vénus conjonction Lilith ?"
@@ -43,7 +43,7 @@ L’aisance n’est pas une garantie, et la fluidité n’est pas de la passivit
 
 Un trigone relie en général des signes d’un même élément. Avec Vénus en Taureau, son propre signe, en trigone avec Lilith en Vierge ou en Capricorne, l’aisance est terrienne : un plaisir franc pour la bonne table, le confort et le travail bien fait. Avec Vénus en Balance en trigone avec Lilith en Gémeaux ou en Verseau, elle est sociale : l’équité et la liberté côte à côte dans vos amitiés. Lilith moyenne passe environ neuf mois dans chaque signe : son élément appartient à toutes les personnes nées pendant ces mois, et ce sont les maisons qui situent le trigone dans votre vie. Vénus en maison 11 en trigone avec Lilith en maison 3 pourrait se montrer dans des amitiés où l’on peut tout dire, et une façon de parler que les autres trouvent d’une franchise rafraîchissante.
 
-Environ 1 personne sur 15 naît avec Vénus à moins de 6° d’un trigone à Lilith moyenne, comme pour le sextile et le carré. Vénus, de loin la plus rapide, forme le trigone pour une semaine ou deux à chaque fois.
+Environ 1 personne sur 15 naît avec Vénus à moins de 6° d’un trigone à Lilith moyenne, comme pour le sextile et le carré. C’est Vénus qui se déplace, et elle ne reste à chaque fois qu’une semaine ou deux dans cette marge de 6°.
 
 Les autres angles de la paire :
 

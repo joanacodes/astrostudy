@@ -31,7 +31,7 @@ Mars trine Neptune lets effort and imagination run in the same direction. The tw
 
 ## What it means {#what-it-means}
 
-[Mars](/astrology/mars/) acts: it initiates, asserts, competes and puts in the work. [Neptune](/astrology/neptune/) imagines and connects: inspiration, compassion, symbolic perception, the dissolving of boundaries that serve no purpose. A [trine](/astrology/trine/) relates them through flow and mutual support: Mars gives the imagined thing a body, and Neptune gives the effort a feeling for why.
+[Mars](/astrology/mars/) acts: it initiates, asserts, competes and puts in the work. [Neptune](/astrology/neptune/) imagines and connects: inspiration, compassion, symbolic perception, the dissolving of boundaries that serve no purpose. In a [trine](/astrology/trine/) they move together and support each other: Mars gives the imagined thing a body, and Neptune gives the effort a feeling for why.
 
 In plain words, inspired effort comes easily to you. You may move, make or work best when you're absorbed in something you can picture, and you probably find it natural to act for others without making a show of it. Your way of asserting yourself has a gentleness people trust. When something moves you, the energy is there; when nothing does, it's quieter, and that's a rhythm rather than a fault.
 
@@ -60,4 +60,4 @@ Neptune's slowness, some 165 years for a round, means [Transiting Neptune trine 
 
 Mars in the sky trines your natal Neptune twice every two years, for a few days: brief, easy windows for imaginative work.
 
-Like every transit, these are weather, not a forecast: they make inspiration easier to act on, and leave the acting to you.
+Weather, then, not a forecast: these transits make inspiration easier to act on, and leave the acting to you.

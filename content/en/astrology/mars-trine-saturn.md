@@ -33,7 +33,7 @@ Mars trine Saturn is drive and discipline walking at the same pace. The part of 
 
 ## What it means {#what-it-means}
 
-[Mars](/astrology/mars/) supplies the drive: the initiative to begin, the assertion to claim, the effort to finish. [Saturn](/astrology/saturn/) builds the frame: structure, responsibility and discipline, held steady over the long run. A [trine](/astrology/trine/) relates them through flow and mutual reinforcement. Mars keeps its push and Saturn its standards, and each makes the other's job easier: the push has a shape, and the shape has energy.
+[Mars](/astrology/mars/) supplies the drive: the initiative to begin, the assertion to claim, the effort to finish. [Saturn](/astrology/saturn/) builds the frame: structure, responsibility and discipline, held steady over the long run. A [trine](/astrology/trine/) lets them flow together and strengthen each other. Mars keeps its push and Saturn its standards, and each makes the other's job easier: the push has a shape, and the shape has energy.
 
 In plain words, you can work steadily without forcing yourself. You may be the one who starts on time, keeps a routine without making a fuss of it, and finishes a long job while others are still deciding. Patience comes as part of the effort rather than as a brake on it. The trine often suits whatever improves with repetition, such as a craft, a training or a long project.
 

@@ -32,7 +32,7 @@ Mars trigone Neptune laisse l’effort et l’imagination couler dans la même d
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Mars](/astrology/mars/) agit : lancer, s’affirmer, rivaliser, fournir le travail. [Neptune](/astrology/neptune/) imagine et relie : l’inspiration, la compassion, la perception symbolique, la dissolution des frontières qui ne servent à rien. Un [trigone](/astrology/trine/) les relie par la fluidité et le soutien mutuel : Mars donne un corps à ce qui est imaginé, et Neptune donne à l’effort le sens du pourquoi.
+[Mars](/astrology/mars/) agit : lancer, s’affirmer, rivaliser, fournir le travail. [Neptune](/astrology/neptune/) imagine et relie : l’inspiration, la compassion, la perception symbolique, la dissolution des frontières qui ne servent à rien. Le [trigone](/astrology/trine/) les fait couler ensemble, en se soutenant : Mars donne un corps à ce qui est imaginé, et Neptune donne à l’effort le sens du pourquoi.
 
 Concrètement, l’effort inspiré vous vient facilement. Vous bougez, fabriquez ou travaillez peut-être au mieux quand quelque chose que vous voyez en pensée vous absorbe, et agir pour les autres sans en faire étalage vous semble sans doute naturel. Votre façon de vous affirmer a une douceur qui inspire confiance. Quand quelque chose vous touche, l’énergie est là ; quand rien ne vous touche, elle se fait plus discrète, et c’est un rythme plutôt qu’un défaut.
 

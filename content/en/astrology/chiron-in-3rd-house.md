@@ -17,7 +17,7 @@ facts:
 related: ["/astrology/chiron", "/astrology/3rd-house", "/astrology/gemini", "/blog/unknown-birth-time", "/astrology/chiron-transit-3rd-house"]
 faq:
   - q: "What does Chiron in the 3rd house mean?"
-    a: "That Chiron’s adapting takes place in the near world: talk, writing, learning, siblings and neighbours. Many people with it remember early moments of not being heard or not keeping up, and later develop an unusually clear, patient way of explaining things. It can only be placed with a birth time."
+    a: "Your near world is where it happens: talk, writing, learning, siblings and neighbours. Many people with it remember early moments of not being heard or not keeping up, and later develop an unusually clear, patient way of explaining things. It can only be placed with a birth time."
   - q: "Does Chiron in the 3rd house mean a learning difficulty?"
     a: "No. A chart can’t diagnose anything, and I wouldn’t read a difficulty into it. The 3rd house describes how you think, talk and learn in everyday life; Chiron here describes adapting, finding methods of your own. Many people with it end up explaining things unusually well."
   - q: "What about siblings with Chiron in the 3rd house?"

@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/chiron", "/astrology/2nd-house", "/astrology/taurus", "/blog/unknown-birth-time", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "Que veut dire Chiron en maison 2 ?"
-    a: "Que l’adaptation de Chiron se fait là où l’argent, les biens et l’estime de soi se rencontrent. Beaucoup de personnes qui l’ont décrivent un nœud entre ce qu’elles gagnent et ce qu’elles pensent valoir, et un long travail pratique pour le défaire : fixer un prix juste, bâtir leur propre sécurité, estimer ce que l’argent ne mesure pas."
+    a: "L’argent, les biens et l’estime de soi : c’est là que ce Chiron s’adapte. Beaucoup de personnes qui l’ont décrivent un nœud entre ce qu’elles gagnent et ce qu’elles pensent valoir, et un long travail pratique pour le défaire : fixer un prix juste, bâtir leur propre sécurité, estimer ce que l’argent ne mesure pas."
   - q: "Chiron en maison 2 veut-il dire des problèmes d’argent ?"
     a: "Non. Ce que vous gagnerez, garderez ou perdrez n’est pas quelque chose qu’un thème peut montrer, alors je ne le lis pas. Ce placement décrit votre rapport à la valeur et aux ressources, souvent plus réfléchi et plus attentif que celui de la plupart des gens, parce qu’il vous a fallu le construire vous-même."
   - q: "Faut-il l’heure de naissance pour Chiron en maison 2 ?"

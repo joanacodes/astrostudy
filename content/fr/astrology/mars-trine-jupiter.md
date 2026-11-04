@@ -33,7 +33,7 @@ Mars trigone Jupiter relie la part de vous qui agit à celle qui cherche du sens
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Mars](/astrology/mars/) est la part du thème qui lance : agir, s’affirmer, fournir l’effort, tenir une limite. [Jupiter](/astrology/jupiter/) est la part qui élargit la compréhension : rassembler l’expérience en un sens, former des principes, soutenir la croissance. Un [trigone](/astrology/trine/) relie les deux par la fluidité. Mars reste la fonction qui agit, Jupiter celle qui donne un sens, et chacune allège l’autre.
+[Mars](/astrology/mars/) est votre capacité d’agir sur quelque chose : faire le premier pas, vous affirmer, tenir l’effort. [Jupiter](/astrology/jupiter/) élargit votre compréhension : rassembler l’expérience en un sens, former des principes, soutenir la croissance. Un [trigone](/astrology/trine/) relie les deux par la fluidité. Mars reste la fonction qui agit, Jupiter celle qui donne un sens, et chacune allège l’autre.
 
 Concrètement, votre énergie va volontiers là où vous voyez un intérêt, et cet intérêt se précise en chemin. Un projet auquel vous croyez trouve votre endurance sans longue discussion, et un principe auquel vous tenez ne reste pas longtemps théorique. J’y lis un courage qui a ses raisons, et une conviction prête à retrousser ses manches.
 

@@ -45,7 +45,7 @@ Count every birth from 1930 to 2009 and about 1 person in 15 has this trine with
 
 Mars moves the trine in and out within a few weeks, about twice every two years, while Uranus, seven years to a sign, sets the sign for a whole span of births. If Mars was retrograde when you were born, the trine may be shared by more people born around you, because Mars can cross the angle more than once; I read that as inventiveness that works inward first ([Natal retrograde planets](/blog/retrograde-planets/)). And since Uranus was only found in 1781, by William Herschel, nothing in the old texts covers this trine: what I read in it comes from modern tropical astrology.
 
-The pair's other aspects, beside this one:
+How the trine compares with the pair's other aspects:
 
 - **[Mars conjunct Uranus](/astrology/mars-conjunct-uranus/):** the same two urges fused, more intense and less relaxed than the trine.
 - **[Mars sextile Uranus](/astrology/mars-sextile-uranus/):** a lighter, more deliberate cooperation, where you have to reach for the new method.

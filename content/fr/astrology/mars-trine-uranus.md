@@ -46,7 +46,7 @@ Comptez toutes les naissances de 1930 à 2009 : environ 1 personne sur 15 a ce 
 
 Mars fait entrer et sortir le trigone en quelques semaines, environ deux fois tous les deux ans, tandis qu’Uranus, sept ans par signe, fixe le signe pour toute une période de naissances. Si Mars était rétrograde à votre naissance, le trigone peut être partagé par davantage de personnes nées autour de vous, car Mars peut franchir l’angle plus d’une fois ; j’y lis une inventivité qui travaille d’abord en dedans ([Planètes rétrogrades natales](/blog/retrograde-planets/)). Et comme la découverte d’Uranus, par William Herschel, ne date que de 1781, aucun texte ancien ne parle de ce trigone : ce que j’y lis vient de l’astrologie tropicale moderne.
 
-Les autres aspects de la paire, à côté de celui-ci :
+Comment le trigone se situe parmi les autres aspects de la paire :
 
 - **[Mars conjonction Uranus](/astrology/mars-conjunct-uranus/) :** les deux mêmes envies fondues, plus intenses et moins détendues que dans le trigone.
 - **[Mars sextile Uranus](/astrology/mars-sextile-uranus/) :** une coopération plus légère et plus volontaire, où il faut aller chercher la nouvelle méthode.

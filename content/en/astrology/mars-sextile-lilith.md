@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/black-moon-lilith", "/astrology/sextile", "/astrology/mars-sextile-lilith-synastry", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "What does Mars sextile Lilith mean in a birth chart?"
-    a: "Mars and Black Moon Lilith are about 60° apart in your chart. Your drive can call on your untamed side whenever you choose to, without being run by it. In practice it often shows as small, well-timed refusals: doing something your own way when the usual way doesn’t fit."
+    a: "With Mars some 60° from Black Moon Lilith, your drive can call on your untamed side whenever you choose to, without being run by it. In practice it often shows as small, well-timed refusals: doing something your own way when the usual way doesn’t fit."
   - q: "Is Mars sextile Lilith a weak aspect?"
     a: "Not weak, but quiet. A sextile is an opportunity rather than a push, so nothing forces you to use it, and it can go unused for years. Once you notice it, it tends to become a reliable resource: the freedom to act unconventionally when it matters, and the judgement to know when it does."
   - q: "Which Lilith does this page use?"
@@ -40,11 +40,11 @@ It often shows in small, practical refusals: declining the role you were handed 
 
 ## In a birth chart {#in-a-birth-chart}
 
-The two bodies usually sit in signs that get on by element, a fire sign with an air sign or an earth sign with a water sign, so drive and instinct speak languages that understand each other. Mars's sign sets the style of action; Lilith's sign, shared by everyone born within the same nine months or so, colours what in you resists taming. The houses show where the door is. Mars in the 3rd sextile Lilith in the 5th, for instance, might let the untamed side into how you play and create, reached through everyday errands and conversations.
+The two bodies usually sit in signs that get on by element, fire beside air or earth beside water, so drive and instinct speak languages that understand each other. Mars's sign sets the style of action; Lilith's sign, shared by everyone born within the same nine months or so, colours what in you resists taming. The houses show where the door is. Mars in the 3rd sextile Lilith in the 5th, for instance, might let the untamed side into how you play and create, reached through everyday errands and conversations.
 
 About 1 person in 15 is born with Mars within 6° of a sextile to mean Lilith. Tight, the opening gets used almost by reflex; wide, it waits until you look for it. Mars, by far the quicker, carries the aspect in and out of orb, while Lilith holds its place for months.
 
-My notebook gives the two ends different weight. Lilith stood out, holding 75 to 90% of the time along with Saturn and Chiron, while about a third of all placements held; Mars, checked like every other, was not among the three ([the three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)). If what I say about this sextile depends mostly on Mars, I tell you so.
+My notebook gives the two ends different weight. Lilith stood out, holding 75 to 90% of the time along with Saturn and Chiron, while about a third of all placements held; Mars, checked like every other, was not among the three ([the three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)). So in a reading, Lilith's end of this sextile is the one I look at longest.
 
 Among the pair's other aspects:
 

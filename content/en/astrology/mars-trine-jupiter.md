@@ -32,7 +32,7 @@ Mars trine Jupiter joins the part of you that acts to the part that looks for me
 
 ## What it means {#what-it-means}
 
-[Mars](/astrology/mars/) is the part of a chart that initiates: it acts, asserts, puts in the effort and holds a boundary. [Jupiter](/astrology/jupiter/) is the part that expands understanding: it gathers experience into meaning, shapes principles and supports growth. A [trine](/astrology/trine/) relates them through flow. Mars stays the one that acts and Jupiter the one that makes sense of it, and each makes the other's work lighter.
+[Mars](/astrology/mars/) is your capacity to act on something: to take the first step, to assert yourself, to keep the effort going. [Jupiter](/astrology/jupiter/) widens your understanding: it gathers experience into meaning, shapes principles and supports growth. A [trine](/astrology/trine/) relates them through flow. Mars stays the one that acts and Jupiter the one that makes sense of it, and each makes the other's work lighter.
 
 In plain words, your energy tends to go where you can see a point, and the point gets clearer as you go. A project you believe in finds your stamina without a long argument, and a principle you hold doesn't stay theoretical for long. I read it as courage with a reason attached, and conviction that's willing to roll up its sleeves.
 

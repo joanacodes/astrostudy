@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/chiron", "/astrology/3rd-house", "/astrology/gemini", "/blog/unknown-birth-time", "/astrology/chiron-transit-3rd-house"]
 faq:
   - q: "Que veut dire Chiron en maison 3 ?"
-    a: "Que l’adaptation de Chiron se fait dans le monde proche : la parole, l’écrit, l’apprentissage, les frères et sœurs, le voisinage. Beaucoup de personnes qui l’ont se souviennent de moments, tôt, où on ne les entendait pas, puis développent une façon d’expliquer particulièrement claire et patiente. Seule l’heure de naissance permet de le placer."
+    a: "Tout se passe dans le monde proche : la parole, l’écrit, l’apprentissage, les frères et sœurs, le voisinage. Beaucoup de personnes qui l’ont se souviennent de moments, tôt, où on ne les entendait pas, puis développent une façon d’expliquer particulièrement claire et patiente. Seule l’heure de naissance permet de le placer."
   - q: "Chiron en maison 3 veut-il dire une difficulté d’apprentissage ?"
     a: "Non. Un thème ne peut rien diagnostiquer, et je n’y lirais pas de difficulté. La maison 3 décrit votre façon de penser, de parler et d’apprendre au quotidien ; Chiron y décrit une adaptation, des méthodes à vous. Beaucoup de personnes qui l’ont finissent par expliquer les choses remarquablement bien."
   - q: "Et les frères et sœurs, avec Chiron en maison 3 ?"

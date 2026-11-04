@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 209
 glyph: "♂☍♄"
-definition: "With Mars opposite Saturn, the two planets stood about 180° apart when you were born, in signs facing each other. It sets the urge to act across from the need for structure, and asks you to hold both. I read it as a polarity to own, often met in other people first, never a fight you lose."
+definition: "With Mars opposite Saturn, the two planets stood about 180° apart when you were born, in signs facing each other. It sets the urge to act across from the need for structure, and asks you to hold both. I read it as a polarity to own, often met in other people first, never a battle with yourself."
 facts:
   - { k: "Bodies", v: "Mars ♂ and Saturn ♄" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }

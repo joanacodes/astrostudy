@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/venus", "/astrology/black-moon-lilith", "/astrology/opposition", "/astrology/venus-square-lilith", "/astrology/venus-opposite-lilith-synastry"]
 faq:
   - q: "Que veut dire Vénus opposition Lilith dans un thème natal ?"
-    a: "Vénus et la Lune noire Lilith moyenne de part et d’autre de votre thème natal, à environ 180° d’écart. La proximité et l’autonomie se font face, et votre propre part indomptée se rencontre souvent d’abord chez quelqu’un d’autre. J’y lis une polarité qui apprend l’intimité sans rapetisser, jamais un choix entre l’amour et la liberté."
+    a: "À votre naissance, Vénus faisait face à la Lune noire Lilith moyenne, de l’autre côté du zodiaque, à environ 180°. La proximité et l’autonomie se font face, et votre propre part indomptée se rencontre souvent d’abord chez quelqu’un d’autre. J’y lis une polarité qui apprend l’intimité sans rapetisser, jamais un choix entre l’amour et la liberté."
   - q: "Est-ce que Vénus opposition Lilith annonce des relations difficiles ?"
     a: "Non. Une opposition est une polarité, pas un conflit qui attend son heure. Elle peut vous faire sentir tôt la tension entre l’envie de proximité et celle de rester vous-même, ce qui est utile : beaucoup de personnes qui l’ont construisent des relations où il y a de la place, parce qu’elles ont dû réfléchir à ce que liberté veut dire."
   - q: "Est-ce que Vénus opposition Lilith parle de rivalité ?"
@@ -30,7 +30,7 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "l’apogée de la Lune et son mouvement" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "Lilith parmi les trois qui ont tenu" }
 ---
-Vénus opposition Lilith place ce que vous aimez de l’autre côté du thème, face à la part de vous qui ne se laisse pas apprivoiser. La proximité et l’autonomie se font face, et la part indomptée se rencontre souvent d’abord chez quelqu’un d’autre : la personne dont la liberté vous attire, ou celle qui semble vouloir que vous soyez moins.
+Vénus opposition Lilith tend une ligne d’un bout à l’autre du thème, entre ce que vous aimez et la part de vous qui ne se laisse pas apprivoiser. La part indomptée se rencontre souvent d’abord chez quelqu’un d’autre : la personne dont la liberté vous attire, ou celle qui semble vouloir que vous soyez moins.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 

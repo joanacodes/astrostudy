@@ -17,7 +17,7 @@ facts:
 related: ["/astrology/chiron", "/astrology/4th-house", "/astrology/imum-coeli", "/blog/unknown-birth-time", "/astrology/chiron-transit-4th-house"]
 faq:
   - q: "What does Chiron in the 4th house mean?"
-    a: "That Chiron’s adapting happens at home: in your roots, your family and the private self underneath your public one. Belonging is often the tender subject, and the adapting makes your own ground — a chosen family, steadying rituals, a home made to your own measure. It needs your birth time."
+    a: "Home is the setting: your roots, your family and the private self underneath your public one. Belonging is often the tender subject, and the adapting makes your own ground — a chosen family, steadying rituals, a home made to your own measure. It needs your birth time."
   - q: "Does Chiron in the 4th house mean a difficult family?"
     a: "Not as a fact about your family. A chart can’t tell what happened in your childhood, and I don’t read it as if it could. Chiron in the 4th describes how you’ve adapted around belonging, whatever the story was. Many people with it end up making homes where others feel welcome."
   - q: "What is the IC, and does it matter for Chiron in the 4th house?"
@@ -34,7 +34,7 @@ The 4th house sits at the very bottom of a chart, below your feet at the moment 
 
 In [the 4th house](/astrology/4th-house/), [Chiron](/astrology/chiron/)'s adapting goes on at home: in the family you came from, the home you live in now, and the private self underneath your public one. It's an angular house with Cancer as its natural sign, so what happens here quietly shapes much of the rest. The tender place is often belonging — not feeling quite at home in the family story, carrying something the household couldn't talk about, or moving so often that nowhere was yours. The adapting usually means making your own ground: a chosen family, rituals that steady you, a home put together slowly, to your own measure.
 
-In [Placidus](/astrology/placidus/), the house system I use, the 4th house opens at the [Imum Coeli](/astrology/imum-coeli/), the lowest point of the chart, so a Chiron just inside the cusp sits on one of its four angles. Equal houses don't tie the 4th to that point, and whole sign houses give the 4th to the fourth sign, counting the rising sign as the first, so the same Chiron can change house between systems. All of it rests on the birth time ([finding your time](/blog/unknown-birth-time/#finding-your-time)). Next door, [Chiron in the 3rd house](/astrology/chiron-in-3rd-house/) adapts in the street and the classroom, [Chiron in the 5th house](/astrology/chiron-in-5th-house/) in play and creation.
+In [Placidus](/astrology/placidus/), the house system I use, the 4th house starts at the lowest point of the chart, the [Imum Coeli](/astrology/imum-coeli/); a Chiron just past that point sits on one of the four angles. Equal houses don't tie the 4th to that point, and whole sign houses give the 4th to the fourth sign, counting the rising sign as the first, so the same Chiron can change house between systems. All of it rests on the birth time ([finding your time](/blog/unknown-birth-time/#finding-your-time)). Next door, [Chiron in the 3rd house](/astrology/chiron-in-3rd-house/) adapts in the street and the classroom, [Chiron in the 5th house](/astrology/chiron-in-5th-house/) in play and creation.
 
 ## In close relationships {#in-close-relationships}
 
@@ -52,4 +52,4 @@ Restlessness and over-attachment are two sides of one coin here. On a hard day t
 
 Make one corner of your home entirely yours, and keep it that way. Rituals help a house of roots: a weekly meal, a walk you always take, objects that carry your own history rather than someone else's. Let the people you have chosen count as family. What a chart can't do is tell the story of your childhood; that story is yours, and your family's, to tell.
 
-In my notebook, Chiron scored alongside Saturn and Lilith, holding 75 to 90% of the time ([the three that held](/blog/saturn-chiron-lilith/)). In the 4th it speaks from deep down, so I go slowly, and I ask before I assume anything about your family.
+My notebook ranks Chiron with Saturn and Lilith, at 75 to 90% of the time ([the three that held](/blog/saturn-chiron-lilith/)). In the 4th it speaks from deep down, so I go slowly, and I ask before I assume anything about your family.

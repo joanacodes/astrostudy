@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/mars", "/astrology/black-moon-lilith", "/astrology/sextile", "/astrology/mars-sextile-lilith-synastry", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "Que veut dire Mars sextile Lilith dans un thème natal ?"
-    a: "Mars et la Lune noire Lilith sont à environ 60° dans votre thème. Votre élan peut faire appel à votre part indomptée quand vous le choisissez, sans être mené par elle. Concrètement, cela se voit souvent dans de petits refus bien placés : faire les choses à votre façon quand la façon habituelle ne convient pas."
+    a: "Avec Mars à quelque 60° de la Lune noire Lilith, votre élan peut faire appel à votre part indomptée quand vous le choisissez, sans être mené par elle. Concrètement, cela se voit souvent dans de petits refus bien placés : faire les choses à votre façon quand la façon habituelle ne convient pas."
   - q: "Mars sextile Lilith, est-ce un aspect faible ?"
     a: "Pas faible, mais discret. Un sextile est une occasion plutôt qu’une poussée : rien ne vous oblige à vous en servir, et il peut rester inutilisé pendant des années. Une fois remarqué, il devient souvent une ressource fiable : la liberté d’agir autrement quand cela compte, et le jugement pour savoir quand c’est le cas."
   - q: "Quelle Lilith cette page utilise-t-elle ?"
@@ -45,7 +45,7 @@ Le plus souvent, Mars et Lilith occupent des signes qui s’entendent par l’é
 
 Un sextile entre Mars et la Lilith moyenne, à 6° près, concerne environ 1 personne sur 15. Quand il est serré, l’ouverture s’utilise presque par réflexe ; large, elle attend que vous la cherchiez. C’est Mars, bien plus rapide, qui fait entrer et sortir l’aspect de l’orbe, tandis que Lilith garde sa place pendant des mois.
 
-Mon carnet ne donne pas le même poids aux deux bouts. Lilith s’y est détachée avec Saturne et Chiron : ces trois placements tenaient 75 à 90 % du temps, contre environ un tiers pour l’ensemble ; j’ai vérifié Mars comme tous les autres placements, sans que Mars rejoigne ce trio ([les trois qui ont tenu : Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/)). Si ce que je dis de ce sextile repose surtout sur Mars, je vous le dis.
+Mon carnet ne donne pas le même poids aux deux bouts. Lilith s’y est détachée avec Saturne et Chiron : ces trois placements tenaient 75 à 90 % du temps, contre environ un tiers pour l’ensemble ; j’ai vérifié Mars comme tous les autres placements, sans que Mars rejoigne ce trio ([les trois qui ont tenu : Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/)). Dans une lecture, c’est donc le côté de Lilith que je regarde le plus longtemps.
 
 Parmi les autres aspects de la paire :
 

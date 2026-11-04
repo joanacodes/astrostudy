@@ -36,7 +36,7 @@ Mars opposite Chiron sets the part of you that pushes ahead directly across from
 
 In everyday terms, when you push, you feel where you're sore; when you feel sore, the urge to push gets louder. You may swing between charging at a difficulty and steering well clear of it. Other people often make the axis visible: a rival, a coach, a partner who moves faster than you, whose push lands right on the tender spot, and whose drive you also recognise as your own. That's a mirror, not an enemy.
 
-Polarity isn't contradiction. Over time this opposition tends to teach a particular strength: acting with your limits in view rather than in spite of them, and standing up for someone else without first having to prove that nothing in you is tender.
+The two ends aren't at war. With time, this opposition usually teaches a particular strength: acting with your limits in view rather than in spite of them, and standing up for someone else without first having to prove that nothing in you is tender.
 
 ## In a birth chart {#in-a-birth-chart}
 

@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 193
 glyph: "♀△⚸"
-definition: "Venus trine Lilith means Venus was about 120° from mean Black Moon Lilith at your birth, usually in signs of the same element. In a chart, what you love and your untamed side get on: being fully yourself in a relationship feels natural rather than daring. I read it as easy authenticity, best used on purpose."
+definition: "Venus trine Lilith means Venus was about 120° from mean Black Moon Lilith at your birth, usually in signs of the same element. In a chart, what you love and your untamed side get on: being fully yourself in a relationship feels natural rather than daring. I read it as a natural freedom in love, worth using on purpose."
 facts:
   - { k: "Bodies", v: "Venus ♀ and Black Moon Lilith ⚸ (mean)" }
   - { k: "Aspect", v: "Trine △, 120°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/black-moon-lilith", "/astrology/trine", "/astrology/venus-conjunct-lilith", "/astrology/venus-trine-lilith-synastry"]
 faq:
   - q: "What does Venus trine Lilith mean in a birth chart?"
-    a: "In a birth chart it means Venus and mean Black Moon Lilith a third of the circle apart, usually in one element. What you love and your untamed side get on: being fully yourself in a relationship feels natural rather than daring. I read it as an easy authenticity, at its best when used on purpose."
+    a: "In a birth chart it means Venus and mean Black Moon Lilith a third of the circle apart, usually in one element. What you love and your untamed side get on: being fully yourself in a relationship feels natural rather than daring. To me it’s authenticity without effort, which still deserves to be used deliberately."
   - q: "Does Venus trine Lilith make you attractive?"
     a: "No aspect makes anyone attractive. What this trine describes is ease: you tend to like what you like openly, and people who enjoy that tend to enjoy you. Attraction runs both ways, and a chart can only describe your side of it, never guarantee anyone else’s."
   - q: "How is Venus trine Lilith different from Venus conjunct Lilith?"
@@ -42,7 +42,7 @@ Ease isn't inevitability, and flow isn't passivity. It's possible to coast on th
 
 A trine usually links signs of one element. With Venus in Taurus, its own sign, trine Lilith in Virgo or Capricorn, the ease is earthy: a frank enjoyment of good food, comfort and craft. With Venus in Libra trine Lilith in Gemini or Aquarius, it's social: fairness and freedom side by side in your friendships. Mean Lilith spends about nine months in each sign, so its element belongs to everyone born in those months; the houses place the trine in your life. Venus in the 11th trine Lilith in the 3rd might show as friendships where you can say anything, and a way of talking that others find refreshingly direct.
 
-About 1 person in 15 is born with Venus within 6° of a trine to mean Lilith, much as for the sextile and the square. Venus is the faster by far, and forms the trine for a week or two at a time.
+About 1 person in 15 is born with Venus within 6° of a trine to mean Lilith, much as for the sextile and the square. Venus does the moving, and stays inside that 6° window for only a week or two each time.
 
 The pair's other angles:
 

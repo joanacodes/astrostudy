@@ -17,9 +17,9 @@ facts:
 related: ["/astrology/chiron", "/astrology/6th-house", "/astrology/virgo", "/blog/unknown-birth-time", "/astrology/can-astrology-predict-health-problems"]
 faq:
   - q: "What does Chiron in the 6th house mean?"
-    a: "That Chiron’s adapting happens in daily work and routine. Many people with it describe feeling valued mainly for being useful, and a long process of building routines that fit them — and of learning to rest without guilt. It often turns into a talent for making work kinder and more workable for others too."
+    a: "Daily work and routine carry this Chiron. Many people with it describe feeling valued mainly for being useful, and a long process of building routines that fit them — and of learning to rest without guilt. It often turns into a talent for making work kinder and more workable for others too."
   - q: "Does Chiron in the 6th house mean health problems?"
-    a: "No. Tradition linked the 6th house with illness, but a chart can’t tell you anything about your health, and I don’t read it for that. In an adult’s chart I read the 6th as work, routine and the care you give your days. Any health question belongs with a doctor."
+    a: "No. The old books tied the 6th to illness; I don’t, because a chart can’t tell you anything about your health. What the 6th describes, in an adult’s life, is work, routine and the care you give your days. Any health question belongs with a doctor."
   - q: "Why is the 6th house called Bad Fortune?"
     a: "It’s an old Hellenistic name: the 6th was Bad Fortune, and Mars, then counted a difficult planet, had its joy there. The house was seen as one of labour and strain. I read it more kindly, as the place of daily effort, and with Chiron here, of effort learning to be sustainable."
   - q: "How do I work well with Chiron in the 6th house?"
@@ -28,13 +28,13 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the 6th house, its old name and Mars’s joy" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-The 6th house is the chart's workshop: routines, tasks, the job you turn up to, the habits that keep a week on its feet. With Chiron here, usefulness was often the tender subject — feeling you had to earn your place by being helpful — and the adapting is learning to work well without working yourself into the ground.
+Routines, tasks, the job you turn up to, the habits that keep a week on its feet: the 6th house is the workshop of a chart. With Chiron here, usefulness was often the tender subject — feeling you had to earn your place by being helpful — and the adapting is learning to work well without working yourself into the ground.
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 6th house](/astrology/6th-house/) is cadent and naturally Virgo's; tradition called it Bad Fortune while giving Mars its joy here, a hard-working house, more about effort than reward. [Chiron](/astrology/chiron/) in it adapts in the most practical places — the schedule, the to-do list, the upkeep of a day's tools, your own energy included. The sensitivity often concerns usefulness and pace: a sense of being valued for what you do rather than who you are, or of needing different routines from the people around you. The adapting builds systems that actually fit you, and very often a gift for making work kinder for others.
+A cadent house tied to Virgo, [the 6th house](/astrology/6th-house/) carried the name Bad Fortune, and Mars, oddly enough, rejoiced there: it was a house of effort more than reward. [Chiron](/astrology/chiron/) does its adapting here in the most practical places — the schedule, the to-do list, the upkeep of a day's tools, your own energy included. The sensitivity often concerns usefulness and pace: a sense of being valued for what you do rather than who you are, or of needing different routines from the people around you. The adapting builds systems that actually fit you, and very often a gift for making work kinder for others. It's also the house of the people you work beside and the small services of daily life, so this Chiron often notices who is carrying too much.
 
-Tradition also linked the 6th with illness, and that's a reading I leave alone. A chart can't tell you anything about your health, and I don't read it for that ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)); in an adult's chart I read the 6th as work, routine and care. In [Placidus](/astrology/placidus/), the house system I use, the 6th is one of the houses calculated between the angles, so a small change in birth time can move its cusp ([why I wait for the time](/blog/unknown-birth-time/#why-i-wait-for-the-time)). Its neighbours are [Chiron in the 5th house](/astrology/chiron-in-5th-house/) and [Chiron in the 7th house](/astrology/chiron-in-7th-house/).
+Illness was the other thing the old books filed under the 6th, and that's a reading I leave alone. Your health is not something a chart can see, so I keep it out of every reading ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)); for an adult, the 6th is about work, routine and care, and that's how I read it. In [Placidus](/astrology/placidus/), the house system I use, the 6th is one of the houses calculated between the angles, so a small change in birth time can move its cusp ([why I wait for the time](/blog/unknown-birth-time/#why-i-wait-for-the-time)). On the working-day side of the chart, it sits between [Chiron in the 5th house](/astrology/chiron-in-5th-house/), all play, and [Chiron in the 7th house](/astrology/chiron-in-7th-house/), all partnership.
 
 ## In close relationships {#in-close-relationships}
 
@@ -46,10 +46,10 @@ Work is the 6th house's home ground, and many people with Chiron here are very g
 
 ## The hard part {#the-hard-part}
 
-Doing too much is the obvious risk, and it hides well. On a strained week this Chiron may say yes to every request, push through tiredness as if rest were a failing, or measure its worth by how much got done. Rigid routines can creep in too, kept long after they've stopped helping. Underneath it all can sit a quiet rule: be useful, or be left out.
+Doing too much is the obvious risk, and it hides well. On a strained week this Chiron may say yes to every request, push through tiredness as if rest were a failing, or measure its worth by how much got done. Rigid routines can creep in too, kept long after they've stopped helping. Small, repeated frustrations can feel bigger than they are, because they touch the old question of whether you're doing enough. Underneath it all can sit a quiet rule: be useful, or be left out.
 
 ## What helps {#what-helps}
 
-Build rest into the routine as firmly as work, and protect it. Review your habits every season: which ones still serve you, which are leftovers. Ask for the adjustment you need — a different desk, different hours, a different way of doing a task — and notice that asking isn't failing. A house where Mars has its joy also likes honest effort that ends: a run, a garden, a job finished and left alone.
+Give rest the same standing in your routine as work, and guard it. Review your habits every season: which ones still serve you, which are leftovers. Ask for the adjustment you need — a different desk, different hours, a different way of doing a task — and notice that asking isn't failing. A house where Mars has its joy also likes honest effort that ends: a run, a garden, a job finished and left alone.
 
 I give a 6th-house Chiron proper attention in a reading for the same reason I give it to Saturn and Lilith: in my notebook, these three held 75 to 90% of the time ([how I tested](/blog/i-tested-my-birth-chart/)).

@@ -17,7 +17,7 @@ facts:
 related: ["/astrology/chiron", "/astrology/2nd-house", "/astrology/taurus", "/blog/unknown-birth-time", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "What does Chiron in the 2nd house mean?"
-    a: "Chiron’s adapting happens where money, possessions and self-worth meet. Many people with it describe a knot between what they earn and what they feel they’re worth, and a long, practical process of untying it: pricing their work fairly, building their own security, valuing what money can’t measure."
+    a: "Money, possessions and self-worth are where this Chiron does its adapting. Many people with it describe a knot between what they earn and what they feel they’re worth, and a long, practical process of untying it: pricing their work fairly, building their own security, valuing what money can’t measure."
   - q: "Does Chiron in the 2nd house mean money problems?"
     a: "No. What you will earn, keep or lose is not something a chart can show, so it’s not something I read. This placement describes how you relate to worth and resources, often with more care and thought than most people, because you’ve had to work out your own relationship to them."
   - q: "Do I need my birth time for Chiron in the 2nd house?"

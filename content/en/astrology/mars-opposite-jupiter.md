@@ -62,4 +62,4 @@ Jupiter reaches the point opposite your Mars once in its twelve-year round: [Tra
 
 Mars in the sky opposes your natal Jupiter once in its two-year round, for a few days. Since your Mars sits opposite your Jupiter, those are also the days when Mars comes back to its own degree: a brief echo of the aspect you were born with.
 
-I read both as weather, not a forecast: they show where the pull between doing and meaning is felt for a while, and what you make of it stays yours.
+Both are weather rather than a forecast to me: they show where the pull between doing and meaning is felt for a while, and what you make of it stays yours.

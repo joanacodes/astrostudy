@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/chiron", "/astrology/1st-house", "/astrology/ascendant", "/blog/unknown-birth-time", "/astrology/chiron-transit-1st-house"]
 faq:
   - q: "Que veut dire Chiron en maison 1 ?"
-    a: "Que l’adaptation de Chiron passe par votre façon d’aborder le monde. Beaucoup de personnes qui l’ont décrivent l’impression, très tôt, de ne pas passer comme elles le voulaient, puis une façon choisie de se présenter — chaleureuse, posée ou drôle — qui rend aussi les autres plus tranquilles. Il faut votre heure de naissance pour le placer."
+    a: "Ce placement fait passer l’adaptation de Chiron par votre façon d’aborder le monde. Beaucoup de personnes qui l’ont décrivent l’impression, très tôt, de ne pas passer comme elles le voulaient, puis une façon choisie de se présenter — chaleureuse, posée ou drôle — qui rend aussi les autres plus tranquilles. Il faut votre heure de naissance pour le placer."
   - q: "Chiron en maison 1, est-ce la même chose que Chiron conjoint à l’ascendant ?"
     a: "Pas tout à fait. Conjoint à l’ascendant, Chiron se trouve à quelques degrés de ce point, d’un côté ou de l’autre. En Placidus, la maison 1 va de l’ascendant à la pointe de la maison 2, et Chiron peut être n’importe où dans cet espace. Près de l’ascendant, les deux se recouvrent, et le placement parle le plus fort."
   - q: "Faut-il l’heure de naissance pour Chiron en maison 1 ?"
