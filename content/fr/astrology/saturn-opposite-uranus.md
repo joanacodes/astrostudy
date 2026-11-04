@@ -42,7 +42,7 @@ Une polarité n’est pas une contradiction. Avec les années, cette opposition 
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-C’est l’aspect Saturne–Uranus le plus rare du décompte : environ 1 personne sur 35 née entre 1930 et 2009 le porte, à 6° près, et toutes sont nées dans l’une de deux périodes : par intermittence de mars 1964 à février 1967, puis de septembre 2008 à octobre 2009. Dans la première, Saturne occupait les Poissons, après quelques semaines en fin de Verseau, et Uranus la Vierge ; dans la seconde, Saturne occupait la Vierge et Uranus les Poissons. Le même axe, les rôles échangés.
+C’est l’aspect Saturne–Uranus le plus rare du décompte. Environ 1 personne sur 35 née entre 1930 et 2009 le porte, à 6° près, et toutes sont nées dans l’une de deux périodes : par intermittence de mars 1964 à février 1967, puis de septembre 2008 à octobre 2009. Dans la première, Saturne occupait les Poissons, après quelques semaines en fin de Verseau, et Uranus la Vierge ; dans la seconde, Saturne occupait la Vierge et Uranus les Poissons. Le même axe, les rôles échangés.
 
 Partagée par tant de personnes, elle se lit d’abord comme un aspect de génération, que les maisons rendent personnel. Une opposition relie en général deux maisons opposées : entre la 4 et la 10, ce peut être le foyer contre la carrière, la façon de faire de votre famille contre la vôtre ; entre la 1 et la 7, votre indépendance contre vos engagements. Au contact de votre Soleil, de votre Lune ou d’un angle, elle parle plus fort ; il faut pour tout cela l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

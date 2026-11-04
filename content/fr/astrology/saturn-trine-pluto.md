@@ -54,6 +54,6 @@ Dans une relation, [Saturne trigone Pluton en synastrie](/astrology/saturn-trine
 
 ## En transit {#en-transit}
 
-[Saturne en transit trigone Pluton du thème natal](/astrology/transiting-saturn-trine-natal-pluto/) tombe deux fois dans le tour de Saturne, qui dure 29 ans et demi, parfois pour des mois. [Pluton en transit trigone Saturne du thème natal](/astrology/transiting-pluto-trine-natal-saturn/) est lent et régulier, deux ans ou davantage près de l’exactitude, car Pluton passe 12 à 31 ans dans un signe. Les deux conviennent souvent à la consolidation : rendre un changement durable, ou offrir à une structure la rénovation qu’elle attendait.
+[Saturne en transit trigone Pluton du thème natal](/astrology/transiting-saturn-trine-natal-pluto/) tombe deux fois dans le tour de Saturne, qui dure 29 ans et demi, parfois pour des mois. [Pluton en transit trigone Saturne du thème natal](/astrology/transiting-pluto-trine-natal-saturn/) se déroule lentement et régulièrement, deux ans ou davantage près de l’exactitude, car Pluton passe 12 à 31 ans dans un signe. Les deux conviennent souvent à la consolidation : rendre un changement durable, ou offrir à une structure la rénovation qu’elle attendait.
 
 Pour les personnes nées sous ce trigone, chaque [retour de Saturne](/astrology/saturn-return/), à la fin de la vingtaine puis vers 60 ans, le reforme. C’est une affaire de météo, pas de prédiction : des conditions favorables au travail qui dure, et ce travail reste le vôtre.

@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/black-moon-lilith", "/astrology/opposition", "/astrology/which-lilith-is-mine", "/astrology/saturn-opposite-lilith-synastry"]
 faq:
   - q: "How does Saturn opposite Lilith show up in a life?"
-    a: "Often as a question of casting: the rules you keep and the part of you that refuses them sit at opposite ends of your chart, and tend to show up in other people first: the strict one, the wild one. Over time the opposition tends to bring both home, giving your authority room for your own unruly streak."
+    a: "Often as a question of casting. The rules you keep and the part of you that refuses them sit at opposite ends of your chart, and tend to show up in other people first, the strict one and the wild one. Over time the opposition brings both home, giving your authority room for your own unruly streak."
   - q: "Is Saturn opposite Lilith unusual?"
     a: "Fairly uncommon: about 1 person in 41, counting within 6° with mean Lilith. Lilith moves about three times faster than Saturn, so the opposition is shared by short runs of births, a few months each, years apart. True Lilith can sit far from the mean, so a chart drawn with it may differ."
   - q: "Does Saturn opposite Lilith make someone a rebel?"
@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people are born with it, counted with mean Lilith" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s mean apogee and its motion" }
 ---
-Saturn opposite Lilith draws a tightrope between the rules you keep and the part of you that refuses them. The two ends tend to show up in other people first, the strict one and the wild one, and the long work of this opposition is recognising both as yours.
+Saturn opposite Lilith draws a tightrope between the rules you keep and the part of you that refuses them. The two ends tend to show up in other people first, the strict one and the wild one, and the long work of this opposition is to claim both as your own.
 
 ## What it means {#what-it-means}
 

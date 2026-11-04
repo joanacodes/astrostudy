@@ -41,7 +41,7 @@ Polarity isn't contradiction. Over the years this opposition tends to teach a ra
 
 ## In a birth chart {#in-a-birth-chart}
 
-It's the rarest Saturn–Uranus aspect in the count: about 1 person in 35 born between 1930 and 2009 has it within 6°, and all of them were born in one of two windows: on and off from March 1964 to February 1967, and from September 2008 to October 2009. In the first, Saturn was in Pisces, after a few weeks at the end of Aquarius, and Uranus in Virgo; in the second, Saturn was in Virgo and Uranus in Pisces. The same axis, with the parts swapped.
+It's the rarest Saturn–Uranus aspect in the count. About 1 person in 35 born between 1930 and 2009 has it within 6°, and all of them were born in one of two windows: on and off from March 1964 to February 1967, and from September 2008 to October 2009. In the first, Saturn was in Pisces, after a few weeks at the end of Aquarius, and Uranus in Virgo; in the second, Saturn was in Virgo and Uranus in Pisces. The same axis, with the parts swapped.
 
 Because so many people share it, I read it as a generation's aspect first and make it personal through the houses. An opposition usually links two opposite houses: across the 4th and 10th it can be home against career, your family's way against your own; across the 1st and 7th, your independence against your commitments. Touching your Sun, Moon or an angle, it speaks louder, and all of it needs a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 

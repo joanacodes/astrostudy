@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/black-moon-lilith", "/astrology/opposition", "/astrology/which-lilith-is-mine", "/astrology/saturn-opposite-lilith-synastry"]
 faq:
   - q: "Comment se manifeste Saturne opposition Lilith dans une vie ?"
-    a: "Souvent par une distribution des rôles : les règles que vous tenez et la part de vous qui les refuse occupent les deux bouts de votre thème, et se montrent d’abord chez les autres : la personne stricte, la personne sauvage. Avec le temps, l’opposition tend à ramener les deux chez vous, et à donner à votre autorité de la place pour votre part insoumise."
+    a: "Souvent par une distribution des rôles. Les règles que vous tenez et la part de vous qui les refuse occupent les deux bouts de votre thème, et se montrent d’abord chez les autres, la personne stricte et la personne sauvage. Avec le temps, l’opposition tend à ramener les deux chez vous, et à donner à votre autorité de la place pour votre part insoumise."
   - q: "Saturne opposition Lilith, est-ce peu courant ?"
     a: "Assez peu courant, oui : environ 1 personne sur 41, à 6° près, avec la Lilith moyenne. Lilith avance environ trois fois plus vite que Saturne : l’opposition est partagée par de courtes séries de naissances, quelques mois chacune, à des années d’écart. La Lilith vraie peut se trouver loin de la moyenne : un thème calculé avec elle peut différer."
   - q: "Devient-on rebelle avec Saturne opposition Lilith ?"
@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes naissent avec cet aspect, compté avec la Lilith moyenne" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "l’apogée moyen de la Lune et son mouvement" }
 ---
-Saturne opposition Lilith dresse face à face les règles que vous tenez et la part de vous qui les refuse. Les deux bouts apparaissent souvent d’abord chez les autres, la personne stricte et la personne sauvage, et le long travail de cette opposition consiste à reconnaître les deux comme vôtres.
+Saturne opposition Lilith dresse face à face les règles que vous tenez et la part de vous qui les refuse. Les deux bouts apparaissent souvent d’abord chez les autres, la personne stricte et la personne sauvage, et le long travail de cette opposition consiste à faire siens les deux bouts.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
