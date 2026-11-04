@@ -22,7 +22,7 @@ faq:
   - q: "Does Venus conjunct Uranus mean unstable relationships?"
     a: "Not as I read it. Uranus describes change and independence, not chaos, and this conjunction describes a need for space within love rather than a habit of leaving it. Relationships that leave each person room to stay themselves tend to suit it, and those can last a very long time."
   - q: "Is Venus conjunct Uranus a generational aspect?"
-    a: "No. Uranus stays about seven years in a sign, so its sign belongs to your generation, but Venus passes it only briefly each year. It's those few days that carry the conjunction, and its house, which only a birth time can give, makes it more personal still."
+    a: "No. Uranus stays about seven years in a sign, so its sign belongs to your generation, but Venus passes it only briefly each year. It’s those few days that carry the conjunction, and its house, which only a birth time can give, makes it more personal still."
   - q: "Does Venus conjunct Uranus mean love at first sight?"
     a: "It can make attraction sudden and unmistakable, a click rather than a slow warming. But who you’ll meet, and what follows, isn’t in the chart. What the conjunction tends to need, whatever the start, is a love with enough air in it for you to stay yourself."
 sources:

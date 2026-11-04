@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/black-moon-lilith", "/astrology/trine", "/astrology/mars-trine-lilith-synastry", "/astrology/which-lilith-is-mine"]
 faq:
   - q: "What does Mars trine Lilith mean in a birth chart?"
-    a: "In your chart, Mars and Black Moon Lilith stand about 120° apart, usually in signs of one element. Drive and instinct pull in the same direction, so you act on instinct and on your own terms without much inner conflict. I read it as a natural ease, best used with intention."
+    a: "In your chart, Mars and Black Moon Lilith stand about 120° apart, usually in signs of one element. Drive and instinct pull in the same direction, so you act on your own terms without much inner conflict. I read it as a natural ease, best used with intention."
   - q: "Is Mars trine Lilith a good aspect?"
     a: "It’s an easy one, which isn’t quite the same thing. Because acting freely comes so naturally, you may not notice how unusual it looks to other people, or when it would help to slow down and explain yourself. Used with awareness, it is a real gift: independence without the fight."
   - q: "Does Mars trine Lilith make life easy?"

@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 80
 glyph: "♄"
-definition: "Saturn in the 8th house places the planet of boundaries in the house of intimacy, trust and what is shared or owed. It describes trust given slowly and then kept, promises and debts taken seriously, and closeness approached with care. Tradition gave this house death; I read it in the life of the living."
+definition: "Saturn in the 8th house guards what two people share: intimacy, trust, joint money, debts and promises. It describes trust given slowly and then kept, obligations taken seriously, and closeness approached with care. Tradition gave this house death; I read it in the life of the living."
 facts:
   - { k: "Body", v: "Saturn ♄" }
   - { k: "House", v: "The 8th house: intimacy, trust, what is shared and owed" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/8th-house", "/astrology/saturn-in-scorpio", "/astrology/can-astrology-predict-death", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Saturn in the 8th house mean?"
-    a: "Saturn sits in the house of intimacy, trust and what is shared or owed. Trust is given slowly and then kept, and debts and promises, in every sense, are taken seriously. Closeness can feel risky, so it is approached with care. Over time this placement makes you someone others can rely on in a crisis."
+    a: "Intimacy, trust and what is shared or owed come under Saturn’s care in this house. Trust is given slowly and then kept, and debts and promises, in every sense, are taken seriously. Closeness can feel risky, so it is approached with care. Over time this placement makes you someone others can rely on in a crisis."
   - q: "Does Saturn in the 8th house predict death?"
     a: "No. Tradition gave the 8th house death and inheritance, but I don’t read death in any chart, and no chart can predict it. In an adult’s life I read the 8th as intimacy, trust and sharing, and Saturn there as caution, loyalty and the slow building of trust."
   - q: "What does Saturn in the 8th house say about shared money?"
@@ -34,7 +34,7 @@ Trust, with Saturn in the 8th house, works like a loan with very careful terms: 
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 8th house](/astrology/8th-house/) is where a bond deepens into what's shared: intimacy, sexual and otherwise; trust, and what it costs to give; joint money, loans and debts, and the debts people carry between them that have nothing to do with money. It's a succedent house, where things settle and build up: the 7th makes the bond, the 8th holds what the bond creates. Its natural sign is Scorpio. With [Saturn](/astrology/saturn/) here, every part of that becomes serious. You let people in slowly, keep their confidences for good, and take what you owe, and what you're owed, very much to heart.
+Intimacy, sexual and otherwise; trust, and what it costs to give; joint money, loans and debts, and the debts between people that have nothing to do with money: [the 8th house](/astrology/8th-house/) holds what two people come to share, and what they owe. Succedent houses gather and keep: the 7th makes the bond, the 8th holds what it creates. Its natural sign is Scorpio. With [Saturn](/astrology/saturn/) here, every part of that becomes serious. You let people in slowly, keep their confidences for good, and take what you owe, and what you're owed, very much to heart.
 
 Tradition gave the 8th death and inheritance. I don't read death in anyone's chart ([can astrology predict death?](/astrology/can-astrology-predict-death/)), and I don't forecast what anyone will inherit or owe. In an adult's life the 8th is busy with the living, and Saturn here describes how you handle closeness and sharing: carefully, loyally, and with a strong dislike of depending on anyone.
 
@@ -48,7 +48,7 @@ Intimacy, emotional and physical, is approached with care, and being seen withou
 
 ## At work {#at-work}
 
-People trust you with what's important: confidential information, other people's resources, the problem nobody else wants to look at. Research, investigation, crisis work and any role that needs discretion and nerve can suit you, and so can negotiating shared budgets or contracts, because you actually read the terms. You stay steady when things go wrong, which makes you invaluable in a crisis and prone to carrying more than your share of it.
+People trust you with what's important: confidential information, other people's resources, the problem nobody else wants to look at. Research, investigation, crisis work and any role that needs discretion and nerve can suit you; so can negotiating shared budgets or contracts, because you actually read the terms. You stay steady when things go wrong, which makes you invaluable in a crisis and prone to carrying more than your share of it.
 
 ## The hard part {#the-hard-part}
 

@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/uranus", "/astrology/trine", "/astrology/venus-trine-uranus-synastry", "/astrology/transiting-uranus-trine-natal-venus"]
 faq:
   - q: "What does Venus trine Uranus mean in a birth chart?"
-    a: "Venus and Uranus were some 120° apart at your birth. Affection and the wish to renew get along: you can be yourself in love without a fight about it, change your tastes as you change, and give others room without feeling left. It's an easy freedom, best used on purpose."
+    a: "Venus and Uranus were some 120° apart at your birth. Affection and the wish to renew get along: you can be yourself in love without a fight about it, change your tastes as you change, and give others room without feeling left. It’s an easy freedom, best used on purpose."
   - q: "Does Venus trine Uranus make you fall in love easily?"
     a: "It tends to make you open to the new, in people as in ideas, and quick to spot what’s original. That can make attraction come easily. But no chart settles whom you love or how deeply; this trine describes a lightness in how you relate, not a count of how often."
   - q: "Can Venus trine Uranus make you avoid commitment?"

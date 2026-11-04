@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/1st-house", "/astrology/ascendant", "/blog/unknown-birth-time", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "What does Saturn in the 1st house mean?"
-    a: "Saturn sits in the house of the self: your body, your manner and the way you meet the world. You may have been serious early, careful in new situations and slow to feel at ease in your own skin. With time that care becomes presence, and people tend to trust you with responsibility because you look able to carry it."
+    a: "The house of the self holds your Saturn: your body, your manner and the way you meet the world. You may have been serious early, careful in new situations and slow to feel at ease in your own skin. With time that care becomes presence, and people tend to trust you with responsibility because you look able to carry it."
   - q: "Is Saturn in the 1st house the same as Saturn conjunct the Ascendant?"
     a: "Not quite. Saturn in the 1st house can sit anywhere between the Ascendant and the start of the 2nd house. When it is within a few degrees of the Ascendant, it is also conjunct it, and I read it as louder still. Only the birth time can tell which of the two you have."
   - q: "Does Saturn in the 1st house make you look older?"
@@ -34,7 +34,7 @@ When you were born, Saturn was just under the eastern horizon, somewhere between
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 1st house](/astrology/1st-house/) is the front of a chart: your body, your manner, your first reaction, the impression you make before anyone knows you. It's angular, one of the four houses that begin at an angle, so whatever sits there shows. With [Saturn](/astrology/saturn/) here, the planet of structure and responsibility becomes part of how you meet the world: composed, watchful, careful in new rooms, and often serious earlier than the children around you seemed to be.
+Your body, your manner, your first reaction, the impression you make before anyone knows you: [the 1st house](/astrology/1st-house/) is what people meet first. It's angular, one of the four houses that begin at an angle, so whatever sits there shows. With [Saturn](/astrology/saturn/) here, the planet of structure and responsibility becomes part of how you meet the world: composed, watchful, careful in new rooms, and often serious earlier than the children around you seemed to be.
 
 The 1st house's natural sign is Aries, where Saturn is in its fall, and the echo is easy to hear: the house of first moves, holding the planet that would rather wait. Spontaneity may come late. What comes early is a feeling that you have to get yourself right, your look, your manner, your timing, before you're allowed to relax into them.
 

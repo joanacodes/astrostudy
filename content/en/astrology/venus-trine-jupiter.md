@@ -1,7 +1,7 @@
 ---
 title: "Venus trine Jupiter"
 h1: "Venus trine Jupiter in a birth chart"
-description: "Venus trine Jupiter in a birth chart: appreciation and good will that flow unasked, the one trap of that ease, and Jupiter's passing seasons."
+description: "Venus trine Jupiter in a birth chart: appreciation and good will that flow unasked, the one trap of that ease, and Jupiter’s passing seasons."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"

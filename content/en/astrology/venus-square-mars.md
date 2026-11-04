@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 157
 glyph: "♀□♂"
-definition: "Venus square Mars means Venus and Mars stood about 90° apart when you were born, mostly in two signs of one modality. In a chart, liking and pursuing keep different schedules, so you learn to time them. It's friction that teaches fair asking, as I read it, never a conflict written in."
+definition: "Venus square Mars means Venus and Mars stood about 90° apart when you were born, mostly in two signs of one modality. In a chart, liking and pursuing keep different schedules, so you learn to time them. It’s friction that teaches fair asking, as I read it, never a conflict written in."
 facts:
   - { k: "Bodies", v: "Venus ♀ and Mars ♂" }
   - { k: "Aspect", v: "Square □, 90°" }
