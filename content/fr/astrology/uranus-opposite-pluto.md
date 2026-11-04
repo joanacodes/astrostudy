@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "aucune naissance avec cet aspect sur les quatre-vingts ans comptés" }
   - { title: "NASA — Uranus facts", url: "https://science.nasa.gov/uranus/facts/", note: "l’orbite d’Uranus, environ 84 ans" }
 ---
-Des cinq aspects majeurs que peuvent former Uranus et Pluton, l’opposition est celui qu’aucune naissance de 1930 à 2009 ne porte. Sur ces quatre-vingts ans, les deux planètes se sont rapprochées, rencontrées, puis ont commencé à s’éloigner, sans jamais se trouver aussi loin l’une de l’autre qu’un trigone.
+Des cinq aspects majeurs que peuvent former Uranus et Pluton, l’opposition est l’un des deux qu’aucune naissance de 1930 à 2009 ne porte, avec le trigone. Sur ces quatre-vingts ans, les deux planètes se sont rapprochées, rencontrées, puis ont commencé à s’éloigner, sans jamais se trouver aussi loin l’une de l’autre qu’un trigone.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
@@ -48,7 +48,7 @@ Si votre naissance tombe dans ces années, l’histoire de la paire dans votre t
 - **[Uranus carré Pluton](/astrology/uranus-square-pluto/) :** de 1930 à 1936, et de juin à septembre 2009.
 - **[Uranus trigone Pluton](/astrology/uranus-trine-pluto/) :** absent du décompte, comme l’opposition.
 
-Entre deux thèmes, [Uranus opposition Pluton en synastrie](/astrology/uranus-opposite-pluto-synastry/) peut exister entre des personnes nées à des décennies d’écart : Uranus en Bélier, d’une naissance du début des années 1930, fait face à Pluton en Balance, d’une naissance des années 1970 ou du début des années 1980. L’envie de changement de l’une rencontre la profondeur de l’autre d’un bout à l’autre du thème, et, comme pour toute synastrie, je ne la lis qu’avec l’accord des deux ([synastrie et consentement](/blog/synastry-behind-their-back/)).
+Entre deux thèmes, [Uranus opposition Pluton en synastrie](/astrology/uranus-opposite-pluto-synastry/) peut exister entre des personnes nées à des décennies d’écart : Uranus en Bélier, d’une naissance du début des années 1930, fait face à Pluton en Balance, d’une naissance des années 1970 ou du début des années 1980. L’envie de changement de l’une rencontre la profondeur de l’autre d’un bout à l’autre du thème. Le consentement passe d’abord, comme pour toute synastrie que je lis ([synastrie et consentement](/blog/synastry-behind-their-back/)).
 
 ## En transit {#en-transit}
 

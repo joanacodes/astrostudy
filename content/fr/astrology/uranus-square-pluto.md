@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/pluto", "/astrology/square", "/astrology/uranus-conjunct-pluto", "/astrology/uranus-square-pluto-synastry"]
 faq:
   - q: "Quelles années de naissance ont Uranus carré Pluton ?"
-    a: "À 6° près : d’avril à septembre 1930, de février 1931 à mai 1934, d’août 1934 à mars 1935, d’octobre 1935 à février 1936, et de juin à septembre 2009. Dans les années 1930, Uranus était en Bélier et Pluton en Cancer. Aucune autre naissance entre 1930 et 2009 n’a cet aspect."
+    a: "À 6° près : d’avril à septembre 1930, de février 1931 à mai 1934, d’août 1934 à mars 1935, d’octobre 1935 à février 1936, et de juin à septembre 2009. Dans les années 1930, Uranus était en Bélier et Pluton en Cancer. Ce sont ses seules naissances dans le décompte."
   - q: "Le carré Uranus–Pluton est-il un aspect destructeur ?"
     a: "Non. Dans ma lecture, aucune des deux planètes ne représente la destruction : Uranus réforme, Pluton transforme et régénère. Le carré oppose leurs deux tempos, changer tout de suite et changer jusqu’au fond, et la friction finit souvent par rebâtir quelque chose plutôt que par simplement le renverser. Une friction n’est pas un échec."
   - q: "Pourquoi une naissance de 2009 partage-t-elle cet aspect avec une naissance des années 1930 ?"
@@ -41,7 +41,7 @@ Le Bélier et le Cancer sont deux signes cardinaux. Comme motif commun de la gé
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 17 née entre 1930 et 2009 porte ce carré à 6° près. Il a duré d’avril à septembre 1930, de février 1931 à mai 1934, d’août 1934 à mars 1935 et d’octobre 1935 à février 1936, puis il est revenu dans l’orbe de juin à septembre 2009, quelques mois avant la fin du décompte. Les naissances de 2009 n’ont pas encore 18 ans, et je ne lis pas le thème des enfants ([le thème des enfants](/astrology/childrens-charts/)).
+Environ 1 personne sur 17 née entre 1930 et 2009 porte ce carré à 6° près. Il a duré d’avril à septembre 1930, de février 1931 à mai 1934, d’août 1934 à mars 1935 et d’octobre 1935 à février 1936, puis il est revenu dans l’orbe de juin à septembre 2009, quelques mois avant la fin du décompte. Les naissances de 2009 n’ont pas encore 18 ans, et je ne lis que le thème d’adultes ([le thème des enfants](/astrology/childrens-charts/)).
 
 Aspect de génération, ce carré devient personnel par les maisons ([planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)). Uranus en maison 1 en carré à Pluton en maison 4, par exemple, pourrait opposer le besoin d’aborder le monde à votre façon à un remaniement lent et profond de la vie familiale. Les contacts avec votre Soleil, votre Lune ou vos angles comptent aussi. Tout cela demande votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). C’est Uranus qui va le plus vite, environ 84 ans pour un tour du zodiaque contre 248 pour Pluton : après ce carré, Uranus a fini par rejoindre Pluton dans la conjonction des années 1960.
 

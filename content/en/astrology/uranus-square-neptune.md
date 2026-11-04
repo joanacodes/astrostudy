@@ -20,7 +20,7 @@ faq:
   - q: "Is Uranus square Neptune a hard aspect to be born with?"
     a: "It is friction, and friction is not failure. The wish to break with the old and the wish to believe in something larger keep catching on each other, which can feel restless or disenchanting at times. Over a life, that rubbing tends to produce ideals that work in practice and changes that still mean something."
   - q: "When were people born with Uranus square Neptune?"
-    a: "Counting within 6°: July to October 1951, June to December 1952, May 1953 to July 1957, and January to May 1958. For most of that time Uranus was in Cancer and Neptune in Libra. Nobody else born between 1930 and 2009 has it, so it marks a generation."
+    a: "Counting within 6°: July to October 1951, June to December 1952, May 1953 to July 1957, and January to May 1958. For most of that time Uranus was in Cancer and Neptune in Libra. Births outside those months don’t have it, so it marks a generation."
   - q: "How does Uranus square Neptune show in everyday life?"
     a: "Through the houses the two planets occupy. Where Uranus sits, you want room to do things differently; where Neptune sits, you hold an ideal or a longing. The square ties those two areas together, so a change in one tends to unsettle the dream in the other, and the dream keeps questioning the change."
 sources:
@@ -40,7 +40,7 @@ Cancer and Libra are both cardinal signs, signs that start things. As a shared t
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 1 person in 16 born between 1930 and 2009 has this square within 6°. Every one of them was born from July to October 1951, from June to December 1952, from May 1953 to July 1957, or from January to May 1958; nobody else in those eighty years has it. The closer your birth to an exact square, the louder the friction.
+About 1 person in 16 born between 1930 and 2009 has this square within 6°. Everyone born from July to October 1951, from June to December 1952, from May 1953 to July 1957, or from January to May 1958 has it; no other birth of the count shares it. The closer your birth to an exact square, the louder the friction.
 
 Being a generation's aspect, it becomes yours through your houses ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). Uranus in the 4th square Neptune in the 7th, for example, could set a home life that needs room to change against an ideal of partnership that asks for harmony. A contact with your Sun, Moon or an angle makes it personal too. The houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)). Uranus, about twice as quick as Neptune, was closing the gap: after this square, it went on to meet Neptune in the 1990s.
 

@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "no birth with it in the eighty years counted" }
   - { title: "NASA — Uranus facts", url: "https://science.nasa.gov/uranus/facts/", note: "Uranus’s orbit of about 84 years" }
 ---
-Of the five major aspects Uranus and Pluto can make, the opposition is the one no birth between 1930 and 2009 carries. In those eighty years the two planets closed in on each other, met, and began drawing apart again, without ever standing even as far apart as a trine.
+Of the five major aspects Uranus and Pluto can make, the opposition is one of the two that no birth between 1930 and 2009 carries; the trine is the other. In those eighty years the two planets closed in on each other, met, and began drawing apart again, without ever standing even as far apart as a trine.
 
 ## What it means {#what-it-means}
 
@@ -47,7 +47,7 @@ So if you were born in those years, the pair's story in your chart is told by on
 - **[Uranus square Pluto](/astrology/uranus-square-pluto/):** 1930 to 1936, and June to September 2009.
 - **[Uranus trine Pluto](/astrology/uranus-trine-pluto/):** missing from the count, like the opposition.
 
-Between two charts, [Uranus opposite Pluto in synastry](/astrology/uranus-opposite-pluto-synastry/) can happen for people born decades apart: Uranus in Aries, from a birth of the early 1930s, faces Pluto in Libra, from a birth of the 1970s or early 1980s. One person's urge for change meets the other's depth across the chart, and as with any synastry I read it only when both have agreed ([synastry and consent](/blog/synastry-behind-their-back/)).
+Between two charts, [Uranus opposite Pluto in synastry](/astrology/uranus-opposite-pluto-synastry/) can happen for people born decades apart: Uranus in Aries, from a birth of the early 1930s, faces Pluto in Libra, from a birth of the 1970s or early 1980s. One person's urge for change meets the other's depth across the chart. Consent comes first here, as in every synastry I read ([synastry and consent](/blog/synastry-behind-their-back/)).
 
 ## In transits {#in-transits}
 

@@ -41,7 +41,7 @@ The meeting fell in [Capricorn](/astrology/capricorn/), the sign of structures m
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 1 person in 13 born between 1930 and 2009 has this conjunction within 6°, and every one of them was born between January 1990 and March 1996, or between August and December 1996. Nobody else in those eighty years has it. It was exact three times, all in 1993, and the closer your birth to that year, the tighter the fusion. The two planets meet only about every 170 years: this is the one meeting anyone alive was born under.
+About 1 person in 13 born between 1930 and 2009 has this conjunction within 6°, and every one of them was born between January 1990 and March 1996, or between August and December 1996. No one born outside those months, in the eighty years counted, has it. It was exact three times, all in 1993, and the closer your birth to that year, the tighter the fusion. The two planets meet only about every 170 years: this is the one meeting anyone alive was born under.
 
 Shared by a generation, it becomes personal through the houses ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). Its house shows where invention and imagination keep meeting in your life: in the 7th, partnerships that ask to be imagined differently; in the 10th, work that changes how a field sees itself. A contact with your Sun, Moon or an angle turns the volume up. All of this needs a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 

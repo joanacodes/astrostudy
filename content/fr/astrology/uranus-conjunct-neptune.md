@@ -42,9 +42,9 @@ La rencontre a eu lieu en [Capricorne](/astrology/capricorn/), le signe des stru
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 13 née entre 1930 et 2009 porte cette conjonction à 6° près, et toutes sont nées entre janvier 1990 et mars 1996, ou entre août et décembre 1996. Aucune autre personne née sur ces quatre-vingts ans ne la porte. Elle a été exacte trois fois, toutes en 1993, et plus votre naissance est proche de cette année-là, plus la fusion est serrée. Les deux planètes ne se rencontrent qu’environ tous les 170 ans : c’est la seule rencontre sous laquelle une personne vivante ait pu naître.
+Environ 1 personne sur 13 née entre 1930 et 2009 porte cette conjonction à 6° près, et toutes sont nées entre janvier 1990 et mars 1996, ou entre août et décembre 1996. Hors de ces mois, personne dans le décompte ne la porte. Elle a été exacte trois fois, toutes en 1993, et plus votre naissance est proche de cette année-là, plus la fusion est serrée. Les deux planètes ne se rencontrent qu’environ tous les 170 ans : c’est la seule rencontre sous laquelle une personne vivante ait pu naître.
 
-Partagée par une génération, elle devient personnelle à travers les maisons ([planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)). Sa maison montre où l’invention et l’imaginaire se retrouvent dans votre vie : en maison 7, des relations qui demandent à être imaginées autrement ; en maison 10, un travail qui change le regard d’un métier sur lui-même. Un contact avec votre Soleil, votre Lune ou un angle fait monter le volume. Tout cela demande l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Partagée par une génération, elle devient personnelle à travers les maisons ([planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)). Sa maison montre où l’invention et l’imaginaire se retrouvent dans votre vie : en maison 7, des relations qui demandent à être imaginées autrement ; en maison 10, un travail qui change le regard d’un métier sur lui-même. Un contact avec votre Soleil, votre Lune ou un angle fait monter le volume. Pour tout cela, il faut l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Uranus et Neptune mettent des décennies à changer d’angle : chacun de leurs autres aspects appartient à une période de naissances.
 
@@ -53,7 +53,7 @@ Uranus et Neptune mettent des décennies à changer d’angle : chacun de leurs
 - **[Uranus trigone Neptune](/astrology/uranus-trine-neptune/) :** les naissances de 1936 à 1946, par intermittence ; les idées neuves et les grands idéaux vont dans la même direction.
 - **[Uranus opposition Neptune](/astrology/uranus-opposite-neptune/) :** aucune personne née entre 1930 et 2009 ne l’a.
 
-[Uranus conjonction Neptune en synastrie](/astrology/uranus-conjunct-neptune-synastry/) est presque inévitable entre deux personnes nées au début des années 1990, puisque les deux thèmes portent la paire en Capricorne. Je lui donne du poids quand elle tombe sur une planète personnelle ou un angle de l’autre thème, et je la lis dans les deux sens.
+[Uranus conjonction Neptune en synastrie](/astrology/uranus-conjunct-neptune-synastry/) est presque inévitable entre deux personnes nées au début des années 1990, puisque les deux thèmes portent la paire en Capricorne. Je donne du poids à cette conjonction quand elle tombe sur une planète personnelle ou un angle de l’autre thème, et je la lis dans les deux sens.
 
 ## En transit {#en-transit}
 

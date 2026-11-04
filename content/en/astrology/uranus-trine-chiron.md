@@ -38,7 +38,7 @@ Lived, this tends to look quietly practical. Unusual workarounds come to you wit
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 1 person in 45 born between 1930 and 2009 has this trine within 6°: in January 1945, from October 1945 to October 1946, from September 1994 to March 1995, from July to September 1995, and from April to July 1996. No other birth of the count has it, and the closer to exact, the more natural the workarounds feel.
+About 1 person in 45 born between 1930 and 2009 has this trine within 6°: in January 1945, from October 1945 to October 1946, from September 1994 to March 1995, from July to September 1995, and from April to July 1996. Everyone born in those months has it and nobody else in the count does; the closer to exact, the more natural the workarounds feel.
 
 In the 1940s Uranus in Gemini trined Chiron in Libra, two air signs: adaptations through words, ideas and fair arrangements with other people. In the 1990s the trine began in earth, Uranus at the end of Capricorn with Chiron in Virgo, and ended in air, Uranus in Aquarius with Chiron in Libra. The houses make it yours: Uranus in the 7th trine Chiron in the 3rd, say, could bring partners who welcome your unusual approaches to an old sensitivity about being heard. Houses rest on the birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 

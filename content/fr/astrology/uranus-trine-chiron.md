@@ -39,7 +39,7 @@ Vécu, cela prend souvent un air discrètement pratique. Les solutions inhabitue
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 45 née entre 1930 et 2009 porte ce trigone à 6° près : en janvier 1945, d’octobre 1945 à octobre 1946, de septembre 1994 à mars 1995, de juillet à septembre 1995, et d’avril à juillet 1996. Aucune autre naissance du décompte ne l’a, et plus le trigone est serré, plus les solutions de contournement semblent naturelles.
+Environ 1 personne sur 45 née entre 1930 et 2009 porte ce trigone à 6° près : en janvier 1945, d’octobre 1945 à octobre 1946, de septembre 1994 à mars 1995, de juillet à septembre 1995, et d’avril à juillet 1996. Toutes les personnes nées pendant ces mois l’ont, et personne d’autre dans le décompte ; plus le trigone est serré, plus les solutions de contournement semblent naturelles.
 
 Dans les années 1940, Uranus en Gémeaux formait un trigone à Chiron en Balance, deux signes d’air : des adaptations qui passent par les mots, les idées et des arrangements équitables avec les autres. Dans les années 1990, le trigone a commencé en terre, Uranus à la fin du Capricorne et Chiron en Vierge, et s’est terminé en air, Uranus en Verseau et Chiron en Balance. Les maisons le rendent vôtre : Uranus en maison 7 en trigone à Chiron en maison 3, par exemple, pourrait amener des partenaires qui accueillent vos approches inhabituelles d’une vieille sensibilité à la façon dont on vous écoute. Les maisons reposent sur l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
@@ -50,7 +50,7 @@ Les autres aspects de la paire :
 - **[Uranus carré Chiron](/astrology/uranus-square-chiron/) :** de 1942 à 1944, et de 1996 à 1998 ; le changement qui appuie sur le point sensible.
 - **[Uranus opposition Chiron](/astrology/uranus-opposite-chiron/) :** par intermittence de 1951 à 1990 ; de loin l’aspect le plus fréquent de la paire.
 
-Avec [Uranus trigone Chiron en synastrie](/astrology/uranus-trine-chiron-synastry/), l’originalité de l’une des deux personnes peut soulager le point sensible de l’autre presque sans effort, ce qui le rend facile à sous-estimer. Je le lis d’un côté comme de l’autre.
+Avec [Uranus trigone Chiron en synastrie](/astrology/uranus-trine-chiron-synastry/), l’originalité de l’une des deux personnes peut soulager le point sensible de l’autre presque sans effort, ce qui le rend facile à sous-estimer. Je le lis en partant de chaque personne, tour à tour.
 
 ## En transit {#en-transit}
 

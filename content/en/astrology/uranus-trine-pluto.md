@@ -38,7 +38,7 @@ For this pair, the trine would mean change that reaches the roots without a figh
 
 ## In a birth chart {#in-a-birth-chart}
 
-The count found no birth with it, and its own periods show why. In 1930 to 1936, Uranus was 90° behind Pluto and closing; it caught up in the conjunction of 1963 to 1968, pulled ahead through the sextile of the 1990s, and in 2009 was already back at a square. The trine lies before the first of those squares and after the second, outside the eighty years on both sides. So among adults born from 1930 onwards, nobody has it. Many of them have no major Uranus–Pluto aspect at all: births from 1936 to 1941, from 1947 to 1963, from 1968 to 1991 and from 2001 to 2009 fall between the pair's aspects.
+The count found no birth with it, and its own periods show why. From 1930 to 1936, Uranus was 90° behind Pluto and closing; it caught up in the conjunction of 1963 to 1968, pulled ahead through the sextile of the 1990s, and in 2009 was already back at a square. The trine lies before the first of those squares and after the second, outside the eighty years on both sides. So among adults born from 1930 onwards, nobody has it. Many of them have no major Uranus–Pluto aspect at all: births from 1936 to 1941, from 1947 to 1963, from 1968 to 1991 and from 2001 to 2009 fall between the pair's aspects.
 
 What the pair's other aspects describe instead:
 
@@ -47,7 +47,7 @@ What the pair's other aspects describe instead:
 - **[Uranus square Pluto](/astrology/uranus-square-pluto/):** the friction of the early 1930s, back in orb in 2009.
 - **[Uranus opposite Pluto](/astrology/uranus-opposite-pluto/):** like the trine, absent from the count.
 
-Between two charts, [Uranus trine Pluto in synastry](/astrology/uranus-trine-pluto-synastry/) is possible for people born some years apart: one person's Uranus trine the other's Pluto, as between someone born in the early 1930s with Uranus in Aries and someone born with Pluto in Leo, from the end of the 1930s to the 1950s. One brings the appetite for change, the other the depth, and I read it from both sides. A birth chart born in the count can't hold this trine, but a relationship can.
+Between two charts, [Uranus trine Pluto in synastry](/astrology/uranus-trine-pluto-synastry/) is possible for people born some years apart: one person's Uranus trine the other's Pluto, as between someone born in the early 1930s with Uranus in Aries and someone born with Pluto in Leo, from the end of the 1930s to the 1950s. One brings the appetite for change, the other the depth, and I read it from both sides. No birth chart from those eighty years holds this trine, but a relationship can.
 
 ## In transits {#in-transits}
 

@@ -21,7 +21,7 @@ faq:
   - q: "Que veut dire un trigone entre Uranus et Neptune ?"
     a: "Que l’envie de faire autrement et la capacité d’imaginer quelque chose de plus grand se soutiennent. Le changement arrive souvent avec une vision, et la vision trouve des débouchés concrets sans trop forcer. C’est une aisance à employer, pas une garantie : un trigone qu’on ne sollicite pas peut tout simplement rester là."
   - q: "Quelle génération a Uranus trigone Neptune ?"
-    a: "Les personnes nées par intermittence de juin 1936 à mars 1946, à 6° près, et sans interruption de mars 1940 à juin 1943. Avant 1940, le trigone revenait quelques mois chaque année. Aucune autre personne née entre 1930 et 2009 ne l’a : je le lis donc à travers les maisons."
+    a: "Les personnes nées par intermittence de juin 1936 à mars 1946, à 6° près, et sans interruption de mars 1940 à juin 1943. Avant 1940, le trigone revenait quelques mois chaque année. Dans le décompte, il n’appartient qu’à cette génération : je le lis donc à travers les maisons."
   - q: "Ce trigone entre Uranus et Neptune rend-il la vie plus facile ?"
     a: "Il rend une chose plus facile : laisser les idées neuves et les idéaux se nourrir. Il n’enlève pas l’effort, et ce n’est pas de la chance. La fluidité n’est pas la passivité, et le trigone donne le plus quand on lui confie un vrai travail, une cause, un métier ou une communauté à repenser avec un peu d’imagination."
 sources:

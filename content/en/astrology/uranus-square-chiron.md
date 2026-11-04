@@ -22,7 +22,7 @@ faq:
   - q: "Does Uranus square Chiron mean sudden upheavals?"
     a: "No chart predicts events, and this square doesn’t either. It describes friction between wanting change and having a tender place that changes can press on. Lived over years, that friction tends to make you good at adapting again, and often good at helping others through a change they didn’t choose."
   - q: "In which months was Uranus square Chiron in orb?"
-    a: "Within 6°: October 1942 to March 1943, August to November 1943, March to August 1944, November 1996 to March 1997, August to November 1997, and April to September 1998. Nobody else born between 1930 and 2009 has it, which makes the two groups small."
+    a: "Within 6°: October 1942 to March 1943, August to November 1943, March to August 1944, November 1996 to March 1997, August to November 1997, and April to September 1998. With no other births in the count, the two groups are small."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the square, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have it, and the months it was in orb" }
@@ -38,7 +38,7 @@ In daily life, change tends to press on the sore spot. A sudden shift of plans u
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 1 person in 39 born between 1930 and 2009 has this square within 6°, in six short stretches: October 1942 to March 1943, August to November 1943, March to August 1944, November 1996 to March 1997, August to November 1997, and April to September 1998. The runs were brief because Chiron was moving quickly, through signs it crosses in two or three years: Leo and Virgo in the 1940s, Scorpio in the 1990s.
+About 1 person in 39 born between 1930 and 2009 has this square within 6°, in six short stretches: October 1942 to March 1943, August to November 1943, March to August 1944, November 1996 to March 1997, August to November 1997, and April to September 1998. Everyone born in those stretches shares it. The runs were brief because Chiron was moving quickly, through signs it crosses in two or three years: Leo and Virgo in the 1940s, Scorpio in the 1990s.
 
 The signs set a tone. In 1943 and 1944 Uranus in Gemini squared Chiron in Virgo, two mutable signs; around 1997 Uranus in Aquarius squared Chiron in Scorpio, two fixed ones. The houses show where the friction lives: Uranus in the 10th square Chiron in the 1st, for instance, could set a working life that keeps changing course against a sensitivity about how you come across. That needs a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 

@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/pluto", "/astrology/square", "/astrology/uranus-conjunct-pluto", "/astrology/uranus-square-pluto-synastry"]
 faq:
   - q: "Which birth years have Uranus square Pluto?"
-    a: "Counting within 6°: April to September 1930, February 1931 to May 1934, August 1934 to March 1935, October 1935 to February 1936, and June to September 2009. In the 1930s Uranus was in Aries and Pluto in Cancer. No other birth between 1930 and 2009 has it."
+    a: "Counting within 6°: April to September 1930, February 1931 to May 1934, August 1934 to March 1935, October 1935 to February 1936, and June to September 2009. In the 1930s Uranus was in Aries and Pluto in Cancer. Those are its only births in the count."
   - q: "Is Uranus square Pluto a destructive aspect?"
     a: "No. Neither planet stands for destruction as I read them: Uranus reforms, Pluto transforms and regenerates. The square sets their two tempos against each other, change now and change all the way down, and the friction tends to end in something rebuilt rather than simply knocked over. Friction is not failure."
   - q: "Why does a 2009 birth share this aspect with a 1930s one?"
@@ -40,7 +40,7 @@ Aries and Cancer are both cardinal signs. As the shared theme of the 1930s gener
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 1 person in 17 born between 1930 and 2009 has this square within 6°. It ran from April to September 1930, from February 1931 to May 1934, from August 1934 to March 1935 and from October 1935 to February 1936, then came back into orb from June to September 2009, a few months before the count ends. Births of 2009 are still under 18, and I don't read children's charts ([children's charts](/astrology/childrens-charts/)).
+About 1 person in 17 born between 1930 and 2009 has this square within 6°. It ran from April to September 1930, from February 1931 to May 1934, from August 1934 to March 1935 and from October 1935 to February 1936, then came back into orb from June to September 2009, a few months before the count ends. Births of 2009 are still under 18, and I only read adults' charts ([children's charts](/astrology/childrens-charts/)).
 
 As a generation's aspect, it turns personal through the houses ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). Uranus in the 1st square Pluto in the 4th, say, could set a need to meet the world on your own terms against a slow, deep reshaping of home life. Contacts with your Sun, Moon or angles count too. All of that needs your birth time ([what changes without a birth time](/blog/unknown-birth-time/)). Uranus is the faster planet, about 84 years round the zodiac against Pluto's 248: after this square, it went on to catch Pluto in the conjunction of the 1960s.
 

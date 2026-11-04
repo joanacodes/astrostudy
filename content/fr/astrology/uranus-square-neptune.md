@@ -21,7 +21,7 @@ faq:
   - q: "Naître avec Uranus carré Neptune, est-ce difficile ?"
     a: "C’est une friction, et une friction n’est pas un échec. L’envie de rompre avec l’ancien et l’envie de croire en quelque chose de plus grand s’accrochent sans cesse, ce qui peut donner par moments de l’agitation ou du désenchantement. Sur une vie, ce frottement produit souvent des idéaux qui tiennent dans la pratique et des changements qui gardent un sens."
   - q: "Quand sont nées les personnes qui ont Uranus carré Neptune ?"
-    a: "À 6° près : de juillet à octobre 1951, de juin à décembre 1952, de mai 1953 à juillet 1957, et de janvier à mai 1958. Pendant presque tout ce temps, Uranus était en Cancer et Neptune en Balance. Aucune autre personne née entre 1930 et 2009 ne l’a : ce carré marque une génération."
+    a: "À 6° près : de juillet à octobre 1951, de juin à décembre 1952, de mai 1953 à juillet 1957, et de janvier à mai 1958. Pendant presque tout ce temps, Uranus était en Cancer et Neptune en Balance. Les naissances hors de ces mois ne l’ont pas : ce carré marque une génération."
   - q: "Comment ce carré entre Uranus et Neptune se voit-il au quotidien ?"
     a: "Par les maisons qu’occupent les deux planètes. Là où se trouve Uranus, vous voulez de la place pour faire autrement ; là où se trouve Neptune, vous portez un idéal ou une aspiration. Le carré relie ces deux domaines : un changement dans l’un dérange souvent le rêve de l’autre, et le rêve interroge sans cesse le changement."
 sources:
@@ -41,7 +41,7 @@ Le Cancer et la Balance sont deux signes cardinaux, des signes qui commencent le
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 16 née entre 1930 et 2009 porte ce carré à 6° près. Toutes sont nées de juillet à octobre 1951, de juin à décembre 1952, de mai 1953 à juillet 1957, ou de janvier à mai 1958 ; aucune autre personne de ces quatre-vingts ans ne l’a. Plus votre naissance est proche d’un carré exact, plus la friction parle fort.
+Environ 1 personne sur 16 née entre 1930 et 2009 porte ce carré à 6° près. Toutes les personnes nées de juillet à octobre 1951, de juin à décembre 1952, de mai 1953 à juillet 1957, ou de janvier à mai 1958 l’ont ; aucune autre naissance du décompte ne le partage. Plus votre naissance est proche d’un carré exact, plus la friction parle fort.
 
 Aspect de génération, ce carré devient le vôtre par vos maisons ([planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)). Uranus en maison 4 en carré à Neptune en maison 7, par exemple, pourrait opposer une vie de foyer qui a besoin de place pour changer à un idéal de couple qui demande de l’harmonie. Un contact avec votre Soleil, votre Lune ou un angle le rend personnel aussi. Sans l’heure de naissance, pas de maisons ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Uranus, à peu près deux fois plus rapide que Neptune, refermait l’écart : après ce carré, la rencontre des deux planètes a eu lieu dans les années 1990.
 

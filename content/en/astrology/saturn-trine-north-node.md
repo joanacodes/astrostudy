@@ -42,7 +42,7 @@ A point 120° from the North Node is 60° from the [South Node](/astrology/south
 
 About 1 person in 12 born between 1930 and 2009 has Saturn within 6° of a trine to the North Node. The count uses the true node; the mean node is never more than a degree or two away, and I look at both ([mean node and true node](/astrology/mean-node-and-true-node/)). The closer to exact, the more the trine shapes the way you grow.
 
-A trine usually joins two signs of one element: Saturn in Capricorn with the North Node in Taurus or Virgo keeps the pattern in earth, growth through things made, kept and looked after. The houses show where the support runs. Saturn in the 3rd trine the North Node in the 7th, say, could show as careful habits of speech and study that make partnership easier to practise. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+A trine usually joins two signs of one element: Saturn in Capricorn with the North Node in Taurus or Virgo keeps the pattern in earth, growth through things made, kept and looked after. The houses show where the support runs. Saturn in the 3rd trine the North Node in the 7th, say, could show as careful habits of speech and study that make partnership easier to practise. The houses depend on an accurate birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 The North Node is the faster of the two: it moves backwards through a sign in about 18 months, while Saturn moves forwards through one in about 2½ years. The angle between them changes too quickly to belong to a generation; this one is personal.
 

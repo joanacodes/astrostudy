@@ -19,8 +19,8 @@ related: ["/astrology/uranus", "/astrology/north-node", "/astrology/sextile", "/
 faq:
   - q: "How does Uranus sextile the North Node help growth?"
     a: "By making experiment available. The less familiar capacity your North Node points to can be approached through new methods, unusual company or a fresh angle on an old problem. Because Uranus also trines the South Node, you can often start by renewing something you already do well. The opening still needs you to step through it."
-  - q: "How common is Uranus sextile North Node?"
-    a: "About 1 person in 11 born between 1930 and 2009 has it within 6°, counted with the true node: the most of any aspect between Uranus and the North Node in the count. The node moves quickly, so it marks people born within a few months of one another, not a generation."
+  - q: "Is Uranus sextile North Node common?"
+    a: "Fairly: about 1 person in 11 born between 1930 and 2009 has it within 6°, counted with the true node, the most of any aspect between Uranus and the North Node in the count. The node moves quickly, so it marks people born within a few months of one another, not a generation."
   - q: "Does Uranus sextile North Node mean an unconventional life?"
     a: "Not necessarily. It means unconventional approaches are on offer when you grow, which isn’t the same thing. Some people with it live quite ordinary lives and simply keep finding a new way through. The North Node shows development, not a fixed path, and how far you go with experiment is your choice."
 sources:

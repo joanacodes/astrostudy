@@ -20,7 +20,7 @@ faq:
   - q: "What does a trine between Uranus and Neptune mean?"
     a: "That the urge to do things differently and the capacity to imagine something larger support each other. Change tends to come with a vision attached, and the vision finds practical outlets without much forcing. It is an ease to use, not a guarantee: a trine left unasked can simply sit there."
   - q: "Which generation has Uranus trine Neptune?"
-    a: "People born on and off from June 1936 to March 1946, counting within 6°, and without a break from March 1940 to June 1943. Before 1940 the trine came for a few months each year. Nobody else born between 1930 and 2009 has it, so I read it through the houses."
+    a: "People born on and off from June 1936 to March 1946, counting within 6°, and without a break from March 1940 to June 1943. Before 1940 the trine came for a few months each year. Within the count it belongs to that generation alone, so I read it through the houses."
   - q: "Does Uranus trine Neptune make life easier?"
     a: "It makes one thing easier: letting new ideas and ideals feed each other. It doesn’t remove effort, and it isn’t luck. Flow is not passivity, and the trine gives most when it is handed real work, a cause, a craft or a community that needs rethinking with some imagination."
 sources:

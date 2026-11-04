@@ -23,7 +23,7 @@ faq:
   - q: "Le carré Uranus–Chiron annonce-t-il des bouleversements soudains ?"
     a: "Aucun thème ne prédit d’événements, et ce carré non plus. Il décrit une friction entre l’envie de changement et un point sensible sur lequel les changements peuvent appuyer. Vécue au fil des années, cette friction rend souvent habile à s’adapter de nouveau, et souvent capable d’aider d’autres personnes à traverser un changement qu’elles n’ont pas choisi."
   - q: "Quels mois le carré Uranus–Chiron était-il dans l’orbe ?"
-    a: "À 6° près : d’octobre 1942 à mars 1943, d’août à novembre 1943, de mars à août 1944, de novembre 1996 à mars 1997, d’août à novembre 1997, et d’avril à septembre 1998. Aucune autre personne née entre 1930 et 2009 ne l’a : les deux groupes sont petits."
+    a: "À 6° près : d’octobre 1942 à mars 1943, d’août à novembre 1943, de mars à août 1944, de novembre 1996 à mars 1997, d’août à novembre 1997, et d’avril à septembre 1998. Sans autre naissance dans le décompte, les deux groupes sont petits."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes le portent, et les mois où il était dans l’orbe" }
@@ -39,7 +39,7 @@ Au quotidien, le changement appuie souvent sur le point sensible. Un brusque cha
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 39 née entre 1930 et 2009 porte ce carré à 6° près, en six courtes périodes : d’octobre 1942 à mars 1943, d’août à novembre 1943, de mars à août 1944, de novembre 1996 à mars 1997, d’août à novembre 1997, et d’avril à septembre 1998. Ces périodes ont été brèves parce que Chiron avançait vite, dans des signes qu’il traverse en deux ou trois ans : le Lion et la Vierge dans les années 1940, le Scorpion dans les années 1990.
+Environ 1 personne sur 39 née entre 1930 et 2009 porte ce carré à 6° près, en six courtes périodes : d’octobre 1942 à mars 1943, d’août à novembre 1943, de mars à août 1944, de novembre 1996 à mars 1997, d’août à novembre 1997, et d’avril à septembre 1998. Toutes les personnes nées pendant ces périodes le partagent. Ces périodes ont été brèves parce que Chiron avançait vite, dans des signes qu’il traverse en deux ou trois ans : le Lion et la Vierge dans les années 1940, le Scorpion dans les années 1990.
 
 Les signes donnent un ton. En 1943 et 1944, Uranus en Gémeaux formait un carré à Chiron en Vierge, deux signes mutables ; vers 1997, Uranus en Verseau formait un carré à Chiron en Scorpion, deux signes fixes. Les maisons montrent où vit la friction : Uranus en maison 10 en carré à Chiron en maison 1, par exemple, pourrait opposer une vie professionnelle qui change sans cesse de cap à une sensibilité sur la façon dont vous apparaissez. Cela demande l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

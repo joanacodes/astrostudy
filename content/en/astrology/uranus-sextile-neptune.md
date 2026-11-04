@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/neptune", "/astrology/sextile", "/astrology/uranus-conjunct-pluto", "/astrology/uranus-sextile-neptune-synastry"]
 faq:
   - q: "Which years gave people Uranus sextile Neptune?"
-    a: "Counting within 6°: October and November 1963, August 1964 to February 1965, June 1965 to August 1969, and March to June 1970. For most of that time Uranus was in Virgo and Neptune in Scorpio. Nobody else born between 1930 and 2009 has it, which makes it a generation’s aspect."
+    a: "Counting within 6°: October and November 1963, August 1964 to February 1965, June 1965 to August 1969, and March to June 1970. For most of that time Uranus was in Virgo and Neptune in Scorpio. Outside those months the count finds no one with it, which makes it a generation’s aspect."
   - q: "Is Uranus sextile Neptune a gift?"
     a: "An opening, rather. The sextile lets new methods and wide imagination switch each other on, but it doesn’t do the work: it waits for someone to engage. Taken up, it can make ideals practical and inventions humane. Left alone, it stays a possibility, which is still worth knowing you have."
   - q: "How can an aspect a whole generation shares be personal?"
@@ -40,11 +40,11 @@ Earth and water work well together, so with Uranus in Virgo and Neptune in Scorp
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 1 person in 17 born between 1930 and 2009 has this sextile within 6°: those born in October and November 1963, from August 1964 to February 1965, from June 1965 to August 1969, and from March to June 1970. Nobody else born in those eighty years has it. The closer your birth to an exact pass, the more readily the door opens; at 5° or 6° it needs a push.
+About 1 person in 17 born between 1930 and 2009 has this sextile within 6°: those born in October and November 1963, from August 1964 to February 1965, from June 1965 to August 1969, and from March to June 1970. Those are the only months of the count that give it. The closer your birth to an exact pass, the more readily the door opens; at 5° or 6° it needs a push.
 
 Like every aspect of these two planets, it describes a generation more than a person ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). What's yours is where it lands. Uranus in the 3rd sextile Neptune in the 5th could show as new ways of speaking that open up play and imagination; Uranus in the 10th with Neptune in the 12th, as work that changes how things are done in service of something quieter. Placing those houses takes your birth time ([what changes without a birth time](/blog/unknown-birth-time/)). Uranus is the faster of the two, about 84 years round the zodiac against Neptune's 165.
 
-The pair's other aspects, each with its own birth years:
+Each of the pair's other aspects has birth years of its own:
 
 - **[Uranus conjunct Neptune](/astrology/uranus-conjunct-neptune/):** born from 1990 to 1996; the two fused into a single process.
 - **[Uranus square Neptune](/astrology/uranus-square-neptune/):** born from 1951 to 1958; reform and ideals in friction until a workable form is found.

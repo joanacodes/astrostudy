@@ -21,7 +21,7 @@ faq:
     a: "That growing, for you, involves doing things differently. The less familiar capacity your North Node points to comes bound up with independence and experiment, and the South Node opposite holds the habits you grow away from. It is a direction to practise, not a fate, and it doesn’t oblige you to be unusual for its own sake."
   - q: "Is Uranus conjunct North Node a sign of a destined life?"
     a: "Not as I read it. The North Node shows development, and development is never destiny: it is practice, feedback and adjustment over years. With Uranus on it, that practice tends to involve breaking from what is expected of you, which can feel like being called. The calling is still yours to answer, or not."
-  - q: "How rare is Uranus conjunct North Node?"
+  - q: "Is Uranus conjunct North Node unusual?"
     a: "Fairly rare: about 1 person in 37 born between 1930 and 2009, within 6°, with the true node. The node moves backwards through a sign in about 18 months while Uranus moves slowly forwards, so the meeting lasts only months and returns years later."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "his four aspects, which leave out the conjunction" }

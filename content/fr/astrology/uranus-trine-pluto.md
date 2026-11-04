@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "aucune naissance avec cet aspect sur les quatre-vingts ans comptés" }
   - { title: "NASA — Pluto facts", url: "https://science.nasa.gov/dwarf-planets/pluto/facts/", note: "l’orbite de Pluton, environ 248 ans" }
 ---
-Uranus trigone Pluton manque à toutes les naissances de 1930 à 2009 : sur ces quatre-vingts ans, les deux planètes ne se sont jamais trouvées à moins de 6° d’un trigone. Ce trigone appartient aux personnes nées avant ou après le décompte, et touche tout le monde autrement, en transit et entre deux thèmes.
+Aucune naissance de 1930 à 2009 n’a Uranus trigone Pluton : sur ces quatre-vingts ans, les deux planètes ne se sont jamais trouvées à moins de 6° d’un trigone. Ce trigone appartient aux personnes nées avant ou après le décompte, et touche tout le monde autrement, en transit et entre deux thèmes.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
@@ -48,7 +48,7 @@ Ce que décrivent à la place les autres aspects de la paire :
 - **[Uranus carré Pluton](/astrology/uranus-square-pluto/) :** la friction du début des années 1930, revenue dans l’orbe en 2009.
 - **[Uranus opposition Pluton](/astrology/uranus-opposite-pluto/) :** comme le trigone, absente du décompte.
 
-Entre deux thèmes, [Uranus trigone Pluton en synastrie](/astrology/uranus-trine-pluto-synastry/) est possible pour des personnes nées à quelques années d’écart ou plus : Uranus chez l’une en trigone à Pluton chez l’autre, comme entre une personne née au début des années 1930 avec Uranus en Bélier et une personne née avec Pluton en Lion, de la fin des années 1930 aux années 1950. L’une apporte le goût du changement, l’autre la profondeur, et je le lis des deux côtés. Un thème natal du décompte ne peut pas contenir ce trigone, une relation si.
+Entre deux thèmes, [Uranus trigone Pluton en synastrie](/astrology/uranus-trine-pluto-synastry/) est possible pour des personnes nées à quelques années d’écart ou plus : Uranus chez l’une en trigone à Pluton chez l’autre, comme entre une personne née au début des années 1930 avec Uranus en Bélier et une personne née avec Pluton en Lion, de la fin des années 1930 aux années 1950. L’une apporte le goût du changement, l’autre la profondeur, et je le lis des deux côtés. Aucun thème natal de ces quatre-vingts ans ne contient ce trigone, mais une relation le peut.
 
 ## En transit {#en-transit}
 

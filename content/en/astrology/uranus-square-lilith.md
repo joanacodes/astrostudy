@@ -40,7 +40,7 @@ In daily life, the change you want keeps disturbing the boundaries you've drawn 
 
 About 1 person in 15 born between 1930 and 2009 has Uranus within 6° of a square to mean Lilith. With two square points in the circle, it comes about twice a decade, for a few months each time, and Lilith, the faster at about nine months a sign, does the moving. True Lilith can sit far from the mean ([which Lilith is mine?](/astrology/which-lilith-is-mine/)).
 
-A square usually joins signs of the same modality. Uranus in Aries square Lilith in Cancer, two cardinal signs, might set a push to strike out alone against a fierce, private need for a home on your own terms. The houses place the friction: Uranus in the 10th square Lilith in the 7th, for instance, could pit a working life that changes direction at will against an untamed side that surfaces in partnership. Both need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)). The closer to exact, the more insistent the rub.
+Squares tend to link signs of one modality. Uranus in Aries square Lilith in Cancer, two cardinal signs, might set a push to strike out alone against a fierce, private need for a home on your own terms. The houses place the friction: Uranus in the 10th square Lilith in the 7th, for instance, could pit a working life that changes direction at will against an untamed side that surfaces in partnership. Both need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)). The closer to exact, the more insistent the rub.
 
 The pair's other aspects:
 
@@ -55,4 +55,4 @@ The pair's other aspects:
 
 Transiting Lilith squares natal Uranus twice in each round of about 8 years and 10 months, for a couple of weeks; transiting Uranus squares natal Lilith twice in 84 years, for months at a time.
 
-Born with the square, you meet it more often than most aspects return: at each of Lilith's returns and again halfway between, since the point opposite natal Lilith also lies 90° from natal Uranus. Weather, not a forecast: brief seasons that ask whether your terms still fit, never verdicts.
+Born with the square, you meet it twice in each of Lilith's cycles: at every return and again halfway between, since the point opposite natal Lilith also lies 90° from natal Uranus. Weather, not a forecast: brief seasons that ask whether your terms still fit, never verdicts.

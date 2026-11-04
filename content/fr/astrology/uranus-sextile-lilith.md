@@ -39,7 +39,7 @@ Concrètement, l’originalité offre à la part cachée un canal honorable. Ce 
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 15 née entre 1930 et 2009 a Uranus à moins de 6° d’un sextile à la Lilith moyenne, le point qu’utilise ce site ([quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)). Lilith va le plus vite, un signe en neuf mois environ contre sept ans pour Uranus, et passe les deux points de sextile environ deux fois tous les dix ans, quelques mois chaque fois : un aspect personnel, pas un aspect de génération.
+Environ 1 personne sur 15 née entre 1930 et 2009 a Uranus à moins de 6° d’un sextile à la Lilith moyenne, celle que j’utilise ([quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)). Lilith va le plus vite, un signe en neuf mois environ contre sept ans pour Uranus, et passe les deux points de sextile environ deux fois tous les dix ans, quelques mois chaque fois : un aspect personnel, pas un aspect de génération.
 
 Les deux se trouvent en général dans des éléments qui s’entendent. Avec Uranus en Scorpion et Lilith en Capricorne, l’eau et la terre, une indépendance discrète peut donner une issue à une ambition qui ne s’excuse pas ; avec Uranus en Gémeaux et Lilith en Lion, l’air et le feu, un esprit vif peut offrir une scène à une audace cachée. Les maisons donnent le décor : Uranus en maison 11 en sextile à Lilith en maison 1, par exemple, pourrait trouver des amitiés et des groupes qui laissent la part indomptée se montrer dans votre façon d’aborder le monde. Il y faut l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

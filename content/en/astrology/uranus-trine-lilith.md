@@ -40,7 +40,7 @@ Lived, it often looks like ease with your own strangeness. The wish to do things
 
 About 1 person in 15 born between 1930 and 2009 has Uranus within 6° of a trine to mean Lilith. Lilith moves forward through a sign in about nine months, so the trine comes about twice a decade and lasts a few months, while Uranus, seven years to a sign, barely moves meanwhile. True Lilith can be tens of degrees away, so check which point your chart shows ([which Lilith is mine?](/astrology/which-lilith-is-mine/)).
 
-A trine usually joins signs of one element. Uranus in Pisces trine Lilith in Scorpio, both water, might give an independence that moves by intuition and a privacy nobody can talk you out of. The houses say where the flow runs: Uranus in the 4th trine Lilith in the 12th, say, could give a home arranged your own way that offers the most private part of you a safe place. Houses need your birth time ([what changes without a birth time](/blog/unknown-birth-time/)). The tighter the orb, the less you notice the trine working; at the edge of 6°, you may have to go looking for it.
+A trine usually joins signs of one element. Uranus in Pisces trine Lilith in Scorpio, both water, might give an independence that moves by intuition and a privacy nobody can talk you out of. The houses say where the flow runs: Uranus in the 4th trine Lilith in the 12th, say, could give a home arranged your own way that offers the most private part of you a safe place. Only a birth time gives you the houses ([what changes without a birth time](/blog/unknown-birth-time/)). The tighter the orb, the less you notice the trine working; at the edge of 6°, you may have to go looking for it.
 
 The pair's other aspects:
 

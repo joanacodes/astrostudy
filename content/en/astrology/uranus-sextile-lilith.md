@@ -38,7 +38,7 @@ In plain words, originality offers the hidden part a respectable channel. What y
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 1 person in 15 born between 1930 and 2009 has Uranus within 6° of a sextile to mean Lilith, counted with the mean point the site uses ([which Lilith is mine?](/astrology/which-lilith-is-mine/)). Lilith is the faster of the two, a sign in about nine months against Uranus's seven years, and it passes the two sextile points about twice a decade, a few months each time: a personal aspect, not a generation's.
+About 1 person in 15 born between 1930 and 2009 has Uranus within 6° of a sextile to mean Lilith, counted with mean Lilith, the one I use ([which Lilith is mine?](/astrology/which-lilith-is-mine/)). Lilith is the faster of the two, a sign in about nine months against Uranus's seven years, and it passes the two sextile points about twice a decade, a few months each time: a personal aspect, not a generation's.
 
 The two usually sit in elements that get on. With Uranus in Scorpio and Lilith in Capricorn, water and earth, a private independence can give an unapologetic ambition its outlet; with Uranus in Gemini and Lilith in Leo, air and fire, a restless mind can give a hidden boldness its stage. Houses add the setting: Uranus in the 11th sextile Lilith in the 1st, say, could find friends and groups that let the untamed part show in the way you meet the world. For that you need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 

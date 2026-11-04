@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/neptune", "/astrology/sextile", "/astrology/uranus-conjunct-pluto", "/astrology/uranus-sextile-neptune-synastry"]
 faq:
   - q: "Quelles années ont donné le sextile Uranus–Neptune ?"
-    a: "À 6° près : octobre et novembre 1963, d’août 1964 à février 1965, de juin 1965 à août 1969, et de mars à juin 1970. Pendant presque tout ce temps, Uranus était en Vierge et Neptune en Scorpion. Aucune autre personne née entre 1930 et 2009 ne l’a : c’est un aspect de génération."
+    a: "À 6° près : octobre et novembre 1963, d’août 1964 à février 1965, de juin 1965 à août 1969, et de mars à juin 1970. Pendant presque tout ce temps, Uranus était en Vierge et Neptune en Scorpion. En dehors de ces mois, le décompte ne trouve personne : c’est un aspect de génération."
   - q: "Le sextile Uranus–Neptune est-il un cadeau ?"
     a: "Plutôt une ouverture. Le sextile permet aux méthodes nouvelles et à l’imaginaire de s’allumer l’un l’autre, mais il ne fait pas le travail : il attend qu’on s’en saisisse. Saisi, il peut rendre les idéaux praticables et les inventions plus humaines. Laissé de côté, il reste une possibilité, qu’il vaut tout de même la peine de connaître."
   - q: "Comment un aspect partagé par toute une génération peut-il être personnel ?"
@@ -41,7 +41,7 @@ La terre et l’eau s’accordent bien : avec Uranus en Vierge et Neptune en Sc
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 17 née entre 1930 et 2009 porte ce sextile à 6° près : les naissances d’octobre et novembre 1963, d’août 1964 à février 1965, de juin 1965 à août 1969, et de mars à juin 1970. Aucune autre personne née sur ces quatre-vingts ans ne le porte. Plus votre naissance est proche d’un passage exact, plus la porte s’ouvre facilement ; à 5 ou 6°, il faut la pousser.
+Environ 1 personne sur 17 née entre 1930 et 2009 porte ce sextile à 6° près : les naissances d’octobre et novembre 1963, d’août 1964 à février 1965, de juin 1965 à août 1969, et de mars à juin 1970. Ce sont les seuls mois du décompte qui le donnent. Plus votre naissance est proche d’un passage exact, plus la porte s’ouvre facilement ; à 5 ou 6°, il faut la pousser.
 
 Comme tous les aspects de ces deux planètes, il décrit une génération plus qu’une personne ([planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)). Ce qui est à vous, c’est l’endroit où il tombe. Uranus en maison 3 en sextile à Neptune en maison 5 pourrait se voir dans des façons nouvelles de parler qui ouvrent le jeu et l’imagination ; Uranus en maison 10 avec Neptune en maison 12, dans un travail qui change les manières de faire au service de quelque chose de plus discret. Pour placer ces maisons, il faut votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). C’est Uranus qui avance le plus vite : environ 84 ans pour faire le tour du zodiaque, contre 165 pour Neptune.
 

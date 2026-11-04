@@ -41,7 +41,7 @@ Chaque groupe a ses signes. À la fin des années 1930, Uranus était en Taureau
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 23 née entre 1930 et 2009 porte ce sextile à 6° près : en novembre 1938, d’août 1939 à octobre 1940, de janvier à août 1941, de novembre 1999 à mai 2000, et de septembre 2000 à novembre 2001. Aucun autre mois du décompte ne le donne.
+Environ 1 personne sur 23 née entre 1930 et 2009 porte ce sextile à 6° près : en novembre 1938, d’août 1939 à octobre 1940, de janvier à août 1941, de novembre 1999 à mai 2000, et de septembre 2000 à novembre 2001. Aucun autre mois du décompte ne le donne, et toutes les personnes nées pendant ces mois le portent.
 
 Ces années-là, c’est Chiron qui allait le plus vite, un signe en trois ou quatre ans contre sept pour Uranus, et cet écart de vitesse explique la brièveté de chaque période. Les maisons le rendent vôtre : Uranus en maison 9 en sextile à Chiron en maison 11, par exemple, pourrait laisser un chemin d’études ou de convictions peu courant ouvrir l’accès à des groupes où vous vous sentiez autrefois à l’écart. Les contacts avec votre Soleil, votre Lune ou vos angles comptent aussi, et les maisons demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

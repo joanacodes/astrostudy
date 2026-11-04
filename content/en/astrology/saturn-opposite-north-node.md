@@ -42,7 +42,7 @@ The opposition doesn't ask you to tear the old structure down; both ends of the 
 
 About 1 person in 24 born between 1930 and 2009 has Saturn within 6° of an opposition to the North Node, counted with the true node. The mean node is never more than a degree or two away, so the two only disagree near the edge of the orb, and I look at both ([mean node and true node](/astrology/mean-node-and-true-node/)). Near exact, the pull between the two ends is strong; at 5° or 6°, it's gentler.
 
-An opposition joins opposite signs of the same modality. Saturn in Virgo with the North Node in Pisces might rest on method and order while growing towards trust in what can't be planned. The houses name the two areas of life involved: Saturn in the 4th with the North Node in the 10th, for example, could describe duties at home that came early and a direction of growth in public, working life. That needs your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+An opposition joins opposite signs of the same modality. Saturn in Virgo with the North Node in Pisces might rest on method and order while growing towards trust in what can't be planned. The houses name the two areas of life involved: Saturn in the 4th with the North Node in the 10th, for example, could describe duties at home that came early and a direction of growth in public, working life. Reading them takes your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 The North Node moves faster, backwards through a sign in about 18 months, while Saturn takes about 2½ years over one. The opposition comes and goes within months, so it describes you rather than everyone born in your year.
 
