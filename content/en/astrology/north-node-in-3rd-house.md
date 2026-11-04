@@ -28,11 +28,11 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "the notebook’s only angle, and the three that stood out" }
 ---
-The North Node in the 3rd house keeps its growth within walking distance. The [North Node](/astrology/north-node/) was in [the 3rd house](/astrology/3rd-house/) when you were born, and what it develops lives close by: your street, your siblings and neighbours, the ordinary exchanges of the week.
+The North Node in the 3rd house keeps its growth within walking distance. The [North Node](/astrology/north-node/) landed in [the 3rd house](/astrology/3rd-house/) when you were born, so what it develops lives close by: your street, your siblings and neighbours, the ordinary exchanges of the week.
 
 ## In a birth chart {#in-a-birth-chart}
 
-The 3rd is a cadent house, one of the four that follow an angle, and its natural sign is Gemini. Tradition called it the Goddess and gave it siblings, neighbours, letters and short journeys; I read it as the everyday mind and the world within reach. The [South Node](/astrology/south-node/) sits opposite, in [the 9th house](/astrology/9th-house/), the house of far horizons: belief, study, travel, the big picture. You may have grown up with a philosophy, a faith or a set of convictions that answered questions before they were asked. The 3rd-house end asks you to come down to street level, and to learn from the neighbour, the sibling, the colleague, the shop down the road. The 3rd is also the house of early learning, the classroom before the university, and I read the node here as a reason to keep learning in that spirit: basic, hands-on and alongside other people.
+Of the four cadent houses, the ones that follow an angle, the 3rd comes first, and its natural sign is Gemini. Tradition called it the Goddess and gave it siblings, neighbours, letters and short journeys; I read it as the everyday mind and the world within reach. The [South Node](/astrology/south-node/) sits opposite, in [the 9th house](/astrology/9th-house/), the house of far horizons: belief, study, travel, the big picture. You may have grown up with a philosophy, a faith or a set of convictions that answered questions before they were asked. The 3rd-house end asks you to come down to street level, and to learn from the neighbour, the sibling, the colleague, the shop down the road. The 3rd is also the house of early learning, the classroom before the university, and I read the node here as a reason to keep learning in that spirit: basic, hands-on and alongside other people.
 
 Houses come from [your birth time](/blog/unknown-birth-time/), and I draw them in Placidus. If your time is uncertain, or the node sits near a cusp, read [North Node in the 2nd house](/astrology/north-node-in-2nd-house/) or [North Node in the 4th house](/astrology/north-node-in-4th-house/) as well. The same goes for the mean node against the true one: I look at both, and the degree or two between them can be enough to cross a cusp.
 
@@ -46,7 +46,7 @@ In a couple, it can mean sharing the same small world: the street, the routines,
 
 ## At work {#at-work}
 
-At work, you may be the strategist with the long view. The North Node points to the work of connecting people at close range: writing, editing, teaching the basics, local news, community work, sales, transport, anything that keeps information moving between neighbours. Learning on the job, from the person at the next desk, counts for more here than one more qualification. Short journeys belong to this house too, so a role that keeps you moving around your own area can suit it well.
+The strategist with the long view may well be you. The North Node points to the work of connecting people at close range: writing, editing, teaching the basics, local news, community work, sales, transport, anything that keeps information moving between neighbours. Learning on the job, from the person at the next desk, counts for more here than one more qualification. Short journeys belong to this house too, so a role that keeps you moving around your own area can suit it well.
 
 ## The hard part {#the-hard-part}
 

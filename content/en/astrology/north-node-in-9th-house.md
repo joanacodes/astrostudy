@@ -28,29 +28,29 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "the notebook’s angle, and the three that stood out" }
 ---
-The North Node in the 9th house points past the edge of the familiar map. It sat in [the 9th house](/astrology/9th-house/) when you were born, and the [North Node](/astrology/north-node/) there asks you to go further than the people around you expected: in study, in travel, in what you're willing to believe and to question.
+The North Node in the 9th house points past the edge of the familiar map. From [the 9th house](/astrology/9th-house/), the [North Node](/astrology/north-node/) asks you to go further than the people around you expected: in study, in travel, in what you're willing to believe and to question.
 
 ## In a birth chart {#in-a-birth-chart}
 
-The 9th is a cadent house with Sagittarius as its natural sign. Tradition called it the God and gave it long journeys, religion, higher learning and wisdom; the Sun has its joy here. I read it as the far horizon in every sense: places, ideas, faiths and teachers beyond your first world. The [South Node](/astrology/south-node/) sits opposite, in [the 3rd house](/astrology/3rd-house/): the near and the familiar, the neighbourhood, the siblings, the daily round of messages and errands. You may know that world inside out, and be the person everyone asks for the local news. The 9th-house end asks what lies beyond it.
+Sagittarius is the natural sign of the 9th, a cadent house. Tradition called it the God and gave it long journeys, religion, higher learning and wisdom; the Sun has its joy here. I read it as the far horizon in every sense: places, ideas, faiths and teachers beyond your first world. Opposite, the [South Node](/astrology/south-node/) keeps to [the 3rd house](/astrology/3rd-house/): the near and the familiar, the neighbourhood, the siblings, the daily round of messages and errands. You may know that world inside out, and be the person everyone asks for the local news. The 9th-house end asks what lies beyond it.
 
 The house is calculated from [your birth time](/blog/unknown-birth-time/) in Placidus, my house system. The 9th ends at the Midheaven, so near that cusp a few minutes can move the node into [North Node in the 10th house](/astrology/north-node-in-10th-house/); at the other edge it may belong to [North Node in the 8th house](/astrology/north-node-in-8th-house/). The mean and the true node can sit a degree or two apart and disagree at a cusp; I look at both.
 
-My [testing notebook](/blog/i-tested-my-birth-chart/) is more modest than a philosophy: its angle is the rising sign, which held about a third of the time, and three placements stood out, Saturn, Chiron and Lilith.
+My [testing notebook](/blog/i-tested-my-birth-chart/) is more modest than a philosophy: its angle is the rising sign, which held about one time in three, and three placements stood out, Saturn, Chiron and Lilith.
 
 ## In close relationships {#in-close-relationships}
 
-In love, the 3rd-house end can keep a relationship busy and chatty, full of daily news but light on shared meaning. The 9th-house end wants a relationship with horizons: trips taken together, books argued over, a shared sense of what matters beyond the week.
+A relationship run from the 3rd-house end can stay busy and chatty, full of daily news but light on shared meaning. The 9th-house end wants a relationship with horizons: trips taken together, books argued over, a shared sense of what matters beyond the week.
 
 A partner from another country, culture or way of thinking may widen your world, and you theirs. So may a partner who simply asks bigger questions than you're used to. Love at a distance belongs to this house as well, and with this node it can be a real school rather than a second best.
 
 ## At work {#at-work}
 
-At work, you may be the dependable fixer of everyday problems, the one with the right contact two streets away. The North Node points further afield: universities, languages and translation, travel, work with people from other countries, roles where you guide someone else's learning. Learning a language for your job, or accepting the post that takes you somewhere new, can be where the growth starts. If your work has stayed in one town or one field for years, a secondment, a conference abroad or a course in another discipline is a good first step.
+Colleagues may rely on you to fix everyday problems, knowing you always have the right contact two streets away. The North Node points further afield: universities, languages and translation, travel, work with people from other countries, roles where you guide someone else's learning. Learning a language for your job, or accepting the post that takes you somewhere new, can be where the growth starts. If your work has stayed in one town or one field for years, a secondment, a conference abroad or a course in another discipline is a good first step.
 
 ## The hard part {#the-hard-part}
 
-Staying local is the old comfort. Under strain, the 3rd-house reflex is to keep busy with small things: the errands, the messages, the information that never quite adds up to a view of your own. Far horizons can feel like someone else's privilege. You may tell yourself that study and travel are for other kinds of people, with more time or more schooling; often that's the old habit talking, not the facts.
+Staying local is the old comfort. In difficult weeks, the 3rd-house end keeps busy with small things: the errands, the messages, the information that never quite adds up to a view of your own. Far horizons can feel like someone else's privilege. You may tell yourself that study and travel are for other kinds of people, with more time or more schooling; often that's the old habit talking, not the facts.
 
 When the 9th-house end wakes, it can idealise the faraway: the perfect country, the perfect teacher, the perfect school. Real horizons come with ordinary days in them, and the growth survives the disappointment.
 

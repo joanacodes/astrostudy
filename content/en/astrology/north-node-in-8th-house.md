@@ -28,7 +28,7 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "what my evidence covers: the rising sign, and the three that stood out" }
 ---
-The North Node in the 8th house asks for trust, and for the kind of closeness that changes you. It was in [the 8th house](/astrology/8th-house/) when you were born, and the [North Node](/astrology/north-node/) here points towards everything that can't be done alone: intimacy, shared resources, letting someone else hold part of your life.
+The North Node in the 8th house asks for trust, and for the kind of closeness that changes you. The [North Node](/astrology/north-node/) fell in [the 8th house](/astrology/8th-house/) at your birth, pointing towards everything that can't be done alone: intimacy, shared resources, letting someone else hold part of your life.
 
 ## In a birth chart {#in-a-birth-chart}
 
@@ -36,11 +36,11 @@ The 8th is a succedent house with Scorpio as its natural sign. It covers what de
 
 The old books gave the 8th death and inheritance. I never look for death in anyone's chart ([can astrology predict death?](/astrology/can-astrology-predict-death/)), and no chart can tell you what you'll inherit. I read this house in the life you share with the living.
 
-Since trust is the subject, here's what my evidence covers: the angle my [testing notebook](/blog/i-tested-my-birth-chart/) reports is the rising sign, which held about a third of the time, and the three that stood out were Saturn, Chiron and Lilith. The house itself needs [your birth time](/blog/unknown-birth-time/), read in Placidus, the system I use. Near its edges, the node may belong to [North Node in the 7th house](/astrology/north-node-in-7th-house/) or [North Node in the 9th house](/astrology/north-node-in-9th-house/), and since the mean and the true node can sit a degree or two apart, they may split across a cusp. I look at both.
+Since trust is the subject, here's what my evidence covers: of the angles, my [testing notebook](/blog/i-tested-my-birth-chart/) reports only the rising sign, which held in about a third of cases, and the placements that stood out in it were Saturn, Chiron and Lilith. The house itself needs [your birth time](/blog/unknown-birth-time/), read in Placidus, the system I use. Near its edges, the node may belong to [North Node in the 7th house](/astrology/north-node-in-7th-house/) or [North Node in the 9th house](/astrology/north-node-in-9th-house/), and since the mean and the true node can sit a degree or two apart, they may split across a cusp. I look at both.
 
 ## In close relationships {#in-close-relationships}
 
-In love, the 2nd-house end offers steadiness and loyalty, and may keep a careful hand on what's its own: your money, your space, your feelings. The 8th-house end asks for the intimacy that comes when both people let their guard down, physically and emotionally. That includes talking honestly about money, needs and fears, and accepting what a partner offers without keeping count.
+Steadiness and loyalty come from the 2nd-house end, which may also keep a careful hand on what's its own: your money, your space, your feelings. The 8th-house end asks for the intimacy that comes when both people let their guard down, physically and emotionally. That includes talking honestly about money, needs and fears, and accepting what a partner offers without keeping count.
 
 It doesn't mean merging into one person. It means trusting someone with something that matters, and letting the bond change you both.
 
@@ -50,7 +50,7 @@ At work, you may prefer to depend on your own skills and your own income. The No
 
 ## The hard part {#the-hard-part}
 
-Self-sufficiency is the old armour. Under strain, the 2nd-house reflex is to hold on and manage alone: no loans, no favours, nobody too close. It feels safe, and it can be lonely.
+Self-sufficiency is the old armour. Pressure makes the 2nd-house end hold on and manage alone: no loans, no favours, nobody too close. It feels safe, and it can be lonely.
 
 When the 8th-house end opens, it can open too fast: sharing everything at once, trusting the wrong person, mistaking intensity for intimacy. Trust is better built in stages, and tested gently along the way.
 

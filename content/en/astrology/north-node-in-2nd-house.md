@@ -28,11 +28,11 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "the angle my notebook reports, and the three that stood out" }
 ---
-The North Node in the 2nd house asks a question that sounds simple and can take years to answer: what is yours? The [North Node](/astrology/north-node/) sat in [the 2nd house](/astrology/2nd-house/) at your birth, and the growth it describes is concrete: your own skills, your own values, a sense of worth that stands on its own feet.
+The North Node in the 2nd house asks a question that sounds simple and can take years to answer: what is yours? In your chart the [North Node](/astrology/north-node/) occupies [the 2nd house](/astrology/2nd-house/), so the growth it describes is concrete: your own skills, your own values, a sense of worth that stands on its own feet.
 
 ## In a birth chart {#in-a-birth-chart}
 
-The 2nd is a succedent house, the one that follows the self and gives it substance, and its natural sign is Taurus. Tradition gave it money and possessions; I read it more widely as what you have, what you value and what you could live from. The [South Node](/astrology/south-node/) sits opposite, in [the 8th house](/astrology/8th-house/): shared resources, other people's money and power, intimacy, the kind of closeness in which two lives become hard to separate. You know that ground well. You may be very good in a crisis, at handling what belongs to others, or at merging your life with someone else's. The 2nd-house end asks for something quieter and sturdier: a base of your own. The sign on your 2nd-house cusp, and the house its ruler sits in, show how that base likes to be built ([house rulers](/astrology/house-rulers/)); with the node here, I read that ruler closely.
+Following the house of the self, the succedent 2nd gives it substance; its natural sign is Taurus. Tradition gave it money and possessions; I read it more widely as what you have, what you value and what you could live from. Across the chart, the [South Node](/astrology/south-node/) occupies [the 8th house](/astrology/8th-house/): shared resources, other people's money and power, intimacy, the kind of closeness in which two lives become hard to separate. You know that ground well. You may be very good in a crisis, at handling what belongs to others, or at merging your life with someone else's. The 2nd-house end asks for something quieter and sturdier: a base of your own. The sign on your 2nd-house cusp, and the house its ruler sits in, show how that base likes to be built ([house rulers](/astrology/house-rulers/)); with the node here, I read that ruler closely.
 
 The house depends on [your birth time](/blog/unknown-birth-time/), and I read it in Placidus. If the node lies close to a cusp, a small error in the time can move it to [North Node in the 1st house](/astrology/north-node-in-1st-house/) or [North Node in the 3rd house](/astrology/north-node-in-3rd-house/), and so can the choice between the mean and the true node, which differ by a degree or two at most. I look at both, and tell you when they disagree.
 
@@ -40,7 +40,7 @@ Two facts from my [testing notebook](/blog/i-tested-my-birth-chart/) belong here
 
 ## In close relationships {#in-close-relationships}
 
-The 8th-house end tends to merge: shared accounts, shared moods, shared everything, and sometimes a sense that your worth arrives through the bond. The 2nd-house end wants you to bring something of your own to the relationship and keep it: your interests, your values, your resources, your own idea of what you're worth. That isn't distance. It's what lets two people choose each other rather than need each other.
+Merging is the 8th-house habit: shared accounts, shared moods, shared everything, and sometimes a sense that your worth arrives through the bond. The 2nd-house end wants you to bring something of your own to the relationship and keep it: your interests, your values, your resources, your own idea of what you're worth. That isn't distance. It's what lets two people choose each other rather than need each other.
 
 Comfort matters here too: a good meal, a calm evening, the plain pleasure of being together.
 

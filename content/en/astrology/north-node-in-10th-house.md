@@ -28,15 +28,15 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true, and the Midheaven" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "the angle my notebook reports, and the three that stood out" }
 ---
-The North Node in the 10th house sits near the top of the chart, where the world can see. It was in [the 10th house](/astrology/10th-house/) at your birth, and the [North Node](/astrology/north-node/) there points towards a public life: a vocation, a role, a mark you make beyond your own front door.
+The North Node in the 10th house sits near the top of the chart, where the world can see. [The 10th house](/astrology/10th-house/) gives the [North Node](/astrology/north-node/) a public direction: a vocation, a role, a mark you make beyond your own front door.
 
 ## In a birth chart {#in-a-birth-chart}
 
-The 10th is angular. In Placidus, the house system I use, it begins at the [Midheaven](/astrology/midheaven/), where the zodiac crossed the meridian at your birth (not the point straight overhead), and its natural sign is Capricorn. It covers work, standing and reputation: how the wider world knows you, and what you'd like it to know you for. The [South Node](/astrology/south-node/) is at the bottom of the chart, in [the 4th house](/astrology/4th-house/): home, family, roots and the private self. That's familiar ground, and probably a source of real strength. The 10th-house end asks you to take something from that private world and offer it in public.
+Like the 4th it faces, the 10th is angular. In Placidus, the house system I use, it begins at the [Midheaven](/astrology/midheaven/), where the zodiac crossed the meridian at your birth (not the point straight overhead), and its natural sign is Capricorn. It covers work, standing and reputation: how the wider world knows you, and what you'd like it to know you for. The [South Node](/astrology/south-node/) is at the bottom of the chart, in [the 4th house](/astrology/4th-house/): home, family, roots and the private self. That's familiar ground, and probably a source of real strength. The 10th-house end asks you to take something from that private world and offer it in public.
 
 The Midheaven moves quickly with the clock, so the house needs [your birth time](/blog/unknown-birth-time/). Near the cusp, a few minutes can change the house, and [North Node in the 9th house](/astrology/north-node-in-9th-house/) may then be the page for you; deeper in, the node edges towards what [North Node in the 11th house](/astrology/north-node-in-11th-house/) describes. I look at both the mean and the true node, which can differ by a degree or two, and I'll say if they fall in different houses.
 
-The evidence, plainly: the angle my [testing notebook](/blog/i-tested-my-birth-chart/) reports is the rising sign, which held about a third of the time, and the three that stood out were Saturn, Chiron and Lilith.
+The evidence, plainly: my [testing notebook](/blog/i-tested-my-birth-chart/) covers one angle, the rising sign, which held about one time in three, and three placements stood clear of the rest: Saturn, Chiron and Lilith.
 
 ## In close relationships {#in-close-relationships}
 

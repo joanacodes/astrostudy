@@ -29,15 +29,15 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai, et le milieu du ciel" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "l’angle que rapporte mon carnet, et les trois qui se sont détachés" }
 ---
-Le Nœud Nord en maison 10 se tient près du sommet du thème, là où le monde peut voir. Il se trouvait en [maison 10](/astrology/10th-house/) à votre naissance, et le [Nœud Nord](/astrology/north-node/) y désigne une vie publique : une vocation, un rôle, une empreinte laissée au-delà de votre porte.
+Le Nœud Nord en maison 10 se tient près du sommet du thème, là où le monde peut voir. La [maison 10](/astrology/10th-house/) donne au [Nœud Nord](/astrology/north-node/) une direction publique : une vocation, un rôle, une empreinte laissée au-delà de votre porte.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La maison 10 est angulaire. En Placidus, le système de maisons que j’utilise, elle commence au [Milieu du Ciel](/astrology/midheaven/), là où le zodiaque croisait le méridien à votre naissance (et non le point juste au-dessus de vous), et son signe naturel est le Capricorne. Elle couvre le travail, la position et la réputation : la façon dont le monde vous connaît, et ce pour quoi vous aimeriez qu’il vous connaisse. Le [Nœud Sud](/astrology/south-node/) est au pied du thème, en [maison 4](/astrology/4th-house/) : le foyer, la famille, les racines, la part privée de vous. C’est un terrain familier, et sans doute une vraie source de force. Le bout maison 10 vous demande de prendre quelque chose de ce monde privé et de l’offrir en public.
+Angulaire, la maison 10 commence, en Placidus, le système de maisons que j’utilise, au [Milieu du Ciel](/astrology/midheaven/), là où le zodiaque croisait le méridien à votre naissance (et non le point juste au-dessus de vous), et son signe naturel est le Capricorne. Elle couvre le travail, la position et la réputation : la façon dont le monde vous connaît, et ce pour quoi vous aimeriez qu’il vous connaisse. Le [Nœud Sud](/astrology/south-node/) est au pied du thème, en [maison 4](/astrology/4th-house/) : le foyer, la famille, les racines, la part privée de vous. C’est un terrain familier, et sans doute une vraie source de force. Le bout maison 10 vous demande de prendre quelque chose de ce monde privé et de l’offrir en public.
 
 Le milieu du ciel bouge vite avec l’horloge : la maison demande [votre heure de naissance](/blog/unknown-birth-time/). Près de la cuspide, quelques minutes peuvent changer la maison, et [Nœud Nord en maison 9](/astrology/north-node-in-9th-house/) sera alors peut-être votre page ; plus loin dans la maison, le nœud s’approche de ce que décrit [Nœud Nord en maison 11](/astrology/north-node-in-11th-house/). Je regarde le nœud moyen comme le nœud vrai, qui peuvent différer d’un ou deux degrés, et je vous le dis s’ils tombent dans deux maisons.
 
-Les preuves, simplement : l’angle que rapporte mon [carnet de test](/blog/i-tested-my-birth-chart/) est l’ascendant, qui a tenu environ une fois sur trois, et les trois placements qui se sont détachés sont Saturne, Chiron et Lilith.
+Les preuves, simplement : mon [carnet de test](/blog/i-tested-my-birth-chart/) couvre un seul angle, l’ascendant, qui a tenu environ une fois sur trois, et trois placements se sont distingués du reste : Saturne, Chiron et Lilith.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 

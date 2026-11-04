@@ -29,15 +29,15 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai, et les angles" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "l’ascendant, en face de cette maison, et les trois qui se sont détachés" }
 ---
-Le Nœud Nord en maison 7 place votre croissance de l’autre côté de la table, dans la personne qui vous fait face. Il se trouvait en [maison 7](/astrology/7th-house/) à votre naissance, et le [Nœud Nord](/astrology/north-node/) y dit qu’une grande part de ce vers quoi vous grandissez s’apprend avec quelqu’un, pas en solo.
+Le Nœud Nord en maison 7 place votre croissance de l’autre côté de la table, dans la personne qui vous fait face. Installé en [maison 7](/astrology/7th-house/), le [Nœud Nord](/astrology/north-node/) dit qu’une grande part de ce vers quoi vous grandissez s’apprend avec quelqu’un, pas en solo.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La maison 7 est angulaire : elle commence au [descendant](/astrology/descendant/), le degré qui se couchait à l’ouest à votre naissance, et son signe naturel est la Balance. Elle couvre les personnes rencontrées en tête-à-tête : partenaires en amour comme en affaires, clientèle, collaborations proches et, dans les vieux livres, adversaires déclarés. Le [Nœud Sud](/astrology/south-node/) se tient de l’autre côté de l’horizon, en [maison 1](/astrology/1st-house/), et décrit une force que vous apportez avec vous : l’autonomie, l’initiative, une idée claire de qui vous êtes et de ce que vous en feriez. Elle reste à vous. Le bout maison 7 demande ce qui se passe quand quelqu’un d’autre a son mot à dire.
+C’est une maison angulaire : la maison 7 commence au [descendant](/astrology/descendant/), le degré qui se couchait à l’ouest à votre naissance, et son signe naturel est la Balance. Elle couvre les personnes rencontrées en tête-à-tête : partenaires en amour comme en affaires, clientèle, collaborations proches et, dans les vieux livres, adversaires déclarés. Le [Nœud Sud](/astrology/south-node/) se tient de l’autre côté de l’horizon, en [maison 1](/astrology/1st-house/), et décrit une force que vous apportez avec vous : l’autonomie, l’initiative, une idée claire de qui vous êtes et de ce que vous en feriez. Elle reste à vous. Le bout maison 7 demande ce qui se passe quand quelqu’un d’autre a son mot à dire.
 
 En Placidus, le système de maisons que j’utilise, la maison 7 commence au descendant, qui bouge avec l’ascendant : la maison demande une [heure de naissance](/blog/unknown-birth-time/) précise. Avec un nœud près de la cuspide, quelques minutes de part ou d’autre décident entre cette maison et la maison 6 ; plus loin, il peut s’approcher de la maison 8. Voyez [Nœud Nord en maison 6](/astrology/north-node-in-6th-house/) et [Nœud Nord en maison 8](/astrology/north-node-in-8th-house/) si le vôtre se trouve près d’un bord. Le nœud moyen et le nœud vrai, à un ou deux degrés au plus l’un de l’autre, peuvent tomber de part et d’autre d’une cuspide ; je regarde les deux, et je vous le dis quand c’est le cas.
 
-L’angle que rapporte mon [carnet de test](/blog/i-tested-my-birth-chart/) est l’ascendant, qui fait face à cette maison de l’autre côté du thème ; il a tenu environ une fois sur trois, et les trois placements qui se sont détachés sont Saturne, Chiron et Lilith.
+L’angle que rapporte mon [carnet de test](/blog/i-tested-my-birth-chart/) est l’ascendant, qui fait face à cette maison de l’autre côté du thème ; il a tenu environ une fois sur trois, et, parmi tous les placements, les trois qui se sont détachés sont Saturne, Chiron et Lilith.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -51,7 +51,7 @@ Au travail, les partenariats comptent autant que l’amour : une associée ou u
 
 ## Le plus difficile {#le-plus-difficile}
 
-L’autonomie est la vieille sécurité. Sous tension, le réflexe de la maison 1 consiste à tout reprendre en main, et à voir dans l’avis de l’autre une ingérence. Il arrive aussi que vous choisissiez des personnes qui ne peuvent pas s’engager, ce qui protège discrètement votre indépendance. Ou bien vous confiez à l’autre les qualités que vous préférez ne pas développer vous-même, avant de lui en vouloir de les avoir.
+L’autonomie est la vieille sécurité. Quand les choses se tendent, vous reprenez peut-être tout en main, à la manière de la maison 1, en voyant dans l’avis de l’autre une ingérence. Il arrive aussi que vous choisissiez des personnes qui ne peuvent pas s’engager, ce qui protège discrètement votre indépendance. Ou bien vous confiez à l’autre les qualités que vous préférez ne pas développer vous-même, avant de lui en vouloir de les avoir.
 
 La correction excessive, c’est vous perdre dans l’autre : ses projets, ses opinions, sa vie. Ce n’est pas non plus un partenariat ; l’autre a besoin de quelqu’un à rencontrer.
 

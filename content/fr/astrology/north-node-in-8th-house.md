@@ -29,7 +29,7 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "ce que couvrent mes preuves : l’ascendant, et les trois qui se sont détachés" }
 ---
-Le Nœud Nord en maison 8 demande la confiance, et le genre de proximité qui transforme. Il se trouvait en [maison 8](/astrology/8th-house/) à votre naissance, et le [Nœud Nord](/astrology/north-node/) y désigne tout ce qui ne se fait pas seul : l’intimité, les ressources partagées, laisser quelqu’un d’autre tenir une part de votre vie.
+Le Nœud Nord en maison 8 demande la confiance, et le genre de proximité qui transforme. Le [Nœud Nord](/astrology/north-node/) est tombé en [maison 8](/astrology/8th-house/) à votre naissance, et il désigne tout ce qui ne se fait pas seul : l’intimité, les ressources partagées, laisser quelqu’un d’autre tenir une part de votre vie.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
@@ -37,11 +37,11 @@ La maison 8 est succédente, et son signe naturel est le Scorpion. Elle couvre c
 
 Les vieux livres donnaient à la maison 8 la mort et l’héritage. Je ne cherche la mort dans le thème de personne ([L’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)), et aucun thème ne peut vous dire ce dont vous hériterez. Je lis cette maison dans la vie qu’on partage avec les vivants.
 
-Puisque la confiance est le sujet, voici ce que couvrent mes preuves : l’angle que rapporte mon [carnet de test](/blog/i-tested-my-birth-chart/) est l’ascendant, qui a tenu environ une fois sur trois, et les trois placements qui se sont détachés sont Saturne, Chiron et Lilith. La maison elle-même demande [votre heure de naissance](/blog/unknown-birth-time/), lue en Placidus, le système que j’utilise. Près de ses bords, le nœud peut relever de [Nœud Nord en maison 7](/astrology/north-node-in-7th-house/) ou de [Nœud Nord en maison 9](/astrology/north-node-in-9th-house/), et comme le nœud moyen et le nœud vrai peuvent avoir un ou deux degrés d’écart, ils peuvent se séparer de part et d’autre d’une cuspide. Je regarde les deux.
+Puisque la confiance est le sujet, voici ce que couvrent mes preuves : parmi les angles, mon [carnet de test](/blog/i-tested-my-birth-chart/) ne rapporte que l’ascendant, qui s’est vérifié environ une fois sur trois, et les placements qui s’y sont détachés sont Saturne, Chiron et Lilith. La maison elle-même demande [votre heure de naissance](/blog/unknown-birth-time/), lue en Placidus, le système que j’utilise. Près de ses bords, le nœud peut relever de [Nœud Nord en maison 7](/astrology/north-node-in-7th-house/) ou de [Nœud Nord en maison 9](/astrology/north-node-in-9th-house/), et comme le nœud moyen et le nœud vrai peuvent avoir un ou deux degrés d’écart, ils peuvent se séparer de part et d’autre d’une cuspide. Je regarde les deux.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-En amour, le bout maison 2 offre la stabilité et la loyauté, et garde peut-être une main prudente sur ce qui lui appartient : votre argent, votre espace, vos émotions. Le bout maison 8 demande l’intimité qui naît quand les deux personnes baissent la garde, physiquement et émotionnellement. Cela inclut de parler honnêtement d’argent, de besoins et de peurs, et d’accepter ce que l’autre offre sans compter.
+La stabilité et la loyauté viennent du bout maison 2, qui garde peut-être aussi une main prudente sur ce qui lui appartient : votre argent, votre espace, vos émotions. Le bout maison 8 demande l’intimité qui naît quand les deux personnes baissent la garde, physiquement et émotionnellement. Cela inclut de parler honnêtement d’argent, de besoins et de peurs, et d’accepter ce que l’autre offre sans compter.
 
 Cela ne veut pas dire se fondre en une seule personne. Cela veut dire confier à quelqu’un quelque chose qui compte, et laisser le lien vous transformer, l’autre et vous.
 
@@ -51,7 +51,7 @@ Au travail, vous préférez peut-être compter sur vos propres compétences et v
 
 ## Le plus difficile {#le-plus-difficile}
 
-L’autonomie est la vieille armure. Sous tension, le réflexe de la maison 2 consiste à tenir bon et à tout gérer en solo : pas de prêt, pas de faveur, personne de trop près. Cela rassure, et cela peut isoler.
+L’autonomie est la vieille armure. La pression pousse le bout maison 2 à tenir bon et à tout gérer en solo : pas de prêt, pas de faveur, personne de trop près. Cela rassure, et cela peut isoler.
 
 Quand le bout maison 8 s’ouvre, il peut s’ouvrir trop vite : tout partager d’un coup, faire confiance à la mauvaise personne, prendre l’intensité pour de l’intimité. La confiance se construit mieux par étapes, et se vérifie en douceur en chemin.
 

@@ -28,15 +28,15 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "the angle my notebook reports, and the three that stood out" }
 ---
-The North Node in the 5th house points somewhere many adults stop going: towards fun. The [North Node](/astrology/north-node/) was in [the 5th house](/astrology/5th-house/) when you were born, and the growth it describes is joyful on purpose: play, pleasure, romance, and things made for the love of making them.
+The North Node in the 5th house points somewhere many adults stop going: towards fun. The [North Node](/astrology/north-node/) in [the 5th house](/astrology/5th-house/) makes growth joyful on purpose: play, pleasure, romance, and things made for the love of making them.
 
 ## In a birth chart {#in-a-birth-chart}
 
-The 5th is a succedent house with Leo as its natural sign, and tradition called it Good Fortune. It covers what you do for joy: creativity, games, love affairs, hobbies, the part of life that isn't useful and doesn't need to be. The old books placed the joy of Venus here, which says how they saw it: pleasure, not duty. Opposite, in [the 11th house](/astrology/11th-house/), the [South Node](/astrology/south-node/) describes where you feel at home: friends, groups, causes, shared plans, the future you work towards with other people. You may be the friend everyone relies on, and the organiser of everybody else's fun. The 5th-house end asks what you enjoy, just you, and when you last did any of it.
+Tradition called the 5th Good Fortune; it is a succedent house, with Leo as its natural sign. It covers what you do for joy: creativity, games, love affairs, hobbies, the part of life that isn't useful and doesn't need to be. The old books placed the joy of Venus here, which says how they saw it: pleasure, not duty. Opposite, in [the 11th house](/astrology/11th-house/), the [South Node](/astrology/south-node/) describes where you feel at home: friends, groups, causes, shared plans, the future you work towards with other people. You may be the friend everyone relies on, and the organiser of everybody else's fun. The 5th-house end asks what you enjoy, just you, and when you last did any of it.
 
 Tradition also gave the 5th children. I don't read them there: a chart can't say whether or when anyone will have a child ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and I never read [children's charts](/astrology/childrens-charts/). What I read here is an adult's own joy.
 
-The house needs [your birth time](/blog/unknown-birth-time/); I use Placidus. Near a cusp, the node can belong to [North Node in the 4th house](/astrology/north-node-in-4th-house/) or [North Node in the 6th house](/astrology/north-node-in-6th-house/) instead, and the mean and the true node, a degree or two apart at most, can land on different sides of the line. I look at both. If you're wondering about evidence, the angle my [testing notebook](/blog/i-tested-my-birth-chart/) reports is the rising sign, which held about a third of the time, and Saturn, Chiron and Lilith were the three that stood out.
+The house needs [your birth time](/blog/unknown-birth-time/); I use Placidus. Near a cusp, the node can belong to [North Node in the 4th house](/astrology/north-node-in-4th-house/) or [North Node in the 6th house](/astrology/north-node-in-6th-house/) instead, and the mean and the true node, a degree or two apart at most, can land on different sides of the line. I look at both. If you're wondering about evidence, the angle my [testing notebook](/blog/i-tested-my-birth-chart/) reports is the rising sign, which held roughly one time in three, and Saturn, Chiron and Lilith were the three that stood out.
 
 ## In close relationships {#in-close-relationships}
 
@@ -46,7 +46,7 @@ In a long relationship, it means keeping play alive: surprise, games, the evenin
 
 ## At work {#at-work}
 
-At work, you may be the networker, the committee member, the one who keeps a team's aims in view. The North Node asks for work with your own creative signature: performing, designing, writing, teaching something you love, or simply a project where you can take a risk and enjoy it. If your job can't hold that, a serious hobby can. Risk belongs to this house as well, the bet on yourself; a measured one, like a pitch, an exhibition or an audition, is part of the practice.
+Networker, committee member, keeper of a team's aims: that may be your usual role at work. The North Node asks for work with your own creative signature: performing, designing, writing, teaching something you love, or simply a project where you can take a risk and enjoy it. If your job can't hold that, a serious hobby can. Risk belongs to this house as well, the bet on yourself; a measured one, like a pitch, an exhibition or an audition, is part of the practice.
 
 ## The hard part {#the-hard-part}
 

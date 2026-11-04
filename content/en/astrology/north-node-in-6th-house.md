@@ -32,7 +32,7 @@ The North Node in the 6th house finds its growth in the ordinary day: the timeta
 
 ## In a birth chart {#in-a-birth-chart}
 
-The 6th is a cadent house with Virgo as its natural sign; tradition called it Bad Fortune, and gave it servants, labour, small animals and illness. I read it as the shape of a day: the work you do, the people you work alongside, the routines that hold you up. The [South Node](/astrology/south-node/) lies opposite, in [the 12th house](/astrology/12th-house/): retreat, solitude, imagination, the inner world, the work done unseen. You may know that ground deeply. Time alone, a rich inner life, a gift for sensing what can't be said: these are real. The 6th-house end asks you to bring them into daylight, into the diary, into tasks other people can rely on.
+Cadent, with Virgo as its natural sign, the 6th was Bad Fortune to the old books, which gave it servants, labour, small animals and illness. I read it as the shape of a day: the work you do, the people you work alongside, the routines that hold you up. Facing it from [the 12th house](/astrology/12th-house/) is the [South Node](/astrology/south-node/): retreat, solitude, imagination, the inner world, the work done unseen. You may know that ground deeply. Time alone, a rich inner life, a gift for sensing what can't be said: these are real. The 6th-house end asks you to bring them into daylight, into the diary, into tasks other people can rely on.
 
 The old books also put illness here. I leave that reading alone: no chart can see your health, so it stays out of every reading I give ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). For an adult, the 6th is work, routine and care, and that's how I read it.
 
@@ -40,7 +40,7 @@ I read houses in Placidus, and they need [your birth time](/blog/unknown-birth-t
 
 ## In close relationships {#in-close-relationships}
 
-The 12th-house end may love deeply and privately, and drift away when daily life gets loud. The 6th-house end builds love into the week: a shared timetable, chores divided fairly, a morning routine that has room for both of you. A partnership grows here through rhythms you make together, which can be more romantic than it sounds.
+Deep, private love comes easily to the 12th-house end, along with a tendency to drift away when daily life gets loud. The 6th-house end builds love into the week: a shared timetable, chores divided fairly, a morning routine that has room for both of you. A partnership grows here through rhythms you make together, which can be more romantic than it sounds.
 
 It also means being honest about what you can manage, instead of quietly sacrificing yourself and resenting it later.
 
@@ -50,7 +50,7 @@ Work is the heart of this placement. You may be most creative alone, at odd hour
 
 ## The hard part {#the-hard-part}
 
-Structure can feel like a cage when you're used to the freedom of the inner world. Under strain, the 12th-house reflex is to withdraw: to cancel plans, go quiet, and let the post pile up while you recover somewhere out of reach.
+Structure can feel like a cage when you're used to the freedom of the inner world. Strain sends the 12th-house end into hiding: cancelled plans, an unanswered phone, the post piling up while you recover somewhere out of reach.
 
 The overcorrection is overwork: a timetable so full there's no room left to breathe, service turned into self-sacrifice. That's the 6th-house end learnt the hard way. A good routine leaves space for rest.
 
