@@ -23,7 +23,7 @@ faq:
   - q: "Avec Vénus en maison 11, l’amour commence-t-il par l’amitié ?"
     a: "Souvent, pas toujours. Vénus tient ici à la complicité, aux idéaux partagés et à l’aisance : vos partenaires viennent peut-être de votre cercle, et une amitié peut devenir davantage. Elle décrit votre façon d’entrer en relation, pas une prédiction de qui vous rencontrerez, ni quand."
   - q: "Faut-il l’heure de naissance pour Vénus en maison 11 ?"
-    a: "Oui. En Placidus, mon système de maisons, les limites entre les maisons 10, 11 et 12 dépendent de la minute exacte : une naissance plus tardive peut faire monter Vénus en maison 10, une naissance plus tôt la garder en maison 12. Sans l’heure, je ne lis pas cette maison."
+    a: "Oui. En Placidus, mon système de maisons, les limites entre les maisons 10, 11 et 12 dépendent de la minute exacte : une naissance plus tardive peut faire monter Vénus en maison 10, une naissance plus tôt la garder en maison 12. C’est pourquoi je ne lis pas de thème sans l’heure de naissance."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons, le Génie favorable, et la joie de Jupiter en maison 11" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }

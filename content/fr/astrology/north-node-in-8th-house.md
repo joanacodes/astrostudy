@@ -23,7 +23,7 @@ faq:
   - q: "Le Nœud Nord en maison 8 dit-il quelque chose de la mort ou de l’héritage ?"
     a: "Non. La tradition donnait à la maison 8 la mort et l’héritage, mais je ne cherche jamais la mort dans un thème, et aucun thème ne dit ce dont quelqu’un héritera. Je lis la maison 8 dans une vie d’adulte : la confiance, l’intimité, l’argent commun, ce que l’on se doit les uns aux autres."
   - q: "Faut-il l’heure de naissance pour le Nœud Nord en maison 8 ?"
-    a: "Oui. La maison où se trouve le nœud dépend de l’heure et du lieu de naissance. Près d’une cuspide, une petite erreur d’heure peut le faire passer en maison 7 ou en maison 9 : sans l’heure, je lis seulement le signe du nœud, pas sa maison."
+    a: "Oui. La maison où se trouve le nœud dépend de l’heure et du lieu de naissance. Près d’une cuspide, une petite erreur d’heure peut le faire passer en maison 7 ou en maison 9 : c’est pourquoi je ne lis pas de thème sans l’heure."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai" }

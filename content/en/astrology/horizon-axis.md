@@ -23,7 +23,7 @@ faq:
   - q: "Is the Descendant always opposite the Ascendant?"
     a: "Yes. The Descendant is the degree setting in the west as the Ascendant rises in the east, so it is always the same degree of the opposite sign: Aries rising means a Libra Descendant, Leo rising an Aquarius one. Together they make the horizon axis."
   - q: "Can I know my rising sign without a birth time?"
-    a: "Not reliably. The Ascendant changes sign about every two hours on average, faster or slower with the sign and the place, so a date alone can’t settle it. Without a time, I leave the horizon axis out of a reading and say so."
+    a: "Not reliably. The Ascendant changes sign about every two hours on average, faster or slower with the sign and the place, so a date alone can’t settle it. Without a time, I don't do the reading: there's no reading without a birth time."
   - q: "What is the difference between the Ascendant and the rising sign?"
     a: "The Ascendant is an exact degree: the point of the zodiac rising on the eastern horizon when you were born. The rising sign is simply the sign that degree falls in. People often use the two names for the same thing, and both need a birth time."
   - q: "What does it mean to have most planets above the horizon?"

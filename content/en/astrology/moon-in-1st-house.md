@@ -24,7 +24,7 @@ faq:
   - q: "Is Moon in the 1st house the same as Cancer rising?"
     a: "No. Cancer rising means Cancer was on the eastern horizon; Moon in the 1st means the Moon itself sat just below it, whatever the sign. They share a flavour, since the Moon rules Cancer, but they are read differently, and only the birth time can tell you which you have, or whether you have both."
   - q: "Why does the house of my Moon depend on the birth time?"
-    a: "Because the houses turn with the horizon, which moves about a degree every four minutes. A Moon close to the rising degree can fall in the 1st house or the 12th depending on a few minutes either way. Without your time, I can read the Moon’s sign, but not the house it speaks from."
+    a: "Because the houses turn with the horizon, which moves about a degree every four minutes. A Moon close to the rising degree can fall in the 1st house or the 12th depending on a few minutes either way. Without your time, the house the Moon speaks from is unknown, and on the day it changes sign, so is its sign: I don't read a chart without it."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, and what tradition gave the 1st" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }

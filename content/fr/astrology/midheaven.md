@@ -29,7 +29,7 @@ faq:
   - q: "Le Milieu du Ciel est-il la cuspide de la maison 10 ?"
     a: "En Placidus, le système de maisons que j’utilise, et dans les autres systèmes par quadrants, oui. En maisons Whole Sign ou égales, le Milieu du Ciel garde son sens mais flotte, et peut tomber en maison 9 ou en maison 11. C’est une des raisons pour lesquelles un même thème peut changer d’allure d’un site à l’autre."
   - q: "Pourquoi faut-il l’heure de naissance pour le Milieu du Ciel ?"
-    a: "Tout le zodiaque croise le méridien une fois par jour : le Milieu du Ciel change donc de signe environ toutes les deux heures. Une demi-heure d’écart sur l’heure de naissance peut suffire à le faire passer dans le signe suivant. Sans l’heure, je lis vos planètes dans leurs signes et je laisse les angles de côté."
+    a: "Tout le zodiaque croise le méridien une fois par jour : le Milieu du Ciel change donc de signe environ toutes les deux heures. Une demi-heure d’écart sur l’heure de naissance peut suffire à le faire passer dans le signe suivant. C’est pourquoi je ne lis pas de thème sans l’heure de naissance."
 sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "l’astronomie des angles" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons et leurs significations" }

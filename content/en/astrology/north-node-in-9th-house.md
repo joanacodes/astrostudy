@@ -22,7 +22,7 @@ faq:
   - q: "Does North Node in the 9th house mean I should move abroad?"
     a: "Not necessarily. Some people with this node travel or live abroad, and the 9th house covers long journeys, but the distance can just as well be a degree, a new language or a tradition you study from home. It asks you to widen your world, not to pack a suitcase."
   - q: "Do I need my birth time for North Node in the 9th house?"
-    a: "Yes. The node’s house is set by the time and place of birth, and near the cusp of the 10th, the Midheaven, a few minutes can move it across. Without the time I can read the node’s sign, which is shared by everyone born in the same year and a half, but not its house."
+    a: "Yes. The node’s house is set by the time and place of birth, and near the cusp of the 10th, the Midheaven, a few minutes can move it across. The node’s sign is shared by everyone born in the same year and a half; its house needs the time, which is why I don’t read a chart without it."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }

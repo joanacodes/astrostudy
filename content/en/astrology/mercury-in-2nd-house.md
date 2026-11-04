@@ -22,7 +22,7 @@ faq:
   - q: "Does Mercury in the 2nd house mean I’ll earn money through words?"
     a: "A chart can’t tell you what you will earn. What this placement describes is a habit of mind: you think in terms of resources, and your knowledge, skills and words are among the ones you have. Whether you make a living from them depends on choices and circumstances no chart can see."
   - q: "Can I know which house my Mercury is in without a birth time?"
-    a: "No. The houses depend on the exact time and place of birth. Mercury near the boundary with the 1st or 3rd house can change house with a few minutes’ difference, and each house gives the same Mercury a different subject. Without the time, I read its sign only."
+    a: "No. The houses depend on the exact time and place of birth. Mercury near the boundary with the 1st or 3rd house can change house with a few minutes’ difference, and each house gives the same Mercury a different subject. That's why I don't read a chart without the birth time."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
   - { title: "Dorotheus of Sidon, Carmen Astrologicum", note: "the houses in practice" }

@@ -25,7 +25,7 @@ faq:
   - q: "Why isn’t my Midheaven exactly square my Ascendant?"
     a: "Because the zodiac is tilted, and it meets the horizon and the meridian at angles that change through the day and with latitude. The two points are exactly ninety degrees apart only in particular cases; usually the gap is a little more or less, and far from the equator it can be a lot."
   - q: "Do I need a birth time for my Midheaven?"
-    a: "Yes. The meridian turns with the sky, and the Midheaven moves through all twelve signs in about a day, so a date alone can’t place it. Without a time, I leave the meridian axis out of a reading and say so."
+    a: "Yes. The meridian turns with the sky, and the Midheaven moves through all twelve signs in about a day, so a date alone can’t place it. Without a time, I don't do the reading: there's no reading without a birth time."
   - q: "Does the Midheaven show my career?"
     a: "It’s read as your public direction: the work, reputation and role you grow into and are seen for. It describes a direction, not a job title, and I never predict jobs, money or success from it."
 sources:

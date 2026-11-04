@@ -21,7 +21,7 @@ faq:
   - q: "Is Mars in the 1st house good?"
     a: "It’s neither good nor bad. It makes your drive visible: you act readily, compete openly and say what you want. That can read as confidence or as pressure, depending on how you use it and on the rest of the chart. Knowing the first impression you make helps you choose it."
   - q: "Can I know I have Mars in the 1st house without a birth time?"
-    a: "No. The Ascendant moves through a whole sign in about two hours on average, so a Mars near it can sit in the 12th house or the 1st depending on a few minutes. Without the time, I read Mars by its sign and aspects, and leave its house out of the reading."
+    a: "No. The Ascendant moves through a whole sign in about two hours on average, so a Mars near it can sit in the 12th house or the 1st depending on a few minutes. That's why I don't read a chart without the birth time."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the 1st house and what tradition gave it" }
   - { title: "Dorotheus of Sidon, Carmen Astrologicum", note: "the houses read in a nativity" }

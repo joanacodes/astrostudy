@@ -22,7 +22,7 @@ faq:
   - q: "Does North Node in the 8th house say anything about death or inheritance?"
     a: "No. Tradition gave the 8th house death and inheritance, but I never look for death in a chart, and no chart can say what anyone will inherit. I read the 8th in an adult’s life: trust, intimacy, shared money and what people owe each other."
   - q: "Do I need my birth time for North Node in the 8th house?"
-    a: "Yes. Which house the node occupies depends on the time and place of birth. Near a cusp, a small error in the time can move it into the 7th or the 9th house, so without the time I read the node’s sign only, not its house."
+    a: "Yes. Which house the node occupies depends on the time and place of birth. Near a cusp, a small error in the time can move it into the 7th or the 9th house, which is why I don’t read a chart without the time."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }

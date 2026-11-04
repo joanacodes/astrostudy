@@ -23,7 +23,7 @@ faq:
   - q: "Le Nœud Nord en maison 3 parle-t-il de la fratrie ?"
     a: "Il peut. La tradition donnait à la maison 3 les frères et sœurs, les cousins et les voisins : ces liens sont souvent le lieu de l’exercice. Mais la maison est plus large que la famille : elle couvre l’échange quotidien avec toute personne proche, et ce que vous en apprenez, à tout âge."
   - q: "Faut-il l’heure de naissance pour le Nœud Nord en maison 3 ?"
-    a: "Oui. Son signe est le même pour toutes les personnes nées dans le même an et demi, mais la maison vient de l’heure et du lieu de naissance. Sans l’heure, je ne peux même pas dire si le nœud est en maison 3 : je ne lis donc pas la maison sans elle."
+    a: "Oui. Son signe est le même pour toutes les personnes nées dans le même an et demi, mais la maison vient de l’heure et du lieu de naissance. Sans l’heure, je ne peux même pas dire si le nœud est en maison 3 : je ne lis donc pas le thème sans elle."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai" }

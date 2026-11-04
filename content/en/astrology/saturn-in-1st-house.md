@@ -24,7 +24,7 @@ faq:
   - q: "Does Saturn in the 1st house make you look older?"
     a: "It describes a manner more than a face: composure, watchfulness, a seriousness that can read as maturity in someone young. I read that as gravity rather than age. It often sits more comfortably later in life, once the years catch up with the manner you started with."
   - q: "Why does Saturn in the 1st house need a birth time?"
-    a: "Because the houses are set by the time and place of birth. The horizon moves by a degree about every four minutes, so a small error can put Saturn in the 12th house instead, or deeper into the 1st. Without the time, I can read Saturn’s sign but not its house."
+    a: "Because the houses are set by the time and place of birth. The horizon moves by a degree about every four minutes, so a small error can put Saturn in the 12th house instead, or deeper into the 1st. Saturn’s sign doesn’t need the time, but its house does, which is why I don’t read a chart without it."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Saturn’s fall in Aries, the 1st house’s natural sign" }

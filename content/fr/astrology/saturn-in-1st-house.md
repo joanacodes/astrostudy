@@ -25,7 +25,7 @@ faq:
   - q: "Saturne en maison 1, est-ce que cela vieillit ?"
     a: "Ce placement décrit une manière d’être plus qu’un visage : de la contenance, de la vigilance, un sérieux qui peut passer pour de la maturité chez une personne jeune. J’y lis de la gravité plutôt que de l’âge. Elle se porte souvent plus facilement plus tard, quand les années rattrapent la manière d’être du début."
   - q: "Pourquoi faut-il l’heure de naissance pour Saturne en maison 1 ?"
-    a: "Parce que les maisons dépendent de l’heure et du lieu de naissance. L’horizon se déplace d’un degré environ toutes les quatre minutes : une petite erreur peut placer Saturne en maison 12, ou plus loin dans la maison 1. Sans l’heure, je peux lire le signe de Saturne, pas sa maison."
+    a: "Parce que les maisons dépendent de l’heure et du lieu de naissance. L’horizon se déplace d’un degré environ toutes les quatre minutes : une petite erreur peut placer Saturne en maison 12, ou plus loin dans la maison 1. Le signe de Saturne ne dépend pas de l’heure, mais sa maison, si : c’est pourquoi je ne lis pas de thème sans elle."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "la chute de Saturne en Bélier, signe naturel de la maison 1" }

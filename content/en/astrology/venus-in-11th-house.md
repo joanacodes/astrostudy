@@ -22,7 +22,7 @@ faq:
   - q: "Does Venus in the 11th house mean love starts as friendship?"
     a: "Often, though not always. Venus here values companionship, shared ideals and ease, so partners may come from your circle, and a friendship can turn into more. It describes how you like to relate, not a forecast of who you will meet or when."
   - q: "Do I need my birth time for Venus in the 11th house?"
-    a: "Yes. In Placidus, my house system, the lines between the 10th, 11th and 12th houses depend on the exact minute, so a later birth can lift Venus into the 10th and an earlier one keep it in the 12th. Without the time, I leave the house unread."
+    a: "Yes. In Placidus, my house system, the lines between the 10th, 11th and 12th houses depend on the exact minute, so a later birth can lift Venus into the 10th and an earlier one keep it in the 12th. That's why I don't read a chart without the birth time."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, the Good Spirit, and the joy of Jupiter in the eleventh" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }

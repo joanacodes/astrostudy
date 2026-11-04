@@ -23,7 +23,7 @@ faq:
   - q: "Avec Mercure en maison 2, vais-je gagner de l’argent grâce aux mots ?"
     a: "Un thème ne peut pas dire ce que vous gagnerez. Ce placement décrit une habitude d’esprit : vous pensez en termes de ressources, et votre savoir, vos compétences et vos mots font partie des vôtres. Que vous en viviez ou non dépend de choix et de circonstances qu’aucun thème ne voit."
   - q: "Peut-on connaître la maison de Mercure sans l’heure de naissance ?"
-    a: "Non. Les maisons dépendent de l’heure et du lieu exacts de la naissance. Mercure près de la limite avec la maison 1 ou la maison 3 peut changer de maison à quelques minutes près, et chaque maison donne à Mercure un autre sujet. Sans l’heure, je ne lis que son signe."
+    a: "Non. Les maisons dépendent de l’heure et du lieu exacts de la naissance. Mercure près de la limite avec la maison 1 ou la maison 3 peut changer de maison à quelques minutes près, et chaque maison donne à Mercure un autre sujet. C’est pourquoi je ne lis pas de thème sans l’heure de naissance."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
   - { title: "Dorothée de Sidon, Carmen Astrologicum", note: "les maisons en pratique" }

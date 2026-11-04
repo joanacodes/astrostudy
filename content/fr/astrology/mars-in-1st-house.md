@@ -22,7 +22,7 @@ faq:
   - q: "Mars en maison 1, est-ce un bon placement ?"
     a: "Ni bon ni mauvais. Ce placement rend votre élan visible : vous agissez volontiers, rivalisez ouvertement et dites ce que vous voulez. Cela peut se lire comme de l’assurance ou comme une pression, selon l’usage que vous en faites et le reste du thème. Connaître la première impression que vous donnez aide à la choisir."
   - q: "Peut-on savoir que Mars est en maison 1 sans l’heure de naissance ?"
-    a: "Non. L’ascendant traverse un signe entier en deux heures environ en moyenne : près de cette ligne, quelques minutes suffisent à placer Mars en maison 12 ou en maison 1. Sans l’heure, je lis Mars par son signe et ses aspects, et je laisse sa maison hors de la lecture."
+    a: "Non. L’ascendant traverse un signe entier en deux heures environ en moyenne : près de cette ligne, quelques minutes suffisent à placer Mars en maison 12 ou en maison 1. C’est pourquoi je ne lis pas de thème sans l’heure de naissance."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "la maison 1 et ce que la tradition lui attribuait" }
   - { title: "Dorothée de Sidon, Carmen Astrologicum", note: "les maisons lues dans un thème de naissance" }

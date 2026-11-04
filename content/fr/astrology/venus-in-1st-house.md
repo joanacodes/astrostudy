@@ -23,7 +23,7 @@ faq:
   - q: "Vénus en maison 1, est-ce un signe de séduction ?"
     a: "Elle décrit une manière plutôt qu’un visage. Vénus ici donne souvent une façon facile et agréable d’aller vers les gens, et un œil pour l’apparence des choses, ce que les autres trouvent souvent attirant. Mais Vénus n’est pas la beauté, et aucun thème ne décide de l’apparence de quiconque ni de qui l’on attirera."
   - q: "Faut-il l’heure de naissance pour Vénus en maison 1 ?"
-    a: "Oui, plus que pour la plupart des maisons. La maison 1 commence à l’ascendant, qui avance d’un degré en quatre minutes environ : un petit changement d’heure peut faire monter Vénus en maison 12 ou la faire descendre en maison 2. Sans heure, je ne lis aucune maison."
+    a: "Oui, plus que pour la plupart des maisons. La maison 1 commence à l’ascendant, qui avance d’un degré en quatre minutes environ : un petit changement d’heure peut faire monter Vénus en maison 12 ou la faire descendre en maison 2. Sans heure, je ne lis pas le thème du tout."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons, et ce que la tradition donnait à la première" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }

@@ -23,7 +23,7 @@ faq:
   - q: "Le Nœud Nord en maison 9 veut-il dire partir vivre à l’étranger ?"
     a: "Pas forcément. Certaines personnes avec ce nœud voyagent ou vivent à l’étranger, et la maison 9 couvre les longs voyages, mais la distance peut aussi bien être un diplôme, une langue ou une tradition étudiée depuis chez soi. Il demande d’élargir votre monde, pas de faire vos valises."
   - q: "Faut-il l’heure de naissance pour le Nœud Nord en maison 9 ?"
-    a: "Oui. La maison du nœud est fixée par l’heure et le lieu de naissance, et près de la cuspide de la maison 10, le milieu du ciel, quelques minutes peuvent la lui faire franchir. Sans l’heure, je peux lire le signe du nœud, partagé par toutes les personnes nées dans le même an et demi, mais pas sa maison."
+    a: "Oui. La maison du nœud est fixée par l’heure et le lieu de naissance, et près de la cuspide de la maison 10, le milieu du ciel, quelques minutes peuvent la lui faire franchir. Le signe du nœud est partagé par toutes les personnes nées dans le même an et demi ; sa maison demande l’heure, et c’est pourquoi je ne lis pas de thème sans elle."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai" }

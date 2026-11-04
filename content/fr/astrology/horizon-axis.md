@@ -24,7 +24,7 @@ faq:
   - q: "Le descendant est-il toujours opposé à l’ascendant ?"
     a: "Oui. Le descendant est le degré qui se couche à l’ouest pendant que l’ascendant se lève à l’est : c’est toujours le même degré du signe opposé. Un ascendant Bélier va avec un descendant Balance, un ascendant Lion avec un descendant Verseau. Ensemble, ils forment l’axe de l’horizon."
   - q: "Peut-on connaître son ascendant sans l’heure de naissance ?"
-    a: "Pas de façon fiable. L’ascendant change de signe environ toutes les deux heures en moyenne, plus ou moins vite selon le signe et le lieu : la date seule ne suffit pas à trancher. Sans l’heure, je laisse l’axe de l’horizon de côté dans une lecture, et je le dis."
+    a: "Pas de façon fiable. L’ascendant change de signe environ toutes les deux heures en moyenne, plus ou moins vite selon le signe et le lieu : la date seule ne suffit pas à trancher. Sans l’heure, je ne fais pas la lecture : pas de lecture sans heure de naissance."
   - q: "Quelle différence entre le degré de l’ascendant et le signe ascendant ?"
     a: "L’ascendant est d’abord un degré précis : le point du zodiaque qui se levait à l’horizon est à votre naissance. Le signe ascendant est simplement le signe où tombe ce degré. On emploie souvent l’un pour l’autre, et les deux demandent l’heure de naissance."
   - q: "Que veut dire avoir la plupart de ses planètes au-dessus de l’horizon ?"

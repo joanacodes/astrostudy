@@ -594,6 +594,8 @@ Joana's, as on the rest of the site (read `content/en/astrology/sun.md` and `sat
 
 What Joana has said about her own practice, to state in her voice where it matters:
 
+- **No birth time, no reading** (*There's always a birth time. Or no reading.*): never write that she reads part of a chart without the time (*the sign but not the house*, *the planets but not the angles*). Without a birth time she doesn't do the reading at all; a page may say what depends on the time, and that this is why.
+
 - **Houses: Placidus.** Where the house system changes what a page says (the angles, the 1st house, the cusps), name it: *In Placidus, the house system I use, …*; the other systems are described, not dismissed.
 - **Rulers: both.** Scorpio, Aquarius and Pisces have a modern ruler (Pluto, Uranus, Neptune) and a traditional one (Mars, Saturn, Jupiter): talk about both, and *I read both*.
 - **Nodes: both.** Mean and true node: talk about both; *I look at both*, and near the edge of a sign she says when they disagree.

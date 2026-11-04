@@ -25,7 +25,7 @@ faq:
   - q: "La Lune en maison 1, est-ce la même chose qu’un ascendant Cancer ?"
     a: "Non. L’ascendant Cancer signifie que le Cancer se levait à l’est ; la Lune en maison 1, que la Lune elle-même se trouvait juste sous l’horizon, quel que soit le signe. Les deux se ressemblent, puisque la Lune gouverne le Cancer, mais se lisent différemment, et seule l’heure dit lequel vous avez, ou si vous avez les deux."
   - q: "Pourquoi la maison de ma Lune dépend-elle de l’heure de naissance ?"
-    a: "Parce que les maisons tournent avec l’horizon, qui se déplace d’environ un degré toutes les quatre minutes. Une Lune proche du degré ascendant peut tomber en maison 1 ou en maison 12 à quelques minutes près. Sans votre heure, je peux lire le signe de la Lune, mais pas la maison d’où elle parle."
+    a: "Parce que les maisons tournent avec l’horizon, qui se déplace d’environ un degré toutes les quatre minutes. Une Lune proche du degré ascendant peut tomber en maison 1 ou en maison 12 à quelques minutes près. Sans votre heure, la maison d’où parle la Lune reste inconnue, et son signe aussi le jour où elle en change : je ne lis pas de thème sans elle."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons, et ce que la tradition donnait à la maison 1" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }

@@ -40,7 +40,7 @@ Bien vécu, il donne une combinaison rare : quelqu’un qui sait imaginer ce qu
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le mode des deux signes dit comment circule la friction : en signes cardinaux, entre commencer et rêver ; en signes fixes, entre tenir bon et lâcher prise ; en signes mutables, entre s’adapter et imaginer. Les maisons montrent où elle se vit : Mars en maison 6 carré Neptune en maison 9, par exemple, pourrait opposer le travail quotidien à une vision plus large, jusqu’à ce que les deux trouvent à se servir. Sans l’heure de naissance, je peux vous dire que vous avez ce carré, mais pas où il se joue ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Le mode des deux signes dit comment circule la friction : en signes cardinaux, entre commencer et rêver ; en signes fixes, entre tenir bon et lâcher prise ; en signes mutables, entre s’adapter et imaginer. Les maisons montrent où elle se vit : Mars en maison 6 carré Neptune en maison 9, par exemple, pourrait opposer le travail quotidien à une vision plus large, jusqu’à ce que les deux trouvent à se servir. Le carré lui-même ne dépend pas de l’heure, mais l’endroit où il se joue, si : l’une des raisons pour lesquelles je ne lis pas de thème sans elle ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 À 6° près, environ 1 personne sur 15 l’a, autant que pour le trigone de la paire. Près de l’exactitude, la friction entre l’acte et l’idéal est une compagne de tous les jours ; vers 6°, elle se montre surtout quand le résultat vous tient très à cœur.
 

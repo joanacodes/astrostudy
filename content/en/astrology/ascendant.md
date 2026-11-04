@@ -24,7 +24,7 @@ faq:
   - q: "What is my rising sign?"
     a: "The sign that was rising on the eastern horizon at the minute and place of your birth. It changes about every two hours, so a birth date alone can’t give it: you need the time, as exact as you can find it, and the town where you were born. Born around sunrise, it’s often your Sun sign too."
   - q: "Why do I need my birth time for my Ascendant?"
-    a: "Because the sky turns a full circle every day, the rising degree moves about one degree every four minutes on average. A birth time an hour out can change your rising sign, and with it the houses of your whole chart. Without a time, I read the parts of your chart that hold without one."
+    a: "Because the sky turns a full circle every day, the rising degree moves about one degree every four minutes on average. A birth time an hour out can change your rising sign, and with it the houses of your whole chart. That's why I don't read a chart without a birth time."
   - q: "Is the Ascendant the same as the rising sign?"
     a: "Nearly. The Ascendant is one exact degree of the zodiac, the one on the eastern horizon when you were born; your rising sign is the sign that degree falls in. Two people with the same rising sign can have Ascendants almost thirty degrees apart, one at the start of the sign, one at the end."
   - q: "What is the chart ruler?"
@@ -102,5 +102,5 @@ When I [checked charts like an invoice](/blog/i-tested-my-birth-chart/), mine fi
 
 - **“Your rising sign is a mask.”** It's how you meet the world, not a disguise: the part of you that goes first, and as much you as your Sun sign.
 - **“You can tell your rising sign from your birthday.”** It changes about every two hours, so you need the time and the place. Born around sunrise, it's likely to match your Sun sign; at any other hour, it usually doesn't.
-- **“No birth time, no reading.”** Without a time I can't read your Ascendant or your houses, but your planets in their signs and the aspects between them are still there.
+- **“A time rounded to the hour is close enough.”** The Ascendant moves about a degree every four minutes, so an hour can change the rising sign. The closer the time is to the one that was recorded, the surer the Ascendant.
 - **“Your rising sign decides your looks.”** The old books did describe the body from the Ascendant. But a chart can't see your face; at most, the Ascendant describes a manner.

@@ -25,7 +25,7 @@ faq:
   - q: "Quel est mon ascendant ?"
     a: "Le signe qui se levait à l’est, sur l’horizon, à la minute et au lieu de votre naissance. Il change environ toutes les deux heures : la date seule ne suffit pas, il faut l’heure, aussi précise que possible, et la ville de naissance. Pour une naissance vers le lever du soleil, c’est souvent aussi votre signe solaire."
   - q: "Pourquoi faut-il l’heure de naissance pour connaître son ascendant ?"
-    a: "Parce que le ciel fait un tour complet chaque jour, le degré qui se lève avance d’environ un degré toutes les quatre minutes en moyenne. Une heure d’écart peut changer votre ascendant, et avec lui les maisons de tout le thème. Sans l’heure, je lis les parties du thème qui tiennent sans elle."
+    a: "Parce que le ciel fait un tour complet chaque jour, le degré qui se lève avance d’environ un degré toutes les quatre minutes en moyenne. Une heure d’écart peut changer votre ascendant, et avec lui les maisons de tout le thème. C’est pourquoi je ne lis pas de thème sans l’heure de naissance."
   - q: "L’ascendant, c’est un signe ou un degré ?"
     a: "Les deux. L’ascendant est un degré précis du zodiaque, celui qui se trouvait à l’est, sur l’horizon, à votre naissance ; votre « ascendant Lion » ou « ascendant Bélier » est le signe où tombe ce degré. Deux personnes du même ascendant peuvent avoir des degrés distants de près de trente degrés, l’un au début du signe, l’autre à la fin."
   - q: "Qu’est-ce que le maître du thème ?"
@@ -103,5 +103,5 @@ Quand j’ai [épluché des thèmes comme des factures](/blog/i-tested-my-birth-
 
 - **« L’ascendant est un masque. »** C’est votre façon d’aborder le monde, pas un déguisement : la part de vous qui passe en premier, et qui est autant vous que votre signe solaire.
 - **« On trouve son ascendant avec sa date de naissance. »** Il change environ toutes les deux heures : il faut l’heure et le lieu. Pour une naissance vers le lever du soleil, il a de bonnes chances d’être le même que le signe solaire ; à toute autre heure, le plus souvent, il diffère.
-- **« Sans heure de naissance, pas de lecture. »** Sans l’heure, je ne peux lire ni l’ascendant ni les maisons, mais vos planètes dans leurs signes et les aspects entre elles sont toujours là.
+- **« Une heure arrondie suffit. »** L’ascendant avance d’environ un degré toutes les quatre minutes : une heure d’écart peut changer de signe. Plus l’heure est proche de celle qui a été notée, plus l’ascendant est sûr.
 - **« L’ascendant décide de votre physique. »** Les livres anciens décrivaient bien le corps à partir de l’ascendant. Mais un thème ne voit pas votre visage : tout au plus, l’ascendant décrit une allure.

@@ -38,7 +38,7 @@ Messages, errands, short journeys, first lessons, and the people you grew up alo
 
 Early learning can carry the same weight. School may have felt like a test to pass rather than a place to play with ideas, and confidence in your own mind often comes later, sometimes through study you choose as an adult. Where the 3rd touches brothers and sisters, it describes your experience of those ties, not who your siblings are: being the responsible one, perhaps, or a bond that felt like duty before it felt like friendship. Across the chart sits the 9th, the house of long journeys and big beliefs; with Saturn in the 3rd, you tend to trust what's near and tested before what's far and grand.
 
-Without your birth time I can still tell you Saturn's sign, the same for everyone born in a two- or three-year stretch. What I can't tell you is whether it sits in the 3rd, the house of daily words, or in one of the houses on either side. I work with Placidus houses, and they need the hour for that ([what changes without a birth time](/blog/unknown-birth-time/)).
+Saturn's sign is the same for everyone born in a two- or three-year stretch; whether it sits in the 3rd, the house of daily words, or in one of the houses on either side depends on your birth time, and I don't read a chart without it. I work with Placidus houses, and they need the hour for that ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 [Saturn in the 2nd house](/astrology/saturn-in-2nd-house/) counts what you keep; [Saturn in the 4th house](/astrology/saturn-in-4th-house/) guards the home. Between them, the 3rd is the street outside: the conversations and errands that connect the two.
 

@@ -22,7 +22,7 @@ faq:
   - q: "Is North Node in the 3rd house about siblings?"
     a: "It can be. Tradition gave the 3rd house siblings, cousins and neighbours, so those bonds are often where the practice happens. But the house is wider than family: it covers the everyday exchange with anyone close by, and what you learn from it, at any age."
   - q: "Do I need my birth time for North Node in the 3rd house?"
-    a: "Yes. Its sign is the same for everyone born in the same year and a half, but the house comes from the time and place of birth. Without the time I can’t say whether the node is in the 3rd at all, so I don’t read the house without it."
+    a: "Yes. Its sign is the same for everyone born in the same year and a half, but the house comes from the time and place of birth. Without the time I can’t say whether the node is in the 3rd at all, so I don’t read the chart without it."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }

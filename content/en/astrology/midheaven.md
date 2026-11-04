@@ -28,7 +28,7 @@ faq:
   - q: "Is the Midheaven the same as the 10th house cusp?"
     a: "In Placidus, the house system I use, and the other quadrant systems, yes. In Whole Sign and equal houses, the Midheaven keeps its meaning but floats, and can fall in the 9th or the 11th house. That’s one reason the same chart can look different from one website to another."
   - q: "Why do I need my birth time for my Midheaven?"
-    a: "The whole zodiac crosses the meridian once a day, so the Midheaven changes sign about every two hours. A birth time half an hour out can be enough to move it into the next sign. Without a time, I read your planets in their signs and leave the angles aside."
+    a: "The whole zodiac crosses the meridian once a day, so the Midheaven changes sign about every two hours. A birth time half an hour out can be enough to move it into the next sign. That's why I don't read a chart without a birth time."
 sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the astronomy of the angles" }
   - { title: "Vettius Valens, Anthology", note: "the houses and their meanings" }

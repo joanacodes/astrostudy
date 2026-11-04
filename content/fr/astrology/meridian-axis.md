@@ -26,7 +26,7 @@ faq:
   - q: "Pourquoi mon Milieu du Ciel n’est-il pas au carré de mon ascendant ?"
     a: "Parce que le zodiaque est incliné, et qu’il rencontre l’horizon et le méridien selon des angles qui changent au fil de la journée et avec la latitude. Les deux points ne sont à quatre-vingt-dix degrés exactement que dans des cas particuliers ; le plus souvent l’écart est un peu plus grand ou plus petit, et loin de l’équateur, il peut l’être beaucoup."
   - q: "Faut-il l’heure de naissance pour connaître son Milieu du Ciel ?"
-    a: "Oui. Le méridien tourne avec le ciel, et le Milieu du Ciel parcourt les douze signes en un jour environ : la date seule ne permet pas de le placer. Sans l’heure, je laisse l’axe du méridien de côté dans une lecture, et je le dis."
+    a: "Oui. Le méridien tourne avec le ciel, et le Milieu du Ciel parcourt les douze signes en un jour environ : la date seule ne permet pas de le placer. Sans l’heure, je ne fais pas la lecture : pas de lecture sans heure de naissance."
   - q: "Le Milieu du Ciel montre-t-il ma carrière ?"
     a: "On le lit comme votre direction publique : le travail, la réputation et le rôle vers lesquels vous grandissez, et pour lesquels on vous connaît. Il décrit une direction, pas un intitulé de poste, et je n’en tire jamais de prédiction sur un métier, l’argent ou la réussite."
 sources:

@@ -39,7 +39,7 @@ Done well, it gives a rare combination: someone who can imagine what could be an
 
 ## In a birth chart {#in-a-birth-chart}
 
-The modality of the two signs tells you how the friction moves: in cardinal signs, between starting and dreaming; in fixed signs, between holding firm and letting go; in mutable signs, between adapting and imagining. The houses show where it's lived: Mars in the 6th square Neptune in the 9th, for instance, might set daily work against a larger vision, until the two find a way to serve each other. Without a birth time, I can tell you that you have the square, but not where it plays out ([What changes without a birth time](/blog/unknown-birth-time/)).
+The modality of the two signs tells you how the friction moves: in cardinal signs, between starting and dreaming; in fixed signs, between holding firm and letting go; in mutable signs, between adapting and imagining. The houses show where it's lived: Mars in the 6th square Neptune in the 9th, for instance, might set daily work against a larger vision, until the two find a way to serve each other. The square itself doesn't depend on the birth time, but where it plays out does, one reason I don't read a chart without one ([What changes without a birth time](/blog/unknown-birth-time/)).
 
 Counted within 6°, it's the aspect of about 1 person in 15, as many as have the pair's trine. Close to exact, the friction between act and ideal is a constant companion; near 6°, it shows mostly when you care a great deal about the outcome.
 
