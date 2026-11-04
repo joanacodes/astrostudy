@@ -57,7 +57,7 @@ Across the zodiac, every water sign faces an earth sign: Cancer and Capricorn, S
 
 Planets in water signs show where you're most permeable: where moods reach you, where you remember, where you need closeness to feel safe. Several of them often go with a private, intuitive, loyal temperament. None doesn't mean no feeling, only that it may come through thought or action before it's recognised ([element balance and missing elements](/astrology/element-balance-and-missing-elements/)). Water placements are also where I choose my words most carefully: what people feel deeply, they usually feel privately, and naming it is something to offer gently rather than announce.
 
-Cancer's ruler is the quickest body in the chart. The Moon changes sign about every two and a half days, so a birth on the day it enters or leaves a water sign needs the time to say which ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)). And with Scorpio or Pisces on a house cusp, I read both rulers and tell you what each one says ([how I read](/how-i-read/)).
+Cancer's ruler is the quickest body in the chart. The Moon spends only two and a half days or so in each sign, and when it enters or leaves a water sign on the day of a birth, the time has to decide which ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)). And with Scorpio or Pisces on a house cusp, I read both rulers and tell you what each one says ([how I read](/how-i-read/)).
 
 ## Common myths {#myths}
 

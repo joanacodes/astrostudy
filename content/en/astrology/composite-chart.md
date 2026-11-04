@@ -14,7 +14,7 @@ facts:
   - { k: "Each planet", v: "At the nearer midpoint of its two natal positions" }
   - { k: "Its houses", v: "Drawn in more than one way, and they need both birth times" }
   - { k: "Read with", v: "Both natal charts and the synastry" }
-  - { k: "How common", v: "About 1 pair in 12 has a fast planet in any given composite sign" }
+  - { k: "How common", v: "About 1 pair in 12 has the composite Sun, or Moon, in any given sign" }
   - { k: "What no birth chart does", v: "Mercury opposite the Sun, in about 1 pair in 26" }
   - { k: "Key book", v: "Robert Hand, Planets in Composite (1975)" }
   - { k: "In my readings", v: "Not drawn: I describe it here as a technique" }
@@ -46,7 +46,7 @@ I don't draw composite charts in my readings. I describe the technique here beca
 
 Every pair of positions has two midpoints, exactly opposite each other, and the convention is to take the nearer one, on the shorter arc. That works well until the two positions are almost opposite each other: then a small difference flips the midpoint from one side of the circle to the other.
 
-Midpoints are worked out one planet at a time, so they don't have to respect the geometry of a real sky. In a birth chart, Mercury is never more than about 28° from the Sun and Venus never more than about 47°. In composites, they can be anywhere. In 2,000,000 random pairs of people born between 1930 and 2009, composite Mercury was more than 28° from the composite Sun in about 1 pair in 18, and composite Venus more than 47° away in about 1 pair in 10; Mercury landed opposite the Sun in about 1 pair in 26, Venus in about 1 pair in 22.
+Midpoints are worked out one planet at a time, so they don't have to respect the geometry of a real sky. In a birth chart, Mercury is never more than about 28° from the Sun and Venus never more than about 47°. In composites, they can be anywhere. Across 2,000,000 pairs of birth dates drawn at random from 1930 to 2009, composite Mercury was more than 28° from the composite Sun in about 1 pair in 18, and composite Venus more than 47° away in about 1 pair in 10; Mercury landed opposite the Sun in about 1 pair in 26, Venus in about 1 pair in 22.
 
 The houses need both birth times, and there is more than one way to draw them. Some astrologers take the midpoints of the two charts' house cusps; others find the composite Midheaven, the midpoint of the two Midheavens, and build the houses from it for the place where the pair lives. The two methods can put a planet in different houses. Both are in use, and neither is the composite's only correct form ([what changes without a birth time](/blog/unknown-birth-time/)).
 

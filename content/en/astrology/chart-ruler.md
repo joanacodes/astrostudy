@@ -58,7 +58,7 @@ The same logic applies to every house: the planet that rules the sign on a cusp 
 
 With Scorpio, Aquarius or Pisces rising there are two rulers, a modern one and a traditional one, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). The modern one is slow, so many people born in the same years share its sign, and its house is what makes it personal; the traditional one moves faster and changes more from one person to the next. When they point to different houses, the chart has two threads to follow, and I follow both.
 
-The chart ruler also extends the [big three](/astrology/big-three/): the Sun, the Moon and the rising sign give a first sketch, and the chart ruler shows where the rising sign's energy goes. In [my notebook](/blog/i-tested-my-birth-chart/), the rising sign held about a third of the time, so I hold this thread with some care. The exception is Saturn, ruler of Capricorn and traditional ruler of Aquarius: it was one of the three placements that held 75 to 90% of the time, and wherever it sits gets the closest reading ([how I read](/how-i-read/)).
+The chart ruler also extends the [big three](/astrology/big-three/): the Sun, the Moon and the rising sign give a first sketch, and the chart ruler shows where the rising sign's energy goes. In [my notebook](/blog/i-tested-my-birth-chart/), the rising sign held about a third of the time, so I hold this thread with some care. The exception is Saturn, ruler of Capricorn and traditional ruler of Aquarius: in the notebook it held 75 to 90% of the time, with Chiron and Lilith, and wherever it sits gets the closest reading ([how I read](/how-i-read/)).
 
 ## Common myths {#myths}
 

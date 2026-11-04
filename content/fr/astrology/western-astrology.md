@@ -48,7 +48,7 @@ Un thème occidental se lit par couches. Les planètes sont les fonctions. Les d
 
 Les planètes lentes ont apporté leur propre changement. Avant 1781, le Scorpion, le Verseau et les Poissons avaient pour maîtres Mars, Saturne et Jupiter ; après la découverte d’Uranus, de Neptune et de Pluton, beaucoup d’astrologues ont confié ces signes aux nouvelles planètes. L’astrologie occidentale garde aujourd’hui les deux séries ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)).
 
-Sa plus proche voisine est l’[astrologie védique (Jyotish)](/astrology/vedic-astrology-jyotish/), qui partage les planètes et les signes mais compte le zodiaque à partir des étoiles plutôt que de l’équinoxe : le même ciel y tombe environ 24° plus tôt dans les signes, et elle bâtit ses propres techniques là-dessus. Certains astrologues occidentaux utilisent aussi un zodiaque fondé sur les étoiles ([zodiaque sidéral](/astrology/sidereal-zodiac/)). L’[astrologie chinoise](/astrology/chinese-astrology/) est un tout autre système, fondé sur le calendrier et ses douze années animales.
+Sa plus proche voisine est l’[astrologie védique (Jyotish)](/astrology/vedic-astrology-jyotish/), qui partage les signes et les planètes visibles à l’œil nu mais compte le zodiaque à partir des étoiles plutôt que de l’équinoxe : le même ciel y tombe environ 24° plus tôt dans les signes, et elle bâtit ses propres techniques là-dessus. Certains astrologues occidentaux utilisent aussi un zodiaque fondé sur les étoiles ([zodiaque sidéral](/astrology/sidereal-zodiac/)). L’[astrologie chinoise](/astrology/chinese-astrology/) est un tout autre système, fondé sur le calendrier et ses douze années animales.
 
 ## Dans une lecture {#dans-une-lecture}
 

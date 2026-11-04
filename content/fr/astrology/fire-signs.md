@@ -59,7 +59,7 @@ Chaque signe de feu passe la main à un signe de terre, le Bélier au Taureau, l
 
 Je compte les planètes dans chaque élément, et l’équilibre me dit quelque chose avant même les détails ([équilibre des éléments et éléments manquants](/astrology/element-balance-and-missing-elements/)). Plusieurs planètes en feu, surtout le Soleil, la Lune ou l’ascendant, vont souvent avec une façon de vivre rapide, généreuse et impatiente. Aucune planète en feu ne veut pas dire aucun courage : Mars, le Soleil et Jupiter sont toujours dans votre thème, et les signes de feu ouvrent toujours certaines de vos maisons.
 
-Je pèse aussi l’élément face à tout le reste. Un Soleil en feu est la façon la plus courante de rencontrer son élément, et dans [mon carnet](/blog/i-tested-my-birth-chart/), le signe solaire a tenu environ une fois sur trois : « je suis un signe de feu », c’est un début, pas une description. Où va réellement le feu dans votre vie, ce sont les maisons qui le disent, et les maisons demandent une heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Je pèse aussi l’élément face à tout le reste. Un Soleil en feu est la façon la plus courante de rencontrer son élément, et les signes solaires ont tenu environ une fois sur trois dans [mon carnet](/blog/i-tested-my-birth-chart/) : « je suis un signe de feu », c’est un début, pas une description. Où va réellement le feu dans votre vie, ce sont les maisons qui le disent, et les maisons demandent une heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Idées reçues {#idees-recues}
 

@@ -52,7 +52,7 @@ Aspects were sorted the same way: Ptolemy calls the trine and the sextile harmon
 
 ## In a reading {#in-a-reading}
 
-I keep the words, because they're history and you'll meet them in every older book, and I read past them. Jupiter, for me, is where you widen your understanding and grow, not where luck is waiting; Venus is how you value, choose and relate, not a promise of romance; Mars is the part of you that can act, assert and protect; Saturn is structure, responsibility and the long view. A malefic shows where life asks for effort, patience or courage. That's work, not misfortune.
+I keep the words, because they're history and you'll meet them in every older book, and I read past them. Jupiter, for me, is where you widen your understanding and grow, not where luck is waiting; Venus is how you value, choose and relate, not a promise of romance; Mars is the part of you that can act, assert and protect; Saturn is how you build, take responsibility and keep going for years. A malefic shows where life asks for effort, patience or courage. That's work, not misfortune.
 
 My notebook is the best argument I have. [Saturn](/blog/saturn-chiron-lilith/#saturn), the planet tradition feared most, was one of the three placements that held 75 to 90% of the time in [my tests](/blog/i-tested-my-birth-chart/). What it described was accurate, and it was never a curse: a subject learned slowly, often later than everyone around.
 

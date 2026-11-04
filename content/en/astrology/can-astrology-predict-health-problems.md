@@ -30,7 +30,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book III", note: "the chapter “Of Bodily Injuries and Diseases”: how astrology once read illness" }
   - { title: "How I read: what I won’t read", page: "/how-i-read", note: "health diagnoses and medical questions" }
 ---
-Does my chart show a weak heart? Will this transit make me ill? Is my 6th house warning me about something? People ask about health in many ways, and my answer is the same each time. I'd rather explain it properly than just say no.
+There's a line I draw in every reading, and it runs between the chart and the body. A chart can describe how you tend to look after yourself; it can't see inside you, and it can't see ahead. This page is about where that line sits, and why I keep to it.
 
 ## The short answer {#the-short-answer}
 

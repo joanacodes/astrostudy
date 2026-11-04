@@ -47,11 +47,11 @@ Sorted by speed, the lights head the list of the [personal, social and generatio
 
 The relationship between the two lights is written into the sky every month. When the Moon catches up with the Sun, there's a [new moon](/astrology/new-moon/); when it stands opposite, a [full moon](/astrology/full-moon/); when either falls close to the lunar nodes, an eclipse. So the angle between your Sun and Moon is also the phase you were born under ([your birth lunar phase](/astrology/your-birth-lunar-phase/)).
 
-In plain words, the Sun organises who you are and where you're heading: purpose, vitality, the way you put yourself forward. The Moon regulates what you feel and need: comfort, attachment, the way you respond when things change. One is a direction, the other a home base.
+In plain words, the Sun is the part of you that gathers itself around a purpose and puts itself forward. The Moon looks after how you feel and what you need: it's how you settle, attach and find comfort, and how you respond when things shift. One is a direction, the other a home base.
 
 They also take turns. Tradition sorted charts into day and night ones by whether the Sun was above the horizon at birth, a doctrine called [sect](/astrology/sect-day-and-night-charts/): by day the Sun leads, by night the Moon, and the one leading is [the sect light](/astrology/sect-light/).
 
-And they sit on either side of an old line. In Ptolemy's account, the Moon counts among the beneficent planets, with Jupiter and Venus, while the Sun is one of the common ones, which take on the nature of whatever planet they're joined with. The same chapter sets out tradition's best-known labels for the planets, [benefics and malefics](/astrology/benefics-and-malefics/).
+And they sit on either side of an old line. In Ptolemy's account, the Moon counts among the beneficent planets, with Jupiter and Venus, while the Sun is one of the common ones, which borrow their character from the planets beside them. The same chapter sets out tradition's best-known labels for the planets, [benefics and malefics](/astrology/benefics-and-malefics/).
 
 ## In a reading {#in-a-reading}
 
@@ -59,7 +59,7 @@ I read the lights together before I read either alone. What you're aiming for an
 
 The Moon is the one to check. It changes sign about every two and a half days, so on the day it changes, only the birth time can say which sign is yours ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)).
 
-I also keep them in proportion. In [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign held about a third of the time, and the Moon, checked like every other placement, wasn't one of the three that held far more often: Saturn, Chiron and Lilith. So the lights, with the rising sign, make the [big three](/astrology/big-three/), a first sketch I hold lightly, and the closest reading goes where the notebook points. That's [how I read](/how-i-read/).
+I also keep them in proportion. When I tested charts in [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign held about a third of the time. The Moon went through the same checks as everything else and wasn't one of the three that held far more often, which were Saturn, Chiron and Lilith. So the lights, with the rising sign, make the [big three](/astrology/big-three/), a first sketch I hold lightly, and the closest reading goes where the notebook points. That's [how I read](/how-i-read/).
 
 ## Common myths {#myths}
 

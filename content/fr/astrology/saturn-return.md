@@ -12,7 +12,7 @@ definition: "Le retour de Saturne est le transit de Saturne sur le degré que ce
 facts:
   - { k: "Ce que c’est", v: "Saturne en transit sur le degré de Saturne dans votre thème natal" }
   - { k: "L’orbite de Saturne", v: "Environ 29,4 ans autour du Soleil" }
-  - { k: "Premier retour", v: "Premier passage exact entre 28,4 et 29,9 ans, pour toutes les naissances de 1930 à 2009" }
+  - { k: "Premier retour", v: "Premier passage exact entre 28,4 et 29,9 ans, d’après les naissances de 1930 à 2009" }
   - { k: "Passages exacts", v: "Un, ou trois quand Saturne repasse en rétrograde" }
   - { k: "Dans l’orbe", v: "En général neuf mois environ, de 1,5° avant l’exactitude à 1° après" }
   - { k: "Deuxième retour", v: "Vers 58 à 60 ans" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/chiron-return", "/astrology/saturn-squares-and-opposition", "/astrology/transits", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "À quel âge a lieu le retour de Saturne ?"
-    a: "Saturne met environ 29,4 ans à faire le tour : la planète revient à son degré de naissance vers la fin de la vingtaine. Pour toutes les naissances de 1930 à 2009, le premier passage exact est tombé entre 28,4 et 29,9 ans. Le deuxième vient vers 58 à 60 ans, et parfois un troisième."
+    a: "Saturne met environ 29,4 ans à faire le tour : la planète revient à son degré de naissance vers la fin de la vingtaine. D’après les naissances de 1930 à 2009, le premier passage exact tombe entre 28,4 et 29,9 ans. Le deuxième vient vers 58 à 60 ans, et parfois un troisième."
   - q: "Combien de temps dure un retour de Saturne ?"
     a: "Avec les orbes que j’utilise pour suivre les transits, de 1,5° avant l’exactitude à 1° après, neuf mois environ : Saturne passe souvent trois fois sur le point, en avant, en arrière, puis encore en avant. Un passage unique peut durer trois semaines. Certains comptent tout le séjour de Saturne dans son signe natal, deux ans et demi environ."
   - q: "Le retour de Saturne est-il toujours une crise ?"
@@ -37,7 +37,7 @@ Quelque part entre votre 28e et votre 30e anniversaire, Saturne revient au degr�
 
 ## Ce que c’est {#ce-que-c-est}
 
-[Saturne](/astrology/saturn/) met environ 29,4 ans à faire le tour du Soleil, et à peu près autant à faire le tour du zodiaque. Quand la planète retrouve sa position de naissance, elle boucle un cycle complet et commence le suivant. Pour toutes les naissances de 1930 à 2009, le premier passage exact est tombé entre 28,4 et 29,9 ans : la date varie avec la vitesse de Saturne sur cette portion de son orbite, et avec l’endroit où tombent ses boucles rétrogrades.
+[Saturne](/astrology/saturn/) met environ 29,4 ans à faire le tour du Soleil, et à peu près autant à faire le tour du zodiaque. Quand la planète retrouve sa position de naissance, elle boucle un cycle complet et commence le suivant. D’après les naissances de 1930 à 2009, le premier passage exact tombe entre 28,4 et 29,9 ans : la date varie avec la vitesse de Saturne sur cette portion de son orbite, et avec l’endroit où tombent ses boucles rétrogrades.
 
 Ces boucles comptent. Chaque année, Saturne semble reculer pendant quelques mois : son passage sur votre degré natal peut donc être unique, ou triple, en avant, en arrière, puis de nouveau en avant. Pour une naissance le 1er janvier 1990, il y a eu trois passages, vers 29,1, 29,6 et 29,8 ans ; pour une naissance le 1er janvier 1995, un seul, vers 29,1 ans. Le deuxième retour vient un cycle plus tard, vers 58 à 60 ans, et une longue vie peut en voir un troisième.
 

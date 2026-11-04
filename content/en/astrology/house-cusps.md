@@ -50,7 +50,7 @@ Opposite cusps always mirror each other: the 7th cusp is the same degree as the 
 
 I read each house from its cusp, in Placidus: the sign there first, then its ruler, then any planets inside. The angles carry the most weight among the cusps, and the rising sign most of all.
 
-Cusps are also where the birth time shows how much it matters. A planet a degree or two from a cusp can change house with a few minutes' difference, and a time rounded to the hour can shift every cusp by several degrees. So when a planet sits close to one, I check how exact the time is before leaning on its house ([what changes without a birth time](/blog/unknown-birth-time/)). Some astrologers count a planet a few degrees before a cusp as already in the next house; others keep it strictly where it falls. Either way, a planet near a cusp is one to read with care ([how I read](/how-i-read/)).
+Cusps are also where the birth time shows how much it matters. A planet a degree or two from a cusp can change house with a few minutes' difference, and a time given only to the nearest hour can shift every cusp by several degrees. So when a planet sits close to one, I check how exact the time is before leaning on its house ([what changes without a birth time](/blog/unknown-birth-time/)). Some astrologers count a planet a few degrees before a cusp as already in the next house; others keep it strictly where it falls. Either way, a planet near a cusp is one to read with care ([how I read](/how-i-read/)).
 
 ## Common myths {#myths}
 

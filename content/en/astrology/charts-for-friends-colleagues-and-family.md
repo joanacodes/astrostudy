@@ -37,7 +37,7 @@ Many of the people who shape a life aren't partners. A best friend, a co-founder
 
 It's [synastry](/astrology/synastry/), the comparison of two birth charts, used for any bond between two adults. The method doesn't change: the aspects one person's planets make to the other's, and the [house overlays](/astrology/house-overlays/), where each person's planets fall in the other's houses, read in both directions. What changes is the question you bring, and so which parts of the charts lead.
 
-The idea is old. Ptolemy gave friendship and enmity a chapter of their own, comparing the places of the Sun, the Moon, the Ascendant and the Lot of Fortune in both nativities to judge lasting friendships (*Tetrabiblos*, book IV). He was asking about friends, not only spouses.
+The idea is old. Ptolemy gave friendship and enmity a chapter of their own, and judged whether a friendship would last by comparing four points of the two nativities: the Sun, the Moon, the Ascendant and the Lot of Fortune (*Tetrabiblos*, book IV). He was asking about friends, not only spouses.
 
 ## How it is done {#how-it-is-done}
 
@@ -47,7 +47,7 @@ Both charts are read first, each on its own, then side by side. Then the questio
 - **Colleagues.** Mercury for how you communicate, Mars for pace and drive, Saturn for structure and responsibility, the Sun and the 10th house for leadership and visibility, the 6th house for everyday working life.
 - **Family.** The Moon for how care was given and received, Saturn for rules and duty, the 4th house for home and roots, Mercury for how you talk or don't, Chiron for the family wound, and the slow planets for what travels between generations.
 
-In every case I count only contacts with at least one personal body, the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven, and I need both birth times: without them the houses are unknown and the Moon's contacts uncertain ([what changes without a birth time](/blog/unknown-birth-time/)).
+In every case I count only contacts with at least one personal body, the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven, and both birth times are needed, since the houses and the Moon's exact contacts depend on them ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## What it shows {#what-it-shows}
 

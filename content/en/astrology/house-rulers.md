@@ -36,7 +36,7 @@ A house tells you which part of life is in question; its ruler tells you where i
 
 Every house begins with a sign on its cusp ([house cusps](/astrology/house-cusps/)), and every sign has a ruler. The planet that rules the sign on the cusp rules the house. It doesn't have to be in that house, and usually isn't: what matters is where it actually sits, because that's where the house's business gets done.
 
-Since most planets rule two signs, one planet often rules two houses, and the two parts of life it rules then share a thread. The ruler of the 1st house has a name of its own, the [chart ruler](/astrology/chart-ruler/). And with Scorpio, Aquarius or Pisces on a cusp, a house has two rulers, a modern one and a traditional one, and I read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)).
+Since most planets rule two signs, one planet often rules two houses, and the two parts of life it rules then share a thread. The ruler of the 1st house has a name of its own, the [chart ruler](/astrology/chart-ruler/). And when Scorpio, Aquarius or Pisces is on a cusp, the house answers to a modern ruler and a traditional one at once; I read both, and say what each adds ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)).
 
 ## How it works {#how-it-works}
 
@@ -46,7 +46,7 @@ It takes three steps:
 2. **Find its ruler.** Virgo's is Mercury, so Mercury rules your 7th.
 3. **Find where the ruler sits.** If Mercury is in your 10th house, the business of the 7th, partnership and the people you meet one to one, runs through your work and public life ([Ruler of the 7th in the 10th house](/astrology/7th-house-ruler-in-10th-house/)).
 
-Then you read the ruler like any planet: its sign gives the manner, its aspects the help or friction it meets, and its condition, whether it's in its own sign or exaltation or in detriment or fall, how easily it does the job. One ruler can lead to another, too: the planet that rules the sign your ruler sits in joins the story, a chain astrologers follow as [dispositors](/astrology/dispositors-and-the-final-dispositor/).
+Then you read the ruler like any planet: its sign gives the manner, its aspects the help or friction it meets, and its condition, whether it's at home, exalted, in detriment or in fall, how easily it does the job. One ruler can lead to another, too: the planet that rules the sign your ruler sits in joins the story, a chain astrologers follow as [dispositors](/astrology/dispositors-and-the-final-dispositor/).
 
 Rulers matter most where a house holds no planet. An [empty house](/astrology/empty-houses/) isn't silent: the sign on its cusp and that sign's ruler speak for it, wherever the ruler happens to be.
 

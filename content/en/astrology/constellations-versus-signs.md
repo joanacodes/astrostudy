@@ -35,9 +35,9 @@ Look at the stars behind the Sun on your birthday and you'll probably find the "
 
 ## What it is {#what-it-is}
 
-A constellation is a patch of sky. Astronomers recognise 88 of them, and since the borders drawn by the Belgian astronomer Eugène Delporte for the International Astronomical Union were published in 1930, every point of the sky belongs to exactly one. Thirteen lie across the Sun's path, the [ecliptic](/astrology/ecliptic/): the twelve that gave the signs their names, plus [Ophiuchus](/astrology/ophiuchus-and-the-13th-sign/). They're star patterns of very different widths, so the Sun takes very different lengths of time to cross them.
+A constellation is a patch of sky. Astronomers recognise 88 of them, and since 1930 every point of the sky has belonged to exactly one, inside borders that Eugène Delporte, a Belgian astronomer, drew up for the International Astronomical Union. Thirteen lie across the Sun's path, the [ecliptic](/astrology/ecliptic/): the twelve that gave the signs their names, plus [Ophiuchus](/astrology/ophiuchus-and-the-13th-sign/). They're star patterns of very different widths, so the Sun takes very different lengths of time to cross them.
 
-A sign is a measurement. In the [tropical zodiac](/astrology/tropical-zodiac/), the one I use, the Sun's yearly path is cut into twelve equal parts of 30°, starting from the March equinox, the moment the Sun crosses the celestial equator heading north. Aries is the first 30° after that moment, Taurus the next 30°, and so on round to Pisces. The signs are set by the seasons, not by any star.
+A sign is a measurement. In the [tropical zodiac](/astrology/tropical-zodiac/), the one I use, the circle the Sun travels in a year is divided into twelve equal parts of 30°, starting from the March equinox, when the Sun passes into the northern half of the sky. Aries is the first 30° after that moment, Taurus the next 30°, and so on round to Pisces. The signs are set by the seasons, not by any star.
 
 ## How it works {#how-it-works}
 

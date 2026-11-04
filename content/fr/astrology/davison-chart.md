@@ -41,7 +41,7 @@ L’astrologue Ronald C. Davison a décrit ce thème de relation dans *Synastry�
 
 C’est donc un vrai thème. Chaque planète s’y trouve là où elle était réellement à cet instant, et le ciel suit les règles habituelles : Mercure reste à moins de 28° environ du Soleil, et Vénus à moins de 47° environ. Un [thème composite](/astrology/composite-chart/) ne peut pas le promettre : pour environ 1 paire sur 26, Mercure composite tombe à l’opposé du Soleil composite.
 
-Je ne dresse pas de thèmes de Davison dans mes lectures. Je décris la technique ici parce qu’elle est très répandue, et parce que sa logique mérite d’être connue à côté de celle du composite.
+Les thèmes de Davison ne font pas partie de mes lectures. Je décris la méthode parce que beaucoup d’astrologues s’en servent, et parce que sa logique mérite d’être connue à côté de celle du composite.
 
 ## Comment on la fait {#comment-on-la-fait}
 
@@ -53,12 +53,12 @@ Les deux heures de naissance entrent dans le calcul de l’instant : une erreur
 
 ## Ce qu’elle montre {#ce-qu-elle-montre}
 
-Les astrologues lisent un thème de Davison comme le thème propre de la relation : son caractère, ce à quoi elle semble servir, là où se rassemble son énergie. Son Soleil, sa Lune, ses angles et ses maisons se lisent comme dans un thème natal, mais pour le lien plutôt que pour l’une ou l’autre personne. Comme c’est un instant réel, on peut aussi le traiter comme un thème de naissance à tous les autres égards, progressions comprises.
+Les astrologues lisent un thème de Davison comme le thème propre de la relation : son caractère, son sens, les domaines de vie autour desquels elle se rassemble. Son Soleil, sa Lune, ses angles et ses maisons se lisent comme dans un thème natal, mais pour le lien plutôt que pour l’une ou l’autre personne. Comme c’est un instant réel, on peut aussi le traiter comme un thème de naissance à tous les autres égards, progressions comprises.
 
-Il se lit avec les deux thèmes natals et la [synastrie](/astrology/synastry/) : les aspects entre les thèmes, et les [superpositions de maisons](/astrology/house-overlays/), là où les planètes de chacun tombent dans les maisons de l’autre. Ces dernières restent dans les deux thèmes réels ; le Davison en ajoute un troisième, commun.
+On le lit à côté des deux thèmes natals et de la [synastrie](/astrology/synastry/) : les aspects entre les thèmes, et les [superpositions de maisons](/astrology/house-overlays/), les maisons qu’occupent les planètes de chacun dans le thème de l’autre. Ces dernières restent dans les deux thèmes réels ; le Davison en ajoute un troisième, commun.
 
 ## Ses limites {#ses-limites}
 
 Certaines écoles préfèrent le Davison, d’autres le composite, et aucun des deux n’est plus juste en soi. Le ciel réel du Davison plaide pour lui ; le lien direct du composite avec les deux thèmes plaide pour l’autre. Certains astrologues utilisent les deux et les comparent.
 
-Comme tout thème de relation, il décrit un lien de façon symbolique. Il ne peut pas dire combien de temps durera une relation, si elle réussira, ni si deux personnes se marieront, et il ne remplace jamais les thèmes des deux personnes. Son instant tombe un jour où seule la plus âgée des deux était en vie, et son lieu est parfois une étendue de mer que ni l’une ni l’autre n’a vue : de quoi rappeler qu’il symbolise ce que deux personnes font ensemble, et qu’il n’est pas une troisième personne avec un destin à elle.
+Comme tout thème de relation, il décrit un lien de façon symbolique. Il ne peut ni mesurer la durée d’une relation, ni promettre sa réussite, ni annoncer un mariage, et il ne remplace jamais les thèmes des deux personnes. Son instant tombe un jour où seule la plus âgée des deux était en vie, et son lieu est parfois une étendue de mer que ni l’une ni l’autre n’a vue : de quoi rappeler qu’il symbolise ce que deux personnes font ensemble, et qu’il n’est pas une troisième personne avec un destin à elle.

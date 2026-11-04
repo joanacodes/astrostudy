@@ -15,7 +15,7 @@ facts:
   - { k: "Chaque planète", v: "Au mi-point le plus proche de ses deux positions natales" }
   - { k: "Ses maisons", v: "Calculées de plus d’une façon, et elles demandent les deux heures de naissance" }
   - { k: "Se lit avec", v: "Les deux thèmes natals et la synastrie" }
-  - { k: "Fréquence", v: "Environ 1 paire sur 12 a une planète rapide dans un signe composite donné" }
+  - { k: "Fréquence", v: "Environ 1 paire sur 12 a le Soleil, ou la Lune, composite dans un signe donné" }
   - { k: "Ce qu’aucun thème natal ne fait", v: "Mercure à l’opposé du Soleil, pour environ 1 paire sur 26" }
   - { k: "Livre de référence", v: "Robert Hand, Planets in Composite (1975)" }
   - { k: "Dans mes lectures", v: "Je ne le dresse pas : je le décris ici comme technique" }
@@ -47,7 +47,7 @@ Je ne dresse pas de thèmes composites dans mes lectures. Je décris la techniqu
 
 Chaque paire de positions a deux mi-points, exactement opposés, et l’usage veut qu’on prenne le plus proche, sur l’arc le plus court. Cela fonctionne bien, sauf quand les deux positions sont presque opposées : une petite différence fait alors basculer le mi-point d’un côté du cercle à l’autre.
 
-Les mi-points se calculent planète par planète : ils n’ont pas à respecter la géométrie d’un vrai ciel. Dans un thème natal, Mercure n’est jamais à plus de 28° environ du Soleil, ni Vénus à plus de 47° environ. Dans un composite, ces deux planètes peuvent être n’importe où. Sur 2 000 000 de paires de personnes tirées au hasard parmi les naissances de 1930 à 2009, Mercure composite était à plus de 28° du Soleil composite pour environ 1 paire sur 18, et Vénus composite à plus de 47° pour environ 1 paire sur 10 ; Mercure tombait à l’opposé du Soleil pour environ 1 paire sur 26, Vénus pour environ 1 paire sur 22.
+Les mi-points se calculent planète par planète : ils n’ont pas à respecter la géométrie d’un vrai ciel. Dans un thème natal, Mercure n’est jamais à plus de 28° environ du Soleil, ni Vénus à plus de 47° environ. Dans un composite, ces deux planètes peuvent être n’importe où. Sur 2 000 000 de paires de dates de naissance tirées au hasard entre 1930 et 2009, Mercure composite était à plus de 28° du Soleil composite pour environ 1 paire sur 18, et Vénus composite à plus de 47° pour environ 1 paire sur 10 ; Mercure tombait à l’opposé du Soleil pour environ 1 paire sur 26, Vénus pour environ 1 paire sur 22.
 
 Les maisons demandent les deux heures de naissance, et il existe plus d’une façon de les calculer. Certains astrologues prennent les mi-points des cuspides des deux thèmes ; d’autres cherchent le Milieu du Ciel composite, mi-point des deux Milieux du Ciel, et construisent les maisons à partir de lui pour le lieu où vit la paire. Les deux méthodes peuvent placer une planète dans deux maisons différentes. Les deux sont en usage, et aucune n’est la seule forme juste du composite ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

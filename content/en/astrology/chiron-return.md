@@ -32,21 +32,21 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long a Chiron transit stays in orb" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how often natal Chiron held" }
 ---
-Around the age of 50, Chiron comes back to the degree it held when you were born. It's a slow, once-in-a-life meeting: the part of your chart that describes the hurt you keep circling, returned to its starting point after decades of you living with it.
+Around the age of 50, Chiron completes its long orbit and stands again where it stood at your birth. It's a slow, once-in-a-life meeting: the part of your chart that describes the hurt you keep circling, returned to its starting point after decades of you living with it.
 
 ## What it is {#what-it-is}
 
-[Chiron](/astrology/chiron/) is a centaur, a small icy body on a long, stretched orbit between Saturn and Uranus, and it takes about 50 years to go round the Sun. When it reaches its birth position again, it closes its one full cycle in your life, and for most people that happens once, around 50.
+[Chiron](/astrology/chiron/) is a centaur, a small icy body on a long, stretched orbit between Saturn and Uranus, and it takes about 50 years to go round the Sun. Back at its birth position, it has made the one full circuit most lives allow it, around 50.
 
 Its orbit is so uneven that Chiron crosses Virgo and Libra in under two years each and lingers about eight years in Aries and Pisces. That's why its other transits to itself, the squares and the opposition, come at very different ages from one generation to the next. The return is the exception: whatever the speed along the way, a full orbit takes the same time, so the age is much the same for everyone.
 
-With the orbs I use for timing, from 1½° before exact to 1° after, a Chiron transit to one point lasts anywhere from about three weeks to nearly two years, ten months typically. When Chiron is moving quickly it may cross the point once; when its yearly retrograde loops fall on it, it can pass three times, and now and then five.
+Counted with my timing orbs, in orb from 1½° before exact until 1° after, a Chiron transit to one point lasts anywhere from about three weeks to nearly two years, ten months typically. When Chiron is moving quickly it may cross the point once; when its yearly retrograde loops fall on it, it can pass three times, and now and then five.
 
 ## How it works {#how-it-works}
 
-Like every planetary return, the Chiron return brings nothing new into a chart. It brings Chiron's function back to the exact place where your chart first set it: adapting to a limitation that persists, building skills around it, and passing on what that taught you. In my notebook, natal Chiron was one of [the three that held](/blog/saturn-chiron-lilith/), 75 to 90% of the time, as the wound a person keeps coming back to, and it's the placement I read most carefully.
+Like every planetary return, the Chiron return brings nothing new into a chart. It returns Chiron's function to its starting point in your chart: adapting to a limitation that persists, building skills around it, and passing on what that taught you. In my notebook, natal Chiron was one of [the three that held](/blog/saturn-chiron-lilith/), 75 to 90% of the time, as the wound a person keeps coming back to, and it's the placement I read most carefully.
 
-So the return is read through your natal Chiron: its sign, the colour of the sore point; its house, the part of life where it shows, which needs your birth time ([what changes without a birth time](/blog/unknown-birth-time/)); and its aspects, which transiting Chiron repeats when it stands on its birth degree. Born with Chiron opposite your Moon, you'll have transiting Chiron opposite your Moon at the return too.
+So I read the return through your natal Chiron: its sign, the colour of the sore point; its house, the part of life where it shows, which needs your birth time ([what changes without a birth time](/blog/unknown-birth-time/)); and its aspects, which transiting Chiron repeats when it stands on its birth degree. Born with Chiron opposite your Moon, you'll have transiting Chiron opposite your Moon at the return too.
 
 The wound is context, never identity. A Chiron return doesn't diagnose anything, doesn't promise a cure and doesn't decide whether old pain flares or settles. What it describes is a season of looking again at how you've lived with something that didn't go away, and at what you know now because of it.
 

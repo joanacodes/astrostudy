@@ -40,7 +40,7 @@ The astrologer Ronald C. Davison described this relationship chart in *Synastry:
 
 That makes it a real chart. Every planet in it stands where it actually stood at that moment, so the sky obeys the usual rules: Mercury stays within about 28° of the Sun and Venus within about 47°. A [composite chart](/astrology/composite-chart/) can't promise that: in about 1 pair in 26, composite Mercury lands opposite the composite Sun.
 
-I don't draw Davison charts in my readings. I describe the technique here because it's widely used, and because its logic is worth knowing next to the composite's.
+Davison charts aren't part of my readings. I describe the method because many astrologers use it, and because its logic is worth knowing next to the composite's.
 
 ## How it is done {#how-it-is-done}
 
@@ -52,12 +52,12 @@ Both birth times feed into the moment, so an error in either one moves the Davis
 
 ## What it shows {#what-it-shows}
 
-Astrologers read a Davison chart as the relationship's own chart: its character, what it seems to be for, where its energy gathers. Its Sun, Moon, angles and houses are read as they would be in a birth chart, but for the bond rather than for either person. Because it is a real moment, it can also be treated like a birth chart in every other way, progressions included.
+Astrologers read a Davison chart as the relationship's own chart: its character, its purpose, the areas of life it gathers around. Its Sun, Moon, angles and houses are read as they would be in a birth chart, but for the bond rather than for either person. Because it is a real moment, it can also be treated like a birth chart in every other way, progressions included.
 
-It's read alongside the two natal charts and the [synastry](/astrology/synastry/): the aspects between the charts, and the [house overlays](/astrology/house-overlays/), where each person's planets land in the other's houses. Those stay in the two real charts; the Davison adds a third, shared one.
+It's read alongside the two natal charts and the [synastry](/astrology/synastry/): the aspects between the charts, and the [house overlays](/astrology/house-overlays/), the houses each person's planets occupy in the other's chart. Those stay in the two real charts; the Davison adds a third, shared one.
 
 ## Its limits {#its-limits}
 
 Different schools prefer the Davison or the composite, and neither is more accurate in itself. The Davison's real sky is an argument for it; the composite's direct link to both charts is an argument for the other. Some astrologers use both and compare.
 
-Like any relationship chart, it describes a bond symbolically. It can't say how long a relationship will last, whether it will succeed, or whether two people will marry, and it never replaces the two people's own charts. Its moment falls on a day when only the older of the two was alive, and its place may be a stretch of sea neither has seen: reminders that it's a symbol of what two people make together, not a third person with a destiny of its own.
+Like any relationship chart, it describes a bond symbolically. It can't measure a relationship's lifespan, promise its success or foretell a wedding, and it never replaces the two people's own charts. Its moment falls on a day when only the older of the two was alive, and its place may be a stretch of sea neither has seen: reminders that it's a symbol of what two people make together, not a third person with a destiny of its own.

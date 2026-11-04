@@ -37,7 +37,7 @@ Une maison dit de quel domaine de la vie il est question ; son maître dit où
 
 Chaque maison commence par un signe sur sa cuspide ([cuspides des maisons](/astrology/house-cusps/)), et chaque signe a un maître. La planète qui gouverne le signe de la cuspide gouverne la maison. Elle n’a pas besoin de s’y trouver, et le plus souvent ne s’y trouve pas : ce qui compte, c’est l’endroit où elle est vraiment, parce que c’est là que se règlent les affaires de la maison.
 
-Comme la plupart des planètes gouvernent deux signes, une même planète gouverne souvent deux maisons, et les deux domaines de vie partagent alors un fil. Le maître de la maison 1 a un nom à lui, le [maître du thème](/astrology/chart-ruler/). Et avec le Scorpion, le Verseau ou les Poissons sur une cuspide, une maison a deux maîtres, un moderne et un traditionnel, et je lis les deux ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)).
+Comme la plupart des planètes gouvernent deux signes, une même planète gouverne souvent deux maisons, et les deux domaines de vie partagent alors un fil. Le maître de la maison 1 a un nom à lui, le [maître du thème](/astrology/chart-ruler/). Et quand le Scorpion, le Verseau ou les Poissons occupent une cuspide, la maison répond à la fois à un maître moderne et à un maître traditionnel ; je lis les deux, et je dis ce que chacun apporte ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)).
 
 ## Comment ça marche {#comment-ca-marche}
 
@@ -47,7 +47,7 @@ Il faut trois étapes :
 2. **Trouver son maître.** Celui de la Vierge est Mercure : Mercure gouverne donc votre maison 7.
 3. **Trouver où se tient ce maître.** Si Mercure est dans votre maison 10, les affaires de la maison 7, l’association et les personnes que vous rencontrez en tête-à-tête, passent par votre travail et votre vie publique ([Maître de la maison 7 en maison 10](/astrology/7th-house-ruler-in-10th-house/)).
 
-On lit ensuite le maître comme n’importe quelle planète : son signe donne la manière, ses aspects l’aide ou la friction qu’il rencontre, et son état, en domicile ou en exaltation, en exil ou en chute, la facilité avec laquelle il fait son travail. Un maître peut aussi en appeler un autre : la planète qui gouverne le signe où se trouve votre maître entre à son tour dans l’histoire, une chaîne que les astrologues suivent sous le nom de [dispositeurs](/astrology/dispositors-and-the-final-dispositor/).
+On lit ensuite le maître comme n’importe quelle planète : son signe donne la manière, ses aspects l’aide ou la friction qu’il rencontre, et son état, chez lui, exalté, en exil ou en chute, la facilité avec laquelle il fait son travail. Un maître peut aussi en appeler un autre : la planète qui gouverne le signe où se trouve votre maître entre à son tour dans l’histoire, une chaîne que les astrologues suivent sous le nom de [dispositeurs](/astrology/dispositors-and-the-final-dispositor/).
 
 Les maîtres comptent le plus là où une maison ne contient aucune planète. Une [maison vide](/astrology/empty-houses/) n’est pas muette : le signe de sa cuspide et le maître de ce signe parlent pour elle, où que se trouve ce maître.
 

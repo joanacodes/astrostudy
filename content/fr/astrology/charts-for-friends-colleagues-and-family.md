@@ -36,9 +36,9 @@ Beaucoup des personnes qui comptent dans une vie ne sont pas des partenaires. Un
 
 ## Ce que c’est {#ce-que-c-est}
 
-C’est la [synastrie](/astrology/synastry/), la comparaison de deux thèmes natals, appliquée à tout lien entre deux adultes. La méthode ne change pas : les aspects que les planètes d’une personne forment avec celles de l’autre, et les [superpositions de maisons](/astrology/house-overlays/), là où les planètes de chacun tombent dans les maisons de l’autre, lues dans les deux sens. Ce qui change, c’est la question que vous apportez, et donc les parties des thèmes qui passent au premier plan.
+C’est la [synastrie](/astrology/synastry/), la comparaison de deux thèmes natals, appliquée à tout lien entre deux adultes. La méthode ne change pas : les aspects que les planètes d’une personne forment avec celles de l’autre, et les [superpositions de maisons](/astrology/house-overlays/), c’est-à-dire les maisons de l’un où se posent les planètes de l’autre, lues dans les deux sens. Ce qui change, c’est la question que vous apportez, et donc les parties des thèmes qui passent au premier plan.
 
-L’idée est ancienne. Ptolémée consacrait un chapitre entier à l’amitié et à l’inimitié, et comparait les places du Soleil, de la Lune, de l’ascendant et de la Part de Fortune dans les deux nativités pour juger des amitiés durables (*Tétrabible*, livre IV). Il pensait aux amis, pas seulement aux époux.
+L’idée est ancienne. Ptolémée consacrait un chapitre entier à l’amitié et à l’inimitié, et jugeait si une amitié durerait en comparant quatre points des deux nativités : le Soleil, la Lune, l’ascendant et la Part de Fortune (*Tétrabible*, livre IV). Il pensait aux amis, pas seulement aux époux.
 
 ## Comment on la fait {#comment-on-la-fait}
 
@@ -48,7 +48,7 @@ Les deux thèmes se lisent d’abord chacun pour lui-même, puis côte à côte.
 - **Entre collègues.** Mercure pour la façon de communiquer, Mars pour le rythme et l’élan, Saturne pour la structure et les responsabilités, le Soleil et la maison 10 pour le leadership et la visibilité, la maison 6 pour le quotidien du travail.
 - **En famille.** La Lune pour la façon dont on a reçu et donné le soin, Saturne pour les règles et le devoir, la maison 4 pour le foyer et les racines, Mercure pour la façon de se parler, ou de ne pas se parler, Chiron pour la blessure familiale, et les planètes lentes pour ce qui passe d’une génération à l’autre.
 
-Dans tous les cas, je ne compte que les contacts qui font intervenir au moins un corps personnel, le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le Milieu du Ciel, et il me faut les deux heures de naissance : sans elles, les maisons sont inconnues et les contacts de la Lune incertains ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Dans tous les cas, je ne compte que les contacts qui font intervenir au moins un corps personnel, le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le Milieu du Ciel, et il faut les deux heures de naissance, puisque les maisons et les contacts exacts de la Lune en dépendent ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Ce qu’elle montre {#ce-qu-elle-montre}
 

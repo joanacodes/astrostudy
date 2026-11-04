@@ -42,7 +42,7 @@ Votre dossier relève d’un avocat, qui sait lire ce qu’aucun thème ne lira 
 
 ## Pourquoi c’est important {#pourquoi-c-est-important}
 
-L’astrologie a déjà jugé des procès. En astrologie horaire, où l’on dresse un thème pour l’instant où une question est posée, William Lilly donnait la [maison 7](/astrology/7th-house/) au défendeur dans un procès (*the defendant in a law-suit*), avec les ennemis déclarés et le camp adverse à la guerre (*Christian Astrology*, 1647), et des astrologues de l’horaire se prononçaient sur qui l’emporterait ([astrologie horaire](/astrology/horary-astrology/)). Certains le font encore. Je lis la maison 7 comme les personnes qui vous font face, partenaires comme rivaux, et je ne juge pas de procès.
+L’astrologie a déjà jugé des procès. En astrologie horaire, qui répond à une question à partir du thème de la minute où elle est posée, William Lilly donnait la [maison 7](/astrology/7th-house/) au défendeur dans un procès (*the defendant in a law-suit*), avec les ennemis déclarés et le camp adverse à la guerre (*Christian Astrology*, 1647), et des astrologues de l’horaire se prononçaient sur qui l’emporterait ([astrologie horaire](/astrology/horary-astrology/)). Certains le font encore. Je lis la maison 7 comme les personnes qui vous font face, partenaires comme rivaux, et je ne juge pas de procès.
 
 Mes raisons sont pratiques.
 
@@ -53,7 +53,7 @@ Mes raisons sont pratiques.
 
 Ce qu’un thème peut décrire, c’est vous, sous pression : votre façon d’affronter un conflit (Mars), de tenir au long d’une procédure (Saturne), d’absorber des informations compliquées (Mercure), ce qui vous apaise pendant l’attente (la Lune). C’est une météo, et elle peut vous aider à prendre soin de vous pendant une saison difficile.
 
-Le ciel sert aussi de coupable d’autres façons. On accuse souvent [Mercure rétrograde](/astrology/mercury-retrograde/) des retards et des papiers perdus, et certains sites font de Jupiter la planète de la loi. Un accord vaut ce que valent ses termes, quoi que fasse Mercure, et Jupiter décrit la croissance et le sens, jamais un verdict en faveur de qui que ce soit. Les questions sur une grossesse reçoivent de moi la même réponse ([l’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), comme celles sur l’argent ([l’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)).
+Le ciel sert aussi de coupable d’autres façons. On accuse souvent [Mercure rétrograde](/astrology/mercury-retrograde/) des retards et des papiers perdus, et certains sites font de Jupiter la planète de la loi. Un accord vaut ce que valent ses termes, quoi que fasse Mercure, et Jupiter décrit la croissance et le sens, jamais un verdict en faveur de qui que ce soit. Les questions d’argent se heurtent au même refus ([l’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)), tout comme le désir de savoir si un enfant viendra ([l’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)).
 
 ## Que faire à la place {#que-faire-a-la-place}
 

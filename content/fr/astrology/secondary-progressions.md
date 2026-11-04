@@ -39,7 +39,7 @@ Les progressions secondaires reposent sur une idée tranquille : les jours qui 
 
 ## Ce que c’est {#ce-que-c-est}
 
-Un thème progressé est un vrai thème, dressé pour un vrai jour, celui qui tombe autant de jours après votre naissance que vous avez d’années, puis lu comme s’il appartenait à l’année en cours. Comme chaque jour vaut un an, tout avance très lentement. Le Soleil progressé avance d’environ un degré par an : il change de signe tous les 30 ans environ. La Lune progressée avance d’environ un degré par mois : elle passe deux ans à deux ans et demi dans chaque signe, le plus souvent deux ans et quatre mois, et fait le tour du zodiaque en 27 ans environ ([la Lune progressée](/astrology/progressed-moon/)).
+Un thème progressé est un vrai thème, dressé pour un vrai jour, celui dont l’écart avec votre naissance, compté en jours, égale votre âge en années, puis lu comme s’il appartenait à l’année en cours. Comme chaque jour vaut un an, tout avance très lentement. Le Soleil progressé avance d’environ un degré par an : il change de signe tous les 30 ans environ. La Lune progressée avance d’environ un degré par mois : elle passe deux ans à deux ans et demi dans chaque signe, le plus souvent deux ans et quatre mois, et il lui faut 27 ans environ pour tout le zodiaque ([la Lune progressée](/astrology/progressed-moon/)).
 
 Mercure, Vénus et Mars peuvent avancer de quelques degrés à quelques signes au cours d’une vie, et une planète née près d’une station peut devenir rétrograde ou directe par progression. Les planètes lentes ne bougent presque pas. Les angles progressent aussi, mais les astrologues les calculent de plusieurs façons : deux logiciels peuvent donc donner deux Milieux du Ciel progressés.
 
@@ -59,7 +59,7 @@ L’heure de naissance compte plus qu’il n’y paraît. La Lune avance d’env
 
 Les progressions décrivent un développement : la façon dont votre sens de la direction, vos besoins et votre manière d’aimer mûrissent, lentement, de l’intérieur. Je lis une Lune progressée qui entre dans un nouveau signe comme un changement dans ce qu’il vous faut pour vous sentir chez vous, et un Soleil progressé qui rejoint votre Vénus natale comme ce qui compte pour vous qui passe au centre de votre vie pendant un an ou deux. Rien n’arrive du jour au lendemain. C’est la nature de la méthode : elle montre une lente maturation, pas des virages soudains.
 
-Quand je regarde une année, les progressions font partie des méthodes que j’utilise, avec les [transits](/astrology/transits/) de Jupiter à Pluton, de Chiron et du nœud vrai, les [arcs solaires](/astrology/solar-arc-directions/), la [révolution solaire](/astrology/solar-return/), les profections et le zodiacal releasing. *The Changing Sky* de Steven Forrest (1986) lit les progressions et les transits côte à côte, et c’est aussi ainsi que je travaille : les transits comme la météo qui vient du dehors, les progressions comme la saison qui pousse au-dedans.
+Les progressions font partie de ma façon de situer les choses dans le temps, à côté des [transits](/astrology/transits/) des planètes de Jupiter à Pluton, de Chiron et du nœud vrai, des [arcs solaires](/astrology/solar-arc-directions/), de la [révolution solaire](/astrology/solar-return/), des profections et du zodiacal releasing. *The Changing Sky* de Steven Forrest (1986) lit les progressions et les transits côte à côte, et c’est aussi ainsi que je travaille : les transits comme la météo qui vient du dehors, les progressions comme la saison qui pousse au-dedans.
 
 ## Ses limites {#ses-limites}
 

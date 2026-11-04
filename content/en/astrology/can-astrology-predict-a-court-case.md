@@ -41,7 +41,7 @@ Your case belongs with a lawyer, who can read what a chart never can: the eviden
 
 ## Why it matters {#why-it-matters}
 
-Astrology has judged lawsuits before. In horary astrology, where a chart is cast for the moment a question is asked, William Lilly gave the [7th house](/astrology/7th-house/) to "the defendant in a law-suit", along with public enemies and the opposing party in a war (*Christian Astrology*, 1647), and horary astrologers ruled on who would prevail ([horary astrology](/astrology/horary-astrology/)). Some still do. I read the 7th house as the people across the table from you, partners and rivals alike, and I don't judge trials.
+Astrology has judged lawsuits before. In horary astrology, which answers a question from the chart of the minute it is put, William Lilly gave the [7th house](/astrology/7th-house/) to "the defendant in a law-suit", along with public enemies and the opposing party in a war (*Christian Astrology*, 1647), and horary astrologers ruled on who would prevail ([horary astrology](/astrology/horary-astrology/)). Some still do. I read the 7th house as the people across the table from you, partners and rivals alike, and I don't judge trials.
 
 The reasons are practical.
 
@@ -52,7 +52,7 @@ The reasons are practical.
 
 What a chart can describe is you, under pressure: how you handle conflict (Mars), how you endure a long process (Saturn), how you take in complicated information (Mercury), what steadies you while you wait (the Moon). That's weather, and it can help you look after yourself through a hard season.
 
-The sky gets blamed for legal trouble in other ways too. [Mercury retrograde](/astrology/mercury-retrograde/) is often held responsible for delays and lost paperwork, and some websites call Jupiter the planet of the law. A settlement is as good as its terms, whatever Mercury is doing, and Jupiter describes growth and meaning, never a verdict in anyone's favour. Questions about having a child get the same answer from me ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and so do questions about money ([can astrology pick investments?](/astrology/can-astrology-pick-investments/)).
+The sky gets blamed for legal trouble in other ways too. [Mercury retrograde](/astrology/mercury-retrograde/) is often held responsible for delays and lost paperwork, and some websites call Jupiter the planet of the law. A settlement is as good as its terms, whatever Mercury is doing, and Jupiter describes growth and meaning, never a verdict in anyone's favour. Money questions meet the same refusal ([can astrology pick investments?](/astrology/can-astrology-pick-investments/)), and so does the wish to know whether a child will come ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)).
 
 ## What to do instead {#what-to-do-instead}
 

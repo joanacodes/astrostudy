@@ -47,8 +47,8 @@ It sits beside two other ways of reading a pair, which work differently: [the co
 
 Both charts come first, each read on its own. Then come the contacts between them, and those need choices.
 
-- **Orbs.** The ones I use take the wider of the two bodies: 8° for the Sun and Moon, 6° for Mercury, Venus and Mars, 5° for Jupiter and Saturn, 4° for Uranus, Neptune and Pluto, 3° for Chiron, Lilith and the North Node; the full orb for a conjunction or an opposition, less for a trine or square, less again for a sextile. With those orbs, about 1 pair of people in 7 has one person's Sun square the other's Moon, one way round or the other.
-- **Which contacts count.** Everyone born within a few years shares the slow planets' positions, so a contact between two slow bodies says more about two generations than about two people. I count only contacts with at least one personal body: the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. Two slow bodies I read through the houses they fall in.
+- **Orbs.** Mine run from 8° for the Sun and Moon down to 3° for Chiron, Lilith and the North Node, a little less for a trine or square and less again for a sextile; [synastry aspects](/astrology/synastry-aspects/) has the full list. With them, the Sun of one person squares the Moon of the other in about 1 pair of people in 7.
+- **Which contacts count.** I count a contact only when a personal body is in it: the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. A contact between two slow bodies is shared by everyone born within a few years, so it says more about two generations than about two people, and I read it through the houses instead.
 - **Both directions.** Every contact is read from each side. The person whose Moon is touched by the other's Saturn doesn't live it the way the person with the Saturn does ([Moon conjunct Saturn in synastry](/astrology/moon-conjunct-saturn-synastry/)).
 - **Both birth times.** Without them, the houses are unknown, and the Moon, moving about 13° a day, can make or unmake a contact ([what changes without a birth time](/blog/unknown-birth-time/)).
 

@@ -44,7 +44,7 @@ Overlays stay inside the two real charts. That's what separates them from the [D
 
 ## How it is done {#how-it-is-done}
 
-Place each of their planets in your chart by its degree, and note the house it falls in; then do the same with your planets in theirs. In Placidus, the house system I use, houses differ in size, so some catch more planets than others.
+Place each of their planets in your chart by its degree, and note the house it falls in; then do the same with your planets in theirs. In Placidus, the house system I use, some houses are much wider than others, and the wide ones tend to catch more planets.
 
 Two birth times are needed, one for each set of houses. Their planets mostly need only their birth date, with two exceptions: the Moon, which moves about 13° a day, and any planet within a few degrees of one of your house cusps, where their time decides which side it falls. A planet near one of your angles does double work: it also meets your Ascendant, IC, Descendant or Midheaven, and I read it as a contact as well as an overlay ([what changes without a birth time](/blog/unknown-birth-time/)).
 

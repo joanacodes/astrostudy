@@ -24,7 +24,7 @@ faq:
   - q: "Que sont les bénéfiques et les maléfiques en astrologie ?"
     a: "Ce sont les deux groupes de planètes de la tradition : les bénéfiques, Jupiter et Vénus, dont on attendait de bonnes choses, et les maléfiques, Saturne et Mars, dont on redoutait la difficulté. Beaucoup d’astrologues s’en servent encore comme d’un raccourci, mais ce que fait une planète dépend de son signe, de sa maison et de ses aspects."
   - q: "Faut-il craindre Saturne dans son thème natal ?"
-    a: "Non. La tradition voyait en Saturne la plus redoutée des maléfiques, mais aucune position n’est mauvaise en soi. Saturne montre où vous construisez et prenez vos responsabilités, souvent lentement. Dans mon carnet, c’est l’une des trois positions qui ont tenu le plus souvent, et je lis Saturne comme un calendrier, pas comme un mur."
+    a: "Non. La tradition voyait en Saturne la planète maléfique la plus redoutée, mais aucune position n’est mauvaise en soi. Saturne montre où vous construisez et prenez vos responsabilités, souvent lentement. Dans mon carnet, c’est l’une des trois positions qui ont tenu le plus souvent, et je lis Saturne comme un calendrier, pas comme un mur."
   - q: "Quelles sont les planètes bénéfiques ?"
     a: "Jupiter et Vénus, et la tradition place Jupiter devant Vénus. Ptolémée comptait aussi la Lune parmi les planètes bienfaisantes, et rangeait le Soleil et Mercure parmi les planètes communes, qui prennent la nature de leur compagnie. Personne ne connaissait encore Uranus, Neptune ni Pluton : le schéma n’a pas d’étiquette pour ces planètes."
   - q: "Les planètes maléfiques portent-elles malheur ?"
@@ -41,7 +41,7 @@ Les bénéfiques sont [Jupiter](/astrology/jupiter/) et [Vénus](/astrology/venu
 
 Ptolémée en donne la raison au IIe siècle, avec les quatre qualités. On pensait que la chaleur et l’humidité font croître les choses ; Jupiter comme Vénus en avaient en abondance, avec un tempérament mesuré, et la tradition les rangeait parmi les planètes bienfaisantes, avec la Lune. Saturne avait trop de froid, Mars trop de sécheresse : deux planètes malfaisantes. Quant au Soleil et à Mercure, Ptolémée en fait des planètes « communes », qui prennent la nature de la planète qu’elles accompagnent. Les [luminaires](/astrology/luminaries/) se retrouvent ainsi de part et d’autre de la ligne : la Lune avec les bénéfiques, le Soleil entre les deux.
 
-Le schéma a été dessiné pour les sept astres visibles à l’œil nu. La découverte d’Uranus en 1781, de Neptune en 1846 et de Pluton en 1930 est venue bien après : il n’a pas de place pour ces planètes.
+Le schéma a été dessiné pour les sept astres visibles à l’œil nu. La découverte d’Uranus en 1781, de Neptune en 1846 et de Pluton en 1930 est venue bien après : le schéma n’a pas de place pour ces planètes.
 
 ## Comment ça marche {#comment-ca-marche}
 
@@ -53,7 +53,7 @@ Les aspects étaient triés de la même façon : Ptolémée appelle harmonieux 
 
 ## Dans une lecture {#dans-une-lecture}
 
-Je garde les mots, parce qu’ils font partie de l’histoire et qu’on les retrouve dans tous les livres anciens, et je lis au-delà. Jupiter, pour moi, c’est là où vous élargissez votre compréhension et grandissez, pas là où la chance vous attend ; Vénus, votre façon d’évaluer, de choisir et d’entrer en relation, pas une promesse d’idylle ; Mars, la part de vous qui sait agir, s’affirmer et protéger ; Saturne, la structure, la responsabilité et le temps long. Une maléfique montre où la vie demande de l’effort, de la patience ou du courage. C’est du travail, pas du malheur.
+Je garde les mots, parce qu’ils font partie de l’histoire et qu’on les retrouve dans tous les livres anciens, et je lis au-delà. Jupiter, pour moi, c’est là où vous élargissez votre compréhension et grandissez, pas là où la chance vous attend ; Vénus, votre façon d’évaluer, de choisir et d’entrer en relation, pas une promesse d’idylle ; Mars, la part de vous qui sait agir, s’affirmer et protéger ; Saturne, votre façon de bâtir, de prendre vos responsabilités et de tenir sur des années. Une maléfique montre où la vie demande de l’effort, de la patience ou du courage. C’est du travail, pas du malheur.
 
 Mon carnet est mon meilleur argument. [Saturne](/blog/saturn-chiron-lilith/#saturne), la planète que la tradition redoutait le plus, fait partie des trois positions qui ont tenu 75 à 90 % du temps dans [mes tests](/blog/i-tested-my-birth-chart/). Ce que Saturne décrivait était juste, et ce n’était jamais une malédiction : une matière apprise lentement, souvent plus tard que tout le monde autour.
 

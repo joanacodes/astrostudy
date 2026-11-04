@@ -45,7 +45,7 @@ Les superpositions restent à l’intérieur des deux thèmes réels. C’est ce
 
 ## Comment on la fait {#comment-on-la-fait}
 
-Placez chacune de ses planètes dans votre thème d’après son degré, et notez la maison où elle tombe ; faites ensuite de même avec vos planètes dans son thème. En Placidus, le système de maisons que j’utilise, les maisons n’ont pas toutes la même taille : certaines accueillent plus de planètes que d’autres.
+Placez chacune de ses planètes dans votre thème d’après son degré, et notez la maison où elle tombe ; faites ensuite de même avec vos planètes dans son thème. En Placidus, le système de maisons que j’utilise, certaines maisons sont bien plus larges que d’autres, et les plus larges accueillent souvent plus de planètes.
 
 Il faut deux heures de naissance, une pour chaque jeu de maisons. Ses planètes ne demandent en général que sa date de naissance, avec deux exceptions : la Lune, qui avance d’environ 13° par jour, et toute planète à quelques degrés d’une de vos cuspides, où son heure décide du côté où elle tombe. Une planète proche d’un de vos angles travaille double : elle rencontre aussi votre ascendant, votre Fond du Ciel, votre descendant ou votre Milieu du Ciel, et je la lis comme un contact autant que comme une superposition ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

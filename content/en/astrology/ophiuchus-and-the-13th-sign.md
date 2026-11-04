@@ -57,6 +57,6 @@ Nothing in your chart changes when the headline comes round again. The Sun is wh
 ## Common myths {#myths}
 
 - **“NASA added a thirteenth sign.”** NASA explained where the constellations are and changed nothing. It says plainly that it studies astronomy, not astrology.
-- **“Your real sign is the constellation behind the Sun.”** That's a map of the stars, not the zodiac astrologers use. In the tropical zodiac, your sign is set by the season of your birth.
+- **“Astrologers left Ophiuchus out by mistake.”** There was no place to leave it out of. A tropical sign is a stretch of the year, not a star pattern, and the year still has twelve of them.
 - **“Ophiuchus is a secret sign the ancients hid.”** There was nothing to hide: the tropical zodiac has always had twelve equal signs, and Ophiuchus's borders, as astronomers use them, were drawn in 1930.
 - **“Born in early December, you're an Ophiuchus, not a Sagittarius.”** In the tropical zodiac you're a Sagittarius; the constellation behind the Sun is a fact of another kind.

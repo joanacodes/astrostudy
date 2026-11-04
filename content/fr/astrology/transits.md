@@ -54,7 +54,7 @@ Les orbes que j’utilise vont de 1,5° avant l’exactitude à 1° après, et l
 - **Uranus :** une vingtaine de mois.
 - **Neptune :** deux ans et demi environ en général, parfois plutôt deux.
 - **Pluton :** en général entre deux et trois ans, parfois près de quatre.
-- **Chiron :** de trois semaines à près de deux ans, dix mois le plus souvent, tant son orbite est étirée.
+- **Chiron :** de trois semaines à presque deux ans, le plus souvent une dizaine de mois, tant son orbite est étirée.
 - **Le nœud vrai :** un mois environ, parfois trois.
 
 Les transits aux planètes ne demandent que votre date de naissance, sauf pour le degré exact de la Lune. Les transits à l’ascendant et au Milieu du Ciel, et ceux qui traversent les maisons, demandent votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
@@ -65,7 +65,7 @@ Les transits montrent des saisons : quand une part du thème est mise en avant,
 
 Certains arrivent pour tout le monde à peu près au même âge, parce qu’une planète lente revient vers sa propre position : le [retour de Saturne](/astrology/saturn-return/), pour la première fois entre 28,4 et 29,9 ans, l’[opposition d’Uranus](/astrology/uranus-opposition/) entre 39 et 44 ans et demi environ, le [carré de Neptune](/astrology/neptune-square/) entre 39 ans et demi et 42 ans environ. Le [carré de Pluton](/astrology/pluto-square/) arrive à des âges très différents selon l’année de naissance.
 
-D’autres sont rares, et c’est ce qui les rend personnels. Avant 80 ans, les personnes nées entre 1930 et 2009 rencontrent [Saturne en transit carré Soleil du thème natal](/astrology/transiting-saturn-square-natal-sun/) cinq ou six fois, et Jupiter en conjonction avec leur Soleil six ou sept fois, mais plus de la moitié ne voient jamais [Pluton en transit conjonction Soleil du thème natal](/astrology/transiting-pluto-conjunct-natal-sun/).
+D’autres dépendent de la place de vos planètes, et reviennent à des rythmes très différents. Avant 80 ans, les personnes nées entre 1930 et 2009 rencontrent [Saturne en transit carré Soleil du thème natal](/astrology/transiting-saturn-square-natal-sun/) cinq ou six fois, et Jupiter en conjonction avec leur Soleil six ou sept fois, mais plus de la moitié ne voient jamais [Pluton en transit conjonction Soleil du thème natal](/astrology/transiting-pluto-conjunct-natal-sun/).
 
 Je lis les transits avec les [progressions secondaires](/astrology/secondary-progressions/), les arcs solaires, la [révolution solaire](/astrology/solar-return/), les profections et le zodiacal releasing. Un thème que plusieurs d’entre eux désignent en même temps mérite l’attention ; un transit seul est un accent plus léger.
 

@@ -38,7 +38,7 @@ Secondary progressions rest on one quiet idea: the days just after your birth de
 
 ## What it is {#what-it-is}
 
-A progressed chart is a real chart, cast for a real day, the day as many days after your birth as you are years old, and then read as if it belonged to the present year. Because each day stands for a year, everything moves very slowly. The progressed Sun moves about a degree a year, so it changes sign roughly every 30 years. The progressed Moon moves about a degree a month: it spends two to two and a half years in each sign, usually about two years and four months, and goes round the whole zodiac in about 27 years ([the progressed Moon](/astrology/progressed-moon/)).
+A progressed chart is a real chart, cast for a real day, the one whose distance from your birth in days equals your age in years, and then read as if it belonged to the present year. Because each day stands for a year, everything moves very slowly. The progressed Sun moves about a degree a year, so it changes sign roughly every 30 years. The progressed Moon moves about a degree a month: it spends two to two and a half years in each sign, usually about two years and four months, and needs about 27 years for the whole zodiac ([the progressed Moon](/astrology/progressed-moon/)).
 
 Mercury, Venus and Mars can move anywhere from a few degrees to a few signs over a lifetime, and one born close to a standstill may turn retrograde or direct by progression. The slow planets hardly move at all. The angles are progressed too, but astrologers do it in more than one way, so two programs can give two progressed Midheavens.
 
@@ -58,7 +58,7 @@ The birth time matters more than it seems. The Moon moves about half a degree an
 
 Progressions describe development: how your sense of purpose, your needs and your way of relating ripen, slowly, from the inside. I read a progressed Moon entering a new sign as a change in what you need to feel at home, and a progressed Sun meeting your natal Venus as what you value moving to the centre of your life for a year or two. Nothing arrives overnight. That's the method's nature: it shows gradual maturing, not sudden turns.
 
-When I look at a year, progressions are one of the methods I use, with [transits](/astrology/transits/) from Jupiter to Pluto, Chiron and the true node, [solar arcs](/astrology/solar-arc-directions/), the [solar return](/astrology/solar-return/), profections and zodiacal releasing. Steven Forrest's *The Changing Sky* (1986) reads progressions and transits side by side, and that pairing is how I work too: transits as the weather that comes from outside, progressions as the season growing inside.
+Progressions are part of the timing I use, together with the [transits](/astrology/transits/) of Jupiter through Pluto, of Chiron and of the true node, and with [solar arcs](/astrology/solar-arc-directions/), the [solar return](/astrology/solar-return/), profections and zodiacal releasing. Steven Forrest's *The Changing Sky* (1986) reads progressions and transits side by side, and that pairing is how I work too: transits as the weather that comes from outside, progressions as the season growing inside.
 
 ## Its limits {#its-limits}
 

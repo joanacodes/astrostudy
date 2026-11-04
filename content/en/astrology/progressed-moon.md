@@ -31,7 +31,7 @@ sources:
   - { title: "Steven Forrest, The Changing Sky (1986)", note: "the progressed Moon, read as a chapter of feeling" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the progressed Moon stays in each sign, for births 1930–2009" }
 ---
-In the slow world of progressions, where the Sun takes a year to move a degree, one point keeps a brisk pace: the Moon. It crosses a sign every couple of years and goes round the whole zodiac in about 27, and that makes it the part of the progressed chart you can actually feel change.
+In the slow world of progressions, where the Sun takes a year to move a degree, one point keeps a brisk pace: the Moon. It changes sign every couple of years and completes the zodiac in about 27, and that makes it the part of the progressed chart you can actually feel change.
 
 ## What it is {#what-it-is}
 
@@ -39,18 +39,18 @@ In the slow world of progressions, where the Sun takes a year to move a degree, 
 
 The exact pace is set at birth. Near the point of its orbit closest to Earth, the Moon moves faster; near the farthest, slower. A quick natal Moon gives a progressed Moon that takes about two years per sign, a slow one about two and a half.
 
-At that pace the progressed Moon goes round the zodiac in about 27 years, and comes back to its birth degree around 27, 55 and 82. By contrast, [the progressed Sun](/astrology/progressed-sun/) moves about a degree a year, and the two meet, at a progressed new moon, about every 29½ years.
+At that pace the progressed Moon goes round the zodiac in about 27 years, and comes back to its birth degree around 27, 55 and 82. By contrast, [the progressed Sun](/astrology/progressed-sun/) covers only about a degree a year, and the two meet, at a progressed new moon, about every 29½ years.
 
 ## How it is done {#how-it-is-done}
 
-A program places the progressed Moon around your natal chart; by hand, you count as many days after your birth as you are years old and look up the Moon for that day, at your birth time. Then I read four things:
+A program places the progressed Moon around your natal chart; by hand, you find the day that lies as many days after your birth date as your age in years, and look up the Moon for it, at your birth time. Then I read four things:
 
 - **Its sign.** The manner of your needs for those two-odd years: the [progressed Moon in Cancer](/astrology/progressed-moon-in-cancer/) looks for closeness and shelter, the [progressed Moon in Capricorn](/astrology/progressed-moon-in-capricorn/) for footing and a long view.
 - **Its house.** The area of life where those needs gather. It needs an exact birth time, and in Placidus, the house system I use, houses differ in size, so the Moon stays in some longer than others.
 - **Its aspects to the natal chart.** Moving a degree a month, it stays in a tight aspect to a natal planet for a month or two, a short chapter in which that planet's function asks for care.
-- **Its phase with the progressed Sun.** The progressed new moon opens a cycle of about 29½ years, and astrologers read its phases as chapters ([progressed lunar phases](/astrology/progressed-lunar-phases/)).
+- **Its phase with the progressed Sun.** The progressed new moon opens a cycle of about 29½ years, divided into phases that astrologers read as stages of a life ([progressed lunar phases](/astrology/progressed-lunar-phases/)).
 
-The birth time matters here more than almost anywhere. The natal Moon moves about half a degree an hour, so an hour's error in your birth time moves the progressed Moon by about two weeks of its timing, and moves its house changes too ([what changes without a birth time](/blog/unknown-birth-time/)).
+The birth time matters here more than almost anywhere. The natal Moon covers about half a degree an hour, so if your birth time is an hour out, the progressed Moon's timing is about two weeks out too, and so are its house changes ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## What it shows {#what-it-shows}
 

@@ -40,18 +40,18 @@ Les [progressions secondaires](/astrology/secondary-progressions/) prennent le c
 
 Le rythme exact se fixe à la naissance. Près du point de son orbite le plus proche de la Terre, la Lune va plus vite ; près du plus lointain, plus lentement. Une Lune natale rapide donne une Lune progressée qui met deux ans environ par signe, une Lune lente deux ans et demi.
 
-À cette allure, la Lune progressée fait le tour du zodiaque en 27 ans environ, et revient sur son degré de naissance vers 27, 55 et 82 ans. [Le Soleil progressé](/astrology/progressed-sun/), lui, avance d’environ un degré par an, et les deux se rejoignent, à une nouvelle lune progressée, tous les 29 ans et demi environ.
+À cette allure, la Lune progressée boucle le zodiaque en 27 ans environ, et revient sur son degré de naissance vers 27, 55 et 82 ans. [Le Soleil progressé](/astrology/progressed-sun/), lui, ne parcourt qu’un degré par an environ, et les deux se rejoignent, à une nouvelle lune progressée, tous les 29 ans et demi environ.
 
 ## Comment on la fait {#comment-on-la-fait}
 
-Un logiciel place la Lune progressée autour de votre thème natal ; à la main, vous comptez autant de jours après votre naissance que vous avez d’années, et vous cherchez la Lune de ce jour-là, à votre heure de naissance. Je lis ensuite quatre choses :
+Un logiciel place la Lune progressée autour de votre thème natal ; à la main, vous cherchez le jour situé, après votre date de naissance, à autant de jours que votre âge compte d’années, et vous y lisez la Lune, à votre heure de naissance. Je lis ensuite quatre choses :
 
 - **Son signe.** La manière de vos besoins pendant ces deux années et quelques : la [Lune progressée en Cancer](/astrology/progressed-moon-in-cancer/) cherche la proximité et l’abri, la [Lune progressée en Capricorne](/astrology/progressed-moon-in-capricorn/) un appui solide et une vue à long terme.
 - **Sa maison.** Le domaine de vie où ces besoins se rassemblent. Elle demande une heure de naissance exacte, et en Placidus, le système de maisons que j’utilise, les maisons n’ont pas toutes la même taille : la Lune reste plus longtemps dans certaines que dans d’autres.
 - **Ses aspects au thème natal.** Comme elle avance d’un degré par mois, elle reste en aspect serré avec une planète natale un mois ou deux : un court chapitre où la fonction de cette planète demande du soin.
-- **Sa phase avec le Soleil progressé.** La nouvelle lune progressée ouvre un cycle d’environ 29 ans et demi, et les astrologues lisent ses phases comme des chapitres ([phases lunaires progressées](/astrology/progressed-lunar-phases/)).
+- **Sa phase avec le Soleil progressé.** La nouvelle lune progressée ouvre un cycle d’environ 29 ans et demi, découpé en phases que les astrologues lisent comme des étapes de la vie ([phases lunaires progressées](/astrology/progressed-lunar-phases/)).
 
-L’heure de naissance compte ici plus que presque partout. La Lune natale avance d’environ un demi-degré par heure : une heure d’erreur sur votre heure de naissance décale la Lune progressée d’environ deux semaines, et décale aussi ses changements de maison ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+L’heure de naissance compte ici plus que presque partout. La Lune natale parcourt environ un demi-degré par heure : si votre heure de naissance est décalée d’une heure, le calendrier de la Lune progressée l’est d’environ deux semaines, et ses changements de maison aussi ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Ce qu’elle montre {#ce-qu-elle-montre}
 

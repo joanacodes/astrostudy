@@ -58,7 +58,7 @@ De l’autre côté du zodiaque, chaque signe d’eau fait face à un signe de t
 
 Les planètes en signes d’eau montrent où vous êtes le plus perméable : où les humeurs vous atteignent, où vous vous souvenez, où vous avez besoin de proximité pour vous sentir en sécurité. Plusieurs d’entre elles vont souvent avec un tempérament discret, intuitif et fidèle. Aucune planète en eau ne veut pas dire aucun sentiment, seulement qu’il passe parfois par la pensée ou l’action avant d’être reconnu ([équilibre des éléments et éléments manquants](/astrology/element-balance-and-missing-elements/)). C’est aussi en eau que je choisis mes mots avec le plus de soin : ce que l’on ressent profondément, on le ressent souvent en privé, et le nommer se propose avec douceur plutôt que de s’annoncer.
 
-Le maître du Cancer est l’astre le plus rapide du thème. La Lune change de signe tous les deux jours et demi environ : pour une naissance le jour où elle entre dans un signe d’eau ou en sort, il faut l’heure pour trancher ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)). Et avec le Scorpion ou les Poissons sur une cuspide, je lis les deux maîtres et je vous dis ce que chacun raconte ([ma méthode](/how-i-read/)).
+Le maître du Cancer est l’astre le plus rapide du thème. La Lune ne passe que deux jours et demi environ dans chaque signe, et quand elle entre dans un signe d’eau ou en sort le jour d’une naissance, c’est l’heure qui doit trancher ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)). Et avec le Scorpion ou les Poissons sur une cuspide, je lis les deux maîtres et je vous dis ce que chacun raconte ([ma méthode](/how-i-read/)).
 
 ## Idées reçues {#idees-recues}
 

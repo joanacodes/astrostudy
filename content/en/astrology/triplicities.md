@@ -17,6 +17,7 @@ facts:
   - { k: "Ptolemy’s word", v: "Triangles" }
   - { k: "Fire’s rulers, after Dorotheus", v: "The Sun by day, Jupiter by night, Saturn taking part" }
   - { k: "As a dignity", v: "One of the five traditional measures of a planet’s standing" }
+  - { k: "Grand trine", v: "About 1 person in 10 born 1930–2009" }
 related: ["/astrology/polarity", "/astrology/quadruplicities", "/astrology/triplicity-rulers", "/astrology/grand-trine", "/astrology/four-elements"]
 faq:
   - q: "What is a triplicity in astrology?"
@@ -30,6 +31,7 @@ faq:
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the triangles of signs" }
   - { title: "Dorotheus of Sidon, Carmen Astrologicum", note: "the three rulers of each triplicity, by day, by night and in common" }
+  - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have a grand trine" }
 ---
 A triplicity is a triangle drawn inside the zodiac: three signs of one element, each 120° from the next. It's the tradition's name for the element groups, and it carries a layer the modern word doesn't, the planets that rule each triangle by day and by night.
 
@@ -46,7 +48,7 @@ Ptolemy called them the triangles, and *triplicity* is the old word for the same
 
 ## How it works {#how-it-works}
 
-Because the signs of a triplicity sit 120° apart, planets in them tend to make [trines](/astrology/trine/), and three planets, one in each sign of a triangle, make a [grand trine](/astrology/grand-trine/). That's the modern use, and it's about ease: the system I built for my readings describes the trine as a flow between functions that reinforce each other, never as luck or automatic success.
+Because the signs of a triplicity sit 120° apart, planets in them tend to make [trines](/astrology/trine/), and three planets, one in each sign of a triangle, make a [grand trine](/astrology/grand-trine/). In the count behind this site, about 1 person in 10 born between 1930 and 2009 has one among the ten planets, with orbs of 8° for the Sun and Moon and 6° otherwise. That's the modern use, and it's about ease: the system I built for my readings describes the trine as a flow between functions that reinforce each other, never as luck or automatic success.
 
 The tradition adds rulers. In the scheme handed down by Dorotheus of Sidon, each triplicity has three: one for charts cast by day, one for charts cast by night, and a third that takes part in both.
 

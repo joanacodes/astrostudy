@@ -31,7 +31,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre III", note: "le chapitre sur les blessures et les maladies du corps : comment l’astrologie lisait autrefois la maladie" }
   - { title: "Ma méthode : ce que je refuse de lire", page: "/how-i-read", note: "les diagnostics de santé et les questions médicales" }
 ---
-Mon thème montre-t-il un cœur fragile ? Ce transit va-t-il me rendre malade ? Ma maison 6 m’avertit-elle de quelque chose ? On me pose la question de la santé de bien des façons, et ma réponse est chaque fois la même. Je préfère l’expliquer vraiment plutôt que de dire simplement non.
+Il y a une limite que je trace dans chaque lecture, et elle passe entre le thème et le corps. Un thème peut décrire votre façon de prendre soin de vous ; il ne voit pas à l’intérieur de vous, et il ne voit pas l’avenir. Cette page dit où passe cette limite, et pourquoi je m’y tiens.
 
 ## La réponse courte {#la-reponse-courte}
 

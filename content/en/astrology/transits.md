@@ -53,7 +53,7 @@ The orbs I use for timing run from 1½° before exact to 1° after, and the plan
 - **Uranus:** about twenty months.
 - **Neptune:** usually about two and a half years, sometimes closer to two.
 - **Pluto:** usually between two and three years, sometimes nearly four.
-- **Chiron:** anywhere from three weeks to nearly two years, ten months typically, because its orbit is so stretched.
+- **Chiron:** anywhere from three weeks to almost two years, most often about ten months, because its orbit is so stretched.
 - **The true node:** about a month, now and then three.
 
 Transits to planets need only your birth date, except the Moon's exact degree. Transits to the Ascendant and Midheaven, and through the houses, need your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
@@ -64,7 +64,7 @@ Transits show seasons: when a part of the chart is under emphasis, in what manne
 
 Some come to everyone at about the same age, because a slow planet comes back to its own place: the [Saturn return](/astrology/saturn-return/) first between 28.4 and 29.9, the [Uranus opposition](/astrology/uranus-opposition/) between about 39 and 44½, the [Neptune square](/astrology/neptune-square/) between about 39½ and 42. The [Pluto square](/astrology/pluto-square/) comes at very different ages depending on the birth year.
 
-Others are rare, and that's what makes them personal. By 80, people born between 1930 and 2009 meet [transiting Saturn square natal Sun](/astrology/transiting-saturn-square-natal-sun/) five or six times, and Jupiter conjunct their Sun six or seven times, but more than half never see [transiting Pluto conjunct natal Sun](/astrology/transiting-pluto-conjunct-natal-sun/) at all.
+Others depend on where your planets sit, and they come round at very different rates. By 80, people born between 1930 and 2009 meet [transiting Saturn square natal Sun](/astrology/transiting-saturn-square-natal-sun/) five or six times, and Jupiter conjunct their Sun six or seven times, but more than half never see [transiting Pluto conjunct natal Sun](/astrology/transiting-pluto-conjunct-natal-sun/) at all.
 
 I read transits alongside [secondary progressions](/astrology/secondary-progressions/), solar arcs, the [solar return](/astrology/solar-return/), profections and zodiacal releasing. A theme that several of them point to at once is worth attention; a transit on its own is a lighter accent.
 

@@ -58,7 +58,7 @@ In the zodiac's order, every earth sign comes between a fire sign and an air sig
 
 Planets in earth signs show where you go slowly and get there. Several of them, or an earth Sun, Moon or rising sign, often go with a steady, practical temperament other people lean on. No planets in earth isn't a lack of common sense: it can mean structure is something you reach for on purpose, through habits and other people, rather than ground you stand on ([element balance and missing elements](/astrology/element-balance-and-missing-elements/)).
 
-Capricorn belongs to Saturn, one of the three placements that held 75 to 90% of the time in [my notebook](/blog/i-tested-my-birth-chart/), so wherever Saturn sits, by sign and house, gets the closest reading I give. And because earth's houses touch money and work, I say plainly that I read how you handle both, never what you'll earn ([can astrology pick investments?](/astrology/can-astrology-pick-investments/)).
+Capricorn belongs to Saturn, and Saturn, with Chiron and Lilith, is what held 75 to 90% of the time when I tested charts in [my notebook](/blog/i-tested-my-birth-chart/). So wherever Saturn sits, by sign and house, gets the closest reading I give. And because earth's houses touch money and work, I say plainly that I read how you handle both, never what you'll earn ([can astrology pick investments?](/astrology/can-astrology-pick-investments/)).
 
 ## Common myths {#myths}
 

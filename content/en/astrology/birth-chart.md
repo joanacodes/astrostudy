@@ -38,7 +38,7 @@ Your birth chart is the sky at the minute you arrived, seen from the place you a
 
 A birth chart, or natal chart, is a map of the sky at the moment of birth, drawn for the place it happened. It records where the [Sun](/astrology/sun/), the [Moon](/astrology/moon/) and the planets stood along the [ecliptic](/astrology/ecliptic/), the Sun's yearly path, and so in which sign of the zodiac each one was. It records where that path met the horizon and the meridian at that place and minute, which gives the four angles, the [Ascendant](/astrology/ascendant/) among them, and the twelve houses. And it notes the angles between the planets: the aspects.
 
-The old name for it was a nativity, and before that a horoscope, from the Greek for the hour-marker, the rising degree; the word has since drifted towards the forecasts in magazines ([horoscope](/astrology/horoscope/)). Whatever the name, it's one picture, fixed at one moment. It doesn't change as you get older. What changes is the sky that keeps moving over it, which astrologers read against it, through [transits](/astrology/transits/) and [secondary progressions](/astrology/secondary-progressions/).
+Older names for it are a nativity and a horoscope, the second from the Greek for the hour-marker, the rising degree, though that word has since drifted towards the forecasts in magazines ([horoscope](/astrology/horoscope/)). Whatever the name, it's one picture, fixed at one moment. It doesn't change as you get older. What changes is the sky that keeps moving over it, which astrologers read against it, through [transits](/astrology/transits/) and [secondary progressions](/astrology/secondary-progressions/).
 
 ## How it works {#how-it-works}
 
@@ -46,7 +46,7 @@ Three details make a chart: the date, the time and the place.
 
 - **The date** fixes the planets. Most of them stay in one sign for weeks, months or years, so the date alone gives their signs. The Moon changes sign every two and a half days or so, and on those days it needs the time as well.
 - **The time** fixes the horizon. The Earth turns a degree every four minutes, so the rising sign changes about every two hours on average, and the houses with it. A time rounded to the hour can put the Ascendant in the wrong sign ([what changes without a birth time](/blog/unknown-birth-time/)).
-- **The place** fixes the horizon too, since the same minute gives a different rising degree in Lisbon and in Warsaw, and it sets the time zone. Daylight saving and old local times are where most calculation errors creep in ([Time zones and daylight saving in charts](/astrology/time-zones-and-daylight-saving-in-charts/)).
+- **The place** fixes the horizon too, since the same minute gives a different rising degree in Lisbon and in Warsaw, and it sets the time zone. Daylight saving and old local times are where calculation errors often creep in ([Time zones and daylight saving in charts](/astrology/time-zones-and-daylight-saving-in-charts/)).
 
 From those three, the positions come from an ephemeris, a table of where every body was on each day ([Ephemeris, and how to read one](/astrology/ephemeris-and-how-to-read-one/)), and the houses from the time and the latitude. There are several ways of dividing the houses, and they don't all agree. In Placidus, the house system I use, the houses are unequal, and the Ascendant and Midheaven sit on the cusps of the 1st and 10th.
 

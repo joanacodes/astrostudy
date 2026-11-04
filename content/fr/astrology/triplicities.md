@@ -18,6 +18,7 @@ facts:
   - { k: "Le mot de Ptolémée", v: "Les triangles" }
   - { k: "Maîtres du feu, d’après Dorothée", v: "Le Soleil de jour, Jupiter de nuit, Saturne en commun" }
   - { k: "Comme dignité", v: "L’une des cinq mesures traditionnelles de la situation d’une planète" }
+  - { k: "Grand trigone", v: "Environ 1 personne sur 10 née entre 1930 et 2009" }
 related: ["/astrology/polarity", "/astrology/quadruplicities", "/astrology/triplicity-rulers", "/astrology/grand-trine", "/astrology/four-elements"]
 faq:
   - q: "Qu’est-ce qu’une triplicité en astrologie ?"
@@ -31,6 +32,7 @@ faq:
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les triangles de signes" }
   - { title: "Dorothée de Sidon, Carmen Astrologicum", note: "les trois maîtres de chaque triplicité, de jour, de nuit et en commun" }
+  - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont un grand trigone" }
 ---
 Une triplicité est un triangle tracé à l’intérieur du zodiaque : trois signes d’un même élément, chacun à 120° du suivant. C’est le nom que la tradition donne aux groupes d’éléments, et il porte une couche que le mot moderne n’a pas : les planètes qui gouvernent chaque triangle, de jour et de nuit.
 
@@ -47,7 +49,7 @@ Ptolémée les appelait les triangles, et *triplicité* est l’ancien mot pour 
 
 ## Comment ça marche {#comment-ca-marche}
 
-Comme les signes d’une triplicité sont à 120° les uns des autres, les planètes qui s’y trouvent forment souvent des [trigones](/astrology/trine/), et trois planètes, une dans chaque signe d’un triangle, forment un [grand trigone](/astrology/grand-trine/). C’est l’usage moderne, et il parle d’aisance : le système que j’ai construit pour mes lectures décrit le trigone comme une circulation entre des fonctions qui se renforcent, jamais comme de la chance ou une réussite automatique.
+Comme les signes d’une triplicité sont à 120° les uns des autres, les planètes qui s’y trouvent forment souvent des [trigones](/astrology/trine/), et trois planètes, une dans chaque signe d’un triangle, forment un [grand trigone](/astrology/grand-trine/). Dans le décompte sur lequel s’appuie ce site, environ 1 personne sur 10 née entre 1930 et 2009 en a un parmi les dix planètes, avec des orbes de 8° pour le Soleil et la Lune et de 6° sinon. C’est l’usage moderne, et il parle d’aisance : le système que j’ai construit pour mes lectures décrit le trigone comme une circulation entre des fonctions qui se renforcent, jamais comme de la chance ou une réussite automatique.
 
 La tradition ajoute des maîtres. Dans le schéma transmis par Dorothée de Sidon, chaque triplicité en a trois : un pour les thèmes de jour, un pour les thèmes de nuit, et un troisième qui prend part aux deux.
 

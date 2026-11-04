@@ -11,7 +11,7 @@ definition: "The Saturn return is the transit of Saturn back over the degree it 
 facts:
   - { k: "What it is", v: "Transiting Saturn back on the degree of your natal Saturn" }
   - { k: "Saturn’s orbit", v: "About 29.4 years round the Sun" }
-  - { k: "First return", v: "First exact pass between 28.4 and 29.9, for everyone born 1930–2009" }
+  - { k: "First return", v: "First exact pass between 28.4 and 29.9, counted for births 1930–2009" }
   - { k: "Exact passes", v: "One, or three when Saturn loops back in retrograde" }
   - { k: "In orb", v: "Usually about nine months, from 1½° before exact to 1° after" }
   - { k: "Second return", v: "Around 58 to 60" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/chiron-return", "/astrology/saturn-squares-and-opposition", "/astrology/transits", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "At what age is the Saturn return?"
-    a: "Saturn takes about 29.4 years to go round, so it first comes back to its birth degree around the end of your twenties: for everyone born between 1930 and 2009, the first exact pass fell between the ages of 28.4 and 29.9. The second return comes around 58 to 60, and a few people see a third."
+    a: "Saturn takes about 29.4 years to go round, so it first comes back to its birth degree around the end of your twenties: counted for births from 1930 to 2009, the first exact pass fell between the ages of 28.4 and 29.9. The second return comes around 58 to 60, and a few people see a third."
   - q: "How long does a Saturn return last?"
     a: "With the orbs I use for timing, from 1½° before exact to 1° after, usually about nine months: Saturn often passes the point three times, forward, back and forward again. When it crosses only once, it can be over in three weeks. Some people count the whole time Saturn spends in its birth sign, about two and a half years."
   - q: "Is the Saturn return always a crisis?"
@@ -36,7 +36,7 @@ Somewhere between your 28th and 30th birthdays, Saturn comes back to the degree 
 
 ## What it is {#what-it-is}
 
-[Saturn](/astrology/saturn/) takes about 29.4 years to go round the Sun, and so about as long to go round the zodiac. When it reaches its birth position again, it closes one full cycle and starts the next. For everyone born between 1930 and 2009, the first exact pass came between the ages of 28.4 and 29.9: the date shifts with Saturn's speed in that part of its orbit, and with where its retrograde loops fall.
+[Saturn](/astrology/saturn/) takes about 29.4 years to go round the Sun, and so about as long to go round the zodiac. When it reaches its birth position again, it closes one full cycle and starts the next. Counted for births from 1930 to 2009, the first exact pass came between the ages of 28.4 and 29.9: the date shifts with Saturn's speed in that part of its orbit, and with where its retrograde loops fall.
 
 Those loops matter. Every year Saturn seems to back up for a few months, so it can cross your natal degree once, or three times: forward, back, then forward again. Born on 1 January 1990, you'd have met it three times, at about 29.1, 29.6 and 29.8; born on 1 January 1995, just once, at about 29.1. The second return follows one cycle later, around 58 to 60, and a long life may see a third.
 

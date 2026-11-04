@@ -50,7 +50,7 @@ Une révolution est un thème complet, mais elle ne se lit jamais seule. Son sen
 Deux questions pratiques décident de ce que vous verrez :
 
 - **Le lieu.** Les astrologues ne s’accordent pas sur l’endroit pour lequel la dresser. Certains prennent le lieu de naissance, comme pour le thème natal ; d’autres le lieu où vous passez votre anniversaire, puisque c’est là que l’année se vit. Le degré du Soleil ne change pas, mais l’ascendant et les maisons si, parfois beaucoup. Certains astrologues vont plus loin et voyagent le jour de leur anniversaire pour changer exprès les angles de la révolution. L’année se vit pourtant toujours dans votre thème natal, et aucun voyage n’y change rien.
-- **L’heure de naissance.** L’instant de la révolution dépend du degré natal exact du Soleil, et le Soleil avance d’environ un degré par jour. Une heure d’erreur sur votre heure de naissance déplace ce degré de deux minutes d’arc et demie environ, ce qui décale la révolution d’une heure environ, ce qui déplace son ascendant d’à peu près 15° en moyenne. Une révolution est aussi sensible à l’heure de naissance que le thème natal lui-même ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+- **L’heure de naissance.** L’instant de la révolution dépend du degré natal exact du Soleil, et le Soleil avance d’environ un degré par jour. Si votre heure de naissance est fausse d’une heure, ce degré se déplace de deux minutes d’arc et demie environ, ce qui décale la révolution d’une heure environ, ce qui déplace son ascendant d’à peu près 15° en moyenne. Une révolution est aussi sensible à l’heure de naissance que le thème natal lui-même ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Dans une lecture {#dans-une-lecture}
 

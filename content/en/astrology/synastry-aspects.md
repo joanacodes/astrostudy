@@ -44,8 +44,8 @@ What makes a synastry aspect particular is that it's read from both sides. Being
 The two charts are compared in a full square grid, every planet of one against every planet of the other ([the aspect grid](/astrology/aspect-grid/)). Then come three choices that decide what you see.
 
 - **Orbs.** I take the wider of the two bodies' orbs: 8° for the Sun and Moon, 6° for Mercury, Venus and Mars, 5° for Jupiter and Saturn, 4° for Uranus, Neptune and Pluto, 3° for Chiron, Lilith and the North Node. That's the full orb for a conjunction or opposition; a trine or square gets a little less, a sextile less again. With the Sun or Moon, that makes 8°, 6.8° and 4.8°.
-- **Which contacts count.** At least one of the two bodies must be personal: the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. Two slow bodies, Saturn and Pluto say, are shared by everyone born within a few years of each other, so I read them through the houses they fall in ([house overlays](/astrology/house-overlays/)), as a meeting of two eras.
-- **Both birth times.** The Moon moves about 13° a day, so with the Moon the time can make or unmake a contact; the angles need the time altogether ([what changes without a birth time](/blog/unknown-birth-time/)).
+- **Which contacts count.** At least one of the two bodies must be personal: the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. Two slow bodies, Saturn and Pluto say, are common to everyone born within a few years of each other, so I read them through the houses they fall in ([house overlays](/astrology/house-overlays/)), as a meeting of two eras.
+- **Both birth times.** Because the Moon covers about 13° a day, the time can make or unmake a contact with it; the angles depend on the time altogether ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 With those orbs, counted on 3,000,000 random pairs of people born between 1930 and 2009, contacts are common. About 1 pair in 7 has one person's Sun square the other's Moon, one way round or the other; about 1 pair in 9 has Venus square Mars; about 1 pair in 15, [Venus conjunct Mars](/astrology/venus-conjunct-mars-synastry/).
 
@@ -53,7 +53,7 @@ With those orbs, counted on 3,000,000 random pairs of people born between 1930 a
 
 Some synastry aspects can't exist inside a single chart. Venus never strays more than about 47° from the Sun, so no one is born with the Sun opposite Venus, but between two people it's ordinary: about 1 pair in 12 has it, usually with birthdays about five months apart ([Sun opposite Venus in synastry](/astrology/sun-opposite-venus-synastry/)). The same goes for the Sun opposite Mercury, and for [Mercury opposite Venus](/astrology/mercury-opposite-venus-synastry/). These contacts bring two people something neither could find in their own chart.
 
-Most pairs have a mix of easy contacts and hard ones. A trine between two charts makes some things effortless; a square makes some things rub, and friction between two people is often where they learn the most about each other. Contacts that involve Saturn, Chiron or Lilith ask for particular care, such as [Mars square Saturn](/astrology/mars-square-saturn-synastry/), where one person's drive meets the other's caution: they show where two people can hurt each other without meaning to.
+Most pairs have a mix of easy contacts and hard ones. A trine between two charts makes some things effortless; a square makes some things rub, and friction between two people is often where they learn the most about each other. Contacts that involve Saturn, Chiron or Lilith ask for particular care, such as [Mars square Saturn](/astrology/mars-square-saturn-synastry/), where one person's drive meets the other's caution: they mark the places where two people can bruise each other without intending to.
 
 ## Its limits {#its-limits}
 

@@ -47,7 +47,7 @@ A Western chart is read in layers. The planets are the functions. The twelve sig
 
 The outer planets brought a change of their own. Before 1781, Scorpio, Aquarius and Pisces were ruled by Mars, Saturn and Jupiter; once Uranus, Neptune and Pluto were found, many astrologers gave those signs to the newcomers. Western astrology now carries both sets ([Traditional and modern rulers](/astrology/traditional-and-modern-rulers/)).
 
-Its nearest neighbour is [Vedic astrology (Jyotish)](/astrology/vedic-astrology-jyotish/), which shares planets and signs but counts the zodiac from the stars rather than the equinox, so the same sky lands about 24° earlier in its signs, and builds its own techniques on that. Some Western astrologers use a star-based zodiac too ([sidereal zodiac](/astrology/sidereal-zodiac/)). [Chinese astrology](/astrology/chinese-astrology/) is a different system altogether, built on the calendar and its twelve animal years.
+Its nearest neighbour is [Vedic astrology (Jyotish)](/astrology/vedic-astrology-jyotish/), which shares the signs and the planets visible to the eye but counts the zodiac from the stars rather than the equinox, so the same sky lands about 24° earlier in its signs, and builds its own techniques on that. Some Western astrologers use a star-based zodiac too ([sidereal zodiac](/astrology/sidereal-zodiac/)). [Chinese astrology](/astrology/chinese-astrology/) is a different system altogether, built on the calendar and its twelve animal years.
 
 ## In a reading {#in-a-reading}
 

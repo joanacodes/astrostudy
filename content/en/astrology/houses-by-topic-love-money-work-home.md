@@ -22,7 +22,7 @@ faq:
   - q: "Which house is love in astrology?"
     a: "Mainly two. The 5th house covers romance, flirting and what you do for pleasure; the 7th covers partnership and committed one-to-one bonds. Many astrologers add the 8th for intimacy and trust. Venus and the Moon join in, wherever they sit. Together they describe how you love, never whom or when."
   - q: "Which house rules money in astrology?"
-    a: "The 2nd house covers what you earn, keep and value; the 8th covers what you share with others or owe them. They describe how you handle money and what security means to you. No house can tell you what you will earn or whether an investment will pay, and I don’t read charts for that."
+    a: "The 2nd house covers what you earn, keep and value; the 8th covers what’s shared: joint money, debts, what you owe and are owed. They describe how you handle money and what security means to you. No house can tell you what you will earn or whether an investment will pay, and I don’t read charts for that."
   - q: "Which house is career in astrology?"
     a: "The 10th house describes your public direction: your role, your reputation and what you want to build. The 6th covers the work of an ordinary day, its routines and colleagues, and the 2nd what you earn by it. Together they show how you work and what drives you, not which job you will get."
   - q: "Which house represents home and family?"
@@ -38,7 +38,7 @@ Most people come to the houses with a question: where's love in my chart, or mon
 Each of the twelve houses covers a part of life, and most of the topics people care about span more than one:
 
 - **Love.** The [5th house](/astrology/5th-house/) is romance, flirting and pleasure, the love you choose for joy; the [7th house](/astrology/7th-house/) is partnership, the person across the table; many astrologers add the 8th for intimacy and trust. [Venus](/astrology/venus/) joins in wherever it sits.
-- **Money.** The [2nd house](/astrology/2nd-house/) is what you earn, keep and value; the [8th house](/astrology/8th-house/) is what you share with others or owe them.
+- **Money.** The [2nd house](/astrology/2nd-house/) is what you earn, keep and value; the [8th house](/astrology/8th-house/) is money and trust held in common: what's joint, what's owed, what's lent.
 - **Work.** The [6th house](/astrology/6th-house/) is the work of an ordinary day, its routines and colleagues; the [10th house](/astrology/10th-house/) is your public role and direction, the reputation you build.
 - **Home.** The [4th house](/astrology/4th-house/) is home, roots and family, the place you come from and the one you make; the [Moon](/astrology/moon/) adds what you need to feel at home.
 
