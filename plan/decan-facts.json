@@ -1,0 +1,402 @@
+{
+ "about": "Each decan is a third of a sign, ten degrees of the tropical zodiac. The Sun's entry into and exit from each one in 2026 and 2027 (UT), from AGS's ephemeris (astronomy-engine); the dates shift by up to a day from year to year.",
+ "generated": "2026-11-04",
+ "pages": {
+  "aries-first-decan": {
+   "degrees": "0°–10° aries",
+   "sun2026": {
+    "from": "2026-03-20 14:45 UT",
+    "to": "2026-03-30 16:58 UT"
+   },
+   "sun2027": {
+    "from": "2027-03-20 20:24 UT",
+    "to": "2027-03-30 22:40 UT"
+   }
+  },
+  "aries-second-decan": {
+   "degrees": "10°–20° aries",
+   "sun2026": {
+    "from": "2026-03-30 16:58 UT",
+    "to": "2026-04-09 20:40 UT"
+   },
+   "sun2027": {
+    "from": "2027-03-30 22:40 UT",
+    "to": "2027-04-10 02:13 UT"
+   }
+  },
+  "aries-third-decan": {
+   "degrees": "20°–30° aries",
+   "sun2026": {
+    "from": "2026-04-09 20:40 UT",
+    "to": "2026-04-20 01:39 UT"
+   },
+   "sun2027": {
+    "from": "2027-04-10 02:13 UT",
+    "to": "2027-04-20 07:17 UT"
+   }
+  },
+  "taurus-first-decan": {
+   "degrees": "0°–10° taurus",
+   "sun2026": {
+    "from": "2026-04-20 01:39 UT",
+    "to": "2026-04-30 08:04 UT"
+   },
+   "sun2027": {
+    "from": "2027-04-20 07:17 UT",
+    "to": "2027-04-30 13:44 UT"
+   }
+  },
+  "taurus-second-decan": {
+   "degrees": "10°–20° taurus",
+   "sun2026": {
+    "from": "2026-04-30 08:04 UT",
+    "to": "2026-05-10 15:50 UT"
+   },
+   "sun2027": {
+    "from": "2027-04-30 13:44 UT",
+    "to": "2027-05-10 21:22 UT"
+   }
+  },
+  "taurus-third-decan": {
+   "degrees": "20°–30° taurus",
+   "sun2026": {
+    "from": "2026-05-10 15:50 UT",
+    "to": "2026-05-21 00:37 UT"
+   },
+   "sun2027": {
+    "from": "2027-05-10 21:22 UT",
+    "to": "2027-05-21 06:17 UT"
+   }
+  },
+  "gemini-first-decan": {
+   "degrees": "0°–10° gemini",
+   "sun2026": {
+    "from": "2026-05-21 00:37 UT",
+    "to": "2026-05-31 10:31 UT"
+   },
+   "sun2027": {
+    "from": "2027-05-21 06:17 UT",
+    "to": "2027-05-31 16:12 UT"
+   }
+  },
+  "gemini-second-decan": {
+   "degrees": "10°–20° gemini",
+   "sun2026": {
+    "from": "2026-05-31 10:31 UT",
+    "to": "2026-06-10 21:14 UT"
+   },
+   "sun2027": {
+    "from": "2027-05-31 16:12 UT",
+    "to": "2027-06-11 02:49 UT"
+   }
+  },
+  "gemini-third-decan": {
+   "degrees": "20°–30° gemini",
+   "sun2026": {
+    "from": "2026-06-10 21:14 UT",
+    "to": "2026-06-21 08:25 UT"
+   },
+   "sun2027": {
+    "from": "2027-06-11 02:49 UT",
+    "to": "2027-06-21 14:10 UT"
+   }
+  },
+  "cancer-first-decan": {
+   "degrees": "0°–10° cancer",
+   "sun2026": {
+    "from": "2026-06-21 08:25 UT",
+    "to": "2026-07-01 20:04 UT"
+   },
+   "sun2027": {
+    "from": "2027-06-21 14:10 UT",
+    "to": "2027-07-02 01:48 UT"
+   }
+  },
+  "cancer-second-decan": {
+   "degrees": "10°–20° cancer",
+   "sun2026": {
+    "from": "2026-07-01 20:04 UT",
+    "to": "2026-07-12 07:46 UT"
+   },
+   "sun2027": {
+    "from": "2027-07-02 01:48 UT",
+    "to": "2027-07-12 13:27 UT"
+   }
+  },
+  "cancer-third-decan": {
+   "degrees": "20°–30° cancer",
+   "sun2026": {
+    "from": "2026-07-12 07:46 UT",
+    "to": "2026-07-22 19:13 UT"
+   },
+   "sun2027": {
+    "from": "2027-07-12 13:27 UT",
+    "to": "2027-07-23 01:04 UT"
+   }
+  },
+  "leo-first-decan": {
+   "degrees": "0°–10° leo",
+   "sun2026": {
+    "from": "2026-07-22 19:13 UT",
+    "to": "2026-08-02 06:23 UT"
+   },
+   "sun2027": {
+    "from": "2027-07-23 01:04 UT",
+    "to": "2027-08-02 12:09 UT"
+   }
+  },
+  "leo-second-decan": {
+   "degrees": "10°–20° leo",
+   "sun2026": {
+    "from": "2026-08-02 06:23 UT",
+    "to": "2026-08-12 16:47 UT"
+   },
+   "sun2027": {
+    "from": "2027-08-02 12:09 UT",
+    "to": "2027-08-12 22:34 UT"
+   }
+  },
+  "leo-third-decan": {
+   "degrees": "20°–30° leo",
+   "sun2026": {
+    "from": "2026-08-12 16:47 UT",
+    "to": "2026-08-23 02:18 UT"
+   },
+   "sun2027": {
+    "from": "2027-08-12 22:34 UT",
+    "to": "2027-08-23 08:13 UT"
+   }
+  },
+  "virgo-first-decan": {
+   "degrees": "0°–10° virgo",
+   "sun2026": {
+    "from": "2026-08-23 02:18 UT",
+    "to": "2026-09-02 10:53 UT"
+   },
+   "sun2027": {
+    "from": "2027-08-23 08:13 UT",
+    "to": "2027-09-02 16:41 UT"
+   }
+  },
+  "virgo-second-decan": {
+   "degrees": "10°–20° virgo",
+   "sun2026": {
+    "from": "2026-09-02 10:53 UT",
+    "to": "2026-09-12 18:08 UT"
+   },
+   "sun2027": {
+    "from": "2027-09-02 16:41 UT",
+    "to": "2027-09-12 23:58 UT"
+   }
+  },
+  "virgo-third-decan": {
+   "degrees": "20°–30° virgo",
+   "sun2026": {
+    "from": "2026-09-12 18:08 UT",
+    "to": "2026-09-23 00:05 UT"
+   },
+   "sun2027": {
+    "from": "2027-09-12 23:58 UT",
+    "to": "2027-09-23 06:01 UT"
+   }
+  },
+  "libra-first-decan": {
+   "degrees": "0°–10° libra",
+   "sun2026": {
+    "from": "2026-09-23 00:05 UT",
+    "to": "2026-10-03 04:45 UT"
+   },
+   "sun2027": {
+    "from": "2027-09-23 06:01 UT",
+    "to": "2027-10-03 10:32 UT"
+   }
+  },
+  "libra-second-decan": {
+   "degrees": "10°–20° libra",
+   "sun2026": {
+    "from": "2026-10-03 04:45 UT",
+    "to": "2026-10-13 07:52 UT"
+   },
+   "sun2027": {
+    "from": "2027-10-03 10:32 UT",
+    "to": "2027-10-13 13:42 UT"
+   }
+  },
+  "libra-third-decan": {
+   "degrees": "20°–30° libra",
+   "sun2026": {
+    "from": "2026-10-13 07:52 UT",
+    "to": "2026-10-23 09:38 UT"
+   },
+   "sun2027": {
+    "from": "2027-10-13 13:42 UT",
+    "to": "2027-10-23 15:32 UT"
+   }
+  },
+  "scorpio-first-decan": {
+   "degrees": "0°–10° scorpio",
+   "sun2026": {
+    "from": "2026-10-23 09:38 UT",
+    "to": "2026-11-02 10:08 UT"
+   },
+   "sun2027": {
+    "from": "2027-10-23 15:32 UT",
+    "to": "2027-11-02 15:54 UT"
+   }
+  },
+  "scorpio-second-decan": {
+   "degrees": "10°–20° scorpio",
+   "sun2026": {
+    "from": "2026-11-02 10:08 UT",
+    "to": "2026-11-12 09:17 UT"
+   },
+   "sun2027": {
+    "from": "2027-11-02 15:54 UT",
+    "to": "2027-11-12 15:07 UT"
+   }
+  },
+  "scorpio-third-decan": {
+   "degrees": "20°–30° scorpio",
+   "sun2026": {
+    "from": "2026-11-12 09:17 UT",
+    "to": "2026-11-22 07:23 UT"
+   },
+   "sun2027": {
+    "from": "2027-11-12 15:07 UT",
+    "to": "2027-11-22 13:16 UT"
+   }
+  },
+  "sagittarius-first-decan": {
+   "degrees": "0°–10° sagittarius",
+   "sun2026": {
+    "from": "2026-11-22 07:23 UT",
+    "to": "2026-12-02 04:36 UT"
+   },
+   "sun2027": {
+    "from": "2027-11-22 13:16 UT",
+    "to": "2027-12-02 10:21 UT"
+   }
+  },
+  "sagittarius-second-decan": {
+   "degrees": "10°–20° sagittarius",
+   "sun2026": {
+    "from": "2026-12-02 04:36 UT",
+    "to": "2026-12-12 00:57 UT"
+   },
+   "sun2027": {
+    "from": "2027-12-02 10:21 UT",
+    "to": "2027-12-12 06:47 UT"
+   }
+  },
+  "sagittarius-third-decan": {
+   "degrees": "20°–30° sagittarius",
+   "sun2026": {
+    "from": "2026-12-12 00:57 UT",
+    "to": "2026-12-21 20:50 UT"
+   },
+   "sun2027": {
+    "from": "2027-12-12 06:47 UT",
+    "to": "2027-12-22 02:42 UT"
+   }
+  },
+  "capricorn-first-decan": {
+   "degrees": "0°–10° capricorn",
+   "sun2026": {
+    "from": "2026-12-21 20:50 UT",
+    "to": "2026-12-31 16:27 UT"
+   },
+   "sun2027": {
+    "from": "2027-12-22 02:42 UT",
+    "to": "2027-12-31 22:11 UT"
+   }
+  },
+  "capricorn-second-decan": {
+   "degrees": "10°–20° capricorn",
+   "sun2026": {
+    "from": "2026-12-31 16:27 UT",
+    "to": "2027-01-10 11:52 UT"
+   },
+   "sun2027": {
+    "from": "2027-12-31 22:11 UT",
+    "to": "2028-01-10 17:40 UT"
+   }
+  },
+  "capricorn-third-decan": {
+   "degrees": "20°–30° capricorn",
+   "sun2026": {
+    "from": "2027-01-10 11:52 UT",
+    "to": "2027-01-20 07:30 UT"
+   },
+   "sun2027": {
+    "from": "2028-01-10 17:40 UT",
+    "to": "2028-01-20 13:21 UT"
+   }
+  },
+  "aquarius-first-decan": {
+   "degrees": "0°–10° aquarius",
+   "sun2026": {
+    "from": "2027-01-20 07:30 UT",
+    "to": "2027-01-30 03:34 UT"
+   },
+   "sun2027": {
+    "from": "2028-01-20 13:21 UT",
+    "to": "2028-01-30 09:18 UT"
+   }
+  },
+  "aquarius-second-decan": {
+   "degrees": "10°–20° aquarius",
+   "sun2026": {
+    "from": "2027-01-30 03:34 UT",
+    "to": "2027-02-09 00:07 UT"
+   },
+   "sun2027": {
+    "from": "2028-01-30 09:18 UT",
+    "to": "2028-02-09 05:56 UT"
+   }
+  },
+  "aquarius-third-decan": {
+   "degrees": "20°–30° aquarius",
+   "sun2026": {
+    "from": "2027-02-09 00:07 UT",
+    "to": "2027-02-18 21:33 UT"
+   },
+   "sun2027": {
+    "from": "2028-02-09 05:56 UT",
+    "to": "2028-02-19 03:25 UT"
+   }
+  },
+  "pisces-first-decan": {
+   "degrees": "0°–10° pisces",
+   "sun2026": {
+    "from": "2027-02-18 21:33 UT",
+    "to": "2027-02-28 20:02 UT"
+   },
+   "sun2027": {
+    "from": "2028-02-19 03:25 UT",
+    "to": "2028-02-29 01:47 UT"
+   }
+  },
+  "pisces-second-decan": {
+   "degrees": "10°–20° pisces",
+   "sun2026": {
+    "from": "2027-02-28 20:02 UT",
+    "to": "2027-03-10 19:33 UT"
+   },
+   "sun2027": {
+    "from": "2028-02-29 01:47 UT",
+    "to": "2028-03-10 01:22 UT"
+   }
+  },
+  "pisces-third-decan": {
+   "degrees": "20°–30° pisces",
+   "sun2026": {
+    "from": "2027-03-10 19:33 UT",
+    "to": "2027-03-20 20:24 UT"
+   },
+   "sun2027": {
+    "from": "2028-03-10 01:22 UT",
+    "to": "2028-03-20 02:17 UT"
+   }
+  }
+ }
+}

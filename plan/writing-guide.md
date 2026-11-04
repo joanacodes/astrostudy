@@ -459,6 +459,119 @@ Link every page `links-for.mjs` lists, and at least one article or How I read.
 - What it gave the astrology Joana practises (modern tropical astrology with traditional techniques), linked to the pages of those techniques.
 - Facts keys: Period · Where · Key texts · Gave us. French: Période · Où · Textes clés · Ce qu’elle a apporté.
 
+### Transit to a natal point
+
+| | English | French |
+|---|---|---|
+| 1 | `## What changes {#what-changes}` | `## Ce qui change {#ce-qui-change}` |
+| 2 | `## How long it lasts {#how-long-it-lasts}` | `## Combien de temps {#combien-de-temps}` |
+| 3 | `## What helps {#what-helps}` | `## Ce qui aide {#ce-qui-aide}` |
+
+Title: the plan's (*Transiting Saturn square natal Sun* · *Saturne en transit carré Soleil du thème natal*); h1: *Transiting Saturn square your natal Sun* · *Saturne en transit carré votre Soleil natal*; `family`: the plan's; glyph: the transiting body's symbol, the aspect's, the natal point's (*♄□☉*; Ascendant *AC*, Midheaven *MC*).
+
+- **The grammar** (the AGS library's *transits*): the moving body's function meets the natal point's, related by the aspect; it activates what is in the chart, never creates events. *Weather, not a forecast.*
+- **How long it lasts**, from `plan/transit-facts.json`, with the orbs Joana's forecast uses, said once (*from 1½° before exact to 1° after*): `series` for the body (how long one pass lasts, and with a retrograde loop of three exact hits), and the page's `byAge80` (how many times people meet it by 80; the share who never do). For a slow natal planet, or a body's aspect to itself, `firstHitAge`: the ages it comes at, with a birth-year example.
+- The natal Ascendant and Midheaven need the birth time; so does the natal Moon's exact degree. Link the birth-time article where it matters.
+- Never health, death, pregnancy, money, legal outcomes or break-ups. Link the same aspect in a birth chart (`aspect` page of the pair) when the plan has it.
+- Facts keys: Transiting · Natal point · Aspect · One pass (*about …*) · With a retrograde loop (*about …*) · By 80 (*about N times*). French: En transit · Point natal · Aspect · Un passage · Avec une boucle rétrograde · Avant 80 ans.
+- Sources: *The Astro Study's count from the planets' positions*; *Robert Hand, Planets in Transit (1976)* (transits).
+
+### Composite placement
+
+| | English | French |
+|---|---|---|
+| 1 | `## What it says about the two of you {#what-it-says}` | `## Ce que ça dit de vous deux {#ce-que-ca-dit}` |
+
+Title: the plan's (*Composite Sun in Aries* · *Soleil composite en Bélier*); h1: *Composite Sun in Aries: the relationship's chart* · *Soleil composite en Bélier : le thème de la relation*; `family`: the plan's; glyph: the body's symbol then the sign's, or the body's alone for a house.
+
+- **The composite** (the AGS library's *composite*): one chart for the relationship, each body at the nearer midpoint of the two natal positions. It describes the relationship as a whole, never its length or success; it is read with both natal charts and the synastry, never alone. AGS doesn't draw composites: say plainly that it is a technique Joana describes here, without claiming she uses it in her readings.
+- **How common**, from `plan/composite-facts.json`: *about 1 pair in 12* for a fast body; for a slow body, say that two people of the same age get the sign their generation has, that a gap in age moves it to the midpoint, and when the file says *none*, that no two people born 1930–2009 have it. The file's `oddities`: in a composite, Mercury can land far from the Sun, even opposite it, and Venus too, which no birth chart allows: say it on the Mercury and Venus pages.
+- **A house**: composite houses need both birth times, and there is more than one way to draw them (from the midpoints of the two charts' cusps, or from the composite Midheaven at the place where the pair lives): say so, without choosing.
+- One section of 450 to 650 words, then the FAQ. Facts keys: Body · Sign (or House) · How common · Needs (*both birth times* for a house, or the Moon). French: Corps · Signe (ou Maison) · Fréquence · Il faut.
+- Sources: *The Astro Study's count from the planets' positions*; *Robert Hand, Planets in Composite (1975)*, after checking the year.
+
+### Ruler of a house in a house
+
+| | English | French |
+|---|---|---|
+| 1 | `## What it means {#what-it-means}` | `## Ce que ça veut dire {#ce-que-ca-veut-dire}` |
+
+Title: the plan's (*Ruler of the 1st in the 7th house* · *Maître de la maison 1 en maison 7*); h1: the same plus *in a birth chart* · *dans un thème natal*; `family`: the plan's; glyph *✦*.
+
+- The planet that rules the sign on the first house's cusp (both rulers for Scorpio, Aquarius and Pisces, *I read both*) sits in the second house: it carries the first house's matters into the second's. Say what that joins, in this pair of houses, from the two house pages, and that the planet and its sign colour it.
+- Needs the birth time (Placidus): link the birth-time article. The 5th, 6th, 8th and 12th never predict children, illness, death or confinement.
+- One section of 450 to 650 words, then the FAQ. Facts keys: Ruler of · Placed in · Houses (*angular, succedent, cadent* for each) · Needs. French: Maître de · Placé en · Maisons · Il faut.
+- Sources: *Vettius Valens, Anthology*; *William Lilly, Christian Astrology (1647)* (rulers of houses), after checking.
+
+### A sign on a house cusp
+
+| | English | French |
+|---|---|---|
+| 1 | `## What it means {#what-it-means}` | `## Ce que ça veut dire {#ce-que-ca-veut-dire}` |
+
+Title: the plan's (*Aries on the 2nd house cusp* · *Bélier sur la cuspide de la maison 2*); h1: the same plus *in a birth chart* · *dans un thème natal*; `family`: the plan's; glyph: the sign's symbol.
+
+- The sign on the cusp sets the manner of the house's matters, and its ruler (both, for Scorpio, Aquarius and Pisces) where they are acted on: link the page of that ruler in each house (*ruler of the 2nd in …*) as a short list or a sentence.
+- **How common**, from `plan/cusp-facts.json`: *at London's latitude, about 1 birth in 20 has Aries on the 2nd house cusp; at New York, about 1 in 15*; why it differs (signs of short and long ascension, and latitude), and that a sign can be intercepted, on no cusp at all (`intercepted`). In Placidus, the house system Joana uses; needs the birth time.
+- One section of 450 to 650 words, then the FAQ. Facts keys: Sign · Cusp · Ruler · How common (London, New York). French: Signe · Cuspide · Maître · Fréquence (Londres, New York).
+- Sources: *The Astro Study's count from the planets' positions* (here, the cusps); *Ptolemy, Tetrabiblos, book I* (rulerships).
+
+### Decan
+
+| | English | French |
+|---|---|---|
+| 1 | `## Its rulers {#its-rulers}` | `## Ses maîtres {#ses-maitres}` |
+| 2 | `## Its image {#its-image}` | `## Son image {#son-image}` |
+| 3 | `## In a birth chart {#in-a-birth-chart}` | `## Dans un thème natal {#dans-un-theme-natal}` |
+
+Title: the plan's (*Aries, first decan* · *Bélier, premier décan*); h1: *The first decan of Aries (0°–10°)* · *Le premier décan du Bélier (0°–10°)*; `family`: the plan's; glyph: the sign's symbol.
+
+- **Its rulers**: the Chaldean face (Mars, Sun, Venus for Aries, in the Chaldean order from there) and, where astrologers also use it, the ruler by triplicity of the sign of the same element (Aries: Aries, Leo, Sagittarius), each named with its source. Check both lists before writing.
+- **Its image**: the traditional images of the decans (the Egyptian decans, *Picatrix*, Agrippa) only as a checked source gives them, quoted briefly or described, never invented.
+- **In a birth chart**: a planet or angle in those ten degrees. The Sun's dates in the decan from `plan/decan-facts.json` (*about 21 to 30 March*, shifting by a day from year to year).
+- Facts keys: Degrees · Face (Chaldean) · By triplicity · The Sun there (*about …*). French: Degrés · Face (chaldéenne) · Par triplicité · Le Soleil y passe.
+
+### Fixed star
+
+| | English | French |
+|---|---|---|
+| 1 | `## Where it is {#where-it-is}` | `## Où elle se trouve {#ou-elle-se-trouve}` |
+| 2 | `## Its tradition {#its-tradition}` | `## Sa tradition {#sa-tradition}` |
+| 3 | `## In a birth chart {#in-a-birth-chart}` | `## Dans un thème natal {#dans-un-theme-natal}` |
+
+Title: the plan's (*Regulus* · *Régulus*); h1: *Regulus, the fixed star* · *Régulus, l’étoile fixe*; `family`: the plan's; glyph *★*.
+
+- **Where it is**, from `plan/star-facts.json`: the constellation and Bayer name, the brightness (visual magnitude, lower is brighter), the tropical position in 2026 and in 2000 (precession moves it about 1° in 72 years: say when it changes sign if it does), and its ecliptic latitude: a star far from the ecliptic never meets a planet in the sky, only in longitude. A cluster (Praesepe and the three in Scorpio and Sagittarius) has no entry in the file: give its position only from a checked source.
+- **Its tradition**: Ptolemy's nature for it (*Tetrabiblos, book I, chapter 9*: *of the nature of Mars and Jupiter*), and later authors (Vivian Robson, *The Fixed Stars and Constellations in Astrology*, 1923), each checked. No doom: an *unlucky* star is a tradition's word, said as such.
+- **In a birth chart**: a conjunction within about 1° in longitude; AGS doesn't compute stars, so a star is something Joana describes here; for the planets that make one, link the star-contact pages the plan has.
+- Facts keys: Constellation · Brightness · Position (2026) · Latitude · Nature (Ptolemy). French: Constellation · Éclat · Position (2026) · Latitude · Nature (Ptolémée).
+- Sources: *Yale Bright Star Catalogue, 5th ed. (Hoffleit and Warren, 1991)* for the coordinates; *Ptolemy, Tetrabiblos, book I*; the others as checked.
+
+### Planet conjunct a fixed star
+
+| | English | French |
+|---|---|---|
+| 1 | `## What it means {#what-it-means}` | `## Ce que ça veut dire {#ce-que-ca-veut-dire}` |
+
+Title: the plan's (*Sun conjunct Regulus* · *Soleil conjonction Régulus*); h1: the same plus *in a birth chart* · *dans un thème natal*; `family`: the plan's; glyph: the planet's symbol, *☌*, *★*.
+
+- The planet's function (AGS library) with the star's tradition, as the star's page states it. From `plan/star-facts.json` (`contacts`): *about 1 person in 176 born 1930–2009 has it, within 1°*; for the Sun, the birthdays (*about 22–23 August*); for Saturn, the months it was there. The star's latitude: when it is far from the ecliptic, say that the planet and the star never meet in the sky, only in longitude.
+- No verdicts: royalty, fame, ruin and violence are what old books say, said as such and never promised.
+- One section of 450 to 650 words, then the FAQ. Facts keys: Planet · Star · Orb (*1°*) · How common · Born (for the Sun: the dates; for Saturn: the years). French: Planète · Étoile · Orbe · Fréquence · Naissances.
+
+### Person and text (people and books of astrology)
+
+| | English | French |
+|---|---|---|
+| 1 | `## Who {#who}` | `## Qui {#qui}` |
+| 2 | `## What they changed {#what-they-changed}` | `## Son apport {#son-apport}` |
+
+and for a text: `## What it is {#what-it-is}` · `## What it says {#what-it-says}` (French `## Ce que c’est {#ce-que-c-est}` · `## Ce qu’il dit {#ce-qu-il-dit}`).
+
+- Historical figures and books only: dates, places, works and what they changed, each from a checked scholarly source (author, title, publisher, year), never from astrology sites that cite nothing. Where historians disagree, say so. No birth chart of the person (the site doesn't read the charts of real people, and a historical birth time is rarely known).
+- Living authors: their published work only, with titles and years; nothing about their life beyond what their own published biography says.
+- Facts keys (person): Lived · Where · Known for · Key work. French: Vie · Où · Connu pour · Œuvre clé. (Text): Author · Written · Language · Translations used. French: Auteur · Écrit · Langue · Traductions.
+
 ## Links
 
 - Write the **English path in both languages**: `[Lune en Bélier](/astrology/moon-in-aries/)` opens the French page on the French site. Only anchors change: a French page links French anchors (`/blog/saturn-chiron-lilith/#pourquoi-pas-le-soleil`, not `#why-not-the-sun`).

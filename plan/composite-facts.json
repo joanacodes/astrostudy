@@ -1,0 +1,642 @@
+{
+ "about": "Composite charts drawn by midpoints: each body at the nearer midpoint of its two natal positions. For 2,000,000 random pairs of people born 1930–2009 (each a random day, 12:00 UT): how common each body's composite sign is (oneIn: about 1 pair in N; none = no such pair), and how often the composite does what no birth chart can: Mercury more than 28° from the Sun, Venus more than 47°, or either within 8° of opposite the Sun. Positions from AGS's ephemeris (astronomy-engine, Chiron's integrated orbit, the true node, the mean Black Moon Lilith).",
+ "generated": "2026-11-04",
+ "oddities": {
+  "mercuryMoreThan28FromSun": "about 1 pair in 18",
+  "venusMoreThan47FromSun": "about 1 pair in 10",
+  "mercuryOppositeSun": "about 1 pair in 26",
+  "venusOppositeSun": "about 1 pair in 22",
+  "shares": {
+   "mercFar": 0.055214,
+   "venusFar": 0.1013865,
+   "mercOpp": 0.0385175,
+   "venusOpp": 0.0459715
+  }
+ },
+ "pages": {
+  "composite-sun-in-aries": {
+   "share": 0.0836,
+   "oneIn": 12
+  },
+  "composite-sun-in-taurus": {
+   "share": 0.0852,
+   "oneIn": 12
+  },
+  "composite-sun-in-gemini": {
+   "share": 0.0867,
+   "oneIn": 12
+  },
+  "composite-sun-in-cancer": {
+   "share": 0.0873,
+   "oneIn": 11
+  },
+  "composite-sun-in-leo": {
+   "share": 0.0862,
+   "oneIn": 12
+  },
+  "composite-sun-in-virgo": {
+   "share": 0.0847,
+   "oneIn": 12
+  },
+  "composite-sun-in-libra": {
+   "share": 0.0832,
+   "oneIn": 12
+  },
+  "composite-sun-in-scorpio": {
+   "share": 0.0814,
+   "oneIn": 12
+  },
+  "composite-sun-in-sagittarius": {
+   "share": 0.0801,
+   "oneIn": 12
+  },
+  "composite-sun-in-capricorn": {
+   "share": 0.0797,
+   "oneIn": 13
+  },
+  "composite-sun-in-aquarius": {
+   "share": 0.0804,
+   "oneIn": 12
+  },
+  "composite-sun-in-pisces": {
+   "share": 0.0816,
+   "oneIn": 12
+  },
+  "composite-moon-in-aries": {
+   "share": 0.0834,
+   "oneIn": 12
+  },
+  "composite-moon-in-taurus": {
+   "share": 0.0831,
+   "oneIn": 12
+  },
+  "composite-moon-in-gemini": {
+   "share": 0.0832,
+   "oneIn": 12
+  },
+  "composite-moon-in-cancer": {
+   "share": 0.0834,
+   "oneIn": 12
+  },
+  "composite-moon-in-leo": {
+   "share": 0.0834,
+   "oneIn": 12
+  },
+  "composite-moon-in-virgo": {
+   "share": 0.0833,
+   "oneIn": 12
+  },
+  "composite-moon-in-libra": {
+   "share": 0.083,
+   "oneIn": 12
+  },
+  "composite-moon-in-scorpio": {
+   "share": 0.0836,
+   "oneIn": 12
+  },
+  "composite-moon-in-sagittarius": {
+   "share": 0.0834,
+   "oneIn": 12
+  },
+  "composite-moon-in-capricorn": {
+   "share": 0.0832,
+   "oneIn": 12
+  },
+  "composite-moon-in-aquarius": {
+   "share": 0.0834,
+   "oneIn": 12
+  },
+  "composite-moon-in-pisces": {
+   "share": 0.0836,
+   "oneIn": 12
+  },
+  "composite-mercury-in-aries": {
+   "share": 0.0777,
+   "oneIn": 13
+  },
+  "composite-mercury-in-taurus": {
+   "share": 0.0742,
+   "oneIn": 13
+  },
+  "composite-mercury-in-gemini": {
+   "share": 0.074,
+   "oneIn": 14
+  },
+  "composite-mercury-in-cancer": {
+   "share": 0.0761,
+   "oneIn": 13
+  },
+  "composite-mercury-in-leo": {
+   "share": 0.079,
+   "oneIn": 13
+  },
+  "composite-mercury-in-virgo": {
+   "share": 0.084,
+   "oneIn": 12
+  },
+  "composite-mercury-in-libra": {
+   "share": 0.0889,
+   "oneIn": 11
+  },
+  "composite-mercury-in-scorpio": {
+   "share": 0.093,
+   "oneIn": 11
+  },
+  "composite-mercury-in-sagittarius": {
+   "share": 0.0934,
+   "oneIn": 11
+  },
+  "composite-mercury-in-capricorn": {
+   "share": 0.0911,
+   "oneIn": 11
+  },
+  "composite-mercury-in-aquarius": {
+   "share": 0.0867,
+   "oneIn": 12
+  },
+  "composite-mercury-in-pisces": {
+   "share": 0.082,
+   "oneIn": 12
+  },
+  "composite-venus-in-aries": {
+   "share": 0.0877,
+   "oneIn": 11
+  },
+  "composite-venus-in-taurus": {
+   "share": 0.0823,
+   "oneIn": 12
+  },
+  "composite-venus-in-gemini": {
+   "share": 0.0878,
+   "oneIn": 11
+  },
+  "composite-venus-in-cancer": {
+   "share": 0.085,
+   "oneIn": 12
+  },
+  "composite-venus-in-leo": {
+   "share": 0.0829,
+   "oneIn": 12
+  },
+  "composite-venus-in-virgo": {
+   "share": 0.0875,
+   "oneIn": 11
+  },
+  "composite-venus-in-libra": {
+   "share": 0.0797,
+   "oneIn": 13
+  },
+  "composite-venus-in-scorpio": {
+   "share": 0.0849,
+   "oneIn": 12
+  },
+  "composite-venus-in-sagittarius": {
+   "share": 0.079,
+   "oneIn": 13
+  },
+  "composite-venus-in-capricorn": {
+   "share": 0.0806,
+   "oneIn": 12
+  },
+  "composite-venus-in-aquarius": {
+   "share": 0.0828,
+   "oneIn": 12
+  },
+  "composite-venus-in-pisces": {
+   "share": 0.0798,
+   "oneIn": 13
+  },
+  "composite-mars-in-aries": {
+   "share": 0.0689,
+   "oneIn": 15
+  },
+  "composite-mars-in-taurus": {
+   "share": 0.0775,
+   "oneIn": 13
+  },
+  "composite-mars-in-gemini": {
+   "share": 0.0878,
+   "oneIn": 11
+  },
+  "composite-mars-in-cancer": {
+   "share": 0.0981,
+   "oneIn": 10
+  },
+  "composite-mars-in-leo": {
+   "share": 0.1051,
+   "oneIn": 10
+  },
+  "composite-mars-in-virgo": {
+   "share": 0.1045,
+   "oneIn": 10
+  },
+  "composite-mars-in-libra": {
+   "share": 0.0975,
+   "oneIn": 10
+  },
+  "composite-mars-in-scorpio": {
+   "share": 0.0869,
+   "oneIn": 12
+  },
+  "composite-mars-in-sagittarius": {
+   "share": 0.0762,
+   "oneIn": 13
+  },
+  "composite-mars-in-capricorn": {
+   "share": 0.0683,
+   "oneIn": 15
+  },
+  "composite-mars-in-aquarius": {
+   "share": 0.0643,
+   "oneIn": 16
+  },
+  "composite-mars-in-pisces": {
+   "share": 0.0649,
+   "oneIn": 15
+  },
+  "composite-jupiter-in-aries": {
+   "share": 0.0682,
+   "oneIn": 15
+  },
+  "composite-jupiter-in-taurus": {
+   "share": 0.069,
+   "oneIn": 14
+  },
+  "composite-jupiter-in-gemini": {
+   "share": 0.0723,
+   "oneIn": 14
+  },
+  "composite-jupiter-in-cancer": {
+   "share": 0.0817,
+   "oneIn": 12
+  },
+  "composite-jupiter-in-leo": {
+   "share": 0.0914,
+   "oneIn": 11
+  },
+  "composite-jupiter-in-virgo": {
+   "share": 0.099,
+   "oneIn": 10
+  },
+  "composite-jupiter-in-libra": {
+   "share": 0.1014,
+   "oneIn": 10
+  },
+  "composite-jupiter-in-scorpio": {
+   "share": 0.0988,
+   "oneIn": 10
+  },
+  "composite-jupiter-in-sagittarius": {
+   "share": 0.0929,
+   "oneIn": 11
+  },
+  "composite-jupiter-in-capricorn": {
+   "share": 0.0829,
+   "oneIn": 12
+  },
+  "composite-jupiter-in-aquarius": {
+   "share": 0.0738,
+   "oneIn": 14
+  },
+  "composite-jupiter-in-pisces": {
+   "share": 0.0687,
+   "oneIn": 15
+  },
+  "composite-saturn-in-aries": {
+   "share": 0.098,
+   "oneIn": 10
+  },
+  "composite-saturn-in-taurus": {
+   "share": 0.0923,
+   "oneIn": 11
+  },
+  "composite-saturn-in-gemini": {
+   "share": 0.0889,
+   "oneIn": 11
+  },
+  "composite-saturn-in-cancer": {
+   "share": 0.0828,
+   "oneIn": 12
+  },
+  "composite-saturn-in-leo": {
+   "share": 0.0752,
+   "oneIn": 13
+  },
+  "composite-saturn-in-virgo": {
+   "share": 0.0695,
+   "oneIn": 14
+  },
+  "composite-saturn-in-libra": {
+   "share": 0.0691,
+   "oneIn": 14
+  },
+  "composite-saturn-in-scorpio": {
+   "share": 0.0761,
+   "oneIn": 13
+  },
+  "composite-saturn-in-sagittarius": {
+   "share": 0.0763,
+   "oneIn": 13
+  },
+  "composite-saturn-in-capricorn": {
+   "share": 0.0821,
+   "oneIn": 12
+  },
+  "composite-saturn-in-aquarius": {
+   "share": 0.092,
+   "oneIn": 11
+  },
+  "composite-saturn-in-pisces": {
+   "share": 0.0978,
+   "oneIn": 10
+  },
+  "composite-uranus-in-aries": {
+   "share": 0.0861,
+   "oneIn": 12
+  },
+  "composite-uranus-in-taurus": {
+   "share": 0.0815,
+   "oneIn": 12
+  },
+  "composite-uranus-in-gemini": {
+   "share": 0.0774,
+   "oneIn": 13
+  },
+  "composite-uranus-in-cancer": {
+   "share": 0.0847,
+   "oneIn": 12
+  },
+  "composite-uranus-in-leo": {
+   "share": 0.083,
+   "oneIn": 12
+  },
+  "composite-uranus-in-virgo": {
+   "share": 0.0812,
+   "oneIn": 12
+  },
+  "composite-uranus-in-libra": {
+   "share": 0.0816,
+   "oneIn": 12
+  },
+  "composite-uranus-in-scorpio": {
+   "share": 0.0848,
+   "oneIn": 12
+  },
+  "composite-uranus-in-sagittarius": {
+   "share": 0.0896,
+   "oneIn": 11
+  },
+  "composite-uranus-in-capricorn": {
+   "share": 0.082,
+   "oneIn": 12
+  },
+  "composite-uranus-in-aquarius": {
+   "share": 0.0835,
+   "oneIn": 12
+  },
+  "composite-uranus-in-pisces": {
+   "share": 0.0846,
+   "oneIn": 12
+  },
+  "composite-neptune-in-aries": {
+   "share": 0,
+   "oneIn": null
+  },
+  "composite-neptune-in-taurus": {
+   "share": 0,
+   "oneIn": null
+  },
+  "composite-neptune-in-gemini": {
+   "share": 0,
+   "oneIn": null
+  },
+  "composite-neptune-in-cancer": {
+   "share": 0,
+   "oneIn": null
+  },
+  "composite-neptune-in-leo": {
+   "share": 0,
+   "oneIn": null
+  },
+  "composite-neptune-in-virgo": {
+   "share": 0.0523,
+   "oneIn": 19
+  },
+  "composite-neptune-in-libra": {
+   "share": 0.1715,
+   "oneIn": 6
+  },
+  "composite-neptune-in-scorpio": {
+   "share": 0.2906,
+   "oneIn": 3
+  },
+  "composite-neptune-in-sagittarius": {
+   "share": 0.2807,
+   "oneIn": 4
+  },
+  "composite-neptune-in-capricorn": {
+   "share": 0.1614,
+   "oneIn": 6
+  },
+  "composite-neptune-in-aquarius": {
+   "share": 0.0435,
+   "oneIn": 23
+  },
+  "composite-neptune-in-pisces": {
+   "share": 0,
+   "oneIn": null
+  },
+  "composite-pluto-in-aries": {
+   "share": 0,
+   "oneIn": null
+  },
+  "composite-pluto-in-taurus": {
+   "share": 0,
+   "oneIn": null
+  },
+  "composite-pluto-in-gemini": {
+   "share": 0,
+   "oneIn": null
+  },
+  "composite-pluto-in-cancer": {
+   "share": 0.0234,
+   "oneIn": 43
+  },
+  "composite-pluto-in-leo": {
+   "share": 0.1875,
+   "oneIn": 5
+  },
+  "composite-pluto-in-virgo": {
+   "share": 0.2711,
+   "oneIn": 4
+  },
+  "composite-pluto-in-libra": {
+   "share": 0.3014,
+   "oneIn": 3
+  },
+  "composite-pluto-in-scorpio": {
+   "share": 0.1549,
+   "oneIn": 6
+  },
+  "composite-pluto-in-sagittarius": {
+   "share": 0.061,
+   "oneIn": 16
+  },
+  "composite-pluto-in-capricorn": {
+   "share": 0.0006,
+   "oneIn": 1656
+  },
+  "composite-pluto-in-aquarius": {
+   "share": 0,
+   "oneIn": null
+  },
+  "composite-pluto-in-pisces": {
+   "share": 0,
+   "oneIn": null
+  },
+  "composite-chiron-in-aries": {
+   "share": 0.1471,
+   "oneIn": 7
+  },
+  "composite-chiron-in-taurus": {
+   "share": 0.1271,
+   "oneIn": 8
+  },
+  "composite-chiron-in-gemini": {
+   "share": 0.1002,
+   "oneIn": 10
+  },
+  "composite-chiron-in-cancer": {
+   "share": 0.0706,
+   "oneIn": 14
+  },
+  "composite-chiron-in-leo": {
+   "share": 0.0543,
+   "oneIn": 18
+  },
+  "composite-chiron-in-virgo": {
+   "share": 0.0413,
+   "oneIn": 24
+  },
+  "composite-chiron-in-libra": {
+   "share": 0.0388,
+   "oneIn": 26
+  },
+  "composite-chiron-in-scorpio": {
+   "share": 0.0459,
+   "oneIn": 22
+  },
+  "composite-chiron-in-sagittarius": {
+   "share": 0.0567,
+   "oneIn": 18
+  },
+  "composite-chiron-in-capricorn": {
+   "share": 0.0769,
+   "oneIn": 13
+  },
+  "composite-chiron-in-aquarius": {
+   "share": 0.1051,
+   "oneIn": 10
+  },
+  "composite-chiron-in-pisces": {
+   "share": 0.1359,
+   "oneIn": 7
+  },
+  "composite-lilith-in-aries": {
+   "share": 0.0842,
+   "oneIn": 12
+  },
+  "composite-lilith-in-taurus": {
+   "share": 0.0827,
+   "oneIn": 12
+  },
+  "composite-lilith-in-gemini": {
+   "share": 0.0828,
+   "oneIn": 12
+  },
+  "composite-lilith-in-cancer": {
+   "share": 0.0828,
+   "oneIn": 12
+  },
+  "composite-lilith-in-leo": {
+   "share": 0.0823,
+   "oneIn": 12
+  },
+  "composite-lilith-in-virgo": {
+   "share": 0.0825,
+   "oneIn": 12
+  },
+  "composite-lilith-in-libra": {
+   "share": 0.0828,
+   "oneIn": 12
+  },
+  "composite-lilith-in-scorpio": {
+   "share": 0.0839,
+   "oneIn": 12
+  },
+  "composite-lilith-in-sagittarius": {
+   "share": 0.0839,
+   "oneIn": 12
+  },
+  "composite-lilith-in-capricorn": {
+   "share": 0.0837,
+   "oneIn": 12
+  },
+  "composite-lilith-in-aquarius": {
+   "share": 0.0842,
+   "oneIn": 12
+  },
+  "composite-lilith-in-pisces": {
+   "share": 0.0841,
+   "oneIn": 12
+  },
+  "composite-north-node-in-aries": {
+   "share": 0.0944,
+   "oneIn": 11
+  },
+  "composite-north-node-in-taurus": {
+   "share": 0.0892,
+   "oneIn": 11
+  },
+  "composite-north-node-in-gemini": {
+   "share": 0.0834,
+   "oneIn": 12
+  },
+  "composite-north-node-in-cancer": {
+   "share": 0.0772,
+   "oneIn": 13
+  },
+  "composite-north-node-in-leo": {
+   "share": 0.0724,
+   "oneIn": 14
+  },
+  "composite-north-node-in-virgo": {
+   "share": 0.0722,
+   "oneIn": 14
+  },
+  "composite-north-node-in-libra": {
+   "share": 0.0722,
+   "oneIn": 14
+  },
+  "composite-north-node-in-scorpio": {
+   "share": 0.077,
+   "oneIn": 13
+  },
+  "composite-north-node-in-sagittarius": {
+   "share": 0.0826,
+   "oneIn": 12
+  },
+  "composite-north-node-in-capricorn": {
+   "share": 0.089,
+   "oneIn": 11
+  },
+  "composite-north-node-in-aquarius": {
+   "share": 0.0945,
+   "oneIn": 11
+  },
+  "composite-north-node-in-pisces": {
+   "share": 0.0958,
+   "oneIn": 10
+  }
+ }
+}
