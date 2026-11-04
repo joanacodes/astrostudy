@@ -181,7 +181,7 @@ The angles take the same sections with their own pages: the Ascendant's signs ar
 
 ### Minor aspect
 
-The same four sections as a major aspect (*What it means · Between which planets · In synastry · In transits*), shorter: 500 words or more, never padded.
+The same four sections, headings and anchors as a major aspect (the Aspect table above, *Ce que cela veut dire* in French), shorter: 500 to 800 words, never padded.
 
 - **What it means** — the angle and the share of the circle it is, how tight astrologers keep it (*a degree or two*), and what the AGS library says it does (`semisextile`, `quincunx`, `quintile`… in the library; its definition and what it is not). Link the five major aspects and [Orbs](/astrology/orbs/).
 - **Between which planets** — there are no pages for a minor aspect between two planets: say how it is read between fast and slow bodies, in general, and link its neighbours among the minor aspects.
@@ -198,7 +198,7 @@ The same four sections as a major aspect (*What it means · Between which planet
 | 2 | `## In a birth chart {#in-a-birth-chart}` | `## Dans un thème natal {#dans-un-theme-natal}` |
 | 3 | `## In transits {#in-transits}` | `## En transit {#en-transit}` |
 
-Title: the plan's (*Sun square Moon* · *Soleil carré Lune*); h1: *Sun square Moon in a birth chart* · *Soleil carré Lune dans un thème natal*; `family: "combinations"`; glyph: the two bodies' symbols around the aspect's (*☉□☽*; Chiron ⚷, Lilith ⚸, North Node ☊); terms: the title in lower case.
+Title: the plan's (*Sun square Moon* · *Soleil carré Lune*); h1: *Sun square Moon in a birth chart* · *Soleil carré Lune dans un thème natal*; `family: "combinations"`; glyph: the two bodies' symbols around the aspect's (*☉□☽*; Chiron ⚷, Lilith ⚸, North Node ☊); no `terms`: articles find the page by its title, and the match is case-sensitive.
 
 - **What it means** — the two functions, as the AGS library defines them, and how this aspect relates them (the library's entry for the aspect: what it does, and what it is never written as: a square is *friction*, never *failure*). Plain words, then what that is like to live with. Link the two bodies and the aspect.
 - **In a birth chart** — how it tends to show; that the signs and houses of the two bodies change it, and the orb how strongly; which of the two moves faster, when that matters. **How common it is**, from `plan/aspect-facts.json`: *about 1 person in 11 is born with it (within 8°)*, said once, with the orb. For two slow bodies, **who has it**: the years from the same file (*born between August 1963 and December 1967*), and that it is then a generation's aspect more than a personal one, read through the houses. Link the same pair's other aspects, one line each, and the same aspect in synastry when the plan has it.
@@ -313,7 +313,7 @@ So "What held in my tests" may say, for the Sun, the rising sign, Venus or Mercu
 
 **Sources** — outside addresses only from this list, checked:
 NASA facts: Sun `https://science.nasa.gov/sun/facts/` · Moon `https://science.nasa.gov/moon/facts/` · Mercury `https://science.nasa.gov/mercury/facts/` · Venus `https://science.nasa.gov/venus/venus-facts/` · Mars `https://science.nasa.gov/mars/facts/` · Jupiter `https://science.nasa.gov/jupiter/jupiter-facts/` · Saturn `https://science.nasa.gov/saturn/facts/` · Uranus `https://science.nasa.gov/uranus/facts/` · Neptune `https://science.nasa.gov/neptune/neptune-facts/` · Pluto `https://science.nasa.gov/dwarf-planets/pluto/facts/`.
-Books, without an address: *Ptolemy, Tetrabiblos, book I* (rulerships, exaltations, aspects, the signs) · *Vettius Valens, Anthology* (houses, lots) · *Dorotheus of Sidon, Carmen Astrologicum* (houses, lots) · *Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)* (the Moon's nodes and apogee, the angles) · and on this site *My testing notes* (`page: "/blog/i-tested-my-birth-chart"`) wherever the page talks about the tests. French titles: *Ptolémée, Tétrabible, livre I* · *Vettius Valens, Anthologies* · *Dorothée de Sidon, Carmen Astrologicum* · *Mes notes de test*.
+Books, without an address: *Ptolemy, Tetrabiblos, book I* (rulerships, exaltations, aspects, the signs) · *Johannes Kepler, Harmonices Mundi (Linz, 1619)* (the quintile, biquintile and sesquiquadrate) · *Vettius Valens, Anthology* (houses, lots) · *Dorotheus of Sidon, Carmen Astrologicum* (houses, lots) · *Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)* (the Moon's nodes and apogee, the angles) · and on this site *My testing notes* (`page: "/blog/i-tested-my-birth-chart"`) wherever the page talks about the tests. French titles: *Ptolémée, Tétrabible, livre I* · *Vettius Valens, Anthologies* · *Dorothée de Sidon, Carmen Astrologicum* · *Mes notes de test*.
 
 ## Length
 
