@@ -36,7 +36,7 @@ Jupiter in the 3rd house finds the big questions in small places: the bus stop, 
 
 The house opposite, the 9th, is the far horizon Jupiter usually gets the credit for: long journeys, higher study, philosophy. In the 3rd, Jupiter brings that long view to the short trip and the plain sentence. Gemini, this house's natural sign, happens to be Jupiter's detriment. Houses carry no dignities, so I don't make much of it, except to note the shared flavour: understanding built from many pieces.
 
-In Placidus, the house system I use, the edges of the 3rd depend on your birth time and place, and near a cusp a few minutes can tip Jupiter over into [Jupiter in the 2nd house](/astrology/jupiter-in-2nd-house/) or [Jupiter in the 4th house](/astrology/jupiter-in-4th-house/) ([what changes without a birth time](/blog/unknown-birth-time/)).
+In Placidus, the house system I use, the edges of the 3rd depend on your birth time and place, and near a cusp a few minutes can tip Jupiter over into [Jupiter in the 2nd house](/astrology/jupiter-in-2nd-house/), where the story would be about values, or [Jupiter in the 4th house](/astrology/jupiter-in-4th-house/), where it would be about home ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## In close relationships {#in-close-relationships}
 
@@ -44,7 +44,7 @@ Siblings, cousins, neighbours and the people you see in an ordinary week belong 
 
 ## At work {#at-work}
 
-At work, you grow through communication: teaching, writing, editing, journalism, local work, sales, transport, the admin that keeps information moving, any job where explaining is part of the task. You're often the colleague who makes a complicated idea plain. Openings come through your web of everyday contacts. Watch out for learning so many things at once that none of them gets the time to become expertise.
+At work, you grow through communication: teaching, writing, editing, journalism, local work, sales, transport, the admin that keeps information moving, any job where explaining is part of the task. You're often the colleague who makes a complicated idea plain, and short formats suit you too: the workshop, the explainer, the talk that changes how people see a subject in an hour. Openings come through your web of everyday contacts. Watch out for learning so many things at once that none of them gets the time to become expertise.
 
 ## The hard part {#the-hard-part}
 
