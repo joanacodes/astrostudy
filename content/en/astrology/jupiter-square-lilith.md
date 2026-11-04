@@ -58,4 +58,4 @@ Between two charts, [Jupiter square Lilith in synastry](/astrology/jupiter-squar
 
 Jupiter squares your natal Lilith twice in each lap, roughly six years apart, for a few weeks at a time; mean Lilith squares your natal Jupiter twice in each round of under nine years. Many astrologers read these as moments when a borrowed belief stops fitting.
 
-Weather, not a forecast: a nudge to examine what you believe, never a verdict on what you're worth.
+Call it weather, not a forecast: a nudge to examine what you believe, never a verdict on what you're worth.

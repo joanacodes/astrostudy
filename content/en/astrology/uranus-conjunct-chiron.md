@@ -32,13 +32,13 @@ Uranus and Chiron never met in the eighty years of the count: no birth between 1
 
 ## What it means {#what-it-means}
 
-[Uranus](/astrology/uranus/) enables innovation, differentiation and liberation: it insists on a way of its own and reforms systems that leave no room for one. [Chiron](/astrology/chiron/) marks a tender place, a limit you keep meeting, and the skill you build by adapting around it: a new method, a different tool, a setting arranged so that you can take part. In a [conjunction](/astrology/conjunction/), two functions act as one process while each keeps its identity.
+[Uranus](/astrology/uranus/) enables innovation, differentiation and liberation: it insists on a way of its own and reforms systems that leave no room for one. [Chiron](/astrology/chiron/) marks a tender place, a limit you keep meeting, and the skill you build by adapting around it: a new method, a different tool, a setting arranged so that you can take part. A [conjunction](/astrology/conjunction/) fuses two functions into a single process without erasing either.
 
 Fused, the two would make your difference and your tender place hard to tell apart. The way you stand out might be the very thing that feels exposed, and the skill would be inventive: working out your own way around a limit, or changing the arrangement so that the limit stops shutting you, and others, out. Neither would swallow the other: the limit wouldn't vanish because Uranus wants freedom, and the freedom wouldn't shrink to fit the limit. Differentiation isn't alienation, and autonomy isn't isolation; this meeting would ask for both lessons at once.
 
 ## In a birth chart {#in-a-birth-chart}
 
-The count found no birth with it. Across the eighty years, the two bodies made every other major aspect: a sextile, a square and a trine in quick succession in the late 1930s and the 1940s, a long opposition from 1951 to 1990, then a trine, a square and a sextile again in the 1990s. The meeting falls outside, on both sides. Chiron was found in 1977, but its positions before then are calculated from its orbit, and the count used them like any other.
+Not a single birth in the count has it. Across the eighty years, the two bodies made every other major aspect: a sextile, a square and a trine in quick succession in the late 1930s and the 1940s, a long opposition from 1951 to 1990, then a trine, a square and a sextile again in the 1990s. The meeting falls outside, on both sides. Chiron was found in 1977, but its positions before then are calculated from its orbit, and the count used them like any other.
 
 The pair's other aspects, with the births that have them:
 

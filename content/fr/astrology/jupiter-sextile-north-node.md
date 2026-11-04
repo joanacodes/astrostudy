@@ -53,7 +53,7 @@ Les autres aspects de la paire déplacent Jupiter le long de l’axe :
 - **[Jupiter trigone Nœud Nord](/astrology/jupiter-trine-north-node/) :** le miroir de cet aspect, trigone au Nœud Nord et sextile au Nœud Sud, avec une poussée plus forte vers le nouveau.
 - **[Jupiter opposition Nœud Nord](/astrology/jupiter-opposite-north-node/) :** sur le Nœud Sud, avec les dons de Jupiter du côté du familier.
 
-Entre deux thèmes, [Jupiter sextile Nœud Nord en synastrie](/astrology/jupiter-sextile-north-node-synastry/) permet à Jupiter, dans un thème, d’offrir à l’autre personne un petit coup de pouce vers sa croissance, sans pression. Je le lis des deux côtés.
+Entre deux thèmes, [Jupiter sextile Nœud Nord en synastrie](/astrology/jupiter-sextile-north-node-synastry/) permet à Jupiter, dans un thème, d’offrir à l’autre personne un petit coup de pouce vers sa croissance, sans pression, même si ce coup de pouce se vit autrement de l’autre côté.
 
 ## En transit {#en-transit}
 

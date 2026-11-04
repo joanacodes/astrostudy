@@ -52,10 +52,10 @@ Jupiter's other aspects to Lilith, compared with this one:
 - **[Jupiter square Lilith](/astrology/jupiter-square-lilith/):** belief and instinct argue, and the conscience that comes of it is hard-won.
 - **[Jupiter opposite Lilith](/astrology/jupiter-opposite-lilith/):** the untamed part and your principles face each other, often through someone else.
 
-Between two charts, [Jupiter trine Lilith in synastry](/astrology/jupiter-trine-lilith-synastry/) is often one of the most freeing contacts: one person's sense of meaning simply has room for the other's wilder side. I read it from both sides; the one who gives room may need some too.
+Between two charts, [Jupiter trine Lilith in synastry](/astrology/jupiter-trine-lilith-synastry/) is often one of the most freeing contacts: one person's sense of meaning simply has room for the other's wilder side. The one who gives room may need some too, so I read each side on its own.
 
 ## In transits {#in-transits}
 
 Twice per lap, Jupiter in the sky trines your natal Lilith and stays close for some weeks; mean Lilith, the quicker of the two, trines your natal Jupiter twice per round of about 8 years and 10 months. Born with the trine, you meet its Lilith side again at every Lilith return, roughly every nine years, when Lilith regains its birth degree, 120° from your Jupiter.
 
-Weather, not a forecast: a stretch when the untamed part feels more expected, with nothing settled about what you'll do with that.
+It's weather, not a forecast: a stretch when the untamed part feels more expected, with nothing settled about what you'll do with that.

@@ -1,7 +1,7 @@
 ---
 title: "Saturn opposite Lilith"
 h1: "Saturn opposite Lilith in a birth chart"
-description: "Saturn opposite Lilith in a birth chart: the rules you keep and the part of you that refuses them, face to face. How common it is, and its transits."
+description: "Saturn opposite Lilith in a birth chart: the rules you keep and the part of you that refuses them, face to face. How often it occurs, and its transits."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -32,7 +32,7 @@ Saturn opposite Lilith stretches a line between the rules you keep and the part 
 
 ## What it means {#what-it-means}
 
-[Saturn](/astrology/saturn/) establishes structure: authority, duty, boundaries held over time. [Black Moon Lilith](/astrology/black-moon-lilith/), the Moon's mean apogee, is read in many traditions, each with its own emphasis, as the instinct for autonomy, the material you learned to keep out of sight, and the edges you defend by instinct. An [opposition](/astrology/opposition/) relates them through polarity: each keeps its identity, and each makes the other visible. Discipline shows you how much you want to refuse; refusal shows you how much you need a structure.
+[Saturn](/astrology/saturn/) holds the line of duty: authority, structure, boundaries kept over time. [Black Moon Lilith](/astrology/black-moon-lilith/), the averaged point where the Moon's orbit takes it farthest from Earth, stands in many traditions, each with its own emphasis, for the instinct for autonomy, the material you learned to keep out of sight, and the edges you defend by instinct. An [opposition](/astrology/opposition/) makes a polarity of them, with neither losing its identity and each making the other visible. Discipline shows you how much you want to refuse; refusal shows you how much you need a structure.
 
 Lived, it often looks like a question of casting. You may play the dutiful one opposite someone untamed, or the rebel opposite someone strict, at home, at work, in love, and the parts can swap. Polarity isn't contradiction, and an opposition isn't enmity. Over the years this one tends to bring an unusual kind of maturity: an authority that has room for your own unruly streak, and an independence that can keep a commitment.
 
@@ -40,9 +40,9 @@ Lived, it often looks like a question of casting. You may play the dutiful one o
 
 About 1 person in 41 is born with Saturn within 6° of an exact opposition to mean Lilith, the version this count uses. True Lilith, which can sit tens of degrees away, may put the opposition somewhere else or nowhere ([which Lilith is mine?](/astrology/which-lilith-is-mine/)). Lilith covers a sign in about nine months, Saturn in about two and a half years, so Lilith sets the tempo: births share the opposition for a few months at a stretch, then not for years. Near exact, the casting is constant; near 6°, it surfaces mainly when a relationship or a job hands you one of the parts.
 
-An opposition usually links two opposite houses, and the axis names the casting. Across the 1st and 7th, your own way against a partner's rules, or the reverse; across the 4th and 10th, a family's expectations against a public life on your own terms. The signs add their tone: across Capricorn and Cancer, duty faces a fierce, protective independence. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+An opposition usually links two opposite houses, and the axis names the casting. Across the 1st and 7th, your own way against a partner's rules, or the reverse; across the 4th and 10th, a family's expectations against a public life on your own terms. The signs add their tone: across Capricorn and Cancer, duty faces a fierce, protective independence. None of the houses can be read without a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-The pair's other aspects, for comparison:
+Compared with the pair's other aspects:
 
 - **[Saturn conjunct Lilith](/astrology/saturn-conjunct-lilith/):** the two ends tied together in one place.
 - **[Saturn sextile Lilith](/astrology/saturn-sextile-lilith/):** cooperation on offer instead of a stand-off.
@@ -53,4 +53,4 @@ Between two charts, [Saturn opposite Lilith in synastry](/astrology/saturn-oppos
 
 ## In transits {#in-transits}
 
-In [transits](/astrology/transits/), if you were born with the opposition, Lilith reaches your natal Saturn halfway between your Lilith returns, about four and a half years after each, for a few weeks; at each return itself it stands opposite your Saturn again, as at birth. On Saturn's slower clock, its own opposition, at about 14–15 and 44 ([Saturn squares and opposition](/astrology/saturn-squares-and-opposition/)), brings Saturn onto your natal Lilith. Weather, not a forecast: moments when the casting comes up for review.
+In [transits](/astrology/transits/), if you were born with the opposition, Lilith reaches your natal Saturn halfway between your Lilith returns, about four and a half years after each, for a few weeks; at each return itself it stands opposite your Saturn again, as at birth. On Saturn's slower clock, its own opposition, at about 14–15 and 44 ([Saturn squares and opposition](/astrology/saturn-squares-and-opposition/)), brings Saturn onto your natal Lilith. These passes are weather, not a forecast: moments when the casting comes up for review.

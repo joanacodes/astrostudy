@@ -22,7 +22,7 @@ faq:
     a: "Commencez par la maison où tombe la conjonction : c’est là que quelque chose que vous aviez mis de côté demande à revenir, et que ce retour vous transforme. Regardez ensuite le signe, que Pluton partage avec toute votre génération. J’y lis de la profondeur et une honnêteté sur le pouvoir, jamais une menace."
   - q: "Pluton conjonction Lilith, est-ce dangereux ?"
     a: "Non. Ni Pluton ni Lilith ne sont des forces dirigées contre vous. Pluton décrit le renouveau, qui n’est pas une destruction, et Lilith l’autonomie et ce qui a été laissé de côté, qui n’a rien de méchant. La combinaison est intense, et l’intensité demande du soin dans la façon de s’en servir, pas de la peur."
-  - q: "Combien de personnes ont Pluton conjonction Lilith ?"
+  - q: "Pluton conjonction Lilith, est-ce rare ?"
     a: "Environ 1 personne sur 27, à 6° près, avec la Lilith moyenne. Lilith passe sur Pluton tous les neuf ans environ et reste à portée quelques mois : la conjonction appartient donc à de petits groupes de naissances plutôt qu’à une génération entière."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "ses quatre aspects, dont la conjonction ne fait pas partie" }
@@ -33,7 +33,7 @@ Pluton conjonction Lilith réunit la planète du renouveau en profondeur et le p
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Pluton](/astrology/pluto/) est la fonction de la transformation en profondeur : dégager ce qui est devenu obsolète, régénérer, et intégrer ce qui vit loin sous la surface. La [Lune noire Lilith](/astrology/black-moon-lilith/) est un point calculé, l’apogée moyen de la Lune, que beaucoup d’astrologues lisent comme l’autonomie instinctive, ce qui a été rejeté ou jamais intégré, et les limites que vous tracez autour de vous. Les traditions lui donnent un poids différent, et je la lis comme un symbole. Dans une [conjonction](/astrology/conjunction/), les deux agissent comme un seul processus, et chaque fonction garde son identité.
+[Pluton](/astrology/pluto/) est la fonction de la transformation en profondeur : dégager ce qui est devenu obsolète, régénérer, et intégrer ce qui vit loin sous la surface. La [Lune noire Lilith](/astrology/black-moon-lilith/) est un point calculé, l’apogée moyen de la Lune, que beaucoup d’astrologues lisent comme l’autonomie instinctive, ce qui a été rejeté ou jamais intégré, et les limites que vous tracez autour de vous. Son poids dépend de l’école que l’on suit ; je la garde symbolique. Dans une [conjonction](/astrology/conjunction/), les deux agissent comme un seul processus, et chaque fonction garde son identité.
 
 Concrètement, la part de vous qu’on a mise de côté et la part qui renouvelle se tiennent au même endroit. Vous ne vous transformez pas en devenant quelqu’un de plus acceptable ; vous vous transformez en faisant revenir ce qui avait été laissé dehors. J’y lis une vie qui change par quelques tournants profonds plutôt que par beaucoup de petits, chacun vous rendant une part de vous que vous aviez cessé de montrer.
 
@@ -54,7 +54,7 @@ Les autres angles de la paire :
 - **[Pluton trigone Lilith](/astrology/pluto-trine-lilith/) :** profondeur et autonomie coulent ensemble ; la reprise vient d’elle-même et passe parfois inaperçue.
 - **[Pluton opposition Lilith](/astrology/pluto-opposite-lilith/) :** les deux se font face, et l’un des bouts se rencontre souvent d’abord chez quelqu’un d’autre.
 
-Entre deux thèmes, [Pluton conjonction Lilith en synastrie](/astrology/pluto-conjunct-lilith-synastry/) pose Pluton, dans le thème de l’une des deux personnes, sur la Lilith de l’autre : le sentiment fort, parfois troublant, qu’on vous voit exactement là où vous vous cachez d’habitude. Ce contact demande le consentement des deux, et moi aussi : je ne lis une synastrie que si les deux personnes sont d’accord ([synastrie et consentement](/blog/synastry-behind-their-back/)).
+Entre deux thèmes, [Pluton conjonction Lilith en synastrie](/astrology/pluto-conjunct-lilith-synastry/) met en contact la profondeur de l’une des deux personnes et la part cachée de l’autre : le sentiment fort, parfois troublant, qu’on vous voit exactement là où vous vous cachez d’habitude. Ce contact demande le consentement des deux, et moi aussi : je ne lis une synastrie que si les deux personnes sont d’accord ([synastrie et consentement](/blog/synastry-behind-their-back/)).
 
 ## En transit {#en-transit}
 

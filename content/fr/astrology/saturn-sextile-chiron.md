@@ -33,27 +33,27 @@ Saturne sextile Chiron ouvre un passage entre la discipline et l’adaptation. L
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Saturne](/astrology/saturn/) établit la structure, la responsabilité et la patience de la pratique. [Chiron](/astrology/chiron/) marque une difficulté durable et le savoir-faire qui grandit autour : changer de méthode, de rythme ou d’attente pour pouvoir continuer à participer. Un [sextile](/astrology/sextile/) relie ces deux fonctions par l’occasion et la coopération. Aucune ne prend le pas sur l’autre ; l’aide est là, et elle vous attend.
+[Saturne](/astrology/saturn/) fournit la structure, la responsabilité et la patience de la pratique. [Chiron](/astrology/chiron/) désigne une difficulté durable et le savoir-faire qui grandit autour : changer de méthode, de rythme ou d’attente pour pouvoir continuer à participer. Par un [sextile](/astrology/sextile/), ces deux fonctions coopèrent par occasion plutôt que par force. Aucune ne prend le pas sur l’autre ; l’aide est là, et elle vous attend.
 
-Au quotidien, c’est souvent un bon sens pratique face aux limites, les vôtres et celles des autres. Vous voyez ce qui rendrait une tâche faisable et vous l’organisez : un délai de plus, un meilleur outil, une étape coupée en deux. Demander un soutien à la mesure du besoin, et l’offrir sans en faire une affaire, vous vient peut-être plus facilement qu’à d’autres. L’occasion demande pourtant de s’engager. Inemployé, un sextile reste une possibilité, et un potentiel n’est pas encore une méthode bâtie.
+Au quotidien, c’est souvent un bon sens pratique face aux limites, les vôtres et celles des autres. Vous voyez ce qui rendrait une tâche faisable et vous l’organisez : un délai de plus, un meilleur outil, une étape coupée en deux. Demander un soutien à la mesure du besoin, et l’offrir sans en faire une affaire, vous vient peut-être plus facilement qu’à d’autres. Reste à se servir de l’ouverture : inemployé, un sextile reste une possibilité, et un potentiel n’est pas encore une méthode bâtie.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 23 née entre 1930 et 2009 porte ce sextile, à 6° près, en deux vagues : par intermittence de décembre 1955 à août 1959, et de septembre 1971 à juillet 1973. Toutes les personnes nées ces mois-là le partagent : c’est un aspect de génération, que les maisons et les contacts avec vos planètes personnelles rendent vôtre ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Les deux vagues ont uni le feu et l’air : Saturne en Sagittaire et Chiron en Verseau dans les années 1950, Saturne en Gémeaux et Chiron en Bélier dans les années 1970. Des combinaisons vives, tournées vers l’extérieur : les idées et le courage mis au service d’une difficulté.
+À 6° près, environ 1 personne sur 23 née entre 1930 et 2009 porte ce sextile, en deux vagues : par intermittence de décembre 1955 à août 1959, et de septembre 1971 à juillet 1973. Partagé par toutes les naissances de ces mois-là, c’est un aspect de génération, que les maisons et les contacts avec vos planètes personnelles rendent vôtre ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Les deux vagues ont uni le feu et l’air : Saturne en Sagittaire et Chiron en Verseau dans les années 1950, Saturne en Gémeaux et Chiron en Bélier dans les années 1970. Des combinaisons vives, tournées vers l’extérieur : les idées et le courage mis au service d’une difficulté.
 
 Côté maisons, Saturne en maison 3 sextile Chiron en maison 1 pourrait changer une façon d’apprendre durement acquise en présence assurée ; Saturne en maison 11 sextile Chiron en maison 9, en un groupe qui partage des méthodes pour ce que ses membres ont trouvé difficile. À un ou deux degrés près, l’ouverture saute aux yeux ; vers 6°, elle se montre surtout quand une difficulté demande un plan. Saturne avance en général plus vite, même si l’orbite étirée de Chiron fait beaucoup varier sa vitesse.
 
-Les autres aspects de la paire, pour comparer :
+Et les autres aspects Saturne–Chiron :
 
 - **[Saturne conjonction Chiron](/astrology/saturn-conjunct-chiron/) :** 1965–1967, en Poissons ; la limite et la méthode fondues ensemble.
 - **[Saturne carré Chiron](/astrology/saturn-square-chiron/) :** par intermittence de 1934 à 1954, et 1974–1976 ; la même rencontre, par la friction.
-- **[Saturne trigone Chiron](/astrology/saturn-trine-chiron/) :** 1930–1932 ou 1977–1980 ; un courant plus large et plus facile.
+- **[Saturne trigone Chiron](/astrology/saturn-trine-chiron/) :** 1930–1932 ou 1977–1980 ; un courant plus ample, plus aisé.
 - **[Saturne opposition Chiron](/astrology/saturn-opposite-chiron/) :** par intermittence de 1985 à 1997, et 2002–2007 ; les deux de part et d’autre du thème, qui demandent un équilibre.
 
-Entre deux thèmes, [Saturne sextile Chiron en synastrie](/astrology/saturn-sextile-chiron-synastry/) fait souvent de l’une des deux personnes une présence stabilisante face à la difficulté de l’autre, et de l’autre une source de compréhension en retour. Je le lis dans les deux sens.
+Entre deux thèmes, [Saturne sextile Chiron en synastrie](/astrology/saturn-sextile-chiron-synastry/) fait souvent de l’une des deux personnes une présence stabilisante face à la difficulté de l’autre, et de l’autre une source de compréhension en retour. Les deux sens comptent quand je le lis.
 
 ## En transit {#en-transit}
 
 [Chiron en transit sextile Saturne du thème natal](/astrology/transiting-chiron-sextile-natal-saturn/) arrive deux fois par tour de Chiron, soit en une cinquantaine d’années, vite ou lentement selon le signe que Chiron traverse. Saturne en transit forme de son côté ses sextiles à Chiron du thème natal deux fois tous les 29 ans et demi.
 
-Si votre naissance tombe pendant ce sextile, il se reforme à chaque [retour de Saturne](/astrology/saturn-return/) et au [retour de Chiron](/astrology/chiron-return/), vers 50 ans. Voyez-y une météo, pas une prédiction : de bonnes saisons pour mettre en place le soutien qui rend une chose faisable, si vous le choisissez.
+Si ce sextile est dans votre thème, chaque [retour de Saturne](/astrology/saturn-return/) le ramène, et le [retour de Chiron](/astrology/chiron-return/) aussi, vers 50 ans. Prenez-les comme une météo, pas comme une prédiction : de bonnes saisons pour mettre en place le soutien qui rend une chose faisable, si vous le choisissez.

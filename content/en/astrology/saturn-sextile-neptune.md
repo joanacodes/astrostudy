@@ -32,17 +32,17 @@ Saturn sextile Neptune is an open door between your sense of what's possible and
 
 ## What it means {#what-it-means}
 
-[Saturn](/astrology/saturn/) establishes structure, responsibility and the long discipline that makes things real. [Neptune](/astrology/neptune/) enables imagination, compassion and a feeling for what matters beyond what can be measured. A [sextile](/astrology/sextile/) relates them through opportunity and cooperation: neither replaces the other, and the link works when you use it.
+[Saturn](/astrology/saturn/) supplies structure, responsibility and the long discipline that makes things real. [Neptune](/astrology/neptune/) opens up imagination, compassion and a feeling for what matters beyond what can be measured. A [sextile](/astrology/sextile/) relates them through opportunity and cooperation: neither replaces the other, and the link works when you use it.
 
 Lived, it often looks like a knack for giving an ideal a practical first step. A wish to help becomes a rota; a love of music becomes a daily hour of practice; a vague longing becomes a plan with a date on it. It works the other way too: a routine you could do in your sleep finds a reason that makes it worth doing. Opportunity asks for engagement, though. A sextile doesn't push, it waits, and potential isn't the same as something realised.
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 1 person in 15 born between 1930 and 2009 has this sextile within 6°, in four runs: on and off from August 1946 to May 1948, from January 1959 to November 1960, from November 1981 to September 1983, and from April 1995 to February 1997. Each run belongs to everyone born during it, so I read it as a generation's aspect that the houses make personal. The runs follow the pair's cycle: one sextile on the way to each meeting of the two planets, in 1952–53 and 1989, and one on the way out.
+About 1 person in 15 born between 1930 and 2009 has this sextile within 6°, the most of any Saturn–Neptune aspect, in four runs: on and off from August 1946 to May 1948, from January 1959 to November 1960, from November 1981 to September 1983, and from April 1995 to February 1997. Each run belongs to everyone born during it, so I read it as a generation's aspect that the houses make personal. The runs follow the pair's cycle: one sextile on the way to each meeting of the two planets, in 1952–53 and 1989, and one on the way out.
 
 A sextile usually joins compatible elements, fire with air or earth with water. In 1959–60 it linked Saturn in Capricorn, its own sign, with Neptune in Scorpio: an earthy structure and a watery imagination. The houses show where the door opens; Saturn in the 10th sextile Neptune in the 12th, for instance, could build a working life out of quiet service. Contacts with your Sun, Moon or angles turn it up, and all of this needs the hour of birth ([what changes without a birth time](/blog/unknown-birth-time/)). Saturn did the moving, and its retrograde loops split each run in two.
 
-The pair's other aspects, for comparison:
+How this sextile sits among the pair's aspects:
 
 - **[Saturn conjunct Neptune](/astrology/saturn-conjunct-neptune/):** 1952–53 or 1988–90; the dream and the structure fused.
 - **[Saturn square Neptune](/astrology/saturn-square-neptune/):** 1943–45, 1962–64, 1978–80 or 1998–99; where the sextile offers, the square insists.

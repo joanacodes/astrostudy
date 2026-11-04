@@ -39,7 +39,7 @@ Ici, la polarité irait du changement soudain au changement profond. Un bout veu
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le décompte n’a aucune naissance avec cette opposition. Ses périodes pour la paire racontent l’histoire à la place : un carré au début des années 1930, Uranus à 90° environ derrière Pluton ; la rencontre en Vierge de 1963 à 1968 ; le sextile des années 1990, quand Uranus prenait de l’avance ; et en 2009, de nouveau un carré. L’opposition est le point le plus éloigné de ce cycle, avant le décompte d’un côté, bien après lui de l’autre.
+Aucune naissance des quatre-vingts ans ne porte cette opposition. Les périodes du décompte pour la paire racontent l’histoire à la place : un carré au début des années 1930, Uranus à 90° environ derrière Pluton ; la rencontre en Vierge de 1963 à 1968 ; le sextile des années 1990, quand Uranus prenait de l’avance ; et en 2009, de nouveau un carré. L’opposition est le point le plus éloigné de ce cycle, avant le décompte d’un côté, bien après lui de l’autre.
 
 Si votre naissance tombe dans ces années, l’histoire de la paire dans votre thème passe donc par l’un des autres aspects, ou par aucun :
 

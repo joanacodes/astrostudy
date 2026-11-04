@@ -37,7 +37,7 @@ Neptune trine Pluto is the comfortable angle between the two slowest planets, an
 
 In plain words, change would come through inspiration rather than crisis, and inspiration would have roots. A vision would quietly prepare the ground for real renewal; a deep change would arrive already carrying a meaning. The trine's gift is that this happens without a fight. Its risk, for this pair especially, is that it happens without notice: a transformation so natural that you never stop to see how far you've come, or ideals held so easily that nobody tests them. Ease isn't idleness. I'd read it as a current you can choose to swim with.
 
-If it were in a chart, it would join two houses usually four apart, in signs of the same element, and those houses would show where your dreaming and your renewing support each other.
+If it were in a chart, it would join two houses usually four apart, in signs of the same element, and those houses, which need a birth time to find ([what changes without a birth time](/blog/unknown-birth-time/)), would show where your dreaming and your renewing support each other.
 
 ## In a birth chart {#in-a-birth-chart}
 

@@ -33,7 +33,7 @@ Saturne sextile Lilith ouvre une porte de côté entre la responsabilité et la 
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Saturne](/astrology/saturn/) établit la structure, l’engagement et la patience de tenir une limite dans la durée. La [Lune noire Lilith](/astrology/black-moon-lilith/), l’apogée moyen de la Lune, représente dans beaucoup de lectures l’autonomie instinctive, ce que vous avez appris à garder caché, et le pouvoir de dire non à vos propres conditions ; son sens est symbolique, et les traditions ne lui accordent pas le même poids. Un [sextile](/astrology/sextile/) relie ces deux fonctions par l’occasion et la coopération : chacune garde sa nature, et le lien fonctionne quand vous l’engagez.
+[Saturne](/astrology/saturn/) offre la structure, l’engagement et la patience de tenir une limite dans la durée. La [Lune noire Lilith](/astrology/black-moon-lilith/), l’apogée moyen de la Lune, représente dans beaucoup de lectures l’autonomie instinctive, ce que vous avez appris à garder caché, et le pouvoir de dire non à vos propres conditions ; son sens est symbolique, et les traditions ne lui accordent pas le même poids. Un [sextile](/astrology/sextile/) offre à ces deux fonctions une alliance de travail : chacune garde sa nature, et le lien fonctionne quand vous l’engagez.
 
 Au quotidien, c’est souvent une façon pratique d’être vous-même. Vous trouvez des cadres où un côté peu conventionnel a sa place : le travail aux règles claires qui laisse de la place à la bizarrerie, la routine qui protège du temps pour quelque chose que personne n’a besoin d’approuver. Vous savez peut-être aussi refuser calmement, raisons à l’appui. L’occasion demande pourtant de s’engager : un sextile ne vous poussera pas à prendre cette place, et un potentiel qui attend n’est pas encore une vie organisée selon vos conditions.
 
@@ -43,15 +43,15 @@ Environ 1 personne sur 17 a Saturne à moins de 6° d’un sextile à la Lilith 
 
 Un sextile relie en général des éléments compatibles. Saturne en Capricorne sextile Lilith en Scorpion, la terre et l’eau, peut rendre durable une autonomie discrète et résolue ; Saturne en Balance sextile Lilith en Lion, l’air et le feu, peut donner une forme juste à un refus plein de fierté. Les maisons montrent où s’ouvre la porte : Saturne en maison 4 sextile Lilith en maison 6 pourrait protéger, chez vous, les habitudes qui vous permettent de travailler à votre façon. Tout cela demande l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Les autres aspects de la paire :
+Les autres façons dont Saturne et Lilith se rencontrent :
 
 - **[Saturne conjonction Lilith](/astrology/saturn-conjunct-lilith/) :** le devoir et l’autonomie fondus en un point.
 - **[Saturne carré Lilith](/astrology/saturn-square-lilith/) :** les deux mêmes qui frottent au lieu de coopérer.
 - **[Saturne trigone Lilith](/astrology/saturn-trine-lilith/) :** un accord plus large et plus facile entre les deux.
-- **[Saturne opposition Lilith](/astrology/saturn-opposite-lilith/) :** les deux face à face, qui demandent un équilibre.
+- **[Saturne opposition Lilith](/astrology/saturn-opposite-lilith/) :** les deux face à face, en quête d’équilibre.
 
-Entre deux thèmes, [Saturne sextile Lilith en synastrie](/astrology/saturn-sextile-lilith-synastry/) permet à la constance de l’une des deux personnes de faire de la place à l’indépendance de l’autre. Je le lis dans les deux sens.
+Entre deux thèmes, [Saturne sextile Lilith en synastrie](/astrology/saturn-sextile-lilith-synastry/) permet à la constance de l’une des deux personnes de faire de la place à l’indépendance de l’autre. Je le lis tour à tour du côté de chaque personne.
 
 ## En transit {#en-transit}
 
-En [transit](/astrology/transits/), la Lilith moyenne forme un sextile avec Saturne de votre thème natal deux fois par tour d’environ 8 ans et 10 mois, quelques semaines chaque fois. Si votre naissance tombe sous ce sextile, il revient à chaque retour de Lilith, à peu près tous les neuf ans ; à mi-chemin, Lilith se trouve à l’opposé de sa place de naissance et forme donc un trigone avec votre Saturne : la même porte, plus grande ouverte. Saturne reforme le sextile à chaque [retour de Saturne](/astrology/saturn-return/), entre 27 et 30 ans environ puis vers 58–60 ans. Une météo, pas une prédiction : des moments où il devient plus facile d’organiser un peu plus votre vie à vos conditions.
+En [transit](/astrology/transits/), la Lilith moyenne forme un sextile avec Saturne de votre thème natal deux fois par tour d’environ 8 ans et 10 mois, quelques semaines chaque fois. Si votre naissance tombe sous ce sextile, il revient à chaque retour de Lilith, à peu près tous les neuf ans ; à mi-chemin, Lilith se trouve à l’opposé de sa place de naissance et forme donc un trigone avec votre Saturne : la même porte, plus grande ouverte. Saturne reforme le sextile à chacun de ses retours, vers 27–30 ans et 58–60 ans ([retour de Saturne](/astrology/saturn-return/)). Ce sont des moments de météo, pas des prédictions : il devient alors plus facile d’organiser un peu plus votre vie à vos conditions.

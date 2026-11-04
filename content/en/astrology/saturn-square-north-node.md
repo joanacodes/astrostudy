@@ -33,25 +33,25 @@ Saturn square North Node puts Saturn across the road between where you come from
 
 ## What it means {#what-it-means}
 
-[Saturn](/astrology/saturn/) establishes structure: responsibility, limits, the long view. The [North Node](/astrology/north-node/) marks a direction of development, a less familiar capacity that grows through practice, with the South Node opposite describing what came easily. A [square](/astrology/square/) relates them through constructive friction. And because the nodes are exactly opposite, whatever is 90° from one is 90° from the other: Saturn stands halfway between the two ends of the [nodal axis](/astrology/nodal-axis/), pressing on both.
+[Saturn](/astrology/saturn/) marks out responsibility and limits: the structure and the long view a life needs. The [North Node](/astrology/north-node/) points the way you're developing, towards a less familiar capacity that grows through practice, with the South Node opposite describing what came easily. A [square](/astrology/square/) relates them through friction meant to build something. And because the nodes are exactly opposite, whatever is 90° from one is 90° from the other: Saturn stands halfway between the two ends of the [nodal axis](/astrology/nodal-axis/), pressing on both.
 
 Lived, it can feel as if structure keeps interrupting both your comfort and your growth. Falling back on old habits brings a duty you can't shirk; pushing ahead into the new brings a limit you have to respect. Friction isn't failure, and challenge isn't punishment. Over time this square tends to teach pacing and integration: building the new capacity at a rate your responsibilities can bear, and putting old strengths to work for it instead of fleeing them.
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 1 person in 15 is born with this square within 6°, counting with the true node. I check the mean node as well, since near the edge of the orb the degree or two between them can matter ([mean node and true node](/astrology/mean-node-and-true-node/)). Saturn usually sits in a sign of the same modality as both nodes: with the nodes across Gemini and Sagittarius, Saturn in Virgo or Pisces asks a mutable, curious axis for method and follow-through.
+Counting within 6° and with the true node, about 1 person in 15 has this square. I check the mean node as well, since near the edge of the orb the degree or two between them can matter ([mean node and true node](/astrology/mean-node-and-true-node/)). Saturn usually sits in a sign of the same modality as both nodes: with the nodes across Gemini and Sagittarius, Saturn in Virgo or Pisces asks a mutable, curious axis for method and follow-through.
 
-The houses show where the crossing is: Saturn in the 6th, square nodes across the 3rd and 9th, might drop daily obligations into the middle of a move between what you know and what you're studying. Houses need the hour of birth ([what changes without a birth time](/blog/unknown-birth-time/)). With the node moving backwards and Saturn forwards, births share the square for a few months at a time.
+The houses show where the crossing is: Saturn in the 6th, square nodes across the 3rd and 9th, might drop daily obligations into the middle of a move between what you know and what you're studying. Without the hour of birth there are no houses to read ([what changes without a birth time](/blog/unknown-birth-time/)). With the node moving backwards and Saturn forwards, births share the square for a few months at a time.
 
-The pair's other aspects, alongside:
+Next to the pair's other aspects:
 
-- **[Saturn conjunct North Node](/astrology/saturn-conjunct-north-node/):** Saturn on the path itself, growth with a timetable.
+- **[Saturn conjunct North Node](/astrology/saturn-conjunct-north-node/):** growth and its structure joined on the path itself.
 - **[Saturn sextile North Node](/astrology/saturn-sextile-north-node/):** a bridge from the familiar to the new.
 - **[Saturn trine North Node](/astrology/saturn-trine-north-node/):** structure lending the new direction an easy hand.
 - **[Saturn opposite North Node](/astrology/saturn-opposite-north-node/):** Saturn on the South Node, weighting the familiar.
 
-Between two charts, [Saturn square North Node in synastry](/astrology/saturn-square-north-node-synastry/) can make one person's rules feel like an obstacle across the other's path, or like the very structure it was missing. I read it from both sides.
+Between two charts, [Saturn square North Node in synastry](/astrology/saturn-square-north-node-synastry/) can make one person's rules feel like an obstacle across the other's path, or like the very structure it was missing. I read it for both people.
 
 ## In transits {#in-transits}
 
-[Transiting North Node square natal Saturn](/astrology/transiting-north-node-square-natal-saturn/) happens twice in each 18.6-year round of the nodes, roughly nine years apart, for a month or two each time. Born with the square, you meet it again every nine years or so: at the [nodal return](/astrology/nodal-return/), about 18½, 37 and 56, and at the [nodal reversal](/astrology/nodal-reversal/), about 9, 28 and 46, alike, because a planet at right angles to the axis stays at right angles when the nodes swap ends. Saturn's own squares, at about 7, 21–22, 36–37 and 51 ([Saturn squares and opposition](/astrology/saturn-squares-and-opposition/)), bring Saturn onto one node or the other. Weather, not a forecast: seasons for re-pacing your growth around what you're responsible for.
+[Transiting North Node square natal Saturn](/astrology/transiting-north-node-square-natal-saturn/) happens twice in each 18.6-year round of the nodes, roughly nine years apart, for a month or two each time. Born with the square, you meet it again every nine years or so: at the [nodal return](/astrology/nodal-return/), about 18½, 37 and 56, and at the [nodal reversal](/astrology/nodal-reversal/), about 9, 28 and 46, alike, because a planet at right angles to the axis stays at right angles when the nodes swap ends. And at about 7, 21–22, 36–37 and 51, when Saturn squares its own birth place ([Saturn squares and opposition](/astrology/saturn-squares-and-opposition/)), it sits on one of your nodes, South and North in turn. Weather, not a forecast, each time: seasons for re-pacing your growth around what you're responsible for.

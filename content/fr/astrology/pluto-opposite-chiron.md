@@ -19,7 +19,7 @@ facts:
   - { k: "Le plus rapide des deux", v: "Chiron, environ 50 ans pour faire le tour du zodiaque, contre 248 pour Pluton" }
 related: ["/astrology/pluto", "/astrology/chiron", "/astrology/opposition", "/astrology/chiron-return", "/astrology/pluto-opposite-chiron-synastry"]
 faq:
-  - q: "Qui porte Pluton opposition Chiron ?"
+  - q: "Quelles naissances des années 1960 portent Pluton opposition Chiron ?"
     a: "Une grande partie des années 1960. À 6° près, l’aspect revient par intermittence d’avril 1959 à janvier 1970, et sans interruption de janvier 1962 à avril 1965. Pluton traversait la Vierge pendant tout ce temps, et Chiron se trouvait surtout en Poissons, en face. Environ 1 personne sur 12 née entre 1930 et 2009 le porte."
   - q: "Pluton opposition Chiron, est-ce un aspect personnel ou de génération ?"
     a: "Les deux, de façons différentes. L’angle et les signes appartiennent à toutes les personnes nées ces années-là : seuls, ils décrivent une génération. Ce qui est à vous, c’est la paire de maisons où tombe l’aspect, qui demande l’heure de naissance, et les contacts que la paire forme avec votre Soleil, votre Lune ou vos angles."
@@ -30,11 +30,11 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes la portent, et les mois où elle était dans l’orbe" }
   - { title: "NASA — Pluto facts", url: "https://science.nasa.gov/dwarf-planets/pluto/facts/", note: "l’orbite de Pluton, environ 248 ans" }
 ---
-Pluton opposition Chiron appartient aux années 1960 : presque toute la décennie, Pluton traversait la Vierge tandis que Chiron avançait lentement dans les Poissons, de l’autre côté du ciel. Toutes les personnes nées alors partagent cet angle ; les deux maisons qu’il relie le rendent personnel.
+Pluton opposition Chiron appartient aux années 1960 : presque toute la décennie, Pluton traversait la Vierge tandis que Chiron avançait lentement dans les Poissons, de l’autre côté du ciel. Les personnes nées alors partagent cet angle ; les deux maisons qu’il relie le rendent personnel.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Pluton](/astrology/pluto/) est la fonction du renouveau en profondeur : dégager les structures qui ne servent plus, régénérer après le lâcher-prise, et laisser une force qui vous appartient davantage. [Chiron](/astrology/chiron/) est la fonction de l’adaptation : autour d’une difficulté qui persiste, il change la méthode, le rythme ou l’outil, pour que vous continuiez à prendre part sans attendre qu’elle s’en aille. Une [opposition](/astrology/opposition/) les relie par la polarité : chaque fonction tient un bout de l’axe, et chacune rend l’autre plus visible.
+[Pluton](/astrology/pluto/) est la fonction du renouveau en profondeur : dégager les structures qui ne servent plus, régénérer après le lâcher-prise, et laisser une force qui vous appartient davantage. [Chiron](/astrology/chiron/) est la fonction de l’adaptation : autour d’une difficulté qui persiste, il change la méthode, le rythme ou l’outil, pour que vous continuiez à prendre part sans attendre qu’elle s’en aille. Dans une [opposition](/astrology/opposition/), le lien passe par la polarité : chaque fonction tient un bout de l’axe, et chacune rend l’autre plus visible.
 
 En clair, devant ce qui ne fonctionne plus, Pluton demande : est-ce que cela peut partir ? Chiron demande : si cela reste, comment bien vivre autour ? Avec les deux face à face, vous portez les deux questions, et l’une peut occuper des années avant que l’autre ait son tour : faire le vide plus d’une fois, par exemple, pendant qu’un point sensible voyage discrètement avec vous.
 
@@ -42,11 +42,11 @@ Une polarité n’est pas un combat, et le renouveau que porte Pluton n’est pa
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 12 née entre 1930 et 2009 porte cette opposition à 6° près, et toutes ces naissances tombent dans une même période : par intermittence d’avril 1959 à janvier 1970, et sans interruption de janvier 1962 à avril 1965. Pluton se trouvait en Vierge du début à la fin ; Chiron surtout en Poissons, mais encore en Verseau en 1959 et déjà en Bélier fin 1969, quand l’angle reliait deux signes qui ne sont pas opposés. Tant de naissances le partagent qu’il agit comme un aspect de génération ([planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)).
+Environ 1 personne sur 12 née entre 1930 et 2009 porte cette opposition à 6° près, et toutes ces naissances tombent dans une même période : par intermittence d’avril 1959 à janvier 1970, et sans interruption de janvier 1962 à avril 1965. Pluton était en Vierge de bout en bout ; Chiron surtout en Poissons, mais encore en Verseau en 1959 et déjà en Bélier fin 1969, quand l’angle reliait deux signes qui ne sont pas opposés. Tant de naissances le partagent qu’il agit comme un aspect de génération ([planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)).
 
 Comme motif commun, j’y lis une génération qui veut réparer ce qui est cassé, Pluton en Vierge renouvelant les méthodes et le travail quotidien, face à un point sensible en Poissons où réparer n’est pas la question, et où la compassion l’est. Un motif n’est pas un portrait : le vôtre vit dans les deux maisons que relie la paire, qui demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Pluton en maison 6 avec Chiron en maison 12, par exemple, pourrait réinventer sans cesse une routine pendant qu’un point sensible plus intime demande du repos plutôt qu’une réparation.
 
-Chiron est le plus rapide, environ 50 ans par tour du zodiaque contre 248 pour Pluton, mais il passe quelque huit ans en Poissons : il n’a presque rien gagné sur Pluton, et l’angle a tenu des années. Près de l’exactitude, la polarité parle fort ; vers 6°, plus bas.
+Chiron est le plus rapide, environ 50 ans par tour du zodiaque contre 248 pour Pluton, mais il passe quelque huit ans en Poissons : il a peu gagné sur Pluton, et l’angle a tenu des années. Près de l’exactitude, la polarité parle fort ; vers 6°, plus bas.
 
 Les autres aspects de la paire appartiennent à d’autres années de naissance :
 

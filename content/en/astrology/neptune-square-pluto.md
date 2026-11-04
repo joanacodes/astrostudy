@@ -43,7 +43,7 @@ Were it in a chart, it would belong to a whole generation, as anything between t
 
 Nobody born between 1930 and 2009 has Neptune within 6° of a square to Pluto. In those decades the two never came within reach of 90°: for most of the time they held a sextile, about 60° apart ([Neptune sextile Pluto](/astrology/neptune-sextile-pluto/)), with Neptune the one ahead throughout. If you were born in those years, the square isn't in your chart, whatever else Neptune and Pluto are doing there.
 
-Where you can meet it is outside your own chart. Between two people born years apart, one person's Neptune can square the other's Pluto: [Neptune square Pluto in synastry](/astrology/neptune-square-pluto-synastry/) can feel like one person's ideals pressing on the other's need for deep change, and the other's depth unsettling those ideals in return. I read it in both directions, and gently.
+Where you can meet it is outside your own chart. Between two people born years apart, one person's Neptune can square the other's Pluto: [Neptune square Pluto in synastry](/astrology/neptune-square-pluto-synastry/) can feel like one person's ideals pressing on the other's need for deep change, and the other's depth unsettling those ideals in return. I read it in both directions, and gently, as I read every hard angle ([how I read](/how-i-read/)).
 
 The pair's other aspects, set against this one:
 

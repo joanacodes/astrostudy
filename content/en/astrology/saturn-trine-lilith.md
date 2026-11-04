@@ -32,7 +32,7 @@ Saturn trine Lilith lets your sense of responsibility and your untamed streak ge
 
 ## What it means {#what-it-means}
 
-[Saturn](/astrology/saturn/) establishes structure: discipline, responsibility, boundaries that last. [Black Moon Lilith](/astrology/black-moon-lilith/), the Moon's mean apogee, is commonly read as instinctive autonomy, the part of a person once judged too much, and the right to set limits on one's own terms; I treat it as a symbol, since the traditions that use it differ. A [trine](/astrology/trine/) relates them through flow and mutual reinforcement: duty gives your independence a steady frame, and your independence keeps duty from turning into mere obedience. Both are about limits: Saturn draws them by commitment, Lilith by instinct, and here the two kinds of limit tend to agree.
+[Saturn](/astrology/saturn/) organises a life for the long run: discipline, responsibility, boundaries that last. [Black Moon Lilith](/astrology/black-moon-lilith/), the Moon's mean apogee, is commonly read as instinctive autonomy, the part of a person once judged too much, and the right to set limits on one's own terms; I treat it as a symbol, since the traditions that use it differ. In a [trine](/astrology/trine/) the two run together and strengthen each other: duty gives your independence a steady frame, and your independence keeps duty from turning into mere obedience. Both are about limits: Saturn draws them by commitment, Lilith by instinct, and here the two kinds of limit tend to agree.
 
 In plain words, you can be both reliable and unbiddable. People may count on you precisely because you won't bend on what matters, and your refusals tend to come with a plan rather than a slammed door. Flow isn't passivity, though, and ease isn't inevitability. A trine this comfortable can stop you questioning your own rules, or leave a gift for calm self-rule unused because nothing has tested it yet.
 
@@ -47,10 +47,10 @@ The pair's other aspects, set beside it:
 - **[Saturn conjunct Lilith](/astrology/saturn-conjunct-lilith/):** duty and the untamed fused, and harder to tell apart.
 - **[Saturn sextile Lilith](/astrology/saturn-sextile-lilith/):** a narrower opening between them.
 - **[Saturn square Lilith](/astrology/saturn-square-lilith/):** the argument this trine is spared.
-- **[Saturn opposite Lilith](/astrology/saturn-opposite-lilith/):** the same two facing off, asking for balance.
+- **[Saturn opposite Lilith](/astrology/saturn-opposite-lilith/):** the same two facing off across the chart.
 
 Between two charts, [Saturn trine Lilith in synastry](/astrology/saturn-trine-lilith-synastry/) often feels like being respected for exactly the part of you others found difficult. I read it in both directions, since being given room and giving it are different experiences.
 
 ## In transits {#in-transits}
 
-In [transits](/astrology/transits/), mean Lilith trines your natal Saturn twice in each round of about 8 years and 10 months, a few weeks at a time, in a single pass, since mean Lilith never turns back. If the trine is in your chart, every Lilith return, at about 9, 18, 27, 35, 44 and 53, re-forms it; halfway between, Lilith sextiles your Saturn instead, a smaller version of the same ease. Each [Saturn return](/astrology/saturn-return/) re-forms it from Saturn's side. Weather, not a forecast: brief seasons when holding your own line comes more easily.
+In [transits](/astrology/transits/), mean Lilith trines your natal Saturn twice in each round of about 8 years and 10 months, a few weeks at a time, in a single pass, since mean Lilith never turns back. If the trine is in your chart, every Lilith return, at about 9, 18, 27, 35, 44 and 53, re-forms it; halfway between, Lilith sextiles your Saturn instead, a smaller version of the same ease. Each [Saturn return](/astrology/saturn-return/) re-forms it from Saturn's side. Fair weather, not a forecast: brief seasons when holding your own line comes more easily.

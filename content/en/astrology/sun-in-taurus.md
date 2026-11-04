@@ -32,19 +32,19 @@ Some people find out who they are by what they chase. With the Sun in Taurus, yo
 
 ## In a birth chart {#in-a-birth-chart}
 
-The [Sun](/astrology/sun/) is the part of a chart that organises your identity, your vitality and your sense of purpose. [Taurus](/astrology/taurus/), fixed earth, gives it a manner that is slow to form and very hard to dislodge. Your sense of self tends to rest on a short list of things you value, and a good part of growing up is finding out which of them are truly yours rather than inherited. Once found, they hold. Someone who knew you at twenty might recognise the same loyalties at sixty, only more clearly chosen.
+Identity, vitality, purpose: the [Sun](/astrology/sun/) organises all three, and [Taurus](/astrology/taurus/), fixed earth, gives it a manner that is slow to form and very hard to dislodge. Your sense of self tends to rest on a short list of things you value, and a good part of growing up is finding out which of them are truly yours rather than inherited. Once found, they hold. Someone who knew you at twenty might recognise the same loyalties at sixty, only more clearly chosen.
 
 The Sun has no dignity in Taurus: it is neither at home, exalted, in detriment nor in fall. I read that as neutral ground, and I read this Sun through its manner and its ruler. [Venus](/astrology/venus/) rules Taurus, and Venus never strays more than about 47° from the Sun, so yours sits in Taurus itself or no more than two signs away. The planet that rules this Sun is always close by, which is perhaps why, with a Taurus Sun, what you enjoy and who you are can be so hard to separate.
 
-The Sun spends 30 or 31 days in Taurus, from about 20 April to 20 May, so about 1 person in 12 has it. Born on the first or last day or so of that stretch, you need your [birth time](/blog/unknown-birth-time/) to know whether yours is the [Sun in Aries](/astrology/sun-in-aries/), the Taurus Sun, or the [Sun in Gemini](/astrology/sun-in-gemini/).
+The Sun spends 30 or 31 days in Taurus, from about 20 April to 20 May, the birthday month of about 1 person in 12. Born on the first or last day or so of that stretch, you need your [birth time](/blog/unknown-birth-time/) to know whether yours is the [Sun in Aries](/astrology/sun-in-aries/), the Taurus Sun, or the [Sun in Gemini](/astrology/sun-in-gemini/).
 
 ## In close relationships {#in-close-relationships}
 
-In love, a Taurus Sun shows itself by staying. You tend to express affection through the tangible, a meal kept warm, a lift home at midnight, a hand on a shoulder, and to read a partner by what they do over months rather than what they say on a good night. The particular hurt here is being taken for granted, because worth sits close to the centre of this Sun: you want to be valued, in the plain sense of the word. The lesson is to say out loud what you value, since not everyone reads the signs you leave. A partner who notices the small, steady things is already speaking your language.
+Love, for a Taurus Sun, is shown by staying. You tend to express affection through the tangible, a meal kept warm, a lift home at midnight, a hand on a shoulder, and to read a partner by what they do over months rather than what they say on a good night. The particular hurt here is being taken for granted, because worth sits close to the centre of this Sun: you want to be valued, in the plain sense of the word. The lesson is to say out loud what you value, since not everyone reads the signs you leave. A partner who notices the small, steady things is already speaking your language.
 
 ## At work {#at-work}
 
-At work, this Sun wants to see the result and, ideally, to hold it. Purpose grows where effort accumulates into something you can point to: a garden in its fourth summer, a client list built over years, a skill refined until it looks easy. You often work best at your own tempo, and a deadline that drops out of nowhere can drain more energy than the task itself. Recognition, for a Taurus Sun, usually means being relied on. When that reliability is noticed, and fairly rewarded, your sense of self steadies.
+This Sun wants to see the result of its work and, ideally, to hold it. Purpose grows where effort accumulates into something you can point to: a garden in its fourth summer, a client list built over years, a skill refined until it looks easy. You often work best at your own tempo, and a deadline that drops out of nowhere can drain more energy than the task itself. Recognition, for a Taurus Sun, usually means being relied on. When that reliability is noticed, and fairly rewarded, your sense of self steadies.
 
 ## The hard part {#the-hard-part}
 
@@ -54,4 +54,4 @@ Identity can fuse with what it holds. A home, a job, a routine or a relationship
 
 Let change arrive in small portions: try the new arrangement for a month before deciding what it says about you. Write down what you value, in your own words, and check now and then that your days still contain it; when they do, change gets less frightening. Protect whatever restores you through the senses, and count it as maintenance rather than indulgence. And look at your Venus, by sign and house, which says where this Sun finds its pleasure and, often, its purpose.
 
-In [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign held about a third of the time, with the rising sign, Venus and Mercury, while Saturn, Chiron and Lilith held far more often. With a Taurus Sun, Venus belongs to both of those stories, the sign's and its own, so I read the two together and take my time over them, at a pace I suspect this Sun would approve of.
+Two of the placements that held about a third of the time in [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign and Venus, meet in a Taurus Sun, since Venus rules the sign; Saturn, Chiron and Lilith held far more often. So I read this Sun and its Venus together and take my time over both, at a pace I suspect this Sun would approve of.

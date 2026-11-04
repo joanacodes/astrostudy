@@ -60,4 +60,4 @@ Between two charts, [Jupiter conjunct Chiron in synastry](/astrology/jupiter-con
 
 Jupiter, for its part, crosses your natal Chiron about every 12 years, for a few weeks: a lighter visit, when meaning and tenderness sit close again.
 
-Weather, not a forecast: neither transit says what will become of the tender spot. They describe a season when it and your sense of meaning share the same room.
+Neither transit says what will become of the tender spot. They're weather, not a forecast, and what they describe is a season when it and your sense of meaning share the same room.

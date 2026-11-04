@@ -18,7 +18,7 @@ facts:
   - { k: "Faster of the two", v: "Chiron, about 50 years round the zodiac against Pluto’s 248" }
 related: ["/astrology/pluto", "/astrology/chiron", "/astrology/opposition", "/astrology/chiron-return", "/astrology/pluto-opposite-chiron-synastry"]
 faq:
-  - q: "Who was born with Pluto opposite Chiron?"
+  - q: "Which years of the 1960s give Pluto opposite Chiron?"
     a: "A large part of the 1960s. Counting within 6°, it runs on and off from April 1959 to January 1970, and without a break from January 1962 to April 1965. Pluto was crossing Virgo all that time, and Chiron was mostly in Pisces, opposite. About 1 person in 12 born between 1930 and 2009 has it."
   - q: "Is Pluto opposite Chiron personal, or a generation’s aspect?"
     a: "Both, in different ways. The angle and the signs belong to everyone born in those years, so on their own they describe a generation. What is yours is the pair of houses the two fall in, which needs a birth time, and any contact they make with your Sun, Moon or angles."

@@ -37,7 +37,7 @@ Jupiter square North Node puts Jupiter at right angles to the whole nodal axis, 
 
 In plain words, what you believe doesn't line up neatly with either end. Sometimes your beliefs pull you back towards the old, comfortable way; sometimes they leap ahead of what you've actually practised. The square makes you integrate: you have to work out how what you believe fits with what you know and with what you're learning. I read Jupiter here as a part of you that asks to be brought along, not left at the side of the road.
 
-Friction isn't failure. Over the years this square often gives an uncommon breadth: a way of growing that keeps checking itself against old strengths and new skills alike.
+None of that is failure. Over the years this square often gives an uncommon breadth: a way of growing that keeps checking itself against old strengths and new skills alike.
 
 ## In a birth chart {#in-a-birth-chart}
 
@@ -50,7 +50,7 @@ The other angles between Jupiter and the North Node:
 - **[Jupiter trine North Node](/astrology/jupiter-trine-north-node/):** growth gets Jupiter's fluent support, and the familiar a quieter sextile.
 - **[Jupiter opposite North Node](/astrology/jupiter-opposite-north-node/):** Jupiter on the South Node, its gifts part of what you already know.
 
-Between two charts, [Jupiter square North Node in synastry](/astrology/jupiter-square-north-node-synastry/) lets one person's beliefs cross the other's path of growth, sometimes as a challenge, sometimes as the push that was needed. I read it from both sides.
+Between two charts, [Jupiter square North Node in synastry](/astrology/jupiter-square-north-node-synastry/) lets one person's beliefs cross the other's path of growth, sometimes as a challenge, sometimes as the push that was needed, depending on which side of it you stand.
 
 ## In transits {#in-transits}
 

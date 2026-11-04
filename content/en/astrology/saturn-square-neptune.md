@@ -33,13 +33,13 @@ Saturn square Neptune sets the plan and the dream at right angles. Each keeps ca
 
 ## What it means {#what-it-means}
 
-[Saturn](/astrology/saturn/) establishes structure: limits, duties, the discipline of finishing. [Neptune](/astrology/neptune/) enables imagination and compassion, and loosens boundaries that have stopped serving anyone. A [square](/astrology/square/) relates them through constructive friction: neither gives way, so each pushes the other to adapt.
+[Saturn](/astrology/saturn/) is about limits and duties: the structure a life is built on, and the discipline of finishing. [Neptune](/astrology/neptune/) is imagination and compassion in a chart, and it loosens boundaries that have stopped serving anyone. A [square](/astrology/square/) relates them through constructive friction: neither gives way, so each pushes the other to adapt.
 
 Lived, it can feel like being asked for two things at once that don't fit. Be realistic, and believe; set limits, and give without counting. You might give too much, then over-correct with rules, or keep a dream at arm's length because it can't yet prove itself. None of that is failure. The square is training discernment: compassion that knows its limits, faith that can live with a deadline, structure that remembers why it exists.
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 1 person in 17 born between 1930 and 2009 has this square within 6°, in four runs: on and off from August 1943 to May 1945, from March 1962 to January 1964, from October 1978 to August 1980, and from May 1998 to May 1999. Everyone born in those months has it, which makes it a generation's square, read personally through the houses.
+Within 6°, the square turns up in about 1 person in 17 born between 1930 and 2009, in four runs: on and off from August 1943 to May 1945, from March 1962 to January 1964, from October 1978 to August 1980, and from May 1998 to May 1999. Every birth in those months carries it, which makes it a generation's square, read personally through the houses.
 
 A square usually joins signs of the same modality, and the runs show it. In 1962–64 Saturn was in Aquarius and Neptune in Scorpio, two fixed signs: a square that digs in. In 1978–80 it was Saturn in Virgo and Neptune in Sagittarius, two mutable signs: friction that keeps changing shape. The houses say where the two meet. Saturn in the 2nd square Neptune in the 11th might set a careful sense of what you own against generosity to a cause; Saturn in the 7th square Neptune in the 4th, commitment against an ideal of home. The hour of birth decides all of that ([what changes without a birth time](/blog/unknown-birth-time/)), and a contact with your Sun, Moon or an angle turns it up.
 

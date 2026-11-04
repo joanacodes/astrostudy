@@ -32,7 +32,7 @@ Saturn conjunct Lilith puts your sense of duty and the part of you that refuses 
 
 ## What it means {#what-it-means}
 
-[Saturn](/astrology/saturn/) establishes structure: responsibility, discipline, the boundaries you keep because you've committed to them. [Black Moon Lilith](/astrology/black-moon-lilith/), the Moon's mean apogee, is read by many astrologers as the instinct for self-rule, the parts of you that were pushed out of sight, and the lines you draw by instinct rather than by duty. Traditions weigh it differently, and I read it as a symbol. In a [conjunction](/astrology/conjunction/) the two work as one while each keeps its identity: obligation and refusal arrive together.
+[Saturn](/astrology/saturn/) governs commitment: responsibility, discipline, the boundaries you keep because you've promised to. [Black Moon Lilith](/astrology/black-moon-lilith/) is a point, the Moon's mean apogee, that many astrologers read as the instinct for self-rule, the parts of you that were pushed out of sight, and the lines you draw by instinct rather than by duty. Traditions weigh it differently, and I read it as a symbol. A [conjunction](/astrology/conjunction/) binds them into one active knot, each keeping its identity: obligation and refusal arrive together.
 
 In plain words, what you were told to be and what you won't be are tied in one knot. You may hold yourself to strict standards precisely around the part of you that was once called too much, or keep a rebellious streak under very tight control. Fusion isn't identity loss, though. Untied, this conjunction gives a rare kind of authority: boundaries that come from your own nature, kept with Saturn's steadiness, and a self-rule that doesn't need to shout.
 
@@ -53,4 +53,4 @@ Between two charts, [Saturn conjunct Lilith in synastry](/astrology/saturn-conju
 
 ## In transits {#in-transits}
 
-In [transits](/astrology/transits/), Lilith comes back over your Saturn at each Lilith return, about every nine years, for a few weeks each time; mean Lilith never turns retrograde, so it's a single pass. Saturn comes back over your Lilith at each [Saturn return](/astrology/saturn-return/), between about 27 and 30 and again around 58 to 60. The two clocks meet in the late twenties, when the third Lilith return, at about 27, falls close to the first Saturn return. Weather, not a forecast: seasons when an old refusal asks for a structure of its own.
+In [transits](/astrology/transits/), Lilith comes back over your Saturn at each Lilith return, about every nine years, for a few weeks each time; mean Lilith never turns retrograde, so it's a single pass. Saturn comes back over your Lilith at each [Saturn return](/astrology/saturn-return/), from about 27 to 30 and again in the late fifties. The two clocks meet in the late twenties, when the third Lilith return, at about 27, falls close to the first Saturn return. Weather, not a forecast: seasons when an old refusal asks for a structure of its own.

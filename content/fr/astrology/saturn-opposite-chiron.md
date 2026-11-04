@@ -34,20 +34,20 @@ Saturne opposition Chiron tient la force et la vulnérabilité aux deux bouts d�
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Saturne](/astrology/saturn/) établit la structure : l’autorité, les normes, la responsabilité, des limites qui tiennent. [Chiron](/astrology/chiron/) marque une difficulté durable et les adaptations qui permettent malgré tout de participer. Une [opposition](/astrology/opposition/) relie ces deux fonctions par la polarité : chacune garde son identité, et chacune révèle l’autre. La compétence rend sensible à ce qui ne vient pas facilement ; une difficulté rend sensible à la force qu’il faut pour la porter.
+[Saturne](/astrology/saturn/) porte l’autorité dans un thème : les normes, la responsabilité, des limites qui tiennent. [Chiron](/astrology/chiron/) représente une difficulté durable et les adaptations qui permettent malgré tout de participer. Une [opposition](/astrology/opposition/) tient ces deux fonctions comme deux pôles, chacune restant elle-même et éclairant l’autre. La compétence rend sensible à ce qui ne vient pas facilement ; une difficulté rend sensible à la force qu’il faut pour la porter.
 
 Au début, les deux moitiés se partagent souvent entre plusieurs personnes. Vous voilà dans le rôle de la personne capable, celle sur qui l’on s’appuie, pendant que vos propres besoins restent tus ; ou dans celui de la personne qui demande une exception à qui tient les règles. Une polarité n’est pas une contradiction, et la tension dépend de la façon de la tenir. Avec le temps, cette opposition apporte souvent une intégration rare : la compétence et la limite côte à côte, sans que l’une ou l’autre vous définisse, et une façon de diriger qui fait de la place aux difficultés des autres.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 12 née entre 1930 et 2009 porte cette opposition, à 6° près, en deux longues vagues : par intermittence de février 1985 à juillet 1997, et d’août 2002 à juin 2007. Toutes les personnes nées ces mois-là la partagent : c’est un aspect de génération, que les maisons et les contacts avec votre Soleil, votre Lune ou vos angles rendent personnel ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Environ 1 personne sur 12 née entre 1930 et 2009 porte cette opposition, à 6° près, grâce à deux longues vagues : par intermittence de février 1985 à juillet 1997, et d’août 2002 à juin 2007. Une génération la porte en commun : la lecture personnelle vient des maisons et des contacts avec votre Soleil, votre Lune ou vos angles ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 La première vague a duré douze ans parce que Chiron, en approchant des signes qu’il traverse le plus vite, a suivi le rythme de Saturne. En chemin, l’opposition a traversé tour à tour cinq paires de signes, de Saturne en Sagittaire face à Chiron en Gémeaux jusqu’à Saturne en Bélier face à Chiron en Balance ; en 2002–2007, c’était surtout Saturne en Cancer ou en Lion face à Chiron en Capricorne ou en Verseau. Deux personnes nées à quelques années d’écart peuvent donc la porter sur des axes très différents. Une opposition relie deux maisons opposées : entre la 1 et la 7, votre propre compétence contre ce que vos partenaires font naître en vous ; entre la 6 et la 12, les exigences quotidiennes du travail contre le besoin de repos et de retrait.
 
-Les autres aspects de la paire :
+Les autres aspects de Saturne et Chiron, par contraste :
 
 - **[Saturne conjonction Chiron](/astrology/saturn-conjunct-chiron/) :** 1965–1967, en Poissons ; la force et le point sensible en un même point.
-- **[Saturne sextile Chiron](/astrology/saturn-sextile-chiron/) :** 1955–1959 ou 1971–1973 ; une coopération offerte plutôt qu’un équilibre à trouver.
+- **[Saturne sextile Chiron](/astrology/saturn-sextile-chiron/) :** 1955–1959 ou 1971–1973 ; l’entraide proposée au lieu d’un équilibre à chercher.
 - **[Saturne carré Chiron](/astrology/saturn-square-chiron/) :** par intermittence de 1934 à 1954, et 1974–1976 ; une friction à angle droit.
 - **[Saturne trigone Chiron](/astrology/saturn-trine-chiron/) :** 1930–1932 ou 1977–1980 ; les deux qui coulent ensemble, en terre.
 
@@ -57,4 +57,4 @@ Entre deux thèmes, [Saturne opposition Chiron en synastrie](/astrology/saturn-o
 
 [Chiron en transit opposition Saturne du thème natal](/astrology/transiting-chiron-opposite-natal-saturn/) arrive une fois par tour de Chiron, soit en une cinquantaine d’années, brièvement ou pendant des années selon la vitesse de Chiron. Saturne en transit s’oppose à Chiron du thème natal une fois tous les 29 ans et demi.
 
-Si votre naissance tombe pendant cette opposition, vous la retrouvez sur deux horloges. L’opposition de Saturne à sa propre place, vers 14–15 ans et vers 44 ans ([carrés et opposition de Saturne](/astrology/saturn-squares-and-opposition/)), amène Saturne sur votre Chiron ; le [retour de Chiron](/astrology/chiron-return/), vers 50 ans, remet Chiron face à votre Saturne. Une météo, pas une prédiction : des saisons pour rééquilibrer ce que vous portez et ce que vous avez le droit de poser.
+Si votre naissance tombe pendant cette opposition, vous la retrouvez sur deux horloges. L’opposition de Saturne à sa place de naissance, vers 14–15 ans et vers 44 ans ([carrés et opposition de Saturne](/astrology/saturn-squares-and-opposition/)), est aussi le passage de Saturne sur votre Chiron ; le [retour de Chiron](/astrology/chiron-return/), vers 50 ans, remet Chiron face à votre Saturne. Ici aussi, une météo plutôt qu’une prédiction : des saisons pour rééquilibrer ce que vous portez et ce que vous avez le droit de poser.

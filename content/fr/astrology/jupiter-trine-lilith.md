@@ -53,10 +53,10 @@ Comparés à celui-ci, les autres aspects de la paire :
 - **[Jupiter carré Lilith](/astrology/jupiter-square-lilith/) :** la croyance et l’instinct se disputent, et la conscience qui en sort se gagne à la dure.
 - **[Jupiter opposition Lilith](/astrology/jupiter-opposite-lilith/) :** la part indomptée et vos principes se font face, souvent dans une relation.
 
-Entre deux thèmes, [Jupiter trigone Lilith en synastrie](/astrology/jupiter-trine-lilith-synastry/) compte souvent parmi les contacts les plus libérateurs : ce qui donne du sens à la vie d’une des deux personnes a tout simplement de la place pour le côté plus sauvage de l’autre. Je le lis des deux côtés ; celle qui fait de la place peut en avoir besoin aussi.
+Entre deux thèmes, [Jupiter trigone Lilith en synastrie](/astrology/jupiter-trine-lilith-synastry/) compte souvent parmi les contacts les plus libérateurs : ce qui donne du sens à la vie d’une des deux personnes a tout simplement de la place pour le côté plus sauvage de l’autre. Celle qui fait de la place peut en avoir besoin aussi : je lis donc chaque côté à part.
 
 ## En transit {#en-transit}
 
 Deux fois par tour, Jupiter dans le ciel forme un trigone avec Lilith du thème natal, pour quelques semaines chaque fois ; la Lilith moyenne, plus rapide, atteint le trigone avec Jupiter du thème natal à deux reprises par révolution d’environ 8 ans et 10 mois. Si le trigone est dans votre thème, vous en retrouvez le côté Lilith lors de chaque retour de Lilith, tous les neuf ans environ, quand Lilith regagne son degré de naissance, à 120° de Jupiter.
 
-Une météo, pas une prédiction : une période où la part indomptée se sent plus attendue, sans rien décider de ce que vous en ferez.
+Il faut y voir une météo, pas une prédiction : une période où la part indomptée se sent plus attendue, sans rien décider de ce que vous en ferez.

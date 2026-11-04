@@ -37,7 +37,7 @@ Jupiter opposite Lilith puts your principles on one side of the chart and the pa
 
 In plain words, a set of beliefs and an untamed instinct look at each other across the room. Often one end arrives through other people: a community, a teacher or a tradition whose rules seem to require that you hide something, or a person whose freedom makes your principles look narrow. The work is awareness. Neither the belief nor the refusal is the villain; the opposition asks what each one protects, and how both can be yours.
 
-Polarity isn't contradiction. Lived well, this aspect makes people who can hold firm principles and a free instinct at once, and who are hard to recruit into anything that asks them to be less than whole.
+The two ends don't contradict each other. Lived well, this aspect makes people who can hold firm principles and a free instinct at once, and who are hard to recruit into anything that asks them to be less than whole.
 
 ## In a birth chart {#in-a-birth-chart}
 
@@ -58,4 +58,4 @@ Between two charts, [Jupiter opposite Lilith in synastry](/astrology/jupiter-opp
 
 Jupiter opposes your natal Lilith once a lap, for a few weeks; mean Lilith opposes your natal Jupiter once in each round of about nine years. Born with the opposition, you meet the first at your Jupiter return and the second at your Lilith return, since each body then regains its birth degree, opposite the other's natal place.
 
-Weather, not a forecast: each of these brings the two ends back into view for a while, and decides nothing between them.
+As weather, not a forecast, each of these brings the two ends back into view for a while, and decides nothing between them.

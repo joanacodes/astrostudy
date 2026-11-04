@@ -61,4 +61,4 @@ Entre deux thèmes, [Jupiter trigone Neptune en synastrie](/astrology/jupiter-tr
 
 [Neptune en transit trigone Jupiter du thème natal](/astrology/transiting-neptune-trine-natal-jupiter/) se joue à une autre échelle. Neptune passe environ 14 ans dans un signe et peut rester près du trigone un an ou deux, en plusieurs passages, à un âge qui dépend de sa position à votre naissance.
 
-Une météo, pas une prédiction : ces transits décrivent une saison où l’inspiration et la compréhension se nourrissent plus facilement. Ils ne disent pas ce que vous en ferez.
+Voyez-y une météo, pas une prédiction : pendant un temps, l’inspiration et la compréhension se nourrissent plus facilement. Ils ne disent pas ce que vous en ferez.

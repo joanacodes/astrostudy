@@ -48,7 +48,7 @@ Les deux partagent en général un signe, dont l’élément donne le ton : le 
 
 Chose rare, le point va ici plus vite que la planète : la Lilith moyenne traverse un signe en neuf mois environ, toujours vers l’avant, quand Jupiter met environ un an et passe quelque quatre mois par an en rétrogradation.
 
-Les autres aspects de la paire :
+Les autres aspects de Jupiter avec Lilith :
 
 - **[Jupiter sextile Lilith](/astrology/jupiter-sextile-lilith/) :** à deux signes d’écart, la part cachée trouve des ouvertures dans ce qui vous élargit, quand vous les saisissez.
 - **[Jupiter carré Lilith](/astrology/jupiter-square-lilith/) :** les croyances et l’instinct à angle droit, une friction qui forge des principes à vous.
@@ -61,4 +61,4 @@ Entre deux thèmes, [Jupiter conjonction Lilith en synastrie](/astrology/jupiter
 
 Jupiter passe sur Lilith du thème natal environ tous les 12 ans et reste proche quelques semaines ; quand votre thème porte la conjonction, ce passage tombe à chaque [retour de Jupiter](/astrology/jupiter-return/). La Lilith moyenne, qui fait le tour du zodiaque en 8 ans et 10 mois environ, repasse sur Jupiter du thème natal à chaque retour de Lilith, vers 9, 18, 27, 35, 44 et 53 ans, et s’y attarde quelques semaines. De nombreux astrologues lisent ces moments comme des temps où ce qu’on gardait hors de vue demande à entrer dans ce que vous croyez.
 
-Une météo, pas une prédiction : ces passages décrivent une saison où la part cachée réclame de la place, et vous laissent la réponse.
+Ces passages décrivent une saison où la part cachée réclame de la place : une météo, pas une prédiction, qui vous laisse la réponse.

@@ -33,17 +33,17 @@ Saturne sextile Neptune ouvre une porte entre votre sens du possible et votre se
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Saturne](/astrology/saturn/) établit la structure, la responsabilité et la longue discipline qui rend les choses réelles. [Neptune](/astrology/neptune/) ouvre l’imagination, la compassion et le sentiment de ce qui compte au-delà de ce qui se mesure. Un [sextile](/astrology/sextile/) relie ces deux fonctions par l’occasion et la coopération : aucune ne remplace l’autre, et le lien fonctionne quand vous vous en servez.
+[Saturne](/astrology/saturn/) apporte la structure, la responsabilité et la longue discipline qui rend les choses réelles. [Neptune](/astrology/neptune/) éveille l’imagination, la compassion et le sentiment de ce qui compte au-delà de ce qui se mesure. Un [sextile](/astrology/sextile/) relie ces deux fonctions par l’occasion et la coopération : aucune ne remplace l’autre, et le lien fonctionne quand vous vous en servez.
 
 Concrètement, c’est souvent un talent pour donner à un idéal un premier pas pratique. L’envie d’aider devient un planning ; l’amour de la musique, une heure d’exercice par jour ; une aspiration floue, un projet daté. L’inverse marche aussi : une routine que vous feriez les yeux fermés trouve une raison qui lui donne du prix. L’occasion demande pourtant de s’engager. Un sextile ne pousse pas, il attend, et un potentiel n’est pas encore une réalisation.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 15 née entre 1930 et 2009 porte ce sextile, à 6° près, en quatre vagues : par intermittence d’août 1946 à mai 1948, de janvier 1959 à novembre 1960, de novembre 1981 à septembre 1983, et d’avril 1995 à février 1997. Chaque vague appartient à toutes les personnes nées pendant sa durée : je le lis donc comme un aspect de génération, que les maisons rendent personnel. Les vagues suivent le cycle de la paire : un sextile avant chaque rencontre des deux planètes, en 1952–1953 et en 1989, et un autre après.
+Environ 1 personne sur 15 née entre 1930 et 2009 porte ce sextile, à 6° près, le plus fréquent des aspects Saturne–Neptune, en quatre vagues : par intermittence d’août 1946 à mai 1948, de janvier 1959 à novembre 1960, de novembre 1981 à septembre 1983, et d’avril 1995 à février 1997. Chaque vague appartient à toutes les naissances de sa durée : je le lis donc comme un aspect de génération, que les maisons rendent personnel. Les vagues suivent le cycle de la paire : un sextile avant chaque rencontre des deux planètes, en 1952–1953 et en 1989, et un autre après.
 
 Un sextile relie en général des éléments compatibles, le feu et l’air, ou la terre et l’eau. En 1959–1960, il joignait Saturne en Capricorne, son propre signe, à Neptune en Scorpion : une structure de terre, une imagination d’eau. Les maisons montrent où s’ouvre la porte ; Saturne en maison 10 sextile Neptune en maison 12, par exemple, pourrait faire d’un service discret toute une vie de travail. Les contacts avec votre Soleil, votre Lune ou vos angles l’amplifient, et tout cela demande l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). C’est Saturne qui avançait, et ses rétrogradations ont coupé chaque vague en deux.
 
-Les autres aspects de la paire, pour comparer :
+Où se situe ce sextile parmi les aspects de la paire :
 
 - **[Saturne conjonction Neptune](/astrology/saturn-conjunct-neptune/) :** 1952–1953 ou 1988–1990 ; le rêve et la structure fondus ensemble.
 - **[Saturne carré Neptune](/astrology/saturn-square-neptune/) :** 1943–1945, 1962–1964, 1978–1980 ou 1998–1999 ; là où le sextile propose, le carré insiste.

@@ -61,4 +61,4 @@ Entre deux thèmes, [Jupiter conjonction Chiron en synastrie](/astrology/jupiter
 
 Jupiter, de son côté, passe sur Chiron du thème natal à chaque tour, soit tous les douze ans, le temps de quelques semaines : une visite plus légère, où le sens et la sensibilité se retrouvent.
 
-Une météo, pas une prédiction : aucun de ces transits ne dit ce qu’il adviendra du point sensible ; ils le mettent seulement dans la même pièce que votre sens de ce qui compte.
+Aucun de ces transits ne dit ce qu’il adviendra du point sensible : c’est une météo, pas une prédiction, qui le met seulement dans la même pièce que votre sens de ce qui compte.

@@ -53,10 +53,10 @@ Les autres aspects de Jupiter au Nœud Nord placent le sens autrement sur l’ax
 - **[Jupiter trigone Nœud Nord](/astrology/jupiter-trine-north-node/) :** le sens coule vers la capacité moins familière, avec un sextile facile vers le Nœud Sud.
 - **[Jupiter opposition Nœud Nord](/astrology/jupiter-opposite-north-node/) :** Jupiter se tient sur le Nœud Sud, et ses dons appartiennent à ce qui vient facilement ; grandir demande de les porter de l’autre côté.
 
-Quand Jupiter, dans un thème, tombe sur le Nœud Nord de l’autre, comme dans [Jupiter conjonction Nœud Nord en synastrie](/astrology/jupiter-conjunct-north-node-synastry/), l’encouragement arrive droit sur la direction que l’autre personne pratique. C’est généreux, parfois un peu insistant ; je le lis des deux côtés.
+Quand Jupiter, dans un thème, tombe sur le Nœud Nord de l’autre, comme dans [Jupiter conjonction Nœud Nord en synastrie](/astrology/jupiter-conjunct-north-node-synastry/), l’encouragement arrive droit sur la direction que l’autre personne pratique. C’est généreux, parfois un peu insistant, et pas toujours vécu de la même façon par la personne qui le reçoit.
 
 ## En transit {#en-transit}
 
 [Nœud Nord en transit conjonction Jupiter du thème natal](/astrology/transiting-north-node-conjunct-natal-jupiter/) revient une fois par cycle nodal de 18,6 ans et dure un mois ou deux, puisque le nœud met environ 18 mois à traverser un signe. Si cette conjonction est dans votre thème, vous la retrouvez à chaque [retour nodal](/astrology/nodal-return/), vers 18 ans et demi, 37 et 56 ans ; à mi-chemin, à l’[inversion nodale](/astrology/nodal-reversal/), c’est le Nœud Sud qui passe sur votre Jupiter. Jupiter, de son côté, croise votre Nœud Nord de naissance lors de chacun de ses retours, une fois par douzaine d’années.
 
-Une météo, pas une prédiction : ces moments ramènent la question de la direction au premier plan, et vous laissent la pratique.
+Je prends ces moments pour une météo, pas pour une prédiction : ils ramènent la question de la direction au premier plan et vous laissent la pratique.

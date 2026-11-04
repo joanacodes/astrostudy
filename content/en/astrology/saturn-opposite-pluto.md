@@ -1,7 +1,7 @@
 ---
 title: "Saturn opposite Pluto"
 h1: "Saturn opposite Pluto in a birth chart"
-description: "Saturn opposite Pluto in a birth chart: keeping and letting go face to face, for births of 1930–32, 1965–67 and 2001–03. Your houses, and its transits."
+description: "Saturn opposite Pluto in a birth chart: keeping and letting go face to face, for births of 1930–32, 1965–67 and 2001–03. Its houses and its transits."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/pluto", "/astrology/opposition", "/astrology/saturn-opposite-pluto-synastry", "/astrology/saturn-squares-and-opposition"]
 faq:
   - q: "Who has Saturn opposite Pluto in their birth chart?"
-    a: "Counting within 6°, people born on and off from March 1930 to November 1932, from March 1965 to January 1967, and from June 2001 to April 2003. The first run began in the year Pluto was discovered. Nobody else born between 1930 and 2009 has it."
+    a: "Counting within 6°, people born on and off from March 1930 to November 1932, from March 1965 to January 1967, and from June 2001 to April 2003. The first run began in the year Pluto was discovered. No other births between 1930 and 2009 have it."
   - q: "Is Saturn opposite Pluto about power struggles?"
     a: "It can show that way, especially early on, when one end gets handed to someone else. But an opposition is polarity, not enmity. Over time it tends to teach balance: holding authority responsibly, and letting go of control when something needs to change."
   - q: "What transits bring Saturn opposite Pluto back?"
@@ -33,17 +33,17 @@ Saturn opposite Pluto holds keeping and letting go at the two ends of one line. 
 
 ## What it means {#what-it-means}
 
-[Saturn](/astrology/saturn/) establishes structure: authority, responsibility, the rules and roles that keep things in place. [Pluto](/astrology/pluto/) enables transformation: it removes what has become obsolete and returns a deeper strength. An [opposition](/astrology/opposition/) relates them through polarity: each keeps its identity, and each makes the other unmistakable. Facing a change, you feel the weight of what you'd lose; holding on, you feel the pull of what wants to end.
+[Saturn](/astrology/saturn/) is structure in a chart: authority, responsibility, the rules and roles that keep things in place. [Pluto](/astrology/pluto/) stands for transformation: it removes what has become obsolete and returns a deeper strength. Across an [opposition](/astrology/opposition/) they form a polarity: each keeps its identity, and each makes the other unmistakable. Facing a change, you feel the weight of what you'd lose; holding on, you feel the pull of what wants to end.
 
 The two halves are often met in other people first: an institution that won't move and a person who must, an authority you push against, or a situation where you hold the structure while someone else carries the change. Empowerment isn't domination, and polarity isn't a fight. Over time this opposition tends to teach a hard-won balance: using authority to protect what matters, and letting go of control when renewal is due.
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 1 person in 22 born between 1930 and 2009 has this opposition within 6°, in three runs: on and off from March 1930 to November 1932, from March 1965 to January 1967, and from June 2001 to April 2003. Everyone born in those months shares it, so it's a generation's aspect, personal only through its houses ([what changes without a birth time](/blog/unknown-birth-time/)).
+Counting within 6°, about 1 person in 22 born between 1930 and 2009 has the opposition, in three runs: on and off from March 1930 to November 1932, from March 1965 to January 1967, and from June 2001 to April 2003. Because everyone born in those months shares it, it's a generation's aspect, personal only through its houses ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 The first run began in March 1930, the year Pluto was discovered, with Saturn in Capricorn, its own sign, facing Pluto in Cancer. In the second, Saturn in Pisces faced Pluto in Virgo, and many of those births also have Saturn opposite Uranus, since Uranus and Pluto were meeting then ([Uranus conjunct Pluto](/astrology/uranus-conjunct-pluto/)). In the third, Saturn in Gemini faced Pluto in Sagittarius. An opposition spans two opposite houses: across the 4th and 10th, the duties of home against changes in your public life; across the 5th and 11th, what you create on your own against what a group wants to transform. Saturn is the faster of the two, and its retrograde loops split each run.
 
-The pair's other aspects:
+Saturn and Pluto's four other angles:
 
 - **[Saturn conjunct Pluto](/astrology/saturn-conjunct-pluto/):** 1946–48 or 1981–83; both ends gathered into one point.
 - **[Saturn sextile Pluto](/astrology/saturn-sextile-pluto/):** 1942–43, 1952–53, 1976–77 or 1989–90; cooperation offered rather than a balance demanded.
@@ -56,4 +56,4 @@ Between two charts, [Saturn opposite Pluto in synastry](/astrology/saturn-opposi
 
 [Transiting Saturn opposite natal Pluto](/astrology/transiting-saturn-opposite-natal-pluto/) comes once in each 29½-year round and lasts from weeks to months. [Transiting Pluto opposite natal Saturn](/astrology/transiting-pluto-opposite-natal-saturn/) is rare, because Pluto needs about 248 years to go round; when it comes, it stays two years or more.
 
-Born with the opposition, you meet it twice in each round of Saturn. Saturn's own opposition, at about 14–15 and 44 ([Saturn squares and opposition](/astrology/saturn-squares-and-opposition/)), brings Saturn onto your natal Pluto, and each [Saturn return](/astrology/saturn-return/) sets it opposite Pluto again. They are weather, not a forecast: seasons for re-balancing control and change, not predictions of what you'll keep or lose.
+Born with the opposition, you meet it twice in each round of Saturn. When Saturn reaches the far side of its own cycle, at about 14–15 and 44 ([Saturn squares and opposition](/astrology/saturn-squares-and-opposition/)), it crosses your natal Pluto, and each [Saturn return](/astrology/saturn-return/) sets it opposite Pluto again. None of this is a forecast; it's weather: seasons for re-balancing control and change, not predictions of what you'll keep or lose.

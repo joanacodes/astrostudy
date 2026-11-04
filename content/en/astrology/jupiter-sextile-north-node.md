@@ -52,7 +52,7 @@ The pair's other aspects shift Jupiter along the axis:
 - **[Jupiter trine North Node](/astrology/jupiter-trine-north-node/):** this aspect's mirror, trine the North Node and sextile the South, with a stronger push towards the new.
 - **[Jupiter opposite North Node](/astrology/jupiter-opposite-north-node/):** on the South Node, with Jupiter's gifts at the familiar end.
 
-Between two charts, [Jupiter sextile North Node in synastry](/astrology/jupiter-sextile-north-node-synastry/) lets one person's Jupiter offer the other a helpful nudge towards their growth, without pressure. I read it from both sides.
+Between two charts, [Jupiter sextile North Node in synastry](/astrology/jupiter-sextile-north-node-synastry/) lets one person's Jupiter offer the other a helpful nudge towards their growth, without pressure, though the nudge can feel different from the other side.
 
 ## In transits {#in-transits}
 

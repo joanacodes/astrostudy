@@ -33,13 +33,13 @@ La rencontre d’Uranus et de Chiron n’a jamais eu lieu sur les quatre-vingts 
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Uranus](/astrology/uranus/) permet l’innovation, la différenciation et la libération : c’est la part du thème qui tient à sa propre façon de faire, et qui réforme les systèmes qui n’y laissent aucune place. [Chiron](/astrology/chiron/) marque un point sensible, une limite que l’on rencontre sans cesse, et le savoir-faire qui se construit en s’adaptant autour d’elle : une méthode nouvelle, un autre outil, un cadre arrangé pour pouvoir prendre part. Dans une [conjonction](/astrology/conjunction/), deux fonctions agissent comme une seule, et chacune garde son identité.
+[Uranus](/astrology/uranus/) permet l’innovation, la différenciation et la libération : c’est la part du thème qui tient à sa propre façon de faire, et qui réforme les systèmes qui n’y laissent aucune place. [Chiron](/astrology/chiron/) marque un point sensible, une limite que l’on rencontre sans cesse, et le savoir-faire qui se construit en s’adaptant autour d’elle : une méthode nouvelle, un autre outil, un cadre arrangé pour pouvoir prendre part. Une [conjonction](/astrology/conjunction/) fond deux fonctions en un seul mouvement sans effacer ni l’une ni l’autre.
 
 Fondues ensemble, ces deux fonctions rendraient votre différence et votre point sensible difficiles à distinguer. Votre façon de vous distinguer pourrait être justement ce qui vous expose, et le savoir-faire serait inventif : trouver votre propre chemin autour d’une limite, ou changer l’arrangement pour que cette limite cesse de vous exclure, vous et d’autres. Aucune des deux n’avalerait l’autre : la limite ne disparaîtrait pas parce qu’Uranus veut la liberté, et la liberté ne rétrécirait pas pour tenir dans la limite. Se différencier n’est pas s’aliéner, et l’autonomie n’est pas l’isolement : cette rencontre demanderait les deux leçons à la fois.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le décompte n’a trouvé aucune naissance avec cette conjonction. Sur les quatre-vingts ans, la paire a formé tous les autres aspects majeurs : un sextile, un carré et un trigone coup sur coup à la fin des années 1930 et dans les années 1940, une longue opposition de 1951 à 1990, puis de nouveau un trigone, un carré et un sextile dans les années 1990. La rencontre tombe en dehors, des deux côtés. Chiron a été découvert en 1977, mais ses positions antérieures se calculent d’après son orbite, et le décompte les a utilisées comme les autres.
+Pas une seule naissance du décompte ne porte cette conjonction. Sur les quatre-vingts ans, la paire a formé tous les autres aspects majeurs : un sextile, un carré et un trigone coup sur coup à la fin des années 1930 et dans les années 1940, une longue opposition de 1951 à 1990, puis de nouveau un trigone, un carré et un sextile dans les années 1990. La rencontre tombe en dehors, des deux côtés. Chiron a été découvert en 1977, mais ses positions antérieures se calculent d’après son orbite, et le décompte les a utilisées comme les autres.
 
 Les autres aspects de la paire, avec les naissances qui les portent :
 

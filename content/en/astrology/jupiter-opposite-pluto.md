@@ -52,7 +52,7 @@ The other angles between Jupiter and Pluto:
 - **[Jupiter square Pluto](/astrology/jupiter-square-pluto/):** they cross at right angles, and the friction stays inside you rather than between you and others.
 - **[Jupiter trine Pluto](/astrology/jupiter-trine-pluto/):** they share an element and help each other without a go-between.
 
-With [Jupiter opposite Pluto in synastry](/astrology/jupiter-opposite-pluto-synastry/), one person stands at the breadth end and the other at the depth end, across the two charts. That can be a rich exchange or a tiring tug, depending on whether both are willing to learn the other's end; I read it from both sides.
+With [Jupiter opposite Pluto in synastry](/astrology/jupiter-opposite-pluto-synastry/), one person stands at the breadth end and the other at the depth end, across the two charts. That can be a rich exchange or a tiring tug, depending on whether both are willing to learn the other's end, which is why each side gets its own reading.
 
 ## In transits {#in-transits}
 

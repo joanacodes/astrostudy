@@ -50,7 +50,7 @@ Les autres aspects de la paire :
 - **[Uranus carré Chiron](/astrology/uranus-square-chiron/) :** de 1942 à 1944, et de 1996 à 1998 ; le changement qui appuie sur le point sensible.
 - **[Uranus opposition Chiron](/astrology/uranus-opposite-chiron/) :** par intermittence de 1951 à 1990 ; de loin l’aspect le plus fréquent de la paire.
 
-Avec [Uranus trigone Chiron en synastrie](/astrology/uranus-trine-chiron-synastry/), l’originalité de l’une des deux personnes peut soulager le point sensible de l’autre presque sans effort, ce qui le rend facile à sous-estimer. Je le lis dans les deux sens.
+Avec [Uranus trigone Chiron en synastrie](/astrology/uranus-trine-chiron-synastry/), l’originalité de l’une des deux personnes peut soulager le point sensible de l’autre presque sans effort, ce qui le rend facile à sous-estimer. Je le lis d’un côté comme de l’autre.
 
 ## En transit {#en-transit}
 

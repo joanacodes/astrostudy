@@ -34,13 +34,13 @@ Saturne conjonction Chiron place au même endroit les limites qu’on vous deman
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Saturne](/astrology/saturn/) établit la structure : les limites, la responsabilité, la discipline, la vision longue. [Chiron](/astrology/chiron/), un petit corps qui orbite entre Saturne et Uranus, marque une difficulté persistante et les adaptations construites autour : un rythme changé, un autre outil, une compétence développée pour compenser une inégalité. Dans une [conjonction](/astrology/conjunction/), les deux fonctions agissent comme une seule, et chacune garde son identité : la structure et le contournement arrivent ensemble.
+[Saturne](/astrology/saturn/) pose le cadre : les limites, la responsabilité, la discipline, la vision longue. [Chiron](/astrology/chiron/), un petit corps qui orbite entre Saturne et Uranus, marque une difficulté persistante et les adaptations construites autour : un rythme changé, un autre outil, une compétence développée pour compenser une inégalité. Une [conjonction](/astrology/conjunction/) fait agir les deux fonctions comme une seule, sans qu’aucune se perde : la structure et le contournement arrivent ensemble.
 
 Concrètement, l’endroit où la limite se fait le plus sentir est aussi celui où vous devenez le plus méthodique. Vous avez peut-être appris tôt que la façon habituelle ne marchait pas pour vous, et construit lentement une façon qui marche : une routine, une pratique, des règles à vous. Cela peut peser, comme si la difficulté et le devoir ne faisaient qu’un. Ce n’est pas le cas. La conjonction vous demande de séparer la limite de votre valeur, et de laisser la structure servir l’adaptation au lieu de la cacher. Avec le temps, elle fait souvent de vous quelqu’un qui enseigne avec patience ce qui a été le plus difficile.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 56 née entre 1930 et 2009 porte cette conjonction, à 6° près, et toutes sont nées dans deux périodes : de mai à août 1965, puis de janvier 1966 à mars 1967, les deux corps en Poissons. Toutes les personnes nées ces mois-là la partagent : c’est un aspect de génération, qui devient personnel par sa maison ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Chiron s’attarde environ huit ans en Poissons, l’un de ses signes les plus lents, et Saturne, qui traversait ce signe au milieu des années 1960, l’a rattrapé puis dépassé.
+Seule environ 1 personne sur 56 née entre 1930 et 2009 porte cette conjonction, à 6° près, et toutes viennent de deux périodes : de mai à août 1965, puis de janvier 1966 à mars 1967, les deux corps en Poissons. Une petite génération la porte en commun, et c’est sa maison qui la rend personnelle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Chiron s’attarde environ huit ans en Poissons, l’un de ses signes les plus lents, et Saturne, qui traversait ce signe au milieu des années 1960, l’a rattrapé puis dépassé.
 
 Beaucoup des mêmes naissances ont aussi Saturne opposition Uranus et Saturne opposition Pluton, puisque Uranus et Pluton se rencontraient en Vierge, de l’autre côté du ciel ([Uranus conjonction Pluton](/astrology/uranus-conjunct-pluto/)) : le travail d’adaptation autour d’une limite y rencontre la poussée de toute une génération vers le changement et le renouveau. En maison 6, la conjonction pourrait organiser une vie de travail autour d’une routine bien pensée ; en maison 10, une carrière qui fait de la place aux limites des autres autant qu’aux vôtres.
 
@@ -51,10 +51,10 @@ Les autres aspects de la paire, avec leurs naissances :
 - **[Saturne trigone Chiron](/astrology/saturn-trine-chiron/) :** 1930–1932 ou 1977–1980 ; la discipline et l’adaptation au même pas.
 - **[Saturne opposition Chiron](/astrology/saturn-opposite-chiron/) :** par intermittence de 1985 à 1997, et 2002–2007 ; la limite et le contournement face à face.
 
-Entre deux thèmes, [Saturne conjonction Chiron en synastrie](/astrology/saturn-conjunct-chiron-synastry/) pose la structure de l’une des deux personnes sur le point sensible de l’autre. Selon la façon d’y répondre, ce contact peut soutenir ou exiger beaucoup, et je le lis dans les deux sens.
+Entre deux thèmes, [Saturne conjonction Chiron en synastrie](/astrology/saturn-conjunct-chiron-synastry/) pose la structure de l’une des deux personnes sur le point sensible de l’autre. Selon la façon d’y répondre, ce contact peut soutenir ou exiger beaucoup, et je le regarde de chaque côté.
 
 ## En transit {#en-transit}
 
 [Chiron en transit conjonction Saturne du thème natal](/astrology/transiting-chiron-conjunct-natal-saturn/) arrive environ une fois par tour de Chiron, qui dure une cinquantaine d’années : vite là où Chiron va vite, lentement là où il s’attarde. Saturne, de son côté, repasse sur Chiron du thème natal tous les 29 ans et demi environ.
 
-Si votre naissance tombe pendant la conjonction, les deux suivent un calendrier fixe. Chaque [retour de Saturne](/astrology/saturn-return/), vers 27–30 ans puis 58–60 ans, ramène Saturne sur votre Chiron, et le [retour de Chiron](/astrology/chiron-return/), vers 50 ans, ramène Chiron sur votre Saturne. Une météo, pas une prédiction : des saisons pour revoir la méthode que vous avez bâtie, et peut-être pour la transmettre.
+Si votre naissance tombe pendant la conjonction, les deux suivent un calendrier fixe. Chaque [retour de Saturne](/astrology/saturn-return/), vers 27–30 ans puis 58–60 ans, ramène Saturne sur votre Chiron, et le [retour de Chiron](/astrology/chiron-return/), vers 50 ans, ramène Chiron sur votre Saturne. Pas de prédiction ici, seulement une météo : des saisons pour revoir la méthode que vous avez bâtie, et peut-être pour la transmettre.

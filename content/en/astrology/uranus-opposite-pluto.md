@@ -38,7 +38,7 @@ Here the polarity would run between sudden change and deep change. One end wants
 
 ## In a birth chart {#in-a-birth-chart}
 
-The count has no birth with it. Its periods for this pair tell the story instead: a square in the early 1930s, with Uranus about 90° behind Pluto; the meeting in Virgo from 1963 to 1968; the sextile of the 1990s as Uranus moved ahead; and in 2009, a square once more. The opposition is the far point of that cycle, before the count on one side and long after it on the other.
+No birth in the eighty years has it. The count's periods for this pair tell the story instead: a square in the early 1930s, with Uranus about 90° behind Pluto; the meeting in Virgo from 1963 to 1968; the sextile of the 1990s as Uranus moved ahead; and in 2009, a square once more. The opposition is the far point of that cycle, before the count on one side and long after it on the other.
 
 So if you were born in those years, the pair's story in your chart is told by one of the other aspects, or by none:
 

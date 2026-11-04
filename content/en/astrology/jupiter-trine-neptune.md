@@ -52,7 +52,7 @@ Jupiter's other aspects to Neptune set belief and imagination at other distances
 - **[Jupiter square Neptune](/astrology/jupiter-square-neptune/):** meaning and imagination rub, and every ideal is tested against what is.
 - **[Jupiter opposite Neptune](/astrology/jupiter-opposite-neptune/):** the vision sits across the chart, often met in other people, and asks for balance.
 
-Between two charts, [Jupiter trine Neptune in synastry](/astrology/jupiter-trine-neptune-synastry/) lets one person's sense of meaning and the other's imagination encourage each other. I read it from both sides: inspiring someone and being inspired by them are different seats.
+Between two charts, [Jupiter trine Neptune in synastry](/astrology/jupiter-trine-neptune-synastry/) lets one person's sense of meaning and the other's imagination encourage each other. Inspiring someone and being inspired by them are different seats, so I look at both.
 
 ## In transits {#in-transits}
 
@@ -60,4 +60,4 @@ Between two charts, [Jupiter trine Neptune in synastry](/astrology/jupiter-trine
 
 [Transiting Neptune trine natal Jupiter](/astrology/transiting-neptune-trine-natal-jupiter/) works on another scale. Neptune spends about 14 years in a sign, so it can hover near the trine for a year or two, in several passes, at an age that depends entirely on where it stood when you were born.
 
-Weather, not a forecast: both describe a season when inspiration and understanding feed each other more easily. They don't say what you'll make of it.
+Think of both as weather, not a forecast: for a while, inspiration and understanding feed each other more easily. They don't say what you'll make of it.

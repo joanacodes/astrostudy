@@ -58,4 +58,4 @@ Between two charts, [Jupiter sextile Chiron in synastry](/astrology/jupiter-sext
 
 [Transiting Chiron sextile natal Jupiter](/astrology/transiting-chiron-sextile-natal-jupiter/) comes when Chiron, on its long round, reaches 60° from your Jupiter: a few times in a life, at ages that differ widely from one generation to the next because of its uneven speed. It lingers for months, sometimes in several passes. Jupiter returns the favour more often, sextiling your natal Chiron twice in each Jupiter cycle, a few weeks at a time.
 
-Weather, not a forecast: both describe an opening around the tender spot, and leave you free to take it or not.
+They're weather, not a forecast: an opening around the tender spot that you're free to take or leave.

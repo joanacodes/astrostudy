@@ -59,4 +59,4 @@ Entre deux thèmes, avec [Jupiter sextile Chiron en synastrie](/astrology/jupite
 
 [Chiron en transit sextile Jupiter du thème natal](/astrology/transiting-chiron-sextile-natal-jupiter/) arrive quand Chiron, sur son long tour, atteint 60° de votre Jupiter : quelques fois dans une vie, à des âges très différents d’une génération à l’autre, à cause de son allure inégale. Ce transit s’attarde des mois, parfois en plusieurs passages. Jupiter rend la pareille plus souvent, en formant un sextile avec Chiron du thème natal deux fois tous les 12 ans, quelques semaines chaque fois.
 
-Une météo, pas une prédiction : les deux décrivent une ouverture autour du point sensible, et vous laissent libre de la prendre ou non.
+Il s’agit d’une météo, pas d’une prédiction : une ouverture autour du point sensible, que vous êtes libre de prendre ou non.

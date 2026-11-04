@@ -1,7 +1,7 @@
 ---
 title: "Saturn square Lilith"
 h1: "Saturn square Lilith in a birth chart"
-description: "Saturn square Lilith in a birth chart: friction between the rules and your untamed side, learning which rules are yours. How common it is, and its transits."
+description: "Saturn square Lilith in a birth chart: friction between the rules and your untamed side, learning which rules are yours. Its count, and its transits."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -32,7 +32,7 @@ Saturn square Lilith sets the rules you live by at right angles to the part of y
 
 ## What it means {#what-it-means}
 
-[Saturn](/astrology/saturn/) establishes structure: authority, responsibility, the discipline of keeping commitments. [Black Moon Lilith](/astrology/black-moon-lilith/), the Moon's mean apogee, is read, symbolically and with different emphasis in different traditions, as instinctive autonomy, the material you were taught to hide, and personal boundaries drawn by instinct. A [square](/astrology/square/) relates them through constructive friction: authority presses on autonomy, autonomy pushes back, and neither is allowed to win outright.
+[Saturn](/astrology/saturn/) represents authority: structure, responsibility, the discipline of keeping commitments. [Black Moon Lilith](/astrology/black-moon-lilith/), the Moon's mean apogee, is read, symbolically and with different emphasis in different traditions, as instinctive autonomy, the material you were taught to hide, and personal boundaries drawn by instinct. A [square](/astrology/square/) turns their meeting into constructive friction: authority presses on autonomy, autonomy pushes back, and neither is allowed to win outright.
 
 Lived, it can feel like a running argument with authority, inside you as much as outside. You might comply and resent it, or refuse and then over-correct with rules of your own; a manager, a family code or your own inner critic can play Saturn's part. Challenge isn't punishment, though, and friction isn't failure. This square trains a particular strength: telling a rule that protects something from a rule that only keeps you small, and keeping the first kind without apology.
 
@@ -49,8 +49,8 @@ The pair's other aspects, for comparison:
 - **[Saturn trine Lilith](/astrology/saturn-trine-lilith/):** self-rule and duty agreeing without a fight.
 - **[Saturn opposite Lilith](/astrology/saturn-opposite-lilith/):** the argument turned into a face-to-face, often with someone else.
 
-Between two charts, [Saturn square Lilith in synastry](/astrology/saturn-square-lilith-synastry/) can make one person feel like the other's rule-book, and the other like their rebellion. With care, that tension teaches both a great deal; I read it from each side.
+Between two charts, [Saturn square Lilith in synastry](/astrology/saturn-square-lilith-synastry/) can make one person feel like the other's rule-book, and the other like their rebellion. With care, that tension teaches both a great deal; I read it from each person's chart.
 
 ## In transits {#in-transits}
 
-In [transits](/astrology/transits/), this square has a double rhythm. Mean Lilith squares natal Saturn twice in its round of about 8 years and 10 months, a few weeks each time; born with the square, you get it back both at each Lilith return and halfway between, since either way Lilith ends up 90° from your Saturn. Saturn's own squares to its birth place, at about 7, 21–22, 36–37 and 51 ([Saturn squares and opposition](/astrology/saturn-squares-and-opposition/)), bring Saturn onto your natal Lilith or opposite it. Weather, not a forecast: short seasons for renegotiating a rule.
+In [transits](/astrology/transits/), this square has a double rhythm. Mean Lilith squares natal Saturn twice in its round of about 8 years and 10 months, a few weeks each time; born with the square, you get it back both at each Lilith return and halfway between, since either way Lilith ends up 90° from your Saturn. Saturn adds its own rhythm: at its squares to its birth place, about 7, 21–22, 36–37 and 51 ([Saturn squares and opposition](/astrology/saturn-squares-and-opposition/)), it reaches your natal Lilith or the point across from it. Each pass is weather, not a forecast: a short season for renegotiating a rule.

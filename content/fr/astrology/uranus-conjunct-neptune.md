@@ -34,7 +34,7 @@ Uranus conjonction Neptune, c’est le ciel du début et du milieu des années 1
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Uranus](/astrology/uranus/) permet l’innovation, la différenciation et le changement des systèmes entiers : c’est la part du thème qui essaie ce qui n’a jamais été essayé et libère ce qui est devenu trop étroit. [Neptune](/astrology/neptune/) permet l’imagination, la compassion et la perception des symboles : c’est la part qui dissout les frontières devenues inutiles et pressent des sens plus vastes qu’une seule vie. Dans une [conjonction](/astrology/conjunction/), deux fonctions agissent comme une seule, et chacune garde son identité.
+[Uranus](/astrology/uranus/) permet l’innovation, la différenciation et le changement des systèmes entiers : c’est la part du thème qui essaie ce qui n’a jamais été essayé et libère ce qui est devenu trop étroit. [Neptune](/astrology/neptune/) permet l’imagination, la compassion et la perception des symboles : c’est la part qui dissout les frontières devenues inutiles et pressent des sens plus vastes qu’une seule vie. Réunies par une [conjonction](/astrology/conjunction/), deux fonctions travaillent comme une seule, sans qu’aucune perde son identité.
 
 Fondues ensemble, elles donnent à l’imaginaire un tranchant pratique. La vision ne reste pas un rêve, et l’invention ne reste pas un gadget : chacune réclame l’autre. J’y lis l’envie d’imaginer de nouveaux systèmes, et de bâtir des systèmes qui laissent de la place à ce qui ne se mesure pas. Idéaux et expériences arrivent ensemble, parfois plus vite que vous ne pouvez les distinguer.
 

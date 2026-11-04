@@ -60,4 +60,4 @@ Between two charts, [Jupiter conjunct Pluto in synastry](/astrology/jupiter-conj
 
 [Transiting Jupiter conjunct natal Pluto](/astrology/transiting-jupiter-conjunct-natal-pluto/) comes about every 12 years, as Jupiter passes your Pluto: a few weeks within a degree or so, or three passes spread over several months if Jupiter turns retrograde there. [Transiting Pluto conjunct natal Jupiter](/astrology/transiting-pluto-conjunct-natal-jupiter/) is rarer and slower: Pluto takes 12 to 31 years to cross a sign and can stay within reach of your Jupiter for a year or two. Born with the conjunction, you had that one at the start. Pluto was already beside your Jupiter, drifts away in your first years and doesn't return within a lifetime.
 
-Weather, not a forecast: each describes a season when growth asks to go deeper and depth asks for room. Neither tells you what will change.
+Each is weather, not a forecast, describing a season when growth asks to go deeper and depth asks for room. Neither tells you what will change.

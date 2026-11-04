@@ -2,7 +2,7 @@
 title: "Saturne conjonction Neptune"
 slug: "saturne-conjonction-neptune"
 h1: "Saturne conjonction Neptune dans un thème natal"
-description: "Saturne conjonction Neptune dans un thème natal : les rencontres de 1952–53 en Balance et de 1989 en Capricorne, qui la porte, vos maisons et ses transits."
+description: "Saturne conjonction Neptune dans un thème natal : les rencontres de 1952–53 en Balance et de 1989 en Capricorne, qui la porte, sa maison, ses transits."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -42,7 +42,7 @@ Une fusion n’est pas une perte d’identité. Saturne n’empêche pas Neptune
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 36 née entre 1930 et 2009 porte cette conjonction, à 6° près, et toutes sont nées dans deux périodes : de septembre 1952 à octobre 1953, les deux planètes en Balance, et de décembre 1988 à janvier 1990, les deux en Capricorne. C’est donc un aspect de génération plus qu’un aspect personnel : sa maison et ses contacts avec votre Soleil, votre Lune ou vos angles le rendent vôtre ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+À 6° près, la conjonction appartient à environ 1 personne sur 36 née entre 1930 et 2009, toutes nées dans deux périodes : de septembre 1952 à octobre 1953, les deux planètes en Balance, et de décembre 1988 à janvier 1990, les deux en Capricorne. Une cohorte entière la partage : elle décrit une génération avant de vous décrire ; sa maison et ses contacts avec votre Soleil, votre Lune ou vos angles le rendent vôtre ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Ces deux signes conviennent à Saturne. La tradition y place son exaltation, en Balance, et son domicile, en Capricorne : les deux fois, le côté structure était bien placé. En Balance, la structure penche vers la justice et les accords, un rêve d’équilibre doté de règles ; en [Capricorne](/astrology/capricorn/), vers les institutions et le travail au long cours, un rêve doté d’une échelle. J’y vois une différence de style, pas de valeur.
 
@@ -61,4 +61,4 @@ Entre deux thèmes, [Saturne conjonction Neptune en synastrie](/astrology/saturn
 
 [Saturne en transit conjonction Neptune du thème natal](/astrology/transiting-saturn-conjunct-natal-neptune/) revient tous les 29 ans et demi environ et peut durer plusieurs mois, en plusieurs passages. [Neptune en transit conjonction Saturne du thème natal](/astrology/transiting-neptune-conjunct-natal-saturn/) est bien plus rare : Neptune reste environ 14 ans dans un signe, met quelque 165 ans à faire le tour du zodiaque, et s’attarde deux ans environ près du degré exact.
 
-Si votre naissance tombe pendant la conjonction, la version de Saturne revient à chaque [retour de Saturne](/astrology/saturn-return/), entre 27 et 30 ans environ puis vers 58–60 ans, quand Saturne regagne le point de rencontre. Neptune, déjà tout près de votre Saturne à la naissance, s’en éloigne dans vos premières années et n’y revient pas au cours d’une vie. J’y vois une météo, pas une prédiction : une saison pour donner sa forme à un rêve, ou pour rendre son rêve à une forme, jamais l’annonce de ce que ce sera.
+Si votre naissance tombe pendant la conjonction, la version de Saturne revient à chaque [retour de Saturne](/astrology/saturn-return/), à la fin de la vingtaine puis vers 60 ans, quand Saturne regagne le point de rencontre. Neptune, déjà tout près de votre Saturne à la naissance, s’en éloigne dans vos premières années et n’y revient pas au cours d’une vie. J’y vois une météo, pas une prédiction : une saison pour donner sa forme à un rêve, ou pour rendre son rêve à une forme, jamais l’annonce de ce que ce sera.

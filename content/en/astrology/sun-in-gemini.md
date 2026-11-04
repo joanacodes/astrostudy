@@ -28,23 +28,23 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the Sun stays in Gemini, and how many people born 1930–2009 have it" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-A Gemini Sun is rarely one thing, and it rarely needs to be. The Sun was in mutable air when you were born, in the sign Mercury rules, and I read it as a self organised the way a good conversation is: several voices, one thread, and the thread is the work.
+A Gemini Sun is rarely one thing, and it rarely needs to be. The Sun was in mutable air when you were born, in the sign Mercury rules, and the self it describes is organised the way a good conversation is: several voices, one thread, and the thread is the work.
 
 ## In a birth chart {#in-a-birth-chart}
 
-The [Sun](/astrology/sun/) organises a chart's identity, vitality and purpose, and part of that job is integration, bringing the different parts of you into one coherent whole. [Gemini](/astrology/gemini/), mutable air, makes integration the main event. Your interests, roles and moods may genuinely differ, and this Sun doesn't ask you to drop any of them; it asks you to find what links them. Many people with it discover what they think by saying it, writing it or arguing it through, and an idea only feels real once it has been exchanged.
+Alongside identity, vitality and purpose, part of the [Sun](/astrology/sun/)'s job in a chart is integration: bringing the different parts of you into one coherent whole. [Gemini](/astrology/gemini/), mutable air, makes integration the main event. Your interests, roles and moods may genuinely differ, and this Sun doesn't ask you to drop any of them; it asks you to find what links them. Many people with it discover what they think by saying it, writing it or arguing it through, and an idea only feels real once it has been exchanged.
 
 [Mercury](/astrology/mercury/) rules Gemini, and since Mercury never strays more than about 28° from the Sun, with a Gemini Sun it can only be in Taurus, Gemini or Cancer. That one detail changes a lot. With Mercury in Taurus, a slower, more deliberate mind serves a quick self; in Gemini, ruler and Sun share a sign and speak with one voice; in Cancer, memory and feeling steer the thinking. I always read this Sun alongside its Mercury, and especially closely when the two are joined in a [Sun conjunct Mercury](/astrology/sun-conjunct-mercury/).
 
-The Sun has no dignity in Gemini. It spends about 31 days there, sometimes 32, from about 21 May to 20 June, which puts about 1 person in 12 under it; born at either edge, you need your [birth time](/blog/unknown-birth-time/) to settle the sign.
+Tradition gives the Sun neither honour nor handicap in Gemini. It spends about 31 days there, sometimes 32, from about 21 May to 20 June, which puts about 1 person in 12 under it; born at either edge, only your [birth time](/blog/unknown-birth-time/) can settle the sign.
 
 ## In close relationships {#in-close-relationships}
 
-In love, you come alive in conversation. Messages, long talks, a shared joke that runs for years: for a Gemini Sun these aren't decoration but the bond itself, because they're how you stay yourself in someone's company. The particular hurt is being reduced to one version of you, the funny one, the clever one, the one who never minds. You need a partner who lets you change your mind out loud and still knows you. The lesson is to show them the thread as well as the variety: say what stays constant underneath, so they don't have to guess.
+You come alive in conversation, and love is no exception. Messages, long talks, a shared joke that runs for years: for a Gemini Sun these aren't decoration but the bond itself, because they're how you stay yourself in someone's company. The particular hurt is being reduced to one version of you, the funny one, the clever one, the one who never minds. You need a partner who lets you change your mind out loud and still knows you. The lesson is to show them the thread as well as the variety: say what stays constant underneath, so they don't have to guess.
 
 ## At work {#at-work}
 
-At work, this Sun shines where curiosity is useful. Roles that move between people, subjects or languages tend to suit it: explaining, connecting, translating, finding out. A job with one task forever can dim your sense of purpose, not because you can't concentrate but because the Sun here draws its vitality from exchange. Recognition means being asked, for what you know, for who you know, for the way you put things. Many people with a Gemini Sun build a working life with several strands, and settle into it once they can name what the strands have in common.
+A Gemini Sun works best where curiosity is useful. Roles that move between people, subjects or languages tend to suit it: explaining, connecting, translating, finding out. A job with one task forever can dim your sense of purpose, not because you can't concentrate but because the Sun here draws its vitality from exchange. Recognition means being asked, for what you know, for who you know, for the way you put things. Many people with a Gemini Sun build a working life with several strands, and settle into it once they can name what the strands have in common.
 
 ## The hard part {#the-hard-part}
 
@@ -54,4 +54,4 @@ Identity can scatter. You may feel like a different person in every room and won
 
 Look for your through-line: the question you keep asking under all your interests. Write it down, and let it decide what you say yes to. Keep one notebook, on paper or not, where the strands meet; for many Gemini Suns, writing is how the self gets put together. Give your mind real quiet as well, a walk without input, an evening without messages, so the voices can settle into one.
 
-In [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign held about a third of the time, and so did Mercury, while Saturn, Chiron and Lilith held far more often. A Gemini Sun rests on both of the first two, so I treat what they say as a first draft and let the rest of the chart edit it.
+A Gemini Sun stands on two of the placements that held about a third of the time in [my notebook](/blog/i-tested-my-birth-chart/): the Sun sign, and Mercury, its ruler. Saturn, Chiron and Lilith held far more often. So I treat what those two say as a first draft, and let the rest of the chart edit it.

@@ -52,10 +52,10 @@ Jupiter's other aspects to the North Node place meaning differently along the ax
 - **[Jupiter trine North Node](/astrology/jupiter-trine-north-node/):** meaning flows towards the less familiar capacity, with an easy sextile back to the South Node.
 - **[Jupiter opposite North Node](/astrology/jupiter-opposite-north-node/):** Jupiter sits on the South Node, so its gifts belong to what comes easily, and growth asks you to carry them across.
 
-When Jupiter in one chart falls on the North Node in another, as in [Jupiter conjunct North Node in synastry](/astrology/jupiter-conjunct-north-node-synastry/), encouragement lands right on the direction the other person is practising. Generous, sometimes a little insistent; I read it from both sides.
+When Jupiter in one chart falls on the North Node in another, as in [Jupiter conjunct North Node in synastry](/astrology/jupiter-conjunct-north-node-synastry/), encouragement lands right on the direction the other person is practising. Generous, sometimes a little insistent, and not always felt the same way by the person on the receiving end.
 
 ## In transits {#in-transits}
 
 [Transiting North Node conjunct natal Jupiter](/astrology/transiting-north-node-conjunct-natal-jupiter/) comes once in each 18.6-year round of the nodes and lasts a month or two, since the node takes about 18 months to cross a sign. If the conjunction is in your own chart, the transit comes back at each [nodal return](/astrology/nodal-return/), around 18½, 37 and 56; halfway between, at the [nodal reversal](/astrology/nodal-reversal/), it's the South Node that crosses your Jupiter. Jupiter, for its part, passes over your natal North Node at each Jupiter return, every 12 years or so.
 
-Weather, not a forecast: these moments bring the question of direction forward, and leave the practising to you.
+I take these moments as weather, not a forecast: they bring the question of direction forward and leave the practising to you.

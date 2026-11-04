@@ -33,13 +33,13 @@ Saturne trigone Neptune permet à l’imagination et à la discipline d’avance
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Saturne](/astrology/saturn/) établit la structure, la responsabilité et la patience des longs travaux. [Neptune](/astrology/neptune/) ouvre l’imagination, la compassion et le sentiment qu’une chose plus grande mérite d’être servie. Un [trigone](/astrology/trine/) relie ces deux fonctions par la fluidité et le renfort mutuel : chacune garde sa nature, et chacune facilite l’autre. La structure offre un vaisseau au rêve ; le rêve donne un but à la structure.
+[Saturne](/astrology/saturn/) donne la structure, la responsabilité et la patience des longs travaux. [Neptune](/astrology/neptune/) apporte l’imagination, la compassion et le sentiment qu’une chose plus grande mérite d’être servie. Un [trigone](/astrology/trine/) relie ces deux fonctions par la fluidité et le renfort mutuel : chacune garde sa nature, et chacune facilite l’autre. La structure offre un vaisseau au rêve ; le rêve donne un but à la structure.
 
 Au quotidien, cela ressemble souvent à une fidélité tranquille envers un idéal : prendre soin des autres sans s’épuiser, parce que le repos est prévu ; pratiquer un art pendant des décennies, parce que la routine elle-même nourrit ; tenir une conviction avec constance plutôt qu’avec bruit. Couler n’est pas se laisser porter, pour autant. Le trigone fournit l’aisance, pas la direction, et il donne le plus quand vous le tournez vers ce qui demande à la fois de la vision et de l’endurance.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 16 née entre 1930 et 2009 porte ce trigone, à 6° près. Il est venu par vagues : en 1930, dès le début des années comptées, puis par intermittence de mai 1941 à mars 1943, d’avril 1965 à mars 1967, de juillet 1976 à mai 1978, et de juillet 2000 à mai 2002. Toutes les personnes nées ces mois-là le partagent : c’est d’abord un aspect de génération, et vos maisons décident de ce qu’il fait dans votre vie ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+À 6° près, environ 1 personne sur 16 née entre 1930 et 2009 porte ce trigone, venu par vagues : en 1930, dès le début des années comptées, puis par intermittence de mai 1941 à mars 1943, d’avril 1965 à mars 1967, de juillet 1976 à mai 1978, et de juillet 2000 à mai 2002. Ces naissances le partagent en bloc : c’est d’abord un aspect de génération, et vos maisons décident de ce qu’il fait dans votre vie ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Un trigone relie en général deux signes d’un même élément ([les quatre éléments](/astrology/four-elements/)), et celui-ci a traversé les quatre : la terre en 1930, Saturne en Capricorne et Neptune en Vierge ; l’eau en 1965–1967, Saturne en Poissons et Neptune en Scorpion ; le feu en 1976–1978, Saturne en Lion et Neptune en Sagittaire ; surtout l’air en 2000–2002, Saturne en Gémeaux et Neptune en Verseau. L’élément colore l’aisance : pratique, émotive, expressive ou sociale. Côté maisons, Saturne en maison 6 trigone Neptune en maison 10 pourrait faire d’un service régulier et sans éclat un rôle public. C’est Saturne qui avance le plus vite, et plus le trigone est serré, plus l’alliance paraît naturelle.
 
@@ -50,10 +50,10 @@ Les autres aspects de la paire, en regard :
 - **[Saturne carré Neptune](/astrology/saturn-square-neptune/) :** 1943–1945, 1962–1964, 1978–1980 ou 1998–1999 ; la friction que ce trigone vous épargne.
 - **[Saturne opposition Neptune](/astrology/saturn-opposite-neptune/) :** 1935–1937, 1970–1972 ou 2005–2007 ; une polarité à équilibrer plutôt qu’un courant à suivre.
 
-Entre deux thèmes, [Saturne trigone Neptune en synastrie](/astrology/saturn-trine-neptune-synastry/) ressemble souvent à de la confiance : la constance de l’une des deux personnes fait de la place à l’imagination de l’autre. Je le lis des deux côtés.
+Entre deux thèmes, [Saturne trigone Neptune en synastrie](/astrology/saturn-trine-neptune-synastry/) ressemble souvent à de la confiance : la constance de l’une des deux personnes fait de la place à l’imagination de l’autre. Je le lis du point de vue de chaque personne.
 
 ## En transit {#en-transit}
 
-[Saturne en transit trigone Neptune du thème natal](/astrology/transiting-saturn-trine-natal-neptune/) revient deux fois par tour de Saturne et peut durer plusieurs mois. [Neptune en transit trigone Saturne du thème natal](/astrology/transiting-neptune-trine-natal-saturn/) se déploie sur un an ou deux, au rythme de Neptune, environ 14 ans par signe. Les deux sont en général doux : une période où donner une forme pratique à un espoir, ou un sens à un devoir, coûte moins d’effort que d’habitude.
+[Saturne en transit trigone Neptune du thème natal](/astrology/transiting-saturn-trine-natal-neptune/) revient deux fois par cycle de Saturne, et chaque passage peut s’étendre sur plusieurs mois. [Neptune en transit trigone Saturne du thème natal](/astrology/transiting-neptune-trine-natal-saturn/) se déploie sur un an ou deux, au rythme de Neptune, environ 14 ans par signe. Les deux sont en général doux : une période où donner une forme pratique à un espoir, ou un sens à un devoir, coûte moins d’effort que d’habitude.
 
 Si votre naissance tombe pendant ce trigone, chaque [retour de Saturne](/astrology/saturn-return/), vers 27–30 ans puis vers 58–60 ans, le reforme. Comme tout transit, c’est une météo, pas une prédiction : un courant plus facile, et le choix du cap reste le vôtre.

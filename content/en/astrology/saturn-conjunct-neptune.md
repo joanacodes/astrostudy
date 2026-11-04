@@ -1,7 +1,7 @@
 ---
 title: "Saturn conjunct Neptune"
 h1: "Saturn conjunct Neptune in a birth chart"
-description: "Saturn conjunct Neptune in a birth chart: the meetings of 1952–53 in Libra and 1989 in Capricorn, who has it, how your houses make it yours, and its transits."
+description: "Saturn conjunct Neptune in a birth chart: the meetings of 1952–53 in Libra and 1989 in Capricorn, who was born with it, its house and its transits."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -41,7 +41,7 @@ Fusion isn't identity loss. Saturn doesn't stop Neptune imagining, and Neptune d
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 1 person in 36 born between 1930 and 2009 has this conjunction within 6°, and all of them were born in two windows: from September 1952 to October 1953, with both planets in Libra, and from December 1988 to January 1990, with both in Capricorn. Everyone born in those months shares it, so it's a generation's aspect more than a personal one; its house and its contacts with your Sun, Moon or angles are what make it yours ([what changes without a birth time](/blog/unknown-birth-time/)).
+Counting within 6°, the conjunction belongs to about 1 person in 36 born between 1930 and 2009, all of them born in two windows: from September 1952 to October 1953, with both planets in Libra, and from December 1988 to January 1990, with both in Capricorn. A whole cohort shares it, so it describes a generation before it describes you; its house and its contacts with your Sun, Moon or angles are what make it yours ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 The two signs suit Saturn. Tradition gives it its exaltation in Libra and its home in Capricorn, so both times the structure side was well placed. In Libra it leans towards fairness and agreements, a dream of balance given rules; in [Capricorn](/astrology/capricorn/), towards institutions and long work, a dream given a ladder. I read that as a difference of style, not of worth.
 
@@ -60,4 +60,4 @@ Between two charts, [Saturn conjunct Neptune in synastry](/astrology/saturn-conj
 
 [Transiting Saturn conjunct natal Neptune](/astrology/transiting-saturn-conjunct-natal-neptune/) comes every 29½ years or so and can take several months, often in more than one pass. [Transiting Neptune conjunct natal Saturn](/astrology/transiting-neptune-conjunct-natal-saturn/) is far rarer: Neptune spends about 14 years in a sign and 165 going round, and stays near the exact degree for about two years.
 
-Born with the conjunction, you meet Saturn's version at each [Saturn return](/astrology/saturn-return/), between about 27 and 30 and again around 58 to 60, when Saturn comes back to the meeting point. Neptune, already beside your Saturn when you were born, moves on in your first years and doesn't come back within a lifetime. I take these transits as weather, not a forecast: a season for giving a dream its form, or for letting a form find its dream again, never a prediction of what that will be.
+Born with the conjunction, you meet Saturn's version at each [Saturn return](/astrology/saturn-return/), in the late twenties and again near 60, when Saturn comes back to the meeting point. Neptune, already beside your Saturn when you were born, moves on in your first years and doesn't come back within a lifetime. I take these transits as weather, not a forecast: a season for giving a dream its form, or for letting a form find its dream again, never a prediction of what that will be.

@@ -51,7 +51,7 @@ Les autres angles entre Jupiter et le Nœud Nord :
 - **[Jupiter trigone Nœud Nord](/astrology/jupiter-trine-north-node/) :** la croissance reçoit le soutien fluide de Jupiter, et le familier un sextile plus discret.
 - **[Jupiter opposition Nœud Nord](/astrology/jupiter-opposite-north-node/) :** Jupiter sur le Nœud Sud, ses dons faisant partie de ce que vous savez déjà.
 
-Entre deux thèmes, avec [Jupiter carré Nœud Nord en synastrie](/astrology/jupiter-square-north-node-synastry/), les croyances de l’une des deux personnes croisent le chemin de croissance de l’autre, parfois comme un défi, parfois comme la poussée qu’il fallait. Je le lis des deux côtés.
+Entre deux thèmes, avec [Jupiter carré Nœud Nord en synastrie](/astrology/jupiter-square-north-node-synastry/), les croyances de l’une des deux personnes croisent le chemin de croissance de l’autre, parfois comme un défi, parfois comme la poussée qu’il fallait, selon le côté où l’on se tient.
 
 ## En transit {#en-transit}
 

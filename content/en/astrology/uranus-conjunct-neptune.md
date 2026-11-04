@@ -33,7 +33,7 @@ Uranus conjunct Neptune is the sky of the early and mid-1990s: the two outermost
 
 ## What it means {#what-it-means}
 
-[Uranus](/astrology/uranus/) enables innovation, differentiation and change in whole systems: it tries the untried and frees what has grown too tight. [Neptune](/astrology/neptune/) enables imagination, compassion and symbolic perception: it dissolves boundaries that no longer need to be there, and senses meanings larger than one life. In a [conjunction](/astrology/conjunction/), two functions act as one process while each keeps its identity.
+[Uranus](/astrology/uranus/) enables innovation, differentiation and change in whole systems: it tries the untried and frees what has grown too tight. [Neptune](/astrology/neptune/) enables imagination, compassion and symbolic perception: it dissolves boundaries that no longer need to be there, and senses meanings larger than one life. Brought together by a [conjunction](/astrology/conjunction/), the two work as a single unit, though neither loses its identity.
 
 Fused, they give imagination a working edge. The vision doesn't stay a dream and the invention doesn't stay a gadget; each wants the other. I read it as an urge to imagine new systems, and to build systems that leave room for what can't be measured. Ideals and experiments arrive together, sometimes faster than you can tell which is which.
 

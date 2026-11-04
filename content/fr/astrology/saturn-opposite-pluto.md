@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/pluto", "/astrology/opposition", "/astrology/saturn-opposite-pluto-synastry", "/astrology/saturn-squares-and-opposition"]
 faq:
   - q: "Qui porte Saturne opposition Pluton dans son thème ?"
-    a: "À 6° près, les personnes nées par intermittence de mars 1930 à novembre 1932, de mars 1965 à janvier 1967, et de juin 2001 à avril 2003. La première vague a commencé l’année de la découverte de Pluton. Aucune autre personne née entre 1930 et 2009 ne porte cette opposition."
+    a: "À 6° près, les personnes nées par intermittence de mars 1930 à novembre 1932, de mars 1965 à janvier 1967, et de juin 2001 à avril 2003. La première vague a commencé l’année de la découverte de Pluton. Aucune autre naissance de 1930 à 2009 ne la porte."
   - q: "Saturne opposition Pluton, est-ce une lutte de pouvoir ?"
     a: "Cela peut se montrer ainsi, surtout au début, quand l’un des deux bouts est confié à quelqu’un d’autre. Mais une opposition est une polarité, pas une hostilité. Avec le temps, elle enseigne souvent l’équilibre : porter l’autorité de façon responsable, et lâcher le contrôle quand quelque chose doit changer."
   - q: "Quels transits réveillent Saturne opposition Pluton ?"
@@ -34,17 +34,17 @@ Saturne opposition Pluton tient garder et laisser partir aux deux bouts d’une 
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Saturne](/astrology/saturn/) établit la structure : l’autorité, la responsabilité, les règles et les rôles qui maintiennent les choses en place. [Pluton](/astrology/pluto/) rend la transformation possible : écarter ce qui est devenu obsolète et rendre une force plus profonde. Une [opposition](/astrology/opposition/) relie ces deux fonctions par la polarité : chacune garde son identité, et chacune rend l’autre impossible à ignorer. Face à un changement, vous sentez le poids de ce que vous perdriez ; en tenant bon, vous sentez l’attrait de ce qui veut finir.
+[Saturne](/astrology/saturn/) incarne la structure dans un thème : l’autorité, la responsabilité, les règles et les rôles qui maintiennent les choses en place. [Pluton](/astrology/pluto/) représente la transformation : écarter ce qui est devenu obsolète et rendre une force plus profonde. De part et d’autre d’une [opposition](/astrology/opposition/), ces deux fonctions forment une polarité : chacune garde son identité et rend l’autre impossible à ignorer. Face à un changement, vous sentez le poids de ce que vous perdriez ; en tenant bon, vous sentez l’attrait de ce qui veut finir.
 
 Les deux moitiés se rencontrent souvent d’abord chez les autres : une institution qui ne bouge pas et une personne qui doit bouger, une autorité contre laquelle vous poussez, ou une situation où vous tenez la structure pendant que quelqu’un d’autre porte le changement. Prendre sa force n’est pas dominer, et une polarité n’est pas un combat. Avec le temps, cette opposition enseigne souvent un équilibre durement gagné : se servir de l’autorité pour protéger ce qui compte, et lâcher le contrôle quand le renouveau est dû.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 22 née entre 1930 et 2009 porte cette opposition, à 6° près, en trois vagues : par intermittence de mars 1930 à novembre 1932, de mars 1965 à janvier 1967, et de juin 2001 à avril 2003. Toutes les personnes nées ces mois-là la partagent : c’est un aspect de génération, qui ne devient personnel que par ses maisons ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+À 6° près, environ 1 personne sur 22 née entre 1930 et 2009 porte l’opposition, en trois vagues : par intermittence de mars 1930 à novembre 1932, de mars 1965 à janvier 1967, et de juin 2001 à avril 2003. Comme toutes les naissances de ces mois-là la partagent, c’est un aspect de génération, qui ne devient personnel que par ses maisons ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 La première vague a commencé en mars 1930, l’année de la découverte de Pluton, avec Saturne en Capricorne, son propre signe, face à Pluton en Cancer. Dans la deuxième, Saturne en Poissons faisait face à Pluton en Vierge, et beaucoup de ces naissances ont aussi Saturne opposition Uranus, puisque Uranus et Pluton se rencontraient alors ([Uranus conjonction Pluton](/astrology/uranus-conjunct-pluto/)). Dans la troisième, Saturne en Gémeaux faisait face à Pluton en Sagittaire. Une opposition s’étend sur deux maisons opposées : entre la 4 et la 10, les devoirs du foyer contre les changements de votre vie publique ; entre la 5 et la 11, ce que vous créez par vous-même contre ce qu’un groupe veut transformer. C’est Saturne qui avance le plus vite, et ses rétrogradations ont coupé chaque vague.
 
-Les autres aspects de la paire :
+Les quatre autres angles de Saturne et Pluton :
 
 - **[Saturne conjonction Pluton](/astrology/saturn-conjunct-pluto/) :** 1946–1948 ou 1981–1983 ; les deux bouts rassemblés en un point.
 - **[Saturne sextile Pluton](/astrology/saturn-sextile-pluto/) :** 1942–1943, 1952–1953, 1976–1977 ou 1989–1990 ; une coopération offerte plutôt qu’un équilibre exigé.
@@ -57,4 +57,4 @@ Entre deux thèmes, [Saturne opposition Pluton en synastrie](/astrology/saturn-o
 
 [Saturne en transit opposition Pluton du thème natal](/astrology/transiting-saturn-opposite-natal-pluto/) revient une fois par tour de 29 ans et demi et dure de quelques semaines à quelques mois. [Pluton en transit opposition Saturne du thème natal](/astrology/transiting-pluto-opposite-natal-saturn/) est rare, puisque Pluton met environ 248 ans à faire le tour du zodiaque ; quand ce transit arrive, il dure deux ans ou davantage.
 
-Si votre naissance tombe pendant cette opposition, vous la retrouvez deux fois par tour de Saturne. L’opposition de Saturne à sa propre place, vers 14–15 ans et vers 44 ans ([carrés et opposition de Saturne](/astrology/saturn-squares-and-opposition/)), amène Saturne sur votre Pluton, et chaque [retour de Saturne](/astrology/saturn-return/) remet Saturne face à Pluton. Ce sont des météos, pas des prédictions : des saisons pour rééquilibrer le contrôle et le changement, sans rien annoncer de ce que vous garderez ou perdrez.
+Si votre naissance tombe pendant cette opposition, vous la retrouvez deux fois par tour de Saturne. Quand Saturne atteint le côté opposé de son propre cycle, vers 14–15 ans et vers 44 ans ([carrés et opposition de Saturne](/astrology/saturn-squares-and-opposition/)), Saturne traverse votre Pluton, et chaque [retour de Saturne](/astrology/saturn-return/) remet Saturne face à Pluton. Je les lis comme une météo, jamais comme une prédiction : des saisons pour rééquilibrer le contrôle et le changement, sans rien annoncer de ce que vous garderez ou perdrez.

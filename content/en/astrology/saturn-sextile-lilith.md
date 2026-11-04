@@ -32,7 +32,7 @@ Saturn sextile Lilith opens a side door between responsibility and the part of y
 
 ## What it means {#what-it-means}
 
-[Saturn](/astrology/saturn/) establishes structure, commitment and the patience to keep a boundary over time. [Black Moon Lilith](/astrology/black-moon-lilith/), the mean apogee of the Moon, stands in many readings for instinctive autonomy, for what you learned to keep hidden, and for the power of saying no on your own terms; its meaning is symbolic, and traditions differ on how much to make of it. A [sextile](/astrology/sextile/) relates them through opportunity and cooperation: each keeps its nature, and the link works when you engage it.
+[Saturn](/astrology/saturn/) offers structure, commitment and the patience to keep a boundary over time. [Black Moon Lilith](/astrology/black-moon-lilith/), the mean apogee of the Moon, stands in many readings for instinctive autonomy, for what you learned to keep hidden, and for the power of saying no on your own terms; its meaning is symbolic, and traditions differ on how much to make of it. A [sextile](/astrology/sextile/) offers them a working alliance: each keeps its nature, and the link works when you engage it.
 
 Lived, it often looks like a practical way of being yourself. You find formats where an unconventional side is allowed: the job with clear rules and room to be odd, the routine that protects time for something nobody else needs to approve. You may also be good at refusing calmly, with reasons. Opportunity asks for engagement, though: a sextile won't push you to claim that room, and potential that waits isn't yet a life arranged on your own terms.
 
@@ -42,15 +42,15 @@ About 1 person in 17 has Saturn within 6° of a sextile to mean Lilith. That's t
 
 A sextile usually links compatible elements. Saturn in Capricorn sextile Lilith in Scorpio, earth and water, can make a private, determined self-rule durable; Saturn in Libra sextile Lilith in Leo, air and fire, can give a proud refusal a fair shape. The houses show where the door opens: Saturn in the 4th sextile Lilith in the 6th might protect, at home, the habits that let you work your own way. All of that needs a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-The pair's other aspects:
+The other ways Saturn and Lilith meet:
 
 - **[Saturn conjunct Lilith](/astrology/saturn-conjunct-lilith/):** duty and self-rule fused in one point.
 - **[Saturn square Lilith](/astrology/saturn-square-lilith/):** the same two rubbing rather than cooperating.
 - **[Saturn trine Lilith](/astrology/saturn-trine-lilith/):** a wider, easier agreement between them.
 - **[Saturn opposite Lilith](/astrology/saturn-opposite-lilith/):** the two facing each other, asking for balance.
 
-Between two charts, [Saturn sextile Lilith in synastry](/astrology/saturn-sextile-lilith-synastry/) lets one person's steadiness make room for the other's independence. I read it in both directions.
+Between two charts, [Saturn sextile Lilith in synastry](/astrology/saturn-sextile-lilith-synastry/) lets one person's steadiness make room for the other's independence. I read it from each person's side in turn.
 
 ## In transits {#in-transits}
 
-In [transits](/astrology/transits/), mean Lilith sextiles your natal Saturn twice in each round of about 8 years and 10 months, for a few weeks each time. Born with the sextile, you get it back at each Lilith return, roughly every nine years; halfway between, Lilith stands opposite its birth place and so trines your Saturn instead, the same door opened wider. Saturn re-forms the sextile at each [Saturn return](/astrology/saturn-return/), between about 27 and 30 and again around 58 to 60. Weather, not a forecast: moments when it's easier to arrange a little more of life on your own terms.
+In [transits](/astrology/transits/), mean Lilith sextiles your natal Saturn twice in each round of about 8 years and 10 months, for a few weeks each time. Born with the sextile, you get it back at each Lilith return, roughly every nine years; halfway between, Lilith stands opposite its birth place and so trines your Saturn instead, the same door opened wider. Saturn re-forms the sextile whenever it returns, at 27 to 30 and 58 to 60 ([Saturn return](/astrology/saturn-return/)). Weather rather than forecast: moments when it's easier to arrange a little more of life on your own terms.

@@ -34,13 +34,13 @@ Saturne carré Neptune place le plan et le rêve à angle droit. Chacun prend l�
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Saturne](/astrology/saturn/) établit la structure : les limites, les devoirs, la discipline qui mène au bout. [Neptune](/astrology/neptune/) ouvre l’imagination et la compassion, et desserre les frontières qui ne servent plus personne. Un [carré](/astrology/square/) relie ces deux fonctions par une friction constructive : aucune ne cède, si bien que chacune pousse l’autre à s’adapter.
+[Saturne](/astrology/saturn/) parle de limites et de devoirs : la structure sur laquelle une vie se bâtit, et la discipline qui mène au bout. [Neptune](/astrology/neptune/) représente l’imagination et la compassion dans un thème, et desserre les frontières qui ne servent plus personne. Un [carré](/astrology/square/) relie ces deux fonctions par une friction constructive : aucune ne cède, si bien que chacune pousse l’autre à s’adapter.
 
 Au quotidien, cela peut ressembler à deux demandes qui ne vont pas ensemble : soyez réaliste, et croyez ; posez des limites, et donnez sans compter. Il arrive de trop donner, puis de se corriger à coups de règles, ou de tenir un rêve à distance parce qu’il ne peut encore rien prouver. Rien de cela n’est un échec. Le carré entraîne le discernement : une compassion qui connaît ses limites, une foi qui supporte une échéance, une structure qui se souvient de sa raison d’être.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 17 née entre 1930 et 2009 porte ce carré, à 6° près, en quatre vagues : par intermittence d’août 1943 à mai 1945, de mars 1962 à janvier 1964, d’octobre 1978 à août 1980, et de mai 1998 à mai 1999. Toutes les personnes nées ces mois-là le portent : c’est un carré de génération, que les maisons rendent personnel.
+À 6° près, ce carré se trouve chez environ 1 personne sur 17 née entre 1930 et 2009, en quatre vagues : par intermittence d’août 1943 à mai 1945, de mars 1962 à janvier 1964, d’octobre 1978 à août 1980, et de mai 1998 à mai 1999. Chaque naissance de ces mois-là le porte : c’est un carré de génération, que les maisons rendent personnel.
 
 Un carré relie en général deux signes du même mode, et les vagues le montrent. En 1962–1964, Saturne était en Verseau et Neptune en Scorpion, deux signes fixes : un carré qui s’enracine. En 1978–1980, Saturne en Vierge et Neptune en Sagittaire, deux signes mutables : une friction qui change sans cesse de forme. Les maisons disent où les deux se rencontrent. Saturne en maison 2 carré Neptune en maison 11 pourrait opposer un rapport prudent à ce que vous possédez et la générosité envers une cause ; Saturne en maison 7 carré Neptune en maison 4, l’engagement et un idéal du foyer. L’heure de naissance décide de tout cela ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)), et un contact avec votre Soleil, votre Lune ou un angle le fait parler plus fort.
 

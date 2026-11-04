@@ -34,17 +34,17 @@ With the Sun in Cancer, purpose and safety are woven so closely that pulling one
 
 The [Sun](/astrology/sun/) organises identity, vitality and direction; the Moon looks after needs, attachment and the feeling of being safe. In [Cancer](/astrology/cancer/), the Sun works in the Moon's own sign, so the two lights' jobs overlap more than usual. Your sense of who you are tends to be bound up with whether you feel secure, and with memory: the places, voices and stories that made you. When you feel safe, this Sun can act with surprising force, because Cancer is cardinal and moves first. When you don't, your sense of direction can go quiet until the ground feels firm again.
 
-Because the Moon rules Cancer, your [Moon](/astrology/moon/) is the next thing I read: by sign and house, it shows where this Sun goes to refuel, and the two lights are worth reading as a pair. The Sun has no dignity in Cancer. It isn't weakened here, only answerable to the Moon.
+Because the Moon rules Cancer, your [Moon](/astrology/moon/) is the next thing I read: by sign and house, it shows where this Sun goes to refuel, and the two lights are worth reading as a pair. Cancer is neutral ground for the Sun in the old scheme of dignities: it isn't weakened here, only answerable to the Moon.
 
-From the June solstice, about 21 June, to about 22 July, the Sun spends about 31 days in Cancer, sometimes 32, among the longest stays of its year: the Earth is farthest from the Sun in early July and moves at its slowest. About 1 person in 12 has it, and if you were born within a day of either end, your [birth time](/blog/unknown-birth-time/) settles the sign.
+From the June solstice, about 21 June, to about 22 July, the Sun spends about 31 days in Cancer, sometimes 32, among the longest stays of its year: the Earth is farthest from the Sun in early July and moves at its slowest. That makes it the Sun sign of about 1 person in 12; within a day of either end, your [birth time](/blog/unknown-birth-time/) settles it.
 
 ## In close relationships {#in-close-relationships}
 
-In love, a Cancer Sun makes a home of the person it chooses. You tend to remember what matters to people, and to show who you are through how safe others feel around you. The particular risk is that the bond becomes the whole of your identity, so that a partner's mood sets your sense of self for the day. What helps is a partner who notices your needs without being told, and who wants to hear your ambitions as well as receive your care. Say what you want for yourself, not only for the two of you.
+A Cancer Sun makes a home of the person it loves. You tend to remember what matters to people, and to show who you are through how safe others feel around you. The particular risk is that the bond becomes the whole of your identity, so that a partner's mood sets your sense of self for the day. What helps is a partner who notices your needs without being told, and who wants to hear your ambitions as well as receive your care. Say what you want for yourself, not only for the two of you.
 
 ## At work {#at-work}
 
-At work, this Sun shines where it can build a base: a team that feels like a crew, a project that shelters other people's work, a business with a long memory. You often sense the mood of a workplace before anyone else, and use it well. Recognition matters, though you'd usually rather be valued by the people close to you than applauded by strangers. Purpose grows when the work protects something you care about, and shrinks in places that feel unsafe.
+The work that suits a Cancer Sun builds a base: a team that feels like a crew, a project that shelters other people's work, a business with a long memory. You often sense the mood of a workplace before anyone else, and use it well. Recognition matters, though you'd usually rather be valued by the people close to you than applauded by strangers. Purpose grows when the work protects something you care about, and shrinks in places that feel unsafe.
 
 ## The hard part {#the-hard-part}
 
@@ -54,4 +54,4 @@ Identity can dissolve into being needed. You may look after everyone's comfort, 
 
 Keep one purpose that belongs to you alone, a project, a craft, a question, and protect it as fiercely as you protect your people. Notice what makes you feel safe and build it in on purpose, rather than waiting for it to happen. Let memory feed you without ruling you: the past can be a root rather than a room you have to live in. And when your sense of direction goes quiet, ask the Moon's question first, *what do I need?*, then the Sun's, *what am I for?*
 
-In [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign held about a third of the time, with the rising sign, Venus and Mercury. The Moon was checked like every other placement and wasn't one of the three that held far more often; those were Saturn, Chiron and Lilith. So with a Cancer Sun I read the two lights side by side, and let neither speak for the whole chart.
+[My notebook](/blog/i-tested-my-birth-chart/) marks the two lights differently. The Sun sign was among the placements that held about a third of the time; the Moon was checked like every other placement and wasn't one of the three that held far more often, Saturn, Chiron and Lilith. So with a Cancer Sun I read the two lights side by side, and let neither speak for the whole chart.

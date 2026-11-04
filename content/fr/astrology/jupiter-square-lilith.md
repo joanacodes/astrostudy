@@ -59,4 +59,4 @@ Entre deux thèmes, avec [Jupiter carré Lilith en synastrie](/astrology/jupiter
 
 Jupiter forme un carré avec Lilith du thème natal à deux reprises dans chaque tour, à six ans d’écart environ, et reste proche quelques semaines ; la Lilith moyenne, elle, se place en carré de Jupiter du thème natal deux fois à chaque révolution de moins de neuf ans. Beaucoup d’astrologues y voient des moments où une croyance empruntée cesse de vous aller.
 
-Une météo, pas une prédiction : une invitation à examiner ce que vous croyez, jamais un verdict sur ce que vous valez.
+Appelez cela une météo, pas une prédiction : une invitation à examiner ce que vous croyez, jamais un verdict sur ce que vous valez.
