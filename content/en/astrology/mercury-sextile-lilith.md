@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 146
 glyph: "☿⚹⚸"
-definition: "Mercury sextile Lilith gives your thinking an easy, 60° line to Black Moon Lilith, the point read as your untameable side. In a chart it lets the unconventional or unsayable thought into your words when you decide. I read it as well-timed frankness, which grows with use."
+definition: "Mercury sextile Lilith gives your thinking an easy, 60° line to Black Moon Lilith and your untameable side. In a chart it lets the unconventional or unsayable thought into your words when you decide. I read it as well-timed frankness, which grows with use."
 facts:
   - { k: "Bodies", v: "Mercury ☿ and Black Moon Lilith ⚸" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }

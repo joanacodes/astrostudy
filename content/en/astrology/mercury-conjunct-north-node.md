@@ -51,7 +51,7 @@ Mercury's other aspects to the North Node place the mind differently along the p
 - **[Mercury trine North Node](/astrology/mercury-trine-north-node/):** thought supports the direction of growth while keeping an easy sextile to the South Node.
 - **[Mercury opposite North Node](/astrology/mercury-opposite-north-node/):** Mercury sits on the South Node, so your thinking belongs to the familiar end and growth asks you to stretch beyond it.
 
-When one person's Mercury sits on the other's North Node, [Mercury conjunct North Node in synastry](/astrology/mercury-conjunct-north-node-synastry/) can make conversation a push towards what the other finds hardest, sometimes more firmly than they'd like. The effect isn't always mutual, so I read it from each side.
+When one person's Mercury sits on the other's North Node, [Mercury conjunct North Node in synastry](/astrology/mercury-conjunct-north-node-synastry/) can make conversation a push towards what the other finds hardest, sometimes more firmly than they'd like. The effect isn't always mutual, so I look at it from each side.
 
 ## In transits {#in-transits}
 

@@ -32,7 +32,7 @@ Certains esprits semblent sauter l’étape du milieu : l’idée inhabituelle 
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Mercure](/astrology/mercury/) est la façon dont un thème change l’expérience en langage : remarquer, apprendre, relier une chose à une autre et la transmettre. [Uranus](/astrology/uranus/) est la façon dont il se libère d’un schéma devenu trop étroit : innover, expérimenter, vouloir que chaque chose soit vraiment elle-même. Un [trigone](/astrology/trine/) relie ces deux fonctions par la fluidité : aucune ne prend le dessus, et chacune allège le travail de l’autre.
+[Mercure](/astrology/mercury/) est la façon dont un thème change l’expérience en langage : remarquer, apprendre, relier une chose à une autre et la transmettre. [Uranus](/astrology/uranus/) est la façon dont le thème se libère d’un schéma devenu trop étroit : innover, expérimenter, vouloir que chaque chose soit vraiment elle-même. Un [trigone](/astrology/trine/) relie ces deux fonctions par la fluidité : aucune ne prend le dessus, et chacune allège le travail de l’autre.
 
 En pratique, votre pensée a de la place pour quitter le chemin habituel, et elle en revient avec quelque chose d’utile. Vous apprenez vite les systèmes nouveaux, qu’il s’agisse d’une langue, d’un logiciel ou des règles non écrites d’un nouvel emploi, et vous savez expliquer une idée étrange de façon qu’elle paraisse évidente. Les autres entendent souvent votre originalité comme de la clarté : quand elle leur parvient, elle est déjà dans leurs mots.
 

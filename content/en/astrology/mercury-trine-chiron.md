@@ -20,7 +20,7 @@ faq:
   - q: "What does Mercury trine Chiron mean in a birth chart?"
     a: "Mercury and Chiron form a trine in your chart, an easy 120° that usually links two signs of the same element. You can name a difficulty, your own or someone else’s, without the words turning sharp, and you explain things well to people who are struggling. I read it as a quiet gift for kind clarity."
   - q: "Is Mercury trine Chiron a sign of a gift for teaching?"
-    a: "Many astrologers would say so. To me it's a gift for explaining difficulty kindly, which suits teaching but just as well mentoring, writing, care work or simply being a good friend. Like any trine, it only becomes a skill when you use it, and it grows with practice."
+    a: "Many astrologers would say so. It’s a gift, as I read it, for explaining difficulty kindly, which suits teaching but just as well mentoring, writing, care work or simply being a good friend. Like any trine, it only becomes a skill when you use it, and it grows with practice."
   - q: "Can Mercury trine Chiron be too easy?"
     a: "It can, in one way: what comes this naturally is easy to overlook. Because kind explanation is second nature, you may not notice how rare it is, and so not use it where it would help most. Nothing is wrong with you if that happens; the gift is simply waiting."
 sources:

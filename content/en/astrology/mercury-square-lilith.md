@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 147
 glyph: "☿□⚸"
-definition: "Mercury square Lilith puts your words at a right angle to Black Moon Lilith, the point read as what you were taught to keep hidden. In a chart, saying what you think and saying what’s acceptable pull in different directions. I read the friction as the making of an honest, well-aimed voice, not a fault."
+definition: "Mercury square Lilith puts your words at a right angle to Black Moon Lilith, which astrologers link with what you were taught to keep hidden. In a chart, saying what you think and saying what’s acceptable pull in different directions. The friction, as I read it, is the making of an honest, well-aimed voice, not a fault."
 facts:
   - { k: "Bodies", v: "Mercury ☿ and Black Moon Lilith ⚸" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -40,7 +40,7 @@ I don't read it as a flaw to correct. Lilith points to what was taken off the ta
 
 ## In a birth chart {#in-a-birth-chart}
 
-Squares join signs of one modality, cardinal, fixed or mutable, so Mercury and Lilith share a rhythm and argue about almost everything else. Mercury's element gives the editing its style: fire tends to speak first and regret the tone, earth to hold back until it's sure, air to argue the point, water to feel it long before saying it. The houses show where the editing happens. Mercury in the 10th square Lilith in the 1st, for example, might set a careful professional voice against an intensity people sense before you speak.
+Squares join signs of one modality, cardinal, fixed or mutable, so Mercury and Lilith share a rhythm and argue about almost everything else. Mercury's element colours the editing: fire tends to speak first and regret the tone, earth to hold back until it's sure, air to argue the point, water to feel it long before saying it. The houses show where the editing happens. Mercury in the 10th square Lilith in the 1st, for example, might set a careful professional voice against an intensity people sense before you speak.
 
 About 1 person in 16 is born with Mercury within 6° of a square to mean Lilith. Close to 90°, the gap between the true thing and the sayable one is a daily companion; further off, it opens mainly under pressure.
 

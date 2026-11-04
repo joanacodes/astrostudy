@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 151
 glyph: "☿⚹☊"
-definition: "Mercury sextile North Node means Mercury sits 60° from the North Node, and so 120° from the South Node, at birth. In a chart your thinking becomes a bridge between practised strengths and the direction you’re growing in. I read it as an opening that needs practice, not a promise."
+definition: "Mercury sextile North Node means Mercury sits 60° from the North Node, and so 120° from the South Node, at birth. In a chart your thinking becomes a bridge between practised strengths and the way you’re growing. To me it's an opening that needs practice, not a promise."
 facts:
   - { k: "Bodies", v: "Mercury ☿ and the North Node ☊" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mercury", "/astrology/north-node", "/astrology/sextile", "/astrology/south-node", "/astrology/mercury-sextile-north-node-synastry"]
 faq:
   - q: "What does Mercury sextile North Node mean in a birth chart?"
-    a: "Mercury was about 60° from your North Node when you were born. Your thinking links easily to what you already do well and opens towards the less familiar capacities astrologers read in the North Node. I read it as a bridge between old strengths and new growth, which gets sturdier the more you cross it."
+    a: "Your Mercury makes a sextile, about 60°, to your North Node. Your thinking links easily to skills you’ve already practised and opens towards the less familiar capacities astrologers read in the North Node. I read it as a bridge between old strengths and new growth, which gets sturdier the more you cross it."
   - q: "Why does Mercury sextile North Node also trine the South Node?"
     a: "Because the two nodes are always exactly opposite each other, 60° from the North Node is 120° from the South Node. So this Mercury has an easy link to both ends of the nodal axis: practised strengths on one side, a direction of growth on the other, and your mind in between."
   - q: "Is Mercury sextile North Node a lucky aspect?"
@@ -31,7 +31,7 @@ Mercury sextile North Node gives your mind a foot in two places: what you alread
 
 ## What it means {#what-it-means}
 
-[Mercury](/astrology/mercury/) gathers, sorts and passes on information; it's how a chart learns. The [North Node](/astrology/north-node/) is the point where the Moon's path heads north across the Sun's, read as a direction of development: a complementary capacity that's less practised, and that grows with use. A [sextile](/astrology/sextile/) gives the two a chance to cooperate, if you take it.
+[Mercury](/astrology/mercury/) gathers, sorts and passes on information; it's how a chart learns. The [North Node](/astrology/north-node/), one of the two crossings of the Moon's path with the Sun's, is read as a direction of development: a complementary capacity that's less practised, and that grows with use. A [sextile](/astrology/sextile/) gives the two a chance to cooperate, if you take it.
 
 What makes this sextile unusual is the other end. The [South Node](/astrology/south-node/) is always exactly opposite the North, so a Mercury 60° from one is 120° from the other: easy with the familiar, and open to the new. In practice that often means you can explain new ideas in old terms, learn by building on what you already know, and help other people do the same. You don't have to leave your strengths behind to grow; your mind is where the two get introduced.
 
@@ -41,7 +41,7 @@ Development isn't automatic, though. An opening has to be used, and a new skill 
 
 Mercury usually shares an element with the South Node and complements the North Node's. With the North Node in Aries, for instance, Mercury in Gemini or Aquarius links an airy, practised way of thinking to a fiery new direction. If your node sits near the edge of a sign, the mean and true node may put it in different signs; I look at both, and say which one a reading uses. The houses show where the bridge stands: Mercury in the 1st sextile the North Node in the 3rd might turn an easy curiosity into a habit of learning by asking.
 
-About 1 person in 14 has this sextile at birth, within 6°. The closer the angle, the more naturally your thinking links old and new; at 5° or 6°, the bridge is there but needs crossing on purpose. Like every opening in a chart, I treat it as an invitation you're free to decline ([how I read](/how-i-read/)).
+This sextile turns up in about 1 person in 14, within 6°. The closer the angle, the more naturally your thinking links old and new; at 5° or 6°, the bridge is there but needs crossing on purpose. Like every opening in a chart, I treat it as an invitation you're free to decline ([how I read](/how-i-read/)).
 
 Seen from the sextile, Mercury's other contacts with the nodes do different work:
 

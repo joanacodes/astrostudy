@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 147
 glyph: "☿□⚸"
-definition: "Mercure carré Lilith met vos mots à angle droit avec la Lune noire Lilith, le point qu’on lit comme ce qu’on vous a appris à cacher. Dans un thème, dire ce que vous pensez et dire ce qui est acceptable tirent dans des directions différentes. J’y lis la fabrique d’une voix honnête et bien visée, pas un défaut."
+definition: "Mercure carré Lilith met vos mots à angle droit avec la Lune noire Lilith, que l’on associe à ce qu’on vous a appris à cacher. Dans un thème, dire ce que vous pensez et dire ce qui est acceptable tirent dans des directions différentes. J’y lis la fabrique d’une voix honnête et bien visée, pas un défaut."
 facts:
   - { k: "Corps", v: "Mercure ☿ et la Lune noire Lilith ⚸" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/mercury", "/astrology/black-moon-lilith", "/astrology/square", "/astrology/mercury-square-lilith-synastry", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "Que veut dire Mercure carré Lilith dans un thème natal ?"
-    a: "Mercure et la Lilith moyenne forment un angle d’environ 90° dans votre thème. Ce que vous pensez vraiment et ce que vous avez appris qu’il était acceptable de dire tirent l’un contre l’autre, si bien que vous vous corrigez, puis en dites parfois plus que prévu. J’y lis une friction qui forge, avec la pratique, une voix honnête."
+    a: "Mercure et la Lilith moyenne forment un angle d’environ 90° dans votre thème. Ce que vous pensez vraiment et ce que vous avez appris qu’il était acceptable de dire tirent l’un contre l’autre, si bien que vous vous corrigez, puis en dites parfois plus que prévu. Avec la pratique, cette friction forge une voix honnête."
   - q: "Est-ce que Mercure carré Lilith pousse à blesser par les mots ?"
     a: "Non. Ce carré décrit un écart entre la chose vraie et la chose dicible, et la pression qui s’accumule entre les deux. Elle sort parfois de façon tranchante ; plus souvent, les personnes qui ont ce carré apprennent à dire les choses difficiles nettement et tôt. Rien de cela n’est figé, ni ne fait de vous une personne dure."
   - q: "Comment travailler avec Mercure carré Lilith ?"
@@ -41,7 +41,7 @@ Je ne le lis pas comme un défaut à corriger. Lilith désigne ce qui a été re
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Les carrés relient des signes d’un même mode, cardinal, fixe ou mutable : Mercure et Lilith partagent un rythme et se disputent sur presque tout le reste. L’élément de Mercure donne son style à la correction : le feu parle d’abord et regrette le ton, la terre se retient jusqu’à être sûre, l’air discute, l’eau ressent longtemps avant de dire. Les maisons montrent où elle se fait. Mercure en maison 10 en carré avec Lilith en maison 1, par exemple, peut opposer une voix professionnelle soignée à une intensité que les autres sentent avant même que vous parliez.
+Les carrés relient des signes d’un même mode, cardinal, fixe ou mutable : Mercure et Lilith partagent un rythme et se disputent sur presque tout le reste. L’élément de Mercure colore cette correction : le feu parle d’abord et regrette le ton, la terre se retient jusqu’à être sûre, l’air discute, l’eau ressent longtemps avant de dire. Les maisons montrent où elle se fait. Mercure en maison 10 en carré avec Lilith en maison 1, par exemple, peut opposer une voix professionnelle soignée à une intensité que les autres sentent avant même que vous parliez.
 
 Environ 1 personne sur 16 naît avec Mercure à moins de 6° d’un carré à la Lilith moyenne. Près des 90°, l’écart entre la chose vraie et la chose dicible vous accompagne chaque jour ; plus loin, il ne s’ouvre guère que sous pression.
 
@@ -56,6 +56,6 @@ En synastrie, le même carré peut relier deux personnes : avec [Mercure carré
 
 ## En transit {#en-transit}
 
-Quand la Lilith moyenne forme un carré avec Mercure dans votre thème natal, elle avance d’environ un degré tous les neuf jours : le carré reste proche quelques semaines. Beaucoup d’astrologues lisent ces semaines comme un temps où une chose que vous préféreriez taire demande à être dite, et où la dire nettement est plus facile qu’il n’y paraît.
+Quand la Lilith moyenne vient former un carré à votre Mercure de naissance, elle avance d’environ un degré tous les neuf jours : le carré reste proche quelques semaines. Beaucoup d’astrologues lisent ces semaines comme un temps où une chose que vous préféreriez taire demande à être dite, et où la dire nettement est plus facile qu’il n’y paraît.
 
 Une météo, pas une prédiction : ce transit décrit une poussée vers l’honnêteté, jamais la conversation à laquelle elle mène.

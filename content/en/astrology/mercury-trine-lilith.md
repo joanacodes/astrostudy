@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mercury", "/astrology/black-moon-lilith", "/astrology/trine", "/astrology/mercury-trine-lilith-synastry", "/how-i-read"]
 faq:
   - q: "What does Mercury trine Lilith mean in a birth chart?"
-    a: "Mercury and mean Black Moon Lilith are linked by a trine in your chart, an easy 120°. The part of you that won’t be tamed and the way you speak cooperate, so frank or unusual thoughts come out without much struggle. I read it as natural candour, at its best when you keep an eye on who is listening."
+    a: "A trine of about 120° joins Mercury and mean Black Moon Lilith in your chart. The part of you that won’t be tamed and the way you speak cooperate, so frank or unusual thoughts come out without much struggle. I read it as natural candour, at its best when you keep an eye on who is listening."
   - q: "Is Mercury trine Lilith a sign of honesty?"
     a: "It describes ease with frankness rather than a virtue. Honesty is a choice anyone can make; this trine simply makes it cost you less, because saying what you really think rarely feels like a risk. That ease can help other people find their own voice, if you use it generously."
   - q: "Can Mercury trine Lilith make you too blunt?"
@@ -31,7 +31,7 @@ Mercury trine Lilith is candour without the fight. The things other people agoni
 
 ## What it means {#what-it-means}
 
-[Mercury](/astrology/mercury/) is how a chart listens, reasons and replies. [Black Moon Lilith](/astrology/black-moon-lilith/) is a point rather than a body, read symbolically as the part of you that won't be tamed: instinct, autonomy, the material that was pushed out of sight, and a clear sense of your own limits. Astrologers read Lilith in quite different ways, and mine is one reading among them. A [trine](/astrology/trine/) gives the two an easy flow, so each strengthens the other without either taking over.
+[Mercury](/astrology/mercury/) is how a chart listens, reasons and replies. [Black Moon Lilith](/astrology/black-moon-lilith/) is a point rather than a body, read symbolically as your wild side: instinct, autonomy, what got buried, and a clear sense of your own limits. Astrologers read Lilith in quite different ways, and mine is one reading among them. A [trine](/astrology/trine/) gives the two an easy flow, so each strengthens the other and neither dominates.
 
 What it looks like in practice is frankness that doesn't cost you much. You can say what you actually think, name a taboo subject without blushing, and decline something without a long apology. Unconventional ideas feel natural in your mouth, and people often find that refreshing: you say aloud what they were thinking. In a disagreement you can hold your ground without raising your voice, because the refusal and the words are on the same side.
 
@@ -39,7 +39,7 @@ The trine's blind spot is the ease itself. What is simple for you to say can be 
 
 ## In a birth chart {#in-a-birth-chart}
 
-The trine usually joins signs that share an element, so Lilith's refusal and Mercury's style speak a similar language: candour that's fiery and quick, earthy and practical, airy and argued, or watery and private. The houses show where it's used. Mercury in the 11th trine Lilith in the 3rd, for example, might give you a frank voice among friends and groups, rooted in an old habit of saying what you weren't supposed to.
+Usually both sit in signs of one element, which lets Lilith's refusal and Mercury's style understand each other: candour that's fiery and quick, earthy and practical, airy and argued, or watery and private. The houses show where it's used. Mercury in the 2nd trine Lilith in the 10th could, say, let you talk plainly about what your work is worth, with an authority that doesn't ask permission. The Lilith end is shared with everyone born within the same few months, so Mercury's sign and the houses are what make the trine yours.
 
 About 1 person in 14 is born with Mercury within 6° of a trine to mean Lilith, a little more than have the square. Tight, it makes candour part of your manner; wide, it's there when you need it. Like everything in a chart, I read it as an inclination rather than a rule about what you must say ([how I read](/how-i-read/)).
 
@@ -48,7 +48,7 @@ Set beside the trine, the pair's other aspects make frankness more costly, or di
 - **[Mercury conjunct Lilith](/astrology/mercury-conjunct-lilith/):** the untamed thought and the voice are fused, so candour is less a choice than a temperament.
 - **[Mercury sextile Lilith](/astrology/mercury-sextile-lilith/):** a smaller, timed version of the same ease.
 - **[Mercury square Lilith](/astrology/mercury-square-lilith/):** the honest and the acceptable pull apart, and frankness has to be earned.
-- **[Mercury opposite Lilith](/astrology/mercury-opposite-lilith/):** the unsaid tends to be voiced by others, and you learn to meet it.
+- **[Mercury opposite Lilith](/astrology/mercury-opposite-lilith/):** the unsaid tends to be voiced by others first, and becomes yours to answer.
 
 Two charts joined by [Mercury trine Lilith in synastry](/astrology/mercury-trine-lilith-synastry/) often make frank talk easy between two people: one person's words let the other say what usually stays hidden.
 

@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 141
 glyph: "☿⚹⚷"
-definition: "In Mercury sextile Chiron, the planet of words and Chiron, read as a tender spot, sit 60° apart at birth, usually two signs away. In a chart it offers a way to put what you learned from your own sore places into words that help. I read it as an opening for sharing experience, not an obligation."
+definition: "In Mercury sextile Chiron, the planet of words and Chiron, read as a tender spot, sit 60° apart at birth, usually two signs away. In a chart it offers a way to put what you learned from your own sore places into words that help. I see it as an opening for sharing experience, not an obligation."
 facts:
   - { k: "Bodies", v: "Mercury ☿ and Chiron ⚷" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -31,7 +31,7 @@ Mercury sextile Chiron is a quiet contact between how you explain and the place 
 
 ## What it means {#what-it-means}
 
-[Mercury](/astrology/mercury/) is the part of a chart that turns understanding into language: it learns, connects, explains and exchanges. [Chiron](/astrology/chiron/) is where a chart learns to work around something that stays tender, by changing the setting or the expectation, and in time by passing on what worked. A [sextile](/astrology/sextile/) links them through opportunity: the help is there, but only if you reach for it.
+[Mercury](/astrology/mercury/) gives understanding its language: it learns, connects, explains and exchanges. [Chiron](/astrology/chiron/) is where a chart learns to work around something that stays tender, by changing the setting or the expectation, and in time by passing on what worked. A [sextile](/astrology/sextile/) links them through opportunity: the help is there, but only if you reach for it.
 
 In everyday terms, you can talk about what was hard without being swallowed by it. When someone is struggling with something you've struggled with, the words come: the method that worked for you, the reassurance you wish you'd had, the honest “it took me years too”. You tend to offer it while knowing your way may not be theirs, and that's what makes it useful rather than preachy.
 

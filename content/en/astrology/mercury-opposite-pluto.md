@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 139
 glyph: "☿☍♇"
-definition: "Mercury opposite Pluto is the mind facing the planet of depth across the full width of the chart, 180° away at birth. In a chart your way of thinking meets an intensity that often arrives through other people’s words. I read it as a polarity that teaches you how much power words carry, and how to share it."
+definition: "Mercury opposite Pluto is the mind facing the planet of depth across the full width of the chart, 180° away at birth. In a chart your way of thinking meets an intensity that often arrives through other people’s words. Read well, the polarity teaches you how much power words carry, and how to share it."
 facts:
   - { k: "Bodies", v: "Mercury ☿ and Pluto ♇" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
