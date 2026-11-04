@@ -41,7 +41,7 @@ The risk is the comfortable one. With the old resources so easy to reach, it's t
 
 ## In a birth chart {#in-a-birth-chart}
 
-For about 1 person in 20, Jupiter sits within 6° of a sextile to the North Node, on one side of the point or the other. The houses show where the practice happens. Jupiter in the 1st sextile a North Node in the 3rd might make speaking up and everyday learning the practice, with confidence borrowed from the way you meet the world; Jupiter in the 5th sextile a North Node in the 7th, growth through partnership, carried by your own generosity and sense of play. Those houses assume a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+For about 1 person in 20, Jupiter sits within 6° of a sextile to the North Node, on one side of the point or the other. Jupiter then usually shares an element with your South Node and sits in a compatible one to the North Node's, fire beside air or earth beside water, so the growth it encourages sounds like a neighbouring language rather than a foreign one. The houses show where the practice happens. Jupiter in the 1st sextile a North Node in the 3rd might make speaking up and everyday learning the practice, with confidence borrowed from the way you meet the world; Jupiter in the 5th sextile a North Node in the 7th, growth through partnership, carried by your own generosity and sense of play. Those houses assume a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 The mean and true node stay within a degree or two of each other, so they nearly always give the same sextile; I check both all the same.
 

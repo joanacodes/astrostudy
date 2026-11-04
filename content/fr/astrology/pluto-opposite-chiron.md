@@ -30,7 +30,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes la portent, et les mois où elle était dans l’orbe" }
   - { title: "NASA — Pluto facts", url: "https://science.nasa.gov/dwarf-planets/pluto/facts/", note: "l’orbite de Pluton, environ 248 ans" }
 ---
-Pluton opposition Chiron appartient aux années 1960 : presque toute la décennie, Pluton traversait la Vierge tandis que Chiron avançait lentement dans les Poissons, de l’autre côté du ciel. Toutes les personnes nées alors partagent cet angle ; ce sont les deux maisons qu’il relie qui le rendent personnel.
+Pluton opposition Chiron appartient aux années 1960 : presque toute la décennie, Pluton traversait la Vierge tandis que Chiron avançait lentement dans les Poissons, de l’autre côté du ciel. Toutes les personnes nées alors partagent cet angle ; les deux maisons qu’il relie le rendent personnel.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
@@ -38,15 +38,15 @@ Pluton opposition Chiron appartient aux années 1960 : presque toute la décenn
 
 En clair, devant ce qui ne fonctionne plus, Pluton demande : est-ce que cela peut partir ? Chiron demande : si cela reste, comment bien vivre autour ? Avec les deux face à face, vous portez les deux questions, et l’une peut occuper des années avant que l’autre ait son tour : faire le vide plus d’une fois, par exemple, pendant qu’un point sensible voyage discrètement avec vous.
 
-Une polarité n’est pas un combat, et le renouveau que porte Pluton n’est pas une destruction. L’opposition vous demande de distinguer, au cas par cas, ce que la situation appelle, et j’y lis ce discernement comme un don : savoir ce qu’il faut laisser partir et ce qu’il faut aménager.
+Une polarité n’est pas un combat, et le renouveau que porte Pluton n’est pas une destruction. L’opposition demande de distinguer, au cas par cas, ce qu’il faut laisser partir et ce qu’il faut aménager : c’est ce discernement que j’y lis comme un don.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 12 née entre 1930 et 2009 porte Pluton et Chiron à moins de 6° d’une opposition, et toutes ces naissances tombent dans une même longue période : par intermittence d’avril 1959 à janvier 1970, et sans interruption de janvier 1962 à avril 1965. Pluton se trouvait en Vierge du début à la fin ; Chiron surtout en Poissons, mais encore en Verseau en 1959 et déjà en Bélier fin 1969, quand l’angle reliait deux signes qui ne sont pas opposés. Tant de naissances le partagent qu’il agit comme un aspect de génération ([planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)).
+Environ 1 personne sur 12 née entre 1930 et 2009 porte cette opposition à 6° près, et toutes ces naissances tombent dans une même période : par intermittence d’avril 1959 à janvier 1970, et sans interruption de janvier 1962 à avril 1965. Pluton se trouvait en Vierge du début à la fin ; Chiron surtout en Poissons, mais encore en Verseau en 1959 et déjà en Bélier fin 1969, quand l’angle reliait deux signes qui ne sont pas opposés. Tant de naissances le partagent qu’il agit comme un aspect de génération ([planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)).
 
 Comme motif commun, j’y lis une génération qui veut réparer ce qui est cassé, Pluton en Vierge renouvelant les méthodes et le travail quotidien, face à un point sensible en Poissons où réparer n’est pas la question, et où la compassion l’est. Un motif n’est pas un portrait : le vôtre vit dans les deux maisons que relie la paire, qui demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Pluton en maison 6 avec Chiron en maison 12, par exemple, pourrait réinventer sans cesse une routine pendant qu’un point sensible plus intime demande du repos plutôt qu’une réparation.
 
-Chiron est le plus rapide des deux, environ 50 ans pour faire le tour du zodiaque contre 248 pour Pluton, mais il passe quelque huit ans en Poissons : il n’a presque rien gagné sur Pluton, et l’angle a tenu des années. Près de l’exactitude, la polarité parle fort ; vers 6°, plus bas.
+Chiron est le plus rapide, environ 50 ans par tour du zodiaque contre 248 pour Pluton, mais il passe quelque huit ans en Poissons : il n’a presque rien gagné sur Pluton, et l’angle a tenu des années. Près de l’exactitude, la polarité parle fort ; vers 6°, plus bas.
 
 Les autres aspects de la paire appartiennent à d’autres années de naissance :
 
@@ -61,6 +61,6 @@ Entre deux thèmes, [Pluton opposition Chiron en synastrie](/astrology/pluto-opp
 
 [Chiron en transit opposition Pluton du thème natal](/astrology/transiting-chiron-opposite-natal-pluto/) revient une fois par tour de Chiron, environ 50 ans : quelques mois là où Chiron traverse vite la Vierge ou la Balance, quelques années là où il s’attarde en Bélier ou en Poissons, souvent en trois passages. L’inverse, Pluton en transit opposition Chiron du thème natal, suppose que Pluton, qui ne parcourt qu’une partie du zodiaque en une vie, atteigne le point opposé à votre Chiron.
 
-Si votre naissance tombe pendant l’opposition, le premier de ces rendez-vous est connu : vers 50 ans, le [retour de Chiron](/astrology/chiron-return/) ramène Chiron à sa place de naissance, donc en face de votre Pluton. Pour la plupart des personnes de cette génération, c’était pendant le passage de Chiron en Poissons, de 2010 à 2019.
+Si votre naissance tombe pendant l’opposition, le [retour de Chiron](/astrology/chiron-return/), vers 50 ans, ramène Chiron à sa place de naissance, donc en face de votre Pluton : pour la plupart des personnes de cette génération, pendant son passage en Poissons, de 2010 à 2019.
 
 Une météo, pas une prédiction : ces saisons reposent la question de ce qui peut partir et de ce qu’il vaut mieux aménager. Elles ne tranchent pas à votre place.

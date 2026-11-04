@@ -42,9 +42,9 @@ Le risque est celui du confort. Avec les anciennes ressources si faciles à atte
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Chez environ 1 personne sur 20, Jupiter est à moins de 6° d’un sextile au Nœud Nord, d’un côté ou de l’autre du point. Les maisons montrent où se fait la pratique. Jupiter en maison 1 en sextile d’un Nœud Nord en maison 3 peut faire de la prise de parole et de l’apprentissage quotidien la pratique en question, avec une assurance empruntée à votre façon d’aborder le monde ; Jupiter en maison 5 en sextile d’un Nœud Nord en maison 7, une croissance par le couple et les associations, portée par votre propre générosité et votre sens du jeu. Ces maisons supposent une heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Chez environ 1 personne sur 20, Jupiter forme avec le Nœud Nord un sextile exact à 6° près, d’un côté ou de l’autre du point. Jupiter partage alors en général l’élément de votre Nœud Sud et se trouve dans un élément compatible avec celui du Nœud Nord, le feu à côté de l’air ou la terre à côté de l’eau : la croissance encouragée ressemble à une langue voisine plutôt qu’à une langue étrangère. Les maisons montrent où se fait la pratique. Jupiter en maison 1 en sextile d’un Nœud Nord en maison 3 peut faire de la prise de parole et de l’apprentissage quotidien la pratique en question, avec une assurance empruntée à votre façon d’aborder le monde ; Jupiter en maison 5 en sextile d’un Nœud Nord en maison 7, une croissance par le couple et les associations, portée par votre propre générosité et votre sens du jeu. Ces maisons supposent une heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Le nœud moyen et le nœud vrai ne s’écartent que d’un degré ou deux : ils donnent presque toujours le même sextile, et je regarde les deux quand même.
+Nœud moyen et nœud vrai ne s’écartent que d’un degré ou deux : ils donnent presque toujours le même sextile, et je regarde les deux quand même.
 
 Les autres aspects de la paire déplacent Jupiter le long de l’axe :
 
@@ -57,6 +57,6 @@ Entre deux thèmes, [Jupiter sextile Nœud Nord en synastrie](/astrology/jupiter
 
 ## En transit {#en-transit}
 
-[Nœud Nord en transit sextile Jupiter du thème natal](/astrology/transiting-north-node-sextile-natal-jupiter/) revient deux fois par cycle nodal de 18,6 ans, un mois ou deux chaque fois. Si ce sextile est dans votre thème, votre [retour nodal](/astrology/nodal-return/) le ramène ; à l’[inversion nodale](/astrology/nodal-reversal/), l’angle bascule, et le Nœud Nord en transit forme alors un trigone avec Jupiter. De son côté, Jupiter forme un sextile avec le Nœud Nord du thème natal deux fois par tour de 12 ans, pour quelques semaines.
+[Nœud Nord en transit sextile Jupiter du thème natal](/astrology/transiting-north-node-sextile-natal-jupiter/) revient deux fois en 18,6 ans, un mois ou deux chaque fois. Si ce sextile est dans votre thème, votre [retour nodal](/astrology/nodal-return/) le ramène ; à l’[inversion nodale](/astrology/nodal-reversal/), l’angle bascule, et le Nœud Nord en transit forme alors un trigone avec Jupiter. De son côté, Jupiter forme un sextile avec le Nœud Nord du thème natal à deux reprises en 12 ans, pour quelques semaines.
 
 Lues comme une météo et non comme une prédiction, ces périodes facilitent la pratique du nouveau ; la pratique elle-même reste à faire.

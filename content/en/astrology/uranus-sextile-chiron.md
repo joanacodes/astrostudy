@@ -42,7 +42,7 @@ Each group has its own signs. In the late 1930s Uranus was in Taurus and Chiron 
 
 About 1 person in 23 born between 1930 and 2009 has this sextile within 6°: in November 1938, from August 1939 to October 1940, from January to August 1941, from November 1999 to May 2000, and from September 2000 to November 2001. No other month of the count gives it.
 
-In those years Chiron was the faster of the two, crossing a sign in three or four years against Uranus's seven, which is why each run was short. The houses make it yours: Uranus in the 9th sextile Chiron in the 11th, for example, could let an unusual path of study or belief open a way into groups where you once felt on the outside. Contacts with your Sun, Moon or angles count too, and the houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+In those years Chiron was the faster of the two, crossing a sign in three or four years against Uranus's seven, and that gap between their speeds is why each run was short. The houses make it yours: Uranus in the 9th sextile Chiron in the 11th, for example, could let an unusual path of study or belief open a way into groups where you once felt on the outside. Contacts with your Sun, Moon or angles count too, and the houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 The pair's other aspects:
 
