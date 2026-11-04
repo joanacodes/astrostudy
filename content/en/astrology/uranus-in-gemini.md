@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 87
 glyph: "♅♊"
-definition: "Uranus in Gemini is the planet of change in a mutable air sign ruled by Mercury, the sign of words, links and learning. It belongs to everyone born from August 1941 to June 1949, or from July 2025 to May 2033. I read it as a generation’s experiment with how ideas travel; the house makes it your own."
+definition: "Uranus in Gemini is the planet of change in a mutable air sign ruled by Mercury, the sign of words, links and learning. Those born from August 1941 to June 1949, or from July 2025 to May 2033, all have it. I read it as a generation’s experiment with how ideas travel; the house makes it your own."
 facts:
   - { k: "Body", v: "Uranus ♅" }
   - { k: "Sign", v: "Gemini ♊, ruled by Mercury" }

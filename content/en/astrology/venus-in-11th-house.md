@@ -33,6 +33,8 @@ Venus in the 11th house gathers people. The planet of affinity and reciprocity s
 
 [The 11th house](/astrology/11th-house/) holds friends, groups and hopes: the circles you belong to, the causes you join, the plans you make with others for a better future. It is succedent, the house after the 10th, and its natural sign is Aquarius. Tradition called it the Good Spirit and gave Jupiter its joy there. [Venus](/astrology/venus/) brings its talent for relating into this house of allies. You tend to make friends easily, to enjoy being part of a group, and to value the people who share your hopes as much as those who share your home.
 
+The 11th is where the reciprocity of Venus works without a contract: friendship given and returned freely, with no vows to hold it in place. So this placement often describes someone generous with introductions, favours and time, and quick to notice when a friendship has stopped being mutual.
+
 Venus had risen a few hours before you were born and was climbing towards the top of the sky, so with the Sun nearby, the birth most likely came in the morning. A later birth can lift Venus into [Venus in the 10th house](/astrology/venus-in-10th-house/), an earlier one keep it lower, in [Venus in the 12th house](/astrology/venus-in-12th-house/). In [Placidus](/astrology/placidus/), the system I use, the lines between the three depend on the exact minute ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## In close relationships {#in-close-relationships}

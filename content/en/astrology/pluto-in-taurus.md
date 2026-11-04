@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 110
 glyph: "♇♉"
-definition: "Pluto in Taurus is the planet of deep change in fixed earth, the sign ruled by Venus, and Pluto’s detriment in modern tropical astrology. It belongs to births from 1851 to 1884 and from 2095 to 2129; nobody born from 1930 to 2009 has it. It describes a slow, thorough transformation of what a generation owns and values."
+definition: "Pluto in Taurus is the planet of deep change in fixed earth, the sign ruled by Venus, and Pluto’s detriment in modern tropical astrology. Births from 1851 to 1884 have it, as will births from 2095 to 2129, but none from 1930 to 2009. It describes a slow, thorough transformation of what a generation owns and values."
 facts:
   - { k: "Body", v: "Pluto ♇" }
   - { k: "Sign", v: "Taurus ♉, ruled by Venus" }

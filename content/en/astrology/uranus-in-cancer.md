@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "the months Uranus spent in Cancer, 1700–2300, and how many people born 1930–2009 have it" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-Cancer builds a shell around the people it loves; Uranus wants a window in every wall. Born with the planet of change in the sign of home, this generation has spent its life making belonging roomier: a home that isn't a cage, a family that doesn't have to follow one pattern.
+A house with a window cut into every wall: that's the picture I keep for Uranus in Cancer. The planet of change in the sign of home describes a generation that has spent its life making belonging roomier, with a home that isn't a cage and a family that doesn't have to follow one pattern.
 
 ## In a birth chart {#in-a-birth-chart}
 

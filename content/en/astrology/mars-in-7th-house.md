@@ -42,7 +42,7 @@ This is the heart of the placement. Attraction often comes with a spark of chall
 
 ## At work {#at-work}
 
-At work, your best results often come in pairs: a business partner, a client relationship, a negotiation across the table, a sparring partner who sharpens your ideas. Consulting, sales, coaching, mediation, any role built on one-to-one dealings, suit this Mars. Competition with a single rival can motivate you hugely. Watch that a colleague's success doesn't turn into a contest you never agreed to enter.
+At work, your best results often come in pairs: a business partner, a client relationship, a negotiation across the table, a sparring partner who sharpens your ideas. Consulting, sales, coaching, mediation, any role built on one-to-one dealings, suit this Mars. Competition with a single rival can motivate you hugely. Business partnerships can be very productive, provided the roles are clear: two people who both want to lead need a map of who decides what. Watch that a colleague's success doesn't turn into a contest you never agreed to enter.
 
 ## The hard part {#the-hard-part}
 
