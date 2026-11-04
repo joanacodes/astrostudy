@@ -55,7 +55,7 @@ Les autres aspects de Jupiter avec Lilith :
 - **[Jupiter trigone Lilith](/astrology/jupiter-trine-lilith/) :** la part indomptée et ce qui donne sens à votre vie s’accordent, et la permission vient facilement.
 - **[Jupiter opposition Lilith](/astrology/jupiter-opposite-lilith/) :** ce que vous refusez de lâcher fait face à vos principes, souvent à travers d’autres personnes ou des groupes.
 
-Entre deux thèmes, [Jupiter conjonction Lilith en synastrie](/astrology/jupiter-conjunct-lilith-synastry/) met Jupiter d’un thème sur la Lilith de l’autre : un encouragement adressé précisément à la part qu’on cachait. Cela peut libérer, et cela touche quelque chose d’intime : sans le oui des deux personnes, je n’y touche pas ([synastrie et consentement](/blog/synastry-behind-their-back/)).
+Entre deux thèmes, [Jupiter conjonction Lilith en synastrie](/astrology/jupiter-conjunct-lilith-synastry/) met Jupiter d’un thème sur la Lilith de l’autre : un encouragement adressé précisément à la part qu’on cachait. Cela peut libérer, et cela touche quelque chose d’intime : sans le oui des deux personnes, je ne lis pas ce contact ([synastrie et consentement](/blog/synastry-behind-their-back/)).
 
 ## En transit {#en-transit}
 

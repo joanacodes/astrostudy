@@ -57,6 +57,6 @@ Entre deux thèmes, avec [Jupiter carré Pluton en synastrie](/astrology/jupiter
 
 ## En transit {#en-transit}
 
-[Jupiter en transit carré Pluton du thème natal](/astrology/transiting-jupiter-square-natal-pluto/) revient environ tous les six ans, deux fois par cycle de Jupiter, pour quelques semaines, ou quelques mois en trois passages quand Jupiter rétrograde tout près. [Pluton en transit carré Jupiter du thème natal](/astrology/transiting-pluto-square-natal-jupiter/) est un transit long : proche de l’exactitude pendant un an ou deux, avec des allers-retours au gré des rétrogradations de Pluton ; sa date tient à votre année de naissance et à l’allure de Pluton à cette époque, environ 12 ans par signe au plus vite, 31 au plus lent.
+[Jupiter en transit carré Pluton du thème natal](/astrology/transiting-jupiter-square-natal-pluto/) revient environ tous les six ans, deux fois par cycle de Jupiter, pour quelques semaines, ou quelques mois en trois passages quand Jupiter rétrograde tout près. [Pluton en transit carré Jupiter du thème natal](/astrology/transiting-pluto-square-natal-jupiter/) est un transit long : proche de l’exactitude pendant un an ou deux, avec des allers-retours au gré des rétrogradations de Pluton ; sa date tient à votre année de naissance et à l’allure de Pluton, qui demande entre 12 et 31 ans par signe selon les périodes.
 
 Une météo, pas une prédiction, comme toujours : une période où ce que vous voulez faire grandir et ce qui doit changer frottent l’un contre l’autre. La friction peut servir ; elle ne décide pas de l’issue.

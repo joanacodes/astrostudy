@@ -49,7 +49,7 @@ Saturn's other aspects to Uranus each belong to a few birth years:
 
 - **[Saturn sextile Uranus](/astrology/saturn-sextile-uranus/):** born in the spells of 1934–36 and 1947–49, then 1978–81 and 1995–97; structure and change cooperate when someone takes the opening.
 - **[Saturn square Uranus](/astrology/saturn-square-uranus/):** born in 1930–32 and 1950–53, then again in 1975–77 and 1999–2001; keeping and changing pull across each other, a friction that teaches reform without demolition.
-- **[Saturn trine Uranus](/astrology/saturn-trine-uranus/):** born in 1955–58, 1971–74 or 2002–04; the old and the new flow together, so change tends to be built rather than fought for.
+- **[Saturn trine Uranus](/astrology/saturn-trine-uranus/):** born in the trine years of 1955–58 and 1971–74, then 2002–04; the old and the new flow together, so change tends to be built rather than fought for.
 - **[Saturn opposite Uranus](/astrology/saturn-opposite-uranus/):** born in 1964–67 or 2008–09; facing each other, with the balance between stability and freedom often worked out with other people.
 
 Between two charts, [Saturn conjunct Uranus in synastry](/astrology/saturn-conjunct-uranus-synastry/) sets the structure in one chart on the urge to break free in the other, at the same degree. It can steady a restless partner or chafe a free one, and I read it from each person's side.
