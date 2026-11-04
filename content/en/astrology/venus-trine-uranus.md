@@ -53,7 +53,7 @@ Compared with the pair's other angles:
 - **[Venus square Uranus](/astrology/venus-square-uranus/):** attachment and novelty in friction; bonds that learn flexibility the hard way.
 - **[Venus opposite Uranus](/astrology/venus-opposite-uranus/):** the two across the chart; closeness here, independence there, and a life built for both.
 
-Between two charts, [Venus trine Uranus in synastry](/astrology/venus-trine-uranus-synastry/) sets one person's affection at ease with the other's originality: a friendship-like bond that keeps both people interested. Who feels freer depends on whose Uranus it is, so I look at it from each chart.
+Between two charts, [Venus trine Uranus in synastry](/astrology/venus-trine-uranus-synastry/) lets one person's affection relax alongside the other's originality: a friendship-like bond that keeps both people interested. Who feels freer depends on whose Uranus it is, so I look at it from each chart.
 
 ## In transits {#in-transits}
 
