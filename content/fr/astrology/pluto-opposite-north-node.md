@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/pluto", "/astrology/north-node", "/astrology/opposition", "/astrology/south-node", "/astrology/nodal-reversal"]
 faq:
   - q: "Quel sens donner à Pluton près du Nœud Sud ?"
-    a: "Que la transformation est pour vous un savoir-faire ancien et rodé : finir les choses, recommencer, trouver de la force dans le processus. C’est une vraie ressource. Le Nœud Nord, en face, vous demande de pratiquer une capacité qui vient moins facilement : le travail consiste à y recourir quand une situation l’appelle, et pas seulement au changement profond."
+    a: "Que la transformation est pour vous un savoir-faire ancien et rodé : finir les choses, recommencer, trouver de la force dans le processus. C’est une vraie ressource. En face, le Nœud Nord attend de vous une autre réponse, moins rodée : tout le travail consiste à la choisir quand la situation l’appelle, au lieu de revenir chaque fois au changement profond."
   - q: "Faut-il parler de karma pour Pluton opposition Nœud Nord ?"
     a: "Certains astrologues disent karmique Pluton sur le Nœud Sud. Je lis cette position plus simplement, comme une force apprise tôt et une habitude à surveiller. Le Nœud Sud ne vaut pas moins que le Nœud Nord, et il n’y a ici aucune dette à rembourser : l’opposition demande un équilibre entre les deux bouts."
   - q: "Combien de naissances portent Pluton opposition Nœud Nord ?"

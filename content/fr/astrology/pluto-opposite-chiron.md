@@ -46,7 +46,7 @@ Environ 1 personne sur 12 née entre 1930 et 2009 porte cette opposition à 6° 
 
 Comme motif commun, j’y lis une génération qui veut réparer ce qui est cassé, Pluton en Vierge renouvelant les méthodes et le travail quotidien, face à un point sensible en Poissons où réparer n’est pas la question, et où la compassion l’est. Un motif n’est pas un portrait : le vôtre vit dans les deux maisons que relie la paire, qui demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Pluton en maison 6 avec Chiron en maison 12, par exemple, pourrait réinventer sans cesse une routine pendant qu’un point sensible plus intime demande du repos plutôt qu’une réparation.
 
-Chiron est le plus rapide, environ 50 ans par tour du zodiaque contre 248 pour Pluton, mais il passe quelque huit ans en Poissons : il a peu gagné sur Pluton, et l’angle a tenu des années. Près de l’exactitude, la polarité parle fort ; vers 6°, plus bas.
+Chiron est le plus rapide, environ 50 ans par tour du zodiaque contre 248 pour Pluton, mais Chiron passe quelque huit ans en Poissons : il a peu gagné sur Pluton, et l’angle a tenu des années. Près de l’exactitude, la polarité parle fort ; vers 6°, plus bas.
 
 Les autres aspects de la paire appartiennent à d’autres années de naissance :
 

@@ -17,7 +17,7 @@ facts:
   - { k: "Who shares it", v: "A few months of births, about every nine years" }
 related: ["/astrology/pluto", "/astrology/black-moon-lilith", "/astrology/conjunction", "/astrology/which-lilith-is-mine", "/astrology/pluto-conjunct-lilith-synastry"]
 faq:
-  - q: "How do I read Pluto conjunct Lilith in my chart?"
+  - q: "Where do I start with Pluto conjunct Lilith in my chart?"
     a: "Start with the house it falls in: that is where something you once set aside asks to come back, and where coming back to it changes you. Then look at the sign, which Pluto shares with your whole generation. I read the meeting as depth and honesty about power, never as a threat."
   - q: "Is Pluto conjunct Lilith dangerous?"
     a: "No. Neither body is a force working against you. Pluto describes renewal, which isn’t destruction, and Lilith describes autonomy and what was left out, which isn’t wickedness. Together they make an intense combination, and intensity asks for care in how you use it, not for fear."

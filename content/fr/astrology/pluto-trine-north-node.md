@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/pluto", "/astrology/north-node", "/astrology/trine", "/astrology/south-node", "/astrology/pluto-trine-north-node-synastry"]
 faq:
   - q: "La croissance vient-elle facilement avec Pluton trigone Nœud Nord ?"
-    a: "Plus facilement, sur un point : le changement et la croissance s’entraident. Quand une vieille structure s’en va, ce qui la remplace convient en général à la personne que vous devenez. Mais l’aisance n’est pas une fatalité. Le trigone rend moins coûteux le virage dans le bon sens ; il ne le prend pas à votre place."
+    a: "Plus facilement, sur un point : lâcher prise vous oriente en général vers l’avant. Quand une vieille structure s’en va, ce qui la remplace convient en général à la personne que vous devenez. Mais l’aisance n’est pas une fatalité. Le trigone rend moins coûteux le virage dans le bon sens ; il ne le prend pas à votre place."
   - q: "Trigone ou sextile au Nœud Nord : qu’est-ce qui change pour Pluton ?"
     a: "Le bout qui reçoit le courant facile. Dans le trigone, le courant va vers le Nœud Nord, la direction moins familière, et une ouverture plus petite relie Pluton au Nœud Sud. Dans le sextile, c’est l’inverse : un courant facile avec le familier, et une ouverture vers le nouveau."
   - q: "Pluton trigone Nœud Nord, est-ce courant ?"

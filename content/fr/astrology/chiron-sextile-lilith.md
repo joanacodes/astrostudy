@@ -41,7 +41,7 @@ Encore faut-il s’en servir. Un sextile est une invitation, pas une garantie :
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Un sextile relie deux signes séparés par un troisième, d’éléments qui s’entendent bien. Avec Chiron en Gémeaux et Lilith en Lion, par exemple, les adaptations se logent dans votre façon d’apprendre et d’expliquer, l’instinct veut être vu tel qu’il est, et chacun aide l’autre à avancer. Le signe de Chiron est partagé par toutes les naissances de quelques années, celui de Lilith change tous les neuf mois environ : le sextile revient en deux fenêtres de quelques mois à chaque cycle d’une dizaine d’années.
+Un sextile relie deux signes séparés par un troisième, d’éléments qui s’entendent bien. Avec Chiron en Poissons et Lilith en Taureau, par exemple, s’adapter par l’imagination et la compassion rencontre un instinct de ce qui est solide et à soi, et chacun stabilise l’autre. Le signe de Chiron est partagé par toutes les naissances de quelques années, celui de Lilith change tous les neuf mois environ : le sextile revient en deux fenêtres de quelques mois à chaque cycle d’une dizaine d’années.
 
 Les maisons nomment les deux domaines qui peuvent s’entraider, et elles demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Chiron en maison 3 avec Lilith en maison 5 pourrait laisser une façon de parler, que vous avez dû adapter, faire de la place à un jeu qui refuse les bonnes manières.
 

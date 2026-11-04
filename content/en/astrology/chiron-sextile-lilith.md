@@ -40,7 +40,7 @@ It only works if you use it. A sextile is an invitation, not a guarantee: left a
 
 ## In a birth chart {#in-a-birth-chart}
 
-A sextile joins signs two apart, of elements that sit well together. With Chiron in Gemini and Lilith in Leo, for example, the adaptations live in how you learn and explain, and the instinct is to be seen exactly as you are, and each helps the other along. Chiron's sign is shared by everyone born over a few years and Lilith's changes every nine months or so, so the sextile comes in two windows of a few months in each round of roughly a decade.
+A sextile joins signs two apart, of elements that sit well together. With Chiron in Pisces and Lilith in Taurus, for example, adapting through imagination and compassion meets an instinct for what is solid and your own, and each steadies the other. Chiron's sign is shared by everyone born over a few years and Lilith's changes every nine months or so, so the sextile comes in two windows of a few months in each round of roughly a decade.
 
 The houses name the two areas that can help each other, and they need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)). Chiron in the 3rd with Lilith in the 5th might let a way of speaking you had to adapt make room for play that refuses to be polite.
 

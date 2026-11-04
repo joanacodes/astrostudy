@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/pluto", "/astrology/north-node", "/astrology/trine", "/astrology/south-node", "/astrology/pluto-trine-north-node-synastry"]
 faq:
   - q: "Will growth come easily with Pluto trine the North Node?"
-    a: "Easier, in one respect: change and growth help each other. When an old structure goes, what replaces it tends to suit the person you are becoming. But ease isn’t inevitability. The trine lowers the cost of turning the right way; it doesn’t turn for you."
+    a: "Easier, in one respect: letting go tends to point you forward. When an old structure goes, what replaces it tends to suit the person you are becoming. But ease isn’t inevitability. The trine lowers the cost of turning the right way; it doesn’t turn for you."
   - q: "What is the difference between Pluto trine and Pluto sextile the North Node?"
     a: "Which end gets the easy flow. In the trine, the current runs towards the North Node, the less familiar direction, and a smaller opening links Pluto to the South Node. In the sextile it’s the other way round: easy flow with the familiar, and an opening towards the new."
   - q: "Is Pluto trine the North Node common?"

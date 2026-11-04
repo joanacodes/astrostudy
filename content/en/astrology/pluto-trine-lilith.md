@@ -34,7 +34,7 @@ Pluto trine Lilith lets the planet of deep change and the untamed part of you ru
 
 [Pluto](/astrology/pluto/) works by regeneration: what has run its course is released, and something stronger and more your own grows in its place. [Black Moon Lilith](/astrology/black-moon-lilith/), the averaged apogee of the Moon, is a symbol many astrologers use for instinctive self-rule, personal power and the parts of a person that sat outside the frame; how much it carries varies between traditions. A [trine](/astrology/trine/) relates them through facilitative flow: each reinforces the other, and both keep their identity.
 
-In plain terms, renewing yourself and staying loyal to your instinct don't compete. When you change, you tend to change towards what you are rather than away from it; when the untamed part speaks up, it usually speaks for a change that's due.
+In plain terms, there's no contest here between changing and staying true to your instinct. When you change, you tend to change towards what you are rather than away from it; when the untamed part speaks up, it usually speaks for a change that's due.
 
 None of that happens without you, though: a current still has to be swum in. The risk of this trine is taking it for granted: assuming everyone can sit with the intensity you find ordinary, or never noticing the gift until someone asks how you do it. Naming it is half of using it.
 

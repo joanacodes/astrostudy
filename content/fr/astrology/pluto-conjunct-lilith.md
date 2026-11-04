@@ -18,7 +18,7 @@ facts:
   - { k: "Qui la partage", v: "Quelques mois de naissances, environ tous les neuf ans" }
 related: ["/astrology/pluto", "/astrology/black-moon-lilith", "/astrology/conjunction", "/astrology/which-lilith-is-mine", "/astrology/pluto-conjunct-lilith-synastry"]
 faq:
-  - q: "Comment lire Pluton conjonction Lilith dans mon thème ?"
+  - q: "Par où commencer avec Pluton conjonction Lilith dans mon thème ?"
     a: "Commencez par la maison où tombe la conjonction : c’est là que quelque chose que vous aviez mis de côté demande à revenir, et que ce retour vous transforme. Regardez ensuite le signe, que Pluton partage avec toute votre génération. J’y lis de la profondeur et une honnêteté sur le pouvoir, jamais une menace."
   - q: "Pluton conjonction Lilith, est-ce dangereux ?"
     a: "Non. Ni Pluton ni Lilith ne sont des forces dirigées contre vous. Pluton décrit le renouveau, qui n’est pas une destruction, et Lilith l’autonomie et ce qui a été laissé de côté, qui n’a rien de méchant. La combinaison est intense, et l’intensité demande du soin dans la façon de s’en servir, pas de la peur."
@@ -41,7 +41,7 @@ C’est intense, et ce n’est pas inquiétant. Le changement que porte Pluton n
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La conjonction tombe en général dans un seul signe, et ce signe est celui de votre génération : Pluton reste 12 à 31 ans dans un signe, quand la Lilith moyenne en traverse un en neuf mois environ. Le signe décrit donc l’époque, et la conjonction appartient aux quelques mois de naissances où Lilith est passée sur Pluton. Avec Pluton en Balance, la rencontre colore l’équité et la vie à deux. Avec Pluton en Scorpion, le signe que gouverne Pluton en astrologie tropicale moderne, elle atteint sa plus forte concentration ; Mars en est le maître traditionnel, et je lis les deux.
+La conjonction tombe en général dans un seul signe, et ce signe est celui de votre génération : Pluton reste 12 à 31 ans dans un signe, quand la Lilith moyenne en traverse un en neuf mois environ. Le signe décrit donc l’époque, et la conjonction appartient aux quelques mois de naissances où Lilith est passée sur Pluton. Avec Pluton en Balance, la rencontre colore l’équité et la vie à deux. Avec Pluton en Scorpion, le signe que gouverne Pluton en astrologie tropicale moderne, la rencontre atteint sa plus forte concentration ; Mars en est le maître traditionnel, et je lis les deux.
 
 La maison montre où se joue cette reprise, et elle demande l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). En maison 7, il s’agit de la part de vous que vous apportez dans un couple ; en maison 10, d’une vie publique qui refuse d’être mise en ordre.
 

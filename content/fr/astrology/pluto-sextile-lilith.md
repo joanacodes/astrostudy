@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/pluto", "/astrology/black-moon-lilith", "/astrology/sextile", "/astrology/pluto-sextile-lilith-synastry", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "Au quotidien, comment se manifeste Pluton sextile Lilith ?"
-    a: "Plutôt discrètement. Votre capacité de changer en profondeur et la part de vous qui refusait d’être domptée s’entendent bien : un refus gardé peut devenir le début d’un renouveau. Mais le sextile ne pousse pas. Il attend qu’on s’en serve, et laissé de côté, il passe facilement inaperçu."
+    a: "Plutôt discrètement. Votre capacité de changer en profondeur et la part de vous qui refusait d’être domptée s’entendent bien : un refus gardé peut devenir le début d’un renouveau. Mais le sextile ne pousse pas. S’il reste inemployé, on peut ne jamais le remarquer."
   - q: "Est-ce que Pluton sextile Lilith agit sans vous ?"
     a: "Pas au sens où les choses se mettraient en place toutes seules. Un sextile est une occasion, et une occasion demande que vous agissiez. Celle-ci offre une relation de travail entre ce que vous avez caché et ce que vous êtes capable de renouveler, et cette relation grandit à l’usage."
   - q: "Pourquoi trouve-t-on le sextile Pluton–Lilith plus souvent que la conjonction ?"

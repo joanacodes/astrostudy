@@ -23,7 +23,7 @@ faq:
   - q: "Est-ce que Pluton carré Nœud Nord bloque ma croissance ?"
     a: "Je ne le lis pas ainsi. Un carré est une friction, et celle-ci construit quelque chose : elle demande sans cesse à votre croissance d’inclure un changement que vous préféreriez peut-être éviter. Cela peut ralentir les choses, mais ralentir n’est pas bloquer, et la troisième voie qu’elle réclame est souvent plus solide."
   - q: "Quelle est la fréquence de Pluton carré Nœud Nord ?"
-    a: "C’est le plus fréquent des cinq aspects de la paire : environ 1 personne sur 14 née entre 1930 et 2009 le porte à 6° près, avec le nœud vrai. Le nœud passe à 90° de Pluton des deux côtés à chaque tour, ce qui double les occasions."
+    a: "Plus fréquent que les quatre autres aspects de la paire : environ 1 personne sur 14 née entre 1930 et 2009 le porte à 6° près, avec le nœud vrai. Le nœud passe à 90° de Pluton des deux côtés à chaque tour, ce qui double les occasions."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes naissent avec cet aspect, avec le nœud vrai" }
@@ -49,7 +49,7 @@ Environ 1 personne sur 14 née entre 1930 et 2009 a Pluton à moins de 6° d’u
 
 Les quatre autres angles de la paire, vus du carré :
 
-- **[Pluton conjonction Nœud Nord](/astrology/pluto-conjunct-north-node/) :** Pluton sur le chemin lui-même plutôt qu’en travers.
+- **[Pluton conjonction Nœud Nord](/astrology/pluto-conjunct-north-node/) :** Pluton sur le chemin même, plutôt qu’en travers.
 - **[Pluton sextile Nœud Nord](/astrology/pluto-sextile-north-node/) :** une ouverture vers la croissance, avec un trigone vers le familier.
 - **[Pluton trigone Nœud Nord](/astrology/pluto-trine-north-node/) :** le renouveau et la croissance qui avancent du même pas.
 - **[Pluton opposition Nœud Nord](/astrology/pluto-opposite-north-node/) :** Pluton au bout familier, face au nouveau.

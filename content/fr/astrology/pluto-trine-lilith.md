@@ -35,7 +35,7 @@ Pluton trigone Lilith fait couler dans un même courant la planète du changemen
 
 [Pluton](/astrology/pluto/) agit par régénération : ce qui a fait son temps s’en va, et quelque chose de plus fort, de plus vôtre, pousse à la place. La [Lune noire Lilith](/astrology/black-moon-lilith/), l’apogée moyen de la Lune, est un symbole que beaucoup d’astrologues emploient pour l’autonomie instinctive, le pouvoir personnel et les parts d’une personne restées hors du cadre ; son poids varie selon les traditions. Un [trigone](/astrology/trine/) les relie par un courant facilitant : chaque fonction renforce l’autre, et garde son identité.
 
-Dit simplement, vous renouveler et rester fidèle à votre instinct ne se font pas concurrence. Quand vous changez, c’est plutôt vers ce que vous êtes ; quand la part indomptée prend la parole, c’est en général pour un changement qui s’impose.
+Dit simplement, changer et rester fidèle à votre instinct ne se disputent pas ici. Quand vous changez, c’est plutôt vers ce que vous êtes ; quand la part indomptée prend la parole, c’est en général pour un changement qui s’impose.
 
 Rien de tout cela ne se fait sans vous, pourtant : un courant, il faut encore y nager. Le risque de ce trigone, c’est de le tenir pour acquis : croire que tout le monde supporte l’intensité qui vous semble ordinaire, ou ne remarquer le don que le jour où quelqu’un vous demande comment vous faites. Le nommer, c’est déjà s’en servir à moitié.
 
