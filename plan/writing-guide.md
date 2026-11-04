@@ -387,6 +387,78 @@ Title: the plan's (*Progressed Moon in Aries* · *Lune progressée en Bélier*);
 
 Link every page `links-for.mjs` lists, and at least one article or How I read.
 
+### Tested (what the research found)
+
+| | English | French |
+|---|---|---|
+| 1 | `## The short answer {#the-short-answer}` | `## La réponse courte {#la-reponse-courte}` |
+| 2 | `## What the research found {#what-the-research-found}` | `## Ce que la recherche a trouvé {#ce-que-la-recherche-a-trouve}` |
+| 3 | `## What I found {#what-i-found}` | `## Ce que j’ai trouvé {#ce-que-j-ai-trouve}` |
+
+`family`: the plan's (`links-for.mjs` shows it); glyph *✦*.
+
+- **The short answer**: honest and plain. When the research found no effect, say so, without hedging and without mockery, of science or of readers.
+- **What the research found**: who tested what, how, and what came out, from the study itself or a scholarly account of it, each with its exact reference (authors, title, journal, volume, pages, year; or book, publisher, year). The main criticism, when there is a published one, with its reference. Numbers only as the source gives them, checked; never a number from memory. A finding you can't confirm stays out.
+- **What I found**: Joana's notebook, exactly as the Facts section states it, and nothing more: *a notebook, not a study; it proves nothing about astrology in general*.
+- Facts keys: Question · Short answer · Key study (*author, year*) · My notebook. French: Question · Réponse courte · Étude clé · Mon carnet.
+- Sources: the studies and books, with an address only when you opened it and it says what you cite (a DOI, the journal's page, an official page); *My testing notes* where the notebook is cited.
+
+### Guide (how-to)
+
+| | English | French |
+|---|---|---|
+| 1 | `## Step by step {#step-by-step}` | `## Pas à pas {#pas-a-pas}` |
+| 2 | `## Common mistakes {#common-mistakes}` | `## Erreurs fréquentes {#erreurs-frequentes}` |
+
+`family`: the plan's (`links-for.mjs` shows it); glyph *✦*.
+
+- Numbered steps, each one doing one thing, then the mistakes people actually make. Link every page a step relies on.
+- Joana's practice where it applies: no reading without a birth time; Placidus; both rulers, both nodes; consent for a synastry; adults only; never health, death, pregnancy, money or legal outcomes. What she offers and how is on `/how-i-read/`, `/birth-chart/` and `/synastry/`: say only what those pages say.
+- Facts keys: For (*who it is for*) · You need · Steps (*how many*). French: Pour · Il vous faut · Étapes.
+
+### Country (where to find a birth time)
+
+| | English | French |
+|---|---|---|
+| 1 | `## Where the time is written {#where-the-time-is-written}` | `## Où l’heure est écrite {#ou-l-heure-est-ecrite}` |
+| 2 | `## How to ask for it {#how-to-ask-for-it}` | `## Comment la demander {#comment-la-demander}` |
+| 3 | `## If it isn't there {#if-it-isnt-there}` | `## Si elle n’y est pas {#si-elle-n-y-est-pas}` |
+
+`family`: the plan's (`links-for.mjs` shows it); glyph *✦*.
+
+- Every administrative fact from the official source (the registry, the government's own pages), opened and read, cited with its address and *checked on 4 November 2026*. When the rules differ by state, province, region or year of birth, say so and don't generalise. No fee or delay unless the official page states it.
+- **If it isn't there**: other records that may hold the time (hospital, family, baptism), what to ask and whom. There's no reading without a time; Joana's own words for this, from the order form: *I'm working on a project to find people's birth data accurately; for now I can only read with the time and place of birth.*
+- Facts keys: Country · On the birth certificate (*yes*, *no*, or *it depends*: say on what) · Where to ask · Official page. French: Pays · Sur l’acte de naissance · Où demander · Page officielle.
+
+### Pattern
+
+| | English | French |
+|---|---|---|
+| 1 | `## What it looks like {#what-it-looks-like}` | `## À quoi elle ressemble {#a-quoi-elle-ressemble}` |
+| 2 | `## In a birth chart {#in-a-birth-chart}` | `## Dans un thème natal {#dans-un-theme-natal}` |
+| 3 | `## What helps {#what-helps}` | `## Ce qui aide {#ce-qui-aide}` |
+
+`family`: the plan's; glyph: a fitting symbol (*△* for a grand trine, *□* for a T-square) or *✦*.
+
+- **What it looks like**: the geometry: which aspects, between how many planets, in which signs or elements it tends to fall.
+- **How common**, from `plan/pattern-facts.json`, with its orbs said once (*about 1 person in 10 born 1930–2009 has a grand trine among the ten planets, with orbs of 8° for the Sun and Moon and 6° otherwise*). Say what the count leaves out (the angles, Chiron, the nodes) and that a wider or tighter orb changes it a great deal.
+- The AGS library's rules for patterns: *patterns emerge from repetition, not isolated factors; no single factor determines dominance; clusters describe emphasis, not fixed identity*. A pattern is read through the planets, signs and houses it joins, never as a verdict.
+- Chart shapes (bowl, bucket, bundle, locomotive, seesaw, splash, splay) come from *Marc Edmund Jones, The Guide to Horoscope Interpretation* (check the edition and year before citing).
+- Facts keys: Shape · Aspects · How common · Orbs. French: Forme · Aspects · Fréquence · Orbes.
+
+### History
+
+| | English | French |
+|---|---|---|
+| 1 | `## What it was {#what-it-was}` | `## Ce que c’était {#ce-que-c-etait}` |
+| 2 | `## What it gave astrology {#what-it-gave-astrology}` | `## Ce qu’elle a apporté {#ce-qu-elle-a-apporte}` |
+
+`family`: the plan's (`links-for.mjs` shows it); glyph *✦*.
+
+- Dates, names, places and texts only from scholarly sources you have checked (author, title, publisher, year; chapter or page where it helps), never from memory or from astrology websites that cite nothing. Where historians disagree, say so.
+- What it gave the astrology Joana practises (modern tropical astrology with traditional techniques), linked to the pages of those techniques.
+- Facts keys: Period · Where · Key texts · Gave us. French: Période · Où · Textes clés · Ce qu’elle a apporté.
+
 ## Links
 
 - Write the **English path in both languages**: `[Lune en Bélier](/astrology/moon-in-aries/)` opens the French page on the French site. Only anchors change: a French page links French anchors (`/blog/saturn-chiron-lilith/#pourquoi-pas-le-soleil`, not `#why-not-the-sun`).
