@@ -23,7 +23,7 @@ faq:
   - q: "À quel âge a lieu le retour de Saturne ?"
     a: "Saturne met environ 29,4 ans à faire le tour : la planète revient à son degré de naissance vers la fin de la vingtaine. Pour toutes les naissances de 1930 à 2009, le premier passage exact est tombé entre 28,4 et 29,9 ans. Le deuxième vient vers 58 à 60 ans, et parfois un troisième."
   - q: "Combien de temps dure un retour de Saturne ?"
-    a: "Avec les orbes que j’utilise pour suivre les transits, de 1,5° avant l’exactitude à 1° après, neuf mois environ en général : Saturne passe souvent trois fois sur le point, en avant, en arrière, puis encore en avant. Un passage unique peut durer trois semaines. Certains comptent tout le séjour de Saturne dans son signe natal, deux ans et demi environ."
+    a: "Avec les orbes que j’utilise pour suivre les transits, de 1,5° avant l’exactitude à 1° après, neuf mois environ : Saturne passe souvent trois fois sur le point, en avant, en arrière, puis encore en avant. Un passage unique peut durer trois semaines. Certains comptent tout le séjour de Saturne dans son signe natal, deux ans et demi environ."
   - q: "Le retour de Saturne est-il toujours une crise ?"
     a: "Non. Il a la réputation d’un bouleversement, mais ce qu’il décrit est un bilan : ce que vous avez construit à votre façon tend à tenir, ce que vous avez porté pour satisfaire quelqu’un d’autre tend à vaciller. Certains retours passent sans bruit. Tout dépend de Saturne dans votre thème natal et de ce qui bouge en même temps."
   - q: "Toutes les personnes de mon âge vivent-elles le même retour de Saturne ?"

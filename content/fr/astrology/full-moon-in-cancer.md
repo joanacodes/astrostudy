@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 51
 glyph: "○♋"
-definition: "La pleine lune en Cancer, c’est la Lune dans son propre signe face au Soleil en Capricorne, la première pleine lune après le solstice de décembre. Elle éclaire l’axe Cancer–Capricorne : le foyer et le monde, le soin et le devoir. Dans un thème, elle compte à 1° environ d’un point natal, à l’un ou l’autre bout ; à 3° pour une éclipse."
+definition: "La pleine lune en Cancer, c’est la Lune dans son propre signe face au Soleil en Capricorne, la première pleine lune après le solstice de décembre. Elle éclaire l’axe Cancer–Capricorne : le foyer et le monde. Dans un thème, elle compte à 1° environ d’un point natal, à l’un ou l’autre bout ; à 3° pour une éclipse."
 facts:
   - { k: "Dans le ciel", v: "La Lune en Cancer ♋, le Soleil en face, en Capricorne ♑" }
   - { k: "Axe", v: "Cancer–Capricorne : le foyer et le monde" }
@@ -34,17 +34,17 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les phases de la Lune et les éclipses" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "la maîtrise de la Lune sur le Cancer, celle de Saturne sur le Capricorne" }
 ---
-La pleine lune en Cancer, c’est la Lune qui brille dans son propre signe, face à un Soleil en Capricorne, et c’est la première pleine lune après le solstice de décembre. Elle met le foyer, la famille et ce dont vous avez besoin pour vous sentir en sécurité face au travail, au devoir et au long terme.
+La pleine lune en Cancer, c’est la Lune qui brille dans son propre signe, face à un Soleil en Capricorne : la première pleine lune après le solstice de décembre. Elle met le foyer, la famille et votre besoin de sécurité face au travail, au devoir et au long terme.
 
 ## Ce qu’elle apporte {#ce-qu-elle-apporte}
 
-Une [pleine lune](/astrology/full-moon/) a lieu quand la Lune fait face au Soleil, entièrement éclairée. En [Cancer](/astrology/cancer/), elle est chez elle : c’est le signe qu’elle gouverne, et ses besoins y parlent clairement, l’abri, la proximité, les personnes que vous dites vôtres. Le Soleil se tient au même degré du [Capricorne](/astrology/capricorn/), où le travail, les responsabilités et ce que vous construisez donnent sa direction au mois. L’axe va du privé au public, et cette pleine lune montre souvent ce que l’un coûte à l’autre : les soirées prises par le travail, ou l’ambition mise de côté pour le confort de tous. Aucun des deux bouts ne gagne à être sacrifié. Votre [Lune](/astrology/moon/) natale et [Saturne](/astrology/saturn/), maîtres des deux signes, montrent où ces deux côtés se rencontrent dans votre thème.
+Une [pleine lune](/astrology/full-moon/) a lieu quand la Lune fait face au Soleil, entièrement éclairée. En [Cancer](/astrology/cancer/), elle est chez elle : c’est le signe qu’elle gouverne, et ses besoins y parlent clairement, l’abri, la proximité, les personnes que vous dites vôtres. Le Soleil se tient au même degré du [Capricorne](/astrology/capricorn/), où le travail et ce que vous construisez orientent le mois. L’axe va du privé au public, et cette pleine lune montre souvent ce que l’un coûte à l’autre : les soirées prises par le travail, ou l’ambition mise de côté pour le confort de tous. Aucun des deux bouts ne gagne à être sacrifié. Votre [Lune](/astrology/moon/) natale et [Saturne](/astrology/saturn/), maîtres des deux signes, montrent où ces côtés se rencontrent.
 
-Cela reste un repère de quelques jours. Je lui donne du poids quand un bout de l’axe touche une planète ou un angle natal, à un degré environ, et seulement comme le moment où ce qui est déjà actif, par transit, progression ou arc solaire, arrive à son comble. Elle ne prédit rien.
+Cela reste un repère de quelques jours. Je lui donne du poids quand un bout de l’axe touche l’un de vos angles ou l’une de vos planètes, à un degré environ, et seulement comme le moment où ce qui est déjà actif, par transit, progression ou arc solaire, arrive à son comble. Elle ne prédit rien.
 
 La dernière fois, le 3 janvier 2026, elle est tombée à 13°02′ du Cancer. La prochaine a lieu le 24 décembre 2026 à 1 h 28 TU, à 2°14′, soit encore le 23 décembre sur le continent américain. L’année 2027 n’en a aucune : la suivante attend le 12 janvier 2028, à 21°27′, une [éclipse de Lune](/astrology/lunar-eclipses/) partielle. Vient ensuite le 31 décembre 2028, à 10°33′, une éclipse totale : 2028 compte donc deux pleines lunes en Cancer, et ce sont deux éclipses. La dernière, le 19 janvier 2030, tombe à 29°37′.
 
-Ces éclipses appartiennent à une série sur l’axe Cancer–Capricorne ([éclipse en Cancer](/astrology/eclipse-in-cancer/)). Pour une éclipse, mon orbe est plus large, environ 3°, et elle peut toucher l’un ou l’autre bout ; je lis le point natal qu’elle rencontre, avec sa maison, comme un accent et non comme un présage. Deux semaines après l’éclipse totale, le 14 janvier 2029, la [nouvelle lune en Capricorne](/astrology/new-moon-in-capricorn/) est une éclipse solaire partielle ; les autres années aussi, toutes deux tombent dans le même mois solaire. Un mois plus tôt, c’est la [pleine lune en Gémeaux](/astrology/full-moon-in-gemini/) ; un mois plus tard, la [pleine lune en Lion](/astrology/full-moon-in-leo/).
+Ces éclipses appartiennent à une série sur l’axe Cancer–Capricorne ([éclipse en Cancer](/astrology/eclipse-in-cancer/)). Pour une éclipse, mon orbe est plus large, environ 3°, et elle peut toucher l’un ou l’autre bout ; je lis le point natal qu’elle rencontre, avec sa maison, comme un accent et non comme un présage. Deux semaines après l’éclipse totale, le 14 janvier 2029, la [nouvelle lune en Capricorne](/astrology/new-moon-in-capricorn/) est une éclipse solaire partielle ; les autres années aussi, les deux partagent un même mois solaire. La [pleine lune en Gémeaux](/astrology/full-moon-in-gemini/) la précède d’un mois, la [pleine lune en Lion](/astrology/full-moon-in-leo/) la suit d’un mois.
 
 ## Maison par maison {#maison-par-maison}
 
@@ -52,19 +52,19 @@ La maison du Cancer de votre thème reçoit la Lune, sa maison du Capricorne le 
 
 1. **[Maison I](/astrology/1st-house/) :** ascendant Cancer : vos émotions et votre besoin qu’on prenne soin de vous se voient plus que d’habitude, pendant que l’autre veut de l’engagement.
 2. **[Maison II](/astrology/2nd-house/) :** l’argent qui vous rassure vous occupe l’esprit, pendant que les finances communes, en maison 8, demandent une structure.
-3. **[Maison III](/astrology/3rd-house/) :** une conversation avec une sœur, un frère ou un voisin qui parle en fait d’appartenance, pendant que des études longues demandent de la discipline.
+3. **[Maison III](/astrology/3rd-house/) :** un échange avec la famille proche ou le voisinage qui parle en fait d’appartenance, pendant que des études longues demandent de la discipline.
 4. **[Maison IV](/astrology/4th-house/) :** la maison du Cancer lui-même, au Fond du Ciel : le foyer et la famille remplissent le mois au moment où la carrière vous en demande le plus.
 5. **[Maison V](/astrology/5th-house/) :** les personnes que vous aimez et ce que vous faites pour elles, face à un groupe ou à un rôle dans une organisation.
 6. **[Maison VI](/astrology/6th-house/) :** le soin quotidien que vous donnez et recevez arrive à son comble, pendant que quelque chose porté en privé demande à être posé.
 7. **[Maison VII](/astrology/7th-house/) :** le Cancer au descendant : le besoin de proximité de l’autre remonte pendant que vos objectifs vous absorbent.
-8. **[Maison VIII](/astrology/8th-house/) :** la confiance et les liens affectifs dans ce que vous partagez, face à vos propres ressources et à leurs limites.
+8. **[Maison VIII](/astrology/8th-house/) :** la confiance et les liens affectifs dans ce que vous partagez, face à vos ressources et à leurs limites.
 9. **[Maison IX](/astrology/9th-house/) :** le désir d’un lieu qui ressemble à un foyer, à l’étranger ou dans une croyance, pendant que les devoirs du quotidien vous retiennent.
-10. **[Maison X](/astrology/10th-house/) :** le Cancer au Milieu du Ciel : un rôle public tourné vers le soin des autres se dessine, pendant que le foyer vous demande de prendre les choses en main.
+10. **[Maison X](/astrology/10th-house/) :** le Cancer au Milieu du Ciel : un rôle public tourné vers le soin des autres se dessine, pendant que le foyer vous demande de tenir la barre.
 11. **[Maison XI](/astrology/11th-house/) :** des amis qui sont comme une famille, face à un projet créatif personnel qui exige de la discipline.
 12. **[Maison XII](/astrology/12th-house/) :** de vieux sentiments remontent dans les moments calmes, pendant que la journée de travail demande structure et endurance.
 
 ## Ce qui aide {#ce-qui-aide}
 
-Commencez par les degrés : une planète ou un angle à un degré de chacune des positions ci-dessus, au bout Cancer ou au bout Capricorne, ou à trois degrés environ pour les éclipses de 2028. Demandez-vous ce qui est déjà actif à cet endroit.
+Commencez par les degrés : une planète ou un angle tout près d’une des positions ci-dessus (un degré), au bout Cancer ou au bout Capricorne, ou à trois degrés pour les éclipses de 2028. Voyez alors ce qui s’y joue déjà, par transit ou progression.
 
-Regardez ensuite votre Lune et Saturne : la Lune montre comment vous prenez soin de vous, Saturne comment vous portez vos responsabilités, et cette pleine lune leur demande de se faire de la place. Si vous le pouvez, donnez ce mois-ci quelque chose de réel à chaque bout de l’axe : une soirée qui appartient au foyer, et un pas clair au travail.
+Regardez ensuite votre Lune et Saturne : la Lune montre comment vous prenez soin de vous, Saturne comment vous portez vos responsabilités, et cette pleine lune leur demande de se faire de la place. Donnez ce mois-ci quelque chose de réel à chaque bout de l’axe : une soirée qui appartient au foyer, et un pas clair au travail.
