@@ -27,7 +27,7 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, their old names and Mars’s joy in the 6th" }
   - { title: "Dorotheus of Sidon, Carmen Astrologicum", note: "the houses in practice" }
 ---
-Mercury in the 6th house thinks best with its sleeves rolled up. Give this mind a task, a process that isn't working or a day that needs organising, and it settles; leave it idle and it starts reorganising the cupboard.
+Give Mercury in the 6th house a task, a process that isn't working or a day that needs organising, and it settles; leave it idle and it starts reorganising the cupboard. This is a mind that thinks best with its sleeves rolled up.
 
 ## In a birth chart {#in-a-birth-chart}
 
@@ -37,7 +37,7 @@ The old books also gave this house illness. A chart can't diagnose or predict an
 
 The house system matters with this placement. In Placidus, which I use, the 6th is drawn from the time of birth and can be wide or narrow; in whole sign houses it's simply the sixth sign from your rising sign. The same Mercury can sit in the 6th in one system and the 7th in the other, and in either it needs the birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Before it, [Mercury in the 5th house](/astrology/mercury-in-5th-house/) plays; after it, [Mercury in the 7th house](/astrology/mercury-in-7th-house/) talks things through with a partner. The 6th is where the mind clocks in.
+In the house before, [Mercury in the 5th house](/astrology/mercury-in-5th-house/) plays; in the house after, [Mercury in the 7th house](/astrology/mercury-in-7th-house/) talks things through with a partner. The 6th is where the mind clocks in.
 
 ## In close relationships {#in-close-relationships}
 

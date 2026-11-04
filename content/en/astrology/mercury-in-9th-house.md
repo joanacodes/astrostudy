@@ -22,7 +22,7 @@ faq:
   - q: "Is Mercury in the 9th house weak because Sagittarius is its detriment?"
     a: "No. Sagittarius is the natural sign of the 9th house, but a house isn’t a sign: Mercury’s condition comes from the sign it is actually in. The 9th gives Mercury its subjects, meaning, belief and distance, and says nothing by itself about how well it handles them."
   - q: "Does Mercury in the 9th house mean higher education?"
-    a: "Tradition gave the 9th house philosophy, religion and long journeys, and modern astrologers add higher learning. With Mercury there, I read a mind that learns for meaning, whether or not that ever leads to a degree. A chart can’t tell you which studies you will take, or finish."
+    a: "Tradition gave the 9th house philosophy, religion and long journeys, and astrologers today add higher learning. With Mercury there, I read a mind that learns for meaning, whether or not that ever leads to a degree. A chart can’t tell you which studies you will take, or finish."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, their old names and the Sun’s joy in the 9th" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Midheaven and the meridian" }

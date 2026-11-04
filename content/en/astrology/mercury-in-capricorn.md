@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Mercury stays in Capricorn, and how many people born 1930–2009 have it" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-Mercury in Capricorn thinks the way a builder reads a plan: what holds it up, what it will cost, what has to happen first. Its sentences are few and load-bearing, and it would rather be right next year than impressive today.
+A builder reads a plan for what holds it up, what it will cost and what has to happen first, and Mercury in Capricorn reads everything that way. Its sentences are few and load-bearing, and it would rather be right next year than impressive today.
 
 ## In a birth chart {#in-a-birth-chart}
 
@@ -38,7 +38,7 @@ Tradition exalts Mars in Capricorn and leaves Mercury on neutral ground: no dign
 
 Capricorn's ruler is [Saturn](/astrology/saturn/), and it matters twice here. Saturn's sign and house show where this mind takes on its responsibilities. And Saturn is one of [the three that held](/blog/saturn-chiron-lilith/) far more often than the rest in [my notebook](/blog/i-tested-my-birth-chart/), 75 to 90% of the time, while Mercury held about a third. So when I read a Capricorn Mercury, I spend at least as long on its ruler.
 
-The share is about 1 person in 11 for births from 1930 to 2009. Its visits to Capricorn run to about 20 days as a rule, and to as many as 67 when it turns retrograde there: time enough to revise a plan properly.
+The share is about 1 person in 11 for births from 1930 to 2009. Mercury's visits to Capricorn run to about 20 days as a rule, and to as many as 67 when it turns retrograde there: time enough to revise a plan properly.
 
 It arrives from [Mercury in Sagittarius](/astrology/mercury-in-sagittarius/), where the mind gazed at the horizon, and turns to the road that leads there; [Mercury in Aquarius](/astrology/mercury-in-aquarius/), next, will ask whether the road should exist at all. Look at the Sun beside it. In Sagittarius, a broad, hopeful self gets a mind that counts the cost. In Aquarius, an independent self gets a mind that wants a plan before it changes anything. In Capricorn, the two keep the same timetable.
 

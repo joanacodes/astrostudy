@@ -36,7 +36,7 @@ In [Aquarius](/astrology/aquarius/), fixed air, [Mercury](/astrology/mercury/) t
 
 Aquarius is where tradition puts the Sun in its detriment, opposite Leo; Mercury, here, has no dignity either way.
 
-Like Scorpio and Pisces, Aquarius has two rulers: [Saturn](/astrology/saturn/), which held it for the whole of the tradition, and [Uranus](/astrology/uranus/), which modern tropical astrology gave it after the planet was discovered in 1781, and I read the pair together ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). Uranus gives this Mercury its leaps, the sudden connection, the idea that arrives whole. Saturn gives it structure, the patience to turn a leap into a working system. Where each one sits in your chart shows which tends to lead.
+Like Scorpio and Pisces, Aquarius has two rulers: [Saturn](/astrology/saturn/), which held it for the whole of the tradition, and [Uranus](/astrology/uranus/), which modern tropical astrology gave it after the planet was discovered in 1781, and I read both, side by side ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). Uranus gives this Mercury its leaps, the sudden connection, the idea that arrives whole. Saturn gives it structure, the patience to turn a leap into a working system. Where each one sits in your chart shows which tends to lead. In [my notebook](/blog/i-tested-my-birth-chart/), about a third of the Mercury placements I checked held, which seems to suit an Aquarian mind: a result to think with, not a rule to obey.
 
 Roughly 1 person in 12 thinks with this Mercury, going by everyone born 1930–2009. A stay usually lasts about 19 days; a retrograde turn in Aquarius can stretch it to 67, a long rethink in a sign that likes rethinking.
 
@@ -56,4 +56,4 @@ Holding on to an idea after the facts have moved, because you reasoned your way 
 
 ## What helps {#what-helps}
 
-Test your best idea against someone who disagrees, and listen for the part they're right about. Turn a concept into an example a friend could follow. Name the feeling before you explain it. Keep a list of the ideas you've changed your mind about: it's good evidence that an independent mind can also be an open one. In [my notebook](/blog/i-tested-my-birth-chart/), about a third of the Mercury placements I checked held, which seems to suit an Aquarian mind: a result to think with, not a rule to obey.
+Test your best idea against someone who disagrees, and listen for the part they're right about. Turn a concept into an example a friend could follow. Name the feeling before you explain it. Keep a list of the ideas you've changed your mind about: it's good evidence that an independent mind can also be an open one.

@@ -34,7 +34,7 @@ Your friends are your thinking partners when Mercury sits in the 11th house. Ide
 
 [The 11th house](/astrology/11th-house/) is the house of friends, groups, networks, communities and hopes for the future. Succedent, it follows the Midheaven; its natural sign is Aquarius, and tradition called it Good Spirit and gave Jupiter its joy there ([planetary joys](/astrology/planetary-joys/)). With [Mercury](/astrology/mercury/) here, thinking is social. You connect people, circulate ideas, and often know someone who knows the answer. The sign describes the circle: a Mercury in Taurus here keeps a few loyal friends and long conversations, in Gemini a wide web of acquaintances, in Leo a group it gladly speaks for, in Virgo a team that gets things done. An Aquarian Mercury in this house turns the network itself into a way of seeing the world ([Mercury in Aquarius](/astrology/mercury-in-aquarius/)).
 
-Hopes belong to this house too, and Mercury tends to put them into words: plans discussed with friends, causes argued for, a future you can describe in detail. The friends who matter most to you are often the ones who changed your mind about something.
+Hopes belong to this house too, and Mercury tends to put them into words: plans discussed with friends, causes argued for, a future you can describe in detail. The friends who matter most to you are often the ones who changed your mind about something. Even my own testing was done in company: I checked charts with family, friends and strangers who agreed to it, and they marked each line with me. In [my notebook](/blog/i-tested-my-birth-chart/), Mercury held about a third of the time, so I treat this placement the way it treats ideas: as something to talk over together.
 
 A birth time known only to the hour can shift Mercury into the 10th or the 12th, so I need the minutes. In Placidus, the house system I use, an 11th-house Mercury was climbing the eastern sky when you were born, two houses above the horizon ([what changes without a birth time](/blog/unknown-birth-time/)).
 
@@ -54,4 +54,4 @@ Thinking by consensus: holding the group's view because it's the group's. Spread
 
 ## What helps {#what-helps}
 
-Keep a few one-to-one friendships where the conversation can go deep. Test an idea alone before you test it on the group. Choose one hope and make a plan for it with the friends who share it. Even my own testing was done in company: I checked charts with family, friends and strangers who agreed to it, and they marked each line with me. In [my notebook](/blog/i-tested-my-birth-chart/), Mercury held about a third of the time, so I treat this placement the way it treats ideas: as something to talk over together.
+Keep a few one-to-one friendships where the conversation can go deep. Test an idea alone before you test it on the group. Choose one hope and make a plan for it with the friends who share it.

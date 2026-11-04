@@ -41,7 +41,7 @@ Le Scorpion a deux maîtres. L’astrologie tropicale moderne le donne à [Pluto
 
 Environ 1 personne sur 11, parmi les naissances de 1930 à 2009, a ce placement. Le séjour habituel est de 20 jours environ ; quand Mercure devient rétrograde dans le signe, le séjour peut aller jusqu’à 67 jours, une longue et lente plongée pour un esprit qui aime la profondeur.
 
-[Mercure en Balance](/astrology/mercury-in-libra/) veut que chacun soit entendu ; [Mercure en Sagittaire](/astrology/mercury-in-sagittarius/) veut que la vérité soit dite à voix haute. Mercure en Scorpion veut que la vérité soit trouvée, et choisit qui l’entendra. Quant à votre Soleil, Mercure en reste si près qu’il ne peut être qu’en Balance, en Scorpion ou en Sagittaire. Un Soleil en Balance apporte la grâce et le goût de la compagnie, et Mercure en Scorpion voit sous la politesse. Un Soleil en Sagittaire est ouvert et franc, et, par Mercure en Scorpion, garde pourtant certaines choses pour soi sans tout à fait le vouloir.
+[Mercure en Balance](/astrology/mercury-in-libra/) veut que chacun soit entendu ; [Mercure en Sagittaire](/astrology/mercury-in-sagittarius/) veut que la vérité soit dite à voix haute. Mercure en Scorpion veut que la vérité soit trouvée, et choisit qui l’entendra. Quant à votre Soleil, Mercure en reste si près qu’il ne peut être qu’en Balance, en Scorpion ou en Sagittaire. Un Soleil en Balance apporte la grâce et le goût de la compagnie, et Mercure en Scorpion voit sous la politesse. Un Soleil en Sagittaire est ouvert et franc, et, par Mercure en Scorpion, garde pourtant certaines choses pour soi sans tout à fait le vouloir. Dans [mon carnet](/blog/i-tested-my-birth-chart/), environ un tiers seulement de mes vérifications de Mercure ont tenu : j’interroge donc le portrait de Mercure en Scorpion d’aussi près que ce placement interrogerait le mien.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -57,4 +57,4 @@ La méfiance. Un esprit réglé sur le sous-texte peut trouver un motif caché d
 
 ## Ce qui aide {#ce-qui-aide}
 
-Vérifier l’intuition par une question avant d’agir : *qu’est-ce que tu voulais dire par là ?* suffit souvent. Quand il vous faut du temps avant de dire quelque chose à quelqu’un, le dire, plutôt que vous taire. Partager d’abord une petite chose et voir ce qui revient. Écrire la phrase coupante dans un carnet, pas dans un message. Dans [mon carnet](/blog/i-tested-my-birth-chart/), environ un tiers seulement de mes vérifications de Mercure ont tenu : j’interroge donc le portrait de Mercure en Scorpion d’aussi près que ce placement interrogerait le mien.
+Vérifier l’intuition par une question avant d’agir : *qu’est-ce que tu voulais dire par là ?* suffit souvent. Quand il vous faut du temps avant de dire quelque chose à quelqu’un, le dire, plutôt que vous taire. Partager d’abord une petite chose et voir ce qui revient. Écrire la phrase coupante dans un carnet, pas dans un message.

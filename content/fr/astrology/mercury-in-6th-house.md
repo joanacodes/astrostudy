@@ -28,7 +28,7 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons, leurs noms anciens et la joie de Mars en maison 6" }
   - { title: "Dorothée de Sidon, Carmen Astrologicum", note: "les maisons en pratique" }
 ---
-Mercure en maison 6 pense le mieux les manches retroussées. Donnez à cet esprit une tâche, un processus qui ne marche pas ou une journée à organiser, et il s’apaise ; laissez-le désœuvré, et le voilà qui range les placards.
+Donnez une tâche à Mercure en maison 6, un processus qui ne marche pas ou une journée à organiser, et cet esprit s’apaise ; sans rien à faire, le voilà qui range les placards. C’est les manches retroussées que cet esprit pense le mieux.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
@@ -38,7 +38,7 @@ Les anciens livres donnaient aussi la maladie à cette maison. Un thème ne peut
 
 Le système de maisons compte, avec ce placement. En Placidus, que j’utilise, la maison 6 se calcule à partir de l’heure de naissance et peut être large ou étroite ; en maisons entières, c’est simplement le sixième signe à partir de votre ascendant. Le même placement de Mercure peut donc se trouver en maison 6 dans un système et en maison 7 dans l’autre, et dans les deux cas, il faut l’heure ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Avant elle, [Mercure en maison 5](/astrology/mercury-in-5th-house/) joue ; après elle, [Mercure en maison 7](/astrology/mercury-in-7th-house/) discute des choses avec un partenaire. La maison 6, c’est là que l’esprit pointe au travail.
+Une maison avant, [Mercure en maison 5](/astrology/mercury-in-5th-house/) joue ; une maison après, [Mercure en maison 7](/astrology/mercury-in-7th-house/) discute des choses avec un partenaire. La maison 6, c’est là que l’esprit pointe au travail.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 

@@ -37,7 +37,7 @@ La [maison 7](/astrology/7th-house/) est la maison de l’autre : les partenair
 
 En Placidus, le système avec lequel je travaille, le Descendant est la cuspide de la maison 7, sur l’horizon ouest, et Mercure en maison 7 se trouvait juste au-dessus à votre naissance, sur le point de se coucher. Mercure voyage près du Soleil : cela va donc en général avec une naissance dans les heures qui entourent le coucher du soleil. Quelques minutes dans un sens ou dans l’autre peuvent faire passer Mercure de l’autre côté du Descendant, en maison 6, et c’est pourquoi l’heure compte tant ici ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Avant elle, [Mercure en maison 6](/astrology/mercury-in-6th-house/) passe par le travail et les routines ; après elle, [Mercure en maison 8](/astrology/mercury-in-8th-house/) part à la recherche de ce qui est caché. La maison 7 se tient entre les deux, au cœur même de la conversation.
+Dans la maison précédente, [Mercure en maison 6](/astrology/mercury-in-6th-house/) passe par le travail et les routines ; dans la suivante, [Mercure en maison 8](/astrology/mercury-in-8th-house/) part à la recherche de ce qui est caché. La maison 7 se tient entre les deux, au cœur même de la conversation.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 

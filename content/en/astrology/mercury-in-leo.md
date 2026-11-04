@@ -38,7 +38,7 @@ The classical tables give Leo to the Sun and give Mercury nothing there, high or
 
 Leo's ruler is the [Sun](/astrology/sun/), and Mercury is never more than about 28° from it, so this Mercury always has its ruler close by: in Leo as well, or one sign away. I find that a useful image. Your thinking tends to serve what you're living for, and your words and your sense of purpose rarely drift far apart. With the Sun in Leo too, the two may sit together, and [Sun conjunct Mercury](/astrology/sun-conjunct-mercury/) describes that closeness. With the Sun in Cancer, a private, protective self speaks out warmly through this Mercury; with the Sun in Virgo, a modest, exacting self has a mind that dares to be heard.
 
-In most years Mercury takes about 17 days to cross Leo; a retrograde turn in the sign can hold it there for up to 70, long enough for a good story to be told twice. In any crowd born between 1930 and 2009, about 1 person in 13 would share it. A few degrees further back and you'd have [Mercury in Cancer](/astrology/mercury-in-cancer/), the same story kept rather than told; a few degrees on, [Mercury in Virgo](/astrology/mercury-in-virgo/) would be editing it.
+In most years Mercury takes about 17 days to cross Leo; a retrograde turn in the sign can hold it there for up to 70, long enough for a good story to be told twice. In any crowd born between 1930 and 2009, about 1 person in 13 would share it. A few degrees further back and you'd have [Mercury in Cancer](/astrology/mercury-in-cancer/), the same story kept rather than told; a few degrees on, [Mercury in Virgo](/astrology/mercury-in-virgo/) would be editing it. Mercury earned its tick in [my notebook](/blog/i-tested-my-birth-chart/) about one time in three, so a good story about your mind is still a story: I'd rather check it with you than tell it for you.
 
 ## In close relationships {#in-close-relationships}
 
@@ -54,4 +54,4 @@ A view, once announced, can become a matter of pride. Changing your mind in publ
 
 ## What helps {#what-helps}
 
-Separate the idea from yourself: *this draft* is weak, you aren't. Practise saying *I've changed my mind* as if it were good news, because it usually is. Ask for feedback privately before the big presentation, so the public moment is already the second draft. Hand the floor to someone else now and then, and enjoy their story as much as you'd want them to enjoy yours. Mercury earned its tick in [my notebook](/blog/i-tested-my-birth-chart/) about one time in three, so a good story about your mind is still a story: I'd rather check it with you than tell it for you.
+Separate the idea from yourself: *this draft* is weak, you aren't. Practise saying *I've changed my mind* as if it were good news, because it usually is. Ask for feedback privately before the big presentation, so the public moment is already the second draft. Hand the floor to someone else now and then, and enjoy their story as much as you'd want them to enjoy yours.

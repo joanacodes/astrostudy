@@ -23,7 +23,7 @@ faq:
   - q: "Mercure en maison 9, est-ce un placement faible, puisque le Sagittaire est son exil ?"
     a: "Non. Le Sagittaire est le signe naturel de la maison 9, mais une maison n’est pas un signe : l’état de Mercure vient du signe où se trouve vraiment la planète. La maison 9 donne à Mercure ses sujets, le sens, les croyances, le lointain, et ne dit rien, à elle seule, de la façon dont Mercure s’en sert."
   - q: "Mercure en maison 9, est-ce le signe d’études supérieures ?"
-    a: "La tradition donnait à la maison 9 la philosophie, la religion et les longs voyages, et les astrologues modernes y ajoutent les études supérieures. Avec Mercure ici, je lis un esprit qui apprend pour le sens, que cela mène ou non à un diplôme. Un thème ne peut pas dire quelles études vous suivrez, ni si vous les finirez."
+    a: "La tradition donnait à la maison 9 la philosophie, la religion et les longs voyages, et les astrologues d’aujourd’hui y ajoutent les études supérieures. Avec Mercure ici, je lis un esprit qui apprend pour le sens, que cela mène ou non à un diplôme. Un thème ne peut pas dire quelles études vous suivrez, ni si vous les finirez."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons, leurs noms anciens et la joie du Soleil en maison 9" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "le Milieu du Ciel et le méridien" }

@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée du passage de Mercure en Capricorne, et la part des personnes nées entre 1930 et 2009 qui ont ce placement" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-Mercure en Capricorne pense comme un bâtisseur lit un plan : ce qui le soutient, ce qu’il coûtera, ce qui doit venir en premier. Ses phrases sont rares et porteuses, et cet esprit préfère avoir raison l’an prochain plutôt qu’impressionner aujourd’hui.
+Un bâtisseur lit un plan pour savoir ce qui le soutient, ce qu’il coûtera et ce qui doit venir en premier, et Mercure en Capricorne lit tout de cette façon. Ses phrases sont rares et porteuses, et cet esprit préfère avoir raison l’an prochain plutôt qu’impressionner aujourd’hui.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
@@ -39,7 +39,7 @@ La tradition exalte Mars en Capricorne et laisse Mercure en terrain neutre : ni
 
 Le maître du Capricorne est [Saturne](/astrology/saturn/), et cela compte deux fois. Le signe et la maison de Saturne montrent où cet esprit prend ses responsabilités. Et Saturne fait partie [des trois qui ont tenu](/blog/saturn-chiron-lilith/) bien plus souvent que les autres dans [mon carnet](/blog/i-tested-my-birth-chart/), 75 à 90 % du temps, quand Mercure a tenu environ une fois sur trois. Alors, quand je lis Mercure en Capricorne, je passe au moins autant de temps sur son maître.
 
-La part est d’environ 1 personne sur 11 pour les naissances de 1930 à 2009. Ses visites en Capricorne durent en général 20 jours environ, et jusqu’à 67 quand Mercure y devient rétrograde : de quoi réviser un plan comme il faut.
+La part est d’environ 1 personne sur 11 pour les naissances de 1930 à 2009. Les visites de Mercure en Capricorne durent en général 20 jours environ, et jusqu’à 67 quand Mercure y devient rétrograde : de quoi réviser un plan comme il faut.
 
 Mercure arrive de [Mercure en Sagittaire](/astrology/mercury-in-sagittarius/), où l’esprit contemplait l’horizon, et se tourne vers la route qui y mène ; [Mercure en Verseau](/astrology/mercury-in-aquarius/), ensuite, demandera si cette route doit seulement exister. Regardez le Soleil à côté. En Sagittaire, un moi large et confiant reçoit un esprit qui compte ce que cela coûte. En Verseau, un moi indépendant reçoit un esprit qui veut un plan avant de changer quoi que ce soit. En Capricorne, les deux suivent le même calendrier.
 

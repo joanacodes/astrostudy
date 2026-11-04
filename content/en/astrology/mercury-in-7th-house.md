@@ -36,7 +36,7 @@ Alone, an idea stays half-formed; said to someone who answers, it takes shape. T
 
 In Placidus, the system I work with, the Descendant is the cusp of the 7th, on the western horizon, and a 7th-house Mercury was just above it when you were born, about to set. Mercury travels close to the Sun, so this usually goes with a birth in the hours around sunset. A few minutes either way can carry Mercury across the Descendant into the 6th, which is why the time matters so much here ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Before it, [Mercury in the 6th house](/astrology/mercury-in-6th-house/) thinks through work and routine; after it, [Mercury in the 8th house](/astrology/mercury-in-8th-house/) digs for what's hidden. The 7th sits between them, in the conversation itself.
+The house before belongs to [Mercury in the 6th house](/astrology/mercury-in-6th-house/), thinking through work and routine; the house after to [Mercury in the 8th house](/astrology/mercury-in-8th-house/), digging for what's hidden. The 7th sits between them, in the conversation itself.
 
 ## In close relationships {#in-close-relationships}
 

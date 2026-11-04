@@ -32,9 +32,9 @@ Mercury in Sagittarius wants to know what the facts mean before it wants all of 
 
 ## In a birth chart {#in-a-birth-chart}
 
-In [Sagittarius](/astrology/sagittarius/), mutable fire ruled by Jupiter and the sign of the whole picture, [Mercury](/astrology/mercury/), the collector of particulars, finds itself among meanings, beliefs and long views. Tradition calls this Mercury's [detriment](/astrology/detriment/), because Sagittarius sits opposite Gemini, one of Mercury's own signs. I read the detriment as a change of method, not a lesser mind: the planet of detail, placed in the sign of meaning, gathers the meaning first and lets the details catch up.
+In [Sagittarius](/astrology/sagittarius/), mutable fire ruled by Jupiter and the sign of the whole picture, [Mercury](/astrology/mercury/), the collector of particulars, finds itself among meanings, beliefs and long views. Tradition calls this Mercury's [detriment](/astrology/detriment/), because Sagittarius sits opposite Gemini, one of Mercury's own signs. I read the detriment as a change of method, not a lesser mind: the planet of detail, placed in the sign of meaning, gathers the meaning first and lets the details catch up. [My notebook](/blog/i-tested-my-birth-chart/) can't settle whether the tradition's weakening shows, since it counts Mercury as a whole, which held about a third of the time, so when a reading rests on this Mercury, I say so.
 
-So this Mercury thinks by synthesis. It finds the principle under ten examples, the story that ties a life's work together, the question behind the question. It learns quickly when the subject matters to it and slowly when it can't see the point. [Jupiter](/astrology/jupiter/), the sign's ruler, sets the direction: wherever it sits in your chart is where this mind goes looking for meaning.
+This Mercury thinks by synthesis. It finds the principle under ten examples, the story that ties a life's work together, the question behind the question. It learns quickly when the subject matters to it and slowly when it can't see the point. [Jupiter](/astrology/jupiter/), the sign's ruler, sets the direction: wherever it sits in your chart is where this mind goes looking for meaning.
 
 Mercury usually takes about 20 days over Sagittarius, and up to 67 in a year when it turns retrograde there, circling back as if to check the map. For about 1 person in 11 born between 1930 and 2009, this is the Mercury they have.
 
@@ -54,4 +54,4 @@ Generalising. One example becomes a rule, a hunch is spoken as a certainty, and 
 
 ## What helps {#what-helps}
 
-Keep a checklist for the details, and use it before you send. Ask *how do I know this?* about your strongest opinions. Teach, if you can: explaining something to a beginner forces precision. Before saying the frank thing, ask whether it's also the useful thing. Tradition weakens Mercury here, and [my notebook](/blog/i-tested-my-birth-chart/) can't settle whether that shows, since it counts Mercury as a whole, which held about a third of the time. So I read this Mercury as a different method with its own kind of wisdom, and I say so when a reading rests on it.
+Keep a checklist for the details, and use it before you send. Ask *how do I know this?* about your strongest opinions. Teach, if you can: explaining something to a beginner forces precision. Before saying the frank thing, ask whether it's also the useful thing.
