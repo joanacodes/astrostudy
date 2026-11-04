@@ -36,13 +36,13 @@ Uranus square Neptune belongs to births of the 1950s, when Uranus stood mostly i
 
 In plain words, the urge to break away and the urge to belong to something larger keep catching on each other. You change a system and feel the dream go out of it; you hold an ideal and find it needs a reform you'd rather not make. Restlessness and disenchantment both visit. Yet each planet keeps the other honest: Uranus asks the ideal to become workable, and Neptune asks the innovation what it's for. Over time, that is the square's gift: ideals tested by change, and changes that keep their meaning.
 
-Cancer and Neptune's Libra are both cardinal signs, signs that start things. As a shared theme I read the square as friction between new ways of living at home and ideals of partnership and fairness. What it does in one life depends on the chart around it.
+Cancer and Libra are both cardinal signs, signs that start things. As a shared theme I read the square as friction between new ways of living at home and ideals of partnership and fairness. What it does in one life depends on the chart around it.
 
 ## In a birth chart {#in-a-birth-chart}
 
 About 1 person in 16 born between 1930 and 2009 has this square within 6°. Every one of them was born from July to October 1951, from June to December 1952, from May 1953 to July 1957, or from January to May 1958; nobody else in those eighty years has it. The closer your birth to an exact square, the louder the friction.
 
-Being a generation's aspect, it becomes yours through your houses ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). Uranus in the 4th square Neptune in the 7th, for example, could set a home life that needs room to change against an ideal of partnership that asks for harmony. A contact with your Sun, Moon or an angle makes it personal too. The houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)). Uranus moves faster, about 84 years round the zodiac to Neptune's 165.
+Being a generation's aspect, it becomes yours through your houses ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). Uranus in the 4th square Neptune in the 7th, for example, could set a home life that needs room to change against an ideal of partnership that asks for harmony. A contact with your Sun, Moon or an angle makes it personal too. The houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)). Uranus, about twice as quick as Neptune, was closing the gap: after this square, it went on to meet Neptune in the 1990s.
 
 The pair's other aspects:
 

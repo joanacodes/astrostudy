@@ -40,7 +40,7 @@ Concrètement, ce que vous aimez reste rarement simple. Une attirance légère p
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Un carré relie en général deux signes du même mode, à trois signes d’écart. En signes fixes, avec Pluton en Lion et Vénus en Taureau ou en Scorpion, la friction tourne autour de retenir et de laisser partir. En signes cardinaux, avec Pluton en Balance et Vénus en Cancer ou en Capricorne, elle porte plutôt sur qui fixe les règles d’un lien. Le signe de Pluton est celui de votre génération ; vos maisons n’appartiennent qu’à vous. Vénus en maison 7 en carré avec Pluton en maison 10 pourrait faire qu’un couple et une ambition se remodèlent l’un l’autre pendant des années.
+À trois signes d’écart, Vénus et Pluton partagent en général un mode. En signes fixes, avec Pluton en Lion et Vénus en Taureau ou en Scorpion, la friction tourne autour de retenir et de laisser partir. En signes cardinaux, avec Pluton en Balance et Vénus en Cancer ou en Capricorne, elle porte plutôt sur qui fixe les règles d’un lien. Le signe de Pluton est celui de votre génération ; vos maisons n’appartiennent qu’à vous. Vénus en maison 7 en carré avec Pluton en maison 10 pourrait faire qu’un couple et une ambition se remodèlent l’un l’autre pendant des années.
 
 Environ 1 personne sur 15 naît avec Vénus et Pluton à moins de 6° d’un carré exact. Serré, c’est un thème que vous reconnaîtrez dans la plupart de vos liens proches ; vers 6°, il se montre surtout quand quelque chose compte énormément. Vénus est de loin la plus rapide, et quand elle se rapproche encore du carré exact, beaucoup d’astrologues ressentent une tension qui monte plutôt qu’elle ne retombe ([aspects appliquants et séparants](/astrology/applying-and-separating-aspects/)).
 

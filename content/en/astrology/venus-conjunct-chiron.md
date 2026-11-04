@@ -32,7 +32,7 @@ Venus conjunct Chiron puts what you value and the way you adapt around a tender 
 
 ## What it means {#what-it-means}
 
-[Venus](/astrology/venus/) is the part of a chart that evaluates: what attracts you, what you prefer, what you find beautiful, and the reciprocity of a bond. [Chiron](/astrology/chiron/) is the part that adapts: it changes method, pace or expectation around a sensitivity or limit that stays, without needing it to disappear, and turns that adjustment into skill. A [conjunction](/astrology/conjunction/) binds them into one process, each keeping its identity.
+[Venus](/astrology/venus/) is the part of a chart that evaluates: what attracts you, what you prefer, what you find beautiful, and the reciprocity of a bond. [Chiron](/astrology/chiron/) is the part that adapts: it changes method, pace or expectation around a sensitivity or limit that stays, without needing it to disappear, and turns that adjustment into skill. In a [conjunction](/astrology/conjunction/) the tender spot and your taste become one way of relating, without either swallowing the other.
 
 In plain words, the tender place and the way you value sit together. It may be a sensitivity about being chosen, about how you're seen, or about whether what you offer is worth enough. The conjunction doesn't make that sensitivity your identity: the limit is context, not who you are. What it does is make your way of relating unusually considered. You notice who's left out of a room and make space; you know how to make an exchange feel fair to someone who expects it not to be. Your taste often runs to what has been adapted and made to work for real people rather than for show.
 

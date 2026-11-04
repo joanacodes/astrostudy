@@ -39,7 +39,7 @@ In plain words, what you like rarely stays simple. A light attraction can turn s
 
 ## In a birth chart {#in-a-birth-chart}
 
-A square usually links signs of the same modality, three apart. In fixed signs, as with Pluto in Leo and Venus in Taurus or Scorpio, the friction turns on holding on and letting go. In cardinal signs, as with Pluto in Libra and Venus in Cancer or Capricorn, it's more about who sets the terms of a bond. Pluto's sign is your generation's; your houses are your own: Venus in the 7th square Pluto in the 10th might set a partnership and an ambition reshaping each other for years.
+Three signs apart, Venus and Pluto usually share a modality. In fixed signs, as with Pluto in Leo and Venus in Taurus or Scorpio, the friction turns on holding on and letting go. In cardinal signs, as with Pluto in Libra and Venus in Cancer or Capricorn, it's more about who sets the terms of a bond. Pluto's sign is your generation's; your houses are your own: Venus in the 7th square Pluto in the 10th might set a partnership and an ambition reshaping each other for years.
 
 About 1 person in 15 is born with Venus and Pluto within 6° of a square. Tight, it's a theme you'll recognise in most of your close bonds; near 6°, it shows mainly when something matters a great deal. Venus is by far the faster, and where it's still closing on the exact square, many astrologers feel the friction as building rather than easing ([applying and separating aspects](/astrology/applying-and-separating-aspects/)).
 

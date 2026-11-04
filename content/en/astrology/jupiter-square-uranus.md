@@ -40,9 +40,9 @@ Friction isn't failure. The risk lies in taking on too much that is new at once;
 
 ## In a birth chart {#in-a-birth-chart}
 
-Roughly 1 in 17 of those born from 1930 to 2009 has it within 6°, in spells about seven years apart: August 1930 to June 1931; January–February and September–October 1938; August–October 1944 and May–July 1945; April 1951 to February 1952; October–December 1958; May–July 1965 and December 1965 to March 1966; December 1972 to February 1973; July–August 1979 and April 1980; May 1986 to March 1987; December 1992 to February 1993 and August–October 1993; April–June 2000; and December 2006 to November 2007.
+In the eighty years from 1930 to 2009, about 1 birth in 17 has it within 6°, in spells about seven years apart: August 1930 to June 1931; January–February and September–October 1938; August–October 1944 and May–July 1945; April 1951 to February 1952; October–December 1958; May–July 1965 and December 1965 to March 1966; December 1972 to February 1973; July–August 1979 and April 1980; May 1986 to March 1987; December 1992 to February 1993 and August–October 1993; April–June 2000; and December 2006 to November 2007.
 
-It says as much about a birth year as about you, since a social planet and a generational one make it ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). In the houses, it becomes particular. Jupiter in the 3rd square Uranus in the 6th, say, might keep your everyday learning and your work routines in lively disagreement; Jupiter in the 4th square Uranus in the 1st, a home that keeps having to make room for your independence. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+It says as much about a birth year as about you, since a social planet and a generational one make it ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). In the houses, it becomes particular. Jupiter in the 5th square Uranus in the 8th, say, might keep your creative risks and what you share most closely in lively disagreement; Jupiter in the 4th square Uranus in the 1st, a home that keeps having to make room for your independence. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Measured against the square:
 

@@ -52,7 +52,7 @@ Les autres angles de la paire :
 - **[Vénus carré Lilith](/astrology/venus-square-lilith/) :** les deux mêmes en désaccord, si bien que plaire et être soi doivent négocier.
 - **[Vénus opposition Lilith](/astrology/venus-opposite-lilith/) :** de part et d’autre du thème plutôt que côte à côte ; une autonomie rencontrée d’abord chez les autres.
 
-Entre deux thèmes, [Vénus trigone Lilith en synastrie](/astrology/venus-trine-lilith-synastry/) ressemble souvent à un soulagement : l’affection de l’une des deux personnes et la part indomptée de l’autre s’entendent d’emblée, et chacune peut cesser de jouer un rôle. Je ne le regarde que si les deux personnes me l’ont demandé ([synastrie et consentement](/blog/synastry-behind-their-back/)).
+Entre deux thèmes, [Vénus trigone Lilith en synastrie](/astrology/venus-trine-lilith-synastry/) ressemble souvent à un soulagement : l’affection de l’une des deux personnes et la part indomptée de l’autre s’entendent d’emblée, et chacune peut cesser de jouer un rôle. C’est une lecture que je ne fais que pour deux personnes qui la veulent toutes les deux ([synastrie et consentement](/blog/synastry-behind-their-back/)).
 
 ## En transit {#en-transit}
 

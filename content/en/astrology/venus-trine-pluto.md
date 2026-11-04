@@ -31,7 +31,7 @@ Venus trine Pluto gives what you value a long root system. Depth and attachment 
 
 ## What it means {#what-it-means}
 
-[Venus](/astrology/venus/) is the part of a chart that evaluates: what you're drawn to, what you choose, what feels worth keeping, and how fairly you give and receive. [Pluto](/astrology/pluto/) is the part that regenerates: it clears away old forms so that something stronger can grow in their place. A [trine](/astrology/trine/) relates them through flow and mutual reinforcement, each keeping its own identity.
+[Venus](/astrology/venus/) is the part of a chart that evaluates: what you're drawn to, what you choose, what feels worth keeping, and how fairly you give and receive. [Pluto](/astrology/pluto/) is the part that regenerates: it clears away old forms so that something stronger can grow in their place. In a [trine](/astrology/trine/), what you value and what you renew support each other without merging.
 
 In plain words, you can go through change without losing what you love. A friendship survives a move, a quarrel or ten years of silence and picks up where it was; a taste matures instead of being dropped; a relationship renews itself in its own way. You sense what lies under the surface of people and things, and it rarely frightens you. Hard conversations about what you want come more naturally than they do for most.
 

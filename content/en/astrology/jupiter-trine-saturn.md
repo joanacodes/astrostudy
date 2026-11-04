@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have it, and the months it was in orb" }
   - { title: "NASA — Saturn facts", url: "https://science.nasa.gov/saturn/facts/", note: "Saturn’s orbit of about 29½ years" }
 ---
-Jupiter trine Saturn lets the part of you that wants to grow and the part that wants to build properly walk at the same pace. It belongs to a few months' worth of births at a time, so it is a period's temperament before it is a personal trait; your houses show where it works for you.
+Jupiter trine Saturn lets ambition and patience walk at the same pace. It belongs to a few months' worth of births at a time, so it is a period's temperament before it is a personal trait; your houses show where it works for you.
 
 ## What it means {#what-it-means}
 
@@ -42,7 +42,7 @@ A smooth current still needs someone at the helm. A trine like this can make ste
 
 Within 6°, it falls to about 1 person in 16 born from 1930 to 2009, in eight groups of births: September 1933 to April 1934, August to October 1934 and May to August 1935; February to April 1947, then January 1948 to January 1949 in three spells; July to November 1953, May to July 1954 and January to May 1955; three spells across 1966 and 1967; three in 1974 and early 1975; May to June 1987 and October 1987 to April 1988; three spells from November 1992 to September 1994; and three from February 2007 to December 2008.
 
-Shared by all those births, the trine says more about when you arrived than about who you are; its house and its contacts with your personal planets make it yours ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). The two planets usually share an element: in earth signs the steadiness is practical and material, in air it shows in ideas and agreements, in fire in enterprise, in water in care that lasts. Jupiter in the 1st trine Saturn in the 9th, for instance, might show as a presence shaped by beliefs you have tested. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+Shared by all those births, the trine says more about when you arrived than about who you are; its house, and its links to your Sun, Moon or angles, give it a personal form ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). The two planets usually share an element: in earth signs the steadiness is practical and material, in air it shows in ideas and agreements, in fire in enterprise, in water in care that lasts. Jupiter in the 1st trine Saturn in the 9th, for instance, might show as a presence shaped by beliefs you have tested. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Set against the trine:
 

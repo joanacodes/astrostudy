@@ -51,7 +51,7 @@ The pair's other angles:
 - **[Venus square Lilith](/astrology/venus-square-lilith/):** the same two at odds, so that pleasing and being yourself have to negotiate.
 - **[Venus opposite Lilith](/astrology/venus-opposite-lilith/):** across the chart instead of alongside; autonomy you first meet in other people.
 
-Between two charts, [Venus trine Lilith in synastry](/astrology/venus-trine-lilith-synastry/) often feels like relief: one person's affection and the other's untamed side get on from the start, and both can drop the act. I look at it only when both people have asked me to ([synastry and consent](/blog/synastry-behind-their-back/)).
+Between two charts, [Venus trine Lilith in synastry](/astrology/venus-trine-lilith-synastry/) often feels like relief: one person's affection and the other's untamed side get on from the start, and both can drop the act. That's a reading I do only for two people who both want it ([synastry and consent](/blog/synastry-behind-their-back/)).
 
 ## In transits {#in-transits}
 

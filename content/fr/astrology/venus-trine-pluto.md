@@ -32,7 +32,7 @@ Vénus trigone Pluton donne à ce que vous aimez de longues racines. La profonde
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Vénus](/astrology/venus/) est la part du thème qui évalue : ce qui vous attire, ce que vous choisissez, ce qui vaut d’être gardé, et l’équité avec laquelle vous donnez et recevez. [Pluton](/astrology/pluto/) est la part qui régénère : elle dégage les vieilles formes pour que quelque chose de plus solide pousse à leur place. Un [trigone](/astrology/trine/) relie ces deux fonctions par la fluidité et le renfort mutuel, chacune gardant son identité.
+[Vénus](/astrology/venus/) est la part du thème qui évalue : ce qui vous attire, ce que vous choisissez, ce qui vaut d’être gardé, et l’équité avec laquelle vous donnez et recevez. [Pluton](/astrology/pluto/) est la part qui régénère : elle dégage les vieilles formes pour que quelque chose de plus solide pousse à leur place. Dans un [trigone](/astrology/trine/), ce que vous aimez et ce que vous renouvelez se soutiennent sans se confondre.
 
 Concrètement, vous pouvez traverser le changement sans perdre ce que vous aimez. Une amitié survit à un déménagement, à une dispute ou à dix ans de silence, et reprend là où elle s’était arrêtée ; un goût mûrit au lieu d’être abandonné ; une relation se renouvelle à sa manière. Vous sentez ce qui se trouve sous la surface des gens et des choses, et cela vous effraie rarement. Les conversations difficiles sur ce que vous voulez vous viennent plus naturellement qu’à la plupart des gens.
 

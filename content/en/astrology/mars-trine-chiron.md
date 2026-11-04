@@ -32,7 +32,7 @@ Mars trine Chiron is the drive that finds another way round. The tender place in
 
 ## What it means {#what-it-means}
 
-[Mars](/astrology/mars/) is how you take action: the first move, the effort you keep up, the will to go after something and to defend what's yours. [Chiron](/astrology/chiron/) is the tender place, the difficulty you keep coming back to, and the know-how you build around it by changing the pace, the tool or the method so that you can still take part. A [trine](/astrology/trine/) lets the two flow into each other: action supports adaptation, adaptation supports action, and each keeps its own nature.
+[Mars](/astrology/mars/) is how you take action: the first move, the effort you keep up, the will to go after something and to defend what's yours. [Chiron](/astrology/chiron/) is the tender place, the difficulty you keep coming back to, and the know-how you build around it by changing the pace, the tool or the method so that you can still join in. A [trine](/astrology/trine/) lets the two flow into each other: action supports adaptation, adaptation supports action, and each keeps its own nature.
 
 In plain words, your effort and your sore spot are on speaking terms. Where someone else might push straight through a difficulty or avoid it altogether, you tend to adjust and carry on: a different route, a slower pace, a method of your own. The tender place still exists; it just shapes the way you act instead of stopping it. It often shows as a readiness to back other people, especially someone facing the very thing that once held you back, because you know what the effort costs.
 

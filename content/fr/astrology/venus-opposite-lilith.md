@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/venus", "/astrology/black-moon-lilith", "/astrology/opposition", "/astrology/venus-square-lilith", "/astrology/venus-opposite-lilith-synastry"]
 faq:
   - q: "Que veut dire Vénus opposition Lilith dans un thème natal ?"
-    a: "À votre naissance, Vénus faisait face à la Lune noire Lilith moyenne, de l’autre côté du zodiaque, à environ 180°. La proximité et l’autonomie se font face, et votre propre part indomptée se rencontre souvent d’abord chez quelqu’un d’autre. J’y lis une polarité qui apprend l’intimité sans rapetisser, jamais un choix entre l’amour et la liberté."
+    a: "Dans votre thème natal, Vénus et la Lune noire Lilith moyenne se font face, à environ 180°. La proximité et l’autonomie se font face, et votre propre part indomptée se rencontre souvent d’abord chez quelqu’un d’autre. J’y lis une polarité qui apprend l’intimité sans rapetisser, jamais un choix entre l’amour et la liberté."
   - q: "Est-ce que Vénus opposition Lilith annonce des relations difficiles ?"
     a: "Non. Une opposition est une polarité, pas un conflit qui attend son heure. Elle peut vous faire sentir tôt la tension entre l’envie de proximité et celle de rester vous-même, ce qui est utile : beaucoup de personnes qui l’ont construisent des relations où il y a de la place, parce qu’elles ont dû réfléchir à ce que liberté veut dire."
   - q: "Est-ce que Vénus opposition Lilith parle de rivalité ?"

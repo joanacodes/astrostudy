@@ -30,7 +30,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes la portent, et les mois où elle était dans l’orbe" }
   - { title: "NASA — Jupiter facts", url: "https://science.nasa.gov/jupiter/jupiter-facts/", note: "l’orbite de Jupiter, environ 12 ans" }
 ---
-Avec Jupiter opposition Chiron, la vue large et le point sensible se tiennent aux deux bouts du thème. Souvent, vous rencontrez d’abord l’un des bouts à travers les autres : les personnes qui vous confient leurs endroits sensibles pour leur donner un sens, ou celles qui vous apprennent à vivre avec le vôtre.
+Avec Jupiter opposition Chiron, la vue large et le point sensible se tiennent aux deux bouts du thème. Souvent, vous rencontrez d’abord l’un des bouts à travers les autres : les personnes qui vous confient leurs endroits sensibles pour leur donner un sens, ou celles qui vous montrent comment faire avec le vôtre.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
@@ -42,21 +42,21 @@ Je la vois souvent, aussi, chez les personnes qui apprennent en aidant : ce que
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-C’est le plus rare des cinq aspects de la paire : environ 1 personne sur 29 dans le décompte des naissances de 1930 à 2009, à 6° près. Les naissances sont tombées en 1935–1936, 1954–1955, 1968–1969, 1982–1983 et 2000–2002, la dernière fenêtre s’étalant par intermittence sur près de deux ans, de juillet 2000 à mai 2002. Chaque personne née pendant ces mois la porte.
+Aucun autre aspect de la paire n’est aussi rare : environ 1 personne sur 29 dans le décompte des naissances de 1930 à 2009, à 6° près. Les naissances sont tombées en 1935–1936, 1954–1955, 1968–1969, 1982–1983 et 2000–2002, la dernière fenêtre s’étalant par intermittence sur près de deux ans, de juillet 2000 à mai 2002. Chaque personne née pendant ces mois la porte.
 
 Une opposition relie des signes du même mode et d’éléments complémentaires : les deux bouts parlent des langues qui vont ensemble. Les maisons nomment l’axe. Jupiter en maison 1 opposition Chiron en maison 7 peut vouloir dire que vos partenaires réveillent votre point sensible, et que vous leur apprenez en retour à élargir leur vue ; Jupiter en maison 4 opposition Chiron en maison 10, un foyer qui vous tient face à une sensibilité liée à votre rôle public. Sans heure de naissance, l’axe reste sans adresse ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Les autres aspects entre Jupiter et Chiron :
 
-- **[Jupiter conjonction Chiron](/astrology/jupiter-conjunct-chiron/) :** les deux bouts réunis, si bien que le point sensible et la vue large parlent d’une seule voix.
+- **[Jupiter conjonction Chiron](/astrology/jupiter-conjunct-chiron/) :** les deux bouts réunis : tendresse et largeur de vue parlent d’une seule voix.
 - **[Jupiter sextile Chiron](/astrology/jupiter-sextile-chiron/) :** une ouverture modeste entre les deux, utilisée quand vous le choisissez.
 - **[Jupiter carré Chiron](/astrology/jupiter-square-chiron/) :** les deux se croisent au lieu de se faire face, et la friction se sent au-dedans avant de se voir au-dehors.
 - **[Jupiter trigone Chiron](/astrology/jupiter-trine-chiron/) :** les deux partagent un élément, et l’aide coule sans que personne ait à tenir un bout.
 
-Entre deux thèmes, [Jupiter opposition Chiron en synastrie](/astrology/jupiter-opposite-chiron-synastry/) place l’encouragement de l’une des deux personnes juste en face de l’endroit sensible de l’autre. Cela peut être un cadeau, si l’encouragement écoute d’abord. Parce que ce contact touche quelque chose de sensible, le consentement passe d’abord pour moi ([synastrie et consentement](/blog/synastry-behind-their-back/)).
+Entre deux thèmes, [Jupiter opposition Chiron en synastrie](/astrology/jupiter-opposite-chiron-synastry/) place ce qu’une des deux personnes offre comme encouragement juste en face de l’endroit sensible de l’autre. Cela peut être un cadeau, si l’encouragement écoute d’abord. Parce que ce contact touche quelque chose de sensible, le consentement passe d’abord pour moi ([synastrie et consentement](/blog/synastry-behind-their-back/)).
 
 ## En transit {#en-transit}
 
-[Chiron en transit opposition Jupiter du thème natal](/astrology/transiting-chiron-opposite-natal-jupiter/) suit un calendrier particulier si cette opposition est dans votre thème : le point opposé à votre Jupiter est à peu près celui où se tenait déjà Chiron à votre naissance. Chiron quitte ce point dans l’enfance et n’y revient qu’au [retour de Chiron](/astrology/chiron-return/), vers 50 ans, qui refait donc l’opposition. Pour les autres années de naissance, ce transit arrive quand Chiron atteint ce point, pour quelques mois ou plus d’un an selon sa vitesse à cet endroit. Jupiter, de son côté, s’oppose à Chiron du thème natal une fois tous les 12 ans environ, quelques semaines.
+[Chiron en transit opposition Jupiter du thème natal](/astrology/transiting-chiron-opposite-natal-jupiter/) suit un calendrier particulier pour les personnes nées avec l’aspect : à leur naissance, Chiron se tenait déjà presque à l’opposé de Jupiter, là où ce transit doit passer. Chiron quitte ce point dans l’enfance et n’y revient qu’au [retour de Chiron](/astrology/chiron-return/), vers 50 ans, qui refait donc l’opposition. Pour les autres années de naissance, ce transit arrive quand Chiron atteint ce point, pour quelques mois ou plus d’un an selon sa vitesse à cet endroit. Jupiter, de son côté, s’oppose à Chiron du thème natal une fois tous les 12 ans environ, quelques semaines.
 
-Lisez-les comme une météo, pas une prédiction : une saison qui demande à la vue large et au point sensible de se parler, et qui vous laisse la conversation.
+Ce sont des transits à lire comme une météo, pas une prédiction ; ils demandent à la vue large et au point sensible de se parler, et vous laissent la conversation.

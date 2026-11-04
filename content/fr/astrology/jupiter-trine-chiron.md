@@ -2,7 +2,7 @@
 title: "Jupiter trigone Chiron"
 slug: "jupiter-trigone-chiron"
 h1: "Jupiter trigone Chiron dans un thème natal"
-description: "Jupiter trigone Chiron dans un thème natal : un courant facile entre le sens et le point sensible, les années de naissance concernées, vos maisons, ses transits."
+description: "Jupiter trigone Chiron dans un thème natal : le sens qui coule vers le point sensible, les années de naissance concernées, vos maisons, ses transits."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"

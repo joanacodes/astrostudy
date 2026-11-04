@@ -29,7 +29,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have it, and the months it was in orb" }
   - { title: "NASA — Jupiter facts", url: "https://science.nasa.gov/jupiter/jupiter-facts/", note: "Jupiter’s orbit of about 12 years" }
 ---
-With Jupiter opposite Chiron, the wide view and the tender spot sit at opposite ends of the chart. Often you meet one end through other people first: those who bring you their sore places to make sense of, or those who teach you how to live with yours.
+With Jupiter opposite Chiron, the wide view and the tender spot sit at opposite ends of the chart. Often you meet one end through other people first: those who bring you their sore places to make sense of, or those who show you how to work with yours.
 
 ## What it means {#what-it-means}
 
@@ -41,13 +41,13 @@ I often see it, too, in people who learn by helping: what you discover while sup
 
 ## In a birth chart {#in-a-birth-chart}
 
-This is the rarest of the pair's five aspects, at about 1 person in 29 born from 1930 to 2009, within 6°. The births fell in 1935–36, 1954–55, 1968–69, 1982–83 and 2000–02, the last window spread over nearly two years, from July 2000 to May 2002, on and off. Each person born in those months carries it.
+No other aspect between the two is as rare: it belongs to about 1 person in 29 of the 1930–2009 births, counted within 6°. The births fell in 1935–36, 1954–55, 1968–69, 1982–83 and 2000–02, the last window spread over nearly two years, from July 2000 to May 2002, on and off. Each person born in those months carries it.
 
 An opposition joins signs of the same modality and complementary elements, so the two ends speak languages that belong together. The houses name the axis. Jupiter in the 1st opposite Chiron in the 7th may mean that partners bring out your tender spot, and that you teach them, in turn, to widen their view; Jupiter in the 4th opposite Chiron in the 10th, a home that steadies you against a sensitivity about your public role. Without a birth time, the axis has no address ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 The other aspects between Jupiter and Chiron:
 
-- **[Jupiter conjunct Chiron](/astrology/jupiter-conjunct-chiron/):** both ends brought together, so the tender spot and the wide view speak with one voice.
+- **[Jupiter conjunct Chiron](/astrology/jupiter-conjunct-chiron/):** both ends brought together, so tenderness and breadth speak with one voice.
 - **[Jupiter sextile Chiron](/astrology/jupiter-sextile-chiron/):** a modest opening between them, used when you choose.
 - **[Jupiter square Chiron](/astrology/jupiter-square-chiron/):** they cross rather than face each other, and the friction is felt inside before it shows outside.
 - **[Jupiter trine Chiron](/astrology/jupiter-trine-chiron/):** they share an element, and help flows without anyone having to hold an end.
@@ -56,6 +56,6 @@ Between two charts, [Jupiter opposite Chiron in synastry](/astrology/jupiter-opp
 
 ## In transits {#in-transits}
 
-[Transiting Chiron opposite natal Jupiter](/astrology/transiting-chiron-opposite-natal-jupiter/) keeps an unusual timetable if the opposition is in your chart: the point opposite your Jupiter is roughly where Chiron already stood at your birth. Chiron leaves it in childhood and comes back only at the [Chiron return](/astrology/chiron-return/), around 50, which therefore remakes the opposition. For other birth years, the transit comes whenever Chiron reaches that point, for a few months or more than a year depending on its speed there. Jupiter, in turn, opposes your natal Chiron once every 12 years or so, for some weeks.
+[Transiting Chiron opposite natal Jupiter](/astrology/transiting-chiron-opposite-natal-jupiter/) keeps an unusual timetable for anyone born with the opposition, since Chiron then stood almost opposite Jupiter already, right where this transit has to pass. Chiron leaves it in childhood and comes back only at the [Chiron return](/astrology/chiron-return/), around 50, which therefore remakes the opposition. For other birth years, the transit comes whenever Chiron reaches that point, for a few months or more than a year depending on its speed there. Jupiter, in turn, opposes your natal Chiron once every 12 years or so, for some weeks.
 
-Read them as weather, not a forecast: a season that asks the wide view and the tender spot to talk, and leaves the conversation to you.
+Read them as weather, not a forecast. Each opens a conversation between the wide view and the tender spot, and leaves its course to you.
