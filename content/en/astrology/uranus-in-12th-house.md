@@ -36,7 +36,7 @@ Not every independence is visible. With Uranus in the 12th house, the freedom yo
 
 Tradition also gave this house confinement and hidden enemies. I don't read it as a prediction of either, and no placement says anything about your mental health on its own ([astrology and mental health](/astrology/astrology-and-mental-health/)). In an adult's life I read the 12th as the private, restorative side of life, and Uranus there as the right to an inner world that follows its own rules.
 
-In Placidus, the house system I use, the 12th lies just above the Ascendant, so Uranus here had just risen in the east when you were born. The Ascendant sits right below it, so a few minutes either way can move Uranus into the 1st house or the 11th ([what changes without a birth time](/blog/unknown-birth-time/)): [Uranus in the 1st house](/astrology/uranus-in-1st-house/) shows the difference openly, [Uranus in the 11th house](/astrology/uranus-in-11th-house/) through friends and causes. The sign, meanwhile, is your generation's; the 12th is the quiet room where you meet it alone.
+In Placidus, the house system I use, the 12th lies just above the Ascendant, so Uranus here had just risen in the east when you were born. The line is so close that a few minutes either way can move Uranus into the 1st house or the 11th ([what changes without a birth time](/blog/unknown-birth-time/)): [Uranus in the 1st house](/astrology/uranus-in-1st-house/) shows the difference openly, [Uranus in the 11th house](/astrology/uranus-in-11th-house/) through friends and causes. The sign, meanwhile, is your generation's; the 12th is the quiet room where you meet it alone.
 
 ## In close relationships {#in-close-relationships}
 

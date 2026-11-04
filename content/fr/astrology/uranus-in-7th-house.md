@@ -37,7 +37,7 @@ La [maison 7](/astrology/7th-house/) rassemble toutes les personnes que vous ren
 
 La maison 7 montre aussi ce que l’on voit souvent chez les autres avant de le voir en soi : Uranus peut donc arriver sous la forme de partenaires au profil peu conventionnel, indépendant ou insaisissable. Une part du travail consiste à reconnaître cette indépendance comme la vôtre aussi. Je ne lis pas ce placement pour savoir si vous vous marierez, ni quand, ni si une relation durera : aucun thème ne peut le dire.
 
-Avec les maisons de Placidus, celles que j’utilise, Uranus se trouvait donc au-dessus de l’horizon ouest à votre naissance, sur le point de se coucher. Le descendant fait exactement face à l’ascendant : les quelques minutes qui brouillent un ascendant peuvent faire passer Uranus en maison 6 ou en maison 8 ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)) ; [Uranus en maison 6](/astrology/uranus-in-6th-house/) et [Uranus en maison 8](/astrology/uranus-in-8th-house/) décrivent ces voisins.
+Avec les maisons de Placidus, celles que j’utilise, Uranus en maison 7 se trouvait au-dessus de l’horizon ouest à votre naissance, sur le point de se coucher. Le descendant fait exactement face à l’ascendant : les quelques minutes qui brouillent un ascendant peuvent faire passer Uranus en maison 6 ou en maison 8 ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)) ; [Uranus en maison 6](/astrology/uranus-in-6th-house/) et [Uranus en maison 8](/astrology/uranus-in-8th-house/) décrivent ces voisins.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 

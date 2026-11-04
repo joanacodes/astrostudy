@@ -36,7 +36,7 @@ Partners who surprise you, arrangements that don't look like anyone else's, a ne
 
 The 7th also shows what we tend to see in others before we see it in ourselves, so Uranus here can arrive as partners who are unconventional, independent or hard to pin down. Part of the work is recognising that independence as yours too. I don't read this placement for whether or when you'll marry, or whether a relationship will last; no chart can say.
 
-With Placidus houses, the ones I use, that puts Uranus above the western horizon at your birth, on its way to setting. The Descendant is exactly opposite the Ascendant, so the same few minutes that blur a rising sign can move Uranus into the 6th or the 8th house ([what changes without a birth time](/blog/unknown-birth-time/)); [Uranus in the 6th house](/astrology/uranus-in-6th-house/) and [Uranus in the 8th house](/astrology/uranus-in-8th-house/) describe those neighbours.
+With Placidus houses, the ones I use, a 7th-house Uranus was above the western horizon at your birth, on its way to setting. The Descendant is exactly opposite the Ascendant, so the same few minutes that blur a rising sign can move Uranus into the 6th or the 8th house ([what changes without a birth time](/blog/unknown-birth-time/)); [Uranus in the 6th house](/astrology/uranus-in-6th-house/) and [Uranus in the 8th house](/astrology/uranus-in-8th-house/) describe those neighbours.
 
 ## In close relationships {#in-close-relationships}
 
