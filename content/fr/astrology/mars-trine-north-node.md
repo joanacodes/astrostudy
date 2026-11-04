@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 238
 glyph: "♂△☊"
-definition: "Mars trigone Nœud Nord : votre thème natal place Mars à quelque 120° du Nœud Nord, ce qui place Mars à environ 60° du Nœud Sud. L’effort va facilement dans la direction où vous grandissez, avec un lien amical vers les compétences familières. J’y lis un don pour grandir en faisant, qui demande quand même de la pratique."
+definition: "Mars trigone Nœud Nord : votre thème natal place Mars à quelque 120° du Nœud Nord, ce qui met Mars à environ 60° du Nœud Sud. L’effort va facilement dans la direction où vous grandissez, avec un lien amical vers les compétences familières. J’y lis un don pour grandir en faisant, qui demande quand même de la pratique."
 facts:
   - { k: "Corps", v: "Mars ♂ et le Nœud Nord ☊" }
   - { k: "Aspect", v: "Trigone △, 120°" }

@@ -34,7 +34,7 @@ Jupiter opposite Saturn marks the halfway point of the pair's twenty-year cycle,
 
 [Jupiter](/astrology/jupiter/) is the function of growth and meaning: learning, belief, a generous sense of what's possible. [Saturn](/astrology/saturn/) is the function of form: responsibility, boundaries, discipline, things made to last. An [opposition](/astrology/opposition/) relates them through polarity: each end shows up the other, and the task is balance and integration rather than a winner.
 
-In plain words, the wish to widen your life and the wish to secure it face each other. You may swing between saying yes to everything and pulling back hard, or meet the two ends in other people: the mentor who tells you to aim higher and the one who tells you to slow down, an institution's rules set against your own sense of what matters. Polarity isn't contradiction. Both voices are yours, and the opposition asks you to hear them together.
+In plain words, the wish to widen your life and the wish to secure it face each other. You may swing between saying yes to everything and pulling back hard, or meet the two ends in other people: the mentor who tells you to aim higher and the one who tells you to slow down, an institution's rules set against your own sense of what matters. That isn't a contradiction: both voices are yours, and the opposition asks you to hear them together.
 
 Over time this tends to build a particular judgement: knowing when expansion is wisdom and when it is overreach, when a limit protects and when it only confines.
 

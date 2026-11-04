@@ -20,7 +20,7 @@ faq:
   - q: "What does Jupiter square Saturn mean in a birth chart?"
     a: "Jupiter and Saturn are about 90° apart in your chart. One part of you wants to say yes to whatever is worth doing; another wants proof and a plan first. The two keep pressing on each other, and over time that friction tends to produce growth that is ambitious and also built to hold."
   - q: "Who was born with Jupiter square Saturn?"
-    a: "Counting within 6°, people born in spells of a few months within 1935–36, 1945–47, 1955–56, 1964–66, 1975–77, 1985–87, 1994–96 and 2005–06. The square comes about every ten years, so most of those born in a given decade’s spell share it with their classmates."
+    a: "Counting within 6°, people born in spells of a few months within 1935–36, 1945–47, 1955–56, 1964–66, 1975–77, 1985–87, 1994–96 and 2005–06. The square comes about every ten years, each time for a few months, so many people of the same school year share it."
   - q: "Is Jupiter square Saturn a bad aspect?"
     a: "Not as I read it. Squares describe friction, and friction isn’t failure: here, growth and caution rarely agree on the timing, which can feel like stop and start. It also means you learn to test your hopes and to stretch your limits, and plans that survive both tests tend to last."
 sources:
@@ -36,7 +36,7 @@ Jupiter square Saturn sets the part of you that reaches for more at right angles
 
 In plain words, growth and caution rarely agree on the timing. You may take on a big plan and then spend months doubting it, or hold back for so long that the chance seems to pass, and then leap. Neither instinct is wrong. What the square asks is that each instinct test the other: your hopes checked against what can actually be carried, your limits stretched by what is genuinely worth the effort.
 
-Friction isn't failure. Plans that have survived both of those questions tend to be bold and sound at once, and many people with this square become good at exactly that: judging how far to go, and how fast.
+This isn't failure; it's calibration. Plans that have survived both of those questions tend to be bold and sound at once, and many people with this square become good at exactly that: judging how far to go, and how fast.
 
 ## In a birth chart {#in-a-birth-chart}
 

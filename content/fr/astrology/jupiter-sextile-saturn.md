@@ -56,6 +56,6 @@ Les autres aspects de Jupiter avec Saturne :
 
 ## En transit {#en-transit}
 
-[Saturne en transit sextile Jupiter du thème natal](/astrology/transiting-saturn-sextile-natal-jupiter/) est le plus lent des deux transits : il faut à Saturne quelque deux ans et demi par signe, si bien que le sextile dure des semaines, parfois en trois passages. [Jupiter en transit sextile Saturne du thème natal](/astrology/transiting-jupiter-sextile-natal-saturn/) est plus bref, quelques jours ou quelques semaines. Le ciel répète aussi l’angle de votre naissance deux fois tous les vingt ans, comme le montrent les dates ci-dessus : c’est le ciel qui fait écho à votre naissance, pas un transit sur votre thème, à remarquer plutôt qu’à suivre.
+Des deux transits, c’est [Saturne en transit sextile Jupiter du thème natal](/astrology/transiting-saturn-sextile-natal-jupiter/) qui dure le plus longtemps : il faut à Saturne quelque deux ans et demi par signe, si bien que l’aspect se prolonge des semaines, parfois en trois passages. [Jupiter en transit sextile Saturne du thème natal](/astrology/transiting-jupiter-sextile-natal-saturn/) passe plus vite, en quelques jours ou quelques semaines. Le ciel répète aussi l’angle de votre naissance deux fois tous les vingt ans, comme le montrent les dates ci-dessus : c’est le ciel qui fait écho à votre naissance, pas un transit sur votre thème, à remarquer plutôt qu’à suivre.
 
 Une météo, pas une prédiction : un sextile en transit est une fenêtre pratique, et ce qu’on y bâtit vous revient.

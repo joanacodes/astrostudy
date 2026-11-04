@@ -21,7 +21,7 @@ faq:
   - q: "Que veut dire Mars trigone Chiron dans un thème natal ?"
     a: "Mars et Chiron se trouvent à environ 120° dans votre thème, un angle facile qui relie en général deux signes du même élément. Votre élan et votre point sensible coopèrent : quand quelque chose fait mal, vous changez votre façon d’agir plutôt que de cesser d’agir. J’y lis un courage tranquille, qui grandit chaque fois que vous vous en servez."
   - q: "Peut-on lire Mars trigone Chiron comme un aspect de coach ou de soignant ?"
-    a: "Beaucoup d’astrologues le relient aux métiers qui aident les autres à continuer : entraîner, transmettre un savoir-faire, soigner, défendre. Je le dis plus simplement : vous savez agir autour d’un point sensible, le vôtre ou celui de quelqu’un d’autre. Ce trigone convient à ces chemins sans en choisir un pour vous, et ne devient un savoir-faire qu’avec la pratique."
+    a: "Beaucoup d’astrologues relient ce trigone aux métiers qui aident les autres à continuer : entraîner, transmettre un savoir-faire, soigner, défendre. Je le dis plus simplement : vous savez agir autour d’un point sensible, le vôtre ou celui de quelqu’un d’autre. Ce trigone convient à ces chemins sans en choisir un pour vous, et ne devient un savoir-faire qu’avec la pratique."
   - q: "Est-ce que Mars trigone Chiron parle de ma santé ?"
     a: "Non. Un thème natal ne peut rien vous dire de votre santé, et je n’en lis jamais un pour cela. Ce que je lis dans ce trigone, c’est une façon d’agir : ajuster votre rythme, vos outils ou votre méthode pour qu’une difficulté vous ralentisse sans vous arrêter. Les questions de votre corps regardent un médecin."
 sources:

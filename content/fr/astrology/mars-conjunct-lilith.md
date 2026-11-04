@@ -41,7 +41,7 @@ Si l’on vous a demandé, enfant, de mettre moins de force en tout, la demande 
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La Lilith moyenne avance régulièrement, environ un signe tous les neuf mois, et Mars change de signe toutes les six ou sept semaines : les deux partagent presque toujours un même signe, qui donne son style à la rencontre. Elle sera directe et rapide en Bélier, lente à démarrer et difficile à arrêter en Taureau, stratège et tenace en Scorpion. La maison montre où vous refusez qu’on vous dirige : la maison 2, autour de l’argent et de ce qui compte pour vous ; la maison 6, dans le travail quotidien ; la maison 10, dans votre vie publique. Quelques heures de plus ou de moins déplacent à peine Mars ou Lilith : la conjonction dépend rarement de l’heure de naissance, alors que sa maison en dépend toujours ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+La Lilith moyenne avance régulièrement, environ un signe tous les neuf mois, et Mars change de signe toutes les six ou sept semaines : les deux partagent le plus souvent un même signe, qui donne son style à la rencontre. Elle sera directe et rapide en Bélier, lente à démarrer et difficile à arrêter en Taureau, stratège et tenace en Scorpion. La maison montre où vous refusez qu’on vous dirige : la maison 2, autour de l’argent et de ce qui compte pour vous ; la maison 6, dans le travail quotidien ; la maison 10, dans votre vie publique. Quelques heures de plus ou de moins déplacent à peine Mars ou Lilith : la conjonction dépend rarement de l’heure de naissance, alors que sa maison en dépend toujours ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Environ 1 personne sur 34 a, à sa naissance, Mars à moins de 6° de la Lilith moyenne. Près de l’exactitude, l’élan et le refus se confondent ; à 5 ou 6°, la part indomptée se montre quand l’enjeu compte. Cette page compte la Lilith moyenne, le point lissé. La Lilith vraie peut s’en éloigner beaucoup : une conjonction avec l’une peut manquer avec l’autre ([quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)).
 
@@ -52,7 +52,7 @@ Pour comparer, voici les autres angles que Mars forme avec Lilith :
 - **[Mars trigone Lilith](/astrology/mars-trine-lilith/) :** agir selon vos propres règles vient facilement, sans combat.
 - **[Mars opposition Lilith](/astrology/mars-opposite-lilith/) :** la part indomptée se montre souvent d’abord chez les autres, et vous apprenez à la reconnaître comme vôtre.
 
-Entre deux thèmes, [Mars conjonction Lilith en synastrie](/astrology/mars-conjunct-lilith-synastry/) met l’élan d’une personne au contact du point indompté de l’autre : un contact électrique, parfois troublant, qui ne fonctionne que si chacune a son mot à dire.
+Entre deux thèmes, [Mars conjonction Lilith en synastrie](/astrology/mars-conjunct-lilith-synastry/) met l’élan d’une personne en prise directe avec le point indompté de l’autre : un contact électrique, parfois troublant, qui ne fonctionne que si chacune a son mot à dire.
 
 ## En transit {#en-transit}
 

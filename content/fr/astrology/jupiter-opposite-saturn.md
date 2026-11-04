@@ -35,7 +35,7 @@ Jupiter opposition Saturne marque le milieu des vingt ans que dure le cycle de l
 
 [Jupiter](/astrology/jupiter/) est la fonction de la croissance et du sens : apprendre, croire, voir largement ce qui est possible. [Saturne](/astrology/saturn/) est la fonction de la forme : la responsabilité, les limites, la discipline, ce qui est fait pour durer. Une [opposition](/astrology/opposition/) les relie par la polarité : chaque bout fait ressortir l’autre, et la tâche est l’équilibre et l’intégration plutôt qu’une victoire.
 
-Concrètement, l’envie d’élargir votre vie et l’envie de la sécuriser se font face. Vous pouvez passer du oui à tout à un retrait brutal, ou rencontrer les deux bouts chez d’autres : la personne qui vous dit de viser plus haut et celle qui vous dit de ralentir, les règles d’une institution contre votre propre sens de ce qui compte. Une polarité n’est pas une contradiction. Les deux voix sont les vôtres, et l’opposition vous demande de les entendre ensemble.
+Concrètement, l’envie d’élargir votre vie et l’envie de la sécuriser se font face. Vous pouvez passer du oui à tout à un retrait brutal, ou rencontrer les deux bouts chez d’autres : la personne qui vous dit de viser plus haut et celle qui vous dit de ralentir, les règles d’une institution contre votre propre sens de ce qui compte. Rien là de contradictoire : les deux voix sont les vôtres, et l’opposition vous demande de les entendre ensemble.
 
 Avec le temps, cela forme souvent un jugement particulier : savoir quand l’expansion est sagesse et quand elle déborde, quand une limite protège et quand elle ne fait qu’enfermer.
 

@@ -56,6 +56,6 @@ Les autres aspects de la paire :
 
 ## En transit {#en-transit}
 
-[Uranus en transit sextile Jupiter du thème natal](/astrology/transiting-uranus-sextile-natal-jupiter/) est lent : à raison de quelque sept ans par signe, Uranus reste des mois près du sextile, souvent en trois passages, une longue période où un changement de direction peut élargir votre monde. [Jupiter en transit sextile Uranus du thème natal](/astrology/transiting-jupiter-sextile-natal-uranus/) ne dure que quelques jours ou semaines, et se répète à quelques années d’intervalle.
+[Uranus en transit sextile Jupiter du thème natal](/astrology/transiting-uranus-sextile-natal-jupiter/) demande de la patience : à raison de quelque sept ans par signe, Uranus reste des mois près du sextile, souvent en trois passages, une longue période où un changement de direction peut élargir votre monde. [Jupiter en transit sextile Uranus du thème natal](/astrology/transiting-jupiter-sextile-natal-uranus/) ne dure que quelques jours ou semaines, et se répète à quelques années d’intervalle.
 
 Une météo, pas une prédiction : une fenêtre ouverte plutôt qu’un événement, et le choix de l’enjamber vous revient.

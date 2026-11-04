@@ -36,13 +36,13 @@ Jupiter square Uranus puts your frame of meaning at right angles to your urge fo
 
 In plain words, you can't hold an opinion for long without wanting to test it, and you can't change something without asking what it means. You may leap at a new direction and then question it, or hold a belief tightly until it suddenly gives way to a better one. Over time this square tends to produce a mind that updates honestly, and a sense of freedom that has thought about what it's for.
 
-Friction isn't failure. The risk lies in taking on too much that is new at once; the gift lies in reforming your own views before anyone else has to ask.
+Rubbing isn't failing. The risk lies in taking on too much that is new at once; the gift lies in reforming your own views before anyone else has to ask.
 
 ## In a birth chart {#in-a-birth-chart}
 
 In the eighty years from 1930 to 2009, about 1 birth in 17 has it within 6°, in spells about seven years apart: August 1930 to June 1931; January–February and September–October 1938; August–October 1944 and May–July 1945; April 1951 to February 1952; October–December 1958; May–July 1965 and December 1965 to March 1966; December 1972 to February 1973; July–August 1979 and April 1980; May 1986 to March 1987; December 1992 to February 1993 and August–October 1993; April–June 2000; and December 2006 to November 2007.
 
-It says as much about a birth year as about you, since a social planet and a generational one make it ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). In the houses, it becomes particular. Jupiter in the 5th square Uranus in the 8th, say, might keep your creative risks and what you share most closely in lively disagreement; Jupiter in the 4th square Uranus in the 1st, a home that keeps having to make room for your independence. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+It says as much about a birth year as about you, since a social planet and a generational one make it ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). In the houses, it becomes particular. Jupiter in the 10th square Uranus in the 1st, say, might set your public ambitions against your need to be entirely your own person; Jupiter in the 4th square Uranus in the 1st, a home that keeps having to make room for your independence. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Measured against the square:
 

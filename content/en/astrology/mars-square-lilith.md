@@ -32,7 +32,7 @@ Mars square Lilith sets your drive at right angles to your untamed side. The fri
 
 ## What it means {#what-it-means}
 
-[Mars](/astrology/mars/) asserts, initiates and puts in the effort, and one of its jobs is defending a limit. [Black Moon Lilith](/astrology/black-moon-lilith/), the mean apogee of the Moon, is read by many astrologers as the instinct for self-rule, the parts of you that were hidden away, and the lines you draw around yourself. How much weight to give it depends on the tradition, and I read it as a symbol. A [square](/astrology/square/) relates the two through constructive friction: neither replaces the other, and each keeps pressing until something adapts.
+[Mars](/astrology/mars/) asserts, initiates and puts in the effort, and one of its jobs is defending a limit. [Black Moon Lilith](/astrology/black-moon-lilith/), the Moon's averaged far point, stands in many readings for governing yourself by instinct, for what you learned to keep out of view, and for the limits you set around yourself. How much weight to give it depends on the tradition, and I read it as a symbol. A [square](/astrology/square/) relates the two through constructive friction: neither replaces the other, and each keeps pressing until something adapts.
 
 Lived, it can feel like two kinds of no that don't agree. The effort you make to fit in rubs against an instinct that won't; or the instinct wants to act, and your drive picks the wrong moment or the wrong target. Either way, the square keeps asking you to sort out which fights are really yours.
 

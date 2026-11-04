@@ -21,7 +21,7 @@ faq:
   - q: "Que veut dire Jupiter carré Saturne dans un thème natal ?"
     a: "Jupiter et Saturne sont à environ 90° dans votre thème. Une part de vous veut dire oui à tout ce qui en vaut la peine ; une autre veut d’abord des preuves et un plan. Les deux appuient sans cesse l’une sur l’autre, et avec le temps cette friction donne souvent une croissance ambitieuse et bâtie pour tenir."
   - q: "Quelles naissances portent Jupiter carré Saturne ?"
-    a: "À 6° près, les personnes nées pendant des périodes de quelques mois en 1935–36, 1945–47, 1955–56, 1964–66, 1975–77, 1985–87, 1994–96 et 2005–06. Le carré revient environ tous les dix ans : la plupart des personnes nées pendant la période d’une décennie le partagent avec leurs camarades de classe."
+    a: "À 6° près, les personnes nées pendant des périodes de quelques mois en 1935–36, 1945–47, 1955–56, 1964–66, 1975–77, 1985–87, 1994–96 et 2005–06. Le carré revient environ tous les dix ans, chaque fois pour quelques mois : bien des personnes d’une même année scolaire le partagent."
   - q: "Jupiter carré Saturne, est-ce un mauvais aspect ?"
     a: "Pas dans ma lecture. Les carrés décrivent une friction, et une friction n’est pas un échec : ici, la croissance et la prudence s’accordent rarement sur le moment, ce qui peut ressembler à des à-coups. Vous apprenez aussi à mettre vos espoirs à l’épreuve et à repousser vos limites, et les projets qui passent ces deux épreuves durent souvent."
 sources:
@@ -37,7 +37,7 @@ Jupiter carré Saturne place la part de vous qui vise plus loin à angle droit d
 
 Concrètement, la croissance et la prudence s’accordent rarement sur le moment. Vous pouvez vous lancer dans un grand projet puis passer des mois à en douter, ou attendre si longtemps que l’occasion semble passer, puis sauter. Aucun de ces instincts n’a tort. Le carré vous demande de laisser chacun mettre l’autre à l’épreuve : vos espoirs confrontés à ce qui peut vraiment être porté, vos limites repoussées par ce qui mérite vraiment l’effort.
 
-Une friction n’est pas un échec. Les projets qui ont survécu à ces deux questions sont souvent audacieux et solides à la fois, et bien des personnes qui portent ce carré deviennent douées pour cela : juger jusqu’où aller, et à quelle vitesse.
+Ce n’est pas un échec, c’est un réglage. Les projets qui ont survécu à ces deux questions sont souvent audacieux et solides à la fois, et bien des personnes qui portent ce carré deviennent douées pour cela : juger jusqu’où aller, et à quelle vitesse.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 

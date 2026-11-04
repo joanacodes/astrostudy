@@ -37,13 +37,13 @@ Jupiter carré Uranus place votre cadre de sens à angle droit avec votre envie 
 
 Concrètement, vous ne pouvez pas garder longtemps une opinion sans vouloir la tester, ni changer quelque chose sans vous demander ce que cela veut dire. Vous pouvez vous jeter dans une nouvelle direction puis la remettre en question, ou tenir fort à une conviction jusqu’à ce qu’elle cède d’un coup devant une meilleure. Avec le temps, ce carré forme souvent un esprit qui se met à jour honnêtement, et un sens de la liberté qui a réfléchi à ce qui la justifie.
 
-Une friction n’est pas un échec. Le risque, c’est d’accueillir trop de nouveau à la fois ; le don, c’est de réformer vos propres idées avant que quelqu’un d’autre ait à vous le demander.
+Rien de cela n’est un échec. Le risque, c’est d’accueillir trop de nouveau à la fois ; le don, c’est de réformer vos propres idées avant que quelqu’un d’autre ait à vous le demander.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
 Environ 1 personne sur 17 née entre 1930 et 2009 le porte à 6° près, par périodes espacées d’environ sept ans : d’août 1930 à juin 1931 ; janvier–février et septembre–octobre 1938 ; août–octobre 1944 et mai–juillet 1945 ; d’avril 1951 à février 1952 ; octobre–décembre 1958 ; mai–juillet 1965 et de décembre 1965 à mars 1966 ; de décembre 1972 à février 1973 ; juillet–août 1979 et avril 1980 ; de mai 1986 à mars 1987 ; de décembre 1992 à février 1993 et août–octobre 1993 ; avril–juin 2000 ; et de décembre 2006 à novembre 2007.
 
-Ce carré en dit donc autant sur une année de naissance que sur vous, puisqu’une planète sociale et une planète générationnelle le forment ([planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)). Dans les maisons, il devient particulier. Jupiter en maison 5 et Uranus en maison 8, par exemple, pourraient maintenir vos prises de risque créatives et ce que vous partagez de plus intime dans un désaccord vivant ; Jupiter en maison 4 et Uranus en maison 1, un foyer qui doit sans cesse faire de la place à votre indépendance. Les maisons demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Ce carré en dit donc autant sur une année de naissance que sur vous, puisqu’une planète sociale et une planète générationnelle le forment ([planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)). Dans les maisons, il devient particulier. Jupiter en maison 10 et Uranus en maison 1, par exemple, pourraient opposer vos ambitions publiques et votre besoin d’être pleinement vous-même ; Jupiter en maison 4 et Uranus en maison 1, un foyer qui doit sans cesse faire de la place à votre indépendance. Les maisons demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Au regard du carré :
 

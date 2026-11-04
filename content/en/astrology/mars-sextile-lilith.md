@@ -40,7 +40,7 @@ It often shows in small, practical refusals: declining the role you were handed 
 
 ## In a birth chart {#in-a-birth-chart}
 
-The two bodies usually sit in signs that get on by element, fire beside air or earth beside water, so drive and instinct speak languages that understand each other. Mars's sign sets the style of action; Lilith's sign, shared by everyone born within the same nine months or so, colours what in you resists taming. The houses show where the door is. Mars in the 3rd sextile Lilith in the 5th, for instance, might let the untamed side into how you play and create, reached through everyday errands and conversations.
+The two bodies usually sit in signs that get on by element, fire with air, earth with water, so drive and instinct speak languages that understand each other. Mars's sign sets the style of action; Lilith's sign, shared by everyone born within the same nine months or so, colours what in you resists taming. The houses show where the door is. Mars in the 3rd sextile Lilith in the 5th, for instance, might let the untamed side into how you play and create, reached through everyday errands and conversations.
 
 About 1 person in 15 is born with Mars within 6° of a sextile to mean Lilith. Tight, the opening gets used almost by reflex; wide, it waits until you look for it. Mars, by far the quicker, carries the aspect in and out of orb, while Lilith holds its place for months.
 

@@ -32,7 +32,7 @@ Jupiter sextile Saturn gives the part of you that wants more and the part that w
 
 ## What it means {#what-it-means}
 
-[Jupiter](/astrology/jupiter/) widens: it learns, finds meaning, forms beliefs and spots the possibility in a situation. [Saturn](/astrology/saturn/) gives form: it takes responsibility, sets limits, keeps at a task and thinks in years rather than weeks. A [sextile](/astrology/sextile/) relates them through opportunity and cooperation: each can help the other, provided someone takes the opening.
+[Jupiter](/astrology/jupiter/) widens: it learns, finds meaning, forms beliefs and spots the possibility in a situation. [Saturn](/astrology/saturn/) gives form: it takes responsibility, sets limits, keeps at a task and thinks in years rather than weeks. With a [sextile](/astrology/sextile/) between them, cooperation is on offer: each can help the other, provided someone takes the opening.
 
 In plain words, you can see a chance and see what it will cost in the same glance. An idea arrives, and some part of you is already sketching the timetable; a structure feels heavy, and some part of you knows what would make it worth carrying. Nothing forces the two to cooperate, so the sextile can sit unused for years, and it tends to show once you have something real to build: a course, a business, a household, a long piece of work.
 
