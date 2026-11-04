@@ -20,7 +20,7 @@ faq:
   - q: "What does Venus conjunct Pluto mean in a birth chart?"
     a: "Venus and Pluto within a few degrees of each other at your birth. What you value and the urge to transform work as one: attraction goes deep, and what you love tends to change you. Pluto’s sign belongs to a generation; the meeting with Venus and its house make it yours. I read it as depth, not as control."
   - q: "Is Venus conjunct Pluto an obsessive aspect?"
-    a: "Not inherently. Pluto describes depth and renewal, not compulsion, and empowerment isn’t domination. This conjunction makes what you value matter intensely, which can feel all-consuming at times. Lived well, it’s a capacity for honest, lasting bonds that can go through change and survive it."
+    a: "Not inherently. Pluto describes depth and renewal, not compulsion, and power shared is not power over someone. This conjunction makes what you value matter intensely, which can feel all-consuming at times. Lived well, it’s a capacity for honest, lasting bonds that can go through change and survive it."
   - q: "Is Venus conjunct Pluto a generational aspect?"
     a: "No. Pluto’s sign is shared by everyone born over twelve to thirty-one years, but Venus passes through the conjunction in a week or two each year, so the meeting itself is personal. What’s generational is the sign the two share; the house where they meet makes it yours, and that needs a birth time."
   - q: "How is Venus conjunct Pluto different from Venus opposite Pluto?"

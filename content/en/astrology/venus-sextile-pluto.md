@@ -27,21 +27,21 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the sextile, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people are born with it" }
 ---
-Venus sextile Pluto keeps depth within reach of what you value. Nothing forces it: the link works like a door left ajar, and what comes through depends on whether you open it.
+Venus sextile Pluto connects what you value with your capacity for depth, gently and on request. Nothing forces it: the link works like a door left ajar, and what comes through depends on whether you open it.
 
 ## What it means {#what-it-means}
 
-[Venus](/astrology/venus/) is the part of a chart that weighs things up: what attracts you, what you'd choose, what you find worth keeping, and whether an exchange is fair. [Pluto](/astrology/pluto/) is the part that renews at the root: it eliminates what's obsolete, regenerates, and turns what you've been through into strength. A [sextile](/astrology/sextile/) relates them through opportunity: the two cooperate when you engage them, and neither replaces the other.
+[Venus](/astrology/venus/) is the part of a chart that weighs things up: what attracts you, what you'd choose, what you find worth keeping, and whether an exchange is fair. [Pluto](/astrology/pluto/) is the part that renews at the root: it eliminates what's obsolete, regenerates, and turns what you've been through into strength. With a [sextile](/astrology/sextile/) between them, the two work together whenever you set them a task, and neither takes over.
 
 In plain words, you have a knack for taking something you value further. A friendship can survive an honest conversation; a style can be stripped back to what really suits you; a commitment can be renewed instead of simply kept going. You may be good at endings too, closing something cleanly so that what mattered in it survives. None of that happens by itself. Opportunity requires engagement, and the sextile's gift sits idle until you use it: depth is offered, not imposed.
 
 ## In a birth chart {#in-a-birth-chart}
 
-Two signs apart, a sextile usually joins fire to air or earth to water, elements that feed each other. With Pluto in Virgo, Venus sextile it falls in Cancer or Scorpio: care that's practical and lasting. With Pluto in Libra, Venus is in Leo or Sagittarius, and frankness about what matters in a partnership comes easily. Pluto's sign belongs to a generation; the houses make the sextile yours. Venus in the 3rd sextile Pluto in the 5th might give your words about the things you love a real weight, and your creative work a depth it didn't plan.
+Venus and Pluto usually sit in elements that feed each other here, fire with air or earth with water. With Pluto in Virgo, Venus sextile it falls in Cancer or Scorpio: care that's practical and lasting. With Pluto in Libra, Venus is in Leo or Sagittarius, and frankness about what matters in a partnership comes easily. A whole generation shares Pluto's sign, so the personal part is in the houses: Venus in the 3rd sextile Pluto in the 5th might give your words about the things you love a real weight, and your creative work a depth it didn't plan.
 
 About 1 person in 15 is born with Venus and Pluto within 6° of a sextile, twice the share of the conjunction, since Venus can make a sextile on either side of Pluto. Venus is the one that moves, a sign every four to five weeks, so the sextile in your chart was a matter of days. Close to exact, the depth tends to show in your choices; at 6°, it waits to be asked for. I read it with you rather than for you, and check it against the life you describe ([how I read](/how-i-read/)).
 
-The pair's other angles:
+Closer, wider or opposite, the pair's other meetings handle depth differently:
 
 - **[Venus conjunct Pluto](/astrology/venus-conjunct-pluto/):** valuing and transforming in one gesture; nothing you love stays on the surface for long.
 - **[Venus square Pluto](/astrology/venus-square-pluto/):** depth that arrives as pressure rather than invitation, and teaches honesty.
@@ -56,4 +56,4 @@ Between two charts, [Venus sextile Pluto in synastry](/astrology/venus-sextile-p
 
 Venus makes the same sextile to your natal Pluto about twice a year, for a day or two: a good moment for an honest word with someone you love.
 
-Weather, not a forecast: the opening is real, and walking through it is your choice.
+Weather, not a forecast: the season offers depth, and you decide how much to take.

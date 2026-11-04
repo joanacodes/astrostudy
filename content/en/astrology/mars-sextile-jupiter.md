@@ -43,7 +43,7 @@ A sextile usually joins complementary elements, two signs apart. With Mars in Ar
 
 About 1 person in 12 is born with Mars and Jupiter within 6° of a sextile, the most frequent of the pair's aspects in the count, against about 1 in 26 for the conjunction. Plenty of people with this sextile were born in one of Jupiter's yearly retrograde spells, about four months long; then the reasons tend to be worked out privately, and the action follows once they're clear ([natal retrograde planets](/blog/retrograde-planets/)). Mars does the moving, so a sextile still closing at your birth is the one many astrologers count as the more active ([applying and separating aspects](/astrology/applying-and-separating-aspects/)).
 
-The pair's other angles:
+Where this sextile helps, the pair's other aspects fuse, rub, flow or face off:
 
 - **[Mars conjunct Jupiter](/astrology/mars-conjunct-jupiter/):** the two in one place, with no gap at all between believing and doing.
 - **[Mars square Jupiter](/astrology/mars-square-jupiter/):** the same two under tension, belief and effort learning each other's size.

@@ -18,11 +18,11 @@ facts:
 related: ["/astrology/venus", "/astrology/chiron", "/astrology/trine", "/astrology/venus-square-chiron", "/astrology/venus-trine-chiron-synastry"]
 faq:
   - q: "What does Venus trine Chiron mean in a birth chart?"
-    a: "Venus and Chiron about 120° apart at your birth, usually in signs of one element. What you value and what you’ve learned by adapting flow together: you make room for difference easily, and your taste has been refined by experience. I read it as a quiet skill in relating, worth noticing and using on purpose."
+    a: "Venus and Chiron about 120° apart at your birth, usually in signs of one element. What you value and what you’ve learned by adapting flow together: you make room for difference easily, and your taste has been refined by experience. It’s a skill in relating that rarely announces itself, so it’s worth naming and using deliberately."
   - q: "Is Venus trine Chiron a good aspect for relationships?"
     a: "It can help a great deal. It makes it easier to love people as they are, to adjust without resentment, and to say what you need without drama. Like any trine, it works best when you use it deliberately, and when you let others make room for you as readily as you make it for them."
   - q: "Does Venus trine Chiron mean my sensitivity is healed?"
-    a: "Not as I read it. Chiron describes adapting around a sensitivity, not curing it. The trine suggests you’ve found ways to live with yours that work, and that those ways flow easily into how you relate. The tender spot can still be there; it just doesn’t run the show."
+    a: "Not as I read it. Chiron describes adapting around a sensitivity, not curing it. The trine suggests you’ve found ways to live with yours that work, and that those ways flow easily into how you relate. The sensitivity may well remain; what changes is how much room it takes."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people are born with it" }
@@ -43,7 +43,7 @@ The trine usually links signs of one element. With Chiron in Aquarius and Venus 
 
 About 1 person in 17 is born with Venus and Chiron within 6° of a trine, a little fewer than have the sextile or the square. In a reading I name it out loud, since an ease like this is easy to undervalue ([how I read](/how-i-read/)).
 
-The pair's other angles:
+The other ways Venus and Chiron can meet, from fused to facing:
 
 - **[Venus conjunct Chiron](/astrology/venus-conjunct-chiron/):** the tender spot sits inside your taste itself, so valuing and adapting can't be told apart.
 - **[Venus sextile Chiron](/astrology/venus-sextile-chiron/):** the same skill needing a deliberate step; an opening rather than a habit.

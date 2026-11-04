@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 190
 glyph: "♀☌⚸"
-definition: "Vénus conjonction Lilith signifie qu’à votre naissance, Vénus se trouvait à quelques degrés de la Lune noire Lilith moyenne. Dans un thème, ce que vous aimez et trouvez beau est fondu avec la part de vous qui ne se laisse pas apprivoiser : votre goût n’appartient qu’à vous. J’y lis l’authenticité dans l’amour et le plaisir, jamais un sujet de jugement."
+definition: "Vénus conjonction Lilith signifie qu’à votre naissance, Vénus se trouvait à quelques degrés de la Lune noire Lilith moyenne. Ce que vous aimez et trouvez beau est fondu avec votre part indomptée : votre goût n’appartient qu’à vous. Pour moi, cette conjonction décrit l’authenticité en amour et dans le plaisir, sans rien qui mérite d’être jugé."
 facts:
   - { k: "Corps", v: "Vénus ♀ et la Lune noire Lilith ⚸ (moyenne)" }
   - { k: "Aspect", v: "Conjonction ☌, 0°" }
@@ -19,11 +19,11 @@ facts:
 related: ["/astrology/venus", "/astrology/black-moon-lilith", "/astrology/conjunction", "/astrology/which-lilith-is-mine", "/astrology/venus-conjunct-lilith-synastry"]
 faq:
   - q: "Que veut dire Vénus conjonction Lilith dans un thème natal ?"
-    a: "Vénus à quelques degrés de la Lune noire Lilith moyenne à votre naissance. Ce que vous aimez et trouvez beau est fondu avec la part de vous qui ne se laisse pas apprivoiser : votre goût n’appartient qu’à vous, et vous entrez en relation à des conditions qui incluent votre autonomie. J’y lis l’authenticité en amour, jamais un jugement moral."
+    a: "Vénus et la Lune noire Lilith moyenne occupent les mêmes quelques degrés de votre thème natal. Ce que vous aimez et trouvez beau est fondu avec votre part indomptée : votre goût n’appartient qu’à vous, et vous entrez en relation à des conditions qui incluent votre autonomie. J’y lis l’authenticité en amour, jamais un jugement moral."
   - q: "Est-ce que Vénus conjonction Lilith parle de sexualité ?"
     a: "Pas seulement, ni comme on l’écrit souvent. Lilith décrit l’autonomie et les parts de vous qui ont été repoussées hors de vue ; avec Vénus, cela peut inclure le désir, mais tout autant le goût, la beauté et la façon dont vous voulez qu’on vous aime. Rien sur le nombre de personnes que vous aimez, ni sur votre morale."
   - q: "Quelle Lilith utiliser pour Vénus conjonction Lilith ?"
-    a: "J’utilise Lilith moyenne, la position lissée que lisent la plupart des astrologues, et le décompte de cette page s’appuie aussi sur elle. Lilith vraie peut se trouver à des dizaines de degrés : vérifiez laquelle votre thème affiche, car pour une conjonction, la version peut décider si vous avez l’aspect ou non."
+    a: "Dans mes lectures, j’utilise Lilith moyenne, celle avec laquelle travaillent la plupart des astrologues, et le décompte de cette page aussi. Lilith vraie peut se trouver à des dizaines de degrés : vérifiez laquelle votre thème affiche, car pour une conjonction, la version peut décider si vous avez l’aspect ou non."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "ses quatre aspects, dont la conjonction ne fait pas partie" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes naissent avec cet aspect, avec Lilith moyenne" }
@@ -44,12 +44,12 @@ Lilith moyenne passe environ neuf mois dans un signe : son signe est donc parta
 
 Environ 1 personne sur 29 naît avec Vénus à moins de 6° de Lilith moyenne. La version compte ici plus que pour la plupart des aspects : Lilith vraie peut se trouver à des dizaines de degrés de la moyenne, si bien que la conjonction peut apparaître dans un calcul et pas dans un autre ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)). Lilith a tenu 75 à 90 % du temps dans mon carnet : je donne donc à cette conjonction un vrai poids en lecture ([les trois qui ont tenu : Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/#lilith)).
 
-Les autres angles de la paire :
+Quand l’écart s’ouvre, les mêmes thèmes changent de forme :
 
 - **[Vénus sextile Lilith](/astrology/venus-sextile-lilith/) :** l’authenticité à portée de main ; vous pouvez apporter votre propre goût dans un lien dès que vous le choisissez.
 - **[Vénus carré Lilith](/astrology/venus-square-lilith/) :** le désir de plaire et le refus de se laisser apprivoiser à contre-courant, et ce qu’on en apprend.
 - **[Vénus trigone Lilith](/astrology/venus-trine-lilith/) :** le goût et l’autonomie dans un même élément ; être soi en amour coûte très peu.
-- **[Vénus opposition Lilith](/astrology/venus-opposite-lilith/) :** la part indomptée de l’autre côté du thème, souvent entrevue d’abord chez une personne qui vous attire.
+- **[Vénus opposition Lilith](/astrology/venus-opposite-lilith/) :** votre propre part sauvage, remarquée d’abord chez une personne qui vous attire.
 
 Entre deux thèmes, [Vénus conjonction Lilith en synastrie](/astrology/venus-conjunct-lilith-synastry/) peut ressembler à une permission : l’affection de l’une des deux personnes rencontre de front la part indomptée de l’autre. C’est fort, et pas toujours confortable : je le lis donc des deux côtés.
 

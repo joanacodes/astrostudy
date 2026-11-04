@@ -43,7 +43,7 @@ Avec le Nœud Nord en Sagittaire et Vénus en Bélier ou en Lion, le trigone pas
 
 Environ 1 personne sur 15 naît avec Vénus à moins de 6° d’un trigone au Nœud Nord, selon le nœud vrai. Comme le nœud moyen peut se trouver à un degré ou deux du nœud vrai, un trigone proche de 6° peut exister dans l’un et pas dans l’autre : je regarde donc les deux.
 
-Les autres angles de la paire :
+Chacun des autres aspects place Vénus à un autre point de l’axe :
 
 - **[Vénus conjonction Nœud Nord](/astrology/venus-conjunct-north-node/) :** Vénus sur le Nœud Nord lui-même ; entrer en relation est la capacité que vous construisez.
 - **[Vénus sextile Nœud Nord](/astrology/venus-sextile-north-node/) :** une aide du même ordre, qu’il faut aller chercher.
@@ -54,7 +54,7 @@ Entre deux thèmes, [Vénus trigone Nœud Nord en synastrie](/astrology/venus-tr
 
 ## En transit {#en-transit}
 
-[Nœud Nord en transit trigone Vénus du thème natal](/astrology/transiting-north-node-trine-natal-venus/) arrive deux fois par tour de 18,6 ans, pour un mois ou deux : une saison où les relations et les plaisirs s’alignent avec la direction que vous prenez. Si ce trigone est dans votre thème, le [retour nodal](/astrology/nodal-return/), vers 18 ans et demi, 37 et 56 ans, le recrée dans le ciel.
+[Nœud Nord en transit trigone Vénus du thème natal](/astrology/transiting-north-node-trine-natal-venus/) revient deux fois pendant que les nœuds accomplissent leur circuit de 18,6 ans, un mois ou deux à chaque fois : une saison où les relations et les plaisirs s’alignent avec la direction que vous prenez. Si ce trigone est dans votre thème, le [retour nodal](/astrology/nodal-return/), vers 18 ans et demi, 37 et 56 ans, le recrée dans le ciel.
 
 Vénus forme le même trigone avec votre Nœud Nord natal environ deux fois par an, pour un jour environ : de bons jours pour dire oui à quelque chose de nouveau.
 

@@ -44,7 +44,7 @@ A trine usually links signs of one element. With Venus in Taurus, its own sign, 
 
 About 1 person in 15 is born with Venus within 6° of a trine to mean Lilith, much as for the sextile and the square. Venus does the moving, and stays inside that 6° window for only a week or two each time.
 
-The pair's other angles:
+How the other aspects of this pair compare:
 
 - **[Venus conjunct Lilith](/astrology/venus-conjunct-lilith/):** fused rather than flowing; the untamed and the beloved share a single degree.
 - **[Venus sextile Lilith](/astrology/venus-sextile-lilith/):** a cousin of this ease that waits to be invited, linking complementary elements.

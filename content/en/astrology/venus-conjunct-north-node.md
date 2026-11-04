@@ -42,9 +42,9 @@ The nodes move backwards, about 18 months in each sign, so the North Node's sign
 
 About 1 person in 29 is born with Venus within 6° of the North Node, counted with the true node; the mean node is never more than a degree or two away, and I look at both.
 
-The pair's other angles:
+Venus can sit anywhere around the nodal axis; the other aspects place it like this:
 
-- **[Venus sextile North Node](/astrology/venus-sextile-north-node/):** Venus a friendly step from the growing end, and in easy trine with the familiar one.
+- **[Venus sextile North Node](/astrology/venus-sextile-north-node/):** what you value as a bridge from the old ground to the new.
 - **[Venus square North Node](/astrology/venus-square-north-node/):** Venus at right angles to both ends, asking each to make room for what you value.
 - **[Venus trine North Node](/astrology/venus-trine-north-node/):** Venus in easy step with the direction of growth, and sextile to where you started.
 - **[Venus opposite North Node](/astrology/venus-opposite-north-node/):** Venus on the familiar end, a well-practised way of relating that the growth builds from.
@@ -53,7 +53,7 @@ Between two charts, [Venus conjunct North Node in synastry](/astrology/venus-con
 
 ## In transits {#in-transits}
 
-[Transiting North Node conjunct natal Venus](/astrology/transiting-north-node-conjunct-natal-venus/) comes once in each 18.6-year round of the nodes and lasts a month or two, the true node wobbling back and forth as it goes. In the year around it, eclipses fall in the stretch of the zodiac near your Venus, and opposite it, which is why astrologers watch this transit: a season when what you value and how you relate come up for review. Born with the conjunction, you meet it at every [nodal return](/astrology/nodal-return/), around 18½, 37 and 56.
+[Transiting North Node conjunct natal Venus](/astrology/transiting-north-node-conjunct-natal-venus/) happens once every 18.6 years, as the nodes complete their backward round, and lasts a month or two, the true node wobbling back and forth as it goes. In the year around it, eclipses fall in the stretch of the zodiac near your Venus, and opposite it, which is why astrologers watch this transit: a season when what you value and how you relate come up for review. Born with the conjunction, you meet it at every [nodal return](/astrology/nodal-return/), around 18½, 37 and 56.
 
 Venus itself crosses your natal North Node about once a year, a day or two of noticing what you'd like to practise.
 

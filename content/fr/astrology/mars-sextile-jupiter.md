@@ -32,7 +32,7 @@ Mars sextile Jupiter garde le sens à portée de votre énergie. Quand vous agis
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Mars](/astrology/mars/) est la part du thème qui agit : l’initiative, l’affirmation, l’effort, la volonté de mener une chose à bien. [Jupiter](/astrology/jupiter/) est la part qui donne sens aux choses : elle rassemble l’expérience en signification et vous fait continuer d’apprendre. Un [sextile](/astrology/sextile/) relie ces deux fonctions par l’occasion et l’activation coopérative : elles s’aident dès que vous les mobilisez.
+[Mars](/astrology/mars/) est la part du thème qui agit : l’initiative, l’affirmation, l’effort, la volonté de mener une chose à bien. [Jupiter](/astrology/jupiter/) est la part qui donne sens aux choses : celle qui rassemble l’expérience en signification et vous fait continuer d’apprendre. Un [sextile](/astrology/sextile/) relie ces deux fonctions par l’occasion et l’activation coopérative : elles s’aident dès que vous les mobilisez.
 
 Concrètement, vous trouvez en général une raison de faire l’effort, et une façon de mettre une conviction en pratique. Un cours auquel vous vous inscrivez devient quelque chose que vous enseignez ; une cause que vous rejoignez prend vos week-ends ; une tâche difficile vaut la peine parce qu’elle vous apprend quelque chose. L’occasion demande de s’engager, pourtant, et le potentiel n’est pas la réalisation : le sextile décrit une porte qui s’ouvre volontiers, pas un couloir où l’on vous porte. Les personnes qui l’ont réussissent souvent mieux avec des projets qui ont à la fois un but et une prochaine étape claire.
 
@@ -44,7 +44,7 @@ Un sextile relie en général des éléments complémentaires, à deux signes d�
 
 Environ 1 personne sur 12 naît avec Mars et Jupiter à moins de 6° d’un sextile exact : c’est, dans le décompte, le plus fréquent des aspects de la paire, contre environ 1 sur 26 pour la conjonction. Bien des personnes qui ont ce sextile sont nées pendant l’une des rétrogradations annuelles de Jupiter, longues d’environ quatre mois ; les raisons se cherchent alors en privé, et l’action suit quand elles sont claires ([planètes rétrogrades natales](/blog/retrograde-planets/)). C’est Mars qui se déplace : un sextile qui se refermait encore à votre naissance est celui que beaucoup d’astrologues jugent le plus actif ([aspects appliquants et séparants](/astrology/applying-and-separating-aspects/)).
 
-Les autres angles de la paire :
+Là où ce sextile aide, les autres aspects de la paire fusionnent, frottent, coulent ou se font face :
 
 - **[Mars conjonction Jupiter](/astrology/mars-conjunct-jupiter/) :** les deux au même endroit, sans aucun écart entre croire et faire.
 - **[Mars carré Jupiter](/astrology/mars-square-jupiter/) :** les mêmes fonctions sous tension, la croyance et l’effort qui apprennent la taille l’un de l’autre.

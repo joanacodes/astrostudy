@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 187
 glyph: "♀□⚷"
-definition: "Vénus carré Chiron signifie qu’à votre naissance, Vénus et Chiron étaient à environ 90° d’écart, en général dans des signes du même mode. Dans un thème, le désir de compter et une sensibilité durable se croisent sans cesse : l’affection peut toucher un point sensible. J’y lis une friction qui construit un savoir-faire des liens, jamais un verdict sur votre valeur."
+definition: "Vénus carré Chiron signifie qu’à votre naissance, Vénus et Chiron étaient à environ 90° d’écart, dans des signes du même mode. Le désir de compter et une sensibilité durable se croisent sans cesse : l’affection peut toucher un point sensible. Pour moi, c’est une friction qui forme un vrai savoir-faire des liens ; elle ne dit rien de définitif sur votre valeur."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Chiron ⚷" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -32,7 +32,7 @@ Vénus carré Chiron place à angle droit le désir de compter et une sensibilit
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Vénus](/astrology/venus/) est la part du thème qui évalue : l’attirance, le goût, ce qui vous semble valoir la peine, et la question de savoir si un lien rend autant qu’il prend. [Chiron](/astrology/chiron/) est la part qui s’adapte : il trouve des façons de continuer à prendre part autour d’une sensibilité ou d’une inégalité qui reste, en compensant, en aménageant et en apprenant par la pratique. Un [carré](/astrology/square/) relie ces deux fonctions par une friction constructive : elles se croisent sans cesse, et chaque croisement demande un petit ajustement.
+[Vénus](/astrology/venus/) est la part du thème qui évalue : l’attirance, le goût, ce qui vous semble valoir la peine, et la question de savoir si un lien rend autant qu’il prend. [Chiron](/astrology/chiron/) est la part qui s’adapte : il trouve des façons de continuer à prendre part autour d’une sensibilité ou d’une inégalité qui reste, en compensant, en aménageant et en apprenant par la pratique. Sous un [carré](/astrology/square/), la friction est constructive : les deux fonctions se croisent sans cesse, et chaque croisement demande un petit ajustement.
 
 Concrètement, le désir de plaire et le point sensible se rencontrent souvent au mauvais moment : un premier rendez-vous, un compliment que vous ne savez pas recevoir, un moment où quelqu’un choisit quelqu’un d’autre. La friction est réelle, et elle ne dit rien de définitif sur vous. Ce que le carré enseigne, lentement, c’est qu’un point sensible ne mesure pas votre valeur ; que vous pouvez demander un peu d’aide sans devoir beaucoup en retour ; et que l’affection n’a pas à se gagner en donnant plus que vous ne recevez. Répétés au fil des années, ces petits ajustements deviennent une façon d’aimer honnête sur ses limites et généreuse à l’intérieur d’elles.
 
@@ -42,7 +42,7 @@ Un carré relie en général deux signes du même mode. Avec Chiron en Poissons,
 
 Environ 1 personne sur 15 naît avec Vénus et Chiron à moins de 6° d’un carré exact. Près de l’exactitude, c’est un fil de votre façon de donner et de recevoir de l’affection ; large, il affleure surtout sous la tension. C’est le genre de placement que je lis lentement, avec des mots simples, et jamais comme une sentence ([les trois qui ont tenu : Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/#avec-douceur)).
 
-Les autres angles de la paire :
+Là où le carré frotte, les autres aspects de la paire font autre chose :
 
 - **[Vénus conjonction Chiron](/astrology/venus-conjunct-chiron/) :** aimer et s’adapter au même endroit ; le point sensible habite votre goût au lieu de le croiser.
 - **[Vénus sextile Chiron](/astrology/venus-sextile-chiron/) :** le même savoir-faire, offert comme une ouverture plutôt que comme une friction.

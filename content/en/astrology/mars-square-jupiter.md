@@ -41,7 +41,7 @@ Squares usually join signs of one modality, and this pair has a striking cardina
 
 About 1 person in 16 is born with Mars and Jupiter within 6° of a square. In a reading I keep the language plain: this is friction about scale, not a flaw of character, and it usually gets easier to steer with practice ([how I read](/how-i-read/)).
 
-The pair's other angles:
+Elsewhere in the pair, the rub eases or changes shape:
 
 - **[Mars conjunct Jupiter](/astrology/mars-conjunct-jupiter/):** effort and meaning sharing one point; the push and the reason arrive together.
 - **[Mars sextile Jupiter](/astrology/mars-sextile-jupiter/):** a cooperative angle; the same two help each other once you start.

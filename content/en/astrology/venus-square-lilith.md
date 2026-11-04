@@ -42,12 +42,12 @@ The square usually joins signs of one modality. In fixed signs, it can show as a
 
 About 1 person in 15 is born with Venus within 6° of a square to mean Lilith. I don't read Lilith as something to fix, and this square is no exception: what's in tension here is worth keeping, not curing ([the three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/#lilith)).
 
-The pair's other angles:
+The other four aspects ease, fuse or mirror the same pull:
 
 - **[Venus conjunct Lilith](/astrology/venus-conjunct-lilith/):** the two in one point; your taste is your autonomy, with nothing in between.
 - **[Venus sextile Lilith](/astrology/venus-sextile-lilith/):** an easy opening for the same authenticity, used when you feel like it.
 - **[Venus trine Lilith](/astrology/venus-trine-lilith/):** taste and autonomy flowing in one element, rarely pulling against each other.
-- **[Venus opposite Lilith](/astrology/venus-opposite-lilith/):** a polarity; closeness at one end, autonomy at the other, and balance learned with a partner.
+- **[Venus opposite Lilith](/astrology/venus-opposite-lilith/):** the same two facing each other, so that closeness and autonomy take turns.
 
 Between two charts, [Venus square Lilith in synastry](/astrology/venus-square-lilith-synastry/) can be electric and prickly: one person's wish for harmony meets the other's refusal to be smoothed over. It goes best when both can say what they want plainly.
 

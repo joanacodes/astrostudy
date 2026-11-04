@@ -19,11 +19,11 @@ facts:
 related: ["/astrology/venus", "/astrology/chiron", "/astrology/trine", "/astrology/venus-square-chiron", "/astrology/venus-trine-chiron-synastry"]
 faq:
   - q: "Que veut dire Vénus trigone Chiron dans un thème natal ?"
-    a: "Vénus et Chiron à environ 120° d’écart à votre naissance, en général dans des signes d’un même élément. Ce que vous aimez et ce que vous avez appris en vous adaptant coulent ensemble : vous faites facilement de la place à la différence, et l’expérience a affiné votre goût. J’y lis un savoir-faire discret des liens, à remarquer et à utiliser."
+    a: "Vénus et Chiron à environ 120° d’écart à votre naissance, dans des signes d’un même élément. Ce que vous aimez et ce que vous avez appris en vous adaptant coulent ensemble : vous faites facilement de la place à la différence, et l’expérience a affiné votre goût. C’est un savoir-faire des liens qui s’annonce rarement, à nommer et à utiliser exprès."
   - q: "Est-ce que Vénus trigone Chiron est un bon aspect pour les relations ?"
     a: "Il peut beaucoup aider. Il rend plus facile d’aimer les gens tels qu’ils sont, de s’ajuster sans rancœur et de dire ce dont on a besoin sans drame. Comme tout trigone, il donne le plus quand vous vous en servez exprès, et quand vous laissez les autres vous faire de la place aussi volontiers que vous leur en faites."
   - q: "Est-ce que Vénus trigone Chiron veut dire que ma sensibilité est guérie ?"
-    a: "Pas dans ma lecture. Chiron décrit l’adaptation autour d’une sensibilité, pas sa guérison. Le trigone suggère que vous avez trouvé des façons de vivre avec qui marchent, et qu’elles passent facilement dans votre manière d’aimer. Le point sensible peut toujours être là ; il ne mène simplement plus la danse."
+    a: "Pas dans ma lecture. Chiron décrit l’adaptation autour d’une sensibilité, pas sa guérison. Le trigone suggère que vous avez trouvé des façons de vivre avec qui marchent, et qu’elles passent facilement dans votre manière d’aimer. La sensibilité peut très bien rester ; ce qui change, c’est la place qu’elle prend."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes naissent avec cet aspect" }
@@ -44,7 +44,7 @@ Le trigone relie en général des signes d’un même élément. Avec Chiron en 
 
 Environ 1 personne sur 17 naît avec Vénus et Chiron à moins de 6° d’un trigone exact, un peu moins que pour le sextile ou le carré. En lecture, je le nomme à voix haute, car une aisance de ce genre se sous-estime facilement ([ma méthode](/how-i-read/)).
 
-Les autres angles de la paire :
+Les autres façons dont Vénus et Chiron peuvent se rencontrer, de la fusion au face-à-face :
 
 - **[Vénus conjonction Chiron](/astrology/venus-conjunct-chiron/) :** le point sensible loge dans votre goût lui-même, au point qu’aimer et s’adapter ne se distinguent plus.
 - **[Vénus sextile Chiron](/astrology/venus-sextile-chiron/) :** le même savoir-faire, qui demande un pas délibéré ; une ouverture plutôt qu’une habitude.

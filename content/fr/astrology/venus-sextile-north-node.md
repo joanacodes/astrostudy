@@ -43,7 +43,7 @@ Avec le Nœud Nord en Lion et Vénus en Balance ou en Gémeaux, le sextile va ve
 
 Environ 1 personne sur 15 naît avec Vénus à moins de 6° d’un sextile au Nœud Nord, selon le nœud vrai. En lecture, je le nomme comme un pont que nous pouvons regarder ensemble, puis je le vérifie dans votre vie ([ma méthode](/how-i-read/)).
 
-Les autres angles de la paire :
+Ailleurs sur le cercle, Vénus se situe autrement par rapport à l’axe :
 
 - **[Vénus conjonction Nœud Nord](/astrology/venus-conjunct-north-node/) :** Vénus sur le bout qui grandit lui-même, si bien qu’entrer en relation est la nouvelle compétence.
 - **[Vénus carré Nœud Nord](/astrology/venus-square-north-node/) :** Vénus en travers du chemin ; une croissance qui doit inclure ce que vous aimez.
@@ -54,7 +54,7 @@ Entre deux thèmes, [Vénus sextile Nœud Nord en synastrie](/astrology/venus-se
 
 ## En transit {#en-transit}
 
-[Nœud Nord en transit sextile Vénus du thème natal](/astrology/transiting-north-node-sextile-natal-venus/) arrive deux fois par tour de 18,6 ans des nœuds, pour un mois environ à chaque fois : une saison légère et utile pour les liens qui vous aident à grandir. À chaque [inversion nodale](/astrology/nodal-reversal/), vers 9, 28 et 46 ans, le Nœud Nord en transit atteint votre Nœud Sud natal, et forme donc un trigone avec votre Vénus : pendant quelques mois, les deux bouts de l’axe échangent leurs places.
+[Nœud Nord en transit sextile Vénus du thème natal](/astrology/transiting-north-node-sextile-natal-venus/) se présente deux fois par cycle des nœuds, pour un mois environ à chaque fois : une saison légère et utile pour les liens qui vous aident à grandir. À chaque [inversion nodale](/astrology/nodal-reversal/), vers 9, 28 et 46 ans, le Nœud Nord en transit atteint votre Nœud Sud natal, et forme donc un trigone avec votre Vénus : pendant quelques mois, les deux bouts de l’axe échangent leurs places.
 
 Vénus effleure le même sextile avec votre Nœud Nord natal environ deux fois par an, brièvement : de bons jours pour un pas que vous répétiez depuis longtemps.
 

@@ -28,13 +28,13 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’opposition, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes naissent avec cet aspect" }
 ---
-Vénus opposition Pluton place ce que vous aimez de l’autre côté du thème, face à la part de vous qui transforme. C’est une polarité : la profondeur et l’intensité se rencontrent souvent d’abord chez les autres, et avec le temps vous découvrez qu’une part vous en appartenait depuis le début.
+Vénus opposition Pluton tient aux deux bouts du thème ce que vous aimez et la part de vous qui transforme. C’est une polarité : la profondeur et l’intensité se rencontrent souvent d’abord chez les autres, et avec le temps vous découvrez qu’une part vous en appartenait depuis le début.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Vénus](/astrology/venus/) est la part du thème qui évalue et qui relie : l’attirance, les préférences, l’harmonie, le sentiment qu’un échange est juste. [Pluton](/astrology/pluto/) est la part qui renouvelle depuis la racine et qui rend du pouvoir : elle laisse partir l’obsolète et donne plus de force à ce qui reste. Une [opposition](/astrology/opposition/) relie ces deux fonctions par la polarité : chacune devient plus nette face à l’autre, et le travail est un équilibre, pas une victoire.
+[Vénus](/astrology/venus/) est la part du thème qui évalue et qui relie : l’attirance, les préférences, l’harmonie, le sentiment qu’un échange est juste. [Pluton](/astrology/pluto/) est la part qui renouvelle depuis la racine et qui rend du pouvoir : celle qui laisse partir l’obsolète et donne plus de force à ce qui reste. De part et d’autre d’une [opposition](/astrology/opposition/), chacune des deux fonctions met l’autre en relief, et ce qui est demandé, c’est un équilibre, pas une victoire.
 
-Concrètement, quelque chose en vous hésite entre garder les choses agréables et aller jusqu’au fond. Des personnes intenses peuvent vous attirer, ou bien c’est vous qui portez la profondeur dans un lien plus léger ; vous pouvez aimer l’harmonie et sentir pourtant qu’une harmonie qui évite la vérité ne vaut pas grand-chose. La polarité n’est pas une contradiction, et la tension dépend du contexte au lieu d’être fixée une fois pour toutes. Les questions que pose cette opposition portent sur l’équilibre : ce que vous gardez et ce que vous laissez partir, comment le pouvoir se partage, si vos propres préférences survivent dans un lien proche. Avec le temps, les réponses donnent des relations à la fois chaleureuses et franches.
+Concrètement, quelque chose en vous hésite entre garder les choses agréables et aller jusqu’au fond. Des personnes intenses peuvent vous attirer, ou bien c’est vous qui portez la profondeur dans un lien plus léger ; vous pouvez aimer l’harmonie et sentir pourtant qu’une harmonie qui évite la vérité ne vaut pas grand-chose. Cette tension n’est pas une contradiction, ni un état figé : elle se resserre ou se relâche selon la situation. Les questions que pose cette opposition portent sur l’équilibre : ce que vous gardez et ce que vous laissez partir, comment le pouvoir se partage, si vos propres préférences survivent dans un lien proche. Avec le temps, les réponses donnent des relations à la fois chaleureuses et franches.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
@@ -42,7 +42,7 @@ Deux signes opposés partagent un mode et complètent leurs éléments. Avec Plu
 
 Environ 1 personne sur 30 naît avec Vénus et Pluton à moins de 6° d’une opposition exacte, la même proportion que pour la conjonction. Ici, Vénus fait tout le chemin ; en une vie, Pluton ne parcourt qu’une partie du zodiaque.
 
-Les autres angles de la paire :
+Vus depuis l’opposition, les quatre autres angles ressemblent à ceci :
 
 - **[Vénus conjonction Pluton](/astrology/venus-conjunct-pluto/) :** côte à côte ; la profondeur vient de l’intérieur plutôt que de l’autre bout de la pièce.
 - **[Vénus sextile Pluton](/astrology/venus-sextile-pluto/) :** un lien coopératif ; le renouveau est offert dès que vous le saisissez.

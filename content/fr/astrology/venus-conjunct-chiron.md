@@ -35,7 +35,7 @@ Vénus conjonction Chiron place dans les mêmes quelques degrés ce que vous aim
 
 [Vénus](/astrology/venus/) est la part du thème qui évalue : ce qui vous attire, ce que vous préférez, ce que vous trouvez beau, et la réciprocité d’un lien. [Chiron](/astrology/chiron/) est la part qui s’adapte : il change de méthode, de rythme ou d’attente autour d’une sensibilité ou d’une limite qui reste, sans exiger qu’elle disparaisse, et fait de cet ajustement un savoir-faire. Dans une [conjonction](/astrology/conjunction/), le point sensible et votre goût deviennent une seule façon d’entrer en relation, sans que l’un absorbe l’autre.
 
-Concrètement, le point sensible et votre façon d’aimer se tiennent ensemble. Ce peut être une sensibilité autour du fait de compter pour quelqu’un, du regard qu’on porte sur vous, ou de la valeur de ce que vous offrez. La conjonction ne fait pas de cette sensibilité votre identité : la limite est un contexte, pas ce que vous êtes. Ce qu’elle fait, c’est rendre votre façon d’entrer en relation particulièrement réfléchie. Vous remarquez qui reste en dehors d’un groupe et vous lui faites une place ; vous savez rendre un échange équitable aux yeux de quelqu’un qui s’attend au contraire. Votre goût va souvent vers ce qui a été adapté, rendu utilisable par de vraies personnes plutôt que fait pour la parade.
+Concrètement, le point sensible et votre façon d’aimer se tiennent ensemble. Ce peut être une sensibilité autour du fait de compter pour quelqu’un, du regard qu’on porte sur vous, ou de la valeur de ce que vous offrez. La conjonction ne fait pas de cette sensibilité votre identité : la limite est un contexte, pas ce que vous êtes. La conjonction rend plutôt votre façon d’entrer en relation particulièrement réfléchie. Vous remarquez qui reste en dehors d’un groupe et vous lui faites une place ; vous savez rendre un échange équitable aux yeux de quelqu’un qui s’attend au contraire. Votre goût va souvent vers ce qui a été adapté, rendu utilisable par de vraies personnes plutôt que fait pour la parade.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
@@ -43,19 +43,19 @@ L’orbite de Chiron est si irrégulière qu’il passe moins de deux ans en Vie
 
 Environ 1 personne sur 27 naît avec Vénus et Chiron à moins de 6° d’une conjonction exacte. Dans mon carnet, Chiron faisait partie des trois placements qui ont tenu 75 à 90 % du temps, tandis que Vénus, comme les autres placements que tout le monde lit en premier, tenait environ une fois sur trois. En lecture, je pars donc du côté de Chiron dans cette rencontre, et j’avance avec douceur ([les trois qui ont tenu : Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/)).
 
-Les autres angles de la paire :
+Les autres aspects de la paire, au fil de l’écart :
 
 - **[Vénus sextile Chiron](/astrology/venus-sextile-chiron/) :** une ouverture ; ce que vous avez appris sur les liens est là pour servir, à vous ou à quelqu’un d’autre.
 - **[Vénus carré Chiron](/astrology/venus-square-chiron/) :** le point sensible et le désir de compter se rencontrent sous un angle, et s’ajuster devient un métier.
 - **[Vénus trigone Chiron](/astrology/venus-trine-chiron/) :** l’adaptation et le goût dans un même élément ; faire de la place aux autres vous coûte très peu.
 - **[Vénus opposition Chiron](/astrology/venus-opposite-chiron/) :** la même sensibilité, rencontrée de l’autre côté du thème, souvent à travers les personnes dont vous prenez soin.
 
-Entre deux thèmes, [Vénus conjonction Chiron en synastrie](/astrology/venus-conjunct-chiron-synastry/) est un contact de reconnaissance : la façon d’aimer de l’une des deux personnes tombe juste sur le point sensible de l’autre. Chacune des deux personnes doit y aller avec délicatesse, et je le lis depuis chaque thème à tour de rôle.
+Entre deux thèmes, [Vénus conjonction Chiron en synastrie](/astrology/venus-conjunct-chiron-synastry/) est un contact de reconnaissance : la façon d’aimer de l’une des deux personnes tombe juste sur le point sensible de l’autre. Chacune doit y aller avec délicatesse, et je le lis depuis chaque thème à tour de rôle.
 
 ## En transit {#en-transit}
 
 [Chiron en transit conjonction Vénus du thème natal](/astrology/transiting-chiron-conjunct-natal-venus/) dure ce que permet le signe que Chiron traverse : quelques mois en Vierge ou en Balance, où il va le plus vite, et souvent plus d’un an, en trois passages, en Bélier ou en Poissons, où il s’attarde. C’est souvent une saison où revient une vieille question, celle de savoir si l’on compte, et où vous pouvez y répondre avec ce que vous savez aujourd’hui. Si la conjonction est la vôtre, le [retour de Chiron](/astrology/chiron-return/), vers 50 ans, vaut aussi pour ce transit : en revenant à son degré de naissance, Chiron repasse sur votre Vénus.
 
-Vénus croise Chiron dans votre thème environ une fois par an, et le jour ou deux qui l’entourent peuvent apporter un éclair de tendresse autour du fait de plaire ou de compter.
+Vénus croise Chiron dans votre thème environ une fois par an : un jour ou deux qui peuvent apporter un éclair de tendresse autour du fait de plaire ou de compter.
 
 Une météo, pas une prédiction : ce sont des moments pour traiter le point sensible avec douceur, jamais des verdicts sur lui.

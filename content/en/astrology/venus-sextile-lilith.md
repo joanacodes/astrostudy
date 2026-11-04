@@ -43,7 +43,7 @@ The sextile tends to pair a fire sign with an air sign, or earth with water. Wit
 
 About 1 person in 15 is born with Venus within 6° of a sextile to mean Lilith, about as many as have the square or the trine. Lilith was one of the three placements that held far more often than the rest in my notebook, so when this sextile appears I ask where in your life you let that streak out, and where you don't ([the invoice method, and what held overall](/blog/i-tested-my-birth-chart/)).
 
-The pair's other angles:
+Taste and autonomy at the pair's other angles:
 
 - **[Venus conjunct Lilith](/astrology/venus-conjunct-lilith/):** taste and the untamed self in one point; what you like is non-negotiable.
 - **[Venus square Lilith](/astrology/venus-square-lilith/):** pleasing and refusing at an angle; authenticity learned the hard, useful way.

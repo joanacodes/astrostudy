@@ -28,11 +28,11 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "ses quatre aspects, dont la conjonction ne fait pas partie, et les exaltations" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes naissent avec cet aspect" }
 ---
-Mars conjonction Jupiter place dans les mêmes quelques degrés la part de vous qui agit et celle qui cherche du sens. Quand vous croyez à quelque chose, vous avez tendance à vous mettre en mouvement, et en avançant vous découvrez ce que vous croyez.
+Mars conjonction Jupiter fond l’action et le sens : l’élan de faire et le besoin que cela compte occupent les mêmes quelques degrés de votre thème. Quand vous croyez à quelque chose, vous avez tendance à vous mettre en mouvement, et en avançant vous découvrez ce que vous croyez.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Mars](/astrology/mars/) est la part du thème qui lance : elle commence les choses, affirme ce que vous voulez, fournit l’effort et tient une limite. [Jupiter](/astrology/jupiter/) est la part qui demande à quoi servent les choses : elle transforme l’expérience en compréhension et soutient votre croissance au fil du temps. Dans une [conjonction](/astrology/conjunction/), ces deux fonctions agissent comme une seule unité, chacune gardant son propre travail : l’élan d’agir et le désir de comprendre arrivent dans le même geste.
+[Mars](/astrology/mars/) est la part du thème qui lance : celle qui commence les choses, affirme ce que vous voulez, fournit l’effort et tient une limite. [Jupiter](/astrology/jupiter/) est la part qui demande à quoi servent les choses : celle qui transforme l’expérience en compréhension et soutient votre croissance au fil du temps. Dans une [conjonction](/astrology/conjunction/), ces deux fonctions s’allument ensemble, chacune gardant son propre travail : l’élan d’agir et le désir de comprendre arrivent dans le même geste.
 
 Concrètement, chez vous, la conviction et l’effort se séparent difficilement. Une cause qui vous tient à cœur reçoit aussitôt votre énergie ; une tâche que vous prenez en main se découvre vite un but plus large. Les autres remarquent peut-être de l’enthousiasme, du goût pour les défis, ou un talent pour rassembler autour d’un objectif. La conjonction vient avec deux mises en garde, toutes deux affaire d’échelle : l’expansion n’est pas l’excès, et le courage n’est pas l’imprudence. Elle donne le meilleur quand la taille de ce que vous entreprenez correspond à sa raison d’être, et quand vos principes restent prêts à se tromper.
 
@@ -53,7 +53,7 @@ Entre deux thèmes, [Mars conjonction Jupiter en synastrie](/astrology/mars-conj
 
 ## En transit {#en-transit}
 
-[Jupiter en transit conjonction Mars du thème natal](/astrology/transiting-jupiter-conjunct-natal-mars/) revient environ tous les douze ans et dure quelques semaines, ou davantage, en deux ou trois passages, quand la rétrogradation annuelle de Jupiter tombe à proximité. C’est souvent une saison d’énergie neuve pour quelque chose à quoi vous croyez. Si la conjonction est dans votre thème, chaque [retour de Jupiter](/astrology/jupiter-return/), vers 12, 24, 36 ans et ainsi de suite, ramène Jupiter à sa propre place, et donc à côté de votre Mars.
+[Jupiter en transit conjonction Mars du thème natal](/astrology/transiting-jupiter-conjunct-natal-mars/) revient à peu près tous les douze ans ; ce transit tient en général quelques semaines, et plusieurs mois quand la boucle rétrograde de Jupiter se trouve justement sur votre Mars. C’est souvent une saison d’énergie neuve pour quelque chose à quoi vous croyez. Si la conjonction est dans votre thème, chaque [retour de Jupiter](/astrology/jupiter-return/), vers 12, 24, 36 ans et ainsi de suite, ramène Jupiter à sa propre place, et donc à côté de votre Mars.
 
 Mars croise Jupiter dans votre thème environ une fois tous les deux ans, pour quelques jours d’empressement.
 

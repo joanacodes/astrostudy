@@ -42,7 +42,7 @@ With the North Node in Leo and Venus in Libra or Gemini, the sextile is to the g
 
 About 1 person in 15 is born with Venus within 6° of a sextile to the North Node, by the true node. In a reading I name it as a bridge we can look at together, then check it against your life ([how I read](/how-i-read/)).
 
-The pair's other angles:
+Elsewhere on the circle, Venus relates to the axis differently:
 
 - **[Venus conjunct North Node](/astrology/venus-conjunct-north-node/):** Venus right on the growing end, so relating itself is the new skill.
 - **[Venus square North Node](/astrology/venus-square-north-node/):** Venus crosswise to the path; growth that has to include what you value.
@@ -53,7 +53,7 @@ Between two charts, [Venus sextile North Node in synastry](/astrology/venus-sext
 
 ## In transits {#in-transits}
 
-[Transiting North Node sextile natal Venus](/astrology/transiting-north-node-sextile-natal-venus/) arrives twice in each 18.6-year round of the nodes, for a month or so each time: a light, useful season for relationships that help you grow. At each [nodal reversal](/astrology/nodal-reversal/), around 9, 28 and 46, the transiting North Node reaches your natal South Node, and so trines your Venus: for a few months the two ends of the axis trade places.
+[Transiting North Node sextile natal Venus](/astrology/transiting-north-node-sextile-natal-venus/) turns up twice per nodal cycle, for a month or so each time: a light, useful season for relationships that help you grow. At each [nodal reversal](/astrology/nodal-reversal/), around 9, 28 and 46, the transiting North Node reaches your natal South Node, and so trines your Venus: for a few months the two ends of the axis trade places.
 
 Venus brushes past the same sextile to your natal North Node about twice a year, briefly: good days for a step you've been rehearsing.
 

@@ -42,7 +42,7 @@ Chiron's orbit is so uneven that it spends under two years in Virgo or Libra and
 
 About 1 person in 27 is born with Venus and Chiron within 6° of a conjunction. In my notebook Chiron was one of the three placements that held 75 to 90% of the time, while Venus, like the other placements everyone reads first, held about a third. So in a reading I start from the Chiron side of this meeting, and I go gently ([the three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)).
 
-The pair's other angles:
+The pair's other aspects, as the gap widens:
 
 - **[Venus sextile Chiron](/astrology/venus-sextile-chiron/):** an opening; what you've learned about relating is there to use, for yourself or for someone else.
 - **[Venus square Chiron](/astrology/venus-square-chiron/):** the tender spot and the wish to be valued meet at an angle, and adjusting becomes a craft.

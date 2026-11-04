@@ -32,7 +32,7 @@ Mars carré Jupiter place l’envie d’agir à angle droit de l’envie de comp
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Mars](/astrology/mars/) est la part du thème qui agit : elle lance, affirme, rivalise et fournit le travail. [Jupiter](/astrology/jupiter/) est la part qui cherche la vue d’ensemble : les principes, le sens, et la croissance sur le long terme. Un [carré](/astrology/square/) place ces deux fonctions sous un angle de travail, où la friction est constructive et pousse chacune à se développer.
+[Mars](/astrology/mars/) est la part du thème qui agit : celle qui lance, affirme, rivalise et fournit le travail. [Jupiter](/astrology/jupiter/) est la part qui cherche la vue d’ensemble : les principes, le sens, et la croissance sur le long terme. Un [carré](/astrology/square/) place ces deux fonctions sous un angle de travail, où la friction est constructive et pousse chacune à se développer.
 
 Concrètement, vous entreprenez peut-être plus que le moment ne le demande, ou vous défendez un principe là où un simple geste suffirait ; à d’autres moments, vous agissez d’abord et trouvez la raison ensuite. La compétition peut ressembler à une question de principe. Rien de cela n’est un échec, et rien n’est imprudent par nature : le courage n’est pas l’imprudence, et l’expansion n’est pas l’excès. Ce que le carré entraîne, c’est un instinct précieux : ajuster l’effort au but, vérifier une conviction avant de foncer, et laisser une cause grandir au rythme que votre énergie peut vraiment tenir.
 
@@ -42,7 +42,7 @@ Les carrés relient en général des signes du même mode, et cette paire a une 
 
 Environ 1 personne sur 16 naît avec Mars et Jupiter à moins de 6° d’un carré exact. En lecture, je garde des mots simples : c’est une friction d’échelle, pas un défaut de caractère, et elle devient en général plus facile à diriger avec la pratique ([ma méthode](/how-i-read/)).
 
-Les autres angles de la paire :
+Ailleurs dans la paire, le frottement s’adoucit ou change de forme :
 
 - **[Mars conjonction Jupiter](/astrology/mars-conjunct-jupiter/) :** l’effort et le sens partagent un même point ; l’élan et la raison arrivent ensemble.
 - **[Mars sextile Jupiter](/astrology/mars-sextile-jupiter/) :** un angle coopératif ; les mêmes fonctions s’entraident dès que vous commencez.

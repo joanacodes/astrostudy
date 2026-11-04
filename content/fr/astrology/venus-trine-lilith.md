@@ -45,7 +45,7 @@ Un trigone relie en général des signes d’un même élément. Avec Vénus en 
 
 Environ 1 personne sur 15 naît avec Vénus à moins de 6° d’un trigone à Lilith moyenne, comme pour le sextile et le carré. C’est Vénus qui se déplace, et elle ne reste à chaque fois qu’une semaine ou deux dans cette marge de 6°.
 
-Les autres angles de la paire :
+Comment se comparent les autres aspects de la paire :
 
 - **[Vénus conjonction Lilith](/astrology/venus-conjunct-lilith/) :** fondues plutôt qu’accordées ; l’indompté et l’aimé partagent un seul degré.
 - **[Vénus sextile Lilith](/astrology/venus-sextile-lilith/) :** une cousine de cette aisance, qui attend qu’on l’invite, entre éléments complémentaires.

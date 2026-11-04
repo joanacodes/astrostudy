@@ -43,18 +43,18 @@ Vénus partage en général le signe du Nœud Sud. Avec le Nœud Sud en Balance,
 
 Environ 1 personne sur 30 naît avec Vénus à moins de 6° d’une opposition au Nœud Nord, ce qui revient à une conjonction avec le Nœud Sud, selon le nœud vrai.
 
-Les autres angles de la paire :
+En éloignant Vénus du Nœud Sud, on obtient les autres aspects :
 
 - **[Vénus conjonction Nœud Nord](/astrology/venus-conjunct-north-node/) :** l’axe tourné dans l’autre sens, avec Vénus sur le bout qui grandit, là où entrer en relation est la nouvelle compétence.
 - **[Vénus sextile Nœud Nord](/astrology/venus-sextile-north-node/) :** Vénus à un pas de la nouvelle direction, et en trigone avec le familier.
 - **[Vénus carré Nœud Nord](/astrology/venus-square-north-node/) :** Vénus entre les deux bouts, tirée par l’un et par l’autre.
 - **[Vénus trigone Nœud Nord](/astrology/venus-trine-north-node/) :** votre goût qui va déjà dans le sens de votre croissance, avec un sextile amical vers le point de départ.
 
-Entre deux thèmes, [Vénus opposition Nœud Nord en synastrie](/astrology/venus-opposite-north-node-synastry/) place la Vénus de l’une des deux personnes sur le Nœud Sud de l’autre : une douceur familière qui peut donner le sentiment de rentrer chez soi. Je le lis des deux côtés, et je demande vers quoi cette familiarité aide chacune à grandir.
+Entre deux thèmes, [Vénus opposition Nœud Nord en synastrie](/astrology/venus-opposite-north-node-synastry/) c’est la Vénus de l’une des deux personnes qui se pose sur le Nœud Sud de l’autre, avec souvent une douceur familière, comme un retour chez soi. Je le lis des deux côtés, et je demande vers quoi cette familiarité aide chacune à grandir.
 
 ## En transit {#en-transit}
 
-[Nœud Nord en transit opposition Vénus du thème natal](/astrology/transiting-north-node-opposite-natal-venus/) revient une fois par tour de 18,6 ans, quand le Nœud Sud du ciel atteint votre Vénus et que le Nœud Nord lui fait face. Le transit dure un mois ou deux, et les éclipses de cette année-là tombent près de votre Vénus et à l’opposé ; les astrologues y voient souvent un moment pour trier les habitudes relationnelles que vous garderez. Si cette opposition est la vôtre, les deux cycles des nœuds passent tour à tour sur votre Vénus : vers 9, 28 et 46 ans, c’est le Nœud Nord ; vers 18 ans et demi, 37 et 56 ans, c’est le Nœud Sud.
+[Nœud Nord en transit opposition Vénus du thème natal](/astrology/transiting-north-node-opposite-natal-venus/) arrive une fois par cycle des nœuds, quand le Nœud Sud du ciel atteint votre Vénus et que le Nœud Nord lui fait face. Le transit dure un mois ou deux, et les éclipses de cette année-là tombent près de votre Vénus et à l’opposé ; les astrologues y voient souvent un moment pour trier les habitudes relationnelles que vous garderez. Si cette opposition est la vôtre, les deux cycles des nœuds passent tour à tour sur votre Vénus : vers 9, 28 et 46 ans, c’est le Nœud Nord ; vers 18 ans et demi, 37 et 56 ans, c’est le Nœud Sud.
 
 Environ une fois par an, Vénus s’oppose à votre Nœud Nord natal et croise votre Nœud Sud natal au même moment : un jour ou deux qui semblent familiers.
 

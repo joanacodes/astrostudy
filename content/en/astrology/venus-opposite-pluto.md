@@ -27,13 +27,13 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the opposition, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people are born with it" }
 ---
-Venus opposite Pluto sets what you value across the chart from the part of you that transforms. It's a polarity: depth and intensity are often met in other people first, and over time you learn that a share of them was yours all along.
+Venus opposite Pluto holds what you value and the part of you that transforms at opposite ends of the chart. It's a polarity: depth and intensity are often met in other people first, and over time you learn that a share of them was yours all along.
 
 ## What it means {#what-it-means}
 
-[Venus](/astrology/venus/) is the part of a chart that values and relates: attraction, preference, harmony, the sense that an exchange is fair. [Pluto](/astrology/pluto/) is the part that renews from the root and empowers: it lets the obsolete go and gives what remains more strength. An [opposition](/astrology/opposition/) relates them through polarity: each grows clearer against the other, and the work is balance, not victory.
+[Venus](/astrology/venus/) is the part of a chart that values and relates: attraction, preference, harmony, the sense that an exchange is fair. [Pluto](/astrology/pluto/) is the part that renews from the root and empowers: it lets the obsolete go and gives what remains more strength. Across an [opposition](/astrology/opposition/), each throws the other into relief, and what's asked is balance, not victory.
 
-In plain words, there's a pull in you between keeping things pleasant and taking them all the way down. You may be drawn to people who seem intense, or find yourself carrying the depth in a lighter bond; you may love harmony and still feel that a harmony which avoids the truth isn't worth much. Polarity isn't contradiction, and the tension depends on context rather than being fixed. The questions this opposition keeps asking are about balance: what you keep and what you let go, how power is shared, whether your own preferences survive in a close bond. Answered over time, they make for relationships that are both warm and honest.
+In plain words, there's a pull in you between keeping things pleasant and taking them all the way down. You may be drawn to people who seem intense, or find yourself carrying the depth in a lighter bond; you may love harmony and still feel that a harmony which avoids the truth isn't worth much. That pull isn't a contradiction, and it isn't fixed: it tightens or eases with the situation. The questions this opposition keeps asking are about balance: what you keep and what you let go, how power is shared, whether your own preferences survive in a close bond. Answered over time, they make for relationships that are both warm and honest.
 
 ## In a birth chart {#in-a-birth-chart}
 
@@ -41,7 +41,7 @@ Opposite signs share a modality and complement each other's element. With Pluto 
 
 About 1 person in 30 is born with Venus and Pluto within 6° of an opposition, the same share as the conjunction. Venus makes all the moves here; Pluto covers only part of the zodiac in a lifetime.
 
-The pair's other angles:
+Seen from the opposition, the other four look like this:
 
 - **[Venus conjunct Pluto](/astrology/venus-conjunct-pluto/):** the two side by side; the depth comes from within rather than from across the room.
 - **[Venus sextile Pluto](/astrology/venus-sextile-pluto/):** a cooperative link; renewal on offer whenever you take it up.

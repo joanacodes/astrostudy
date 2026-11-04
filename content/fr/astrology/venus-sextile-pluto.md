@@ -28,21 +28,21 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes naissent avec cet aspect" }
 ---
-Vénus sextile Pluton garde la profondeur à portée de ce que vous aimez. Rien ne l’impose : le lien fonctionne comme une porte entrouverte, et ce qui passe dépend de vous, selon que vous l’ouvrez ou non.
+Vénus sextile Pluton relie ce que vous aimez à votre capacité de profondeur, doucement et sur demande. Rien ne l’impose : le lien fonctionne comme une porte entrouverte, et ce qui passe dépend de vous, selon que vous l’ouvrez ou non.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Vénus](/astrology/venus/) est la part du thème qui pèse les choses : ce qui vous attire, ce que vous choisiriez, ce qui vaut d’être gardé, et l’équité d’un échange. [Pluton](/astrology/pluto/) est la part qui renouvelle à la racine : elle élimine ce qui est devenu obsolète, régénère, et fait de ce que vous avez traversé une force. Un [sextile](/astrology/sextile/) relie ces deux fonctions par l’occasion : elles coopèrent quand vous les mobilisez, et aucune ne remplace l’autre.
+[Vénus](/astrology/venus/) est la part du thème qui pèse les choses : ce qui vous attire, ce que vous choisiriez, ce qui vaut d’être gardé, et l’équité d’un échange. [Pluton](/astrology/pluto/) est la part qui renouvelle à la racine : celle qui élimine ce qui est devenu obsolète, régénère, et fait de ce que vous avez traversé une force. Avec un [sextile](/astrology/sextile/) entre ces deux fonctions, elles travaillent ensemble dès que vous leur confiez une tâche, et aucune ne prend le dessus.
 
 Concrètement, vous savez emmener plus loin ce qui compte pour vous. Une amitié peut survivre à une conversation franche ; un style peut être ramené à ce qui vous va vraiment ; un engagement peut être renouvelé au lieu d’être simplement prolongé. Vous savez peut-être aussi finir les choses proprement, de façon que ce qui comptait y survive. Rien de cela n’arrive tout seul. L’occasion demande de s’engager, et le don du sextile reste au repos tant que vous ne vous en servez pas : la profondeur est offerte, pas imposée.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-À deux signes d’écart, un sextile associe en général le feu à l’air ou la terre à l’eau, des éléments qui se nourrissent. Avec Pluton en Vierge, Vénus en sextile se trouve en Cancer ou en Scorpion : un soin concret et durable. Avec Pluton en Balance, Vénus est en Lion ou en Sagittaire, et la franchise sur ce qui compte dans un couple vient facilement. Le signe de Pluton appartient à une génération ; les maisons rendent le sextile personnel. Vénus en maison 3 en sextile avec Pluton en maison 5 pourrait donner du poids à vos mots sur ce que vous aimez, et à votre travail créatif une profondeur qu’il n’avait pas prévue.
+Vénus et Pluton occupent en général ici des éléments qui se nourrissent, le feu avec l’air ou la terre avec l’eau. Avec Pluton en Vierge, Vénus en sextile se trouve en Cancer ou en Scorpion : un soin concret et durable. Avec Pluton en Balance, Vénus est en Lion ou en Sagittaire, et la franchise sur ce qui compte dans un couple vient facilement. Toute une génération partage le signe de Pluton : la part personnelle est donc dans les maisons. Vénus en maison 3 en sextile avec Pluton en maison 5 pourrait donner du poids à vos mots sur ce que vous aimez, et à votre travail créatif une profondeur qu’il n’avait pas prévue.
 
 Environ 1 personne sur 15 naît avec Vénus et Pluton à moins de 6° d’un sextile exact, deux fois plus que pour la conjonction, puisque Vénus peut former un sextile de chaque côté de Pluton. C’est Vénus qui se déplace, un signe toutes les quatre à cinq semaines : le sextile de votre thème a été l’affaire de quelques jours. Près de l’exactitude, la profondeur se voit dans vos choix ; à 6°, elle attend qu’on la demande. Je le lis avec vous plutôt qu’à votre place, et je le vérifie contre la vie que vous me décrivez ([ma méthode](/how-i-read/)).
 
-Les autres angles de la paire :
+Plus proches, plus larges ou opposées, les autres rencontres de la paire traitent la profondeur autrement :
 
 - **[Vénus conjonction Pluton](/astrology/venus-conjunct-pluto/) :** évaluer et transformer dans un même geste ; rien de ce que vous aimez ne reste longtemps en surface.
 - **[Vénus carré Pluton](/astrology/venus-square-pluto/) :** une profondeur qui arrive comme une pression plutôt que comme une invitation, et qui apprend la franchise.
@@ -57,4 +57,4 @@ Entre deux thèmes, [Vénus sextile Pluton en synastrie](/astrology/venus-sextil
 
 Vénus forme le même sextile avec Pluton dans votre thème environ deux fois par an, pour un jour ou deux : un bon moment pour une parole franche avec quelqu’un que vous aimez.
 
-Une météo, pas une prédiction : l’ouverture est réelle, et la franchir reste votre choix.
+Une météo, pas une prédiction : la saison offre de la profondeur, et vous décidez de la part que vous en prenez.

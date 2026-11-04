@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 189
 glyph: "♀☍⚷"
-definition: "Vénus opposition Chiron signifie qu’à votre naissance, Vénus et Chiron étaient à environ 180° d’écart. Dans un thème, ce que vous aimez et votre façon de vous adapter autour d’une sensibilité durable se font face : le point sensible se rencontre souvent chez les personnes que vous aimez. J’y lis une polarité qui apprend la réciprocité du soin."
+definition: "Vénus opposition Chiron signifie qu’à votre naissance, Vénus et Chiron étaient à environ 180° d’écart. Dans un thème, ce que vous aimez et votre façon de vous adapter autour d’une sensibilité durable se font face : le point sensible se rencontre souvent chez les personnes que vous aimez. Pour moi, c’est une leçon de réciprocité, apprise aux deux bouts du soin."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Chiron ⚷" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/venus", "/astrology/chiron", "/astrology/opposition", "/astrology/venus-conjunct-chiron", "/astrology/venus-opposite-chiron-synastry"]
 faq:
   - q: "Que veut dire Vénus opposition Chiron dans un thème natal ?"
-    a: "Vénus et Chiron à environ 180° d’écart à votre naissance. Ce que vous aimez et votre façon de vous adapter autour d’une sensibilité durable se font face : le point sensible se rencontre souvent chez les personnes que vous aimez. J’y lis une polarité qui apprend la réciprocité du soin, jamais l’idée qu’aimer doit faire mal."
+    a: "Vénus et Chiron à environ 180° d’écart à votre naissance. Ce que vous aimez et votre façon de vous adapter autour d’une sensibilité durable se font face : le point sensible se rencontre souvent chez les personnes que vous aimez. Cette opposition apprend la réciprocité du soin, et rien en elle ne dit qu’aimer doit faire mal."
   - q: "Est-ce que Vénus opposition Chiron attire des personnes à réparer ?"
     a: "Pas dans ma lecture. L’opposition décrit une polarité en vous, entre aimer et s’adapter, que les relations font ressortir. Vous voyez peut-être la sensibilité chez les autres d’abord, ou c’est vous qui vous adaptez. Le travail consiste à laisser le soin circuler dans les deux sens, pour qu’aucun rôle ne se fige, pas même le vôtre."
   - q: "Vénus opposition Chiron, est-ce un aspect rare ?"
@@ -33,7 +33,7 @@ Vénus opposition Chiron place ce que vous aimez de l’autre côté du thème, 
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Vénus](/astrology/venus/) est la part du thème qui évalue et qui relie : l’attirance, le goût, ce qui vaut d’être gardé, et l’équité de l’échange. [Chiron](/astrology/chiron/) est la part qui s’adapte : il vous permet de continuer à prendre part autour d’une limite ou d’une vulnérabilité qui reste, par l’aménagement, la compensation et un savoir-faire appris en pratiquant. Une [opposition](/astrology/opposition/) relie ces deux fonctions par la polarité : deux bouts qui deviennent plus nets en se faisant face, et qui demandent à être intégrés.
+[Vénus](/astrology/venus/) est la part du thème qui évalue et qui relie : l’attirance, le goût, ce qui vaut d’être gardé, et l’équité de l’échange. [Chiron](/astrology/chiron/) est la part qui s’adapte : il vous permet de continuer à prendre part autour d’une limite ou d’une vulnérabilité qui reste, par l’aménagement, la compensation et un savoir-faire appris en pratiquant. L'[opposition](/astrology/opposition/) les place aux deux bouts d’un même axe, où chacun se voit mieux en faisant face à l’autre, et où tous deux demandent à être réunis.
 
 Concrètement, le soin et l’attirance passent souvent par-dessus un écart. Des personnes dont vous comprenez la sensibilité peuvent vous attirer, et c’est vous qui vous adaptez ; ou bien ce sont vos besoins que les autres accueillent, et cela vous met mal à l’aise. Le soutien n’est pas la dépendance, et s’adapter à quelqu’un ne dit pas qu’une des deux personnes vaut moins. L’équilibre de l’opposition, c’est la réciprocité : laisser le soin circuler dans les deux sens, pour que ni le rôle d’aidant ni celui d’aidé ne se fige. Avec le temps, cela donne souvent une vraie sagesse des liens, celle qui vient d’avoir tenu les deux bouts.
 
@@ -43,14 +43,14 @@ Avec Chiron en Poissons, Vénus en opposition se trouve en Vierge, l’autre sig
 
 Environ 1 personne sur 33 naît avec Vénus et Chiron à moins de 6° d’une opposition exacte : c’est, dans le décompte, le plus rare des cinq aspects de la paire. Chiron faisait partie des trois placements qui ont le plus souvent tenu dans mon carnet, 75 à 90 % du temps, et avec cette opposition je regarde de près sa maison, là où les autres entrent en général dans l’histoire ([les trois qui ont tenu : Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/#chiron)).
 
-Les autres angles de la paire :
+À des angles plus serrés, la paire fonctionne autrement :
 
 - **[Vénus conjonction Chiron](/astrology/venus-conjunct-chiron/) :** aucune distance ; la valeur et l’adaptation habitent les mêmes quelques degrés.
 - **[Vénus sextile Chiron](/astrology/venus-sextile-chiron/) :** un lien facile et facultatif ; le savoir-faire est à vous, quand vous l’appelez.
 - **[Vénus carré Chiron](/astrology/venus-square-chiron/) :** un angle droit ; la sensibilité et le désir de compter se font trébucher l’un l’autre, et enseignent.
 - **[Vénus trigone Chiron](/astrology/venus-trine-chiron/) :** un courant tranquille entre le goût et l’adaptation, souvent à peine remarqué.
 
-Entre deux thèmes, [Vénus opposition Chiron en synastrie](/astrology/venus-opposite-chiron-synastry/) peut ressembler à un regard échangé d’un bout à l’autre d’une pièce : l’affection de l’une des deux personnes fait face à la sensibilité de l’autre. Ce peut être tendre ou maladroit, et souvent les deux : je le lis donc de chaque côté.
+Entre deux thèmes, [Vénus opposition Chiron en synastrie](/astrology/venus-opposite-chiron-synastry/) peut ressembler à un regard échangé d’un bout à l’autre d’une pièce : l’affection de l’une des deux personnes fait face à la sensibilité de l’autre. Tendre un jour, maladroit le lendemain, ce contact gagne à être lu de chaque côté.
 
 ## En transit {#en-transit}
 

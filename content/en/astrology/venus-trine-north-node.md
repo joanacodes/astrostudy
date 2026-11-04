@@ -42,7 +42,7 @@ With the North Node in Sagittarius and Venus in Aries or Leo, the trine runs thr
 
 About 1 person in 15 is born with Venus within 6° of a trine to the North Node, by the true node. Because the mean node can sit a degree or two from the true one, a trine near 6° may exist in one and not the other, so I look at both.
 
-The pair's other angles:
+Each of the other aspects puts Venus at a different point of the axis:
 
 - **[Venus conjunct North Node](/astrology/venus-conjunct-north-node/):** Venus on the North Node itself; relating is the capacity you're building.
 - **[Venus sextile North Node](/astrology/venus-sextile-north-node/):** help of the same kind, though you have to reach for it.
@@ -53,7 +53,7 @@ Between two charts, [Venus trine North Node in synastry](/astrology/venus-trine-
 
 ## In transits {#in-transits}
 
-[Transiting North Node trine natal Venus](/astrology/transiting-north-node-trine-natal-venus/) arrives twice in each 18.6-year round, for a month or two: a season when relationships and pleasures line up with where you're heading. If the trine is in your chart, the [nodal return](/astrology/nodal-return/), at about 18½, 37 and 56, recreates it in the sky.
+[Transiting North Node trine natal Venus](/astrology/transiting-north-node-trine-natal-venus/) comes round twice while the nodes make their 18.6-year circuit, a month or two each time: a season when relationships and pleasures line up with where you're heading. If the trine is in your chart, the [nodal return](/astrology/nodal-return/), at about 18½, 37 and 56, recreates it in the sky.
 
 Venus forms the same trine to your natal North Node about twice a year, for a day or so: good days to say yes to something new.
 

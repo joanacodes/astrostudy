@@ -42,18 +42,18 @@ Venus usually shares the South Node's sign here. With the South Node in Libra, V
 
 About 1 person in 30 is born with Venus within 6° of an opposition to the North Node, which is the same as a conjunction with the South Node, counted with the true node.
 
-The pair's other angles:
+Moving Venus away from the South Node gives the other aspects:
 
 - **[Venus conjunct North Node](/astrology/venus-conjunct-north-node/):** the axis turned the other way, with Venus on the growing end, where relating itself is the new skill.
 - **[Venus sextile North Node](/astrology/venus-sextile-north-node/):** Venus a step from the new direction, and trine to the familiar.
 - **[Venus square North Node](/astrology/venus-square-north-node/):** Venus between the two ends, pulled on by both.
 - **[Venus trine North Node](/astrology/venus-trine-north-node/):** your taste already pointing the way you're growing, with a friendly sextile back to the start.
 
-Between two charts, [Venus opposite North Node in synastry](/astrology/venus-opposite-north-node-synastry/) puts one person's Venus on the other's South Node: a familiar sweetness that can feel like coming home. I read it from both sides, and ask what the familiarity helps each person grow towards.
+Between two charts, [Venus opposite North Node in synastry](/astrology/venus-opposite-north-node-synastry/) is one person's Venus landing on the other's South Node, and it tends to feel like a familiar sweetness, like coming home. I read it from both sides, and ask what the familiarity helps each person grow towards.
 
 ## In transits {#in-transits}
 
-[Transiting North Node opposite natal Venus](/astrology/transiting-north-node-opposite-natal-venus/) comes once in each 18.6-year round, when the South Node in the sky reaches your Venus and the North Node faces it. It lasts a month or two, and the eclipses of that year fall near your Venus and opposite it; astrologers often treat it as a time to sort which habits of relating you'll keep. If this opposition is yours, the two nodal cycles take turns with your Venus: around 9, 28 and 46 the North Node passes over it, and around 18½, 37 and 56 the South Node does.
+[Transiting North Node opposite natal Venus](/astrology/transiting-north-node-opposite-natal-venus/) happens once per nodal cycle, when the South Node in the sky reaches your Venus and the North Node faces it. It lasts a month or two, and the eclipses of that year fall near your Venus and opposite it; astrologers often treat it as a time to sort which habits of relating you'll keep. If this opposition is yours, the two nodal cycles take turns with your Venus: around 9, 28 and 46 the North Node passes over it, and around 18½, 37 and 56 the South Node does.
 
 About once a year, Venus opposes your natal North Node and crosses your natal South Node at the same moment: a day or two that feels familiar.
 

@@ -27,11 +27,11 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "his four aspects, which leave out the conjunction, and the exaltations" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people are born with it" }
 ---
-Mars conjunct Jupiter puts the part of you that acts and the part that looks for meaning in the same few degrees. When you believe in something you tend to move, and when you move you tend to find out what you believe.
+Mars conjunct Jupiter fuses action and meaning: the drive to do something and the need for it to matter occupy the same few degrees of your chart. When you believe in something you tend to move, and when you move you tend to find out what you believe.
 
 ## What it means {#what-it-means}
 
-[Mars](/astrology/mars/) is the part of a chart that initiates: it starts things, asserts what you want, puts in the effort and holds a line. [Jupiter](/astrology/jupiter/) is the part that asks what things are for: it turns experience into understanding and supports your growth over time. In a [conjunction](/astrology/conjunction/) they work as one unit, though each keeps its own job: the impulse to act and the wish to understand arrive in the same gesture.
+[Mars](/astrology/mars/) is the part of a chart that initiates: it starts things, asserts what you want, puts in the effort and holds a line. [Jupiter](/astrology/jupiter/) is the part that asks what things are for: it turns experience into understanding and supports your growth over time. In a [conjunction](/astrology/conjunction/) they fire together, each keeping its own job: the impulse to act and the wish to understand arrive in the same gesture.
 
 In plain words, conviction and effort are hard to separate in you. A cause you care about gets your energy straight away; a task you take on soon acquires a larger purpose. People may notice enthusiasm, an appetite for challenge, or a gift for rallying others round an aim. The conjunction comes with two cautions, both about scale: expansion isn't excess, and courage isn't recklessness. It works best when the size of what you take on matches the reason for it, and when your principles stay open to being wrong.
 
@@ -52,7 +52,7 @@ Between two charts, [Mars conjunct Jupiter in synastry](/astrology/mars-conjunct
 
 ## In transits {#in-transits}
 
-[Transiting Jupiter conjunct natal Mars](/astrology/transiting-jupiter-conjunct-natal-mars/) comes about every twelve years and lasts a few weeks, or longer, in two or three passes, when Jupiter's yearly retrograde falls nearby. It's often a season of fresh energy for something you believe in. With the conjunction in your chart, each [Jupiter return](/astrology/jupiter-return/), at about 12, 24, 36 and so on, brings Jupiter back to its own place and so beside your Mars.
+[Transiting Jupiter conjunct natal Mars](/astrology/transiting-jupiter-conjunct-natal-mars/) returns roughly every twelve years; it usually holds for a few weeks, and for several months when Jupiter's retrograde loop happens to sit on your Mars. It's often a season of fresh energy for something you believe in. With the conjunction in your chart, each [Jupiter return](/astrology/jupiter-return/), at about 12, 24, 36 and so on, brings Jupiter back to its own place and so beside your Mars.
 
 Mars crosses your natal Jupiter about once every two years, for a few days of eagerness.
 

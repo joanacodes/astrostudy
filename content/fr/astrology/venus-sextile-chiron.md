@@ -39,11 +39,11 @@ Concrètement, vous savez en général entrer en relation autour d’une difficu
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Les deux signes se trouvent en général à deux signes d’écart, dans des éléments qui se complètent. Avec Chiron en Bélier, un long séjour d’environ huit ans, Vénus en sextile en Gémeaux ou en Verseau laisse la franchise et l’amitié porter ce que vous avez appris ; avec Chiron en Cancer, Vénus en Vierge ou en Taureau donne à l’adaptation une forme concrète et attentionnée. Dans les maisons, Vénus en maison 9 en sextile avec Chiron en maison 11 pourrait faire de vous une personne de référence dans les groupes, qui transmet ce qu’elle a vécu.
+Vénus et Chiron se trouvent en général ici à deux signes d’écart, dans des éléments qui se complètent. Avec Chiron en Bélier, un long séjour d’environ huit ans, Vénus en sextile en Gémeaux ou en Verseau laisse la franchise et l’amitié porter ce que vous avez appris ; avec Chiron en Cancer, Vénus en Vierge ou en Taureau donne à l’adaptation une forme concrète et attentionnée. Dans les maisons, Vénus en maison 9 en sextile avec Chiron en maison 11 pourrait faire de vous une personne de référence dans les groupes, qui transmet ce qu’elle a vécu.
 
 Environ 1 personne sur 14 naît avec Vénus et Chiron à moins de 6° d’un sextile exact : c’est, dans le décompte, le plus fréquent des cinq aspects de la paire. Vénus, de loin la plus rapide, le forme pour une semaine ou deux à chaque fois. Chiron a tenu 75 à 90 % du temps dans mon carnet : je prends donc au sérieux ce que décrit ce sextile, et je le vérifie dans votre vie plutôt que de le supposer ([la méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)).
 
-Les autres angles de la paire :
+La même sensibilité et le même goût, sous d’autres angles :
 
 - **[Vénus conjonction Chiron](/astrology/venus-conjunct-chiron/) :** la valeur et l’adaptation fondues ; c’est dans les liens eux-mêmes que vous avez le plus appris.
 - **[Vénus carré Chiron](/astrology/venus-square-chiron/) :** un point sensible qui croise le désir d’harmonie ; un savoir-faire né d’ajustements répétés.

@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 187
 glyph: "♀□⚷"
-definition: "Venus square Chiron means Venus and Chiron were about 90° apart at your birth, usually in signs of the same modality. In a chart, the wish to be valued and a lasting sensitivity keep crossing, so affection can touch a tender spot. I read it as friction that builds skill in relating, never as a verdict on your worth."
+definition: "Venus square Chiron means Venus and Chiron were about 90° apart at your birth, usually in signs of the same modality. In a chart, the wish to be valued and a lasting sensitivity keep crossing, so affection can touch a tender spot. To me it’s friction that trains a real skill in relating; it says nothing final about your worth."
 facts:
   - { k: "Bodies", v: "Venus ♀ and Chiron ⚷" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -31,7 +31,7 @@ Venus square Chiron sets the wish to be valued and a lasting sensitivity at righ
 
 ## What it means {#what-it-means}
 
-[Venus](/astrology/venus/) is the part of a chart that evaluates: attraction, taste, what you consider worth having, and whether a bond gives back as much as it takes. [Chiron](/astrology/chiron/) is the part that adapts: it finds ways to keep taking part around a sensitivity or unevenness that stays, by compensating, accommodating and learning through practice. A [square](/astrology/square/) relates them through constructive friction: the two keep crossing paths, and each crossing asks for a small adjustment.
+[Venus](/astrology/venus/) is the part of a chart that evaluates: attraction, taste, what you consider worth having, and whether a bond gives back as much as it takes. [Chiron](/astrology/chiron/) is the part that adapts: it finds ways to keep taking part around a sensitivity or unevenness that stays, by compensating, accommodating and learning through practice. Under a [square](/astrology/square/), the friction is constructive: the two keep crossing paths, and each crossing asks for a small adjustment.
 
 In plain words, wanting to be liked and the tender place tend to meet at awkward times: a first date, a compliment you don't know how to take, a moment when someone chooses someone else. The friction is real, and it says nothing final about you. What the square teaches, slowly, is that a sensitive spot is not a measure of your worth; that you can ask for a little help without owing a great deal; and that affection doesn't have to be earned by giving more than you receive. Repeated over years, those small adjustments become a way of relating that is honest about its limits and generous within them.
 
@@ -41,7 +41,7 @@ A square usually joins signs of the same modality. With Chiron in Pisces, as for
 
 About 1 person in 15 is born with Venus and Chiron within 6° of a square. Close to exact, it's a theme in how you give and receive affection; wide, it surfaces mostly under strain. It's the kind of placement I read slowly, in plain words, and never as a sentence passed on you ([the three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/#gently)).
 
-The pair's other angles:
+Where the square rubs, the pair's other aspects do something else:
 
 - **[Venus conjunct Chiron](/astrology/venus-conjunct-chiron/):** valuing and adapting in one place; the tender spot lives inside your taste rather than across it.
 - **[Venus sextile Chiron](/astrology/venus-sextile-chiron/):** the same know-how, offered as an opening instead of a friction.

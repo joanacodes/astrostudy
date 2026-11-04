@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 194
 glyph: "♀☍⚸"
-definition: "Vénus opposition Lilith signifie qu’à votre naissance, Vénus se trouvait à environ 180° de la Lune noire Lilith moyenne. Dans un thème, la proximité et l’autonomie se font face, et votre propre part indomptée se rencontre souvent d’abord chez quelqu’un d’autre. J’y lis une polarité qui apprend l’intimité sans rapetisser, jamais un choix entre l’amour et la liberté."
+definition: "Vénus opposition Lilith signifie qu’à votre naissance, Vénus se trouvait à environ 180° de la Lune noire Lilith moyenne. Dans un thème, la proximité et l’autonomie se font face, et votre propre part indomptée se rencontre souvent d’abord chez quelqu’un d’autre. Cette opposition apprend l’intimité sans rapetisser ; ce n’est jamais un choix entre l’amour et la liberté."
 facts:
   - { k: "Corps", v: "Vénus ♀ et la Lune noire Lilith ⚸ (moyenne)" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/venus", "/astrology/black-moon-lilith", "/astrology/opposition", "/astrology/venus-square-lilith", "/astrology/venus-opposite-lilith-synastry"]
 faq:
   - q: "Que veut dire Vénus opposition Lilith dans un thème natal ?"
-    a: "Dans votre thème natal, Vénus et la Lune noire Lilith moyenne se font face, à environ 180°. La proximité et l’autonomie se font face, et votre propre part indomptée se rencontre souvent d’abord chez quelqu’un d’autre. J’y lis une polarité qui apprend l’intimité sans rapetisser, jamais un choix entre l’amour et la liberté."
+    a: "Dans votre thème natal, Vénus et la Lune noire Lilith moyenne se font face, à environ 180°. La proximité et l’autonomie se font face, et votre propre part indomptée se rencontre souvent d’abord chez quelqu’un d’autre. Cette opposition apprend une proximité qui ne vous fait pas disparaître, et n’impose jamais de choisir entre l’amour et la liberté."
   - q: "Est-ce que Vénus opposition Lilith annonce des relations difficiles ?"
     a: "Non. Une opposition est une polarité, pas un conflit qui attend son heure. Elle peut vous faire sentir tôt la tension entre l’envie de proximité et celle de rester vous-même, ce qui est utile : beaucoup de personnes qui l’ont construisent des relations où il y a de la place, parce qu’elles ont dû réfléchir à ce que liberté veut dire."
   - q: "Est-ce que Vénus opposition Lilith parle de rivalité ?"
@@ -34,7 +34,7 @@ Vénus opposition Lilith tend une ligne d’un bout à l’autre du thème, entr
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Vénus](/astrology/venus/) est la part du thème qui pèse, choisit et relie : l’attirance, les préférences, le sens du beau, et la réciprocité. La [Lune noire Lilith](/astrology/black-moon-lilith/) marque le point le plus lointain de l’orbite de la Lune ; les astrologues ne s’accordent pas sur ce qu’elle souligne, et j’y lis l’instinct d’autonomie et les parts de vous qui ont été tenues hors de vue. Une [opposition](/astrology/opposition/) relie ces deux fonctions par la polarité : deux bouts qui deviennent plus nets par contraste, et le travail de tenir les deux.
+[Vénus](/astrology/venus/) est la part du thème qui pèse, choisit et relie : l’attirance, les préférences, le sens du beau, et la réciprocité. La [Lune noire Lilith](/astrology/black-moon-lilith/) marque le point le plus lointain de l’orbite de la Lune ; les astrologues ne s’accordent pas sur ce qu’elle souligne, et j’y lis l’instinct d’autonomie et les parts de vous qui ont été tenues hors de vue. Dans une [opposition](/astrology/opposition/), Vénus et Lilith deviennent deux pôles, chacune définie en partie par l’autre, et le travail consiste à tenir les deux.
 
 Concrètement, vouloir la proximité et vouloir rester vous-même peuvent sembler tirer en sens contraire. Des personnes qui vivent librement peuvent vous attirer, et vous sentez alors le poids de vos propres compromis ; ou bien, dans une relation, vous rangez votre autonomie, jusqu’à ce qu’elle revienne d’un seul coup. La polarité n’est pas une contradiction, pourtant. Avec le temps, cette opposition apprend souvent un équilibre particulier : une intimité qui ne vous demande pas de rapetisser, et une liberté qui n’a besoin de repousser personne.
 
@@ -44,7 +44,7 @@ Deux signes opposés associent des éléments complémentaires dans un même mod
 
 Environ 1 personne sur 31 naît avec Vénus à moins de 6° d’une opposition à Lilith moyenne, à peu près la moitié de la part du carré ou du trigone. Lilith faisait partie des trois placements qui ont tenu le plus souvent dans mon carnet : c’est pourquoi je donne du temps à cette opposition, et pourquoi je veille à ne jamais la présenter comme un choix entre l’amour et la liberté ([les trois qui ont tenu : Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/#lilith)).
 
-Les autres angles de la paire :
+Du face-à-face au côte-à-côte, les autres aspects de la paire :
 
 - **[Vénus conjonction Lilith](/astrology/venus-conjunct-lilith/) :** côte à côte au lieu de face à face ; personne d’autre n’est nécessaire pour vous montrer votre propre goût.
 - **[Vénus sextile Lilith](/astrology/venus-sextile-lilith/) :** un lien léger et amical ; la part indomptée se joint à vous quand vous l’invitez.

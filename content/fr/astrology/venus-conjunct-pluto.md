@@ -21,7 +21,7 @@ faq:
   - q: "Que veut dire Vénus conjonction Pluton dans un thème natal ?"
     a: "Vénus et Pluton à quelques degrés d’écart à votre naissance. Ce que vous aimez et l’élan de transformer agissent comme un seul : l’attirance va loin, et ce que vous aimez tend à vous changer. Le signe de Pluton appartient à une génération ; la rencontre avec Vénus, et sa maison, la rendent vôtre. J’y lis de la profondeur, pas du contrôle."
   - q: "Vénus conjonction Pluton, est-ce un aspect obsessionnel ?"
-    a: "Pas en soi. Pluton décrit la profondeur et le renouveau, pas la compulsion, et le pouvoir n’est pas la domination. Cette conjonction donne une grande importance à ce que vous aimez, ce qui peut parfois tout envahir. Bien vécue, elle donne une capacité de liens honnêtes et durables, qui traversent le changement et y survivent."
+    a: "Pas en soi. Pluton décrit la profondeur et le renouveau, pas la compulsion, et un pouvoir partagé n’est pas un pouvoir sur quelqu’un. Cette conjonction donne une grande importance à ce que vous aimez, ce qui peut parfois tout envahir. Bien vécue, elle donne une capacité de liens honnêtes et durables, qui traversent le changement et y survivent."
   - q: "Vénus conjonction Pluton, est-ce un aspect de génération ?"
     a: "Non. Le signe de Pluton est partagé par toutes les personnes nées sur douze à trente et un ans, mais Vénus traverse la conjonction en une semaine ou deux chaque année : la rencontre elle-même est personnelle. Ce qui relève de la génération, c’est le signe ; la maison où elle a lieu, qui demande l’heure de naissance, la rend vôtre."
   - q: "Quelle différence entre Vénus conjonction Pluton et Vénus opposition Pluton ?"
@@ -35,7 +35,7 @@ Vénus conjonction Pluton place ce que vous aimez dans les mêmes quelques degr�
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Vénus](/astrology/venus/) est la part du thème qui évalue : l’attirance, les préférences, le sens de ce qui vaut la peine, et l’équité d’un échange. [Pluton](/astrology/pluto/) est la part qui transforme : elle retire ce qui est devenu obsolète, régénère ce qui reste et le rend plus fort. Dans une [conjonction](/astrology/conjunction/), ces deux fonctions agissent comme une seule unité sans que l’une se dissolve dans l’autre : ce que vous en venez à aimer, vous voulez aussi le voir se renouveler.
+[Vénus](/astrology/venus/) est la part du thème qui évalue : l’attirance, les préférences, le sens de ce qui vaut la peine, et l’équité d’un échange. [Pluton](/astrology/pluto/) est la part qui transforme : celle qui retire ce qui est devenu obsolète, régénère ce qui reste et le rend plus fort. Dans une [conjonction](/astrology/conjunction/), ces deux fonctions agissent comme une seule unité sans que l’une se dissolve dans l’autre : ce que vous en venez à aimer, vous voulez aussi le voir se renouveler.
 
 Concrètement, vous n’aimez pas à moitié. Une amitié, une musique, un lieu ou une personne peuvent devenir une part de vous, et quand quelque chose cesse d’être vrai pour vous, vous pouvez le laisser partir aussi entièrement que vous l’aviez accueilli. Vu de l’extérieur, cela ressemble à de l’intensité, et c’en est. Mais transformer n’est pas détruire, et le pouvoir n’est pas la domination : la force de cette conjonction, c’est que ce que vous aimez peut vous changer, pas que vous deviez le retenir. Bien vécue, elle donne des liens capables de traverser le changement et d’en sortir renouvelés, et un goût que l’expérience refait plus que la mode.
 
@@ -60,4 +60,4 @@ Entre deux thèmes, [Vénus conjonction Pluton en synastrie](/astrology/venus-co
 
 La version courte, c’est le passage annuel de Vénus sur Pluton dans votre thème : un jour ou deux où les sentiments vont plus loin que l’occasion.
 
-Une météo, pas une prédiction : la saison de Pluton montre jusqu’où va le temps qu’il fait, jamais ce qu’elle apportera.
+Une météo, pas une prédiction : la saison de Pluton montre jusqu’où va le temps qu’il fait, jamais ce que cette saison apportera.

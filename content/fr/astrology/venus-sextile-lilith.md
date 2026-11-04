@@ -44,7 +44,7 @@ Le sextile associe le plus souvent un signe de feu à un signe d’air, ou la te
 
 Environ 1 personne sur 15 naît avec Vénus à moins de 6° d’un sextile à Lilith moyenne, à peu près autant que pour le carré ou le trigone. Lilith faisait partie des trois placements qui ont tenu bien plus souvent que les autres dans mon carnet : quand ce sextile apparaît, je demande donc où, dans votre vie, vous laissez sortir cette veine, et où vous la retenez ([la méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)).
 
-Les autres angles de la paire :
+Le goût et l’autonomie sous les autres angles de la paire :
 
 - **[Vénus conjonction Lilith](/astrology/venus-conjunct-lilith/) :** le goût et la part indomptée en un seul point ; ce que vous aimez ne se négocie pas.
 - **[Vénus carré Lilith](/astrology/venus-square-lilith/) :** plaire et refuser sous un angle ; une authenticité apprise de la manière difficile, et utile.

@@ -43,9 +43,9 @@ Les nœuds reculent, environ 18 mois par signe : le signe du Nœud Nord est par
 
 Environ 1 personne sur 29 naît avec Vénus à moins de 6° du Nœud Nord, compté avec le nœud vrai ; le nœud moyen n’en est jamais à plus d’un degré ou deux, et je regarde les deux.
 
-Les autres angles de la paire :
+Vénus peut se trouver n’importe où autour de l’axe des nœuds ; les autres aspects la placent ainsi :
 
-- **[Vénus sextile Nœud Nord](/astrology/venus-sextile-north-node/) :** Vénus à un pas amical du bout qui grandit, et en trigone facile avec le bout familier.
+- **[Vénus sextile Nœud Nord](/astrology/venus-sextile-north-node/) :** ce que vous aimez comme un pont entre l’ancien terrain et le nouveau.
 - **[Vénus carré Nœud Nord](/astrology/venus-square-north-node/) :** Vénus à angle droit des deux bouts, qui demande à chacun de faire de la place à ce que vous aimez.
 - **[Vénus trigone Nœud Nord](/astrology/venus-trine-north-node/) :** Vénus au même pas que la direction de croissance, et en sextile avec votre point de départ.
 - **[Vénus opposition Nœud Nord](/astrology/venus-opposite-north-node/) :** Vénus sur le bout familier, une façon d’aimer bien rodée sur laquelle la croissance s’appuie.
@@ -54,7 +54,7 @@ Entre deux thèmes, [Vénus conjonction Nœud Nord en synastrie](/astrology/venu
 
 ## En transit {#en-transit}
 
-[Nœud Nord en transit conjonction Vénus du thème natal](/astrology/transiting-north-node-conjunct-natal-venus/) revient une fois par tour de 18,6 ans des nœuds et dure un mois ou deux, le nœud vrai oscillant d’avant en arrière en chemin. Dans l’année qui l’entoure, les éclipses tombent dans la portion du zodiaque proche de votre Vénus, et à l’opposé, ce qui explique que les astrologues surveillent ce transit : une saison où ce que vous aimez et votre façon d’entrer en relation passent en revue. Si la conjonction est dans votre thème, vous la retrouvez à chaque [retour nodal](/astrology/nodal-return/), vers 18 ans et demi, 37 et 56 ans.
+[Nœud Nord en transit conjonction Vénus du thème natal](/astrology/transiting-north-node-conjunct-natal-venus/) arrive une fois tous les 18,6 ans, quand les nœuds achèvent leur tour à reculons, et dure un mois ou deux, le nœud vrai oscillant d’avant en arrière en chemin. Dans l’année qui l’entoure, les éclipses tombent dans la portion du zodiaque proche de votre Vénus, et à l’opposé, ce qui explique que les astrologues surveillent ce transit : une saison où ce que vous aimez et votre façon d’entrer en relation passent en revue. Si la conjonction est dans votre thème, vous la retrouvez à chaque [retour nodal](/astrology/nodal-return/), vers 18 ans et demi, 37 et 56 ans.
 
 Vénus elle-même croise votre Nœud Nord natal environ une fois par an : un jour ou deux pour remarquer ce que vous aimeriez exercer.
 

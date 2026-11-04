@@ -43,12 +43,12 @@ Le carré relie en général des signes du même mode. En signes fixes, il peut 
 
 Environ 1 personne sur 15 naît avec Vénus à moins de 6° d’un carré à Lilith moyenne. Je ne lis pas Lilith comme quelque chose à réparer, et ce carré ne fait pas exception : ce qui est en tension ici mérite d’être gardé, pas guéri ([les trois qui ont tenu : Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/#lilith)).
 
-Les autres angles de la paire :
+Les quatre autres aspects adoucissent, fondent ou reflètent la même tension :
 
 - **[Vénus conjonction Lilith](/astrology/venus-conjunct-lilith/) :** les deux en un seul point ; votre goût est votre autonomie, sans rien entre les deux.
 - **[Vénus sextile Lilith](/astrology/venus-sextile-lilith/) :** une ouverture facile vers la même authenticité, utilisée quand l’envie vous en prend.
 - **[Vénus trigone Lilith](/astrology/venus-trine-lilith/) :** le goût et l’autonomie coulent dans un même élément, et tirent rarement en sens contraire.
-- **[Vénus opposition Lilith](/astrology/venus-opposite-lilith/) :** une polarité ; la proximité à un bout, l’autonomie à l’autre, et un équilibre appris à deux.
+- **[Vénus opposition Lilith](/astrology/venus-opposite-lilith/) :** les deux mêmes face à face, si bien que la proximité et l’autonomie se relaient.
 
 Entre deux thèmes, [Vénus carré Lilith en synastrie](/astrology/venus-square-lilith-synastry/) peut être électrique et piquant : le désir d’harmonie de l’une des deux personnes rencontre le refus de l’autre de se laisser lisser. Cela se passe au mieux quand chacune peut dire simplement ce qu’elle veut.
 

@@ -34,7 +34,7 @@ Venus trine Neptune is one of the softest links a chart can hold: what you find 
 
 ## What it means {#what-it-means}
 
-[Venus](/astrology/venus/) is the part of a chart that weighs and chooses: what draws you, what you prefer, what you find worth keeping, and how you keep an exchange fair. [Neptune](/astrology/neptune/) is the part that imagines and widens: compassion, inspiration, a feeling for what can't quite be said, and the softening of boundaries that don't need to be there. A [trine](/astrology/trine/) relates them through flow: each reinforces the other, and neither takes the other's place.
+[Venus](/astrology/venus/) is the part of a chart that weighs and chooses: what draws you, what you prefer, what you find worth keeping, and how you keep an exchange fair. [Neptune](/astrology/neptune/) is the part that imagines and widens: compassion, inspiration, a feeling for what can't quite be said, and the softening of boundaries that don't need to be there. Linked by a [trine](/astrology/trine/), they share one current and seldom get in each other's way.
 
 In plain words, your taste has room for imagination in it, and your imagination knows what it likes. A tune, a colour, a stretch of coast or a face can open onto something larger for you, and that larger feeling tends to make you kinder rather than vaguer. Forgiveness comes fairly easily. Because the two functions keep their shape in a trine, you can idealise a little and still see what's in front of you.
 
@@ -57,7 +57,7 @@ Between two charts, [Venus trine Neptune in synastry](/astrology/venus-trine-nep
 
 ## In transits {#in-transits}
 
-[Transiting Neptune trine natal Venus](/astrology/transiting-neptune-trine-natal-venus/) is a long visit that rarely announces itself. Neptune turns retrograde for about five months each year, so once within a degree of the trine it tends to stay around two years, crossing the exact point more than once. Whether it comes at all depends on how far your Venus sits from Neptune, since a lifetime covers only part of Neptune's 165-year round; born with the trine, you had it from the start. It can be a season in which beauty, compassion and art come closer than usual.
+[Transiting Neptune trine natal Venus](/astrology/transiting-neptune-trine-natal-venus/) arrives quietly and stays a long time. Neptune turns retrograde for about five months each year, so once within a degree of the trine it tends to stay around two years, crossing the exact point more than once. Whether it comes at all depends on how far your Venus sits from Neptune, since a lifetime covers only part of Neptune's 165-year round; born with the trine, you had it from the start. It can be a season in which beauty, compassion and art come closer than usual.
 
 Venus repeats the angle on a small scale about twice a year: a day or two of softer focus that suits music or a kind gesture.
 

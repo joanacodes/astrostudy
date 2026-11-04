@@ -38,11 +38,11 @@ In plain words, you tend to know how to relate around a difficulty, your own or 
 
 ## In a birth chart {#in-a-birth-chart}
 
-Here the two signs usually sit two apart, in elements that complement each other. With Chiron in Aries, a long stay of about eight years, Venus sextile it in Gemini or Aquarius lets candour and friendship carry what you've learned; with Chiron in Cancer, Venus in Virgo or Taurus gives the adapting a practical, caring shape. In the houses, Venus in the 9th sextile Chiron in the 11th might make you a natural mentor in groups, someone who teaches from what they've lived.
+Venus and Chiron usually sit two signs apart here, in elements that complement each other. With Chiron in Aries, a long stay of about eight years, Venus sextile it in Gemini or Aquarius lets candour and friendship carry what you've learned; with Chiron in Cancer, Venus in Virgo or Taurus gives the adapting a practical, caring shape. In the houses, Venus in the 9th sextile Chiron in the 11th might make you a natural mentor in groups, someone who teaches from what they've lived.
 
 About 1 person in 14 is born with Venus and Chiron within 6° of a sextile, the most frequent of the pair's five aspects in the count. Venus, by far the faster, forms it for a week or two at a time. Chiron held 75 to 90% of the time in my notebook, so I take what this sextile describes seriously, and check it against your life rather than assume it ([the invoice method, and what held overall](/blog/i-tested-my-birth-chart/)).
 
-The pair's other angles:
+The same sensitivity and the same taste, at other angles:
 
 - **[Venus conjunct Chiron](/astrology/venus-conjunct-chiron/):** worth and adaptation fused; relating itself is where you've learned the most.
 - **[Venus square Chiron](/astrology/venus-square-chiron/):** a tender spot crossing the wish for harmony; skill that comes through repeated adjustment.

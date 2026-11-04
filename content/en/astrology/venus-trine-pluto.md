@@ -43,7 +43,7 @@ A trine usually links signs of one element, and here Pluto's element belongs to 
 
 About 1 person in 15 is born with Venus and Pluto within 6° of a trine. Tight, it's a quality others count on in you; wide, it's a reserve you discover when something you love is tested. If Venus was retrograde at your birth, about six weeks in every eighteen months, the deepening tends to happen privately before anyone sees it ([natal retrograde planets](/blog/retrograde-planets/)).
 
-The pair's other angles:
+Venus and Pluto meet in four other ways, each harder or softer than this one:
 
 - **[Venus conjunct Pluto](/astrology/venus-conjunct-pluto/):** the two fused at one degree; valuing and renewal happen in the same breath.
 - **[Venus sextile Pluto](/astrology/venus-sextile-pluto/):** a lighter version of this ease, which waits for you to make the first move.

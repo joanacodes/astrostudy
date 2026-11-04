@@ -33,7 +33,7 @@ Venus opposite Neptune puts what you value and what you long for on opposite sid
 
 ## What it means {#what-it-means}
 
-[Venus](/astrology/venus/) is the part of a chart that evaluates: what you're drawn to, what you prefer, what feels worth keeping, and how you balance give and take. [Neptune](/astrology/neptune/) is the part that imagines and dissolves: compassion, inspiration, the sense of something larger, and the loosening of edges that needn't be there. An [opposition](/astrology/opposition/) relates them through polarity: each becomes clearer by contrast with the other, and the task is to integrate them, not to pick one.
+[Venus](/astrology/venus/) is the part of a chart that evaluates: what you're drawn to, what you prefer, what feels worth keeping, and how you balance give and take. [Neptune](/astrology/neptune/) is the part that dissolves and longs: it widens compassion, feeds imagination and loosens edges that needn't be there. An [opposition](/astrology/opposition/) relates them through polarity: each becomes clearer by contrast with the other, and the task is to integrate them, not to pick one.
 
 In plain words, one end of you weighs and chooses, and the other wants more than any choice can hold. You might love a real person and still feel the pull of who they might be. Oppositions are often lived through other people first: a partner may seem to carry the dream for you, or to need your compassion so much that your own preferences go quiet. Giving yourself to compassion is not the same as disappearing into it, and seeing someone at their best is not the same as being fooled. As awareness grows, the two ends inform each other: taste that keeps a touch of the boundless, and imagination that knows what it actually likes.
 

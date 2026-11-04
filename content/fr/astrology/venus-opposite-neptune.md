@@ -34,7 +34,7 @@ Vénus opposition Neptune place ce que vous aimez et ce à quoi vous aspirez de 
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Vénus](/astrology/venus/) est la part du thème qui évalue : ce qui vous attire, ce que vous préférez, ce qui vaut d’être gardé, et la façon dont vous équilibrez donner et recevoir. [Neptune](/astrology/neptune/) est la part qui imagine et qui dissout : la compassion, l’inspiration, le sentiment de quelque chose de plus grand, et l’effacement des bords qui n’ont pas lieu d’être. Une [opposition](/astrology/opposition/) relie ces deux fonctions par la polarité : chacune devient plus nette par contraste avec l’autre, et la tâche est de les intégrer, pas d’en choisir une.
+[Vénus](/astrology/venus/) est la part du thème qui évalue : ce qui vous attire, ce que vous préférez, ce qui vaut d’être gardé, et la façon dont vous équilibrez donner et recevoir. [Neptune](/astrology/neptune/) est la part qui dissout et qui aspire : celle qui élargit la compassion, nourrit l’imaginaire et assouplit les bords qui n’ont pas lieu d’être. Une [opposition](/astrology/opposition/) relie ces deux fonctions par la polarité : chacune devient plus nette par contraste avec l’autre, et la tâche est de les intégrer, pas d’en choisir une.
 
 Concrètement, un bout de vous pèse et choisit, et l’autre veut plus qu’aucun choix ne peut contenir. Vous pouvez aimer une personne bien réelle et sentir encore l’attrait de celle qu’elle pourrait devenir. Les oppositions se vivent souvent d’abord à travers les autres : quelqu’un que vous aimez semble porter le rêve à votre place, ou avoir tant besoin de votre compassion que vos propres préférences se taisent. Mais se donner à la compassion n’est pas disparaître en elle, et voir quelqu’un sous son meilleur jour n’est pas se laisser abuser. À mesure que la conscience grandit, les deux bouts s’éclairent l’un l’autre : un goût qui garde une part d’illimité, un imaginaire qui sait ce qu’il aime vraiment.
 
@@ -51,7 +51,7 @@ Les autres angles de la paire, vus d’ici :
 - **[Vénus carré Neptune](/astrology/venus-square-neptune/) :** l’idéal qui coupe la route de vos préférences, et une clarté gagnée en s’ajustant.
 - **[Vénus trigone Neptune](/astrology/venus-trine-neptune/) :** deux fonctions dans un même élément, généreuses l’une envers l’autre et faciles à tenir pour acquises.
 
-Entre deux thèmes, [Vénus opposition Neptune en synastrie](/astrology/venus-opposite-neptune-synastry/) ressemble souvent à une reconnaissance à distance : le goût de l’une des deux personnes fait face au rêve de l’autre. Chacune peut voir en l’autre ce à quoi elle aspire : je lis donc ce contact des deux côtés, et lentement.
+Entre deux thèmes, [Vénus opposition Neptune en synastrie](/astrology/venus-opposite-neptune-synastry/) tient souvent de la reconnaissance à distance : le goût de l’une des deux personnes fait face au rêve de l’autre. Chacune peut voir en l’autre ce à quoi elle aspire : je lis donc ce contact des deux côtés, et lentement.
 
 ## En transit {#en-transit}
 
