@@ -43,15 +43,15 @@ Mon [carnet de test](/blog/i-tested-my-birth-chart/) est plus modeste qu’une p
 
 En amour, le bout maison 3 peut garder la relation affairée et bavarde, pleine de nouvelles du jour mais légère en sens partagé. Le bout maison 9 veut une relation qui a des horizons : des voyages faits ensemble, des livres dont on débat, une idée commune de ce qui compte au-delà de la semaine.
 
-Quelqu’un venu d’un autre pays, d’une autre culture ou d’une autre façon de penser peut élargir votre monde, et vous le sien. Quelqu’un qui pose simplement de plus grandes questions que celles dont vous avez l’habitude aussi.
+Quelqu’un venu d’un autre pays, d’une autre culture ou d’une autre façon de penser peut élargir votre monde, et vous le sien. Quelqu’un qui pose simplement de plus grandes questions que celles dont vous avez l’habitude aussi. L’amour à distance appartient également à cette maison, et avec ce nœud, il peut être une véritable école plutôt qu’un pis-aller.
 
 ## Au travail {#au-travail}
 
-Au travail, vous êtes peut-être la personne fiable qui règle les problèmes du quotidien, celle qui connaît le bon contact à deux rues de là. Le Nœud Nord vise plus loin : l’université, les langues et la traduction, les voyages, le travail avec des gens d’autres pays, les rôles où vous accompagnez l’apprentissage de quelqu’un. Apprendre une langue pour votre métier, ou accepter le poste qui vous emmène ailleurs, peut être le point de départ de la croissance.
+Au travail, vous êtes peut-être la personne fiable qui règle les problèmes du quotidien, celle qui connaît le bon contact à deux rues de là. Le Nœud Nord vise plus loin : l’université, les langues et la traduction, les voyages, le travail avec des gens d’autres pays, les rôles où vous accompagnez l’apprentissage de quelqu’un. Apprendre une langue pour votre métier, ou accepter le poste qui vous emmène ailleurs, peut être le point de départ de la croissance. Si votre travail est resté des années dans une seule ville ou un seul domaine, un détachement, un colloque à l’étranger ou une formation dans une autre discipline sont un bon premier pas.
 
 ## Le plus difficile {#le-plus-difficile}
 
-Rester dans le local est le vieux confort. Sous tension, le réflexe de la maison 3 consiste à s’occuper de petites choses : les courses, les messages, l’information qui ne s’assemble jamais tout à fait en une vision à vous. Les horizons lointains peuvent sembler le privilège des autres.
+Rester dans le local est le vieux confort. Sous tension, le réflexe de la maison 3 consiste à s’occuper de petites choses : les courses, les messages, l’information qui ne s’assemble jamais tout à fait en une vision à vous. Les horizons lointains peuvent sembler le privilège des autres. Vous vous dites peut-être que les études et les voyages sont pour d’autres gens, qui ont plus de temps ou plus d’instruction ; c’est souvent la vieille habitude qui parle, pas les faits.
 
 Quand le bout maison 9 s’éveille, il peut idéaliser l’ailleurs : le pays parfait, le maître parfait, l’école parfaite. Les vrais horizons contiennent aussi des jours ordinaires, et la croissance survit à la déception.
 

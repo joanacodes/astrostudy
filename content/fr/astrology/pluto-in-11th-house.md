@@ -32,7 +32,7 @@ Peu d’amitiés, choisies avec soin et gardées pour la vie : c’est souvent 
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La [maison 11](/astrology/11th-house/) est la maison des amis et des alliés, des groupes, des réseaux et des communautés, et des espoirs et projets que vous formez pour plus tard. C’est une maison succédente, son signe naturel est le Verseau, et son nom traditionnel est le Génie favorable, Jupiter s’y réjouissant : une maison d’aide et de bonne compagnie. Avec [Pluton](/astrology/pluto/) ici, rien de tout cela n’est léger. Vous avez peut-être moins d’amitiés que d’autres personnes, mais les liens vont loin, et les personnes parmi lesquelles vous choisissez d’être peuvent vous transformer. Vos espoirs voient grand, eux aussi : un avenir que vous voulez aider à bâtir plutôt qu’attendre.
+La [maison 11](/astrology/11th-house/) est la maison des amis et des alliés, des groupes, des réseaux et des communautés, et des espoirs et projets que vous formez pour plus tard. C’est une maison succédente, son signe naturel est le Verseau, et son nom traditionnel est le Génie favorable, Jupiter s’y réjouissant : une maison d’aide et de bonne compagnie. Avec [Pluton](/astrology/pluto/) ici, rien de tout cela n’est léger. Votre cercle est peut-être plus petit que celui d’autres personnes, mais les liens vont loin, et les personnes parmi lesquelles vous choisissez d’être peuvent vous transformer. Et l’avenir compte : vous préférez aider à le bâtir plutôt que l’attendre.
 
 En face se trouve la maison 5, celle du plaisir personnel et de la création, et [Pluton en maison 5](/astrology/pluto-in-5th-house/) consacre cette même profondeur à l’amour et au jeu. En maison 11, elle va dans ce que vous partagez avec beaucoup d’autres.
 

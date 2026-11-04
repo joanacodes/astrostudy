@@ -31,7 +31,7 @@ Few friends, chosen carefully and kept for life: that is often the shape of Plut
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 11th house](/astrology/11th-house/) is the house of friends and allies, of groups, networks and communities, and of the hopes and plans you hold for later on. It is succedent, its natural sign is Aquarius, and its traditional name is the Good Spirit, with Jupiter rejoicing there: a house of help and good company. With [Pluto](/astrology/pluto/) here, none of that is casual. You may have fewer friends than some people, but the bonds go deep, and the people you choose to belong with can transform you. Your hopes tend to be large too: a future you want to help build rather than wait for.
+[The 11th house](/astrology/11th-house/) is the house of friends and allies, of groups, networks and communities, and of the hopes and plans you hold for later on. It is succedent, its natural sign is Aquarius, and its traditional name is the Good Spirit, with Jupiter rejoicing there: a house of help and good company. With [Pluto](/astrology/pluto/) here, none of that is casual. Your circle may be smaller than some people's, but the bonds go deep, and the people you choose to belong with can transform you. And the future matters: you would rather help build it than wait for it.
 
 Opposite lies the 5th house of personal pleasure and creation, and [Pluto in the 5th house](/astrology/pluto-in-5th-house/) spends this same depth on love and play. In the 11th, it goes into what you share with many.
 

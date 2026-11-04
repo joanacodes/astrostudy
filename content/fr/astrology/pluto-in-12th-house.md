@@ -36,7 +36,7 @@ La [maison 12](/astrology/12th-house/) est la maison de ce qui se passe en couli
 
 Avec [Pluton](/astrology/pluto/) ici, une grande part de votre transformation se fait à l’intérieur, sans être vue. Vous avez peut-être besoin de plus de solitude que la plupart des gens, vous traversez vos émotions en privé avant de les partager, et vous gardez une réserve de force que les autres ne découvrent que lorsqu’elle devient nécessaire. Ce qui est caché vous intéresse plus qu’il ne vous fait peur.
 
-En Placidus, le système de maisons que j’utilise, la maison 12 s’arrête à l’ascendant : si Pluton venait de se lever à votre naissance, Pluton est en maison 12, alors qu’une naissance quelques minutes plus tôt mettrait Pluton en maison 1. Seule une [heure de naissance](/blog/unknown-birth-time/) fiable permet de trancher. Avant elle vient [Pluton en maison 11](/astrology/pluto-in-11th-house/), parmi les amis et les groupes ; après elle, de l’autre côté de l’ascendant, [Pluton en maison 1](/astrology/pluto-in-1st-house/), au grand jour.
+En Placidus, le système de maisons que j’utilise, la maison 12 s’arrête à l’ascendant : si Pluton venait de se lever à votre naissance, Pluton est en maison 12, alors qu’une naissance quelques minutes plus tôt mettrait Pluton en maison 1. Seule une [heure de naissance](/blog/unknown-birth-time/) fiable permet de trancher. Avant la maison 12 vient [Pluton en maison 11](/astrology/pluto-in-11th-house/), parmi les amis et les groupes ; après, de l’autre côté de l’ascendant, [Pluton en maison 1](/astrology/pluto-in-1st-house/), au grand jour.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 

@@ -32,7 +32,7 @@ Pluto was last in Pisces from 1797 to 1823, before anyone knew of Pluto or of Ne
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Pluto](/astrology/pluto/) releases what has ended, and brings back what can be renewed. [Pisces](/astrology/pisces/), mutable water, is porous, imaginative and compassionate; whatever sits in it feels its way rather than drawing lines. Its depth flows into what has no edges: empathy, art, faith, the sense of belonging to something larger than oneself. The change astrologers read in this generation is one that dissolves old boundaries, between people, between beliefs, between what is private and what is shared, and that renews through compassion rather than force.
+[Pluto](/astrology/pluto/) releases what has ended, and brings back what can be renewed. [Pisces](/astrology/pisces/), mutable water, is porous, imaginative and compassionate; whatever sits in it feels its way rather than drawing lines. Here Pluto's depth flows into what has no edges: empathy, art, faith, the sense of belonging to something larger than oneself. The change astrologers read in this generation is one that dissolves old boundaries, between people, between beliefs, between what is private and what is shared, and that renews through compassion rather than force.
 
 Two rulers share Pisces, and I read both: [Neptune](/astrology/neptune/), the modern one, planet of imagination and transcendence, discovered in 1846, after Pluto's last stay here had ended; and [Jupiter](/astrology/jupiter/), the traditional one, planet of meaning and growth. Neptune's sign and house point to where boundaries blur in a life, Jupiter's to where faith and generosity take shape. Pluto's own dignity plays no part here; its one modern home is Scorpio, a fellow water sign.
 

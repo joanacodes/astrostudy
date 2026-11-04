@@ -42,15 +42,15 @@ My [testing notebook](/blog/i-tested-my-birth-chart/) is more modest than a phil
 
 In love, the 3rd-house end can keep a relationship busy and chatty, full of daily news but light on shared meaning. The 9th-house end wants a relationship with horizons: trips taken together, books argued over, a shared sense of what matters beyond the week.
 
-A partner from another country, culture or way of thinking may widen your world, and you theirs. So may a partner who simply asks bigger questions than you're used to.
+A partner from another country, culture or way of thinking may widen your world, and you theirs. So may a partner who simply asks bigger questions than you're used to. Love at a distance belongs to this house as well, and with this node it can be a real school rather than a second best.
 
 ## At work {#at-work}
 
-At work, you may be the dependable fixer of everyday problems, the one with the right contact two streets away. The North Node points further afield: universities, languages and translation, travel, work with people from other countries, roles where you guide someone else's learning. Learning a language for your job, or accepting the post that takes you somewhere new, can be where the growth starts.
+At work, you may be the dependable fixer of everyday problems, the one with the right contact two streets away. The North Node points further afield: universities, languages and translation, travel, work with people from other countries, roles where you guide someone else's learning. Learning a language for your job, or accepting the post that takes you somewhere new, can be where the growth starts. If your work has stayed in one town or one field for years, a secondment, a conference abroad or a course in another discipline is a good first step.
 
 ## The hard part {#the-hard-part}
 
-Staying local is the old comfort. Under strain, the 3rd-house reflex is to keep busy with small things: the errands, the messages, the information that never quite adds up to a view of your own. Far horizons can feel like someone else's privilege.
+Staying local is the old comfort. Under strain, the 3rd-house reflex is to keep busy with small things: the errands, the messages, the information that never quite adds up to a view of your own. Far horizons can feel like someone else's privilege. You may tell yourself that study and travel are for other kinds of people, with more time or more schooling; often that's the old habit talking, not the facts.
 
 When the 9th-house end wakes, it can idealise the faraway: the perfect country, the perfect teacher, the perfect school. Real horizons come with ordinary days in them, and the growth survives the disappointment.
 

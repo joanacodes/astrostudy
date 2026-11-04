@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/pluto", "/astrology/aries", "/astrology/mars", "/astrology/personal-social-and-generational-planets", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Pluton en Bélier ?"
-    a: "Que la planète de la transformation se trouvait dans le signe des premiers pas. Les astrologues y lisent un changement profond par le recommencement : déblayer le terrain, agir avec courage, partir en premier. C’est un placement de génération, partagé par toutes les personnes nées sur une trentaine d’années ; la maison où Pluton se trouve le rend personnel."
+    a: "Que la planète de la transformation se trouvait dans le signe des premiers pas. Les astrologues y lisent un changement profond par le recommencement : déblayer le terrain, agir avec courage, partir en premier. C’est un placement de génération, partagé par toutes les personnes nées sur une trentaine d’années ; la maison où Pluton se trouve rend ce placement personnel."
   - q: "En quelles années trouve-t-on Pluton en Bélier ?"
     a: "D’avril 1822 à février 1853, et Pluton y revient de juin 2066 à mars 2097. À chaque bout, Pluton a passé et repassé la frontière : d’avril 1822 à mars 1823, le séjour se partage avec les Poissons, et de mai 1851 à février 1853 avec le Taureau. Aucune personne née entre 1930 et 2009 n’a Pluton en Bélier."
   - q: "Pluton en Bélier, est-ce un placement fort ?"

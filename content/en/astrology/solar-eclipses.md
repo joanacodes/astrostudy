@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "moon"
 weight: 32
 glyph: "●"
-definition: "A solar eclipse is a new moon that falls close enough to one of the Moon’s nodes for the Moon to pass in front of the Sun, wholly, in a ring, or in part. In astrology it is a new moon with added weight: it counts within about three degrees of a natal planet or angle, read through that point and its house, and never as an omen."
+definition: "A solar eclipse is a new moon close enough to one of the Moon’s nodes for the Moon to pass in front of the Sun: wholly, in a ring, or in part. In astrology it counts within about three degrees of a natal planet or angle, read through that point and its house, and never as an omen."
 facts:
   - { k: "What it is", v: "The Moon passing in front of the Sun, at a new moon" }
   - { k: "When", v: "When the new moon falls within about 17° of a node" }
@@ -24,7 +24,7 @@ faq:
   - q: "What does a solar eclipse mean in astrology?"
     a: "It is a new moon close to the Moon’s nodes, and astrologers give it more weight than an ordinary one. I read it only where it touches a chart: within about three degrees of a natal planet or angle, or opposite one, through that point and its house. It marks emphasis, never an omen or a fixed event."
   - q: "How often do solar eclipses happen?"
-    a: "Every year has at least two and at most four or five; between 2000 and 2040 the count is 92, each year holding two to four. What is rare is a total eclipse over your own town, because the Moon’s full shadow covers only a narrow strip of the Earth."
+    a: "Every year has at least two; between 2000 and 2040 each year holds two to four, 92 in all. What is rare is a total eclipse over your own town, because the Moon’s full shadow covers only a narrow strip of the Earth."
   - q: "Is a total solar eclipse stronger in a chart than a partial one?"
     a: "Not in the rule I follow. A total, annular or partial solar eclipse counts the same way, by its degree, within about three degrees of a natal point. The only kind the rule sets apart as lighter is the penumbral lunar eclipse, when the Moon only grazes the Earth’s outer shadow."
 sources:
@@ -44,20 +44,20 @@ At every [new moon](/astrology/new-moon/), the Moon is on the Sun's side of the 
 
 From now to 2030, these are the solar eclipses, in Universal Time, with the sign and degree of the Sun and Moon:
 
-- 2027: 6 February, annular, 17°37′ Aquarius · 2 August, total, 9°55′ Leo
-- 2028: 26 January, annular, 6°10′ Aquarius · 22 July, total, 29°50′ Cancer
-- 2029: 14 January, partial, 24°49′ Capricorn · 12 June, partial, 21°29′ Gemini · 11 July, partial, 19°37′ Cancer · 5 December, partial, 13°45′ Sagittarius
-- 2030: 1 June, annular, 10°50′ Gemini · 25 November, total, 3°02′ Sagittarius
+- **2027:** 6 February, annular, 17°37′ Aquarius · 2 August, total, 9°55′ Leo
+- **2028:** 26 January, annular, 6°10′ Aquarius · 22 July, total, 29°50′ Cancer
+- **2029:** 14 January, partial, 24°49′ Capricorn · 12 June, partial, 21°29′ Gemini · 11 July, partial, 19°37′ Cancer · 5 December, partial, 13°45′ Sagittarius
+- **2030:** 1 June, annular, 10°50′ Gemini · 25 November, total, 3°02′ Sagittarius
 
 The two of 2026, on 17 February, annular at 28°50′ Aquarius, and on 12 August, total at 20°02′ Leo, are behind us. 2029 stands out: four solar eclipses, every one of them partial.
 
 ## How it works {#how-it-works}
 
-The Moon's orbit is tilted about 5° to the Sun's path, the ecliptic. The two places where they cross are the Moon's nodes, the [North Node](/astrology/north-node/) and the South Node. Fred Espenak's eclipse pages for NASA put the condition plainly: if a new moon takes place within about 17° of a node, a solar eclipse is visible from somewhere on the Earth. The Sun reaches each node about once a year, so the eclipses come in pairs of windows, about six months apart ([eclipse seasons](/astrology/eclipse-seasons/)).
+The Moon's orbit is tilted about 5° to the Sun's path, the ecliptic. The two places where they cross are the Moon's nodes, the [North Node](/astrology/north-node/) and the [South Node](/astrology/south-node/). Fred Espenak's eclipse pages for NASA put the condition plainly: if a new moon takes place within about 17° of a node, a solar eclipse is visible from somewhere on the Earth. The Sun reaches each node about once a year, so eclipses come in two windows a year, about six months apart ([eclipse seasons](/astrology/eclipse-seasons/)).
 
 Whether the eclipse is total, annular or partial depends on how centrally the Moon crosses the Sun and on how far away it is. The Moon and the Sun look almost the same size in our sky, and the Moon's distance varies through the month, so the same alignment can give a total eclipse when the Moon is close and an annular one when it is far.
 
-In the file of eclipses this site keeps, from 2000 to 2040, there are 92 solar eclipses, 57 of them total or annular somewhere along their path and 35 partial everywhere. Every year has between two and four. Seen from one town, a total eclipse is rare; seen from the whole Earth, it is a regular event.
+In the file of eclipses this site keeps, from 2000 to 2040, there are 92 solar eclipses, 57 of them total or annular somewhere along their path and 35 partial everywhere. Every year has between two and four.
 
 ## In a reading {#in-a-reading}
 
@@ -65,7 +65,7 @@ A solar eclipse is a new moon, so it starts from the new moon's meaning: the Sun
 
 When it does, I read it through that natal point and the house it sits in, as a stretch of emphasis on what that point describes. Never as an omen, never as a catastrophe, and never on its own: the natal chart comes first, and an eclipse that touches nothing in yours is something to watch in the sky, not in your life. The page on [eclipses on your natal planets](/astrology/eclipses-on-your-natal-planets/) goes into those contacts, and the [lunar eclipses](/astrology/lunar-eclipses/) page covers the full moon side of the story.
 
-The house needs your [birth time](/blog/unknown-birth-time/). The degree doesn't depend on where you live or whether the shadow crosses your country: the rule is about degrees in the chart, not about the map.
+The house needs your [birth time](/blog/unknown-birth-time/). Where the shadow falls on the map doesn't change the degree, and the degree is what the rule is about.
 
 ## Common myths {#myths}
 

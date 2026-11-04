@@ -27,11 +27,11 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
   - { title: "Dorotheus of Sidon, Carmen Astrologicum", note: "the houses read in a nativity" }
 ---
-Intimacy, trust, money held in common, secrets and debts: the 8th house holds what two people merge, and Pluto is at home among them. Its natural sign is Scorpio, Pluto's own, and I read the placement as a life in which closeness and crisis both run deep, and in which you come back from hard times changed.
+Intimacy, trust, money held in common, secrets and debts: the 8th house holds what two people merge, and Pluto knows this ground well. I read the placement as a life in which closeness and crisis both run deep, and in which you come back from hard times changed.
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 8th house](/astrology/8th-house/) holds what is shared and what is owed: intimacy, sexual and emotional; trust; joint money, loans, debts and inheritances; the crises that test a bond, and the psychological depths most people prefer to avoid. It is succedent, and its natural sign is Scorpio, Pluto's own sign in modern tropical astrology, so this house and this planet speak the same language. [Pluto](/astrology/pluto/) is at home among these themes. Very little stays on the surface, and you tend to be changed by what you go through with other people.
+[The 8th house](/astrology/8th-house/) holds what is shared and what is owed: intimacy, sexual and emotional; trust; joint money, loans, debts and inheritances; the crises that test a bond, and the psychological depths most people prefer to avoid. It is succedent, and its natural sign is Scorpio, Pluto's own sign in modern tropical astrology, so this house and this planet speak the same language. [Pluto](/astrology/pluto/) fits these themes closely. Very little stays on the surface, and you tend to be changed by what you go through with other people.
 
 Tradition gave the 8th house death. I don't read death in anyone's chart, and no placement predicts one ([can astrology predict death?](/astrology/can-astrology-predict-death/)). Nor can a chart say what you will inherit, owe or receive from anyone ([can astrology pick investments?](/astrology/can-astrology-pick-investments/)). In an adult's life I read an 8th-house Pluto as the way you handle closeness, shared resources and crisis: deeply, privately, and with a real capacity for renewal.
 

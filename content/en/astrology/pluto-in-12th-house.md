@@ -35,7 +35,7 @@ Out of sight, in the part of a chart that tradition kept for what is hidden, Plu
 
 With [Pluto](/astrology/pluto/) here, much of your transformation happens inside, unseen. You may need more solitude than most people, work through feelings privately before sharing them, and keep a reserve of strength that others only discover when it is needed. What is hidden tends to interest you rather than frighten you.
 
-In Placidus, the house system I use, the 12th ends at the Ascendant: a Pluto that had just risen when you were born is in the 12th, and a birth a few minutes earlier would put it in the 1st. Only a reliable [birth time](/blog/unknown-birth-time/) can tell. Before it comes [Pluto in the 11th house](/astrology/pluto-in-11th-house/), among friends and groups; after it, across the Ascendant, [Pluto in the 1st house](/astrology/pluto-in-1st-house/), in plain sight.
+In Placidus, the house system I use, the 12th ends at the Ascendant: a Pluto that had just risen when you were born is in the 12th, and a birth a few minutes earlier would put it in the 1st. Only a reliable [birth time](/blog/unknown-birth-time/) can tell. Before the 12th comes [Pluto in the 11th house](/astrology/pluto-in-11th-house/), among friends and groups; after it, across the Ascendant, [Pluto in the 1st house](/astrology/pluto-in-1st-house/), in plain sight.
 
 ## In close relationships {#in-close-relationships}
 
