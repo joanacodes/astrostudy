@@ -52,7 +52,7 @@ How much it means for you depends on contact. In the rule I follow for lunations
 
 ## House by house {#house-by-house}
 
-With Aries on the cusp of a house, the new moon in Aries usually falls in that house; the exact degree decides when Aries straddles two. Finding them takes [your birth time](/blog/unknown-birth-time/), in Placidus, the house system I use.
+Where Aries sits in your chart depends on [your birth time](/blog/unknown-birth-time/); I draw the houses in Placidus. With Aries on a house cusp, its new moon usually falls in that house, but the degree has the last word: with the Ascendant at 20° Aries, for instance, the 2027 new moon at 16°57′ rises just ahead of it, in the 12th house.
 
 1. **[1st house](/astrology/aries-rising/):** Aries rising: the new moon falls on you, on how you meet people and set off; a fresh start you make in person.
 2. **[2nd house](/astrology/aries-on-2nd-house-cusp/):** what you earn and own; the urge to start a plan for money or worth on your own terms.

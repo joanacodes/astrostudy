@@ -33,11 +33,11 @@ sources:
   - { title: "Jonathan Carver, Travels Through the Interior Parts of North-America, in the Years 1766, 1767, and 1768 (Londres, 1778)", note: "la Lune de l’esturgeon, sixième de ses douze lunes" }
   - { title: "Les dates de The Astro Study d’après la position des planètes", note: "les pleines lunes et les éclipses de 2026 à 2030, en temps universel" }
 ---
-La Lune de l’esturgeon est la pleine lune d’août, nommée dans les almanachs d’après un poisson des Grands Lacs. Le nom relève du folklore, pas de l’astrologie, et pour une astrologue c’est une pleine lune en Verseau ou en Poissons, le Soleil en face, en Lion ou en Vierge.
+La pleine lune d’août doit son nom d’almanach à un poisson des Grands Lacs, l’esturgeon. C’est du folklore ; l’astrologie ne voit que la pleine lune elle-même, en Verseau ou en Poissons, le Soleil en face, en Lion ou en Vierge.
 
 ## Ce que c’est {#ce-que-c-est}
 
-Elle vient après la [Lune du cerf](/astrology/buck-moon/) de juillet et avant la [Lune des moissons](/astrology/harvest-moon/), et comme toute [pleine lune](/astrology/full-moon/), c’est la Lune exactement en face du Soleil. Ses prochaines dates, en temps universel (TU) :
+La [pleine lune](/astrology/full-moon/) d’août ferme l’été des almanachs : la [Lune du cerf](/astrology/buck-moon/) la précède, la [Lune des moissons](/astrology/harvest-moon/) la suit. Ses prochaines dates, en temps universel (TU) :
 
 - **2026 :** 28 août, 4 h 19 TU, à 4°54′ Poissons, une éclipse partielle de Lune
 - **2027 :** 17 août, 7 h 29 TU, à 24°12′ Verseau, une éclipse de Lune par la pénombre
@@ -53,13 +53,13 @@ Deux Lunes de l’esturgeon de suite sont éclipsées. Celle de 2026, désormais
 
 L’esturgeon nage dans deux vieilles listes. Les *Travels Through the Interior Parts of North-America* (1778) de Jonathan Carver comptent douze lunes à partir de mars, et la sixième est la Lune de l’esturgeon. Comme ses autres noms, elle est attribuée aux « Indiens », sans qu’un peuple soit nommé.
 
-Le *Maine Farmer’s Almanac* l’a reprise dans les années 1930, quand il a commencé à nommer la pleine lune de chaque mois. Le guide des pleines lunes de la NASA donne la raison de l’almanach : les grands esturgeons des Grands Lacs et des autres grands lacs se pêchaient le plus facilement à cette époque de l’année. Le guide cite aussi un autre nom d’août, la Lune du maïs vert.
+Le *Maine Farmer’s Almanac* l’a reprise dans les années 1930, quand il a commencé à nommer la pleine lune de chaque mois. La raison de l’almanach, telle que la donne le guide des pleines lunes de la NASA : les grands esturgeons des Grands Lacs et des autres grands lacs se pêchaient le plus facilement à cette époque de l’année. Le guide cite aussi un autre nom d’août, la Lune du maïs vert.
 
 Seul le mois décide : la pleine lune qui tombe en août est la Lune de l’esturgeon. Ce n’est jamais la Lune des moissons, qui se règle sur l’équinoxe de la fin septembre, pas sur le mois.
 
 ## Dans une lecture {#dans-une-lecture}
 
-La Lune de l’esturgeon est un nom populaire et d’almanach, pas de l’astrologie ; le poisson reste dans son lac. Je lis la pleine lune qui se trouve dessous, et en août, c’est la [pleine lune en Verseau](/astrology/full-moon-in-aquarius/), face au Soleil en Lion, ou la [pleine lune en Poissons](/astrology/full-moon-in-pisces/), face au Soleil en Vierge.
+Le poisson reste dans son lac : la Lune de l’esturgeon est un nom populaire venu des almanachs, et l’astrologie ne l’emploie pas. Je lis la pleine lune qui se trouve dessous, et en août, c’est la [pleine lune en Verseau](/astrology/full-moon-in-aquarius/), face au Soleil en Lion, ou la [pleine lune en Poissons](/astrology/full-moon-in-pisces/), face au Soleil en Vierge.
 
 Un exemple montre combien ma règle est étroite. Prenons un thème avec Vénus à 24° du Lion. La Lune de l’esturgeon de 2027 place la Lune à 24°12′ du Verseau et le Soleil à 24°12′ du Lion : le bout solaire de l’axe tombe pile sur cette Vénus. Comme c’est une éclipse, elle compte à environ trois degrés, même si, par la pénombre, elle pèse moins qu’une éclipse partielle ou totale, et je la lirais à travers cette Vénus, son signe et sa maison, comme un poids mis sur ce que Vénus décrit à cet endroit. Une pleine lune ordinaire devrait tomber à moins d’un degré, et même alors elle ne ferait que mettre en lumière ce qu’un transit ou une progression travaille déjà. Placez cette Vénus à 10° du Lion, et la même Lune de l’esturgeon passe à côté : pour ce thème, c’est une belle nuit d’août.
 
@@ -70,4 +70,3 @@ C’est aussi pour cela qu’il me faut votre [heure de naissance](/blog/unknown
 - **« C’est une lune des Poissons, puisqu’elle porte le nom d’un poisson. »** Pure coïncidence : elle ne tombe en Poissons que quand elle arrive tard en août, comme en 2026 et en 2029. Sinon, elle est en Verseau.
 - **« La Lune de l’esturgeon est toujours éclipsée. »** Seulement en 2026 et en 2027 dans ces années-ci, pendant que les nœuds de la Lune traversent ces signes.
 - **« Une pleine lune d’août peut être la Lune des moissons. »** La Lune des moissons est la pleine lune la plus proche de l’équinoxe de septembre, et août arrive toujours trop tôt.
-- **« Le nom dit comment passer la nuit. »** Son signe et sa maison dans votre thème en disent bien plus, et ils changent chaque année.

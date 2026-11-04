@@ -71,4 +71,3 @@ La maison où elle tombe dépend de votre heure de naissance, et c’est [ma fa�
 - **« La Lune des moissons est la pleine lune de septembre. »** C’est la pleine lune la plus proche de l’équinoxe, et certaines années elle tombe en octobre, comme en 2028.
 - **« La Lune des moissons est plus grosse et plus orange que les autres. »** Elle se lève dans le crépuscule, basse et chaude de teinte comme toute pleine lune près de l’horizon, mais elle n’est pas plus grande.
 - **« C’est un nom amérindien. »** C’est un nom anglais, attesté depuis 1706, plus ancien à l’écrit que la plupart des noms de lunes des almanachs.
-- **« La Lune des moissons a un sens astrologique à elle. »** Elle se lit comme toute pleine lune, d’après son signe et sa maison.

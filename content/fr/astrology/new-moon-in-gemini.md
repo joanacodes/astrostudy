@@ -39,7 +39,7 @@ La nouvelle lune en Gémeaux est la nouvelle lune de l’année en air mutable, 
 
 À une [nouvelle lune](/astrology/new-moon/), le but du Soleil et les besoins de la Lune partent ensemble d’un même signe. En [Gémeaux](/astrology/gemini/), ce signe est d’air et mutable : vif, sociable, intéressé par tout, plus heureux avec deux possibilités qu’avec une seule. Mercure le gouverne, la planète qui traite l’information et la fait circuler entre les gens : cette nouvelle lune tend à remuer des questions, des messages et des projets encore en discussion. Ni le Soleil ni la Lune n’ont de dignité traditionnelle en Gémeaux ; ils en prennent simplement la manière.
 
-Ses dates, en temps universel (TU) :
+Les dates, en temps universel (TU) :
 
 - **2026 :** 15 juin, 2 h 54 TU, à 24°03′ Gémeaux
 - **2027 :** 4 juin, 19 h 40 TU, à 13°58′ Gémeaux
@@ -53,7 +53,7 @@ Cela change leur portée. Une nouvelle lune en Gémeaux ordinaire ne compte, dan
 
 ## Maison par maison {#maison-par-maison}
 
-Avec les Gémeaux sur une cuspide, la nouvelle lune en Gémeaux tombe en général dans cette maison, sauf si les Gémeaux en chevauchent deux et que son degré la place dans l’autre. Les maisons viennent de [votre heure de naissance](/blog/unknown-birth-time/), en Placidus.
+Là où les Gémeaux ouvrent une maison, leur nouvelle lune y tombe en général, sauf s’ils en chevauchent deux et que le degré la place dans l’autre. Les années d’éclipse, en 2029 et 2030, la maison opposée, celle du Sagittaire, est touchée aussi. Tout cela repose sur [votre heure de naissance](/blog/unknown-birth-time/) et les maisons de Placidus.
 
 1. **[Maison I](/astrology/gemini-rising/) :** l’ascendant Gémeaux : une façon plus légère et plus curieuse d’aborder les gens ; une nouvelle manière de vous présenter.
 2. **[Maison II](/astrology/gemini-on-2nd-house-cusp/) :** les revenus et ce qui compte pour vous ; comparer, envisager de gagner sa vie de plus d’une façon.

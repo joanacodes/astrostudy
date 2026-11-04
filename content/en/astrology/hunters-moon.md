@@ -37,7 +37,7 @@ The Hunter's moon is defined by another full moon: it's the first one after the 
 
 ## What it is {#what-it-is}
 
-Start from the [Harvest moon](/astrology/harvest-moon/), the full moon nearest the September equinox. The next [full moon](/astrology/full-moon/), about 29½ days later, is the Hunter's moon. Since the Harvest moon falls between about 8 September and 8 October, the Hunter's moon falls between about 7 October and 7 November. Its dates, in Universal Time:
+Start from the [Harvest moon](/astrology/harvest-moon/), the full moon nearest the September equinox. The next [full moon](/astrology/full-moon/), about 29½ days later, is the Hunter's moon. Since the Harvest moon falls between about 8 September and 8 October, the Hunter's moon falls between about 7 October and 7 November. In Universal Time, with each one's sign:
 
 - **2026:** 26 October, 04:12 UT, at 2°46′ Taurus
 - **2027:** 15 October, 13:47 UT, at 21°59′ Aries
@@ -59,7 +59,7 @@ So the Hunter's moon follows the Harvest moon, not the calendar. A year in which
 
 ## In a reading {#in-a-reading}
 
-The Hunter's moon is a folk name, not astrology, and I don't read a hunt into it. What I read is the full moon itself, which by this rule is either the [full moon in Aries](/astrology/full-moon-in-aries/), with the Sun in Libra, or the [full moon in Taurus](/astrology/full-moon-in-taurus/), with the Sun in Scorpio. In the Taurus years, 2026 and 2028, the Moon is in the sign tradition gives as its exaltation, a sign where its need for steadiness and comfort is read as being at ease.
+I don't read a hunt into anyone's chart: Hunter's moon is an old country name, not an astrological one. What I read is the full moon itself, which by this rule is either the [full moon in Aries](/astrology/full-moon-in-aries/), with the Sun in Libra, or the [full moon in Taurus](/astrology/full-moon-in-taurus/), with the Sun in Scorpio. In the Taurus years, 2026 and 2028, the Moon is in the sign tradition gives as its exaltation, a sign where its need for steadiness and comfort is read as being at ease.
 
 Whatever the sign, a full moon only reaches your chart through contact: within one degree of a planet or angle, on the Moon's side of the axis or the Sun's. A Hunter's moon at 21°59′ Aries, as in 2027, would touch a planet near 22° Aries or 22° Libra. I read it as a moment that brings into focus what a transit or progression is already working on there, never as a forecast standing on its own.
 

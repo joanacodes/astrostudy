@@ -36,7 +36,7 @@ A lunar eclipse is the Earth's shadow falling on the Moon. It can only happen at
 
 ## What it is {#what-it-is}
 
-At every [full moon](/astrology/full-moon/), the Earth lies between the Sun and the Moon. Usually the Moon passes a little above or below the Earth's shadow and shines on. When it passes through it, that's a lunar eclipse. The shadow has a dark core, the umbra, and a pale fringe, the penumbra, which gives three kinds:
+At every [full moon](/astrology/full-moon/), the Earth lies between the Sun and the Moon. Most months it slides past the shadow's edge, above or below, and shines on. When it passes through it, that's a lunar eclipse. The shadow has a dark core, the umbra, and a pale fringe, the penumbra, which gives three kinds:
 
 - **Total:** the whole Moon passes into the umbra. It doesn't vanish: sunlight bent through the Earth's atmosphere still reaches it, and it turns copper or dark red, the colour behind the nickname blood moon.
 - **Partial:** only part of the Moon enters the umbra, and a dark bite seems to cross its face.
@@ -53,7 +53,7 @@ The two of 2026, total on 3 March at 12°51′ Virgo and partial on 28 August at
 
 ## How it works {#how-it-works}
 
-The Moon's orbit is tilted to the Sun's path, so the full Moon usually misses the Earth's shadow. It can only meet it near the nodes, where the two paths cross. Fred Espenak's eclipse pages for NASA give the condition: a full moon within about 17° of a node gives a lunar eclipse visible from part of the Earth, faint and penumbral at the edge of that range, deeper as the full moon falls closer to the node.
+Because the Moon's path is tilted to the Sun's, the full Moon and the Earth's shadow usually miss each other; they can only meet near the nodes, where the two paths cross. Espenak's NASA pages set the limit: a full moon within about 17° of a node gives a lunar eclipse visible from part of the Earth, faint and penumbral at the edge of that range, deeper as the full moon falls closer to the node.
 
 Lunar eclipses are no rarer than solar ones: the site's eclipse file holds 94 from 2000 to 2040, against 92 solar eclipses, with 38 total, 22 partial and 34 penumbral.
 
@@ -63,13 +63,13 @@ Each lunar eclipse comes about two weeks before or after a solar one, in the sam
 
 A lunar eclipse is a full moon, so it starts from the full moon's shape: the Moon in one sign, the Sun opposite, two ends of one line. In your chart, those two ends always fall in two opposite houses, and the eclipse reaches whatever it lands near at either end. The rule I follow gives it about three degrees: the eclipse of 31 December 2028, at 10°34′ Cancer, would touch a planet or angle near 10° Cancer or 10° Capricorn.
 
-When it does, I read it through that natal point and its house, as emphasis on what the point stands for, and never on its own. A penumbral eclipse, like the three of 2027, weighs less than a partial or total one. None of them is an omen, and none of them decides anything: the natal chart comes first, and the eclipse only underlines a part of it. The [eclipses on your natal planets](/astrology/eclipses-on-your-natal-planets/) page goes into those contacts.
+Where it lands on something, the reading goes through that natal point and its house: emphasis on what the point stands for, and never the eclipse on its own. A penumbral eclipse, like the three of 2027, weighs less than a partial or total one. None of them is an omen, and none of them decides anything: the natal chart comes first, and the eclipse only underlines a part of it. Those contacts have their own page: [eclipses on your natal planets](/astrology/eclipses-on-your-natal-planets/).
 
 Which houses an eclipse falls across depends on [your birth time](/blog/unknown-birth-time/); its degree is the same for everyone.
 
 ## Common myths {#myths}
 
-- **“A blood moon is a sign of disaster.”** The red is sunlight filtered through the Earth's atmosphere. I read an eclipse as emphasis on one part of a chart, never as a portent.
+- **“A blood moon is a sign of disaster.”** The red is sunlight filtered through the Earth's atmosphere. An eclipse underlines what it touches in a chart; it foretells nothing.
 - **“Lunar eclipses are rarer than solar ones.”** There are about as many; you see more of them because each is visible from the whole night side of the Earth.
 - **“Every lunar eclipse counts the same.”** A penumbral one, when the Moon only grazes the outer shadow, weighs less than a partial or total one.
 - **“An eclipse you can't see from your country doesn't count.”** In the rule I follow, what counts is its degree in your chart, not the sky over your head.

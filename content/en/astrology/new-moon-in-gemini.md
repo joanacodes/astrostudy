@@ -38,7 +38,7 @@ The new moon in Gemini is the year's new moon in mutable air, at the end of the 
 
 At a [new moon](/astrology/new-moon/), the Sun's purpose and the Moon's needs set out together from one sign. In [Gemini](/astrology/gemini/), the sign is air and mutable: quick, sociable, interested in everything, happiest with two options rather than one. Mercury rules it, the planet that processes information and carries it between people, so this new moon tends to stir questions, messages and plans that are still being talked through. Neither the Sun nor the Moon has any traditional dignity in Gemini; they simply take on its manner.
 
-Its dates, in Universal Time:
+The dates, in Universal Time:
 
 - **2026:** 15 June, 02:54 UT, at 24°03′ Gemini
 - **2027:** 4 June, 19:40 UT, at 13°58′ Gemini
@@ -52,7 +52,7 @@ That changes how far they reach. An ordinary new moon in Gemini counts, in the r
 
 ## House by house {#house-by-house}
 
-With Gemini on a house cusp, the new moon in Gemini generally falls in that house, unless Gemini straddles two and its degree puts it in the other. The houses come from [your birth time](/blog/unknown-birth-time/), in Placidus.
+Where Gemini opens a house, its new moon usually falls there, unless Gemini straddles two and the degree puts it in the other. In the eclipse years, 2029 and 2030, the house opposite, where Sagittarius sits, is touched too. All of it rests on [your birth time](/blog/unknown-birth-time/) and Placidus houses.
 
 1. **[1st house](/astrology/gemini-rising/):** Gemini rising: a lighter, more curious way of meeting people; a new way of introducing yourself.
 2. **[2nd house](/astrology/gemini-on-2nd-house-cusp/):** income and what you value; comparing options, an idea about earning in more than one way.

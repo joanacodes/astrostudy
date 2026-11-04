@@ -43,7 +43,7 @@ So an eclipse is a new or full moon in the right place, and the right place is s
 
 ## How it works {#how-it-works}
 
-The nodes aren't fixed. The Sun's pull swings the Moon's orbit slowly round, and the nodes slide backwards through the zodiac, about 18 months in each pair of opposite signs and about 18.6 years for the whole circle. The eclipses follow, backwards too. In the dates this site keeps, from the true node, the North Node is in Aquarius from July 2026 to March 2028, in Capricorn until September 2029, then in Sagittarius until March 2031. The eclipses track it: Leo and Aquarius through 2026 and 2027, Cancer and Capricorn in 2028 and 2029, Gemini and Sagittarius in 2029 and 2030.
+The nodes aren't fixed. The Sun's pull swings the Moon's orbit slowly round, and the nodes slide backwards through the zodiac, about 18 months in each pair of opposite signs and about 18.6 years for the whole circle. The eclipses follow, backwards too. In the dates this site keeps, from the true node, the North Node is in Aquarius from July 2026 to March 2028, in Capricorn until September 2029, then in Sagittarius until March 2031. The eclipses keep pace: total solar eclipses in Leo in August 2026 and August 2027, a total one in late Cancer in July 2028, partial ones in Capricorn, Gemini, Cancer and Sagittarius through 2029, and an annular one in Gemini in June 2030.
 
 There are two ways of calculating the nodes, the smoothed mean node and the wobbling true node, a degree or two apart at most ([mean node and true node](/astrology/mean-node-and-true-node/)). I look at both, and near the edge of a sign their dates can differ by weeks.
 

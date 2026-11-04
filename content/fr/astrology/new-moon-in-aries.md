@@ -53,7 +53,7 @@ Ce qu’elle représente pour vous dépend du contact. Dans la règle que je sui
 
 ## Maison par maison {#maison-par-maison}
 
-Avec le Bélier sur la cuspide d’une maison, la nouvelle lune en Bélier tombe le plus souvent dans cette maison ; quand le Bélier en chevauche deux, c’est le degré exact qui décide. Pour les trouver, il faut [votre heure de naissance](/blog/unknown-birth-time/), en Placidus, le système de maisons que j’utilise.
+La place du Bélier dans votre thème dépend de [votre heure de naissance](/blog/unknown-birth-time/) ; je trace les maisons en Placidus. Avec le Bélier sur une cuspide, sa nouvelle lune tombe le plus souvent dans cette maison, mais le degré a le dernier mot : avec un ascendant à 20° du Bélier, par exemple, la nouvelle lune de 2027, à 16°57′, se lève juste avant lui, en maison XII.
 
 1. **[Maison I](/astrology/aries-rising/) :** l’ascendant Bélier : la nouvelle lune tombe sur vous, sur votre façon d’aborder les gens et de vous lancer ; un nouveau départ que vous prenez en personne.
 2. **[Maison II](/astrology/aries-on-2nd-house-cusp/) :** ce que vous gagnez et possédez ; l’envie de lancer un projet d’argent ou de valeur à vos conditions.

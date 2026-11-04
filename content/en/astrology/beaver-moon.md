@@ -36,7 +36,7 @@ The Beaver moon is November's full moon in the almanacs' calendar, and the next 
 
 ## What it is {#what-it-is}
 
-It comes after the [Hunter's moon](/astrology/hunters-moon/) and before the [Cold moon](/astrology/cold-moon/) of December, and like every [full moon](/astrology/full-moon/) it's the Moon opposite the Sun, its face fully lit. Its dates, in Universal Time:
+The [Hunter's moon](/astrology/hunters-moon/) comes before it and the [Cold moon](/astrology/cold-moon/) of December after; in between, November's [full moon](/astrology/full-moon/) stands opposite a Sun in Scorpio or, very late in the month, in Sagittarius. Here they are, in Universal Time:
 
 - **2026:** 24 November, 14:54 UT, at 2°20′ Gemini
 - **2027:** 14 November, 03:26 UT, at 21°31′ Taurus
@@ -52,7 +52,7 @@ In 2028 the Beaver moon has a second name. That year's Harvest moon falls on 3 O
 
 ## How it works {#how-it-works}
 
-The beaver goes back to Jonathan Carver's *Travels Through the Interior Parts of North-America* (1778), whose list of twelve moons, counted from March, has the Beaver Moon ninth. Carver gives his names as those of “the Indians”, without saying which people he had them from.
+The beaver goes back to Jonathan Carver's *Travels Through the Interior Parts of North-America* (1778), whose list of twelve moons, counted from March, has the Beaver Moon ninth. Carver names no people as his source: the list is simply that of “the Indians”.
 
 The Maine Farmer's Almanac took it up when it began naming every month's full moon in the 1930s, and NASA's full moon guide offers two readings of it. In one, mid-autumn was the time to set beaver traps before the swamps froze, to be sure of warm furs for the winter. In the other, the name comes from how busy beavers are at this season, getting ready for the cold. The guide doesn't choose between them, and neither do I. It also lists the Frost or Frosty Moon and the Snow Moon, for the first frosts and snows of the north-east, so the name Snow Moon turns up in November as well as in February.
 
@@ -60,9 +60,9 @@ The rule is the calendar's, with one exception that belongs to its neighbour: in
 
 ## In a reading {#in-a-reading}
 
-The Beaver moon is a folk and almanac name, not astrology; no beaver builds anything in your chart. What I read is the full moon, and in November that's usually the [full moon in Taurus](/astrology/full-moon-in-taurus/), the Moon in Taurus across from the Sun in Scorpio. In the natural order of the zodiac, Taurus is the sign of the 2nd house and Scorpio of the 8th, so many astrologers read this axis as the line between what is yours and what you share with others. In 2026, though, it's the [full moon in Gemini](/astrology/full-moon-in-gemini/), with the Sun in Sagittarius, a different axis and a different conversation.
+Beavers build nothing in a chart. Like its neighbours, this name comes from folklore and the almanacs, not from astrology. What I read is the full moon, and in November that's usually the [full moon in Taurus](/astrology/full-moon-in-taurus/), the Moon in Taurus across from the Sun in Scorpio. In the natural order of the zodiac, Taurus is the sign of the 2nd house and Scorpio of the 8th, so many astrologers read this axis as the line between what is yours and what you share with others. In 2026, though, it's the [full moon in Gemini](/astrology/full-moon-in-gemini/), with the Sun in Sagittarius, a different axis and a different conversation.
 
-In your own chart, the natural houses step aside for the real ones, and a full moon needs contact. I count it within a degree of a natal planet or angle, at the Moon's end or the Sun's: this year's Beaver moon reaches a planet within a degree of 2°20′ Gemini or Sagittarius, and otherwise passes by. Even when it touches something, I read it as a focus inside a period a transit or progression has opened, never as news of its own.
+In your own chart, the natural houses step aside for the real ones, and a full moon needs contact. I count it only where the Moon's degree or the Sun's lies within one degree of something natal: this year's Beaver moon reaches a planet within a degree of 2°20′ Gemini or Sagittarius, and otherwise passes by. Even when it touches something, I read it as a focus inside a period a transit or progression has opened, never as news of its own.
 
 The house it falls in, which needs your birth time, is where it would show, and that's part of [how I read](/how-i-read/) every lunation.
 
@@ -71,4 +71,3 @@ The house it falls in, which needs your birth time, is where it would show, and 
 - **“The Beaver moon is always in Taurus.”** Usually, but the 2026 one falls in Gemini, because it comes after the Sun has entered Sagittarius.
 - **“The Beaver moon and the Hunter's moon are always two different full moons.”** In 2028 they're the same one, on 2 November.
 - **“Everyone agrees where the name comes from.”** NASA's guide gives two explanations, trapping and the beavers' own preparations, and both are about the season.
-- **“November's full moon has a fixed meaning.”** Its meaning in a chart comes from its sign, Taurus or Gemini, and from the house it lights.

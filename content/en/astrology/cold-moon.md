@@ -32,11 +32,11 @@ sources:
   - { title: "Jonathan Carver, Travels Through the Interior Parts of North-America, in the Years 1766, 1767, and 1768 (London, 1778)", note: "his Cold Moon is January’s; his December is the Hunting Moon" }
   - { title: "The Astro Study’s dates from the planets’ positions", note: "the full moons and eclipses of 2026 to 2030, in UT" }
 ---
-The Cold moon is the last full moon of the almanacs' year, December's, named for the season when winter sets in. The name is folklore, not astrology, and astrologically it's a full moon in Gemini or Cancer, riding high on the longest nights.
+December's full moon goes by the Cold moon in the almanacs, for the month when winter sets in. Astrology has no use for the name; what it sees is a full moon in Gemini or Cancer, riding high on the longest nights of the year.
 
 ## What it is {#what-it-is}
 
-It follows the [Beaver moon](/astrology/beaver-moon/) of November, and the [Wolf moon](/astrology/wolf-moon/) of January comes after it. Like every [full moon](/astrology/full-moon/), it's the Moon opposite the Sun. Its dates, in Universal Time:
+December's [full moon](/astrology/full-moon/) closes the almanacs' year, after the [Beaver moon](/astrology/beaver-moon/) of November; the [Wolf moon](/astrology/wolf-moon/) of January opens the next. In Universal Time, they fall on:
 
 - **2026:** 24 December, 01:28 UT, at 2°14′ Cancer
 - **2027:** 13 December, 16:09 UT, at 21°25′ Gemini
@@ -52,7 +52,7 @@ The end of the run is unusual. December 2028 has two full moons, and the second,
 
 ## How it works {#how-it-works}
 
-The cold changed months on its way to us. In Jonathan Carver's *Travels Through the Interior Parts of North-America* (1778), which credits its moon names to “the Indians” without naming a people, the Cold Moon belongs to January, and December's moon is the Hunting Moon. When the Maine Farmer's Almanac began printing a name for every month's full moon in the 1930s, the Cold Moon was December's.
+The cold changed months on its way to us. In Jonathan Carver's *Travels Through the Interior Parts of North-America* (1778), which credits its moon names to “the Indians” without naming a people, the Cold Moon belongs to January, and December's moon is the Hunting Moon. By the time the Maine Farmer's Almanac was naming a full moon for each month, in the 1930s, the Cold Moon had become December's.
 
 NASA's full moon guide gives the almanac's December names and reasons. The Cold Moon is for the month when winter's cold sets in; the Long Night Moon is for its place near the solstice, the longest night of the year. From Europe comes the Moon before Yule, after the old midwinter festival of the north, now folded into Christmas.
 
@@ -60,9 +60,9 @@ The rule is the month's: the full moon that falls in December is the Cold moon, 
 
 ## In a reading {#in-a-reading}
 
-The Cold moon is a folk and almanac name, not astrology, and the frost isn't part of your chart. What I read is the full moon: the [full moon in Gemini](/astrology/full-moon-in-gemini/), with the Sun in Sagittarius, in most of these years, or the [full moon in Cancer](/astrology/full-moon-in-cancer/), with the Sun in Capricorn, in 2026 and on 31 December 2028. In Cancer the Moon is in its own sign, where tradition gives it its domicile, with the Sun across the way in Capricorn.
+The frost isn't part of your chart, and Cold moon isn't an astrological name: it comes from folklore and the almanacs. The full moon behind it is what I read: the [full moon in Gemini](/astrology/full-moon-in-gemini/), with the Sun in Sagittarius, in most of these years, or the [full moon in Cancer](/astrology/full-moon-in-cancer/), with the Sun in Capricorn, in 2026 and on 31 December 2028. In Cancer the Moon is in its own sign, where tradition gives it its domicile, with the Sun across the way in Capricorn.
 
-For an ordinary full moon, I need a planet or angle within a degree of it, at either end of the axis, and a reason already in place, a transit or a progression on the same point, before I say anything about it. The eclipsed Cold moons of 2028 and 2029 count within about three degrees of a natal point, and the penumbral one of 2030 counts for less. I read each of them through the point it reaches and that point's house: emphasis, never an omen, and certainly not a forecast for the coming year.
+On an ordinary December night, a full moon earns a place in a reading only with contact, a planet or angle within a degree of either end of its axis, and with a reason already in place, a transit or a progression on the same point, before I say anything about it. The eclipsed Cold moons of 2028 and 2029 count within about three degrees of a natal point, and the penumbral one of 2030 counts for less. I read each of them through the point it reaches and that point's house: emphasis, never an omen, and certainly not a forecast for the coming year.
 
 The house matters most, and it needs your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
@@ -70,5 +70,4 @@ The house matters most, and it needs your birth time ([what changes without a bi
 
 - **“The Cold moon brings the coldest night of the year.”** It's named for the month the cold sets in, not for any one night's weather.
 - **“The Cold moon has always been December's.”** In Carver's list of 1778 it belongs to January; the almanac moved it.
-- **“A total eclipse on New Year's Eve is a bad sign for the year.”** The eclipse of 31 December 2028 is the Earth's shadow on the Moon, read through the chart it touches, never as a portent.
-- **“The name gives it a meaning.”** Its meaning in a chart comes from its sign and its house, Gemini or Cancer, wherever those fall for you.
+- **“A total eclipse on New Year's Eve is a bad sign for the year.”** On 31 December 2028 the Earth simply passes between the Sun and the Moon. I read that eclipse through the chart it touches, never as a portent.

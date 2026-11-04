@@ -37,7 +37,7 @@ La Lune des fleurs est la pleine lune de mai dans le calendrier des almanachs, n
 
 ## Ce que c’est {#ce-que-c-est}
 
-Elle vient après la [Lune rose](/astrology/pink-moon/) d’avril et avant la [Lune des fraises](/astrology/strawberry-moon/) de juin. Comme toute [pleine lune](/astrology/full-moon/), c’est la nuit où la Lune fait face au Soleil depuis l’autre côté du ciel. Ses dates, en temps universel (TU) :
+Entre la [Lune rose](/astrology/pink-moon/) d’avril et la [Lune des fraises](/astrology/strawberry-moon/) de juin vient la [pleine lune](/astrology/full-moon/) de mai, la nuit où la Lune fait face, depuis l’autre côté du ciel, à un Soleil en Taureau ou au début des Gémeaux. Ses dates, en temps universel (TU) :
 
 - **2026 :** 1er mai, 17 h 23 TU, à 11°21′ Scorpion, et une seconde pleine lune le 31 mai, 8 h 45 TU, à 9°56′ Sagittaire
 - **2027 :** 20 mai, 10 h 59 TU, à 29°13′ Scorpion
@@ -59,7 +59,7 @@ La règle est celle du calendrier : une pleine lune qui tombe en mai est une Lu
 
 ## Dans une lecture {#dans-une-lecture}
 
-La Lune des fleurs est un nom populaire et d’almanach, et ce n’est pas de l’astrologie. Les fleurs n’y entrent pas. Ce que je lis, c’est la pleine lune, et celle de mai a ceci de particulier qu’elle tombe presque toujours dans les mêmes signes.
+L’astrologie n’a pas de Lune des fleurs : le nom relève du folklore, entretenu par les almanachs, et les fleurs n’y entrent pas. Ce que je lis, c’est la pleine lune, et celle de mai a ceci de particulier qu’elle tombe presque toujours dans les mêmes signes.
 
 La Lune en Scorpion et le Soleil en Taureau : la [pleine lune en Scorpion](/astrology/full-moon-in-scorpio/) s’étend sur l’axe où la tradition place à la fois l’exaltation de la Lune, en Taureau, et sa chute, en Scorpion. Un signe de chute n’est pas un mauvais présage. J’y lis une manière moins confortable pour les besoins et les émotions de la Lune : plus intense, plus secrète, moins à l’aise avec le simple réconfort que le Taureau propose en face. En 2029, la Lune des fleurs est au contraire une [pleine lune en Sagittaire](/astrology/full-moon-in-sagittarius/), le Soleil en Gémeaux, un tout autre couple.
 
@@ -72,4 +72,3 @@ Mon [carnet de tests](/blog/i-tested-my-birth-chart/) portait sur les positions 
 - **« La Lune des fleurs fait fleurir. »** Elle porte le nom de la saison. Au sud de l’équateur, la pleine lune de mai se lève en automne.
 - **« Une pleine lune en Scorpion, la chute de la Lune, est une mauvaise nuit. »** La chute décrit une manière, plus intense et moins à l’aise, jamais un verdict sur une nuit ou sur une personne.
 - **« Mai n’a qu’une pleine lune. »** Certaines années, il en a deux, comme en 2026, parce que mai est plus long que le cycle de la Lune.
-- **« Le nom donne son sens à la pleine lune. »** Le sens vient de son signe, Scorpion ou Sagittaire, et de la maison qu’elle éclaire dans votre thème.

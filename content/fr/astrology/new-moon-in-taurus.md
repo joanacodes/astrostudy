@@ -53,7 +53,7 @@ Une nouvelle lune est brève, et je la garde à sa mesure. Elle ne compte dans u
 
 ## Maison par maison {#maison-par-maison}
 
-Là où le Taureau ouvre une maison, la nouvelle lune en Taureau y tombe le plus souvent ; si le Taureau s’étend sur deux maisons, son degré exact tranche. Il vous faut [votre heure de naissance](/blog/unknown-birth-time/) pour le savoir : j’utilise les maisons de Placidus.
+De 2026 à 2030, la nouvelle lune en Taureau tombe n’importe où entre 5° et 26° du signe : là où le Taureau s’étend sur deux de vos maisons, elle peut visiter les deux selon les années. Lesquelles, c’est [votre heure de naissance](/blog/unknown-birth-time/) qui le dit ; j’utilise les maisons de Placidus.
 
 1. **[Maison I](/astrology/taurus-rising/) :** l’ascendant Taureau : une façon plus posée de vous présenter ; s’installer dans son propre rythme et dans son corps.
 2. **[Maison II](/astrology/taurus-on-2nd-house-cusp/) :** les revenus, les biens, l’estime de soi ; un début patient sur ce que vous voulez garder et sur ce que vous valez à vos propres yeux.

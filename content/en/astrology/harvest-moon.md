@@ -70,4 +70,3 @@ Which house it falls in depends on your birth time, and that's [how I read](/how
 - **“The Harvest moon is September's full moon.”** It's the full moon nearest the equinox, and in some years that's in October, as in 2028.
 - **“The Harvest moon is bigger and more orange than other full moons.”** It rises in the evening twilight, low and warm-coloured as any full moon near the horizon looks, but it isn't larger.
 - **“It's a Native American name.”** It's an English name, recorded since 1706, older in print than most of the almanacs' moon names.
-- **“The Harvest moon carries its own astrological meaning.”** It's read like any full moon, by its sign and its house.

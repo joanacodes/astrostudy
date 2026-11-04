@@ -32,11 +32,11 @@ sources:
   - { title: "Jonathan Carver, Travels Through the Interior Parts of North-America, in the Years 1766, 1767, and 1768 (London, 1778)", note: "the Sturgeon Moon, sixth of his twelve moons" }
   - { title: "The Astro Study’s dates from the planets’ positions", note: "the full moons and eclipses of 2026 to 2030, in UT" }
 ---
-The Sturgeon moon is the full moon of August, named in the almanacs after a fish of the Great Lakes. The name is folklore, not astrology, and astrologically this moon is a full moon in Aquarius or Pisces, with the Sun opposite in Leo or Virgo.
+August's full moon takes its almanac name from a fish of the Great Lakes, the sturgeon. That's folklore; astrology sees only the full moon itself, in Aquarius or Pisces, with the Sun opposite in Leo or Virgo.
 
 ## What it is {#what-it-is}
 
-It comes after the [Buck moon](/astrology/buck-moon/) of July and before the [Harvest moon](/astrology/harvest-moon/), and like any [full moon](/astrology/full-moon/) it is the Moon directly opposite the Sun. The next dates, in Universal Time:
+August's [full moon](/astrology/full-moon/) closes the almanacs' summer: the [Buck moon](/astrology/buck-moon/) comes before it, the [Harvest moon](/astrology/harvest-moon/) after. The next dates, in Universal Time:
 
 - **2026:** 28 August, 04:19 UT, at 4°54′ Pisces, a partial lunar eclipse
 - **2027:** 17 August, 07:29 UT, at 24°12′ Aquarius, a penumbral lunar eclipse
@@ -58,7 +58,7 @@ The month alone decides it: whichever full moon falls in August is the Sturgeon 
 
 ## In a reading {#in-a-reading}
 
-The Sturgeon moon is a folk and almanac name, not astrology; the fish stays in the lake. I read the full moon underneath, which in August is the [full moon in Aquarius](/astrology/full-moon-in-aquarius/), opposite a Sun in Leo, or the [full moon in Pisces](/astrology/full-moon-in-pisces/), opposite a Sun in Virgo.
+The fish stays in the lake: Sturgeon moon is a folk name from the almanacs, and astrology doesn't use it. I read the full moon underneath, which in August is the [full moon in Aquarius](/astrology/full-moon-in-aquarius/), opposite a Sun in Leo, or the [full moon in Pisces](/astrology/full-moon-in-pisces/), opposite a Sun in Virgo.
 
 An example shows how narrow my rule is. Take a chart with Venus at 24° Leo. The 2027 Sturgeon moon has the Moon at 24°12′ Aquarius and the Sun at 24°12′ Leo, so the Sun's end of the line sits right on that Venus. Because it's an eclipse, it counts within about three degrees, though as a penumbral one it weighs less than a partial or total eclipse would, and I'd read it through that Venus, its sign and its house, as a weight on what Venus describes there. A plain full moon would need to be within one degree, and even then it only brings into focus what a transit or progression is already working on. Move that Venus to 10° Leo and the same Sturgeon moon passes it by: for that chart, it's a bright night in August.
 
@@ -69,4 +69,3 @@ That's also why I need your [birth time](/blog/unknown-birth-time/). Without it,
 - **“It's a Pisces moon because it's named after a fish.”** Coincidence: it falls in Pisces only when it comes late in August, as in 2026 and 2029. Otherwise it's in Aquarius.
 - **“The Sturgeon moon is always eclipsed.”** Only in 2026 and 2027 in this run of years, while the Moon's nodes cross these signs.
 - **“An August full moon can be the Harvest moon.”** The Harvest moon is the full moon nearest the September equinox, and August is always too early.
-- **“The name tells you how to spend the night.”** Its sign and its house in your chart say far more, and they change every year.

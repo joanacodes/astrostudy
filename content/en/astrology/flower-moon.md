@@ -36,7 +36,7 @@ The Flower moon is May's full moon in the almanacs' calendar, named for a month 
 
 ## What it is {#what-it-is}
 
-It comes after the [Pink moon](/astrology/pink-moon/) of April and before the [Strawberry moon](/astrology/strawberry-moon/) of June. Like any [full moon](/astrology/full-moon/), it's the night the Moon faces the Sun from the other side of the sky. The dates, in Universal Time:
+Between the [Pink moon](/astrology/pink-moon/) of April and the [Strawberry moon](/astrology/strawberry-moon/) of June comes May's [full moon](/astrology/full-moon/), the night the Moon faces a Sun in Taurus or early Gemini from the other side of the sky. The dates, in Universal Time:
 
 - **2026:** 1 May, 17:23 UT, at 11°21′ Scorpio, and a second full moon on 31 May, 08:45 UT, at 9°56′ Sagittarius
 - **2027:** 20 May, 10:59 UT, at 29°13′ Scorpio
@@ -58,7 +58,7 @@ The rule is the calendar's: a full moon that falls in May is a Flower moon, what
 
 ## In a reading {#in-a-reading}
 
-The Flower moon is a folk and almanac name, and it isn't astrology. Flowers don't enter into it. What I read is the full moon, and May's is unusual because of the signs it nearly always falls in.
+Astrology has no Flower moon: the name is folklore, kept alive by almanacs, and flowers don't enter into it. What I read is the full moon, and May's is unusual because of the signs it nearly always falls in.
 
 With the Moon in Scorpio and the Sun in Taurus, the [full moon in Scorpio](/astrology/full-moon-in-scorpio/) lies across the axis where tradition puts both the Moon's exaltation, in Taurus, and its fall, in Scorpio. A sign of fall isn't a bad omen. I read it as a less comfortable manner for the Moon's needs and feelings: more intense, more private, less at ease with the plain comfort Taurus offers across the way. In 2029, the Flower moon is instead a [full moon in Sagittarius](/astrology/full-moon-in-sagittarius/), with the Sun in Gemini, a very different pair.
 
@@ -71,4 +71,3 @@ My [testing notebook](/blog/i-tested-my-birth-chart/) checked birth placements, 
 - **“The Flower moon makes things bloom.”** It's named after the season. South of the equator, May's full moon rises in autumn.
 - **“A full moon in Scorpio, the Moon's fall, is a bad night.”** Fall describes a manner, more intense and less at ease, never a verdict on a night or on a person.
 - **“May only has one full moon.”** Some years it has two, as in 2026, because May is longer than the Moon's cycle.
-- **“The name gives the full moon its meaning.”** The meaning comes from its sign, Scorpio or Sagittarius, and the house it lights in your chart.

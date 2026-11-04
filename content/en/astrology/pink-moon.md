@@ -35,7 +35,7 @@ The Pink moon is the name almanacs give April's full moon, and it comes from a f
 
 ## What it is {#what-it-is}
 
-April's full moon follows the [Worm moon](/astrology/worm-moon/) of March and comes before the [Flower moon](/astrology/flower-moon/) of May. As with every [full moon](/astrology/full-moon/), the Moon stands opposite the Sun and is lit across its whole face. Its dates over the next few years, in Universal Time:
+Between the [Worm moon](/astrology/worm-moon/) of March and the [Flower moon](/astrology/flower-moon/) of May, April's [full moon](/astrology/full-moon/) rises opposite a Sun in Aries or early Taurus. Its dates over the next few years, in Universal Time:
 
 - **2026:** 2 April, 02:12 UT, at 12°21′ Libra
 - **2027:** 20 April, 22:27 UT, at 0°37′ Scorpio
@@ -70,4 +70,3 @@ And for the house it falls in, which is where it would touch your life, I need t
 - **“The Pink moon is pink.”** It's named after a flower. The Moon keeps its usual colours: warm near the horizon, white high in the sky.
 - **“The Pink moon is a full moon for love.”** Pink suggests romance, but the name belongs to a wildflower. Astrology reads its sign, Libra or Scorpio, and the house it falls in.
 - **“It's always the first full moon of spring.”** Not when March's full moon comes after the equinox: in 2027 and 2029 the Worm moon gets there first.
-- **“April's full moon means the same thing every year.”** Its sign and degree change from one year to the next, and so does the part of your chart it reaches.

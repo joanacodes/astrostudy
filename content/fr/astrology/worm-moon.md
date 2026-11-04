@@ -37,7 +37,7 @@ La Lune des vers est la pleine lune de mars, nommée dans les almanachs pour la 
 
 ## Ce que c’est {#ce-que-c-est}
 
-C’est la troisième pleine lune de l’année des almanachs, après la [Lune des neiges](/astrology/snow-moon/) et avant la [Lune rose](/astrology/pink-moon/). Comme toute [pleine lune](/astrology/full-moon/), c’est la Lune exactement en face du Soleil. Ses dates, en temps universel (TU), avec le signe et le degré de la Lune :
+Dans l’année des almanachs, elle vient en troisième, après la [Lune des neiges](/astrology/snow-moon/) et avant la [Lune rose](/astrology/pink-moon/), à cheval sur la fin de l’hiver. Ses dates, en temps universel (TU), avec le signe et le degré de la [pleine lune](/astrology/full-moon/) :
 
 - **2026 :** 3 mars, 11 h 38 TU, à 12°54′ Vierge, une éclipse totale de Lune
 - **2027 :** 22 mars, 10 h 44 TU, à 1°35′ Balance
@@ -55,11 +55,11 @@ Le nom vient avec deux histoires, et deux sortes de vers.
 
 La plus ancienne est celle de Jonathan Carver. Dans ses *Travels Through the Interior Parts of North-America* (1778), il donne les mois tels que les nomment, selon lui, « les Indiens », sans préciser quel peuple, et commence l’année en mars par le mois des vers. Sa raison : à cette saison, les vers quittent l’écorce des arbres et le bois où ils se sont abrités tout l’hiver. Des vers qui vivent dans l’écorce ressemblent plus à des larves d’insectes qu’à des vers de terre.
 
-La seconde appartient au *Maine Farmer’s Almanac*, qui publie à partir des années 1930 ses noms « indiens » pour la pleine lune de chaque mois, comme le rappelle le guide des pleines lunes de la NASA. Sa Lune des vers doit son nom aux tortillons de terre que les vers laissent à la surface quand le sol dégèle. Le même almanach donne à mars plusieurs autres noms, chacun un signe de la saison qui tourne : la Lune des corneilles, quand leurs cris annonçaient la fin de l’hiver ; la Lune de la croûte, quand la neige qui fond le jour et regèle la nuit forme une croûte ; et la Lune de la sève, ou du sucre, le moment d’entailler les érables.
+La seconde appartient au *Maine Farmer’s Almanac* : dès les années 1930, d’après le guide de la NASA, il donne à chaque pleine lune du mois un nom qu’il dit « indien ». Sa Lune des vers doit son nom aux tortillons de terre que les vers laissent à la surface quand le sol dégèle. Le même almanach donne à mars plusieurs autres noms, chacun un signe de la saison qui tourne : la Lune des corneilles, quand leurs cris annonçaient la fin de l’hiver ; la Lune de la croûte, quand la neige qui fond le jour et regèle la nuit forme une croûte ; et la Lune de la sève, ou du sucre, le moment d’entailler les érables.
 
 ## Dans une lecture {#dans-une-lecture}
 
-La Lune des vers est un nom populaire et d’almanach, pas de l’astrologie, et je ne lis ni vers, ni corneilles, ni sève d’érable dans un thème. Je lis la pleine lune, et en mars, c’est l’un de deux axes très différents. La [pleine lune en Vierge](/astrology/full-moon-in-virgo/) a le Soleil en Poissons, sur l’axe Vierge–Poissons ; la [pleine lune en Balance](/astrology/full-moon-in-libra/) a le Soleil en Bélier, sur l’axe qui ouvre le zodiaque. Deux Lunes des vers à un an d’écart peuvent n’avoir presque rien en commun pour une astrologue.
+Rien ne s’appelle Lune des vers en astrologie : le nom appartient au folklore et aux almanachs, et je ne lis ni vers, ni corneilles, ni sève d’érable dans un thème. Je lis la pleine lune, et en mars, c’est l’un de deux axes très différents. La [pleine lune en Vierge](/astrology/full-moon-in-virgo/) a le Soleil en Poissons, sur l’axe Vierge–Poissons ; la [pleine lune en Balance](/astrology/full-moon-in-libra/) a le Soleil en Bélier, sur l’axe qui ouvre le zodiaque. Deux Lunes des vers à un an d’écart peuvent n’avoir presque rien en commun pour une astrologue.
 
 Je touche une pleine lune d’une main légère. C’est un repère mensuel, et elle ne compte que sur un point de votre thème qu’elle atteint à un degré près, du côté de la Lune ou de celui du Soleil. Quand c’est le cas, je cherche ce qui travaille déjà ce point, un transit, une progression ou une éclipse, parce qu’une lunaison met en lumière ce qui est déjà actif et ne lance rien à elle seule. Une éclipse comme la Lune des vers de 2026 a sa propre règle : elle compte à environ trois degrés, et jamais comme un présage.
 
@@ -70,4 +70,3 @@ La maison où elle tombe, l’endroit de votre thème où se trouvent la Vierge 
 - **« La Lune des vers doit son nom aux vers de terre. »** C’est l’histoire de l’almanach. Les vers de Carver, un siècle et demi plus tôt, sortaient de l’écorce des arbres.
 - **« La Lune des vers est la première pleine lune du printemps. »** Seulement quand elle tombe après l’équinoxe, comme en 2027 et en 2029. Les autres années, c’est la dernière pleine lune de l’hiver.
 - **« L’éclipse de la Lune des vers de 2026 était un avertissement. »** Une éclipse, c’est le Soleil, la Terre et la Lune alignés près d’un nœud. Je la lis à travers le thème qu’elle touche, comme une mise en relief, jamais comme un présage.
-- **« Le nom a un sens en astrologie. »** Son sens vient de son signe et de sa maison, qui changent d’une année à l’autre.

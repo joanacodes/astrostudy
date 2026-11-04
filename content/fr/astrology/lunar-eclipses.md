@@ -37,7 +37,7 @@ Une éclipse lunaire, c’est l’ombre de la Terre qui tombe sur la Lune. Elle 
 
 ## Ce que c’est {#ce-que-c-est}
 
-À chaque [pleine lune](/astrology/full-moon/), la Terre se trouve entre le Soleil et la Lune. D’ordinaire, la Lune passe un peu au-dessus ou au-dessous de l’ombre de la Terre et continue de briller. Quand elle la traverse, c’est une éclipse lunaire. L’ombre a un cœur sombre, l’ombre proprement dite, et une frange pâle, la pénombre, d’où trois sortes d’éclipses :
+À chaque [pleine lune](/astrology/full-moon/), la Terre se trouve entre le Soleil et la Lune. La plupart des mois, elle glisse au bord de l’ombre, au-dessus ou au-dessous, et continue de briller. Quand elle la traverse, c’est une éclipse lunaire. L’ombre a un cœur sombre, l’ombre proprement dite, et une frange pâle, la pénombre, d’où trois sortes d’éclipses :
 
 - **Totale :** toute la Lune entre dans l’ombre. Elle ne disparaît pas : la lumière du Soleil déviée par l’atmosphère terrestre l’atteint encore, et elle devient cuivrée ou rouge sombre, la couleur qui lui vaut le surnom de lune de sang.
 - **Partielle :** une partie seulement de la Lune entre dans l’ombre, et une morsure sombre semble traverser son disque.
@@ -54,7 +54,7 @@ Les deux de 2026, totale le 3 mars à 12°51′ de la Vierge et partielle le 28 
 
 ## Comment ça marche {#comment-ca-marche}
 
-L’orbite de la Lune est inclinée sur la route du Soleil : la pleine lune manque donc le plus souvent l’ombre de la Terre. Elle ne peut la rencontrer que près des nœuds, là où les deux routes se croisent. Les pages de Fred Espenak sur les éclipses, pour la NASA, en donnent la condition : une pleine lune à moins de 17° environ d’un nœud donne une éclipse lunaire visible d’une partie de la Terre, discrète et par la pénombre au bord de cette limite, plus profonde à mesure que la pleine lune tombe près du nœud.
+Comme la route de la Lune est inclinée sur celle du Soleil, la pleine lune et l’ombre de la Terre se manquent le plus souvent ; elles ne peuvent se rencontrer que près des nœuds, là où les deux routes se croisent. Les pages d’Espenak pour la NASA en fixent la limite : une pleine lune à moins de 17° environ d’un nœud donne une éclipse lunaire visible d’une partie de la Terre, discrète et par la pénombre au bord de cette limite, plus profonde à mesure que la pleine lune tombe près du nœud.
 
 Les éclipses lunaires ne sont pas plus rares que les solaires : le fichier d’éclipses du site en compte 94 de 2000 à 2040, contre 92 solaires, dont 38 totales, 22 partielles et 34 par la pénombre.
 
@@ -64,13 +64,13 @@ Chaque éclipse lunaire tombe environ deux semaines avant ou après une éclipse
 
 Une éclipse lunaire est une pleine lune : elle part donc de la forme de la pleine lune, la Lune dans un signe, le Soleil en face, les deux bouts d’une même ligne. Dans votre thème, ces deux bouts tombent toujours dans deux maisons opposées, et l’éclipse atteint ce qu’elle trouve près de l’un ou de l’autre. La règle que je suis lui donne environ trois degrés : l’éclipse du 31 décembre 2028, à 10°34′ du Cancer, toucherait une planète ou un angle vers 10° du Cancer ou du Capricorne.
 
-Dans ce cas, je la lis à travers ce point natal et sa maison, comme un accent mis sur ce que représente ce point, et jamais seule. Une éclipse par la pénombre, comme les trois de 2027, pèse moins qu’une partielle ou qu’une totale. Aucune n’est un présage, et aucune ne décide de rien : le thème natal passe d’abord, et l’éclipse ne fait qu’en souligner une partie. La page des [éclipses sur vos planètes natales](/astrology/eclipses-on-your-natal-planets/) détaille ces contacts.
+Là où elle touche quelque chose, la lecture passe par ce point natal et sa maison : un accent sur ce que représente ce point, et jamais l’éclipse seule. Une éclipse par la pénombre, comme les trois de 2027, pèse moins qu’une partielle ou qu’une totale. Aucune n’est un présage, et aucune ne décide de rien : le thème natal passe d’abord, et l’éclipse ne fait qu’en souligner une partie. Ces contacts ont leur propre page : [éclipses sur vos planètes natales](/astrology/eclipses-on-your-natal-planets/).
 
 Les maisons qu’une éclipse traverse dépendent de [votre heure de naissance](/blog/unknown-birth-time/) ; son degré est le même pour tout le monde.
 
 ## Idées reçues {#idees-recues}
 
-- **« Une lune de sang annonce une catastrophe. »** Le rouge, c’est la lumière du Soleil filtrée par l’atmosphère de la Terre. J’y lis un accent sur une partie d’un thème, jamais un présage.
+- **« Une lune de sang annonce une catastrophe. »** Le rouge, c’est la lumière du Soleil filtrée par l’atmosphère de la Terre. Une éclipse souligne ce qu’elle touche dans un thème ; elle ne prédit rien.
 - **« Les éclipses lunaires sont plus rares que les solaires. »** Il y en a à peu près autant ; on en voit davantage parce que chacune est visible de toute la face nocturne de la Terre.
 - **« Toutes les éclipses lunaires comptent pareil. »** Une éclipse par la pénombre, quand la Lune ne fait qu’effleurer l’ombre extérieure, pèse moins qu’une partielle ou une totale.
 - **« Une éclipse invisible depuis votre pays ne compte pas. »** Dans la règle que je suis, ce qui compte, c’est son degré dans votre thème, pas le ciel au-dessus de vous.

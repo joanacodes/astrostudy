@@ -36,7 +36,7 @@ La Lune rose est le nom que les almanachs donnent à la pleine lune d’avril, e
 
 ## Ce que c’est {#ce-que-c-est}
 
-La pleine lune d’avril suit la [Lune des vers](/astrology/worm-moon/) de mars et précède la [Lune des fleurs](/astrology/flower-moon/) de mai. Comme à chaque [pleine lune](/astrology/full-moon/), la Lune se trouve en face du Soleil, éclairée sur toute sa face. Ses dates pour les années à venir, en temps universel (TU) :
+Entre la [Lune des vers](/astrology/worm-moon/) de mars et la [Lune des fleurs](/astrology/flower-moon/) de mai, la [pleine lune](/astrology/full-moon/) d’avril se lève face à un Soleil en Bélier ou au début du Taureau. Ses dates pour les années à venir, en temps universel (TU) :
 
 - **2026 :** 2 avril, 2 h 12 TU, à 12°21′ Balance
 - **2027 :** 20 avril, 22 h 27 TU, à 0°37′ Scorpion
@@ -71,4 +71,3 @@ Et pour la maison où elle tombe, l’endroit où elle toucherait votre vie, il 
 - **« La Lune rose est rose. »** Elle porte le nom d’une fleur. La Lune garde ses couleurs habituelles : chaudes près de l’horizon, blanche haut dans le ciel.
 - **« La Lune rose est une pleine lune de l’amour. »** Le rose fait penser à la tendresse, mais le nom appartient à une fleur sauvage. L’astrologie lit son signe, Balance ou Scorpion, et la maison où elle tombe.
 - **« C’est toujours la première pleine lune du printemps. »** Pas quand la pleine lune de mars arrive après l’équinoxe : en 2027 et en 2029, la Lune des vers passe la première.
-- **« La pleine lune d’avril veut dire la même chose chaque année. »** Son signe et son degré changent d’une année à l’autre, et la partie de votre thème qu’elle atteint aussi.

@@ -37,7 +37,7 @@ La Lune des fraises est la pleine lune de juin, nommée dans les almanachs pour 
 
 ## Ce que c’est {#ce-que-c-est}
 
-Elle vient entre la [Lune des fleurs](/astrology/flower-moon/) de mai et la [Lune du cerf](/astrology/buck-moon/) de juillet, et comme toute [pleine lune](/astrology/full-moon/), c’est la Lune exactement en face du Soleil. Ses dates en temps universel (TU) :
+La [pleine lune](/astrology/full-moon/) de juin est celle qui reste la plus basse au-dessus de l’Europe et de l’Amérique du Nord, en face du Soleil haut de l’été. Dans l’année des almanachs, elle suit la [Lune des fleurs](/astrology/flower-moon/) et précède la [Lune du cerf](/astrology/buck-moon/). Ses dates en temps universel (TU) :
 
 - **2026 :** 29 juin, 23 h 57 TU, à 8°15′ Capricorne
 - **2027 :** 19 juin, 0 h 45 TU, à 27°33′ Sagittaire
@@ -61,9 +61,9 @@ Le nom suit le mois : la pleine lune qui tombe en juin le reçoit, éclipsée o
 
 ## Dans une lecture {#dans-une-lecture}
 
-La Lune des fraises est un nom populaire et d’almanach, et il n’y a pas d’astrologie dans les fraises. Ce que je lis, c’est la pleine lune qui se trouve dessous. En juin, c’est soit la [pleine lune en Sagittaire](/astrology/full-moon-in-sagittarius/), la Lune en Sagittaire et le Soleil en Gémeaux, soit la [pleine lune en Capricorne](/astrology/full-moon-in-capricorn/), la Lune en Capricorne et le Soleil en Cancer. La seconde a une particularité que la tradition relève : le Soleil est dans le signe de la Lune, et la Lune dans le signe opposé, le Capricorne, son exil. J’y lis des émotions tenues dans un cadre plus ferme, pas une faiblesse.
+Il n’y a pas d’astrologie dans les fraises : la Lune des fraises est un nom venu du folklore et des almanachs. Ce que je lis, c’est la pleine lune qui se trouve dessous. En juin, c’est soit la [pleine lune en Sagittaire](/astrology/full-moon-in-sagittarius/), la Lune en Sagittaire et le Soleil en Gémeaux, soit la [pleine lune en Capricorne](/astrology/full-moon-in-capricorn/), la Lune en Capricorne et le Soleil en Cancer. La seconde a une particularité que la tradition relève : le Soleil est dans le signe de la Lune, et la Lune dans le signe opposé, le Capricorne, son exil. J’y lis des émotions tenues dans un cadre plus ferme, pas une faiblesse.
 
-Pour une pleine lune ordinaire, il me faut un contact à moins d’un degré d’une planète ou d’un angle de votre thème, à l’un ou l’autre bout, et quelque chose de déjà actif à cet endroit avant de lui donner du poids. Celles de 2029 et 2030, éclipsées, suivent la règle des éclipses : à environ trois degrés d’un point natal, lues à travers ce point et sa maison, et jamais comme un présage. La page des [éclipses lunaires](/astrology/lunar-eclipses/) explique pourquoi l’ombre de la Terre atteint parfois une pleine lune et parfois la manque.
+Une pleine lune ordinaire doit d’abord toucher quelque chose avant que je lui donne du poids : l’un de ses deux bouts à un degré d’une planète ou d’un angle natal, et autre chose de déjà actif à cet endroit. Celles de 2029 et 2030, éclipsées, suivent la règle des éclipses : à environ trois degrés d’un point natal, lues à travers ce point et sa maison, et jamais comme un présage. La page des [éclipses lunaires](/astrology/lunar-eclipses/) explique pourquoi l’ombre de la Terre atteint parfois une pleine lune et parfois la manque.
 
 La partie de votre vie qu’elle touche dépend des maisons qu’occupent le Sagittaire et le Capricorne dans votre thème, et pour cela il me faut [votre heure de naissance](/blog/unknown-birth-time/#ce-que-l-heure-decide).
 
@@ -72,4 +72,4 @@ La partie de votre vie qu’elle touche dépend des maisons qu’occupent le Sag
 - **« La Lune des fraises est rouge. »** Elle porte le nom du fruit. Basse dans le ciel, elle peut paraître dorée ou rosée, comme toute pleine lune près de l’horizon.
 - **« C’est la pleine lune du solstice. »** Parfois de près, jamais par définition : en 2028, elle arrive deux semaines avant le solstice, en 2026 une semaine après.
 - **« C’est un nom très ancien. »** La liste de Carver, en 1778, avait une Lune chaude pour juin ; les fraises sont celles de l’almanach.
-- **« Une Lune des fraises éclipsée est un mauvais signe. »** Une éclipse, c’est l’ombre de la Terre sur la Lune. J’y lis un accent mis sur une partie d’un thème, jamais un présage.
+- **« Une Lune des fraises éclipsée est un mauvais signe. »** Une éclipse, c’est l’ombre de la Terre sur la Lune, et dans un thème elle marque un accent là où elle tombe, pas un présage.

@@ -36,7 +36,7 @@ The Strawberry moon is the full moon of June, named in the almanacs for the berr
 
 ## What it is {#what-it-is}
 
-It comes between the [Flower moon](/astrology/flower-moon/) of May and the [Buck moon](/astrology/buck-moon/) of July, and like every [full moon](/astrology/full-moon/) it is the Moon directly opposite the Sun. Its dates in Universal Time:
+June's [full moon](/astrology/full-moon/) is the one that rides lowest over Europe and North America, opposite the high midsummer Sun. In the almanacs' year it follows the [Flower moon](/astrology/flower-moon/) and precedes the [Buck moon](/astrology/buck-moon/). Its dates in Universal Time:
 
 - **2026:** 29 June, 23:57 UT, at 8°15′ Capricorn
 - **2027:** 19 June, 00:45 UT, at 27°33′ Sagittarius
@@ -52,7 +52,7 @@ Two Strawberry moons in a row are eclipsed: totally in 2029, partly in 2030. The
 
 ## How it works {#how-it-works}
 
-This name is younger than several of its neighbours. When Jonathan Carver listed twelve moons in his *Travels Through the Interior Parts of North-America* (1778), his June was the Hot Moon. The strawberries come to us through the Maine Farmer's Almanac, which began printing names for each month's full moon in the 1930s. NASA's full moon guide gives the almanac's reason: the season for picking strawberries in the north-east is short, and it comes in June.
+This name is younger than several of its neighbours. When Jonathan Carver listed twelve moons in his *Travels Through the Interior Parts of North-America* (1778), his June was the Hot Moon. The strawberries come to us through the Maine Farmer's Almanac, which began printing names for each month's full moon in the 1930s. The almanac's reason, as NASA's full moon guide gives it: the season for picking strawberries in the north-east is short, and it comes in June.
 
 NASA's guide adds names from elsewhere. The Rose Moon may come from the roses that bloom in June, or from the reddish colour of the Moon when it's low; the guide gives both explanations. An old European name for the same moon is the Mead or Honey Moon. Every one of them describes the season, not the Moon's nature.
 
@@ -60,9 +60,9 @@ The name follows the month: whichever full moon falls in June takes it, eclipse 
 
 ## In a reading {#in-a-reading}
 
-The Strawberry moon is a folk and almanac name, and there's no astrology in the berries. What I read is the full moon underneath. In June it's either the [full moon in Sagittarius](/astrology/full-moon-in-sagittarius/), the Moon in Sagittarius with the Sun in Gemini, or the [full moon in Capricorn](/astrology/full-moon-in-capricorn/), the Moon in Capricorn with the Sun in Cancer. The second has a twist tradition notices: the Sun sits in the Moon's own sign, and the Moon in the sign opposite, Capricorn, its detriment. I read that as feelings held in a firmer frame, not as a weakness.
+There's no astrology in the berries: the Strawberry moon is a name from folklore and the almanacs. What I read is the full moon underneath. In June it's either the [full moon in Sagittarius](/astrology/full-moon-in-sagittarius/), the Moon in Sagittarius with the Sun in Gemini, or the [full moon in Capricorn](/astrology/full-moon-in-capricorn/), the Moon in Capricorn with the Sun in Cancer. The second has a twist tradition notices: the Sun sits in the Moon's own sign, and the Moon in the sign opposite, Capricorn, its detriment. I read that as feelings held in a firmer frame, not as a weakness.
 
-For an ordinary full moon, I need it within a degree of a planet or angle in your chart, at either end, and something else already active there before I give it any weight. The eclipsed ones of 2029 and 2030 follow the rule for eclipses: within about three degrees of a natal point, read through that point and its house, and never as an omen. The [lunar eclipses](/astrology/lunar-eclipses/) page explains why the Earth's shadow sometimes reaches a full moon and sometimes misses.
+An ordinary full moon needs contact before I give it any weight: one of its two ends within a degree of a natal planet or angle, and something else already active there. The eclipsed ones of 2029 and 2030 follow the rule for eclipses: within about three degrees of a natal point, read through that point and its house, and never as an omen. The [lunar eclipses](/astrology/lunar-eclipses/) page explains why the Earth's shadow sometimes reaches a full moon and sometimes misses.
 
 Which part of your life it touches depends on the houses Sagittarius and Capricorn hold in your chart, and for that I need [your birth time](/blog/unknown-birth-time/#what-the-time-decides).
 
@@ -71,4 +71,4 @@ Which part of your life it touches depends on the houses Sagittarius and Caprico
 - **“The Strawberry moon is red.”** It's named for the fruit. Low in the sky, it can look golden or rosy, as any full moon near the horizon can.
 - **“It's the full moon of the solstice.”** Sometimes close, never by definition: in 2028 it comes two weeks before the solstice, in 2026 a week after.
 - **“The name is an ancient one.”** Carver's list of 1778 had a Hot Moon for June; the strawberries are the almanac's.
-- **“An eclipsed Strawberry moon is a bad sign.”** An eclipse is the Earth's shadow on the Moon. I read it as emphasis on one part of a chart, never as a portent.
+- **“An eclipsed Strawberry moon is a bad sign.”** An eclipse is the Earth's shadow on the Moon, and in a chart it marks emphasis where it lands, not a portent.

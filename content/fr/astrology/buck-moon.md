@@ -37,7 +37,7 @@ La Lune du cerf est la pleine lune de juillet, nommée pour les nouveaux bois de
 
 ## Ce que c’est {#ce-que-c-est}
 
-Elle tombe entre la [Lune des fraises](/astrology/strawberry-moon/) de juin et la [Lune de l’esturgeon](/astrology/sturgeon-moon/) d’août. Comme pour toute [pleine lune](/astrology/full-moon/), la Lune se tient en face du Soleil, éclairée sur toute sa face. Ses dates en temps universel (TU) :
+Au milieu de l’été des almanachs, après la [Lune des fraises](/astrology/strawberry-moon/) et avant la [Lune de l’esturgeon](/astrology/sturgeon-moon/), la [pleine lune](/astrology/full-moon/) de juillet fait face à un Soleil en Cancer ou en Lion. En temps universel (TU), les prochaines Lunes du cerf tombent :
 
 - **2026 :** 29 juillet, 14 h 36 TU, à 6°30′ Verseau
 - **2027 :** 18 juillet, 15 h 45 TU, à 25°49′ Capricorne, une éclipse de Lune par la pénombre
@@ -51,17 +51,17 @@ Les éclipses sont l’œuvre des nœuds. En 2027, les nœuds de la Lune travers
 
 ## Comment ça marche {#comment-ca-marche}
 
-Le cerf fait partie des noms qui remontent à Jonathan Carver. Dans ses *Travels Through the Interior Parts of North-America* (1778), la cinquième de ses douze lunes, comptées à partir de mars, est la Lune du cerf. Il présente ses noms comme ceux des « Indiens », sans dire quel peuple les employait.
+Le cerf fait partie des noms qui remontent à Jonathan Carver. Dans ses *Travels Through the Interior Parts of North-America* (1778), la cinquième de ses douze lunes, comptées à partir de mars, est la Lune du cerf. Comme le reste de sa liste, il est attribué aux « Indiens » en général, sans qu’aucun peuple soit nommé.
 
-Le *Maine Farmer’s Almanac* l’a repris dans les années 1930, quand il a commencé à donner un nom à la pleine lune de chaque mois, et le guide des pleines lunes de la NASA en transmet l’explication : le début de l’été est le moment où les nouveaux bois des cerfs mâles sortent de leur front, couverts d’un velours de poils fins. Le même guide donne deux autres noms pour juillet : la Lune du tonnerre, pour les orages du début de l’été, et la Lune des foins.
+Repris dans les années 1930 par le *Maine Farmer’s Almanac*, avec un nom pour chaque mois, il s’accompagne d’une explication que transmet le guide de la NASA : le début de l’été est le moment où les nouveaux bois des cerfs mâles sortent de leur front, couverts d’un velours de poils fins. Le même guide donne deux autres noms pour juillet : la Lune du tonnerre, pour les orages du début de l’été, et la Lune des foins.
 
 Le mois fait la règle. La pleine lune qui tombe en juillet est la Lune du cerf, quel que soit son signe, éclipsée ou non.
 
 ## Dans une lecture {#dans-une-lecture}
 
-La Lune du cerf est un nom populaire et d’almanach, pas de l’astrologie, et les bois de cerf n’ont pas leur place dans un thème. Je lis la pleine lune sous le nom, dans son signe : la [pleine lune en Capricorne](/astrology/full-moon-in-capricorn/), la Lune en Capricorne et le Soleil en Cancer, ou la [pleine lune en Verseau](/astrology/full-moon-in-aquarius/), la Lune en Verseau et le Soleil en Lion.
+Comme nom, la Lune du cerf appartient aux almanachs et au folklore, pas à l’astrologie, et les bois de cerf n’ont pas leur place dans un thème. Je lis la pleine lune sous le nom, dans son signe : la [pleine lune en Capricorne](/astrology/full-moon-in-capricorn/), face à un Soleil en Cancer, ou la [pleine lune en Verseau](/astrology/full-moon-in-aquarius/), face à un Soleil en Lion.
 
-À elle seule, une pleine lune pèse peu dans mes lectures. Elle n’atteint un thème qu’à un degré d’une planète ou d’un angle natal, au bout de la Lune ou à celui du Soleil, et alors comme un bref moment de mise au point dans une période qu’un mouvement plus lent, un transit ou une progression, a déjà ouverte. Les Lunes du cerf de 2027 et de 2028 sont des éclipses, et une éclipse compte plus largement, à environ trois degrés d’un point natal. Même alors, je la lis à travers ce point et sa maison : un accent sur une partie d’une vie, jamais un présage. Une éclipse par la pénombre comme celle de 2027 pèse moins qu’une éclipse partielle comme celle de 2028.
+À elle seule, une pleine lune pèse peu dans mes lectures. Elle n’atteint un thème que si l’un de ses deux bouts, le degré de la Lune ou celui du Soleil, arrive à un degré d’une planète ou d’un angle natal, et alors comme un bref moment de mise au point dans une période qu’un mouvement plus lent, un transit ou une progression, a déjà ouverte. Les Lunes du cerf de 2027 et de 2028 sont des éclipses, et une éclipse compte plus largement, à environ trois degrés d’un point natal. Même alors, je la lis à travers ce point et sa maison : un accent sur une partie d’une vie, jamais un présage. Une éclipse par la pénombre comme celle de 2027 pèse moins qu’une éclipse partielle comme celle de 2028.
 
 La maison qu’elle éclaire demande votre heure de naissance ; le reste, c’est [ma façon de lire](/how-i-read/) : des tendances, jamais un destin.
 
@@ -70,4 +70,3 @@ La maison qu’elle éclaire demande votre heure de naissance ; le reste, c’
 - **« La Lune du cerf, c’est quand les cerfs perdent leurs bois. »** C’est l’inverse : dans le récit de l’almanach, juillet est le moment où les nouveaux bois poussent, encore en velours.
 - **« La Lune du cerf est toujours en Capricorne. »** Elle l’est en 2027, 2028 et 2030 ; en 2026 et 2029, elle tombe en Verseau.
 - **« Les éclipses de 2027 et 2028 sont des avertissements. »** Une éclipse, c’est l’ombre de la Terre qui tombe sur une pleine lune proche d’un nœud. J’y lis un accent, jamais un présage.
-- **« Le nom dit ce que signifie la pleine lune. »** Ce sont son signe, son degré et la maison où elle tombe qui le disent, et ils changent chaque année.

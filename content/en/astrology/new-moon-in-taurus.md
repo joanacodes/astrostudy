@@ -52,7 +52,7 @@ A new moon is brief, and I keep it in proportion. It counts in a birth chart onl
 
 ## House by house {#house-by-house}
 
-Where Taurus opens a house, the new moon in Taurus usually lands in it; if Taurus runs across two houses, its exact degree settles which. You'll need [your birth time](/blog/unknown-birth-time/) to know: I use Placidus houses.
+From 2026 to 2030 the new moon in Taurus falls anywhere between 5° and 26° of the sign, so where Taurus spans two of your houses, it can visit both in different years. Which houses those are takes [your birth time](/blog/unknown-birth-time/); I use Placidus houses.
 
 1. **[1st house](/astrology/taurus-rising/):** Taurus rising: a steadier way of carrying yourself; settling into your own pace and your own body.
 2. **[2nd house](/astrology/taurus-on-2nd-house-cusp/):** earnings, belongings, self-worth; a patient start on what you want to keep and what you're worth to yourself.

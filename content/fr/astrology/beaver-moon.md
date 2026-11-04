@@ -37,7 +37,7 @@ La Lune du castor est la pleine lune de novembre dans le calendrier des almanach
 
 ## Ce que c’est {#ce-que-c-est}
 
-Elle vient après la [Lune du chasseur](/astrology/hunters-moon/) et avant la [Lune froide](/astrology/cold-moon/) de décembre, et comme toute [pleine lune](/astrology/full-moon/), c’est la Lune en face du Soleil, sa face entièrement éclairée. Ses dates, en temps universel (TU) :
+La [Lune du chasseur](/astrology/hunters-moon/) la précède et la [Lune froide](/astrology/cold-moon/) de décembre la suit ; entre les deux, la [pleine lune](/astrology/full-moon/) de novembre fait face à un Soleil en Scorpion ou, tout à la fin du mois, en Sagittaire. Les voici, en temps universel (TU) :
 
 - **2026 :** 24 novembre, 14 h 54 TU, à 2°20′ Gémeaux
 - **2027 :** 14 novembre, 3 h 26 TU, à 21°31′ Taureau
@@ -53,17 +53,17 @@ En 2028, la Lune du castor porte un second nom. Cette année-là, la Lune des mo
 
 ## Comment ça marche {#comment-ca-marche}
 
-Le castor remonte aux *Travels Through the Interior Parts of North-America* (1778) de Jonathan Carver, dont la liste de douze lunes, comptées à partir de mars, place la Lune du castor en neuvième. Carver donne ses noms comme ceux des « Indiens », sans dire de quel peuple il les tient.
+Le castor remonte aux *Travels Through the Interior Parts of North-America* (1778) de Jonathan Carver, dont la liste de douze lunes, comptées à partir de mars, place la Lune du castor en neuvième. Carver ne nomme aucun peuple comme source : sa liste est simplement celle des « Indiens ».
 
-Le *Maine Farmer’s Almanac* l’a repris quand il a commencé, dans les années 1930, à nommer la pleine lune de chaque mois, et le guide des pleines lunes de la NASA en propose deux lectures. Dans l’une, le milieu de l’automne était le moment de poser les pièges à castors avant que les marais ne gèlent, pour s’assurer des fourrures chaudes pour l’hiver. Dans l’autre, le nom vient de l’activité des castors à cette saison, qui se préparent au froid. Le guide ne tranche pas, et moi non plus. Il cite aussi la Lune du gel et la Lune des neiges, pour les premières gelées et les premières neiges du nord-est : le nom de Lune des neiges se retrouve ainsi en novembre comme en février.
+L’almanach du Maine l’a fait sien dans les années 1930, avec ses autres noms de mois, et la NASA, dans son guide des pleines lunes, en propose deux lectures. Dans l’une, le milieu de l’automne était le moment de poser les pièges à castors avant que les marais ne gèlent, pour s’assurer des fourrures chaudes pour l’hiver. Dans l’autre, le nom vient de l’activité des castors à cette saison, qui se préparent au froid. Le guide ne tranche pas, et moi non plus. Il cite aussi la Lune du gel et la Lune des neiges, pour les premières gelées et les premières neiges du nord-est : le nom de Lune des neiges se retrouve ainsi en novembre comme en février.
 
 La règle est celle du calendrier, avec une exception qui appartient à sa voisine : une année comme 2028, la pleine lune de novembre est aussi la Lune du chasseur.
 
 ## Dans une lecture {#dans-une-lecture}
 
-La Lune du castor est un nom populaire et d’almanach, pas de l’astrologie ; aucun castor ne construit quoi que ce soit dans votre thème. Ce que je lis, c’est la pleine lune, et en novembre c’est le plus souvent la [pleine lune en Taureau](/astrology/full-moon-in-taurus/), la Lune en Taureau face au Soleil en Scorpion. Dans l’ordre naturel du zodiaque, le Taureau est le signe de la maison 2 et le Scorpion celui de la maison 8 : beaucoup d’astrologues lisent cet axe comme la ligne entre ce qui est à vous et ce que vous partagez avec d’autres. En 2026, pourtant, c’est la [pleine lune en Gémeaux](/astrology/full-moon-in-gemini/), le Soleil en Sagittaire, un autre axe et une autre conversation.
+Les castors ne construisent rien dans un thème. Comme ses voisins, ce nom vient du folklore et des almanachs, pas de l’astrologie. Ce que je lis, c’est la pleine lune, et en novembre c’est le plus souvent la [pleine lune en Taureau](/astrology/full-moon-in-taurus/), la Lune en Taureau face au Soleil en Scorpion. Dans l’ordre naturel du zodiaque, le Taureau est le signe de la maison 2 et le Scorpion celui de la maison 8 : beaucoup d’astrologues lisent cet axe comme la ligne entre ce qui est à vous et ce que vous partagez avec d’autres. En 2026, pourtant, c’est la [pleine lune en Gémeaux](/astrology/full-moon-in-gemini/), le Soleil en Sagittaire, un autre axe et une autre conversation.
 
-Dans votre propre thème, les maisons naturelles laissent la place aux vraies, et une pleine lune demande un contact. Je la compte à moins d’un degré d’une planète ou d’un angle natal, au bout de la Lune ou à celui du Soleil : la Lune du castor de cette année atteint une planète à un degré de 2°20′ des Gémeaux ou du Sagittaire, et passe à côté des autres. Même quand elle touche quelque chose, je la lis comme une mise au point dans une période qu’un transit ou une progression a ouverte, jamais comme une nouvelle à elle seule.
+Dans votre propre thème, les maisons naturelles laissent la place aux vraies, et une pleine lune demande un contact. Je ne la compte que là où le degré de la Lune ou celui du Soleil tombe à moins d’un degré d’un point natal : la Lune du castor de cette année atteint une planète à un degré de 2°20′ des Gémeaux ou du Sagittaire, et passe à côté des autres. Même quand elle touche quelque chose, je la lis comme une mise au point dans une période qu’un transit ou une progression a ouverte, jamais comme une nouvelle à elle seule.
 
 La maison où elle tombe, qui demande votre heure de naissance, est l’endroit où elle se verrait, et cela fait partie de [ma façon de lire](/how-i-read/) chaque lunaison.
 
@@ -72,4 +72,3 @@ La maison où elle tombe, qui demande votre heure de naissance, est l’endroit 
 - **« La Lune du castor est toujours en Taureau. »** Le plus souvent, mais celle de 2026 tombe en Gémeaux, parce qu’elle arrive après l’entrée du Soleil en Sagittaire.
 - **« La Lune du castor et la Lune du chasseur sont toujours deux pleines lunes différentes. »** En 2028, c’est la même, le 2 novembre.
 - **« Tout le monde s’accorde sur l’origine du nom. »** Le guide de la NASA en donne deux explications, le piégeage et les préparatifs des castors eux-mêmes, et toutes deux parlent de la saison.
-- **« La pleine lune de novembre a un sens fixe. »** Son sens dans un thème vient de son signe, Taureau ou Gémeaux, et de la maison qu’elle éclaire.

@@ -33,11 +33,11 @@ sources:
   - { title: "Jonathan Carver, Travels Through the Interior Parts of North-America, in the Years 1766, 1767, and 1768 (Londres, 1778)", note: "sa Lune froide est celle de janvier ; son mois de décembre, la Lune de la chasse" }
   - { title: "Les dates de The Astro Study d’après la position des planètes", note: "les pleines lunes et les éclipses de 2026 à 2030, en temps universel" }
 ---
-La Lune froide est la dernière pleine lune de l’année des almanachs, celle de décembre, nommée pour la saison où l’hiver s’installe. Le nom relève du folklore, pas de l’astrologie, et pour une astrologue c’est une pleine lune en Gémeaux ou en Cancer, haute dans le ciel des nuits les plus longues.
+Dans les almanachs, la pleine lune de décembre s’appelle la Lune froide, pour le mois où l’hiver s’installe. L’astrologie n’a que faire du nom ; elle voit une pleine lune en Gémeaux ou en Cancer, haute dans le ciel des nuits les plus longues de l’année.
 
 ## Ce que c’est {#ce-que-c-est}
 
-Elle suit la [Lune du castor](/astrology/beaver-moon/) de novembre, et la [Lune du loup](/astrology/wolf-moon/) de janvier vient après elle. Comme toute [pleine lune](/astrology/full-moon/), c’est la Lune en face du Soleil. Ses dates, en temps universel (TU) :
+La [pleine lune](/astrology/full-moon/) de décembre ferme l’année des almanachs, après la [Lune du castor](/astrology/beaver-moon/) de novembre ; la [Lune du loup](/astrology/wolf-moon/) de janvier ouvre la suivante. En temps universel (TU), elles tombent :
 
 - **2026 :** 24 décembre, 1 h 28 TU, à 2°14′ Cancer
 - **2027 :** 13 décembre, 16 h 09 TU, à 21°25′ Gémeaux
@@ -53,7 +53,7 @@ La fin de la série sort de l’ordinaire. Décembre 2028 compte deux pleines lu
 
 ## Comment ça marche {#comment-ca-marche}
 
-Le froid a changé de mois en chemin. Dans les *Travels Through the Interior Parts of North-America* (1778) de Jonathan Carver, qui attribue ses noms de lunes aux « Indiens » sans nommer de peuple, la Lune froide est celle de janvier, et la lune de décembre est la Lune de la chasse. Quand le *Maine Farmer’s Almanac* a commencé, dans les années 1930, à donner un nom à la pleine lune de chaque mois, la Lune froide était devenue celle de décembre.
+Le froid a changé de mois en chemin. Dans les *Travels Through the Interior Parts of North-America* (1778) de Jonathan Carver, qui attribue ses noms de lunes aux « Indiens » sans nommer de peuple, la Lune froide est celle de janvier, et la lune de décembre est la Lune de la chasse. Le temps que le *Maine Farmer’s Almanac* nomme une pleine lune pour chaque mois, dans les années 1930, la Lune froide était devenue celle de décembre.
 
 Le guide des pleines lunes de la NASA donne les noms de décembre de l’almanach et leurs raisons. La Lune froide, pour le mois où le froid de l’hiver s’installe ; la Lune de la longue nuit, pour sa place près du solstice, la nuit la plus longue de l’année. D’Europe vient la Lune d’avant Yule, d’après la vieille fête du milieu de l’hiver du nord, aujourd’hui fondue dans Noël.
 
@@ -61,9 +61,9 @@ La règle est celle du mois : la pleine lune qui tombe en décembre est la Lune
 
 ## Dans une lecture {#dans-une-lecture}
 
-La Lune froide est un nom populaire et d’almanach, pas de l’astrologie, et le gel ne fait pas partie de votre thème. Ce que je lis, c’est la pleine lune : la [pleine lune en Gémeaux](/astrology/full-moon-in-gemini/), le Soleil en Sagittaire, la plupart de ces années, ou la [pleine lune en Cancer](/astrology/full-moon-in-cancer/), le Soleil en Capricorne, en 2026 et le 31 décembre 2028. En Cancer, la Lune est dans son propre signe, son domicile pour la tradition, avec le Soleil en face en Capricorne.
+Le gel ne fait pas partie de votre thème, et la Lune froide n’est pas un nom d’astrologie : il vient du folklore et des almanachs. Je lis la pleine lune qui se cache derrière : la [pleine lune en Gémeaux](/astrology/full-moon-in-gemini/), le Soleil en Sagittaire, la plupart de ces années, ou la [pleine lune en Cancer](/astrology/full-moon-in-cancer/), le Soleil en Capricorne, en 2026 et le 31 décembre 2028. En Cancer, la Lune est dans son propre signe, son domicile pour la tradition, avec le Soleil en face en Capricorne.
 
-Pour une pleine lune ordinaire, il me faut une planète ou un angle à moins d’un degré, à l’un ou l’autre bout de l’axe, et une raison déjà en place, un transit ou une progression sur le même point, avant d’en dire quoi que ce soit. Les Lunes froides éclipsées de 2028 et 2029 comptent à environ trois degrés d’un point natal, et celle de 2030, par la pénombre, compte moins. Je lis chacune à travers le point qu’elle atteint et la maison de ce point : un accent, jamais un présage, et encore moins une prévision pour l’année qui vient.
+Une nuit de décembre ordinaire, une pleine lune ne gagne sa place dans une lecture que par un contact, une planète ou un angle à moins d’un degré de l’un des bouts de son axe, et avec une raison déjà en place, un transit ou une progression sur le même point, avant d’en dire quoi que ce soit. Les Lunes froides éclipsées de 2028 et 2029 comptent à environ trois degrés d’un point natal, et celle de 2030, par la pénombre, compte moins. Je lis chacune à travers le point qu’elle atteint et la maison de ce point : un accent, jamais un présage, et encore moins une prévision pour l’année qui vient.
 
 La maison compte le plus, et elle demande votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
@@ -71,5 +71,4 @@ La maison compte le plus, et elle demande votre heure de naissance ([ce qui chan
 
 - **« La Lune froide apporte la nuit la plus froide de l’année. »** Elle porte le nom du mois où le froid s’installe, pas de la météo d’une nuit.
 - **« La Lune froide a toujours été celle de décembre. »** Dans la liste de Carver, en 1778, elle appartient à janvier ; l’almanach l’a déplacée.
-- **« Une éclipse totale le soir de la Saint-Sylvestre est un mauvais signe pour l’année. »** L’éclipse du 31 décembre 2028, c’est l’ombre de la Terre sur la Lune, lue à travers le thème qu’elle touche, jamais comme un présage.
-- **« Le nom lui donne un sens. »** Son sens dans un thème vient de son signe et de sa maison, Gémeaux ou Cancer, là où ils tombent chez vous.
+- **« Une éclipse totale le soir de la Saint-Sylvestre est un mauvais signe pour l’année. »** Le 31 décembre 2028, la Terre passe simplement entre le Soleil et la Lune. Je lis cette éclipse à travers le thème qu’elle touche, jamais comme un présage.

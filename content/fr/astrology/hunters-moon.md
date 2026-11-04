@@ -38,7 +38,7 @@ La Lune du chasseur se définit par une autre pleine lune : c’est la premièr
 
 ## Ce que c’est {#ce-que-c-est}
 
-Partez de la [Lune des moissons](/astrology/harvest-moon/), la pleine lune la plus proche de l’équinoxe de septembre. La [pleine lune](/astrology/full-moon/) suivante, environ 29 jours et demi plus tard, est la Lune du chasseur. Comme la Lune des moissons tombe entre le 8 septembre et le 8 octobre environ, la Lune du chasseur tombe entre le 7 octobre et le 7 novembre environ. Ses dates, en temps universel (TU) :
+Partez de la [Lune des moissons](/astrology/harvest-moon/), la pleine lune la plus proche de l’équinoxe de septembre. La [pleine lune](/astrology/full-moon/) suivante, environ 29 jours et demi plus tard, est la Lune du chasseur. Comme la Lune des moissons tombe entre le 8 septembre et le 8 octobre environ, la Lune du chasseur tombe entre le 7 octobre et le 7 novembre environ. En temps universel (TU), avec le signe de chacune :
 
 - **2026 :** 26 octobre, 4 h 12 TU, à 2°46′ Taureau
 - **2027 :** 15 octobre, 13 h 47 TU, à 21°59′ Bélier
@@ -60,7 +60,7 @@ La Lune du chasseur suit donc la Lune des moissons, pas le calendrier. Une anné
 
 ## Dans une lecture {#dans-une-lecture}
 
-La Lune du chasseur est un nom populaire, pas de l’astrologie, et je n’y lis aucune chasse. Je lis la pleine lune elle-même, qui selon cette règle est soit la [pleine lune en Bélier](/astrology/full-moon-in-aries/), le Soleil en Balance, soit la [pleine lune en Taureau](/astrology/full-moon-in-taurus/), le Soleil en Scorpion. Les années Taureau, en 2026 et en 2028, la Lune se trouve dans le signe que la tradition donne pour son exaltation, un signe où son besoin de stabilité et de réconfort se lit comme à son aise.
+Je ne lis de chasse dans aucun thème : la Lune du chasseur est un vieux nom de la campagne, pas un nom d’astrologie. Je lis la pleine lune elle-même, qui selon cette règle est soit la [pleine lune en Bélier](/astrology/full-moon-in-aries/), le Soleil en Balance, soit la [pleine lune en Taureau](/astrology/full-moon-in-taurus/), le Soleil en Scorpion. Les années Taureau, en 2026 et en 2028, la Lune se trouve dans le signe que la tradition donne pour son exaltation, un signe où son besoin de stabilité et de réconfort se lit comme à son aise.
 
 Quel que soit le signe, une pleine lune n’atteint votre thème que par contact : à moins d’un degré d’une planète ou d’un angle, du côté de la Lune ou de celui du Soleil. Une Lune du chasseur à 21°59′ du Bélier, comme en 2027, toucherait une planète vers 22° du Bélier ou de la Balance. Je la lis comme un moment qui met en lumière ce qu’un transit ou une progression travaille déjà à cet endroit, jamais comme une prévision à elle seule.
 

@@ -36,7 +36,7 @@ The Worm moon is the full moon of March, named in the almanacs for the end of wi
 
 ## What it is {#what-it-is}
 
-It's the third full moon of the almanacs' year, after the [Snow moon](/astrology/snow-moon/) and before the [Pink moon](/astrology/pink-moon/). Like every [full moon](/astrology/full-moon/), it is the Moon exactly opposite the Sun. Its dates, in Universal Time, with the Moon's sign and degree:
+In the almanacs' year it comes third, after the [Snow moon](/astrology/snow-moon/) and before the [Pink moon](/astrology/pink-moon/), and it straddles the end of winter. Its dates, in Universal Time, with the sign and degree of the [full moon](/astrology/full-moon/):
 
 - **2026:** 3 March, 11:38 UT, at 12°54′ Virgo, a total lunar eclipse
 - **2027:** 22 March, 10:44 UT, at 1°35′ Libra
@@ -58,7 +58,7 @@ The second story belongs to the Maine Farmer's Almanac, which began printing its
 
 ## In a reading {#in-a-reading}
 
-The Worm moon is a folk and almanac name, not astrology, and I don't read worms, crows or maple sap into a chart. I read the full moon, and in March that means one of two quite different axes. The [full moon in Virgo](/astrology/full-moon-in-virgo/) has the Sun in Pisces, across the Virgo–Pisces line; the [full moon in Libra](/astrology/full-moon-in-libra/) has the Sun in Aries, across the line that starts the zodiac. Two Worm moons a year apart can have almost nothing in common astrologically.
+Nothing in astrology is called the Worm moon: the name belongs to folklore and the almanacs, and I don't read worms, crows or maple sap into a chart. I read the full moon, and in March that means one of two quite different axes. The [full moon in Virgo](/astrology/full-moon-in-virgo/) has the Sun in Pisces, across the Virgo–Pisces line; the [full moon in Libra](/astrology/full-moon-in-libra/) has the Sun in Aries, across the line that starts the zodiac. Two Worm moons a year apart can have almost nothing in common astrologically.
 
 A full moon gets a light touch from me. It's a monthly marker, and it only counts on a point of your chart it reaches within a degree, on the Moon's side or the Sun's. When it does, I look for what else is working on that point, a transit, a progression or an eclipse, because a lunation brings into focus what is already active and starts nothing on its own. An eclipse such as the 2026 Worm moon has its own rule: it counts within about three degrees, and never as an omen.
 
@@ -69,4 +69,3 @@ The house it falls in, where Virgo or Libra sits in your chart, needs the time y
 - **“The Worm moon is named after earthworms.”** That's the almanac's story. Carver's worms, a century and a half earlier, came out of tree bark.
 - **“The Worm moon is the first full moon of spring.”** Only when it falls after the equinox, as in 2027 and 2029. In the other years it's the last full moon of winter.
 - **“The 2026 Worm moon eclipse was a warning.”** An eclipse is the Sun, the Earth and the Moon in line near a node. I read it through the chart it touches, as emphasis, never as an omen.
-- **“The name carries a meaning in astrology.”** Its meaning comes from its sign and house, which change from year to year.

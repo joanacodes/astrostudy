@@ -36,7 +36,7 @@ The Buck moon is the full moon of July, named for the bucks' new antlers in the 
 
 ## What it is {#what-it-is}
 
-It falls between the [Strawberry moon](/astrology/strawberry-moon/) of June and the [Sturgeon moon](/astrology/sturgeon-moon/) of August. As with any [full moon](/astrology/full-moon/), the Moon stands opposite the Sun, lit on its whole face. Its dates in Universal Time:
+Halfway through the almanacs' summer, after the [Strawberry moon](/astrology/strawberry-moon/) and before the [Sturgeon moon](/astrology/sturgeon-moon/), the July [full moon](/astrology/full-moon/) faces a Sun in Cancer or Leo. In Universal Time, the next Buck moons fall on:
 
 - **2026:** 29 July, 14:36 UT, at 6°30′ Aquarius
 - **2027:** 18 July, 15:45 UT, at 25°49′ Capricorn, a penumbral lunar eclipse
@@ -50,7 +50,7 @@ The eclipses are the nodes at work. In 2027 the Moon's nodes are crossing Leo an
 
 ## How it works {#how-it-works}
 
-The buck is one of the names that come down from Jonathan Carver. In his *Travels Through the Interior Parts of North-America* (1778), the fifth of his twelve moons, counted from March, is the Buck Moon. He offers the names as those of “the Indians”, and doesn't say which people used them.
+The buck is one of the names that come down from Jonathan Carver. In his *Travels Through the Interior Parts of North-America* (1778), the fifth of his twelve moons, counted from March, is the Buck Moon. Like the rest of his list, it is credited to “the Indians” in general, with no people named.
 
 The Maine Farmer's Almanac printed it again in the 1930s, when it began giving every month's full moon a name, and NASA's full moon guide passes on its explanation: early summer is when the new antlers of buck deer push out from their foreheads, in a coating of velvety fur. The same guide gives two other July names: the Thunder Moon, for early summer's thunderstorms, and the Hay Moon.
 
@@ -58,9 +58,9 @@ The month makes the rule. The full moon that falls in July is the Buck moon, wha
 
 ## In a reading {#in-a-reading}
 
-The Buck moon is a folk and almanac name, not astrology, and antlers have no place in a chart. I read the full moon under the name, in its sign: the [full moon in Capricorn](/astrology/full-moon-in-capricorn/), with the Moon in Capricorn and the Sun in Cancer, or the [full moon in Aquarius](/astrology/full-moon-in-aquarius/), with the Moon in Aquarius and the Sun in Leo.
+As names go, the Buck moon belongs to almanacs and folklore, not to astrology, and antlers have no place in a chart. I read the full moon under the name, in its sign: the [full moon in Capricorn](/astrology/full-moon-in-capricorn/), opposite a Sun in Cancer, or the [full moon in Aquarius](/astrology/full-moon-in-aquarius/), opposite a Sun in Leo.
 
-On its own, a full moon is a modest thing in my readings. It reaches a chart only within a degree of a natal planet or angle, at the Moon's end or the Sun's, and then as a short moment of focus inside a period some slower movement, a transit or a progression, has already opened. The 2027 and 2028 Buck moons are eclipses, and an eclipse counts more widely, within about three degrees of a natal point. Even then I read it through that point and its house: emphasis on one part of a life, never an omen. A penumbral eclipse like the 2027 one weighs less than a partial one like 2028's.
+On its own, a full moon is a modest thing in my readings. It reaches a chart only when one of its two ends, the Moon's degree or the Sun's, comes within a degree of a natal planet or angle, and then as a short moment of focus inside a period some slower movement, a transit or a progression, has already opened. The 2027 and 2028 Buck moons are eclipses, and an eclipse counts more widely, within about three degrees of a natal point. Even then I read it through that point and its house: emphasis on one part of a life, never an omen. A penumbral eclipse like the 2027 one weighs less than a partial one like 2028's.
 
 The house it lights needs your birth time; the rest is [how I read](/how-i-read/): tendencies, never fate.
 
@@ -69,4 +69,3 @@ The house it lights needs your birth time; the rest is [how I read](/how-i-read/
 - **“The Buck moon is when deer shed their antlers.”** It's the reverse: in the almanac's account, July is when the new antlers grow, still in velvet.
 - **“The Buck moon is always in Capricorn.”** It is in 2027, 2028 and 2030; in 2026 and 2029 it falls in Aquarius.
 - **“The 2027 and 2028 eclipses are warnings.”** An eclipse is the Earth's shadow falling on a full moon near a node. I read it as emphasis, never as a portent.
-- **“The name tells you what the full moon means.”** Its sign, its degree and the house it falls in do that, and they change every year.
