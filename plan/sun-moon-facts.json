@@ -1,0 +1,2310 @@
+{
+ "about": "Each pair of Sun sign and Moon sign, for births from 1 January 1930 to 31 December 2009 sampled every three hours. signsApart: how many signs the Moon is ahead of the Sun (0 = same sign, 6 = opposite signs). oneIn: about 1 person in N born then has the pair. moonAheadOfSunDegrees: the range of the Moon's distance ahead of the Sun (its elongation, 0° new moon, 180° full moon) such a birth can have. daysAfterNewMoon: the same range in days after the last new moon, at the mean lunar month of 29.53 days. phases: the share of such births in each of the eight phases of the lunar cycle (new 0–45°, crescent 45–90°, first quarter 90–135°, gibbous 135–180°, full 180–225°, disseminating 225–270°, last quarter 270–315°, balsamic 315–360°).",
+ "generated": "2026-11-04",
+ "pages": {
+  "sun-in-capricorn-moon-in-capricorn": {
+   "signsApart": 0,
+   "oneIn": 153,
+   "moonAheadOfSunDegrees": [
+    332,
+    30
+   ],
+   "daysAfterNewMoon": [
+    27.2,
+    2.4
+   ],
+   "phases": {
+    "new": 0.5,
+    "balsamic": 0.5
+   }
+  },
+  "sun-in-capricorn-moon-in-aquarius": {
+   "signsApart": 1,
+   "oneIn": 149,
+   "moonAheadOfSunDegrees": [
+    1,
+    59
+   ],
+   "daysAfterNewMoon": [
+    0.1,
+    4.8
+   ],
+   "phases": {
+    "new": 0.87,
+    "crescent": 0.13
+   }
+  },
+  "sun-in-capricorn-moon-in-pisces": {
+   "signsApart": 2,
+   "oneIn": 145,
+   "moonAheadOfSunDegrees": [
+    31,
+    89
+   ],
+   "daysAfterNewMoon": [
+    2.6,
+    7.3
+   ],
+   "phases": {
+    "new": 0.12,
+    "crescent": 0.88
+   }
+  },
+  "sun-in-capricorn-moon-in-aries": {
+   "signsApart": 3,
+   "oneIn": 145,
+   "moonAheadOfSunDegrees": [
+    61,
+    120
+   ],
+   "daysAfterNewMoon": [
+    5,
+    9.8
+   ],
+   "phases": {
+    "crescent": 0.49,
+    "first quarter": 0.51
+   }
+  },
+  "sun-in-capricorn-moon-in-taurus": {
+   "signsApart": 4,
+   "oneIn": 148,
+   "moonAheadOfSunDegrees": [
+    91,
+    148
+   ],
+   "daysAfterNewMoon": [
+    7.4,
+    12.2
+   ],
+   "phases": {
+    "first quarter": 0.87,
+    "gibbous": 0.13
+   }
+  },
+  "sun-in-capricorn-moon-in-gemini": {
+   "signsApart": 5,
+   "oneIn": 149,
+   "moonAheadOfSunDegrees": [
+    122,
+    180
+   ],
+   "daysAfterNewMoon": [
+    10,
+    14.8
+   ],
+   "phases": {
+    "first quarter": 0.12,
+    "gibbous": 0.88
+   }
+  },
+  "sun-in-capricorn-moon-in-cancer": {
+   "signsApart": 6,
+   "oneIn": 151,
+   "moonAheadOfSunDegrees": [
+    151,
+    209
+   ],
+   "daysAfterNewMoon": [
+    12.4,
+    17.2
+   ],
+   "phases": {
+    "gibbous": 0.5,
+    "full": 0.5
+   }
+  },
+  "sun-in-capricorn-moon-in-leo": {
+   "signsApart": 7,
+   "oneIn": 150,
+   "moonAheadOfSunDegrees": [
+    181,
+    239
+   ],
+   "daysAfterNewMoon": [
+    14.9,
+    19.6
+   ],
+   "phases": {
+    "full": 0.88,
+    "disseminating": 0.12
+   }
+  },
+  "sun-in-capricorn-moon-in-virgo": {
+   "signsApart": 8,
+   "oneIn": 146,
+   "moonAheadOfSunDegrees": [
+    210,
+    270
+   ],
+   "daysAfterNewMoon": [
+    17.3,
+    22.1
+   ],
+   "phases": {
+    "full": 0.13,
+    "disseminating": 0.87
+   }
+  },
+  "sun-in-capricorn-moon-in-libra": {
+   "signsApart": 9,
+   "oneIn": 147,
+   "moonAheadOfSunDegrees": [
+    241,
+    299
+   ],
+   "daysAfterNewMoon": [
+    19.7,
+    24.5
+   ],
+   "phases": {
+    "disseminating": 0.5,
+    "last quarter": 0.5
+   }
+  },
+  "sun-in-aquarius-moon-in-libra": {
+   "signsApart": 8,
+   "oneIn": 144,
+   "moonAheadOfSunDegrees": [
+    211,
+    269
+   ],
+   "daysAfterNewMoon": [
+    17.3,
+    22.1
+   ],
+   "phases": {
+    "full": 0.13,
+    "disseminating": 0.87
+   }
+  },
+  "sun-in-aquarius-moon-in-scorpio": {
+   "signsApart": 9,
+   "oneIn": 144,
+   "moonAheadOfSunDegrees": [
+    240,
+    298
+   ],
+   "daysAfterNewMoon": [
+    19.7,
+    24.5
+   ],
+   "phases": {
+    "disseminating": 0.5,
+    "last quarter": 0.5
+   }
+  },
+  "sun-in-aquarius-moon-in-sagittarius": {
+   "signsApart": 10,
+   "oneIn": 147,
+   "moonAheadOfSunDegrees": [
+    271,
+    329
+   ],
+   "daysAfterNewMoon": [
+    22.3,
+    27
+   ],
+   "phases": {
+    "last quarter": 0.87,
+    "balsamic": 0.13
+   }
+  },
+  "sun-in-aquarius-moon-in-capricorn": {
+   "signsApart": 11,
+   "oneIn": 151,
+   "moonAheadOfSunDegrees": [
+    300,
+    359
+   ],
+   "daysAfterNewMoon": [
+    24.6,
+    29.4
+   ],
+   "phases": {
+    "last quarter": 0.12,
+    "balsamic": 0.88
+   }
+  },
+  "sun-in-aquarius-moon-in-aquarius": {
+   "signsApart": 0,
+   "oneIn": 151,
+   "moonAheadOfSunDegrees": [
+    332,
+    30
+   ],
+   "daysAfterNewMoon": [
+    27.2,
+    2.4
+   ],
+   "phases": {
+    "new": 0.5,
+    "balsamic": 0.5
+   }
+  },
+  "sun-in-aquarius-moon-in-pisces": {
+   "signsApart": 1,
+   "oneIn": 148,
+   "moonAheadOfSunDegrees": [
+    0,
+    59
+   ],
+   "daysAfterNewMoon": [
+    0,
+    4.9
+   ],
+   "phases": {
+    "new": 0.87,
+    "crescent": 0.13
+   }
+  },
+  "sun-in-aquarius-moon-in-aries": {
+   "signsApart": 2,
+   "oneIn": 147,
+   "moonAheadOfSunDegrees": [
+    31,
+    89
+   ],
+   "daysAfterNewMoon": [
+    2.6,
+    7.3
+   ],
+   "phases": {
+    "new": 0.12,
+    "crescent": 0.88
+   }
+  },
+  "sun-in-aquarius-moon-in-taurus": {
+   "signsApart": 3,
+   "oneIn": 145,
+   "moonAheadOfSunDegrees": [
+    61,
+    119
+   ],
+   "daysAfterNewMoon": [
+    5,
+    9.8
+   ],
+   "phases": {
+    "crescent": 0.5,
+    "first quarter": 0.5
+   }
+  },
+  "sun-in-aquarius-moon-in-gemini": {
+   "signsApart": 4,
+   "oneIn": 148,
+   "moonAheadOfSunDegrees": [
+    91,
+    148
+   ],
+   "daysAfterNewMoon": [
+    7.5,
+    12.2
+   ],
+   "phases": {
+    "first quarter": 0.88,
+    "gibbous": 0.12
+   }
+  },
+  "sun-in-aquarius-moon-in-cancer": {
+   "signsApart": 5,
+   "oneIn": 149,
+   "moonAheadOfSunDegrees": [
+    121,
+    179
+   ],
+   "daysAfterNewMoon": [
+    10,
+    14.7
+   ],
+   "phases": {
+    "first quarter": 0.13,
+    "gibbous": 0.87
+   }
+  },
+  "sun-in-aquarius-moon-in-leo": {
+   "signsApart": 6,
+   "oneIn": 152,
+   "moonAheadOfSunDegrees": [
+    151,
+    209
+   ],
+   "daysAfterNewMoon": [
+    12.3,
+    17.2
+   ],
+   "phases": {
+    "gibbous": 0.5,
+    "full": 0.5
+   }
+  },
+  "sun-in-aquarius-moon-in-virgo": {
+   "signsApart": 7,
+   "oneIn": 151,
+   "moonAheadOfSunDegrees": [
+    182,
+    240
+   ],
+   "daysAfterNewMoon": [
+    14.9,
+    19.7
+   ],
+   "phases": {
+    "full": 0.88,
+    "disseminating": 0.12
+   }
+  },
+  "sun-in-pisces-moon-in-scorpio": {
+   "signsApart": 8,
+   "oneIn": 143,
+   "moonAheadOfSunDegrees": [
+    211,
+    269
+   ],
+   "daysAfterNewMoon": [
+    17.3,
+    22
+   ],
+   "phases": {
+    "full": 0.13,
+    "disseminating": 0.87
+   }
+  },
+  "sun-in-pisces-moon-in-sagittarius": {
+   "signsApart": 9,
+   "oneIn": 142,
+   "moonAheadOfSunDegrees": [
+    241,
+    299
+   ],
+   "daysAfterNewMoon": [
+    19.7,
+    24.5
+   ],
+   "phases": {
+    "disseminating": 0.5,
+    "last quarter": 0.5
+   }
+  },
+  "sun-in-pisces-moon-in-capricorn": {
+   "signsApart": 10,
+   "oneIn": 145,
+   "moonAheadOfSunDegrees": [
+    271,
+    329
+   ],
+   "daysAfterNewMoon": [
+    22.3,
+    27
+   ],
+   "phases": {
+    "last quarter": 0.88,
+    "balsamic": 0.12
+   }
+  },
+  "sun-in-pisces-moon-in-aquarius": {
+   "signsApart": 11,
+   "oneIn": 148,
+   "moonAheadOfSunDegrees": [
+    301,
+    358
+   ],
+   "daysAfterNewMoon": [
+    24.7,
+    29.4
+   ],
+   "phases": {
+    "last quarter": 0.12,
+    "balsamic": 0.88
+   }
+  },
+  "sun-in-pisces-moon-in-pisces": {
+   "signsApart": 0,
+   "oneIn": 149,
+   "moonAheadOfSunDegrees": [
+    332,
+    29
+   ],
+   "daysAfterNewMoon": [
+    27.2,
+    2.4
+   ],
+   "phases": {
+    "new": 0.5,
+    "balsamic": 0.5
+   }
+  },
+  "sun-in-pisces-moon-in-aries": {
+   "signsApart": 1,
+   "oneIn": 147,
+   "moonAheadOfSunDegrees": [
+    1,
+    59
+   ],
+   "daysAfterNewMoon": [
+    0,
+    4.8
+   ],
+   "phases": {
+    "new": 0.87,
+    "crescent": 0.13
+   }
+  },
+  "sun-in-pisces-moon-in-taurus": {
+   "signsApart": 2,
+   "oneIn": 145,
+   "moonAheadOfSunDegrees": [
+    31,
+    89
+   ],
+   "daysAfterNewMoon": [
+    2.5,
+    7.3
+   ],
+   "phases": {
+    "new": 0.12,
+    "crescent": 0.88
+   }
+  },
+  "sun-in-pisces-moon-in-gemini": {
+   "signsApart": 3,
+   "oneIn": 143,
+   "moonAheadOfSunDegrees": [
+    60,
+    119
+   ],
+   "daysAfterNewMoon": [
+    5,
+    9.8
+   ],
+   "phases": {
+    "crescent": 0.5,
+    "first quarter": 0.5
+   }
+  },
+  "sun-in-pisces-moon-in-cancer": {
+   "signsApart": 4,
+   "oneIn": 146,
+   "moonAheadOfSunDegrees": [
+    90,
+    148
+   ],
+   "daysAfterNewMoon": [
+    7.4,
+    12.2
+   ],
+   "phases": {
+    "first quarter": 0.88,
+    "gibbous": 0.12
+   }
+  },
+  "sun-in-pisces-moon-in-leo": {
+   "signsApart": 5,
+   "oneIn": 149,
+   "moonAheadOfSunDegrees": [
+    122,
+    179
+   ],
+   "daysAfterNewMoon": [
+    10,
+    14.7
+   ],
+   "phases": {
+    "first quarter": 0.12,
+    "gibbous": 0.88
+   }
+  },
+  "sun-in-pisces-moon-in-virgo": {
+   "signsApart": 6,
+   "oneIn": 149,
+   "moonAheadOfSunDegrees": [
+    151,
+    209
+   ],
+   "daysAfterNewMoon": [
+    12.4,
+    17.1
+   ],
+   "phases": {
+    "gibbous": 0.51,
+    "full": 0.49
+   }
+  },
+  "sun-in-pisces-moon-in-libra": {
+   "signsApart": 7,
+   "oneIn": 149,
+   "moonAheadOfSunDegrees": [
+    181,
+    239
+   ],
+   "daysAfterNewMoon": [
+    14.8,
+    19.6
+   ],
+   "phases": {
+    "full": 0.88,
+    "disseminating": 0.12
+   }
+  },
+  "sun-in-aries-moon-in-sagittarius": {
+   "signsApart": 8,
+   "oneIn": 142,
+   "moonAheadOfSunDegrees": [
+    210,
+    269
+   ],
+   "daysAfterNewMoon": [
+    17.3,
+    22.1
+   ],
+   "phases": {
+    "full": 0.13,
+    "disseminating": 0.87
+   }
+  },
+  "sun-in-aries-moon-in-capricorn": {
+   "signsApart": 9,
+   "oneIn": 139,
+   "moonAheadOfSunDegrees": [
+    242,
+    299
+   ],
+   "daysAfterNewMoon": [
+    19.8,
+    24.5
+   ],
+   "phases": {
+    "disseminating": 0.5,
+    "last quarter": 0.5
+   }
+  },
+  "sun-in-aries-moon-in-aquarius": {
+   "signsApart": 10,
+   "oneIn": 142,
+   "moonAheadOfSunDegrees": [
+    271,
+    329
+   ],
+   "daysAfterNewMoon": [
+    22.2,
+    27
+   ],
+   "phases": {
+    "last quarter": 0.87,
+    "balsamic": 0.13
+   }
+  },
+  "sun-in-aries-moon-in-pisces": {
+   "signsApart": 11,
+   "oneIn": 146,
+   "moonAheadOfSunDegrees": [
+    301,
+    359
+   ],
+   "daysAfterNewMoon": [
+    24.7,
+    29.5
+   ],
+   "phases": {
+    "last quarter": 0.13,
+    "balsamic": 0.87
+   }
+  },
+  "sun-in-aries-moon-in-aries": {
+   "signsApart": 0,
+   "oneIn": 147,
+   "moonAheadOfSunDegrees": [
+    331,
+    29
+   ],
+   "daysAfterNewMoon": [
+    27.2,
+    2.4
+   ],
+   "phases": {
+    "new": 0.5,
+    "balsamic": 0.5
+   }
+  },
+  "sun-in-aries-moon-in-taurus": {
+   "signsApart": 1,
+   "oneIn": 145,
+   "moonAheadOfSunDegrees": [
+    1,
+    59
+   ],
+   "daysAfterNewMoon": [
+    0.1,
+    4.8
+   ],
+   "phases": {
+    "new": 0.87,
+    "crescent": 0.13
+   }
+  },
+  "sun-in-aries-moon-in-gemini": {
+   "signsApart": 2,
+   "oneIn": 143,
+   "moonAheadOfSunDegrees": [
+    31,
+    89
+   ],
+   "daysAfterNewMoon": [
+    2.5,
+    7.3
+   ],
+   "phases": {
+    "new": 0.12,
+    "crescent": 0.88
+   }
+  },
+  "sun-in-aries-moon-in-cancer": {
+   "signsApart": 3,
+   "oneIn": 141,
+   "moonAheadOfSunDegrees": [
+    60,
+    120
+   ],
+   "daysAfterNewMoon": [
+    5,
+    9.8
+   ],
+   "phases": {
+    "crescent": 0.5,
+    "first quarter": 0.5
+   }
+  },
+  "sun-in-aries-moon-in-leo": {
+   "signsApart": 4,
+   "oneIn": 142,
+   "moonAheadOfSunDegrees": [
+    91,
+    149
+   ],
+   "daysAfterNewMoon": [
+    7.5,
+    12.2
+   ],
+   "phases": {
+    "first quarter": 0.88,
+    "gibbous": 0.12
+   }
+  },
+  "sun-in-aries-moon-in-virgo": {
+   "signsApart": 5,
+   "oneIn": 146,
+   "moonAheadOfSunDegrees": [
+    121,
+    179
+   ],
+   "daysAfterNewMoon": [
+    9.9,
+    14.7
+   ],
+   "phases": {
+    "first quarter": 0.12,
+    "gibbous": 0.88
+   }
+  },
+  "sun-in-aries-moon-in-libra": {
+   "signsApart": 6,
+   "oneIn": 146,
+   "moonAheadOfSunDegrees": [
+    151,
+    208
+   ],
+   "daysAfterNewMoon": [
+    12.4,
+    17.1
+   ],
+   "phases": {
+    "gibbous": 0.5,
+    "full": 0.5
+   }
+  },
+  "sun-in-aries-moon-in-scorpio": {
+   "signsApart": 7,
+   "oneIn": 147,
+   "moonAheadOfSunDegrees": [
+    181,
+    239
+   ],
+   "daysAfterNewMoon": [
+    14.9,
+    19.6
+   ],
+   "phases": {
+    "full": 0.88,
+    "disseminating": 0.12
+   }
+  },
+  "sun-in-taurus-moon-in-capricorn": {
+   "signsApart": 8,
+   "oneIn": 143,
+   "moonAheadOfSunDegrees": [
+    212,
+    269
+   ],
+   "daysAfterNewMoon": [
+    17.4,
+    22.1
+   ],
+   "phases": {
+    "full": 0.12,
+    "disseminating": 0.88
+   }
+  },
+  "sun-in-taurus-moon-in-aquarius": {
+   "signsApart": 9,
+   "oneIn": 138,
+   "moonAheadOfSunDegrees": [
+    240,
+    299
+   ],
+   "daysAfterNewMoon": [
+    19.7,
+    24.5
+   ],
+   "phases": {
+    "disseminating": 0.51,
+    "last quarter": 0.49
+   }
+  },
+  "sun-in-taurus-moon-in-pisces": {
+   "signsApart": 10,
+   "oneIn": 138,
+   "moonAheadOfSunDegrees": [
+    270,
+    329
+   ],
+   "daysAfterNewMoon": [
+    22.2,
+    27
+   ],
+   "phases": {
+    "last quarter": 0.87,
+    "balsamic": 0.13
+   }
+  },
+  "sun-in-taurus-moon-in-aries": {
+   "signsApart": 11,
+   "oneIn": 142,
+   "moonAheadOfSunDegrees": [
+    301,
+    359
+   ],
+   "daysAfterNewMoon": [
+    24.7,
+    29.5
+   ],
+   "phases": {
+    "last quarter": 0.13,
+    "balsamic": 0.87
+   }
+  },
+  "sun-in-taurus-moon-in-taurus": {
+   "signsApart": 0,
+   "oneIn": 144,
+   "moonAheadOfSunDegrees": [
+    331,
+    29
+   ],
+   "daysAfterNewMoon": [
+    27.1,
+    2.4
+   ],
+   "phases": {
+    "new": 0.51,
+    "balsamic": 0.49
+   }
+  },
+  "sun-in-taurus-moon-in-gemini": {
+   "signsApart": 1,
+   "oneIn": 144,
+   "moonAheadOfSunDegrees": [
+    1,
+    60
+   ],
+   "daysAfterNewMoon": [
+    0.1,
+    4.9
+   ],
+   "phases": {
+    "new": 0.88,
+    "crescent": 0.12
+   }
+  },
+  "sun-in-taurus-moon-in-cancer": {
+   "signsApart": 2,
+   "oneIn": 141,
+   "moonAheadOfSunDegrees": [
+    31,
+    90
+   ],
+   "daysAfterNewMoon": [
+    2.6,
+    7.3
+   ],
+   "phases": {
+    "new": 0.12,
+    "crescent": 0.88
+   }
+  },
+  "sun-in-taurus-moon-in-leo": {
+   "signsApart": 3,
+   "oneIn": 140,
+   "moonAheadOfSunDegrees": [
+    61,
+    120
+   ],
+   "daysAfterNewMoon": [
+    5,
+    9.8
+   ],
+   "phases": {
+    "crescent": 0.5,
+    "first quarter": 0.5
+   }
+  },
+  "sun-in-taurus-moon-in-virgo": {
+   "signsApart": 4,
+   "oneIn": 139,
+   "moonAheadOfSunDegrees": [
+    91,
+    149
+   ],
+   "daysAfterNewMoon": [
+    7.5,
+    12.2
+   ],
+   "phases": {
+    "first quarter": 0.88,
+    "gibbous": 0.12
+   }
+  },
+  "sun-in-taurus-moon-in-libra": {
+   "signsApart": 5,
+   "oneIn": 143,
+   "moonAheadOfSunDegrees": [
+    120,
+    179
+   ],
+   "daysAfterNewMoon": [
+    9.9,
+    14.7
+   ],
+   "phases": {
+    "first quarter": 0.13,
+    "gibbous": 0.87
+   }
+  },
+  "sun-in-taurus-moon-in-scorpio": {
+   "signsApart": 6,
+   "oneIn": 143,
+   "moonAheadOfSunDegrees": [
+    151,
+    210
+   ],
+   "daysAfterNewMoon": [
+    12.4,
+    17.2
+   ],
+   "phases": {
+    "gibbous": 0.5,
+    "full": 0.5
+   }
+  },
+  "sun-in-taurus-moon-in-sagittarius": {
+   "signsApart": 7,
+   "oneIn": 143,
+   "moonAheadOfSunDegrees": [
+    181,
+    239
+   ],
+   "daysAfterNewMoon": [
+    14.9,
+    19.6
+   ],
+   "phases": {
+    "full": 0.88,
+    "disseminating": 0.12
+   }
+  },
+  "sun-in-gemini-moon-in-pisces": {
+   "signsApart": 9,
+   "oneIn": 139,
+   "moonAheadOfSunDegrees": [
+    241,
+    299
+   ],
+   "daysAfterNewMoon": [
+    19.8,
+    24.5
+   ],
+   "phases": {
+    "disseminating": 0.5,
+    "last quarter": 0.5
+   }
+  },
+  "sun-in-gemini-moon-in-aries": {
+   "signsApart": 10,
+   "oneIn": 138,
+   "moonAheadOfSunDegrees": [
+    272,
+    329
+   ],
+   "daysAfterNewMoon": [
+    22.3,
+    27
+   ],
+   "phases": {
+    "last quarter": 0.87,
+    "balsamic": 0.13
+   }
+  },
+  "sun-in-gemini-moon-in-taurus": {
+   "signsApart": 11,
+   "oneIn": 139,
+   "moonAheadOfSunDegrees": [
+    300,
+    359
+   ],
+   "daysAfterNewMoon": [
+    24.6,
+    29.4
+   ],
+   "phases": {
+    "last quarter": 0.13,
+    "balsamic": 0.87
+   }
+  },
+  "sun-in-gemini-moon-in-gemini": {
+   "signsApart": 0,
+   "oneIn": 142,
+   "moonAheadOfSunDegrees": [
+    331,
+    28
+   ],
+   "daysAfterNewMoon": [
+    27.2,
+    2.3
+   ],
+   "phases": {
+    "new": 0.5,
+    "balsamic": 0.5
+   }
+  },
+  "sun-in-gemini-moon-in-cancer": {
+   "signsApart": 1,
+   "oneIn": 141,
+   "moonAheadOfSunDegrees": [
+    2,
+    59
+   ],
+   "daysAfterNewMoon": [
+    0.1,
+    4.9
+   ],
+   "phases": {
+    "new": 0.88,
+    "crescent": 0.12
+   }
+  },
+  "sun-in-gemini-moon-in-leo": {
+   "signsApart": 2,
+   "oneIn": 138,
+   "moonAheadOfSunDegrees": [
+    31,
+    89
+   ],
+   "daysAfterNewMoon": [
+    2.6,
+    7.3
+   ],
+   "phases": {
+    "new": 0.12,
+    "crescent": 0.88
+   }
+  },
+  "sun-in-gemini-moon-in-virgo": {
+   "signsApart": 3,
+   "oneIn": 139,
+   "moonAheadOfSunDegrees": [
+    61,
+    120
+   ],
+   "daysAfterNewMoon": [
+    5,
+    9.8
+   ],
+   "phases": {
+    "crescent": 0.5,
+    "first quarter": 0.5
+   }
+  },
+  "sun-in-gemini-moon-in-libra": {
+   "signsApart": 4,
+   "oneIn": 140,
+   "moonAheadOfSunDegrees": [
+    91,
+    148
+   ],
+   "daysAfterNewMoon": [
+    7.5,
+    12.2
+   ],
+   "phases": {
+    "first quarter": 0.88,
+    "gibbous": 0.12
+   }
+  },
+  "sun-in-gemini-moon-in-scorpio": {
+   "signsApart": 5,
+   "oneIn": 141,
+   "moonAheadOfSunDegrees": [
+    120,
+    179
+   ],
+   "daysAfterNewMoon": [
+    9.9,
+    14.7
+   ],
+   "phases": {
+    "first quarter": 0.13,
+    "gibbous": 0.87
+   }
+  },
+  "sun-in-gemini-moon-in-sagittarius": {
+   "signsApart": 6,
+   "oneIn": 141,
+   "moonAheadOfSunDegrees": [
+    151,
+    210
+   ],
+   "daysAfterNewMoon": [
+    12.4,
+    17.2
+   ],
+   "phases": {
+    "gibbous": 0.5,
+    "full": 0.5
+   }
+  },
+  "sun-in-gemini-moon-in-capricorn": {
+   "signsApart": 7,
+   "oneIn": 140,
+   "moonAheadOfSunDegrees": [
+    181,
+    238
+   ],
+   "daysAfterNewMoon": [
+    14.8,
+    19.6
+   ],
+   "phases": {
+    "full": 0.87,
+    "disseminating": 0.13
+   }
+  },
+  "sun-in-gemini-moon-in-aquarius": {
+   "signsApart": 8,
+   "oneIn": 140,
+   "moonAheadOfSunDegrees": [
+    211,
+    269
+   ],
+   "daysAfterNewMoon": [
+    17.3,
+    22.1
+   ],
+   "phases": {
+    "full": 0.13,
+    "disseminating": 0.87
+   }
+  },
+  "sun-in-cancer-moon-in-taurus": {
+   "signsApart": 10,
+   "oneIn": 140,
+   "moonAheadOfSunDegrees": [
+    272,
+    329
+   ],
+   "daysAfterNewMoon": [
+    22.3,
+    27
+   ],
+   "phases": {
+    "last quarter": 0.88,
+    "balsamic": 0.12
+   }
+  },
+  "sun-in-cancer-moon-in-gemini": {
+   "signsApart": 11,
+   "oneIn": 139,
+   "moonAheadOfSunDegrees": [
+    301,
+    359
+   ],
+   "daysAfterNewMoon": [
+    24.7,
+    29.4
+   ],
+   "phases": {
+    "last quarter": 0.13,
+    "balsamic": 0.87
+   }
+  },
+  "sun-in-cancer-moon-in-cancer": {
+   "signsApart": 0,
+   "oneIn": 142,
+   "moonAheadOfSunDegrees": [
+    332,
+    29
+   ],
+   "daysAfterNewMoon": [
+    27.2,
+    2.4
+   ],
+   "phases": {
+    "new": 0.5,
+    "balsamic": 0.5
+   }
+  },
+  "sun-in-cancer-moon-in-leo": {
+   "signsApart": 1,
+   "oneIn": 139,
+   "moonAheadOfSunDegrees": [
+    1,
+    60
+   ],
+   "daysAfterNewMoon": [
+    0.1,
+    4.9
+   ],
+   "phases": {
+    "new": 0.87,
+    "crescent": 0.13
+   }
+  },
+  "sun-in-cancer-moon-in-virgo": {
+   "signsApart": 2,
+   "oneIn": 138,
+   "moonAheadOfSunDegrees": [
+    31,
+    89
+   ],
+   "daysAfterNewMoon": [
+    2.5,
+    7.3
+   ],
+   "phases": {
+    "new": 0.12,
+    "crescent": 0.88
+   }
+  },
+  "sun-in-cancer-moon-in-libra": {
+   "signsApart": 3,
+   "oneIn": 137,
+   "moonAheadOfSunDegrees": [
+    61,
+    119
+   ],
+   "daysAfterNewMoon": [
+    5,
+    9.8
+   ],
+   "phases": {
+    "crescent": 0.5,
+    "first quarter": 0.5
+   }
+  },
+  "sun-in-cancer-moon-in-scorpio": {
+   "signsApart": 4,
+   "oneIn": 139,
+   "moonAheadOfSunDegrees": [
+    91,
+    149
+   ],
+   "daysAfterNewMoon": [
+    7.5,
+    12.2
+   ],
+   "phases": {
+    "first quarter": 0.88,
+    "gibbous": 0.12
+   }
+  },
+  "sun-in-cancer-moon-in-sagittarius": {
+   "signsApart": 5,
+   "oneIn": 143,
+   "moonAheadOfSunDegrees": [
+    120,
+    179
+   ],
+   "daysAfterNewMoon": [
+    9.8,
+    14.7
+   ],
+   "phases": {
+    "first quarter": 0.12,
+    "gibbous": 0.88
+   }
+  },
+  "sun-in-cancer-moon-in-capricorn": {
+   "signsApart": 6,
+   "oneIn": 142,
+   "moonAheadOfSunDegrees": [
+    151,
+    209
+   ],
+   "daysAfterNewMoon": [
+    12.4,
+    17.2
+   ],
+   "phases": {
+    "gibbous": 0.51,
+    "full": 0.49
+   }
+  },
+  "sun-in-cancer-moon-in-aquarius": {
+   "signsApart": 7,
+   "oneIn": 140,
+   "moonAheadOfSunDegrees": [
+    180,
+    239
+   ],
+   "daysAfterNewMoon": [
+    14.8,
+    19.6
+   ],
+   "phases": {
+    "full": 0.87,
+    "disseminating": 0.13
+   }
+  },
+  "sun-in-cancer-moon-in-pisces": {
+   "signsApart": 8,
+   "oneIn": 137,
+   "moonAheadOfSunDegrees": [
+    211,
+    269
+   ],
+   "daysAfterNewMoon": [
+    17.3,
+    22.1
+   ],
+   "phases": {
+    "full": 0.13,
+    "disseminating": 0.87
+   }
+  },
+  "sun-in-cancer-moon-in-aries": {
+   "signsApart": 9,
+   "oneIn": 138,
+   "moonAheadOfSunDegrees": [
+    240,
+    298
+   ],
+   "daysAfterNewMoon": [
+    19.7,
+    24.5
+   ],
+   "phases": {
+    "disseminating": 0.5,
+    "last quarter": 0.5
+   }
+  },
+  "sun-in-leo-moon-in-gemini": {
+   "signsApart": 10,
+   "oneIn": 139,
+   "moonAheadOfSunDegrees": [
+    272,
+    329
+   ],
+   "daysAfterNewMoon": [
+    22.3,
+    27
+   ],
+   "phases": {
+    "last quarter": 0.88,
+    "balsamic": 0.12
+   }
+  },
+  "sun-in-leo-moon-in-cancer": {
+   "signsApart": 11,
+   "oneIn": 141,
+   "moonAheadOfSunDegrees": [
+    301,
+    359
+   ],
+   "daysAfterNewMoon": [
+    24.7,
+    29.5
+   ],
+   "phases": {
+    "last quarter": 0.12,
+    "balsamic": 0.88
+   }
+  },
+  "sun-in-leo-moon-in-leo": {
+   "signsApart": 0,
+   "oneIn": 142,
+   "moonAheadOfSunDegrees": [
+    330,
+    29
+   ],
+   "daysAfterNewMoon": [
+    27.1,
+    2.4
+   ],
+   "phases": {
+    "new": 0.5,
+    "balsamic": 0.5
+   }
+  },
+  "sun-in-leo-moon-in-virgo": {
+   "signsApart": 1,
+   "oneIn": 141,
+   "moonAheadOfSunDegrees": [
+    1,
+    59
+   ],
+   "daysAfterNewMoon": [
+    0.1,
+    4.9
+   ],
+   "phases": {
+    "new": 0.87,
+    "crescent": 0.13
+   }
+  },
+  "sun-in-leo-moon-in-libra": {
+   "signsApart": 2,
+   "oneIn": 140,
+   "moonAheadOfSunDegrees": [
+    31,
+    89
+   ],
+   "daysAfterNewMoon": [
+    2.5,
+    7.3
+   ],
+   "phases": {
+    "new": 0.12,
+    "crescent": 0.88
+   }
+  },
+  "sun-in-leo-moon-in-scorpio": {
+   "signsApart": 3,
+   "oneIn": 137,
+   "moonAheadOfSunDegrees": [
+    61,
+    119
+   ],
+   "daysAfterNewMoon": [
+    5,
+    9.8
+   ],
+   "phases": {
+    "crescent": 0.5,
+    "first quarter": 0.5
+   }
+  },
+  "sun-in-leo-moon-in-sagittarius": {
+   "signsApart": 4,
+   "oneIn": 137,
+   "moonAheadOfSunDegrees": [
+    91,
+    149
+   ],
+   "daysAfterNewMoon": [
+    7.5,
+    12.2
+   ],
+   "phases": {
+    "first quarter": 0.88,
+    "gibbous": 0.12
+   }
+  },
+  "sun-in-leo-moon-in-capricorn": {
+   "signsApart": 5,
+   "oneIn": 143,
+   "moonAheadOfSunDegrees": [
+    120,
+    180
+   ],
+   "daysAfterNewMoon": [
+    9.9,
+    14.7
+   ],
+   "phases": {
+    "first quarter": 0.12,
+    "gibbous": 0.88
+   }
+  },
+  "sun-in-leo-moon-in-aquarius": {
+   "signsApart": 6,
+   "oneIn": 143,
+   "moonAheadOfSunDegrees": [
+    151,
+    209
+   ],
+   "daysAfterNewMoon": [
+    12.4,
+    17.2
+   ],
+   "phases": {
+    "gibbous": 0.5,
+    "full": 0.5
+   }
+  },
+  "sun-in-leo-moon-in-pisces": {
+   "signsApart": 7,
+   "oneIn": 144,
+   "moonAheadOfSunDegrees": [
+    181,
+    239
+   ],
+   "daysAfterNewMoon": [
+    14.8,
+    19.6
+   ],
+   "phases": {
+    "full": 0.88,
+    "disseminating": 0.12
+   }
+  },
+  "sun-in-leo-moon-in-aries": {
+   "signsApart": 8,
+   "oneIn": 137,
+   "moonAheadOfSunDegrees": [
+    211,
+    269
+   ],
+   "daysAfterNewMoon": [
+    17.3,
+    22.1
+   ],
+   "phases": {
+    "full": 0.13,
+    "disseminating": 0.87
+   }
+  },
+  "sun-in-leo-moon-in-taurus": {
+   "signsApart": 9,
+   "oneIn": 137,
+   "moonAheadOfSunDegrees": [
+    240,
+    299
+   ],
+   "daysAfterNewMoon": [
+    19.7,
+    24.5
+   ],
+   "phases": {
+    "disseminating": 0.5,
+    "last quarter": 0.5
+   }
+  },
+  "sun-in-virgo-moon-in-leo": {
+   "signsApart": 11,
+   "oneIn": 143,
+   "moonAheadOfSunDegrees": [
+    302,
+    360
+   ],
+   "daysAfterNewMoon": [
+    24.7,
+    29.5
+   ],
+   "phases": {
+    "last quarter": 0.13,
+    "balsamic": 0.87
+   }
+  },
+  "sun-in-virgo-moon-in-virgo": {
+   "signsApart": 0,
+   "oneIn": 143,
+   "moonAheadOfSunDegrees": [
+    331,
+    29
+   ],
+   "daysAfterNewMoon": [
+    27.1,
+    2.4
+   ],
+   "phases": {
+    "new": 0.5,
+    "balsamic": 0.5
+   }
+  },
+  "sun-in-virgo-moon-in-libra": {
+   "signsApart": 1,
+   "oneIn": 141,
+   "moonAheadOfSunDegrees": [
+    0,
+    60
+   ],
+   "daysAfterNewMoon": [
+    0,
+    4.9
+   ],
+   "phases": {
+    "new": 0.87,
+    "crescent": 0.13
+   }
+  },
+  "sun-in-virgo-moon-in-scorpio": {
+   "signsApart": 2,
+   "oneIn": 143,
+   "moonAheadOfSunDegrees": [
+    31,
+    89
+   ],
+   "daysAfterNewMoon": [
+    2.6,
+    7.3
+   ],
+   "phases": {
+    "new": 0.12,
+    "crescent": 0.88
+   }
+  },
+  "sun-in-virgo-moon-in-sagittarius": {
+   "signsApart": 3,
+   "oneIn": 140,
+   "moonAheadOfSunDegrees": [
+    61,
+    120
+   ],
+   "daysAfterNewMoon": [
+    5,
+    9.8
+   ],
+   "phases": {
+    "crescent": 0.5,
+    "first quarter": 0.5
+   }
+  },
+  "sun-in-virgo-moon-in-capricorn": {
+   "signsApart": 4,
+   "oneIn": 139,
+   "moonAheadOfSunDegrees": [
+    91,
+    149
+   ],
+   "daysAfterNewMoon": [
+    7.4,
+    12.2
+   ],
+   "phases": {
+    "first quarter": 0.87,
+    "gibbous": 0.13
+   }
+  },
+  "sun-in-virgo-moon-in-aquarius": {
+   "signsApart": 5,
+   "oneIn": 142,
+   "moonAheadOfSunDegrees": [
+    120,
+    179
+   ],
+   "daysAfterNewMoon": [
+    9.9,
+    14.7
+   ],
+   "phases": {
+    "first quarter": 0.13,
+    "gibbous": 0.87
+   }
+  },
+  "sun-in-virgo-moon-in-pisces": {
+   "signsApart": 6,
+   "oneIn": 144,
+   "moonAheadOfSunDegrees": [
+    150,
+    209
+   ],
+   "daysAfterNewMoon": [
+    12.3,
+    17.2
+   ],
+   "phases": {
+    "gibbous": 0.49,
+    "full": 0.51
+   }
+  },
+  "sun-in-virgo-moon-in-aries": {
+   "signsApart": 7,
+   "oneIn": 145,
+   "moonAheadOfSunDegrees": [
+    181,
+    239
+   ],
+   "daysAfterNewMoon": [
+    14.8,
+    19.6
+   ],
+   "phases": {
+    "full": 0.88,
+    "disseminating": 0.12
+   }
+  },
+  "sun-in-virgo-moon-in-taurus": {
+   "signsApart": 8,
+   "oneIn": 142,
+   "moonAheadOfSunDegrees": [
+    211,
+    269
+   ],
+   "daysAfterNewMoon": [
+    17.3,
+    22.1
+   ],
+   "phases": {
+    "full": 0.12,
+    "disseminating": 0.88
+   }
+  },
+  "sun-in-virgo-moon-in-gemini": {
+   "signsApart": 9,
+   "oneIn": 139,
+   "moonAheadOfSunDegrees": [
+    241,
+    299
+   ],
+   "daysAfterNewMoon": [
+    19.7,
+    24.5
+   ],
+   "phases": {
+    "disseminating": 0.5,
+    "last quarter": 0.5
+   }
+  },
+  "sun-in-virgo-moon-in-cancer": {
+   "signsApart": 10,
+   "oneIn": 140,
+   "moonAheadOfSunDegrees": [
+    271,
+    330
+   ],
+   "daysAfterNewMoon": [
+    22.2,
+    27
+   ],
+   "phases": {
+    "last quarter": 0.88,
+    "balsamic": 0.12
+   }
+  },
+  "sun-in-libra-moon-in-libra": {
+   "signsApart": 0,
+   "oneIn": 146,
+   "moonAheadOfSunDegrees": [
+    332,
+    30
+   ],
+   "daysAfterNewMoon": [
+    27.2,
+    2.4
+   ],
+   "phases": {
+    "new": 0.5,
+    "balsamic": 0.5
+   }
+  },
+  "sun-in-libra-moon-in-scorpio": {
+   "signsApart": 1,
+   "oneIn": 144,
+   "moonAheadOfSunDegrees": [
+    0,
+    58
+   ],
+   "daysAfterNewMoon": [
+    0,
+    4.8
+   ],
+   "phases": {
+    "new": 0.87,
+    "crescent": 0.13
+   }
+  },
+  "sun-in-libra-moon-in-sagittarius": {
+   "signsApart": 2,
+   "oneIn": 143,
+   "moonAheadOfSunDegrees": [
+    31,
+    90
+   ],
+   "daysAfterNewMoon": [
+    2.5,
+    7.4
+   ],
+   "phases": {
+    "new": 0.12,
+    "crescent": 0.88
+   }
+  },
+  "sun-in-libra-moon-in-capricorn": {
+   "signsApart": 3,
+   "oneIn": 144,
+   "moonAheadOfSunDegrees": [
+    61,
+    119
+   ],
+   "daysAfterNewMoon": [
+    5,
+    9.8
+   ],
+   "phases": {
+    "crescent": 0.49,
+    "first quarter": 0.51
+   }
+  },
+  "sun-in-libra-moon-in-aquarius": {
+   "signsApart": 4,
+   "oneIn": 144,
+   "moonAheadOfSunDegrees": [
+    90,
+    150
+   ],
+   "daysAfterNewMoon": [
+    7.4,
+    12.3
+   ],
+   "phases": {
+    "first quarter": 0.87,
+    "gibbous": 0.13
+   }
+  },
+  "sun-in-libra-moon-in-pisces": {
+   "signsApart": 5,
+   "oneIn": 144,
+   "moonAheadOfSunDegrees": [
+    120,
+    179
+   ],
+   "daysAfterNewMoon": [
+    9.9,
+    14.7
+   ],
+   "phases": {
+    "first quarter": 0.13,
+    "gibbous": 0.87
+   }
+  },
+  "sun-in-libra-moon-in-aries": {
+   "signsApart": 6,
+   "oneIn": 147,
+   "moonAheadOfSunDegrees": [
+    151,
+    208
+   ],
+   "daysAfterNewMoon": [
+    12.4,
+    17.1
+   ],
+   "phases": {
+    "gibbous": 0.5,
+    "full": 0.5
+   }
+  },
+  "sun-in-libra-moon-in-taurus": {
+   "signsApart": 7,
+   "oneIn": 145,
+   "moonAheadOfSunDegrees": [
+    180,
+    240
+   ],
+   "daysAfterNewMoon": [
+    14.8,
+    19.7
+   ],
+   "phases": {
+    "full": 0.88,
+    "disseminating": 0.12
+   }
+  },
+  "sun-in-libra-moon-in-gemini": {
+   "signsApart": 8,
+   "oneIn": 145,
+   "moonAheadOfSunDegrees": [
+    211,
+    269
+   ],
+   "daysAfterNewMoon": [
+    17.3,
+    22.1
+   ],
+   "phases": {
+    "full": 0.12,
+    "disseminating": 0.88
+   }
+  },
+  "sun-in-libra-moon-in-cancer": {
+   "signsApart": 9,
+   "oneIn": 143,
+   "moonAheadOfSunDegrees": [
+    241,
+    300
+   ],
+   "daysAfterNewMoon": [
+    19.7,
+    24.6
+   ],
+   "phases": {
+    "disseminating": 0.5,
+    "last quarter": 0.5
+   }
+  },
+  "sun-in-libra-moon-in-leo": {
+   "signsApart": 10,
+   "oneIn": 143,
+   "moonAheadOfSunDegrees": [
+    271,
+    330
+   ],
+   "daysAfterNewMoon": [
+    22.2,
+    27
+   ],
+   "phases": {
+    "last quarter": 0.88,
+    "balsamic": 0.12
+   }
+  },
+  "sun-in-libra-moon-in-virgo": {
+   "signsApart": 11,
+   "oneIn": 145,
+   "moonAheadOfSunDegrees": [
+    301,
+    359
+   ],
+   "daysAfterNewMoon": [
+    24.7,
+    29.5
+   ],
+   "phases": {
+    "last quarter": 0.13,
+    "balsamic": 0.87
+   }
+  },
+  "sun-in-scorpio-moon-in-sagittarius": {
+   "signsApart": 1,
+   "oneIn": 146,
+   "moonAheadOfSunDegrees": [
+    1,
+    59
+   ],
+   "daysAfterNewMoon": [
+    0.1,
+    4.8
+   ],
+   "phases": {
+    "new": 0.87,
+    "crescent": 0.13
+   }
+  },
+  "sun-in-scorpio-moon-in-capricorn": {
+   "signsApart": 2,
+   "oneIn": 144,
+   "moonAheadOfSunDegrees": [
+    31,
+    89
+   ],
+   "daysAfterNewMoon": [
+    2.6,
+    7.3
+   ],
+   "phases": {
+    "new": 0.12,
+    "crescent": 0.88
+   }
+  },
+  "sun-in-scorpio-moon-in-aquarius": {
+   "signsApart": 3,
+   "oneIn": 146,
+   "moonAheadOfSunDegrees": [
+    61,
+    119
+   ],
+   "daysAfterNewMoon": [
+    5,
+    9.8
+   ],
+   "phases": {
+    "crescent": 0.5,
+    "first quarter": 0.5
+   }
+  },
+  "sun-in-scorpio-moon-in-pisces": {
+   "signsApart": 4,
+   "oneIn": 146,
+   "moonAheadOfSunDegrees": [
+    91,
+    149
+   ],
+   "daysAfterNewMoon": [
+    7.5,
+    12.2
+   ],
+   "phases": {
+    "first quarter": 0.88,
+    "gibbous": 0.12
+   }
+  },
+  "sun-in-scorpio-moon-in-aries": {
+   "signsApart": 5,
+   "oneIn": 147,
+   "moonAheadOfSunDegrees": [
+    121,
+    180
+   ],
+   "daysAfterNewMoon": [
+    9.9,
+    14.7
+   ],
+   "phases": {
+    "first quarter": 0.12,
+    "gibbous": 0.88
+   }
+  },
+  "sun-in-scorpio-moon-in-taurus": {
+   "signsApart": 6,
+   "oneIn": 149,
+   "moonAheadOfSunDegrees": [
+    151,
+    210
+   ],
+   "daysAfterNewMoon": [
+    12.4,
+    17.2
+   ],
+   "phases": {
+    "gibbous": 0.5,
+    "full": 0.5
+   }
+  },
+  "sun-in-scorpio-moon-in-gemini": {
+   "signsApart": 7,
+   "oneIn": 149,
+   "moonAheadOfSunDegrees": [
+    180,
+    239
+   ],
+   "daysAfterNewMoon": [
+    14.8,
+    19.6
+   ],
+   "phases": {
+    "full": 0.87,
+    "disseminating": 0.13
+   }
+  },
+  "sun-in-scorpio-moon-in-cancer": {
+   "signsApart": 8,
+   "oneIn": 145,
+   "moonAheadOfSunDegrees": [
+    211,
+    270
+   ],
+   "daysAfterNewMoon": [
+    17.3,
+    22.1
+   ],
+   "phases": {
+    "full": 0.12,
+    "disseminating": 0.88
+   }
+  },
+  "sun-in-scorpio-moon-in-leo": {
+   "signsApart": 9,
+   "oneIn": 145,
+   "moonAheadOfSunDegrees": [
+    241,
+    299
+   ],
+   "daysAfterNewMoon": [
+    19.8,
+    24.5
+   ],
+   "phases": {
+    "disseminating": 0.5,
+    "last quarter": 0.5
+   }
+  },
+  "sun-in-scorpio-moon-in-virgo": {
+   "signsApart": 10,
+   "oneIn": 147,
+   "moonAheadOfSunDegrees": [
+    271,
+    330
+   ],
+   "daysAfterNewMoon": [
+    22.3,
+    27.1
+   ],
+   "phases": {
+    "last quarter": 0.88,
+    "balsamic": 0.12
+   }
+  },
+  "sun-in-scorpio-moon-in-libra": {
+   "signsApart": 11,
+   "oneIn": 147,
+   "moonAheadOfSunDegrees": [
+    301,
+    359
+   ],
+   "daysAfterNewMoon": [
+    24.7,
+    29.5
+   ],
+   "phases": {
+    "last quarter": 0.13,
+    "balsamic": 0.87
+   }
+  },
+  "sun-in-scorpio-moon-in-scorpio": {
+   "signsApart": 0,
+   "oneIn": 150,
+   "moonAheadOfSunDegrees": [
+    331,
+    30
+   ],
+   "daysAfterNewMoon": [
+    27.1,
+    2.4
+   ],
+   "phases": {
+    "new": 0.49,
+    "balsamic": 0.51
+   }
+  },
+  "sun-in-sagittarius-moon-in-capricorn": {
+   "signsApart": 1,
+   "oneIn": 148,
+   "moonAheadOfSunDegrees": [
+    0,
+    60
+   ],
+   "daysAfterNewMoon": [
+    0,
+    4.9
+   ],
+   "phases": {
+    "new": 0.87,
+    "crescent": 0.13
+   }
+  },
+  "sun-in-sagittarius-moon-in-aquarius": {
+   "signsApart": 2,
+   "oneIn": 146,
+   "moonAheadOfSunDegrees": [
+    30,
+    89
+   ],
+   "daysAfterNewMoon": [
+    2.5,
+    7.3
+   ],
+   "phases": {
+    "new": 0.12,
+    "crescent": 0.88
+   }
+  },
+  "sun-in-sagittarius-moon-in-pisces": {
+   "signsApart": 3,
+   "oneIn": 147,
+   "moonAheadOfSunDegrees": [
+    61,
+    119
+   ],
+   "daysAfterNewMoon": [
+    5,
+    9.8
+   ],
+   "phases": {
+    "crescent": 0.49,
+    "first quarter": 0.51
+   }
+  },
+  "sun-in-sagittarius-moon-in-aries": {
+   "signsApart": 4,
+   "oneIn": 148,
+   "moonAheadOfSunDegrees": [
+    91,
+    149
+   ],
+   "daysAfterNewMoon": [
+    7.4,
+    12.2
+   ],
+   "phases": {
+    "first quarter": 0.88,
+    "gibbous": 0.12
+   }
+  },
+  "sun-in-sagittarius-moon-in-taurus": {
+   "signsApart": 5,
+   "oneIn": 150,
+   "moonAheadOfSunDegrees": [
+    120,
+    180
+   ],
+   "daysAfterNewMoon": [
+    9.9,
+    14.7
+   ],
+   "phases": {
+    "first quarter": 0.13,
+    "gibbous": 0.87
+   }
+  },
+  "sun-in-sagittarius-moon-in-gemini": {
+   "signsApart": 6,
+   "oneIn": 151,
+   "moonAheadOfSunDegrees": [
+    151,
+    209
+   ],
+   "daysAfterNewMoon": [
+    12.4,
+    17.1
+   ],
+   "phases": {
+    "gibbous": 0.5,
+    "full": 0.5
+   }
+  },
+  "sun-in-sagittarius-moon-in-cancer": {
+   "signsApart": 7,
+   "oneIn": 150,
+   "moonAheadOfSunDegrees": [
+    181,
+    239
+   ],
+   "daysAfterNewMoon": [
+    14.8,
+    19.6
+   ],
+   "phases": {
+    "full": 0.87,
+    "disseminating": 0.13
+   }
+  },
+  "sun-in-sagittarius-moon-in-leo": {
+   "signsApart": 8,
+   "oneIn": 147,
+   "moonAheadOfSunDegrees": [
+    211,
+    269
+   ],
+   "daysAfterNewMoon": [
+    17.3,
+    22.1
+   ],
+   "phases": {
+    "full": 0.12,
+    "disseminating": 0.88
+   }
+  },
+  "sun-in-sagittarius-moon-in-virgo": {
+   "signsApart": 9,
+   "oneIn": 146,
+   "moonAheadOfSunDegrees": [
+    241,
+    299
+   ],
+   "daysAfterNewMoon": [
+    19.8,
+    24.5
+   ],
+   "phases": {
+    "disseminating": 0.5,
+    "last quarter": 0.5
+   }
+  },
+  "sun-in-sagittarius-moon-in-libra": {
+   "signsApart": 10,
+   "oneIn": 149,
+   "moonAheadOfSunDegrees": [
+    272,
+    329
+   ],
+   "daysAfterNewMoon": [
+    22.3,
+    26.9
+   ],
+   "phases": {
+    "last quarter": 0.88,
+    "balsamic": 0.12
+   }
+  },
+  "sun-in-sagittarius-moon-in-scorpio": {
+   "signsApart": 11,
+   "oneIn": 149,
+   "moonAheadOfSunDegrees": [
+    300,
+    359
+   ],
+   "daysAfterNewMoon": [
+    24.6,
+    29.4
+   ],
+   "phases": {
+    "last quarter": 0.13,
+    "balsamic": 0.87
+   }
+  },
+  "sun-in-sagittarius-moon-in-sagittarius": {
+   "signsApart": 0,
+   "oneIn": 151,
+   "moonAheadOfSunDegrees": [
+    331,
+    29
+   ],
+   "daysAfterNewMoon": [
+    27.2,
+    2.4
+   ],
+   "phases": {
+    "new": 0.5,
+    "balsamic": 0.5
+   }
+  },
+  "sun-in-capricorn-moon-in-scorpio": {
+   "signsApart": 10,
+   "oneIn": 150,
+   "moonAheadOfSunDegrees": [
+    271,
+    329
+   ],
+   "daysAfterNewMoon": [
+    22.3,
+    27
+   ],
+   "phases": {
+    "last quarter": 0.88,
+    "balsamic": 0.12
+   }
+  },
+  "sun-in-capricorn-moon-in-sagittarius": {
+   "signsApart": 11,
+   "oneIn": 152,
+   "moonAheadOfSunDegrees": [
+    301,
+    359
+   ],
+   "daysAfterNewMoon": [
+    24.7,
+    29.4
+   ],
+   "phases": {
+    "last quarter": 0.12,
+    "balsamic": 0.88
+   }
+  }
+ }
+}

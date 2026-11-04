@@ -1,0 +1,90 @@
+{
+ "about": "How long the secondary progressed Moon stays in each sign. In secondary progressions one day of the sky after birth stands for one year of life, so the stay in years equals the days the Moon took to cross that sign after the birth: here every crossing from 1930 to 2009, measured hourly (shortest, median, longest).",
+ "generated": "2026-11-04",
+ "pages": {
+  "progressed-moon-in-aries": {
+   "years": {
+    "shortest": 2,
+    "median": 2.3,
+    "longest": 2.5
+   }
+  },
+  "progressed-moon-in-taurus": {
+   "years": {
+    "shortest": 2,
+    "median": 2.3,
+    "longest": 2.5
+   }
+  },
+  "progressed-moon-in-gemini": {
+   "years": {
+    "shortest": 2,
+    "median": 2.3,
+    "longest": 2.5
+   }
+  },
+  "progressed-moon-in-cancer": {
+   "years": {
+    "shortest": 2,
+    "median": 2.3,
+    "longest": 2.5
+   }
+  },
+  "progressed-moon-in-leo": {
+   "years": {
+    "shortest": 2,
+    "median": 2.3,
+    "longest": 2.6
+   }
+  },
+  "progressed-moon-in-virgo": {
+   "years": {
+    "shortest": 2,
+    "median": 2.3,
+    "longest": 2.6
+   }
+  },
+  "progressed-moon-in-libra": {
+   "years": {
+    "shortest": 2,
+    "median": 2.3,
+    "longest": 2.5
+   }
+  },
+  "progressed-moon-in-scorpio": {
+   "years": {
+    "shortest": 2,
+    "median": 2.3,
+    "longest": 2.5
+   }
+  },
+  "progressed-moon-in-sagittarius": {
+   "years": {
+    "shortest": 2,
+    "median": 2.3,
+    "longest": 2.5
+   }
+  },
+  "progressed-moon-in-capricorn": {
+   "years": {
+    "shortest": 2,
+    "median": 2.3,
+    "longest": 2.5
+   }
+  },
+  "progressed-moon-in-aquarius": {
+   "years": {
+    "shortest": 2,
+    "median": 2.3,
+    "longest": 2.5
+   }
+  },
+  "progressed-moon-in-pisces": {
+   "years": {
+    "shortest": 2,
+    "median": 2.3,
+    "longest": 2.5
+   }
+  }
+ }
+}

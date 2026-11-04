@@ -264,6 +264,118 @@ Title: the plan's (*Saturn in Aries*, *Chiron in the 7th house*); h1: *… in a 
 h1: *Aries rising* · *Ascendant Bélier*; glyph: *↑* then the sign's symbol. The rising sign needs the birth time (link the birth-time article). From `plan/rising-facts.json`, **how long the sign takes to rise** at London, Paris and New York (*Aries rises in about 52 minutes at London; Libra takes nearly three hours*), and what follows: a sign that rises fast is rising for fewer births, so a time rounded to the hour can miss it. The ruler is the chart ruler (both for Scorpio, Aquarius and Pisces). The Descendant is the opposite sign: one line, linked.
 - Facts keys: Sign · Ruler (the chart ruler) · Element and modality · Rising time (London) · Opposite sign (the Descendant). French: Signe · Maître (maître du thème) · Élément et mode · Durée de lever (Londres) · Signe opposé (le Descendant).
 
+### Sun and Moon signs together
+
+| | English | French |
+|---|---|---|
+| 1 | `## How they get along {#how-they-get-along}` | `## Comment ils s’accordent {#comment-ils-s-accordent}` |
+| 2 | `## In close relationships {#in-close-relationships}` | `## Dans les relations proches {#dans-les-relations-proches}` |
+| 3 | `## At work {#at-work}` | `## Au travail {#au-travail}` |
+| 4 | `## The hard part {#the-hard-part}` | `## Le plus difficile {#le-plus-difficile}` |
+
+Title: the plan's (*Sun in Aries, Moon in Taurus* · *Soleil en Bélier, Lune en Taureau*); h1: *… in a birth chart* · *… dans un thème natal*; `family: "combinations"`; glyph: *☉♈☽♉*.
+
+- **The grammar** (the AGS library): the Sun organises identity and direction, the Moon regulates feeling and need; each sign gives its own manner. The page is about the two manners meeting: what the Sun's sign aims for and how the Moon's sign looks after itself, and whether those agree.
+- **How they get along**: the two elements and modalities, and the signs' relation counted from the Sun's sign: same sign, one or two apart (neighbours, or a sextile by sign), three (a square by sign), four (a trine), five (a quincunx), six (opposite). The rulers (both, for Scorpio, Aquarius and Pisces), and any dignity: the Sun in Leo (domicile), Aries (exaltation), Aquarius (detriment), Libra (fall); the Moon in Cancer, Taurus, Capricorn, Scorpio in the same order.
+- **The phase at birth**, from `plan/sun-moon-facts.json`: the pair fixes how far ahead of the Sun the Moon was, so *you were born within about 2½ days of a new moon* (same sign), *5 to 10 days after a new moon, between the crescent and the first quarter* (three signs ahead), *near a full moon* (opposite signs). Link the phase pages (*new moon*, *first quarter moon*, *full moon*, *last quarter moon*, *balsamic moon*…) and *your birth lunar phase*.
+- **How common**: *about 1 person in 144*, from the same file, once.
+- **The birth time**: the Moon changes sign about every 2½ days, so on such a day the time decides the Moon's sign; link the birth-time article. With the rising sign, the two lights make the chart's first sketch, and none of the three is the whole chart.
+- In close relationships, at work: how the combination tends to show, never a sun-sign stereotype passed off as fact. The hard part: the friction between the two manners, gently, with what helps.
+- Facts keys: Sun sign · Moon sign · Elements · Modalities · Born near (the phase) · How common. French: Signe solaire · Signe lunaire · Éléments · Modes · Phase de naissance · Fréquence.
+- Sources: *Ptolemy, Tetrabiblos, book I* (signs, rulers, exaltations), *The Astro Study's count from the planets' positions, 1930–2009*, *Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)* (the phases).
+
+**Not junk, page by page.** The twelve pages of one Sun sign share none of their sentences, and neither do the twelve of one Moon sign. Say what these two signs do together that neither does with another.
+
+### House overlay (their body in your house)
+
+| | English | French |
+|---|---|---|
+| 1 | `## What it brings {#what-it-brings}` | `## Ce que ça apporte {#ce-que-ca-apporte}` |
+| 2 | `## Where it rubs {#where-it-rubs}` | `## Là où ça frotte {#la-ou-ca-frotte}` |
+| 3 | `## How to meet it {#how-to-meet-it}` | `## Comment le vivre {#comment-le-vivre}` |
+
+Title: the plan's (*Their Sun in your 1st house* · *Le Soleil de l’autre dans votre maison 1*); h1: *… in synastry* · *… en synastrie*; `family: "combinations"`; glyph: the body's symbol.
+
+- **The grammar**: the other person's body (its function, from the AGS library) lands in one of your houses (the area of life, from the house's page), and you tend to feel that part of your life lit or stirred by them. Read it **both ways round**: what you feel when their Sun is in your 1st, and what they feel there.
+- The house needs **your** birth time; their body needs only their birth date, except the Moon (about 13° a day) and anything near a cusp, where their time decides it too. *In Placidus, the house system I use*; link the birth-time article.
+- The house's type (angular, succedent, cadent) and natural sign; near an angle, the body also meets your Ascendant, IC, Descendant or Midheaven: one line.
+- A synastry reads every overlay in both directions: their planets in your houses, and yours in theirs. Read from the other side, this page is *your Sun in their 1st house*: say so once. Link the same body's neighbouring houses the plan lists.
+- The 5th, 6th, 8th and 12th never predict children, illness, death or confinement, in synastry either: link the ethics page the Voice section names. Consent: link *why I won't read a synastry behind someone's back* where it fits.
+- Facts keys: Their body · Your house · Type · Natural sign · Needs (*your birth time, and theirs for the Moon*). French: Corps de l’autre · Votre maison · Type · Signe naturel · Il faut.
+- Sources: *Vettius Valens, Anthology* (houses), *Ptolemy, Tetrabiblos, book I*.
+
+**Not junk, page by page.** No sentence fits another body or another house with the names swapped: this body's function in this house's area, felt from both sides.
+
+### Transit through a house
+
+| | English | French |
+|---|---|---|
+| 1 | `## What changes {#what-changes}` | `## Ce qui change {#ce-qui-change}` |
+| 2 | `## How long it lasts {#how-long-it-lasts}` | `## Combien de temps {#combien-de-temps}` |
+| 3 | `## What helps {#what-helps}` | `## Ce qui aide {#ce-qui-aide}` |
+
+Title: the plan's (*Saturn transiting the 7th house* · *Saturne en transit en maison 7*); h1: *Saturn transiting your 7th house* · *Saturne en transit dans votre maison 7*; `family: "combinations"`; glyph: the body's symbol.
+
+- **The grammar** (the AGS library's *transits*): the body in the sky now, moving through one of your natal houses, activates what is already in the chart; it doesn't create events. *Weather, not a forecast.*
+- **What changes**: the body's function at work in the house's area, for the length of the stay, and what it asks of you. Planets in that house when you were born are the first it meets: one line.
+- **How long it lasts**, from `plan/house-stay-facts.json`: how long the stay lasts in charts drawn at London's latitude (Placidus), the usual length and the range (*usually about 3 years, between about 2 and 4*); the house's own median when it differs; New York's figures when they add something. It depends on how big the house is in your chart, which depends on your birth time and latitude: link the birth-time article.
+- **In the sky now**: the signs it crosses from 2026 on, from `plan/sign-facts.json` (*Saturn is in Aries from February 2026 to April 2028*), so a reader with that sign on that house knows when it is theirs.
+- The North Node moves backwards: it reaches the 12th house after the 1st. I look at both nodes, mean and true. Chiron's stays vary most: its orbit is stretched.
+- The 5th, 6th, 8th and 12th never predict children, illness, death or confinement; money and legal outcomes are never predicted.
+- Facts keys: Body · House · Stay (*usually about …*) · In the sky (the current sign and its dates) · Needs (*your birth time*). French: Corps · Maison · Durée · Dans le ciel · Il faut.
+- Sources: *The Astro Study's count from the planets' positions* (the stays), *Vettius Valens, Anthology* (houses).
+
+### Retrograde in a sign
+
+| | English | French |
+|---|---|---|
+| 1 | `## What slows down {#what-slows-down}` | `## Ce qui ralentit {#ce-qui-ralentit}` |
+| 2 | `## House by house {#house-by-house}` | `## Maison par maison {#maison-par-maison}` |
+| 3 | `## What helps {#what-helps}` | `## Ce qui aide {#ce-qui-aide}` |
+
+Title: the plan's (*Mercury retrograde in Aries* · *Mercure rétrograde en Bélier*); h1: *When Mercury turns retrograde in Aries* · *Quand Mercure rétrograde en Bélier*; `family: "combinations"`; glyph: the planet's symbol, ℞ and the sign's (*☿℞♈*).
+
+- Retrograde is apparent motion: seen from Earth, the planet seems to back up through the zodiac (Mercury 3 or 4 times a year for about 3 weeks, Venus about every 18 months for about 6 weeks, Mars about every 2 years for about 2½ months). The function slows and turns back on itself, in this sign's manner.
+- **The dates**, from `plan/retrograde-facts.json`: the retrogrades from 2000 to 2040 that cover this sign, with the stations; the most recent and the next, and whether they stay in this sign or cross into the next one (*wholly*). Venus's retrogrades come back to nearly the same degrees every 8 years: say so when the list shows it.
+- **House by house**: one line per house, where it slows things for someone with this sign on that house. It needs the birth time (Placidus): link the birth-time article.
+- A planet born retrograde is a different matter: link *natal retrograde planets*.
+- Weather, not a forecast: no advice dressed up as rule (*never sign a contract*); never money or legal outcomes.
+- Facts keys: Planet · Sign · How often · Lasts · Most recent · Next. French: Planète · Signe · Fréquence · Durée · La plus récente · La prochaine.
+- Sources: *The Astro Study's dates from the planets' positions* (French: *Les dates de The Astro Study d’après la position des planètes*), *Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)*.
+
+### Eclipse in a sign
+
+| | English | French |
+|---|---|---|
+| 1 | `## What it stirs {#what-it-stirs}` | `## Ce qu’elle remue {#ce-qu-elle-remue}` |
+| 2 | `## House by house {#house-by-house}` | `## Maison par maison {#maison-par-maison}` |
+
+Title: the plan's (*Eclipse in Aries* · *Éclipse en Bélier*); h1: *Eclipses in Aries* · *Les éclipses en Bélier*; `family: "combinations"`; glyph: *●* then the sign's symbol.
+
+- An eclipse is a new or full moon close to the Moon's nodes. A solar eclipse in Aries has the Sun and Moon together in Aries; a lunar eclipse in Aries has the Moon in Aries and the Sun opposite, in Libra. Eclipses come in seasons along the nodes' axis, so this sign's eclipses alternate with its opposite's: name the axis.
+- The AGS library (*eclipses*): an eclipse counts only within about 3° of a natal point, at either end of its axis, read through that point and its house; a penumbral lunar eclipse weighs less; symbolic emphasis, never an omen.
+- **The dates**, from `plan/eclipse-facts.json`: the eclipses in this sign from 2000 to 2040, with their type; the most recent and the next.
+- **House by house**: one line per house. It needs the birth time (Placidus): link the birth-time article.
+- Weather, not a forecast; never health, death, money or legal outcomes.
+- Facts keys: Sign · Axis · Most recent · Next · From 2000 to 2040 (how many, solar and lunar). French: Signe · Axe · La plus récente · La prochaine · De 2000 à 2040.
+- Sources: *The Astro Study's dates from the planets' positions*, *Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)*.
+
+### Progressed Moon in a sign
+
+| | English | French |
+|---|---|---|
+| 1 | `## What it brings {#what-it-brings}` | `## Ce qu’elle apporte {#ce-qu-elle-apporte}` |
+| 2 | `## How long it lasts {#how-long-it-lasts}` | `## Combien de temps {#combien-de-temps}` |
+| 3 | `## What helps {#what-helps}` | `## Ce qui aide {#ce-qui-aide}` |
+
+Title: the plan's (*Progressed Moon in Aries* · *Lune progressée en Bélier*); h1: *The progressed Moon in Aries* · *La Lune progressée en Bélier*; `family: "combinations"`; glyph: *☽* then the sign's symbol.
+
+- Secondary progressions take one day of the sky after birth for one year of life (the AGS library's *secondary progressions*: symbolic time, inner development, never literal motion or guaranteed events). The progressed Moon is the fastest moving point in them: it marks the mood of a chapter.
+- **How long it lasts**, from `plan/progressed-moon-facts.json`: as many years as the Moon took days to cross the sign after your birth (*between 2 and 2½ years, usually about 2 years and 4 months*). Once round the zodiac takes about 27 years.
+- What it brings: the Moon's function (needs, comfort, feeling) in this sign's manner, for those years. Which house it crosses at the same time needs the birth time: link the birth-time article.
+- Facts keys: Point · Sign · Lasts · Round the zodiac (*about 27 years*). French: Point · Signe · Durée · Tour du zodiaque.
+- Sources: *The Astro Study's count from the planets' positions*; *Steven Forrest, The Changing Sky (1986)* (secondary progressions).
+
 ### Concept
 
 | | English | French |

@@ -1,0 +1,1146 @@
+{
+ "about": "Every solar and lunar eclipse from 1 January 2000 to 31 December 2040 (the moment of greatest eclipse, UT), with its type and degree. A solar eclipse is placed in the Sun's sign, a lunar eclipse in the Moon's (the Sun is opposite).",
+ "generated": "2026-11-04",
+ "pages": {
+  "eclipse-in-aries": [
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2004-04-19 13:34 UT",
+    "degree": "29°49′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2005-04-08 20:35 UT",
+    "degree": "19°06′"
+   },
+   {
+    "kind": "lunar",
+    "type": "partial",
+    "date": "2005-10-17 12:03 UT",
+    "degree": "24°07′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2006-03-29 10:11 UT",
+    "degree": "8°34′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2013-10-18 23:50 UT",
+    "degree": "25°51′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2014-10-08 10:54 UT",
+    "degree": "15°07′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2015-09-28 02:47 UT",
+    "degree": "4°38′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2023-04-20 04:16 UT",
+    "degree": "29°50′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2024-04-08 18:17 UT",
+    "degree": "19°23′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2025-03-29 10:47 UT",
+    "degree": "8°59′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2032-10-18 19:02 UT",
+    "degree": "25°59′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2033-03-30 18:01 UT",
+    "degree": "10°20′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2033-10-08 10:55 UT",
+    "degree": "15°27′"
+   },
+   {
+    "kind": "lunar",
+    "type": "partial",
+    "date": "2034-09-28 02:46 UT",
+    "degree": "4°58′"
+   }
+  ],
+  "eclipse-in-taurus": [
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2002-11-20 01:46 UT",
+    "degree": "27°39′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2003-11-09 01:18 UT",
+    "degree": "16°15′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2004-10-28 03:04 UT",
+    "degree": "5°00′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2013-05-10 00:25 UT",
+    "degree": "19°31′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2014-04-29 06:03 UT",
+    "degree": "8°51′"
+   },
+   {
+    "kind": "lunar",
+    "type": "partial",
+    "date": "2021-11-19 09:02 UT",
+    "degree": "27°17′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2022-04-30 20:41 UT",
+    "degree": "10°28′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2022-11-08 10:59 UT",
+    "degree": "15°59′"
+   },
+   {
+    "kind": "lunar",
+    "type": "partial",
+    "date": "2023-10-28 20:13 UT",
+    "degree": "5°03′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2031-10-30 07:45 UT",
+    "degree": "6°47′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2032-05-09 13:25 UT",
+    "degree": "19°28′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2040-05-11 03:41 UT",
+    "degree": "21°04′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2040-11-18 19:03 UT",
+    "degree": "27°01′"
+   }
+  ],
+  "eclipse-in-gemini": [
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2002-06-10 23:44 UT",
+    "degree": "19°54′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2003-05-31 04:08 UT",
+    "degree": "9°19′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2010-12-21 08:16 UT",
+    "degree": "29°22′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2011-06-01 21:16 UT",
+    "degree": "11°02′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2011-12-10 14:31 UT",
+    "degree": "18°08′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2012-05-20 23:52 UT",
+    "degree": "0°20′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2012-11-28 14:33 UT",
+    "degree": "6°40′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2020-11-30 09:42 UT",
+    "degree": "8°44′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2021-06-10 10:41 UT",
+    "degree": "19°46′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2029-06-12 04:04 UT",
+    "degree": "21°29′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2029-12-20 22:41 UT",
+    "degree": "29°18′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2030-06-01 06:27 UT",
+    "degree": "10°50′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2030-12-09 22:27 UT",
+    "degree": "17°47′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2031-05-21 07:14 UT",
+    "degree": "0°04′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2038-12-11 17:43 UT",
+    "degree": "19°52′"
+   },
+   {
+    "kind": "lunar",
+    "type": "partial",
+    "date": "2039-11-30 16:55 UT",
+    "degree": "8°22′"
+   }
+  ],
+  "eclipse-in-cancer": [
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2000-07-01 19:32 UT",
+    "degree": "10°14′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2001-01-09 20:20 UT",
+    "degree": "19°36′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2001-06-21 12:03 UT",
+    "degree": "0°10′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2001-12-30 10:29 UT",
+    "degree": "8°41′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2009-07-22 02:35 UT",
+    "degree": "29°26′"
+   },
+   {
+    "kind": "lunar",
+    "type": "partial",
+    "date": "2009-12-31 19:22 UT",
+    "degree": "10°21′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2010-07-11 19:33 UT",
+    "degree": "19°23′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2011-07-01 08:38 UT",
+    "degree": "9°11′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2018-07-13 03:01 UT",
+    "degree": "20°41′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2019-07-02 19:22 UT",
+    "degree": "10°37′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2020-01-10 19:10 UT",
+    "degree": "19°53′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2020-06-21 06:40 UT",
+    "degree": "0°21′"
+   },
+   {
+    "kind": "lunar",
+    "type": "partial",
+    "date": "2028-01-12 04:13 UT",
+    "degree": "21°33′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2028-07-22 02:55 UT",
+    "degree": "29°50′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2028-12-31 16:51 UT",
+    "degree": "10°34′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2029-07-11 15:36 UT",
+    "degree": "19°37′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2037-07-13 02:39 UT",
+    "degree": "21°04′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2038-07-02 13:31 UT",
+    "degree": "10°47′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2039-06-21 17:11 UT",
+    "degree": "0°12′"
+   }
+  ],
+  "eclipse-in-leo": [
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2000-01-21 04:43 UT",
+    "degree": "0°28′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2000-07-31 02:13 UT",
+    "degree": "8°11′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2008-08-01 10:21 UT",
+    "degree": "9°32′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2009-02-09 14:38 UT",
+    "degree": "20°52′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2017-02-11 00:43 UT",
+    "degree": "22°34′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2017-08-21 18:25 UT",
+    "degree": "28°52′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2018-01-31 13:29 UT",
+    "degree": "11°38′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2018-08-11 09:46 UT",
+    "degree": "18°41′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2019-01-21 05:12 UT",
+    "degree": "0°49′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2026-08-12 17:45 UT",
+    "degree": "20°02′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2027-08-02 10:06 UT",
+    "degree": "9°55′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2036-02-11 22:11 UT",
+    "degree": "22°47′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2036-07-23 10:30 UT",
+    "degree": "1°09′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2036-08-21 17:24 UT",
+    "degree": "29°13′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2037-01-31 14:00 UT",
+    "degree": "11°59′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2038-01-21 03:48 UT",
+    "degree": "1°05′"
+   }
+  ],
+  "eclipse-in-virgo": [
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2006-03-14 23:47 UT",
+    "degree": "24°20′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2006-09-22 11:40 UT",
+    "degree": "29°19′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2007-03-03 23:20 UT",
+    "degree": "13°01′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2007-09-11 12:31 UT",
+    "degree": "18°24′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2008-02-21 03:26 UT",
+    "degree": "1°50′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2015-09-13 06:54 UT",
+    "degree": "20°10′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2016-09-01 09:06 UT",
+    "degree": "9°21′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2025-03-14 06:58 UT",
+    "degree": "23°58′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2025-09-21 19:41 UT",
+    "degree": "29°04′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2026-03-03 11:33 UT",
+    "degree": "12°51′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2027-02-20 23:12 UT",
+    "degree": "1°58′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2034-09-12 16:18 UT",
+    "degree": "19°59′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2035-02-22 09:04 UT",
+    "degree": "3°39′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2035-09-02 01:55 UT",
+    "degree": "9°27′"
+   }
+  ],
+  "eclipse-in-libra": [
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2004-10-14 02:59 UT",
+    "degree": "21°06′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2005-10-03 10:31 UT",
+    "degree": "10°18′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2014-04-15 07:45 UT",
+    "degree": "25°17′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2015-04-04 12:00 UT",
+    "degree": "14°21′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2016-03-23 11:47 UT",
+    "degree": "3°10′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2023-10-14 17:59 UT",
+    "degree": "21°07′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2024-03-25 07:12 UT",
+    "degree": "5°13′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2024-10-02 18:44 UT",
+    "degree": "10°03′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2033-04-14 19:12 UT",
+    "degree": "25°06′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2033-09-23 13:53 UT",
+    "degree": "0°51′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2034-04-03 19:05 UT",
+    "degree": "13°59′"
+   }
+  ],
+  "eclipse-in-scorpio": [
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2003-05-16 03:40 UT",
+    "degree": "24°55′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2004-05-04 20:30 UT",
+    "degree": "14°39′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2005-04-24 09:54 UT",
+    "degree": "4°13′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2012-11-13 22:11 UT",
+    "degree": "21°56′"
+   },
+   {
+    "kind": "lunar",
+    "type": "partial",
+    "date": "2013-04-25 20:07 UT",
+    "degree": "5°52′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2013-11-03 12:46 UT",
+    "degree": "11°15′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2014-10-23 21:44 UT",
+    "degree": "0°24′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2022-05-16 04:11 UT",
+    "degree": "25°16′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2022-10-25 11:00 UT",
+    "degree": "2°00′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2023-05-05 17:22 UT",
+    "degree": "14°52′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2031-05-07 03:50 UT",
+    "degree": "16°31′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2031-11-14 21:06 UT",
+    "degree": "22°17′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2032-04-25 15:13 UT",
+    "degree": "6°00′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2032-11-03 05:32 UT",
+    "degree": "11°21′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2040-11-04 19:07 UT",
+    "degree": "12°58′"
+   }
+  ],
+  "eclipse-in-sagittarius": [
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2001-12-14 20:51 UT",
+    "degree": "22°56′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2002-05-26 12:03 UT",
+    "degree": "5°10′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2002-12-04 07:31 UT",
+    "degree": "11°57′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2003-11-23 22:49 UT",
+    "degree": "1°13′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2011-06-15 20:12 UT",
+    "degree": "24°22′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2011-11-25 06:20 UT",
+    "degree": "2°37′"
+   },
+   {
+    "kind": "lunar",
+    "type": "partial",
+    "date": "2012-06-04 11:03 UT",
+    "degree": "14°08′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2013-05-25 04:10 UT",
+    "degree": "3°58′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2020-06-05 19:24 UT",
+    "degree": "15°41′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2020-12-14 16:13 UT",
+    "degree": "23°08′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2021-05-26 11:18 UT",
+    "degree": "5°28′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2021-12-04 07:33 UT",
+    "degree": "12°21′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2029-12-05 15:02 UT",
+    "degree": "13°45′"
+   },
+   {
+    "kind": "lunar",
+    "type": "partial",
+    "date": "2030-06-15 18:33 UT",
+    "degree": "24°38′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2030-11-25 06:50 UT",
+    "degree": "3°02′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2031-06-05 11:44 UT",
+    "degree": "14°30′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2038-06-17 02:43 UT",
+    "degree": "26°10′"
+   },
+   {
+    "kind": "lunar",
+    "type": "partial",
+    "date": "2039-06-06 18:53 UT",
+    "degree": "15°59′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2039-12-15 16:22 UT",
+    "degree": "23°32′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2040-05-26 11:44 UT",
+    "degree": "5°49′"
+   }
+  ],
+  "eclipse-in-capricorn": [
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2000-07-16 13:55 UT",
+    "degree": "24°19′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2000-12-25 17:34 UT",
+    "degree": "4°14′"
+   },
+   {
+    "kind": "lunar",
+    "type": "partial",
+    "date": "2001-07-05 14:55 UT",
+    "degree": "13°34′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2002-06-24 21:26 UT",
+    "degree": "3°02′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2009-07-07 09:38 UT",
+    "degree": "15°32′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2010-01-15 07:06 UT",
+    "degree": "25°01′"
+   },
+   {
+    "kind": "lunar",
+    "type": "partial",
+    "date": "2010-06-26 11:38 UT",
+    "degree": "4°50′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2011-01-04 08:50 UT",
+    "degree": "13°38′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2019-01-06 01:41 UT",
+    "degree": "15°25′"
+   },
+   {
+    "kind": "lunar",
+    "type": "partial",
+    "date": "2019-07-16 21:30 UT",
+    "degree": "24°00′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2019-12-26 05:17 UT",
+    "degree": "4°07′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2020-07-05 04:29 UT",
+    "degree": "13°29′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2027-07-18 16:02 UT",
+    "degree": "25°57′"
+   },
+   {
+    "kind": "lunar",
+    "type": "partial",
+    "date": "2028-07-06 18:19 UT",
+    "degree": "15°15′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2029-01-14 17:12 UT",
+    "degree": "24°49′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2029-06-26 03:22 UT",
+    "degree": "4°49′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2037-01-16 09:47 UT",
+    "degree": "26°36′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2038-01-05 13:45 UT",
+    "degree": "15°18′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2038-07-16 11:34 UT",
+    "degree": "23°56′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2038-12-26 00:58 UT",
+    "degree": "4°19′"
+   }
+  ],
+  "eclipse-in-aquarius": [
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2000-02-05 12:49 UT",
+    "degree": "16°01′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2008-02-07 03:55 UT",
+    "degree": "17°44′"
+   },
+   {
+    "kind": "lunar",
+    "type": "partial",
+    "date": "2008-08-16 21:10 UT",
+    "degree": "24°17′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2009-01-26 07:58 UT",
+    "degree": "6°29′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2009-08-06 00:39 UT",
+    "degree": "13°35′"
+   },
+   {
+    "kind": "lunar",
+    "type": "partial",
+    "date": "2017-08-07 18:20 UT",
+    "degree": "15°30′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2018-02-15 20:51 UT",
+    "degree": "27°07′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2018-07-27 20:21 UT",
+    "degree": "4°45′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2026-02-17 12:11 UT",
+    "degree": "28°50′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2027-02-06 15:59 UT",
+    "degree": "17°37′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2027-08-17 07:13 UT",
+    "degree": "24°04′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2028-01-26 15:07 UT",
+    "degree": "6°10′"
+   },
+   {
+    "kind": "lunar",
+    "type": "partial",
+    "date": "2035-08-19 01:10 UT",
+    "degree": "26°00′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2036-08-07 02:51 UT",
+    "degree": "15°13′"
+   },
+   {
+    "kind": "lunar",
+    "type": "partial",
+    "date": "2037-07-27 04:08 UT",
+    "degree": "4°26′"
+   }
+  ],
+  "eclipse-in-pisces": [
+   {
+    "kind": "lunar",
+    "type": "partial",
+    "date": "2006-09-07 18:51 UT",
+    "degree": "15°05′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2007-03-19 02:31 UT",
+    "degree": "28°06′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2007-08-28 10:37 UT",
+    "degree": "4°46′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2015-03-20 09:45 UT",
+    "degree": "29°27′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2016-03-09 01:57 UT",
+    "degree": "18°55′"
+   },
+   {
+    "kind": "lunar",
+    "type": "penumbral",
+    "date": "2016-09-16 18:54 UT",
+    "degree": "24°13′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2017-02-26 14:53 UT",
+    "degree": "8°11′"
+   },
+   {
+    "kind": "lunar",
+    "type": "partial",
+    "date": "2024-09-18 02:44 UT",
+    "degree": "25°46′"
+   },
+   {
+    "kind": "lunar",
+    "type": "total",
+    "date": "2025-09-07 18:11 UT",
+    "degree": "15°24′"
+   },
+   {
+    "kind": "lunar",
+    "type": "partial",
+    "date": "2026-08-28 04:12 UT",
+    "degree": "4°51′"
+   },
+   {
+    "kind": "solar",
+    "type": "total",
+    "date": "2034-03-20 10:17 UT",
+    "degree": "29°52′"
+   },
+   {
+    "kind": "solar",
+    "type": "annular",
+    "date": "2035-03-09 23:04 UT",
+    "degree": "19°12′"
+   },
+   {
+    "kind": "solar",
+    "type": "partial",
+    "date": "2036-02-27 04:45 UT",
+    "degree": "8°09′"
+   }
+  ]
+ }
+}
