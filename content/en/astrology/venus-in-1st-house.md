@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/1st-house", "/astrology/ascendant", "/astrology/placidus", "/blog/unknown-birth-time"]
 faq:
   - q: "What does Venus in the 1st house mean?"
-    a: "That Venus was in the house of the self you lead with when you were born, close to the eastern horizon. Your warmth and taste tend to show in your manner, and people often find you easy to be with. The sign Venus is in gives that charm its style; the 1st house makes it visible."
+    a: "It means Venus was about to rise when you were born, in the house of the self you show first. Your warmth and taste tend to show in your manner, and people often find you easy to be with. The sign Venus is in gives that charm its style; the 1st house makes it visible."
   - q: "Does Venus in the 1st house make you attractive?"
     a: "It describes a manner rather than a face. Venus here tends to give an easy, pleasant way of meeting people and an eye for how things look, which others often find attractive. But Venus isn’t beauty, and no chart decides how anyone looks or whom they will attract."
   - q: "Do I need my birth time for Venus in the 1st house?"
