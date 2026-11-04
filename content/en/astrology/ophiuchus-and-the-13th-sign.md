@@ -38,7 +38,7 @@ Every few years the same headline comes round: there's a thirteenth sign, and yo
 
 Ophiuchus is the Serpent-bearer, a large constellation of the northern summer sky, drawn as a figure holding a snake. It's one of the 88 constellations astronomers recognise, and like all of them it has official borders: lines across the sky drawn by the Belgian astronomer Eugène Delporte for the International Astronomical Union and published in 1930. Within those borders, the Sun's path, the [ecliptic](/astrology/ecliptic/), runs through the southern part of Ophiuchus, between Scorpius and Sagittarius, so each year the Sun stands in front of it from about 30 November to about 18 December.
 
-In 2016, an explainer on NASA's Space Place, its website for children, set out the astronomy: the Sun passes in front of thirteen constellations, not twelve, and the slow wobble of the Earth's axis has shifted them since the zodiac was first drawn up. Headlines turned it into "NASA adds a thirteenth sign". NASA answered that it hadn't changed any signs: it studies astronomy, and it had only done the arithmetic.
+In 2016, an explainer on NASA's Space Place, its website for children, set out the astronomy: the Sun passes in front of thirteen constellations, not twelve, and the slow wobble of the Earth's axis has shifted them since the zodiac was first drawn up. Headlines turned it into “NASA adds a thirteenth sign”. NASA answered that it hadn't changed any signs: it studies astronomy, and it had only done the arithmetic.
 
 ## How it works {#how-it-works}
 
@@ -57,6 +57,6 @@ Nothing in your chart changes when the headline comes round again. The Sun is wh
 ## Common myths {#myths}
 
 - **“NASA added a thirteenth sign.”** NASA explained where the constellations are and changed nothing. It says plainly that it studies astronomy, not astrology.
-- **“Astrologers left Ophiuchus out by mistake.”** There was no place to leave it out of. A tropical sign is a stretch of the year, not a star pattern, and the year still has twelve of them.
+- **“Ophiuchus is a sign in the sidereal zodiac.”** The [sidereal zodiac](/astrology/sidereal-zodiac/) also has twelve equal signs: it anchors them to the stars rather than the seasons, but it doesn't follow the constellations' borders either.
 - **“Ophiuchus is a secret sign the ancients hid.”** There was nothing to hide: the tropical zodiac has always had twelve equal signs, and Ophiuchus's borders, as astronomers use them, were drawn in 1930.
 - **“Born in early December, you're an Ophiuchus, not a Sagittarius.”** In the tropical zodiac you're a Sagittarius; the constellation behind the Sun is a fact of another kind.

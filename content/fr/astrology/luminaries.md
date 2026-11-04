@@ -66,5 +66,5 @@ Je les garde aussi à leur juste place. Quand j’ai testé des thèmes dans [mo
 
 - **« Le Soleil et la Lune sont des planètes. »** L’un est une étoile, l’autre un satellite. L’astrologie les lit avec les planètes parce qu’ils traversent le zodiaque comme elles, pas parce qu’ils en sont.
 - **« Votre signe solaire, c’est toute votre astrologie. »** C’est une lumière sur deux, et un thème compte aussi huit planètes, les angles et les maisons. La Lune à elle seule peut changer l’allure d’un même signe solaire d’une vie à l’autre.
-- **« La Lune, c’est votre mère. »** La Lune décrit la façon dont vous prenez soin de vos propres émotions et de vos besoins. Ce n’est le portrait de personne dans votre famille, et elle ne peut pas raconter son histoire.
+- **« La Lune, c’est votre mère. »** La Lune décrit la façon dont vous prenez soin de vos propres émotions et de vos besoins. Ce n’est le portrait de personne dans votre famille, et elle ne peut pas raconter l’histoire des vôtres.
 - **« Avec une naissance de nuit, le Soleil compte moins. »** La secte change la lumière qui mène ; elle n’éteint pas l’autre.

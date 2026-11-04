@@ -58,7 +58,7 @@ Each fire sign hands over to an earth sign, Aries to Taurus, Leo to Virgo, Sagit
 
 I count the planets in each element, and the balance tells me something before the details do ([element balance and missing elements](/astrology/element-balance-and-missing-elements/)). Several planets in fire, especially the Sun, the Moon or the rising sign, often go with a quick, generous, impatient way of living. No planets in fire doesn't mean no courage: Mars, the Sun and Jupiter are still in your chart, and the fire signs still open some of your houses.
 
-I also weigh the element against everything else. A fire Sun is how most people meet their element, and Sun signs held about a third of the time in [my notebook](/blog/i-tested-my-birth-chart/), so "I'm a fire sign" is a beginning, not a description. Where the fire actually goes in your life is a matter of houses, and the houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+I also weigh the element against everything else. A fire Sun is how most people meet their element, and Sun signs held about a third of the time in [my notebook](/blog/i-tested-my-birth-chart/), so “I'm a fire sign” is a beginning, not a description. Where the fire actually goes in your life is a matter of houses, and the houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## Common myths {#myths}
 

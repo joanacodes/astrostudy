@@ -30,7 +30,7 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Sun’s position and its daily motion" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the signs and their rulers" }
 ---
-If your birthday sits at the very edge of your sign's dates, you've probably been told you're "on the cusp", and perhaps that you're a bit of both. I'll be plain about the first part and gentle about the second: you're one sign, and the feeling of being both often has a real source in your chart.
+If your birthday sits at the very edge of your sign's dates, you've probably been told you're “on the cusp”, and perhaps that you're a bit of both. I'll be plain about the first part and gentle about the second: you're one sign, and the feeling of being both often has a real source in your chart.
 
 ## What it is {#what-it-is}
 

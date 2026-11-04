@@ -36,7 +36,7 @@ Certaines personnes découvrent ce qu’elles pensent en le disant à voix haute
 
 ## Ce que c’est {#ce-que-c-est}
 
-Les signes d’air sont les [Gémeaux](/astrology/gemini/), la [Balance](/astrology/libra/) et le [Verseau](/astrology/aquarius/), à un [trigone](/astrology/trine/) les uns des autres dans le zodiaque. La manière de l’air, c’est la pensée et l’échange : il vit par les idées, la conversation et la comparaison, relie les gens et les notions entre eux, et aime voir une chose sous plus d’un angle. Chaque signe d’air suit l’un des [signes de terre](/astrology/earth-signs/), le Taureau, la Vierge et le Capricorne : une fois une chose construite, l’air se demande ce qu’elle veut dire et à qui elle sert. C’est aussi le seul élément dont aucun symbole n’est un animal : des jumeaux, une balance et un porteur d’eau.
+L’air vient en troisième dans chaque série de quatre signes du zodiaque : les [Gémeaux](/astrology/gemini/), la [Balance](/astrology/libra/) et le [Verseau](/astrology/aquarius/) se trouvent donc à un [trigone](/astrology/trine/) les uns des autres. La manière de l’air, c’est la pensée et l’échange : il vit par les idées, la conversation et la comparaison, relie les gens et les notions entre eux, et aime voir une chose sous plus d’un angle. Chaque signe d’air suit l’un des [signes de terre](/astrology/earth-signs/), le Taureau, la Vierge et le Capricorne : une fois une chose construite, l’air se demande ce qu’elle veut dire et à qui elle sert. C’est aussi le seul élément dont aucun symbole n’est un animal : des jumeaux, une balance et un porteur d’eau.
 
 Les trois traitent l’air différemment ([les trois modalités](/astrology/three-modalities/)) :
 

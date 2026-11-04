@@ -37,7 +37,7 @@ Une promesse ne dit pas grand-chose à la terre tant qu’elle n’a pas vu les 
 
 ## Ce que c’est {#ce-que-c-est}
 
-Les signes de terre sont le [Taureau](/astrology/taurus/), la [Vierge](/astrology/virgo/) et le [Capricorne](/astrology/capricorn/), un signe sur quatre dans le zodiaque, à un [trigone](/astrology/trine/) les uns des autres. La manière de la terre est pratique et patiente : elle travaille avec le réel, s’occupe du corps et des détails, et construit vers ce qui dure. Là où le feu veut commencer, la terre veut savoir si la chose tiendra.
+Les signes de la terre, le [Taureau](/astrology/taurus/), la [Vierge](/astrology/virgo/) et le [Capricorne](/astrology/capricorn/), reviennent un signe sur quatre dans le zodiaque, à un [trigone](/astrology/trine/) les uns des autres. La manière de la terre est pratique et patiente : elle travaille avec le réel, s’occupe du corps et des détails, et construit vers ce qui dure. Là où le feu veut commencer, la terre veut savoir si la chose tiendra.
 
 Chacun des trois a son [mode](/astrology/three-modalities/) :
 

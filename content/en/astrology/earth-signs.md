@@ -36,7 +36,7 @@ A promise means little to earth until it has seen the plans, handled the materia
 
 ## What it is {#what-it-is}
 
-The earth signs are [Taurus](/astrology/taurus/), [Virgo](/astrology/virgo/) and [Capricorn](/astrology/capricorn/), every fourth sign round the zodiac, a [trine](/astrology/trine/) apart. Earth's way is practical and patient: it works with what's real, looks after the body and the details, and builds towards what lasts. Where fire wants to start, earth wants to know whether the thing will hold.
+Earth's signs, [Taurus](/astrology/taurus/), [Virgo](/astrology/virgo/) and [Capricorn](/astrology/capricorn/), come every fourth sign round the zodiac, a [trine](/astrology/trine/) apart. Earth's way is practical and patient: it works with what's real, looks after the body and the details, and builds towards what lasts. Where fire wants to start, earth wants to know whether the thing will hold.
 
 Each of the three takes a different [modality](/astrology/three-modalities/):
 

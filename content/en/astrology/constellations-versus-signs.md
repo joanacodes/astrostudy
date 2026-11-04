@@ -31,7 +31,7 @@ sources:
   - { title: "David P. Stern, From Stargazers to Starships, NASA Goddard Space Flight Center, “Precession”", note: "the equinox’s slow drift, a full circle in about 26,000 years" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the signs counted from the spring equinox" }
 ---
-Look at the stars behind the Sun on your birthday and you'll probably find the "wrong" constellation there. Nothing has gone wrong: a constellation and a sign are two different things that happen to share a name.
+Look at the stars behind the Sun on your birthday and you'll probably find the “wrong” constellation there. Nothing has gone wrong: a constellation and a sign are two different things that happen to share a name.
 
 ## What it is {#what-it-is}
 
@@ -49,7 +49,7 @@ The [sidereal zodiac](/astrology/sidereal-zodiac/), used in Indian astrology, ma
 
 ## In a reading {#in-a-reading}
 
-I use the tropical zodiac. A sign, for me, is a season of the Sun's year, and its meaning comes from that place in the cycle: Aries is the start of the light half of the year in the north, Libra the start of the dark half. The star pattern behind the Sun isn't part of what I read, which is also why the "your sign has changed" headlines don't change anything in a chart ([how I read](/how-i-read/)).
+I use the tropical zodiac. A sign, for me, is a season of the Sun's year, and its meaning comes from that place in the cycle: Aries is the start of the light half of the year in the north, Libra the start of the dark half. The star pattern behind the Sun isn't part of what I read, which is also why the “your sign has changed” headlines don't change anything in a chart ([how I read](/how-i-read/)).
 
 The stars still have a place, a smaller and more precise one. Some astrologers look at the bright stars a planet sits close to, measured by each star's own position, never by a constellation's borders ([fixed stars in astrology](/astrology/fixed-stars-in-astrology/)). That's a separate layer of a chart, and a tight one: a degree or so either way.
 

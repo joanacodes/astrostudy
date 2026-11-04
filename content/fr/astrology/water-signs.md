@@ -36,7 +36,7 @@ Bien avant d’avoir un mot pour une chose, l’eau sait ce qu’elle ressent. L
 
 ## Ce que c’est {#ce-que-c-est}
 
-Les signes d’eau sont le [Cancer](/astrology/cancer/), le [Scorpion](/astrology/scorpio/) et les [Poissons](/astrology/pisces/), à un [trigone](/astrology/trine/) les uns des autres. La manière de l’eau, c’est le sentiment : elle lit l’atmosphère, garde la mémoire et les attachements, sent les courants souterrains, et a besoin de confiance avant de s’ouvrir. Chaque signe d’eau suit l’un des [signes d’air](/astrology/air-signs/), les Gémeaux, la Balance et le Verseau : ce dont l’air a parlé, l’eau le vit.
+L’eau ferme chaque série de quatre signes, après le feu, la terre et l’air : le [Cancer](/astrology/cancer/), le [Scorpion](/astrology/scorpio/) et les [Poissons](/astrology/pisces/) se trouvent donc à un [trigone](/astrology/trine/) les uns des autres. La manière de l’eau, c’est le sentiment : elle lit l’atmosphère, garde la mémoire et les attachements, sent les courants souterrains, et a besoin de confiance avant de s’ouvrir. Chaque signe d’eau suit l’un des [signes d’air](/astrology/air-signs/), les Gémeaux, la Balance et le Verseau : ce dont l’air a parlé, l’eau le vit.
 
 Les trois avancent différemment ([les trois modalités](/astrology/three-modalities/)) :
 

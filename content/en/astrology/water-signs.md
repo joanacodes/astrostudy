@@ -35,7 +35,7 @@ Long before it has a word for something, water knows how it feels. Cancer, Scorp
 
 ## What it is {#what-it-is}
 
-The water signs are [Cancer](/astrology/cancer/), [Scorpio](/astrology/scorpio/) and [Pisces](/astrology/pisces/), a [trine](/astrology/trine/) apart. Water's way is feeling: it reads the room, holds on to memory and attachment, senses undercurrents, and needs trust before it opens. Each water sign follows one of the [air signs](/astrology/air-signs/), Gemini, Libra and Aquarius: what air talked over, water now lives.
+Water closes each run of four signs, after fire, earth and air, so [Cancer](/astrology/cancer/), [Scorpio](/astrology/scorpio/) and [Pisces](/astrology/pisces/) sit a [trine](/astrology/trine/) apart. Water's way is feeling: it reads the room, holds on to memory and attachment, senses undercurrents, and needs trust before it opens. Each water sign follows one of the [air signs](/astrology/air-signs/), Gemini, Libra and Aquarius: what air talked over, water now lives.
 
 The three move differently ([the three modalities](/astrology/three-modalities/)):
 

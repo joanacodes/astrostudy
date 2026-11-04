@@ -35,7 +35,7 @@ Some people find out what they think by saying it out loud, to someone who answe
 
 ## What it is {#what-it-is}
 
-The air signs are [Gemini](/astrology/gemini/), [Libra](/astrology/libra/) and [Aquarius](/astrology/aquarius/), a [trine](/astrology/trine/) apart round the zodiac. Air's way is thought and exchange: it lives through ideas, conversation and comparison, links people and notions together, and likes to see a thing from more than one side. Each air sign follows one of the [earth signs](/astrology/earth-signs/), Taurus, Virgo and Capricorn: once something has been built, air starts asking what it means and who it's for. It's also the only element with no animal among its symbols: twins, a pair of scales and a water-bearer.
+Air comes third in each run of four signs round the zodiac, so [Gemini](/astrology/gemini/), [Libra](/astrology/libra/) and [Aquarius](/astrology/aquarius/) sit a [trine](/astrology/trine/) apart. Air's way is thought and exchange: it lives through ideas, conversation and comparison, links people and notions together, and likes to see a thing from more than one side. Each air sign follows one of the [earth signs](/astrology/earth-signs/), Taurus, Virgo and Capricorn: once something has been built, air starts asking what it means and who it's for. It's also the only element with no animal among its symbols: twins, a pair of scales and a water-bearer.
 
 The three handle air differently ([the three modalities](/astrology/three-modalities/)):
 
