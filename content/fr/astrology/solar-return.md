@@ -9,7 +9,7 @@ terms: ["révolution solaire"]
 family: "cycles"
 weight: 46
 glyph: "☉☌☉"
-definition: "La révolution solaire est le thème dressé pour l’instant où, chaque année, le Soleil revient au degré exact qu’il occupait à votre naissance, le jour de votre anniversaire ou à un jour près. On y lit la tonalité de l’année à venir : les domaines de vie mis en avant, et de quelle façon. Elle ne remplace jamais le thème natal, et ne prédit aucun événement."
+definition: "La révolution solaire est le thème de l’instant où, chaque année, le Soleil revient à son degré de naissance, le jour de votre anniversaire ou à un jour près. On y lit la tonalité de l’année à venir : les domaines de vie mis en avant, et comment. Elle ne remplace jamais le thème natal et ne prédit aucun événement."
 facts:
   - { k: "Ce que c’est", v: "Le thème de l’instant où le Soleil revient à son degré natal" }
   - { k: "Quand", v: "Chaque année, le jour de votre anniversaire ou à un jour près" }

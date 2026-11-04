@@ -1,7 +1,7 @@
 ---
 title: "Precession of the equinoxes"
 h1: "The precession of the equinoxes in astrology"
-description: "Precession of the equinoxes: the slow wobble of the Earth’s axis, about 1° every 72 years, how it parts the tropical and sidereal zodiacs, and what it doesn’t change."
+description: "Precession of the equinoxes: the Earth’s slow wobble, about 1° every 72 years, why it parts the tropical and sidereal zodiacs, and what it leaves alone."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"

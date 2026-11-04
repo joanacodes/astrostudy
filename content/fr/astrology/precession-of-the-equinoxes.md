@@ -2,7 +2,7 @@
 title: "Précession des équinoxes"
 slug: "precession-des-equinoxes"
 h1: "La précession des équinoxes en astrologie"
-description: "La précession des équinoxes : l’oscillation de l’axe terrestre, 1° tous les 72 ans environ, l’écart des zodiaques tropical et sidéral, et ce qu’elle ne change pas."
+description: "La précession des équinoxes : l’oscillation de l’axe terrestre, 1° en 72 ans environ, l’écart des zodiaques tropical et sidéral, et ce qu’elle ne change pas."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "foundations"

@@ -1,14 +1,14 @@
 ---
 title: "Solar return"
 h1: "The solar return in astrology"
-description: "The solar return: the chart for the moment the Sun comes back to its birth degree each year. When it falls, where to cast it, and how I read it with the natal chart."
+description: "The solar return: the chart for the moment each year when the Sun regains its birth degree. When it falls, where to cast it, and how I read it."
 date: 2026-11-04
 reviewed: 2026-11-04
 terms: ["solar return"]
 family: "cycles"
 weight: 46
 glyph: "☉☌☉"
-definition: "A solar return is the chart cast for the moment each year when the Sun comes back to the exact degree it held at your birth, on your birthday or a day either side. It is read as the tone of the year ahead: which areas of life are emphasised, and how. It never replaces the birth chart, and it predicts no event."
+definition: "A solar return is the chart cast for the moment each year when the Sun comes back to its exact birth degree, on your birthday or a day either side. It is read as the tone of the year ahead: which areas of life are emphasised, and how. It never replaces the birth chart, and predicts no event."
 facts:
   - { k: "What it is", v: "The chart for the moment the Sun returns to its natal degree" }
   - { k: "When", v: "Every year, on your birthday or a day either side" }
