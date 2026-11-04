@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 105
 glyph: "♆♐"
-definition: "Neptune in Sagittarius is Neptune, the planet of imagination and compassion, in the mutable fire sign of journeys and big questions, where it stayed from January 1970 to November 1984. I read it as that generation’s longing for a bigger meaning: faith without borders, a search that keeps moving, and somewhere better over the horizon."
+definition: "Neptune in Sagittarius is Neptune, the planet of longing and transcendence, in the mutable fire sign of journeys and big questions, where it stayed from January 1970 to November 1984. I read it as that generation’s longing for a bigger meaning: faith without borders, a search that keeps moving, and somewhere better over the horizon."
 facts:
   - { k: "Body", v: "Neptune ♆" }
   - { k: "Sign", v: "Sagittarius ♐, ruled by Jupiter" }
@@ -36,17 +36,17 @@ In [Sagittarius](/astrology/sagittarius/), the mutable fire sign of journeys, te
 
 Neptune has no dignity in Sagittarius, but it has an old friend there. [Jupiter](/astrology/jupiter/) rules Sagittarius, and Jupiter is also the traditional ruler of Pisces, the sign modern tropical astrology gives Neptune: the two planets already share a sign. So where your Jupiter sits, and what it touches, tells me a great deal about how this dream of meaning gets lived.
 
-Neptune was in Sagittarius from January 1970 to November 1984, and about 1 person in 6 born from 1930 to 2009 has it: a generation now in its early forties to mid-fifties. From January to November 1970 Neptune moved back and forth with Scorpio, and from January to November 1984 with Capricorn, so births in those months may have [Neptune in Scorpio](/astrology/neptune-in-scorpio/) or [Neptune in Capricorn](/astrology/neptune-in-capricorn/) instead, and only a chart can say. The sign tells me what your generation went looking for. Its house tells me where, in your own life, you keep looking.
+The stay in Sagittarius ran from January 1970 to November 1984. Counting everyone born from 1930 to 2009, about 1 person in 6 has it, and those people are now in their early forties to mid-fifties. From January to November 1970 Neptune moved back and forth with Scorpio, and from January to November 1984 with Capricorn, so births in those months may have [Neptune in Scorpio](/astrology/neptune-in-scorpio/) or [Neptune in Capricorn](/astrology/neptune-in-capricorn/) instead, and only a chart can say. The sign tells me what your generation went looking for. Its house tells me where, in your own life, you keep looking.
 
 ## In close relationships {#in-close-relationships}
 
-In love, this Neptune dreams of a fellow traveller. The partner it idealises is someone who opens the world: a guide, a believer, a person from somewhere else or with another way of seeing. Shared meaning counts as much as shared tastes, and a relationship can feel sacred when it's a journey you're taking together. The hard lesson is that the ideal partner often seems to be the one just out of reach, the next person, the next country, when meaning can also live in a kitchen, with someone who stays.
+The partner this Neptune dreams of is a fellow traveller, someone who opens the world: a guide, a believer, a person from somewhere else or with another way of seeing. Shared meaning counts as much as shared tastes, and a relationship can feel sacred when it's a journey you're taking together. The hard lesson is that the ideal partner often seems to be the one just out of reach, the next person, the next country, when meaning can also live in a kitchen, with someone who stays.
 
 ## At work {#at-work}
 
 At work, the search wants a mission. Teaching, publishing, travel, translation, faith communities, humanitarian work, philosophy and the arts of storytelling suit a Sagittarian Neptune, and so does any job that widens someone else's horizon. You may work best when you believe in the cause. The risk is a calling so large it never becomes a job, or an employer idealised as a guru.
 
-My [notebook](/blog/i-tested-my-birth-chart/) was a smaller mission: checking, one placement at a time, what held. Neptune's sign and house were checked like every other placement, Neptune wasn't one of the three that held far more often, Saturn, Chiron and Lilith, and overall about a third held.
+My [notebook](/blog/i-tested-my-birth-chart/) was a smaller mission: checking, one placement at a time, what held. Neptune went through it like every other placement and wasn't among the three that held far more often, Saturn, Chiron and Lilith. Overall, about a third held.
 
 ## The hard part {#the-hard-part}
 

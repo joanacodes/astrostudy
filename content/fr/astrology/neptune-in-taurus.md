@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 98
 glyph: "♆♉"
-definition: "Neptune en Taureau, c’est la planète de l’imagination et de la compassion dans le signe de terre fixe des sens. Aucune personne en vie n’a ce placement : Neptune y était de 1874 à 1889 et y revient de 2038 à 2052. C’est le rêve d’une beauté trouvée dans la matière : la terre, l’artisanat, la musique, une vie plus lente."
+definition: "Neptune en Taureau, c’est la planète de l’imagination et de l’aspiration dans le signe de terre fixe des sens. Aucune personne en vie n’a ce placement : Neptune y était de 1874 à 1889 et y revient de 2038 à 2052. C’est le rêve d’une beauté trouvée dans la matière : la terre, l’artisanat, la musique, une vie plus lente."
 facts:
   - { k: "Corps", v: "Neptune ♆" }
   - { k: "Signe", v: "Taureau ♉, gouverné par Vénus" }
@@ -23,7 +23,7 @@ faq:
   - q: "Quand trouve-t-on Neptune en Taureau ?"
     a: "Neptune était en Taureau de juin 1874 à mars 1889, et y revient de mai 2038 à mai 2052. À chaque bout, Neptune fait quelques mois d’allers-retours avec le Bélier ou les Gémeaux. Aucune des naissances de 1930 à 2009 n’a ce placement, et aucune personne en vie aujourd’hui non plus."
   - q: "Pourquoi aucune personne en vie n’a-t-elle Neptune en Taureau ?"
-    a: "Parce que Neptune met environ 165 ans à faire le tour du zodiaque et reste environ quatorze ans dans chaque signe. Le dernier séjour en Taureau s’est terminé en 1889 et le prochain commence en 2038 : chaque adulte en vie a Neptune dans un signe atteint plus tard. Pour l’instant, ce ciel ne se lit que dans les livres."
+    a: "Parce qu’un tour du zodiaque prend environ 165 ans à Neptune, et que chaque signe garde Neptune environ quatorze ans. Le dernier séjour en Taureau s’est terminé en 1889 et le prochain commence en 2038 : chaque adulte en vie a Neptune dans un signe atteint plus tard. Pour l’instant, ce ciel ne se lit que dans les livres."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les signes, et la maîtrise de Vénus sur le Taureau" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les séjours de Neptune en Taureau de 1700 à 2300" }
@@ -33,13 +33,13 @@ Aucune personne en vie aujourd’hui n’est née avec Neptune en Taureau. Les d
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le [Taureau](/astrology/taurus/), signe de terre fixe gouverné par Vénus, est le signe des sens : ce qui se touche, se goûte, se cultive et se garde. [Neptune](/astrology/neptune/) en Taureau y cherche la transcendance, au cœur du monde matériel plutôt qu’au-delà : le sacré dans le pain et la terre, la beauté d’un objet bien fait, une musique qui ralentit le cœur. La compassion prend une forme physique, le soin de la terre, des corps, de tout ce qui pousse lentement. Le signe est fixe, ce qui donne au rêve de la patience : le rêve attendra une saison, ou plusieurs, que quelque chose mûrisse.
+Les sens appartiennent au [Taureau](/astrology/taurus/), signe de terre fixe gouverné par Vénus : ce qui se touche, se goûte, se cultive et se garde. [Neptune](/astrology/neptune/) en Taureau y cherche la transcendance, au cœur du monde matériel plutôt qu’au-delà : le sacré dans le pain et la terre, la beauté d’un objet bien fait, une musique qui ralentit le cœur. La compassion prend une forme physique, le soin de la terre, des corps, de tout ce qui pousse lentement. Le signe est fixe, ce qui donne au rêve de la patience : le rêve attendra une saison, ou plusieurs, que quelque chose mûrisse.
 
 Neptune n’a pas de dignité en Taureau. [Vénus](/astrology/venus/), maîtresse du signe, est la planète qui porte ce rêve, et la place de Vénus montre ce que Neptune en Taureau trouve assez beau pour s’y consacrer. Juste après le Bélier, le Taureau ralentit aussi Neptune. Là où le rêve du Bélier veut un premier pas, le rêve du Taureau veut rester : planter, garder, rendre un seul lieu beau et en prendre soin pendant des années.
 
-Neptune était en Taureau pour la dernière fois de juin 1874 à mars 1889, avec des allers-retours avec le Bélier au début et avec les Gémeaux à la fin, et y revient de mai 2038 à mai 2052. Aucune des naissances de 1930 à 2009 n’a ce placement. Dans l’ordre des générations, Neptune en Taureau vient entre [Neptune en Bélier](/astrology/neptune-in-aries/), le signe des naissances actuelles, et [Neptune en Gémeaux](/astrology/neptune-in-gemini/), qui suit à partir de 2051. Pour les personnes nées avec ce placement à partir de 2038, la maison sera, le moment venu, ce qui en fera un placement personnel. Ce qui suit, c’est ma lecture du signe en principe.
+Neptune était en Taureau pour la dernière fois de juin 1874 à mars 1889, avec des allers-retours avec le Bélier au début et avec les Gémeaux à la fin, et y revient de mai 2038 à mai 2052. Pas une seule naissance de 1930 à 2009 n’a ce placement. Dans l’ordre des générations, Neptune en Taureau vient entre [Neptune en Bélier](/astrology/neptune-in-aries/), le signe des naissances actuelles, et [Neptune en Gémeaux](/astrology/neptune-in-gemini/), qui suit à partir de 2051. Pour les personnes nées avec ce placement à partir de 2038, la maison sera, le moment venu, ce qui en fera un placement personnel. Ce qui suit, c’est ma lecture du signe en principe.
 
-Mon [carnet](/blog/i-tested-my-birth-chart/) a vérifié Neptune comme chaque placement. Neptune ne fait pas partie des trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith, et dans l’ensemble, environ un tiers a tenu.
+Mon [carnet](/blog/i-tested-my-birth-chart/) a vérifié Neptune comme chaque placement. Neptune ne figure pas parmi les trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith ; sur tout le carnet, environ un tiers a tenu.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -47,7 +47,7 @@ En amour, Neptune en Taureau décrit une dévotion qui se sent : des repas part
 
 ## Au travail {#au-travail}
 
-Au travail, ce placement désigne des vocations où la beauté et les sens rejoignent le soin : le jardinage et l’agriculture, la cuisine, l’artisanat, la lutherie, la musique, les arts de la matière et de la texture, tout travail qui rend le monde physique plus doux. Son don : la patience de laisser pousser. Son piège : le rêve d’une vie parfaite et simple qui n’arrive jamais tout à fait, pendant que le vrai travail attend.
+Les vocations que désigne ce placement sont celles où la beauté et les sens rejoignent le soin : le jardinage et l’agriculture, la cuisine, l’artisanat, la lutherie, la musique, les arts de la matière et de la texture, tout travail qui rend le monde physique plus doux. Son don : la patience de laisser pousser. Son piège : le rêve d’une vie parfaite et simple qui n’arrive jamais tout à fait, pendant que le vrai travail attend.
 
 ## Le plus difficile {#le-plus-difficile}
 

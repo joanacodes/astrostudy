@@ -36,11 +36,11 @@ In [Virgo](/astrology/virgo/), the mutable earth sign ruled by Mercury, the sign
 
 Virgo faces Pisces, the sign Neptune rules in modern tropical astrology, so this is Neptune in [detriment](/astrology/detriment/). The tradition says nothing, having never known Neptune. I don't read detriment as a flaw. A planet that softens boundaries, in a sign that draws them, has to translate: the dream arrives as a list, and the list, done with love, turns back into the dream.
 
-Neptune was in Virgo from September 1928 to August 1943, and about 1 person in 6 born from 1930 to 2009 has it: a generation now past eighty. At each end Neptune crossed a border back and forth, into Leo until July 1929 and into Libra from October 1942, so for births in those months only a chart can say whether you have this placement, [Neptune in Leo](/astrology/neptune-in-leo/) or [Neptune in Libra](/astrology/neptune-in-libra/). Fifteen years of births can't describe you alone. What makes a Virgo Neptune yours is its house, the part of your life where you try to make the ideal useful, and your Mercury, the ruler of Virgo, which gives this dream of usefulness its words.
+Neptune was in Virgo from September 1928 to August 1943. Of everyone born between 1930 and 2009, about 1 person in 6 has it, and the people who do are now past eighty. At each end Neptune crossed a border back and forth, into Leo until July 1929 and into Libra from October 1942, so for births in those months only a chart can say whether you have this placement, [Neptune in Leo](/astrology/neptune-in-leo/) or [Neptune in Libra](/astrology/neptune-in-libra/). Fifteen years of births can't describe you alone. What makes a Virgo Neptune yours is its house, the part of your life where you try to make the ideal useful, and your Mercury, the ruler of Virgo, which gives this dream of usefulness its words.
 
 ## In close relationships {#in-close-relationships}
 
-In love, this Neptune shows devotion by doing. You may not say how much someone matters; you remember how they take their tea, you fix the thing that has been broken for months, you notice a need before it's spoken. The partner this placement dreams of is someone it can help, and that's where tenderness can tip into tending: loving a person as a project, or feeling loved only when you are useful. The bonds that last tend to be the ones where care goes both ways, and where you're allowed to be looked after without earning it first.
+Devotion, for this Neptune, is something you do. You may not say how much someone matters; you remember how they take their tea, you fix the thing that has been broken for months, you notice a need before it's spoken. The partner this placement dreams of is someone it can help, and that's where tenderness can tip into tending: loving a person as a project, or feeling loved only when you are useful. The bonds that last tend to be the ones where care goes both ways, and where you're allowed to be looked after without earning it first.
 
 ## At work {#at-work}
 
@@ -54,4 +54,4 @@ The trouble with an ideal of service is that it's never finished. There is alway
 
 Let good enough count as care; it usually is. Keep one thing in your week that is done for no use at all: a walk, a song, a garden that produces nothing. Ask for help as readily as you give it, and treat yourself with the kindness you'd give anyone in your care.
 
-Virgo checks everything, and so did my [notebook](/blog/i-tested-my-birth-chart/): Neptune's sign and house got a tick or a cross like every other placement. Neptune wasn't one of the three that held far more often, Saturn, Chiron and Lilith, and overall about a third of what I checked held.
+Virgo checks everything, and so did my [notebook](/blog/i-tested-my-birth-chart/): Neptune's sign and house got a tick or a cross like every other placement. The three that held far more often were Saturn, Chiron and Lilith, not Neptune, and across everything I checked, about a third held.

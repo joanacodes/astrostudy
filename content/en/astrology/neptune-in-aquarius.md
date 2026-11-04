@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 107
 glyph: "♆♒"
-definition: "Neptune in Aquarius is Neptune, the planet of imagination and compassion, in the fixed air sign of community and the future, where it stayed from January 1998 to February 2012. I read it as that generation’s ideal of a connected, fairer world: compassion that reaches strangers, and a dream of belonging to something shared."
+definition: "Neptune in Aquarius is Neptune, the planet of compassion and shared dreams, in the fixed air sign of community and the future, where it stayed from January 1998 to February 2012. I read it as that generation’s ideal of a connected, fairer world: compassion that reaches strangers, and a dream of belonging to something shared."
 facts:
   - { k: "Body", v: "Neptune ♆" }
   - { k: "Sign", v: "Aquarius ♒, ruled by Uranus (modern) and Saturn (traditional)" }
@@ -20,7 +20,7 @@ faq:
   - q: "What does Neptune in Aquarius mean?"
     a: "A dream of a connected, fairer world, shared by everyone born from 1998 to early 2012. In Aquarius, Neptune’s compassion widens to take in strangers and groups, and its imagination turns to the future people might build together. Neptune’s house in your chart shows where you go looking for your people."
   - q: "What years was Neptune in Aquarius?"
-    a: "From January 1998 to February 2012. Until November 1998 Neptune was still crossing back and forth with Capricorn, and from April 2011 with Pisces, so births in those months need the chart. About 1 person in 7 born 1930–2009 has it; that count stops in 2009, while the stay ran on."
+    a: "From January 1998 to February 2012. Until November 1998 Neptune was still crossing back and forth with Capricorn, and from April 2011 with Pisces, so a birth in those months needs a chart to tell. About 1 person in 7 born 1930–2009 has it; that count stops in 2009, while the stay ran on."
   - q: "Which rulers matter for Neptune in Aquarius?"
     a: "Both, and I read both. Uranus, the modern ruler of Aquarius, shows where this dream of a connected world wants to try something new. Saturn, the traditional ruler, shows where it has to build patiently. Their places in your chart describe how an Aquarian Neptune gets from vision to something real."
 sources:
@@ -36,9 +36,9 @@ Neptune was discovered in 1846, while it was crossing Aquarius, and in January 1
 
 Aquarius has two rulers, and I read both. [Uranus](/astrology/uranus/), its modern ruler, shows where this dream of a connected world wants to try something new; [Saturn](/astrology/saturn/), the traditional ruler, shows where it has to build patiently. Read together, they describe the push and pull inside the placement: the wish to reinvent the world, and the patience it takes to change any part of it.
 
-In [my notebook](/blog/i-tested-my-birth-chart/), placements weren't marked as a group: each got its own tick or cross, Neptune's sign and house included. Neptune wasn't one of the three that held far more often, Saturn, Chiron and Lilith, and overall about a third held.
+In [my notebook](/blog/i-tested-my-birth-chart/), placements weren't marked as a group: each got its own tick or cross, Neptune's sign and house included. Three of them held far more often than the rest: Saturn, Chiron and Lilith. Neptune wasn't among those three, and overall about a third held.
 
-Neptune was in Aquarius from January 1998 to February 2012, and about 1 person in 7 born from 1930 to 2009 has it. Until November 1998 Neptune was still moving back and forth with Capricorn, and from April 2011 with Pisces, so births in those months may have [Neptune in Capricorn](/astrology/neptune-in-capricorn/) or [Neptune in Pisces](/astrology/neptune-in-pisces/) instead. The eldest of this generation are in their late twenties. The youngest are still teenagers, and I don't read [children’s charts](/astrology/childrens-charts/), so this page is for those of you already grown. What's yours within the generation is the house: the part of your life where you look for your people.
+Neptune was in Aquarius from January 1998 to February 2012, and about 1 person in 7 born from 1930 to 2009 has it. Until November 1998 Neptune was still moving back and forth with Capricorn, and from April 2011 with Pisces, so a birth in those months could belong to [Neptune in Capricorn](/astrology/neptune-in-capricorn/) or [Neptune in Pisces](/astrology/neptune-in-pisces/). The eldest of this generation are in their late twenties. The youngest are still teenagers, and I don't read [children’s charts](/astrology/childrens-charts/), so this page is for those of you already grown. What's yours within the generation is the house: the part of your life where you look for your people.
 
 ## In close relationships {#in-close-relationships}
 
@@ -46,7 +46,7 @@ In love, an Aquarian Neptune often starts from friendship. The ideal is a partne
 
 ## At work {#at-work}
 
-At work, this Neptune dreams of the common good. Collective projects, networks, research, campaigning, community work, science or technology turned to shared use: anything that connects people suits it. You can picture a better system long before others see the need for one. The risk is giving years to a cause or a group without noticing that it no longer gives anything back, or that the people running it have stopped living up to its ideals.
+The common good is this Neptune's dream at work. Collective projects, networks, research, campaigning, community work, science or technology turned to shared use: anything that connects people suits it. You can picture a better system long before others see the need for one. The risk is giving years to a cause or a group without noticing that it no longer gives anything back, or that the people running it have stopped living up to its ideals.
 
 ## The hard part {#the-hard-part}
 

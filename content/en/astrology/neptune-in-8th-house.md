@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 104
 glyph: "♆"
-definition: "Neptune in the 8th house means Neptune was in the house of intimacy, trust and what you share with others, joint money and debts included, when you were born. In a chart it describes closeness that dissolves edges: deep empathy, trust given generously, and shared money that needs clear lines. Tradition gave this house death; I never predict it."
+definition: "Neptune in the 8th house puts the planet of compassion, at your birth, in the house of intimacy, trust and what you share with others, joint money and debts included. It describes closeness that dissolves edges: deep empathy, trust given generously, and shared money that needs clear lines. Tradition gave this house death; I never predict it."
 facts:
   - { k: "Body", v: "Neptune ♆" }
   - { k: "House", v: "The 8th house: intimacy, trust, what is shared or owed" }
@@ -32,15 +32,15 @@ The 8th house is where you let someone all the way in, and Neptune there does no
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 8th house](/astrology/8th-house/) is intimacy and trust, and what you share with others or owe them: joint money, debts, the closeness that changes you. It's succedent, its natural sign is Scorpio, and its natural ruler is Pluto, with Mars in the tradition. [Neptune](/astrology/neptune/), in this deep house, brings compassion and imagination into intimacy. You may sense what's going on under someone's surface, feel their pain as if it were yours, and long for a closeness with no walls in it. That empathy is a gift. It also means the lines between yours and theirs, feelings, money, obligations, tend to blur. Pluto and Mars, the house's two natural rulers, are worth a look: where they sit shows how this longing for depth meets the will to renew things and the will to protect them.
+Intimacy and trust, and what you share with others or owe them, belong to [the 8th house](/astrology/8th-house/): joint money, debts, the closeness that changes you. It's succedent, its natural sign is Scorpio, and its natural ruler is Pluto, with Mars in the tradition. [Neptune](/astrology/neptune/), in this deep house, brings compassion and imagination into intimacy. You may sense what's going on under someone's surface, feel their pain as if it were yours, and long for a closeness with no walls in it. That empathy is a gift. It also means the lines between yours and theirs, feelings, money, obligations, tend to blur. Pluto and Mars, the house's two natural rulers, are worth a look: where they sit shows how this longing for depth meets the will to renew things and the will to protect them.
 
 Tradition gave the 8th death and inheritance. I don't read death in a chart, for anyone ([can astrology predict death?](/astrology/can-astrology-predict-death/)); in an adult's life, the 8th is about the living, and about what we share.
 
-Neptune's sign is shared with your generation; the 8th house is where it turns intimate. Unless you know your birth time to within a few minutes, a Neptune near the start or end of the 8th may really be [Neptune in the 7th house](/astrology/neptune-in-7th-house/) or [Neptune in the 9th house](/astrology/neptune-in-9th-house/). In Placidus, the house system I use, the exact time settles it ([what changes without a birth time](/blog/unknown-birth-time/)).
+Your Neptune sign is a generation's; its place in the 8th house is where it turns intimate. Unless you know your birth time to within a few minutes, a Neptune near the start or end of the 8th may really be [Neptune in the 7th house](/astrology/neptune-in-7th-house/) or [Neptune in the 9th house](/astrology/neptune-in-9th-house/). In Placidus, the house system I use, the exact time settles it ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## In close relationships {#in-close-relationships}
 
-In love, this Neptune wants to merge: to know and be known completely, to share a bed, a bank account, a private world. Trust is given generously, sometimes before it has been earned. The care this needs isn't less trust but clearer edges: knowing which feelings are yours, which debts are yours, which promises you can keep. A partner who respects your privacy as much as your openness is a gift to this placement, and the opposite house, the 2nd, reminds you that some things are yours alone.
+Merging is the wish here: to know and be known completely, to share a bed, a bank account, a private world. Trust is given generously, sometimes before it has been earned. The care this needs isn't less trust but clearer edges: knowing which feelings are yours, which debts are yours, which promises you can keep. A partner who respects your privacy as much as your openness is a gift to this placement, and the opposite house, the 2nd, reminds you that some things are yours alone.
 
 ## At work {#at-work}
 
@@ -54,4 +54,4 @@ The hard part is losing yourself in what's shared. Merging can feel like love an
 
 Keep clear lines where the 8th blurs them: written agreements, your own record of what's yours, plain talk about money and about consent. Let intimacy include privacy. And find someone trained to listen if you're carrying more of other people's pain than you can hold.
 
-In my [notebook](/blog/i-tested-my-birth-chart/), Neptune's house was checked like every other placement; Neptune wasn't one of the three that held far more often, Saturn, Chiron and Lilith, and overall about a third held. Depth is safest with a shoreline.
+In my [notebook](/blog/i-tested-my-birth-chart/), Neptune's house was checked like every other placement. The three that held far more often, Saturn, Chiron and Lilith, don't include Neptune, and about a third of all I checked held. Depth is safest with a shoreline.

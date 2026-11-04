@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 101
 glyph: "♆♌"
-definition: "Neptune en Lion, c’est la planète de l’imagination et de la compassion dans le signe de feu fixe du cœur, où Neptune a séjourné de septembre 1914 à juillet 1929. C’est la plus ancienne génération en vie. J’y lis le rêve d’un grand amour et de l’art : une imagination qui veut une scène, un cœur qui veut être vu."
+definition: "Neptune en Lion, c’est la planète des rêves et de l’inspiration dans le signe de feu fixe du cœur, où Neptune a séjourné de septembre 1914 à juillet 1929. C’est la plus ancienne génération en vie. J’y lis le rêve d’un grand amour et de l’art : une imagination qui veut une scène, un cœur qui veut être vu."
 facts:
   - { k: "Corps", v: "Neptune ♆" }
   - { k: "Signe", v: "Lion ♌, gouverné par le Soleil" }
@@ -33,11 +33,11 @@ Neptune en Lion est le placement de la plus ancienne génération en vie aujourd
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le [Lion](/astrology/leo/), signe de feu fixe gouverné par le Soleil, est le signe du cœur : la création, le jeu, l’amour, la chaleur d’être pleinement soi devant les autres. [Neptune](/astrology/neptune/) en Lion rêve à travers ce cœur. L’imagination veut une scène, un écran, une page ou une piste de danse ; la compassion est généreuse, la main ouverte ; les idéaux se rassemblent autour de l’amour et de l’art, la grande romance, l’histoire qui élève toute la salle. Le signe est fixe : le rêve est donc fidèle. Une fois qu’il aime une personne, une chanson ou un art, il continue d’aimer.
+La création, le jeu, l’amour, la chaleur d’être pleinement soi devant les autres : voilà le [Lion](/astrology/leo/), signe de feu fixe gouverné par le Soleil, le signe du cœur. [Neptune](/astrology/neptune/) en Lion rêve à travers ce cœur. L’imagination veut une scène, un écran, une page ou une piste de danse ; la compassion est généreuse, la main ouverte ; les idéaux se rassemblent autour de l’amour et de l’art, la grande romance, l’histoire qui élève toute la salle. Le signe est fixe : le rêve est donc fidèle. Une fois qu’il aime une personne, une chanson ou un art, il continue d’aimer.
 
 Neptune n’a pas de dignité en Lion. Le [Soleil](/astrology/sun/), maître du signe, porte ce rêve : la place de votre Soleil montre comment le désir de briller par l’imagination est devenu votre propre façon de vous montrer.
 
-Neptune était en Lion de septembre 1914 à juillet 1929. Jusqu’en mai 1916, Neptune faisait encore l’aller-retour avec le Cancer, et dès septembre 1928 avec la Vierge : pour une naissance de ces mois-là, seul un thème peut distinguer ce placement de [Neptune en Cancer](/astrology/neptune-in-cancer/) ou de [Neptune en Vierge](/astrology/neptune-in-virgo/). Aucune des naissances de 1930 à 2009 n’a ce placement, et Neptune y revient de septembre 2078 à juillet 2093. Toute votre génération partage le signe. Ce qui en a fait le vôtre, c’est la maison : la part de votre vie où vous vouliez le plus créer, aimer en grand, vous montrer.
+Neptune était en Lion de septembre 1914 à juillet 1929. Jusqu’en mai 1916, Neptune faisait encore l’aller-retour avec le Cancer, et dès septembre 1928 avec la Vierge : pour une naissance de ces mois-là, seul un thème peut distinguer ce placement de [Neptune en Cancer](/astrology/neptune-in-cancer/) ou de [Neptune en Vierge](/astrology/neptune-in-virgo/). Neptune y revient de septembre 2078 à juillet 2093 ; aucune naissance entre 1930 et 2009 n’a ce placement. Toute votre génération partage le signe. Ce qui en a fait le vôtre, c’est la maison : la part de votre vie où vous vouliez le plus créer, aimer en grand, vous montrer.
 
 Si vous lisez cette page pour comprendre une personne de votre famille née ces années-là, demandez-lui avant de regarder son thème. Un thème appartient à la personne qui le porte : c’est la même règle que pour la synastrie, voir [Synastrie et consentement](/blog/synastry-behind-their-back/).
 
@@ -51,7 +51,7 @@ Au fil d’une vie de travail, Neptune en Lion cherche une scène. Le théâtre,
 
 ## Le plus difficile {#le-plus-difficile}
 
-Le Lion aime les applaudissements, et mon [carnet](/blog/i-tested-my-birth-chart/) n’en donnait aucun : une coche ou une croix à côté de chaque placement, pas de demi-points. Neptune a eu le même traitement que tout le reste, et ne fait pas partie des trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith ; dans l’ensemble, environ un tiers a tenu.
+Le Lion aime les applaudissements, et mon [carnet](/blog/i-tested-my-birth-chart/) n’en donnait aucun : une coche ou une croix à côté de chaque placement, pas de demi-points. Neptune a eu le même traitement que tout le reste. Les trois qui ont tenu bien plus souvent sont Saturne, Chiron et Lilith, et Neptune n’est pas du nombre ; dans l’ensemble, environ un tiers a tenu.
 
 Le plus difficile, dans ce placement, c’est la distance entre le moi imaginé et le moi vécu. Neptune en Lion peut idéaliser le regard des autres, au point que l’indifférence ressemble à une disparition, ou idéaliser des figures admirées jusqu’à ce qu’aucune personne réelle ne soit à la hauteur. Et la fierté peut cacher le besoin d’amour qui se trouve sous toute cette générosité.
 

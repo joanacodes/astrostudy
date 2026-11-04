@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 101
 glyph: "♆"
-definition: "Neptune en maison 5 signifie que Neptune se trouvait, à votre naissance, dans la maison de la création, du plaisir, du jeu et de l’amour. La joie y devient enchantement : un art fait de rêves, un amour qui s’éprend de ce qui pourrait être, un jeu qui répare. La tradition y plaçait les enfants ; je ne les prédis jamais."
+definition: "Neptune en maison 5, c’est Neptune dans la maison de la création, du plaisir, du jeu et de l’amour. La joie y devient enchantement : un art fait de rêves, un amour qui s’éprend de ce qui pourrait être, un jeu qui répare. La tradition y plaçait les enfants ; je ne les prédis jamais."
 facts:
   - { k: "Corps", v: "Neptune ♆" }
   - { k: "Maison", v: "Maison 5 : la création, le plaisir, le jeu, l’amour" }
@@ -34,21 +34,21 @@ La maison 5 est celle où l’on joue, et Neptune y joue pour de vrai : avec de
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La [maison 5](/astrology/5th-house/) est ce que vous faites pour la joie : la création, le plaisir, le jeu et l’amour, la façon dont vous vous montrez quand personne ne vous note. C’est une maison succédente, son signe naturel est le Lion, et la tradition l’appelait la Fortune favorable et y plaçait la joie de Vénus. [Neptune](/astrology/neptune/) porte son imagination droit dans cette joie. Créer ressemble peut-être moins à fabriquer qu’à laisser passer quelque chose : une mélodie, une image, un personnage qui arrive tout entier. Le plaisir penche vers le beau et l’atmosphère, la musique, le théâtre, le cinéma, la nage, la danse dans la cuisine, tout ce qui dissout l’ordinaire pendant une heure. Le Soleil, maître naturel de la maison 5, a aussi son mot à dire : sa place montre quelle part de ce jeu enchanté devient, au grand jour, une part de vous.
+La joie est l’affaire de la [maison 5](/astrology/5th-house/) : la création, le plaisir, le jeu et l’amour, la façon dont vous vous montrez quand personne ne vous note. C’est une maison succédente, son signe naturel est le Lion, et la tradition l’appelait la Fortune favorable et y plaçait la joie de Vénus. [Neptune](/astrology/neptune/) porte son imagination droit dans cette joie. Créer ressemble peut-être moins à fabriquer qu’à laisser passer quelque chose : une mélodie, une image, un personnage qui arrive tout entier. Le plaisir penche vers le beau et l’atmosphère, la musique, le théâtre, le cinéma, la nage, la danse dans la cuisine, tout ce qui dissout l’ordinaire pendant une heure. Le Soleil, maître naturel de la maison 5, a aussi son mot à dire : sa place montre quelle part de ce jeu enchanté devient, au grand jour, une part de vous.
 
 La tradition donnait aussi à la maison 5 les enfants. Je ne lis ni enfants ni grossesse dans aucun thème (voir [L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)) ; dans une vie d’adulte, la maison 5 est ce que vous créez et aimez pour le plaisir.
 
-Votre génération partage le signe de Neptune ; la maison est l’endroit où ce signe se vit pour vous. Avec Placidus, le système de maisons que j’utilise, la maison 5 dépend de l’heure de naissance comme toutes les autres, et près de l’une des pointes, ce placement peut devenir [Neptune en maison 4](/astrology/neptune-in-4th-house/) ou [Neptune en maison 6](/astrology/neptune-in-6th-house/) si l’heure est un peu fausse (voir [ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Toutes les personnes de votre âge partagent le signe de Neptune ; la maison 5 est l’endroit où le vôtre apprend à jouer. En Placidus, que j’utilise, la maison 5 dépend de l’heure de naissance comme toutes les autres, et près de l’une des pointes, ce placement peut devenir [Neptune en maison 4](/astrology/neptune-in-4th-house/) ou [Neptune en maison 6](/astrology/neptune-in-6th-house/) si l’heure est un peu fausse (voir [ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-En amour, Neptune en maison 5 s’éprend de ce qui pourrait être. La cour a quelque chose d’enchanté, et les premiers mois d’un amour comptent parfois parmi les plus imaginatifs d’une vie : des lettres, des chansons, des lieux qui deviennent les vôtres. Vous aimez peut-être le potentiel de quelqu’un, ou le rôle que cette personne joue dans votre histoire, plus que la personne qui reste quand la musique s’arrête. C’est le soin que demande ce placement. La maison opposée, la maison 11, est celle de l’amitié, et un amour qui commence en amitié laisse au rêve le temps de rencontrer la personne. L’amour qui dure, c’est celui où le rêve et la personne du grand jour finissent par s’entendre.
+Neptune en maison 5 s’éprend, en amour, de ce qui pourrait être. La cour a quelque chose d’enchanté, et les premiers mois d’un amour comptent parfois parmi les plus imaginatifs d’une vie : des lettres, des chansons, des lieux qui deviennent les vôtres. Vous aimez peut-être le potentiel de quelqu’un, ou le rôle que cette personne joue dans votre histoire, plus que la personne qui reste quand la musique s’arrête. C’est le soin que demande ce placement. La maison opposée, la maison 11, est celle de l’amitié, et un amour qui commence en amitié laisse au rêve le temps de rencontrer la personne. L’amour qui dure, c’est celui où le rêve et la personne du grand jour finissent par s’entendre.
 
 ## Au travail {#au-travail}
 
-Au travail, Neptune en maison 5 veut créer. Les arts, la musique, le cinéma, le théâtre, la danse, le design, l’enseignement de l’art ou du théâtre, et tout travail qui fait passer un bon moment aux autres conviennent à ce placement. Vous travaillez peut-être au mieux quand cela ressemble à un jeu. Le risque : attendre l’inspiration au lieu de pratiquer, ou laisser de belles choses inachevées parce que les finir romprait le charme.
+Créer, voilà le travail que veut Neptune en maison 5. Les arts, la musique, le cinéma, le théâtre, la danse, le design, l’enseignement de l’art ou du théâtre, et tout travail qui fait passer un bon moment aux autres conviennent à ce placement. Vous travaillez peut-être au mieux quand cela ressemble à un jeu. Le risque : attendre l’inspiration au lieu de pratiquer, ou laisser de belles choses inachevées parce que les finir romprait le charme.
 
-Mon [carnet](/blog/i-tested-my-birth-chart/) ne laissait aucune place au jeu : une coche ou une croix à côté de chaque placement, pas de demi-points. J’y ai noté Neptune comme tout le reste ; Neptune ne fait pas partie des trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith, et dans l’ensemble, environ un tiers a tenu.
+Mon [carnet](/blog/i-tested-my-birth-chart/) ne laissait aucune place au jeu : une coche ou une croix pour chaque placement, et pas de demi-points. J’y ai noté Neptune comme tout le reste. Saturne, Chiron et Lilith ont tenu bien plus souvent que les autres ; Neptune, non, et dans l’ensemble, environ un tiers a tenu.
 
 ## Le plus difficile {#le-plus-difficile}
 

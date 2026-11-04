@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 103
 glyph: "♆♎"
-definition: "Neptune en Balance, c’est la planète de l’imagination et de la compassion dans le signe d’air cardinal du couple et de l’équilibre, où Neptune a séjourné d’octobre 1942 à août 1957. La génération née alors partage un même idéal, l’harmonie parfaite : l’amour rêvé comme une rencontre entre égaux, et l’aspiration à la justice et à la paix."
+definition: "Neptune en Balance, c’est la planète des idéaux et de la compassion dans le signe d’air cardinal du couple et de l’équilibre, où Neptune a séjourné d’octobre 1942 à août 1957. La génération née alors partage un même idéal, l’harmonie parfaite : l’amour rêvé comme une rencontre entre égaux, et l’aspiration à la justice et à la paix."
 facts:
   - { k: "Corps", v: "Neptune ♆" }
   - { k: "Signe", v: "Balance ♎, gouvernée par Vénus" }
@@ -37,9 +37,9 @@ Placez l’imagination et la compassion de [Neptune](/astrology/neptune/) en [Ba
 
 La Balance n’est ni le domicile ni l’exil de Neptune, et Neptune n’a ni exaltation ni chute : il n’y a donc pas de dignité à peser ici. Il y a en revanche [Vénus](/astrology/venus/). Vénus gouverne la Balance : ce que vous trouvez beau et juste, et la maison où se trouve votre Vénus, montrent comment ce rêve d’harmonie partagé prend une forme personnelle.
 
-Neptune a passé près de quinze ans en Balance : sur l’ensemble des personnes nées de 1930 à 2009, environ 1 sur 6 a ce placement, celui d’une génération qui a aujourd’hui entre 69 et 84 ans à peu près. Jusqu’en août 1943, Neptune repassait encore en Vierge, et dès décembre 1955, Neptune entrait par moments en Scorpion : pour une naissance pendant ces mois-là, votre placement est peut-être [Neptune en Vierge](/astrology/neptune-in-virgo/) ou [Neptune en Scorpion](/astrology/neptune-in-scorpio/), et seul le thème peut le dire. Au sein de la génération, c’est la maison qui fait de Neptune en Balance un placement personnel : la part de votre vie où vous cherchez l’équilibre parfait.
+Neptune a passé près de quinze ans en Balance, assez pour toucher environ 1 personne sur 6 parmi les naissances de 1930 à 2009 ; cette génération a aujourd’hui entre 69 et 84 ans à peu près. Jusqu’en août 1943, Neptune repassait encore en Vierge, et dès décembre 1955, Neptune entrait par moments en Scorpion : pour une naissance pendant ces mois-là, votre placement est peut-être [Neptune en Vierge](/astrology/neptune-in-virgo/) ou [Neptune en Scorpion](/astrology/neptune-in-scorpio/), et seul le thème peut le dire. Au sein de la génération, c’est la maison qui fait de Neptune en Balance un placement personnel : la part de votre vie où vous cherchez l’équilibre parfait.
 
-Dans mon [carnet](/blog/i-tested-my-birth-chart/), ce placement est passé sur la même balance que les autres : le signe et la maison de Neptune ont été vérifiés comme chaque placement, Neptune ne fait pas partie des trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith, et dans l’ensemble, environ un tiers a tenu.
+Dans mon [carnet](/blog/i-tested-my-birth-chart/), ce placement est passé sur la même balance que les autres : le signe et la maison de Neptune y sont passés comme chaque placement. Saturne, Chiron et Lilith ont été les trois à tenir bien plus souvent ; Neptune n’en est pas, et dans l’ensemble, environ un tiers a tenu.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -51,7 +51,7 @@ Au travail, Neptune en Balance rêve de justice. La médiation, la négociation,
 
 ## Le plus difficile {#le-plus-difficile}
 
-Le plus difficile, c’est la distance entre l’harmonie que vous pouvez imaginer et celle que vous pouvez avoir. Les vrais couples connaissent des frictions. La vraie justice demande parfois une conversation difficile, et la vraie paix se négocie, elle ne se rêve pas. Quand l’écart se creuse, Neptune en Balance peut pousser à lisser les choses au lieu de les régler, à céder trop vite, ou à mesurer les personnes que vous aimez à une image qu’elles n’ont jamais acceptée.
+Entre l’harmonie que vous pouvez imaginer et celle que vous pouvez avoir, il y a une distance, et ce placement la ressent. Les vrais couples connaissent des frictions. La vraie justice demande parfois une conversation difficile, et la vraie paix se négocie, elle ne se rêve pas. Quand l’écart se creuse, Neptune en Balance peut pousser à lisser les choses au lieu de les régler, à céder trop vite, ou à mesurer les personnes que vous aimez à une image qu’elles n’ont jamais acceptée.
 
 ## Ce qui aide {#ce-qui-aide}
 

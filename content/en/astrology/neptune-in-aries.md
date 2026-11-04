@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 97
 glyph: "♆♈"
-definition: "Neptune in Aries is Neptune, the planet of imagination and compassion, in the cardinal fire sign of beginnings, where it arrived in 2025 and stays until 2039. Everyone born with it is still a child, so I read it as a generation’s sign: ideals that ask for action, and compassion that takes the first step."
+definition: "Neptune in Aries is Neptune, the planet of ideals and imagination, in the cardinal fire sign of beginnings, where it arrived in 2025 and stays until 2039. Everyone born with it is still a child, so I read it as a generation’s sign: ideals that ask for action, and compassion that takes the first step."
 facts:
   - { k: "Body", v: "Neptune ♆" }
   - { k: "Sign", v: "Aries ♈, ruled by Mars" }
@@ -20,7 +20,7 @@ faq:
   - q: "What does Neptune in Aries mean?"
     a: "Neptune’s imagination and compassion in the sign of beginnings: ideals that ask for action rather than waiting, and courage put at the service of a dream. It belongs to the generation born from 2025 to 2039, so I read it as that generation’s sign, never as a reading of any one child."
   - q: "When is Neptune in Aries?"
-    a: "From March 2025 to March 2039. Until January 2026 Neptune crossed back and forth with Pisces, and from May 2038 it does the same with Taurus, so births in those months need the chart. The previous stay ran from April 1861 to April 1875, so no adult alive today was born with it."
+    a: "From March 2025 to March 2039. Until January 2026 Neptune crossed back and forth with Pisces, and from May 2038 it does the same with Taurus, and for births in those months the chart decides. The previous stay ran from April 1861 to April 1875, so no adult alive today was born with it."
   - q: "What does Neptune in Aries mean for adults?"
     a: "For adults it’s a transit, not a birth placement. Until 2039 Neptune moves through part of your own chart, and the house it crosses is where an ideal may ask you to act for a while. I read transits as weather, not a forecast: they describe the mood of some years, never an event."
 sources:
@@ -52,7 +52,7 @@ At work, the dream of Neptune in Aries is the pioneer with a cause: starting som
 
 Every ideal has a shadow, and this one's is haste. Inspiration and impulse can look alike in Aries, and a dream of fresh starts can make it hard to stay with what has already begun. Courage, idealised, can turn into the belief that only bold acts count. And for adults watching this generation arrive, there's a hard part too: generational signs invite prophecy, and a sign is not a forecast for anyone's future.
 
-My [notebook](/blog/i-tested-my-birth-chart/) was a slower kind of courage, one placement at a time. Neptune's sign and house were checked like every other placement; Neptune wasn't one of the three that held far more often, Saturn, Chiron and Lilith, and overall about a third held.
+My [notebook](/blog/i-tested-my-birth-chart/) was a slower kind of courage, one placement at a time. Neptune's sign and house took their place in it like every other. The placements that held far more often were Saturn, Chiron and Lilith, Neptune not among them, and about a third of everything held.
 
 ## What helps {#what-helps}
 

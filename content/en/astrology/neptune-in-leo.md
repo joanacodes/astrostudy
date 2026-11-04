@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 101
 glyph: "♆♌"
-definition: "Neptune in Leo is Neptune, the planet of imagination and compassion, in the fixed fire sign of the heart and self-expression, where it stayed from September 1914 to July 1929. It belongs to the oldest generation alive. I read it as a dream of grand romance and art: imagination that wants a stage, a heart that wants to be seen."
+definition: "Neptune in Leo is Neptune, the planet of dreams and inspiration, in the fixed fire sign of the heart and self-expression, where it stayed from September 1914 to July 1929. It belongs to the oldest generation alive. I read it as a dream of grand romance and art: imagination that wants a stage, a heart that wants to be seen."
 facts:
   - { k: "Body", v: "Neptune ♆" }
   - { k: "Sign", v: "Leo ♌, ruled by the Sun" }
@@ -32,11 +32,11 @@ Neptune in Leo is the Neptune of the oldest generation alive today: everyone bor
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Leo](/astrology/leo/), fixed fire ruled by the Sun, is the sign of the heart: creativity, play, romance, the warmth of being fully yourself in front of others. [Neptune](/astrology/neptune/) in Leo dreams through that heart. Its imagination wants a stage, a screen, a page or a dance floor; its compassion is generous and open-handed; its ideals gather around love and art, the grand romance, the story that lifts everyone in the room. The sign is fixed, so the dream is loyal. Once it loves a person, a song or an art, it keeps loving.
+Creativity, play, romance, the warmth of being fully yourself in front of others: that is [Leo](/astrology/leo/), fixed fire ruled by the Sun, the sign of the heart. [Neptune](/astrology/neptune/) in Leo dreams through that heart. Its imagination wants a stage, a screen, a page or a dance floor; its compassion is generous and open-handed; its ideals gather around love and art, the grand romance, the story that lifts everyone in the room. The sign is fixed, so the dream is loyal. Once it loves a person, a song or an art, it keeps loving.
 
 Neptune has no dignity in Leo. The [Sun](/astrology/sun/), the sign's ruler, carries this dream: where your Sun sits shows how the wish to shine through imagination became your own way of being seen.
 
-Neptune was in Leo from September 1914 to July 1929. Until May 1916 it was still crossing back and forth with Cancer, and from September 1928 with Virgo, so for births in those months only a chart can tell this placement from [Neptune in Cancer](/astrology/neptune-in-cancer/) or [Neptune in Virgo](/astrology/neptune-in-virgo/). None of the births from 1930 to 2009 have it, and it next returns from September 2078 to July 2093. Your whole generation shares the sign. What made it yours was its house: the part of your life where you most wanted to create, to love grandly, to be seen.
+Neptune was in Leo from September 1914 to July 1929. Until May 1916 it was still crossing back and forth with Cancer, and from September 1928 with Virgo, so for births in those months only a chart can tell this placement from [Neptune in Cancer](/astrology/neptune-in-cancer/) or [Neptune in Virgo](/astrology/neptune-in-virgo/). It returns from September 2078 to July 2093; no birth between 1930 and 2009 has it. Your whole generation shares the sign. What made it yours was its house: the part of your life where you most wanted to create, to love grandly, to be seen.
 
 If you're reading this to understand someone in your family born in those years, ask them before you look at their chart. A chart is its owner's to share, the same rule I keep in [synastry and consent](/blog/synastry-behind-their-back/).
 
@@ -50,7 +50,7 @@ Over a working life, this Neptune looks for a stage. Theatre, film, music, dance
 
 ## The hard part {#the-hard-part}
 
-Leo loves applause, and my [notebook](/blog/i-tested-my-birth-chart/) gave none: a tick or a cross beside each placement, no half marks. Neptune got the same treatment as everything else. It wasn't one of the three that held far more often, Saturn, Chiron and Lilith, and overall about a third held.
+Leo loves applause, and my [notebook](/blog/i-tested-my-birth-chart/) gave none: a tick or a cross beside each placement, no half marks. Neptune got the same treatment as everything else. The three that held far more often were Saturn, Chiron and Lilith, and Neptune wasn't among them; overall, about a third held.
 
 The hard part of this placement is the distance between the self it imagines and the self it lives. A Leo Neptune can idealise being seen, so that being overlooked feels like vanishing, or idealise the heroes it admires until no real person can measure up. And pride can hide the wish for love that sits underneath all that generosity.
 

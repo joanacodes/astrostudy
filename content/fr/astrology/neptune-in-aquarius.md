@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 107
 glyph: "♆♒"
-definition: "Neptune en Verseau, c’est la planète de l’imagination et de la compassion dans le signe d’air fixe de la communauté et de l’avenir, où Neptune a séjourné de janvier 1998 à février 2012. J’y lis l’idéal de cette génération, un monde relié et plus juste : une compassion qui atteint les inconnus, et le rêve d’appartenir à quelque chose de partagé."
+definition: "Neptune en Verseau, c’est la planète de la compassion et du rêve collectif dans le signe d’air fixe de la communauté et de l’avenir, où Neptune a séjourné de janvier 1998 à février 2012. J’y lis l’idéal de cette génération, un monde relié et plus juste : une compassion qui atteint les inconnus, le rêve d’appartenir à quelque chose de partagé."
 facts:
   - { k: "Corps", v: "Neptune ♆" }
   - { k: "Signe", v: "Verseau ♒, gouverné par Uranus (moderne) et Saturne (traditionnel)" }
@@ -37,17 +37,17 @@ Le [Verseau](/astrology/aquarius/), signe d’air fixe, pense au grand nombre :
 
 Le Verseau a deux maîtres, et je lis les deux. [Uranus](/astrology/uranus/), son maître moderne, montre où ce rêve d’un monde relié veut tenter du neuf ; [Saturne](/astrology/saturn/), le maître traditionnel, montre où ce rêve doit construire avec patience. Ensemble, ces deux planètes décrivent la tension de ce placement : l’envie de réinventer le monde, et la patience qu’il faut pour en changer la moindre part.
 
-Dans [mon carnet](/blog/i-tested-my-birth-chart/), les placements n’étaient pas notés en groupe : chacun a reçu sa propre coche ou sa propre croix, signe et maison de Neptune compris. Neptune ne fait pas partie des trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith, et dans l’ensemble, environ un tiers a tenu.
+Dans [mon carnet](/blog/i-tested-my-birth-chart/), les placements n’étaient pas notés en groupe : chacun a reçu sa propre coche ou sa propre croix, signe et maison de Neptune compris. Trois d’entre eux ont tenu bien plus souvent que les autres : Saturne, Chiron et Lilith. Neptune n’est pas de ces trois, et dans l’ensemble, environ un tiers a tenu.
 
-Neptune était en Verseau de janvier 1998 à février 2012 : environ 1 personne sur 7 née de 1930 à 2009 a ce placement. Jusqu’en novembre 1998, Neptune faisait encore l’aller-retour avec le Capricorne, et dès avril 2011 avec les Poissons : une naissance de ces mois-là peut donc avoir [Neptune en Capricorne](/astrology/neptune-in-capricorn/) ou [Neptune en Poissons](/astrology/neptune-in-pisces/). Les personnes nées en 1998 approchent de la trentaine. Les plus jeunes de la génération sont encore adolescentes ou adolescents, et je ne lis pas le [thème des enfants](/astrology/childrens-charts/) : cette page s’adresse aux personnes déjà adultes. Ce qui vous appartient au sein de la génération, c’est la maison : la part de votre vie où vous cherchez les vôtres.
+Neptune était en Verseau de janvier 1998 à février 2012 : environ 1 personne sur 7 née de 1930 à 2009 a ce placement. Jusqu’en novembre 1998, Neptune faisait encore l’aller-retour avec le Capricorne, et dès avril 2011 avec les Poissons : une naissance de ces mois-là relève peut-être de [Neptune en Capricorne](/astrology/neptune-in-capricorn/) ou de [Neptune en Poissons](/astrology/neptune-in-pisces/). Les personnes nées en 1998 approchent de la trentaine. Les plus jeunes de la génération sont encore adolescentes ou adolescents, et je ne lis pas le [thème des enfants](/astrology/childrens-charts/) : cette page s’adresse aux personnes déjà adultes. Ce qui vous appartient au sein de la génération, c’est la maison : la part de votre vie où vous cherchez les vôtres.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-En amour, Neptune en Verseau part souvent de l’amitié. L’idéal : une relation d’égal à égal où l’on est aussi dans le même camp, deux personnes qui croient au même avenir et se laissent de l’espace. La chaleur vous vient peut-être plus facilement face à une foule que face à une seule personne, ce qui peut dérouter quelqu’un qui a besoin de se sentir unique à vos yeux. Le lien grandit quand votre large compassion se pose sur quelqu’un en particulier : ses manies, ses mauvais jours, les détails qui n’appartiennent qu’à cette personne-là.
+Chez Neptune en Verseau, l’amour part souvent de l’amitié. L’idéal : une relation d’égal à égal où l’on est aussi dans le même camp, deux personnes qui croient au même avenir et se laissent de l’espace. La chaleur vous vient peut-être plus facilement face à une foule que face à une seule personne, ce qui peut dérouter quelqu’un qui a besoin de se sentir unique à vos yeux. Le lien grandit quand votre large compassion se pose sur quelqu’un en particulier : ses manies, ses mauvais jours, les détails qui n’appartiennent qu’à cette personne-là.
 
 ## Au travail {#au-travail}
 
-Au travail, Neptune en Verseau rêve du bien commun. Les projets collectifs, les réseaux, la recherche, le militantisme, le travail associatif, les sciences ou les techniques mises au service de tout le monde : tout ce qui relie les gens convient à ce placement. Vous savez imaginer un meilleur système bien avant que les autres en voient le besoin. Le risque : donner des années à une cause ou à un groupe sans remarquer qu’il ne vous rend plus rien, ou que les personnes qui le dirigent ont cessé d’être à la hauteur de ses idéaux.
+Le bien commun est le rêve de Neptune en Verseau au travail. Les projets collectifs, les réseaux, la recherche, le militantisme, le travail associatif, les sciences ou les techniques mises au service de tout le monde : tout ce qui relie les gens convient à ce placement. Vous savez imaginer un meilleur système bien avant que les autres en voient le besoin. Le risque : donner des années à une cause ou à un groupe sans remarquer qu’il ne vous rend plus rien, ou que les personnes qui le dirigent ont cessé d’être à la hauteur de ses idéaux.
 
 ## Le plus difficile {#le-plus-difficile}
 

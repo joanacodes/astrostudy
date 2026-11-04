@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 104
 glyph: "♆♏"
-definition: "Neptune en Scorpion, c’est la planète de l’imagination et de la compassion dans le signe d’eau fixe de la profondeur et de l’intimité, où Neptune a séjourné de décembre 1955 à novembre 1970. Pour la génération née alors, j’y lis l’attrait de la profondeur : l’intimité sans masques, le mystère, la compassion qui reste dans l’obscurité."
+definition: "Neptune en Scorpion, c’est la planète de l’imagination et de l’empathie dans le signe d’eau fixe de la profondeur et de l’intimité, où Neptune a séjourné de décembre 1955 à novembre 1970. Pour la génération née alors, j’y lis l’attrait de la profondeur : l’intimité sans masques, le mystère, la compassion qui reste dans l’obscurité."
 facts:
   - { k: "Corps", v: "Neptune ♆" }
   - { k: "Signe", v: "Scorpion ♏, gouverné par Pluton (moderne) et Mars (traditionnel)" }
@@ -37,7 +37,7 @@ Le [Scorpion](/astrology/scorpio/), signe d’eau fixe, va au fond des choses et
 
 Le Scorpion a deux maîtres, et je lis les deux. [Pluton](/astrology/pluto/), son maître moderne, montre où ce rêve de profondeur veut renouveler quelque chose à la racine ; [Mars](/astrology/mars/), le maître traditionnel, montre comment ce rêve poursuit ce qu’il désire. Neptune n’a pas de dignité ici, ni exaltation ni chute : ce sont donc ces deux planètes qui me disent comment Neptune en Scorpion avance dans votre thème.
 
-Neptune était en Scorpion de décembre 1955 à novembre 1970 : environ 1 personne sur 6 née de 1930 à 2009 a ce placement, celui d’une génération qui a aujourd’hui entre 55 et 70 ans environ. Jusqu’en août 1957, Neptune repassait encore en Balance, et dès janvier 1970, Neptune avançait déjà en Sagittaire : une naissance de ces mois-là peut donc avoir [Neptune en Balance](/astrology/neptune-in-libra/) ou [Neptune en Sagittaire](/astrology/neptune-in-sagittarius/). Vos camarades de classe partagent sans doute votre Neptune en Scorpion. Ce que vos camarades ne partagent pas, c’est la maison, et c’est dans la maison que cette aspiration à la profondeur devient la vôtre : la part de la vie que vous voulez le plus comprendre de l’intérieur.
+De décembre 1955 à novembre 1970, Neptune séjournait en Scorpion, ce qui donne ce placement à environ 1 personne sur 6 née entre 1930 et 2009, une génération qui a aujourd’hui entre 55 et 70 ans environ. Jusqu’en août 1957, Neptune repassait encore en Balance, et dès janvier 1970, Neptune avançait déjà en Sagittaire : pour une naissance de ces mois-là, c’est le thème qui tranche entre ce signe et [Neptune en Balance](/astrology/neptune-in-libra/) ou [Neptune en Sagittaire](/astrology/neptune-in-sagittarius/). Vos camarades de classe partagent sans doute votre Neptune en Scorpion. Ce que vos camarades ne partagent pas, c’est la maison, et c’est dans la maison que cette aspiration à la profondeur devient la vôtre : la part de la vie que vous voulez le plus comprendre de l’intérieur.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -53,6 +53,6 @@ Un don pour voir ce qui est caché peut devenir l’habitude de le voir partout.
 
 ## Ce qui aide {#ce-qui-aide}
 
-Mon [carnet](/blog/i-tested-my-birth-chart/) est aussi allé sous la surface, une coche ou une croix à la fois. Le signe et la maison de Neptune ont été vérifiés comme chaque placement ; Neptune ne fait pas partie des trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith, et dans l’ensemble, environ un tiers a tenu.
+Mon [carnet](/blog/i-tested-my-birth-chart/) est aussi allé sous la surface, une coche ou une croix à la fois. Le signe et la maison de Neptune ont eu leur tour, comme chaque placement. Neptune ne compte pas parmi les trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith, et dans l’ensemble du carnet, environ un tiers a tenu.
 
 Ce qui aide le plus, c’est de laisser certaines choses être simples : tous les silences ne cachent pas quelque chose, et tous les liens n’ont pas besoin d’être totaux. Donner à la profondeur une forme que vous choisissez : un journal, un artisanat, une conversation avec une personne formée à l’écoute. Et vous exercer à lâcher prise en petit, un projet, une opinion, une soirée, pour que le grand lâcher-prise ne soit pas le premier que vous tentiez.

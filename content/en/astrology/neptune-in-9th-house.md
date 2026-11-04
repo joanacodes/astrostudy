@@ -43,14 +43,14 @@ In love, this Neptune wants a companion in meaning: someone to share a faith, a 
 
 ## At work {#at-work}
 
-At work, the 9th is teaching, publishing, travel and faith, and Neptune here leans towards vocations that widen horizons: teaching religion, philosophy or art, translation, travel work, retreats and pilgrim routes, chaplaincy. Higher education suits it too, research in the humanities, music or theology, where wonder is part of the method. You may be a natural interpreter between cultures or beliefs. The trap is a calling so lofty that the ordinary work it needs never quite gets done.
+Teaching, publishing, travel and faith are the 9th house's work, and Neptune here leans towards vocations that widen horizons: teaching religion, philosophy or art, translation, travel work, retreats and pilgrim routes, chaplaincy. Higher education suits it too, research in the humanities, music or theology, where wonder is part of the method. You may be a natural interpreter between cultures or beliefs. The trap is a calling so lofty that the ordinary work it needs never quite gets done.
 
 ## The hard part {#the-hard-part}
 
 An open mind can be easy to fill. This Neptune may believe a beautiful idea before testing it, follow a teacher further than the evidence allows, or keep searching so long that no belief is ever lived. Faraway places can look perfect from here and ordinary once you arrive.
 
-When I set out to test astrology, my [notebook](/blog/i-tested-my-birth-chart/) was how I checked my sources: a tick or a cross beside each placement. Neptune was checked like every other, wasn't one of the three that held far more often, Saturn, Chiron and Lilith, and overall about a third held.
+When I set out to test astrology, my [notebook](/blog/i-tested-my-birth-chart/) was how I checked my sources: a tick or a cross beside each placement. Neptune was checked like every other placement, and the count was plain: about a third held overall, and the three that held far more often were Saturn, Chiron and Lilith, not Neptune.
 
 ## What helps {#what-helps}
 
-Check your sources, kindly and always. Keep one practice that grounds the search: a walk, a prayer, a class, a journal. Learn one tradition deeply as well as many widely. Notice when the search has become a way of never arriving, and let yourself arrive somewhere for a while. And bring something home from every journey, an idea you'll use on an ordinary Tuesday.
+Ask where an idea comes from before you give it your heart, every time. Keep one practice that grounds the search: a walk, a prayer, a class, a journal. Learn one tradition deeply as well as many widely. Notice when the search has become a way of never arriving, and let yourself arrive somewhere for a while. And bring something home from every journey, an idea you'll use on an ordinary Tuesday.

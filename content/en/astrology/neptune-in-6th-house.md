@@ -33,7 +33,7 @@ In the 6th house, Neptune lives in the plainest part of the chart: the alarm clo
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 6th house](/astrology/6th-house/) is the shape of an ordinary day: the work you do, the routines that hold you up, the people you work alongside and the care you give your body. It's cadent, its natural sign is Virgo, and tradition called it Bad Fortune and placed the joy of Mars here. [Neptune](/astrology/neptune/), in this most practical of houses, wants the everyday to mean something. A routine with a reason, feeding someone, practising an instrument, tending a garden, can hold for years; a routine without one tends to dissolve by Wednesday. Work becomes a form of service, and you may give it more than the job asks.
+An ordinary day has a shape, and [the 6th house](/astrology/6th-house/) is that shape: the work you do, the routines that hold you up, the people you work alongside and the care you give your body. It's cadent, its natural sign is Virgo, and tradition called it Bad Fortune and placed the joy of Mars here. [Neptune](/astrology/neptune/), in this most practical of houses, wants the everyday to mean something. A routine with a reason, feeding someone, practising an instrument, tending a garden, can hold for years; a routine without one tends to dissolve by Wednesday. Work becomes a form of service, and you may give it more than the job asks.
 
 Tradition also gave the 6th illness. I don't read illness in any chart ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). With Neptune here I read a body and a nervous system that are sensitive to atmosphere: a reason to listen to yourself kindly, and to a doctor when something is wrong, never a diagnosis.
 
@@ -51,8 +51,8 @@ This is the placement's main stage. Care work, support roles, therapy and counse
 
 Routines slip. Days can blur into one another when nothing gives them shape, and plans for a calmer week may stay plans. At work, you may give until there's little left, or find it hard to say no to anyone who seems to need you. Colleagues' moods can follow you home.
 
-My [notebook](/blog/i-tested-my-birth-chart/) was a routine of its own, one placement after another, a tick or a cross. Neptune was checked like every placement; it wasn't one of the three that held far more often, Saturn, Chiron and Lilith, and overall about a third held.
+My [notebook](/blog/i-tested-my-birth-chart/) was a routine of its own, one placement after another, a tick or a cross. Neptune took its turn like every placement. It was Saturn, Chiron and Lilith that held far more often, not Neptune, and overall about a third held.
 
 ## What helps {#what-helps}
 
-Give each routine a reason you believe in, and keep it small enough to survive a bad week. Set clear hours and a place to recover, whatever your work. Let the body's signals count: tiredness, tension, a need for quiet. Keep one short daily practice that is yours alone, ten minutes of music, a walk, a prayer, so the house of routine doesn't become the house of everyone else's needs. And remember that service you can keep up for years helps more people than service that empties you in months.
+A reason you believe in, for each routine, and a routine small enough to survive a bad week. Set clear hours and a place to recover, whatever your work. Let the body's signals count: tiredness, tension, a need for quiet. Keep one short daily practice that is yours alone, ten minutes of music, a walk, a prayer, so the house of routine doesn't become the house of everyone else's needs. And remember that service you can keep up for years helps more people than service that empties you in months.

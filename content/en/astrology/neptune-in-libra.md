@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 103
 glyph: "♆♎"
-definition: "Neptune in Libra is Neptune, the planet of imagination and compassion, in the cardinal air sign of partnership and balance, where it stayed from October 1942 to August 1957. The generation born then shares one high ideal, perfect harmony: love imagined as a meeting of equals, and a longing for fairness and peace."
+definition: "Neptune in Libra is Neptune, the planet of ideals and compassion, in the cardinal air sign of partnership and balance, where it stayed from October 1942 to August 1957. The generation born then shares one high ideal, perfect harmony: love imagined as a meeting of equals, and a longing for fairness and peace."
 facts:
   - { k: "Body", v: "Neptune ♆" }
   - { k: "Sign", v: "Libra ♎, ruled by Venus" }
@@ -36,9 +36,9 @@ Put the imagination and compassion of [Neptune](/astrology/neptune/) in [Libra](
 
 Libra is neither Neptune's home nor its detriment, and Neptune has no exaltation or fall, so there is no dignity to weigh here. There is your [Venus](/astrology/venus/), though. Venus rules Libra, so what you find beautiful and fair, and the house your Venus sits in, shows how this shared dream of harmony takes a personal form.
 
-Neptune was in Libra for nearly fifteen years, and about 1 person in 6 born from 1930 to 2009 has it: a generation now aged roughly 69 to 84. Until August 1943 Neptune was still crossing back into Virgo, and from December 1955 it was already dipping into Scorpio, so for births in those months [Neptune in Virgo](/astrology/neptune-in-virgo/) or [Neptune in Scorpio](/astrology/neptune-in-scorpio/) may be yours instead; only the chart can say. Inside the generation, the house is what makes a Libra Neptune personal: the part of your life where you go looking for the perfect balance.
+Neptune spent nearly fifteen years in Libra, long enough to reach about 1 person in 6 of all births from 1930 to 2009; that generation is now aged roughly 69 to 84. Until August 1943 Neptune was still crossing back into Virgo, and from December 1955 it was already dipping into Scorpio, so for births in those months [Neptune in Virgo](/astrology/neptune-in-virgo/) or [Neptune in Scorpio](/astrology/neptune-in-scorpio/) may be yours instead; only the chart can say. Inside the generation, the house is what makes a Libra Neptune personal: the part of your life where you go looking for the perfect balance.
 
-My [notebook](/blog/i-tested-my-birth-chart/) didn't spare it the scales. Neptune's sign and house were checked like every placement, Neptune wasn't one of the three that held far more often, Saturn, Chiron and Lilith, and overall about a third held.
+My [notebook](/blog/i-tested-my-birth-chart/) didn't spare it the scales. Neptune's sign and house went on them like every other placement. Saturn, Chiron and Lilith came out as the three that held far more often; Neptune didn't join them, and overall about a third held.
 
 ## In close relationships {#in-close-relationships}
 
@@ -50,7 +50,7 @@ At work, this Neptune dreams of fairness. You may be drawn to mediating, negotia
 
 ## The hard part {#the-hard-part}
 
-The hard part is the distance between the harmony you can imagine and the harmony you can have. Real partnerships include friction. Real fairness sometimes needs a difficult conversation, and real peace is negotiated, not dreamed. When that gap opens, a Libra Neptune may smooth things over instead of sorting them out, agree too quickly, or measure the people you love against an image they never agreed to.
+Between the harmony you can imagine and the harmony you can have there is a distance, and this placement feels it. Real partnerships include friction. Real fairness sometimes needs a difficult conversation, and real peace is negotiated, not dreamed. When that gap opens, a Libra Neptune may smooth things over instead of sorting them out, agree too quickly, or measure the people you love against an image they never agreed to.
 
 ## What helps {#what-helps}
 

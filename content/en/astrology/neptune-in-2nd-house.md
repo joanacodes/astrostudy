@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 98
 glyph: "♆"
-definition: "Neptune in the 2nd house means Neptune was in the house of money, belongings, talents and self-worth when you were born. In a chart it sets values by ideals more than prices: generosity, a gift for imagination you could live from, and money that needs a clear system to stay in view. It never predicts gain or loss."
+definition: "Neptune in the 2nd house places the planet of ideals, at your birth, in the house of money, belongings, talents and self-worth. In a chart it sets values by ideals more than prices: generosity, a gift for imagination you could live from, and money that needs a clear system to stay in view. It never predicts gain or loss."
 facts:
   - { k: "Body", v: "Neptune ♆" }
   - { k: "House", v: "The 2nd house: money, belongings, talents, self-worth" }
@@ -28,17 +28,17 @@ sources:
   - { title: "Dorotheus of Sidon, Carmen Astrologicum", note: "the houses read in a nativity" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-Neptune in the 2nd house puts the planet of ideals in the house of money and belongings, and the two don't speak the same language. What you value most usually can't be counted, and what can be counted may slip out of view unless you keep an eye on it.
+Money and belongings speak one language and Neptune, the planet of ideals, speaks another; in the 2nd house the two have to share a room. What you value most usually can't be counted, and what can be counted may slip out of view unless you keep an eye on it.
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 2nd house](/astrology/2nd-house/) is what you have and what you value: the money you earn and keep, your belongings, the talents you could live from, and the sense of your own worth underneath them. It's succedent, a house where things settle and build up, and its natural sign is Taurus. With [Neptune](/astrology/neptune/) here, worth is measured by ideals. A thing matters for what it means: the book with a dedication inside, the ring that was someone's, the work done for a cause. Money can feel abstract, a tide rather than a sum, and generosity comes easily.
+What you have and what you value belong to [the 2nd house](/astrology/2nd-house/): the money you earn and keep, your belongings, the talents you could live from, and the sense of your own worth underneath them. It's succedent, a house where things settle and build up, and its natural sign is Taurus. With [Neptune](/astrology/neptune/) here, worth is measured by ideals. A thing matters for what it means: the book with a dedication inside, the ring that was someone's, the work done for a cause. Money can feel abstract, a tide rather than a sum, and generosity comes easily.
 
-Neptune's sign is shared by your whole generation. Its house is yours, and the 2nd brings Neptune down to the practical question of what you hold on to. Like every house, it is placed by the birth time: in Placidus, the house system I use, a Neptune near either cusp can move into [Neptune in the 1st house](/astrology/neptune-in-1st-house/) or [Neptune in the 3rd house](/astrology/neptune-in-3rd-house/) with a small change in the time ([what changes without a birth time](/blog/unknown-birth-time/)). And no house predicts money. I read the 2nd as how you handle worth, never as what you'll gain or lose ([can astrology pick investments?](/astrology/can-astrology-pick-investments/)).
+Neptune's sign is shared by your whole generation. Its house is yours, and the 2nd brings Neptune down to the practical question of what you hold on to. Like every house, it is placed by the birth time: in Placidus, the system I read in, a Neptune near either cusp can move into [Neptune in the 1st house](/astrology/neptune-in-1st-house/) or [Neptune in the 3rd house](/astrology/neptune-in-3rd-house/) with a small change in the time ([what changes without a birth time](/blog/unknown-birth-time/)). And no house predicts money. I read the 2nd as how you handle worth, never as what you'll gain or lose ([can astrology pick investments?](/astrology/can-astrology-pick-investments/)).
 
 ## In close relationships {#in-close-relationships}
 
-In love, this Neptune gives freely: gifts, time, money lent without counting. You may value a partner for their ideals more than their income, and share what you have without asking much in return. That generosity is lovely, and it needs clear agreements, because the opposite house, the 8th, holds what is shared and owed, and the line between your money and someone else's is exactly where this Neptune tends to blur. Talk about money plainly and early, keep track of what's yours as well as what's shared, and notice whether giving is a joy or a way of earning your place.
+Generosity comes first in this Neptune's love: gifts, time, money lent without counting. You may value a partner for their ideals more than their income, and share what you have without asking much in return. That generosity is lovely, and it needs clear agreements, because the opposite house, the 8th, holds what is shared and owed, and the line between your money and someone else's is exactly where this Neptune tends to blur. Talk about money plainly and early, keep track of what's yours as well as what's shared, and notice whether giving is a joy or a way of earning your place.
 
 ## At work {#at-work}
 
@@ -52,4 +52,4 @@ Money slipping through the fingers is the classic picture, and it isn't a fate. 
 
 A simple system you actually use: one place to see what comes in and goes out, one regular hour to look at it. A price for your work, set before the work begins. A short list of what you value, so that your spending can follow it rather than your mood.
 
-I once went through my own chart like an invoice, a tick or a cross on every line, and kept the results in my [notebook](/blog/i-tested-my-birth-chart/). Neptune's house was one line among the rest: checked like every placement, and not one of the three that held far more often, Saturn, Chiron and Lilith, while overall about a third held.
+I once went through my own chart like an invoice, a tick or a cross on every line, and kept the results in my [notebook](/blog/i-tested-my-birth-chart/). Neptune's house was one line among the rest, checked like every placement. When I added up the lines, about a third held, and the three that held far more often were Saturn, Chiron and Lilith, not Neptune.

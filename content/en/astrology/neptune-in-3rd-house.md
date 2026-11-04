@@ -29,13 +29,13 @@ sources:
   - { title: "Dorotheus of Sidon, Carmen Astrologicum", note: "the houses read in a nativity" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-With Neptune in the 3rd house, the planet of imagination lives in the most ordinary rooms of the mind: the shopping list, the text message, the walk to the shop. Everyday thinking turns to pictures, and a quick remark can carry a whole mood.
+The shopping list, the text message, the walk to the shop: with Neptune in the 3rd house, the planet of imagination lives in the most ordinary rooms of the mind. Everyday thinking turns to pictures, and a quick remark can carry a whole mood.
 
 ## In a birth chart {#in-a-birth-chart}
 
 [The 3rd house](/astrology/3rd-house/) is the everyday mind and the world close at hand: how you think, talk, write and learn, the people near you, siblings, cousins, neighbours, and the short journeys of a week. It's cadent, its natural sign is Gemini, and it's the Moon's joy. Its old name is the Goddess, and I like that for [Neptune](/astrology/neptune/): the tradition saw something sacred even in daily speech. Here Neptune's imagination works through words and images. You may think in scenes rather than steps, remember the feeling of a conversation better than its facts, and find that a song or a story explains something an argument couldn't.
 
-My [notebook](/blog/i-tested-my-birth-chart/) is the most 3rd-house thing I own: lines written by hand, a tick or a cross beside each one. Neptune went into it like every other placement. It wasn't one of the three that held far more often, Saturn, Chiron and Lilith, and overall about a third held.
+My [notebook](/blog/i-tested-my-birth-chart/) is the most 3rd-house thing I own: lines written by hand, a tick or a cross beside each one. Neptune went into it like every other placement, and when the counting was done, the three that held far more often were Saturn, Chiron and Lilith. About a third of everything held; Neptune wasn't one of the three.
 
 Neptune's sign belongs to your generation, but the house is yours, and the 3rd makes it a matter of how your mind moves day to day. In Placidus, the house system I use, the 3rd ends at the IC, the lowest point of the chart. A Neptune late in the 3rd can slip into the 4th with a few minutes' difference in the birth time, and [Neptune in the 4th house](/astrology/neptune-in-4th-house/) is about roots, not words ([what changes without a birth time](/blog/unknown-birth-time/)). [Neptune in the 2nd house](/astrology/neptune-in-2nd-house/), the house before, is about what you value; the 3rd is about what you say.
 
@@ -53,4 +53,4 @@ Details slip while imagination doesn't. Facts can blur into impressions, and mes
 
 ## What helps {#what-helps}
 
-Write things down, and keep the notes where you'll see them. Read anything you sign twice, once for the meaning and once for the figures. Learn through images, sound and stories when you can choose. And take short walks as thinking time: the 3rd house is the house of the journey round the corner, and this Neptune often finds its clearest thoughts on the way back.
+Notes help, kept where you'll see them. Read anything you sign twice, once for the meaning and once for the figures. Learn through images, sound and stories when you can choose. And take short walks as thinking time: the 3rd house is the house of the journey round the corner, and this Neptune often finds its clearest thoughts on the way back.

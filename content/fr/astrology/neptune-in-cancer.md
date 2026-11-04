@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 100
 glyph: "♆♋"
-definition: "Neptune en Cancer, c’est la planète de l’imagination et de la compassion dans le signe d’eau cardinal du foyer et de l’appartenance. Neptune y était de 1901 à 1916, et y revient en 2065 : les personnes nées alors auraient plus de 110 ans. On y lit des idéaux de foyer, de patrie et de famille, l’envie d’un port où revenir."
+definition: "Neptune en Cancer, c’est la planète de la compassion et de l’aspiration dans le signe d’eau cardinal du foyer et de l’appartenance. Neptune y était de 1901 à 1916, et y revient en 2065 : les personnes nées alors auraient plus de 110 ans. On y lit des idéaux de foyer, de patrie et de famille, l’envie d’un port où revenir."
 facts:
   - { k: "Corps", v: "Neptune ♆" }
   - { k: "Signe", v: "Cancer ♋, gouverné par la Lune" }
@@ -37,17 +37,17 @@ Le [Cancer](/astrology/cancer/), signe d’eau cardinal gouverné par la Lune, e
 
 Neptune n’a pas de dignité en Cancer. La [Lune](/astrology/moon/), maîtresse du signe, porte ce rêve : sa place montre comment l’aspiration à appartenir se ressent, et où elle cherche du réconfort.
 
-Neptune était en Cancer de juillet 1901 à mai 1916, avec des allers-retours avec les Gémeaux jusqu’en mai 1902 et avec le Lion à partir de septembre 1914. Neptune y revient de juillet 2065 à juillet 2079. Aucune des naissances de 1930 à 2009 n’a ce placement. Dans la suite des générations, Neptune en Cancer se place entre [Neptune en Gémeaux](/astrology/neptune-in-gemini/) et [Neptune en Lion](/astrology/neptune-in-leo/), le signe de la plus ancienne génération en vie aujourd’hui. Pour toute personne née avec ce placement, alors ou à partir de 2065, c’est la maison qui en fait un placement personnel : la pièce de la vie où se pose le désir d’un foyer.
+Neptune était en Cancer de juillet 1901 à mai 1916, avec des allers-retours avec les Gémeaux jusqu’en mai 1902 et avec le Lion à partir de septembre 1914. Neptune y revient de juillet 2065 à juillet 2079. Les naissances comptées de 1930 à 2009 n’en comprennent aucune avec ce placement. Dans la suite des générations, Neptune en Cancer se place entre [Neptune en Gémeaux](/astrology/neptune-in-gemini/) et [Neptune en Lion](/astrology/neptune-in-leo/), le signe de la plus ancienne génération en vie aujourd’hui. Pour toute personne née avec ce placement, alors ou à partir de 2065, c’est la maison qui en fait un placement personnel : la pièce de la vie où se pose le désir d’un foyer.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
 En amour, Neptune en Cancer décrit la dévotion comme un abri : quelqu’un auprès de qui l’on se sent chez soi, un lien qui prend soin des deux, une famille imaginée avant d’exister. La tendresse y est protectrice et loyale. Le risque : idéaliser le nid, aimer l’idée d’une famille plus que les personnes qui la composent, ou garder la paix à la maison en ne laissant jamais le changement passer la porte.
 
-Mon [carnet](/blog/i-tested-my-birth-chart/) a commencé à la maison, avec mon propre thème, puis ceux de ma famille, avec leur accord. J’y ai vérifié Neptune comme chaque placement ; Neptune ne fait pas partie des trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith, et dans l’ensemble, environ un tiers a tenu.
+Mon [carnet](/blog/i-tested-my-birth-chart/) a commencé à la maison, avec mon propre thème, puis ceux de ma famille, avec leur accord. J’y ai vérifié Neptune comme chaque placement. Neptune n’a jamais rejoint Saturne, Chiron et Lilith, les trois qui ont tenu bien plus souvent, et dans l’ensemble, environ un tiers a tenu.
 
 ## Au travail {#au-travail}
 
-Au travail, ce placement désigne des vocations d’abri et de mémoire : l’hôtellerie, la cuisine pour les autres, le travail social, le soin des tout-petits ou des personnes très âgées, l’histoire locale, les archives, les entreprises familiales, tout travail qui donne aux gens le sentiment d’appartenir. Le rêve d’abri peut être très concret : un toit réparé, un repas servi, une pièce gardée au chaud pour la prochaine personne qui entre. Son don : faire d’un lieu de travail un foyer. Son piège : traiter les collègues comme une famille, au point que des limites professionnelles ordinaires ressemblent à des trahisons.
+L’abri et la mémoire donnent forme au travail que désigne ce placement : l’hôtellerie, la cuisine pour les autres, le travail social, le soin des tout-petits ou des personnes très âgées, l’histoire locale, les archives, les entreprises familiales, tout travail qui donne aux gens le sentiment d’appartenir. Le rêve d’abri peut être très concret : un toit réparé, un repas servi, une pièce gardée au chaud pour la prochaine personne qui entre. Son don : faire d’un lieu de travail un foyer. Son piège : traiter les collègues comme une famille, au point que des limites professionnelles ordinaires ressemblent à des trahisons.
 
 ## Le plus difficile {#le-plus-difficile}
 

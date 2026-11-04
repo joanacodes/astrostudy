@@ -30,13 +30,13 @@ sources:
   - { title: "Dorothée de Sidon, Carmen Astrologicum", note: "les maisons lues dans un thème de naissance" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-Avec Neptune en maison 3, la planète de l’imagination habite les pièces les plus ordinaires de l’esprit : la liste de courses, le message, le chemin jusqu’à l’épicerie. La pensée de tous les jours se change en images, et une remarque rapide peut porter toute une humeur.
+La liste de courses, le message, le chemin jusqu’à l’épicerie : avec Neptune en maison 3, la planète de l’imagination habite les pièces les plus ordinaires de l’esprit. La pensée de tous les jours se change en images, et une remarque rapide peut porter toute une humeur.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
 La [maison 3](/astrology/3rd-house/) est l’esprit au quotidien et le monde proche : votre façon de penser, de parler, d’écrire et d’apprendre, les personnes près de vous, frères et sœurs, cousins, voisinage, et les petits trajets de la semaine. C’est une maison cadente, son signe naturel est les Gémeaux, et c’est la joie de la Lune. Son nom ancien est la Déesse, et ce nom me plaît pour [Neptune](/astrology/neptune/) : la tradition voyait quelque chose de sacré jusque dans la parole de tous les jours. Ici, l’imagination de Neptune passe par les mots et les images. Vous pensez peut-être en scènes plutôt qu’en étapes, vous vous souvenez mieux de l’atmosphère d’une conversation que de ses faits, et une chanson ou une histoire explique parfois ce qu’aucun argument ne pouvait expliquer.
 
-Mon [carnet](/blog/i-tested-my-birth-chart/) est l’objet le plus « maison 3 » que je possède : des lignes écrites à la main, une coche ou une croix à côté de chacune. Neptune y figure comme tous les autres placements. Neptune ne fait pas partie des trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith, et dans l’ensemble, environ un tiers a tenu.
+Mon [carnet](/blog/i-tested-my-birth-chart/) est l’objet le plus « maison 3 » que je possède : des lignes écrites à la main, une coche ou une croix à côté de chacune. Neptune y figure comme tous les autres placements, et le compte fait, les trois qui ont tenu bien plus souvent sont Saturne, Chiron et Lilith. Environ un tiers de l’ensemble a tenu ; Neptune n’appartient pas à ce trio.
 
 Le signe de Neptune appartient à votre génération, mais la maison est à vous, et la maison 3 en fait une affaire de pensée quotidienne. Avec Placidus, le système de maisons que j’utilise, la maison 3 se termine au fond du ciel, le point le plus bas du thème. Neptune en fin de maison 3 peut glisser en maison 4 avec quelques minutes d’écart sur l’heure de naissance, et [Neptune en maison 4](/astrology/neptune-in-4th-house/) parle de racines, pas de mots (voir [ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). [Neptune en maison 2](/astrology/neptune-in-2nd-house/), la maison d’avant, parle de ce qui compte pour vous ; la maison 3, de ce que vous dites.
 
@@ -54,4 +54,4 @@ Les détails filent, l’imagination reste. Les faits peuvent se fondre en impre
 
 ## Ce qui aide {#ce-qui-aide}
 
-Écrire les choses, et garder les notes là où vous les verrez. Relire deux fois ce que vous signez, une fois pour le sens et une fois pour les chiffres. Apprendre par les images, le son et les histoires quand vous pouvez choisir. Et faire de courtes marches pour penser : la maison 3 est celle du trajet au coin de la rue, et Neptune y trouve souvent ses pensées les plus claires sur le chemin du retour.
+Des notes, gardées là où vous les verrez. Relire deux fois ce que vous signez, une fois pour le sens et une fois pour les chiffres. Apprendre par les images, le son et les histoires quand vous pouvez choisir. Et faire de courtes marches pour penser : la maison 3 est celle du trajet au coin de la rue, et Neptune y trouve souvent ses pensées les plus claires sur le chemin du retour.

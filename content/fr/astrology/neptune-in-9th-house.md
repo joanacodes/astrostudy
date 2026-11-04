@@ -44,14 +44,14 @@ En amour, Neptune en maison 9 veut une compagne ou un compagnon de sens : quelq
 
 ## Au travail {#au-travail}
 
-Au travail, la maison 9 est celle de l’enseignement, de l’édition, du voyage et de la foi, et Neptune y penche vers les vocations qui élargissent l’horizon : enseigner les religions, la philosophie ou l’art, la traduction, les métiers du voyage, les retraites et les chemins de pèlerinage, l’aumônerie. L’enseignement supérieur convient aussi à ce placement, la recherche en lettres, en musique ou en théologie, où l’émerveillement fait partie de la méthode. Vous savez peut-être naturellement faire le lien entre les cultures ou les croyances. Le piège : une vocation si haute que le travail ordinaire qu’elle demande ne se fait jamais tout à fait.
+L’enseignement, l’édition, le voyage et la foi sont le travail de la maison 9, et Neptune y penche vers les vocations qui élargissent l’horizon : enseigner les religions, la philosophie ou l’art, la traduction, les métiers du voyage, les retraites et les chemins de pèlerinage, l’aumônerie. L’enseignement supérieur convient aussi à ce placement, la recherche en lettres, en musique ou en théologie, où l’émerveillement fait partie de la méthode. Vous savez peut-être naturellement faire le lien entre les cultures ou les croyances. Le piège : une vocation si haute que le travail ordinaire qu’elle demande ne se fait jamais tout à fait.
 
 ## Le plus difficile {#le-plus-difficile}
 
 Un esprit ouvert peut se remplir facilement. Neptune en maison 9 peut croire une belle idée avant de la mettre à l’épreuve, suivre une personne qui enseigne plus loin que les faits ne le permettent, ou chercher si longtemps qu’aucune croyance n’est jamais vécue. Les pays lointains peuvent sembler parfaits d’ici, et ordinaires une fois sur place.
 
-Quand j’ai voulu mettre l’astrologie à l’épreuve, mon [carnet](/blog/i-tested-my-birth-chart/) a été ma façon de vérifier mes sources : une coche ou une croix à côté de chaque placement. J’ai vérifié Neptune comme tous les autres ; Neptune ne fait pas partie des trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith, et dans l’ensemble, environ un tiers a tenu.
+Quand j’ai voulu mettre l’astrologie à l’épreuve, mon [carnet](/blog/i-tested-my-birth-chart/) a été ma façon de vérifier mes sources : une coche ou une croix à côté de chaque placement. J’ai vérifié Neptune comme tous les autres, et le compte était clair : environ un tiers a tenu dans l’ensemble, et les trois qui ont tenu bien plus souvent sont Saturne, Chiron et Lilith, pas Neptune.
 
 ## Ce qui aide {#ce-qui-aide}
 
-Vérifier vos sources, avec douceur et toujours. Garder une pratique qui ancre la quête : une marche, une prière, un cours, un journal. Connaître une tradition en profondeur autant que plusieurs en largeur. Remarquer quand la quête est devenue une façon de ne jamais arriver, et vous permettre d’arriver quelque part, pour un temps. Et rapporter quelque chose de chaque voyage, une idée qui servira un mardi ordinaire.
+Demander d’où vient une idée avant de lui donner votre cœur, chaque fois. Garder une pratique qui ancre la quête : une marche, une prière, un cours, un journal. Connaître une tradition en profondeur autant que plusieurs en largeur. Remarquer quand la quête est devenue une façon de ne jamais arriver, et vous permettre d’arriver quelque part, pour un temps. Et rapporter quelque chose de chaque voyage, une idée qui servira un mardi ordinaire.

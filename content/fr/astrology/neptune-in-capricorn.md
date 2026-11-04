@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 106
 glyph: "♆♑"
-definition: "Neptune en Capricorne, c’est la planète de l’imagination et de la compassion dans le signe de terre cardinal de la structure et de la réussite, où Neptune a séjourné de janvier 1984 à novembre 1998. J’y lis le désir de cette génération de donner corps aux rêves : des idéaux sur le travail et les institutions, des visions faites pour durer."
+definition: "Neptune en Capricorne, c’est la planète des rêves et des idéaux dans le signe de terre cardinal de la structure et de la réussite, où Neptune a séjourné de janvier 1984 à novembre 1998. J’y lis le désir de cette génération de donner corps aux rêves : des idéaux sur le travail et les institutions, des visions faites pour durer."
 facts:
   - { k: "Corps", v: "Neptune ♆" }
   - { k: "Signe", v: "Capricorne ♑, gouverné par Saturne" }
@@ -37,11 +37,11 @@ Le [Capricorne](/astrology/capricorn/) est un signe de terre cardinal, gouverné
 
 Neptune n’a pas de dignité en Capricorne, ni exaltation ni chute : c’est le maître du signe qui porte le poids. [Saturne](/astrology/saturn/) gouverne le Capricorne, et Saturne fait partie des [trois qui ont tenu](/blog/saturn-chiron-lilith/) bien plus souvent dans [mon carnet](/blog/i-tested-my-birth-chart/), 75 à 90 % du temps. J’ai vérifié Neptune comme chaque placement, et Neptune ne fait pas partie des trois ; dans l’ensemble, environ un tiers a tenu. Avec Neptune en Capricorne, je passe donc beaucoup de temps sur Saturne : sa place dans votre thème montre comment le rêve de cette génération se construit dans votre vie.
 
-Neptune était en Capricorne de janvier 1984 à novembre 1998 : environ 1 personne sur 6 née de 1930 à 2009 a ce placement, celui d’une génération qui a aujourd’hui entre 27 et 42 ans environ. Jusqu’en novembre 1984, Neptune faisait encore l’aller-retour avec le Sagittaire, et dès janvier 1998 avec le Verseau : pour une naissance pendant ces mois-là, votre placement est peut-être [Neptune en Sagittaire](/astrology/neptune-in-sagittarius/) ou [Neptune en Verseau](/astrology/neptune-in-aquarius/). Pour une partie de la génération, Uranus voyageait aux côtés de Neptune dans ce signe, un aspect qui a sa propre page : [Uranus conjonction Neptune](/astrology/uranus-conjunct-neptune/). C’est la maison qui fait de ce signe partagé le vôtre : le domaine de la vie où vous voulez le plus qu’un rêve tienne debout.
+Neptune arrive en Capricorne en janvier 1984 et y reste jusqu’en novembre 1998 ; environ 1 personne sur 6 née de 1930 à 2009 a ce placement, une génération qui a aujourd’hui entre 27 et 42 ans environ. Jusqu’en novembre 1984, Neptune faisait encore l’aller-retour avec le Sagittaire, et dès janvier 1998 avec le Verseau : pour une naissance pendant ces mois-là, votre placement est peut-être [Neptune en Sagittaire](/astrology/neptune-in-sagittarius/) ou [Neptune en Verseau](/astrology/neptune-in-aquarius/). Pour une partie de la génération, Uranus voyageait aux côtés de Neptune dans ce signe, un aspect qui a sa propre page : [Uranus conjonction Neptune](/astrology/uranus-conjunct-neptune/). C’est la maison qui fait de ce signe partagé le vôtre : le domaine de la vie où vous voulez le plus qu’un rêve tienne debout.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-En amour, Neptune en Capricorne idéalise l’engagement. Le rêve : un couple bâti comme une bonne maison, solide, abritant, un peu amélioré chaque année. Vous montrez peut-être votre tendresse par la fiabilité, les factures payées et les promesses tenues, et vous admirez les personnes compétentes et stables. Le risque : idéaliser le statut ou le sérieux de quelqu’un, ou traiter l’amour comme une chose de plus à réussir. Le lien s’approfondit quand la tendresse trouve sa place à côté du plan, et quand vous laissez l’autre voir vos rêves avant qu’ils soient terminés.
+C’est l’engagement que Neptune en Capricorne idéalise en amour, et son rêve est un couple bâti comme une bonne maison, solide, abritant, un peu amélioré chaque année. Vous montrez peut-être votre tendresse par la fiabilité, les factures payées et les promesses tenues, et vous admirez les personnes compétentes et stables. Le risque : idéaliser le statut ou le sérieux de quelqu’un, ou traiter l’amour comme une chose de plus à réussir. Le lien s’approfondit quand la tendresse trouve sa place à côté du plan, et quand vous laissez l’autre voir vos rêves avant qu’ils soient terminés.
 
 ## Au travail {#au-travail}
 
@@ -49,7 +49,7 @@ Au travail, Neptune en Capricorne veut une vocation avec des murs et un toit. Le
 
 ## Le plus difficile {#le-plus-difficile}
 
-Le plus difficile, c’est l’écart entre les structures que vous imaginiez et celles que vous trouvez. Les lieux de travail, les gouvernements, les familles et les carrières restent tous en deçà de l’idéal, et Neptune en Capricorne peut passer de la dévotion à la désillusion. Ce placement peut aussi changer les rêves en devoirs, comme si une vision devait se mériter par l’effort avant d’avoir le droit d’exister. Et plus l’idéal de réussite est haut, plus il est facile de se sentir en retard.
+Les structures que vous imaginiez et celles que vous trouvez se ressemblent rarement. Les lieux de travail, les gouvernements, les familles et les carrières restent tous en deçà de l’idéal, et Neptune en Capricorne peut passer de la dévotion à la désillusion. Ce placement peut aussi changer les rêves en devoirs, comme si une vision devait se mériter par l’effort avant d’avoir le droit d’exister. Et plus l’idéal de réussite est haut, plus il est facile de se sentir en retard.
 
 ## Ce qui aide {#ce-qui-aide}
 

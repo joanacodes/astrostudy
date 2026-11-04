@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 108
 glyph: "♆♓"
-definition: "Neptune in Pisces is Neptune, the planet of imagination and compassion, in its own sign for modern tropical astrology; the tradition gave Pisces to Jupiter. It was there from April 2011 to January 2026, so everyone born with it is still a child. I read it as a generation’s placement, where edges between people, art and belief grow thin."
+definition: "Neptune in Pisces is Neptune, the planet of transcendence and compassion, in its own sign for modern tropical astrology; the tradition gave Pisces to Jupiter. It was there from April 2011 to January 2026, so everyone born with it is still a child. I read it as a generation’s placement, where edges between people, art and belief grow thin."
 facts:
   - { k: "Body", v: "Neptune ♆" }
   - { k: "Sign", v: "Pisces ♓, ruled by Neptune (modern) and Jupiter (traditional)" }
@@ -38,7 +38,7 @@ In [Pisces](/astrology/pisces/), mutable water, [Neptune](/astrology/neptune/) h
 
 Pisces has two rulers, and I read both. In the modern scheme Neptune rules it, so this Neptune answers to no other planet. The tradition, which never knew Neptune, gave Pisces to [Jupiter](/astrology/jupiter/), and Jupiter keeps a say: where it sits in a chart shows how such open-ended compassion might grow into something lived, with a shape and a direction.
 
-Neptune was in Pisces from April 2011 to January 2026. Until February 2012 it was still crossing back and forth with Aquarius, and from March 2025 with Aries, so births in those months may have [Neptune in Aquarius](/astrology/neptune-in-aquarius/) or [Neptune in Aries](/astrology/neptune-in-aries/) instead. The stay before ran from April 1847 to February 1862: Pisces was the first sign Neptune entered after its discovery in 1846. Nobody born from 1930 to 2009 has it, and no adult alive today does.
+Neptune was in Pisces from April 2011 to January 2026. Until February 2012 it was still crossing back and forth with Aquarius, and from March 2025 with Aries: those border months are shared with [Neptune in Aquarius](/astrology/neptune-in-aquarius/) and [Neptune in Aries](/astrology/neptune-in-aries/). The stay before ran from April 1847 to February 1862: Pisces was the first sign Neptune entered after its discovery in 1846. Nobody born from 1930 to 2009 has it, and no adult alive today does.
 
 Everyone born with it is still a child, and I don't read [children’s charts](/astrology/childrens-charts/). So I read Neptune in Pisces the way I'd read a sky: as the dream of a time, shared by everyone born in it. The house, once each of them is old enough to ask, will be what makes it theirs.
 
@@ -58,4 +58,4 @@ The shadow of this placement is the shadow of its gift. Compassion with no edges
 
 If you're an adult reading this, you met Neptune in Pisces as a transit. For those years it was crossing part of your own chart, and the house it moved through is where edges may have softened for a while. That one is yours to look at.
 
-In my [notebook](/blog/i-tested-my-birth-chart/), Neptune was checked like every placement, and it wasn't one of the three that held far more often, Saturn, Chiron and Lilith; overall about a third held. What helps most with this sign is patience: a chart can wait until the person it belongs to wants it.
+My [notebook](/blog/i-tested-my-birth-chart/) checked Neptune like every placement. Saturn, Chiron and Lilith were the three that held far more often; Neptune wasn't one of them, and overall about a third held. What helps most with this sign is patience: a chart can wait until the person it belongs to wants it.

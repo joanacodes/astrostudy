@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 100
 glyph: "♆"
-definition: "Neptune in the 4th house means Neptune was in the house of home, roots and family, at the bottom of the chart, when you were born. In a chart it describes home imagined as a sanctuary, a family history felt more than told, and a private inner life that needs quiet to stay well."
+definition: "Neptune in the 4th house is Neptune at the bottom of the chart, in the house of home, roots and family. In a chart it describes home imagined as a sanctuary, a family history felt more than told, and a private inner life that needs quiet to stay well."
 facts:
   - { k: "Body", v: "Neptune ♆" }
   - { k: "House", v: "The 4th house: home, roots, family, the private self" }
@@ -36,11 +36,11 @@ Neptune in the 4th house sits at the very bottom of the chart, underneath everyt
 
 Neptune's sign is a generation's. The house is where it settles in your own life, and in the 4th it settles in your private world. In Placidus, the house system I use, the 4th house starts at the IC, which moves quickly with the birth time, so a Neptune near that point can turn into [Neptune in the 3rd house](/astrology/neptune-in-3rd-house/) with a few minutes' difference ([what changes without a birth time](/blog/unknown-birth-time/)). Further on, [Neptune in the 5th house](/astrology/neptune-in-5th-house/) carries the same imagination outward, into play.
 
-My [notebook](/blog/i-tested-my-birth-chart/) gave this house the same tick-or-cross treatment as the rest. Neptune was checked like every placement, wasn't one of the three that held far more often, Saturn, Chiron and Lilith, and overall about a third held.
+My [notebook](/blog/i-tested-my-birth-chart/) gave this house the same tick-or-cross treatment as the rest. Neptune, checked like every placement, is not one of the three that held far more often (Saturn, Chiron and Lilith), and overall about a third held.
 
 ## In close relationships {#in-close-relationships}
 
-In love, Neptune in the 4th dreams of making a home together: a shared refuge, a household with its own quiet magic. You may idealise the family you came from, or the one you hope to build, and give a great deal to make a home feel safe for other people. The risk is asking a partner to be home itself, all of it, or letting important things go unspoken so that home stays calm. The bond grows when the home you share is allowed to be real: untidy sometimes, and still a refuge.
+Making a home together is this Neptune's dream of love: a shared refuge, a household with its own quiet magic. You may idealise the family you came from, or the one you hope to build, and give a great deal to make a home feel safe for other people. The risk is asking a partner to be home itself, all of it, or letting important things go unspoken so that home stays calm. The bond grows when the home you share is allowed to be real: untidy sometimes, and still a refuge.
 
 ## At work {#at-work}
 
@@ -48,7 +48,7 @@ At work, this Neptune wants a base it can trust: a workplace that feels like hom
 
 ## The hard part {#the-hard-part}
 
-The hard part is roots you can feel but not quite describe. Home may have felt like a mood more than a place, and family history may hold gaps nobody filled in. You may idealise a home that never quite existed, or keep looking for one that matches the dream, and feel faintly homesick even in a good house. A chart can't tell you what happened in your family; it can only describe how home lives in you.
+Roots you can feel but not quite describe are the difficulty here. Home may have felt like a mood more than a place, and family history may hold gaps nobody filled in. You may idealise a home that never quite existed, or keep looking for one that matches the dream, and feel faintly homesick even in a good house. A chart can't tell you what happened in your family; it can only describe how home lives in you.
 
 ## What helps {#what-helps}
 

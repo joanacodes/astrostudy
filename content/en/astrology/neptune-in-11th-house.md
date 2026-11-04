@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 107
 glyph: "♆"
-definition: "Neptune in the 11th house means Neptune was in the house of friends, groups and hopes, the house tradition called the Good Spirit, when you were born. In a chart it describes compassionate friendships, causes and communities that move you, and hopes shared with others, along with the need to see friends and groups as they are."
+definition: "Neptune in the 11th house means Neptune was in the house of friends, groups and hopes, the house tradition called the Good Spirit, when you were born. It brings compassionate friendships, causes and communities that move you, and hopes shared with others, along with the need to see friends and groups as they are."
 facts:
   - { k: "Body", v: "Neptune ♆" }
   - { k: "House", v: "The 11th house: friends, groups, hopes, the future you build with others" }
@@ -29,15 +29,15 @@ sources:
   - { title: "Dorotheus of Sidon, Carmen Astrologicum", note: "the houses read in a nativity" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-Neptune in the 11th house puts the planet of ideals among your friends. The people you choose, the groups you join and the future you hope for all carry something of a dream, and your kindness to them can be remarkable.
+Your friends, the groups you join and the future you hope for all carry something of a dream when Neptune sits in the 11th house, and your kindness to them can be remarkable.
 
 ## In a birth chart {#in-a-birth-chart}
 
 [The 11th house](/astrology/11th-house/) is friends, groups and hopes: the people you build a future with, and the future you'd like to build. It's succedent, its natural sign is Aquarius, with Uranus and, in the tradition, Saturn as its rulers, and tradition called it the Good Spirit and placed the joy of Jupiter there. [Neptune](/astrology/neptune/) here turns friendship into a kind of fellowship. You may feel most yourself in a group that shares a dream, befriend people others overlook, and hope on behalf of everyone. Compassion runs through your social life: you notice who has been left out. The old name, Good Spirit, suits a Neptune that hopes for the best in people.
 
-Your whole generation shares Neptune's sign; what's yours is that Neptune falls among your friends. Like every house, the 11th needs the birth time: in Placidus, the house system I use, a Neptune near either edge of the house may belong to [Neptune in the 10th house](/astrology/neptune-in-10th-house/) or [Neptune in the 12th house](/astrology/neptune-in-12th-house/) with a slightly different time ([what changes without a birth time](/blog/unknown-birth-time/)).
+The sign is your generation's and the house is your own, and here the house puts Neptune among your friends. Like every house, the 11th needs the birth time: in Placidus, my house system, a Neptune near either edge of the house may belong to [Neptune in the 10th house](/astrology/neptune-in-10th-house/) or [Neptune in the 12th house](/astrology/neptune-in-12th-house/) with a slightly different time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-My [notebook](/blog/i-tested-my-birth-chart/) was, in its way, an 11th-house project: my own chart first, then family's, friends' and strangers', with their consent. Neptune was checked there like every placement. It wasn't one of the three that held far more often, Saturn, Chiron and Lilith, and overall about a third held.
+My [notebook](/blog/i-tested-my-birth-chart/) was, in its way, an 11th-house project: first my own chart, then other people's, family, friends, strangers, always with their consent. In each of those charts, Neptune was checked like every placement. Across all those charts, three placements held far more often, Saturn, Chiron and Lilith; Neptune stayed outside that trio, and overall about a third held.
 
 ## In close relationships {#in-close-relationships}
 
@@ -45,12 +45,12 @@ With Neptune in the 11th, friendship and love can overlap: a partner may begin a
 
 ## At work {#at-work}
 
-At work, this Neptune comes alive in teams with a mission: charities, arts collectives, community projects, campaigns, choirs and companies, networks of people who care. You may be the one who holds a group's vision and its feelings at the same time, and online communities belong here too: this Neptune can gather strangers round an idea and make them feel they belong. The risk is giving everything to a group that has quietly stopped deserving it, or working for a cause whose leaders you've idealised.
+Teams with a mission bring this Neptune alive at work: charities, arts collectives, community projects, campaigns, choirs and companies, networks of people who care. You may be the one who holds a group's vision and its feelings at the same time, and online communities belong here too: this Neptune can gather strangers round an idea and make them feel they belong. The risk is giving everything to a group that has quietly stopped deserving it, or working for a cause whose leaders you've idealised.
 
 ## The hard part {#the-hard-part}
 
-The hard part is seeing friends and groups clearly. A friend can be idealised until the first disappointment feels like a betrayal, and a community can feel like a family until its politics appear. Groups with fuzzy edges, where nobody quite says who decides, can draw you in further than you meant to go. You may lend, help and forgive without limit, then feel used. And hopes for the future can grow so wide that none of them finds a first step.
+Seeing friends and groups clearly is the work. A friend can be idealised until the first disappointment feels like a betrayal, and a community can feel like a family until its politics appear. Groups with fuzzy edges, where nobody quite says who decides, can draw you in further than you meant to go. You may lend, help and forgive without limit, then feel used. And hopes for the future can grow so wide that none of them finds a first step.
 
 ## What helps {#what-helps}
 
-Choose groups with clear aims and honest leadership, and check now and then that they still deserve your time. Let friends be imperfect, and stay. Keep one or two friendships that have nothing to do with any cause, where you can simply be yourself. Keep a few hopes small enough to act on this year. And give your compassion a limit you can name, so that it lasts.
+Groups with clear aims and honest leadership deserve your time; check now and then that yours still do. Let friends be imperfect, and stay. Keep one or two friendships that have nothing to do with any cause, where you can simply be yourself. Hold a few hopes small enough to act on this year. And give your compassion a limit you can name, so that it lasts.

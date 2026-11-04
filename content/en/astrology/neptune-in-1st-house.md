@@ -36,11 +36,11 @@ With Neptune in the 1st house, the planet of imagination lives in your face, you
 
 Neptune's sign is shared with everyone born within the same fourteen years or so. The house is what's yours, and the 1st makes Neptune part of how you appear. In Placidus, the house system I use, the 1st house begins at the Ascendant, so this placement hangs on an accurate birth time ([what changes without a birth time](/blog/unknown-birth-time/)). Close to the Ascendant, Neptune colours every first impression, and a few minutes can carry it over into [Neptune in the 12th house](/astrology/neptune-in-12th-house/), where the same imagination turns private. Further down, nearer [Neptune in the 2nd house](/astrology/neptune-in-2nd-house/), it speaks more quietly.
 
-In my [notebook](/blog/i-tested-my-birth-chart/), Neptune's house got a tick or a cross like everything else. Neptune was checked like every placement, wasn't one of the three that held far more often, Saturn, Chiron and Lilith, and overall about a third held.
+In my [notebook](/blog/i-tested-my-birth-chart/), Neptune's house got a tick or a cross like everything else. Checked like every placement, Neptune stayed outside the three that held far more often, Saturn, Chiron and Lilith, while about a third of everything held.
 
 ## In close relationships {#in-close-relationships}
 
-In love, this Neptune can make you easy to fall for and hard to know. Partners may project their ideal onto you, and you may, without meaning to, become it for a while: gentler, more agreeable, more like their dream than like you. The opposite house, the 7th, is where partners stand, so what you need from love is someone who looks past the image and stays curious about the person. And you need to risk being that person: saying what you like, and what you don't.
+Easy to fall for and hard to know: that's often how this Neptune shows in love. Partners may project their ideal onto you, and you may, without meaning to, become it for a while: gentler, more agreeable, more like their dream than like you. The opposite house, the 7th, is where partners stand, so what you need from love is someone who looks past the image and stays curious about the person. And you need to risk being that person: saying what you like, and what you don't.
 
 ## At work {#at-work}
 

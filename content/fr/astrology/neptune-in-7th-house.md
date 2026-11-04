@@ -29,7 +29,7 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "le descendant, et pourquoi il demande l’heure de naissance" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-Neptune en maison 7 place la planète des idéaux exactement là où se tiennent les autres dans votre thème. Vous rencontrez peut-être vos partenaires dans un halo, moitié personne, moitié rêve, et votre tendresse peut être extraordinaire.
+La maison 7 est l’endroit où se tiennent les autres dans votre thème, et avec Neptune dans cette maison, vos partenaires arrivent souvent dans un halo, moitié personne, moitié rêve. Votre tendresse peut être extraordinaire.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
@@ -41,7 +41,7 @@ Votre génération partage le signe de Neptune ; ce qui est à vous, c’est q
 
 C’est le cœur de ce placement. L’amour commence souvent par une reconnaissance : l’impression de connaître quelqu’un depuis toujours. Vous accordez peut-être à l’autre le bénéfice de chaque doute, aimez son potentiel, voulez porter secours, ou qu’on vous porte secours. Rien de tout cela n’est un défaut : c’est l’idéal qui cherche un foyer. Ce qu’il lui faut, c’est du temps et la lumière du jour. Apprenez à connaître une personne au fil des saisons, dans ses mauvais jours comme dans les bons, avant de décider qui elle est. Et si vous comparez vos thèmes, faites-le ensemble (voir [Synastrie et consentement](/blog/synastry-behind-their-back/)).
 
-Mon [carnet](/blog/i-tested-my-birth-chart/) n’a fait aucune exception pour l’amour : la maison de Neptune y a reçu sa coche ou sa croix comme n’importe quel placement. Neptune ne fait pas partie des trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith, et dans l’ensemble, environ un tiers a tenu.
+Mon [carnet](/blog/i-tested-my-birth-chart/) n’a fait aucune exception pour l’amour : la maison de Neptune y a reçu sa coche ou sa croix comme n’importe quel placement. Au moment des résultats, les trois qui ont tenu bien plus souvent étaient Saturne, Chiron et Lilith. Neptune n’en faisait pas partie, et dans l’ensemble, environ un tiers a tenu.
 
 ## Au travail {#au-travail}
 

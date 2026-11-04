@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 105
 glyph: "♆♐"
-definition: "Neptune en Sagittaire, c’est la planète de l’imagination et de la compassion dans le signe de feu mutable des voyages et des grandes questions, où Neptune a séjourné de janvier 1970 à novembre 1984. J’y lis l’aspiration de cette génération à un sens plus grand : une foi sans frontières, une quête qui ne s’arrête pas, un monde meilleur derrière l’horizon."
+definition: "Neptune en Sagittaire, c’est la planète de l’aspiration et de la transcendance dans le signe de feu mutable des voyages et des grandes questions, où Neptune a séjourné de janvier 1970 à novembre 1984. J’y lis l’aspiration de cette génération à un sens plus grand : une foi sans frontières, une quête qui ne s’arrête pas, un monde meilleur derrière l’horizon."
 facts:
   - { k: "Corps", v: "Neptune ♆" }
   - { k: "Signe", v: "Sagittaire ♐, gouverné par Jupiter" }
@@ -37,17 +37,17 @@ En [Sagittaire](/astrology/sagittarius/), signe de feu mutable des voyages, des 
 
 Neptune n’a pas de dignité en Sagittaire, mais y retrouve une vieille connaissance. [Jupiter](/astrology/jupiter/) gouverne le Sagittaire, et Jupiter est aussi le maître traditionnel des Poissons, le signe que l’astrologie tropicale moderne donne à Neptune : les deux planètes partagent déjà un signe. La place de votre Jupiter, et ce que Jupiter touche dans votre thème, m’en disent donc long sur la façon dont ce rêve de sens se vit.
 
-Neptune était en Sagittaire de janvier 1970 à novembre 1984 : environ 1 personne sur 6 née de 1930 à 2009 a ce placement, celui d’une génération qui a aujourd’hui entre 41 et 56 ans environ. De janvier à novembre 1970, Neptune faisait l’aller-retour avec le Scorpion, et de janvier à novembre 1984 avec le Capricorne : une naissance de ces mois-là peut donc avoir [Neptune en Scorpion](/astrology/neptune-in-scorpio/) ou [Neptune en Capricorne](/astrology/neptune-in-capricorn/), et seul un thème peut le dire. Le signe me dit ce que votre génération est partie chercher. La maison me dit où, dans votre propre vie, vous continuez de chercher.
+Le séjour en Sagittaire va de janvier 1970 à novembre 1984. Parmi toutes les personnes nées de 1930 à 2009, environ 1 sur 6 a ce placement, et ces personnes ont aujourd’hui entre 41 et 56 ans environ. De janvier à novembre 1970, Neptune faisait l’aller-retour avec le Scorpion, et de janvier à novembre 1984 avec le Capricorne : une naissance de ces mois-là peut donc avoir [Neptune en Scorpion](/astrology/neptune-in-scorpio/) ou [Neptune en Capricorne](/astrology/neptune-in-capricorn/), et seul un thème peut le dire. Le signe me dit ce que votre génération est partie chercher. La maison me dit où, dans votre propre vie, vous continuez de chercher.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-En amour, Neptune en Sagittaire rêve d’un compagnon ou d’une compagne de route. La personne que ce placement idéalise est celle qui ouvre le monde : quelqu’un qui guide, qui croit, qui vient d’un autre pays ou d’un autre regard. Le sens partagé compte autant que les goûts partagés, et une relation peut prendre quelque chose de sacré quand c’est un voyage que l’on fait ensemble. La leçon difficile : la personne idéale semble souvent celle qui reste hors d’atteinte, la suivante, le pays suivant, alors que le sens peut aussi habiter une cuisine, auprès de quelqu’un qui reste.
+La personne dont rêve Neptune en Sagittaire, en amour, est une compagne ou un compagnon de route qui ouvre le monde : quelqu’un qui guide, qui croit, qui vient d’un autre pays ou d’un autre regard. Le sens partagé compte autant que les goûts partagés, et une relation peut prendre quelque chose de sacré quand c’est un voyage que l’on fait ensemble. La leçon difficile : la personne idéale semble souvent celle qui reste hors d’atteinte, la suivante, le pays suivant, alors que le sens peut aussi habiter une cuisine, auprès de quelqu’un qui reste.
 
 ## Au travail {#au-travail}
 
 Au travail, la quête veut une mission. L’enseignement, l’édition, le voyage, la traduction, les communautés de foi, l’humanitaire, la philosophie et les arts du récit conviennent à Neptune en Sagittaire, comme tout métier qui élargit l’horizon de quelqu’un d’autre. Vous travaillez peut-être au mieux quand vous croyez à la cause. Le risque : une vocation si vaste qu’elle ne devient jamais un métier, ou une personne qui vous emploie, idéalisée en gourou.
 
-Mon [carnet](/blog/i-tested-my-birth-chart/) était une mission plus modeste : vérifier, un placement après l’autre, ce qui tenait. Le signe et la maison de Neptune ont été vérifiés comme tous les autres placements, Neptune ne fait pas partie des trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith, et dans l’ensemble, environ un tiers a tenu.
+Mon [carnet](/blog/i-tested-my-birth-chart/) était une mission plus modeste : vérifier, un placement après l’autre, ce qui tenait. Neptune a suivi le même chemin que tous les autres placements, sans rejoindre les trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith. Dans l’ensemble, environ un tiers a tenu.
 
 ## Le plus difficile {#le-plus-difficile}
 

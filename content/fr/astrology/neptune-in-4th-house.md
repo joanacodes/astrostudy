@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 100
 glyph: "♆"
-definition: "Neptune en maison 4 signifie que Neptune se trouvait, à votre naissance, dans la maison du foyer, des racines et de la famille, tout en bas du thème. On y lit un foyer imaginé comme un sanctuaire, une histoire familiale ressentie plus que racontée, et une vie intérieure qui a besoin de calme pour aller bien."
+definition: "Neptune en maison 4, c’est Neptune tout en bas du thème, dans la maison du foyer, des racines et de la famille. On y lit un foyer imaginé comme un sanctuaire, une histoire familiale ressentie plus que racontée, et une vie intérieure qui a besoin de calme pour aller bien."
 facts:
   - { k: "Corps", v: "Neptune ♆" }
   - { k: "Maison", v: "Maison 4 : le foyer, les racines, la famille, le moi intime" }
@@ -37,11 +37,11 @@ La [maison 4](/astrology/4th-house/) est le foyer, les racines et la famille : 
 
 Le signe de Neptune est celui d’une génération. La maison est l’endroit où Neptune se pose dans votre propre vie, et en maison 4, c’est dans votre monde intime. Avec Placidus, le système de maisons que j’utilise, la maison 4 commence au fond du ciel, qui bouge vite avec l’heure de naissance : près de ce point, quelques minutes d’écart peuvent changer ce placement en [Neptune en maison 3](/astrology/neptune-in-3rd-house/) (voir [ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Plus loin, [Neptune en maison 5](/astrology/neptune-in-5th-house/) porte la même imagination vers l’extérieur, vers le jeu.
 
-Mon [carnet](/blog/i-tested-my-birth-chart/) a traité cette maison comme toutes les autres, d’une coche ou d’une croix. J’ai vérifié Neptune comme chaque placement ; Neptune ne fait pas partie des trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith, et dans l’ensemble, environ un tiers a tenu.
+Mon [carnet](/blog/i-tested-my-birth-chart/) a traité cette maison comme toutes les autres, d’une coche ou d’une croix. J’ai vérifié Neptune comme chaque placement : Neptune ne fait pas partie des trois qui ont tenu bien plus souvent (Saturne, Chiron et Lilith), et dans l’ensemble, environ un tiers a tenu.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-En amour, Neptune en maison 4 rêve de faire un foyer à deux : un refuge partagé, une maison avec sa propre magie tranquille. Vous idéalisez peut-être la famille dont vous venez, ou celle que vous espérez fonder, et vous donnez beaucoup pour qu’un foyer soit sûr pour les autres. Le risque : demander à l’autre d’être le foyer tout entier, ou laisser des choses importantes non dites pour que la maison reste calme. Le lien grandit quand le foyer partagé a le droit d’être réel : en désordre parfois, et refuge malgré tout.
+Faire un foyer à deux, voilà le rêve amoureux de ce placement : un refuge partagé, une maison avec sa propre magie tranquille. Vous idéalisez peut-être la famille dont vous venez, ou celle que vous espérez fonder, et vous donnez beaucoup pour qu’un foyer soit sûr pour les autres. Le risque : demander à l’autre d’être le foyer tout entier, ou laisser des choses importantes non dites pour que la maison reste calme. Le lien grandit quand le foyer partagé a le droit d’être réel : en désordre parfois, et refuge malgré tout.
 
 ## Au travail {#au-travail}
 
@@ -49,7 +49,7 @@ Au travail, Neptune en maison 4 veut une base de confiance : un lieu de travail
 
 ## Le plus difficile {#le-plus-difficile}
 
-Le plus difficile, ce sont des racines que l’on sent sans savoir les décrire. Le foyer a peut-être ressemblé à une humeur plus qu’à un lieu, et l’histoire familiale garde peut-être des trous que personne n’a comblés. Vous idéalisez peut-être un foyer qui n’a jamais vraiment existé, ou cherchez sans fin celui qui ressemblerait au rêve, avec une légère nostalgie même dans une bonne maison. Un thème ne peut pas vous dire ce qui s’est passé dans votre famille ; il peut seulement décrire comment le foyer vit en vous.
+Des racines que l’on sent sans savoir les décrire : voilà la difficulté. Le foyer a peut-être ressemblé à une humeur plus qu’à un lieu, et l’histoire familiale garde peut-être des trous que personne n’a comblés. Vous idéalisez peut-être un foyer qui n’a jamais vraiment existé, ou cherchez sans fin celui qui ressemblerait au rêve, avec une légère nostalgie même dans une bonne maison. Un thème ne peut pas vous dire ce qui s’est passé dans votre famille ; il peut seulement décrire comment le foyer vit en vous.
 
 ## Ce qui aide {#ce-qui-aide}
 

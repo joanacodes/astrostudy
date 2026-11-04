@@ -28,7 +28,7 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Descendant, and why it needs the birth time" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-Neptune in the 7th house puts the planet of ideals right where other people stand in your chart. You may meet partners in a glow, half person and half dream, and your tenderness towards them can be extraordinary.
+The 7th house is where other people stand in your chart, and with Neptune there, partners tend to arrive in a glow, half person and half dream. Your tenderness towards them can be extraordinary.
 
 ## In a birth chart {#in-a-birth-chart}
 
@@ -40,7 +40,7 @@ Your generation shares Neptune's sign; what's yours is that Neptune falls in the
 
 This is the heart of the placement. Love often begins with recognition: the feeling of having known someone for ever. You may give a partner the benefit of every doubt, love their potential, want to rescue or to be rescued. None of that is a flaw; it's the ideal looking for a home. What it needs is time and daylight. Get to know someone across seasons, in bad moods and good, before deciding who they are. And if you compare charts with a partner, do it together ([synastry and consent](/blog/synastry-behind-their-back/)).
 
-My [notebook](/blog/i-tested-my-birth-chart/) made no exception for love: Neptune's house got its tick or cross like any other placement. Neptune wasn't one of the three that held far more often, Saturn, Chiron and Lilith, and overall about a third held.
+My [notebook](/blog/i-tested-my-birth-chart/) made no exception for love: Neptune's house got its tick or cross like any other placement. When the results came in, Saturn, Chiron and Lilith were the three that held far more often. Neptune wasn't one of them, and overall about a third held.
 
 ## At work {#at-work}
 

@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 104
 glyph: "♆♏"
-definition: "Neptune in Scorpio is Neptune, the planet of imagination and compassion, in the fixed water sign of depth and intimacy, where it stayed from December 1955 to November 1970. For the generation born in those years, I read it as a longing for depth: closeness without masks, mystery, and compassion that stays in the dark."
+definition: "Neptune in Scorpio is Neptune, the planet of imagination and empathy, in the fixed water sign of depth and intimacy, where it stayed from December 1955 to November 1970. For the generation born in those years, I read it as a longing for depth: closeness without masks, mystery, and compassion that stays in the dark."
 facts:
   - { k: "Body", v: "Neptune ♆" }
   - { k: "Sign", v: "Scorpio ♏, ruled by Pluto (modern) and Mars (traditional)" }
@@ -36,7 +36,7 @@ Some placements reach for the sky; Neptune in Scorpio goes underneath. For the g
 
 Scorpio has two rulers, and I read both. [Pluto](/astrology/pluto/), its modern ruler, shows where this dream of depth wants to renew something at the root; [Mars](/astrology/mars/), the traditional one, shows how it goes after what it desires. Neptune itself has no dignity here, no exaltation and no fall, so it is those two planets that tell me how a Scorpio Neptune moves through your chart.
 
-Neptune was in Scorpio from December 1955 to November 1970, and about 1 person in 6 born from 1930 to 2009 has it: a generation now in its mid-fifties to about seventy. Until August 1957 Neptune was still crossing back into Libra, and from January 1970 it was stepping forward into Sagittarius, so births in those months may have [Neptune in Libra](/astrology/neptune-in-libra/) or [Neptune in Sagittarius](/astrology/neptune-in-sagittarius/) instead. Everyone you went to school with probably shares your Scorpio Neptune. What they don't share is its house, and the house is where this longing for depth becomes yours: the part of life you most want to understand from the inside.
+From December 1955 to November 1970 Neptune stayed in Scorpio, which gives the placement to about 1 person in 6 born between 1930 and 2009, a generation now in its mid-fifties to about seventy. Until August 1957 Neptune was still crossing back into Libra, and from January 1970 it was stepping forward into Sagittarius, so for births in those months the chart has to decide between this sign and [Neptune in Libra](/astrology/neptune-in-libra/) or [Neptune in Sagittarius](/astrology/neptune-in-sagittarius/). Everyone you went to school with probably shares your Scorpio Neptune. What they don't share is its house, and the house is where this longing for depth becomes yours: the part of life you most want to understand from the inside.
 
 ## In close relationships {#in-close-relationships}
 
@@ -52,6 +52,6 @@ A gift for seeing what's hidden can turn into seeing it everywhere. This Neptune
 
 ## What helps {#what-helps}
 
-My [notebook](/blog/i-tested-my-birth-chart/) went beneath the surface too, one tick or cross at a time. Neptune's sign and house were checked like every placement; Neptune wasn't one of the three that held far more often, Saturn, Chiron and Lilith, and overall about a third held.
+My [notebook](/blog/i-tested-my-birth-chart/) went beneath the surface too, one tick or cross at a time. Neptune's sign and house had their turn like every placement. Neptune isn't among the three that held far more often, which were Saturn, Chiron and Lilith, and about a third of the whole notebook held.
 
 What helps most is letting some things be simple: not every silence hides something, and not every bond needs to be total. Give the depth a form you choose, a journal, a craft, a conversation with someone trained to listen. And practise letting go in small ways, a plan, an opinion, an evening, so that the large letting-go isn't the first one you ever try.

@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 97
 glyph: "♆♈"
-definition: "Neptune en Bélier, c’est la planète de l’imagination et de la compassion dans le signe de feu cardinal des commencements, où Neptune arrive en 2025 et reste jusqu’en 2039. Les personnes nées avec ce placement sont encore des enfants : j’y lis donc le signe d’une génération, des idéaux qui demandent des actes et une compassion qui fait le premier pas."
+definition: "Neptune en Bélier, c’est la planète des idéaux et de l’imagination dans le signe de feu cardinal des commencements, où Neptune arrive en 2025 et reste jusqu’en 2039. Les personnes nées avec ce placement sont encore des enfants : j’y lis donc le signe d’une génération, des idéaux qui demandent des actes et une compassion qui fait le premier pas."
 facts:
   - { k: "Corps", v: "Neptune ♆" }
   - { k: "Signe", v: "Bélier ♈, gouverné par Mars" }
@@ -53,7 +53,7 @@ Au travail, le rêve de Neptune en Bélier, c’est la pionnière ou le pionnier
 
 Chaque idéal a son ombre, et celle de cet idéal-ci, c’est la hâte. L’inspiration et l’impulsion peuvent se ressembler en Bélier, et un rêve de nouveaux départs peut rendre difficile de rester avec ce qui est déjà commencé. Le courage, une fois idéalisé, peut devenir la conviction que seuls les actes audacieux comptent. Et pour les adultes qui voient arriver cette génération, il y a aussi une difficulté : les signes générationnels invitent à la prophétie, et un signe n’est une prédiction pour l’avenir de personne.
 
-Mon [carnet](/blog/i-tested-my-birth-chart/) était une forme de courage plus lente, un placement après l’autre. Le signe et la maison de Neptune ont été vérifiés comme tous les autres placements ; Neptune ne fait pas partie des trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith, et dans l’ensemble, environ un tiers a tenu.
+Mon [carnet](/blog/i-tested-my-birth-chart/) était une forme de courage plus lente, un placement après l’autre. Le signe et la maison de Neptune y ont pris leur place comme tous les autres. Les placements qui ont tenu bien plus souvent sont Saturne, Chiron et Lilith, sans Neptune, et environ un tiers de l’ensemble a tenu.
 
 ## Ce qui aide {#ce-qui-aide}
 

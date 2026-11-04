@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 108
 glyph: "♆♓"
-definition: "Neptune en Poissons, c’est la planète de l’imagination et de la compassion dans son propre signe, pour l’astrologie tropicale moderne ; la tradition donnait les Poissons à Jupiter. Neptune y était d’avril 2011 à janvier 2026 : les personnes nées alors sont encore des enfants. J’y lis le placement d’une génération, où s’amincissent les frontières entre les gens, l’art et la foi."
+definition: "Neptune en Poissons, c’est la planète de la transcendance et de la compassion dans son propre signe, pour l’astrologie tropicale moderne ; la tradition donnait les Poissons à Jupiter. Neptune y était de 2011 à 2026 : les personnes nées alors sont encore des enfants. J’y lis le placement d’une génération, où s’amincissent les frontières entre les gens, l’art et la foi."
 facts:
   - { k: "Corps", v: "Neptune ♆" }
   - { k: "Signe", v: "Poissons ♓, gouvernés par Neptune (moderne) et Jupiter (traditionnel)" }
@@ -39,9 +39,9 @@ En [Poissons](/astrology/pisces/), signe d’eau mutable, [Neptune](/astrology/n
 
 Les Poissons ont deux maîtres, et je lis les deux. Dans le schéma moderne, c’est Neptune qui les gouverne : Neptune en Poissons ne répond donc à aucune autre planète. La tradition, qui ignorait Neptune, donnait les Poissons à [Jupiter](/astrology/jupiter/), et Jupiter garde son mot à dire : sa place dans un thème montre comment une compassion aussi vaste pourrait devenir quelque chose de vécu, avec une forme et une direction.
 
-Neptune était en Poissons d’avril 2011 à janvier 2026. Jusqu’en février 2012, Neptune faisait encore l’aller-retour avec le Verseau, et dès mars 2025 avec le Bélier : une naissance de ces mois-là peut donc avoir [Neptune en Verseau](/astrology/neptune-in-aquarius/) ou [Neptune en Bélier](/astrology/neptune-in-aries/). Le séjour précédent allait d’avril 1847 à février 1862 : les Poissons sont le premier signe dans lequel Neptune entre après sa découverte, en 1846. Aucune personne née de 1930 à 2009 n’a ce placement, et aucune personne adulte aujourd’hui non plus.
+Neptune était en Poissons d’avril 2011 à janvier 2026. Jusqu’en février 2012, Neptune faisait encore l’aller-retour avec le Verseau, et dès mars 2025 avec le Bélier : ces mois de frontière sont partagés avec [Neptune en Verseau](/astrology/neptune-in-aquarius/) et [Neptune en Bélier](/astrology/neptune-in-aries/). Le séjour précédent allait d’avril 1847 à février 1862 : les Poissons sont le premier signe dans lequel Neptune entre après sa découverte, en 1846. Aucune personne née de 1930 à 2009 n’a ce placement, et aucune personne adulte aujourd’hui non plus.
 
-Toutes les personnes nées avec ce placement sont encore des enfants, et je ne lis pas le [thème des enfants](/astrology/childrens-charts/). Je lis donc Neptune en Poissons comme je lirais un ciel : comme le rêve d’une époque, partagé par toutes les personnes nées pendant ces années. La maison, quand chacune et chacun sera en âge de demander, sera ce qui en fera un placement personnel.
+Toutes les personnes nées avec ce placement sont encore des enfants, et je ne lis pas le [thème des enfants](/astrology/childrens-charts/). Je lis donc Neptune en Poissons comme je lirais un ciel : comme le rêve d’une époque, commun à toutes les naissances de ces années-là. La maison, quand chacune et chacun sera en âge de demander, sera ce qui en fera un placement personnel.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -49,7 +49,7 @@ Comme placement d’une génération, Neptune en Poissons décrit un idéal de p
 
 ## Au travail {#au-travail}
 
-Au travail, le même rêve désigne des vocations d’imagination et de soin : la musique, le cinéma, la peinture, la poésie, les métiers du soin, tout rôle qui soulage une souffrance ou fait naître quelque chose de beau à partir de presque rien. Dans son propre signe, Neptune estime le travail pour ce qu’il donne plus que pour ce qu’il rapporte. Quand les personnes nées avec ce placement seront adultes, leur propre thème, et d’abord la maison de Neptune, dira où ce rêve rejoint une vie de travail.
+Au travail, le même rêve désigne des vocations d’imagination et de soin : la musique, le cinéma, la peinture, la poésie, les métiers du soin, tout rôle qui soulage une souffrance ou fait naître quelque chose de beau à partir de presque rien. Dans son propre signe, Neptune estime le travail pour le don plus que pour le gain. Quand les personnes nées avec ce placement seront adultes, leur propre thème, et d’abord la maison de Neptune, dira où ce rêve rejoint une vie de travail.
 
 ## Le plus difficile {#le-plus-difficile}
 
@@ -59,4 +59,4 @@ L’ombre de ce placement est l’ombre de son don. Une compassion sans contours
 
 Si vous êtes adulte et lisez cette page, vous avez connu Neptune en Poissons comme un transit. Pendant ces années, Neptune traversait une partie de votre propre thème, et la maison parcourue est celle où les contours ont pu s’adoucir un temps. Cette maison-là, c’est à vous de la regarder.
 
-Dans mon [carnet](/blog/i-tested-my-birth-chart/), j’ai vérifié Neptune comme chaque placement, et Neptune ne fait pas partie des trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith ; dans l’ensemble, environ un tiers a tenu. Ce qui aide le plus avec ce signe, c’est la patience : un thème peut attendre que la personne à qui il appartient en ait envie.
+Mon [carnet](/blog/i-tested-my-birth-chart/) a vérifié Neptune comme chaque placement. Saturne, Chiron et Lilith sont les trois qui ont tenu bien plus souvent ; Neptune n’en fait pas partie, et dans l’ensemble, environ un tiers a tenu. Ce qui aide le plus avec ce signe, c’est la patience : un thème peut attendre que la personne à qui il appartient en ait envie.

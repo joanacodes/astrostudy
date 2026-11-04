@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 98
 glyph: "♆"
-definition: "Neptune en maison 2 signifie que Neptune se trouvait, à votre naissance, dans la maison de l’argent, des biens, des talents et de l’estime de soi. Les valeurs y suivent les idéaux plus que les prix : la générosité, un don d’imagination dont on pourrait vivre, et un argent qui demande un système clair. Rien n’y prédit gain ou perte."
+definition: "Neptune en maison 2 place la planète des idéaux, à votre naissance, dans la maison de l’argent, des biens, des talents et de l’estime de soi. Les valeurs y suivent les idéaux plus que les prix : la générosité, un don d’imagination dont on pourrait vivre, et un argent qui demande un système clair. Rien n’y prédit gain ou perte."
 facts:
   - { k: "Corps", v: "Neptune ♆" }
   - { k: "Maison", v: "Maison 2 : l’argent, les biens, les talents, l’estime de soi" }
@@ -29,17 +29,17 @@ sources:
   - { title: "Dorothée de Sidon, Carmen Astrologicum", note: "les maisons lues dans un thème de naissance" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-Neptune en maison 2 place la planète des idéaux dans la maison de l’argent et des biens, et les deux ne parlent pas la même langue. Ce qui compte le plus pour vous ne se compte généralement pas, et ce qui se compte peut sortir de votre champ de vision si vous n’y veillez pas.
+L’argent et les biens parlent une langue, Neptune, la planète des idéaux, en parle une autre ; en maison 2, les deux doivent partager une pièce. Ce qui compte le plus pour vous ne se compte généralement pas, et ce qui se compte peut sortir de votre champ de vision si vous n’y veillez pas.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La [maison 2](/astrology/2nd-house/) est ce que vous avez et ce qui compte pour vous : l’argent que vous gagnez et gardez, vos biens, les talents dont vous pourriez vivre, et le sentiment de votre propre valeur en dessous. C’est une maison succédente, où les choses se posent et s’accumulent, et son signe naturel est le Taureau. Avec [Neptune](/astrology/neptune/) dans cette maison, la valeur se mesure aux idéaux. Une chose compte pour ce qu’elle signifie : le livre avec une dédicace, la bague qui a appartenu à quelqu’un, le travail fait pour une cause. L’argent peut sembler abstrait, une marée plutôt qu’une somme, et la générosité vient facilement.
+Ce que vous avez et ce qui compte pour vous appartiennent à la [maison 2](/astrology/2nd-house/) : l’argent que vous gagnez et gardez, vos biens, les talents dont vous pourriez vivre, et le sentiment de votre propre valeur en dessous. C’est une maison succédente, où les choses se posent et s’accumulent, et son signe naturel est le Taureau. Avec [Neptune](/astrology/neptune/) dans cette maison, la valeur se mesure aux idéaux. Une chose compte pour ce qu’elle signifie : le livre avec une dédicace, la bague qui a appartenu à quelqu’un, le travail fait pour une cause. L’argent peut sembler abstrait, une marée plutôt qu’une somme, et la générosité vient facilement.
 
-Le signe de Neptune est partagé par toute votre génération. Sa maison est à vous, et la maison 2 ramène Neptune à la question pratique de ce que vous gardez. Comme chaque maison, elle dépend de l’heure de naissance : avec Placidus, le système de maisons que j’utilise, quand Neptune est proche d’une pointe, un léger changement d’heure peut faire passer Neptune en maison 1 ou en maison 3 (voir [Neptune en maison 1](/astrology/neptune-in-1st-house/), [Neptune en maison 3](/astrology/neptune-in-3rd-house/) et [ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Et aucune maison ne prédit l’argent. Je lis la maison 2 comme votre façon de gérer la valeur, jamais comme ce que vous gagnerez ou perdrez (voir [L’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)).
+Le signe de Neptune est partagé par toute votre génération. Sa maison est à vous, et la maison 2 ramène Neptune à la question pratique de ce que vous gardez. Comme chaque maison, elle dépend de l’heure de naissance : avec Placidus, mon système de maisons, quand Neptune est proche d’une pointe, un léger changement d’heure peut faire passer Neptune en maison 1 ou en maison 3 (voir [Neptune en maison 1](/astrology/neptune-in-1st-house/), [Neptune en maison 3](/astrology/neptune-in-3rd-house/) et [ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Et aucune maison ne prédit l’argent. Je lis la maison 2 comme votre façon de gérer la valeur, jamais comme ce que vous gagnerez ou perdrez (voir [L’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)).
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-En amour, Neptune en maison 2 donne sans compter : des cadeaux, du temps, de l’argent prêté sans calcul. Vous aimez peut-être l’autre pour ses idéaux plus que pour ses revenus, et partagez ce que vous avez sans demander grand-chose en retour. Cette générosité est belle, et elle a besoin d’accords clairs, parce que la maison opposée, la maison 8, garde ce qui est partagé et dû : la frontière entre votre argent et celui de l’autre, c’est justement là que ce placement brouille les pistes. Parler d’argent franchement et tôt, savoir ce qui est à vous comme ce qui est commun, et remarquer si donner est une joie ou une façon de mériter votre place.
+Dans l’amour de ce placement, la générosité passe en premier : des cadeaux, du temps, de l’argent prêté sans calcul. Vous aimez peut-être l’autre pour ses idéaux plus que pour ses revenus, et partagez ce que vous avez sans demander grand-chose en retour. Cette générosité est belle, et elle a besoin d’accords clairs, parce que la maison opposée, la maison 8, garde ce qui est partagé et dû : la frontière entre votre argent et celui de l’autre, c’est justement là que ce placement brouille les pistes. Parler d’argent franchement et tôt, savoir ce qui est à vous comme ce qui est commun, et remarquer si donner est une joie ou une façon de mériter votre place.
 
 ## Au travail {#au-travail}
 
@@ -53,4 +53,4 @@ L’argent qui file entre les doigts est l’image classique, et ce n’est pas 
 
 Un système simple que vous utilisez vraiment : un seul endroit pour voir ce qui entre et ce qui sort, une heure régulière pour le regarder. Un prix pour votre travail, fixé avant de commencer. Une courte liste de ce qui compte pour vous, pour que vos dépenses la suivent plutôt que votre humeur.
 
-Un jour, j’ai parcouru mon propre thème comme une facture, une coche ou une croix sur chaque ligne, et j’ai gardé les résultats dans mon [carnet](/blog/i-tested-my-birth-chart/). La maison de Neptune y était une ligne parmi les autres, vérifiée comme chaque placement ; Neptune ne fait pas partie des trois qui ont tenu bien plus souvent, Saturne, Chiron et Lilith, tandis que dans l’ensemble, environ un tiers a tenu.
+Un jour, j’ai parcouru mon propre thème comme une facture, une coche ou une croix sur chaque ligne, et j’ai gardé les résultats dans mon [carnet](/blog/i-tested-my-birth-chart/). La maison de Neptune y était une ligne parmi les autres, vérifiée comme chaque placement. Le total des lignes : environ un tiers a tenu, et les trois qui ont tenu bien plus souvent sont Saturne, Chiron et Lilith, pas Neptune.
