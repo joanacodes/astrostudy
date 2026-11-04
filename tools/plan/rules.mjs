@@ -176,13 +176,23 @@ function concept(id) {
   ];
 }
 
-// The groups for one entry, or null for a kind these rules don't cover yet (the combination pages come
-// with their own batches).
+// Every other kind follows the page plan's tree: the pages above it and beside it, and an article or How I
+// read. The encyclopaedia's index itself isn't asked for: every page has it in its breadcrumb.
+function treeLinks(id) {
+  const self = entry(id);
+  const asPath = (x) => (x.startsWith('/') ? x : p(x));
+  return [
+    { section: 'The pages above it in the plan', pages: (self.up || []).map(asPath).filter((x) => x !== '/astrology/') },
+    { section: 'The pages beside it in the plan', pages: (self.across || []).map(asPath) },
+    { section: 'Articles or How I read (1+)', need: 1, pages: [...ARTICLES, '/how-i-read/'] },
+  ];
+}
+
+// The groups for one entry.
 export function rulesFor(id) {
   const self = entry(id);
   if (!self) return null;
-  const make = { pillar, sign, house, 'aspect-type': aspectType, aspect: natalAspect, concept }[self.kind];
-  if (!make) return null;
+  const make = { pillar, sign, house, 'aspect-type': aspectType, aspect: natalAspect, concept }[self.kind] ?? treeLinks;
   return make(id).map((g) => ({ ...g, pages: real(g.pages), need: g.need ?? real(g.pages).length }));
 }
 

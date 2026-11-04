@@ -208,6 +208,37 @@ Title: the plan's (*Sun square Moon* · *Soleil carré Lune*); h1: *Sun square M
 
 **Not junk, page by page.** Each page answers the question in its title on its own, and holds at least one thing a competitor couldn't have written: the count above, and the library's reading of these two functions. Two pages of the same pair, or of the same aspect, never share a sentence: say what this pair does that another pair wouldn't, and what this aspect does to this pair that another aspect wouldn't. No sentence that would fit any pair with the names swapped.
 
+### A body in a sign, a body in a house
+
+| | English | French |
+|---|---|---|
+| 1 | `## In a birth chart {#in-a-birth-chart}` | `## Dans un thème natal {#dans-un-theme-natal}` |
+| 2 | `## In close relationships {#in-close-relationships}` | `## Dans les relations proches {#dans-les-relations-proches}` |
+| 3 | `## At work {#at-work}` | `## Au travail {#au-travail}` |
+| 4 | `## The hard part {#the-hard-part}` | `## Le plus difficile {#le-plus-difficile}` |
+| 5 | `## What helps {#what-helps}` | `## Ce qui aide {#ce-qui-aide}` |
+
+Title: the plan's (*Saturn in Aries*, *Chiron in the 7th house*); h1: *… in a birth chart* · *… dans un thème natal*; `family: "combinations"`; glyph: the body's symbol (Chiron ⚷, Lilith ⚸, North Node ☊) then the sign's (♈ ♉ ♊ ♋ ♌ ♍ ♎ ♏ ♐ ♑ ♒ ♓) or, for a house, the body's symbol alone.
+
+- **The grammar** (the AGS library): the body is the function, the sign is the manner, the house is the context. A sign changes *how* the body works, never *what* it is; a house says *where in life* it works. Say it with this body and this sign or house, not in general.
+- **A sign** — its element and modality, its ruler (both, for Scorpio, Aquarius and Pisces), and the body's dignity there from the Facts list below (domicile, exaltation, detriment, fall; none for the outer bodies' exaltations). From `plan/sign-facts.json`: for a fast body, how long a stay in the sign usually lasts (*about 44 days for Mars, longer when it turns retrograde there*); for a slow one, the years it was there (*April 1937 to March 1940, March 1967 to April 1969…*), so that the page says plainly whether this is a personal placement or a generation's, read through the house.
+- **A house** — angular, succedent or cadent, its natural sign, the body's joy if it has it there (Facts list), and that houses need the birth time: *In Placidus, the house system I use*, with a link to the birth-time article. The 5th, 6th, 8th and 12th never predict children, illness, death or confinement: link the ethics page the Voice section names.
+- **What held in my tests** belongs here only as the notebook says it: Saturn, Chiron and Lilith *held 75 to 90% of the time*; any other body was *checked like every placement and not one of the three*, while overall *about a third* held.
+- Facts keys (sign): Body · Sign · Element and modality · Dignity · Time in the sign (or Years) · How common (*about 1 person in 12*, from the file). French: Corps · Signe · Élément et mode · Dignité · Durée dans le signe (or Années) · Fréquence. House: Body · House · Type · Natural sign · Joy (when it is this body's) · Needs (*the birth time*). French: Corps · Maison · Type · Signe naturel · Joie · Il faut (*l’heure de naissance*).
+- Sources: *Ptolemy, Tetrabiblos, book I* (rulerships, exaltations), *Vettius Valens, Anthology* (houses), *The Astro Study's count from the planets' positions* for the time in the sign, *My testing notes* where the notebook is cited.
+
+### Rising sign
+
+| | English | French |
+|---|---|---|
+| 1 | `## What it shows {#what-it-shows}` | `## Ce qu’il montre {#ce-qu-il-montre}` |
+| 2 | `## First impressions {#first-impressions}` | `## La première impression {#la-premiere-impression}` |
+| 3 | `## Its ruler {#its-ruler}` | `## Son maître {#son-maitre}` |
+| 4 | `## In close relationships {#in-close-relationships}` | `## Dans les relations proches {#dans-les-relations-proches}` |
+
+h1: *Aries rising* · *Ascendant Bélier*; glyph: *↑* then the sign's symbol. The rising sign needs the birth time (link the birth-time article). From `plan/rising-facts.json`, **how long the sign takes to rise** at London, Paris and New York (*Aries rises in about 52 minutes at London; Libra takes nearly three hours*), and what follows: a sign that rises fast is rising for fewer births, so a time rounded to the hour can miss it. The ruler is the chart ruler (both for Scorpio, Aquarius and Pisces). The Descendant is the opposite sign: one line, linked.
+- Facts keys: Sign · Ruler (the chart ruler) · Element and modality · Rising time (London) · Opposite sign (the Descendant). French: Signe · Maître (maître du thème) · Élément et mode · Durée de lever (Londres) · Signe opposé (le Descendant).
+
 ### Concept
 
 | | English | French |
