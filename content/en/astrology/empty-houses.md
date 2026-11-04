@@ -34,7 +34,7 @@ People often notice the empty houses in their chart before anything else, and wo
 
 ## What it is {#what-it-is}
 
-An empty house is one with no planet inside it. A chart has ten planets, from the Sun to Pluto, and twelve houses, so at least two houses are always empty, and usually more. Planets bunch together: [Mercury](/astrology/mercury/) is never more than about 28° from the Sun and [Venus](/astrology/venus/) never more than about 47°, so those three often share a house or two, and the slow planets can sit in the same sign for years. A chart with several empty houses is entirely ordinary.
+An empty house is one with no planet inside it. A chart has ten planets, from the Sun to Pluto, and twelve houses, so at least two houses are always empty, and usually more. And planets travel in company: the Sun, [Mercury](/astrology/mercury/) and [Venus](/astrology/venus/) are never far apart, with Mercury always within about 28° of the Sun and Venus within about 47°, so the three often fill the same house or two, while the slow planets can share a sign for years. A chart with several empty houses is entirely ordinary.
 
 The opposite of an empty house is a crowded one, with several planets together, sometimes called a [stellium](/astrology/stellium/). The crowded house draws attention; the empty one draws less. That's the whole difference, and it's a difference of emphasis, not of what your life contains.
 
@@ -50,7 +50,7 @@ An empty house is read the way every house is read, minus the planets inside:
 
 I read an empty house as a quieter part of a life, not a missing one. The houses with planets in them are where a life tends to concentrate; the empty ones run more in the background, lived every day, simply less of a theme. Their sign and ruler often tell me as much as a planet would. With Libra on the cusp of an empty 4th and Venus in the 10th, say, home and public life are tied together: work may become a kind of home, or carry the values you grew up with.
 
-Every house, empty or not, is placed by the birth time, and I read them all in Placidus. Change the time and planets move between houses, sometimes emptying one and filling the next, which is one more reason I don't read a chart without it ([what changes without a birth time](/blog/unknown-birth-time/)). And if you'd like to know which houses to look at for a particular part of life, empty or not, [houses by topic](/astrology/houses-by-topic-love-money-work-home/) sets them out, with what they can and can't say ([how I read](/how-i-read/)).
+Every house, empty or not, is placed by the birth time, and I read them all in Placidus. Change the time and planets move between houses, sometimes emptying one and filling the next, and that's why the time comes before any reading I do ([what changes without a birth time](/blog/unknown-birth-time/)). And if you'd like to know which houses to look at for a particular part of life, empty or not, [houses by topic](/astrology/houses-by-topic-love-money-work-home/) sets them out, with what they can and can't say ([how I read](/how-i-read/)).
 
 ## Common myths {#myths}
 

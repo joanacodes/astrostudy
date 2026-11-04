@@ -31,7 +31,7 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les angles, et la rotation du ciel" }
   - { title: "Vettius Valens, Anthologies", note: "les douze maisons" }
 ---
-Chaque maison d’un thème natal commence quelque part, à un degré précis du zodiaque, et cette ligne de départ s’appelle sa cuspide. C’est là que la maison prend son signe, et donc là que son histoire commence.
+Une fois l’heure de naissance connue, chaque maison d’un thème commence à un degré précis du zodiaque, et cette ligne de départ s’appelle sa cuspide. C’est là que la maison prend son signe, et donc là que son histoire commence.
 
 ## Ce que c’est {#ce-que-c-est}
 

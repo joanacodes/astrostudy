@@ -53,7 +53,7 @@ The rising sign brings a fourth planet with it: its ruler, the [chart ruler](/as
 
 ## In a reading {#in-a-reading}
 
-The big three is where I start, and I say so plainly: it's a first sketch, not the portrait. In [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign and the rising sign each held about a third of the time, close to what a flattering horoscope scores; the Moon, checked like every other placement, wasn't one of the three that held far more often. Those were Saturn, Chiron and Lilith, and they're where the closest reading goes ([the three that held](/blog/saturn-chiron-lilith/)).
+The big three is where I start, and I say so plainly: it's a first sketch, not the portrait. In [my notebook](/blog/i-tested-my-birth-chart/), the Sun sign and the rising sign each held about a third of the time, close to what a flattering horoscope scores; the Moon, which I checked like everything else, didn't join the three that held far more often. Those were Saturn, Chiron and Lilith, and they're where the closest reading goes ([the three that held](/blog/saturn-chiron-lilith/)).
 
 So I read the big three for orientation: the tone of a chart, how a person is likely to come across, what they're likely to need. Then I spend the most time where the notebook says to, and I tell you which parts of a reading rest on placements that held less often. That's [how I read](/how-i-read/).
 

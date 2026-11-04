@@ -32,7 +32,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les triplicités, les exaltations et les chutes, les signes masculins et féminins" }
   - { title: "Dorothée de Sidon, Carmen Astrologicum", note: "les maîtres de triplicité" }
 ---
-L’eau est l’élément qui absorbe. Le Cancer, le Scorpion et les Poissons l’ont en partage, et là où ils tombent dans votre thème, vous savez souvent ce que vous ressentez bien avant de savoir le nommer.
+Bien avant d’avoir un mot pour une chose, l’eau sait ce qu’elle ressent. Le Cancer, le Scorpion et les Poissons sont les signes d’eau, et dans un thème ils marquent les endroits où vous accueillez la vie d’abord par le sentiment.
 
 ## Ce que c’est {#ce-que-c-est}
 
@@ -48,7 +48,7 @@ Les trois avancent différemment ([les trois modalités](/astrology/three-modali
 
 L’eau est l’élément où sont arrivées deux des trois planètes lointaines. La [Lune](/astrology/moon/) gouverne seule le Cancer, mais le Scorpion a Pluton et Mars, et les Poissons Neptune et Jupiter : deux des trois signes d’eau ont un maître moderne et un maître traditionnel, plus qu’aucun autre élément ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)).
 
-Ses maîtres de triplicité, chez Dorothée de Sidon, sont Vénus de jour, Mars de nuit et la Lune en troisième, les trois astres que Ptolémée range parmi les planètes de nuit ; l’eau, comme la terre, appartient à la moitié féminine, réceptive, du zodiaque ([maîtres de triplicité](/astrology/triplicity-rulers/)). Jupiter a son exaltation en Cancer, Vénus en Poissons. Trois planètes ont leur chute en eau, Mars en Cancer, la Lune en Scorpion et Mercure en Poissons : l’action, le réconfort et les mots simples doivent chacun y trouver un autre chemin.
+Chez Dorothée de Sidon, la triplicité d’eau répond à Vénus de jour et à Mars de nuit, avec la Lune en troisième : une fois encore les trois planètes de nuit de Ptolémée ([maîtres de triplicité](/astrology/triplicity-rulers/)). Avec la terre, l’eau forme la moitié réceptive, féminine, du zodiaque. Jupiter a son exaltation en Cancer, Vénus en Poissons. Trois planètes ont leur chute en eau, Mars en Cancer, la Lune en Scorpion et Mercure en Poissons : l’action, le réconfort et les mots simples doivent chacun y trouver un autre chemin.
 
 Les maisons naturelles de l’eau sont les maisons [4](/astrology/4th-house/), [8](/astrology/8th-house/) et [12](/astrology/12th-house/) : le foyer et les racines, l’intimité et ce qui se partage, et la part de la vie qui se déroule loin des regards. Ce sont les maisons les plus secrètes d’un thème, et l’eau leur va bien.
 

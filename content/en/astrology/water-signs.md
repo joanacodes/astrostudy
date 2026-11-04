@@ -31,7 +31,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the triplicities, the exaltations and falls, masculine and feminine signs" }
   - { title: "Dorotheus of Sidon, Carmen Astrologicum", note: "the triplicity rulers" }
 ---
-Water is the element that takes things in. Cancer, Scorpio and Pisces all have it, and where they fall in your chart, you tend to know how something feels long before you know what to call it.
+Long before it has a word for something, water knows how it feels. Cancer, Scorpio and Pisces are the water signs, and in a chart they mark the places where you take life in through feeling first.
 
 ## What it is {#what-it-is}
 
@@ -47,7 +47,7 @@ The three move differently ([the three modalities](/astrology/three-modalities/)
 
 Water is where two of the three outer planets arrived. The [Moon](/astrology/moon/) rules Cancer alone, but Scorpio has Pluto and Mars, and Pisces Neptune and Jupiter: two of the three water signs have a modern ruler and a traditional one, more than any other element ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)).
 
-Its triplicity rulers, in Dorotheus's scheme, are Venus by day, Mars by night and the Moon as their partner, the three planets Ptolemy counts as night planets; water, like earth, belongs to the feminine, receptive half of the zodiac ([triplicity rulers](/astrology/triplicity-rulers/)). Jupiter is exalted in Cancer and Venus in Pisces. Three planets have their fall in water, Mars in Cancer, the Moon in Scorpio and Mercury in Pisces: action, comfort and plain words each have to find another way in.
+In Dorotheus's scheme the water triplicity answers to Venus by day and Mars by night, with the Moon as partner: once again Ptolemy's three night planets ([triplicity rulers](/astrology/triplicity-rulers/)). With earth, water makes up the receptive, feminine half of the zodiac. Jupiter is exalted in Cancer and Venus in Pisces. Three planets have their fall in water, Mars in Cancer, the Moon in Scorpio and Mercury in Pisces: action, comfort and plain words each have to find another way in.
 
 Water's natural houses are the [4th](/astrology/4th-house/), [8th](/astrology/8th-house/) and [12th](/astrology/12th-house/): home and roots, intimacy and what's shared, and the part of life that happens out of sight. They're the most private houses of a chart, and water suits them.
 

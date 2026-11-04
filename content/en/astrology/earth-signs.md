@@ -32,7 +32,7 @@ sources:
   - { title: "Dorotheus of Sidon, Carmen Astrologicum", note: "the triplicity rulers" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how often Saturn held" }
 ---
-Earth is the element that wants proof. Taurus, Virgo and Capricorn all have it, and where they fall in your chart, you're likely to trust what you can hold, measure or watch working before anything you're told.
+A promise means little to earth until it has seen the plans, handled the material and watched the thing work. Taurus, Virgo and Capricorn each carry that wish for proof in their own way.
 
 ## What it is {#what-it-is}
 

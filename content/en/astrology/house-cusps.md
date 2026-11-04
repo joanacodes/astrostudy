@@ -30,7 +30,7 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the angles, and the turning of the sky" }
   - { title: "Vettius Valens, Anthology", note: "the twelve houses" }
 ---
-Every house of a birth chart begins somewhere, at a precise degree of the zodiac, and that starting line is its cusp. It's where the house takes its sign, and so where its story starts.
+Once a birth time fixes it, each house of a chart begins at one precise degree of the zodiac, and that starting line is its cusp. It's where the house takes its sign, and so where its story starts.
 
 ## What it is {#what-it-is}
 

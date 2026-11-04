@@ -36,7 +36,7 @@ Mercury retrograde gets the blame for lost keys, frozen laptops and messages sen
 
 ## The short answer {#the-short-answer}
 
-No, as far as anyone has shown. Mercury never actually turns round; it only looks that way from Earth. I know of no published study that tested whether things break, fail or go missing more often while Mercury is retrograde, so I can't point you to a finding either way, and I won't invent one. What the controlled tests of astrology found in general is set out in [Does astrology work?](/astrology/does-astrology-work/), and like the headline about a thirteenth sign ([Did my sign change?](/astrology/did-my-sign-change/)), this one travels faster than the astronomy.
+No, not as far as I know. Mercury never actually turns round; it only looks that way from Earth. I know of no published study that tested whether things break, fail or go missing more often while Mercury is retrograde, so I can't point you to a finding either way, and I won't invent one. What the controlled tests of astrology found in general is set out in [Does astrology work?](/astrology/does-astrology-work/), and like the headline about a thirteenth sign ([Did my sign change?](/astrology/did-my-sign-change/)), this one travels faster than the astronomy.
 
 In my readings, a transit like this is weather, not a forecast: something you might notice, never a prediction of what will happen to you.
 

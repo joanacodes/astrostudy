@@ -32,7 +32,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les triplicités et les exaltations" }
   - { title: "Dorothée de Sidon, Carmen Astrologicum", note: "les maîtres de triplicité" }
 ---
-L’air est l’élément de la conversation. Les Gémeaux, la Balance et le Verseau l’ont en partage, et là où ils tombent dans votre thème, vous comprenez souvent les choses en les nommant, en les comparant et en en parlant avec quelqu’un.
+Certaines personnes découvrent ce qu’elles pensent en le disant à voix haute, à quelqu’un qui leur répond. C’est la manière de l’air, et les Gémeaux, la Balance et le Verseau sont ses trois signes : chacun entretient la conversation à sa façon.
 
 ## Ce que c’est {#ce-que-c-est}
 

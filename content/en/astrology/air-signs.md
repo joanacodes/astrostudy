@@ -31,7 +31,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the triplicities and the exaltations" }
   - { title: "Dorotheus of Sidon, Carmen Astrologicum", note: "the triplicity rulers" }
 ---
-Air is the element of the conversation. Gemini, Libra and Aquarius all have it, and where they fall in your chart, you tend to understand things by naming them, comparing them and talking them over with someone else.
+Some people find out what they think by saying it out loud, to someone who answers back. That's air's way, and Gemini, Libra and Aquarius are its three signs, each keeping the conversation going differently.
 
 ## What it is {#what-it-is}
 

@@ -33,7 +33,7 @@ sources:
   - { title: "Dorothée de Sidon, Carmen Astrologicum", note: "les maîtres de triplicité" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "combien de fois Saturne a tenu" }
 ---
-La terre est l’élément qui veut des preuves. Le Taureau, la Vierge et le Capricorne l’ont en partage, et là où ils tombent dans votre thème, vous faites sans doute davantage confiance à ce que vous pouvez tenir, mesurer ou voir fonctionner qu’à ce qu’on vous raconte.
+Une promesse ne dit pas grand-chose à la terre tant qu’elle n’a pas vu les plans, touché les matériaux et regardé la chose fonctionner. Le Taureau, la Vierge et le Capricorne portent ce besoin de preuves, chacun à sa manière.
 
 ## Ce que c’est {#ce-que-c-est}
 

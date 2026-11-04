@@ -57,7 +57,7 @@ Le sens se prolonge aussi dans le temps. Dans les [progressions secondaires](/as
 
 Je lis appliquant et séparant comme une question de ton et de rythme, pas de bien ou de mal. Un aspect appliquant à la naissance donne souvent l’impression d’une chose encore en mouvement, une question sur laquelle on continue de travailler ; un aspect séparant, celle d’une chose déjà intégrée, assez familière pour passer inaperçue. L’orbe compte quand même davantage : un aspect séparant à un degré de l’exactitude est plus serré, et souvent plus sonore, qu’un aspect appliquant au bord de son orbe.
 
-Avec la Lune, c’est l’heure de naissance qui tranche. La Lune parcourt quelque 13° par jour : quelques heures peuvent faire d’un aspect appliquant un aspect séparant, ou le faire sortir de son orbe. Une raison de plus pour laquelle je ne lis pas de thème sans l’heure ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Avec la Lune, c’est l’heure de naissance qui tranche. La Lune parcourt quelque 13° par jour : quelques heures peuvent faire d’un aspect appliquant un aspect séparant, ou le faire sortir de son orbe. Les aspects de la Lune font partie de ce que l’heure décide, et c’est une des raisons pour lesquelles il n’y a pas de lecture sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 En transit, appliquant, c’est la météo qui arrive : on sent souvent un transit monter avant qu’il soit exact, puis s’éloigner en se séparant. La météo, pas une prédiction.
 

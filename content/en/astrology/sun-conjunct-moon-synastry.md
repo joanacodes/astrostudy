@@ -35,9 +35,9 @@ Sun conjunct Moon in synastry puts one person's Sun on the other's Moon: who one
 
 The [Sun](/astrology/sun/) organises a person around a centre: identity, vitality, the direction a life is taking. The [Moon](/astrology/moon/) regulates the inner weather: needs, attachment, habits, what makes someone feel safe. A [conjunction](/astrology/conjunction/) puts two functions in one place, and between two charts that place belongs to two people at once. Like all [synastry aspects](/astrology/synastry-aspects/), it is read from each side in turn.
 
-If it's your Sun, the other person's comfort seems to gather around who you already are. You don't have to perform to be welcome: your rhythm, your interests, the way you take up a room come close to what settles them. I read it as being received rather than assessed, and it can be a relief to anyone used to earning their place.
+If it's your Sun, the other person's comfort seems to gather around who you already are. You don't have to perform to be welcome: your rhythm, your interests, the way you take up a room come close to what settles them. I read it as being received rather than assessed.
 
-If it's your Moon, their presence reaches the part of you that keeps you steady. Their ordinary way of being has the colour of your own needs: with your Moon and their Sun both in Taurus, they are unhurried by nature, in exactly the way you need things unhurried to feel safe; both in Gemini, their curiosity is the kind of company your feelings run on.
+If it's your Moon, their presence reaches the part of you that keeps you steady. Their ordinary way of being has the colour of your own needs: with your Moon and their Sun both in Taurus, they are unhurried by nature, in exactly the way you need things unhurried to feel safe.
 
 What flows between you is recognition: one person is seen for who they are, the other is met in what they need, and both by the same gesture. It shows in a couple who settle into a shared routine within weeks, in a friendship where one person's company is the other's reset, in two colleagues who simply work better in the same room.
 
@@ -54,7 +54,7 @@ Fusion is not identity loss, as I read the conjunction. The work is keeping two 
 
 ## How to meet it {#how-to-meet-it}
 
-What helps is a little deliberate distance inside the closeness. The Moon person can check, now and then, whether a habit they've taken on is theirs or borrowed. The Sun person can ask what the other needs instead of assuming that their company covers it. In a couple, that might mean an evening each on your own; between friends or siblings, saying "not this time" without it meaning anything more; between coworkers, the Moon person keeping their own pace even when the Sun person sets a good one.
+What helps is a little deliberate distance inside the closeness. The Moon person can check, now and then, whether a habit they've taken on is theirs or borrowed. The Sun person can ask what the other needs instead of assuming that their company covers it. In a couple, that might mean an evening each on your own; between friends or siblings, saying "not this time" without it meaning anything more; between coworkers, keeping your own pace even when the other sets a good one.
 
 About 1 pair of people in 11 has this conjunction, one way round or the other, within 8°: common enough that I never read it as fate. I don't begin a synastry without both birth times, and the Moon is one reason: it moves about 13° a day, so without the time it could sit anywhere across a span of about 13°, enough to make or unmake the meeting ([what changes without a birth time](/blog/unknown-birth-time/)). The houses, which show where in each life the contact lands, need both times too.
 

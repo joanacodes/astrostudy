@@ -37,7 +37,7 @@ On accuse Mercure rétrograde des clés perdues, des ordinateurs qui plantent et
 
 ## La réponse courte {#la-reponse-courte}
 
-Non, pas à ce qu’on a pu montrer. Mercure ne fait jamais vraiment demi-tour ; c’est seulement ce qu’on voit depuis la Terre. Je ne connais aucune étude publiée qui ait vérifié si les choses cassent, échouent ou se perdent plus souvent pendant que Mercure est rétrograde : je ne peux donc vous indiquer aucun résultat, dans un sens ni dans l’autre, et je n’en inventerai pas. Ce que les tests contrôlés de l’astrologie ont trouvé en général est exposé dans [L’astrologie, ça marche ?](/astrology/does-astrology-work/), et, comme le titre sur un treizième signe ([Mon signe a-t-il changé ?](/astrology/did-my-sign-change/)), celui-ci circule plus vite que l’astronomie.
+Non, pas à ma connaissance. Mercure ne fait jamais vraiment demi-tour ; c’est seulement ce qu’on voit depuis la Terre. Je ne connais aucune étude publiée qui ait vérifié si les choses cassent, échouent ou se perdent plus souvent pendant que Mercure est rétrograde : je ne peux donc vous indiquer aucun résultat, dans un sens ni dans l’autre, et je n’en inventerai pas. Ce que les tests contrôlés de l’astrologie ont trouvé en général est exposé dans [L’astrologie, ça marche ?](/astrology/does-astrology-work/), et, comme le titre sur un treizième signe ([Mon signe a-t-il changé ?](/astrology/did-my-sign-change/)), celui-ci circule plus vite que l’astronomie.
 
 Dans mes lectures, un transit comme celui-ci est une météo, pas une prévision : quelque chose que vous remarquerez peut-être, jamais l’annonce de ce qui va vous arriver.
 
@@ -51,7 +51,7 @@ Dans mes lectures, un transit comme celui-ci est une météo, pas une prévision
 
 ## Ce que j’ai trouvé {#ce-que-j-ai-trouve}
 
-Mon carnet ne peut pas aider sur ce point, et je préfère le dire que de le forcer. J’ai vérifié des thèmes natals, le mien puis ceux d’autres personnes avec leur accord : chaque position dans son signe et sa maison, une coche ou une croix. Mercure rétrograde, en tant que transit qui passe, n’est une position du thème natal de personne : ce n’est donc jamais ce que je comptais.
+Mon carnet ne peut pas aider sur ce point, et je préfère le dire plutôt que de lui faire dire ce qu’il ne dit pas. J’ai vérifié des thèmes natals, le mien puis ceux d’autres personnes avec leur accord : chaque position dans son signe et sa maison, une coche ou une croix. Mercure rétrograde, en tant que transit qui passe, n’est une position du thème natal de personne : ce n’est donc jamais ce que je comptais.
 
 Ce que le carnet dit de Mercure est modeste. Dans le thème natal, Mercure, comme le Soleil, l’ascendant et Vénus, a tenu environ un tiers du temps, et dans l’ensemble **30 à 40 %** de ce que j’ai vérifié a tenu, tandis que **Saturne, Lilith et Chiron ont tenu 75 à 90 % du temps**. C’est un carnet, pas une étude ; il ne prouve rien sur l’astrologie en général.
 

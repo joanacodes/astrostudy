@@ -56,7 +56,7 @@ Direction also carries forward in time. In [secondary progressions](/astrology/s
 
 I read applying and separating as tone and timing, not good and bad. An applying aspect at birth tends to feel like something still in motion, a question you keep working on; a separating one like something already absorbed, familiar enough to go unnoticed. The orb still matters more: a separating aspect a degree past exact is closer, and usually louder, than an applying one at the edge of its orb.
 
-With the Moon, the birth time decides it. The Moon moves about 13° a day, so a few hours can turn an applying aspect into a separating one, or take it out of orb altogether. That's one more reason I don't read a chart without the time ([what changes without a birth time](/blog/unknown-birth-time/)).
+With the Moon, the birth time decides it. The Moon moves about 13° a day, so a few hours can turn an applying aspect into a separating one, or take it out of orb altogether. Aspects with the Moon are among the things the time decides, and part of why there's no reading without it ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 In transits, applying is the weather coming in: a transit is often felt gathering before it's exact, and fading as it separates. Weather, not a forecast.
 

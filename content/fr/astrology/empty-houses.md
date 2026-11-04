@@ -35,7 +35,7 @@ On remarque souvent les maisons vides de son thème avant tout le reste, et on s
 
 ## Ce que c’est {#ce-que-c-est}
 
-Une maison vide est une maison qui ne contient aucune planète. Un thème compte dix planètes, du Soleil à Pluton, et douze maisons : deux maisons au moins sont donc toujours vides, et le plus souvent davantage. Les planètes se regroupent : [Mercure](/astrology/mercury/) ne s’éloigne jamais de plus de 28° environ du Soleil, et [Vénus](/astrology/venus/) de plus de 47°, si bien que ces trois-là partagent souvent une maison ou deux ; les planètes lentes, elles, peuvent occuper le même signe pendant des années. Un thème avec plusieurs maisons vides n’a rien que de très ordinaire.
+Une maison vide est une maison qui ne contient aucune planète. Un thème compte dix planètes, du Soleil à Pluton, et douze maisons : deux maisons au moins sont donc toujours vides, et le plus souvent davantage. Et les planètes voyagent en groupe : le Soleil, [Mercure](/astrology/mercury/) et [Vénus](/astrology/venus/) restent proches, Mercure toujours à moins de 28° environ du Soleil et Vénus à moins de 47°, si bien que ces trois-là remplissent souvent la même maison ou deux, tandis que les planètes lentes peuvent partager un signe pendant des années. Un thème avec plusieurs maisons vides n’a rien que de très ordinaire.
 
 Le contraire d’une maison vide, c’est une maison chargée, avec plusieurs planètes ensemble, ce qu’on appelle parfois un [stellium](/astrology/stellium/). La maison chargée attire l’attention ; la maison vide, moins. Toute la différence est là, et c’est une différence d’accent, pas de ce que contient votre vie.
 
@@ -51,7 +51,7 @@ Une maison vide se lit comme toutes les maisons, les planètes en moins :
 
 Je lis une maison vide comme un pan de vie plus discret, pas comme un pan qui manque. Les maisons habitées sont celles où une vie a tendance à se concentrer ; les maisons vides tournent davantage en arrière-plan, vécues tous les jours, simplement moins au centre. Leur signe et leur maître m’en disent souvent autant qu’une planète. Avec la Balance sur la cuspide d’une maison 4 vide et Vénus en maison 10, par exemple, le foyer et la vie publique sont liés : le travail peut devenir une sorte de maison, ou porter les valeurs avec lesquelles vous avez grandi.
 
-Chaque maison, vide ou non, est placée par l’heure de naissance, et je les lis toutes en Placidus. Changez l’heure, et des planètes passent d’une maison à l’autre, vidant parfois l’une pour remplir la suivante : une raison de plus pour laquelle je ne lis pas de thème sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Et si vous voulez savoir quelles maisons regarder pour un domaine de la vie, vides ou non, la page [Les maisons par thème](/astrology/houses-by-topic-love-money-work-home/) les présente, avec ce qu’elles peuvent dire et ce qu’elles ne disent pas ([ma méthode](/how-i-read/)).
+Chaque maison, vide ou non, est placée par l’heure de naissance, et je les lis toutes en Placidus. Changez l’heure, et des planètes passent d’une maison à l’autre, vidant parfois l’une pour remplir la suivante : c’est pourquoi l’heure passe avant toute lecture ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Et si vous voulez savoir quelles maisons regarder pour un domaine de la vie, vides ou non, la page [Les maisons par thème](/astrology/houses-by-topic-love-money-work-home/) les présente, avec ce qu’elles peuvent dire et ce qu’elles ne disent pas ([ma méthode](/how-i-read/)).
 
 ## Idées reçues {#idees-recues}
 

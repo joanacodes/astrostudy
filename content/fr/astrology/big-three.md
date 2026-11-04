@@ -38,7 +38,7 @@ Demandez à quelqu’un son big three, et vous aurez trois signes d’un seul so
 
 Votre signe solaire est le signe où se trouvait le [Soleil](/astrology/sun/) à votre naissance : ce que vous visez, la direction dans laquelle vous voulez grandir. Votre signe lunaire, celui de la [Lune](/astrology/moon/), montre ce dont vous avez besoin pour vous sentir en sécurité : le réconfort, les humeurs, votre façon de prendre soin de vous. Votre signe ascendant, celui qui se levait à l’horizon, sur votre [ascendant](/astrology/ascendant/), décrit votre façon d’aborder le monde : la première impression, la première réaction, votre manière de commencer les choses.
 
-Trois positions, trois horloges. Le Soleil change de signe environ tous les 30 jours : les personnes nées à peu près le même mois le partagent. La Lune change de signe tous les deux jours et demi environ, l’ascendant toutes les deux heures en moyenne. Le big three est donc plus personnel qu’un signe solaire. Douze Soleils, douze Lunes et douze ascendants font 1 728 combinaisons, et l’ascendant suffit à distinguer deux personnes nées le même jour dans la même ville, à quelques heures d’écart.
+Trois positions, trois horloges. Le Soleil change de signe environ tous les 30 jours : les personnes nées à peu près le même mois le partagent. La Lune passe d’un signe à l’autre en deux jours et demi environ, l’ascendant en deux heures en moyenne. Le big three est donc plus personnel qu’un signe solaire. Douze Soleils, douze Lunes et douze ascendants font 1 728 combinaisons, et l’ascendant suffit à distinguer deux personnes nées le même jour dans la même ville, à quelques heures d’écart.
 
 ## Comment ça marche {#comment-ca-marche}
 
@@ -54,7 +54,7 @@ L’ascendant amène avec lui une quatrième planète : son maître, le [maîtr
 
 ## Dans une lecture {#dans-une-lecture}
 
-Le big three est mon point de départ, et je le dis clairement : c’est une première esquisse, pas le portrait. Dans [mon carnet](/blog/i-tested-my-birth-chart/), le signe solaire et l’ascendant ont chacun tenu environ une fois sur trois, à peu près le score d’un horoscope flatteur ; la Lune, vérifiée comme toutes les autres positions, ne fait pas partie des trois qui ont tenu bien plus souvent. Ces trois-là sont Saturne, Chiron et Lilith, et c’est là que va la lecture la plus attentive ([les trois qui ont tenu](/blog/saturn-chiron-lilith/)).
+Le big three est mon point de départ, et je le dis clairement : c’est une première esquisse, pas le portrait. Dans [mon carnet](/blog/i-tested-my-birth-chart/), le signe solaire et l’ascendant ont chacun tenu environ une fois sur trois, à peu près le score d’un horoscope flatteur ; la Lune, vérifiée comme le reste, n’a pas rejoint les trois qui ont tenu bien plus souvent. Ces trois-là sont Saturne, Chiron et Lilith, et c’est là que va la lecture la plus attentive ([les trois qui ont tenu](/blog/saturn-chiron-lilith/)).
 
 Je lis donc le big three pour m’orienter : le ton d’un thème, la manière dont une personne risque d’apparaître, ce dont elle risque d’avoir besoin. Ensuite, je passe le plus de temps là où le carnet le conseille, et je vous dis quelles parties d’une lecture reposent sur des positions qui ont tenu moins souvent. C’est [ma méthode](/how-i-read/).
 
