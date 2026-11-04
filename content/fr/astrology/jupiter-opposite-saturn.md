@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes la portent, et les mois où elle était dans l’orbe" }
   - { title: "NASA — Jupiter facts", url: "https://science.nasa.gov/jupiter/jupiter-facts/", note: "l’orbite de Jupiter, environ 12 ans" }
 ---
-Jupiter opposition Saturne marque le milieu du cycle de vingt ans de la paire, et les personnes nées à ce moment-là portent Jupiter et Saturne aux deux bouts du zodiaque. Comme thème, elle appartient à une année de naissance ; vos maisons montrent entre quels domaines de votre propre vie elle se tend.
+Jupiter opposition Saturne marque le milieu des vingt ans que dure le cycle de la paire, et les personnes nées à ce moment-là portent Jupiter et Saturne aux deux bouts du zodiaque. Comme thème, elle appartient à une année de naissance ; vos maisons montrent entre quels domaines de votre propre vie elle se tend.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 

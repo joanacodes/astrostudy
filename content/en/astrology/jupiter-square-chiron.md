@@ -50,12 +50,12 @@ Here is how the pair's other angles compare:
 - **[Jupiter conjunct Chiron](/astrology/jupiter-conjunct-chiron/):** no friction, only fusion, so meaning is found inside the tender spot itself.
 - **[Jupiter sextile Chiron](/astrology/jupiter-sextile-chiron/):** the gentle version, in which help is offered rather than demanded.
 - **[Jupiter trine Chiron](/astrology/jupiter-trine-chiron/):** hope and tenderness move at one pace, so adapting comes more easily.
-- **[Jupiter opposite Chiron](/astrology/jupiter-opposite-chiron/):** the two face each other, and one side is often met in someone else.
+- **[Jupiter opposite Chiron](/astrology/jupiter-opposite-chiron/):** the two face each other, and someone close to you often stands at one end.
 
 Between two charts, [Jupiter square Chiron in synastry](/astrology/jupiter-square-chiron-synastry/) can let one person's enthusiasm land on the other's tender place a little too hard, or exactly when it was needed. I look at it only when both people have asked me to ([synastry and consent](/blog/synastry-behind-their-back/)).
 
 ## In transits {#in-transits}
 
-[Transiting Chiron square natal Jupiter](/astrology/transiting-chiron-square-natal-jupiter/) can come at any age, and more than once: Chiron makes two squares to the same point in each round of about 50 years. Its length follows Chiron's speed, from a few months to over a year. Jupiter, much quicker, squares your natal Chiron twice in each round of about 12 years, for a few weeks: a short stretch when hope and patience renegotiate.
+[Transiting Chiron square natal Jupiter](/astrology/transiting-chiron-square-natal-jupiter/) can come at any age, and more than once: Chiron makes two squares to the same point in each round of about 50 years. Its length follows Chiron's speed, from a few months to over a year. Jupiter, much quicker, squares your natal Chiron twice in each round of about 12 years, each time for a few weeks, a short stretch when hope and patience renegotiate.
 
 Weather again, not a forecast: each marks a season of renegotiation between hope and pace, and nothing more fixed than that.

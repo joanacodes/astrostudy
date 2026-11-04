@@ -34,7 +34,7 @@ Jupiter square Saturn sets the part of you that reaches for more at right angles
 
 [Jupiter](/astrology/jupiter/) is where a chart reaches for more: more understanding, a larger frame of meaning, the next possibility. [Saturn](/astrology/saturn/) is where it builds and holds: responsibility, limits, patience, the long view. A [square](/astrology/square/) relates them through constructive friction: neither wins outright, and each keeps pushing the other to adapt.
 
-In plain words, growth and caution rarely agree on the timing. You may take on a big plan and then spend months doubting it, or hold back for so long that the chance seems to pass, and then leap. Neither instinct is wrong. The square asks you to let each one test the other: your hopes checked against what can actually be carried, your limits stretched by what is genuinely worth the effort.
+In plain words, growth and caution rarely agree on the timing. You may take on a big plan and then spend months doubting it, or hold back for so long that the chance seems to pass, and then leap. Neither instinct is wrong. What the square asks is that each instinct test the other: your hopes checked against what can actually be carried, your limits stretched by what is genuinely worth the effort.
 
 Friction isn't failure. Plans that have survived both of those questions tend to be bold and sound at once, and many people with this square become good at exactly that: judging how far to go, and how fast.
 

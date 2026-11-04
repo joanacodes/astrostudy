@@ -22,7 +22,7 @@ faq:
   - q: "Chiron en maison 12, est-ce mauvais ?"
     a: "Non. La tradition a été dure avec la maison 12, et son nom ancien, le Génie défavorable, n’aide pas. Pour moi, c’est simplement l’endroit où l’on garde les parts de la vie que personne ne voit. Chiron y décrit une adaptation en privé, qui rend souvent les gens particulièrement perspicaces et bienveillants, et non malchanceux."
   - q: "Chiron en maison 12 prédit-il un enfermement ou une maladie ?"
-    a: "Non. Les hôpitaux, les prisons et les ennemis cachés appartenaient à la maison 12 dans les livres anciens, mais rien de tout cela ne se prédit, et je ne le lis pas ainsi. Quand quelque chose de lourd revient sans cesse, la bonne aide vient d’une personne formée pour la donner. Le thème décrit votre vie intérieure, pas votre avenir."
+    a: "Non. L’enfermement, les hôpitaux et les ennemis cachés appartenaient à la maison 12 dans les livres anciens, mais rien de tout cela ne se prédit, et je ne le lis pas ainsi. Quand quelque chose de lourd revient sans cesse, la bonne aide vient d’une personne formée pour la donner. Le thème décrit votre vie intérieure, pas votre avenir."
   - q: "Pourquoi Chiron en maison 12 semble-t-il si privé ?"
     a: "Parce que la maison 12 couvre ce qui se vit à l’écart et hors de vue. Avec Chiron ici, une grande part de l’adaptation se fait avant que quiconque la remarque, si bien que vos forces passent facilement inaperçues des autres, et que vous les oubliez vous-même. Les nommer, ne serait-ce que pour vous, fait partie du travail."
 sources:

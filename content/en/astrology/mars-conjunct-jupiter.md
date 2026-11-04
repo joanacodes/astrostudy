@@ -31,7 +31,7 @@ Mars conjunct Jupiter puts the part of you that acts and the part that looks for
 
 ## What it means {#what-it-means}
 
-[Mars](/astrology/mars/) is the part of a chart that initiates: it starts things, asserts what you want, puts in the effort and holds a line. [Jupiter](/astrology/jupiter/) is the part that widens: it builds understanding, draws meaning from experience and supports growth. In a [conjunction](/astrology/conjunction/) they work as one unit, though each keeps its own job: the impulse to act and the wish to understand arrive in the same gesture.
+[Mars](/astrology/mars/) is the part of a chart that initiates: it starts things, asserts what you want, puts in the effort and holds a line. [Jupiter](/astrology/jupiter/) is the part that asks what things are for: it turns experience into understanding and supports your growth over time. In a [conjunction](/astrology/conjunction/) they work as one unit, though each keeps its own job: the impulse to act and the wish to understand arrive in the same gesture.
 
 In plain words, conviction and effort are hard to separate in you. A cause you care about gets your energy straight away; a task you take on soon acquires a larger purpose. People may notice enthusiasm, an appetite for challenge, or a gift for rallying others round an aim. The conjunction comes with two cautions, both about scale: expansion isn't excess, and courage isn't recklessness. It works best when the size of what you take on matches the reason for it, and when your principles stay open to being wrong.
 

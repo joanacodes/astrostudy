@@ -41,14 +41,14 @@ J’y lis une agitation qui a un but : un esprit qui grandit en changeant de ca
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-À 6° près, la conjonction concerne environ 1 personne sur 27 née entre 1930 et 2009, et ces naissances se regroupent en cinq périodes : d’avril à juin 1941 ; d’août 1954 à juin 1955 ; d’octobre 1968 à septembre 1969 ; de décembre 1982 à novembre 1983 ; et de janvier à mars 1997. Jupiter, qui fait le tour du zodiaque en 12 ans environ, rattrape Uranus, qui en met 84, à peu près tous les quatorze ans, et chaque période dure de trois mois à un an environ.
+À 6° près, la conjonction concerne environ 1 personne sur 27 née entre 1930 et 2009, et ces naissances se regroupent en cinq périodes : d’avril à juin 1941 ; d’août 1954 à juin 1955 ; d’octobre 1968 à septembre 1969 ; de décembre 1982 à novembre 1983 ; et de janvier à mars 1997. Jupiter, qui boucle son tour en 12 ans environ, rattrape Uranus, qui en met 84, à peu près tous les quatorze ans, et chaque période dure de trois mois à un an environ.
 
-Prise seule, elle décrit donc une cohorte : Jupiter est une planète sociale, Uranus une planète générationnelle ([planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)). Votre version à vous se trouve dans sa maison, et dans ses éventuels contacts avec votre Soleil, votre Lune ou un angle. En maison 3, elle pourrait se voir dans un esprit qui apprend en sautant d’un sujet à l’autre ; en maison 6, dans un travail quotidien que vous réinventez sans cesse ; en maison 7, dans des relations qui ont besoin d’espace. Les maisons demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Prise seule, elle décrit donc une cohorte : Jupiter est une planète sociale, Uranus une planète générationnelle ([planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)). Votre version à vous se trouve dans sa maison, et dans les contacts qu’elle noue, ou non, avec vos luminaires et vos angles. En maison 3, elle pourrait se voir dans un esprit qui apprend en sautant d’un sujet à l’autre ; en maison 6, dans un travail quotidien que vous réinventez sans cesse ; en maison 7, dans des relations qui ont besoin d’espace. Les maisons demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Les autres aspects de la paire marquent d’autres années :
 
 - **[Jupiter sextile Uranus](/astrology/jupiter-sextile-uranus/) :** une ouverture pour grandir par le nouveau, pour les naissances de 1952–53, 1966–67 ou 1985–86, entre autres.
-- **[Jupiter carré Uranus](/astrology/jupiter-square-uranus/) :** une friction entre convictions et changement, qui revient environ tous les sept ans.
+- **[Jupiter carré Uranus](/astrology/jupiter-square-uranus/) :** une friction entre convictions et changement, de retour tous les sept ans à peu près.
 - **[Jupiter trigone Uranus](/astrology/jupiter-trine-uranus/) :** croissance et changement en accord facile, pour les naissances de 1950–51 ou de 1964–65, par exemple.
 - **[Jupiter opposition Uranus](/astrology/jupiter-opposite-uranus/) :** les deux face à face, à peu près à mi-chemin entre deux rencontres, comme en 1948, en 1962–63 ou en 1989–90.
 

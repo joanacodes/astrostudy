@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 202
 glyph: "♂□♃"
-definition: "Mars square Jupiter means Mars and Jupiter were about 90° apart at your birth, usually in signs of the same modality. In a chart, the urge to act and the urge to understand keep checking each other’s size: big plans, quick moves, then adjustment. I read it as friction that teaches proportion, never as recklessness."
+definition: "Mars square Jupiter means Mars and Jupiter were about 90° apart at your birth, usually in signs of the same modality. In a chart, the urge to act and the urge to understand keep checking each other’s size: big plans, quick moves, then adjustment. I read it as an apprenticeship in proportion, never as recklessness."
 facts:
   - { k: "Bodies", v: "Mars ♂ and Jupiter ♃" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/jupiter", "/astrology/square", "/astrology/mars-conjunct-jupiter", "/astrology/mars-square-jupiter-synastry"]
 faq:
   - q: "What does Mars square Jupiter mean in a birth chart?"
-    a: "Mars and Jupiter about 90° apart at your birth, usually in signs of one modality. The urge to act and the urge to understand check each other’s size: you may take on a lot, or act before the reason is clear. I read it as friction that teaches proportion, never as a flaw of character."
+    a: "Mars and Jupiter about 90° apart at your birth, usually in signs of one modality. The urge to act and the urge to understand check each other’s size: you may take on a lot, or act before the reason is clear. To me it’s a lesson in proportion, taught by friction, and no flaw of character."
   - q: "Is Mars square Jupiter reckless?"
     a: "Not by nature. Courage isn’t recklessness, and expansion isn’t excess. The square can make big plans tempting and patience hard, so the risk is overreach rather than danger. With experience it tends to give the opposite: a good instinct for how much a goal really needs."
   - q: "Can Mars square Jupiter help in sport or competition?"
@@ -31,7 +31,7 @@ Mars square Jupiter sets the urge to act at right angles to the urge to understa
 
 ## What it means {#what-it-means}
 
-[Mars](/astrology/mars/) is the part of a chart that acts: it starts, asserts, competes and puts in the work. [Jupiter](/astrology/jupiter/) is the part that expands understanding: it seeks meaning, holds principles and supports growth. A [square](/astrology/square/) sets them at a working angle, where the friction is constructive and pushes both to develop.
+[Mars](/astrology/mars/) is the part of a chart that acts: it starts, asserts, competes and puts in the work. [Jupiter](/astrology/jupiter/) is the part that reaches for the larger view: principles, meaning, and growth over the long run. A [square](/astrology/square/) sets them at a working angle, where the friction is constructive and pushes both to develop.
 
 In plain words, you may take on more than the moment needs, or argue for a principle when a simple step would do; at other times you act first and find the reason afterwards. Competition can feel like a matter of principle. None of that is failure, and none of it is recklessness by nature: courage isn't recklessness, and expansion isn't excess. What the square trains is a valuable instinct: sizing the effort to the aim, checking a conviction before charging, and letting a cause grow at the pace your energy can actually keep.
 
@@ -48,7 +48,7 @@ The pair's other angles:
 - **[Mars trine Jupiter](/astrology/mars-trine-jupiter/):** an easy flow in one element, with little need to negotiate.
 - **[Mars opposite Jupiter](/astrology/mars-opposite-jupiter/):** a polarity; the friction moves outward, often into other people's plans.
 
-Between two charts, [Mars square Jupiter in synastry](/astrology/mars-square-jupiter-synastry/) can be stimulating and tiring in turn: one person's drive meets the other's vision at an angle. Agreeing who leads which part of a shared plan helps a great deal.
+Between two charts, [Mars square Jupiter in synastry](/astrology/mars-square-jupiter-synastry/) often means big shared plans and some friction over pace: one person wants to start, the other wants the plan to be grand enough first. Agreeing who leads which part helps a great deal.
 
 ## In transits {#in-transits}
 

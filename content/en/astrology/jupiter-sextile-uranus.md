@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 246
 glyph: "♃⚹♅"
-definition: "Jupiter sextile Uranus means the two planets were about 60° apart at your birth, an angle shared by a few months of births. It links the urge to grow with the urge to try something new, so openings tend to come through change. I read it as a readiness for useful novelty that asks to be acted on."
+definition: "Jupiter sextile Uranus means the two planets were about 60° apart at your birth, an angle shared by a few months of births. It links the wish to grow with the wish to try something new, so openings tend to come through change. I read it as a readiness for useful novelty that asks to be acted on."
 facts:
   - { k: "Bodies", v: "Jupiter ♃ and Uranus ♅" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }

@@ -42,7 +42,7 @@ None of this is a fault. The friction is a kind of training, and over the years 
 
 The nodes fall in opposite signs of one modality, and a square usually puts Mars in that modality too, so all three move in the same manner. With the North Node in Capricorn and the South Node in Cancer, Mars would usually be in Aries or Libra, all cardinal: effort that starts things, set between home and a public role. The houses make it personal: if the nodal axis runs from the 4th house to the 10th, Mars in the 1st or the 7th turns your own initiative, or a partnership, into the hinge between home and work. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-About 1 person in 15 has this square within 6°, counted with the true node. The mean node sits within a couple of degrees of it and can shift the orb a little, so I check both ([mean node and true node](/astrology/mean-node-and-true-node/)). Tight, the question of which end to serve comes up constantly; wide, mostly at turning points.
+About 1 person in 15 has this square within 6°, by the true node's position. The mean node sits within a couple of degrees of it and can shift the orb a little, so I check both ([mean node and true node](/astrology/mean-node-and-true-node/)). Tight, the question of which end to serve comes up constantly; wide, mostly at turning points.
 
 Against the square, the pair's other aspects:
 

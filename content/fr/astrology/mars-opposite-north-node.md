@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 239
 glyph: "♂☍☊"
-definition: "Mars opposition Nœud Nord, c’est un thème natal où Mars se tient près du Nœud Sud, en face du Nœud Nord. L’effort est pour vous un terrain familier, une compétence sur laquelle vous comptez déjà, tandis que votre croissance demande quelque chose de complémentaire. J’y lis une force à emporter avec vous en chemin, pas à abandonner."
+definition: "Mars opposition Nœud Nord : dans votre thème natal, Mars se tient près du Nœud Sud, en face du Nœud Nord. L’effort est pour vous un terrain familier, une compétence sur laquelle vous comptez déjà, tandis que votre croissance demande quelque chose de complémentaire. J’y lis une force à emporter avec vous en chemin, pas à abandonner."
 facts:
   - { k: "Corps", v: "Mars ♂ et le Nœud Nord ☊" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -43,7 +43,7 @@ Ce n’en est pas une. Le développement n’efface pas une capacité existante,
 
 Les signes disent quel est l’élan rodé, et ce qu’il doit apprendre. Avec le Nœud Nord en Balance et Mars sur le Nœud Sud en Bélier, avancer en solitaire est la compétence familière, et agir avec quelqu’un la croissance ; avec le Nœud Nord en Taureau et Mars en Scorpion, une intensité bien rodée doit faire de la place au calme et aux plaisirs simples. Les maisons disent où : si Mars et le Nœud Sud partagent la maison 10, l’ambition vient peut-être facilement, tandis que le foyer, en face, en maison 4, est l’art le moins pratiqué. Les maisons demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Environ 1 personne sur 29 naît avec Mars à moins de 6° du Nœud Sud, ce qui revient à une opposition au Nœud Nord, d’après le nœud vrai. Je regarde aussi le nœud moyen, qui peut déplacer le résultat d’un ou deux degrés. Serrée, l’opposition fait de cet élan familier la première chose qu’on rencontre chez vous ; large, c’est une force parmi d’autres.
+On trouve Mars à 6° ou moins du Nœud Sud chez environ 1 personne sur 29, ce qui revient à une opposition au Nœud Nord, d’après le nœud vrai. Je regarde aussi le nœud moyen, qui peut déplacer le résultat d’un ou deux degrés. Serrée, l’opposition fait de cet élan familier la première chose qu’on rencontre chez vous ; large, c’est une force parmi d’autres.
 
 Les autres aspects de la paire :
 
@@ -56,6 +56,6 @@ Les autres aspects de la paire :
 
 ## En transit {#en-transit}
 
-[Nœud Nord en transit opposition Mars du thème natal](/astrology/transiting-north-node-opposite-natal-mars/), c’est le moment où le nœud du ciel se trouve en face de votre Mars. Pour toute personne née avec cette opposition, ce moment coïncide avec chaque [retour nodal](/astrology/nodal-return/), vers 18 ans et demi, 37 et 56 ans, quand le nœud revient à son point de départ. À mi-chemin, à chaque [inversion nodale](/astrology/nodal-reversal/), vers 9, 28 et 46 ans, c’est le Nœud Nord lui-même qui passe sur votre Mars, et pendant quelques semaines l’élan familier se trouve juste sur le chemin de la croissance.
+[Nœud Nord en transit opposition Mars du thème natal](/astrology/transiting-north-node-opposite-natal-mars/), c’est le moment où le nœud du ciel se trouve en face de votre Mars. Pour toute personne née avec cette opposition, ce moment coïncide avec chaque [retour nodal](/astrology/nodal-return/), vers 18 ans et demi, 37 et 56 ans, quand le nœud retrouve sa position de naissance. À mi-chemin, à chaque [inversion nodale](/astrology/nodal-reversal/), vers 9, 28 et 46 ans, c’est le Nœud Nord lui-même qui passe sur votre Mars, et pendant quelques semaines l’élan familier se trouve juste sur le chemin de la croissance.
 
 Une météo, pas une prédiction : des saisons pour remarquer quand vous comptez sur l’effort par habitude, et quand il vous emmène vraiment ailleurs.

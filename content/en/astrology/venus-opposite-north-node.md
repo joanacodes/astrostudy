@@ -38,7 +38,7 @@ In plain words, you probably know how to be liked, how to keep the peace, how to
 
 ## In a birth chart {#in-a-birth-chart}
 
-Venus usually shares the South Node's sign here. With the South Node in Libra, Venus in its own sign there makes a natural diplomat, growing towards the North Node in Aries: deciding for yourself, first. With the South Node in Pisces, Venus exalted there knows compassion and imagination well, and grows towards the North Node in Virgo: discernment, practical care and limits. The houses show which areas of life the axis joins, and they need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+Venus usually shares the South Node's sign here. With the South Node in Libra, Venus in its own sign there makes a natural diplomat, growing towards the North Node in Aries: deciding for yourself, first. With the South Node in Pisces, Venus exalted there knows compassion and imagination well, and grows towards the North Node in Virgo: discernment, practical care and limits. Without a birth time you would know the signs but not where in your life this axis runs ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 About 1 person in 30 is born with Venus within 6° of an opposition to the North Node, which is the same as a conjunction with the South Node, counted with the true node.
 
@@ -47,7 +47,7 @@ The pair's other angles:
 - **[Venus conjunct North Node](/astrology/venus-conjunct-north-node/):** the axis turned the other way, with Venus on the growing end, where relating itself is the new skill.
 - **[Venus sextile North Node](/astrology/venus-sextile-north-node/):** Venus a step from the new direction, and trine to the familiar.
 - **[Venus square North Node](/astrology/venus-square-north-node/):** Venus between the two ends, pulled on by both.
-- **[Venus trine North Node](/astrology/venus-trine-north-node/):** Venus in easy accord with the growing end, sextile to the familiar.
+- **[Venus trine North Node](/astrology/venus-trine-north-node/):** your taste already pointing the way you're growing, with a friendly sextile back to the start.
 
 Between two charts, [Venus opposite North Node in synastry](/astrology/venus-opposite-north-node-synastry/) puts one person's Venus on the other's South Node: a familiar sweetness that can feel like coming home. I read it from both sides, and ask what the familiarity helps each person grow towards.
 

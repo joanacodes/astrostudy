@@ -37,7 +37,7 @@ Le Sagittaire est le centaure du zodiaque, mi-archer, mi-cheval, et le Chiron du
 
 [Chiron](/astrology/chiron/) s’adapte autour de ce qui reste ; le [Sagittaire](/astrology/sagittarius/), signe de feu mutable gouverné par [Jupiter](/astrology/jupiter/), donne à cette adaptation de l’ampleur et de l’optimisme. La croyance est souvent le terrain sensible : une foi perdue ou jamais offerte, le sentiment que la vie devrait avoir plus de sens qu’il n’y paraissait, ou une liberté qu’il a fallu conquérir. L’adaptation cherche la perspective — le voyage, l’étude, une personne qui enseigne bien, un humour assez large pour tenir les moments durs. Signe mutable oblige, elle révise sans cesse sa carte. Comme le Sagittaire est dessiné sous les traits d’un centaure, certains astrologues l’ont proposé comme signe de Chiron ; rien n’est acquis, et je n’y appuie aucune lecture.
 
-Chiron était en Sagittaire de novembre 1948 à novembre 1951 et de janvier 1999 à décembre 2001, environ 1 personne sur 15 née entre 1930 et 2009. Le premier séjour s’est terminé par des allers-retours avec [Chiron en Capricorne](/astrology/chiron-in-capricorn/) de février à novembre 1951 ; le second a commencé par d’autres avec [Chiron en Scorpion](/astrology/chiron-in-scorpio/), de janvier à septembre 1999. Ces mois-là appartiennent aux deux signes, tour à tour. Jupiter, par signe et par maison, montre où vous allez chercher le cadre plus large, et la maison de Chiron, ce qu’il doit aider à comprendre.
+Chiron était en Sagittaire de novembre 1948 à novembre 1951 et de janvier 1999 à décembre 2001, environ 1 personne sur 15 née entre 1930 et 2009. Le premier séjour s’est terminé par des allers-retours avec [Chiron en Capricorne](/astrology/chiron-in-capricorn/) de février à novembre 1951 ; le second a commencé par d’autres avec [Chiron en Scorpion](/astrology/chiron-in-scorpio/), de janvier à septembre 1999. Ces mois-là appartiennent aux deux signes, tour à tour. Jupiter, par signe et par maison, montre où vous allez chercher le cadre plus large, et la maison de Chiron, ce que ce cadre doit aider à comprendre.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -45,7 +45,7 @@ Dans une relation, ce Chiron a besoin de place pour grandir, et de quelqu’un a
 
 ## Au travail {#au-travail}
 
-L’enseignement est la voie classique, au sens large : transmettre ce qu’il vous a fallu trouver sans guide. Former, donner des conférences, accompagner, écrire pour qu’une idée difficile paraisse possible — tout cela convient à ce placement. Ce savoir-faire est venu de la recherche plutôt que de réponses toutes faites, et c’est pour cela que vos explications portent une conviction. Le voyage, l’édition, l’éducation, l’accompagnement l’accueillent souvent. Sa meilleure forme est ouverte : un point de vue proposé, pas une doctrine.
+L’enseignement est la voie classique, au sens large : transmettre ce qu’il vous a fallu trouver sans guide. Former, donner des conférences, accompagner, écrire pour qu’une idée difficile paraisse possible — tout cela convient à ce placement. Ce savoir-faire est venu de la recherche plutôt que de réponses toutes faites, et c’est pour cela que vos explications portent une conviction. Le voyage, l’édition et l’éducation l’accueillent souvent. Sa meilleure forme est ouverte : un point de vue proposé, pas une doctrine.
 
 ## Le plus difficile {#le-plus-difficile}
 

@@ -48,7 +48,7 @@ The adapting shows on the job as beginnings made in spite of nerves: pitching th
 
 ## The hard part {#the-hard-part}
 
-Bravado is the usual cover. When the doubt is touched, this Chiron may take on the biggest challenge in the room so nobody guesses at the doubt, or treat every need for help as a private defeat. It can also pick fights it doesn't need, or drop a plan the moment it looks like failing. All of that is energy spent guarding the sore spot rather than using what you've learned around it.
+Bravado is the commonest cover. When the doubt is touched, this Chiron may take on the biggest challenge in the room so nobody guesses at the doubt, or treat every need for help as a private defeat. It can also pick fights it doesn't need, or drop a plan the moment it looks like failing. All of that is energy spent guarding the sore spot rather than using what you've learned around it.
 
 ## What helps {#what-helps}
 

@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/chiron", "/astrology/9th-house", "/astrology/sagittarius", "/blog/unknown-birth-time", "/astrology/chiron-transit-9th-house"]
 faq:
   - q: "Que veut dire Chiron en maison 9 ?"
-    a: "La quête de sens est le terrain de ce Chiron. Les personnes qui l’ont décrivent souvent des croyances ou une éducation qui ne leur allaient pas, puis un long chemin personnel vers un regard à elles, par le voyage, l’étude ou la conversation, qu’elles transmettent ensuite. Il faut votre heure de naissance pour savoir s’il est le vôtre."
+    a: "La quête de sens est le terrain de ce Chiron. Les personnes qui l’ont décrivent souvent des croyances ou une éducation qui ne leur allaient pas, puis un long chemin personnel vers un regard à elles, par le voyage, l’étude ou la conversation, qu’elles transmettent ensuite. Votre heure de naissance dira s’il est le vôtre."
   - q: "Chiron en maison 9 touche-t-il la religion ?"
     a: "Il peut colorer votre rapport à la croyance, quelle qu’elle soit : une foi, une philosophie, une politique, ou un doute soigneusement argumenté. Aucun placement ne dit quoi croire. Beaucoup de personnes qui ont ce placement arrivent lentement à leurs convictions, et les tiennent avec une tolérance rare pour celles des autres."
   - q: "Chiron en maison 9 est-il favorable aux voyages ou aux études à l’étranger ?"

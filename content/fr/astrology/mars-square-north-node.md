@@ -56,6 +56,6 @@ Vus depuis ce carré, les quatre autres aspects de Mars avec le Nœud Nord :
 
 ## En transit {#en-transit}
 
-[Nœud Nord en transit carré Mars du thème natal](/astrology/transiting-north-node-square-natal-mars/) revient environ tous les neuf ans, car le nœud, qui recule, forme un carré avec n’importe quel point des deux côtés de son cycle. Si ce carré est dans votre thème, le calendrier dépend de vos propres nœuds : les deux points que le nœud doit atteindre pour former un carré avec votre Mars sont exactement ceux qu’occupent vos nœuds de naissance. Chaque [retour nodal](/astrology/nodal-return/) et chaque [inversion nodale](/astrology/nodal-reversal/) forme donc aussi un carré avec votre Mars, pendant quelques semaines à chaque fois.
+[Nœud Nord en transit carré Mars du thème natal](/astrology/transiting-north-node-square-natal-mars/) revient environ tous les neuf ans, car le nœud, qui recule, forme un carré avec n’importe quel point des deux côtés de son cycle. Quand ce carré figure dans votre thème, le calendrier dépend de vos propres nœuds : les deux points que le nœud doit atteindre pour former un carré avec votre Mars sont exactement ceux qu’occupent vos nœuds de naissance. Chaque [retour nodal](/astrology/nodal-return/) et chaque [inversion nodale](/astrology/nodal-reversal/) forme donc aussi un carré avec votre Mars, pendant quelques semaines à chaque fois.
 
 Une météo, pas une prédiction : pendant quelques semaines, choisir entre le terrain connu et le nouveau demande simplement plus d’attention que d’habitude.

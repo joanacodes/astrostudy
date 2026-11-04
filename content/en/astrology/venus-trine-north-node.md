@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/north-node", "/astrology/trine", "/astrology/venus-conjunct-north-node", "/astrology/venus-trine-north-node-synastry"]
 faq:
   - q: "What does Venus trine North Node mean in a birth chart?"
-    a: "Venus about 120° from the North Node, and so about 60° from the South Node. What you value moves in step with the way you’re growing: the people and pleasures you choose tend to support your development. I read it as an easy alignment that still needs practice, never as a promise."
+    a: "Venus stands about 120° from the North Node; since the South Node is directly opposite, that leaves Venus sextile to it. What you value moves in step with the way you’re growing: the people and pleasures you choose support your development. I read it as an easy alignment that still needs practice, never as a promise."
   - q: "Is Venus trine North Node a sign of meeting the right person?"
     a: "No chart promises a person. This trine describes how your own values and your growth fit together, which can make relationships feel supportive of who you’re becoming. Whom you meet, and what you build together, is for the two of you to find out."
   - q: "How is Venus trine North Node different from Venus conjunct North Node?"
@@ -32,7 +32,7 @@ Venus trine North Node puts what you value in easy step with the way you're grow
 
 ## What it means {#what-it-means}
 
-[Venus](/astrology/venus/) is the part of a chart that values and relates: what you're drawn to, what you choose, how you give and receive. The [North Node](/astrology/north-node/) shows a complementary capacity you build through practice and feedback; the [South Node](/astrology/south-node/), opposite, the established strengths you began with. A [trine](/astrology/trine/) relates Venus to the growing end through flow, while the same Venus sits a sextile from the familiar end.
+[Venus](/astrology/venus/) is the part of a chart that values and relates: what you're drawn to, what you choose, how you give and receive. The [North Node](/astrology/north-node/) is the growing end of an axis, a less practised capacity that strengthens with repetition; the [South Node](/astrology/south-node/), opposite, is where your skills are already settled. A [trine](/astrology/trine/) relates Venus to the growing end through flow, while the same Venus sits a sextile from the familiar end.
 
 In plain words, the people and pleasures you're drawn to tend to help you grow, and growing rarely costs you what you love. Developing the new capacity can feel like an extension of your taste rather than a correction of it. Ease isn't inevitability, though: development still needs repetition and feedback, and an easy path makes it tempting to stay where things are comfortable. The trine does most when you choose, on purpose, relationships and pursuits that stretch you a little.
 
@@ -40,12 +40,12 @@ In plain words, the people and pleasures you're drawn to tend to help you grow, 
 
 With the North Node in Sagittarius and Venus in Aries or Leo, the trine runs through fire, and the sextile back to the South Node in Gemini keeps curiosity and conversation on your side: warmth and enthusiasm help you grow towards breadth and meaning. With the North Node in Pisces and Venus in Cancer or Scorpio, the trine is in water and the sextile reaches the South Node in Virgo: tender, loyal affection helps you grow towards trust and imagination. Venus can sit on either side of the North Node, ahead of it in the zodiac or behind; either way, a trine to one node is a sextile to the other, because the two nodes are always exactly opposite. The houses, which need a birth time, show which fields of life support each other.
 
-About 1 person in 15 is born with Venus within 6° of a trine to the North Node, by the true node. Mean and true agree within a degree or two, and near the edge of the orb I check both.
+About 1 person in 15 is born with Venus within 6° of a trine to the North Node, by the true node. Because the mean node can sit a degree or two from the true one, a trine near 6° may exist in one and not the other, so I look at both.
 
 The pair's other angles:
 
 - **[Venus conjunct North Node](/astrology/venus-conjunct-north-node/):** Venus on the North Node itself; relating is the capacity you're building.
-- **[Venus sextile North Node](/astrology/venus-sextile-north-node/):** the same help, as an opening you choose to use.
+- **[Venus sextile North Node](/astrology/venus-sextile-north-node/):** help of the same kind, though you have to reach for it.
 - **[Venus square North Node](/astrology/venus-square-north-node/):** Venus across the axis, so growth and what you value keep bargaining.
 - **[Venus opposite North Node](/astrology/venus-opposite-north-node/):** Venus at the familiar end, a strength to bring along rather than leave behind.
 

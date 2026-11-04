@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 242
 glyph: "♃□♄"
-definition: "Jupiter carré Saturne, c’est un angle de 90° entre les deux planètes, commun à toutes les naissances d’une même période de quelques mois. Dans un thème, ce carré met l’envie d’élargir en friction avec l’envie de consolider : la croissance doit sans cesse mériter sa structure. J’y lis une friction qui donne des projets audacieux et solides, jamais un échec."
+definition: "Jupiter carré Saturne, c’est un angle de 90° entre les deux planètes, que partagent les personnes nées dans une même période de quelques mois. Dans un thème, ce carré met l’envie d’élargir en friction avec l’envie de consolider : la croissance doit sans cesse mériter sa structure. J’y lis une friction qui donne des projets audacieux et solides, jamais un échec."
 facts:
   - { k: "Corps", v: "Jupiter ♃ et Saturne ♄" }
   - { k: "Aspect", v: "Carré □, 90°" }

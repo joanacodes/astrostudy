@@ -39,7 +39,7 @@ La mort et l’héritage revenaient à la maison 8 dans la tradition ; je ne l
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-L’intimité est au cœur de tout. Vous désirez peut-être une proximité profonde tout en gardant une porte fermée, ou vous attendez de voir ce que l’autre fait de votre confiance avant d’en donner beaucoup. L’argent commun et les liens pratiques peuvent remuer les mêmes sentiments : qui contrôle quoi, qui doit quoi à qui. Quelqu’un de patient avec votre rythme, et d’honnête sur ses propres besoins, aide ce Chiron à baisser la garde. La proximité physique peut porter de vieux sentiments pour ce placement ; aller à votre rythme n’est pas un manque de passion. Quand la confiance vient, elle est en général profonde, et c’est souvent vers vous que l’autre se tourne pendant la pire semaine de son année.
+L’intimité est au cœur de tout. Vous désirez peut-être une proximité profonde tout en gardant une porte fermée, ou vous attendez de voir ce que l’autre fait de votre confiance avant d’en donner beaucoup. L’argent commun et les liens pratiques peuvent remuer les mêmes sentiments : qui contrôle quoi, qui doit quoi à qui. Quelqu’un de patient avec votre rythme, et d’honnête sur ses propres besoins, aide ce Chiron à baisser la garde. La proximité physique peut porter de vieux sentiments pour ce placement ; aller lentement n’est pas un manque de passion. Quand la confiance vient, elle est en général profonde, et c’est souvent vers vous que l’autre se tourne pendant la pire semaine de son année.
 
 ## Au travail {#au-travail}
 

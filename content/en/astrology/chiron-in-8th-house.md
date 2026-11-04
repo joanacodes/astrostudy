@@ -38,7 +38,7 @@ Death and inheritance were the 8th's in the tradition; I read neither as a forec
 
 ## In close relationships {#in-close-relationships}
 
-Intimacy is the heart of it. You may long for deep closeness and still keep a door shut, or wait to see how a partner handles your trust before you give much of it. Shared money and practical entanglements can stir the same feelings: who controls what, who owes whom. A partner who is patient with your pace and honest about their own needs helps this Chiron lower its guard. Physical closeness can carry old feelings for this placement; going at your own pace isn't a lack of passion. When trust comes, it's usually profound, and it is often you a partner turns to in the worst week of their year.
+Intimacy is the heart of it. You may long for deep closeness and still keep a door shut, or wait to see how a partner handles your trust before you give much of it. Shared money and practical entanglements can stir the same feelings: who controls what, who owes whom. A partner who is patient with your pace and honest about their own needs helps this Chiron lower its guard. Physical closeness can carry old feelings for this placement; going slowly isn't a lack of passion. When trust comes, it's usually profound, and it is often you a partner turns to in the worst week of their year.
 
 ## At work {#at-work}
 

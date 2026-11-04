@@ -31,7 +31,7 @@ Mars sextile Jupiter keeps purpose within reach of your energy. When you act on 
 
 ## What it means {#what-it-means}
 
-[Mars](/astrology/mars/) is the part of a chart that acts: initiative, assertion, effort, the will to get something done. [Jupiter](/astrology/jupiter/) is the part that expands understanding: it finds meaning, forms principles and supports growth. A [sextile](/astrology/sextile/) relates them through opportunity and cooperative activation, which means they help each other as soon as you engage them.
+[Mars](/astrology/mars/) is the part of a chart that acts: initiative, assertion, effort, the will to get something done. [Jupiter](/astrology/jupiter/) is the part that makes sense of things: it gathers experience into meaning and keeps you learning. A [sextile](/astrology/sextile/) relates them through opportunity and cooperative activation, which means they help each other as soon as you engage them.
 
 In plain words, you can usually find a reason to make the effort, and a way to put a belief into practice. A course you sign up for turns into something you teach; a cause you join gets your weekends; a hard task seems worth it because it's teaching you something. Opportunity requires engagement, though, and potential isn't the same as realisation: the sextile describes a door that opens readily, not a corridor you're carried down. People with it often do best with plans that have both a purpose and a clear next step.
 
@@ -41,13 +41,13 @@ What cooperates here isn't luck or optimism, which Jupiter doesn't supply, and i
 
 A sextile usually joins complementary elements, two signs apart. With Mars in Aries, its own sign, and Jupiter in Gemini or Aquarius, effort is quick and the meaning comes through ideas and people. With Mars in Capricorn, its exaltation, and Jupiter in Pisces, its traditional sign, or in Scorpio, disciplined effort serves a faith or a depth that's felt rather than argued. The houses show two fields that help each other: Mars in the 3rd sextile Jupiter in the 5th, say, might turn everyday errands and conversations into creative projects.
 
-About 1 person in 12 is born with Mars and Jupiter within 6° of a sextile, the most frequent of the pair's aspects in the count, against about 1 in 26 for the conjunction. Jupiter is retrograde about four months of every year, so many people have this sextile with Jupiter retrograde, which I read as meaning worked out privately before it's acted on ([natal retrograde planets](/blog/retrograde-planets/)). Mars does the moving, so a sextile still closing at your birth is the one many astrologers count as the more active ([applying and separating aspects](/astrology/applying-and-separating-aspects/)).
+About 1 person in 12 is born with Mars and Jupiter within 6° of a sextile, the most frequent of the pair's aspects in the count, against about 1 in 26 for the conjunction. Plenty of people with this sextile were born in one of Jupiter's yearly retrograde spells, about four months long; then the reasons tend to be worked out privately, and the action follows once they're clear ([natal retrograde planets](/blog/retrograde-planets/)). Mars does the moving, so a sextile still closing at your birth is the one many astrologers count as the more active ([applying and separating aspects](/astrology/applying-and-separating-aspects/)).
 
 The pair's other angles:
 
 - **[Mars conjunct Jupiter](/astrology/mars-conjunct-jupiter/):** the two in one place, with no gap at all between believing and doing.
 - **[Mars square Jupiter](/astrology/mars-square-jupiter/):** the same two under tension, belief and effort learning each other's size.
-- **[Mars trine Jupiter](/astrology/mars-trine-jupiter/):** a smoother current in one element, with less need to reach for it.
+- **[Mars trine Jupiter](/astrology/mars-trine-jupiter/):** the same cooperation as a temperament, in one element, working before you ask.
 - **[Mars opposite Jupiter](/astrology/mars-opposite-jupiter/):** purpose and effort on opposite sides, balanced through other people.
 
 Between two charts, [Mars sextile Jupiter in synastry](/astrology/mars-sextile-jupiter-synastry/) is a good working contact: one person's push and the other's perspective help each other, especially on shared projects.

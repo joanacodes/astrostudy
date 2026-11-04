@@ -32,7 +32,7 @@ Across from the Ascendant sits the 7th house, the chart's place for the person f
 
 ## In a birth chart {#in-a-birth-chart}
 
-Partners of every kind belong to [the 7th house](/astrology/7th-house/) — love, marriage, business, the open rival across the table — an angular house whose natural sign is Libra. With [Chiron](/astrology/chiron/) here, the adapting happens inside relationship itself. The sensitivity often concerns being met as an equal, choosing people who echo an old hurt, or meeting in someone else a part of yourself you'd rather not see. The adapting happens with another person: learning how much to give, how to ask, how to stay yourself in company — and it often turns into an unusual talent for one-to-one work.
+Partners of every kind belong to [the 7th house](/astrology/7th-house/) — love, marriage, business, the open rival across the table — an angular house whose natural sign is Libra. With [Chiron](/astrology/chiron/) here, the adapting happens inside relationship itself. The sensitivity often concerns being met as an equal, choosing people who echo an old hurt, or meeting in someone else a part of yourself you'd rather not see. It is done with another person: learning how much to give, how to ask, how to stay yourself in company — and it often turns into an unusual talent for one-to-one work.
 
 The [Descendant](/astrology/descendant/), the degree that was setting in the west as you were born, is the cusp of the 7th house in [Placidus](/astrology/placidus/), the house system I use, so a Chiron right beside it is angular and loud. Without your birth time there is no Descendant to read ([what changes without a birth time](/blog/unknown-birth-time/)). It follows [Chiron in the 6th house](/astrology/chiron-in-6th-house/), where the adapting is about the working day, and comes before [Chiron in the 8th house](/astrology/chiron-in-8th-house/), where closeness goes deeper still.
 
@@ -46,7 +46,7 @@ One-to-one work is the natural ground: counselling, coaching, mediation, consult
 
 ## The hard part {#the-hard-part}
 
-The risk is losing yourself in the other person, or keeping everyone at arm's length to avoid it. On a hard day this Chiron may rescue a partner so as not to need rescuing, accept less than it deserves, or leave at the first sign of an old hurt. Rivals and critics can loom larger than they are. Endings can feel bigger than they are too, as if one goodbye proved an old fear right. And because the 7th mirrors the 1st, what you can't yet see in yourself often turns up first in someone else.
+The risk is losing yourself in the other person, or keeping everyone at arm's length to avoid it. On a hard day this Chiron may rescue a partner so as not to need rescuing, accept less than it deserves, or leave at the first sign of an old hurt. Rivals and critics can loom larger than they are. Endings can weigh more than they should, too, as if one goodbye proved an old fear right. And because the 7th mirrors the 1st, what you can't yet see in yourself often turns up first in someone else.
 
 ## What helps {#what-helps}
 

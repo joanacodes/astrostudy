@@ -21,7 +21,7 @@ faq:
   - q: "Que veut dire Chiron en Capricorne ?"
     a: "Des responsabilités rencontrées tôt et devenues un savoir-faire. Chiron était en Capricorne à votre arrivée : l’autorité et le fait qu’on vous prenne au sérieux deviennent le sujet sensible, et l’adaptation est structurelle — des plans, des systèmes, un long effort, une échelle que vous construisez quand celle d’usage manque."
   - q: "Comment lire Saturne et Chiron ensemble en Capricorne ?"
-    a: "Saturne gouverne le Capricorne et bâtit la structure : les règles, les limites, les échéances. Chiron s’adapte quand une structure ne va pas à la personne qui s’y trouve. Avec Chiron dans le signe de Saturne, je lis la place de Saturne dans votre thème à côté de lui, car elle montre le cadre dans lequel ce Chiron apprend à travailler."
+    a: "Saturne gouverne le Capricorne et bâtit la structure : les règles, les limites, les échéances. Chiron s’adapte quand une structure ne va pas à qui s’y trouve. Avec Chiron dans le signe de Saturne, je lis la place de Saturne dans votre thème à côté de celle de Chiron, car elle montre le cadre où ce Chiron apprend à travailler."
   - q: "En quelles années trouve-t-on Chiron en Capricorne ?"
     a: "De février 1951 à janvier 1955, et de décembre 2001 à décembre 2005. En 1951, il a fait des allers-retours avec le Sagittaire de février à novembre, et en 2005 avec le Verseau de février à décembre : pour un anniversaire dans ces périodes, c’est le thème qui a le dernier mot."
   - q: "Quand a lieu le retour de Chiron pour Chiron en Capricorne ?"
@@ -49,7 +49,7 @@ La carrière est le terrain naturel de ce Chiron, et aussi l’endroit où il pe
 
 ## Le plus difficile {#le-plus-difficile}
 
-Le surmenage est l’armure habituelle. Les mauvaises semaines, ce Chiron peut prendre encore plus de responsabilités, refuser l’aide, et voir la fatigue comme un échec personnel. Une autonomie rigide peut ressembler à de la force vue de dehors, et à de l’isolement vue de dedans. La croyance dessous : la valeur se mérite, et se mérite encore chaque jour, et c’est pourquoi toute pause, des vacances ou une saison calme, peut sembler étrangement menaçante.
+Le surmenage est l’armure habituelle. Les mauvaises semaines, ce Chiron peut prendre encore plus de responsabilités, refuser l’aide, et voir la fatigue comme un échec personnel. Une autonomie rigide peut ressembler à de la force vue de dehors, et à de l’isolement vue de dedans. La croyance dessous : la valeur se mérite, et se mérite encore chaque jour ; d’où ce sentiment étrange que toute pause, des vacances ou une saison calme, devient une menace.
 
 ## Ce qui aide {#ce-qui-aide}
 

@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 243
 glyph: "♃△♄"
-definition: "Jupiter trigone Saturne, c’est un angle de 120° entre les deux planètes, en général dans des signes du même élément, porté par quelques mois de naissances à la fois. Croissance et structure avancent au même pas : ce que vous espérez et ce que vous pouvez tenir s’accordent. J’y lis un jugement pratique et régulier, qu’il faut encore exercer."
+definition: "Jupiter trigone Saturne, c’est un angle de 120° entre les deux planètes, d’ordinaire dans des signes de même élément, porté par quelques mois de naissances à la fois. Croissance et structure avancent au même pas : ce que vous espérez et ce que vous pouvez tenir s’accordent. J’y lis un jugement pratique et régulier, qu’il faut encore exercer."
 facts:
   - { k: "Corps", v: "Jupiter ♃ et Saturne ♄" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -19,17 +19,17 @@ facts:
 related: ["/astrology/jupiter", "/astrology/saturn", "/astrology/trine", "/astrology/jupiter-trine-saturn-synastry", "/astrology/jupiter-saturn-great-conjunctions"]
 faq:
   - q: "Que veut dire Jupiter trigone Saturne dans un thème natal ?"
-    a: "Jupiter et Saturne sont à environ 120° dans votre thème, en général dans des signes du même élément. Votre sens de ce qui pourrait grandir et celui de ce qui tiendra s’accordent : vos projets sont souvent ambitieux et réalistes à la fois. L’aspect marque toute une période de naissances : c’est sa maison qui dit où il travaille pour vous."
+    a: "Jupiter et Saturne sont à environ 120° dans votre thème, le plus souvent dans deux signes d’un même élément. Votre sens de ce qui pourrait grandir et celui de ce qui tiendra s’accordent : vos projets sont souvent ambitieux et réalistes à la fois. L’aspect marque toute une période de naissances : c’est sa maison qui dit où il travaille pour vous."
   - q: "Quelles naissances portent Jupiter trigone Saturne ?"
-    a: "À 6° près, les personnes nées pendant certaines périodes de 1933–35, 1947–49, 1953–55, 1966–67, 1974–75, 1987–88, 1992–94 et 2007–08. Ces périodes tombent six ou sept ans avant ou après une grande conjonction : le ciel ramène donc le trigone deux fois tous les vingt ans."
+    a: "À 6° près, les personnes nées à certains moments de 1933–35, 1947–49, 1953–55, 1966–67, 1974–75, 1987–88, 1992–94 et 2007–08. Ces périodes tombent six ou sept ans avant ou après une grande conjonction : le ciel ramène donc le trigone deux fois tous les vingt ans."
   - q: "Est-ce que Jupiter trigone Saturne garantit la réussite ?"
-    a: "Aucun aspect ne la garantit. Un trigone est une facilité, pas une fatalité, et Jupiter décrit la croissance et le sens plutôt qu’une récompense. Ce trigone offre le goût de bâtir régulièrement, la capacité de faire grandir quelque chose sans en faire trop. Il se voit quand vous avez quelque chose à bâtir et que vous vous y mettez."
+    a: "Aucun aspect ne la garantit. Un trigone est une facilité, pas une fatalité, et Jupiter parle d’élargissement et de sens, non de récompense. Ce trigone offre le goût de bâtir régulièrement, la capacité de faire grandir quelque chose sans en faire trop. Il se voit quand vous avez quelque chose à bâtir et que vous vous y mettez."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes le portent, et les mois où il était dans l’orbe" }
   - { title: "NASA — Saturn facts", url: "https://science.nasa.gov/saturn/facts/", note: "l’orbite de Saturne, environ 29 ans et demi" }
 ---
-Jupiter trigone Saturne fait marcher au même pas la part de vous qui veut grandir et celle qui veut bâtir correctement. Cet aspect appartient à quelques mois de naissances à la fois : c’est le tempérament d’une période avant d’être un trait personnel, et vos maisons montrent où il travaille pour vous.
+Jupiter trigone Saturne fait marcher au même pas votre désir d’élargir votre vie et votre souci de bien bâtir. Cet aspect appartient à quelques mois de naissances à la fois : c’est le tempérament d’une période avant d’être un trait personnel, et vos maisons montrent où il travaille pour vous.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
@@ -41,9 +41,9 @@ Un courant régulier demande tout de même quelqu’un à la barre. Un tel trigo
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-À 6° près, il concerne environ 1 personne sur 16 née de 1930 à 2009, en huit groupes de naissances : de septembre 1933 à avril 1934, d’août à octobre 1934 et de mai à août 1935 ; de février à avril 1947, puis de janvier 1948 à janvier 1949 en trois périodes ; de juillet à novembre 1953, de mai à juillet 1954 et de janvier à mai 1955 ; trois périodes en 1966 et 1967 ; trois en 1974 et au début de 1975 ; mai et juin 1987, puis d’octobre 1987 à avril 1988 ; trois périodes de novembre 1992 à septembre 1994 ; et trois de février 2007 à décembre 2008.
+Sur les naissances de 1930 à 2009, environ 1 sur 16 porte ce trigone à 6° près, en huit groupes : de septembre 1933 à avril 1934, d’août à octobre 1934 et de mai à août 1935 ; de février à avril 1947, puis de janvier 1948 à janvier 1949 en trois périodes ; de juillet à novembre 1953, de mai à juillet 1954 et de janvier à mai 1955 ; trois périodes en 1966 et 1967 ; trois en 1974 et au début de 1975 ; mai et juin 1987, puis d’octobre 1987 à avril 1988 ; trois périodes de novembre 1992 à septembre 1994 ; et trois de février 2007 à décembre 2008.
 
-Partagé par toutes ces naissances, ce trigone dit davantage le moment de votre naissance que qui vous êtes ; sa maison et ses contacts avec vos planètes personnelles le rendent vôtre ([planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)). Les deux planètes partagent en général un élément : en signes de terre, la constance est pratique et matérielle ; en air, elle passe par les idées et les accords ; en feu, par l’esprit d’entreprise ; en eau, par un soin qui dure. Jupiter en maison 1 et Saturne en maison 9, par exemple, pourraient se voir dans une présence façonnée par des convictions mises à l’épreuve. Les maisons demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Partagé par toutes ces naissances, ce trigone dit davantage le moment de votre naissance que qui vous êtes ; sa maison et ses contacts avec vos planètes personnelles le rendent vôtre ([planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)). Les deux planètes partagent en général un élément : en signes de terre, la constance est pratique et matérielle ; en air, elle passe par les idées et les accords ; en feu, par l’esprit d’entreprise ; en eau, par un soin qui dure. Jupiter en maison 1 et Saturne en maison 9, par exemple, donneraient peut-être une présence façonnée par des convictions mises à l’épreuve. Les maisons demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Face au trigone :
 

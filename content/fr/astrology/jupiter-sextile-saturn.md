@@ -45,7 +45,7 @@ Parmi les personnes nées entre 1930 et 2009, environ 1 sur 15 le porte à 6° p
 
 Toutes les personnes nées pendant l’une de ces périodes partagent le sextile : il décrit les mois de votre arrivée autant que vous. Ce sont sa maison et ses liens avec vos planètes personnelles qui le rendent personnel ([planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)). Avec Jupiter en maison 6 et Saturne en maison 4, cet aspect pourrait se voir dans un travail quotidien qui grandit régulièrement parce que la vie de famille est bien réglée ; en maison 11, dans des groupes où vos idées trouvent une structure. Les maisons demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Parmi les autres aspects de la paire :
+Les autres aspects de Jupiter avec Saturne :
 
 - **[Jupiter conjonction Saturne](/astrology/jupiter-conjunct-saturn/) :** les naissances autour d’une grande conjonction, en 1940–41, 1960–61, 1980–81 ou 2000 ; croissance et structure fondues ensemble.
 - **[Jupiter carré Saturne](/astrology/jupiter-square-saturn/) :** les naissances de 1955–56, 1975–77 et 1994–96, entre autres ; l’expansion et la prudence se heurtent.

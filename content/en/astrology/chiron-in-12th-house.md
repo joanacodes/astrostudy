@@ -21,7 +21,7 @@ faq:
   - q: "Is Chiron in the 12th house bad?"
     a: "No. Tradition was hard on the 12th house, and its old name, the Bad Spirit, doesn’t help. To me it's simply where the unseen parts of life are kept. Chiron here describes adapting in private, which often makes people unusually perceptive and kind rather than unlucky."
   - q: "Does Chiron in the 12th house predict confinement or illness?"
-    a: "No. Hospitals, prisons and hidden enemies all belonged to the 12th in the old books, yet none of them can be predicted from a chart, and I don’t read it that way. When something heavy keeps coming back, the right help is a person trained to give it. The chart describes your inner life, not your future."
+    a: "No. Confinement, hospitals and hidden enemies all belonged to the 12th in the old books, yet none of them can be predicted from a chart, and I don’t read it that way. When something heavy keeps coming back, the right help is a person trained to give it. The chart describes your inner life, not your future."
   - q: "Why does Chiron in the 12th house feel so private?"
     a: "Because the 12th covers what happens alone and out of view. With Chiron here, much of the adapting is done before anyone notices, which can make your strengths easy for others to miss, and for you to forget. Naming them, even only to yourself, is part of the work."
 sources:

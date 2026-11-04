@@ -38,7 +38,7 @@ Aquarius is the sign that does things differently, and Chiron in Aquarius often 
 
 Until Uranus was discovered in 1781, Aquarius belonged to [Saturn](/astrology/saturn/); modern tropical astrology gave it to [Uranus](/astrology/uranus/), and I read both. Uranus, by sign and house, shows where you would tear up the rulebook; Saturn, the rules you actually have to work with. Chiron sits between them: it doesn't wait for the system to change before finding a way to live inside it.
 
-Chiron was in Aquarius from January 1955 to January 1961 and from February 2005 to February 2011, long enough to reach about 1 person in 8 born between 1930 and 2009, as common, at that rounding, as Taurus. The edges are untidy. From February to December 2005 Chiron moved back and forth between Capricorn and Aquarius (see [Chiron in Capricorn](/astrology/chiron-in-capricorn/)), and at the end of both stays it overlapped with [Chiron in Pisces](/astrology/chiron-in-pisces/), from March 1960 and from April 2010, so a birth then could fall either side.
+Chiron was in Aquarius from January 1955 to January 1961 and from February 2005 to February 2011, long enough to reach about 1 person in 8 born between 1930 and 2009, as common, at that rounding, as Taurus. The edges are untidy. From February to December 2005 Chiron moved back and forth between Capricorn and Aquarius (see [Chiron in Capricorn](/astrology/chiron-in-capricorn/)), and at the end of both stays it overlapped with [Chiron in Pisces](/astrology/chiron-in-pisces/), from March 1960 and from April 2010, so a birth in those months belongs to one sign or the other depending on the day.
 
 ## In close relationships {#in-close-relationships}
 

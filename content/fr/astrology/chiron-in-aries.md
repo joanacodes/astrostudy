@@ -49,7 +49,7 @@ L’adaptation se voit, dans le travail, à des débuts faits malgré le trac :
 
 ## Le plus difficile {#le-plus-difficile}
 
-La bravade est la couverture habituelle. Quand on touche au doute, ce Chiron prend parfois le plus gros défi de la pièce pour que personne ne devine le doute, ou vit chaque besoin d’aide comme une défaite secrète. Il peut aussi chercher des combats inutiles, ou lâcher un projet dès qu’il semble mal tourner. Tout cela, c’est de l’énergie passée à garder le point sensible au lieu de vous servir de ce que vous avez appris autour.
+La bravade est la couverture la plus courante. Quand on touche au doute, ce Chiron prend parfois le plus gros défi de la pièce pour que personne ne devine le doute, ou vit chaque besoin d’aide comme une défaite secrète. Il peut aussi chercher des combats inutiles, ou lâcher un projet dès qu’il semble mal tourner. Tout cela, c’est de l’énergie passée à garder le point sensible au lieu de vous servir de ce que vous avez appris autour.
 
 ## Ce qui aide {#ce-qui-aide}
 

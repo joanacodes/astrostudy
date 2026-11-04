@@ -57,4 +57,4 @@ The pair's other aspects, around the same cycle:
 
 With the opposition at birth, its transits keep to a schedule. Each [Jupiter return](/astrology/jupiter-return/), about every 12 years, brings Jupiter back to its birth place and so opposite your Saturn again: that is [transiting Jupiter opposite natal Saturn](/astrology/transiting-jupiter-opposite-natal-saturn/), a matter of days or weeks. Saturn's version, [transiting Saturn opposite natal Jupiter](/astrology/transiting-saturn-opposite-natal-jupiter/), comes with the Saturn return at about 29½; and around 14 or 15, when Saturn opposes its own birth place, it crosses your Jupiter instead ([Saturn squares and opposition](/astrology/saturn-squares-and-opposition/)).
 
-Weather, not a forecast: seasons in which the balance between growing and holding is asked for again, with no outcome written in.
+Weather, not a forecast: the balance between growing and holding is simply asked for again, with no outcome written in.

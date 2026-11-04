@@ -48,10 +48,10 @@ The work that suits this Chiron goes where others would rather not look: researc
 
 ## The hard part {#the-hard-part}
 
-Control is the usual defence. When trust feels unsafe, this Chiron may conceal every need, keep score, or end things before they can be ended for you. Secrecy can harden into a fortress where nothing gets in, not even help. What drives it is a conviction that being seen in need hands someone else the power.
+Control does the defending. When trust feels unsafe, this Chiron may conceal every need, keep score, or end things before they can be ended for you. Secrecy can harden into a fortress where nothing gets in, not even help. What drives it is a conviction that being seen in need hands someone else the power.
 
 ## What helps {#what-helps}
 
 Choose one person and let them see one need, then watch what they do with it. Trust built in increments is still trust. Writing down what you would never say aloud, and choosing later what to share, keeps the privacy without building the fortress. Physical intensity can help the Mars side — swimming, strength training — and so can work that lets you go deep on a subject without having to guard it. The 1946–1948 group met their [Chiron return](/astrology/chiron-return/) while Chiron crossed Scorpio again, between December 1996 and September 1999; the 1996–1999 group's lies further ahead.
 
-Chiron is one of only three placements that kept earning a tick in my tests — 75 to 90% of the time, when the rest managed about a third ([how I tested](/blog/i-tested-my-birth-chart/)). With a Scorpio Chiron, I never ask for more in a reading than you choose to show me.
+Chiron is one of only three placements that earned a tick that often in my tests — 75 to 90% of the time, when the rest managed about a third ([how I tested](/blog/i-tested-my-birth-chart/)). With a Scorpio Chiron, I never ask for more in a reading than you choose to show me.

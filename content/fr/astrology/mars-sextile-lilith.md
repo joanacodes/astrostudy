@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/mars", "/astrology/black-moon-lilith", "/astrology/sextile", "/astrology/mars-sextile-lilith-synastry", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "Que veut dire Mars sextile Lilith dans un thème natal ?"
-    a: "Avec Mars à quelque 60° de la Lune noire Lilith, votre élan peut faire appel à votre part indomptée quand vous le choisissez, sans être mené par elle. Concrètement, cela se voit souvent dans de petits refus bien placés : faire les choses à votre façon quand la façon habituelle ne convient pas."
+    a: "Mars se trouve à quelque 60° de la Lune noire Lilith : l’élan peut faire appel à votre part indomptée quand vous le choisissez, sans être mené par elle. Concrètement, cela se voit souvent dans de petits refus bien placés : faire les choses à votre façon quand la façon habituelle ne convient pas."
   - q: "Mars sextile Lilith, est-ce un aspect faible ?"
     a: "Pas faible, mais discret. Un sextile est une occasion plutôt qu’une poussée : rien ne vous oblige à vous en servir, et il peut rester inutilisé pendant des années. Une fois remarqué, il devient souvent une ressource fiable : la liberté d’agir autrement quand cela compte, et le jugement pour savoir quand c’est le cas."
   - q: "Quelle Lilith cette page utilise-t-elle ?"
