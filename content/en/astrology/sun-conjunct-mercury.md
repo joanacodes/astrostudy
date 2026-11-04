@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun", "/astrology/mercury", "/astrology/conjunction", "/astrology/mercury-retrograde", "/astrology/sun-conjunct-mercury-synastry"]
 faq:
   - q: "What does Sun conjunct Mercury mean in a birth chart?"
-    a: "Mercury stood beside the Sun when you were born, usually in the same sign. Your way of taking things in and putting them into words sits close to your sense of who you are. I read it as a mind that works from your centre: you often find out what you want by explaining it."
+    a: "Mercury and the Sun were together when you were born, most often in one sign. Your way of taking things in and putting them into words sits close to your sense of who you are. I read it as a mind that works from your centre: you often find out what you want by explaining it."
   - q: "Why is Sun conjunct Mercury so common?"
     a: "Because Mercury never gets far from the Sun, about 28° at most as seen from Earth. It passes the Sun twice in each of its cycles, several times a year, and is never far away in between. So about 1 person in 4 is born with the two within 8°: a common theme rather than a rare signature."
   - q: "Does Sun conjunct Mercury make you clever?"
@@ -48,7 +48,7 @@ Mercury meets the Sun twice in each of its cycles: once on the far side of the S
 
 Tradition has its own words for a planet this close to the Sun, [combustion](/astrology/combustion/) and [cazimi](/astrology/cazimi/), and each has its page. I don't read a combust Mercury as a weak mind: the closer the meeting, the more your thinking and your identity simply work as one.
 
-The two can make no other major aspect: a sextile needs 60°, more than twice as far as Mercury ever strays. Between two people's charts any angle is possible, and [Sun conjunct Mercury in synastry](/astrology/sun-conjunct-mercury-synastry/) is one person's sense of self meeting the other's way of thinking, often felt as an easy conversation, and read in both directions.
+The two can make no other major aspect: a sextile needs 60°, more than twice as far as Mercury ever strays. Between two people's charts any angle is possible, and [Sun conjunct Mercury in synastry](/astrology/sun-conjunct-mercury-synastry/) is one person's sense of self meeting the other's way of thinking: often an easy conversation, in which one of them seems to find words for who the other is.
 
 ## In transits {#in-transits}
 

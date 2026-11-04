@@ -44,7 +44,7 @@ In plain words, it can feel like a seesaw. For a while you lean into the goal, t
 
 The two lights fall in opposite signs, which share a modality and lean in complementary directions: a Sun in Scorpio with the Moon in Taurus, depth across from steadiness; a Sun in Aquarius with the Moon in Leo, the group across from the need to be seen. They often fall in opposite houses as well, and that axis is where the balancing happens: the 3rd and 9th, everyday learning against far horizons; the 6th and 12th, the working week against time alone; the 5th and 11th, what you create against the friends you share it with.
 
-Within 8°, the orb I count with, about 1 person in 24 has this opposition: one full moon a month makes it exactly as rare as the conjunction. The Moon is the one travelling, about 13° a day, and the birth time tells which side of the exact full moon your birth fell on: the Moon either still growing towards full, or already beginning to wane ([applying and separating aspects](/astrology/applying-and-separating-aspects/)). When a full moon falls near the Moon's nodes, it is a [lunar eclipse](/astrology/lunar-eclipses/), and some births fall on one.
+One full moon a month makes this opposition exactly as rare as the conjunction: about 1 person in 24 is born with it, within 8°. The Moon is the one travelling, about 13° a day, and the birth time tells which side of the exact full moon your birth fell on: the Moon either still growing towards full, or already beginning to wane ([applying and separating aspects](/astrology/applying-and-separating-aspects/)). When a full moon falls near the Moon's nodes, it is a [lunar eclipse](/astrology/lunar-eclipses/), and some births fall on one.
 
 Across the month, the pair makes its other aspects:
 
@@ -53,7 +53,7 @@ Across the month, the pair makes its other aspects:
 - **[Sun square Moon](/astrology/sun-square-moon/):** the half moon; the two cross paths at an angle, inside the same days, instead of facing each other across the chart.
 - **[Sun trine Moon](/astrology/sun-trine-moon/):** the gibbous moon, a few days before or after yours; nearly the same brightness, without the pull in two directions.
 
-Between two charts, [Sun opposite Moon in synastry](/astrology/sun-opposite-moon-synastry/) places one person's Sun across from the other's Moon: two people who each hold the end the other leans away from. I read it from each side, and only with both people's agreement ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Between two charts, [Sun opposite Moon in synastry](/astrology/sun-opposite-moon-synastry/) places one person's Sun across from the other's Moon: two people who each hold the end the other leans away from. That's a strong mirror, held up on both sides, and I read it only when both people want it read ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
 
 ## In transits {#in-transits}
 

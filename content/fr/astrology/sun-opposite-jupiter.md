@@ -21,7 +21,7 @@ faq:
   - q: "Que veut dire Soleil opposition Jupiter dans un thème natal ?"
     a: "Votre but et votre envie de grandir se tiennent de part et d’autre de votre thème, avec Jupiter rétrograde. La vision plus large vous vient souvent de l’extérieur, par des gens qui enseignent, guident ou voient plus grand, avant que vous la fassiez vôtre. J’y lis de grands espoirs qui apprennent les proportions, et une générosité qui apprend ses limites."
   - q: "Soleil opposition Jupiter se fait-il toujours avec Jupiter rétrograde ?"
-    a: "Oui, aux orbes habituels. Jupiter passe environ quatre mois par an en rétrogradation, et cette période est centrée sur son opposition au Soleil, quand la Terre passe entre les deux. Toutes les personnes qui portent cet aspect ont donc Jupiter rétrograde, que je lis comme un sens qui se travaille à l’intérieur avant d’être partagé."
+    a: "Oui, aux orbes habituels. Jupiter passe environ quatre mois par an en rétrogradation, et cette période est centrée sur son opposition au Soleil, quand la Terre passe entre les deux. Cet aspect va donc toujours avec Jupiter rétrograde, que je lis comme un sens qui se travaille à l’intérieur avant d’être partagé."
   - q: "Soleil opposition Jupiter, est-ce promettre trop ?"
     a: "Parfois, surtout au début : l’opposition peut vous tirer vers des projets et des convictions plus grands que ce que votre direction peut porter. Mais une polarité n’est pas un défaut. Avec le temps, elle vous apprend souvent à bien juger les promesses, les vôtres comprises, et à donner avec générosité en sachant où sont les limites."
 sources:
@@ -34,7 +34,7 @@ Soleil opposition Jupiter se produit une fois en un peu plus d’un an, quand le
 
 Le [Soleil](/astrology/sun/), c’est votre direction et le moi qu’elle façonne. [Jupiter](/astrology/jupiter/), en face ici, élargit : chercher du sens, apprendre, tenir à des principes, trouver de la place pour grandir. Une [opposition](/astrology/opposition/) relie les deux par la polarité : chaque bout devient plus net grâce à l’autre, et aucun n’annule l’autre.
 
-Dans les faits, la vision plus large se tient devant vous plutôt qu’en vous. Elle arrive souvent par des personnes : quelqu’un qui vous ouvre un domaine, une personne qui croit en vous plus que vous-même, un ou une partenaire aux projets plus vastes que les vôtres, ou quelqu’un dont les promesses dépassent les actes. Vous apprenez de toutes ce à quoi ressemble la croissance, et ce qu’elle coûte. Une polarité n’est pas une contradiction : c’est une conversation entre qui vous êtes et jusqu’où vous pourriez aller.
+Dans les faits, l’horizon plus large se tient devant vous plutôt qu’en vous. Elle arrive souvent par des personnes : quelqu’un qui vous ouvre un domaine, une personne qui croit en vous plus que vous-même, un ou une partenaire aux projets plus vastes que les vôtres, ou quelqu’un dont les promesses dépassent les actes. Vous apprenez de toutes ce à quoi ressemble la croissance, et ce qu’elle coûte. Une polarité n’est pas une contradiction : c’est une conversation entre qui vous êtes et jusqu’où vous pourriez aller.
 
 Le travail, dans ma lecture, c’est la proportion : laisser vos espoirs être grands sans les laisser vous tirer hors de votre propre axe. Avec le temps, les personnes qui portent cet aspect savent souvent jauger une promesse, la leur comprise.
 
@@ -44,7 +44,7 @@ Les deux occupent des signes opposés d’un même mode : un Soleil en Vierge a
 
 C’est le plus rare des aspects de la paire : environ 1 personne sur 28 le porte, à 8° près, ce qui reste bien moins rare que l’opposition Soleil–Mars. La marche arrière de Jupiter est lente, et le Soleil n’en est que peu accéléré. Ce que le moment garantit, en revanche, c’est la rétrogradation de Jupiter : ses quatre mois de rétrogradation par an sont centrés sur ce moment ([Jupiter rétrograde](/astrology/jupiter-retrograde/)). J’y lis un sens qui mûrit en privé avant d’être partagé ([planètes rétrogrades natales](/blog/retrograde-planets/)).
 
-Les autres aspects de la paire se trouvent ailleurs dans le même cycle :
+Le même cycle contient les autres aspects de la paire :
 
 - **[Soleil conjonction Jupiter](/astrology/sun-conjunct-jupiter/) :** à un demi-cycle, environ six mois, avec Jupiter derrière le Soleil, invisible ; là, la croissance fait partie de qui vous êtes.
 - **[Soleil sextile Jupiter](/astrology/sun-sextile-jupiter/) :** des ouvertures qui se tiennent à côté de votre but et vous attendent, l’aspect le plus courant de la paire.
@@ -55,6 +55,6 @@ Entre deux thèmes, [Soleil opposition Jupiter en synastrie](/astrology/sun-oppo
 
 ## En transit {#en-transit}
 
-Jupiter s’oppose à votre Soleil natal à mi-chemin de son tour de douze ans, environ six ans après chaque passage sur votre Soleil ([Jupiter en transit opposition Soleil du thème natal](/astrology/transiting-jupiter-opposite-natal-sun/)). L’opposition dure quelques semaines, en trois passages au plus quand Jupiter rétrograde à proximité ; l’opposition annuelle du Soleil à Jupiter dans votre thème passe en un jour ou deux. Vers 18, 30 et 42 ans, à mi-chemin entre deux [retours de Jupiter](/astrology/jupiter-return/), Jupiter passe sur votre Soleil lui-même, l’autre bout de votre axe de naissance.
+Jupiter s’oppose à votre Soleil natal à mi-chemin de son tour de douze ans, environ six ans après chaque passage sur votre Soleil ([Jupiter en transit opposition Soleil du thème natal](/astrology/transiting-jupiter-opposite-natal-sun/)). L’opposition dure quelques semaines, jusqu’à trois passages quand Jupiter rétrograde près de ce point. Vers 18, 30 et 42 ans, à mi-chemin entre deux [retours de Jupiter](/astrology/jupiter-return/), Jupiter passe sur votre Soleil lui-même, l’autre bout de votre axe de naissance.
 
 Une météo, pas une prédiction : une saison d’horizons plus larges, pas une promesse de ce qu’ils contiennent.

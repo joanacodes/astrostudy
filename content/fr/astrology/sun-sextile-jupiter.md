@@ -42,7 +42,7 @@ Ce que le sextile ne fait pas, c’est pousser. Une ouverture que vous ne prenez
 
 Feu et air, terre et eau : voilà l’association habituelle. Un Soleil en Balance avec Jupiter en Lion grandit par les gens et par la générosité ; un Soleil en Capricorne avec Jupiter en Poissons bâtit des structures qui laissent de la place à l’imagination et au sens. Les maisons montrent où sont les portes : chacune a son rôle, l’une pour devenir vous-même, l’autre pour grandir, et le sextile garde un couloir ouvert entre les deux.
 
-Environ 1 personne sur 10 a le Soleil et Jupiter à moins de 8° d’un sextile. Leur cycle dure un peu plus d’un an et compte deux sextiles ; Jupiter est en mouvement direct aux deux, et le Soleil met quelques semaines à traverser chacun. L’aspect revient donc aux personnes nées dans un même intervalle de quelques semaines, une année donnée, et c’est le Soleil qui le forme et le défait ([aspects appliquants et séparants](/astrology/applying-and-separating-aspects/)).
+Avec 8° d’orbe, environ 1 personne sur 10 naît sous ce sextile. Le cycle du Soleil et de Jupiter dure un peu plus d’un an et compte deux sextiles ; Jupiter est en mouvement direct aux deux, et le Soleil met quelques semaines à traverser chacun. L’aspect revient donc aux personnes nées dans un même intervalle de quelques semaines, une année donnée, et c’est le Soleil qui le forme et le défait ([aspects appliquants et séparants](/astrology/applying-and-separating-aspects/)).
 
 Vus depuis le sextile, les autres aspects de la paire se présentent ainsi :
 
@@ -51,10 +51,10 @@ Vus depuis le sextile, les autres aspects de la paire se présentent ainsi :
 - **[Soleil trigone Jupiter](/astrology/sun-trine-jupiter/) :** à quatre signes, dans un même élément ; les portes s’ouvrent souvent à votre approche.
 - **[Soleil opposition Jupiter](/astrology/sun-opposite-jupiter/) :** à six signes, avec Jupiter rétrograde ; les ouvertures viennent par les autres et demandent le sens des proportions.
 
-Entre deux personnes, [Soleil sextile Jupiter en synastrie](/astrology/sun-sextile-jupiter-synastry/), c’est le sens des possibles de l’une qui sert la direction de l’autre : la personne qui vous suggère la formation, celle qui cite votre nom. Je le lis des deux points de vue, car la personne qui offre ne le vit pas comme celle qui reçoit.
+Entre deux personnes, [Soleil sextile Jupiter en synastrie](/astrology/sun-sextile-jupiter-synastry/), c’est le sens des possibles de l’une qui sert la direction de l’autre : la personne qui vous suggère la formation, celle qui cite votre nom. Celle qui ouvre la porte et celle qui la franchit racontent rarement l’histoire de la même façon.
 
 ## En transit {#en-transit}
 
-Jupiter forme un sextile avec votre Soleil natal environ deux ans après chaque passage sur votre Soleil, et de nouveau environ deux ans avant le suivant : [Jupiter en transit sextile Soleil du thème natal](/astrology/transiting-jupiter-sextile-natal-sun/). Jupiter avance d’environ un signe par an : à chaque fois, le transit reste à un degré ou deux quelques semaines, et plus longtemps si Jupiter rétrograde à proximité. Les sextiles du Soleil à Jupiter dans votre thème, deux fois par an, durent un jour ou deux.
+Jupiter forme un sextile avec votre Soleil natal environ deux ans après chaque passage sur votre Soleil, et de nouveau environ deux ans avant le suivant : [Jupiter en transit sextile Soleil du thème natal](/astrology/transiting-jupiter-sextile-natal-sun/). Jupiter avance d’environ un signe par an : à chaque fois, le transit reste à un degré ou deux quelques semaines, et plus longtemps si Jupiter rétrograde à proximité.
 
 Je lis le sextile de Jupiter comme l’une des invitations les plus douces du ciel : une saison pour postuler, s’inscrire, demander ou proposer. Une météo, pas une prédiction : une porte peut s’ouvrir, et la franchir vous revient.

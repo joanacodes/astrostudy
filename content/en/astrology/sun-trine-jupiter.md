@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 16
 glyph: "☉△♃"
-definition: "Sun trine Jupiter sets Jupiter a third of the circle from your Sun, about 120°, usually in the same element. In a chart, purpose and growth keep step: what you're becoming tends to make sense to you. I read it as growth that comes naturally, and doors that open when you knock."
+definition: "Sun trine Jupiter sets Jupiter a third of the circle from your Sun, about 120°, most often in a sign of your Sun's element. In a chart, purpose and growth keep step: what you're becoming tends to make sense to you. I read it as growth that comes naturally, and doors that open when you knock."
 facts:
   - { k: "Bodies", v: "The Sun ☉ and Jupiter ♃" }
   - { k: "Aspect", v: "Trine △, 120°" }
@@ -27,15 +27,15 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, which he calls harmonious" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people are born with it, within 8°" }
 ---
-Some people grow in the direction they're already going, and Sun trine Jupiter describes that. The two sit a third of the circle apart, usually in one element, and the doors this trine opens are real, though it still expects you to knock.
+Some people grow in the direction they're already going, and Sun trine Jupiter describes that. Jupiter and your Sun stand 120° apart, in one element as a rule, and the doors this trine opens are real, though it still expects you to knock.
 
 ## What it means {#what-it-means}
 
-The [Sun](/astrology/sun/) is the self at the centre of a chart, with its vitality and its aims. [Jupiter](/astrology/jupiter/) is the part of you that makes sense of things and grows: it learns, connects, finds the principle and widens the frame. A [trine](/astrology/trine/) lets the two reinforce each other: purpose gives growth a direction, and growth gives purpose a reason.
+At the centre of the chart, the [Sun](/astrology/sun/) holds your vitality and your aims. [Jupiter](/astrology/jupiter/) is the part of you that makes sense of things and grows: it learns, connects, finds the principle and widens the frame. A [trine](/astrology/trine/) lets the two reinforce each other: purpose gives growth a direction, and growth gives purpose a reason.
 
 Day to day, what you're becoming tends to make sense to you. Learning feeds your direction, your direction gives you things worth learning, and what you believe and what you do rarely pull apart. People often meet this trine as generosity: you share what you know, and you tend to assume there's room for more than one person to do well.
 
-Wisdom is not certainty, as I read Jupiter, and that's where this trine can trip. A view of the world that sits so comfortably with who you are may never have had to be revised. I read the trine at its best in people who keep testing their own convictions, and who knock on doors rather than waiting for them to swing open.
+Wisdom is not certainty, as I read Jupiter, and that's where this trine can trip. A view of the world that sits so comfortably with who you are may never have had to be revised. This trine does best, in my reading, with people who keep testing their own convictions, and who knock on doors rather than waiting for them to swing open.
 
 ## In a birth chart {#in-a-birth-chart}
 
@@ -50,10 +50,10 @@ From the trine, the rest of the family looks like this:
 - **[Sun square Jupiter](/astrology/sun-square-jupiter/):** a sign closer and out of element; appetite and purpose compete for the same hours.
 - **[Sun opposite Jupiter](/astrology/sun-opposite-jupiter/):** across the chart, at Jupiter's brightest; the larger view stands in front of you instead of beside you.
 
-Between two people, [Sun trine Jupiter in synastry](/astrology/sun-trine-jupiter-synastry/) lets one person's generosity flow towards the other's aims. I read it from both sides, and, as with every synastry, only when both have agreed ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Between two people, [Sun trine Jupiter in synastry](/astrology/sun-trine-jupiter-synastry/) lets one person's generosity flow towards the other's aims. When giving comes this easily, it's worth asking which way it mostly flows, and I look at that with both people, if both are willing ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
 
 ## In transits {#in-transits}
 
-In the sky, the trine keeps a rhythm of its own: about four years after Jupiter crosses your Sun, and again about four years before its next crossing ([transiting Jupiter trine natal Sun](/astrology/transiting-jupiter-trine-natal-sun/)). Each visit lasts a few weeks, or several months in a year when Jupiter turns retrograde close to the trine. The Sun's trines to your natal Jupiter are brief, twice a year.
+In the sky, the trine keeps a rhythm of its own: about four years after Jupiter crosses your Sun, and again about four years before its next crossing ([transiting Jupiter trine natal Sun](/astrology/transiting-jupiter-trine-natal-sun/)). Each visit lasts a few weeks, or several months in a year when Jupiter turns retrograde close to the trine.
 
-I read the Jupiter trine as a good season for study, travel, generosity, and for asking. Weather, not a forecast: room to grow, which you still have to use.
+Those weeks suit generosity, learning and asking, as I read them. Weather, not a forecast: room to grow, which you still have to use.

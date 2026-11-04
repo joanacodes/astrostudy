@@ -32,7 +32,7 @@ Soleil trigone Mars place le Soleil et Mars à un tiers de cercle, en général 
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-Le [Soleil](/astrology/sun/), c’est votre sens de vous-même et de votre chemin ; [Mars](/astrology/mars/) est la part de vous qui se lève et fait quelque chose : commencer, s’affirmer, fournir l’effort, tenir une ligne. Un [trigone](/astrology/trine/) relie les deux par la fluidité et le renforcement mutuel : le but donne une raison à l’effort, l’effort donne un corps au but, et aucun des deux n’a à réclamer son tour.
+Votre sens de vous-même et de votre chemin, c’est le [Soleil](/astrology/sun/) ; [Mars](/astrology/mars/) est la part de vous qui se lève et fait quelque chose : commencer, s’affirmer, fournir l’effort, tenir une ligne. Un [trigone](/astrology/trine/) relie les deux par la fluidité et le renforcement mutuel : le but donne une raison à l’effort, l’effort donne un corps au but, et aucun des deux n’a à réclamer son tour.
 
 Concrètement, quand vous savez ce que vous voulez, l’énergie pour y aller est en général là, et elle va dans la bonne direction. Vous pouvez travailler dur sans avoir l’impression de lutter contre vous-même ; rivaliser, défendre une limite ou repartir de zéro semblent naturels plutôt que coûteux. Le courage, avec ce trigone, ressemble moins à de l’audace qu’à une façon d’avancer, tout simplement.
 
@@ -51,10 +51,10 @@ Le reste de la famille, vu d’ici :
 - **[Soleil carré Mars](/astrology/sun-square-mars/) :** un signe plus près, et les deux signes ne partagent plus d’élément ; l’élan traverse le but et doit être visé.
 - **[Soleil opposition Mars](/astrology/sun-opposite-mars/) :** Mars au milieu de sa rétrogradation, face au Soleil ; ce qui coule en vous se tient là en face, souvent incarné par d’autres.
 
-Entre deux thèmes, [Soleil trigone Mars en synastrie](/astrology/sun-trine-mars-synastry/) laisse l’énergie de l’une des deux personnes courir avec les projets de l’autre : des entreprises communes qui avancent sans beaucoup pousser. Je le lis d’un côté comme de l’autre.
+Entre deux thèmes, [Soleil trigone Mars en synastrie](/astrology/sun-trine-mars-synastry/) laisse l’énergie de l’une des deux personnes courir avec les projets de l’autre : des entreprises communes qui avancent sans beaucoup pousser.
 
 ## En transit {#en-transit}
 
-À peu près chaque année, Mars trace un trigone avec votre Soleil natal pendant quelques jours, et l’année où Mars rétrograde près de ce degré, le trigone s’étire sur des semaines : une longue période d’endurance, si vous avez quelque chose qui mérite d’y être dépensé. Les trigones du Soleil à Mars dans votre thème sont brefs, deux fois par an ([transits](/astrology/transits/)).
+À peu près chaque année, Mars trace un trigone avec votre Soleil natal pendant quelques jours ([transits](/astrology/transits/)), et l’année où Mars rétrograde près de ce degré, le trigone s’étire sur des semaines : une longue période d’endurance, si vous avez quelque chose qui mérite d’y être dépensé.
 
 Je garderais ces jours pour un travail qui demande de la tenue. Une météo, pas une prédiction : un vent favorable pour l’effort, jamais une décision prise à votre place.

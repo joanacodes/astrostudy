@@ -43,7 +43,7 @@ The two sit in opposite signs of one modality: a Sun in Virgo with Jupiter in Pi
 
 This is the rarest of the pair's aspects: about 1 person in 28 has it, within 8°, which is still far less rare than the Sun–Mars opposition. Jupiter's backward drift is slow, so the Sun is only a little hurried past it. What the timing does guarantee is a retrograde Jupiter, since its four months of retrograde each year are centred on this moment ([Jupiter retrograde](/astrology/jupiter-retrograde/)). I read that as a sense of meaning that matures privately before you share it ([natal retrograde planets](/blog/retrograde-planets/)).
 
-The pair's other aspects fall elsewhere in the same cycle:
+The same cycle holds the pair's other aspects:
 
 - **[Sun conjunct Jupiter](/astrology/sun-conjunct-jupiter/):** half a cycle away, about six months, with Jupiter hidden behind the Sun; there, growth is part of who you are.
 - **[Sun sextile Jupiter](/astrology/sun-sextile-jupiter/):** openings that sit beside your purpose and wait for you, the commonest of the pair's aspects.
@@ -54,6 +54,6 @@ Between two charts, [Sun opposite Jupiter in synastry](/astrology/sun-opposite-j
 
 ## In transits {#in-transits}
 
-Jupiter opposes your natal Sun halfway round its twelve-year circuit, about six years after each crossing ([transiting Jupiter opposite natal Sun](/astrology/transiting-jupiter-opposite-natal-sun/)). The opposition lasts a few weeks, in up to three passes when Jupiter retrogrades nearby; the Sun's yearly opposition to your natal Jupiter is over in a day or two. Around 18, 30 and 42, halfway between your [Jupiter returns](/astrology/jupiter-return/), Jupiter crosses your Sun itself, the other end of your birth axis.
+Jupiter opposes your natal Sun halfway round its twelve-year circuit, about six years after each crossing ([transiting Jupiter opposite natal Sun](/astrology/transiting-jupiter-opposite-natal-sun/)). The opposition lasts a few weeks, in up to three passes when Jupiter retrogrades nearby. Around 18, 30 and 42, halfway between your [Jupiter returns](/astrology/jupiter-return/), Jupiter crosses your Sun itself, the other end of your birth axis.
 
 Weather, not a forecast: a season of wider horizons, not a promise of what they hold.

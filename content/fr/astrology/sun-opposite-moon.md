@@ -21,7 +21,7 @@ faq:
   - q: "Que veut dire Soleil opposition Lune dans un thème natal ?"
     a: "Avec une naissance à la pleine lune, ou à quelques heures près, le Soleil et la Lune occupent des signes opposés. Là où vous allez et ce qu’il vous faut se font face, et chacun rend l’autre plus visible. J’y lis une polarité, pas un conflit : tenir les deux bouts à la fois est le travail d’une vie."
   - q: "Soleil opposition Lune veut-il dire une naissance à la pleine lune ?"
-    a: "À la pleine lune ou tout près. Avec le Soleil et la Lune à moins de 8° de l’opposition exacte, la Lune était pleine ou presque, levée vers le coucher du soleil et couchée vers son lever. Avant la pleine lune exacte, elle grandissait encore ; après, elle avait commencé à décroître, et votre thème dit lequel."
+    a: "À la pleine lune ou tout près. À moins de 8° de l’opposition exacte entre le Soleil et la Lune, celle-ci était pleine ou presque, levée vers le coucher du soleil et couchée vers son lever. Avant la pleine lune exacte, elle grandissait encore ; après, elle avait commencé à décroître, et votre thème dit lequel."
   - q: "Soleil opposition Lune veut-il dire un conflit intérieur ?"
     a: "Ce n’est pas ma lecture. Une polarité n’est pas une querelle : votre direction et vos besoins occupent simplement les deux bouts d’une même ligne. Vous pouvez osciller entre les deux un temps, ou rencontrer l’un des deux chez une personne proche. Avec le temps, l’oscillation devient un équilibre."
   - q: "Soleil opposition Lune, est-ce une éclipse lunaire ?"
@@ -45,7 +45,7 @@ Concrètement, cela peut ressembler à une bascule. Un temps, vous penchez vers 
 
 Les deux luminaires tombent dans des signes opposés, qui partagent un mode et penchent dans des directions complémentaires : un Soleil en Scorpion avec la Lune en Taureau, la profondeur face à la constance ; un Soleil en Verseau avec la Lune en Lion, le groupe face au besoin d’être vu. Ils tombent souvent aussi dans des maisons opposées, et cet axe est celui de l’équilibre : les maisons 3 et 9, l’apprentissage de tous les jours face aux horizons lointains ; 6 et 12, la semaine de travail face au temps seul ; 5 et 11, ce que vous créez face aux amis avec qui vous le partagez.
 
-À 8° près, l’orbe que j’utilise, environ 1 personne sur 24 porte cette opposition : une seule pleine lune par mois la rend aussi rare que la conjonction. C’est la Lune qui voyage, environ 13° par jour, et l’heure montre de quel côté de la pleine lune exacte tombe votre naissance : avant, la Lune croissait encore ; après, elle avait commencé à décroître ([aspects appliquants et séparants](/astrology/applying-and-separating-aspects/)). Quand une pleine lune tombe près des nœuds lunaires, c’est une [éclipse lunaire](/astrology/lunar-eclipses/), et il arrive qu’une naissance tombe ce jour-là.
+Une seule pleine lune par mois rend cette opposition aussi rare que la conjonction : environ 1 personne sur 24 naît avec elle, à 8° près. C’est la Lune qui voyage, environ 13° par jour, et l’heure montre de quel côté de la pleine lune exacte tombe votre naissance : avant, la Lune croissait encore ; après, elle avait commencé à décroître ([aspects appliquants et séparants](/astrology/applying-and-separating-aspects/)). Quand une pleine lune tombe près des nœuds lunaires, c’est une [éclipse lunaire](/astrology/lunar-eclipses/), et il arrive qu’une naissance tombe ce jour-là.
 
 Au fil du mois, la paire forme ses autres aspects :
 
@@ -54,7 +54,7 @@ Au fil du mois, la paire forme ses autres aspects :
 - **[Soleil carré Lune](/astrology/sun-square-moon/) :** la demi-lune ; les deux se croisent en biais, dans les mêmes journées, au lieu de se tenir de part et d’autre du thème.
 - **[Soleil trigone Lune](/astrology/sun-trine-moon/) :** la lune gibbeuse, quelques jours avant ou après la vôtre ; presque la même clarté, sans le tiraillement entre deux directions.
 
-Entre deux thèmes, [Soleil opposition Lune en synastrie](/astrology/sun-opposite-moon-synastry/) place le Soleil de l’une des deux personnes face à la Lune de l’autre : chacune tient le bout dont l’autre s’écarte. Je le lis de chaque côté, et seulement avec l’accord des deux ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Entre deux thèmes, [Soleil opposition Lune en synastrie](/astrology/sun-opposite-moon-synastry/) place le Soleil de l’une des deux personnes face à la Lune de l’autre : chacune tient le bout dont l’autre s’écarte. C’est un miroir puissant, tendu des deux côtés, et je ne le lis que si les deux personnes le souhaitent ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
 
 ## En transit {#en-transit}
 

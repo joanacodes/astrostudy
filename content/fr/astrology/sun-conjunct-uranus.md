@@ -23,13 +23,13 @@ faq:
   - q: "Soleil conjonction Uranus fait-il de vous une personne rebelle ?"
     a: "Je ne le lis pas ainsi. Uranus décrit l’innovation, l’autonomie et la réforme ; la rébellion pour elle-même est une défense plutôt que son vrai travail. Avec le Soleil dessus, vous avez besoin de place pour être vous-même, et vous changez peut-être la façon de faire les choses. La forme mûre, c’est la réforme qui a un but."
   - q: "Si Uranus reste sept ans dans un signe, pourquoi cet aspect est-il personnel ?"
-    a: "Parce que le Soleil bouge. Le signe d’Uranus est partagé par toutes les personnes nées sur environ sept ans, mais le Soleil ne passe devant Uranus que quelques semaines par an, quelques jours plus tard chaque fois. La conjonction appartient donc aux personnes nées dans une même période d’une même année, et sa maison la rend plus personnelle encore."
+    a: "Parce que le Soleil bouge. Uranus reste environ sept ans dans un signe, le temps de toute une génération de naissances, mais le Soleil ne passe devant Uranus que quelques semaines par an, quelques jours plus tard chaque fois. La conjonction appartient donc aux naissances d’une même période de l’année, et sa maison la rend plus personnelle encore."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les quatre aspects classiques ; la conjonction n’en est pas" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes naissent avec cet aspect, à 8° près" }
   - { title: "NASA — Uranus facts", url: "https://science.nasa.gov/uranus/facts/", note: "son orbite d’environ 84 ans" }
 ---
-Chaque année, pendant quelques semaines, le Soleil passe devant Uranus, quelques jours plus tard à chaque fois. Avec une naissance dans ces semaines-là, vous avez Soleil conjonction Uranus : le moi que vous devenez et l’envie de vous distinguer, d’expérimenter et de renouveler, fondus en un seul.
+Chaque année, pendant quelques semaines, le Soleil passe devant Uranus, quelques jours plus tard à chaque fois. Si votre naissance tombe alors, Soleil conjonction Uranus est à vous : le moi que vous devenez et l’envie de vous distinguer, d’expérimenter et de renouveler, fondus en un seul.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
@@ -41,21 +41,21 @@ L’apprentissage, dans ma lecture, se trouve dans les limites mêmes d’Uranus
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le signe d’Uranus est partagé par toutes les personnes nées sur environ sept ans : pris seul, ce signe en dit plus sur une génération que sur vous ([planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)). La conjonction resserre le champ : le Soleil ne passe devant Uranus que quelques semaines par an, quelques jours plus tard chaque année, si bien que cette conjonction marque les personnes nées dans une même période d’une même année. Ce qui la rend la plus personnelle, c’est la maison : la 10, un travail que vous réinventez au lieu d’en hériter ; la 7, des liens qui ont besoin d’air ; la 1, une première impression qui surprend. Sans l’heure de naissance, je peux vous dire que vous l’avez, pas où elle habite ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Toutes les personnes nées sur sept ans environ ont Uranus dans le même signe : pris seul, ce signe en dit plus sur une génération que sur vous ([planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)). La conjonction resserre le champ : le Soleil ne passe devant Uranus que quelques semaines par an, quelques jours plus tard chaque année, si bien que cette conjonction revient aux naissances de quelques semaines précises d’une année. Ce qui la rend la plus personnelle, c’est la maison : la 10, un travail que vous réinventez au lieu d’en hériter ; la 7, des liens qui ont besoin d’air ; la 1, une première impression qui surprend. Sans l’heure de naissance, je peux vous dire que vous l’avez, pas où elle habite ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Le décompte est d’environ 1 personne sur 21, à 8° près. Le Soleil fait tout le travail de la rencontre, puisqu’Uranus bouge à peine ; une naissance avant l’exactitude trouve la conjonction encore en formation ([aspects appliquants et séparants](/astrology/applying-and-separating-aspects/)).
 
-À partir d’ici, le Soleil forme chacun des autres aspects avec Uranus :
+L’année apporte ensuite, un à un, les quatre autres aspects du duo :
 
-- **[Soleil sextile Uranus](/astrology/sun-sextile-uranus/) :** deux signes d’écart ; le changement cesse de faire partie de qui vous êtes et devient une option que vous saisissez.
+- **[Soleil sextile Uranus](/astrology/sun-sextile-uranus/) :** deux signes d’écart ; le changement n’est plus un trait de vous mais une option que vous saisissez.
 - **[Soleil carré Uranus](/astrology/sun-square-uranus/) :** un quart de cercle plus loin ; le besoin de liberté pousse contre votre direction, et la réforme se gagne.
 - **[Soleil trigone Uranus](/astrology/sun-trine-uranus/) :** quatre signes d’écart, dans un même élément ; l’originalité accompagne votre but sans se confondre avec lui.
-- **[Soleil opposition Uranus](/astrology/sun-opposite-uranus/) :** de part et d’autre du thème, Uranus rétrograde ; l’envie de changement vous fait face, souvent chez les autres.
+- **[Soleil opposition Uranus](/astrology/sun-opposite-uranus/) :** six signes plus loin, Uranus rétrograde ; l’envie de changement vous fait face, souvent chez les autres.
 
-Entre deux thèmes, [Soleil conjonction Uranus en synastrie](/astrology/sun-conjunct-uranus-synastry/) pose l’appétit de changement de l’une des deux personnes sur l’identité de l’autre : un contact électrisant pour certaines paires, déstabilisant pour d’autres. Je le lis dans les deux sens.
+Entre deux thèmes, [Soleil conjonction Uranus en synastrie](/astrology/sun-conjunct-uranus-synastry/) pose l’appétit de changement de l’une des deux personnes sur l’identité de l’autre. Le contact peut électriser ou déstabiliser, et laisse rarement l’une ou l’autre tout à fait inchangée.
 
 ## En transit {#en-transit}
 
-Uranus met environ 84 ans à faire le tour du zodiaque : [Uranus en transit conjonction Soleil du thème natal](/astrology/transiting-uranus-conjunct-natal-sun/) arrive donc au plus une fois dans la plupart des vies. Ce transit dure un an ou plus, en général en trois passages, puisqu’Uranus passe environ sept ans dans chaque signe. Avec cette conjonction de naissance, vous le vivez autrement : Uranus quitte votre Soleil dans vos premières années, s’y oppose vers 42 ans, en même temps que votre [opposition d’Uranus](/astrology/uranus-opposition/), et y revient vers 84 ans.
+Un tour du zodiaque prend environ 84 ans à Uranus : [Uranus en transit conjonction Soleil du thème natal](/astrology/transiting-uranus-conjunct-natal-sun/) arrive donc au plus une fois dans la plupart des vies. Ce transit dure un an ou plus, en général en trois passages, puisqu’Uranus passe environ sept ans dans chaque signe. Avec cette conjonction de naissance, vous le vivez autrement : Uranus quitte votre Soleil dans vos premières années, s’y oppose vers 42 ans, en même temps que votre [opposition d’Uranus](/astrology/uranus-opposition/), et y revient vers 84 ans.
 
 Une météo, pas une prédiction : une longue saison où votre besoin d’air se fait plus fort, jamais l’annonce d’un bouleversement.

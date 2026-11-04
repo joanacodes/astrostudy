@@ -47,7 +47,7 @@ La phase gibbeuse lui donne un sens. Croissante, la Lune quatre signes devant le
 
 Comme un trigone relie en général des signes d’un même élément, votre Soleil et votre Lune partagent un tempérament. Un Soleil en Gémeaux avec la Lune en Balance, un trigone croissant, vit d’air : les idées, l’échange, les gens. Un Soleil en Capricorne avec la Lune en Vierge, un trigone décroissant, vit de terre : le concret et l’utile. Les maisons montrent où l’accord se sent chez lui, la maison du Soleil là où vous visez, celle de la Lune là où vous vous reposez, avec une route facile entre les deux.
 
-Environ 1 personne sur 11 a le Soleil et la Lune à moins de 8° d’un trigone, que le ciel forme deux fois par mois, avant et après la pleine lune. Plus il est serré, plus il stabilise une grande part du thème. C’est la Lune qui se déplace, environ 13° par jour : quelques heures de plus ou de moins à la naissance resserrent ou desserrent l’aspect. [Mon carnet](/blog/i-tested-my-birth-chart/) a compté les placements un par un, pas les aspects : il ne donne aucun chiffre pour ce trigone.
+Le ciel forme ce trigone deux fois par mois, avant et après la pleine lune, et environ 1 personne sur 11 l’a à la naissance, à 8° près. Plus il est serré, plus il stabilise une grande part du thème. C’est la Lune qui se déplace, environ 13° par jour : quelques heures de plus ou de moins à la naissance resserrent ou desserrent l’aspect. [Mon carnet](/blog/i-tested-my-birth-chart/) a compté les placements un par un, pas les aspects : il ne donne aucun chiffre pour ce trigone.
 
 Les autres aspects de la paire sont d’autres jours du même mois :
 

@@ -47,7 +47,7 @@ Avec 47° au plus entre les deux, votre Vénus partage votre signe solaire ou se
 
 Vénus rencontre le Soleil deux fois par cycle d’environ un an et demi, et ces deux rencontres ne se ressemblent pas. De l’autre côté du Soleil, Vénus va dans le même sens, un peu plus vite seulement, et les deux restent ensemble des semaines : c’est la rencontre de la plupart des personnes qui portent cet aspect. Entre le Soleil et la Terre, Vénus est au milieu d’une période de [Vénus rétrograde](/astrology/venus-retrograde/), et les deux se croisent en quelques jours. Avec une naissance à ce moment-là, Vénus rétrograde, je lis vos valeurs comme élaborées à l’intérieur avant d’être montrées ([planètes rétrogrades natales](/blog/retrograde-planets/)). De l’autre côté du Soleil, c’est aussi Vénus la plus rapide : une naissance avant la rencontre exacte la trouve encore en approche ([aspects appliquants et séparants](/astrology/applying-and-separating-aspects/)).
 
-Entre deux thèmes, la paire échappe à cette limite de 47°. [Soleil conjonction Vénus en synastrie](/astrology/sun-conjunct-venus-synastry/), c’est le Soleil de l’une des deux personnes sur la Vénus de l’autre : une appréciation tournée vers ce que l’autre est. Je le lis dans les deux sens, parce qu’admirer et recevoir de l’admiration ne se vivent pas pareil.
+Entre deux thèmes, la paire échappe à cette limite de 47°. [Soleil conjonction Vénus en synastrie](/astrology/sun-conjunct-venus-synastry/), c’est le Soleil de l’une des deux personnes sur la Vénus de l’autre : une appréciation tournée vers ce que l’autre est, le simple plaisir d’aimer une personne sans vouloir la changer.
 
 ## En transit {#en-transit}
 

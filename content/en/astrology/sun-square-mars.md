@@ -52,10 +52,10 @@ Set beside its siblings, the square is the one that asks for aim:
 - **[Sun trine Mars](/astrology/sun-trine-mars/):** a sign further, in one element; effort runs with purpose instead of across it.
 - **[Sun opposite Mars](/astrology/sun-opposite-mars/):** the far end, with Mars retrograde; the friction moves outside and often arrives in other people.
 
-Between two charts, [Sun square Mars in synastry](/astrology/sun-square-mars-synastry/) is one person's drive pressing on the other's sense of direction: energising or wearing, depending on how both of you handle friction. I read it for each of you in turn.
+Between two charts, [Sun square Mars in synastry](/astrology/sun-square-mars-synastry/) is one person's drive pressing on the other's sense of direction: energising or wearing, depending on how both of you handle friction, and on whether you share a project to aim it at.
 
 ## In transits {#in-transits}
 
-In the sky, Mars squares your natal Sun roughly once a year and holds the angle for a few days, and energy tends to run ahead of plans; the Sun's squares to your natal Mars, twice a year, pass in a day ([transits](/astrology/transits/)). If Mars turns retrograde close to the square, the visit can stretch over weeks.
+In the sky, Mars squares your natal Sun roughly once a year and holds the angle for a few days, and energy tends to run ahead of plans ([transits](/astrology/transits/)). If Mars turns retrograde close to the square, the visit can stretch over weeks.
 
-They're useful days for a push you've been putting off, less so for patience. Weather, not a forecast: a temperature, never an event.
+Those days suit a push you've been putting off, less so patience. Weather, not a forecast: a temperature, never an event.

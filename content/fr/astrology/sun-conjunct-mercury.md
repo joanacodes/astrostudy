@@ -49,7 +49,7 @@ Mercure rencontre le Soleil deux fois par cycle : une fois de l’autre côté 
 
 La tradition a ses propres mots pour une planète aussi proche du Soleil, la [combustion](/astrology/combustion/) et [cazimi](/astrology/cazimi/), et chacun a sa page. Je ne lis pas Mercure « combuste » comme un esprit faible : plus la rencontre est serrée, plus votre pensée et votre identité ne font qu’un, tout simplement.
 
-Les deux ne peuvent former aucun autre aspect majeur : un sextile demande 60°, plus du double de l’écart maximal de Mercure. Entre les thèmes de deux personnes, tous les angles sont possibles, et [Soleil conjonction Mercure en synastrie](/astrology/sun-conjunct-mercury-synastry/), c’est l’identité de l’une qui rencontre la façon de penser de l’autre, souvent vécue comme une conversation facile, et lue dans les deux sens.
+Les deux ne peuvent former aucun autre aspect majeur : un sextile demande 60°, plus du double de l’écart maximal de Mercure. Entre les thèmes de deux personnes, tous les angles sont possibles, et [Soleil conjonction Mercure en synastrie](/astrology/sun-conjunct-mercury-synastry/), c’est l’identité de l’une qui rencontre la façon de penser de l’autre : souvent une conversation facile, où l’une semble trouver les mots pour dire qui est l’autre.
 
 ## En transit {#en-transit}
 

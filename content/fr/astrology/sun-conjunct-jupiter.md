@@ -49,17 +49,17 @@ Le signe de Jupiter, souvent celui de votre Soleil aussi, colore cette croissanc
 
 Dans [mon carnet](/blog/i-tested-my-birth-chart/), j’ai vérifié Jupiter dans son signe et sa maison comme tous les autres placements, et ce placement ne s’est pas distingué comme Saturne, Chiron et Lilith. Alors, quand une lecture s’appuie sur cette conjonction, je le dis.
 
-Le Soleil forme ensuite les autres aspects avec Jupiter :
+Dans les mois qui suivent, le Soleil forme le reste des aspects de la paire :
 
 - **[Soleil sextile Jupiter](/astrology/sun-sextile-jupiter/) :** deux signes d’écart ; la croissance cesse d’être intégrée et devient des ouvertures que vous choisissez.
 - **[Soleil carré Jupiter](/astrology/sun-square-jupiter/) :** un quart de cercle d’écart ; l’appétit de plus frotte contre votre direction, et la mesure se gagne.
 - **[Soleil trigone Jupiter](/astrology/sun-trine-jupiter/) :** quatre signes d’écart, dans un même élément ; la croissance et le but marchent au même pas sans se confondre.
-- **[Soleil opposition Jupiter](/astrology/sun-opposite-jupiter/) :** de part et d’autre du thème, Jupiter rétrograde ; la vision plus large se tient devant vous, souvent chez une personne qui enseigne ou guide.
+- **[Soleil opposition Jupiter](/astrology/sun-opposite-jupiter/) :** Jupiter rétrograde, au plus loin du Soleil ; la vision plus large se tient devant vous, souvent chez une personne qui enseigne ou guide.
 
-Entre deux thèmes, [Soleil conjonction Jupiter en synastrie](/astrology/sun-conjunct-jupiter-synastry/) place l’envie de grandir de l’une des deux personnes juste sur l’identité de l’autre : un encouragement, le plus souvent, et parfois un peu trop. Je le lis dans un sens puis dans l’autre.
+Entre deux thèmes, [Soleil conjonction Jupiter en synastrie](/astrology/sun-conjunct-jupiter-synastry/) place l’envie de grandir de l’une des deux personnes juste sur l’identité de l’autre : un encouragement, le plus souvent, et parfois un peu trop.
 
 ## En transit {#en-transit}
 
-Votre Soleil et Jupiter occupent le même endroit : chaque [retour de Jupiter](/astrology/jupiter-return/), à peu près tous les douze ans, est donc aussi [Jupiter en transit conjonction Soleil du thème natal](/astrology/transiting-jupiter-conjunct-natal-sun/), et pour vous les deux font une seule saison. Jupiter met environ un an à traverser un signe, ce qui garde le transit à un degré ou deux de votre Soleil pendant quelques semaines, ou plusieurs mois quand une rétrogradation fait repasser Jupiter. Le passage du Soleil sur Jupiter dans votre thème, une fois par an, dure un jour ou deux.
+Votre Soleil et Jupiter occupent le même endroit : chaque [retour de Jupiter](/astrology/jupiter-return/), à peu près tous les douze ans, est donc aussi [Jupiter en transit conjonction Soleil du thème natal](/astrology/transiting-jupiter-conjunct-natal-sun/), et pour vous les deux font une seule saison. Jupiter met environ un an à traverser un signe, ce qui garde le transit à un degré ou deux de votre Soleil pendant quelques semaines, ou plusieurs mois quand une rétrogradation fait repasser Jupiter.
 
 J’y lis une saison d’élargissement : études, voyages, rôle plus large, regard plus ample. Une météo, pas une prédiction : elle décrit de la place pour grandir, jamais la réussite, l’argent ou la chance.

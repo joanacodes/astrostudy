@@ -54,7 +54,7 @@ The month carries the same two lights through every other aspect:
 - **[Sun trine Moon](/astrology/sun-trine-moon/):** the gibbous moon; the same kind of help, given without being asked for.
 - **[Sun opposite Moon](/astrology/sun-opposite-moon/):** the full moon, two weeks from the new; the lights stop helping from the side and face each other.
 
-Between two people, [Sun sextile Moon in synastry](/astrology/sun-sextile-moon-synastry/) is the friendly form of this contact: one person's direction and the other's needs, ready to help whenever either one asks. I read it both ways.
+Between two people, [Sun sextile Moon in synastry](/astrology/sun-sextile-moon-synastry/) is the friendly form of this contact: one person's direction and the other's needs, ready to help whenever either one asks.
 
 ## In transits {#in-transits}
 

@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 25
 glyph: "☉□♅"
-definition: "Soleil carré Uranus dessine un angle droit, environ 90°, entre votre Soleil et Uranus, en général dans des signes du même mode. Dans un thème, le besoin de vous libérer et celui de bâtir une direction frottent l’un contre l’autre. J’y lis une agitation qui devient réforme : le changement avec une raison, pas le changement pour lui-même."
+definition: "Soleil carré Uranus dessine un angle droit, environ 90°, entre votre Soleil et Uranus, dans des signes qui partagent en général un mode. Dans un thème, le besoin de vous libérer et celui de bâtir une direction frottent l’un contre l’autre. J’y lis une agitation qui devient réforme : le changement avec une raison, pas le changement pour lui-même."
 facts:
   - { k: "Corps", v: "Le Soleil ☉ et Uranus ♅" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -28,11 +28,11 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, formé de signes de nature opposée" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes naissent avec cet aspect, à 8° près" }
 ---
-Soleil carré Uranus est l’aspect des personnes qui ne cessent de dépasser la forme qu’elles viennent de se donner. Le Soleil et Uranus se tiennent à un quart de cercle, et entre votre sens de la direction et votre besoin de liberté, la friction réclame sans cesse mieux.
+Soleil carré Uranus est l’aspect des personnes qui ne cessent de dépasser la forme qu’elles viennent de se donner. La direction et le besoin de liberté se rencontrent ici à angle droit, et la friction réclame sans cesse mieux.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-Le [Soleil](/astrology/sun/) est votre but et l’identité que vous bâtissez autour. [Uranus](/astrology/uranus/), c’est l’envie de se distinguer, d’expérimenter et de réformer, et de garder de la place pour l’autonomie. À un quart de cercle, en [carré](/astrology/square/), les deux fonctionnent par friction : Uranus dérange sans cesse ce que le Soleil vient d’arranger, et le Soleil demande sans cesse à Uranus à quoi sert le changement.
+Avec le [Soleil](/astrology/sun/) viennent votre but et l’identité que vous construisez autour de lui. [Uranus](/astrology/uranus/), c’est l’envie de se distinguer, d’expérimenter et de réformer, et de garder de la place pour l’autonomie. À un quart de cercle, en [carré](/astrology/square/), les deux fonctionnent par friction : Uranus dérange sans cesse ce que le Soleil vient d’arranger, et le Soleil demande sans cesse à Uranus à quoi sert le changement.
 
 Vous connaissez peut-être le schéma. Un travail, un logement ou un rôle vous va un temps, puis commence à ressembler à une cage ; vous poussez au changement, parfois avant de savoir ce que vous voulez à la place. Une autorité incapable de s’expliquer vous agace, et votre propre passé aussi, quand il a fait des projets que vous avez dépassés. Uranus décrit la réforme, pas le désordre, et ce carré n’est pas un verdict sur votre stabilité.
 
@@ -48,13 +48,13 @@ Le reste de la famille, vu depuis le carré :
 
 - **[Soleil conjonction Uranus](/astrology/sun-conjunct-uranus/) :** aucun angle ; la différence fait partie de votre identité, et la friction devient une question d’appartenance.
 - **[Soleil sextile Uranus](/astrology/sun-sextile-uranus/) :** un signe plus près ; la même envie de changement arrive sous forme d’ouvertures que vous choisissez.
-- **[Soleil trigone Uranus](/astrology/sun-trine-uranus/) :** un signe plus loin, dans un même élément ; l’originalité et la direction vont du même pas.
-- **[Soleil opposition Uranus](/astrology/sun-opposite-uranus/) :** à l’autre bout, Uranus rétrograde ; la poussée du changement vient de l’autre côté de la table, souvent par les autres.
+- **[Soleil trigone Uranus](/astrology/sun-trine-uranus/) :** l’élément partagé ; l’originalité et la direction vont du même pas.
+- **[Soleil opposition Uranus](/astrology/sun-opposite-uranus/) :** à l’autre bout, Uranus rétrograde ; la poussée du changement vient de l’autre côté de la table, portée par d’autres.
 
-Entre deux thèmes, [Soleil carré Uranus en synastrie](/astrology/sun-square-uranus-synastry/), c’est le besoin de liberté de l’une des deux personnes qui appuie sur la direction de l’autre : un contact stimulant, parfois secouant. Je le lis dans les deux sens.
+Entre deux thèmes, [Soleil carré Uranus en synastrie](/astrology/sun-square-uranus-synastry/), c’est le besoin de liberté d’une personne qui presse la direction de l’autre : un contact stimulant, parfois secouant, et la secousse se vit rarement de la même façon des deux côtés.
 
 ## En transit {#en-transit}
 
-[Uranus en transit carré Soleil du thème natal](/astrology/transiting-uranus-square-natal-sun/) arrive au plus deux fois dans une vie et dure un an ou plus, souvent en trois passages. Les carrés du Soleil à Uranus dans votre thème, deux fois par an, passent en un jour ou deux. Le passage d’Uranus sur votre Soleil lui-même tombe au début de la vingtaine si Uranus se trouvait un quart de cercle derrière votre Soleil à la naissance, ou dans la soixantaine dans le cas inverse.
+[Uranus en transit carré Soleil du thème natal](/astrology/transiting-uranus-square-natal-sun/) peut survenir deux fois dans une longue vie, jamais davantage, et s’étale chaque fois sur un an ou plus. Le passage d’Uranus sur votre Soleil lui-même tombe au début de la vingtaine si Uranus se trouvait un quart de cercle derrière votre Soleil à la naissance, ou dans la soixantaine dans le cas inverse.
 
 J’y lis une saison pour des changements en retard, à choisir plutôt qu’à subir. Une météo, pas une prédiction : un vent fort de changement, et c’est vous qui tenez la barre.

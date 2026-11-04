@@ -43,7 +43,7 @@ Avec le temps, le travail consiste à reprendre les deux bouts : laisser votre 
 
 Leurs signes sont opposés et partagent un mode : un Soleil en Gémeaux avec Mars en Sagittaire, la vivacité d’esprit face à un élan vers l’horizon lointain ; un Soleil en Cancer avec Mars en Capricorne, le soin face à l’ambition. Souvent, les deux occupent aussi des maisons opposées. Avec les maisons 1 et 7, votre propre initiative fait face à celle de l’autre dans le couple ; avec les maisons 4 et 10, le foyer fait face à une ambition pour laquelle vous vous battez.
 
-Environ 1 personne sur 66 a le Soleil et Mars à moins de 8° d’une opposition ; aucun autre aspect de la paire n’est aussi rare, et de loin. Mars ne fait face au Soleil qu’une fois en un peu plus de deux ans, au milieu de sa rétrogradation, et à ce moment-là le Soleil avance pendant que Mars semble reculer : les deux traversent l’orbe en quelques jours. Toutes les personnes qui portent cet aspect ont donc Mars rétrograde dans leur thème ([Mars rétrograde](/astrology/mars-retrograde/)), ce que je lis comme un élan qui travaille d’abord vers l’intérieur, puis agit ([planètes rétrogrades natales](/blog/retrograde-planets/)).
+Environ 1 personne sur 66 seulement naît avec Mars face au Soleil, à 8° près ; aucun autre aspect de la paire n’est aussi rare, et de loin. Mars ne fait face au Soleil qu’une fois en un peu plus de deux ans, au milieu de sa rétrogradation, et à ce moment-là le Soleil avance pendant que Mars semble reculer : les deux traversent l’orbe en quelques jours. Toutes les personnes qui portent cet aspect ont donc Mars rétrograde dans leur thème ([Mars rétrograde](/astrology/mars-retrograde/)), ce que je lis comme un élan qui travaille d’abord vers l’intérieur, puis agit ([planètes rétrogrades natales](/blog/retrograde-planets/)).
 
 Les autres aspects de la paire se trouvent ailleurs dans le même cycle :
 
@@ -56,6 +56,6 @@ Entre deux thèmes, [Soleil opposition Mars en synastrie](/astrology/sun-opposit
 
 ## En transit {#en-transit}
 
-Mars s’oppose à votre Soleil natal une fois par tour du zodiaque, environ tous les deux ans, pendant quelques jours ; le Soleil s’oppose à Mars dans votre thème chaque année, brièvement ([transits](/astrology/transits/)). Avec cette opposition de naissance, un recoupement se produit : quand Mars revient à sa propre place dans votre thème, Mars se tient aussi face à votre Soleil, et chaque retour de Mars fait écho à votre naissance.
+Mars s’oppose à votre Soleil natal une fois par tour du zodiaque, environ tous les deux ans, pendant quelques jours ([transits](/astrology/transits/)). Avec cette opposition de naissance, un recoupement se produit : quand Mars revient à sa propre place dans votre thème, Mars se tient aussi face à votre Soleil, et chaque retour de Mars fait écho à votre naissance.
 
 Quelques jours, donc, où la poussée semble venir de l’extérieur et où vous choisissez comment l’accueillir : une météo, pas une prédiction.

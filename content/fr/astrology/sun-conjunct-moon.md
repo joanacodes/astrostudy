@@ -31,7 +31,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes naissent à moins de 8° d’une nouvelle lune" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nouvelles lunes, et les éclipses près des nœuds" }
 ---
-Avec Soleil conjonction Lune, votre naissance tombe à la nouvelle lune : la Lune rejoignait le Soleil et nous tournait sa face non éclairée, tout au début d’un mois lunaire. Dans votre thème, la direction et le besoin partent du même point.
+Avec Soleil conjonction Lune, votre naissance tombe à la nouvelle lune : la Lune rejoignait le Soleil et nous tournait sa face non éclairée, tout au début d’un mois lunaire. Dans votre thème, la direction et le besoin se mettent en route ensemble.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
@@ -47,7 +47,7 @@ La nouvelle lune ouvre le cycle du mois, et j’y lis un commencement plus qu’
 
 Le signe que partagent les deux luminaires donne le tempérament, en double : en Capricorne, vous voulez de la structure et vous en avez besoin ; en Gémeaux, vous voulez de la variété et vous en vivez. Près d’une frontière de signe, les deux peuvent occuper des signes voisins. La maison compte autant : ce domaine de la vie, travail, foyer ou amitiés, reçoit à la fois votre effort et votre besoin de réconfort.
 
-Environ 1 personne sur 24 naît avec le Soleil et la Lune à moins de 8° l’un de l’autre, moitié moins que pour le carré ou le trigone, parce qu’un mois compte une seule [nouvelle lune](/astrology/new-moon/), mais deux demi-lunes et deux lunes gibbeuses. Comme la Lune prend chaque jour environ 12° d’avance sur le Soleil, l’heure décide de quel côté de la rencontre exacte tombe votre naissance. Avant, la Lune rattrapait encore le Soleil, dans les dernières heures de la [lune balsamique](/astrology/balsamic-moon/) ; après, elle était passée devant, et un nouveau mois commençait ([aspects appliquants et séparants](/astrology/applying-and-separating-aspects/)). Raison de plus pour demander l’heure de naissance avant de lire ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Cette conjonction, comptée à 8° près, se rencontre chez environ 1 personne sur 24, moitié moins que le carré ou le trigone, parce qu’un mois compte une seule [nouvelle lune](/astrology/new-moon/), mais deux demi-lunes et deux lunes gibbeuses. Comme la Lune prend chaque jour environ 12° d’avance sur le Soleil, l’heure décide de quel côté de la rencontre exacte tombe votre naissance. Avant, la Lune rattrapait encore le Soleil, dans les dernières heures de la [lune balsamique](/astrology/balsamic-moon/) ; après, elle était passée devant, et un nouveau mois commençait ([aspects appliquants et séparants](/astrology/applying-and-separating-aspects/)). Raison de plus pour demander l’heure de naissance avant de lire ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Une nouvelle lune proche des nœuds lunaires est une [éclipse solaire](/astrology/solar-eclipses/), et certaines naissances tombent un tel jour.
 

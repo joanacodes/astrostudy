@@ -46,7 +46,7 @@ The gibbous phase gives it a direction. Waxing, with the Moon four signs ahead o
 
 Because a trine usually joins signs of one element, your Sun and Moon share a temperament. A Sun in Gemini with the Moon in Libra, a waxing trine, both run on air: ideas, exchange, people. A Sun in Capricorn with the Moon in Virgo, a waning one, both run on earth: what's real and what's useful. The houses show where the agreement is most at home, the Sun's house where you aim and the Moon's where you rest, with an easy road between them.
 
-About 1 person in 11 has the Sun and Moon within 8° of a trine, which the sky makes twice a month, before and after the full moon. The tighter it is, the more of the chart it steadies. The Moon is the one moving, about 13° a day, so a birth a few hours earlier or later tightens or loosens it. My [notebook](/blog/i-tested-my-birth-chart/) counted placements one by one, not aspects, so it holds no figure for this trine.
+The sky makes this trine twice a month, before and after the full moon, and about 1 person in 11 has it at birth, within 8°. The tighter it is, the more of the chart it steadies. The Moon is the one moving, about 13° a day, so a birth a few hours earlier or later tightens or loosens it. My [notebook](/blog/i-tested-my-birth-chart/) counted placements one by one, not aspects, so it holds no figure for this trine.
 
 The other aspects of the pair are other days of the same month:
 

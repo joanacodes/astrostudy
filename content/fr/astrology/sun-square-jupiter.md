@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 15
 glyph: "☉□♃"
-definition: "Soleil carré Jupiter place Jupiter à environ 90° de votre Soleil, à trois signes, en général dans le même mode. Dans un thème, votre direction et votre envie de grandir tirent en biais : plus d’appétit que de temps. J’y lis une friction qui enseigne la mesure, et une générosité qui découvre sa propre taille."
+definition: "Soleil carré Jupiter place Jupiter à environ 90° de votre Soleil, en général dans un signe qui partage le mode du vôtre. Dans un thème, la direction et l’envie de grandir tirent en biais : plus d’appétit que de temps. J’y lis une friction qui enseigne la mesure, et une générosité qui découvre sa propre taille."
 facts:
   - { k: "Corps", v: "Le Soleil ☉ et Jupiter ♃" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -23,12 +23,12 @@ faq:
   - q: "Soleil carré Jupiter, est-ce un excès de confiance ?"
     a: "De l’extérieur, cela peut y ressembler : vous promettez parfois plus qu’une semaine n’en contient, ou vous attendez d’un projet qu’il grandisse plus vite qu’il ne le fait. Mais Jupiter décrit la croissance et le sens, et l’expansion n’est pas l’excès. Le carré montre où vous apprenez la mesure, et la mesure s’apprend."
   - q: "Soleil carré Jupiter parle-t-il d’argent ou de chance ?"
-    a: "Non. On confond souvent Jupiter avec l’un et l’autre, mais cette planète décrit la croissance, l’apprentissage et le sens, et une occasion n’est jamais une réussite garantie. Le carré dit que votre appétit pour ces choses frotte contre votre direction : vous apprenez à choisir. Rien dans cet aspect ne prédit ce que vous gagnerez."
+    a: "Non. On confond souvent Jupiter avec l’un et l’autre, mais cette planète décrit la croissance, l’apprentissage et le sens, et aucune occasion ne garantit une réussite. Le carré dit que votre appétit pour ces choses frotte contre votre direction : vous apprenez à choisir. Rien dans cet aspect ne prédit ce que vous gagnerez."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, parmi les quatre qu’il compte" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes naissent avec cet aspect, à 8° près" }
 ---
-Soleil carré Jupiter appartient aux personnes qui attendent beaucoup de la vie et doivent sans cesse y faire des choix. Votre Soleil et Jupiter se tiennent à un quart de cercle, et entre votre direction et votre appétit de plus, c’est la friction qui enseigne.
+Soleil carré Jupiter appartient aux personnes qui attendent beaucoup de la vie et doivent sans cesse y faire des choix. Entre votre direction et votre appétit de plus, placés à angle droit, c’est la friction qui enseigne.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
@@ -44,19 +44,19 @@ Ses deux signes relèvent en général d’un même mode, et cela donne le ton. 
 
 Les maisons montrent quels domaines de la vie se disputent votre temps : celle du Soleil, où vous devenez vous-même, et celle de Jupiter, où vous voulez toujours davantage. Ces maisons viennent de l’heure de naissance ; sans elle, je peux dire que les deux marchandent, pas à propos de quoi ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Environ 1 personne sur 11 naît à moins de 8° de ce carré. Le Soleil et Jupiter forment deux carrés par cycle d’environ treize mois : la plupart des années comptent donc deux périodes de quelques semaines où toutes les personnes qui naissent le partagent, et le Soleil, toujours le plus rapide, forme et défait chacun ([aspects appliquants et séparants](/astrology/applying-and-separating-aspects/)).
+Ce carré concerne environ 1 personne sur 11, à 8° près. Le Soleil et Jupiter forment deux carrés par cycle d’environ treize mois : la plupart des années comptent donc deux périodes de quelques semaines où toutes les personnes qui naissent le partagent, et le Soleil, toujours le plus rapide, forme et défait chacun ([aspects appliquants et séparants](/astrology/applying-and-separating-aspects/)).
 
 Ses voisins montrent les deux mêmes fonctions sous d’autres angles :
 
 - **[Soleil conjonction Jupiter](/astrology/sun-conjunct-jupiter/) :** aucun angle ; la croissance fait partie de votre identité, et la mesure est une leçon plus douce.
 - **[Soleil sextile Jupiter](/astrology/sun-sextile-jupiter/) :** un signe plus près ; le même appétit arrive sous forme d’ouvertures parmi lesquelles choisir.
-- **[Soleil trigone Jupiter](/astrology/sun-trine-jupiter/) :** un signe plus loin, dans un même élément ; le but et la croissance s’accordent sur l’allure.
-- **[Soleil opposition Jupiter](/astrology/sun-opposite-jupiter/) :** à l’autre bout, Jupiter rétrograde ; l’attrait du plus se tient en face de vous, souvent chez quelqu’un d’autre.
+- **[Soleil trigone Jupiter](/astrology/sun-trine-jupiter/) :** quatre signes, un élément commun ; le but et la croissance s’accordent sur l’allure.
+- **[Soleil opposition Jupiter](/astrology/sun-opposite-jupiter/) :** à l’autre bout, Jupiter rétrograde ; l’attrait du plus vous arrive de face, souvent par quelqu’un d’autre.
 
-Entre deux thèmes, [Soleil carré Jupiter en synastrie](/astrology/sun-square-jupiter-synastry/), c’est l’ampleur de l’une des deux personnes qui pèse sur la direction de l’autre : inspirante une semaine, trop forte la suivante. Je le lirais avec les deux, et dans les deux sens.
+Entre deux thèmes, [Soleil carré Jupiter en synastrie](/astrology/sun-square-jupiter-synastry/), c’est l’ampleur de l’une des deux personnes qui pèse sur la direction de l’autre : inspirante une semaine, trop forte la suivante, et c’est à chacune de dire où passe la limite.
 
 ## En transit {#en-transit}
 
-Le carré entre Jupiter dans le ciel et votre Soleil natal revient à peu près tous les six ans, d’un côté puis de l’autre : [Jupiter en transit carré Soleil du thème natal](/astrology/transiting-jupiter-square-natal-sun/). Un signe prend environ un an à Jupiter : chaque carré s’attarde quelques semaines, et revient en trois passages au plus quand Jupiter rétrograde à proximité. Les carrés du Soleil à Jupiter dans votre thème, deux fois par an, durent un jour ou deux.
+Le carré entre Jupiter dans le ciel et votre Soleil natal revient à peu près tous les six ans, d’un côté puis de l’autre : [Jupiter en transit carré Soleil du thème natal](/astrology/transiting-jupiter-square-natal-sun/). Un signe prend environ un an à Jupiter : chaque carré s’attarde quelques semaines, et revient en trois passages au plus quand Jupiter rétrograde à proximité.
 
-J’y lis une saison où il est facile d’en prendre trop : bonne pour l’ambition, moins pour garder le compte de ce que vous avez déjà promis. Une météo, pas une prédiction : un appétit, pas ce que vous obtiendrez.
+Pour moi, c’est une saison où il est facile d’en prendre trop : bonne pour l’ambition, moins pour garder le compte de ce que vous avez déjà promis. Une météo, pas une prédiction : un appétit, pas ce que vous obtiendrez.

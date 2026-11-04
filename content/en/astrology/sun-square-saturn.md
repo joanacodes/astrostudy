@@ -28,11 +28,11 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people are born with it, within 8°" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "Saturn among the three placements that held most often" }
 ---
-Sun square Saturn is the aspect of someone who has had to earn their own self-belief, slowly and often against doubt. The Sun and Saturn sit a quarter of the circle apart, and between what you're aiming for and what structure demands, the friction keeps building something.
+Sun square Saturn is the aspect of someone who has had to earn their own self-belief, slowly and often against doubt. Purpose on one side, the demands of structure on the other, at a right angle: the friction between them keeps building something.
 
 ## What it means {#what-it-means}
 
-The [Sun](/astrology/sun/) is the self you're growing into and the direction it takes. [Saturn](/astrology/saturn/) is the part of a chart that asks how things will hold: it sets structure, responsibility and limits, and it thinks in years. A [square](/astrology/square/) relates them through constructive friction; neither cancels the other, and each keeps testing the other.
+The [Sun](/astrology/sun/) stands for the person you're growing into and the way you're heading. [Saturn](/astrology/saturn/) is the part of a chart that asks how things will hold: it sets structure, responsibility and limits, and it thinks in years. A [square](/astrology/square/) relates them through constructive friction; neither cancels the other, and each keeps testing the other.
 
 Lived, it often feels like this: your plans meet the slow pace of real things, rules, deadlines, other people's expectations, your own inner critic. Recognition can come late, and you may hold yourself to a higher standard than anyone asked of you. None of that is a verdict. Saturn, as I read it, is a timetable, not a wall: it says *not yet* and *build it properly* far more often than it says *no*.
 
@@ -51,10 +51,10 @@ Around it, the pair's other aspects:
 - **[Sun trine Saturn](/astrology/sun-trine-saturn/):** a sign further, in one element; patience and purpose agree on the pace.
 - **[Sun opposite Saturn](/astrology/sun-opposite-saturn/):** at the far end, Saturn retrograde; the demands come from across the table, often through authority.
 
-Between two charts, [Sun square Saturn in synastry](/astrology/sun-square-saturn-synastry/) is one person's sense of structure pressing on the other's sense of self: it can steady a bond or weigh on it. I read it from each side.
+Between two charts, [Sun square Saturn in synastry](/astrology/sun-square-saturn-synastry/) is one person's sense of structure pressing on the other's sense of self: it can steady a bond or weigh on it, often depending on whether the standards are spoken or simply assumed.
 
 ## In transits {#in-transits}
 
-Saturn squares your natal Sun about seven years after it crosses it, and again about seven years before the next crossing; with the opposition between them, these are the hard turns of a cycle of about 29½ years ([transiting Saturn square natal Sun](/astrology/transiting-saturn-square-natal-sun/)). Saturn takes about two and a half years to cross a sign, so each square lasts months, in up to three passes. The Sun's squares to your natal Saturn, twice a year, are over in a day or two.
+Saturn squares your natal Sun about seven years after it crosses it, and again about seven years before the next crossing; with the opposition between them, these are the hard turns of a cycle of about 29½ years ([transiting Saturn square natal Sun](/astrology/transiting-saturn-square-natal-sun/)). With two and a half years spent in each sign, Saturn keeps each square in orb for months, in up to three passes.
 
 I read the Saturn square as a season of tests that are mostly about structure: what holds, and what needs rebuilding. Weather, not a forecast: demanding weather, and still only weather.

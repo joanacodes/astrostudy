@@ -48,17 +48,17 @@ Within 8°, about 1 person in 19 has the two together. Jupiter moves on about a 
 
 Jupiter, in its sign and house, was checked in [my notebook](/blog/i-tested-my-birth-chart/) like every other placement, and it didn't stand out the way Saturn, Chiron and Lilith did. So when a reading leans on this conjunction, I say so.
 
-The Sun goes on from here to make Jupiter's other aspects:
+Over the following months, the Sun makes the rest of the pair's aspects:
 
 - **[Sun sextile Jupiter](/astrology/sun-sextile-jupiter/):** two signs apart; growth stops being built in and turns into openings you choose.
 - **[Sun square Jupiter](/astrology/sun-square-jupiter/):** three signs apart; the appetite for more rubs against your direction, and measure has to be earned.
 - **[Sun trine Jupiter](/astrology/sun-trine-jupiter/):** four signs apart, in one element; growth and purpose keep step without merging.
 - **[Sun opposite Jupiter](/astrology/sun-opposite-jupiter/):** across the chart, with Jupiter retrograde; the wider view stands in front of you, often in a teacher or a mentor.
 
-Between two charts, [Sun conjunct Jupiter in synastry](/astrology/sun-conjunct-jupiter-synastry/) places one person's urge to grow right on the other's sense of self: encouragement, usually, and now and then too much of it. I read it both ways round.
+Between two charts, [Sun conjunct Jupiter in synastry](/astrology/sun-conjunct-jupiter-synastry/) places one person's urge to grow right on the other's sense of self: encouragement, usually, and now and then too much of it.
 
 ## In transits {#in-transits}
 
-Your Sun and Jupiter share a place, so every [Jupiter return](/astrology/jupiter-return/), roughly every twelve years, is also [transiting Jupiter conjunct natal Sun](/astrology/transiting-jupiter-conjunct-natal-sun/): for you, one season rather than two. Jupiter takes about a year to cross a sign, which keeps it within a degree or two of your Sun for a few weeks, or over several months when its retrograde brings it back. The Sun's own pass over your Jupiter, once a year, lasts a day or two.
+Your Sun and Jupiter share a place, so every [Jupiter return](/astrology/jupiter-return/), roughly every twelve years, is also [transiting Jupiter conjunct natal Sun](/astrology/transiting-jupiter-conjunct-natal-sun/): for you, one season rather than two. Jupiter takes about a year to cross a sign, which keeps it within a degree or two of your Sun for a few weeks, or over several months when its retrograde brings it back.
 
 I read that season as a widening: study, travel, a larger role, a broader view. Weather, not a forecast: it describes room to grow, never success, money or luck.

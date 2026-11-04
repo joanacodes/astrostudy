@@ -42,7 +42,7 @@ Cela ne rend pas l’effort automatique. L’occasion demande toujours un engage
 
 Ses deux signes appartiennent en général au feu et à l’air, ou à la terre et à l’eau. Un Soleil en Bélier avec Mars en Gémeaux va vite et parle en avançant ; un Soleil en Vierge avec Mars en Cancer travaille avec soin pour les gens qui comptent. Les maisons montrent où circule la coopération : le Soleil occupe la maison où vous cherchez à devenir vous-même, Mars celle où va votre effort, et le sextile laisse l’une nourrir l’autre.
 
-Environ 1 personne sur 8 a le Soleil et Mars à moins de 8° d’un sextile, plus que pour tout autre de leurs cinq aspects majeurs. La raison tient à leur cycle. Le Soleil va toujours plus vite, mais les deux sextiles tombent sur la partie du cycle où Mars avance encore à bonne allure : le Soleil gagne lentement du terrain, et l’aspect s’attarde. Plus loin, quand Mars ralentit à l’approche de sa rétrogradation, le Soleil traverse chaque aspect plus vite, et le trigone comme l’opposition deviennent bien plus rares.
+Le sextile est le plus fréquent des cinq aspects majeurs de la paire : environ 1 personne sur 8 le porte, à 8° près. La raison tient à leur cycle. Le Soleil va toujours plus vite, mais les deux sextiles tombent sur la partie du cycle où Mars avance encore à bonne allure : le Soleil gagne lentement du terrain, et l’aspect s’attarde. Plus loin, quand Mars ralentit à l’approche de sa rétrogradation, le Soleil traverse chaque aspect plus vite, et le trigone comme l’opposition deviennent bien plus rares.
 
 Un sextile aussi courant est facile à surinterpréter : dans une lecture, je dis ce qui repose sur lui et ce qui repose ailleurs, car un seul contact ne décide jamais d’un thème ([ma façon de lire](/how-i-read/)).
 
@@ -53,7 +53,7 @@ Les autres aspects de la paire changent les termes du marché :
 - **[Soleil trigone Mars](/astrology/sun-trine-mars/) :** deux signes plus loin, dans un même élément ; moins une porte à ouvrir qu’une route déjà tracée.
 - **[Soleil opposition Mars](/astrology/sun-opposite-mars/) :** le plus rare des cinq, avec Mars rétrograde ; l’élan se tient en face de vous, souvent chez les autres.
 
-Entre deux personnes, [Soleil sextile Mars en synastrie](/astrology/sun-sextile-mars-synastry/) rend l’énergie de l’une utile aux projets de l’autre : la personne qui vous met en mouvement, celle dont l’élan sert vos plans. Je le lis des deux côtés.
+Entre deux personnes, [Soleil sextile Mars en synastrie](/astrology/sun-sextile-mars-synastry/) rend l’énergie de l’une utile aux projets de l’autre : la personne qui vous met en mouvement, celle dont l’élan sert vos plans.
 
 ## En transit {#en-transit}
 

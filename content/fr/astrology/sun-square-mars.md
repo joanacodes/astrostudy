@@ -53,10 +53,10 @@ Comparé à ses voisins, le carré est celui qui demande de viser :
 - **[Soleil trigone Mars](/astrology/sun-trine-mars/) :** un signe plus loin, dans un même élément ; l’effort court avec le but au lieu de le traverser.
 - **[Soleil opposition Mars](/astrology/sun-opposite-mars/) :** l’autre bout, avec Mars rétrograde ; la friction passe à l’extérieur et arrive souvent par les autres.
 
-Entre deux thèmes, [Soleil carré Mars en synastrie](/astrology/sun-square-mars-synastry/), c’est l’élan de l’une des deux personnes qui appuie sur la direction de l’autre : stimulant ou usant, selon la façon dont chacune vit la friction. Je le lis pour chacune des deux personnes.
+Entre deux thèmes, [Soleil carré Mars en synastrie](/astrology/sun-square-mars-synastry/), c’est l’élan de l’une des deux personnes qui appuie sur la direction de l’autre : stimulant ou usant, selon la façon dont chacune vit la friction, et selon qu’il existe ou non un projet commun vers lequel la tourner.
 
 ## En transit {#en-transit}
 
-Dans le ciel, Mars forme un carré avec votre Soleil natal à peu près une fois par an et le garde quelques jours, et l’énergie a tendance à devancer les plans ; les carrés du Soleil à Mars dans votre thème, deux fois par an, passent en une journée ([transits](/astrology/transits/)). Si Mars rétrograde près du carré, la visite peut s’étirer sur des semaines.
+Dans le ciel, Mars forme un carré avec votre Soleil natal à peu près une fois par an et le garde quelques jours, et l’énergie a tendance à devancer les plans ([transits](/astrology/transits/)). Si Mars rétrograde près du carré, la visite peut s’étirer sur des semaines.
 
-Ce sont des jours utiles pour un effort que vous repoussez, moins pour la patience. Une météo, pas une prédiction : une température, jamais un événement.
+Ces jours-là conviennent à un effort que vous repoussez, moins à la patience. Une météo, pas une prédiction : une température, jamais un événement.

@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 19
 glyph: "☉⚹♄"
-definition: "With Sun sextile Saturn, Saturn stood two signs from your Sun at birth, about 60° away, usually in a complementary element. In a chart, structure and patience are on offer to your purpose. I read it as the slow kind of help: discipline you can lean on, once you choose to."
+definition: "With Sun sextile Saturn, Saturn was 60° from your Sun at birth, in a sign two away and usually of a complementary element. In a chart, structure and patience are on offer to your purpose. I read it as the slow kind of help: discipline you can lean on, once you choose to."
 facts:
   - { k: "Bodies", v: "The Sun ☉ and Saturn ♄" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -31,7 +31,7 @@ Saturn's help is the slow kind, and Sun sextile Saturn offers it to your purpose
 
 ## What it means {#what-it-means}
 
-The [Sun](/astrology/sun/) is your direction and your vitality, the self you're building. [Saturn](/astrology/saturn/) is how anything gets built to last: structure, responsibility, boundaries, the discipline of coming back to a task. With a [sextile](/astrology/sextile/) between them, cooperation is on the table, and it waits for your yes.
+The [Sun](/astrology/sun/) brings direction and vitality, the self you're building. [Saturn](/astrology/saturn/) is how anything gets built to last: structure, responsibility, boundaries, the discipline of coming back to a task. With a [sextile](/astrology/sextile/) between them, cooperation is on the table, and it waits for your yes.
 
 In ordinary life, patience tends to be available when your purpose needs it. A routine that holds, a mentor who steadies you, a deadline that helps rather than crushes: these come more easily to you than to many. Responsibility feels less like a weight than like a tool, and you're often the one who turns a good idea into a plan that survives a Monday morning.
 
@@ -39,7 +39,7 @@ What the sextile won't do is insist. Saturn's gifts accumulate only with use, so
 
 ## In a birth chart {#in-a-birth-chart}
 
-Usually one of the two sits in fire and the other in air, or one in earth and the other in water. A Sun in Gemini with Saturn in Leo gives ideas a backbone of commitment; a Sun in Scorpio with Saturn in Capricorn, Saturn's own sign, gives depth a long-term plan. The houses show where the help lands: the Sun's house is where you're becoming yourself, Saturn's is where you build, and the sextile lets one lean on the other.
+Usually one of the two sits in fire and the other in air, or one in earth and the other in water. A Sun in Gemini with Saturn in Leo gives ideas a backbone of commitment; a Sun in Scorpio with Saturn in Capricorn, Saturn's own sign, gives depth a long-term plan. The houses show where the help lands: Saturn's house is where you build, and the sextile lets the Sun's house, where you're growing into yourself, lean on it.
 
 The sextile is shared by about 1 person in 11, within 8°. Both of the year's Sun–Saturn sextiles come while Saturn is moving forward, and each lasts two or three weeks, so the aspect marks people born in a particular few weeks of a particular year. Saturn is the planet I read most closely, for reasons I set out in [the three that held](/blog/saturn-chiron-lilith/); even a quiet contact like this one gets its time.
 
@@ -50,10 +50,10 @@ From the sextile, the pair's other aspects read like this:
 - **[Sun trine Saturn](/astrology/sun-trine-saturn/):** two signs further, in one element; the help no longer waits to be asked.
 - **[Sun opposite Saturn](/astrology/sun-opposite-saturn/):** across the chart, Saturn retrograde; structure arrives through other people and has to be negotiated.
 
-Between two people, [Sun sextile Saturn in synastry](/astrology/sun-sextile-saturn-synastry/) is one person's steadiness serving the other's direction: the friend who helps you keep a promise to yourself. I read it in both directions, and gently.
+Between two people, [Sun sextile Saturn in synastry](/astrology/sun-sextile-saturn-synastry/) is one person's steadiness serving the other's direction: the friend who helps you keep a promise to yourself. Help this slow is easy to overlook, by the one who gives it as much as by the one who gets it.
 
 ## In transits {#in-transits}
 
-Over Saturn's cycle of about 29½ years, its sextiles to your natal Sun come roughly five years after each crossing and five before the next ([transiting Saturn sextile natal Sun](/astrology/transiting-saturn-sextile-natal-sun/)). Saturn spends about two and a half years in a sign, so the sextile stays within a degree or two for weeks at a time, sometimes in three passes. The Sun's sextiles to your natal Saturn, twice a year, pass in a day or two.
+Over Saturn's cycle of about 29½ years, its sextiles to your natal Sun come roughly five years after each crossing and five before the next ([transiting Saturn sextile natal Sun](/astrology/transiting-saturn-sextile-natal-sun/)). Saturn spends about two and a half years in a sign, so the sextile stays within a degree or two for weeks at a time, sometimes in three passes.
 
-I read the Saturn sextile as a good season to lay foundations: a course, a commitment, a plan with a ten-year shape. Weather, not a forecast: support on offer, if you build with it.
+That season suits laying foundations: a course, a commitment, a plan with a ten-year shape. Weather, not a forecast: support on offer, if you build with it.

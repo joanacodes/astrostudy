@@ -42,7 +42,7 @@ Over time the work is to take both ends back: to let your sense of who you are i
 
 The two fall in opposite signs that share a modality: a Sun in Gemini with Mars in Sagittarius, quick wits across from a drive for the far horizon; a Sun in Cancer with Mars in Capricorn, care across from ambition. Opposite houses often hold them too. With the 1st and 7th, your own initiative faces a partner's; with the 4th and 10th, home faces an ambition you fight for.
 
-About 1 person in 66 has the Sun and Mars within 8° of an opposition; none of the pair's other aspects comes close to being so rare. Mars faces the Sun only once in a little over two years, in the middle of its retrograde, and at that point the Sun moves forward while Mars appears to move back: the two pull through the orb in a matter of days. So everyone with this aspect has Mars retrograde in their chart ([Mars retrograde](/astrology/mars-retrograde/)), which I read as drive that works inward first, then acts ([natal retrograde planets](/blog/retrograde-planets/)).
+Only about 1 person in 66 is born with Mars opposite the Sun, within 8°; none of the pair's other aspects comes close to being so rare. Mars faces the Sun only once in a little over two years, in the middle of its retrograde, and at that point the Sun moves forward while Mars appears to move back: the two pull through the orb in a matter of days. So everyone with this aspect has Mars retrograde in their chart ([Mars retrograde](/astrology/mars-retrograde/)), which I read as drive that works inward first, then acts ([natal retrograde planets](/blog/retrograde-planets/)).
 
 The other aspects of the pair sit elsewhere in the same cycle:
 
@@ -55,6 +55,6 @@ Between two charts, [Sun opposite Mars in synastry](/astrology/sun-opposite-mars
 
 ## In transits {#in-transits}
 
-Mars opposes your natal Sun once on each trip round the zodiac, about every two years, for a few days; the Sun opposes your natal Mars every year, and briefly ([transits](/astrology/transits/)). Born with the opposition, you have a neat overlap: Mars coming back to its own place in your chart also stands opposite your Sun, so each return of Mars echoes your birth.
+Mars opposes your natal Sun once on each trip round the zodiac, about every two years, for a few days ([transits](/astrology/transits/)). Born with the opposition, you have a neat overlap: Mars coming back to its own place in your chart also stands opposite your Sun, so each return of Mars echoes your birth.
 
 A few days, then, when the push seems to come from outside, and you choose how to meet it: weather, not a forecast.

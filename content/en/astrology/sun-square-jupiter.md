@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 15
 glyph: "☉□♃"
-definition: "Sun square Jupiter puts Jupiter about 90° from your Sun, three signs away and usually in the same modality. In a chart, your direction and your urge to grow pull at an angle: more appetite than time. I read it as friction that teaches measure, and a generosity that learns its own size."
+definition: "Sun square Jupiter puts Jupiter about 90° from your Sun, generally in a sign that shares your Sun's modality. In a chart, direction and the urge to grow pull at an angle: more appetite than time. I read it as friction that teaches measure, and a generosity that learns its own size."
 facts:
   - { k: "Bodies", v: "The Sun ☉ and Jupiter ♃" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the square, among the four he counts" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people are born with it, within 8°" }
 ---
-Sun square Jupiter belongs to people who want a great deal from life and keep having to choose among it. Your Sun and Jupiter sit a quarter of the circle apart, and between your direction and your appetite for more, the friction does the teaching.
+Sun square Jupiter belongs to people who want a great deal from life and keep having to choose among it. Between your direction and your appetite for more, set at right angles, the friction does the teaching.
 
 ## What it means {#what-it-means}
 
@@ -52,10 +52,10 @@ Its siblings show the same two functions at other angles:
 - **[Sun trine Jupiter](/astrology/sun-trine-jupiter/):** a sign further, in one element; purpose and growth agree on the pace.
 - **[Sun opposite Jupiter](/astrology/sun-opposite-jupiter/):** the far end, Jupiter retrograde; the pull towards more stands across from you, often in someone else.
 
-Between two charts, [Sun square Jupiter in synastry](/astrology/sun-square-jupiter-synastry/) is one person's expansiveness pressing on the other's sense of direction: inspiring one week, too much the next. I'd read it with both people, and in both directions.
+Between two charts, [Sun square Jupiter in synastry](/astrology/sun-square-jupiter-synastry/) is one person's expansiveness pressing on the other's sense of direction: inspiring one week, too much the next, and where that line falls is for each of them to say.
 
 ## In transits {#in-transits}
 
-The square between Jupiter in the sky and your natal Sun comes round about every six years, from one side and then the other: [transiting Jupiter square natal Sun](/astrology/transiting-jupiter-square-natal-sun/). Crossing a sign takes Jupiter about a year, so each square lingers for a few weeks, and comes back in up to three passes when Jupiter turns retrograde near it. The Sun's own squares to your natal Jupiter, twice a year, last a day or two.
+The square between Jupiter in the sky and your natal Sun comes round about every six years, from one side and then the other: [transiting Jupiter square natal Sun](/astrology/transiting-jupiter-square-natal-sun/). Crossing a sign takes Jupiter about a year, so each square lingers for a few weeks, and comes back in up to three passes when Jupiter turns retrograde near it.
 
-I read the Jupiter square as a season when it's easy to take on too much: good for ambition, less good for keeping track of what you've already promised. Weather, not a forecast: it describes an appetite, not what you'll get.
+To me, the Jupiter square is a season when it's easy to take on too much: good for ambition, less good for keeping track of what you've already promised. Weather, not a forecast: it describes an appetite, not what you'll get.

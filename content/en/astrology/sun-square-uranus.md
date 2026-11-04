@@ -27,11 +27,11 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the square, made of signs of opposite kinds" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people are born with it, within 8°" }
 ---
-Sun square Uranus is the aspect of someone who keeps outgrowing the shape they've just made. The Sun and Uranus sit a quarter of the circle apart, and between your sense of direction and your need for freedom, the friction keeps asking for something better.
+Sun square Uranus is the aspect of someone who keeps outgrowing the shape they've just made. Direction and the need for freedom meet here at right angles, and the friction keeps asking for something better.
 
 ## What it means {#what-it-means}
 
-The [Sun](/astrology/sun/) is your purpose and the identity you're building around it. [Uranus](/astrology/uranus/) is the urge to differ, experiment and reform, and to keep room for autonomy. Set a quarter of the circle apart, in a [square](/astrology/square/), they work by friction: Uranus keeps unsettling what the Sun has just arranged, and the Sun keeps asking Uranus what the change is for.
+Purpose, and the identity you're building around it: that's the [Sun](/astrology/sun/). [Uranus](/astrology/uranus/) is the urge to differ, experiment and reform, and to keep room for autonomy. Set a quarter of the circle apart, in a [square](/astrology/square/), they work by friction: Uranus keeps unsettling what the Sun has just arranged, and the Sun keeps asking Uranus what the change is for.
 
 You may know the pattern. A job, a home or a role fits for a while, then starts to feel like a cage; you push for change, sometimes before you know what you want instead. Authority that can't explain itself annoys you, and so does your own past self when it made plans you've outgrown. Uranus describes reform, not disorder, and this square isn't a verdict on your stability.
 
@@ -48,12 +48,12 @@ The rest of the family, from the square:
 - **[Sun conjunct Uranus](/astrology/sun-conjunct-uranus/):** no angle; difference is part of your identity, and the friction turns into a question of belonging.
 - **[Sun sextile Uranus](/astrology/sun-sextile-uranus/):** a sign closer; the same urge for change arrives as openings you choose.
 - **[Sun trine Uranus](/astrology/sun-trine-uranus/):** a sign further, in one element; originality and direction keep step.
-- **[Sun opposite Uranus](/astrology/sun-opposite-uranus/):** at the far end, Uranus retrograde; the push for change comes from across the table, often through other people.
+- **[Sun opposite Uranus](/astrology/sun-opposite-uranus/):** at the far end, Uranus retrograde; the push for change comes from across the table, carried by other people.
 
-Between two charts, [Sun square Uranus in synastry](/astrology/sun-square-uranus-synastry/) is one person's need for freedom pressing on the other's sense of direction: stimulating, sometimes jolting. I read it in both directions.
+Between two charts, [Sun square Uranus in synastry](/astrology/sun-square-uranus-synastry/) is one person's need for freedom pressing on the other's sense of direction: stimulating, sometimes jolting, and the jolt is rarely felt the same way on both sides.
 
 ## In transits {#in-transits}
 
-[Transiting Uranus square natal Sun](/astrology/transiting-uranus-square-natal-sun/) comes at most twice in a lifetime and lasts a year or more, often in three passes. The Sun's squares to your natal Uranus, twice a year, pass in a day or two. Your own crossing, Uranus over your natal Sun, falls in your early twenties if Uranus was a quarter of the circle behind your Sun at birth, or in your sixties if it was ahead.
+[Transiting Uranus square natal Sun](/astrology/transiting-uranus-square-natal-sun/) can come twice in a long life, never more, and each time it spreads over a year or more. Your own crossing, Uranus over your natal Sun, falls in your early twenties if Uranus was a quarter of the circle behind your Sun at birth, or in your sixties if it was ahead.
 
 I read the Uranus square as a season for overdue changes, better chosen than resisted. Weather, not a forecast: a strong wind of change, and you still hold the rudder.

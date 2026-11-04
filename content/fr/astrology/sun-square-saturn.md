@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes naissent avec cet aspect, à 8° près" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "Saturne parmi les trois placements qui ont le plus souvent tenu" }
 ---
-Soleil carré Saturne est l’aspect des personnes qui ont dû gagner leur propre confiance, lentement et souvent contre le doute. Le Soleil et Saturne se tiennent à un quart de cercle, et entre ce que vous visez et ce que la structure exige, la friction ne cesse de bâtir quelque chose.
+Soleil carré Saturne est l’aspect des personnes qui ont dû gagner leur propre confiance, lentement et souvent contre le doute. Le but d’un côté, les exigences de la structure de l’autre, à angle droit : la friction entre les deux ne cesse de bâtir quelque chose.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
@@ -43,19 +43,19 @@ Et la friction bâtit vraiment quelque chose. Chaque retard que vous traversez s
 
 Le plus souvent, leurs signes ont le même mode. Cardinal, un Soleil en Cancer avec Saturne en Balance met en tension le soin et la justice ; fixe, un Soleil en Lion avec Saturne en Taureau, l’expression de soi et la prudence ; mutable, un Soleil en Sagittaire avec Saturne en Poissons, le goût du voyage et le besoin d’une forme. Dans les maisons, le Soleil marque l’endroit où vous voulez briller, Saturne celui où vous vous sentez comptable des choses, et le carré relie les deux.
 
-À 8° près, le carré se retrouve chez environ 1 personne sur 11. Le Soleil le forme deux fois par an, pendant deux ou trois semaines à chaque fois : le carré est donc partagé par les personnes nées dans une même période d’une année donnée. Mon carnet ne donne pas de chiffre pour les aspects, mais Saturne, dans son signe et sa maison, fait partie des [trois qui ont tenu](/blog/saturn-chiron-lilith/) le plus souvent : je prends donc ce carré au sérieux dans une lecture, avec douceur.
+À 8° près, le carré se retrouve chez environ 1 personne sur 11. Le Soleil le forme deux fois par an, pendant deux ou trois semaines à chaque fois : le carré est donc partagé par les personnes nées dans une même période d’une année donnée. Mon carnet ne donne pas de chiffre pour les aspects, mais les placements de Saturne, signe et maison, comptent parmi les [trois qui ont tenu](/blog/saturn-chiron-lilith/) le plus souvent : je prends donc ce carré au sérieux dans une lecture, avec douceur.
 
-Autour de lui, les autres aspects de la paire :
+Autour de ce carré gravitent les quatre autres aspects du couple :
 
 - **[Soleil conjonction Saturne](/astrology/sun-conjunct-saturn/) :** aucun angle ; la structure fait partie de qui vous êtes, et la friction se retourne vers l’intérieur en gravité.
 - **[Soleil sextile Saturne](/astrology/sun-sextile-saturn/) :** un signe plus près ; la même discipline offerte comme une aide, sans résistance.
-- **[Soleil trigone Saturne](/astrology/sun-trine-saturn/) :** un signe plus loin, dans un même élément ; la patience et le but s’accordent sur l’allure.
+- **[Soleil trigone Saturne](/astrology/sun-trine-saturn/) :** à un signe de plus, le même élément ; la patience et le but s’accordent sur l’allure.
 - **[Soleil opposition Saturne](/astrology/sun-opposite-saturn/) :** à l’autre bout, Saturne rétrograde ; les exigences arrivent de l’autre côté de la table, souvent par l’autorité.
 
-Entre deux thèmes, [Soleil carré Saturne en synastrie](/astrology/sun-square-saturn-synastry/), c’est le sens de la structure de l’une des deux personnes qui pèse sur l’identité de l’autre : cela peut stabiliser un lien ou l’alourdir. Je le lis pour l’une et pour l’autre.
+Entre deux thèmes, [Soleil carré Saturne en synastrie](/astrology/sun-square-saturn-synastry/), c’est le sens de la structure d’une personne qui pèse sur l’identité de l’autre : cela peut stabiliser un lien ou l’alourdir, souvent selon que les exigences sont dites ou simplement supposées.
 
 ## En transit {#en-transit}
 
-Saturne forme un carré avec votre Soleil natal environ sept ans après l’avoir traversé, et de nouveau environ sept ans avant de le retraverser ; avec l’opposition entre les deux, ce sont les virages difficiles d’un cycle d’environ 29 ans et demi ([Saturne en transit carré Soleil du thème natal](/astrology/transiting-saturn-square-natal-sun/)). Avec deux ans et demi par signe, chaque carré de Saturne dure des mois, en trois passages au plus. Les carrés du Soleil à Saturne dans votre thème, deux fois par an, passent en un jour ou deux.
+Saturne forme un carré avec votre Soleil natal environ sept ans après l’avoir traversé, et de nouveau environ sept ans avant de le retraverser ; avec l’opposition entre les deux, ce sont les virages difficiles d’un cycle d’environ 29 ans et demi ([Saturne en transit carré Soleil du thème natal](/astrology/transiting-saturn-square-natal-sun/)). Avec deux ans et demi par signe, chaque carré de Saturne dure des mois, en trois passages au plus.
 
-J’y lis une saison d’épreuves qui portent surtout sur la structure : ce qui tient, et ce qui demande d’être rebâti. Une météo, pas une prédiction : une météo exigeante, mais une météo seulement.
+J’y vois une saison d’épreuves qui portent surtout sur la structure : ce qui tient, et ce qui demande d’être rebâti. Une météo, pas une prédiction : une météo exigeante, mais une météo seulement.

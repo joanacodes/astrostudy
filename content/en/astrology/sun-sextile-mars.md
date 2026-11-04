@@ -41,7 +41,7 @@ That doesn't make effort automatic. Opportunity still requires engagement, and a
 
 Its two signs usually belong to fire and air, or to earth and water. A Sun in Aries with Mars in Gemini moves fast and talks while it moves; a Sun in Virgo with Mars in Cancer works carefully for the people it looks after. The houses show where the cooperation runs: the Sun's house is where you're trying to become yourself, Mars's is where your effort goes, and the sextile lets one feed the other.
 
-About 1 person in 8 has the Sun and Mars within 8° of a sextile, more than for any other of their five major aspects. The reason is in their cycle. The Sun is always the faster, but both sextiles fall on the stretch where Mars is still moving forward at a fair pace, so the Sun gains on it slowly and the aspect lingers. Further round, as Mars slows towards its retrograde, the Sun moves through each aspect more quickly, and the trine and the opposition become much rarer.
+With about 1 person in 8 born within 8° of it, the sextile is the commonest of the pair's five major aspects. The reason is in their cycle. The Sun is always the faster, but both sextiles fall on the stretch where Mars is still moving forward at a fair pace, so the Sun gains on it slowly and the aspect lingers. Further round, as Mars slows towards its retrograde, the Sun moves through each aspect more quickly, and the trine and the opposition become much rarer.
 
 A sextile this common is easy to over-read, so in a reading I say what rests on it and what rests elsewhere: one contact never decides a chart ([how I read](/how-i-read/)).
 
@@ -52,7 +52,7 @@ The pair's other aspects change the terms of the deal:
 - **[Sun trine Mars](/astrology/sun-trine-mars/):** two signs further, in one element; less a door you open than a road already running.
 - **[Sun opposite Mars](/astrology/sun-opposite-mars/):** the rarest of the five, with Mars retrograde; the drive stands across from you, often in other people.
 
-Between two people, [Sun sextile Mars in synastry](/astrology/sun-sextile-mars-synastry/) makes one person's energy useful to the other's aims: the friend who gets you moving, the colleague whose push suits your plans. I read it from both sides.
+Between two people, [Sun sextile Mars in synastry](/astrology/sun-sextile-mars-synastry/) makes one person's energy useful to the other's aims: the friend who gets you moving, the colleague whose push suits your plans.
 
 ## In transits {#in-transits}
 

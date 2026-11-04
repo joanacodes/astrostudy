@@ -44,7 +44,7 @@ La leçon est inscrite dans la définition même du Soleil : la vitalité n’e
 
 Leur signe commun donne son style à l’élan : en Bélier, rapide et direct ; en Taureau, lent et têtu ; en Vierge, soigneux et pratique. La maison montre où vous vous engagez : la 6, le travail quotidien ; la 10, une carrière pour laquelle vous vous battez ; la 1, votre façon d’entrer dans une pièce. À un degré ou deux près, le but et l’effort deviennent presque impossibles à distinguer.
 
-Environ 1 personne sur 14 a le Soleil et Mars à moins de 8° d’écart. Le Soleil est toujours le plus rapide des deux, mais à ce moment du cycle, Mars avance dans le même sens à bonne allure : le Soleil met des semaines à passer devant, et des personnes nées à quelques semaines d’intervalle partagent souvent l’aspect, chacune avec ses signes et ses maisons. Une naissance avant la rencontre exacte trouve le Soleil encore en approche de Mars ([aspects appliquants et séparants](/astrology/applying-and-separating-aspects/)). Mars n’est jamais rétrograde à cette rencontre : la période de [Mars rétrograde](/astrology/mars-retrograde/) vient environ un an plus tard, quand les deux se font face.
+Comptée à 8° près, la conjonction touche environ 1 personne sur 14. Le Soleil est toujours le plus rapide des deux, mais à ce moment du cycle, Mars avance dans le même sens à bonne allure : le Soleil met des semaines à passer devant, et des personnes nées à quelques semaines d’intervalle partagent souvent l’aspect, chacune avec ses signes et ses maisons. Une naissance avant la rencontre exacte trouve le Soleil encore en approche de Mars ([aspects appliquants et séparants](/astrology/applying-and-separating-aspects/)). Mars n’est jamais rétrograde à cette rencontre : la période de [Mars rétrograde](/astrology/mars-retrograde/) vient environ un an plus tard, quand les deux se font face.
 
 À partir de cette rencontre, le Soleil forme tous les autres aspects avec Mars :
 
@@ -53,10 +53,10 @@ Environ 1 personne sur 14 a le Soleil et Mars à moins de 8° d’écart. Le Sol
 - **[Soleil trigone Mars](/astrology/sun-trine-mars/) :** quatre signes d’écart, Mars près de son tournant rétrograde ; l’effort coule à côté du but au lieu de s’y fondre.
 - **[Soleil opposition Mars](/astrology/sun-opposite-mars/) :** l’autre bout du cycle, Mars rétrograde et au plus près de la Terre ; l’élan vous fait face au lieu d’habiter en vous.
 
-Entre deux thèmes, [Soleil conjonction Mars en synastrie](/astrology/sun-conjunct-mars-synastry/) dirige l’élan de l’une des deux personnes droit sur l’identité de l’autre, ce qui peut se vivre comme un encouragement ou comme une pression, selon les deux personnes. Je le lis des deux côtés, et seulement avec l’accord des deux ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Entre deux thèmes, [Soleil conjonction Mars en synastrie](/astrology/sun-conjunct-mars-synastry/) dirige l’élan de l’une des deux personnes droit sur l’identité de l’autre, ce qui peut se vivre comme un encouragement ou comme une pression. Seules les deux personnes peuvent me dire ce qu’il en est, et je ne lis donc ce contact qu’une fois leur accord donné ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
 
 ## En transit {#en-transit}
 
-Mars, dans le ciel, revient sur votre Soleil natal à peu près tous les deux ans et s’y attarde quelques jours ; quand une rétrogradation tombe sur ce degré, Mars repasse trois fois sur plusieurs mois, une saison plus longue de la même poussée. Le passage annuel du Soleil sur Mars dans votre thème est plus bref, un jour environ ([transits](/astrology/transits/)).
+Mars, dans le ciel, revient sur votre Soleil natal à peu près tous les deux ans ([transits](/astrology/transits/)) et s’y attarde quelques jours ; quand une rétrogradation tombe sur ce degré, Mars repasse trois fois sur plusieurs mois, une saison plus longue de la même poussée.
 
 Je lis Mars sur le Soleil comme une énergie qui cherche une direction, et le mieux est de lui en donner une. Une météo, pas une prédiction : la poussée est dans l’air, et ce que vous en faites vous appartient.

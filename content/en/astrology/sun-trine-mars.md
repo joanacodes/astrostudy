@@ -50,10 +50,10 @@ The rest of the family, seen from here:
 - **[Sun square Mars](/astrology/sun-square-mars/):** a sign closer, and the two signs no longer share an element; drive runs across purpose and has to be aimed.
 - **[Sun opposite Mars](/astrology/sun-opposite-mars/):** Mars in the middle of its retrograde, facing the Sun; what flows in you stands opposite you there, often embodied by others.
 
-Between two charts, [Sun trine Mars in synastry](/astrology/sun-trine-mars-synastry/) lets one person's energy run with the other's aims: shared projects that move without much pushing. I read it from either side.
+Between two charts, [Sun trine Mars in synastry](/astrology/sun-trine-mars-synastry/) lets one person's energy run with the other's aims: shared projects that move without much pushing.
 
 ## In transits {#in-transits}
 
-Every year or so, Mars in the sky trines your natal Sun for a few days, and in a year when Mars turns retrograde near that degree, the trine stretches over weeks: a long run of stamina, if you have something worth spending it on. The Sun's own trines to your natal Mars are brief, twice a year ([transits](/astrology/transits/)).
+Every year or so, Mars in the sky trines your natal Sun for a few days ([transits](/astrology/transits/)), and in a year when Mars turns retrograde near that degree, the trine stretches over weeks: a long run of stamina, if you have something worth spending it on.
 
 I'd keep those days for work that needs staying power. Weather, not a forecast: a following wind for effort, never a decision made for you.

@@ -27,13 +27,13 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, one of his two harmonious aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people are born with it, within 8°" }
 ---
-Sun trine Saturn is the aspect of someone for whom patience comes as a strength rather than a sacrifice. The Sun and Saturn sit a third of the circle apart, usually in one element, and structure, for once, is on your side.
+Sun trine Saturn is the aspect of someone for whom patience comes as a strength rather than a sacrifice. Four signs apart and usually sharing an element, the Sun and Saturn make structure your ally for once.
 
 ## What it means {#what-it-means}
 
 The [Sun](/astrology/sun/) is your purpose and the self it's building. [Saturn](/astrology/saturn/) is structure, responsibility and the long view: the part of you that makes things last. A [trine](/astrology/trine/) lets them reinforce each other, so purpose gets a framework and the framework gets a reason.
 
-Often it looks like steadiness. You can commit to something for years without feeling caged by it, and responsibility tends to feel like part of who you are rather than a burden. Deadlines, routines and slow progress are workable materials, not enemies. You're often the steady one, and you can carry that without resentment.
+Often it looks like steadiness. You can commit to something for years without feeling caged by it, and responsibility tends to feel like your own rather than a burden. Deadlines, routines and slow progress are workable materials, not enemies. You're often the steady one, and you can carry that without resentment.
 
 The trine's trap is the other side of Saturn: caution that becomes a habit. When structure comes this easily, the safe plan always looks reasonable, and the risk is declined before it's weighed. A trine's ease isn't a rule for living; I read this one at its best in people who use its steadiness to try things, not only to avoid them. Over the years, the trine can grow into what Saturn does well: looking after what deserves to last, in your own life and in other people's. That's less dramatic than ambition, and often more useful.
 
@@ -48,12 +48,12 @@ Set beside the trine, the pair's other aspects:
 - **[Sun conjunct Saturn](/astrology/sun-conjunct-saturn/):** structure fused with identity; seriousness sits closer to the bone.
 - **[Sun sextile Saturn](/astrology/sun-sextile-saturn/):** two signs apart; the same help, but it waits to be asked for.
 - **[Sun square Saturn](/astrology/sun-square-saturn/):** a sign closer and out of element; structure pushes back, and self-belief is earned.
-- **[Sun opposite Saturn](/astrology/sun-opposite-saturn/):** across the chart, with Saturn retrograde; the framework faces you, often in the form of other people's rules.
+- **[Sun opposite Saturn](/astrology/sun-opposite-saturn/):** six signs apart, Saturn retrograde; the framework faces you, often in the form of other people's rules.
 
-Between two charts, [Sun trine Saturn in synastry](/astrology/sun-trine-saturn-synastry/) gives a relationship a steady frame: one person's sense of structure supporting the other's direction. I read it in both directions, since steadying and being steadied feel different.
+Between two charts, [Sun trine Saturn in synastry](/astrology/sun-trine-saturn-synastry/) gives a relationship a steady frame: one person's sense of structure supporting the other's direction, the kind of contact that shows its worth over years rather than weeks.
 
 ## In transits {#in-transits}
 
-About ten years after Saturn crosses your Sun, and again about ten years before it returns there, it trines your natal Sun ([transiting Saturn trine natal Sun](/astrology/transiting-saturn-trine-natal-sun/)). Saturn's pace, about two and a half years a sign, keeps each trine in orb for weeks or months, sometimes in three passes. The Sun trines your natal Saturn twice a year, briefly.
+About ten years after Saturn crosses your Sun, and again about ten years before it returns there, it trines your natal Sun ([transiting Saturn trine natal Sun](/astrology/transiting-saturn-trine-natal-sun/)). Saturn's pace, about two and a half years a sign, keeps each trine in orb for weeks or months, sometimes in three passes.
 
-I read the Saturn trine as a season when effort compounds: a good time to commit to something long. Weather, not a forecast: a steady wind, and the sailing is yours.
+Effort compounds in those months, in my reading: a good time to commit to something long. Weather, not a forecast: a steady wind, and the sailing is yours.

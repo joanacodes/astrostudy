@@ -43,7 +43,7 @@ The lesson is written into the Sun's own definition: vitality isn't constant ene
 
 Their shared sign gives the drive its style: in Aries it's quick and direct, in Taurus slow and stubborn, in Virgo careful and practical. The house shows where you put yourself on the line: the 6th, daily work; the 10th, a career you fight for; the 1st, the way you walk into a room. Within a degree or two, purpose and effort are almost impossible to tell apart.
 
-About 1 person in 14 has the Sun and Mars within 8° of each other. The Sun is always the faster of the two, but at this point of their cycle Mars is moving the same way at a good pace, so the Sun takes weeks to get past it, and people born in the same few weeks often share the aspect, each with their own signs and houses. A birth before the exact meeting has the Sun still approaching Mars ([applying and separating aspects](/astrology/applying-and-separating-aspects/)). Mars is never retrograde at this meeting: its [Mars retrograde](/astrology/mars-retrograde/) comes about a year later, when the two stand opposite.
+The conjunction, counted within 8°, comes to about 1 person in 14. The Sun is always the faster of the two, but at this point of their cycle Mars is moving the same way at a good pace, so the Sun takes weeks to get past it, and people born in the same few weeks often share the aspect, each with their own signs and houses. A birth before the exact meeting has the Sun still approaching Mars ([applying and separating aspects](/astrology/applying-and-separating-aspects/)). Mars is never retrograde at this meeting: its [Mars retrograde](/astrology/mars-retrograde/) comes about a year later, when the two stand opposite.
 
 From this meeting, the Sun goes on to make every other aspect with Mars:
 
@@ -52,10 +52,10 @@ From this meeting, the Sun goes on to make every other aspect with Mars:
 - **[Sun trine Mars](/astrology/sun-trine-mars/):** four signs apart, with Mars near its retrograde turn; effort flows alongside purpose instead of fused with it.
 - **[Sun opposite Mars](/astrology/sun-opposite-mars/):** the far end of the cycle, Mars retrograde and closest to the Earth; the drive faces you instead of living inside you.
 
-Between two charts, [Sun conjunct Mars in synastry](/astrology/sun-conjunct-mars-synastry/) aims one person's drive straight at the other's sense of self, which can feel like encouragement or like pressure, depending on the two people. I read it from both sides, and only when both have agreed ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Between two charts, [Sun conjunct Mars in synastry](/astrology/sun-conjunct-mars-synastry/) aims one person's drive straight at the other's sense of self, which can feel like encouragement or like pressure. Only the two people can tell me which, so I read it once both have agreed, and not before ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
 
 ## In transits {#in-transits}
 
-Mars in the sky comes back to your natal Sun about every two years and lingers for a few days; when its retrograde falls on that degree, it crosses three times over several months, a longer season of the same push. The Sun's yearly pass over your Mars is quicker, a day or so ([transits](/astrology/transits/)).
+Mars in the sky comes back to your natal Sun about every two years ([transits](/astrology/transits/)) and lingers for a few days; when its retrograde falls on that degree, it crosses three times over several months, a longer season of the same push.
 
 I read Mars on the Sun as energy that wants a direction, and the best use of it is to give it one. Weather, not a forecast: the push is in the air, and what you do with it is yours.

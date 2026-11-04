@@ -41,7 +41,7 @@ What the sextile doesn't do is push. An opening you don't take simply closes, an
 
 Fire with air, earth with water: that is the usual pairing. A Sun in Libra with Jupiter in Leo grows through people and through generosity; a Sun in Capricorn with Jupiter in Pisces builds structures that leave room for imagination and meaning. The houses show where the doors are: the Sun's house is where you're becoming yourself, Jupiter's is where you look for growth, and the sextile keeps a corridor open between the two.
 
-About 1 person in 10 has the Sun and Jupiter within 8° of a sextile. Their cycle lasts a little over a year and holds two sextiles; Jupiter is moving forward at both, and the Sun needs a few weeks to cross each one. So the aspect belongs to everyone born during those few weeks of that year, and the Sun is the one that forms and dissolves it ([applying and separating aspects](/astrology/applying-and-separating-aspects/)).
+Allowing 8° of orb, about 1 person in 10 is born under this sextile. The Sun–Jupiter cycle lasts a little over a year and holds two sextiles; Jupiter is moving forward at both, and the Sun needs a few weeks to cross each one. So the aspect belongs to everyone born during those few weeks of that year, and the Sun is the one that forms and dissolves it ([applying and separating aspects](/astrology/applying-and-separating-aspects/)).
 
 Read against the sextile, the pair's other aspects look like this:
 
@@ -50,10 +50,10 @@ Read against the sextile, the pair's other aspects look like this:
 - **[Sun trine Jupiter](/astrology/sun-trine-jupiter/):** two signs further, in one element; the doors tend to open as you approach.
 - **[Sun opposite Jupiter](/astrology/sun-opposite-jupiter/):** six signs apart, Jupiter retrograde; openings come through other people and ask for proportion.
 
-Between two people, [Sun sextile Jupiter in synastry](/astrology/sun-sextile-jupiter-synastry/) is one person's sense of possibility serving the other's direction: the friend who suggests the course, the colleague who mentions your name. I read it in both directions, since the one offering and the one receiving see it differently.
+Between two people, [Sun sextile Jupiter in synastry](/astrology/sun-sextile-jupiter-synastry/) is one person's sense of possibility serving the other's direction: the friend who suggests the course, the colleague who mentions your name. The one who opens the door and the one who walks through it rarely tell the story the same way.
 
 ## In transits {#in-transits}
 
-Jupiter sextiles your natal Sun about two years after each time it crosses it, and again about two years before the next: [transiting Jupiter sextile natal Sun](/astrology/transiting-jupiter-sextile-natal-sun/). It moves about a sign a year, so each time it stays within a degree or two for a few weeks, and longer if it turns retrograde nearby. The Sun's sextiles to your natal Jupiter, twice a year, last a day or two.
+Jupiter sextiles your natal Sun about two years after each time it crosses it, and again about two years before the next: [transiting Jupiter sextile natal Sun](/astrology/transiting-jupiter-sextile-natal-sun/). It moves about a sign a year, so each time it stays within a degree or two for a few weeks, and longer if it turns retrograde nearby.
 
 I read Jupiter's sextile as one of the gentlest invitations in the sky: a season to apply, enrol, ask or offer. Weather, not a forecast: a door may open, and walking through it is up to you.

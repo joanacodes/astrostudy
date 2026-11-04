@@ -46,7 +46,7 @@ With at most about 47° between them, your Venus shares your Sun sign or sits on
 
 Venus meets the Sun twice in each cycle of about a year and a half, and the two meetings are very different. On the far side of the Sun, Venus travels the same way, only a little faster, and the pair stays together for weeks; that's the meeting most people with this aspect were born at. Between the Sun and the Earth, Venus is in the middle of a [Venus retrograde](/astrology/venus-retrograde/), and the two pass each other in days. Born then, with Venus retrograde, I read your values as worked out inside before they're shown ([natal retrograde planets](/blog/retrograde-planets/)). On the far side, Venus is also the faster of the two, so a birth before the exact meeting finds Venus still approaching ([applying and separating aspects](/astrology/applying-and-separating-aspects/)).
 
-Between two charts the pair is free of that 47° limit. [Sun conjunct Venus in synastry](/astrology/sun-conjunct-venus-synastry/) is one person's Sun on the other's Venus: appreciation flowing towards who the other person is. I read it in both directions, because admiring and being admired don't feel alike.
+Between two charts the pair is free of that 47° limit. [Sun conjunct Venus in synastry](/astrology/sun-conjunct-venus-synastry/) is one person's Sun on the other's Venus: appreciation flowing towards who the other person is, the plain pleasure of liking someone without wanting to change them.
 
 ## In transits {#in-transits}
 

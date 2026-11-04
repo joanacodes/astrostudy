@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 2
 glyph: "☉⚹☽"
-definition: "Soleil sextile Lune signifie qu’il y avait un croissant de lune à votre naissance, quelques jours avant ou après la nouvelle lune, le Soleil et la Lune à environ 60° l’un de l’autre. Dans un thème, votre direction et vos besoins affectifs peuvent s’entraider. J’y lis une offre de coopération, qui fonctionne dès que vous la saisissez."
+definition: "Soleil sextile Lune signifie qu’il y avait un croissant de lune à votre naissance, quelques jours avant ou après la nouvelle lune, avec environ 60° entre le Soleil et la Lune. Dans un thème, votre direction et vos besoins affectifs peuvent s’entraider. J’y lis une offre de coopération, qui fonctionne dès que vous la saisissez."
 facts:
   - { k: "Corps", v: "Le Soleil ☉ et la Lune ☽" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -55,7 +55,7 @@ Le mois fait passer les deux luminaires par chacun des autres aspects :
 - **[Soleil trigone Lune](/astrology/sun-trine-moon/) :** la lune gibbeuse ; le même genre d’aide, donnée sans qu’on la demande.
 - **[Soleil opposition Lune](/astrology/sun-opposite-moon/) :** la pleine lune, deux semaines après la nouvelle ; les luminaires cessent de s’aider de côté et se font face.
 
-Entre deux personnes, [Soleil sextile Lune en synastrie](/astrology/sun-sextile-moon-synastry/) est la forme amicale de ce contact : la direction de l’une et les besoins de l’autre, prêts à s’aider dès que l’une des deux le demande. Je le lis dans un sens comme dans l’autre.
+Entre deux personnes, [Soleil sextile Lune en synastrie](/astrology/sun-sextile-moon-synastry/) est la forme amicale de ce contact : la direction de l’une et les besoins de l’autre, prêts à s’aider dès que l’une des deux le demande.
 
 ## En transit {#en-transit}
 

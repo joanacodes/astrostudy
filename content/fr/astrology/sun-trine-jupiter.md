@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 16
 glyph: "☉△♃"
-definition: "Avec Soleil trigone Jupiter, Jupiter se trouve à environ 120° de votre Soleil, à quatre signes, en général dans le même élément. Dans un thème, le but et la croissance avancent de concert : ce que vous devenez a souvent du sens pour vous. J’y lis une croissance qui vient naturellement, et des portes qui s’ouvrent quand vous frappez."
+definition: "Avec Soleil trigone Jupiter, Jupiter se trouve à environ 120° de votre Soleil, le plus souvent dans un signe du même élément. Dans un thème, le but et la croissance avancent de concert : ce que vous devenez a souvent du sens pour vous. J’y lis une croissance qui vient naturellement, et des portes qui s’ouvrent quand vous frappez."
 facts:
   - { k: "Corps", v: "Le Soleil ☉ et Jupiter ♃" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -28,15 +28,15 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, qu’il dit harmonieux" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes naissent avec cet aspect, à 8° près" }
 ---
-Certaines personnes grandissent dans la direction qu’elles suivent déjà, et Soleil trigone Jupiter décrit cela. Les deux se tiennent à un tiers de cercle, en général dans un même élément, et les portes qu’ouvre ce trigone sont réelles, même si le trigone attend encore que vous frappiez.
+Certaines personnes grandissent dans la direction qu’elles suivent déjà, et Soleil trigone Jupiter décrit cela. Jupiter et votre Soleil se tiennent à 120°, dans un élément commun en règle générale, et les portes qu’ouvre ce trigone sont réelles, même si le trigone attend encore que vous frappiez.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-Le [Soleil](/astrology/sun/) est le moi au centre du thème, avec sa vitalité et ses visées. [Jupiter](/astrology/jupiter/) est la part de vous qui donne du sens et qui grandit : apprendre, relier, trouver le principe, élargir le cadre. Un [trigone](/astrology/trine/) permet aux deux de se renforcer : le but donne une direction à la croissance, et la croissance donne une raison au but.
+Le [Soleil](/astrology/sun/) se tient au centre du thème, avec sa vitalité et ses visées. [Jupiter](/astrology/jupiter/) est la part de vous qui donne du sens et qui grandit : apprendre, relier, trouver le principe, élargir le cadre. Un [trigone](/astrology/trine/) permet aux deux de se renforcer : le but donne une direction à la croissance, et la croissance donne une raison au but.
 
 Au quotidien, ce que vous devenez a souvent du sens pour vous. Apprendre nourrit votre direction, votre direction vous donne des choses à apprendre, et ce que vous croyez et ce que vous faites tirent rarement en sens contraire. On rencontre souvent ce trigone sous la forme de la générosité : vous partagez ce que vous savez, et vous partez du principe qu’il y a de la place pour que plusieurs personnes réussissent.
 
-La sagesse n’est pas la certitude, dans ma lecture de Jupiter, et c’est là que ce trigone peut trébucher. Une vision du monde qui s’accorde si bien avec qui vous êtes n’a peut-être jamais eu à être révisée. Je lis ce trigone au meilleur chez les personnes qui mettent sans cesse leurs convictions à l’épreuve, et qui frappent aux portes au lieu d’attendre qu’elles s’ouvrent.
+La sagesse n’est pas la certitude, dans ma lecture de Jupiter, et c’est là que ce trigone peut trébucher. Une vision du monde qui s’accorde si bien avec qui vous êtes n’a peut-être jamais eu à être révisée. Ce trigone réussit le mieux, dans ma lecture, aux personnes qui mettent sans cesse leurs convictions à l’épreuve, et qui frappent aux portes au lieu d’attendre qu’elles s’ouvrent.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
@@ -46,15 +46,15 @@ Environ 1 personne sur 12 a le Soleil et Jupiter à moins de 8° d’un trigone,
 
 Depuis le trigone, le reste de la famille se présente ainsi :
 
-- **[Soleil conjonction Jupiter](/astrology/sun-conjunct-jupiter/) :** la croissance fondue dans l’identité au lieu de lui tenir compagnie ; la mesure y est la leçon la plus difficile.
+- **[Soleil conjonction Jupiter](/astrology/sun-conjunct-jupiter/) :** la croissance fondue dans l’identité au lieu de lui tenir compagnie ; la mesure y coûte davantage.
 - **[Soleil sextile Jupiter](/astrology/sun-sextile-jupiter/) :** deux signes d’écart ; la même bienveillance, offerte sous forme d’ouvertures à trouver.
 - **[Soleil carré Jupiter](/astrology/sun-square-jupiter/) :** un signe plus près, hors élément ; l’appétit et le but se disputent les mêmes heures.
-- **[Soleil opposition Jupiter](/astrology/sun-opposite-jupiter/) :** de part et d’autre du thème, quand Jupiter brille le plus ; la vision plus large se tient devant vous au lieu d’être à côté.
+- **[Soleil opposition Jupiter](/astrology/sun-opposite-jupiter/) :** au moment où Jupiter brille le plus ; la perspective plus vaste vous fait face au lieu de vous accompagner.
 
-Entre deux personnes, [Soleil trigone Jupiter en synastrie](/astrology/sun-trine-jupiter-synastry/) laisse la générosité de l’une couler vers les projets de l’autre. Je le lis des deux côtés, et, comme pour toute synastrie, seulement avec l’accord des deux ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Entre deux personnes, [Soleil trigone Jupiter en synastrie](/astrology/sun-trine-jupiter-synastry/) laisse la générosité de l’une couler vers les projets de l’autre. Quand donner vient si facilement, il vaut la peine de demander dans quel sens la générosité circule surtout, et je le fais avec les deux personnes, si toutes deux l’acceptent ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
 
 ## En transit {#en-transit}
 
-Dans le ciel, le trigone suit son propre rythme : environ quatre ans après chaque passage de Jupiter sur votre Soleil, et de nouveau environ quatre ans avant le passage suivant ([Jupiter en transit trigone Soleil du thème natal](/astrology/transiting-jupiter-trine-natal-sun/)). Chaque visite dure quelques semaines, ou plusieurs mois l’année où Jupiter rétrograde près du trigone. Les trigones du Soleil à Jupiter dans votre thème sont brefs, deux fois par an.
+Dans le ciel, le trigone suit son propre rythme : environ quatre ans après chaque passage de Jupiter sur votre Soleil, et de nouveau environ quatre ans avant le passage suivant ([Jupiter en transit trigone Soleil du thème natal](/astrology/transiting-jupiter-trine-natal-sun/)). Chaque visite dure quelques semaines, ou plusieurs mois l’année où Jupiter rétrograde près du trigone.
 
-J’y lis une bonne saison pour les études, les voyages, la générosité, et pour demander. Une météo, pas une prédiction : de la place pour grandir, dont il faut encore se servir.
+À mes yeux, ces semaines se prêtent à la générosité, à l’étude, et à oser demander. Une météo, pas une prédiction : de la place pour grandir, dont il faut encore se servir.
