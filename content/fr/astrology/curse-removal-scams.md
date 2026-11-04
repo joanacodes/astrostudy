@@ -13,7 +13,7 @@ facts:
   - { k: "Ce que c’est", v: "Un tarif pour lever un sort que l’on vient de vous découvrir" }
   - { k: "Le signe qui ne trompe pas", v: "La personne qui trouve le sort vend le remède" }
   - { k: "Dans un thème natal", v: "Aucune planète, aucune maison, aucun aspect ne signifie une malédiction" }
-  - { k: "Dans mes lectures", v: "Les « malédictions à lever » font partie de ce que je refuse de lire" }
+  - { k: "Dans mes lectures", v: "Les « malédictions à lever » sont parmi les sujets que je refuse" }
   - { k: "Ce qui fait durer", v: "De nouveaux frais, le secret, et des menaces si vous arrêtez" }
   - { k: "Si vous avez payé", v: "Arrêtez, gardez toutes les traces, parlez-en, signalez-le" }
   - { k: "La honte", v: "Revient à la personne qui a pris l’argent" }
@@ -31,7 +31,7 @@ sources:
   - { title: "Ma méthode", page: "/how-i-read", note: "ce que je refuse de lire : les malédictions à lever, et tout « travail » payant pour vous en libérer" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons, dont la maison 12" }
 ---
-Cela commence souvent par quelque chose de vrai : une série de malchances, une rupture incompréhensible, la maladie d’un proche, le sentiment que quelque chose joue contre vous. Puis quelqu’un vous propose une explication, un sort, le mauvais œil, la jalousie de quelqu’un, avec un prix pour vous en débarrasser.
+Cela commence souvent par quelque chose de vrai : une série de malchances, une rupture incompréhensible, la maladie d’un proche, le sentiment que quelque chose joue contre vous. Puis quelqu’un vous propose une explication, un sort, le mauvais œil, la jalousie d’autrui, avec un prix pour vous en débarrasser.
 
 ## La réponse courte {#la-reponse-courte}
 

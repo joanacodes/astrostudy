@@ -25,16 +25,16 @@ faq:
   - q: "Pourquoi faut-il toujours payer davantage ?"
     a: "Parce que le travail ne peut pas être vérifié. Quand quelque chose de bien arrive, le rituel en a le mérite ; quand rien n’arrive, il y a une raison : un sort plus fort, quelqu’un qui résiste, un second rituel. Chaque réponse mène à un nouveau paiement : c’est le signe d’une offre bâtie autour de la facture."
   - q: "Proposez-vous des rituels ou des travaux spirituels ?"
-    a: "Non. Je lis des thèmes, et une lecture est une conversation avec vous-même, pas un service rendu sur qui que ce soit. Je ne fais aucun rituel, ne vends aucune protection et ne promets aucun résultat, et les malédictions à lever, avec tout travail payant pour vous en libérer, font partie de ce que je refuse de lire."
+    a: "Non. Je lis des thèmes, et une lecture est une conversation avec vous-même, pas un service rendu sur qui que ce soit. Je ne fais aucun rituel, ne vends aucune protection et ne promets aucun résultat, et lever des malédictions contre de l’argent fait partie des sujets que je refuse net."
 sources:
   - { title: "Ma méthode", page: "/how-i-read", note: "une lecture comme une conversation, pas une injonction ; les sujets que je refuse" }
-  - { title: "Avertissements", page: "/disclaimers", note: "ce que je ne prétends pas : un don, ou prédire l’avenir" }
+  - { title: "Avertissements", page: "/disclaimers", note: "des lectures pour réfléchir, sans aucun résultat promis" }
 ---
 On les vend sous bien des noms : travaux spirituels, rituels, retour affectif, déblocage, protection. Ces offres ont en commun la forme du marché : quelqu’un accomplit quelque chose pour vous, à un endroit où vous ne pouvez pas regarder, et vous payez un résultat avant de pouvoir savoir s’il est venu.
 
 ## La réponse courte {#la-reponse-courte}
 
-Personne ne peut être payé pour changer les sentiments de quelqu’un d’autre, la décision d’un juge, le choix d’un employeur ou votre chance en y travaillant hors de votre vue. Je ne vends aucun « travail », d’aucune sorte : ni rituel, ni protection, ni retour affectif. Une lecture de ma part est quelque chose que vous lisez et que vous méditez, [une conversation avec vous-même plutôt qu’une injonction](/how-i-read/), et jamais un service accompli sur quelqu’un d’autre.
+Nul ne peut être payé pour changer les sentiments de quelqu’un d’autre, la décision d’un juge, le choix d’un employeur ou votre chance en y travaillant hors de votre vue. Je ne vends aucun « travail », d’aucune sorte : ni rituel, ni protection, ni retour affectif. Une lecture de ma part est quelque chose que vous lisez et que vous méditez, [une conversation avec vous-même plutôt qu’une injonction](/how-i-read/), et jamais un service accompli sur quelqu’un d’autre.
 
 La foi, la prière et les rituels appartiennent aux personnes qui les pratiquent, et cette page ne parle des croyances de personne. Elle parle d’une transaction : de l’argent contre un résultat que personne ne peut vous montrer, et que personne ne peut vérifier.
 
@@ -60,4 +60,4 @@ Avant de payer qui que ce soit pour quoi que ce soit dans ce domaine, astrologue
 
 Revenez ensuite à ce que vous espériez voir changer, et à qui peut vraiment vous aider. Une rupture demande du temps, du sommeil et des gens qui vous aiment. Une recherche d’emploi demande des candidatures, et quelqu’un pour les relire avec vous. Un procès demande un avocat. Rien de tout cela n’est magique, et tout cela fait bouger quelque chose.
 
-Si vous avez déjà payé et qu’on vous en demande davantage, arrêtez là. Pour en sortir, les étapes sont les mêmes que face à un sort : gardez toutes les traces, parlez-en à une personne de confiance, appelez votre banque et signalez-le (voir [Signaler une arnaque](/astrology/how-to-report-a-scam/)). Et avant de prendre rendez-vous avec qui que ce soit, moi comprise, [Reconnaître un astrologue sérieux d’une arnaque](/astrology/how-to-tell-a-careful-astrologer-from-a-scam/) rassemble les signes à vérifier.
+Si vous avez déjà payé et qu’on vous en demande davantage, arrêtez là. Pour en sortir, les étapes sont les mêmes que face à un sort : gardez toutes les traces, confiez-vous à quelqu’un de proche, appelez votre banque et signalez ce qui s’est passé (voir [Signaler une arnaque](/astrology/how-to-report-a-scam/)). Et avant de prendre rendez-vous avec qui que ce soit, moi comprise, [Reconnaître un astrologue sérieux d’une arnaque](/astrology/how-to-tell-a-careful-astrologer-from-a-scam/) rassemble les signes à vérifier.

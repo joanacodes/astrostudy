@@ -24,10 +24,10 @@ faq:
   - q: "Why do they always need more money?"
     a: "Because the work can’t be checked. When something good happens, the ritual takes the credit; when nothing happens, there’s a reason: a stronger curse, someone resisting, a second ritual. Every answer leads to another payment, which is how you can tell the offer is built around the bill."
   - q: "Do you offer rituals or spiritual work?"
-    a: "No. I read charts, and a reading is a conversation with yourself, not a service done to anyone. I perform no rituals, sell no protections and promise no outcomes, and curses to lift, with any paid work to free you from one, are on my list of what I won’t read."
+    a: "No. I read charts, and a reading is a conversation with yourself, not a service done to anyone. I perform no rituals, sell no protections and promise no outcomes, and lifting curses for money is one of the subjects I refuse outright."
 sources:
   - { title: "How I read", page: "/how-i-read", note: "a reading as a conversation, not an instruction; the subjects I refuse" }
-  - { title: "Disclaimers", page: "/disclaimers", note: "what I don’t claim: a gift, or to predict the future" }
+  - { title: "Disclaimers", page: "/disclaimers", note: "readings for reflection, with no outcome promised" }
 ---
 It's sold under many names: spiritual work, rituals, bringing back a lost love, opening the way, protection. What the offers share is the shape of the deal: someone performs something on your behalf, somewhere you can't see, and you pay for a result before you can know whether it came.
 
@@ -59,4 +59,4 @@ Before paying anyone for anything in this field, astrologers included, ask three
 
 Then go back to what you hoped the work would change, and to who can really help with it. A break-up needs time, sleep and people who love you. A job search needs applications, and someone to read them over with you. A court case needs a lawyer. None of that is magic, and all of it moves something.
 
-If you've already paid and you're being asked for more, stop there. Getting out takes the same steps as with a curse: keep every record, tell someone you trust, call your bank, and report it ([How to report a scam](/astrology/how-to-report-a-scam/)). And before you book anyone, me included, [How to tell a careful astrologer from a scam](/astrology/how-to-tell-a-careful-astrologer-from-a-scam/) gathers the signs worth checking.
+If you've already paid and you're being asked for more, stop there. Getting out takes the same steps as with a curse: keep every record, talk to someone close to you, call your bank, and report what happened ([How to report a scam](/astrology/how-to-report-a-scam/)). And before you book anyone, me included, [How to tell a careful astrologer from a scam](/astrology/how-to-tell-a-careful-astrologer-from-a-scam/) gathers the signs worth checking.

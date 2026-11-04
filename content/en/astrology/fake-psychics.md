@@ -24,7 +24,7 @@ faq:
   - q: "How did the psychic know so much about me?"
     a: "Often through ordinary means: what you said or showed without noticing, what is public about you online, and statements broad enough to fit most people, which feel personal when they’re aimed at you. None of that needs a gift, and none of it means you were foolish to be moved."
   - q: "Are you a psychic?"
-    a: "No. I don’t claim a gift: there’s nothing in a reading you couldn’t learn yourself, with time. I read birth charts, I tested my own before reading anyone else’s, and I tell you which parts held less often. I don’t predict the future, and I’d be wary of anyone who says they can."
+    a: "No. I don’t claim a gift: there’s nothing in a reading you couldn’t learn yourself, with time. I read birth charts, I tested my own before reading anyone else’s, and I tell you which parts held less often. I don’t predict the future, and I’d treat anyone who claims to with caution."
 sources:
   - { title: "Disclaimers", page: "/disclaimers", note: "what I don’t claim: a gift, or the future" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "the invoice method: a tick or a cross beside each line" }
@@ -53,7 +53,7 @@ Approaches like these find people at their most open: after a death, a break-up,
 - **Ask first, pay after.** A careful reader tells you up front what they charge, what they won't read and what you'll receive. If they can't or won't, don't start. [How to tell a careful astrologer from a scam](/astrology/how-to-tell-a-careful-astrologer-from-a-scam/) goes further.
 - **Set your limit before you call.** Decide the total you're willing to spend, and end the call when you reach it, whatever is still left ‘to tell’.
 - **Never pay to remove something they found.** A curse, a block, a dark cloud: when the finder sells the removal, the problem was the product.
-- **Test what you were told.** Write it down, date it, and come back in six months with a pen: a tick for anything that came true in a way that couldn't have fitted anyone else, a cross for anything vague, wrong, or true of anyone. It's [the invoice method](/blog/i-tested-my-birth-chart/) I used on my own chart, and it's just as useful on predictions.
+- **Test what you were told.** Write it down, date it, and come back in six months with a pen: a tick for anything that came true so precisely it couldn't have been about anyone else, a cross for anything vague, wrong, or true of anyone. It's [the invoice method](/blog/i-tested-my-birth-chart/) I used on my own chart, and it's just as useful on predictions.
 - **If you've lost money,** keep the records and report it: [How to report a scam](/astrology/how-to-report-a-scam/).
 
 And if you keep going back because a reading is the one place you feel heard, that need deserves better than a meter running: people who know you and, if it would help, someone trained to listen ([When to see a professional instead](/astrology/when-to-see-a-professional-instead/)).

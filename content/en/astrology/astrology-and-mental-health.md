@@ -23,12 +23,12 @@ faq:
   - q: "Can astrology help with anxiety or depression?"
     a: "It can give you words for what you feel and remind you that hard times have seasons, and some people find comfort in that. It isn’t treatment. Anxiety and depression are worth taking to a doctor or a qualified therapist, and a reading can sit beside that care, never replace it."
   - q: "Is my Saturn return the reason I feel this way?"
-    a: "It may be part of how you make sense of this stretch of life, and I read the Saturn return as a season of review rather than a crisis. But if you’re struggling, don’t wait for a transit to end. Talk to a doctor or a therapist now: the timing of help shouldn’t depend on the sky."
+    a: "It may be part of how you make sense of this stretch of life, and I read the Saturn return as a time of taking stock rather than a crisis. But if you’re struggling, don’t wait for a transit to end. Talk to a doctor or a therapist now: the timing of help shouldn’t depend on the sky."
   - q: "What should I do if a reading upset me?"
     a: "Talk it through, with the person who gave it or with someone you trust. Nothing in a chart is a sentence, and a reading that leaves you frightened has missed its purpose. If the upset doesn’t settle, or it joins something heavier you were already carrying, please talk to a doctor."
 sources:
   - { title: "Disclaimers", page: "/disclaimers", note: "a reading can sit beside care, never in place of it; where to find help" }
-  - { title: "How I read", page: "/how-i-read", note: "not everything is in the stars: when the right door isn’t mine" }
+  - { title: "How I read", page: "/how-i-read", note: "when the right door is someone else’s, and I say so" }
 ---
 A chart can give you words for what you feel. It can't tell you what's wrong, and it can't make you well. Both halves matter, and this page is about keeping them in the right order.
 
@@ -44,8 +44,8 @@ In my own readings, the line is clear. Sometimes what someone carries is psychol
 
 Astrology's vocabulary can slide into medical language without anyone meaning it to, and that's where care is needed.
 
-- **No placement is a symptom.** I read the [Moon](/astrology/moon/) as the way you process feelings and needs, not as moodiness; [Neptune](/astrology/neptune/) as imagination and compassion, not addiction; [Chiron](/astrology/chiron/) as the place where you adapt around something that doesn't go away, not as trauma, and not as a promise of healing either. Tradition gave the [12th house](/astrology/12th-house/) confinement and hospitals. I read it as the part of life that happens out of sight, and a planet there is never a diagnosis.
-- **A transit can become a reason to wait.** ‘It's my [Saturn return](/astrology/saturn-return/).’ ‘It'll lift when Pluto changes sign.’ A transit can name a hard season, and I read transits as weather, not a forecast. But low mood, anxiety or sleeplessness that keeps going, or gets in the way of your days, isn't weather to sit out. It belongs with a doctor, whatever the sky is doing.
+- **No placement is a symptom.** I read the [Moon](/astrology/moon/) as the way you process feelings and needs, not as moodiness; [Neptune](/astrology/neptune/) as imagination and compassion, not addiction; [Chiron](/astrology/chiron/) as the place where you adapt around something that doesn't go away, not as trauma, and not as a promise of healing either. Tradition tied the [12th house](/astrology/12th-house/) to confinement and hospitals. I read it as the quieter, more private rooms of a life, and a planet there is never a diagnosis.
+- **A transit can become a reason to wait.** ‘It's my [Saturn return](/astrology/saturn-return/).’ ‘It'll lift when Pluto changes sign.’ A transit can name a hard season, and transits, to me, are weather rather than a forecast. But low mood, anxiety or sleeplessness that keeps going, or gets in the way of your days, isn't weather to sit out. It belongs with a doctor, whatever the sky is doing.
 - **A label can stick.** ‘I'm anxious because I'm a Virgo.’ A chart describes tendencies, never permissions and never sentences. Used to explain suffering, it can make the suffering feel fixed, which is the opposite of what it's for.
 - **Checking can become a habit you can't stop.** Reading your transits every morning, looking up the Moon before every conversation: when consulting the sky becomes something you can't put down, it's worth noticing. Take a break. The part of you that decides gets stronger with use.
 

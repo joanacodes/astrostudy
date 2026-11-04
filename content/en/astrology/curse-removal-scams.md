@@ -12,7 +12,7 @@ facts:
   - { k: "What it is", v: "A fee to lift a curse the seller has just found" }
   - { k: "The giveaway", v: "The person who finds the curse sells the cure" }
   - { k: "In a birth chart", v: "No planet, house or aspect means a curse" }
-  - { k: "In my readings", v: "“Curses to lift” are on my list of what I won’t read" }
+  - { k: "In my readings", v: "“Curses to lift” are among the subjects I refuse" }
   - { k: "How it keeps going", v: "New fees, secrecy, and threats about what happens if you stop" }
   - { k: "If you’ve paid", v: "Stop, keep every record, tell someone, report it" }
   - { k: "The shame", v: "Belongs to the person who took the money" }

@@ -25,7 +25,7 @@ faq:
   - q: "Comment un voyant peut-il en savoir autant sur moi ?"
     a: "Souvent par des moyens ordinaires : ce que vous avez dit ou montré sans y penser, ce qui est public à votre sujet en ligne, et des affirmations assez larges pour convenir à presque tout le monde, qui semblent personnelles parce qu’elles vous sont adressées. Rien de cela ne demande un don, et l’émotion ressentie n’avait rien de naïf."
   - q: "Êtes-vous voyante ?"
-    a: "Non. Je ne prétends à aucun don : il n’y a rien dans une lecture que vous ne puissiez apprendre vous-même, avec le temps. Je lis des thèmes natals, j’ai testé le mien avant tout autre, et je vous dis quelles parties ont moins tenu. Je ne prédis pas l’avenir, et je me méfierais de quiconque prétend le faire."
+    a: "Non. Je ne prétends à aucun don : il n’y a rien dans une lecture que vous ne puissiez apprendre vous-même, avec le temps. Je lis des thèmes natals, j’ai testé le mien avant tout autre, et je vous dis quelles parties ont moins tenu. Je ne prédis pas l’avenir, et je me garderais de quiconque prétend le faire."
 sources:
   - { title: "Avertissements", page: "/disclaimers", note: "ce que je ne prétends pas : un don, ou l’avenir" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "la méthode de la facture : une coche ou une croix à côté de chaque ligne" }
@@ -54,7 +54,7 @@ Ces démarches trouvent les gens au moment où ils sont le plus ouverts : aprè
 - **Demandez d’abord, payez ensuite.** Une personne sérieuse vous dit d’emblée ce qu’elle facture, ce qu’elle refuse de lire et ce que vous recevrez. Si elle ne peut pas ou ne veut pas, ne commencez pas. [Reconnaître un astrologue sérieux d’une arnaque](/astrology/how-to-tell-a-careful-astrologer-from-a-scam/) va plus loin.
 - **Fixez votre limite avant d’appeler.** Décidez du total que vous acceptez de dépenser, et raccrochez quand vous l’atteignez, quoi qu’il reste « à vous dire ».
 - **Ne payez jamais pour retirer ce qu’on vient de trouver.** Un sort, un blocage, un nuage noir : quand la personne qui trouve le problème vend aussi sa suppression, le problème était le produit.
-- **Mettez la prédiction à l’épreuve.** Notez-la, datez-la, et revenez-y dans six mois, un stylo à la main : une coche pour ce qui s’est réalisé d’une façon qui n’aurait convenu à personne d’autre, une croix pour ce qui était vague, faux ou vrai de tout le monde. C’est [la méthode de la facture](/blog/i-tested-my-birth-chart/) que j’ai appliquée à mon propre thème, et elle marche aussi bien sur les prédictions.
+- **Mettez la prédiction à l’épreuve.** Notez-la, datez-la, et revenez-y dans six mois, un stylo à la main : une coche pour ce qui s’est réalisé avec une précision qui ne pouvait viser personne d’autre, une croix pour ce qui était vague, faux ou vrai de tout le monde. C’est [la méthode de la facture](/blog/i-tested-my-birth-chart/) que j’ai appliquée à mon propre thème, et elle marche aussi bien sur les prédictions.
 - **Si vous avez perdu de l’argent,** gardez les traces et signalez-le : voir [Signaler une arnaque](/astrology/how-to-report-a-scam/).
 
 Et si vous y retournez parce qu’une voyance est le seul endroit où l’on vous écoute, ce besoin mérite mieux qu’un compteur qui tourne : des gens qui vous connaissent et, si cela peut aider, une personne formée à l’écoute (voir [Quand consulter plutôt un professionnel](/astrology/when-to-see-a-professional-instead/)).
