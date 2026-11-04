@@ -48,7 +48,7 @@ Classés par vitesse, les luminaires ouvrent la liste des [planètes personnelle
 
 La relation entre les deux lumières s’écrit dans le ciel chaque mois. Quand la Lune rattrape le Soleil, c’est la [nouvelle lune](/astrology/new-moon/) ; quand elle lui fait face, la [pleine lune](/astrology/full-moon/) ; quand l’une ou l’autre tombe près des nœuds lunaires, une éclipse. L’angle entre votre Soleil et votre Lune est donc aussi la phase de votre naissance ([votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/)).
 
-En mots simples, le Soleil est la part de vous qui se rassemble autour d’un but et s’avance. La Lune veille sur ce que vous ressentez et sur vos besoins : votre façon de vous apaiser, de vous attacher, de trouver du réconfort, et de réagir quand les choses bougent. L’un est une direction, l’autre un port d’attache.
+En mots simples, le Soleil est la part de vous qui se rassemble autour d’un but et s’avance. La Lune veille sur ce que vous ressentez et sur vos besoins : votre façon de vous apaiser, de vous attacher, de trouver du réconfort, et de réagir quand les choses bougent. L’un est une direction, l’autre un port d’attache.
 
 Ils se relaient aussi. La tradition distinguait les thèmes de jour et de nuit selon que le Soleil était au-dessus de l’horizon à la naissance, une doctrine appelée la [secte](/astrology/sect-day-and-night-charts/) : de jour le Soleil mène, de nuit la Lune, et celui qui mène est le [luminaire de secte](/astrology/sect-light/).
 
@@ -60,7 +60,7 @@ Je lis les deux lumières ensemble avant de lire chacune à part. Ce que vous vi
 
 La Lune est celle à vérifier. Elle change de signe tous les deux jours et demi environ : le jour où elle change, seule l’heure de naissance peut dire quel signe est le vôtre ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)).
 
-Je les garde aussi à leur juste place. Quand j’ai testé des thèmes dans [mon carnet](/blog/i-tested-my-birth-chart/), le signe solaire a tenu environ une fois sur trois. La Lune est passée par les mêmes vérifications que tout le reste et ne fait pas partie des trois qui ont tenu bien plus souvent : Saturne, Chiron et Lilith. Avec l’ascendant, les luminaires forment donc le [big three](/astrology/big-three/), une première esquisse que je tiens avec légèreté, et la lecture la plus attentive va là où le carnet l’indique. C’est [ma méthode](/how-i-read/).
+Je les garde aussi à leur juste place. Quand j’ai testé des thèmes dans [mon carnet](/blog/i-tested-my-birth-chart/), le signe solaire a tenu environ une fois sur trois. La Lune est passée par les mêmes vérifications que tout le reste et ne fait pas partie des trois qui ont tenu bien plus souvent : Saturne, Chiron et Lilith. Avec l’ascendant, les luminaires forment donc le [big three](/astrology/big-three/), une première esquisse que je tiens avec légèreté, et la lecture la plus attentive va là où le carnet l’indique. C’est [ma méthode](/how-i-read/).
 
 ## Idées reçues {#idees-recues}
 

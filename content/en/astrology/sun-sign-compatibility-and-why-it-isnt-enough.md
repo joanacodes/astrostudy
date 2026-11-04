@@ -48,7 +48,7 @@ That last idea is old. Ptolemy described which signs regard each other, by trine
 
 You need only two birthdays. Find each Sun sign, count the signs between them, and note the elements and modalities. A Sun in Aries and one in Leo are four signs apart, both fire: a trine by sign. A Sun in Aries and one in Cancer are three apart, both cardinal, fire with water: a square by sign.
 
-That is the whole method, and its simplicity is the appeal: no birth time, no chart, a result in a minute.
+That is the whole method, and its simplicity is the appeal: no birth time, no chart, a result in a minute. It's also the weakness. Everything that depends on the time, the Moon's exact place, the angles and the houses, is missing, which is why I never read a relationship this way.
 
 ## What it shows {#what-it-shows}
 

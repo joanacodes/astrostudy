@@ -26,7 +26,7 @@ faq:
   - q: "Which of the big three matters most?"
     a: "None of them on its own. The Sun shows direction, the Moon needs and comfort, the rising sign your manner and first reactions, and they are most useful read against one another. In my notebook the Sun sign and the rising sign each held about a third of the time, so I treat all three as a beginning."
   - q: "Can I know my big three without a birth time?"
-    a: "Only two of them, and not always both. Your Sun sign is almost always clear from the date, and your Moon sign usually is, unless the Moon changed sign that day. Your rising sign can’t be known without the time: it goes through all twelve signs in a day."
+    a: "Not all of it. Your Sun sign is almost always clear from the date, and your Moon sign usually is, unless the Moon changed sign that day. Your rising sign can’t be known without the time: it goes through all twelve signs in a day. That’s why I don’t read a chart until the time is there."
 sources:
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how often the Sun sign and the rising sign held" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Ascendant, and the motions of the Sun and Moon" }
@@ -57,7 +57,7 @@ The big three is where I start, and I say so plainly: it's a first sketch, not t
 
 So I read the big three for orientation: the tone of a chart, how a person is likely to come across, what they're likely to need. Then I spend the most time where the notebook says to, and I tell you which parts of a reading rest on placements that held less often. That's [how I read](/how-i-read/).
 
-I also need all three, which means I need the time. Without it, the rising sign is missing, and the houses go with it: every planet loses the part of life it speaks to.
+I also need all three, which means I need the time. Without it, the rising sign is missing and the houses go with it, so every planet loses the part of life it speaks to; that's why there's no reading until the time is found.
 
 ## Common myths {#myths}
 

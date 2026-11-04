@@ -29,7 +29,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "his four aspects; the conjunction is a meeting, the same between two charts" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 8°" }
 ---
-Sun conjunct Moon in synastry puts one person's Sun on the other's Moon: who one of you is lands on the very spot where the other looks for comfort. Usually one sign holds both, so one person's nature and the other's needs speak the same language. I read it from both ends, because carrying the Sun here and carrying the Moon are different experiences.
+Sun conjunct Moon in synastry puts one person's Sun on the other's Moon: who one of you is lands on the very spot where the other looks for comfort. I read it from both ends, because carrying the Sun here and carrying the Moon are different experiences.
 
 ## What flows {#what-flows}
 
@@ -43,7 +43,7 @@ What flows between you is recognition: one person is seen for who they are, the 
 
 ## Where it rubs {#where-it-rubs}
 
-Two things this close can blur. The Moon person may start living to the Sun person's timetable without noticing, because it feels so natural: their needs quietly become whatever suits the other's plans, until the day they don't. The Sun person, for their part, can take the other's moods personally. If their presence usually settles the Moon person, an unsettled evening can feel like a verdict on who they are.
+Two things this close can blur. The Moon person may start living to the Sun person's timetable without noticing, because it feels so natural: their needs quietly become whatever suits the other's plans, until the day they don't. The Sun person can take the other's moods personally. If their presence usually settles the Moon person, an unsettled evening can feel like a verdict on who they are.
 
 Fusion is not identity loss, as I read the conjunction. The work is keeping two people distinct inside the familiarity, and the other angles show what changes when there's more room:
 
@@ -56,6 +56,6 @@ Fusion is not identity loss, as I read the conjunction. The work is keeping two 
 
 What helps is a little deliberate distance inside the closeness. The Moon person can check, now and then, whether a habit they've taken on is theirs or borrowed. The Sun person can ask what the other needs instead of assuming that their company covers it. In a couple, that might mean an evening each on your own; between friends or siblings, saying "not this time" without it meaning anything more; between coworkers, the Moon person keeping their own pace even when the Sun person sets a good one.
 
-About 1 pair of people in 11 has this conjunction, one way round or the other, within 8°: common enough that I never read it as fate. Both birth times matter here more than for most contacts. The Moon moves about 13° a day, so without the time it could sit anywhere across a span of about 13°, enough to make or unmake the meeting ([what changes without a birth time](/blog/unknown-birth-time/)). The houses, which show where in each life the contact lands, need both times too.
+About 1 pair of people in 11 has this conjunction, one way round or the other, within 8°: common enough that I never read it as fate. I don't begin a synastry without both birth times, and the Moon is one reason: it moves about 13° a day, so without the time it could sit anywhere across a span of about 13°, enough to make or unmake the meeting ([what changes without a birth time](/blog/unknown-birth-time/)). The houses, which show where in each life the contact lands, need both times too.
 
 Inside one chart, the same meeting is [Sun conjunct Moon](/astrology/sun-conjunct-moon/): someone born at a new moon carries both lights alone, which is a different story from two people sharing them. And because this contact reaches what each person needs to feel safe, I read it only when both have asked for the reading ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

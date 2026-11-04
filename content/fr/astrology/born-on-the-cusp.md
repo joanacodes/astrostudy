@@ -66,4 +66,4 @@ C’est [ma méthode](/how-i-read/) : le thème tel qu’il est calculé, avec 
 - **« Une naissance entre deux signes fait de vous une moitié de chacun. »** Le Soleil est dans un seul signe à chaque instant. Des planètes dans le signe voisin peuvent vous donner l’impression d’être des deux, et elles méritent d’être lues pour ce qu’elles sont.
 - **« Le passage d’un signe à l’autre dure plusieurs jours. »** Seul le jour du changement, à un jour près, est incertain, parce que l’instant varie d’une année à l’autre. À quelques jours de là, la date tranche.
 - **« Entre deux signes, on peut choisir celui qu’on préfère. »** Votre thème a déjà choisi : le degré du Soleil est une affaire de calcul. Ce que vous pouvez faire, c’est lire les autres planètes qui se trouvent dans le signe qui vous attire.
-- **« Le dernier degré d’un signe en est une version affaiblie. »** Être près du bord change la certitude qu’on peut avoir sans heure de naissance, pas la part du signe qui vous revient.
+- **« Le dernier degré d’un signe en est une version affaiblie. »** Être près du bord change l’importance de l’heure de naissance, pas la part du signe qui vous revient.

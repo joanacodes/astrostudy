@@ -27,7 +27,7 @@ faq:
   - q: "Lequel des trois compte le plus ?"
     a: "Aucun à lui seul. Le Soleil montre la direction, la Lune les besoins, l’ascendant votre manière d’être et vos premières réactions, et ils se lisent le mieux les uns par rapport aux autres. Dans mon carnet, le signe solaire et l’ascendant ont chacun tenu environ une fois sur trois : je prends les trois comme un point de départ."
   - q: "Peut-on connaître son big three sans l’heure de naissance ?"
-    a: "Deux sur trois seulement, et pas toujours. Le signe solaire se déduit presque toujours de la date, le signe lunaire le plus souvent aussi, sauf si la Lune a changé de signe ce jour-là. L’ascendant, lui, reste impossible à connaître sans l’heure : il passe par les douze signes en une journée."
+    a: "Pas tout entier. Le signe solaire se déduit presque toujours de la date, le signe lunaire le plus souvent aussi, sauf si la Lune a changé de signe ce jour-là. L’ascendant, lui, reste impossible à connaître sans l’heure : il passe par les douze signes en une journée. C’est pourquoi je ne lis pas de thème sans elle."
 sources:
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "combien de fois le signe solaire et l’ascendant ont tenu" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "l’ascendant, et les mouvements du Soleil et de la Lune" }
@@ -58,7 +58,7 @@ Le big three est mon point de départ, et je le dis clairement : c’est une pr
 
 Je lis donc le big three pour m’orienter : le ton d’un thème, la manière dont une personne risque d’apparaître, ce dont elle risque d’avoir besoin. Ensuite, je passe le plus de temps là où le carnet le conseille, et je vous dis quelles parties d’une lecture reposent sur des positions qui ont tenu moins souvent. C’est [ma méthode](/how-i-read/).
 
-Il me faut aussi les trois, donc l’heure. Sans elle, l’ascendant manque, et les maisons avec lui : chaque planète perd le domaine de vie dont elle parle.
+Il me faut aussi les trois, donc l’heure. Sans elle, l’ascendant manque, et les maisons avec lui : chaque planète perd le domaine de vie dont elle parle. C’est pourquoi il n’y a pas de lecture tant que l’heure n’est pas retrouvée.
 
 ## Idées reçues {#idees-recues}
 

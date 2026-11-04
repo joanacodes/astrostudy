@@ -59,7 +59,7 @@ Dans l’ordre du zodiaque, chaque signe de terre se trouve entre un signe de fe
 
 Les planètes en signes de terre montrent où vous avancez lentement, et arrivez. Plusieurs d’entre elles, ou un Soleil, une Lune ou un ascendant en terre, vont souvent avec un tempérament stable et pratique sur lequel les autres s’appuient. Aucune planète en terre, ce n’est pas un manque de bon sens : cela peut vouloir dire que la structure est quelque chose que vous allez chercher exprès, par des habitudes et grâce aux autres, plutôt qu’un sol sous vos pieds ([équilibre des éléments et éléments manquants](/astrology/element-balance-and-missing-elements/)).
 
-Le Capricorne appartient à Saturne, et c’est Saturne, avec Chiron et Lilith, qui a tenu 75 à 90 % du temps quand j’ai testé des thèmes dans [mon carnet](/blog/i-tested-my-birth-chart/). L’endroit où se trouve Saturne, par signe et par maison, reçoit donc ma lecture la plus attentive. Et comme les maisons de la terre touchent à l’argent et au travail, je le dis clairement : je lis votre façon de gérer l’un et l’autre, jamais ce que vous gagnerez ([L’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)).
+Le Capricorne appartient à Saturne, et c’est Saturne, avec Chiron et Lilith, qui a tenu 75 à 90 % du temps quand j’ai testé des thèmes dans [mon carnet](/blog/i-tested-my-birth-chart/). L’endroit où se trouve Saturne, par signe et par maison, reçoit donc ma lecture la plus attentive. Et comme les maisons de la terre touchent à l’argent et au travail, je le dis clairement : je lis votre façon de gérer l’un et l’autre, jamais ce que vous gagnerez ([L’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)).
 
 ## Idées reçues {#idees-recues}
 

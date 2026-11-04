@@ -62,7 +62,7 @@ Three things make the dates move.
 
 ## In a reading {#in-a-reading}
 
-For most people, the list is all they need: born on 5 May, you have the Sun in Taurus, whatever the year. Within a day or so of a change, though, the list can't settle it, and neither can I without the time. Then the date, the time and the place of birth decide, and the chart shows the Sun's exact degree ([born on the cusp](/astrology/born-on-the-cusp/)).
+For most people, the list is all they need: born on 5 May, you have the Sun in Taurus, whatever the year. Within a day or so of a change, though, the list can't settle it, and only the time can. Then the date, the time and the place of birth decide, and the chart shows the Sun's exact degree ([born on the cusp](/astrology/born-on-the-cusp/)).
 
 It's one more reason I don't read a chart without a birth time ([what changes without a birth time](/blog/unknown-birth-time/)). The time decides the rising sign and the houses, the Moon's sign on the day it changes, and the Sun's on the day the Sun changes. I write "about" before the dates on every page of this site for the same reason: they're the usual span, not a rule.
 

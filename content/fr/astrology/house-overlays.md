@@ -14,7 +14,7 @@ facts:
   - { k: "Ce que c’est", v: "Les planètes d’une personne placées dans les maisons de l’autre" }
   - { k: "Lecture", v: "Dans les deux sens : les siennes dans vos maisons, les vôtres dans les siennes" }
   - { k: "Vos maisons demandent", v: "Votre heure de naissance" }
-  - { k: "Ses planètes demandent", v: "Sa date de naissance ; son heure aussi pour la Lune, ou près d’une cuspide" }
+  - { k: "Son thème demande", v: "Son heure de naissance aussi : pour ses maisons, sa Lune, et les planètes proches de vos cuspides" }
   - { k: "Mon système de maisons", v: "Placidus" }
   - { k: "Près d’un angle", v: "La planète rencontre aussi votre ascendant, votre Fond du Ciel, votre descendant ou votre Milieu du Ciel" }
   - { k: "Les planètes lentes", v: "Partagées par toutes les personnes nées à quelques années près : deux époques qui se rencontrent" }
@@ -24,7 +24,7 @@ faq:
   - q: "Que sont les superpositions de maisons en synastrie ?"
     a: "Elles montrent où tombent les planètes d’une personne parmi les maisons de l’autre. Si son Soleil tombe dans votre maison 4, les astrologues y lisent son sens de la direction qui rencontre votre foyer et vos racines : vous pouvez sentir cette part de votre vie éclairée par cette personne. Toute synastrie lit les superpositions dans les deux sens."
   - q: "Les superpositions de maisons demandent-elles les deux heures de naissance ?"
-    a: "Vos maisons demandent votre heure de naissance, et les siennes la sienne. Ses planètes ne demandent en général que sa date de naissance, sauf la Lune, qui avance d’environ 13° par jour, et toute planète proche d’une de vos cuspides, que quelques heures peuvent faire changer de maison. Je ne lis pas de superpositions sans les deux heures."
+    a: "Oui. Vos maisons dépendent de votre heure de naissance, et les siennes de la sienne. Son heure place aussi sa Lune, qui avance d’environ 13° par jour, et décide de quel côté d’une de vos cuspides tombe une planète qui en est proche. C’est pourquoi je ne lis ni superpositions ni synastrie sans les deux heures."
   - q: "Que veut dire une planète de l’autre dans ma maison 7 ?"
     a: "La maison 7 est celle de la personne d’en face : partenaires et proches collaborateurs. Une de ses planètes à cet endroit colore votre façon de vivre le partenariat avec elle : sa Vénus peut le rendre simple et précieux, Saturne, dans son thème, en faire un engagement qui demande de la patience. De son côté, c’est votre planète dans son thème."
   - q: "Les superpositions de maisons valent-elles pour les amis, la famille et les collègues ?"
@@ -47,7 +47,7 @@ Les superpositions restent à l’intérieur des deux thèmes réels. C’est ce
 
 Placez chacune de ses planètes dans votre thème d’après son degré, et notez la maison où elle tombe ; faites ensuite de même avec vos planètes dans son thème. En Placidus, le système de maisons que j’utilise, certaines maisons sont bien plus larges que d’autres, et les plus larges accueillent souvent plus de planètes.
 
-Il faut deux heures de naissance, une pour chaque jeu de maisons. Ses planètes ne demandent en général que sa date de naissance, avec deux exceptions : la Lune, qui avance d’environ 13° par jour, et toute planète à quelques degrés d’une de vos cuspides, où son heure décide du côté où elle tombe. Une planète proche d’un de vos angles travaille double : elle rencontre aussi votre ascendant, votre Fond du Ciel, votre descendant ou votre Milieu du Ciel, et je la lis comme un contact autant que comme une superposition ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Il faut deux heures de naissance, une pour chaque jeu de maisons, et l’heure de l’autre personne compte au-delà de ses propres maisons : elle place sa Lune, qui parcourt environ 13° par jour, et décide de quel côté d’une de vos cuspides tombe une planète qui s’en trouve à quelques degrés. C’est pourquoi je ne lis pas de superpositions sans les deux. Une planète proche d’un de vos angles travaille double : elle rencontre aussi votre ascendant, votre Fond du Ciel, votre descendant ou votre Milieu du Ciel, et je la lis comme un contact autant que comme une superposition ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Les planètes lentes demandent de la prudence. Toutes les personnes nées à quelques années près partagent Uranus, Neptune et Pluton : quand les planètes lentes de l’autre tombent dans vos maisons, elles décrivent sa génération qui rencontre votre vie plus que la personne elle-même. Entre deux corps lents, je ne compte aucun aspect, seulement ces positions dans les maisons, lues comme une différence entre deux époques. Les aspects que je compte sont sur la page [Aspects de synastrie](/astrology/synastry-aspects/).
 

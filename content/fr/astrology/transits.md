@@ -57,7 +57,7 @@ Les orbes que j’utilise vont de 1,5° avant l’exactitude à 1° après, et l
 - **Chiron :** de trois semaines à presque deux ans, le plus souvent une dizaine de mois, tant son orbite est étirée.
 - **Le nœud vrai :** un mois environ, parfois trois.
 
-Les transits aux planètes ne demandent que votre date de naissance, sauf pour le degré exact de la Lune. Les transits à l’ascendant et au Milieu du Ciel, et ceux qui traversent les maisons, demandent votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Une grande partie de tout cela dépend de votre heure de naissance : le degré exact de la Lune, l’ascendant et le Milieu du Ciel, et chaque maison que traverse une planète. C’est pourquoi je ne lis pas de transits, ni rien d’autre dans un thème, sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Ce qu’elle montre {#ce-qu-elle-montre}
 

@@ -49,7 +49,7 @@ Cette dernière idée est ancienne. Ptolémée décrivait déjà quels signes se
 
 Il suffit de deux dates d’anniversaire. Trouvez chaque signe solaire, comptez les signes qui les séparent, et notez éléments et modes. Un Soleil en Bélier et un autre en Lion sont à quatre signes d’écart, tous deux de feu : un trigone par signe. Un Soleil en Bélier et un autre en Cancer sont à trois signes, tous deux cardinaux, le feu avec l’eau : un carré par signe.
 
-C’est toute la méthode, et sa simplicité fait son charme : pas d’heure de naissance, pas de thème, un résultat en une minute.
+C’est toute la méthode, et sa simplicité fait son charme : pas d’heure de naissance, pas de thème, un résultat en une minute. C’est aussi sa faiblesse : tout ce qui dépend de l’heure, la place exacte de la Lune, les angles et les maisons, en est absent, et c’est pourquoi je ne lis jamais une relation de cette façon.
 
 ## Ce qu’elle montre {#ce-qu-elle-montre}
 

@@ -53,7 +53,7 @@ Les aspects étaient triés de la même façon : Ptolémée appelle harmonieux 
 
 ## Dans une lecture {#dans-une-lecture}
 
-Je garde les mots, parce qu’ils font partie de l’histoire et qu’on les retrouve dans tous les livres anciens, et je lis au-delà. Jupiter, pour moi, c’est là où vous élargissez votre compréhension et grandissez, pas là où la chance vous attend ; Vénus, votre façon d’évaluer, de choisir et d’entrer en relation, pas une promesse d’idylle ; Mars, la part de vous qui sait agir, s’affirmer et protéger ; Saturne, votre façon de bâtir, de prendre vos responsabilités et de tenir sur des années. Une maléfique montre où la vie demande de l’effort, de la patience ou du courage. C’est du travail, pas du malheur.
+Je garde les mots, parce qu’ils font partie de l’histoire et qu’on les retrouve dans tous les livres anciens, et je lis au-delà. Jupiter, pour moi, c’est là où vous élargissez votre compréhension et grandissez, pas là où la chance vous attend ; Vénus, votre façon d’évaluer, de choisir et d’entrer en relation, pas une promesse d’idylle ; Mars, la part de vous qui sait agir, s’affirmer et protéger ; Saturne, votre façon de bâtir, de prendre vos responsabilités et de tenir sur des années. Une maléfique montre où la vie demande de l’effort, de la patience ou du courage. C’est du travail, pas du malheur.
 
 Mon carnet est mon meilleur argument. [Saturne](/blog/saturn-chiron-lilith/#saturne), la planète que la tradition redoutait le plus, fait partie des trois positions qui ont tenu 75 à 90 % du temps dans [mes tests](/blog/i-tested-my-birth-chart/). Ce que Saturne décrivait était juste, et ce n’était jamais une malédiction : une matière apprise lentement, souvent plus tard que tout le monde autour.
 

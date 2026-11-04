@@ -56,7 +56,7 @@ The orbs I use for timing run from 1½° before exact to 1° after, and the plan
 - **Chiron:** anywhere from three weeks to almost two years, most often about ten months, because its orbit is so stretched.
 - **The true node:** about a month, now and then three.
 
-Transits to planets need only your birth date, except the Moon's exact degree. Transits to the Ascendant and Midheaven, and through the houses, need your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+Much of this depends on your birth time: the Moon's exact degree, the Ascendant and Midheaven, and every house a planet crosses. That's why I don't read transits, or anything else in a chart, without it ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## What it shows {#what-it-shows}
 

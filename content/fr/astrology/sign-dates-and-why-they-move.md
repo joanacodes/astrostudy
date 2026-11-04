@@ -63,7 +63,7 @@ Trois choses font bouger les dates.
 
 ## Dans une lecture {#dans-une-lecture}
 
-Pour la plupart des gens, la liste suffit : avec une naissance le 5 mai, le Soleil est en Taureau, quelle que soit l’année. À un jour près d’un changement, en revanche, la liste ne peut pas trancher, et moi non plus sans l’heure. Ce sont alors la date, l’heure et le lieu de naissance qui décident, et le thème donne le degré exact du Soleil (voir les naissances [entre deux signes](/astrology/born-on-the-cusp/)).
+Pour la plupart des gens, la liste suffit : avec une naissance le 5 mai, le Soleil est en Taureau, quelle que soit l’année. À un jour près d’un changement, en revanche, la liste ne peut pas trancher : seule l’heure le peut. Ce sont alors la date, l’heure et le lieu de naissance qui décident, et le thème donne le degré exact du Soleil (voir les naissances [entre deux signes](/astrology/born-on-the-cusp/)).
 
 C’est une raison de plus pour laquelle je ne lis pas de thème sans heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). L’heure décide de l’ascendant et des maisons, du signe de la Lune le jour où la Lune change de signe, et de celui du Soleil le jour où le Soleil en change. Je mets « environ » devant les dates sur toutes les pages de ce site pour la même raison : c’est l’intervalle habituel, pas une règle.
 

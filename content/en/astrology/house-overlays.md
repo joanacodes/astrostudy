@@ -13,7 +13,7 @@ facts:
   - { k: "What it is", v: "One person’s planets placed in the other’s houses" }
   - { k: "Read", v: "Both ways round: theirs in your houses, yours in theirs" }
   - { k: "Your houses need", v: "Your birth time" }
-  - { k: "Their planets need", v: "Their birth date; their time too for the Moon, or near a cusp" }
+  - { k: "Their chart needs", v: "Their birth time too: for their houses, their Moon, and planets near your cusps" }
   - { k: "House system I use", v: "Placidus" }
   - { k: "Near an angle", v: "The planet also meets your Ascendant, IC, Descendant or Midheaven" }
   - { k: "Slow planets", v: "Shared by everyone born within a few years: two eras meeting" }
@@ -23,7 +23,7 @@ faq:
   - q: "What are house overlays in synastry?"
     a: "They show where one person’s planets fall among the other person’s houses. If their Sun lands in your 4th house, astrologers read it as their sense of purpose meeting your home and roots: you may feel that part of your life lit up by them. Every synastry reads the overlays both ways round."
   - q: "Do house overlays need both birth times?"
-    a: "Your houses need your birth time, and theirs need theirs. Their planets mostly need only their birth date, except the Moon, which moves about 13° a day, and any planet close to one of your house cusps, where a few hours can move it into the next house. I don’t read overlays without both times."
+    a: "Yes. Your houses depend on your birth time and theirs on theirs. Their time also places their Moon, which moves about 13° a day, and decides which side of one of your cusps a planet falls when it sits close to it. That’s why I don’t read overlays, or any synastry, without both times."
   - q: "What does it mean when their planet is in my 7th house?"
     a: "The 7th is the house of the person across the table, partners and close collaborators. A planet of theirs there tends to colour how you experience partnership with them: their Venus can make partnership with them feel easy and valued, their Saturn like a commitment that asks for patience. Read from their side, it is your planet in their chart."
   - q: "Do house overlays work for friends, family and colleagues?"
@@ -46,7 +46,7 @@ Overlays stay inside the two real charts. That's what separates them from the [D
 
 Place each of their planets in your chart by its degree, and note the house it falls in; then do the same with your planets in theirs. In Placidus, the house system I use, some houses are much wider than others, and the wide ones tend to catch more planets.
 
-Two birth times are needed, one for each set of houses. Their planets mostly need only their birth date, with two exceptions: the Moon, which moves about 13° a day, and any planet within a few degrees of one of your house cusps, where their time decides which side it falls. A planet near one of your angles does double work: it also meets your Ascendant, IC, Descendant or Midheaven, and I read it as a contact as well as an overlay ([what changes without a birth time](/blog/unknown-birth-time/)).
+Two birth times are needed, one for each set of houses, and the other person's time matters beyond their own houses: it places their Moon, which moves about 13° a day, and it decides which side of one of your cusps a planet falls when it sits within a few degrees of it. That's why I don't read overlays without both. A planet near one of your angles does double work: it also meets your Ascendant, IC, Descendant or Midheaven, and I read it as a contact as well as an overlay ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 The slow planets need care. Everyone born within a few years shares Uranus, Neptune and Pluto, so their slow planets falling in your houses describe their generation meeting your life more than them personally. Between two slow bodies I count no aspect, only these house positions, read as a difference between two eras. The aspects I count are on [synastry aspects](/astrology/synastry-aspects/).
 

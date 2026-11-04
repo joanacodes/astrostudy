@@ -58,6 +58,6 @@ Rien ne change dans votre thème quand le titre revient. Le Soleil est là où v
 ## Idées reçues {#idees-recues}
 
 - **« La NASA a ajouté un treizième signe. »** La NASA a expliqué où se trouvent les constellations, et n’a rien changé. Elle le dit clairement : elle fait de l’astronomie, pas de l’astrologie.
-- **« Votre vrai signe, c’est la constellation derrière le Soleil. »** C’est une carte des étoiles, pas le zodiaque des astrologues. Dans le zodiaque tropical, votre signe est fixé par la saison de votre naissance.
+- **« Les astrologues ont oublié Ophiuchus par erreur. »** Il n’y avait rien à oublier. Un signe tropical est une période de l’année, pas un dessin d’étoiles, et l’année en compte toujours douze.
 - **« Ophiuchus est un signe secret que les Anciens ont caché. »** Il n’y avait rien à cacher : le zodiaque tropical a toujours eu douze signes égaux, et les frontières d’Ophiuchus, telles que les astronomes les utilisent, datent de 1930.
 - **« Avec une naissance début décembre, on est Ophiuchus, pas Sagittaire. »** Dans le zodiaque tropical, votre signe est le Sagittaire ; la constellation derrière le Soleil est un fait d’un autre ordre.

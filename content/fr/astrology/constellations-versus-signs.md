@@ -36,9 +36,9 @@ Regardez les étoiles derrière le Soleil le jour de votre anniversaire, et vous
 
 ## Ce que c’est {#ce-que-c-est}
 
-Une constellation est un morceau de ciel. Les astronomes en reconnaissent 88, et depuis la publication en 1930 des frontières tracées par l’astronome belge Eugène Delporte pour l’Union astronomique internationale, chaque point du ciel appartient à une seule d’entre elles. Treize bordent la route du Soleil, l’[écliptique](/astrology/ecliptic/) : les douze qui ont donné leur nom aux signes, plus [Ophiuchus](/astrology/ophiuchus-and-the-13th-sign/). Ce sont des dessins d’étoiles de largeurs très différentes, si bien que le Soleil met des durées très différentes à les traverser.
+Une constellation est un morceau de ciel. Les astronomes en reconnaissent 88, et depuis 1930, chaque point du ciel appartient à une seule d’entre elles, dans les frontières qu’Eugène Delporte, astronome belge, a dessinées pour l’Union astronomique internationale. Treize bordent la route du Soleil, l’[écliptique](/astrology/ecliptic/) : les douze qui ont donné leur nom aux signes, plus [Ophiuchus](/astrology/ophiuchus-and-the-13th-sign/). Ce sont des dessins d’étoiles de largeurs très différentes, si bien que le Soleil met des durées très différentes à les traverser.
 
-Un signe est une mesure. Dans le [zodiaque tropical](/astrology/tropical-zodiac/), celui que j’utilise, le trajet annuel du Soleil est découpé en douze parts égales de 30°, à partir de l’équinoxe de mars, le moment où le Soleil franchit l’équateur céleste vers le nord. Le Bélier, ce sont les 30 premiers degrés après ce moment, le Taureau les 30 suivants, et ainsi de suite jusqu’aux Poissons. Les signes sont fixés par les saisons, pas par une étoile.
+Un signe est une mesure. Dans le [zodiaque tropical](/astrology/tropical-zodiac/), celui que j’utilise, le cercle que parcourt le Soleil en un an est partagé en douze parts égales de 30°, à partir de l’équinoxe de mars, quand le Soleil passe dans la moitié nord du ciel. Le Bélier, ce sont les 30 premiers degrés après ce moment, le Taureau les 30 suivants, et ainsi de suite jusqu’aux Poissons. Les signes sont fixés par les saisons, pas par une étoile.
 
 ## Comment ça marche {#comment-ca-marche}
 

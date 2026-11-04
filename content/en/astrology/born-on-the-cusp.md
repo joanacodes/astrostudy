@@ -65,4 +65,4 @@ That's [how I read](/how-i-read/): the chart as calculated, with the planets whe
 - **“Born on the cusp, you're half one sign and half the other.”** The Sun is in one sign at any moment. Planets in the neighbouring sign can make you feel like both, and they're worth reading for what they are.
 - **“The cusp lasts several days either side.”** Only the day of the change, give or take one, is in doubt, because the moment moves from year to year. A few days away, the date settles it.
 - **“On the cusp, you can pick the sign you prefer.”** Your chart has already picked: the Sun's degree is a matter of calculation. What you can do is read the other planets in the sign you feel drawn to.
-- **“The last degree of a sign is a weaker version of it.”** Being near the edge changes how sure we can be without a birth time, not how much of the sign is yours.
+- **“The last degree of a sign is a weaker version of it.”** Being near the edge changes how much the birth time matters, not how much of the sign is yours.
