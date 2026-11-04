@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/pluto", "/astrology/sextile", "/astrology/transiting-pluto-sextile-natal-mars", "/astrology/mars-sextile-pluto-synastry"]
 faq:
   - q: "What does Mars sextile Pluto mean in a birth chart?"
-    a: "A 60° link between your drive and your capacity for deep change, usually across two signs that get on. When you choose to, you can focus intensely, cut a task back to what matters and renew it. I read it as staying power on offer, at its best when you take it up on purpose."
+    a: "It’s a 60° angle linking your drive to your capacity for deep change, usually across signs that get on. When you choose to, you can focus intensely, cut a task back to what matters and renew it. I read it as staying power on offer, at its best when you take it up on purpose."
   - q: "Is Mars sextile Pluto a strong aspect?"
     a: "Quietly strong. It doesn’t have the obvious intensity of the conjunction or the square, but it lets you draw on deep reserves when a situation calls for them. Opportunity requires engagement: the sextile shows what’s available, and its strength appears when you commit to something that deserves it."
   - q: "How does Mars sextile Pluto show at work?"

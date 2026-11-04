@@ -45,7 +45,7 @@ About 1 person in 15 has it, if you count up to 6° from exact. Tight, inspired 
 
 Mars forms the trine with Neptune about twice every two years and holds it for a few weeks of births, while Neptune spends some fourteen years in a sign. Like every aspect, this one describes how you're inclined to move, not where you must end up, and that's how I read it ([How I read](/how-i-read/)).
 
-Set beside the pair's other aspects:
+Where the trine sits among the pair's aspects:
 
 - **[Mars conjunct Neptune](/astrology/mars-conjunct-neptune/):** the same two functions in one place, more absorbing and less relaxed than the trine.
 - **[Mars sextile Neptune](/astrology/mars-sextile-neptune/):** a lighter link between signs that get on, where you reach for the inspiration on purpose.

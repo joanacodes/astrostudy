@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/pluto", "/astrology/square", "/astrology/transiting-pluto-square-natal-mars", "/astrology/mars-square-pluto-synastry"]
 faq:
   - q: "What does Mars square Pluto mean in a birth chart?"
-    a: "Mars and Pluto at a right angle, about 90°, usually in signs of one modality. Your drive and your capacity for deep change keep meeting: when something blocks you, you tend to push harder, and effort becomes a test of will. I read it as friction that builds resilience and, over time, a fine sense of proportion."
+    a: "It means your Mars and Pluto stand at a right angle, a quarter of the zodiac apart. Your drive and your capacity for deep change keep meeting: when something blocks you, you tend to push harder, and effort becomes a test of will. I read it as friction that builds resilience and, over time, a fine sense of proportion."
   - q: "Is Mars square Pluto a dangerous aspect?"
     a: "No. Mars is assertion, not violence, and Pluto is transformation, not destruction. The square describes intensity, especially under pressure, and a challenge is not a punishment. Its lesson is proportion: matching the force you bring to what the situation needs, and finding power you share rather than impose."
   - q: "What helps with the intensity of Mars square Pluto?"

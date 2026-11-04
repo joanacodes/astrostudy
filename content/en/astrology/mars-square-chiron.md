@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/chiron", "/astrology/square", "/astrology/transiting-chiron-square-natal-mars", "/astrology/mars-square-chiron-synastry"]
 faq:
   - q: "What does Mars square Chiron mean in a birth chart?"
-    a: "Mars and Chiron about 90° apart, usually in signs of one modality. Your drive keeps meeting a sensitive place: the push to act, compete or stand up for yourself runs into something that needs a different pace or method. I read it as friction that, with practice, becomes a sure sense of how to act within your limits."
+    a: "Your Mars and Chiron sit about a quarter of the circle apart, usually in signs that share a modality. Your drive keeps meeting a sensitive place: the push to act, compete or stand up for yourself runs into something that needs a different pace or method. I read it as friction that, with practice, becomes a sure sense of how to act within your limits."
   - q: "Does Mars square Chiron mean injuries?"
     a: "No. Injuries and illness aren’t something a chart can foresee, and health is one of the subjects I leave to doctors. What I see in this square is a pattern in how you act: effort that meets a sensitivity, and keeps finding better ways to work with it."
   - q: "Can Mars square Chiron make you push too hard?"
