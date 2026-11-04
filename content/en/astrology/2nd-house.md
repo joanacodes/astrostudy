@@ -41,7 +41,7 @@ I read the 2nd house as the answer to *what can I count on?* It covers what you 
 
 A house is read with its neighbours. The [1st house](/astrology/1st-house/), just before it, is the self that arrives; the 2nd is what that self needs in order to stay. The [3rd house](/astrology/3rd-house/), just after it, takes what you have out into words, errands and your close circle.
 
-What the 2nd house won't do is tell you whether you'll be rich, when to buy, or where to put your savings. No chart can, and I don't read one for that ([can astrology pick investments?](/astrology/can-astrology-pick-investments/)). It shows how you handle money, not how much of it there will be. And like every house, it's placed by your birth time: without it, I can read your planets in their signs, but not which of them speak to your 2nd house ([what an unknown birth time changes](/blog/unknown-birth-time/)).
+What the 2nd house won't do is tell you whether you'll be rich, when to buy, or where to put your savings. No chart can, and I don't read one for that ([can astrology pick investments?](/astrology/can-astrology-pick-investments/)). It shows how you handle money, not how much of it there will be. And like every house, it's placed by your birth time: without it, no one can say which of your planets speak to your 2nd house, and I don't read a chart without it ([what an unknown birth time changes](/blog/unknown-birth-time/)).
 
 ## Planets in the 2nd house {#planets}
 

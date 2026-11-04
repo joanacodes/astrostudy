@@ -25,7 +25,7 @@ faq:
   - q: "What is the chart ruler?"
     a: "The planet that rules your rising sign: Mars for Aries rising, Venus for Taurus rising, and so on. As the ruler of the 1st house, it carries your story into the house where it sits, which is why astrologers look for it early in a reading."
   - q: "Can I know my 1st house without a birth time?"
-    a: "No. The Ascendant changes sign about every two hours on average, and four minutes are enough to move the horizon by a degree, so the 1st house needs the time you were born. Without it, I read your planets in their signs and leave the houses aside."
+    a: "No. The Ascendant changes sign about every two hours on average, and four minutes are enough to move the horizon by a degree, so the 1st house needs the time you were born. That's why I don't read a chart without it."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the twelve houses and what tradition gave them" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Ascendant" }

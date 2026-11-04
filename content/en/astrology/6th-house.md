@@ -46,7 +46,7 @@ Tradition gave the 6th illness and called it Bad Fortune. I don't read illness i
 
 A house is read with its neighbours. The [5th house](/astrology/5th-house/), just before it, is play; the 6th is the work that follows. The [7th house](/astrology/7th-house/), just after it, turns the chart towards other people: after looking after yourself comes the person across the table.
 
-Like every house, the 6th is placed by your birth time: without it, I can read your planets in their signs, but not which of them shape your days ([what an unknown birth time changes](/blog/unknown-birth-time/)).
+Like every house, the 6th is placed by your birth time: without it, no one can say which of your planets shape your days, and I don't read a chart without it ([what an unknown birth time changes](/blog/unknown-birth-time/)).
 
 ## Planets in the 6th house {#planets}
 

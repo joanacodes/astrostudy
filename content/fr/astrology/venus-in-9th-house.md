@@ -23,7 +23,7 @@ faq:
   - q: "Avec Vénus en maison 9, épouserai-je quelqu’un d’un autre pays ?"
     a: "Aucun thème ne peut dire qui vous épouserez, ni d’où cette personne viendra. Vénus en maison 9 décrit un goût pour l’inconnu : les personnes d’autres lieux, d’autres cultures ou d’autres façons de penser vous attirent souvent. Que cela mène à un couple avec quelqu’un d’ailleurs, c’est l’affaire de votre vie, pas celle du thème."
   - q: "Faut-il l’heure de naissance pour Vénus en maison 9 ?"
-    a: "Oui. Une Vénus en maison 9 se trouve juste après le milieu du ciel : quelques minutes plus tôt, en Placidus, pourraient en faire une Vénus en maison 10, un peu plus tard une Vénus en maison 8. Sans heure fiable, je laisse la maison de côté."
+    a: "Oui. Une Vénus en maison 9 se trouve juste après le milieu du ciel : quelques minutes plus tôt, en Placidus, pourraient en faire une Vénus en maison 10, un peu plus tard une Vénus en maison 8. Sans heure fiable, je ne fais pas la lecture."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons, le Dieu, et la joie du Soleil en maison 9" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }

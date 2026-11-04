@@ -38,7 +38,7 @@ Avec Mercure ici, l’esprit s’occupe de ce qui est proche : le message auque
 
 La fratrie appartient à cette maison dans la tradition. Je lis les frères et sœurs comme les adultes qu’ils sont aujourd’hui, et, à travers Mercure, comme les personnes avec qui vous avez appris à parler : à discuter, marchander, taquiner, vous réconcilier. Le thème décrit votre part de ces conversations, pas les personnes elles-mêmes.
 
-La maison est la part d’un placement que seule l’heure de naissance peut donner. Sans elle, je lis le signe de Mercure et laisse la maison de côté. Avec elle, et en Placidus, ma façon de découper les maisons, Mercure en maison 3 avait passé à votre naissance le point le plus bas de sa course sous vos pieds et remontait vers l’horizon est ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Une maison plus tôt, [Mercure en maison 2](/astrology/mercury-in-2nd-house/) fait le compte de ce que valent les choses ; une maison plus loin, [Mercure en maison 4](/astrology/mercury-in-4th-house/) ramène la conversation à la maison.
+La maison est la part d’un placement que seule l’heure de naissance peut donner. Sans elle, je ne fais pas la lecture. Avec elle, et en Placidus, ma façon de découper les maisons, Mercure en maison 3 avait passé à votre naissance le point le plus bas de sa course sous vos pieds et remontait vers l’horizon est ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Une maison plus tôt, [Mercure en maison 2](/astrology/mercury-in-2nd-house/) fait le compte de ce que valent les choses ; une maison plus loin, [Mercure en maison 4](/astrology/mercury-in-4th-house/) ramène la conversation à la maison.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 

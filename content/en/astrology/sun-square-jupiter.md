@@ -41,7 +41,7 @@ What the square teaches here is measure. Each time the appetite overshoots, you 
 
 Its two signs are usually of one modality, and that sets the tone. Cardinal, a Sun in Aries with Jupiter in Cancer sets the urge to start against the urge to nurture; fixed, a Sun in Scorpio with Jupiter in Aquarius sets depth against breadth; mutable, a Sun in Virgo with Jupiter in Sagittarius sets the detail against the big picture.
 
-The houses show which two areas of life compete for your time: the Sun's, where you're becoming yourself, and Jupiter's, where you keep wanting more. Those houses come from the birth time; without it, I can say that the two bargain, but not over what ([what changes without a birth time](/blog/unknown-birth-time/)).
+The houses show which two areas of life compete for your time: the Sun's, where you're becoming yourself, and Jupiter's, where you keep wanting more. Those houses come from the birth time, which is why I don't read a chart without it ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Roughly 1 person in 11 is born within 8° of this square. The Sun and Jupiter make two squares in each cycle of about thirteen months, so most years hold two stretches of a few weeks when everyone born shares it, and the Sun, always the faster, forms and dissolves each one ([applying and separating aspects](/astrology/applying-and-separating-aspects/)).
 

@@ -42,7 +42,7 @@ Je lis la maison 2 comme la réponse à la question *sur quoi puis-je compter 
 
 Une maison se lit avec ses voisines. La [maison 1](/astrology/1st-house/), juste avant, c’est le moi qui arrive ; la maison 2, ce dont ce moi a besoin pour rester. La [maison 3](/astrology/3rd-house/), juste après, emporte ce que vous avez vers les mots, les allées et venues et vos proches.
 
-Ce que la maison 2 ne fera pas, c’est vous dire si vous serez riche, quand acheter ou où placer vos économies. Aucun thème ne le peut, et je n’en lis aucun pour cela (voir [L’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)). Elle montre comment vous vous y prenez avec l’argent, pas combien il y en aura. Et comme toutes les maisons, elle dépend de votre heure de naissance : sans elle, je peux lire vos planètes dans leurs signes, mais pas savoir lesquelles parlent à votre maison 2 (voir [ce que change une heure de naissance inconnue](/blog/unknown-birth-time/)).
+Ce que la maison 2 ne fera pas, c’est vous dire si vous serez riche, quand acheter ou où placer vos économies. Aucun thème ne le peut, et je n’en lis aucun pour cela (voir [L’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)). Elle montre comment vous vous y prenez avec l’argent, pas combien il y en aura. Et comme toutes les maisons, elle dépend de votre heure de naissance : sans elle, personne ne peut dire lesquelles de vos planètes parlent à votre maison 2, et je ne lis pas de thème sans elle (voir [ce que change une heure de naissance inconnue](/blog/unknown-birth-time/)).
 
 ## Les planètes en maison 2 {#planetes}
 

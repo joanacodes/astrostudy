@@ -42,7 +42,7 @@ Ce que le carré enseigne ici, c’est la mesure. Chaque fois que l’appétit d
 
 Ses deux signes relèvent en général d’un même mode, et cela donne le ton. Cardinal, un Soleil en Bélier avec Jupiter en Cancer oppose l’envie de lancer à l’envie de nourrir ; fixe, un Soleil en Scorpion avec Jupiter en Verseau oppose la profondeur à l’ampleur ; mutable, un Soleil en Vierge avec Jupiter en Sagittaire oppose le détail à la vue d’ensemble.
 
-Les maisons montrent quels domaines de la vie se disputent votre temps : celle du Soleil, où vous devenez vous-même, et celle de Jupiter, où vous voulez toujours davantage. Ces maisons viennent de l’heure de naissance ; sans elle, je peux dire que les deux marchandent, pas à propos de quoi ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Les maisons montrent quels domaines de la vie se disputent votre temps : celle du Soleil, où vous devenez vous-même, et celle de Jupiter, où vous voulez toujours davantage. Ces maisons viennent de l’heure de naissance, et c’est pourquoi je ne lis pas de thème sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Ce carré concerne environ 1 personne sur 11, à 8° près. Le Soleil et Jupiter forment deux carrés par cycle d’environ treize mois : la plupart des années comptent donc deux périodes de quelques semaines où toutes les personnes qui naissent le partagent, et le Soleil, toujours le plus rapide, forme et défait chacun ([aspects appliquants et séparants](/astrology/applying-and-separating-aspects/)).
 

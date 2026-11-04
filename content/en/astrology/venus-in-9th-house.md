@@ -22,7 +22,7 @@ faq:
   - q: "Will I marry someone from another country with Venus in the 9th house?"
     a: "No chart can say whom you will marry, or where they will come from. Venus in the 9th describes a taste for the unfamiliar: you’re often drawn to people from other places, cultures or ways of thinking. Whether that leads to a partner from abroad is your life’s business, not the chart’s."
   - q: "Do I need my birth time for Venus in the 9th house?"
-    a: "Yes. A 9th-house Venus sits just past the Midheaven, so a few minutes earlier, in Placidus, could make it a 10th-house Venus and a little later an 8th-house one. Without a reliable time, I leave the house out."
+    a: "Yes. A 9th-house Venus sits just past the Midheaven, so a few minutes earlier, in Placidus, could make it a 10th-house Venus and a little later an 8th-house one. Without a reliable time, I don't do the reading."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, the God, and the joy of the Sun in the ninth" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }

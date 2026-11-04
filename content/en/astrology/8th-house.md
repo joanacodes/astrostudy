@@ -43,7 +43,7 @@ Counted from the 7th, the 8th is your partner's 2nd house — their money — wh
 
 A house is read with its neighbours. The [7th house](/astrology/7th-house/), just before it, is the person across the table; the 8th is what you build, risk and owe once they're on your side of it. The [9th house](/astrology/9th-house/), just after it, is where what you've been through goes looking for a meaning.
 
-Like every house, the 8th is placed by your birth time: without it, I can read your planets in their signs, but not which of them fall here ([what an unknown birth time changes](/blog/unknown-birth-time/)).
+Like every house, the 8th is placed by your birth time: without it, no one can say which of your planets fall here, and I don't read a chart without it ([what an unknown birth time changes](/blog/unknown-birth-time/)).
 
 ## Planets in the 8th house {#planets}
 

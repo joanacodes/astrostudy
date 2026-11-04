@@ -44,7 +44,7 @@ Comptée depuis la maison 7, la maison 8 est la maison 2 de votre partenaire, c�
 
 Une maison se lit avec ses voisines. La [maison 7](/astrology/7th-house/), juste avant, c’est la personne de l’autre côté de la table ; la maison 8, ce que vous bâtissez, risquez et devez une fois qu’elle est passée de votre côté. La [maison 9](/astrology/9th-house/), juste après, est l’endroit où ce que vous avez traversé part en quête d’un sens.
 
-Comme toutes les maisons, la maison 8 dépend de votre heure de naissance : sans elle, je peux lire vos planètes dans leurs signes, mais pas savoir lesquelles tombent ici (voir [ce que change une heure de naissance inconnue](/blog/unknown-birth-time/)).
+Comme toutes les maisons, la maison 8 dépend de votre heure de naissance : sans elle, personne ne peut dire lesquelles de vos planètes tombent ici, et je ne lis pas de thème sans elle (voir [ce que change une heure de naissance inconnue](/blog/unknown-birth-time/)).
 
 ## Les planètes en maison 8 {#planetes}
 

@@ -47,7 +47,7 @@ La tradition donnait la maladie à la maison 6 et l’appelait la Fortune défav
 
 Une maison se lit avec ses voisines. La [maison 5](/astrology/5th-house/), juste avant, c’est le jeu ; la maison 6, le travail qui suit. La [maison 7](/astrology/7th-house/), juste après, tourne le thème vers les autres : après le soin de soi vient la personne assise en face.
 
-Comme toutes les maisons, la maison 6 dépend de votre heure de naissance : sans elle, je peux lire vos planètes dans leurs signes, mais pas savoir lesquelles façonnent vos journées (voir [ce que change une heure de naissance inconnue](/blog/unknown-birth-time/)).
+Comme toutes les maisons, la maison 6 dépend de votre heure de naissance : sans elle, personne ne peut dire lesquelles de vos planètes façonnent vos journées, et je ne lis pas de thème sans elle (voir [ce que change une heure de naissance inconnue](/blog/unknown-birth-time/)).
 
 ## Les planètes en maison 6 {#planetes}
 

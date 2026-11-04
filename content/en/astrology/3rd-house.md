@@ -44,7 +44,7 @@ I read the 3rd house as the traffic of daily life: messages, conversations, erra
 
 A house is read with its neighbours. The [2nd house](/astrology/2nd-house/), just before it, is what you have; the 3rd is what you do with it day to day, in words and errands. The [4th house](/astrology/4th-house/), just after it, is home: the place all the 3rd's comings and goings lead back to.
 
-Like every house, the 3rd is placed by your birth time. Without it, I can read your Mercury by sign, but not the house it speaks from ([what an unknown birth time changes](/blog/unknown-birth-time/)).
+Like every house, the 3rd is placed by your birth time. Without it, the house your Mercury speaks from is unknown, and I don't read a chart without it ([what an unknown birth time changes](/blog/unknown-birth-time/)).
 
 ## Planets in the 3rd house {#planets}
 

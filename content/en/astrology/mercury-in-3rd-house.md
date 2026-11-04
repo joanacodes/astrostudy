@@ -37,7 +37,7 @@ With Mercury here, the mind is busy with what's close: the message to answer, th
 
 Siblings belong to this house in the tradition. I read them as the adults they are now, and through Mercury as the people you learned to talk with: to argue, bargain, tease and make up. The chart describes your side of those conversations, not the people themselves.
 
-The house is the part of a placement that only the birth time can give. Without it, I read Mercury's sign and leave the house aside. With it, and in Placidus, which is how I divide the houses, a 3rd-house Mercury had passed the lowest point of its path beneath you at birth and was climbing back towards the eastern horizon ([what changes without a birth time](/blog/unknown-birth-time/)). One house earlier, [Mercury in the 2nd house](/astrology/mercury-in-2nd-house/) takes stock of what things are worth; one house on, [Mercury in the 4th house](/astrology/mercury-in-4th-house/) takes the conversation home.
+The house is the part of a placement that only the birth time can give. Without it, I don't do the reading. With it, and in Placidus, which is how I divide the houses, a 3rd-house Mercury had passed the lowest point of its path beneath you at birth and was climbing back towards the eastern horizon ([what changes without a birth time](/blog/unknown-birth-time/)). One house earlier, [Mercury in the 2nd house](/astrology/mercury-in-2nd-house/) takes stock of what things are worth; one house on, [Mercury in the 4th house](/astrology/mercury-in-4th-house/) takes the conversation home.
 
 ## In close relationships {#in-close-relationships}
 
