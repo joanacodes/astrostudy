@@ -27,7 +27,7 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "la maison 11, son nom ancien et ce que la tradition lui attribuait" }
   - { title: "Dorothée de Sidon, Carmen Astrologicum", note: "les maisons lues dans un thème de naissance" }
 ---
-Mars en maison 11 est au plus fort en compagnie. Sa plus grande force vient avec une équipe derrière et un avenir devant : une amitié à défendre, un groupe à organiser, un espoir pour lequel travailler.
+Mars en maison 11 donne toute sa force en compagnie. Sa plus grande force vient avec une équipe derrière et un avenir devant : une amitié à défendre, un groupe à organiser, un espoir pour lequel travailler.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 

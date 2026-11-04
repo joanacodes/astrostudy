@@ -20,7 +20,7 @@ faq:
   - q: "Que veut dire Mars en maison 1 ?"
     a: "Qu’à votre naissance, Mars se trouvait dans la maison de soi, celle qui s’ouvre à votre ascendant. Votre élan fait partie de la façon dont vous apparaissez : de la franchise, de l’énergie, une vraie rapidité à commencer. On remarque en général votre initiative avant tout le reste, et vous affrontez les défis au lieu de les attendre."
   - q: "Mars en maison 1, est-ce un bon placement ?"
-    a: "Ni bon ni mauvais. Il rend votre élan visible : vous agissez volontiers, rivalisez ouvertement et dites ce que vous voulez. Cela peut se lire comme de l’assurance ou comme une pression, selon l’usage que vous en faites et le reste du thème. Connaître la première impression que vous donnez aide à la choisir."
+    a: "Ni bon ni mauvais. Ce placement rend votre élan visible : vous agissez volontiers, rivalisez ouvertement et dites ce que vous voulez. Cela peut se lire comme de l’assurance ou comme une pression, selon l’usage que vous en faites et le reste du thème. Connaître la première impression que vous donnez aide à la choisir."
   - q: "Peut-on savoir que Mars est en maison 1 sans l’heure de naissance ?"
     a: "Non. L’ascendant traverse un signe entier en deux heures environ en moyenne : près de cette ligne, quelques minutes suffisent à placer Mars en maison 12 ou en maison 1. Sans l’heure, je lis Mars par son signe et ses aspects, et je laisse sa maison hors de la lecture."
 sources:

@@ -42,7 +42,7 @@ In close relationships, your ambition is part of the package, and a partner need
 
 ## At work {#at-work}
 
-Work is the main arena. Leadership, management, starting a business, competitive fields, public roles, anything where your effort is seen and your decisions matter, tend to suit this Mars. You may clash with authority until you hold some yourself, and you often do your best when you're in charge of something, even a small team. People tend to notice this Mars in a crisis at work: you step up while others are still waiting for instructions. Being known as a fighter can open some doors and close others; choosing which battles to fight in public is the skill.
+Work is the main arena. Leadership, management, starting a business, competitive fields, public roles, anything where your effort is seen and your decisions matter, tend to suit this Mars. You may clash with authority until you hold some yourself, and you often do your best when you're in charge of something, even a small team. People tend to notice this Mars in a crisis at work: you step up while others are still waiting for instructions. Being known as a fighter can open some doors and close others; choosing which battles to fight in public is the skill, and so is knowing when to let a result speak for you.
 
 ## The hard part {#the-hard-part}
 

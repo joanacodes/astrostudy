@@ -20,7 +20,7 @@ faq:
   - q: "Que veut dire Mars en maison 2 ?"
     a: "Que votre élan vise les ressources et la valeur personnelle : à votre naissance, Mars occupait la maison 2. Cet élan va à gagner votre vie, à bâtir des compétences et à défendre ce qui compte pour vous, votre prix compris. Ce placement décrit votre façon d’aller chercher des ressources, pas ce que vous aurez : aucun thème ne le prédit."
   - q: "Mars en maison 2, est-ce bon pour l’argent ?"
-    a: "Ce placement peut apporter de l’énergie et de la détermination pour gagner sa vie, et l’envie de travailler dur pour un résultat concret. Il ne peut prédire ni revenus, ni fortune, ni pertes. Il décrit votre rapport à l’effort et à la valeur ; le reste dépend de ce que vous choisissez et de ce que la vie apporte, pas d’un placement."
+    a: "Ce placement peut apporter de l’énergie et de la détermination pour gagner sa vie, et l’envie de travailler dur pour un résultat concret. Il ne peut prédire ni revenus, ni fortune, ni pertes. Il décrit votre rapport à l’effort et à la valeur ; le reste dépend de vos décisions et de la vie, pas d’un placement."
   - q: "Avec Mars en maison 2, dépense-t-on beaucoup ?"
     a: "Certaines personnes nées avec ce placement dépensent vite, pour le plaisir d’avoir. C’est une tendance, pas une règle, et le reste du thème compte. Une simple pause entre l’envie et l’achat permet en général de mettre cette énergie dans ce qui compte le plus pour vous, là où elle se sent de toute façon le mieux."
 sources:
