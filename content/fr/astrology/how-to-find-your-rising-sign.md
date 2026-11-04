@@ -25,7 +25,7 @@ faq:
   - q: "Peut-on trouver son ascendant sans l’heure de naissance ?"
     a: "Non. L’ascendant change de signe environ toutes les deux heures en moyenne : une date seule en laisse plusieurs possibles. Votre acte de naissance, un dossier de maternité ou votre famille ont peut-être l’heure. Sans elle, je ne lis pas de thème : l’ascendant et les maisons manquent, et avec eux le domaine où agit chaque planète."
   - q: "Mon ascendant est-il le même que mon signe solaire ?"
-    a: "Seulement pour une naissance vers le lever du soleil, quand le Soleil se trouve près de l’ascendant. À toute autre heure, votre ascendant est en général un autre signe, et il dit autre chose : le signe solaire, ce que vous visez ; l’ascendant, votre façon d’aborder le monde."
+    a: "Souvent, pour une naissance vers le lever du soleil, quand le Soleil se trouve près de l’ascendant. À toute autre heure, votre ascendant est en général un autre signe, et il dit autre chose : le signe solaire, ce que vous visez ; l’ascendant, votre façon d’aborder le monde."
   - q: "Pourquoi deux sites me donnent-ils deux ascendants différents ?"
     a: "En général parce que les données ou les réglages diffèrent : heure d’été appliquée autrement, heure en a.m. ou p.m. mal convertie, autre lieu de naissance, ou site réglé sur le zodiaque sidéral, qui place l’ascendant environ 24° plus tôt. Entrez les mêmes données dans les deux, puis comparez les réglages. Le système de maisons n’y est pour rien."
 sources:
