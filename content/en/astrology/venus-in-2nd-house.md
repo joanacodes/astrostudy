@@ -20,7 +20,7 @@ faq:
   - q: "What does Venus in the 2nd house mean?"
     a: "Venus sat in the house of belongings, talents and self-worth at your birth. You tend to have a sure sense of quality, to enjoy a few good things, and to show care in tangible ways. The deeper theme is worth: learning to value yourself as clearly as you value what you choose."
   - q: "Does Venus in the 2nd house mean money?"
-    a: "Not as a prediction. Tradition gave the 2nd house money and possessions, and Venus here is often read as pleasure and earning going together. I read it as your relationship with having and with your own worth. No chart says how much anyone will earn, and I don’t read one for that."
+    a: "Not as a prediction. The old books gave the 2nd house money and possessions, and Venus here is often read as pleasure and earning going together. I read it as your relationship with having and with your own worth. No chart says how much anyone will earn, and I don’t read one for that."
   - q: "Do I need my birth time for Venus in the 2nd house?"
     a: "Yes. The houses come from the exact time and place of birth. In Placidus, which I use, an hour’s difference can lift Venus into the 1st house or leave it in the 3rd, and those read very differently. Without the time, I don’t read Venus by house."
 sources:
