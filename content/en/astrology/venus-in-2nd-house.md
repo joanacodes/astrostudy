@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 38
 glyph: "♀"
-definition: "Venus in the 2nd house places the planet of valuation in the house of belongings, talents and self-worth, whose natural sign, Taurus, Venus rules. It describes a sure sense of quality, care shown in tangible ways, and a self-worth that grows once it stops being measured in things. It needs an exact birth time."
+definition: "Venus in the 2nd house places the planet of valuation in the house of belongings, talents and self-worth, whose natural sign, Taurus, Venus rules. It describes a sure sense of quality, care shown in tangible ways, and a self-worth that grows once it stops being measured in things. Your birth time has to be exact."
 facts:
   - { k: "Body", v: "Venus ♀" }
   - { k: "House", v: "The 2nd house: belongings, talents, self-worth" }
@@ -20,9 +20,9 @@ faq:
   - q: "What does Venus in the 2nd house mean?"
     a: "Venus sat in the house of belongings, talents and self-worth at your birth. You tend to have a sure sense of quality, to enjoy a few good things, and to show care in tangible ways. The deeper theme is worth: learning to value yourself as clearly as you value what you choose."
   - q: "Does Venus in the 2nd house mean money?"
-    a: "Not as a prediction. The old books gave the 2nd house money and possessions, and Venus here is often read as pleasure and earning going together. I read it as your relationship with having and with your own worth. No chart says how much anyone will earn, and I don’t read one for that."
+    a: "Not as a prediction. Money and possessions were the 2nd house’s business in the old books, and Venus here is often read as pleasure and earning going together. I read it as your relationship with having and with your own worth. No chart says how much anyone will earn, and I don’t read one for that."
   - q: "Do I need my birth time for Venus in the 2nd house?"
-    a: "Yes. An hour either way can lift Venus into the 1st house or leave it in the 3rd, and in Placidus, the system I use, every cusp is worked out from the exact time and place. A guessed time gives a guessed house, so I wait for the real one."
+    a: "Yes. An hour either way can lift Venus into the 1st house or leave it in the 3rd, and Placidus, which I use, works out every cusp from the exact time and place. A guessed time gives a guessed house, so I wait for the real one."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, and what tradition gave the second" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
@@ -39,7 +39,7 @@ When you were born, Venus sat below the eastern horizon, a few hours from rising
 
 ## In close relationships {#in-close-relationships}
 
-In love, a 2nd-house Venus shows care in tangible ways: a meal, a gift chosen with thought, comfort offered without fuss. You tend to value steadiness, and to feel loved when someone values what you value: your time, your things, your way of doing them. The house across is the 8th, where what is shared and owed lives, so questions of mine, yours and ours can matter more to you than you expect. Feeling secure in yourself, rather than in what a partner provides, is what lets this Venus relax in a couple.
+In love, a 2nd-house Venus shows care in tangible ways: a meal, a gift chosen with thought, comfort offered without fuss. Steadiness matters to you, and you feel loved when someone values what you value: your time, your things, your way of doing them. The house across is the 8th, where what is shared and owed lives, so questions of mine, yours and ours can matter more to you than you expect. Feeling secure in yourself, rather than in what a partner provides, is what lets this Venus relax in a couple.
 
 ## At work {#at-work}
 

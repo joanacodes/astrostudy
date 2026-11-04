@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 42
 glyph: "♀"
-definition: "Vénus en maison 6 place la planète de la valeur et de l’harmonie dans la maison du travail quotidien et des habitudes, dont le signe naturel est la Vierge, sa chute. On y lit la grâce dans l’ordinaire, le besoin d’un cadre de travail agréable, et une affection qui passe par le soin quotidien. Il faut l’heure de naissance."
+definition: "Vénus en maison 6 installe la planète de la valeur et de l’harmonie parmi les tâches, les habitudes et les collègues, dans la maison naturelle de la Vierge, sa chute. On y lit la grâce dans l’ordinaire, le besoin d’un cadre agréable, et une affection qui passe par le soin quotidien. Sans l’heure, impossible de la placer."
 facts:
   - { k: "Corps", v: "Vénus ♀" }
   - { k: "Maison", v: "Maison 6 : le travail quotidien, les habitudes, les collègues, le soin de vos journées" }
@@ -19,22 +19,22 @@ facts:
 related: ["/astrology/venus", "/astrology/6th-house", "/astrology/venus-in-virgo", "/astrology/can-astrology-predict-health-problems", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Vénus en maison 6 ?"
-    a: "Qu’à votre naissance, Vénus se trouvait dans la maison du travail quotidien, des habitudes et du soin donné à vos journées. Vous tenez à un lieu de travail agréable et à des collègues faciles, vous mettez de la grâce dans les tâches ordinaires, et être utile vous fait plaisir. L’harmonie au quotidien compte pour vous plus que pour beaucoup."
+    a: "Votre Vénus occupe la maison de la journée de travail, de ses habitudes et de ses petits soins. Un cadre de travail plaisant et des collègues commodes comptent pour vous, la grâce entre dans vos tâches ordinaires, et être utile vous fait plaisir. L’harmonie au quotidien compte pour vous plus que pour beaucoup."
   - q: "Vénus en maison 6 parle-t-elle de santé ?"
-    a: "Pas comme prédiction. La tradition liait la maison 6 à la maladie, mais aucun thème ne peut prédire la santé de quelqu’un, et ce n’est pas ainsi que je la lis. Vénus décrit ici votre façon de prendre soin de vos journées : des repas sans hâte, des habitudes douces, un travail qui reste humain."
+    a: "Pas comme prédiction. Les vieux livres rattachaient la maison 6 à la maladie, mais aucun thème ne peut prédire la santé de quelqu’un, et ce n’est pas ainsi que je la lis. Vénus décrit ici votre manière de soigner vos journées : des repas sans hâte, des habitudes douces, un travail qui reste humain."
   - q: "Vénus en maison 6 est-elle bonne pour le travail ?"
     a: "Elle donne souvent quelqu’un d’apprécié au travail et une façon agréable de travailler : vous voyez qui a besoin d’aide et vous facilitez la journée des autres. Le défi, c’est de ne pas laisser le désir d’harmonie vous retenir dans des situations injustes. Un bon cadre de travail compte autant, pour cette Vénus, qu’un bon poste."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons, la Fortune défavorable, et ce que la tradition donnait à la sixième" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-Vénus en maison 6 trouve son plaisir un mardi ordinaire : un bureau bien rangé, un bon déjeuner entre collègues, une tâche menée à bien. La planète de la valeur et de l’harmonie se trouve dans la maison du travail quotidien et des habitudes, loin de tout projecteur. J’y lis le don de rendre le quotidien agréable, pour vous comme pour les personnes avec qui vous travaillez.
+Vénus en maison 6 trouve son plaisir un mardi ordinaire : un bureau bien rangé, un bon déjeuner entre collègues, une tâche menée à bien. La planète de la valeur et de l’harmonie travaille ici parmi les tâches et les habitudes, loin de tout projecteur. J’y lis un talent pour rendre le quotidien agréable, pour vous comme pour les personnes avec qui vous travaillez.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La [maison 6](/astrology/6th-house/), c’est la forme d’une journée ordinaire : le travail que vous faites vraiment, les habitudes qui vous tiennent debout, les personnes à côté de qui vous travaillez, le soin que vous donnez à votre corps. C’est une maison cadente, celle qui précède le descendant ; la tradition l’appelait la Fortune défavorable et y plaçait la joie de Mars. Son signe naturel est la Vierge, où Vénus a sa chute. Sur le papier, c’est donc un drôle d’endroit pour la planète du plaisir. Dans les faits, [Vénus](/astrology/venus/) y met de la grâce dans l’ordinaire : vous tenez à un lieu de travail agréable, à des collègues faciles et à des habitudes bien faites, et l’utilité vous fait plus plaisir qu’à beaucoup.
+La [maison 6](/astrology/6th-house/) couvre la semaine de travail telle qu’on la vit vraiment : les tâches sur la liste, les habitudes qui vous font tenir, les personnes au bureau d’à côté, la manière dont vous traitez votre corps d’un jour à l’autre. Cadente, juste sous le descendant, elle portait le nom ancien de Fortune défavorable, et c’est là que Mars avait sa joie. Son signe naturel est la Vierge, où Vénus a sa chute. Sur le papier, c’est donc un drôle d’endroit pour la planète du plaisir. Dans les faits, [Vénus](/astrology/venus/) y met de la grâce dans l’ordinaire : vous tenez à un lieu de travail agréable, à des collègues faciles et à des habitudes bien faites, et l’utilité vous fait plus plaisir qu’à beaucoup.
 
-Ces mêmes vieux livres liaient cette maison à la maladie. Je ne lis ni la maladie ni la santé dans un thème, et aucun thème ne peut les prédire ([L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)). Ce que je lis avec Vénus ici, c’est votre façon de prendre soin de vos journées : les repas que vous prenez le temps de savourer, la marche qui vous vide la tête, le rythme qui rend le travail humain.
+Ces mêmes vieux livres liaient cette maison à la maladie. Je ne lis ni la maladie ni la santé dans un thème, et aucun thème ne peut les prédire ([L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)). Avec Vénus ici, je lis quelque chose de plus doux : la manière dont vous aimez soigner vos journées, les repas que vous prenez le temps de savourer, la marche qui vous vide la tête, le rythme qui rend le travail humain.
 
 Vénus s’était couchée peu avant votre naissance, juste sous l’horizon ouest, et comme le Soleil est tout proche, la naissance tombe le plus souvent en fin d’après-midi ou en soirée. Quelques minutes comptent ici. Une naissance un peu plus tôt trouverait Vénus encore au-dessus de l’horizon, en maison 7 ([Vénus en maison 7](/astrology/venus-in-7th-house/)) ; une naissance plus tardive la ferait descendre en maison 5 ([Vénus en maison 5](/astrology/venus-in-5th-house/)). [Placidus](/astrology/placidus/), le système que j’utilise, trace ces limites à partir de l’heure exacte : sans elle, je ne peux pas vous dire laquelle des trois est la vôtre ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
@@ -44,7 +44,7 @@ En amour, une Vénus en maison 6 montre son affection par le soin quotidien : l
 
 ## Au travail {#au-travail}
 
-C’est une maison de travail, et Vénus en fait l’un des endroits où vous cherchez l’harmonie. Vous mettez souvent de la grâce dans les tâches ordinaires et une ambiance amicale dans une équipe ; on aime travailler avec vous, et vous remarquez quand quelqu’un a besoin d’un coup de main. Le service, le soin, le design d’objets du quotidien, l’hôtellerie, la gestion d’un bureau, l’artisanat, tout métier dont le produit est une journée bien menée peut lui convenir. Les lieux de travail rudes, les responsables grossiers et les cadres laids vous touchent plus que vous ne l’avouez.
+C’est une maison de travail, et Vénus en fait l’un des endroits où vous cherchez l’harmonie. Vous mettez souvent de la grâce dans les tâches ordinaires et une ambiance amicale dans une équipe ; on aime travailler avec vous, et vous remarquez quand quelqu’un a besoin d’un coup de main. Le service, le soin, le design d’objets du quotidien, l’hôtellerie, la gestion d’un bureau, l’artisanat, tout métier dont le produit est une journée bien menée peut lui convenir. Les lieux de travail rudes, les responsables grossiers et les cadres laids vous atteignent plus que vous ne le dites.
 
 ## Le plus difficile {#le-plus-difficile}
 
@@ -54,4 +54,4 @@ Le besoin d’harmonie au travail peut vous faire supporter ce que vous ne devri
 
 Glissez un petit plaisir dans chaque journée de travail, et protégez-le. Dites clairement quand une charge n’est pas juste : une harmonie qui repose sur le silence d’une seule personne n’en est pas une. Choisissez des habitudes qui font du bien, pas seulement des habitudes efficaces. Et tournez une part de votre soin vers vous : un déjeuner sans hâte, une promenade, une soirée sans aucune tâche.
 
-Dans [mon carnet](/blog/i-tested-my-birth-chart/), Vénus a tenu environ une fois sur trois, et en maison 6, c’est un placement discret, facile à manquer dans un thème et facile à voir dans une vie. Je le cherche dans la façon dont vous racontez vos journées de travail.
+Dans [mon carnet](/blog/i-tested-my-birth-chart/), Vénus a tenu dans un cas sur trois environ, et en maison 6, c’est un placement discret, facile à manquer dans un thème et facile à voir dans une vie. Je le cherche dans la façon dont vous racontez vos journées de travail.

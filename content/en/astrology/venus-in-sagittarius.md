@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 45
 glyph: "♀♐"
-definition: "Venus in Sagittarius sets the planet of value and attraction in mutable fire, the ninth sign, ruled by Jupiter. It describes a taste for freedom, honesty and the unfamiliar, affection shown by sharing adventures and ideas, and a way of relating that commits best to someone who also leaves room to grow."
+definition: "Venus in Sagittarius carries the planet of value and attraction into mutable fire, the ninth sign, ruled by Jupiter. It describes a taste for freedom, honesty and the unfamiliar, affection shown by sharing adventures and ideas, and a way of relating that commits best to someone who also leaves room to grow."
 facts:
   - { k: "Body", v: "Venus ♀" }
   - { k: "Sign", v: "Sagittarius ♐, ruled by Jupiter" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/sagittarius", "/astrology/jupiter", "/astrology/venus-in-9th-house", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Venus in Sagittarius mean?"
-    a: "It means Venus stood in Sagittarius, the sign of the far horizon, at your birth. You tend to value freedom, honesty and meaning, to be drawn to people who widen your world, and to show affection by sharing adventures, ideas and laughter. You need room to breathe in love. Its house shows where that roaming spirit matters most."
+    a: "It means Venus stood in Sagittarius, the archer’s sign, at your birth. Freedom, honesty and meaning matter most to you, you’re drawn to people who widen your world, and your affection shows in shared adventures, ideas and laughter. You need room to breathe in love. Its house shows where that roaming spirit matters most."
   - q: "Can Venus in Sagittarius commit?"
     a: "Yes. What it resists is confinement, not commitment. Sagittarius gives Venus a need for room, honesty and shared growth, so a relationship that keeps moving, with new places, ideas and plans, tends to hold it far better than one that asks it to stand still."
   - q: "What attracts Venus in Sagittarius?"
@@ -34,7 +34,7 @@ Venus in Sagittarius likes what it hasn't met yet. The planet of attraction and 
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Venus](/astrology/venus/) weighs what is worth having and how you relate. [Sagittarius](/astrology/sagittarius/), mutable fire ruled by [Jupiter](/astrology/jupiter/), gives it a roaming, frank and curious manner. You tend to value whatever teaches you something: a language, a country, a person whose life is unlike yours, a book that changes your mind. Honesty ranks high, sometimes above tact.
+[Venus](/astrology/venus/) sorts what you prize from what you can pass by, and shapes how you relate. [Sagittarius](/astrology/sagittarius/), mutable fire ruled by [Jupiter](/astrology/jupiter/), gives it a roaming, frank and curious manner. You tend to value whatever teaches you something: a language, a country, a person whose life is unlike yours, a book that changes your mind. Honesty ranks high, sometimes above tact.
 
 Sagittarius holds no dignity for Venus, which leaves its ruler to fill in the picture. Jupiter, by sign and house, shows where this Venus goes looking for meaning and growth, the wider view that keeps affection alive for it.
 
@@ -42,11 +42,11 @@ Venus moves through Sagittarius briskly, usually in about 24 days, and between 1
 
 ## In close relationships {#in-close-relationships}
 
-In love, this Venus wants a companion as much as a partner: someone to laugh with, argue ideas with, get lost with in a foreign city. You tend to be drawn to people who are frank, curious and a little unfamiliar, and you show affection by sharing your world, a book, a trip, a plan. Compared with [Venus in Scorpio](/astrology/venus-in-scorpio/), which dives, and [Venus in Capricorn](/astrology/venus-in-capricorn/), which climbs, a Sagittarius Venus ranges, and loves by widening someone's horizon. Reciprocity means growing together, with room to breathe on both sides. What hurts is feeling hemmed in, or being asked to pretend. Commitment comes more easily when it looks like a journey than when it looks like a cage.
+In love, this Venus wants a companion as much as a partner: someone to laugh with, argue ideas with, get lost with in a foreign city. Frank, curious, slightly unfamiliar people attract you, and you show affection by sharing your world, a book, a trip, a plan. Compared with [Venus in Scorpio](/astrology/venus-in-scorpio/), which dives, and [Venus in Capricorn](/astrology/venus-in-capricorn/), which climbs, a Sagittarius Venus ranges, and loves by widening someone's horizon. Reciprocity means growing together, with room to breathe on both sides. What hurts is feeling hemmed in, or being asked to pretend. Commitment comes more easily when it looks like a journey than when it looks like a cage.
 
 ## At work {#at-work}
 
-At work, a Sagittarius Venus values freedom, meaning and honest colleagues. You're often good at work that crosses borders or opens horizons: teaching, publishing, travel, languages, outdoor or international work, anything that lets you explain the big picture. A job that keeps you in one room doing one thing can make you restless, however pleasant it is. Pleasure at work comes from learning, and the day the learning stops is often the day this Venus starts looking at the door.
+Freedom, meaning and honest colleagues are what a Sagittarius Venus asks of a job. You're often good at work that crosses borders or opens horizons: teaching, publishing, travel, languages, outdoor or international work, anything that lets you explain the big picture. A job that keeps you in one room doing one thing can make you restless, however pleasant it is. Pleasure at work comes from learning, and the day the learning stops is often the day this Venus starts looking at the door.
 
 ## The hard part {#the-hard-part}
 
@@ -56,4 +56,4 @@ Restlessness, and frankness with nowhere soft to land. You may promise generousl
 
 Find the adventure inside what you have already chosen: a new place together, a new subject, a question you have never asked each other. Keep promises small enough to keep. Before you say the honest thing, ask whether it is also the kind thing, and look for the sentence that is both. And when you need space, ask for it in words, with a date for coming back, so that freedom never has to be taken by leaving.
 
-In [my notebook](/blog/i-tested-my-birth-chart/), Venus held about a third of the time. A Sagittarius Venus prefers an honest number to a flattering one, so here it is plainly: a third is close to what a vague horoscope scores. I read your Venus knowing that, and I flag it whenever a reading relies on it.
+The count in [my notebook](/blog/i-tested-my-birth-chart/) is about a third for Venus. A Sagittarius Venus prefers an honest number to a flattering one, so here it is plainly: a third is close to what a vague horoscope scores. I read your Venus knowing that, and I flag it whenever a reading relies on it.

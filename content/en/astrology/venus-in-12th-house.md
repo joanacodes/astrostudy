@@ -22,7 +22,7 @@ faq:
   - q: "Does Venus in the 12th house mean secret love?"
     a: "Not as a prediction. Venus in the 12th describes a private, discreet way of loving: feelings kept close, kindness shown quietly, attraction that may stay unspoken for a while. Whether a relationship is open or hidden is a choice people make, not something written in a chart."
   - q: "Do I need my birth time for Venus in the 12th house?"
-    a: "Yes, and closely. Only the Ascendant separates a 12th-house Venus from a 1st-house one, and a few minutes either way can move it across; in Placidus, the system I use, every cusp comes from the exact time and place. Without them, I don’t read Venus by house."
+    a: "Yes, and closely. Only the Ascendant separates a 12th-house Venus from a 1st-house one, and a few minutes either way can move it across; in Placidus, the system I use, every cusp comes from the exact time and place. Without them, I don’t place Venus in a house at all."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, the Bad Spirit, and what tradition gave the twelfth" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
@@ -43,7 +43,7 @@ In love, a 12th-house Venus is tender and discreet. You may feel a great deal be
 
 ## At work {#at-work}
 
-At work, this Venus is often happiest behind the scenes. Care work, charities, retreats, libraries, archives, music or art made in solitude, research, any job where the work matters more than being seen doing it, can suit it. You may be the colleague who quietly makes things easier for everyone, without credit. Noisy, competitive workplaces drain it; a quiet room and a meaningful task restore it.
+At work, this Venus is often happiest behind the scenes. Care work, charities, retreats, libraries, archives, music or art made in solitude, research, any job where the work matters more than being seen doing it, can suit it. Often you're the one quietly making things easier for everyone, without credit. Noisy, competitive workplaces drain it; a quiet room and a meaningful task restore it.
 
 ## The hard part {#the-hard-part}
 

@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 45
 glyph: "♀"
-definition: "Venus in the 9th house places the planet of value and attraction in the house of distance in every sense: travel, study, faith and the search for meaning. It describes a heart widened by the unfamiliar, attraction to people and ideas from elsewhere, and a pleasure in learning that keeps love alive. It needs an exact birth time."
+definition: "Venus in the 9th house places the planet of value and attraction in the house of distance in every sense: travel, study, faith and meaning. It describes a heart widened by the unfamiliar, attraction to people and ideas from elsewhere, and a pleasure in learning that keeps love alive. It depends on the birth time."
 facts:
   - { k: "Body", v: "Venus ♀" }
   - { k: "House", v: "The 9th house: the far horizon, study, belief, long journeys" }
@@ -18,11 +18,11 @@ facts:
 related: ["/astrology/venus", "/astrology/9th-house", "/astrology/venus-in-sagittarius", "/astrology/placidus", "/blog/unknown-birth-time"]
 faq:
   - q: "What does Venus in the 9th house mean?"
-    a: "Venus sat in the 9th house at your birth, the house of travel, higher study, belief and meaning. You tend to love what widens your world, to be drawn to people and ideas from elsewhere, and to find pleasure in learning. Distance, of every kind, is part of what attracts you."
+    a: "Your Venus is in the 9th house, the house of travel, higher study, belief and meaning. You tend to love what widens your world, to be drawn to people and ideas from elsewhere, and to find pleasure in learning. Distance, of every kind, is part of what attracts you."
   - q: "Will I marry someone from another country with Venus in the 9th house?"
     a: "No chart can say whom you will marry, or where they will come from. Venus in the 9th describes a taste for the unfamiliar: you’re often drawn to people from other places, cultures or ways of thinking. Whether that leads to a partner from abroad is your life’s business, not the chart’s."
   - q: "Do I need my birth time for Venus in the 9th house?"
-    a: "Yes. A 9th-house Venus sits just past the Midheaven, so in Placidus, the system I use, a few minutes earlier could make it a 10th-house Venus and a little later an 8th-house one. Without a reliable time, I leave the house out."
+    a: "Yes. A 9th-house Venus sits just past the Midheaven, so a few minutes earlier, in Placidus, could make it a 10th-house Venus and a little later an 8th-house one. Without a reliable time, I leave the house out."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, the God, and the joy of the Sun in the ninth" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
@@ -41,7 +41,7 @@ In love, a 9th-house Venus is drawn to people who widen its world: someone from 
 
 ## At work {#at-work}
 
-At work, this Venus values meaning, learning and a wide horizon. Teaching, publishing, universities, translation, international work, travel, law, philosophy, the arts, anything that crosses borders or explains the world, can suit it. You may enjoy working with people from many places, and bring a generous curiosity to ideas that aren't your own. A job that feels small or parochial can leave you restless, however well it pays.
+Meaning, learning and a wide horizon matter most to this Venus at work. Teaching, publishing, universities, translation, international work, travel, law, philosophy, the arts, anything that crosses borders or explains the world, can suit it. You may enjoy working with people from many places, and bring a generous curiosity to ideas that aren't your own. A job that feels small or parochial can leave you restless, however well it pays.
 
 ## The hard part {#the-hard-part}
 

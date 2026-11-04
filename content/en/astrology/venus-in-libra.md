@@ -18,9 +18,9 @@ facts:
 related: ["/astrology/venus", "/astrology/libra", "/astrology/domicile", "/astrology/venus-in-7th-house", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Venus in Libra mean?"
-    a: "Your Venus is at home: it was in Libra, a sign it rules, at your birth. You tend to value fairness, balance and partnership, to relate through courtesy and consideration, and to judge by proportion: what fits, what is fair, what sits well together. Its house shows where that sense of balance matters most."
+    a: "Your Venus is at home: at your birth it stood in Libra, one of its two signs. Fairness, balance and partnership matter to you; you relate through courtesy and consideration, and judge by proportion: what fits, what is fair, what sits well together. Its house shows where that sense of balance matters most."
   - q: "Is Venus in Libra a people-pleaser?"
-    a: "It can drift that way, but that isn’t its aim. Libra gives Venus a gift for seeing the other side and a dislike of discord. At its best, that makes for fair, generous relationships in which both people speak. The work is to keep your own voice in the balance."
+    a: "It can drift that way, but that isn’t its aim. Libra gives Venus a gift for seeing the other side and a dislike of discord. At its best, that makes for fair, generous relationships in which both people speak. The work is not to leave yourself out of the weighing."
   - q: "Is Venus strong in Libra?"
     a: "By tradition, yes. Libra is a domicile of Venus, as Taurus is, and in it Venus has no other planet to report to. I read that as ease in relating rather than luck in love. You usually know how to make a room, or a relationship, feel fair."
   - q: "How common is Venus in Libra?"
@@ -34,7 +34,7 @@ Venus in Libra is Venus in the sign of the scales, and it weighs everything: two
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Venus](/astrology/venus/) judges what is worth having and how to relate. In [Libra](/astrology/libra/), cardinal air, it rules its own sign, its [domicile](/astrology/domicile/), and the judging becomes a matter of proportion and fairness. You tend to value balance: a room where nothing shouts, a conversation where both people get to speak, an exchange where neither side is short-changed. Cardinal signs start things, and this one starts connections: the invitation, the introduction, the gesture that brings two people to the same table.
+[Venus](/astrology/venus/) judges what is worth having and how to relate. In [Libra](/astrology/libra/), cardinal air, it rules its own sign, its [domicile](/astrology/domicile/), and the judging becomes a matter of proportion and fairness. Balance is what you prize: a room where nothing shouts, a conversation where both people get to speak, an exchange where neither side is short-changed. Cardinal signs start things, and this one starts connections: the invitation, the introduction, the gesture that brings two people to the same table.
 
 Libra is the second of the two signs Venus rules, after Taurus, and in it Venus reports to no planet but itself. The air element turns its taste towards people and ideas. A Libra Venus cares how things look, but even more how they sit together, and whether they're fair. And the harmony it's known for isn't the same as avoiding conflict. What this Venus values is a balance actually reached, sometimes after an honest disagreement, not a peace kept by keeping quiet.
 
@@ -56,4 +56,4 @@ Indecision, and the cost of being agreeable. When every option has to be weighed
 
 Practise saying what you want first, before asking what the other person wants. Let a disagreement run its course instead of smoothing it over: real balance often comes after friction. Make some choices alone, and quickly, and notice that nothing breaks. And keep one pleasure that belongs only to you, chosen by no one else.
 
-Venus in its own sign sounds like a strong reading, and it's tempting to lean on it. But in [my notebook](/blog/i-tested-my-birth-chart/), Venus held about a third of the time, no more, so I weigh a Libra Venus as carefully as it would weigh anything, and I say plainly how much of your reading hangs on it.
+Venus in its own sign sounds like a strong reading, and it's tempting to lean on it. But by the count in [my notebook](/blog/i-tested-my-birth-chart/), Venus held only about a third of the time, no more, so I weigh a Libra Venus as carefully as it would weigh anything, and I say plainly how much of your reading hangs on it.

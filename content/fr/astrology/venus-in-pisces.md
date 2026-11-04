@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 48
 glyph: "♀♓"
-definition: "Vénus en Poissons, c’est Vénus dans l’eau mutable, le signe de son exaltation, gouverné par Neptune et, dans la tradition, par Jupiter. On y lit une façon d’apprécier qui ne tient pas de comptes, une affection qui passe par la compassion et l’imagination, et une tendresse capable d’aimer l’imparfait, qui se porte mieux avec quelques limites."
+definition: "Vénus en Poissons, c’est Vénus dans l’eau mutable, le signe de son exaltation, que gouvernent Neptune et, dans la tradition, Jupiter. On y lit une façon d’apprécier qui ne tient pas de comptes, une affection qui passe par la compassion et l’imagination, et une tendresse capable d’aimer l’imparfait, qui se porte mieux avec quelques limites."
 facts:
   - { k: "Corps", v: "Vénus ♀" }
   - { k: "Signe", v: "Poissons ♓, gouvernés par Neptune et, dans la tradition, par Jupiter" }
@@ -19,13 +19,13 @@ facts:
 related: ["/astrology/venus", "/astrology/pisces", "/astrology/exaltation", "/astrology/neptune", "/astrology/jupiter"]
 faq:
   - q: "Que veut dire Vénus en Poissons ?"
-    a: "Qu’à votre naissance, Vénus se trouvait en Poissons, le signe de son exaltation. Vous tenez à la compassion, à l’imagination et au pardon, vous sentez ce que les autres éprouvent, et vous aimez sans tenir de comptes. La douceur et le sens comptent plus pour vous que l’apparat. Sa maison montre où cette tendresse coule le plus librement."
+    a: "À votre naissance, Vénus était en Poissons, son exaltation. La compassion, l’imagination et le pardon vous viennent naturellement ; vous sentez ce que les autres éprouvent, et vous aimez sans tenir de comptes. La douceur et le sens comptent plus pour vous que l’apparat. Sa maison montre où cette tendresse coule le plus librement."
   - q: "Vénus est-elle exaltée en Poissons ?"
     a: "Oui. La tradition place l’exaltation de Vénus en Poissons, où elle serait la plus forte, et sa chute en face, en Vierge. Je lis cette force comme une amplitude : cette Vénus peut aimer ce qui est imparfait ou blessé et le trouver beau quand même. Elle a besoin de limites pour rester en forme."
   - q: "Qui gouverne Vénus en Poissons ?"
-    a: "Les Poissons ont deux maîtres : Neptune en astrologie tropicale moderne, Jupiter dans la tradition. Je lis les deux. Le signe et la maison de Neptune montrent jusqu’où va la compassion de cette Vénus ; ceux de Jupiter, le sens et la générosité vers lesquels elle grandit."
+    a: "Neptune, leur maître en astrologie tropicale moderne, et Jupiter, leur maître traditionnel ; je lis les deux. La position de Neptune montre jusqu’où va la compassion de cette Vénus ; celle de Jupiter, le sens et la générosité vers lesquels elle grandit."
   - q: "Vénus en Poissons, est-ce fréquent ?"
-    a: "C’est l’un des signes de Vénus les plus rares : environ 1 personne sur 14 née entre 1930 et 2009. Vénus traverse d’habitude les Poissons en 25 jours environ, et pendant ces années, elle n’y est jamais restée plus de 30 jours d’affilée : moins de naissances y sont tombées que dans presque tous les autres signes."
+    a: "L’un des plus rares : environ 1 personne sur 14 née entre 1930 et 2009, juste derrière la Balance pour la rareté. Pendant ces années, Vénus n’est jamais restée plus de 30 jours d’affilée en Poissons, et d’habitude 25 environ : moins de naissances y sont donc tombées."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’exaltation de Vénus en Poissons, et Jupiter, maître des Poissons" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée du passage de Vénus en Poissons, et la part des personnes nées entre 1930 et 2009 qui ont ce placement" }
@@ -35,11 +35,11 @@ Vénus en Poissons ne tient pas de comptes. La tradition fait des Poissons le si
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-[Vénus](/astrology/venus/) apprécie, attire et relie. Les [Poissons](/astrology/pisces/), eau mutable, lui donnent de la douceur, de l’empathie et une vaste imagination. Vous tenez à ce qui ne se mesure pas tout à fait : une musique qui vous défait, une gentillesse que personne n’a vue, la personne derrière le rôle. Les signes mutables s’adaptent, et celui-ci s’adapte aux émotions. Vous sentez souvent ce dont quelqu’un a besoin avant même que la personne le dise.
+[Vénus](/astrology/venus/) apprécie, attire et relie. Les [Poissons](/astrology/pisces/), eau mutable, lui donnent de la douceur, de l’empathie et une vaste imagination. Vous tenez à ce qui ne se mesure pas tout à fait : une musique qui vous défait, une gentillesse que personne n’a vue, la personne derrière le rôle. Vous sentez souvent ce dont quelqu’un a besoin avant même que la personne le dise, comme si l’émotion était une langue que vous aviez toujours parlée.
 
-C’est l’[exaltation](/astrology/exaltation/) de Vénus, le signe où la tradition la dit la plus forte. Je lis cette force comme une amplitude plutôt que comme une chance : cette Vénus peut aimer ce qui est imparfait, inachevé ou blessé, et le trouver beau quand même. Les Poissons ont deux maîtres, [Neptune](/astrology/neptune/) en astrologie tropicale moderne et [Jupiter](/astrology/jupiter/) dans la tradition. Je lis les deux : Neptune pour la portée de la compassion de cette Vénus, Jupiter pour le sens et la générosité vers lesquels elle grandit.
+C’est l’[exaltation](/astrology/exaltation/) de Vénus, le signe où la tradition la dit la plus forte. Je lis cette force comme une amplitude plutôt que comme une chance : cette Vénus peut aimer ce qui est imparfait, inachevé ou blessé, et le trouver beau quand même. Les Poissons relèvent de [Neptune](/astrology/neptune/) en astrologie tropicale moderne et de [Jupiter](/astrology/jupiter/) dans l’ancien système, et je lis les deux : Neptune pour la portée de la compassion de cette Vénus, Jupiter pour le sens et la générosité vers lesquels elle grandit.
 
-Vénus traverse d’habitude les Poissons en 25 jours environ, et de 1930 à 2009, elle n’y est jamais restée plus de 30 jours d’affilée. Le signe de son exaltation compte parmi ses plus rares : environ 1 personne sur 14 née pendant ces années l’a dans son thème. Votre Soleil est en Poissons ou à deux signes au plus, du Capricorne au Taureau. L’exaltation touche l’un des exils de Vénus : [Vénus en Bélier](/astrology/venus-in-aries/), un signe plus loin, est le placement où la tradition la trouve le moins à l’aise, et une naissance le jour où Vénus passait de l’un à l’autre demande un thème calculé pour l’heure. Un signe plus tôt, [Vénus en Verseau](/astrology/venus-in-aquarius/) n’a aucune dignité.
+La visite habituelle de Vénus en Poissons dure environ 25 jours, et de 1930 à 2009, aucune n’a duré plus de 30. Le signe de son exaltation compte donc parmi ses plus rares, avec environ 1 personne sur 14 née pendant ces années. Le Soleil qui l’accompagne est en Capricorne, en Verseau, en Poissons, en Bélier ou en Taureau. L’exaltation touche l’un des exils de Vénus : [Vénus en Bélier](/astrology/venus-in-aries/), un signe plus loin, est le placement où la tradition la trouve le moins à l’aise, et une naissance le jour où Vénus passait de l’un à l’autre demande un thème calculé pour l’heure. Un signe plus tôt, [Vénus en Verseau](/astrology/venus-in-aquarius/) n’a aucune dignité.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -47,14 +47,14 @@ En amour, une Vénus en Poissons est tendre, dévouée et prompte à pardonner. 
 
 ## Au travail {#au-travail}
 
-Au travail, cette Vénus tient au sens, à la bienveillance et à la place laissée à l’imagination. Vous êtes souvent à l’aise là où l’empathie est la compétence même : le soin, les arts, la musique, la thérapie, l’enseignement, les associations, partout où les gens ont besoin de se sentir compris. Vous pouvez apporter de la douceur dans une équipe et calmer une pièce tendue sans dire grand-chose. La compétition dure et le travail qui semble vide de sens l’épuisent vite, et après des journées passées à absorber l’humeur des autres, elle peut avoir besoin de calme pour se remettre.
+Le travail, pour cette Vénus, demande du sens, de la bienveillance et de la place pour imaginer. Vous êtes souvent à l’aise là où l’empathie est la compétence même : le soin, les arts, la musique, la thérapie, l’enseignement, les associations, partout où il faut que les gens se sentent compris. Vous pouvez apporter de la douceur dans une équipe et calmer une pièce tendue sans dire grand-chose. La compétition dure et le travail qui semble vide de sens l’épuisent vite, et après des journées passées à absorber l’humeur des autres, elle peut avoir besoin de calme pour se remettre.
 
 ## Le plus difficile {#le-plus-difficile}
 
-Distinguer la compassion de l’effacement de soi. Vous donnez parfois jusqu’à ce qu’il ne reste presque rien, pardonnez ce qui ne devrait pas l’être deux fois, ou aimez le potentiel de quelqu’un plus que la personne qui est devant vous. Les limites peuvent sembler peu aimables : vous évitez parfois d’en poser, puis tout déborde. Et quand la vie reste en deçà de ce que vous aviez imaginé, la déception peut être silencieuse et profonde.
+Distinguer la compassion de l’effacement de soi. Vous donnez parfois jusqu’à ce qu’il ne reste presque rien, pardonnez ce qui ne devrait pas l’être deux fois, ou aimez ce qu’une personne pourrait devenir plus que ce qu’elle est aujourd’hui. Les limites peuvent sembler peu aimables : vous évitez parfois d’en poser, puis tout déborde. Et quand la vie reste en deçà de ce que vous aviez imaginé, la déception peut être silencieuse et profonde.
 
 ## Ce qui aide {#ce-qui-aide}
 
 Gardez quelque chose pour vous : du temps, de l’énergie, une part de votre vie qui n’appartient qu’à vous. Aimez les gens tels qu’ils sont aujourd’hui, pas seulement tels qu’ils pourraient être. Exercez-vous à un non doux, et remarquez que l’amour y survit. Et donnez une forme à votre imagination, la musique, la peinture, l’écriture, de longues marches au bord de l’eau, pour qu’elle ait un autre lieu où aller que les autres.
 
-L’exaltation ressemble à une promesse, et une Vénus en Poissons est assez généreuse pour y croire. Mais dans [mon carnet](/blog/i-tested-my-birth-chart/), Vénus a tenu environ une fois sur trois, comme les autres placements que tout le monde lit en premier. Je lis donc celle-ci avec tendresse et sans promesse, et je vous dis quelles parties d’une lecture s’appuient sur elle.
+L’exaltation ressemble à une promesse, et une Vénus en Poissons est assez généreuse pour y croire. Mais [mon carnet](/blog/i-tested-my-birth-chart/) donne à Vénus le même score modeste qu’aux autres placements que tout le monde lit en premier : environ une fois sur trois. Alors je lis celle-ci avec tendresse et sans promesse, et je signale les parties d’une lecture qui dépendent d’elle.

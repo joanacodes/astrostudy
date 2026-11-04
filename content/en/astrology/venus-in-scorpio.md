@@ -18,11 +18,11 @@ facts:
 related: ["/astrology/venus", "/astrology/scorpio", "/astrology/detriment", "/astrology/pluto", "/astrology/mars"]
 faq:
   - q: "What does Venus in Scorpio mean?"
-    a: "At your birth Venus was in Scorpio, the sign of depth. You tend to value depth, loyalty and truth, to be drawn to people with an inner life, and to love with your whole self or not at all. Trust is given slowly and kept for good. Its house shows where that intensity matters most."
+    a: "At your birth Venus was in Scorpio, the sign of the deep end. Loyalty and truth come first for you, people with an inner life draw you, and you love with your whole self or not at all. Trust is given slowly and kept for good. Its house shows where that intensity matters most."
   - q: "Is Venus in Scorpio bad?"
     a: "No. Tradition calls Scorpio the detriment of Venus, because it faces Taurus, one of Venus’s own signs. That describes love that goes past the surface and asks a great deal, not love that fails. Its difficulties are jealousy and holding on; its gifts are loyalty, honesty and staying power."
   - q: "Who rules Venus in Scorpio?"
-    a: "Two planets: Pluto, its ruler in modern tropical astrology, and Mars, its ruler in the tradition. I read both. Pluto’s sign and house show where this Venus is asked to let what it values change; Mars shows how it stands guard over what it loves, and where it draws the line."
+    a: "Two: Mars, the ruler the tradition gives Scorpio, and Pluto, the one modern tropical astrology adds. I read both. Pluto’s sign and house show where this Venus is asked to let what it values change; Mars shows how it stands guard over what it loves, and where it draws the line."
   - q: "How common is Venus in Scorpio?"
     a: "Among the commonest: about 1 person in 10 born between 1930 and 2009. A retrograde in Scorpio can hold Venus there for up to 122 days, five times its usual 24 or so, and those long stays add a great many births."
 sources:
@@ -30,11 +30,11 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Venus stays in Scorpio, and how many people born 1930–2009 have it" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-Venus in Scorpio would rather know you than be charmed by you. The planet that weighs what is worth having sits here in fixed water, and what it values is whatever holds up under pressure: trust, truth, the bond that survives a hard winter. I read it as loyalty with no half measures, and a heart that wants the whole story.
+Venus in Scorpio would rather know you than be charmed by you. In fixed water, Venus values whatever holds up under pressure: trust, truth, the bond that survives a hard winter. I read it as loyalty with no half measures, and a heart that wants the whole story.
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Venus](/astrology/venus/) decides what you value, what draws you and how you bond. [Scorpio](/astrology/scorpio/), fixed water, gives it depth, concentration and staying power. You tend to value what is real underneath: the friend who has seen you at your worst, the conversation that goes past politeness, the music that unsettles you. What you love, you love for a long time.
+[Venus](/astrology/venus/) decides what you prize, what pulls you towards someone and how you bond. [Scorpio](/astrology/scorpio/), fixed water, gives it depth, concentration and staying power. What you prize is what's real underneath: the friend who has seen you at your worst, the conversation that goes past politeness, the music that unsettles you. What you love, you love for a long time.
 
 Tradition calls Scorpio Venus's [detriment](/astrology/detriment/): it faces Taurus, Venus's own sign. Taurus values what can be seen and touched; Scorpio values what is hidden and has to be earned. I don't read the detriment as love gone wrong. It is love that refuses the surface, and asks a great deal of you and of others.
 
@@ -48,7 +48,7 @@ In love, a Scorpio Venus is all in or not in at all. Trust is given slowly and t
 
 ## At work {#at-work}
 
-At work, this Venus values discretion, depth and loyalty. You're often good at work that needs trust or looks beneath the surface: research, investigation, therapy, crisis support, restoration, the problems others would rather not face. You can be fiercely loyal to a team or a cause, and slow to forgive a colleague who breaks a confidence. Shallow office politics bores it; a project with real stakes brings out its best.
+Discretion, depth and loyalty count for a great deal with this Venus at work. You're often good at work that needs trust or looks beneath the surface: research, investigation, therapy, crisis support, restoration, the problems others would rather not face. You can be fiercely loyal to a team or a cause, and slow to forgive a colleague who breaks a confidence. Shallow office politics bores it; a project with real stakes brings out its best.
 
 ## The hard part {#the-hard-part}
 
@@ -58,4 +58,4 @@ Intensity can slide into control. The fear of losing what you love may show as j
 
 Say the fear before it turns into a test: *I'm afraid you'll leave* is far easier to answer than a trap. Let small slights stay small. Choose one or two people with whom you are fully open, and practise it. And give your intensity somewhere to go besides your relationships: a craft, a field of study, a long project to lose yourself in.
 
-In [my notebook](/blog/i-tested-my-birth-chart/), Venus is filed with the placements that held about one time in three. A Scorpio Venus usually distrusts anything that describes it too neatly, and here that's healthy: test this page against your life, and keep only what survives the test.
+In [my notebook](/blog/i-tested-my-birth-chart/), Venus is filed in the one-in-three group. A Scorpio Venus usually distrusts anything that describes it too neatly, and here that's healthy: test this page against your life, and keep only what survives the test.

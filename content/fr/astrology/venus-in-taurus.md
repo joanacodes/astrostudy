@@ -19,13 +19,13 @@ facts:
 related: ["/astrology/venus", "/astrology/taurus", "/astrology/domicile", "/astrology/venus-in-libra", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Que veut dire Vénus en Taureau ?"
-    a: "Qu’à votre naissance, Vénus se trouvait en Taureau, l’un de ses propres signes. Vous tenez à ce qui est réel, durable et bon pour les sens, et montrez votre affection par la présence et le soin plutôt que par les discours. Vous choisissez lentement et gardez ce que vous choisissez. Sa maison montre où cette constance compte le plus."
+    a: "À votre naissance, Vénus se tenait en Taureau, un signe qu’elle gouverne. Ce qui est réel, durable et bon pour les sens compte pour vous, et vous montrez votre affection par la présence et le soin plutôt que par les discours. Vous choisissez lentement et gardez ce que vous choisissez. Sa maison montre où cette constance compte le plus."
   - q: "Vénus est-elle forte en Taureau ?"
     a: "Oui, selon la tradition : le Taureau est l’un des deux signes de Vénus, son domicile, avec la Balance. Vénus gouverne le Taureau, elle n’y dépend donc d’aucune autre planète. J’y lis de la clarté plutôt que de la chance : vous savez en général ce que vous aimez et ce qui compte pour vous, et vous vous y tenez."
   - q: "Vénus en Taureau, est-ce être matérialiste ?"
-    a: "Pas comme je le lis. Cette Vénus tient à ce qui est réel et durable, y compris à ce que l’on possède, mais son plaisir est dans la qualité et le soin, pas dans l’accumulation. Beaucoup préfèrent garder une seule belle chose pendant des années plutôt qu’en acheter dix. Et aucun thème ne dit combien d’argent quelqu’un aura."
+    a: "Pas comme je le lis. Cette Vénus aime ce qui est réel et durable, y compris à ce que l’on possède, mais son plaisir est dans la qualité et le soin, pas dans l’accumulation. Beaucoup préfèrent garder une seule belle chose pendant des années plutôt qu’en acheter dix. Et aucun thème ne dit combien d’argent quelqu’un aura."
   - q: "Vénus en Taureau, est-ce fréquent ?"
-    a: "Moins qu’on ne l’attendrait pour l’un des signes de Vénus : environ 1 personne sur 14 née entre 1930 et 2009. Vénus traverse d’habitude le Taureau en 25 jours environ, et pendant ces décennies, elle n’y est jamais restée plus de 35 jours d’affilée : moins de naissances y sont donc tombées."
+    a: "Plus rare qu’on ne l’attendrait pour un signe que Vénus gouverne : environ 1 personne sur 14 née entre 1930 et 2009. Vénus ne s’est jamais attardée en Taureau pendant ces décennies, 35 jours au plus et d’habitude 25 environ : moins d’anniversaires y sont tombés que dans les signes où elle a rétrogradé."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le Taureau et la Balance, domiciles de Vénus" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée du passage de Vénus en Taureau, et la part des personnes nées entre 1930 et 2009 qui ont ce placement" }
@@ -35,11 +35,11 @@ Tendez une tasse à quelqu’un qui a Vénus en Taureau : la personne en remarq
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-[Vénus](/astrology/venus/) évalue : ce qui mérite d’être gardé, ce qui vous plaît, ce que vous aimeriez recevoir en retour. Le [Taureau](/astrology/taurus/), terre fixe, lui donne une manière posée, sensorielle, fidèle à ce qu’elle a éprouvé. Vos préférences se forment par le corps et par la répétition : le pain que vous rachetez toujours, la promenade dont vous ne vous lassez pas, l’amie ou l’ami dont la compagnie vous va comme un bon fauteuil.
+[Vénus](/astrology/venus/) évalue : ce qui mérite d’être gardé, ce qui vous plaît, ce que vous aimeriez recevoir en retour. En [Taureau](/astrology/taurus/), terre fixe, Vénus devient posée, sensorielle, fidèle à ce qu’elle a éprouvé. Vos préférences se forment par le corps et par la répétition : le pain que vous rachetez toujours, la promenade dont vous ne vous lassez pas, l’amie ou l’ami dont la compagnie vous va comme un bon fauteuil.
 
 Le Taureau est l’un des deux signes de Vénus, son [domicile](/astrology/domicile/) avec la Balance : là où [Vénus en Balance](/astrology/venus-in-libra/) pèse les personnes et l’équité, Vénus en Taureau pèse le confort, les choses et le temps. Et comme Vénus gouverne ce signe, elle n’y prend ses consignes d’aucune autre planète : elle travaille sans intermédiaire. Le plaisir compte beaucoup, mais ce n’est pas un goût du luxe. Vous préférez un bon manteau pour quinze hivers à une garde-robe qui change à chaque saison.
 
-Vénus traverse d’habitude le Taureau en 25 jours environ, et de 1930 à 2009, elle n’y est jamais restée plus de 35 jours d’affilée. Son propre signe compte donc parmi ses placements les plus rares : environ 1 personne sur 14 née pendant ces années l’a dans son thème. Votre Soleil est en Taureau ou à deux signes au plus, quelque part entre les Poissons et le Cancer. Juste à côté, [Vénus en Bélier](/astrology/venus-in-aries/) prend tout de suite ce qu’elle veut, et [Vénus en Gémeaux](/astrology/venus-in-gemini/) aimerait en discuter ; une Vénus en Taureau veut le tenir dans ses mains, et voir si cela lui semble encore juste au printemps prochain.
+Un passage ordinaire en Taureau prend à Vénus environ 25 jours, et de 1930 à 2009, aucun n’a duré plus de 35 jours. Son propre signe compte donc parmi ses placements les plus rares, partagé par environ 1 personne sur 14 née pendant ces années. Le Soleil n’est pas loin non plus : en Taureau, ou jusqu’aux Poissons d’un côté et au Cancer de l’autre. Juste à côté, [Vénus en Bélier](/astrology/venus-in-aries/) prend tout de suite ce qu’elle veut, et [Vénus en Gémeaux](/astrology/venus-in-gemini/) aimerait en discuter ; une Vénus en Taureau veut le tenir dans ses mains, et voir si cela lui semble encore juste au printemps prochain.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -57,4 +57,4 @@ Tenir bon, trop longtemps. Ce qui était bon peut être gardé bien après avoir
 
 Laissez le changement venir par dégustations : essayez la nouvelle organisation pendant une saison avant de décider ce qu’elle signifie. Une fois par an, regardez ce que vous gardez, les objets, les habitudes, les personnes que vous voyez par routine, et demandez-vous lesquels vous font encore plaisir. Mettez vos valeurs en mots pour une personne proche, pour qu’elle n’ait pas à les deviner d’après votre cuisine.
 
-Vénus a tenu environ une fois sur trois dans [mon carnet](/blog/i-tested-my-birth-chart/), parmi les placements que tout le monde lit en premier. Dans son propre signe, elle se reconnaît facilement, et on la surinterprète tout aussi vite : je pèse donc une Vénus en Taureau contre le reste de votre thème avant de m’appuyer sur elle, et je vous dis quand je le fais.
+Dans [mon carnet](/blog/i-tested-my-birth-chart/), Vénus a vu juste environ une fois sur trois, au même rang que Mercure ou le signe solaire. Dans son propre signe, elle se reconnaît facilement, et on la surinterprète tout aussi vite : je pèse donc une Vénus en Taureau contre le reste de votre thème avant de m’appuyer sur elle, et je vous dis quand je le fais.

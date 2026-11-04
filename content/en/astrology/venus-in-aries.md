@@ -56,4 +56,4 @@ Speed can pass for certainty. The spark of a first attraction may feel like proo
 
 Give the second impression a vote. Before you decide whether a person, a job or a place is for you, let a week pass and look again. Ask one more question than you feel like asking. Shared effort, a walk that turns into a run, a project with a deadline, lets this Venus be close at its own tempo. And when someone needs longer than you, say plainly that you can wait, then wait.
 
-In [my notebook](/blog/i-tested-my-birth-chart/), Venus landed in the group that held about a third of the time, with the other placements everyone reads first. An Aries Venus tends to recognise itself in a single sentence, so I'd ask you to test this page slowly: where what I say about quick choices doesn't fit, trust your life over the page.
+In [my notebook](/blog/i-tested-my-birth-chart/), Venus scored about a third, the same as the other placements everyone reads first. An Aries Venus tends to recognise itself in a single sentence, so I'd ask you to test this page slowly: where what I say about quick choices doesn't fit, trust your life over the page.

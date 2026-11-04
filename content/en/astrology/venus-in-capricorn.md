@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 46
 glyph: "♀♑"
-definition: "Venus in Capricorn is the planet of value and attraction in cardinal earth, ruled by Saturn. It describes a taste for what lasts and what has been earned, affection shown through reliability and commitment rather than declarations, and a way of relating that opens slowly, then keeps its word for years."
+definition: "Venus in Capricorn sets the planet of value and attraction in Saturn’s cardinal earth. It describes a taste for what lasts and what has been earned, affection shown through reliability and commitment rather than declarations, and a slow-opening way of relating that then keeps its word for years."
 facts:
   - { k: "Body", v: "Venus ♀" }
   - { k: "Sign", v: "Capricorn ♑, ruled by Saturn" }
@@ -18,11 +18,11 @@ facts:
 related: ["/astrology/venus", "/astrology/capricorn", "/astrology/saturn", "/blog/saturn-chiron-lilith", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Venus in Capricorn mean?"
-    a: "Your Venus was in Capricorn, Saturn’s sign, when you were born. You tend to value what lasts and what is earned, to show affection through reliability and commitment, and to open up slowly, then stay loyal for a long time. Respect matters to you as much as tenderness. Its house shows where you build what you value."
+    a: "Your Venus was in Capricorn, Saturn’s sign, when you were born. What lasts, and what has been earned, matters most to you: you show affection through reliability and commitment, open up slowly, then stay loyal for a long time. Respect matters to you as much as tenderness. Its house shows where you build what you value."
   - q: "Is Venus in Capricorn cold?"
     a: "No, though it can look reserved. Capricorn gives Venus a careful, serious manner, so affection is shown through acts and commitment more than through declarations. Once trust is there, this Venus is among the most loyal. The warmth is real; it simply keeps its own timetable."
   - q: "Who rules Venus in Capricorn?"
-    a: "Saturn, the ruler of Capricorn, so Saturn’s sign, house and aspects shape how this Venus loves. My notebook found Saturn, with Chiron and Lilith, holding 75 to 90% of the time, far above everything else, so I never read a Capricorn Venus without it."
+    a: "Saturn, the ruler of Capricorn, so Saturn’s sign, house and aspects shape how this Venus loves. In my notebook, Saturn held 75 to 90% of the time, as Chiron and Lilith did, far above everything else, so I never read a Capricorn Venus without it."
   - q: "How common is Venus in Capricorn?"
     a: "A little less common than an even share: about 1 person in 13 born between 1930 and 2009. Venus usually takes some 24 days over Capricorn, up to 62 in a retrograde year, and anyone born with it has a Sun from Scorpio to Pisces."
 sources:
@@ -42,11 +42,11 @@ Expect about 24 days for an ordinary pass through Capricorn and up to 62 when Ve
 
 ## In close relationships {#in-close-relationships}
 
-In love, a Capricorn Venus shows affection through reliability: turning up, keeping promises, making plans that include you a year from now. You may be slow to open and slower to say it, but once you commit, you stay loyal for a long time. You tend to be drawn to people who are capable, grounded and serious about their lives, and put off by flakiness. Reciprocity means respect: being taken seriously, having your efforts noticed, a partner who builds alongside you. The risk is that love starts to feel like one more responsibility, when it needs room for play too.
+In love, a Capricorn Venus shows affection through reliability: turning up, keeping promises, making plans that include you a year from now. You may be slow to open and slower to say it, but once you commit, you stay loyal for a long time. Capable, grounded people who take their own lives seriously attract you, and flakiness puts you off. Reciprocity means respect: being taken seriously, having your efforts noticed, a partner who builds alongside you. The risk is that love starts to feel like one more responsibility, when it needs room for play too.
 
 ## At work {#at-work}
 
-At work, this Venus values competence, structure and a reputation earned honestly. You often have an eye for quality that lasts: classic design, sound materials, a well-run project. Management, architecture, craft, public institutions, anything with a long horizon can suit it. You may find pleasure in work more readily than in leisure, and a colleague's respect can mean more to you than praise. What wears this Venus down is chaos, and commitments that others break.
+This Venus respects competence, structure and a reputation earned honestly. You often have an eye for quality that lasts: classic design, sound materials, a well-run project. Management, architecture, craft, public institutions, anything with a long horizon can suit it. You may find pleasure in work more readily than in leisure, and a colleague's respect can mean more to you than praise. What wears this Venus down is chaos, and commitments that others break.
 
 ## The hard part {#the-hard-part}
 
@@ -56,4 +56,4 @@ Affection postponed until it feels earned. You may wait until you've proved your
 
 Put pleasure in the diary, literally, and keep the appointment. Let someone love you before you've finished becoming who you think you ought to be. Say one warm thing out loud each day, even when it feels unnecessary. And look at what you have already built with the people you love: the years themselves are evidence.
 
-Here the notebook has something particular to add. Venus came out at about a third ([my notebook](/blog/i-tested-my-birth-chart/)), but this Venus answers to Saturn, and Saturn belongs to [the three that held](/blog/saturn-chiron-lilith/) 75 to 90% of the time. So with a Capricorn Venus I read Saturn closely alongside it, by sign, house and aspect, before I say much about how you love.
+Here the notebook has something particular to add. Venus came out at about a third ([my notebook](/blog/i-tested-my-birth-chart/)), but this Venus answers to Saturn, and Saturn belongs to [the three that held](/blog/saturn-chiron-lilith/) 75 to 90% of the time. That is why, with a Capricorn Venus, I read Saturn closely alongside it, by sign, house and aspect, before I say much about how you love.

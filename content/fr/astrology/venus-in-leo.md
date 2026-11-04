@@ -19,13 +19,13 @@ facts:
 related: ["/astrology/venus", "/astrology/leo", "/astrology/sun", "/astrology/venus-in-5th-house", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Que veut dire Vénus en Lion ?"
-    a: "Qu’à votre naissance, Vénus se trouvait en Lion. Vous aimez ouvertement, avec générosité, et tenez à la loyauté et à la chaleur ; vous voulez que votre affection soit reçue et rendue. Les fêtes, les gestes et le jeu créatif comptent pour vous. Sa maison montre où vous avez le plus envie de donner."
+    a: "Votre Vénus est en Lion, le signe que gouverne le Soleil. Vous aimez ouvertement, avec générosité, et tenez à la loyauté et à la chaleur ; vous voulez que votre affection soit reçue et rendue. Les fêtes, les gestes et le jeu créatif comptent pour vous. La maison qu’elle occupe montre où donner, et recevoir un merci, compte le plus."
   - q: "Vénus en Lion, est-ce de la vanité ?"
     a: "Non, et la vanité n’est pas ce que décrit Vénus. Le Lion lui donne une manière chaleureuse et démonstrative, et le désir que l’on reconnaisse ce qu’elle donne : un besoin de réciprocité plutôt que d’admiration pour elle-même. Les personnes qui ont cette Vénus dépensent souvent bien plus d’énergie à fêter les autres qu’à se fêter elles-mêmes."
   - q: "Où est le Soleil si Vénus est en Lion ?"
-    a: "En Lion ou à deux signes au plus : Gémeaux, Cancer, Vierge ou Balance, car Vénus ne s’éloigne jamais de plus de 47° environ du Soleil. Comme le Soleil gouverne le Lion, le maître de cette Vénus n’est jamais loin, et je lis les deux ensemble."
+    a: "En Lion même, ou en Gémeaux, en Cancer, en Vierge ou en Balance : les deux ne sont jamais à plus de 47° environ l’un de l’autre. Comme le Soleil gouverne le Lion, le maître de cette Vénus n’est jamais loin, et je lis les deux ensemble."
   - q: "Vénus en Lion, est-ce fréquent ?"
-    a: "Environ 1 personne sur 12 née entre 1930 et 2009. Vénus passe d’habitude environ 25 jours en Lion, et quand elle y est rétrograde, elle peut y rester jusqu’à 60 jours : certaines années comptent donc bien plus de naissances sous ce placement que d’autres."
+    a: "Environ 1 personne sur 12 née entre 1930 et 2009. La plupart des années, Vénus passe quelque 25 jours en Lion, mais une année de rétrogradation, son séjour peut atteindre 60 jours : certaines années donnent donc bien plus de naissances avec ce placement que d’autres."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "la maîtrise du Soleil sur le Lion, et les signes de Vénus" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée du passage de Vénus en Lion, et la part des personnes nées entre 1930 et 2009 qui ont ce placement" }
@@ -35,11 +35,11 @@ Vénus en Lion donne de l’affection comme le Soleil donne de la lumière : ou
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-[Vénus](/astrology/venus/) évalue ce qui mérite d’être aimé et votre façon de vous y relier. Le [Lion](/astrology/leo/), feu fixe gouverné par le [Soleil](/astrology/sun/), lui donne de la chaleur, de la loyauté et le sens de l’occasion. Vous tenez à ce qui se fait de tout cœur : l’amie ou l’ami qui rit franchement, le geste fait sans compter, le travail où quelqu’un a mis tout son être. Les signes fixes tiennent bon, et celui-ci tient sa chaleur : une fois que vous aimez quelque chose, vous gardez le feu allumé.
+[Vénus](/astrology/venus/) porte votre sens de ce qui mérite d’être aimé, et de la façon de l’offrir. Le [Lion](/astrology/leo/), feu fixe gouverné par le [Soleil](/astrology/sun/), lui apporte chaleur, loyauté et sens de l’occasion. Ce qui vous touche, c’est ce qui se fait de tout cœur : l’amie ou l’ami qui rit franchement, le geste fait sans compter, le travail où quelqu’un a mis tout son être. Une fois que vous aimez quelque chose, vous gardez ce feu allumé pendant des années.
 
-Vénus n’a pas de dignité en Lion, mais son maître est particulièrement proche. Vénus ne s’éloigne jamais de plus de 47° environ du Soleil : avec Vénus en Lion, votre Soleil est lui aussi en Lion, ou à deux signes au plus, des Gémeaux à la Balance. Le signe et la maison du Soleil décrivent le sentiment de soi et le but que cette Vénus réchauffe, et je les lis côte à côte.
+Vénus n’a pas de dignité en Lion, mais son maître est particulièrement proche. Les deux ne sont jamais à plus de 47° environ l’un de l’autre : votre Soleil est donc lui aussi en Lion, ou quelque part entre les Gémeaux et la Balance. Le signe et la maison du Soleil décrivent le sentiment de soi et le but que cette Vénus réchauffe, et je les lis côte à côte.
 
-Vénus passe d’habitude environ 25 jours en Lion, et jusqu’à 60 quand elle y est rétrograde ; environ 1 personne sur 12 née entre 1930 et 2009 a ce placement. Ce qu’elle veut, plus que tout, c’est que son affection soit reçue comme le cadeau qu’elle est. Ce n’est pas de la vanité. C’est la réciprocité sur un mode ardent : de la chaleur donnée, et de la chaleur espérée en retour.
+En Lion, Vénus passe d’ordinaire environ 25 jours, ou jusqu’à 60 une année où elle y rétrograde, et environ 1 personne sur 12 née entre 1930 et 2009 l’a dans son thème. Ce qu’elle veut, plus que tout, c’est que son affection soit reçue comme le cadeau qu’elle est. Ce n’est pas de la vanité. C’est la réciprocité sur un mode ardent : de la chaleur donnée, et de la chaleur espérée en retour.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -47,7 +47,7 @@ En amour, cette Vénus est généreuse et démonstrative. Vous pensez à fêter,
 
 ## Au travail {#au-travail}
 
-Au travail, une Vénus en Lion tient à la créativité, à la reconnaissance et à un peu de chaleur dans la pièce. Vous brillez souvent dans tout ce qui suppose un public ou une occasion : présenter, recevoir, jouer, créer quelque chose qui fait s’arrêter les gens. Diriger avec générosité lui va bien : vous êtes du genre à féliciter en public. Un lieu de travail où l’effort passe inaperçu, ou où personne n’a le droit d’aimer son métier, l’épuise, et cette Vénus donne volontiers le meilleur d’elle-même là où elle se sent appréciée.
+Une Vénus en Lion travaille au mieux avec de la créativité, de la reconnaissance et un peu de chaleur dans la pièce. Vous brillez souvent dans tout ce qui suppose un public ou une occasion : présenter, recevoir, jouer, créer quelque chose qui fait s’arrêter les gens. Diriger avec générosité lui va bien : vous êtes du genre à féliciter en public. Un lieu de travail où l’effort passe inaperçu, ou où personne n’a le droit d’aimer son métier, l’épuise, et cette Vénus donne volontiers le meilleur d’elle-même là où elle se sent appréciée.
 
 ## Le plus difficile {#le-plus-difficile}
 
@@ -55,6 +55,6 @@ La fierté peut empêcher de demander. Vous attendez parfois un grand geste plut
 
 ## Ce qui aide {#ce-qui-aide}
 
-Demandez de la reconnaissance avec des mots simples, et donnez-en tout aussi simplement. Créez quelque chose pour le seul plaisir, sans aucun public, et remarquez que cela compte quand même. Empruntez aux voisines : un peu de la discrétion de [Vénus en Cancer](/astrology/venus-in-cancer/), pour que chaque sentiment n’ait pas besoin d’une scène, et un peu de la modestie de [Vénus en Vierge](/astrology/venus-in-virgo/), la gentillesse que personne ne voit.
+Demandez de la reconnaissance avec des mots simples, et donnez-en tout aussi simplement. Créez quelque chose sans aucun public, une chanson pour la cuisine, un croquis que personne ne verra, et remarquez que cela compte quand même. Empruntez aux voisines : un peu de la discrétion de [Vénus en Cancer](/astrology/venus-in-cancer/), pour que chaque sentiment n’ait pas besoin d’une scène, et un peu de la modestie de [Vénus en Vierge](/astrology/venus-in-virgo/), la gentillesse que personne ne voit.
 
-Vénus, comme le signe solaire, l’ascendant et Mercure, a tenu environ une fois sur trois dans [mon carnet](/blog/i-tested-my-birth-chart/). Une Vénus en Lion et le Soleil qui la gouverne se lisent d’habitude ensemble, et tous deux se trouvent dans ce même tiers : je les tiens donc avec légèreté, et je laisse le reste de votre thème donner aussi son avis.
+Dans [mon carnet](/blog/i-tested-my-birth-chart/), Vénus et le signe solaire ont chacun tenu environ une fois sur trois. Une Vénus en Lion se lit avec le Soleil qui la gouverne : ce sont donc deux placements tenus avec légèreté qui s’appuient l’un sur l’autre, et je laisse le reste de votre thème donner aussi son avis.

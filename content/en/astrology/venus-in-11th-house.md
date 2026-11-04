@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 47
 glyph: "♀"
-definition: "Venus in the 11th house places the planet of affinity and reciprocity among friends, circles and shared hopes, in the house old astrologers called the Good Spirit. It describes warm, easy friendships, pleasure in belonging to a circle, and love that often begins as friendship. It needs an exact birth time."
+definition: "Venus in the 11th house places the planet of affinity and reciprocity among friends, circles and shared hopes, in the house old astrologers called the Good Spirit. It describes warm, easy friendships, pleasure in belonging to a circle, and love that often begins as friendship. It can’t be read without the birth time."
 facts:
   - { k: "Body", v: "Venus ♀" }
   - { k: "House", v: "The 11th house: friends, groups, hopes" }
@@ -22,7 +22,7 @@ faq:
   - q: "Does Venus in the 11th house mean love starts as friendship?"
     a: "Often, though not always. Venus here values companionship, shared ideals and ease, so partners may come from your circle, and a friendship can turn into more. It describes how you like to relate, not a forecast of who you will meet or when."
   - q: "Do I need my birth time for Venus in the 11th house?"
-    a: "Yes. In Placidus, my house system, the lines between the 10th, 11th and 12th houses depend on the exact minute, so a later birth can lift Venus into the 10th and an earlier one keep it in the 12th. Without the time, I don’t read Venus by house."
+    a: "Yes. In Placidus, my house system, the lines between the 10th, 11th and 12th houses depend on the exact minute, so a later birth can lift Venus into the 10th and an earlier one keep it in the 12th. Without the time, I leave the house unread."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, the Good Spirit, and the joy of Jupiter in the eleventh" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
@@ -43,7 +43,7 @@ In love, an 11th-house Venus often starts as a friend. You may meet partners thr
 
 ## At work {#at-work}
 
-At work, this Venus thrives in teams, networks and communities. You're often the one who knows everyone, who introduces people, who makes a group feel welcoming. Charities, associations, community work, events, collaborative projects, anything built on people working together towards a shared aim, can suit it. You may enjoy work most when it serves a hope larger than yourself, and when colleagues become friends.
+At work, this Venus comes alive in teams, networks and communities. You're often the one who knows everyone, who introduces people, who makes a group feel welcoming. Charities, associations, community work, events, collaborative projects, anything built on people working together towards a shared aim, can suit it. You may enjoy work most when it serves a hope larger than yourself, and when colleagues become friends.
 
 ## The hard part {#the-hard-part}
 

@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 39
 glyph: "♀♊"
-definition: "Venus in Gemini puts the planet of value and attraction in mutable air, the third sign, ruled by Mercury. It describes a taste that is curious and many-sided, attraction that starts in conversation, and affection shown through words, questions and shared jokes more readily than through grand gestures."
+definition: "Venus in Gemini lends the planet of value and attraction the quick, mutable air of the third sign, which Mercury rules. It describes a taste that is curious and many-sided, attraction that starts in conversation, and affection shown through words, questions and shared jokes more readily than through grand gestures."
 facts:
   - { k: "Body", v: "Venus ♀" }
   - { k: "Sign", v: "Gemini ♊, ruled by Mercury" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/gemini", "/astrology/mercury", "/astrology/venus-retrograde", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Venus in Gemini mean?"
-    a: "At your birth Venus was in Gemini, the sign of conversation. You tend to be attracted through conversation and curiosity, to value variety and wit, and to show affection in words: messages, jokes, questions. A good exchange can matter as much to you as a grand gesture. Its house shows where that light touch works best."
+    a: "At your birth Venus was in Gemini, the sign Mercury rules. You tend to be attracted through conversation and curiosity, to value variety and wit, and to show affection in words: messages, jokes, questions. A good exchange can matter as much to you as a grand gesture. Its house shows where that light touch works best."
   - q: "Are people with Venus in Gemini unfaithful?"
     a: "No, and I don’t read any placement that way. Gemini gives Venus a love of variety and talk, so you may need several interests, friendships and conversations in your life. That is not the same as needing several partners. What keeps this Venus close is a relationship that keeps talking."
   - q: "What is Venus in Gemini attracted to?"
@@ -44,11 +44,11 @@ Look at the neighbours and the manner stands out. [Venus in Taurus](/astrology/v
 
 ## In close relationships {#in-close-relationships}
 
-Talk is how this Venus gets close. Long messages, running jokes, the conversation that starts over dinner and is still going at two in the morning: for a Gemini Venus that is intimacy, as much as touch is. You tend to be drawn to people who are curious, quick and a little surprising, and to drift when someone stops asking questions. Reciprocity means replies: an answer to your message, interest in your day, a mind that meets yours halfway. Lightness is a strength here, and often a kindness. The thing to learn is that some feelings are carried rather than discussed, and that a silence between two people can be full.
+Talk is how this Venus gets close. Long messages, running jokes, the conversation that starts over dinner and is still going at two in the morning: for a Gemini Venus that is intimacy, as much as touch is. Curious, quick, slightly surprising people pull you in, and you drift when someone stops asking questions. Reciprocity means replies: an answer to your message, interest in your day, a mind that meets yours halfway. Lightness is a strength here, and often a kindness. The thing to learn is that some feelings are carried rather than discussed, and that a silence between two people can be full.
 
 ## At work {#at-work}
 
-At work, this Venus values variety, conversation and colleagues who think out loud. You're often good at the parts of a job that connect: introducing people, writing the email that settles a quarrel, explaining a product so that others warm to it. Teaching, sales, editing, journalism, anything with words and contacts can suit it. A role that repeats one task for months, with nobody to talk to, dulls it fast. Its pleasure in work is often the exchange itself, a meeting where ideas bounce.
+Variety, conversation and colleagues who think out loud keep this Venus engaged at work. You're often good at the parts of a job that connect: introducing people, writing the email that settles a quarrel, explaining a product so that others warm to it. Teaching, sales, editing, journalism, anything with words and contacts can suit it. A role that repeats one task for months, with nobody to talk to, dulls it fast. Its pleasure in work is often the exchange itself, a meeting where ideas bounce.
 
 ## The hard part {#the-hard-part}
 

@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/pisces", "/astrology/exaltation", "/astrology/neptune", "/astrology/jupiter"]
 faq:
   - q: "What does Venus in Pisces mean?"
-    a: "Venus was in Pisces, its exaltation, when you were born. You tend to value compassion, imagination and forgiveness, to sense what others feel, and to love without keeping score. Gentleness and meaning matter more to you than display. Its house shows where that tenderness flows most freely."
+    a: "Venus was in Pisces, its exaltation, when you were born. Compassion, imagination and forgiveness come naturally to you; you sense what others feel, and love without keeping score. Gentleness and meaning matter more to you than display. Its house shows where that tenderness flows most freely."
   - q: "Is Venus exalted in Pisces?"
     a: "Yes. Tradition places the exaltation of Venus in Pisces, where it is said to be at its strongest, and its fall opposite, in Virgo. I read the strength as range: this Venus can love what is imperfect or hurt and still find it lovely. It needs boundaries to stay well."
   - q: "Who rules Venus in Pisces?"
@@ -34,7 +34,7 @@ Venus in Pisces doesn't keep score. Tradition calls Pisces the sign of Venus's e
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Venus](/astrology/venus/) values, attracts and relates. [Pisces](/astrology/pisces/), mutable water, gives it softness, empathy and a wide imagination. You tend to value what can't quite be measured: a piece of music that undoes you, a kindness nobody saw, the person behind the role. You often sense what someone needs before they say it, as if feeling were a language you had always spoken.
+[Venus](/astrology/venus/) values, attracts and relates. [Pisces](/astrology/pisces/), mutable water, gives it softness, empathy and a wide imagination. What you value most can't quite be measured: a piece of music that undoes you, a kindness nobody saw, the person behind the role. You often sense what someone needs before they say it, as if feeling were a language you had always spoken.
 
 This is Venus's [exaltation](/astrology/exaltation/), the sign where tradition says it is strongest. I read that strength as range rather than luck: this Venus can love what is imperfect, unfinished or hurt, and still find it lovely. Pisces answers to [Neptune](/astrology/neptune/) in modern tropical astrology and to [Jupiter](/astrology/jupiter/) in the older scheme, and I read both: Neptune for how far this Venus's compassion reaches, Jupiter for the meaning and generosity it grows into.
 
@@ -46,11 +46,11 @@ In love, a Pisces Venus is tender, devoted and forgiving. You may see the best i
 
 ## At work {#at-work}
 
-At work, this Venus values meaning, kindness and room to imagine. You're often good where empathy is the skill: care work, the arts, music, therapy, teaching, charities, anywhere people need to feel understood. You can bring a gentle atmosphere into a team and calm a tense room without saying much. Harsh competition and work that feels pointless drain it fast, and after days of absorbing other people's moods it may need quiet time to recover.
+Work, for this Venus, needs meaning, kindness and room to imagine. You're often good where empathy is the skill: care work, the arts, music, therapy, teaching, charities, anywhere people need to feel understood. You can bring a gentle atmosphere into a team and calm a tense room without saying much. Harsh competition and work that feels pointless drain it fast, and after days of absorbing other people's moods it may need quiet time to recover.
 
 ## The hard part {#the-hard-part}
 
-Telling compassion from self-erasure. You may give until little is left, forgive what shouldn't be forgiven twice, or love someone's potential more than the person in front of you. Boundaries can feel unkind, so you may avoid setting them, then feel overwhelmed. And when life falls short of what you imagined, the disappointment can be quiet and deep.
+Telling compassion from self-erasure. You may give until little is left, forgive what shouldn't be forgiven twice, or love what someone could become more than who they are now. Boundaries can feel unkind, so you may avoid setting them, then feel overwhelmed. And when life falls short of what you imagined, the disappointment can be quiet and deep.
 
 ## What helps {#what-helps}
 

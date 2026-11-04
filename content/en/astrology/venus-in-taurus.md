@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/taurus", "/astrology/domicile", "/astrology/venus-in-libra", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Venus in Taurus mean?"
-    a: "Venus stood in Taurus, a sign it rules, at your birth. You tend to value what is real, lasting and good to the senses, and to show affection through presence and care rather than speeches. You choose slowly and keep what you choose. Its house shows where that steadiness matters most."
+    a: "Venus stood in Taurus, a sign it rules, at your birth. What is real, lasting and good to the senses matters most to you, and you show affection through presence and care rather than speeches. You choose slowly and keep what you choose. Its house shows where that steadiness matters most."
   - q: "Is Venus strong in Taurus?"
     a: "Yes, by tradition: Taurus is one of the two signs of Venus, its domicile, with Libra. Venus rules Taurus, so here it answers to no other planet. I read that as clarity rather than luck: you usually know what you like and what you value, and you hold to it."
   - q: "Is Venus in Taurus materialistic?"

@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 44
 glyph: "♀"
-definition: "Venus in the 8th house places the planet of attraction and reciprocity where intimacy, trust and shared resources live, in a house whose natural sign is Scorpio, its detriment. It describes love that wants depth, trust given slowly and then fully, and a generosity that stays sweet with clear agreements. It needs an exact birth time."
+definition: "Venus in the 8th house places the planet of attraction and reciprocity where intimacy, trust and shared resources live, in a house whose natural sign is Scorpio, its detriment. It describes love that wants depth, trust given slowly and then fully, and a generosity that stays sweet with clear agreements. Only an exact birth time can confirm it."
 facts:
   - { k: "Body", v: "Venus ♀" }
   - { k: "House", v: "The 8th house: intimacy, trust, what is shared and owed" }
@@ -18,9 +18,9 @@ facts:
 related: ["/astrology/venus", "/astrology/8th-house", "/astrology/venus-in-scorpio", "/astrology/can-astrology-predict-death", "/blog/unknown-birth-time"]
 faq:
   - q: "What does Venus in the 8th house mean?"
-    a: "Venus stood in the 8th house at your birth, among intimacy, trust and what two people share. You tend to value depth and loyalty, to let people in slowly and then completely, and to find meaning in what two people build privately. Clear agreements about money and trust help it stay sweet."
+    a: "Venus stood in the 8th house at your birth, among intimacy, trust and what is shared. Depth and loyalty count most with you; you let people in slowly and then completely, and find meaning in what two people build privately. Clear agreements about money and trust help it stay sweet."
   - q: "Does Venus in the 8th house mean an inheritance?"
-    a: "Not as a prediction. Death and inheritance belonged to the 8th in the old books, but I don’t forecast legacies, loans or debts, and no chart can. I read this Venus as the way you share: your trust, your body, your resources, and the terms on which you let someone close."
+    a: "Not as a prediction. The old books put legacies in the 8th house, along with death, but I don’t forecast legacies, loans or debts, and no chart can. I read this Venus as the way you share: your trust, your body, your resources, and the terms on which you let someone close."
   - q: "Do I need my birth time for Venus in the 8th house?"
     a: "Yes. An hour’s difference can move Venus into the 7th or the 9th, which describe very different things, and Placidus, the system I use, sets every cusp from the exact moment and place. Without them, I leave the house out of a reading."
 sources:
@@ -31,7 +31,7 @@ Venus in the 8th house values what is shared behind closed doors: trust, confide
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 8th house](/astrology/8th-house/) follows the house of partners and holds what a bond creates: intimacy, sexual and otherwise, trust, joint money and debts, and the closeness that leaves you changed. It is succedent, and its natural sign is Scorpio, where Venus is in detriment. [Venus](/astrology/venus/) here wants more than company. It values depth, loyalty and the kind of trust that takes years, and it can find real pleasure, and real meaning, in what two people build in private.
+[The 8th house](/astrology/8th-house/) follows the house of partners and holds what a bond creates: intimacy, sexual and otherwise, trust, joint money and debts, and the closeness that leaves you changed. A succedent house, it has Scorpio, where Venus is in detriment, as its natural sign. [Venus](/astrology/venus/) here wants more than company. It values depth, loyalty and the kind of trust that takes years, and it can find real pleasure, and real meaning, in what two people build in private.
 
 The tradition that named this house also handed it death and inheritance. Neither is something I read in a chart: no one's death is written there ([can astrology predict death?](/astrology/can-astrology-predict-death/)), and I make no forecasts about legacies, loans or debts. In an adult's life, Venus in the 8th describes how you share, your body, your trust, your resources, and the terms on which you let someone close.
 

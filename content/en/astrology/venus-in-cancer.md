@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/cancer", "/astrology/moon", "/astrology/venus-in-4th-house", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Venus in Cancer mean?"
-    a: "When you were born, Venus was in Cancer, the Moon’s sign. You tend to value what feels like home: closeness, loyalty, memory, the people you call yours. Affection shows as care, feeding, remembering and protecting, and you open up once you feel safe. Its house shows where you most want that sense of belonging."
+    a: "Venus was in the Moon’s own sign, Cancer, when you were born. What feels like home is what you value: closeness, loyalty, memory, the people you call yours. Affection shows as care, feeding, remembering and protecting, and you open up once you feel safe. Its house shows where you most want that sense of belonging."
   - q: "Is Venus in Cancer clingy?"
     a: "Not by nature. Cancer gives Venus a protective, attached manner, so closeness matters and distance can worry you. Clinging tends to start when that need goes unspoken. Said plainly, it becomes a very warm way of loving: steady, attentive and loyal for years."
   - q: "What is Venus in Cancer attracted to?"
@@ -46,7 +46,7 @@ In love, a Cancer Venus looks after people. You remember the name of someone's c
 
 ## At work {#at-work}
 
-At work, this Venus values belonging. A team that feels a little like family, a manager who notices when you're tired, an office with its own small rituals: these matter more than you may admit. You often make places welcoming, the one who brings cake, remembers birthdays and settles the newcomer. Hospitality, care work, food, interiors, family businesses, archives and history can suit it. Harsh, impersonal places wear it out, and criticism given coldly can sting long after the meeting is over.
+Belonging matters at work as much as at home. A team that feels a little like family, a manager who notices when you're tired, an office with its own small rituals: these matter more than you may admit. You often make places welcoming, the one who brings cake, remembers birthdays and settles the newcomer. Hospitality, care work, food, interiors, family businesses, archives and history can suit it. Harsh, impersonal places wear it out, and criticism given coldly can sting long after the meeting is over.
 
 ## The hard part {#the-hard-part}
 

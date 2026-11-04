@@ -23,7 +23,7 @@ faq:
   - q: "Is Venus happy in the 5th house?"
     a: "By tradition, yes: the 5th house, once called Good Fortune, is the joy of Venus, where it was said to be glad. I read that as ease with pleasure and play, not as a promise of happy events. It shows what delights you, and how freely you let yourself enjoy it."
   - q: "Does Venus in the 5th house mean children?"
-    a: "No. The old books gave the 5th house children, but a chart can’t tell you if a child will come into your life, or when. With Venus here, I read your own creativity, play and pleasure as an adult, and how much room you give them."
+    a: "No. The old books did give children to the 5th house, but a chart can’t say whether a child will come into your life, or when. With Venus here, I read your own creativity, play and pleasure as an adult, and how much room you give them."
   - q: "Do I need my birth time for Venus in the 5th house?"
     a: "Yes. The joy of Venus belongs to the 5th alone, and in Placidus, the system I use, an hour’s error can move Venus on into the 4th house or back into the 6th. I wait for a real birth time before I read any house."
 sources:
@@ -46,7 +46,7 @@ In love, this Venus enjoys the early chapters: flirting, courting, the date plan
 
 ## At work {#at-work}
 
-At work, a 5th-house Venus values creativity, play and the pleasure of making something. The arts, design, performance, games, entertainment and events, any work that turns enjoyment into a craft, can suit it. You often do your best when the job feels like a hobby you're paid for, and you may bring lightness to a team: the person who suggests the celebration when a project ends. A role with no room for invention can dim this Venus, however secure it is.
+Creativity, play and the pleasure of making something: those are what a 5th-house Venus wants from work. The arts, design, performance, games, entertainment and events, any work that turns enjoyment into a craft, can suit it. You often do your best when the job feels like a hobby you're paid for, and you may bring lightness to a team: the person who suggests the celebration when a project ends. A role with no room for invention can dim this Venus, however secure it is.
 
 ## The hard part {#the-hard-part}
 

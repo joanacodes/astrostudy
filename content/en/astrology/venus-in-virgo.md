@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 42
 glyph: "♀♍"
-definition: "Venus in Virgo is the planet of value and attraction in mutable earth, ruled by Mercury: the sign of its fall, opposite its exaltation in Pisces. It describes love shown through help and attention to detail, a taste for what is useful and well made, and a discerning eye that needs to learn gentleness, especially with itself."
+definition: "Venus in Virgo means the planet of value and attraction is in its fall, in mutable earth ruled by Mercury, facing its exaltation in Pisces. It describes love shown through help and attention to detail, a taste for what is useful and well made, and a discerning eye that needs to learn gentleness, especially with itself."
 facts:
   - { k: "Body", v: "Venus ♀" }
   - { k: "Sign", v: "Virgo ♍, ruled by Mercury" }
@@ -24,17 +24,17 @@ faq:
   - q: "How does Venus in Virgo show love?"
     a: "Through acts: fixing, organising, remembering, helping. A Virgo Venus may never make a speech about its feelings, yet it knows how you take your coffee and when your train leaves. If you love someone with this Venus, notice what they do for you, and thank them for it specifically."
   - q: "How common is Venus in Virgo?"
-    a: "About 1 person in 11 born between 1930 and 2009 has it, a little above an even share. In those decades Virgo was one of the signs where Venus turned retrograde, and a retrograde kept it there for up to 125 days instead of the usual 25 or so."
+    a: "About 1 person in 11 born between 1930 and 2009 has it, a little above an even share. Venus also turned retrograde in Virgo during those decades, and a retrograde kept it there for up to 125 days instead of the usual 25 or so."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the exaltation of Venus in Pisces, and its fall in Virgo opposite" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Venus stays in Virgo, and how many people born 1930–2009 have it" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-Venus in Virgo notices: the loose button, the tiredness in a voice, the thing you mentioned once in March. The planet of what you value sits here in the sign of careful attention, so affection tends to arrive as help, and taste as precision. I read it as love in the details, with a discerning eye that, given practice, learns to be kind to itself as well.
+Venus in Virgo notices: the loose button, the tiredness in a voice, the thing you mentioned once in March. Here Venus lives in the sign of careful attention, so affection tends to arrive as help, and taste as precision. I read it as love in the details, with a discerning eye that, given practice, learns to be kind to itself as well.
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Venus](/astrology/venus/) judges value and how you relate, and discernment is one of its oldest tasks. [Virgo](/astrology/virgo/), mutable earth ruled by [Mercury](/astrology/mercury/), sharpens it. You tend to value what works, what is well made and what is honestly useful, and to see at once where something could be better: the recipe, the sentence, the plan, sometimes the person.
+[Venus](/astrology/venus/) judges value and how you relate, and discernment is one of its oldest tasks. [Virgo](/astrology/virgo/), mutable earth ruled by [Mercury](/astrology/mercury/), sharpens it. What works, what is well made and what is honestly useful earns your respect, and you see at once where something could be better: the recipe, the sentence, the plan, sometimes the person.
 
 Tradition puts Venus in its [fall](/astrology/fall/) here, opposite Pisces, the sign of its exaltation. Where [Venus in Pisces](/astrology/venus-in-pisces/) forgives without counting, Venus in Virgo counts carefully, and the planet of pleasure is asked to love with its sleeves rolled up. I don't read the fall as a smaller capacity for love. It describes love that proves itself through care, and a readiness to criticise, yourself first, that is worth knowing about. Mercury rules the sign, so this Venus thinks while it feels; your Mercury's sign and house show how that thinking runs.
 
@@ -42,11 +42,11 @@ The usual crossing takes about 25 days. A retrograde in Virgo holds Venus there 
 
 ## In close relationships {#in-close-relationships}
 
-In love, a Virgo Venus turns up with help: it fixes the dripping tap, remembers the appointment, brings the right thing at the right time. Affection is practical and precise, and often unannounced. You tend to be drawn to people who are competent, sincere and unpretentious, and put off by grand words that no acts follow. Reciprocity means attention returned: someone who notices the small things you do, and does a few in turn. The harder part is receiving. Help offered to you can feel like a debt, and praise like a mistake. And the eye that spots what could be improved needs to know when to rest, so that a partner hears care rather than correction.
+In love, a Virgo Venus turns up with help: it fixes the dripping tap, remembers the appointment, brings the right thing at the right time. Affection is practical and precise, and often unannounced. Competence, sincerity and a lack of pretension attract you; grand words that no acts follow put you off. Reciprocity means attention returned: someone who notices the small things you do, and does a few in turn. The harder part is receiving. Help offered to you can feel like a debt, and praise like a mistake. And the eye that spots what could be improved needs to know when to rest, so that a partner hears care rather than correction.
 
 ## At work {#at-work}
 
-At work, this Venus values skill, order and a job done properly. You often bring an aesthetic of precision: the tidy spreadsheet, the clean edit, the room arranged so that it works. Editing, crafts, design, care work, research, anything where details matter can suit it. Sloppiness can bother you more than it bothers anyone else in the room, and praise means most to you when it is specific. Pleasure, for a Virgo Venus, comes from usefulness: knowing that what you did made someone's day easier.
+Skill, order and a job done properly make this Venus's idea of a good working day. You often bring an aesthetic of precision: the tidy spreadsheet, the clean edit, the room arranged so that it works. Editing, crafts, design, care work, research, anything where details matter can suit it. Sloppiness can bother you more than it bothers anyone else in the room, and praise means most to you when it is specific. Pleasure, for a Virgo Venus, comes from usefulness: knowing that what you did made someone's day easier.
 
 ## The hard part {#the-hard-part}
 

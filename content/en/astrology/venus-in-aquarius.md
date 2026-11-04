@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 47
 glyph: "♀♒"
-definition: "Venus in Aquarius places the planet of value and attraction in fixed air, ruled by Uranus and, in the tradition, Saturn. It describes love that begins in friendship, a taste for equality, originality and principle, and a way of relating that gives the other person room, and needs room in return."
+definition: "Venus in Aquarius sends the planet of value and attraction into fixed air, ruled by Uranus and, in the tradition, Saturn. It describes love that begins in friendship, a taste for equality, originality and principle, and a way of relating that gives the other person room, and needs room in return."
 facts:
   - { k: "Body", v: "Venus ♀" }
   - { k: "Sign", v: "Aquarius ♒, ruled by Uranus and, traditionally, Saturn" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/aquarius", "/astrology/uranus", "/astrology/saturn", "/astrology/venus-in-11th-house"]
 faq:
   - q: "What does Venus in Aquarius mean?"
-    a: "Venus was in Aquarius, the sign that sides with the group, at your birth. You tend to value friendship, equality and freedom, to be drawn to independent, original people, and to show affection by giving others room to be themselves. Love often starts as friendship. Its house shows where that need for space and fairness matters most."
+    a: "Venus was in Aquarius, the sign that sides with the group, at your birth. Friendship, equality and freedom come first for you, independent and original people attract you, and you show affection by giving others room to be themselves. Love often starts as friendship. Its house shows where that need for space and fairness matters most."
   - q: "Is Venus in Aquarius cold or detached?"
     a: "Not as I read it. Aquarius gives Venus a cool, independent manner, so affection may look calm from outside. Underneath there is often a deep loyalty to people and ideals, kept for decades. What this Venus resists is being possessed, not being close."
   - q: "Who rules Venus in Aquarius?"
@@ -30,7 +30,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Venus stays in Aquarius, and how many people born 1930–2009 have it" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-Venus in Aquarius is often a friend first, and sometimes a friend for so long that love has to introduce itself. The planet of what you value sits here in fixed air, among ideas, causes and equals. I read it as affection that wants you free, and a loyalty that keeps its course for decades, even when it looks detached.
+Venus in Aquarius is often a friend first, and sometimes a friend for so long that love has to introduce itself. Here Venus moves among ideas, causes and equals, in the fixed air of Aquarius. I read it as affection that wants you free, and a loyalty that keeps its course for decades, even when it looks detached.
 
 ## In a birth chart {#in-a-birth-chart}
 
@@ -42,11 +42,11 @@ In an ordinary year Venus clears Aquarius in about 25 days; in a retrograde one 
 
 ## In close relationships {#in-close-relationships}
 
-In love, this Venus starts with friendship: shared ideas, a common cause, long talks about how the world could be. You tend to be drawn to people who are original, independent and kind without being clingy, and you show affection by respecting their freedom as much as your own. Each neighbour gives in its own currency. [Venus in Capricorn](/astrology/venus-in-capricorn/) gives time and reliability, [Venus in Pisces](/astrology/venus-in-pisces/) gives compassion without limits, and Venus in Aquarius gives room: the rare kind of love that wants you more yourself, not less. Reciprocity means equality, with neither person owning the other. What you may find hard is the moment a friendship turns intimate and asks for vulnerability rather than ideas.
+In love, this Venus starts with friendship: shared ideas, a common cause, long talks about the world as it might be. Original, independent people who are kind without clinging catch your eye, and you show affection by respecting their freedom as much as your own. Each neighbour gives in its own currency. [Venus in Capricorn](/astrology/venus-in-capricorn/) gives time and reliability, [Venus in Pisces](/astrology/venus-in-pisces/) gives compassion without limits, and Venus in Aquarius gives room: the rare kind of love that wants you more yourself, not less. Reciprocity means equality, with neither person owning the other. What you may find hard is the moment a friendship turns intimate and asks for vulnerability rather than ideas.
 
 ## At work {#at-work}
 
-At work, an Aquarius Venus values fairness, teamwork and room to try new things. You're often good in groups, networks and communities: organising, campaigning, building tools, working where technology and people meet. You may count colleagues as friends, and you tend to treat everyone alike, from the newest arrival to the director. Hierarchy for its own sake, and rules nobody can explain, wear this Venus down.
+Fairness, teamwork and room to try new things keep an Aquarius Venus happy at work. You're often good in groups, networks and communities: organising, campaigning, building tools, working where technology and people meet. You may count colleagues as friends, and you tend to treat everyone alike, from the newest arrival to the director. Hierarchy for its own sake, and rules nobody can explain, wear this Venus down.
 
 ## The hard part {#the-hard-part}
 

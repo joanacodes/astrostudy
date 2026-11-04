@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 42
 glyph: "♀"
-definition: "Venus in the 6th house puts the planet of value and harmony among the chores, routines and colleagues of the working day, in a house whose natural sign is Virgo, its fall. It describes grace brought to ordinary tasks, a need for a pleasant workplace and easy colleagues, and affection shown through daily care. It needs an exact birth time."
+definition: "Venus in the 6th house puts the planet of value and harmony among the chores, routines and colleagues of the working day; the house’s natural sign is Virgo, its fall. It describes grace brought to ordinary tasks, a need for a pleasant workplace and easy colleagues, and affection shown through daily care. Without a birth time it can’t be placed."
 facts:
   - { k: "Body", v: "Venus ♀" }
   - { k: "House", v: "The 6th house: daily work, routines, colleagues, the care of your days" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/6th-house", "/astrology/venus-in-virgo", "/astrology/can-astrology-predict-health-problems", "/blog/unknown-birth-time"]
 faq:
   - q: "What does Venus in the 6th house mean?"
-    a: "Venus was in the house of the working day, its routines and its small acts of care, when you were born. You tend to value a pleasant workplace and easy colleagues, to bring grace to ordinary tasks, and to enjoy being useful. Harmony in the everyday matters to you more than to most."
+    a: "Your Venus sits in the house of the working day, its routines and its small acts of care. A pleasant workplace and easy colleagues matter to you, you bring grace to ordinary tasks, and being useful gives you pleasure. Harmony in the everyday matters to you more than to most."
   - q: "Is Venus in the 6th house about health?"
     a: "Not as a prediction. Tradition linked the 6th house with illness, but no chart can forecast anyone’s health, and I don’t read it that way. Venus here describes how you like to look after your days: unhurried meals, gentle routines, work that feels humane."
   - q: "Is Venus in the 6th house good for work?"
@@ -27,7 +27,7 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, Bad Fortune, and what tradition gave the sixth" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-Venus in the 6th house finds its pleasure on an ordinary Tuesday: a tidy desk, a good lunch with colleagues, a task finished well. The planet of value and harmony sits in the house of daily work and routine, far from any spotlight. I read it as a gift for making the everyday pleasant, for yourself and for the people you work beside.
+Venus in the 6th house finds its pleasure on an ordinary Tuesday: a tidy desk, a good lunch with colleagues, a task finished well. The planet of value and harmony works here among chores and routines, far from any spotlight. I read it as a talent for making the everyday pleasant, for yourself and for the people you work beside.
 
 ## In a birth chart {#in-a-birth-chart}
 

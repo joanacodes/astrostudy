@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/leo", "/astrology/sun", "/astrology/venus-in-5th-house", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Venus in Leo mean?"
-    a: "Your Venus is in Leo, the Sun’s sign. You tend to love generously and openly, to value loyalty, warmth and wholeheartedness, and to want your affection received and returned. Celebrations, gestures and creative play matter to you. The house it occupies shows where giving, and being thanked for it, matter most."
+    a: "Your Venus is in Leo, the sign the Sun rules. You tend to love generously and openly, to value loyalty, warmth and wholeheartedness, and to want your affection received and returned. Celebrations, gestures and creative play matter to you. The house it occupies shows where giving, and being thanked for it, matter most."
   - q: "Is Venus in Leo vain?"
     a: "No, and vanity isn’t what Venus describes. Leo gives Venus a warm, demonstrative manner and a wish to be appreciated, which is a need for reciprocity rather than for admiration in itself. People with this Venus often spend far more energy celebrating others than celebrating themselves."
   - q: "Where is the Sun if Venus is in Leo?"
@@ -34,7 +34,7 @@ Venus in Leo gives affection the way the Sun gives light: openly, generously, an
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Venus](/astrology/venus/) evaluates what is worth loving and how you relate to it. [Leo](/astrology/leo/), fixed fire ruled by the [Sun](/astrology/sun/), gives it warmth, loyalty and a sense of occasion. You tend to value what is wholehearted: the friend who laughs fully, the gesture made without counting, the work someone has put their whole self into. Once you love something, you keep that fire lit for years.
+[Venus](/astrology/venus/) holds your sense of what deserves love, and of how to offer it. [Leo](/astrology/leo/), fixed fire ruled by the [Sun](/astrology/sun/), gives it warmth, loyalty and a sense of occasion. What moves you is wholeheartedness: the friend who laughs fully, the gesture made without counting, the work someone has put their whole self into. Once you love something, you keep that fire lit for years.
 
 Venus has no dignity in Leo, but its ruler is unusually close. The two are never more than about 47° apart, which puts your Sun in Leo too, or somewhere from Gemini round to Libra. The Sun's sign and house describe the sense of self and purpose this Venus warms, and I read them side by side.
 
@@ -46,7 +46,7 @@ In love, this Venus is generous and demonstrative. You remember to celebrate, yo
 
 ## At work {#at-work}
 
-At work, a Leo Venus values creativity, recognition and some warmth in the room. You often shine at whatever involves an audience or an occasion: presenting, hosting, performing, designing something that makes people stop and look. Leading generously suits it; you're the kind of manager who praises in public. A workplace where effort goes unseen, or where nobody is allowed to enjoy the job, drains it, and this Venus tends to give its best where it feels valued.
+A Leo Venus works best with creativity, recognition and some warmth in the room. You often shine at whatever involves an audience or an occasion: presenting, hosting, performing, designing something that makes people stop and look. Leading generously suits it; you're the kind of manager who praises in public. A workplace where effort goes unseen, or where nobody is allowed to enjoy the job, drains it, and this Venus tends to give its best where it feels valued.
 
 ## The hard part {#the-hard-part}
 

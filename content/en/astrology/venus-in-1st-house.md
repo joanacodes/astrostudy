@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 37
 glyph: "♀"
-definition: "Venus in the 1st house means Venus was close to rising when you were born, in the house of your body, bearing and first impressions. It describes warmth and taste that show at once, a gift for making first meetings easy, and a pleasantness worth keeping honest. Like every house, it needs an exact birth time."
+definition: "Venus in the 1st house means Venus was about to rise at your birth, in the house of your body, bearing and first impressions. It describes warmth and taste that show at once, a gift for making first meetings easy, and a pleasantness worth keeping honest. Like every house, it needs an exact birth time."
 facts:
   - { k: "Body", v: "Venus ♀" }
   - { k: "House", v: "The 1st house: the self you lead with, body and manner" }
@@ -18,11 +18,11 @@ facts:
 related: ["/astrology/venus", "/astrology/1st-house", "/astrology/ascendant", "/astrology/placidus", "/blog/unknown-birth-time"]
 faq:
   - q: "What does Venus in the 1st house mean?"
-    a: "It means Venus was about to rise when you were born, in the house of the self you show first. Your warmth and taste tend to show in your manner, and people often find you easy to be with. The sign Venus is in gives that charm its style; the 1st house makes it visible."
+    a: "It means Venus sat just below the eastern horizon when you were born, in the house of the self you show first. Your warmth and taste tend to show in your manner, and people often find you easy to be with. The sign Venus is in gives that charm its style; the 1st house makes it visible."
   - q: "Does Venus in the 1st house make you attractive?"
     a: "It describes a manner rather than a face. Venus here tends to give an easy, pleasant way of meeting people and an eye for how things look, which others often find attractive. But Venus isn’t beauty, and no chart decides how anyone looks or whom they will attract."
   - q: "Do I need my birth time for Venus in the 1st house?"
-    a: "Yes, more than for most houses. The 1st begins at the Ascendant, which moves about a degree every four minutes on average, so a small change in the time can carry Venus up into the 12th house or down into the 2nd. Without a time I don’t read a house at all."
+    a: "Yes, more than for most houses. The 1st begins at the Ascendant, which travels a degree in roughly four minutes, so a small change in the time can carry Venus up into the 12th house or down into the 2nd. Without a time I don’t read a house at all."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, and what tradition gave the first" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }

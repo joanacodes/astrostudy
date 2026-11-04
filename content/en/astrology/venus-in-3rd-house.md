@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/3rd-house", "/astrology/venus-in-gemini", "/astrology/placidus", "/blog/unknown-birth-time"]
 faq:
   - q: "What does Venus in the 3rd house mean?"
-    a: "Venus sat in the house of everyday thought, talk and the people close at hand when you were born. You tend to speak kindly, enjoy learning, and keep warm ties with siblings, cousins and neighbours. Words are often how you show affection, and how you notice it in others."
+    a: "When you were born, Venus was in the house of everyday thought, talk and the people close at hand. You tend to speak kindly, enjoy learning, and keep warm ties with siblings, cousins and neighbours. Words are often how you show affection, and how you notice it in others."
   - q: "Is Venus in the 3rd house good for writing?"
     a: "It often gives a pleasure in words and a tactful, graceful way of using them, which suits writing, teaching and any work built on communication. Whether you write is up to you and the rest of your chart; Venus here mostly describes how much you enjoy language and how kindly you use it."
   - q: "Do I need my birth time for Venus in the 3rd house?"
@@ -43,7 +43,7 @@ In love, this Venus courts with words: long conversations, letters, funny messag
 
 ## At work {#at-work}
 
-At work, a 3rd-house Venus values good communication and friendly daily contact. Writing, editing, teaching, translation, journalism, sales, local business, anything built on words, messages or short trips can suit it. You're often the colleague who writes the email everyone else was dreading, or who knows the name of the person at the front desk. Pleasure in work comes from exchange, and a day without one good conversation feels like a day lost.
+A 3rd-house Venus works best where people communicate well and daily contact stays friendly. Writing, editing, teaching, translation, journalism, sales, local business, anything built on words, messages or short trips can suit it. You're often the colleague who writes the email everyone else was dreading, or who knows the name of the person at the front desk. Pleasure in work comes from exchange, and a day without one good conversation feels like a day lost.
 
 ## The hard part {#the-hard-part}
 
