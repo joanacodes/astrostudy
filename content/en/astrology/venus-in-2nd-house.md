@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/2nd-house", "/astrology/venus-in-taurus", "/astrology/can-astrology-pick-investments", "/blog/unknown-birth-time"]
 faq:
   - q: "What does Venus in the 2nd house mean?"
-    a: "That Venus was in the house of belongings, talents and self-worth when you were born. You tend to have a sure sense of quality, to enjoy a few good things, and to show care in tangible ways. The deeper theme is worth: learning to value yourself as clearly as you value what you choose."
+    a: "Venus sat in the house of belongings, talents and self-worth at your birth. You tend to have a sure sense of quality, to enjoy a few good things, and to show care in tangible ways. The deeper theme is worth: learning to value yourself as clearly as you value what you choose."
   - q: "Does Venus in the 2nd house mean money?"
     a: "Not as a prediction. Tradition gave the 2nd house money and possessions, and Venus here is often read as pleasure and earning going together. I read it as your relationship with having and with your own worth. No chart says how much anyone will earn, and I don’t read one for that."
   - q: "Do I need my birth time for Venus in the 2nd house?"
@@ -35,7 +35,7 @@ With Venus in the 2nd house, what you value and what you own are two sides of on
 
 Tradition put money in this house, and Venus here is often read as pleasure and earning walking together. I read it as a relationship with having, not a forecast. No chart says how much anyone will earn or own, and reading one for that isn't something I do ([can astrology pick investments?](/astrology/can-astrology-pick-investments/)). What Venus shows is what you find worth paying for, in money, time and care, and whether you count yourself among those things.
 
-When you were born, Venus sat below the eastern horizon, a few hours from rising; since it is never far from the Sun, that usually means a birth in the dark hours before dawn. In [Placidus](/astrology/placidus/), the system I read, the cusps come from your exact time and place, and an hour's error can lift Venus into [Venus in the 1st house](/astrology/venus-in-1st-house/) or leave it in [Venus in the 3rd house](/astrology/venus-in-3rd-house/). That's why I won't read a house without the time ([what changes without a birth time](/blog/unknown-birth-time/)).
+When you were born, Venus sat below the eastern horizon, a few hours from rising, and because Venus keeps company with the Sun, the birth most often came in the dark hours before dawn. In [Placidus](/astrology/placidus/), the system I read, the cusps come from your exact time and place, and an hour's error can lift Venus into [Venus in the 1st house](/astrology/venus-in-1st-house/) or leave it in [Venus in the 3rd house](/astrology/venus-in-3rd-house/). That's why I won't read a house without the time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## In close relationships {#in-close-relationships}
 
