@@ -61,4 +61,4 @@ How this conjunction meets you in transit depends on which planet led at your bi
 
 When Mars in the sky reaches the pair, about every two years, it touches both within days: a short burst of the same restlessness, or of the same knack for a fresh start.
 
-I read these as weather, not a forecast: they stir the wish to do things differently, and leave the choosing to you.
+Weather rather than a forecast, these transits stir the wish to do things differently and leave the choosing to you.

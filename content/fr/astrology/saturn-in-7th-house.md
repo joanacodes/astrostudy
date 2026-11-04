@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 79
 glyph: "♄"
-definition: "Saturne en maison 7 signifie qu’à votre naissance, Saturne était près de se coucher à l’ouest, dans la maison des partenaires et des liens en tête-à-tête. On y lit un engagement pris au sérieux, des partenaires qui vous éprouvent ou vous enseignent, et des relations qui se renforcent avec le temps. Rien n’y prédit un mariage."
+definition: "Saturne en maison 7 se tient juste au-dessus de l’horizon ouest, près du descendant, dans la maison des partenaires et des liens en tête-à-tête. On y lit un engagement pris au sérieux, des partenaires qui vous éprouvent ou vous enseignent, et des relations qui se renforcent avec le temps. Rien n’y prédit un mariage."
 facts:
   - { k: "Corps", v: "Saturne ♄" }
   - { k: "Maison", v: "Maison 7 : les partenaires, les liens en tête-à-tête, les adversaires déclarés" }
@@ -19,9 +19,9 @@ facts:
 related: ["/astrology/saturn", "/astrology/7th-house", "/astrology/descendant", "/astrology/saturn-in-libra", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire Saturne en maison 7 ?"
-    a: "Saturne se trouve dans la maison des partenaires et des liens en tête-à-tête. L’engagement se prend très au sérieux, parfois plus tard que chez les autres, et les relations proches tendent à vous éprouver, à vous enseigner et à se renforcer avec le temps. Vous rencontrez peut-être les qualités de Saturne chez vos partenaires avant de les reconnaître en vous."
+    a: "C’est dans les partenariats et les liens en tête-à-tête que Saturne travaille ici. L’engagement se prend au sérieux, parfois plus tard que chez les autres, et les relations proches tendent à vous éprouver, à vous enseigner et à se renforcer avec le temps. Vous rencontrez peut-être les qualités de Saturne chez vos partenaires avant de les reconnaître en vous."
   - q: "Saturne en maison 7, est-ce un mariage tardif ?"
-    a: "Aucun thème ne peut dire si ni quand quelqu’un se mariera, et je ne le lis pas ainsi. Saturne décrit ici votre façon d’aborder l’engagement : avec prudence, avec sérieux, souvent selon votre propre calendrier plutôt que celui des autres. Les liens noués lentement ont le temps de devenir solides : c’est le cadeau de ce placement."
+    a: "Se marier ou non, et quand : un thème ne peut pas le dire, et je n’en lis jamais un pour cela. Saturne décrit ici votre façon d’aborder l’engagement : avec prudence, avec sérieux, souvent selon votre propre calendrier plutôt que celui des autres. Les liens noués lentement ont le temps de devenir solides : c’est le cadeau de ce placement."
   - q: "Saturne en maison 7, est-ce une ou un partenaire plus âgé ?"
     a: "Ce placement peut décrire ce qui vous attire : la stabilité, la maturité, une personne qui prend la vie au sérieux, quel que soit son âge. Il ne choisit pas votre partenaire et ne prédit pas qui ce sera. Certaines personnes trouvent ces qualités chez quelqu’un de plus âgé, d’autres chez quelqu’un de leur âge, d’autres les développent elles-mêmes."
   - q: "Saturne en maison 7, est-ce bon pour les relations ?"
@@ -31,17 +31,17 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’exaltation de Saturne en Balance, signe naturel de la maison 7" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-À votre naissance, Saturne était bas dans le ciel de l’ouest, près de se coucher. Cela situe Saturne en maison 7, en face de votre ascendant, là où un thème regarde la personne assise de l’autre côté de la table, et chaque lien proche devient alors une affaire sérieuse.
+Bas dans le ciel de l’ouest, près de se coucher : c’est là que se trouvait Saturne à votre naissance. Saturne est donc en maison 7, en face de votre ascendant, là où un thème regarde la personne assise de l’autre côté de la table, et chaque lien proche devient alors une affaire sérieuse.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La [maison 7](/astrology/7th-house/) couvre les personnes que vous rencontrez d’égal à égal, en tête-à-tête : partenaires en amour comme au travail, proches collaborateurs, et adversaires déclarés qui se tiennent devant vous plutôt que dans votre dos. C’est une maison angulaire, qui commence au descendant : ce qui s’y trouve se voit dans les personnes que vous choisissez et dans celles avec qui vous vous heurtez. Avec [Saturne](/astrology/saturn/) ici, le partenariat devient un lieu de responsabilité et de croissance lente : un engagement pris très au sérieux, souvent plus tard que chez les autres, et des liens qui se renforcent avec le temps.
+Partenaires en amour comme au travail, proches collaborateurs, adversaires déclarés qui se tiennent devant vous plutôt que dans votre dos : la [maison 7](/astrology/7th-house/) rassemble toutes les personnes que vous rencontrez d’égal à égal, en tête-à-tête. Angulaire, elle commence au descendant : ce qu’elle contient apparaît dans les personnes que vous choisissez et dans celles avec qui vous vous heurtez. Avec [Saturne](/astrology/saturn/) ici, le partenariat devient un lieu de responsabilité et de croissance lente : un engagement pris très au sérieux, souvent plus tard que chez les autres, et des liens qui se renforcent avec le temps.
 
-La Balance est le signe naturel de la maison, et la Balance est l’exaltation de Saturne. L’exaltation concerne les signes plutôt que les maisons, mais l’écho est réel : l’équité, les accords tenus, un partenariat d’égal à égal. Saturne en maison 7 ne dit pas si vous vous marierez, ni quand. Je ne lis pas un thème pour cela. Ce placement décrit votre façon d’aborder l’engagement, et ce que vous rencontrez souvent chez les autres.
+La Balance, signe naturel de cette maison, est aussi l’exaltation de Saturne. L’exaltation concerne les signes plutôt que les maisons, mais l’écho est réel : l’équité, les accords tenus, un partenariat d’égal à égal. Saturne en maison 7 ne dit pas si vous vous marierez, ni quand. Je ne lis pas un thème pour cela. Ce placement décrit votre façon d’aborder l’engagement, et ce que vous rencontrez souvent chez les autres.
 
 Cette seconde partie compte. La maison 7 montre ce que l’on voit souvent chez les autres avant de le voir en soi : Saturne peut donc arriver sous la forme de partenaires chez qui l’on trouve du sérieux, de la réserve ou de l’exigence. Une part du travail consiste à reconnaître en eux votre propre Saturne, la prudence, les exigences, la peur de mal faire, et à reprendre ce qui vous appartient.
 
-Le descendant est toujours exactement en face de l’ascendant : la même erreur d’heure qui brouille un ascendant brouille aussi ce placement. En Placidus, le système de maisons que j’utilise, il me faut une heure précise avant de placer Saturne ici (voir [ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Le descendant est toujours exactement en face de l’ascendant : la même erreur d’heure qui brouille un ascendant brouille aussi ce placement. Placidus, le système dans lequel je lis, demande une heure précise avant que je place Saturne ici (voir [ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -49,7 +49,7 @@ Avant que Saturne atteigne la maison 7, avec [Saturne en maison 6](/astrology/sa
 
 ## Au travail {#au-travail}
 
-Le travail en tête-à-tête vous convient : les associations, les clients, les contrats, la négociation, tout rôle où l’on traite avec quelqu’un de l’autre côté d’une table. Vous prenez les accords au sérieux et attendez la même chose des autres. Dans une association, vous êtes la personne qui lit le contrat, et celle qui l’honore quand il devient gênant. Les adversaires déclarés peuvent être de bons professeurs ici : une concurrence qui place la barre haut vous affûte parfois plus qu’une amitié.
+Le travail en tête-à-tête vous convient : les associations, les clients, les contrats, la négociation, tout rôle où l’on traite avec quelqu’un de l’autre côté d’une table. Vous prenez les accords au sérieux et attendez la même chose des autres. Dans une association, c’est souvent vous qui lisez le contrat, et vous qui l’honorez quand il devient gênant. Les adversaires déclarés peuvent être de bons professeurs ici : une concurrence qui place la barre haut vous affûte parfois plus qu’une amitié.
 
 ## Le plus difficile {#le-plus-difficile}
 

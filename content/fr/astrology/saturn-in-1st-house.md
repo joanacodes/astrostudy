@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/1st-house", "/astrology/ascendant", "/blog/unknown-birth-time", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "Que veut dire Saturne en maison 1 ?"
-    a: "Saturne se trouve dans la maison de soi : votre corps, votre manière d’être et votre façon d’aborder le monde. Le sérieux est peut-être venu tôt, avec de la prudence dans les situations nouvelles et du temps avant de vous sentir bien dans votre peau. Avec les années, ce soin devient présence, et l’on vous confie volontiers des responsabilités."
+    a: "La maison de soi accueille votre Saturne : votre corps, votre manière d’être et votre façon d’aborder le monde. Le sérieux est peut-être venu tôt, avec de la prudence dans les situations nouvelles et du temps avant de vous sentir bien dans votre peau. Avec les années, ce soin devient présence, et l’on vous confie volontiers des responsabilités."
   - q: "Saturne en maison 1, est-ce la même chose qu’une conjonction de Saturne à l’ascendant ?"
     a: "Pas tout à fait. Saturne en maison 1 peut se trouver n’importe où entre l’ascendant et le début de la maison 2. À quelques degrés de l’ascendant, Saturne forme aussi une conjonction avec lui, et je lis alors ce placement avec encore plus de poids. Seule l’heure de naissance dit lequel des deux cas est le vôtre."
   - q: "Saturne en maison 1, est-ce que cela vieillit ?"
@@ -35,7 +35,7 @@ sources:
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La [maison 1](/astrology/1st-house/) est la façade du thème : votre corps, votre manière d’être, votre première réaction, l’impression que vous laissez avant que quiconque vous connaisse. C’est une maison angulaire, l’une des quatre qui commencent à un angle : ce qui s’y trouve se voit. Avec [Saturne](/astrology/saturn/) ici, la planète de la structure et des responsabilités entre dans votre façon d’aborder le monde : de la contenance, de la vigilance, de la prudence dans les pièces inconnues, et souvent un sérieux venu plus tôt que chez les autres enfants.
+Votre corps, votre manière d’être, votre première réaction, l’impression que vous laissez avant que quiconque vous connaisse : la [maison 1](/astrology/1st-house/) est ce que l’on rencontre d’abord. C’est une maison angulaire, l’une des quatre qui commencent à un angle : ce qui s’y trouve se voit. Avec [Saturne](/astrology/saturn/) ici, la planète de la structure et des responsabilités entre dans votre façon d’aborder le monde : de la contenance, de la vigilance, de la prudence dans les pièces inconnues, et souvent un sérieux venu plus tôt que chez les autres enfants.
 
 Le signe naturel de la maison 1 est le Bélier, où Saturne est en chute, et l’écho s’entend : la maison des premiers pas accueille la planète qui préfère attendre. La spontanéité vient parfois tard. Ce qui vient tôt, c’est l’impression de devoir vous ajuster, votre allure, vos manières, votre rythme, avant d’avoir le droit de vous y détendre.
 

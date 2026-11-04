@@ -51,7 +51,7 @@ Les autres angles de la paire :
 - **[Vénus carré Pluton](/astrology/venus-square-pluto/) :** les mêmes fonctions sous pression ; une profondeur gagnée par la friction.
 - **[Vénus opposition Pluton](/astrology/venus-opposite-pluto/) :** une polarité, aimer et transformer aux deux bouts du thème, avec un équilibre qui se trouve à travers les relations.
 
-Entre deux thèmes, [Vénus trigone Pluton en synastrie](/astrology/venus-trine-pluto-synastry/) a souvent un effet apaisant : la façon d’aimer de l’une des deux personnes et la profondeur de l’autre se font confiance très tôt. Je le lis dans les deux sens, car la personne dont Vénus s’approfondit et celle qui apporte Pluton ne ressentent pas la même chose.
+Quand deux thèmes se rencontrent, [Vénus trigone Pluton en synastrie](/astrology/venus-trine-pluto-synastry/) a souvent un effet apaisant : la façon d’aimer de l’une des deux personnes et la capacité de profondeur de l’autre se font confiance très tôt. Je le lis dans les deux sens, car la personne dont Vénus s’approfondit et celle qui apporte Pluton ne ressentent pas la même chose.
 
 ## En transit {#en-transit}
 

@@ -32,7 +32,7 @@ Venus sextile Chiron is a working link between what you value and what you've le
 
 ## What it means {#what-it-means}
 
-[Venus](/astrology/venus/) is the part of a chart that chooses and relates: attraction, preference, a sense of beauty, and the give and take that keeps a bond fair. [Chiron](/astrology/chiron/) is the part that adapts around what doesn't go away, a sensitivity, an unevenness, a limit, and builds skill and practical wisdom from the adjustment rather than demanding a cure. A [sextile](/astrology/sextile/) relates them through opportunity: they cooperate once you engage them.
+[Venus](/astrology/venus/) is the part of a chart that chooses and relates: attraction, preference, a sense of beauty, and the give and take that keeps a bond fair. [Chiron](/astrology/chiron/) is the part that adapts around what doesn't go away, a sensitivity, an unevenness, a limit, and builds skill and practical wisdom from the adjustment rather than demanding a cure. Linked by a [sextile](/astrology/sextile/), they work together through opportunity, which means they wait for you to call on them.
 
 In plain words, you tend to know how to relate around a difficulty, your own or someone else's. You might be the friend who adjusts plans so that someone with less energy can still come, the partner who says what you need without making it a test, or the one people ask how to be kind without being condescending. A sextile doesn't do this for you: opportunity requires engagement. The gift grows when you choose to share what you've learned, and it grows best when you offer it as your own experience rather than as a rule for everyone.
 

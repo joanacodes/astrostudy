@@ -22,8 +22,8 @@ faq:
     a: "It means mean Lilith was in Sagittarius when you were born. I read it as a hunger for more world, more questions and more meaning than you were offered, which learned early to stay quiet, and a refusal to be fenced in by small worlds or by answers you aren’t allowed to check."
   - q: "Is Lilith in Sagittarius reckless?"
     a: "No. Sagittarius is the sign of exploration and meaning, not of recklessness, and Lilith marks what you learned to hide. What often went underground here is simply the wish to go and see for yourself. Given room, it tends to travel far and come back with something worth telling."
-  - q: "When was Lilith last in Sagittarius?"
-    a: "Mean Lilith was in Sagittarius from December 2025 to September 2026, and before that from February to November 2017 and from April 2008 to January 2009. It stays about nine months each time and comes back about every 8 years and 10 months; the next stay begins in October 2034."
+  - q: "Is Lilith still in Sagittarius?"
+    a: "No. Mean Lilith left Sagittarius in September 2026, after a stay that began in December 2025, and moved into Capricorn. Before that it was in Sagittarius from February to November 2017 and from April 2008 to January 2009. It comes back about every 8 years and 10 months; next in October 2034."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "the months mean Lilith spent in Sagittarius, 1930–2039, and how many people born 1930–2009 have it" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s mean apogee, the point read as Black Moon Lilith" }

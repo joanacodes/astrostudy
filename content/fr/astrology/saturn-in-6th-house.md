@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 78
 glyph: "♄"
-definition: "Saturne en maison 6 place la planète de la discipline dans la maison du travail quotidien, des habitudes, des collègues et du soin du corps. On y lit une éthique de travail, de la fiabilité, des exigences élevées, et la leçon que les limites comptent autant que l’effort. La tradition y mettait la maladie ; un thème n’en prédit aucune."
+definition: "Saturne en maison 6, c’est la discipline appliquée à la journée ordinaire : le travail quotidien, les habitudes, les collègues et le soin du corps. On y lit une éthique de travail, de la fiabilité, des exigences élevées, et la leçon que les limites comptent autant que l’effort. La tradition y mettait la maladie ; un thème n’en prédit aucune."
 facts:
   - { k: "Corps", v: "Saturne ♄" }
   - { k: "Maison", v: "Maison 6 : le travail quotidien, les habitudes, les collègues, le soin du corps" }
@@ -19,9 +19,9 @@ facts:
 related: ["/astrology/saturn", "/astrology/6th-house", "/astrology/saturn-in-virgo", "/astrology/can-astrology-predict-health-problems", "/astrology/planetary-joys"]
 faq:
   - q: "Que veut dire Saturne en maison 6 ?"
-    a: "Saturne se trouve dans la maison du travail quotidien, des habitudes, des collègues et du soin du corps. Vous êtes en général fiable, d’une grande minutie, et difficile à arrêter, avec une éthique de travail qui demande des limites autant que de la discipline. La leçon : le repos fait partie du travail, ce n’est pas une récompense."
+    a: "Le travail quotidien, les habitudes, les collègues et le soin du corps sont le terrain de Saturne ici. Vous êtes en général fiable, d’une grande minutie, et difficile à arrêter, avec une éthique de travail qui demande des limites autant que de la discipline. La leçon : le repos fait partie du travail, ce n’est pas une récompense."
   - q: "Avec Saturne en maison 6, faut-il s’attendre à des problèmes de santé ?"
-    a: "Non. La tradition donnait la maladie à la maison 6, mais aucun thème ne peut diagnostiquer ni prédire quoi que ce soit sur votre santé : ces questions regardent un médecin. Ce que je lis avec Saturne ici, c’est votre façon d’organiser vos journées et de vous traiter : souvent avec beaucoup de discipline, et trop peu de repos."
+    a: "Non. La tradition donnait la maladie à la maison 6, mais aucun thème ne peut diagnostiquer ni prédire quoi que ce soit sur votre santé : ces questions regardent un médecin. Avec Saturne ici, je regarde plutôt votre façon d’organiser vos journées et de vous traiter : souvent avec beaucoup de discipline, et trop peu de repos."
   - q: "Saturne en maison 6, est-ce bon pour le travail ?"
     a: "Pour le travail lui-même, souvent très bon : du soin, de la constance, un vrai talent pour faire tourner les choses. La difficulté, c’est tout ce qu’il y a autour : dire non, déléguer, s’arrêter le soir. Avec des limites, ce placement fait de vous une personne sur qui l’on peut compter, sans que cela vous coûte tout."
   - q: "Pourquoi dit-on que Saturne en maison 6 fait face à sa joie ?"
@@ -34,11 +34,11 @@ Le quotidien, c’est là que vit Saturne en maison 6 : le réveil, la liste, l
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La [maison 6](/astrology/6th-house/), c’est la forme d’une journée ordinaire : le travail que vous faites plutôt que le titre que vous portez, vos habitudes et vos routines, les collègues à vos côtés, et le soin que vous donnez à votre corps, le sommeil, la nourriture, le mouvement, le repos. C’est une maison cadente, un lieu d’ajustement et d’entretien ; son signe naturel est la Vierge, et la tradition l’appelait la Fortune défavorable et y plaçait la joie de Mars, dans la maison de la peine. Avec [Saturne](/astrology/saturn/) ici, la planète de la discipline prend en charge le quotidien : de la fiabilité, de la minutie, une énergie difficile à arrêter, et des exigences que personne d’autre ne penserait à vérifier.
+Le travail que vous faites vraiment, plutôt que le titre que vous portez, vos habitudes et vos routines, les collègues à vos côtés et le soin que vous donnez à votre corps, le sommeil, la nourriture, le mouvement, le repos : la [maison 6](/astrology/6th-house/), c’est la journée ordinaire. Maison cadente, elle fait partie des maisons de l’ajustement et de l’entretien ; son signe naturel est la Vierge, et son nom ancien, la Fortune défavorable : Mars, la planète de l’effort, y a sa joie, dans la maison de la peine. Ici, [Saturne](/astrology/saturn/), la planète de la discipline, prend en charge le quotidien : de la fiabilité, de la minutie, une énergie difficile à arrêter, et des exigences que personne d’autre ne penserait à vérifier.
 
 Les anciens livres donnaient aussi la maladie à cette maison. Un thème ne peut ni diagnostiquer ni prédire quoi que ce soit sur votre santé, et je ne prétends pas le contraire (voir [L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)). Avec Saturne ici, je lis quelque chose de plus ordinaire et de plus utile : votre façon de traiter vos propres journées, et la place qu’elles vous laissent.
 
-La maison 6 fait directement face à la maison 12, celle où, selon la tradition, Saturne se réjouit : Saturne travaille ici dans le quotidien visible, face au retrait tranquille que la planète préfère. À votre naissance, Saturne venait de se coucher, juste sous l’horizon ouest. Juste sous le descendant, Saturne tombe en maison 6 ; juste au-dessus, en maison 7, et en Placidus, le système de maisons que j’utilise, quelques minutes d’heure de naissance peuvent en décider ; les deux maisons se lisent très différemment (voir [ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+La maison 6 fait directement face à la maison 12, celle où, selon la tradition, Saturne se réjouit : Saturne travaille ici dans le quotidien visible, face au retrait tranquille que la planète préfère. À votre naissance, Saturne venait de se coucher, juste sous l’horizon ouest. Juste sous le descendant, Saturne tombe en maison 6 ; juste au-dessus, en maison 7, et en Placidus, ma façon de découper les maisons, quelques minutes dans un sens ou dans l’autre peuvent en décider ; les deux maisons se lisent très différemment (voir [ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Là où [Saturne en maison 5](/astrology/saturn-in-5th-house/) doit apprendre à jouer, Saturne en maison 6 doit apprendre à s’arrêter ; une maison plus loin, [Saturne en maison 7](/astrology/saturn-in-7th-house/) porte le même sérieux dans le partenariat.
 

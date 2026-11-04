@@ -34,7 +34,7 @@ Under every house there's a foundation nobody sees. With Saturn in the 4th, that
 
 ## In a birth chart {#in-a-birth-chart}
 
-Home, family, roots, the past you carry and the private self that only the people closest to you see are [the 4th house](/astrology/4th-house/)'s business. Tradition also gave it land and houses, the things that stay put. It's angular, and what sits here is strong even when it works out of sight. When you were born, [Saturn](/astrology/saturn/) was below your feet, near the lowest point of its daily circle, close to the IC.
+Home, family, roots, the past you carry and the private self that only the people closest to you see are [the 4th house](/astrology/4th-house/)'s business. Tradition also gave it land and houses, the things that stay put. It's angular, and what sits here is strong even when it works out of sight. At the moment of your birth, [Saturn](/astrology/saturn/) was below your feet, near the lowest point of its daily circle, close to the IC.
 
 The house's natural sign is Cancer, where Saturn is in detriment, and the theme carries over: the planet of rules and reserve in the house of feeling and belonging. It often describes a home where you grew up quickly, took on a role, or learned to keep your feelings tidy. I read this gently. The 4th describes your experience of home, not facts about your parents; the people who raised you have charts of their own. What Saturn describes here is slower and kinder than its reputation: a home you build yourself, later, and trust.
 

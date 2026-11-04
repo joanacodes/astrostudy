@@ -2,13 +2,13 @@
 title: "Saturne en maison 4"
 slug: "saturne-en-maison-4"
 h1: "Saturne en maison 4 dans un thème natal"
-description: "Saturne en maison 4 dans un thème natal : le foyer, les racines et des responsabilités prises tôt, près du Fond du Ciel — ce qu’il dit, ce qu’il ne dit pas."
+description: "Saturne en maison 4 dans un thème natal : le foyer, les racines et des responsabilités prises tôt, près du Fond du Ciel — sans rien affirmer de votre famille."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 76
 glyph: "♄"
-definition: "Saturne en maison 4 place la planète de la structure en bas du thème, près du Fond du Ciel, dans la maison du foyer, des racines et de la vie privée. On y lit des responsabilités prises tôt à la maison, une appartenance à construire, et un foyer bâti plus tard, celui auquel on se fie."
+definition: "Saturne en maison 4 se tient en bas du thème, près du Fond du Ciel, dans la maison du foyer, des racines et de la vie privée. On y lit des responsabilités prises tôt à la maison, une appartenance à construire, et un foyer bâti plus tard, celui auquel on se fie."
 facts:
   - { k: "Corps", v: "Saturne ♄" }
   - { k: "Maison", v: "Maison 4 : le foyer, les racines, la famille, la vie privée" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/4th-house", "/astrology/imum-coeli", "/astrology/saturn-in-cancer", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "Que veut dire Saturne en maison 4 ?"
-    a: "Saturne se trouve dans la maison du foyer, des racines et de la vie privée. Les responsabilités sont peut-être arrivées tôt à la maison, et l’appartenance peut sembler une chose à construire plutôt qu’à recevoir. Le foyer que vous bâtissez plus tard, lentement et à votre façon, est souvent celui auquel vous vous fiez le plus."
+    a: "Saturne veille ici sur le foyer, les racines et la vie privée. Les responsabilités sont peut-être arrivées tôt à la maison, et l’appartenance peut sembler une chose à construire plutôt qu’à recevoir. Le foyer que vous bâtissez plus tard, lentement et à votre façon, est souvent celui auquel vous vous fiez le plus."
   - q: "Saturne en maison 4, est-ce une enfance difficile ?"
     a: "Pas comme un verdict. Ce placement décrit votre vécu du foyer : souvent un sens du devoir, du sérieux ou de la retenue, parfois un rôle pris très jeune. Il ne dit rien de certain sur vos parents, qui ont leur propre thème. Avec le temps, le foyer que vous bâtissez peut devenir votre fondation la plus solide."
   - q: "Que veut dire Saturne près du Fond du Ciel ?"
@@ -35,13 +35,13 @@ Sous chaque maison, il y a des fondations que personne ne voit. Avec Saturne en 
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La [maison 4](/astrology/4th-house/), c’est le sol sous vos pieds : le foyer, la famille, les racines, le passé que vous portez, et la part de vous que seuls vos proches voient. La tradition lui donnait aussi la terre et les maisons, ce qui ne bouge pas. C’est une maison angulaire : ce qui s’y trouve est fort, même quand cela agit hors de la vue. À votre naissance, [Saturne](/astrology/saturn/) était sous vos pieds, près du point le plus bas de son cercle quotidien, proche du Fond du Ciel.
+Le foyer, la famille, les racines, le passé que vous portez et la part de vous que seuls vos proches voient : tout cela regarde la [maison 4](/astrology/4th-house/). La tradition lui donnait aussi la terre et les maisons, ce qui ne bouge pas. C’est une maison angulaire : ce qui s’y trouve est fort, même quand cela agit hors de la vue. À votre naissance, [Saturne](/astrology/saturn/) était sous vos pieds, près du point le plus bas de son cercle quotidien, proche du Fond du Ciel.
 
-Le signe naturel de la maison est le Cancer, où Saturne est en exil, et le thème se prolonge : la planète des règles et de la réserve dans la maison de l’émotion et de l’appartenance. Ce placement décrit souvent un foyer où l’on a grandi vite, pris un rôle, ou appris à garder ses émotions bien rangées. Je le lis avec douceur. La maison 4 décrit votre vécu du foyer, pas des faits sur vos parents : les personnes qui ont pris soin de votre enfance ont leur propre thème. Ce que Saturne décrit ici est plus lent et plus doux que sa réputation : un foyer que vous bâtissez vous-même, plus tard, et auquel vous vous fiez.
+Son signe naturel est le Cancer, où Saturne est en exil, et le thème se prolonge : la planète des règles et de la réserve dans la maison de l’émotion et de l’appartenance. Ce placement décrit souvent un foyer où l’on a grandi vite, pris un rôle, ou appris à garder ses émotions bien rangées. Je le lis avec douceur. La maison 4 décrit votre vécu du foyer, pas des faits sur vos parents : les personnes qui ont pris soin de votre enfance ont leur propre thème. Ce que Saturne décrit ici est plus lent et plus doux que sa réputation : un foyer que vous bâtissez vous-même, plus tard, et auquel vous vous fiez.
 
-De l’autre côté du thème se trouve la maison 10, maison naturelle du Capricorne, le propre signe de Saturne. Saturne en maison 4 regarde donc la vie publique depuis la vie privée, et les deux peuvent tirer en sens contraire pendant des années.
+Tout en haut, en face, se trouve la maison 10, maison naturelle du Capricorne, le propre signe de Saturne. Saturne en maison 4 regarde donc la vie publique depuis la vie privée, et les deux peuvent tirer en sens contraire pendant des années.
 
-Le Fond du Ciel fait le tour complet du zodiaque en une journée, comme l’ascendant : en Placidus, le système de maisons que j’utilise, une heure d’erreur sur la naissance peut faire sortir Saturne de la maison 4 (voir [ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Si Saturne se trouve près de l’un des bords, lisez aussi [Saturne en maison 3](/astrology/saturn-in-3rd-house/) ou [Saturne en maison 5](/astrology/saturn-in-5th-house/), tant que l’heure n’est pas sûre.
+Le Fond du Ciel fait le tour complet du zodiaque en une journée, comme l’ascendant : avec Placidus, mon système de maisons, une heure d’erreur sur la naissance peut faire sortir Saturne de la maison 4 (voir [ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Si Saturne se trouve près de l’un des bords, lisez aussi [Saturne en maison 3](/astrology/saturn-in-3rd-house/) ou [Saturne en maison 5](/astrology/saturn-in-5th-house/), tant que l’heure n’est pas sûre.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -57,4 +57,4 @@ De vieilles règles, portées sans être examinées : on a toujours fait comme 
 
 ## Ce qui aide {#ce-qui-aide}
 
-Choisir les traditions que vous gardez, et laisser les autres partir sans culpabilité. Faire d’une pièce, ou d’un coin, un lieu entièrement à vous. Laisser le foyer être un endroit où vous vous reposez, pas seulement un endroit dont vous êtes responsable. Des racines plantées tard poussent quand même en profondeur. Saturne a fait partie des trois placements qui ont tenu 75 à 90 % du temps dans mes tests (voir [les trois qui ont tenu](/blog/saturn-chiron-lilith/)) ; en maison 4, je lis ce placement lentement, parce qu’il remonte jusqu’à l’endroit d’où vous venez.
+Choisir les traditions que vous gardez, et laisser les autres partir sans culpabilité. Faire d’une pièce, ou d’un coin, un lieu entièrement à vous. Laisser le foyer être un endroit où vous vous reposez, pas seulement un endroit dont vous êtes responsable. Des racines plantées tard poussent quand même en profondeur. Dans mes tests, Saturne compte parmi les trois placements qui ont tenu 75 à 90 % du temps (voir [les trois qui ont tenu](/blog/saturn-chiron-lilith/)) ; en maison 4, je lis ce placement lentement, parce qu’il remonte jusqu’à l’endroit d’où vous venez.

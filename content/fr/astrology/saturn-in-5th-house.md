@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 77
 glyph: "♄"
-definition: "Saturne en maison 5 place la planète des règles dans la maison du jeu : créativité, plaisir, amours. On y lit un plaisir qui demande d’abord une permission, une créativité qui devient un métier, et un amour pris au sérieux dès le début. La tradition y mettait les enfants ; je la lis dans une vie d’adulte."
+definition: "Avec Saturne en maison 5, la planète des règles s’installe dans la maison du jeu : créativité, plaisir, amours. On y lit un plaisir qui demande d’abord une permission, une créativité qui devient un métier, et un amour pris au sérieux dès le début. La tradition y mettait les enfants ; je la lis dans une vie d’adulte."
 facts:
   - { k: "Corps", v: "Saturne ♄" }
   - { k: "Maison", v: "Maison 5 : la créativité, le plaisir, le jeu, les amours" }
@@ -19,9 +19,9 @@ facts:
 related: ["/astrology/saturn", "/astrology/5th-house", "/astrology/saturn-in-leo", "/astrology/childrens-charts", "/astrology/can-astrology-predict-pregnancy"]
 faq:
   - q: "Que veut dire Saturne en maison 5 ?"
-    a: "Saturne se trouve dans la maison de la créativité, du plaisir, du jeu et des amours. La joie peut sembler demander une permission, et le travail créatif tend à devenir sérieux, voire discipliné. Avec le temps, ce sérieux devient savoir-faire, et le jeu une chose que vous vous autorisez enfin à aimer, sans avoir besoin de raison."
+    a: "La planète des règles a atterri dans la maison de la créativité, du plaisir, du jeu et des amours. La joie peut sembler demander une permission, et le travail créatif tend à devenir sérieux, voire discipliné. Avec le temps, ce sérieux devient savoir-faire, et le jeu une chose que vous vous autorisez enfin à aimer, sans avoir besoin de raison."
   - q: "Saturne en maison 5, est-ce un signe d’absence d’enfants ?"
-    a: "Non. La tradition donnait les enfants à la maison 5, mais aucun thème ne peut dire si ni quand quelqu’un aura un enfant, et je ne le lis pas ainsi. Ce que je lis ici, c’est votre propre créativité, votre plaisir et votre jeu, d’adulte, et la liberté que vous vous donnez d’en profiter."
+    a: "Non. La tradition donnait les enfants à la maison 5, mais aucun thème ne peut dire si ni quand quelqu’un aura un enfant, et ce n’est pas ainsi que je lis cette maison. Ce que je lis ici, c’est votre propre créativité, votre plaisir et votre jeu, d’adulte, et la liberté que vous vous donnez d’en profiter."
   - q: "Pourquoi est-il difficile de s’amuser avec Saturne en maison 5 ?"
     a: "Parce que la planète des règles et des responsabilités se trouve là où vit le jeu : le jeu peut alors ressembler à une tâche à bien faire. Vous planifiez peut-être vos loisirs, jugez vos passe-temps, ou sautez l’étape légère d’une histoire d’amour. Ce qui aide, c’est la pratique : aimer une activité où vous avez le droit de mal faire."
   - q: "Saturne en maison 5, est-ce bon pour la créativité ?"
@@ -34,11 +34,11 @@ Imaginez une cour de récréation où il vous faudrait un mot d’excuse avant d
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La [maison 5](/astrology/5th-house/), c’est ce que vous faites pour la joie : créer pour le plaisir de créer, les jeux et les loisirs, flirter et tomber sous le charme, les risques pris pour s’amuser, et votre façon de vous montrer quand personne ne vous note. C’est une maison succédente, où les choses poussent une fois que l’on se sent chez soi, et son signe naturel est le Lion, où Saturne est en exil. La tradition l’appelait la Fortune favorable et y plaçait la joie de Vénus : [Saturne](/astrology/saturn/) y fait figure de présence sobre dans la maison du plaisir. La créativité devient métier, l’amour engagement, et le jeu une chose à réussir.
+Créer pour le plaisir de créer, les jeux et les loisirs, flirter et tomber sous le charme, les risques pris pour s’amuser, la personne que vous êtes quand rien n’est en jeu : la [maison 5](/astrology/5th-house/) rassemble tout ce que vous faites parce que vous aimez le faire. C’est une maison succédente, où les choses poussent une fois que l’on se sent chez soi, et son signe naturel est le Lion, où Saturne est en exil. Son nom ancien est la Fortune favorable, et Vénus y a sa joie : [Saturne](/astrology/saturn/) y fait figure de présence sobre dans la maison du plaisir. La créativité devient métier, l’amour engagement, et le jeu une chose à réussir.
 
 La tradition donnait aussi les enfants à la maison 5. Je ne lis pas cela dans un thème : aucun thème ne peut dire si ni quand quelqu’un aura un enfant (voir [L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et je ne lis pas [le thème des enfants](/astrology/childrens-charts/). Ce que je lis avec Saturne ici, c’est votre propre plaisir et votre créativité, d’adulte, et la permission que vous vous donnez d’en profiter.
 
-Chaque planète traverse les douze maisons au cours d’une journée, au fil de la rotation de la Terre : c’est donc l’heure de votre naissance, et non la date, qui a placé Saturne en maison 5. En Placidus, le système de maisons que j’utilise, une heure incertaine peut tout aussi bien placer Saturne en maison 4 ou en maison 6 (voir [ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Chaque planète traverse les douze maisons au cours d’une journée, au fil de la rotation de la Terre : c’est donc l’heure de votre naissance, et non la date, qui a placé Saturne en maison 5. Dans les maisons de Placidus que je lis, une heure incertaine peut tout aussi bien placer Saturne en maison 4 ou en maison 6 (voir [ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 La maison 5 est la pause entre deux sortes de devoirs : après [Saturne en maison 4](/astrology/saturn-in-4th-house/), où le foyer est une responsabilité, et avant [Saturne en maison 6](/astrology/saturn-in-6th-house/), où c’est le travail quotidien. Avec Saturne ici, même la pause peut finir par ressembler à un devoir.
 

@@ -33,7 +33,7 @@ The daily round is where Saturn in the 6th house lives: the alarm, the list, the
 
 ## In a birth chart {#in-a-birth-chart}
 
-The work you actually do, as opposed to the title you hold, your habits and routines, the colleagues beside you and the care you give your body, sleep, food, movement, rest: [the 6th house](/astrology/6th-house/) is the ordinary day. It's cadent, one of the houses of adjusting and maintaining, its natural sign is Virgo, and tradition called it Bad Fortune and gave Mars its joy there, the house of toil. With [Saturn](/astrology/saturn/) here, the planet of discipline takes charge of the everyday: you're reliable, thorough, hard to stop, and you hold yourself to standards nobody else would think to check.
+The work you actually do, as opposed to the title you hold, your habits and routines, the colleagues beside you and the care you give your body, sleep, food, movement, rest: [the 6th house](/astrology/6th-house/) is the ordinary day. It's cadent, one of the houses of adjusting and maintaining, its natural sign is Virgo, and tradition called it Bad Fortune and gave Mars its joy there, the house of toil. Here [Saturn](/astrology/saturn/), the planet of discipline, takes charge of the everyday: you're reliable, thorough, hard to stop, and you hold yourself to standards nobody else would think to check.
 
 The old books also gave this house illness. A chart can't diagnose or predict anything about your health, and I don't pretend it can ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). With Saturn here I read something more ordinary and more useful: how you treat your own days, and whether they leave any room for you.
 

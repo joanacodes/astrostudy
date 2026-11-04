@@ -24,7 +24,7 @@ faq:
   - q: "How does Saturn in the 2nd house affect self-worth?"
     a: "It can tie worth to output: what you produce, what you earn, what you can show for your effort. The lesson runs the other way, learning that you are worth something before you have proved it. Saturn takes its time over that lesson, but what it builds tends to hold."
   - q: "Can I know if Saturn is in my 2nd house without a birth time?"
-    a: "No. The houses come from the time and place of birth, and without the time Saturn could sit in any of the twelve. Its sign is known from the date alone, but the house that makes it personal needs the hour, as precisely as you can find it."
+    a: "No. The houses depend on the hour and place you were born, and without the time Saturn could sit in any of the twelve. Its sign is known from the date alone, but the house that makes it personal needs the hour, as precisely as you can find it."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
   - { title: "Dorotheus of Sidon, Carmen Astrologicum", note: "the houses in practice" }
@@ -37,9 +37,9 @@ Money, belongings, the skills you could live from and the self-worth beneath the
 
 None of this says how much money you'll have, when, or where to put it. No chart can, and I don't read one for that ([can astrology pick investments?](/astrology/can-astrology-pick-investments/)). What it describes is your relationship with having: patience, caution, and sometimes fear. Across the chart sits the 8th house, what's shared and owed, so with Saturn in the 2nd you'd usually rather rely on your own than on anyone else's.
 
-Placidus, the system I use, draws the 2nd house from the exact time and place of birth; get the hour wrong and Saturn can slide back into the 1st or on into the 3rd ([what changes without a birth time](/blog/unknown-birth-time/)). The sign Saturn is in, shared with everyone born in the same couple of years, colours the style. The house is what makes this lesson about your own security.
+Placidus, the system I use, draws the 2nd house from the exact time and place of birth; get the hour wrong and Saturn can slide back into the 1st or on into the 3rd ([what changes without a birth time](/blog/unknown-birth-time/)). The sign Saturn is in, which your whole cohort shares, colours the style. The house is what makes this lesson about your own security.
 
-It sits a step on from [Saturn in the 1st house](/astrology/saturn-in-1st-house/), where the work is on the self that shows, and a step before [Saturn in the 3rd house](/astrology/saturn-in-3rd-house/), where it turns to words. In the 2nd, it's about what you keep.
+It sits a step on from [Saturn in the 1st house](/astrology/saturn-in-1st-house/), where Saturn shapes how you come across, and a step before [Saturn in the 3rd house](/astrology/saturn-in-3rd-house/), where it turns to words. In the 2nd, it's about what you keep.
 
 ## In close relationships {#in-close-relationships}
 

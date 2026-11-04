@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 182
 glyph: "♀□♇"
-definition: "Vénus carré Pluton signifie qu’à votre naissance, Vénus et Pluton étaient à environ 90° d’écart, souvent dans des signes du même mode. Dans un thème, ce que vous aimez et l’élan de transformer pèsent l’un sur l’autre : goûts et liens doivent s’approfondir ou se renouveler. J’y lis une friction qui construit la franchise, jamais un amour condamné."
+definition: "Vénus carré Pluton signifie qu’à votre naissance, Vénus et Pluton étaient à environ 90° d’écart, souvent dans des signes du même mode. Dans un thème, ce que vous aimez et l’élan de transformer pèsent l’un sur l’autre : goûts et liens doivent s’approfondir ou se renouveler. Pour moi, c’est une friction qui apprend la franchise en amour ; rien n’y est condamné."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Pluton ♇" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/venus", "/astrology/pluto", "/astrology/square", "/astrology/venus-conjunct-pluto", "/astrology/venus-square-pluto-synastry"]
 faq:
   - q: "Que veut dire Vénus carré Pluton dans un thème natal ?"
-    a: "Vénus et Pluton à environ 90° d’écart à votre naissance, en général dans des signes du même mode. Ce que vous aimez et l’élan de transformer pèsent sans cesse l’un sur l’autre : les attirances deviennent sérieuses, les liens demandent du renouveau, les goûts deviennent trop étroits. J’y lis une friction qui construit franchise et profondeur, jamais un amour condamné."
+    a: "Vénus et Pluton à environ 90° d’écart à votre naissance, dans des signes du même mode. Ce que vous aimez et l’élan de transformer pèsent l’un sur l’autre : les attirances deviennent sérieuses, les liens demandent du renouveau, les goûts deviennent trop étroits. Ce carré demande de la franchise et construit de la profondeur ; il ne condamne jamais un amour."
   - q: "Est-ce que Vénus carré Pluton est un mauvais aspect pour l’amour ?"
     a: "Non. Un carré est une friction, pas un échec, et Pluton décrit la profondeur, pas le mal. Ce carré peut donner beaucoup d’enjeu à l’amour et demander de la franchise sur l’équité et le pouvoir. Bien des personnes qui l’ont bâtissent des liens d’une rare profondeur : la friction ne les a pas laissées s’en tenir à la surface."
   - q: "Est-ce que Vénus carré Pluton est un aspect de jalousie ?"
@@ -40,7 +40,7 @@ Concrètement, ce que vous aimez reste rarement simple. Une attirance légère p
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Un carré relie en général deux signes du même mode, à trois signes d’écart. En signes fixes, avec Pluton en Lion et Vénus en Taureau ou en Scorpion, la friction tourne autour de retenir et de laisser partir. En signes cardinaux, avec Pluton en Balance et Vénus en Cancer ou en Capricorne, elle porte plutôt sur qui fixe les règles d’un lien. Le signe de Pluton marque une génération : ce sont les maisons qui racontent l’histoire personnelle. Vénus en maison 7 en carré avec Pluton en maison 10 pourrait faire qu’un couple et une ambition se remodèlent l’un l’autre pendant des années.
+Un carré relie en général deux signes du même mode, à trois signes d’écart. En signes fixes, avec Pluton en Lion et Vénus en Taureau ou en Scorpion, la friction tourne autour de retenir et de laisser partir. En signes cardinaux, avec Pluton en Balance et Vénus en Cancer ou en Capricorne, elle porte plutôt sur qui fixe les règles d’un lien. Le signe de Pluton est celui de votre génération ; vos maisons n’appartiennent qu’à vous. Vénus en maison 7 en carré avec Pluton en maison 10 pourrait faire qu’un couple et une ambition se remodèlent l’un l’autre pendant des années.
 
 Environ 1 personne sur 15 naît avec Vénus et Pluton à moins de 6° d’un carré exact. Serré, c’est un thème que vous reconnaîtrez dans la plupart de vos liens proches ; vers 6°, il se montre surtout quand quelque chose compte énormément. Vénus est de loin la plus rapide, et quand elle se rapproche encore du carré exact, beaucoup d’astrologues ressentent une tension qui monte plutôt qu’elle ne retombe ([aspects appliquants et séparants](/astrology/applying-and-separating-aspects/)).
 

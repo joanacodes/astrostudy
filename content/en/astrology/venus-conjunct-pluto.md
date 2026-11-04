@@ -49,7 +49,7 @@ Venus and Pluto at their other angles:
 - **[Venus sextile Pluto](/astrology/venus-sextile-pluto/):** depth as an offer; you can renew what you value when you choose to reach for it.
 - **[Venus square Pluto](/astrology/venus-square-pluto/):** liking and transforming at cross-purposes, each pushing the other to grow.
 - **[Venus trine Pluto](/astrology/venus-trine-pluto/):** attachments that deepen and renew with little drama, usually in one element.
-- **[Venus opposite Pluto](/astrology/venus-opposite-pluto/):** the intensity across the chart, often met in a partner before it's owned.
+- **[Venus opposite Pluto](/astrology/venus-opposite-pluto/):** valuing and renewing on opposite sides, held in balance mostly through the people you're close to.
 
 Between two charts, [Venus conjunct Pluto in synastry](/astrology/venus-conjunct-pluto-synastry/) is one of the contacts people remember: one person's way of valuing meets the other's depth at close range. It can feel magnetic, and the two rarely feel it the same way, so I read it from both sides.
 

@@ -23,8 +23,8 @@ faq:
     a: "Qu’à votre naissance, la Lilith moyenne se trouvait en Sagittaire. J’y lis une faim de monde, de questions et de sens plus grande que ce qu’on vous offrait, qui a appris tôt à se taire, et le refus de se laisser enfermer dans de petits mondes ou dans des réponses qu’on n’a pas le droit de vérifier."
   - q: "Lilith en Sagittaire pousse-t-elle à l’imprudence ?"
     a: "Non. Le Sagittaire est le signe de l’exploration et du sens, pas de l’imprudence, et Lilith désigne ce qu’on a appris à cacher. Ce qui est souvent passé sous terre ici, c’est simplement l’envie d’aller voir par soi-même. Avec de l’espace, elle voyage loin et revient avec quelque chose qui vaut d’être raconté."
-  - q: "Quand Lilith était-elle en Sagittaire pour la dernière fois ?"
-    a: "La Lilith moyenne a été en Sagittaire de décembre 2025 à septembre 2026, et avant cela de février à novembre 2017 et d’avril 2008 à janvier 2009. Elle y reste environ neuf mois chaque fois et revient à peu près tous les 8 ans et 10 mois ; le prochain séjour commence en octobre 2034."
+  - q: "Lilith est-elle encore en Sagittaire ?"
+    a: "Non. La Lilith moyenne a quitté le Sagittaire en septembre 2026, après un séjour commencé en décembre 2025, pour entrer en Capricorne. Avant cela, elle y a été de février à novembre 2017 et d’avril 2008 à janvier 2009. Elle revient à peu près tous les 8 ans et 10 mois ; la prochaine fois en octobre 2034."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les mois passés par la Lilith moyenne en Sagittaire de 1930 à 2039, et la part des personnes nées entre 1930 et 2009 qui ont ce placement" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "l’apogée moyen de la Lune, le point lu comme la Lune noire Lilith" }

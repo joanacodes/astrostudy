@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 80
 glyph: "♄"
-definition: "Saturne en maison 8 place la planète des limites dans la maison de l’intimité, de la confiance et de ce qui est partagé ou dû. On y lit une confiance donnée lentement, puis tenue, des promesses et des dettes prises au sérieux, une proximité abordée avec précaution. La tradition y mettait la mort ; j’y lis la vie."
+definition: "Saturne en maison 8 veille sur ce que deux personnes partagent : l’intimité, la confiance, l’argent commun, les dettes et les promesses. On y lit une confiance donnée lentement, puis tenue, des obligations prises au sérieux, une proximité abordée avec précaution. La tradition y mettait la mort ; j’y lis la vie."
 facts:
   - { k: "Corps", v: "Saturne ♄" }
   - { k: "Maison", v: "Maison 8 : l’intimité, la confiance, ce qui est partagé et dû" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/8th-house", "/astrology/saturn-in-scorpio", "/astrology/can-astrology-predict-death", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Que veut dire Saturne en maison 8 ?"
-    a: "Saturne se trouve dans la maison de l’intimité, de la confiance et de ce qui est partagé ou dû. La confiance se donne lentement puis se tient, et les dettes comme les promesses sont prises au sérieux. La proximité peut sembler risquée : elle s’aborde avec soin. Avec le temps, on peut compter sur vous dans une crise."
+    a: "L’intimité, la confiance et ce qui est partagé ou dû passent ici sous la garde de Saturne. La confiance se donne lentement puis se tient, et les dettes comme les promesses sont prises au sérieux. La proximité peut sembler risquée : elle s’aborde avec soin. Avec le temps, on peut compter sur vous dans une crise."
   - q: "Saturne en maison 8, est-ce une prédiction de mort ?"
     a: "Non. La tradition donnait la mort et l’héritage à la maison 8, mais je ne lis la mort dans aucun thème, et aucun thème ne peut la prédire. Dans une vie d’adulte, je lis la maison 8 comme l’intimité, la confiance et le partage, et Saturne comme la prudence, la loyauté et la lente construction de la confiance."
   - q: "Que dit Saturne en maison 8 de l’argent partagé ?"
@@ -35,7 +35,7 @@ Avec Saturne en maison 8, la confiance fonctionne comme un prêt aux conditions 
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La [maison 8](/astrology/8th-house/) est l’endroit où un lien s’approfondit en ce qui se partage : l’intimité, sexuelle ou non ; la confiance, et ce qu’il en coûte de la donner ; l’argent commun, les prêts et les dettes, et ces dettes que les gens portent entre eux sans rapport avec l’argent. C’est une maison succédente, où les choses se posent et s’accumulent : la maison 7 crée le lien, la maison 8 garde ce que le lien produit. Son signe naturel est le Scorpion. Avec [Saturne](/astrology/saturn/) ici, tout cela devient sérieux. Vous laissez entrer les gens lentement, gardez leurs confidences pour toujours, et prenez très à cœur ce que vous devez, et ce qu’on vous doit.
+L’intimité, sexuelle ou non ; la confiance, et ce qu’il en coûte de la donner ; l’argent commun, les prêts et les dettes, et ces dettes que les gens portent entre eux sans rapport avec l’argent : la [maison 8](/astrology/8th-house/) contient ce que deux personnes finissent par partager, et ce qu’elles se doivent. Les maisons succédentes rassemblent et gardent : la maison 7 crée le lien, la maison 8 garde ce qu’il produit. Son signe naturel est le Scorpion. Avec [Saturne](/astrology/saturn/) ici, tout cela devient sérieux. Vous laissez entrer les gens lentement, gardez leurs confidences pour toujours, et prenez très à cœur ce que vous devez, et ce qu’on vous doit.
 
 La tradition donnait à la maison 8 la mort et l’héritage. Je ne lis la mort dans le thème de personne (voir [L’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)), et je ne prédis ni ce que quelqu’un héritera ni ce qu’il devra. Dans une vie d’adulte, la maison 8 est occupée par les vivants, et Saturne y décrit votre façon de vivre la proximité et le partage : avec prudence, avec loyauté, et une forte réticence à dépendre de qui que ce soit.
 
@@ -57,4 +57,4 @@ Tout porter en solitaire. Une peur de perdre le contrôle qui fait de l’aide r
 
 ## Ce qui aide {#ce-qui-aide}
 
-Passer des accords clairs sur ce qui est partagé, tôt, et y revenir. Accorder la confiance par étapes visibles, et remarquer quand elle est honorée. Accepter une offre d’aide cette semaine sans la rendre aussitôt. Dire ce dont vous avez besoin, dans l’intimité comme ailleurs. Laisser une crise finir quand elle est finie, au lieu de monter la garde pour la suivante. Je n’ai testé des placements qu’avec le consentement des personnes, et Saturne a fait partie des trois placements qui ont vu juste bien plus souvent que les autres (voir [la méthode de la facture](/blog/i-tested-my-birth-chart/)). Avec Saturne en maison 8, je garde la même règle : rien ne va plus loin que ce que vous choisissez.
+Passer des accords clairs sur ce qui est partagé, tôt, et y revenir. Accorder la confiance par étapes visibles, et remarquer quand elle est honorée. Accepter une offre d’aide cette semaine sans la rendre aussitôt. Dire ce dont vous avez besoin, dans l’intimité comme ailleurs. Laisser une crise finir quand elle est finie, au lieu de monter la garde pour la suivante. Je n’ai testé des placements qu’avec le consentement des personnes, et c’est Saturne, avec deux autres placements, qui a vu juste le plus souvent (voir [la méthode de la facture](/blog/i-tested-my-birth-chart/)). Avec Saturne en maison 8, je garde la même règle : rien ne va plus loin que ce que vous choisissez.

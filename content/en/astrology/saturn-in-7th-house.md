@@ -48,7 +48,7 @@ Before Saturn reaches the 7th, in [Saturn in the 6th house](/astrology/saturn-in
 
 ## At work {#at-work}
 
-One-to-one work suits you: business partnerships, clients, contracts, negotiation, any role where you deal with people across a table. You take agreements seriously and expect others to. In a business partnership you're the one who reads the contract, and the one who honours it when it becomes inconvenient. Open rivals can be good teachers here; a competitor who sets the bar high can sharpen you more than any friend.
+One-to-one work suits you: business partnerships, clients, contracts, negotiation, any role where you deal with people across a table. You take agreements seriously and expect others to. In a business partnership it's usually you who reads the contract, and you who honours it when it becomes inconvenient. Open rivals can be good teachers here; a competitor who sets the bar high can sharpen you more than any friend.
 
 ## The hard part {#the-hard-part}
 

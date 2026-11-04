@@ -50,7 +50,7 @@ The pair's other angles:
 - **[Venus square Pluto](/astrology/venus-square-pluto/):** the same two functions under pressure; depth earned through friction.
 - **[Venus opposite Pluto](/astrology/venus-opposite-pluto/):** a polarity, valuing and transforming at opposite ends, balanced through relationships.
 
-Between two charts, [Venus trine Pluto in synastry](/astrology/venus-trine-pluto-synastry/) tends to feel steadying: one person's way of valuing and the other's depth trust each other early. I read it in both directions, since the one whose Venus is deepened and the one who brings the Pluto feel different things.
+When two charts meet, [Venus trine Pluto in synastry](/astrology/venus-trine-pluto-synastry/) tends to feel steadying: one person's way of valuing and the other's capacity for depth trust each other early. I read it in both directions, since the one whose Venus is deepened and the one who brings the Pluto feel different things.
 
 ## In transits {#in-transits}
 
