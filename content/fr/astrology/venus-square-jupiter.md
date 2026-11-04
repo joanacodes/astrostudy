@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 162
 glyph: "♀□♃"
-definition: "Vénus carré Jupiter signifie que, dans votre thème, un angle d’environ 90° relie Vénus et Jupiter, la plupart du temps entre signes d’un même mode. Votre sens du juste prix et l’envie de davantage y frottent l’un contre l’autre : la générosité peut déborder. Cette friction, à mes yeux, enseigne la proportion et les promesses tenables."
+definition: "Vénus carré Jupiter signifie que, dans votre thème, un angle d’environ 90° relie Vénus et Jupiter, la plupart du temps entre signes d’un même mode. Votre sens du juste prix et l’envie de davantage y frottent l’un contre l’autre : la générosité peut déborder. À mes yeux, ce frottement a une leçon : la proportion, et des promesses tenables."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Jupiter ♃" }
   - { k: "Aspect", v: "Carré □, 90°" }

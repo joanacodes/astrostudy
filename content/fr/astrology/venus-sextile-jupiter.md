@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 161
 glyph: "♀⚹♃"
-definition: "Vénus sextile Jupiter signifie que Vénus et Jupiter se trouvaient à quelque 60° d’écart à votre naissance, souvent l’air avec le feu, ou l’eau avec la terre. Dans un thème, ce qui vous plaît et ce qui vous fait grandir se rejoignent par l’occasion : des plaisirs qui instruisent, des amitiés qui élargissent la vue. Il agit quand vous dites oui."
+definition: "Vénus sextile Jupiter signifie que Vénus et Jupiter se trouvaient à quelque 60° d’écart à votre naissance, souvent entre air et feu, ou eau et terre. Dans un thème, ce qui vous plaît et ce qui vous fait grandir se rejoignent par l’occasion : des plaisirs qui instruisent, des amitiés qui élargissent la vue. Ce sextile agit quand vous dites oui."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Jupiter ♃" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }

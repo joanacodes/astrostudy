@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 159
 glyph: "♀☍♂"
-definition: "Venus opposite Mars means your chart has Venus and Mars about 180° apart, in opposite signs, the rarest of their aspects. In a chart it places liking and pursuing across the chart from each other: you tend to lean one way, then the other, until both ends feel like yours."
+definition: "Venus opposite Mars means your chart has Venus and Mars about 180° apart, in opposite signs, the rarest of their aspects. In a chart, liking and pursuing face each other from either side: you tend to lean one way, then the other, until both ends feel like yours."
 facts:
   - { k: "Bodies", v: "Venus ♀ and Mars ♂" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }

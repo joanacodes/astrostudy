@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 157
 glyph: "♀□♂"
-definition: "Vénus carré Mars signifie que Vénus et Mars se trouvaient à quelque 90° d’écart à votre naissance, en général dans deux signes du même mode. Dans un thème, votre goût et votre façon d’aller le chercher n’ont pas le même horaire : vous apprenez à les accorder. J’y vois une friction qui enseigne à demander juste, pas un conflit écrit."
+definition: "Vénus carré Mars signifie que Vénus et Mars se trouvaient à quelque 90° d’écart à votre naissance, en général dans deux signes du même mode. Dans un thème, votre goût et votre façon d’aller le chercher n’ont pas le même horaire : vous apprenez à les accorder. J’y vois un frottement qui apprend à demander juste, pas un conflit écrit."
 facts:
   - { k: "Corps", v: "Vénus ♀ et Mars ♂" }
   - { k: "Aspect", v: "Carré □, 90°" }
