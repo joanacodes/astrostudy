@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 117
 glyph: "♇♐"
-definition: "Pluton en Sagittaire emmène le changement profond sur la route des croyances, en feu mutable, dans le signe des longs voyages gouverné par Jupiter. Toutes les naissances de 1996 à 2007 ont ce placement, comme beaucoup de celles de 1995 et 2008 : environ 1 personne sur 6 née de 1930 à 2009. On y lit des croyances transformées : questionnées, puis rebâties."
+definition: "Pluton en Sagittaire emmène le changement profond sur la route des croyances, en feu mutable, dans le signe des voyages gouverné par Jupiter. Toutes les naissances de 1996 à 2007 ont ce placement, comme beaucoup de celles de 1995 et 2008 : environ 1 personne sur 6 née de 1930 à 2009. On y lit des croyances transformées : questionnées, puis rebâties."
 facts:
   - { k: "Corps", v: "Pluton ♇" }
   - { k: "Signe", v: "Sagittaire ♐, gouverné par Jupiter" }
@@ -45,7 +45,7 @@ En amour, Pluton en Sagittaire cherche quelqu’un avec qui faire la route. Les 
 
 ## Au travail {#au-travail}
 
-Les idées qui voyagent sont le terrain naturel de ce placement : l’enseignement, l’édition, la recherche, le droit, les voyages et le travail entre les frontières et les cultures. Ce placement peut changer la manière dont un domaine s’explique lui-même, en posant la grande question que d’autres ont cessé de poser. Il lui faut un travail qui a du sens ; un emploi sans but peut ressembler à une route qui ne mène nulle part. Avec une cause à laquelle croire, ce placement apporte à la fois la conviction et l’endurance.
+Les idées qui voyagent sont le terrain naturel de ce placement : l’enseignement, l’édition, la recherche, le droit, les voyages et le travail entre les frontières et les cultures. Ce placement peut changer la manière dont un domaine s’explique lui-même, en posant la grande question que d’autres ont cessé de poser. Ce placement a besoin d’un travail porteur de sens ; un emploi sans but peut ressembler à une route qui ne mène nulle part. Avec une cause à laquelle croire, ce placement apporte à la fois la conviction et l’endurance.
 
 ## Le plus difficile {#le-plus-difficile}
 

@@ -51,4 +51,4 @@ Power runs through every group, and that is where it gets hard for this Pluto. A
 
 ## What helps {#what-helps}
 
-A few friendships tended carefully, with honest conversations when something goes wrong. Groups where leadership rotates and disagreement is safe. Hopes broken down into steps you can take this year. Noticing which groups leave you stronger and which leave you smaller, and giving your time accordingly. Letting some friendships change shape rather than end. The good spirits of this house, for a Pluto here, are the people you trust, and that trust is worth building slowly.
+A few friendships tended carefully, with honest conversations when something goes wrong. Groups where leadership rotates and people can disagree without fear. Hopes broken down into steps you can take this year. Noticing which groups leave you stronger and which leave you smaller, and giving your time accordingly. Letting some friendships change shape rather than end. The good spirits of this house, for a Pluto here, are the people you trust, and that trust is worth building slowly.

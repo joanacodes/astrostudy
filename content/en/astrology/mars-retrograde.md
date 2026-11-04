@@ -47,7 +47,7 @@ In the dates I work from, it happens 19 times between 2000 and 2040, every 764 t
 
 ## How it works {#how-it-works}
 
-Mars’s orbit is more stretched than ours, and its loops show it. In the dates I use, the shortest, 60 to 65 days, fall in Aquarius, Pisces and Aries, in years when Mars comes closest to us, as in 2003 and 2018. The longest, about 80 days, fall in Leo, Virgo and Libra, as in 2027 and 2029. The arc changes too: from about 10° in the short loops to 19½° in the long ones.
+Mars’s orbit is more stretched than ours, and its loops show it. In the dates I use, the shortest, 60 to 65 days, fall in the signs from Capricorn to Aries, in years when Mars comes closest to us, as in 2003 and 2018. The longest, about 80 days, fall between Cancer and Libra, as in 2027 and 2029. The arc changes too: from about 10° in the short loops to 19½° in the long ones.
 
 Because it lasts so long, Mars retrograde is the one most likely to stay with one part of your chart for a whole season. Two months or more backing through the same house, and every degree of the loop crossed three times, keep Mars on the same stretch of your chart for months: astrologers count those passes either side as [the shadow period](/astrology/shadow-period/).
 

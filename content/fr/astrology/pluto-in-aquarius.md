@@ -39,7 +39,7 @@ L’entrée de Pluton en Verseau date de mars 2023, pour un séjour jusqu’en j
 
 Le Verseau a deux maîtres, et je lis les deux. L’astrologie tropicale moderne le donne à [Uranus](/astrology/uranus/), la planète de l’innovation et de la libération ; la tradition le donne à [Saturne](/astrology/saturn/), la planète de la structure. La découverte d’Uranus, en 1781, a eu lieu au milieu du séjour précédent de Pluton en Verseau, d’avril 1777 à décembre 1798. Dans un thème avec Pluton en Verseau, Uranus montre où le changement veut percer, et Saturne où il doit se bâtir pour durer. De dignité, aucune : la tradition n’a jamais connu Pluton, et l’astrologie tropicale moderne lui réserve le Scorpion.
 
-Le séjour actuel va de mars 2023 à janvier 2044. Jusqu’en novembre 2024, Pluton a fait des allers-retours avec [Pluton en Capricorne](/astrology/pluto-in-capricorn/), et à partir de mars 2043 en fera autant avec [Pluton en Poissons](/astrology/pluto-in-pisces/) : une naissance à l’un ou l’autre bord demande donc de vérifier le thème. Aucune personne née entre 1930 et 2009 n’a Pluton en Verseau. Quand les personnes nées avec ce placement seront adultes, c’est la maison qui le rendra le leur, et seule une [heure de naissance](/blog/unknown-birth-time/) permet de la situer. Pour les adultes, Pluton en Verseau est un transit : une météo qui traverse le ciel, pas un placement de leur thème, et jamais une prédiction.
+Le séjour actuel va de mars 2023 à janvier 2044. Jusqu’en novembre 2024, Pluton a fait des allers-retours avec [Pluton en Capricorne](/astrology/pluto-in-capricorn/), et à partir de mars 2043 en fera autant avec [Pluton en Poissons](/astrology/pluto-in-pisces/) : une naissance à l’un ou l’autre bord demande donc de vérifier le thème. Aucune personne née entre 1930 et 2009 n’a Pluton en Verseau. Quand les personnes nées avec ce placement seront adultes, c’est la maison qui le rendra le leur, et il faudra une [heure de naissance](/blog/unknown-birth-time/) pour la situer. Pour les adultes, Pluton en Verseau est un transit : une météo qui traverse le ciel, pas un placement de leur thème, et jamais une prédiction.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -47,7 +47,7 @@ Lu dans le thème d’une personne adulte, comme pour toute personne née entre 
 
 ## Au travail {#au-travail}
 
-Dans une vie professionnelle d’adulte, Pluton en Verseau se tourne vers les projets collectifs : les réseaux, la science, les réformes, les organisations bâties autour d’un but commun. Ce placement peut refaire le fonctionnement d’un groupe, pour que chaque membre ait vraiment voix au chapitre, et une autorité qui n’a pas mérité sa place met sa patience à l’épreuve. Son don, c’est de voir un système en entier ; son travail, de se souvenir des personnes qui y vivent.
+Dans une vie professionnelle d’adulte, Pluton en Verseau se tourne vers les projets collectifs : les réseaux, la science, les réformes, les organisations bâties autour d’un but commun. Ce placement peut refaire le fonctionnement d’un groupe, pour que chaque membre ait vraiment voix au chapitre, et une autorité qui n’a pas mérité sa place met sa patience à l’épreuve. Son don, c’est de voir un système en entier ; son travail, de ne pas oublier les gens qui le composent.
 
 ## Le plus difficile {#le-plus-difficile}
 

@@ -40,7 +40,7 @@ En Placidus, le système de maisons que j’utilise, la maison 5 se trouve sous 
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-Avec Pluton en maison 5, une romance est rarement légère. L’attirance peut être magnétique, et un coup de foudre peut donner l’impression d’une refonte complète de soi, ce qui rend les débuts d’un amour à la fois grisants et déstabilisants. La jalousie et la possessivité peuvent surgir quand l’enjeu semble grand, et les rencontres peuvent devenir une épreuve de valeur plutôt qu’un plaisir. Ce qui aide, c’est de laisser la romance être joueuse de temps en temps : une cour qui ressemble à un jeu que vous aimez à deux, plutôt qu’à un examen. Au fil des années, ce placement apprend souvent à aimer avec profondeur et légèreté à la fois.
+Une romance est rarement légère pour Pluton en maison 5. L’attirance peut être magnétique, et un coup de foudre peut donner l’impression d’une refonte complète de soi, ce qui rend les débuts d’un amour à la fois grisants et déstabilisants. La jalousie et la possessivité peuvent surgir quand l’enjeu semble grand, et les rencontres peuvent devenir une épreuve de valeur plutôt qu’un plaisir. Ce qui aide, c’est de laisser la romance être joueuse de temps en temps : une cour qui ressemble à un jeu que vous aimez à deux, plutôt qu’à un examen. Au fil des années, ce placement apprend souvent à aimer avec profondeur et légèreté à la fois.
 
 ## Au travail {#au-travail}
 

@@ -33,7 +33,7 @@ Le Nœud Nord en maison 8 demande la confiance, et le genre de proximité qui tr
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La maison 8 est succédente, et son signe naturel est le Scorpion. Elle couvre ce qui s’approfondit entre les personnes une fois proches : la confiance, l’intimité, l’argent commun, les dettes et les dons, les émotions qu’on préfère ne pas montrer. Le [Nœud Sud](/astrology/south-node/) se tient en face, en [maison 2](/astrology/2nd-house/) : vos propres ressources, votre confort, vos valeurs, tenus fermement et selon vos conditions. Cette autonomie est réelle, et elle vous a sans doute bien servi. Le bout maison 8 vous demande d’en faire le plancher plutôt que le plafond, et de partager.
+La maison 8 est succédente, et son signe naturel est le Scorpion. Elle couvre ce qui s’approfondit entre les personnes une fois proches : la confiance, l’intimité, l’argent commun, les dettes et les dons, les émotions qu’on préfère ne pas montrer. Le [Nœud Sud](/astrology/south-node/) se tient en face, en [maison 2](/astrology/2nd-house/) : vos propres ressources, votre confort, vos valeurs, tenus fermement et selon vos conditions. Cette autonomie est réelle, et elle vous a sans doute bien servi. Le bout maison 8 vous demande d’en faire le plancher plutôt que le plafond, et de partager. Les astrologues lisent aussi la maison 8 comme celle des changements profonds, ceux qui viennent par la proximité : on ne sort pas d’une vraie intimité tout à fait la même personne, et cela fait partie de ce que ce nœud vous demande.
 
 Les vieux livres donnaient à la maison 8 la mort et l’héritage. Je ne cherche la mort dans le thème de personne ([L’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)), et aucun thème ne peut vous dire ce dont vous hériterez. Je lis cette maison dans la vie qu’on partage avec les vivants.
 
@@ -47,7 +47,7 @@ Cela ne veut pas dire se fondre en une seule personne. Cela veut dire confier à
 
 ## Au travail {#au-travail}
 
-Au travail, vous préférez peut-être compter sur vos propres compétences et votre propre revenu. Le Nœud Nord désigne un travail qui touche aux ressources ou à la vie privée des autres : la finance, la recherche, l’accompagnement psychologique, les situations de crise, les associations, tout rôle où l’on vous confie ce qui compte. Les partenariats où risques et bénéfices se partagent appartiennent aussi à cette maison.
+Au travail, vous préférez peut-être compter sur vos propres compétences et votre propre revenu. Le Nœud Nord désigne un travail qui touche aux ressources ou à la vie privée des autres : la finance, la recherche, l’accompagnement psychologique, les situations de crise, les associations, tout rôle où l’on vous confie ce qui compte. Les partenariats où risques et bénéfices se partagent appartiennent aussi à cette maison. Quand on vous confie ce qui appartient aux autres, il faut aussi en répondre : apprendre à vérifier, à rendre compte et à partager la responsabilité fait partie de l’exercice.
 
 ## Le plus difficile {#le-plus-difficile}
 

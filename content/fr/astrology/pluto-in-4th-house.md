@@ -44,7 +44,7 @@ Pluton en maison 4 cherche un foyer chez l’autre : une personne avec qui il e
 
 ## Au travail {#au-travail}
 
-Au travail, Pluton en maison 4 a souvent besoin d’une base privée : une pièce à soi, un travail fait depuis la maison, un métier exercé derrière une porte fermée. Les métiers qui touchent aux fondations et aux racines attirent ce placement : l’immobilier, le bâtiment, la rénovation, l’histoire, les recherches familiales, le soin des personnes chez elles. Ce placement peut transformer la culture d’un lieu de travail de l’intérieur, discrètement, en changeant ce que les gens tiennent pour acquis. La visibilité publique, l’affaire de la maison 10 en face, compte moins que de savoir le sol solide.
+Ce placement a souvent besoin, au travail, d’une base privée : une pièce à soi, un travail fait depuis la maison, un métier exercé derrière une porte fermée. Les métiers qui touchent aux fondations et aux racines attirent ce placement : l’immobilier, le bâtiment, la rénovation, l’histoire, les recherches familiales, le soin des personnes chez elles. Ce placement peut transformer la culture d’un lieu de travail de l’intérieur, discrètement, en changeant ce que les gens tiennent pour acquis. La visibilité publique, l’affaire de la maison 10 en face, compte moins que de savoir le sol solide.
 
 ## Le plus difficile {#le-plus-difficile}
 

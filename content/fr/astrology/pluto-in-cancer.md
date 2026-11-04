@@ -41,7 +41,7 @@ Le séjour entier a duré de septembre 1912 à juin 1939, et Pluton ne revient e
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-Avec Pluton en Cancer, la loyauté familiale va très loin. L’amour se montre en prenant soin des gens : les nourrir, laisser une porte ouverte, se souvenir de ce dont ils ont besoin avant qu’ils le demandent. Les liens sont protecteurs et durables, et les personnes qui comptent sont gardées près de soi toute la vie. Le point sensible, c’est que garder près de soi peut basculer en retenir : s’inquiéter si fort pour quelqu’un que cela l’enferme, ou préserver la paix d’une famille en taisant ses histoires. Les relations qui s’épanouissent ici sont celles où le soin peut être rendu, et pas seulement donné.
+La loyauté familiale va très loin chez Pluton en Cancer. L’amour se montre en prenant soin des gens : les nourrir, laisser une porte ouverte, se souvenir de ce dont ils ont besoin avant qu’ils le demandent. Les liens sont protecteurs et durables, et les personnes qui comptent sont gardées près de soi toute la vie. Le point sensible, c’est que garder près de soi peut basculer en retenir : s’inquiéter si fort pour quelqu’un que cela l’enferme, ou préserver la paix d’une famille en taisant ses histoires. Les relations qui s’épanouissent ici sont celles où le soin peut être rendu, et pas seulement donné.
 
 ## Au travail {#au-travail}
 

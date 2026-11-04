@@ -44,7 +44,7 @@ Dans les relations, Pluton en maison 6 vit l’amour dans l’ordinaire : le ry
 
 ## Au travail {#au-travail}
 
-C’est au travail que ce placement se concentre. Vous finissez souvent par savoir comment un lieu fonctionne vraiment, sous l’organigramme officiel, puis par le changer de l’intérieur. Les relations avec les collègues et la hiérarchie pèsent réellement, pour le meilleur et pour le pire, et le pouvoir au travail, qui décide et qui sert, compte pour vous. Les métiers qui restaurent ou qui servent vous attirent souvent, quel que soit le domaine, et travailler à votre compte peut vous convenir, parce que vos routines se bâtissent alors depuis la base. Le risque, c’est de donner à un emploi plus de vous-même qu’aucun emploi n’en mérite.
+C’est au travail que ce placement se concentre. Vous finissez souvent par savoir comment un lieu fonctionne vraiment, sous l’organigramme officiel, puis par le changer de l’intérieur. Les relations avec les collègues et la hiérarchie pèsent réellement, en bien comme en mal, et le pouvoir au travail, qui décide et qui sert, compte pour vous. Les métiers qui restaurent ou qui servent vous attirent souvent, quel que soit le domaine, et travailler à votre compte peut vous convenir, parce que vos routines se bâtissent alors depuis la base. Le risque, c’est de donner à un emploi plus de vous-même qu’aucun emploi n’en mérite.
 
 ## Le plus difficile {#le-plus-difficile}
 

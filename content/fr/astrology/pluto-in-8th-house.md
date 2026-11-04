@@ -44,7 +44,7 @@ C’est dans l’intimité que ce placement vit le plus pleinement. Être proche
 
 ## Au travail {#au-travail}
 
-Au travail, Pluton en maison 8 se tourne vers ce qui se trouve dessous : la recherche, la psychologie, l’enquête, le soutien en cas de crise, la restructuration, la gestion discrète de l’argent ou des affaires des autres. Vous pouvez être la personne à qui l’on confie ses secrets et ses urgences. Vous voyez comment le pouvoir et l’argent circulent vraiment dans une organisation. Et vous gardez votre calme quand tout va mal, ce qui vous permet d’aider les autres à traverser une crise, pour qu’elle les change sans les briser.
+Côté travail, Pluton en maison 8 se tourne vers ce qui se trouve dessous : la recherche, la psychologie, l’enquête, le soutien en cas de crise, la restructuration, la gestion discrète de l’argent ou des affaires des autres. Vous pouvez être la personne à qui l’on confie ses secrets et ses urgences. Vous voyez comment le pouvoir et l’argent circulent vraiment dans une organisation. Et vous gardez votre calme quand tout va mal, ce qui vous permet d’aider les autres à traverser une crise, pour qu’elle les change sans les briser.
 
 ## Le plus difficile {#le-plus-difficile}
 

@@ -32,7 +32,7 @@ The North Node in the 8th house asks for trust, and for the kind of closeness th
 
 ## In a birth chart {#in-a-birth-chart}
 
-The 8th is a succedent house with Scorpio as its natural sign. It covers what deepens between people once they're close: trust, intimacy, joint money, debts and gifts, the feelings you'd rather not show. The [South Node](/astrology/south-node/) lies opposite, in [the 2nd house](/astrology/2nd-house/): your own resources, your own comforts, your own values, held steadily and on your own terms. That self-sufficiency is real, and it has probably served you well. The 8th-house end asks you to treat it as the floor rather than the ceiling, and to share.
+The 8th is a succedent house with Scorpio as its natural sign. It covers what deepens between people once they're close: trust, intimacy, joint money, debts and gifts, the feelings you'd rather not show. The [South Node](/astrology/south-node/) lies opposite, in [the 2nd house](/astrology/2nd-house/): your own resources, your own comforts, your own values, held steadily and on your own terms. That self-sufficiency is real, and it has probably served you well. The 8th-house end asks you to treat it as the floor rather than the ceiling, and to share. Astrologers also read the 8th as the house of deep change, the kind that comes through closeness: you come out of real intimacy a little different, and that is part of what this node asks of you.
 
 The old books gave the 8th death and inheritance. I never look for death in anyone's chart ([can astrology predict death?](/astrology/can-astrology-predict-death/)), and no chart can tell you what you'll inherit. I read this house in the life you share with the living.
 
@@ -46,7 +46,7 @@ It doesn't mean merging into one person. It means trusting someone with somethin
 
 ## At work {#at-work}
 
-At work, you may prefer to depend on your own skills and your own income. The North Node points to work that involves other people's resources or private lives: finance, research, counselling, crisis work, joint ventures, any role where people trust you with what matters to them. Partnerships in which risk and reward are shared belong here too.
+At work, you may prefer to depend on your own skills and your own income. The North Node points to work that involves other people's resources or private lives: finance, research, counselling, crisis work, joint ventures, any role where people trust you with what matters to them. Partnerships in which risk and reward are shared belong here too. Being trusted with what belongs to others also means answering for it, and learning to check, report and share responsibility is part of the practice.
 
 ## The hard part {#the-hard-part}
 

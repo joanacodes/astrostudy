@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 120
 glyph: "♇"
-definition: "Pluton en maison 12 travaille à l’abri des regards : le changement profond dans la maison de la solitude, de la vie intérieure et de ce qui est caché. On y lit une transformation en privé, et une force gardée en réserve. La tradition y mettait l’enfermement, que je ne prédis jamais. Cette maison s’arrête à l’ascendant : il faut l’heure de naissance."
+definition: "Pluton en maison 12 travaille à l’abri des regards : le changement profond dans la maison de la solitude, de la vie intérieure et de ce qui est caché. On y lit une transformation intime, et une force gardée en réserve. La tradition y mettait l’enfermement, que je ne prédis jamais. Cette maison s’arrête à l’ascendant : il faut l’heure de naissance."
 facts:
   - { k: "Corps", v: "Pluton ♇" }
   - { k: "Maison", v: "Maison 12 : la solitude, la vie intérieure, ce qui est caché" }
@@ -40,7 +40,7 @@ En Placidus, le système de maisons que j’utilise, la maison 12 s’arrête à
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-Dans les relations, Pluton en maison 12 garde une part de soi à l’écart, parfois même des personnes les plus proches. L’amour s’offre de façon profonde et silencieuse, et vous êtes peut-être la personne capable de rester auprès du chagrin de l’autre sans chercher à le réparer. Le point sensible, c’est ce qui reste non dit : des émotions retenues si longtemps que l’autre ne peut pas les connaître, ou une attirance pour un amour vécu en secret. Les relations s’épanouissent ici quand il y a de la place pour la solitude, et quand le moi intime se partage peu à peu, par choix.
+Même avec les personnes les plus proches, Pluton en maison 12 garde une part de soi à l’écart. L’amour s’offre de façon profonde et silencieuse, et vous êtes peut-être la personne capable de rester auprès du chagrin de l’autre sans chercher à le réparer. Le point sensible, c’est ce qui reste non dit : des émotions retenues si longtemps que l’autre ne peut pas les connaître, ou une attirance pour un amour vécu en secret. Les relations s’épanouissent ici quand il y a de la place pour la solitude, et quand le moi intime se partage peu à peu, par choix.
 
 ## Au travail {#au-travail}
 

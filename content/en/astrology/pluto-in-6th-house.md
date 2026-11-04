@@ -43,7 +43,7 @@ In relationships, a 6th-house Pluto lives love in the ordinary: the rhythm of a 
 
 ## At work {#at-work}
 
-Work is where this Pluto concentrates. You tend to learn how a place really runs, beneath the official chart of who does what, and then to change it from within. Relationships with colleagues and managers carry real weight, for better and for worse, and power at work, who decides and who serves, matters to you. You are often drawn to work that restores or serves, in whatever field, and working for yourself can suit you, because it lets you build your routines from the ground up. The risk is giving a job more of yourself than any job deserves.
+Work is where this Pluto concentrates. You tend to learn how a place really runs, beneath the official chart of who does what, and then to change it from within. Relationships with colleagues and managers carry real weight, for good and ill, and power at work, who decides and who serves, matters to you. You are often drawn to work that restores or serves, in whatever field, and working for yourself can suit you, because it lets you build your routines from the ground up. The risk is giving a job more of yourself than any job deserves.
 
 ## The hard part {#the-hard-part}
 

@@ -36,7 +36,7 @@ La [maison 9](/astrology/9th-house/) est la maison du sens : la foi et la philo
 
 En face se trouve la maison 3, celle de la pensée de tous les jours, et l’axe fonctionne ici dans un sens : Pluton en maison 9 transforme d’abord la vue d’ensemble, et l’esprit du quotidien suit. [Pluton en maison 3](/astrology/pluto-in-3rd-house/) fait l’inverse.
 
-Toutes les personnes nées les mêmes années partagent le signe de Pluton ; cette maison vous appartient, et elle demande une [heure de naissance](/blog/unknown-birth-time/). En Placidus, le système de maisons que j’utilise, la maison 9 s’arrête au Milieu du Ciel : Pluton près du sommet du thème peut donc tomber en maison 9 ou en maison 10 à quelques minutes près. [Pluton en maison 8](/astrology/pluto-in-8th-house/) va au fond de ce que deux personnes partagent, et [Pluton en maison 10](/astrology/pluto-in-10th-house/) au fond du rôle public.
+Le signe de Pluton se partage avec toute une génération ; cette maison vous appartient, et elle demande une [heure de naissance](/blog/unknown-birth-time/). En Placidus, le système de maisons que j’utilise, la maison 9 s’arrête au Milieu du Ciel : Pluton près du sommet du thème peut donc tomber en maison 9 ou en maison 10 à quelques minutes près. [Pluton en maison 8](/astrology/pluto-in-8th-house/) va au fond de ce que deux personnes partagent, et [Pluton en maison 10](/astrology/pluto-in-10th-house/) au fond du rôle public.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -48,7 +48,7 @@ L’université, l’édition, le droit, la recherche, le travail international,
 
 ## Le plus difficile {#le-plus-difficile}
 
-Le plus difficile, c’est l’emprise que peut prendre une croyance. Avec Pluton en maison 9, on peut continuer à défendre une vision du monde que l’on a dépassée en secret. On peut donner trop de pouvoir à des maîtres ou à des mentors, puis les lâcher entièrement quand ils déçoivent. L’étude peut devenir une façon de rester dans sa tête au lieu de vivre ce que l’on a appris. Et une crise de foi, religieuse ou non, peut donner l’impression de perdre le sol sous ses pieds, même quand elle ouvre une vue plus large.
+Le plus difficile, c’est l’emprise que peut prendre une croyance. Avec Pluton en maison 9, on peut continuer à défendre une vision du monde que l’on a dépassée en secret. Des maîtres ou des mentors peuvent recevoir trop de pouvoir, puis être lâchés entièrement quand ils déçoivent. L’étude peut devenir une façon de rester dans sa tête au lieu de vivre ce que l’on a appris. Et une crise de foi, religieuse ou non, peut donner l’impression de perdre le sol sous ses pieds, même quand elle ouvre une vue plus large.
 
 ## Ce qui aide {#ce-qui-aide}
 
