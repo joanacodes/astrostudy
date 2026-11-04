@@ -51,7 +51,7 @@ Jusqu’où va cette première esquisse ? L’ascendant fait partie des placem
 
 [Saturne](/astrology/saturn/) gouverne le Capricorne, et c’est à Saturne que revient le rôle de [maître du thème](/astrology/chart-ruler/) : la structure, la responsabilité et le temps tiennent tout le thème ensemble. Le signe de Saturne décrit votre façon de construire ; la maison qu’occupe Saturne, le domaine de vie où l’on vous demande de la patience et où, avec le temps, vous devenez la personne qui sait. Saturne reste environ deux ans et demi dans un signe : ce signe est partagé avec les personnes nées à deux ou trois ans près, et c’est la maison qui rend le placement personnel. Le premier [retour de Saturne](/astrology/saturn-return/), entre 27 et 30 ans environ, devient ainsi une révision de la direction de tout le thème, pas seulement du coin qui revient à Saturne.
 
-Saturne fait aussi partie des trois placements qui ont tenu 75 à 90 % du temps dans mes notes ([Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/)). Avec un ascendant Capricorne, je m’appuie donc davantage sur le maître que sur l’ascendant.
+Saturne fait aussi partie des trois placements qui ont tenu 75 à 90 % du temps dans mes notes ([Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/)). Quand une lecture repose sur un placement qui a tenu moins souvent, comme l’ascendant, je le dis.
 
 En Balance, son exaltation, Saturne construit par des accords justes ; en Bélier, sa chute, la patience s’apprend en marchant. En Cancer, le signe de votre descendant, Saturne est en exil, et le travail du maître du thème devient une structure pour les émotions : les limites qui rendent la proximité sûre.
 

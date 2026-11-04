@@ -50,7 +50,7 @@ How far does this first sketch go? The rising sign is among the placements every
 
 [Saturn](/astrology/saturn/) rules Capricorn, and with this rising sign it's Saturn that serves as your [chart ruler](/astrology/chart-ruler/): structure, responsibility and time hold the whole chart together. Saturn's sign describes the way you build; the house it occupies is where you're asked for patience and where, given time, you become the one who knows. Saturn stays about two and a half years in a sign, so its sign is shared with people born within a couple of years of you, and its house makes it yours. That makes the first [Saturn return](/astrology/saturn-return/), somewhere between about 27 and 30, a review of the whole chart's direction, not only of Saturn's corner of it.
 
-Saturn is also one of the three placements that held 75 to 90% of the time in my notes ([Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)). So with Capricorn rising, I lean on the ruler more than on the Ascendant.
+Saturn is also one of the three placements that held 75 to 90% of the time in my notes ([Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)). When a reading rests on a placement that held less often, as the rising sign did, I say so.
 
 In Libra, its exaltation, Saturn builds through fair agreements; in Aries, its fall, patience is learned on the move. In Cancer, the sign on your Descendant, Saturn is in detriment, and the chart ruler's work becomes emotional structure: the boundaries that make closeness safe.
 
