@@ -41,7 +41,7 @@ This is the quietest of the pair's aspects, and that's its strength: change at a
 
 ## In a birth chart {#in-a-birth-chart}
 
-The sextile shows up for about 1 person in 14 born between 1930 and 2009, within 6°, in four spells of a year or two each: 1934–36, 1947–49, 1978–81 and 1995–97, each with gaps as the retrogrades moved the pair in and out of orb. They fall several years either side of the two conjunctions, of 1942 and 1988. Shared by everyone born then, the sextile reads as a generation's resource more than a personal trait, until the houses place it.
+The sextile shows up for about 1 person in 14 in the births of 1930 to 2009, within 6°, in four spells of a year or two each: 1934–36, 1947–49, 1978–81 and 1995–97, each with gaps as the retrogrades moved the pair in and out of orb. They fall several years either side of the two conjunctions, of 1942 and 1988. Shared by everyone born then, the sextile reads as a generation's resource more than a personal trait, until the houses place it.
 
 A sextile usually pairs compatible elements, so structure and change speak languages that understand each other. In the houses, Saturn in the 1st sextile Uranus in the 11th might make you a steady presence in groups that want to change things; Saturn in the 5th sextile Uranus in the 7th, committed creativity in partnerships that stay alive. For the houses, I need the birth time ([what changes without a birth time](/blog/unknown-birth-time/)). Saturn, the faster of the two, is the one that makes and unmakes the angle.
 

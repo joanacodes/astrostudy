@@ -41,7 +41,7 @@ I read both of Aquarius's rulers, and this conjunction shows why they belong tog
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 1 person in 27 of the 1930–2009 births has the conjunction within 6°, and every one of them was born in one of two windows: June 1941 to March 1943, with a pause in the second half of 1942, and February 1987 to September 1989, on and off. Born in either window, you share the aspect with your generation, so its sign says little about you; the house it falls in, and its links to your personal planets, say much more.
+About 1 person in 27 of the 1930–2009 births has the conjunction within 6°, and they come from just two windows of births: June 1941 to March 1943, with a pause in the second half of 1942, and February 1987 to September 1989, on and off. Born in either window, you share the aspect with your generation, so its sign says little about you; the house it falls in, and its links to your personal planets, say much more.
 
 In the 2nd house, the conjunction may show as security built by unconventional means; in the 3rd, as a way of thinking that respects method and still questions it; in the 10th, as responsibility put to work modernising the structure you belong to. Without a birth time the houses stay unknown ([what changes without a birth time](/blog/unknown-birth-time/)), and for a generation's aspect I then have little personal to say. Saturn, at about 2½ years a sign against Uranus's 7, is the one that catches up.
 

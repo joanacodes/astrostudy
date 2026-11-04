@@ -38,7 +38,7 @@ Tradition calls Aquarius the Sun's [detriment](/astrology/detriment/), because i
 
 Aquarius has two rulers, and I read both. [Saturn](/astrology/saturn/), its ruler in the tradition, shows by sign and house where this Sun builds the frameworks it believes in. [Uranus](/astrology/uranus/), its ruler in modern tropical astrology, shows by house where it insists on doing things differently.
 
-The [Sun in Capricorn](/astrology/sun-in-capricorn/) hands over around 20 January, and the [Sun in Pisces](/astrology/sun-in-pisces/) takes over around 19 February; the Aquarius Sun holds the 29 or 30 days between, when the northern days are lengthening but winter hasn't let go. About 1 person in 12 has it, and near either end your [birth time](/blog/unknown-birth-time/) decides.
+The [Sun in Capricorn](/astrology/sun-in-capricorn/) hands over around 20 January, and the [Sun in Pisces](/astrology/sun-in-pisces/) takes over around 19 February; the Aquarius Sun holds the 29 or 30 days between, when the northern days are lengthening but winter hasn't let go. About 1 person in 12 has it, and a birth near either end needs the [birth time](/blog/unknown-birth-time/) to be placed.
 
 ## In close relationships {#in-close-relationships}
 

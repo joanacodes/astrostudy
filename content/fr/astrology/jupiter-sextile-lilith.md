@@ -34,7 +34,7 @@ Jupiter sextile Lilith est une porte de côté. La part de vous que vous avez ap
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Jupiter](/astrology/jupiter/) élargit : apprendre, voyager en pensée ou pour de vrai, rassembler ce qu’on trouve en un sens plus vaste. La [Lune noire Lilith](/astrology/black-moon-lilith/), apogée de l’orbite lunaire, représente dans un thème ce que vous avez appris à retenir : l’instinct, l’autonomie, le refus d’être commode, et la ligne où passent vraiment vos limites. D’une tradition à l’autre, Lilith se lit très différemment, et je la tiens pour un symbole. Le [sextile](/astrology/sextile/) unit les deux par l’occasion : un lien coopératif, qui fonctionne dès que vous vous engagez.
+[Jupiter](/astrology/jupiter/) élargit : apprendre, voyager en pensée ou pour de vrai, rassembler ce qu’on trouve en un sens plus vaste. La [Lune noire Lilith](/astrology/black-moon-lilith/), apogée de l’orbite lunaire, représente dans un thème ce que vous avez appris à retenir : l’instinct, l’autonomie, le refus d’être commode, et la ligne où passent vraiment vos limites. D’une tradition à l’autre, Lilith se lit très différemment, et je la tiens pour un symbole. Le [sextile](/astrology/sextile/) unit les deux par l’occasion : un lien coopératif, qui fonctionne dès que vous vous engagez.
 
 Concrètement, la croissance donne à la part cachée un endroit où aller. Un cours où vous pouvez dire ce que vous pensez vraiment, un voyage où personne ne connaît votre ancien rôle, un groupe qui a une idée plus large de ce qui est acceptable : voilà le genre d’ouvertures que ce sextile met en vue. Il ne pousse pas. Vous pouvez laisser sortir la part indomptée peu à peu, à vos conditions, et voir ce qu’elle fait à vos croyances.
 

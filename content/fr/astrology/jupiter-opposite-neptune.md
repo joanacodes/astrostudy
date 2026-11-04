@@ -42,7 +42,7 @@ Ici, la tension dépend du contexte, pas de la nature de l’aspect. Quand les d
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-À 6° près, environ 1 personne sur 32 des générations 1930–2009 porte cette opposition, deux fois moins que le trigone, parce que Jupiter n’atteint le point opposé à Neptune qu’une fois par passage. Les fenêtres ont été 1939–1940, 1951–1952, 1964–1965, 1977, 1989–1990 et 2002–2003, quelques mois chaque fois, parfois coupés en deux par la rétrogradation de Jupiter. Toutes les personnes nées pendant ces mois la partagent : seule, elle décrit une classe d’âge.
+Environ 1 personne sur 32 des générations 1930–2009 porte cette opposition, comptée à 6° près, deux fois moins que le trigone, parce que Jupiter n’atteint le point opposé à Neptune qu’une fois par passage. Les fenêtres ont été 1939–1940, 1951–1952, 1964–1965, 1977, 1989–1990 et 2002–2003, quelques mois chaque fois, parfois coupés en deux par la rétrogradation de Jupiter. Toutes les personnes nées pendant ces mois la partagent : seule, elle décrit une classe d’âge.
 
 Ce qui est personnel, c’est l’axe qu’elle parcourt. Les deux signes d’une opposition sont en général du même mode, le feu en face de l’air, la terre en face de l’eau : les deux bouts parlent des langues complémentaires. Elle traverse aussi deux maisons opposées. Jupiter en maison 10 et Neptune en maison 4 peuvent opposer une philosophie publique à une vie de foyer intime et poreuse ; Jupiter en maison 3 et Neptune en maison 9, l’apprentissage quotidien au désir d’un sens lointain. Le couple de maisons que traverse l’axe dépend de votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
@@ -61,4 +61,4 @@ Entre deux thèmes, avec [Jupiter opposition Neptune en synastrie](/astrology/ju
 
 [Neptune en transit opposition Jupiter du thème natal](/astrology/transiting-neptune-opposite-natal-jupiter/) se présente autrement si cette opposition est dans votre thème. Le point opposé à votre Jupiter est tout près de l’endroit où se trouvait Neptune à votre naissance : ce transit était déjà là à votre arrivée. Neptune quitte ce point dans vos premières années et ne le retrouvera pas avant quelque 165 ans. Pour les autres personnes, ce transit vient à un âge fixé par l’année de naissance et Neptune, qui met quelque 14 ans à traverser un signe, garde l’opposition proche de l’exactitude un an ou deux.
 
-Ces transits, je les lis comme une météo et non comme une prédiction : un moment où ce que vous tenez pour vrai et ce dont vous rêvez demandent à être pesés à nouveau. La pesée vous appartient.
+Ces transits, je les tiens pour une météo plutôt que pour une prédiction : un moment où ce que vous tenez pour vrai et ce dont vous rêvez demandent à être pesés à nouveau. La pesée vous appartient.

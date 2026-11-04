@@ -34,7 +34,7 @@ Jupiter carré Lilith place les croyances qu’on vous a transmises à angle dro
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Jupiter](/astrology/jupiter/) porte vos croyances et vos principes, le cadre qui vous dit ce qui compte et comment grandir. La [Lune noire Lilith](/astrology/black-moon-lilith/) marque, comme symbole, ce qui en vous ne s’est pas laissé domestiquer : l’instinct, l’autonomie, ce que vous avez mis hors de vue parce que cela ne cadrait pas, et votre sens de vos propres limites. Chaque école interprète Lilith à sa façon ; je la lis sans jugement moral. Un [carré](/astrology/square/) relie les deux par une friction constructive : l’un des deux pôles accroche l’autre, et aucun ne tranche seul.
+[Jupiter](/astrology/jupiter/) porte vos croyances et vos principes, le cadre qui vous dit ce qui compte et comment grandir. La [Lune noire Lilith](/astrology/black-moon-lilith/) marque, comme symbole, ce qui en vous ne s’est pas laissé domestiquer : l’instinct, l’autonomie, ce que vous avez mis hors de vue parce que cela ne cadrait pas, et votre sens de vos propres limites. Chaque école interprète Lilith à sa façon ; je la lis sans jugement moral. Un [carré](/astrology/square/) relie les deux par une friction constructive : l’un des deux pôles accroche l’autre, et aucun ne tranche seul.
 
 Concrètement, être quelqu’un de bien et être vrai ne vont pas toujours ensemble. Vous avez peut-être absorbé une philosophie généreuse et honnête qui vous demande pourtant de baisser le ton, d’arrondir les angles ou d’être plus commode que vous ne l’êtes ; ou bien vous portez un instinct si fort que chaque croyance empruntée vous paraît trop étroite. Le carré vous fait remarquer l’écart. Frotter n’est pas échouer : c’est la pression qui transforme des règles héritées en convictions vraiment examinées.
 
@@ -44,7 +44,7 @@ Au fil des années, ce carré donne souvent une conscience qui vous appartient v
 
 Le décompte trouve Jupiter carré Lilith moyenne, à 6° près, chez environ 1 personne sur 13, l’un des contacts Jupiter–Lilith les plus courants. Avec la Lilith vraie, qui s’éloigne bien davantage, le carré peut tout simplement disparaître ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)).
 
-Les carrés relient des signes du même mode, si bien que la friction a un style : en signes cardinaux, elle se règle dans l’action ; en signes fixes, les positions se figent ; en signes mutables, on débat et on bouge. Les maisons montrent où elle se joue. Jupiter en maison 4 carré Lilith en maison 1 peut mettre les croyances familiales en friction avec la façon dont vous tenez à aborder le monde ; Jupiter en maison 10 carré Lilith en maison 7, des principes affichés avec ce sur quoi vous ne transigez pas dans un couple. Les maisons viennent de l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Les carrés relient des signes du même mode, si bien que la friction a un style : en signes cardinaux, elle se règle dans l’action ; en signes fixes, les positions se figent ; en signes mutables, on débat et on bouge. Les maisons montrent où elle se joue. Jupiter en maison 4 carré Lilith en maison 7 peut mettre les croyances familiales en friction avec ce que vous refusez de céder dans un couple ; Jupiter en maison 1 carré Lilith en maison 10, une vision généreuse de la vie avec un rôle public qui refuse d’être domestiqué. Les maisons viennent de l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Les autres angles entre Jupiter et Lilith :
 

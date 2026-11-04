@@ -34,13 +34,13 @@ Give a Virgo Moon something to sort and you can watch a bad day settle. Folding 
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Virgo](/astrology/virgo/) is mutable earth, the sign of method and of making things work, and it gives the [Moon](/astrology/moon/)'s work, digesting what happens, attaching, finding safety, a practical and precise manner. You feel steadier when things are in order and you have something useful to do. Care, for you, is concrete: the meal in the freezer for someone who's unwell, the form filled in, the detail nobody else noticed. A feeling becomes manageable once it has a place, the way a drawer becomes calm once it's sorted.
+[Virgo](/astrology/virgo/), mutable earth, is the sign of method and of making things work. With the [Moon](/astrology/moon/) here, digesting what happens, attaching and finding safety all take a practical, precise turn. Order outside is how you find order inside, and being of use is how you feel safe. Care, for you, is concrete: the meal in the freezer for someone who's unwell, the form filled in, the detail nobody else noticed. A feeling becomes manageable once it has a place, the way a drawer becomes calm once it's sorted.
 
 None of the four dignities applies here: Virgo is not the Moon's domicile, exaltation, detriment or fall. Mutable signs adjust, and in Virgo adjusting means improving. You respond to a change by working out what it needs and doing it, which is responsiveness in its most hands-on form.
 
 [Mercury](/astrology/mercury/) rules Virgo, so it is the next thing I read. Its sign and house show how this Moon sorts what it feels: by analysing, by listing, by talking it through with one trusted person. Analysis isn't overthinking, and when Mercury has good work to do, that analysis is exactly how a Virgo Moon comes to understand itself.
 
-Roughly 1 person in 12 has this Moon. It lasts about two and a half days each time round, after the [Moon in Leo](/astrology/moon-in-leo/), which needs to be seen, and before the [Moon in Libra](/astrology/moon-in-libra/), which needs harmony. For a birth on a changeover day, the time of birth tells you which of the two is yours ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)).
+Roughly 1 person in 12 has this Moon: each visit to Virgo lasts two and a half days, give or take. It follows the [Moon in Leo](/astrology/moon-in-leo/), whose need is to be seen, and comes before the [Moon in Libra](/astrology/moon-in-libra/), whose need is harmony. For a birth on a changeover day, the time of birth settles which of the two it is ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)).
 
 ## In close relationships {#in-close-relationships}
 

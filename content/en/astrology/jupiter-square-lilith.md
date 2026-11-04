@@ -43,7 +43,7 @@ Lived over years, this square often gives a conscience that is genuinely yours: 
 
 The count finds Jupiter square mean Lilith, within 6°, in about 1 person in 13, one of the commoner Jupiter–Lilith contacts. With true Lilith, which wanders much further, the square may simply not be there ([Which Lilith is mine?](/astrology/which-lilith-is-mine/)).
 
-Squares join signs of the same modality, so the friction has a style: in cardinal signs it gets argued out in action, in fixed signs positions harden, in mutable signs it's debated and shifts. The houses show where it plays out. Jupiter in the 4th square Lilith in the 1st might set family beliefs against the way you insist on meeting the world; Jupiter in the 10th square Lilith in the 7th, a public set of principles against what you won't compromise on with a partner. The houses come from the birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+Squares join signs of the same modality, so the friction has a style: in cardinal signs it gets argued out in action, in fixed signs positions harden, in mutable signs it's debated and shifts. The houses show where it plays out. Jupiter in the 4th square Lilith in the 7th might set family beliefs against what you refuse to give up in a partnership; Jupiter in the 1st square Lilith in the 10th, a generous personal outlook against a public role that refuses to be domesticated. The houses come from the birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 The other angles between Jupiter and Lilith:
 

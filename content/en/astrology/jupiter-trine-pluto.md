@@ -45,7 +45,7 @@ Within 6°, Jupiter and Pluto form this trine for roughly 1 person in 17 of the 
 
 A trine joins signs of one element, so the pair's element sets the tone: fire renews through enthusiasm and risk, earth through patient rebuilding, air through ideas that put an ending in a new frame, water by feeling things fully and coming out wiser. The houses tell where it feels most at home. Jupiter in the 4th trine Pluto in the 8th, for example, can make a home where deep matters get talked through; Jupiter in the 6th trine Pluto in the 10th, work that keeps renewing itself without drama. Those depend on your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Set beside this trine, the pair's other aspects:
+Set against this trine, here are the pair's other aspects:
 
 - **[Jupiter conjunct Pluto](/astrology/jupiter-conjunct-pluto/):** growth and renewal fused in one place, more concentrated and less relaxed than here.
 - **[Jupiter sextile Pluto](/astrology/jupiter-sextile-pluto/):** a smaller version of the same help, there when you reach for it.

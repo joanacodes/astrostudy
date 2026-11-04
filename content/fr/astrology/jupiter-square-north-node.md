@@ -30,7 +30,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes naissent avec cet aspect" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds lunaires et leurs positions moyenne et vraie" }
 ---
-Jupiter carré Nœud Nord place Jupiter à angle droit de tout l’axe nodal, à 90° du Nœud Nord et à 90° du Nœud Sud. C’est le plus fréquent des aspects de la paire, environ 1 personne sur 10, et les astrologues y lisent souvent un carrefour où le sens se tient en travers du chemin, entre le familier et le nouveau.
+Jupiter carré Nœud Nord place Jupiter à angle droit de tout l’axe nodal, à 90° du Nœud Nord et à 90° du Nœud Sud. Parmi les aspects de la paire, c’est le plus fréquent, environ 1 personne sur 10, et les astrologues y lisent souvent un carrefour où le sens se tient en travers du chemin, entre le familier et le nouveau.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
@@ -42,7 +42,7 @@ Le frottement n’a rien d’un échec. Les années passant, ce carré apporte s
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Jupiter forme un carré aux nœuds chez environ 1 personne sur 10, à 6° près : plus que tout autre angle entre Jupiter et le Nœud Nord. Comme les deux signes d’un carré partagent en général un mode, Jupiter et les deux nœuds se trouvent alors souvent ensemble en signes cardinaux, fixes ou mutables : trois parts de vous qui travaillent sur le même mode tout en tirant dans des directions différentes. Les deux carrés possibles ne sont pas identiques : avec Jupiter environ 90° en avant du Nœud Nord dans l’ordre du zodiaque, ou 90° en arrière, les maisons diffèrent, et ce sont elles qui disent quel domaine de la vie se tient au carrefour. Jupiter en maison 10 en carré d’un Nœud Nord en maison 1, par exemple, peut placer vos convictions publiques au croisement entre l’appui sur les partenaires et l’apprentissage de l’autonomie ; Jupiter en maison 4, avec les nœuds sur les maisons 1 et 7, y place plutôt les croyances de votre famille. Seule l’heure de naissance permet de le savoir ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Jupiter forme un carré aux nœuds chez environ 1 personne sur 10, à 6° près : plus que tout autre angle entre Jupiter et le Nœud Nord. Comme un carré joint d’ordinaire deux signes de même mode, Jupiter et les deux nœuds se trouvent alors souvent ensemble en signes cardinaux, fixes ou mutables : trois parts de vous qui travaillent sur le même mode tout en tirant dans des directions différentes. Les deux carrés possibles ne sont pas identiques : avec Jupiter environ 90° en avant du Nœud Nord dans l’ordre du zodiaque, ou 90° en arrière, les maisons diffèrent, et ce sont elles qui disent quel domaine de la vie se tient au carrefour. Jupiter en maison 10 en carré d’un Nœud Nord en maison 1, par exemple, peut placer vos convictions publiques au croisement entre l’appui sur les partenaires et l’apprentissage de l’autonomie ; Jupiter en maison 4, avec les nœuds sur les maisons 1 et 7, y place plutôt les croyances de votre famille. Seule l’heure de naissance permet de le savoir ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Les autres angles entre Jupiter et le Nœud Nord :
 
@@ -55,6 +55,6 @@ Entre deux thèmes, avec [Jupiter carré Nœud Nord en synastrie](/astrology/jup
 
 ## En transit {#en-transit}
 
-[Nœud Nord en transit carré Jupiter du thème natal](/astrology/transiting-north-node-square-natal-jupiter/) revient environ tous les neuf ans, alternativement de chaque côté, pour un mois ou deux. Si ce carré est dans votre thème, vous le retrouvez à votre [retour nodal](/astrology/nodal-return/) comme à votre [inversion nodale](/astrology/nodal-reversal/) : dans un sens ou dans l’autre, l’axe croise toujours votre Jupiter à angle droit. Jupiter, de son côté, forme un carré avec vos nœuds natals deux fois par tour de 12 ans, pour quelques semaines.
+[Nœud Nord en transit carré Jupiter du thème natal](/astrology/transiting-north-node-square-natal-jupiter/) revient environ tous les neuf ans, alternativement de chaque côté, pour un mois ou deux. Avec ce carré dans votre thème, vous le retrouvez à votre [retour nodal](/astrology/nodal-return/) comme à votre [inversion nodale](/astrology/nodal-reversal/) : dans un sens ou dans l’autre, l’axe croise toujours votre Jupiter à angle droit. Jupiter, de son côté, forme un carré avec vos nœuds natals deux fois par tour de 12 ans, pour quelques semaines.
 
 Ce sont des moments de météo, pas de prédiction : ils demandent comment vos croyances s’accordent avec vos habitudes et avec votre croissance.

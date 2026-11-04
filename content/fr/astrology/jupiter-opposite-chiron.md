@@ -42,7 +42,7 @@ Je la vois souvent, aussi, chez les personnes qui apprennent en aidant : ce que
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Aucun aspect de la paire n’est plus rare : environ 1 personne sur 29 dans le décompte des naissances de 1930 à 2009, à 6° près. Les naissances sont tombées en 1935–1936, 1954–1955, 1968–1969, 1982–1983 et 2000–2002, la dernière fenêtre s’étalant par intermittence sur près de deux ans, de juillet 2000 à mai 2002. Chaque personne née pendant ces mois la porte.
+C’est le plus rare des aspects entre Jupiter et Chiron : environ 1 personne sur 29 dans le décompte des naissances de 1930 à 2009, à 6° près. Les naissances sont tombées en 1935–1936, 1954–1955, 1968–1969, 1982–1983 et 2000–2002, la dernière fenêtre s’étalant par intermittence sur près de deux ans, de juillet 2000 à mai 2002. Chaque personne née pendant ces mois la porte.
 
 Une opposition relie des signes du même mode et d’éléments complémentaires : les deux bouts parlent des langues qui vont ensemble. Les maisons nomment l’axe. Jupiter en maison 1 opposition Chiron en maison 7 peut vouloir dire que vos partenaires réveillent votre point sensible, et que vous leur apprenez en retour à élargir leur vue ; Jupiter en maison 4 opposition Chiron en maison 10, un foyer qui vous tient face à une sensibilité liée à votre rôle public. Sans heure de naissance, l’axe reste sans adresse ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

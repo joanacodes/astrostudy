@@ -42,9 +42,9 @@ Le piège est celui de tout trigone : l’aisance passe inaperçue, et couler d
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Ce trigone se retrouve, à 6° près, chez environ 1 personne sur 16 sur l’ensemble des naissances 1930–2009, mais pas de façon régulière. Jupiter rattrape Neptune tous les 12 ou 13 ans environ et forme le trigone deux fois à chaque passage, à quatre ans d’intervalle à peu près : l’aspect est venu par fenêtres de quelques mois à un an, en 1937, 1941, 1950, 1953–1954, 1962–1963, 1966–1967, 1975–1976, 1979, 1987–1988, 1991–1992, 2000–2001 et 2004–2005. Chaque naissance survenue dans l’une de ces fenêtres le porte.
+Ce trigone se retrouve chez environ 1 personne sur 16, à 6° près, sur l’ensemble des naissances 1930–2009, mais pas de façon régulière. Jupiter rattrape Neptune tous les 12 ou 13 ans environ et forme le trigone deux fois à chaque passage, à quatre ans d’intervalle à peu près : l’aspect est venu par fenêtres de quelques mois à un an, en 1937, 1941, 1950, 1953–1954, 1962–1963, 1966–1967, 1975–1976, 1979, 1987–1988, 1991–1992, 2000–2001 et 2004–2005. Chaque naissance survenue dans l’une de ces fenêtres le porte.
 
-C’est donc l’aspect d’une classe d’âge plus que d’une personne ; il devient le vôtre selon l’endroit où il tombe. Les deux signes d’un trigone sont d’ordinaire du même élément : en eau, l’aspect penche vers l’empathie ; en feu, vers l’inspiration ; en terre, vers des idéaux rendus utiles ; en air, vers des idées à partager. Côté maisons, avec Jupiter en maison 9 et Neptune en maison 1, une philosophie étudiée peut façonner votre manière d’aborder le monde ; avec Neptune en maison 6, la compassion passe dans le travail quotidien. Pour les maisons, il faut l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)), et un trigone qui touche aussi votre Soleil, votre Lune ou un angle parle plus fort.
+C’est donc l’aspect d’une classe d’âge plus que d’une personne ; il devient le vôtre selon l’endroit où il tombe. Les deux signes d’un trigone sont d’ordinaire du même élément : en eau, l’aspect penche vers l’empathie ; en feu, vers l’inspiration ; en terre, vers des idéaux rendus utiles ; en air, vers des idées à partager. Côté maisons, avec Jupiter en maison 9 et Neptune en maison 1, une philosophie étudiée peut façonner votre manière d’aborder le monde ; avec Neptune en maison 6, la compassion passe dans le travail quotidien. Pour les maisons, il faut l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)), et un trigone qui touche aussi votre Soleil, votre Lune ou un angle parle plus fort.
 
 Les autres aspects de Jupiter à Neptune placent la croyance et l’imaginaire à d’autres distances :
 
@@ -53,7 +53,7 @@ Les autres aspects de Jupiter à Neptune placent la croyance et l’imaginaire �
 - **[Jupiter carré Neptune](/astrology/jupiter-square-neptune/) :** le sens et l’imaginaire frottent, et chaque idéal est mis à l’épreuve du réel.
 - **[Jupiter opposition Neptune](/astrology/jupiter-opposite-neptune/) :** la vision loge en face, on la croise souvent chez les autres, et elle demande un équilibre.
 
-Entre deux thèmes, [Jupiter trigone Neptune en synastrie](/astrology/jupiter-trine-neptune-synastry/) laisse le sens de ce qui compte d’une des deux personnes et l’imagination de l’autre s’encourager mutuellement. Je lis ce lien des deux côtés : inspirer quelqu’un et recevoir son inspiration, ce n’est pas la même place.
+Entre deux thèmes, [Jupiter trigone Neptune en synastrie](/astrology/jupiter-trine-neptune-synastry/) laisse s’encourager mutuellement le sens de ce qui compte chez une personne et l’imagination chez l’autre. Je lis ce lien des deux côtés : inspirer quelqu’un et recevoir son inspiration, ce n’est pas la même place.
 
 ## En transit {#en-transit}
 

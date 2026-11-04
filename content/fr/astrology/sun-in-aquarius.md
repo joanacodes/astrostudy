@@ -39,7 +39,7 @@ La tradition fait du Verseau l’[exil](/astrology/detriment/) du Soleil, parce 
 
 Le Verseau a deux maîtres, et je lis les deux. [Saturne](/astrology/saturn/), son maître dans la tradition, montre par signe et par maison où ce Soleil bâtit les cadres auxquels il croit. [Uranus](/astrology/uranus/), son maître dans l’astrologie tropicale moderne, montre par maison où il tient à faire les choses autrement.
 
-Le [Soleil en Capricorne](/astrology/sun-in-capricorn/) passe la main vers le 20 janvier, et le [Soleil en Poissons](/astrology/sun-in-pisces/) la reprend vers le 19 février ; le Soleil en Verseau occupe les 29 ou 30 jours entre les deux, quand les jours rallongent dans l’hémisphère Nord sans que l’hiver ait lâché prise. Environ 1 personne sur 12 a ce placement, et près des deux bornes, votre [heure de naissance](/blog/unknown-birth-time/) décide.
+Le [Soleil en Capricorne](/astrology/sun-in-capricorn/) passe la main vers le 20 janvier, et le [Soleil en Poissons](/astrology/sun-in-pisces/) la reprend vers le 19 février ; le Soleil en Verseau occupe les 29 ou 30 jours entre les deux, quand les jours rallongent dans l’hémisphère Nord sans que l’hiver ait lâché prise. Environ 1 personne sur 12 a ce placement, et pour une naissance près de l’une des deux bornes, c’est l’[heure de naissance](/blog/unknown-birth-time/) qui tranche.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 

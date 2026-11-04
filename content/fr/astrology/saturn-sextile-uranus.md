@@ -30,7 +30,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes le portent, et les mois où il était dans l’orbe" }
   - { title: "NASA — Saturn facts", url: "https://science.nasa.gov/saturn/facts/", note: "l’orbite de Saturne, environ 29 ans et demi" }
 ---
-Saturne sextile Uranus est un aspect de génération, celui de la réforme praticable : la structure et le changement à deux signes d’écart, dans des éléments qui s’entendent, prêts à coopérer dès que quelqu’un fait le travail de les réunir.
+Saturne sextile Uranus est un aspect de génération, celui de la réforme praticable : la structure et le changement séparés par deux signes, dans des éléments qui s’entendent, prêts à coopérer dès que quelqu’un fait le travail de les réunir.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
@@ -42,7 +42,7 @@ C’est le plus discret des aspects de la paire, et c’est sa force : un chang
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Compté à 6° près, le sextile apparaît chez environ 1 personne sur 14 née entre 1930 et 2009, en quatre périodes d’un an ou deux : 1934–1936, 1947–1949, 1978–1981 et 1995–1997, chacune avec des trous, au gré des rétrogradations qui faisaient entrer et sortir la paire de l’orbe. Ces périodes tombent quelques années avant et après les deux conjonctions, celle de 1942 et celle de 1988. Partagé par toutes les personnes nées alors, le sextile se lit comme une ressource de génération plus que comme un trait personnel, jusqu’à ce que les maisons le situent.
+Compté à 6° près, le sextile concerne environ 1 personne sur 14 pour la période 1930–2009, en quatre périodes d’un an ou deux : 1934–1936, 1947–1949, 1978–1981 et 1995–1997, chacune avec des trous, au gré des rétrogradations qui faisaient entrer et sortir la paire de l’orbe. Ces périodes tombent quelques années avant et après les deux conjonctions, celle de 1942 et celle de 1988. Partagé par toutes les personnes nées alors, le sextile se lit comme une ressource de génération plus que comme un trait personnel, jusqu’à ce que les maisons le situent.
 
 Un sextile associe en général des éléments compatibles : la structure et le changement se comprennent. Dans les maisons, Saturne en maison 1 sextile Uranus en maison 11 peut faire de vous une présence stable dans des groupes qui veulent changer les choses ; Saturne en maison 5 sextile Uranus en maison 7, une créativité engagée dans des associations qui restent vivantes. Pour les maisons, il me faut l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). C’est Saturne, plus rapide, qui forme et défait l’angle.
 
@@ -53,10 +53,10 @@ Les deux mêmes planètes, à d’autres angles :
 - **[Saturne trigone Uranus](/astrology/saturn-trine-uranus/) :** naissances de la fin des années 1950, du début des années 1970 ou du début des années 2000 ; la coopération va d’elle-même et demande moins de l’effort qu’exige ce sextile.
 - **[Saturne opposition Uranus](/astrology/saturn-opposite-uranus/) :** naissances du milieu des années 1960 ou de 2008–2009 ; stabilité et liberté se font face, et d’autres personnes en portent souvent un côté.
 
-Entre deux thèmes, avec [Saturne sextile Uranus en synastrie](/astrology/saturn-sextile-uranus-synastry/), la fiabilité de l’une des deux personnes et l’originalité de l’autre peuvent former une équipe utile, si chacune saisit l’ouverture ; le lien n’a pas la même saveur des deux côtés.
+Entre deux thèmes, avec [Saturne sextile Uranus en synastrie](/astrology/saturn-sextile-uranus-synastry/), ce qu’une des deux personnes a de fiable et ce que l’autre a d’original peuvent former une équipe utile, si chacune saisit l’ouverture ; le lien n’a pas la même saveur des deux côtés.
 
 ## En transit {#en-transit}
 
-[Saturne en transit sextile Uranus du thème natal](/astrology/transiting-saturn-sextile-natal-uranus/) revient deux fois par tour de Saturne de 29 ans et demi, pour quelques semaines ou, avec les rétrogradations, quelques mois : une bonne saison, disent beaucoup d’astrologues, pour donner une structure à une idée. [Uranus en transit sextile Saturne du thème natal](/astrology/transiting-uranus-sextile-natal-saturn/) dure plus longtemps, un an environ près de l’exactitude, puisqu’Uranus passe environ 7 ans dans un signe. Si le sextile est dans votre thème, votre [retour de Saturne](/astrology/saturn-return/) le refait du côté de Saturne.
+[Saturne en transit sextile Uranus du thème natal](/astrology/transiting-saturn-sextile-natal-uranus/) revient deux fois pendant chaque révolution de Saturne, longue de 29 ans et demi, pour quelques semaines ou, avec les rétrogradations, quelques mois : une bonne saison, disent beaucoup d’astrologues, pour donner une structure à une idée. [Uranus en transit sextile Saturne du thème natal](/astrology/transiting-uranus-sextile-natal-saturn/) dure plus longtemps, un an environ près de l’exactitude, puisqu’Uranus passe environ 7 ans dans un signe. Si le sextile est dans votre thème, votre [retour de Saturne](/astrology/saturn-return/) le refait du côté de Saturne.
 
-Comme tous les transits, ceux-ci sont une météo et non une prédiction : des ouvertures pour réformer, qu’il reste à franchir.
+Ces transits restent une météo, pas une prédiction : des ouvertures pour réformer, qu’il reste à franchir.

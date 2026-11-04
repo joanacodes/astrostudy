@@ -34,7 +34,7 @@ Jupiter carré Chiron, c’est l’espoir qui rencontre l’endroit qui ne se pr
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Jupiter](/astrology/jupiter/) est le sentiment que l’expérience peut mener quelque part : apprendre, dégager des principes, élargir la vue. [Chiron](/astrology/chiron/) est le point sensible auquel vous revenez, avec les méthodes que vous développez autour : une autre entrée, un autre rythme, un outil, une compétence née de la nécessité. Un [carré](/astrology/square/) les met en friction constructive : ni l’espoir ni la sensibilité ne s’efface, et chacun accroche l’autre.
+[Jupiter](/astrology/jupiter/) est le sentiment que l’expérience peut mener quelque part : apprendre, dégager des principes, élargir la vue. [Chiron](/astrology/chiron/) est le point sensible auquel vous revenez, avec les méthodes que vous développez autour : une autre entrée, un autre rythme, un outil, une compétence née de la nécessité. Un [carré](/astrology/square/) les met en friction constructive : ni l’espoir ni la sensibilité ne s’efface, et chacun accroche l’autre.
 
 Concrètement, les grands espoirs peuvent peser sur un endroit qui demande de la patience, et cet endroit peut faire de l’espoir une exigence. Cela peut se voir dans des projets qu’il faut sans cesse redessiner autour d’une limite, ou dans une philosophie généreuse mise à l’épreuve par ce qu’elle ne peut pas réparer. La friction sert : elle rend les grands projets réalisables, et vous apprend à changer de méthode plutôt qu’à abandonner le but.
 
@@ -57,6 +57,6 @@ Entre deux thèmes, avec [Jupiter carré Chiron en synastrie](/astrology/jupiter
 
 ## En transit {#en-transit}
 
-[Chiron en transit carré Jupiter du thème natal](/astrology/transiting-chiron-square-natal-jupiter/) peut arriver à tout âge, et plus d’une fois : Chiron forme deux carrés avec un même point à chacun de ses tours d’environ 50 ans. La durée de ce transit suit la vitesse de Chiron, de quelques mois à plus d’un an. Jupiter, bien plus rapide, se met en carré de Chiron du thème natal à deux reprises par tour, soit tous les six ans environ ; chaque passage dure quelques semaines, une courte période où l’espoir et la patience renégocient.
+[Chiron en transit carré Jupiter du thème natal](/astrology/transiting-chiron-square-natal-jupiter/) peut arriver à tout âge, et plus d’une fois : Chiron forme deux carrés avec un même point à chacun de ses tours d’environ 50 ans. La durée de ce transit suit la vitesse de Chiron, de quelques mois à plus d’un an. Jupiter, bien plus rapide, se met en carré de Chiron du thème natal tous les six ans environ, soit deux fois par tour ; chaque passage dure quelques semaines, une courte période où l’espoir et la patience renégocient.
 
 Une météo, encore, et non une prédiction : ces transits marquent une saison de renégociation entre l’espoir et le rythme, rien de plus figé.

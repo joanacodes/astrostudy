@@ -52,7 +52,7 @@ Here is how the pair's other angles compare:
 - **[Jupiter trine Chiron](/astrology/jupiter-trine-chiron/):** hope and tenderness move at one pace, so adapting comes more easily.
 - **[Jupiter opposite Chiron](/astrology/jupiter-opposite-chiron/):** the two face each other, and someone close to you often stands at one end.
 
-Between two charts, [Jupiter square Chiron in synastry](/astrology/jupiter-square-chiron-synastry/) can let one person's enthusiasm land on the other's tender place a little too hard, or exactly when it was needed. I look at it only when both people have asked me to ([synastry and consent](/blog/synastry-behind-their-back/)).
+Between two charts, [Jupiter square Chiron in synastry](/astrology/jupiter-square-chiron-synastry/) can let one person's enthusiasm land on the other's tender place a little too hard, or exactly when it was needed. It's a contact I look at only on request from both people ([synastry and consent](/blog/synastry-behind-their-back/)).
 
 ## In transits {#in-transits}
 

@@ -58,6 +58,6 @@ Between two charts, [Jupiter conjunct Lilith in synastry](/astrology/jupiter-con
 
 ## In transits {#in-transits}
 
-Jupiter passes over your natal Lilith once a lap, close for a few weeks, and if the conjunction is yours from birth that passage coincides with each [Jupiter return](/astrology/jupiter-return/). Mean Lilith, with a full circuit of about 8 years and 10 months, comes back over your natal Jupiter at each Lilith return, around 9, 18, 27, 35, 44 and 53, and lingers near it for a few weeks. Many astrologers read these as times when something kept out of sight asks to become part of what you believe.
+Jupiter passes over your natal Lilith once a lap, close for a few weeks, and if the conjunction is yours from birth that passage coincides with each [Jupiter return](/astrology/jupiter-return/). Mean Lilith, with a full circuit taking some 8 years and 10 months, comes back over your natal Jupiter at each Lilith return, around 9, 18, 27, 35, 44 and 53, and lingers near it for a few weeks. Many astrologers read these as times when something kept out of sight asks to become part of what you believe.
 
 These passages are weather, not a forecast: the hidden part asks for room, and the answer stays with you.

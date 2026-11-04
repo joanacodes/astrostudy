@@ -33,13 +33,13 @@ Mercure en Lion pense en scènes. Une idée arrive avec un début, un milieu et 
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-[Mercure](/astrology/mercury/), c’est votre façon de penser, d’apprendre et de dire ce que vous pensez. Le [Lion](/astrology/leo/), feu fixe gouverné par le Soleil, donne à ce qui s’y trouve de la chaleur, de la constance et l’envie d’être vu en train de bien faire. Ici, la pensée met son cœur dans ses idées : vous réfléchissez en donnant une forme aux choses, expliquez en leur donnant vie, et restez en général fidèle à un avis une fois que vous lui avez prêté votre voix. Le feu fixe s’éteint lentement. Cela donne de la conviction, et une certaine réticence à reculer en public.
+[Mercure](/astrology/mercury/), c’est votre façon de penser, d’apprendre et de dire ce que vous pensez. En [Lion](/astrology/leo/), feu fixe gouverné par le Soleil, une planète prend de la chaleur, de la constance et l’envie de bien faire sous les regards. Ici, la pensée met son cœur dans ses idées : vous réfléchissez en donnant une forme aux choses, expliquez en leur donnant vie, et restez en général fidèle à un avis une fois que vous lui avez prêté votre voix. Le feu fixe s’éteint lentement. Cela donne de la conviction, et une certaine réticence à reculer en public.
 
-La tradition ne donne à Mercure aucune dignité en Lion, ni domicile ni exil. Ce que le signe ajoute, c’est une manière, pas une force.
+Dans les tables classiques, Mercure n’a en Lion aucun rang, ni haut ni bas : ce que le signe ajoute, c’est une manière, pas une force.
 
 Le maître du Lion est le [Soleil](/astrology/sun/), et Mercure ne s’en éloigne jamais de plus de 28° environ : Mercure en Lion a donc toujours son maître tout près : le Soleil est en Lion aussi, ou dans un signe voisin. L’image me parle. Votre pensée sert souvent ce pour quoi vous vivez, et vos mots s’écartent rarement de votre élan. Si le Soleil est en Lion aussi, les deux peuvent se trouver ensemble, et [Soleil conjonction Mercure](/astrology/sun-conjunct-mercury/) décrit cette proximité. Avec le Soleil en Cancer, un moi discret et protecteur s’exprime avec chaleur à travers Mercure en Lion ; avec le Soleil en Vierge, un moi modeste et exigeant reçoit un esprit qui ose se faire entendre.
 
-En général, Mercure passe 17 jours environ en Lion, et jusqu’à 70 quand Mercure y devient rétrograde. Environ 1 personne sur 13 née entre 1930 et 2009 a ce placement. Quelques degrés plus tôt, ce serait [Mercure en Cancer](/astrology/mercury-in-cancer/), la même histoire gardée plutôt que racontée ; quelques degrés plus loin, [Mercure en Vierge](/astrology/mercury-in-virgo/) serait en train de la corriger.
+La plupart des années, Mercure met 17 jours environ à traverser le Lion ; un tour rétrograde dans le signe peut l’y retenir jusqu’à 70. Dans une foule de personnes nées entre 1930 et 2009, environ 1 personne sur 13 aurait ce placement. Quelques degrés plus tôt, ce serait [Mercure en Cancer](/astrology/mercury-in-cancer/), la même histoire gardée plutôt que racontée ; quelques degrés plus loin, [Mercure en Vierge](/astrology/mercury-in-virgo/) serait en train de la corriger.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 

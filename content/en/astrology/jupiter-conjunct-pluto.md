@@ -41,7 +41,7 @@ Expansion isn't excess, and empowerment isn't domination: those are the two misr
 
 ## In a birth chart {#in-a-birth-chart}
 
-The conjunction belongs to about 1 person in 31 of those born from 1930 to 2009, counted within 6°. It came in seven meetings: September 1930 to June 1931, July to September 1943, September 1955 to July 1956, September to November 1968 and again April to July 1969, September to December 1981, October 1994 to January 1995, and November 2007 to January 2008. Some windows lasted most of a year and others two or three months, depending on whether Jupiter's yearly retrograde fell near Pluto. Everyone born inside one shares it.
+Within a 6° orb, the conjunction belongs to about 1 person in 31 among everyone born in the eighty years counted. It came in seven meetings: September 1930 to June 1931, July to September 1943, September 1955 to July 1956, September to November 1968 and again April to July 1969, September to December 1981, October 1994 to January 1995, and November 2007 to January 2008. Some windows lasted most of a year and others two or three months, depending on whether Jupiter's yearly retrograde fell near Pluto. Everyone born inside one shares it.
 
 Sharing the meeting with everyone born in the same months, you share its sign too; what's yours is the house it falls in, and whether it sits on a personal planet or an angle. In the 2nd house this conjunction might ask you to transform what you value rather than pile it up; in the 9th, to found a philosophy afresh; in the 11th, to change a group from the inside. Placing it takes a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 

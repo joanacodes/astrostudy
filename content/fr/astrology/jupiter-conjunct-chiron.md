@@ -34,7 +34,7 @@ Jupiter conjonction Chiron pose la part de vous qui cherche du sens exactement s
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Jupiter](/astrology/jupiter/) transforme l’expérience en compréhension et la laisse vous élargir : apprendre, guider, tenir des principes, prendre de la hauteur. [Chiron](/astrology/chiron/) marque le point sensible autour duquel vous tournez, et les manières que vous trouvez de faire avec : une autre méthode ou un autre rythme, une compétence construite autour, et souvent un don pour aider quelqu’un d’autre avec la même chose. Une [conjonction](/astrology/conjunction/) fond les deux en un seul processus, et chaque fonction garde son identité.
+[Jupiter](/astrology/jupiter/) transforme l’expérience en compréhension et la laisse vous élargir : apprendre, guider, tenir des principes, prendre de la hauteur. [Chiron](/astrology/chiron/) marque le point sensible autour duquel vous tournez, et les manières que vous trouvez de faire avec : une autre méthode ou un autre rythme, une compétence construite autour, et souvent un don pour aider quelqu’un d’autre avec la même chose. Une [conjonction](/astrology/conjunction/) fond les deux en un seul processus où chaque fonction reste reconnaissable.
 
 Concrètement, vous cherchez du sens précisément là où cela fait mal, et ce que vous y comprenez devient ce que vous pouvez transmettre. Beaucoup de personnes qui ont cette conjonction deviennent, tôt ou tard, celles à qui les autres confient leur propre point sensible. C’est un don, avec un piège propre à cette paire : Jupiter aime généraliser, et ce qui vous a réussi reste une méthode, pas une loi. Ici, les meilleures façons d’enseigner disent *voilà ce qui m’a servi*, et non *voilà ce que vous devez faire*.
 

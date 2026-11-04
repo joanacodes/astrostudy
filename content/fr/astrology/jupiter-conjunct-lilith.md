@@ -59,6 +59,6 @@ Entre deux thèmes, [Jupiter conjonction Lilith en synastrie](/astrology/jupiter
 
 ## En transit {#en-transit}
 
-Jupiter passe sur Lilith du thème natal environ tous les 12 ans et reste proche quelques semaines ; quand votre thème porte la conjonction, ce passage tombe à chaque [retour de Jupiter](/astrology/jupiter-return/). La Lilith moyenne, dont le circuit complet prend 8 ans et 10 mois environ, repasse sur Jupiter du thème natal lors de chaque retour de Lilith (vers 9, 18, 27, 35, 44 et 53 ans) et s’y attarde quelques semaines. De nombreux astrologues lisent ces moments comme des temps où ce qu’on gardait hors de vue demande à entrer dans ce que vous croyez.
+Jupiter passe sur Lilith du thème natal environ tous les 12 ans et reste proche quelques semaines ; quand votre thème porte la conjonction, ce passage tombe à chaque [retour de Jupiter](/astrology/jupiter-return/). La Lilith moyenne, dont le circuit complet prend 8 ans et 10 mois environ, repasse sur Jupiter du thème natal à chacun de ses retours, environ tous les neuf ans, et s’y attarde quelques semaines. De nombreux astrologues lisent ces moments comme des temps où ce qu’on gardait hors de vue demande à entrer dans ce que vous croyez.
 
 Ces passages décrivent une saison où la part cachée réclame de la place : une météo, pas une prédiction, qui vous laisse la réponse.

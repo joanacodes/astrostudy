@@ -35,13 +35,13 @@ Donnez à une Lune en Vierge quelque chose à trier, et vous verrez une mauvaise
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Terre mutable, signe de la méthode et des choses qui marchent, la [Vierge](/astrology/virgo/) donne au travail de la [Lune](/astrology/moon/), digérer ce qui arrive, s’attacher, retrouver la sécurité, une allure pratique et précise. Vous êtes plus stable quand les choses sont en ordre et que vous avez quelque chose d’utile à faire. Le soin, chez vous, est concret : le plat au congélateur pour quelqu’un de malade, le formulaire rempli, le détail que personne n’avait vu. Une émotion devient gérable une fois qu’elle a sa place, comme un tiroir devient calme une fois rangé.
+La [Vierge](/astrology/virgo/), terre mutable, est le signe de la méthode et des choses qui marchent. Avec la [Lune](/astrology/moon/) ici, absorber ce qui arrive, s’attacher et retrouver la sécurité prennent un tour pratique et précis. L’ordre au-dehors vous aide à trouver l’ordre au-dedans, et vous rendre utile vous donne la sécurité. Le soin, chez vous, est concret : le plat au congélateur pour quelqu’un de malade, le formulaire rempli, le détail que personne n’avait vu. Une émotion devient gérable une fois qu’elle a sa place, comme un tiroir devient calme une fois rangé.
 
 Aucune des quatre dignités ne s’applique ici : la Vierge n’est pour la Lune ni un domicile, ni une exaltation, ni un exil, ni une chute. Les signes mutables s’ajustent, et en Vierge, s’ajuster veut dire améliorer. Face à un changement, vous cherchez ce qu’il demande et vous le faites : la réactivité sous sa forme la plus concrète.
 
 [Mercure](/astrology/mercury/) gouverne la Vierge, et c’est ce que je lis ensuite. Son signe et sa maison montrent comment cette Lune trie ce qu’elle ressent : en analysant, en faisant des listes, en en parlant à une personne de confiance. Analyser n’est pas ruminer, et quand Mercure a de quoi s’occuper utilement, cette analyse est exactement la façon dont une Lune en Vierge se comprend.
 
-Environ 1 personne sur 12 a cette Lune. Elle dure deux jours et demi environ à chaque tour, après la [Lune en Lion](/astrology/moon-in-leo/), qui a besoin qu’on la voie, et avant la [Lune en Balance](/astrology/moon-in-libra/), qui a besoin d’harmonie. Pour une naissance un jour de changement, c’est l’heure qui dit laquelle des deux est la vôtre ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/#la-lune)).
+Environ 1 personne sur 12 a cette Lune : chaque passage en Vierge dure deux jours et demi, à peu de chose près. Elle suit la [Lune en Lion](/astrology/moon-in-leo/), dont le besoin est d’être vue, et précède la [Lune en Balance](/astrology/moon-in-libra/), dont le besoin est l’harmonie. Pour une naissance un jour de changement, c’est l’heure qui dit laquelle des deux est la vôtre ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/#la-lune)).
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -59,4 +59,4 @@ La voix critique intérieure. Le même œil qui trouve la faille d’un plan peu
 
 Nommez l’émotion avant d’attraper la tâche : *je suis triste*, puis la vaisselle. Laissez une chose imparfaite exprès, et constatez que rien ne s’écroule. Laissez quelqu’un vous aider pour une petite chose, et remerciez au lieu de corriger. Créez des rituels qui apaisent sans rien améliorer : un bain, une marche lente, un thé bu assis. Le soin que vous donnez si bien vous est destiné, à vous aussi.
 
-[Mon carnet](/blog/i-tested-my-birth-chart/) plairait à une Lune en Vierge : chaque placement listé, chacun noté. La Lune y a eu le même traitement que le reste, et ne compte pas parmi les trois, Saturne, Chiron et Lilith, qui ont tenu bien plus souvent ; sur l’ensemble des marques, à peu près un tiers étaient des coches. Je donne donc à cette Lune ce qui lui revient dans une lecture, avec soin, et pas davantage.
+[Mon carnet](/blog/i-tested-my-birth-chart/) plairait à une Lune en Vierge : chaque placement listé, chacun noté. La Lune y a eu le même traitement que le reste, et ne compte pas parmi les trois qui ont fait nettement mieux, Saturne, Chiron et Lilith ; sur l’ensemble des marques, à peu près un tiers étaient des coches. Je donne donc à cette Lune ce qui lui revient dans une lecture, avec soin, et pas davantage.
