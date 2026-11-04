@@ -3,9 +3,8 @@ title: "Maison 11"
 slug: "maison-11"
 h1: "La maison 11 en astrologie"
 description: "La maison 11 en astrologie : les amis, les groupes et les espoirs, l’ancien Génie favorable — chaque planète et chaque signe, son maître et ses transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["maison 11", "maison XI"]
 family: "houses"
 weight: 11

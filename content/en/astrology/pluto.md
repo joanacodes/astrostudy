@@ -2,9 +2,8 @@
 title: "Pluto"
 h1: "Pluto in astrology"
 description: "Pluto in astrology: the planet of depth and change in a birth chart, in each sign and house, in synastry and at the Pluto square — and what held in my tests."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "planets"
 weight: 10
 glyph: "♇"

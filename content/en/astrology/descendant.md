@@ -2,9 +2,8 @@
 title: "Descendant"
 h1: "The Descendant in astrology"
 description: "The Descendant in astrology: the angle of partners, the sign on your 7th house cusp, its ruler, synastry and transits — and what my tests can say."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["Descendant"]
 family: "angles"
 weight: 2

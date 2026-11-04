@@ -3,9 +3,8 @@ title: "Vénus"
 slug: "venus"
 h1: "Vénus en astrologie"
 description: "Vénus en astrologie : ce que vous aimez et ce à quoi vous tenez, dans chaque signe et maison, en synastrie, rétrograde — et ce qui a tenu dans mes tests."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "planets"
 weight: 4
 glyph: "♀"

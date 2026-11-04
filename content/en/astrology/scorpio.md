@@ -2,13 +2,12 @@
 title: "Scorpio"
 h1: "Scorpio in astrology"
 description: "Scorpio in astrology: the sign of depth, ruled by Pluto and Mars. Scorpio Sun, Moon and rising, the planets in Scorpio, its house cusps and synastry."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "signs"
 weight: 8
 glyph: "♏"
-definition: "Scorpio is the eighth sign of the zodiac, a fixed water sign ruled by Pluto in modern astrology and by Mars in the tradition; the Sun crosses it from about 23 October to 21 November. In a birth chart it shows where you go deep, hold on, and want the truth rather than the surface."
+definition: "Scorpio is the eighth sign of the zodiac, a fixed water sign ruled by Pluto in modern tropical astrology and by Mars in the tradition; the Sun crosses it from about 23 October to 21 November. In a birth chart it shows where you go deep, hold on, and want the truth rather than the surface."
 facts:
   - { k: "Symbol", v: "♏ — the scorpion, with its sting" }
   - { k: "Dates", v: "About 23 October – 21 November" }
@@ -67,7 +66,7 @@ Every planet passes through Scorpio, from the Moon in about two and a half days 
 - **[Saturn in Scorpio](/astrology/saturn-in-scorpio/):** shared by everyone born over about two and a half years: lessons in trust and control, and boundaries in intimacy built slowly.
 - **[Uranus in Scorpio](/astrology/uranus-in-scorpio/):** shared by everyone born over about seven years: taboos questioned, and sudden changes in what's kept private. Its house shows where.
 - **[Neptune in Scorpio](/astrology/neptune-in-scorpio/):** shared by everyone born over about fourteen years: a fascination with mystery and with what lies hidden. Its house makes it yours.
-- **[Pluto in Scorpio](/astrology/pluto-in-scorpio/):** Pluto at home in modern astrology, shared by everyone born during its passage through Scorpio, the quickest it makes through any sign: intensity and change as a generation's backdrop. Its house says where it lands.
+- **[Pluto in Scorpio](/astrology/pluto-in-scorpio/):** Pluto at home in modern tropical astrology, shared by everyone born during its passage through Scorpio, the quickest it makes through any sign: intensity and change as a generation's backdrop. Its house says where it lands.
 
 ## Scorpio on a house cusp {#on-a-house-cusp}
 

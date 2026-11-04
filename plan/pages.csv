@@ -52,26 +52,26 @@ tier,batch,status,family,group,kind,title_en,address_en,title_fr,address_fr,link
 2,,planned,Foundations,Traditional concepts,concept,Planetary hours,/astrology/planetary-hours/,Heures planétaires,/fr/astrologie/heures-planetaires/,/astrology/,planetary-days thema-mundi
 3,,planned,Foundations,Traditional concepts,concept,Thema Mundi,/astrology/thema-mundi/,Thema Mundi,/fr/astrologie/thema-mundi/,/astrology/,planetary-hours doctrine-of-the-lots
 2,,planned,Foundations,Traditional concepts,concept,Doctrine of the lots,/astrology/doctrine-of-the-lots/,Doctrine des parts,/fr/astrologie/doctrine-des-parts/,/astrology/,thema-mundi
-1,1,planned,The ten planets,The planets,pillar,Sun,/astrology/sun/,Soleil,/fr/astrologie/soleil/,/astrology/,moon
-1,1,planned,The ten planets,The planets,pillar,Moon,/astrology/moon/,Lune,/fr/astrologie/lune/,/astrology/,sun mercury
-1,1,planned,The ten planets,The planets,pillar,Mercury,/astrology/mercury/,Mercure,/fr/astrologie/mercure/,/astrology/,moon venus
-1,1,planned,The ten planets,The planets,pillar,Venus,/astrology/venus/,Vénus,/fr/astrologie/venus/,/astrology/,mercury mars
-1,1,planned,The ten planets,The planets,pillar,Mars,/astrology/mars/,Mars,/fr/astrologie/mars/,/astrology/,venus jupiter
-1,1,planned,The ten planets,The planets,pillar,Jupiter,/astrology/jupiter/,Jupiter,/fr/astrologie/jupiter/,/astrology/,mars saturn
+1,0,published,The ten planets,The planets,pillar,Sun,/astrology/sun/,Soleil,/fr/astrologie/soleil/,/astrology/,moon
+1,0,published,The ten planets,The planets,pillar,Moon,/astrology/moon/,Lune,/fr/astrologie/lune/,/astrology/,sun mercury
+1,0,published,The ten planets,The planets,pillar,Mercury,/astrology/mercury/,Mercure,/fr/astrologie/mercure/,/astrology/,moon venus
+1,0,published,The ten planets,The planets,pillar,Venus,/astrology/venus/,Vénus,/fr/astrologie/venus/,/astrology/,mercury mars
+1,0,published,The ten planets,The planets,pillar,Mars,/astrology/mars/,Mars,/fr/astrologie/mars/,/astrology/,venus jupiter
+1,0,published,The ten planets,The planets,pillar,Jupiter,/astrology/jupiter/,Jupiter,/fr/astrologie/jupiter/,/astrology/,mars saturn
 1,0,published,The ten planets,The planets,pillar,Saturn,/astrology/saturn/,Saturne,/fr/astrologie/saturne/,/astrology/,jupiter uranus
-1,1,planned,The ten planets,The planets,pillar,Uranus,/astrology/uranus/,Uranus,/fr/astrologie/uranus/,/astrology/,saturn neptune
-1,1,planned,The ten planets,The planets,pillar,Neptune,/astrology/neptune/,Neptune,/fr/astrologie/neptune/,/astrology/,uranus pluto
-1,1,planned,The ten planets,The planets,pillar,Pluto,/astrology/pluto/,Pluton,/fr/astrologie/pluton/,/astrology/,neptune earth-in-heliocentric-charts
+1,0,published,The ten planets,The planets,pillar,Uranus,/astrology/uranus/,Uranus,/fr/astrologie/uranus/,/astrology/,saturn neptune
+1,0,published,The ten planets,The planets,pillar,Neptune,/astrology/neptune/,Neptune,/fr/astrologie/neptune/,/astrology/,uranus pluto
+1,0,published,The ten planets,The planets,pillar,Pluto,/astrology/pluto/,Pluton,/fr/astrologie/pluton/,/astrology/,neptune earth-in-heliocentric-charts
 3,,planned,The ten planets,The planets,concept,Earth in heliocentric charts,/astrology/earth-in-heliocentric-charts/,La Terre dans les thèmes héliocentriques,/fr/astrologie/terre-dans-les-themes-heliocentriques/,/astrology/,pluto
-1,1,planned,"Angles, axes and the lunar nodes",The angles,pillar,Ascendant,/astrology/ascendant/,Ascendant,/fr/astrologie/ascendant/,/astrology/,descendant
-1,1,planned,"Angles, axes and the lunar nodes",The angles,pillar,Descendant,/astrology/descendant/,Descendant,/fr/astrologie/descendant/,/astrology/,ascendant midheaven
-1,1,planned,"Angles, axes and the lunar nodes",The angles,pillar,Midheaven,/astrology/midheaven/,Milieu du Ciel,/fr/astrologie/milieu-du-ciel/,/astrology/,descendant imum-coeli
-1,1,planned,"Angles, axes and the lunar nodes",The angles,pillar,Imum Coeli,/astrology/imum-coeli/,Fond du Ciel,/fr/astrologie/fond-du-ciel/,/astrology/,midheaven horizon-axis
-1,1,planned,"Angles, axes and the lunar nodes",The angles,concept,Horizon axis,/astrology/horizon-axis/,Axe de l’horizon,/fr/astrologie/axe-de-l-horizon/,/astrology/,imum-coeli meridian-axis
-1,1,planned,"Angles, axes and the lunar nodes",The angles,concept,Meridian axis,/astrology/meridian-axis/,Axe du méridien,/fr/astrologie/axe-du-meridien/,/astrology/,horizon-axis
-1,1,planned,"Angles, axes and the lunar nodes",The lunar nodes,pillar,North Node,/astrology/north-node/,Nœud Nord,/fr/astrologie/noeud-nord/,/astrology/,south-node
-1,1,planned,"Angles, axes and the lunar nodes",The lunar nodes,pillar,South Node,/astrology/south-node/,Nœud Sud,/fr/astrologie/noeud-sud/,/astrology/,north-node nodal-axis
-1,1,planned,"Angles, axes and the lunar nodes",The lunar nodes,concept,Nodal axis,/astrology/nodal-axis/,Axe des nœuds,/fr/astrologie/axe-des-noeuds/,/astrology/,south-node mean-node-and-true-node
+1,0,published,"Angles, axes and the lunar nodes",The angles,pillar,Ascendant,/astrology/ascendant/,Ascendant,/fr/astrologie/ascendant/,/astrology/,descendant
+1,0,published,"Angles, axes and the lunar nodes",The angles,pillar,Descendant,/astrology/descendant/,Descendant,/fr/astrologie/descendant/,/astrology/,ascendant midheaven
+1,0,published,"Angles, axes and the lunar nodes",The angles,pillar,Midheaven,/astrology/midheaven/,Milieu du Ciel,/fr/astrologie/milieu-du-ciel/,/astrology/,descendant imum-coeli
+1,0,published,"Angles, axes and the lunar nodes",The angles,pillar,Imum Coeli,/astrology/imum-coeli/,Fond du Ciel,/fr/astrologie/fond-du-ciel/,/astrology/,midheaven horizon-axis
+1,0,published,"Angles, axes and the lunar nodes",The angles,concept,Horizon axis,/astrology/horizon-axis/,Axe de l’horizon,/fr/astrologie/axe-de-l-horizon/,/astrology/,imum-coeli meridian-axis
+1,0,published,"Angles, axes and the lunar nodes",The angles,concept,Meridian axis,/astrology/meridian-axis/,Axe du méridien,/fr/astrologie/axe-du-meridien/,/astrology/,horizon-axis
+1,0,published,"Angles, axes and the lunar nodes",The lunar nodes,pillar,North Node,/astrology/north-node/,Nœud Nord,/fr/astrologie/noeud-nord/,/astrology/,south-node
+1,0,published,"Angles, axes and the lunar nodes",The lunar nodes,pillar,South Node,/astrology/south-node/,Nœud Sud,/fr/astrologie/noeud-sud/,/astrology/,north-node nodal-axis
+1,0,published,"Angles, axes and the lunar nodes",The lunar nodes,concept,Nodal axis,/astrology/nodal-axis/,Axe des nœuds,/fr/astrologie/axe-des-noeuds/,/astrology/,south-node mean-node-and-true-node
 2,,planned,"Angles, axes and the lunar nodes",The lunar nodes,concept,Mean node and true node,/astrology/mean-node-and-true-node/,Nœud moyen et nœud vrai,/fr/astrologie/noeud-moyen-et-noeud-vrai/,/astrology/,nodal-axis nodal-return
 2,,planned,"Angles, axes and the lunar nodes",The lunar nodes,concept,Nodal return,/astrology/nodal-return/,Retour nodal,/fr/astrologie/retour-nodal/,/astrology/,mean-node-and-true-node nodal-reversal
 2,,planned,"Angles, axes and the lunar nodes",The lunar nodes,concept,Nodal reversal,/astrology/nodal-reversal/,Inversion nodale,/fr/astrologie/inversion-nodale/,/astrology/,nodal-return nodes-in-synastry
@@ -96,8 +96,8 @@ tier,batch,status,family,group,kind,title_en,address_en,title_fr,address_fr,link
 3,,planned,"Liliths, lots and other calculated points",The Liliths,concept,Asteroid Lilith (1181),/astrology/asteroid-lilith-1181/,L’astéroïde Lilith (1181),/fr/astrologie/asteroide-lilith-1181/,/astrology/,dark-moon-lilith priapus
 3,,planned,"Liliths, lots and other calculated points",The Liliths,concept,Priapus,/astrology/priapus/,Priape,/fr/astrologie/priape/,/astrology/,asteroid-lilith-1181 white-moon-selena
 3,,planned,"Liliths, lots and other calculated points",The Liliths,concept,White Moon Selena,/astrology/white-moon-selena/,Lune blanche Séléné,/fr/astrologie/lune-blanche-selene/,/astrology/,priapus which-lilith-is-mine
-1,1,planned,"Liliths, lots and other calculated points",The Liliths,concept,Which Lilith is mine?,/astrology/which-lilith-is-mine/,Quelle Lilith est la mienne ?,/fr/astrologie/quelle-lilith-est-la-mienne/,/astrology/,white-moon-selena
-1,1,planned,"Liliths, lots and other calculated points",Lots (Arabic parts),concept,Part of Fortune,/astrology/part-of-fortune/,Part de Fortune,/fr/astrologie/part-de-fortune/,/astrology/,part-of-spirit
+1,0,published,"Liliths, lots and other calculated points",The Liliths,concept,Which Lilith is mine?,/astrology/which-lilith-is-mine/,Quelle Lilith est la mienne ?,/fr/astrologie/quelle-lilith-est-la-mienne/,/astrology/,white-moon-selena
+1,0,published,"Liliths, lots and other calculated points",Lots (Arabic parts),concept,Part of Fortune,/astrology/part-of-fortune/,Part de Fortune,/fr/astrologie/part-de-fortune/,/astrology/,part-of-spirit
 2,,planned,"Liliths, lots and other calculated points",Lots (Arabic parts),concept,Part of Spirit,/astrology/part-of-spirit/,Part de l’Esprit,/fr/astrologie/part-de-l-esprit/,/astrology/,part-of-fortune hermetic-lots
 3,,planned,"Liliths, lots and other calculated points",Lots (Arabic parts),concept,The Hermetic lots,/astrology/hermetic-lots/,Les parts hermétiques,/fr/astrologie/parts-hermetiques/,/astrology/,part-of-spirit part-of-marriage
 3,,planned,"Liliths, lots and other calculated points",Lots (Arabic parts),concept,Part of Marriage,/astrology/part-of-marriage/,Part du mariage,/fr/astrologie/part-du-mariage/,/astrology/,hermetic-lots part-of-children
@@ -231,18 +231,18 @@ tier,batch,status,family,group,kind,title_en,address_en,title_fr,address_fr,link
 3,,planned,Fixed stars and star groups,Other stars astrologers use,star,Aculeus,/astrology/aculeus/,Aculeus,/fr/astrologie/aculeus/,/astrology/,facies acumen
 3,,planned,Fixed stars and star groups,Other stars astrologers use,star,Acumen,/astrology/acumen/,Acumen,/fr/astrologie/acumen/,/astrology/,aculeus mira
 3,,planned,Fixed stars and star groups,Other stars astrologers use,star,Mira,/astrology/mira/,Mira,/fr/astrologie/mira/,/astrology/,acumen
-1,1,planned,"Signs, decans, degrees and Sabian symbols",The twelve signs,sign,Aries,/astrology/aries/,Bélier,/fr/astrologie/belier/,/astrology/,taurus
-1,1,planned,"Signs, decans, degrees and Sabian symbols",The twelve signs,sign,Taurus,/astrology/taurus/,Taureau,/fr/astrologie/taureau/,/astrology/,aries gemini
-1,1,planned,"Signs, decans, degrees and Sabian symbols",The twelve signs,sign,Gemini,/astrology/gemini/,Gémeaux,/fr/astrologie/gemeaux/,/astrology/,taurus cancer
-1,1,planned,"Signs, decans, degrees and Sabian symbols",The twelve signs,sign,Cancer,/astrology/cancer/,Cancer,/fr/astrologie/cancer/,/astrology/,gemini leo
-1,1,planned,"Signs, decans, degrees and Sabian symbols",The twelve signs,sign,Leo,/astrology/leo/,Lion,/fr/astrologie/lion/,/astrology/,cancer virgo
-1,1,planned,"Signs, decans, degrees and Sabian symbols",The twelve signs,sign,Virgo,/astrology/virgo/,Vierge,/fr/astrologie/vierge/,/astrology/,leo libra
-1,1,planned,"Signs, decans, degrees and Sabian symbols",The twelve signs,sign,Libra,/astrology/libra/,Balance,/fr/astrologie/balance/,/astrology/,virgo scorpio
-1,1,planned,"Signs, decans, degrees and Sabian symbols",The twelve signs,sign,Scorpio,/astrology/scorpio/,Scorpion,/fr/astrologie/scorpion/,/astrology/,libra sagittarius
-1,1,planned,"Signs, decans, degrees and Sabian symbols",The twelve signs,sign,Sagittarius,/astrology/sagittarius/,Sagittaire,/fr/astrologie/sagittaire/,/astrology/,scorpio capricorn
-1,1,planned,"Signs, decans, degrees and Sabian symbols",The twelve signs,sign,Capricorn,/astrology/capricorn/,Capricorne,/fr/astrologie/capricorne/,/astrology/,sagittarius aquarius
-1,1,planned,"Signs, decans, degrees and Sabian symbols",The twelve signs,sign,Aquarius,/astrology/aquarius/,Verseau,/fr/astrologie/verseau/,/astrology/,capricorn pisces
-1,1,planned,"Signs, decans, degrees and Sabian symbols",The twelve signs,sign,Pisces,/astrology/pisces/,Poissons,/fr/astrologie/poissons/,/astrology/,aquarius
+1,0,published,"Signs, decans, degrees and Sabian symbols",The twelve signs,sign,Aries,/astrology/aries/,Bélier,/fr/astrologie/belier/,/astrology/,taurus
+1,0,published,"Signs, decans, degrees and Sabian symbols",The twelve signs,sign,Taurus,/astrology/taurus/,Taureau,/fr/astrologie/taureau/,/astrology/,aries gemini
+1,0,published,"Signs, decans, degrees and Sabian symbols",The twelve signs,sign,Gemini,/astrology/gemini/,Gémeaux,/fr/astrologie/gemeaux/,/astrology/,taurus cancer
+1,0,published,"Signs, decans, degrees and Sabian symbols",The twelve signs,sign,Cancer,/astrology/cancer/,Cancer,/fr/astrologie/cancer/,/astrology/,gemini leo
+1,0,published,"Signs, decans, degrees and Sabian symbols",The twelve signs,sign,Leo,/astrology/leo/,Lion,/fr/astrologie/lion/,/astrology/,cancer virgo
+1,0,published,"Signs, decans, degrees and Sabian symbols",The twelve signs,sign,Virgo,/astrology/virgo/,Vierge,/fr/astrologie/vierge/,/astrology/,leo libra
+1,0,published,"Signs, decans, degrees and Sabian symbols",The twelve signs,sign,Libra,/astrology/libra/,Balance,/fr/astrologie/balance/,/astrology/,virgo scorpio
+1,0,published,"Signs, decans, degrees and Sabian symbols",The twelve signs,sign,Scorpio,/astrology/scorpio/,Scorpion,/fr/astrologie/scorpion/,/astrology/,libra sagittarius
+1,0,published,"Signs, decans, degrees and Sabian symbols",The twelve signs,sign,Sagittarius,/astrology/sagittarius/,Sagittaire,/fr/astrologie/sagittaire/,/astrology/,scorpio capricorn
+1,0,published,"Signs, decans, degrees and Sabian symbols",The twelve signs,sign,Capricorn,/astrology/capricorn/,Capricorne,/fr/astrologie/capricorne/,/astrology/,sagittarius aquarius
+1,0,published,"Signs, decans, degrees and Sabian symbols",The twelve signs,sign,Aquarius,/astrology/aquarius/,Verseau,/fr/astrologie/verseau/,/astrology/,capricorn pisces
+1,0,published,"Signs, decans, degrees and Sabian symbols",The twelve signs,sign,Pisces,/astrology/pisces/,Poissons,/fr/astrologie/poissons/,/astrology/,aquarius
 1,6,planned,"Signs, decans, degrees and Sabian symbols",Sign topics,concept,"Sign dates, and why they move",/astrology/sign-dates-and-why-they-move/,"Dates des signes, et pourquoi elles bougent",/fr/astrologie/dates-des-signes-et-pourquoi-elles-bougent/,/astrology/,born-on-the-cusp
 1,6,planned,"Signs, decans, degrees and Sabian symbols",Sign topics,concept,Born on the cusp,/astrology/born-on-the-cusp/,Né entre deux signes,/fr/astrologie/ne-entre-deux-signes/,/astrology/,sign-dates-and-why-they-move traditional-and-modern-rulers
 1,6,planned,"Signs, decans, degrees and Sabian symbols",Sign topics,concept,Traditional and modern rulers,/astrology/traditional-and-modern-rulers/,Maîtrises traditionnelles et modernes,/fr/astrologie/maitrises-traditionnelles-et-modernes/,/astrology/,born-on-the-cusp fire-signs
@@ -649,18 +649,18 @@ tier,batch,status,family,group,kind,title_en,address_en,title_fr,address_fr,link
 3,,planned,"Signs, decans, degrees and Sabian symbols",The 360 Sabian symbols,sabian,Pisces 29°: the Sabian symbol,/astrology/sabian-symbol-pisces-29/,Poissons 29° : le symbole sabian,/fr/astrologie/symbole-sabian-poissons-29/,pisces,sabian-symbol-pisces-28 sabian-symbol-pisces-30
 3,,planned,"Signs, decans, degrees and Sabian symbols",The 360 Sabian symbols,sabian,Pisces 30°: the Sabian symbol,/astrology/sabian-symbol-pisces-30/,Poissons 30° : le symbole sabian,/fr/astrologie/symbole-sabian-poissons-30/,pisces,sabian-symbol-pisces-29
 3,,planned,"Signs, decans, degrees and Sabian symbols",Twelfth-parts,concept,Dodecatemoria (twelfth-parts),/astrology/dodecatemoria-twelfth-parts/,Dodécatémories,/fr/astrologie/dodecatemories/,/astrology/,
-1,1,planned,Houses and house systems,The twelve houses,house,The 1st house,/astrology/1st-house/,Maison 1,/fr/astrologie/maison-1/,/astrology/,2nd-house
-1,1,planned,Houses and house systems,The twelve houses,house,The 2nd house,/astrology/2nd-house/,Maison 2,/fr/astrologie/maison-2/,/astrology/,1st-house 3rd-house
-1,1,planned,Houses and house systems,The twelve houses,house,The 3rd house,/astrology/3rd-house/,Maison 3,/fr/astrologie/maison-3/,/astrology/,2nd-house 4th-house
-1,1,planned,Houses and house systems,The twelve houses,house,The 4th house,/astrology/4th-house/,Maison 4,/fr/astrologie/maison-4/,/astrology/,3rd-house 5th-house
-1,1,planned,Houses and house systems,The twelve houses,house,The 5th house,/astrology/5th-house/,Maison 5,/fr/astrologie/maison-5/,/astrology/,4th-house 6th-house
-1,1,planned,Houses and house systems,The twelve houses,house,The 6th house,/astrology/6th-house/,Maison 6,/fr/astrologie/maison-6/,/astrology/,5th-house 7th-house
-1,1,planned,Houses and house systems,The twelve houses,house,The 7th house,/astrology/7th-house/,Maison 7,/fr/astrologie/maison-7/,/astrology/,6th-house 8th-house
-1,1,planned,Houses and house systems,The twelve houses,house,The 8th house,/astrology/8th-house/,Maison 8,/fr/astrologie/maison-8/,/astrology/,7th-house 9th-house
-1,1,planned,Houses and house systems,The twelve houses,house,The 9th house,/astrology/9th-house/,Maison 9,/fr/astrologie/maison-9/,/astrology/,8th-house 10th-house
-1,1,planned,Houses and house systems,The twelve houses,house,The 10th house,/astrology/10th-house/,Maison 10,/fr/astrologie/maison-10/,/astrology/,9th-house 11th-house
-1,1,planned,Houses and house systems,The twelve houses,house,The 11th house,/astrology/11th-house/,Maison 11,/fr/astrologie/maison-11/,/astrology/,10th-house 12th-house
-1,1,planned,Houses and house systems,The twelve houses,house,The 12th house,/astrology/12th-house/,Maison 12,/fr/astrologie/maison-12/,/astrology/,11th-house
+1,0,published,Houses and house systems,The twelve houses,house,The 1st house,/astrology/1st-house/,Maison 1,/fr/astrologie/maison-1/,/astrology/,2nd-house
+1,0,published,Houses and house systems,The twelve houses,house,The 2nd house,/astrology/2nd-house/,Maison 2,/fr/astrologie/maison-2/,/astrology/,1st-house 3rd-house
+1,0,published,Houses and house systems,The twelve houses,house,The 3rd house,/astrology/3rd-house/,Maison 3,/fr/astrologie/maison-3/,/astrology/,2nd-house 4th-house
+1,0,published,Houses and house systems,The twelve houses,house,The 4th house,/astrology/4th-house/,Maison 4,/fr/astrologie/maison-4/,/astrology/,3rd-house 5th-house
+1,0,published,Houses and house systems,The twelve houses,house,The 5th house,/astrology/5th-house/,Maison 5,/fr/astrologie/maison-5/,/astrology/,4th-house 6th-house
+1,0,published,Houses and house systems,The twelve houses,house,The 6th house,/astrology/6th-house/,Maison 6,/fr/astrologie/maison-6/,/astrology/,5th-house 7th-house
+1,0,published,Houses and house systems,The twelve houses,house,The 7th house,/astrology/7th-house/,Maison 7,/fr/astrologie/maison-7/,/astrology/,6th-house 8th-house
+1,0,published,Houses and house systems,The twelve houses,house,The 8th house,/astrology/8th-house/,Maison 8,/fr/astrologie/maison-8/,/astrology/,7th-house 9th-house
+1,0,published,Houses and house systems,The twelve houses,house,The 9th house,/astrology/9th-house/,Maison 9,/fr/astrologie/maison-9/,/astrology/,8th-house 10th-house
+1,0,published,Houses and house systems,The twelve houses,house,The 10th house,/astrology/10th-house/,Maison 10,/fr/astrologie/maison-10/,/astrology/,9th-house 11th-house
+1,0,published,Houses and house systems,The twelve houses,house,The 11th house,/astrology/11th-house/,Maison 11,/fr/astrologie/maison-11/,/astrology/,10th-house 12th-house
+1,0,published,Houses and house systems,The twelve houses,house,The 12th house,/astrology/12th-house/,Maison 12,/fr/astrologie/maison-12/,/astrology/,11th-house
 1,6,planned,Houses and house systems,House concepts,concept,"Angular, succedent and cadent houses",/astrology/angular-succedent-and-cadent-houses/,"Maisons angulaires, succédentes et cadentes",/fr/astrologie/maisons-angulaires-succedentes-et-cadentes/,/astrology/,house-cusps
 1,6,planned,Houses and house systems,House concepts,concept,House cusps,/astrology/house-cusps/,Cuspides des maisons,/fr/astrologie/cuspides-des-maisons/,/astrology/,angular-succedent-and-cadent-houses house-rulers
 1,6,planned,Houses and house systems,House concepts,concept,House rulers,/astrology/house-rulers/,Maîtres des maisons,/fr/astrologie/maitres-des-maisons/,/astrology/,house-cusps empty-houses
@@ -685,11 +685,11 @@ tier,batch,status,family,group,kind,title_en,address_en,title_fr,address_fr,link
 3,,planned,Houses and house systems,House systems,concept,Krusinski,/astrology/krusinski/,Krusinski,/fr/astrologie/krusinski/,/astrology/,meridian-axial-houses sripati
 3,,planned,Houses and house systems,House systems,concept,Sripati,/astrology/sripati/,Sripati,/fr/astrologie/sripati/,/astrology/,krusinski houses-at-high-latitudes
 3,,planned,Houses and house systems,House systems,concept,Houses at high latitudes,/astrology/houses-at-high-latitudes/,Maisons aux hautes latitudes,/fr/astrologie/maisons-aux-hautes-latitudes/,/astrology/,sripati
-1,1,planned,Aspects,Major aspects,aspect-type,Conjunction,/astrology/conjunction/,Conjonction,/fr/astrologie/conjonction/,/astrology/,sextile
-1,1,planned,Aspects,Major aspects,aspect-type,Sextile,/astrology/sextile/,Sextile,/fr/astrologie/sextile/,/astrology/,conjunction square
-1,1,planned,Aspects,Major aspects,aspect-type,Square,/astrology/square/,Carré,/fr/astrologie/carre/,/astrology/,sextile trine
-1,1,planned,Aspects,Major aspects,aspect-type,Trine,/astrology/trine/,Trigone,/fr/astrologie/trigone/,/astrology/,square opposition
-1,1,planned,Aspects,Major aspects,aspect-type,Opposition,/astrology/opposition/,Opposition,/fr/astrologie/opposition/,/astrology/,trine
+1,0,published,Aspects,Major aspects,aspect-type,Conjunction,/astrology/conjunction/,Conjonction,/fr/astrologie/conjonction/,/astrology/,sextile
+1,0,published,Aspects,Major aspects,aspect-type,Sextile,/astrology/sextile/,Sextile,/fr/astrologie/sextile/,/astrology/,conjunction square
+1,0,published,Aspects,Major aspects,aspect-type,Square,/astrology/square/,Carré,/fr/astrologie/carre/,/astrology/,sextile trine
+1,0,published,Aspects,Major aspects,aspect-type,Trine,/astrology/trine/,Trigone,/fr/astrologie/trigone/,/astrology/,square opposition
+1,0,published,Aspects,Major aspects,aspect-type,Opposition,/astrology/opposition/,Opposition,/fr/astrologie/opposition/,/astrology/,trine
 2,,planned,Aspects,Minor aspects,aspect-type,Semi-sextile,/astrology/semi-sextile/,Semi-sextile,/fr/astrologie/semi-sextile/,/astrology/,semi-square
 2,,planned,Aspects,Minor aspects,aspect-type,Semi-square,/astrology/semi-square/,Semi-carré,/fr/astrologie/semi-carre/,/astrology/,semi-sextile sesquiquadrate
 2,,planned,Aspects,Minor aspects,aspect-type,Sesquiquadrate,/astrology/sesquiquadrate/,Sesqui-carré,/fr/astrologie/sesqui-carre/,/astrology/,semi-square quincunx

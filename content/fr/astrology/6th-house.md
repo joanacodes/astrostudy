@@ -3,9 +3,8 @@ title: "Maison 6"
 slug: "maison-6"
 h1: "La maison 6 en astrologie"
 description: "La maison 6 en astrologie : le travail quotidien, les habitudes et le soin du corps — chaque planète et chaque signe, son maître et ses transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["maison 6", "maison VI"]
 family: "houses"
 weight: 6

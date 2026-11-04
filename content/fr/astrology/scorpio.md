@@ -3,19 +3,18 @@ title: "Scorpion"
 slug: "scorpion"
 h1: "Le Scorpion en astrologie"
 description: "Le Scorpion en astrologie : le signe de la profondeur, gouverné par Pluton et Mars. Soleil, Lune et ascendant Scorpion, ses planètes et ses cuspides."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "signs"
 weight: 8
 glyph: "♏"
-definition: "Le Scorpion est le huitième signe du zodiaque, un signe d’eau fixe gouverné par Pluton en astrologie moderne et par Mars dans la tradition ; le Soleil le traverse environ du 23 octobre au 21 novembre. Dans un thème natal, il montre où vous allez au fond, tenez bon et préférez la vérité aux apparences."
+definition: "Le Scorpion est le huitième signe du zodiaque, un signe d’eau fixe gouverné par Pluton en astrologie tropicale moderne et par Mars dans la tradition ; le Soleil le traverse environ du 23 octobre au 21 novembre. Dans un thème natal, il montre où vous allez au fond, tenez bon et préférez la vérité aux apparences."
 facts:
   - { k: "Symbole", v: "♏ — le scorpion et son dard" }
   - { k: "Dates (Soleil)", v: "Environ du 23 octobre au 21 novembre" }
   - { k: "Élément", v: "Eau" }
   - { k: "Mode", v: "Fixe" }
-  - { k: "Maître", v: "Pluton (astrologie moderne), Mars (tradition)" }
+  - { k: "Maître", v: "Pluton (astrologie tropicale moderne), Mars (tradition)" }
   - { k: "Exaltation", v: "Aucune planète, dans le schéma classique" }
   - { k: "Exil et chute", v: "Vénus (exil), la Lune (chute)" }
   - { k: "Signe opposé", v: "Taureau" }
@@ -68,7 +67,7 @@ Toutes les planètes traversent le Scorpion, de la Lune, qui y passe environ deu
 - **[Saturne en Scorpion](/astrology/saturn-in-scorpio/) :** un placement partagé par toutes les personnes nées sur environ deux ans et demi : des leçons de confiance et de contrôle, et des limites dans l’intimité posées lentement.
 - **[Uranus en Scorpion](/astrology/uranus-in-scorpio/) :** un placement partagé par toutes les personnes nées sur environ sept ans : des tabous remis en cause, des bouleversements dans ce qu’on garde privé. Sa maison montre où.
 - **[Neptune en Scorpion](/astrology/neptune-in-scorpio/) :** un placement partagé par toutes les personnes nées sur environ quatorze ans : une fascination pour le mystère et pour ce qui est caché. Sa maison la rend personnelle.
-- **[Pluton en Scorpion](/astrology/pluto-in-scorpio/) :** Pluton en domicile selon l’astrologie moderne, un placement partagé par toutes les personnes nées pendant son passage en Scorpion, le plus rapide de tout son tour du zodiaque : l’intensité et la transformation comme toile de fond d’une génération. Sa maison dit où elles se posent.
+- **[Pluton en Scorpion](/astrology/pluto-in-scorpio/) :** Pluton en domicile selon l’astrologie tropicale moderne, un placement partagé par toutes les personnes nées pendant son passage en Scorpion, le plus rapide de tout son tour du zodiaque : l’intensité et la transformation comme toile de fond d’une génération. Sa maison dit où elles se posent.
 
 ## Le Scorpion sur une cuspide {#sur-une-cuspide}
 

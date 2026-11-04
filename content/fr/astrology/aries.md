@@ -3,9 +3,8 @@ title: "Bélier"
 slug: "belier"
 h1: "Le Bélier en astrologie"
 description: "Le Bélier en astrologie : le premier signe, feu cardinal gouverné par Mars — dans un thème natal, ses planètes, sur chaque cuspide et en synastrie."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "signs"
 weight: 1
 glyph: "♈"

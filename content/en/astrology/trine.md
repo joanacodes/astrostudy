@@ -2,9 +2,8 @@
 title: "Trine"
 h1: "The trine in astrology"
 description: "The trine in astrology: two planets 120° apart, in the same element. What this easy aspect means in a birth chart, in synastry and in transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["trine"]
 family: "aspects"
 weight: 4

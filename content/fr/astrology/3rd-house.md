@@ -3,9 +3,8 @@ title: "Maison 3"
 slug: "maison-3"
 h1: "La maison 3 en astrologie"
 description: "La maison 3 en astrologie : les mots du quotidien, l’apprentissage, les frères et sœurs, les voisins — chaque planète et chaque signe, son maître, ses transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["maison 3", "maison III"]
 family: "houses"
 weight: 3

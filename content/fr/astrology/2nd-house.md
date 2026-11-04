@@ -3,9 +3,8 @@ title: "Maison 2"
 slug: "maison-2"
 h1: "La maison 2 en astrologie"
 description: "La maison 2 en astrologie : l’argent, ce que vous possédez et ce qui compte pour vous — chaque planète et chaque signe, son maître et ses transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["maison 2", "maison II"]
 family: "houses"
 weight: 2

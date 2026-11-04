@@ -3,9 +3,8 @@ title: "Descendant"
 slug: "descendant"
 h1: "Le descendant en astrologie"
 description: "Le descendant en astrologie : l’angle des partenaires, le signe sur la cuspide de la maison 7, son maître, synastrie et transits — et ce que disent mes tests."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["descendant", "Descendant"]
 family: "angles"
 weight: 2

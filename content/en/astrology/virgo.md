@@ -2,9 +2,8 @@
 title: "Virgo"
 h1: "Virgo in astrology"
 description: "Virgo in astrology: the mutable earth sign ruled by Mercury — in a birth chart, the planets in Virgo, Virgo on each house cusp and in synastry."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "signs"
 weight: 6
 glyph: "♍"

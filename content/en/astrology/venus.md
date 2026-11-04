@@ -2,9 +2,8 @@
 title: "Venus"
 h1: "Venus in astrology"
 description: "Venus in astrology: what you love and value, in each sign and house, in synastry and when it turns retrograde — and how often it held in my tests."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "planets"
 weight: 4
 glyph: "♀"

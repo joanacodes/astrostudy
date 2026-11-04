@@ -3,9 +3,8 @@ title: "Taureau"
 slug: "taureau"
 h1: "Le Taureau en astrologie"
 description: "Le Taureau en astrologie : le signe de terre fixe gouverné par Vénus — dans un thème natal, ses planètes, sur chaque cuspide et en synastrie."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "signs"
 weight: 2
 glyph: "♉"

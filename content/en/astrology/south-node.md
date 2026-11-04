@@ -2,9 +2,8 @@
 title: "South Node"
 h1: "The South Node in astrology"
 description: "The South Node in astrology: what came easily or early, in each sign and house, in synastry and at the nodal return — and why my notebook has no figure for it."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["South Node"]
 family: "angles"
 weight: 8

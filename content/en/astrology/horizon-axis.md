@@ -2,9 +2,8 @@
 title: "Horizon axis"
 h1: "The horizon axis in astrology"
 description: "The horizon axis in astrology: the Ascendant–Descendant line, the horizon at your birth — self and others, and the visible and hidden halves of a chart."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["horizon axis"]
 family: "angles"
 weight: 5

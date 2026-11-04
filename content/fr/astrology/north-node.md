@@ -3,9 +3,8 @@ title: "Nœud Nord"
 slug: "noeud-nord"
 h1: "Le Nœud Nord en astrologie"
 description: "Le Nœud Nord en astrologie : où l’on grandit, dans chaque signe et maison, en synastrie et au retour nodal — et pourquoi mon carnet ne le chiffre pas."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["Nœud Nord", "nœud Nord"]
 family: "angles"
 weight: 7

@@ -2,9 +2,8 @@
 title: "Meridian axis"
 h1: "The meridian axis in astrology"
 description: "The meridian axis in astrology: the Midheaven–IC line, where the zodiac crossed your meridian at birth — public life, private roots, and what it isn’t."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["meridian axis"]
 family: "angles"
 weight: 6

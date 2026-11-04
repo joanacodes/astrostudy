@@ -36,7 +36,10 @@ jobs:
       HUGO_VERSION: 0.165.0
       WRANGLER_VERSION: 4.151.0
     steps:
+      # the whole history: each article's "Updated" date is its last commit (hugo.toml, enableGitInfo)
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Choose where this build goes
         id: target

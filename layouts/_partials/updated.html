@@ -1,0 +1,4 @@
+{{- /* " · Updated 12 November 2026" on an article changed after the day it was published, in the page's
+       language. The date is the last commit that touched the page (hugo.toml: enableGitInfo, frontmatter
+       lastmod), so an edit shows by itself; a change made the day it was published doesn't count. */ -}}
+{{- if gt (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02") }} · <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ i18n "updatedOn" (dict "date" (.Lastmod | time.Format ":date_long")) }}</time>{{ end -}}

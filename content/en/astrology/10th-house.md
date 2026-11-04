@@ -2,9 +2,8 @@
 title: "The 10th house"
 h1: "The 10th house in astrology"
 description: "The 10th house in astrology: work, standing and reputation, the Midheaven on its cusp — each planet and sign there, its ruler and its transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["10th house", "tenth house"]
 family: "houses"
 weight: 10

@@ -2,9 +2,8 @@
 title: "The 1st house"
 h1: "The 1st house in astrology"
 description: "The 1st house in astrology: the self you lead with, the Ascendant on its cusp, each planet and rising sign there, the chart ruler and its transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["1st house", "first house"]
 family: "houses"
 weight: 1

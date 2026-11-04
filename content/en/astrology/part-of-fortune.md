@@ -2,9 +2,8 @@
 title: "Part of Fortune"
 h1: "The Part of Fortune in astrology"
 description: "The Part of Fortune in astrology: how the lot is calculated by day and by night, why programs disagree, its pair the Part of Spirit, and what it’s read for."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["Part of Fortune", "Lot of Fortune"]
 family: "points"
 weight: 14

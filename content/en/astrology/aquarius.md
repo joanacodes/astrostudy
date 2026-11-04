@@ -2,13 +2,12 @@
 title: "Aquarius"
 h1: "Aquarius in astrology"
 description: "Aquarius in astrology: the water-bearer, ruled by Uranus and Saturn. Aquarius Sun, Moon and rising, the planets in Aquarius, its house cusps and synastry."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "signs"
 weight: 11
 glyph: "♒"
-definition: "Aquarius is the eleventh sign of the zodiac, a fixed air sign ruled by Uranus in modern astrology and by Saturn in the tradition; the Sun crosses it from about 20 January to 18 February. In a birth chart it shows where you think independently, side with the group and want to do things differently."
+definition: "Aquarius is the eleventh sign of the zodiac, a fixed air sign ruled by Uranus in modern tropical astrology and by Saturn in the tradition; the Sun crosses it from about 20 January to 18 February. In a birth chart it shows where you think independently, side with the group and want to do things differently."
 facts:
   - { k: "Symbol", v: "♒ — the water-bearer’s waves" }
   - { k: "Dates", v: "About 20 January – 18 February" }
@@ -65,7 +64,7 @@ Every planet passes through Aquarius, from the Moon in about two and a half days
 - **[Mars in Aquarius](/astrology/mars-in-aquarius/):** drive for causes and for the group; you act against rules that make no sense.
 - **[Jupiter in Aquarius](/astrology/jupiter-in-aquarius/):** growth through networks, friendships and new ideas; a generosity aimed at the many rather than the few.
 - **[Saturn in Aquarius](/astrology/saturn-in-aquarius/):** Saturn at home in the tradition, shared by everyone born over about two and a half years: rules that serve the group, and responsibility in communities.
-- **[Uranus in Aquarius](/astrology/uranus-in-aquarius/):** Uranus at home in modern astrology, shared by everyone born over about seven years: independence and invention. Its house shows where you break new ground.
+- **[Uranus in Aquarius](/astrology/uranus-in-aquarius/):** Uranus at home in modern tropical astrology, shared by everyone born over about seven years: independence and invention. Its house shows where you break new ground.
 - **[Neptune in Aquarius](/astrology/neptune-in-aquarius/):** shared by everyone born over about fourteen years: ideals of a connected, fairer world. Its house makes it personal.
 - **[Pluto in Aquarius](/astrology/pluto-in-aquarius/):** Pluto has only recently entered Aquarius, so everyone born with it is still a child. For adults it's a transit: the house it crosses in your chart is where its slow pressure is felt — weather, not a forecast.
 

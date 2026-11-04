@@ -2,9 +2,8 @@
 title: "Capricorn"
 h1: "Capricorn in astrology"
 description: "Capricorn in astrology: the sea-goat, ruled by Saturn. Capricorn Sun, Moon and rising, the planets in Capricorn, its house cusps and synastry."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "signs"
 weight: 10
 glyph: "♑"

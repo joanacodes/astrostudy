@@ -3,9 +3,8 @@ title: "Capricorne"
 slug: "capricorne"
 h1: "Le Capricorne en astrologie"
 description: "Le Capricorne en astrologie : le signe de la longue ascension, gouverné par Saturne. Soleil, Lune et ascendant Capricorne, ses planètes et ses cuspides."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "signs"
 weight: 10
 glyph: "♑"

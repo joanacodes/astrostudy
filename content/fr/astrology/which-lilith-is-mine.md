@@ -3,9 +3,8 @@ title: "Quelle Lilith est la mienne ?"
 slug: "quelle-lilith-est-la-mienne"
 h1: "Quelle Lilith est la mienne ?"
 description: "Quelle Lilith est la mienne ? Moyenne, vraie, interpolée, Lune sombre, astéroïde 1181 : pourquoi deux applis divergent, comment vérifier, et celle que je lis."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "points"
 weight: 13
 glyph: "⚸"

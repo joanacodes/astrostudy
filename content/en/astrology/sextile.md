@@ -2,9 +2,8 @@
 title: "Sextile"
 h1: "The sextile in astrology"
 description: "The sextile in astrology: two planets 60° apart, two signs away. What this soft aspect means in a birth chart, which pairs make it, in synastry and in transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["sextile"]
 family: "aspects"
 weight: 2

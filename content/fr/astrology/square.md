@@ -3,9 +3,8 @@ title: "Carré"
 slug: "carre"
 h1: "Le carré en astrologie"
 description: "Le carré en astrologie : deux planètes à 90°, à trois signes d’écart. Cet aspect dur dans un thème natal, en synastrie et en transit, lu avec douceur."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["carré"]
 family: "aspects"
 weight: 3

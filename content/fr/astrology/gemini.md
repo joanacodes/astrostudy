@@ -3,9 +3,8 @@ title: "Gémeaux"
 slug: "gemeaux"
 h1: "Les Gémeaux en astrologie"
 description: "Les Gémeaux en astrologie : le signe d’air mutable gouverné par Mercure — dans un thème natal, leurs planètes, sur chaque cuspide et en synastrie."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "signs"
 weight: 3
 glyph: "♊"

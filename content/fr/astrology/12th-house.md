@@ -3,9 +3,8 @@ title: "Maison 12"
 slug: "maison-12"
 h1: "La maison 12 en astrologie"
 description: "La maison 12 en astrologie : solitude, repos et ce qui se vit loin des regards, lus avec douceur — chaque planète et chaque signe, son maître, ses transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["maison 12", "maison XII"]
 family: "houses"
 weight: 12

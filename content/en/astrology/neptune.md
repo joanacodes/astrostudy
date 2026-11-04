@@ -2,9 +2,8 @@
 title: "Neptune"
 h1: "Neptune in astrology"
 description: "Neptune in astrology: the planet of dreams in a birth chart, in each sign and house, in synastry and at the Neptune square — and what held in my tests."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "planets"
 weight: 9
 glyph: "♆"

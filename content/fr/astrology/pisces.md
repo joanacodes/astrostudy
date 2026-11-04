@@ -3,19 +3,18 @@ title: "Poissons"
 slug: "poissons"
 h1: "Les Poissons en astrologie"
 description: "Les Poissons en astrologie : les deux poissons, gouvernés par Neptune et Jupiter. Soleil, Lune et ascendant Poissons, leurs planètes et leurs cuspides."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "signs"
 weight: 12
 glyph: "♓"
-definition: "Les Poissons sont le douzième et dernier signe du zodiaque, un signe d’eau mutable gouverné par Neptune en astrologie moderne et par Jupiter dans la tradition ; le Soleil les traverse environ du 19 février au 20 mars. Dans un thème natal, ils montrent où vos frontières s’adoucissent : où vous imaginez, ressentez et lâchez prise."
+definition: "Les Poissons sont le douzième et dernier signe du zodiaque, un signe d’eau mutable gouverné par Neptune en astrologie tropicale moderne et par Jupiter dans la tradition ; le Soleil les traverse environ du 19 février au 20 mars. Dans un thème natal, ils montrent où vos frontières s’adoucissent : où vous imaginez, ressentez et lâchez prise."
 facts:
   - { k: "Symbole", v: "♓ — deux poissons liés l’un à l’autre" }
   - { k: "Dates (Soleil)", v: "Environ du 19 février au 20 mars" }
   - { k: "Élément", v: "Eau" }
   - { k: "Mode", v: "Mutable" }
-  - { k: "Maître", v: "Neptune (astrologie moderne), Jupiter (tradition)" }
+  - { k: "Maître", v: "Neptune (astrologie tropicale moderne), Jupiter (tradition)" }
   - { k: "Exaltation", v: "Vénus" }
   - { k: "Exil et chute", v: "Mercure (exil et chute)" }
   - { k: "Signe opposé", v: "Vierge" }
@@ -67,7 +66,7 @@ Toutes les planètes traversent les Poissons, de la Lune, qui y passe environ de
 - **[Jupiter en Poissons](/astrology/jupiter-in-pisces/) :** Jupiter en domicile dans la tradition : générosité, foi et compassion à grande échelle.
 - **[Saturne en Poissons](/astrology/saturn-in-pisces/) :** un placement partagé par toutes les personnes nées sur environ deux ans et demi : des limites apprises autour de la compassion, et une structure donnée aux rêves.
 - **[Uranus en Poissons](/astrology/uranus-in-pisces/) :** un placement partagé par toutes les personnes nées sur environ sept ans : des intuitions soudaines, et de nouvelles formes d’art et de foi. Sa maison montre où.
-- **[Neptune en Poissons](/astrology/neptune-in-pisces/) :** Neptune en domicile selon l’astrologie moderne : les frontières entre les gens, l’art et la foi deviennent minces. Toutes les personnes nées avec ce placement sont encore des enfants : je le lirai quand elles seront en âge de le demander.
+- **[Neptune en Poissons](/astrology/neptune-in-pisces/) :** Neptune en domicile selon l’astrologie tropicale moderne : les frontières entre les gens, l’art et la foi deviennent minces. Toutes les personnes nées avec ce placement sont encore des enfants : je le lirai quand elles seront en âge de le demander.
 - **[Pluton en Poissons](/astrology/pluto-in-pisces/) :** aucune personne en vie aujourd’hui n’est née avec ce placement. Le dernier passage de Pluton en Poissons s’est achevé bien avant nous, et le prochain est encore loin.
 
 ## Les Poissons sur une cuspide {#sur-une-cuspide}

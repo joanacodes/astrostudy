@@ -2,9 +2,8 @@
 title: "Which Lilith is mine?"
 h1: "Which Lilith is mine?"
 description: "Which Lilith is mine? Mean, true, interpolated, the Dark Moon, asteroid 1181: why two apps can show two Liliths, how to tell which is yours, and the one I read."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "points"
 weight: 13
 glyph: "⚸"

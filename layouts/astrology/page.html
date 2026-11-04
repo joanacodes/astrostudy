@@ -10,7 +10,7 @@
     <div class="article-head">
       <h1>{{ with .Params.glyph }}{{ partial "glyph.html" . }}{{ end }}{{ .Params.h1 | default .Title | safeHTML }}</h1>
       <div>
-        <p class="article-meta">{{ with $fam }}{{ i18n (printf "fam_%s" .) }} · {{ end }}{{ partial "byline.html" . }}{{ with .Params.reviewed }}{{ i18n "encReviewed" (dict "date" (time.Format ":date_long" .)) }}{{ end }}</p>
+        <p class="article-meta">{{ with $fam }}{{ i18n (printf "fam_%s" .) }} · {{ end }}{{ partial "byline.html" . }}{{ with .Params.reviewed }}{{ i18n "encReviewed" (dict "date" (time.Format ":date_long" .)) }}{{ end }}{{ partial "updated.html" . }}</p>
         {{- with .Params.definition }}
         <aside class="short-answer">
           <p class="label">{{ i18n "encDefinition" }}</p>

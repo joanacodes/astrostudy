@@ -3,9 +3,8 @@ title: "Vierge"
 slug: "vierge"
 h1: "La Vierge en astrologie"
 description: "La Vierge en astrologie : le signe de terre mutable gouverné par Mercure — dans un thème natal, ses planètes, sur chaque cuspide et en synastrie."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "signs"
 weight: 6
 glyph: "♍"

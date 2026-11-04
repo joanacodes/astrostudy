@@ -3,9 +3,8 @@ title: "Sagittaire"
 slug: "sagittaire"
 h1: "Le Sagittaire en astrologie"
 description: "Le Sagittaire en astrologie : l’archer, gouverné par Jupiter. Soleil, Lune et ascendant Sagittaire, ses planètes, ses cuspides et la synastrie."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "signs"
 weight: 9
 glyph: "♐"

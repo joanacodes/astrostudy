@@ -3,9 +3,8 @@ title: "Axe de l’horizon"
 slug: "axe-de-l-horizon"
 h1: "L’axe de l’horizon en astrologie"
 description: "L’axe de l’horizon en astrologie : la ligne ascendant–descendant, l’horizon à votre naissance — soi et les autres, les moitiés visible et cachée du thème."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["axe de l’horizon"]
 family: "angles"
 weight: 5

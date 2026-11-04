@@ -2,9 +2,8 @@
 title: "Leo"
 h1: "Leo in astrology"
 description: "Leo in astrology: the fixed fire sign ruled by the Sun — in a birth chart, the planets in Leo, Leo on each house cusp and Leo in synastry."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "signs"
 weight: 5
 glyph: "♌"

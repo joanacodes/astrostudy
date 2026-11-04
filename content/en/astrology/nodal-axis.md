@@ -2,9 +2,8 @@
 title: "Nodal axis"
 h1: "The nodal axis in astrology"
 description: "The nodal axis in astrology: the North and South Nodes read as one line — why eclipses follow it, its 18.6-year cycle, and the nodes in synastry."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["nodal axis", "lunar nodes"]
 family: "angles"
 weight: 9

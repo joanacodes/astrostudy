@@ -3,19 +3,18 @@ title: "Verseau"
 slug: "verseau"
 h1: "Le Verseau en astrologie"
 description: "Le Verseau en astrologie : un signe d’air, gouverné par Uranus et Saturne. Soleil, Lune et ascendant Verseau, ses planètes, ses cuspides et la synastrie."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "signs"
 weight: 11
 glyph: "♒"
-definition: "Le Verseau est le onzième signe du zodiaque, un signe d’air fixe gouverné par Uranus en astrologie moderne et par Saturne dans la tradition ; le Soleil le traverse environ du 20 janvier au 18 février. Dans un thème natal, il montre où vous pensez par vous-même, choisissez le groupe et voulez faire autrement."
+definition: "Le Verseau est le onzième signe du zodiaque, un signe d’air fixe gouverné par Uranus en astrologie tropicale moderne et par Saturne dans la tradition ; le Soleil le traverse environ du 20 janvier au 18 février. Dans un thème natal, il montre où vous pensez par vous-même, choisissez le groupe et voulez faire autrement."
 facts:
   - { k: "Symbole", v: "♒ — les vagues du porteur d’eau" }
   - { k: "Dates (Soleil)", v: "Environ du 20 janvier au 18 février" }
   - { k: "Élément", v: "Air" }
   - { k: "Mode", v: "Fixe" }
-  - { k: "Maître", v: "Uranus (astrologie moderne), Saturne (tradition)" }
+  - { k: "Maître", v: "Uranus (astrologie tropicale moderne), Saturne (tradition)" }
   - { k: "Exaltation", v: "Aucune planète, dans le schéma classique" }
   - { k: "Exil et chute", v: "Le Soleil (exil)" }
   - { k: "Signe opposé", v: "Lion" }
@@ -66,7 +65,7 @@ Toutes les planètes traversent le Verseau, de la Lune, qui y passe environ deux
 - **[Mars en Verseau](/astrology/mars-in-aquarius/) :** une énergie au service des causes et du groupe ; vous agissez contre les règles qui n’ont pas de sens.
 - **[Jupiter en Verseau](/astrology/jupiter-in-aquarius/) :** on grandit par les réseaux, les amitiés et les idées neuves ; une générosité tournée vers le grand nombre plutôt que vers quelques-uns.
 - **[Saturne en Verseau](/astrology/saturn-in-aquarius/) :** Saturne en domicile dans la tradition, un placement partagé par toutes les personnes nées sur environ deux ans et demi : des règles au service du groupe, et des responsabilités dans les communautés.
-- **[Uranus en Verseau](/astrology/uranus-in-aquarius/) :** Uranus en domicile selon l’astrologie moderne, un placement partagé par toutes les personnes nées sur environ sept ans : l’indépendance et l’invention. Sa maison montre où vous ouvrez des voies nouvelles.
+- **[Uranus en Verseau](/astrology/uranus-in-aquarius/) :** Uranus en domicile selon l’astrologie tropicale moderne, un placement partagé par toutes les personnes nées sur environ sept ans : l’indépendance et l’invention. Sa maison montre où vous ouvrez des voies nouvelles.
 - **[Neptune en Verseau](/astrology/neptune-in-aquarius/) :** un placement partagé par toutes les personnes nées sur environ quatorze ans : l’idéal d’un monde relié et plus juste. Sa maison le rend personnel.
 - **[Pluton en Verseau](/astrology/pluto-in-aquarius/) :** Pluton n’a fait son entrée en Verseau que récemment, si bien que toutes les personnes nées avec ce placement sont encore des enfants. Pour les adultes, c’est un transit : la maison que Pluton traverse dans votre thème est celle où sa lente pression se fait sentir — le temps qu’il fait, pas une prédiction.
 

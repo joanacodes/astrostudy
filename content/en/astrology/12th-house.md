@@ -2,9 +2,8 @@
 title: "The 12th house"
 h1: "The 12th house in astrology"
 description: "The 12th house in astrology: solitude, rest and what's done out of sight, read gently — each planet and sign there, its ruler and its transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["12th house", "twelfth house"]
 family: "houses"
 weight: 12

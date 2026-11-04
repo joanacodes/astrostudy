@@ -2,9 +2,8 @@
 title: "Opposition"
 h1: "The opposition in astrology"
 description: "The opposition in astrology: two planets 180° apart, in opposite signs. What it means in a birth chart, which pairs make it, in synastry and in transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["opposition"]
 family: "aspects"
 weight: 5

@@ -3,9 +3,8 @@ title: "Jupiter"
 slug: "jupiter"
 h1: "Jupiter en astrologie"
 description: "Jupiter en astrologie : la planète de la croissance, dans chaque signe et chaque maison, en synastrie et au retour de Jupiter — et ce qui a tenu dans mes tests."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "planets"
 weight: 6
 glyph: "♃"

@@ -2,9 +2,8 @@
 title: "The 6th house"
 h1: "The 6th house in astrology"
 description: "The 6th house in astrology: daily work, routines and the body's care — each planet and sign there, where its ruler sits, and the transits through it."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["6th house", "sixth house"]
 family: "houses"
 weight: 6

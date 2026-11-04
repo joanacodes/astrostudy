@@ -2,9 +2,8 @@
 title: "Moon"
 h1: "The Moon in astrology"
 description: "The Moon in astrology: your Moon sign in a birth chart, in each sign and house, in synastry and at your lunar return — and what my tests say about it."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["Moon", "Moon sign"]
 family: "planets"
 weight: 2

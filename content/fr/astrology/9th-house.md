@@ -3,9 +3,8 @@ title: "Maison 9"
 slug: "maison-9"
 h1: "La maison 9 en astrologie"
 description: "La maison 9 en astrologie : les voyages, les études, les convictions et la quête de sens — chaque planète et chaque signe, son maître et ses transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["maison 9", "maison IX"]
 family: "houses"
 weight: 9

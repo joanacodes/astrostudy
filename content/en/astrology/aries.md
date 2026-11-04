@@ -2,9 +2,8 @@
 title: "Aries"
 h1: "Aries in astrology"
 description: "Aries in astrology: the first sign, cardinal fire ruled by Mars — in a birth chart, the planets in Aries, Aries on each house cusp and in synastry."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "signs"
 weight: 1
 glyph: "♈"

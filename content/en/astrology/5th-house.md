@@ -2,9 +2,8 @@
 title: "The 5th house"
 h1: "The 5th house in astrology"
 description: "The 5th house in astrology: creativity, pleasure and romance in an adult's life — each planet and sign there, where its ruler sits, and its transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["5th house", "fifth house"]
 family: "houses"
 weight: 5

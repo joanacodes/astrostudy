@@ -3,9 +3,8 @@ title: "Soleil"
 slug: "soleil"
 h1: "Le Soleil en astrologie"
 description: "Le Soleil en astrologie : votre signe solaire, chaque signe et chaque maison, la synastrie, la révolution solaire — et ce qui a tenu dans mes tests."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["Soleil", "signe solaire"]
 family: "planets"
 weight: 1

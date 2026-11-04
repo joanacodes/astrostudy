@@ -2,9 +2,8 @@
 title: "Cancer"
 h1: "Cancer in astrology"
 description: "Cancer in astrology: the cardinal water sign ruled by the Moon — in a birth chart, the planets in Cancer, Cancer on each house cusp and in synastry."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "signs"
 weight: 4
 glyph: "♋"

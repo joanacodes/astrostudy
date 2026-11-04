@@ -3,9 +3,8 @@ title: "Axe du méridien"
 slug: "axe-du-meridien"
 h1: "L’axe du méridien en astrologie"
 description: "L’axe du méridien en astrologie : la ligne Milieu du Ciel–Fond du Ciel, là où le zodiaque croisait votre méridien — vie publique et racines intimes."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["axe du méridien"]
 family: "angles"
 weight: 6

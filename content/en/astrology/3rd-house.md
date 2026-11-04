@@ -2,9 +2,8 @@
 title: "The 3rd house"
 h1: "The 3rd house in astrology"
 description: "The 3rd house in astrology: everyday words, learning, siblings and neighbours — each planet and sign there, where its ruler sits, and its transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["3rd house", "third house"]
 family: "houses"
 weight: 3

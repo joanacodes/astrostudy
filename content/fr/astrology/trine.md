@@ -3,9 +3,8 @@ title: "Trigone"
 slug: "trigone"
 h1: "Le trigone en astrologie"
 description: "Le trigone en astrologie : deux planètes à 120°, dans le même élément. Ce que cet aspect facile veut dire dans un thème natal, en synastrie et en transit."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["trigone"]
 family: "aspects"
 weight: 4

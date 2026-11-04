@@ -3,9 +3,8 @@ title: "Mercure"
 slug: "mercure"
 h1: "Mercure en astrologie"
 description: "Mercure en astrologie : votre façon de penser et de parler, dans chaque signe et chaque maison, en synastrie, rétrograde — et ce qui a tenu dans mes tests."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "planets"
 weight: 3
 glyph: "☿"

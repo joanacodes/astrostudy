@@ -2,9 +2,8 @@
 title: "Midheaven"
 h1: "The Midheaven in astrology"
 description: "The Midheaven (MC) in astrology: your direction in public life, the sign on your 10th house cusp, its ruler, synastry, transits — and what my tests say."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["Midheaven", "MC"]
 family: "angles"
 weight: 3

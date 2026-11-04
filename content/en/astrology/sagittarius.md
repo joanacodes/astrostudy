@@ -2,9 +2,8 @@
 title: "Sagittarius"
 h1: "Sagittarius in astrology"
 description: "Sagittarius in astrology: the archer, ruled by Jupiter. Sagittarius Sun, Moon and rising, the planets in Sagittarius, its house cusps and synastry."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "signs"
 weight: 9
 glyph: "♐"

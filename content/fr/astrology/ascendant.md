@@ -3,9 +3,8 @@ title: "Ascendant"
 slug: "ascendant"
 h1: "L’ascendant en astrologie"
 description: "L’ascendant en astrologie : votre signe ascendant, le maître du thème, les 12 ascendants, la synastrie et les transits — et ce qui a tenu dans mes tests."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["ascendant", "Ascendant"]
 family: "angles"
 weight: 1

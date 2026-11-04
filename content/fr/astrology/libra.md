@@ -3,9 +3,8 @@ title: "Balance"
 slug: "balance"
 h1: "La Balance en astrologie"
 description: "La Balance en astrologie : le signe de la justesse, gouverné par Vénus. Soleil, Lune et ascendant Balance, ses planètes, ses cuspides et la synastrie."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "signs"
 weight: 7
 glyph: "♎"

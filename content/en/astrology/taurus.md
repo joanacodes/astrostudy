@@ -2,9 +2,8 @@
 title: "Taurus"
 h1: "Taurus in astrology"
 description: "Taurus in astrology: the fixed earth sign ruled by Venus — in a birth chart, the planets in Taurus, Taurus on each house cusp and in synastry."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "signs"
 weight: 2
 glyph: "♉"

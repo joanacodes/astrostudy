@@ -3,9 +3,8 @@ title: "Milieu du Ciel"
 slug: "milieu-du-ciel"
 h1: "Le Milieu du Ciel en astrologie"
 description: "Le Milieu du Ciel (MC) en astrologie : votre cap dans la vie publique, son signe, son maître, la synastrie, les transits — et ce que disent mes tests."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["Milieu du Ciel", "milieu du ciel", "MC"]
 family: "angles"
 weight: 3

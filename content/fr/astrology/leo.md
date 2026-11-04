@@ -3,9 +3,8 @@ title: "Lion"
 slug: "lion"
 h1: "Le Lion en astrologie"
 description: "Le Lion en astrologie : le signe de feu fixe gouverné par le Soleil — dans un thème natal, ses planètes, sur chaque cuspide et en synastrie."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "signs"
 weight: 5
 glyph: "♌"

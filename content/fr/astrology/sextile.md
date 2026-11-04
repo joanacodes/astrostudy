@@ -3,9 +3,8 @@ title: "Sextile"
 slug: "sextile"
 h1: "Le sextile en astrologie"
 description: "Le sextile en astrologie : deux planètes à 60°, à deux signes d’écart. Son sens dans un thème natal, les paires clés, la synastrie et les transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["sextile"]
 family: "aspects"
 weight: 2

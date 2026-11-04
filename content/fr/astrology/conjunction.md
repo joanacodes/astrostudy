@@ -3,9 +3,8 @@ title: "Conjonction"
 slug: "conjonction"
 h1: "La conjonction en astrologie"
 description: "La conjonction en astrologie : deux planètes au même degré, qui n’en font qu’une. Son sens dans un thème natal, les paires clés, la synastrie, les transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["conjonction"]
 family: "aspects"
 weight: 1

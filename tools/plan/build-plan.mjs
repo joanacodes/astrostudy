@@ -6,7 +6,7 @@
 //
 //   node tools/plan/build-plan.mjs        → plan/pages.json and plan/pages.csv, and the counts
 
-import { writeFile } from 'node:fs/promises';
+import { readFile, writeFile } from 'node:fs/promises';
 import { families, bodies, signs, aspects } from './master-list.mjs';
 
 const slug = (s, lang) => {
@@ -263,6 +263,14 @@ for (const p of pages) {
   for (const id of [...p.up, ...p.across]) {
     if (!hubs.has(id) && !byId.has(id)) throw new Error(`${p.id} links to ${id}, which isn't in the plan`);
   }
+}
+
+// 3b. an encyclopaedia entry is published when its English page is in content/ and isn't a draft: the plan
+//     follows what is written, so approving an entry is one edit, in the entry itself
+for (const p of pages) {
+  if (p.section !== 'astrology' || p.status === 'published') continue;
+  const text = await readFile(new URL(`../../content/en/astrology/${p.slug}.md`, import.meta.url), 'utf8').catch(() => null);
+  if (text !== null && !/^draft: true$/m.test(text)) p.status = 'published';
 }
 
 // 4. the writing order of tier 1, as in the master list

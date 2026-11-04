@@ -2,9 +2,8 @@
 title: "Imum Coeli"
 h1: "The Imum Coeli (IC) in astrology"
 description: "The IC (Imum Coeli) in astrology: your roots, the sign on your 4th house cusp, its ruler, synastry and transits — and what my tests can say."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["Imum Coeli", "IC"]
 family: "angles"
 weight: 4

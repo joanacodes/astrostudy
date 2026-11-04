@@ -3,9 +3,8 @@ title: "Maison 8"
 slug: "maison-8"
 h1: "La maison 8 en astrologie"
 description: "La maison 8 en astrologie : l’intimité, la confiance, ce qui se partage et ce qui se doit — chaque planète et chaque signe, son maître et ses transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["maison 8", "maison VIII"]
 family: "houses"
 weight: 8

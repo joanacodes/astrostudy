@@ -10,6 +10,12 @@ timeZone = "Europe/London"
 # RSS is kept for the blog alone (its _index.md asks for it): Pinterest and feed readers take new articles
 # from there. Every other page has no feed.
 disableKinds = ["taxonomy", "term"]
+# An article's "Updated" date is the day of the last commit that changed it (a lastmod written in the page
+# wins): editing an article is enough, nobody has to remember to date it. The deploy checks out the whole
+# history for this (.github/workflows/deploy.yml, fetch-depth 0).
+enableGitInfo = true
+[frontmatter]
+  lastmod = ["lastmod", ":git", "date"]
 
 # English is the main site, at the root. French lives under /fr/: the same pages, French addresses
 # (/fr/theme-natal/, /fr/synastrie/collegues/…). A page and its translation share a file name.

@@ -2,9 +2,8 @@
 title: "Ascendant"
 h1: "The Ascendant in astrology"
 description: "The Ascendant in astrology: your rising sign, the chart ruler, the 12 rising signs, synastry and transits — and how often it held in my tests."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["Ascendant", "rising sign"]
 family: "angles"
 weight: 1

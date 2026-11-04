@@ -2,9 +2,8 @@
 title: "Sun"
 h1: "The Sun in astrology"
 description: "The Sun in astrology: your Sun sign in a birth chart, in each sign and house, in synastry and at your solar return — and how often it held in my tests."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["Sun", "Sun sign"]
 family: "planets"
 weight: 1

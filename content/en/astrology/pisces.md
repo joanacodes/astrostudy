@@ -2,13 +2,12 @@
 title: "Pisces"
 h1: "Pisces in astrology"
 description: "Pisces in astrology: the two fish, ruled by Neptune and Jupiter. Pisces Sun, Moon and rising, the planets in Pisces, its house cusps and synastry."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "signs"
 weight: 12
 glyph: "♓"
-definition: "Pisces is the twelfth and last sign of the zodiac, a mutable water sign ruled by Neptune in modern astrology and by Jupiter in the tradition; the Sun crosses it from about 19 February to 20 March. In a birth chart it shows where your edges soften: where you imagine, empathise and let go."
+definition: "Pisces is the twelfth and last sign of the zodiac, a mutable water sign ruled by Neptune in modern tropical astrology and by Jupiter in the tradition; the Sun crosses it from about 19 February to 20 March. In a birth chart it shows where your edges soften: where you imagine, empathise and let go."
 facts:
   - { k: "Symbol", v: "♓ — two fish, tied together" }
   - { k: "Dates", v: "About 19 February – 20 March" }
@@ -66,7 +65,7 @@ Every planet passes through Pisces, from the Moon in about two and a half days t
 - **[Jupiter in Pisces](/astrology/jupiter-in-pisces/):** Jupiter at home in the tradition: generosity, faith and compassion on a large scale.
 - **[Saturn in Pisces](/astrology/saturn-in-pisces/):** shared by everyone born over about two and a half years: boundaries learned around compassion, and structure given to dreams.
 - **[Uranus in Pisces](/astrology/uranus-in-pisces/):** shared by everyone born over about seven years: sudden insight, and new forms of art and belief. Its house shows where.
-- **[Neptune in Pisces](/astrology/neptune-in-pisces/):** Neptune at home in modern astrology: the edges between people, art and belief grow thin. Everyone born with it is still a child, so I'll read it when they're old enough to ask.
+- **[Neptune in Pisces](/astrology/neptune-in-pisces/):** Neptune at home in modern tropical astrology: the edges between people, art and belief grow thin. Everyone born with it is still a child, so I'll read it when they're old enough to ask.
 - **[Pluto in Pisces](/astrology/pluto-in-pisces/):** no one alive today was born with it. Pluto's last passage through Pisces ended long before any of us arrived, and its next is still years away.
 
 ## Pisces on a house cusp {#on-a-house-cusp}

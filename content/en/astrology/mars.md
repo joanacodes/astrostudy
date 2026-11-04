@@ -2,9 +2,8 @@
 title: "Mars"
 h1: "Mars in astrology"
 description: "Mars in astrology: your drive, desire and anger, in each sign and house, in synastry and when it turns retrograde — and what my tests say about it."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "planets"
 weight: 5
 glyph: "♂"

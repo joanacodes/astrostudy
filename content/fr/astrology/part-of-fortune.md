@@ -3,9 +3,8 @@ title: "Part de Fortune"
 slug: "part-de-fortune"
 h1: "La Part de Fortune en astrologie"
 description: "La Part de Fortune en astrologie : son calcul de jour et de nuit, pourquoi les logiciels divergent, sa paire la Part de l’Esprit, et ce qu’on y lit."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["Part de Fortune", "part de Fortune"]
 family: "points"
 weight: 14

@@ -3,9 +3,8 @@ title: "Neptune"
 slug: "neptune"
 h1: "Neptune en astrologie"
 description: "Neptune en astrologie : la planète des rêves, dans chaque signe et chaque maison, en synastrie et au carré de Neptune — et ce qui a tenu dans mes tests."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "planets"
 weight: 9
 glyph: "♆"

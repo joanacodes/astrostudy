@@ -3,9 +3,8 @@ title: "Mars"
 slug: "mars"
 h1: "Mars en astrologie"
 description: "Mars en astrologie : votre élan, votre désir et votre colère, dans chaque signe et chaque maison, en synastrie, rétrograde — et ce qu’en disent mes tests."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "planets"
 weight: 5
 glyph: "♂"

@@ -2,9 +2,8 @@
 title: "Square"
 h1: "The square in astrology"
 description: "The square in astrology: two planets 90° apart, three signs away. What this hard aspect means in a birth chart, in synastry and in transits, read gently."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["square"]
 family: "aspects"
 weight: 3

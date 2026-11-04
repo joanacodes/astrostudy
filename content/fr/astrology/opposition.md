@@ -3,9 +3,8 @@ title: "Opposition"
 slug: "opposition"
 h1: "L’opposition en astrologie"
 description: "L’opposition en astrologie : deux planètes à 180°, dans des signes opposés. Son sens dans un thème natal, les paires clés, la synastrie et les transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["opposition"]
 family: "aspects"
 weight: 5

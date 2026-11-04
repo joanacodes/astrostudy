@@ -3,9 +3,8 @@ title: "Nœud Sud"
 slug: "noeud-sud"
 h1: "Le Nœud Sud en astrologie"
 description: "Le Nœud Sud en astrologie : le terrain connu, dans chaque signe et maison, en synastrie et au retour nodal — et pourquoi mon carnet ne le chiffre pas."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["Nœud Sud", "nœud Sud"]
 family: "angles"
 weight: 8

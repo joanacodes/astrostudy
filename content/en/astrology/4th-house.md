@@ -2,9 +2,8 @@
 title: "The 4th house"
 h1: "The 4th house in astrology"
 description: "The 4th house in astrology: home, roots and family, read gently — the IC on its cusp, each planet and sign there, its ruler and the transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["4th house", "fourth house"]
 family: "houses"
 weight: 4

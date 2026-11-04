@@ -3,9 +3,8 @@ title: "Maison 10"
 slug: "maison-10"
 h1: "La maison 10 en astrologie"
 description: "La maison 10 en astrologie : travail, place et réputation, le Milieu du Ciel sur sa cuspide — chaque planète et chaque signe, son maître et ses transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["maison 10", "maison X"]
 family: "houses"
 weight: 10

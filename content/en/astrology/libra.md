@@ -2,9 +2,8 @@
 title: "Libra"
 h1: "Libra in astrology"
 description: "Libra in astrology: the sign of the scales, ruled by Venus. Libra Sun, Moon and rising, the planets in Libra, Libra on each house cusp, and synastry."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "signs"
 weight: 7
 glyph: "♎"

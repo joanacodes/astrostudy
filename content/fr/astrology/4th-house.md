@@ -3,9 +3,8 @@ title: "Maison 4"
 slug: "maison-4"
 h1: "La maison 4 en astrologie"
 description: "La maison 4 en astrologie : le foyer, les racines et la famille, lus avec douceur — le Fond du Ciel, chaque planète et chaque signe, son maître, ses transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["maison 4", "maison IV"]
 family: "houses"
 weight: 4

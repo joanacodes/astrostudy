@@ -3,9 +3,8 @@ title: "Lune"
 slug: "lune"
 h1: "La Lune en astrologie"
 description: "La Lune en astrologie : votre signe lunaire, chaque signe et chaque maison, la synastrie, la révolution lunaire — et ce qu’en disent mes tests."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["Lune", "signe lunaire"]
 family: "planets"
 weight: 2

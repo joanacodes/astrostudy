@@ -3,9 +3,8 @@ title: "Maison 5"
 slug: "maison-5"
 h1: "La maison 5 en astrologie"
 description: "La maison 5 en astrologie : la créativité, le plaisir et les amours dans une vie d’adulte — chaque planète et chaque signe, son maître et ses transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["maison 5", "maison V"]
 family: "houses"
 weight: 5

@@ -2,9 +2,8 @@
 title: "The 2nd house"
 h1: "The 2nd house in astrology"
 description: "The 2nd house in astrology: money, possessions and what you value — each planet and sign there, where its ruler sits, and the transits through it."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["2nd house", "second house"]
 family: "houses"
 weight: 2

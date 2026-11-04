@@ -3,9 +3,8 @@ title: "Fond du Ciel"
 slug: "fond-du-ciel"
 h1: "Le Fond du Ciel en astrologie"
 description: "Le Fond du Ciel (FC) en astrologie : vos racines, le signe sur la cuspide de la maison 4, son maître, la synastrie, les transits — et ce que disent mes tests."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["Fond du Ciel", "fond du ciel", "FC"]
 family: "angles"
 weight: 4

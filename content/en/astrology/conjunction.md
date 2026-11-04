@@ -2,9 +2,8 @@
 title: "Conjunction"
 h1: "The conjunction in astrology"
 description: "The conjunction in astrology: two planets at the same degree, acting as one. What it means in a birth chart, which pairs matter, in synastry and in transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["conjunction", "conjunct"]
 family: "aspects"
 weight: 1

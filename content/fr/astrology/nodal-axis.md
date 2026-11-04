@@ -3,9 +3,8 @@ title: "Axe des nœuds"
 slug: "axe-des-noeuds"
 h1: "L’axe des nœuds en astrologie"
 description: "L’axe des nœuds en astrologie : les nœuds Nord et Sud lus comme une seule ligne, les éclipses, le cycle de 18,6 ans et les nœuds en synastrie."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["axe des nœuds", "nœuds lunaires"]
 family: "angles"
 weight: 9

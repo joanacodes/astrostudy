@@ -2,9 +2,8 @@
 title: "Jupiter"
 h1: "Jupiter in astrology"
 description: "Jupiter in astrology: the planet of growth in a birth chart, in each sign and house, in synastry and at the Jupiter return — and what held in my tests."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 family: "planets"
 weight: 6
 glyph: "♃"

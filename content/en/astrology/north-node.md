@@ -2,9 +2,8 @@
 title: "North Node"
 h1: "The North Node in astrology"
 description: "The North Node in astrology: the direction you grow in, in each sign and house, in synastry and at the nodal return — and why my notebook has no figure for it."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["North Node"]
 family: "angles"
 weight: 7

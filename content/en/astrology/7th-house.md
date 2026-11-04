@@ -2,9 +2,8 @@
 title: "The 7th house"
 h1: "The 7th house in astrology"
 description: "The 7th house in astrology: partners and one-to-one bonds, the Descendant on its cusp, each planet and sign there, its ruler and its transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["7th house", "seventh house"]
 family: "houses"
 weight: 7

@@ -3,9 +3,8 @@ title: "Maison 7"
 slug: "maison-7"
 h1: "La maison 7 en astrologie"
 description: "La maison 7 en astrologie : partenaires et liens en tête-à-tête, le descendant sur sa cuspide, chaque planète et chaque signe, son maître et ses transits."
-date: 2026-10-29
+date: 2026-11-04
 reviewed: 2026-10-29
-draft: true
 terms: ["maison 7", "maison VII"]
 family: "houses"
 weight: 7
