@@ -36,7 +36,7 @@ The Snow moon is February's full moon, under a name that comes from almanacs and
 
 ## What it is {#what-it-is}
 
-Each month the Moon comes round to face the Sun, and for a night it shows its whole lit side: the [full moon](/astrology/full-moon/). Almanacs give each of the year's full moons a name, and February's is the Snow moon, between the [Wolf moon](/astrology/wolf-moon/) of January and the [Worm moon](/astrology/worm-moon/) of March. These are its next dates, in Universal Time, with the Moon's sign and degree:
+Each month the Moon comes round to face the Sun, and for a night it shows its whole lit side: the [full moon](/astrology/full-moon/). Almanacs give each of the year's full moons a name, and February's is the Snow moon, between the [Wolf moon](/astrology/wolf-moon/) of January and the [Worm moon](/astrology/worm-moon/) of March. These are its dates from 2026 to 2030, in Universal Time, with the Moon's sign and degree:
 
 - **2026:** 1 February, 22:09 UT, at 13°04′ Leo
 - **2027:** 20 February, 23:24 UT, at 2°05′ Virgo, on the night of a penumbral lunar eclipse

@@ -36,7 +36,7 @@ La Lune rose est le nom que les almanachs donnent à la pleine lune d’avril, e
 
 ## Ce que c’est {#ce-que-c-est}
 
-Entre la [Lune des vers](/astrology/worm-moon/) de mars et la [Lune des fleurs](/astrology/flower-moon/) de mai, la [pleine lune](/astrology/full-moon/) d’avril se lève face à un Soleil en Bélier ou au début du Taureau. Ses dates pour les années à venir, en temps universel (TU) :
+Entre la [Lune des vers](/astrology/worm-moon/) de mars et la [Lune des fleurs](/astrology/flower-moon/) de mai, la [pleine lune](/astrology/full-moon/) d’avril se lève face à un Soleil en Bélier ou au début du Taureau. Ses dates de 2026 à 2030, en temps universel (TU) :
 
 - **2026 :** 2 avril, 2 h 12 TU, à 12°21′ Balance
 - **2027 :** 20 avril, 22 h 27 TU, à 0°37′ Scorpion

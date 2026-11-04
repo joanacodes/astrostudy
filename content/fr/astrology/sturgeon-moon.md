@@ -37,7 +37,7 @@ La pleine lune d’août doit son nom d’almanach à un poisson des Grands Lacs
 
 ## Ce que c’est {#ce-que-c-est}
 
-La [pleine lune](/astrology/full-moon/) d’août ferme l’été des almanachs : la [Lune du cerf](/astrology/buck-moon/) la précède, la [Lune des moissons](/astrology/harvest-moon/) la suit. Ses prochaines dates, en temps universel (TU) :
+La [pleine lune](/astrology/full-moon/) d’août ferme l’été des almanachs : la [Lune du cerf](/astrology/buck-moon/) la précède, la [Lune des moissons](/astrology/harvest-moon/) la suit. Ses dates de 2026 à 2030, en temps universel (TU) :
 
 - **2026 :** 28 août, 4 h 19 TU, à 4°54′ Poissons, une éclipse partielle de Lune
 - **2027 :** 17 août, 7 h 29 TU, à 24°12′ Verseau, une éclipse de Lune par la pénombre

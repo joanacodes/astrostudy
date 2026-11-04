@@ -36,7 +36,7 @@ The Buck moon is the full moon of July, named for the bucks' new antlers in the 
 
 ## What it is {#what-it-is}
 
-Halfway through the almanacs' summer, after the [Strawberry moon](/astrology/strawberry-moon/) and before the [Sturgeon moon](/astrology/sturgeon-moon/), the July [full moon](/astrology/full-moon/) faces a Sun in Cancer or Leo. In Universal Time, the next Buck moons fall on:
+Halfway through the almanacs' summer, after the [Strawberry moon](/astrology/strawberry-moon/) and before the [Sturgeon moon](/astrology/sturgeon-moon/), the July [full moon](/astrology/full-moon/) faces a Sun in Cancer or Leo. In Universal Time, the Buck moons of 2026 to 2030 fall on:
 
 - **2026:** 29 July, 14:36 UT, at 6°30′ Aquarius
 - **2027:** 18 July, 15:45 UT, at 25°49′ Capricorn, a penumbral lunar eclipse

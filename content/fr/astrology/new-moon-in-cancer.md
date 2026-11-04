@@ -37,9 +37,9 @@ Une fois par an, la Lune s’éteint dans son propre signe : c’est la nouvell
 
 ## Ce qu’elle apporte {#ce-qu-elle-apporte}
 
-Chaque mois, la Lune rattrape le Soleil, et pendant un instant tous deux se tiennent au même degré : c’est la [nouvelle lune](/astrology/new-moon/), le but et le besoin qui partent ensemble. En [Cancer](/astrology/cancer/), cet endroit est le domicile de la Lune, le signe qu’elle gouverne, où la tradition dit qu’elle agit le plus comme elle-même. Le Cancer est d’eau et cardinal : il commence les choses par le sentiment et le soin plutôt que par l’argument, et protège ce qu’il commence. Une nouvelle lune ici tend à tourner l’attention vers ce et ceux qui vous donnent le sentiment d’être chez vous.
+Chaque mois, la Lune rattrape le Soleil, et tous deux se tiennent un instant au même degré : c’est la [nouvelle lune](/astrology/new-moon/), le but et le besoin qui partent ensemble. En [Cancer](/astrology/cancer/), ce degré se trouve dans le domicile de la Lune, le signe qu’elle gouverne, où la tradition dit qu’elle agit le plus comme elle-même. Le Cancer est d’eau et cardinal : il commence les choses par le sentiment et le soin plutôt que par l’argument, et protège ce qu’il commence. Ici, une nouvelle lune tourne l’attention vers ce et ceux qui vous font vous sentir chez vous.
 
-En temps universel (TU), les prochaines :
+En temps universel (TU), de 2026 à 2030 :
 
 - **2026 :** 14 juillet, 9 h 44 TU, à 21°59′ Cancer
 - **2027 :** 4 juillet, 3 h 02 TU, à 11°57′ Cancer
@@ -47,7 +47,7 @@ En temps universel (TU), les prochaines :
 - **2029 :** 11 juillet, 15 h 51 TU, à 19°38′ Cancer, une éclipse solaire partielle
 - **2030 :** 30 juin, 21 h 35 TU, à 9°09′ Cancer
 
-2028 en compte deux. Le Soleil met environ 31 jours à traverser le Cancer, plus qu’un mois lunaire, et la première nouvelle lune en Cancer de cette année-là tombe environ deux jours après son entrée dans le signe, ce qui laisse la place à une seconde dans son tout dernier degré. Celle-ci, et la nouvelle lune de juillet 2029, sont des éclipses de Soleil, parce que le Nœud Sud de la Lune se trouve en Cancer ces années-là ([éclipse en Cancer](/astrology/eclipse-in-cancer/)).
+En 2028, il y en a deux : le Soleil met environ 31 jours à traverser le Cancer, plus qu’un mois lunaire, et la première tombe environ deux jours après son entrée dans le signe, ce qui laisse la place à une seconde dans son tout dernier degré. Celle-ci, et la nouvelle lune de juillet 2029, sont des éclipses de Soleil, parce que le Nœud Sud de la Lune se trouve en Cancer ces années-là ([éclipse en Cancer](/astrology/eclipse-in-cancer/)).
 
 Les éclipses élargissent la portée. Une année ordinaire, je n’accorde à une nouvelle lune en Cancer qu’un degré de part et d’autre d’une planète ou d’un angle natal, et seulement quand un transit ou une progression travaille déjà ce point. L’éclipse du 22 juillet 2028 porte à environ trois degrés, jusqu’à tout ce qui se trouve vers 29° du Cancer ou du Capricorne ; la partielle du 11 juillet 2029, jusqu’à 19° ou 20° de l’un ou l’autre signe. Lue à travers ce point et sa maison, chacune est un accent ; aucune n’est un présage ([éclipses solaires](/astrology/solar-eclipses/)).
 

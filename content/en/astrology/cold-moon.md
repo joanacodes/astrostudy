@@ -36,7 +36,7 @@ December's full moon goes by the Cold moon in the almanacs, for the month when w
 
 ## What it is {#what-it-is}
 
-December's [full moon](/astrology/full-moon/) closes the almanacs' year, after the [Beaver moon](/astrology/beaver-moon/) of November; the [Wolf moon](/astrology/wolf-moon/) of January opens the next. In Universal Time, they fall on:
+In the almanacs' calendar this [full moon](/astrology/full-moon/) closes the year, after the [Beaver moon](/astrology/beaver-moon/) of November; the [Wolf moon](/astrology/wolf-moon/) of January opens the next. In Universal Time, they fall on:
 
 - **2026:** 24 December, 01:28 UT, at 2°14′ Cancer
 - **2027:** 13 December, 16:09 UT, at 21°25′ Gemini
@@ -62,7 +62,7 @@ The rule is the month's: the full moon that falls in December is the Cold moon, 
 
 The frost isn't part of your chart, and Cold moon isn't an astrological name: it comes from folklore and the almanacs. The full moon behind it is what I read: the [full moon in Gemini](/astrology/full-moon-in-gemini/), with the Sun in Sagittarius, in most of these years, or the [full moon in Cancer](/astrology/full-moon-in-cancer/), with the Sun in Capricorn, in 2026 and on 31 December 2028. In Cancer the Moon is in its own sign, where tradition gives it its domicile, with the Sun across the way in Capricorn.
 
-On an ordinary December night, a full moon earns a place in a reading only with contact, a planet or angle within a degree of either end of its axis, and with a reason already in place, a transit or a progression on the same point, before I say anything about it. The eclipsed Cold moons of 2028 and 2029 count within about three degrees of a natal point, and the penumbral one of 2030 counts for less. I read each of them through the point it reaches and that point's house: emphasis, never an omen, and certainly not a forecast for the coming year.
+On an ordinary December night, a full moon earns a place in a reading only through contact: a planet or angle within a degree of either end of its axis, with a transit or a progression already at work on the same point. The eclipsed Cold moons of 2028 and 2029 count within about three degrees of a natal point, and the penumbral one of 2030 counts for less. I read each of them through the point it reaches and that point's house: emphasis, never an omen, and certainly not a forecast for the coming year.
 
 The house matters most, and it needs your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 

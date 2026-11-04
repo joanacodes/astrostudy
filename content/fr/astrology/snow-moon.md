@@ -37,7 +37,7 @@ La Lune des neiges, c’est la pleine lune de février, sous un nom venu des alm
 
 ## Ce que c’est {#ce-que-c-est}
 
-Chaque mois, la Lune vient se placer face au Soleil et, le temps d’une nuit, montre toute sa face éclairée : c’est la [pleine lune](/astrology/full-moon/). Les almanachs nomment chaque pleine lune de l’année, et celle de février est la Lune des neiges, entre la [Lune du loup](/astrology/wolf-moon/) de janvier et la [Lune des vers](/astrology/worm-moon/) de mars. Voici ses prochaines dates, en temps universel (TU), avec le signe et le degré de la Lune :
+Chaque mois, la Lune vient se placer face au Soleil et, le temps d’une nuit, montre toute sa face éclairée : c’est la [pleine lune](/astrology/full-moon/). Les almanachs nomment chaque pleine lune de l’année, et celle de février est la Lune des neiges, entre la [Lune du loup](/astrology/wolf-moon/) de janvier et la [Lune des vers](/astrology/worm-moon/) de mars. Voici ses dates de 2026 à 2030, en temps universel (TU), avec le signe et le degré de la Lune :
 
 - **2026 :** 1er février, 22 h 09 TU, à 13°04′ Lion
 - **2027 :** 20 février, 23 h 24 TU, à 2°05′ Vierge, la nuit d’une éclipse lunaire par la pénombre
@@ -47,7 +47,7 @@ Chaque mois, la Lune vient se placer face au Soleil et, le temps d’une nuit, m
 
 Le temps universel est l’heure d’hiver de Londres. En février, Paris a une heure d’avance, Montréal cinq de retard ; en Asie comme en Australie, une pleine lune tardive tombe déjà le lendemain.
 
-Deux signes seulement l’accueillent. Une pleine lune place la Lune en face du Soleil, et le Soleil quitte le Verseau pour les Poissons vers le 19 février : la Lune des neiges tombe donc en Lion quand elle arrive tôt dans le mois, en Vierge quand elle arrive tard. Celle de 2030, à 29°38′ du Lion, frôle la Vierge.
+Deux signes seulement l’accueillent. Une pleine lune place la Lune en face du Soleil, et le Soleil quitte le Verseau pour les Poissons vers le 19 février : la Lune des neiges tombe donc en Lion quand elle arrive tôt dans le mois, en Vierge quand elle arrive tard.
 
 En 2027, elle passe aussi assez près d’un nœud lunaire pour que l’ombre de la Terre l’atteigne : une éclipse par la pénombre, la plus discrète, où la Lune traverse la partie pâle de l’ombre et ne s’assombrit qu’un peu (les [éclipses lunaires](/astrology/lunar-eclipses/) en décrivent les trois sortes).
 

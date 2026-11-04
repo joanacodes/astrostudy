@@ -37,7 +37,7 @@ Dans les almanachs, la pleine lune de décembre s’appelle la Lune froide, pour
 
 ## Ce que c’est {#ce-que-c-est}
 
-La [pleine lune](/astrology/full-moon/) de décembre ferme l’année des almanachs, après la [Lune du castor](/astrology/beaver-moon/) de novembre ; la [Lune du loup](/astrology/wolf-moon/) de janvier ouvre la suivante. En temps universel (TU), elles tombent :
+Dans le calendrier des almanachs, cette [pleine lune](/astrology/full-moon/) ferme l’année, après la [Lune du castor](/astrology/beaver-moon/) de novembre ; la [Lune du loup](/astrology/wolf-moon/) de janvier ouvre la suivante. En temps universel (TU), elles tombent :
 
 - **2026 :** 24 décembre, 1 h 28 TU, à 2°14′ Cancer
 - **2027 :** 13 décembre, 16 h 09 TU, à 21°25′ Gémeaux
@@ -63,7 +63,7 @@ La règle est celle du mois : la pleine lune qui tombe en décembre est la Lune
 
 Le gel ne fait pas partie de votre thème, et la Lune froide n’est pas un nom d’astrologie : il vient du folklore et des almanachs. Je lis la pleine lune qui se cache derrière : la [pleine lune en Gémeaux](/astrology/full-moon-in-gemini/), le Soleil en Sagittaire, la plupart de ces années, ou la [pleine lune en Cancer](/astrology/full-moon-in-cancer/), le Soleil en Capricorne, en 2026 et le 31 décembre 2028. En Cancer, la Lune est dans son propre signe, son domicile pour la tradition, avec le Soleil en face en Capricorne.
 
-Une nuit de décembre ordinaire, une pleine lune ne gagne sa place dans une lecture que par un contact, une planète ou un angle à moins d’un degré de l’un des bouts de son axe, et avec une raison déjà en place, un transit ou une progression sur le même point, avant d’en dire quoi que ce soit. Les Lunes froides éclipsées de 2028 et 2029 comptent à environ trois degrés d’un point natal, et celle de 2030, par la pénombre, compte moins. Je lis chacune à travers le point qu’elle atteint et la maison de ce point : un accent, jamais un présage, et encore moins une prévision pour l’année qui vient.
+Une nuit de décembre ordinaire, une pleine lune ne gagne sa place dans une lecture que par un contact : une planète ou un angle à moins d’un degré de l’un des bouts de son axe, avec un transit ou une progression déjà à l’œuvre sur le même point. Les Lunes froides éclipsées de 2028 et 2029 comptent à environ trois degrés d’un point natal, et celle de 2030, par la pénombre, compte moins. Je lis chacune à travers le point qu’elle atteint et la maison de ce point : un accent, jamais un présage, et encore moins une prévision pour l’année qui vient.
 
 La maison compte le plus, et elle demande votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

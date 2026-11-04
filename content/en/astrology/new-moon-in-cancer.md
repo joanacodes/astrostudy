@@ -36,9 +36,9 @@ Once a year the Moon goes dark in its own sign: the new moon in Cancer, the Sun 
 
 ## What it brings {#what-it-brings}
 
-Each month the Moon catches up with the Sun, and for a moment the two stand at the same degree: a [new moon](/astrology/new-moon/), purpose and need starting out together. In [Cancer](/astrology/cancer/), that place is the Moon's domicile: the sign it rules, where tradition says it works most like itself. Cancer is water and cardinal. It starts things through feeling and care rather than argument, and it protects what it starts. A new moon here tends to turn attention to who and what makes you feel at home.
+Each month the Moon catches up with the Sun, and for a moment the two stand at the same degree: a [new moon](/astrology/new-moon/), purpose and need starting out together. In [Cancer](/astrology/cancer/), that degree lies in the Moon's domicile: the sign it rules, where tradition says it works most like itself. Cancer is water and cardinal. It starts things through feeling and care rather than argument, and it protects what it starts. A new moon here tends to turn attention to who and what makes you feel at home.
 
-In Universal Time, the coming ones:
+In Universal Time, from 2026 to 2030:
 
 - **2026:** 14 July, 09:44 UT, at 21°59′ Cancer
 - **2027:** 4 July, 03:02 UT, at 11°57′ Cancer

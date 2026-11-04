@@ -37,7 +37,7 @@ La Lune du cerf est la pleine lune de juillet, nommée pour les nouveaux bois de
 
 ## Ce que c’est {#ce-que-c-est}
 
-Au milieu de l’été des almanachs, après la [Lune des fraises](/astrology/strawberry-moon/) et avant la [Lune de l’esturgeon](/astrology/sturgeon-moon/), la [pleine lune](/astrology/full-moon/) de juillet fait face à un Soleil en Cancer ou en Lion. En temps universel (TU), les prochaines Lunes du cerf tombent :
+Au milieu de l’été des almanachs, après la [Lune des fraises](/astrology/strawberry-moon/) et avant la [Lune de l’esturgeon](/astrology/sturgeon-moon/), la [pleine lune](/astrology/full-moon/) de juillet fait face à un Soleil en Cancer ou en Lion. En temps universel (TU), les Lunes du cerf de 2026 à 2030 tombent :
 
 - **2026 :** 29 juillet, 14 h 36 TU, à 6°30′ Verseau
 - **2027 :** 18 juillet, 15 h 45 TU, à 25°49′ Capricorne, une éclipse de Lune par la pénombre

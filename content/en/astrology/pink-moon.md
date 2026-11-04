@@ -35,7 +35,7 @@ The Pink moon is the name almanacs give April's full moon, and it comes from a f
 
 ## What it is {#what-it-is}
 
-Between the [Worm moon](/astrology/worm-moon/) of March and the [Flower moon](/astrology/flower-moon/) of May, April's [full moon](/astrology/full-moon/) rises opposite a Sun in Aries or early Taurus. Its dates over the next few years, in Universal Time:
+Between the [Worm moon](/astrology/worm-moon/) of March and the [Flower moon](/astrology/flower-moon/) of May, April's [full moon](/astrology/full-moon/) rises opposite a Sun in Aries or early Taurus. Its dates from 2026 to 2030, in Universal Time:
 
 - **2026:** 2 April, 02:12 UT, at 12°21′ Libra
 - **2027:** 20 April, 22:27 UT, at 0°37′ Scorpio

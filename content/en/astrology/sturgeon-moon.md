@@ -36,7 +36,7 @@ August's full moon takes its almanac name from a fish of the Great Lakes, the st
 
 ## What it is {#what-it-is}
 
-August's [full moon](/astrology/full-moon/) closes the almanacs' summer: the [Buck moon](/astrology/buck-moon/) comes before it, the [Harvest moon](/astrology/harvest-moon/) after. The next dates, in Universal Time:
+August's [full moon](/astrology/full-moon/) closes the almanacs' summer: the [Buck moon](/astrology/buck-moon/) comes before it, the [Harvest moon](/astrology/harvest-moon/) after. Its dates from 2026 to 2030, in Universal Time:
 
 - **2026:** 28 August, 04:19 UT, at 4°54′ Pisces, a partial lunar eclipse
 - **2027:** 17 August, 07:29 UT, at 24°12′ Aquarius, a penumbral lunar eclipse
