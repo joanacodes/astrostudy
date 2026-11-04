@@ -8,7 +8,7 @@ terms: ["first quarter"]
 family: "moon"
 weight: 10
 glyph: "◐"
-definition: "The first quarter moon is the moment, about a week after the new moon, when the Moon is 90° ahead of the Sun and half its disc is lit. It is called a quarter because the Moon has gone a quarter of the way round its cycle. In a birth chart it is the waxing Sun–Moon square: friction that tends to push outward."
+definition: "The first quarter moon is the moment, about a week after the new moon, when the Moon is 90° ahead of the Sun and half its disc is lit. The name counts the cycle, a quarter gone, not the shape. In a birth chart it is the waxing Sun–Moon square: friction that tends to push outward."
 facts:
   - { k: "Symbol", v: "◐ — a half-lit disc" }
   - { k: "What it is", v: "The Moon 90° ahead of the Sun" }

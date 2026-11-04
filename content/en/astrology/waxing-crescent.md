@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "moon"
 weight: 9
 glyph: "☽"
-definition: "The waxing crescent is the Moon between the new moon and the first quarter: a thin, growing sliver, less than half lit, seen in the west after sunset. In the sky it lasts about a week; in Dane Rudhyar’s eight phases, the crescent phase is the Moon 45° to 90° ahead of the Sun. I read a crescent birth as needs beginning to strike out."
+definition: "The waxing crescent is the Moon between the new moon and the first quarter: a thin, growing sliver seen in the west after sunset. In the sky it lasts about a week; in Rudhyar’s eight phases, the crescent is the Moon 45° to 90° ahead of the Sun. I read a crescent birth as needs beginning to strike out."
 facts:
   - { k: "Symbol", v: "☽ — a crescent" }
   - { k: "In the sky", v: "From the new moon to the first quarter: less than half lit, and growing" }

@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/waxing-crescent", "/astrology/full-moon", "/astrology/sun-conjunct-moon", "/astrology/solar-eclipses", "/sky/moon-calendar"]
 faq:
   - q: "What does the new moon mean in astrology?"
-    a: "It is the moment the Moon catches up with the Sun, both at the same degree, and a new lunar cycle begins. Astrologers read it as the starting point of the month’s rhythm. I read it as a marker rather than a message: it counts in a chart only when it falls on a point that something slower is already working on."
+    a: "It is the moment the Moon catches up with the Sun, both at the same degree, and a new lunar cycle begins. Astrologers read it as the starting point of the month’s rhythm. I read it as a marker, not a message: it counts only on a point of your chart that something slower is already working on."
   - q: "Why can’t you see the new moon?"
     a: "Because the Moon is then between us and the Sun, with its sunlit side facing away from Earth, and it rises and sets with the Sun, lost in daylight. The thin crescent you may see low in the west a day or two later is the Moon already moving away: the waxing crescent."
   - q: "What does it mean to be born at a new moon?"
