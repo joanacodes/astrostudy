@@ -24,7 +24,7 @@ faq:
   - q: "What do I need to calculate my birth chart?"
     a: "Your date, time and place of birth. The date gives the planets’ signs; the time and place give the rising sign and the houses, which shift every few minutes. Check the time against your birth record if you can: a time rounded to the hour can move the rising sign."
   - q: "Can a birth chart be read without a birth time?"
-    a: "Partly, but I don’t do it. Without the time, the rising sign and the houses are unknown, the Moon’s sign may be uncertain, and a reading would rest on the half of the chart that’s left. I’d rather wait for the time than present a guess as a fact."
+    a: "Not by me. Without the time, the rising sign and the houses are unknown, and on some days the Moon’s sign too, so too much of the chart is missing. There’s always a birth time, or no reading. If you don’t know yours, your birth record is the first place to look."
   - q: "Does a birth chart change over time?"
     a: "No. It’s fixed at the minute of birth. What changes is the sky that keeps moving over it: astrologers read those movements, transits and progressions among them, against the birth chart, which stays the reference point for a whole life."
 sources:

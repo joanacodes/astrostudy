@@ -25,7 +25,7 @@ faq:
   - q: "Que faut-il pour calculer son thème natal ?"
     a: "La date, l’heure et le lieu de naissance. La date donne le signe des planètes ; l’heure et le lieu donnent l’ascendant et les maisons, qui se déplacent en quelques minutes. Vérifiez l’heure sur votre acte de naissance si vous le pouvez : une heure arrondie peut changer l’ascendant."
   - q: "Peut-on lire un thème natal sans l’heure de naissance ?"
-    a: "En partie, mais je ne le fais pas. Sans l’heure, l’ascendant et les maisons restent inconnus, le signe de la Lune peut être incertain, et une lecture reposerait sur la moitié du thème qui reste. Je préfère attendre l’heure plutôt que présenter une supposition comme un fait."
+    a: "Pas par moi. Sans l’heure, l’ascendant et les maisons restent inconnus, et certains jours le signe de la Lune aussi : il manque trop de choses au thème. Il y a toujours une heure de naissance, ou pas de lecture. Si vous ne connaissez pas la vôtre, commencez par votre acte de naissance."
   - q: "Le thème natal change-t-il avec le temps ?"
     a: "Non. Il est fixé à la minute de la naissance. Ce qui change, c’est le ciel qui continue de tourner au-dessus de lui : les astrologues lisent ces mouvements, dont les transits et les progressions, par rapport au thème natal, qui reste le point de référence de toute une vie."
 sources:

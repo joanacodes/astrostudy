@@ -26,7 +26,7 @@ faq:
   - q: "Pourquoi parle-t-on de signes cardinaux ?"
     a: "Parce qu’ils se trouvent aux quatre points de bascule de l’année. Le Soleil entre dans le Bélier et la Balance aux équinoxes, dans le Cancer et le Capricorne aux solstices : dans le zodiaque tropical, chaque signe cardinal ouvre une saison. Cardinal vient du latin cardo, le gond : l’année tourne sur ces quatre-là."
   - q: "Quelle est ma modalité ?"
-    a: "Regardez le signe de chaque planète de votre thème, pas seulement celui du Soleil. Comptez combien se trouvent en signes cardinaux, fixes et mutables, et ajoutez l’ascendant si vous connaissez votre heure de naissance. Une nette dominante dit quelque chose de votre rythme ; une répartition égale veut dire que vous pouvez puiser dans les trois."
+    a: "Regardez le signe de chaque planète de votre thème, pas seulement celui du Soleil, et celui de l’ascendant, qui demande votre heure de naissance. Comptez combien se trouvent en signes cardinaux, fixes et mutables. Une nette dominante dit quelque chose de votre rythme ; une répartition égale veut dire que vous pouvez puiser dans les trois."
   - q: "Les signes fixes sont-ils têtus, et les mutables inconstants ?"
     a: "Ce sont les clichés. Les signes fixes tiennent bon, aux gens, aux projets, à ce qu’ils ont jugé important, ce qu’on appelle aussi la fidélité. Les signes mutables s’adaptent, ce qu’on appelle aussi la souplesse. Chaque modalité a sa force et sa façon d’en faire trop, et le reste du thème décide laquelle se montre."
 sources:

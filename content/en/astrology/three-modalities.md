@@ -25,7 +25,7 @@ faq:
   - q: "Why are cardinal signs called cardinal?"
     a: "Because they sit at the four turning points of the year. The Sun enters Aries and Libra at the equinoxes, Cancer and Capricorn at the solstices, so in the tropical zodiac each cardinal sign opens a season. Cardinal comes from the Latin cardo, a hinge: the year turns on these four."
   - q: "What is my modality?"
-    a: "Look at the sign of each planet in your chart, not just the Sun’s. Count how many sit in cardinal, fixed and mutable signs, and add the Ascendant if you know your birth time. A clear lean towards one modality says something about your rhythm; an even spread means you have all three to draw on."
+    a: "Look at the sign of each planet in your chart, not just the Sun’s, and at the Ascendant, which needs your birth time. Count how many sit in cardinal, fixed and mutable signs. A clear lean towards one modality says something about your rhythm; an even spread means you have all three to draw on."
   - q: "Are fixed signs stubborn and mutable signs unreliable?"
     a: "Those are the clichés. Fixed signs hold on, to people, to plans, to what they’ve decided matters, which is also called loyalty. Mutable signs adapt, which is also called flexibility. Every modality has a strength and a way of overdoing it, and the rest of the chart decides which one shows."
 sources:
