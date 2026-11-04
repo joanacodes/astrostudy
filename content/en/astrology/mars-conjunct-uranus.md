@@ -40,7 +40,7 @@ Its lesson is direction. Freedom to act is one thing and knowing what the change
 
 ## In a birth chart {#in-a-birth-chart}
 
-The sign colours the meeting: in Aries, Mars's own sign, the push is direct and quick; in Aquarius, Uranus's sign in modern tropical astrology, the effort tends to serve ideas, groups and systems. The house shows where you insist on your own way of doing things: in the 6th, how you work day to day; in the 10th, how you go about a career. Houses need a birth time; the conjunction doesn't, since Mars moves too little in a day to change it much ([What changes without a birth time](/blog/unknown-birth-time/)).
+The sign colours the meeting: in Aries, Mars's own sign, the push is direct and quick; in Aquarius, Uranus's sign in modern tropical astrology, the effort tends to serve ideas, groups and systems. The house shows where you insist on your own way of doing things: in the 6th, how you work day to day; in the 10th, how you go about a career. The houses depend on your birth time; the conjunction barely does, since Mars moves too little in a day to change it much ([What changes without a birth time](/blog/unknown-birth-time/)).
 
 With an orb of 6°, about 1 person in 28 is born with this conjunction. Within a degree or two, the need to act in your own way is hard to miss; towards 6°, it shows more when a routine starts to feel like a cage.
 

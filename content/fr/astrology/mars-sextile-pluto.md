@@ -49,7 +49,7 @@ Mars forme ce sextile deux fois par cycle de deux ans avec Pluton, pour quelques
 Le sextile parmi les autres aspects Mars–Pluton :
 
 - **[Mars conjonction Pluton](/astrology/mars-conjunct-pluto/) :** l’élan et la profondeur fondus d’une seule poussée, là où le sextile les garde partenaires.
-- **[Mars carré Pluton](/astrology/mars-square-pluto/) :** la même intensité à angle droit, apprise par la friction plutôt que choisie.
+- **[Mars carré Pluton](/astrology/mars-square-pluto/) :** la même intensité qui rencontre une résistance, apprise par la friction plutôt que choisie.
 - **[Mars trigone Pluton](/astrology/mars-trine-pluto/) :** un flux d’endurance plus ample et plus constant, dans un même élément.
 - **[Mars opposition Pluton](/astrology/mars-opposite-pluto/) :** l’intensité rencontrée de l’autre côté du thème, souvent d’abord chez quelqu’un d’autre.
 

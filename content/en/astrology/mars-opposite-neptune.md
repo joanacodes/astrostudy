@@ -31,7 +31,7 @@ Mars opposite Neptune sets the part of you that acts across from the part that i
 
 ## What it means {#what-it-means}
 
-[Mars](/astrology/mars/) is assertion and effort: the drive to start, to compete and to defend your ground. [Neptune](/astrology/neptune/) enables imagination, compassion and transcendence, and dissolves boundaries that aren't needed. An [opposition](/astrology/opposition/) makes them a polarity: each keeps its identity, and the tension between them depends on how you hold it.
+[Mars](/astrology/mars/) is assertion and effort: the drive to start, to compete and to defend your ground. [Neptune](/astrology/neptune/) is the part that imagines and feels with others: compassion, transcendence, a sense of what lies beyond the self. An [opposition](/astrology/opposition/) makes them a polarity: each keeps its identity, and the tension between them depends on how you hold it.
 
 In plain words, your energy may be pulled towards other people's needs, causes or visions, sometimes before you've worked out what you want yourself. Partners or groups can seem to carry the dream while you carry the effort, or the other way round. A plain no can feel unkind, and a cause more urgent than your own plans. None of that is weakness. The opposition teaches a balance that is genuinely hard and genuinely valuable: acting for others by choice, with your own wants still in view.
 
@@ -43,7 +43,7 @@ Opposite signs mirror each other ([polarity](/astrology/polarity/)), and the axi
 
 Within 6° of exact, about 1 person in 33 has this opposition. Close to exact, the balance between will and ideal is central to how you relate; at the wide end, it shows when a cause or a person asks a lot of you.
 
-Mars, the quick one, forms the opposition once in each two-year cycle with Neptune, for a few weeks of births, while Neptune stays some fourteen years in a sign. Because this aspect so often plays out with other people, I'll repeat what I say of any contact between two lives: a synastry is read with both people's consent, never behind anyone's back ([Synastry and consent](/blog/synastry-behind-their-back/)).
+Neptune lingers some fourteen years in a sign, and Mars crosses the opposite point once in each two-year cycle, so only a few weeks of births share the aspect each time. Because this aspect so often plays out with other people, I'll repeat what I say of any contact between two lives: a synastry is read with both people's consent, never behind anyone's back ([Synastry and consent](/blog/synastry-behind-their-back/)).
 
 How the opposition differs from the pair's other aspects:
 

@@ -48,7 +48,7 @@ Mars forms this sextile twice in each two-year cycle with Pluto, for a few weeks
 Next to the pair's other aspects:
 
 - **[Mars conjunct Pluto](/astrology/mars-conjunct-pluto/):** drive and depth fused in one push, where the sextile keeps them as partners.
-- **[Mars square Pluto](/astrology/mars-square-pluto/):** the same intensity at a right angle, learned through friction rather than taken up by choice.
+- **[Mars square Pluto](/astrology/mars-square-pluto/):** the same intensity meeting resistance, learned through friction rather than taken up by choice.
 - **[Mars trine Pluto](/astrology/mars-trine-pluto/):** a fuller, more constant flow of staying power, in one element.
 - **[Mars opposite Pluto](/astrology/mars-opposite-pluto/):** intensity met across the chart, often in someone else first.
 

@@ -31,7 +31,7 @@ Mars opposite Pluto stretches a line across the chart from your own drive to the
 
 ## What it means {#what-it-means}
 
-[Mars](/astrology/mars/) is the part of you that asserts and acts: initiative, effort, competition, holding your ground. [Pluto](/astrology/pluto/) transforms and regenerates: it eliminates what's obsolete, renews, and supports empowerment. In an [opposition](/astrology/opposition/) the two face each other as a polarity, and the tension between them depends on context, not on fate.
+[Mars](/astrology/mars/) is the part of you that asserts and acts: initiative, effort, competition, holding your ground. [Pluto](/astrology/pluto/) brings transformation: the end of what has outlived its use, renewal, and a deeper kind of empowerment. In an [opposition](/astrology/opposition/) the two face each other as a polarity, and the tension between them depends on context, not on fate.
 
 In plain words, you may meet power in other people before you meet it in yourself: partners, bosses or rivals whose intensity is hard to ignore, situations where everything seems to be at stake. You might respond by pushing back hard, or by giving way and resenting it. Neither is a failing. The opposition is showing you both ends of a force that is partly yours, and asking you to find a middle: firm where it matters, flexible where it doesn't.
 

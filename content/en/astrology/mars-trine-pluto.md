@@ -31,7 +31,7 @@ Mars trine Pluto lets drive and depth run on the same current. The two share an 
 
 ## What it means {#what-it-means}
 
-[Mars](/astrology/mars/) is effort that goes somewhere: initiative, assertion, the energy to compete and to finish. [Pluto](/astrology/pluto/) transforms and regenerates: it clears out what's obsolete, renews what remains, and supports real empowerment. Through a [trine](/astrology/trine/) they flow together and reinforce each other: Mars gives Pluto's depth a way to act, and Pluto gives Mars's effort a second wind.
+[Mars](/astrology/mars/) is effort that goes somewhere: initiative, assertion, the energy to compete and to finish. [Pluto](/astrology/pluto/) is the capacity to renew from the root: clearing out what's obsolete, regenerating what remains, growing into real power. Through a [trine](/astrology/trine/) they flow together and reinforce each other: Mars gives Pluto's depth a way to act, and Pluto gives Mars's effort a second wind.
 
 In plain words, you can go the distance. When something matters, you find reserves others don't expect, and you tend to come back from setbacks with more rather than less. Change doesn't frighten you much: you can strip a habit or a project back and rebuild it without drama. People may find you calm under pressure; you may simply experience it as knowing you'll get through.
 
