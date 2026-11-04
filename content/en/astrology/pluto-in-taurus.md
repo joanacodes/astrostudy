@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 110
 glyph: "♇♉"
-definition: "Pluto in Taurus is the planet of deep change in fixed earth, the sign ruled by Venus, and Pluto’s detriment in modern tropical astrology. Births from 1851 to 1884 have it, as will births from 2095 to 2129, but none from 1930 to 2009. It describes a slow, thorough transformation of what a generation owns and values."
+definition: "Pluto in Taurus is Pluto in detriment in modern tropical astrology: deep change in fixed earth, the sign Venus rules. Births from 1851 to 1884 have it, as will births from 2095 to 2129, but none from 1930 to 2009. It describes a slow, thorough transformation of what a generation owns and values."
 facts:
   - { k: "Body", v: "Pluto ♇" }
   - { k: "Sign", v: "Taurus ♉, ruled by Venus" }
@@ -34,13 +34,13 @@ Taurus is where Pluto slows down the most: its last stay ran for more than thirt
 
 [Pluto](/astrology/pluto/) transforms: it lets what is worn out go, so that something sturdier can grow back. [Taurus](/astrology/taurus/), fixed earth ruled by Venus, keeps, steadies and savours; whatever sits in it works slowly and wants results it can touch. In Taurus, Pluto's renewal happens the way soil renews itself, by breaking old matter down until it feeds the next season. What gets transformed is the ground under a life: possessions, the body, the sense of what is worth having.
 
-Modern tropical astrology gives Pluto Scorpio as its home, and Taurus is the sign opposite, so this is Pluto's [detriment](/astrology/detriment/). Tradition, which never knew Pluto, says nothing either way. I don't read detriment as weakness. It describes a planet working against the grain of its sign: Pluto wants to finish things, Taurus wants to keep them, and the two settle on a slow pace. [Venus](/astrology/venus/), the ruler of Taurus, then shows by sign and house what a generation's sense of value becomes in one life.
+Modern tropical astrology gives Pluto Scorpio as its home, and Taurus is the sign opposite, so this is Pluto's [detriment](/astrology/detriment/). Tradition, which never knew Pluto, says nothing either way. I don't read detriment as weakness. It describes a planet working against the grain of its sign: Pluto wants to finish things, Taurus wants to keep them, and the two settle on a slow pace. [Venus](/astrology/venus/) rules Taurus, and in a chart with this Pluto I ask what Venus enjoys and where: the answer usually shows which pleasures and possessions a person will defend, and which they can let go.
 
-Pluto was in Taurus from May 1851 to April 1884, and will be again from June 2095 to March 2129. Nobody born between 1930 and 2009 has it, and no one alive today was born with it. The dates are wide because Pluto moves slowest when it is farthest from the Sun, in the stretch of its orbit that lies in Taurus; in Scorpio, opposite, it hurries. The edges are shared: May 1851 to February 1853 with [Pluto in Aries](/astrology/pluto-in-aries/), July 1882 to April 1884 with [Pluto in Gemini](/astrology/pluto-in-gemini/), and for a birth in those months only the chart decides. A sign shared by more than thirty years of births says little about one person on its own. Pluto's house says far more, which is why I wait for a [birth time](/blog/unknown-birth-time/).
+Pluto was in Taurus from May 1851 to April 1884, and will be again from June 2095 to March 2129. Nobody born between 1930 and 2009 has it, and no one alive today was born with it. The dates are wide because Pluto moves slowest when it is farthest from the Sun, in the stretch of its orbit that lies in Taurus; in Scorpio, opposite, it hurries. The edges are shared: May 1851 to February 1853 with [Pluto in Aries](/astrology/pluto-in-aries/), July 1882 to April 1884 with [Pluto in Gemini](/astrology/pluto-in-gemini/), and for a birth in those months only the chart decides. A stay that long can give the sign to parents and their children alike, so Pluto's house says far more about any one of them, which is why I wait for a [birth time](/blog/unknown-birth-time/).
 
 ## In close relationships {#in-close-relationships}
 
-In a chart with Pluto in Taurus, love proves itself over years. Bonds are physical, loyal and slow to change shape, and when they do change, they tend to change completely, the way a field looks the same for months and then is suddenly green. Touch, food, shared comfort and a home built together carry deep feeling. The tender point is possession: the wish to keep a person the way one keeps a treasured thing. The relationship that suits this placement has room for steadiness and for growth at once, so that holding on never has to mean holding back.
+Pluto in Taurus lets love prove itself over years. Bonds are physical, loyal and slow to change shape, and when they do change, they tend to change completely, the way a field looks the same for months and then is suddenly green. Touch, food, shared comfort and a home built together carry deep feeling. The tender point is possession: the wish to keep a person the way one keeps a treasured thing. The relationship that suits this placement has room for steadiness and for growth at once, so that holding on never has to mean holding back.
 
 ## At work {#at-work}
 
@@ -48,7 +48,7 @@ At work, this Pluto leans towards whatever lasts: land, building, craft, materia
 
 ## The hard part {#the-hard-part}
 
-The hard part is holding on after something has stopped feeding you. Pluto in Taurus can keep a job, a house, a habit or a grudge long past its season, because letting go feels like losing ground. Change resisted for years can then arrive all at once, more of an upheaval than it needed to be. Possessiveness, of people as much as things, grows from the same root: a fear that security, once lost, never comes back. That fear is worth naming gently. It is old, and it is not the truth.
+Holding on after something has stopped feeding you is the difficulty here. Pluto in Taurus can keep a job, a house, a habit or a grudge long past its season, because letting go feels like losing ground. Change resisted for years can then arrive all at once, more of an upheaval than it needed to be. Possessiveness, of people as much as things, grows from the same root: a fear that security, once lost, never comes back. That fear is worth naming gently. It is old, and it is not the truth.
 
 ## What helps {#what-helps}
 

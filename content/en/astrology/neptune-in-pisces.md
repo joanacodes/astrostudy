@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/neptune", "/astrology/pisces", "/astrology/jupiter", "/astrology/domicile", "/astrology/childrens-charts"]
 faq:
   - q: "What does Neptune in Pisces mean?"
-    a: "Neptune in its own sign, in modern tropical astrology: imagination, compassion and a sense that everything is connected, with the edges between people, art and belief growing thin. It belongs to the generation born from 2011 to early 2026. I read it as that generation’s placement, never as a reading of any one child."
+    a: "Neptune in its own sign, in modern tropical astrology: imagination, compassion and the feeling that nothing stands entirely apart, with the edges between people, art and belief growing thin. It belongs to the generation born from 2011 to early 2026. I read it as that generation’s placement, never as a reading of any one child."
   - q: "Who was born with Neptune in Pisces?"
     a: "Everyone born from April 2011 to January 2026, with the border months shared: until February 2012 Neptune was crossing back and forth with Aquarius, and from March 2025 with Aries. The stay before that ran from 1847 to 1862, so no adult alive today has Neptune in Pisces."
   - q: "Who rules Pisces, Neptune or Jupiter?"
@@ -34,7 +34,7 @@ Neptune in Pisces is Neptune at home, as modern tropical astrology sees it, and 
 
 ## In a birth chart {#in-a-birth-chart}
 
-In [Pisces](/astrology/pisces/), mutable water, [Neptune](/astrology/neptune/) has nothing to translate. Sign and planet speak the same language: imagination, compassion, the feeling that everything is connected to everything else. Modern tropical astrology calls this Neptune's [domicile](/astrology/domicile/), its home. The edges between people soften, art and belief run into each other, and feeling for others comes before argument. Because the sign is mutable, the dream doesn't harden into a doctrine. It keeps moving, the way water finds its level.
+In [Pisces](/astrology/pisces/), mutable water, [Neptune](/astrology/neptune/) has nothing to translate. Sign and planet speak the same language: imagination, compassion, the feeling that nothing stands entirely apart. Modern tropical astrology calls this Neptune's [domicile](/astrology/domicile/), its home. The edges between people soften, art and belief run into each other, and feeling for others comes before argument. Because the sign is mutable, the dream doesn't harden into a doctrine. It keeps moving, the way water finds its level.
 
 Pisces has two rulers, and I read both. In the modern scheme Neptune rules it, so this Neptune answers to no other planet. The tradition, which never knew Neptune, gave Pisces to [Jupiter](/astrology/jupiter/), and Jupiter keeps a say: where it sits in a chart shows how such open-ended compassion might grow into something lived, with a shape and a direction.
 

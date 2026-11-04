@@ -31,27 +31,27 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "l’angle que rapporte mon carnet, et les trois qui se sont détachés" }
 ---
-Le Nœud Nord en Lion vous demande de sortir de la foule à laquelle vous savez si bien appartenir. Le [Nœud Nord](/astrology/north-node/) se trouvait en [Lion](/astrology/leo/) à votre naissance, et la croissance qu’il décrit est personnelle et chaleureuse : vous laisser voir, et faire quelque chose qui ne pouvait venir que de vous.
+Vous savez peut-être très bien vous fondre dans une foule ; le Nœud Nord en Lion parle d’en sortir. Avec le [Nœud Nord](/astrology/north-node/) en [Lion](/astrology/leo/) à votre naissance, la croissance est personnelle et chaleureuse : vous laisser voir, et faire quelque chose qui ne pouvait venir que de vous.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le Lion est un feu fixe, une chaleur durable plutôt qu’une étincelle. De l’autre côté du thème, le [Nœud Sud](/astrology/south-node/) en [Verseau](/astrology/aquarius/) est le terrain que vous connaissez : l’amitié, l’équité, la tête froide, une cause plus grande que chacun. C’est peut-être parmi d’autres que vous êtes le plus à l’aise, utile et un peu anonyme. Le bout Lion demande ce qui, vu de là, paraît le plus exposé : vous tenir là où l’on peut vous voir, et dire *c’est moi qui l’ai fait*.
+Le feu du Lion est fixe : une chaleur durable plutôt qu’une étincelle. De l’autre côté du thème, le [Nœud Sud](/astrology/south-node/) en [Verseau](/astrology/aquarius/) est le terrain que vous connaissez : l’amitié, l’équité, la tête froide, une cause plus grande que chacun. C’est peut-être parmi d’autres que vous êtes le plus à l’aise, utile et un peu anonyme. Le bout Lion demande ce qui, vu de là, paraît le plus exposé : vous tenir là où l’on peut vous voir, et dire *c’est moi qui l’ai fait*.
 
 Le [Soleil](/astrology/sun/) gouverne le Lion : le signe et la maison de votre Soleil montrent le style de rayonnement vers lequel vous grandissez, où votre lumière doit aller, et comment elle aime être regardée.
 
-D’après le nœud vrai, le nœud a été en Lion de novembre 1942 à mai 1944, de juin 1961 à décembre 1962, de janvier 1980 à septembre 1981, d’octobre 1998 à avril 2000 et de mai 2017 à novembre 2018, et il y revient en novembre 2035. C’est donc le placement d’une génération, partagé par environ 1 personne sur 13 parmi les naissances de 1930 à 2009 ; la maison où il tombe, qui demande [votre heure de naissance](/blog/unknown-birth-time/), est ce qui le rend vôtre. Le nœud est entré en Lion depuis la Vierge et en est reparti vers le Cancer : si votre naissance tombe près de l’un de ces changements, [Nœud Nord en Vierge](/astrology/north-node-in-virgo/) ou [Nœud Nord en Cancer](/astrology/north-node-in-cancer/) vous ira peut-être mieux. Le nœud moyen et le nœud vrai restent à un ou deux degrés l’un de l’autre ; je regarde les deux, et s’ils tombent de part et d’autre de la limite, je le dis ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)).
+D’après le nœud vrai, le nœud a été en Lion de novembre 1942 à mai 1944, de juin 1961 à décembre 1962, de janvier 1980 à septembre 1981, d’octobre 1998 à avril 2000 et de mai 2017 à novembre 2018, et il y revient en novembre 2035. C’est donc le placement d’une génération, partagé par environ 1 personne sur 13 parmi les naissances de 1930 à 2009 ; la maison où il tombe, qui demande [votre heure de naissance](/blog/unknown-birth-time/), est ce qui le rend vôtre. Le nœud est entré en Lion depuis la Vierge et en est reparti vers le Cancer : pour une naissance à la charnière, [Nœud Nord en Vierge](/astrology/north-node-in-virgo/) ou [Nœud Nord en Cancer](/astrology/north-node-in-cancer/) vous ira peut-être mieux. Le nœud moyen et le nœud vrai restent à un ou deux degrés l’un de l’autre ; je regarde les deux, et s’ils tombent de part et d’autre de la limite, je le dis ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)).
 
-Côté preuves, l’ascendant est l’angle que rapporte mon [carnet de test](/blog/i-tested-my-birth-chart/), et il a tenu environ une fois sur trois ; les trois placements qui se sont détachés sont Saturne, Chiron et Lilith. Prenez donc cette page comme une esquisse à confronter à votre vie, pas comme un portrait.
+Côté preuves, l’ascendant est l’angle que rapporte mon [carnet de test](/blog/i-tested-my-birth-chart/), et il a tenu environ un tiers du temps ; ce sont trois autres placements qui se sont détachés, Saturne, Chiron et Lilith. Prenez donc cette page comme une esquisse à confronter à votre vie, pas comme un portrait.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-En amour, le bout Verseau peut garder les choses dans l’amitié : une relation qui ressemble à une grande complicité, beaucoup de liberté, peu de cérémonies. Le bout Lion veut les cérémonies. La romance, la déclaration, la soirée préparée pour deux, le courage de dire *je t’adore* en premier. Il faudra peut-être aussi vous laisser adorer en retour, ce qui peut être la moitié la plus difficile.
+Laissé au bout Verseau, l’amour reste dans l’amitié : une relation qui ressemble à une grande complicité, beaucoup de liberté, peu de cérémonies. Le bout Lion veut les cérémonies. La romance, la déclaration, la soirée préparée pour deux, le courage de dire *je t’adore* en premier. Il faudra peut-être aussi vous laisser adorer en retour, ce qui peut être la moitié la plus difficile.
 
 Quelqu’un qui se réjouit de vous, et le dit, donne de la place à ce nœud. Quelqu’un qui vous laisse, de temps en temps, être le centre de l’attention sans vous le faire payer lui en donne aussi.
 
 ## Au travail {#au-travail}
 
-Au travail, vous êtes peut-être la personne d’équipe qui améliore le projet de tout le monde. Le Nœud Nord en demande un qui porte votre nom. Le travail créatif, la scène, la présentation, prendre la tête : tout rôle où votre style est le sujet entraîne le Lion. Revendiquer ce que vous avez fait n’a rien de vaniteux ici. Cela fait partie de la leçon.
+La personne d’équipe qui améliore le projet de tout le monde, c’est peut-être vous. Le Nœud Nord en demande un qui porte votre nom. Le travail créatif, la scène, la présentation, prendre la tête : tout rôle où votre style est le sujet entraîne le Lion. Revendiquer ce que vous avez fait n’a rien de vaniteux ici. Cela fait partie de la leçon.
 
 ## Le plus difficile {#le-plus-difficile}
 

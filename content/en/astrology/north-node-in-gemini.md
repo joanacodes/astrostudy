@@ -30,25 +30,25 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "the angle the notebook reports, and the three that stood out" }
 ---
-The North Node in Gemini trades the big answer for a good question. The [North Node](/astrology/north-node/) was in [Gemini](/astrology/gemini/) when you were born, and the growth it describes happens in conversation: asking, listening, and letting what you hear change your mind.
+The North Node in Gemini trades the big answer for a good question. Here the [North Node](/astrology/north-node/) sits in [Gemini](/astrology/gemini/), and its growth happens in conversation: asking, listening, and letting what you hear change your mind.
 
 ## In a birth chart {#in-a-birth-chart}
 
-Gemini is mutable air: quick, curious, happiest holding two ideas at once. Opposite it, in [Sagittarius](/astrology/sagittarius/), the [South Node](/astrology/south-node/) holds what you already do well: seeing the whole picture, finding the meaning, speaking with conviction. People often come to you for answers. The Gemini end asks you to arrive with questions instead, and to stay with the details long enough for them to show you something the overview missed.
+Quick, curious and happiest holding two ideas at once, Gemini is mutable air. Opposite it, in [Sagittarius](/astrology/sagittarius/), the [South Node](/astrology/south-node/) holds what you already do well: seeing the whole picture, finding the meaning, speaking with conviction. People often come to you for answers. The Gemini end asks you to arrive with questions instead, and to stay with the details long enough for them to show you something the overview missed.
 
 [Mercury](/astrology/mercury/), the ruler of Gemini, is the planet to follow: its sign and house show how you learn best, and where curiosity has the most room.
 
-The true node, whose dates I give here, was in Gemini from December 1945 to August 1947, August 1964 to February 1966, March 1983 to September 1984, October 2001 to April 2003 and May 2020 to January 2022, and it comes back in February 2039. About 1 person in 13 born between 1930 and 2009 has it. Because the node travels backwards, it was in Cancer just before and in Taurus just after; if your birth fell near one of those handovers, [North Node in Cancer](/astrology/north-node-in-cancer/) or [North Node in Taurus](/astrology/north-node-in-taurus/) may describe you better. The mean node, a smoother average, can change sign a little earlier or later than the true one, so I check both and tell you when they part company ([mean node and true node](/astrology/mean-node-and-true-node/)). A sign shared by everyone born in the same eighteen months or so says more about a generation's lesson than about you; the house, which needs [your birth time](/blog/unknown-birth-time/), brings it home.
+The true node, whose dates I give here, was in Gemini from December 1945 to August 1947, August 1964 to February 1966, March 1983 to September 1984, October 2001 to April 2003 and May 2020 to January 2022, and it comes back in February 2039. Among people born from 1930 to 2009, about 1 in 13 has it. Because the node travels backwards, it was in Cancer just before and in Taurus just after; if your birth fell near one of those handovers, [North Node in Cancer](/astrology/north-node-in-cancer/) or [North Node in Taurus](/astrology/north-node-in-taurus/) may describe you better. The mean node, a smoother average, can change sign a little earlier or later than the true one, so I check both and tell you when they part company ([mean node and true node](/astrology/mean-node-and-true-node/)). A sign shared by everyone born in the same eighteen months or so says more about a generation's lesson than about you; the house, which only [your birth time](/blog/unknown-birth-time/) can place, brings it home.
 
 ## In close relationships {#in-close-relationships}
 
-In love, the Sagittarius end tends to explain: what the relationship means, where it's going, what your partner really feels. The Gemini end asks a smaller, braver question, *what was your day like?*, and then listens to the whole answer. Intimacy grows here in conversation, in the running thread of small news two people share.
+With a partner, the Sagittarius end tends to explain: what the relationship means, where it's going, what your partner really feels. The Gemini end asks a smaller, braver question, *what was your day like?*, and then listens to the whole answer. Intimacy grows here in conversation, in the running thread of small news two people share.
 
 It also means letting a partner surprise you. People don't stay the person you summed up on the third date; curiosity keeps up with them.
 
 ## At work {#at-work}
 
-At work, you may be the one with the vision, the principle, the rousing speech. Growth comes through the questions and the paperwork: checking the figures, asking the person who actually does the job, reading the contract before you believe in it. Work that keeps you learning, teaching by asking, writing, research, anything with many moving parts, gives Gemini its practice. Being a beginner again in a room full of experts is part of it.
+Colleagues may know you for the vision, the principle, the rousing speech. Growth comes through the questions and the paperwork: checking the figures, asking the person who actually does the job, reading the contract before you believe in it. Work that keeps you learning, teaching by asking, writing, research, anything with many moving parts, gives Gemini its practice. Being a beginner again in a room full of experts is part of it.
 
 ## The hard part {#the-hard-part}
 

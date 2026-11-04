@@ -30,21 +30,21 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "the one angle my notebook reports" }
 ---
-With the North Node in Taurus, the stretch is towards something that sounds easy and rarely is: staying put, and letting a good thing be enough. The [North Node](/astrology/north-node/) was in [Taurus](/astrology/taurus/) when you were born, and it points to calm as a skill you build slowly, the way Taurus builds everything.
+With the North Node in Taurus, the stretch is towards something that sounds easy and rarely is: staying put, and letting a good thing be enough. Born with the [North Node](/astrology/north-node/) in [Taurus](/astrology/taurus/), you're learning calm as a skill, built slowly, the way Taurus builds everything.
 
 ## In a birth chart {#in-a-birth-chart}
 
-Taurus is fixed earth: it keeps, steadies and enjoys what's in front of it. The [South Node](/astrology/south-node/), opposite in [Scorpio](/astrology/scorpio/), is the familiar ground, and it's anything but shallow: depth, nerve in a crisis, a feel for what's hidden, a readiness to let everything change at once. Those are gifts. The Taurus end asks for the quieter one beside them: to stay, to trust what holds, and to find that peace doesn't have to be earned by surviving a storm first.
+Taurus, fixed earth, keeps and steadies what's in front of it, and takes its time enjoying it. The [South Node](/astrology/south-node/), opposite in [Scorpio](/astrology/scorpio/), is the familiar ground, and it's anything but shallow: depth, nerve in a crisis, a feel for what's hidden, a readiness to let everything change at once. Those are gifts. The Taurus end asks for the quieter one beside them: to stay, to trust what holds, and to find that peace doesn't have to be earned by surviving a storm first.
 
 [Venus](/astrology/venus/) rules Taurus, so its sign and house show where you practise this: what you find worth keeping, and what gives you pleasure with no drama attached.
 
 About 1 person in 12 born from 1930 to 2009 shares it. Using the true node, it was in Taurus until July 1930, then from August 1947 to January 1949, February 1966 to August 1967, September 1984 to April 1986 and April 2003 to December 2004, and lately from January 2022 to July 2023. Travelling backwards as the nodes do, it reached Taurus from Gemini and handed over to Aries. Near those changes the mean and true nodes, a degree or two apart at most, can sit in different signs. I look at both, and when yours disagree I say so; read [North Node in Gemini](/astrology/north-node-in-gemini/) or [North Node in Aries](/astrology/north-node-in-aries/) beside this page. Everyone born in the same year and a half carries this sign; the house it occupies, which takes [your birth time](/blog/unknown-birth-time/), is where it becomes personal.
 
-On the evidence: my [notebook](/blog/i-tested-my-birth-chart/) reports a single angle, the rising sign, and it held about a third of the time; Saturn, Chiron and Lilith were the three that stood out. I hold this node as a description to try for size, slowly, which suits Taurus.
+On the evidence: my [notebook](/blog/i-tested-my-birth-chart/) reports a single angle, the rising sign, and it held about a third of the time; Saturn, Chiron and Lilith stood out from the rest. I hold this node as a description to try for size, slowly, which suits Taurus.
 
 ## In close relationships {#in-close-relationships}
 
-In love, the Scorpio end knows intensity: the all-or-nothing bond, the late-night talk that changes everything, the urge to test whether someone will stay. The Taurus end is learning a plainer proof of love: the same person, the same kindness, week after week. When a relationship goes quiet, the old reflex reads it as danger. Often it's simply peace, and peace is the new part.
+Intensity is familiar from the Scorpio end: the all-or-nothing bond, the late-night talk that changes everything, the urge to test whether someone will stay. The Taurus end is learning a plainer proof of love: the same person, the same kindness, week after week. When a relationship goes quiet, the old reflex reads it as danger. Often it's simply peace, and peace is the new part.
 
 What helps a bond here is touch, food, routine and time. Let a calm evening count. Say *this is good* out loud when it is.
 

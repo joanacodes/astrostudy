@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 97
 glyph: "♆♈"
-definition: "Neptune in Aries is Neptune, the planet of imagination and compassion, in the cardinal fire sign of beginnings, where it arrived in 2025 and stays until 2039. Everyone born with it is still a child, so I read it as a generation’s sign: ideals that want to act, and compassion that takes the first step."
+definition: "Neptune in Aries is Neptune, the planet of imagination and compassion, in the cardinal fire sign of beginnings, where it arrived in 2025 and stays until 2039. Everyone born with it is still a child, so I read it as a generation’s sign: ideals that ask for action, and compassion that takes the first step."
 facts:
   - { k: "Body", v: "Neptune ♆" }
   - { k: "Sign", v: "Aries ♈, ruled by Mars" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/neptune", "/astrology/aries", "/astrology/mars", "/astrology/childrens-charts", "/astrology/generational-placements-by-birth-year"]
 faq:
   - q: "What does Neptune in Aries mean?"
-    a: "Neptune’s imagination and compassion in the sign of beginnings: ideals that want to act rather than wait, and courage put at the service of a dream. It belongs to the generation born from 2025 to 2039, so I read it as that generation’s sign, never as a reading of any one child."
+    a: "Neptune’s imagination and compassion in the sign of beginnings: ideals that ask for action rather than waiting, and courage put at the service of a dream. It belongs to the generation born from 2025 to 2039, so I read it as that generation’s sign, never as a reading of any one child."
   - q: "When is Neptune in Aries?"
     a: "From March 2025 to March 2039. Until January 2026 Neptune crossed back and forth with Pisces, and from May 2038 it does the same with Taurus, so births in those months need the chart. The previous stay ran from April 1861 to April 1875, so no adult alive today was born with it."
   - q: "What does Neptune in Aries mean for adults?"

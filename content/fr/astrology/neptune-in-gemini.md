@@ -2,13 +2,13 @@
 title: "Neptune en Gémeaux"
 slug: "neptune-en-gemeaux"
 h1: "Neptune en Gémeaux dans un thème natal"
-description: "Neptune en Gémeaux dans un thème natal : une imagination portée par les mots et les histoires. Personne en vie ne l’a ; Neptune revient dans ce signe en 2051."
+description: "Neptune en Gémeaux dans un thème natal : une imagination qui vit dans les mots et les histoires. Personne en vie ne l’a ; Neptune revient dans ce signe en 2051."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 99
 glyph: "♆♊"
-definition: "Neptune en Gémeaux, c’est la planète de l’imagination et de la compassion dans le signe d’air mutable des mots et du lien. Aucune personne en vie n’a ce placement : Neptune y était de 1887 à 1902 et y revient de 2051 à 2066. C’est l’imagination portée par le langage : histoires, chansons, lettres, et le rêve de se comprendre en parlant."
+definition: "Neptune en Gémeaux, c’est la planète de l’imagination et de la compassion dans le signe d’air mutable des mots et du lien. Aucune personne en vie n’a ce placement : Neptune y était de 1887 à 1902 et y revient de 2051 à 2066. C’est l’imagination dans le langage : histoires, chansons, lettres, et le rêve de se comprendre en parlant."
 facts:
   - { k: "Corps", v: "Neptune ♆" }
   - { k: "Signe", v: "Gémeaux ♊, gouvernés par Mercure" }

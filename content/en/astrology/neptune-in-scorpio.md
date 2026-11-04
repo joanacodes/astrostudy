@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 104
 glyph: "♆♏"
-definition: "Neptune in Scorpio is Neptune, the planet of imagination and compassion, in the fixed water sign of depth and intimacy, where it stayed from December 1955 to November 1970. For the generation born in those years, I read it as a longing for what lies beneath the surface: closeness without masks, mystery, and compassion that stays in the dark."
+definition: "Neptune in Scorpio is Neptune, the planet of imagination and compassion, in the fixed water sign of depth and intimacy, where it stayed from December 1955 to November 1970. For the generation born in those years, I read it as a longing for depth: closeness without masks, mystery, and compassion that stays in the dark."
 facts:
   - { k: "Body", v: "Neptune ♆" }
   - { k: "Sign", v: "Scorpio ♏, ruled by Pluto (modern) and Mars (traditional)" }

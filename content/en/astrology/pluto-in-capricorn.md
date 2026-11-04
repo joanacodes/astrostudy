@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 118
 glyph: "♇♑"
-definition: "Pluto in Capricorn is the planet of deep change in cardinal earth, the sign of structures, ruled by Saturn. The births it marks run from 2008 to 2024; the eldest of that generation turned eighteen in 2026. In a chart it describes structures and authority rebuilt from the foundations, keeping only what bears weight."
+definition: "Pluto in Capricorn is deep change applied to structures, in cardinal earth ruled by Saturn. The births it marks run from 2008 to 2024; the eldest of that generation turned eighteen in 2026. In a chart it describes structures and authority rebuilt from the foundations, keeping only what bears weight."
 facts:
   - { k: "Body", v: "Pluto ♇" }
   - { k: "Sign", v: "Capricorn ♑, ruled by Saturn" }
@@ -28,15 +28,15 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "the months Pluto spent in Capricorn, 1930–2039, and how many people born 1930–2009 have it" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "Saturn among the three that held, Pluto checked like the rest" }
 ---
-Pluto in Capricorn belongs to births from January 2008 to November 2024, so the oldest of its people turned eighteen in 2026 and most are still children. I describe it here as a generation's placement, never as a reading of a child: the planet of deep change in the sign of structures and authority.
+Pluto in Capricorn belongs to births from January 2008 to November 2024, so the oldest of its people turned eighteen in 2026 and most are still children. What follows is the portrait of a generation, never a reading of any child: deep change in the sign of structures and authority.
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Pluto](/astrology/pluto/) eliminates what is obsolete in a structure and regenerates what still serves. [Capricorn](/astrology/capricorn/), cardinal earth ruled by Saturn, builds, organises and takes responsibility for the long term; whatever sits in it wants results that hold up over time. In Capricorn, Pluto's transformation works on structures: institutions, hierarchies, the rules of how things are run. This generation inherits those structures and is marked by an urge to rebuild them from the foundations, keeping what bears weight and clearing out what only looks solid.
+[Pluto](/astrology/pluto/) clears what is obsolete out of a structure and regenerates what still serves. [Capricorn](/astrology/capricorn/), cardinal earth ruled by Saturn, builds, organises and takes responsibility for the long term; whatever sits in it wants results that hold up over time. In Capricorn, Pluto's transformation works on structures: institutions, hierarchies, the rules of how things are run. This generation inherits those structures and is marked by an urge to rebuild them from the foundations, keeping what bears weight and clearing out what only looks solid.
 
-Pluto has no dignity in Capricorn: the tradition never knew it, and modern tropical astrology gives it Scorpio. [Saturn](/astrology/saturn/), the ruler of Capricorn, has a big say in any chart with this Pluto, and Saturn is one of [the three that held](/blog/saturn-chiron-lilith/) far more often in my notebook, 75 to 90% of the time. Pluto was checked like every placement and was not one of them, while overall about a third held. So with this Pluto, Saturn's sign and house are where I look first.
+There is no dignity to weigh here, since the tradition never knew Pluto and modern tropical astrology gives it Scorpio. The weight falls on [Saturn](/astrology/saturn/) instead, the ruler of Capricorn, and Saturn is one of [the three that held](/blog/saturn-chiron-lilith/) far more often in my notebook, 75 to 90% of the time. Pluto was checked like every placement and was not one of them, while overall about a third held. So with this Pluto, Saturn's sign and house are where I look first.
 
-Pluto was in Capricorn from January 2008 to November 2024, and comes back from March 2254 to November 2270. In 2008 it crossed back and forth with [Pluto in Sagittarius](/astrology/pluto-in-sagittarius/), and from March 2023 to November 2024 with [Pluto in Aquarius](/astrology/pluto-in-aquarius/). The count of births from 1930 to 2009 reaches only its first two years, which is why it shows just 1 person in 54; everyone born from 2009 to 2022 has it too. As with any Pluto sign, the house makes it personal, and the house needs a [birth time](/blog/unknown-birth-time/). Most people with this placement are under eighteen, and [children's charts](/astrology/childrens-charts/) are not something I read, so what follows is the placement as it reads in an adult's chart.
+Pluto was in Capricorn from January 2008 to November 2024, and comes back from March 2254 to November 2270. In 2008 it crossed back and forth with [Pluto in Sagittarius](/astrology/pluto-in-sagittarius/), and from March 2023 to November 2024 with [Pluto in Aquarius](/astrology/pluto-in-aquarius/). The count of births from 1930 to 2009 reaches only its first two years, which is why it shows just 1 person in 54; everyone born from 2009 to 2022 has it too. The sign belongs to everyone born in those seventeen years or so; which house it falls in, and so what it means for one person, depends on a [birth time](/blog/unknown-birth-time/). Most people with this placement are under eighteen, and [children's charts](/astrology/childrens-charts/) are not something I read, so what follows is the placement as it reads in an adult's chart.
 
 ## In close relationships {#in-close-relationships}
 
@@ -44,11 +44,11 @@ In an adult's chart, Pluto in Capricorn takes commitment seriously. Love is show
 
 ## At work {#at-work}
 
-At work, this Pluto is drawn to institutions and the people who run them: organisations, public services, building, management, anything with a structure that can be improved from the inside. It has the patience to rise through a system and the will to change it once there. Authority is something it can carry well, provided it earns it rather than demands it. Its strongest work rebuilds a structure so that it serves the people inside it.
+Institutions, and the people who run them, are where this Pluto goes to work: organisations, public services, building, management, anything with a structure that can be improved from the inside. It has the patience to rise through a system and the will to change it once there. Authority is something it can carry well, provided it earns it rather than demands it. Its strongest work rebuilds a structure so that it serves the people inside it.
 
 ## The hard part {#the-hard-part}
 
-The hard part is power held too tightly. Pluto in Capricorn can mistake control for safety, keep a rigid grip on plans, or measure worth by status and achievement. Fear of failure can make every setback feel final. Authority, its own or other people's, can turn into a battleground. Underneath there is often a deep need for things to be solid enough to hold, and the work is letting some of them bend.
+Power held too tightly is the risk here. Pluto in Capricorn can mistake control for safety, keep a rigid grip on plans, or measure worth by status and achievement. Fear of failure can make every setback feel final. Authority, its own or other people's, can turn into a battleground. Underneath there is often a deep need for things to be solid enough to hold, and the work is letting some of them bend.
 
 ## What helps {#what-helps}
 

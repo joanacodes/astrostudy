@@ -30,7 +30,7 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "the angle my notebook reports, and the three that stood out" }
 ---
-The North Node in Virgo turns a lovely intention into Tuesday's list. The [North Node](/astrology/north-node/) was in [Virgo](/astrology/virgo/) when you were born, and the growth it points to is grounded and ordinary in the best sense: habits that hold, work that helps, care you can see.
+The North Node in Virgo turns a lovely intention into Tuesday's list. In [Virgo](/astrology/virgo/), the [North Node](/astrology/north-node/) describes growth that is grounded and ordinary in the best sense: habits that hold, work that helps, care you can see.
 
 ## In a birth chart {#in-a-birth-chart}
 
@@ -38,17 +38,17 @@ Virgo is mutable earth: it adapts by doing, and improves things one detail at a 
 
 [Mercury](/astrology/mercury/) rules Virgo as it rules Gemini, but here it works with its hands. Its sign and house show where your method gets built: the desk, the workshop, the kitchen, the diary.
 
-The true node passed through Virgo from May 1941 to November 1942, December 1959 to June 1961, July 1978 to January 1980, January 1997 to October 1998 and November 2015 to May 2017; its next stay runs from June 2034 to November 2035. About 1 person in 13 born between 1930 and 2009 has it. It moved into Virgo from Libra and on into Leo, so for a birth in one of those months, read [North Node in Libra](/astrology/north-node-in-libra/) or [North Node in Leo](/astrology/north-node-in-leo/) as well. I look at the mean node beside the true one: a degree or two apart at most, they only disagree on the sign near its edge, and then I tell you ([mean node and true node](/astrology/mean-node-and-true-node/)). Everyone born in that eighteen-month window shares the sign; the house, which needs [your birth time](/blog/unknown-birth-time/), says where in your life the practice takes place.
+The true node passed through Virgo from May 1941 to November 1942, December 1959 to June 1961, July 1978 to January 1980, January 1997 to October 1998 and November 2015 to May 2017; its next stay runs from June 2034 to November 2035. It's the node sign of about 1 person in 13 born between 1930 and 2009. It moved into Virgo from Libra and on into Leo, so for a birth in one of those months, read [North Node in Libra](/astrology/north-node-in-libra/) or [North Node in Leo](/astrology/north-node-in-leo/) as well. I look at the mean node beside the true one: a degree or two apart at most, they only disagree on the sign near its edge, and then I tell you ([mean node and true node](/astrology/mean-node-and-true-node/)). Everyone born in that eighteen-month window shares the sign; the house, worked out from [your birth time](/blog/unknown-birth-time/), says where in your life the practice takes place.
 
 ## In close relationships {#in-close-relationships}
 
-In love, the Pisces end can merge: feeling everything your partner feels, forgiving before anything has been said, rescuing or waiting to be rescued. The Virgo end loves in practical terms. It notices what the other person needs this week and does it; it asks, it keeps its word, it holds a boundary where one is needed. Small, reliable acts, the lift to the station, the bill paid, the soup when someone's ill, say more here than any grand feeling.
+Love from the Pisces end can merge: feeling everything your partner feels, forgiving before anything has been said, rescuing or waiting to be rescued. The Virgo end loves in practical terms. It notices what the other person needs this week and does it; it asks, it keeps its word, it holds a boundary where one is needed. Small, reliable acts, the lift to the station, the bill paid, the soup when someone's ill, say more here than any grand feeling.
 
 A relationship helps when both people show up for the ordinary, and when caring doesn't mean losing yourself in someone else's mood.
 
 ## At work {#at-work}
 
-At work, you may be the one with the vision and the empathy, who knows what people need and loses the thread on the way. The North Node asks for method: a system, a checklist, a finished piece of work rather than five beautiful beginnings. Craft suits it, and so does any job where being useful is concrete and visible. Learning to say *it'll be done by Friday*, and doing it, is the whole lesson in a sentence.
+Your strength at work may be vision and empathy: you know what people need, and lose the thread on the way. The North Node asks for method: a system, a checklist, a finished piece of work rather than five beautiful beginnings. Craft suits it, and so does any job where being useful is concrete and visible. Learning to say *it'll be done by Friday*, and doing it, is the whole lesson in a sentence.
 
 ## The hard part {#the-hard-part}
 
@@ -58,6 +58,6 @@ The overcorrection is the opposite: discovering lists and turning them on yourse
 
 ## What helps {#what-helps}
 
-Virgo prefers a modest claim to a grand one, and so do I: the rising sign is the one angle in my [testing notebook](/blog/i-tested-my-birth-chart/), about a third held, and Saturn, Chiron and Lilith were the three that stood out. So start small, and see what holds.
+Virgo prefers a modest claim to a grand one, and so do I: the rising sign is the one angle in my [testing notebook](/blog/i-tested-my-birth-chart/), and about one time in three it held; standing out from everything else were Saturn, Chiron and Lilith. So start small, and see what holds.
 
-Start with one habit and keep it for a month: the same walk, the same bedtime, ten minutes of tidying. Write things down. Finish one task before you start the next. Let your timetable include rest, so the Pisces end has its hour too; your compassion and imagination are what make the routine worth having.
+One habit kept for a month is a good beginning: the same walk, the same bedtime, ten minutes of tidying. Write things down. Finish one task before you start the next. Let your timetable include rest, so the Pisces end has its hour too; your compassion and imagination are what make the routine worth having.

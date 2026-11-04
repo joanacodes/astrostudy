@@ -1,13 +1,13 @@
 ---
 title: "Neptune in Leo"
 h1: "Neptune in Leo in a birth chart"
-description: "Neptune in Leo in a birth chart: dreams of romance, art and being seen, the Neptune of the oldest generation alive, born from 1914 to 1929."
+description: "Neptune in Leo in a birth chart: a dream of grand romance and art, and a heart that wants to shine, for the oldest generation alive, born 1914–1929."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 101
 glyph: "♆♌"
-definition: "Neptune in Leo is Neptune, the planet of imagination and compassion, in the fixed fire sign of the heart and self-expression, where it stayed from September 1914 to July 1929. It belongs to the oldest generation alive today. I read it as dreams of romance, art and being seen: imagination that wants a stage, and a warm heart."
+definition: "Neptune in Leo is Neptune, the planet of imagination and compassion, in the fixed fire sign of the heart and self-expression, where it stayed from September 1914 to July 1929. It belongs to the oldest generation alive. I read it as a dream of grand romance and art: imagination that wants a stage, a heart that wants to be seen."
 facts:
   - { k: "Body", v: "Neptune ♆" }
   - { k: "Sign", v: "Leo ♌, ruled by the Sun" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/neptune", "/astrology/leo", "/astrology/sun", "/astrology/neptune-in-5th-house", "/astrology/generational-placements-by-birth-year"]
 faq:
   - q: "What does Neptune in Leo mean?"
-    a: "Neptune’s imagination and compassion in the sign of the heart: dreams of romance, art and being seen, and a generosity that wants to light up a room. Everyone born from late 1914 to mid-1929 shares it, today’s oldest generation, and Neptune’s house in each chart shows where that dream lived."
+    a: "Neptune’s imagination and compassion in the sign of the heart: a dream of grand romance and of art, a wish to shine, and a generosity that wants to light up a room. Everyone born from late 1914 to mid-1929 shares it, today’s oldest generation, and Neptune’s house in each chart shows where that dream lived."
   - q: "Who was born with Neptune in Leo?"
     a: "Everyone born from September 1914 to July 1929. Until May 1916 Neptune was still crossing back and forth with Cancer, and from September 1928 with Virgo, so births in those months need the chart. None of the births from 1930 to 2009 have it; the next stay runs from 2078 to 2093."
   - q: "Is Neptune in Leo about fame?"

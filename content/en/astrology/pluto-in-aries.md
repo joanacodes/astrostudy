@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "the months Pluto spent and will spend in Aries, 1700–2300" }
   - { title: "NASA — Pluto facts", url: "https://science.nasa.gov/dwarf-planets/pluto/facts/", note: "its discovery in 1930" }
 ---
-Pluto left Aries in February 1853 and won't be back until June 2066, so this placement lives in nineteenth-century charts and in charts not yet cast. It puts the planet of deep change in the sign that starts things, and I read it as renewal by beginning again: clearing the ground, then going first.
+Pluto left Aries in February 1853 and won't be back until June 2066, so this placement lives in nineteenth-century charts and in charts not yet cast. Deep change meets the sign that starts things here, and I read the pairing as renewal by beginning again: clearing the ground, then going first.
 
 ## In a birth chart {#in-a-birth-chart}
 
@@ -36,7 +36,7 @@ Pluto left Aries in February 1853 and won't be back until June 2066, so this pla
 
 Pluto has no dignity in the tradition, which never knew it, and modern tropical astrology gives it a single home, Scorpio. Aries keeps a link to that home all the same: its ruler, [Mars](/astrology/mars/), held Scorpio until Pluto was found in 1930. So in any chart with Pluto in Aries I look hard at Mars, whose sign and house say how a generation's courage turns into one person's.
 
-Pluto was in Aries from April 1822 to February 1853, and will be again from June 2066 to March 2097. Nobody born between 1930 and 2009 has it. At both ends of a stay Pluto crossed the border back and forth: April 1822 to March 1823 is shared with [Pluto in Pisces](/astrology/pluto-in-pisces/), and May 1851 to February 1853 with [Pluto in Taurus](/astrology/pluto-in-taurus/), months for which only the chart itself can say which sign is right. No astrologer read Pluto in Aries while it was there, since nobody knew Pluto existed; the return in 2066 will be the first time anyone can watch it cross this sign. Whoever has it shares it with everyone born over three decades. The house it falls in makes it personal, and the house needs a [birth time](/blog/unknown-birth-time/).
+Pluto was in Aries from April 1822 to February 1853, and will be again from June 2066 to March 2097. Nobody born between 1930 and 2009 has it. At both ends of a stay Pluto crossed the border back and forth: April 1822 to March 1823 is shared with [Pluto in Pisces](/astrology/pluto-in-pisces/), and May 1851 to February 1853 with [Pluto in Taurus](/astrology/pluto-in-taurus/), months for which only the chart itself can say which sign is right. No astrologer read Pluto in Aries while it was there, since nobody knew Pluto existed; the return in 2066 will be the first time anyone can watch it cross this sign. Three decades of births share it, so on its own it singles nobody out; the house it falls in does, and finding the house takes a [birth time](/blog/unknown-birth-time/).
 
 ## In close relationships {#in-close-relationships}
 

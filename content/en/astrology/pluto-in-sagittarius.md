@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 117
 glyph: "♇♐"
-definition: "Pluto in Sagittarius is the planet of deep change in mutable fire, the sign of meaning and long journeys, ruled by Jupiter. Everyone born from 1996 to 2007 has it, as do many born in 1995 and 2008: about 1 person in 6 born from 1930 to 2009. It describes belief transformed: faiths questioned, then rebuilt."
+definition: "Pluto in Sagittarius takes deep change down the road of belief, in mutable fire, the sign of long journeys ruled by Jupiter. Everyone born from 1996 to 2007 has it, as do many born in 1995 and 2008: about 1 person in 6 born from 1930 to 2009. It describes belief transformed: faiths questioned, then rebuilt."
 facts:
   - { k: "Body", v: "Pluto ♇" }
   - { k: "Sign", v: "Sagittarius ♐, ruled by Jupiter" }
@@ -28,15 +28,15 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "the months Pluto spent in Sagittarius, 1930–2039, and how many people born 1930–2009 have it" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-Pluto in Sagittarius belongs to births from January 1995 to November 2008, and the youngest of them turn eighteen in 2026. It sets the planet of deep change in the sign of the long journey, and I read it as belief transformed: faiths, philosophies and certainties questioned all the way down, then rebuilt.
+Pluto in Sagittarius belongs to births from January 1995 to November 2008, and the youngest of them turn eighteen in 2026. The planet of deep change travels here with the sign of the long journey, and I read it as belief transformed: faiths, philosophies and certainties questioned all the way down, then rebuilt.
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Pluto](/astrology/pluto/) regenerates: it lets go of what has died in a structure, a belief or a habit, and strengthens what can grow in its place. [Sagittarius](/astrology/sagittarius/), mutable fire ruled by Jupiter, looks for meaning; it explores, teaches, travels, believes, and asks what it all adds up to. In Sagittarius, Pluto's depth goes into conviction. This generation doesn't inherit its beliefs without testing them: it takes them apart, keeps what survives, and is changed by the search itself. Mutable fire keeps the process moving, so a worldview here is a living thing, revised as the road goes on.
+[Pluto](/astrology/pluto/) lets what has died in a structure, a belief or a habit fall away, and strengthens what can grow in its place. [Sagittarius](/astrology/sagittarius/), mutable fire ruled by Jupiter, looks for meaning; it explores, teaches, travels, believes, and asks what it all adds up to. In Sagittarius, Pluto's depth goes into conviction. This generation doesn't inherit its beliefs without testing them: it takes them apart, keeps what survives, and is changed by the search itself. Mutable fire keeps the process moving, so a worldview here is a living thing, revised as the road goes on.
 
-Pluto has no dignity in Sagittarius; the tradition never knew Pluto, and modern tropical astrology gives it Scorpio, the sign just before. [Jupiter](/astrology/jupiter/), the ruler of Sagittarius, carries weight in any chart with this Pluto. Its sign and house show where a generation's search for meaning becomes one person's sense of what is true.
+Sagittarius gives Pluto neither dignity nor debility: the tradition never knew it, and modern tropical astrology lists it only in Scorpio and, by opposition, Taurus. The one to watch instead is the sign's ruler, [Jupiter](/astrology/jupiter/), the planet of meaning: where it sits says what a person finds worth believing in, and how big they let that belief grow. It was during this stay, in 2006, that astronomers reclassed Pluto as a dwarf planet, which seems fitting for a sign that likes its beliefs revised.
 
-Pluto was in Sagittarius from January 1995 to November 2008, and comes back only from December 2241 to October 2255. During 1995 it crossed back and forth with [Pluto in Scorpio](/astrology/pluto-in-scorpio/), and from January to November 2008 with [Pluto in Capricorn](/astrology/pluto-in-capricorn/), so those births need the chart to say which sign is theirs. About 1 person in 6 born from 1930 to 2009 has it. Everyone born in the same few years shares it; its house, which needs a [birth time](/blog/unknown-birth-time/), is where it starts to describe one life.
+Pluto was in Sagittarius from January 1995 to November 2008, and comes back only from December 2241 to October 2255. During 1995 it crossed back and forth with [Pluto in Scorpio](/astrology/pluto-in-scorpio/), and from January to November 2008 with [Pluto in Capricorn](/astrology/pluto-in-capricorn/), and for those births only the chart can settle it. About 1 person in 6 of those born from 1930 to 2009 has it. Everyone born in the same few years shares it; its house, which needs a [birth time](/blog/unknown-birth-time/), is where it starts to describe one life.
 
 ## In close relationships {#in-close-relationships}
 
@@ -44,7 +44,7 @@ In love, Pluto in Sagittarius looks for a fellow traveller. Bonds deepen through
 
 ## At work {#at-work}
 
-At work, this Pluto is drawn to wherever ideas travel: teaching, publishing, research, law, journeys and work across borders and cultures. It can transform the way a field explains itself, by asking the large question others have stopped asking. It needs work that means something; a job without meaning can feel like a road to nowhere. Given a cause it believes in, it brings conviction and staying power together.
+Ideas that travel make this Pluto's natural work: teaching, publishing, research, law, journeys and work across borders and cultures. It can transform the way a field explains itself, by asking the large question others have stopped asking. It needs work that means something; a job without meaning can feel like a road to nowhere. Given a cause it believes in, it brings conviction and staying power together.
 
 ## The hard part {#the-hard-part}
 

@@ -1,7 +1,7 @@
 ---
 title: "Neptune in Gemini"
 h1: "Neptune in Gemini in a birth chart"
-description: "Neptune in Gemini in a birth chart: imagination carried by words and stories. Nobody alive has it; Neptune left the sign in 1902 and returns in 2051."
+description: "Neptune in Gemini in a birth chart: imagination that lives in words and stories. Nobody alive has it; Neptune left the sign in 1902 and returns in 2051."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"

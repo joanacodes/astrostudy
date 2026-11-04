@@ -30,27 +30,27 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "the angle my notebook reports, and the three that stood out" }
 ---
-The North Node in Leo asks you to step out of the crowd you're so good at belonging to. The [North Node](/astrology/north-node/) was in [Leo](/astrology/leo/) at your birth, and the growth it describes is personal and warm: being seen, and making something that could only have come from you.
+You may be very good at belonging to a crowd; the North Node in Leo is about stepping out of it. With the [North Node](/astrology/north-node/) in [Leo](/astrology/leo/) at your birth, growth is personal and warm: being seen, and making something that could only have come from you.
 
 ## In a birth chart {#in-a-birth-chart}
 
-Leo is fixed fire, steady warmth rather than a spark. Across the chart, the [South Node](/astrology/south-node/) in [Aquarius](/astrology/aquarius/) is the ground you know: friendship, fairness, a cool head, a cause bigger than any one person. You may be at your most comfortable as one of many, useful and a little anonymous. The Leo end asks for what feels most exposed from there: to stand where people can see you, and to say *I made this*.
+Leo's fire is the fixed kind, steady warmth rather than a spark. Across the chart, the [South Node](/astrology/south-node/) in [Aquarius](/astrology/aquarius/) is the ground you know: friendship, fairness, a cool head, a cause bigger than any one person. You may be at your most comfortable as one of many, useful and a little anonymous. The Leo end asks for what feels most exposed from there: to stand where people can see you, and to say *I made this*.
 
 The [Sun](/astrology/sun/) rules Leo, so your Sun's sign and house show the style of shining you're growing into: where your light is meant to go, and how it likes to be seen.
 
 Using the true node, the node was in Leo from November 1942 to May 1944, June 1961 to December 1962, January 1980 to September 1981, October 1998 to April 2000 and May 2017 to November 2018, and it returns in November 2035. That makes it a generation's placement, shared by about 1 person in 13 of those born from 1930 to 2009; the house it falls in, which needs [your birth time](/blog/unknown-birth-time/), is what turns it into yours. The node came into Leo from Virgo and left for Cancer, so if you were born around one of those changes, [North Node in Virgo](/astrology/north-node-in-virgo/) or [North Node in Cancer](/astrology/north-node-in-cancer/) may fit better. The mean and true nodes stay within a degree or two of each other; I look at both, and if they fall either side of the line, I say so ([mean node and true node](/astrology/mean-node-and-true-node/)).
 
-As for evidence, the rising sign is the angle my [testing notebook](/blog/i-tested-my-birth-chart/) reports, and about a third held; the three that stood out were Saturn, Chiron and Lilith. So take this page as a sketch to hold up to your own life, not a portrait.
+As for evidence, the rising sign is the angle my [testing notebook](/blog/i-tested-my-birth-chart/) reports, and about a third held; it was Saturn, Chiron and Lilith that stood out. So take this page as a sketch to hold up to your own life, not a portrait.
 
 ## In close relationships {#in-close-relationships}
 
-In love, the Aquarius end can keep things friendly: a relationship like a great friendship, plenty of freedom, not much fuss. The Leo end wants the fuss. Romance, the declaration, the evening planned just for two, the courage to say *I adore you* first. You may also need to let yourself be adored back, which can be the harder half.
+Left to the Aquarius end, love stays friendly: a relationship like a great friendship, plenty of freedom, not much fuss. The Leo end wants the fuss. Romance, the declaration, the evening planned just for two, the courage to say *I adore you* first. You may also need to let yourself be adored back, which can be the harder half.
 
 A partner who delights in you, and says so, gives this node room to grow. So does one who lets you be the centre of attention now and then without making you pay for it.
 
 ## At work {#at-work}
 
-At work, you may be the team player who makes everyone else's project better. The North Node asks for one that carries your name. Creative work, performing, presenting, leading from the front: any role where your own style is the point gives Leo its practice. Taking credit for what you did isn't vanity here. It's part of the lesson.
+The team player who makes everyone else's project better may well be you. The North Node asks for one that carries your name. Creative work, performing, presenting, leading from the front: any role where your own style is the point gives Leo its practice. Taking credit for what you did isn't vanity here. It's part of the lesson.
 
 ## The hard part {#the-hard-part}
 

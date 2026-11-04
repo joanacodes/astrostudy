@@ -28,15 +28,15 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "the months Pluto spent and will spend in Gemini, 1700–2300" }
   - { title: "NASA — Pluto facts", url: "https://science.nasa.gov/dwarf-planets/pluto/facts/", note: "its discovery in 1930" }
 ---
-Pluto in Gemini is the last of its stays to pass before anyone knew Pluto was there: it ended in May 1914, and the planet was found in 1930. It sets the planet of deep change in the sign of questions, and I read it as transformation by thinking, talking and changing one's mind.
+Pluto in Gemini is the last of its stays to pass before anyone knew Pluto was there: it ended in May 1914, and the planet was found in 1930. In the sign of questions, Pluto's depth turns into curiosity, and I read it as transformation by thinking, talking and changing one's mind.
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Pluto](/astrology/pluto/) regenerates: it takes a thing down to its root and lets it come back renewed. [Gemini](/astrology/gemini/), mutable air ruled by Mercury, is curious, quick and two-sided; whatever sits in it learns by asking, comparing and passing things on. In Gemini, Pluto's depth goes into the mind. Renewal comes through a new idea, a question followed all the way down, a conversation after which nothing looks quite the same. What this generation transforms is how things are known and told.
+What [Pluto](/astrology/pluto/) touches, it takes down to the root and lets come back renewed. [Gemini](/astrology/gemini/), mutable air ruled by Mercury, is curious, quick and two-sided; whatever sits in it learns by asking, comparing and passing things on. In Gemini, Pluto's depth goes into the mind. Renewal comes through a new idea, a question followed all the way down, a conversation after which nothing looks quite the same. What this generation transforms is how things are known and told.
 
-Pluto has no dignity here, nor anywhere in the tradition, which never knew it; modern tropical astrology gives it Scorpio alone. The sign's ruler, [Mercury](/astrology/mercury/), carries a lot of weight in any chart with this Pluto: its sign and house show how a generation's hunger to know becomes one person's way of thinking and speaking.
+No dignity applies. The tradition never knew Pluto, and its one modern home, Scorpio, is water and fixed where Gemini is air and mutable, so this Pluto works far from its own manner. [Mercury](/astrology/mercury/), the ruler of Gemini, is where I look next, because it decides how all that digging gets spoken: in what style by its sign, and about what by its house.
 
-Pluto was in Gemini from July 1882 to May 1914, and will be again from June 2127 to May 2159. Nobody born between 1930 and 2009 has it; its youngest were born in 1914. At the start, July 1882 to April 1884, Pluto crossed back and forth with [Pluto in Taurus](/astrology/pluto-in-taurus/); at the end, September 1912 to May 1914, with [Pluto in Cancer](/astrology/pluto-in-cancer/), and for a birth in those months only the chart can say. A placement shared by more than thirty years of births is a backdrop. What makes it someone's own is the house it falls in, which takes a [birth time](/blog/unknown-birth-time/), and the aspects it makes.
+Pluto was in Gemini from July 1882 to May 1914, and will be again from June 2127 to May 2159. Nobody born between 1930 and 2009 has it; its youngest were born in 1914. At the start, July 1882 to April 1884, Pluto crossed back and forth with [Pluto in Taurus](/astrology/pluto-in-taurus/); at the end, September 1912 to May 1914, with [Pluto in Cancer](/astrology/pluto-in-cancer/), and births in those months need the chart itself. A placement shared by more than thirty years of births is a backdrop. What makes it someone's own is the house it falls in, which takes a [birth time](/blog/unknown-birth-time/), and the aspects it makes.
 
 ## In close relationships {#in-close-relationships}
 

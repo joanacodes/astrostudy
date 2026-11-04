@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 97
 glyph: "♆♈"
-definition: "Neptune en Bélier, c’est la planète de l’imagination et de la compassion dans le signe de feu cardinal des commencements, où Neptune arrive en 2025 et reste jusqu’en 2039. Les personnes nées avec ce placement sont encore des enfants : j’y lis donc le signe d’une génération, des idéaux qui veulent agir et une compassion qui fait le premier pas."
+definition: "Neptune en Bélier, c’est la planète de l’imagination et de la compassion dans le signe de feu cardinal des commencements, où Neptune arrive en 2025 et reste jusqu’en 2039. Les personnes nées avec ce placement sont encore des enfants : j’y lis donc le signe d’une génération, des idéaux qui demandent des actes et une compassion qui fait le premier pas."
 facts:
   - { k: "Corps", v: "Neptune ♆" }
   - { k: "Signe", v: "Bélier ♈, gouverné par Mars" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/neptune", "/astrology/aries", "/astrology/mars", "/astrology/childrens-charts", "/astrology/generational-placements-by-birth-year"]
 faq:
   - q: "Que veut dire Neptune en Bélier ?"
-    a: "L’imagination et la compassion de Neptune dans le signe des commencements : des idéaux qui veulent agir plutôt qu’attendre, et un courage mis au service d’un rêve. Ce placement appartient à la génération née de 2025 à 2039 : j’y lis donc le signe de cette génération, jamais la lecture d’un enfant en particulier."
+    a: "L’imagination et la compassion de Neptune dans le signe des commencements : des idéaux qui demandent des actes plutôt que de l’attente, et un courage mis au service d’un rêve. Ce placement appartient à la génération née de 2025 à 2039 : j’y lis donc le signe de cette génération, jamais la lecture d’un enfant en particulier."
   - q: "Quelles sont les années de Neptune en Bélier ?"
     a: "De mars 2025 à mars 2039. Jusqu’en janvier 2026, Neptune a fait l’aller-retour avec les Poissons, et à partir de mai 2038 Neptune fera de même avec le Taureau : pour une naissance de ces mois-là, il faut le thème. Le séjour précédent allait d’avril 1861 à avril 1875 : aucune personne adulte aujourd’hui n’a ce placement."
   - q: "Que signifie Neptune en Bélier pour les adultes ?"

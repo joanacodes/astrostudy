@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 115
 glyph: "♇♎"
-definition: "Pluto in Libra is the planet of deep change in cardinal air, the sign of the scales, ruled by Venus. It belongs to the generation born from October 1971 to August 1984, about 1 person in 7 born from 1930 to 2009. In a chart it describes relationships remade: fairness, equality and the terms between two people."
+definition: "Pluto in Libra carries deep change into the sign of the scales, cardinal air ruled by Venus. It belongs to the generation born from October 1971 to August 1984, about 1 person in 7 born from 1930 to 2009. In a chart it describes relationships remade: fairness, equality and the terms between two people."
 facts:
   - { k: "Body", v: "Pluto ♇" }
   - { k: "Sign", v: "Libra ♎, ruled by Venus" }
@@ -28,15 +28,15 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "the months Pluto spent in Libra, 1930–2039, and how many people born 1930–2009 have it" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-Pluto in Libra belongs to births from October 1971 to August 1984. It sets the planet of deep change in the sign of the scales, and I read it as a generation that remakes the terms of relationship itself: what is fair between two people, and what each owes the other.
+Pluto in Libra belongs to births from October 1971 to August 1984. With the planet of deep change on the scales, I read a generation that remakes the terms of relationship itself: what is fair between two people, and what each owes the other.
 
 ## In a birth chart {#in-a-birth-chart}
 
 [Pluto](/astrology/pluto/) transforms by going to the root, and empowers what is real once the false has gone. [Libra](/astrology/libra/), cardinal air ruled by Venus, weighs, balances and connects; whatever sits in it works through other people and through the question of what is fair. In Libra, Pluto's depth goes into relating. This generation doesn't take the old terms of partnership for granted: who decides, who gives way, what equality between two people looks like from one day to the next. Cardinal signs begin things, and here the beginning is a negotiation, often reopened.
 
-Pluto has no dignity in Libra. The tradition never knew Pluto, and modern tropical astrology gives it Scorpio, the very next sign. [Venus](/astrology/venus/), the ruler of Libra, matters a great deal in any chart with this Pluto: its sign and house show what a generation's hunger for fairness looks like in one person's way of loving and choosing.
+Libra gives Pluto no dignity, whether in the tradition, which never knew it, or in modern tropical astrology, which gives it Scorpio. Scorpio comes straight after Libra, and this Pluto often reads like Scorpio's depth spoken in the language of fairness. [Venus](/astrology/venus/) rules the scales, so I read Venus alongside it: where Venus sits shows the kind of partner a person is drawn to, and the terms they will insist on.
 
-Pluto was in Libra from October 1971 to August 1984, and returns from November 2217 to October 2230. It crossed back and forth with [Pluto in Virgo](/astrology/pluto-in-virgo/) until July 1972, and with [Pluto in Scorpio](/astrology/pluto-in-scorpio/) from November 1983, so births at either end need the chart to say which sign is theirs. Of everyone born from 1930 to 2009, about 1 person in 7 has it. The sign is shared by a whole generation; the house makes it yours, and the house needs a [birth time](/blog/unknown-birth-time/).
+Pluto was in Libra from October 1971 to August 1984, and returns from November 2217 to October 2230. It crossed back and forth with [Pluto in Virgo](/astrology/pluto-in-virgo/) until July 1972, and with [Pluto in Scorpio](/astrology/pluto-in-scorpio/) from November 1983, so births at either end are settled only by the chart. Among births from 1930 to 2009, about 1 person in 7 has it. Shared by a whole generation, the sign describes the terms everyone negotiates; the house describes where you negotiate them, and it needs a [birth time](/blog/unknown-birth-time/).
 
 ## In close relationships {#in-close-relationships}
 
@@ -44,7 +44,7 @@ Partnership is where Pluto in Libra does its deepest work. Relationships are tak
 
 ## At work {#at-work}
 
-At work, this Pluto is drawn to wherever fairness has to be built: mediation, law, design, diplomacy, any role that brings people to an agreement they can live with. It can transform how a team shares decisions, or how a business treats the people on the other side of the deal. It often works best in partnership, and needs partners who play fair. Places where power is hidden, or the rules are bent quietly, can feel intolerable to it.
+Fairness has to be built somewhere, and this Pluto likes to be the builder: mediation, law, design, diplomacy, any role that brings people to an agreement they can live with. It can transform how a team shares decisions, or how a business treats the people on the other side of the deal. It often works best in partnership, and needs partners who play fair. Places where power is hidden, or the rules are bent quietly, can feel intolerable to it.
 
 ## The hard part {#the-hard-part}
 

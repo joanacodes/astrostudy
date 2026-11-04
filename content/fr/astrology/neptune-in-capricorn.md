@@ -2,13 +2,13 @@
 title: "Neptune en Capricorne"
 slug: "neptune-en-capricorne"
 h1: "Neptune en Capricorne dans un thème natal"
-description: "Neptune en Capricorne dans un thème natal : le rêve de structures qui marchent de la génération 1984–1998, lu avec Saturne, son maître. L’amour, le travail."
+description: "Neptune en Capricorne dans un thème natal : le désir de la génération 1984–1998 de bâtir ses rêves pour durer, lu avec Saturne, son maître."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 106
 glyph: "♆♑"
-definition: "Neptune en Capricorne, c’est la planète de l’imagination et de la compassion dans le signe de terre cardinal de la structure et de la réussite, où Neptune a séjourné de janvier 1984 à novembre 1998. J’y lis le désir de cette génération de donner corps aux rêves : l’idéalisme du travail et des institutions, des visions bâties pour durer."
+definition: "Neptune en Capricorne, c’est la planète de l’imagination et de la compassion dans le signe de terre cardinal de la structure et de la réussite, où Neptune a séjourné de janvier 1984 à novembre 1998. J’y lis le désir de cette génération de donner corps aux rêves : des idéaux sur le travail et les institutions, des visions faites pour durer."
 facts:
   - { k: "Corps", v: "Neptune ♆" }
   - { k: "Signe", v: "Capricorne ♑, gouverné par Saturne" }

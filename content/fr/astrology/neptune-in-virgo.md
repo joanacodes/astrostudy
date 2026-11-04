@@ -2,7 +2,7 @@
 title: "Neptune en Vierge"
 slug: "neptune-en-vierge"
 h1: "Neptune en Vierge dans un thème natal"
-description: "Neptune en Vierge dans un thème natal : Neptune en exil, le rêve d’être utile de la génération 1928–1943. Ses années, l’amour, le travail, ce qui aide."
+description: "Neptune en Vierge dans un thème natal : Neptune en exil, l’idéal de travail utile de la génération 1928–1943. Ses années, l’amour, le travail, ce qui aide."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"

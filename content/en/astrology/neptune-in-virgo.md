@@ -1,7 +1,7 @@
 ---
 title: "Neptune in Virgo"
 h1: "Neptune in Virgo in a birth chart"
-description: "Neptune in Virgo in a birth chart: Neptune in detriment, the 1928–1943 generation’s dream of being useful. Its years, love, work, the hard part, what helps."
+description: "Neptune in Virgo in a birth chart: Neptune in detriment, the 1928–1943 generation’s ideal of useful work. Its years, love, work, the hard part, what helps."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"

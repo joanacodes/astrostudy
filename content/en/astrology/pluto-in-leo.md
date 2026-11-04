@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 113
 glyph: "♇♌"
-definition: "Pluto in Leo is the planet of deep change in fixed fire, the sign of the heart, ruled by the Sun. Births from 1937 to 1958 share it: about 1 person in 4 of everyone born from 1930 to 2009. In a chart it describes a generation transformed through creating, loving and daring to be seen."
+definition: "Pluto in Leo sets deep change in the sign of the heart: fixed fire, ruled by the Sun. Births from 1937 to 1958 share it: about 1 person in 4 of everyone born from 1930 to 2009. In a chart it describes a generation transformed through creating, loving and daring to be seen."
 facts:
   - { k: "Body", v: "Pluto ♇" }
   - { k: "Sign", v: "Leo ♌, ruled by the Sun" }
@@ -28,15 +28,15 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "the months Pluto spent in Leo, 1930–2039, and how many people born 1930–2009 have it" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-About 1 person in 4 born between 1930 and 2009 has Pluto in Leo, more than any other Pluto sign in that span. It puts the planet of deep change in the sign of the heart, and I read it as transformation through creating, loving and daring to be seen.
+About 1 person in 4 born between 1930 and 2009 has Pluto in Leo, more than any other Pluto sign in that span. Here deep change works through the heart, and I read it as a generation transformed by creating, loving and daring to be seen.
 
 ## In a birth chart {#in-a-birth-chart}
 
 [Pluto](/astrology/pluto/) renews by going to the core: it strips away what is false so that something more authentic can take its place. [Leo](/astrology/leo/), fixed fire ruled by the Sun, is warm, loyal, proud and expressive; whatever sits in it wants to shine steadily and be recognised for what it is. In Leo, Pluto's depth goes into self-expression. This generation transforms what it means to create, to love openly and to matter as an individual, and its power comes through the heart rather than around it.
 
-Pluto has no dignity in Leo. The tradition never knew it, and modern tropical astrology gives it Scorpio, which is, like Leo, a fixed sign: this Pluto keeps its staying power, and spends it in the open. The [Sun](/astrology/sun/), the ruler of Leo, has much to say in any chart with this Pluto. Its sign and house show where a generation's wish to be seen becomes one person's sense of purpose.
+Leo holds no dignity for Pluto, which the tradition never knew and modern tropical astrology houses in Scorpio. Both signs are fixed, though, so this Pluto keeps its staying power and spends it in the open. And since the [Sun](/astrology/sun/) rules Leo, the Sun's place in a chart is where this generation's need to shine finds a personal purpose: the sign gives that purpose its style, the house its stage.
 
-Pluto was in Leo from October 1937 to June 1958, and comes back only from August 2183 to June 2204. The first months, to June 1939, are shared with [Pluto in Cancer](/astrology/pluto-in-cancer/), the last, from October 1956, with [Pluto in Virgo](/astrology/pluto-in-virgo/), and births in those months need the chart to say which sign is theirs. Of everyone born from 1930 to 2009, about 1 person in 4 has Pluto in Leo. With so many sharing it, the sign alone can't describe anyone. The house can, and the house needs a [birth time](/blog/unknown-birth-time/).
+Pluto was in Leo from October 1937 to June 1958, and comes back only from August 2183 to June 2204. The first months, to June 1939, are shared with [Pluto in Cancer](/astrology/pluto-in-cancer/), the last, from October 1956, with [Pluto in Virgo](/astrology/pluto-in-virgo/), and for those births the chart has the last word. A quarter of all births from 1930 to 2009 is far too many people for the sign alone to describe anyone; the house can, and it needs a [birth time](/blog/unknown-birth-time/).
 
 ## In close relationships {#in-close-relationships}
 

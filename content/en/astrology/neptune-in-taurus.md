@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/neptune", "/astrology/taurus", "/astrology/venus", "/astrology/personal-social-and-generational-planets", "/astrology/neptune-in-2nd-house"]
 faq:
   - q: "What does Neptune in Taurus mean?"
-    a: "It’s Neptune’s imagination and compassion working through the senses: beauty found in land, food, music and craft, and a dream of a slower, more solid life. Nobody alive today was born with it, so I describe it as the sign of a past generation and of one still to come."
+    a: "It’s Neptune’s imagination and compassion working through the senses: beauty found in land, food, music and craft, and a dream of living slowly, close to the ground. Nobody alive today was born with it, so I describe it as the sign of a past generation and of one still to come."
   - q: "When was Neptune last in Taurus, and when does it return?"
     a: "Neptune was in Taurus from June 1874 to March 1889, and returns from May 2038 to May 2052. At each end it crosses back and forth with Aries or Gemini for some months. None of the births from 1930 to 2009 have it, and nobody alive today does."
   - q: "Why does nobody have Neptune in Taurus?"

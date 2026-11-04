@@ -2,13 +2,13 @@
 title: "Neptune en Sagittaire"
 slug: "neptune-en-sagittaire"
 h1: "Neptune en Sagittaire dans un thème natal"
-description: "Neptune en Sagittaire dans un thème natal : l’aspiration de la génération 1970–1984 à la foi, au sens et aux ailleurs, et ce que Jupiter en fait."
+description: "Neptune en Sagittaire dans un thème natal : la quête de foi et d’un sens plus grand de la génération 1970–1984, et ce que Jupiter en fait."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 105
 glyph: "♆♐"
-definition: "Neptune en Sagittaire, c’est la planète de l’imagination et de la compassion dans le signe de feu mutable du sens et des ailleurs, où Neptune a séjourné de janvier 1970 à novembre 1984. J’y lis l’aspiration de cette génération à un sens plus grand : une foi sans frontières, une quête qui ne s’arrête pas, un monde meilleur derrière l’horizon."
+definition: "Neptune en Sagittaire, c’est la planète de l’imagination et de la compassion dans le signe de feu mutable des voyages et des grandes questions, où Neptune a séjourné de janvier 1970 à novembre 1984. J’y lis l’aspiration de cette génération à un sens plus grand : une foi sans frontières, une quête qui ne s’arrête pas, un monde meilleur derrière l’horizon."
 facts:
   - { k: "Corps", v: "Neptune ♆" }
   - { k: "Signe", v: "Sagittaire ♐, gouverné par Jupiter" }

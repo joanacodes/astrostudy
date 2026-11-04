@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 100
 glyph: "♆♋"
-definition: "Neptune in Cancer is Neptune, the planet of imagination and compassion, in the cardinal water sign of home and belonging. It was last there from 1901 to 1916, so the youngest people born with it would be over 110 today, and it returns in 2065. It describes ideals of home, homeland and family: a longing for a safe harbour."
+definition: "Neptune in Cancer is Neptune, the planet of imagination and compassion, in the cardinal water sign of home and belonging. It was last there from 1901 to 1916, so the youngest people born with it would be over 110 today, and it returns in 2065. It describes ideals of home, homeland and family: a harbour to come back to."
 facts:
   - { k: "Body", v: "Neptune ♆" }
   - { k: "Sign", v: "Cancer ♋, ruled by the Moon" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/neptune", "/astrology/cancer", "/astrology/moon", "/astrology/neptune-in-4th-house", "/astrology/personal-social-and-generational-planets"]
 faq:
   - q: "What does Neptune in Cancer mean?"
-    a: "Neptune’s imagination and compassion in the sign of home: ideals of belonging, family and homeland, and a longing for a safe harbour. The people born with it arrived between 1901 and 1916, and the sign returns from 2065, so it belongs to a generation now over 110 and to one not yet born."
+    a: "Neptune’s imagination and compassion in the sign of home: ideals of belonging, family and homeland, and the wish for a harbour to come back to. The people born with it arrived between 1901 and 1916, and the sign returns from 2065, so it belongs to a generation now over 110 and to one not yet born."
   - q: "Is anyone alive with Neptune in Cancer?"
     a: "Only the very oldest. Neptune was in Cancer from July 1901 to May 1916, sharing its last months with Leo from September 1914, so the youngest people born with it would be over 110 today. None of the births from 1930 to 2009 have it. The next stay runs from July 2065 to July 2079."
   - q: "Is Neptune exalted in Cancer?"

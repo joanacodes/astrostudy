@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 119
 glyph: "♇♒"
-definition: "Pluto in Aquarius is the planet of deep change in fixed air, the sign of groups, ruled by Uranus and traditionally by Saturn. Pluto entered it in 2023 and stays until 2044, so everyone alive who was born with it is still a small child. Astrologers read it as a generation transformed through collective life and shared ideals."
+definition: "Pluto in Aquarius places deep change among groups and shared ideals, in fixed air ruled by Uranus and traditionally by Saturn. Pluto entered it in 2023 and stays until 2044, so everyone alive who was born with it is still a small child. Astrologers read it as a generation transformed through collective life and shared ideals."
 facts:
   - { k: "Body", v: "Pluto ♇" }
   - { k: "Sign", v: "Aquarius ♒, ruled by Uranus and traditionally by Saturn" }
@@ -36,9 +36,9 @@ Pluto entered Aquarius in March 2023 and stays until January 2044, so everyone b
 
 [Pluto](/astrology/pluto/) transforms by clearing out what no longer serves and strengthening what is real. [Aquarius](/astrology/aquarius/), fixed air, thinks in terms of the group: friendships, communities, networks, the ideals people hold in common, and the independence of each person within them. In Aquarius, Pluto's depth goes into collective life. Astrologers read this generation's Pluto as transformation through groups and shared ideas, through how people organise, belong and decide together. Being fixed, it holds its convictions steadily once it has them.
 
-Aquarius has two rulers, and I read both. Modern tropical astrology gives it to [Uranus](/astrology/uranus/), the planet of innovation and liberation; tradition gives it to [Saturn](/astrology/saturn/), the planet of structure. Uranus was discovered in 1781, in the middle of Pluto's previous stay in Aquarius, which ran from April 1777 to December 1798. In a chart with this Pluto, Uranus shows where change wants to break through, and Saturn where it has to be built to last. Pluto itself has no dignity here; its modern domicile is Scorpio.
+Aquarius has two rulers, and I read both. Modern tropical astrology gives it to [Uranus](/astrology/uranus/), the planet of innovation and liberation; tradition gives it to [Saturn](/astrology/saturn/), the planet of structure. Uranus was discovered in 1781, in the middle of Pluto's previous stay in Aquarius, which ran from April 1777 to December 1798. In a chart with this Pluto, Uranus shows where change wants to break through, and Saturn where it has to be built to last. Of dignity there is none: the tradition never met Pluto, and modern tropical astrology keeps it for Scorpio.
 
-The present stay runs from March 2023 to January 2044. Until November 2024 Pluto crossed back and forth with [Pluto in Capricorn](/astrology/pluto-in-capricorn/), and from March 2043 it will do the same with [Pluto in Pisces](/astrology/pluto-in-pisces/), so births at either edge need the chart to say which sign is theirs. Nobody born from 1930 to 2009 has Pluto in Aquarius. As with every Pluto sign, the house is what makes it personal, and the house needs a [birth time](/blog/unknown-birth-time/). For adults, Pluto in Aquarius is a transit instead: weather passing through the sky, not a placement in their chart, and never a forecast.
+The present stay runs from March 2023 to January 2044. Until November 2024 Pluto crossed back and forth with [Pluto in Capricorn](/astrology/pluto-in-capricorn/), and from March 2043 it will do the same with [Pluto in Pisces](/astrology/pluto-in-pisces/), so a birth at either edge needs its own chart checked. Nobody born from 1930 to 2009 has Pluto in Aquarius. When the people born with it are grown, the house will be what makes it theirs, and only a [birth time](/blog/unknown-birth-time/) can place it. For adults, Pluto in Aquarius is a transit instead: weather passing through the sky, not a placement in their chart, and never a forecast.
 
 ## In close relationships {#in-close-relationships}
 

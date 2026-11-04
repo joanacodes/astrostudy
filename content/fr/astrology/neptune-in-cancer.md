@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 100
 glyph: "♆♋"
-definition: "Neptune en Cancer, c’est la planète de l’imagination et de la compassion dans le signe d’eau cardinal du foyer et de l’appartenance. Neptune y était de 1901 à 1916, et y revient en 2065 : les personnes nées alors auraient plus de 110 ans. On y lit des idéaux de foyer, de patrie et de famille, le désir d’un port d’attache."
+definition: "Neptune en Cancer, c’est la planète de l’imagination et de la compassion dans le signe d’eau cardinal du foyer et de l’appartenance. Neptune y était de 1901 à 1916, et y revient en 2065 : les personnes nées alors auraient plus de 110 ans. On y lit des idéaux de foyer, de patrie et de famille, l’envie d’un port où revenir."
 facts:
   - { k: "Corps", v: "Neptune ♆" }
   - { k: "Signe", v: "Cancer ♋, gouverné par la Lune" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/neptune", "/astrology/cancer", "/astrology/moon", "/astrology/neptune-in-4th-house", "/astrology/personal-social-and-generational-planets"]
 faq:
   - q: "Que veut dire Neptune en Cancer ?"
-    a: "L’imagination et la compassion de Neptune dans le signe du foyer : des idéaux d’appartenance, de famille et de patrie, et le désir d’un port d’attache. Les naissances avec ce placement vont de 1901 à 1916, et le signe revient dès 2065 : ce placement appartient à une génération qui a passé 110 ans, et à une autre encore à naître."
+    a: "L’imagination et la compassion de Neptune dans le signe du foyer : des idéaux d’appartenance, de famille et de patrie, et l’envie d’un port où revenir. Les naissances avec ce placement vont de 1901 à 1916, et le signe revient dès 2065 : ce placement appartient à une génération qui a passé 110 ans, et à une autre encore à naître."
   - q: "Des personnes en vie ont-elles Neptune en Cancer ?"
     a: "Seulement les plus âgées. Neptune était en Cancer de juillet 1901 à mai 1916, avec des derniers mois partagés avec le Lion dès septembre 1914 : les plus jeunes des personnes nées avec ce placement auraient aujourd’hui plus de 110 ans. Aucune des naissances de 1930 à 2009 ne l’a. Le prochain séjour va de juillet 2065 à juillet 2079."
   - q: "Neptune en Cancer, est-ce une exaltation ?"

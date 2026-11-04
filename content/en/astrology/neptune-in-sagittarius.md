@@ -1,13 +1,13 @@
 ---
 title: "Neptune in Sagittarius"
 h1: "Neptune in Sagittarius in a birth chart"
-description: "Neptune in Sagittarius in a birth chart: the 1970–1984 generation’s longing for faith, meaning and faraway places, and how Jupiter shapes it."
+description: "Neptune in Sagittarius in a birth chart: the 1970–1984 generation’s search for faith and a bigger meaning, and how Jupiter shapes it."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 105
 glyph: "♆♐"
-definition: "Neptune in Sagittarius is Neptune, the planet of imagination and compassion, in the mutable fire sign of meaning and faraway places, where it stayed from January 1970 to November 1984. I read it as that generation’s longing for a bigger meaning: faith without borders, a search that keeps moving, and somewhere better over the horizon."
+definition: "Neptune in Sagittarius is Neptune, the planet of imagination and compassion, in the mutable fire sign of journeys and big questions, where it stayed from January 1970 to November 1984. I read it as that generation’s longing for a bigger meaning: faith without borders, a search that keeps moving, and somewhere better over the horizon."
 facts:
   - { k: "Body", v: "Neptune ♆" }
   - { k: "Sign", v: "Sagittarius ♐, ruled by Jupiter" }

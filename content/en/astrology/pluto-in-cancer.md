@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 112
 glyph: "♇♋"
-definition: "Pluto in Cancer is the planet of deep change in cardinal water, the sign of home and family ruled by the Moon. It belongs to births from 1912 to 1939, and Pluto was in Cancer when it was discovered in 1930. In a chart it describes belonging remade, and roots kept fiercely, by a whole generation."
+definition: "Pluto in Cancer brings deep change to the sign of home and family, cardinal water ruled by the Moon. It belongs to births from 1912 to 1939, and Pluto was in Cancer when it was discovered in 1930. In a chart it describes belonging remade, and roots kept fiercely, by a whole generation."
 facts:
   - { k: "Body", v: "Pluto ♇" }
   - { k: "Sign", v: "Cancer ♋, ruled by the Moon" }
@@ -34,9 +34,9 @@ When Pluto was found in 1930, it was in Cancer, so this is the first sign anyone
 
 [Pluto](/astrology/pluto/) is where a chart goes all the way down: what has become obsolete is let go, and what is left grows back stronger. [Cancer](/astrology/cancer/), cardinal water ruled by the Moon, protects, nourishes and remembers. In Cancer, Pluto's transformation works on belonging. Home, family and the feeling of being safe among one's own are what this generation remakes, and also what it defends hardest. Cardinal signs start things, so the renewal here is active: founding a household, rebuilding a family's way of living, choosing who counts as one's own.
 
-Pluto has no dignity in Cancer. The tradition never knew it, and modern tropical astrology gives it only Scorpio, another water sign. The [Moon](/astrology/moon/), the ruler of Cancer, matters a great deal in any chart with this Pluto: its sign and house show how a generation's need for roots becomes one person's way of caring and being cared for.
+Cancer is not one of Pluto's signs: the tradition never knew the planet, and modern tropical astrology gives it only Scorpio. The two share water, though, so feeling here runs as deep as Pluto could wish. And with the [Moon](/astrology/moon/) as the sign's ruler, a reading of this Pluto always comes back to the Moon: its sign shows how this person cares for others, its house where home really is for them.
 
-The whole stay ran from September 1912 to June 1939, and Pluto comes back to Cancer only from August 2157 to April 2185. Its first months, to May 1914, were shared with [Pluto in Gemini](/astrology/pluto-in-gemini/), and its last, from October 1937, with [Pluto in Leo](/astrology/pluto-in-leo/): for those births, only the chart can say which sign is right. Of everyone born between 1930 and 2009, about 1 person in 9 has Pluto in Cancer, a count that sees only the 1930s end of the stay. A sign shared over more than a quarter of a century speaks for a generation. The house makes it someone's own, and the house needs a [birth time](/blog/unknown-birth-time/).
+The whole stay ran from September 1912 to June 1939, and Pluto comes back to Cancer only from August 2157 to April 2185. Its first months, to May 1914, were shared with [Pluto in Gemini](/astrology/pluto-in-gemini/), and its last, from October 1937, with [Pluto in Leo](/astrology/pluto-in-leo/): for those births, only the chart can say which sign is right. Of everyone born between 1930 and 2009, about 1 person in 9 has Pluto in Cancer, a count that sees only the 1930s end of the stay. More than a quarter of a century of births share the sign. The house is more like a family address, the part that belongs to one person, and it takes a [birth time](/blog/unknown-birth-time/) to find.
 
 ## In close relationships {#in-close-relationships}
 

@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/neptune", "/astrology/taurus", "/astrology/venus", "/astrology/personal-social-and-generational-planets", "/astrology/neptune-in-2nd-house"]
 faq:
   - q: "Que veut dire Neptune en Taureau ?"
-    a: "C’est l’imagination et la compassion de Neptune qui passent par les sens : la beauté trouvée dans la terre, la cuisine, la musique et l’artisanat, et le rêve d’une vie plus lente, plus solide. Aucune personne en vie aujourd’hui n’a ce placement : je le décris comme le signe d’une génération passée, et d’une génération à venir."
+    a: "C’est l’imagination et la compassion de Neptune qui passent par les sens : la beauté trouvée dans la terre, la cuisine, la musique et l’artisanat, et le rêve de vivre lentement, près de la terre. Aucune personne en vie aujourd’hui n’a ce placement : je le décris comme le signe d’une génération passée, et d’une génération à venir."
   - q: "Quand trouve-t-on Neptune en Taureau ?"
     a: "Neptune était en Taureau de juin 1874 à mars 1889, et y revient de mai 2038 à mai 2052. À chaque bout, Neptune fait quelques mois d’allers-retours avec le Bélier ou les Gémeaux. Aucune des naissances de 1930 à 2009 n’a ce placement, et aucune personne en vie aujourd’hui non plus."
   - q: "Pourquoi aucune personne en vie n’a-t-elle Neptune en Taureau ?"

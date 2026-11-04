@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 104
 glyph: "♆♏"
-definition: "Neptune en Scorpion, c’est la planète de l’imagination et de la compassion dans le signe d’eau fixe de la profondeur et de l’intimité, où Neptune a séjourné de décembre 1955 à novembre 1970. Pour la génération née alors, j’y lis l’attrait de ce qui se cache sous la surface : l’intimité sans masques, le mystère, la compassion qui reste dans l’obscurité."
+definition: "Neptune en Scorpion, c’est la planète de l’imagination et de la compassion dans le signe d’eau fixe de la profondeur et de l’intimité, où Neptune a séjourné de décembre 1955 à novembre 1970. Pour la génération née alors, j’y lis l’attrait de la profondeur : l’intimité sans masques, le mystère, la compassion qui reste dans l’obscurité."
 facts:
   - { k: "Corps", v: "Neptune ♆" }
   - { k: "Signe", v: "Scorpion ♏, gouverné par Pluton (moderne) et Mars (traditionnel)" }

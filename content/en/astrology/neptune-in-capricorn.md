@@ -1,13 +1,13 @@
 ---
 title: "Neptune in Capricorn"
 h1: "Neptune in Capricorn in a birth chart"
-description: "Neptune in Capricorn in a birth chart: the 1984–1998 generation’s dream of structures that work, read with Saturn, its ruler. Love, work, what helps."
+description: "Neptune in Capricorn in a birth chart: the 1984–1998 generation’s wish to build its dreams to last, read with Saturn, its ruler. Love, work, what helps."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 106
 glyph: "♆♑"
-definition: "Neptune in Capricorn is Neptune, the planet of imagination and compassion, in the cardinal earth sign of structure and achievement, where it stayed from January 1984 to November 1998. I read it as that generation’s wish to give dreams a concrete shape: idealism about work and institutions, and visions built to last."
+definition: "Neptune in Capricorn is Neptune, the planet of imagination and compassion, in the cardinal earth sign of structure and achievement, where it stayed from January 1984 to November 1998. I read it as that generation’s wish to give dreams a concrete shape: ideals about work and the institutions people build, and visions made to last."
 facts:
   - { k: "Body", v: "Neptune ♆" }
   - { k: "Sign", v: "Capricorn ♑, ruled by Saturn" }

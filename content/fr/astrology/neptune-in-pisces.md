@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/neptune", "/astrology/pisces", "/astrology/jupiter", "/astrology/domicile", "/astrology/childrens-charts"]
 faq:
   - q: "Que veut dire Neptune en Poissons ?"
-    a: "Neptune dans son propre signe, en astrologie tropicale moderne : l’imagination, la compassion et le sentiment que tout est relié, quand s’amincissent les frontières entre les gens, l’art et la foi. Ce placement appartient à la génération née de 2011 au début de 2026. J’y lis le placement de cette génération, jamais la lecture d’un enfant."
+    a: "Neptune dans son propre signe, en astrologie tropicale moderne : l’imagination, la compassion et le sentiment que rien n’est tout à fait séparé, quand s’amincissent les frontières entre les gens, l’art et la foi. Ce placement appartient à la génération née de 2011 au début de 2026. J’y lis le placement de cette génération, jamais la lecture d’un enfant."
   - q: "Quelles naissances ont Neptune en Poissons ?"
     a: "Toutes celles d’avril 2011 à janvier 2026, avec des mois partagés aux frontières : jusqu’en février 2012, Neptune faisait l’aller-retour avec le Verseau, et dès mars 2025 avec le Bélier. Le séjour précédent allait de 1847 à 1862 : aucune personne adulte aujourd’hui n’a Neptune en Poissons."
   - q: "Qui gouverne les Poissons, Neptune ou Jupiter ?"
@@ -35,7 +35,7 @@ Neptune en Poissons, c’est Neptune en domicile, selon l’astrologie tropicale
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-En [Poissons](/astrology/pisces/), signe d’eau mutable, [Neptune](/astrology/neptune/) n’a rien à traduire. Le signe et la planète parlent la même langue : l’imagination, la compassion, le sentiment que tout est relié à tout. L’astrologie tropicale moderne y voit le [domicile](/astrology/domicile/) de Neptune. Les frontières entre les gens s’adoucissent, l’art et la foi se mêlent, et le ressenti pour l’autre passe avant l’argument. Comme le signe est mutable, le rêve ne se fige pas en doctrine. Il reste en mouvement, comme l’eau qui trouve son niveau.
+En [Poissons](/astrology/pisces/), signe d’eau mutable, [Neptune](/astrology/neptune/) n’a rien à traduire. Le signe et la planète parlent la même langue : l’imagination, la compassion, le sentiment que rien ne se tient tout à fait à part. L’astrologie tropicale moderne y voit le [domicile](/astrology/domicile/) de Neptune. Les frontières entre les gens s’adoucissent, l’art et la foi se mêlent, et le ressenti pour l’autre passe avant l’argument. Comme le signe est mutable, le rêve ne se fige pas en doctrine. Il reste en mouvement, comme l’eau qui trouve son niveau.
 
 Les Poissons ont deux maîtres, et je lis les deux. Dans le schéma moderne, c’est Neptune qui les gouverne : Neptune en Poissons ne répond donc à aucune autre planète. La tradition, qui ignorait Neptune, donnait les Poissons à [Jupiter](/astrology/jupiter/), et Jupiter garde son mot à dire : sa place dans un thème montre comment une compassion aussi vaste pourrait devenir quelque chose de vécu, avec une forme et une direction.
 
