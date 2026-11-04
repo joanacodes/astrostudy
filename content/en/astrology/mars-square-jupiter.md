@@ -52,7 +52,7 @@ Between two charts, [Mars square Jupiter in synastry](/astrology/mars-square-jup
 
 ## In transits {#in-transits}
 
-[Transiting Jupiter square natal Mars](/astrology/transiting-jupiter-square-natal-mars/) comes twice in each twelve-year round of Jupiter, for a few weeks or, with retrograde passes, a few months: a season in which ambitions can outgrow the energy available, and choosing what matters most pays off. Each [Jupiter return](/astrology/jupiter-return/), about every twelve years, recreates the square from your birth chart, a regular moment to check your plans' proportions.
+[Transiting Jupiter square natal Mars](/astrology/transiting-jupiter-square-natal-mars/) comes twice in each twelve-year round of Jupiter, for a few weeks or, with retrograde passes, a few months: a season in which ambitions can outgrow the energy available, and choosing what matters most pays off. If the square is in your chart, each [Jupiter return](/astrology/jupiter-return/), about every twelve years, recreates it in the sky: a regular moment to check your plans' proportions.
 
 Mars, in turn, squares your natal Jupiter about once a year, for a few days of impatience with anything that seems small.
 
