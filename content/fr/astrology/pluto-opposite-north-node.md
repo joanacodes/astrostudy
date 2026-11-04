@@ -18,9 +18,9 @@ facts:
   - { k: "À l’inversion nodale", v: "Le Nœud Nord en transit passe sur Pluton du thème natal" }
 related: ["/astrology/pluto", "/astrology/north-node", "/astrology/opposition", "/astrology/south-node", "/astrology/nodal-reversal"]
 faq:
-  - q: "Que veut dire Pluton sur le Nœud Sud ?"
+  - q: "Quel sens donner à Pluton près du Nœud Sud ?"
     a: "Que la transformation est pour vous un savoir-faire ancien et rodé : finir les choses, recommencer, trouver de la force dans le processus. C’est une vraie ressource. Le Nœud Nord, en face, vous demande de pratiquer une capacité qui vient moins facilement : le travail consiste à y recourir quand une situation l’appelle, et pas seulement au changement profond."
-  - q: "Pluton opposition Nœud Nord, est-ce un aspect karmique ?"
+  - q: "Faut-il parler de karma pour Pluton opposition Nœud Nord ?"
     a: "Certains astrologues disent karmique Pluton sur le Nœud Sud. Je lis cette position plus simplement, comme une force apprise tôt et une habitude à surveiller. Le Nœud Sud ne vaut pas moins que le Nœud Nord, et il n’y a ici aucune dette à rembourser : l’opposition demande un équilibre entre les deux bouts."
   - q: "Combien de naissances portent Pluton opposition Nœud Nord ?"
     a: "Environ 1 personne sur 31 née entre 1930 et 2009, à 6° près, avec le nœud vrai. Le Nœud Nord atteint le point opposé à Pluton une fois par tour de 18,6 ans, un peu plus souvent en réalité, puisque leurs mouvements vont l’un vers l’autre, et chaque rencontre couvre quelques mois de naissances."
@@ -41,7 +41,7 @@ Une capacité établie n’est pas forcément limitante, et le Nœud Sud ne vaut
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Pluton et le Nœud Sud partagent en général un signe, avec le Nœud Nord dans le signe opposé. Avec Pluton et le Nœud Sud en Scorpion, l’intensité et le recommencement sont le vieux réflexe, et le Nœud Nord en Taureau demande quelque chose qui peut sembler plus difficile : le calme, la régularité, les plaisirs simples. Le nœud recule d’un signe en 18 mois environ : cette opposition appartient donc à quelques mois de naissances, à peu près une fois par tour.
+Pluton et le Nœud Sud partagent en général un signe, avec le Nœud Nord dans le signe opposé. Avec Pluton et le Nœud Sud en Scorpion, l’intensité et le recommencement sont le vieux réflexe, et le Nœud Nord en Taureau demande quelque chose qui peut sembler plus difficile : le calme, la régularité, les plaisirs simples. Comme le nœud met environ 18 mois à reculer d’un signe, cette opposition appartient à quelques mois de naissances, à peu près une fois par tour.
 
 Les maisons nomment les deux bouts, avec l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Pluton sur le Nœud Sud en maison 4, par exemple, pourrait faire du changement profond au foyer un terrain connu, avec une croissance demandée dans la vie publique de la maison 10.
 

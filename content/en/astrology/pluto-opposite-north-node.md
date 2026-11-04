@@ -19,7 +19,7 @@ related: ["/astrology/pluto", "/astrology/north-node", "/astrology/opposition", 
 faq:
   - q: "What does Pluto on the South Node mean?"
     a: "That transformation is an old, practised skill for you: ending things, starting again, finding strength in the process. It is a real resource. The North Node opposite asks you to practise a capacity that comes less easily, so the work is reaching for that one when a situation calls for it, not only for deep change."
-  - q: "Is Pluto opposite the North Node a karmic aspect?"
+  - q: "Is there anything karmic about Pluto opposite the North Node?"
     a: "Some astrologers call Pluto on the South Node karmic. I read it more plainly, as a strength learned early and a habit worth watching. The South Node is not worse than the North, and nothing here is a debt to repay; the opposition asks for balance between the two ends."
   - q: "How rare is Pluto opposite the North Node?"
     a: "About 1 person in 31 born between 1930 and 2009 has it within 6°, counted with the true node. The North Node meets the point opposite Pluto once in each round of 18.6 years, a little more often in fact, since the two move towards each other, and each meeting covers a few months of births."
