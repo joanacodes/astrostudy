@@ -38,9 +38,9 @@ About a week after the new moon, the Moon looks as if someone had cut it neatly 
 
 The first quarter is an instant: the moment the Moon is exactly 90° ahead of the Sun, as astronomers time it. On average it comes about 7.4 days after the new moon, closing the [waxing crescent](/astrology/waxing-crescent/) and opening the [waxing gibbous moon](/astrology/waxing-gibbous-moon/). The name comes from the cycle, not the shape: the Moon has gone a quarter of the way round, and what you see is half of its face lit.
 
-Because it sits 90° from the Sun, a first quarter moon always falls three signs on from the Sun’s sign, at the same degree. With the Sun at 10° Aries, the first quarter Moon is at 10° Cancer; with the Sun at 10° Libra, at 10° Capricorn. The two lights are then in signs of the same modality, both cardinal, both fixed or both mutable, and of elements that don’t share a temperament.
+Because it sits 90° from the Sun, a first quarter moon always falls three signs on from the Sun’s sign, at the same degree. With the Sun at 10° Aries, the first quarter Moon is at 10° Cancer; with the Sun at 10° Libra, at 10° Capricorn. The two lights are then in signs of the same modality, both cardinal, both fixed or both mutable, and of different elements.
 
-Astrologers who use Dane Rudhyar’s eight phases, from *The Lunation Cycle* (1967), treat the first quarter as a phase rather than an instant: from 90° to 135°, about three and three-quarter days. It begins at the square and takes in, a day or so later, the trine at 120°, before Rudhyar’s gibbous phase begins at 135°.
+Astrologers who use Dane Rudhyar’s eight phases, from *The Lunation Cycle* (1967), treat the first quarter as a phase rather than an instant: from 90° to 135°, about three and three-quarter days. It begins at the square and takes in, two or three days later, the trine at 120°, before Rudhyar’s gibbous phase begins at 135°.
 
 ## How it works {#how-it-works}
 
