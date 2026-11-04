@@ -39,7 +39,7 @@ sources:
   - { title: "Wikipedia, “Astrology and science”", url: "https://en.wikipedia.org/wiki/Astrology_and_science", note: "checked on 4 November 2026" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "what held, and what the count can’t tell apart" }
 ---
-Of the four biases on this site, this is the one that isn't about how you hear a reading. It's about what you might do afterwards.
+Unlike the other biases on this site, this one isn't about how you hear a reading. It's about what you might do afterwards.
 
 ## The short answer {#the-short-answer}
 
@@ -61,4 +61,4 @@ My notebook can't tell these apart. I checked every placement with a tick or a c
 
 What I can do is read in a way that gives a prophecy as little to work with as I can. A chart describes tendencies, not permissions: how you're inclined to move, not where you must end up. There are no doomed placements in my readings, and I read your patterns and your seasons, not next Tuesday. "You're a Scorpio, so…" is not a reading; it's an excuse with a vocabulary. It's also why I don't read for anyone under 18: a chart read at the wrong age can become a label you grow into.
 
-And when something in your reading rests on a placement that held less often in my tests, I say so. That's [how I read](/how-i-read/): you stay in charge, and a reading is a conversation with yourself, not an instruction.
+You stay in charge of what you do with a reading. It's the last rule of [how I read](/how-i-read/), and with this bias it's the one that matters most.

@@ -40,7 +40,7 @@ sources:
   - { title: "Wikipédia (en anglais), « Astrology and science »", url: "https://en.wikipedia.org/wiki/Astrology_and_science", note: "consulté le 4 novembre 2026" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "ce qui a tenu, et ce que le compte ne peut pas distinguer" }
 ---
-Des quatre biais présentés sur ce site, c’est le seul qui ne porte pas sur la façon dont vous entendez une lecture. Il porte sur ce que vous pourriez faire ensuite.
+Contrairement aux autres biais présentés sur ce site, celui-ci ne porte pas sur la façon dont vous entendez une lecture. Il porte sur ce que vous pourriez faire ensuite.
 
 ## La réponse courte {#la-reponse-courte}
 
@@ -62,4 +62,4 @@ Mon carnet ne sait pas les distinguer. J’ai vérifié chaque placement avec un
 
 Ce que je peux faire, c’est lire de façon à laisser à une prophétie le moins de prise possible. Un thème décrit des tendances, pas des permissions : la façon dont vous avez tendance à avancer, pas l’endroit où vous devez arriver. Il n’y a pas de position fatale dans mes lectures, et je lis vos schémas et vos saisons, pas mardi prochain. « Vous êtes Scorpion, donc… », ce n’est pas une lecture : c’est une excuse avec un vocabulaire. C’est aussi pourquoi je ne lis pas pour les moins de 18 ans : un thème lu au mauvais âge peut devenir une étiquette à laquelle on finit par ressembler.
 
-Et quand un passage de votre lecture repose sur un placement qui a moins souvent tenu dans mes tests, je le dis. C’est [ma méthode](/how-i-read/) : c’est vous qui décidez, et une lecture est une conversation avec vous-même, pas une injonction.
+C’est vous qui décidez de ce que vous faites d’une lecture. C’est la dernière règle de [ma méthode](/how-i-read/), et face à ce biais, c’est celle qui compte le plus.
