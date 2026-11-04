@@ -31,11 +31,11 @@ Venus in the 1st house is often the first thing people meet in you. Your taste a
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 1st house](/astrology/1st-house/) holds your body, your manner, the way you start things and the way people first meet you. It is angular: in [Placidus](/astrology/placidus/), the house system I use, it begins exactly at the Ascendant, the degree rising in the east at your birth. With [Venus](/astrology/venus/) here, attraction and aesthetic judgement work in plain view. You often care how things look, a room, a page, your own coat, and you tend to make encounters easier for everyone in them. That isn't vanity. It's Venus's eye turned on the first thing anyone sees.
+[The 1st house](/astrology/1st-house/) is the part of the chart people meet before they know you: your bearing, your face to the world, the way you walk into a room and begin things. It is angular, and in [Placidus](/astrology/placidus/), my house system, its cusp is the Ascendant itself, the degree coming up over the eastern horizon as you were born. With [Venus](/astrology/venus/) here, attraction and aesthetic judgement work in plain view. You often care how things look, a room, a page, your own coat, and you tend to make encounters easier for everyone in them. That isn't vanity. It's Venus's eye turned on the first thing anyone sees.
 
 The house's natural sign is Aries, where Venus is in detriment, and across the chart sits the 7th, the house of partners. With Venus in the 1st, you bring the planet of relating to every meeting instead of waiting to find it in someone else.
 
-Venus is never far from the Sun, so Venus in the 1st usually goes with a birth in the hours around sunrise, Venus itself just below the horizon and about to rise. That is why the birth time matters so much here. A birth a few minutes later can carry Venus over the Ascendant into [Venus in the 12th house](/astrology/venus-in-12th-house/); an earlier one can drop it to [Venus in the 2nd house](/astrology/venus-in-2nd-house/). Without the time, there is no house to read ([what changes without a birth time](/blog/unknown-birth-time/)).
+Because Venus travels close to the Sun, a 1st-house Venus usually belongs to a birth in the hours around sunrise, with Venus itself just below the horizon and about to rise. That is why the birth time matters so much here. A birth a few minutes later can carry Venus over the Ascendant into [Venus in the 12th house](/astrology/venus-in-12th-house/); an earlier one can drop it to [Venus in the 2nd house](/astrology/venus-in-2nd-house/). Without the time, there is no house to read ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 ## In close relationships {#in-close-relationships}
 
@@ -53,4 +53,4 @@ Pleasantness can harden into a mask. You may find it hard to show displeasure, a
 
 Let a few people see you unpolished, and notice that they stay. Practise a pleasant no that is still a no. Dress for your own pleasure first, for the day you want rather than the approval you expect. And keep close the friends who like you when you aren't trying, because they're the ones who will tell you the truth.
 
-As one of the placements everyone reads first, Venus held about a third of the time in [my notebook](/blog/i-tested-my-birth-chart/). In the 1st house, close to the Ascendant, a small error in the birth time can change the whole reading, so I check the time before I lean on this one.
+Like the other placements everyone reads first, Venus came out at about a third in [my notebook](/blog/i-tested-my-birth-chart/). Here, so near the Ascendant, a rounded-off birth time can easily put Venus on the wrong side of the line, so I check the time before I lean on it.

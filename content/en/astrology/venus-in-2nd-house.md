@@ -31,7 +31,7 @@ With Venus in the 2nd house, what you value and what you own are two sides of on
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 2nd house](/astrology/2nd-house/) holds what you have and what you value: the money you earn and keep, your belongings, the talents you could live from, and the sense of your own worth underneath them. It is succedent, the house that follows the 1st, and its natural sign is Taurus, one of Venus's own. [Venus](/astrology/venus/) is at ease here. Valuation is its first task, and in the 2nd it turns that judgement on things, skills and yourself: you tend to know quality when you hold it, and to choose fewer, better possessions.
+[The 2nd house](/astrology/2nd-house/) is about having: what you earn and hold on to, the things you own, the skills that could pay your way, and underneath all of it, how much you think you're worth. It is succedent, the house that follows the 1st, and its natural sign is Taurus, one of Venus's own. [Venus](/astrology/venus/) is at ease here. Valuation is its first task, and in the 2nd it turns that judgement on things, skills and yourself: you tend to know quality when you hold it, and to choose fewer, better possessions.
 
 Tradition put money in this house, and Venus here is often read as pleasure and earning walking together. I read it as a relationship with having, not a forecast. No chart says how much anyone will earn or own, and I don't read one for that ([can astrology pick investments?](/astrology/can-astrology-pick-investments/)). What Venus shows is what you find worth paying for, in money, time and care, and whether you count yourself among those things.
 
