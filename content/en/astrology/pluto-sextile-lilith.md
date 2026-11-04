@@ -32,7 +32,7 @@ Pluto sextile Lilith leaves a door ajar between the planet of renewal and the pa
 
 ## What it means {#what-it-means}
 
-[Pluto](/astrology/pluto/) renews from the root: it releases structures that have had their time, regenerates, and turns what it integrates into an agency that is more authentically yours. [Black Moon Lilith](/astrology/black-moon-lilith/), the Moon's mean apogee, a point rather than a body, is commonly read as the instinct for autonomy, the authenticity you guard and the material that was pushed out of view; its weight varies between traditions, and I treat it as symbolic. A [sextile](/astrology/sextile/) relates the two through opportunity and cooperation: each can switch the other on, and potential is not the same as a result.
+[Pluto](/astrology/pluto/) renews from the root: it releases structures that have had their time, regenerates, and turns what it integrates into an agency that is more authentically yours. [Black Moon Lilith](/astrology/black-moon-lilith/), the Moon's mean apogee, a point rather than a body, is commonly read as the instinct for autonomy, the authenticity you guard and the material that was pushed out of view; its weight varies between traditions, and I treat it as symbolic. A [sextile](/astrology/sextile/) links them by way of opportunity and cooperation: each can switch the other on, and potential is not the same as a result.
 
 In plain terms, your capacity for deep change and your untamed side are on speaking terms. A refusal you've held onto can become the first step of a renewal; a change you're making can leave room for an instinct you set aside years ago. The sextile doesn't insist. It waits to be used, and an unused sextile is easy to overlook.
 

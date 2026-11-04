@@ -29,15 +29,15 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée du passage du Soleil en Scorpion, et la part des personnes nées entre 1930 et 2009 qui ont ce placement" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-Un Soleil en Scorpion, c’est une pièce éclairée aux rideaux tirés : très vivante à l’intérieur, et attentive à qui regarde. Le Soleil était dans l’eau fixe à votre naissance, et je le lis comme une identité organisée autour de l’essentiel, montrée lentement, et seulement là où elle sera bien tenue.
+Un Soleil en Scorpion, c’est une pièce éclairée aux rideaux tirés : très vivante à l’intérieur, et attentive à qui regarde. L’eau fixe donne au Soleil cette manière : un moi rangé autour de l’essentiel, montré lentement, et seulement là où il sera bien tenu.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Je lis le [Soleil](/astrology/sun/) comme le centre qui organise le thème, la part qui tient ensemble l’identité, la vitalité et la direction. Le [Scorpion](/astrology/scorpio/) donne à ce centre une manière fixe et aquatique : intense, intérieure, tenace. Votre sentiment de vous-même repose souvent sur un cœur secret que vous protégez, et sur le besoin d’atteindre la vérité des choses, la vôtre comprise. L’intégration, l’un des rôles discrets du Soleil, prend ici une forme particulière : le moi s’unifie en reconnaissant ce qu’il avait enfoui, pas en polissant ce qui se voit.
+L’identité, la vitalité et la direction se rejoignent dans le [Soleil](/astrology/sun/), et le [Scorpion](/astrology/scorpio/) rend ce lieu de rencontre intense, intérieur et tenace. Votre sentiment de vous-même repose souvent sur un cœur secret que vous protégez, et sur le besoin d’atteindre la vérité des choses, la vôtre comprise. L’intégration, l’un des rôles discrets du Soleil, prend ici une forme particulière : le moi s’unifie en reconnaissant ce qu’il avait enfoui, pas en polissant ce qui se voit.
 
 Aucune des quatre dignités ne concerne le Soleil en Scorpion ; ce qui le façonne le plus, ce sont ses deux maîtres. Dans la tradition, le Scorpion revient à [Mars](/astrology/mars/), dont le signe et la maison montrent où ce Soleil met son effort et trace ses limites. Dans l’astrologie tropicale moderne, il revient à [Pluton](/astrology/pluto/), dont le signe est partagé par toute une génération ; la maison de Pluton est l’endroit où ce Soleil rencontre son besoin de changer les choses à la racine. Je lis les deux, parce que les deux répondent à des questions différentes : Mars à *comment est-ce que j’agis ?*, Pluton à *qu’est-ce qui doit finir pour que quelque chose de plus vrai commence ?* Plus de détails dans [maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/).
 
-Le Soleil reste 29 ou 30 jours en Scorpion, du 23 octobre au 21 novembre environ : c’est le signe solaire d’à peu près 1 personne sur 12. À un jour près de l’une des deux bornes, votre [heure de naissance](/blog/unknown-birth-time/) dit de quel signe il s’agit.
+Le Soleil reste 29 ou 30 jours en Scorpion, du 23 octobre au 21 novembre environ : c’est le signe solaire d’à peu près 1 personne sur 12. Si votre naissance tombe un jour de changement de signe, votre [heure de naissance](/blog/unknown-birth-time/) dit de quel signe il s’agit.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -49,7 +49,7 @@ Ce Soleil travaille au mieux sur ce qui doit changer à la racine : la recherch
 
 ## Le plus difficile {#le-plus-difficile}
 
-L’identité peut se lier à l’intensité, au point que les périodes ordinaires et calmes ressemblent à une perte de soi. S’accrocher est une autre difficulté : un chapitre terminé peut continuer d’être relu pendant des années. Et l’instinct de contrôler ce que l’on voit de vous peut se durcir en isolement, le cœur secret si bien gardé que vous finissez par le perdre de vue. Dessous, c’est souvent le même souhait : ne plus jamais se laisser surprendre.
+L’intensité peut finir par sembler la seule preuve d’être en vie, au point que les périodes ordinaires et calmes ressemblent à une perte de soi. S’accrocher est une autre difficulté : un chapitre terminé peut continuer d’être relu pendant des années. Et l’instinct de contrôler ce que l’on voit de vous peut se durcir en isolement, le cœur secret si bien gardé que vous finissez par le perdre de vue. Dessous, c’est souvent le même souhait : ne plus jamais se laisser surprendre.
 
 ## Ce qui aide {#ce-qui-aide}
 

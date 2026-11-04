@@ -43,7 +43,7 @@ Of the five aspects between these two, this is the lightest touch. It's useful p
 
 The count finds it in about 1 person in 18 born from 1930 to 2009, within 6°. It comes twice around each Jupiter–Pluto meeting, about two years before and two years after, so the windows of births were 1932–33, 1941, 1945, 1953–54, 1957–58, 1966–67, 1970–71, 1979, 1983–84, 1992, 1997, 2004–05 and 2009, a few months each. Whoever was born inside one carries it, and until the houses come in, it says more about a year-group than about you.
 
-A sextile links signs two apart, usually fire with air or earth with water, elements that get on, so the two functions speak compatible languages. In the houses, a sextile from Jupiter in the 3rd to Pluto in the 5th might turn writing or teaching into a channel for creative renewal; from the 10th to the 8th, your work can open onto what most people avoid looking at. Your birth time sets the houses ([what changes without a birth time](/blog/unknown-birth-time/)).
+A sextile links signs two apart, normally air beside fire or water beside earth, so the two functions speak compatible languages. In the houses, a sextile from Jupiter in the 3rd to Pluto in the 5th might turn writing or teaching into a channel for creative renewal; from the 10th to the 8th, your work can open onto what most people avoid looking at. Your birth time sets the houses ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Jupiter's other aspects to Pluto change how the two urges deal with each other:
 
@@ -56,6 +56,6 @@ Between two charts, [Jupiter sextile Pluto in synastry](/astrology/jupiter-sexti
 
 ## In transits {#in-transits}
 
-[Transiting Jupiter sextile natal Pluto](/astrology/transiting-jupiter-sextile-natal-pluto/) comes twice for every lap Jupiter makes of the zodiac and lasts a few weeks, longer if Jupiter turns retrograde nearby: a good moment, many astrologers say, to begin something that needs depth. [Transiting Pluto sextile natal Jupiter](/astrology/transiting-pluto-sextile-natal-jupiter/) is a long season by comparison. How long depends on where Pluto is on its oval orbit, since it crosses some signs in about 12 years and others in as many as 31.
+[Transiting Jupiter sextile natal Pluto](/astrology/transiting-jupiter-sextile-natal-pluto/) comes twice for every lap Jupiter makes of the zodiac and lasts a few weeks, or more when Jupiter's retrograde falls close by: a good moment, many astrologers say, to begin something that needs depth. [Transiting Pluto sextile natal Jupiter](/astrology/transiting-pluto-sextile-natal-jupiter/) is a long season by comparison. How long depends on where Pluto is on its oval orbit, since it crosses some signs in about 12 years and others in as many as 31.
 
 As with every transit, I read these as weather, not a forecast: a door that opens, with no promise about the room behind it.

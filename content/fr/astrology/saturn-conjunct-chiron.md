@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 290
 glyph: "♄☌⚷"
-definition: "Saturne conjonction Chiron, c’est la rencontre des deux corps à quelques degrés près, survenue en Poissons en 1965–1967, et seulement alors entre 1930 et 2009. Dans un thème, elle fond les limites qu’on vous demande de tenir avec votre façon de vous adapter à une difficulté persistante : souvent, un don pour bâtir la méthode qui vous a manqué."
+definition: "Saturne conjonction Chiron rapproche Saturne et Chiron à quelques degrés près, ce qui s’est produit en Poissons en 1965–1967, et seulement alors entre 1930 et 2009. Dans un thème, elle fond les limites qu’on vous demande de tenir avec votre façon de vous adapter à une difficulté persistante : souvent, un don pour bâtir la méthode qui vous a manqué."
 facts:
   - { k: "Corps", v: "Saturne ♄ et Chiron ⚷" }
   - { k: "Aspect", v: "Conjonction ☌, 0°" }
@@ -20,10 +20,10 @@ facts:
 related: ["/astrology/saturn", "/astrology/chiron", "/astrology/conjunction", "/astrology/chiron-return", "/astrology/saturn-conjunct-chiron-synastry"]
 faq:
   - q: "Que veut dire Saturne conjonction Chiron ?"
-    a: "Saturne et Chiron à quelques degrés d’écart à la naissance, comme en 1965–1967, en Poissons. Votre sens de la structure et votre façon de vous adapter à une difficulté persistante agissent comme une seule : vous bâtissez la méthode qui vous manquait, lentement et à fond. Une petite génération la partage : sa maison dit où elle vit."
+    a: "Que Saturne et Chiron se trouvaient presque au même degré à votre naissance, comme en 1965–1967, en Poissons. Votre sens de la structure et votre façon de vous adapter à une difficulté persistante agissent comme une seule : vous bâtissez la méthode qui vous manquait, lentement et à fond. Une petite génération la partage : sa maison dit où elle vit."
   - q: "La conjonction Saturne–Chiron est-elle rare ?"
     a: "Assez rare : environ 1 personne sur 56 née entre 1930 et 2009, à 6° près. Toutes sont nées de mai à août 1965 ou de janvier 1966 à mars 1967, quand Saturne a rattrapé puis dépassé Chiron en Poissons."
-  - q: "Saturne conjonction Chiron, est-ce une vie de limites ?"
+  - q: "Les limites vont-elles toujours peser avec Saturne conjonction Chiron ?"
     a: "Non. Cette conjonction décrit votre façon de travailler avec une limite, pas une condamnation. La difficulté et le sens du devoir peuvent sembler emmêlés au début, et la conjonction vous demande de séparer la limite de votre valeur. Beaucoup de personnes qui la portent finissent par montrer aux autres, par l’exemple, comment bâtir autour de ce qui n’est pas facile."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "ses quatre aspects, dont la conjonction ne fait pas partie" }
@@ -51,7 +51,7 @@ Les autres aspects de la paire, avec leurs naissances :
 - **[Saturne trigone Chiron](/astrology/saturn-trine-chiron/) :** 1930–1932 ou 1977–1980 ; la discipline et l’adaptation au même pas.
 - **[Saturne opposition Chiron](/astrology/saturn-opposite-chiron/) :** par intermittence de 1985 à 1997, et 2002–2007 ; la limite et le contournement face à face.
 
-Entre deux thèmes, [Saturne conjonction Chiron en synastrie](/astrology/saturn-conjunct-chiron-synastry/) pose la structure de l’une des deux personnes sur le point sensible de l’autre. Selon la façon d’y répondre, ce contact peut soutenir ou exiger beaucoup, et je le regarde de chaque côté.
+Quand deux thèmes se rencontrent, [Saturne conjonction Chiron en synastrie](/astrology/saturn-conjunct-chiron-synastry/) place le cadre de l’une des deux personnes sur le point sensible de l’autre. Selon la façon d’y répondre, ce contact peut soutenir ou exiger beaucoup, et je le regarde de chaque côté.
 
 ## En transit {#en-transit}
 

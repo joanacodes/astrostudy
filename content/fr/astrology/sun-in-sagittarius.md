@@ -29,15 +29,15 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée du passage du Soleil en Sagittaire, et la part des personnes nées entre 1930 et 2009 qui ont ce placement" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-Certaines personnes savent qui elles sont par les lieux où elles sont passées. Un Soleil en Sagittaire le sait plutôt par ce qu’il en est venu à croire, et il ne cesse de réviser. Le Soleil était dans le feu mutable à votre naissance, sous la maîtrise de Jupiter, et je le lis comme une identité organisée autour d’une philosophie : une réponse provisoire à la question de ce qui rend une vie digne d’être vécue.
+Pour un Soleil en Sagittaire, le chemin parcouru compte moins que les convictions qu’il a fait naître, et ces convictions ne cessent d’être révisées. Dans le feu mutable, sous la maîtrise de Jupiter, le Soleil bâtit son identité autour d’une philosophie : une réponse provisoire à la question de ce qui rend une vie digne d’être vécue.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Votre [Soleil](/astrology/sun/) organise l’identité, la vitalité et la direction. Le [Sagittaire](/astrology/sagittarius/), feu mutable, lui donne une manière large et chercheuse, et fait du travail d’intégration du Soleil quelque chose de proche de la synthèse : vous vous comprenez en replaçant l’expérience dans un tableau plus vaste. Votre but ressemble moins à une cible qu’à une conviction, un principe que vous suivriez même sans personne pour regarder.
+En [Sagittaire](/astrology/sagittarius/), feu mutable, l’identité, la vitalité et la direction que porte le [Soleil](/astrology/sun/) prennent une manière large et chercheuse, et le signe fait du travail d’intégration du Soleil quelque chose de proche de la synthèse : vous vous comprenez en replaçant l’expérience dans un tableau plus vaste. Votre but ressemble moins à une cible qu’à une conviction, un principe que vous suivriez même sans personne pour regarder.
 
 Les tables des dignités laissent le Soleil tranquille en Sagittaire : ni domicile, ni exaltation, ni faiblesse. Le maître du signe, [Jupiter](/astrology/jupiter/), passe environ un an dans chaque signe : toutes les personnes nées à un an près de vous partagent donc le signe de Jupiter. C’est la maison de Jupiter, qui demande votre heure de naissance, qui fait de ce placement le vôtre, et c’est là que ce Soleil va chercher du sens, et grandit.
 
-Le Soleil traverse le Sagittaire en 29 ou 30 jours, du 22 novembre au solstice de décembre, vers le 21 décembre : les semaines les plus sombres de l’année dans l’hémisphère Nord. Environ 1 personne sur 12 a ce placement, et à un jour près de l’une des deux bornes, votre [heure de naissance](/blog/unknown-birth-time/) tranche.
+Le Soleil traverse le Sagittaire en 29 ou 30 jours, du 22 novembre au solstice de décembre, vers le 21 décembre : les semaines les plus sombres de l’année dans l’hémisphère Nord. Environ 1 personne sur 12 a ce placement, et un anniversaire tout au bord de l’une des deux bornes demande une [heure de naissance](/blog/unknown-birth-time/) pour trancher.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -49,7 +49,7 @@ Les métiers où l’on explique le *pourquoi* conviennent à ce Soleil : l’e
 
 ## Le plus difficile {#le-plus-difficile}
 
-L’identité peut se souder à une croyance, au point qu’avoir tort ressemble à disparaître. La certitude devient alors une armure, et un moi qui aimait les questions se met à défendre des réponses. Ou bien l’inverse : le sens s’aplatit, plus rien ne semble valoir la peine d’être visé, et l’agitation s’installe, en quête d’un nouvel horizon pour tout réparer. Là où le [Soleil en Scorpion](/astrology/sun-in-scorpio/) peut s’accrocher trop longtemps, un Soleil en Sagittaire peut partir trop tôt, et le [Soleil en Capricorne](/astrology/sun-in-capricorn/) qui le suit a tendance à rester parce qu’il l’a promis.
+Quand une croyance devient le moi, avoir tort ressemble à disparaître. La certitude devient alors une armure, et un moi qui aimait les questions se met à défendre des réponses. Ou bien l’inverse : le sens s’aplatit, plus rien ne semble valoir la peine d’être visé, et l’agitation s’installe, en quête d’un nouvel horizon pour tout réparer. Là où le [Soleil en Scorpion](/astrology/sun-in-scorpio/) peut s’accrocher trop longtemps, un Soleil en Sagittaire peut partir trop tôt, et le [Soleil en Capricorne](/astrology/sun-in-capricorn/) qui le suit a tendance à rester parce qu’il l’a promis.
 
 ## Ce qui aide {#ce-qui-aide}
 

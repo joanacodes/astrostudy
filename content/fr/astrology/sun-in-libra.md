@@ -29,11 +29,11 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée du passage du Soleil en Balance, et la part des personnes nées entre 1930 et 2009 qui ont ce placement" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-Là où la plupart des Soleils demandent *qui suis-je ?*, un Soleil en Balance demande plutôt *qui suis-je, par rapport à ceci ?* Le Soleil était dans l’air cardinal à votre naissance, dans le signe que la tradition appelle sa chute, et je le lis comme un moi qui se précise par la proportion : par ce qu’il trouve juste, à sa place, bien fait.
+Là où la plupart des Soleils demandent *qui suis-je ?*, un Soleil en Balance demande plutôt *qui suis-je, par rapport à ceci ?* La Balance est le signe que la tradition appelle la chute du Soleil, et le moi qu’elle décrit se précise par la proportion : par ce qu’il trouve juste, à sa place, bien fait.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le [Soleil](/astrology/sun/) est le centre qui organise le thème : l’identité, la vitalité, la direction que vous prenez. La [Balance](/astrology/libra/), air cardinal gouverné par [Vénus](/astrology/venus/), lui donne une manière fondée sur le jugement et la proportion. Votre sentiment de vous-même repose peut-être moins sur ce que vous voulez que sur ce que vous trouvez juste, approprié ou beau, et bien des personnes au Soleil en Balance découvrent que leur goût — dans une pièce, une phrase, une décision — est le portrait le plus fidèle de qui elles sont.
+Le [Soleil](/astrology/sun/) d’un thème tient ensemble son identité, sa vitalité et sa direction. La [Balance](/astrology/libra/), air cardinal gouverné par [Vénus](/astrology/venus/), lui prête une manière fondée sur le jugement et la proportion. Votre sentiment de vous-même repose peut-être moins sur ce que vous voulez que sur ce que vous trouvez juste, approprié ou beau, et bien des personnes au Soleil en Balance découvrent que leur goût — dans une pièce, une phrase, une décision — est le portrait le plus fidèle de qui elles sont.
 
 La tradition fait de la Balance la [chute](/astrology/fall/) du Soleil, le signe opposé à son exaltation en Bélier. Ptolémée en donnait encore une raison de saison : à l’équinoxe de septembre, le Soleil passe dans la moitié sud du ciel, et dans l’hémisphère Nord les jours commencent à raccourcir. Je ne lis pas un Soleil en chute comme une personne plus terne. J’y lis un moi dont la capacité d’agir passe par la pesée et la consultation plutôt que par la décision solitaire, et qui sait, peut-être mieux qu’aucun autre Soleil, qu’agir depuis son centre ne veut pas dire chasser les autres du leur.
 

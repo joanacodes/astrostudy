@@ -33,7 +33,7 @@ Jupiter sextile North Node gives your direction of growth a friendly ally. Jupit
 
 ## What it means {#what-it-means}
 
-[Jupiter](/astrology/jupiter/) is the function of perspective: it learns, connects and widens the frame. The [North Node](/astrology/north-node/) marks a direction of development, a complementary capacity that's less automatic for you and grows by repetition. A [sextile](/astrology/sextile/) relates them through opportunity: the help is there, and it waits for you to use it.
+[Jupiter](/astrology/jupiter/) is the function of perspective: it learns, connects and widens the frame. The [North Node](/astrology/north-node/) marks a complementary capacity, less automatic for you, that grows by repetition. A [sextile](/astrology/sextile/) relates them through opportunity: help is available, waiting to be used.
 
 In plain words, chances to practise the less familiar thing tend to come with a sense of why it matters: a mentor, a course, a journey, a book that reframes it. The trine to the [South Node](/astrology/south-node/) adds something particular to this aspect: your familiar strengths and your growth aren't at odds. Jupiter can carry what you already know into the new territory, which makes the first steps less lonely.
 
@@ -41,9 +41,9 @@ The risk is the comfortable one. With the old resources so easy to reach, it's t
 
 ## In a birth chart {#in-a-birth-chart}
 
-For about 1 person in 20, Jupiter sits within 6° of a sextile to the North Node, on one side of the point or the other. Jupiter then usually shares an element with your South Node and sits in a compatible one to the North Node's, fire beside air or earth beside water, so the growth it encourages sounds like a neighbouring language rather than a foreign one. The houses show where the practice happens. Jupiter in the 1st sextile a North Node in the 3rd might make speaking up and everyday learning the practice, with confidence borrowed from the way you meet the world; Jupiter in the 5th sextile a North Node in the 7th, growth through partnership, carried by your own generosity and sense of play. Those houses assume a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+About 1 person in 20 has Jupiter sextile the North Node to within 6°, on one side of the point or the other. Jupiter then usually shares an element with your South Node and sits in a compatible one to the North Node's, fire beside air or earth beside water, so the growth it encourages sounds like a neighbouring language rather than a foreign one. The houses show where the practice happens. Jupiter in the 1st sextile a North Node in the 3rd might make speaking up and everyday learning the practice, with confidence borrowed from the way you meet the world; Jupiter in the 5th sextile a North Node in the 7th, growth through partnership, carried by your own generosity and sense of play. Those houses assume a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-The mean and true node stay within a degree or two of each other, so they nearly always give the same sextile; I check both all the same.
+Mean and true node, never more than a degree or two apart, nearly always give the same sextile; I check both all the same.
 
 The pair's other aspects shift Jupiter along the axis:
 
@@ -56,6 +56,6 @@ Between two charts, [Jupiter sextile North Node in synastry](/astrology/jupiter-
 
 ## In transits {#in-transits}
 
-[Transiting North Node sextile natal Jupiter](/astrology/transiting-north-node-sextile-natal-jupiter/) comes twice in each 18.6-year round, a month or two each time. Born with the sextile, your [nodal return](/astrology/nodal-return/) brings it back; at the [nodal reversal](/astrology/nodal-reversal/) the angle flips, and the transiting North Node trines your Jupiter instead. Jupiter, in turn, sextiles your natal North Node twice in its 12-year round, for a few weeks.
+[Transiting North Node sextile natal Jupiter](/astrology/transiting-north-node-sextile-natal-jupiter/) comes twice per nodal cycle, a month or two each time. If the sextile is in your chart, your [nodal return](/astrology/nodal-return/) brings it back; at the [nodal reversal](/astrology/nodal-reversal/) the angle flips, and the transiting North Node trines your Jupiter instead. Jupiter, in turn, sextiles your natal North Node twice in its 12-year round, for a few weeks.
 
 Read as weather, not a forecast, these are easier stretches for practising the new; the practice itself is still yours to do.

@@ -30,13 +30,13 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes la portent, et les mois où elle était dans l’orbe" }
   - { title: "NASA — Pluto facts", url: "https://science.nasa.gov/dwarf-planets/pluto/facts/", note: "l’orbite ovale de Pluton, environ 248 ans" }
 ---
-Jupiter opposition Pluton place l’ampleur et la profondeur de part et d’autre du thème. L’angle se forme une fois entre deux rencontres, environ six ans après l’une, et c’est le plus rare des cinq aspects de la paire : une polarité que beaucoup de personnes rencontrent d’abord chez quelqu’un d’autre.
+Jupiter opposition Pluton place l’ampleur et la profondeur de part et d’autre du thème. L’angle se forme une fois entre deux rencontres, environ six ans après l’une, et aucun des cinq aspects de la paire n’est plus rare : une polarité que beaucoup de personnes rencontrent d’abord chez quelqu’un d’autre.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
 [Jupiter](/astrology/jupiter/) élargit : chercher du sens, des principes, le tableau d’ensemble et le possible suivant. [Pluton](/astrology/pluto/) approfondit : écarter ce qui est dépassé, régénérer, rendre de la force à qui a fait le travail. Une [opposition](/astrology/opposition/) relie ces deux fonctions par la polarité, deux bouts d’un même axe dont chacun rend l’autre conscient.
 
-Concrètement, l’envie de grandir vers l’extérieur et celle de descendre à la racine tirent vers des bouts opposés, et vous apprenez en allant de l’une à l’autre. Souvent, un bout se rencontre d’abord chez les autres : une personne qui vous guide et dont la profondeur dérange vos espoirs faciles, ou quelqu’un dont l’expansivité vous montre tout ce que vous gardez sous terre. Le travail, c’est la conscience, pas la victoire. Aucun des deux bouts n’est le problème, et aucun ne doit gagner.
+Concrètement, l’envie de grandir vers l’extérieur et celle de descendre à la racine tirent vers des bouts opposés, et vous apprenez en allant de l’une à l’autre. Souvent, un bout se présente d’abord chez les autres : une personne qui vous guide et dont la profondeur dérange vos espoirs faciles, ou quelqu’un dont l’expansivité vous montre tout ce que vous gardez sous terre. Le travail, c’est la conscience, pas la victoire. Aucun des deux bouts n’est le problème, et aucun ne doit gagner.
 
 Polarité ne veut pas dire contradiction. Tenus ensemble, ces deux élans font quelqu’un qui grandit sans rester en surface, et qui va au fond des choses sans perdre la vue d’ensemble.
 
@@ -44,7 +44,7 @@ Polarité ne veut pas dire contradiction. Tenus ensemble, ces deux élans font q
 
 Sur les naissances de 1930 à 2009, seule 1 personne sur 36 environ a cette opposition à 6° près, le plus petit chiffre de la paire. Les naissances sont tombées en 1937–1938, 1950, 1962–1963, 1975–1976, 1988 et 2000–2001, quelques mois chaque fois, et l’aspect leur appartient à toutes de la même façon.
 
-Les oppositions relient des signes d’un même mode et d’éléments complémentaires, le feu face à l’air et la terre face à l’eau : les deux bouts se comprennent mieux qu’il n’y paraît. Dans les maisons, l’axe montre où se fait l’équilibrage : Jupiter en maison 2 opposition Pluton en maison 8 met ce que vous construisez pour vous face à ce que vous partagez et transformez avec d’autres ; Jupiter en maison 5 opposition Pluton en maison 11, la joie personnelle face au besoin de changement d’un groupe. Ces maisons reposent sur l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Les oppositions relient des signes d’un même mode et d’éléments complémentaires, le feu face à l’air et la terre face à l’eau : les deux bouts s’entendent mieux qu’on ne le croirait. Dans les maisons, l’axe montre où se fait l’équilibrage : Jupiter en maison 2 opposition Pluton en maison 8 met ce que vous construisez pour vous face à ce que vous partagez et transformez avec d’autres ; Jupiter en maison 5 opposition Pluton en maison 11, la joie personnelle face au besoin de changement d’un groupe. Ces maisons reposent sur l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Les autres angles entre Jupiter et Pluton :
 
@@ -59,4 +59,4 @@ Avec [Jupiter opposition Pluton en synastrie](/astrology/jupiter-opposite-pluto-
 
 [Jupiter en transit opposition Pluton du thème natal](/astrology/transiting-jupiter-opposite-natal-pluto/) arrive une fois par révolution de Jupiter et reste quelques semaines, ou quelques mois quand une boucle de rétrogradation ramène Jupiter sur le point. Si l’opposition est dans votre thème, ces passages coïncident avec votre [retour de Jupiter](/astrology/jupiter-return/) : tous les douze ans environ à partir de 12 ans, Jupiter retrouve son degré de naissance et fait de nouveau face à votre Pluton. [Pluton en transit opposition Jupiter du thème natal](/astrology/transiting-pluto-opposite-natal-jupiter/) appartient à d’autres années de naissance. Le point que Pluton devrait atteindre est à peu près celui que Pluton occupait à votre naissance, et comme il faut environ 248 ans à Pluton pour boucler son tour, ce point est quitté tôt dans la vie, pour de bon.
 
-Pour moi, les deux relèvent de la météo, pas de la prédiction. Chacun ouvre une saison qui demande où votre croissance est restée en surface, ou votre profondeur cachée, et qui laisse la réponse ouverte.
+Pour moi, ces deux transits sont de la météo et non de la prédiction. Chacun ouvre une saison qui demande où votre croissance est restée en surface, ou votre profondeur cachée, et qui laisse la réponse ouverte.

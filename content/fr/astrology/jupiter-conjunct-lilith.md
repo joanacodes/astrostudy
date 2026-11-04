@@ -34,9 +34,9 @@ Jupiter conjonction Lilith réunit la part de vous qui bâtit une philosophie et
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Jupiter](/astrology/jupiter/) est votre capacité à faire du sens : apprendre, former des principes, faire de la place à la croissance. La [Lune noire Lilith](/astrology/black-moon-lilith/) est un point, pas un astre : l’endroit où l’orbite de la Lune l’éloigne le plus de la Terre. Les astrologues y lisent, de façon symbolique, l’autonomie instinctive, ce que vous avez appris à garder hors de vue, et votre sens de l’endroit où passent vos limites. Les écoles divergent beaucoup sur Lilith, et je la traite comme un symbole, pas comme un verdict. Dans une [conjonction](/astrology/conjunction/), les deux agissent ensemble sans se confondre.
+[Jupiter](/astrology/jupiter/) est votre capacité à faire du sens : apprendre, former des principes, faire de la place à la croissance. La [Lune noire Lilith](/astrology/black-moon-lilith/) est un point, pas un astre : l’apogée de la Lune, le point de son orbite le plus lointain. Les astrologues y lisent, de façon symbolique, l’autonomie instinctive, ce que vous avez appris à soustraire aux regards, et votre sens de l’endroit où passent vos limites. Les écoles divergent beaucoup sur Lilith, et je la traite comme un symbole, pas comme un verdict. Dans une [conjonction](/astrology/conjunction/), les deux agissent ensemble sans se confondre.
 
-Concrètement, la part de vous qu’on a trouvée « trop » et la part qui rend les choses plus grandes partagent un même endroit. Cela peut donner une permission rare : des croyances assez vastes pour accueillir vos instincts, et une générosité qui ne demande à personne de rapetisser. Cela peut aussi vouloir dire que vos convictions portent une charge que les autres sentent, parce qu’elles ont poussé à partir de quelque chose que vous n’avez pas voulu lâcher.
+Concrètement, ce qu’on a jugé « trop » en vous et la part qui rend les choses plus grandes partagent un même endroit. Cela peut donner une permission rare : des croyances assez vastes pour accueillir vos instincts, et une générosité qui ne demande à personne de rapetisser. Cela peut aussi vouloir dire que vos convictions portent une charge que les autres sentent, parce qu’elles ont poussé à partir de quelque chose que vous n’avez pas voulu lâcher.
 
 Grandir n’est pas déborder, et l’autonomie n’a rien d’immoral. Je tiens ces deux contresens loin de cette conjonction : elle décrit la rencontre du sens et de la liberté, jamais une licence ni une malédiction.
 
@@ -46,7 +46,7 @@ Environ 1 personne sur 38 naît avec Jupiter à moins de 6° de la Lilith moyenn
 
 Les deux partagent en général un signe, dont l’élément donne le ton : le feu donne du courage à la part indomptée, la terre lui donne un corps et une pratique, l’air des idées et des arguments, l’eau une profondeur de sentiment. La maison la situe. En maison 9, celle que la tradition appelait le Dieu, elle peut se montrer comme une philosophie de votre fabrication ; en maison 7, comme des partenaires qui laissent de la place à votre côté sauvage, ou qui le mettent à l’épreuve ; en maison 10, comme une voix publique qui ne se laisse pas apprivoiser. La maison dépend de votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Chose rare, le point va ici plus vite que la planète : la Lilith moyenne traverse un signe en neuf mois environ, toujours vers l’avant, quand Jupiter met environ un an et passe quelque quatre mois par an en rétrogradation.
+Chose rare, le point va ici plus vite que la planète : la Lilith moyenne ne passe que neuf mois environ par signe, toujours vers l’avant, quand Jupiter met environ un an et passe quelque quatre mois par an en rétrogradation.
 
 Les autres aspects de Jupiter avec Lilith :
 
@@ -59,6 +59,6 @@ Entre deux thèmes, [Jupiter conjonction Lilith en synastrie](/astrology/jupiter
 
 ## En transit {#en-transit}
 
-Jupiter passe sur Lilith du thème natal environ tous les 12 ans et reste proche quelques semaines ; quand votre thème porte la conjonction, ce passage tombe à chaque [retour de Jupiter](/astrology/jupiter-return/). La Lilith moyenne, qui fait le tour du zodiaque en 8 ans et 10 mois environ, repasse sur Jupiter du thème natal à chaque retour de Lilith, vers 9, 18, 27, 35, 44 et 53 ans, et s’y attarde quelques semaines. De nombreux astrologues lisent ces moments comme des temps où ce qu’on gardait hors de vue demande à entrer dans ce que vous croyez.
+Jupiter passe sur Lilith du thème natal environ tous les 12 ans et reste proche quelques semaines ; quand votre thème porte la conjonction, ce passage tombe à chaque [retour de Jupiter](/astrology/jupiter-return/). La Lilith moyenne, dont le circuit complet prend 8 ans et 10 mois environ, repasse sur Jupiter du thème natal lors de chaque retour de Lilith (vers 9, 18, 27, 35, 44 et 53 ans) et s’y attarde quelques semaines. De nombreux astrologues lisent ces moments comme des temps où ce qu’on gardait hors de vue demande à entrer dans ce que vous croyez.
 
 Ces passages décrivent une saison où la part cachée réclame de la place : une météo, pas une prédiction, qui vous laisse la réponse.

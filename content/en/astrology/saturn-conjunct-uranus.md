@@ -41,18 +41,18 @@ I read both of Aquarius's rulers, and this conjunction shows why they belong tog
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 1 person in 27 of the 1930–2009 births has the conjunction within 6°, all of them from two windows: June 1941 to March 1943, with a pause in the second half of 1942, and February 1987 to September 1989, on and off. Born in either window, you share the aspect with your generation, so its sign says little about you; its house, and any contact with your Sun, Moon or angles, says much more.
+About 1 person in 27 of the 1930–2009 births has the conjunction within 6°, and every one of them was born in one of two windows: June 1941 to March 1943, with a pause in the second half of 1942, and February 1987 to September 1989, on and off. Born in either window, you share the aspect with your generation, so its sign says little about you; the house it falls in, and its links to your personal planets, say much more.
 
 In the 2nd house, the conjunction may show as security built by unconventional means; in the 3rd, as a way of thinking that respects method and still questions it; in the 10th, as responsibility put to work modernising the structure you belong to. Without a birth time the houses stay unknown ([what changes without a birth time](/blog/unknown-birth-time/)), and for a generation's aspect I then have little personal to say. Saturn, at about 2½ years a sign against Uranus's 7, is the one that catches up.
 
 Saturn's other aspects to Uranus each belong to a few birth years:
 
-- **[Saturn sextile Uranus](/astrology/saturn-sextile-uranus/):** born in 1934–36, 1947–49, 1978–81 or 1995–97; structure and change cooperate when someone takes the opening.
-- **[Saturn square Uranus](/astrology/saturn-square-uranus/):** born in 1930–32, 1950–53, 1975–77 or 1999–2001; keeping and changing pull across each other, a friction that teaches reform without demolition.
+- **[Saturn sextile Uranus](/astrology/saturn-sextile-uranus/):** born in the spells of 1934–36 and 1947–49, then 1978–81 and 1995–97; structure and change cooperate when someone takes the opening.
+- **[Saturn square Uranus](/astrology/saturn-square-uranus/):** born in 1930–32 and 1950–53, then again in 1975–77 and 1999–2001; keeping and changing pull across each other, a friction that teaches reform without demolition.
 - **[Saturn trine Uranus](/astrology/saturn-trine-uranus/):** born in 1955–58, 1971–74 or 2002–04; the old and the new flow together, so change tends to be built rather than fought for.
 - **[Saturn opposite Uranus](/astrology/saturn-opposite-uranus/):** born in 1964–67 or 2008–09; facing each other, with the balance between stability and freedom often worked out with other people.
 
-Between two charts, [Saturn conjunct Uranus in synastry](/astrology/saturn-conjunct-uranus-synastry/) lays one person's structure over the other's urge to break free, on the same degree. It can steady a restless partner or chafe a free one, and I read it from each person's side.
+Between two charts, [Saturn conjunct Uranus in synastry](/astrology/saturn-conjunct-uranus-synastry/) sets the structure in one chart on the urge to break free in the other, at the same degree. It can steady a restless partner or chafe a free one, and I read it from each person's side.
 
 ## In transits {#in-transits}
 

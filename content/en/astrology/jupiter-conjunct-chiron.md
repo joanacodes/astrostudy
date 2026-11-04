@@ -33,7 +33,7 @@ Jupiter conjunct Chiron puts the part of you that looks for meaning right on the
 
 ## What it means {#what-it-means}
 
-[Jupiter](/astrology/jupiter/) turns experience into understanding and lets it widen you: learning, guidance, principles, a larger view. [Chiron](/astrology/chiron/) marks the tender spot you keep circling, and the ways you learn to work with it: a different method or pace, a skill built around it, and often a gift for helping someone else with the same thing. In a [conjunction](/astrology/conjunction/) they act as one, though neither stops being itself.
+[Jupiter](/astrology/jupiter/) turns experience into understanding and lets it widen you: learning, guidance, principles, a larger view. [Chiron](/astrology/chiron/) marks the tender spot you keep circling, and the ways you find of working with it: a different method or pace, a skill built around it, and often a gift for helping someone else with the same thing. In a [conjunction](/astrology/conjunction/) they act as one, though neither stops being itself.
 
 In plain words, you look for meaning exactly where it hurts, and what you understand there becomes what you can teach. Many people with this conjunction become, sooner or later, the person others bring their own sore spot to. That's a gift, with one trap that belongs to this pair: Jupiter likes to generalise, and what worked for you is a method, not a law. The best teachers with this conjunction say *this is what helped me*, not *this is what you must do*.
 
@@ -41,9 +41,9 @@ In the myth, Chiron was a teacher as well as a healer, and Sagittarius, Jupiter'
 
 ## In a birth chart {#in-a-birth-chart}
 
-The meeting turns up for about 1 person in 22 among births from 1930 to 2009, counted within 6°. The windows were December 1944 to January 1945 and July 1945 to September 1946, April 1962 to January 1963, July to October 1975 and January to April 1976, October to November 1989 and April to August 1990, and March to December 2009. The gaps are uneven because Chiron is: on its stretched orbit it crosses some signs in under two years and others in about eight, so Jupiter takes longer to catch it in some decades than in others.
+The meeting turns up for about 1 person in 22 among births from 1930 to 2009, counted within 6°. The windows were December 1944 to January 1945 and July 1945 to September 1946, April 1962 to January 1963, July to October 1975 and January to April 1976, October to November 1989 and April to August 1990, and March to December 2009. The gaps are uneven because Chiron is: its orbit is so stretched that it takes under two years over some signs and about eight over others, so Jupiter takes longer to catch it in some decades than in others.
 
-Everyone born in a window shares the conjunction, so its sign says more about the year than about you. The house is what makes it yours. In the 3rd, the tender spot and the meaning you find in it may show in the way you speak and learn; in the 9th, through study, belief or travel; in the 10th, through a public role where you teach from experience. For that, I need your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+Everyone born in a window shares the conjunction, so its sign belongs to the year more than to you. The house is what makes it yours. In the 3rd, the tender spot and the meaning you find in it may show in the way you speak and learn; in the 9th, through study, belief or travel; in the 10th, through a public role where you teach from experience. For that, I need your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Jupiter's other aspects to Chiron set meaning and tenderness at other distances:
 
@@ -56,7 +56,7 @@ Between two charts, [Jupiter conjunct Chiron in synastry](/astrology/jupiter-con
 
 ## In transits {#in-transits}
 
-[Transiting Chiron conjunct natal Jupiter](/astrology/transiting-chiron-conjunct-natal-jupiter/) is the moment Chiron, moving on, reaches your Jupiter. Born with the conjunction, you meet it at the [Chiron return](/astrology/chiron-return/), around 50, when Chiron comes back to its birth place beside your Jupiter. How long it lasts depends on Chiron's pace in that sign: a few months where it moves fast, more than a year where it crawls, usually in several passes.
+[Transiting Chiron conjunct natal Jupiter](/astrology/transiting-chiron-conjunct-natal-jupiter/) is the moment Chiron, moving on, reaches your Jupiter. With the conjunction in your chart, it falls due at the [Chiron return](/astrology/chiron-return/), around 50, as Chiron regains its natal degree beside your Jupiter. Its length follows Chiron's pace in that sign: months where it hurries, more than a year where it dawdles, usually in several passes.
 
 Jupiter, for its part, crosses your natal Chiron about every 12 years, for a few weeks: a lighter visit, when meaning and tenderness sit close again.
 

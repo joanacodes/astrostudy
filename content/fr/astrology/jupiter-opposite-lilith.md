@@ -30,13 +30,13 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes naissent avec cet aspect" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "l’apogée moyen de la Lune, que suit la Lilith moyenne" }
 ---
-Jupiter opposition Lilith place vos principes d’un côté du thème et la part de vous qui refuse d’être domptée de l’autre. C’est le plus rare des contacts de Jupiter avec Lilith : environ 1 personne sur 44.
+Jupiter opposition Lilith place vos principes d’un côté du thème et votre côté indomptable de l’autre. C’est le plus rare des contacts de Jupiter avec Lilith : environ 1 personne sur 44.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Jupiter](/astrology/jupiter/) représente vos vérités et ce vers quoi vous voulez grandir : des principes, l’apprentissage, une vue plus large de la vie. La [Lune noire Lilith](/astrology/black-moon-lilith/), apogée de la Lune et point plutôt qu’astre, symbolise l’instinct et l’autonomie que vous avez appris à retenir, ainsi que votre rapport à votre propre pouvoir et à vos limites. Les astrologues se disputent sur Lilith plus que sur presque tout le reste, et je la lis comme un symbole, sans poids moral. Une [opposition](/astrology/opposition/) relie les deux par la polarité : chaque bout devient plus net par contraste avec l’autre.
+[Jupiter](/astrology/jupiter/) représente vos vérités et ce vers quoi vous voulez grandir : des principes, l’apprentissage, une vue plus large de la vie. La [Lune noire Lilith](/astrology/black-moon-lilith/), apogée de la Lune et point plutôt qu’astre, symbolise l’instinct et l’autonomie que vous avez appris à retenir, ainsi que la relation que vous entretenez avec votre pouvoir et vos limites. Les astrologues se disputent sur Lilith plus que sur presque tout le reste, et je la lis comme un symbole, sans poids moral. Une [opposition](/astrology/opposition/) les tient en polarité : chaque bout se dessine mieux par contraste avec l’autre.
 
-Concrètement, un ensemble de croyances et un instinct indompté se regardent d’un bout à l’autre de la pièce. Souvent, l’un des bouts arrive par les autres : une communauté, une personne qui enseigne ou une tradition dont les règles semblent exiger que vous cachiez quelque chose, ou bien une personne dont la liberté fait paraître vos principes étroits. Le travail, c’est la conscience. Ni la croyance ni le refus ne jouent le mauvais rôle ; l’opposition demande ce que chacun protège, et comment les deux peuvent vous appartenir.
+Concrètement, un ensemble de croyances et un instinct indompté se regardent en face, de part et d’autre de la pièce. Souvent, l’un des bouts arrive par les autres : une communauté, une personne qui enseigne ou une tradition dont les règles semblent exiger que vous cachiez quelque chose, ou bien une personne dont la liberté fait paraître vos principes étroits. Le travail, c’est la conscience. Ni la croyance ni le refus ne jouent le mauvais rôle ; l’opposition demande ce que chacun protège, et comment les deux peuvent vous appartenir.
 
 Polarité n’est pas contradiction. Bien vécu, cet aspect donne des personnes capables de tenir à la fois des principes fermes et un instinct libre, et difficiles à enrôler dans quoi que ce soit qui leur demanderait d’être moins qu’entières.
 
@@ -57,6 +57,6 @@ Entre deux thèmes, [Jupiter opposition Lilith en synastrie](/astrology/jupiter-
 
 ## En transit {#en-transit}
 
-À chacun de ses tours, Jupiter s’oppose une fois à Lilith du thème natal, le temps de quelques semaines ; la Lilith moyenne s’oppose à Jupiter du thème natal une fois par révolution d’environ neuf ans. Quand votre thème porte l’opposition, vous rencontrez le premier passage à votre retour de Jupiter et le second à votre retour de Lilith, puisque chaque corps regagne alors son degré de naissance, face à la place natale de l’autre.
+À chacun de ses tours, Jupiter s’oppose une fois à Lilith du thème natal, le temps de quelques semaines ; la Lilith moyenne fait face à Jupiter du thème natal une fois par révolution d’environ neuf ans. Quand votre thème porte l’opposition, vous rencontrez le premier passage à votre retour de Jupiter et le second à votre retour de Lilith, puisque chaque corps regagne alors son degré de naissance, face à la place natale de l’autre.
 
-Rien de cela n’est une prédiction, c’est une météo : chaque passage remet les deux bouts en vue un moment, sans rien trancher entre eux.
+Rien de tout cela ne prédit quoi que ce soit ; c’est de la météo : chaque passage remet les deux bouts en vue un moment, sans rien trancher entre eux.

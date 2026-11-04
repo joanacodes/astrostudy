@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 287
 glyph: "♄□♇"
-definition: "Saturn square Pluto is a 90° angle between Saturn and Pluto, usually in signs of the same modality, shared by five runs of births from 1939 to 2009. In a chart the urge to keep a structure standing and the urge to transform it press against each other: a friction that builds endurance rather than breaking things."
+definition: "Saturn square Pluto sets the two planets at right angles, about 90° apart and usually in one modality, as for five runs of births from 1939 to 2009. In a chart the urge to keep a structure standing and the urge to transform it press against each other: a friction that builds endurance rather than breaking things."
 facts:
   - { k: "Bodies", v: "Saturn ♄ and Pluto ♇" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -39,7 +39,7 @@ Lived, it can feel like effort under pressure. You may hold on too long to a rol
 
 ## In a birth chart {#in-a-birth-chart}
 
-Within 6°, the square belongs to about 1 person in 16 born between 1930 and 2009, spread over five runs: on and off from April 1939 to February 1941, from January 1955 to December 1956, from June 1973 to April 1975, from April 1992 to March 1994, and from September 2009 to the end of the count, in December. Each of those months gave the square to everyone born in it, so it belongs to a generation first; your houses and its contacts with your personal planets make it yours ([what changes without a birth time](/blog/unknown-birth-time/)).
+The square belongs to about 1 person in 16 born between 1930 and 2009, counting within 6°, spread over five runs: on and off from April 1939 to February 1941, from January 1955 to December 1956, from June 1973 to April 1975, from April 1992 to March 1994, and from September 2009 to the end of the count, in December. Each of those months gave the square to everyone born in it, so it belongs to a generation first; your houses and its contacts with your personal planets make it yours ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Squares tend to pair signs of one modality. In 1992–94 it was Saturn in Aquarius, one of its traditional signs, against Pluto in Scorpio, its modern one: two fixed signs, both planets at home, and a square that holds its ground. In 1973–75, Saturn in Cancer against Pluto in Libra, two cardinal signs: friction that keeps starting things. By house, Saturn in the 10th square Pluto in the 7th might set a public role against a partnership that keeps changing you. Saturn moves faster and decides when the square forms; its retrograde loops are why each run came and went.
 
@@ -50,10 +50,10 @@ The pair's other aspects, beside this one:
 - **[Saturn trine Pluto](/astrology/saturn-trine-pluto/):** 1936–38, 1958–60, 1970–72, 1995–97 or 2006–08; the same depth, flowing.
 - **[Saturn opposite Pluto](/astrology/saturn-opposite-pluto/):** 1930–32, 1965–67 or 2001–03; the pressure face to face, asking for balance.
 
-Between two charts, [Saturn square Pluto in synastry](/astrology/saturn-square-pluto-synastry/) can make a bond feel intense and demanding: one person's need for stability pressed by the other's need for change. With care it strengthens both people, and I read it from each side.
+Between two people, [Saturn square Pluto in synastry](/astrology/saturn-square-pluto-synastry/) can make a bond feel intense and demanding: one person's need for stability pressed by the other's need for change. With care it strengthens both people; I look at it through each person's chart.
 
 ## In transits {#in-transits}
 
-[Transiting Saturn square natal Pluto](/astrology/transiting-saturn-square-natal-pluto/) comes twice in each round of Saturn and can last several months. [Transiting Pluto square natal Saturn](/astrology/transiting-pluto-square-natal-saturn/) is a long transit, two years or more, since Pluto needs 12 to 31 years to cross a sign.
+[Transiting Saturn square natal Pluto](/astrology/transiting-saturn-square-natal-pluto/) happens twice per Saturn round and can last several months. [Transiting Pluto square natal Saturn](/astrology/transiting-pluto-square-natal-saturn/) is a long transit, two years or more, since Pluto needs 12 to 31 years to cross a sign.
 
-If you were born with the square, each time Saturn squares its own birth place, at about 7, 21–22, 36–37 and 51 ([Saturn squares and opposition](/astrology/saturn-squares-and-opposition/)), it lands on your natal Pluto or the point facing it. The [Pluto square](/astrology/pluto-square/), at an age that depends on your generation, brings Pluto onto your natal Saturn or opposite it. All of these are weather, not a forecast: seasons of pressure to rebuild, with the outcome yours to shape.
+For those born with the square, each time Saturn squares its own birth place, at about 7, 21–22, 36–37 and 51 ([Saturn squares and opposition](/astrology/saturn-squares-and-opposition/)), it lands on your natal Pluto or the point facing it. The [Pluto square](/astrology/pluto-square/), at an age that depends on your generation, brings Pluto onto your natal Saturn or opposite it. All of these are weather, not a forecast: seasons of pressure to rebuild, with the outcome yours to shape.

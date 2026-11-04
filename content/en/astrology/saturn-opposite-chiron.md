@@ -1,13 +1,13 @@
 ---
 title: "Saturn opposite Chiron"
 h1: "Saturn opposite Chiron in a birth chart"
-description: "Saturn opposite Chiron in a birth chart: strength and vulnerability face to face, for births of 1985–97 and 2002–07. The axis it lies on, and its transits."
+description: "Saturn opposite Chiron in a birth chart: strength and vulnerability in polarity, in births of 1985–97 and 2002–07. The axis it lies on, and its transits."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 294
 glyph: "♄☍⚷"
-definition: "Saturn opposite Chiron means Saturn and Chiron stood about 180° apart at your birth, as they did on and off from 1985 to 1997 and again in 2002–07. In a chart it sets the structure you can carry opposite a lasting difficulty, and asks you to hold both: competence and limitation side by side, neither defining you."
+definition: "Saturn opposite Chiron puts Saturn and Chiron about 180° apart, as at births on and off from 1985 to 1997 then in 2002–07. Read in a chart, it sets the structure you can carry opposite a lasting difficulty, and asks you to hold both: competence and limitation side by side, neither defining you."
 facts:
   - { k: "Bodies", v: "Saturn ♄ and Chiron ⚷" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -22,14 +22,14 @@ faq:
     a: "That structure and a lasting difficulty sit at opposite ends of your chart. Early on the halves may be split between people, the capable one and the one who needs help. Over time this opposition tends to integrate them: competence and limitation side by side, without either one defining you."
   - q: "Why does Saturn opposite Chiron cover so many birth years?"
     a: "Because from 1985 to 1997 Chiron, nearing the signs it crosses fastest, kept pace with Saturn, and the opposition kept returning, on and off, for twelve years. With a second run from 2002 to 2007, that makes about 1 person in 12 born between 1930 and 2009."
-  - q: "Is Saturn opposite Chiron about feeling inadequate?"
+  - q: "Does Saturn opposite Chiron make you feel inadequate?"
     a: "It can touch that feeling, but it isn’t a verdict. The opposition shows strength and vulnerability side by side so that you can see both. Polarity isn’t contradiction: the work is letting each make the other more humane, and many people with it become steady, fair leaders."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the opposition, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have it, and the months it was in orb" }
   - { title: "NASA — Saturn facts", url: "https://science.nasa.gov/saturn/facts/", note: "Saturn’s orbit of about 29½ years" }
 ---
-Saturn opposite Chiron holds strength and vulnerability at the two ends of one line. On one side is the structure and authority you can carry; on the other, the difficulty that asks for the rules to bend. People born with it often learn to be both, and to let each make the other more humane.
+Saturn opposite Chiron places strength and vulnerability across the chart from each other. On one side is the structure and authority you can carry; on the other, the difficulty that asks for the rules to bend. People born with it often learn to be both, and to let each make the other more humane.
 
 ## What it means {#what-it-means}
 
@@ -50,7 +50,7 @@ Saturn and Chiron's other aspects, by contrast:
 - **[Saturn square Chiron](/astrology/saturn-square-chiron/):** on and off from 1934 to 1954, and 1974–76; friction at right angles.
 - **[Saturn trine Chiron](/astrology/saturn-trine-chiron/):** 1930–32 or 1977–80; the two flowing together, in earth.
 
-Between two charts, [Saturn opposite Chiron in synastry](/astrology/saturn-opposite-chiron-synastry/) can cast one person as the strong one and the other as the one in need. Roles like that are worth questioning, and I read the contact from both sides.
+Across two charts, [Saturn opposite Chiron in synastry](/astrology/saturn-opposite-chiron-synastry/) can cast one person as the strong one and the other as the one in need. Roles like that are worth questioning, and I read the contact from both sides.
 
 ## In transits {#in-transits}
 

@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 295
 glyph: "♄☌⚸"
-definition: "Saturn conjunct Lilith is a meeting of Saturn and mean Black Moon Lilith within a few degrees at birth. In a chart it fuses duty with the instinct for self-rule: strict standards may gather around the part of you once called too much. Untangled, it gives boundaries that come from your own nature, steadily kept."
+definition: "Saturn conjunct Lilith joins Saturn and mean Black Moon Lilith at one point of the zodiac, within a few degrees, at birth. In a chart it fuses duty with the instinct for self-rule: strict standards may gather around the part of you once called too much. Untangled, it gives boundaries that come from your own nature, steadily kept."
 facts:
   - { k: "Bodies", v: "Saturn ♄ and Black Moon Lilith ⚸" }
   - { k: "Aspect", v: "Conjunction ☌, 0°" }
@@ -17,7 +17,7 @@ facts:
   - { k: "In transit", v: "Again at each Lilith return (about every 9 years) and each Saturn return" }
 related: ["/astrology/saturn", "/astrology/black-moon-lilith", "/astrology/conjunction", "/astrology/which-lilith-is-mine", "/astrology/saturn-conjunct-lilith-synastry"]
 faq:
-  - q: "What does Saturn conjunct Lilith mean?"
+  - q: "How does Saturn conjunct Lilith show in a person?"
     a: "Saturn and mean Black Moon Lilith were within a few degrees at your birth. Your sense of duty and your instinct for self-rule are fused: you may keep strict standards around the very part of you that was once called too much. Untangled, it gives boundaries that come from your own nature, kept steadily."
   - q: "Which Lilith should I use for Saturn conjunct Lilith?"
     a: "I use mean Lilith, the smoothed position most astrologers read, and the count on this page uses it too. True Lilith wobbles and can sit tens of degrees away, so with it the conjunction may not be there. If your chart shows it with only one version, it’s worth saying so when you read it."
@@ -49,7 +49,7 @@ The pair's other aspects, each in a line:
 - **[Saturn trine Lilith](/astrology/saturn-trine-lilith/):** self-rule and responsibility in easy step.
 - **[Saturn opposite Lilith](/astrology/saturn-opposite-lilith/):** keeping the rules and refusing them at either end, often met through someone else.
 
-Between two charts, [Saturn conjunct Lilith in synastry](/astrology/saturn-conjunct-lilith-synastry/) puts one person's sense of order right on the other's untamed point, a contact that can feel like recognition or like control. I read it from both sides, and only with both people's agreement ([synastry and consent](/blog/synastry-behind-their-back/)).
+Between two people, [Saturn conjunct Lilith in synastry](/astrology/saturn-conjunct-lilith-synastry/) puts one person's sense of order right on the other's untamed point, a contact that can feel like recognition or like control. I read it from both sides, and only with both people's agreement ([synastry and consent](/blog/synastry-behind-their-back/)).
 
 ## In transits {#in-transits}
 

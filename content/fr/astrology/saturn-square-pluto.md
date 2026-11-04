@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 287
 glyph: "♄□♇"
-definition: "Saturne carré Pluton désigne un angle d’environ 90° entre Saturne et Pluton, en général dans deux signes du même mode, partagé par cinq vagues de naissances de 1939 à 2009. Dans un thème, l’envie de garder une structure debout et celle de la transformer se pressent l’une l’autre : une friction qui construit l’endurance au lieu de tout casser."
+definition: "Saturne carré Pluton place les deux planètes à angle droit, à environ 90° et en général dans un même mode, pour cinq vagues de naissances de 1939 à 2009. Dans un thème, l’envie de garder une structure debout et celle de la transformer se pressent l’une l’autre : une friction qui construit l’endurance au lieu de tout casser."
 facts:
   - { k: "Corps", v: "Saturne ♄ et Pluton ♇" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -23,7 +23,7 @@ faq:
     a: "Que l’envie de garder une structure debout et celle de la transformer à la racine se pressent l’une l’autre. Cela peut ressembler à un effort sous pression. Avec le temps, ce carré construit souvent l’endurance, et le jugement qui distingue les structures à défendre de celles à laisser partir. Toute une génération le partage."
   - q: "En quelles années trouve-t-on Saturne carré Pluton ?"
     a: "À 6° près, en cinq vagues : par intermittence d’avril 1939 à février 1941, de janvier 1955 à décembre 1956, de juin 1973 à avril 1975, d’avril 1992 à mars 1994, et de septembre 2009 jusqu’à la fin des années comptées, en décembre."
-  - q: "Le carré Saturne–Pluton est-il dangereux ?"
+  - q: "Saturne carré Pluton, faut-il en avoir peur ?"
     a: "Non. Pluton décrit la transformation, pas la destruction, et un carré décrit une friction, pas une fatalité. Celui-ci demande du souffle : rester stable pendant que quelque chose change, et changer ce qui doit changer sans tout abattre. Les personnes qui le portent sont souvent celles à qui l’on se fie quand tout devient difficile."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, l’un de ses quatre aspects" }
@@ -40,21 +40,21 @@ Au quotidien, cela peut ressembler à un effort sous pression. Il arrive de gard
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-À 6° près, ce carré appartient à environ 1 personne sur 16 née entre 1930 et 2009, en cinq vagues : par intermittence d’avril 1939 à février 1941, de janvier 1955 à décembre 1956, de juin 1973 à avril 1975, d’avril 1992 à mars 1994, et de septembre 2009 jusqu’à la fin du décompte, en décembre. Chacun de ces mois l’a donné à toutes les naissances : c’est d’abord un carré de génération, que vos maisons et ses contacts avec vos planètes personnelles rendent vôtre ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Ce carré appartient à environ 1 personne sur 16 née entre 1930 et 2009, à 6° près, en cinq vagues : par intermittence d’avril 1939 à février 1941, de janvier 1955 à décembre 1956, de juin 1973 à avril 1975, d’avril 1992 à mars 1994, et de septembre 2009 jusqu’à la fin du décompte, en décembre. Chacun de ces mois l’a donné à toutes les naissances : c’est d’abord un carré de génération, que vos maisons et ses contacts avec vos planètes personnelles rendent vôtre ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Les carrés associent d’ordinaire deux signes d’un même mode. En 1992–1994, c’était Saturne en Verseau, l’un de ses signes traditionnels, contre Pluton en Scorpion, son signe moderne : deux signes fixes, deux planètes en domicile, et un carré qui tient le terrain. En 1973–1975, Saturne en Cancer contre Pluton en Balance, deux signes cardinaux : une friction qui relance sans cesse. Côté maisons, Saturne en maison 10 carré Pluton en maison 7 pourrait opposer un rôle public à un couple qui vous transforme. C’est Saturne qui avance le plus vite et décide du moment où le carré se forme ; ses boucles de rétrogradation expliquent les allers-retours de chaque vague.
 
-Les autres aspects de la paire, à côté de celui-ci :
+Les autres aspects de la paire, en regard de celui-ci :
 
 - **[Saturne conjonction Pluton](/astrology/saturn-conjunct-pluto/) :** 1946–1948 ou 1981–1983 ; les deux en un même point, sans la pression croisée.
-- **[Saturne sextile Pluton](/astrology/saturn-sextile-pluto/) :** 1942–1943, 1952–1953, 1976–1977 ou 1989–1990 ; un renouveau proposé par étapes plutôt qu’imposé.
+- **[Saturne sextile Pluton](/astrology/saturn-sextile-pluto/) :** 1942–1943, 1952–1953, 1976–1977 ou 1989–1990 ; le renouveau offert pas à pas, sans contrainte.
 - **[Saturne trigone Pluton](/astrology/saturn-trine-pluto/) :** 1936–1938, 1958–1960, 1970–1972, 1995–1997 ou 2006–2008 ; la même profondeur, qui coule.
 - **[Saturne opposition Pluton](/astrology/saturn-opposite-pluto/) :** 1930–1932, 1965–1967 ou 2001–2003 ; la pression face à face, qui demande un équilibre.
 
-Entre deux thèmes, [Saturne carré Pluton en synastrie](/astrology/saturn-square-pluto-synastry/) peut rendre un lien intense et exigeant : le besoin de stabilité de l’une des deux personnes, pressé par le besoin de changement de l’autre. Avec du soin, ce contact renforce les deux, et je le lis de chaque côté.
+Entre deux personnes, [Saturne carré Pluton en synastrie](/astrology/saturn-square-pluto-synastry/) peut rendre un lien intense et exigeant : le besoin de stabilité de l’une des deux personnes, pressé par le besoin de changement de l’autre. Avec du soin, ce contact renforce les deux personnes ; je le regarde à travers chacun des deux thèmes.
 
 ## En transit {#en-transit}
 
-[Saturne en transit carré Pluton du thème natal](/astrology/transiting-saturn-square-natal-pluto/) revient deux fois par tour de Saturne et peut durer plusieurs mois. [Pluton en transit carré Saturne du thème natal](/astrology/transiting-pluto-square-natal-saturn/) est un long transit, deux ans ou davantage, puisque Pluton met 12 à 31 ans à traverser un signe.
+[Saturne en transit carré Pluton du thème natal](/astrology/transiting-saturn-square-natal-pluto/) a lieu deux fois par cycle de Saturne et peut durer plusieurs mois. [Pluton en transit carré Saturne du thème natal](/astrology/transiting-pluto-square-natal-saturn/) est un long transit, deux ans ou davantage, Pluton passant de 12 à 31 ans dans un signe.
 
 Si votre naissance tombe pendant ce carré, chaque fois que Saturne forme un carré à sa propre place, vers 7, 21–22, 36–37 et 51 ans ([carrés et opposition de Saturne](/astrology/saturn-squares-and-opposition/)), Saturne arrive sur votre Pluton ou sur le point opposé. Le [carré de Pluton](/astrology/pluto-square/), à un âge qui dépend de votre génération, amène Pluton sur votre Saturne ou à l’opposé. Rien de tout cela n’est une prédiction ; c’est une météo : des saisons où la pression invite à rebâtir, et dont l’issue vous appartient.

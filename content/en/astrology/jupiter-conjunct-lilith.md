@@ -33,7 +33,7 @@ Jupiter conjunct Lilith joins the part of you that builds a philosophy with the 
 
 ## What it means {#what-it-means}
 
-[Jupiter](/astrology/jupiter/) is your capacity for meaning: it learns, forms principles and makes room for growth. [Black Moon Lilith](/astrology/black-moon-lilith/) is a point, not a body, the place where the Moon's orbit takes it farthest from Earth. Astrologers read it, symbolically, as instinctive autonomy, the material you learned to keep out of sight, and your sense of where your boundaries lie. Schools differ a great deal on Lilith, and I treat it as a symbol, not a verdict. In a [conjunction](/astrology/conjunction/), the two act together without merging into one.
+[Jupiter](/astrology/jupiter/) is your capacity for meaning: it learns, forms principles and makes room for growth. [Black Moon Lilith](/astrology/black-moon-lilith/) is a point, not a body: the Moon's apogee, the spot on its orbit most distant from Earth. Astrologers read it, symbolically, as instinctive autonomy, whatever you learned to keep out of view, and your sense of where your boundaries lie. Schools differ a great deal on Lilith, and I treat it as a symbol, not a verdict. In a [conjunction](/astrology/conjunction/), the two act together without merging into one.
 
 In plain words, the part of you once called too much and the part of you that makes things larger share one place. That can give a rare kind of permission: beliefs roomy enough for your instincts, and a generosity that doesn't ask anyone to shrink. It can also mean your convictions carry a charge other people feel, because they grew from something you wouldn't give up.
 
@@ -45,7 +45,7 @@ About 1 person in 38 is born with Jupiter within 6° of mean Lilith, one of the 
 
 The two usually share a sign, and its element sets the tone: fire gives the untamed part courage, earth gives it a body and a practice, air gives it ideas and arguments, water gives it depth of feeling. The house places it. In the 9th, the house tradition called the God, it may show as a philosophy of your own making; in the 7th, as partners who give your wild side room, or test it; in the 10th, as a public voice that won't be domesticated. The house depends on your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Unusually, the point is faster than the planet here: mean Lilith crosses a sign in about nine months, always moving forward, while Jupiter takes about a year and spends some four months of each year retrograde.
+Unusually, the point is faster than the planet here: mean Lilith needs only about nine months per sign, always moving forward, while Jupiter takes about a year and spends some four months of each year retrograde.
 
 The pair's other aspects:
 
@@ -58,6 +58,6 @@ Between two charts, [Jupiter conjunct Lilith in synastry](/astrology/jupiter-con
 
 ## In transits {#in-transits}
 
-Jupiter crosses your natal Lilith about every 12 years and stays close for a few weeks; born with the conjunction, you meet that crossing at each [Jupiter return](/astrology/jupiter-return/). Mean Lilith, going round the zodiac in about 8 years and 10 months, comes back over your natal Jupiter at each Lilith return, around 9, 18, 27, 35, 44 and 53, and lingers near it for a few weeks. Many astrologers read these as times when something kept out of sight asks to become part of what you believe.
+Jupiter passes over your natal Lilith once a lap, close for a few weeks, and if the conjunction is yours from birth that passage coincides with each [Jupiter return](/astrology/jupiter-return/). Mean Lilith, with a full circuit of about 8 years and 10 months, comes back over your natal Jupiter at each Lilith return, around 9, 18, 27, 35, 44 and 53, and lingers near it for a few weeks. Many astrologers read these as times when something kept out of sight asks to become part of what you believe.
 
 These passages are weather, not a forecast: the hidden part asks for room, and the answer stays with you.

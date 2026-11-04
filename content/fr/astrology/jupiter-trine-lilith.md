@@ -34,15 +34,15 @@ Avec Jupiter trigone Lilith, votre sens de ce qui compte fait de la place à la 
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Jupiter](/astrology/jupiter/) est l’endroit où vous trouvez du sens et lui faites de la place : des principes, l’apprentissage, l’envie de grandir, une vision généreuse de ce que la vie peut contenir. La [Lune noire Lilith](/astrology/black-moon-lilith/), point calculé à la plus grande distance entre la Lune et la Terre, se lit de façon symbolique comme l’instinct et l’autonomie, ce que vous avez un jour mis de côté pour être acceptable, et la façon dont vous sentez vos limites. Les traditions lisent Lilith différemment, et je la propose comme un symbole plutôt que comme un fait sur vous. Un [trigone](/astrology/trine/) les relie par la fluidité, chaque pôle soutenant l’autre en restant lui-même.
+[Jupiter](/astrology/jupiter/) est l’endroit où vous trouvez du sens et lui faites de la place : des principes, l’apprentissage, l’envie de grandir, une vision généreuse de ce que la vie peut contenir. La [Lune noire Lilith](/astrology/black-moon-lilith/), point calculé à la plus grande distance entre la Lune et la Terre, se lit de façon symbolique comme l’instinct et l’autonomie, ce que vous avez rangé à l’écart pour être acceptable, et la façon dont vous sentez vos limites. Les traditions lisent Lilith différemment, et je la propose comme un symbole plutôt que comme un fait sur vous. Un [trigone](/astrology/trine/) les relie par la fluidité, chaque pôle soutenant l’autre en restant lui-même.
 
 Concrètement, votre philosophie a souvent de la place pour ce qu’il y a de brut, d’étrange ou de farouche en vous, et cette place s’étend souvent aux autres. Bien des personnes nées avec ce trigone donnent une permission sans la formuler : en leur compagnie, les autres éprouvent moins le besoin de se cacher. Cela peut prendre la forme d’une tolérance de pédagogue, d’une aisance devant l’inconnu, ou simplement d’une foi : une personne entière vaut mieux qu’une personne bien rangée.
 
-La facilité ne garantit rien, et couler n’est pas rester immobile. Une permission jamais utilisée peut rester privée des années ; le trigone donne le meilleur de lui-même quand la part indomptée reçoit une vraie place dans votre vie, pas seulement dans vos croyances.
+La facilité ne garantit rien, et couler n’est pas rester immobile. Une permission jamais utilisée peut rester privée des années ; le trigone sert le mieux quand la part indomptée reçoit une vraie place dans votre vie, pas seulement dans vos croyances.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Avec la Lilith moyenne et un orbe de 6°, le décompte donne ce trigone à environ 1 personne sur 13, aussi souvent que le carré. La Lilith vraie peut se trouver à des dizaines de degrés de la moyenne : si votre logiciel l’utilise, regardez de nouveau ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)).
+Avec la Lilith moyenne et un orbe de 6°, le décompte donne ce trigone à environ 1 personne sur 13, aussi souvent que le carré. Si votre logiciel affiche la Lilith vraie, qui peut s’éloigner de dizaines de degrés de la moyenne, regardez de nouveau ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)).
 
 Les deux signes d’un trigone partagent d’ordinaire un élément, et l’élément dit quel genre d’accueil c’est : hardi en feu, pratique en terre, curieux en air, tendre en eau. Les maisons montrent où. Jupiter en maison 5 trigone Lilith en maison 9, par exemple, peut faire du jeu créatif l’endroit où sortent des croyances peu conventionnelles ; Jupiter en maison 12 trigone Lilith en maison 4, une foi discrète qui fait de votre foyer un refuge pour ce que vous êtes vraiment. Établir les maisons demande une heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
@@ -59,4 +59,4 @@ Entre deux thèmes, [Jupiter trigone Lilith en synastrie](/astrology/jupiter-tri
 
 Deux fois par tour, Jupiter dans le ciel forme un trigone avec Lilith du thème natal, pour quelques semaines chaque fois ; la Lilith moyenne, plus rapide, atteint le trigone avec Jupiter du thème natal à deux reprises par révolution d’environ 8 ans et 10 mois. Si le trigone est dans votre thème, vous en retrouvez le côté Lilith lors de chaque retour de Lilith, tous les neuf ans environ, quand Lilith regagne son degré de naissance, à 120° de Jupiter.
 
-Il faut y voir une météo, pas une prédiction : une période où la part indomptée se sent plus attendue, sans rien décider de ce que vous en ferez.
+Il faut y voir une météo, pas une prédiction : un temps où la part indomptée se sent plus attendue, sans rien décider de ce que vous en ferez.

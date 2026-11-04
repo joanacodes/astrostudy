@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 285
 glyph: "♄☌♇"
-definition: "Saturne conjonction Pluton, c’est la rencontre de Saturne et de Pluton à quelques degrés près, survenue en Lion en 1946–1948 et en Balance en 1981–1983. Dans un thème, elle fond ensemble l’envie de bâtir ce qui dure et celle de dégager ce qui est devenu obsolète : une endurance pour les changements profonds, à lire par sa maison."
+definition: "Saturne conjonction Pluton réunit les deux planètes à quelques degrés près, comme en Lion en 1946–1948 et en Balance en 1981–1983. Dans un thème, elle fond ensemble l’envie de bâtir ce qui dure et celle de dégager ce qui est devenu obsolète : une endurance pour les changements profonds, à lire par sa maison."
 facts:
   - { k: "Corps", v: "Saturne ♄ et Pluton ♇" }
   - { k: "Aspect", v: "Conjonction ☌, 0°" }
@@ -23,7 +23,7 @@ faq:
     a: "C’est un aspect sérieux. La structure et la transformation agissent comme une seule, ce qui peut peser : des engagements pris à cœur, peu de patience pour les demi-mesures. Lourd ne veut pas dire nuisible. Bien vécue, cette conjonction donne de l’endurance dans le travail profond et la patience de rebâtir une chose depuis ses fondations."
   - q: "Quelles naissances ont Saturne conjonction Pluton ?"
     a: "À 6° près : par intermittence d’octobre 1946 à juin 1948, les deux planètes en Lion, et de décembre 1981 à octobre 1983, en Balance. Aucune autre personne née entre 1930 et 2009 ne la porte : elle en dit donc plus sur ces générations que sur une personne en particulier."
-  - q: "Avoir Saturne conjonction Pluton, est-ce une vie difficile ?"
+  - q: "Faut-il s’attendre à une vie difficile avec Saturne conjonction Pluton ?"
     a: "Aucun aspect n’en décide. Celui-ci décrit votre façon de bâtir et de changer : lentement, à fond, souvent depuis la base. Il peut faire de vous la personne qui reste quand quelque chose doit être rebâti. Les difficultés tiennent aux circonstances, pas à l’angle entre deux planètes."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "ses quatre aspects, dont la conjonction ne fait pas partie ; l’exaltation de Saturne en Balance" }
@@ -40,9 +40,9 @@ Concrètement, c’est la capacité de démonter quelque chose et de le reconstr
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Comptée à 6° près, elle appartient à environ 1 personne sur 33 née entre 1930 et 2009, en deux vagues : par intermittence d’octobre 1946 à juin 1948, les deux planètes en Lion, et de décembre 1981 à octobre 1983, en Balance, Saturne passant en Scorpion vers la fin. Chaque naissance de ces mois-là la porte : c’est la signature d’une génération. Ce qui la rend vôtre, c’est sa maison et ses contacts avec votre Soleil, votre Lune ou vos angles, qui demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Comptée à 6° près, elle se trouve chez environ 1 personne sur 33 née entre 1930 et 2009, en deux vagues : par intermittence d’octobre 1946 à juin 1948, les deux planètes en Lion, et de décembre 1981 à octobre 1983, en Balance, Saturne passant en Scorpion vers la fin. Chaque naissance de ces mois-là la porte : c’est la signature d’une génération. Ce qui la rend vôtre, c’est la maison qu’elle occupe et ce qu’elle touche parmi votre Soleil, votre Lune et vos angles, ce qui demande l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-La tradition place l’exil de Saturne en Lion et son exaltation en Balance. Je n’y lis pas des générations meilleures ou moins bonnes. En Lion, ce travail de structure et de renouveau tourne souvent autour de l’expression de soi et de la place à prendre ; en Balance, autour des accords, de la justice et de la forme du couple. En maison 4, la conjonction pourrait rebâtir la façon de faire d’une famille ; en maison 10, la manière dont un rôle porte l’autorité. La plupart des personnes qui la portent ont aussi Saturne sextile Neptune : les vagues coïncident. C’est Saturne qui avance le plus vite, et ses boucles de rétrogradation ont ouvert et refermé chaque vague.
+La tradition place l’exil de Saturne en Lion et son exaltation en Balance. Je n’y lis pas des générations meilleures ou moins bonnes. En Lion, ce travail de structure et de renouveau tourne souvent autour de l’expression de soi et de la place à prendre ; en Balance, autour des accords, de la justice et de la forme du couple. En maison 4, la conjonction pourrait rebâtir la façon de faire d’une famille ; en maison 10, la manière dont un rôle porte l’autorité. La plupart des personnes qui la portent ont aussi Saturne sextile Neptune : les vagues coïncident. Saturne, bien plus rapide, a ouvert et refermé chaque vague par ses boucles de rétrogradation.
 
 Les autres aspects de la paire, en partant de la rencontre :
 
@@ -51,10 +51,10 @@ Les autres aspects de la paire, en partant de la rencontre :
 - **[Saturne trigone Pluton](/astrology/saturn-trine-pluto/) :** 1936–1938, 1958–1960, 1970–1972, 1995–1997 ou 2006–2008 ; un changement profond qui coule vers une forme durable.
 - **[Saturne opposition Pluton](/astrology/saturn-opposite-pluto/) :** 1930–1932, 1965–1967 ou 2001–2003 ; garder et laisser partir, tenus aux deux bouts.
 
-Entre deux thèmes, [Saturne conjonction Pluton en synastrie](/astrology/saturn-conjunct-pluto-synastry/) pose le sens de la structure de l’une des deux personnes sur l’élan de transformation de l’autre. Ce contact paraît sérieux dès le départ, et je le lis dans les deux sens, seulement avec le consentement des deux ([synastrie et consentement](/blog/synastry-behind-their-back/)).
+D’un thème à l’autre, [Saturne conjonction Pluton en synastrie](/astrology/saturn-conjunct-pluto-synastry/) pose le sens de la structure de l’une des deux personnes sur l’élan de transformation de l’autre. Ce contact paraît sérieux dès le départ, et je le lis dans les deux sens, seulement avec le consentement des deux ([synastrie et consentement](/blog/synastry-behind-their-back/)).
 
 ## En transit {#en-transit}
 
-[Saturne en transit conjonction Pluton du thème natal](/astrology/transiting-saturn-conjunct-natal-pluto/) revient tous les 29 ans et demi environ et peut s’étaler sur plusieurs mois, en plusieurs passages. [Pluton en transit conjonction Saturne du thème natal](/astrology/transiting-pluto-conjunct-natal-saturn/) est bien plus lent : Pluton met 12 à 31 ans à traverser un signe et reste deux ans ou davantage près de votre Saturne ; ce transit arrive au plus une fois dans une vie.
+[Saturne en transit conjonction Pluton du thème natal](/astrology/transiting-saturn-conjunct-natal-pluto/) repasse à peu près tous les 29 ans et demi, en plusieurs passages étalés sur plusieurs mois. [Pluton en transit conjonction Saturne du thème natal](/astrology/transiting-pluto-conjunct-natal-saturn/) est bien plus lent : Pluton met 12 à 31 ans à traverser un signe et reste deux ans ou davantage près de votre Saturne ; ce transit arrive au plus une fois dans une vie.
 
-Si votre naissance tombe pendant la conjonction, le premier revient à chaque [retour de Saturne](/astrology/saturn-return/), vers 27–30 ans puis 58–60 ans, quand Saturne regagne sa place de naissance, donc le point de sa rencontre avec Pluton. Pluton, déjà tout près de votre Saturne à la naissance, s’en éloigne en quelques années et met environ 248 ans à revenir. Météo, et non prédiction : une saison pour décider de ce qui, dans votre vie, mérite d’être rebâti pour durer, jamais un verdict sur ce qui finira.
+Si votre naissance tombe pendant la conjonction, le premier revient au [retour de Saturne](/astrology/saturn-return/), vers 27–30 ans, puis à nouveau vers 58–60 ans, quand Saturne regagne sa place de naissance, donc le point de sa rencontre avec Pluton. Pluton, déjà tout près de votre Saturne à la naissance, s’en éloigne en quelques années et met environ 248 ans à revenir. Météo, et non prédiction : une saison pour décider de ce qui, dans votre vie, mérite d’être rebâti pour durer, jamais un verdict sur ce qui finira.

@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 281
 glyph: "♄⚹♆"
-definition: "Saturn sextile Neptune is a 60° angle between Saturn and Neptune, usually in signs of compatible elements. Births shared it in four runs between 1946 and 1997. In a chart it opens a door between structure and imagination: ideals find a practical first step, and routines find a reason, whenever you choose to use it."
+definition: "Saturn sextile Neptune means the two planets stood about 60° apart at birth, usually in signs of compatible elements. Births shared it in four runs between 1946 and 1997. In a chart it opens a door between structure and imagination: ideals find a practical first step, and routines find a reason, whenever you choose to use it."
 facts:
   - { k: "Bodies", v: "Saturn ♄ and Neptune ♆" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/neptune", "/astrology/sextile", "/astrology/saturn-sextile-neptune-synastry", "/astrology/personal-social-and-generational-planets"]
 faq:
   - q: "How does Saturn sextile Neptune show in a birth chart?"
-    a: "Often as a knack for giving an ideal its first practical step, or a routine a reason to exist. Saturn’s structure and Neptune’s imagination cooperate when you invite them to. Whole runs of births share it, so its houses and its contacts with your personal planets say how it works for you."
+    a: "Often as a knack for giving an ideal its first practical step, or a routine a reason to exist. Saturn’s structure and Neptune’s imagination cooperate when you invite them to. Whole runs of births share it, so where it falls by house, and what it touches, say how it works for you."
   - q: "Which years have Saturn sextile Neptune?"
     a: "Counting within 6°, four runs between 1930 and 2009, each opening and closing twice: August 1946 to May 1948, January 1959 to November 1960, November 1981 to September 1983, and April 1995 to February 1997. Everyone born in those months has it."
   - q: "Is Saturn sextile Neptune a weak aspect?"
@@ -49,10 +49,10 @@ How this sextile sits among the pair's aspects:
 - **[Saturn trine Neptune](/astrology/saturn-trine-neptune/):** 1930, 1941–43, 1965–67, 1976–78 or 2000–02; a wider, easier flow between the two.
 - **[Saturn opposite Neptune](/astrology/saturn-opposite-neptune/):** 1935–37, 1970–72 or 2005–07; the two face to face, asking for balance.
 
-Between two charts, [Saturn sextile Neptune in synastry](/astrology/saturn-sextile-neptune-synastry/) lets one person's practicality and the other's imagination work together, if both want them to. I read it both ways round.
+Across two charts, [Saturn sextile Neptune in synastry](/astrology/saturn-sextile-neptune-synastry/) lets one person's practicality and the other's imagination work together, if both want them to. I read it both ways round.
 
 ## In transits {#in-transits}
 
-[Transiting Saturn sextile natal Neptune](/astrology/transiting-saturn-sextile-natal-neptune/) comes twice in each 29½-year round of Saturn, for a few weeks or several months. [Transiting Neptune sextile natal Saturn](/astrology/transiting-neptune-sextile-natal-saturn/) moves at Neptune's pace, about 14 years to a sign, and stays near exact for a year or two.
+[Transiting Saturn sextile natal Neptune](/astrology/transiting-saturn-sextile-natal-neptune/) falls twice in every 29½-year round of Saturn, for a few weeks or several months. [Transiting Neptune sextile natal Saturn](/astrology/transiting-neptune-sextile-natal-saturn/) moves at Neptune's pace, about 14 years to a sign, and stays near exact for a year or two.
 
 If you were born with the sextile, each [Saturn return](/astrology/saturn-return/), at about 27 to 30 and again at 58 to 60, brings back the angle you were born with. Those tend to be times when a small, concrete step towards something you care about is easier to take. It remains weather, not a forecast: the transit opens a door, and what goes through it is yours to choose.

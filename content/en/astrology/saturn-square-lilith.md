@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 297
 glyph: "♄□⚸"
-definition: "Saturn square Lilith is a 90° angle between Saturn and mean Black Moon Lilith at birth, usually in signs of the same modality. In a chart, authority and your instinct for self-rule rub against each other: a friction that teaches which rules protect something and which only keep you small, and how to keep the first kind."
+definition: "Saturn square Lilith sets Saturn and mean Black Moon Lilith about 90° apart at birth, usually in signs of the same modality. In a chart, authority and your instinct for self-rule rub against each other: a friction that teaches which rules protect something and which only keep you small, and how to keep the first kind."
 facts:
   - { k: "Bodies", v: "Saturn ♄ and Black Moon Lilith ⚸" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -17,8 +17,8 @@ facts:
   - { k: "In transit", v: "Again at each Lilith return and halfway between; also at Saturn’s own squares" }
 related: ["/astrology/saturn", "/astrology/black-moon-lilith", "/astrology/square", "/astrology/saturn-square-lilith-synastry", "/astrology/saturn-squares-and-opposition"]
 faq:
-  - q: "What does Saturn square Lilith mean?"
-    a: "Saturn and mean Black Moon Lilith were about 90° apart when you were born. Authority and your instinct for self-rule rub against each other, inside you and around you. Over time the friction teaches you which rules protect something and which only keep you small, and to keep the first kind firmly."
+  - q: "How does Saturn square Lilith play out?"
+    a: "At your birth, Saturn and mean Black Moon Lilith stood about 90° apart. Authority and your instinct for self-rule rub against each other, inside you and around you. Over time the friction teaches you which rules protect something and which only keep you small, and to keep the first kind firmly."
   - q: "Is Saturn square Lilith a sign of conflict with authority?"
     a: "It can show that way, especially when you’re young: a running argument with rules, bosses or your own inner critic. But a square is friction, not doom. What it builds is discernment about rules, and many people with it end up as fair, firm authorities themselves."
   - q: "How often do transits set off Saturn square Lilith?"
@@ -34,13 +34,13 @@ Saturn square Lilith sets the rules you live by at right angles to the part of y
 
 [Saturn](/astrology/saturn/) represents authority: structure, responsibility, the discipline of keeping commitments. [Black Moon Lilith](/astrology/black-moon-lilith/), the Moon's mean apogee, is read, symbolically and with different emphasis in different traditions, as instinctive autonomy, the material you were taught to hide, and personal boundaries drawn by instinct. A [square](/astrology/square/) turns their meeting into constructive friction: authority presses on autonomy, autonomy pushes back, and neither is allowed to win outright.
 
-Lived, it can feel like a running argument with authority, inside you as much as outside. You might comply and resent it, or refuse and then over-correct with rules of your own; a manager, a family code or your own inner critic can play Saturn's part. Challenge isn't punishment, though, and friction isn't failure. This square trains a particular strength: telling a rule that protects something from a rule that only keeps you small, and keeping the first kind without apology.
+Lived, it can feel like a running argument with authority, inside you as much as outside. You might comply and resent it, or refuse and then make up for it with rules of your own; a manager, a family code or your own inner critic can play Saturn's part. Challenge isn't punishment, though, and friction isn't failure. This square trains a particular strength: telling a rule that protects something from a rule that only keeps you small, and keeping the first kind without apology.
 
 ## In a birth chart {#in-a-birth-chart}
 
 About 1 person in 16 is born with this square within 6°, counting with mean Lilith; true Lilith, which strays far from the mean, may show it differently ([which Lilith is mine?](/astrology/which-lilith-is-mine/)). The two usually sit in signs of the same modality, and the modality sets the style of the argument: cardinal signs keep restarting it, fixed signs dig in, mutable signs keep changing its terms. Saturn in Capricorn square Lilith in Aries, say, can set ambition's rules against a fierce need to go first.
 
-The houses, which need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)), show the ground it's argued on: Saturn in the 10th square Lilith in the 7th might set a public role against the terms you'll accept in a partnership. Lilith, moving about three times as fast as Saturn, decides when births share the square, for a few months at a time. Within a degree or two, the argument is daily; near 6°, it flares mainly when a rule is imposed from outside.
+The houses, which need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)), show the ground it's argued on: Saturn in the 4th square Lilith in the 1st might set family rules against the way you insist on presenting yourself. Lilith, moving about three times as fast as Saturn, decides when births share the square, for a few months at a time. Within a degree or two, the argument is daily; near 6°, it flares mainly when a rule is imposed from outside.
 
 The pair's other aspects, for comparison:
 

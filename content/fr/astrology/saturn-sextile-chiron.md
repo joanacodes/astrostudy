@@ -2,13 +2,13 @@
 title: "Saturne sextile Chiron"
 slug: "saturne-sextile-chiron"
 h1: "Saturne sextile Chiron dans un thème natal"
-description: "Saturne sextile Chiron dans un thème natal : un passage entre discipline et adaptation, pour les naissances de 1955–59 et 1971–73. Ses transits."
+description: "Saturne sextile Chiron dans un thème natal : un passage entre discipline et adaptation, propre aux naissances de 1955–59 et 1971–73. Ses transits."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 291
 glyph: "♄⚹⚷"
-definition: "Saturne sextile Chiron désigne un angle d’environ 60° entre les deux corps, partagé par les naissances de 1955–1959 et de 1971–1973. Dans un thème, il relie la structure et votre façon de vous adapter à une difficulté durable : des routines qui rendent les choses faisables, et un soutien à sa juste mesure, pourvu que vous vous en serviez."
+definition: "Saturne sextile Chiron met environ 60° entre Saturne et Chiron, comme chez les naissances de 1955–1959 et de 1971–1973. Dans un thème, il relie la structure et votre manière de vivre avec une difficulté durable : des routines qui rendent les choses faisables, et un soutien à sa juste mesure, pourvu que vous vous en serviez."
 facts:
   - { k: "Corps", v: "Saturne ♄ et Chiron ⚷" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -18,12 +18,12 @@ facts:
   - { k: "Éléments", v: "Le feu et l’air les deux fois : Sagittaire–Verseau, puis Gémeaux–Bélier" }
 related: ["/astrology/saturn", "/astrology/chiron", "/astrology/sextile", "/astrology/saturn-sextile-chiron-synastry", "/astrology/chiron-return"]
 faq:
-  - q: "Comment agit Saturne sextile Chiron dans un thème ?"
-    a: "Comme un passage entre votre sens de la structure et votre façon de vous adapter à une difficulté durable. Vous voyez ce qui rendrait une tâche faisable et vous l’organisez, et demander un soutien à la mesure du besoin vous coûte moins. Cela marche quand vous vous en servez. Une génération le partage : les maisons disent où."
-  - q: "Quelles années de naissance ont Saturne sextile Chiron ?"
+  - q: "À quoi ressemble Saturne sextile Chiron au quotidien ?"
+    a: "À un passage entre la discipline dont vous êtes capable et votre manière de contourner une difficulté durable. Vous voyez ce qui rendrait une tâche faisable et vous l’organisez, et demander un soutien à la mesure du besoin vous coûte moins. Cela marche quand vous vous en servez. Une génération le partage : les maisons disent où."
+  - q: "Sur quelles naissances tombe le sextile Saturne–Chiron ?"
     a: "À 6° près, deux vagues entre 1930 et 2009 : par intermittence de décembre 1955 à août 1959, et de septembre 1971 à juillet 1973. Les deux ont uni un signe de feu et un signe d’air, d’abord le Sagittaire et le Verseau, puis les Gémeaux et le Bélier."
-  - q: "Le sextile Saturne–Chiron est-il un bon aspect ?"
-    a: "Un aspect utile. Il ne supprime pas une difficulté ; il rend plus facile de s’y adapter, par la routine, la méthode et le bon soutien. Cela aide souvent les autres aussi, parce que vous savez ce qui rend une chose faisable. Comme tout sextile, il donne le plus quand vous agissez."
+  - q: "Avec Saturne sextile Chiron, une difficulté devient-elle plus simple ?"
+    a: "Plus praticable, oui. Ce sextile ne supprime pas une difficulté ; il rend plus facile de s’y adapter, par la routine, la méthode et le bon soutien. Cela aide souvent les autres aussi, parce que vous savez ce qui rend une chose faisable. Comme tout sextile, il donne le plus quand vous agissez."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes le portent, et les mois où il était dans l’orbe" }
@@ -39,7 +39,7 @@ Au quotidien, c’est souvent un bon sens pratique face aux limites, les vôtres
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-À 6° près, environ 1 personne sur 23 née entre 1930 et 2009 porte ce sextile, en deux vagues : par intermittence de décembre 1955 à août 1959, et de septembre 1971 à juillet 1973. Partagé par toutes les naissances de ces mois-là, c’est un aspect de génération, que les maisons et les contacts avec vos planètes personnelles rendent vôtre ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Les deux vagues ont uni le feu et l’air : Saturne en Sagittaire et Chiron en Verseau dans les années 1950, Saturne en Gémeaux et Chiron en Bélier dans les années 1970. Des combinaisons vives, tournées vers l’extérieur : les idées et le courage mis au service d’une difficulté.
+Le décompte donne environ 1 personne sur 23 née entre 1930 et 2009 avec ce sextile, à 6° près, en deux vagues : par intermittence de décembre 1955 à août 1959, et de septembre 1971 à juillet 1973. Partagé par toutes les naissances de ces mois-là, c’est un aspect de génération ; les maisons et les contacts avec vos planètes personnelles le rendent vôtre ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Les deux vagues ont uni le feu et l’air : Saturne en Sagittaire et Chiron en Verseau dans les années 1950, Saturne en Gémeaux et Chiron en Bélier dans les années 1970. Des combinaisons vives, tournées vers l’extérieur : les idées et le courage mis au service d’une difficulté.
 
 Côté maisons, Saturne en maison 3 sextile Chiron en maison 1 pourrait changer une façon d’apprendre durement acquise en présence assurée ; Saturne en maison 11 sextile Chiron en maison 9, en un groupe qui partage des méthodes pour ce que ses membres ont trouvé difficile. À un ou deux degrés près, l’ouverture saute aux yeux ; vers 6°, elle se montre surtout quand une difficulté demande un plan. Saturne avance en général plus vite, même si l’orbite étirée de Chiron fait beaucoup varier sa vitesse.
 
@@ -48,9 +48,9 @@ Et les autres aspects Saturne–Chiron :
 - **[Saturne conjonction Chiron](/astrology/saturn-conjunct-chiron/) :** 1965–1967, en Poissons ; la limite et la méthode fondues ensemble.
 - **[Saturne carré Chiron](/astrology/saturn-square-chiron/) :** par intermittence de 1934 à 1954, et 1974–1976 ; la même rencontre, par la friction.
 - **[Saturne trigone Chiron](/astrology/saturn-trine-chiron/) :** 1930–1932 ou 1977–1980 ; un courant plus ample, plus aisé.
-- **[Saturne opposition Chiron](/astrology/saturn-opposite-chiron/) :** par intermittence de 1985 à 1997, et 2002–2007 ; les deux de part et d’autre du thème, qui demandent un équilibre.
+- **[Saturne opposition Chiron](/astrology/saturn-opposite-chiron/) :** par intermittence de 1985 à 1997, et 2002–2007 ; les deux de part et d’autre du thème, à équilibrer.
 
-Entre deux thèmes, [Saturne sextile Chiron en synastrie](/astrology/saturn-sextile-chiron-synastry/) fait souvent de l’une des deux personnes une présence stabilisante face à la difficulté de l’autre, et de l’autre une source de compréhension en retour. Les deux sens comptent quand je le lis.
+Entre deux personnes, [Saturne sextile Chiron en synastrie](/astrology/saturn-sextile-chiron-synastry/) fait souvent de l’une des deux personnes une présence stabilisante face à la difficulté de l’autre, et de l’autre une source de compréhension en retour. Les deux sens comptent quand je le lis.
 
 ## En transit {#en-transit}
 

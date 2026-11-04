@@ -18,9 +18,9 @@ facts:
   - { k: "In transit", v: "Again at each nodal return, about 18½, 37 and 56" }
 related: ["/astrology/saturn", "/astrology/north-node", "/astrology/conjunction", "/astrology/nodal-return", "/astrology/saturn-conjunct-north-node-synastry"]
 faq:
-  - q: "What does Saturn conjunct North Node mean?"
+  - q: "What does Saturn on the North Node mean in a natal chart?"
     a: "Saturn sat on the North Node when you were born, and so opposite the South Node. The direction you’re growing in comes with structure attached: slower, more deliberate, built through steady practice. I read it as growth on a timetable rather than a heavier fate, and growth that tends to last."
-  - q: "Is Saturn conjunct North Node a karmic aspect?"
+  - q: "Is Saturn conjunct North Node karmic?"
     a: "Many astrologers call the nodes karmic. I read the North Node as a direction of development rather than a debt or a destiny, and Saturn as the structure that development asks for. Together they describe a capacity built slowly and responsibly, which is a practical message, not a sentence."
   - q: "Mean node or true node for Saturn conjunct North Node?"
     a: "I look at both. They differ by a degree or two at most, so they usually agree, but near the edge of the 6° orb one can show the conjunction and the other not. The count on this page uses the true node; if your two charts disagree, it’s worth saying so in a reading."
@@ -50,7 +50,7 @@ The pair's other aspects, in a line each:
 - **[Saturn trine North Node](/astrology/saturn-trine-north-node/):** structure supporting your growth with ease.
 - **[Saturn opposite North Node](/astrology/saturn-opposite-north-node/):** Saturn on the South Node instead, weighting what's familiar.
 
-Between two charts, [Saturn conjunct North Node in synastry](/astrology/saturn-conjunct-north-node-synastry/) lays one person's Saturn on the other's direction of growth: it can feel like a mentor or like a brake, and often both. I look at it from both people's side.
+In a relationship, [Saturn conjunct North Node in synastry](/astrology/saturn-conjunct-north-node-synastry/) lays one person's Saturn on the other's direction of growth: it can feel like a mentor or like a brake, and often both. I look at it from both people's side.
 
 ## In transits {#in-transits}
 

@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 293
 glyph: "♄△⚷"
-definition: "Saturne trigone Chiron désigne un angle d’environ 120° entre Saturne et Chiron, partagé par les naissances de 1930–1932 et de 1977–1980, en signes de terre. Dans un thème, la patience et l’adaptation se renforcent : une difficulté durable reçoit une routine sensée, et la routine plie là où il faut, pourvu que vous vous serviez de ce don."
+definition: "Saturne trigone Chiron unit Saturne et Chiron à environ 120°, comme pour les naissances de 1930–1932 et de 1977–1980, en signes de terre. Dans un thème, la patience et l’adaptation se renforcent : une difficulté durable reçoit une routine sensée, et la routine plie là où il faut, pourvu que vous vous serviez de ce don."
 facts:
   - { k: "Corps", v: "Saturne ♄ et Chiron ⚷" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -21,7 +21,7 @@ related: ["/astrology/saturn", "/astrology/chiron", "/astrology/trine", "/astrol
 faq:
   - q: "Comment vit-on avec Saturne trigone Chiron ?"
     a: "Avec une aide discrète. La patience et l’adaptation sont alliées : une difficulté avec laquelle vous vivez reçoit une routine sensée, et les routines plient là où il le faut. Beaucoup de personnes qui portent ce trigone savent aussi rendre les choses faisables pour les autres. Toute une génération l’a en commun : les maisons disent où il se montre."
-  - q: "Quelles vagues de naissances ont Saturne trigone Chiron ?"
+  - q: "De quelles années date le trigone Saturne–Chiron ?"
     a: "Deux vagues entre 1930 et 2009, à 6° près : par intermittence de janvier 1930 à décembre 1932, et d’octobre 1977 à juillet 1980. Les deux se sont tenues en signes de terre, avec Chiron en Taureau chaque fois, et la seconde était déjà dans l’orbe quand Chiron a été découvert, en novembre 1977."
   - q: "Un aspect aussi facile peut-il rester inemployé ?"
     a: "Oui. Un trigone apporte l’aisance, pas l’effort, et l’aisance passe facilement inaperçue. Celui-ci rend l’adaptation pratique naturelle, mais il est possible de tout donner aux autres, ou de s’y appuyer sans le remarquer. Il donne le plus quand vous appliquez aussi la méthode à vous-même."
@@ -40,7 +40,7 @@ Concrètement, vous contournez par la pratique ce qui est difficile. La répéti
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-À 6° près, environ 1 personne sur 25 née entre 1930 et 2009 porte ce trigone, issu de deux vagues : par intermittence depuis le début du décompte, en janvier 1930, jusqu’en décembre 1932, et d’octobre 1977 à juillet 1980. Il appartient à toutes les naissances de ces mois-là ; ce sont les maisons, et les contacts avec votre Soleil, votre Lune ou vos angles, qui le rendent vôtre ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Ce trigone concerne environ 1 personne sur 25 née entre 1930 et 2009, à 6° près, en deux vagues : par intermittence depuis le début du décompte, en janvier 1930, jusqu’en décembre 1932, et d’octobre 1977 à juillet 1980. Il appartient à toutes les naissances de ces mois-là ; ce sont les maisons, et ses liens éventuels avec votre Soleil, votre Lune ou un angle, qui le rendent vôtre ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Les deux vagues se sont tenues en terre. Chiron était chaque fois en [Taureau](/astrology/taurus/) ; Saturne était en Capricorne, son propre signe, au début des années 1930, et surtout en Vierge à la fin des années 1970. Un trigone de terre est un trigone pratique : le corps, les habitudes, les matériaux, le quotidien. La seconde vague était déjà dans l’orbe quand Chiron a été découvert, le 1er novembre 1977. Côté maisons, Saturne en maison 10 trigone Chiron en maison 2 pourrait bâtir une carrière sur un savoir-faire appris lentement. Près de l’exactitude, le trigone se voit nettement dans une façon de travailler ; vers 6°, surtout quand une longue tâche demande d’être dosée. C’est Saturne, ici plus rapide, qui fixait le moment.
 
@@ -55,6 +55,6 @@ Entre deux thèmes, [Saturne trigone Chiron en synastrie](/astrology/saturn-trin
 
 ## En transit {#en-transit}
 
-[Chiron en transit trigone Saturne du thème natal](/astrology/transiting-chiron-trine-natal-saturn/) arrive deux fois par tour de Chiron, soit en une cinquantaine d’années, et sa durée dépend de la vitesse de Chiron dans cette partie du zodiaque. Saturne en transit forme un trigone à Chiron du thème natal deux fois tous les 29 ans et demi.
+[Chiron en transit trigone Saturne du thème natal](/astrology/transiting-chiron-trine-natal-saturn/) survient deux fois dans les quelque cinquante ans que dure le tour de Chiron, et sa durée dépend de l’allure de Chiron dans ce secteur du zodiaque. Quant au trigone de Saturne en transit à Chiron du thème natal, il revient deux fois en 29 ans et demi.
 
 Si ce trigone est dans votre thème, chaque [retour de Saturne](/astrology/saturn-return/) le reforme, tout comme le [retour de Chiron](/astrology/chiron-return/), vers 50 ans. Comme les autres transits, celui-ci tient de la météo, pas de la prédiction : des saisons plus faciles pour bâtir une routine qui vous soutient, et rien de plus figé que cela.

@@ -41,9 +41,9 @@ The catch is the one every trine carries: ease goes unnoticed, and flowing isn't
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 1 person in 16 born between 1930 and 2009 has this trine within 6°, but not spread evenly. Jupiter laps Neptune about every 12 or 13 years and makes the trine twice on each lap, roughly four years apart, so the aspect came in windows of a few months to about a year: in 1937, 1941, 1950, 1953–54, 1962–63, 1966–67, 1975–76, 1979, 1987–88, 1991–92, 2000–01 and 2004–05. Everyone born inside a window shares it.
+Counting within 6°, this trine falls to about 1 person in 16 of everyone born from 1930 to 2009, though not evenly. Jupiter laps Neptune about every 12 or 13 years and makes the trine twice on each lap, roughly four years apart, so the aspect came in windows of a few months to about a year: in 1937, 1941, 1950, 1953–54, 1962–63, 1966–67, 1975–76, 1979, 1987–88, 1991–92, 2000–01 and 2004–05. Everyone born inside a window shares it.
 
-That makes it the aspect of a year-group more than of a person, and what makes it yours is where it lands. A trine usually joins two signs of one element: in water it leans towards empathy, in fire towards inspiration, in earth towards ideals made useful, in air towards ideas worth sharing. In the houses, with Jupiter in the 9th and Neptune in the 1st, a philosophy you studied can shape the way you meet the world; with Neptune in the 6th, compassion goes into the daily work. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)), and a trine that also touches your Sun, Moon or an angle speaks louder.
+That makes it the aspect of a year-group more than of a person, and what makes it yours is where it lands. The element its two signs normally share colours the trine: in water it leans towards empathy, in fire towards inspiration, in earth towards ideals made useful, in air towards ideas worth sharing. In the houses, with Jupiter in the 9th and Neptune in the 1st, a philosophy you studied can shape the way you meet the world; with Neptune in the 6th, compassion goes into the daily work. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)), and a trine that also touches your Sun, Moon or an angle speaks louder.
 
 Jupiter's other aspects to Neptune set belief and imagination at other distances:
 
@@ -56,8 +56,8 @@ Between two charts, [Jupiter trine Neptune in synastry](/astrology/jupiter-trine
 
 ## In transits {#in-transits}
 
-[Transiting Jupiter trine natal Neptune](/astrology/transiting-jupiter-trine-natal-neptune/) comes twice in every 12-year round of Jupiter. Jupiter crosses a sign in about a year, so the trine stays close for a few weeks, or for some months in two or three passes when its retrograde falls nearby. Born with the trine, you meet it again at each [Jupiter return](/astrology/jupiter-return/), at about 12, 24, 36 and so on: back on its own degree, Jupiter is back in trine with your Neptune.
+[Transiting Jupiter trine natal Neptune](/astrology/transiting-jupiter-trine-natal-neptune/) comes twice in every 12-year round of Jupiter. With Jupiter taking about a year over each sign, the trine stays close for a few weeks, or for some months in two or three passes when its retrograde falls nearby. If the trine is yours from birth, every [Jupiter return](/astrology/jupiter-return/) brings it round again, at 12, 24, 36 and each twelfth year after, since Jupiter is then on its natal degree, 120° from your Neptune.
 
-[Transiting Neptune trine natal Jupiter](/astrology/transiting-neptune-trine-natal-jupiter/) works on another scale. Neptune spends about 14 years in a sign, so it can hover near the trine for a year or two, in several passes, at an age that depends entirely on where it stood when you were born.
+[Transiting Neptune trine natal Jupiter](/astrology/transiting-neptune-trine-natal-jupiter/) works on another scale. At some 14 years per sign, Neptune can hover near the trine for a year or two, in several passes, at an age that depends entirely on where it stood when you were born.
 
 Think of both as weather, not a forecast: for a while, inspiration and understanding feed each other more easily. They don't say what you'll make of it.

@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée du passage du Soleil en Taureau, et la part des personnes nées entre 1930 et 2009 qui ont ce placement" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-Certaines personnes découvrent qui elles sont par ce qu’elles poursuivent. Avec le Soleil en Taureau, on le découvre plus souvent par ce à quoi l’on refuserait de renoncer. J’y lis une identité organisée autour de ce qui compte pour vous, tenue avec assez de constance pour vous porter à travers presque tout.
+Certaines personnes découvrent qui elles sont par ce qu’elles poursuivent. Avec le Soleil en Taureau, on le découvre plus souvent par ce à quoi l’on refuserait de renoncer. Pour ce Soleil, ce qui compte pour vous est presque ce que vous êtes, et il le tient avec assez de constance pour vous porter à travers tout ou presque.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
@@ -49,7 +49,7 @@ Ce Soleil veut voir le résultat de son travail et, si possible, le tenir dans s
 
 ## Le plus difficile {#le-plus-difficile}
 
-L’identité peut se souder à ce qu’elle tient. Une maison, un emploi, une routine ou une relation finit par faire tellement partie de vous que la changer ressemble à vous perdre, et vous défendez parfois une situation longtemps après qu’elle a cessé de vous nourrir. La vitalité peut s’épuiser de la même façon, lentement et sans bruit, quand les besoins du corps sont sans cesse remis à plus tard. Vu de l’extérieur, cela ressemble à de l’entêtement. Vu de l’intérieur, c’est souvent la seule façon de rester soi.
+Ce que vous tenez peut devenir ce que vous êtes. Une maison, un emploi, une routine ou une relation finit par faire tellement partie de vous que la changer ressemble à vous perdre, et vous défendez parfois une situation longtemps après qu’elle a cessé de vous nourrir. La vitalité peut s’épuiser de la même façon, lentement et sans bruit, quand les besoins du corps sont sans cesse remis à plus tard. Vu de l’extérieur, cela ressemble à de l’entêtement. Vu de l’intérieur, c’est souvent la seule façon de rester soi.
 
 ## Ce qui aide {#ce-qui-aide}
 

@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 302
 glyph: "♄□☊"
-definition: "Saturne carré Nœud Nord signifie que Saturne se trouvait à environ 90° du Nœud Nord à votre naissance, donc à 90° du Nœud Sud aussi. Dans un thème, les devoirs et les limites coupent à la fois vos vieilles habitudes et votre nouvelle direction : une friction qui apprend à grandir à une allure que vos responsabilités peuvent porter."
+definition: "Saturne carré Nœud Nord place Saturne à environ 90° du Nœud Nord à la naissance, ce qui veut dire à 90° du Nœud Sud aussi. Dans un thème, les devoirs et les limites coupent à la fois vos vieilles habitudes et votre nouvelle direction : une friction qui apprend à grandir à une allure que vos responsabilités peuvent porter."
 facts:
   - { k: "Corps", v: "Saturne ♄ et le Nœud Nord ☊" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -34,7 +34,7 @@ Saturne carré Nœud Nord place Saturne en travers de la route qui va de là d�
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Saturne](/astrology/saturn/) délimite la responsabilité : la structure, les limites, la vision longue dont une vie a besoin. Le [Nœud Nord](/astrology/north-node/) indique dans quel sens vous vous développez, vers une capacité moins familière qui grandit par la pratique, le Nœud Sud en face décrivant ce qui venait facilement. Un [carré](/astrology/square/) relie ces deux fonctions par une friction qui bâtit. Et comme les nœuds sont exactement opposés, ce qui est à 90° de l’un est à 90° de l’autre : Saturne se tient à mi-chemin entre les deux bouts de l’[axe des nœuds](/astrology/nodal-axis/), et appuie sur les deux.
+[Saturne](/astrology/saturn/) délimite la responsabilité : la structure, les limites, la vision longue dont une vie a besoin. Le [Nœud Nord](/astrology/north-node/) indique dans quel sens vous vous développez, vers une capacité moins familière qui grandit par la pratique, le Nœud Sud en face décrivant ce qui venait facilement. Un [carré](/astrology/square/) les met en friction, une friction qui bâtit. Et comme les nœuds sont exactement opposés, ce qui est à 90° de l’un est à 90° de l’autre : Saturne se tient à mi-chemin entre les deux bouts de l’[axe des nœuds](/astrology/nodal-axis/), et appuie sur les deux.
 
 Au quotidien, cela peut donner l’impression que la structure interrompt à la fois votre confort et votre croissance. Revenir aux vieilles habitudes ramène un devoir auquel vous ne pouvez pas vous soustraire ; avancer vers le neuf ramène une limite à respecter. Une friction n’est pas un échec, et une épreuve n’est pas une punition. Avec le temps, ce carré enseigne souvent le rythme et l’intégration : bâtir la nouvelle capacité à une allure que vos responsabilités peuvent porter, et mettre vos forces anciennes à son service au lieu de les fuir.
 
@@ -51,7 +51,7 @@ Les autres aspects de la paire, côte à côte :
 - **[Saturne trigone Nœud Nord](/astrology/saturn-trine-north-node/) :** la structure qui prête main-forte, sans effort, à la direction nouvelle.
 - **[Saturne opposition Nœud Nord](/astrology/saturn-opposite-north-node/) :** le poids passe du côté du Nœud Sud, où se tient Saturne.
 
-Entre deux thèmes, [Saturne carré Nœud Nord en synastrie](/astrology/saturn-square-north-node-synastry/) peut faire des règles de l’une des deux personnes un obstacle en travers du chemin de l’autre, ou justement la structure qui manquait à ce chemin. Je le lis pour les deux personnes.
+D’un thème à l’autre, [Saturne carré Nœud Nord en synastrie](/astrology/saturn-square-north-node-synastry/) peut faire des règles de l’une des deux personnes un obstacle en travers du chemin de l’autre, ou justement la structure qui manquait à ce chemin. Je le lis pour les deux personnes.
 
 ## En transit {#en-transit}
 

@@ -34,11 +34,11 @@ Mercury in Taurus doesn't take a new idea on trust. It turns it over, weighs it 
 
 [Mercury](/astrology/mercury/) is how you notice, sort and pass on what you learn. [Taurus](/astrology/taurus/), fixed earth ruled by Venus, slows whatever sits in it to the pace of something growing: steady, sensory, hard to rush. Here Mercury thinks with its hands and its senses. You learn by doing a thing and remember it because you did it; an explanation lands when it comes with an example you could touch. Your words tend to be few and solid, and people often find them easy to lean on.
 
-Tradition gives Mercury no dignity in Taurus, neither strength nor weakness. What the sign changes is the tempo of the mind, not its quality: a mind that takes its time is not a mind that's behind.
+No dignity attaches to Mercury in Taurus, for good or ill. What the sign changes is the tempo of the mind, not its quality: a mind that takes its time is not a mind that's behind.
 
-Mercury usually spends about 16 days in Taurus. When it turns retrograde in the sign it can stay as long as 69, giving a sign that likes to chew things over several extra weeks to do it. About 1 person in 13 born between 1930 and 2009 has this Mercury.
+The calendar gives this patient placement a short window: Mercury's stay in Taurus is usually about 16 days, stretching to as many as 69 in a year when it turns retrograde in the sign, which gives a sign that likes to chew things over several extra weeks to do it. That works out at about 1 person in 13 among those born between 1930 and 2009.
 
-Your Sun is in Aries, Taurus or Gemini, since Mercury never strays more than about 28° from it. An Aries Sun with this Mercury is a self that wants to charge with a mind that holds the reins; a Gemini Sun with it is a curious self whose mind insists on proof. Where [Mercury in Aries](/astrology/mercury-in-aries/) learns by trying and [Mercury in Gemini](/astrology/mercury-in-gemini/) by asking, Mercury in Taurus learns by repeating until a thing is part of you. Venus rules Taurus, so your [Venus](/astrology/venus/) is worth a look next: its sign and house show what this mind finds worth thinking about, and what it values enough to defend.
+Since Mercury keeps within about 28° of the Sun, the Sun itself is in Aries, Taurus or Gemini. Born with the Sun in Aries, you may want to charge while this mind holds the reins; born with it in Gemini, your curiosity runs ahead and your Mercury asks for proof. Where [Mercury in Aries](/astrology/mercury-in-aries/) learns by trying and [Mercury in Gemini](/astrology/mercury-in-gemini/) by asking, Mercury in Taurus learns by repeating until a thing is part of you. Venus rules Taurus, so your [Venus](/astrology/venus/) is worth a look next: its sign and house show what this mind finds worth thinking about, and what it values enough to defend.
 
 ## In close relationships {#in-close-relationships}
 

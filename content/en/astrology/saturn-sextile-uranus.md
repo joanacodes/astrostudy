@@ -56,6 +56,6 @@ Between two charts, [Saturn sextile Uranus in synastry](/astrology/saturn-sextil
 
 ## In transits {#in-transits}
 
-[Transiting Saturn sextile natal Uranus](/astrology/transiting-saturn-sextile-natal-uranus/) comes twice in each 29½-year round of Saturn, for some weeks or, with retrogrades, a few months: a good season, many astrologers say, to give an idea a structure. [Transiting Uranus sextile natal Saturn](/astrology/transiting-uranus-sextile-natal-saturn/) lasts longer, a year or so close to exact, since Uranus spends about 7 years in a sign. Born with the sextile, your [Saturn return](/astrology/saturn-return/) repeats it from Saturn's side.
+[Transiting Saturn sextile natal Uranus](/astrology/transiting-saturn-sextile-natal-uranus/) arrives twice per Saturn lap of about 29½ years, for some weeks or, with retrogrades, a few months: a good season, many astrologers say, to give an idea a structure. [Transiting Uranus sextile natal Saturn](/astrology/transiting-uranus-sextile-natal-saturn/) lasts longer, a year or so close to exact, since Uranus spends about 7 years in a sign. Born with the sextile, your [Saturn return](/astrology/saturn-return/) repeats it from Saturn's side.
 
-Like all transits, these are weather, not a forecast: openings for reform that still need someone to walk through them.
+Weather, then, and not a forecast: openings for reform that still need someone to walk through them.

@@ -28,15 +28,15 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the Sun stays in Scorpio, and how many people born 1930–2009 have it" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-A Scorpio Sun is a lit room with the curtains drawn: very much alive inside, and careful about who sees in. The Sun was in fixed water when you were born, and I read it as an identity organised around what is essential, shown slowly and only where it will be held.
+A Scorpio Sun is a lit room with the curtains drawn: very much alive inside, and careful about who sees in. Fixed water gives the Sun that manner: a self arranged around what is essential, shown slowly, and only where it will be held.
 
 ## In a birth chart {#in-a-birth-chart}
 
-I read the [Sun](/astrology/sun/) as the chart's organising centre, the part that holds identity, vitality and direction together. [Scorpio](/astrology/scorpio/) gives that centre a fixed, watery manner: intense, inward and sustained. Your sense of self tends to rest on a private core that you protect, and on a need to reach the truth of things, your own included. Integration, one of the Sun's quieter jobs, takes a particular form here: you become whole by admitting what you'd buried, not by polishing what shows.
+Identity, vitality and direction meet in the [Sun](/astrology/sun/), and [Scorpio](/astrology/scorpio/) makes that meeting place intense, inward and sustained. Your sense of self often rests on a private core that you protect, and on a need to reach the truth of things, your own included. Integration, one of the Sun's quieter jobs, takes a particular form here: you become whole by admitting what you'd buried, not by polishing what shows.
 
 None of the four dignities applies to the Sun in Scorpio; what shapes it most is a pair of rulers. In the tradition Scorpio belongs to [Mars](/astrology/mars/), and its sign and house show where this Sun puts its effort and draws its lines. In modern tropical astrology it belongs to [Pluto](/astrology/pluto/), whose sign is shared by a whole generation; its house is where this Sun meets its appetite for change at the root. I read both, because they answer different questions: Mars *how do I act?*, Pluto *what has to end so that something truer can begin?* More on the split in [traditional and modern rulers](/astrology/traditional-and-modern-rulers/).
 
-The Sun is in Scorpio for 29 or 30 days, from about 23 October to 21 November, the Sun sign of about 1 person in 12. Within a day of either end, your [birth time](/blog/unknown-birth-time/) settles which sign it was.
+The Sun is in Scorpio for 29 or 30 days, from about 23 October to 21 November, the Sun sign of about 1 person in 12. If you were born on a changeover day, your [birth time](/blog/unknown-birth-time/) says which sign it was.
 
 ## In close relationships {#in-close-relationships}
 
@@ -48,7 +48,7 @@ This Sun works best on things that need changing at the root: research, restorat
 
 ## The hard part {#the-hard-part}
 
-Identity can become tied to intensity, so that ordinary, quiet stretches feel like a loss of self. Holding on is another difficulty: a chapter that has ended may go on being read for years. And the instinct to control how much of you is seen can harden into isolation, with the private core so well guarded that even you lose touch with it. Underneath, it's often the same wish: never to be caught unready.
+Intensity can start to feel like the only proof that you're alive, so that ordinary, quiet stretches feel like a loss of self. Holding on is another difficulty: a chapter that has ended may go on being read for years. And the instinct to control how much of you is seen can harden into isolation, with the private core so well guarded that even you lose touch with it. Underneath, it's often the same wish: never to be caught unready.
 
 ## What helps {#what-helps}
 

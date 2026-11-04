@@ -43,7 +43,7 @@ The tension here depends on context, not on the aspect's nature. When the two en
 
 About 1 person in 32 born between 1930 and 2009 has the opposition within 6°, half as many as have the trine, because Jupiter reaches the point opposite Neptune only once in each lap. The windows were 1939–40, 1951–52, 1964–65, 1977, 1989–90 and 2002–03, a few months each, sometimes split in two by Jupiter's retrograde. Everyone born in them shares it, so on its own it describes a year-group.
 
-What's personal is the axis it runs along. An opposition usually joins two signs of the same modality, one fire and one air, or one earth and one water, so the two ends speak complementary languages. It also crosses two opposite houses. Jupiter in the 10th with Neptune in the 4th might set a public philosophy against a private, porous home life; Jupiter in the 3rd with Neptune in the 9th, everyday learning against a longing for faraway meaning. Which pair of houses the axis falls across depends on your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+What's personal is the axis it runs along. The two signs of an opposition usually share a modality and pair fire with air or earth with water, so the two ends speak languages that complete each other. It also crosses two opposite houses. Jupiter in the 10th with Neptune in the 4th might set a public philosophy against a private, porous home life; Jupiter in the 3rd with Neptune in the 9th, everyday learning against a longing for faraway meaning. Which pair of houses the axis falls across depends on your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 The pair's other aspects hold the two at other distances:
 
@@ -52,12 +52,12 @@ The pair's other aspects hold the two at other distances:
 - **[Jupiter square Neptune](/astrology/jupiter-square-neptune/):** neither face to face nor side by side, they cross, and the friction keeps asking which ideals hold.
 - **[Jupiter trine Neptune](/astrology/jupiter-trine-neptune/):** they flow together without anyone else having to carry one end.
 
-Between two charts, [Jupiter opposite Neptune in synastry](/astrology/jupiter-opposite-neptune-synastry/) sets one person's convictions facing the other's imagination. It can widen and soften both at once, and I read it in both directions, since each person holds an end.
+Between two charts, [Jupiter opposite Neptune in synastry](/astrology/jupiter-opposite-neptune-synastry/) sets one person's convictions facing the other's imagination. It can widen and soften both at once; each person holds one end, so each side gets its own reading.
 
 ## In transits {#in-transits}
 
-[Transiting Jupiter opposite natal Neptune](/astrology/transiting-jupiter-opposite-natal-neptune/) comes once in each 12-year round of Jupiter, for a few weeks, or longer, in several passes, when Jupiter turns retrograde near the point.
+[Transiting Jupiter opposite natal Neptune](/astrology/transiting-jupiter-opposite-natal-neptune/) comes once a lap, close for a few weeks, or longer, in several passes, when Jupiter turns retrograde near the point.
 
-[Transiting Neptune opposite natal Jupiter](/astrology/transiting-neptune-opposite-natal-jupiter/) behaves differently if you were born with the opposition. The point opposite your Jupiter lies close to where Neptune stood at your birth, so the transit was already there when you arrived; Neptune moves away from it in your first years and needs about 165 years to come back. For everyone else it comes at an age set by their birth year, and Neptune, needing some 14 years to cross a sign, holds it near exact for a year or two.
+[Transiting Neptune opposite natal Jupiter](/astrology/transiting-neptune-opposite-natal-jupiter/) behaves differently if you were born with the opposition. The point opposite your Jupiter lies close to where Neptune stood at your birth, so the transit was already there when you arrived; Neptune drifts off it in your first years and won't be back for some 165 years. For everyone else it comes at an age set by their birth year, and Neptune, needing some 14 years to cross a sign, holds it near exact for a year or two.
 
-I read these transits as weather, not a forecast: a time when what you hold true and what you dream of ask to be weighed again. The weighing stays yours.
+To me these transits are weather, not a forecast: a time when what you hold true and what you dream of ask to be weighed again. The weighing stays yours.

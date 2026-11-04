@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the Sun stays in Virgo, and how many people born 1930–2009 have it" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-Plenty of people can tell when something is wrong. A Virgo Sun tends to know exactly where, and why, and builds a sense of self out of that precision. I read it as an identity organised by discernment: you know who you are by the distinctions you're able to make.
+Plenty of people can tell when something is wrong. A Virgo Sun tends to know exactly where, and why, and builds a sense of self out of that precision. Discernment is its organising principle: you know who you are by the distinctions you're able to make.
 
 ## In a birth chart {#in-a-birth-chart}
 
@@ -48,7 +48,7 @@ A Virgo Sun is often the one who notices the step everyone else skips. Work that
 
 ## The hard part {#the-hard-part}
 
-Identity can become a draft that never gets finished. If you know yourself by what could be better, you may never quite let yourself be done, and the inner editor that serves your work so well can turn its red pen on you. Rest is hard to justify when rest isn't useful, so vitality wears down without anyone noticing, you least of all. None of this is coldness. It's a self that is very exact, still learning that it's allowed to be enough.
+The self, here, can become a draft that never gets finished. If you know yourself by what could be better, you may never quite let yourself be done, and the inner editor that serves your work so well can turn its red pen on you. Rest is hard to justify when rest isn't useful, so vitality wears down without anyone noticing, you least of all. None of this is coldness. It's a self that is very exact, still learning that it's allowed to be enough.
 
 ## What helps {#what-helps}
 

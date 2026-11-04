@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 302
 glyph: "♄□☊"
-definition: "Saturn square North Node means Saturn was about 90° from the North Node at your birth, and so 90° from the South Node too. In a chart, duties and limits cut across both your old habits and your new direction: a friction that teaches you to grow at a pace your responsibilities can bear, bringing old strengths along."
+definition: "Saturn square North Node puts Saturn about 90° from the North Node at birth, which also means 90° from the South Node. In a chart, duties and limits cut across both your old habits and your new direction: a friction that teaches you to grow at a pace your responsibilities can bear, bringing old strengths along."
 facts:
   - { k: "Bodies", v: "Saturn ♄ and the North Node ☊" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -50,7 +50,7 @@ Next to the pair's other aspects:
 - **[Saturn trine North Node](/astrology/saturn-trine-north-node/):** structure lending the new direction an easy hand.
 - **[Saturn opposite North Node](/astrology/saturn-opposite-north-node/):** Saturn on the South Node, weighting the familiar.
 
-Between two charts, [Saturn square North Node in synastry](/astrology/saturn-square-north-node-synastry/) can make one person's rules feel like an obstacle across the other's path, or like the very structure it was missing. I read it for both people.
+Across two charts, [Saturn square North Node in synastry](/astrology/saturn-square-north-node-synastry/) can make one person's rules feel like an obstacle across the other's path, or like the very structure it was missing. I read it for both people.
 
 ## In transits {#in-transits}
 

@@ -21,7 +21,7 @@ faq:
     a: "As a bridge. Pluto is on easy terms with the South Node, your familiar ground, and at an opening angle to the North Node, the direction you grow in. When you let something go, the change tends to lead somewhere new without turning you against your past, provided you choose to cross."
   - q: "Can Pluto sextile North Node keep me too comfortable?"
     a: "It can. The easy trine to the South Node makes it tempting to renew only what you already know. The sextile to the North Node is quieter and needs you to act on it. Noticing which end you lean on is most of the work."
-  - q: "How many people are born with Pluto sextile North Node?"
+  - q: "How often does a birth fall under Pluto sextile North Node?"
     a: "About 1 person in 17 born between 1930 and 2009, counting within 6° with the true node. Because the nodes move backwards about a sign every 18 months, the sextile comes in two windows of a few months in each round, not across whole generations."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the sextile, one of his four aspects" }

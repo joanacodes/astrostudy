@@ -18,11 +18,11 @@ facts:
   - { k: "At the nodal reversal", v: "The North Node trines natal Saturn, the South Node sextiles it" }
 related: ["/astrology/saturn", "/astrology/north-node", "/astrology/sextile", "/astrology/nodal-reversal", "/astrology/saturn-sextile-north-node-synastry"]
 faq:
-  - q: "What does Saturn sextile North Node mean?"
+  - q: "How do I read Saturn sextile North Node?"
     a: "Saturn was about 60° from the North Node at your birth, and so 120° from the South Node. The discipline you built on familiar ground can be carried into the direction you’re growing in. It’s an opening: the sextile makes practice easier to organise, once you decide to begin."
   - q: "Is Saturn sextile North Node also trine the South Node?"
     a: "Yes. The nodes are exactly opposite, so Saturn 60° from one is 120° from the other. That’s why I read it as a bridge: Saturn sits comfortably with your established strengths and offers an opening towards the less familiar, without asking you to drop either."
-  - q: "How common is Saturn sextile North Node?"
+  - q: "How often is Saturn sextile North Node found in charts?"
     a: "About 1 person in 19, counting within 6° with the true node. Because the node moves backwards and Saturn forwards, the sextile lasts only a few months at a time, so it’s shared by short runs of births. Near the edge of the orb, the mean node may give a different answer."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the sextile, one of his four aspects" }
@@ -39,7 +39,7 @@ Lived, it can feel like having the right tools for growing, if you pick them up.
 
 ## In a birth chart {#in-a-birth-chart}
 
-With the true node and an orb of 6°, the sextile turns up in about 1 person in 19. The mean node, never more than a degree or two away, can tip it in or out near the edge of the orb, which is why I look at both ([mean node and true node](/astrology/mean-node-and-true-node/)). Saturn usually shares an element with the South Node, by trine, and sits in an element compatible with the North Node's. With the North Node in Cancer, for instance, Saturn in Taurus or Virgo shares the practicality of a Capricorn South Node and offers it to a watery new direction of care.
+The sextile turns up in about 1 person in 19, counting within 6° with the true node. The mean node, never more than a degree or two away, can tip it in or out near the edge of the orb, which is why I look at both ([mean node and true node](/astrology/mean-node-and-true-node/)). Saturn usually shares an element with the South Node, by trine, and sits in an element compatible with the North Node's. With the North Node in Cancer, for instance, Saturn in Taurus or Virgo shares the practicality of a Capricorn South Node and offers it to a watery new direction of care.
 
 The houses show where the bridge stands: Saturn in the 10th sextile the North Node in the 12th might bring a professional discipline to a quieter inner practice. The houses depend on your birth time ([what changes without a birth time](/blog/unknown-birth-time/)). With Saturn moving forwards and the node backwards, the sextile lasts only a few months, so births share it in short runs, a few years apart.
 

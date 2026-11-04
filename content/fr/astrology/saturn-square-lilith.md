@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 297
 glyph: "♄□⚸"
-definition: "Saturne carré Lilith désigne un angle d’environ 90° entre Saturne et la Lune noire Lilith moyenne à la naissance, en général dans des signes du même mode. Dans un thème, l’autorité et votre instinct d’autonomie frottent l’un contre l’autre : une friction qui apprend quelles règles protègent quelque chose et lesquelles ne font que vous rapetisser."
+definition: "Saturne carré Lilith place Saturne et la Lune noire Lilith moyenne à environ 90° à la naissance, en général dans des signes du même mode. Dans un thème, l’autorité et votre instinct d’autonomie frottent l’un contre l’autre : une friction qui apprend quelles règles protègent quelque chose et lesquelles ne font que vous rapetisser."
 facts:
   - { k: "Corps", v: "Saturne ♄ et la Lune noire Lilith ⚸" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -18,12 +18,12 @@ facts:
   - { k: "En transit", v: "De nouveau à chaque retour de Lilith et à mi-chemin ; aussi aux carrés de Saturne à sa propre place" }
 related: ["/astrology/saturn", "/astrology/black-moon-lilith", "/astrology/square", "/astrology/saturn-square-lilith-synastry", "/astrology/saturn-squares-and-opposition"]
 faq:
-  - q: "Que veut dire Saturne carré Lilith ?"
-    a: "Qu’environ 90° séparaient Saturne et la Lune noire Lilith moyenne à votre naissance. L’autorité et votre instinct d’autonomie frottent l’un contre l’autre, en vous et autour de vous. Avec le temps, cette friction vous apprend quelles règles protègent quelque chose et lesquelles ne font que vous rapetisser, et à tenir fermement les premières."
-  - q: "Saturne carré Lilith, est-ce un conflit avec l’autorité ?"
+  - q: "Comment se joue le carré Saturne–Lilith ?"
+    a: "Saturne et la Lune noire Lilith moyenne formaient un angle d’environ 90° à votre naissance. L’autorité et votre instinct d’autonomie frottent l’un contre l’autre, en vous et autour de vous. Avec le temps, cette friction vous apprend quelles règles protègent quelque chose et lesquelles ne font que vous rapetisser, et à tenir fermement les premières."
+  - q: "Faut-il voir dans Saturne carré Lilith un conflit avec l’autorité ?"
     a: "Cela peut se montrer ainsi, surtout dans la jeunesse : une dispute permanente avec les règles, les supérieurs ou votre propre critique intérieure. Mais un carré est une friction, pas une fatalité. Ce qu’il construit, c’est un discernement face aux règles, et beaucoup de personnes qui le portent deviennent elles-mêmes des autorités justes et fermes."
   - q: "À quelle fréquence les transits réveillent-ils Saturne carré Lilith ?"
-    a: "Souvent, mais brièvement. Si votre naissance tombe sous ce carré, la Lilith moyenne revient en carré avec votre Saturne environ tous les quatre ans et demi, à chaque retour de Lilith et à mi-chemin, pour quelques semaines. Les carrés de Saturne à sa propre place, vers 7, 21–22, 36–37 et 51 ans, sont plus lents et plus longs."
+    a: "Souvent, mais brièvement. Si votre naissance tombe sous ce carré, la Lilith moyenne revient en carré avec votre Saturne environ tous les quatre ans et demi, à chaque retour de Lilith et à mi-chemin, pour quelques semaines. Les quarts de tour de Saturne, vers 7, 21–22, 36–37 et 51 ans, sont plus lents et plus longs."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes naissent avec cet aspect, compté avec la Lilith moyenne" }
@@ -35,7 +35,7 @@ Saturne carré Lilith place les règles selon lesquelles vous vivez à angle dro
 
 [Saturne](/astrology/saturn/) représente l’autorité : la structure, la responsabilité, la discipline des engagements tenus. La [Lune noire Lilith](/astrology/black-moon-lilith/), l’apogée moyen de la Lune, se lit, de façon symbolique et avec des accents qui varient selon les traditions, comme l’autonomie instinctive, ce qu’on vous a appris à cacher, et des limites personnelles tracées par instinct. Un [carré](/astrology/square/) fait de leur rencontre une friction constructive : l’autorité appuie sur l’autonomie, l’autonomie résiste, et aucune des deux n’a le droit de l’emporter tout à fait.
 
-Au quotidien, cela peut ressembler à une dispute permanente avec l’autorité, en vous autant qu’autour de vous. Il arrive d’obéir en le regrettant, ou de refuser puis de se corriger à coups de règles à soi ; un supérieur, un code familial ou votre propre critique intérieure peuvent jouer le rôle de Saturne. Une épreuve n’est pas une punition, pourtant, et une friction n’est pas un échec. Ce carré entraîne une force précise : distinguer une règle qui protège quelque chose d’une règle qui ne sert qu’à vous rapetisser, et tenir la première sans vous excuser.
+Au quotidien, cela peut ressembler à une dispute permanente avec l’autorité, en vous autant qu’autour de vous. Il arrive d’obéir en le regrettant, ou de refuser puis de compenser par des règles maison ; un supérieur, un code familial ou votre propre critique intérieure peuvent jouer le rôle de Saturne. Une épreuve n’est pas une punition, pourtant, et une friction n’est pas un échec. Ce carré entraîne une force précise : distinguer une règle qui protège quelque chose d’une règle qui ne sert qu’à vous rapetisser, et tenir la première sans vous excuser.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 

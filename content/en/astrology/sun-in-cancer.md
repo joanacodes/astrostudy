@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the Sun stays in Cancer, and how many people born 1930–2009 have it" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-With the Sun in Cancer, purpose and safety are woven so closely that pulling one thread tugs the other. The Sun was in cardinal water when you were born, in the one sign the Moon rules, and I read it as an identity that knows itself best from somewhere it feels at home.
+With the Sun in Cancer, purpose and safety are woven so closely that pulling one thread tugs the other. This is the Sun in the one sign the Moon rules, cardinal water, and it knows itself best from somewhere it feels at home.
 
 ## In a birth chart {#in-a-birth-chart}
 
@@ -48,7 +48,7 @@ The work that suits a Cancer Sun builds a base: a team that feels like a crew, a
 
 ## The hard part {#the-hard-part}
 
-Identity can dissolve into being needed. You may look after everyone's comfort, lose sight of your own direction, then feel hurt that nobody asked about it. Hurt can send this Sun inward for a long time, while the self withdraws to guard what's left. Where the [Sun in Gemini](/astrology/sun-in-gemini/) risks scattering across too many rooms, the Cancer Sun's risk is a single room with everyone in it and no space left for you; the [Sun in Leo](/astrology/sun-in-leo/), next in line, is the one that walks out to be seen.
+Being needed can quietly take the place of being yourself. You may look after everyone's comfort, lose sight of your own direction, then feel hurt that nobody asked about it. Hurt can send this Sun inward for a long time, while the self withdraws to guard what's left. Where the [Sun in Gemini](/astrology/sun-in-gemini/) risks scattering across too many rooms, the Cancer Sun's risk is a single room with everyone in it and no space left for you; the [Sun in Leo](/astrology/sun-in-leo/), next in line, is the one that walks out to be seen.
 
 ## What helps {#what-helps}
 

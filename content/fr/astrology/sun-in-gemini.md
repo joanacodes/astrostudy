@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée du passage du Soleil en Gémeaux, et la part des personnes nées entre 1930 et 2009 qui ont ce placement" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-Un Soleil en Gémeaux est rarement une seule chose, et il a rarement besoin de l’être. Le Soleil était dans l’air mutable à votre naissance, dans le signe que gouverne Mercure, et le moi qu’il décrit s’organise à la manière d’une bonne conversation : plusieurs voix, un seul fil, et c’est le fil qui demande du travail.
+Un Soleil en Gémeaux est rarement une seule chose, et il a rarement besoin de l’être. À votre naissance, le Soleil occupait l’air mutable du signe de Mercure, et le moi qu’il décrit s’organise à la manière d’une bonne conversation : plusieurs voix, un seul fil, et c’est le fil qui demande du travail.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
@@ -49,7 +49,7 @@ Un Soleil en Gémeaux travaille au mieux là où la curiosité sert à quelque c
 
 ## Le plus difficile {#le-plus-difficile}
 
-L’identité peut s’éparpiller. Vous vous sentez peut-être une personne différente dans chaque pièce, et certains soirs vous vous demandez laquelle est la vraie. L’énergie suit le même chemin : une douzaine d’onglets ouverts, une douzaine de réponses à moitié écrites, et une fatigue qui vient de ce qui entre plutôt que de l’effort. À côté du [Soleil en Taureau](/astrology/sun-in-taurus/), plus stable, ou du [Soleil en Cancer](/astrology/sun-in-cancer/), plus secret, un Soleil en Gémeaux peut sembler changeant. Ce n’est pas moins un moi. C’est un moi qui a plus de portes, et qui peut oublier derrière lesquelles il habite vraiment.
+Ce moi-là peut s’éparpiller. Vous vous sentez peut-être une personne différente dans chaque pièce, et certains soirs vous vous demandez laquelle est la vraie. L’énergie suit le même chemin : une douzaine d’onglets ouverts, une douzaine de réponses à moitié écrites, et une fatigue qui vient de ce qui entre plutôt que de l’effort. À côté du [Soleil en Taureau](/astrology/sun-in-taurus/), plus stable, ou du [Soleil en Cancer](/astrology/sun-in-cancer/), plus secret, un Soleil en Gémeaux peut sembler changeant. Ce n’est pas moins un moi. C’est un moi qui a plus de portes, et qui peut oublier derrière lesquelles il habite vraiment.
 
 ## Ce qui aide {#ce-qui-aide}
 

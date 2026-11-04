@@ -34,7 +34,7 @@ Jupiter sextile Lilith est une porte de côté. La part de vous que vous avez ap
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Jupiter](/astrology/jupiter/) élargit : apprendre, voyager en pensée ou pour de vrai, rassembler ce qu’on trouve en un sens plus vaste. La [Lune noire Lilith](/astrology/black-moon-lilith/), le point de l’orbite lunaire le plus éloigné de la Terre, représente dans un thème ce que vous avez appris à retenir : l’instinct, l’autonomie, le refus d’être commode, et la ligne où passent vraiment vos limites. Les lectures de Lilith varient beaucoup d’une tradition à l’autre, et je la tiens pour un symbole. Le [sextile](/astrology/sextile/) relie les deux par l’occasion et la coopération, un lien qui fonctionne quand vous vous engagez.
+[Jupiter](/astrology/jupiter/) élargit : apprendre, voyager en pensée ou pour de vrai, rassembler ce qu’on trouve en un sens plus vaste. La [Lune noire Lilith](/astrology/black-moon-lilith/), apogée de l’orbite lunaire, représente dans un thème ce que vous avez appris à retenir : l’instinct, l’autonomie, le refus d’être commode, et la ligne où passent vraiment vos limites. D’une tradition à l’autre, Lilith se lit très différemment, et je la tiens pour un symbole. Le [sextile](/astrology/sextile/) unit les deux par l’occasion : un lien coopératif, qui fonctionne dès que vous vous engagez.
 
 Concrètement, la croissance donne à la part cachée un endroit où aller. Un cours où vous pouvez dire ce que vous pensez vraiment, un voyage où personne ne connaît votre ancien rôle, un groupe qui a une idée plus large de ce qui est acceptable : voilà le genre d’ouvertures que ce sextile met en vue. Il ne pousse pas. Vous pouvez laisser sortir la part indomptée peu à peu, à vos conditions, et voir ce qu’elle fait à vos croyances.
 
@@ -51,9 +51,9 @@ Les autres aspects de Jupiter à Lilith ouvrent ou pressent autrement :
 - **[Jupiter conjonction Lilith](/astrology/jupiter-conjunct-lilith/) :** pas de porte du tout, puisque le sens et la part indomptée vivent dans la même pièce.
 - **[Jupiter carré Lilith](/astrology/jupiter-square-lilith/) :** là où ce sextile ouvre, le carré presse, et les croyances héritées grincent contre l’instinct.
 - **[Jupiter trigone Lilith](/astrology/jupiter-trine-lilith/) :** le même accueil, sans avoir à frapper.
-- **[Jupiter opposition Lilith](/astrology/jupiter-opposite-lilith/) :** les principes et la part indomptée se font face d’un bout à l’autre du thème, souvent dans vos relations.
+- **[Jupiter opposition Lilith](/astrology/jupiter-opposite-lilith/) :** les principes et la part indomptée se font face à travers le thème, souvent dans vos relations.
 
-Entre deux thèmes, [Jupiter sextile Lilith en synastrie](/astrology/jupiter-sextile-lilith-synastry/) peut ressembler à une permission : l’ouverture de l’une des deux personnes fait de la place à ce que l’autre garde d’habitude pour soi. C’est doux, et je le lis quand même de chaque côté.
+Entre deux thèmes, [Jupiter sextile Lilith en synastrie](/astrology/jupiter-sextile-lilith-synastry/) peut ressembler à une permission : l’ouverture d’une des deux personnes laisse de la place à ce que l’autre garde d’habitude pour soi. C’est doux, et je le lis quand même de chaque côté.
 
 ## En transit {#en-transit}
 

@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 281
 glyph: "♄⚹♆"
-definition: "Saturne sextile Neptune désigne un angle d’environ 60° entre Saturne et Neptune, en général dans des signes d’éléments compatibles. Les naissances l’ont partagé en quatre vagues entre 1946 et 1997. Dans un thème, il ouvre une porte entre la structure et l’imagination : l’idéal trouve un premier pas concret, la routine une raison d’être, dès que vous vous en servez."
+definition: "Saturne sextile Neptune place les deux planètes à environ 60° à la naissance, en général dans des signes d’éléments compatibles. Quatre vagues de naissances l’ont partagé entre 1946 et 1997. Dans un thème, il ouvre une porte entre la structure et l’imagination : l’idéal trouve un premier pas concret, la routine une raison d’être, dès que vous vous en servez."
 facts:
   - { k: "Corps", v: "Saturne ♄ et Neptune ♆" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/neptune", "/astrology/sextile", "/astrology/saturn-sextile-neptune-synastry", "/astrology/personal-social-and-generational-planets"]
 faq:
   - q: "Comment se manifeste le sextile Saturne–Neptune dans un thème ?"
-    a: "Souvent par un talent pour donner à un idéal son premier pas pratique, ou à une routine une raison d’exister. La structure de Saturne et l’imagination de Neptune coopèrent quand vous les y invitez. Des vagues entières de naissances le partagent : ses maisons et ses contacts avec vos planètes personnelles disent comment il agit chez vous."
+    a: "Souvent par un talent pour donner à un idéal son premier pas pratique, ou à une routine une raison d’exister. La structure de Saturne et l’imagination de Neptune coopèrent quand vous les y invitez. Des vagues entières de naissances le partagent : la maison où il tombe, et ce qu’il touche, disent comment il agit chez vous."
   - q: "Quelles années de naissance ont Saturne sextile Neptune ?"
     a: "À 6° près, quatre vagues entre 1930 et 2009, chacune ouverte et refermée deux fois : d’août 1946 à mai 1948, de janvier 1959 à novembre 1960, de novembre 1981 à septembre 1983, et d’avril 1995 à février 1997. Toutes les personnes nées ces mois-là le portent."
   - q: "Le sextile Saturne–Neptune est-il un aspect faible ?"
@@ -50,10 +50,10 @@ Où se situe ce sextile parmi les aspects de la paire :
 - **[Saturne trigone Neptune](/astrology/saturn-trine-neptune/) :** 1930, 1941–1943, 1965–1967, 1976–1978 ou 2000–2002 ; un courant plus large et plus facile entre les deux.
 - **[Saturne opposition Neptune](/astrology/saturn-opposite-neptune/) :** 1935–1937, 1970–1972 ou 2005–2007 ; les deux face à face, qui demandent un équilibre.
 
-Entre deux thèmes, [Saturne sextile Neptune en synastrie](/astrology/saturn-sextile-neptune-synastry/) permet au sens pratique de l’une des deux personnes et à l’imagination de l’autre de travailler ensemble, si toutes deux le veulent. Je le lis dans les deux sens.
+D’un thème à l’autre, [Saturne sextile Neptune en synastrie](/astrology/saturn-sextile-neptune-synastry/) permet au sens pratique de l’une des deux personnes et à l’imagination de l’autre de travailler ensemble, si toutes deux le veulent. Je le lis dans les deux sens.
 
 ## En transit {#en-transit}
 
-[Saturne en transit sextile Neptune du thème natal](/astrology/transiting-saturn-sextile-natal-neptune/) revient deux fois par tour de Saturne, soit en 29 ans et demi, pour quelques semaines ou plusieurs mois. [Neptune en transit sextile Saturne du thème natal](/astrology/transiting-neptune-sextile-natal-saturn/) avance au rythme de Neptune, environ 14 ans par signe, et reste proche de l’exactitude un an ou deux.
+[Saturne en transit sextile Neptune du thème natal](/astrology/transiting-saturn-sextile-natal-neptune/) tombe deux fois dans chaque tour de Saturne de 29 ans et demi, pour quelques semaines ou plusieurs mois. [Neptune en transit sextile Saturne du thème natal](/astrology/transiting-neptune-sextile-natal-saturn/) avance au rythme de Neptune, environ 14 ans par signe, et reste proche de l’exactitude un an ou deux.
 
 Si votre naissance tombe pendant ce sextile, chaque [retour de Saturne](/astrology/saturn-return/), vers 27–30 ans puis vers 58–60 ans, ramène l’angle de votre naissance. Ce sont souvent des moments où un petit pas concret vers ce qui vous tient à cœur se fait plus facilement. Cela reste une météo, pas une prédiction : le transit ouvre une porte, et ce qui la franchit, c’est vous qui le choisissez.

@@ -28,11 +28,11 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the Sun stays in Libra, and how many people born 1930–2009 have it" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-Where most Suns ask *who am I?*, a Libra Sun tends to ask *who am I, in relation to this?* The Sun was in cardinal air when you were born, in the sign tradition calls its fall, and I read it as a self that comes into focus through proportion: through what it finds fair, fitting and well made.
+Where most Suns ask *who am I?*, a Libra Sun tends to ask *who am I, in relation to this?* Libra is the sign tradition calls the Sun's fall, and the self it describes comes into focus through proportion: through what it finds fair, fitting and well made.
 
 ## In a birth chart {#in-a-birth-chart}
 
-The [Sun](/astrology/sun/) is a chart's organising centre: identity, vitality, the direction you take. [Libra](/astrology/libra/), cardinal air ruled by [Venus](/astrology/venus/), gives it a manner built on judgement and proportion. Your sense of self may rest less on what you want than on what you think is right, fitting or beautiful, and many people with a Libra Sun find that their taste, in a room, a sentence or a decision, is the most reliable portrait of who they are.
+A chart's [Sun](/astrology/sun/) holds its identity, vitality and direction together. [Libra](/astrology/libra/), cardinal air ruled by [Venus](/astrology/venus/), lends it a manner built on judgement and proportion. Your sense of self may rest less on what you want than on what you think is right, fitting or beautiful, and many people with a Libra Sun find that their taste, in a room, a sentence or a decision, is the most reliable portrait of who they are.
 
 Tradition calls Libra the Sun's [fall](/astrology/fall/), the sign opposite its exaltation in Aries. Ptolemy's reason was the season again: at the September equinox the Sun crosses into the southern half of the sky, and in the northern hemisphere the days begin to shorten. I don't read a fallen Sun as a dimmer person. I read a self whose agency works through weighing and consulting rather than deciding alone, and which knows, perhaps better than any other Sun, that acting from your centre doesn't mean pushing anyone else out of theirs.
 

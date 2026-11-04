@@ -33,7 +33,7 @@ Jupiter square Chiron is hope meeting the place that won't hurry. The part of yo
 
 ## What it means {#what-it-means}
 
-[Jupiter](/astrology/jupiter/) is your sense that experience can add up to something: it learns, draws out principles, widens the view. [Chiron](/astrology/chiron/) is the tender spot you keep coming back to, with the methods you develop around it: another way in, a different rhythm, a tool, a skill born of necessity. A [square](/astrology/square/) relates them through constructive friction. Neither cancels the other, and each keeps catching on the other.
+[Jupiter](/astrology/jupiter/) is your sense that experience can add up to something: it learns, draws out principles, widens the view. [Chiron](/astrology/chiron/) is the tender spot you keep coming back to, with the methods you develop around it: another way in, a different rhythm, a tool, a skill born of necessity. A [square](/astrology/square/) puts them at a constructive angle of friction: neither cancels the other, and each keeps catching on the other.
 
 In plain words, big hopes can press on a place that needs patience, and the place that needs patience can turn hope into a demand. You might notice it in plans that keep having to be redesigned around a limit, or in a generous philosophy tested by what it can't fix. The friction is useful: it turns large plans into workable ones, and teaches you to change the method instead of abandoning the aim.
 

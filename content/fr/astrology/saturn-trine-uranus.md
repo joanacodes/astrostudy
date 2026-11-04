@@ -34,7 +34,7 @@ Saturne trigone Uranus, c’est l’ancien et le nouveau qui se parlent. Saturne
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Saturne](/astrology/saturn/) est la part du thème qui maintient les choses debout : la responsabilité, les limites, la discipline, la vision longue qui rend l’effort durable. [Uranus](/astrology/uranus/) ouvre la voie au changement : innover, se différencier, libérer ce qui est devenu trop étroit, réformer un système de l’intérieur. Un [trigone](/astrology/trine/) relie ces deux fonctions par la fluidité. Aucune ne renonce à sa nature, mais chacune renforce l’autre : la structure a de la place pour évoluer, et la nouveauté trouve un cadre où se poser.
+[Saturne](/astrology/saturn/) est la part du thème qui maintient les choses debout : la responsabilité, les limites, la discipline, la vision longue qui rend l’effort durable. [Uranus](/astrology/uranus/) ouvre la voie au changement : innover, se différencier, libérer ce qui est devenu trop étroit, réformer un système de l’intérieur. Un [trigone](/astrology/trine/) met ces deux fonctions en accord, sans effort. Aucune ne renonce à sa nature, mais chacune renforce l’autre : la structure a de la place pour évoluer, et la nouveauté trouve un cadre où se poser.
 
 Concrètement, vous pouvez changer les choses sans les abattre : une méthode nouvelle est essayée puis gardée, une vieille règle remise en question puis réécrite. Les personnes nées avec ce trigone sont souvent celles à qui l’on confie une modernisation, parce qu’elles respectent ce qui marche déjà. Les deux planètes ont même un signe en commun : Saturne gouvernait le Verseau avant que William Herschel ne découvre Uranus en 1781, et c’est Uranus qui le gouverne en astrologie tropicale moderne. Dans un trigone, ce signe partagé ressemble moins à une rivalité qu’à une passation.
 
@@ -55,7 +55,7 @@ Les autres aspects de la paire, avec leurs années :
 - **[Saturne carré Uranus](/astrology/saturn-square-uranus/) :** 1930–1932, 1950–1953, 1975–1977 ou 1999–2001 ; la structure et le changement en friction, jusqu’à ce que quelque chose soit rebâti.
 - **[Saturne opposition Uranus](/astrology/saturn-opposite-uranus/) :** 1964–1967 ou 2008–2009 ; les deux aux extrémités du thème, qui demandent un équilibre.
 
-Entre deux thèmes, [Saturne trigone Uranus en synastrie](/astrology/saturn-trine-uranus-synastry/) associe la constance de l’une des deux personnes au goût du changement de l’autre, souvent au profit des deux. Je le lis dans un sens puis dans l’autre : stabiliser quelqu’un et le bousculer utilement sont deux rôles différents.
+Quand deux thèmes se rencontrent, [Saturne trigone Uranus en synastrie](/astrology/saturn-trine-uranus-synastry/) associe la constance de l’une des deux personnes au goût du changement de l’autre, souvent au profit des deux. Je le lis dans un sens puis dans l’autre : stabiliser quelqu’un et le bousculer utilement sont deux rôles différents.
 
 ## En transit {#en-transit}
 

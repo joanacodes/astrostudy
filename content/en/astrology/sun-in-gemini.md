@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the Sun stays in Gemini, and how many people born 1930–2009 have it" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-A Gemini Sun is rarely one thing, and it rarely needs to be. The Sun was in mutable air when you were born, in the sign Mercury rules, and the self it describes is organised the way a good conversation is: several voices, one thread, and the thread is the work.
+A Gemini Sun is rarely one thing, and it rarely needs to be. Mercury's own sign of mutable air held the Sun at your birth, and the self it describes is organised the way a good conversation is: several voices, one thread, and the thread is the work.
 
 ## In a birth chart {#in-a-birth-chart}
 
@@ -48,7 +48,7 @@ A Gemini Sun works best where curiosity is useful. Roles that move between peopl
 
 ## The hard part {#the-hard-part}
 
-Identity can scatter. You may feel like a different person in every room and wonder, some evenings, which one is real. Energy goes the same way: a dozen open tabs, a dozen half-answered messages, and a tiredness that comes from input rather than effort. Next to the steadier [Sun in Taurus](/astrology/sun-in-taurus/) or the more private [Sun in Cancer](/astrology/sun-in-cancer/), a Gemini Sun can look changeable. It isn't less of a self. It's a self with more doors, and it can lose track of which ones it actually lives behind.
+A Gemini self can scatter. You may feel like a different person in every room and wonder, some evenings, which one is real. Energy goes the same way: a dozen open tabs, a dozen half-answered messages, and a tiredness that comes from input rather than effort. Next to the steadier [Sun in Taurus](/astrology/sun-in-taurus/) or the more private [Sun in Cancer](/astrology/sun-in-cancer/), a Gemini Sun can look changeable. It isn't less of a self. It's a self with more doors, and it can lose track of which ones it actually lives behind.
 
 ## What helps {#what-helps}
 

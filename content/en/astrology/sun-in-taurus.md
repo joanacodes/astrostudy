@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the Sun stays in Taurus, and how many people born 1930–2009 have it" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-Some people find out who they are by what they chase. With the Sun in Taurus, you more often find out by what you'd refuse to give up. I read it as an identity organised around what you value, held steadily enough that it can carry you through almost anything.
+Some people find out who they are by what they chase. With the Sun in Taurus, you more often find out by what you'd refuse to give up. What you value is, for this Sun, very nearly who you are, and it's held steadily enough to carry you through almost anything.
 
 ## In a birth chart {#in-a-birth-chart}
 
@@ -48,7 +48,7 @@ This Sun wants to see the result of its work and, ideally, to hold it. Purpose g
 
 ## The hard part {#the-hard-part}
 
-Identity can fuse with what it holds. A home, a job, a routine or a relationship becomes so much a part of you that changing it feels like losing yourself, and you may defend a situation long after it has stopped feeding you. Vitality can drain the same way, slowly and without fuss, when the body's needs keep being postponed for the sake of carrying on. From outside it can look like stubbornness. From inside, it often feels like the only way to stay yourself.
+What you hold can become what you are. A home, a job, a routine or a relationship becomes so much a part of you that changing it feels like losing yourself, and you may defend a situation long after it has stopped feeding you. Vitality can drain the same way, slowly and without fuss, when the body's needs keep being postponed for the sake of carrying on. From outside it can look like stubbornness. From inside, it often feels like the only way to stay yourself.
 
 ## What helps {#what-helps}
 

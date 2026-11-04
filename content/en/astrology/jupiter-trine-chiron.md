@@ -52,7 +52,7 @@ The pair's other aspects, seen from here:
 - **[Jupiter square Chiron](/astrology/jupiter-square-chiron/):** hope and pace pull across each other, and adapting is learned through friction.
 - **[Jupiter opposite Chiron](/astrology/jupiter-opposite-chiron/):** the tender spot faces the wide view, and the balance comes through other people.
 
-Between two charts, [Jupiter trine Chiron in synastry](/astrology/jupiter-trine-chiron-synastry/) is one of the kinder contacts: one person's way of seeing the bigger picture makes the other's sensitive place easier to live with. I read it from both sides, since steadying someone and being steadied feel quite different.
+Between two charts, [Jupiter trine Chiron in synastry](/astrology/jupiter-trine-chiron-synastry/) ranks among the gentler contacts: one person's way of seeing the bigger picture makes the other's sensitive place easier to live with. I read it from both sides, since steadying someone and being steadied feel quite different.
 
 ## In transits {#in-transits}
 

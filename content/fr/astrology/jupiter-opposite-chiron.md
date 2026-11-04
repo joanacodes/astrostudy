@@ -36,13 +36,13 @@ Avec Jupiter opposition Chiron, la vue large et le point sensible se tiennent au
 
 [Jupiter](/astrology/jupiter/) est la fonction qui cherche le tableau d’ensemble : ce que signifie une expérience, vers quel principe elle pointe, jusqu’où elle peut vous mener. [Chiron](/astrology/chiron/) porte l’endroit sensible où vous revenez, avec les ajustements qui permettent de continuer : un autre chemin, une charge plus légère, une compétence née du besoin. Une [opposition](/astrology/opposition/) les relie par la polarité, cette conscience qui vient de voir les deux bouts à la fois.
 
-Concrètement, l’espoir et la sensibilité se font face. Certains jours, le tableau d’ensemble ressemble à une façon de ne pas regarder le point sensible ; d’autres, le point sensible semble rétrécir le tableau. Aucun des deux bouts n’a tort, et l’opposition ne vous demande pas d’en choisir un. Elle vous demande de garder les deux en vue, pour que votre foi inclue ce qui est sensible et que votre sensibilité ait de la place pour grandir.
+Concrètement, l’espoir et la sensibilité se font face. Certains jours, le tableau d’ensemble ressemble à une façon de ne pas regarder le point sensible ; d’autres, le point sensible semble rétrécir le tableau. Aucun des deux bouts n’a tort, et l’opposition ne vous demande pas d’en choisir un. Elle vous invite à garder les deux en vue, pour que votre foi inclue ce qui est sensible et que votre sensibilité ait de la place pour grandir.
 
 Je la vois souvent, aussi, chez les personnes qui apprennent en aidant : ce que vous découvrez en accompagnant les limites des autres se révèle bien des fois être ce qu’il vous fallait pour les vôtres.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Aucun autre aspect de la paire n’est aussi rare : environ 1 personne sur 29 dans le décompte des naissances de 1930 à 2009, à 6° près. Les naissances sont tombées en 1935–1936, 1954–1955, 1968–1969, 1982–1983 et 2000–2002, la dernière fenêtre s’étalant par intermittence sur près de deux ans, de juillet 2000 à mai 2002. Chaque personne née pendant ces mois la porte.
+Aucun aspect de la paire n’est plus rare : environ 1 personne sur 29 dans le décompte des naissances de 1930 à 2009, à 6° près. Les naissances sont tombées en 1935–1936, 1954–1955, 1968–1969, 1982–1983 et 2000–2002, la dernière fenêtre s’étalant par intermittence sur près de deux ans, de juillet 2000 à mai 2002. Chaque personne née pendant ces mois la porte.
 
 Une opposition relie des signes du même mode et d’éléments complémentaires : les deux bouts parlent des langues qui vont ensemble. Les maisons nomment l’axe. Jupiter en maison 1 opposition Chiron en maison 7 peut vouloir dire que vos partenaires réveillent votre point sensible, et que vous leur apprenez en retour à élargir leur vue ; Jupiter en maison 4 opposition Chiron en maison 10, un foyer qui vous tient face à une sensibilité liée à votre rôle public. Sans heure de naissance, l’axe reste sans adresse ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
@@ -57,6 +57,6 @@ Entre deux thèmes, [Jupiter opposition Chiron en synastrie](/astrology/jupiter-
 
 ## En transit {#en-transit}
 
-[Chiron en transit opposition Jupiter du thème natal](/astrology/transiting-chiron-opposite-natal-jupiter/) suit un calendrier particulier pour les personnes nées avec l’aspect : à leur naissance, Chiron se tenait déjà presque à l’opposé de Jupiter, là où ce transit doit passer. Chiron quitte ce point dans l’enfance et n’y revient qu’au [retour de Chiron](/astrology/chiron-return/), vers 50 ans, qui refait donc l’opposition. Pour les autres années de naissance, ce transit arrive quand Chiron atteint ce point, pour quelques mois ou plus d’un an selon sa vitesse à cet endroit. Jupiter, de son côté, s’oppose à Chiron du thème natal une fois tous les 12 ans environ, quelques semaines.
+[Chiron en transit opposition Jupiter du thème natal](/astrology/transiting-chiron-opposite-natal-jupiter/) suit un calendrier particulier pour les personnes nées avec l’aspect : à leur naissance, Chiron se tenait déjà presque à l’opposé de Jupiter, là où ce transit doit passer. Chiron quitte ce point dans l’enfance et n’y revient qu’au [retour de Chiron](/astrology/chiron-return/), vers 50 ans, qui refait donc l’opposition. Pour les autres années de naissance, ce transit arrive quand Chiron atteint ce point, pour quelques mois ou plus d’un an selon sa vitesse à cet endroit. Jupiter, de son côté, fait face à Chiron du thème natal une fois par tour, pendant quelques semaines.
 
 Ce sont des transits à lire comme une météo, pas une prédiction ; ils demandent à la vue large et au point sensible de se parler, et vous laissent la conversation.

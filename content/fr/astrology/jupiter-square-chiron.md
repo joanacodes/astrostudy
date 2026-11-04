@@ -34,7 +34,7 @@ Jupiter carré Chiron, c’est l’espoir qui rencontre l’endroit qui ne se pr
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Jupiter](/astrology/jupiter/) est le sentiment que l’expérience peut mener quelque part : apprendre, dégager des principes, élargir la vue. [Chiron](/astrology/chiron/) est le point sensible auquel vous revenez, avec les méthodes que vous développez autour : une autre entrée, un autre rythme, un outil, une compétence née de la nécessité. Un [carré](/astrology/square/) les relie par une friction constructive. Aucune des deux fonctions n’annule l’autre, et chacune accroche l’autre.
+[Jupiter](/astrology/jupiter/) est le sentiment que l’expérience peut mener quelque part : apprendre, dégager des principes, élargir la vue. [Chiron](/astrology/chiron/) est le point sensible auquel vous revenez, avec les méthodes que vous développez autour : une autre entrée, un autre rythme, un outil, une compétence née de la nécessité. Un [carré](/astrology/square/) les met en friction constructive : ni l’espoir ni la sensibilité ne s’efface, et chacun accroche l’autre.
 
 Concrètement, les grands espoirs peuvent peser sur un endroit qui demande de la patience, et cet endroit peut faire de l’espoir une exigence. Cela peut se voir dans des projets qu’il faut sans cesse redessiner autour d’une limite, ou dans une philosophie généreuse mise à l’épreuve par ce qu’elle ne peut pas réparer. La friction sert : elle rend les grands projets réalisables, et vous apprend à changer de méthode plutôt qu’à abandonner le but.
 
@@ -44,7 +44,7 @@ Un défi n’est pas une punition, et rien dans ce carré ne dit que la limite e
 
 Ce carré appartient à environ 1 personne sur 14 parmi les naissances des quatre-vingts années qui commencent en 1930, à 6° près. Les fenêtres sont tombées en 1931–1932, 1939–1940, 1951–1952, 1958–1959, 1965–1966, 1972–1973, 1978–1979, 1986–1987, 1995–1997 et 2005–2006 ; au milieu des années 1990, l’aspect est allé et venu pendant près de trois ans. Chaque naissance d’une fenêtre le porte.
 
-Un carré relie en général des signes du même mode : les cardinaux poussent, les fixes tiennent bon, les mutables s’adaptent, et cela colore la négociation entre l’espoir et le point sensible. Les maisons montrent le terrain. Jupiter en maison 9 carré Chiron en maison 12 peut faire frotter une foi qui voit large contre une sensibilité très privée ; Jupiter en maison 2 carré Chiron en maison 5, un besoin de sécurité contre une tendresse autour du jeu ou de l’expression de soi. Il faut une heure de naissance pour les situer ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Le plus souvent, les deux signes d’un carré ont le même mode : les cardinaux poussent, les fixes tiennent bon, les mutables s’adaptent, et cela colore la négociation entre l’espoir et le point sensible. Les maisons montrent le terrain. Jupiter en maison 9 carré Chiron en maison 12 peut faire frotter une foi qui voit large contre une sensibilité très privée ; Jupiter en maison 2 carré Chiron en maison 5, un besoin de sécurité contre une tendresse autour du jeu ou de l’expression de soi. Il faut une heure de naissance pour les situer ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Voici comment se situent les autres angles de la paire :
 
@@ -53,10 +53,10 @@ Voici comment se situent les autres angles de la paire :
 - **[Jupiter trigone Chiron](/astrology/jupiter-trine-chiron/) :** l’espoir et la sensibilité vont du même pas, si bien que l’adaptation vient plus facilement.
 - **[Jupiter opposition Chiron](/astrology/jupiter-opposite-chiron/) :** les deux se font face, et c’est souvent une personne proche qui tient un des côtés.
 
-Entre deux thèmes, avec [Jupiter carré Chiron en synastrie](/astrology/jupiter-square-chiron-synastry/), l’enthousiasme de l’une des deux personnes peut tomber un peu trop fort sur l’endroit sensible de l’autre, ou exactement quand il le fallait. Je ne regarde ce contact que si les deux personnes me l’ont demandé ([synastrie et consentement](/blog/synastry-behind-their-back/)).
+Entre deux thèmes, avec [Jupiter carré Chiron en synastrie](/astrology/jupiter-square-chiron-synastry/), l’enthousiasme de l’une des deux personnes peut tomber un peu trop fort sur l’endroit sensible de l’autre, ou exactement quand il le fallait. Je ne regarde ce contact qu’à la demande des deux personnes ([synastrie et consentement](/blog/synastry-behind-their-back/)).
 
 ## En transit {#en-transit}
 
-[Chiron en transit carré Jupiter du thème natal](/astrology/transiting-chiron-square-natal-jupiter/) peut arriver à tout âge, et plus d’une fois : Chiron forme deux carrés avec un même point à chacun de ses tours d’environ 50 ans. La durée de ce transit suit la vitesse de Chiron, de quelques mois à plus d’un an. Jupiter, bien plus rapide, se place en carré de Chiron du thème natal deux fois par tour d’environ 12 ans ; chaque passage dure quelques semaines, une courte période où l’espoir et la patience renégocient.
+[Chiron en transit carré Jupiter du thème natal](/astrology/transiting-chiron-square-natal-jupiter/) peut arriver à tout âge, et plus d’une fois : Chiron forme deux carrés avec un même point à chacun de ses tours d’environ 50 ans. La durée de ce transit suit la vitesse de Chiron, de quelques mois à plus d’un an. Jupiter, bien plus rapide, se met en carré de Chiron du thème natal à deux reprises par tour, soit tous les six ans environ ; chaque passage dure quelques semaines, une courte période où l’espoir et la patience renégocient.
 
 Une météo, encore, et non une prédiction : ces transits marquent une saison de renégociation entre l’espoir et le rythme, rien de plus figé.

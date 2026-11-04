@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée du passage du Soleil en Cancer, et la part des personnes nées entre 1930 et 2009 qui ont ce placement" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-Avec le Soleil en Cancer, le but et la sécurité sont tissés si serré que tirer un fil fait bouger l’autre. Le Soleil était dans l’eau cardinale à votre naissance, dans le seul signe que gouverne la Lune, et je le lis comme une identité qui se connaît le mieux depuis un endroit où elle se sent chez elle.
+Avec le Soleil en Cancer, le but et la sécurité sont tissés si serré que tirer un fil fait bouger l’autre. C’est le Soleil dans le seul signe que gouverne la Lune, l’eau cardinale, et il se connaît le mieux depuis un endroit où il se sent chez lui.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
@@ -49,7 +49,7 @@ Le travail qui convient à un Soleil en Cancer bâtit une base : une équipe qu
 
 ## Le plus difficile {#le-plus-difficile}
 
-L’identité peut se dissoudre dans le fait d’être nécessaire. Vous veillez peut-être au confort de tout le monde, perdez de vue votre propre direction, et découvrez avec peine que personne ne vous a demandé où vous alliez. La blessure peut faire rentrer ce Soleil en lui-même pour longtemps, tandis que le moi se retire pour garder ce qui reste. Là où le [Soleil en Gémeaux](/astrology/sun-in-gemini/) risque de s’éparpiller dans trop de pièces, le risque du Soleil en Cancer, c’est une seule pièce où tout le monde tient, sauf vous ; le [Soleil en Lion](/astrology/sun-in-leo/), juste après, est celui qui sort pour se montrer.
+Être nécessaire peut prendre en douce la place d’être soi. Vous veillez peut-être au confort de tout le monde, perdez de vue votre propre direction, et découvrez avec peine que personne ne vous a demandé où vous alliez. La blessure peut faire rentrer ce Soleil en lui-même pour longtemps, tandis que le moi se retire pour garder ce qui reste. Là où le [Soleil en Gémeaux](/astrology/sun-in-gemini/) risque de s’éparpiller dans trop de pièces, le risque du Soleil en Cancer, c’est une seule pièce où tout le monde tient, sauf vous ; le [Soleil en Lion](/astrology/sun-in-leo/), juste après, est celui qui sort pour se montrer.
 
 ## Ce qui aide {#ce-qui-aide}
 

@@ -33,7 +33,7 @@ Jupiter sextile Lilith is a side door. The part of you that you learned to keep 
 
 ## What it means {#what-it-means}
 
-[Jupiter](/astrology/jupiter/) widens: it learns, travels in mind or in fact, and gathers what it finds into a larger meaning. [Black Moon Lilith](/astrology/black-moon-lilith/), the point of the Moon's orbit farthest from Earth, stands in a chart for what you learned to hold back: instinct, autonomy, a refusal to be convenient, and the line where your boundaries really lie. Readings of Lilith vary widely between traditions, and I hold it as a symbol. The [sextile](/astrology/sextile/) relates the two through opportunity and cooperation, a link that works when you engage.
+[Jupiter](/astrology/jupiter/) widens: it learns, travels in mind or in fact, and gathers what it finds into a larger meaning. [Black Moon Lilith](/astrology/black-moon-lilith/), the far point of the Moon's orbit, stands in a chart for what you learned to hold back: instinct, autonomy, a refusal to be convenient, and the line where your boundaries really lie. Readings of Lilith vary widely between traditions, and I hold it as a symbol. The [sextile](/astrology/sextile/) joins the two through opportunity, a cooperative link that works once you engage.
 
 In plain words, growth gives the hidden part somewhere to go. A class where you can say what you actually think, a trip where nobody knows your old role, a group with a wider idea of what's acceptable: those are the kinds of openings this sextile tends to bring into view. It doesn't push. You can let the untamed part out a little at a time, on your own terms, and see what it does to your beliefs.
 

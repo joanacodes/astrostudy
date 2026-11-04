@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 298
 glyph: "♄△⚸"
-definition: "Saturne trigone Lilith désigne un angle d’environ 120° entre Saturne et la Lune noire Lilith moyenne à la naissance, en général dans un même élément. Dans un thème, la responsabilité et l’instinct d’autonomie se renforcent : vous pouvez être fiable sans être domptable, et vos refus viennent souvent avec un plan plutôt qu’avec une porte claquée."
+definition: "Saturne trigone Lilith signifie qu’environ 120° séparaient Saturne et la Lune noire Lilith moyenne à la naissance, en général dans un même élément. Dans un thème, la responsabilité et l’instinct d’autonomie se renforcent : vous pouvez être fiable sans être domptable, et vos refus viennent souvent avec un plan plutôt qu’avec une porte claquée."
 facts:
   - { k: "Corps", v: "Saturne ♄ et la Lune noire Lilith ⚸" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -19,11 +19,11 @@ facts:
 related: ["/astrology/saturn", "/astrology/black-moon-lilith", "/astrology/trine", "/astrology/which-lilith-is-mine", "/astrology/saturn-trine-lilith-synastry"]
 faq:
   - q: "Qu’apporte Saturne trigone Lilith dans un thème ?"
-    a: "À votre naissance, environ 120° séparaient Saturne et la Lune noire Lilith moyenne, en général dans un même élément. La responsabilité et votre part indomptée travaillent ensemble : vous pouvez être à la fois fiable et indocile, et vos refus viennent souvent avec un plan. Le trigone fournit l’aisance ; vous fournissez la direction."
-  - q: "Le trigone Saturne–Lilith est-il courant ?"
+    a: "Une alliance de travail. Environ 120° séparaient Saturne et la Lune noire Lilith moyenne à votre naissance, en général dans un même élément, et la responsabilité et votre part indomptée travaillent ensemble : vous pouvez être à la fois fiable et indocile, et vos refus viennent souvent avec un plan. Le trigone fournit l’aisance ; vous fournissez la direction."
+  - q: "Saturne trigone Lilith, est-ce courant ?"
     a: "C’est l’aspect Saturne–Lilith le plus fréquent du décompte : environ 1 personne sur 15, à 6° près, avec la Lilith moyenne. Comme Lilith avance environ trois fois plus vite que Saturne, le trigone se forme et se défait en quelques mois : il appartient à de petites séries de naissances plutôt qu’à des générations entières."
-  - q: "Avec Saturne trigone Lilith, risque-t-on de ne plus questionner ses règles ?"
-    a: "Un peu. Ce qui est facile n’est pas assuré pour autant : un trigone aussi confortable peut vous dispenser de remettre en cause les règles que vous vous êtes données. Le remède est simple, sinon facile : les éprouver de temps en temps, surtout quand une personne de confiance n’est pas d’accord. Le trigone rend aussi plus facile de les ajuster."
+  - q: "Où est le piège avec Saturne trigone Lilith ?"
+    a: "Le piège est léger. Ce qui est facile n’est pas assuré pour autant : un trigone aussi confortable peut vous dispenser de remettre en cause les règles que vous vous êtes données. Le remède est simple, sinon facile : les éprouver de temps en temps, surtout quand une personne de confiance n’est pas d’accord. Le trigone rend aussi plus facile de les ajuster."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes naissent avec cet aspect, compté avec la Lilith moyenne" }
@@ -41,16 +41,16 @@ Concrètement, vous pouvez être à la fois fiable et indocile. On compte peut-�
 
 Environ 1 personne sur 15 naît avec ce trigone, à 6° près : c’est l’aspect Saturne–Lilith le plus fréquent du décompte. Celui-ci utilise la Lilith moyenne ; la Lilith vraie s’en éloigne tant qu’elle peut raconter une autre histoire ([quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)). Les deux se tiennent en général dans un même élément. Dans l’eau, Saturne en Cancer avec Lilith en Poissons par exemple, l’autonomie est émotive et protectrice ; dans le feu, Saturne en Sagittaire avec Lilith en Lion, elle est fière et franche.
 
-Les maisons, qui demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)), montrent où ce trigone aide : Saturne en maison 2 trigone Lilith en maison 10 pourrait vous donner un rôle public façonné selon vos propres valeurs. Lilith, trois fois plus rapide que Saturne, fait entrer et sortir le trigone de l’orbe en quelques mois : il appartient à de petites séries de naissances, à quelques années d’écart. Plus il est exact, plus cette maîtrise de soi paraît naturelle.
+Les maisons, qui demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)), montrent où ce trigone aide : Saturne en maison 2 trigone Lilith en maison 10 pourrait vous donner un rôle public façonné selon vos propres valeurs. Lilith, trois fois plus rapide que Saturne, fait entrer et sortir le trigone de l’orbe en quelques mois : il appartient à de petites séries de naissances, à quelques années d’écart. Près de l’exactitude, cette maîtrise de soi semble aller de soi.
 
-Les autres aspects de la paire, mis en regard :
+Les autres aspects de la paire, pour situer celui-ci :
 
 - **[Saturne conjonction Lilith](/astrology/saturn-conjunct-lilith/) :** le devoir et la part indomptée fondus, plus difficiles à distinguer.
 - **[Saturne sextile Lilith](/astrology/saturn-sextile-lilith/) :** une ouverture plus étroite entre les deux.
 - **[Saturne carré Lilith](/astrology/saturn-square-lilith/) :** la dispute que ce trigone vous épargne.
 - **[Saturne opposition Lilith](/astrology/saturn-opposite-lilith/) :** les deux mêmes face à face, de part et d’autre du thème.
 
-Entre deux thèmes, [Saturne trigone Lilith en synastrie](/astrology/saturn-trine-lilith-synastry/) donne souvent le sentiment que l’autre respecte justement la part de vous que d’autres trouvaient difficile. Je le lis pour chacune des deux personnes : recevoir de la place et en donner sont deux expériences différentes.
+D’un thème à l’autre, [Saturne trigone Lilith en synastrie](/astrology/saturn-trine-lilith-synastry/) donne souvent le sentiment que l’autre respecte justement la part de vous que d’autres trouvaient difficile. Je le lis pour chacune des deux personnes : recevoir de la place et en donner sont deux expériences différentes.
 
 ## En transit {#en-transit}
 

@@ -54,7 +54,7 @@ The pair's other aspects, each with its own birth years:
 - **[Saturn square Uranus](/astrology/saturn-square-uranus/):** 1930–32, 1950–53, 1975–77 or 1999–2001; structure and change in friction until something gets rebuilt.
 - **[Saturn opposite Uranus](/astrology/saturn-opposite-uranus/):** 1964–67 or 2008–09; the two at either end of the chart, asking for balance.
 
-Between two charts, [Saturn trine Uranus in synastry](/astrology/saturn-trine-uranus-synastry/) pairs one person's steadiness with the other's appetite for change, often to the benefit of both. I read it in both directions, since steadying someone and usefully unsettling them are different jobs.
+When two charts meet, [Saturn trine Uranus in synastry](/astrology/saturn-trine-uranus-synastry/) pairs one person's steadiness with the other's appetite for change, often to the benefit of both. I read it in both directions, since steadying someone and usefully unsettling them are different jobs.
 
 ## In transits {#in-transits}
 

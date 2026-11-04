@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 288
 glyph: "♄△♇"
-definition: "Saturn trine Pluto is a 120° angle between Saturn and Pluto, usually in signs of one element, and the commonest of their aspects among births from 1930 to 2009. In a chart, structure and transformation reinforce each other: what you rebuild tends to hold, and what you hold can renew itself, a quiet resilience."
+definition: "Saturn trine Pluto sets Saturn and Pluto about 120° apart, usually in one element; among births from 1930 to 2009 it is the commonest of their aspects. In a chart, structure and transformation reinforce each other: what you rebuild tends to hold, and what you hold can renew itself, a quiet resilience."
 facts:
   - { k: "Bodies", v: "Saturn ♄ and Pluto ♇" }
   - { k: "Aspect", v: "Trine △, 120°" }
@@ -20,7 +20,7 @@ faq:
   - q: "What does it mean to be born with Saturn trine Pluto?"
     a: "Saturn and Pluto were about 120° apart, usually in one element. Structure and transformation reinforce each other: you tend to rebuild in good order, and what you build can renew itself. It’s a deep, quiet resilience, shared by a generation and made personal by its houses."
   - q: "How common is Saturn trine Pluto?"
-    a: "About 1 person in 13 born between 1930 and 2009 has it within 6°, more than any other Saturn–Pluto aspect. Those births fall in five runs, 1936–38, 1958–60, 1970–72, 1995–97 and 2006–08, each opening and closing a few times as Saturn turned retrograde."
+    a: "About 1 person in 13 born between 1930 and 2009 has it within 6°, more than any other Saturn–Pluto aspect. Those births fall in five runs, 1936–38, 1958–60, 1970–72, 1995–97 and 2006–08, each switching on and off a few times as Saturn turned retrograde."
   - q: "Does Saturn trine Pluto have a downside?"
     a: "In one way. Endurance comes so naturally with this trine that you may stay with a role, a place or a plan after it has stopped growing. Ease isn’t inevitability: the trine supports change that lasts, but it doesn’t decide when change is due. That choice stays with you."
 sources:
@@ -38,21 +38,21 @@ In everyday terms, this can be a deep, unshowy resilience. Crises get met with m
 
 ## In a birth chart {#in-a-birth-chart}
 
-With about 1 person in 13 born between 1930 and 2009 holding it within 6°, this trine outnumbers every other Saturn–Pluto aspect. Its five runs: on and off from April 1936 to February 1938, March 1958 to November 1960, June 1970 to April 1972, May 1995 to April 1997, and September 2006 to July 2008. Every birth in those months has it, so it's a generation's aspect; what it does in your life depends on its houses and its contacts with your personal planets ([what changes without a birth time](/blog/unknown-birth-time/)).
+With about 1 person in 13 born between 1930 and 2009 holding it within 6°, this trine outnumbers every other Saturn–Pluto aspect. Its five runs, each interrupted by Saturn's retrograde: April 1936 to February 1938, March 1958 to November 1960, June 1970 to April 1972, May 1995 to April 1997, and September 2006 to July 2008. Every birth in those months has it, so it's a generation's aspect; what it does in your life depends on the houses it falls in and on any personal planet it touches ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-A trine normally keeps to one element ([the four elements](/astrology/four-elements/)), but in most runs both planets changed sign partway, carrying the trine from one element into the next. In 1958–60 it began in fire, with Saturn in Sagittarius and Pluto in Leo, and ended in earth, with Saturn in Capricorn and Pluto in Virgo. In 2006–08 it took the same road, from Saturn in Leo and Pluto in Sagittarius to Saturn in Virgo and Pluto in Capricorn. Fire gives the resilience courage; earth gives it method. By house, Saturn in the 2nd trine Pluto in the 6th might turn the daily work of rebuilding into a lasting sense of worth. Saturn, the faster, set the timing.
+A trine normally keeps to one element ([the four elements](/astrology/four-elements/)), but in most runs both planets changed sign partway, carrying the trine from one element into the next. In 1958–60 it began in fire, with Saturn in Sagittarius and Pluto in Leo, and ended in earth, with Saturn in Capricorn and Pluto in Virgo. In 2006–08 it took the same road, from Saturn in Leo and Pluto in Sagittarius to Saturn in Virgo and Pluto in Capricorn. Fire gives the resilience courage; earth gives it method. By house, Saturn in the 2nd trine Pluto in the 6th might turn the daily work of rebuilding into a lasting sense of worth. Saturn, the quicker planet, decided when the trine began and ended.
 
 The pair's other aspects, in brief:
 
-- **[Saturn conjunct Pluto](/astrology/saturn-conjunct-pluto/):** 1946–48 or 1981–83; structure and renewal fused at one point.
+- **[Saturn conjunct Pluto](/astrology/saturn-conjunct-pluto/):** 1946–48 or 1981–83; the two drives merged into one.
 - **[Saturn sextile Pluto](/astrology/saturn-sextile-pluto/):** 1942–43, 1952–53, 1976–77 or 1989–90; a narrower opening, taken step by step.
 - **[Saturn square Pluto](/astrology/saturn-square-pluto/):** 1939–41, 1955–56, 1973–75, 1992–94 or late 2009; what the trine does with ease, done under pressure.
-- **[Saturn opposite Pluto](/astrology/saturn-opposite-pluto/):** 1930–32, 1965–67 or 2001–03; keeping and letting go set across the chart.
+- **[Saturn opposite Pluto](/astrology/saturn-opposite-pluto/):** 1930–32, 1965–67 or 2001–03; holding on and releasing, on opposite sides.
 
-Between two charts, [Saturn trine Pluto in synastry](/astrology/saturn-trine-pluto-synastry/) often gives a bond that weathers change: one person's steadiness and the other's depth reinforce each other. I read it both ways, since each brings what the other needs.
+In a relationship, [Saturn trine Pluto in synastry](/astrology/saturn-trine-pluto-synastry/) often gives a bond that weathers change: one person's steadiness and the other's depth reinforce each other. I read it both ways, since each brings what the other needs.
 
 ## In transits {#in-transits}
 
 [Transiting Saturn trine natal Pluto](/astrology/transiting-saturn-trine-natal-pluto/) falls twice in Saturn's 29½-year round, sometimes for months at a time. [Transiting Pluto trine natal Saturn](/astrology/transiting-pluto-trine-natal-saturn/) is slow and steady, two years or more near exact, because Pluto spends 12 to 31 years in a sign. Both tend to suit consolidation: making a change permanent, or giving a structure its overdue renovation.
 
-Born with the trine, you see it formed again at each [Saturn return](/astrology/saturn-return/), between about 27 and 30 and again near 60. Count them as weather, not a forecast: favourable conditions for lasting work, and the work stays yours.
+Born under the trine, you get it back at every [Saturn return](/astrology/saturn-return/): in the late twenties, and again near 60. Count them as weather, not a forecast: favourable conditions for lasting work, and the work stays yours.

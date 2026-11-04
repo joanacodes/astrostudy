@@ -42,11 +42,11 @@ Le risque est celui que partagent tous les trigones. L’aisance n’est pas une
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Près de 1 personne sur 17 née entre 1930 et 2009 a Jupiter et Pluton à moins de 6° d’un trigone exact. Ce trigone se forme quatre ou cinq ans après chaque rencontre Jupiter–Pluton et de nouveau quatre ou cinq ans avant la suivante : les naissances concernées sont tombées pendant quelques mois de 1935, 1939–1940, 1947–1948, 1951–1952, 1960, 1964–1965, 1973, 1977, 1986, 1989–1990, 1999 et 2002–2003, et chaque naissance de ces mois-là le porte.
+Le trigone, à 6° près, concerne près de 1 personne sur 17 dans les naissances de 1930 à 2009. Ce trigone se forme quatre ou cinq ans après chaque rencontre Jupiter–Pluton et de nouveau quatre ou cinq ans avant la suivante : les naissances concernées sont tombées pendant quelques mois de 1935, 1939–1940, 1947–1948, 1951–1952, 1960, 1964–1965, 1973, 1977, 1986, 1989–1990, 1999 et 2002–2003, et chaque naissance de ces mois-là le porte.
 
 Un trigone relie des signes du même élément, si bien que l’élément de la paire donne le ton : le feu renouvelle par l’enthousiasme et le risque, la terre par une reconstruction patiente, l’air par des idées qui donnent un autre cadre à une fin, l’eau en vivant les choses pleinement pour en ressortir plus sage. Les maisons disent où ce trigone se sent le mieux. Jupiter en maison 4 trigone Pluton en maison 8, par exemple, peut faire un foyer où l’on parle des choses profondes ; Jupiter en maison 6 trigone Pluton en maison 10, un travail qui se renouvelle sans drame. Elles dépendent de votre heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Comparés à ce trigone, les autres aspects de la paire demandent plus d’effort, ou moins :
+À côté de ce trigone, voici ce que demandent les autres aspects de la paire :
 
 - **[Jupiter conjonction Pluton](/astrology/jupiter-conjunct-pluto/) :** croissance et renouveau fondus en un seul endroit, plus concentrés et moins détendus qu’ici.
 - **[Jupiter sextile Pluton](/astrology/jupiter-sextile-pluto/) :** une version plus petite de la même aide, là quand vous allez la chercher.
@@ -59,4 +59,4 @@ Entre deux thèmes, [Jupiter trigone Pluton en synastrie](/astrology/jupiter-tri
 
 [Jupiter en transit trigone Pluton du thème natal](/astrology/transiting-jupiter-trine-natal-pluto/) revient deux fois par cycle de Jupiter et reste à un degré près quelques semaines ; beaucoup d’astrologues y voient un renouveau qui trouve sa raison d’être. [Pluton en transit trigone Jupiter du thème natal](/astrology/transiting-pluto-trine-natal-jupiter/) s’étend sur un an ou plus, et ne se laisse pas dater par l’âge : l’allure de Pluton change tant le long de son orbite que deux personnes nées à dix ans d’écart rencontrent ce transit à des moments très différents de leur vie.
 
-Ces transits sont une météo, pas une prédiction : une saison où le changement et la croissance coopèrent un peu plus facilement. Ils ne disent pas quoi changer.
+Je tiens ces transits pour une météo, pas une prédiction : une saison où le changement et la croissance coopèrent un peu plus facilement. Ils ne disent pas quoi changer.

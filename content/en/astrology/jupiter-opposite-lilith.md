@@ -29,7 +29,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people are born with it" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s mean apogee, which mean Lilith follows" }
 ---
-Jupiter opposite Lilith puts your principles on one side of the chart and the part of you that won't be tamed on the other. It's the rarest of Jupiter's contacts with Lilith, at about 1 person in 44.
+Jupiter opposite Lilith puts your principles on one side of the chart and your untameable side on the other. It's the rarest of Jupiter's contacts with Lilith, at about 1 person in 44.
 
 ## What it means {#what-it-means}
 

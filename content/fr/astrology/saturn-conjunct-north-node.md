@@ -19,7 +19,7 @@ facts:
   - { k: "En transit", v: "De nouveau à chaque retour nodal, vers 18 ans et demi, 37 et 56 ans" }
 related: ["/astrology/saturn", "/astrology/north-node", "/astrology/conjunction", "/astrology/nodal-return", "/astrology/saturn-conjunct-north-node-synastry"]
 faq:
-  - q: "Que veut dire Saturne conjonction Nœud Nord ?"
+  - q: "Que signifie Saturne sur le Nœud Nord dans un thème natal ?"
     a: "Saturne se trouvait sur le Nœud Nord à votre naissance, donc face au Nœud Sud. La direction dans laquelle vous grandissez arrive avec une structure : plus lente, plus délibérée, bâtie par une pratique régulière. J’y lis une croissance qui a un calendrier plutôt qu’un destin plus lourd, et une croissance qui dure."
   - q: "La conjonction Saturne–Nœud Nord est-elle karmique ?"
     a: "Beaucoup d’astrologues disent les nœuds karmiques. Je lis le Nœud Nord comme une direction de développement plutôt que comme une dette ou un destin, et Saturne comme la structure que ce développement demande. Ensemble, les deux décrivent une capacité bâtie lentement et avec responsabilité : un message pratique, pas une condamnation."
@@ -51,7 +51,7 @@ Les autres aspects de la paire, ligne par ligne :
 - **[Saturne trigone Nœud Nord](/astrology/saturn-trine-north-node/) :** la structure qui soutient votre croissance avec aisance.
 - **[Saturne opposition Nœud Nord](/astrology/saturn-opposite-north-node/) :** Saturne sur le Nœud Sud, qui donne du poids à ce qui est familier.
 
-Entre deux thèmes, [Saturne conjonction Nœud Nord en synastrie](/astrology/saturn-conjunct-north-node-synastry/) pose Saturne, chez l’une des deux personnes, sur la direction de croissance de l’autre : cela peut ressembler à un mentor ou à un frein, et souvent aux deux. Je le regarde des deux côtés.
+Dans une relation, [Saturne conjonction Nœud Nord en synastrie](/astrology/saturn-conjunct-north-node-synastry/) pose Saturne, chez l’une des deux personnes, sur la direction de croissance de l’autre : cela peut ressembler à un mentor ou à un frein, et souvent aux deux. Je le regarde des deux côtés.
 
 ## En transit {#en-transit}
 

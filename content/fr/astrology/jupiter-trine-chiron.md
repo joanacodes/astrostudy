@@ -57,6 +57,6 @@ Entre deux thèmes, [Jupiter trigone Chiron en synastrie](/astrology/jupiter-tri
 
 ## En transit {#en-transit}
 
-[Chiron en transit trigone Jupiter du thème natal](/astrology/transiting-chiron-trine-natal-jupiter/) arrive à un âge fixé par la place de Chiron à votre naissance et par sa vitesse ensuite : quelques mois dans les signes qu’il traverse vite, un an ou plus dans les lents. Le trigone de Jupiter à Chiron du thème natal est bref, deux semaines environ près de l’exactitude, et revient deux fois à chaque tour du zodiaque.
+[Chiron en transit trigone Jupiter du thème natal](/astrology/transiting-chiron-trine-natal-jupiter/) arrive à un âge fixé par la place de Chiron à votre naissance et par sa vitesse ensuite : quelques mois là où Chiron file, un an ou plus là où il ralentit. Le trigone de Jupiter à Chiron du thème natal est bref, deux semaines environ près de l’exactitude, et revient deux fois à chaque tour du zodiaque.
 
 Les deux sont une météo, pas une prédiction. Ils décrivent une période où le point sensible et votre sens de ce qui compte coopèrent un peu plus, sans rien promettre de la suite.

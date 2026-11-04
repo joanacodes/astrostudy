@@ -1,13 +1,13 @@
 ---
 title: "Saturn opposite Pluto"
 h1: "Saturn opposite Pluto in a birth chart"
-description: "Saturn opposite Pluto in a birth chart: keeping and letting go face to face, for births of 1930–32, 1965–67 and 2001–03. Its houses and its transits."
+description: "Saturn opposite Pluto in a birth chart: keeping and letting go at either end of one axis, for the generations of 1930–32, 1965–67 and 2001–03, and its transits."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 289
 glyph: "♄☍♇"
-definition: "Saturn opposite Pluto means Saturn and Pluto stood about 180° apart at your birth, as in 1930–32, 1965–67 and 2001–03. In a chart it sets what you have built opposite what wants to transform it, and asks for a balance between holding on and letting go, often learned through other people."
+definition: "Saturn opposite Pluto places the two planets on either side of the zodiac, about 180° apart, as for births of 1930–32, 1965–67 and 2001–03. In a chart it sets what you have built opposite what wants to transform it, and asks for a balance between holding on and letting go, often learned through other people."
 facts:
   - { k: "Bodies", v: "Saturn ♄ and Pluto ♇" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -29,7 +29,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have it, and the months it was in orb" }
   - { title: "NASA — Pluto facts", url: "https://science.nasa.gov/dwarf-planets/pluto/facts/", note: "Pluto’s orbit of about 248 years" }
 ---
-Saturn opposite Pluto holds keeping and letting go at the two ends of one line. What you've built faces what wants to transform it, and the people born with it tend to learn, often through others, how to carry power without clinging to it.
+Saturn opposite Pluto sets keeping and letting go at either end of a single axis. What you've built faces what wants to transform it, and the people born with it tend to learn, often through others, how to carry power without clinging to it.
 
 ## What it means {#what-it-means}
 
@@ -41,7 +41,7 @@ The two halves are often met in other people first: an institution that won't mo
 
 Counting within 6°, about 1 person in 22 born between 1930 and 2009 has the opposition, in three runs: on and off from March 1930 to November 1932, from March 1965 to January 1967, and from June 2001 to April 2003. Because everyone born in those months shares it, it's a generation's aspect, personal only through its houses ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-The first run began in March 1930, the year Pluto was discovered, with Saturn in Capricorn, its own sign, facing Pluto in Cancer. In the second, Saturn in Pisces faced Pluto in Virgo, and many of those births also have Saturn opposite Uranus, since Uranus and Pluto were meeting then ([Uranus conjunct Pluto](/astrology/uranus-conjunct-pluto/)). In the third, Saturn in Gemini faced Pluto in Sagittarius. An opposition spans two opposite houses: across the 4th and 10th, the duties of home against changes in your public life; across the 5th and 11th, what you create on your own against what a group wants to transform. Saturn is the faster of the two, and its retrograde loops split each run.
+The first run began in March 1930, the year Pluto was discovered, with Saturn in Capricorn, its own sign, facing Pluto in Cancer. In the second, Saturn in Pisces faced Pluto in Virgo, and many of those births also have Saturn opposite Uranus, since Uranus and Pluto were meeting then ([Uranus conjunct Pluto](/astrology/uranus-conjunct-pluto/)). In the third, Saturn in Gemini faced Pluto in Sagittarius. The houses at either end name the arena: across the 4th and 10th, the duties of home against changes in your public life; across the 5th and 11th, what you create on your own against what a group wants to transform. Saturn moves faster, and its yearly retrograde broke each run into pieces.
 
 Saturn and Pluto's four other angles:
 
@@ -56,4 +56,4 @@ Between two charts, [Saturn opposite Pluto in synastry](/astrology/saturn-opposi
 
 [Transiting Saturn opposite natal Pluto](/astrology/transiting-saturn-opposite-natal-pluto/) comes once in each 29½-year round and lasts from weeks to months. [Transiting Pluto opposite natal Saturn](/astrology/transiting-pluto-opposite-natal-saturn/) is rare, because Pluto needs about 248 years to go round; when it comes, it stays two years or more.
 
-Born with the opposition, you meet it twice in each round of Saturn. When Saturn reaches the far side of its own cycle, at about 14–15 and 44 ([Saturn squares and opposition](/astrology/saturn-squares-and-opposition/)), it crosses your natal Pluto, and each [Saturn return](/astrology/saturn-return/) sets it opposite Pluto again. None of this is a forecast; it's weather: seasons for re-balancing control and change, not predictions of what you'll keep or lose.
+If the opposition is yours from birth, it comes back twice in each round of Saturn. When Saturn reaches the far side of its own cycle, at about 14–15 and 44 ([Saturn squares and opposition](/astrology/saturn-squares-and-opposition/)), it crosses your natal Pluto, and each [Saturn return](/astrology/saturn-return/) sets it opposite Pluto again. None of this is a forecast; it's weather: seasons for re-balancing control and change, not predictions of what you'll keep or lose.

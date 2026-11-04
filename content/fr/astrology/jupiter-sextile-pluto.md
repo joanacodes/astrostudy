@@ -34,9 +34,9 @@ Jupiter sextile Pluton ouvre une porte entre deux parts de vous : celle qui veu
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Jupiter](/astrology/jupiter/) apporte l’ampleur : apprendre, relier les expériences en un sens, chercher de la place pour grandir. [Pluton](/astrology/pluto/) apporte la profondeur : faire le ménage dans ce qui ne sert plus, régénérer, rendre de la force. Le [sextile](/astrology/sextile/) relie ces deux fonctions par l’occasion et la coopération : chacune peut mettre l’autre en route, à condition que vous vous engagiez.
+[Jupiter](/astrology/jupiter/) apporte l’ampleur : apprendre, relier les expériences en un sens, chercher de la place pour grandir. [Pluton](/astrology/pluto/) apporte la profondeur : faire le ménage dans ce qui ne sert plus, régénérer, rendre de la force. Le [sextile](/astrology/sextile/) associe ces deux fonctions dans l’occasion et la coopération : chacune peut mettre l’autre en route, à condition que vous vous engagiez.
 
-Concrètement, une occasion d’apprendre arrive souvent avec une occasion de changer, et vous pouvez saisir les deux à la fois. Une formation, un voyage ou une seule conversation peuvent mener loin en profondeur ; une fin ou un tournant de vie peut devenir une raison d’étudier, de voyager vers l’intérieur ou de revoir ce que vous croyez. Le sextile rend ce lien disponible, pas automatique : l’occasion demande de l’engagement, et un potentiel n’est pas encore une réalisation.
+Concrètement, une occasion d’apprendre arrive souvent avec une occasion de changer, et vous pouvez saisir les deux à la fois. Une formation, un voyage ou une seule conversation peuvent mener loin en profondeur ; une fin ou un tournant de vie peut devenir une raison d’étudier, de voyager vers l’intérieur ou de revoir ce que vous croyez. Le sextile rend ce lien disponible, pas automatique : l’occasion demande de l’engagement, et un potentiel reste à réaliser.
 
 Des cinq aspects entre ces deux planètes, c’est le plus léger. Il est utile justement parce qu’il n’insiste pas : vous pouvez vous en servir le moment venu, et le laisser de côté le reste du temps.
 
@@ -44,9 +44,9 @@ Des cinq aspects entre ces deux planètes, c’est le plus léger. Il est utile 
 
 Le décompte trouve ce sextile chez environ 1 personne sur 18 née entre 1930 et 2009, à 6° près. Il revient deux fois autour de chaque rencontre Jupiter–Pluton, environ deux ans avant et deux ans après : les fenêtres de naissance ont été 1932–1933, 1941, 1945, 1953–1954, 1957–1958, 1966–1967, 1970–1971, 1979, 1983–1984, 1992, 1997, 2004–2005 et 2009, de quelques mois chacune. Qui naît dans l’une d’elles le porte, et tant que les maisons n’entrent pas en jeu, l’aspect en dit plus sur votre année de naissance que sur vous.
 
-Un sextile relie des signes distants de deux, en général le feu et l’air, ou la terre et l’eau, des éléments qui s’entendent : les deux fonctions parlent des langues compatibles. Dans les maisons, un sextile de Jupiter en maison 3 à Pluton en maison 5 peut faire de l’écriture ou de l’enseignement un canal de renouveau créatif ; de la maison 10 à la maison 8, votre travail peut s’ouvrir sur ce que la plupart des gens évitent de regarder. C’est l’heure de naissance qui fixe les maisons ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Un sextile relie des signes distants de deux, le plus souvent l’air avec le feu ou l’eau avec la terre : les deux fonctions parlent des langues compatibles. Dans les maisons, un sextile de Jupiter en maison 3 à Pluton en maison 5 peut faire de l’écriture ou de l’enseignement un canal de renouveau créatif ; de la maison 10 à la maison 8, votre travail peut s’ouvrir sur ce que la plupart des gens évitent de regarder. C’est l’heure de naissance qui fixe les maisons ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Les autres aspects de la paire changent la façon dont les deux élans s’arrangent entre eux :
+Ailleurs sur le cercle, les deux élans de la paire s’arrangent autrement :
 
 - **[Jupiter conjonction Pluton](/astrology/jupiter-conjunct-pluto/) :** plus aucun écart, si bien que grandir et se transformer ne font qu’un seul geste.
 - **[Jupiter carré Pluton](/astrology/jupiter-square-pluto/) :** les mêmes élans frottent au lieu de coopérer, et c’est la friction qui fait avancer le changement.
@@ -57,6 +57,6 @@ Entre deux thèmes, [Jupiter sextile Pluton en synastrie](/astrology/jupiter-sex
 
 ## En transit {#en-transit}
 
-[Jupiter en transit sextile Pluton du thème natal](/astrology/transiting-jupiter-sextile-natal-pluto/) revient deux fois à chaque tour de Jupiter et dure quelques semaines, davantage si Jupiter rétrograde à proximité : un bon moment, disent beaucoup d’astrologues, pour commencer quelque chose qui demande de la profondeur. [Pluton en transit sextile Jupiter du thème natal](/astrology/transiting-pluto-sextile-natal-jupiter/) est une longue saison en comparaison. Sa durée dépend de l’endroit où se trouve Pluton sur son orbite ovale, puisque Pluton traverse certains signes en 12 ans environ et d’autres en 31.
+[Jupiter en transit sextile Pluton du thème natal](/astrology/transiting-jupiter-sextile-natal-pluto/) revient deux fois à chaque tour de Jupiter et dure quelques semaines, davantage si Jupiter rétrograde à proximité : un bon moment, disent beaucoup d’astrologues, pour commencer quelque chose qui demande de la profondeur. [Pluton en transit sextile Jupiter du thème natal](/astrology/transiting-pluto-sextile-natal-jupiter/) est une longue saison en comparaison. Sa durée varie avec la position de Pluton sur son orbite ovale, puisque Pluton traverse certains signes en 12 ans environ et d’autres en 31.
 
 Comme pour tout transit, je lis ceux-ci comme une météo, pas une prédiction : une porte qui s’ouvre, sans promesse sur la pièce qui se trouve derrière.

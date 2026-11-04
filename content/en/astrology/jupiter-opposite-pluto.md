@@ -33,7 +33,7 @@ Jupiter opposite Pluto puts breadth and depth on opposite sides of the chart. Th
 
 ## What it means {#what-it-means}
 
-[Jupiter](/astrology/jupiter/) widens: it reaches for meaning, for principles, for the larger picture and the next possibility. [Pluto](/astrology/pluto/) deepens: it removes what's obsolete, regenerates, and returns strength to whoever has done the work. An [opposition](/astrology/opposition/) relates them through polarity, two ends of one axis, each making the other conscious.
+[Jupiter](/astrology/jupiter/) widens: it reaches for meaning, for principles, for the larger picture and the next possibility. [Pluto](/astrology/pluto/) deepens: it removes what's obsolete, regenerates, and returns strength to whoever has done the work. An [opposition](/astrology/opposition/) holds them in polarity, and each end shows most clearly against the other.
 
 In plain words, the urge to grow outward and the urge to go down to the root pull towards opposite ends, and you learn by moving between them. Often one end is met first in other people: a mentor whose depth unsettles your easy hopes, or someone whose expansiveness shows you how much you keep underground. The work is awareness, not victory. Neither end is the problem, and neither should win.
 

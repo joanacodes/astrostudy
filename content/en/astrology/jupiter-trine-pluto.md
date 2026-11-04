@@ -37,15 +37,15 @@ Jupiter trine Pluto describes a particular resilience: coming through a change w
 
 In plain words, transformation feeds growth and growth gives transformation a direction. When something ends, you tend to look for what it taught you; when you learn something, you let it change you all the way down. People with this trine are often good company in a crisis, not because nothing touches them, but because they trust depth to lead somewhere.
 
-The risk is the one all trines share. Ease isn't inevitability, and flow isn't passivity: a capacity nothing calls on can sleep for years. This one tends to wake when life asks something of it.
+The risk is the one all trines share: an easy gift isn't a guaranteed one, and a capacity nothing calls on can sleep for years. This one tends to wake when life asks something of it.
 
 ## In a birth chart {#in-a-birth-chart}
 
-Roughly 1 person in 17 born between 1930 and 2009 has Jupiter and Pluto within 6° of a trine. It forms four or five years after each Jupiter–Pluto meeting and again four or five years before the next. Every birth in some months of 1935, 1939–40, 1947–48, 1951–52, 1960, 1964–65, 1973, 1977, 1986, 1989–90, 1999 and 2002–03 carries it.
+Within 6°, Jupiter and Pluto form this trine for roughly 1 person in 17 of the births counted. It forms four or five years after each Jupiter–Pluto meeting and again four or five years before the next. Every birth in some months of 1935, 1939–40, 1947–48, 1951–52, 1960, 1964–65, 1973, 1977, 1986, 1989–90, 1999 and 2002–03 carries it.
 
 A trine joins signs of one element, so the pair's element sets the tone: fire renews through enthusiasm and risk, earth through patient rebuilding, air through ideas that put an ending in a new frame, water by feeling things fully and coming out wiser. The houses tell where it feels most at home. Jupiter in the 4th trine Pluto in the 8th, for example, can make a home where deep matters get talked through; Jupiter in the 6th trine Pluto in the 10th, work that keeps renewing itself without drama. Those depend on your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Compared with this trine, the pair's other aspects ask for more effort, or less:
+Set beside this trine, the pair's other aspects:
 
 - **[Jupiter conjunct Pluto](/astrology/jupiter-conjunct-pluto/):** growth and renewal fused in one place, more concentrated and less relaxed than here.
 - **[Jupiter sextile Pluto](/astrology/jupiter-sextile-pluto/):** a smaller version of the same help, there when you reach for it.

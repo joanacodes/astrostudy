@@ -41,7 +41,7 @@ Ease guarantees nothing, and flowing isn't standing still. A permission you neve
 
 ## In a birth chart {#in-a-birth-chart}
 
-With mean Lilith and a 6° orb, the count finds this trine in about 1 person in 13, as often as the square. True Lilith can sit tens of degrees from the mean, so if your software uses it, look again ([Which Lilith is mine?](/astrology/which-lilith-is-mine/)).
+With mean Lilith and a 6° orb, the count finds this trine in about 1 person in 13, as often as the square. If your software shows true Lilith, which can wander tens of degrees from the mean, look again ([Which Lilith is mine?](/astrology/which-lilith-is-mine/)).
 
 The two signs of a trine normally share an element, and the element says what kind of welcome it is: bold in fire, practical in earth, curious in air, tender in water. The houses show where. Jupiter in the 5th trine Lilith in the 9th, for example, might make creative play the place where unconventional beliefs come out; Jupiter in the 12th trine Lilith in the 4th, a quiet faith that makes your home a refuge for your truer self. Working out the houses takes a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
@@ -56,6 +56,6 @@ Between two charts, [Jupiter trine Lilith in synastry](/astrology/jupiter-trine-
 
 ## In transits {#in-transits}
 
-Twice per lap, Jupiter in the sky trines your natal Lilith and stays close for some weeks; mean Lilith, the quicker of the two, trines your natal Jupiter twice per round of about 8 years and 10 months. Born with the trine, you meet its Lilith side again at every Lilith return, roughly every nine years, when Lilith regains its birth degree, 120° from your Jupiter.
+Twice per lap, Jupiter in the sky trines your natal Lilith and stays close for some weeks; mean Lilith, the quicker of the two, trines your natal Jupiter twice per round of about 8 years and 10 months. Born with the trine, you meet its Lilith side again each time Lilith comes back to its birth degree, roughly every nine years, 120° from your Jupiter.
 
-It's weather, not a forecast: a stretch when the untamed part feels more expected, with nothing settled about what you'll do with that.
+This is weather, not a forecast: a stretch when the untamed part feels more expected, with nothing settled about what you'll do with that.

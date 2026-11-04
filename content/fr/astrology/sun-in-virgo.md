@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée du passage du Soleil en Vierge, et la part des personnes nées entre 1930 et 2009 qui ont ce placement" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-Bien des gens voient quand quelque chose cloche. Un Soleil en Vierge sait en général exactement où, et pourquoi, et bâtit un sentiment de soi sur cette précision. J’y lis une identité organisée par le discernement : vous savez qui vous êtes par les distinctions que vous savez faire.
+Bien des gens voient quand quelque chose cloche. Un Soleil en Vierge sait en général exactement où, et pourquoi, et bâtit un sentiment de soi sur cette précision. Le discernement en est le principe : vous savez qui vous êtes par les distinctions que vous savez faire.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
@@ -49,7 +49,7 @@ Un Soleil en Vierge est souvent celui qui remarque l’étape que tout le monde 
 
 ## Le plus difficile {#le-plus-difficile}
 
-L’identité peut devenir un brouillon qui n’est jamais fini. Si vous vous connaissez par ce qui pourrait être mieux, vous ne vous autorisez peut-être jamais à avoir terminé, et le correcteur intérieur qui sert si bien votre travail peut tourner son stylo rouge contre vous. Le repos est difficile à justifier quand il n’est pas utile, alors la vitalité s’use sans que personne le remarque, et vous moins que quiconque. Rien de tout cela n’est de la froideur. C’est un moi très exact, qui apprend encore qu’il a le droit de suffire.
+Le moi, ici, peut devenir un brouillon jamais fini. Si vous vous connaissez par ce qui pourrait être mieux, vous ne vous autorisez peut-être jamais à avoir terminé, et le correcteur intérieur qui sert si bien votre travail peut tourner son stylo rouge contre vous. Le repos est difficile à justifier quand il n’est pas utile, alors la vitalité s’use sans que personne le remarque, et vous moins que quiconque. Rien de tout cela n’est de la froideur. C’est un moi très exact, qui apprend encore qu’il a le droit de suffire.
 
 ## Ce qui aide {#ce-qui-aide}
 

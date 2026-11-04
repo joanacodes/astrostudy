@@ -28,15 +28,15 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the Sun stays in Sagittarius, and how many people born 1930–2009 have it" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-Some people know who they are by where they've been. A Sagittarius Sun tends to know by what it has come to believe, and it keeps revising. The Sun was in mutable fire when you were born, ruled by Jupiter, and I read it as an identity organised around a philosophy: a working answer to the question of what makes a life worth living.
+Where you've been matters less to a Sagittarius Sun than what you've come to believe, and the beliefs keep being revised. In mutable fire, ruled by Jupiter, the Sun builds its identity around a philosophy: a working answer to the question of what makes a life worth living.
 
 ## In a birth chart {#in-a-birth-chart}
 
-Your [Sun](/astrology/sun/) organises identity, vitality and direction. [Sagittarius](/astrology/sagittarius/), mutable fire, gives it a manner that is expansive and searching, and turns the Sun's work of integration into something closer to synthesis: you make sense of yourself by fitting experience into a larger picture. Your purpose tends to sound less like a target than a conviction, a principle you'd act on even if nobody were watching.
+In [Sagittarius](/astrology/sagittarius/), mutable fire, the [Sun](/astrology/sun/)'s identity, vitality and direction take on an expansive, searching manner, and the sign turns the Sun's work of integration into something closer to synthesis: you make sense of yourself by fitting experience into a larger picture. Your purpose tends to sound less like a target than a conviction, a principle you'd act on even if nobody were watching.
 
 The tables of dignity leave the Sun alone in Sagittarius: no domicile, no exaltation, no weakness. Its ruler, [Jupiter](/astrology/jupiter/), spends about a year in each sign, so everyone born within a year or so of you shares its sign. Jupiter's house, which needs your birth time, is what makes it yours, and it's where this Sun goes looking for meaning, and grows.
 
-The Sun crosses Sagittarius in 29 or 30 days, from about 22 November to the December solstice, about 21 December: the darkest weeks of the northern year. About 1 person in 12 has it, and within a day of either end your [birth time](/blog/unknown-birth-time/) settles the sign.
+The Sun crosses Sagittarius in 29 or 30 days, from about 22 November to the December solstice, about 21 December: the darkest weeks of the northern year. About 1 person in 12 has it, and a birthday right at either end needs a [birth time](/blog/unknown-birth-time/) to be sure.
 
 ## In close relationships {#in-close-relationships}
 
@@ -48,7 +48,7 @@ Work that lets you explain *why* suits this Sun: teaching, publishing, guiding, 
 
 ## The hard part {#the-hard-part}
 
-Identity can fuse with a belief, so that being wrong feels like disappearing. Certainty then becomes armour, and a self that loved questions starts defending answers. Or the opposite happens: meaning goes flat, nothing seems worth aiming at, and restlessness moves in, looking for a new horizon to fix it. Where the [Sun in Scorpio](/astrology/sun-in-scorpio/) can hold on too long, a Sagittarius Sun can leave too early, and the [Sun in Capricorn](/astrology/sun-in-capricorn/) that follows tends to stay because it promised.
+When a belief becomes the self, being wrong feels like disappearing. Certainty then becomes armour, and a self that loved questions starts defending answers. Or the opposite happens: meaning goes flat, nothing seems worth aiming at, and restlessness moves in, looking for a new horizon to fix it. Where the [Sun in Scorpio](/astrology/sun-in-scorpio/) can hold on too long, a Sagittarius Sun can leave too early, and the [Sun in Capricorn](/astrology/sun-in-capricorn/) that follows tends to stay because it promised.
 
 ## What helps {#what-helps}
 

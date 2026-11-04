@@ -33,7 +33,7 @@ Saturn square Uranus is the friction between keeping and changing, carried by fo
 
 ## What it means {#what-it-means}
 
-[Saturn](/astrology/saturn/) holds the line: structure, responsibility, boundaries, the long view. [Uranus](/astrology/uranus/) breaks the pattern: invention, autonomy, the reform of whatever has hardened. A [square](/astrology/square/) sets them at right angles, a constructive friction in which neither function disappears and each keeps testing the other.
+[Saturn](/astrology/saturn/) holds the line: structure, responsibility, boundaries, the long view. [Uranus](/astrology/uranus/) breaks the pattern: invention, autonomy, the reform of whatever has hardened. A [square](/astrology/square/) sets them at right angles, a constructive friction in which neither function disappears and each keeps putting the other to the test.
 
 In plain words, you may feel both pulls: the need for something solid underfoot, and the need to change it the moment it sets. Rules can chafe and freedom can feel unsafe, sometimes in the same week. People born with this square are often the ones who ask why a rule exists before deciding whether to keep it. Challenge isn't punishment here. Over time this square tends to build a particular skill: knowing which structures to keep, which to reform, and how to change something without bringing the roof down.
 
@@ -48,7 +48,7 @@ Each generation shares the theme, and your houses make it yours. Saturn in the 4
 The same pair elsewhere on the circle:
 
 - **[Saturn conjunct Uranus](/astrology/saturn-conjunct-uranus/):** born in the early 1940s or the late 1980s; keeping and changing become one act.
-- **[Saturn sextile Uranus](/astrology/saturn-sextile-uranus/):** born in the mid-1930s, the late 1940s, around 1980 or the mid-1990s; structure and reform cooperate instead of rubbing.
+- **[Saturn sextile Uranus](/astrology/saturn-sextile-uranus/):** born in one spell before and one after each conjunction, from the mid-1930s to the late 1990s; structure and reform cooperate instead of rubbing.
 - **[Saturn trine Uranus](/astrology/saturn-trine-uranus/):** born between 1955 and 1958, 1971 and 1974, or mid-2002 and mid-2004; the old and the new keep step.
 - **[Saturn opposite Uranus](/astrology/saturn-opposite-uranus/):** born from 1964 to early 1967, or late 2008 to 2009; stability and freedom face each other instead of crossing.
 

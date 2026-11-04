@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 283
 glyph: "♄△♆"
-definition: "Saturne trigone Neptune désigne un angle d’environ 120° entre Saturne et Neptune, en général dans un même élément, partagé par des vagues entières de naissances de 1930 à 2002. Dans un thème, l’imagination et la discipline y avancent au même pas : les idéaux se bâtissent peu à peu, le soin dure sans drame, pourvu que vous lui donniez une direction."
+definition: "Saturne trigone Neptune relie Saturne et Neptune à environ 120°, en général depuis un même élément, et des vagues entières de naissances l’ont partagé de 1930 à 2002. Dans un thème, l’imagination et la discipline y avancent au même pas : les idéaux se bâtissent peu à peu, le soin dure sans drame, pourvu que vous lui donniez une direction."
 facts:
   - { k: "Corps", v: "Saturne ♄ et Neptune ♆" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -19,10 +19,10 @@ facts:
 related: ["/astrology/saturn", "/astrology/neptune", "/astrology/trine", "/astrology/saturn-trine-neptune-synastry", "/astrology/four-elements"]
 faq:
   - q: "Que change Saturne trigone Neptune dans un thème ?"
-    a: "À votre naissance, environ 120° séparaient Saturne et Neptune, en général dans un même élément. Votre sens de la structure et votre imagination avancent au même pas : les idéaux se bâtissent avec constance, et le soin dure sans vous épuiser. Beaucoup de personnes le partagent : je le lis à travers ses maisons et ses contacts avec vos planètes personnelles."
+    a: "À votre naissance, environ 120° séparaient Saturne et Neptune, en général dans un même élément. Votre sens de la structure et votre imagination avancent au même pas : les idéaux se bâtissent avec constance, et le soin dure sans vous épuiser. Beaucoup de personnes le partagent : ce qui le rend vôtre, ce sont ses maisons et ses contacts avec vos planètes personnelles."
   - q: "Quelles générations ont Saturne trigone Neptune ?"
     a: "À 6° près : les naissances de 1930, puis, par intermittence, de mai 1941 à mars 1943, d’avril 1965 à mars 1967, de juillet 1976 à mai 1978 et de juillet 2000 à mai 2002. Au fil de ces vagues, le trigone a traversé les quatre éléments : sa couleur change d’une génération à l’autre."
-  - q: "Le trigone Saturne–Neptune rend-il trop confortable ?"
+  - q: "Peut-on se reposer sur ses lauriers avec Saturne trigone Neptune ?"
     a: "Un peu, parfois. Un trigone apporte de l’aisance, et l’aisance se prend vite pour acquise. La coopération entre la structure et l’imagination est réelle, mais elle ne choisit pas la direction à votre place. Elle donne le plus quand vous la tournez vers ce qui demande à la fois de la vision et de l’endurance."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, l’un de ses quatre aspects" }
@@ -39,7 +39,7 @@ Au quotidien, cela ressemble souvent à une fidélité tranquille envers un idé
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-À 6° près, environ 1 personne sur 16 née entre 1930 et 2009 porte ce trigone, venu par vagues : en 1930, dès le début des années comptées, puis par intermittence de mai 1941 à mars 1943, d’avril 1965 à mars 1967, de juillet 1976 à mai 1978, et de juillet 2000 à mai 2002. Ces naissances le partagent en bloc : c’est d’abord un aspect de génération, et vos maisons décident de ce qu’il fait dans votre vie ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Ce trigone figure dans le thème d’environ 1 personne sur 16 née entre 1930 et 2009, à 6° près, et il est venu par vagues : en 1930, dès le début des années comptées, puis par intermittence de mai 1941 à mars 1943, d’avril 1965 à mars 1967, de juillet 1976 à mai 1978, et de juillet 2000 à mai 2002. Ces naissances le partagent en bloc : c’est d’abord un aspect de génération, et vos maisons décident de ce qu’il fait dans votre vie ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Un trigone relie en général deux signes d’un même élément ([les quatre éléments](/astrology/four-elements/)), et celui-ci a traversé les quatre : la terre en 1930, Saturne en Capricorne et Neptune en Vierge ; l’eau en 1965–1967, Saturne en Poissons et Neptune en Scorpion ; le feu en 1976–1978, Saturne en Lion et Neptune en Sagittaire ; surtout l’air en 2000–2002, Saturne en Gémeaux et Neptune en Verseau. L’élément colore l’aisance : pratique, émotive, expressive ou sociale. Côté maisons, Saturne en maison 6 trigone Neptune en maison 10 pourrait faire d’un service régulier et sans éclat un rôle public. C’est Saturne qui avance le plus vite, et plus le trigone est serré, plus l’alliance paraît naturelle.
 
@@ -50,10 +50,10 @@ Les autres aspects de la paire, en regard :
 - **[Saturne carré Neptune](/astrology/saturn-square-neptune/) :** 1943–1945, 1962–1964, 1978–1980 ou 1998–1999 ; la friction que ce trigone vous épargne.
 - **[Saturne opposition Neptune](/astrology/saturn-opposite-neptune/) :** 1935–1937, 1970–1972 ou 2005–2007 ; une polarité à équilibrer plutôt qu’un courant à suivre.
 
-Entre deux thèmes, [Saturne trigone Neptune en synastrie](/astrology/saturn-trine-neptune-synastry/) ressemble souvent à de la confiance : la constance de l’une des deux personnes fait de la place à l’imagination de l’autre. Je le lis du point de vue de chaque personne.
+Entre deux personnes, [Saturne trigone Neptune en synastrie](/astrology/saturn-trine-neptune-synastry/) ressemble souvent à de la confiance : la constance de l’une des deux personnes fait de la place à l’imagination de l’autre. Je le lis du point de vue de chaque personne.
 
 ## En transit {#en-transit}
 
-[Saturne en transit trigone Neptune du thème natal](/astrology/transiting-saturn-trine-natal-neptune/) revient deux fois par cycle de Saturne, et chaque passage peut s’étendre sur plusieurs mois. [Neptune en transit trigone Saturne du thème natal](/astrology/transiting-neptune-trine-natal-saturn/) se déploie sur un an ou deux, au rythme de Neptune, environ 14 ans par signe. Les deux sont en général doux : une période où donner une forme pratique à un espoir, ou un sens à un devoir, coûte moins d’effort que d’habitude.
+[Saturne en transit trigone Neptune du thème natal](/astrology/transiting-saturn-trine-natal-neptune/) se présente deux fois par cycle de Saturne, et chaque passage peut s’étendre sur plusieurs mois. [Neptune en transit trigone Saturne du thème natal](/astrology/transiting-neptune-trine-natal-saturn/) se déploie sur un an ou deux, Neptune ne parcourant un signe qu’en 14 ans environ. Les deux sont en général doux : une période où donner une forme pratique à un espoir, ou un sens à un devoir, coûte moins d’effort que d’habitude.
 
-Si votre naissance tombe pendant ce trigone, chaque [retour de Saturne](/astrology/saturn-return/), vers 27–30 ans puis vers 58–60 ans, le reforme. Comme tout transit, c’est une météo, pas une prédiction : un courant plus facile, et le choix du cap reste le vôtre.
+Si le trigone vous accompagne depuis la naissance, chaque [retour de Saturne](/astrology/saturn-return/), à 27–30 ans comme à 58–60 ans, le ramène. Comme tout transit, c’est une météo, pas une prédiction : un courant plus facile, et le choix du cap reste le vôtre.

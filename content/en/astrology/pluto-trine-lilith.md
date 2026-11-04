@@ -1,7 +1,7 @@
 ---
 title: "Pluto trine Lilith"
 h1: "Pluto trine Lilith in a birth chart"
-description: "Pluto trine Lilith in a birth chart: deep change and your untamed side in one easy current, often unnoticed. How often it occurs, and its transits."
+description: "Pluto trine Lilith in a birth chart: deep change and your untamed side in one easy current, often unnoticed. Its count, and what its transits bring."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"

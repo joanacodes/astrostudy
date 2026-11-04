@@ -34,11 +34,11 @@ Des cinq aspects que Jupiter forme avec Chiron, le sextile est celui que le plus
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Jupiter](/astrology/jupiter/) représente l’apprentissage et la perspective, l’envie de trouver un cadre qui donne un sens à ce que vous vivez. [Chiron](/astrology/chiron/) est l’endroit où quelque chose reste sensible, et où vous inventez vos propres façons de faire avec : une méthode changée, un rythme plus doux, un outil ou un aménagement, une compétence née parce qu’il le fallait. Le [sextile](/astrology/sextile/) les relie par l’occasion et la coopération. Il suggère ; vous décidez.
+[Jupiter](/astrology/jupiter/) représente l’apprentissage et la perspective, l’envie de trouver un cadre qui donne un sens à ce que vous vivez. [Chiron](/astrology/chiron/) marque ce qui reste sensible en vous, et les façons que vous inventez pour faire avec : une méthode changée, un rythme plus doux, un outil ou un aménagement, une compétence née parce qu’il le fallait. Le [sextile](/astrology/sextile/) les relie par l’occasion et la coopération. Il suggère ; vous décidez.
 
 Concrètement, le bon livre, la bonne personne pour vous enseigner ou la bonne conversation se présentent souvent quand vous cherchez de l’aide pour ce point sensible, et ce que vous y apprenez finit souvent par servir à quelqu’un d’autre. Rien d’automatique pour autant : il faut s’engager, et nommer le point sensible, au moins pour vous-même, avant que le sextile puisse travailler.
 
-Parce qu’il est léger, ce sextile convient aux personnes qui ne veulent pas que leur point sensible devienne toute leur histoire. Il laisse la limite et la compétence côte à côte, sans que l’une ou l’autre vous définisse.
+Parce qu’il est léger, ce sextile convient aux personnes qui ne veulent pas que leur point sensible devienne toute leur histoire. Il laisse la limite et la compétence côte à côte, sans qu’aucune des deux ne résume qui vous êtes.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
@@ -57,6 +57,6 @@ Entre deux thèmes, avec [Jupiter sextile Chiron en synastrie](/astrology/jupite
 
 ## En transit {#en-transit}
 
-[Chiron en transit sextile Jupiter du thème natal](/astrology/transiting-chiron-sextile-natal-jupiter/) arrive quand Chiron, sur son long tour, atteint 60° de votre Jupiter : quelques fois dans une vie, à des âges très différents d’une génération à l’autre, à cause de son allure inégale. Ce transit s’attarde des mois, parfois en plusieurs passages. Jupiter rend la pareille plus souvent, en formant un sextile avec Chiron du thème natal deux fois tous les 12 ans, quelques semaines chaque fois.
+[Chiron en transit sextile Jupiter du thème natal](/astrology/transiting-chiron-sextile-natal-jupiter/) arrive quand Chiron, sur son long tour, atteint 60° de votre Jupiter : quelques fois dans une vie, à des âges qui changent beaucoup selon la génération, à cause de son allure inégale. Ce transit s’attarde des mois, parfois en plusieurs passages. Jupiter rend la pareille plus souvent, en se plaçant deux fois par tour en sextile de Chiron du thème natal, quelques semaines chaque fois.
 
-Il s’agit d’une météo, pas d’une prédiction : une ouverture autour du point sensible, que vous êtes libre de prendre ou non.
+C’est affaire de météo, pas de prédiction : une ouverture autour du point sensible, que vous êtes libre de prendre ou non.

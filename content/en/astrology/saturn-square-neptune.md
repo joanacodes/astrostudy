@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 282
 glyph: "♄□♆"
-definition: "Saturn square Neptune is a 90° angle between Saturn and Neptune, usually in signs of the same modality, shared by four runs of births between 1943 and 1999. In a chart it sets realism and imagination in friction: each keeps testing the other, and the work it asks for builds discernment rather than doubt."
+definition: "Saturn square Neptune puts Saturn and Neptune at right angles, about 90° apart, usually in signs of the same modality, as in four runs of births between 1943 and 1999. In a chart it sets realism and imagination in friction: each keeps testing the other, and the work it asks for builds discernment rather than doubt."
 facts:
   - { k: "Bodies", v: "Saturn ♄ and Neptune ♆" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -20,7 +20,7 @@ related: ["/astrology/saturn", "/astrology/neptune", "/astrology/square", "/astr
 faq:
   - q: "Is Saturn square Neptune a hard aspect to have?"
     a: "Astrologers call the square hard, and here it does describe friction between being realistic and believing. But friction isn’t failure. Over time this square tends to build discernment: generosity with limits, ideals that check their facts, and structures that remember what they are for."
-  - q: "What years have Saturn square Neptune?"
+  - q: "Which birth dates give Saturn square Neptune?"
     a: "Counting within 6°, four runs between 1930 and 2009: on and off from August 1943 to May 1945, March 1962 to January 1964, October 1978 to August 1980, and May 1998 to May 1999. Everyone born in those months shares it, so its houses are what make it personal."
   - q: "Does Saturn square Neptune mean I can’t trust my dreams?"
     a: "No. It means your dreams and your sense of reality keep testing each other. That can feel like doubt, especially early on. With practice it becomes a strength: you learn which dreams can carry weight and how to give them the structure they need, without giving up the ones that matter."
@@ -39,18 +39,18 @@ Lived, it can feel like being asked for two things at once that don't fit. Be re
 
 ## In a birth chart {#in-a-birth-chart}
 
-Within 6°, the square turns up in about 1 person in 17 born between 1930 and 2009, in four runs: on and off from August 1943 to May 1945, from March 1962 to January 1964, from October 1978 to August 1980, and from May 1998 to May 1999. Every birth in those months carries it, which makes it a generation's square, read personally through the houses.
+Within 6°, the square turns up in about 1 person in 17 born between 1930 and 2009, in four runs, most of them broken up by Saturn's retrograde: August 1943 to May 1945, March 1962 to January 1964, October 1978 to August 1980, and May 1998 to May 1999. Every birth in those months carries it, which makes it a generation's square, read personally through the houses.
 
 A square usually joins signs of the same modality, and the runs show it. In 1962–64 Saturn was in Aquarius and Neptune in Scorpio, two fixed signs: a square that digs in. In 1978–80 it was Saturn in Virgo and Neptune in Sagittarius, two mutable signs: friction that keeps changing shape. The houses say where the two meet. Saturn in the 2nd square Neptune in the 11th might set a careful sense of what you own against generosity to a cause; Saturn in the 7th square Neptune in the 4th, commitment against an ideal of home. The hour of birth decides all of that ([what changes without a birth time](/blog/unknown-birth-time/)), and a contact with your Sun, Moon or an angle turns it up.
 
 The pair's other aspects, set beside the square:
 
-- **[Saturn conjunct Neptune](/astrology/saturn-conjunct-neptune/):** 1952–53 or 1988–90; the dream and the structure in one place.
+- **[Saturn conjunct Neptune](/astrology/saturn-conjunct-neptune/):** 1952–53 or 1988–90; imagination and form welded together.
 - **[Saturn sextile Neptune](/astrology/saturn-sextile-neptune/):** 1946–48, 1959–60, 1981–83 or 1995–97; the same two offered a door rather than a wall.
 - **[Saturn trine Neptune](/astrology/saturn-trine-neptune/):** 1930, 1941–43, 1965–67, 1976–78 or 2000–02; flow where the square has friction.
 - **[Saturn opposite Neptune](/astrology/saturn-opposite-neptune/):** 1935–37, 1970–72 or 2005–07; the friction turned into a face-to-face polarity.
 
-Between two charts, [Saturn square Neptune in synastry](/astrology/saturn-square-neptune-synastry/) rubs one person's realism against the other's ideals. Given patience it can sharpen both, and I read it from each side.
+When two charts meet, [Saturn square Neptune in synastry](/astrology/saturn-square-neptune-synastry/) rubs one person's realism against the other's ideals. Given patience it can sharpen both, and I read it from each side.
 
 ## In transits {#in-transits}
 

@@ -28,13 +28,13 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the Sun stays in Capricorn, and how many people born 1930–2009 have it" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-A Capricorn Sun often recognises itself in what it has kept going: the project in its tenth year, the promise kept long after anyone would have forgiven you for dropping it, the skill nobody saw being built. The Sun was in cardinal earth when you were born, and I read it as an identity organised over long spans of time.
+A Capricorn Sun often recognises itself in what it has kept going: the project in its tenth year, the promise kept long after anyone would have forgiven you for dropping it, the skill nobody saw being built. In cardinal earth, the Sun builds an identity whose main material is time.
 
 ## In a birth chart {#in-a-birth-chart}
 
-The [Sun](/astrology/sun/) organises identity, vitality and direction. [Capricorn](/astrology/capricorn/), cardinal earth, gives it a structural manner: your sense of self tends to be built in stages, each one load-bearing, and tested by time rather than by mood. Purpose here usually looks like something under construction. That's worth saying plainly, because this Sun is often mistaken, sometimes by itself, for a hunger for status. Purpose isn't position. A Capricorn Sun wants to build something that holds, and a title is at most a by-product.
+[Capricorn](/astrology/capricorn/), cardinal earth, gives the [Sun](/astrology/sun/), your identity, vitality and direction, a structural manner: a sense of self built in stages, each one load-bearing, and tested by time rather than by mood. Purpose here usually looks like something under construction. That's worth saying plainly, because this Sun is often mistaken, sometimes by itself, for a hunger for status. Purpose isn't position. A Capricorn Sun wants to build something that holds, and a title is at most a by-product.
 
-Capricorn is neutral ground for the Sun in the old tables, neither honour nor weakness. Its ruler is [Saturn](/astrology/saturn/), with no modern planet sharing the job, and Saturn's sign and house show where this Sun does its slow building; an aspect between the two, if you have one, often describes the pace.
+Capricorn is neutral ground for the Sun in the old tables, neither honour nor weakness. Its ruler is [Saturn](/astrology/saturn/), with no modern planet sharing the job, and where Saturn sits, by sign and house, is where this Sun does its slow building; an aspect between the two, if you have one, often describes the pace.
 
 The Sun moves faster through Capricorn than through any other sign: 29 or 30 days, from the December solstice, about 22 December, to about 19 January, because the Earth is closest to the Sun in early January and moving at its quickest. The [Sun in Sagittarius](/astrology/sun-in-sagittarius/) before it and the [Sun in Aquarius](/astrology/sun-in-aquarius/) after it are nearly as brief. About 1 person in 12 is born in those weeks, and near either end your [birth time](/blog/unknown-birth-time/) decides.
 
@@ -48,7 +48,7 @@ Work is where many Capricorn Suns feel most themselves, not because work is all 
 
 ## The hard part {#the-hard-part}
 
-Identity can become indexed to achievement, so that your worth rises and falls with your output. Joy gets postponed to a later that keeps moving, and rest feels like something to be earned. Vitality, in a sign that spends it carefully, can run low without complaint, because complaining isn't how this Sun copes. And self-sufficiency, so useful, can turn into a wall that nobody is invited past.
+Achievement can become the measure of the self, so that your worth rises and falls with your output. Joy gets postponed to a later that keeps moving, and rest feels like something to be earned. Vitality, in a sign that spends it carefully, can run low without complaint, because complaining isn't how this Sun copes. And self-sufficiency, so useful, can turn into a wall that nobody is invited past.
 
 ## What helps {#what-helps}
 

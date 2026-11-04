@@ -36,9 +36,9 @@ Gemini is one of the two signs Mercury rules, and here the planet speaks without
 
 Since Mercury rules Gemini, there's no other ruler to look up. The chain stops here, and Mercury's own house and aspects carry the rest of the story. When it also sits in the 3rd house, the one whose natural sign is Gemini, sign and context say the same thing twice ([Mercury in the 3rd house](/astrology/mercury-in-3rd-house/)).
 
-Mercury usually spends about 16 days in Gemini, and up to 69 when it turns retrograde in the sign. About 1 person in 13 born from 1930 to 2009 has it. A retrograde loop near either edge of the sign can carry Mercury back over the border before it returns: into [Mercury in Taurus](/astrology/mercury-in-taurus/) when the loop falls in the first degrees, out into [Mercury in Cancer](/astrology/mercury-in-cancer/) and back when it falls in the last ones. Born close to one of those crossings, you'll want your chart to say which side you landed on.
+Mercury rarely lingers at home: a visit to Gemini usually lasts about 16 days, and only a retrograde turn inside the sign stretches it, to 69 days at the most. It belongs to about 1 person in 13 of everyone born between 1930 and 2009. A retrograde loop near either edge of the sign can carry Mercury back over the border before it returns: into [Mercury in Taurus](/astrology/mercury-in-taurus/) when the loop falls in the first degrees, out into [Mercury in Cancer](/astrology/mercury-in-cancer/) and back when it falls in the last ones. Born close to one of those crossings, you'll want your chart to say which side you landed on.
 
-Your Sun is in Taurus, Gemini or Cancer. A Taurus Sun with this Mercury is a steady self with a mind that won't sit still. A Cancer Sun with it is a self that feels first, with a mind that finds the words. A Gemini Sun doubles the sign: purpose and thinking both run on curiosity.
+The Sun can't be far: it's in Taurus, Gemini or Cancer. Pair this Mercury with a Taurus Sun and a steady person turns out to have a mind that won't sit still; with a Cancer Sun, feelings come first and Mercury finds them words; with a Gemini Sun, purpose and thinking both run on curiosity.
 
 ## In close relationships {#in-close-relationships}
 

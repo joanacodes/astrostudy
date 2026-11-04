@@ -34,7 +34,7 @@ Jupiter conjonction Nœud Nord pose la planète du sens sur le point de la prati
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Jupiter](/astrology/jupiter/) élargit ce que vous comprenez et ce que vous croyez possible : l’apprentissage, les principes, la perspective, la générosité d’esprit. Le [Nœud Nord](/astrology/north-node/) est un point calculé, là où la trajectoire de la Lune croise celle du Soleil en montant vers le nord ; les astrologues y lisent une direction de développement, une façon de faire moins familière qui grandit avec la pratique et les retours. Une [conjonction](/astrology/conjunction/) en fait un seul processus, chaque fonction gardant son rôle.
+[Jupiter](/astrology/jupiter/) élargit ce que vous comprenez et ce que vous croyez possible : l’apprentissage, les principes, la perspective, la générosité d’esprit. Le [Nœud Nord](/astrology/north-node/) est un point calculé, l’endroit où la route de la Lune coupe celle du Soleil quand elle remonte vers le nord ; les astrologues y lisent une direction de développement, une façon de faire moins familière qui grandit avec la pratique et les retours. Une [conjonction](/astrology/conjunction/) en fait un seul processus, chaque fonction gardant son rôle.
 
 Concrètement, votre prochaine étape passe souvent par une vue plus large : enseigner et pas seulement apprendre, un cercle plus vaste, une philosophie mise au travail. Jupiter donne une raison à la pratique, et la pratique garde Jupiter honnête. Le piège est propre à cette paire : il est possible de comprendre parfaitement sa direction sans jamais la pratiquer. Le Nœud Nord demande de la répétition, pas seulement une prise de conscience.
 
@@ -42,9 +42,9 @@ En face se trouve le [Nœud Sud](/astrology/south-node/) : Jupiter sur le Nœud
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Jupiter se trouve à moins de 6° du Nœud Nord chez environ 1 personne sur 39. Jupiter avance dans les signes tandis que les nœuds reculent : leurs mouvements se rapprochent de face, si bien que la conjonction ne dure pas, l’affaire de quelques mois, et son signe est partagé par toutes les personnes nées autour de ce moment. La maison la rend personnelle. En maison 9, le développement peut passer par les études, les voyages ou l’enseignement ; en maison 10, par une position visible qui demande sans cesse de grandir ; en maison 4, par le foyer et la famille, où vous apprenez à offrir un soin plus large. Il faut pour cela une heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Jupiter se trouve à moins de 6° du Nœud Nord chez environ 1 personne sur 39. Jupiter avance dans les signes tandis que les nœuds reculent : leurs mouvements se rapprochent de face, si bien que la conjonction ne dure pas, l’affaire de quelques mois, et son signe appartient à toutes les naissances de ces mois-là. La maison la rend personnelle. En maison 9, le développement peut passer par les études, les voyages ou l’enseignement ; en maison 10, par une position visible qui demande sans cesse de grandir ; en maison 4, par le foyer et la famille, où vous apprenez à offrir un soin plus large. Il faut pour cela une heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Je regarde le nœud moyen et le nœud vrai. Ils ne diffèrent que d’un degré ou deux au plus, s’accordent donc presque toujours, et près du bord de l’orbe je dis quand ils divergent ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)).
+Nœud moyen et nœud vrai entrent tous deux dans ma lecture : comme un degré ou deux au plus les séparent, ils s’accordent presque toujours, et près du bord de l’orbe je dis quand ils divergent ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)).
 
 Les autres aspects de Jupiter au Nœud Nord placent le sens autrement sur l’axe :
 
@@ -57,6 +57,6 @@ Quand Jupiter, dans un thème, tombe sur le Nœud Nord de l’autre, comme dans 
 
 ## En transit {#en-transit}
 
-[Nœud Nord en transit conjonction Jupiter du thème natal](/astrology/transiting-north-node-conjunct-natal-jupiter/) revient une fois par cycle nodal de 18,6 ans et dure un mois ou deux, puisque le nœud met environ 18 mois à traverser un signe. Si cette conjonction est dans votre thème, vous la retrouvez à chaque [retour nodal](/astrology/nodal-return/), vers 18 ans et demi, 37 et 56 ans ; à mi-chemin, à l’[inversion nodale](/astrology/nodal-reversal/), c’est le Nœud Sud qui passe sur votre Jupiter. Jupiter, de son côté, croise votre Nœud Nord de naissance lors de chacun de ses retours, une fois par douzaine d’années.
+[Nœud Nord en transit conjonction Jupiter du thème natal](/astrology/transiting-north-node-conjunct-natal-jupiter/) revient une fois par cycle nodal, soit tous les 18,6 ans, et tient un mois ou deux, le nœud passant quelque 18 mois dans chaque signe. Pour une naissance avec cette conjonction, elle revient à chaque [retour nodal](/astrology/nodal-return/), vers 18 ans et demi, 37 et 56 ans, et à mi-chemin, à l’[inversion nodale](/astrology/nodal-reversal/), c’est au tour du Nœud Sud de passer sur votre Jupiter. Jupiter, de son côté, croise votre Nœud Nord de naissance lors de chacun de ses retours, une fois par douzaine d’années.
 
 Je prends ces moments pour une météo, pas pour une prédiction : ils ramènent la question de la direction au premier plan et vous laissent la pratique.
