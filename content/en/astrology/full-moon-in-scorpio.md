@@ -27,7 +27,7 @@ faq:
   - q: "Is the full moon in Scorpio intense?"
     a: "It can feel that way: the Moon is in its fall in Scorpio, and feelings that have been held under tend to surface. But a full moon is a short monthly marker. In your chart it counts only within about a degree of a planet or angle, at either end, as a trigger for something already active."
   - q: "What should I do at the full moon in Scorpio?"
-    a: "Nothing is required. If you like to mark it, choose one thing you have kept under the surface and say it, gently, to yourself or to someone you trust. The Taurus side of the axis asks you to do it calmly, at your own pace."
+    a: "Nothing is required. If you like to mark it, notice what has surfaced before acting on it: Scorpio feelings run deep, and they are clearer after a night’s sleep. The Taurus side of the axis asks you to take your time, and to look after your body while you do."
 sources:
   - { title: "The Astro Study’s dates from the planets’ positions", note: "the full moons in Scorpio from 2026 to 2030, in UT" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the phases of the Moon" }
@@ -49,7 +49,7 @@ Between the two of 2027 falls the [new moon in Taurus](/astrology/new-moon-in-ta
 
 ## House by house {#house-by-house}
 
-Only a birth time shows which two houses it lights; without one, I'd be guessing ([what changes without a birth time](/blog/unknown-birth-time/)). My houses are Placidus: the Moon sits in the house holding its Scorpio degree and the Sun across from it. The two full moons of 2027 sit at opposite edges of Scorpio, so with any cusp inside the sign they fall in two different houses, a month apart.
+Only a birth time shows which two houses it lights; without one, I'd be guessing ([what changes without a birth time](/blog/unknown-birth-time/)). The Moon sits in the house holding its Scorpio degree, in the Placidus houses I draw, and the Sun across from it. The two full moons of 2027 sit at opposite edges of Scorpio, so with any cusp inside the sign they fall in two different houses, a month apart.
 
 1. **[1st house](/astrology/1st-house/):** Scorpio rising: feelings you usually guard show in your face, while a partner offers calm and steadiness.
 2. **[2nd house](/astrology/2nd-house/):** what you own and what you're afraid to lose, while shared resources ask for a simple, practical arrangement.

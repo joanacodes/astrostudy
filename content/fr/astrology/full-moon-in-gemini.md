@@ -39,7 +39,7 @@ La pleine lune en Gémeaux est la dernière pleine lune avant le solstice de dé
 
 Il y a [pleine lune](/astrology/full-moon/) quand la Lune fait face au Soleil, éclairée d’un bord à l’autre. Celle-ci place la Lune en [Gémeaux](/astrology/gemini/) et le Soleil au degré correspondant du [Sagittaire](/astrology/sagittarius/). La Lune porte à son comble le côté Gémeaux : les messages, les courses, les dizaines de questions d’un esprit qui veut savoir. En face, le Soleil demande ce que tout cela veut dire. L’axe Gémeaux–Sagittaire va du proche au lointain, et cette pleine lune révèle souvent où les deux se sont éloignés : beaucoup d’informations sans direction, ou une conviction ferme posée sur trop peu de faits. [Mercure](/astrology/mercury/) gouverne les Gémeaux et [Jupiter](/astrology/jupiter/) le Sagittaire : leurs maisons vous disent où se tient chaque moitié de cette conversation.
 
-Comme toute pleine lune, elle dure quelques jours et ne compte dans un thème que si le degré de la Lune ou du Soleil arrive à 1° environ de l’une de vos planètes ou de l’un de vos angles. Même alors, elle agit comme un déclencheur, dans une période qu’un transit ou une progression a déjà ouverte ; je ne la lis jamais comme une prédiction.
+Comme toute pleine lune, elle dure quelques jours et ne compte dans un thème que si le degré de la Lune ou du Soleil arrive à 1° environ de l’une de vos planètes ou de l’un de vos angles. Même alors, elle agit comme un déclencheur, dans une période que des mouvements plus lents, un transit ou une progression, ont déjà ouverte ; je ne la lis jamais comme une prédiction.
 
 La prochaine tombe le 24 novembre 2026 à 14 h 54 TU, à 2°20′ des Gémeaux. Ensuite :
 
@@ -69,6 +69,6 @@ Votre maison des Gémeaux accueille la Lune, votre maison du Sagittaire le Solei
 
 ## Ce qui aide {#ce-qui-aide}
 
-- **Vérifiez les deux degrés chaque année.** Comptez un degré de part et d’autre pour 2026 à 2028, et trois environ pour les éclipses de 2029 et 2030, au bout Gémeaux comme au bout Sagittaire.
+- **Vérifiez les deux degrés chaque année.** Comptez un degré de part et d’autre pour 2026 à 2028 ; pour les deux éclipses suivantes, élargissez à trois environ, au bout Gémeaux comme au bout Sagittaire.
 - **Écrivez.** Les Gémeaux pensent en mettant les choses en mots : notez les questions que cette pleine lune soulève dans sa maison, puis, de l’autre côté du thème, le but ou la conviction qu’elles servent.
 - **Regardez Mercure et Jupiter.** Leurs maisons montrent où les faits et le sens se rencontrent dans votre thème, ou se manquent.

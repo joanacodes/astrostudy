@@ -33,11 +33,11 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les phases de la Lune et les éclipses" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "le Sagittaire et son maître, Jupiter" }
 ---
-Chaque année, la dernière nouvelle lune avant le solstice de décembre tombe en Sagittaire : le Soleil et la Lune se rejoignent dans le signe de l’archer pendant que les nuits de l’hémisphère nord s’allongent encore. Elle lance un mois tourné vers plus loin : une idée, un voyage, une question qui mérite qu’on la suive.
+Chaque année, la dernière nouvelle lune avant le solstice de décembre tombe en Sagittaire : c’est dans le signe de l’archer que le Soleil et la Lune se retrouvent, pendant que les nuits de l’hémisphère nord s’allongent encore. Elle lance un mois tourné vers plus loin : une idée, un voyage, une question qui mérite qu’on la suive.
 
 ## Ce qu’elle apporte {#ce-qu-elle-apporte}
 
-Une [nouvelle lune](/astrology/new-moon/) réunit le Soleil et la Lune au même degré, la Lune invisible, les phases du mois sur le point de commencer. Le [Sagittaire](/astrology/sagittarius/) est un feu mutable : il avance à l’enthousiasme et s’adapte en chemin, si bien que ce départ regarde vers l’extérieur et vers l’avant. Le mois s’ouvre volontiers sur une question de sens plutôt que sur une tâche : ce que vous croyez, où vous aimeriez aller, ce que vous voulez apprendre ensuite, et pourquoi. Son maître est [Jupiter](/astrology/jupiter/), la planète qui élargit et donne du sens : la maison de Jupiter dans votre thème montre où se dirige un commencement du Sagittaire.
+À la [nouvelle lune](/astrology/new-moon/), le Soleil et la Lune se retrouvent au même degré, la Lune invisible, les phases du mois sur le point de commencer. Le [Sagittaire](/astrology/sagittarius/) est un feu mutable : il avance à l’enthousiasme et s’adapte en chemin, si bien que ce départ regarde vers l’extérieur et vers l’avant. Le mois s’ouvre volontiers sur une question de sens plutôt que sur une tâche : ce que vous croyez, où vous aimeriez aller, ce que vous voulez apprendre ensuite, et pourquoi. Son maître est [Jupiter](/astrology/jupiter/), la planète qui élargit et donne du sens : la maison de Jupiter dans votre thème montre où se dirige un commencement du Sagittaire.
 
 Je n’y lis pas une promesse de voyage ni de chance. C’est un repère bref, qui ne compte dans un thème que s’il tombe sur l’un de vos points natals, à un degré près, et alors comme une étincelle dans une période déjà ouverte par quelque chose de plus lent : transits, progressions, arcs solaires, éclipses. Sans cela, c’est la météo d’un mois.
 
@@ -49,7 +49,7 @@ Les dates, en temps universel :
 - **5 décembre 2029**, à 13°45′ : une [éclipse solaire](/astrology/solar-eclipses/) partielle.
 - **25 novembre 2030**, à 3°02′ : une éclipse solaire totale.
 
-Ces deux dernières font partie d’une série d’éclipses sur l’axe Gémeaux–Sagittaire ([éclipse en Sagittaire](/astrology/eclipse-in-sagittarius/)). Une éclipse pèse plus qu’une nouvelle lune ordinaire : je la fais compter à 3° environ d’un point natal, à l’un ou l’autre bout de l’axe, lue à travers ce point et sa maison, et jamais comme un présage.
+Ces deux dernières font partie d’une série d’éclipses sur l’axe Gémeaux–Sagittaire ([éclipse en Sagittaire](/astrology/eclipse-in-sagittarius/)). Une éclipse pèse plus qu’une nouvelle lune ordinaire : son orbe, pour moi, est d’environ 3°, et l’un ou l’autre bout de l’axe peut rencontrer un point natal ; je la lis à travers ce point et sa maison, jamais comme un présage.
 
 Deux semaines avant ou après, le Soleil en Sagittaire, tombe la [pleine lune en Gémeaux](/astrology/full-moon-in-gemini/). En décembre 2029, les deux sont des éclipses, à quinze jours d’écart : la solaire ici le 5, une éclipse totale de Lune en Gémeaux le 20. La [nouvelle lune en Scorpion](/astrology/new-moon-in-scorpio/) vient un mois avant celle-ci, la [nouvelle lune en Capricorne](/astrology/new-moon-in-capricorn/) un mois après.
 

@@ -66,6 +66,6 @@ The Moon lands in the house holding its Leo degree, the Sun across the chart in 
 
 ## What helps {#what-helps}
 
-- **Find the degree at both ends.** A planet or angle within a degree of the positions above, in Leo or at the same degree of Aquarius, is the only place this full moon really lands.
+- **Find the degree at both ends.** Anything of yours, planet or angle, sitting within a degree of the positions above, in Leo or at the same degree of Aquarius: that is the only place this full moon really lands.
 - **Give each side its due.** Something this month that's yours to be proud of, and something you do with or for other people.
 - **Read the three rulers together.** The Sun's house shows where you need to shine; the houses of Uranus and Saturn, where you need to belong and on what terms.

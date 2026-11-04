@@ -42,7 +42,7 @@ Tard dans l’année, pendant que le Soleil traverse le Scorpion, la Lune devien
 
 L’axe entre les deux signes va du *mien* au *nôtre*. Le Taureau tient à ce qui a de la valeur à ses yeux ; le Scorpion, où se trouve le Soleil, demande ce que vous partagez, ce que vous devez, et ce que vous acceptez de lâcher. La pleine lune montre souvent où les deux tirent en sens contraire : un confort gardé au prix de la proximité, ou une intensité qui n’a plus laissé de place au repos. [Vénus](/astrology/venus/) gouverne le Taureau. Le Scorpion a deux maîtres, Pluton et Mars, et je lis les deux.
 
-Prenez-la pour un repère, pas pour un message. Une pleine lune n’entre dans une lecture que si sa Lune ou son Soleil tombe à un degré environ d’une planète ou d’un angle de votre thème, et même alors elle porte à son comble ce qu’un transit ou une progression a déjà mis en route. Elle n’annonce aucun événement.
+Prenez-la pour un repère, pas pour un message. Une pleine lune n’entre dans une lecture que si sa Lune ou son Soleil arrive à un degré environ de l’un de vos points natals, et même alors elle porte à son comble ce qu’un transit ou une progression a déjà mis en route. Elle n’annonce aucun événement.
 
 La plus récente, le 26 octobre 2026, est tombée à 2°46′ du Taureau. La prochaine a lieu le 14 novembre 2027 à 3 h 26 TU, à 21°31′, puis le 2 novembre 2028 à 10°29′, le 21 novembre 2029 à 29°07′, sur le dernier degré du Taureau, et le 10 novembre 2030 à 17°46′. Aucune n’est une éclipse.
 
@@ -67,6 +67,6 @@ Cette pleine lune éclaire une paire de maisons opposées : la Lune dans celle 
 
 ## Ce qui aide {#ce-qui-aide}
 
-Cherchez dans votre thème une planète ou un angle à un degré de 21°31′ Taureau ou Scorpion pour 2027, puis de 10°29′, 29°07′ et 17°46′ pour les trois années suivantes. S’il y en a un, demandez-vous quel transit ou quelle progression y travaille déjà ; sinon, prenez la pleine lune comme la météo d’un mois dans deux maisons.
+Repérez, dans votre thème, une planète ou un angle situé à un degré de 21°31′ Taureau ou Scorpion pour 2027, puis de 10°29′, 29°07′ et 17°46′ pour les trois années suivantes. S’il y en a un, demandez-vous quel transit ou quelle progression y travaille déjà ; sinon, prenez la pleine lune comme la météo d’un mois dans deux maisons.
 
 Faites ensuite deux listes courtes. Dans la maison du Taureau, ce que vous voulez garder ; dans celle du Scorpion, ce que vous acceptez de partager ou de laisser partir. Les maisons de Vénus, de Pluton et de Mars vous diront où ces décisions se prennent vraiment. Le Taureau aime décider lentement, et une pleine lune n’exige pas de réponse avant le matin.

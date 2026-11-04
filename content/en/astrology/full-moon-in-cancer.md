@@ -64,6 +64,6 @@ Your chart's Cancer house takes the Moon and its Capricorn house the Sun. Both h
 
 ## What helps {#what-helps}
 
-Start with the degrees: a planet or angle within one of each position above, at the Cancer end or the Capricorn end, or within about three for the eclipses of 2028. Ask what is already active there.
+Start with the degrees: a planet or angle within one of each position above, at the Cancer end or the Capricorn end, or about three degrees either side for the two eclipses of 2028. Ask what is already active there.
 
 Then look at your Moon and your Saturn: the Moon shows how you look after yourself, Saturn how you carry your responsibilities, and this full moon asks them to make room for each other. If you can, give each end of the axis something real this month: an evening that belongs to home, and one clear step at work.

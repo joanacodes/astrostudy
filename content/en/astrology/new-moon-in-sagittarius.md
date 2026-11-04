@@ -36,7 +36,7 @@ Every year, the last new moon before the December solstice falls in Sagittarius:
 
 ## What it brings {#what-it-brings}
 
-A [new moon](/astrology/new-moon/) joins the Sun and Moon at one degree, the Moon unseen and the month's phases about to begin. [Sagittarius](/astrology/sagittarius/) is mutable fire: it runs on enthusiasm and adapts as it goes, so this start looks outward and ahead. The month tends to open on a question of meaning rather than a task: what you believe, where you'd like to go, what you want to learn next and why. Its ruler is [Jupiter](/astrology/jupiter/), the planet that broadens and makes sense of things, and Jupiter's house in your chart is where a Sagittarius beginning heads.
+A [new moon](/astrology/new-moon/) brings the Sun and Moon to one degree, the Moon unseen and the month's phases about to begin. [Sagittarius](/astrology/sagittarius/) is mutable fire: it runs on enthusiasm and adapts as it goes, so this start looks outward and ahead. The month tends to open on a question of meaning rather than a task: what you believe, where you'd like to go, what you want to learn next and why. Its ruler is [Jupiter](/astrology/jupiter/), the planet that broadens and makes sense of things, and Jupiter's house in your chart is where a Sagittarius beginning heads.
 
 I don't read it as a promise of travel or luck. It's a brief marker, and it matters in a chart only when it lands on one of your natal points, give or take a degree, and then as a spark in a period already opened by something slower: transits, progressions, solar arcs, eclipses. Without that, it's a month's weather.
 
@@ -48,7 +48,7 @@ The dates, in Universal Time:
 - **5 December 2029**, at 13°45′: a partial [solar eclipse](/astrology/solar-eclipses/).
 - **25 November 2030**, at 3°02′: a total solar eclipse.
 
-Those last two belong to a run of eclipses on the Gemini–Sagittarius axis ([eclipse in Sagittarius](/astrology/eclipse-in-sagittarius/)). An eclipse weighs more than an ordinary new moon: I let it count within about 3° of a natal point, at either end of the axis, read through that point and its house, and never as an omen.
+Those last two belong to a run of eclipses on the Gemini–Sagittarius axis ([eclipse in Sagittarius](/astrology/eclipse-in-sagittarius/)). An eclipse weighs more than an ordinary new moon: its orb, for me, is about 3°, and either end of the axis can meet a natal point; I read it through that point and its house, never as an omen.
 
 Two weeks either side, with the Sun in Sagittarius, falls the [full moon in Gemini](/astrology/full-moon-in-gemini/). In December 2029 both are eclipses, a fortnight apart: the solar one here on the 5th, a total lunar eclipse in Gemini on the 20th. The [new moon in Scorpio](/astrology/new-moon-in-scorpio/) comes a month before this one, the [new moon in Capricorn](/astrology/new-moon-in-capricorn/) a month after.
 

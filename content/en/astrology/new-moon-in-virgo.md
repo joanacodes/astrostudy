@@ -32,7 +32,7 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the phases of the Moon" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Virgo and its ruler, Mercury" }
 ---
-Once a year, while the Sun crosses Virgo, the Moon catches up with it there and vanishes from the night sky. That meeting is the new moon in Virgo: a lunar month starting in the sign of craft and sorting, and a fresh page in the house where Virgo sits in your chart.
+Once a year, while the Sun crosses Virgo, the Moon catches up with it there and vanishes from the night sky. That meeting is the new moon in Virgo: a lunar month starting in the sign of craft and sorting, and a fresh page in whichever house of your chart Virgo occupies.
 
 ## What it brings {#what-it-brings}
 
@@ -40,7 +40,7 @@ A [new moon](/astrology/new-moon/) is the moment the Moon passes the Sun: the tw
 
 A new moon is a short monthly marker. It counts in a chart only within about 1° of a natal planet or angle, and even then I read it as a trigger: a few days when something already active, by transit, progression, solar arc or eclipse, comes into focus. On its own, it's weather, not a forecast.
 
-The most recent fell on 11 September 2026, at 18°26′ Virgo. The next is on 31 August 2027 at 17:41 UT, at 8°06′, then 18 September 2028 at 26°21′, 8 September 2029 at 16°04′ and 28 August 2030 at 5°41′, none of them an eclipse. Twelve lunar months are about eleven days shorter than a year, so each lands about ten degrees earlier than the last, until a year of thirteen sends it back late in the sign, as in 2028.
+The most recent fell on 11 September 2026, at 18°26′ Virgo. The next is on 31 August 2027 at 17:41 UT, at 8°06′, then 18 September 2028 at 26°21′, 8 September 2029 at 16°04′ and 28 August 2030 at 5°41′, none of them an eclipse. A year holds twelve lunar months and about eleven days more, so each lands about ten degrees earlier than the last, until a year of thirteen sends it back late in the sign, as in 2028.
 
 It comes a month after the [new moon in Leo](/astrology/new-moon-in-leo/) and a month before the [new moon in Libra](/astrology/new-moon-in-libra/). Two weeks before or after it, with the Sun still in Virgo, comes the [full moon in Pisces](/astrology/full-moon-in-pisces/).
 

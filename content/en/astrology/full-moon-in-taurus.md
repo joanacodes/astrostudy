@@ -41,7 +41,7 @@ At a [full moon](/astrology/full-moon/), the Moon stands opposite the Sun and sh
 
 The axis between the two signs runs from *mine* to *ours*. Taurus holds on to what it values; Scorpio, where the Sun is, asks what you share, what you owe, and what you're ready to release. The full moon tends to show where those pull against each other: comfort kept at the cost of closeness, or intensity that has left no room for rest. [Venus](/astrology/venus/) rules Taurus. Scorpio has two rulers, Pluto and Mars, and I read both.
 
-Treat it as a marker, not a message. A full moon enters a reading only when its Moon or its Sun falls within about a degree of a planet or angle in your chart, and even then it brings to a head what a transit or a progression has already set going. It forecasts nothing on its own.
+Treat it as a marker, not a message. A full moon enters a reading only when its Moon or its Sun comes within about a degree of one of your planets or angles, and even then it brings to a head what a transit or a progression has already set going. It forecasts nothing on its own.
 
 The most recent, on 26 October 2026, fell at 2°46′ Taurus. The next is on 14 November 2027 at 03:26 UT, at 21°31′, then 2 November 2028 at 10°29′, 21 November 2029 at 29°07′, Taurus's last degree, and 10 November 2030 at 17°46′. None is an eclipse.
 

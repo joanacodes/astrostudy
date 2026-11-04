@@ -38,7 +38,7 @@ The full moon in Gemini is the last full moon before the December solstice: oppo
 
 A [full moon](/astrology/full-moon/) comes when the Moon is opposite the Sun, lit from edge to edge. This one puts the Moon in [Gemini](/astrology/gemini/) and the Sun on the matching degree of [Sagittarius](/astrology/sagittarius/). The Moon brings Gemini's side to a peak: the messages and errands, the dozen open questions of a mind that wants to know. Across the axis, the Sun asks what it all means. The Gemini–Sagittarius axis runs from the near to the far, and this full moon often reveals where the two have drifted apart: plenty of information and no direction, or a firm belief with too few facts under it. [Mercury](/astrology/mercury/) rules Gemini and [Jupiter](/astrology/jupiter/) Sagittarius, and their houses tell you where each half of that conversation happens.
 
-Like any full moon, it lasts a few days and matters in a chart only when the Moon's or the Sun's degree comes within about 1° of one of your planets or angles. Even then it works as a trigger in a period that a transit or a progression has already opened; I never read it as a forecast.
+Like any full moon, it lasts a few days and matters in a chart only when the Moon's or the Sun's degree comes within about 1° of one of your planets or angles. Even then it works as a trigger in a period that slower movements have already opened, a transit perhaps or a progression; I never read it as a forecast.
 
 The next falls on 24 November 2026 at 14:54 UT, at 2°20′ Gemini. Then:
 
@@ -68,6 +68,6 @@ Your Gemini house holds the Moon, your Sagittarius house the Sun, and finding th
 
 ## What helps {#what-helps}
 
-- **Check both degrees each year.** Allow a degree either side for 2026 to 2028, and about three for the eclipses of 2029 and 2030, at the Gemini end and the Sagittarius end.
+- **Check both degrees each year.** Allow a degree either side for 2026 to 2028; for the two eclipses that follow, widen it to about three, at the Gemini end and the Sagittarius end.
 - **Write it down.** Gemini thinks by putting things into words: list the questions this full moon raises in its house, then, across the chart, the one aim or belief they serve.
 - **Look at Mercury and Jupiter.** Their houses show where facts and meaning meet in your chart, or miss each other.

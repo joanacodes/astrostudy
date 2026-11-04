@@ -36,11 +36,11 @@ Capricorn begins at the December solstice, which makes this the first new moon o
 
 ## What it brings {#what-it-brings}
 
-At a [new moon](/astrology/new-moon/), the Moon sits on the Sun's degree and the lunar month starts counting again. [Capricorn](/astrology/capricorn/) is cardinal earth: it starts things, and it starts them on solid ground. Its month usually opens on a responsibility taken on, a plan with milestones, or a structure finally put under something that has been wobbling. Its ruler is [Saturn](/astrology/saturn/), so where Saturn sits in your chart shows where a Capricorn beginning wants to build.
+The Moon sits on the Sun's degree at a [new moon](/astrology/new-moon/), and the lunar month starts counting again. [Capricorn](/astrology/capricorn/) is cardinal earth: it starts things, and it starts them on solid ground. Its month usually opens on a responsibility taken on, a plan with milestones, or a structure finally put under something that has been wobbling. Its ruler is [Saturn](/astrology/saturn/), so where Saturn sits in your chart shows where a Capricorn beginning wants to build.
 
 Tradition puts the Moon in its detriment in Capricorn, the sign opposite its home in Cancer. I read that as feeling expressed through doing: care shown by turning up, needs postponed until the work is done. At this new moon, the month can start with duty before comfort, and it helps to notice when that's a choice and when it's a habit.
 
-Capricorn would want the small print: a new moon is a monthly marker of a few days. It enters a reading only when it sits on a natal planet or angle, within a degree or so, and only to sharpen something the slower methods have already set moving, whether a transit, a progression, an eclipse or a solar arc. It sets nothing going on its own, and it forecasts nothing.
+Capricorn would want the small print: a new moon is a monthly marker of a few days. It enters a reading only when it sits on one of your natal planets or angles, give or take a degree, and only to sharpen something the slower methods have already set moving, whether a transit, a progression, an eclipse or a solar arc. It sets nothing going on its own, and it forecasts nothing.
 
 Because it straddles New Year, the calendar treats it unevenly. The most recent fell on 18 January 2026 at 28°44′. Then come two in 2027, on 7 January at 20:25 UT (17°18′) and on 27 December (5°50′); none in 2028; one on 14 January 2029 (24°50′), which is also a partial [solar eclipse](/astrology/solar-eclipses/); and two again in 2030, on 4 January (13°47′) and 24 December (2°57′).
 

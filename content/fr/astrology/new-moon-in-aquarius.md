@@ -64,7 +64,7 @@ Sans heure de naissance, il n’y a pas de maisons à lire ([ce qui change sans 
 
 ## Ce qui aide {#ce-qui-aide}
 
-- **Pour les éclipses, élargissez le filet.** Une planète ou un angle à 3° environ de 28°50′, 17°38′ ou 6°11′, en Verseau ou en Lion, rencontre l’une d’elles. Demandez-vous ce qui est déjà actif à cet endroit : l’éclipse souligne, elle ne décide pas.
+- **Pour les éclipses, élargissez le filet.** Une planète ou un angle à 3° environ de 28°50′, 17°38′ ou 6°11′, en Verseau ou en Lion, rencontre l’une d’elles. Voyez ce qui travaille déjà là : l’éclipse souligne, elle ne décide pas.
 - **Pour 2029 et 2030, tenez-vous-en à un degré.** Ce sont des nouvelles lunes ordinaires.
 - **Lisez les deux maîtres ensemble.** Uranus montre où vous voulez que les choses changent, Saturne ce qu’il faudra pour que le changement dure.
 - **Commencez à plusieurs.** Le Verseau démarre mieux avec d’autres, à des conditions qui laissent chacun libre.
