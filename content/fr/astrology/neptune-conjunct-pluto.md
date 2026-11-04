@@ -34,7 +34,7 @@ Neptune conjonction Pluton est un aspect absent du thème de toutes les personne
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Neptune](/astrology/neptune/) est la part du thème qui imagine, qui ressent avec les autres et qui assouplit les frontières inutiles : l’inspiration, la compassion, le sentiment d’appartenir à quelque chose de plus grand. [Pluton](/astrology/pluto/) est la part qui transforme : celle qui fait le ménage dans ce qui a fait son temps et renouvelle à la racine ce qui reste. Dans une [conjonction](/astrology/conjunction/), deux fonctions agissent comme une seule, chacune gardant sa nature : cette rencontre réunirait la vision et le renouveau en un même mouvement.
+[Neptune](/astrology/neptune/) est la part du thème qui imagine, qui ressent avec les autres et qui assouplit les frontières inutiles : l’inspiration, la compassion, le sentiment d’appartenir à quelque chose de plus grand. [Pluton](/astrology/pluto/) est la part qui transforme : celle qui fait le ménage dans ce qui a fait son temps et renouvelle à la racine ce qui reste. Une [conjonction](/astrology/conjunction/) fond deux fonctions en un seul geste sans effacer aucune des deux : cette rencontre réunirait la vision et le renouveau en un même mouvement.
 
 Concrètement, ce que veut Neptune, c’est quelque chose de meilleur ; ce que veut Pluton, c’est déterrer ce qui doit partir. Ensemble, le rêve voudrait aller jusqu’au fond, et la fouille voudrait une vision à suivre. J’y lirais une envie de changement imaginative, voire spirituelle, en son cœur : jamais une destruction, jamais une fuite.
 
@@ -42,7 +42,7 @@ Neptune et Pluton comptent parmi les planètes les plus lentes d’un thème : 
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Aucune personne née entre 1930 et 2009 n’a Neptune à moins de 6° d’une conjonction avec Pluton : mon décompte ne trouve aucune naissance avec cet aspect sur ces quatre-vingts ans, qui couvrent presque tous les adultes en vie aujourd’hui. Pendant la plus grande partie de cette période, les deux planètes se tenaient à environ 60° l’une de l’autre, en sextile ([Neptune sextile Pluton](/astrology/neptune-sextile-pluto/)), un aspect que portent environ 7 personnes sur 10 nées alors, Neptune gardant toujours l’avance. Si vous cherchez cette paire dans votre thème, regardez donc l’angle que vous avez réellement : le plus souvent le sextile, sinon aucun aspect majeur entre les deux planètes.
+Mon décompte ne trouve pas une seule naissance avec Neptune à moins de 6° de Pluton entre 1930 et 2009, quatre-vingts ans qui couvrent presque tous les adultes en vie aujourd’hui. Pendant la plus grande partie de cette période, les deux planètes se tenaient à environ 60° l’une de l’autre, en sextile ([Neptune sextile Pluton](/astrology/neptune-sextile-pluto/)), un aspect que portent environ 7 personnes sur 10 nées alors, Neptune gardant toujours l’avance. Si vous cherchez cette paire dans votre thème, regardez donc l’angle que vous avez réellement : le plus souvent le sextile, sinon aucun aspect majeur entre les deux planètes.
 
 Vous pouvez tout de même rencontrer la conjonction en dehors de votre propre thème. Entre deux personnes nées à bien des années d’écart, Neptune chez l’une peut tomber sur Pluton chez l’autre : [Neptune conjonction Pluton en synastrie](/astrology/neptune-conjunct-pluto-synastry/) relie les idéaux de l’une à la profondeur de l’autre, un mélange intense qui agit des deux côtés, et que je ne lis qu’avec le consentement des deux ([synastrie et consentement](/blog/synastry-behind-their-back/)).
 

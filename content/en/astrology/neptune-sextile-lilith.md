@@ -1,13 +1,13 @@
 ---
 title: "Neptune sextile Lilith"
 h1: "Neptune sextile Lilith in a birth chart"
-description: "Neptune sextile Lilith in a birth chart: imagination as a way out for the part of you that wouldn't be tamed. How it shows, how common it is, its transits."
+description: "Neptune sextile Lilith in a birth chart: imagination as a way out for the part of you that wouldn't be tamed, why it is so common, and its transits."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 341
 glyph: "♆⚹⚸"
-definition: "Neptune sextile Lilith means Neptune and the mean Black Moon Lilith about 60° apart, an aspect about 1 person in 16 is born with. In a chart, imagination offers the part of you that refused to be tamed a gentle way into the open, through art, dreams or belief, whenever you choose to take it."
+definition: "Neptune sextile Lilith is an angle of about 60° between Neptune and the mean Black Moon Lilith, found in about 1 person in 16. In a chart, imagination offers your untamed side a gentle way into the open, through art, dreams or belief, whenever you choose to take it."
 facts:
   - { k: "Bodies", v: "Neptune ♆ and Black Moon Lilith ⚸" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -17,10 +17,10 @@ facts:
   - { k: "Lilith’s round", v: "About 8 years and 10 months, never retrograde" }
 related: ["/astrology/neptune", "/astrology/black-moon-lilith", "/astrology/sextile", "/blog/saturn-chiron-lilith", "/astrology/neptune-sextile-lilith-synastry"]
 faq:
-  - q: "What does Neptune sextile Lilith mean in a natal chart?"
+  - q: "What does it mean to be born with Neptune sextile Lilith?"
     a: "Neptune and the mean Black Moon Lilith were about 60° apart when you were born. What you were told to keep quiet has an easy way out through imagination: a song, a story, a role, a dream told aloud. The opening is real, but it works only when you use it."
   - q: "Why is Neptune sextile Lilith twice as common as the conjunction?"
-    a: "Because a sextile can form on either side. Lilith laps Neptune roughly every nine years and passes 60° from it twice on each round, once on the way towards it and once on the way past, for a few months each time. About 1 person in 16 born between 1930 and 2009 has it, within 6°."
+    a: "Because a sextile can form on either side. Lilith laps Neptune roughly every nine years and passes 60° from it twice on each round, once on the way towards it and once on the way past, each for a few months. About 1 person in 16 born between 1930 and 2009 has it, within 6°."
   - q: "How can I make use of Neptune sextile Lilith?"
     a: "Give the hidden part a form rather than a fight. Write it, paint it, sing it, play it, or give it a place in a practice that is yours. The sextile doesn’t push; it waits. I read an unused sextile as a door left shut, never as something missing in you."
 sources:
@@ -38,20 +38,20 @@ In plain words, what you were told to keep quiet can come out sideways, and safe
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 1 person in 16 born between 1930 and 2009 has Neptune within 6° of a sextile to the mean Lilith, about twice as many as have the conjunction. That's because Lilith, lapping Neptune roughly every nine years, passes 60° from it twice on each round, once on the way towards it and once on the way past. Each window lasts a few months, so the sextile belongs to the people born in those months, not to a whole year.
+Counted with the mean Lilith and within 6°, about 1 person in 16 born from 1930 to 2009 has this sextile, about twice as many as have the conjunction. That's because Lilith, lapping Neptune roughly every nine years, passes 60° from it twice on each round, once on the way towards it and once on the way past. Each window lasts a few months, so the sextile is shared only by people born within those months, not by a whole year.
 
 The two houses it joins, two signs apart in most charts, say where the opening is. Lilith in the 7th with Neptune in the 9th, for instance, might hold a refusal to be shaped by a partner, and give it room through study, travel or a belief of your own. Both bodies move slowly enough that the aspect rarely depends on the birth time; the houses always do ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Lilith's sign and house were among the three placements that held far more often in my notebook, 75 to 90% of the time; aspects weren't part of that count ([the three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)).
+In my notebook, Lilith's sign and house held 75 to 90% of the time, one of the three placements that stood out; aspects weren't part of that count ([the three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)).
 
-The pair's other aspects:
+The four other ways Neptune and Lilith meet:
 
 - **[Neptune conjunct Lilith](/astrology/neptune-conjunct-lilith/):** the hidden part and the imagination fused into one channel.
 - **[Neptune square Lilith](/astrology/neptune-square-lilith/):** softness and refusal at odds, a friction that teaches a kind "no".
 - **[Neptune trine Lilith](/astrology/neptune-trine-lilith/):** the wider, easier angle, where the two flow without being asked.
 - **[Neptune opposite Lilith](/astrology/neptune-opposite-lilith/):** the two at either end of the chart, met through someone else.
 
-Between two charts, [Neptune sextile Lilith in synastry](/astrology/neptune-sextile-lilith-synastry/) can feel like being imagined kindly: one person's dreaming gives the other's hidden side permission to show. I read it from both sides.
+Between two charts, [Neptune sextile Lilith in synastry](/astrology/neptune-sextile-lilith-synastry/) can feel like being imagined kindly: one person's dreaming gives the other's hidden side permission to show, gently and without exposure.
 
 ## In transits {#in-transits}
 

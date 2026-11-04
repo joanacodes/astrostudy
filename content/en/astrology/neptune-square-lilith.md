@@ -1,13 +1,13 @@
 ---
 title: "Neptune square Lilith"
 h1: "Neptune square Lilith in a birth chart"
-description: "Neptune square Lilith in a birth chart: the wish to please against the refusal to be tamed, and the kind no it teaches. How common it is, its transits."
+description: "Neptune square Lilith in a birth chart: the wish to please against the refusal to be tamed, and the kind no it teaches you, with its count and transits."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 342
 glyph: "♆□⚸"
-definition: "Neptune square Lilith means Neptune and the mean Black Moon Lilith about 90° apart, an aspect about 1 person in 15 is born with. In a chart, the wish to soothe, merge and please rubs against the part of you that refuses to be tamed, a friction that teaches you to be kind without giving yourself away."
+definition: "With Neptune square Lilith, Neptune and the mean Black Moon Lilith stand about 90° apart, as they do for about 1 person in 15. In a chart, the wish to soothe, merge and please rubs against the part of you that refuses to be tamed, a friction that teaches you to be kind without giving yourself away."
 facts:
   - { k: "Bodies", v: "Neptune ♆ and Black Moon Lilith ⚸" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -22,7 +22,7 @@ faq:
   - q: "What does Neptune square Lilith feel like?"
     a: "Often like giving way too easily and then, later and all at once, refusing; or keeping a dream of someone your instinct has already stopped believing. Kindness can feel like losing yourself, and holding firm can feel unkind. The square asks you to see that neither is the whole truth."
   - q: "How many people are born with Neptune square Lilith?"
-    a: "About 1 person in 15 born between 1930 and 2009, counting within 6° with the mean Lilith. That is about twice the conjunction’s figure, because a square forms on both sides: Lilith brings two of them on each of its rounds of about 8 years and 10 months."
+    a: "Within 6° of the mean Lilith, about 1 person in 15 born from 1930 to 2009. That is about twice the conjunction’s figure, because a square forms on both sides: Lilith brings two of them on each of its rounds of about 8 years and 10 months."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the square, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people are born with it, with the mean Lilith" }
@@ -38,23 +38,23 @@ In plain words, you may give way too easily and then, later and all at once, ref
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 1 person in 15 born between 1930 and 2009 has Neptune within 6° of a square to the mean Lilith, roughly twice as many as have the conjunction. A square forms on both sides of each meeting, and Lilith, going round in about 8 years and 10 months while Neptune barely moves, brings two of them every round, a few months each.
+The square turns up in about 1 person in 15 born between 1930 and 2009, within 6° of the mean Lilith, roughly twice as often as the conjunction. A square forms on both sides of each meeting, and Lilith, circling the zodiac in under nine years as Neptune barely moves, brings two of them every time round, a few months each.
 
-The houses show the two areas that keep interrupting each other, usually three apart. With Neptune in the 4th and Lilith in the 7th, say, the wish for a peaceful home might keep running into a refusal to be shaped by a partner. The square itself rarely depends on the birth time, since both bodies move slowly; the houses can't be found without one ([what changes without a birth time](/blog/unknown-birth-time/)).
+The houses show the two areas that keep interrupting each other, usually three apart. With Neptune in the 4th and Lilith in the 7th, say, the wish for a peaceful home might keep running into a refusal to let a partner decide who you are. The square itself rarely depends on the birth time, since both bodies move slowly; the houses can't be found without one ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 I read this square as I read every hard angle, with soft words and a clear meaning ([how I read](/how-i-read/)). There's nothing in it to fear, and a good deal to practise.
 
-The pair's other aspects:
+What the pair does at its other angles:
 
 - **[Neptune conjunct Lilith](/astrology/neptune-conjunct-lilith/):** no friction at all; the refusal and the dream share one voice.
 - **[Neptune sextile Lilith](/astrology/neptune-sextile-lilith/):** a quiet door between them instead of a rub.
 - **[Neptune trine Lilith](/astrology/neptune-trine-lilith/):** the two in easy agreement, imagination carrying the wild part along.
 - **[Neptune opposite Lilith](/astrology/neptune-opposite-lilith/):** the two at full stretch, often lived through a partner or a friend.
 
-Between two charts, [Neptune square Lilith in synastry](/astrology/neptune-square-lilith-synastry/) can mean one person's ideal of the other keeps missing the other's real, untamed side, and the other bristles at being idealised. Saying so out loud helps; I read it from both sides.
+Between two charts, [Neptune square Lilith in synastry](/astrology/neptune-square-lilith-synastry/) can mean one person's ideal of the other keeps missing the other's real, untamed side, and the other bristles at being idealised. Saying so out loud helps more than either person expects.
 
 ## In transits {#in-transits}
 
 In [transits](/astrology/transits/), the moving Lilith squares your natal Neptune twice in each of its rounds, for a couple of weeks at a time, and never doubles back, since mean Lilith doesn't turn retrograde. If you were born with the square, each time Lilith comes home to its birth degree it squares your Neptune again, exactly as it did then. Transiting Neptune squares natal Lilith far more slowly, lingering near the point for a year or more.
 
-Weather, not a forecast: a few weeks when giving way and holding your ground are both on the table. Nothing in them is decided in advance.
+Think of it as weather, not a forecast: a few weeks when giving way and holding your ground are both on the table. Nothing in them is decided in advance.

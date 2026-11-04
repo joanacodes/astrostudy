@@ -30,7 +30,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes le portent, et les mois où il était dans l’orbe" }
   - { title: "NASA — Neptune facts", url: "https://science.nasa.gov/neptune/neptune-facts/", note: "l’orbite de Neptune, environ 165 ans" }
 ---
-Neptune carré Chiron oppose la part de vous qui espère que les choses vont fondre à celle qui sait que certaines doivent être contournées. C’est une friction, et une friction féconde. Trois groupes sont nés avec ce carré sur les quatre-vingts ans comptés, le plus grand au milieu des années 1930.
+Neptune carré Chiron oppose la part de vous qui espère que les choses vont fondre à celle qui sait que certaines doivent être contournées. C’est une friction, et une friction féconde. Trois groupes portent ce carré parmi les naissances de 1930 à 2009, le plus grand au milieu des années 1930.
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
@@ -40,25 +40,25 @@ Concrètement, vous oscillez peut-être entre l’espoir qu’une difficulté se
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 13 née entre 1930 et 2009 a Neptune à moins de 6° d’un carré à Chiron, en trois groupes. Le plus grand est né sur quatre périodes entre juillet 1933 et mars 1938, la plus longue d’avril 1935 à mai 1937 ; le suivant sur trois périodes entre février 1953 et février 1956 ; le dernier d’octobre 1996 à septembre 1997. Le premier groupe précède la rencontre de la paire en 1944–45, le deuxième la suit : ce sont les deux côtés du carré, Chiron un quart de zodiaque derrière Neptune, puis un quart devant.
+Un carré de Neptune et de Chiron, à 6° près, figure dans le thème d’environ 1 personne sur 13 née de 1930 à 2009, en trois groupes. Le plus grand est né sur quatre périodes entre juillet 1933 et mars 1938, la plus longue d’avril 1935 à mai 1937 ; le suivant sur trois périodes entre février 1953 et février 1956 ; le dernier d’octobre 1996 à septembre 1997. Le premier groupe précède la rencontre de la paire en 1944–45, le deuxième la suit : ce sont les deux côtés du carré, Chiron un quart de zodiaque derrière Neptune, puis un quart devant.
 
-Partagé par toutes les personnes nées pendant ces périodes, le carré parle d’une époque plus que d’une personne, jusqu’à ce que les maisons entrent en jeu. Il relie en général des maisons distantes de trois, deux domaines de vie qui s’interrompent sans cesse : Chiron en maison 2 avec Neptune en maison 5, par exemple, pourrait opposer un vieux doute sur votre valeur au rêve d’une liberté créative. Les maisons demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Partagé par toutes les personnes nées pendant ces périodes, le carré parle d’une époque plus que d’une personne, jusqu’à ce que les maisons entrent en jeu. Il relie en général des maisons distantes de trois, deux domaines de vie qui s’interrompent sans cesse : Chiron en maison 2 avec Neptune en maison 5, par exemple, pourrait opposer un vieux doute sur votre valeur au rêve d’une liberté créative. C’est l’heure de naissance qui dit quelles maisons sont en jeu ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Chiron, le corps le plus rapide, fixe la durée de chaque période, et son allure varie beaucoup : le carré a tenu deux ans au milieu des années 1930, quand Chiron avançait plus lentement, et une seule année en 1996–97, quand il filait.
 
-Les autres aspects de la paire :
+À côté de ce carré, les autres angles de la paire :
 
 - **[Neptune conjonction Chiron](/astrology/neptune-conjunct-chiron/) :** aucun frottement, l’idéal posé sur l’endroit sensible lui-même.
 - **[Neptune sextile Chiron](/astrology/neptune-sextile-chiron/) :** l’imagination offerte à l’endroit sensible, sans la friction.
 - **[Neptune trigone Chiron](/astrology/neptune-trine-chiron/) :** les deux fonctions travaillent ensemble si facilement que cela peut passer inaperçu.
 - **[Neptune opposition Chiron](/astrology/neptune-opposite-chiron/) :** la tension à son plus large, rencontrée le plus souvent d’abord chez quelqu’un d’autre.
 
-Entre deux thèmes, [Neptune carré Chiron en synastrie](/astrology/neptune-square-chiron-synastry/) peut faire tomber la gentillesse de l’une des deux personnes un peu à côté du point sensible de l’autre : bien intentionnée, et pas tout à fait ce qui aide. Quand on en parle, cela se travaille, et je le lis des deux côtés.
+Entre deux thèmes, [Neptune carré Chiron en synastrie](/astrology/neptune-square-chiron-synastry/) peut faire tomber la gentillesse de l’une des deux personnes un peu à côté du point sensible de l’autre : bien intentionnée, et pas tout à fait ce qui aide. Quand on en parle, cela se travaille.
 
 ## En transit {#en-transit}
 
 [Chiron en transit carré Neptune du thème natal](/astrology/transiting-chiron-square-natal-neptune/) apporte la même friction pour une saison, quand Chiron, sur son orbite inégale, arrive à 90° de votre Neptune. Ce transit revient deux fois par tour d’environ 50 ans, une fois de chaque côté, à des âges qui diffèrent d’une génération à l’autre parce que l’allure de Chiron diffère. Il peut passer en quelques semaines ou rester une bonne partie de l’année, en franchissant le point plus d’une fois.
 
-Si ce carré est dans votre thème, le [retour de Chiron](/astrology/chiron-return/), vers 50 ans, rétablit l’angle : l’occasion de mesurer le chemin parcouru entre vos idéaux et vos limites.
+Avec ce carré dans votre thème, vous verrez le [retour de Chiron](/astrology/chiron-return/), vers 50 ans, rétablir l’angle : l’occasion de mesurer le chemin parcouru entre vos idéaux et vos limites.
 
-Une météo, pas une prédiction : un moment où l’espoir et une limite doivent se parler de nouveau. Ce transit décrit la conversation, jamais son issue.
+C’est une météo, jamais une prédiction : un moment où l’espoir et une limite doivent se parler de nouveau. Ce transit décrit la conversation, jamais son issue.

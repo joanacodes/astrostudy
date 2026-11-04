@@ -46,7 +46,7 @@ Environ 7 personnes sur 10 nées entre 1930 et 2009 ont Neptune à moins de 6° 
 
 Un demi-siècle, c’est long pour un seul aspect. La raison tient à l’orbite très inégale de Pluton, qui passe de 12 à 31 ans dans un signe. Pendant une bonne partie de cette période, Pluton parcourait sa partie rapide, à peu près au pas de Neptune, qui traverse un signe en 14 ans environ, et Neptune gardait toujours deux signes d’avance environ. L’angle n’a presque pas bougé.
 
-Partagé par tant de personnes, ce sextile est un aspect de génération, pas une signature personnelle ([planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)). Ce qui le rend vôtre, c’est l’endroit où il tombe. Un sextile relie en général deux maisons distantes de deux : Pluton en maison 3 avec Neptune en maison 5 pourrait placer les changements profonds dans votre façon de penser et de parler, et le rêve dans le jeu et la création. Les maisons demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). L’orbe compte aussi : les naissances des dernières fenêtres, au bord de l’orbe, ont un sextile plus discret que celles où il était presque exact.
+Partagé par tant de personnes, ce sextile est un aspect de génération, pas une signature personnelle ([planètes personnelles, sociales et générationnelles](/astrology/personal-social-and-generational-planets/)). Ce qui le rend vôtre, c’est l’endroit où il tombe. Un sextile relie en général deux maisons distantes de deux : Pluton en maison 3 avec Neptune en maison 5 pourrait placer les changements profonds dans votre façon de penser et de parler, et le rêve dans le jeu et la création. Sans l’heure de naissance, les maisons restent hors d’atteinte ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). L’orbe compte aussi : les naissances des dernières fenêtres, au bord de l’orbe, ont un sextile plus discret que celles où il était presque exact.
 
 Les autres angles de la paire, dont aucun ne s’est formé pour les personnes nées sur ces quatre-vingts ans :
 
@@ -55,7 +55,7 @@ Les autres angles de la paire, dont aucun ne s’est formé pour les personnes n
 - **[Neptune trigone Pluton](/astrology/neptune-trine-pluto/) :** les deux élans coulant ensemble, sans grande résistance.
 - **[Neptune opposition Pluton](/astrology/neptune-opposite-pluto/) :** les deux planètes face à face, chacune montrant ce que l’autre laisse de côté.
 
-Quand deux personnes nées à peu d’intervalle portent toutes deux le sextile, Neptune et Pluton ont tendance à le répéter d’un thème à l’autre : [Neptune sextile Pluton en synastrie](/astrology/neptune-sextile-pluto-synastry/) est alors un décor commun plus qu’un lien personnel, et je le lis des deux côtés.
+Quand deux personnes nées à peu d’intervalle portent toutes deux le sextile, Neptune et Pluton ont tendance à le répéter d’un thème à l’autre : [Neptune sextile Pluton en synastrie](/astrology/neptune-sextile-pluto-synastry/) est alors un décor commun plus qu’un lien personnel, même si chacune des deux personnes peut le ressentir autrement.
 
 ## En transit {#en-transit}
 
@@ -63,4 +63,4 @@ Quand deux personnes nées à peu d’intervalle portent toutes deux le sextile,
 
 Si le sextile est dans votre thème, vous aviez les deux transits le jour même de votre naissance. Ensuite le ciel avance : Neptune s’éloigne de votre Pluton, et Pluton se rapproche lentement de votre Neptune.
 
-Une météo, pas une prédiction : un sextile Neptune–Pluton en transit ouvre une porte où l’imagination et le renouveau peuvent s’aider, et comme celui de naissance, il demande qu’on la franchisse.
+Comme tout transit, c’est une météo plutôt qu’une prédiction : un sextile Neptune–Pluton en transit ouvre une porte où l’imagination et le renouveau peuvent s’aider, et comme celui de naissance, il demande qu’on la franchisse.

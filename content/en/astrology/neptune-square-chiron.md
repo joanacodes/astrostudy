@@ -29,7 +29,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have it, and the months it was in orb" }
   - { title: "NASA — Neptune facts", url: "https://science.nasa.gov/neptune/neptune-facts/", note: "Neptune’s orbit of about 165 years" }
 ---
-Neptune square Chiron sets the part of you that hopes things will melt away against the part that knows some things have to be worked around. It's a friction, and a productive one. Three groups were born with it in the eighty years counted, the largest in the mid-1930s.
+Neptune square Chiron sets the part of you that hopes things will melt away against the part that knows some things have to be worked around. It's a friction, and a productive one. Three groups carry it among births from 1930 to 2009, the largest in the mid-1930s.
 
 ## What it means {#what-it-means}
 
@@ -39,20 +39,20 @@ In plain words, you may swing between hoping a difficulty will simply dissolve a
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 1 person in 13 born between 1930 and 2009 has Neptune within 6° of a square to Chiron, in three groups. The largest was born in four spells between July 1933 and March 1938, the longest of them from April 1935 to May 1937; the next in three spells between February 1953 and February 1956; the last from October 1996 to September 1997. The first group came before the pair's meeting of 1944–45 and the second after it: the square's two sides, with Chiron a quarter of the zodiac behind Neptune, then a quarter ahead.
+A square of Neptune and Chiron, within 6°, is in the charts of about 1 person in 13 born from 1930 to 2009, in three groups. The largest was born in four spells between July 1933 and March 1938, the longest of them from April 1935 to May 1937; the next in three spells between February 1953 and February 1956; the last from October 1996 to September 1997. The first group came before the pair's meeting of 1944–45 and the second after it: the square's two sides, with Chiron a quarter of the zodiac behind Neptune, then a quarter ahead.
 
-Shared by everyone born in those spells, the square says more about a time than a person until the houses come in. It usually joins houses three apart, two areas of life that keep interrupting each other: Chiron in the 2nd with Neptune in the 5th, for instance, might set an old doubt about your worth against a dream of creative freedom. Houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+Shared by everyone born in those spells, the square says more about a time than a person until the houses come in. It usually joins houses three apart, two areas of life that keep interrupting each other: Chiron in the 2nd with Neptune in the 5th, for instance, might set an old doubt about your worth against a dream of creative freedom. The birth time decides which houses they are ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Chiron, the faster body, sets the length of each spell, and its pace varies a great deal: the square held for two years in the mid-1930s, when Chiron was moving more slowly, and for a single year in 1996–97, when it was racing.
 
-The pair's other aspects:
+Set beside this square, the pair's other angles:
 
 - **[Neptune conjunct Chiron](/astrology/neptune-conjunct-chiron/):** no rub at all, the ideal sitting on the tender spot itself.
 - **[Neptune sextile Chiron](/astrology/neptune-sextile-chiron/):** imagination offered to the tender place, without the friction.
 - **[Neptune trine Chiron](/astrology/neptune-trine-chiron/):** the two working together so easily it can go unnoticed.
 - **[Neptune opposite Chiron](/astrology/neptune-opposite-chiron/):** the pull at its widest, usually met in someone else first.
 
-Between two charts, [Neptune square Chiron in synastry](/astrology/neptune-square-chiron-synastry/) can make one person's kindness land slightly off target for the other's sore spot: well meant, and not quite what helps. Talked about, it's workable, and I read it from both sides.
+Between two charts, [Neptune square Chiron in synastry](/astrology/neptune-square-chiron-synastry/) can make one person's kindness land slightly off target for the other's sore spot: well meant, and not quite what helps. Talked about, it's workable.
 
 ## In transits {#in-transits}
 
@@ -60,4 +60,4 @@ Between two charts, [Neptune square Chiron in synastry](/astrology/neptune-squar
 
 Born with the square, you see the angle restored at the [Chiron return](/astrology/chiron-return/), around 50: a chance to notice how far your ideals and your limits have come to terms.
 
-Weather, not a forecast: a time when hope and a limit have to talk again. It describes the conversation, never its outcome.
+This is weather, never a forecast: a time when hope and a limit have to talk again. It describes the conversation, never its outcome.

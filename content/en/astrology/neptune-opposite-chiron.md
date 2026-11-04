@@ -18,7 +18,7 @@ facts:
   - { k: "Faster of the two", v: "Chiron, picking up speed in those years" }
 related: ["/astrology/neptune", "/astrology/chiron", "/astrology/opposition", "/astrology/pluto-trine-chiron", "/blog/saturn-chiron-lilith"]
 faq:
-  - q: "What does Neptune opposite Chiron mean in a natal chart?"
+  - q: "How do I read Neptune opposite Chiron in my chart?"
     a: "Neptune and Chiron were on opposite sides of the sky when you were born. The picture of how things should be faces the plain fact of a place that stays tender. I read it as a polarity to hold: ideals that make room for a limit, and a limit met with compassion rather than shame."
   - q: "Why is Neptune opposite Chiron so rare?"
     a: "It formed only once in the eighty years I counted, and Chiron, picking up speed along its stretched orbit, crossed it in under three years: July to December 1988, May 1989 to July 1990, and February to May 1991, within 6°. That makes about 1 person in 49 born between 1930 and 2009."
@@ -39,23 +39,23 @@ In plain words, the ideal and the tender spot face each other. You might look fo
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 1 person in 49 born between 1930 and 2009 has Neptune within 6° of an opposition to Chiron, all born in three spells: July to December 1988, May 1989 to July 1990, and February to May 1991. It came only once in those eighty years, and Chiron, picking up speed along its stretched orbit, crossed it in under three years. From the pair's conjunction of 1944–45 to this opposition took more than forty years; from here back to the next conjunction, in 2008–09, took under twenty.
+Only about 1 person in 49 born between 1930 and 2009 has this opposition within 6°, all of them born in three spells: July to December 1988, May 1989 to July 1990, and February to May 1991. It came only once in those eighty years, and Chiron, picking up speed along its stretched orbit, crossed it in under three years. From the pair's conjunction of 1944–45 to this opposition took more than forty years; from here back to the next conjunction, in 2008–09, took under twenty.
 
 In most of these charts the opposition doesn't stand alone. Pluto, sextile Neptune all through those years ([Neptune sextile Pluto](/astrology/neptune-sextile-pluto/)), was also trine Chiron for most of the same months ([Pluto trine Chiron](/astrology/pluto-trine-chiron/)), so a third body links the two ends with an easy line to each. Pluto's house is where I'd look for the way across.
 
 The opposition itself joins opposite houses, two complementary areas of life: in the 1st and 7th, say, the way you meet the world and what you hope for from a partner.
 
-The pair's other aspects:
+The rest of the Neptune–Chiron family:
 
-- **[Neptune conjunct Chiron](/astrology/neptune-conjunct-chiron/):** the two ends folded into one, for people born in 1944–45 or 2008–09.
+- **[Neptune conjunct Chiron](/astrology/neptune-conjunct-chiron/):** the two ends folded into one, the aspect of births in 1944–45 and 2008–09.
 - **[Neptune sextile Chiron](/astrology/neptune-sextile-chiron/):** a gentle opening rather than a stretch.
-- **[Neptune square Chiron](/astrology/neptune-square-chiron/):** the ideal and the limit cutting across each other instead of facing each other.
+- **[Neptune square Chiron](/astrology/neptune-square-chiron/):** hope and limit crossing paths instead of facing each other.
 - **[Neptune trine Chiron](/astrology/neptune-trine-chiron/):** the pair in easy step, and the commonest of the five.
 
-Between two charts, [Neptune opposite Chiron in synastry](/astrology/neptune-opposite-chiron-synastry/) puts one person's ideals across from the other's tender place: easy to idealise each other, and worth talking through. I read it from both sides.
+Between two charts, [Neptune opposite Chiron in synastry](/astrology/neptune-opposite-chiron-synastry/) sets one person's ideals opposite the other's tender place: easy to idealise each other, and worth talking through before either is let down.
 
 ## In transits {#in-transits}
 
 [Transiting Chiron opposite natal Neptune](/astrology/transiting-chiron-opposite-natal-neptune/) is Chiron, on its round, standing across from your Neptune. It comes once in each round of about 50 years, and how long it lasts depends on Chiron's pace in that part of the sky. Born with the opposition, you meet it again at the [Chiron return](/astrology/chiron-return/), around 50, when Chiron reaches its birth place and the old stretch with it.
 
-Weather, not a forecast: a season when an ideal and an old limit stand face to face again. What you make of the space between them is yours.
+Weather, then, not a forecast: a season when an ideal and an old limit stand face to face again. What you make of the space between them is yours.

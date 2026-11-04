@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/neptune", "/astrology/pluto", "/astrology/square", "/astrology/transiting-neptune-square-natal-pluto", "/astrology/neptune-square"]
 faq:
   - q: "Une naissance entre 1930 et 2009 peut-elle porter Neptune carré Pluton ?"
-    a: "Non. Sur ces quatre-vingts ans, les deux planètes ne sont jamais arrivées à moins de 6° d’un carré : le plus souvent, elles se tenaient à environ 60° l’une de l’autre, en sextile, Neptune en avance. Le carré appartient à d’autres années ; dans ces vies, il n’apparaît qu’en transit ou entre deux thèmes."
+    a: "Non. Sur ces quatre-vingts ans, les deux planètes ne sont jamais arrivées à moins de 6° d’un carré : le plus souvent, l’écart restait proche de 60°, celui d’un sextile, avec Neptune en avance. Le carré appartient à d’autres années ; dans ces vies, il n’apparaît qu’en transit ou entre deux thèmes."
   - q: "Que ferait ressentir un carré Neptune–Pluton ?"
     a: "La part la plus douce de vous et la plus intransigeante devraient partager la même pièce. La compassion hésiterait à laisser partir quoi que ce soit, et le renouveau paraîtrait impitoyable à la part qui rêve. Je lis cette friction comme utile : elle rend les idéaux honnêtes sur ce qui doit finir, et garde de l’humanité aux fins."
   - q: "Peut-on vivre Neptune en transit carré Pluton du thème natal ?"
@@ -42,7 +42,7 @@ Si ce carré figurait dans un thème, il appartiendrait à toute une génératio
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Aucune personne née entre 1930 et 2009 n’a Neptune à moins de 6° d’un carré à Pluton. Sur ces décennies, les deux planètes ne se sont jamais approchées des 90° : la plupart du temps, elles formaient un sextile, à environ 60° l’une de l’autre ([Neptune sextile Pluton](/astrology/neptune-sextile-pluto/)), avec Neptune en tête du début à la fin. Si votre naissance tombe dans ces années, ce carré n’est pas dans votre thème, quoi que fassent par ailleurs Neptune et Pluton.
+Le carré manque à toutes les naissances de 1930 à 2009, à 6° près. Sur ces décennies, les deux planètes ne se sont jamais approchées des 90° : la plupart du temps, elles formaient un sextile, à environ 60° l’une de l’autre ([Neptune sextile Pluton](/astrology/neptune-sextile-pluto/)), avec Neptune en tête du début à la fin. Si votre naissance tombe dans ces années, ce carré n’est pas dans votre thème, quoi que fassent par ailleurs Neptune et Pluton.
 
 C’est en dehors de votre propre thème que vous pouvez le rencontrer. Entre deux personnes nées à des années d’écart, Neptune chez l’une peut former un carré avec Pluton chez l’autre : [Neptune carré Pluton en synastrie](/astrology/neptune-square-pluto-synastry/) peut ressembler aux idéaux de l’une qui pèsent sur le besoin de changement profond de l’autre, et à cette profondeur qui ébranle ces idéaux en retour. Je le lis dans les deux sens, et avec douceur, comme tous les angles durs ([ma méthode](/how-i-read/)).
 

@@ -41,7 +41,7 @@ Both planets are among the slowest a chart has, so a conjunction between them wo
 
 ## In a birth chart {#in-a-birth-chart}
 
-Nobody born between 1930 and 2009 has Neptune within 6° of a conjunction with Pluto: my count found no birth with it in those eighty years, which take in nearly every adult alive today. For most of that time the two were about 60° apart, in the [Neptune sextile Pluto](/astrology/neptune-sextile-pluto/) carried by about 7 people in 10 born then, with Neptune running ahead the whole way. So if you're looking for this pair in your chart, look at the angle you actually have: most likely the sextile, or no major aspect between them at all.
+My count found not a single birth with Neptune within 6° of Pluto between 1930 and 2009, eighty years that take in nearly every adult alive today. For most of that time the two were about 60° apart, in the [Neptune sextile Pluto](/astrology/neptune-sextile-pluto/) carried by about 7 people in 10 born then, with Neptune running ahead the whole way. So if you're looking for this pair in your chart, look at the angle you actually have: most likely the sextile, or no major aspect between them at all.
 
 You can still meet the conjunction from outside your own chart. Between two people born a good many years apart, one person's Neptune can fall on the other's Pluto: [Neptune conjunct Pluto in synastry](/astrology/neptune-conjunct-pluto-synastry/) joins one person's ideals to the other's depth, an intense mix that works on both sides, and that I read only with both people's consent ([synastry and consent](/blog/synastry-behind-their-back/)).
 

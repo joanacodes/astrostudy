@@ -19,8 +19,8 @@ facts:
   - { k: "Le plus rapide des deux", v: "Chiron, sur son orbite étirée" }
 related: ["/astrology/neptune", "/astrology/chiron", "/astrology/sextile", "/astrology/neptune-conjunct-chiron", "/astrology/chiron-return"]
 faq:
-  - q: "Que veut dire Neptune sextile Chiron dans un thème ?"
-    a: "À votre naissance, Neptune et Chiron étaient à environ 60° d’écart. L’imagination et la compassion ont un accès facile à l’endroit qui reste sensible : une pratique créative ou spirituelle, ou la bonne histoire au bon moment, peut vous aider à vivre avec ce qui est difficile. L’ouverture existe ; elle agit quand vous vous en servez."
+  - q: "Comment se montre Neptune sextile Chiron dans un thème natal ?"
+    a: "Dans votre thème, environ 60° séparent Neptune et Chiron. L’imagination et la compassion ont un accès facile à l’endroit qui reste sensible : une pratique créative ou spirituelle, ou la bonne histoire au bon moment, peut vous aider à vivre avec ce qui est difficile. L’ouverture existe ; elle agit quand vous vous en servez."
   - q: "Quand sont nées les personnes qui ont Neptune sextile Chiron ?"
     a: "Sur cinq périodes, à 6° près : d’août à décembre 1939, de mai 1940 à juin 1941, de février à mai 1949, de novembre 1949 à décembre 1950, et de novembre 1998 à décembre 1999. Cela fait environ 1 personne sur 21 parmi toutes celles nées entre 1930 et 2009."
   - q: "Ce sextile donne-t-il un don pour prendre soin des autres ?"
@@ -40,11 +40,11 @@ Concrètement, vous avez accès à des façons plus douces de vivre avec ce qui 
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 21 née entre 1930 et 2009 a Neptune à moins de 6° d’un sextile à Chiron. Ces naissances se répartissent sur cinq périodes : d’août à décembre 1939, de mai 1940 à juin 1941, de février à mai 1949, de novembre 1949 à décembre 1950, et de novembre 1998 à décembre 1999. Chacune tombe quelques années avant ou après une rencontre de la paire : les périodes de 1939–41 précèdent la conjonction de 1944–45, celles de 1949–50 la suivent, et celle de 1998–99 précède la conjonction de 2008–09. C’est Chiron, le plus rapide des deux, qui se déplace : voilà pourquoi chaque période est courte.
+À 6° près, environ 1 personne sur 21 née de 1930 à 2009 porte ce sextile. Ces naissances se répartissent sur cinq périodes : d’août à décembre 1939, de mai 1940 à juin 1941, de février à mai 1949, de novembre 1949 à décembre 1950, et de novembre 1998 à décembre 1999. Chacune tombe quelques années avant ou après une rencontre de la paire : les périodes de 1939–41 précèdent la conjonction de 1944–45, celles de 1949–50 la suivent, et celle de 1998–99 précède la conjonction de 2008–09. C’est Chiron, le plus rapide des deux, qui se déplace : voilà pourquoi chaque période est courte.
 
-Toutes les personnes nées pendant une période partagent ce sextile : son signe parle donc de l’année plus que de vous. Ce sont les deux maisons concernées, en général distantes de deux, qui le rendent personnel : Chiron en maison 9 avec Neptune en maison 11 pourrait placer le point sensible dans les questions de croyance ou d’études, et la compassion dans les amitiés et les groupes. Il faut pour cela l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Près de l’exactitude, l’ouverture se sent facilement ; à 5 ou 6°, c’est une offre plus discrète.
+Toutes les personnes nées pendant une période partagent ce sextile : son signe parle donc de l’année plus que de vous. Ce sont les deux maisons concernées, en général distantes de deux, qui le rendent personnel : Chiron en maison 9 avec Neptune en maison 11 pourrait placer le point sensible dans les questions de croyance ou d’études, et la compassion dans les amitiés et les groupes. Pour cela, l’heure de naissance compte ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Près de l’exactitude, l’ouverture se sent facilement ; à 5 ou 6°, c’est une offre plus discrète.
 
-Les autres aspects de la paire :
+Les autres angles Neptune–Chiron, en comparaison :
 
 - **[Neptune conjonction Chiron](/astrology/neptune-conjunct-chiron/) :** la rencontre qu’entourent ces périodes, la compassion et le point sensible ne faisant qu’un.
 - **[Neptune carré Chiron](/astrology/neptune-square-chiron/) :** le rêve et la limite qui tirent en travers l’un de l’autre, et ce que l’on apprend de cette tension.
@@ -55,8 +55,8 @@ Entre deux thèmes, [Neptune sextile Chiron en synastrie](/astrology/neptune-sex
 
 ## En transit {#en-transit}
 
-[Chiron en transit sextile Neptune du thème natal](/astrology/transiting-chiron-sextile-natal-neptune/), c’est l’ouverture qui arrive du ciel : Chiron, dans son propre tour, atteint 60° de votre Neptune. Cela se produit deux fois par tour d’environ 50 ans, une fois de chaque côté, et la durée dépend de l’endroit où se trouve Chiron sur son orbite étirée : quelques semaines dans les signes qu’il traverse vite, de longs mois là où il ralentit.
+[Chiron en transit sextile Neptune du thème natal](/astrology/transiting-chiron-sextile-natal-neptune/), c’est l’ouverture qui arrive du ciel : Chiron, dans son propre tour, atteint 60° de votre Neptune. Chaque tour de Chiron, environ 50 ans, l’amène deux fois, une fois de chaque côté de votre Neptune, et la durée dépend de l’endroit où se trouve Chiron sur son orbite étirée : quelques semaines dans les signes qu’il traverse vite, de longs mois là où il ralentit.
 
-Si ce sextile est dans votre thème, vous le retrouvez au [retour de Chiron](/astrology/chiron-return/), vers 50 ans, quand Chiron revient à sa place de naissance et ramène avec lui l’ancien angle.
+Si ce sextile est dans votre thème, votre [retour de Chiron](/astrology/chiron-return/), vers 50 ans, ramène l’ancien angle en même temps que Chiron.
 
 Une météo, pas une prédiction : une saison où l’imagination se laisse facilement porter vers un vieil endroit sensible, si vous le choisissez.

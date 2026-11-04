@@ -45,7 +45,7 @@ About 7 people in 10 born between 1930 and 2009 have Neptune within 6° of a sex
 
 Half a century is a long time for one aspect. The reason is Pluto's uneven orbit, which keeps it anywhere from 12 to 31 years in a sign. For much of that time Pluto was on the quick part, keeping almost the same pace as Neptune, which crosses a sign in about 14 years, with Neptune always about two signs ahead. The angle barely moved.
 
-Shared by so many, the sextile is a generation's aspect, not a personal signature ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). What makes it yours is where it falls. A sextile usually links houses two apart: Pluto in the 3rd with Neptune in the 5th might put the deep changes into the way you think and speak, and the dreaming into play and creative work. The houses need your birth time ([what changes without a birth time](/blog/unknown-birth-time/)). The orb matters too: births in the late windows, near its edge, have a quieter sextile than births when it was close to exact.
+Shared by so many, the sextile is a generation's aspect, not a personal signature ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)). What makes it yours is where it falls. A sextile usually links houses two apart: Pluto in the 3rd with Neptune in the 5th might put the deep changes into the way you think and speak, and the dreaming into play and creative work. Without the time of birth, the houses stay out of reach ([what changes without a birth time](/blog/unknown-birth-time/)). The orb matters too: births in the late windows, near its edge, have a quieter sextile than births when it was close to exact.
 
 The pair's other angles, none of which formed for anyone born in those eighty years:
 
@@ -54,7 +54,7 @@ The pair's other angles, none of which formed for anyone born in those eighty ye
 - **[Neptune trine Pluto](/astrology/neptune-trine-pluto/):** the two flowing together with little resistance.
 - **[Neptune opposite Pluto](/astrology/neptune-opposite-pluto/):** the two facing each other, each showing what the other leaves out.
 
-When two people born close together both carry the sextile, their Neptune and Pluto tend to repeat it across the two charts: [Neptune sextile Pluto in synastry](/astrology/neptune-sextile-pluto-synastry/) is then a shared background more than a personal link, and I read it from both sides.
+When two people born close together both carry the sextile, their Neptune and Pluto tend to repeat it across the two charts: [Neptune sextile Pluto in synastry](/astrology/neptune-sextile-pluto-synastry/) is then a shared background more than a personal link, though each person may still feel it differently.
 
 ## In transits {#in-transits}
 
@@ -62,4 +62,4 @@ When two people born close together both carry the sextile, their Neptune and Pl
 
 Born with the sextile, you had both on the day you were born. Then the sky moves on, Neptune drawing away from your Pluto, and Pluto closing slowly on your Neptune.
 
-Weather, not a forecast: a Neptune–Pluto sextile in transit is an opening for imagination and renewal to help each other, and, like the natal one, it asks to be taken up.
+As with every transit, this is weather rather than a forecast: a Neptune–Pluto sextile in transit is an opening for imagination and renewal to help each other, and, like the natal one, it asks to be taken up.

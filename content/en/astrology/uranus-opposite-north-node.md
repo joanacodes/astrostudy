@@ -1,7 +1,7 @@
 ---
 title: "Uranus opposite North Node"
 h1: "Uranus opposite North Node in a birth chart"
-description: "Uranus opposite North Node in a birth chart: Uranus on the South Node, where breaking away is the old habit. How it shows, how common it is, its transits."
+description: "Uranus opposite North Node in a birth chart: Uranus on the South Node, where breaking away is the old habit, and the growth that faces it."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -36,17 +36,17 @@ With Uranus opposite the North Node, the planet of change sits on the South Node
 
 [Uranus](/astrology/uranus/) is the part of a chart that innovates and frees: it notices what could work differently, wants room for you to be yourself, and reforms what has stopped fitting. The [North Node](/astrology/north-node/) marks a capacity that grows only by repetition and feedback, clumsy at first; the [South Node](/astrology/south-node/), exactly opposite, holds what came easily long ago. An [opposition](/astrology/opposition/) relates two functions through polarity, and here the polarity is unusual: the urge to change things is on the familiar side, and the slow work of building something new faces it.
 
-In plain words, change is your home ground. You may be the one who spots the flaw in the system, who leaves first, who finds another way while the others are still discussing the old one. That's a real talent. The catch is that it can also become the way out of anything that asks for patience: when the new direction gets slow or dull, the familiar move is to change the subject. Depending on the North Node's sign and house, growth here may look less like another fresh start and more like staying with one thing long enough for it to become yours.
+In plain words, change is your home ground. You may be the one who spots the flaw in a system, who leaves first, who finds another way while the others are still discussing the old one. That's a real talent. The catch is that it can also become the way out of anything that asks for patience: when the new direction gets slow or dull, the familiar move is to change the subject. Depending on the North Node's sign and house, growth here may look less like another fresh start and more like staying with one thing long enough for it to become yours.
 
-I don't read Uranus on the South Node as a gift to give up. Both ends of the axis stay yours. The best use I know is to carry Uranus across: to bring a fresh eye to the practice, rather than keep replacing the practice with something fresh.
+I don't read Uranus on the South Node as a gift to give up. Both ends of the axis stay yours. The best use I know is to carry Uranus across: bring a fresh eye to the practice, rather than keep replacing it with something fresh.
 
 ## In a birth chart {#in-a-birth-chart}
 
 About 1 person in 26 born between 1930 and 2009 has Uranus within 6° of an opposition to the North Node, counted with the true node. With the mean node, only a chart at the very edge of the orb would change its answer, as the two stay within a degree or two; I check both ([mean node and true node](/astrology/mean-node-and-true-node/)).
 
-The signs say what kind of break comes naturally and what kind of growth asks for practice. Uranus and the South Node in Aquarius, with the North Node in Leo, might make independence inside a group the easy part, and putting your own heart on show the part to learn. The houses name the two areas of life: Uranus in the 10th with the North Node in the 4th could describe a working life where you're used to being the one who shakes things up, and a direction of growth at home, in putting down roots. Houses need your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+The signs say what kind of break comes naturally and what kind of growth asks for practice. Uranus and the South Node in Aquarius, with the North Node in Leo, might make independence inside a group the easy part, and putting your own heart on show the part to learn. The houses name the two areas of life: Uranus in the 10th with the North Node in the 4th could describe a working life where you're used to being the one who shakes things up, and a direction of growth at home, in putting down roots. None of that can be placed without your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-The node is the quick one: it backs through a sign in about 18 months while Uranus spends about seven years in one. So this opposition forms and fades within a few months, and two people born in the same year can easily differ on it.
+The node is the quick one: it backs through a sign in about 18 months, while Uranus spends about seven years in each. So this opposition forms and fades within a few months, and two people born in the same year can easily differ on it.
 
 Uranus's other aspects to the North Node:
 
@@ -61,6 +61,6 @@ Between two charts, [Uranus opposite North Node in synastry](/astrology/uranus-o
 
 [Transiting North Node opposite natal Uranus](/astrology/transiting-north-node-opposite-natal-uranus/) puts the moving South Node on your Uranus. It comes once in each 18.6-year round of the nodes and stays close for a month or so. Born with the opposition, you meet it at each [nodal return](/astrology/nodal-return/), at about 18½, 37 and 56, when the nodes come back to their birth places; halfway between, at the [nodal reversal](/astrology/nodal-reversal/), the North Node passes over Uranus instead.
 
-Uranus adds two longer seasons. At about 42, the [Uranus opposition](/astrology/uranus-opposition/) also takes transiting Uranus over your natal North Node; at about 84, the [Uranus return](/astrology/uranus-return/) brings it back to the South Node.
+Uranus adds two long seasons. At about 42, the [Uranus opposition](/astrology/uranus-opposition/) also takes transiting Uranus over your natal North Node; at about 84, the [Uranus return](/astrology/uranus-return/) brings it back to the South Node.
 
 Weather, not a forecast: these are times when the reflex for change and the slower work of growth come up together, never events.

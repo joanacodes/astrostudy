@@ -41,7 +41,7 @@ If it were in a chart, it would join two houses usually four apart, in signs of 
 
 ## In a birth chart {#in-a-birth-chart}
 
-No one born between 1930 and 2009 has Neptune within 6° of a trine to Pluto. The angle between them stayed far narrower in those years, about 60° for most of them ([Neptune sextile Pluto](/astrology/neptune-sextile-pluto/)), so the trine, at twice that distance, never came near. If you've seen it listed for a chart from those years, check whether the list mixes two charts: a transit or synastry grid can show it, a single birth chart can't.
+Not one chart born from 1930 to 2009 has Neptune within 6° of a trine to Pluto. The angle between them stayed far narrower in those years, about 60° for most of them ([Neptune sextile Pluto](/astrology/neptune-sextile-pluto/)), so the trine, at twice that distance, never came near. If you've seen it listed for a chart from those years, check whether the list mixes two charts: a transit or synastry grid can show it, a single birth chart can't.
 
 Between two people born years apart, it can form: [Neptune trine Pluto in synastry](/astrology/neptune-trine-pluto-synastry/) lets one person's ideals give the other's deep changes an easy direction, while the other's depth gives those ideals weight. I read it from both sides, since each feels it differently.
 
@@ -54,8 +54,8 @@ The same pair at its other angles:
 
 ## In transits {#in-transits}
 
-[Transiting Neptune trine natal Pluto](/astrology/transiting-neptune-trine-natal-pluto/) is how people born in these years meet this flow. Neptune starts out ahead of natal Pluto and keeps drawing away, so it passes the square first and reaches the trine some years later; your birth year sets when. Neptune moves slowly enough to stay near the point for a year or more, coming back over it as it turns retrograde.
+[Transiting Neptune trine natal Pluto](/astrology/transiting-neptune-trine-natal-pluto/) is how people born in these years meet this flow. Neptune begins ahead of your natal Pluto and pulls further ahead, so it passes the square first and reaches the trine some years later; your birth year sets when. Neptune moves slowly enough to stay near the point for a year or more, coming back over it as it turns retrograde.
 
 [Transiting Pluto trine natal Neptune](/astrology/transiting-pluto-trine-natal-neptune/) is far less likely. Pluto trails Neptune in these charts, so it would have to catch up with your natal Neptune and then travel another third of the zodiac: if it comes at all, it comes very late in a long life.
 
-Weather, not a forecast: transiting Neptune trine natal Pluto describes a stretch when imagination and renewal help each other along, often quietly. What you do with the current is yours.
+Read it as weather, not a forecast: transiting Neptune trine natal Pluto describes a stretch when imagination and renewal help each other along, often quietly. What you do with the current is yours.

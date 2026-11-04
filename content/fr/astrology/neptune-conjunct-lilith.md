@@ -2,7 +2,7 @@
 title: "Neptune conjonction Lilith"
 slug: "neptune-conjonction-lilith"
 h1: "Neptune conjonction Lilith dans un thème natal"
-description: "Neptune conjonction Lilith dans un thème natal : la part indomptée de vous qui parle par l’imagination. Ce qu’elle montre, sa fréquence, ses retours."
+description: "Neptune conjonction Lilith dans un thème natal : la part indomptée de vous qui parle par l’imagination, la fréquence de leurs rencontres et leurs retours."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -34,7 +34,7 @@ Neptune conjonction Lilith confie à la planète des rêves la part de vous qui 
 
 ## Ce qu’il veut dire {#ce-qu-il-veut-dire}
 
-[Neptune](/astrology/neptune/) dissout les frontières : imaginer, ressentir avec les autres, tendre vers ce qui dépasse l’ordinaire. La [Lune noire Lilith](/astrology/black-moon-lilith/) est un point plutôt qu’un corps, le bout le plus éloigné de l’orbite de la Lune, que les astrologues lisent comme l’instinct qui n’obéit pas, la part repoussée hors de vue, et la limite que vous ne laissez franchir à personne. Les traditions divergent beaucoup sur Lilith : je propose cette lecture comme un symbole, pas comme une loi. Dans une [conjonction](/astrology/conjunction/), les deux fonctions agissent comme une seule, chacune gardant sa nature.
+[Neptune](/astrology/neptune/) dissout les frontières : imaginer, ressentir avec les autres, tendre vers ce qui dépasse l’ordinaire. La [Lune noire Lilith](/astrology/black-moon-lilith/) est un point plutôt qu’un corps, le bout le plus éloigné de l’orbite de la Lune, que les astrologues lisent comme l’instinct qui n’obéit pas, la part repoussée hors de vue, et la limite que vous ne laissez franchir à personne. Les traditions divergent beaucoup sur Lilith : je propose cette lecture comme un symbole, pas comme une loi. Réunies dans une [conjonction](/astrology/conjunction/), les deux fonctions travaillent comme un seul processus, sans que l’une cesse d’être elle-même.
 
 Concrètement, votre part indomptée et votre imagination passent par le même canal. Les marges vous attirent peut-être : le mystique, l’étrange, l’art des gens du dehors, les histoires de celles et ceux qui n’entraient pas dans le moule. Là où les refus des autres font du bruit, le vôtre ressemble peut-être à un rêve : un monde à vous, une vie créative, une foi personnelle. Le cadeau, c’est une imagination qui refuse d’être domestiquée. Ce que la conjonction demande, c’est que la part sauvage ne reste pas seulement dans le rêve. Un voile protège, et il peut aussi vous cacher aux regards.
 
@@ -46,19 +46,19 @@ Le signe donne au voile son étoffe : ensemble dans un signe de feu, le refus p
 
 Si un autre de vos thèmes ne montre pas cette rencontre, vérifiez quelle Lilith il utilise : la Lilith vraie, ou osculatrice, s’écarte beaucoup de part et d’autre de la moyenne ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)).
 
-Les autres aspects de la paire :
+Les autres angles de Neptune à Lilith :
 
 - **[Neptune sextile Lilith](/astrology/neptune-sextile-lilith/) :** l’imagination offre une porte à la part cachée, dès que vous l’ouvrez.
 - **[Neptune carré Lilith](/astrology/neptune-square-lilith/) :** la bienveillance et le refus se frottent, jusqu’à ce que vous appreniez à allier la douceur et la limite.
 - **[Neptune trigone Lilith](/astrology/neptune-trine-lilith/) :** la part sauvage et la part qui rêve coulent ensemble, sans bataille.
 - **[Neptune opposition Lilith](/astrology/neptune-opposite-lilith/) :** l’envie de se fondre fait face au refus de se laisser dompter, souvent à travers une autre personne.
 
-Entre deux thèmes, [Neptune conjonction Lilith en synastrie](/astrology/neptune-conjunct-lilith-synastry/) pose Neptune, chez l’une des deux personnes, sur Lilith chez l’autre : une fascination pour la part cachée de l’autre, qui peut l’honorer ou l’idéaliser. Je lis ce contact des deux côtés.
+Entre deux thèmes, [Neptune conjonction Lilith en synastrie](/astrology/neptune-conjunct-lilith-synastry/) fait tomber Neptune, chez l’une des deux personnes, sur Lilith chez l’autre : une fascination pour la part cachée de l’autre, qui peut l’honorer ou l’idéaliser ; la personne dont Lilith est touchée sait en général laquelle des deux.
 
 ## En transit {#en-transit}
 
 En [transit](/astrology/transits/), la rencontre revient chaque fois que la Lilith du ciel arrive sur Neptune dans votre thème natal. La Lilith moyenne ne devient jamais rétrograde : elle franchit le point une seule fois, en deux ou trois semaines, à peu près tous les 8 ans et 10 mois. Si la conjonction est dans votre thème, chacun de ces passages est aussi un retour de Lilith : le point revient sur son degré de naissance, et donc sur Neptune.
 
-Le transit de Neptune sur Lilith du thème natal dure bien plus longtemps. Neptune passe environ 14 ans dans un signe et s’attarde près du point un an ou plus, en plusieurs passages.
+Le transit de Neptune sur Lilith du thème natal dure bien plus longtemps. Avec environ 14 ans par signe, Neptune peut rester à moins d’un degré du point sur plusieurs passages, un an ou plus en tout.
 
 Une météo, pas une prédiction : chacun de ces passages est un moment où ce qui restait derrière le voile peut demander à être vu, jamais un événement.

@@ -19,7 +19,7 @@ facts:
   - { k: "Le plus rapide des deux", v: "Chiron, qui accélérait ces années-là" }
 related: ["/astrology/neptune", "/astrology/chiron", "/astrology/opposition", "/astrology/pluto-trine-chiron", "/blog/saturn-chiron-lilith"]
 faq:
-  - q: "Que veut dire Neptune opposition Chiron dans un thème natal ?"
+  - q: "Comment lire Neptune opposition Chiron dans mon thème ?"
     a: "À votre naissance, Neptune et Chiron se trouvaient de part et d’autre du ciel. L’image de ce que les choses devraient être fait face au simple fait d’un endroit qui reste sensible. J’y lis une polarité à tenir : des idéaux qui font de la place à une limite, et une limite accueillie avec compassion plutôt qu’avec honte."
   - q: "Pourquoi cette opposition entre Neptune et Chiron est-elle si rare ?"
     a: "Elle ne s’est formée qu’une fois sur les quatre-vingts ans comptés, et Chiron, qui accélérait sur son orbite étirée, l’a traversée en moins de trois ans : de juillet à décembre 1988, de mai 1989 à juillet 1990, et de février à mai 1991, à 6° près. Cela fait environ 1 personne sur 49 née entre 1930 et 2009."
@@ -40,23 +40,23 @@ Concrètement, l’idéal et l’endroit sensible se font face. Vous cherchez pe
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 49 née entre 1930 et 2009 a Neptune à moins de 6° d’une opposition à Chiron, et toutes ces personnes sont nées sur trois périodes : de juillet à décembre 1988, de mai 1989 à juillet 1990, et de février à mai 1991. L’opposition n’est venue qu’une fois sur ces quatre-vingts ans, et Chiron, qui accélérait sur son orbite étirée, l’a traversée en moins de trois ans. De la conjonction de 1944–45 à cette opposition, il a fallu plus de quarante ans ; de là jusqu’à la conjonction suivante, en 2008–09, moins de vingt.
+Seule environ 1 personne sur 49 née entre 1930 et 2009 porte cette opposition à 6° près, et toutes sont nées sur trois périodes : de juillet à décembre 1988, de mai 1989 à juillet 1990, et de février à mai 1991. L’opposition n’est venue qu’une fois sur ces quatre-vingts ans, et Chiron, qui accélérait sur son orbite étirée, l’a traversée en moins de trois ans. De la conjonction de 1944–45 à cette opposition, il a fallu plus de quarante ans ; de là jusqu’à la conjonction suivante, en 2008–09, moins de vingt.
 
 Dans la plupart de ces thèmes, l’opposition n’est pas seule. Pluton, en sextile à Neptune pendant toutes ces années ([Neptune sextile Pluton](/astrology/neptune-sextile-pluto/)), formait aussi un trigone à Chiron la plupart des mêmes mois ([Pluton trigone Chiron](/astrology/pluto-trine-chiron/)) : un troisième corps relie les deux bouts, avec une ligne facile vers chacun. C’est dans la maison de Pluton que je chercherais le passage.
 
 L’opposition relie elle-même deux maisons opposées, deux domaines complémentaires de la vie : en maisons 1 et 7, par exemple, votre façon d’aborder le monde et ce que vous espérez d’un ou d’une partenaire.
 
-Les autres aspects de la paire :
+Le reste de la famille Neptune–Chiron :
 
-- **[Neptune conjonction Chiron](/astrology/neptune-conjunct-chiron/) :** les deux bouts repliés en un seul, pour les naissances de 1944–45 ou de 2008–09.
+- **[Neptune conjonction Chiron](/astrology/neptune-conjunct-chiron/) :** les deux bouts repliés en un seul, l’aspect des naissances de 1944–45 et de 2008–09.
 - **[Neptune sextile Chiron](/astrology/neptune-sextile-chiron/) :** une ouverture douce plutôt qu’un grand écart.
-- **[Neptune carré Chiron](/astrology/neptune-square-chiron/) :** l’idéal et la limite qui se coupent la route au lieu de se faire face.
+- **[Neptune carré Chiron](/astrology/neptune-square-chiron/) :** l’espoir et la limite qui se croisent au lieu de se faire face.
 - **[Neptune trigone Chiron](/astrology/neptune-trine-chiron/) :** la paire au même pas, et le plus fréquent des cinq.
 
-Entre deux thèmes, [Neptune opposition Chiron en synastrie](/astrology/neptune-opposite-chiron-synastry/) place les idéaux de l’une des deux personnes face à l’endroit sensible de l’autre : il est facile de s’idéaliser l’une l’autre, et cela vaut la peine d’en parler. Je lis ce contact des deux côtés.
+Entre deux thèmes, [Neptune opposition Chiron en synastrie](/astrology/neptune-opposite-chiron-synastry/) met les idéaux de l’une des deux personnes en face de l’endroit sensible de l’autre : il est facile de s’idéaliser l’une l’autre, et mieux vaut en parler avant que l’une ou l’autre soit déçue.
 
 ## En transit {#en-transit}
 
 [Chiron en transit opposition Neptune du thème natal](/astrology/transiting-chiron-opposite-natal-neptune/) : c’est Chiron, au fil de son tour, qui se tient face à votre Neptune. Ce transit revient une fois par tour d’environ 50 ans, et sa durée dépend de l’allure de Chiron dans cette partie du ciel. Si cette opposition est dans votre thème, vous la retrouvez au [retour de Chiron](/astrology/chiron-return/), vers 50 ans, quand Chiron revient à sa place de naissance, et l’ancien écart avec lui.
 
-Une météo, pas une prédiction : une saison où un idéal et une vieille limite se retrouvent face à face. Ce que vous faites de l’espace entre les deux vous appartient.
+Une météo, donc, pas une prédiction : une saison où un idéal et une vieille limite se retrouvent face à face. Ce que vous faites de l’espace entre les deux vous appartient.

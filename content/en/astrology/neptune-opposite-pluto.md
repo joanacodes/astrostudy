@@ -23,7 +23,7 @@ faq:
   - q: "What does an opposition between Neptune and Pluto describe?"
     a: "A polarity between the wish to dissolve into something larger, an ideal, a cause, other people’s feelings, and the need to get to the root and stand on your own ground. An opposition is often lived through others first. The work is to hold both ends, so that compassion has depth and depth keeps its compassion."
   - q: "When does transiting Neptune oppose natal Pluto?"
-    a: "For people born between 1930 and 2009, only after the square and the trine. Neptune starts out ahead of natal Pluto and keeps drawing away, so the opposition is the last of the three, and your birth year sets the timing. Pluto opposing natal Neptune is out of reach: it would need far more than a lifetime."
+    a: "For people born between 1930 and 2009, only after the square and the trine. Neptune, ahead of natal Pluto from the start, keeps widening the gap, so the opposition is the last of the three, and your birth year sets the timing. Pluto opposing natal Neptune is out of reach: it would need far more than a lifetime."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the opposition, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "no births with it in those years" }
@@ -41,9 +41,9 @@ Were it in a chart, it would join two opposite houses, the 4th and the 10th, say
 
 ## In a birth chart {#in-a-birth-chart}
 
-Nobody born between 1930 and 2009 has Neptune within 6° of an opposition to Pluto. Through those eighty years the two stayed close to a sextile ([Neptune sextile Pluto](/astrology/neptune-sextile-pluto/)), and an opposition needs three times that distance. Of all the pair's major angles, it was the furthest out of reach.
+The opposition is absent from every chart in my count, 1930 to 2009, even at 6° of orb. Through those eighty years the two stayed close to a sextile ([Neptune sextile Pluto](/astrology/neptune-sextile-pluto/)), and an opposition needs three times that distance. Of all the pair's major angles, it was the furthest out of reach.
 
-It can form between two charts, though only between people born several decades apart: [Neptune opposite Pluto in synastry](/astrology/neptune-opposite-pluto-synastry/) puts one person's ideals across from the other's depth, so each sees in the other what they don't do themselves. I read it from both sides.
+It can form between two charts, though only between people born several decades apart: [Neptune opposite Pluto in synastry](/astrology/neptune-opposite-pluto-synastry/) puts one person's ideals across from the other's depth, so each sees in the other what they don't do themselves, which is why both charts matter when I look at it.
 
 In my testing notes, Neptune and Pluto were checked like every other placement, and neither was among the three that held far more often, so when a reading leans on them, I say so ([the invoice method, and what held overall](/blog/i-tested-my-birth-chart/)).
 
@@ -56,7 +56,7 @@ The same two planets at their other angles:
 
 ## In transits {#in-transits}
 
-[Transiting Neptune opposite natal Pluto](/astrology/transiting-neptune-opposite-natal-pluto/) is the form this opposition can take in the lives of people born in these years. Neptune starts out ahead of natal Pluto and keeps drawing away, passing the square, then the trine, and only after both, the opposition; your birth year sets when. Once there, Neptune stays close for a year or more, often in three passes.
+[Transiting Neptune opposite natal Pluto](/astrology/transiting-neptune-opposite-natal-pluto/) is how this opposition can reach a life begun in those years. At birth Neptune already leads your natal Pluto, and it moves further off every year, passing the square, then the trine, and only after both, the opposition; your birth year sets when. Once there, Neptune stays close for a year or more, often in three passes.
 
 [Transiting Pluto opposite natal Neptune](/astrology/transiting-pluto-opposite-natal-neptune/) is out of reach: Pluto, behind Neptune in these charts, would need to cover well over half the zodiac, far more than a lifetime at its pace.
 

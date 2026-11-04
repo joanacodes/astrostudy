@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 346
 glyph: "♆⚹☊"
-definition: "Neptune sextile North Node means Neptune about 60° from the North Node at your birth, and so about 120° from the South Node. In a chart, imagination and compassion offer openings along the path you're growing into, with an easy line back to familiar ground; the openings are there for the taking, not handed over."
+definition: "In Neptune sextile North Node, Neptune stood about 60° from the North Node when you were born, which also puts it about 120° from the South Node. In a chart, imagination and compassion offer openings along the path you're growing into, with an easy line back to familiar ground; the openings are there for the taking, not handed over."
 facts:
   - { k: "Bodies", v: "Neptune ♆ and the North Node ☊" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -18,7 +18,7 @@ facts:
   - { k: "At the nodal reversal", v: "The moving North Node trines natal Neptune" }
 related: ["/astrology/neptune", "/astrology/north-node", "/astrology/sextile", "/astrology/south-node", "/astrology/nodal-reversal"]
 faq:
-  - q: "What does Neptune sextile the North Node mean?"
+  - q: "How does Neptune sextile the North Node work in a chart?"
     a: "Neptune was about 60° from the North Node when you were born. Imagination, compassion and a feel for meaning stand just off the path you are growing along, ready to help when you turn to them: a creative or spiritual practice, a picture of where you are going, patience with yourself as a beginner."
   - q: "Is Neptune also trine the South Node here?"
     a: "Yes. The nodes are always exactly opposite each other, so a planet 60° from one is 120° from the other. Neptune flows easily into familiar ground as well as towards the new direction, which keeps old skills within reach and also makes it easy for imagination to slip back into old habits."
@@ -39,23 +39,23 @@ In plain words, when growth feels dry or effortful, Neptune can make it easier: 
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 1 person in 16 born between 1930 and 2009 has Neptune within 6° of a sextile to the true North Node, more than have the conjunction, because a sextile can form on either side each time the node passes Neptune. Each window lasts some months, so two people born in the same year may well differ on it. The mean node, never more than a degree or two from the true one, moves only borderline charts in or out.
+Using the true node, my count finds the sextile in about 1 in 16 of all births from 1930 to 2009, within 6°, more than have the conjunction, since the node passes 60° from Neptune twice in each of its laps. Each window lasts some months, so two people born in the same year may well differ on it. The mean node, never more than a degree or two from the true one, moves only borderline charts in or out.
 
-Neptune usually sits two houses from the node, and the pair shows where the help comes from. With the North Node in the 9th and Neptune in the 11th, for example, growth through study, travel or belief might be carried by friends and shared ideals. The houses need a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+Neptune usually sits two houses from the node, and the pair shows where the help comes from. With the North Node in the 9th and Neptune in the 11th, for example, growth through study, travel or belief might be carried by friends and shared ideals. It takes the time of birth to know them ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 My notebook has no figure for the nodes. The angle it reports is the rising sign, which held about a third of the time, and the three placements that stood out were Saturn, Chiron and Lilith ([the invoice method, and what held overall](/blog/i-tested-my-birth-chart/)).
 
-The pair's other aspects:
+The rest of Neptune's angles to the node:
 
 - **[Neptune conjunct North Node](/astrology/neptune-conjunct-north-node/):** Neptune on the growth point itself; the soft skill is the direction.
 - **[Neptune square North Node](/astrology/neptune-square-north-node/):** imagination at right angles to the path, pulling you sideways until you put it to work.
 - **[Neptune trine North Node](/astrology/neptune-trine-north-node/):** the wider, easier link, with Neptune sextile the South Node.
 - **[Neptune opposite North Node](/astrology/neptune-opposite-north-node/):** imagination on familiar ground, across from the new direction.
 
-Between two charts, [Neptune sextile North Node in synastry](/astrology/neptune-sextile-north-node-synastry/) lets one person's imagination encourage the other's growth gently, without taking it over. I read it from both sides.
+Between two charts, [Neptune sextile North Node in synastry](/astrology/neptune-sextile-north-node-synastry/) lets one person's imagination encourage the other's growth gently, without taking it over, which is rarer than it sounds.
 
 ## In transits {#in-transits}
 
-[Transiting North Node sextile natal Neptune](/astrology/transiting-north-node-sextile-natal-neptune/) happens twice in each 18.6-year round of the nodes, for a month or so each time. Born with the sextile, you see it re-formed exactly at each [nodal return](/astrology/nodal-return/). At the [nodal reversal](/astrology/nodal-reversal/), with the nodes the other way round, the moving North Node trines your Neptune instead, and the South Node takes over the sextile. Neptune's own aspects to your natal node are far slower, a year or more near the point.
+[Transiting North Node sextile natal Neptune](/astrology/transiting-north-node-sextile-natal-neptune/) comes round on both sides of your Neptune in every 18.6-year cycle of the nodes, staying close about a month each time. Born with the sextile, you see it re-formed exactly at each [nodal return](/astrology/nodal-return/). At the [nodal reversal](/astrology/nodal-reversal/), with the nodes the other way round, the moving North Node trines your Neptune instead, and the South Node takes over the sextile. Neptune's own aspects to your natal node unfold far more slowly, over a year or more.
 
 Weather, not a forecast: a month when imagination is an easy ally for the direction you're growing in.
