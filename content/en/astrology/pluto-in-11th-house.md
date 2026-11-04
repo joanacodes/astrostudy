@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 119
 glyph: "♇"
-definition: "Pluto in the 11th house is the planet of deep change in the house of friends, groups, networks and hopes for the future. It describes friendships that are few and deep, communities that transform you, and hopes big enough to reshape a life. Its placement depends on the birth time."
+definition: "In the 11th house, the planet of deep change gathers with friends, groups and networks, and with your hopes for the future. It describes friendships that are few and deep, communities that transform you, and hopes big enough to reshape a life. Its placement depends on the birth time."
 facts:
   - { k: "Body", v: "Pluto ♇" }
   - { k: "House", v: "The 11th house: friends, groups, networks, hopes" }
@@ -27,15 +27,15 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, and the 11th as the Good Spirit" }
   - { title: "Dorotheus of Sidon, Carmen Astrologicum", note: "the houses read in a nativity" }
 ---
-Pluto in the 11th house brings the planet of deep change into friendship, groups and the hopes you hold for the future. I read it as friendships that are few, deep and lasting, and as hopes big enough to reshape a life.
+Few friends, chosen carefully and kept for life: that is often the shape of Pluto in the 11th house, the house of friendship, groups and hopes for the future. The hopes, too, tend to be big enough to reshape a life.
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 11th house](/astrology/11th-house/) is the house of friends and allies, of groups, networks and communities, and of the hopes and plans you hold for later on. It is succedent, its natural sign is Aquarius, and tradition called it the Good Spirit and named it Jupiter's joy: a house of help and good company. With [Pluto](/astrology/pluto/) here, none of that is casual. You may have fewer friends than some people, but the bonds go deep, and the people you choose to belong with can transform you. Your hopes tend to be large too: a future you want to help build rather than wait for.
+[The 11th house](/astrology/11th-house/) is the house of friends and allies, of groups, networks and communities, and of the hopes and plans you hold for later on. It is succedent, its natural sign is Aquarius, and its traditional name is the Good Spirit, with Jupiter rejoicing there: a house of help and good company. With [Pluto](/astrology/pluto/) here, none of that is casual. You may have fewer friends than some people, but the bonds go deep, and the people you choose to belong with can transform you. Your hopes tend to be large too: a future you want to help build rather than wait for.
 
-Opposite lies the 5th house of personal pleasure and creation, and [Pluto in the 5th house](/astrology/pluto-in-5th-house/) puts this same depth into love and play. In the 11th, it goes into what you share with many.
+Opposite lies the 5th house of personal pleasure and creation, and [Pluto in the 5th house](/astrology/pluto-in-5th-house/) spends this same depth on love and play. In the 11th, it goes into what you share with many.
 
-Pluto's sign is your generation's; the house is yours, and placing it needs a [birth time](/blog/unknown-birth-time/). In Placidus, the house system I use, a Pluto near either cusp of the 11th can move into the 10th or the 12th with a change of a few minutes. [Pluto in the 10th house](/astrology/pluto-in-10th-house/) works on your public role, and [Pluto in the 12th house](/astrology/pluto-in-12th-house/) on what is hidden and inward.
+In Placidus, the house system I use, the 11th lies high in the chart, between the 10th and the 12th, and its cusps move with the minutes of birth, so placing this Pluto needs a [birth time](/blog/unknown-birth-time/). Between [Pluto in the 10th house](/astrology/pluto-in-10th-house/), with its public role, and [Pluto in the 12th house](/astrology/pluto-in-12th-house/), with its hidden inner life, the 11th is the house of the people you choose.
 
 ## In close relationships {#in-close-relationships}
 
@@ -43,12 +43,12 @@ In close relationships, a Pluto in the 11th often makes friendship the foundatio
 
 ## At work {#at-work}
 
-At work, this Pluto shines in collective effort: networks, associations, campaigns, teams that work towards something bigger than any one person. It can transform how a group organises itself and whom it includes, and it often ends up holding real influence without a formal title. Colleagues tend to become friends, and some of your most important work may happen outside any job: a cause, a community, a project shared with people you trust. Its challenge is to share power within the group rather than becoming its hidden centre.
+Collective effort brings out the best in this Pluto: networks, associations, campaigns, teams that work towards something bigger than any one person. It can reshape how a group organises itself and whom it includes, and it often ends up holding real influence without a formal title. Colleagues tend to become friends, and some of your most important work may happen outside any job: a cause, a community, a project shared with people you trust. Its challenge is to share power within the group rather than becoming its hidden centre.
 
 ## The hard part {#the-hard-part}
 
-The hard part is the power that runs through groups. An 11th-house Pluto can be drawn into, or start, struggles over who leads and who belongs. It can give itself completely to a cause, then feel betrayed when the cause, or the people in it, fall short. A friendship can be ended abruptly when trust breaks, without the conversation that might have saved it. And hopes for the future can become so intense that the present feels like a waiting room.
+Power runs through every group, and that is where it gets hard for this Pluto. An 11th-house Pluto can be drawn into, or start, struggles over who leads and who belongs. It can give itself completely to a cause, then feel betrayed when the cause, or the people in it, fall short. A friendship can be ended abruptly when trust breaks, without the conversation that might have saved it. And hopes for the future can become so intense that the present feels like a waiting room.
 
 ## What helps {#what-helps}
 
-A few friendships tended carefully, with honest conversations when something goes wrong. Groups where leadership rotates and disagreement is safe. Hopes broken down into steps you can take this year. Noticing which groups leave you stronger and which leave you smaller, and giving your time accordingly. Letting some friendships change shape rather than end. Tradition called this house the Good Spirit; with Pluto here, the good spirits are the people you trust, and that trust is worth building slowly.
+A few friendships tended carefully, with honest conversations when something goes wrong. Groups where leadership rotates and disagreement is safe. Hopes broken down into steps you can take this year. Noticing which groups leave you stronger and which leave you smaller, and giving your time accordingly. Letting some friendships change shape rather than end. The good spirits of this house, for a Pluto here, are the people you trust, and that trust is worth building slowly.

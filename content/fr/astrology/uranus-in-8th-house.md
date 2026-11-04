@@ -32,9 +32,9 @@ La maison 8, c’est là où deux vies se chevauchent : les corps, l’argent, 
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La [maison 8](/astrology/8th-house/) couvre l’intimité et la confiance, et ce que vous partagez avec les autres ou leur devez : l’argent commun, les dettes, la proximité qui vous transforme. Succédente, elle a pour signe naturel le Scorpion, gouverné par Pluton et, dans la tradition, par Mars. Avec [Uranus](/astrology/uranus/) ici, la réforme et l’indépendance travaillent dans les formes les plus profondes du partage : il vous faut une confiance qui ne devienne pas possession, et des arrangements sur l’argent et l’intimité que vous avez choisis plutôt qu’hérités.
+La [maison 8](/astrology/8th-house/) couvre l’intimité et la confiance, et ce que vous partagez avec les autres ou leur devez : l’argent commun, les dettes, la proximité qui vous transforme. Maison succédente, elle a le Scorpion pour signe naturel, et donc deux maîtres : Pluton et, dans la tradition, Mars. Avec [Uranus](/astrology/uranus/) ici, la réforme et l’indépendance travaillent dans les formes les plus profondes du partage : il vous faut une confiance qui ne devienne pas possession, et des arrangements sur l’argent et l’intimité que vous avez choisis plutôt qu’hérités.
 
-Les anciens donnaient à cette maison la mort et l’héritage. Aucun thème ne peut prédire une mort, et je n’en lis jamais un pour cela ([l’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)). Dans une vie d’adulte, je lis la maison 8 comme l’intimité, la confiance et ce qui se partage, et Uranus y signale un besoin de garder de la liberté au sein de tout cela.
+Les anciens donnaient à cette maison la mort et l’héritage. Une mort ne se lit pas dans un thème, et je n’essaie jamais ([l’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)). Dans une vie d’adulte, je lis la maison 8 comme l’intimité, la confiance et ce qui se partage, et Uranus y signale un besoin de garder de la liberté au sein de tout cela.
 
 En Placidus, le système de maisons que j’utilise, une planète en maison 8 a passé son point le plus haut quelques heures avant la naissance et descend vers l’ouest. Cela dépend de l’heure : une [heure de naissance](/blog/unknown-birth-time/) précise est indispensable, alors que le signe d’Uranus appartient à toutes les personnes nées les mêmes années. Les voisins : [Uranus en maison 7](/astrology/uranus-in-7th-house/), la liberté avec une ou un partenaire ; [Uranus en maison 9](/astrology/uranus-in-9th-house/), la liberté de croire. En face se trouve la maison 2, ce qui n’est qu’à vous, et Uranus en maison 8 ne cesse de demander où passe la ligne entre le vôtre et le nôtre.
 
@@ -48,7 +48,7 @@ Au travail, Uranus en maison 8 convient aux domaines qui gèrent ce qui se parta
 
 ## Le plus difficile {#le-plus-difficile}
 
-Le plus difficile, c’est une proximité du tout ou rien. Vous vous retirez peut-être juste au moment où l’intimité s’approfondit, ou traitez toute obligation partagée, un compte commun, un prêt, une promesse, comme une menace pour votre liberté. Des décisions soudaines sur ce que vous partagez peuvent ébranler les autres. Certaines personnes qui ont ce placement taisent leurs propres besoins au milieu d’une crise, et ne remarquent qu’après coup ce qu’elles ont cédé. Réformer n’est pas détruire : vous pouvez changer un arrangement sans déchirer la confiance qu’il contient.
+Le plus difficile, c’est une proximité qui fonctionne à plein ou pas du tout. Vous vous retirez peut-être juste au moment où l’intimité s’approfondit, ou traitez toute obligation partagée, un compte commun, un prêt, une promesse, comme une menace pour votre liberté. Des décisions soudaines sur ce que vous partagez peuvent ébranler les autres. Certaines personnes qui ont ce placement taisent leurs propres besoins au milieu d’une crise, et ne remarquent qu’après coup ce qu’elles ont cédé. Réformer n’est pas détruire : vous pouvez changer un arrangement sans déchirer la confiance qu’il contient.
 
 ## Ce qui aide {#ce-qui-aide}
 

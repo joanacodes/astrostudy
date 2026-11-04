@@ -32,11 +32,11 @@ Play is where many people settle into habit: the same hobby, the same kind of ev
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 5th house](/astrology/5th-house/) is what you do for joy: creativity, pleasure, play and romance, the way you show yourself when nobody is grading you. It's succedent, its natural sign is Leo, ruled by the Sun, and the Hellenistic astrologers called it Good Fortune and gave Venus her joy there. With [Uranus](/astrology/uranus/) here, innovation and experiment work in the space of pleasure: unusual hobbies, original creative work, romance that needs surprise.
+[The 5th house](/astrology/5th-house/) is what you do for joy: creativity, pleasure, play and romance, the way you show yourself when nobody is grading you. Succedent, it has Leo, the Sun's sign, as its natural sign; the Hellenistic astrologers named it Good Fortune and set Venus's joy there. With [Uranus](/astrology/uranus/) here, innovation and experiment work in the space of pleasure: unusual hobbies, original creative work, romance that needs surprise.
 
 Tradition also gave this house children. No placement says whether or when you'll have them, and I don't read a chart for that ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)); nor does this site read [children's charts](/astrology/childrens-charts/). In an adult's life I read the 5th as what you create and enjoy, whatever form that takes.
 
-In Placidus, the house system I use, this places Uranus below the western horizon at birth, some hours after it set, and only an accurate [birth time](/blog/unknown-birth-time/) can do that: Uranus's sign belongs to your generation, but the house is the hour's. Across the chart lies the 11th, the natural house of Aquarius, the sign Uranus rules in modern tropical astrology, and what you make for fun often finds its best audience among friends and groups. The neighbours are [Uranus in the 4th house](/astrology/uranus-in-4th-house/) and [Uranus in the 6th house](/astrology/uranus-in-6th-house/).
+In Placidus, the house system I use, this places Uranus below the western horizon at birth, some hours after it set, and only an accurate [birth time](/blog/unknown-birth-time/) can do that: Uranus's sign belongs to your generation, but the house is the hour's. Across the chart lies the 11th, the natural house of Aquarius, the sign Uranus rules in modern tropical astrology, and what you make for fun often finds its best audience among friends and groups. Home comes just before, in [Uranus in the 4th house](/astrology/uranus-in-4th-house/), and daily work just after, in [Uranus in the 6th house](/astrology/uranus-in-6th-house/).
 
 ## In close relationships {#in-close-relationships}
 

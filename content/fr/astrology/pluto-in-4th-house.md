@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 112
 glyph: "♇"
-definition: "Pluton en maison 4, c’est la planète de la transformation dans la maison du foyer, de la famille, des racines et de la vie privée. On y lit des racines profondes, un passé qui pèse, et un foyer refait aux tournants de la vie. En Placidus, cette maison commence au Fond du Ciel : il faut donc l’heure de naissance."
+definition: "Pluton en maison 4 met le changement profond à la racine du thème : le foyer, la famille, les racines et la vie privée. On y lit des racines profondes, un passé qui pèse, et un foyer refait aux tournants de la vie. En Placidus, cette maison commence au Fond du Ciel : il faut donc l’heure de naissance."
 facts:
   - { k: "Corps", v: "Pluton ♇" }
   - { k: "Maison", v: "Maison 4 : le foyer, la famille, les racines, la vie privée" }
@@ -32,15 +32,15 @@ Pluton en maison 4 se tient au pied du thème, sous tout le reste : le foyer, l
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La [maison 4](/astrology/4th-house/) est la base du thème : là où vous vivez et d’où vous venez, la famille et les ancêtres, la vie privée que personne ne voit, le terrain intérieur sur lequel vous vous tenez. C’est une maison angulaire, et son signe naturel est le Cancer. En Placidus, le système de maisons que j’utilise, elle commence au [Fond du Ciel](/astrology/imum-coeli/), le point le plus bas du thème, en face du Milieu du Ciel. Avec [Pluton](/astrology/pluto/) ici, les changements les plus profonds de votre vie ont tendance à partir du foyer ou à l’atteindre : un déménagement qui change tout, une maison rebâtie, un schéma familial que vous décidez de ne pas transmettre. Ce qui se trouve sous le plancher compte pour vous, dans tous les sens du terme.
+La [maison 4](/astrology/4th-house/) est la base du thème : là où vous vivez et d’où vous venez, la famille et les ancêtres, la vie privée que personne ne voit, le terrain intérieur sur lequel vous vous tenez. Angulaire, avec le Cancer pour signe naturel, elle commence en Placidus, le système de maisons que j’utilise, au [Fond du Ciel](/astrology/imum-coeli/), le point le plus bas du thème, en face du Milieu du Ciel. Avec [Pluton](/astrology/pluto/) ici, les tournants de votre vie ont tendance à partir du foyer ou à l’atteindre : un déménagement qui change tout, une maison rebâtie, un schéma familial que vous décidez de ne pas transmettre. Ce qui se trouve sous le plancher compte pour vous, dans tous les sens du terme.
 
 Le foyer, pour ce placement, est un lieu à garder, et aussi un lieu de renouveau. Le passé pèse : les histoires de famille, ce dont on hérite sans l’avoir choisi, le sentiment que l’endroit d’où l’on vient façonne encore. Dans une vie d’adulte, le travail consiste à assumer ces racines sans se laisser posséder par elles.
 
-Le Fond du Ciel bouge avec l’heure de naissance, et Pluton tout près de cet angle peut se trouver en maison 3 ou en maison 4 à quelques minutes près : je ne lis donc ce placement qu’à partir d’une [heure de naissance](/blog/unknown-birth-time/) fiable. Le signe de Pluton appartient à votre génération ; cette maison le rend vôtre. [Pluton en maison 3](/astrology/pluto-in-3rd-house/) transforme la parole de tous les jours, et [Pluton en maison 5](/astrology/pluto-in-5th-house/) la création et le jeu.
+Le Fond du Ciel se règle à la minute de naissance, et Pluton tout près de cet angle peut se trouver en maison 3 ou en maison 4 selon quelques minutes d’écart : je ne lis donc ce placement qu’avec une [heure de naissance](/blog/unknown-birth-time/) fiable. Ses voisines tirent la même profondeur ailleurs : vers la parole de tous les jours avec [Pluton en maison 3](/astrology/pluto-in-3rd-house/), vers la création et le jeu avec [Pluton en maison 5](/astrology/pluto-in-5th-house/).
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-Dans les relations, Pluton en maison 4 cherche un foyer chez l’autre : une personne avec qui il est sans danger d’être entièrement soi, à l’abri. La confiance se bâtit lentement, et quand quelqu’un devient de la famille pour vous, le lien va très loin. Le point sensible, c’est le passé : de vieilles dynamiques familiales qui se rejouent dans un nouveau foyer, ou le besoin de contrôler la maison parce que la maison a un jour semblé incertaine. Les couples s’en sortent bien ici quand ils bâtissent leurs propres traditions plutôt que d’en hériter telles quelles, et quand chaque personne a un coin à elle.
+Pluton en maison 4 cherche un foyer chez l’autre : une personne avec qui il est sans danger d’être entièrement soi, à l’abri. La confiance se bâtit lentement, et quand quelqu’un devient de la famille pour vous, le lien va très loin. Le point sensible, c’est le passé : de vieilles dynamiques familiales qui se rejouent dans un nouveau foyer, ou le besoin de contrôler la maison parce que la maison a un jour semblé incertaine. Les couples s’en sortent bien ici quand ils bâtissent leurs propres traditions plutôt que d’en hériter telles quelles, et quand chaque personne a un coin à elle.
 
 ## Au travail {#au-travail}
 
@@ -48,7 +48,7 @@ Au travail, Pluton en maison 4 a souvent besoin d’une base privée : une piè
 
 ## Le plus difficile {#le-plus-difficile}
 
-Le plus difficile, c’est le poids de ce qui précède. Avec Pluton en maison 4, on peut porter des histoires de famille jamais dites à voix haute, une loyauté envers un passé qui n’aide plus, ou une peur de perdre son foyer assez forte pour que chaque changement ressemble à une menace. Le contrôle peut se concentrer à la maison : un intérieur tenu exactement comme il faut, des secrets de famille bien gardés. Et parfois, les émotions les plus profondes restent si privées que même les personnes les plus proches ignorent leur existence.
+Ce qui précède peut peser lourd ici. Avec Pluton en maison 4, on peut porter des histoires de famille jamais dites à voix haute, une loyauté envers un passé qui n’aide plus, ou une peur de perdre son foyer assez forte pour que tout changement paraisse dangereux. Le contrôle peut se concentrer à la maison : un intérieur tenu exactement comme il faut, des secrets de famille bien gardés. Et parfois, les émotions les plus profondes restent si privées que même les personnes les plus proches ignorent leur existence.
 
 ## Ce qui aide {#ce-qui-aide}
 

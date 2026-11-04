@@ -18,9 +18,9 @@ facts:
 related: ["/astrology/ascendant", "/astrology/gemini", "/astrology/mercury", "/astrology/chart-ruler", "/blog/unknown-birth-time"]
 faq:
   - q: "What does Gemini rising mean?"
-    a: "That Gemini was rising in the east when you were born, so your Ascendant is in a mutable air sign. You tend to meet the world with questions, adapt to the person in front of you and think on your feet. Mercury becomes your chart ruler, and an accurate birth time is what confirms the sign."
+    a: "Born with Gemini on the eastern horizon, you tend to meet the world with questions, adapt to the person in front of you and think on your feet. Your Ascendant is in a mutable air sign, Mercury becomes your chart ruler, and an accurate birth time is what confirms the sign."
   - q: "How common is Gemini rising?"
-    a: "A little rarer than average. Gemini takes about 106 minutes to rise at London and 114 at New York, close to the two-hour average, so roughly 1 London birth in 14 has it. Signs that rise fast in the northern hemisphere rise slowly in the southern, and Gemini is on the quick side in the north."
+    a: "A little rarer than average: roughly 1 London birth in 14, where an even share would be 1 in 12. Gemini needs about 106 minutes to rise at London and 114 at New York. Signs that rise fast in the northern hemisphere rise slowly in the southern, and Gemini is on the quick side in the north."
   - q: "What if Mercury, my chart ruler, is retrograde?"
     a: "Then it was retrograde when you were born, as it is for about three weeks, three or four times a year. With Gemini rising I read it as a mind that reconsiders and comes back to ideas, and often gives the second, better version. It isn’t a fault, and it doesn’t mean your words go astray."
   - q: "Does Gemini rising mean I talk a lot?"
@@ -34,28 +34,28 @@ Gemini was coming up in the east at the minute you were born, and it shows in ho
 
 ## What it shows {#what-it-shows}
 
-Your [Ascendant](/astrology/ascendant/) sits in a mutable air sign: one that lives by exchange and adapts as it goes. I read Gemini rising as an opening question, the habit of finding your way into anything new by asking about it, comparing it, passing it on. In Placidus, the house system I use, the Ascendant is the cusp of the [1st house](/astrology/1st-house/), and here the natural sign of the 3rd house, everyday words and the people close by, opens the house of the self. So you tend to introduce yourself by trading something: a question, a piece of news, a joke.
+Mutable air on the [Ascendant](/astrology/ascendant/) means a manner that lives by exchange and adapts as it goes. Gemini rising, as I read it, is an opening question: the habit of finding your way into anything new by asking about it, comparing it, passing it on. In Placidus, the house system I use, the Ascendant is the cusp of the [1st house](/astrology/1st-house/), the house where tradition gives Mercury, your chart ruler, its joy. So it suits you to open by trading something: a question, a piece of news, a joke.
 
-Gemini rises close to the average pace. It takes about 106 minutes at London, 109 at Paris and 114 at New York: a little under two hours, the slowest, with Capricorn, of the six signs that rise quickly in the north. Roughly 1 London birth in 14 has it. A rounded time is still a risk. At London, half an hour moves the Ascendant over a quarter of the way across Gemini, so a round hour holds if the Ascendant falls near the middle of the sign and can slip into [Taurus rising](/astrology/taurus-rising/) or [Cancer rising](/astrology/cancer-rising/) near either end. I check which before I read it ([what changes without a birth time](/blog/unknown-birth-time/)). Signs that rise fast in the northern hemisphere rise slowly in the southern, so Gemini, slightly quick here, takes longer there.
+Gemini rises close to the average pace. It takes about 106 minutes at London, 109 at Paris and 114 at New York: a little under two hours, the slowest, with Capricorn, of the six signs that rise quickly in the north, and the rising sign of roughly 1 London birth in 14. A rounded time is still a risk. At London, half an hour moves the Ascendant over a quarter of the way across Gemini, so a round hour holds if the Ascendant falls near the middle of the sign and can slip into [Taurus rising](/astrology/taurus-rising/) or [Cancer rising](/astrology/cancer-rising/) near either end. I check which before I read it ([what changes without a birth time](/blog/unknown-birth-time/)). Signs that rise fast in the northern hemisphere rise slowly in the southern, so Gemini, slightly quick here, takes longer there.
 
 ## First impressions {#first-impressions}
 
-People tend to find you easy to talk to, and quick. You ask, you link what they said to something else, you adjust your tone to theirs, and newcomers often leave knowing less about you than you learned about them. The misreading is lightness taken for not being serious. Curiosity isn't distraction: a Gemini Ascendant changes the subject because it's following a thread, not because it has lost one.
+You come across as easy to talk to, and quick. You ask, you link what they said to something else, you adjust your tone to theirs, and newcomers often leave knowing less about you than you learned about them. Some take the lightness for a lack of seriousness. Curiosity isn't distraction: a Gemini Ascendant changes the subject because it's following a thread, not because it has lost one.
 
 In the spirit of a sign that reads the small print: in [my testing notes](/blog/i-tested-my-birth-chart/), the rising sign is among the placements everyone reads first, and it held about a third of the time. So I treat this first sketch as a question to put to you, not an answer.
 
 ## Its ruler {#its-ruler}
 
-Mercury rules Gemini, so [Mercury](/astrology/mercury/) is your [chart ruler](/astrology/chart-ruler/): the planet of thought, language and exchange speaks for the whole chart. Its sign shows how your mind moves; its house, the part of life your curiosity keeps returning to. Talk isn't the whole of it. Mercury is how you take things in and make sense of them, and for some people with this rising sign that work is mostly silent.
+As the ruler of Gemini, [Mercury](/astrology/mercury/) takes the role of [chart ruler](/astrology/chart-ruler/), and the planet of thought, language and exchange gets the last word on the whole chart. Read its sign for the way your mind moves, and its house for the part of life your curiosity keeps returning to. Talk isn't the whole of it. Mercury is how you take things in and make sense of them, and for some people with this rising sign that work is mostly silent.
 
 Mercury turns retrograde three or four times a year, for about three weeks each time, so plenty of Gemini-rising charts have a chart ruler that was retrograde at birth. I don't read that as a fault. It tends to describe a mind that rethinks before it settles, and comes back to things others have dropped ([natal retrograde planets](/blog/retrograde-planets/)).
 
-Its signs matter too. In Gemini, Mercury is at home; in Virgo, its other sign and its exaltation, it sorts rather than gathers. In Sagittarius, the sign on your Descendant, Mercury is in detriment, and in Pisces it is in detriment and fall at once: there your chart ruler thinks in wide views or in images, and fills in the details later.
+Its signs matter too. In Gemini, Mercury is at home, and chart ruler and Ascendant speak with one voice; in Virgo, its exaltation, the same mind turns precise. In Sagittarius, the sign on your Descendant, Mercury is in detriment, and in Pisces it is in detriment and fall at once: there your chart ruler thinks in wide views or in images, and fills in the details later.
 
 ## In close relationships {#in-close-relationships}
 
-Close up, Gemini rising needs to be able to talk about it: the relationship, the day, the half-formed idea at midnight. You get close through conversation, and a long silence can feel like distance even when it isn't. A partner who answers back, and who changes their mind now and then, keeps you interested.
+In love and friendship, Gemini rising needs to be able to talk about it: the relationship, the day, the half-formed idea at midnight. You get close through conversation, and a long silence can feel like distance even when it isn't. A partner who answers back, and who changes their mind now and then, keeps you interested.
 
-Your [Descendant](/astrology/descendant/) is in Sagittarius, opposite: you're drawn to people who see the whole map while you're still reading the street signs ([Sagittarius on the 7th house cusp](/astrology/sagittarius-on-7th-house-cusp/)).
+Across the chart, your [Descendant](/astrology/descendant/) falls in Sagittarius, and the people who pull you in see the whole map while you're still reading the street signs ([Sagittarius on the 7th house cusp](/astrology/sagittarius-on-7th-house-cusp/)).
 
-What you bring is detail, news and a lightness that keeps a bond from going stale; what you may need back is room to stay curious about other things, without it being taken as doubt.
+Detail, news and a lightness that keeps a bond from going stale are your gifts to it; room to stay curious about other things, without that being taken as doubt, is what you may need back.

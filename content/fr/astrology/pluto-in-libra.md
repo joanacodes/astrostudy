@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 115
 glyph: "♇♎"
-definition: "Pluton en Balance, c’est la planète de la transformation en air cardinal, dans le signe des plateaux gouverné par Vénus. Ce placement est celui de la génération née d’octobre 1971 à août 1984, environ 1 personne sur 7 née de 1930 à 2009. On y lit des relations refondées : l’équité, l’égalité, les conditions entre deux personnes."
+definition: "Pluton en Balance fait entrer le changement profond dans le signe des plateaux, l’air cardinal gouverné par Vénus. Ce placement est celui de la génération née d’octobre 1971 à août 1984, environ 1 personne sur 7 née de 1930 à 2009. On y lit des relations refondées : l’équité, l’égalité, les conditions entre deux personnes."
 facts:
   - { k: "Corps", v: "Pluton ♇" }
   - { k: "Signe", v: "Balance ♎, gouvernée par Vénus" }
@@ -29,15 +29,15 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les mois passés par Pluton en Balance de 1930 à 2039, et la part des personnes nées entre 1930 et 2009 qui ont ce placement" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-Pluton en Balance appartient aux naissances d’octobre 1971 à août 1984. La planète de la transformation se trouve ici dans le signe des plateaux, et j’y lis une génération qui refait les conditions mêmes de la relation : ce qui est juste entre deux personnes, et ce que chacune doit à l’autre.
+Les personnes nées entre octobre 1971 et août 1984 portent Pluton en Balance. Avec la planète de la transformation sur les plateaux, j’y lis une génération qui refait les conditions mêmes de la relation : ce qui est juste entre deux personnes, et ce que chacune doit à l’autre.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-[Pluton](/astrology/pluto/) transforme en allant à la racine, et donne de la force à ce qui est vrai une fois le faux parti. La [Balance](/astrology/libra/), signe d’air cardinal gouverné par Vénus, pèse, équilibre et relie ; ce qui s’y trouve passe par les autres et par la question de ce qui est juste. En Balance, la profondeur de Pluton passe dans la relation. Cette génération ne tient pas pour acquises les anciennes règles du couple : qui décide, qui cède, à quoi ressemble l’égalité entre deux personnes d’un jour à l’autre. Les signes cardinaux commencent les choses, et ici, le commencement est une négociation, souvent rouverte.
+[Pluton](/astrology/pluto/) transforme en allant à la racine, et donne de la force à ce qui est vrai une fois le faux parti. La [Balance](/astrology/libra/), signe d’air cardinal gouverné par Vénus, pèse, équilibre et relie ; ce qui s’y trouve passe par les autres et par la question de ce qui est juste. C’est dans la relation que va la profondeur. Cette génération ne tient pas pour acquises les anciennes règles du couple : qui décide, qui cède, à quoi ressemble l’égalité entre deux personnes d’un jour à l’autre. Les signes cardinaux commencent les choses, et ici, le commencement est une négociation, souvent rouverte.
 
-Pluton n’a aucune dignité en Balance. La tradition ignorait Pluton, et l’astrologie tropicale moderne lui donne le Scorpion, le signe suivant. [Vénus](/astrology/venus/), maîtresse de la Balance, compte beaucoup dans tout thème où Pluton est en Balance : son signe et sa maison montrent à quoi ressemble la soif d’équité d’une génération dans la façon d’aimer et de choisir d’une personne.
+La Balance n’apporte aucune dignité : la tradition ignorait Pluton, et le schéma moderne réserve à Pluton le Scorpion. Le Scorpion vient juste après la Balance, et ce placement se lit souvent comme la profondeur du Scorpion dite dans la langue de l’équité. [Vénus](/astrology/venus/) gouverne les plateaux, et je la lis donc avec ce placement : la place de Vénus montre le genre de partenaire qui attire une personne, et les conditions sur lesquelles elle ne cédera pas.
 
-Pluton était en Balance d’octobre 1971 à août 1984, et y revient de novembre 2217 à octobre 2230. Pluton a fait des allers-retours avec [Pluton en Vierge](/astrology/pluto-in-virgo/) jusqu’en juillet 1972, et avec [Pluton en Scorpion](/astrology/pluto-in-scorpio/) à partir de novembre 1983 : pour une naissance à l’un ou l’autre bout, le thème doit dire quel signe est le bon. Sur l’ensemble des personnes nées de 1930 à 2009, environ 1 sur 7 a ce placement. Le signe est partagé par toute une génération ; la maison le rend vôtre, et la maison demande une [heure de naissance](/blog/unknown-birth-time/).
+Pluton était en Balance d’octobre 1971 à août 1984, et y revient de novembre 2217 à octobre 2230. Pluton a fait des allers-retours avec [Pluton en Vierge](/astrology/pluto-in-virgo/) jusqu’en juillet 1972, et avec [Pluton en Scorpion](/astrology/pluto-in-scorpio/) à partir de novembre 1983 : les naissances à l’un ou l’autre bout ne se tranchent qu’avec le thème. Parmi les naissances de 1930 à 2009, environ 1 personne sur 7 a ce placement. Partagé par toute une génération, le signe décrit les conditions que tout le monde négocie ; la maison décrit où vous les négociez, et seule l’[heure de naissance](/blog/unknown-birth-time/) peut la montrer.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -45,7 +45,7 @@ C’est dans le couple que Pluton en Balance fait son travail le plus profond. L
 
 ## Au travail {#au-travail}
 
-Au travail, Pluton en Balance va là où l’équité doit se construire : la médiation, le droit, le design, la diplomatie, tout rôle qui amène des gens à un accord avec lequel vivre. Ce placement peut transformer la façon dont une équipe partage les décisions, ou dont une entreprise traite les personnes de l’autre côté de l’accord, et travaille souvent le mieux en duo, avec des partenaires qui jouent franc-jeu. Les endroits où le pouvoir se cache, ou où l’on contourne les règles en silence, peuvent lui sembler insupportables.
+L’équité doit se construire quelque part, et ce placement aime en être l’artisan : la médiation, le droit, le design, la diplomatie, tout rôle qui amène des gens à un accord avec lequel vivre. Ce placement peut transformer la façon dont une équipe partage les décisions, ou dont une entreprise traite les personnes de l’autre côté de l’accord, et travaille souvent le mieux en duo, avec des partenaires qui jouent franc-jeu. Les endroits où le pouvoir se cache, ou où l’on contourne les règles en silence, peuvent lui sembler insupportables.
 
 ## Le plus difficile {#le-plus-difficile}
 

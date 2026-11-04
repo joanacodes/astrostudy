@@ -42,7 +42,7 @@ Aries also rises fast. It needs about 52 minutes to clear the horizon at London,
 
 People tend to meet your readiness before anything else. You're often the one who breaks a silence, asks the direct question or offers to go first, and newcomers read that as energy and frankness. The misreading, when there is one, is speed taken for pushing. Assertion isn't aggression, but for the first five minutes the two can look alike: you say what you want plainly, because hinting feels like wasted time. Given longer, people find that the frankness runs both ways: a straight answer doesn't put you off.
 
-How far would I lean on this? In [my testing notes](/blog/i-tested-my-birth-chart/), the rising sign is among the placements everyone reads first, and it held about a third of the time. So I take Aries rising as a sketch of your first minute, not a portrait, and I check it against the rest of your chart.
+How far would I lean on this? Not far on its own: in [my testing notes](/blog/i-tested-my-birth-chart/), the rising sign, among the placements everyone reads first, held about a third of the time. So I take Aries rising as a sketch of your first minute, not a portrait, and I check it against the rest of your chart.
 
 ## Its ruler {#its-ruler}
 

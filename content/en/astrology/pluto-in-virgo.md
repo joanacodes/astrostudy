@@ -27,13 +27,13 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the signs, and Mercury as the ruler of Virgo" }
   - { title: "The Astro Study’s count from the planets’ positions", note: "the months Pluto spent in Virgo, 1930–2039, and how many people born 1930–2009 have it" }
 ---
-Pluto in Virgo belongs to births from October 1956 to July 1972, about 1 person in 6 of everyone born from 1930 to 2009. Virgo is the sign of the careful craftsperson, and this Pluto reads to me as transformation by work, method and the patient repair of whatever doesn't work.
+Nearly everyone born from October 1956 to July 1972 has Pluto in Virgo: about 1 person in 6 among all births from 1930 to 2009. Virgo is the sign of the careful craftsperson, and this Pluto reads to me as transformation by work, method and the patient repair of whatever doesn't work.
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Pluto](/astrology/pluto/) eliminates what is obsolete so that what remains can work better. [Virgo](/astrology/virgo/), mutable earth ruled by Mercury, sorts, refines and improves; whatever sits in it pays attention to detail and wants to be useful. In Virgo, Pluto's renewal happens through method: a process rebuilt step by step, a skill taken apart and relearned, a daily routine changed at the root. This generation transforms the way things get done, and it has little patience for anything that only pretends to work.
+[Pluto](/astrology/pluto/) eliminates what is obsolete so that what remains can work better. [Virgo](/astrology/virgo/), mutable earth ruled by Mercury, sorts, refines and improves; whatever sits in it pays attention to detail and wants to be useful. Method is how this Pluto renews things: a process rebuilt step by step, a skill taken apart and relearned, a daily routine changed at the root. The way things get done is what these people remake, with little patience for anything that only pretends to work.
 
-Dignity doesn't come into it, since the tradition never knew Pluto and modern tropical astrology gives it Scorpio. What Virgo offers instead is a ruler made for detail: [Mercury](/astrology/mercury/), which rules Gemini too, but here sorts and checks rather than roams. Where Mercury sits in a chart shows which problems this Pluto was made to solve.
+Dignity doesn't come into it: Pluto is absent from the tradition, and modern tropical astrology gives it Scorpio. What Virgo offers instead is a ruler made for detail: [Mercury](/astrology/mercury/), which rules Gemini too, but here sorts and checks rather than roams. Where Mercury sits in a chart shows which problems this Pluto was made to solve.
 
 Pluto was in Virgo from October 1956 to July 1972, and comes back from October 2202 to September 2218. The first months, to June 1958, overlap with [Pluto in Leo](/astrology/pluto-in-leo/); the last, from October 1971, with [Pluto in Libra](/astrology/pluto-in-libra/). For a birth in those months, the chart decides. About 1 person in 6 born in the eighty years from 1930 to 2009 has Pluto in Virgo. That makes it a generation's placement rather than a personal one: the house it falls in, which needs a [birth time](/blog/unknown-birth-time/), and its aspects to your personal planets are where it starts to describe you.
 

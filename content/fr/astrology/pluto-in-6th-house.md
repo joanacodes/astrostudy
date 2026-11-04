@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 114
 glyph: "♇"
-definition: "Pluton en maison 6, c’est la planète de la transformation dans la maison du travail quotidien, des routines, du service et des collègues. On y lit un rapport intense au travail et une vie renouvelée par ce qui se fait chaque jour, jamais, dans une vie d’adulte, une prédiction de maladie. Il faut l’heure de naissance."
+definition: "Pluton en maison 6 laisse le changement profond se faire dans les jours ordinaires : le travail quotidien, les routines, le service et les collègues. On y lit un rapport intense au travail et une vie renouvelée par ce qui se fait chaque jour, jamais, dans une vie d’adulte, une prédiction de maladie. Il faut l’heure de naissance."
 facts:
   - { k: "Corps", v: "Pluton ♇" }
   - { k: "Maison", v: "Maison 6 : le travail quotidien, les routines, le service, les collègues" }
@@ -28,15 +28,15 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons, et la maison 6, la Fortune défavorable" }
   - { title: "Dorothée de Sidon, Carmen Astrologicum", note: "les maisons lues dans un thème de naissance" }
 ---
-Pluton en maison 6 emmène la planète de la transformation dans les jours ordinaires : l’emploi, la routine, les habitudes et les petits devoirs qui remplissent une semaine. J’y lis une vie transformée à partir de la base, par ce que vous faites chaque jour plutôt que par de grands événements.
+Vu de l’extérieur, le changement profond a l’air spectaculaire ; avec Pluton en maison 6, il se fait les jours ordinaires, par l’emploi, la routine, les habitudes et les petits devoirs qui remplissent une semaine. J’y lis une vie transformée à partir de la base.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La [maison 6](/astrology/6th-house/) est la maison de la vie quotidienne telle qu’elle se vit vraiment : le travail et ses conditions, les routines, le service, les collègues, le soin que vous donnez à votre corps d’un jour à l’autre. C’est une maison cadente, son signe naturel est la Vierge, et la tradition l’appelait la Fortune défavorable et en faisait la joie de Mars. La tradition lui donnait aussi la maladie. Dans une vie d’adulte, je la lis comme les habitudes et les soins quotidiens, jamais comme une prédiction de santé, et aucun thème ne peut prédire une maladie (voir [L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)).
+La [maison 6](/astrology/6th-house/) est la maison de la vie quotidienne telle qu’elle se vit vraiment : le travail et ses conditions, les routines, le service, les collègues, le soin que vous donnez à votre corps d’un jour à l’autre. C’est une maison cadente, son signe naturel est la Vierge, et les anciens astrologues l’appelaient la Fortune défavorable et y plaçaient la joie de Mars. La tradition lui donnait aussi la maladie. Dans une vie d’adulte, je la lis comme les habitudes et les soins quotidiens, jamais comme une prédiction de santé, et aucun thème ne peut prédire une maladie (voir [L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)).
 
 Avec [Pluton](/astrology/pluto/) ici, c’est dans le quotidien que se joue le changement profond. Les routines sont rarement neutres pour vous : elles vous portent ou vous usent, et quand elles cessent de fonctionner, vous avez tendance à les refondre entièrement. Le travail compte intensément, et les personnes avec qui vous travaillez aussi.
 
-En Placidus, le système de maisons que j’utilise, la maison 6 se trouve juste sous l’horizon ouest, et Pluton près de ses bords peut tomber en maison 5 ou en maison 7 pour un petit écart d’heure de naissance : sans l’[heure de naissance](/blog/unknown-birth-time/), je ne peux pas placer Pluton. Le signe de Pluton marque votre génération, tandis que cette maison est personnelle. [Pluton en maison 5](/astrology/pluto-in-5th-house/) met la même profondeur dans le jeu, et [Pluton en maison 7](/astrology/pluto-in-7th-house/) dans le couple.
+En Placidus, le système de maisons que j’utilise, la maison 6 se trouve juste sous l’horizon ouest, et Pluton près de ses bords peut tomber en maison 5 ou en maison 7 pour un petit écart d’heure de naissance : sans l’[heure de naissance](/blog/unknown-birth-time/), je ne peux pas placer Pluton. Les deux maisons qui l’entourent font contraste : [Pluton en maison 5](/astrology/pluto-in-5th-house/) met la même profondeur dans le jeu, [Pluton en maison 7](/astrology/pluto-in-7th-house/) dans le couple.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -48,8 +48,8 @@ C’est au travail que ce placement se concentre. Vous finissez souvent par savo
 
 ## Le plus difficile {#le-plus-difficile}
 
-Le plus difficile, c’est l’usure. Avec Pluton en maison 6, on peut se pousser à travers des routines longtemps après qu’elles ont cessé d’aider, ou passer d’un contrôle rigide de la journée à l’abandon de toutes ses habitudes d’un coup. Le travail peut devenir l’endroit où il faut prouver sa valeur, si bien que le repos ressemble à un échec. Les luttes de pouvoir avec des collègues peuvent vous épuiser pendant des années. Rien de tout cela ne prédit quoi que ce soit de votre santé : cela décrit une façon de fournir l’effort, et une façon de faire peut changer.
+L’usure, voilà le plus difficile. Avec Pluton en maison 6, on peut se pousser à travers des routines longtemps après qu’elles ont cessé d’aider, ou passer d’un contrôle rigide de la journée à l’abandon de toutes ses habitudes d’un coup. Le travail peut devenir l’endroit où il faut prouver sa valeur, si bien que le repos ressemble à un échec. Les luttes de pouvoir avec des collègues peuvent vous épuiser pendant des années. Rien de tout cela ne prédit quoi que ce soit de votre santé : cela décrit une façon de fournir l’effort, et une façon de faire peut changer.
 
 ## Ce qui aide {#ce-qui-aide}
 
-Des routines choisies plutôt qu’héritées, revues à chaque saison et gardées seulement tant qu’elles servent. Un jour par semaine sans aucune obligation. De l’aide acceptée au travail au lieu de tout porter en solitaire. De petits changements réguliers plutôt que des refontes totales. De la douceur envers le corps, au fil de la journée, plutôt qu’un projet à perfectionner. La tradition appelait cette maison la Fortune défavorable ; j’y lis, avec Pluton, l’occasion de faire de la vie ordinaire quelque chose de vraiment à vous.
+Des routines choisies plutôt qu’héritées, revues à chaque saison et gardées seulement tant qu’elles servent. Un jour par semaine sans aucune obligation. De l’aide acceptée au travail au lieu de tout porter en solitaire. De petits changements réguliers plutôt que des refontes totales. De la douceur envers le corps, au fil de la journée, plutôt qu’un projet à perfectionner. La Fortune défavorable n’est qu’un ancien nom : avec Pluton ici, c’est dans les jours ordinaires qu’une vie se refait, une routine après l’autre.

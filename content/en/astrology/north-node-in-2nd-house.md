@@ -32,7 +32,7 @@ The North Node in the 2nd house asks a question that sounds simple and can take 
 
 ## In a birth chart {#in-a-birth-chart}
 
-The 2nd is a succedent house, the one that follows the self and gives it substance, and its natural sign is Taurus. Tradition gave it money and possessions; I read it more widely as what you have, what you value and what you could live from. The [South Node](/astrology/south-node/) sits opposite, in [the 8th house](/astrology/8th-house/): shared resources, other people's money and power, intimacy, the kind of closeness in which two lives become hard to separate. You know that ground well. You may be very good in a crisis, at handling what belongs to others, or at merging your life with someone else's. The 2nd-house end asks for something quieter and sturdier: a base of your own.
+The 2nd is a succedent house, the one that follows the self and gives it substance, and its natural sign is Taurus. Tradition gave it money and possessions; I read it more widely as what you have, what you value and what you could live from. The [South Node](/astrology/south-node/) sits opposite, in [the 8th house](/astrology/8th-house/): shared resources, other people's money and power, intimacy, the kind of closeness in which two lives become hard to separate. You know that ground well. You may be very good in a crisis, at handling what belongs to others, or at merging your life with someone else's. The 2nd-house end asks for something quieter and sturdier: a base of your own. The sign on your 2nd-house cusp, and the house its ruler sits in, show how that base likes to be built ([house rulers](/astrology/house-rulers/)); with the node here, I read that ruler closely.
 
 The house depends on [your birth time](/blog/unknown-birth-time/), and I read it in Placidus. If the node lies close to a cusp, a small error in the time can move it to [North Node in the 1st house](/astrology/north-node-in-1st-house/) or [North Node in the 3rd house](/astrology/north-node-in-3rd-house/), and so can the choice between the mean and the true node, which differ by a degree or two at most. I look at both, and tell you when they disagree.
 
@@ -46,7 +46,7 @@ Comfort matters here too: a good meal, a calm evening, the plain pleasure of bei
 
 ## At work {#at-work}
 
-You may thrive in roles that handle what others own: investments, emergencies, other people's projects. The North Node points to earning from your own skill: a craft, a trade, a talent you develop slowly and can put a price on. Knowing your worth, and saying it out loud in a negotiation, is part of the practice. So is building, step by step, something that belongs to you.
+You may thrive in roles that handle what others own: investments, emergencies, other people's projects. The North Node points to earning from your own skill: a craft, a trade, a talent you develop slowly and can put a price on. Knowing your worth, and saying it out loud in a negotiation, is part of the practice. So is building, step by step, something that belongs to you: a small business, a freelance practice or a side project grown slowly can all be practice grounds.
 
 ## The hard part {#the-hard-part}
 

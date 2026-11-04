@@ -27,7 +27,7 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-Pluto in the 1st house sits right next to the self, so its depth shows on the surface: people often sense an intensity before you've said very much. I read it as a presence that can transform itself completely, and more than once in a lifetime.
+People often sense an intensity in you before you've said very much: with Pluto in the 1st house, the depth sits right next to the self and shows on the surface. This is a presence that can transform itself completely, and more than once in a lifetime.
 
 ## In a birth chart {#in-a-birth-chart}
 

@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les mois passés et à venir de Pluton en Bélier, de 1700 à 2300" }
   - { title: "NASA — Pluto facts", url: "https://science.nasa.gov/dwarf-planets/pluto/facts/", note: "sa découverte en 1930" }
 ---
-Pluton a quitté le Bélier en février 1853 et n’y reviendra qu’en juin 2066 : on rencontre donc ce placement dans les thèmes du XIXe siècle, et dans des thèmes qui restent à dresser. La planète de la transformation s’y trouve dans le signe qui lance les choses, et j’y lis un renouveau par le recommencement : déblayer le terrain, puis partir en premier.
+Pluton a quitté le Bélier en février 1853 et n’y reviendra qu’en juin 2066 : on rencontre donc ce placement dans les thèmes du XIXe siècle, et dans des thèmes qui restent à dresser. Le changement profond rencontre ici le signe qui lance les choses, et j’y lis un renouveau par le recommencement : déblayer le terrain, puis partir en premier.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
@@ -37,7 +37,7 @@ Dans un thème, [Pluton](/astrology/pluto/) est ce qui transforme : ce qui fait
 
 La tradition, qui ignorait Pluton, ne lui accorde aucune dignité, et l’astrologie tropicale moderne ne lui donne qu’un domicile, le Scorpion. Le Bélier garde pourtant un lien avec ce domicile : son maître, [Mars](/astrology/mars/), gouvernait le Scorpion jusqu’à la découverte de Pluton en 1930. Dans tout thème où Pluton est en Bélier, je regarde donc Mars de près : son signe et sa maison disent comment le courage d’une génération devient celui d’une personne.
 
-Pluton était en Bélier d’avril 1822 à février 1853, et s’y trouvera de nouveau de juin 2066 à mars 2097. Aucune personne née entre 1930 et 2009 n’a ce placement. Aux deux bouts de chaque séjour, Pluton a passé et repassé la frontière : d’avril 1822 à mars 1823, le Bélier se partage avec [Pluton en Poissons](/astrology/pluto-in-pisces/), et de mai 1851 à février 1853 avec [Pluton en Taureau](/astrology/pluto-in-taurus/) ; pour une naissance pendant ces mois-là, seul le thème peut trancher. Aucun astrologue n’a lu Pluton en Bélier pendant ce séjour, puisque personne ne connaissait encore Pluton ; le retour de 2066 sera la première occasion d’observer Pluton dans ce signe. Ce placement est commun à toutes les personnes nées sur trois décennies. C’est la maison qui le rend personnel, et la maison demande une [heure de naissance](/blog/unknown-birth-time/).
+Pluton était en Bélier d’avril 1822 à février 1853, et s’y trouvera de nouveau de juin 2066 à mars 2097. Aucune personne née entre 1930 et 2009 n’a ce placement. Aux deux bouts de chaque séjour, Pluton a passé et repassé la frontière : d’avril 1822 à mars 1823, le Bélier se partage avec [Pluton en Poissons](/astrology/pluto-in-pisces/), et de mai 1851 à février 1853 avec [Pluton en Taureau](/astrology/pluto-in-taurus/) ; pour une naissance pendant ces mois-là, seul le thème peut trancher. Aucun astrologue n’a lu Pluton en Bélier pendant ce séjour, puisque personne ne connaissait encore Pluton ; le retour de 2066 sera la première occasion d’observer Pluton dans ce signe. Trois décennies de naissances partagent ce placement, qui à lui seul ne distingue personne ; la maison où tombe Pluton, si, et pour la trouver il faut une [heure de naissance](/blog/unknown-birth-time/).
 
 ## Dans les relations proches {#dans-les-relations-proches}
 

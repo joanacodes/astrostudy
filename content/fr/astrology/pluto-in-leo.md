@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 113
 glyph: "♇♌"
-definition: "Pluton en Lion, c’est la planète de la transformation en feu fixe, dans le signe du cœur gouverné par le Soleil. Les naissances de 1937 à 1958 partagent ce placement : environ 1 personne sur 4 parmi toutes celles nées de 1930 à 2009. On y lit une génération transformée par la création, l’amour et l’audace de se montrer."
+definition: "Pluton en Lion installe le changement profond dans le signe du cœur : le feu fixe, gouverné par le Soleil. Les naissances de 1937 à 1958 partagent ce placement : environ 1 personne sur 4 parmi toutes celles nées de 1930 à 2009. On y lit une génération transformée par la création, l’amour et l’audace de se montrer."
 facts:
   - { k: "Corps", v: "Pluton ♇" }
   - { k: "Signe", v: "Lion ♌, gouverné par le Soleil" }
@@ -29,15 +29,15 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les mois passés par Pluton en Lion de 1930 à 2039, et la part des personnes nées entre 1930 et 2009 qui ont ce placement" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-Environ 1 personne sur 4 née entre 1930 et 2009 a Pluton en Lion, plus que pour tout autre signe de Pluton sur cette période. La planète de la transformation se trouve ici dans le signe du cœur, et j’y lis un changement profond par la création, l’amour et l’audace de se montrer.
+Environ 1 personne sur 4 née entre 1930 et 2009 a Pluton en Lion, plus que pour tout autre signe de Pluton sur cette période. Le changement profond passe ici par le cœur, et j’y lis une génération transformée par la création, l’amour et l’audace de se montrer.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-[Pluton](/astrology/pluto/) renouvelle en allant au cœur des choses : ce qui est faux tombe, pour que quelque chose de plus authentique prenne sa place. Le [Lion](/astrology/leo/), signe de feu fixe gouverné par le Soleil, est chaleureux, loyal, fier et expressif ; ce qui s’y trouve veut briller avec constance et être reconnu pour ce qu’il est. En Lion, la profondeur de Pluton passe dans l’expression de soi. Cette génération transforme ce que veut dire créer, aimer à découvert et compter en tant que personne, et sa force passe par le cœur plutôt que de le contourner.
+[Pluton](/astrology/pluto/) renouvelle en allant au cœur des choses : ce qui est faux tombe, pour que quelque chose de plus authentique prenne sa place. Le [Lion](/astrology/leo/), signe de feu fixe gouverné par le Soleil, est chaleureux, loyal, fier et expressif ; ce qui s’y trouve veut briller avec constance et être reconnu pour ce qu’il est. L’expression de soi devient le lieu de la transformation : ce que veut dire créer, aimer à découvert et compter en tant que personne. La force, ici, passe par le cœur plutôt que de le contourner.
 
-Pluton n’a aucune dignité en Lion. La tradition ignorait Pluton, et l’astrologie tropicale moderne lui donne le Scorpion, signe fixe comme le Lion : Pluton garde ici son endurance, et la dépense au grand jour. Le [Soleil](/astrology/sun/), maître du Lion, a beaucoup à dire dans tout thème où Pluton est en Lion. Son signe et sa maison montrent où le besoin de reconnaissance d’une génération devient le cap d’une personne.
+Le Lion ne donne aucune dignité à Pluton, que la tradition ignorait et que l’astrologie tropicale moderne loge dans le Scorpion. Les deux signes sont fixes, pourtant : Pluton garde ici son endurance, et la dépense au grand jour. Et puisque le [Soleil](/astrology/sun/) gouverne le Lion, la place du Soleil dans un thème est l’endroit où le besoin de briller d’une génération trouve un but personnel : le signe lui donne son style, la maison sa scène.
 
-Pluton était en Lion d’octobre 1937 à juin 1958, et n’y revient que d’août 2183 à juin 2204. Les premiers mois, jusqu’en juin 1939, se partagent avec [Pluton en Cancer](/astrology/pluto-in-cancer/), les derniers, à partir d’octobre 1956, avec [Pluton en Vierge](/astrology/pluto-in-virgo/), et pour une naissance pendant ces mois, seul le thème dit quel signe est le bon. Sur l’ensemble des personnes nées de 1930 à 2009, environ 1 sur 4 a Pluton en Lion. Partagé par tant de gens, ce signe ne peut, à lui seul, décrire personne. La maison, si, et la maison demande une [heure de naissance](/blog/unknown-birth-time/).
+Pluton était en Lion d’octobre 1937 à juin 1958, et n’y revient que d’août 2183 à juin 2204. Les premiers mois, jusqu’en juin 1939, se partagent avec [Pluton en Cancer](/astrology/pluto-in-cancer/), les derniers, à partir d’octobre 1956, avec [Pluton en Vierge](/astrology/pluto-in-virgo/), et pour ces naissances, le thème a le dernier mot. Un quart de toutes les naissances de 1930 à 2009, c’est bien trop de monde pour que le signe seul décrive qui que ce soit ; la maison le peut, et elle demande une [heure de naissance](/blog/unknown-birth-time/).
 
 ## Dans les relations proches {#dans-les-relations-proches}
 

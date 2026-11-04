@@ -34,7 +34,7 @@ Pluto entered Aquarius in March 2023 and stays until January 2044, so everyone b
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Pluto](/astrology/pluto/) transforms by clearing out what no longer serves and strengthening what is real. [Aquarius](/astrology/aquarius/), fixed air, thinks in terms of the group: friendships, communities, networks, the ideals people hold in common, and the independence of each person within them. In Aquarius, Pluto's depth goes into collective life. Astrologers read this generation's Pluto as transformation through groups and shared ideas, through how people organise, belong and decide together. Being fixed, it holds its convictions steadily once it has them.
+[Pluto](/astrology/pluto/) strengthens what is real by letting go of what no longer serves. [Aquarius](/astrology/aquarius/), fixed air, thinks in terms of the group: friendships, communities, networks, the ideals people hold in common, and the independence of each person within them. Collective life is where this one digs. Astrologers read this generation's Pluto as transformation through groups and shared ideas, through how people organise, belong and decide together. Being fixed, it holds its convictions steadily once it has them.
 
 Aquarius has two rulers, and I read both. Modern tropical astrology gives it to [Uranus](/astrology/uranus/), the planet of innovation and liberation; tradition gives it to [Saturn](/astrology/saturn/), the planet of structure. Uranus was discovered in 1781, in the middle of Pluto's previous stay in Aquarius, which ran from April 1777 to December 1798. In a chart with this Pluto, Uranus shows where change wants to break through, and Saturn where it has to be built to last. Of dignity there is none: the tradition never met Pluto, and modern tropical astrology keeps it for Scorpio.
 
@@ -42,11 +42,11 @@ The present stay runs from March 2023 to January 2044. Until November 2024 Pluto
 
 ## In close relationships {#in-close-relationships}
 
-Read in an adult's chart, as it would be for anyone born from 1777 to 1798, this Pluto puts friendship at the root of love. Bonds are built on shared ideals and on respect for each other's independence, and closeness grows out of long talks about how the world could be. The tender point is distance: keeping feelings at arm's length, or finding a cause easier to love than a person. Relationships thrive on space and honesty together. The people born with it now are children, and [children's charts](/astrology/childrens-charts/) are not something I read: this describes the placement, not anyone's child.
+Read in an adult's chart, as it would be for anyone born from 1777 to 1798, this Pluto puts friendship at the root of love. Bonds are built on shared ideals and on respect for each other's independence, and closeness grows out of long talks about how the world could be. The tender point is distance: keeping feelings at arm's length, or finding a cause easier to love than a person. Relationships thrive on space and honesty together. The people born with it now are children, and I never read [children's charts](/astrology/childrens-charts/): this describes the placement, not anyone's child.
 
 ## At work {#at-work}
 
-In an adult's working life, this Pluto is drawn to collective projects: networks, science, reform, organisations built around a shared purpose. It can transform how a group works, so that each member has a real voice, and it has little patience for authority that hasn't earned its place. Its gift is seeing a system as a whole; its work is remembering the people inside it.
+In an adult's working life, this Pluto is drawn to collective projects: networks, science, reform, organisations built around a shared purpose. It can transform how a group works, so that each member has a real voice, and authority that hasn't earned its place tries its patience. Its gift is seeing a system as a whole; its work is remembering the people who live in it.
 
 ## The hard part {#the-hard-part}
 

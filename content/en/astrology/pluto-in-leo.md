@@ -32,7 +32,7 @@ About 1 person in 4 born between 1930 and 2009 has Pluto in Leo, more than any o
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Pluto](/astrology/pluto/) renews by going to the core: it strips away what is false so that something more authentic can take its place. [Leo](/astrology/leo/), fixed fire ruled by the Sun, is warm, loyal, proud and expressive; whatever sits in it wants to shine steadily and be recognised for what it is. In Leo, Pluto's depth goes into self-expression. This generation transforms what it means to create, to love openly and to matter as an individual, and its power comes through the heart rather than around it.
+[Pluto](/astrology/pluto/) renews by going to the core: it strips away what is false so that something more authentic can take its place. [Leo](/astrology/leo/), fixed fire ruled by the Sun, is warm, loyal, proud and expressive; whatever sits in it wants to shine steadily and be recognised for what it is. Self-expression is what gets transformed: what it means to create, to love openly and to matter as an individual. The power here comes through the heart rather than around it.
 
 Leo holds no dignity for Pluto, which the tradition never knew and modern tropical astrology houses in Scorpio. Both signs are fixed, though, so this Pluto keeps its staying power and spends it in the open. And since the [Sun](/astrology/sun/) rules Leo, the Sun's place in a chart is where this generation's need to shine finds a personal purpose: the sign gives that purpose its style, the house its stage.
 

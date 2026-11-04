@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 115
 glyph: "♇"
-definition: "Pluto in the 7th house is the planet of deep change in the house of partnership, marriage, contracts and open rivals. It describes relationships that transform you, and trust and power worked out between two people. In Placidus this house begins at the Descendant, so it needs an accurate birth time."
+definition: "Pluto in the 7th house faces the self from across the chart, in the house of partnership, marriage, contracts and open rivals. It describes relationships that transform you, and trust and power worked out between two people. In Placidus this house begins at the Descendant, so it needs an accurate birth time."
 facts:
   - { k: "Body", v: "Pluto ♇" }
   - { k: "House", v: "The 7th house: partners, marriage, contracts, open rivals" }
@@ -27,19 +27,19 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-Pluto in the 7th house places the planet of deep change opposite the self, in the house of the people you meet one to one. I read it as partnership that transforms: the relationships that matter most tend to change you at the root, and you change them in return.
+With Pluto in the 7th house, the deepest changes tend to come through the person opposite you: the partner, the associate, the rival. Partnership transforms here; the relationships that matter most change you at the root, and you change them in return.
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 7th house](/astrology/7th-house/) is the house of the other person: partners in love and in business, the people you commit to and, in tradition, open rivals as well. It is angular, and its natural sign is Libra. In Placidus, the house system I use, it begins at the [Descendant](/astrology/descendant/), the point that was setting in the west at your birth, exactly opposite the Ascendant. With [Pluto](/astrology/pluto/) here, the deepest changes of your life often arrive through someone else. You may be drawn to intense people, or find that even an easy-going partner becomes intense with you. Either way, partnership is where power, trust and transformation get worked out.
+[The 7th house](/astrology/7th-house/) is the house of the other person: partners in love and in business, the people you commit to and, in tradition, open rivals as well. Like the 1st opposite, it is angular, and its natural sign is Libra. In Placidus, the house system I use, it begins at the [Descendant](/astrology/descendant/), the point that was setting in the west at your birth, exactly opposite the Ascendant. With [Pluto](/astrology/pluto/) here, other people are the door to your own depths. You may be drawn to intense people, or find that even an easy-going partner becomes intense with you. Either way, partnership is where power, trust and transformation get worked out.
 
 Some astrologers read a 7th-house Pluto as a strength you meet in others before you claim it yourself. I find that a useful question to ask, not a rule.
 
-The Descendant turns with the hour, so a Pluto close to it can sit in the 6th or the 7th within minutes of birth time, and I need a reliable [birth time](/blog/unknown-birth-time/) before I read it. [Pluto in the 6th house](/astrology/pluto-in-6th-house/) works through daily routines, and [Pluto in the 8th house](/astrology/pluto-in-8th-house/) through intimacy and what is shared.
+The Descendant turns with the hour, so minutes of birth time decide whether a Pluto near it belongs to the 6th or the 7th, and I need a reliable [birth time](/blog/unknown-birth-time/) before I read it. On one side lies [Pluto in the 6th house](/astrology/pluto-in-6th-house/), working through daily routines; on the other, [Pluto in the 8th house](/astrology/pluto-in-8th-house/), working through intimacy and what is shared.
 
 ## In close relationships {#in-close-relationships}
 
-In love, a 7th-house Pluto looks for depth, and finds it. Relationships are rarely casual, and a serious partnership can rearrange a whole life. Attraction is often magnetic, and the bond becomes a place where both people are changed. The tender points are power and trust: who leads, who yields, who holds on when things get hard. Jealousy can appear wherever trust has not yet been built. These partnerships thrive on equality chosen on purpose, and on honesty about power rather than silence around it. [Their Pluto in your 7th house](/astrology/pluto-in-7th-house-synastry/) is a different matter, another person's Pluto in your chart, and I read that kind of contact only with both people's consent ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+A 7th-house Pluto seeks depth in love, and finds it. Relationships are rarely casual, and a serious partnership can rearrange a whole life. Attraction is often magnetic, and the bond becomes a place where both people are changed. The tender points are power and trust: who leads, who yields, who holds on when things get hard. Jealousy can appear wherever trust has not yet been built. These partnerships thrive on equality chosen on purpose, and on honesty about power rather than silence around it. [Their Pluto in your 7th house](/astrology/pluto-in-7th-house-synastry/) is a different matter, another person's Pluto in your chart, and I read that kind of contact only with both people's consent ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
 
 ## At work {#at-work}
 
@@ -47,8 +47,8 @@ At work, this Pluto shows in partnerships and one-to-one dealings: business part
 
 ## The hard part {#the-hard-part}
 
-The hard part is the struggle for power inside a bond. A 7th-house Pluto can give a partner too much power, take too much, or swing between the two. Old hurts from one relationship can be carried into the next. Rivals can loom large, and a disagreement can turn into a contest neither person meant to start. And the fear of being changed by someone else can keep a partnership at arm's length, even when closeness is what you want.
+Power inside a bond is the sore point. A 7th-house Pluto can give a partner too much power, take too much, or swing between the two. Old hurts from one relationship can be carried into the next. Rivals can loom large, and a disagreement can turn into a contest neither person meant to start. And the fear of being changed by someone else can keep a partnership at arm's length, even when closeness is what you want.
 
 ## What helps {#what-helps}
 
-Choosing partners who can meet intensity with honesty. Talking about power openly: who decides what, and how that shifts over time. Letting a partner change you a little, deliberately, and noticing that you are still yourself. Giving a relationship time to show who someone really is before you commit everything. In [my notebook](/blog/i-tested-my-birth-chart/), Pluto was checked like every placement and wasn't one of [the three that held](/blog/saturn-chiron-lilith/) far more often, while overall about a third held. So with a 7th-house Pluto I describe a pattern, and your relationships stay yours to judge.
+Choosing partners who can meet intensity with honesty. Talking about power openly: who decides what, and how that shifts over time. Letting a partner change you a little, deliberately, and noticing that you are still yourself. Giving a relationship time to show who someone really is before you commit everything. In [my notebook](/blog/i-tested-my-birth-chart/), Pluto was checked like every placement and wasn't one of [the three that held](/blog/saturn-chiron-lilith/) far more often, while overall about a third held, which is why I describe a pattern here and leave your relationships for you to judge.

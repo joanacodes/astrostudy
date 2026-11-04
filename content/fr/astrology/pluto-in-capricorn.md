@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 118
 glyph: "♇♑"
-definition: "Pluton en Capricorne, c’est la planète de la transformation en terre cardinale, dans le signe des structures gouverné par Saturne. Les naissances concernées vont de 2008 à 2024 ; les premières personnes de cette génération ont eu dix-huit ans en 2026. On y lit des structures et une autorité rebâties depuis les fondations, en ne gardant que ce qui porte."
+definition: "Pluton en Capricorne, c’est le changement profond appliqué aux structures, en terre cardinale gouvernée par Saturne. Les naissances concernées vont de 2008 à 2024 ; les premières personnes de cette génération ont eu dix-huit ans en 2026. On y lit des structures et une autorité rebâties depuis les fondations, en ne gardant que ce qui porte."
 facts:
   - { k: "Corps", v: "Pluton ♇" }
   - { k: "Signe", v: "Capricorne ♑, gouverné par Saturne" }
@@ -29,15 +29,15 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les mois passés par Pluton en Capricorne de 1930 à 2039, et la part des personnes nées entre 1930 et 2009 qui ont ce placement" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "Saturne parmi les trois qui ont tenu, Pluton vérifié comme le reste" }
 ---
-Pluton en Capricorne appartient aux naissances de janvier 2008 à novembre 2024 : les premières personnes de cette génération ont eu dix-huit ans en 2026, et la plupart sont encore des enfants. Je décris donc ici un placement de génération, jamais la lecture d’un enfant : la planète de la transformation dans le signe des structures et de l’autorité.
+Pluton en Capricorne appartient aux naissances de janvier 2008 à novembre 2024 : les premières personnes de cette génération ont eu dix-huit ans en 2026, et la plupart sont encore des enfants. Ce qui suit est le portrait d’une génération, jamais la lecture d’un enfant : le changement profond dans le signe des structures et de l’autorité.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-[Pluton](/astrology/pluto/) élimine ce qui est devenu obsolète dans une structure et régénère ce qui sert encore. Le [Capricorne](/astrology/capricorn/), signe de terre cardinal gouverné par Saturne, bâtit, organise et prend la responsabilité du long terme ; ce qui s’y trouve veut des résultats qui tiennent dans la durée. En Capricorne, la transformation de Pluton travaille les structures : les institutions, les hiérarchies, les règles de fonctionnement. Cette génération hérite de ces structures et porte l’envie de les rebâtir depuis les fondations, en gardant ce qui porte et en écartant ce qui n’a que l’air solide.
+[Pluton](/astrology/pluto/) débarrasse une structure de ce qui est devenu obsolète et régénère ce qui sert encore. Le [Capricorne](/astrology/capricorn/), signe de terre cardinal gouverné par Saturne, bâtit, organise et prend la responsabilité du long terme ; ce qui s’y trouve veut des résultats qui tiennent dans la durée. La transformation travaille ici les structures : les institutions, les hiérarchies, les règles de fonctionnement. Cette génération hérite de ces structures et porte l’envie de les rebâtir depuis les fondations, en gardant ce qui porte et en écartant ce qui n’a que l’air solide.
 
-Pluton n’a aucune dignité en Capricorne : la tradition ignorait Pluton, et l’astrologie tropicale moderne lui donne le Scorpion. [Saturne](/astrology/saturn/), maître du Capricorne, a beaucoup à dire dans tout thème où Pluton est en Capricorne, et Saturne fait partie [des trois qui ont tenu](/blog/saturn-chiron-lilith/) bien plus souvent dans mon carnet, 75 à 90 % du temps. J’ai vérifié Pluton comme chaque placement, et Pluton n’en fait pas partie, alors que sur l’ensemble, environ un tiers a tenu. Avec Pluton en Capricorne, je regarde donc d’abord le signe et la maison de Saturne.
+Il n’y a pas de dignité à peser ici : la tradition ignorait Pluton, et son seul domicile moderne est le Scorpion. Le poids revient plutôt à [Saturne](/astrology/saturn/), maître du Capricorne, et Saturne fait partie [des trois qui ont tenu](/blog/saturn-chiron-lilith/) bien plus souvent dans mon carnet, 75 à 90 % du temps. J’ai vérifié Pluton comme chaque placement, et Pluton n’en fait pas partie, alors que sur l’ensemble, environ un tiers a tenu. Avec Pluton en Capricorne, je regarde donc d’abord le signe et la maison de Saturne.
 
-Pluton était en Capricorne de janvier 2008 à novembre 2024, et y revient de mars 2254 à novembre 2270. En 2008, Pluton a fait des allers-retours avec [Pluton en Sagittaire](/astrology/pluto-in-sagittarius/), et de mars 2023 à novembre 2024 avec [Pluton en Verseau](/astrology/pluto-in-aquarius/). Le décompte des naissances de 1930 à 2009 ne voit que ses deux premières années, d’où le chiffre de 1 personne sur 54 ; toutes les naissances de 2009 à 2022 ont aussi ce placement. Comme pour tout signe de Pluton, c’est la maison qui le rend personnel, et la maison demande une [heure de naissance](/blog/unknown-birth-time/). La plupart des personnes qui ont ce placement ont moins de dix-huit ans, et je ne lis pas [le thème des enfants](/astrology/childrens-charts/) : ce qui suit décrit donc ce placement tel qu’il se lit dans le thème d’une personne adulte.
+Pluton était en Capricorne de janvier 2008 à novembre 2024, et y revient de mars 2254 à novembre 2270. En 2008, Pluton a franchi la frontière dans un sens puis dans l’autre avec [Pluton en Sagittaire](/astrology/pluto-in-sagittarius/), et de mars 2023 à novembre 2024 avec [Pluton en Verseau](/astrology/pluto-in-aquarius/). Le décompte des naissances de 1930 à 2009 ne voit que ses deux premières années, d’où le chiffre de 1 personne sur 54 ; toutes les naissances de 2009 à 2022 ont aussi ce placement. Le signe appartient à toutes les personnes nées sur ces quelque dix-sept années ; la maison où tombe ce placement, et donc son sens pour une personne, dépend d’une [heure de naissance](/blog/unknown-birth-time/). La plupart des personnes qui ont ce placement ont moins de dix-huit ans, et je ne lis pas [le thème des enfants](/astrology/childrens-charts/) : ce qui suit décrit donc ce placement tel qu’il se lit dans le thème d’une personne adulte.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -45,11 +45,11 @@ Dans le thème d’une personne adulte, Pluton en Capricorne prend l’engagemen
 
 ## Au travail {#au-travail}
 
-Au travail, Pluton en Capricorne se tourne vers les institutions et les personnes qui les dirigent : les organisations, les services publics, le bâtiment, la gestion, tout ce qui a une structure à améliorer de l’intérieur. Ce placement a la patience de gravir un système et la volonté de le changer une fois en place, et sait porter l’autorité, à condition de la mériter plutôt que de l’exiger. Son meilleur travail rebâtit une structure pour qu’elle serve les personnes qui y vivent.
+Les institutions, et les personnes qui les dirigent, sont le lieu de travail naturel de ce placement : les organisations, les services publics, le bâtiment, la gestion, tout ce qui a une structure à améliorer de l’intérieur. Ce placement a la patience de gravir un système et la volonté de le changer une fois en place, et sait porter l’autorité, à condition de la mériter plutôt que de l’exiger. Son meilleur travail rebâtit une structure pour qu’elle serve les personnes qui y vivent.
 
 ## Le plus difficile {#le-plus-difficile}
 
-Le plus difficile, c’est un pouvoir tenu trop serré. Pluton en Capricorne peut prendre le contrôle pour de la sécurité, s’accrocher rigidement aux plans, ou mesurer la valeur au statut et à la réussite. La peur de l’échec peut faire paraître chaque revers définitif. L’autorité, la sienne ou celle des autres, peut devenir un champ de bataille. Dessous, il y a souvent un besoin profond que les choses soient assez solides pour tenir, et le travail consiste à en laisser certaines plier.
+Le risque, ici, c’est un pouvoir tenu trop serré. Pluton en Capricorne peut prendre le contrôle pour de la sécurité, s’accrocher rigidement aux plans, ou mesurer la valeur au statut et à la réussite. La peur de l’échec peut faire paraître chaque revers définitif. L’autorité, la sienne ou celle des autres, peut devenir un champ de bataille. Dessous, il y a souvent un besoin profond que les choses soient assez solides pour tenir, et le travail consiste à en laisser certaines plier.
 
 ## Ce qui aide {#ce-qui-aide}
 

@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 116
 glyph: "♇"
-definition: "Pluton en maison 8, c’est la planète de la transformation dans la maison de l’intimité, de la confiance, des ressources partagées et des crises, la maison du Scorpion. On y lit une proximité qui va très loin, et un renouveau après les temps durs. La tradition y mettait la mort, qu’aucun thème ne prédit. Il faut l’heure de naissance."
+definition: "Pluton en maison 8 est à l’aise parmi ses thèmes : l’intimité, la confiance, les ressources partagées et les crises, dans la maison du Scorpion. On y lit une proximité qui va très loin, et un renouveau après les temps durs. La tradition y mettait la mort, qu’aucun thème ne prédit. Il faut l’heure de naissance."
 facts:
   - { k: "Corps", v: "Pluton ♇" }
   - { k: "Maison", v: "Maison 8 : l’intimité, la confiance, ce qui est partagé et dû, les crises" }
@@ -28,7 +28,7 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
   - { title: "Dorothée de Sidon, Carmen Astrologicum", note: "les maisons lues dans un thème de naissance" }
 ---
-Pluton en maison 8 se tient parmi ce que deux personnes mettent en commun : l’intimité, la confiance, l’argent partagé, les secrets et les dettes. Son signe naturel est le Scorpion, celui de Pluton, et j’y lis une vie où la proximité et les crises vont toutes deux très loin, et où les temps durs laissent une personne transformée.
+L’intimité, la confiance, l’argent partagé, les secrets et les dettes : la maison 8 contient ce que deux personnes mettent en commun, et Pluton s’y trouve à l’aise. Son signe naturel est le Scorpion, celui de Pluton, et j’y lis une vie où la proximité et les crises vont toutes deux très loin, et où les temps durs laissent une personne transformée.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
@@ -36,7 +36,7 @@ La [maison 8](/astrology/8th-house/) contient ce qui est partagé et ce qui est 
 
 La tradition donnait la mort à la maison 8. Je ne lis la mort dans le thème de personne, et aucun placement ne la prédit (voir [L’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)). Un thème ne peut pas non plus dire ce que vous hériterez, devrez ou recevrez de qui que ce soit (voir [L’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)). Dans une vie d’adulte, je lis Pluton en maison 8 comme votre façon de vivre la proximité, les ressources partagées et les crises : en profondeur, avec discrétion, et avec une réelle capacité de renouveau.
 
-En Placidus, le système de maisons que j’utilise, Pluton près de l’une ou l’autre cuspide de la maison 8 peut passer en maison 7 ou en maison 9 pour un petit écart d’heure : je ne situe donc Pluton qu’à partir d’une [heure de naissance](/blog/unknown-birth-time/) fiable. De part et d’autre, [Pluton en maison 7](/astrology/pluto-in-7th-house/) rencontre l’autre en face, et [Pluton en maison 9](/astrology/pluto-in-9th-house/) part chercher du sens au-delà du lien.
+En Placidus, le système de maisons que j’utilise, la maison 8 se trouve au-dessus de l’horizon ouest, à côté de la maison 7, et la moindre erreur sur l’heure de naissance peut faire passer Pluton par-dessus l’une de ses cuspides : je ne situe donc Pluton qu’une fois l’[heure de naissance](/blog/unknown-birth-time/) connue. De chaque côté se trouvent [Pluton en maison 7](/astrology/pluto-in-7th-house/), qui rencontre l’autre en face, et [Pluton en maison 9](/astrology/pluto-in-9th-house/), qui part chercher du sens au-delà du lien.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -48,8 +48,8 @@ Au travail, Pluton en maison 8 se tourne vers ce qui se trouve dessous : la rec
 
 ## Le plus difficile {#le-plus-difficile}
 
-Le plus difficile, c’est le contrôle de ce qui se partage. Avec Pluton en maison 8, on peut tenir serré l’argent commun, l’information ou les émotions, par peur de rester à découvert. La confiance peut être mise à l’épreuve encore et encore, longtemps après avoir été méritée. De vieilles crises peuvent rester vivantes en vous, rejouées plutôt que relâchées. Et il peut y avoir une attirance pour l’intensité en elle-même, comme si un lien calme n’était pas tout à fait réel.
+Le contrôle de ce qui se partage : c’est là que cela devient difficile. Avec Pluton en maison 8, on peut tenir serré l’argent commun, l’information ou les émotions, par peur de rester à découvert. La confiance peut être mise à l’épreuve encore et encore, longtemps après avoir été méritée. De vieilles crises peuvent rester vivantes en vous, rejouées plutôt que relâchées. Et il peut y avoir une attirance pour l’intensité en elle-même, comme si un lien calme n’était pas tout à fait réel.
 
 ## Ce qui aide {#ce-qui-aide}
 
-La transparence, à petites doses : un compte commun rendu clair, une conversation franche sur l’argent ou le désir, un secret qui n’a plus besoin d’être gardé. Laisser quelqu’un vous aider à traverser un moment dur au lieu de tout gérer en solitaire. Refermer les vieilles crises en nommant ce qu’elles vous ont appris. Laisser le calme compter, lui aussi, comme une forme de profondeur. Pluton en maison 8 connaît les fins et les renouveaux ; ce placement peut aussi apprendre qu’un lien n’a pas besoin d’être mis à l’épreuve pour être vrai.
+La transparence, à petites doses : un compte commun rendu clair, une conversation franche sur l’argent ou le désir, un secret qui n’a plus besoin d’être gardé. Laisser quelqu’un vous aider à traverser un moment dur au lieu de tout gérer en solitaire. Refermer les vieilles crises en nommant ce qu’elles vous ont appris. Laisser le calme compter, lui aussi, comme une forme de profondeur. Les fins et les renouveaux sont un terrain connu pour Pluton en maison 8 ; ce qui reste à apprendre, c’est qu’un lien n’a pas besoin d’être mis à l’épreuve pour être vrai.

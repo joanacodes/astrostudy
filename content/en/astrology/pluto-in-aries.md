@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "the months Pluto spent and will spend in Aries, 1700–2300" }
   - { title: "NASA — Pluto facts", url: "https://science.nasa.gov/dwarf-planets/pluto/facts/", note: "its discovery in 1930" }
 ---
-Pluto left Aries in February 1853 and won't be back until June 2066, so this placement lives in nineteenth-century charts and in charts not yet cast. Deep change meets the sign that starts things here, and I read the pairing as renewal by beginning again: clearing the ground, then going first.
+Pluto left Aries in February 1853 and won't be back until June 2066, so this placement lives in nineteenth-century charts and in charts not yet cast. Deep change meets the sign that starts things here, and the pairing reads to me as renewal by beginning again: clearing the ground, then going first.
 
 ## In a birth chart {#in-a-birth-chart}
 

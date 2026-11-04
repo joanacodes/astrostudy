@@ -18,9 +18,9 @@ facts:
 related: ["/astrology/ascendant", "/astrology/pisces", "/astrology/jupiter", "/astrology/neptune", "/astrology/chart-ruler"]
 faq:
   - q: "What does Pisces rising mean?"
-    a: "That Pisces was rising on the eastern horizon when you were born, so your Ascendant is in the mutable water sign. You tend to meet the world gently, sense moods quickly and adapt to the people around you. Your chart rulers are Jupiter, the traditional one, and Neptune, the modern one, and I read both."
+    a: "The last sign of the zodiac was rising when you were born. With Pisces on your Ascendant you tend to meet the world gently, sense moods quickly and adapt to the people around you. Your chart rulers are Jupiter, the traditional one, and Neptune, the modern one, and I read both."
   - q: "How rare is Pisces rising?"
-    a: "One of the two rarest in the north, with Aries. Pisces takes only about 52 minutes to rise at London and 71 at New York, so about 1 London birth in 28 has it. Signs that rise fast in the northern hemisphere rise slowly in the southern, so Pisces rising is commoner south of the equator."
+    a: "One of the two rarest in the north, with Aries: only about 1 London birth in 28. Pisces is on the eastern horizon for about 52 minutes at London and 71 at New York. Signs that rise fast in the northern hemisphere rise slowly in the southern, so Pisces rising is commoner south of the equator."
   - q: "Who are the chart rulers of Pisces rising?"
     a: "Jupiter and Neptune. Jupiter, the traditional ruler, shows where your faith and generosity grow, and it comes back to its birth position about every twelve years. Neptune, the modern ruler, shows where imagination and compassion run widest; it takes about 165 years to go round, so it never returns in a lifetime."
   - q: "Is Pisces rising the same as a Pisces Sun?"
@@ -34,21 +34,21 @@ Pisces, the last sign of the zodiac, was coming up in the east when you were bor
 
 ## What it shows {#what-it-shows}
 
-Your [Ascendant](/astrology/ascendant/) sits in a mutable water sign: feeling that flows, adapts and lets go. I read Pisces rising as a soft border. Moods, atmospheres and unspoken feelings reach you quickly, and you adjust to them almost before you've noticed. In Placidus, the house system I use, the Ascendant is the cusp of the [1st house](/astrology/1st-house/). Pisces is the natural sign of the 12th, the house of what's out of view, so here the last sign opens the first house: the end of the zodiac stands at the start of your chart, and something of the quiet, inward 12th comes through the door with you.
+Everything about mutable water flows, adapts and lets go, and so does your [Ascendant](/astrology/ascendant/) in Pisces. I think of Pisces rising as a soft border: moods, atmospheres and unspoken feelings reach you quickly, and you adjust to them almost before you've noticed. Pisces is the last sign, and in Placidus, the house system I use, your Ascendant is the cusp of the [1st house](/astrology/1st-house/), so the end of the zodiac stands at the start of your chart: something of the quiet 12th, Pisces' natural house of what's out of view, comes through the door with you.
 
-Pisces and Aries meet at the March equinox point, and in the north they are the two quickest signs to cross the eastern horizon. Pisces needs only about 52 minutes at London, 58 at Paris and 71 at New York; only one London birth in about twenty-eight has it, and even at New York it's the rising sign of only about one birth in twenty. At London the Ascendant runs through Pisces at more than a degree every two minutes, so a time that's half an hour out moves it about seventeen degrees, and a round hour can't tell Pisces rising from [Aquarius rising](/astrology/aquarius-rising/) or [Aries rising](/astrology/aries-rising/). For a sign this slippery, I want the record, not the family memory ([what changes without a birth time](/blog/unknown-birth-time/)). Signs that rise fast in the northern hemisphere rise slowly in the southern, so south of the equator Pisces rising is commoner than these figures suggest.
+Pisces and Aries meet at the March equinox point, and in the north they are the two quickest signs to cross the eastern horizon. Pisces needs only about 52 minutes at London, 58 at Paris and 71 at New York; only one London birth in about twenty-eight has it, and even at New York it's the rising sign of only about one birth in twenty. At London the Ascendant runs through Pisces at more than a degree every two minutes, so a time that's half an hour out moves it about seventeen degrees, and a round hour can't tell Pisces rising from [Aquarius rising](/astrology/aquarius-rising/) or [Aries rising](/astrology/aries-rising/). This is the sign where I'm most careful with family estimates ([what changes without a birth time](/blog/unknown-birth-time/)). Signs that rise fast in the northern hemisphere rise slowly in the southern, so south of the equator Pisces rising is commoner than these figures suggest.
 
 ## First impressions {#first-impressions}
 
-People often find you gentle and easy to be with, and a little hard to read. You mirror the mood you walk into, so different people meet slightly different versions of you, all of them sincere.
+You're easy to be with, and you mirror the mood you walk into, so different people meet slightly different versions of you, all of them sincere.
 
-The misreading is adaptability taken for vagueness, or empathy for having no edges. Compassion isn't self-erasure: Pisces rising takes in other people's feelings without giving up its own, though it may need time alone to sort out which are which.
+The usual mistake is to take your adaptability for vagueness, or your empathy for having no edges. Compassion isn't self-erasure: Pisces rising takes in other people's feelings without giving up its own, though it may need time alone to sort out which are which.
 
-Something solid to set beside the soft: in [my testing notes](/blog/i-tested-my-birth-chart/), the rising sign is among the placements everyone reads first, and it held about a third of the time. I read your Pisces Ascendant as a likely first impression, and I look for the outline of the rest of you in the chart.
+Something solid to set beside the soft: in [my testing notes](/blog/i-tested-my-birth-chart/), the rising sign is among the placements everyone reads first, and it held about a third of the time. So I let your Pisces Ascendant set the mood of a reading, and look to the rest of the chart for the outline.
 
 ## Its rulers {#its-ruler}
 
-Pisces has two rulers, so you have two [chart rulers](/astrology/chart-ruler/). [Jupiter](/astrology/jupiter/), the traditional one, shows where your faith, generosity and sense of meaning grow. [Neptune](/astrology/neptune/), the modern one, shows where your imagination and compassion run widest. I read both, and they rarely say quite the same thing ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)).
+Pisces has an old ruler and a new one, and with Pisces rising both speak for your chart: two [chart rulers](/astrology/chart-ruler/). [Jupiter](/astrology/jupiter/), the traditional one, shows where your faith, generosity and sense of meaning grow. [Neptune](/astrology/neptune/), the modern one, shows where your imagination and compassion run widest. I read both, and they rarely say quite the same thing ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)).
 
 They keep very different clocks. Jupiter goes round the zodiac in about twelve years, so you meet your traditional ruler again at its return every twelve years or so. Neptune takes about 165 years, about fourteen in each sign: its sign is shared by everyone born over those years, its house is yours, and it never comes back to its birth position in a lifetime. One ruler you'll meet again and again; the other you carry as it was.
 
@@ -56,8 +56,8 @@ Your Descendant's sign, Virgo, weakens both, Jupiter by tradition and Neptune fo
 
 ## In close relationships {#in-close-relationships}
 
-Close up, Pisces rising feels what a partner feels, sometimes before they do, and gives comfort without being asked. The work is keeping your own shape in the bond: saying what you want as clearly as you sense what they want, and letting yourself be looked after too.
+Pisces rising feels what a partner feels, sometimes before they do, and gives comfort without being asked. The work is keeping your own shape in the bond: saying what you want as clearly as you sense what they want, and letting yourself be looked after too.
 
-Your [Descendant](/astrology/descendant/) is in Virgo, opposite: you're drawn to capable, attentive people who show love in practical ways ([Virgo on the 7th house cusp](/astrology/virgo-on-7th-house-cusp/)).
+Your [Descendant](/astrology/descendant/) lies in Virgo, and you're drawn to capable, attentive people who show love in practical ways ([Virgo on the 7th house cusp](/astrology/virgo-on-7th-house-cusp/)).
 
-They help you put the dream on a timetable; you help them see what no list can hold.
+With them the dream gets a timetable, and now and then the timetable gets a dream.

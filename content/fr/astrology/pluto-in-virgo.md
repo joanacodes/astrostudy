@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 114
 glyph: "♇♍"
-definition: "Pluton en Vierge, c’est la planète de la transformation en terre mutable, dans le signe de la méthode et du service gouverné par Mercure. Pluton s’y trouvait d’octobre 1956 à juillet 1972 : environ 1 personne sur 6 née de 1930 à 2009 a ce placement. On y lit une transformation par le travail, le savoir-faire et la réparation."
+definition: "Pluton en Vierge tourne le changement profond vers la méthode et le service, en terre mutable gouvernée par Mercure. Pluton s’y trouvait d’octobre 1956 à juillet 1972 : environ 1 personne sur 6 née de 1930 à 2009 a ce placement. On y lit une transformation par le travail, le savoir-faire et la réparation."
 facts:
   - { k: "Corps", v: "Pluton ♇" }
   - { k: "Signe", v: "Vierge ♍, gouvernée par Mercure" }
@@ -28,15 +28,15 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les signes, et Mercure, maître de la Vierge" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les mois passés par Pluton en Vierge de 1930 à 2039, et la part des personnes nées entre 1930 et 2009 qui ont ce placement" }
 ---
-Pluton en Vierge appartient aux naissances d’octobre 1956 à juillet 1972, environ 1 personne sur 6 parmi toutes celles nées de 1930 à 2009. La planète de la transformation se trouve ici dans le signe de l’artisan minutieux, et j’y lis un changement profond par le travail, la méthode et la réparation patiente de tout ce qui ne marche pas.
+Presque toutes les personnes nées d’octobre 1956 à juillet 1972 ont Pluton en Vierge : environ 1 personne sur 6 parmi les naissances de 1930 à 2009. La Vierge est le signe de l’artisan minutieux, et ce placement se lit pour moi comme une transformation par le travail, la méthode et la réparation patiente de tout ce qui ne marche pas.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-[Pluton](/astrology/pluto/) élimine ce qui est devenu obsolète pour que le reste fonctionne mieux. La [Vierge](/astrology/virgo/), signe de terre mutable gouverné par Mercure, trie, affine et améliore ; ce qui s’y trouve fait attention aux détails et veut être utile. En Vierge, le renouveau de Pluton passe par la méthode : un procédé rebâti étape par étape, un savoir-faire démonté puis réappris, une routine quotidienne changée à la racine. Cette génération transforme la façon dont les choses se font, et n’a guère de patience pour ce qui fait seulement semblant de marcher.
+[Pluton](/astrology/pluto/) élimine ce qui est devenu obsolète pour que le reste fonctionne mieux. La [Vierge](/astrology/virgo/), signe de terre mutable gouverné par Mercure, trie, affine et améliore ; ce qui s’y trouve fait attention aux détails et veut être utile. La méthode est la façon dont ce placement renouvelle les choses : un procédé rebâti étape par étape, un savoir-faire démonté puis réappris, une routine quotidienne changée à la racine. La façon dont les choses se font, voilà ce que ces personnes refont, avec peu de patience pour ce qui fait seulement semblant de marcher.
 
-Pluton n’a aucune dignité en Vierge ; la tradition ignorait Pluton, et l’astrologie tropicale moderne lui donne le Scorpion. [Mercure](/astrology/mercury/) gouverne la Vierge : dans tout thème où Pluton est en Vierge, le signe et la maison de Mercure montrent comment l’élan d’analyse d’une génération devient la façon dont une personne résout les problèmes.
+La dignité n’entre pas en jeu : la tradition ne connaissait pas Pluton, et l’astrologie tropicale moderne lui donne le Scorpion. Ce que la Vierge offre à la place, c’est un maître du détail : [Mercure](/astrology/mercury/), qui gouverne aussi les Gémeaux, mais trie et vérifie ici au lieu de vagabonder. La place de Mercure dans un thème montre quels problèmes ce placement est fait pour résoudre.
 
-Pluton était en Vierge d’octobre 1956 à juillet 1972, et y revient d’octobre 2202 à septembre 2218. Les premiers mois, jusqu’en juin 1958, chevauchent [Pluton en Lion](/astrology/pluto-in-leo/) ; les derniers, à partir d’octobre 1971, [Pluton en Balance](/astrology/pluto-in-libra/). Pour une naissance pendant ces mois, c’est le thème qui décide. Sur l’ensemble des personnes nées de 1930 à 2009, environ 1 sur 6 a Pluton en Vierge. C’est donc un placement de génération plutôt qu’un placement personnel : la maison où Pluton se trouve, qui demande une [heure de naissance](/blog/unknown-birth-time/), et ses aspects à vos planètes personnelles sont l’endroit où ce placement commence à vous décrire.
+Pluton était en Vierge d’octobre 1956 à juillet 1972, et y revient d’octobre 2202 à septembre 2218. Les premiers mois, jusqu’en juin 1958, chevauchent [Pluton en Lion](/astrology/pluto-in-leo/) ; les derniers, à partir d’octobre 1971, [Pluton en Balance](/astrology/pluto-in-libra/). Pour une naissance pendant ces mois, c’est le thème qui décide. Environ 1 personne sur 6 née au cours des quatre-vingts années de 1930 à 2009 a Pluton en Vierge. C’est donc un placement de génération plutôt qu’un placement personnel : la maison où Pluton se trouve, qui demande une [heure de naissance](/blog/unknown-birth-time/), et ses aspects à vos planètes personnelles sont l’endroit où ce placement commence à vous décrire.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -44,7 +44,7 @@ Avec Pluton en Vierge, l’amour se montre volontiers par des actes : le probl�
 
 ## Au travail {#au-travail}
 
-Au travail, Pluton en Vierge voit pourquoi un système échoue et comment le rebâtir. L’édition, l’ingénierie, la qualité, la recherche, la réparation, tout domaine où la précision change le résultat lui convient, tout comme le service au sens ancien : être d’une réelle utilité aux gens. Ce placement peut transformer un lieu de travail de l’intérieur, une procédure après l’autre, sans avoir besoin qu’on l’en remercie. Le risque, c’est de prendre chaque défaut repéré pour un devoir personnel.
+Donnez à ce placement un système qui échoue : Pluton en Vierge verra pourquoi, et comment le rebâtir. L’édition, l’ingénierie, la qualité, la recherche, la réparation, tout domaine où la précision change le résultat lui convient, tout comme le service au sens ancien : être d’une réelle utilité aux gens. Ce placement peut transformer un lieu de travail de l’intérieur, une procédure après l’autre, sans avoir besoin qu’on l’en remercie. Le risque, c’est de prendre chaque défaut repéré pour un devoir personnel.
 
 ## Le plus difficile {#le-plus-difficile}
 

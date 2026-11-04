@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 120
 glyph: "♇"
-definition: "Pluton en maison 12, c’est la planète de la transformation dans la maison de la solitude, de la vie intérieure et de ce qui est caché. On y lit une transformation en privé, et une force gardée en réserve. La tradition y mettait l’enfermement, que je ne prédis jamais. Cette maison s’arrête à l’ascendant : il faut l’heure de naissance."
+definition: "Pluton en maison 12 travaille à l’abri des regards : le changement profond dans la maison de la solitude, de la vie intérieure et de ce qui est caché. On y lit une transformation en privé, et une force gardée en réserve. La tradition y mettait l’enfermement, que je ne prédis jamais. Cette maison s’arrête à l’ascendant : il faut l’heure de naissance."
 facts:
   - { k: "Corps", v: "Pluton ♇" }
   - { k: "Maison", v: "Maison 12 : la solitude, la vie intérieure, ce qui est caché" }
@@ -28,15 +28,15 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons, et la maison 12, le Génie défavorable" }
   - { title: "Dorothée de Sidon, Carmen Astrologicum", note: "les maisons lues dans un thème de naissance" }
 ---
-Pluton en maison 12 travaille à l’abri des regards, dans la part du thème que la tradition réservait à ce qui est caché : la solitude, la vie intérieure, ce que l’on porte sans le montrer. J’y lis une force qui grandit en privé, et une transformation qui se fait bien avant que quiconque puisse la voir.
+À l’abri des regards, dans la part du thème que la tradition réservait à ce qui est caché, Pluton en maison 12 travaille parmi la solitude, la vie intérieure et ce que l’on porte sans le montrer. J’y lis une force qui grandit en privé, et une transformation qui se fait bien avant que quiconque puisse la voir.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-La [maison 12](/astrology/12th-house/) est la maison de ce qui se passe en coulisses : la solitude et la retraite, les rêves et l’inconscient, les secrets, les lieux à l’écart de la vie ordinaire, et le travail discret fait pour les autres sans en recevoir le mérite. C’est une maison cadente, son signe naturel est les Poissons, et la tradition l’appelait le Génie défavorable et en faisait la joie de Saturne. La tradition lui donnait aussi l’enfermement et les peines cachées. Je n’en lis rien comme une prédiction. Aucun thème ne prédit un enfermement ni une crise de l’esprit, et en matière de santé mentale, un thème ne remplace jamais un accompagnement (voir [Astrologie et santé mentale](/astrology/astrology-and-mental-health/)).
+La [maison 12](/astrology/12th-house/) est la maison de ce qui se passe en coulisses : la solitude et la retraite, les rêves et l’inconscient, les secrets, les lieux à l’écart de la vie ordinaire, et le travail discret fait pour les autres sans en recevoir le mérite. Cadente et dernière des douze, elle a les Poissons pour signe naturel, et la tradition l’appelait le Génie défavorable et y plaçait la joie de Saturne. La tradition lui donnait aussi l’enfermement et les peines cachées. Je n’en lis rien comme une prédiction. Aucun thème ne prédit un enfermement ni une crise de l’esprit, et en matière de santé mentale, un thème ne remplace jamais un accompagnement (voir [Astrologie et santé mentale](/astrology/astrology-and-mental-health/)).
 
 Avec [Pluton](/astrology/pluto/) ici, une grande part de votre transformation se fait à l’intérieur, sans être vue. Vous avez peut-être besoin de plus de solitude que la plupart des gens, vous traversez vos émotions en privé avant de les partager, et vous gardez une réserve de force que les autres ne découvrent que lorsqu’elle devient nécessaire. Ce qui est caché vous intéresse plus qu’il ne vous fait peur.
 
-En Placidus, le système de maisons que j’utilise, la maison 12 s’arrête à l’ascendant : si Pluton venait de se lever à votre naissance, Pluton est en maison 12, alors qu’une naissance quelques minutes plus tôt mettrait Pluton en maison 1. Seule une [heure de naissance](/blog/unknown-birth-time/) fiable permet de trancher. [Pluton en maison 11](/astrology/pluto-in-11th-house/) passe par les amis et les groupes, et [Pluton en maison 1](/astrology/pluto-in-1st-house/) par ce qui se voit.
+En Placidus, le système de maisons que j’utilise, la maison 12 s’arrête à l’ascendant : si Pluton venait de se lever à votre naissance, Pluton est en maison 12, alors qu’une naissance quelques minutes plus tôt mettrait Pluton en maison 1. Seule une [heure de naissance](/blog/unknown-birth-time/) fiable permet de trancher. Avant elle vient [Pluton en maison 11](/astrology/pluto-in-11th-house/), parmi les amis et les groupes ; après elle, de l’autre côté de l’ascendant, [Pluton en maison 1](/astrology/pluto-in-1st-house/), au grand jour.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -52,4 +52,4 @@ Le plus difficile, c’est ce que l’on porte en solitaire. Avec Pluton en mais
 
 ## Ce qui aide {#ce-qui-aide}
 
-Une solitude choisie plutôt que subie, avec une porte pour ressortir. Quelque chose qui donne une forme à la vie intérieure : un journal, l’art, la prière ou la méditation, une longue marche en solitaire. Parler à une personne formée quand le poids devient trop lourd à porter sans aide. Laisser au moins une personne voir la force cachée, pour qu’elle n’ait plus besoin de rester cachée. La tradition appelait cette maison le Génie défavorable ; avec Pluton ici, j’y lis la maison où commencent les renouveaux les plus profonds, en silence, avant que quiconque le sache.
+Une solitude choisie plutôt que subie, avec une porte pour ressortir. Quelque chose qui donne une forme à la vie intérieure : un journal, l’art, la prière ou la méditation, une longue marche en solitaire. Parler à une personne formée quand le poids devient trop lourd à porter sans aide. Laisser au moins une personne voir la force cachée, pour qu’elle n’ait plus besoin de rester cachée. Malgré son ancien nom, je lis la maison 12, avec Pluton, comme celle où commencent les renouveaux les plus profonds, en silence, avant que quiconque le sache.

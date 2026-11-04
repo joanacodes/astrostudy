@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 114
 glyph: "♇"
-definition: "Pluto in the 6th house is the planet of deep change in the house of daily work, routines, service and colleagues. It describes an intense relationship with work and a life renewed through what is done every day, never, as I read it in an adult’s life, a forecast of illness. It needs the birth time."
+definition: "Pluto in the 6th house lets deep change happen in ordinary days: daily work, routines, service and colleagues. It describes an intense relationship with work and a life renewed through what is done every day, never, as I read it in an adult’s life, a forecast of illness. It needs the birth time."
 facts:
   - { k: "Body", v: "Pluto ♇" }
   - { k: "House", v: "The 6th house: daily work, routines, service, colleagues" }
@@ -27,15 +27,15 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the houses, and the 6th as Bad Fortune" }
   - { title: "Dorotheus of Sidon, Carmen Astrologicum", note: "the houses read in a nativity" }
 ---
-Pluto in the 6th house takes the planet of deep change into ordinary days: the job, the routine, the habits and the small duties that fill a week. I read it as a life transformed from the bottom up, through what you do every day rather than through grand events.
+Deep change usually looks dramatic from outside; with Pluto in the 6th house it happens on ordinary days, through the job, the routine, the habits and the small duties that fill a week. I read it as a life transformed from the bottom up.
 
 ## In a birth chart {#in-a-birth-chart}
 
-[The 6th house](/astrology/6th-house/) is the house of daily life as it is actually lived: work and the conditions of work, routines, service, colleagues, the care you give your body from one day to the next. It is cadent, its natural sign is Virgo, and tradition called it Bad Fortune and named it Mars's joy. Tradition also gave the 6th house illness. I read it in an adult's life as habits and daily care, never as a forecast of health, and no chart can predict an illness ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)).
+[The 6th house](/astrology/6th-house/) is the house of daily life as it is actually lived: work and the conditions of work, routines, service, colleagues, the care you give your body from one day to the next. It is cadent, its natural sign is Virgo, and the old astrologers called it Bad Fortune and gave Mars its joy here. Tradition also gave the 6th house illness. I read it in an adult's life as habits and daily care, never as a forecast of health, and no chart can predict an illness ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)).
 
 With [Pluto](/astrology/pluto/) here, the everyday is where deep change happens. Routines are rarely neutral for you: they either sustain you or wear you down, and when they stop working you tend to overhaul them completely. Work matters intensely, and so do the people you work alongside.
 
-In Placidus, the house system I use, the 6th lies just below the western horizon, and a Pluto near its edges can fall in the 5th or the 7th after a small change of birth time; without the [birth time](/blog/unknown-birth-time/) I can't place it. Pluto's sign marks your generation, while this house is personal. [Pluto in the 5th house](/astrology/pluto-in-5th-house/) puts the same depth into play, and [Pluto in the 7th house](/astrology/pluto-in-7th-house/) into partnership.
+In Placidus, the house system I use, the 6th lies just below the western horizon, and a Pluto near its edges can fall in the 5th or the 7th after a small change of birth time; without the [birth time](/blog/unknown-birth-time/) I can't place it. The houses on either side show the contrast: [Pluto in the 5th house](/astrology/pluto-in-5th-house/) puts the same depth into play, [Pluto in the 7th house](/astrology/pluto-in-7th-house/) into partnership.
 
 ## In close relationships {#in-close-relationships}
 
@@ -47,8 +47,8 @@ Work is where this Pluto concentrates. You tend to learn how a place really runs
 
 ## The hard part {#the-hard-part}
 
-The hard part is the grind. A 6th-house Pluto can drive itself through routines long after they have stopped helping, or swing between rigid control of the day and dropping every habit at once. Work can become the place where worth has to be proved, so that rest feels like failure. Power struggles with colleagues can wear on you for years. None of this predicts anything about your health: it describes a pattern of effort, and patterns can change.
+The grind is the hard part. A 6th-house Pluto can drive itself through routines long after they have stopped helping, or swing between rigid control of the day and dropping every habit at once. Work can become the place where worth has to be proved, so that rest feels like failure. Power struggles with colleagues can wear on you for years. None of this predicts anything about your health: it describes a pattern of effort, and patterns can change.
 
 ## What helps {#what-helps}
 
-Routines chosen rather than inherited, reviewed every season and kept only while they still serve. One day a week with no duties at all. Help accepted at work instead of everything carried alone. Small, steady changes rather than total overhauls. Kindness to the body as part of the day, not a project to perfect. Tradition called this house Bad Fortune; I read Pluto here as the chance to make ordinary life genuinely your own.
+Routines chosen rather than inherited, reviewed every season and kept only while they still serve. One day a week with no duties at all. Help accepted at work instead of everything carried alone. Small, steady changes rather than total overhauls. Kindness to the body as part of the day, not a project to perfect. Bad Fortune is only the old name: with Pluto here, ordinary days are where a life gets remade, one routine at a time.

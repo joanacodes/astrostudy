@@ -32,11 +32,11 @@ Pluto in Gemini is the last of its stays to pass before anyone knew Pluto was th
 
 ## In a birth chart {#in-a-birth-chart}
 
-What [Pluto](/astrology/pluto/) touches, it takes down to the root and lets come back renewed. [Gemini](/astrology/gemini/), mutable air ruled by Mercury, is curious, quick and two-sided; whatever sits in it learns by asking, comparing and passing things on. In Gemini, Pluto's depth goes into the mind. Renewal comes through a new idea, a question followed all the way down, a conversation after which nothing looks quite the same. What this generation transforms is how things are known and told.
+What [Pluto](/astrology/pluto/) touches, it takes down to the root and lets come back renewed. [Gemini](/astrology/gemini/), mutable air ruled by Mercury, is curious, quick and two-sided; whatever sits in it learns by asking, comparing and passing things on. Here the depth is a matter of the mind. Renewal comes through a new idea, a question followed all the way down, a conversation after which nothing looks quite the same. What this generation transforms is how things are known and told.
 
 No dignity applies. The tradition never knew Pluto, and its one modern home, Scorpio, is water and fixed where Gemini is air and mutable, so this Pluto works far from its own manner. [Mercury](/astrology/mercury/), the ruler of Gemini, is where I look next, because it decides how all that digging gets spoken: in what style by its sign, and about what by its house.
 
-Pluto was in Gemini from July 1882 to May 1914, and will be again from June 2127 to May 2159. Nobody born between 1930 and 2009 has it; its youngest were born in 1914. At the start, July 1882 to April 1884, Pluto crossed back and forth with [Pluto in Taurus](/astrology/pluto-in-taurus/); at the end, September 1912 to May 1914, with [Pluto in Cancer](/astrology/pluto-in-cancer/), and births in those months need the chart itself. A placement shared by more than thirty years of births is a backdrop. What makes it someone's own is the house it falls in, which takes a [birth time](/blog/unknown-birth-time/), and the aspects it makes.
+Pluto was in Gemini from July 1882 to May 1914, and will be again from June 2127 to May 2159. None of the births from 1930 to 2009 has it; its youngest were born in 1914. At the start, July 1882 to April 1884, Pluto crossed back and forth with [Pluto in Taurus](/astrology/pluto-in-taurus/); at the end, September 1912 to May 1914, with [Pluto in Cancer](/astrology/pluto-in-cancer/), and births in those months need the chart itself. A placement shared by more than thirty years of births is a backdrop. What makes it someone's own is the house it falls in, which takes a [birth time](/blog/unknown-birth-time/), and the aspects it makes.
 
 ## In close relationships {#in-close-relationships}
 
@@ -44,7 +44,7 @@ Intimacy, for Pluto in Gemini, happens in conversation. Closeness means being ab
 
 ## At work {#at-work}
 
-Work that runs on questions draws this Pluto: research, writing, teaching, translating, any job where information has to be found, checked and passed on. It can transform the way something is explained, so that people who never understood it suddenly do. It also notices what is left unsaid in a meeting or a report, and is rarely satisfied with the official version. A working life that lets it dig with the mind, then share what it found, suits it best.
+Work that runs on questions draws this Pluto: research, writing, teaching, translating, any job where information has to be found, checked and passed on. It can transform the way something is explained, so that people who never understood it suddenly do. It also notices what is left unsaid in a meeting or a report, and is rarely satisfied with the official version. Give it room to dig with the mind and then share what it found, and it can stay content in a job for years.
 
 ## The hard part {#the-hard-part}
 

@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 1
 glyph: "↑♈"
-definition: "Un ascendant Bélier signifie que le Bélier, premier signe du zodiaque, se levait à l’horizon est à votre naissance : votre ascendant est en Bélier. Les astrologues y lisent une façon vive et directe d’aborder le monde, avec Mars pour maître du thème. À Londres, il se lève en moins d’une heure : il faut une heure de naissance exacte."
+definition: "Un ascendant Bélier signifie que le Bélier, premier signe du zodiaque, se levait à l’horizon est à votre naissance : votre ascendant est en Bélier. Les astrologues y lisent une façon vive et directe d’aborder le monde, avec Mars pour maître du thème. À Londres, ce signe se lève en moins d’une heure : il faut une heure de naissance exacte."
 facts:
   - { k: "Signe", v: "Bélier ♈, le premier signe" }
   - { k: "Maître", v: "Mars ♂, maître du thème" }
@@ -43,7 +43,7 @@ Le Bélier se lève vite, aussi. Il lui faut environ 52 minutes pour franchir l�
 
 On rencontre votre élan avant tout le reste. C’est souvent vous qui rompez le silence, posez la question directe ou proposez de passer en premier, et l’on y voit de l’énergie et de la franchise. Le malentendu, quand il y en a un, c’est de prendre la vitesse pour de la pression. S’affirmer n’est pas agresser, mais pendant les cinq premières minutes, les deux se ressemblent : vous dites simplement ce que vous voulez, parce que sous-entendre vous semble du temps perdu. Avec un peu de temps, on découvre que la franchise va dans les deux sens : une réponse directe ne vous froisse pas.
 
-Jusqu’où m’y fier ? Dans [mes notes de test](/blog/i-tested-my-birth-chart/), l’ascendant fait partie des placements que tout le monde lit en premier, et il a tenu environ une fois sur trois. Je prends donc l’ascendant Bélier pour l’esquisse de votre première minute, pas pour un portrait, et je le confronte au reste du thème.
+Jusqu’où m’y fier ? Pas très loin à lui seul : dans [mes notes de test](/blog/i-tested-my-birth-chart/), l’ascendant, l’un des placements que tout le monde lit en premier, a tenu environ une fois sur trois. Je prends donc l’ascendant Bélier pour l’esquisse de votre première minute, pas pour un portrait, et je le confronte au reste du thème.
 
 ## Son maître {#son-maitre}
 

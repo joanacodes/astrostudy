@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 117
 glyph: "♇♐"
-definition: "Pluton en Sagittaire, c’est la planète de la transformation en feu mutable, dans le signe des longs voyages gouverné par Jupiter. Toutes les naissances de 1996 à 2007 ont ce placement, comme beaucoup de celles de 1995 et 2008 : environ 1 personne sur 6 née de 1930 à 2009. On y lit des croyances transformées : questionnées, puis rebâties."
+definition: "Pluton en Sagittaire emmène le changement profond sur la route des croyances, en feu mutable, dans le signe des longs voyages gouverné par Jupiter. Toutes les naissances de 1996 à 2007 ont ce placement, comme beaucoup de celles de 1995 et 2008 : environ 1 personne sur 6 née de 1930 à 2009. On y lit des croyances transformées : questionnées, puis rebâties."
 facts:
   - { k: "Corps", v: "Pluton ♇" }
   - { k: "Signe", v: "Sagittaire ♐, gouverné par Jupiter" }
@@ -29,15 +29,15 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les mois passés par Pluton en Sagittaire de 1930 à 2039, et la part des personnes nées entre 1930 et 2009 qui ont ce placement" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-Pluton en Sagittaire appartient aux naissances de janvier 1995 à novembre 2008, et les plus jeunes de cette génération ont dix-huit ans en 2026. La planète de la transformation se trouve ici dans le signe du long voyage, et j’y lis des croyances transformées : convictions, philosophies et certitudes questionnées jusqu’au fond, puis rebâties.
+Les plus jeunes personnes nées avec Pluton en Sagittaire ont dix-huit ans en 2026 : le séjour a duré de janvier 1995 à novembre 2008. La planète de la transformation fait ici route avec le signe du long voyage, et j’y lis des croyances transformées : convictions, philosophies et certitudes questionnées jusqu’au fond, puis rebâties.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-[Pluton](/astrology/pluto/) régénère : ce qui est mort dans une structure, une croyance ou une habitude s’en va, et ce qui peut pousser à sa place prend de la force. Le [Sagittaire](/astrology/sagittarius/), signe de feu mutable gouverné par Jupiter, cherche du sens ; il explore, enseigne, voyage, croit, et se demande à quoi tout cela mène. En Sagittaire, la profondeur de Pluton passe dans la conviction. Cette génération n’hérite pas de ses croyances sans les mettre à l’épreuve : elle les démonte, garde ce qui résiste, et la recherche elle-même la transforme. Le feu mutable garde le mouvement : une vision du monde est ici quelque chose de vivant, revu à mesure que la route avance.
+Avec [Pluton](/astrology/pluto/), ce qui est mort dans une structure, une croyance ou une habitude tombe, et ce qui peut pousser à sa place prend de la force. Le [Sagittaire](/astrology/sagittarius/), signe de feu mutable gouverné par Jupiter, cherche du sens ; il explore, enseigne, voyage, croit, et se demande à quoi tout cela mène. Ce placement travaille la conviction. Les croyances ne s’héritent pas ici sans passer l’épreuve : ces personnes les démontent, gardent ce qui résiste, et la recherche elle-même les transforme. Le feu mutable garde le mouvement : une vision du monde est ici quelque chose de vivant, revu à mesure que la route avance.
 
-Pluton n’a aucune dignité en Sagittaire ; la tradition ignorait Pluton, et l’astrologie tropicale moderne lui donne le Scorpion, le signe d’avant. [Jupiter](/astrology/jupiter/), maître du Sagittaire, pèse dans tout thème où Pluton est en Sagittaire. Le signe et la maison de Jupiter montrent où la quête de sens d’une génération devient, pour une personne, le sentiment de ce qui est vrai.
+Le Sagittaire ne donne à Pluton ni dignité ni faiblesse : la tradition ne connaissait pas encore Pluton, et l’astrologie tropicale moderne ne range Pluton qu’en Scorpion et, par opposition, en Taureau. Mieux vaut regarder le maître du signe, [Jupiter](/astrology/jupiter/), la planète du sens : sa place dit ce qu’une personne juge digne d’être cru, et jusqu’où elle laisse grandir cette croyance. C’est pendant ce séjour, en 2006, que les astronomes ont rangé Pluton parmi les planètes naines, ce qui semble bien choisi pour un signe qui aime revoir ses croyances.
 
-Pluton était en Sagittaire de janvier 1995 à novembre 2008, et n’y revient que de décembre 2241 à octobre 2255. Pendant l’année 1995, Pluton a fait des allers-retours avec [Pluton en Scorpion](/astrology/pluto-in-scorpio/), et de janvier à novembre 2008 avec [Pluton en Capricorne](/astrology/pluto-in-capricorn/) : pour ces naissances, le thème doit dire quel signe est le bon. Environ 1 personne sur 6 née de 1930 à 2009 a ce placement. Toutes les personnes nées les mêmes années le partagent ; la maison de Pluton, qui demande une [heure de naissance](/blog/unknown-birth-time/), est l’endroit où ce placement commence à décrire une vie.
+Pluton était en Sagittaire de janvier 1995 à novembre 2008, et n’y revient que de décembre 2241 à octobre 2255. Pendant l’année 1995, Pluton a fait des allers-retours avec [Pluton en Scorpion](/astrology/pluto-in-scorpio/), et de janvier à novembre 2008 avec [Pluton en Capricorne](/astrology/pluto-in-capricorn/) : ces naissances-là, seul le thème les départage. Environ 1 personne sur 6 parmi celles nées de 1930 à 2009 a ce placement. Toutes les personnes nées les mêmes années le partagent ; la maison de Pluton, qui demande une [heure de naissance](/blog/unknown-birth-time/), est l’endroit où ce placement commence à décrire une vie.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -45,7 +45,7 @@ En amour, Pluton en Sagittaire cherche quelqu’un avec qui faire la route. Les 
 
 ## Au travail {#au-travail}
 
-Au travail, Pluton en Sagittaire va là où les idées voyagent : l’enseignement, l’édition, la recherche, le droit, les voyages et le travail entre les frontières et les cultures. Ce placement peut transformer la façon dont un domaine s’explique lui-même, en posant la grande question que d’autres ont cessé de poser. Il lui faut un travail qui a du sens ; un emploi sans but peut ressembler à une route qui ne mène nulle part. Avec une cause à laquelle croire, ce placement apporte à la fois la conviction et l’endurance.
+Les idées qui voyagent sont le terrain naturel de ce placement : l’enseignement, l’édition, la recherche, le droit, les voyages et le travail entre les frontières et les cultures. Ce placement peut changer la manière dont un domaine s’explique lui-même, en posant la grande question que d’autres ont cessé de poser. Il lui faut un travail qui a du sens ; un emploi sans but peut ressembler à une route qui ne mène nulle part. Avec une cause à laquelle croire, ce placement apporte à la fois la conviction et l’endurance.
 
 ## Le plus difficile {#le-plus-difficile}
 

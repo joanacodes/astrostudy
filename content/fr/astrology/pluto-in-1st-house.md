@@ -28,7 +28,7 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "comment j’ai compté ce qui a tenu" }
 ---
-Avec Pluton en maison 1, la planète de la transformation se tient tout près du soi, si bien que sa profondeur se voit en surface : on sent souvent une intensité chez vous avant que vous ayez dit grand-chose. J’y lis une présence capable de se transformer entièrement, et plus d’une fois dans une vie.
+On sent souvent une intensité chez vous avant que vous ayez dit grand-chose : avec Pluton en maison 1, la profondeur se tient tout près du soi et se voit en surface. C’est une présence capable de se transformer entièrement, et plus d’une fois dans une vie.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 

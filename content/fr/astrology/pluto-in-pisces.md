@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 120
 glyph: "♇♓"
-definition: "Pluton en Poissons, c’est la planète de la transformation en eau mutable, dans le dernier signe du zodiaque, gouverné par Neptune et traditionnellement par Jupiter. Ses naissances allaient de 1797 à 1823 et reprendront de 2043 à 2068, sans aucune entre les deux. On y lit une transformation par l’imagination et la compassion, où les vieilles frontières se dissolvent."
+definition: "Pluton en Poissons referme le zodiaque sur un changement profond : l’eau mutable, gouvernée par Neptune et traditionnellement par Jupiter. Ses naissances allaient de 1797 à 1823 et reprendront de 2043 à 2068, sans aucune entre les deux. On y lit une transformation par l’imagination et la compassion, où les vieilles frontières se dissolvent."
 facts:
   - { k: "Corps", v: "Pluton ♇" }
   - { k: "Signe", v: "Poissons ♓, gouvernés par Neptune et traditionnellement par Jupiter" }
@@ -29,15 +29,15 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les mois passés et à venir de Pluton en Poissons, de 1700 à 2300" }
   - { title: "NASA — Neptune facts", url: "https://science.nasa.gov/neptune/neptune-facts/", note: "sa découverte en 1846" }
 ---
-Le dernier séjour de Pluton en Poissons a duré de 1797 à 1823, avant que l’on connaisse Pluton ou Neptune, le maître moderne du signe, et le prochain commence en 2043. La planète de la transformation se trouve ici dans le dernier signe du zodiaque, et j’y lis un changement profond par l’imagination et la compassion, où les frontières s’adoucissent.
+Le dernier séjour de Pluton en Poissons a duré de 1797 à 1823, avant que l’on connaisse Pluton ou Neptune, le maître moderne du signe, et le prochain commence en 2043. Au bout du zodiaque, la planète de la transformation rencontre le signe sans bords, et leur rencontre décrit une transformation par l’imagination et la compassion, où les frontières s’adoucissent.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-[Pluton](/astrology/pluto/) régénère : ce qui est fini s’en va, et ce qui peut se renouveler revient. Les [Poissons](/astrology/pisces/), signe d’eau mutable, sont poreux, imaginatifs et compatissants ; ce qui s’y trouve avance au ressenti plutôt qu’en traçant des lignes. En Poissons, la profondeur de Pluton passe dans ce qui n’a pas de bords : l’empathie, l’art, la foi, le sentiment d’appartenir à plus grand que soi. Les astrologues lisent Pluton, pour cette génération, comme un changement qui dissout les vieilles frontières, entre les gens, entre les croyances, entre l’intime et le partagé, et comme un renouveau par la compassion plutôt que par la force.
+[Pluton](/astrology/pluto/) libère ce qui est fini, et ramène ce qui peut se renouveler. Les [Poissons](/astrology/pisces/), signe d’eau mutable, sont poreux, imaginatifs et compatissants ; ce qui s’y trouve avance au ressenti plutôt qu’en traçant des lignes. Sa profondeur se répand dans ce qui n’a pas de bords : l’empathie, l’art, la foi, le sentiment d’appartenir à plus grand que soi. Le changement que les astrologues lisent dans cette génération dissout les vieilles frontières, entre les gens, entre les croyances, entre l’intime et le partagé, et renouvelle par la compassion plutôt que par la force.
 
-Les Poissons ont deux maîtres, et je lis les deux. L’astrologie tropicale moderne les donne à [Neptune](/astrology/neptune/), la planète de l’imagination et de la transcendance, dont la découverte, en 1846, est venue après la fin du dernier séjour de Pluton dans ce signe ; la tradition les donne à [Jupiter](/astrology/jupiter/), la planète du sens et de la croissance. Dans tout thème avec Pluton en Poissons, Neptune montre où les frontières s’estompent, et Jupiter où la foi et la générosité prennent forme. Pluton n’a ici aucune dignité ; son domicile moderne est le Scorpion.
+Deux maîtres se partagent les Poissons, et je lis les deux : [Neptune](/astrology/neptune/), le maître moderne, planète de l’imagination et de la transcendance, dont la découverte, en 1846, est venue après la fin du dernier séjour de Pluton dans ce signe ; et [Jupiter](/astrology/jupiter/), le maître traditionnel, planète du sens et de la croissance. Le signe et la maison de Neptune indiquent où les frontières s’estompent dans une vie, ceux de Jupiter où la foi et la générosité prennent forme. La dignité de Pluton n’entre pas en jeu ici ; son seul domicile moderne est le Scorpion, un autre signe d’eau.
 
-Pluton était en Poissons d’avril 1797 à mars 1823, et s’y trouvera de nouveau de mars 2043 à février 2068. Aucune personne née entre 1930 et 2009 n’a ce placement, et aucune personne en vie aujourd’hui ne l’a. Aux bords, d’avril 1797 à décembre 1798, le séjour se partage avec [Pluton en Verseau](/astrology/pluto-in-aquarius/), et d’avril 1822 à mars 1823 avec [Pluton en Bélier](/astrology/pluto-in-aries/) ; le prochain séjour chevauchera de la même façon, jusqu’en janvier 2044 et à partir de juin 2066 : pour une naissance à une jointure, seul le thème peut répondre. Comme tout signe de Pluton, celui-ci est partagé par une génération, et la maison le rend personnel, à condition d’avoir une [heure de naissance](/blog/unknown-birth-time/).
+Pluton était en Poissons d’avril 1797 à mars 1823, et s’y trouvera de nouveau de mars 2043 à février 2068. Ce placement ne figure dans aucune naissance de 1930 à 2009, ni chez aucune personne en vie aujourd’hui. Aux bords, d’avril 1797 à décembre 1798, le séjour se partage avec [Pluton en Verseau](/astrology/pluto-in-aquarius/), et d’avril 1822 à mars 1823 avec [Pluton en Bélier](/astrology/pluto-in-aries/) ; le prochain séjour chevauchera de la même façon, jusqu’en janvier 2044 et à partir de juin 2066 : pour une naissance à une jointure, seul le thème peut répondre. Le signe est commun à quelque vingt-cinq ans de naissances ; la maison, placée à partir d’une [heure de naissance](/blog/unknown-birth-time/), est l’endroit où ce placement deviendrait propre à quelqu’un.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -45,11 +45,11 @@ Dans les thèmes où Pluton est en Poissons, l’amour passe par la compréhensi
 
 ## Au travail {#au-travail}
 
-Au travail, Pluton en Poissons va là où l’imagination ou le soin sont l’instrument : les arts, la musique, le cinéma, les communautés de foi, les associations, tout lieu qui sert les personnes en marge. Ce placement peut transformer un domaine en y apportant de la compassion, et donne souvent le meilleur sans structure rigide. Protéger son énergie est vital : l’humeur de chaque pièce finit par déteindre.
+Partout où l’imagination ou le soin servent d’instrument, ce placement peut faire du bon travail : les arts, la musique, le cinéma, les communautés de foi, les associations, tout lieu qui sert les personnes en marge. La compassion est ce que ce placement apporte à tout domaine, et cela suffit parfois à le changer ; une structure trop rigide l’empêche souvent de donner le meilleur. Protéger son énergie est vital : l’humeur de chaque pièce finit par déteindre.
 
 ## Le plus difficile {#le-plus-difficile}
 
-Se perdre, voilà où ce placement peine. Pluton en Poissons peut dissoudre des frontières qui étaient nécessaires, prendre la douleur des autres pour la sienne, ou se dérober à un conflit au lieu de l’affronter. Le pouvoir, ici, est souvent caché : il s’exerce par la culpabilité ou le sacrifice plutôt qu’au grand jour. Et la nostalgie de quelque chose de parfait, un amour ou un monde, peut faire de la vie ordinaire une déception.
+La lutte de ce placement, c’est de ne pas se perdre. Pluton en Poissons peut dissoudre des frontières qui étaient nécessaires, prendre la douleur des autres pour la sienne, ou se dérober à un conflit au lieu de l’affronter. Le pouvoir, ici, est souvent caché : il s’exerce par la culpabilité ou le sacrifice plutôt qu’au grand jour. Et la nostalgie de quelque chose de parfait, un amour ou un monde, peut faire de la vie ordinaire une déception.
 
 ## Ce qui aide {#ce-qui-aide}
 

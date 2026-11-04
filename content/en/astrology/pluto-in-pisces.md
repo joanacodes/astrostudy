@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 120
 glyph: "♇♓"
-definition: "Pluto in Pisces is deep change at the end of the zodiac: mutable water, ruled by Neptune and traditionally by Jupiter. Its births ran from 1797 to 1823 and will resume from 2043 to 2068, with none in between. It describes transformation through imagination and compassion, as old borders dissolve."
+definition: "Pluto in Pisces closes the zodiac with deep change: mutable water, ruled by Neptune and traditionally by Jupiter. Its births ran from 1797 to 1823 and will resume from 2043 to 2068, with none in between. It describes transformation through imagination and compassion, as old borders dissolve."
 facts:
   - { k: "Body", v: "Pluto ♇" }
   - { k: "Sign", v: "Pisces ♓, ruled by Neptune and traditionally by Jupiter" }
@@ -28,15 +28,15 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "the months Pluto spent and will spend in Pisces, 1700–2300" }
   - { title: "NASA — Neptune facts", url: "https://science.nasa.gov/neptune/neptune-facts/", note: "its discovery in 1846" }
 ---
-Pluto was last in Pisces from 1797 to 1823, before anyone knew of Pluto or of Neptune, the sign's modern ruler, and it comes back in 2043. At the end of the zodiac, the planet of deep change meets the sign without edges, and I read the pairing as transformation through imagination and compassion, a change in which borders soften.
+Pluto was last in Pisces from 1797 to 1823, before anyone knew of Pluto or of Neptune, the sign's modern ruler, and it comes back in 2043. At the end of the zodiac, the planet of deep change meets the sign without edges, and together they describe transformation through imagination and compassion, a change in which borders soften.
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Pluto](/astrology/pluto/) lets what has ended go, and brings back what can be renewed. [Pisces](/astrology/pisces/), mutable water, is porous, imaginative and compassionate; whatever sits in it feels its way rather than drawing lines. In Pisces, Pluto's depth goes into what has no edges: empathy, art, faith, the sense of belonging to something larger than oneself. Astrologers read this generation's Pluto as change that dissolves old boundaries, between people, between beliefs, between what is private and what is shared, and as renewal through compassion rather than force.
+[Pluto](/astrology/pluto/) releases what has ended, and brings back what can be renewed. [Pisces](/astrology/pisces/), mutable water, is porous, imaginative and compassionate; whatever sits in it feels its way rather than drawing lines. Its depth flows into what has no edges: empathy, art, faith, the sense of belonging to something larger than oneself. The change astrologers read in this generation is one that dissolves old boundaries, between people, between beliefs, between what is private and what is shared, and that renews through compassion rather than force.
 
 Two rulers share Pisces, and I read both: [Neptune](/astrology/neptune/), the modern one, planet of imagination and transcendence, discovered in 1846, after Pluto's last stay here had ended; and [Jupiter](/astrology/jupiter/), the traditional one, planet of meaning and growth. Neptune's sign and house point to where boundaries blur in a life, Jupiter's to where faith and generosity take shape. Pluto's own dignity plays no part here; its one modern home is Scorpio, a fellow water sign.
 
-Pluto was in Pisces from April 1797 to March 1823, and will be again from March 2043 to February 2068. Nobody born from 1930 to 2009 has it, and nobody alive today was born with it. At the edges, April 1797 to December 1798 is shared with [Pluto in Aquarius](/astrology/pluto-in-aquarius/) and April 1822 to March 1823 with [Pluto in Aries](/astrology/pluto-in-aries/); the next stay overlaps the same way, to January 2044 and from June 2066, so for a birth at a seam only the chart can say. Some twenty-five years of births share the sign; the house, placed from a [birth time](/blog/unknown-birth-time/), is where it would become anyone's own.
+Pluto was in Pisces from April 1797 to March 1823, and will be again from March 2043 to February 2068. Nobody born from 1930 to 2009 has it, and nobody alive today was born with it. At the edges, April 1797 to December 1798 is shared with [Pluto in Aquarius](/astrology/pluto-in-aquarius/) and April 1822 to March 1823 with [Pluto in Aries](/astrology/pluto-in-aries/); the next stay overlaps the same way, to January 2044 and from June 2066, so for a birth at a seam only the chart can say. The sign is common to some twenty-five years of births; the house, placed from a [birth time](/blog/unknown-birth-time/), is where it would become anyone's own.
 
 ## In close relationships {#in-close-relationships}
 
@@ -44,7 +44,7 @@ In the charts that have it, Pluto in Pisces loves by understanding. Bonds deepen
 
 ## At work {#at-work}
 
-Wherever imagination or care is the instrument, this Pluto can do good work: the arts, music, film, faith communities, charities, any place that serves people at the margins. It can transform a field by bringing compassion into it, and it often works best without a rigid structure around it. It needs to guard its energy, because it soaks up the mood of every room it works in.
+Wherever imagination or care is the instrument, this Pluto can do good work: the arts, music, film, faith communities, charities, any place that serves people at the margins. Compassion is what it brings to any field, and that alone can change one; it often works best without a rigid structure around it. It needs to guard its energy, because it soaks up the mood of every room it works in.
 
 ## The hard part {#the-hard-part}
 

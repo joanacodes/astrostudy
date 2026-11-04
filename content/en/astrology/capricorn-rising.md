@@ -18,11 +18,11 @@ facts:
 related: ["/astrology/ascendant", "/astrology/capricorn", "/astrology/saturn", "/astrology/chart-ruler", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "What does Capricorn rising mean?"
-    a: "That Capricorn was rising on the eastern horizon when you were born, so your Ascendant is in the cardinal earth sign. You tend to meet the world with composure and quiet competence, and people trust you early with responsibility. Saturn becomes your chart ruler, one of the three placements that held best in my testing notes."
+    a: "Capricorn, cardinal earth, was rising when you were born, and it shows in a composed, quietly competent manner: people tend to trust you early with responsibility. Saturn becomes your chart ruler, one of the three placements that held best in my testing notes."
   - q: "Is Saturn a difficult chart ruler?"
     a: "Demanding is closer than difficult. As chart ruler, Saturn describes structure, responsibility and the things that take time, so its sign and house show where your life asks for patience and gives back mastery. Its first return, at around 27 to 30, tends to feel like a review of the whole chart’s direction."
   - q: "How common is Capricorn rising?"
-    a: "A little rarer than average. Capricorn takes about 106 minutes to rise at London and 114 at New York, the same as Gemini, so about 1 London birth in 14 has it. Signs that rise fast in the northern hemisphere rise slowly in the southern, so Capricorn takes longer to rise there."
+    a: "Slightly less common than an even share: about 1 London birth in 14, the same as Gemini rising. Capricorn needs about 106 minutes to rise at London and 114 at New York. Signs that rise fast in the northern hemisphere rise slowly in the southern, which gives Capricorn rising more births there."
   - q: "Why does Capricorn rising seem serious?"
     a: "Because it meets the world prepared. With Capricorn rising you tend to size up what’s expected, take responsibility early and keep your feelings private until you know the room. Seriousness isn’t coldness: the warmth and the humour come out once you feel secure, and the lightness often grows with age."
 sources:
@@ -30,25 +30,25 @@ sources:
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the astronomy of the Ascendant: how long each sign takes to rise" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "how I counted what held" }
 ---
-With [Capricorn](/astrology/capricorn/) rising, you were born as the sea-goat was climbing over the eastern horizon, and you tend to meet the world as if there were a slope ahead: carefully, prepared, with your footing checked. People see your composure first. The warmth is there, and it takes its time.
+The sea-goat was climbing over the eastern horizon when you were born, and with [Capricorn](/astrology/capricorn/) rising you tend to meet the world as if there were a slope ahead: carefully, prepared, with your footing checked. People see your composure first. The warmth is there, and it takes its time.
 
 ## What it shows {#what-it-shows}
 
-Your [Ascendant](/astrology/ascendant/) sits in a cardinal earth sign: one that starts things by taking responsibility for them. I read Capricorn rising as composure first. You size up what's expected, find out who's in charge and what would be useful, and act once you know the ground. In Placidus, the house system I use, the Ascendant is the cusp of the [1st house](/astrology/1st-house/). Capricorn is the natural sign of the 10th, the house of the summit, work and standing, so with Capricorn rising the sign of the summit opens the house of the self: you tend to introduce yourself through what you're working towards.
+Cardinal earth takes the lead by taking responsibility, and that's the tone Capricorn sets on your [Ascendant](/astrology/ascendant/). With this rising sign you size up what's expected, find out who's in charge and what would be useful, and act once you know the ground. Set on the Ascendant, which in Placidus, the house system I use, is the cusp of the [1st house](/astrology/1st-house/), the natural sign of the 10th, the house of work and standing, brings the summit down to where you begin: you tend to let people know you by what you're working towards.
 
-Capricorn opens the quick half of the zodiac: from here to Gemini, the signs take less than two hours to rise in the north. It needs about 106 minutes at London, 109 at Paris and 114 at New York, some 45 fewer than [Sagittarius rising](/astrology/sagittarius-rising/) before it, and about one London birth in fourteen has Capricorn rising. At London, half an hour moves the Ascendant through eight or nine degrees of Capricorn. So a round hour is only safe in the middle of the sign; within eight or nine degrees of either end it can belong to Sagittarius rising or [Aquarius rising](/astrology/aquarius-rising/), and I wait for the minute ([what changes without a birth time](/blog/unknown-birth-time/)). Signs that rise fast in the northern hemisphere rise slowly in the southern, so Capricorn takes longer to rise there.
+Capricorn opens the quick half of the zodiac: from here to Gemini, the signs take less than two hours to rise in the north. It needs about 106 minutes at London, 109 at Paris and 114 at New York, some 45 fewer than [Sagittarius rising](/astrology/sagittarius-rising/) before it, and about one London birth in fourteen has Capricorn rising. At London, half an hour moves the Ascendant through eight or nine degrees of Capricorn. So a round hour is only safe in the middle of the sign; within eight or nine degrees of either end it can belong to Sagittarius rising or [Aquarius rising](/astrology/aquarius-rising/), and I wait for the minute ([what changes without a birth time](/blog/unknown-birth-time/)). Signs that rise fast in the northern hemisphere rise slowly in the southern; for a birth south of the equator, Capricorn holds the horizon longer than these figures say.
 
 ## First impressions {#first-impressions}
 
-People tend to read you as capable before they read you as anything else. You arrive prepared, ask what needs doing, and keep your feelings to yourself until you know the room, so newcomers often hand you responsibility early. Some find you formal at first; many find you reassuring, the person who'll still be there when the job is done.
+Capable is the first word people tend to reach for. You arrive prepared, ask what needs doing, and keep your feelings to yourself until you know the room, so newcomers often hand you responsibility early. Some find you formal at first; many find you reassuring, the person who'll still be there when the job is done.
 
-The misreading is reserve taken for coldness, or ambition for hardness. Seriousness isn't coldness: Capricorn rising takes people seriously, and that is a form of respect.
+Your reserve can pass for distance, and ambition for hardness. Seriousness isn't coldness: Capricorn rising takes people seriously, and that is a form of respect.
 
-How far does this first sketch go? In [my testing notes](/blog/i-tested-my-birth-chart/), the rising sign is among the placements everyone reads first, and it held about a third of the time. Your chart ruler is another matter, as the next section explains.
+How far does this first sketch go? The rising sign is among the placements everyone reads first, and in [my testing notes](/blog/i-tested-my-birth-chart/) it held about a third of the time. Your chart ruler is another matter.
 
 ## Its ruler {#its-ruler}
 
-Saturn rules Capricorn, so [Saturn](/astrology/saturn/) is your [chart ruler](/astrology/chart-ruler/): the planet of structure, responsibility and time speaks for the whole chart. Its sign shows how you build; its house, the part of life where you're asked for patience and where, given time, you become the one who knows. Saturn stays about two and a half years in a sign, so its sign is shared with people born within a couple of years of you, and its house makes it yours. That makes the first [Saturn return](/astrology/saturn-return/), somewhere between about 27 and 30, a review of the whole chart's direction, not only of Saturn's corner of it.
+[Saturn](/astrology/saturn/) rules Capricorn, and with this rising sign it's Saturn that serves as your [chart ruler](/astrology/chart-ruler/): structure, responsibility and time hold the whole chart together. Saturn's sign describes the way you build; the house it occupies is where you're asked for patience and where, given time, you become the one who knows. Saturn stays about two and a half years in a sign, so its sign is shared with people born within a couple of years of you, and its house makes it yours. That makes the first [Saturn return](/astrology/saturn-return/), somewhere between about 27 and 30, a review of the whole chart's direction, not only of Saturn's corner of it.
 
 Saturn is also one of the three placements that held 75 to 90% of the time in my notes ([Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)). So with Capricorn rising, I lean on the ruler more than on the Ascendant.
 
@@ -56,8 +56,8 @@ In Libra, its exaltation, Saturn builds through fair agreements; in Aries, its f
 
 ## In close relationships {#in-close-relationships}
 
-Close up, Capricorn rising commits slowly and means it. You show love by turning up, carrying part of the load and building something that will last. The harder part is softness: letting someone see you tired, unsure or in need of looking after, and trusting that it won't cost you their respect.
+Capricorn rising commits slowly and means it. You show love by turning up, carrying part of the load and building something that will last. The harder part is softness: letting someone see you tired, unsure or in need of looking after, and trusting that it won't cost you their respect.
 
-Your [Descendant](/astrology/descendant/) is in Cancer, opposite: you're drawn to warm, caring people who make a home wherever they are ([Cancer on the 7th house cusp](/astrology/cancer-on-7th-house-cusp/)).
+Opposite your Ascendant, Cancer takes the [Descendant](/astrology/descendant/), and warm, caring people who make a home wherever they are tend to be the ones you choose ([Cancer on the 7th house cusp](/astrology/cancer-on-7th-house-cusp/)).
 
-They offer the warmth you were too busy to ask for; you offer the shelter that keeps it safe.
+Warmth you were too busy to ask for often arrives through them, and the shelter you build keeps it safe.
