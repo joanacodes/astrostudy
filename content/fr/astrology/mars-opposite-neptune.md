@@ -21,7 +21,7 @@ faq:
   - q: "Que veut dire Mars opposition Neptune dans un thème natal ?"
     a: "Votre Mars et votre Neptune se tiennent de part et d’autre du thème, à environ 180°. Ce que vous voulez faire et ce que vous imaginez, ou ressentez pour les autres, tirent dans des directions différentes, et vous rencontrez souvent le pôle Neptune d’abord chez d’autres. J’y lis une polarité qui apprend à agir pour les autres sans vous perdre."
   - q: "L’opposition Mars–Neptune empêche-t-elle de dire non ?"
-    a: "Je ne la lis pas ainsi. Elle peut vouloir dire que vous donnez votre énergie aux causes ou aux besoins des autres plus volontiers qu’aux vôtres, ce qui est généreux et parfois fatigant. La compassion n’est pas l’effacement de soi. L’opposition vous demande de garder une idée claire de ce que vous voulez, pour que ce que vous donnez reste un choix."
+    a: "Je ne la lis pas ainsi. Elle peut vouloir dire que vous donnez votre énergie aux besoins des autres plus volontiers qu’aux vôtres, ce qui est généreux, et parfois fatigant. La compassion n’est pas l’effacement de soi. L’opposition vous demande de garder une idée claire de ce que vous voulez, pour que ce que vous donnez reste un choix."
   - q: "Comment l’opposition Mars–Neptune se montre-t-elle dans les relations ?"
     a: "Souvent par une tension entre votre propre élan et les rêves de quelqu’un d’autre : un partenaire dont vous servez la vision, ou dont les besoins règlent votre rythme. Cela peut être très beau quand c’est choisi et réciproque. La leçon de l’opposition est l’équilibre : dire simplement ce que vous voulez, et laisser l’autre personne en faire autant."
 sources:
@@ -61,4 +61,4 @@ Neptune atteint le point opposé à votre Mars au plus une fois dans une vie, et
 
 Mars, dans le ciel, s’oppose à Neptune du thème natal environ tous les deux ans, pendant quelques jours : un bref moment où les souhaits de quelqu’un d’autre pèsent sur ce que vous aviez prévu.
 
-Ces transits demandent un équilibre entre donner et vouloir. Ce sont des météos, pas des prédictions : ils n’annoncent rien.
+Ces transits demandent un équilibre entre donner et vouloir ; ils relèvent de la météo, pas de la prédiction, et n’annoncent rien.
