@@ -37,7 +37,7 @@ In plain words, you have a knack for taking something you value further. A frien
 
 ## In a birth chart {#in-a-birth-chart}
 
-A sextile usually joins signs two apart, fire with air or earth with water, so the two functions meet as allies. With Pluto in Virgo, Venus sextile it falls in Cancer or Scorpio: care that's practical and lasting. With Pluto in Libra, Venus is in Leo or Sagittarius, and frankness about what matters in a partnership comes easily. Pluto's sign belongs to a generation; the houses make the sextile yours. Venus in the 3rd sextile Pluto in the 5th might give your words about the things you love a real weight, and your creative work a depth it didn't plan.
+Two signs apart, a sextile usually joins fire to air or earth to water, elements that feed each other. With Pluto in Virgo, Venus sextile it falls in Cancer or Scorpio: care that's practical and lasting. With Pluto in Libra, Venus is in Leo or Sagittarius, and frankness about what matters in a partnership comes easily. Pluto's sign belongs to a generation; the houses make the sextile yours. Venus in the 3rd sextile Pluto in the 5th might give your words about the things you love a real weight, and your creative work a depth it didn't plan.
 
 About 1 person in 15 is born with Venus and Pluto within 6° of a sextile, twice the share of the conjunction, since Venus can make a sextile on either side of Pluto. Venus is the one that moves, a sign every four to five weeks, so the sextile in your chart was a matter of days. Close to exact, the depth tends to show in your choices; at 6°, it waits to be asked for. I read it with you rather than for you, and check it against the life you describe ([how I read](/how-i-read/)).
 

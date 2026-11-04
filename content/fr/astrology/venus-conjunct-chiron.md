@@ -56,6 +56,6 @@ Entre deux thèmes, [Vénus conjonction Chiron en synastrie](/astrology/venus-co
 
 [Chiron en transit conjonction Vénus du thème natal](/astrology/transiting-chiron-conjunct-natal-venus/) dure ce que permet le signe que Chiron traverse : quelques mois en Vierge ou en Balance, où il va le plus vite, et souvent plus d’un an, en trois passages, en Bélier ou en Poissons, où il s’attarde. C’est souvent une saison où revient une vieille question, celle de savoir si l’on compte, et où vous pouvez y répondre avec ce que vous savez aujourd’hui. Si la conjonction est la vôtre, le [retour de Chiron](/astrology/chiron-return/), vers 50 ans, vaut aussi pour ce transit : en revenant à son degré de naissance, Chiron repasse sur votre Vénus.
 
-Environ une fois par an, Vénus, dans le ciel, croise Chiron dans votre thème : un jour ou deux de tendresse autour du fait de plaire ou de compter.
+Vénus croise Chiron dans votre thème environ une fois par an, et le jour ou deux qui l’entourent peuvent apporter un éclair de tendresse autour du fait de plaire ou de compter.
 
 Une météo, pas une prédiction : ce sont des moments pour traiter le point sensible avec douceur, jamais des verdicts sur lui.

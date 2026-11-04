@@ -22,7 +22,7 @@ faq:
   - q: "Is Chiron in Aquarius about being an outsider?"
     a: "Often, in the sense that difference is the tender ground: feeling out of step, noticed before being understood. But the placement describes how you adapt to that, not a fixed role you have to play. Many people with it end up designing places where difference is welcome rather than tolerated."
   - q: "What years was Chiron in Aquarius?"
-    a: "From January 1955 to January 1961, and from February 2005 to February 2011. In 2005 it went back and forth with Capricorn from February to December, and at the end of each stay with Pisces, from March 1960 to January 1961 and from April 2010 to February 2011."
+    a: "From January 1955 to January 1961, and from February 2005 to February 2011. Capricorn shares the months from February to December 2005, and Pisces those from March 1960 to January 1961 and from April 2010 to February 2011."
   - q: "When is the Chiron return for Chiron in Aquarius?"
     a: "It arrived between February 2005 and February 2011, when Chiron returned to Aquarius, for everyone born with it from 1955 to 1961, at around 50. For the 2005–2011 group, it belongs to the second half of the century."
 sources:
@@ -34,11 +34,11 @@ Aquarius is the sign that does things differently, and Chiron in Aquarius often 
 
 ## In a birth chart {#in-a-birth-chart}
 
-[Chiron](/astrology/chiron/) finds a way to take part around something that stays; [Aquarius](/astrology/aquarius/), fixed air, gives that finding a principled, inventive manner. The tender place is often difference itself — feeling out of step with the people around you, or valued for your ideas and overlooked as a person. The adapting tends to be conceptual and collective: you make sense of your own situation by understanding the system it sits in, and then try to improve the system. Fixed signs hold their course, so this Chiron can keep a conviction for decades.
+[Chiron](/astrology/chiron/) works out how to belong around something that won't change; [Aquarius](/astrology/aquarius/), fixed air, gives that finding a principled, inventive manner. Difference itself is often what's tender — feeling out of step with the people around you, or valued for your ideas and overlooked as a person. Its way of adapting is conceptual and collective: you make sense of your own situation by understanding the system it sits in, and then try to improve the system. Fixed signs hold their course, so this Chiron can keep a conviction for decades.
 
 Until Uranus was discovered in 1781, Aquarius belonged to [Saturn](/astrology/saturn/); modern tropical astrology gave it to [Uranus](/astrology/uranus/), and I read both. Uranus, by sign and house, shows where you would tear up the rulebook; Saturn, the rules you actually have to work with. Chiron sits between them: it doesn't wait for the system to change before finding a way to live inside it.
 
-Chiron was in Aquarius from January 1955 to January 1961 and from February 2005 to February 2011, long enough to reach about 1 person in 8 born between 1930 and 2009, as common, at that rounding, as Taurus. In 2005 it went back and forth with [Chiron in Capricorn](/astrology/chiron-in-capricorn/) from February to December; at the end of both stays it overlapped with [Chiron in Pisces](/astrology/chiron-in-pisces/), from March 1960 and from April 2010, so a birth then could fall either side.
+Chiron was in Aquarius from January 1955 to January 1961 and from February 2005 to February 2011, long enough to reach about 1 person in 8 born between 1930 and 2009, as common, at that rounding, as Taurus. The edges are untidy. From February to December 2005 Chiron moved back and forth between Capricorn and Aquarius (see [Chiron in Capricorn](/astrology/chiron-in-capricorn/)), and at the end of both stays it overlapped with [Chiron in Pisces](/astrology/chiron-in-pisces/), from March 1960 and from April 2010, so a birth then could fall either side.
 
 ## In close relationships {#in-close-relationships}
 

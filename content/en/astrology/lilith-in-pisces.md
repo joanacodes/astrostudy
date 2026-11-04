@@ -43,7 +43,7 @@ Pisces is a sign of faith, but I'd rather you didn't take this on faith: when I 
 
 ## In close relationships {#in-close-relationships}
 
-In love, Lilith in Pisces feels a great deal, and has often learned to keep most of it out of sight. It's drawn to tenderness and to people with an inner life, and it recoils from mockery, or from a partner who treats its sensitivity as a problem to be fixed. The hidden part needs room to be dreamy, spiritual or simply quiet without being called vague.
+Lilith in Pisces feels a great deal in love, and has often learned to keep most of it out of sight. It's drawn to tenderness and to people with an inner life, and it recoils from mockery, or from a partner who treats its sensitivity as a problem to be fixed. The hidden part needs room to be dreamy, spiritual or simply quiet without being called vague.
 
 What it sometimes has to refuse is the role of rescuer. Compassion is its gift; carrying someone else's whole weight is a different thing.
 

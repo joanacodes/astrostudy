@@ -54,6 +54,6 @@ Between two charts, [Venus square Chiron in synastry](/astrology/venus-square-ch
 
 [Transiting Chiron square natal Venus](/astrology/transiting-chiron-square-natal-venus/) may come and go within a single season, or return two or three times over a year or more as Chiron turns retrograde. It's read as a time when questions of worth and affection come up again, with a chance to answer them more kindly than before. Born with the square, you'll find that when Chiron squares its own birth place, at an age that varies a great deal with your birth year, it either meets your Venus or opposes it, depending on which side of Chiron your Venus lies.
 
-Twice a year or so, Venus in the sky squares your natal Chiron for a day or two: moments when a kind or careless word lands harder than usual.
+Venus adds brief versions of its own, squaring your natal Chiron about twice a year; on those days a kind or careless word can land harder than usual.
 
 Weather, not a forecast: the friction of a season, never a judgement of you.

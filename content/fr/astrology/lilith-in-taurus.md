@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 134
 glyph: "⚸♉"
-definition: "Lilith en Taureau, c’est la Lune noire Lilith moyenne, le point de l’orbite lunaire le plus éloigné de la Terre, dans la terre fixe du signe de Vénus à votre naissance. J’y lis le droit de garder — votre rythme, votre terrain, ce qui compte — appris tôt comme une chose à cacher, et le refus tranquille de vous laisser presser."
+definition: "Lilith en Taureau, c’est la Lune noire Lilith, point le plus lointain de l’orbite lunaire, dans la terre fixe du signe de Vénus à votre naissance. Elle désigne le droit, qu’on vous a appris à taire, à votre rythme, à votre terrain, à ce qui compte, et un refus qui ne discute pas : il ne bouge plus."
 facts:
   - { k: "Corps", v: "Lune noire Lilith ⚸, moyenne" }
   - { k: "Signe", v: "Taureau ♉, gouverné par Vénus" }

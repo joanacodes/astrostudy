@@ -57,6 +57,6 @@ Quand deux thèmes se rencontrent, [Vénus trigone Pluton en synastrie](/astrolo
 
 [Pluton en transit trigone Vénus du thème natal](/astrology/transiting-pluto-trine-natal-venus/) est le plus doux des longs contacts de Pluton avec Vénus. Ce transit reste à moins d’un degré pendant deux ans environ, avec plusieurs passages au gré des rétrogradations, et on le remarque souvent après coup, comme une période où quelque chose d’aimé est devenu plus solide. Qu’il arrive dans votre vie dépend de votre année de naissance et de la place de votre Vénus.
 
-Vénus, dans le ciel, forme un trigone avec Pluton dans votre thème environ deux fois par an, pour un jour ou deux : un moment court et facile pour dire ce qui compte pour vous.
+Deux fois par an, Vénus en apporte un écho plus léger, en trigone avec Pluton dans votre thème pour un jour ou deux : un moment facile pour dire ce qui compte pour vous.
 
 Une météo, pas une prédiction : le vent arrière est long et doux, et il ne choisit pas votre direction.

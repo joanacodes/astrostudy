@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 139
 glyph: "⚸♎"
-definition: "Lilith en Balance signifie qu’à votre naissance, la Lune noire Lilith, le point de l’orbite lunaire le plus éloigné de la Terre, se trouvait dans l’air cardinal du signe de Vénus. J’y lis votre propre poids, appris tôt comme une chose à garder hors de la balance, et un refus calme et exact de ce qui n’est pas équitable."
+definition: "Lilith en Balance signifie qu’à votre naissance, la Lune noire Lilith, le point de l’orbite lunaire le plus éloigné de la Terre, se trouvait dans l’air cardinal du signe de Vénus. Lilith y est votre propre poids, tenu hors de la balance pour garder la paix, et un refus calme et exact de ce qui n’est pas équitable."
 facts:
   - { k: "Corps", v: "Lune noire Lilith ⚸, moyenne" }
   - { k: "Signe", v: "Balance ♎, gouvernée par Vénus" }

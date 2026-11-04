@@ -41,9 +41,9 @@ L’aisance n’est pas une garantie. Ce qui vient aussi naturellement passe fac
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le plus souvent, les deux corps occupent des signes du même élément : votre façon d’agir et votre point sensible ont le même tempérament. Le signe de Mars donne son style à l’action, rapide en Bélier, patiente en Taureau. Le signe de Chiron colore le point sensible, et des classes d’âge entières le partagent, puisque Chiron passe entre moins de deux ans et environ huit ans dans chaque signe. Ce sont les maisons qui le rendent personnel. Mars en maison 6 et Chiron en maison 10, par exemple, pourraient se voir dans un travail quotidien qui aide discrètement des personnes exposées en public ; les maisons demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Le plus souvent, les deux corps occupent des signes du même élément : votre façon d’agir et votre point sensible ont le même tempérament. Le signe de Mars donne son style à l’action, rapide en Bélier, patiente en Taureau. Le signe de Chiron colore le point sensible, et des classes d’âge entières le partagent, puisque Chiron passe entre moins de deux ans et environ huit ans dans chaque signe. Les maisons le rendent personnel. Mars en maison 3 et Chiron en maison 11, par exemple, pourraient se voir dans une facilité à prendre la parole pour des groupes qui se sentent à l’écart ; les maisons demandent l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Environ 1 personne sur 15 naît avec Mars à moins de 6° d’un trigone exact avec Chiron. Mars avance bien plus vite que Chiron : c’est donc Mars qui forme l’aspect puis le défait, et deux personnes nées à quelques semaines d’écart peuvent l’avoir ou non. À un degré ou deux près, s’adapter en agissant devient une seconde nature ; vers 6°, c’est une ressource que vous allez chercher quand cela compte.
+Environ 1 personne sur 15 naît avec Mars à moins de 6° d’un trigone exact avec Chiron. Mars avance bien plus vite que Chiron : c’est donc Mars qui forme l’aspect puis le défait, et deux personnes nées à quelques semaines d’écart peuvent l’avoir ou non. À un degré ou deux près, s’adapter en agissant devient une seconde nature ; vers 6°, c’est une ressource à laquelle vous faites appel quand cela compte.
 
 Mars rencontre Chiron sous chaque angle tour à tour, et chaque angle confie à l’effort une autre tâche :
 
@@ -58,6 +58,6 @@ Entre deux thèmes, [Mars trigone Chiron en synastrie](/astrology/mars-trine-chi
 
 [Chiron en transit trigone Mars du thème natal](/astrology/transiting-chiron-trine-natal-mars/) en est la version lente. Chiron ne garde pas un rythme régulier : le transit peut passer vite dans les signes que Chiron traverse rapidement, ou s’étirer sur de longs mois, avec des passages rétrogrades, là où Chiron ralentit. Les astrologues y voient souvent une bonne saison pour essayer une autre façon de travailler, reprendre ce que vous aviez abandonné, ou défendre une cause proche d’une ancienne difficulté.
 
-La version rapide vient de Mars : dans le ciel, Mars forme un trigone avec votre Chiron natal au moins deux fois par tour d’environ deux ans, quelques jours à chaque fois. Ce sont de courts moments où agir autour d’une vieille difficulté devient un peu plus facile.
+La version rapide vient de Mars : dans le ciel, Mars forme un trigone avec votre Chiron natal au moins deux fois par tour d’environ deux ans, quelques jours à chaque fois. De courts moments où agir autour d’une vieille difficulté devient plus facile.
 
 Aucun des deux transits ne décide à votre place. Ce sont des météos, pas des prédictions : une saison, longue ou courte, où l’élan d’agir et l’art de s’adapter se rejoignent plus facilement.

@@ -42,7 +42,7 @@ Mean Lilith ([which Lilith is mine?](/astrology/which-lilith-is-mine/)) was in A
 
 ## In close relationships {#in-close-relationships}
 
-In love, Lilith in Aquarius needs friendship inside the bond, and room to stay a whole person in it. It refuses scripts — how couples are supposed to live, the order things are supposed to happen in — and would rather write the arrangement together, on purpose. It's drawn to people who interest its mind and leave it free.
+Friendship inside the bond is what Lilith in Aquarius needs most, and room to stay a whole person in it. It refuses scripts — how couples are supposed to live, the order things are supposed to happen in — and would rather write the arrangement together, on purpose. It's drawn to people who interest its mind and leave it free.
 
 The tender part is closeness itself. If being different once cost you your place, you may keep a little distance as insurance. *I want to be close and still be myself* is a perfectly reasonable thing to ask for.
 

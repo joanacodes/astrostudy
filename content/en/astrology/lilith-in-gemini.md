@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 135
 glyph: "⚸♊"
-definition: "Lilith in Gemini places Black Moon Lilith, the Moon’s farthest point from Earth, in mutable air, the sign ruled by Mercury. I read it as a curiosity that went further than it was allowed to — questions, contradictions, more than one self — learned early as something to hide, and a refusal to be summed up in a single sentence."
+definition: "Lilith in Gemini places Black Moon Lilith, the Moon’s farthest point from Earth, in mutable air, the sign ruled by Mercury. I read it as a curiosity that went further than it was allowed to — questions, contradictions, more than one self — and a refusal to be summed up in a single sentence."
 facts:
   - { k: "Body", v: "Black Moon Lilith ⚸, mean" }
   - { k: "Sign", v: "Gemini ♊, ruled by Mercury" }
@@ -43,7 +43,7 @@ Gemini had mean Lilith, the version I read ([which Lilith is mine?](/astrology/w
 
 ## In close relationships {#in-close-relationships}
 
-In love, Lilith in Gemini needs to be able to talk about anything. A partner who puts topics off limits, or wants one fixed version of you, starts to feel like a narrow room. You may need more than one kind of closeness — someone to talk to, someone to think with, friends who know another side of you — and that isn't disloyalty. It's how this Lilith breathes.
+Lilith in Gemini needs a love it can talk to about anything. A partner who puts topics off limits, or wants one fixed version of you, starts to feel like a narrow room. You may need more than one kind of closeness — someone to talk to, someone to think with, friends who know another side of you — and that isn't disloyalty. It's how this Lilith breathes.
 
 The tender spot is being taken for someone who isn't serious. If you were scolded for changing your mind, you may now hide the change, agreeing out loud while disagreeing inside. Saying *I've thought about it again* early is kinder, to both of you, than the slow drift it replaces.
 

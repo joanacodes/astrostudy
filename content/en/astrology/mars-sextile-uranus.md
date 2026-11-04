@@ -20,7 +20,7 @@ faq:
   - q: "What does Mars sextile Uranus mean in a birth chart?"
     a: "A 60° link between how you act and how you innovate, usually across two signs that get on. When the usual method stalls, you tend to find another and try it without much fuss. I read it as an opening for inventive effort: real, and at its best when you choose to use it."
   - q: "Is Mars sextile Uranus a good aspect?"
-    a: "It’s an easy one, which isn’t quite the same thing. It offers a readiness to try new methods and adapt on the move, and that helps in most kinds of work. But opportunity asks for engagement: the sextile shows a door, and you’re the one who decides whether to walk through it."
+    a: "Easy, yes; good depends on what you do with it. It offers a readiness to try new methods and adapt on the move, and that helps in most kinds of work. But opportunity asks for engagement: the sextile shows a door, and you’re the one who decides whether to walk through it."
   - q: "How is Mars sextile Uranus different from Mars conjunct Uranus?"
     a: "In the conjunction, acting and changing arrive in one charge, and the need to do things your own way is hard to miss. The sextile keeps the two apart and on friendly terms: innovation is available to your effort when you call on it, rather than driving it all the time."
 sources:
@@ -39,7 +39,7 @@ It also makes independence easier to live with. You can do things your own way w
 
 ## In a birth chart {#in-a-birth-chart}
 
-A sextile usually joins two signs two apart, in elements that get on. In fire and air, the cooperation shows as ideas acted on quickly; in earth and water, as practical fixes found by trial. The houses show where the knack is used: Mars in the 3rd sextile Uranus in the 5th, say, might bring a fresh way of talking about, or teaching, whatever you love doing.
+Two signs apart, the sextile's signs usually belong to elements that get on. In fire and air, the cooperation shows as ideas acted on quickly; in earth and water, as practical fixes found by trial. The houses show where the knack is used: Mars in the 3rd sextile Uranus in the 5th, say, might bring a fresh way of talking about, or teaching, whatever you love doing.
 
 The sextile is common: about 1 person in 15 has it within 6°. Close to exact, inventiveness becomes part of how you work; at the wider end, it's something you reach for when you're stuck.
 
@@ -56,7 +56,7 @@ Between two charts, [Mars sextile Uranus in synastry](/astrology/mars-sextile-ur
 
 ## In transits {#in-transits}
 
-[Transiting Uranus sextile natal Mars](/astrology/transiting-uranus-sextile-natal-mars/) comes from each side once in Uranus's 84-year round, so twice at most in a life. With seven years to a sign, Uranus keeps it within reach for a year or so, usually over several passes: a season when a new way of working, or a chance to act independently, is there to be taken. Born with the sextile, you meet a different angle at the [Uranus opposition](/astrology/uranus-opposition/), around 42: Uranus in the sky then trines your Mars.
+[Transiting Uranus sextile natal Mars](/astrology/transiting-uranus-sextile-natal-mars/) is a rare visitor: Uranus needs 84 years to go round, so it reaches each of the two sextile points to your Mars only once. With seven years to a sign, Uranus keeps it within reach for a year or so, usually over several passes: a season when a new way of working, or a chance to act independently, is there to be taken. Born with the sextile, you meet a different angle at the [Uranus opposition](/astrology/uranus-opposition/), around 42: Uranus in the sky then trines your Mars.
 
 Mars in the sky makes the sextile to your natal Uranus twice every two years, for a couple of days: brief openings for a quick fix or an unplanned start.
 

@@ -60,6 +60,6 @@ Entre deux thèmes, [Vénus trigone Neptune en synastrie](/astrology/venus-trine
 
 [Neptune en transit trigone Vénus du thème natal](/astrology/transiting-neptune-trine-natal-venus/) est une longue visite qui s’annonce rarement. Comme Neptune passe environ cinq mois par an en rétrograde, le transit dure souvent deux ans environ à moins d’un degré, en plusieurs passages. Qu’il arrive ou non dépend de la distance entre votre Vénus et Neptune, car une vie ne couvre qu’une partie du tour de Neptune, environ 165 ans ; si ce trigone est dans votre thème, vous l’avez depuis le début. C’est parfois une saison où la beauté, la compassion et l’art se rapprochent.
 
-Deux fois par an environ, Vénus forme aussi ce trigone avec Neptune dans votre thème, un jour ou deux : une journée douce pour la musique ou un geste aimable.
+Vénus refait l’angle en petit environ deux fois par an : un jour ou deux d’une mise au point plus douce, propice à la musique ou à un geste aimable.
 
 Une météo, pas une prédiction : aucun des deux transits ne décide de ce que vous aimerez, ni de qui. Ils rendent seulement l’imaginaire plus proche, pour un temps.

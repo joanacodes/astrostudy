@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 141
 glyph: "⚸♐"
-definition: "Lilith en Sagittaire signifie qu’à votre naissance, la Lune noire Lilith, point le plus lointain de l’orbite lunaire, se trouvait dans le feu mutable du signe de Jupiter. J’y lis une faim de monde et de sens plus grande que ce qu’on vous offrait, apprise tôt comme une chose à cacher, et un refus des petits mondes."
+definition: "Lilith en Sagittaire signifie qu’à votre naissance, la Lune noire Lilith, point le plus lointain de l’orbite lunaire, se trouvait dans le feu mutable du signe de Jupiter. Elle désigne une faim de monde et de sens plus grande que ce qu’on vous offrait, souvent tue à la maison, et un refus des petits mondes."
 facts:
   - { k: "Corps", v: "Lune noire Lilith ⚸, moyenne" }
   - { k: "Signe", v: "Sagittaire ♐, gouverné par Jupiter" }
@@ -44,7 +44,7 @@ La Lilith moyenne ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-En amour, Lilith en Sagittaire a besoin d’espace pour aller et venir, en vrai ou en pensée, et de quelqu’un qui voyage avec elle plutôt que d’attendre à la maison en désapprouvant. Elle est attirée par les gens d’ailleurs et les autres façons de penser, et se refroidit quand une relation commence à rétrécir le monde au lieu de l’élargir. La part cachée peut mettre un lien à l’épreuve en s’en allant — un voyage, une formation, une idée neuve — pour voir si l’autre suit, laisse partir, ou tente de tenir les rênes.
+Lilith en Sagittaire aime mieux la porte ouverte. Elle a besoin d’espace pour aller et venir, en vrai ou en pensée, et de quelqu’un qui voyage avec elle plutôt que d’attendre à la maison en désapprouvant. Elle est attirée par les gens d’ailleurs et les autres façons de penser, et se refroidit quand une relation commence à rétrécir le monde au lieu de l’élargir. La part cachée peut mettre un lien à l’épreuve en s’en allant — un voyage, une formation, une idée neuve — pour voir si l’autre suit, laisse partir, ou tente de tenir les rênes.
 
 Ce qu’elle veut, c’est une compagnie de route : quelqu’un qui sait entendre *j’ai besoin d’aller voir* sans entendre *je te quitte*.
 

@@ -57,6 +57,6 @@ Entre deux thèmes, [Vénus carré Pluton en synastrie](/astrology/venus-square-
 
 [Pluton en transit carré Vénus du thème natal](/astrology/transiting-pluto-square-natal-venus/) reste à moins d’un degré pendant deux ans environ, en deux ou trois passages. Le rencontrer ou non dépend de votre année de naissance et de la place de votre Vénus : le pas de Pluton varie tellement, de 12 à 31 ans par signe, que le calendrier de ce transit est propre à chaque thème. Ce transit se lit souvent comme une longue saison où ce que vous aimez est poussé vers plus de franchise, et où certains attachements se renouvellent de l’intérieur.
 
-Deux fois par an environ, Vénus, dans le ciel, forme un carré avec Pluton dans votre thème pour un jour ou deux, et une petite chose peut alors peser plus lourd qu’elle ne pèse vraiment.
+Quand Vénus forme un carré avec Pluton dans votre thème, à peu près deux fois par an, une petite chose peut peser plus lourd qu’elle ne pèse vraiment, pendant un jour ou deux.
 
 Une météo, pas une prédiction : la pression décrit le climat d’une saison, jamais l’issue d’un lien.

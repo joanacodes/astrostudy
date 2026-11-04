@@ -40,7 +40,7 @@ Ease isn't inevitability, though. What comes this naturally can go unnoticed, an
 
 ## In a birth chart {#in-a-birth-chart}
 
-The trine usually links two signs of the same element, so your way of acting and your tender place share a temperament: both fiery, earthy, airy or watery. Mars's sign gives the action its style, quick in Aries or patient in Taurus. Chiron's sign colours the sore spot, and whole year-groups share it, since Chiron spends anywhere from under two years to about eight in a sign. The houses make it yours. Mars in the 6th trine Chiron in the 10th, say, might show as everyday work that quietly helps people who feel exposed in public; working out the houses takes a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+The trine usually links two signs of the same element, so your way of acting and your tender place share a temperament: both fiery, earthy, airy or watery. Mars's sign gives the action its style, quick in Aries or patient in Taurus. Chiron's sign colours the sore spot, and whole year-groups share it, since Chiron spends anywhere from under two years to about eight in a sign. The houses make it yours. Mars in the 3rd trine Chiron in the 11th, say, might show as speaking up readily for friends or groups who feel left out; working out the houses takes a birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 About 1 person in 15 is born with Mars within 6° of a trine to Chiron. Mars moves much faster than Chiron, so Mars makes and leaves the aspect, and people born a few weeks apart may or may not share it. Within a degree or two, adapting as you act is second nature; nearer 6°, it's a resource you reach for when it matters.
 
@@ -57,6 +57,6 @@ Between two charts, [Mars trine Chiron in synastry](/astrology/mars-trine-chiron
 
 [Transiting Chiron trine natal Mars](/astrology/transiting-chiron-trine-natal-mars/) is the slow version. Chiron keeps no steady pace, so the transit can pass quickly in the signs it crosses fast, or stretch over many months, with retrograde passes, where it slows. Astrologers often describe it as a good season to try a new way of working, go back to something you once gave up on, or take up a cause close to an old difficulty.
 
-The quick version comes from Mars itself: Mars in the sky trines your natal Chiron at least twice in each round of about two years, for a few days at a time, short stretches when acting around an old difficulty comes a little easier.
+The quick version comes from Mars itself: Mars in the sky trines your natal Chiron at least twice in each round of about two years, each time for a few days: short stretches when acting around an old difficulty comes a little easier.
 
 Neither decides anything for you. Both are weather, not a forecast: a season, long or short, in which the drive to act and the skill of adapting are easier to bring together.

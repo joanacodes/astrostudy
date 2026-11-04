@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 139
 glyph: "⚸♎"
-definition: "Lilith in Libra means Black Moon Lilith, the Moon’s farthest point from Earth, was in cardinal air, the sign of Venus and the scales, when you were born. I read it as your own weight on the scales, learned early as something to keep off them, and a quiet, exact refusal of anything that isn’t fair."
+definition: "Lilith in Libra means Black Moon Lilith, the Moon’s farthest point from Earth, was in cardinal air, the sign of Venus and the scales, when you were born. Here Lilith is your own weight on the scales, kept off them to keep the peace, and a quiet, exact refusal of anything that isn’t fair."
 facts:
   - { k: "Body", v: "Black Moon Lilith ⚸, mean" }
   - { k: "Sign", v: "Libra ♎, ruled by Venus" }

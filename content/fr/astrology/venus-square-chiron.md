@@ -55,6 +55,6 @@ Entre deux thèmes, [Vénus carré Chiron en synastrie](/astrology/venus-square-
 
 [Chiron en transit carré Vénus du thème natal](/astrology/transiting-chiron-square-natal-venus/) peut passer en une seule saison, ou revenir deux ou trois fois sur un an ou plus, au gré des rétrogradations de Chiron. On y lit un moment où les questions de valeur et d’affection reviennent, avec la possibilité d’y répondre plus doucement qu’avant. Si ce carré est dans votre thème, quand Chiron formera un carré avec sa propre position de naissance, à un âge qui varie beaucoup selon votre année de naissance, il rejoindra votre Vénus ou s’y opposera, selon le côté de Chiron où se trouve votre Vénus.
 
-Deux fois par an environ, Vénus, dans le ciel, forme un carré avec Chiron dans votre thème pour un jour ou deux : des moments où un mot gentil ou maladroit porte plus que d’habitude.
+Vénus en ajoute de brèves versions, en carré avec Chiron dans votre thème environ deux fois par an ; ces jours-là, un mot gentil ou maladroit peut porter plus que d’habitude.
 
 Une météo, pas une prédiction : la friction d’une saison, jamais un jugement sur vous.

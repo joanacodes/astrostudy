@@ -27,13 +27,13 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people are born with it" }
 ---
-Venus trine Chiron lets what you value and what you've learned by adapting run in the same current. Making room for difference, your own or someone else's, tends to come easily, and so does a taste that experience has refined.
+Venus trine Chiron puts your taste and the skills you've built around a lasting sensitivity in the same current. Making room for difference, your own or someone else's, tends to come easily, and so does a taste that experience has refined.
 
 ## What it means {#what-it-means}
 
-[Venus](/astrology/venus/) is the part of a chart that values and relates: what attracts you, what you prefer, your feeling for form, and the give and take that keeps a bond fair. [Chiron](/astrology/chiron/) is the part that adapts: it lives with a sensitivity or limit that doesn't go away by changing method, pace or expectation, and builds resilience and practical wisdom from it. A [trine](/astrology/trine/) relates them through flow: each supports the other, and neither takes the other's place.
+[Venus](/astrology/venus/) is the part of a chart that values and relates: what attracts you, what you prefer, your feeling for form, and the give and take that keeps a bond fair. [Chiron](/astrology/chiron/) is the part that adapts: it lives with a sensitivity or limit that doesn't go away by changing method, pace or expectation, and builds resilience and practical wisdom from it. In a [trine](/astrology/trine/) the two run in the same direction, each making the other easier to use.
 
-In plain words, you tend to be at ease with people as they are. You adjust without making a show of it: a quieter table for a friend who finds noise hard, a slower pace for someone who needs it, a way of saying no that leaves a bond intact. Your own tender spot doesn't usually stop you from relating; you've found ways to live with it, and they show in how you treat others. Accommodation and competence sit side by side in you, and neither defines you.
+In plain words, you tend to be at ease with people as they are. You adjust without making a show of it: a quieter table for a friend who finds noise hard, a slower pace for someone who needs it, a way of saying no that leaves a bond intact. Your own tender spot doesn't usually stop you from relating; you've found ways to live with it, and they show in how you treat others. You can need some accommodation and still be very good at things; in you, the two don't contradict each other.
 
 Ease isn't inevitability, though. Because the adapting costs you little, you may not see it as a skill, or may give it away so freely that nobody makes room for you in return. The trine does most when you notice it, use it on purpose, and let the care go both ways.
 
@@ -56,6 +56,6 @@ Between two charts, [Venus trine Chiron in synastry](/astrology/venus-trine-chir
 
 [Transiting Chiron trine natal Venus](/astrology/transiting-chiron-trine-natal-venus/) is a slow body on a stretched orbit making an easy angle, so it can take a few months or the better part of two years. It's usually a mild time, in which the way you relate grows a little wiser and asking for what you need gets a little easier.
 
-Venus in the sky trines your natal Chiron about twice a year, a day or two each time.
+The quicker version comes from Venus: about twice a year it trines your natal Chiron for a day or two, a good moment to accept the kind of help you would usually wave away.
 
 Weather, not a forecast: an easy season for tending tender places, if you take it.

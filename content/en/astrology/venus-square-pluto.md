@@ -56,6 +56,6 @@ Between two charts, [Venus square Pluto in synastry](/astrology/venus-square-plu
 
 [Transiting Pluto square natal Venus](/astrology/transiting-pluto-square-natal-venus/) stays within a degree for about two years, in two or three passes. Whether you meet it depends on your birth year and on where your Venus sits: Pluto's pace varies so much, from 12 to 31 years a sign, that its timing is personal. It's often read as a long season in which what you value is pressed to become more honest, and some attachments are renewed from the inside.
 
-Twice a year or so, Venus in the sky squares your natal Pluto for a day or two, and a small thing can feel weightier than it is.
+When Venus squares your natal Pluto, roughly twice a year, a small thing can feel weightier than it is for a day or two.
 
 Weather, not a forecast: the pressure describes a season's climate, never how a bond will turn out.

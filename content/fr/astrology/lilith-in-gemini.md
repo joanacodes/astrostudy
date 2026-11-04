@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 135
 glyph: "⚸♊"
-definition: "Lilith en Gémeaux place la Lune noire Lilith, le point de l’orbite lunaire le plus éloigné de la Terre, dans l’air mutable du signe de Mercure. J’y lis une curiosité allée plus loin qu’on ne le permettait — des questions, des contradictions, plusieurs visages — apprise tôt comme une chose à cacher, et le refus de tenir dans une seule phrase."
+definition: "Lilith en Gémeaux place la Lune noire Lilith, le point de l’orbite lunaire le plus éloigné de la Terre, dans l’air mutable du signe de Mercure. J’y lis une curiosité allée plus loin qu’on ne le permettait — des questions, des contradictions, plusieurs visages — et le refus de tenir dans une seule phrase."
 facts:
   - { k: "Corps", v: "Lune noire Lilith ⚸, moyenne" }
   - { k: "Signe", v: "Gémeaux ♊, gouvernés par Mercure" }
@@ -44,7 +44,7 @@ Les Gémeaux ont accueilli la Lilith moyenne, celle que je lis ([Quelle Lilith e
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-En amour, Lilith en Gémeaux a besoin de pouvoir parler de tout. Quelqu’un qui interdit certains sujets, ou qui veut de vous une seule version figée, finit par ressembler à une pièce trop étroite. Il vous faut parfois plusieurs sortes de proximité — quelqu’un à qui parler, quelqu’un avec qui penser, des amis qui connaissent une autre facette de vous — et ce n’est pas de la déloyauté. C’est ainsi que cette Lilith respire.
+Lilith en Gémeaux a besoin d’un amour à qui l’on peut parler de tout. Quelqu’un qui interdit certains sujets, ou qui veut de vous une seule version figée, finit par ressembler à une pièce trop étroite. Il vous faut parfois plusieurs sortes de proximité — quelqu’un à qui parler, quelqu’un avec qui penser, des amis qui connaissent une autre facette de vous — et ce n’est pas de la déloyauté. C’est ainsi que cette Lilith respire.
 
 Le point sensible, c’est qu’on vous prenne pour une personne peu sérieuse. Si l’on vous a reproché vos changements d’avis, il se peut que vous les cachiez maintenant, en disant oui à voix haute et non en dedans. Dire tôt *j’y ai repensé* est plus doux, pour vous deux, que la lente dérive qu’il remplace.
 

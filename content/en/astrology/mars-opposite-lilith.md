@@ -40,7 +40,7 @@ Polarity isn't contradiction. Over time this axis tends to come home: you learn 
 
 ## In a birth chart {#in-a-birth-chart}
 
-Opposite signs share their modality and have elements that complete each other, so the two ends understand each other better than they first appear to. The houses name the axis. On the 1st–7th line, it stretches from you to the people you pair with; across the 6th and 12th, between daily work and what you keep out of sight; across the 3rd and 9th, between everyday talk and what you believe. Houses need your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
+Opposite signs share their modality and have elements that complete each other, so the two ends understand each other better than they first appear to. The houses name the axis. On the 1st–7th line it stretches from you to the people you pair with; on the 6th–12th, from daily work to what you keep out of sight; on the 3rd–9th, from everyday talk to what you believe. Houses need your birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Roughly 1 person in 30 has the opposition within 6°, counting with mean Lilith. Close to exact, the two ends tend to set each other off quickly; at 5° or 6°, the axis shows mostly in particular relationships. As with every placement, I read it as a tendency, not a fate ([how I read](/how-i-read/)).
 

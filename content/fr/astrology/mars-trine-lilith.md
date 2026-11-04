@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 233
 glyph: "♂△⚸"
-definition: "Mars trigone Lilith signifie qu’à votre naissance, Mars se trouvait à environ 120° de la Lune noire Lilith, en général dans deux signes qui partagent un élément. L’élan et la part indomptée s’accordent : agir selon vos propres règles coûte peu de combat intérieur. J’y lis une aisance avec vos instincts, qui gagne à être utilisée exprès."
+definition: "Dans Mars trigone Lilith, un angle d’environ 120° relie Mars à la Lune noire Lilith dans votre thème natal, en général entre deux signes qui partagent un élément. L’élan et la part indomptée s’accordent : agir selon vos propres règles coûte peu de combat intérieur. J’y lis une aisance avec vos instincts, qui gagne à être utilisée exprès."
 facts:
   - { k: "Corps", v: "Mars ♂ et la Lune noire Lilith ⚸" }
   - { k: "Aspect", v: "Trigone △, 120°" }

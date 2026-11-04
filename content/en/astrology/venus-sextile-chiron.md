@@ -38,7 +38,7 @@ In plain words, you tend to know how to relate around a difficulty, your own or 
 
 ## In a birth chart {#in-a-birth-chart}
 
-The sextile usually pairs signs two apart, of complementary elements, so the two functions meet as allies. With Chiron in Aries, a long stay of about eight years, Venus sextile it in Gemini or Aquarius lets candour and friendship carry what you've learned; with Chiron in Cancer, Venus in Virgo or Taurus gives the adapting a practical, caring shape. In the houses, Venus in the 9th sextile Chiron in the 11th might make you a natural mentor in groups, someone who teaches from what they've lived.
+Here the two signs usually sit two apart, in elements that complement each other. With Chiron in Aries, a long stay of about eight years, Venus sextile it in Gemini or Aquarius lets candour and friendship carry what you've learned; with Chiron in Cancer, Venus in Virgo or Taurus gives the adapting a practical, caring shape. In the houses, Venus in the 9th sextile Chiron in the 11th might make you a natural mentor in groups, someone who teaches from what they've lived.
 
 About 1 person in 14 is born with Venus and Chiron within 6° of a sextile, the most frequent of the pair's five aspects in the count. Venus, by far the faster, forms it for a week or two at a time. Chiron held 75 to 90% of the time in my notebook, so I take what this sextile describes seriously, and check it against your life rather than assume it ([the invoice method, and what held overall](/blog/i-tested-my-birth-chart/)).
 
@@ -55,6 +55,6 @@ Between two charts, [Venus sextile Chiron in synastry](/astrology/venus-sextile-
 
 [Transiting Chiron sextile natal Venus](/astrology/transiting-chiron-sextile-natal-venus/) changes length with the decade in which you meet it, because Chiron's speed does. It's a mild, useful season: a chance to update how you relate, to ask for what you need, or to offer what you know.
 
-Venus sextiles your natal Chiron about twice a year, for a day or two: good days for a considerate word.
+The fast echo comes from Venus, sextiling your natal Chiron about twice a year: good days for a considerate word.
 
 Weather, not a forecast: a sextile's season offers, and never insists.

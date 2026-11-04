@@ -56,6 +56,6 @@ When two charts meet, [Venus trine Pluto in synastry](/astrology/venus-trine-plu
 
 [Transiting Pluto trine natal Venus](/astrology/transiting-pluto-trine-natal-venus/) is the gentlest of Pluto's long contacts with Venus. It stays within a degree for about two years, crossing more than once as Pluto turns retrograde, and people often notice it only afterwards, as a time when something they loved became more solid. Whether it comes in your lifetime depends on your birth year and on where your Venus sits.
 
-Venus in the sky trines your natal Pluto about twice a year, for a day or two: a short, easy moment to say what you value.
+Twice a year Venus brings a lighter echo, trining your natal Pluto for a day or two: an easy moment to say what you value.
 
 Weather, not a forecast: the tailwind is long and soft, and it doesn't choose your direction.

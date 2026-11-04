@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 141
 glyph: "⚸♐"
-definition: "Lilith in Sagittarius means Black Moon Lilith, the Moon’s farthest point from Earth, was in mutable fire, the sign Jupiter rules, when you were born. I read it as a hunger for more world and more meaning than you were offered, learned early as something to hide, and a refusal of small worlds and borrowed answers."
+definition: "Lilith in Sagittarius means Black Moon Lilith, the Moon’s farthest point from Earth, was in mutable fire, the sign Jupiter rules, when you were born. It marks a hunger for more world and more meaning than you were offered, often kept quiet at home, and a refusal of small worlds and borrowed answers."
 facts:
   - { k: "Body", v: "Black Moon Lilith ⚸, mean" }
   - { k: "Sign", v: "Sagittarius ♐, ruled by Jupiter" }
@@ -43,7 +43,7 @@ Mean Lilith ([which Lilith is mine?](/astrology/which-lilith-is-mine/)) has only
 
 ## In close relationships {#in-close-relationships}
 
-In love, Lilith in Sagittarius needs room to roam, in body or in mind, and a partner who travels with it rather than waiting at home disapproving. It's drawn to people from other places and other ways of thinking, and it cools when a relationship starts shrinking the world instead of widening it. The hidden part may test a bond by heading off — a trip, a course, a new idea — to see whether the other person follows, lets go, or reaches for the reins.
+Lilith in Sagittarius loves best with the door open. It needs room to roam, in body or in mind, and a partner who travels with it rather than waiting at home disapproving. It's drawn to people from other places and other ways of thinking, and it cools when a relationship starts shrinking the world instead of widening it. The hidden part may test a bond by heading off — a trip, a course, a new idea — to see whether the other person follows, lets go, or reaches for the reins.
 
 What it wants is a fellow traveller: someone who can hear *I need to go and see* without hearing *I'm leaving you*.
 

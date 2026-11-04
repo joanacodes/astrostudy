@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 134
 glyph: "⚸♉"
-definition: "Lilith in Taurus is mean Black Moon Lilith, the Moon’s farthest point from Earth, passing through fixed earth, the sign ruled by Venus, when you were born. I read it as the right to keep — your pace, your ground, what you value — learned early as something to hide, and a quiet refusal to be hurried or uprooted."
+definition: "Lilith in Taurus is mean Black Moon Lilith, the Moon’s farthest point from Earth, passing through fixed earth, the sign ruled by Venus, when you were born. In a chart it marks a claim you were taught to keep quiet, the right to your own pace, ground and values, and a refusal that doesn’t argue: it simply doesn’t move."
 facts:
   - { k: "Body", v: "Black Moon Lilith ⚸, mean" }
   - { k: "Sign", v: "Taurus ♉, ruled by Venus" }

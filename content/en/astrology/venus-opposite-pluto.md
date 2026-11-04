@@ -54,6 +54,6 @@ Between two charts, [Venus opposite Pluto in synastry](/astrology/venus-opposite
 
 [Transiting Pluto opposite natal Venus](/astrology/transiting-pluto-opposite-natal-venus/) lasts about two years within a degree, in several passes, and comes in some lifetimes and not others, depending on your birth year and on where your Venus sits. It's often described as a season in which relationships hold up a mirror to what you value. Born with the opposition, you meet a related moment at the [Pluto square](/astrology/pluto-square/), at an age that depends on your birth year: Pluto then squares its own place and, by the geometry of the opposition, your Venus too.
 
-About once a year, Venus in the sky opposes your natal Pluto for a day or two, and someone else's intensity may be easier to see than your own.
+Once a year or so the roles swap briefly, when Venus opposes your natal Pluto and someone else's intensity is easier to see than your own.
 
 Weather, not a forecast: the mirror shows; it doesn't decide.

@@ -55,6 +55,6 @@ Between two charts, [Venus conjunct Chiron in synastry](/astrology/venus-conjunc
 
 [Transiting Chiron conjunct natal Venus](/astrology/transiting-chiron-conjunct-natal-venus/) lasts as long as the sign Chiron is crossing allows: a matter of months in Virgo or Libra, where it moves fastest, and often more than a year, in three passes, in Aries or Pisces, where it lingers. It's often a season when an old question about whether you're valued comes back, and you get to answer it with what you know now. If the conjunction is yours, the [Chiron return](/astrology/chiron-return/) at about 50 doubles as this transit: Chiron's way back to its own birth degree passes over your Venus too.
 
-About once a year, Venus in the sky crosses your natal Chiron: a day or two of tenderness about being liked or chosen.
+Venus crosses your natal Chiron about once a year, and the day or two around it can bring a flicker of tenderness about being liked or chosen.
 
 Weather, not a forecast: these are times to be kind to the tender place, never verdicts on it.

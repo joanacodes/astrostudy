@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 137
 glyph: "⚸♌"
-definition: "Lilith in Leo means Black Moon Lilith, the Moon’s farthest point from Earth, was in fixed fire, the Sun’s sign, when you were born. I read it as a wish to be seen whole — your work, your joy, your pride — learned early as showing off, and a dignity that refuses to be made smaller."
+definition: "Lilith in Leo means Black Moon Lilith, the Moon’s farthest point from Earth, was in fixed fire, the Sun’s sign, when you were born. I read it as a wish to be seen whole — your work, your joy, your pride — that someone once called showing off, and a dignity that refuses to be made smaller."
 facts:
   - { k: "Body", v: "Black Moon Lilith ⚸, mean" }
   - { k: "Sign", v: "Leo ♌, ruled by the Sun" }
@@ -43,7 +43,7 @@ Mean Lilith ([which Lilith is mine?](/astrology/which-lilith-is-mine/)) stays ab
 
 ## In close relationships {#in-close-relationships}
 
-In love, Lilith in Leo needs to be seen as it is: not as a flattering version, and not as an accessory to someone else's story. It's drawn to people who enjoy your full brightness, and it cools fast around anyone who only likes you dimmed. A partner threatened by your success, or embarrassed by your exuberance, eventually meets the proud refusal above.
+A partner who loves Lilith in Leo has to see it as it is: not as a flattering version, and not as an accessory to someone else's story. It's drawn to people who enjoy your full brightness, and it cools fast around anyone who only likes you dimmed. A partner threatened by your success, or embarrassed by your exuberance, eventually meets the proud refusal above.
 
 If you learned to wait in the wings, say what you'd like: to be admired for something specific, to choose the evening now and then. Asking to be seen isn't demanding attention, and the right people can tell the difference.
 

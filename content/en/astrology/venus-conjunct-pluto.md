@@ -57,6 +57,6 @@ Between two charts, [Venus conjunct Pluto in synastry](/astrology/venus-conjunct
 
 [Transiting Pluto conjunct natal Venus](/astrology/transiting-pluto-conjunct-natal-venus/) comes once in a lifetime at most. Pluto takes 12 to 31 years to cross a sign and is retrograde about five months a year, so it stays within a degree of your Venus for about two years, often in three passes. Born with the conjunction, you meet it early or not at all: with your Venus a few degrees ahead of Pluto, Pluto reached it in your first years; behind, it had already gone by. For everyone else it's a long season in which what you value tends to be looked at more deeply.
 
-About once a year, Venus in the sky meets your natal Pluto for a day or two: a short spell in which feelings run deeper than the occasion.
+The short version is Venus's yearly pass over your natal Pluto: a day or two in which feelings run deeper than the occasion.
 
 Weather, not a forecast: Pluto's season shows how deep the weather goes, never what it will bring.

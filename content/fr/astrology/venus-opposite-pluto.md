@@ -55,6 +55,6 @@ Entre deux thèmes, [Vénus opposition Pluton en synastrie](/astrology/venus-opp
 
 [Pluton en transit opposition Vénus du thème natal](/astrology/transiting-pluto-opposite-natal-venus/) dure environ deux ans à moins d’un degré, en plusieurs passages, et arrive dans certaines vies et pas dans d’autres, selon votre année de naissance et la place de votre Vénus. On décrit souvent ce transit comme une saison où les relations tendent un miroir à ce que vous aimez. Si l’opposition est dans votre thème, un moment voisin arrive avec le [carré de Pluton](/astrology/pluto-square/), à un âge qui dépend de votre année de naissance : Pluton forme alors un carré avec sa propre position et, par la géométrie de l’opposition, avec votre Vénus aussi.
 
-Environ une fois par an, Vénus, dans le ciel, s’oppose à Pluton dans votre thème pour un jour ou deux, et l’intensité d’une autre personne se voit parfois mieux que la vôtre.
+Une fois par an environ, les rôles s’échangent brièvement : Vénus s’oppose à Pluton dans votre thème, et l’intensité d’une autre personne se voit mieux que la vôtre.
 
 Une météo, pas une prédiction : le miroir montre, il ne décide pas.

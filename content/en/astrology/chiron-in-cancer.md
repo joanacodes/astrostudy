@@ -54,4 +54,4 @@ The shell can close too tight. Under strain, this Chiron may retreat into a smal
 
 Let care run both ways, on purpose: accept the meal, the lift, the offer to sit with you. Keep a few places that are entirely yours, where you host nobody. Notice when a feeling belongs to now and when it belongs to then. Born with Chiron in Cancer between 1988 and 1991, you meet your [Chiron return](/astrology/chiron-return/) once Chiron is back in the sign, from July 2038; I read it as a look at the home you've built, inside and out.
 
-Of everything I ticked and crossed in my notebook, three placements stood out, and Chiron was one: it held 75 to 90% of the time ([The three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)). With Chiron in Cancer, I go gently, and I ask what home means to you before I say anything about it.
+Of everything I ticked and crossed in my notebook, three placements stood out, and Chiron was one of them, holding 75 to 90% of the time ([The three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)). With Chiron in Cancer, I go gently, and I ask what home means to you before I say anything about it.

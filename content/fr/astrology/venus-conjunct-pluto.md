@@ -58,6 +58,6 @@ Entre deux thèmes, [Vénus conjonction Pluton en synastrie](/astrology/venus-co
 
 [Pluton en transit conjonction Vénus du thème natal](/astrology/transiting-pluto-conjunct-natal-venus/) arrive une fois dans une vie, au plus. Pluton met 12 à 31 ans à traverser un signe et rétrograde environ cinq mois par an : le transit reste donc à moins d’un degré de votre Vénus pendant deux ans environ, souvent en trois passages. Si la conjonction est dans votre thème, vous le rencontrez tôt ou jamais : avec votre Vénus quelques degrés devant Pluton, Pluton l’a atteinte dans vos premières années ; derrière, le passage avait déjà eu lieu. Pour les autres, c’est une longue saison où ce que vous aimez est regardé plus profondément.
 
-Environ une fois par an, Vénus, dans le ciel, rejoint Pluton dans votre thème pour un jour ou deux : un court moment où les sentiments vont plus loin que l’occasion.
+La version courte, c’est le passage annuel de Vénus sur Pluton dans votre thème : un jour ou deux où les sentiments vont plus loin que l’occasion.
 
 Une météo, pas une prédiction : la saison de Pluton montre jusqu’où va le temps qu’il fait, jamais ce qu’elle apportera.

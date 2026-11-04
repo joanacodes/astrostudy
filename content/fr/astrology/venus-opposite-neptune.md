@@ -57,6 +57,6 @@ Entre deux thèmes, [Vénus opposition Neptune en synastrie](/astrology/venus-op
 
 [Neptune en transit opposition Vénus du thème natal](/astrology/transiting-neptune-opposite-natal-venus/) arrive pour certaines générations et pas pour d’autres, selon la distance entre votre Vénus et Neptune ; quand ce transit vient, il dure environ deux ans, en plusieurs passages, et peut brouiller puis éclaircir ce que vous attendez des personnes que vous aimez. Si l’opposition est dans votre thème, une saison voisine arrive vers 41 ans : le [carré de Neptune](/astrology/neptune-square/) à sa propre position de naissance est aussi, par la même géométrie, un carré à votre Vénus.
 
-Environ une fois par an, Vénus s’oppose à Neptune dans votre thème pour un jour ou deux, plus souvent quand elle rétrograde à proximité : des journées où l’écart entre l’idéal et le réel se voit mieux.
+Vénus elle-même vient faire face à Neptune dans votre thème environ une fois par an, plus souvent quand elle rétrograde à proximité, et pendant un jour ou deux l’écart entre l’idéal et le réel se voit mieux.
 
 Une météo, pas une prédiction : ces transits changent la lumière sur ce que vous aimez, pas les faits.

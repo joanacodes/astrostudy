@@ -56,6 +56,6 @@ Between two charts, [Venus opposite Neptune in synastry](/astrology/venus-opposi
 
 [Transiting Neptune opposite natal Venus](/astrology/transiting-neptune-opposite-natal-venus/) comes to some generations and not to others, depending on how far your Venus sits from Neptune; when it comes, it stays about two years, in several passes, and can blur and then clarify what you want from the people you love. Born with the opposition, you meet a related season at about 41: the [Neptune square](/astrology/neptune-square/) to its own birth place is, by the same geometry, a square to your Venus.
 
-About once a year, Venus in the sky opposes your natal Neptune for a day or two, more often when it turns retrograde nearby: days when the gap between the ideal and the actual is easier to see.
+Venus itself comes round to face your natal Neptune about once a year, more often when it turns retrograde nearby, and for a day or two the gap between the ideal and the actual is easier to see.
 
 Weather, not a forecast: these transits change the light on what you love, not the facts of it.

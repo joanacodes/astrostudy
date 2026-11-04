@@ -54,4 +54,4 @@ The difficulty is holding on too long. Taurus is fixed, so a workaround that onc
 
 Reviewing the old methods, gently, one at a time: which still work, which cost more than they give. Pleasure helps too, the Venus kind — good food, music, a walk with nowhere to be — taken as fuel rather than a reward. Let someone else carry something for a change, and see that your value doesn't drop. People born with Chiron in Taurus between 1976 and 1984 meet their [Chiron return](/astrology/chiron-return/) as Chiron crosses Taurus again, from June 2026 to May 2034, and I read it as a slow stocktaking of what you've built, not a verdict on it.
 
-When I tested charts placement by placement, Chiron was among [the three that held](/blog/saturn-chiron-lilith/#chiron), 75 to 90% of the time. In Taurus it rarely makes a scene, which is exactly why I take my time with it.
+Chiron came out of my placement-by-placement tests as one of [the three that held](/blog/saturn-chiron-lilith/#chiron), at 75 to 90% of the time. In Taurus it rarely makes a scene, which is exactly why I take my time with it.

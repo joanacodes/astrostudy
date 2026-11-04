@@ -59,6 +59,6 @@ Between two charts, [Venus trine Neptune in synastry](/astrology/venus-trine-nep
 
 [Transiting Neptune trine natal Venus](/astrology/transiting-neptune-trine-natal-venus/) is a long visit that rarely announces itself. Neptune turns retrograde for about five months each year, so once within a degree of the trine it tends to stay around two years, crossing the exact point more than once. Whether it comes at all depends on how far your Venus sits from Neptune, since a lifetime covers only part of Neptune's 165-year round; born with the trine, you had it from the start. It can be a season in which beauty, compassion and art come closer than usual.
 
-Twice a year or so, Venus in the sky trines your natal Neptune for a day or two: a soft day for music or a kind gesture.
+Venus repeats the angle on a small scale about twice a year: a day or two of softer focus that suits music or a kind gesture.
 
 Weather, not a forecast: neither transit decides what or whom you'll love. They make imagination easier to reach for a while.

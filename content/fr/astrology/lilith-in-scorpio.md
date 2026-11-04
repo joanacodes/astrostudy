@@ -48,7 +48,7 @@ La Lilith moyenne ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-En amour, Lilith en Scorpion veut du vrai, ou pas grand-chose. Les banalités peuvent ressembler à une porte fermée à clé ; vous préférez connaître les peurs de quelqu’un plutôt que ses films préférés. La part cachée a besoin de vérité dans la proximité, dite plutôt que sous-entendue, et elle remarque vite quand l’autre joue un rôle. Elle peut attendre longtemps avant de laisser voir sa propre profondeur, en tâtant l’eau d’abord.
+Du vrai, ou pas grand-chose : voilà ce que Lilith en Scorpion attend de l’amour. Les banalités peuvent ressembler à une porte fermée à clé ; vous préférez connaître les peurs de quelqu’un plutôt que ses films préférés. La part cachée a besoin de vérité dans la proximité, dite plutôt que sous-entendue, et elle remarque vite quand l’autre joue un rôle. Elle peut attendre longtemps avant de laisser voir sa propre profondeur, en tâtant l’eau d’abord.
 
 La confiance donnée ici est donnée profondément, et c’est un cadeau, pas une dette : qui la reçoit ne vous doit pas tout en retour d’un seul coup, seulement de l’honnêteté.
 

@@ -47,7 +47,7 @@ Mean Lilith ([which Lilith is mine?](/astrology/which-lilith-is-mine/)) was last
 
 ## In close relationships {#in-close-relationships}
 
-In love, Lilith in Scorpio wants the real thing or nothing much. Small talk can feel like a locked door; you'd rather know someone's fears than their favourite films. The hidden part needs truth in closeness, said rather than implied, and it notices quickly when a partner is performing. It may wait a long time before letting anyone see its own depth, testing the water first.
+The real thing or nothing much: that's what Lilith in Scorpio wants from love. Small talk can feel like a locked door; you'd rather know someone's fears than their favourite films. The hidden part needs truth in closeness, said rather than implied, and it notices quickly when a partner is performing. It may wait a long time before letting anyone see its own depth, testing the water first.
 
 Trust given here is given deeply, and it's a gift, not a debt: whoever receives it doesn't owe you everything back at once, only honesty.
 

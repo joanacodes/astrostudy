@@ -43,7 +43,7 @@ La Lilith moyenne ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-En amour, Lilith en Verseau a besoin d’amitié à l’intérieur du lien, et de place pour y rester une personne entière. Elle refuse les scénarios — la façon dont un couple est censé vivre, l’ordre dans lequel les choses sont censées arriver — et préfère écrire l’arrangement à deux, exprès. Elle est attirée par les personnes qui intéressent son esprit et la laissent libre.
+Lilith en Verseau a besoin, avant tout, d’amitié à l’intérieur du lien, et de place pour y rester une personne entière. Elle refuse les scénarios — la façon dont un couple est censé vivre, l’ordre dans lequel les choses sont censées arriver — et préfère écrire l’arrangement à deux, exprès. Elle est attirée par les personnes qui intéressent son esprit et la laissent libre.
 
 Le point sensible, c’est la proximité elle-même. Si votre différence vous a coûté votre place autrefois, il se peut que vous gardiez un peu de distance, par assurance. *Je veux être proche et rester moi-même* : c’est une demande parfaitement raisonnable.
 

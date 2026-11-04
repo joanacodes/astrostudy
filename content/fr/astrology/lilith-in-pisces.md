@@ -44,7 +44,7 @@ Les Poissons sont un signe de foi, mais je préfère que vous ne me croyiez pas 
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-En amour, Lilith en Poissons ressent énormément, et a souvent appris à en garder l’essentiel hors de vue. Elle est attirée par la tendresse et par les personnes qui ont une vie intérieure, et recule devant la moquerie, ou devant quelqu’un qui traite sa sensibilité comme un problème à régler. La part cachée a besoin de place pour rêver, prier ou simplement se taire sans qu’on la dise vague.
+Lilith en Poissons ressent énormément en amour, et a souvent appris à en garder l’essentiel hors de vue. Elle est attirée par la tendresse et par les personnes qui ont une vie intérieure, et recule devant la moquerie, ou devant quelqu’un qui traite sa sensibilité comme un problème à régler. La part cachée a besoin de place pour rêver, prier ou simplement se taire sans qu’on la dise vague.
 
 Ce qu’elle doit parfois refuser, c’est de servir de bouée de sauvetage. La compassion est son don ; porter tout le poids de quelqu’un d’autre, c’est autre chose.
 

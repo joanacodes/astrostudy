@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 137
 glyph: "⚸♌"
-definition: "Lilith en Lion signifie qu’à votre naissance, la Lune noire Lilith, le point de l’orbite lunaire le plus éloigné de la Terre, se trouvait dans le feu fixe du signe du Soleil. J’y lis le désir qu’on vous voie en entier — votre travail, votre joie, votre fierté — appris tôt comme de l’esbroufe, et une dignité qui refuse de rapetisser."
+definition: "Lilith en Lion signifie qu’à votre naissance, la Lune noire Lilith, le point de l’orbite lunaire le plus éloigné de la Terre, se trouvait dans le feu fixe du signe du Soleil. J’y lis le désir qu’on vous voie en entier — votre travail, votre joie, votre fierté — qu’on a un jour traité d’esbroufe, et une dignité qui refuse de rapetisser."
 facts:
   - { k: "Corps", v: "Lune noire Lilith ⚸, moyenne" }
   - { k: "Signe", v: "Lion ♌, gouverné par le Soleil" }
@@ -44,7 +44,7 @@ La Lilith moyenne ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-En amour, Lilith en Lion a besoin qu’on la voie comme elle est : pas en version flatteuse, ni en accessoire de l’histoire de quelqu’un d’autre. Elle est attirée par les personnes qui aiment tout votre éclat, et se refroidit vite auprès de qui ne vous aime qu’en veilleuse. Quelqu’un que votre réussite menace, ou que votre exubérance gêne, finit par rencontrer ce refus fier.
+Qui aime Lilith en Lion doit la voir comme elle est : pas en version flatteuse, ni en accessoire de l’histoire de quelqu’un d’autre. Elle est attirée par les personnes qui aiment tout votre éclat, et se refroidit vite auprès de qui ne vous aime qu’en veilleuse. Quelqu’un que votre réussite menace, ou que votre exubérance gêne, finit par rencontrer ce refus fier.
 
 Si vous avez appris à attendre en coulisses, dites ce que vous aimeriez : qu’on vous admire pour quelque chose de précis, choisir la soirée de temps en temps. Demander qu’on vous voie, ce n’est pas réclamer l’attention, et les bonnes personnes font la différence.
 

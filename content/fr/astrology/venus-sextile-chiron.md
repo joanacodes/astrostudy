@@ -39,7 +39,7 @@ Concrètement, vous savez en général entrer en relation autour d’une difficu
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le sextile relie en général deux signes distants de deux, d’éléments complémentaires : les deux fonctions se rencontrent en alliées. Avec Chiron en Bélier, un long séjour d’environ huit ans, Vénus en sextile en Gémeaux ou en Verseau laisse la franchise et l’amitié porter ce que vous avez appris ; avec Chiron en Cancer, Vénus en Vierge ou en Taureau donne à l’adaptation une forme concrète et attentionnée. Dans les maisons, Vénus en maison 9 en sextile avec Chiron en maison 11 pourrait faire de vous une personne de référence dans les groupes, qui transmet ce qu’elle a vécu.
+Les deux signes se trouvent en général à deux signes d’écart, dans des éléments qui se complètent. Avec Chiron en Bélier, un long séjour d’environ huit ans, Vénus en sextile en Gémeaux ou en Verseau laisse la franchise et l’amitié porter ce que vous avez appris ; avec Chiron en Cancer, Vénus en Vierge ou en Taureau donne à l’adaptation une forme concrète et attentionnée. Dans les maisons, Vénus en maison 9 en sextile avec Chiron en maison 11 pourrait faire de vous une personne de référence dans les groupes, qui transmet ce qu’elle a vécu.
 
 Environ 1 personne sur 14 naît avec Vénus et Chiron à moins de 6° d’un sextile exact : c’est, dans le décompte, le plus fréquent des cinq aspects de la paire. Vénus, de loin la plus rapide, le forme pour une semaine ou deux à chaque fois. Chiron a tenu 75 à 90 % du temps dans mon carnet : je prends donc au sérieux ce que décrit ce sextile, et je le vérifie dans votre vie plutôt que de le supposer ([la méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)).
 
@@ -56,6 +56,6 @@ Entre deux thèmes, [Vénus sextile Chiron en synastrie](/astrology/venus-sextil
 
 [Chiron en transit sextile Vénus du thème natal](/astrology/transiting-chiron-sextile-natal-venus/) change de durée selon la décennie où vous le rencontrez, parce que la vitesse de Chiron change aussi. C’est une saison douce et utile : l’occasion de mettre à jour votre façon d’entrer en relation, de demander ce dont vous avez besoin, ou d’offrir ce que vous savez.
 
-Vénus forme un sextile avec Chiron dans votre thème environ deux fois par an, pour un jour ou deux : de bons jours pour un mot attentionné.
+L’écho rapide vient de Vénus, en sextile avec Chiron dans votre thème environ deux fois par an : de bons jours pour un mot attentionné.
 
 Une météo, pas une prédiction : la saison d’un sextile propose, elle n’insiste jamais.

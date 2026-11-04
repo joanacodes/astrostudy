@@ -52,7 +52,7 @@ Pour comparer, voici les autres angles que Mars forme avec Lilith :
 - **[Mars trigone Lilith](/astrology/mars-trine-lilith/) :** agir selon vos propres règles vient facilement, sans combat.
 - **[Mars opposition Lilith](/astrology/mars-opposite-lilith/) :** la part indomptée se montre souvent d’abord chez les autres, et vous apprenez à la reconnaître comme vôtre.
 
-Entre deux thèmes, [Mars conjonction Lilith en synastrie](/astrology/mars-conjunct-lilith-synastry/) pose l’élan de l’une des deux personnes sur le point indompté de l’autre : un contact électrique, parfois troublant, qui ne fonctionne que si chacune a son mot à dire.
+Entre deux thèmes, [Mars conjonction Lilith en synastrie](/astrology/mars-conjunct-lilith-synastry/) met l’élan d’une personne au contact du point indompté de l’autre : un contact électrique, parfois troublant, qui ne fonctionne que si chacune a son mot à dire.
 
 ## En transit {#en-transit}
 
