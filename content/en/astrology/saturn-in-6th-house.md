@@ -43,7 +43,7 @@ Where [Saturn in the 5th house](/astrology/saturn-in-5th-house/) has to learn to
 
 ## In close relationships {#in-close-relationships}
 
-You show love in practical help: making the appointment, fixing the leak, keeping the household on its feet. Shared routines matter, and a partner who lives in chaos can feel like a permanent extra task. Animals, if you share your life with them, tend to get the same faithful routine. The risk is that the relationship turns into another list. The lesson is time together with no purpose at all, which this Saturn finds strangely hard and very good for it.
+Love, for you, often looks like practical help: making the appointment, fixing the leak, keeping the household on its feet. Shared routines matter, and a partner who lives in chaos can feel like a permanent extra task. Animals, if you share your life with them, tend to get the same faithful routine. The risk is that the relationship turns into another list. The lesson is time together with no purpose at all, which this Saturn finds strangely hard and very good for it.
 
 ## At work {#at-work}
 

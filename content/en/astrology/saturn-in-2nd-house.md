@@ -1,7 +1,7 @@
 ---
 title: "Saturn in the 2nd house"
 h1: "Saturn in the 2nd house in a birth chart"
-description: "Saturn in the 2nd house in a birth chart: security and self-worth built the long way, money read as an attitude rather than a forecast, and what helps."
+description: "Saturn in the 2nd house in a birth chart: money, belongings and self-worth handled with care, read as an attitude rather than a forecast, and what helps."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -20,7 +20,7 @@ faq:
   - q: "What does Saturn in the 2nd house mean?"
     a: "Your Saturn is working in the house of money, belongings, values and self-worth. Security is built slowly and kept carefully, and your sense of your own worth may take longer to settle than your income does. It describes how you handle having, not how much you will have: that, no chart can say."
   - q: "Does Saturn in the 2nd house mean money problems?"
-    a: "No. A chart can’t predict what anyone will earn or lose, and I don’t read it for that. Saturn here describes an attitude: caution, patience, sometimes a fear of not having enough. That attitude can lay very solid foundations, as long as it doesn’t stop you enjoying what you already have."
+    a: "No. A chart can’t predict what anyone will earn or lose, and I don’t read it for that. Saturn here describes an attitude: caution, patience, sometimes a dread of running short. That attitude can lay very solid foundations, as long as it doesn’t stop you enjoying what you already have."
   - q: "How does Saturn in the 2nd house affect self-worth?"
     a: "It can tie worth to output: what you produce, what you earn, what you can show for your effort. The lesson runs the other way, learning that you are worth something before you have proved it. Saturn takes its time over that lesson, but what it builds tends to hold."
   - q: "Can I know if Saturn is in my 2nd house without a birth time?"

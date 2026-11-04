@@ -2,7 +2,7 @@
 title: "Saturne en maison 2"
 slug: "saturne-en-maison-2"
 h1: "Saturne en maison 2 dans un thème natal"
-description: "Saturne en maison 2 dans un thème natal : la sécurité et l’estime de soi bâties par le long chemin, l’argent lu comme une attitude, et ce qui aide."
+description: "Saturne en maison 2 dans un thème natal : l’argent, les biens et l’estime de soi tenus avec soin, lus comme une attitude plutôt qu’une prédiction."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -21,11 +21,11 @@ faq:
   - q: "Que veut dire Saturne en maison 2 ?"
     a: "Votre Saturne travaille dans la maison de l’argent, des biens, des valeurs et de l’estime de soi. La sécurité se construit lentement, et le sentiment de votre propre valeur peut mettre plus de temps à s’installer que vos revenus. Ce placement décrit votre façon de gérer l’avoir, pas ce que vous aurez : cela, aucun thème ne le dit."
   - q: "Saturne en maison 2, est-ce le signe de problèmes d’argent ?"
-    a: "Non. Un thème ne peut pas prédire ce que quelqu’un gagnera ou perdra, et ce n’est pas ce que j’y cherche. Saturne décrit ici une attitude : de la prudence, de la patience, parfois la peur de manquer. Cette attitude peut poser des fondations très solides, tant qu’elle ne vous empêche pas de profiter de ce que vous avez déjà."
+    a: "Non. Un thème ne peut pas prédire ce que quelqu’un gagnera ou perdra, et ce n’est pas ce que j’y cherche. Saturne décrit ici une attitude : de la prudence, de la patience, parfois la crainte de manquer. Cette attitude peut poser des fondations très solides, tant qu’elle ne vous empêche pas de profiter de ce que vous avez déjà."
   - q: "Quel effet a Saturne en maison 2 sur l’estime de soi ?"
     a: "Ce placement peut lier la valeur au rendement : ce que vous produisez, ce que vous gagnez, ce que vous pouvez montrer de vos efforts. La leçon va dans l’autre sens : apprendre que vous valez quelque chose avant d’en avoir fait la preuve. Saturne prend son temps pour cette leçon, mais ce qui en sort tient."
   - q: "Peut-on savoir si Saturne est en maison 2 sans l’heure de naissance ?"
-    a: "Non. Les maisons viennent de l’heure et du lieu de naissance, et sans l’heure, Saturne pourrait se trouver dans n’importe laquelle des douze. Son signe se lit avec la seule date, mais la maison qui rend ce placement personnel demande l’heure, aussi précise que possible."
+    a: "Non. Les maisons dépendent du moment et de l’endroit de la naissance, et sans l’heure, Saturne pourrait se trouver dans n’importe laquelle des douze. Son signe se lit avec la seule date, mais la maison qui rend ce placement personnel demande l’heure, aussi précise que possible."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
   - { title: "Dorothée de Sidon, Carmen Astrologicum", note: "les maisons en pratique" }

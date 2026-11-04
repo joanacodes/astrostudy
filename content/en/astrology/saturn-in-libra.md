@@ -42,7 +42,7 @@ Saturn was in Libra from November 1950 to October 1953, September 1980 to August
 
 ## In close relationships {#in-close-relationships}
 
-Commitment is serious business for you: a promise is a contract, even when nobody wrote it down. You want a partnership of equals, with the load shared and the rules clear, and you can stay a long time in one that isn't, out of duty or a hope that patience will even things out. The lesson is that a fair relationship isn't a scoreboard. When two people ask me to compare their charts, I read Saturn with particular care, because Saturn proved itself in my notebook more than almost anything else, and only ever once both of them have said yes ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Commitment is serious business for you: a promise is a contract, even when nobody wrote it down. You want a partnership of equals, with the load shared and the rules clear, and you can stay a long time in one that isn't, out of duty or a hope that patience will even things out. The lesson is that a fair relationship isn't a scoreboard. When two people ask me to compare their charts, and only once both of them have said yes ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)), I read Saturn with particular care, because it proved itself in my notebook more than almost anything else.
 
 ## At work {#at-work}
 

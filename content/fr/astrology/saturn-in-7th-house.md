@@ -45,7 +45,7 @@ Le descendant est toujours exactement en face de l’ascendant : la même erreu
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-Avant que Saturne atteigne la maison 7, avec [Saturne en maison 6](/astrology/saturn-in-6th-house/), l’amour se montre par l’aide concrète ; au-delà, avec [Saturne en maison 8](/astrology/saturn-in-8th-house/), par une confiance donnée lentement. Ici, il se montre par l’engagement lui-même. Vous mettez peut-être longtemps à dire oui, sondez le terrain avec soin, puis vous restez, fidèle dans la difficulté. La stabilité et la maturité peuvent vous attirer, quel que soit l’âge de la personne. Le risque : rester par devoir dans un lien devenu inégal, ou tant retenir que personne ne s’approche assez pour rester. Si vous souhaitez que je compare votre thème avec celui d’un ou d’une partenaire, je lis les contacts de Saturne avec un soin particulier, et seulement une fois que vous avez dit oui, vous et l’autre personne (voir [pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Avant que Saturne atteigne la maison 7, avec [Saturne en maison 6](/astrology/saturn-in-6th-house/), l’amour se montre par l’aide concrète ; au-delà, avec [Saturne en maison 8](/astrology/saturn-in-8th-house/), par une confiance donnée lentement. Ici, il se montre par l’engagement lui-même. Vous mettez peut-être longtemps à dire oui, sondez le terrain avec soin, puis vous restez, fidèle dans la difficulté. La stabilité et la maturité peuvent vous attirer, quel que soit l’âge de la personne. Le risque : rester par devoir dans un lien devenu inégal, ou tant retenir que personne ne s’approche assez pour rester. Comparer votre thème avec celui d’une ou d’un partenaire, je ne le fais que si vous l’avez accepté, vous et l’autre personne (voir [pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)), et les contacts de Saturne sont ceux que je lis le plus lentement.
 
 ## Au travail {#au-travail}
 
@@ -57,4 +57,4 @@ La peur de l’engagement, ou son reflet : un engagement tenu trop longtemps. V
 
 ## Ce qui aide {#ce-qui-aide}
 
-Rendre les accords explicites, et y revenir à mesure que vous changez tous les deux. Donner du temps aux liens, mais remarquer quand la patience est devenue de l’endurance. Chercher une relation d’équipe, pas un examen. Saturne a tenu 75 à 90 % du temps dans mon carnet : c’est pourquoi je lis Saturne en maison 7 avec soin, lentement, et jamais comme une sentence sur votre vie amoureuse.
+Rendre les accords explicites, et y revenir au fil de vos changements. Donner du temps aux liens, mais remarquer quand la patience est devenue de l’endurance. Chercher une relation d’équipe, pas un examen. Saturne a tenu 75 à 90 % du temps dans mon carnet : voilà pourquoi Saturne en maison 7 se lit chez moi lentement, avec soin, et jamais comme une sentence sur votre vie amoureuse.

@@ -22,7 +22,7 @@ faq:
   - q: "Does Saturn in the 4th house mean a difficult childhood?"
     a: "Not as a verdict. It describes your experience of home: often a sense of duty, seriousness or restraint, sometimes a role you took on young. It says nothing certain about your parents, who have charts of their own. With time, the home you build can become your strongest foundation."
   - q: "What does Saturn near the IC mean?"
-    a: "The IC is the lowest point of the chart and, in Placidus, the cusp of the 4th house. Saturn near it was below your feet when you were born, close to the bottom of its daily circle. I read it as a strong, quiet Saturn: deep foundations, a private sense of duty, and roots that grow slowly but hold."
+    a: "The IC is the lowest point of the chart and, in Placidus, the cusp of the 4th house. Saturn near it lay below your feet at your birth, close to the bottom of its daily circle. To me it describes a strong, quiet Saturn: deep foundations, a private sense of duty, and roots that grow slowly but hold."
   - q: "Is Saturn in detriment in the 4th house?"
     a: "Detriment belongs to signs, not houses. Saturn is in detriment in Cancer, which happens to be the 4th house’s natural sign, and the two share a theme of feeling and family. But I read the house on its own terms, together with whatever sign Saturn actually occupies in your chart."
 sources:
@@ -36,7 +36,7 @@ Under every house there's a foundation nobody sees. With Saturn in the 4th, that
 
 Home, family, roots, the past you carry and the private self that only the people closest to you see are [the 4th house](/astrology/4th-house/)'s business. Tradition also gave it land and houses, the things that stay put. It's angular, and what sits here is strong even when it works out of sight. At the moment of your birth, [Saturn](/astrology/saturn/) was below your feet, near the lowest point of its daily circle, close to the IC.
 
-The house's natural sign is Cancer, where Saturn is in detriment, and the theme carries over: the planet of rules and reserve in the house of feeling and belonging. It often describes a home where you grew up quickly, took on a role, or learned to keep your feelings tidy. I read this gently. The 4th describes your experience of home, not facts about your parents; the people who raised you have charts of their own. What Saturn describes here is slower and kinder than its reputation: a home you build yourself, later, and trust.
+The house's natural sign is Cancer, where Saturn is in detriment, and the theme carries over: Saturn's reserve meets the house of feeling and belonging. It often describes a home where you grew up quickly, took on a role, or learned to keep your feelings tidy. I read this gently. The 4th describes your experience of home, not facts about your parents; the people who raised you have charts of their own. What Saturn describes here is slower and kinder than its reputation: a home you build yourself, later, and trust.
 
 Across the chart sits the 10th house, the natural house of Capricorn, Saturn's own sign. So Saturn in the 4th looks straight up at public life from the private one, and the two can pull against each other for years.
 

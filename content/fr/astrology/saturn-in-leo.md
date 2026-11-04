@@ -49,7 +49,7 @@ Votre loyauté est grande, votre générosité mesurée, et le respect compte po
 
 ## Au travail {#au-travail}
 
-Au travail, vous voulez faire quelque chose qui soit digne de votre nom. Le savoir-faire et le talent créatif se construisent sur des années, et la responsabilité de mener se prend au sérieux, parfois trop pour qu’on y trouve du plaisir. Par rapport à [Saturne en Vierge](/astrology/saturn-in-virgo/), qui veut un travail juste, Saturne en Lion veut un travail dont on puisse être fier. Deux habitudes opposées sont à surveiller : trop travailler pour une reconnaissance qui ne semble jamais suffire, ou garder votre meilleur travail à l’abri des regards pour qu’il ne puisse pas être jugé.
+Au travail, vous voulez faire quelque chose qui soit digne de votre nom. Le savoir-faire et le talent créatif se construisent sur des années, et la responsabilité de mener se prend au sérieux, parfois trop pour qu’on y trouve du plaisir. Par rapport à [Saturne en Vierge](/astrology/saturn-in-virgo/), qui veut un travail juste, Saturne en Lion veut un travail qui inspire de la fierté. Deux habitudes opposées sont à surveiller : trop travailler pour une reconnaissance qui ne semble jamais suffire, ou garder votre meilleur travail à l’abri des regards pour qu’il ne puisse pas être jugé.
 
 ## Le plus difficile {#le-plus-difficile}
 

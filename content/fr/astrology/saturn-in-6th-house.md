@@ -30,7 +30,7 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons, leurs noms anciens et ce que la tradition leur attribuait" }
   - { title: "Dorothée de Sidon, Carmen Astrologicum", note: "les maisons en pratique" }
 ---
-Le quotidien, c’est là que vit Saturne en maison 6 : le réveil, la liste, les tâches bien faites, que quelqu’un le remarque ou non. C’est le placement de la personne qui fait tout tourner, et qui doit apprendre, lentement, qu’il est permis de s’arrêter.
+Le quotidien, c’est là que vit Saturne en maison 6 : le réveil, la liste, les tâches bien faites, que quelqu’un le remarque ou non. Ce placement décrit la personne qui fait tout tourner, et qui doit apprendre, lentement, qu’il est permis de s’arrêter.
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
@@ -44,7 +44,7 @@ Là où [Saturne en maison 5](/astrology/saturn-in-5th-house/) doit apprendre à
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-Vous montrez votre amour par l’aide concrète : prendre le rendez-vous, réparer la fuite, faire tenir la maison debout. Les routines partagées comptent, et une personne qui vit dans le désordre peut ressembler à une tâche supplémentaire permanente. Les animaux, si vous partagez votre vie avec eux, ont souvent droit à la même routine fidèle. Le risque : que la relation devienne une liste de plus. La leçon : du temps ensemble sans aucun but, ce que ce placement trouve étrangement difficile, et qui lui fait beaucoup de bien.
+Chez vous, l’amour prend souvent la forme d’une aide concrète : prendre le rendez-vous, réparer la fuite, faire tenir la maison debout. Les routines partagées comptent, et une personne qui vit dans le désordre peut ressembler à une tâche supplémentaire permanente. Les animaux, si vous partagez votre vie avec eux, ont souvent droit à la même routine fidèle. Le risque : que la relation devienne une liste de plus. La leçon : du temps ensemble sans aucun but, ce que ce placement trouve étrangement difficile, et qui lui fait beaucoup de bien.
 
 ## Au travail {#au-travail}
 

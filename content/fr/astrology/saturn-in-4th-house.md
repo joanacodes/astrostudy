@@ -23,7 +23,7 @@ faq:
   - q: "Saturne en maison 4, est-ce une enfance difficile ?"
     a: "Pas comme un verdict. Ce placement décrit votre vécu du foyer : souvent un sens du devoir, du sérieux ou de la retenue, parfois un rôle pris très jeune. Il ne dit rien de certain sur vos parents, qui ont leur propre thème. Avec le temps, le foyer que vous bâtissez peut devenir votre fondation la plus solide."
   - q: "Que veut dire Saturne près du Fond du Ciel ?"
-    a: "Le Fond du Ciel est le point le plus bas du thème et, en Placidus, la cuspide de la maison 4. Saturne, là, était sous vos pieds à votre naissance, près du bas de son cercle quotidien. J’y lis une force tranquille : des fondations profondes, un sens du devoir intime, et des racines qui poussent lentement mais tiennent."
+    a: "Le Fond du Ciel est le point le plus bas du thème et, en Placidus, la cuspide de la maison 4. Saturne, là, se trouvait sous vos pieds à votre naissance, près du bas de son cercle quotidien. J’y lis une force tranquille : des fondations profondes, un sens du devoir intime, et des racines qui poussent lentement mais tiennent."
   - q: "Y a-t-il un exil de Saturne en maison 4 ?"
     a: "L’exil concerne les signes, pas les maisons. Saturne est en exil en Cancer, qui se trouve être le signe naturel de la maison 4, et les deux partagent un thème d’émotion et de famille. Mais je lis la maison pour elle-même, avec le signe que Saturne occupe réellement dans votre thème."
 sources:
@@ -37,7 +37,7 @@ Sous chaque maison, il y a des fondations que personne ne voit. Avec Saturne en 
 
 Le foyer, la famille, les racines, le passé que vous portez et la part de vous que seuls vos proches voient : tout cela regarde la [maison 4](/astrology/4th-house/). La tradition lui donnait aussi la terre et les maisons, ce qui ne bouge pas. C’est une maison angulaire : ce qui s’y trouve est fort, même quand cela agit hors de la vue. À votre naissance, [Saturne](/astrology/saturn/) était sous vos pieds, près du point le plus bas de son cercle quotidien, proche du Fond du Ciel.
 
-Son signe naturel est le Cancer, où Saturne est en exil, et le thème se prolonge : la planète des règles et de la réserve dans la maison de l’émotion et de l’appartenance. Ce placement décrit souvent un foyer où l’on a grandi vite, pris un rôle, ou appris à garder ses émotions bien rangées. Je le lis avec douceur. La maison 4 décrit votre vécu du foyer, pas des faits sur vos parents : les personnes qui ont pris soin de votre enfance ont leur propre thème. Ce que Saturne décrit ici est plus lent et plus doux que sa réputation : un foyer que vous bâtissez vous-même, plus tard, et auquel vous vous fiez.
+Son signe naturel est le Cancer, où Saturne est en exil, et le thème se prolonge : la réserve de Saturne rencontre la maison de l’émotion et de l’appartenance. Ce placement décrit souvent un foyer où l’on a grandi vite, pris un rôle, ou appris à garder ses émotions bien rangées. Je le lis avec douceur. La maison 4 décrit votre vécu du foyer, pas des faits sur vos parents : les personnes qui ont pris soin de votre enfance ont leur propre thème. Ce que Saturne décrit ici est plus lent et plus doux que sa réputation : un foyer que vous bâtissez vous-même, plus tard, et auquel vous vous fiez.
 
 Tout en haut, en face, se trouve la maison 10, maison naturelle du Capricorne, le propre signe de Saturne. Saturne en maison 4 regarde donc la vie publique depuis la vie privée, et les deux peuvent tirer en sens contraire pendant des années.
 
@@ -45,7 +45,7 @@ Le Fond du Ciel fait le tour complet du zodiaque en une journée, comme l’asce
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-Il vous faut une base stable avant de pouvoir vous détendre avec quelqu’un. Votre monde intime s’ouvre lentement, et votre partenaire attend parfois un moment avant que la porte s’ouvre tout à fait. Les devoirs familiaux voyagent avec vous, le soin donné tôt, les règles absorbées sans les choisir, et ils façonnent ce que vous attendez d’un foyer partagé. Les fêtes et les réunions de famille peuvent ressembler à un devoir bien avant de ressembler à du repos. Avec le temps, ce placement bâtit un foyer vraiment commun, avec un règlement de maison écrit à deux.
+Une base stable doit exister avant que vous puissiez vous détendre avec quelqu’un. Votre monde intime s’ouvre lentement, et votre partenaire attend parfois un moment avant que la porte s’ouvre tout à fait. Les devoirs familiaux voyagent avec vous, le soin donné tôt, les règles absorbées sans les choisir, et ils façonnent ce que vous attendez d’un foyer partagé. Les fêtes et les réunions de famille peuvent ressembler à un devoir bien avant de ressembler à du repos. Avec le temps, ce placement bâtit un foyer vraiment commun, avec un règlement de maison écrit à deux.
 
 ## Au travail {#au-travail}
 
@@ -57,4 +57,4 @@ De vieilles règles, portées sans être examinées : on a toujours fait comme 
 
 ## Ce qui aide {#ce-qui-aide}
 
-Choisir les traditions que vous gardez, et laisser les autres partir sans culpabilité. Faire d’une pièce, ou d’un coin, un lieu entièrement à vous. Laisser le foyer être un endroit où vous vous reposez, pas seulement un endroit dont vous êtes responsable. Des racines plantées tard poussent quand même en profondeur. Dans mes tests, Saturne compte parmi les trois placements qui ont tenu 75 à 90 % du temps (voir [les trois qui ont tenu](/blog/saturn-chiron-lilith/)) ; en maison 4, je lis ce placement lentement, parce qu’il remonte jusqu’à l’endroit d’où vous venez.
+Choisir les traditions que vous gardez, et laisser les autres partir sans culpabilité. Faire d’une pièce, ou d’un coin, un lieu entièrement à vous. Laisser le foyer être un endroit où vous vous reposez, pas seulement un endroit dont vous êtes responsable. Des racines plantées tard poussent quand même en profondeur. Dans mes tests, Saturne a tenu 75 à 90 % du temps, comme Chiron et Lilith (voir [les trois qui ont tenu](/blog/saturn-chiron-lilith/)) ; en maison 4, je lis ce placement lentement, parce qu’il remonte jusqu’à l’endroit d’où vous venez.

@@ -44,16 +44,16 @@ Placidus, the system I use, is one of several house systems, and in some of them
 
 ## In close relationships {#in-close-relationships}
 
-Intimacy, emotional and physical, is approached with care, and being seen without your guard can feel like the biggest risk of all. You may test trust in small ways before you offer it in large ones. Once given, it's given for good. Jealousy, if it comes, is usually fear in disguise: the fear of being left holding a trust that wasn't returned. Shared money is treated seriously too: you'd rather know exactly what's joint and what isn't, and owing a partner can feel harder than giving. The lesson is letting someone in, and letting them help.
+Closeness of every kind, emotional and sexual, starts slowly with you; letting someone see you unguarded may be the biggest risk you take. You may test trust in small ways before you offer it in large ones. Once given, it's given for good. Jealousy, if it comes, is usually fear in disguise: the fear of being left holding a trust that wasn't returned. Shared money is treated seriously too: you'd rather know exactly what's joint and what isn't, and owing a partner can feel harder than giving. The lesson is letting someone in, and letting them help.
 
 ## At work {#at-work}
 
-People trust you with what's important: confidential information, other people's resources, the problem nobody else wants to look at. Research, investigation, crisis work and any role that needs discretion and nerve can suit you; so can negotiating shared budgets or contracts, because you actually read the terms. You stay steady when things go wrong, which makes you invaluable in a crisis and prone to carrying more than your share of it.
+People trust you with what's important: confidential information, other people's resources, the problem nobody else wants to look at. Work that runs on trust suits you, whether it's research, handling other people's affairs or keeping calm through emergencies, and so does negotiating shared budgets or contracts, because you actually read the terms. You stay steady when things go wrong, which makes you invaluable in a crisis and prone to carrying more than your share of it.
 
 ## The hard part {#the-hard-part}
 
-Holding everything alone. A fear of losing control that makes accepting help feel like a debt you can't afford. Old hurts and old obligations, kept on the books long after everyone else has written them off. And a habit of planning for the worst so thoroughly that there's little room left to expect anything good.
+Holding everything alone. A fear of losing control that makes accepting help feel like a debt you can't afford. Old hurts and old obligations stay on the books for years, whatever anyone else has written off. And a habit of planning for the worst so thoroughly that there's little room left to expect anything good.
 
 ## What helps {#what-helps}
 
-Make clear agreements about what's shared, early, and revisit them. Extend trust in steps you can see, and notice when it's honoured. Accept one offer of help this week without paying it back straight away. Say what you need, in intimacy as anywhere else. Let a crisis end when it's over, instead of standing guard for the next one. I tested placements only with people's consent, and Saturn was one of the three that came out right far more often than the rest ([the invoice method](/blog/i-tested-my-birth-chart/)). With an 8th-house Saturn I keep that same rule: nothing goes further than you choose.
+Make clear agreements about what's shared, early, and revisit them. Let trust grow a step at a time, and keep a note of the times it was kept. Accept one offer of help this week without paying it back straight away. Say what you need, in intimacy as anywhere else. Let a crisis end when it's over, instead of standing guard for the next one. I tested placements only with people's consent, and Saturn was one of the three that came out right more often than nearly everything else ([the invoice method](/blog/i-tested-my-birth-chart/)). With an 8th-house Saturn I keep that same rule: nothing goes further than you choose.

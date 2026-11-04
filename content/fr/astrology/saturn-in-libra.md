@@ -43,7 +43,7 @@ Saturne était en Balance de novembre 1950 à octobre 1953, de septembre 1980 à
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-L’engagement est une affaire sérieuse pour vous : une promesse est un contrat, même quand personne ne l’a écrite. Vous voulez un partenariat d’égal à égal, avec une charge partagée et des règles claires, et vous pouvez rester longtemps dans un couple qui ne l’est pas, par devoir ou dans l’espoir que la patience finira par rééquilibrer les choses. La leçon : une relation équitable n’est pas un tableau d’affichage des scores. Quand deux personnes me demandent de comparer leurs thèmes, je lis Saturne avec un soin particulier, parce que Saturne a fait ses preuves dans mon carnet plus que presque tout le reste, et seulement une fois que les deux ont dit oui (voir [pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+L’engagement est une affaire sérieuse pour vous : une promesse est un contrat, même quand personne ne l’a écrite. Vous voulez un partenariat d’égal à égal, avec une charge partagée et des règles claires, et vous pouvez rester longtemps dans un couple qui ne l’est pas, par devoir ou dans l’espoir que la patience finira par rééquilibrer les choses. La leçon : une relation équitable n’est pas un tableau d’affichage des scores. Quand deux personnes me demandent de comparer leurs thèmes, et seulement une fois que les deux ont dit oui (voir [pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)), je lis Saturne avec un soin particulier, parce que Saturne a fait ses preuves dans mon carnet plus que presque tout le reste.
 
 ## Au travail {#au-travail}
 

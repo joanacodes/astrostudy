@@ -44,7 +44,7 @@ The Descendant is always exactly opposite the Ascendant, so the same birth-time 
 
 ## In close relationships {#in-close-relationships}
 
-Before Saturn reaches the 7th, in [Saturn in the 6th house](/astrology/saturn-in-6th-house/), love shows as practical help; past it, in [Saturn in the 8th house](/astrology/saturn-in-8th-house/), as trust given slowly. Here it shows as commitment itself. You may take a long time to say yes, test the ground carefully, and then stay, loyal through difficulty. You may be drawn to steadiness and maturity, whatever the person's age. The risk is staying out of duty in a bond that has become unequal, or holding back so long that nobody gets close enough to stay. If you'd like your chart compared with a partner's, I read Saturn contacts with particular care, and only once both of you have said yes ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Before Saturn reaches the 7th, in [Saturn in the 6th house](/astrology/saturn-in-6th-house/), love shows as practical help; past it, in [Saturn in the 8th house](/astrology/saturn-in-8th-house/), as trust given slowly. Here it shows as commitment itself. You may take a long time to say yes, test the ground carefully, and then stay, loyal through difficulty. You may be drawn to steadiness and maturity, whatever the person's age. The risk is staying out of duty in a bond that has become unequal, or holding back so long that nobody gets close enough to stay. Comparing your chart with a partner's is something I do only when you've both agreed to it ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)), and Saturn's contacts are the ones I read most slowly.
 
 ## At work {#at-work}
 

@@ -22,7 +22,7 @@ faq:
   - q: "Does Saturn in the 5th house mean no children?"
     a: "No. Tradition gave the 5th house children, but no chart can tell anyone whether or when they will have a child, and I don’t read it that way. What I read here is your own creativity, pleasure and play, as an adult, and how freely you let yourself enjoy them."
   - q: "Why is fun hard with Saturn in the 5th house?"
-    a: "Because the planet of rules and responsibility sits where play lives, so play can start to feel like a task to do well. You may plan your fun, judge your hobbies, or skip the light stage of romance. What helps is practice: enjoying something you are allowed to be bad at."
+    a: "Because the planet of rules and responsibility sits where play lives, so play can start to feel like a task to do well. You may plan your fun, judge your hobbies, or skip the light stage of romance. What helps is practice: a hobby where getting it wrong costs nothing."
   - q: "Is Saturn in the 5th house good for creativity?"
     a: "It can be very good for craft. Saturn brings patience, discipline and a willingness to practise for years, which is how creative skill is built. The difficulty is starting: letting work be rough, shared and imperfect for long enough to grow. Once that permission is there, the results tend to last."
 sources:
@@ -51,8 +51,8 @@ Creative work, if it's yours, tends to be built slowly and properly: an apprenti
 
 ## The hard part {#the-hard-part}
 
-Guilt about pleasure, and a fear of looking foolish while having it. Fun postponed until the work is done, which with Saturn is rarely. Perfectionism in the very places that are meant to be free: the drawing that has to be good, the dance you won't try in public, the song you only sing alone.
+Guilt about pleasure, and a fear of looking foolish while having it. Fun postponed until every task is finished, and with this Saturn the list never ends. Perfectionism in the very places that are meant to be free: the drawing that has to be good, the dance you won't try in public, the song you only sing alone.
 
 ## What helps {#what-helps}
 
-Practise something you're allowed to be bad at, and keep it that way. Block out one evening a week for play that produces nothing at all. Let a first draft be messy and show it to someone kind. Take one small, safe risk purely for the fun of it, and notice that nothing collapses. Saturn rewards practice, and joy, it turns out, can be practised too.
+Take up something you have no talent for, and keep it that way. Block out one evening a week for play that produces nothing at all. Let a first draft be messy and show it to someone kind. Take one small, safe risk purely for the fun of it, and notice that nothing collapses. Saturn rewards practice, and joy, it turns out, can be practised too.

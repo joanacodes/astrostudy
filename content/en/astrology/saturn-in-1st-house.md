@@ -38,7 +38,7 @@ Your body, your manner, your first reaction, the impression you make before anyo
 
 The 1st house's natural sign is Aries, where Saturn is in its fall, and the echo is easy to hear: the house of first moves, holding the planet that would rather wait. Spontaneity may come late. What comes early is a feeling that you have to get yourself right, your look, your manner, your timing, before you're allowed to relax into them.
 
-In Placidus, the house system I use, the Ascendant opens the 1st house, so the closer Saturn sits to it, the louder it speaks. A few minutes of birth time can move Saturn from the 12th into the 1st, or from the Ascendant's degree to the middle of the house, which is why I won't read it without an accurate time ([what changes without a birth time](/blog/unknown-birth-time/)). Saturn's sign, shared with everyone born in the same two or three years, says how the lesson goes; this house says it's about you, in plain view.
+In Placidus, the house system I use, the Ascendant opens the 1st house, so the closer Saturn sits to it, the louder it speaks. A few minutes of birth time can move Saturn from the 12th into the 1st, or from the Ascendant's degree to the middle of the house, which is why I won't read it without an accurate time ([what changes without a birth time](/blog/unknown-birth-time/)). Saturn's sign, which you share with your whole cohort, says how the lesson goes; this house says it's about you, in plain view.
 
 Its neighbours work elsewhere: [Saturn in the 12th house](/astrology/saturn-in-12th-house/) labours out of sight, [Saturn in the 2nd house](/astrology/saturn-in-2nd-house/) builds what you own. In the 1st, the work is on the self that other people see.
 

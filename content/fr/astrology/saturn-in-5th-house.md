@@ -23,7 +23,7 @@ faq:
   - q: "Saturne en maison 5, est-ce un signe d’absence d’enfants ?"
     a: "Non. La tradition donnait les enfants à la maison 5, mais aucun thème ne peut dire si ni quand quelqu’un aura un enfant, et ce n’est pas ainsi que je lis cette maison. Ce que je lis ici, c’est votre propre créativité, votre plaisir et votre jeu, d’adulte, et la liberté que vous vous donnez d’en profiter."
   - q: "Pourquoi est-il difficile de s’amuser avec Saturne en maison 5 ?"
-    a: "Parce que la planète des règles et des responsabilités se trouve là où vit le jeu : le jeu peut alors ressembler à une tâche à bien faire. Vous planifiez peut-être vos loisirs, jugez vos passe-temps, ou sautez l’étape légère d’une histoire d’amour. Ce qui aide, c’est la pratique : aimer une activité où vous avez le droit de mal faire."
+    a: "Parce que la planète des règles et des responsabilités se trouve là où vit le jeu : le jeu peut alors ressembler à une tâche à bien faire. Vous planifiez peut-être vos loisirs, jugez vos passe-temps, ou sautez l’étape légère d’une histoire d’amour. Ce qui aide, c’est la pratique : un loisir où se tromper ne coûte rien."
   - q: "Saturne en maison 5, est-ce bon pour la créativité ?"
     a: "Cela peut être excellent pour le métier. Saturne apporte la patience, la discipline et l’envie de s’exercer pendant des années, et c’est ainsi que se construit un savoir-faire créatif. La difficulté, c’est de commencer : laisser une œuvre être brute, partagée et imparfaite assez longtemps pour grandir. Une fois cette permission donnée, les résultats durent."
 sources:
@@ -52,8 +52,8 @@ Si le travail créatif est le vôtre, il se construit lentement et dans les règ
 
 ## Le plus difficile {#le-plus-difficile}
 
-La culpabilité du plaisir, et la peur d’avoir l’air ridicule en le prenant. Le plaisir reporté jusqu’à ce que le travail soit fini, ce qui, avec Saturne, arrive rarement. Le perfectionnisme là même où l’on devrait être libre : le dessin qui doit être bon, la danse que vous n’essaierez pas en public, la chanson que vous ne chantez que pour vous.
+La culpabilité du plaisir, et la peur d’avoir l’air ridicule en le prenant. Le plaisir reporté jusqu’à la fin de chaque tâche, et avec ce placement, la liste ne finit jamais. Le perfectionnisme là même où l’on devrait être libre : le dessin qui doit être bon, la danse que vous n’essaierez pas en public, la chanson que vous ne chantez que pour vous.
 
 ## Ce qui aide {#ce-qui-aide}
 
-Pratiquer une activité où vous avez droit à la maladresse, et la garder ainsi. Réserver une soirée par semaine à un jeu qui ne produit rien du tout. Laisser un premier jet être brouillon, et le montrer à quelqu’un de bienveillant. Prendre un petit risque sans danger, juste pour le plaisir, et remarquer que rien ne s’effondre. Saturne récompense la pratique, et la joie, finalement, se pratique aussi.
+Vous lancer dans une activité pour laquelle vous n’avez aucun don, et la garder ainsi. Réserver une soirée par semaine à un jeu qui ne produit rien du tout. Laisser un premier jet être brouillon, et le montrer à quelqu’un de bienveillant. Prendre un petit risque sans danger, juste pour le plaisir, et remarquer que rien ne s’effondre. Saturne récompense la pratique, et la joie, finalement, se pratique aussi.
