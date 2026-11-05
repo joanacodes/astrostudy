@@ -33,7 +33,7 @@ Des avis qui changent lentement, des sujets qui changent vite : c’est souvent
 
 ## Comment ils s’accordent {#comment-ils-s-accordent}
 
-Le Taureau est une terre fixe, les Gémeaux un air mutable, et ils ne se touchent qu’à leur frontière. Le [Soleil en Taureau](/astrology/sun-in-taurus/) prend son temps et choisit ses fidélités avec soin ; la [Lune en Gémeaux](/astrology/moon-in-gemini/) a besoin de mots pour qu’une émotion prenne sens, et reste sereine grâce à la variété, à la conversation et aux nouvelles. L’un des luminaires veut de la profondeur en un seul endroit, l’autre un peu de tout, et les deux besoins sont sincères. Aucun des deux n’a de dignité dans son signe.
+Le Taureau est une terre fixe, les Gémeaux un air mutable, et ils ne se touchent qu’à leur frontière. Le [Soleil en Taureau](/astrology/sun-in-taurus/) prend son temps et choisit ses fidélités avec soin ; la [Lune en Gémeaux](/astrology/moon-in-gemini/) a besoin de mots pour qu’une émotion prenne sens, et reste sereine grâce à la variété, à la conversation et aux nouvelles. L’un des luminaires veut de la profondeur en un seul endroit, l’autre un peu de tout, et les deux besoins sont sincères.
 
 Vos deux maîtres sont des planètes qui restent près du Soleil. [Vénus](/astrology/venus/), maître du Taureau, ne s’en écarte jamais de plus de 47° environ, et [Mercure](/astrology/mercury/), maître des Gémeaux, jamais de plus de 28° environ. Avec un Soleil en Taureau, Mercure se trouve en Bélier, en Taureau ou en Gémeaux, et en Gémeaux, Mercure tient compagnie à votre Lune. Vénus montre ce qui compte pour vous, Mercure comment une émotion devient une phrase, et quand les deux s’entendent, ce duo sait se parler jusqu’à la sérénité.
 

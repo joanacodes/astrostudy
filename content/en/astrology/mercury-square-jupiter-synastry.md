@@ -33,7 +33,7 @@ sources:
 
 [Mercury](/astrology/mercury/) is how someone gathers information and makes it clear: noticing, comparing, putting things into words. [Jupiter](/astrology/jupiter/) is how someone makes sense of the whole: beliefs, principles, the wider view, the reason for doing anything at all. A [square](/astrology/square/) relates two functions through constructive friction, and in the [synastry aspects](/astrology/synastry-aspects/) each function belongs to a different person, so the friction runs between you rather than inside one head. Where one person carries both, [Mercury square Jupiter](/astrology/mercury-square-jupiter/) is an argument they have with themselves; here it has two voices.
 
-What the friction makes possible is a pair that tests ideas well. A plan proposed by one of you gets checked against the facts or against its purpose, whichever it lacks. The Mercury person keeps the Jupiter person's convictions honest; the Jupiter person keeps the Mercury person's information from piling up with no point. Over time, decisions made together tend to have both a reason and a method behind them, which many easier pairs never manage.
+What the friction makes possible is a pair that tests ideas well. A plan proposed by one of you gets checked against the facts or against its purpose, whichever it lacks. The Mercury person keeps the Jupiter person's convictions honest; the Jupiter person keeps the Mercury person's information from piling up with no point. Over time, decisions made together tend to have both a reason and a method behind them, which many easier pairs never manage. Every explanation between you needs two passes: once in specifics for the Mercury person, once in principles for the Jupiter person.
 
 ## Where it rubs {#where-it-rubs}
 

@@ -36,7 +36,7 @@ Standing at the Moon's end, you may find this person brings air into a life that
 
 Standing at Uranus's end, you may find this person gives you a home base you didn't know you wanted. Their attachment shows you what staying could look like when it's chosen rather than imposed. At times their need for closeness may feel like a pull on the rope.
 
-When it's balanced, the pair has what each lacked: belonging with room in it, and freedom with somewhere to return to.
+At its best, each gets what they lacked: belonging with room in it, and freedom with somewhere to return to.
 
 ## Where it rubs {#where-it-rubs}
 

@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/moon", "/astrology/jupiter", "/astrology/sextile", "/astrology/moon-sextile-jupiter", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Lune sextile Jupiter en synastrie ?"
-    a: "Jupiter, dans le thème d’une personne, forme un angle d’environ 60° avec la Lune de l’autre, à 4,8° près. Les idées, les projets et les apprentissages de la première arrivent chez la seconde comme des offres à sa mesure, et ses besoins leur donnent un endroit où se poser. Cela fonctionne sur invitation, et grandit quand les deux s’en saisissent."
+    a: "Entre Jupiter, chez une personne, et la Lune de l’autre, l’angle est d’environ 60°, à 4,8° près. Les idées, les projets et les apprentissages de la première arrivent chez la seconde comme des offres à sa mesure, et ses besoins leur donnent un endroit où se poser. Cela fonctionne sur invitation, et grandit quand les deux s’en saisissent."
   - q: "Lune sextile Jupiter, est-ce un aspect fort en synastrie ?"
     a: "C’est un aspect discret. Un sextile offre une coopération plutôt qu’une pression : il domine rarement la comparaison de deux thèmes. Sa force se voit à l’usage : le voyage fait, le cours partagé, le conseil arrivé à la bonne taille. Tant que personne ne s’en sert, il reste une possibilité, ce qu’il vaut déjà la peine de savoir."
   - q: "Est-ce que Lune sextile Jupiter fonctionne aussi entre collègues ?"

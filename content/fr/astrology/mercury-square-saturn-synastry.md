@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 5,1° près" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "Saturne parmi les trois placements qui ont le mieux tenu ; un carnet, pas une étude" }
 ---
-L’une des deux personnes parle avant que sa pensée soit finie ; l’autre ne parle pas avant que la sienne le soit. Mercure carré Saturne en synastrie désigne Mercure, chez l’une, à environ 90° de Saturne, chez l’autre, et il en résulte une friction bien connue entre une langue rapide et une exigence prudente. Je la lis avec douceur, et des deux côtés, parce que chacune rencontre l’autre à un endroit sensible.
+L’une des deux personnes parle avant que sa pensée soit finie ; l’autre ne parle pas avant que la sienne le soit. Mercure carré Saturne en synastrie désigne Mercure, chez l’une, à environ 90° de Saturne, chez l’autre, ce qui produit une friction bien connue entre une langue rapide et une exigence prudente. Je la lis avec douceur, et des deux côtés, parce que chacune rencontre l’autre à un endroit sensible.
 
 ## Ce qui circule {#ce-qui-circule}
 

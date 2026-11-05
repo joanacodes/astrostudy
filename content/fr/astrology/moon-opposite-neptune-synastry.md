@@ -31,7 +31,7 @@ Lune opposition Neptune en synastrie met les besoins d’une personne et les id�
 
 ## Ce qui circule {#ce-qui-circule}
 
-La [Lune](/astrology/moon/) porte les besoins immédiats, ce qui rassure ici et maintenant. [Neptune](/astrology/neptune/) porte l’imagination, la compassion et l’attrait de l’idéal. Une [opposition](/astrology/opposition/) les dispose sur un même axe, une polarité où chaque bout rend l’autre visible. Ici, ce sont les [aspects de synastrie](/astrology/synastry-aspects/) qui parlent : l’axe va d’une personne à l’autre, et chacune part d’un bout.
+La [Lune](/astrology/moon/) s’occupe des besoins immédiats, de ce qui rassure ici et maintenant. [Neptune](/astrology/neptune/) porte l’imagination, la compassion et l’attrait de l’idéal. Une [opposition](/astrology/opposition/) les dispose sur un même axe, une polarité où chaque bout rend l’autre visible. Ici, ce sont les [aspects de synastrie](/astrology/synastry-aspects/) qui parlent : l’axe va d’une personne à l’autre, et chacune part d’un bout.
 
 Si le bout de la Lune est le vôtre, cette personne sort peut-être vos journées de l’ordinaire. Elle apporte de la musique, de la foi, de l’imagination, le sentiment que la vie dépasse la liste des corvées, et vos émotions sont honorées plutôt que gérées. Par moments, elle peut aussi sembler lointaine, quelque part où vous ne pouvez pas la suivre.
 

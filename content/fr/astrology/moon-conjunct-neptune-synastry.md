@@ -27,11 +27,11 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "ses quatre aspects, qui laissent de côté la conjonction" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 8° près" }
 ---
-Lune conjonction Neptune en synastrie pose Neptune, dans le thème d’une personne, sur la Lune de l’autre. Les émotions d’un côté rencontrent l’imagination de l’autre au même degré, et la frontière entre elles s’adoucit : deux personnes qui semblent connaître l’humeur de l’autre avant qu’un mot soit dit.
+Avec Lune conjonction Neptune en synastrie, Neptune d’une personne se pose sur la Lune de l’autre. Les émotions d’un côté rencontrent l’imagination de l’autre au même degré, et la frontière entre elles s’adoucit : deux personnes qui semblent connaître l’humeur de l’autre avant qu’un mot soit dit.
 
 ## Ce qui circule {#ce-qui-circule}
 
-La [Lune](/astrology/moon/) traite le ressenti et garde la trace de ce dont une personne a besoin pour se sentir en sécurité. [Neptune](/astrology/neptune/) imagine, compatit et desserre les frontières inutiles. Une [conjonction](/astrology/conjunction/) les fond en un seul mouvement ; d’un thème à l’autre, le terrain des [aspects de synastrie](/astrology/synastry-aspects/), ce mouvement appartient à deux personnes.
+La [Lune](/astrology/moon/) traite le ressenti et retient ce qui permet à une personne de se sentir en sécurité. [Neptune](/astrology/neptune/) imagine, compatit et desserre les frontières inutiles. Une [conjonction](/astrology/conjunction/) les fond en un seul mouvement ; d’un thème à l’autre, le terrain des [aspects de synastrie](/astrology/synastry-aspects/), ce mouvement appartient à deux personnes.
 
 Côté Lune, cette personne semble ressentir vos émotions avec vous. Vous n’avez pas à expliquer la mauvaise journée : la bouilloire chauffe déjà, la musique est choisie, la soirée est douce. Une perception aussi complète peut reposer profondément.
 
@@ -41,7 +41,7 @@ Ce qui circule, c’est une tendresse qui demande peu d’explications : des am
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-À cette distance, les contours se dissolvent. La personne qui a Neptune peut imaginer ce dont l’autre a besoin au lieu de le demander, et se tromper avec amour ; celle qui a la Lune peut se retrouver dans le rôle d’un idéal, puis se sentir obligée d’être à sa hauteur. La première peut absorber les humeurs de l’autre jusqu’à ne plus savoir quelles émotions sont les siennes, et la seconde peut cesser de dire ce dont elle a besoin, puisqu’on le devine toujours. Compatir ne veut pas dire s’effacer, et idéaliser quelqu’un n’est pas le voir : cette conjonction a besoin qu’on lui redonne un peu de contour.
+Si près l’une de l’autre, les deux fonctions perdent leurs contours. La personne qui a Neptune peut imaginer les besoins de l’autre au lieu de les demander, et se tromper avec amour ; celle qui a la Lune peut se retrouver dans le rôle d’un idéal, puis se sentir obligée d’être à sa hauteur. La première peut absorber les humeurs de l’autre jusqu’à ne plus savoir quelles émotions sont les siennes, et la seconde peut cesser de dire ce dont elle a besoin, puisqu’on le devine toujours. Compatir ne veut pas dire s’effacer, et idéaliser quelqu’un n’est pas le voir : cette conjonction a besoin qu’on lui redonne un peu de contour.
 
 ## Comment le vivre {#comment-le-vivre}
 

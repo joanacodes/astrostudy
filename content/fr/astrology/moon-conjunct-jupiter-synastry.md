@@ -27,11 +27,11 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "ses quatre aspects, qui laissent de côté la conjonction" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 8° près" }
 ---
-Lune conjonction Jupiter en synastrie place Jupiter, dans le thème de l’une des deux personnes, sur la Lune de l’autre : ce dont l’une a besoin pour se sentir en sécurité se trouve au degré même où l’autre fait de la place et trouve du sens. Recevoir de la place et en donner ne sont pas la même expérience : je lis donc ce contact par les deux bouts.
+Lune conjonction Jupiter en synastrie pose Jupiter, chez l’une des deux personnes, sur la Lune de l’autre : ce dont l’une a besoin pour se sentir en sécurité se trouve au degré même où l’autre fait de la place et trouve du sens. Recevoir de la place et en donner ne sont pas la même expérience : je lis donc ce contact par les deux bouts.
 
 ## Ce qui circule {#ce-qui-circule}
 
-La [Lune](/astrology/moon/) règle les besoins, l’attachement et le sentiment d’être en sécurité. [Jupiter](/astrology/jupiter/) élargit la compréhension : apprendre, donner du sens, soutenir la croissance. Une [conjonction](/astrology/conjunction/) réunit deux fonctions en un seul point, et entre deux thèmes ce point appartient à deux personnes : voilà pourquoi les [aspects de synastrie](/astrology/synastry-aspects/) se lisent de chaque côté.
+La [Lune](/astrology/moon/) règle les besoins, l’attachement et le sentiment d’être en sécurité. [Jupiter](/astrology/jupiter/) élargit la compréhension : apprendre, donner du sens, soutenir la croissance. Une [conjonction](/astrology/conjunction/) fait de deux fonctions un seul élan, et entre deux thèmes cet élan appartient à deux personnes : voilà pourquoi les [aspects de synastrie](/astrology/synastry-aspects/) se lisent de chaque côté.
 
 Si la Lune est la vôtre, vos émotions sont entendues, puis replacées dans un cadre plus large. Une inquiétude que vous évoquez vous revient avec un peu de contexte : elle cesse d’être un poids que vous portez sans personne, et vos réconforts s’élargissent. Une promenade, un plat ou un livre que vous n’auriez jamais choisi rejoint ce qui vous apaise.
 
@@ -46,7 +46,7 @@ Les autres angles écartent davantage les deux mêmes fonctions :
 - **[Lune sextile Jupiter en synastrie](/astrology/moon-sextile-jupiter-synastry/) :** de la place offerte à deux signes de distance, qui ne grandit qu’une fois acceptée.
 - **[Lune carré Jupiter en synastrie](/astrology/moon-square-jupiter-synastry/) :** de la place à la mauvaise taille ou à la mauvaise heure, et une longue leçon de mesure.
 - **[Lune trigone Jupiter en synastrie](/astrology/moon-trine-jupiter-synastry/) :** un encouragement qui passe par un même élément, avec plus d’espace qu’ici entre les deux personnes.
-- **[Lune opposition Jupiter en synastrie](/astrology/moon-opposite-jupiter-synastry/) :** l’une tient ce qui est proche, l’autre ce qui est loin, de part et d’autre d’une bascule.
+- **[Lune opposition Jupiter en synastrie](/astrology/moon-opposite-jupiter-synastry/) :** l’une garde le proche, l’autre vise le lointain, de part et d’autre d’une bascule.
 
 ## Comment le vivre {#comment-le-vivre}
 

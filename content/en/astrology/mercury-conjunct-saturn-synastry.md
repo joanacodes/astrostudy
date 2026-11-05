@@ -33,7 +33,7 @@ Say something offhand to some people and it stays said. With Mercury conjunct Sa
 
 [Mercury](/astrology/mercury/) is how a person thinks, talks and learns: noticing, connecting, putting things into words. [Saturn](/astrology/saturn/) is how they build what lasts: structure, responsibility, boundaries, the discipline to see something through. A [conjunction](/astrology/conjunction/) makes two functions act as one without erasing either, and among the [synastry aspects](/astrology/synastry-aspects/) it ties one person's thinking to the other's sense of structure.
 
-In conversation, this makes for substance. An idea the Mercury person floats gets a frame from the Saturn person within minutes: steps, a timeline, the question nobody else thought to ask. Decisions are rarely made lightly, and the ones you make together tend to stick. Explaining yourselves takes a little longer than with other people, because each explanation is heard carefully, but what is understood stays understood.
+In conversation, this makes for substance. An idea the Mercury person floats gets a frame from the Saturn person within minutes: steps, a timeline, the question nobody else thought to ask. Decisions are rarely made lightly, and the ones you make together tend to stick. Each explanation takes a little longer than it would with other people, because it is heard carefully, but what is understood stays understood.
 
 In the Mercury role, you may notice that you choose your words better around this person, and that they remember what you said months ago. In the Saturn role, you may find that the other's ideas give your sense of responsibility something worth carrying, and that you're the one who turns their talk into a plan.
 

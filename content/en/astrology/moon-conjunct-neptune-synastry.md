@@ -40,7 +40,7 @@ What flows is a tenderness that asks for little explanation: friends who can sit
 
 ## Where it rubs {#where-it-rubs}
 
-At this distance, edges dissolve. The Neptune person may imagine what the other needs rather than ask, and get it lovingly wrong; the Moon person may be cast as an ideal, then feel they must live up to it. The Neptune person can absorb the other's moods until they no longer know which feelings are their own, and the Moon person can stop saying what they need because it's always guessed. Compassion is not self-erasure, and idealising someone is not the same as seeing them: this conjunction needs some outline put back.
+So close together, edges dissolve. The Neptune person may imagine what the other needs rather than ask, and get it lovingly wrong; the Moon person may be cast as an ideal, then feel they must live up to it. The Neptune person can absorb the other's moods until they no longer know which feelings are their own, and the Moon person can stop saying what they need because it's always guessed. Compassion is not self-erasure, and idealising someone is not the same as seeing them: this conjunction needs some outline put back.
 
 ## How to meet it {#how-to-meet-it}
 

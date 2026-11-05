@@ -33,7 +33,7 @@ One of you wants to know what happened; the other wants to know what it meant. M
 
 [Mercury](/astrology/mercury/) is how a person reasons, names and tells one thing from another. [Neptune](/astrology/neptune/) is how they sense, imagine and feel for others: the part at ease with what can't be pinned down. An [opposition](/astrology/opposition/) makes two functions a polarity, each seen clearly against the other, and as a contact between two charts, one of the [synastry aspects](/astrology/synastry-aspects/), it gives each person one end.
 
-What flows is a fuller picture. The Mercury person brings the facts the Neptune person's intuition needs to stand on; the Neptune person brings the meaning the Mercury person's facts were missing. Together you can make decisions that are both sensible and humane: the plan that works and also feels right. Many pairs with this opposition find one of them translating for the other in company, the dreamer's vision into steps, or the realist's caution into something kinder.
+What flows is a fuller picture. The Mercury person brings the facts the Neptune person's intuition needs to stand on; the Neptune person brings the meaning the Mercury person's facts were missing. Together you can make decisions that are both sensible and humane: the plan that works and also feels right. Your explanations to each other split the same way: one of you gives the facts, the other the feeling, and the full account needs both. Many pairs with this opposition find one of them translating for the other in company, the dreamer's vision into steps, or the realist's caution into something kinder.
 
 ## Where it rubs {#where-it-rubs}
 

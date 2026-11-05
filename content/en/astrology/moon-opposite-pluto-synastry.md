@@ -36,7 +36,7 @@ At the Moon's end, this person may draw you into depths you'd have avoided alone
 
 At Pluto's end, this person may offer you a harbour. Their need for safety shows you the value of what's steady and simple, and their attachment can soften a guard you'd kept up for years. At times their need for the familiar can feel like resistance to every change you see coming.
 
-Balanced, the pair has both: depth that doesn't drown anyone, and safety that doesn't stagnate.
+In balance, there's depth that doesn't drown anyone, and safety that doesn't stagnate.
 
 ## Where it rubs {#where-it-rubs}
 

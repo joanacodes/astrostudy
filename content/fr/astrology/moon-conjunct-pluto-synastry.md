@@ -2,13 +2,13 @@
 title: "Lune conjonction Pluton en synastrie"
 slug: "lune-conjonction-pluton-synastrie"
 h1: "Lune conjonction Pluton entre deux thèmes"
-description: "Lune conjonction Pluton en synastrie : l’intensité de l’une se pose sur les émotions de l’autre, et rien ne reste en surface. Qui ressent quoi, la confiance."
+description: "Lune conjonction Pluton en synastrie : l’intensité de l’une touche de plein fouet les émotions de l’autre. Qui ressent quoi, la fréquence, la confiance."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 96
 glyph: "☽☌♇"
-definition: "Lune conjonction Pluton en synastrie : Pluton d’une personne à moins de 8° de la Lune de l’autre. La profondeur et l’élan de transformation de l’une se posent sur les émotions et les besoins de l’autre : peu de choses restent en surface. J’y lis un contact de changement profond et de confiance, jamais le pouvoir de l’une sur l’autre."
+definition: "Lune conjonction Pluton en synastrie : Pluton d’une personne à moins de 8° de la Lune de l’autre. La profondeur et l’élan de transformation de l’une atteignent les émotions et les besoins de l’autre : peu de choses restent en surface. J’y lis un contact de changement profond et de confiance, jamais le pouvoir de l’une sur l’autre."
 facts:
   - { k: "Corps", v: "La Lune ☽ d’une personne, Pluton ♇ chez l’autre" }
   - { k: "Aspect", v: "Conjonction ☌, 0°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/moon", "/astrology/pluto", "/astrology/conjunction", "/astrology/moon-conjunct-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Lune conjonction Pluton en synastrie ?"
-    a: "Pluton, dans le thème d’une personne, est à moins de 8° de la Lune de l’autre. L’intensité et l’envie de transformer de la première se posent sur les émotions de la seconde : le lien devient vite profond et change les deux personnes. Il demande une confiance construite avec le temps, et un pouvoir partagé plutôt que détenu."
+    a: "Moins de 8° séparent Pluton, chez une personne, de la Lune de l’autre. L’intensité et l’envie de transformer de la première se posent sur les émotions de la seconde : le lien devient vite profond et change les deux personnes. Il demande une confiance construite avec le temps, et un pouvoir partagé plutôt que détenu."
   - q: "Lune conjonction Pluton, est-ce un aspect toxique ou de contrôle ?"
     a: "Aucun contact n’est toxique en soi, et Pluton décrit la transformation et le pouvoir d’agir, pas la domination. Cette conjonction rend bien les émotions intenses, et l’intensité peut basculer dans le contrôle si personne ne la nomme. Parler ouvertement des besoins, de l’intimité et des décisions garde cette profondeur saine."
   - q: "Lune conjonction Pluton, pourquoi tant d’intensité ?"
@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "ses quatre aspects, qui laissent de côté la conjonction" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 8° près" }
 ---
-Lune conjonction Pluton en synastrie pose Pluton, dans le thème d’une personne, sur la Lune de l’autre. Les émotions d’un côté rencontrent un besoin de profondeur de l’autre, au même degré, et il en sort un lien où presque rien ne reste léger. Je le lis lentement, et par les deux bouts.
+Lune conjonction Pluton en synastrie superpose Pluton, chez une personne, et la Lune de l’autre. L’une apporte ses émotions, l’autre un besoin de profondeur, et sur un degré partagé il en sort un lien où presque rien ne reste léger. Je le lis lentement, d’un côté puis de l’autre.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -45,9 +45,9 @@ Sur un même degré, deux intensités se mêlent, et on ne sait plus toujours qu
 
 ## Comment le vivre {#comment-le-vivre}
 
-Construisez la confiance lentement et exprès. Parlez du pouvoir simplement : qui décide de quoi, ce qui reste privé, ce dont chaque personne a besoin pour se sentir en sécurité. Laissez le changement être invité, pas imposé, et gardez une part de vie séparée : des amis à soi, du temps pour soi, un endroit où personne n’examine personne. En couple, c’est ce qui empêche l’intensité de devenir possession ; entre amis proches ou en famille, c’est ce qui permet à la franchise de rester bienveillante.
+Construisez la confiance lentement et exprès. Parlez du pouvoir simplement : qui décide de quoi, ce qui reste privé, ce qu’il faut à chaque personne pour se sentir en sécurité. Laissez le changement être invité, pas imposé, et gardez une part de vie séparée : des amis à soi, du temps pour soi, un endroit où personne n’examine personne. En couple, c’est ce qui empêche l’intensité de devenir possession ; entre amis proches ou en famille, c’est ce qui permet à la franchise de rester bienveillante.
 
-Environ 1 paire de personnes sur 11 a cette conjonction, dans un sens ou dans l’autre, à 8° près. Le séjour de Pluton dans un signe va de 12 à 31 ans : la personne qui a Pluton partage ce signe avec une longue suite de naissances, et la conjonction ne devient personnelle que là où la Lune de l’autre vient s’y poser. À environ 13° par jour, la Lune arrive sur ce degré ou le manque à quelques heures près, et les maisons où elle tombe demandent aussi les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Environ 1 paire de personnes sur 11 a cette conjonction, dans un sens ou dans l’autre, à 8° près. Le séjour de Pluton dans un signe va de 12 à 31 ans : la personne qui a Pluton partage ce signe avec une longue suite de naissances, et la conjonction ne devient personnelle que là où la Lune de l’autre vient s’y poser. À environ 13° par jour, la Lune arrive sur ce degré ou le manque à quelques heures près, et les maisons où elle tombe exigent elles aussi les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Avec de la distance, les deux mêmes fonctions travaillent autrement :
 

@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 60
 glyph: "☉☍☊"
-definition: "Soleil opposition Nœud Nord en synastrie : le Soleil d’une personne fait face au Nœud Nord de l’autre, à environ 180°, à 8° près, et se pose donc sur son Nœud Sud. Ce qu’est l’une, l’autre sait déjà l’être : tout semble familier d’emblée. J’y lis une ressource, et un confort qui peut ralentir la croissance."
+definition: "Soleil opposition Nœud Nord en synastrie : le Soleil de l’une fait face au Nœud Nord de l’autre, à environ 180°, à 8° près, et se pose donc sur son Nœud Sud. Ce qu’est l’une, l’autre sait déjà l’être : tout semble familier d’emblée. J’y lis une ressource, et un confort qui peut ralentir la croissance."
 facts:
   - { k: "Corps", v: "Le Soleil ☉ de l’une, le Nœud Nord ☊ de l’autre" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }

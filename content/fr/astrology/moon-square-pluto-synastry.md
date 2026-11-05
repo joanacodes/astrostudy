@@ -27,11 +27,11 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6,8° près" }
 ---
-Lune carré Pluton en synastrie trace un quart de cercle entre le besoin de sécurité d’une personne et le besoin de l’autre d’aller au fond des choses. L’une veut qu’on laisse le familier tranquille ; l’autre ne peut pas laisser tranquille ce qui, en réalité, ne va pas. Les deux sont raisonnables, et elles frottent.
+Lune carré Pluton en synastrie dresse un angle droit entre le besoin de sécurité d’une personne et celui de l’autre d’aller au fond des choses. L’une veut qu’on laisse le familier tranquille ; l’autre ne peut pas laisser tranquille ce qui, en réalité, ne va pas. Les deux sont raisonnables, et elles frottent.
 
 ## Ce qui circule {#ce-qui-circule}
 
-Dans ma lecture, la [Lune](/astrology/moon/) est la part qui a besoin de sécurité, d’attachement et de réconfort familier ; [Pluton](/astrology/pluto/) est la part qui transforme, lâche l’obsolète et reprend son propre pouvoir. Un [carré](/astrology/square/) les met en friction, et cette friction est productive : chacune pousse l’autre à s’adapter. Et dans les [aspects de synastrie](/astrology/synastry-aspects/) où Pluton intervient, la question du pouvoir n’est jamais loin.
+La [Lune](/astrology/moon/), dans ma façon de lire, est la part qui a besoin de sécurité, d’attachement et de réconfort familier ; [Pluton](/astrology/pluto/) est la part qui transforme, lâche l’obsolète et reprend son propre pouvoir. Un [carré](/astrology/square/) les met en friction, et cette friction est productive : chacune pousse l’autre à s’adapter. Et dans les [aspects de synastrie](/astrology/synastry-aspects/) où Pluton intervient, la question du pouvoir n’est jamais loin.
 
 Du côté de la Lune, cette personne ne vous laisse peut-être pas vous cacher. Elle remarque l’habitude qui n’aide plus, le réconfort devenu évitement, et elle le dit. Cela peut être tonifiant, parfois trop ; ce peut aussi être la poussée qui vous sort d’une ornière que vous ne voyiez plus.
 

@@ -37,7 +37,7 @@ From the Moon's end, the other person may be the one who says "wait", "not yet",
 
 From Saturn's end, the other person may look like all need and no plan. It can feel like weight. It can also be the first time your carefulness had a clear purpose, with someone glad that you thought ahead.
 
-Balanced, the pair has both: feelings that get heard, and a structure that serves them.
+With both ends in use, feelings get heard and a structure serves them.
 
 ## Where it rubs {#where-it-rubs}
 

@@ -37,7 +37,7 @@ Au bout de la Lune, cette personne fait peut-être entrer de l’air dans une vi
 
 Au bout d’Uranus, cette personne vous offre peut-être un port d’attache dont vous ne saviez pas avoir envie. Son attachement vous montre à quoi pourrait ressembler le fait de rester, quand c’est choisi et non imposé. Par moments, son besoin de proximité pourra ressembler à une traction sur la corde.
 
-En équilibre, la paire a ce qui manquait à chaque personne : une appartenance qui laisse de l’espace, et une liberté qui a un endroit où revenir.
+Au mieux, chacune reçoit ce qui lui manquait : une appartenance qui laisse de l’espace, et une liberté qui a un endroit où revenir.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
@@ -45,7 +45,7 @@ Les bascules se coincent. La personne qui a la Lune finit par être celle qui de
 
 ## Comment le vivre {#comment-le-vivre}
 
-Passez de l’autre côté de temps à autre. La personne qui a la Lune peut s’offrir une aventure en solo ; celle qui a Uranus peut proposer elle-même une soirée tranquille à la maison. Faites des accords plutôt que des suppositions sur l’espace et le contact : qui appelle, à quelle fréquence, ce que veut dire « un week-end ailleurs ». Un couple peut garder des centres d’intérêt séparés à côté de rituels partagés ; des amis peuvent accepter de longs silences sans y lire de la distance ; au travail, la personne qui veut des procédures et celle qui veut improviser peuvent se partager un projet par étapes.
+Changez de rive de temps à autre : la personne qui a la Lune peut s’offrir une aventure en solo ; celle qui a Uranus peut proposer elle-même une soirée tranquille à la maison. Faites des accords plutôt que des suppositions sur l’espace et le contact : qui appelle, à quelle fréquence, ce que veut dire « un week-end ailleurs ». Un couple peut garder des centres d’intérêt séparés à côté de rituels partagés ; des amis peuvent accepter de longs silences sans y lire de la distance ; au travail, la personne qui veut des procédures et celle qui veut improviser peuvent se partager un projet par étapes.
 
 Environ 1 paire de personnes sur 12 a cette opposition, dans un sens ou dans l’autre, à 8° près. Son côté Uranus a été distribué à toute une génération, environ sept ans par signe ; son côté Lune a été donné à une seule personne, un seul jour, et c’est ce qui la rend propre à vous deux. Le jour et l’heure comptent tous les deux : la Lune se déplace d’environ 13° en un jour, si bien que les heures de naissance décident si l’opposition existe, et donnent les maisons où tombe chaque bout ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)).
 

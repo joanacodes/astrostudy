@@ -45,7 +45,7 @@ Deux personnes sur une bascule ne sont pas ennemies, mais une bascule peut se bl
 
 ## Comment le vivre {#comment-le-vivre}
 
-Allez à tour de rôle au bout de l’autre. La personne qui a Jupiter peut ramener le vaste monde à la maison, partager ce qu’elle apprend autour de la table plutôt qu’à distance ; celle qui a la Lune peut choisir une aventure de temps en temps, à ses conditions. Un couple peut construire un voyage autour d’un rituel familier ; des amis peuvent alterner soirée chez soi et sortie ; des collègues peuvent associer la vision de l’une au sens qu’a l’autre de ce que l’équipe peut absorber.
+Allez à tour de rôle à l’autre bout : la personne qui a Jupiter peut ramener le vaste monde à la maison, partager ce qu’elle apprend autour de la table plutôt qu’à distance ; celle qui a la Lune peut choisir une aventure de temps en temps, à ses conditions. Un couple peut construire un voyage autour d’un rituel familier ; des amis peuvent alterner soirée chez soi et sortie ; des collègues peuvent associer la vision de l’une au sens qu’a l’autre de ce que l’équipe peut absorber.
 
 Environ 1 paire de personnes sur 12 a cette opposition, dans un sens ou dans l’autre, à 8° près. Les deux heures de naissance en décident. À environ 13° par jour, la Lune peut franchir le bord de l’orbe en quelques heures, et les maisons, qui disent de quoi parle chaque bout dans chaque vie, ne se tracent pas sans les heures ([pourquoi j’attends l’heure](/blog/unknown-birth-time/#pourquoi-j-attends-l-heure)).
 

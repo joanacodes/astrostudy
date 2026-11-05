@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/moon", "/astrology/saturn", "/astrology/sextile", "/astrology/moon-sextile-saturn", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Lune sextile Saturne en synastrie ?"
-    a: "Saturne, dans le thème d’une personne, se trouve à environ 60° de la Lune de l’autre, à 4,8° près. La stabilité et le sens pratique de la première restent à la disposition de l’autre, et la chaleur qui revient en échange allège ses devoirs. C’est une offre de soutien entre deux personnes, qui grandit à l’usage."
+    a: "Saturne, chez une personne, est à quelque 60° de la Lune de l’autre, à 4,8° près. La stabilité et le sens pratique de la première restent à la disposition de l’autre, et la chaleur qui revient en échange allège ses devoirs. C’est une offre de soutien entre deux personnes, qui grandit à l’usage."
   - q: "Lune sextile Saturne, est-ce bon pour une relation durable ?"
     a: "Ce contact va bien à la patience : de petites promesses tenues, des habitudes qui plaisent aux deux. Mais aucun contact ne fait durer une relation, et celui-ci ne fait rien tout seul. Il aide quand vous vous en servez, et ne dit rien de la durée de votre histoire."
   - q: "Avec Lune sextile Saturne, pourquoi faut-il demander de l’aide ?"

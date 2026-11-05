@@ -32,7 +32,7 @@ Slow to change your mind, quick to change the subject: that's often how this pai
 
 ## How they get along {#how-they-get-along}
 
-Taurus is fixed earth, Gemini mutable air, and they touch only at their border. The [Sun in Taurus](/astrology/sun-in-taurus/) takes its time and chooses its loyalties carefully; the [Moon in Gemini](/astrology/moon-in-gemini/) needs words before a feeling makes sense, and stays settled on variety, conversation and news. One light wants depth in one place, the other a little of everything, and both needs are honest. Neither light holds a dignity in its sign.
+Taurus is fixed earth, Gemini mutable air, and they touch only at their border. The [Sun in Taurus](/astrology/sun-in-taurus/) takes its time and chooses its loyalties carefully; the [Moon in Gemini](/astrology/moon-in-gemini/) needs words before a feeling makes sense, and stays settled on variety, conversation and news. One light wants depth in one place, the other a little of everything, and both needs are honest.
 
 Both your rulers are planets that stay close to the Sun. [Venus](/astrology/venus/), ruler of Taurus, never gets more than about 47° from it, and [Mercury](/astrology/mercury/), ruler of Gemini, never more than about 28°. With a Taurus Sun, Mercury sits in Aries, Taurus or Gemini, and when it's in Gemini it keeps your Moon company. Venus shows what you value, Mercury how a feeling becomes a sentence, and when the two get on, this pair can talk its way into steadiness.
 

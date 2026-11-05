@@ -27,15 +27,15 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "ses quatre aspects, qui laissent de côté la conjonction" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 8° près" }
 ---
-Lune conjonction Uranus en synastrie pose Uranus, dans le thème d’une personne, sur la Lune de l’autre. La part de l’une qui veut des choses familières rencontre, sur le même degré, la part de l’autre qui veut du nouveau. L’ennui y est rare, et chaque bout le vit à sa manière.
+Lune conjonction Uranus en synastrie fait tomber Uranus, chez une personne, sur la Lune de l’autre. La part de l’une qui veut des choses familières rencontre, sur le même degré, la part de l’autre qui veut du nouveau. L’ennui y est rare, et chaque bout le vit à sa manière.
 
 ## Ce qui circule {#ce-qui-circule}
 
 La [Lune](/astrology/moon/) règle les émotions, les besoins et les habitudes qui donnent le sentiment d’être chez soi. [Uranus](/astrology/uranus/) pousse à renouveler : se démarquer, tenter des choses, desserrer ce qui serre trop. Dans une [conjonction](/astrology/conjunction/), les deux forment un seul processus ; entre deux thèmes, là où vivent les [aspects de synastrie](/astrology/synastry-aspects/), ce processus unique a deux propriétaires.
 
-Si la Lune est la vôtre, cette personne vous rafraîchit. Vos habitudes, vos plats réconfortants, vos façons de vous poser sont questionnés et parfois réarrangés, et plus souvent qu’on ne le croirait, le résultat vous plaît : la vie avec elle ressemble moins à une ornière qu’à une maison qui respire.
+Avec votre Lune en jeu, cette personne vous rafraîchit. Vos habitudes, vos plats réconfortants, vos façons de vous poser sont questionnés et parfois réarrangés, et plus souvent qu’on ne le croirait, le résultat vous plaît : la vie avec elle ressemble moins à une ornière qu’à une maison qui respire.
 
-Si Uranus est à vous, cette personne accueille votre différence sans broncher. Votre besoin d’espace, vos idées singulières, vos changements de programme soudains tombent sur quelqu’un qui répond au lieu de résister, et vous vous sentez peut-être plus libre d’être vous-même ici que presque partout ailleurs.
+Avec Uranus de votre côté, cette personne accueille votre différence sans broncher. Votre besoin d’espace, vos idées singulières, vos changements de programme soudains tombent sur quelqu’un qui répond au lieu de résister, et vous vous sentez peut-être plus libre d’être vous-même ici que presque partout ailleurs.
 
 Ce qui circule, c’est un renouveau tout près de chez soi : un couple qui réinvente sans cesse ses week-ends, des amis qui se tirent mutuellement de leurs vieilles habitudes, une personne de l’équipe dont l’autre aime vraiment essayer la nouvelle méthode.
 

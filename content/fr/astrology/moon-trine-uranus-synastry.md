@@ -20,18 +20,18 @@ faq:
   - q: "Que veut dire Lune trigone Uranus en synastrie ?"
     a: "Uranus, dans le thème d’une des deux personnes, forme un trigone d’environ 120° avec la Lune de l’autre, à 6,8° près. Le besoin de liberté de la première et le besoin de sécurité de la seconde se soutiennent : déménagements, nouveaux emplois et changements de programme se vivent plus facilement à deux. C’est une aisance, pas une garantie."
   - q: "Lune trigone Uranus, est-ce une relation facile à vivre ?"
-    a: "Cela veut souvent dire que l’espace se donne sans grande négociation, ce que beaucoup trouvent agréable. Mais chaque personne a encore des besoins à dire à voix haute, et celle qui a la Lune peut tenir à une certaine continuité. Le trigone rend la liberté et le confort compatibles ; il ne décide pas de la forme que prend la relation."
+    a: "Cela veut souvent dire que l’espace se donne sans grande négociation, ce que beaucoup trouvent agréable. Mais chaque personne a encore des besoins à formuler, et celle qui a la Lune peut tenir à une certaine continuité. Le trigone rend la liberté et le confort compatibles ; il ne décide pas de la forme que prend la relation."
   - q: "Lune trigone Uranus, est-ce que cela peut être trop facile ?"
     a: "On peut le tenir pour acquis. Comme le changement fait rarement mal ici, la paire peut sauter les conversations sur ce qui doit rester fixe pour chaque personne. Utiliser cette aisance exprès, pour un changement voulu des deux côtés, l’empêche de tourner à la dérive."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6,8° près" }
 ---
-Lune trigone Uranus en synastrie réunit le besoin de sécurité d’une personne et le besoin de liberté de l’autre à environ 120°, en général à travers un même élément. Dans cette paire, un changement de programme tombe rarement comme une trahison, et une habitude rarement comme une cage : deux besoins si souvent en désaccord se trouvent ici en bons termes.
+Lune trigone Uranus en synastrie réunit ce qui rassure une personne et ce qui libère l’autre, à environ 120°, le plus souvent dans des signes qui partagent un élément. Dans cette paire, un changement de programme tombe rarement comme une trahison, et une habitude rarement comme une cage : deux besoins si souvent en désaccord se trouvent ici en bons termes.
 
 ## Ce qui circule {#ce-qui-circule}
 
-La [Lune](/astrology/moon/) façonne la manière dont une personne s’attache, se pose et se sent en sécurité ; [Uranus](/astrology/uranus/) façonne la manière dont elle se libère, invente et tient à être elle-même. Un [trigone](/astrology/trine/) permet à deux fonctions de se renforcer tout en restant elles-mêmes. Deux personnes portent ici les deux fonctions, et chacune, comme toujours avec les [aspects de synastrie](/astrology/synastry-aspects/), rencontre cette aisance de son côté.
+La [Lune](/astrology/moon/) façonne la manière dont une personne s’attache, se pose et se sent en sécurité ; [Uranus](/astrology/uranus/) façonne la manière dont elle se libère, invente et tient à être elle-même. Un [trigone](/astrology/trine/) laisse deux fonctions se soutenir sans cesser d’être ce qu’elles sont. Deux personnes portent ici les deux fonctions, et chacune, comme toujours avec les [aspects de synastrie](/astrology/synastry-aspects/), rencontre cette aisance de son côté.
 
 Avec la Lune de votre côté, cette personne rend le changement vivable. Un déménagement, un nouveau travail, un projet soudain : en sa compagnie, tout cela vient avec assez de chaleur pour que votre sentiment d’être chez vous voyage avec vous. Peut-être osez-vous davantage la nouveauté avec elle qu’avec n’importe qui.
 

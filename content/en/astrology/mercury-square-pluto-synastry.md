@@ -33,7 +33,7 @@ A passing comment, and suddenly you're in the deepest conversation of the month.
 
 [Mercury](/astrology/mercury/) is how a person exchanges: gathering information, comparing, passing on what they understand. [Pluto](/astrology/pluto/) is how they go to the root: transforming, letting go of what no longer serves, bringing hidden things to light. A [square](/astrology/square/) brings two functions into constructive friction, neither giving way and both developing, and here, between two charts, it is one of the [synastry aspects](/astrology/synastry-aspects/) where the friction lives in the conversation itself. Inside one chart, [Mercury square Pluto](/astrology/mercury-square-pluto/) is one mind pulled between ease and depth; here ease and depth each have a voice, and can bargain.
 
-Worked at, this square builds psychological honesty. The Mercury person learns to say what they actually think rather than what keeps the peace; the Pluto person learns that not every remark hides a motive. Decisions get made on the real reasons, because the pair is bad at pretending. Many pairs with this square end up with a rare skill: knowing how deep to go, and when to stop.
+Worked at, this square builds psychological honesty. The Mercury person learns to say what they actually think rather than what keeps the peace; the Pluto person learns that not every remark hides a motive. Decisions get made on the real reasons, because the pair is bad at pretending. Explanations between you get questioned more than most, which is tiring on bad days and, on good ones, the reason you trust what is finally said. Many pairs with this square end up with a rare skill: knowing how deep to go, and when to stop.
 
 ## Where it rubs {#where-it-rubs}
 

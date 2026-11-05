@@ -39,7 +39,7 @@ Côté Uranus, votre agitation trouve peut-être un endroit accueillant où se p
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-L’aisance d’un sextile est aussi son point faible : rien n’oblige à franchir l’ouverture. Les offres de la personne qui a Uranus peuvent venir par vagues, puis plus du tout ; celle qui a la Lune, fatiguée ou occupée, peut refuser une fois de trop et ne plus être sollicitée. Le contact peut rester agréable et inemployé, une étincelle qui ne devient jamais une pratique. Et comme les changements sont en général petits, on oublie facilement que la personne qui a la Lune a toujours besoin d’être prévenue avant les grands. Le potentiel n’est pas la réalisation.
+Ce qui rend un sextile facile est aussi son point faible : rien n’oblige à franchir l’ouverture. Les offres de la personne qui a Uranus peuvent venir par vagues, puis plus du tout ; celle qui a la Lune, fatiguée ou occupée, peut refuser une fois de trop et ne plus être sollicitée. Le contact peut rester agréable et inemployé, une étincelle qui ne devient jamais une pratique. Et comme les changements sont en général petits, on oublie facilement que la personne qui a la Lune a toujours besoin d’être prévenue avant les grands. Le potentiel n’est pas la réalisation.
 
 ## Comment le vivre {#comment-le-vivre}
 

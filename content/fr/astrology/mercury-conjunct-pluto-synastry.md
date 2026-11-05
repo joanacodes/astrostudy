@@ -34,7 +34,7 @@ Certaines personnes n’ont besoin que d’une phrase de vous pour voir ce que v
 
 [Mercure](/astrology/mercury/) est la façon dont une personne observe, raisonne et communique. [Pluton](/astrology/pluto/) est sa façon de se transformer : laisser aller ce qui a fait son temps, se régénérer, trouver une force plus profonde et plus authentique. Avec une [conjonction](/astrology/conjunction/), deux fonctions coulent ensemble sans qu’aucune disparaisse dans l’autre, et quand elles appartiennent à deux personnes, comme dans tous les [aspects de synastrie](/astrology/synastry-aspects/), les mots de l’une vont droit aux profondeurs de l’autre.
 
-En conversation, peu de choses restent en surface. La personne côté Mercure mentionne une chose en passant et la personne côté Pluton entend ce qu’il y a dessous ; la personne côté Pluton dit une phrase et la pensée de la personne côté Mercure se réorganise autour. Les décisions tendent vers le tout ou rien : un projet est pensé jusqu’au fond, ou abandonné. S’expliquer peut devenir d’une honnêteté rare, parce que les faux-semblants ne survivent pas longtemps dans ces échanges.
+En conversation, peu de choses restent en surface. La personne côté Mercure mentionne une chose en passant et la personne côté Pluton entend ce qu’il y a dessous ; la personne côté Pluton dit une phrase et la pensée de la personne côté Mercure se réorganise autour. Les décisions tendent vers le tout ou rien : un projet est pensé jusqu’au fond, ou abandonné. Les explications gagnent une honnêteté rare, parce que les faux-semblants ne survivent pas longtemps dans ces échanges.
 
 Du côté de Mercure, vous trouvez peut-être une écoute plus profonde que prévu : c’est la personne dont les questions changent votre avis. Du côté de Pluton, les mots de l’autre atteignent peut-être ce que vous gardez d’habitude, et c’est en lui parlant que vous traversez des choses que vous ne pouviez pas toucher sans aide.
 
@@ -42,7 +42,7 @@ Du côté de Mercure, vous trouvez peut-être une écoute plus profonde que pré
 
 Ici, la conjonction mêle la curiosité et l’enquête. La personne côté Pluton pose une question de trop et la personne côté Mercure se sent examinée ; la personne côté Mercure dit une chose à la légère et la personne côté Pluton l’entend comme un aveu. Les mots peuvent peser plus lourd que voulu, et une conversation peut tourner au concours de qui a le mieux compris l’autre. Transformer n’est pas détruire, et la profondeur n’est pas le contrôle, mais mieux vaut savoir où sont les pièces privées de l’autre.
 
-Selon les signes, Pluton y reste de 12 à 31 ans : la personne côté Pluton partage le sien avec toute une génération. Votre Mercure est ce qui amène cette profondeur de génération dans une conversation précise. Chez une même personne, [Mercure conjonction Pluton](/astrology/mercury-conjunct-pluto/) décrit une pensée qui creuse ; entre deux personnes, la fouille se fait dans la conversation, et ce qu’elle déterre les change toutes les deux.
+Pluton passe de 12 à 31 ans dans un signe : la personne côté Pluton partage donc ce signe avec toute une génération. Votre Mercure est ce qui amène cette profondeur de génération dans une conversation précise. Chez une même personne, [Mercure conjonction Pluton](/astrology/mercury-conjunct-pluto/) décrit une pensée qui creuse ; entre deux personnes, la fouille se fait dans la conversation, et ce qu’elle déterre les change toutes les deux.
 
 Mercure et Pluton, angle par angle :
 

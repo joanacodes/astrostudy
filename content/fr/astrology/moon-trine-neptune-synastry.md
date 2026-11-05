@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6,8° près" }
 ---
-Lune trigone Neptune en synastrie accorde, à environ 120°, la sensibilité d’une personne et l’imagination de l’autre, le plus souvent au sein d’un même élément. Entre ces deux-là, la douceur ne coûte presque rien : les humeurs sont accueillies avec bonté, et la bonté est reçue sans méfiance. Reste à savoir ce que deviennent les choses qui ne sont pas douces.
+Lune trigone Neptune en synastrie accorde, à environ 120°, la sensibilité d’une personne et l’imagination de l’autre, le plus souvent dans un seul et même élément. Entre ces deux-là, la douceur ne coûte presque rien : les humeurs sont accueillies avec bonté, et la bonté est reçue sans méfiance. Reste à savoir ce que deviennent les choses qui ne sont pas douces.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -47,7 +47,7 @@ Le risque, c’est ce qui reste tu. Comme la bonté vient si facilement, les dé
 
 Donnez une colonne vertébrale à la douceur. Réservez du temps aux conversations ordinaires, sans éclat, celles qui portent sur les factures, les agendas et ce que chaque personne ressent vraiment, et acceptez qu’elles soient un peu maladroites. Puis servez-vous de cette aisance exprès : un projet créatif, une manière de veiller ensemble sur d’autres personnes, un foyer vraiment reposant. Des amis peuvent se soutenir pendant les mauvaises saisons ; un couple peut faire de la tendresse une pratique plutôt qu’une humeur. Et la personne qui a Neptune peut aussi accepter qu’on prenne soin d’elle, pour que la tendresse ne coule pas dans un seul sens.
 
-Environ 1 paire de personnes sur 7 a ce trigone, dans un sens ou dans l’autre, à 6,8° près. Avec quatorze ans environ par signe, Neptune est une signature commune aux personnes du même âge ; face à cela, la Lune est la note personnelle, et ce sont le jour et l’heure de la personne qui a la Lune qui amènent les deux thèmes à ce trigone. J’ai besoin des deux heures de naissance pour savoir s’il est là, puisque les 13° environ que la Lune parcourt chaque jour peuvent ouvrir ou fermer l’orbe, et pour voir quelles maisons il relie ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)).
+Environ 1 paire de personnes sur 7 a ce trigone, dans un sens ou dans l’autre, à 6,8° près. Avec quatorze ans environ par signe, Neptune est une signature commune aux personnes du même âge ; face à cela, la Lune est la note personnelle, et ce sont le jour et l’heure de la personne qui a la Lune qui amènent les deux thèmes à ce trigone. J’ai besoin des deux heures de naissance pour savoir s’il est là, puisqu’à environ 13° par jour, la Lune peut glisser dans l’orbe ou en sortir en quelques heures, et pour voir quelles maisons il relie ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)).
 
 D’autres angles demandent davantage aux deux mêmes fonctions :
 

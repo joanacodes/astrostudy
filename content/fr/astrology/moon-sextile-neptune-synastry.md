@@ -20,7 +20,7 @@ faq:
   - q: "Que veut dire Lune sextile Neptune en synastrie ?"
     a: "Entre Neptune, chez une personne, et la Lune de l’autre, il y a un sextile d’environ 60°, à 4,8° près. L’imagination de la première donne souvent aux humeurs de la seconde une forme partageable, de la musique, des images, une promenade au bord de l’eau, et les émotions de la seconde donnent une raison à cette imagination. Cela grandit quand les deux s’en saisissent."
   - q: "Lune sextile Neptune, est-ce un aspect romantique ?"
-    a: "Il peut colorer une histoire d’amour, et il fonctionne tout aussi bien entre amis, entre proches ou entre partenaires de création. Neptune décrit l’imagination et la compassion, pas le romantisme en soi. Ce que ce sextile offre à toute paire, c’est une façon douce de comprendre la vie intérieure de l’autre."
+    a: "Il peut colorer une histoire d’amour, et il fonctionne tout aussi bien entre amis, entre proches ou entre partenaires de création. Neptune parle d’imagination et de compassion, pas de romantisme en soi. Ce que ce sextile offre à toute paire, c’est une façon douce de comprendre la vie intérieure de l’autre."
   - q: "Lune sextile Neptune, pourquoi cette impression de flou ?"
     a: "Parce qu’un sextile se contente d’offrir, et que Neptune parle en images plutôt qu’en plans. Si personne ne se sert de l’ouverture, elle reste une humeur agréable qui ne devient jamais rien. Créer quelque chose ensemble, même de petit, lui donne un contour."
 sources:
@@ -33,9 +33,9 @@ Lune sextile Neptune en synastrie relie ce que ressent une personne à ce que l�
 
 La [Lune](/astrology/moon/) porte la vie émotionnelle d’une personne : ce qu’elle ressent, ce dont elle a besoin, la façon dont elle s’apaise. [Neptune](/astrology/neptune/) porte l’imagination et la compassion : la capacité de percevoir, d’inspirer et d’adoucir les angles. Un [sextile](/astrology/sextile/) leur offre une manière de coopérer qui devient réelle quand on la saisit. Dans les [aspects de synastrie](/astrology/synastry-aspects/), cette offre passe d’une personne à l’autre.
 
-Avec la Lune de votre côté, cette personne sait peut-être faire de vos humeurs quelque chose de partageable. Vous n’avez pas toujours de mots pour ce que vous ressentez ; elle trouve une image, une chanson, un film, un lieu qui le dit pour vous, et l’émotion s’allège d’être comprise.
+Depuis le côté de la Lune, cette personne sait peut-être faire de vos humeurs quelque chose de partageable. Vous n’avez pas toujours de mots pour ce que vous ressentez ; elle trouve une image, une chanson, un film, un lieu qui le dit pour vous, et l’émotion s’allège d’être comprise.
 
-Avec Neptune de votre côté, cette personne donne peut-être un but à votre imagination. Ses émotions vous donnent envie de faire des choses : un repas, une lettre, un petit rituel. Votre compassion cesse d’être diffuse et trouve une adresse.
+Depuis le côté de Neptune, cette personne donne peut-être un but à votre imagination. Ses émotions vous donnent envie de faire des choses : un repas, une lettre, un petit rituel. Votre compassion cesse d’être diffuse et trouve une adresse.
 
 Entre amis, c’est parfois la personne qui envoie exactement le bon livre ; entre collègues, deux personnes qui rendent intéressant un projet terne.
 

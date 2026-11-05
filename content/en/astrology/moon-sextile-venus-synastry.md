@@ -49,7 +49,7 @@ A sextile can stay politely on the surface. Pleasantness becomes a ceiling: both
 
 ## How to meet it {#how-to-meet-it}
 
-Take the first step yourself. If Venus is yours, offer something specific rather than general niceness; if the Moon is yours, ask for one thing you'd normally wait to be offered. In a family of adults, a sextile like this can carry a relationship that would otherwise be all duty; in a couple, it's the everyday consideration that keeps things kind.
+Be the one who starts. If Venus is yours, offer something specific rather than general niceness; if the Moon is yours, ask for one thing you'd normally wait to be offered. In a family of adults, a sextile like this can carry a relationship that would otherwise be all duty; in a couple, it's the everyday consideration that keeps things kind.
 
 Who makes the first gesture matters less than that someone does. Often the Venus person offers and the Moon person receives; the contact deepens when that sometimes runs the other way, with the Moon person offering comfort and the Venus person letting themselves be looked after.
 

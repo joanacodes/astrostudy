@@ -26,7 +26,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "his four aspects, which leave out the conjunction" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 8°" }
 ---
-Moon conjunct Pluto in synastry sets one person's Pluto on the other's Moon. One brings feelings, the other a drive for depth, and on a shared degree the result is a bond in which very little stays casual. I read it slowly, and from both ends.
+Moon conjunct Pluto in synastry sets one person's Pluto on the other's Moon. One brings feelings, the other a drive for depth, and on a shared degree the result is a bond in which very little stays casual. I read it slowly, one side at a time.
 
 ## What flows {#what-flows}
 

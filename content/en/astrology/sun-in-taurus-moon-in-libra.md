@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 19
 glyph: "☉♉☽♎"
-definition: "Sun in Taurus, Moon in Libra links two signs five apart that share only their ruler, Venus, at a birth ten to fifteen days after a new moon. I read it as one planet in two roles: a self built on what it values and keeps, and needs that settle when things are fair and calm between people."
+definition: "Sun in Taurus, Moon in Libra gives both lights a single ruler, Venus, though the two signs, five apart, share nothing else; the birth came a few days before a full moon. I read it as one planet in two roles: a self built on what it values, and needs that settle when things are fair between people."
 facts:
   - { k: "Sun sign", v: "Taurus ♉, ruled by Venus" }
   - { k: "Moon sign", v: "Libra ♎, ruled by Venus" }
@@ -22,23 +22,23 @@ faq:
   - q: "What does a Taurus Sun with a Libra Moon need in love?"
     a: "A bond that is both lasting and fair. The Taurus Sun wants loyalty, presence and comfort it can rely on; the Libra Moon needs balance, courtesy and calm between you. Because this pair dislikes disturbing the peace, it helps to say what you need early, before small unfairnesses settle in."
   - q: "Was I born before a full moon with Sun in Taurus and Moon in Libra?"
-    a: "Yes, in the days before one. The Moon was growing towards full, 120° to 179° on from the Sun, ten to almost fifteen days after a new moon. Seven of these births in eight fall in the gibbous phase of the eight lunar phases; the earliest are first quarter births."
+    a: "Yes, usually by a few days. A Moon a third to a half of the way round from the Sun is a growing, gibbous Moon, and that’s where yours was. The eight lunar phases put seven such births in eight in the gibbous phase, and the earliest in the first quarter."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Venus’s rule of Taurus and Libra, and the aspects he counted" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s lead over the Sun" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the waxing Moon in the days before the full" }
 ---
-Venus rules both of these signs, and gives each a different job: in Taurus, the Venus of value, comfort and the senses; in Libra, the Venus of fairness, partnership and balance. With the Sun in the first and the Moon in the second, one planet answers for both your lights, and the birth came a few days before a full moon.
+Venus rules both of these signs, and gives each a different job: in Taurus, the Venus of value, comfort and the senses; in Libra, the Venus of fairness, partnership and balance. Your Sun sits in the first of them and your Moon in the second, so a single planet answers for both lights; the birth came a few days before a full moon.
 
 ## How they get along {#how-they-get-along}
 
-Beyond their ruler, Taurus and Libra share nothing: fixed earth and cardinal air, five signs apart, a quincunx by sign, the relation that asks for constant small adjustments. The [Sun in Taurus](/astrology/sun-in-taurus/) grows by holding on to what it values; the [Moon in Libra](/astrology/moon-in-libra/) feels steady when things are fair and calm between you and the people close to you. One light thinks in terms of what is mine and worth keeping, the other of what is ours and fair, and a good deal of your life is spent fitting the two together.
+Beyond their ruler, Taurus and Libra share nothing: fixed earth and cardinal air, five signs apart, a quincunx by sign, the relation that asks for constant small adjustments. The [Sun in Taurus](/astrology/sun-in-taurus/) grows by holding on to what it values; the [Moon in Libra](/astrology/moon-in-libra/) steadies itself through fairness and calm with the people closest to you. One light thinks in terms of what is mine and worth keeping, the other of what is ours and fair, and a good deal of your life is spent fitting the two together.
 
-That single ruler is the key. [Venus](/astrology/venus/) never gets more than about 47° from the Sun, so with a Taurus Sun it is always within a sign or two of Taurus and never as far off as Libra: the planet your Moon answers to keeps to your Sun's side. I read Venus's sign and house first with this pair, because they show how your sense of value and your need for harmony are getting on. Neither light has a dignity in its own sign.
+That single ruler is the key. Because [Venus](/astrology/venus/) always travels within 47° or so of the Sun, a Taurus Sun keeps it close, within a sign or two, and never as far off as Libra: the planet your Moon answers to keeps to your Sun's side. I read Venus's sign and house first with this pair, because they show how your sense of value and your need for harmony are getting on.
 
-This birth came while the Moon was growing towards full: 120° to 179° ahead of the Sun, ten to almost fifteen days into the month. The eight-phase count puts the great majority, seven in eight, in the [waxing gibbous moon](/astrology/waxing-gibbous-moon/) and a few early ones in the [first quarter moon](/astrology/first-quarter-moon/), and a gap of about 150° adds a [quincunx](/astrology/quincunx/) by degree to the one by sign. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) says how the gibbous phase is read.
+The Moon was waxing towards full, somewhere between a third and a half of the way round from the Sun (120° to 179°), on about day ten to day fifteen of the lunar month. The eight-phase count puts the great majority, seven in eight, in the [waxing gibbous moon](/astrology/waxing-gibbous-moon/) and a few early ones in the [first quarter moon](/astrology/first-quarter-moon/), and a gap of about 150° adds a [quincunx](/astrology/quincunx/) by degree to the one by sign. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) says how the gibbous phase is read.
 
-Roughly 1 person in 143 has both lights under one ruler like this. With a new Moon sign every two and a half days or so, a few birthdays each month sit on a boundary; if yours does, between Virgo and Libra or between Libra and Scorpio, the time decides between this page, the [Sun in Taurus, Moon in Virgo](/astrology/sun-in-taurus-moon-in-virgo/) and the [Sun in Taurus, Moon in Scorpio](/astrology/sun-in-taurus-moon-in-scorpio/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). The rising sign comes from the same time, and Libra, the sign of the scales, would want it weighed in before any verdict: the two lights alone are only a first sketch.
+Roughly 1 person in 143 has both lights under one ruler like this. With the Moon moving into a new sign roughly every 2½ days, a few birthdays each month sit on a boundary; if yours does, between Virgo and Libra or between Libra and Scorpio, the time decides whether you're on the right page or should turn to the [Sun in Taurus, Moon in Virgo](/astrology/sun-in-taurus-moon-in-virgo/) or the [Sun in Taurus, Moon in Scorpio](/astrology/sun-in-taurus-moon-in-scorpio/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). Libra, the sign of the scales, would want one more weight on the pan before any verdict, the rising sign, which comes from that same time: the two lights alone are only a first sketch.
 
 ## In close relationships {#in-close-relationships}
 

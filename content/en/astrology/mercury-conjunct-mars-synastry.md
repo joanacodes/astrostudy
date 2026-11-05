@@ -1,7 +1,7 @@
 ---
 title: "Mercury conjunct Mars in synastry"
 h1: "Mercury conjunct Mars between two charts"
-description: "Mercury conjunct Mars in synastry: one person’s ideas land right on the other’s drive, and talk turns into action. Both sides, how common it is, where it blurs."
+description: "Mercury conjunct Mars in synastry: one person’s ideas land right on the other’s drive, and talk turns into action. Who feels what, its frequency, the blur."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -33,7 +33,7 @@ In Mercury conjunct Mars in synastry, a few degrees at most separate one person'
 
 [Mercury](/astrology/mercury/) is how a person gathers information, makes sense of it and passes it on. [Mars](/astrology/mars/) is how a person moves: initiative, effort, the will to begin, the push to finish, the line they hold. A [conjunction](/astrology/conjunction/) binds the two into a single motion, and between two people that motion is quick: a thought from one, a start from the other.
 
-Holding Mercury here, your words carry unusual weight with this person. Mention an idea and you may find it half-built by the weekend. With your Mercury and their Mars both in Aries, a passing "we should" becomes a plan before you've had time to wonder whether you meant it. That's exhilarating when you did mean it, and startling when you were only thinking aloud.
+Holding Mercury here, your words carry unusual weight with this person. Mention an idea and you may find it half-built by the weekend. With your Mercury and their Mars both in Sagittarius, a passing "we should" becomes a plan before you've had time to wonder whether you meant it. That's exhilarating when you did mean it, and startling when you were only thinking aloud.
 
 Holding Mars, you find the other's mind switches you on. Their plans give your energy a target, their questions sharpen your aim, and their way of putting things can make you braver than you'd be alone. Conversation with them feels less like talk than like a starting gun.
 

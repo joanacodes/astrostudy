@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 84
 glyph: "☽△♄"
-definition: "Lune trigone Saturne en synastrie : Saturne d’une personne à environ 120° de la Lune de l’autre, à 6,8° près, souvent dans un même élément. La constance de l’une convient aux besoins de l’autre, et le soin s’installe dans des habitudes fiables. J’y lis un contact calme et durable, à condition de veiller sur la personne stable."
+definition: "Lune trigone Saturne en synastrie : Saturne d’une personne à environ 120° de la Lune de l’autre, à 6,8° près, souvent entre signes du même élément. La constance de l’une convient aux besoins de l’autre, et le soin s’installe dans des habitudes fiables. J’y lis un contact calme et durable, à condition de veiller sur la personne stable."
 facts:
   - { k: "Corps", v: "La Lune ☽ d’une personne, Saturne ♄ chez l’autre" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/moon", "/astrology/saturn", "/astrology/trine", "/astrology/moon-trine-saturn", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Lune trigone Saturne en synastrie ?"
-    a: "Il y a un trigone, environ 120° à 6,8° près, entre Saturne chez une personne et la Lune de l’autre. La patience et le sens de la structure de la première conviennent en général aux besoins de la seconde, et la chaleur qui lui revient donne du sens à ses devoirs. C’est un courant calme et concret entre deux personnes."
+    a: "Il y a un trigone, environ 120° à 6,8° près, entre la Lune d’une personne et Saturne dans le thème de l’autre. La patience et le sens de la structure de la première répondent à ce dont la seconde a besoin, et en retour, l’aisance de la seconde avec les limites permet à la première de se détendre. C’est un courant calme et concret entre deux personnes."
   - q: "Lune trigone Saturne, est-ce le signe d’une relation durable ?"
     a: "Ce trigone aime la patience et les habitudes, qui aident toute relation que les deux personnes veulent garder. Mais aucun contact ne prédit combien de temps deux personnes restent ensemble, ni si elles le devraient. Le trigone décrit une aisance ; ce que deux adultes en font leur appartient."
   - q: "Avec Lune trigone Saturne, qui veille sur la personne stable ?"
@@ -47,7 +47,7 @@ Une aisance de ce genre peut durcir en habitude. Les rôles se figent : la pers
 
 Veillez sur la personne stable : qu’on lui demande de temps en temps comment elle va vraiment, en le pensant, et qu’elle avoue sa fatigue avant que celle-ci se change en silence. Changez une habitude par an, exprès. Un couple peut inventer un nouveau rituel ; des amis, partir hors des sentiers habituels ; une famille, sortir du vieux scénario ; une équipe, échanger des rôles devenus automatiques.
 
-Environ 1 paire de personnes sur 7 a ce trigone, dans un sens ou dans l’autre, à 6,8° près. Si la Lune est la vôtre, vous trouveriez à peu près le même trigone avec bien des personnes nées à peu près en même temps que celle qui a Saturne, puisque Saturne reste près de deux ans et demi dans chaque signe ; ce qui est particulier, c’est cette personne, et la façon dont elle porte Saturne. Je ne le lis pas sans les deux heures de naissance : le déplacement quotidien de la Lune, environ 13°, peut la faire entrer dans l’orbe ou en sortir, et les maisons, où le trigone se pose dans chaque vie, dépendent des heures ([pourquoi j’attends l’heure](/blog/unknown-birth-time/#pourquoi-j-attends-l-heure)).
+Environ 1 paire de personnes sur 7 a ce trigone, dans un sens ou dans l’autre, à 6,8° près. Si la Lune est la vôtre, vous trouveriez à peu près le même trigone avec bien des personnes nées à peu près en même temps que celle qui a Saturne, puisque Saturne reste près de deux ans et demi par signe ; ce qui est particulier, c’est cette personne, et la façon dont elle porte Saturne. Je ne le lis pas sans les deux heures de naissance : le déplacement quotidien de la Lune, environ 13°, peut la faire passer d’un côté ou de l’autre du bord de l’orbe, et les maisons, où le trigone se pose dans chaque vie, dépendent des heures ([pourquoi j’attends l’heure](/blog/unknown-birth-time/#pourquoi-j-attends-l-heure)).
 
 Sous d’autres angles, ces deux fonctions demandent davantage aux deux personnes :
 

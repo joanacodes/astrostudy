@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/moon", "/astrology/venus", "/astrology/trine", "/astrology/moon-trine-venus", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Lune trigone Vénus en synastrie ?"
-    a: "La Lune de l’une et la Vénus de l’autre forment un angle de 120° environ, à 6,8° près, et la plupart du temps dans deux signes de même élément. Ce que l’une offre et ce dont l’autre a besoin s’accordent sans effort, et le soin quotidien vient facilement. J’y lis une douce aisance, à entretenir plutôt qu’à tenir pour acquise."
+    a: "La Lune de l’une et la Vénus de l’autre forment un angle de 120° environ, à 6,8° près, en général dans des signes de même élément. Ce que l’une offre et ce dont l’autre a besoin s’accordent sans effort, et le soin quotidien vient facilement. J’y lis une douce aisance, à entretenir plutôt qu’à tenir pour acquise."
   - q: "Lune trigone Vénus, est-ce le signe d’une relation heureuse ?"
     a: "C’est le signe d’une aisance dans un domaine : le soin et le réconfort. Aucun contact ne décide seul de l’entente entre deux personnes, et chaque thème compte d’abord. Ce trigone aide beaucoup à la gentillesse quotidienne ; il ne fait pas le reste du travail, et il n’empêche pas la paire d’éviter les sujets difficiles."
   - q: "Que peut cacher Lune trigone Vénus ?"

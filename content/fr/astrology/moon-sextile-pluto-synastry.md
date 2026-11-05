@@ -31,7 +31,7 @@ Lune sextile Pluton en synastrie ouvre une porte d’environ 60° entre les émo
 
 ## Ce qui circule {#ce-qui-circule}
 
-La [Lune](/astrology/moon/) dit comment une personne ressent, s’attache et se remet. [Pluton](/astrology/pluto/) est la capacité de changer en profondeur : lâcher ce qui a fait son temps, se régénérer, reprendre son propre pouvoir. Un [sextile](/astrology/sextile/) permet à deux fonctions de coopérer dès que quelqu’un saisit l’ouverture. Dans les [aspects de synastrie](/astrology/synastry-aspects/), l’ouverture passe d’une personne à l’autre.
+La [Lune](/astrology/moon/) dit comment une personne ressent, s’attache et se remet. [Pluton](/astrology/pluto/) est la capacité de changer en profondeur : lâcher ce qui est usé, se régénérer, reprendre son propre pouvoir. Un [sextile](/astrology/sextile/) permet à deux fonctions de coopérer dès que quelqu’un saisit l’ouverture. Dans les [aspects de synastrie](/astrology/synastry-aspects/), l’ouverture passe d’une personne à l’autre.
 
 Du côté de la Lune, cette personne peut rendre les émotions difficiles plus faciles à affronter. Elle ne recule pas quand vous lui apportez quelque chose de lourd, et elle vous aide à le regarder honnêtement, ce qui se révèle souvent le début du mieux. Des habitudes de réconfort devenues trop petites peuvent se lâcher en sa compagnie.
 
@@ -47,7 +47,7 @@ Une profondeur offerte peut rester sans emploi. Dans les périodes calmes, la pa
 
 Demandez avant d’aller au fond. Un simple « on peut parler de quelque chose de vrai ? » respecte l’ouverture et laisse l’autre choisir le moment. Faites-lui une place régulière : une promenade, un long repas, un regard annuel sur ce qui a changé pour chaque personne. Respectez un « pas maintenant » autant qu’un « oui ». Couples, amis et familles peuvent tous s’en servir ; au travail, cela sert le binôme capable de revoir sans reproche ce qui a mal tourné.
 
-Environ 1 paire de personnes sur 10 a ce sextile, dans un sens ou dans l’autre, à 4,8° près. Pluton passe entre 12 et 31 ans par signe, ce qui rend le côté Pluton commun à une longue suite d’années de naissance ; ce qui n’appartient qu’à cette paire, c’est l’endroit où se trouvait la Lune de l’autre. C’est une question d’heures, puisque la Lune avance d’environ 13° par jour face à un orbe de 4,8° : les deux heures de naissance décident si le sextile existe, et quelles maisons il relie ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Environ 1 paire de personnes sur 10 a ce sextile, dans un sens ou dans l’autre, à 4,8° près. Pluton passe entre 12 et 31 ans par signe, ce qui rend le côté Pluton commun à une longue suite d’années de naissance ; ce qui n’appartient qu’à cette paire, c’est l’endroit où se trouvait la Lune de l’autre. C’est une question d’heures, puisque la Lune avance d’environ 13° par jour face à un orbe de 4,8° : les deux heures de naissance disent si le sextile existe, et entre quelles maisons il passe ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Selon l’angle, la profondeur rencontre le ressenti autrement :
 

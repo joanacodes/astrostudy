@@ -37,7 +37,7 @@ Si le bout de la Lune vous revient, cette personne vous entraîne peut-être en 
 
 Si c’est le bout de Pluton, cette personne vous offre peut-être un port. Son besoin de sécurité vous montre la valeur de ce qui est stable et simple, et son attachement peut assouplir une garde que vous teniez depuis des années. Par moments, son besoin de familier peut ressembler à une résistance à chaque changement que vous voyez venir.
 
-En équilibre, la paire a les deux : une profondeur qui ne noie personne, et une sécurité qui ne croupit pas.
+Quand l’équilibre tient, il y a une profondeur qui ne noie personne, et une sécurité qui ne croupit pas.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

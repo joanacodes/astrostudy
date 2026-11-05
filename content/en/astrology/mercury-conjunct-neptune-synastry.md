@@ -33,7 +33,7 @@ Sometimes you finish each other's sentences, and sometimes you finish them diffe
 
 [Mercury](/astrology/mercury/) is how a person names things, reasons and passes on what they know. [Neptune](/astrology/neptune/) is how they imagine, empathise and sense the meaning behind the facts: inspiration, compassion, a feel for symbols, an ease with what can't be pinned down. With a [conjunction](/astrology/conjunction/), two functions bind into one active unit, each still recognisable, and among the [synastry aspects](/astrology/synastry-aspects/) few bind a voice so closely to someone else's imagination.
 
-In conversation, much goes unsaid and is understood anyway. The Mercury person describes their day and the Neptune person hears what it felt like; the Neptune person speaks in images and the Mercury person finds they know exactly what was meant. Decisions can be made on a shared sense of rightness rather than a list of reasons. Explaining yourselves feels almost unnecessary, which is the pleasure of it and, as you'll see, the catch.
+In conversation, much goes unsaid and is understood anyway. The Mercury person describes their day and the Neptune person hears what it felt like; the Neptune person speaks in images and the Mercury person finds they know exactly what was meant. Decisions can be made on a shared sense of rightness rather than a list of reasons. Explanations feel almost unnecessary, which is the pleasure of it and, as you'll see, the catch.
 
 On the Mercury side, you may feel listened to as never before: your words seem to arrive with all their meaning intact, and sometimes with more than you put in. On the Neptune side, you may feel your intuitions finally have a spokesperson, someone who can say the thing you sensed but couldn't phrase.
 

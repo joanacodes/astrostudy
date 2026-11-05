@@ -29,7 +29,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "pairs with the trine either way round, within 6.8°" }
 ---
-Moon trine Venus in synastry sets 120° between the Moon of one person and the Venus of the other, usually in signs of one element. Affection here fits without being asked for, in ordinary daily ways, and both people tend to feel looked after without anyone having to say so.
+Moon trine Venus in synastry sets 120° between the Moon of one person and the Venus of the other, typically in signs of the same element. Affection here fits without being asked for, in ordinary daily ways, and both people tend to feel looked after without anyone having to say so.
 
 ## What flows {#what-flows}
 

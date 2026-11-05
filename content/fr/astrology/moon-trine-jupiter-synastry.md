@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 79
 glyph: "☽△♃"
-definition: "Lune trigone Jupiter en synastrie : Jupiter d’une personne à environ 120° de la Lune de l’autre, à 6,8° près, en général dans un même élément. La vue large de l’une rejoint sans effort les besoins de l’autre, et le réconfort revient en sens inverse. J’y lis un encouragement facile, qui gagne à laisser d’abord l’émotion se poser."
+definition: "Lune trigone Jupiter en synastrie : Jupiter d’une personne à environ 120° de la Lune de l’autre, à 6,8° près, en général dans des signes de même élément. La vue large de l’une rejoint sans effort les besoins de l’autre, et le réconfort revient en sens inverse. J’y lis un encouragement facile, qui gagne à laisser d’abord l’émotion se poser."
 facts:
   - { k: "Corps", v: "La Lune ☽ d’une personne, Jupiter ♃ chez l’autre" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -52,7 +52,7 @@ Ailleurs sur le cercle, les mêmes fonctions demandent plus d’effort, ou laiss
 
 ## Comment le vivre {#comment-le-vivre}
 
-Laissez une mauvaise journée être une mauvaise journée avant que quelqu’un lui trouve un sens. La personne qui a Jupiter peut parfois être celle dont on s’occupe ; celle qui a la Lune peut offrir une vue large autant qu’en recevoir. Dans un couple, cela peut devenir l’habitude d’échanger les rôles ; entre amis, la personne qui conseille toujours se voit demander comment elle va ; en famille, une sœur ou un frère adulte cesse d’avoir réponse à tout ; entre collègues, l’aide et les compliments circulent dans les deux sens.
+Laissez une mauvaise journée être une mauvaise journée avant que quelqu’un lui trouve un sens. La personne qui a Jupiter peut parfois être celle dont on s’occupe ; celle qui a la Lune peut offrir une vue large autant qu’en recevoir. Dans un couple, cela peut devenir l’habitude d’échanger les rôles ; entre amis, la personne qui conseille toujours se voit demander comment elle va ; en famille, la personne qui avait réponse à tout s’autorise à ne plus l’avoir ; entre collègues, l’aide et les compliments circulent dans les deux sens.
 
 Environ 1 paire de personnes sur 7 a ce trigone, dans un sens ou dans l’autre, à 6,8° près. Pour le voir, j’ai besoin des deux heures de naissance. En quelques heures, la Lune parcourt plusieurs degrés, environ 13 sur une journée entière, assez pour ouvrir ou fermer l’orbe, et les heures donnent aussi les maisons où chacune des deux personnes rencontre le trigone ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

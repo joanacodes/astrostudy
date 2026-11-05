@@ -30,7 +30,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les paires qui ont ce sextile, dans un sens ou dans l’autre, à 4,8° près" }
 ---
-Avec Lune sextile Vénus en synastrie, la Lune d’une personne et la Vénus de l’autre se trouvent à 60°. C’est le contact amical de la paire : de petites attentions venues d’un côté rejoignent les besoins de l’autre, pourvu que quelqu’un fasse le premier geste.
+Avec Lune sextile Vénus en synastrie, 60° séparent la Lune de l’une et la Vénus de l’autre. C’est le contact amical de la paire : de petites attentions venues d’un côté rejoignent les besoins de l’autre, pourvu que quelqu’un fasse le premier geste.
 
 ## Ce qui circule {#ce-qui-circule}
 
