@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/moon", "/astrology/uranus", "/astrology/opposition", "/astrology/moon-opposite-uranus", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Lune opposition Uranus en synastrie ?"
-    a: "D’un thème à l’autre, Uranus et la Lune se font face, à 8° près. Dans les faits, la personne qui a la Lune parle souvent pour la proximité et les habitudes, celle qui a Uranus pour l’espace et le changement, et chacune tire l’autre vers son bout. L’enjeu est l’équilibre, et rien n’y dit que l’une veut partir."
+    a: "D’un thème à l’autre, Uranus et la Lune se font face, à 8° près. Dans les faits, la personne qui a la Lune parle souvent pour la proximité et les habitudes, celle qui a Uranus pour l’espace et le changement, et chacune entraîne l’autre de son côté. L’enjeu est l’équilibre, et rien n’y dit que l’une veut partir."
   - q: "Lune opposition Uranus, est-ce compatible avec une longue relation ?"
     a: "Tout contact peut exister dans une longue relation, et aucun n’en décide. Celui-ci demande des accords plus que de la ressemblance : des moments à deux et des moments à soi, choisis par les deux. Quand chaque personne prend aussi un peu du bout de l’autre, la tension devient un rythme plutôt qu’un tiraillement."
   - q: "Avec Lune opposition Uranus, pourquoi échangeons-nous sans cesse les rôles ?"
@@ -33,9 +33,9 @@ Lune opposition Uranus en synastrie tend une ligne entre deux personnes : à un
 
 La [Lune](/astrology/moon/) parle d’attachement, de continuité et de sécurité ressentie. [Uranus](/astrology/uranus/) parle d’autonomie, d’originalité et de la liberté de changer de cap. Une [opposition](/astrology/opposition/) en fait les deux bouts d’un même axe, chacun plus net en présence de l’autre. Dans les [aspects de synastrie](/astrology/synastry-aspects/), l’axe court entre deux personnes.
 
-Au bout de la Lune, cette personne fait peut-être entrer de l’air dans une vie devenue un peu close. Elle élargit votre cercle, bouscule une habitude ou deux, et vous montre qu’on peut vous aimer sans vous retenir. Par moments, son indépendance pourra ressembler à de la distance.
+À l’extrémité de la Lune, cette personne fait peut-être entrer de l’air dans une vie devenue un peu close. Elle élargit votre cercle, bouscule une habitude ou deux, et vous montre qu’on peut vous aimer sans vous retenir. Par moments, son indépendance pourra ressembler à de la distance.
 
-Au bout d’Uranus, cette personne vous offre peut-être un port d’attache dont vous ne saviez pas avoir envie. Son attachement vous montre à quoi pourrait ressembler le fait de rester, quand c’est choisi et non imposé. Par moments, son besoin de proximité pourra ressembler à une traction sur la corde.
+À l’extrémité d’Uranus, cette personne vous offre peut-être un port d’attache dont vous ne saviez pas avoir envie. Son attachement vous montre à quoi pourrait ressembler le fait de rester, quand c’est choisi et non imposé. Par moments, son besoin de proximité pourra ressembler à une traction sur la corde.
 
 Au mieux, chacune reçoit ce qui lui manquait : une appartenance qui laisse de l’espace, et une liberté qui a un endroit où revenir.
 

@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 86
 glyph: "☽☌♅"
-definition: "Lune conjonction Uranus en synastrie : Uranus d’une personne à moins de 8° de la Lune de l’autre. L’envie de renouveau et de liberté de l’une se pose sur les besoins et les habitudes de l’autre. J’y lis un contact qui réveille ; je surveille le moment où les changements de l’une mènent les humeurs de l’autre."
+definition: "Lune conjonction Uranus en synastrie : Uranus d’une personne à moins de 8° de la Lune de l’autre. L’envie de renouveau et de liberté de l’une rencontre les besoins et les habitudes de l’autre. J’y lis un contact qui réveille ; je surveille le moment où les changements de l’une mènent les humeurs de l’autre."
 facts:
   - { k: "Corps", v: "La Lune ☽ d’une personne, Uranus ♅ chez l’autre" }
   - { k: "Aspect", v: "Conjonction ☌, 0°" }
@@ -47,7 +47,7 @@ Sur un même degré, deux besoins peuvent se confondre : celui de la personne q
 
 Décidez ensemble de ce qui ne bouge pas. Un repas commun, un appel chaque semaine, une pièce que personne ne réaménage sans demander : quelques ancres laissent le reste bouger librement. La personne qui a Uranus peut prévenir avant les grands changements ; celle qui a la Lune peut vérifier de temps en temps si une nouvelle habitude est choisie ou attrapée au vol. En couple ou en famille, cela veut dire des changements discutés plutôt qu’annoncés ; entre collègues, des essais avec un chemin de retour clair.
 
-Environ 1 paire de personnes sur 12 a cette conjonction, dans un sens ou dans l’autre, à 8° près. À raison d’environ sept ans par signe, Uranus occupe une position presque commune à toute une génération ; elle n’entre dans cette paire que parce que la Lune de l’autre personne vient s’y poser. Cette Lune file à quelque 13° par jour, ce qui rend les deux heures de naissance décisives pour la conjonction, comme pour les maisons où chaque personne la rencontre ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Environ 1 paire de personnes sur 12 a cette conjonction, dans un sens ou dans l’autre, à 8° près. À raison d’environ sept ans par signe, Uranus occupe une position presque commune à toute une génération ; elle n’entre dans cette paire que parce que la Lune de l’autre personne vient s’y poser. Cette Lune file à quelque 13° par jour, si bien que la conjonction dépend des deux heures de naissance, comme les maisons où chaque personne la rencontre ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Plus loin sur le cercle, les deux mêmes besoins se rencontrent autrement :
 

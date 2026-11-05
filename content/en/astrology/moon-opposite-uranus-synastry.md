@@ -17,7 +17,7 @@ facts:
 related: ["/astrology/moon", "/astrology/uranus", "/astrology/opposition", "/astrology/moon-opposite-uranus", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Moon opposite Uranus mean in synastry?"
-    a: "One person’s Uranus sits across the zodiac from the other’s Moon, within 8°. In practice the Moon person often speaks for closeness and routine, the Uranus person for room and change, and each tugs the other towards their own side. Balance is the task, and nothing in it says anyone wants out."
+    a: "One person’s Uranus is roughly opposite the other’s Moon, within 8°. In practice the Moon person often speaks for closeness and routine, the Uranus person for room and change, and each tugs the other towards their own side. Balance is the task, and nothing in it says anyone wants out."
   - q: "Can Moon opposite Uranus work in a long relationship?"
     a: "Any contact can sit inside a long relationship, and none decides it. This one asks for agreements more than for sameness: time together and time apart, both chosen. When each person also takes on a little of the other’s end, the pull becomes a rhythm rather than a tug."
   - q: "Why do we keep swapping roles with Moon opposite Uranus?"
@@ -32,9 +32,9 @@ Moon opposite Uranus in synastry stretches a line between two people: at one end
 
 Attachment, continuity and the felt sense of being held belong to the [Moon](/astrology/moon/). [Uranus](/astrology/uranus/) is about autonomy, originality and the freedom to change course. An [opposition](/astrology/opposition/) makes them two ends of one axis, each clearer for the other's presence. In [synastry aspects](/astrology/synastry-aspects/), that axis has a person at each end.
 
-Standing at the Moon's end, you may find this person brings air into a life that had grown close and settled. They widen your circle, unsettle a habit or two, and show you that you can be loved without being kept. At times their independence may feel like distance.
+Standing at the Moon's end, you might discover that this person brings air into a life that had grown close and settled. They widen your circle, unsettle a habit or two, and show you that you can be loved without being kept. At times their independence may feel like distance.
 
-Standing at Uranus's end, you may find this person gives you a home base you didn't know you wanted. Their attachment shows you what staying could look like when it's chosen rather than imposed. At times their need for closeness may feel like a pull on the rope.
+Standing at Uranus's end, you might discover that this person gives you a home base you didn't know you wanted. Their attachment shows you what staying could look like when it's chosen rather than imposed. At times their need for closeness may feel like a pull on the rope.
 
 At its best, each gets what they lacked: belonging with room in it, and freedom with somewhere to return to.
 

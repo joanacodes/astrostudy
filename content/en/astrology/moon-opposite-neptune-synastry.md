@@ -30,7 +30,7 @@ Moon opposite Neptune in synastry sets what one person needs and what the other 
 
 ## What flows {#what-flows}
 
-The [Moon](/astrology/moon/) looks after the needs of the day, what makes a person feel safe here and now. [Neptune](/astrology/neptune/) holds imagination, compassion and the pull of the ideal. An [opposition](/astrology/opposition/) sets them across one axis, a polarity where each end makes the other visible. Across two charts, which is what [synastry aspects](/astrology/synastry-aspects/) describe, each person starts at one end.
+The [Moon](/astrology/moon/) looks after the needs of the day, what makes a person feel safe here and now. [Neptune](/astrology/neptune/) holds imagination, compassion and the pull of the ideal. An [opposition](/astrology/opposition/) sets them across one axis, a polarity where each end makes the other visible. Spread over two charts, as [synastry aspects](/astrology/synastry-aspects/) always are, each person starts at one end.
 
 If the Moon end is yours, this person may lift your days out of the ordinary. They bring music, faith, imagination, a sense that life is larger than the list of chores, and your feelings are honoured rather than managed. At times they can also seem far away, somewhere you can't follow.
 

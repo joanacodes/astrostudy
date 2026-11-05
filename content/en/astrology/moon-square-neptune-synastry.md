@@ -44,7 +44,7 @@ Here the friction takes the form of misreading. The Neptune person may idealise 
 
 ## How to meet it {#how-to-meet-it}
 
-Trade guesses for questions. "What would help right now?", asked by the Neptune person and answered specifically by the Moon person, clears most of the fog. Put important things into words, even in writing, and repeat back what you heard. In a couple, that might be a weekly check-in about how each of you is really doing; between friends or relatives, saying "I meant this, not that"; between colleagues, clear briefs instead of hints.
+Trade guesses for questions. "What would help right now?", asked by the Neptune person and answered specifically by the Moon person, clears most of the fog. Put important things into words, even in writing, and repeat back what you heard. A couple might hold a weekly check-in about how each of you is really doing; friends or relatives might say "I meant this, not that"; colleagues might use clear briefs instead of hints.
 
 About 1 pair of people in 7 has this square, one way round or the other, within 6.8°. Neptune lingers about fourteen years in each sign, so among the Neptune person's contemporaries it barely differs; what makes the square personal is the other's Moon, placed 90° away by a date and an hour. That's why both birth times are needed: some 13° of lunar travel a day can open or close the orb, and the houses can't be placed without the times ([what changes without a birth time](/blog/unknown-birth-time/)).
 

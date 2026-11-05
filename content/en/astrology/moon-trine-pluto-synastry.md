@@ -1,7 +1,7 @@
 ---
 title: "Moon trine Pluto in synastry"
 h1: "Moon trine Pluto between two charts"
-description: "Moon trine Pluto in synastry: depth on one side, feelings on the other, moving together so change needn’t frighten. Each side, the count, the blind spot."
+description: "Moon trine Pluto in synastry: one person’s depth and the other’s feelings keep pace, so change needn’t frighten. Each side, the count, the blind spot."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -26,11 +26,11 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 6.8°" }
 ---
-Moon trine Pluto in synastry joins one person's feelings and the other's capacity for depth at about 120°, usually within one element. With this person, grief can be spoken, fear can be looked at, and change can be lived through without anyone flinching. It's an easy contact with heavy things, which is rarer than it sounds.
+Moon trine Pluto in synastry joins one person's feelings and the other's capacity for depth at about 120°, most often within a single element. With this person, grief can be spoken, fear can be looked at, and change can be lived through without anyone flinching. It's an easy contact with heavy things, which is rarer than it sounds.
 
 ## What flows {#what-flows}
 
-The [Moon](/astrology/moon/) carries needs, attachments and the way a person recovers; [Pluto](/astrology/pluto/) carries transformation, regeneration and the power to rebuild one's own life. A [trine](/astrology/trine/) lets the two reinforce each other while each stays itself. Spread across two charts, as in all [synastry aspects](/astrology/synastry-aspects/), each person holds one of the two.
+The [Moon](/astrology/moon/) carries needs, attachments and the way a person recovers; [Pluto](/astrology/pluto/) carries transformation, regeneration and the power to rebuild one's own life. A [trine](/astrology/trine/) lets the two reinforce each other while each stays itself. Spread across two charts, as in all [synastry aspects](/astrology/synastry-aspects/), the two functions are shared out, one to each person.
 
 On the Moon's side, this may be the person you can fall apart in front of. Your strongest feelings don't scare them; they stay, help you look at what's happening, and somehow you come out steadier than you went in.
 

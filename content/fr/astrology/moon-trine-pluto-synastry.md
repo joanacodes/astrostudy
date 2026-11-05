@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/moon", "/astrology/pluto", "/astrology/trine", "/astrology/moon-trine-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Lune trigone Pluton en synastrie ?"
-    a: "Environ 120° séparent Pluton, chez une personne, de la Lune de l’autre, à 6,8° près : c’est un trigone. La profondeur de la personne qui a Pluton et les émotions de celle qui a la Lune vont en général dans le même sens : la paire peut traverser un changement, une perte ou un renouveau sans se perdre. C’est une aisance qui résiste, pas une promesse."
+    a: "Pluton, dans le thème d’une personne, regarde la Lune de l’autre sous un angle d’environ 120°, à 6,8° près : un trigone. La profondeur de la personne qui a Pluton et ce que ressent celle qui a la Lune vont en général dans le même sens : la paire peut traverser un changement, une perte ou un renouveau sans se perdre. C’est une aisance qui résiste, pas une promesse."
   - q: "Lune trigone Pluton, est-ce un aspect intense ?"
     a: "Profond plutôt que spectaculaire. Les émotions fortes sont bienvenues, mais elles n’arrivent pas en tempêtes : on les accueille et on les traverse. Comme l’intensité semble naturelle, la paire peut ne pas remarquer à quel point chaque personne change l’autre."
   - q: "Lune trigone Pluton, qu’est-ce qui demande de la vigilance ?"
@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6,8° près" }
 ---
-Lune trigone Pluton en synastrie accorde, à environ 120°, la vie émotionnelle d’une personne et la profondeur de l’autre, d’ordinaire dans un même élément. Avec cette personne, le chagrin peut se dire, la peur peut se regarder, et le changement se traverser sans que personne ne recule. C’est un contact facile avec des choses lourdes, ce qui est plus rare qu’il n’y paraît.
+Lune trigone Pluton en synastrie fait se répondre, à environ 120°, la vie émotionnelle d’une personne et la profondeur de l’autre, d’ordinaire dans un même élément. Avec cette personne, le chagrin peut se dire, la peur peut se regarder, et le changement se traverser sans que personne ne recule. C’est un contact facile avec des choses lourdes, ce qui est plus rare qu’il n’y paraît.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -41,13 +41,13 @@ Entre amis, ce peut être un lien qui tient à travers des années de changement
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Un contact facile avec les choses profondes a son angle mort : le changement peut se faire sans que personne le nomme. L’influence de la personne qui a Pluton peut être grande justement parce qu’elle rencontre peu de résistance, et celle qui a la Lune peut glisser vers la façon de voir de l’autre sans l’avoir jamais choisie. La légèreté peut aussi disparaître, quand tout est pris au sérieux. Couler n’est pas subir, et le pouvoir d’agir n’est pas la domination : même un courant doux mérite qu’on vérifie de temps en temps qui tient la barre.
+Une aisance avec les choses profondes a son angle mort : le changement peut se faire sans que personne le nomme. L’influence de la personne qui a Pluton peut être grande justement parce qu’elle rencontre peu de résistance, et celle qui a la Lune peut glisser vers la façon de voir de l’autre sans l’avoir jamais choisie. La légèreté peut aussi disparaître, quand tout est pris au sérieux. Couler n’est pas subir, et le pouvoir d’agir n’est pas la domination : même un courant doux mérite qu’on vérifie de temps en temps qui tient la barre.
 
 ## Comment le vivre {#comment-le-vivre}
 
 Nommez ce qui change. De temps à autre, demandez-vous ce qui est différent depuis l’an dernier, et si ce changement a été choisi. Faites de la place à la légèreté : une soirée idiote, un voyage sans but. La personne qui a Pluton peut demander si son influence est toujours la bienvenue ; celle qui a la Lune peut apporter sa propre direction au lieu de suivre. Et quand une saison difficile arrive, servez-vous exprès de ce trigone : c’est à cela qu’il sert.
 
-Environ 1 paire de personnes sur 7 a ce trigone, dans un sens ou dans l’autre, à 6,8° près. Avec 12 à 31 ans passés dans chaque signe, Pluton fait du côté Pluton de ce trigone un trait partagé par une foule de personnes du même âge ; ce qu’aucune d’elles ne partage, c’est la Lune de l’autre personne, fixée par un seul jour et une seule heure. Les deux heures de naissance comptent donc, puisqu’une Lune qui gagne quelque 13° par jour peut entrer dans un orbe de 6,8° ou en sortir en quelques heures, et puisque les maisons qui situent le trigone dans chaque vie en dépendent ([pourquoi j’attends l’heure](/blog/unknown-birth-time/#pourquoi-j-attends-l-heure)).
+Environ 1 paire de personnes sur 7 a ce trigone, dans un sens ou dans l’autre, à 6,8° près. Avec 12 à 31 ans passés dans chaque signe, Pluton fait du côté Pluton de ce trigone un trait partagé par une foule de personnes du même âge ; ce qu’aucune d’elles ne partage, c’est la Lune de l’autre personne, fixée par un seul jour et une seule heure. Les deux heures de naissance comptent donc, puisqu’une Lune qui gagne quelque 13° par jour peut franchir en quelques heures le bord d’un orbe de 6,8°, et puisque les maisons qui situent le trigone dans chaque vie en dépendent ([pourquoi j’attends l’heure](/blog/unknown-birth-time/#pourquoi-j-attends-l-heure)).
 
 D’autres angles donnent aux deux mêmes fonctions plus de friction, ou moins de distance :
 

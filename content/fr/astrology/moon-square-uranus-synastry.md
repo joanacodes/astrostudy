@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/moon", "/astrology/uranus", "/astrology/square", "/astrology/moon-square-uranus", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Lune carré Uranus en synastrie ?"
-    a: "Uranus, chez l’une des deux personnes, forme un carré avec la Lune de l’autre : environ 90°, à 6,8° près. Quand la personne qui a la Lune veut être rassurée ou retrouver sa routine, celle qui a Uranus veut souvent de l’espace ou du changement, et inversement. La friction est réelle, et elle peut apprendre aux deux une proximité qui laisse respirer."
+    a: "La Lune d’une personne et Uranus, dans le thème de l’autre, forment un carré : environ 90°, à 6,8° près. Quand la personne qui a la Lune veut être rassurée ou retrouver sa routine, celle qui a Uranus veut souvent de l’espace ou du changement, et inversement. La friction est réelle, et elle peut apprendre aux deux une proximité qui laisse respirer."
   - q: "Lune carré Uranus, est-ce que quelqu’un va partir ?"
     a: "Non. Aucun contact entre deux thèmes ne prédit une rupture, et Uranus décrit l’autonomie et le renouveau, pas l’abandon. Ce carré montre deux besoins, la proximité et l’espace, qui se manifestent à des moments malcommodes. Les paires qui nomment les deux et prévoient les deux peuvent très bien vivre avec."
   - q: "Avec Lune carré Uranus, pourquoi une demande de réconfort pèse-t-elle ?"
@@ -51,4 +51,4 @@ Environ 1 paire de personnes sur 7 a ce carré, dans un sens ou dans l’autre, 
 
 Sous d’autres angles, la proximité et l’espace s’entendent mieux, ou se font face : [Lune conjonction Uranus en synastrie](/astrology/moon-conjunct-uranus-synastry/) les fond sur un même degré, [Lune sextile Uranus en synastrie](/astrology/moon-sextile-uranus-synastry/) échange de petits changements, [Lune trigone Uranus en synastrie](/astrology/moon-trine-uranus-synastry/) les fait marcher du même pas, et [Lune opposition Uranus en synastrie](/astrology/moon-opposite-uranus-synastry/) les sépare aux deux extrémités d’une même ligne.
 
-Dans un seul thème, [Lune carré Uranus](/astrology/moon-square-uranus/) décrit une personne tiraillée entre proximité et espace au fil de ses propres journées ; entre deux thèmes, chaque personne tient l’un des deux, et la négociation se fait à voix haute.
+Dans le thème d’une personne, [Lune carré Uranus](/astrology/moon-square-uranus/) décrit une personne tiraillée entre proximité et espace au fil de ses propres journées ; entre deux thèmes, chaque personne tient l’un des deux, et la négociation se fait à voix haute.

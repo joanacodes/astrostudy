@@ -40,7 +40,7 @@ Between relatives it can be a gentleness that outlasts family tension; between c
 
 ## Where it rubs {#where-it-rubs}
 
-What goes unsaid is the risk. Because kindness comes so easily, disagreements can be smoothed over before they're spoken, and practical needs, money, chores, plans, stay in soft focus. The Moon person may keep a grievance to themselves rather than spoil the mood; the Neptune person may picture the relationship as kinder than it is this month. Flow isn't passivity and transcendence isn't escape: a trine this tender still needs some plain speaking to stay true.
+What goes unsaid is the risk. Because kindness comes so easily, disagreements can be smoothed over before they're spoken, and practical needs, money, chores, plans, stay in soft focus. The Moon person may keep a grievance to themselves rather than spoil the mood; the Neptune person may picture the relationship as kinder than it is this month. Flow isn't passivity, and rising above things isn't running from them: a trine this tender still needs some plain speaking to stay true.
 
 ## How to meet it {#how-to-meet-it}
 

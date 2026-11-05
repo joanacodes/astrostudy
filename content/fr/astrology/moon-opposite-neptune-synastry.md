@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’opposition, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 8° près" }
 ---
-Lune opposition Neptune en synastrie met les besoins d’une personne et les idéaux de l’autre aux deux bouts d’une ligne. L’une représente souvent le quotidien, les repas, les humeurs, les envies simples ; l’autre quelque chose de plus vaste, de plus doux, de plus difficile à saisir. Chaque bout attire l’autre vers lui.
+Lune opposition Neptune en synastrie place ce dont une personne a besoin et ce que l’autre idéalise aux deux bouts d’une ligne. L’une représente souvent le quotidien, les repas, les humeurs, les envies simples ; l’autre quelque chose de plus vaste, de plus doux, de plus difficile à saisir. Chaque bout attire l’autre vers lui.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -56,4 +56,4 @@ Plus près, ou en angle, les deux mêmes fonctions se comportent autrement :
 - **[Lune carré Neptune en synastrie](/astrology/moon-square-neptune-synastry/) :** le besoin et l’image qui se croisent, avec des malentendus à dissiper.
 - **[Lune trigone Neptune en synastrie](/astrology/moon-trine-neptune-synastry/) :** une tendresse facile, où les choses difficiles restent tues.
 
-Dans un seul thème, [Lune opposition Neptune](/astrology/moon-opposite-neptune/) décrit une personne qui équilibre ses propres besoins et ses idéaux ; ici, deux personnes se partagent les bouts, et peuvent les échanger. Comparer deux thèmes, c’est regarder de près quelqu’un qui n’est pas à l’origine de la demande : je ne le fais qu’avec l’accord de chacune ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+À l’échelle d’un seul thème, [Lune opposition Neptune](/astrology/moon-opposite-neptune/) décrit une personne qui équilibre ses propres besoins et ses idéaux ; ici, deux personnes se partagent les bouts, et peuvent les échanger. Comparer deux thèmes, c’est regarder de près quelqu’un qui n’est pas à l’origine de la demande : je ne le fais qu’avec l’accord de chacune ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

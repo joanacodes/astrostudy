@@ -35,7 +35,7 @@ La [Lune](/astrology/moon/), telle que je la lis, est le désir de sécurité, d
 
 Si le bout de la Lune vous revient, cette personne vous entraîne peut-être en profondeur. Avec elle, vous affrontez ce que vous auriez préféré éviter, vous changez ce qui devait changer, et votre sécurité se reconstruit sur un sol plus ferme. Par moments, son intensité peut sembler excessive, ou ressembler à un courant qui vous fait perdre pied.
 
-Si c’est le bout de Pluton, cette personne vous offre peut-être un port. Son besoin de sécurité vous montre la valeur de ce qui est stable et simple, et son attachement peut assouplir une garde que vous teniez depuis des années. Par moments, son besoin de familier peut ressembler à une résistance à chaque changement que vous voyez venir.
+Si c’est le bout de Pluton, cette personne devient peut-être votre port. Son besoin de sécurité vous montre la valeur de ce qui est stable et simple, et son attachement peut assouplir une garde que vous teniez depuis des années. Par moments, son besoin de familier peut ressembler à une résistance à chaque changement que vous voyez venir.
 
 Quand l’équilibre tient, il y a une profondeur qui ne noie personne, et une sécurité qui ne croupit pas.
 
@@ -54,6 +54,6 @@ Ses quatre voisins, pour comparaison :
 - **[Lune conjonction Pluton en synastrie](/astrology/moon-conjunct-pluto-synastry/) :** le besoin et l’intensité sur un même degré, sans distance.
 - **[Lune sextile Pluton en synastrie](/astrology/moon-sextile-pluto-synastry/) :** une invitation à descendre, faite en douceur.
 - **[Lune carré Pluton en synastrie](/astrology/moon-square-pluto-synastry/) :** la sécurité et le changement qui se heurtent aux moments malcommodes.
-- **[Lune trigone Pluton en synastrie](/astrology/moon-trine-pluto-synastry/) :** la profondeur et le ressenti qui avancent ensemble, sans peine.
+- **[Lune trigone Pluton en synastrie](/astrology/moon-trine-pluto-synastry/) :** le ressenti et la profondeur au même pas, sans peine.
 
 Quand les deux bouts vivent dans un seul thème, [Lune opposition Pluton](/astrology/moon-opposite-pluto/) décrit une personne qui apprend à tenir à la fois la sécurité et l’intensité ; ici, deux personnes se partagent ce travail, et chacune peut prendre un moment le bout de l’autre.

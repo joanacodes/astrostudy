@@ -31,7 +31,7 @@ Lune trigone Jupiter en synastrie accorde les besoins d’une personne et l’ap
 
 ## Ce qui circule {#ce-qui-circule}
 
-La [Lune](/astrology/moon/) s’occupe du ressenti, de l’attachement et du sentiment de sécurité ; [Jupiter](/astrology/jupiter/) s’occupe du sens, de l’apprentissage, des principes et de la croissance. Un [trigone](/astrology/trine/) permet à deux fonctions de se renforcer sans qu’aucune prenne le dessus. Comme pour chacun des [aspects de synastrie](/astrology/synastry-aspects/), chaque personne porte une des fonctions : le même courant se sent depuis deux rives.
+La [Lune](/astrology/moon/) s’occupe du ressenti, de l’attachement et de ce qui rassure ; [Jupiter](/astrology/jupiter/) s’occupe du sens, de l’apprentissage, des principes et de la croissance. Un [trigone](/astrology/trine/) permet à deux fonctions de se renforcer sans qu’aucune prenne le dessus. Comme pour chacun des [aspects de synastrie](/astrology/synastry-aspects/), chaque personne porte une des fonctions : le même courant se sent depuis deux rives.
 
 Quand vous êtes du côté de la Lune, ce contact rend vos émotions plus maniables. Vous arrivez avec une inquiétude et repartez avec l’impression que la chose a une forme, une suite, une place dans une histoire plus longue, sans avoir eu droit à un sermon. Sa compagnie élargit vos réconforts sans les bousculer.
 

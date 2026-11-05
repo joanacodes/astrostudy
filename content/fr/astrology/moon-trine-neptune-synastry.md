@@ -31,7 +31,7 @@ Lune trigone Neptune en synastrie accorde, à environ 120°, la sensibilité d�
 
 ## Ce qui circule {#ce-qui-circule}
 
-La [Lune](/astrology/moon/) a besoin, ressent et cherche du réconfort ; [Neptune](/astrology/neptune/) imagine, compatit et perçoit un sens au-delà de l’évidence. Un [trigone](/astrology/trine/) les laisse se renforcer sans que l’une des deux fonctions prenne le dessus. Vu à travers les [aspects de synastrie](/astrology/synastry-aspects/), ce renfort passe entre deux personnes, et chacune le ressent de son côté.
+La [Lune](/astrology/moon/) a besoin, ressent et cherche du réconfort ; [Neptune](/astrology/neptune/) imagine, compatit et perçoit un sens au-delà de l’évidence. Un [trigone](/astrology/trine/) les laisse se renforcer sans que l’une des deux fonctions prenne le dessus. Vu à travers les [aspects de synastrie](/astrology/synastry-aspects/), ce renfort circule d’une personne à l’autre, chacune le ressentant de son côté.
 
 Si vous avez la Lune, vous rencontrez peut-être ici une douceur rare ailleurs. Vos mauvais jours n’effraient pas cette personne : elle les accueille avec patience, un film, un bain qu’elle fait couler pour vous, une histoire. Vous avez le droit d’être exactement ce que vous êtes.
 
@@ -41,19 +41,19 @@ Entre proches, ce peut être une douceur qui survit aux tensions familiales ; 
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Le risque, c’est ce qui reste tu. Comme la bonté vient si facilement, les désaccords peuvent être lissés avant d’être dits, et les besoins pratiques, l’argent, les tâches, les projets, rester dans le flou. La personne qui a la Lune peut garder un grief pour elle plutôt que gâcher l’ambiance ; celle qui a Neptune peut se représenter la relation plus tendre qu’elle ne l’est ce mois-ci. Couler n’est pas se laisser porter, et la transcendance n’est pas une fuite : un trigone aussi tendre a encore besoin de franchise pour rester vrai.
+Le risque, c’est ce qui reste tu. Comme la bonté vient si facilement, les désaccords peuvent être lissés avant d’être dits, et les besoins pratiques, l’argent, les tâches, les projets, rester dans le flou. La personne qui a la Lune peut garder un grief pour elle plutôt que gâcher l’ambiance ; celle qui a Neptune peut se représenter la relation plus tendre qu’elle ne l’est ce mois-ci. Couler n’est pas se laisser porter, et s’élever n’est pas fuir : un trigone aussi tendre a encore besoin de franchise pour rester vrai.
 
 ## Comment le vivre {#comment-le-vivre}
 
 Donnez une colonne vertébrale à la douceur. Réservez du temps aux conversations ordinaires, sans éclat, celles qui portent sur les factures, les agendas et ce que chaque personne ressent vraiment, et acceptez qu’elles soient un peu maladroites. Puis servez-vous de cette aisance exprès : un projet créatif, une manière de veiller ensemble sur d’autres personnes, un foyer vraiment reposant. Des amis peuvent se soutenir pendant les mauvaises saisons ; un couple peut faire de la tendresse une pratique plutôt qu’une humeur. Et la personne qui a Neptune peut aussi accepter qu’on prenne soin d’elle, pour que la tendresse ne coule pas dans un seul sens.
 
-Environ 1 paire de personnes sur 7 a ce trigone, dans un sens ou dans l’autre, à 6,8° près. Avec quatorze ans environ par signe, Neptune est une signature commune aux personnes du même âge ; face à cela, la Lune est la note personnelle, et ce sont le jour et l’heure de la personne qui a la Lune qui amènent les deux thèmes à ce trigone. J’ai besoin des deux heures de naissance pour savoir s’il est là, puisqu’à environ 13° par jour, la Lune peut glisser dans l’orbe ou en sortir en quelques heures, et pour voir quelles maisons il relie ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)).
+Environ 1 paire de personnes sur 7 a ce trigone, dans un sens ou dans l’autre, à 6,8° près. Avec quatorze ans environ par signe, Neptune est une signature commune aux personnes du même âge ; face à cela, la Lune est la note personnelle, et ce sont le jour et l’heure de la personne qui a la Lune qui amènent les deux thèmes à ce trigone. Les deux heures de naissance sont nécessaires pour savoir s’il est là, puisqu’à environ 13° par jour, la Lune peut franchir le bord de l’orbe en un rien de temps, et pour voir quelles maisons il relie ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)).
 
 D’autres angles demandent davantage aux deux mêmes fonctions :
 
 - **[Lune conjonction Neptune en synastrie](/astrology/moon-conjunct-neptune-synastry/) :** un seul courant tendre, où l’on ne sait plus quelle émotion appartient à qui.
 - **[Lune sextile Neptune en synastrie](/astrology/moon-sextile-neptune-synastry/) :** l’imagination offerte au ressenti, qui attend d’être saisie.
-- **[Lune carré Neptune en synastrie](/astrology/moon-square-neptune-synastry/) :** le soin imaginé et le soin attendu qui frottent l’un contre l’autre.
-- **[Lune opposition Neptune en synastrie](/astrology/moon-opposite-neptune-synastry/) :** le quotidien et l’idéal de part et d’autre de la relation.
+- **[Lune carré Neptune en synastrie](/astrology/moon-square-neptune-synastry/) :** un besoin concret et une réponse imaginée, qui frottent.
+- **[Lune opposition Neptune en synastrie](/astrology/moon-opposite-neptune-synastry/) :** l’ordinaire et l’idéal, chacun d’un côté de la relation.
 
 Quand un seul thème porte [Lune trigone Neptune](/astrology/moon-trine-neptune/), la douceur est un don personnel ; entre deux thèmes, elle devient un climat que deux personnes partagent, et entretiennent.

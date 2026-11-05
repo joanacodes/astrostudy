@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/moon", "/astrology/pluto", "/astrology/sextile", "/astrology/moon-sextile-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Lune sextile Pluton en synastrie ?"
-    a: "Le sextile relie ici Pluton, chez une personne, et la Lune de l’autre, à 60° environ, à 4,8° près. La personne qui a Pluton peut aider l’autre à regarder ses émotions en face et à lâcher ce qui ne l’aide plus, et celle qui a la Lune lui offre un endroit sûr où être intense. Cela marche quand les deux choisissent de s’en servir."
+    a: "Le sextile relie ici la Lune d’une personne et Pluton dans le thème de l’autre, à 60° environ, à 4,8° près. La personne qui a Pluton peut aider l’autre à regarder ses émotions en face et à lâcher ce qui ne l’aide plus, et celle qui a la Lune lui offre un endroit sûr où être intense. Cela marche quand les deux choisissent de s’en servir."
   - q: "Lune sextile Pluton, est-ce un aspect puissant entre deux personnes ?"
     a: "C’est un aspect discret. La profondeur est là, mais un sextile propose au lieu de pousser : ce contact domine rarement. Sa force se voit dans des moments précis, la conversation franche qui a dégagé l’air, le soutien pendant un changement difficile."
   - q: "Comment bien utiliser Lune sextile Pluton ?"

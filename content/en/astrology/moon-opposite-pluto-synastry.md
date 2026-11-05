@@ -26,7 +26,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the opposition, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 8°" }
 ---
-Moon opposite Pluto in synastry sets one person's need for safety directly across from the other's drive to transform. One end of the line is a harbour, the other deep water, and each person tends to stand at one of them, looking at the other with fascination, and sometimes with alarm.
+Moon opposite Pluto in synastry sets one person's need for safety directly across from the other's drive to transform. One end of the line is a harbour, the other deep water, and each of the two usually stands at one of them, looking at the other with fascination, and sometimes with alarm.
 
 ## What flows {#what-flows}
 

@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 96
 glyph: "☽☌♇"
-definition: "Lune conjonction Pluton en synastrie : Pluton d’une personne à moins de 8° de la Lune de l’autre. La profondeur et l’élan de transformation de l’une atteignent les émotions et les besoins de l’autre : peu de choses restent en surface. J’y lis un contact de changement profond et de confiance, jamais le pouvoir de l’une sur l’autre."
+definition: "Lune conjonction Pluton en synastrie : Pluton d’une personne à moins de 8° de la Lune de l’autre. La profondeur et l’élan de transformation de l’une atteignent ce que l’autre ressent et ce dont elle a besoin : peu de choses restent en surface. J’y lis un contact de changement profond et de confiance, jamais le pouvoir de l’une sur l’autre."
 facts:
   - { k: "Corps", v: "La Lune ☽ d’une personne, Pluton ♇ chez l’autre" }
   - { k: "Aspect", v: "Conjonction ☌, 0°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/moon", "/astrology/pluto", "/astrology/conjunction", "/astrology/moon-conjunct-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Lune conjonction Pluton en synastrie ?"
-    a: "Moins de 8° séparent Pluton, chez une personne, de la Lune de l’autre. L’intensité et l’envie de transformer de la première se posent sur les émotions de la seconde : le lien devient vite profond et change les deux personnes. Il demande une confiance construite avec le temps, et un pouvoir partagé plutôt que détenu."
+    a: "Moins de 8° séparent Pluton, chez une personne, de la Lune de l’autre. L’intensité et l’envie de transformer de la première atteignent les émotions de la seconde : le lien devient vite profond et change les deux personnes. Il demande une confiance construite avec le temps, et un pouvoir partagé plutôt que détenu."
   - q: "Lune conjonction Pluton, est-ce un aspect toxique ou de contrôle ?"
     a: "Aucun contact n’est toxique en soi, et Pluton décrit la transformation et le pouvoir d’agir, pas la domination. Cette conjonction rend bien les émotions intenses, et l’intensité peut basculer dans le contrôle si personne ne la nomme. Parler ouvertement des besoins, de l’intimité et des décisions garde cette profondeur saine."
   - q: "Lune conjonction Pluton, pourquoi tant d’intensité ?"
@@ -41,7 +41,7 @@ Ce qui circule, c’est la profondeur : des amis qui se confient tout, un coupl
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Sur un même degré, deux intensités se mêlent, et on ne sait plus toujours quelle émotion mène. La personne qui a Pluton peut se mettre à gérer la vie émotionnelle de l’autre, à décider de ce qui doit changer ; celle qui a la Lune peut s’accrocher au lien comme à l’endroit où elle se sent le plus réelle. La jalousie et le secret poussent là où la confiance n’est pas encore construite. Transformer n’est pas détruire, et prendre son pouvoir n’est pas dominer : la profondeur est le cadeau, et le contrôle est ce qu’elle devient quand personne ne prononce le mot pouvoir.
+Quand deux intensités partagent un degré, on ne sait plus toujours quelle émotion mène. La personne qui a Pluton peut se mettre à gérer la vie émotionnelle de l’autre, à décider de ce qui doit changer ; celle qui a la Lune peut s’accrocher au lien comme à l’endroit où elle se sent le plus réelle. La jalousie et le secret poussent là où la confiance n’est pas encore construite. Transformer n’est pas détruire, et prendre son pouvoir n’est pas dominer : la profondeur est le cadeau, et le contrôle est ce qu’elle devient quand personne ne prononce le mot pouvoir.
 
 ## Comment le vivre {#comment-le-vivre}
 
@@ -56,4 +56,4 @@ Avec de la distance, les deux mêmes fonctions travaillent autrement :
 - **[Lune trigone Pluton en synastrie](/astrology/moon-trine-pluto-synastry/) :** une profondeur que les deux peuvent porter sans grand effort.
 - **[Lune opposition Pluton en synastrie](/astrology/moon-opposite-pluto-synastry/) :** la sécurité à un bout, l’intensité à l’autre.
 
-Dans un seul thème, [Lune conjonction Pluton](/astrology/moon-conjunct-pluto/) décrit les émotions d’une personne vécues à pleine profondeur ; ici, deux personnes se rencontrent à cette profondeur, et chacune garde le droit de remonter. Comme ce contact touche ce que l’on garde de plus intime, je ne m’y penche que si les deux ont choisi la lecture ([Synastrie et consentement](/blog/synastry-behind-their-back/)).
+Portée par une seule personne, [Lune conjonction Pluton](/astrology/moon-conjunct-pluto/) décrit les émotions d’une personne vécues à pleine profondeur ; ici, deux personnes se rencontrent à cette profondeur, et chacune garde le droit de remonter. Comme ce contact touche ce que l’on garde de plus intime, je ne m’y penche que si les deux ont choisi la lecture ([Synastrie et consentement](/blog/synastry-behind-their-back/)).

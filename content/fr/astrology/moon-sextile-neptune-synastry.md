@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/moon", "/astrology/neptune", "/astrology/sextile", "/astrology/moon-sextile-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Lune sextile Neptune en synastrie ?"
-    a: "Entre Neptune, chez une personne, et la Lune de l’autre, il y a un sextile d’environ 60°, à 4,8° près. L’imagination de la première donne souvent aux humeurs de la seconde une forme partageable, de la musique, des images, une promenade au bord de l’eau, et les émotions de la seconde donnent une raison à cette imagination. Cela grandit quand les deux s’en saisissent."
+    a: "Neptune, dans un thème, fait un sextile d’environ 60° avec la Lune de l’autre thème, à 4,8° près. L’imagination de la première donne souvent aux humeurs de la seconde une forme partageable, de la musique, des images, une promenade au bord de l’eau, et les émotions de la seconde donnent une raison à cette imagination. Cela grandit quand les deux s’en saisissent."
   - q: "Lune sextile Neptune, est-ce un aspect romantique ?"
     a: "Il peut colorer une histoire d’amour, et il fonctionne tout aussi bien entre amis, entre proches ou entre partenaires de création. Neptune parle d’imagination et de compassion, pas de romantisme en soi. Ce que ce sextile offre à toute paire, c’est une façon douce de comprendre la vie intérieure de l’autre."
   - q: "Lune sextile Neptune, pourquoi cette impression de flou ?"
@@ -47,7 +47,7 @@ Le cadeau d’un sextile peut rester dans son papier. La personne qui a Neptune 
 
 Créez quelque chose ensemble. Une liste de morceaux partagée, un album de photos, un jardin, un rituel de cuisine : tout ce qui donne une forme à l’imagination et une place aux émotions. La personne qui a la Lune peut formuler simplement ce qui la réconforterait ; celle qui a Neptune peut en faire quelque chose de beau, puis vérifier que c’est toujours ce qui était demandé. Un couple peut garder une habitude créative ; une famille peut entretenir une tradition d’histoires racontées ; des collègues peuvent mettre de l’imagination dans la façon dont une équipe prend soin d’elle-même.
 
-Environ 1 paire de personnes sur 10 a ce sextile, dans un sens ou dans l’autre, à 4,8° près. Le côté Neptune est un bien commun, puisque Neptune reste quelque quatorze ans dans chaque signe ; le côté Lune est une affaire de jours et d’heures, et c’est lui qui vous appartient, à vous deux. Avec un orbe de moins de 5°, les 13° environ que la Lune parcourt chaque jour tranchent en quelques heures ; quant aux maisons, où l’imagination rencontre le ressenti dans chaque vie, elles demandent aussi les deux heures de naissance ([pourquoi j’attends l’heure](/blog/unknown-birth-time/#pourquoi-j-attends-l-heure)).
+Environ 1 paire de personnes sur 10 a ce sextile, dans un sens ou dans l’autre, à 4,8° près. Le côté Neptune est un bien commun, puisque Neptune reste quelque quatorze ans dans chaque signe ; le côté Lune est une affaire de jours et d’heures, et c’est lui qui vous appartient, à vous deux. L’orbe ne dépassant pas 4,8°, les 13° environ que la Lune parcourt chaque jour tranchent en quelques heures ; quant aux maisons, où l’imagination rencontre le ressenti dans chaque vie, elles demandent aussi les deux heures de naissance ([pourquoi j’attends l’heure](/blog/unknown-birth-time/#pourquoi-j-attends-l-heure)).
 
 Changez l’angle, et l’imagination rencontre le ressenti autrement :
 

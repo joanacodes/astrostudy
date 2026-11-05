@@ -30,7 +30,7 @@ Moon square Pluto in synastry sets a quarter-circle between one person's need to
 
 ## What flows {#what-flows}
 
-In my reading the [Moon](/astrology/moon/) is the part that needs security, attachment and familiar comfort; [Pluto](/astrology/pluto/) is the part that transforms, lets go of the obsolete and reclaims its own power. A [square](/astrology/square/) puts them in friction, and the friction is productive: each pushes the other to change shape. And in [synastry aspects](/astrology/synastry-aspects/) that involve Pluto, the question of power is never far away.
+For me the [Moon](/astrology/moon/) is the part that needs security, attachment and familiar comfort; [Pluto](/astrology/pluto/) is the part that transforms, lets go of the obsolete and reclaims its own power. A [square](/astrology/square/) puts them in friction, and the friction is productive: each pushes the other to change shape. And in [synastry aspects](/astrology/synastry-aspects/) that involve Pluto, the question of power is never far away.
 
 Carrying the Moon, you may feel this person won't let you hide. They notice the habit that isn't helping, the comfort that has turned into avoidance, and they say so. It can be bracing, sometimes too much; it can also be the push that gets you out of a rut you'd stopped seeing.
 

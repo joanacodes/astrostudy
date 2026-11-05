@@ -2,7 +2,7 @@
 title: "Soleil en Taureau, Lune en Scorpion"
 slug: "soleil-en-taureau-lune-en-scorpion"
 h1: "Soleil en Taureau, Lune en Scorpion dans un thème natal"
-description: "Soleil en Taureau, Lune en Scorpion : deux signes fixes opposés, l’exaltation de la Lune face à sa chute, près de la pleine lune. Calme dehors, profondeur dedans."
+description: "Soleil en Taureau, Lune en Scorpion : signes fixes opposés, exaltation de la Lune face à sa chute, près de la pleine lune. Calme dehors, profondeur dedans."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -19,9 +19,9 @@ facts:
 related: ["/astrology/sun-in-taurus", "/astrology/moon-in-scorpio", "/astrology/full-moon-in-scorpio", "/astrology/sun-opposite-moon", "/astrology/pluto"]
 faq:
   - q: "Le Soleil en Taureau avec la Lune en Scorpion, est-ce la pleine lune en Scorpion ?"
-    a: "Tout près. Chaque pleine lune du mois du Taureau est une pleine lune en Scorpion, et un Soleil en Taureau avec une Lune en Scorpion veut dire des luminaires proches de l’opposition. Certaines de ces naissances tombent dans les derniers jours gibbeux qui précèdent cette pleine lune, les autres dans les jours qui la suivent, à parts égales."
+    a: "Tout près. Chaque pleine lune du mois du Taureau est une pleine lune en Scorpion, et ce duo veut dire des luminaires proches de l’opposition. Ces naissances se partagent à parts égales entre les derniers jours gibbeux qui précèdent cette pleine lune et les jours qui la suivent."
   - q: "Que veulent dire l’exaltation et la chute de la Lune pour le Soleil en Taureau et la Lune en Scorpion ?"
-    a: "Ce sont les deux bouts d’un même axe. Le Taureau, signe de votre Soleil, est là où la tradition dit la Lune le plus à l’aise ; le Scorpion, signe de votre Lune, là où elle l’est le moins. J’y lis des émotions plus longues à apaiser que votre Soleil stable ne le laisse croire, et un Soleil qui connaît déjà les réconforts simples qui aident."
+    a: "Les deux bouts d’un même axe. Le Taureau, signe de votre Soleil, est là où la tradition dit la Lune le plus à l’aise ; le Scorpion, signe de votre Lune, là où elle l’est le moins. J’y lis des émotions plus longues à apaiser que votre Soleil ne le laisse croire, et un Soleil qui connaît les réconforts utiles."
   - q: "Comment aime un Soleil en Taureau avec une Lune en Scorpion ?"
     a: "Fidèlement et profondément. Le Soleil en Taureau montre son amour par la présence, le soin et la constance ; la Lune en Scorpion accorde sa confiance lentement, puis entièrement, et a besoin d’honnêteté autant que d’intimité. Les deux signes étant fixes, les blessures peuvent durer : dire les choses quand elles sont encore petites change beaucoup."
 sources:

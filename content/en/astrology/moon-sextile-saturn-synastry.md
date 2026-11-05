@@ -30,7 +30,7 @@ Moon sextile Saturn in synastry spaces one person's needs and the other's reliab
 
 ## What flows {#what-flows}
 
-[Saturn](/astrology/saturn/) builds what lasts: structure, responsibility, boundaries, patience. The [Moon](/astrology/moon/) looks after needs, attachment and the habits that settle a person. Joined by a [sextile](/astrology/sextile/), they cooperate on one condition: the help is real, but it waits to be used. Like the other [synastry aspects](/astrology/synastry-aspects/), it feels different depending on which end is yours.
+[Saturn](/astrology/saturn/) builds what lasts: structure, responsibility, boundaries, patience. The [Moon](/astrology/moon/) tends to needs, attachment and the habits that settle a person. Joined by a [sextile](/astrology/sextile/), they cooperate on one condition: the help is real, but it waits to be used. Like the other [synastry aspects](/astrology/synastry-aspects/), it feels different depending on which end is yours.
 
 Having the Moon here, you may notice how easy it is to rely on this person without feeling small. They don't fuss; they remember the appointment, check the tyres, keep the date you made in March. On a shaky week, knowing that is enough to settle you.
 

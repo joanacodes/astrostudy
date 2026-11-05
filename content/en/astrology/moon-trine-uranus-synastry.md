@@ -26,7 +26,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 6.8°" }
 ---
-Moon trine Uranus in synastry joins one person's need for security and the other's need for freedom at about 120°, usually across one element. In this pair, a change of plan rarely lands as a betrayal and a routine rarely lands as a cage: two needs that are so often at odds happen to be on speaking terms.
+Moon trine Uranus in synastry joins one person's need for security and the other's need for freedom at about 120°, generally in signs of a shared element. In this pair, a change of plan rarely lands as a betrayal and a routine rarely lands as a cage: two needs that are so often at odds happen to be on speaking terms.
 
 ## What flows {#what-flows}
 

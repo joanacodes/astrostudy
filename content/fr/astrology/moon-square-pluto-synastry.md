@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 98
 glyph: "☽□♇"
-definition: "Lune carré Pluton en synastrie : Pluton d’une personne à environ 90° de la Lune de l’autre, à 6,8° près. Le besoin de réconfort familier de l’une et l’élan de l’autre pour aller au fond et changer frottent l’un contre l’autre. Pour moi, c’est une friction qui peut bâtir confiance et solidité, à condition que le pouvoir se partage."
+definition: "Lune carré Pluton en synastrie : Pluton d’une personne à environ 90° de la Lune de l’autre, à 6,8° près. Le besoin de réconfort familier de l’une et l’élan de l’autre pour aller au fond et changer frottent l’un contre l’autre. J’y vois une friction capable de bâtir confiance et solidité, à condition que le pouvoir se partage."
 facts:
   - { k: "Corps", v: "La Lune ☽ d’une personne, Pluton ♇ chez l’autre" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -33,7 +33,7 @@ Lune carré Pluton en synastrie dresse un angle droit entre le besoin de sécuri
 
 La [Lune](/astrology/moon/), dans ma façon de lire, est la part qui a besoin de sécurité, d’attachement et de réconfort familier ; [Pluton](/astrology/pluto/) est la part qui transforme, lâche l’obsolète et reprend son propre pouvoir. Un [carré](/astrology/square/) les met en friction, et cette friction est productive : chacune pousse l’autre à s’adapter. Et dans les [aspects de synastrie](/astrology/synastry-aspects/) où Pluton intervient, la question du pouvoir n’est jamais loin.
 
-Du côté de la Lune, cette personne ne vous laisse peut-être pas vous cacher. Elle remarque l’habitude qui n’aide plus, le réconfort devenu évitement, et elle le dit. Cela peut être tonifiant, parfois trop ; ce peut aussi être la poussée qui vous sort d’une ornière que vous ne voyiez plus.
+Côté Lune, il se peut que cette personne ne vous laisse pas vous cacher. Elle remarque l’habitude qui n’aide plus, le réconfort devenu évitement, et elle le dit. Cela peut être tonifiant, parfois trop ; ce peut aussi être la poussée qui vous sort d’une ornière que vous ne voyiez plus.
 
 Du côté de Pluton, cette personne résiste peut-être exactement au changement dont vous voyez la nécessité. Son attachement au familier peut ressembler, de là où vous êtes, à du déni. Pourtant, son besoin de sécurité peut vous apprendre la patience, et vous rappeler qu’une transformation marche mieux invitée que forcée.
 

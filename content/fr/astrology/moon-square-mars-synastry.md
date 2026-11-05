@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 73
 glyph: "☽□♂"
-definition: "Dans Lune carré Mars en synastrie, un quart du zodiaque, à 6,8° près, sépare la Lune d’une personne et Mars, dans le thème de l’autre. Le rythme de l’une accroche sans cesse les besoins de l’autre. Pour moi, c’est une friction qui apprend à poser ses limites avant qu’on les franchisse, pas un mauvais caractère."
+definition: "Dans Lune carré Mars en synastrie, un quart du zodiaque, à 6,8° près, sépare la Lune d’une personne et Mars, dans le thème de l’autre. Le rythme de l’une accroche sans cesse les besoins de l’autre. À mes yeux, ce carré est une friction qui apprend à poser ses limites avant qu’on les franchisse, pas un mauvais caractère."
 facts:
   - { k: "Corps", v: "La Lune ☽ de l’une, Mars ♂ chez l’autre" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/moon", "/astrology/mars", "/astrology/square", "/astrology/moon-square-mars", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Lune carré Mars en synastrie ?"
-    a: "Entre votre Lune et Mars chez l’autre, ou l’inverse, il y a environ 90°, à 6,8° près. Le rythme de l’une accroche les besoins de l’autre : l’action arrive avant que les émotions se soient posées, ou les émotions freinent ce qui voulait avancer. À mes yeux, cette friction apprend aux deux à poser une limite à temps."
+    a: "Entre votre Lune et Mars chez l’autre, ou l’inverse, l’écart est d’environ 90°, à 6,8° près. Le rythme de l’une accroche les besoins de l’autre : l’action arrive avant que les émotions se soient posées, ou les émotions freinent ce qui voulait avancer. À mes yeux, cette friction apprend aux deux à poser une limite à temps."
   - q: "Lune carré Mars, est-ce un contact de disputes ?"
     a: "Pas forcément. Mars, c’est l’élan et l’affirmation, pas la colère, et un carré est une friction, pas une bagarre. Ce contact peut faire des étincelles, surtout quand l’une est fatiguée et l’autre pressée. Pris tôt et simplement, le même frottement rend souvent deux personnes très claires sur leurs limites."
   - q: "Que vit la personne Mars avec Lune carré Mars ?"
@@ -30,7 +30,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les paires qui ont ce carré, dans un sens ou dans l’autre, à 6,8° près" }
 ---
-Lune carré Mars en synastrie met deux rythmes en désaccord : l’une va vite quand l’autre a besoin de temps pour se poser. La Lune d’une personne et Mars, dans le thème de l’autre, se tiennent à angle droit, et l’élan de l’une accroche sans cesse les besoins de l’autre.
+Lune carré Mars en synastrie met deux rythmes en désaccord : l’une va vite quand l’autre a besoin de temps pour se poser. La Lune d’une personne et Mars, dans le thème de l’autre, se tiennent à angle droit, et l’élan de l’une accroche sans cesse ce dont l’autre a besoin.
 
 ## Ce qui circule {#ce-qui-circule}
 

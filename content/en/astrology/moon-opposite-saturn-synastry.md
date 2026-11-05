@@ -17,7 +17,7 @@ facts:
 related: ["/astrology/moon", "/astrology/saturn", "/astrology/opposition", "/astrology/moon-opposite-saturn", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Moon opposite Saturn mean in synastry?"
-    a: "One person’s Saturn sits across the zodiac from the other’s Moon, within 8°. Often the Moon person ends up voicing the pair’s needs and feelings, the Saturn person its limits, plans and caution. Each makes the other’s end easier to see, and the work is keeping both ends in motion."
+    a: "One person’s Saturn and the other’s Moon stand at opposite ends of the zodiac, within 8°. Often the Moon person ends up voicing the pair’s needs and feelings, the Saturn person its limits, plans and caution. Each makes the other’s end easier to see, and the work is keeping both ends in motion."
   - q: "Does Moon opposite Saturn mean one person controls the other?"
     a: "Not in itself. Two ends of one axis make a polarity rather than a power struggle, and Saturn is structure, not control. It can slide that way when the roles freeze, with one person always deciding and the other always needing. Swapping tasks and naming both people’s needs keeps it a balance."
   - q: "Is Moon opposite Saturn harder than the square?"
@@ -27,7 +27,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 8°" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "Saturn among the placements that held most often, in single charts" }
 ---
-In Moon opposite Saturn in synastry, one person's needs and the other's sense of limits sit on opposite sides of the circle. One tends to hold the feelings, the other holds the line, and the pair moves like a seesaw: when one side drops into need, the other rises into caution.
+In Moon opposite Saturn in synastry, what one person needs and where the other draws limits sit on opposite sides of the circle. One tends to hold the feelings, the other holds the line, and the pair moves like a seesaw: when one side drops into need, the other rises into caution.
 
 ## What flows {#what-flows}
 

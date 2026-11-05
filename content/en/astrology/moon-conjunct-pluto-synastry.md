@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 96
 glyph: "☽☌♇"
-definition: "Moon conjunct Pluto in synastry means one person’s Pluto sits within 8° of the other’s Moon. One person’s depth and drive to transform land right on the other’s feelings and needs, so little stays on the surface. To me it’s a contact of deep change and trust, never one person’s power over the other."
+definition: "Moon conjunct Pluto in synastry means one person’s Pluto sits within 8° of the other’s Moon. One person’s depth and drive to transform reach straight into the other’s feelings and needs, so little stays on the surface. To me it’s a contact of deep change and trust, never one person’s power over the other."
 facts:
   - { k: "Bodies", v: "One person’s Moon ☽, the other’s Pluto ♇" }
   - { k: "Aspect", v: "Conjunction ☌, 0°" }
@@ -40,7 +40,7 @@ What flows is depth: friends who trust each other with everything, a couple who 
 
 ## Where it rubs {#where-it-rubs}
 
-On one degree, two intensities merge, and it can be hard to tell whose feeling is driving. The Pluto person may start managing the Moon person's emotional life, deciding what needs to change; the Moon person may cling to the bond as the place where they feel most real. Jealousy and secrecy can grow where trust hasn't been built yet. Transformation is not destruction and empowerment is not domination: depth is the gift here, and control is what it turns into when nobody says the word power aloud.
+Sharing a degree, two intensities merge, and it can be hard to tell whose feeling is driving. The Pluto person may start managing the Moon person's emotional life, deciding what needs to change; the Moon person may cling to the bond as the place where they feel most real. Jealousy and secrecy can grow where trust hasn't been built yet. Transformation is not destruction and empowerment is not domination: depth is the gift here, and control is what it turns into when nobody says the word power aloud.
 
 ## How to meet it {#how-to-meet-it}
 
@@ -48,7 +48,7 @@ Build trust slowly and on purpose. Talk about power plainly: who decides what, w
 
 About 1 pair of people in 11 has this conjunction, one way round or the other, within 8°. Pluto's stay in a sign runs from 12 to 31 years, so the Pluto person shares its sign with a long run of births; the conjunction becomes personal only where the other's Moon lands on it. At roughly 13° a day, the Moon arrives on that degree or misses it within a few hours of birth, and both times are needed for the houses it falls in ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-With distance between them, the same two functions work differently:
+Further apart, depth and feeling work differently:
 
 - **[Moon sextile Pluto in synastry](/astrology/moon-sextile-pluto-synastry/):** an invitation to go deeper, taken up when both are ready.
 - **[Moon square Pluto in synastry](/astrology/moon-square-pluto-synastry/):** the need for safety and the push for change, crossing.

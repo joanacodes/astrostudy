@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6,8° près" }
 ---
-Lune trigone Uranus en synastrie réunit ce qui rassure une personne et ce qui libère l’autre, à environ 120°, le plus souvent dans des signes qui partagent un élément. Dans cette paire, un changement de programme tombe rarement comme une trahison, et une habitude rarement comme une cage : deux besoins si souvent en désaccord se trouvent ici en bons termes.
+Lune trigone Uranus en synastrie réunit ce qui rassure une personne et ce qui libère l’autre, à environ 120°, d’ordinaire dans des signes qui partagent un élément. Dans cette paire, un changement de programme tombe rarement comme une trahison, et une habitude rarement comme une cage : deux besoins si souvent en désaccord se trouvent ici en bons termes.
 
 ## Ce qui circule {#ce-qui-circule}
 
