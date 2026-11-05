@@ -31,7 +31,7 @@ Lune trigone Saturne en synastrie réunit les besoins d’une personne et la con
 
 ## Ce qui circule {#ce-qui-circule}
 
-La [Lune](/astrology/moon/) donne à un thème ses besoins, ses attachements et sa manière de retrouver le calme ; [Saturne](/astrology/saturn/) lui donne des cadres : la patience, la responsabilité, des limites qui durent. Dans un [trigone](/astrology/trine/), deux fonctions s’aident sans se bousculer. Lu comme l’un des [aspects de synastrie](/astrology/synastry-aspects/), ce soutien passe entre deux personnes, et chacune le connaît sous un angle différent.
+La [Lune](/astrology/moon/) donne à un thème ses besoins, ses attachements et sa manière de retrouver le calme ; [Saturne](/astrology/saturn/) lui donne des cadres : la patience, la responsabilité, des limites qui durent. Dans un [trigone](/astrology/trine/), deux fonctions s’aident sans se bousculer. Vu comme l’un des [aspects de synastrie](/astrology/synastry-aspects/), le trigone fait passer ce soutien d’une personne à l’autre, et chacune le connaît sous un angle différent.
 
 Côté Lune, vous pouvez éprouver une émotion devant cette personne sans que cela tourne à l’urgence. Elle ne s’affole pas, ne fait pas la leçon, ne se précipite pas pour réparer : elle reste, et c’est cette présence qui vous apaise. Vos besoins commencent à ressembler à des choses raisonnables à avoir, avec une place dans la semaine plutôt qu’une crise à gérer.
 
