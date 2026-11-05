@@ -31,7 +31,7 @@ Ask the right person how they manage something hard, and you may get the most us
 
 ## What flows {#what-flows}
 
-[Mercury](/astrology/mercury/) is the part of a person that learns, links ideas and puts them into words. [Chiron](/astrology/chiron/) stands for a limitation or a tender place that stays, and for the adaptations someone builds around it, which in time they can pass on. A [sextile](/astrology/sextile/) relates the two through opportunity and cooperation, and like each of the [synastry aspects](/astrology/synastry-aspects/), it gives one function to each person.
+[Mercury](/astrology/mercury/) is the part of a person that learns, links ideas and puts them into words. [Chiron](/astrology/chiron/) stands for a limitation or a tender place that stays, and for the adaptations someone builds around it, which in time they can pass on. A [sextile](/astrology/sextile/) relates the two through opportunity and cooperation, and as one of the [synastry aspects](/astrology/synastry-aspects/) it splits them between two people: one brings the questions, the other the know-how.
 
 Carrying the Mercury, you find you can ask this person how they do things, and get a real answer rather than a brave face. Their experience hands your thinking a method you wouldn't have found alone: the workaround, the shortcut, the honest "this is what helped".
 

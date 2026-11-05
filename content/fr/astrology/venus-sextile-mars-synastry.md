@@ -42,7 +42,7 @@ Deux signes les séparent en général, dans des éléments qui s’entendent. V
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Un sextile est un potentiel qui demande que quelqu’un agisse. Chacune peut attendre que l’autre fasse le premier pas, ou croire qu’une allusion suffisait, et la possibilité agréable reste une possibilité. Avec un orbe de 3,6° seulement, le contact est aussi facile à surestimer : c’est une bonne entente, pas une attraction puissante.
+Un sextile est un potentiel qui demande que quelqu’un agisse. Chacune peut attendre que l’autre fasse le premier pas, ou croire qu’une allusion suffisait, et la possibilité agréable reste une possibilité. Avec si peu de marge, 3,6°, le contact est aussi facile à surestimer : c’est une bonne entente, pas une attraction puissante.
 
 La coopération a son propre angle mort. Comme les projets viennent facilement, les vrais désaccords sur ce que chacune veut peuvent être lissés plutôt que dits, et l’harmonie n’est pas l’évitement du conflit. Les rôles peuvent aussi se figer trop tôt : l’une propose toujours, l’autre organise toujours, alors que chacune pourrait faire les deux.
 

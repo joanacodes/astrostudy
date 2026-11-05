@@ -31,7 +31,7 @@ Some pairs seem to have agreed, without a word, on what's worth doing and how to
 
 ## What flows {#what-flows}
 
-[Venus](/astrology/venus/) is what a person values and how they relate: preference, pleasure, discernment, a fair exchange. [Mars](/astrology/mars/) is what they do about it: initiative, effort, assertion, follow-through. A [trine](/astrology/trine/) keeps two functions in easy step, each strengthening the other; among the [synastry aspects](/astrology/synastry-aspects/), that ease runs from one person to the other and back.
+[Venus](/astrology/venus/) is what a person values and how they relate: preference, pleasure, discernment, a fair exchange. [Mars](/astrology/mars/) is what they do about it: initiative, effort, assertion, follow-through. A [trine](/astrology/trine/) keeps two functions in easy step, each strengthening the other; among the [synastry aspects](/astrology/synastry-aspects/), that ease is shared out between two people.
 
 When the Venus is yours, the things you care about tend to get done, often before you ask. You feel valued in deeds rather than speeches, and your appreciation lands well: the other person can tell exactly what you liked.
 

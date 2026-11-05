@@ -33,9 +33,9 @@ Frank talk without the aftershock: that is how I'd sum up Mercury trine Lilith i
 
 [Mercury](/astrology/mercury/) carries a person's thinking into speech: curiosity, judgement, the exchange of ideas. [Black Moon Lilith](/astrology/black-moon-lilith/), the Moon's apogee, is read symbolically as untamed instinct, as authenticity, as material someone set aside, and as the line they draw for themselves; it means different things in different traditions, and I read it as a symbol. A [trine](/astrology/trine/) lets two functions reinforce each other through flow, and in the [synastry aspects](/astrology/synastry-aspects/) that flow runs between two people.
 
-On the Mercury side, you hear the other's unconventional or private truths without flinching, and find them interesting rather than alarming. Your own thinking grows more candid in their company, and you may become the first person they tell things to.
+Holding Mercury here, you hear the other's unconventional or private truths without flinching, and find them interesting rather than alarming. Your own thinking grows more candid in their company, and you may become the first person they tell things to.
 
-On the Lilith side, you can say what you usually keep back, and it lands as you meant it. No need to soften it into something acceptable, no need to brace for the old look of disapproval; your refusals are heard as information, not as a mood.
+Holding Lilith, you can say what you usually keep back, and it lands as you meant it. No need to soften it into something acceptable, no need to brace for the old look of disapproval; your refusals are heard as information, not as a mood.
 
 Usually the two sit in one element. One person's Mercury in Capricorn with the other's Lilith in Taurus: a plain, structured mind meets someone who was taught to keep quiet about their own pace and what they value, and talk about what each of you actually wants comes without apology. At work, these are two colleagues who can say "this isn't working" to each other with no fallout; in a family, the relative who never seemed shocked.
 

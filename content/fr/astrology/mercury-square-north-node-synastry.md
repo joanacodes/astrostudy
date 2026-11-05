@@ -33,9 +33,9 @@ sources:
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Mercure](/astrology/mercury/) règle la manière de questionner, de comparer et de débattre. Le [Nœud Nord](/astrology/north-node/) est la direction dans laquelle quelqu’un grandit, moins familière et renforcée par la pratique ; le [Nœud Sud](/astrology/south-node/), juste en face, est le terrain où cette personne se tient déjà. Un [carré](/astrology/square/) place deux fonctions à angle droit, si bien que la friction les oblige à s’adapter, et dans les [aspects de synastrie](/astrology/synastry-aspects/), chaque bout appartient à une personne différente.
+[Mercure](/astrology/mercury/) règle la manière de questionner, de comparer et de débattre. Le [Nœud Nord](/astrology/north-node/) est la direction dans laquelle quelqu’un grandit, moins familière et renforcée par la pratique ; le [Nœud Sud](/astrology/south-node/), juste en face, est le terrain où cette personne se tient déjà. Un [carré](/astrology/square/) dispose deux fonctions en équerre, si bien que la friction les oblige à s’adapter, et dans les [aspects de synastrie](/astrology/synastry-aspects/), chaque bout appartient à une personne différente.
 
-Ce qu’elle rend possible, c’est un sens plus net de la direction. Une direction qu’il faut expliquer à quelqu’un qui ne la tient pas pour acquise devient plus claire ; la personne du nœud apprend à dire pourquoi elle veut ce qu’elle veut, et à le mettre à l’épreuve. La personne de Mercure, de son côté, apprend que demander vaut mieux que conseiller.
+Ce que cette friction rend possible, c’est un sens plus net de la direction. Une direction qu’il faut expliquer à quelqu’un qui ne la tient pas pour acquise devient plus claire ; la personne du nœud apprend à dire pourquoi elle veut ce qu’elle veut, et à le mettre à l’épreuve. La personne de Mercure, de son côté, apprend que demander vaut mieux que conseiller.
 
 Du côté de Mercure, vos idées arrivent de biais. Elles ne vont pas avec la vieille routine de l’autre, ni avec son nouveau projet, si bien qu’elles rencontrent une résistance des deux bouts, et vous vous demandez pourquoi votre apport ne prend jamais.
 

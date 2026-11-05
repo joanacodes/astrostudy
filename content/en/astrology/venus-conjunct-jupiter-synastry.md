@@ -31,11 +31,11 @@ Around certain people you allow yourself more: more pleasure, more plans, more o
 
 ## What flows {#what-flows}
 
-[Venus](/astrology/venus/) is how a person values and relates: what they enjoy, what attracts them, how they keep an exchange fair. [Jupiter](/astrology/jupiter/) is how they grow: the search for meaning, the wider view, the principles and beliefs that make room for more. A [conjunction](/astrology/conjunction/) joins two functions in one place; among the [synastry aspects](/astrology/synastry-aspects/) the place is shared, the taste coming from one person and the growth from the other.
+[Venus](/astrology/venus/) covers what a person enjoys and finds worth having, and how they keep an exchange fair. [Jupiter](/astrology/jupiter/) is how they grow: the search for meaning, the wider view, the principles and beliefs that make room for more. A [conjunction](/astrology/conjunction/) fuses two functions into one point; among the [synastry aspects](/astrology/synastry-aspects/) the place is shared, the taste coming from one person and the growth from the other.
 
-With the Venus on your side, your pleasures get taken seriously and widened. A favourite place becomes a trip, a taste becomes a subject, and what you love is met with encouragement rather than shrugs. You may find you allow yourself more.
+Holding the Venus, you find your pleasures taken seriously and widened. A favourite place becomes a trip, a taste becomes a subject, and what you love is met with encouragement rather than shrugs. You may find you allow yourself more.
 
-With the Jupiter on your side, your outlook finds someone who enjoys it. Your plans, your beliefs and your open-handedness land where they are appreciated, and that appreciation makes you want to give and share more.
+Holding the Jupiter, you find your outlook enjoyed. Your plans, your beliefs and your open-handedness land where they are appreciated, and that appreciation makes you want to give and share more.
 
 Tradition gave both planets the name of [benefics](/astrology/benefics-and-malefics/), the ones that bring good things; I read their meeting as generosity of taste and outlook, never as luck. With one person's Venus and the other's Jupiter both in Cancer, where tradition exalts Jupiter, a love of home and care meets a protective, expansive warmth, and hospitality simply grows: more guests, longer dinners. Between friends this is the one who introduces you to whole new worlds; at work, a mentor whose belief in your taste lets it become a skill.
 
@@ -45,15 +45,15 @@ Taste and growth in one place can blur into "more". Two people who keep encourag
 
 There is also the question of whose enthusiasm is whose: the Jupiter person's beliefs can start to define what the Venus person enjoys, or the Venus person's preferences can become the other's cause. The other angles keep the two at more distance:
 
-- **[Venus sextile Jupiter in synastry](/astrology/venus-sextile-jupiter-synastry/):** two signs apart, doors opened when someone says yes.
-- **[Venus square Jupiter in synastry](/astrology/venus-square-jupiter-synastry/):** a quarter circle apart, generosity that has to learn its size.
-- **[Venus trine Jupiter in synastry](/astrology/venus-trine-jupiter-synastry/):** a third of the circle apart, goodwill that flows unasked.
-- **[Venus opposite Jupiter in synastry](/astrology/venus-opposite-jupiter-synastry/):** facing each other, pleasure close at hand and meaning far off.
+- **[Venus sextile Jupiter in synastry](/astrology/venus-sextile-jupiter-synastry/):** two signs on, doors opened when someone says yes.
+- **[Venus square Jupiter in synastry](/astrology/venus-square-jupiter-synastry/):** three signs on, generosity that has to learn its size.
+- **[Venus trine Jupiter in synastry](/astrology/venus-trine-jupiter-synastry/):** four signs on, goodwill that flows unasked.
+- **[Venus opposite Jupiter in synastry](/astrology/venus-opposite-jupiter-synastry/):** six signs on, face to face: savouring here, seeking there.
 
 ## How to meet it {#how-to-meet-it}
 
-Ask "is this enough?" as often as "why not more?". The Venus person can keep choosing, out loud, what they actually want; the Jupiter person can promise what they will still want to give next month. In a couple, that might mean one generous plan at a time; between a parent and an adult child, letting encouragement come without strings; in a team, pairing the person with the vision and the person with the taste on purpose.
+Ask "is this enough?" as often as "why not more?". The Venus person can keep choosing, out loud, what they actually want; the Jupiter person can promise what they will still want to give next month. In a couple, that might mean one generous plan at a time; with a parent and their grown-up child, encouragement that comes without strings; in a team, pairing the person with the vision and the person with the taste on purpose.
 
-About 1 pair of people in 15 has this conjunction, one way round or the other, within 6°. Jupiter spends about a year in each sign, so the Jupiter person's birth year sets where it is; whether a Venus reaches it depends mostly on the other's time of year, since Venus never strays more than about 47° from the Sun. The hour of birth changes Venus by little more than a degree, but the houses where the generosity lands need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
+About 1 pair of people in 15 has this conjunction, one way round or the other, within 6°. Jupiter spends about a year in each sign, so the Jupiter person's birth year sets where it is; whether a Venus reaches it depends mostly on the other's time of year, since Venus always stays within about 47° of the Sun. The hour of birth changes Venus by little more than a degree, but the houses where the generosity lands need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Inside one chart, [Venus conjunct Jupiter](/astrology/venus-conjunct-jupiter/) belongs to one person whose taste and growth widen together. Between two charts the widening is shared, and so is the job of knowing when to stop.

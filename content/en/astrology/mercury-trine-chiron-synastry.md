@@ -31,7 +31,7 @@ Why is it so easy to talk to certain people about the thing you rarely mention? 
 
 ## What flows {#what-flows}
 
-[Mercury](/astrology/mercury/) is the function that interprets and communicates: reading a situation, choosing words, trading ideas. [Chiron](/astrology/chiron/) is what a person adapts around, a constraint that stays, and the competence they grow in response to it. A [trine](/astrology/trine/) relates two functions through flow, each reinforcing the other, and in the language of [synastry aspects](/astrology/synastry-aspects/) the flow runs from one person to the other and back.
+[Mercury](/astrology/mercury/) is the function that interprets and communicates: reading a situation, choosing words, trading ideas. [Chiron](/astrology/chiron/) is what a person adapts around, a constraint that stays, and the competence they grow in response to it. A [trine](/astrology/trine/) relates two functions through flow, each reinforcing the other, and of all the [synastry aspects](/astrology/synastry-aspects/) it is the one where help passes most freely between two people.
 
 From the Mercury side, the other person's workaround makes sense to you at once. You don't need it explained twice, you can find words for it that they recognise, and you often learn a great deal from them without either of you calling it teaching.
 
@@ -45,7 +45,7 @@ The ease can hide things. When understanding arrives this quickly, the subject m
 
 Flow is not passivity, as I read the trine. It still takes two people to keep the understanding accurate, and the pair's other angles show the alternatives:
 
-- **[Mercury conjunct Chiron in synastry](/astrology/mercury-conjunct-chiron-synastry/):** the words land on the tender place itself, and nothing about it stays unspoken.
+- **[Mercury conjunct Chiron in synastry](/astrology/mercury-conjunct-chiron-synastry/):** the remark arrives right on the sore spot, and nothing about it stays unspoken.
 - **[Mercury sextile Chiron in synastry](/astrology/mercury-sextile-chiron-synastry/):** a smaller opening, used when one of you asks for the other's know-how.
 - **[Mercury square Chiron in synastry](/astrology/mercury-square-chiron-synastry/):** remarks snag on the sore spot, and a shared vocabulary has to be built.
 - **[Mercury opposite Chiron in synastry](/astrology/mercury-opposite-chiron-synastry/):** a sign further, and the subject sits between them like a table, seen whole from each side.

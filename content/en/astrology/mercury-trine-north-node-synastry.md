@@ -48,7 +48,7 @@ There is also the question of who it serves. The words flow from Mercury to the 
 
 Each other angle gives the Mercury person's words a different job:
 
-- **[Mercury conjunct North Node in synastry](/astrology/mercury-conjunct-north-node-synastry/):** the angle closes, and the words sit on the path itself, stretching harder.
+- **[Mercury conjunct North Node in synastry](/astrology/mercury-conjunct-north-node-synastry/):** drawn into a conjunction, the words sit on the path itself and stretch harder.
 - **[Mercury sextile North Node in synastry](/astrology/mercury-sextile-north-node-synastry/):** the reverse arrangement, sextile to growth, trine to the familiar.
 - **[Mercury square North Node in synastry](/astrology/mercury-square-north-node-synastry/):** a sign back, a mind that questions both ends before it helps either.
 - **[Mercury opposite North Node in synastry](/astrology/mercury-opposite-north-node-synastry/):** a sign further, conversation rooted in the old ground and slow to move.

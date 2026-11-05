@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 173
 glyph: "♀□♃"
-definition: "Vénus carré Jupiter en synastrie signifie que Vénus, chez une personne, se trouve à environ 90° de Jupiter chez l’autre, à 5,1° près. Le goût de l’une et son sens de l’assez rencontrent l’envie de l’autre d’aller plus loin. J’y lis une friction qui apprend la mesure et les promesses tenables, jamais un conflit de valeurs."
+definition: "Vénus carré Jupiter en synastrie signifie que Vénus, chez une personne, se trouve à environ 90° de Jupiter chez l’autre, à 5,1° près. Le goût de l’une et son sens de l’assez rencontrent l’envie de l’autre d’aller plus loin. Pour moi, c’est une friction qui apprend la mesure et les promesses tenables, jamais un conflit de valeurs."
 facts:
   - { k: "Corps", v: "Vénus ♀ de l’une, Jupiter ♃ de l’autre" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -46,7 +46,7 @@ Du côté de Jupiter, le goût de l’autre peut ressembler à un frein. Vous ap
 
 Au travail, ce sont la vision et le design qui se disputent l’ampleur d’un projet ; en famille, un parent généreux dont les cadeaux ne vont pas au goût de son enfant adulte ; entre amis, un week-end qui ne cesse de grossir ; en couple, des projets qui débordent du temps et de l’énergie de chacune. Rien de tout cela n’est un échec, seulement un désaccord sur la taille, et les autres angles de la paire montrent d’autres possibles :
 
-- **[Vénus conjonction Jupiter en synastrie](/astrology/venus-conjunct-jupiter-synastry/) :** l’angle se referme, et le goût et la croissance disent oui ensemble.
+- **[Vénus conjonction Jupiter en synastrie](/astrology/venus-conjunct-jupiter-synastry/) :** refermez l’angle, et le goût et la croissance disent oui ensemble.
 - **[Vénus sextile Jupiter en synastrie](/astrology/venus-sextile-jupiter-synastry/) :** un signe plus près, des invitations offertes plutôt qu’imposées.
 - **[Vénus trigone Jupiter en synastrie](/astrology/venus-trine-jupiter-synastry/) :** un signe plus loin, dans un même élément, une bienveillance qui discute rarement.
 - **[Vénus opposition Jupiter en synastrie](/astrology/venus-opposite-jupiter-synastry/) :** l’angle s’ouvre, et la question devient le proche contre le lointain.
@@ -55,6 +55,6 @@ Au travail, ce sont la vision et le design qui se disputent l’ampleur d’un p
 
 Dimensionnez les choses ensemble, avant que quiconque s’engage. La personne de Jupiter peut demander ce qui ravirait plutôt que ce qui impressionnerait ; celle de Vénus peut accepter un peu de croissance, et nommer le point où « plus » cesse d’être agréable. Promettez moins, et tenez-le. En équipe, fixez le budget avant le remue-méninges ; entre proches, demandez avant le grand geste.
 
-Environ 1 paire de personnes sur 9 a ce carré, dans un sens ou dans l’autre, à 5,1° près. Je le propose comme un schéma à confronter à ce que vous faites vraiment, jamais comme une prévision ([ma méthode](/how-i-read/)). Vénus parcourt environ un degré par jour et Jupiter une fraction de degré : l’heure ne décide du carré qu’au bord de l’orbe, mais les maisons où se joue ce débat sur la taille demandent les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Environ 1 paire de personnes sur 9 a ce carré, dans un sens ou dans l’autre, à 5,1° près. Je le propose comme un schéma à confronter à ce que vous faites vraiment, jamais comme une prévision ([ma méthode](/how-i-read/)). Vénus parcourt environ un degré par jour et Jupiter une fraction de degré : l’heure ne touche le carré qu’à la limite de son orbe, alors que les maisons où se joue ce débat sur la taille demandent les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Dans un seul thème, [Vénus carré Jupiter](/astrology/venus-square-jupiter/) décrit une personne qui dimensionne sa propre générosité. Entre deux thèmes, ce dimensionnement devient une conversation, et la promesse faite à quelqu’un d’autre est celle qui doit le mieux tomber juste.

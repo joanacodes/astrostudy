@@ -32,7 +32,7 @@ Pourquoi est-il si facile de parler à certaines personnes de ce que vous évoqu
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Mercure](/astrology/mercury/) est la fonction qui interprète et communique : lire une situation, choisir ses mots, échanger des idées. [Chiron](/astrology/chiron/) est ce autour de quoi une personne s’adapte, une contrainte qui reste, et la compétence qu’elle fait pousser en réponse. Un [trigone](/astrology/trine/) relie deux fonctions par un courant où chacune renforce l’autre, et dans la langue des [aspects de synastrie](/astrology/synastry-aspects/), ce courant va d’une personne à l’autre, et revient.
+[Mercure](/astrology/mercury/) est la fonction qui interprète et communique : lire une situation, choisir ses mots, échanger des idées. [Chiron](/astrology/chiron/) est ce autour de quoi une personne s’adapte, une contrainte qui reste, et la compétence qu’elle fait pousser en réponse. Un [trigone](/astrology/trine/) relie deux fonctions par un courant où chacune renforce l’autre, et de tous les [aspects de synastrie](/astrology/synastry-aspects/), c’est celui où l’aide passe le plus librement entre deux personnes.
 
 Du côté de Mercure, le détour de l’autre vous paraît évident tout de suite. Inutile de vous l’expliquer deux fois : vous trouvez pour lui des mots que l’autre reconnaît, et vous apprenez souvent beaucoup à son contact sans que personne n’appelle cela un enseignement.
 
@@ -46,7 +46,7 @@ L’aisance peut cacher des choses. Quand la compréhension arrive si vite, le s
 
 Dans ma lecture du trigone, le courant n’est pas la passivité. Il faut toujours deux personnes pour que la compréhension reste juste, et les autres angles de la paire montrent les autres possibilités :
 
-- **[Mercure conjonction Chiron en synastrie](/astrology/mercury-conjunct-chiron-synastry/) :** les mots tombent sur l’endroit sensible lui-même, et rien n’en reste tu.
+- **[Mercure conjonction Chiron en synastrie](/astrology/mercury-conjunct-chiron-synastry/) :** la remarque arrive droit sur le point sensible, et rien n’en reste tu.
 - **[Mercure sextile Chiron en synastrie](/astrology/mercury-sextile-chiron-synastry/) :** une ouverture plus petite, utilisée quand l’une demande le savoir-faire de l’autre.
 - **[Mercure carré Chiron en synastrie](/astrology/mercury-square-chiron-synastry/) :** les remarques butent sur le point sensible, et un vocabulaire commun reste à bâtir.
 - **[Mercure opposition Chiron en synastrie](/astrology/mercury-opposite-chiron-synastry/) :** un signe plus loin, et le sujet se tient entre les deux comme une table, vu en entier de chaque côté.

@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 170
 glyph: "♀☍♂"
-definition: "Venus opposite Mars in synastry means one person’s Venus is about 180° from the other’s Mars, within 6°. One person’s way of choosing and relating faces the other’s way of going after things, and each sees in the other what they don’t do themselves. I read it as a pull between complementary styles, best when roles can swap."
+definition: "Venus opposite Mars in synastry means one person’s Venus is about 180° from the other’s Mars, within 6°. One person’s way of choosing and relating faces the other’s way of going after things, and each spots in the other what they don’t do themselves. I read it as a pull between complementary styles, best when roles can swap."
 facts:
   - { k: "Bodies", v: "One person’s Venus ♀, the other’s Mars ♂" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -22,7 +22,7 @@ faq:
   - q: "Why is Venus opposite Mars rare in a birth chart but common in synastry?"
     a: "In one chart, Venus stays within about 47° of the Sun, so Mars must be far round the sky to face it, which makes the opposition rare: about 1 person in 87. Between two charts the planets come from two different skies, so about 1 pair of people in 15 has it."
   - q: "Is Venus opposite Mars a difficult aspect in synastry?"
-    a: "It is a seesaw, not a battle. The friction comes when the roles freeze, one person always pursuing and the other always choosing or accommodating. Taking turns at each end usually turns the contrast into a working balance, whether the partnership is in love, in business or in friendship."
+    a: "It is a seesaw, not a battle. The friction comes when the roles freeze, one person always pursuing and the other always choosing or accommodating. Swapping ends from time to time tends to make the contrast a working balance, whether the partnership is in love, in business or in friendship."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the opposition, 180°, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs have it within 6°, and how many people are born with it" }

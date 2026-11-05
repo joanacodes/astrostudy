@@ -1,7 +1,7 @@
 ---
 title: "Venus trine Jupiter in synastry"
 h1: "Venus trine Jupiter between two charts"
-description: "Venus trine Jupiter in synastry: easy goodwill between two people, praise that lands and plans both enjoy. Both sides, what the ease hides, how common."
+description: "Venus trine Jupiter in synastry: easy goodwill between two people, praise that lands and plans both enjoy. Each side, the catch, and how often it occurs."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -31,7 +31,7 @@ Encouragement that lands, compliments that happen to be true, plans that both pe
 
 ## What flows {#what-flows}
 
-[Venus](/astrology/venus/) is how a person appreciates: taste, pleasure, affection, the balance of give and take. [Jupiter](/astrology/jupiter/) is how they widen: meaning, principles, hope, the room they make for more. A [trine](/astrology/trine/) lets two functions flow into each other, and in the [synastry aspects](/astrology/synastry-aspects/) the flow passes from one person's taste to the other's outlook and back.
+[Venus](/astrology/venus/) stands for appreciation: taste, pleasure, affection, the balance of give and take. [Jupiter](/astrology/jupiter/) is how they widen: meaning, principles, hope, the room they make for more. A [trine](/astrology/trine/) lets two functions flow into each other; between two charts, the current passes from one person's taste to the other's outlook and back ([synastry aspects](/astrology/synastry-aspects/)).
 
 From the Venus side, you feel appreciated in a way that widens you. The other person's view of the world suits what you love, and what they believe in turns out to be something you enjoy: their causes, their travels, their way of seeing the best in people.
 
@@ -47,7 +47,7 @@ Ease also invites drift. Plans stay in the enjoyable talking stage; the Jupiter 
 
 - **[Venus conjunct Jupiter in synastry](/astrology/venus-conjunct-jupiter-synastry/):** taste and growth in one place, generosity at its loudest.
 - **[Venus sextile Jupiter in synastry](/astrology/venus-sextile-jupiter-synastry/):** two signs nearer, doors that open only when someone says yes.
-- **[Venus square Jupiter in synastry](/astrology/venus-square-jupiter-synastry/):** a sign nearer and out of element, where the pair must agree on size.
+- **[Venus square Jupiter in synastry](/astrology/venus-square-jupiter-synastry/):** one sign back, in a clashing element, where size must be agreed.
 - **[Venus opposite Jupiter in synastry](/astrology/venus-opposite-jupiter-synastry/):** a sign further, pleasure and meaning facing each other.
 
 ## How to meet it {#how-to-meet-it}
@@ -56,4 +56,4 @@ Keep praise specific and feedback honest; a trine can carry a hard truth more ea
 
 About 1 pair of people in 9 has this trine, one way round or the other, within 5.1°. Jupiter moves only a fraction of a degree in a day and Venus about one, so the hour of birth barely affects the trine; the houses, where in each life this goodwill shows, depend on both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Someone born with [Venus trine Jupiter](/astrology/venus-trine-jupiter/) carries this warmth in one chart. Between two, it is shared, and a contact this pleasant tempts people to look it up about someone else; I'd rather read it with both of you ([synastry and consent](/blog/synastry-behind-their-back/)).
+A single chart with [Venus trine Jupiter](/astrology/venus-trine-jupiter/) carries this warmth for one person. Between two, it is shared, and a contact this pleasant tempts people to look it up about someone else; I'd rather read it with both of you ([synastry and consent](/blog/synastry-behind-their-back/)).

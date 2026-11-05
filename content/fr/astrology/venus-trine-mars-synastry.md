@@ -32,7 +32,7 @@ Certaines paires semblent s’être mises d’accord, sans un mot, sur ce qui va
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Vénus](/astrology/venus/) est ce qu’une personne estime et sa façon de se lier : la préférence, le plaisir, le discernement, l’échange équitable. [Mars](/astrology/mars/) est ce que cette personne en fait : l’initiative, l’effort, l’affirmation, la persévérance. Un [trigone](/astrology/trine/) garde deux fonctions au même pas, chacune renforçant l’autre ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), cette aisance va d’une personne à l’autre, et revient.
+[Vénus](/astrology/venus/) est ce qu’une personne estime et la manière dont elle s’attache : le discernement, le plaisir, l’échange équitable. [Mars](/astrology/mars/) est ce que cette personne en fait : l’initiative, l’effort, l’affirmation, la persévérance. Un [trigone](/astrology/trine/) garde deux fonctions au même pas, chacune renforçant l’autre ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), cette aisance va d’une personne à l’autre, et revient.
 
 Quand Vénus est de votre côté, ce qui compte pour vous a tendance à se faire, souvent avant que vous le demandiez. On vous montre de la valeur par des actes plutôt que par des discours, et votre reconnaissance porte : l’autre sait exactement ce qui vous a plu.
 

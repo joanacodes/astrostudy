@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mercury", "/astrology/north-node", "/astrology/south-node", "/astrology/mercury-opposite-north-node", "/astrology/nodes-in-synastry"]
 faq:
   - q: "What does Mercury opposite North Node mean in synastry?"
-    a: "One person’s Mercury sits about 180° from the other’s North Node, which places it on their South Node. The Mercury person’s way of thinking and talking lands on the node person’s familiar ground, so conversation feels easy and well known. It can steady both people, or keep them talking about the past."
+    a: "One person’s Mercury sits about 180° from the other’s North Node, which places it on their South Node. How the Mercury person thinks and talks lands on the node person’s familiar ground, so conversation feels easy and well known. It can steady both people, or keep them talking about the past."
   - q: "Is Mercury opposite North Node a past-life connection?"
     a: "Some astrologers read South Node contacts that way. I read them as familiarity: the Mercury person speaks a language the node person already knows well. That ease is real and pleasant, and it says nothing about destiny; about 1 pair of people in 15 has this contact, one way round or the other."
   - q: "Does Mercury opposite North Node hold someone back?"

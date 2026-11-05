@@ -38,9 +38,9 @@ De tous les contacts entre deux thèmes, c’est celui sur lequel on m’interro
 
 Si Vénus est de votre côté, l’énergie de l’autre va droit à ce qui compte pour vous. Votre enthousiasme ne reste pas longtemps un enthousiasme : l’autre s’en saisit et agit, et vous avez l’impression qu’on vous prend au sérieux, ou qu’on vous emporte.
 
-Si Mars est de votre côté, votre effort trouve un public qui s’en réjouit. Ce que vous lancez, l’autre l’apprécie ; là où vous poussez, l’autre est content ou contente que vous l’ayez fait. Cette estime motive, et donne de l’audace.
+Si Mars est de votre côté, votre effort trouve un public qui s’en réjouit. Ce que vous lancez, l’autre l’apprécie ; là où vous poussez, l’autre est content ou contente que vous l’ayez fait. Cette estime motive et enhardit.
 
-Qui porte quoi n’a rien à voir avec le genre : je ne lis pas Vénus comme féminine ni Mars comme masculin, et dans toute paire, chacune peut tenir l’un ou l’autre. Avec Vénus de l’une et Mars de l’autre en Capricorne, signe où la tradition exalte Mars, la personne de Vénus apprécie la fiabilité et l’effort au long cours, et celle de Mars montre son intérêt en travaillant avec constance : l’affection arrive sous forme d’aide concrète. En amitié, c’est « tu adores l’idée, je réserve » ; au travail, un élan qui tombe pile sur ce que vous jugez digne d’être fait ; en famille, la sœur ou le frère qui court avec votre enthousiasme.
+Qui porte quoi n’a rien à voir avec le genre : je ne lis ni Vénus comme une affaire de féminité, ni Mars comme une affaire de masculinité, et dans toute paire, chacune peut tenir l’une ou l’autre planète. Avec Vénus de l’une et Mars de l’autre en Capricorne, signe où la tradition exalte Mars, la personne de Vénus apprécie la fiabilité et l’effort au long cours, et celle de Mars montre son intérêt en travaillant avec constance : l’affection arrive sous forme d’aide concrète. En amitié, c’est « tu adores l’idée, je réserve » ; au travail, un élan qui tombe pile sur ce que vous jugez digne d’être fait ; en famille, le frère ou la sœur qui s’empare de votre enthousiasme et court avec.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
@@ -49,13 +49,13 @@ Quand le goût et l’élan occupent le même endroit, on ne sait plus très bie
 Les deux mêmes fonctions, à d’autres angles, gardent plus de distance :
 
 - **[Vénus sextile Mars en synastrie](/astrology/venus-sextile-mars-synastry/) :** le goût et l’élan coopèrent par invitations, saisies ou laissées.
-- **[Vénus carré Mars en synastrie](/astrology/venus-square-mars-synastry/) :** les valeurs de l’une et la manière d’agir de l’autre frottent, et les termes se négocient.
+- **[Vénus carré Mars en synastrie](/astrology/venus-square-mars-synastry/) :** les valeurs de l’une et l’élan de l’autre frottent, et les termes se négocient.
 - **[Vénus trigone Mars en synastrie](/astrology/venus-trine-mars-synastry/) :** les deux avancent au même pas dans un même élément, avec peu à discuter.
 - **[Vénus opposition Mars en synastrie](/astrology/venus-opposite-mars-synastry/) :** le goût et l’élan se font face, chacun montrant à l’autre ce qu’il ne fait pas.
 
 ## Comment le vivre {#comment-le-vivre}
 
-Dites le oui et le non à voix haute. Ce que la personne de Vénus veut vraiment sert ici de gouvernail ; le rôle de celle de Mars est de demander avant d’agir, et d’entendre « pas encore » comme une information. Les débuts lents aident : un premier projet cadré à deux au travail, une amitié qui grandit sur plusieurs projets plutôt qu’un seul, un couple qui laisse l’intérêt se poser avant de décider.
+Dites le oui et le non à voix haute. Ce que veut vraiment la personne de Vénus sert ici de gouvernail ; celle de Mars demande avant d’agir, et entend « pas encore » comme une information. Les débuts lents aident : un premier projet cadré à deux au travail, une amitié qui grandit sur plusieurs projets, un couple qui laisse l’intérêt se poser avant de décider.
 
 Environ 1 paire de personnes sur 15 a cette conjonction, dans un sens ou dans l’autre, à 6° près : bien trop pour qu’elle signale quoi que ce soit de rare. Vénus parcourt environ un degré par jour, un peu plus au plus vite, et Mars moins : l’heure fait ou défait rarement le contact, mais les maisons où il tombe exigent les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

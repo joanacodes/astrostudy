@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 173
 glyph: "♀□♃"
-definition: "Venus square Jupiter in synastry means one person’s Venus is about 90° from the other’s Jupiter, within 5.1°. One person’s taste and sense of what’s enough keep meeting the other’s urge for more, bigger and further. I read it as friction that teaches two people proportion and honest promises, never as a clash of values."
+definition: "Venus square Jupiter in synastry means one person’s Venus is about 90° from the other’s Jupiter, within 5.1°. One person’s taste and sense of what’s enough keep meeting the other’s urge for more, bigger and further. To me it’s friction that teaches two people proportion and honest promises, never a clash of values."
 facts:
   - { k: "Bodies", v: "One person’s Venus ♀, the other’s Jupiter ♃" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -45,7 +45,7 @@ With the Jupiter, the other's taste can feel like a brake. You bring a vision an
 
 At work this is the visionary and the designer arguing over scope; in families, a generous parent whose gifts don't fit an adult child's taste; between friends, a weekend away that keeps growing; in a couple, plans that outgrow the time and energy either has. None of it is failure, only a disagreement about size, and the pair's other angles show alternatives:
 
-- **[Venus conjunct Jupiter in synastry](/astrology/venus-conjunct-jupiter-synastry/):** the angle closes, and taste and growth say yes together.
+- **[Venus conjunct Jupiter in synastry](/astrology/venus-conjunct-jupiter-synastry/):** close the angle, and taste and growth say yes together.
 - **[Venus sextile Jupiter in synastry](/astrology/venus-sextile-jupiter-synastry/):** a sign nearer, invitations offered rather than pressed.
 - **[Venus trine Jupiter in synastry](/astrology/venus-trine-jupiter-synastry/):** a sign further, in one element, with goodwill that rarely argues.
 - **[Venus opposite Jupiter in synastry](/astrology/venus-opposite-jupiter-synastry/):** the angle opens, and the question becomes near against far.
@@ -54,6 +54,6 @@ At work this is the visionary and the designer arguing over scope; in families, 
 
 Size things together, before anyone commits. The Jupiter person can ask what would delight rather than what would impress; the Venus person can say yes to some growth, and name the point where more stops being pleasant. Promise less, and deliver it. In a team, agree the budget before the brainstorm; between relatives, ask before the big gesture.
 
-About 1 pair of people in 9 has this square, one way round or the other, within 5.1°. I offer it as a pattern to test against what the two of you actually do, never as a forecast ([how I read](/how-i-read/)). Venus covers about a degree a day and Jupiter a fraction of one, so the hour of birth decides the square only at the edge of the orb; the houses where the argument about size takes place need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
+About 1 pair of people in 9 has this square, one way round or the other, within 5.1°. I offer it as a pattern to test against what the two of you actually do, never as a forecast ([how I read](/how-i-read/)). Venus travels about a degree in a day and Jupiter a fraction of one, so the time of day affects the square only at the edge of its orb; the houses where the argument about size takes place need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Inside one chart, [Venus square Jupiter](/astrology/venus-square-jupiter/) is a single person sizing their own generosity. Between two charts the sizing becomes a conversation, and a promise made to someone else is the one that most needs to fit.

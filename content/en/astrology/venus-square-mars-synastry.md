@@ -48,7 +48,7 @@ At work this is the quality-minded colleague and the deadline-driven one; in fam
 
 - **[Venus conjunct Mars in synastry](/astrology/venus-conjunct-mars-synastry/):** the angle closes, and taste and drive land in the same spot at once.
 - **[Venus sextile Mars in synastry](/astrology/venus-sextile-mars-synastry/):** a sign nearer, and suggestions become easy invitations.
-- **[Venus trine Mars in synastry](/astrology/venus-trine-mars-synastry/):** a sign further, into one element, where the two rarely need to bargain.
+- **[Venus trine Mars in synastry](/astrology/venus-trine-mars-synastry/):** one more sign along, inside a single element, where the two rarely need to bargain.
 - **[Venus opposite Mars in synastry](/astrology/venus-opposite-mars-synastry/):** the angle opens wide, and the snag over timing turns into a question of roles.
 
 ## How to meet it {#how-to-meet-it}
