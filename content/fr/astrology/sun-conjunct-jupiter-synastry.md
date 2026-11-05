@@ -36,13 +36,13 @@ Le [Soleil](/astrology/sun/) est le soi vers lequel une personne grandit : l’
 
 Si c’est votre Soleil, l’autre voit en vous plus que vous n’y voyez vous-même. Cette personne prend vos projets au sérieux, propose la marche suivante et se réjouit visiblement quand vous grandissez ; à ses côtés, vous tentez davantage que vous ne le feriez sans elle. Si c’est votre Jupiter, l’autre donne une direction à votre générosité. L’encourager a du sens, lui transmettre ce que vous savez est un plaisir, et sa croissance entre dans votre propre idée de ce à quoi sert une vie.
 
-Le signe commun donne le ton. Jupiter en Gémeaux sur un Soleil en Gémeaux : un encouragement qui arrive en livres, en questions, en présentations. Jupiter en Capricorne sur un Soleil en Capricorne : un soutien patient pour les ambitions de longue haleine.
+Le signe commun donne le ton. Jupiter en Lion sur un Soleil en Lion : un encouragement chaleureux, public, généreux en compliments. Jupiter en Vierge sur un Soleil en Vierge : une croissance par le savoir-faire, offerte en aide concrète.
 
 Un mentorat, un grand-parent et un petit-enfant adulte, une amitié où une personne dit toujours à l’autre « tu pourrais le faire », un couple qui se rend plus courageux : toutes ces paires peuvent l’avoir.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Ce qui se mêle ici, c’est une vision et une personne. L’image que la personne de Jupiter se fait de ce que l’autre pourrait devenir peut dépasser ce que l’autre est, et l’encouragement tourne, presque sans bruit, en plan pour la vie de quelqu’un d’autre. La personne du Soleil risque d’emprunter la foi de l’autre au lieu de bâtir la sienne, et de perdre de vue quelles ambitions lui appartiennent. Dans ma lecture de Jupiter, la sagesse n’est pas la certitude, et l’expansion n’est pas l’excès : croire en quelqu’un oblige encore à l’écouter.
+Une vision et une personne finissent ici par se mêler. L’image que la personne de Jupiter se fait de ce que l’autre pourrait devenir peut dépasser ce que l’autre est, et l’encouragement tourne, presque sans bruit, en plan pour la vie de quelqu’un d’autre. La personne du Soleil risque d’emprunter la foi de l’autre au lieu de bâtir la sienne, et de perdre de vue quelles ambitions lui appartiennent. Dans ma lecture de Jupiter, la sagesse n’est pas la certitude, et l’expansion n’est pas l’excès : croire en quelqu’un oblige encore à l’écouter.
 
 Ouvrez l’angle, et la croissance rejoint le soi par d’autres chemins :
 

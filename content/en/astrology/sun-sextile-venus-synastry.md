@@ -20,8 +20,8 @@ related: ["/astrology/sun", "/astrology/venus", "/astrology/sextile", "/astrolog
 faq:
   - q: "What does Sun sextile Venus mean in synastry?"
     a: "One person’s Venus sits about 60° from the other’s Sun. The Venus person’s taste keeps offering the Sun person pleasures and openings, and the Sun person gives that taste something to enjoy. I read it as friendly, easy liking, which deepens when both people take it up rather than keeping it polite."
-  - q: "Why can’t Sun sextile Venus happen in one birth chart?"
-    a: "Because Venus never gets more than about 47° from the Sun in anyone’s chart, and a sextile needs 60°. Between two people it’s common: about 1 pair in 10 has it, one way round or the other, usually with birthdays about two months apart."
+  - q: "Is Sun sextile Venus ever found in one person’s chart?"
+    a: "No. Venus never gets more than about 47° from the Sun in anyone’s chart, and a sextile needs 60°. Between two people it’s common: about 1 pair in 10 has it, one way round or the other, usually with birthdays about two months apart."
   - q: "Is Sun sextile Venus a friendship aspect?"
     a: "It suits friendship well, with its shared pleasures and easy invitations, but it can appear in any pair: partners, relatives, colleagues. Like every sextile, it offers rather than decides, and it shows how two people enjoy each other, not where the relationship goes."
 sources:

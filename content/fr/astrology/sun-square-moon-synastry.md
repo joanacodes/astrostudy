@@ -22,7 +22,7 @@ faq:
     a: "Le Soleil d’une personne se trouve à environ 90° de la Lune de l’autre, à trois signes. Ce que vise la première et ce dont la seconde a besoin arrivent au même moment avec des demandes différentes. L’aspect décrit une friction entre deux rythmes, et une friction s’apprend ; il ne dit pas que deux personnes ne vont pas ensemble."
   - q: "Soleil carré Lune est-il mauvais en synastrie ?"
     a: "Aucun aspect n’est mauvais dans ma lecture, et celui-ci compte parmi les plus courants : environ 1 paire de personnes sur 7 l’a, dans un sens ou dans l’autre. Il décrit un décalage de rythme entre la direction de l’une et les besoins de l’autre. Une friction demande de s’ajuster ; elle ne prédit pas la suite d’une relation."
-  - q: "Qui ressent le plus Soleil carré Lune ?"
+  - q: "Qui remarque d’abord Soleil carré Lune ?"
     a: "La personne de la Lune peut le remarquer la première, parce qu’il touche son sentiment de sécurité : on la presse, ses besoins semblent gêner. La personne du Soleil le vit plutôt comme une résistance, des projets qui rencontrent une humeur. Aucune n’est fautive ; chacune sent un bout du même carré."
   - q: "Soleil carré Lune peut-il marcher en amitié ou au travail ?"
     a: "Oui. En amitié, il se montre souvent dans des projets à déplacer ; au travail, dans le rythme d’une personne qui rencontre le besoin de routine d’une autre. Ce qui aide est le même dans toutes les paires : dire tôt quel genre de journée vous avez, et convenir de rythmes au lieu de se disputer des moments."

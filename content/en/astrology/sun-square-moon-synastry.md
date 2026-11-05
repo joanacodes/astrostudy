@@ -21,7 +21,7 @@ faq:
     a: "One person’s Sun sits about 90° from the other’s Moon, usually three signs apart. What the Sun person is aiming for and what the Moon person needs keep arriving at the same moment with different requests. It describes friction between two rhythms, and friction can be learned from; it doesn’t say that two people don’t belong together."
   - q: "Is Sun square Moon bad in synastry?"
     a: "No aspect is bad as I read it, and this one is among the commonest: about 1 pair of people in 7 has it, one way round or the other. It describes a difference in timing between one person’s direction and the other’s needs. Friction asks for adjustment; it doesn’t predict how a relationship goes."
-  - q: "Who feels Sun square Moon more?"
+  - q: "Which person notices Sun square Moon first?"
     a: "The Moon person may notice it first, because it touches their sense of safety: they can feel rushed, or that their needs are in the way. The Sun person tends to feel it as resistance, plans meeting a mood. Neither is at fault; each is feeling one end of the same square."
   - q: "Can Sun square Moon work between friends or coworkers?"
     a: "Yes. Between friends, it tends to show as plans that need moving; at work, as one person’s pace meeting another’s need for routine. What helps is the same in every pair: saying early what kind of day you’re having, and agreeing on rhythms instead of competing for moments."

@@ -36,9 +36,9 @@ Le [Soleil](/astrology/sun/) fournit les buts qui organisent une vie : l’iden
 
 Les deux signes viennent souvent d’éléments complices. Jupiter en Balance avec un Soleil en Sagittaire : des possibles qui passent par les gens et les associations, pour une personne qui veut une vie large. Jupiter en Taureau avec un Soleil en Poissons : des façons concrètes de grandir, pour une personne qui vit d’imagination.
 
-Si c’est votre Soleil, l’autre élargit vos options sans prendre les commandes. Ses idées vont dans le sens où vous alliez déjà, et une conversation avec cette personne vous laisse une route de plus. Si c’est votre Jupiter, l’autre donne un usage à votre sens des possibles. Vous aimez voir une de vos idées entrer dans ses projets, et sa direction vous dit lesquelles de vos nombreuses pensées valent d’être partagées.
+Si c’est votre Soleil, l’autre élargit vos options sans prendre les commandes. Ses idées vont dans le sens où vous alliez déjà, et une conversation avec cette personne vous laisse une route de plus. Si c’est votre Jupiter, votre sens des possibles trouve enfin un usage. Vous aimez voir une de vos idées entrer dans ses projets, et sa direction vous dit lesquelles de vos nombreuses pensées valent d’être partagées.
 
-Des collègues qui se passent des pistes, une amitié où l’on se prête des livres, une sœur ou un frère aîné qui a une idée à chaque carrefour, un couple qui décide où vivre ensuite : on le trouve dans chacune de ces paires.
+Des collègues qui se passent des pistes, une amitié où l’on se prête des livres, une sœur ou un frère aîné qui a une idée à chaque carrefour, un couple qui décide où vivre ensuite : ce contact peut se trouver dans n’importe laquelle de ces relations.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
@@ -47,7 +47,7 @@ Les suggestions peuvent s’empiler. La personne de Jupiter peut proposer dix id
 Tournez le cadran, et l’encouragement change de forme :
 
 - **[Soleil conjonction Jupiter en synastrie](/astrology/sun-conjunct-jupiter-synastry/) :** Jupiter de l’une juste sur le Soleil de l’autre ; une foi en la personne entière plutôt que des idées pour le chemin.
-- **[Soleil carré Jupiter en synastrie](/astrology/sun-square-jupiter-synastry/) :** un signe plus loin ; les idées poussent vers un plan plus grand que celui que veut la personne du Soleil.
+- **[Soleil carré Jupiter en synastrie](/astrology/sun-square-jupiter-synastry/) :** trois signes d’écart ; les suggestions se durcissent en pression vers un plan plus grand que celui que veut la personne du Soleil.
 - **[Soleil trigone Jupiter en synastrie](/astrology/sun-trine-jupiter-synastry/) :** plus loin sur le cercle, dans un élément commun ; une vision partagée plutôt qu’un flot de tuyaux.
 - **[Soleil opposition Jupiter en synastrie](/astrology/sun-opposite-jupiter-synastry/) :** de l’autre côté du zodiaque ; la vision du monde de l’autre fait face à votre direction au lieu de la nourrir.
 

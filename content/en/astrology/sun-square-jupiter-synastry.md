@@ -27,13 +27,13 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the square, the aspect of 90°" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "pairs with one person’s Jupiter square the other’s Sun, within 6.8°" }
 ---
-With Sun square Jupiter between two charts, one person always seems to think the other could aim higher, or believe differently. One person's Jupiter sits about 90° from the other's Sun, and the appetite for more meets a course already set, at an angle that keeps bringing up the question of scale.
+With Sun square Jupiter between two charts, one person always seems to think the other could aim higher, or believe differently. One person's Jupiter is set a quarter of the zodiac from the other's Sun, and the appetite for more meets a course already set, at an angle that keeps bringing up the question of scale.
 
 ## What flows {#what-flows}
 
 The [Sun](/astrology/sun/) is the course a person sets: identity, purpose, the way they put themselves forward. [Jupiter](/astrology/jupiter/) reaches for more: understanding, meaning, room to grow, principles to live by. A [square](/astrology/square/) relates two functions through a friction that asks for adjustment, and in [synastry aspects](/astrology/synastry-aspects/) the friction is shared out: one person brings the direction, the other the appetite for more.
 
-Squares join signs of one mode, and that colours the debate. A Leo Jupiter with a Taurus Sun: big-hearted, expansive plans pressing on someone who builds slowly and keeps what works. A Libra Jupiter with a Capricorn Sun: principles of fairness and togetherness pressing on someone set on a long, independent climb.
+Squares join signs of one mode, and that colours the debate. A Leo Jupiter with a Taurus Sun: big-hearted, expansive plans pressing on someone who builds slowly and keeps what works. A Cancer Jupiter with a Libra Sun: principles of loyalty and family pressing on someone whose purpose is fairness to all.
 
 The friction is productive in both directions. The Sun person's aims get larger and better examined, because someone keeps asking what they're really for; the Jupiter person's beliefs get tested against a real life, and come back wiser, or at least more modest. As I read Jupiter, beliefs are not dogmatism, and this square is where that gets checked.
 
@@ -47,13 +47,13 @@ The pair's other angles, set beside this one:
 
 - **[Sun conjunct Jupiter in synastry](/astrology/sun-conjunct-jupiter-synastry/):** Jupiter on the Sun; belief in the whole person, with no angle to argue across.
 - **[Sun sextile Jupiter in synastry](/astrology/sun-sextile-jupiter-synastry/):** a sign closer; ideas offered as options instead of pressed as plans.
-- **[Sun trine Jupiter in synastry](/astrology/sun-trine-jupiter-synastry/):** at 120°, in signs that share an element; growth and direction agree on the pace.
-- **[Sun opposite Jupiter in synastry](/astrology/sun-opposite-jupiter-synastry/):** the far end; the pull towards more stands facing you, as a whole other way of seeing.
+- **[Sun trine Jupiter in synastry](/astrology/sun-trine-jupiter-synastry/):** at 120°, in signs that share an element; a common outlook instead of a contest of scale.
+- **[Sun opposite Jupiter in synastry](/astrology/sun-opposite-jupiter-synastry/):** six signs apart; a whole other way of seeing, met head-on.
 
 ## How to meet it {#how-to-meet-it}
 
 Advice only when asked, and the asking should be real: "do you want ideas, or do you want me to listen?" Agree on scale out loud before a shared project starts: how big, how fast, how far. Accept that principles can differ without either person being wrong. At work, someone with big plans and someone with careful ones can do well together once the plan has a size both have signed; in a family, a parent with strong convictions and an adult child with their own can get on better for agreeing not to convert each other.
 
-Counted within 6.8°, the square turns up in about 1 pair of people in 7, one way round or the other.
+Counted within 6.8°, the square turns up in about 1 pair of people in 7, in either direction.
 
-The hour of birth can't move Jupiter in any way that matters, and moves the Sun only a little; the houses depend on it entirely, and they show where the pressure to grow is felt. There's no synastry without both times ([what changes without a birth time](/blog/unknown-birth-time/)). Born with [Sun square Jupiter](/astrology/sun-square-jupiter/), one person negotiates with their own appetite for more; between two, the appetite belongs to someone else, which makes it easier to see and harder to refuse. And since it touches how one person thinks another should live, it needs both people's yes before I look at it ([synastry and consent](/blog/synastry-behind-their-back/)).
+The hour of birth can't move Jupiter in any way that matters, and moves the Sun only a little; the houses, by contrast, rest on it completely, and they show where the pressure to grow is felt. There's no synastry without both times ([what changes without a birth time](/blog/unknown-birth-time/)). Born with [Sun square Jupiter](/astrology/sun-square-jupiter/), one person negotiates with their own appetite for more; between two, the appetite belongs to someone else, which makes it easier to see and harder to refuse. And since it touches how one person thinks another should live, it needs both people's yes before I look at it ([synastry and consent](/blog/synastry-behind-their-back/)).

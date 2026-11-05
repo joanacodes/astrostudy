@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/sun", "/astrology/mars", "/astrology/opposition", "/astrology/sun-opposite-mars", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Soleil opposition Mars en synastrie ?"
-    a: "Mars, chez une personne, se trouve à environ 180° du Soleil de l’autre, dans le signe opposé. L’élan de la première fait face au soi de la seconde, comme un partenaire d’entraînement : il défie, il stimule, il provoque parfois. J’y lis une polarité qui rend les deux plus fortes quand elles se tournent ensemble vers l’extérieur."
+    a: "Mars, chez une personne, se trouve à environ 180° du Soleil de l’autre, dans le signe opposé. L’élan de la première fait face au soi de la seconde, comme un partenaire d’entraînement qui défie, stimule et provoque parfois. J’y lis une polarité qui rend les deux plus fortes quand elles se tournent ensemble vers l’extérieur."
   - q: "Soleil opposition Mars, est-ce un signe de rivalité ?"
     a: "Cela peut ressembler à une rivalité, mais la compétition n’est pas l’hostilité, et une opposition est une bascule plutôt qu’une guerre. Les paires qui ont ce contact peuvent beaucoup se mettre à l’épreuve, et cette mise à l’épreuve peut être une forme de respect. Ce qui compte, c’est que le concours ait des règles et un camp commun."
   - q: "Pourquoi trouve-t-on Soleil opposition Mars si rarement dans un thème, et si souvent en synastrie ?"
@@ -34,7 +34,7 @@ Dans un seul thème natal, le Soleil et Mars ne se font presque jamais face : e
 
 Le [Soleil](/astrology/sun/) est le centre d’où une personne agit : l’identité, le but, la vitalité. [Mars](/astrology/mars/), c’est l’affirmation et l’élan, la force qu’on apporte à une tâche ou à un concours. Une [opposition](/astrology/opposition/) met deux fonctions face à face à travers le zodiaque et leur demande de s’équilibrer ; parmi les [aspects de synastrie](/astrology/synastry-aspects/) de cette paire, aucun ne ressemble davantage à un concours, ni n’en est moins un.
 
-Les signes se font face dans le même mode. Mars en Lion face à un Soleil en Verseau : un élan chaleureux et entier, face à une personne dont le but dépasse sa propre personne. Mars en Balance face à un Soleil en Bélier : un effort qui pèse et négocie, face à une personne qui veut passer la première.
+Les signes se font face dans le même mode. Mars en Lion face à un Soleil en Verseau : un élan chaleureux et entier, face à une personne dont le but dépasse sa propre personne. Mars en Vierge face à un Soleil en Poissons : un effort précis et concret, face à une personne qui avance à l’intuition.
 
 Si c’est votre Soleil, vous rencontrez chez l’autre une force dont vous ne vous servez pas vous-même, ou pas ainsi : sa poussée, son goût de la compétition, sa façon de dire non. La côtoyer peut vous fortifier, comme le fait un bon adversaire, et parfois donner l’impression qu’on pousse contre vous.
 

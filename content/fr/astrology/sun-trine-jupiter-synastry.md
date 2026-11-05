@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, l’aspect de 120°" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les paires où Jupiter de l’une forme un trigone avec le Soleil de l’autre, à 6,8° près" }
 ---
-Certaines personnes rendent vos projets non seulement possibles, mais sensés. Dans Soleil trigone Jupiter entre deux thèmes, Jupiter, chez l’une, se trouve à environ 120° du Soleil de l’autre, en général dans le même élément, et la vision de l’une s’accorde avec la direction de l’autre : ce en quoi l’une croit, l’autre le fait déjà.
+Certaines personnes rendent vos projets non seulement possibles, mais sensés. Quand Jupiter, chez une personne, forme un trigone avec le Soleil de l’autre, souvent entre deux signes d’un même élément, la vision de l’une s’accorde avec la direction de l’autre : ce en quoi l’une croit, l’autre le fait déjà.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -36,7 +36,7 @@ Le [Soleil](/astrology/sun/) donne à une identité sa direction : qui est une 
 
 Jupiter en Verseau avec un Soleil en Gémeaux : de grandes idées sur la façon de vivre et de travailler ensemble, pour une personne curieuse de tout. Jupiter en Vierge avec un Soleil en Taureau : une croissance par le métier et les bonnes habitudes, pour une personne qui tient à ce qui dure.
 
-Si c’est votre Soleil, la façon de voir de l’autre donne du sens à vos choix. Cette personne ne vous pousse pas à voir plus grand ; elle vous aide à comprendre pourquoi votre direction en vaut la peine, et cela vous affermit. Si c’est votre Jupiter, l’autre vit quelque chose en quoi vous croyez. L’encourager ne demande aucun effort, et son chemin donne à vos principes un exemple vivant.
+Si c’est votre Soleil, la façon de voir de l’autre donne du sens à vos choix. Cette personne ne vous pousse pas à voir plus grand ; elle vous aide à comprendre pourquoi votre direction en vaut la peine, et cela vous affermit. Du côté de Jupiter, vous regardez quelqu’un vivre ce en quoi vous croyez. L’encourager ne demande aucun effort, et son chemin donne à vos principes un exemple vivant.
 
 Une relation d’enseignement devenue amitié, des collègues qui partagent des valeurs, une sœur et un frère qui se font confiance, un couple avec une philosophie commune : le trigone donne à chacune de ces paires un même sens de ce qui vaut la peine.
 
@@ -49,7 +49,7 @@ Mesurés au trigone, les autres angles :
 - **[Soleil conjonction Jupiter en synastrie](/astrology/sun-conjunct-jupiter-synastry/) :** Jupiter sur le Soleil même ; une foi en la personne, plus proche et plus intime qu’une vision commune.
 - **[Soleil sextile Jupiter en synastrie](/astrology/sun-sextile-jupiter-synastry/) :** deux signes plus près ; des possibles offerts un à un plutôt qu’une vision du monde partagée.
 - **[Soleil carré Jupiter en synastrie](/astrology/sun-square-jupiter-synastry/) :** un signe plus près, dans des éléments qui se heurtent ; des principes et des projets à négocier.
-- **[Soleil opposition Jupiter en synastrie](/astrology/sun-opposite-jupiter-synastry/) :** deux signes plus loin ; une autre vision du monde fait face à la vôtre au lieu de l’accompagner.
+- **[Soleil opposition Jupiter en synastrie](/astrology/sun-opposite-jupiter-synastry/) :** deux signes plus loin ; une autre vision du monde vous fait face plutôt que de vous tenir compagnie.
 
 ## Comment le vivre {#comment-le-vivre}
 
@@ -57,4 +57,4 @@ Invitez une voix sceptique, quitte à vous relayer dans ce rôle : quelqu’un 
 
 Dans environ 1 paire de personnes sur 7, le trigone est là, dans un sens ou dans l’autre, à 6,8° près.
 
-Les heures de naissance comptent peu pour le trigone lui-même et beaucoup pour les maisons, qui montrent où se vit la vision commune, et je ne lis pas sans elles ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Dans un seul thème, [Soleil trigone Jupiter](/astrology/sun-trine-jupiter/) est une croissance qui marche au pas du but ; entre deux personnes, c’est une vision partagée, qui mérite d’être éprouvée de temps en temps, justement parce qu’elle est si confortable.
+Les heures de naissance comptent peu pour le trigone lui-même et beaucoup pour les maisons, qui montrent où se vit la vision commune, et je ne lis pas sans elles ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). À l’échelle d’un seul thème, [Soleil trigone Jupiter](/astrology/sun-trine-jupiter/) est une croissance qui marche au pas du but ; entre deux personnes, c’est une vision partagée, qui mérite d’être éprouvée de temps en temps, justement parce qu’elle est si confortable.

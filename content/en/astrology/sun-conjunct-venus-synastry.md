@@ -21,7 +21,7 @@ faq:
     a: "One person’s Venus sits within 8° of the other’s Sun, usually in the same sign. The Venus person tends to enjoy and value who the Sun person is, and the Sun person feels appreciated without having to earn it. I read it as warm appreciation, which stays healthy when it also allows honest dislikes."
   - q: "Is Sun conjunct Venus a sign of romantic attraction?"
     a: "Not necessarily. Venus describes valuing and liking, and attraction is not the same thing as romance: the contact belongs to friends, colleagues and relatives too. It shows how one person appreciates the other, never whether two people will fall in love or stay together."
-  - q: "How far apart are the birthdays with Sun conjunct Venus?"
+  - q: "How many weeks apart are birthdays with Sun conjunct Venus?"
     a: "Usually about a month, and rarely more than seven or eight weeks, whatever the two birth years. Within one chart Venus never strays more than about 47° from the Sun, so one person’s Venus tends to land on the other’s Sun when their birthdays are close."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the aspects he named, with the conjunction treated as a meeting" }
@@ -56,4 +56,4 @@ Let the liking include an honest dislike now and then: "I love this, and I don't
 
 About 1 pair of people in 12 has this conjunction, one way round or the other, within 8°. Since Venus keeps within about 47° of its own Sun, the two people's birthdays are usually about a month apart, and rarely more than seven or eight weeks, whatever the years.
 
-Here the birth time weighs little on the aspect itself, unless it sits right at the limit of the orb; it decides the houses, and with them the areas of life where the appreciation shows, and I give no reading without both times ([what changes without a birth time](/blog/unknown-birth-time/)). Within one chart, [Sun conjunct Venus](/astrology/sun-conjunct-venus/) puts values at the centre of a single self. Between two people the valuing comes from outside, so I read it with both of them or not at all ([synastry and consent](/blog/synastry-behind-their-back/)).
+Here the birth time weighs little on the aspect itself, unless it sits right at the limit of the orb; it decides the houses, and with them the areas of life where the appreciation shows, and I give no reading without both times ([what changes without a birth time](/blog/unknown-birth-time/)). On its own, in one chart, [Sun conjunct Venus](/astrology/sun-conjunct-venus/) puts values at the centre of a single self. Between two people the valuing comes from outside, so I read it with both of them or not at all ([synastry and consent](/blog/synastry-behind-their-back/)).

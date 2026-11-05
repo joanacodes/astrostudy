@@ -21,7 +21,7 @@ faq:
     a: "One person’s Mercury sits within 8° of the other’s Sun. The Mercury person’s way of thinking and talking lands on who the Sun person is, so conversation between them tends to feel close and quick. I read it as understanding in words, which works best when the Sun person keeps the last word on themselves."
   - q: "How far apart are the birthdays with Sun conjunct Mercury?"
     a: "Usually about a fortnight, and rarely more than a month, whatever the two birth years. Within one chart, Mercury never strays more than about 28° from the Sun, so this contact mostly links people born in the same few weeks of the calendar."
-  - q: "Who feels Sun conjunct Mercury more?"
+  - q: "How does Sun conjunct Mercury feel from each side?"
     a: "They feel different things. The Sun person feels understood, sometimes described more precisely than they could manage alone. The Mercury person feels their thinking come alive around the other, and their words taken seriously. The care falls mostly to the Mercury person: a description is not a verdict."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "his four aspects, the conjunction set apart as a meeting" }

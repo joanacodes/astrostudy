@@ -29,7 +29,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "pairs with it within 8°, and how many months separate their birthdays" }
   - { title: "NASA — Venus facts", url: "https://science.nasa.gov/venus/venus-facts/", note: "its orbit, closer to the Sun than the Earth’s" }
 ---
-Sun opposite Venus is a contact no birth chart contains: Venus never gets more than about 47° from the Sun. Between two people it's ordinary, and particular. One person's Venus faces the other's Sun across the zodiac, so what one of you values sits directly opposite who the other is.
+Sun opposite Venus is a contact no birth chart contains: Venus always stays within about 47° of the Sun. Between two people it's ordinary, and particular. One person's Venus faces the other's Sun across the zodiac, so what one of you values sits directly opposite who the other is.
 
 ## What flows {#what-flows}
 

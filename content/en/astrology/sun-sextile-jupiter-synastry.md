@@ -35,7 +35,7 @@ The [Sun](/astrology/sun/) supplies the aims that organise a life: identity, dir
 
 The two signs tend to come from friendly elements. A Libra Jupiter with a Sagittarius Sun: possibilities that come through people and partnerships, for someone who wants a wide life. A Taurus Jupiter with a Pisces Sun: down-to-earth ways of growing, for someone who lives by imagination.
 
-If it's your Sun, the other person widens your options without taking over. Their ideas fit where you're already going, and talking to them leaves you with one more road than you had. If yours is the Jupiter, the other person gives your sense of possibility a use. You enjoy watching an idea of yours become part of their plans, and their direction tells you which of your many thoughts are worth sharing.
+If it's your Sun, your options widen without anyone taking over. Their ideas fit where you're already going, and talking to them leaves you with one more road than you had. If yours is the Jupiter, your sense of possibility finally has a use. You enjoy watching an idea of yours become part of their plans, and their direction tells you which of your many thoughts are worth sharing.
 
 Colleagues who pass each other leads, friends who lend each other books, an older sibling with an idea for every crossroads, a couple deciding where to live next: the contact runs through all of them.
 
@@ -46,7 +46,7 @@ Suggestions can pile up. The Jupiter person may offer ten ideas where one would 
 Turn the dial, and the encouragement changes form:
 
 - **[Sun conjunct Jupiter in synastry](/astrology/sun-conjunct-jupiter-synastry/):** one person's Jupiter right on the other's Sun; belief in the whole person rather than ideas for the path.
-- **[Sun square Jupiter in synastry](/astrology/sun-square-jupiter-synastry/):** a sign further round; the ideas start pushing for a bigger plan than the Sun person wants.
+- **[Sun square Jupiter in synastry](/astrology/sun-square-jupiter-synastry/):** three signs apart; suggestions harden into pressure for a bigger plan than the Sun person wants.
 - **[Sun trine Jupiter in synastry](/astrology/sun-trine-jupiter-synastry/):** further round, in a shared element; a common outlook rather than a stream of tips.
 - **[Sun opposite Jupiter in synastry](/astrology/sun-opposite-jupiter-synastry/):** across the zodiac; the other person's worldview faces your direction instead of feeding it.
 
@@ -56,4 +56,4 @@ Choose one suggestion and follow it through; that does more for this contact tha
 
 One way round or the other, this sextile links about 1 pair of people in 10, within 4.8°.
 
-The sextile itself hardly depends on the hour of birth, Jupiter being so slow; the houses depend on it entirely, and they show the areas of life where the openings appear. That's reason enough for me to wait for both times ([what changes without a birth time](/blog/unknown-birth-time/)). In a single chart, [Sun sextile Jupiter](/astrology/sun-sextile-jupiter/) is a purpose that keeps finding openings by itself; between two people, the openings come with a person attached.
+The sextile itself hardly depends on the hour of birth, Jupiter being so slow; the houses depend on it entirely, and they show the areas of life where the openings appear. That's reason enough for me to wait for both times ([what changes without a birth time](/blog/unknown-birth-time/)). On its own in a birth chart, [Sun sextile Jupiter](/astrology/sun-sextile-jupiter/) is a purpose that keeps finding openings by itself; between two people, the openings come with a person attached.

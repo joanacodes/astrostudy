@@ -21,7 +21,7 @@ faq:
     a: "One person’s Sun sits about 180° from the other’s Moon, in the opposite sign. The Sun person’s direction and the Moon person’s needs face each other, so each sees clearly what the other carries. I read it as polarity, a balance two people keep finding, not a sign that they are at odds."
   - q: "Is Sun opposite Moon an attraction of opposites?"
     a: "It can feel that way: each person carries what the other tends to leave aside, and that can draw them together. But attraction is only one of the things it describes, and the contact turns up between friends, relatives and coworkers too. It shows how two people mirror each other, not whether they will stay together."
-  - q: "Which person feels Sun opposite Moon more?"
+  - q: "Which end of Sun opposite Moon is harder to hold?"
     a: "Each feels a different end. The Moon person can feel their needs made visible, sometimes more than they would like; the Sun person can feel their direction questioned by what the other needs, or drawn towards a softer side of life. The seesaw moves both ways."
   - q: "Does Sun opposite Moon mean conflict?"
     a: "No. An opposition is a seesaw, not a fight: two ends of one axis. It can set into fixed roles, one person always planning and the other always feeling, and that is where it needs care. Taking turns at both ends keeps it a balance rather than a tug of war."

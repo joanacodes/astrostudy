@@ -35,13 +35,13 @@ The [Sun](/astrology/sun/) is the self someone is growing into: identity, vitali
 
 If it's your Sun, the other person sees more in you than you see yourself. They take your plans seriously, suggest the next step up, and are visibly glad when you grow; around them, you tend to try more than you would alone. If yours is the Jupiter, the other person gives your generosity a direction. Encouraging them feels meaningful, passing on what you know is a pleasure, and their growth becomes part of your own sense of what life is for.
 
-The shared sign sets the tone. A Gemini Jupiter on a Gemini Sun: encouragement that arrives as books, questions and introductions. A Capricorn Jupiter on a Capricorn Sun: patient backing for long ambitions.
+The shared sign sets the tone. A Leo Jupiter on a Leo Sun: encouragement that's warm, public and generous with praise. A Virgo Jupiter on a Virgo Sun: growth through skill, offered as practical help.
 
 A mentor and the person they mentor, a grandparent and a grown-up grandchild, friends where one always says "you could do that", a couple who make each other braver: all of these pairs can have it.
 
 ## Where it rubs {#where-it-rubs}
 
-What blurs here is a vision and a person. The Jupiter person's picture of who the Sun person could become can outrun who they are, and encouragement turns, almost unnoticed, into a plan for someone else's life. The Sun person can start borrowing the other's faith instead of building their own, and lose track of which ambitions are theirs. As I read Jupiter, wisdom is not certainty and expansion is not excess: believing in someone still means listening to them.
+Here a vision and a person can run together. The Jupiter person's picture of who the Sun person could become can outrun who they are, and encouragement turns, almost unnoticed, into a plan for someone else's life. The Sun person may come to rely on the other's faith instead of building their own, and lose track of which ambitions are theirs. As I read Jupiter, wisdom is not certainty and expansion is not excess: believing in someone still means listening to them.
 
 Open the angle, and growth reaches the self by other routes:
 
@@ -56,4 +56,4 @@ Let the Sun person decide what to grow into; the Jupiter person's part is to off
 
 About 1 pair of people in 12 shares this conjunction, whichever of the two has the Jupiter, within 8°.
 
-Jupiter barely moves in a day, and the Sun only about a degree, so the time of birth rarely touches the conjunction; it places it in the houses, where in each life the growth happens, and both times are on my list before anything else ([what changes without a birth time](/blog/unknown-birth-time/)). In a single person's chart, [Sun conjunct Jupiter](/astrology/sun-conjunct-jupiter/) describes someone who grows by widening their own world; here someone else does the widening, which is a gift for as long as it stays an offer.
+Jupiter barely moves in a day, and the Sun only about a degree, so the time of birth rarely touches the conjunction; it places it in the houses, which say where in a life the growth takes root, and both times are on my list before anything else ([what changes without a birth time](/blog/unknown-birth-time/)). In a single person's chart, [Sun conjunct Jupiter](/astrology/sun-conjunct-jupiter/) describes someone who grows by widening their own world; here someone else does the widening, which is a gift for as long as it stays an offer.

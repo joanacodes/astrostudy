@@ -33,7 +33,7 @@ In a single birth chart, the Sun and Mars hardly ever face each other: about 1 p
 
 The [Sun](/astrology/sun/) is the centre someone acts from: identity, purpose, vitality. [Mars](/astrology/mars/) is assertion and drive, the force a person brings to a task or a contest. An [opposition](/astrology/opposition/) faces two functions across the zodiac and asks them to balance; among the [synastry aspects](/astrology/synastry-aspects/) of this pair, none looks more like a contest, and none is less of one.
 
-The signs face each other in the same mode. A Leo Mars facing an Aquarius Sun: warm, wholehearted drive, facing someone whose purpose is bigger than any one person. A Libra Mars facing an Aries Sun: effort that weighs and negotiates, facing someone who wants to go first.
+The signs face each other in the same mode. A Leo Mars facing an Aquarius Sun: warm, wholehearted drive, facing someone whose purpose is bigger than any one person. A Virgo Mars facing a Pisces Sun: precise, practical effort, facing someone who moves by intuition.
 
 If it's your Sun, you meet in the other person a force you don't use yourself, or not like that: their push, their readiness to compete, their way of saying no. Being around it can strengthen you, the way a good opponent does, and sometimes it can feel like being pushed against.
 
@@ -58,4 +58,4 @@ Put yourselves on the same side of something. A shared opponent, a shared deadli
 
 About 1 pair of people in 12 has it, one way round or the other, within 8°. Inside a single chart, Mars faces the Sun only in the middle of its retrograde loop, when the two pull past each other in days; between two people, the Sun and Mars belong to two different birth dates, and the rarity disappears.
 
-The hour of birth hardly alters either body's place, so it seldom decides the opposition; it decides the houses, and so where in each life the contest is played out, and a synastry waits for both times ([what changes without a birth time](/blog/unknown-birth-time/)). In one chart, [Sun opposite Mars](/astrology/sun-opposite-mars/) is a rare, inward version of this face-off. Between two adults, I read it with the respect I'd owe both if they were in the room, which starts with both of them asking ([synastry and consent](/blog/synastry-behind-their-back/)).
+The hour of birth hardly alters either body's place, so it seldom decides the opposition; it decides the houses, the stage in each life where the contest is played out, and a synastry waits for both times ([what changes without a birth time](/blog/unknown-birth-time/)). In one chart, [Sun opposite Mars](/astrology/sun-opposite-mars/) is a rare, inward version of this face-off. Between two adults, I read it with the respect I'd owe both if they were in the room, which starts with both of them asking ([synastry and consent](/blog/synastry-behind-their-back/)).

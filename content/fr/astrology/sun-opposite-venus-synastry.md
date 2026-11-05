@@ -30,7 +30,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "la proportion de paires concernées à 8° près, et l’écart de leurs anniversaires" }
   - { title: "NASA — Venus facts", url: "https://science.nasa.gov/venus/venus-facts/", note: "son orbite, plus proche du Soleil que celle de la Terre" }
 ---
-Soleil opposition Vénus est un contact qu’aucun thème natal ne contient : Vénus ne quitte jamais le Soleil de plus de 47° environ. Entre deux personnes, c’est courant, et singulier. La Vénus de l’une fait face au Soleil de l’autre d’un bout à l’autre du zodiaque : ce que l’une apprécie se tient juste en face de ce que l’autre est.
+Soleil opposition Vénus est un contact qu’aucun thème natal ne contient : Vénus ne quitte jamais le Soleil de plus de 47° environ. À deux, en revanche, c’est courant, et singulier. La Vénus de l’une fait face au Soleil de l’autre d’un bout à l’autre du zodiaque : ce que l’une apprécie se tient juste en face de ce que l’autre est.
 
 ## Ce qui circule {#ce-qui-circule}
 

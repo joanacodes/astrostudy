@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, the aspect of 120°" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "pairs with one person’s Jupiter trine the other’s Sun, within 6.8°" }
 ---
-Some people make your plans feel not just possible but sensible. In Sun trine Jupiter between two charts, one person's Jupiter sits about 120° from the other's Sun, usually in the same element, and the outlook of one tends to agree with the direction of the other: what one believes in, the other is already doing.
+Some people make your plans feel not just possible but sensible. When one person's Jupiter forms a trine to the other's Sun, usually in signs of one element, the outlook of one tends to agree with the direction of the other: what one believes in, the other is already doing.
 
 ## What flows {#what-flows}
 
@@ -35,7 +35,7 @@ The [Sun](/astrology/sun/) points an identity somewhere: who a person is, and wh
 
 An Aquarius Jupiter with a Gemini Sun: big ideas about how people could live and work together, for someone endlessly curious. A Virgo Jupiter with a Taurus Sun: growth through craft and good habits, for someone who values what lasts.
 
-If it's your Sun, the other person's way of seeing things makes sense of your choices. They don't push you to be bigger; they help you see why your direction is worth it, and that steadies you. If yours is the Jupiter, the other person is living something you believe in. Encouraging them takes no effort, and their path gives your principles a living example.
+If it's your Sun, the other person's way of seeing things makes sense of your choices. They don't push you to be bigger; they help you see why your direction is worth it, and that steadies you. On the Jupiter side, you watch someone live what you believe in. Encouraging them takes no effort, and their path gives your principles a living example.
 
 A teacher and a former student who became friends, colleagues who share values, siblings who believe in each other, a couple with a common philosophy: the trine gives each of them a shared sense of what's worth doing.
 

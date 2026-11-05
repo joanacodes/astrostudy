@@ -21,9 +21,9 @@ related: ["/astrology/sun", "/astrology/venus", "/astrology/square", "/astrology
 faq:
   - q: "Que veut dire Soleil carré Vénus en synastrie ?"
     a: "La Vénus d’une personne se trouve à environ 90° du Soleil de l’autre. Le goût de la personne de Vénus rencontre l’identité de l’autre en biais : l’affection peut venir avec des conditions, et les préférences sonner comme des jugements. C’est une friction, qui affine le goût des deux dès qu’on dit ses préférences comme des préférences."
-  - q: "Soleil carré Vénus est-il mauvais pour une relation ?"
+  - q: "Soleil carré Vénus gâche-t-il une relation ?"
     a: "Non. Il décrit une friction entre les valeurs de l’une et l’identité de l’autre, pas un verdict sur le lien, et environ 1 paire de personnes sur 7 l’a, dans un sens ou dans l’autre. Aucun aspect ne décide à lui seul si deux personnes s’entendent ; ce qu’elles font de leurs différences compte bien davantage."
-  - q: "Peut-on naître avec Soleil carré Vénus ?"
+  - q: "Soleil carré Vénus peut-il exister dans un thème natal ?"
     a: "Non. Vénus ne s’éloigne jamais de plus de 47° environ du Soleil : aucun thème ne peut contenir 90° entre les deux. Le carré n’existe qu’entre deux personnes, en général avec des anniversaires à trois mois d’écart."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, un quart du cercle" }

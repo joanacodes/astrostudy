@@ -42,7 +42,7 @@ C’est le contact d’un projet porté par une personne et mené par une autre,
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Une alliance aussi commode peut se figer en partage des tâches : l’une décide, l’autre exécute, et au bout d’un moment personne ne se souvient d’en avoir convenu. L’effort de la personne de Mars peut passer sans merci tant il est fiable ; les buts de la personne du Soleil peuvent se mettre à tourner sur l’énergie de quelqu’un d’autre. Et comme tout sextile, celui-ci a besoin qu’on demande : une aide jamais sollicitée reste inutilisée, tout comme un élan auquel on n’offre aucun but. Dans ma lecture de ces deux fonctions, agir n’est pas dominer, dans un sens comme dans l’autre.
+Une alliance aussi commode peut se figer en partage des tâches : l’une décide, l’autre exécute, et au bout d’un moment personne ne se souvient d’en avoir convenu. On compte tant sur l’effort de la personne de Mars qu’on oublie de la remercier ; les buts de la personne du Soleil peuvent se mettre à tourner sur l’énergie de quelqu’un d’autre. Et comme tout sextile, celui-ci a besoin qu’on demande : une aide jamais sollicitée reste inutilisée, tout comme un élan auquel on n’offre aucun but. Dans ma lecture de ces deux fonctions, agir n’est pas dominer, dans un sens comme dans l’autre.
 
 Aux autres angles de la paire, l’effort se comporte autrement :
 
@@ -57,4 +57,4 @@ Demandez clairement et remerciez précisément : « tu peux t’en charger ?
 
 Environ 1 paire de personnes sur 10 est reliée par ce sextile, dans un sens ou dans l’autre, à 4,8° près.
 
-Que la naissance ait eu lieu le matin ou le soir change peu la position des deux corps : l’heure décide rarement du sextile ; elle fixe les maisons, les domaines de chaque vie où l’aide se donne, et je ne lis jamais sans les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Dans le thème d’une seule personne, [Soleil sextile Mars](/astrology/sun-sextile-mars/) est une alliance intérieure entre le but et l’effort ; entre deux personnes, elle se négocie, et se remercie.
+Que la naissance ait eu lieu le matin ou le soir change peu la position des deux corps : l’heure décide rarement du sextile ; elle fixe les maisons, les domaines de chaque vie où l’aide se donne, et je ne lis jamais sans les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Pour une personne qui naît avec, [Soleil sextile Mars](/astrology/sun-sextile-mars/) est une alliance intérieure entre le but et l’effort ; entre deux personnes, elle se négocie, et se remercie.

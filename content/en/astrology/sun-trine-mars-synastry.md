@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, 120°, among his aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "pairs with it within 6.8°, and people born with it within 8°" }
 ---
-Between two people, Sun trine Mars is a contact of momentum. One person's Mars stands a third of the zodiac from the other's Sun, mostly in a sign of the same element, and effort runs in the direction the other is already going. It's also far commoner between two charts than inside one, and the reason is Mars's retrograde rhythm.
+Between two people, Sun trine Mars is a contact of momentum. One person's Mars stands a third of the zodiac from the other's Sun, mostly in a sign that shares its element, and effort runs in the direction the other is already going. It's also far commoner between two charts than inside one, and the reason is Mars's retrograde rhythm.
 
 ## What flows {#what-flows}
 
@@ -54,6 +54,6 @@ Alongside the trine, the pair's other contacts:
 
 Stop now and then to check the map: "is this still where we want to go?" takes a minute and can save months. Share out the heavy lifting on purpose, so momentum doesn't quietly become one person's job. Practise small disagreements while things are easy, and the big ones won't arrive as a shock. In sport, at work or on a shared renovation, the trine makes an excellent engine; just make sure both people have a hand on the wheel.
 
-About 1 pair of people in 7 has this trine, one way round or the other, within 6.8°. Inside a single chart it's far rarer, about 1 person in 19 within 8°, because both trines fall near Mars's retrograde turns, when the Sun passes through them quickly. Between two people, the Sun comes from one birthday and Mars from another, so that rhythm no longer applies.
+Between two charts, about 1 pair of people in 7 shows this trine, either way round, within 6.8°. Inside a single chart it's far rarer, about 1 person in 19 within 8°, because both trines fall near Mars's retrograde turns, when the Sun passes through them quickly. Between two people, the Sun comes from one birthday and Mars from another, so that rhythm no longer applies.
 
 The birth time weighs almost nothing on the trine itself; it weighs on the houses, which show the part of each life the shared effort goes into, and I open no reading without both times ([what changes without a birth time](/blog/unknown-birth-time/)). In one chart, [Sun trine Mars](/astrology/sun-trine-mars/) makes momentum an inner matter; between two people, it rests on both of them agreeing where to go.

@@ -21,7 +21,7 @@ related: ["/astrology/sun", "/astrology/mercury", "/astrology/opposition", "/ast
 faq:
   - q: "Que veut dire Soleil opposition Mercure en synastrie ?"
     a: "Mercure, chez une personne, se trouve à environ 180° du Soleil de l’autre, dans le signe opposé. La personne de Mercure voit la vie de l’autre depuis l’autre côté, et le dit : l’autre point de vue, l’objection, l’angle qui manquait. J’y lis une polarité dans la conversation, éclairante tant que les deux en font un dialogue."
-  - q: "Un thème natal peut-il contenir Soleil opposition Mercure ?"
+  - q: "Quelqu’un naît-il avec Soleil opposition Mercure ?"
     a: "Non : Mercure ne s’éloigne jamais de plus de 28° environ du Soleil. Ce contact n’existe qu’entre deux personnes, quand Mercure, chez l’une, tombe à l’opposé du Soleil de l’autre, ce qui veut dire en général des anniversaires à cinq ou six mois d’écart. Environ 1 paire sur 13 l’a, dans un sens ou dans l’autre."
   - q: "Avec Soleil opposition Mercure, va-t-on toujours se disputer ?"
     a: "Non. Vous avez tendance à voir les choses depuis deux côtés opposés, ce qui peut tourner à la dispute pour le plaisir si personne n’écoute. Résumer l’avis de l’autre avant de répondre, et convenir des moments où l’on explore plutôt que de décider, fait de la bascule un échange."

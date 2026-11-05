@@ -19,7 +19,7 @@ related: ["/astrology/sun", "/astrology/mars", "/astrology/conjunction", "/astro
 faq:
   - q: "What does Sun conjunct Mars mean in synastry?"
     a: "One person’s Mars sits within 8° of the other’s Sun. The Mars person’s drive lands on who the Sun person is, so the pair tends to get things moving: one feels set in motion, the other finds a target worth the effort. The question it raises is whose initiative leads."
-  - q: "Does Sun conjunct Mars mean conflict?"
+  - q: "Is Sun conjunct Mars a recipe for arguments?"
     a: "Not as I read it. Mars is assertion, and assertion is not aggression; competition is not hostility either. This contact can bring lively contests and the odd clash over pace, but mostly it describes two people who energise each other. How they handle the push matters more than the angle."
   - q: "Who leads with Sun conjunct Mars?"
     a: "Neither by default, and that is the point to settle. The Mars person tends to start, push and set the pace; the Sun person tends to supply the purpose. Agreeing out loud who leads which project keeps the drive in the service of both, rather than of whoever moves first."
@@ -54,6 +54,6 @@ Spread the two further apart, and the energy finds other routes:
 
 Agree who leads what, out loud: "this one's yours, I'll back you" settles a lot. The Mars person can ask before acting on the other's behalf; the Sun person can make a point of starting some things alone, to keep their own engine running. Competition is not hostility, so keep contests where they belong, on the court, over a board game, in a race to finish the shelves, and away from who either of you is.
 
-About 1 pair of people in 12 has this conjunction, one way round or the other, within 8°. Your birthday places your Sun; their Mars depends on the season of the year they were born, since Mars usually spends six or seven weeks in each sign.
+This conjunction joins about 1 pair of people in 12, in one direction or the other, within 8°. Your birthday places your Sun; their Mars depends on the season of the year they were born, since Mars usually spends six or seven weeks in each sign.
 
-A few hours make little difference to where either body stood, except right at the edge of the orb; the times settle the houses, and so where in each life the push is felt, and I read nothing without them ([what changes without a birth time](/blog/unknown-birth-time/)). Inside one chart, [Sun conjunct Mars](/astrology/sun-conjunct-mars/) is purpose that arrives already moving. Here the movement comes from someone else, and that's why both people need to have said yes before I read it ([synastry and consent](/blog/synastry-behind-their-back/)).
+A few hours make little difference to where either body stood, except right at the edge of the orb; the times settle the houses, and so where in each life the push is felt, and I read nothing without them ([what changes without a birth time](/blog/unknown-birth-time/)). Held by one person alone, [Sun conjunct Mars](/astrology/sun-conjunct-mars/) is purpose that arrives already moving. Here the movement comes from someone else, and that's why both people need to have said yes before I read it ([synastry and consent](/blog/synastry-behind-their-back/)).

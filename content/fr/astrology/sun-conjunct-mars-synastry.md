@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/sun", "/astrology/mars", "/astrology/conjunction", "/astrology/sun-conjunct-mars", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Soleil conjonction Mars en synastrie ?"
-    a: "Mars, chez une personne, se trouve à moins de 8° du Soleil de l’autre. L’élan de la première tombe sur ce que la seconde est : ensemble, les choses bougent, l’une se sent mise en mouvement, l’autre trouve une cible digne de son effort. La question qu’il pose : à qui revient l’initiative."
+    a: "Mars, chez une personne, se trouve à moins de 8° du Soleil de l’autre. L’élan de la première tombe sur ce que la seconde est : ensemble, les choses bougent, l’une se sent mise en mouvement, l’autre trouve une cible digne de son effort. La question que pose ce contact : à qui revient l’initiative."
   - q: "Avec Soleil conjonction Mars, faut-il s’attendre à des conflits ?"
     a: "Pas dans ma lecture. Mars, c’est l’affirmation, et s’affirmer n’est pas agresser ; la compétition n’est pas non plus l’hostilité. Ce contact peut apporter des défis animés et quelques heurts sur le rythme, mais il décrit surtout deux personnes qui se donnent de l’énergie. Ce qu’elles font de la poussée compte plus que l’angle."
   - q: "Qui mène, avec Soleil conjonction Mars ?"
@@ -55,6 +55,6 @@ Dans une conjonction, deux choses se mêlent, et ici, c’est l’initiative. La
 
 Dites tout haut qui mène quoi : « celui-ci, c’est le tien, je te soutiens » règle beaucoup de choses. La personne de Mars peut demander avant d’agir à la place de l’autre ; celle du Soleil peut tenir à lancer certaines choses seule, pour garder son propre moteur en marche. La compétition n’est pas l’hostilité : gardez les concours là où ils ont leur place, sur le terrain, autour d’un jeu de société, dans une course pour finir les étagères, et loin de ce que chacune est.
 
-Environ 1 paire de personnes sur 12 a cette conjonction, dans un sens ou dans l’autre, à 8° près. Votre anniversaire place votre Soleil ; Mars, chez l’autre, dépend de la saison de son année de naissance, puisque Mars passe en général six ou sept semaines dans chaque signe.
+Cette conjonction relie environ 1 paire de personnes sur 12, dans un sens ou dans l’autre, à 8° près. Votre anniversaire place votre Soleil ; Mars, chez l’autre, dépend de la saison de son année de naissance, puisque Mars passe en général six ou sept semaines dans chaque signe.
 
 Quelques heures changent peu la position du Soleil ou de Mars, sauf tout au bord de l’orbe ; les heures fixent les maisons, et donc l’endroit de chaque vie où la poussée se fait sentir, et je ne lis rien sans elles ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). À l’intérieur d’un seul thème, [Soleil conjonction Mars](/astrology/sun-conjunct-mars/) donne un but qui arrive déjà en mouvement. Ici, le mouvement vient de quelqu’un d’autre, et c’est pourquoi les deux doivent avoir dit oui avant que je le lise ([synastrie et consentement](/blog/synastry-behind-their-back/)).

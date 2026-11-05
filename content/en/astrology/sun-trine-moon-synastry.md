@@ -47,7 +47,7 @@ As I read the trine, nothing here runs itself: the agreement holds because two p
 
 - **[Sun conjunct Moon in synastry](/astrology/sun-conjunct-moon-synastry/):** one person's centre on the other's needs, which settles fast and blurs just as fast.
 - **[Sun sextile Moon in synastry](/astrology/sun-sextile-moon-synastry/):** two signs closer; the help has to be asked for, which at least keeps it visible.
-- **[Sun square Moon in synastry](/astrology/sun-square-moon-synastry/):** a sign closer and out of element; the same functions want the same hours, and nothing stays unspoken for long.
+- **[Sun square Moon in synastry](/astrology/sun-square-moon-synastry/):** three signs instead of four, in clashing elements; needs and plans collide, and nothing stays unspoken for long.
 - **[Sun opposite Moon in synastry](/astrology/sun-opposite-moon-synastry/):** the lights face each other, and each person sees clearly what the other carries.
 
 ## How to meet it {#how-to-meet-it}
@@ -56,4 +56,4 @@ Notice it, out loud. Say what works: "this house runs better with you in it", "y
 
 Allowing 6.8°, about 1 pair of people in 7 has this trine one way round or the other: as common, between two charts, as the square. It's one of the contacts I make a point of naming in a [synastry reading](/synastry/), precisely because it's so easy to overlook.
 
-Both birth times come first. The Moon moves about 13° a day, so a few hours can take the trine past the edge of its orb, and the houses, where in each life the ease shows, need both times ([what changes without a birth time](/blog/unknown-birth-time/)). Someone born with [Sun trine Moon](/astrology/sun-trine-moon/) carries this agreement inside, under a gibbous moon; between two people, it takes two to keep it up.
+Both birth times come first. The Moon covers about 13° a day, and a few hours can take the trine past the edge of its orb, and the houses, where in each life the ease shows, need both times ([what changes without a birth time](/blog/unknown-birth-time/)). Someone born with [Sun trine Moon](/astrology/sun-trine-moon/) carries this agreement inside, under a gibbous moon; between two people, it takes two to keep it up.

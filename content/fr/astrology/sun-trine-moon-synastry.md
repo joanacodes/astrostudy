@@ -34,7 +34,7 @@ Rien, dans Soleil trigone Lune en synastrie, ne réclame l’attention, et c’e
 
 Le [Soleil](/astrology/sun/), c’est ce dont une personne vit : l’identité, la vitalité, le but. La [Lune](/astrology/moon/) règle ce qu’elle ressent et ce dont elle a besoin : l’attachement, l’habitude, le sentiment d’être en sécurité. Un [trigone](/astrology/trine/) relie deux fonctions par un courant qui les renforce l’une l’autre, et dans la langue des [aspects de synastrie](/astrology/synastry-aspects/), ce courant passe entre deux personnes : la direction appartient à l’une, les besoins à l’autre.
 
-Un même élément les tient en général toutes les deux. Le Soleil de l’une en Cancer, la Lune de l’autre en Poissons : une façon d’être protectrice, à côté d’un besoin de douceur. Le Soleil en Bélier chez l’une, la Lune en Sagittaire chez l’autre : une personne qui lance toujours quelque chose, à côté d’un cœur qui a besoin d’espace et d’horizon.
+Le plus souvent, les deux luminaires partagent ici un élément. Le Soleil de l’une en Cancer, la Lune de l’autre en Poissons : une façon d’être protectrice, à côté d’un besoin de douceur. Le Soleil en Bélier chez l’une, la Lune en Sagittaire chez l’autre : une personne qui lance toujours quelque chose, à côté d’un cœur qui a besoin d’espace et d’horizon.
 
 Si c’est votre Soleil, vous pouvez être vous-même sans que cela coûte quoi que ce soit à l’autre. Vos projets ne menacent pas son confort : vous avez rarement à choisir entre votre direction et sa tranquillité, une liberté qu’on sent sans toujours savoir la nommer. Si c’est votre Lune, vous vous détendez à ses côtés. Sa façon de vivre semble laisser de la place à ce dont vous avez besoin sans qu’il faille le demander, et sa direction donne à vos journées un cadre rassurant.
 
@@ -48,7 +48,7 @@ Dans ma lecture du trigone, rien ici ne tourne tout seul : l’accord tient par
 
 - **[Soleil conjonction Lune en synastrie](/astrology/sun-conjunct-moon-synastry/) :** le centre de l’une sur les besoins de l’autre ; on s’y installe vite, et l’on s’y confond aussi vite.
 - **[Soleil sextile Lune en synastrie](/astrology/sun-sextile-moon-synastry/) :** deux signes plus près ; l’aide doit être demandée, ce qui la garde au moins visible.
-- **[Soleil carré Lune en synastrie](/astrology/sun-square-moon-synastry/) :** un signe plus près, hors de l’élément ; les mêmes fonctions veulent les mêmes heures, et rien ne reste longtemps tu.
+- **[Soleil carré Lune en synastrie](/astrology/sun-square-moon-synastry/) :** trois signes au lieu de quatre, dans des éléments qui se heurtent ; besoins et projets se percutent, et rien ne reste longtemps tu.
 - **[Soleil opposition Lune en synastrie](/astrology/sun-opposite-moon-synastry/) :** les luminaires se font face, et chaque personne voit nettement ce que l’autre porte.
 
 ## Comment le vivre {#comment-le-vivre}

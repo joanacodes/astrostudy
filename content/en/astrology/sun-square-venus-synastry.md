@@ -20,7 +20,7 @@ related: ["/astrology/sun", "/astrology/venus", "/astrology/square", "/astrology
 faq:
   - q: "What does Sun square Venus mean in synastry?"
     a: "One person’s Venus sits about 90° from the other’s Sun. The Venus person’s taste and sense of fairness meet the Sun person’s identity at an angle, so liking can come with conditions and preferences can sound like judgements. It’s friction, which tends to refine both people’s taste once they name preferences as preferences."
-  - q: "Is Sun square Venus bad for a relationship?"
+  - q: "Does Sun square Venus spoil a relationship?"
     a: "No. It describes friction between one person’s values and the other’s identity, not a verdict on the bond, and about 1 pair of people in 7 has it, one way round or the other. No single aspect decides whether two people work; what they do with their differences matters far more."
   - q: "Can you be born with Sun square Venus?"
     a: "No. Venus never gets more than about 47° from the Sun, so no single chart can hold a 90° angle between them. The square exists only between two people, usually with birthdays about three months apart."

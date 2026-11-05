@@ -22,7 +22,7 @@ faq:
     a: "Le Soleil d’une personne se trouve à environ 180° de la Lune de l’autre, dans le signe opposé. La direction de la première et les besoins de la seconde se font face : chacune voit nettement ce que l’autre porte. J’y lis une polarité, un équilibre que deux personnes retrouvent sans cesse, pas le signe d’un désaccord."
   - q: "Soleil opposition Lune, est-ce l’attirance des contraires ?"
     a: "Cela peut le sembler : chaque personne porte ce que l’autre a tendance à laisser de côté, et cela peut rapprocher. Mais l’attirance n’est qu’une des choses que décrit ce contact, qu’on trouve aussi en amitié, en famille et au travail. Il montre comment deux personnes se reflètent, pas si elles resteront ensemble."
-  - q: "Qui ressent le plus Soleil opposition Lune ?"
+  - q: "Quel bout de Soleil opposition Lune est le plus lourd à tenir ?"
     a: "Chacune ressent un bout différent. La personne de la Lune peut sentir ses besoins mis en lumière, parfois plus qu’elle ne le voudrait ; celle du Soleil peut sentir sa direction interrogée par ce dont l’autre a besoin, ou attirée vers un côté plus doux de la vie. La bascule va dans les deux sens."
   - q: "Soleil opposition Lune veut-il dire conflit ?"
     a: "Non. Une opposition est une bascule, pas une bagarre : les deux bouts d’un même axe. Elle peut se figer en rôles, une personne qui planifie toujours, l’autre qui ressent toujours, et c’est là qu’elle demande de l’attention. Prendre son tour à chaque bout la garde en équilibre plutôt qu’en bras de fer."

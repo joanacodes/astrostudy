@@ -22,7 +22,7 @@ faq:
     a: "Mercure, chez une personne, se trouve à moins de 8° du Soleil de l’autre. La façon de penser de la première tombe sur ce que la seconde est : la conversation entre elles paraît proche et rapide. J’y lis une compréhension mise en mots, qui marche le mieux quand la personne du Soleil garde le dernier mot sur elle-même."
   - q: "À combien de jours d’écart sont les anniversaires avec Soleil conjonction Mercure ?"
     a: "En général une quinzaine de jours, et rarement plus d’un mois, quelles que soient les années de naissance. Dans un même thème, Mercure ne s’écarte jamais de plus de 28° environ du Soleil : ce contact relie donc surtout des personnes nées dans les mêmes semaines du calendrier."
-  - q: "Qui ressent le plus Soleil conjonction Mercure ?"
+  - q: "Comment vit-on Soleil conjonction Mercure de chaque côté ?"
     a: "Chacune ressent autre chose. La personne du Soleil se sent comprise, parfois décrite avec plus de justesse qu’elle n’y arriverait seule. La personne de Mercure sent sa pensée s’animer au contact de l’autre, et ses mots pris au sérieux. Le soin revient surtout à la personne de Mercure : une description n’est pas un verdict."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "ses quatre aspects, la conjonction mise à part comme une rencontre" }

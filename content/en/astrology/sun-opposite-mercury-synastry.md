@@ -20,8 +20,8 @@ related: ["/astrology/sun", "/astrology/mercury", "/astrology/opposition", "/ast
 faq:
   - q: "What does Sun opposite Mercury mean in synastry?"
     a: "One person’s Mercury sits about 180° from the other’s Sun, in the opposite sign. The Mercury person tends to see the Sun person’s life from the other side, and to say so: the other view, the objection, the angle that was missing. I read it as a polarity in conversation, clarifying when both people keep it a dialogue."
-  - q: "Can Sun opposite Mercury exist in a birth chart?"
-    a: "Not in one chart: Mercury never gets more than about 28° from the Sun. Between two people it’s possible: one person’s Mercury falls opposite the other’s Sun, which usually means birthdays five to six months apart. About 1 pair in 13 has it, one way round or the other."
+  - q: "Is anyone born with Sun opposite Mercury?"
+    a: "No one is: Mercury never gets more than about 28° from the Sun. Between two people it’s possible: one person’s Mercury falls opposite the other’s Sun, which usually means birthdays five to six months apart. About 1 pair in 13 has it, one way round or the other."
   - q: "Does Sun opposite Mercury mean we’ll always argue?"
     a: "No. It means you tend to see things from opposite sides, which can turn into argument for its own sake if neither of you listens. Summarising the other’s view before answering, and agreeing when you’re exploring rather than deciding, turns the seesaw into an exchange."
 sources:

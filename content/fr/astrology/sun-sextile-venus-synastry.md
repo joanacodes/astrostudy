@@ -21,8 +21,8 @@ related: ["/astrology/sun", "/astrology/venus", "/astrology/sextile", "/astrolog
 faq:
   - q: "Que veut dire Soleil sextile Vénus en synastrie ?"
     a: "La Vénus d’une personne se trouve à environ 60° du Soleil de l’autre. Le goût de la personne de Vénus offre à l’autre plaisirs et ouvertures, et la personne du Soleil donne à ce goût de quoi se réjouir. J’y lis une affection amicale et facile, qui s’approfondit quand les deux s’en saisissent au lieu de rester polies."
-  - q: "Pourquoi personne ne naît avec Soleil sextile Vénus ?"
-    a: "Parce que Vénus n’est jamais à plus de 47° environ du Soleil, dans aucun thème, et qu’un sextile demande 60°. Entre deux personnes, c’est courant : environ 1 paire sur 10 l’a, dans un sens ou dans l’autre, en général avec des anniversaires à deux mois d’écart."
+  - q: "Trouve-t-on Soleil sextile Vénus dans le thème d’une seule personne ?"
+    a: "Non : Vénus n’est jamais à plus de 47° environ du Soleil, dans aucun thème, et un sextile demande 60°. Entre deux personnes, c’est courant : environ 1 paire sur 10 l’a, dans un sens ou dans l’autre, en général avec des anniversaires à deux mois d’écart."
   - q: "Soleil sextile Vénus, un aspect d’amitié ?"
     a: "Il convient bien à l’amitié, avec ses plaisirs partagés et ses invitations faciles, mais on le trouve dans toutes les paires : couples, familles, collègues. Comme tout sextile, il propose sans décider, et il montre comment deux personnes s’apprécient, pas où va leur relation."
 sources:
@@ -30,7 +30,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les paires qui l’ont à 4,8° près, et l’étalement de leurs anniversaires" }
   - { title: "NASA — Venus facts", url: "https://science.nasa.gov/venus/venus-facts/", note: "une orbite intérieure à celle de la Terre, proche du Soleil" }
 ---
-Vénus ne s’éloigne jamais de plus de 47° environ du Soleil : personne ne naît donc avec les deux à 60°. Entre deux personnes, le sextile est courant, et sociable : le goût de l’une, son idée d’une bonne soirée ou d’une bonne vie, offre sans cesse à l’autre de petits plaisirs et des portes ouvertes.
+Vénus reste toujours à moins de 47° environ du Soleil : aucun thème natal ne peut donc les placer à 60°. Entre deux personnes, le sextile est courant, et sociable : le goût de l’une, son idée d’une bonne soirée ou d’une bonne vie, offre sans cesse à l’autre de petits plaisirs et des portes ouvertes.
 
 ## Ce qui circule {#ce-qui-circule}
 
