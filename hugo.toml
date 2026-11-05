@@ -70,6 +70,7 @@ enableGitInfo = true
       [languages.en.menus.main.params]
         glyph = "✦"
         blurb = "Notes from the reading desk."
+        list = false   # a plain link: listing every post under it made the menu long and messy
         image = ""   # the card's picture in the computer menu, e.g. "media/menu/blog.jpg" (about 4:3)
     [[languages.en.menus.main]]
       name = "Encyclopaedia"
@@ -159,6 +160,7 @@ enableGitInfo = true
       [languages.fr.menus.main.params]
         glyph = "✦"
         blurb = "Notes depuis ma table de lecture."
+        list = false   # a plain link: listing every post under it made the menu long and messy
         image = ""   # the card's picture in the computer menu, e.g. "media/menu/blog.jpg" (about 4:3)
     [[languages.fr.menus.main]]
       name = "Encyclopédie"
