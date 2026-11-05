@@ -1,5 +1,7 @@
 {{- /* The readings under a menu entry, when that entry is a section (Synastry): its pages in their
-       weight order, for the dropdowns in the top bar and the phone menu. Anything else: none. */ -}}
+       weight order, for the dropdowns in the top bar and the phone menu. Anything else: none. An entry
+       with list = false (the encyclopaedia, hundreds of pages) stays a plain link: listing it would put
+       every entry into every page's menu. */ -}}
 {{- $kinds := slice }}
-{{- with .Page }}{{ if .IsSection }}{{ $kinds = .RegularPages.ByWeight }}{{ end }}{{ end }}
+{{- if ne .Params.list false }}{{ with .Page }}{{ if .IsSection }}{{ $kinds = .RegularPages.ByWeight }}{{ end }}{{ end }}{{ end }}
 {{- return $kinds }}
