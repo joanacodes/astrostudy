@@ -18,9 +18,9 @@ facts:
 related: ["/astrology/sun-in-taurus", "/astrology/moon-in-scorpio", "/astrology/full-moon-in-scorpio", "/astrology/sun-opposite-moon", "/astrology/pluto"]
 faq:
   - q: "Is Sun in Taurus, Moon in Scorpio the full moon in Scorpio?"
-    a: "Often, give or take a couple of days. Any full moon that falls while the Sun is in Taurus is in Scorpio, and births with this pair come twelve and a half to seventeen days after a new moon. Half fall just before the exact full moon, in the gibbous phase, and half just after it."
+    a: "Close to it. Every full moon of the Taurus month is a full moon in Scorpio, and a Taurus Sun with a Scorpio Moon means the lights were near opposition. Some of these births come in the last gibbous days before that full moon, the rest in the days after it, in equal numbers."
   - q: "What do the Moon’s exaltation and fall mean for Sun in Taurus, Moon in Scorpio?"
-    a: "Tradition exalts the Moon in Taurus and gives it its fall in Scorpio, and this pair puts your Sun in the first and your Moon in the second. I read it as feelings that take more work to settle than your steady Sun suggests, and a Sun that already knows the simple comforts that help them."
+    a: "They are the two ends of one axis. Taurus, your Sun’s sign, is where tradition says the Moon is most at ease; Scorpio, your Moon’s sign, is where it is least so. I read that as feelings that need more work to settle than your steady Sun suggests, and a Sun that already knows the simple comforts that help."
   - q: "How does a Taurus Sun with a Scorpio Moon love?"
     a: "Loyally and deeply. The Taurus Sun shows love through presence, care and constancy; the Scorpio Moon gives its trust slowly and then completely, and needs both honesty and privacy. Because both signs are fixed, hurts can linger, so saying things while they are still small makes a real difference."
 sources:
@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and how far apart the lights were" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the full moon: the Moon 180° from the Sun" }
 ---
-Born near the full moon of the Taurus month, you have the Moon in Scorpio, facing your Sun across the sky. The pair sits on the axis tradition uses for the Moon's best and hardest places: exalted in Taurus, where your Sun is, and in its fall in Scorpio, where your Moon is.
+Across the sky from your Taurus Sun, the Moon was in Scorpio, full or nearly so. The pair sits on the axis tradition uses for the Moon's best and hardest places: exalted in Taurus, where your Sun is, and in its fall in Scorpio, where your Moon is.
 
 ## How they get along {#how-they-get-along}
 
@@ -36,7 +36,7 @@ Opposite signs mirror each other, and these two are both fixed, so the mirror is
 
 Tradition sets the Moon's comfort against itself here. The sign of its exaltation holds your Sun, the sign of its fall your Moon. I read the fall as comfort that is slower to arrive, and the exaltation opposite as a hint that the comfort you're looking for is often the plain, physical kind your Sun already knows how to find. Your Sun answers to [Venus](/astrology/venus/). For Scorpio I read both rulers: [Mars](/astrology/mars/), the traditional one, for where this Moon sets its boundaries, and [Pluto](/astrology/pluto/), the modern one, for where it lets something end so that something truer can grow.
 
-Twelve and a half to seventeen days after a new moon, the Moon stood 151° to 210° from the Sun, so the full moon was no more than a couple of days away, behind you or ahead. Like every full moon of the Taurus month, that one was a [full moon in Scorpio](/astrology/full-moon-in-scorpio/). Of the eight phases, the [waxing gibbous moon](/astrology/waxing-gibbous-moon/) and the [full moon](/astrology/full-moon/) share these births equally, and at the exact opposition the chart holds a [Sun opposite Moon](/astrology/sun-opposite-moon/), which [your birth lunar phase](/astrology/your-birth-lunar-phase/) places in the whole cycle.
+With the Moon 151° to 210° from the Sun, roughly halfway through the lunar month, the full moon was no more than a couple of days away, behind you or ahead. Like every full moon of the Taurus month, that one was a [full moon in Scorpio](/astrology/full-moon-in-scorpio/). Of the eight phases, the [waxing gibbous moon](/astrology/waxing-gibbous-moon/) and the [full moon](/astrology/full-moon/) share these births equally, and at the exact opposition the chart holds a [Sun opposite Moon](/astrology/sun-opposite-moon/), which [your birth lunar phase](/astrology/your-birth-lunar-phase/) places in the whole cycle.
 
 About 1 person in 143 is born with the lights on this axis. The Moon is in Scorpio for about two and a half days; before that comes Libra and after it Sagittarius, and a birth on the day of either crossing belongs to this page, to the [Sun in Taurus, Moon in Libra](/astrology/sun-in-taurus-moon-in-libra/) or to the [Sun in Taurus, Moon in Sagittarius](/astrology/sun-in-taurus-moon-in-sagittarius/), depending on the hour ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). The rising sign depends on that hour too, and for a pair that keeps so much below the surface, the first sketch it makes with the two lights shows only the visible part.
 
@@ -50,4 +50,4 @@ Patience and depth together make you formidable with long, serious work: buildin
 
 ## The hard part {#the-hard-part}
 
-Two fixed signs facing each other can stage a quiet contest inside you, between keeping things as they are and needing them to change at the root. You may hold on to a situation for its security while feeling, privately, that something in it has gone. What helps is letting the Scorpio Moon's honesty and the Taurus Sun's patience work together: name the truth to yourself first, then change things at the Taurus pace, one solid step at a time, rather than all at once or never.
+Two fixed signs facing each other can stage a quiet contest inside you, between keeping what is and needing it to change at the root. You may hold on to a situation for its security while feeling, privately, that something in it has gone. What helps is letting the Scorpio Moon's honesty and the Taurus Sun's patience work together: name the truth to yourself first, then change things at the Taurus pace, one solid step at a time, rather than all at once or never.
