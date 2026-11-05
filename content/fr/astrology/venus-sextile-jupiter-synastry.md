@@ -22,7 +22,7 @@ faq:
     a: "Vénus, chez l’une des deux personnes, se trouve à environ 60° de Jupiter chez l’autre, en général à deux signes. La personne de Jupiter ouvre souvent des portes, un livre, un voyage, un cercle de gens, que celle de Vénus finit par aimer, et ce plaisir l’encourage à partager davantage. Il faut un oui pour que cela marche."
   - q: "Vénus sextile Jupiter, est-ce un bon aspect en synastrie ?"
     a: "C’est un aspect doux et amical. Il n’apporte pas de chance et ne garantit rien ; il décrit deux personnes qui élargissent le monde l’une de l’autre quand elles acceptent leurs propositions. Environ 1 paire de personnes sur 13 l’a, dans un sens ou dans l’autre, dans toutes sortes de relations."
-  - q: "Pourquoi Vénus sextile Jupiter passe-t-il inaperçu ?"
+  - q: "Pourquoi ce sextile entre Vénus et Jupiter passe-t-il inaperçu ?"
     a: "Parce qu’un sextile ne pousse jamais. Les invitations se déclinent poliment, et l’orbe est étroit, 3,6° : le contact reste discret même quand il est là. Il ne devient souvent visible que lorsque quelqu’un le nomme, et les deux mesurent alors combien l’autre a élargi leur vie."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, 60°, parmi ses quatre aspects, et Vénus et Jupiter comme planètes bienfaisantes" }
