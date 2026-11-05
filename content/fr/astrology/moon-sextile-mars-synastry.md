@@ -52,7 +52,7 @@ L’aisance peut changer les émotions en tâches. Quand faire les choses ensemb
 
 ## Comment le vivre {#comment-le-vivre}
 
-Faites la proposition. Si c’est votre Mars, proposez une chose concrète à faire ensemble ; côté Lune, dites pour quoi vous aimeriez de l’aide au lieu d’espérer qu’on le remarque. De temps en temps, remplacez le projet par une conversation : asseyez-vous et parlez de l’émotion elle-même avant d’agir. Amis et couples trouvent ce sextile dans les projets partagés ; adultes d’une même famille, dans les tâches faites ensemble.
+Faites la proposition. Si c’est votre Mars, proposez une chose concrète à faire ensemble ; côté Lune, dites en quoi vous aimeriez de l’aide au lieu d’espérer qu’on le remarque. De temps en temps, remplacez le projet par une conversation : asseyez-vous et parlez de l’émotion elle-même avant d’agir. Amis et couples trouvent ce sextile dans les projets partagés ; adultes d’une même famille, dans les tâches faites ensemble.
 
 À 4,8° près, ce sextile touche environ 1 paire de personnes sur 10, quel que soit le thème qui porte la Lune. Avec un orbe aussi étroit, l’heure de naissance du côté Lune est toute la question : une naissance du matin et une du soir peuvent tomber de part et d’autre du contact, alors que Mars, qui met six semaines ou plus à traverser un signe, bouge à peine. Les deux heures de naissance passent en premier dans toute synastrie que je fais, et elles fixent aussi les maisons ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

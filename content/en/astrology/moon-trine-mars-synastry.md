@@ -29,7 +29,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "pairs with the trine either way round, within 6.8°" }
 ---
-Moon trine Mars in synastry: a Moon in one chart, Mars in the other, 120° apart and usually in one element. Feeling and effort keep the same pace between them: what one needs, the other is inclined to do, and the doing feels like care.
+Moon trine Mars in synastry sets two bodies 120° apart, one person's Moon and the other's Mars, usually in one element. Feeling and effort keep the same pace between them: what one needs, the other is inclined to do, and the doing feels like care.
 
 ## What flows {#what-flows}
 

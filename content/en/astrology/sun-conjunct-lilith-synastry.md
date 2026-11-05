@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 51
 glyph: "☉☌⚸"
-definition: "Sun conjunct Lilith in synastry means one person’s Sun sits within 8° of the other’s Black Moon Lilith. The centre of one life falls on what the other learned to hide, so that part tends to come into view. I read it as recognition on one side and exposure on the other, never as a forbidden bond."
+definition: "Sun conjunct Lilith in synastry means one person’s Sun sits within 8° of the other’s Black Moon Lilith. The centre of one life falls on what the other learned to hide, so that part tends to come into view. To me it means recognition for one person and exposure for the other, never a forbidden bond."
 facts:
   - { k: "Bodies", v: "One person’s Sun ☉, the other’s Black Moon Lilith ⚸" }
   - { k: "Aspect", v: "Conjunction ☌, 0°" }
@@ -20,7 +20,7 @@ faq:
   - q: "What does Sun conjunct Lilith mean in synastry?"
     a: "One person’s Sun sits within 8° of the other’s Black Moon Lilith. Who the first person is lands right on what the second learned to keep out of sight, so that part tends to surface between them. I read it as recognition that can feel freeing on some days and exposing on others."
   - q: "Who feels Sun conjunct Lilith more in synastry?"
-    a: "They feel different things. The one whose Lilith it is usually feels it first and most sharply: seen in a place they keep private. The one whose Sun it is tends to feel fascination, and sometimes a refusal aimed at them that they don’t yet understand. Neither is to blame for what the other feels."
+    a: "Each feels something different. The one whose Lilith it is usually feels it first and most sharply: seen in a place they keep private. The one whose Sun it is tends to feel fascination, and sometimes a refusal aimed at them that they don’t yet understand. Neither is to blame for what the other feels."
   - q: "Is Sun conjunct Lilith in synastry always about attraction?"
     a: "No. Lilith contacts are often written about as forbidden attraction, but I read Lilith as what a person learned to hide, and friends, relatives and co-workers have that too. Between two charts, this conjunction describes how one presence brings that part out, not what either person does with it."
   - q: "Do we need both birth times for Sun conjunct Lilith?"
@@ -34,7 +34,7 @@ Sun conjunct Lilith in synastry sets one person's Sun on the other's Black Moon 
 
 ## What flows {#what-flows}
 
-The [Sun](/astrology/sun/) is what a person organises themselves around: identity, vitality, purpose, the self they show. [Black Moon Lilith](/astrology/black-moon-lilith/), the spot where the Moon's orbit carries it farthest from Earth, is read very differently from one astrologer to the next. I read it as the side of a person that refused to be tamed: instinct, autonomy, whatever got pushed aside, and their own sense of power. A [conjunction](/astrology/conjunction/) binds two functions into one process; between two charts that process has two owners, and like all [synastry aspects](/astrology/synastry-aspects/) it reads differently from each end.
+The [Sun](/astrology/sun/) is what a person organises themselves around: identity, vitality, purpose, the self they show. [Black Moon Lilith](/astrology/black-moon-lilith/), the spot where the Moon's orbit carries it farthest from Earth, is read very differently from one astrologer to the next. I read it as the side of a person that refused to be tamed: instinct, autonomy, whatever got pushed aside, and their own sense of power. A [conjunction](/astrology/conjunction/) binds two functions into one process; between two charts that process has two owners, and the [synastry aspects](/astrology/synastry-aspects/) never look quite the same from each owner's side.
 
 If the Lilith is yours, the other person's way of being falls exactly on what you were once told was too much: the appetite, the bluntness, the flat refusal. Around them it's hard to keep that part folded away, and often you stop wanting to. Standing in the light of someone who is simply being themselves can feel like permission, and on other days like being caught without your coat.
 

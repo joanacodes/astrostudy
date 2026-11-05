@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/sun", "/astrology/north-node", "/astrology/conjunction", "/astrology/sun-conjunct-north-node", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Soleil conjonction Nœud Nord en synastrie ?"
-    a: "Un Soleil dans un thème et le Nœud Nord dans l’autre occupent presque le même degré, à 8° près. La nature de la première incarne justement la qualité que la seconde apprend, si bien que le temps passé ensemble peut ressembler à un apprentissage que personne n’a prévu. J’y lis un exemple à suivre à sa façon, pas un destin."
+    a: "Le Soleil d’une personne et le Nœud Nord de l’autre occupent presque le même degré, à 8° près. La nature de la première incarne justement la qualité que la seconde apprend, si bien que le temps passé ensemble peut ressembler à un apprentissage que personne n’a prévu. J’y lis un exemple à suivre à sa façon, pas un destin."
   - q: "Soleil conjonction Nœud Nord, est-ce un lien du destin ?"
     a: "Les contacts aux nœuds sont ceux qu’on dit le plus souvent prédestinés, et celui-ci peut sembler important. Je lis le Nœud Nord comme un développement, pas un destin : une direction qui grandit avec la pratique. Le contact décrit comment la façon d’être de l’une rencontre la croissance de l’autre ; ce que vous en faites vous appartient."
   - q: "Qu’apporte Soleil conjonction Nœud Nord à la personne Soleil ?"

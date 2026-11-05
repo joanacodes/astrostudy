@@ -31,7 +31,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les paires qui ont ce sextile, dans un sens ou dans l’autre, à 4,8° près" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds, toujours exactement opposés" }
 ---
-Soleil sextile Nœud Nord en synastrie : un Soleil se tient à 60° du Nœud Nord de l’autre thème, et donc à 120° de son Nœud Sud. Cela fait deux liens à la fois : une ouverture vers ce que la seconde apprend, et une aisance avec ce qu’elle fait déjà bien.
+Soleil sextile Nœud Nord en synastrie : un Soleil se tient à 60° du Nœud Nord de l’autre thème, et donc à 120° de son Nœud Sud. Cela fait deux liens à la fois : une ouverture vers ce que la personne Nœud Nord apprend, et une aisance avec ce qu’elle fait déjà bien.
 
 ## Ce qui circule {#ce-qui-circule}
 

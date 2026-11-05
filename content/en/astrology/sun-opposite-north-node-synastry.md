@@ -30,7 +30,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "pairs with the opposition either way round, within 8°" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the two nodes, mean and true, always opposite" }
 ---
-Sun opposite North Node in synastry is a Sun sitting on someone else's South Node, the end of their nodal axis opposite the North. That's the familiar end: who the first person is matches what the second already knows how to be, and the direction the second is growing in lies across the chart from both of them.
+Sun opposite North Node in synastry is a Sun sitting on someone else's South Node, the end of their nodal axis opposite the North. That's the familiar end: who the Sun person is matches what the other already knows how to be, and the direction the other is growing in lies across the chart from both of them.
 
 ## What flows {#what-flows}
 

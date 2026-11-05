@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 51
 glyph: "☉☌⚸"
-definition: "Soleil conjonction Lilith en synastrie signifie que le Soleil d’une personne se trouve à moins de 8° de la Lune noire Lilith de l’autre. Le centre d’une vie tombe sur ce que l’autre a appris à cacher, et cette part revient au jour. J’y lis une reconnaissance d’un côté, une mise à nu de l’autre, jamais un lien interdit."
+definition: "Soleil conjonction Lilith en synastrie, c’est le Soleil d’une personne à moins de 8° de la Lune noire Lilith de l’autre. Le centre d’une vie tombe sur ce que l’autre a appris à cacher, et cette part revient au jour. Pour moi, c’est une reconnaissance pour l’une et une mise à nu pour l’autre, jamais un lien interdit."
 facts:
   - { k: "Corps", v: "Le Soleil ☉ de l’une, la Lune noire Lilith ⚸ de l’autre" }
   - { k: "Aspect", v: "Conjonction ☌, 0°" }
@@ -35,7 +35,7 @@ Soleil conjonction Lilith en synastrie pose le Soleil d’une personne sur la Lu
 
 ## Ce qui circule {#ce-qui-circule}
 
-Le [Soleil](/astrology/sun/) est ce autour de quoi une personne s’organise : l’identité, la vitalité, la direction, ce qu’elle montre d’elle-même. La [Lune noire Lilith](/astrology/black-moon-lilith/), l’endroit où l’orbite de la Lune l’emporte le plus loin de la Terre, se lit très différemment d’un astrologue à l’autre. J’y vois la part d’une personne qui a refusé d’être domptée : l’instinct, l’autonomie, ce qui a été mis de côté, son propre sens du pouvoir. Une [conjonction](/astrology/conjunction/) réunit deux fonctions en un seul mouvement ; entre deux thèmes, ce mouvement a deux propriétaires, et comme tous les [aspects de synastrie](/astrology/synastry-aspects/), il se lit de chaque côté.
+Le [Soleil](/astrology/sun/) est ce autour de quoi une personne s’organise : l’identité, la vitalité, la direction, ce qu’elle montre d’elle-même. La [Lune noire Lilith](/astrology/black-moon-lilith/), l’endroit où l’orbite de la Lune l’emporte le plus loin de la Terre, se lit très différemment d’un astrologue à l’autre. J’y vois la part d’une personne qui a refusé d’être domptée : l’instinct, l’autonomie, ce qui a été mis de côté, son propre sens du pouvoir. Une [conjonction](/astrology/conjunction/) réunit deux fonctions en un seul mouvement ; entre deux thèmes, ce mouvement a deux propriétaires, et les [aspects de synastrie](/astrology/synastry-aspects/) changent de visage selon le côté.
 
 Si la Lilith est la vôtre, la façon d’être de l’autre tombe exactement sur ce qu’on vous a dit être de trop : l’appétit, la franchise brute, le refus net. En sa présence, cette part se laisse mal plier dans un coin, et souvent l’envie de la cacher s’en va. Se tenir dans la lumière de quelqu’un qui est simplement soi-même peut ressembler à une permission, et d’autres jours à une mise à nu.
 
