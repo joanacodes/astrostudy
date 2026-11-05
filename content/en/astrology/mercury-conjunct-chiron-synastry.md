@@ -32,7 +32,7 @@ Some people find the one subject you've learned to talk around within their firs
 
 ## What flows {#what-flows}
 
-[Mercury](/astrology/mercury/) is how someone takes in information and gives it back: noticing, reasoning, asking, explaining. [Chiron](/astrology/chiron/) marks a sensitivity that doesn't go away, and the skills a person builds around it: another method, another pace, the practical wisdom of working around something rather than through it. A [conjunction](/astrology/conjunction/) brings two functions into one place, and among the [synastry aspects](/astrology/synastry-aspects/) that place belongs to two people at once: one brings the words, the other the tender ground they fall on.
+[Mercury](/astrology/mercury/) is how someone takes in information and gives it back: noticing, reasoning, asking, explaining. [Chiron](/astrology/chiron/) marks a sensitivity that doesn't go away, and the skills a person builds around it: another method, another pace, the practical wisdom of working around something rather than through it. A [conjunction](/astrology/conjunction/) fuses two functions into a single focus; in one of the [synastry aspects](/astrology/synastry-aspects/), that focus is shared, with one person bringing the words and the other the tender ground they fall on.
 
 If the Mercury is yours, your ordinary curiosity keeps arriving at the subject that matters most to the other person. You ask the question everyone else stepped around, or describe the thing they never found words for, often without knowing why it landed.
 
@@ -42,9 +42,7 @@ With one person's Mercury and the other's Chiron both in Gemini, a quick, talkat
 
 ## Where it rubs {#where-it-rubs}
 
-At no distance at all, the line between two people can smudge. The Mercury person can start speaking for the other's difficulty, summing it up to friends in words the Chiron person never chose. The Chiron person can start steering what may be said, until the other edits every sentence before it leaves. Neither is unkindness: words and sensitivity simply share one spot, and the conjunction still leaves room for a line between you, if you draw it.
-
-When a word lands with no padding and stings, it says more about where it landed than about what was meant: say so, rather than storing it.
+At no distance at all, the line between two people can smudge. The Mercury person can start speaking for the other's difficulty, summing it up to friends in words the Chiron person never chose. The Chiron person can start steering what may be said, until the other edits every sentence before it leaves. Neither is unkindness: words and sensitivity simply share one spot. The conjunction still leaves room for a line between you, if you draw it, and a remark that stings is worth saying out loud rather than storing.
 
 At the pair's other angles, the words and the tender place keep more distance:
 

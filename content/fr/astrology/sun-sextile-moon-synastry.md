@@ -2,13 +2,13 @@
 title: "Soleil sextile Lune en synastrie"
 slug: "soleil-sextile-lune-synastrie"
 h1: "Soleil sextile Lune entre deux thèmes"
-description: "Soleil sextile Lune en synastrie : la direction de l’une et les besoins de l’autre, prêts à s’entraider. Les deux côtés, sa fréquence, et ce qu’il demande."
+description: "Soleil sextile Lune en synastrie : la direction de l’une et les besoins de l’autre, prêts à s’entraider. Ce que vit chaque côté, sa fréquence, ce qu’il demande."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 2
 glyph: "☉⚹☽"
-definition: "Soleil sextile Lune en synastrie signifie que le Soleil d’une personne se trouve à environ 60° de la Lune de l’autre, à 4,8° près. La direction de l’une et les besoins de l’autre peuvent s’entraider au quotidien. J’y lis une offre de coopération des deux côtés : réelle, discrète, et facile à laisser dormir si personne ne demande."
+definition: "Soleil sextile Lune en synastrie signifie que le Soleil d’une personne se trouve à environ 60° de la Lune de l’autre, à 4,8° près. La direction de l’une et les besoins de l’autre peuvent s’entraider au quotidien. J’y lis une entraide discrète, dans les deux sens, qui dort tant que personne ne la demande."
 facts:
   - { k: "Corps", v: "Le Soleil ☉ de l’une, la Lune ☽ de l’autre" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -49,12 +49,12 @@ Il y a aussi un risque plus petit. Comme les projets de la personne du Soleil co
 - **[Soleil conjonction Lune en synastrie](/astrology/sun-conjunct-moon-synastry/) :** la nature de l’une juste sur les besoins de l’autre ; plus de proximité, et plus de risque de se confondre.
 - **[Soleil carré Lune en synastrie](/astrology/sun-square-moon-synastry/) :** un signe plus loin, l’échange devient une négociation sur les mêmes heures.
 - **[Soleil trigone Lune en synastrie](/astrology/sun-trine-moon-synastry/) :** deux signes plus loin, dans un même élément ; l’aide arrive avant qu’on la demande.
-- **[Soleil opposition Lune en synastrie](/astrology/sun-opposite-moon-synastry/) :** les luminaires se font face d’un bout à l’autre du zodiaque, et chacun montre à l’autre ce qu’il laisse de côté.
+- **[Soleil opposition Lune en synastrie](/astrology/sun-opposite-moon-synastry/) :** les luminaires se regardent à travers le zodiaque, et chacun montre à l’autre ce qu’il laisse de côté.
 
 ## Comment le vivre {#comment-le-vivre}
 
 Servez-vous-en exprès. Dites les petites choses : « j’aimerais une soirée tranquille », « je commence quelque chose et ton avis m’aiderait ». La personne de la Lune peut nommer un besoin avant qu’il ne tourne à l’humeur ; celle du Soleil peut inviter plutôt qu’annoncer. Entre un parent et son enfant adulte, ou dans une amitié ancienne, un appel régulier ou une promenade partagée suffisent souvent à garder la porte ouverte.
 
-Environ 1 paire de personnes sur 10 a ce sextile, dans un sens ou dans l’autre, à 4,8° près. C’est l’orbe le plus étroit que j’utilise pour le Soleil et la Lune, et avec un corps aussi rapide que la Lune, l’heure de naissance devient décisive : la Lune traverse toute la fenêtre en moins d’une journée. J’attends les deux heures de naissance avant de lire une synastrie, et ici, quelques heures peuvent décider si le contact existe ou non ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+À 4,8° près, et dans un sens ou dans l’autre, environ 1 paire de personnes sur 10 a ce sextile. C’est l’orbe le plus étroit que j’utilise pour le Soleil et la Lune, et avec un corps aussi rapide que la Lune, l’heure de naissance devient décisive : la Lune traverse toute la fenêtre en moins d’une journée. J’attends les deux heures de naissance avant de lire une synastrie, et ici, quelques heures peuvent décider si le contact existe ou non ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Dans un seul thème, le même angle s’appelle [Soleil sextile Lune](/astrology/sun-sextile-moon/), une naissance sous un croissant de lune. Entre deux personnes, les deux luminaires viennent de deux anniversaires différents, et la coopération demande que les deux s’en saisissent.
+À l’intérieur d’un seul thème, cet angle porte le nom de [Soleil sextile Lune](/astrology/sun-sextile-moon/) : on naît alors sous un croissant. Entre deux personnes, les deux luminaires viennent de deux anniversaires différents, et la coopération demande que les deux s’en saisissent.

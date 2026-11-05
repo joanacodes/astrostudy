@@ -31,19 +31,19 @@ Sun conjunct Mercury in synastry puts one person's Mercury on the other's Sun, a
 
 ## What flows {#what-flows}
 
-The [Sun](/astrology/sun/) organises identity and purpose: who a person is and where they're going. [Mercury](/astrology/mercury/) processes: it takes in, sorts, names and passes on, in words, questions and explanations. A [conjunction](/astrology/conjunction/) joins two functions in one place, and in [synastry aspects](/astrology/synastry-aspects/) each function keeps its owner: here one person brings the self, the other the mind that meets it.
+The [Sun](/astrology/sun/) organises identity and purpose: who a person is and where they're going. [Mercury](/astrology/mercury/) is the mind's traffic: noticing, sorting, naming, explaining. A [conjunction](/astrology/conjunction/) fuses two functions into one movement without either losing itself, and in [synastry aspects](/astrology/synastry-aspects/) each keeps its owner: here one person brings the self, the other the mind that meets it.
 
 One sign usually holds both, so the Mercury person's thinking shares the temperament of the Sun person's identity. A Gemini Mercury on a Gemini Sun: quick exchanges, and plenty of them. A Capricorn Mercury on a Capricorn Sun: plans talked through soberly, step by step, until they hold.
 
-If it's your Sun, the other person's mind seems tuned to you. They follow your reasoning before you've finished it, ask the question you were circling, and when they explain you to someone else, you recognise yourself. Being understood in words is its own pleasure, and it can make your own direction clearer to you.
+If it's your Sun, you meet a mind that seems tuned to you. They follow your reasoning before you've finished it, ask the question you were circling, and when they explain you to someone else, you recognise yourself. Being understood in words is its own pleasure, and it can make your own direction clearer to you.
 
 If it's your Mercury, the other person is good to think about and to think with. Their way of being gives your curiosity a centre: their projects become things you turn over, their choices make sense to you, and your words visibly matter to them, which not every listener offers.
 
-It shows between colleagues, one with the vision and one who writes the brief, and just as much between friends, or between a parent and an adult child.
+It shows between colleagues, one with the vision and one who writes the brief, and just as much between friends, or between a parent and a grown-up child.
 
 ## Where it rubs {#where-it-rubs}
 
-Two things this close can blur, and here the blur is between a description and a person. The Mercury person can drift into speaking for the Sun person: finishing their sentences, explaining what they really mean, deciding how their story goes. The Sun person can start taking that account as the truth about themselves, or feel quietly pinned down by it. However accurate it feels, a reading of someone is still a reading: as I understand Mercury, reasoning is not certainty.
+At a conjunction, what blurs is a description and the person it describes. The Mercury person can drift into speaking for the Sun person: finishing their sentences, explaining what they really mean, deciding how their story goes. The Sun person can start taking that account as the truth about themselves, or feel quietly pinned down by it. However accurate it feels, a reading of someone is still a reading: as I understand Mercury, reasoning is not certainty.
 
 Between two charts, the 28° leash that holds Mercury near the Sun in one chart is gone, so this pair can meet at every angle:
 
@@ -56,6 +56,6 @@ Between two charts, the 28° leash that holds Mercury near the Sun in one chart 
 
 Leave the last word on who someone is to the person it's about. The Mercury person can ask before explaining ("is that how you'd put it?"); the Sun person can say plainly when a description fits and when it doesn't. At work, let the one with the Sun present their own plan, even when the other could say it better; in a couple or a friendship, notice who usually tells your shared stories, and swap now and then.
 
-About 1 pair of people in 13 has this conjunction, one way round or the other, within 8°. Mercury stays close to the Sun of its own chart, so the two birthdays usually fall about two weeks apart, and rarely more than a month, whatever the years. With birthdays this close, it can even run both ways at once, each person's Mercury on the other's Sun.
+Counting both directions, about 1 pair of people in 13 has this conjunction within 8°. Mercury stays close to the Sun of its own chart, so the two birthdays usually fall about two weeks apart, and rarely more than a month, whatever the years. With birthdays this close, it can even run both ways at once, each person's Mercury on the other's Sun.
 
-Neither body moves fast enough for a few hours to make or break the meeting, except at the edge of the orb. What the times decide is where it lands, the house of each life the conversation belongs to, and I don't begin a synastry without both ([what changes without a birth time](/blog/unknown-birth-time/)). Within one chart, [Sun conjunct Mercury](/astrology/sun-conjunct-mercury/) is a mind and an identity working as one; here the mind belongs to someone else, which is what makes it so clarifying, and what asks for care.
+Neither body moves fast enough for a few hours to make or break the meeting, except at the edge of the orb. What the times decide is where it lands, the house of each life the conversation belongs to, and no synastry of mine starts without both ([what changes without a birth time](/blog/unknown-birth-time/)). Within one chart, [Sun conjunct Mercury](/astrology/sun-conjunct-mercury/) is a mind and an identity working as one; here the mind belongs to someone else, which is what makes it so clarifying, and what asks for care.

@@ -38,7 +38,7 @@ Le [Soleil](/astrology/sun/) organise une personne autour d’un centre : l’i
 
 Si c’est votre Soleil, le réconfort de l’autre semble se rassembler autour de ce que vous êtes déjà. Nul besoin de jouer un rôle pour avoir votre place : votre rythme, vos goûts, votre façon d’occuper une pièce ressemblent à ce qui l’apaise. J’y lis un accueil plutôt qu’un examen.
 
-Si c’est votre Lune, la présence de l’autre touche la part de vous qui vous tient d’aplomb. Sa façon d’être ordinaire a la couleur de vos besoins : avec votre Lune et son Soleil en Taureau, l’autre ne se presse jamais, exactement comme vous avez besoin que rien ne presse pour vous sentir en sécurité.
+Si c’est votre Lune, la présence de l’autre touche l’endroit où vous cherchez la sécurité. Sa façon d’être ordinaire a la couleur de vos besoins : avec votre Lune et son Soleil en Taureau, l’autre ne se presse jamais, exactement comme vous avez besoin que rien ne presse pour vous sentir en sécurité.
 
 Ce qui circule entre vous, c’est une reconnaissance : l’une est vue pour ce qu’elle est, l’autre rejointe dans ce dont elle a besoin, et les deux par le même geste. Cela se voit dans un couple qui trouve ses habitudes en quelques semaines, dans une amitié où la compagnie de l’une remet l’autre d’aplomb, chez deux collègues qui travaillent mieux dans la même pièce.
 
@@ -49,7 +49,7 @@ Deux choses aussi proches peuvent se confondre. La personne de la Lune peut se m
 Fusionner n’est pas se perdre, dans ma lecture de la conjonction : le travail consiste à rester deux au cœur de la familiarité. Les autres angles montrent ce qui change quand il y a plus d’espace :
 
 - **[Soleil sextile Lune en synastrie](/astrology/sun-sextile-moon-synastry/) :** moins de chevauchement, plus de voisinage ; une aide offerte à petite distance.
-- **[Soleil carré Lune en synastrie](/astrology/sun-square-moon-synastry/) :** les projets de l’une et les besoins de l’autre réclament les mêmes heures.
+- **[Soleil carré Lune en synastrie](/astrology/sun-square-moon-synastry/) :** ce que l’une projette et ce dont l’autre a besoin réclament les mêmes heures.
 - **[Soleil trigone Lune en synastrie](/astrology/sun-trine-moon-synastry/) :** une compagnie facile entre deux signes différents, où l’on se distingue mieux.
 - **[Soleil opposition Lune en synastrie](/astrology/sun-opposite-moon-synastry/) :** d’un bout à l’autre du zodiaque au lieu de l’un sur l’autre : un miroir plutôt qu’une fusion.
 
@@ -59,4 +59,4 @@ Ce qui aide, c’est un peu de distance choisie au sein de la proximité. La per
 
 Environ 1 paire de personnes sur 11 a cette conjonction, dans un sens ou dans l’autre, à 8° près : assez pour que je n’y lise jamais un destin. Je ne commence pas une synastrie sans les deux heures de naissance, et la Lune en est l’une des raisons : elle avance d’environ 13° par jour, et sans l’heure, elle peut se trouver n’importe où sur une plage d’environ 13°, de quoi faire ou défaire la rencontre ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Les maisons, qui montrent où le contact tombe dans chaque vie, demandent elles aussi les deux heures.
 
-Dans un seul thème, la même rencontre s’appelle [Soleil conjonction Lune](/astrology/sun-conjunct-moon/) : une personne née à la nouvelle lune porte seule les deux luminaires, une autre histoire que celle de deux personnes qui se les partagent. Et comme ce contact touche ce dont chacune a besoin pour se sentir en sécurité, je ne le lis que si les deux ont demandé la lecture ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Dans un seul thème, la même rencontre s’appelle [Soleil conjonction Lune](/astrology/sun-conjunct-moon/) : une personne née à la nouvelle lune porte seule les deux luminaires, une autre histoire que celle de deux personnes qui se les partagent. Et comme ce contact touche ce dont chacune a besoin pour se sentir en sécurité, la lecture demande que les deux l’aient voulue ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

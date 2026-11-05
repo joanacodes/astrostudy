@@ -2,7 +2,7 @@
 title: "Lune trigone Jupiter en synastrie"
 slug: "lune-trigone-jupiter-synastrie"
 h1: "Lune trigone Jupiter entre deux thèmes"
-description: "Lune trigone Jupiter en synastrie : encouragement et réconfort circulent dans les deux sens, dans un même élément. Les deux côtés, la fréquence, les angles morts."
+description: "Lune trigone Jupiter en synastrie : encouragement et réconfort vont dans les deux sens, dans un même élément. Les deux côtés, la fréquence, les angles morts."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -18,20 +18,20 @@ facts:
 related: ["/astrology/moon", "/astrology/jupiter", "/astrology/trine", "/astrology/moon-trine-jupiter", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Lune trigone Jupiter en synastrie ?"
-    a: "Jupiter, dans le thème d’une personne, forme un trigone, environ 120°, avec la Lune de l’autre, à 6,8° près. Le recul et la générosité de la première conviennent en général aux besoins de la seconde, et la chaleur de la seconde offre à la première un endroit où se poser. Cela décrit un courant facile entre deux personnes, pas une promesse sur la suite."
+    a: "Jupiter, dans le thème d’une personne, forme un trigone, environ 120°, avec la Lune de l’autre, à 6,8° près. Le recul et la générosité de la première conviennent en général aux besoins de la seconde, et la chaleur de la seconde offre à la première un endroit où se poser. Cela décrit un courant facile entre deux personnes, sans rien promettre pour la suite."
   - q: "Lune trigone Jupiter, est-ce la garantie de toujours s’entendre ?"
     a: "Aucun contact ne garantit cela. Le trigone rend l’encouragement et le réconfort faciles à échanger, ce qui aide les jours difficiles. Mais l’aisance n’a rien d’inévitable : deux adultes choisissent encore leur façon de se traiter, et le reste des deux thèmes a aussi son mot à dire."
   - q: "Qu’est-ce qui peut coincer dans un contact aussi facile ?"
-    a: "Surtout ce qui ne se dit pas. Le recul peut arriver avant que l’émotion ait été vécue, et la personne qui a Jupiter, toujours celle qui relève l’autre, risque de n’être jamais relevée à son tour. Appeler une mauvaise journée une mauvaise journée, et laisser le réconfort circuler dans les deux sens, garde cette aisance honnête."
+    a: "Surtout les choses tues. Le recul peut arriver avant que l’émotion ait été vécue, et la personne qui a Jupiter, toujours celle qui relève l’autre, risque de n’être jamais relevée à son tour. Appeler une mauvaise journée une mauvaise journée, et laisser le réconfort circuler dans les deux sens, garde cette aisance honnête."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6,8° près" }
 ---
-Lune trigone Jupiter en synastrie relie les besoins d’une personne et l’appétit de croissance de l’autre à environ 120°, en général à travers un même élément. Entre ces deux-là, une semaine difficile retrouve souvent sa vraie taille, et une idée trouve souvent quelqu’un pour s’en servir. Chacune des deux personnes se tient à un bout différent de cette aisance.
+Lune trigone Jupiter en synastrie accorde les besoins d’une personne et l’appétit de croissance de l’autre à environ 120°, en général à travers un même élément. Entre ces deux-là, une semaine difficile retrouve souvent sa vraie taille, et une idée trouve souvent quelqu’un pour s’en servir. Chacune des deux personnes se tient à un bout différent de cette aisance.
 
 ## Ce qui circule {#ce-qui-circule}
 
-La [Lune](/astrology/moon/) s’occupe du ressenti, de l’attachement et du sentiment de sécurité ; [Jupiter](/astrology/jupiter/) s’occupe du sens, de l’apprentissage, des principes et de la croissance. Un [trigone](/astrology/trine/) permet à deux fonctions de se renforcer sans qu’aucune prenne le dessus. Comme dans tous les [aspects de synastrie](/astrology/synastry-aspects/), chaque personne porte une des fonctions : le même courant se sent depuis deux rives.
+La [Lune](/astrology/moon/) s’occupe du ressenti, de l’attachement et du sentiment de sécurité ; [Jupiter](/astrology/jupiter/) s’occupe du sens, de l’apprentissage, des principes et de la croissance. Un [trigone](/astrology/trine/) permet à deux fonctions de se renforcer sans qu’aucune prenne le dessus. Comme pour chacun des [aspects de synastrie](/astrology/synastry-aspects/), chaque personne porte une des fonctions : le même courant se sent depuis deux rives.
 
 Quand vous êtes du côté de la Lune, ce contact rend vos émotions plus maniables. Vous arrivez avec une inquiétude et repartez avec l’impression que la chose a une forme, une suite, une place dans une histoire plus longue, sans avoir eu droit à un sermon. Sa compagnie élargit vos réconforts sans les bousculer.
 
@@ -54,6 +54,6 @@ Les autres contacts de la paire portent les mêmes fonctions avec plus d’effor
 
 Laissez une mauvaise journée être une mauvaise journée avant que quelqu’un lui trouve un sens. La personne qui a Jupiter peut parfois être celle dont on s’occupe ; celle qui a la Lune peut offrir une vue large autant qu’en recevoir. Dans un couple, cela peut devenir l’habitude d’échanger les rôles ; entre amis, la personne qui conseille toujours se voit demander comment elle va ; en famille, un frère ou une sœur adulte cesse d’avoir réponse à tout ; entre collègues, l’aide et les compliments circulent dans les deux sens.
 
-Environ 1 paire de personnes sur 7 a ce trigone, dans un sens ou dans l’autre, à 6,8° près. Il me faut les deux heures de naissance pour le voir. La Lune parcourt environ 13° par jour : quelques heures peuvent ouvrir ou fermer l’orbe, et le jour où la Lune change de signe, l’heure décide même de l’élément où tombe le trigone ; les maisons viennent aussi des heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Environ 1 paire de personnes sur 7 a ce trigone, dans un sens ou dans l’autre, à 6,8° près. Pour le voir, j’ai besoin des deux heures de naissance. En quelques heures, la Lune parcourt plusieurs degrés, environ 13 sur une journée entière, assez pour ouvrir ou fermer l’orbe, et les heures donnent aussi les maisons où chacune des deux personnes rencontre le trigone ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Dans un seul thème, [Lune trigone Jupiter](/astrology/moon-trine-jupiter/) appartient à une seule personne ; ici, c’est un courant entre deux, et ce qu’il porte dépend de vous deux.
+Dans un thème natal, [Lune trigone Jupiter](/astrology/moon-trine-jupiter/) appartient à une seule personne ; ici, c’est un courant entre deux, et ce qu’il porte dépend de vous deux.

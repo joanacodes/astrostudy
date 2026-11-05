@@ -21,7 +21,7 @@ faq:
   - q: "Is Moon sextile Jupiter a strong synastry aspect?"
     a: "It is a quiet one. A sextile offers cooperation rather than pressure, so it rarely dominates a comparison of two charts. Its strength shows in use: the trip taken, the course shared, the advice that arrived at the right size. Left alone, it stays a possibility, which is still worth knowing about."
   - q: "Can Moon sextile Jupiter work between colleagues?"
-    a: "Yes. Between coworkers it often looks like one person spotting chances to learn or grow, and the other knowing what the team needs in order to feel settled along the way. Like every contact between two charts, it describes how two people tend to meet, not how a job or a project turns out."
+    a: "Yes. Between coworkers it often looks like one person spotting chances to learn or grow, and the other knowing what the team needs in order to feel settled along the way. As with any contact between two charts, it shows a way of working side by side, not how a job or a project will end."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the sextile, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 4.8°" }
@@ -30,7 +30,7 @@ Moon sextile Jupiter in synastry links one person's needs to the other's urge to
 
 ## What flows {#what-flows}
 
-The [Moon](/astrology/moon/) looks after needs, attachment and responsiveness; [Jupiter](/astrology/jupiter/) looks after growth, meaning, learning and principles. A [sextile](/astrology/sextile/) relates two functions through opportunity and cooperation. Among [synastry aspects](/astrology/synastry-aspects/), that makes it an offer passed across two charts, and each side feels the offer differently.
+The [Moon](/astrology/moon/) looks after needs, attachment and responsiveness; [Jupiter](/astrology/jupiter/) looks after growth, meaning, learning and principles. A [sextile](/astrology/sextile/) is an aspect of open doors: it brings two functions together through opportunity, once someone acts on it. Among [synastry aspects](/astrology/synastry-aspects/), that makes it an offer passed across two charts, and each side feels the offer differently.
 
 Carrying the Moon, you tend to find this person's suggestions arrive at a size you can use. They notice you've been restless and mention a class, a weekend away, another way of looking at the problem, and you find you want to go. Their enthusiasm doesn't flatten your mood: it gives it somewhere to go.
 

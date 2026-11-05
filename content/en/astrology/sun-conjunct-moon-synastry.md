@@ -37,7 +37,7 @@ The [Sun](/astrology/sun/) organises a person around a centre: identity, vitalit
 
 If it's your Sun, the other person's comfort seems to gather around who you already are. You don't have to perform to be welcome: your rhythm, your interests, the way you take up a room come close to what settles them. I read it as being received rather than assessed.
 
-If it's your Moon, their presence reaches the part of you that keeps you steady. Their ordinary way of being has the colour of your own needs: with your Moon and their Sun both in Taurus, they are unhurried by nature, in exactly the way you need things unhurried to feel safe.
+If it's your Moon, their presence reaches the place where you look for safety. Their ordinary way of being has the colour of your own needs: with your Moon and their Sun both in Taurus, they are unhurried by nature, in exactly the way you need things unhurried to feel safe.
 
 What flows between you is recognition: one person is seen for who they are, the other is met in what they need, and both by the same gesture. It shows in a couple who settle into a shared routine within weeks, in a friendship where one person's company is the other's reset, in two colleagues who simply work better in the same room.
 
@@ -58,4 +58,4 @@ What helps is a little deliberate distance inside the closeness. The Moon person
 
 About 1 pair of people in 11 has this conjunction, one way round or the other, within 8°: common enough that I never read it as fate. I don't begin a synastry without both birth times, and the Moon is one reason: it moves about 13° a day, so without the time it could sit anywhere across a span of about 13°, enough to make or unmake the meeting ([what changes without a birth time](/blog/unknown-birth-time/)). The houses, which show where in each life the contact lands, need both times too.
 
-Inside one chart, the same meeting is [Sun conjunct Moon](/astrology/sun-conjunct-moon/): someone born at a new moon carries both lights alone, which is a different story from two people sharing them. And because this contact reaches what each person needs to feel safe, I read it only when both have asked for the reading ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Inside one chart, the same meeting is [Sun conjunct Moon](/astrology/sun-conjunct-moon/): someone born at a new moon carries both lights alone, which is a different story from two people sharing them. And because this contact touches what each person needs to feel safe, the reading needs both of them to have asked for it ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

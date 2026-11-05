@@ -20,9 +20,9 @@ faq:
   - q: "Que veut dire Lune sextile Jupiter en synastrie ?"
     a: "Jupiter, dans le thème d’une personne, forme un angle d’environ 60° avec la Lune de l’autre, à 4,8° près. Les idées, les projets et les apprentissages de la première arrivent chez la seconde comme des offres à sa mesure, et ses besoins leur donnent un endroit où se poser. Cela fonctionne sur invitation, et grandit quand les deux s’en saisissent."
   - q: "Lune sextile Jupiter, est-ce un aspect fort en synastrie ?"
-    a: "C’est un aspect discret. Un sextile offre une coopération plutôt qu’une pression : il domine rarement la comparaison de deux thèmes. Sa force se voit à l’usage : le voyage fait, le cours partagé, le conseil arrivé à la bonne taille. Laissé de côté, il reste une possibilité, et cela vaut déjà la peine de le savoir."
+    a: "C’est un aspect discret. Un sextile offre une coopération plutôt qu’une pression : il domine rarement la comparaison de deux thèmes. Sa force se voit à l’usage : le voyage fait, le cours partagé, le conseil arrivé à la bonne taille. Tant que personne ne s’en sert, il reste une possibilité, ce qu’il vaut déjà la peine de savoir."
   - q: "Est-ce que Lune sextile Jupiter fonctionne aussi entre collègues ?"
-    a: "Oui. Entre collègues, on voit souvent l’une des deux personnes repérer les occasions d’apprendre ou de grandir, et l’autre savoir ce dont l’équipe a besoin pour rester sereine en chemin. Comme tout contact entre deux thèmes, celui-ci décrit la façon dont deux personnes se rencontrent, pas l’issue d’un poste ou d’un projet."
+    a: "Oui. Entre collègues, on voit souvent l’une des deux personnes repérer les occasions d’apprendre ou de grandir, et l’autre savoir ce dont l’équipe a besoin pour rester sereine en chemin. Comme tout contact entre deux thèmes, celui-ci montre une façon de travailler côte à côte, pas l’issue d’un poste ou d’un projet."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 4,8° près" }
@@ -31,7 +31,7 @@ Lune sextile Jupiter en synastrie relie les besoins d’une personne à l’envi
 
 ## Ce qui circule {#ce-qui-circule}
 
-La [Lune](/astrology/moon/) veille sur les besoins, l’attachement et la capacité de réponse ; [Jupiter](/astrology/jupiter/) veille sur la croissance, le sens, l’apprentissage et les principes. Un [sextile](/astrology/sextile/) relie deux fonctions par l’occasion et la coopération. Parmi les [aspects de synastrie](/astrology/synastry-aspects/), cela en fait une offre qui passe d’un thème à l’autre, et chaque côté la reçoit à sa façon.
+La [Lune](/astrology/moon/) veille sur les besoins, l’attachement et la capacité de réponse ; [Jupiter](/astrology/jupiter/) veille sur la croissance, le sens, l’apprentissage et les principes. Un [sextile](/astrology/sextile/) est un aspect de portes ouvertes : il réunit deux fonctions par l’occasion, pour peu que quelqu’un s’en saisisse. Parmi les [aspects de synastrie](/astrology/synastry-aspects/), cela en fait une offre qui passe d’un thème à l’autre, et chaque côté la reçoit à sa façon.
 
 Du côté de la Lune, les suggestions de cette personne arrivent souvent à une taille dont vous pouvez vous servir. Elle remarque votre agitation et parle d’un cours, d’un week-end ailleurs, d’une autre façon de voir le problème, et vous avez envie d’y aller. Son enthousiasme n’écrase pas votre humeur : il lui donne une direction.
 
@@ -45,7 +45,7 @@ L’aisance d’un sextile cache sa condition : l’occasion demande de l’eng
 
 Dites oui exprès, de temps en temps. La personne qui a la Lune peut nommer un besoin clairement, pour que l’offre ait une cible ; celle qui a Jupiter peut proposer une chose au lieu de cinq. Pour un couple, ce peut être un projet commun qui réconforte aussi ; entre amis, des livres et des idées qui passent de main en main ; entre deux proches, un voyage annuel qui convient aux deux ; au travail, une suggestion d’encadrement ajustée au vrai rythme de l’autre.
 
-Environ 1 paire de personnes sur 10 a ce sextile, dans un sens ou dans l’autre, à 4,8° près. La fenêtre est étroite, et la Lune parcourt environ 13° par jour, plus que la fenêtre entière : ce sont donc les deux heures de naissance qui décident si le sextile existe ; elles donnent aussi les maisons, là où chaque vie reçoit les offres ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)). Jupiter passe environ un an dans un signe : la moitié du contact qui lui revient est partagée par toutes les personnes nées la même année, et c’est la Lune qui vous distingue, vous deux.
+Environ 1 paire de personnes sur 10 a ce sextile, dans un sens ou dans l’autre, à 4,8° près. La fenêtre est étroite, et la Lune parcourt environ 13° par jour, plus que la fenêtre entière : ce sont donc les deux heures de naissance qui décident si le sextile existe ; elles donnent aussi les maisons, là où chaque vie reçoit les offres ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)). Jupiter passe environ un an dans un signe : la moitié du contact qui lui revient est commune à toutes les naissances de la même année, et c’est la Lune qui vous distingue, vous deux.
 
 Chaque autre angle change ce que Jupiter, chez l’une, fait à la Lune de l’autre :
 

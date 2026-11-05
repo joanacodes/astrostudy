@@ -1,13 +1,13 @@
 ---
 title: "Sun square Moon in synastry"
 h1: "Sun square Moon between two charts"
-description: "Sun square Moon in synastry: one person’s direction and the other’s need for comfort asking for the same hours. Both sides, how common, how to meet it."
+description: "Sun square Moon in synastry: what one person aims for and what the other needs to feel safe, asking for the same hours. Both sides, how to meet it."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 3
 glyph: "☉□☽"
-definition: "Sun square Moon in synastry means one person’s Sun is about 90° from the other’s Moon, within 6.8°. Between the two, one person’s direction and the other’s need for comfort keep asking for the same moments. I read it as friction that teaches two people each other’s timing, never as a mismatch or anyone’s fault."
+definition: "Sun square Moon in synastry means one person’s Sun is about 90° from the other’s Moon, within 6.8°. What one of them is aiming for and the other’s need for comfort keep asking for the same moments. I read it as friction that teaches two people each other’s timing, never as a mismatch or anyone’s fault."
 facts:
   - { k: "Bodies", v: "One person’s Sun ☉, the other’s Moon ☽" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -18,9 +18,9 @@ facts:
 related: ["/astrology/sun", "/astrology/moon", "/astrology/square", "/astrology/sun-square-moon", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Sun square Moon mean in synastry?"
-    a: "One person’s Sun sits about 90° from the other’s Moon, usually three signs apart. The Sun person’s plans and the Moon person’s needs keep arriving at the same moment with different requests. It describes friction between two rhythms, and friction can be learned from; it doesn’t say that two people don’t belong together."
+    a: "One person’s Sun sits about 90° from the other’s Moon, usually three signs apart. What the Sun person is aiming for and what the Moon person needs keep arriving at the same moment with different requests. It describes friction between two rhythms, and friction can be learned from; it doesn’t say that two people don’t belong together."
   - q: "Is Sun square Moon bad in synastry?"
-    a: "No aspect is bad as I read it, and this one is among the commonest: about 1 pair of people in 7 has it, one way round or the other. It describes a difference in timing between who one person is and what the other needs. Friction asks for adjustment; it doesn’t predict how a relationship goes."
+    a: "No aspect is bad as I read it, and this one is among the commonest: about 1 pair of people in 7 has it, one way round or the other. It describes a difference in timing between one person’s direction and the other’s needs. Friction asks for adjustment; it doesn’t predict how a relationship goes."
   - q: "Who feels Sun square Moon more?"
     a: "The Moon person may notice it first, because it touches their sense of safety: they can feel rushed, or that their needs are in the way. The Sun person tends to feel it as resistance, plans meeting a mood. Neither is at fault; each is feeling one end of the same square."
   - q: "Can Sun square Moon work between friends or coworkers?"
@@ -33,7 +33,7 @@ One of you is ready to go; the other needs a moment first. Sun square Moon in sy
 
 ## What flows {#what-flows}
 
-The [Sun](/astrology/sun/) organises a person around purpose: identity, vitality, where they're heading. The [Moon](/astrology/moon/) regulates their need for comfort: feelings, attachment, the habits that make a day feel safe. A [square](/astrology/square/) relates two functions through constructive friction, and like every one of the [synastry aspects](/astrology/synastry-aspects/), it hands each function to a different person.
+The [Sun](/astrology/sun/) gives a person their purpose: identity, vitality, where they're heading. The [Moon](/astrology/moon/) regulates their need for comfort: feelings, attachment, the habits that make a day feel safe. A [square](/astrology/square/) relates two functions through constructive friction, and like every one of the [synastry aspects](/astrology/synastry-aspects/), it hands each function to a different person.
 
 The two signs usually share a modality, which gives the friction its flavour. One person's Sun in Leo with the other's Moon in Scorpio: someone who comes alive when seen, beside someone who needs privacy to feel safe. A Sun in Sagittarius with a Moon in Virgo: an appetite for the next horizon, beside a need for order and a known routine.
 
@@ -58,4 +58,4 @@ Talk about timing rather than about each other. "Is now a good time?" from the S
 
 About 1 pair of people in 7 has this square, one way round or the other, within 6.8°, which makes it one of the commonest contacts between two charts. The Moon moves about 13° a day, so the hour of birth can put the square in or out of orb, and the houses, the part of each life where the two rhythms meet, depend on both times. That's why I start a synastry only once both are known ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Inside one chart, the same angle is [Sun square Moon](/astrology/sun-square-moon/): a half-moon birth, where one person negotiates with themselves. Between two people the negotiation is real, and so is the consent it needs: I read it for both, with both ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+A single chart can hold this angle too, as [Sun square Moon](/astrology/sun-square-moon/): a half-moon birth, where one person negotiates with themselves. Between two people the negotiation is real, and so is the consent it needs: I read it for both, with both ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

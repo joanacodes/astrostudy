@@ -1,13 +1,13 @@
 ---
 title: "Sun sextile Moon in synastry"
 h1: "Sun sextile Moon between two charts"
-description: "Sun sextile Moon in synastry: one person’s direction and the other’s needs, ready to help each other. Both sides, how common it is, what it asks."
+description: "Sun sextile Moon in synastry: one person’s direction and the other’s needs, ready to help each other. Each side’s view, how often pairs have it, what it asks."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 2
 glyph: "☉⚹☽"
-definition: "Sun sextile Moon in synastry means one person’s Sun is about 60° from the other’s Moon, within 4.8°. One person’s direction and the other’s needs can help each other in small, daily ways. I read it as an offer of cooperation on both sides: real, quiet, and easy to leave unused unless someone asks."
+definition: "Sun sextile Moon in synastry means one person’s Sun is about 60° from the other’s Moon, within 4.8°. One person’s direction and the other’s needs can help each other in small, daily ways. I read it as quiet help running both ways, easy to leave unused unless someone asks."
 facts:
   - { k: "Bodies", v: "One person’s Sun ☉, the other’s Moon ☽" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -54,6 +54,6 @@ There's a smaller risk too. Because the Sun person's plans usually suit the Moon
 
 Use it on purpose. Say the small things: "I'd love a quiet evening", "I'm starting something and I'd like your eye on it". The Moon person can name a need before it turns into a mood; the Sun person can invite rather than announce. Between a parent and an adult child, or in an old friendship, a regular call or a shared walk is often enough to keep the door open.
 
-About 1 pair of people in 10 has this sextile, one way round or the other, within 4.8°. That's the narrowest orb I use for the Sun and Moon, and with a body as quick as the Moon, it makes the birth time decisive: the Moon crosses the whole window in less than a day. I wait for both birth times before reading any synastry, and here a few hours can decide whether the contact exists at all ([what changes without a birth time](/blog/unknown-birth-time/)).
+Within 4.8°, and counting it either way round, about 1 pair of people in 10 has this sextile. That's the narrowest orb I use for the Sun and Moon, and with a body as quick as the Moon, it makes the birth time decisive: the Moon crosses the whole window in less than a day. I wait for both birth times before reading any synastry, and here a few hours can decide whether the contact exists at all ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Within one chart, the same angle is [Sun sextile Moon](/astrology/sun-sextile-moon/), a birth under a crescent moon. Between two people, the two lights come from two different birthdays, and the cooperation needs both of them to take it up.

@@ -33,11 +33,11 @@ Nobody is born with the Sun sextile Mercury. Mercury never gets more than about 
 
 ## What flows {#what-flows}
 
-The [Sun](/astrology/sun/) carries a person's identity and direction. [Mercury](/astrology/mercury/) handles information: it notices, connects, names and passes things on. A [sextile](/astrology/sextile/) relates two functions through cooperation that pays out once someone engages, and like all [synastry aspects](/astrology/synastry-aspects/), this one splits the work between two people: the direction in one chart, the mind in the other.
+The [Sun](/astrology/sun/) carries a person's identity and direction. [Mercury](/astrology/mercury/) handles information: it notices, connects, names and passes things on. A [sextile](/astrology/sextile/) is an offer of cooperation that pays out once someone engages, and like all [synastry aspects](/astrology/synastry-aspects/), this one splits the work between two people: the direction in one chart, the mind in the other.
 
-Two signs apart usually means fire with air, or earth with water. One person's Sun in Leo with the other's Mercury in Libra: a project worth showing, and someone who knows how to present it. A Taurus Sun with a Cancer Mercury: steady plans, and a mind that remembers what everyone involved will need.
+A sextile usually links a fire sign with an air sign, or water with earth. A Leo Sun in one chart, a Libra Mercury in the other: a project worth showing, and someone who knows how to present it. A Taurus Sun with a Cancer Mercury: steady plans, and a mind that remembers what everyone involved will need.
 
-If it's your Sun, the other person tends to hand you the right thing at the right moment: a name, an article, a phrase that unlocks what you're trying to do. Their ideas serve your direction without asking you to change it. If it's your Mercury, you find a listener who does something with what you say. Thoughts you'd have left in a notebook become part of someone's plans, and few things please a curious mind more than seeing an idea taken up.
+If it's your Sun, you tend to be handed the right thing at the right moment: a name, an article, a phrase that unlocks what you're trying to do. Their ideas serve your direction without asking you to change it. If it's your Mercury, you find a listener who does something with what you say. Thoughts you'd have left in a notebook become part of someone's plans, and few things please a curious mind more than seeing an idea taken up.
 
 Friends swapping recommendations, colleagues where one sets the course and the other does the research, a sibling who always knows who to call: the sextile turns conversation into a resource.
 
@@ -49,13 +49,13 @@ At other angles, the same mind and the same direction meet differently:
 
 - **[Sun conjunct Mercury in synastry](/astrology/sun-conjunct-mercury-synastry/):** birthdays a fortnight apart, one mind on the other's Sun; understanding that can tip into a label.
 - **[Sun square Mercury in synastry](/astrology/sun-square-mercury-synastry/):** a sign further round; the ideas start questioning the direction instead of serving it.
-- **[Sun trine Mercury in synastry](/astrology/sun-trine-mercury-synastry/):** two signs further, in one element; the help comes as understanding rather than information.
+- **[Sun trine Mercury in synastry](/astrology/sun-trine-mercury-synastry/):** four signs apart, usually in one element; understanding instead of information.
 - **[Sun opposite Mercury in synastry](/astrology/sun-opposite-mercury-synastry/):** the far side of the zodiac; the ideas become the other side of the argument.
 
 ## How to meet it {#how-to-meet-it}
 
 Give credit out loud, and often: "that was your idea" costs nothing and keeps the current running both ways. Ask about the Mercury person's ideas for their own sake, not only for what they can do for your plans, and let the Sun person's direction be questioned now and then too. At work, a short weekly exchange of what each of you is thinking can keep the alliance alive; between friends or in a couple, so can "what are you curious about lately?"
 
-About 1 pair of people in 10 has this sextile, one way round or the other, within 4.8°. Because each person's Mercury stays near their own Sun, it mostly joins people whose birthdays fall about two months apart, anywhere from one month to three, whatever the years.
+With an orb of 4.8°, about 1 pair of people in 10 has it, one way round or the other. Because each person's Mercury stays near their own Sun, it mostly joins people whose birthdays fall about two months apart, anywhere from one month to three, whatever the years.
 
-A few hours barely move either body, so the birth time seldom decides whether the sextile is there; it decides where it lands, the house of each life where the useful conversations happen. I don't begin a synastry without both times ([what changes without a birth time](/blog/unknown-birth-time/)).
+A few hours barely move either body, so the birth time seldom decides whether the sextile is there; it decides the houses, the parts of each life where the useful conversations happen. Both times are needed before I begin ([what changes without a birth time](/blog/unknown-birth-time/)).

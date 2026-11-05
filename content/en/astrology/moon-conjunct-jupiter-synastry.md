@@ -17,9 +17,9 @@ facts:
 related: ["/astrology/moon", "/astrology/jupiter", "/astrology/conjunction", "/astrology/moon-conjunct-jupiter", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Moon conjunct Jupiter mean in synastry?"
-    a: "One person’s Jupiter sits within 8° of the other’s Moon. The Jupiter person’s way of growing and making sense of things meets the Moon person’s needs head on, so feelings tend to get room and generosity tends to find a use. It describes how the two of you meet, not where the relationship goes."
+    a: "One person’s Jupiter sits within 8° of the other’s Moon. The Jupiter person’s way of growing and making sense of things meets the Moon person’s needs head on, so feelings tend to get room and generosity tends to find a use. That is a pattern of meeting, not a forecast for the relationship."
   - q: "Is Moon conjunct Jupiter a lucky aspect between two people?"
-    a: "Not as I read it. Jupiter describes growth, meaning and learning, not luck, and no contact between two charts decides whether a relationship works. This one makes generosity easy to give and to receive. What two people build with that depends on them, and on everything else in both charts."
+    a: "Not as I read it. Luck isn’t part of what Jupiter does: it widens, learns and makes meaning, and no contact between two charts settles whether a relationship works. This one makes generosity easy to give and to receive. What two people build with that depends on them, and on everything else in both charts."
   - q: "Does it matter whose Moon and whose Jupiter it is?"
     a: "Yes, for how it feels. The Moon person tends to experience room: their feelings are taken seriously and given a larger frame. The Jupiter person tends to experience purpose: their ideas and generosity land somewhere warm and turn into care. It is one contact, lived from two ends."
 sources:
@@ -38,7 +38,7 @@ If Jupiter is yours, your appetite for meaning lands somewhere warm. Ideas that 
 
 ## Where it rubs {#where-it-rubs}
 
-Two things this close blur, and here a feeling can be enlarged before it has been felt. The Moon person says they're tired; the Jupiter person hears that something bigger must change, a job, a city, an outlook. The Moon person may also take on the other's beliefs as comforts without ever choosing them, while the Jupiter person can turn the other's moods into a mission, as if a low evening were a problem to solve. Fusion is not identity loss, as I read the conjunction: the work is keeping two people inside one generous gesture.
+At this distance the two functions overlap, and a feeling can be enlarged before it has been felt. The Moon person says they're tired; the Jupiter person hears that something bigger must change, a job, a city, an outlook. The Moon person may also take on the other's beliefs as comforts without ever choosing them, while the Jupiter person can turn the other's moods into a mission, as if a low evening were a problem to solve. A conjunction joins without erasing anyone; the work is keeping two people inside one generous gesture.
 
 The other angles spread the same two functions further apart:
 
@@ -51,8 +51,8 @@ The other angles spread the same two functions further apart:
 
 Let some feelings stay small. The Moon person can say "just company tonight" and be believed; the Jupiter person can ask "ideas, or an ear?" before reaching for the bigger picture. In a couple, that means plans with room for the other's routines; between friends or siblings, perspective offered and a kitchen table shared; at work, ambitions checked against what a colleague needs in order to do well.
 
-About 1 pair of people in 12 has this conjunction, one way round or the other, within 8°. Both birth times matter: the Moon moves about 13° a day, so the hour can set it on Jupiter or carry it out of orb, and the houses, where each life receives the contact, need the times as well ([what changes without a birth time](/blog/unknown-birth-time/)). Without them, I don't begin.
+About 1 pair of people in 12 has this conjunction, one way round or the other, within 8°. Both birth times matter: the Moon moves about 13° a day, so the hour can set it on Jupiter or carry it out of orb, and without the times there are no houses to show where each life takes the contact in ([what changes without a birth time](/blog/unknown-birth-time/)). Without them, I don't begin.
 
 Within one chart, [Moon conjunct Jupiter](/astrology/moon-conjunct-jupiter/) is a single person whose need and growth move as one; here, each of you can step back and see the other.
 
-Generous as it is, this contact still means reading someone else's chart, so I compare two charts only when both people have asked ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Generous as it is, this contact still means reading someone else's chart, so I only set two charts side by side when both people want the comparison ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

@@ -32,7 +32,7 @@ Soleil conjonction Mercure en synastrie place Mercure, dans le thème d’une pe
 
 ## Ce qui circule {#ce-qui-circule}
 
-Le [Soleil](/astrology/sun/) organise l’identité et le but : qui est une personne, et où elle va. [Mercure](/astrology/mercury/) traite ce qui arrive : recevoir, trier, nommer, transmettre, en mots, en questions, en explications. Une [conjonction](/astrology/conjunction/) réunit deux fonctions au même endroit, et dans les [aspects de synastrie](/astrology/synastry-aspects/), chaque fonction garde sa propriétaire : ici, l’une apporte le soi, l’autre l’esprit qui le rencontre.
+Le [Soleil](/astrology/sun/) organise l’identité et le but : qui est une personne, et où elle va. [Mercure](/astrology/mercury/), c’est la circulation de l’esprit : remarquer, trier, nommer, expliquer. Une [conjonction](/astrology/conjunction/) fond deux fonctions en un seul mouvement sans qu’aucune s’y perde, et dans les [aspects de synastrie](/astrology/synastry-aspects/), chacune garde sa propriétaire : ici, l’une apporte le soi, l’autre l’esprit qui le rencontre.
 
 Un même signe tient en général les deux, si bien que la pensée de la personne de Mercure a le tempérament de l’identité de l’autre. Mercure en Gémeaux sur un Soleil en Gémeaux : des échanges rapides, et beaucoup. Mercure en Capricorne sur un Soleil en Capricorne : des projets discutés sobrement, pas à pas, jusqu’à ce qu’ils tiennent.
 
@@ -40,11 +40,11 @@ Si c’est votre Soleil, l’esprit de l’autre semble réglé sur vous. L’au
 
 Si c’est votre Mercure, l’autre est une personne avec qui l’on pense volontiers. Sa façon d’être donne un centre à votre curiosité : ses projets deviennent des choses que vous retournez dans votre tête, ses choix vous paraissent sensés, et vos mots comptent visiblement pour elle, ce que toute écoute n’offre pas.
 
-Cela se voit entre collègues, quand une personne porte la vision et l’autre rédige le cahier des charges, en amitié comme entre un parent et son enfant adulte.
+Cela se voit entre collègues, quand une personne porte la vision et l’autre rédige le cahier des charges, en amitié comme en famille.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Deux choses aussi proches peuvent se confondre, et ici la confusion se fait entre une description et une personne. La personne de Mercure peut se mettre à parler à la place de l’autre : finir ses phrases, expliquer ce qu’elle veut vraiment dire, décider comment son histoire se raconte. La personne du Soleil peut se mettre à prendre ce récit pour la vérité sur elle-même, ou s’y sentir doucement épinglée. Aussi juste qu’elle paraisse, une lecture de quelqu’un reste une lecture : dans ma compréhension de Mercure, raisonner n’est pas avoir une certitude.
+Ici, ce qui se confond, c’est une description et la personne qu’elle décrit. La personne de Mercure peut se mettre à parler à la place de l’autre : finir ses phrases, expliquer ce qu’elle veut vraiment dire, décider comment son histoire se raconte. La personne du Soleil peut se mettre à prendre ce récit pour la vérité sur elle-même, ou s’y sentir doucement épinglée. Aussi juste qu’elle paraisse, une lecture de quelqu’un reste une lecture : dans ma compréhension de Mercure, raisonner n’est pas avoir une certitude.
 
 Entre deux thèmes, la laisse de 28° qui retient Mercure près du Soleil dans un seul thème disparaît, et la paire peut se rencontrer sous tous les angles :
 
@@ -57,6 +57,6 @@ Entre deux thèmes, la laisse de 28° qui retient Mercure près du Soleil dans u
 
 Laissez le dernier mot sur une personne à la personne concernée. Celle de Mercure peut demander avant d’expliquer (« c’est comme ça que tu le dirais ? ») ; celle du Soleil peut dire franchement quand une description lui va et quand elle ne lui va pas. Au travail, laissez la personne du Soleil présenter son propre projet, même si l’autre le dirait mieux ; en couple ou en amitié, remarquez qui raconte d’habitude vos histoires communes, et échangez parfois.
 
-Environ 1 paire de personnes sur 13 a cette conjonction, dans un sens ou dans l’autre, à 8° près. Mercure reste près du Soleil de son propre thème, si bien que les deux anniversaires tombent en général à une quinzaine de jours d’écart, et rarement à plus d’un mois, quelles que soient les années. Avec des dates aussi proches, le contact peut même aller dans les deux sens à la fois : le Soleil de chacune touché par Mercure, dans le thème de l’autre.
+En comptant les deux sens, environ 1 paire de personnes sur 13 a cette conjonction à 8° près. Mercure reste près du Soleil de son propre thème, si bien que les deux anniversaires tombent en général à une quinzaine de jours d’écart, et rarement à plus d’un mois, quelles que soient les années. Avec des dates aussi proches, le contact peut même aller dans les deux sens à la fois : le Soleil de chacune touché par Mercure, dans le thème de l’autre.
 
-Aucun des deux corps ne va assez vite pour que quelques heures fassent ou défassent la rencontre, sauf au bord de l’orbe. Ce que les heures décident, c’est où elle tombe, la maison de chaque vie à laquelle appartient la conversation, et je ne commence pas une synastrie sans les deux ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Dans un seul thème, [Soleil conjonction Mercure](/astrology/sun-conjunct-mercury/) est un esprit et une identité qui ne font qu’un ; ici, l’esprit appartient à quelqu’un d’autre, et c’est ce qui le rend si éclairant, et ce qui demande du soin.
+Aucun des deux corps ne va assez vite pour que quelques heures fassent ou défassent la rencontre, sauf au bord de l’orbe. Ce que les heures décident, c’est où elle tombe, la maison de chaque vie à laquelle appartient la conversation, et aucune de mes synastries ne commence sans les deux ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Dans un seul thème, [Soleil conjonction Mercure](/astrology/sun-conjunct-mercury/) est un esprit et une identité qui ne font qu’un ; ici, l’esprit appartient à quelqu’un d’autre, et c’est ce qui le rend si éclairant, et ce qui demande du soin.
