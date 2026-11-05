@@ -25,7 +25,7 @@ faq:
   - q: "Do genuine astrologers guarantee results?"
     a: "A careful one never does. A chart describes tendencies and seasons, and your choices do the rest, so no honest reading can promise that someone will come back, that a case will be won or that money will come. A guarantee is a sales line, not a reading."
   - q: "I paid an astrologer and now I feel foolish. What should I do?"
-    a: "Stop paying, keep every message and receipt, tell someone you trust, ask your bank what can be done if money has gone, and report it. Being taken in says nothing about your intelligence: these offers tend to reach people when they’re grieving, frightened or worn out."
+    a: "Stop paying, keep every message and receipt, tell someone you trust, ask your bank what can be done if money has gone, and report it. Being taken in says nothing about your intelligence: these offers can reach anyone who is grieving, frightened or worn out."
 sources:
   - { title: "How I read", page: "/how-i-read", note: "the subjects I refuse, curses among them" }
   - { title: "Disclaimers", page: "/disclaimers", note: "no outcome promised; what I don’t claim" }
@@ -49,5 +49,5 @@ I'd rather you checked me than trusted me. A careful practice is visible from th
 - **Being won over by one striking line.** A detail that lands can feel like proof. But general statements feel personal when they're addressed to you ([The Barnum (Forer) effect](/astrology/barnum-forer-effect/)), and an attentive listener learns a great deal from how you answer ([Cold reading](/astrology/cold-reading/)). Judge the method, not the moment.
 - **Treating a gift as a qualification.** I don't claim one: there's nothing in a reading you couldn't learn yourself, with time. A gift nobody can check is no reason to pay.
 - **Paying once more to make it stop.** No fee lifts a curse, so no payment is ever the last one asked for. Stopping is the one step that ends the payments.
-- **Keeping quiet out of embarrassment.** These offers tend to find people at their lowest, after a death, a break-up or a diagnosis, and being reached at such a moment says nothing about anyone's intelligence. Telling one person you trust is the quickest way back to solid ground.
+- **Keeping quiet out of embarrassment.** These offers can find anyone at a low moment, after a death, a break-up or a diagnosis, and being reached at such a moment says nothing about anyone's intelligence. Telling one person you trust is the quickest way back to solid ground.
 - **Blaming the person who was taken in.** Whether it's you or someone you love, the fault lies with the method and with whoever used it. Shame keeps people paying in silence; kindness gets them talking.
