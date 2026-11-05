@@ -40,7 +40,7 @@ Si c’est votre Soleil, le réconfort de l’autre semble se rassembler autour 
 
 Si c’est votre Lune, la présence de l’autre touche la part de vous qui vous tient d’aplomb. Sa façon d’être ordinaire a la couleur de vos besoins : avec votre Lune et son Soleil en Taureau, l’autre ne se presse jamais, exactement comme vous avez besoin que rien ne presse pour vous sentir en sécurité.
 
-Ce qui circule entre vous, c’est une reconnaissance : l’une est vue pour ce qu’elle est, l’autre rejointe dans ce dont elle a besoin, et les deux par le même geste. Cela se voit dans un couple qui trouve ses habitudes communes en quelques semaines, dans une amitié où la compagnie de l’une remet l’autre d’aplomb, chez deux collègues qui travaillent mieux dans la même pièce.
+Ce qui circule entre vous, c’est une reconnaissance : l’une est vue pour ce qu’elle est, l’autre rejointe dans ce dont elle a besoin, et les deux par le même geste. Cela se voit dans un couple qui trouve ses habitudes en quelques semaines, dans une amitié où la compagnie de l’une remet l’autre d’aplomb, chez deux collègues qui travaillent mieux dans la même pièce.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
@@ -51,11 +51,11 @@ Fusionner n’est pas se perdre, dans ma lecture de la conjonction : le travail
 - **[Soleil sextile Lune en synastrie](/astrology/sun-sextile-moon-synastry/) :** moins de chevauchement, plus de voisinage ; une aide offerte à petite distance.
 - **[Soleil carré Lune en synastrie](/astrology/sun-square-moon-synastry/) :** les projets de l’une et les besoins de l’autre réclament les mêmes heures.
 - **[Soleil trigone Lune en synastrie](/astrology/sun-trine-moon-synastry/) :** une compagnie facile entre deux signes différents, où l’on se distingue mieux.
-- **[Soleil opposition Lune en synastrie](/astrology/sun-opposite-moon-synastry/) :** le face-à-face au lieu de la superposition, chacune tenant le bout dont l’autre s’écarte.
+- **[Soleil opposition Lune en synastrie](/astrology/sun-opposite-moon-synastry/) :** d’un bout à l’autre du zodiaque au lieu de l’un sur l’autre : un miroir plutôt qu’une fusion.
 
 ## Comment le vivre {#comment-le-vivre}
 
-Ce qui aide, c’est un peu de distance choisie au sein de la proximité. La personne de la Lune peut vérifier de temps en temps si une habitude est la sienne ou empruntée ; celle du Soleil, demander ce dont l’autre a besoin au lieu de supposer que sa compagnie y suffit. Dans un couple, cela peut être une soirée à soi de temps en temps ; en amitié ou dans une fratrie, dire « pas cette fois » sans que cela veuille dire autre chose ; entre collègues, garder son propre rythme même quand l’autre en donne un bon.
+Ce qui aide, c’est un peu de distance choisie au sein de la proximité. La personne de la Lune peut vérifier parfois si une habitude est la sienne ou empruntée ; celle du Soleil, demander ce dont l’autre a besoin au lieu de supposer que sa compagnie y suffit. Dans un couple, cela peut être une soirée à soi de temps en temps ; en amitié ou dans une fratrie, dire « pas cette fois » sans que cela veuille dire autre chose ; entre collègues, garder son propre rythme même quand l’autre en donne un bon.
 
 Environ 1 paire de personnes sur 11 a cette conjonction, dans un sens ou dans l’autre, à 8° près : assez pour que je n’y lise jamais un destin. Je ne commence pas une synastrie sans les deux heures de naissance, et la Lune en est l’une des raisons : elle avance d’environ 13° par jour, et sans l’heure, elle peut se trouver n’importe où sur une plage d’environ 13°, de quoi faire ou défaire la rencontre ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Les maisons, qui montrent où le contact tombe dans chaque vie, demandent elles aussi les deux heures.
 

@@ -50,7 +50,7 @@ Fusion is not identity loss, as I read the conjunction. The work is keeping two 
 - **[Sun sextile Moon in synastry](/astrology/sun-sextile-moon-synastry/):** less overlap, more neighbourliness; help offered across a little distance.
 - **[Sun square Moon in synastry](/astrology/sun-square-moon-synastry/):** the Sun person's plans and the Moon person's needs want the same hours.
 - **[Sun trine Moon in synastry](/astrology/sun-trine-moon-synastry/):** easy company between two people in different signs, which keeps them easier to tell apart.
-- **[Sun opposite Moon in synastry](/astrology/sun-opposite-moon-synastry/):** facing instead of overlapping, each holding the end the other leans away from.
+- **[Sun opposite Moon in synastry](/astrology/sun-opposite-moon-synastry/):** across the zodiac instead of on top of each other: a mirror rather than a merger.
 
 ## How to meet it {#how-to-meet-it}
 
