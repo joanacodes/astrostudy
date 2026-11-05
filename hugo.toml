@@ -72,6 +72,15 @@ enableGitInfo = true
         blurb = "Notes from the reading desk."
         image = ""   # the card's picture in the computer menu, e.g. "media/menu/blog.jpg" (about 4:3)
     [[languages.en.menus.main]]
+      name = "Encyclopaedia"
+      pageRef = "/astrology"
+      weight = 37
+      [languages.en.menus.main.params]
+        glyph = "☿"
+        blurb = "Every planet, sign, house and aspect, in plain words."
+        list = false   # a plain link: the encyclopaedia has too many pages for a dropdown
+        image = ""   # the card's picture in the computer menu, e.g. "media/menu/encyclopaedia.jpg" (about 4:3)
+    [[languages.en.menus.main]]
       name = "Kind words"
       pageRef = "/"
       weight = 40
@@ -151,6 +160,15 @@ enableGitInfo = true
         glyph = "✦"
         blurb = "Notes depuis ma table de lecture."
         image = ""   # the card's picture in the computer menu, e.g. "media/menu/blog.jpg" (about 4:3)
+    [[languages.fr.menus.main]]
+      name = "Encyclopédie"
+      pageRef = "/astrology"
+      weight = 37
+      [languages.fr.menus.main.params]
+        glyph = "☿"
+        blurb = "Chaque planète, chaque signe, chaque maison et chaque aspect, en mots simples."
+        list = false   # a plain link: the encyclopaedia has too many pages for a dropdown
+        image = ""   # the card's picture in the computer menu, e.g. "media/menu/encyclopaedia.jpg" (about 4:3)
     [[languages.fr.menus.main]]
       name = "Témoignages"
       pageRef = "/"
