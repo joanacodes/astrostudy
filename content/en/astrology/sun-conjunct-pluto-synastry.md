@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "four aspects measured between signs; the conjunction is left out" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 8°" }
 ---
-Being seen all the way down can be the most strengthening thing that happens to a person, and also the most exposing. With Sun conjunct Pluto between two charts, one person's Pluto sits within 8° of the other's Sun, and the Sun person's identity becomes the place where the other's depth goes to work.
+Being seen all the way down can be the most strengthening thing that happens to a person, and also the most exposing. With Sun conjunct Pluto, the Pluto in one chart sits within 8° of the Sun in the other, and the Sun person's identity becomes the place where the other's depth goes to work.
 
 ## What flows {#what-flows}
 

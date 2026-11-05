@@ -20,9 +20,9 @@ related: ["/astrology/sun", "/astrology/uranus", "/astrology/trine", "/astrology
 faq:
   - q: "Que veut dire Soleil trigone Uranus en synastrie ?"
     a: "L’originalité et la liberté passent facilement entre deux personnes : l’envie d’innover de celle qui a Uranus soutient le cap de la personne qui a le Soleil, depuis environ 120°, à 6,8° près. Chacune se sent libre d’être elle-même. J’y lis une aisance qui donne le meilleur quand la liberté sert vraiment."
-  - q: "Soleil trigone Uranus veut-il dire que l’on se laisse de l’espace ?"
+  - q: "Est-ce que Soleil trigone Uranus veut dire que l’on se laisse de l’espace ?"
     a: "En général, oui : aucune des deux personnes n’a à se battre pour avoir de la place, et l’indépendance paraît naturelle. Le risque est l’inverse d’une dispute : tant d’espace que l’on oublie de s’y retrouver. Des projets communs empêchent la liberté de se changer en distance."
-  - q: "Soleil trigone Uranus est-il un aspect chanceux ?"
+  - q: "Est-ce que Soleil trigone Uranus est un aspect chanceux ?"
     a: "Un trigone n’est pas de la chance. Il décrit une fluidité : deux fonctions qui se soutiennent sans friction. Ce que deux personnes font de cette aisance leur appartient, et aucun contact ne trace d’avance le cours d’une relation."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, qui relie les signes d’une même triplicité" }
@@ -46,7 +46,7 @@ Tant de place peut laisser les engagements dans le flou. Deux personnes aussi do
 
 L’aisance peut encore cacher combien chacune compte sur la tolérance de l’autre. Comme personne n’objecte, personne ne demande si c’est toujours un choix, ou seulement la façon dont les choses se sont toujours faites.
 
-Uranus passe environ sept ans dans un signe, ce qui fait de sa position un fait commun à toute la classe d’âge de la personne qui a Uranus. Le trigone avec ce Soleil-là tient à un anniversaire, et donc à cette paire seulement.
+Uranus passe environ sept ans dans un signe, ce qui fait de cette position un fait que partage toute une génération. Le trigone avec ce Soleil-là tient à un anniversaire, et donc à cette paire seulement.
 
 ## Comment le vivre {#comment-le-vivre}
 

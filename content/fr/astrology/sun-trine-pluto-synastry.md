@@ -20,7 +20,7 @@ related: ["/astrology/sun", "/astrology/pluto", "/astrology/trine", "/astrology/
 faq:
   - q: "Que veut dire Soleil trigone Pluton en synastrie ?"
     a: "Ici, la profondeur affermit au lieu d’ébranler : l’intensité de la personne qui a Pluton soutient l’identité de l’autre depuis environ 120°, à 6,8° près. L’une se sent plus résistante, l’autre bienvenue telle qu’elle est. Il s’agit de la façon d’affronter ensemble les difficultés, pas de ce qu’il faudra affronter."
-  - q: "Soleil trigone Pluton est-il le signe d’un lien profond ?"
+  - q: "Est-ce que Soleil trigone Pluton est le signe d’un lien profond ?"
     a: "Il paraît souvent profond, parce que les sujets difficiles s’abordent facilement entre les deux. Mais aucun contact ne mesure un lien ni ne le garantit ; ce trigone décrit une façon de se rencontrer, et ce qui en naît dépend des deux personnes."
   - q: "Que peut cacher Soleil trigone Pluton ?"
     a: "Son propre poids. Deux personnes si habituées à la profondeur peuvent ne pas voir tout ce qu’elles portent, repousser un changement parce que le lien tient si bien, ou laisser sans examen l’influence discrète de l’une. Le nommer à voix haute, de temps à autre, suffit en général."

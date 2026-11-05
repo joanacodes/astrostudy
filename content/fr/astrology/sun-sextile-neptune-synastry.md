@@ -20,9 +20,9 @@ related: ["/astrology/sun", "/astrology/neptune", "/astrology/sextile", "/astrol
 faq:
   - q: "Que veut dire Soleil sextile Neptune en synastrie ?"
     a: "Les projets de la personne qui a le Soleil peuvent puiser dans l’imaginaire et la compassion de l’autre, situés à environ 60°, à 4,8° près. Le but gagne du sens, et l’imaginaire une direction. Cela fonctionne quand quelqu’un donne à l’inspiration une forme concrète."
-  - q: "Soleil sextile Neptune est-il favorable à un travail créatif à deux ?"
+  - q: "Est-ce que Soleil sextile Neptune est favorable à un travail créatif à deux ?"
     a: "Il lui convient souvent : l’une apporte le but, l’autre le sens de ce qu’il pourrait signifier. Mais un sextile ne fait qu’ouvrir la porte ; le travail commence quand les deux s’en saisissent, et aucun contact ne décide de l’issue d’une collaboration."
-  - q: "Pourquoi Soleil sextile Neptune se fait-il si peu remarquer ?"
+  - q: "Pourquoi est-ce que Soleil sextile Neptune se fait si peu remarquer ?"
     a: "Parce que Neptune agit par suggestion et qu’un sextile n’insiste pas. L’inspiration arrive comme une humeur, une remarque, un morceau de musique, et on en profite avant de l’oublier. Dire ce qui a compté suffit souvent à lui donner du poids."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, la sixième partie du cercle" }

@@ -20,7 +20,7 @@ related: ["/astrology/sun", "/astrology/neptune", "/astrology/square", "/astrolo
 faq:
   - q: "Que veut dire Soleil carré Neptune en synastrie ?"
     a: "Le contour net de la personne qui a le Soleil et les idéaux de celle qui a Neptune se rencontrent à environ 90°, à 6,8° près. L’une parle simplement, l’autre entend des possibles, et chacune doit s’habituer à la façon de dire de l’autre. Pour moi, cette friction peut rendre un idéal plus juste et une compassion plus solide."
-  - q: "Soleil carré Neptune veut-il dire que quelqu’un est trompé ?"
+  - q: "Est-ce que Soleil carré Neptune veut dire que quelqu’un est trompé ?"
     a: "Non. Neptune a pour fonction l’imagination et l’idéalisation, pas la tromperie. Ce carré décrit des malentendus : un peut-être pris pour un oui, un refus pris pour un rejet. Ce sont des erreurs de traduction sincères, et des mots simples et doux en évitent beaucoup."
   - q: "Comment vivre Soleil carré Neptune au travail ?"
     a: "Avec des consignes écrites et des rôles clairs. La personne qui a le Soleil apporte d’ordinaire le projet précis, celle qui a Neptune le sens de ce qu’il pourrait devenir ; les deux comptent. Noter ce qui est décidé et ce qui reste un espoir permet de ne pas mélanger les deux."

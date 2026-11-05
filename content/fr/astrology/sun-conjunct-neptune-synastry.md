@@ -20,7 +20,7 @@ related: ["/astrology/sun", "/astrology/neptune", "/astrology/conjunction", "/as
 faq:
   - q: "Que veut dire Soleil conjonction Neptune en synastrie ?"
     a: "L’imaginaire et la compassion de la personne qui a Neptune se rassemblent autour de l’identité de celle qui a le Soleil, à 8° près. La personne qui a le Soleil se sent crue et vue sous son meilleur jour ; l’autre se sent inspirée, émue. Cela décrit une façon tendre de se regarder, pas la direction que prendra la relation."
-  - q: "Soleil conjonction Neptune veut-il dire que nous sommes des âmes sœurs ?"
+  - q: "Est-ce que Soleil conjonction Neptune veut dire que nous sommes des âmes sœurs ?"
     a: "Aucun contact ne le prouve. Celui-ci ressemble souvent à une reconnaissance, presque à la rencontre de quelqu’un qu’on avait imaginé, et ce sentiment mérite d’être pris au sérieux. Mais il décrit la rencontre d’un imaginaire et d’une identité, pas un destin, et aucune synastrie ne peut en promettre un."
   - q: "Comment garder les pieds sur terre avec Soleil conjonction Neptune ?"
     a: "En s’autorisant à être ordinaires. Parlez simplement des habitudes, de l’argent et du temps autant que des espoirs ; la personne qui a le Soleil peut dire quand une image ne lui va plus, et celle qui a Neptune peut garder ses limites et ses projets, pour que donner reste un choix."

@@ -20,7 +20,7 @@ related: ["/astrology/sun", "/astrology/saturn", "/astrology/trine", "/astrology
 faq:
   - q: "Que veut dire Soleil trigone Saturne en synastrie ?"
     a: "La patience et la fiabilité de l’une appuient la direction de l’autre sans peser sur elle. Les deux corps sont à environ 120° l’un de l’autre, à 6,8° près, souvent de même élément. J’y lis un appui qui vient facilement, et qui donne le meilleur quand les deux s’en servent."
-  - q: "Soleil trigone Saturne annonce-t-il une relation durable ?"
+  - q: "Est-ce que Soleil trigone Saturne annonce une relation durable ?"
     a: "Aucun aspect ne peut dire combien de temps dure une relation. Ce trigone décrit une stabilité entre deux personnes : un soutien qui ne ressemble pas à un jugement. Ce qu’elles en font dépend de leurs propres thèmes, de leurs choix et de leur situation, jamais d’un seul angle."
   - q: "Quel est le revers de Soleil trigone Saturne en synastrie ?"
     a: "L’aisance peut laisser la prudence tout décider. Deux personnes qui se fient au jugement l’une de l’autre peuvent cesser de le mettre à l’épreuve, et le choix sûr l’emporte par défaut. Le soutien de la personne qui a Saturne peut aussi devenir si constant que plus personne ne le voit, elle comprise."
@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, l’un des deux aspects qu’il dit harmonieux" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6,8° près" }
 ---
-Ce que l’une prend au sérieux et la direction que suit l’autre peuvent parler la même langue. C’est Soleil trigone Saturne entre deux thèmes : Saturne, chez l’une, à environ 120° du Soleil de l’autre, en général dans le même élément, et un soutien qui passe entre vous presque sans frottement.
+Ce que l’une prend au sérieux et la direction que suit l’autre peuvent parler la même langue. Voilà Soleil trigone Saturne : un trigone entre Saturne, dans un thème, et le Soleil, dans l’autre, en général dans des éléments assortis, et un soutien qui passe entre vous presque sans frottement.
 
 ## Ce qui circule {#ce-qui-circule}
 

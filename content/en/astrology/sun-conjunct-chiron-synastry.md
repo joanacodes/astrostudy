@@ -34,9 +34,9 @@ What comes easily to one of you is the very thing the other had to learn the lon
 
 The [Sun](/astrology/sun/) organises identity, vitality and self-expression. [Chiron](/astrology/chiron/) describes adaptation around a persistent limitation: a sore spot, and the skills, compensations and practical wisdom that grow up around it. A [conjunction](/astrology/conjunction/) binds the two into a single unit, and here the binding runs between two people: one person's whole way of being sits on the other's tender place. Of all the [synastry aspects](/astrology/synastry-aspects/) with Chiron, few are as direct.
 
-For the Sun person, there's recognition from someone who understands, better than most, what you do without thinking. You may notice a sensitivity in them around you and not know why at first. Over time you may become, for them, proof that the thing can be done, and you can learn a lot from how differently they manage it.
+Holding the Sun, you're recognised by someone who understands, better than most, what you do without thinking. You may notice a sensitivity in them around you and not know why at first. Over time you may become, for them, proof that the thing can be done, and you can learn a lot from how differently they manage it.
 
-For the Chiron person, there's a twinge and a light at once. Seeing someone be easily what you had to work for can sting, and it can also show what's possible. You bring something the Sun person lacks: the method, the patience, the practical wisdom of someone who had to find another way. Mentoring, in either direction, comes naturally.
+Holding Chiron, you feel a twinge and a light at once. Seeing someone be easily what you had to work for can sting, and it can also show what's possible. You bring something the Sun person lacks: the method, the patience, the practical wisdom of someone who had to find another way. Mentoring, in either direction, comes naturally.
 
 ## Where it rubs {#where-it-rubs}
 

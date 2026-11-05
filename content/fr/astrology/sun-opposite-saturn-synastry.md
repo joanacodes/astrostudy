@@ -20,16 +20,16 @@ related: ["/astrology/sun", "/astrology/saturn", "/astrology/opposition", "/astr
 faq:
   - q: "Que veut dire Soleil opposition Saturne en synastrie ?"
     a: "L’envie d’être vue et d’avancer, chez la personne qui a le Soleil, fait face au sens du devoir de l’autre, d’un bout à l’autre du zodiaque, à 8° près. Chacune rend plus net le bout de l’autre, et tout le travail consiste à garder l’équilibre."
-  - q: "Soleil opposition Saturne veut-il dire qu’une seule personne sera toujours la responsable ?"
+  - q: "Est-ce que Soleil opposition Saturne veut dire qu’une seule personne sera toujours la responsable ?"
     a: "Cela commence souvent ainsi, parce qu’une opposition polarise les rôles : l’une joue, l’autre porte. Mais rien ne fige ces rôles. On peut les nommer et les échanger, et les deux se sentent en général plus légères quand celle qui a le Soleil prend un peu de poids et celle qui a Saturne un peu de plaisir."
-  - q: "Soleil opposition Saturne est-il un aspect difficile en synastrie ?"
+  - q: "Est-ce que Soleil opposition Saturne est un aspect difficile en synastrie ?"
     a: "Je lis une opposition comme une balançoire, jamais comme une hostilité. Elle peut ressembler à la rencontre de son contraire : le réalisme d’un côté, l’expression de soi de l’autre. Cette tension dépend du contexte, elle n’est pas inscrite d’avance, et elle peut aider chacune à se voir plus clairement."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’opposition, le plus grand de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 8° près" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "le signe et la maison de Saturne parmi les placements qui ont le plus souvent tenu ; rien sur la synastrie" }
 ---
-À six signes de distance, Saturne, chez l’une des deux personnes, fait face au Soleil de l’autre d’un bout à l’autre du zodiaque. L’une porte l’envie d’être vue et d’avancer, l’autre le sens de ce qu’il faut porter et garder, et vous vous tenez aux deux bouts d’une même ligne.
+À six signes de distance, Saturne, chez l’une, et le Soleil de l’autre se regardent à travers tout le zodiaque. L’une porte l’envie d’être vue et d’avancer, l’autre le sens de ce qu’il faut porter et garder, et vous vous tenez aux deux bouts d’une même ligne.
 
 ## Ce qui circule {#ce-qui-circule}
 

@@ -20,7 +20,7 @@ related: ["/astrology/sun", "/astrology/pluto", "/astrology/opposition", "/astro
 faq:
   - q: "Que veut dire Soleil opposition Pluton en synastrie ?"
     a: "Le moi visible et expressif de la personne qui a le Soleil fait face à la profondeur de celle qui a Pluton, de l’autre côté du zodiaque, à 8° près. L’une tend à être vue, l’autre à voir. C’est une polarité entre ouverture et profondeur, qui fonctionne quand l’influence et l’intimité se partagent ouvertement."
-  - q: "Pourquoi Soleil opposition Pluton peut-il être si prenant ?"
+  - q: "Pourquoi est-ce que Soleil opposition Pluton prend autant de place ?"
     a: "Parce que chacune tient ce qui manque à l’autre, la visibilité d’un côté, la profondeur de l’autre, et qu’une opposition rend chacune consciente de la moitié qui lui manque. Cette attirance est réelle, et elle ne dit pas si deux personnes sont faites l’une pour l’autre."
   - q: "Comment équilibrer le pouvoir avec Soleil opposition Pluton ?"
     a: "À voix haute. Convenez des décisions communes et de celles qui reviennent à une seule personne, et de ce que chacune peut garder pour elle. Puis passez tour à tour au bout de l’autre : la personne qui a Pluton laisse voir quelque chose, celle qui a le Soleil garde quelque chose pour soi. De l’affirmation des deux côtés, de la domination d’aucun."

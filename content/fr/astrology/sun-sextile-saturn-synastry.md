@@ -20,9 +20,9 @@ related: ["/astrology/sun", "/astrology/saturn", "/astrology/sextile", "/astrolo
 faq:
   - q: "Que veut dire Soleil sextile Saturne en synastrie ?"
     a: "La patience et le sens de la méthode de l’une se mettent à la disposition des projets de l’autre, à quelque 60° de distance, à 4,8° près. Cela fonctionne quand l’aide est demandée et utilisée ; sinon, le contact peut passer presque inaperçu des deux côtés."
-  - q: "Soleil sextile Saturne est-il favorable pour travailler ensemble ?"
-    a: "Il convient souvent au travail en commun : l’une apporte le but, l’autre la méthode. Mais un sextile est une occasion, pas une garantie : la coopération naît quand les deux s’en saisissent. Je ne lis jamais un seul contact comme ce qui décide du sort d’un partenariat ou d’un poste."
-  - q: "Pourquoi Soleil sextile Saturne se sent-il si peu ?"
+  - q: "Est-ce que Soleil sextile Saturne est favorable pour travailler ensemble ?"
+    a: "Il convient souvent au travail en commun : l’une apporte le but, l’autre la méthode. Toutefois, une occasion n’engage à rien : la coopération naît quand les deux s’en saisissent. Je ne lis jamais un seul contact comme ce qui décide du sort d’un partenariat ou d’un poste."
+  - q: "Pourquoi est-ce que Soleil sextile Saturne se sent si peu ?"
     a: "Parce que l’aide de Saturne est lente et discrète, et qu’un sextile n’insiste pas. La personne qui a Saturne attend souvent qu’on la sollicite, et l’autre n’y pense pas toujours. Dites à voix haute ce que chacune sait bien faire : le contact devient beaucoup plus visible."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, le plus petit de ses quatre aspects" }

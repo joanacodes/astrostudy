@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 48
 glyph: "☉□⚷"
-definition: "Soleil carré Chiron en synastrie pousse de côté l’expression de soi d’une personne contre le point sensible de l’autre, Chiron se trouvant à environ 90° du Soleil, à 6,8° près. Ce que l’une fait sans effort peut piquer l’autre. J’y lis une friction qui apprend aux deux le terrain sensible, et bâtit du tact et de nouvelles méthodes."
+definition: "Soleil carré Chiron en synastrie pousse de côté l’expression de soi d’une personne contre le point sensible de l’autre, Chiron se trouvant à environ 90° du Soleil, à 6,8° près. Ce que l’une fait sans effort peut piquer l’autre. Cette friction, à mes yeux, apprend aux deux le terrain sensible, et bâtit du tact et de nouvelles méthodes."
 facts:
   - { k: "Corps", v: "Le Soleil ☉ d’une personne, Chiron ⚷ dans le thème de l’autre" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, l’un des deux aspects inharmonieux" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6,8° près" }
 ---
-Une plaisanterie qui tombe sur le seul sujet dont l’autre ne peut pas rire : Soleil carré Chiron entre deux thèmes se montre souvent ainsi. Chiron, chez l’une, se trouve à environ 90° du Soleil de l’autre, et l’aisance frôle sans cesse, de côté, un point sensible.
+Une plaisanterie qui tombe sur le seul sujet dont l’autre ne peut pas rire : Soleil carré Chiron entre deux thèmes se montre souvent ainsi. Chiron, chez l’une, et le Soleil de l’autre sont à angle droit, et l’aisance frôle sans cesse, de côté, un point sensible.
 
 ## Ce qui circule {#ce-qui-circule}
 

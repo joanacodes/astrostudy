@@ -22,7 +22,7 @@ faq:
     a: "Face à face à travers le zodiaque, à 8° près, l’identité d’une personne fait face à l’envie de liberté et de changement de l’autre. La personne qui a le Soleil tend à tenir la ligne ; celle qui a Uranus, à garder les choses ouvertes. J’y lis un équilibre entre appartenance et autonomie, jamais les deux camps d’une querelle."
   - q: "La personne qui a Uranus voudra-t-elle toujours plus de liberté ?"
     a: "Pas toujours, et pas seulement elle. Une opposition tend à polariser : l’une finit par demander de l’engagement, l’autre de l’espace. Ces rôles peuvent bouger : la personne qui a le Soleil a aussi besoin de liberté, et celle qui a Uranus, besoin d’appartenir."
-  - q: "Soleil opposition Uranus peut-il fonctionner entre collègues ?"
+  - q: "Est-ce que Soleil opposition Uranus peut fonctionner entre collègues ?"
     a: "Souvent bien, quand les rôles sont clairs : l’une fait tourner le système, l’autre propose ce qui pourrait le remplacer. L’opposition devient utile quand chacune voit le bout de l’autre comme nécessaire, et non comme un obstacle."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’opposition, entre deux signes distants de six" }

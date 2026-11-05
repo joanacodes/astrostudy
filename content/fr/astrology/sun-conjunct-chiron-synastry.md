@@ -35,15 +35,15 @@ Ce qui vient facilement à l’une est justement ce que l’autre a dû apprendr
 
 Le [Soleil](/astrology/sun/) organise l’identité, la vitalité et l’expression de soi. [Chiron](/astrology/chiron/) décrit l’adaptation autour d’une limite qui persiste : un point sensible, et les savoir-faire, les compensations et la sagesse pratique qui poussent autour. Une [conjonction](/astrology/conjunction/) lie les deux en une seule unité, et ici le lien passe entre deux personnes : toute la façon d’être de l’une se pose sur l’endroit tendre de l’autre. Peu d’[aspects de synastrie](/astrology/synastry-aspects/) avec Chiron sont aussi directs.
 
-Pour la personne qui a le Soleil, il y a la reconnaissance de quelqu’un qui comprend, mieux que quiconque, ce que vous faites sans y penser. Vous remarquez peut-être chez l’autre une sensibilité en votre présence, sans savoir d’abord pourquoi. Avec le temps, vous pouvez devenir pour cette personne la preuve que la chose est possible, et apprendre beaucoup de la façon différente dont elle s’y prend.
+Côté Soleil vient la reconnaissance de quelqu’un qui comprend, mieux que quiconque, ce que vous faites sans y penser. Vous remarquez peut-être chez l’autre une sensibilité en votre présence, sans savoir d’abord pourquoi. Avec le temps, vous pouvez devenir pour cette personne la preuve que la chose est possible, et apprendre beaucoup de la façon différente dont elle s’y prend.
 
-Pour la personne qui a Chiron, il y a à la fois un pincement et une lumière. Voir quelqu’un être sans effort ce que vous avez dû travailler peut piquer, et peut aussi montrer ce qui est possible. Vous apportez ce qui manque à l’autre : la méthode, la patience, la sagesse pratique de quelqu’un qui a dû trouver une autre voie. Transmettre, dans un sens comme dans l’autre, vient naturellement.
+Côté Chiron, c’est à la fois un pincement et une lumière. Voir quelqu’un être sans effort ce que vous avez dû travailler peut piquer, et peut aussi montrer ce qui est possible. Vous apportez ce qui manque à l’autre : la méthode, la patience, la sagesse pratique de quelqu’un qui a dû trouver une autre voie. Transmettre, dans un sens comme dans l’autre, vient naturellement.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
 Le contact rapproché brouille les rôles. La personne qui a le Soleil peut se sentir responsable de la sensibilité de l’autre, et marcher sur la pointe des pieds dans tout un domaine de la vie. Celle qui a Chiron peut se mettre à se définir par la comparaison, comme si le point sensible était ce qu’elle est. Il ne l’est pas : la blessure est un contexte, pas une identité, et le savoir-faire bâti autour lui appartient autant que l’aisance appartient à l’autre.
 
-L’orbite irrégulière de Chiron le garde dans un même signe de moins de deux ans à environ huit : ce signe est celui de toute une classe d’âge. Le Soleil, fixé par un anniversaire, fait de cette conjonction une affaire entre deux personnes. Dans mon carnet, Chiron, par son signe et sa maison, a figuré parmi [les trois qui ont tenu](/blog/saturn-chiron-lilith/) le mieux ; c’était un test de thèmes seuls, pas de paires, mais c’est l’une des raisons pour lesquelles un contact avec Chiron n’est jamais survolé dans mes lectures.
+L’orbite irrégulière de Chiron le garde dans un même signe de moins de deux ans à environ huit : ce signe est celui de toute une classe d’âge. Le Soleil, fixé par un anniversaire, ramène cette conjonction à deux personnes. Dans mon carnet, Chiron, par son signe et sa maison, a figuré parmi [les trois qui ont tenu](/blog/saturn-chiron-lilith/) le mieux ; c’était un test de thèmes seuls, pas de paires, mais c’est l’une des raisons pour lesquelles un contact avec Chiron n’est jamais survolé dans mes lectures.
 
 Les autres angles de la paire :
 

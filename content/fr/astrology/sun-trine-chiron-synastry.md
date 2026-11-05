@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, qui forme avec le sextile la paire harmonieuse" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6,8° près" }
 ---
-Être pleinement soi à côté du point sensible de quelqu’un, sans appuyer dessus, est chose rare, et dans cette paire cela vient en général tout seul. Dans cette paire, Chiron, chez l’une, se trouve à environ 120° du Soleil de l’autre, les deux partageant le plus souvent un élément.
+Être pleinement soi à côté du point sensible de quelqu’un, sans appuyer dessus, est chose rare, et dans cette paire cela vient en général tout seul. Dans cette paire, environ 120° séparent Chiron, chez l’une, du Soleil de l’autre, qui partagent le plus souvent un élément.
 
 ## Ce qui circule {#ce-qui-circule}
 

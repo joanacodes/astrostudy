@@ -20,7 +20,7 @@ related: ["/astrology/sun", "/astrology/saturn", "/astrology/square", "/astrolog
 faq:
   - q: "Que veut dire Soleil carré Saturne en synastrie ?"
     a: "Les exigences et la prudence de l’une croisent l’expression de l’autre à environ 90°, à 6,8° près, et chacune doit s’ajuster. J’y lis une friction qui met les projets à l’épreuve et peut bâtir un respect durement gagné."
-  - q: "Soleil carré Saturne est-il mauvais pour une relation ?"
+  - q: "Est-ce que Soleil carré Saturne nuit à une relation ?"
     a: "Aucun aspect n’en décide. Un carré décrit une friction, et une friction n’est pas un échec : ici, elle montre où la prudence de l’une et l’assurance de l’autre se rencontrent sans cesse. Nommées et discutées, ces rencontres peuvent devenir une source de confiance plutôt que de tension."
   - q: "Pourquoi la personne qui a le Soleil se sent-elle critiquée ?"
     a: "Parce que le soin de Saturne arrive souvent sous la forme d’une question ou d’une mise en garde, et qu’il atteint chez l’autre la part qui cherche à être elle-même. La personne qui a Saturne y met d’ordinaire de la protection. Le dire à voix haute, et demander avant de conseiller, change la façon dont cela est reçu."

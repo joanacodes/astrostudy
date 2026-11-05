@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, one of the two aspects he calls harmonious" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 6.8°" }
 ---
-What one of you takes seriously and where the other is heading can speak the same language. That's Sun trine Saturn between two charts: one person's Saturn about 120° from the other's Sun, usually in the same element, and support passing between you with very little friction.
+What one of you takes seriously and where the other is heading can speak the same language. That's Sun trine Saturn between two charts: one person's Saturn about 120° round from the other's Sun, generally in matching elements, and support passing between you with very little friction.
 
 ## What flows {#what-flows}
 
@@ -58,4 +58,4 @@ Use the steadiness for something new now and then. The Sun person can take on pa
 
 About 1 pair of people in 7 has this trine, one way round or the other, within 6.8°: common, and easy to overlook. Saturn moves through a sign in about two and a half years, and most of the Saturn person's classmates have it where they do. It's the Sun person's birthday that turns that shared Saturn into a trine with one particular person.
 
-I start only with both birth times. The trine itself seldom hangs on the hour, since the Sun travels only about a degree in a whole day; what hangs on it is which houses the two bodies occupy, and so where in each life this steadiness gets spent ([what changes without a birth time](/blog/unknown-birth-time/)). Inside one chart, [Sun trine Saturn](/astrology/sun-trine-saturn/) is patience a person carries for themselves. Here it lives across the table, in someone you can thank.
+I start only with both birth times. The trine itself seldom hangs on the hour, since the Sun travels only about a degree in a whole day; what hangs on it is which houses the two bodies occupy, and so where in each life this steadiness gets spent ([what changes without a birth time](/blog/unknown-birth-time/)). Inside one chart, [Sun trine Saturn](/astrology/sun-trine-saturn/) is patience a person carries for themselves. Here it lives in someone else, someone you can thank.

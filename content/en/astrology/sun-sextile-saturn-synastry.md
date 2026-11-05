@@ -20,7 +20,7 @@ faq:
   - q: "What does Sun sextile Saturn mean in synastry?"
     a: "The Saturn person’s patience and sense of method become available to the Sun person’s aims, through an angle of about 60°, within 4.8°. It works when the help is asked for and used; left alone, it can pass almost unnoticed by both."
   - q: "Is Sun sextile Saturn good for working together?"
-    a: "It often suits shared work, because one person brings the aim and the other the method. But a sextile is an opportunity, not a guarantee: the cooperation happens when both engage with it. I never read a single contact as deciding how a partnership or a job will go."
+    a: "It often suits shared work, because one person brings the aim and the other the method. Still, an opening is not a promise: the cooperation happens when both engage with it. I never read a single contact as deciding how a partnership or a job will go."
   - q: "Why doesn’t Sun sextile Saturn feel like much?"
     a: "Because Saturn’s help is slow and quiet, and a sextile doesn’t insist. The Saturn person tends to wait to be asked, and the Sun person may not think of asking. Say out loud what each of you is good at, and the contact becomes much easier to see."
 sources:

@@ -20,7 +20,7 @@ related: ["/astrology/sun", "/astrology/uranus", "/astrology/square", "/astrolog
 faq:
   - q: "Que veut dire Soleil carré Uranus en synastrie ?"
     a: "Le besoin de changement et de liberté de la personne qui a Uranus croise la direction de celle qui a le Soleil à environ 90°, à 6,8° près. Les projets sont remis en question, les habitudes redessinées, et les deux s’ajustent. Pour moi, c’est une friction qui peut réformer une vie commune, jamais la preuve que la paire ne saura pas se poser."
-  - q: "Soleil carré Uranus veut-il dire que la relation est instable ?"
+  - q: "Est-ce que Soleil carré Uranus veut dire que la relation est instable ?"
     a: "Non. Uranus décrit le changement et l’autonomie, pas l’instabilité, et un carré est une friction, pas un échec. Ce contact demande à deux personnes de convenir de ce qui reste fixe et de ce qui peut bouger, ce que la plupart des couples, des amis et des collègues finissent de toute façon par devoir faire."
   - q: "Qui ressent le plus Soleil carré Uranus ?"
     a: "La personne qui a le Soleil le remarque souvent la première, sous la forme d’interruptions dans ses projets. Celle qui a Uranus le ressent comme une pression sur sa liberté dès que l’autre prend les devants. Aucune n’est en faute : chacune rencontre de côté le besoin de l’autre."

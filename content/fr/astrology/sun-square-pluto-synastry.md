@@ -19,10 +19,10 @@ facts:
 related: ["/astrology/sun", "/astrology/pluto", "/astrology/square", "/astrology/sun-square-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Soleil carré Pluton en synastrie ?"
-    a: "Le besoin d’aller à la racine des choses, chez la personne qui a Pluton, presse de côté le sentiment de soi de celle qui a le Soleil, à environ 90°, à 6,8° près. L’une peut se sentir scrutée, l’autre freinée. Traversée, la friction laisse souvent chacune plus sûre de son propre terrain."
-  - q: "Soleil carré Pluton est-il une lutte de pouvoir ?"
+    a: "Le besoin d’aller à la racine des choses, chez la personne qui a Pluton, presse de côté, à angle droit, le sentiment de soi de celle qui a le Soleil, à 6,8° près. L’une peut se sentir scrutée, l’autre freinée. Traversée, la friction laisse souvent chacune plus sûre de son propre terrain."
+  - q: "Est-ce que Soleil carré Pluton est une lutte de pouvoir ?"
     a: "Il peut y ressembler, parce que la question de qui décide arrive vite. Mais Pluton parle de s’affermir, pas de dominer, et un carré parle de friction, qui n’est pas un échec. Convenir de qui a son mot à dire, et dans quel domaine, change la lutte en négociation."
-  - q: "Soleil carré Pluton peut-il être bon pour une relation ?"
+  - q: "Est-ce que Soleil carré Pluton peut faire du bien à une relation ?"
     a: "Il peut approfondir la confiance, parce que ce qui a été éprouvé et gardé tient en général. Aucun contact ne décide du cours d’une relation ; celui-ci décrit l’endroit où deux personnes se poussent l’une l’autre, et tout ce qu’elles peuvent apprendre à le faire honnêtement."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, entre signes distants de trois" }
@@ -34,7 +34,7 @@ L’une dit « voilà qui je suis » ; l’autre entend « voilà ce qui n�
 
 Le [Soleil](/astrology/sun/) organise l’identité et la capacité d’agir : qui l’on est, et comment on agit depuis ce centre. [Pluton](/astrology/pluto/) pousse à la transformation, à la régénération et à l’affirmation de soi, à l’envie d’aller à la racine. Un [carré](/astrology/square/) les fait se frotter de façon constructive ; dans les [aspects de synastrie](/astrology/synastry-aspects/), ce frottement passe entre deux personnes au lieu de rester à l’intérieur d’une seule.
 
-Ce qu’elle peut construire, c’est un terrain solide des deux côtés. La personne qui a le Soleil, poussée à regarder ce qu’elle aurait préféré éviter, en ressort souvent avec un moi choisi plus consciemment. Celle qui a Pluton découvre, au contact de quelqu’un qui ne se laisse pas simplement transformer, que la profondeur agit mieux quand on l’invite. Une confiance qui a survécu à ce genre d’épreuve tient en général.
+Ce que ce frottement peut construire, c’est un terrain solide des deux côtés. La personne qui a le Soleil, poussée à regarder ce qu’elle aurait préféré éviter, en ressort souvent avec un moi choisi plus consciemment. Celle qui a Pluton découvre, au contact de quelqu’un qui ne se laisse pas simplement transformer, que la profondeur agit mieux quand on l’invite. Une confiance qui a survécu à ce genre d’épreuve tient en général.
 
 L’endroit où Pluton tombe parmi les maisons de la personne qui a le Soleil compte beaucoup : en maison 7, la friction se rassemble autour du couple lui-même ; en maison 10, autour de l’ambition et de la vie publique ; en maison 2, autour de l’argent et de ce que chacune vaut à ses propres yeux.
 
@@ -46,7 +46,7 @@ Côté Pluton : la résistance. L’assurance de l’autre peut ressembler à u
 
 Le pouvoir devient un sujet : qui décide, qui cède, qui a le dernier mot. Transformer n’est pas détruire, et s’affirmer n’est pas dominer ; la friction est là pour être traversée, pas gagnée.
 
-Pluton passe de 12 à 31 ans dans chaque signe : son signe est un fait de génération. Quels Soleils ce signe touche en carré dépend des anniversaires, et c’est ce qui fait de ce carré l’affaire de ces deux personnes.
+Pluton passe de 12 à 31 ans dans chaque signe, ce qui fait de ce placement un fait de génération. Les Soleils que ce placement touche en carré dépendent des anniversaires, et c’est ce qui fait de ce carré l’affaire de ces deux personnes.
 
 ## Comment le vivre {#comment-le-vivre}
 

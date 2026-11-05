@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 31
 glyph: "☉☌♅"
-definition: "Sun conjunct Uranus in synastry is the Sun of one person and the Uranus of the other within 8°, so an urge to renew and to differ sits right on someone else’s identity. The Sun person often feels freer, the Uranus person inspired. To me it’s a contact that updates a self, and I watch whose changes they are."
+definition: "Sun conjunct Uranus in synastry pairs one person’s Sun with the other’s Uranus, within 8°, so an urge to renew and to differ sits right on someone else’s identity. The Sun person often feels freer, the Uranus person inspired. To me it’s a contact that updates a self, and I watch whose changes they are."
 facts:
   - { k: "Bodies", v: "One person’s Sun ☉, the other’s Uranus ♅" }
   - { k: "Aspect", v: "Conjunction ☌, 0°" }

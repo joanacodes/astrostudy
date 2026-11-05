@@ -27,11 +27,11 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, a third of the circle" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 6.8°" }
 ---
-Kindness that arrives before anyone asks for it is the mark of Sun trine Neptune between two charts. One person's Neptune trines the other's Sun from four signs away, most often in the same element, and imagination and identity simply get along.
+Kindness that arrives before anyone asks for it is the mark of Sun trine Neptune. Across two charts, one person's Neptune trines the other's Sun from four signs away, most often in the same element, and imagination and identity simply get along.
 
 ## What flows {#what-flows}
 
-The [Sun](/astrology/sun/) organises who a person is and what they're aiming at. [Neptune](/astrology/neptune/) brings imagination, compassion, inspiration and a feel for meaning beyond the practical. A [trine](/astrology/trine/) relates the two through facilitation: each makes the other easier. It's one of the softest [synastry aspects](/astrology/synastry-aspects/) Neptune can make.
+The [Sun](/astrology/sun/) organises a person's identity and aim. [Neptune](/astrology/neptune/) brings imagination, compassion, inspiration and a feel for meaning beyond the practical. A [trine](/astrology/trine/) relates the two through facilitation: each makes the other easier. It's one of the softest [synastry aspects](/astrology/synastry-aspects/) Neptune can make.
 
 For the Sun person, there's the feeling of being gently understood. Your best self is assumed, your ambitions are met with imagination rather than doubt, and you can be soft in front of this person without losing face.
 

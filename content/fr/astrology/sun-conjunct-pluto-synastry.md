@@ -19,10 +19,10 @@ facts:
 related: ["/astrology/sun", "/astrology/pluto", "/astrology/conjunction", "/astrology/sun-conjunct-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Soleil conjonction Pluton en synastrie ?"
-    a: "La profondeur de la personne qui a Pluton tombe sur l’identité de celle qui a le Soleil, à 8° près, et la rencontre est rarement légère : l’une se sent vue jusqu’au fond et fortifiée, l’autre investie comme rarement. Cela décrit l’intensité d’une rencontre, pas ce qui arrivera entre les deux."
-  - q: "Soleil conjonction Pluton est-il un aspect de contrôle ?"
+    a: "La profondeur de la personne qui a Pluton tombe, à 8° près, sur l’identité de la personne qui a le Soleil, et la rencontre est rarement légère : l’une se sent vue jusqu’au fond et fortifiée, l’autre investie comme rarement. Cela décrit l’intensité d’une rencontre, pas ce qui arrivera entre les deux."
+  - q: "Est-ce que Soleil conjonction Pluton est un aspect de contrôle ?"
     a: "Pas en soi. Pluton décrit la transformation et l’affirmation de soi, et s’affirmer n’est pas dominer. Des questions de pouvoir peuvent surgir, comme dans tout lien proche ; la forme saine de ce contact renforce l’autorité propre de la personne qui a le Soleil au lieu de la confier à l’autre."
-  - q: "Pourquoi Soleil conjonction Pluton est-il si intense ?"
+  - q: "Pourquoi est-ce que Soleil conjonction Pluton est si intense ?"
     a: "Parce que Pluton agit en profondeur et que la conjonction touche le centre même de qui l’on est. Des sentiments forts des deux côtés sont normaux ici. L’intensité ne mesure pas la justesse d’une relation et ne promet rien ; elle dit seulement que le contact va loin."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "quatre aspects mesurés entre les signes ; la conjonction n’y figure pas" }

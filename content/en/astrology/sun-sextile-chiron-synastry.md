@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the sextile, an aspect of signs two apart" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 4.8°" }
 ---
-A tip passed on, at exactly the moment you need it, by someone who learned it the hard way. In Sun sextile Chiron between two charts, one person's Chiron is two signs from the other's Sun, about 60° round, and experience flows towards purpose whenever someone opens the door.
+A tip passed on, at exactly the moment you need it, by someone who learned it the hard way. In Sun sextile Chiron, the Chiron of one chart is two signs from the Sun of the other, about 60° round, and experience flows towards purpose whenever someone opens the door.
 
 ## What flows {#what-flows}
 
@@ -49,6 +49,6 @@ Chiron moves unevenly, lingering in some signs for about eight years and crossin
 
 Ask, and say what for. The Sun person can bring a specific question to the Chiron person; the Chiron person can decide how much of the story to share and still share the method. Mentoring works well here, and so does an informal swap: one person's drive for the other's know-how. A couple can draw on it when one of them takes on something the other once struggled with; friends, when one starts down a road the other knows; a family, when a younger relative meets an old difficulty; colleagues, when one inherits a task the other once had to work around.
 
-About 1 pair of people in 10 has this sextile, one way round or the other, within 4.8°. At the edge of an orb this small, the birth time can tip the contact one way or the other, as the Sun gains about a degree a day; the houses, which show where in each life the experience is put to use, always depend on it ([what changes without a birth time](/blog/unknown-birth-time/)). And, Chiron being Chiron, I read it only with both people's say-so ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+About 1 pair of people in 10 has this sextile, one way round or the other, within 4.8°. At the edge of an orb this small, the birth time can tip the contact one way or the other, as the Sun gains about a degree a day; the houses, which tell me what part of each life puts the experience to use, always depend on it ([what changes without a birth time](/blog/unknown-birth-time/)). And, Chiron being Chiron, I read it only with both people's say-so ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
 
 Closer, wider or at another angle, the same pair behaves differently: [Sun conjunct Chiron in synastry](/astrology/sun-conjunct-chiron-synastry/) puts the ease right on the sore spot, [Sun square Chiron in synastry](/astrology/sun-square-chiron-synastry/) makes them rub, [Sun trine Chiron in synastry](/astrology/sun-trine-chiron-synastry/) lets them sit together comfortably, and [Sun opposite Chiron in synastry](/astrology/sun-opposite-chiron-synastry/) faces them across the chart. In one chart, [Sun sextile Chiron](/astrology/sun-sextile-chiron/) connects a person's aims with their own hard-won lessons; between two, the lessons come from someone else's life, offered across a small distance.

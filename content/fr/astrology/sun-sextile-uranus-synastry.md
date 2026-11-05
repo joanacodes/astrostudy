@@ -2,7 +2,7 @@
 title: "Soleil sextile Uranus en synastrie"
 slug: "soleil-sextile-uranus-synastrie"
 h1: "Soleil sextile Uranus entre deux thèmes"
-description: "Soleil sextile Uranus en synastrie : les idées de changement d’une personne, offertes à la direction de l’autre. Chaque côté, sa fréquence, ce qu’il demande."
+description: "Soleil sextile Uranus en synastrie : les idées de changement d’une personne, offertes à la direction de l’autre. Ce que chacune y trouve, et ce qu’il demande."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -20,7 +20,7 @@ related: ["/astrology/sun", "/astrology/uranus", "/astrology/sextile", "/astrolo
 faq:
   - q: "Que veut dire Soleil sextile Uranus en synastrie ?"
     a: "Des idées et de la place pour changer vont de la personne qui a Uranus vers les projets de celle qui a le Soleil, par un angle d’environ 60°, à 4,8° près. Rien n’est imposé : la personne qui a le Soleil prend ce qui lui va. J’y lis un renouveau facile et facultatif, qui ne compte qu’une fois mis en pratique."
-  - q: "Soleil sextile Uranus est-il favorable à une amitié ?"
+  - q: "Est-ce que Soleil sextile Uranus est favorable à une amitié ?"
     a: "Il lui convient souvent, parce qu’il apporte de nouvelles possibilités sans pression, et qu’entre amis on peut les prendre ou les laisser. Reste qu’une ouverture ne compte que si quelqu’un la franchit, et qu’aucun contact à lui seul ne fait ni ne défait une amitié."
   - q: "Pourquoi rien ne change-t-il avec Soleil sextile Uranus ?"
     a: "Parce qu’un sextile ouvre une porte sans pousser personne à la franchir. La personne qui a Uranus propose, celle qui a le Soleil approuve, et chacune passe à autre chose. Choisir une seule idée et l’essayer vraiment suffit en général."

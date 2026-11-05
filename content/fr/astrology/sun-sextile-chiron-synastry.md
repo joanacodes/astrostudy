@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/sun", "/astrology/chiron", "/astrology/sextile", "/astrology/sun-sextile-chiron", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Soleil sextile Chiron en synastrie ?"
-    a: "Ce que la personne qui a Chiron a appris autour d’un point sensible est à la disposition des projets de celle qui a le Soleil, à environ 60°, à 4,8° près. D’un côté la direction, de l’autre un savoir-faire gagné par le chemin long. Cela fonctionne quand l’une demande et que l’autre choisit de partager."
+    a: "Le savoir que la personne qui a Chiron a tiré d’un point sensible se met au service des projets de celle qui a le Soleil, à environ 60°, à 4,8° près. D’un côté la direction, de l’autre un savoir-faire gagné par le chemin long. Cela fonctionne quand l’une demande et que l’autre choisit de partager."
   - q: "Soleil sextile Chiron est-il favorable à la transmission ?"
     a: "Souvent, oui : il convient à qui enseigne et à qui apprend, au travail ou ailleurs, parce que l’expérience est concrète et offerte à une distance confortable. Mais un sextile ne fait qu’ouvrir la voie, et aucun contact, à lui seul, n’écrit l’histoire d’une relation de transmission."
   - q: "Pourquoi la personne qui a Chiron ne propose-t-elle pas son aide plus souvent ?"
@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, aspect des signes distants de deux" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 4,8° près" }
 ---
-Un conseil transmis au moment exact où vous en avez besoin, par quelqu’un qui l’a appris à la dure. Dans Soleil sextile Chiron entre deux thèmes, Chiron, chez l’une, est à deux signes du Soleil de l’autre, environ 60°, et l’expérience va vers le but dès que quelqu’un ouvre la porte.
+Un conseil transmis au moment exact où vous en avez besoin, par quelqu’un qui l’a appris à la dure. Dans Soleil sextile Chiron, Chiron d’un thème se tient à deux signes du Soleil de l’autre, environ 60°, et l’expérience va vers le but dès que quelqu’un ouvre la porte.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -52,4 +52,4 @@ Demandez, et dites pourquoi. La personne qui a le Soleil peut apporter une quest
 
 Environ 1 paire de personnes sur 10 a ce sextile, dans un sens ou dans l’autre, à 4,8° près. Au bord d’un orbe aussi petit, l’heure de naissance peut faire basculer le contact d’un côté ou de l’autre, le Soleil gagnant environ un degré par jour ; les maisons, elles, en dépendent toujours : ce sont elles qui disent où chaque vie met l’expérience à profit ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Et, Chiron étant ce qu’il est, je ne le lis qu’avec l’assentiment des deux ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
 
-Plus proche, plus écartée ou sous un autre angle, la même paire se comporte autrement : [Soleil conjonction Chiron en synastrie](/astrology/sun-conjunct-chiron-synastry/) pose l’aisance sur le point sensible même, [Soleil carré Chiron en synastrie](/astrology/sun-square-chiron-synastry/) les fait frotter, [Soleil trigone Chiron en synastrie](/astrology/sun-trine-chiron-synastry/) les laisse cohabiter tranquillement, et [Soleil opposition Chiron en synastrie](/astrology/sun-opposite-chiron-synastry/) les met face à face d’un bout à l’autre du thème. Dans un seul thème, [Soleil sextile Chiron](/astrology/sun-sextile-chiron/) relie les buts d’une personne à ses propres leçons durement apprises ; entre deux thèmes, ces leçons viennent de la vie de quelqu’un d’autre, offertes à petite distance.
+Plus proche, plus écartée ou sous un autre angle, la même paire se comporte autrement : [Soleil conjonction Chiron en synastrie](/astrology/sun-conjunct-chiron-synastry/) pose l’aisance sur le point sensible même, [Soleil carré Chiron en synastrie](/astrology/sun-square-chiron-synastry/) les fait frotter, [Soleil trigone Chiron en synastrie](/astrology/sun-trine-chiron-synastry/) les laisse cohabiter tranquillement, et [Soleil opposition Chiron en synastrie](/astrology/sun-opposite-chiron-synastry/) les place en vis-à-vis, de part et d’autre du thème. Dans un seul thème, [Soleil sextile Chiron](/astrology/sun-sextile-chiron/) relie les buts d’une personne à ses propres leçons durement apprises ; entre deux thèmes, ces leçons viennent de la vie de quelqu’un d’autre, offertes à petite distance.

@@ -22,7 +22,7 @@ faq:
     a: "Le sens net de soi d’une personne se tient face, de l’autre côté du zodiaque, à l’imaginaire et à la compassion de l’autre, à 8° près. Chacune voit chez l’autre ce qui lui manque : la définition d’un côté, l’ouverture de l’autre. C’est une polarité à équilibrer, jamais une personne qui se perd dans l’autre."
   - q: "Est-il normal de trouver l’autre difficile à lire avec Soleil opposition Neptune ?"
     a: "Souvent, pour la personne qui a le Soleil : vue de loin, l’ouverture de l’autre peut ressembler à du flou. De l’autre côté, la personne qui a le Soleil peut paraître rigide. Chacune voit le bout qu’elle ne tient pas, et c’est exactement ce que montre une opposition."
-  - q: "Soleil opposition Neptune peut-il fonctionner entre amis ou en famille ?"
+  - q: "Est-ce que Soleil opposition Neptune peut fonctionner entre amis ou en famille ?"
     a: "Oui. Il se montre souvent sous la forme d’une personne pratique et d’une personne rêveuse qui ont besoin l’une de l’autre : l’une tient les projets, l’autre l’espoir. Cela marche le mieux quand les rôles peuvent s’échanger de temps en temps."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’opposition, la moitié du cercle" }

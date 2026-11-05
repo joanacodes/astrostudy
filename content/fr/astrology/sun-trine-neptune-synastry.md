@@ -20,7 +20,7 @@ related: ["/astrology/sun", "/astrology/neptune", "/astrology/trine", "/astrolog
 faq:
   - q: "Que veut dire Soleil trigone Neptune en synastrie ?"
     a: "La personne qui a le Soleil trouve sans effort, chez l’autre, de l’imagination et de la bienveillance, à environ 120°, à 6,8° près. L’une se sent comprise avec douceur ; l’autre a quelqu’un en qui croire. Cela décrit une façon bienveillante et inspirante d’être ensemble, pas une promesse sur l’avenir."
-  - q: "Soleil trigone Neptune est-il romantique ?"
+  - q: "Est-ce que Soleil trigone Neptune est romantique ?"
     a: "Il peut le sembler dans un couple, mais il est tout aussi courant entre amis, en famille ou entre collègues. Il décrit une bienveillance et un imaginaire partagés ; le romantisme n’est pas inscrit dans l’aspect, et ce que deux personnes en font leur appartient."
   - q: "Qu’est-ce qui peut mal tourner avec Soleil trigone Neptune ?"
     a: "Presque rien ne tourne mal bruyamment. Le risque, plus discret, est qu’une ambiance agréable remplace les conversations franches, et que la générosité de l’une reste sans retour sans que personne s’en aperçoive. Faire le point de temps en temps garde cette aisance vraie."
@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, le tiers du cercle" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6,8° près" }
 ---
-Une bienveillance qui arrive avant qu’on la demande : c’est la marque de Soleil trigone Neptune entre deux thèmes. Neptune, chez l’une, forme un trigone avec le Soleil de l’autre depuis quatre signes de distance, le plus souvent dans un même élément, et l’imaginaire et l’identité s’entendent, tout simplement.
+Une bienveillance qui arrive avant qu’on la demande : c’est la marque de Soleil trigone Neptune. Neptune, dans un thème, regarde le Soleil de l’autre depuis quatre signes de distance, le plus souvent dans un même élément, et l’imaginaire et l’identité s’entendent, tout simplement.
 
 ## Ce qui circule {#ce-qui-circule}
 

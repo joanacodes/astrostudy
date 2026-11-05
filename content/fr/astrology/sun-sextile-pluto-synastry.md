@@ -20,7 +20,7 @@ related: ["/astrology/sun", "/astrology/pluto", "/astrology/sextile", "/astrolog
 faq:
   - q: "Que veut dire Soleil sextile Pluton en synastrie ?"
     a: "Aux tournants, la personne qui a le Soleil peut puiser dans la profondeur de l’autre : les deux corps sont à environ 60°, à 4,8° près. L’une peut aider l’autre à voir ce qu’il faut garder et ce qu’on peut laisser. C’est la demande qui met le contact en marche."
-  - q: "Soleil sextile Pluton aide-t-il à traverser les moments difficiles ensemble ?"
+  - q: "Est-ce que Soleil sextile Pluton aide à traverser les moments difficiles ensemble ?"
     a: "Il aide souvent à ces moments-là précisément : les fins, les déménagements, les changements de cap. Mais un sextile est une ouverture, pas une garantie, et aucun contact ne décide de la façon dont deux personnes traversent une période dure. Ce qui compte, c’est que l’une demande et que l’autre offre."
   - q: "La personne qui a Pluton a-t-elle du pouvoir sur l’autre avec cet aspect ?"
     a: "Non. Un sextile propose sans presser, et la fonction de Pluton est l’affirmation de soi, qui n’est pas la domination. C’est la personne qui a le Soleil qui choisit ce qu’elle prend ; la forme saine de ce contact la rend plus forte dans sa propre direction."
