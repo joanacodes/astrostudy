@@ -47,7 +47,7 @@ There's a smaller risk too. Because the Sun person's plans usually suit the Moon
 
 - **[Sun conjunct Moon in synastry](/astrology/sun-conjunct-moon-synastry/):** one person's nature right on the other's needs; closer, and quicker to blur.
 - **[Sun square Moon in synastry](/astrology/sun-square-moon-synastry/):** a sign further round, and the trade becomes a negotiation over the same hours.
-- **[Sun trine Moon in synastry](/astrology/sun-trine-moon-synastry/):** two signs further, in one element; the help arrives before anyone asks.
+- **[Sun trine Moon in synastry](/astrology/sun-trine-moon-synastry/):** a third of the circle and one element; the help arrives before anyone asks.
 - **[Sun opposite Moon in synastry](/astrology/sun-opposite-moon-synastry/):** the lights face each other across the zodiac, each showing the other what it leaves out.
 
 ## How to meet it {#how-to-meet-it}

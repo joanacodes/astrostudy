@@ -1,7 +1,7 @@
 ---
 title: "Moon trine Lilith in synastry"
 h1: "Moon trine Lilith between two charts"
-description: "Moon trine Lilith in synastry: one person’s comfort and the other’s untamed side get on without effort. Both sides, how common, and what easy acceptance hides."
+description: "Moon trine Lilith in synastry: one person’s comfort and the other’s untamed side get on without effort. Each side, its frequency, and what the ease hides."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -23,7 +23,7 @@ faq:
   - q: "Is Moon trine Lilith in synastry a sign of strong chemistry?"
     a: "It can feel like chemistry: an unusual ease with each other’s less polite sides. But a trine describes flow, not destiny, and this one turns up between friends and relatives just as often as between partners. What the ease becomes is up to the two people, not the angle."
   - q: "What can go wrong with Moon trine Lilith?"
-    a: "Mostly what goes unnoticed. Acceptance comes so easily that limits are never discussed, and one person can end up carrying all the boldness for both. Being accepted is also not the same as being attended to: an untamed side that is welcome can still have needs nobody asks about."
+    a: "Mostly what goes unnoticed. Acceptance comes so easily that limits are never discussed, and one person can end up carrying all the boldness for both. Acceptance also isn’t attention: a welcome untamed side can still have needs nobody asks about."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 6.8°" }

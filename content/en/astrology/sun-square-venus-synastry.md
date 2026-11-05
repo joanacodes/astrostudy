@@ -41,7 +41,7 @@ The friction has its uses. Each person's taste gets tested by someone they care 
 
 ## Where it rubs {#where-it-rubs}
 
-If yours is the Venus, you may be drawn to the person and uneasy about their choices at the same time. Your sense of what's fair or pleasant seems to get overruled by their direction, and your preferences can be treated as fussiness. As I read the square, friction is not failure and a challenge is not a punishment, though on a hard week it can feel like both.
+If yours is the Venus, you may be drawn to the person and uneasy about their choices at the same time. Your sense of what's fair or pleasant seems to get overruled by their direction, and your preferences can be treated as fussiness. As I read the square, the friction signals no failure and the challenge no punishment, though on a hard week it can feel like both.
 
 If it's your Sun, you can feel liked with conditions: appreciated, but with a suggestion attached about how you dress, spend, choose or present yourself. It's easy to hear every preference of theirs as a judgement on you.
 

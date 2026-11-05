@@ -33,7 +33,7 @@ sources:
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Mercure](/astrology/mercury/) est la façon dont une personne pense à voix haute : décrire, suggérer, renvoyer ce qu’elle voit. Le [Nœud Nord](/astrology/north-node/) désigne la capacité dans laquelle quelqu’un grandit, étrangère d’abord et plus ferme avec la pratique, toujours lue avec le [Nœud Sud](/astrology/south-node/) en face, son terrain familier. Un [trigone](/astrology/trine/) fait couler deux fonctions ensemble, et dans les [aspects de synastrie](/astrology/synastry-aspects/), ce courant va de la façon de parler de l’une à la direction de l’autre.
+[Mercure](/astrology/mercury/), chez une personne, c’est la pensée à voix haute : décrire, suggérer, renvoyer ce qu’elle voit. Le [Nœud Nord](/astrology/north-node/) désigne la capacité dans laquelle quelqu’un grandit, étrangère d’abord et plus ferme avec la pratique, toujours lue avec le [Nœud Sud](/astrology/south-node/) en face, son terrain familier. Un [trigone](/astrology/trine/) fait couler deux fonctions ensemble, et dans les [aspects de synastrie](/astrology/synastry-aspects/), ce courant va de la façon de parler de l’une à la direction de l’autre.
 
 Du côté de Mercure, encourager cette personne ne vous coûte rien. Vos idées pointent justement là où elle va, et vous êtes souvent celle ou celui qui nomme son pas suivant avant elle. La voir essayer peut aussi vous apprendre quelque chose.
 

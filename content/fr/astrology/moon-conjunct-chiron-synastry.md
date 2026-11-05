@@ -37,7 +37,7 @@ La [Lune](/astrology/moon/) dit comment quelqu’un se tient d’aplomb : les l
 
 Si la Lune est dans votre thème, l’autre comprend souvent vos besoins de l’intérieur, pour avoir dû chercher sans aide ce qui réconforte. Mettons que votre Lune et son Chiron soient en Cancer : votre besoin d’appartenance rencontre quelqu’un qui a dû bâtir la sienne pièce par pièce, et qui distingue un vrai accueil d’un accueil poli.
 
-Si vous portez Chiron, les besoins de l’autre désignent encore et encore l’endroit où vous avez le plus travaillé. Ses humeurs et ses demandes de réconfort font appel aux savoir-faire que vous avez dû acquérir : vous voilà à l’aise dans un domaine que vous n’aviez jamais choisi.
+Côté Chiron, les besoins de l’autre désignent encore et encore l’endroit où vous avez le plus travaillé. Ses humeurs et ses demandes de réconfort font appel aux savoir-faire que vous avez dû acquérir : vous voilà à l’aise dans un domaine que vous n’aviez jamais choisi.
 
 Le cadeau de ce contact, c’est un soin qui sait de quoi il parle : dans un couple, deviner ce qu’une mauvaise nuit demande avant qu’on le dise ; entre proches, des conseils qui marchent pour de bon.
 

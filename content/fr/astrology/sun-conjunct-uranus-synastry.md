@@ -32,7 +32,7 @@ On se met à faire des choses qu’on n’aurait jamais tentées, et cela ressem
 
 ## Ce qui circule {#ce-qui-circule}
 
-Le [Soleil](/astrology/sun/) organise l’identité : le moi qu’une personne construit et la direction qu’il prend. [Uranus](/astrology/uranus/) apporte l’innovation, la différenciation et la libération, la part d’un thème qui veut essayer autrement. Une [conjonction](/astrology/conjunction/) active les deux en un seul processus, chacune gardant sa nature ; entre deux personnes, l’une fournit le moi, l’autre l’envie de le renouveler. Parmi les [aspects de synastrie](/astrology/synastry-aspects/) que forme Uranus, c’est l’un des plus visibles.
+Le [Soleil](/astrology/sun/) organise l’identité : le moi qu’une personne construit et la direction qu’il prend. [Uranus](/astrology/uranus/) apporte l’innovation, la différenciation et la libération, la part d’un thème qui veut essayer autrement. Une [conjonction](/astrology/conjunction/) active les deux en un seul processus, chacune gardant sa nature ; entre deux personnes, l’une fournit le moi, l’autre l’envie de le renouveler. Peu d’[aspects de synastrie](/astrology/synastry-aspects/) avec Uranus se remarquent autant.
 
 Pour la personne qui a le Soleil, la présence de l’autre desserre la forme que vous vous étiez donnée. Les habitudes sont questionnées, un projet repoussé depuis longtemps paraît soudain possible, et vous inventez peut-être davantage à ses côtés que partout ailleurs. Le moi ne disparaît pas ; il se met à jour.
 

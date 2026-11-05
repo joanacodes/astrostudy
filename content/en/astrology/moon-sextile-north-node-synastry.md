@@ -43,7 +43,7 @@ Study partners, friends who travel together, a couple with a shared hobby: this 
 
 ## Where it rubs {#where-it-rubs}
 
-The two pulls aren't equal, and the familiar one wins more often: the pair can settle into what both find familiar and leave the doors unopened for years. Opportunity requires engagement: the sextile offers, and that's all it does.
+The two pulls aren't equal, and the familiar one wins more often: the pair can settle into old ground and leave the doors unopened for years. Opportunity requires engagement: the sextile offers, and that's all it does.
 
 There's also a quiet asymmetry. The Moon person may not know their needs are an opening for the other, and the Node person may never say so, so a chance both would welcome goes unnamed.
 
@@ -52,7 +52,7 @@ The pair's other angles shift the Moon along the nodal road:
 - **[Moon conjunct North Node in synastry](/astrology/moon-conjunct-north-node-synastry/):** the Moon right on the growing edge, more charged than a door left ajar.
 - **[Moon square North Node in synastry](/astrology/moon-square-north-node-synastry/):** a quarter-turn on, the needs stand across the road and the openings become pressure.
 - **[Moon trine North Node in synastry](/astrology/moon-trine-north-node-synastry/):** the angles swap: the easy flow runs towards the new, the opening towards the familiar.
-- **[Moon opposite North Node in synastry](/astrology/moon-opposite-north-node-synastry/):** the Moon sitting on the South Node, deep in familiar ground.
+- **[Moon opposite North Node in synastry](/astrology/moon-opposite-north-node-synastry/):** needs placed squarely on the other's familiar end.
 
 ## How to meet it {#how-to-meet-it}
 

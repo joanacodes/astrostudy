@@ -37,15 +37,15 @@ The [Moon](/astrology/moon/) describes how a person holds and is held, and the f
 
 With your Moon in Taurus and their Lilith in Scorpio, say, you settle through the familiar and the physical, the same meal, the same walk; they keep a part of themselves that wants depth and plain truth, and won't be soothed into quiet.
 
-From the Moon's end, the other's freedom draws you and unsettles you at once. Your comforts can look, through their eyes, a little like a cage, and you may find yourself the one always keeping the lights on. From Lilith's end, the other's softness draws you and puts you on guard. Their need for holding can feel like an invitation to be tamed, and you may find yourself always halfway out of the door.
+If the Moon is yours, the other's freedom draws you and unsettles you at once. Your comforts can look, through their eyes, a little like a cage, and you may find yourself the one always keeping the lights on. If Lilith is yours, the other's softness draws you and puts you on guard. Their need for holding can feel like an invitation to be tamed, and you may find yourself always halfway out of the door.
 
-What flows is awareness. Each person meets, alive in someone else, the side they had the least room for, and between them the pair can hold both: a home, and the right not to be kept in it.
+The gift is recognition. Each person meets, alive in someone else, the side they had the least room for, and between them the pair can hold both: a home, and the right not to be kept in it.
 
 Between two charts the opposition is a matter of zodiac degrees. Inside one chart, a Moon opposite mean Lilith also says where the Moon was in its orbit; here the two positions come from two different births, so the meaning rests on the signs, the houses and the two people.
 
 ## Where it rubs {#where-it-rubs}
 
-A seesaw needs both people moving. Left still, the roles harden into labels, the homebody and the free spirit, and each starts to judge the other for carrying the half they disowned. Polarity is not contradiction; a frozen polarity just feels like one.
+A seesaw needs both people moving. Left still, the roles harden into labels, the homebody and the free spirit, and each starts to judge the other for carrying the half they disowned. Opposite ends aren't a contradiction; ends that never move start to feel like one.
 
 Each of the other angles tips the balance differently:
 
@@ -58,6 +58,6 @@ Each of the other angles tips the balance differently:
 
 Every so often, let each borrow the other's end. The Moon person can take the unplanned evening or the trip alone; the Lilith person can keep a ritual, or stay when they'd usually go. Between friends, one may host and the other bring the unexpected guest, until they swap; between adult siblings, the one who stayed near home and the one who left can each try the other's view for a weekend.
 
-About 1 pair of people in 12 has this opposition, one way round or the other, within 8°. I measure it to mean Lilith; true Lilith can wander a long way from the mean, tens of degrees at times, so the same two charts drawn with the true point may show no opposition at all ([Which Lilith is mine?](/astrology/which-lilith-is-mine/)). The Moon's 13° or so a day means the birth hour decides it, on both sides, and the houses too ([what changes without a birth time](/blog/unknown-birth-time/)). Half of this contact is what someone keeps out of sight, so I only read it for two people who both asked ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+About 1 pair of people in 12 has this opposition, one way round or the other, within 8°. I measure it to mean Lilith; true Lilith can wander a long way from the mean, tens of degrees at times, so the same two charts drawn with the true point may show no opposition at all ([Which Lilith is mine?](/astrology/which-lilith-is-mine/)). Because the Moon covers some 13° a day, the hour of each birth decides it, and the houses too ([what changes without a birth time](/blog/unknown-birth-time/)). Half of this contact is what someone keeps out of sight, so I only read it for two people who both asked ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
 
 [Moon opposite Lilith](/astrology/moon-opposite-lilith/), in a single birth chart, asks one person to keep both a nest and an open door.

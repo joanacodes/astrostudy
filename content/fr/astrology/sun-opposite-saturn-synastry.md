@@ -33,7 +33,7 @@ sources:
 
 ## Ce qui circule {#ce-qui-circule}
 
-Le [Soleil](/astrology/sun/) organise l’identité, la vitalité et le but, et cherche à les exprimer. [Saturne](/astrology/saturn/) établit la structure, les limites, la discipline et la responsabilité au long cours. Une [opposition](/astrology/opposition/) met deux fonctions en polarité : chacune rend l’autre plus visible, et le travail est d’équilibre. De tous les [aspects de synastrie](/astrology/synastry-aspects/), les oppositions sont celles où deux personnes tiennent le plus nettement des bouts complémentaires.
+Le [Soleil](/astrology/sun/) organise l’identité, la vitalité et le but, et cherche à les exprimer. [Saturne](/astrology/saturn/) établit la structure, les limites, la discipline et la responsabilité au long cours. Une [opposition](/astrology/opposition/) met deux fonctions en polarité : chacune rend l’autre plus visible, et le travail est d’équilibre. Les oppositions sont les [aspects de synastrie](/astrology/synastry-aspects/) où deux personnes tiennent le plus nettement des bouts complémentaires.
 
 Avec le Soleil, vous trouvez chez l’autre un réalisme que vous n’apportez pas toujours : l’échéance, le coût, le long terme. Les bons jours, sa solidité vous libère, puisque quelqu’un veille aux fondations. Les jours plus durs, vous voilà à défendre qui vous êtes devant une personne qui posait seulement une question pratique.
 

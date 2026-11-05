@@ -42,7 +42,7 @@ Cette friction a ses usages. Le goût de chacune est mis à l’épreuve par que
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Si la Vénus est la vôtre, la personne peut vous attirer et ses choix vous gêner, tout à la fois. Votre sens de ce qui est juste ou agréable semble balayé par sa direction, et vos préférences passent pour des caprices. Dans ma lecture du carré, une friction n’est pas un échec et un défi n’est pas une punition, même si, une mauvaise semaine, cela ressemble aux deux.
+Si la Vénus est la vôtre, la personne peut vous attirer et ses choix vous gêner, tout à la fois. Votre sens de ce qui est juste ou agréable semble balayé par sa direction, et vos préférences passent pour des caprices. Dans ma lecture du carré, la friction ne signe aucun échec et le défi n’a rien d’une punition, même si, une mauvaise semaine, cela ressemble aux deux.
 
 Si c’est votre Soleil, l’affection de l’autre peut sembler venir avec des conditions : on vous apprécie, mais avec une suggestion sur votre façon de vous habiller, de dépenser, de choisir ou de vous présenter. Il est facile d’entendre chacune de ses préférences comme un jugement sur vous.
 

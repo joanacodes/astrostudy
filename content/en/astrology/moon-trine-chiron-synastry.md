@@ -33,7 +33,7 @@ Moon trine Chiron in synastry links what one person needs for comfort with what 
 
 The [Moon](/astrology/moon/) holds what keeps a person steady: the small rituals of comfort, the people and habits they come back to. [Chiron](/astrology/chiron/) holds the patience of someone who had to find another way round a limit that stays, and the practical wisdom that came with it. A [trine](/astrology/trine/) lets them run side by side, and of the Moon's [synastry aspects](/astrology/synastry-aspects/) with Chiron, it's the one where care arrives already in the right shape.
 
-For the Moon person, the other's experience tends to arrive in exactly the shape needed. With your Moon in Sagittarius and their Chiron in Aries, your need for room and adventure meets someone who built their confidence from nothing, and who encourages you without needing to lead the way. Their steadiness about their own limit is quietly reassuring: it shows you that a hard thing can be lived with.
+For the Moon person, the other's experience tends to answer needs before they're spoken. With your Moon in Sagittarius and their Chiron in Aries, your need for room and adventure meets someone who built their confidence from nothing, and who encourages you without needing to lead the way. Their steadiness about their own limit is quietly reassuring: it shows you that a hard thing can be lived with.
 
 If Chiron is yours, the other's needs don't press on your sore place; they sit alongside it. Around this person your limit feels like an ordinary fact rather than a problem to manage, and you can offer what you know without it costing much. Being useful doesn't feel like being on duty.
 
@@ -58,4 +58,4 @@ Notice out loud. A thank-you that names the thing ("you always know when I need 
 
 About 1 pair of people in 7 has this trine, one way round or the other, within 6.8°. Whether a given pair has it hangs on the Moon, which moves about 13° a day: at one birth time the trine is there, a few hours later it may have slipped out of orb. Both times decide it, and the houses as well ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-When a single chart holds both ends, this ease is [Moon trine Chiron](/astrology/moon-trine-chiron/), one person living gracefully with their own limit.
+When a single chart holds both ends, this ease is [Moon trine Chiron](/astrology/moon-trine-chiron/), one person at peace with their own limit.

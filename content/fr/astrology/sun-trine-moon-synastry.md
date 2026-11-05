@@ -44,7 +44,7 @@ Ce qui circule, c’est donc une aisance : des habitudes qui se forment sans n�
 
 L’aisance peut cacher des choses. Quand rien ne frotte, les besoins ne se disent pas toujours, et la personne de la Lune peut s’adapter en silence pendant des années tandis que celle du Soleil ne pense jamais à demander. Le confort devient un décor, et un décor, on cesse de le remarquer, plus encore de le remercier. Une paire qui n’a jamais eu à s’exercer au désaccord peut aussi être prise de court le jour où il le faut.
 
-Dans ma lecture du trigone, l’aisance n’est pas une fatalité, et le courant n’est pas la passivité : l’accord tient parce que deux personnes l’entretiennent. Les autres angles de la paire le disent autrement :
+Dans ma lecture du trigone, rien ici ne tourne tout seul : l’accord tient parce que deux personnes l’entretiennent. Les autres angles de la paire le disent autrement :
 
 - **[Soleil conjonction Lune en synastrie](/astrology/sun-conjunct-moon-synastry/) :** le centre de l’une sur les besoins de l’autre ; on s’y installe vite, et l’on s’y confond aussi vite.
 - **[Soleil sextile Lune en synastrie](/astrology/sun-sextile-moon-synastry/) :** deux signes plus près ; l’aide doit être demandée, ce qui la garde au moins visible.

@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 39
 glyph: "☉△♆"
-definition: "Sun trine Neptune in synastry lets one person’s identity and the other’s imagination meet easily, with Neptune about 120° from the Sun, within 6.8°, often in one element. Kindness and inspiration pass between them without effort. I read it as a gentle ease, at its best when it is used and now and then checked."
+definition: "Sun trine Neptune in synastry lets one person’s identity and the other’s imagination meet easily, with Neptune four signs from the Sun, within an orb of 6.8°. Kindness and inspiration pass between them without effort. I read it as a gentle ease, at its best when it is used and now and then checked."
 facts:
   - { k: "Bodies", v: "One person’s Sun ☉, the other’s Neptune ♆" }
   - { k: "Aspect", v: "Trine △, 120°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun", "/astrology/neptune", "/astrology/trine", "/astrology/sun-trine-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Sun trine Neptune mean in synastry?"
-    a: "The Neptune person’s imagination and compassion support the Sun person’s identity with ease, at about 120°, within 6.8°. The Sun person feels gently understood; the Neptune person has someone to believe in. It describes a kind and inspiring way of being together, not a promise about the future."
+    a: "It means the Sun person is met, without effort, by the other’s imagination and kindness, from about 120° away, within 6.8°. The Sun person feels gently understood; the Neptune person has someone to believe in. It describes a kind and inspiring way of being together, not a promise about the future."
   - q: "Is Sun trine Neptune romantic?"
     a: "It can feel that way in a couple, but it is just as common between friends, relatives and colleagues. It describes kindness and shared imagination; romance isn’t built into the aspect, and what two people make of it is up to them."
   - q: "What can go wrong with Sun trine Neptune?"
@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, a third of the circle" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 6.8°" }
 ---
-Kindness that arrives before anyone asks for it is the mark of Sun trine Neptune between two charts. The Neptune of one person sits about 120° from the other's Sun, usually in the same element, and imagination and identity simply get along.
+Kindness that arrives before anyone asks for it is the mark of Sun trine Neptune between two charts. One person's Neptune trines the other's Sun from four signs away, most often in the same element, and imagination and identity simply get along.
 
 ## What flows {#what-flows}
 
@@ -39,13 +39,13 @@ For the Neptune person, there's someone to believe in who doesn't ask you to dis
 
 Between them, meaning gets attached to ordinary things: a shared walk, a meal, a piece of work done for someone else. Colleagues feel that the project matters, relatives tell the old family stories more kindly to each other, and friends find themselves talking about what they believe.
 
-The element sets the tone: in fire, shared enthusiasm for a cause; in earth, kindness that turns up with soup; in air, long conversations about what matters; in water, an empathy that needs few words.
+The element sets the tone: in fire, shared enthusiasm for a cause; in earth, kindness that turns up with soup; in air, long conversations about what matters; in water, empathy without much talk.
 
 ## Where it rubs {#where-it-rubs}
 
-Ease of this kind rarely goes wrong loudly. Its risk is quieter: the picture each holds of the other never gets checked, and the hard conversations, about money, time or what each actually needs, keep being postponed because the mood is so good. The Neptune person's generosity may go unreturned without either noticing. Idealising isn't a delusion, but an ideal nobody ever compares with the person can drift a long way from them.
+Trouble from this angle is rarely loud. Its risk is quieter: the picture each holds of the other never gets checked, and the hard conversations, about money, time or what each actually needs, keep being postponed because the mood is so good. The Neptune person's generosity may go unreturned without either noticing. Idealising isn't a delusion, but an ideal nobody ever compares with the person can drift a long way from them.
 
-The pair's other angles, for contrast:
+How the other angles compare:
 
 - **[Sun conjunct Neptune in synastry](/astrology/sun-conjunct-neptune-synastry/):** the imagination lands on the identity itself, and the two can merge.
 - **[Sun sextile Neptune in synastry](/astrology/sun-sextile-neptune-synastry/):** the same inspiration has to be invited in.

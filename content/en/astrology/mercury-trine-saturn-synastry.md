@@ -43,7 +43,7 @@ What the ease can hide is a slow narrowing. When the careful answer always lands
 
 If you have this trine with someone, you may well have it with their classmates too. The Saturn person shares a Saturn sign with everyone born in the same two or three years, and it's the Mercury on the other side that singles the contact out.
 
-The pair's other angles, for contrast:
+Mercury and Saturn at their other angles, for contrast with this one:
 
 - **[Mercury conjunct Saturn in synastry](/astrology/mercury-conjunct-saturn-synastry/):** the two fused on one degree, so every passing thought is weighed at once.
 - **[Mercury sextile Saturn in synastry](/astrology/mercury-sextile-saturn-synastry/):** an opening of the same easy kind, narrower, where structure waits to be invited.

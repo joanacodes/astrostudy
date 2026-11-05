@@ -51,7 +51,7 @@ About 1 pair of people in 11 has this conjunction, one way round or the other, w
 With more distance between them, the same two functions show other faces:
 
 - **[Moon sextile Neptune in synastry](/astrology/moon-sextile-neptune-synastry/):** imagination offered to feeling, a shared language that needs using.
-- **[Moon square Neptune in synastry](/astrology/moon-square-neptune-synastry/):** what one person needs and what the other imagines, out of step.
+- **[Moon square Neptune in synastry](/astrology/moon-square-neptune-synastry/):** a need on one side, a picture of it on the other, out of step.
 - **[Moon trine Neptune in synastry](/astrology/moon-trine-neptune-synastry/):** kindness flowing easily, with outlines still visible.
 - **[Moon opposite Neptune in synastry](/astrology/moon-opposite-neptune-synastry/):** the real and the ideal facing each other across the pair.
 

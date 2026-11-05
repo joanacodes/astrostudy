@@ -32,7 +32,7 @@ Soleil conjonction Mercure en synastrie place Mercure, dans le thème d’une pe
 
 ## Ce qui circule {#ce-qui-circule}
 
-Le [Soleil](/astrology/sun/) organise l’identité et le but : qui est une personne, et où elle va. [Mercure](/astrology/mercury/), c’est la circulation de l’esprit : remarquer, trier, nommer, expliquer. Une [conjonction](/astrology/conjunction/) fond deux fonctions en un seul mouvement sans qu’aucune s’y perde, et dans les [aspects de synastrie](/astrology/synastry-aspects/), chacune garde sa propriétaire : ici, l’une apporte le soi, l’autre l’esprit qui le rencontre.
+Le [Soleil](/astrology/sun/) tient ensemble l’identité et le but : qui est une personne, et où elle va. [Mercure](/astrology/mercury/), c’est la circulation de l’esprit : remarquer, trier, nommer, expliquer. Une [conjonction](/astrology/conjunction/) fond deux fonctions en un seul mouvement sans qu’aucune s’y perde, et dans les [aspects de synastrie](/astrology/synastry-aspects/), chacune garde sa propriétaire : ici, l’une apporte le soi, l’autre l’esprit qui le rencontre.
 
 Un même signe tient en général les deux, si bien que la pensée de la personne de Mercure a le tempérament de l’identité de l’autre. Mercure en Gémeaux sur un Soleil en Gémeaux : des échanges rapides, et beaucoup. Mercure en Capricorne sur un Soleil en Capricorne : des projets discutés sobrement, pas à pas, jusqu’à ce qu’ils tiennent.
 

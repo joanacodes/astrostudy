@@ -1,13 +1,13 @@
 ---
 title: "Moon square Lilith in synastry"
 h1: "Moon square Lilith between two charts"
-description: "Moon square Lilith in synastry: one person’s care meets the other’s refusal to be managed. Both sides, how common it is, and how care and freedom can coexist."
+description: "Moon square Lilith in synastry: one person’s care meets the other’s refusal to be managed. Each side, its frequency, and how care and freedom coexist."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 108
 glyph: "☽□⚸"
-definition: "Moon square Lilith in synastry means one person’s Moon is about 90° from the other’s mean Black Moon Lilith, within 6.8°. One person’s way of caring rubs against the other’s untamed independence: kindness can feel like a leash, independence like a closing door. I read it as friction that maps where care ends and control begins."
+definition: "Moon square Lilith in synastry means one person’s Moon is about 90° from the other’s mean Black Moon Lilith, within 6.8°. One person’s way of caring rubs against the other’s untamed independence: kindness can feel like a leash, freedom like a closing door. I read it as friction that maps where care ends and control begins."
 facts:
   - { k: "Bodies", v: "One person’s Moon ☽, the other’s Black Moon Lilith ⚸" }
   - { k: "Aspect", v: "Square □, 90°" }

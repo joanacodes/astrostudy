@@ -50,7 +50,7 @@ Placées à d’autres angles, les deux mêmes fonctions se comportent autrement
 
 - **[Soleil conjonction Lune en synastrie](/astrology/sun-conjunct-moon-synastry/) :** les deux luminaires au même endroit ; aucun conflit d’horaires, mais moins d’espace entre deux personnes.
 - **[Soleil sextile Lune en synastrie](/astrology/sun-sextile-moon-synastry/) :** un signe plus près, et les mêmes fonctions échangent des services au lieu de se disputer le temps.
-- **[Soleil trigone Lune en synastrie](/astrology/sun-trine-moon-synastry/) :** un signe plus loin, dans un même élément ; les deux rythmes marchent au même pas.
+- **[Soleil trigone Lune en synastrie](/astrology/sun-trine-moon-synastry/) :** les signes partagent un élément, et les deux rythmes marchent au même pas.
 - **[Soleil opposition Lune en synastrie](/astrology/sun-opposite-moon-synastry/) :** les deux se font face, et la question devient celle des rôles plutôt que des horaires.
 
 ## Comment le vivre {#comment-le-vivre}

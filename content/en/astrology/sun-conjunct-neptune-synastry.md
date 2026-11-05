@@ -1,13 +1,13 @@
 ---
 title: "Sun conjunct Neptune in synastry"
 h1: "Sun conjunct Neptune between two charts"
-description: "Sun conjunct Neptune in synastry: one person’s imagination settles on the other’s sense of self. What each side feels, its odds, keeping the person in view."
+description: "Sun conjunct Neptune in synastry: one person’s imagination gathers round the other’s identity. The tenderness, its odds, keeping the real person in view."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 36
 glyph: "☉☌♆"
-definition: "Sun conjunct Neptune in synastry joins one person’s identity to the other’s imagination, with their Neptune within 8° of the Sun. The Sun person feels seen at their best; the Neptune person feels inspired. I read it as tenderness and vision, and I watch for the moment the person and the ideal become hard to separate."
+definition: "Sun conjunct Neptune in synastry binds one person’s identity to the other’s imagination, with their Neptune within 8° of the Sun. The Sun person feels seen at their best; the Neptune person feels inspired. I read it as tenderness and vision, and I watch for the moment the person and the ideal become hard to separate."
 facts:
   - { k: "Bodies", v: "One person’s Sun ☉, the other’s Neptune ♆" }
   - { k: "Aspect", v: "Conjunction ☌, 0°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun", "/astrology/neptune", "/astrology/conjunction", "/astrology/sun-conjunct-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Sun conjunct Neptune mean in synastry?"
-    a: "The Neptune person’s imagination and compassion gather around the Sun person’s identity, within 8°. The Sun person tends to feel believed in and seen at their best; the Neptune person feels inspired and moved. It describes a tender way of seeing each other, not where the relationship goes."
+    a: "The Neptune person’s imagination and compassion gather around the Sun person’s identity, within 8°. The Sun person tends to feel believed in and seen at their best; the Neptune person feels inspired and moved. It describes a tender way of seeing each other; it says nothing about how things will turn out."
   - q: "Is Sun conjunct Neptune a sign of soulmates?"
     a: "No contact proves that. This one often feels like recognition, even like meeting someone you had imagined, and that feeling is worth taking seriously. But it describes how one person’s imagination meets the other’s identity, not a destiny, and no synastry can promise one."
   - q: "How do you keep Sun conjunct Neptune grounded?"
@@ -45,7 +45,7 @@ With the two this close, the person and the ideal can merge. The Sun person may 
 
 Idealising someone isn't a delusion; it's one of the things Neptune does. It just needs checking against an ordinary Tuesday now and then.
 
-Neptune stays about fourteen years in a sign, so its sign belongs to the Neptune person's generation, shared with nearly everyone they went to school with. The Sun, which crosses a sign in about a month, is what makes this conjunction belong to two people rather than to an era.
+Neptune stays about fourteen years in a sign; its sign therefore belongs to the Neptune person's generation, shared with nearly everyone they went to school with. The Sun, which crosses a sign in about a month, is what makes this conjunction belong to two people rather than to an era.
 
 ## How to meet it {#how-to-meet-it}
 

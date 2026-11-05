@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 114
 glyph: "☽△☊"
-definition: "Moon trine North Node in synastry means one person’s Moon is about 120° from the other’s North Node, within 6.8°, which leaves it about 60° from their South Node. One person’s comforts run in the same direction as the other’s growth. I read it as support that eases someone forward, and deserves to be named."
+definition: "Moon trine North Node in synastry means one person’s Moon is about 120° from the other’s North Node, within 6.8°, which leaves it about 60° from their South Node. One person’s comforts run in the same direction as the other’s growth. I read it as support that eases someone forward and deserves to be named."
 facts:
   - { k: "Bodies", v: "One person’s Moon ☽, the other’s North Node ☊" }
   - { k: "Aspect", v: "Trine △, 120°" }
@@ -29,11 +29,11 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 6.8°" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }
 ---
-In Moon trine North Node in synastry, 120° separate one person's Moon from the other's North Node, and 60° from their South Node. Being looked after by one person tends to carry the other a little further along their own path, without either of them having to push.
+In Moon trine North Node in synastry, one person's Moon sits 120° from the other's North Node, close enough to their South Node (60°) to keep a line open to it. Being looked after by one person tends to carry the other a little further along their own path, without either of them having to push.
 
 ## What flows {#what-flows}
 
-The [Moon](/astrology/moon/) is made of the small habits of a good day, the comforts and attachments a person relies on. The [North Node](/astrology/north-node/) points to a skill still being learned, which strengthens with use; the South Node opposite holds what is already known by heart. A [trine](/astrology/trine/) links the two through flow, and among [synastry aspects](/astrology/synastry-aspects/) with the nodes, it's the one where comfort and growth point the same way.
+The [Moon](/astrology/moon/) lives in the small habits of a good day: the comforts and attachments a person relies on. The [North Node](/astrology/north-node/) points to a skill still being learned, which strengthens with use; the South Node opposite holds what is already known by heart. A [trine](/astrology/trine/) links the two through flow, and among [synastry aspects](/astrology/synastry-aspects/) with the nodes, it's the one where comfort and growth point the same way.
 
 With your North Node in Virgo and their Moon in Taurus, their need for steady, unhurried routines is exactly the practical daily rhythm you're learning to build, after years of drifting with whatever came. Living near their habits does a lot of your practising for you.
 

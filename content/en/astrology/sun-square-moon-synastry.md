@@ -49,7 +49,7 @@ Set at other angles, the same two functions behave differently:
 
 - **[Sun conjunct Moon in synastry](/astrology/sun-conjunct-moon-synastry/):** the two lights in one place; no clash of timetables, but less room between two people.
 - **[Sun sextile Moon in synastry](/astrology/sun-sextile-moon-synastry/):** a sign closer, and the same functions trade favours instead of competing for time.
-- **[Sun trine Moon in synastry](/astrology/sun-trine-moon-synastry/):** a sign further, in one element; the two rhythms fall into step.
+- **[Sun trine Moon in synastry](/astrology/sun-trine-moon-synastry/):** the signs share an element, and the two rhythms fall into step.
 - **[Sun opposite Moon in synastry](/astrology/sun-opposite-moon-synastry/):** the two face each other, and the question becomes roles rather than timetables.
 
 ## How to meet it {#how-to-meet-it}

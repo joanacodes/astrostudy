@@ -20,7 +20,7 @@ related: ["/astrology/sun-in-aries", "/astrology/moon-in-gemini", "/astrology/me
 faq:
   - q: "Comment est un Soleil en Bélier avec une Lune en Gémeaux ?"
     a: "Rapide de deux façons : dans l’action, par le Soleil en Bélier, et dans les mots, par la Lune en Gémeaux. Beaucoup de personnes avec ce duo pensent à voix haute, décident en marchant et apaisent une émotion en en parlant. Le feu et l’air s’attisent ici : l’enthousiasme manque rarement ; c’est le calme qui demande de l’entraînement."
-  - q: "Pourquoi Mercure compte-t-il avec le Soleil en Bélier et la Lune en Gémeaux ?"
+  - q: "Quel rôle joue Mercure avec le Soleil en Bélier et la Lune en Gémeaux ?"
     a: "Maître des Gémeaux, Mercure décrit le chemin d’une émotion vers les mots. Mercure reste à moins de 28° environ du Soleil : avec un Soleil en Bélier, Mercure est toujours tout près, en Poissons, en Bélier ou en Taureau. Son signe et sa maison montrent si vos émotions sortent vite ou posément, à voix haute ou par écrit."
   - q: "Un Soleil en Bélier et une Lune en Gémeaux s’entendent-ils ?"
     a: "En général sans peine. Le feu et l’air s’attisent, et à deux signes d’écart ils forment un sextile par signe, un lien qui marche quand on s’en sert. La friction tient à la vitesse plus qu’au désaccord : le Soleil agit, la Lune parle, et les émotions plus lentes, en dessous, risquent de rester en arrière."

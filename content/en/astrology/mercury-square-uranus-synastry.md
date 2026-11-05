@@ -33,7 +33,7 @@ Halfway through your explanation, the other person has already moved on to a bet
 
 [Mercury](/astrology/mercury/) is how someone makes sense of things and passes them on: noticing, sorting, explaining in order. [Uranus](/astrology/uranus/) is how someone breaks with the expected: invention, autonomy, the urge to test the frame itself. A [square](/astrology/square/) sets two functions across each other, and the friction is what develops both; here, as in all [synastry aspects](/astrology/synastry-aspects/), one function belongs to each of you. Inside one chart, [Mercury square Uranus](/astrology/mercury-square-uranus/) is one person torn between saying it plainly and saying it new; here, plain and new are two people.
 
-What the friction makes possible is the idea that is both original and workable. The Uranus person proposes the change, the Mercury person asks how it would actually run, and the next version is better than either first draft. Decisions get reopened more than is comfortable, but the ones that survive have been tested from two directions. Both of you get practice at something many people avoid: changing your mind out loud.
+The friction can produce an idea that is both original and workable. The Uranus person proposes the change, the Mercury person asks how it would actually run, and the next version is better than either first draft. Decisions get reopened more than is comfortable, but the ones that survive have been tested from two directions. Both of you get practice at something many people avoid: changing your mind out loud.
 
 ## Where it rubs {#where-it-rubs}
 

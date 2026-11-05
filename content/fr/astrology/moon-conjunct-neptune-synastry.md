@@ -52,7 +52,7 @@ Environ 1 paire de personnes sur 11 a cette conjonction, dans un sens ou dans l�
 Avec plus de distance, les deux mêmes fonctions montrent d’autres visages :
 
 - **[Lune sextile Neptune en synastrie](/astrology/moon-sextile-neptune-synastry/) :** l’imagination offerte au ressenti, un langage commun qui demande à servir.
-- **[Lune carré Neptune en synastrie](/astrology/moon-square-neptune-synastry/) :** ce dont l’une a besoin et ce que l’autre imagine, à contretemps.
+- **[Lune carré Neptune en synastrie](/astrology/moon-square-neptune-synastry/) :** un besoin d’un côté, son image de l’autre, à contretemps.
 - **[Lune trigone Neptune en synastrie](/astrology/moon-trine-neptune-synastry/) :** une bonté qui circule facilement, les contours encore visibles.
 - **[Lune opposition Neptune en synastrie](/astrology/moon-opposite-neptune-synastry/) :** le réel et l’idéal face à face, d’une personne à l’autre.
 

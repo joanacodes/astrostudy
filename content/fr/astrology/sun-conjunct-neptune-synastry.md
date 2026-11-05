@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 36
 glyph: "☉☌♆"
-definition: "Soleil conjonction Neptune en synastrie unit l’identité d’une personne à l’imaginaire de l’autre, Neptune se trouvant à moins de 8° de ce Soleil. La personne qui a le Soleil se sent vue sous son meilleur jour ; l’autre, inspirée. J’y lis de la tendresse et une vision, et je guette le moment où la personne et l’idéal deviennent difficiles à séparer."
+definition: "Soleil conjonction Neptune en synastrie unit l’identité d’une personne à l’imaginaire de l’autre, dont Neptune est à moins de 8° de ce Soleil. L’une se découvre vue sous son meilleur jour ; l’autre, inspirée. J’y lis de la tendresse et une vision, et je guette le moment où la personne et l’idéal deviennent difficiles à séparer."
 facts:
   - { k: "Corps", v: "Le Soleil ☉ d’une personne, Neptune ♆ dans le thème de l’autre" }
   - { k: "Aspect", v: "Conjonction ☌, 0°" }
@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les aspects qu’il nomme, dont la conjonction ne fait pas partie" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 8° près" }
 ---
-Qu’on vous voie sous votre meilleur jour peut ressembler à un cadeau, et certains jours à un costume. Quand Neptune, chez l’une des deux personnes, se trouve sur le Soleil de l’autre, la façon d’être de la personne qui a le Soleil devient l’endroit où l’imaginaire et la compassion de l’autre viennent se poser.
+Qu’on vous voie sous votre meilleur jour peut ressembler à un cadeau, et certains jours à un costume. Si votre Soleil et Neptune chez l’autre se rejoignent, votre façon d’être devient l’endroit où son imaginaire et sa compassion viennent se poser.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -46,12 +46,12 @@ Avec les deux aussi proches, la personne et l’idéal peuvent se fondre. Celle 
 
 Idéaliser quelqu’un n’est pas délirer ; c’est l’une des choses que fait Neptune. Il suffit de vérifier l’idéal, de temps en temps, contre un mardi ordinaire.
 
-Neptune reste environ quatorze ans dans un signe : ce signe appartient à la génération de la personne qui a Neptune, commun à presque toute sa classe d’âge. Le Soleil, qui traverse un signe en un mois environ, fait que cette conjonction appartient à deux personnes plutôt qu’à une époque.
+Neptune reste environ quatorze ans dans un signe : ce signe est celui de toute une génération. Le Soleil, qui traverse un signe en un mois environ, fait que cette conjonction appartient à deux personnes plutôt qu’à une époque.
 
 ## Comment le vivre {#comment-le-vivre}
 
 Décrivez-vous simplement de temps en temps : les habitudes, les préférences, ce qui agace. La personne qui a le Soleil peut dire avec douceur « ce n’est pas tout à fait moi » quand l’image dérive ; celle qui a Neptune peut garder des projets et des limites à elle, pour que donner reste un choix. Dans un couple, cela veut dire parler d’argent et de temps à côté des rêves communs ; entre amis, être honnête quand quelque chose blesse ; en famille, laisser les siens être ordinaires ; au travail, confier à quelqu’un la conduite concrète du projet inspiré.
 
-Environ 1 paire de personnes sur 12 a cette conjonction, dans un sens ou dans l’autre, à 8° près. Il faut les deux heures de naissance. La conjonction elle-même ne dépend presque jamais de l’heure, le Soleil avançant d’un degré ou à peu près par jour, mais les maisons montrent quelle partie de chaque vie porte l’idéalisation, l’amour, le travail ou le foyer, et on ne les dessine pas sans l’heure ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Environ 1 paire de personnes sur 12 a cette conjonction, dans un sens ou dans l’autre, à 8° près. Les deux heures de naissance sont indispensables. La conjonction elle-même ne dépend presque jamais de l’heure, le Soleil avançant d’un degré ou à peu près par jour, mais les maisons montrent quelle partie de chaque vie porte l’idéalisation, l’amour, le travail ou le foyer, et on ne les dessine pas sans l’heure ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Les autres angles de la paire mettent l’idéal plus à distance : [Soleil sextile Neptune en synastrie](/astrology/sun-sextile-neptune-synastry/) comme une offre douce, [Soleil carré Neptune en synastrie](/astrology/sun-square-neptune-synastry/) comme une friction entre l’image et la personne, [Soleil trigone Neptune en synastrie](/astrology/sun-trine-neptune-synastry/) comme une bienveillance facile, [Soleil opposition Neptune en synastrie](/astrology/sun-opposite-neptune-synastry/) comme une fascination venue d’en face. Dans un seul thème, [Soleil conjonction Neptune](/astrology/sun-conjunct-neptune/) mêle l’identité d’une personne à son propre imaginaire ; ici, le mélange vient de la façon dont quelqu’un d’autre vous voit. Parce que ce contact touche la façon dont une personne en imagine une autre, je le lis avec les deux, jamais au sujet de l’une seulement ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

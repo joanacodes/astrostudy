@@ -31,7 +31,7 @@ Sun conjunct Mercury in synastry puts one person's Mercury on the other's Sun, a
 
 ## What flows {#what-flows}
 
-The [Sun](/astrology/sun/) organises identity and purpose: who a person is and where they're going. [Mercury](/astrology/mercury/) is the mind's traffic: noticing, sorting, naming, explaining. A [conjunction](/astrology/conjunction/) fuses two functions into one movement without either losing itself, and in [synastry aspects](/astrology/synastry-aspects/) each keeps its owner: here one person brings the self, the other the mind that meets it.
+The [Sun](/astrology/sun/) holds identity and purpose together: who a person is and where they're going. [Mercury](/astrology/mercury/) is the mind's traffic: noticing, sorting, naming, explaining. A [conjunction](/astrology/conjunction/) fuses two functions into one movement without either losing itself, and in [synastry aspects](/astrology/synastry-aspects/) each keeps its owner: here one person brings the self, the other the mind that meets it.
 
 One sign usually holds both, so the Mercury person's thinking shares the temperament of the Sun person's identity. A Gemini Mercury on a Gemini Sun: quick exchanges, and plenty of them. A Capricorn Mercury on a Capricorn Sun: plans talked through soberly, step by step, until they hold.
 

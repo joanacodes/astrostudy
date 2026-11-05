@@ -32,7 +32,7 @@ Demandez à la bonne personne comment elle s’y prend avec quelque chose de dif
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Mercure](/astrology/mercury/) est la part d’une personne qui apprend, relie les idées et les met en mots. [Chiron](/astrology/chiron/) désigne une limite ou un endroit sensible qui demeure, et les adaptations que l’on construit autour, qu’avec le temps on peut transmettre. Un [sextile](/astrology/sextile/) relie les deux par l’occasion et la coopération ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), chaque fonction a ici sa propre personne.
+Avec [Mercure](/astrology/mercury/), une personne apprend, relie les idées et les met en mots. [Chiron](/astrology/chiron/) désigne une limite ou un endroit sensible qui demeure, et les adaptations que l’on construit autour, qu’avec le temps on peut transmettre. Un [sextile](/astrology/sextile/) relie les deux par l’occasion et la coopération ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), chaque fonction a ici sa propre personne.
 
 Du côté de Mercure, vous découvrez que vous pouvez demander à l’autre comment elle fait, et recevoir une vraie réponse plutôt qu’un air courageux. Son expérience offre à votre pensée une méthode que vous n’auriez pas trouvée par vous-même : le détour, le raccourci, le « voilà ce qui a marché pour moi » dit honnêtement.
 

@@ -20,7 +20,7 @@ faq:
   - q: "What does Moon opposite Chiron mean in synastry?"
     a: "One person’s Moon sits across the zodiac from the other’s Chiron. The Moon person’s needs, held openly, face the Chiron person’s ways of coping with a lasting sensitivity. Each finds in the other what they practise least: asking for comfort on one side, getting by on one’s own resources on the other."
   - q: "Is Moon opposite Chiron in synastry a difficult aspect?"
-    a: "It calls for balance, not a fight. Between two people an opposition works like a seesaw, never like enmity, and this one sets need against self-reliance. It becomes hard only when the roles freeze. Kept moving, it shows each person the half they have less practice with."
+    a: "It calls for balance, not a fight. Between two people an opposition works like a seesaw, never like enmity, and this one sets need against self-reliance. It becomes hard only when the roles freeze. Kept moving, it shows each person the side they rarely use."
   - q: "Does Moon opposite Chiron mean one person is always the strong one?"
     a: "Only if the roles are left to harden. The Chiron person can look like the capable one and the Moon person like the one with needs, but both have both. The opposition works best when the coper sometimes asks and the asker sometimes copes, out loud."
 sources:

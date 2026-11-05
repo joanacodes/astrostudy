@@ -48,7 +48,7 @@ Il y a aussi un risque plus petit. Comme les projets de la personne du Soleil co
 
 - **[Soleil conjonction Lune en synastrie](/astrology/sun-conjunct-moon-synastry/) :** la nature de l’une juste sur les besoins de l’autre ; plus de proximité, et plus de risque de se confondre.
 - **[Soleil carré Lune en synastrie](/astrology/sun-square-moon-synastry/) :** un signe plus loin, l’échange devient une négociation sur les mêmes heures.
-- **[Soleil trigone Lune en synastrie](/astrology/sun-trine-moon-synastry/) :** deux signes plus loin, dans un même élément ; l’aide arrive avant qu’on la demande.
+- **[Soleil trigone Lune en synastrie](/astrology/sun-trine-moon-synastry/) :** un tiers du cercle et un même élément ; l’aide arrive avant qu’on la demande.
 - **[Soleil opposition Lune en synastrie](/astrology/sun-opposite-moon-synastry/) :** les luminaires se regardent à travers le zodiaque, et chacun montre à l’autre ce qu’il laisse de côté.
 
 ## Comment le vivre {#comment-le-vivre}

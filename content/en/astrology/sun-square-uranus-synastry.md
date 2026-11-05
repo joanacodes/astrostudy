@@ -31,7 +31,7 @@ The plan was settled on Sunday; by Wednesday one of you has a better idea. Sun s
 
 ## What flows {#what-flows}
 
-The [Sun](/astrology/sun/) organises a person's identity and purpose, and gives a life its line. [Uranus](/astrology/uranus/) differentiates and reforms: it wants autonomy, experiment, the better system. A [square](/astrology/square/) relates them through constructive friction, the kind that forces adaptation, and in the grammar of [synastry aspects](/astrology/synastry-aspects/) each function here belongs to a different person.
+The [Sun](/astrology/sun/) organises a person's identity and purpose, and gives a life its line. [Uranus](/astrology/uranus/) differentiates and reforms: it wants autonomy, experiment, the better system. A [square](/astrology/square/) relates them through constructive friction, the kind that forces adaptation, and here, as in all [synastry aspects](/astrology/synastry-aspects/), the need for change and the need for a line live in different people.
 
 Out of this rub comes reform that lasts, because it had to convince somebody first. The Sun person, pushed off a path they'd stopped questioning, often ends up with a plan that's better for having been challenged. The Uranus person, meeting someone who asks why, learns to time a change and argue for it instead of simply making it.
 

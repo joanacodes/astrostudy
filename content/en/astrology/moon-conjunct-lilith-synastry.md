@@ -37,7 +37,7 @@ The [Moon](/astrology/moon/) holds what soothes a person, and the bonds and habi
 
 On the Lilith side, the part of you that was too much tends to be let into ordinary life. With your Lilith and their Moon both in Taurus, say, appetites you were once told to apologise for meet someone who loves simple, physical comforts, and at their table the apology can stop.
 
-Holding the Moon, you find the other's refusals landing right where you keep your comforts. You may find your idea of what's safe widening: someone who won't be managed turns out to be restful company. Or you may feel your nest stirred, because their directness touches needs you hadn't said aloud.
+Holding the Moon, you find the other's refusals landing right where you keep your comforts. You may notice your idea of what's safe widening: someone who won't be managed turns out to be restful company. Or you may feel your nest stirred, because their directness touches needs you hadn't said aloud.
 
 What flows is a kind of honesty in feeling. In a couple, this may be the first home where nobody is asked to be smaller; between friends, the one place both can say what they really want.
 

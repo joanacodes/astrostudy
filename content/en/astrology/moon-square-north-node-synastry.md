@@ -1,13 +1,13 @@
 ---
 title: "Moon square North Node in synastry"
 h1: "Moon square North Node between two charts"
-description: "Moon square North Node in synastry: one person’s needs stand across the other’s road, between old habits and new growth. Both sides, how common, what helps."
+description: "Moon square North Node in synastry: one person’s needs stand across the other’s road, between old habits and new growth. Each side, its frequency, what helps."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 113
 glyph: "☽□☊"
-definition: "Moon square North Node in synastry means one person’s Moon is about 90° from the other’s North Node, within 6.8°, and so square their South Node too. One person’s needs stand across the other’s road, halfway between familiar ground and new growth. I read it as friction that teaches growth which takes people along."
+definition: "Moon square North Node in synastry means one person’s Moon is about 90° from the other’s North Node, within 6.8°, and so square their South Node too. One person’s needs stand across the other’s road, halfway between familiar ground and new growth. I read it as friction that asks for growth which takes people along."
 facts:
   - { k: "Bodies", v: "One person’s Moon ☽, the other’s North Node ☊" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -19,9 +19,9 @@ facts:
 related: ["/astrology/moon", "/astrology/north-node", "/astrology/square", "/astrology/moon-square-north-node", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Moon square North Node mean in synastry?"
-    a: "One person’s Moon is about 90° from the other’s North Node, and so 90° from their South Node as well. The Moon person’s needs stand across the Node person’s road, neither on the familiar ground nor on the new path, and ask to be fitted in. The friction teaches growth that includes people."
+    a: "One person’s Moon is about 90° from the other’s North Node, and so 90° from their South Node as well. The Moon person’s needs stand across the Node person’s road, neither on the familiar ground nor on the new path, and ask to be fitted in. The friction asks for growth that includes people."
   - q: "Is Moon square North Node in synastry a bad sign?"
-    a: "No. It describes friction, never failure. It shows where one person’s needs and the other’s development compete for the same time and attention. Pairs who notice that can plan for it; nothing in the angle decides how the relationship goes."
+    a: "No. It describes friction, never failure, showing where one person’s needs and the other’s development compete for the same time and attention. Pairs who notice that can plan for it; nothing in the angle decides how the relationship goes."
   - q: "Does Moon square North Node mean one person holds the other back?"
     a: "Not as I read it. The Moon person’s needs stand beside the road rather than blocking it, and they push back whichever way the Node person goes, forward or home. That pressure is the lesson: learning to grow without leaving the people you care about behind."
 sources:
@@ -37,7 +37,7 @@ The [Moon](/astrology/moon/) is what keeps a person feeling secure: comfort, clo
 
 With their North Node in Capricorn, learning to take up a place in the world beyond the family, and your Moon in Libra, needing company and fair shares, your need for partnership stands right across their road. It isn't the home they're moving on from, and it isn't the role they're moving towards. It asks to be fitted in.
 
-Carrying the nodes, you may find the other's needs pressing on you from the side whichever way you go. Push forward, and they ask for your time; fall back on old habits, and they ask for something those habits don't give either. On the Moon side, your needs may feel treated as a detour on someone else's journey, or find yourself competing with their plans for themselves.
+Carrying the nodes, you may find the other's needs pressing on you from the side whichever way you go. Push forward, and they ask for your time; fall back on old habits, and they ask for something those habits don't give either. On the Moon side, you may feel your needs treated as a detour on someone else's journey, or find yourself competing with their plans for themselves.
 
 The gain is growth that takes people along. The Node person learns to change without leaving anyone behind; the Moon person learns to state needs that can travel.
 

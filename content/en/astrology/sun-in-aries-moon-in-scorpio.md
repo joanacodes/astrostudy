@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 8
 glyph: "☉♈☽♏"
-definition: "Sun in Aries, Moon in Scorpio is a birth fifteen to nineteen and a half days after a new moon, just past the full, the Moon five signs behind the Sun. The signs share only a ruler, Mars, in the old scheme. I read the pair as courage in the open and depth kept private: a frank self, guarded needs."
+definition: "Sun in Aries, Moon in Scorpio dates a birth to just after a full moon, fifteen to nineteen and a half days into the lunar month, the Moon five signs behind the Sun. The signs share only a ruler, Mars, in the old scheme. I read the pair as courage in the open and depth kept private."
 facts:
   - { k: "Sun sign", v: "Aries ♈, ruled by Mars; the Sun’s exaltation" }
   - { k: "Moon sign", v: "Scorpio ♏, ruled by Pluto and Mars; the Moon’s fall" }
@@ -22,7 +22,7 @@ faq:
   - q: "Is the Moon weak in Scorpio with an Aries Sun?"
     a: "In tradition Scorpio is the sign of the Moon’s fall, and with the Sun exalted in Aries the two lights sit at opposite ends of its scale. I read the fall as comfort that takes more work, not as weaker feeling. A Scorpio Moon tends to feel deeply and privately, which a frank Aries Sun learns to respect."
   - q: "Was I born after a full moon with Sun in Aries and Moon in Scorpio?"
-    a: "Yes, within a few days of one. The Moon was 181° to 239° ahead of the Sun, past the opposition and starting to wane, fifteen to nineteen and a half days after a new moon. Most of these births count as full moon births in the eight phases, a few as disseminating."
+    a: "Yes, within a few days of one. At your birth the Moon had just passed opposition, 181° to 239° from the Sun counting forwards, and its light had begun to shrink, fifteen to nineteen and a half days into the month. Most such births count as full moon births in the eight phases, a few as disseminating."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Mars’s rule of Aries and Scorpio, the Sun’s exaltation and the Moon’s fall" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s distance past the full" }
@@ -36,7 +36,7 @@ Aries is cardinal fire, quick and open; Scorpio is fixed water, slow to trust an
 
 The rulers are where this pair is unusual. In the traditional scheme [Mars](/astrology/mars/) rules both Aries and Scorpio, so one planet carries the self's drive and also guards the heart's borders. Modern astrologers give Scorpio to [Pluto](/astrology/pluto/) instead, and I read both: Mars for where you act and defend, Pluto for where you go deep and rebuild after a loss. Tradition also puts the lights at the two ends of its scale, the Sun exalted in Aries and the Moon in its [fall](/astrology/fall/) in Scorpio: purpose at ease, need asked to work harder for its comfort. The old label describes effort, and nothing about your capacity for feeling.
 
-The Moon had passed the full by up to 59°: it stood 181° to 239° ahead of the Sun, fifteen to nineteen and a half days after a new moon, its light already beginning to shrink. Seven births in eight with this pair fall in the [full moon](/astrology/full-moon/) phase of the eight-phase count, the days just after the full, and the rest in the [waning gibbous (disseminating) moon](/astrology/waning-gibbous-disseminating-moon/). [Your birth lunar phase](/astrology/your-birth-lunar-phase/) explains why the astrologers' full moon lasts several days when the sky's lasts a moment.
+The Moon had passed the full by up to 59°: it stood 181° to 239° on from the Sun, fifteen to nineteen and a half days after a new moon, its light already beginning to shrink. Seven births in eight with this pair fall in the [full moon](/astrology/full-moon/) phase of the eight-phase count, the days just after the full, and the rest in the [waning gibbous (disseminating) moon](/astrology/waning-gibbous-disseminating-moon/). [Your birth lunar phase](/astrology/your-birth-lunar-phase/) explains why the astrologers' full moon lasts several days when the sky's lasts a moment.
 
 About 1 person in 147 has this pair. If the Moon left Libra for Scorpio, or Scorpio for Sagittarius, on the day you were born (it moves to a new sign roughly every 2½ days), only the time tells this page from the [Sun in Aries, Moon in Libra](/astrology/sun-in-aries-moon-in-libra/) and the [Sun in Aries, Moon in Sagittarius](/astrology/sun-in-aries-moon-in-sagittarius/) ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)). The rising sign hangs on the same time. The three together make an opening sketch, and a Scorpio Moon, of all Moons, keeps a good deal off the first page.
 

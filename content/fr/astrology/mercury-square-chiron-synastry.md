@@ -32,7 +32,7 @@ Certaines paires ont besoin d’un petit lexique pour un seul sujet. Dans Mercur
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Mercure](/astrology/mercury/) est la façon dont une personne traite et échange l’information : comment elle demande, argumente, conseille et écoute. [Chiron](/astrology/chiron/) est une sensibilité durable, et l’ingéniosité qui pousse autour : le détour, la méthode ajustée, le savoir de ce qui aide vraiment. Un [carré](/astrology/square/) relie deux fonctions par une friction constructive, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), cette friction passe entre deux personnes, chacune tenant un bout.
+Par [Mercure](/astrology/mercury/), une personne traite et échange l’information : elle demande, argumente, conseille, écoute. [Chiron](/astrology/chiron/) est une sensibilité durable, et l’ingéniosité qui pousse autour : le détour, la méthode ajustée, le savoir de ce qui aide vraiment. Un [carré](/astrology/square/) relie deux fonctions par une friction constructive, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), cette friction passe entre deux personnes, chacune tenant un bout.
 
 Ce que la friction rend possible, c’est une méthode. Chiron parle d’adaptation, et le carré pousse cette adaptation jusque dans la conversation : la personne de Mercure apprend à expliquer d’une façon qui marche pour cette personne-là, et celle de Chiron s’exerce à dire ce dont elle a besoin en mots simples. Avec le temps, une paire qui a ce carré peut parler du sujet difficile plus justement que des gens qui n’ont jamais eu à le faire.
 

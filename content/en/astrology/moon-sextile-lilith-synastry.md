@@ -43,7 +43,7 @@ Between friends, this can be the friendship where both of you got a little brave
 
 ## Where it rubs {#where-it-rubs}
 
-The risk is that nobody takes the invitation. Two people who both learned early to keep parts of themselves hidden can like each other for years and keep showing only the tame version. The Moon person may admire the other's boldness from the sidelines without trying any of it; the Lilith person may keep their sharpest edges back, because things are pleasant as they are.
+The likelier problem is that nobody takes the invitation up. Two people who both learned early to keep parts of themselves hidden can like each other for years and keep showing only the tame version. The Moon person may admire the other's boldness from the sidelines without trying any of it; the Lilith person may keep their sharpest edges back, because things are pleasant as they are.
 
 And an invitation isn't a debt. Neither person owes the other an unveiling, and pushing for one turns an opening into pressure.
 
@@ -56,7 +56,7 @@ The pair's other aspects change the terms of the invitation:
 
 ## How to meet it {#how-to-meet-it}
 
-Accept the invitation in small doses, one honest thing at a time: a preference stated plainly, a refusal that doesn't come with an apology, a need named while it's still small. Invite rather than dare. Grown siblings might keep one evening a month for saying things straight; a couple might agree that "I don't want to" is a full sentence between them.
+Accept the invitation in small doses, one honest thing at a time: a preference stated plainly, a refusal that doesn't come with an apology, a need named early. Invite rather than dare. Grown siblings might keep one evening a month for saying things straight; a couple might agree that "I don't want to" is a full sentence between them.
 
 About 1 pair of people in 10 has this sextile, one way round or the other, within 4.8°. With an orb that small, a sextile present in a chart cast for the morning can be gone by evening, because the Moon travels some 13° in a day; mean Lilith, meanwhile, hardly moves. It's the two birth times that settle it, and the houses where it plays out come from them too ([what changes without a birth time](/blog/unknown-birth-time/)).
 

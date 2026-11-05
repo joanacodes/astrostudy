@@ -32,7 +32,7 @@ Six signs apart, one person's Saturn faces the other's Sun across the whole zodi
 
 ## What flows {#what-flows}
 
-The [Sun](/astrology/sun/) organises identity, vitality and purpose, and wants to express them. [Saturn](/astrology/saturn/) establishes structure, boundaries, discipline and long-term responsibility. An [opposition](/astrology/opposition/) relates two functions through polarity: each makes the other more visible, and the work is balance. Of all the [synastry aspects](/astrology/synastry-aspects/), oppositions are where two people most plainly hold complementary ends.
+The [Sun](/astrology/sun/) organises identity, vitality and purpose, and wants to express them. [Saturn](/astrology/saturn/) establishes structure, boundaries, discipline and long-term responsibility. An [opposition](/astrology/opposition/) relates two functions through polarity: each makes the other more visible, and the work is balance. Oppositions are the [synastry aspects](/astrology/synastry-aspects/) in which two people most plainly hold complementary ends.
 
 Holding the Sun, you meet in the other person a realism you don't always supply yourself: the deadline, the cost, the long view. On a good day their solidity frees you, since someone is minding the foundations. On a harder one, you find yourself defending who you are to a person who only asked a practical question.
 

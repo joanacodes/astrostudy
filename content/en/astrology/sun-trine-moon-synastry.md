@@ -43,7 +43,7 @@ So what flows is ease: routines that form without negotiation, trips that suit b
 
 Ease can hide things. When nothing rubs, needs don't always get said, and the Moon person may adapt quietly for years while the Sun person never thinks to ask. Comfort becomes background, and background stops being noticed, let alone thanked. A pair that never had to practise disagreeing can also be caught off guard the first time it must.
 
-As I read the trine, ease is not inevitability and flow is not passivity: the agreement holds because two people keep it up. The pair's other angles make the same point differently:
+As I read the trine, nothing here runs itself: the agreement holds because two people keep it up. The pair's other angles make the same point differently:
 
 - **[Sun conjunct Moon in synastry](/astrology/sun-conjunct-moon-synastry/):** one person's centre on the other's needs, which settles fast and blurs just as fast.
 - **[Sun sextile Moon in synastry](/astrology/sun-sextile-moon-synastry/):** two signs closer; the help has to be asked for, which at least keeps it visible.

@@ -32,7 +32,7 @@ Une suggestion au bon moment, prise ou laissée sans histoire : voilà la textu
 
 ## Ce qui circule {#ce-qui-circule}
 
-Le [Soleil](/astrology/sun/), c’est le sentiment qu’une personne a de qui elle est et de là où elle va. [Uranus](/astrology/uranus/) innove et libère : différencier, expérimenter, réformer ce qui ne marche plus. Un [sextile](/astrology/sextile/) met les deux en contact par la coopération, une ouverture plutôt qu’une poussée. Des [aspects de synastrie](/astrology/synastry-aspects/) qu’Uranus forme avec le Soleil, c’est la façon la plus douce de se faire bousculer.
+Le [Soleil](/astrology/sun/), c’est le sentiment qu’une personne a de qui elle est et de là où elle va. [Uranus](/astrology/uranus/) innove et libère : différencier, expérimenter, réformer ce qui ne marche plus. Un [sextile](/astrology/sextile/) met les deux en contact par la coopération, une ouverture plutôt qu’une poussée. En matière d’[aspects de synastrie](/astrology/synastry-aspects/), c’est la façon la plus douce de se faire bousculer.
 
 Avec le Soleil dans cette paire, vous collectionnez les possibilités. Vos buts restent les vôtres, mais auprès de cette personne ils gagnent quelques chemins que vous n’aviez pas envisagés, et comme rien ne vous est imposé, expérimenter paraît sans risque. Vous pouvez essayer une nouvelle méthode un mois, puis l’abandonner sans que personne s’en offusque.
 

@@ -23,7 +23,7 @@ faq:
   - q: "Mercure opposition Lilith, est-ce un signe de conflit en synastrie ?"
     a: "Non. Une opposition est une balançoire, jamais une inimitié. Elle place côte à côte deux façons de traiter le non-dit, la diplomatie et le franc-parler, et chacune a besoin de l’autre. La friction vient quand les rôles se figent ; prendre son tour à chaque bout change souvent ce contraste en force."
   - q: "Qui ressent le plus Mercure opposition Lilith ?"
-    a: "Chacune sent un bout différent. La personne de Lilith peut sentir ses refus lissés ou expliqués à sa place. Celle de Mercure peut voir ses mots raisonnables traités comme de la docilité, ou être fascinée par une franchise qu’elle s’accorde rarement. Aucun bout n’est le problème : ce sont les deux moitiés d’une même conversation."
+    a: "Les deux ne sentent pas le même bout. La personne de Lilith peut sentir ses refus lissés ou expliqués à sa place. Celle de Mercure peut voir ses mots raisonnables traités comme de la docilité, ou être fascinée par une franchise qu’elle s’accorde rarement. Aucun bout n’est le problème : ce sont les deux moitiés d’une même conversation."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’opposition, 180°, l’un des quatre aspects qu’il décrit" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6° près, avec la Lilith moyenne" }

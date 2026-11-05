@@ -32,7 +32,7 @@ Le projet était décidé dimanche ; mercredi, l’une des deux personnes a un
 
 ## Ce qui circule {#ce-qui-circule}
 
-Le [Soleil](/astrology/sun/) organise l’identité et le but d’une personne, et donne sa ligne à une vie. [Uranus](/astrology/uranus/) différencie et réforme : l’autonomie, l’expérience, le meilleur système. Un [carré](/astrology/square/) les relie par une friction constructive, celle qui oblige à s’adapter, et dans la grammaire des [aspects de synastrie](/astrology/synastry-aspects/), chaque fonction appartient ici à une personne différente.
+Le [Soleil](/astrology/sun/) organise l’identité et le but d’une personne, et donne sa ligne à une vie. [Uranus](/astrology/uranus/) différencie et réforme : l’autonomie, l’expérience, le meilleur système. Un [carré](/astrology/square/) les relie par une friction constructive, celle qui oblige à s’adapter, et ici, comme dans tous les [aspects de synastrie](/astrology/synastry-aspects/), le besoin de changement et le besoin d’une ligne vivent chez deux personnes.
 
 De ce frottement naît une réforme qui dure, parce qu’elle a d’abord dû convaincre quelqu’un. La personne qui a le Soleil, poussée hors d’un chemin qu’elle ne questionnait plus, finit souvent avec un projet meilleur pour avoir été contesté. Celle qui a Uranus, face à quelqu’un qui demande pourquoi, apprend à choisir le moment d’un changement et à le défendre, au lieu de simplement le faire.
 

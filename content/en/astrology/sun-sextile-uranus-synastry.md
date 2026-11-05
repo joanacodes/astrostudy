@@ -31,7 +31,7 @@ A suggestion at the right moment, taken or left without fuss: that's the texture
 
 ## What flows {#what-flows}
 
-The [Sun](/astrology/sun/) is a person's sense of who they are and where they're going. [Uranus](/astrology/uranus/) innovates and frees: it differentiates, experiments and reforms what no longer works. A [sextile](/astrology/sextile/) puts the two in cooperative contact, an opening rather than a push. Of the [synastry aspects](/astrology/synastry-aspects/) Uranus makes with the Sun, it's the gentlest way of being shaken up.
+The [Sun](/astrology/sun/) is a person's sense of who they are and where they're going. [Uranus](/astrology/uranus/) innovates and frees: it differentiates, experiments and reforms what no longer works. A [sextile](/astrology/sextile/) puts the two in cooperative contact, an opening rather than a push. As [synastry aspects](/astrology/synastry-aspects/) go, it's the gentlest way of being shaken up.
 
 With your Sun in this pair, you collect options. Your aims stay yours, but around this person they gain a few paths you hadn't considered, and because nothing is pressed on you, experimenting feels safe. You can try a new approach for a month and drop it without anyone taking offence.
 

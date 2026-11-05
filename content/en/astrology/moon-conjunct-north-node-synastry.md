@@ -1,7 +1,7 @@
 ---
 title: "Moon conjunct North Node in synastry"
 h1: "Moon conjunct North Node between two charts"
-description: "Moon conjunct North Node in synastry: what one person needs sits where the other is learning to grow. Both sides, the South Node opposite, and how common it is."
+description: "Moon conjunct North Node in synastry: what one person needs sits where the other is learning to grow. Each side, the South Node opposite, its frequency."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"

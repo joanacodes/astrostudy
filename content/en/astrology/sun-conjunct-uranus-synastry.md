@@ -31,7 +31,7 @@ You start doing things you'd never have tried, and it feels less like being chan
 
 ## What flows {#what-flows}
 
-The [Sun](/astrology/sun/) organises identity: who a person is becoming, and where they are headed. [Uranus](/astrology/uranus/) brings innovation, differentiation and liberation, the part of a chart that wants to try another way. A [conjunction](/astrology/conjunction/) co-activates the two into one process, each keeping its own nature; between two people, one supplies the self and the other the urge to renew it. Of the [synastry aspects](/astrology/synastry-aspects/) Uranus can make, it's one of the most noticeable.
+The [Sun](/astrology/sun/) organises identity: who a person is becoming, and where they are headed. [Uranus](/astrology/uranus/) brings innovation, differentiation and liberation, the part of a chart that wants to try another way. A [conjunction](/astrology/conjunction/) co-activates the two into one process, each keeping its own nature; between two people, one supplies the self and the other the urge to renew it. Few [synastry aspects](/astrology/synastry-aspects/) involving Uranus are as noticeable.
 
 For the Sun person, the other's presence loosens the shape you've given yourself. Habits get questioned, a long-postponed plan suddenly looks possible, and you may be more original in their company than anywhere else. The self doesn't disappear; it gets an update.
 

@@ -33,7 +33,7 @@ Certaines personnes disent tout haut, comme une banalité, ce que vous n’avez 
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Mercure](/astrology/mercury/) est la façon dont une personne remarque, nomme et échange : ce qu’elle demande, ce qu’elle met en mots. La [Lune noire Lilith](/astrology/black-moon-lilith/) est un point, l’apogée de la Lune, que je lis comme la part de direction qu’une personne a gardée pour elle, ce qu’elle a appris à cacher, et les lignes que nul ne peut franchir ; les traditions ne s’accordent pas sur elle, et je propose ma lecture comme un symbole. Une [conjonction](/astrology/conjunction/) réunit les deux en un même lieu, et dans les [aspects de synastrie](/astrology/synastry-aspects/), ce lieu est partagé par deux personnes.
+[Mercure](/astrology/mercury/), c’est la manière qu’a une personne de remarquer, de nommer et d’échanger. La [Lune noire Lilith](/astrology/black-moon-lilith/) est un point, l’apogée de la Lune, que je lis comme la part de direction qu’une personne a gardée pour elle, ce qu’elle a appris à cacher, et les lignes que nul ne peut franchir ; les traditions ne s’accordent pas sur elle, et je propose ma lecture comme un symbole. Une [conjonction](/astrology/conjunction/) réunit les deux en un même lieu, et dans les [aspects de synastrie](/astrology/synastry-aspects/), ce lieu est partagé par deux personnes.
 
 Si Mercure est de votre côté, cette personne aiguise votre esprit. Vous posez des questions plus audacieuses, vous dites ce que vous ne diriez pas ailleurs, curieuse ou curieux de tout ce que les autres tiennent pour interdit. Parfois, une remarque lancée à la légère tombe comme une révélation, et vous le voyez sur son visage.
 
