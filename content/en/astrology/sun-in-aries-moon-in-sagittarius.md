@@ -17,11 +17,11 @@ facts:
   - { k: "How common", v: "About 1 person in 142 born 1930–2009" }
 related: ["/astrology/sun-in-aries", "/astrology/moon-in-sagittarius", "/astrology/jupiter", "/astrology/waning-gibbous-disseminating-moon", "/astrology/sun-trine-moon"]
 faq:
-  - q: "Is Sun in Aries, Moon in Sagittarius a restless combination?"
-    a: "It can be. Fire on both sides: the Aries Sun drawn to new starts, the Sagittarius Moon to open space and new horizons, so stillness doesn’t come from the pair itself. Many people with it settle best with one long goal, plenty of movement, and a few fixed people to come back to."
+  - q: "Does an Aries Sun with a Sagittarius Moon get restless?"
+    a: "It can. Fire on both sides: the Aries Sun drawn to new starts, the Sagittarius Moon to open space and new horizons, so stillness doesn’t come from the pair itself. Many people with it settle best with one long goal, plenty of movement, and a few fixed people to come back to."
   - q: "What does an Aries Sun with a Sagittarius Moon need in love?"
     a: "Momentum, honesty and room. The pair tends to love a partner who shares plans and adventures and doesn’t need every evening accounted for. What it can forget is the slow, ordinary closeness that holds a bond together between adventures, so that part is worth choosing on purpose."
-  - q: "Which lunar phase goes with Sun in Aries, Moon in Sagittarius?"
+  - q: "What Moon was in the sky at a Sun in Aries, Moon in Sagittarius birth?"
     a: "Mostly the disseminating phase, the waning gibbous Moon after the full. Such births come seventeen to twenty-two days into the lunar month, with the Moon 210° to 269° on from the Sun. One in eight still falls in the full moon phase; with the Moon near 120° behind the Sun, it’s a waning Sun trine Moon."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the fire signs, Mars’s rule of Aries and Jupiter’s of Sagittarius" }

@@ -18,11 +18,11 @@ facts:
   - { k: "Fréquence", v: "Environ 1 personne sur 142 née entre 1930 et 2009" }
 related: ["/astrology/sun-in-aries", "/astrology/moon-in-leo", "/astrology/sun-trine-moon", "/astrology/first-quarter-moon", "/astrology/waxing-gibbous-moon"]
 faq:
-  - q: "Comment est un Soleil en Bélier avec une Lune en Lion ?"
+  - q: "Quel genre de personne a le Soleil en Bélier et la Lune en Lion ?"
     a: "Chaleureux, direct et généreux, en règle générale : les deux luminaires sont dans le feu, et tous deux dans des signes où le Soleil est à l’honneur. Beaucoup de personnes avec ce duo se lancent de tout leur cœur et ont besoin que leurs proches le reconnaissent. Le travail : se reposer, et laisser parfois l’amour être plus discret qu’une fête."
   - q: "Pourquoi le Soleil compte-t-il deux fois avec le Soleil en Bélier et la Lune en Lion ?"
     a: "Parce que le Soleil est exalté en Bélier et gouverne le Lion. Votre Soleil se trouve dans son exaltation, votre Lune dans le propre signe du Soleil : la Lune répond donc au Soleil. J’y lis des besoins liés au but : vous vous sentez le plus en sécurité quand ce que vous avez entrepris est vu et apprécié."
-  - q: "Ma naissance a-t-elle eu lieu près d’une pleine lune avec le Soleil en Bélier et la Lune en Lion ?"
+  - q: "La Lune était-elle pleine à une naissance avec le Soleil en Bélier et la Lune en Lion ?"
     a: "Pas encore pleine. La Lune avait 91° à 149° d’avance sur le Soleil, sept jours et demi à douze jours environ après une nouvelle lune : passé le premier quartier, plus qu’à moitié éclairée et croissante. Comptées en huit phases, la plupart de ces naissances relèvent du premier quartier, quelques-unes de la phase gibbeuse."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’exaltation du Soleil en Bélier et sa maîtrise sur le Lion" }

@@ -26,7 +26,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the square, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 6.8°" }
 ---
-Moon square Pluto in synastry sets a quarter-circle between one person's need to feel safe and the other's need to get to the bottom of things. One wants the familiar left alone; the other can't leave something alone if it isn't, in fact, well. Both are reasonable, and they rub.
+Moon square Pluto in synastry sets a quarter-circle between one person's need to feel safe and the other's need to dig until the truth is out. One wants the familiar left alone; the other can't leave something alone if it isn't, in fact, well. Both are reasonable, and they rub.
 
 ## What flows {#what-flows}
 
@@ -44,7 +44,7 @@ The rub is power and pace. The Pluto person may push for change, a talk, a decis
 
 ## How to meet it {#how-to-meet-it}
 
-Talk about power before it turns into a fight: who decides what, what each of you needs to feel safe, what is off limits. Let change be proposed with time to think, not sprung. The Moon person can say "not yet" rather than "never"; the Pluto person can ask what would make a change feel safe. In a couple, that might mean decisions made together on a set day; between relatives, old family patterns approached one at a time; between colleagues, a clear process for raising hard truths.
+Talk about power before it turns into a fight: who decides what, what makes each of you feel secure, what is off limits. Let change be proposed with time to think, not sprung. The Moon person can say "not yet" rather than "never"; the Pluto person can ask what would make a change feel safe. In a couple, that might mean decisions made together on a set day; between relatives, old family patterns approached one at a time; between colleagues, a clear process for raising hard truths.
 
 About 1 pair of people in 7 has this square, one way round or the other, within 6.8°. If the Pluto is yours, a whole generation shares it with you, since Pluto crawls through each sign over 12 to 31 years; your square with this one person exists because of where their Moon happened to be. And since the Moon shifts by roughly 13° a day, I need both birth times to know whether the square is real and which houses it ties together ([what changes without a birth time](/blog/unknown-birth-time/)).
 

@@ -17,11 +17,11 @@ facts:
   - { k: "How common", v: "About 1 person in 142 born 1930–2009" }
 related: ["/astrology/sun-in-aries", "/astrology/moon-in-leo", "/astrology/sun-trine-moon", "/astrology/first-quarter-moon", "/astrology/waxing-gibbous-moon"]
 faq:
-  - q: "What is an Aries Sun with a Leo Moon like?"
+  - q: "What kind of person has the Sun in Aries and the Moon in Leo?"
     a: "Warm, direct and generous, as a rule: both lights are in fire, and both stand in signs where the Sun is honoured. Many people with the pair start things wholeheartedly and need that heart acknowledged by the people close to them. The work is resting, and letting love be quieter than a celebration now and then."
   - q: "Why does the Sun matter twice with Sun in Aries, Moon in Leo?"
     a: "Because the Sun is exalted in Aries and rules Leo. Your Sun stands in its exaltation, and your Moon in the Sun’s own sign, so the Moon answers to the Sun. I read it as needs tied to purpose: you feel safest when what you’ve set out to do is seen and valued."
-  - q: "Was I born near a full moon with Sun in Aries and Moon in Leo?"
+  - q: "How full was the Moon at a Sun in Aries, Moon in Leo birth?"
     a: "Not yet full. The Moon was 91° to 149° ahead of the Sun, seven and a half to about twelve days after a new moon: past the first quarter, more than half lit and growing. Counted in eight phases, most of these births are first quarter births and a few are gibbous."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the Sun’s exaltation in Aries and its rule of Leo" }

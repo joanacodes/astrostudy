@@ -18,11 +18,11 @@ facts:
   - { k: "Fréquence", v: "Environ 1 personne sur 142 née entre 1930 et 2009" }
 related: ["/astrology/sun-in-aries", "/astrology/moon-in-sagittarius", "/astrology/jupiter", "/astrology/waning-gibbous-disseminating-moon", "/astrology/sun-trine-moon"]
 faq:
-  - q: "Le Soleil en Bélier avec la Lune en Sagittaire, est-ce une combinaison agitée ?"
-    a: "Elle peut l’être. Du feu des deux côtés : le Soleil en Bélier attiré par les nouveaux départs, la Lune en Sagittaire par l’espace et les horizons neufs ; le calme ne vient pas du duo lui-même. Beaucoup de personnes avec ce duo trouvent leur équilibre avec un but lointain, du mouvement, et quelques proches vers qui revenir."
+  - q: "Un Soleil en Bélier avec une Lune en Sagittaire tient-il en place ?"
+    a: "Pas toujours. Du feu des deux côtés : le Soleil en Bélier attiré par les nouveaux départs, la Lune en Sagittaire par l’espace et les horizons neufs ; le calme ne vient pas du duo lui-même. Beaucoup de personnes avec ce duo trouvent leur équilibre avec un but lointain, du mouvement, et quelques proches vers qui revenir."
   - q: "De quoi un Soleil en Bélier avec une Lune en Sagittaire a-t-il besoin en amour ?"
     a: "D’élan, de franchise et d’espace. Ce duo aime volontiers quelqu’un qui partage projets et aventures sans exiger qu’on lui rende compte de chaque soirée. Ce qu’il peut oublier, c’est la proximité lente et ordinaire qui tient un lien entre deux aventures : cette part-là mérite d’être choisie exprès."
-  - q: "Quelle phase lunaire va avec le Soleil en Bélier et la Lune en Sagittaire ?"
+  - q: "Quelle Lune y avait-il dans le ciel à une naissance Soleil en Bélier, Lune en Sagittaire ?"
     a: "Surtout la phase disséminante, la Lune gibbeuse qui décroît après la pleine lune. Ces naissances arrivent dix-sept à vingt-deux jours après la nouvelle lune, la Lune 210° à 269° plus loin que le Soleil. Une sur huit tombe encore dans la phase de pleine lune ; avec la Lune vers 120° derrière le Soleil, c’est un Soleil trigone Lune décroissant."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les signes de feu, la maîtrise de Mars sur le Bélier et celle de Jupiter sur le Sagittaire" }

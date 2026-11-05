@@ -22,8 +22,8 @@ faq:
     a: "Souvent, et de deux façons. Le Soleil en Bélier veut la liberté d’agir de sa propre initiative ; la Lune en Verseau a besoin d’un peu de distance pour comprendre ce qu’elle ressent, et donne sa fidélité à ses conditions. Les personnes avec ce duo sont souvent chaleureuses dans les actes et sobres dans l’expression ; leurs proches voient la chaleur."
   - q: "Quels maîtres comptent pour le Soleil en Bélier et la Lune en Verseau ?"
     a: "Trois planètes : Mars pour le Bélier ; pour le Verseau, Uranus, son maître moderne, et Saturne, son maître traditionnel. Je lis les deux. Saturne a sa chute en Bélier, le signe de votre Soleil : c’est l’une des raisons pour lesquelles ce duo apprend la patience en chemin."
-  - q: "Ma naissance a-t-elle eu lieu au dernier quartier avec le Soleil en Bélier et la Lune en Verseau ?"
-    a: "Plutôt dans les jours qui le suivent. Une naissance avec ce duo tombe vingt-deux à vingt-sept jours après le début du mois lunaire, la Lune 31° à 89° en retard sur le Soleil : un croissant dans le ciel de l’aube. Le découpage en huit phases en range sept sur huit dans le dernier quartier, les autres dans la phase balsamique."
+  - q: "À quel moment du mois lunaire correspond le Soleil en Bélier avec la Lune en Verseau ?"
+    a: "La dernière semaine, juste après le dernier quartier. Une naissance avec ce duo tombe vingt-deux à vingt-sept jours après le début du mois lunaire, la Lune 31° à 89° en retard sur le Soleil : un croissant dans le ciel de l’aube. Le découpage en huit phases en range sept sur huit dans le dernier quartier, les autres dans la phase balsamique."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "la maîtrise de Mars sur le Bélier, celle de Saturne sur le Verseau et la chute de Saturne en Bélier" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et le retard de la Lune sur le Soleil" }

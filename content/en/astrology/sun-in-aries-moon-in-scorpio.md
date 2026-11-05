@@ -17,12 +17,12 @@ facts:
   - { k: "How common", v: "About 1 person in 147 born 1930–2009" }
 related: ["/astrology/sun-in-aries", "/astrology/moon-in-scorpio", "/astrology/mars", "/astrology/full-moon", "/astrology/fall"]
 faq:
-  - q: "Why does Mars matter so much with Sun in Aries, Moon in Scorpio?"
-    a: "Because in the traditional scheme Mars rules both signs, so one planet carries your Sun’s drive and your Moon’s need to guard what matters. Modern astrologers give Scorpio to Pluto, and I read both: Mars, by sign and house, for where you act and defend; Pluto for where you go deepest."
+  - q: "Does Mars rule both signs in Sun in Aries, Moon in Scorpio?"
+    a: "In the traditional scheme, yes. Mars rules both signs, so one planet carries your Sun’s drive and your Moon’s need to guard what matters. Modern astrologers give Scorpio to Pluto, and I read both: Mars, by sign and house, for where you act and defend; Pluto for where you go deepest."
   - q: "Is the Moon weak in Scorpio with an Aries Sun?"
     a: "In tradition Scorpio is the sign of the Moon’s fall, and with the Sun exalted in Aries the two lights sit at opposite ends of its scale. I read the fall as comfort that takes more work, not as weaker feeling. A Scorpio Moon tends to feel deeply and privately, which a frank Aries Sun learns to respect."
-  - q: "Was I born after a full moon with Sun in Aries and Moon in Scorpio?"
-    a: "Yes, within a few days of one. At your birth the Moon had just passed opposition, 181° to 239° from the Sun counting forwards, and its light had begun to shrink, fifteen to nineteen and a half days into the month. Most such births count as full moon births in the eight phases, a few as disseminating."
+  - q: "Does Sun in Aries, Moon in Scorpio mean a waning moon?"
+    a: "Yes, a Moon only just past full. At your birth it had passed opposition, 181° to 239° from the Sun counting forwards, and its light had begun to shrink, fifteen to nineteen and a half days into the month. Most such births count as full moon births in the eight phases, a few as disseminating."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Mars’s rule of Aries and Scorpio, the Sun’s exaltation and the Moon’s fall" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s distance past the full" }

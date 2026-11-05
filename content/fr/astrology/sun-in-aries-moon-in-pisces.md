@@ -18,11 +18,11 @@ facts:
   - { k: "Fréquence", v: "Environ 1 personne sur 146 née entre 1930 et 2009" }
 related: ["/astrology/sun-in-aries", "/astrology/moon-in-pisces", "/astrology/balsamic-moon", "/astrology/neptune", "/astrology/out-of-sign-aspects"]
 faq:
-  - q: "Ma naissance a-t-elle eu lieu près d’une nouvelle lune avec le Soleil en Bélier et la Lune en Poissons ?"
-    a: "Oui, dans les jours qui en précèdent une. La Lune avait 1° à 59° de retard sur le Soleil, dans les cinq jours environ avant la nouvelle lune suivante, au dernier tronçon du mois lunaire. Sept de ces naissances sur huit sont balsamiques dans le découpage en huit phases ; les plus précoces relèvent du dernier quartier."
+  - q: "Combien de jours avant une nouvelle lune tombe une naissance Soleil en Bélier, Lune en Poissons ?"
+    a: "Cinq au plus. La Lune avait 1° à 59° de retard sur le Soleil, au dernier tronçon du mois lunaire. Sept de ces naissances sur huit sont balsamiques dans le découpage en huit phases ; les plus précoces relèvent du dernier quartier."
   - q: "Un Soleil en Bélier avec une Lune en Poissons est-il sensible ?"
     a: "Souvent plus qu’on ne le croit. Le Soleil en Bélier a l’air audacieux et direct, tandis que la Lune en Poissons capte les humeurs alentour et y répond avec compassion et imagination. Bien des personnes avec ce duo ont besoin de moments réguliers à l’écart pour laisser retomber ce qu’elles ont absorbé avant d’agir sur leurs propres émotions."
-  - q: "Quel rôle joue Neptune avec un Soleil en Bélier et une Lune en Poissons ?"
+  - q: "Que dit Neptune d’un Soleil en Bélier avec une Lune en Poissons ?"
     a: "Neptune est le maître moderne des Poissons, Jupiter le maître traditionnel, et je lis les deux. Neptune montre où votre Lune est la plus ouverte aux autres et à l’imagination, Jupiter où ces émotions trouvent un sens plus large. Mars, maître du Bélier, dit où le Soleil dépense son élan."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le premier et le dernier signe, et leurs maîtres, Mars et Jupiter" }

@@ -17,11 +17,11 @@ facts:
   - { k: "How common", v: "About 1 person in 146 born 1930–2009" }
 related: ["/astrology/sun-in-aries", "/astrology/moon-in-pisces", "/astrology/balsamic-moon", "/astrology/neptune", "/astrology/out-of-sign-aspects"]
 faq:
-  - q: "Was I born near a new moon with Sun in Aries and Moon in Pisces?"
-    a: "Yes, in the days just before one. The Moon was 1° to 59° behind the Sun, within about five days of the next new moon, in the closing stretch of the lunar month. Seven of these births in eight are balsamic births in the eight-phase count; the earliest are last quarter births."
+  - q: "How many days before a new moon is a Sun in Aries, Moon in Pisces birth?"
+    a: "Five at most. The Moon was 1° to 59° behind the Sun, in the closing stretch of the lunar month. Seven of these births in eight are balsamic births in the eight-phase count; the earliest are last quarter births."
   - q: "Is an Aries Sun with a Pisces Moon sensitive?"
     a: "Often more than people expect. The Aries Sun looks bold and direct, while the Pisces Moon picks up the moods around it and answers with compassion and imagination. Plenty of people with the pair need regular time alone to let what they have absorbed settle before they act on their own feelings."
-  - q: "Why is Neptune important with an Aries Sun and a Pisces Moon?"
+  - q: "What does Neptune say about an Aries Sun with a Pisces Moon?"
     a: "Neptune is the modern ruler of Pisces and Jupiter the traditional one, and I read both. Neptune shows where your Moon is most open to other people and to imagination, Jupiter where those feelings find a wider meaning. Mars, the ruler of Aries, says where the Sun spends its drive."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the first and last signs and their rulers, Mars and Jupiter" }

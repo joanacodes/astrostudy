@@ -18,12 +18,12 @@ facts:
   - { k: "Fréquence", v: "Environ 1 personne sur 147 née entre 1930 et 2009" }
 related: ["/astrology/sun-in-aries", "/astrology/moon-in-scorpio", "/astrology/mars", "/astrology/full-moon", "/astrology/fall"]
 faq:
-  - q: "Quel est le rôle de Mars avec le Soleil en Bélier et la Lune en Scorpion ?"
-    a: "Parce que, dans le système traditionnel, Mars gouverne les deux signes : une seule planète porte l’élan de votre Soleil et le besoin de votre Lune de protéger ce qui compte. Les modernes donnent le Scorpion à Pluton, et je lis les deux : Mars pour là où vous agissez et défendez, Pluton pour là où vous allez le plus loin."
+  - q: "Est-ce Mars qui gouverne les deux signes avec le Soleil en Bélier et la Lune en Scorpion ?"
+    a: "Dans le système traditionnel, oui. Mars gouverne les deux signes, et une seule planète porte l’élan de votre Soleil et le besoin de votre Lune de protéger ce qui compte. Les modernes donnent le Scorpion à Pluton, et je lis les deux : Mars pour là où vous agissez et défendez, Pluton pour là où vous allez le plus loin."
   - q: "La Lune est-elle faible en Scorpion avec un Soleil en Bélier ?"
     a: "Le Scorpion est la chute traditionnelle de la Lune ; avec le Soleil exalté en Bélier, les luminaires sont aux deux bouts de l’échelle. J’y lis un apaisement plus long à trouver, pas une émotion plus faible. Une Lune en Scorpion ressent fort et en secret ; un Soleil en Bélier apprend à le respecter."
-  - q: "Ma naissance a-t-elle eu lieu après une pleine lune avec le Soleil en Bélier et la Lune en Scorpion ?"
-    a: "Oui, à quelques jours près. À votre naissance, la Lune venait de dépasser l’opposition, 181° à 239° plus loin que le Soleil, et sa lumière commençait à décroître, quinze jours à dix-neuf jours et demi après le début du mois. La plupart de ces naissances comptent comme des naissances de pleine lune parmi les huit phases, quelques-unes comme disséminantes."
+  - q: "Le Soleil en Bélier avec la Lune en Scorpion, est-ce une Lune décroissante ?"
+    a: "Oui, une Lune tout juste au-delà du plein. À votre naissance, la Lune venait de dépasser l’opposition, 181° à 239° plus loin que le Soleil, et sa lumière commençait à décroître, quinze jours à dix-neuf jours et demi après le début du mois. La plupart de ces naissances comptent comme des naissances de pleine lune parmi les huit phases, quelques-unes comme disséminantes."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "la maîtrise de Mars sur le Bélier et le Scorpion, l’exaltation du Soleil et la chute de la Lune" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et l’avance de la Lune au-delà de la pleine lune" }

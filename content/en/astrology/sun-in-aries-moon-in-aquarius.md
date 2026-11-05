@@ -21,8 +21,8 @@ faq:
     a: "Usually, in two different ways. The Aries Sun wants freedom to act on its own initiative; the Aquarius Moon needs some distance to understand what it feels, and gives its loyalty on its own terms. People with this pair are often warm in action and cool in expression, and close friends get to see the warmth."
   - q: "Which rulers matter for Sun in Aries, Moon in Aquarius?"
     a: "Three planets: Mars for Aries, and for Aquarius both Uranus, its modern ruler, and Saturn, its traditional one. I read both. Saturn has its fall in Aries, the sign of your Sun, which is one reason patience is something this pair learns along the way rather than starts out with."
-  - q: "Was I born at a last quarter moon with Sun in Aries and Moon in Aquarius?"
-    a: "Most likely in the days just after one. A birth with this pair comes twenty-two to twenty-seven days into the lunar month, the Moon trailing the Sun by 31° to 89°, a crescent in the dawn sky. The eight-phase count puts seven in eight in its last quarter phase, the rest in the balsamic."
+  - q: "Which part of the lunar month is Sun in Aries, Moon in Aquarius?"
+    a: "The last week, just after the last quarter. A birth with this pair comes twenty-two to twenty-seven days into the lunar month, the Moon trailing the Sun by 31° to 89°, a crescent in the dawn sky. The eight-phase count puts seven in eight in its last quarter phase, the rest in the balsamic."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Mars’s rule of Aries, Saturn’s of Aquarius and Saturn’s fall in Aries" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s distance behind the Sun" }
