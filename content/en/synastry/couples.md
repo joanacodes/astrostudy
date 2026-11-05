@@ -13,7 +13,7 @@ h1: "How you love, <em>side by side.</em>"
 lede: "For partners at any stage — the first months, the long middle, the hard patch. We look at what draws you together, what makes each of you feel safe, how you fight, and how you find your way back."
 facts:
   - { k: "For", v: "Two adults, 18+" }
-  - { k: "I need", v: "Both birth dates and places — times if you know them" }
+  - { k: "I need", v: "Both birth dates, times and places" }
   - { k: "You receive", v: "A private online reading about the two of you, within a week, by email and as a PDF", param: "format" }
   - { k: "Options", v: "Full reading, or full reading + consulting" }
   - { k: "Price", v: "", param: "priceSynastry" }
@@ -63,7 +63,7 @@ faq:
   - q: "Is it only for romantic couples?"
     a: "This one is. For friends, co-workers or family there’s a reading made for each bond — [friends](/synastry/friends/), [co-workers](/synastry/coworkers/), [family](/synastry/family/) — because the questions are different."
   - q: "Do we both need to know our birth times?"
-    a: "It helps, but no. Without times I leave out the houses and say so. The contacts that matter most between partners still read clearly."
+    a: "Yes. Without both times, the houses stay unknown, and I don’t read a synastry without them. [Here’s where to look for a birth time](/blog/unknown-birth-time/#finding-your-time)."
 
 closing:
   kicker: "For the two of you"

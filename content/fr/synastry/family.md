@@ -14,7 +14,7 @@ h1: "Les schémas <em>dans lesquels on naît.</em>"
 lede: "Pour les liens familiaux entre adultes : un parent et son enfant adulte, une fratrie, une belle-famille, des grands-parents. La lecture regarde la façon dont on a pris soin de vous, ce dont vous avez hérité, et comment vous rejoindre aujourd’hui, d’adulte à adulte."
 facts:
   - { k: "Pour", v: "Deux adultes, 18 ans et plus" }
-  - { k: "Il me faut", v: "Les deux dates et lieux de naissance — et les heures, si vous les connaissez" }
+  - { k: "Il me faut", v: "Les deux dates, heures et lieux de naissance" }
   - { k: "Vous recevez", v: "Une lecture privée, en ligne, sur vous deux, sous une semaine, par e-mail et en PDF", param: "format" }
   - { k: "Formules", v: "Lecture complète, ou lecture complète + consultation" }
   - { k: "Tarif", v: "", param: "priceSynastry" }

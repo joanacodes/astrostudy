@@ -11,7 +11,7 @@ lede: "Un thème natal est une image du ciel à la minute de votre naissance. Lu
 ctaLabel: "Commander cette lecture"
 facts:
   - { k: "Pour", v: "Les adultes, 18 ans et plus" }
-  - { k: "Il me faut", v: "Votre date et votre lieu de naissance — et l’heure, si vous la connaissez" }
+  - { k: "Il me faut", v: "Votre date, votre heure et votre lieu de naissance" }
   - { k: "Vous recevez", v: "Sous une semaine, par e-mail : une lecture privée en ligne (notes, surlignage) et son PDF", param: "format" }
   - { k: "Formules", v: "Lecture complète, ou lecture complète + consultation" }
   - { k: "Tarif", v: "", param: "priceBirthChart" }
@@ -45,7 +45,7 @@ steps:
   title: "Quatre étapes"
   items:
     - title: "Vous entrez vos données de naissance"
-      text: "Date, heure et lieu, dans le formulaire de commande. Si vous ne connaissez pas l’heure, dites-le : on fait avec ce qu’on a, et je vous dis ce que ça change."
+      text: "Date, heure et lieu, dans le formulaire de commande. L’heure est indispensable : sans elle, pas de lecture."
     - title: "Vous payez"
       text: "Pour la lecture complète, ou la lecture complète avec consultation. Vos données de naissance m’arrivent avec votre paiement, pas avant."
     - title: "Votre lecture est préparée"
@@ -68,7 +68,7 @@ care:
 
 faq:
   - q: "Je ne connais pas mon heure de naissance. Puis-je quand même avoir une lecture ?"
-    a: "Oui. Sans l’heure, l’Ascendant et les maisons restent inconnus : je les laisse de côté, et je vous le dis. Tout le reste — les planètes, leurs signes, et la façon dont elles se parlent — se lit toujours bien. Si vous le pouvez, demandez à un parent, ou cherchez dans les vieux papiers de famille. Plus de détails dans [ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)."
+    a: "Non. Sans l’heure, l’Ascendant et les maisons — les domaines de la vie dont parlent vos planètes — restent inconnus, et je ne lis pas un thème sans eux. Votre acte de naissance l’indique peut-être : [voici où chercher](/blog/unknown-birth-time/#retrouver-votre-heure)."
   - q: "Pourquoi seulement pour les adultes ?"
     a: "Parce qu’un thème lu au mauvais âge peut devenir une étiquette à laquelle on finit par ressembler. Je ne lis pas pour les moins de 18 ans, et je ne lis pas à leur sujet non plus."
   - q: "Est-ce que la lecture me dira mon avenir ?"

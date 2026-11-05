@@ -14,7 +14,7 @@ h1: "Mieux travailler ensemble, <em>sans jouer aux devinettes.</em>"
 lede: "Pour des collègues, un duo fondateur, une relation hiérarchique, deux freelances sur un même projet. On regarde comment vous communiquez, décidez, partagez la charge et gérez la pression — pour que le travail devienne plus facile et les frictions moins vives."
 facts:
   - { k: "Pour", v: "Deux adultes qui sont d’accord" }
-  - { k: "Il me faut", v: "Les deux dates et lieux de naissance — et les heures, si vous les connaissez" }
+  - { k: "Il me faut", v: "Les deux dates, heures et lieux de naissance" }
   - { k: "Vous recevez", v: "Une lecture privée, en ligne, sur votre façon de travailler ensemble, sous une semaine, par e-mail et en PDF", param: "format" }
   - { k: "Formules", v: "Lecture complète, ou lecture complète + consultation" }
   - { k: "Tarif", v: "", param: "priceSynastry" }
@@ -65,7 +65,7 @@ faq:
   - q: "Est-ce utile quand on fonde une entreprise à deux ?"
     a: "C’est l’un des meilleurs moments pour regarder. Avant que les décisions difficiles n’arrivent, ça aide de savoir comment chaque personne voudra les prendre."
   - q: "Et si nous ne connaissons pas nos heures de naissance ?"
-    a: "Alors on laisse les maisons de côté, et je vous le dis. Les contacts qui comptent le plus au travail se lisent toujours clairement."
+    a: "Alors il faut d’abord les retrouver : sans les deux heures, pas de lecture. [Voici où chercher](/blog/unknown-birth-time/#retrouver-votre-heure)."
 
 closing:
   kicker: "Pour vous deux"

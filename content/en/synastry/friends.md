@@ -13,7 +13,7 @@ h1: "Why some friends <em>feel like home.</em>"
 lede: "For the friendships that shape you — the one you call first, the one you’ve drifted from, the one that’s complicated. We look at what you give each other, how you talk, and why certain things always rub."
 facts:
   - { k: "For", v: "Two adults, 18+" }
-  - { k: "I need", v: "Both birth dates and places — times if you know them" }
+  - { k: "I need", v: "Both birth dates, times and places" }
   - { k: "You receive", v: "A private online reading about your friendship, within a week, by email and as a PDF", param: "format" }
   - { k: "Options", v: "Full reading, or full reading + consulting" }
   - { k: "Price", v: "", param: "priceSynastry" }
@@ -59,7 +59,7 @@ faq:
   - q: "Is this the same as a couple reading?"
     a: "The method is the same as the [couple reading](/synastry/couples/); the questions aren’t. In a friendship I look first at conversation, comfort and growth, rather than desire and commitment."
   - q: "My friend doesn’t know their birth time."
-    a: "That’s fine. Without times I leave out the houses and say so; the contacts between your planets still read clearly."
+    a: "Then it has to be found first: without both times, there is no reading. [Here’s where to look](/blog/unknown-birth-time/#finding-your-time)."
   - q: "Can we read a friendship that ended badly?"
     a: "Yes. Understanding what happened between your charts can help you let it rest — without needing anyone to be the villain."
 

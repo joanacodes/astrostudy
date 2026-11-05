@@ -14,7 +14,7 @@ h1: "Pourquoi, avec certains amis, <em>on se sent chez soi.</em>"
 lede: "Pour les amitiés qui vous façonnent — la personne que vous appelez en premier, celle avec qui la distance s’est installée, celle avec qui c’est compliqué. On regarde ce que vous vous apportez, comment vous vous parlez, et pourquoi certaines choses accrochent toujours."
 facts:
   - { k: "Pour", v: "Deux adultes, 18 ans et plus" }
-  - { k: "Il me faut", v: "Les deux dates et lieux de naissance — et les heures, si vous les connaissez" }
+  - { k: "Il me faut", v: "Les deux dates, heures et lieux de naissance" }
   - { k: "Vous recevez", v: "Une lecture privée, en ligne, sur votre amitié, sous une semaine, par e-mail et en PDF", param: "format" }
   - { k: "Formules", v: "Lecture complète, ou lecture complète + consultation" }
   - { k: "Tarif", v: "", param: "priceSynastry" }
@@ -60,7 +60,7 @@ faq:
   - q: "Est-ce la même chose qu’une lecture de couple ?"
     a: "La méthode est la même que pour la [lecture de couple](/synastry/couples/) ; les questions, non. Dans une amitié, je regarde d’abord la conversation, le réconfort et ce qui vous fait grandir, plutôt que le désir et l’engagement."
   - q: "Et si l’autre ne connaît pas son heure de naissance ?"
-    a: "Ce n’est pas grave. Sans les heures, je laisse les maisons de côté, et je vous le dis ; les contacts entre vos planètes se lisent toujours clairement."
+    a: "Alors il faut d’abord la retrouver : sans les deux heures, pas de lecture. [Voici où chercher](/blog/unknown-birth-time/#retrouver-votre-heure)."
   - q: "Peut-on lire une amitié qui s’est mal terminée ?"
     a: "Oui. Comprendre ce qui s’est passé entre vos thèmes peut vous aider à la laisser en paix — sans que personne doive tenir le mauvais rôle."
 

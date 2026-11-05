@@ -1,3 +1,18 @@
 {{- $external := hasPrefix .Destination "http" -}}
+{{- $dest := .Destination -}}
+{{- $planned := "" -}}
+{{- /* A page of the plan that isn't built yet: its name stays as text, and turns into a link the day the
+       page is published (planned.html). */ -}}
+{{- if not (or $external (hasPrefix $dest "#") (hasPrefix $dest "mailto:") (hasPrefix $dest "tel:")) -}}
+  {{- $path := index (split (index (split $dest "#") 0) "?") 0 -}}
+  {{- $key := strings.TrimSuffix "/" (printf "/%s" (strings.TrimPrefix "/" $path)) | default "/" -}}
+  {{- if and (not (site.GetPage $key)) (index (partialCached "planned.html" "plan") $key) -}}
+    {{- $planned = $key -}}
+  {{- end -}}
+{{- end -}}
+{{- if $planned -}}
+<span data-planned="{{ $planned }}">{{ .Text }}</span>
+{{- else -}}
 <a href="{{ partial "url.html" .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if $external }} rel="noopener"{{ end }}>{{ .Text }}</a>
+{{- end -}}
 {{- /* keep the trailing whitespace out */ -}}

@@ -34,4 +34,4 @@ These are the [hardest places](/birth-chart/) in a chart, so they’re where wor
 
 ## Why not the Sun? {#why-not-the-sun}
 
-Your Sun sign still matters, and I read it. But in my tests it held about as often as a flattering horoscope, so it doesn’t get the most time. The placements that earned their place do.
+Your [Sun sign](/astrology/sun/) still matters, and I read it. But in my tests it held about as often as a flattering horoscope, so it doesn’t get the most time. The placements that earned their place do.

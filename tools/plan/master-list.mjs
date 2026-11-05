@@ -492,7 +492,7 @@ export const families = [
     key: 'cycles', en: 'Cycles, returns and life transits', fr: 'Cycles, retours et transits de vie', groups: [
       g('Returns', 'Les retours', 1, 'concept', [
         'Saturn return | Retour de Saturne', 'Chiron return | Retour de Chiron', 'Solar return | Révolution solaire',
-        'Jupiter return | Retour de Jupiter | 2', 'Venus star point | Point étoile de Vénus | 3',
+        'Jupiter return | Retour de Jupiter | 2', 'Uranus return | Retour d’Uranus | 3', 'Venus star point | Point étoile de Vénus | 3',
       ]),
       g('Life transits', 'Les transits de vie', 2, 'concept', [
         'Saturn squares and opposition | Carrés et opposition de Saturne', 'Uranus opposition | Opposition d’Uranus',
@@ -605,7 +605,7 @@ export const families = [
       g('Questions people search', 'Les questions qu’on se pose', 1, 'tested', [
         'Is astrology real? | L’astrologie, c’est vrai ?', 'Does astrology work? | L’astrologie, ça marche ?',
         'Is astrology a science? | L’astrologie est-elle une science ?', 'Did my sign change? | Mon signe a-t-il changé ?',
-        'Does Mercury retrograde break things? | Mercure rétrograde casse-t-il tout ?', 'Are some signs toxic? | Y a-t-il des signes toxiques ?',
+        { en: 'Does Mercury retrograde break things?', fr: 'Mercure rétrograde : est-ce que tout casse ?', slugFr: 'mercure-retrograde-tout-casse' }, 'Are some signs toxic? | Y a-t-il des signes toxiques ?',
         'Astrology versus personality tests | Astrologie et tests de personnalité', 'Are horoscopes written by AI? | Les horoscopes sont-ils écrits par l’IA ?',
       ]),
     ],

@@ -1,0 +1,96 @@
+{
+ "about": "How many people born 1930–2009 (one chart a day at 12:00 UT) have each aspect pattern or chart shape among the ten planets, Sun to Pluto (no angles, no Chiron, Lilith or nodes). Orbs: the five major aspects within 8° when the Sun or Moon is in the pair, 6° otherwise; the quincunx and the sesquiquadrate within 3°. grandTrine: three planets each trine the other two. tSquare: two in opposition, both square a third. grandCross: four planets in two oppositions, each square its neighbours. yod: two in sextile, both quincunx a third; boomerangYod: a yod with a fourth planet opposite its apex. kite: a grand trine with a fourth planet opposite one corner and sextile the other two. mysticRectangle: two oppositions joined by two sextiles and two trines. grandSextile: six planets, each sextile two and opposite one. minorGrandTrine: two in trine, both sextile a third. thorsHammer: two in square, both sesquiquadrate a third. cradle: two planets in opposition with two more between them on one side, in three sextiles. stellium3/4/5: at least 3, 4 or 5 of the ten in one sign. Chart shapes, from the smallest arc holding all ten: bundle (within 120°), bowl (within 180°, more than 120°), locomotive (within 240°, more than 180°); bucket: nine within 180° and the tenth outside. oneIn: about 1 person in N; inWords: the same said without a percentage (the nearest small fraction for the common ones).",
+ "generated": "2026-11-04",
+ "patterns": {
+  "grandTrine": {
+   "share": 0.1016,
+   "oneIn": 10,
+   "inWords": "about 1 in 10"
+  },
+  "tSquare": {
+   "share": 0.2977,
+   "oneIn": 3,
+   "inWords": "about 3 in 10"
+  },
+  "grandCross": {
+   "share": 0.0125,
+   "oneIn": 80,
+   "inWords": "about 1 in 80"
+  },
+  "yod": {
+   "share": 0.1221,
+   "oneIn": 8,
+   "inWords": "about 1 in 8"
+  },
+  "boomerangYod": {
+   "share": 0.0364,
+   "oneIn": 27,
+   "inWords": "about 1 in 27"
+  },
+  "kite": {
+   "share": 0.0526,
+   "oneIn": 19,
+   "inWords": "about 1 in 19"
+  },
+  "mysticRectangle": {
+   "share": 0.0355,
+   "oneIn": 28,
+   "inWords": "about 1 in 28"
+  },
+  "grandSextile": {
+   "share": 0.0001,
+   "oneIn": 7305,
+   "inWords": "about 1 in 7305"
+  },
+  "minorGrandTrine": {
+   "share": 0.4568,
+   "oneIn": 2,
+   "inWords": "about 4 in 9"
+  },
+  "thorsHammer": {
+   "share": 0.0908,
+   "oneIn": 11,
+   "inWords": "about 1 in 11"
+  },
+  "cradle": {
+   "share": 0.1009,
+   "oneIn": 10,
+   "inWords": "about 1 in 10"
+  },
+  "stellium3": {
+   "share": 0.6891,
+   "oneIn": 1,
+   "inWords": "about 7 in 10"
+  },
+  "stellium4": {
+   "share": 0.2015,
+   "oneIn": 5,
+   "inWords": "about 1 in 5"
+  },
+  "stellium5": {
+   "share": 0.037,
+   "oneIn": 27,
+   "inWords": "about 1 in 27"
+  },
+  "bundle": {
+   "share": 0.0179,
+   "oneIn": 56,
+   "inWords": "about 1 in 56"
+  },
+  "bowl": {
+   "share": 0.1171,
+   "oneIn": 9,
+   "inWords": "about 1 in 9"
+  },
+  "bucket": {
+   "share": 0.3236,
+   "oneIn": 3,
+   "inWords": "about 1 in 3"
+  },
+  "locomotive": {
+   "share": 0.3924,
+   "oneIn": 3,
+   "inWords": "about 2 in 5"
+  }
+ }
+}

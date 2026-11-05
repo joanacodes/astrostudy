@@ -36,7 +36,10 @@ jobs:
       HUGO_VERSION: 0.165.0
       WRANGLER_VERSION: 4.151.0
     steps:
+      # the whole history: each article's "Updated" date is its last commit (hugo.toml, enableGitInfo)
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Choose where this build goes
         id: target
@@ -127,6 +130,11 @@ jobs:
       # its own text, stops the deploy here, before anything is published; thinner spots show as warnings.
       - name: Check the links
         run: node tools/check-links.mjs public
+
+      # Every published encyclopaedia entry against the page plan and the rules of its kind (its address,
+      # its sections, the pages it must link to, French typography); drafts are checked as they're written.
+      - name: Check the encyclopaedia entries
+        run: node tools/plan/check-entries.mjs --published
 
       - name: Check the Worker (not deployed from this branch)
         if: steps.target.outputs.target == 'check'

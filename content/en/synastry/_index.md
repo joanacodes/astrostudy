@@ -34,7 +34,7 @@ steps:
     - title: "You choose the bond"
       text: "Couple, friends, co-workers or family — each has its own reading, and its own questions."
     - title: "You enter both sets of birth details, and pay"
-      text: "Date, time and place for each of you, in the order form. Times help but aren’t required — I’ll tell you what we gain and what we lose without them."
+      text: "Date, time and place for each of you, in the order form. Both times are needed: without them, there is no reading."
     - title: "Both charts, then the space between them"
       text: "Each chart on its own first, then how they meet — prepared with a system I built myself, and read by me before it’s sent."
     - title: "You receive it within a week"
@@ -55,7 +55,7 @@ care:
 
 faq:
   - q: "Do we both need to know our birth times?"
-    a: "It helps, but no. Without times I leave out the houses and say so. The contacts between your planets still read clearly. More in [what changes without a birth time](/blog/unknown-birth-time/)."
+    a: "Yes. Without both times, the houses stay unknown — in each chart, and where each of you falls in the other’s — and I don’t read a synastry without them. [Here’s where to look for a birth time](/blog/unknown-birth-time/#finding-your-time)."
   - q: "Will you tell us whether we’re compatible?"
     a: "Not as a verdict. Every pair has easy contacts and hard ones; what matters is how you meet them. You’ll know where you flow and where to be careful — which is far more useful than a percentage."
   - q: "Can I get a reading without the other person knowing?"

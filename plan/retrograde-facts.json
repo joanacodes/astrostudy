@@ -1,0 +1,1860 @@
+{
+ "about": "Every retrograde of Mercury, Venus and Mars from 1 January 2000 to 31 December 2040, from the station retrograde to the station direct (UT), with the degree and sign of each station; listed under every sign the retrograde covers. wholly: the retrograde stays in that one sign from station to station.",
+ "generated": "2026-11-04",
+ "pages": {
+  "mercury-retrograde-in-aries": [
+   {
+    "from": "2004-04-06 20:26 UT",
+    "to": "2004-04-30 13:07 UT",
+    "stationRetrograde": "1°55′ taurus",
+    "stationDirect": "21°06′ aries",
+    "wholly": false
+   },
+   {
+    "from": "2005-03-20 00:19 UT",
+    "to": "2005-04-12 07:44 UT",
+    "stationRetrograde": "14°06′ aries",
+    "stationDirect": "1°44′ aries",
+    "wholly": true
+   },
+   {
+    "from": "2011-03-30 20:50 UT",
+    "to": "2011-04-23 10:03 UT",
+    "stationRetrograde": "24°21′ aries",
+    "stationDirect": "12°53′ aries",
+    "wholly": true
+   },
+   {
+    "from": "2012-03-12 07:51 UT",
+    "to": "2012-04-04 10:10 UT",
+    "stationRetrograde": "6°49′ aries",
+    "stationDirect": "23°50′ pisces",
+    "wholly": false
+   },
+   {
+    "from": "2017-04-09 23:11 UT",
+    "to": "2017-05-03 16:33 UT",
+    "stationRetrograde": "4°50′ taurus",
+    "stationDirect": "24°15′ aries",
+    "wholly": false
+   },
+   {
+    "from": "2018-03-23 00:22 UT",
+    "to": "2018-04-15 09:19 UT",
+    "stationRetrograde": "16°54′ aries",
+    "stationDirect": "4°46′ aries",
+    "wholly": true
+   },
+   {
+    "from": "2024-04-01 22:15 UT",
+    "to": "2024-04-25 12:52 UT",
+    "stationRetrograde": "27°13′ aries",
+    "stationDirect": "15°58′ aries",
+    "wholly": true
+   },
+   {
+    "from": "2025-03-15 06:49 UT",
+    "to": "2025-04-07 11:06 UT",
+    "stationRetrograde": "9°35′ aries",
+    "stationDirect": "26°49′ pisces",
+    "wholly": false
+   },
+   {
+    "from": "2030-04-13 02:29 UT",
+    "to": "2030-05-06 20:18 UT",
+    "stationRetrograde": "7°47′ taurus",
+    "stationDirect": "27°26′ aries",
+    "wholly": false
+   },
+   {
+    "from": "2031-03-26 00:48 UT",
+    "to": "2031-04-18 11:15 UT",
+    "stationRetrograde": "19°44′ aries",
+    "stationDirect": "7°50′ aries",
+    "wholly": true
+   },
+   {
+    "from": "2032-03-07 16:24 UT",
+    "to": "2032-03-30 14:30 UT",
+    "stationRetrograde": "2°23′ aries",
+    "stationDirect": "19°02′ pisces",
+    "wholly": false
+   },
+   {
+    "from": "2037-04-05 00:05 UT",
+    "to": "2037-04-28 15:55 UT",
+    "stationRetrograde": "0°06′ taurus",
+    "stationDirect": "19°05′ aries",
+    "wholly": false
+   },
+   {
+    "from": "2038-03-18 06:12 UT",
+    "to": "2038-04-10 12:13 UT",
+    "stationRetrograde": "12°22′ aries",
+    "stationDirect": "29°49′ pisces",
+    "wholly": false
+   }
+  ],
+  "mercury-retrograde-in-taurus": [
+   {
+    "from": "2003-04-26 12:01 UT",
+    "to": "2003-05-20 07:34 UT",
+    "stationRetrograde": "20°33′ taurus",
+    "stationDirect": "11°07′ taurus",
+    "wholly": true
+   },
+   {
+    "from": "2004-04-06 20:26 UT",
+    "to": "2004-04-30 13:07 UT",
+    "stationRetrograde": "1°55′ taurus",
+    "stationDirect": "21°06′ aries",
+    "wholly": false
+   },
+   {
+    "from": "2009-05-07 05:10 UT",
+    "to": "2009-05-31 01:15 UT",
+    "stationRetrograde": "1°44′ gemini",
+    "stationDirect": "22°52′ taurus",
+    "wholly": false
+   },
+   {
+    "from": "2010-04-18 04:03 UT",
+    "to": "2010-05-11 22:30 UT",
+    "stationRetrograde": "12°37′ taurus",
+    "stationDirect": "2°39′ taurus",
+    "wholly": true
+   },
+   {
+    "from": "2016-04-28 17:25 UT",
+    "to": "2016-05-22 13:18 UT",
+    "stationRetrograde": "23°36′ taurus",
+    "stationDirect": "14°20′ taurus",
+    "wholly": true
+   },
+   {
+    "from": "2017-04-09 23:11 UT",
+    "to": "2017-05-03 16:33 UT",
+    "stationRetrograde": "4°50′ taurus",
+    "stationDirect": "24°15′ aries",
+    "wholly": false
+   },
+   {
+    "from": "2022-05-10 11:55 UT",
+    "to": "2022-06-03 07:52 UT",
+    "stationRetrograde": "4°51′ gemini",
+    "stationDirect": "26°05′ taurus",
+    "wholly": false
+   },
+   {
+    "from": "2023-04-21 08:32 UT",
+    "to": "2023-05-15 03:19 UT",
+    "stationRetrograde": "15°37′ taurus",
+    "stationDirect": "5°50′ taurus",
+    "wholly": true
+   },
+   {
+    "from": "2029-05-01 23:11 UT",
+    "to": "2029-05-25 19:15 UT",
+    "stationRetrograde": "26°40′ taurus",
+    "stationDirect": "17°33′ taurus",
+    "wholly": true
+   },
+   {
+    "from": "2030-04-13 02:29 UT",
+    "to": "2030-05-06 20:18 UT",
+    "stationRetrograde": "7°47′ taurus",
+    "stationDirect": "27°26′ aries",
+    "wholly": false
+   },
+   {
+    "from": "2035-05-13 18:46 UT",
+    "to": "2035-06-06 14:45 UT",
+    "stationRetrograde": "7°59′ gemini",
+    "stationDirect": "29°18′ taurus",
+    "wholly": false
+   },
+   {
+    "from": "2036-04-23 13:17 UT",
+    "to": "2036-05-17 08:29 UT",
+    "stationRetrograde": "18°37′ taurus",
+    "stationDirect": "9°02′ taurus",
+    "wholly": true
+   },
+   {
+    "from": "2037-04-05 00:05 UT",
+    "to": "2037-04-28 15:55 UT",
+    "stationRetrograde": "0°06′ taurus",
+    "stationDirect": "19°05′ aries",
+    "wholly": false
+   }
+  ],
+  "mercury-retrograde-in-gemini": [
+   {
+    "from": "2001-06-04 05:18 UT",
+    "to": "2001-06-28 05:51 UT",
+    "stationRetrograde": "29°57′ gemini",
+    "stationDirect": "21°15′ gemini",
+    "wholly": true
+   },
+   {
+    "from": "2002-05-15 18:53 UT",
+    "to": "2002-06-08 15:05 UT",
+    "stationRetrograde": "9°59′ gemini",
+    "stationDirect": "1°21′ gemini",
+    "wholly": true
+   },
+   {
+    "from": "2008-05-26 15:42 UT",
+    "to": "2008-06-19 14:37 UT",
+    "stationRetrograde": "21°32′ gemini",
+    "stationDirect": "12°58′ gemini",
+    "wholly": true
+   },
+   {
+    "from": "2009-05-07 05:10 UT",
+    "to": "2009-05-31 01:15 UT",
+    "stationRetrograde": "1°44′ gemini",
+    "stationDirect": "22°52′ taurus",
+    "wholly": false
+   },
+   {
+    "from": "2014-06-07 11:55 UT",
+    "to": "2014-07-01 12:50 UT",
+    "stationRetrograde": "3°10′ cancer",
+    "stationDirect": "24°22′ gemini",
+    "wholly": false
+   },
+   {
+    "from": "2015-05-19 01:50 UT",
+    "to": "2015-06-11 22:31 UT",
+    "stationRetrograde": "13°08′ gemini",
+    "stationDirect": "4°33′ gemini",
+    "wholly": true
+   },
+   {
+    "from": "2021-05-29 22:28 UT",
+    "to": "2021-06-22 22:07 UT",
+    "stationRetrograde": "24°43′ gemini",
+    "stationDirect": "16°07′ gemini",
+    "wholly": true
+   },
+   {
+    "from": "2022-05-10 11:55 UT",
+    "to": "2022-06-03 07:52 UT",
+    "stationRetrograde": "4°51′ gemini",
+    "stationDirect": "26°05′ taurus",
+    "wholly": false
+   },
+   {
+    "from": "2027-06-10 18:19 UT",
+    "to": "2027-07-04 19:38 UT",
+    "stationRetrograde": "6°21′ cancer",
+    "stationDirect": "27°28′ gemini",
+    "wholly": false
+   },
+   {
+    "from": "2028-05-21 08:41 UT",
+    "to": "2028-06-14 06:05 UT",
+    "stationRetrograde": "16°18′ gemini",
+    "stationDirect": "7°45′ gemini",
+    "wholly": true
+   },
+   {
+    "from": "2034-06-02 05:17 UT",
+    "to": "2034-06-26 05:28 UT",
+    "stationRetrograde": "27°55′ gemini",
+    "stationDirect": "19°16′ gemini",
+    "wholly": true
+   },
+   {
+    "from": "2035-05-13 18:46 UT",
+    "to": "2035-06-06 14:45 UT",
+    "stationRetrograde": "7°59′ gemini",
+    "stationDirect": "29°18′ taurus",
+    "wholly": false
+   },
+   {
+    "from": "2040-06-13 00:24 UT",
+    "to": "2040-07-07 02:14 UT",
+    "stationRetrograde": "9°32′ cancer",
+    "stationDirect": "0°31′ cancer",
+    "wholly": false
+   }
+  ],
+  "mercury-retrograde-in-cancer": [
+   {
+    "from": "2000-06-23 08:38 UT",
+    "to": "2000-07-17 13:12 UT",
+    "stationRetrograde": "19°57′ cancer",
+    "stationDirect": "10°23′ cancer",
+    "wholly": true
+   },
+   {
+    "from": "2006-07-04 19:29 UT",
+    "to": "2006-07-29 00:38 UT",
+    "stationRetrograde": "1°22′ leo",
+    "stationDirect": "21°03′ cancer",
+    "wholly": false
+   },
+   {
+    "from": "2007-06-15 23:45 UT",
+    "to": "2007-07-10 02:06 UT",
+    "stationRetrograde": "11°35′ cancer",
+    "stationDirect": "2°28′ cancer",
+    "wholly": true
+   },
+   {
+    "from": "2013-06-26 13:11 UT",
+    "to": "2013-07-20 18:15 UT",
+    "stationRetrograde": "23°06′ cancer",
+    "stationDirect": "13°21′ cancer",
+    "wholly": true
+   },
+   {
+    "from": "2014-06-07 11:55 UT",
+    "to": "2014-07-01 12:50 UT",
+    "stationRetrograde": "3°10′ cancer",
+    "stationDirect": "24°22′ gemini",
+    "wholly": false
+   },
+   {
+    "from": "2019-07-07 23:09 UT",
+    "to": "2019-08-01 04:00 UT",
+    "stationRetrograde": "4°27′ leo",
+    "stationDirect": "23°56′ cancer",
+    "wholly": false
+   },
+   {
+    "from": "2020-06-18 05:09 UT",
+    "to": "2020-07-12 08:19 UT",
+    "stationRetrograde": "14°45′ cancer",
+    "stationDirect": "5°29′ cancer",
+    "wholly": true
+   },
+   {
+    "from": "2026-06-29 17:37 UT",
+    "to": "2026-07-23 22:54 UT",
+    "stationRetrograde": "26°15′ cancer",
+    "stationDirect": "16°19′ cancer",
+    "wholly": true
+   },
+   {
+    "from": "2027-06-10 18:19 UT",
+    "to": "2027-07-04 19:38 UT",
+    "stationRetrograde": "6°21′ cancer",
+    "stationDirect": "27°28′ gemini",
+    "wholly": false
+   },
+   {
+    "from": "2032-07-10 02:28 UT",
+    "to": "2032-08-03 06:56 UT",
+    "stationRetrograde": "7°32′ leo",
+    "stationDirect": "26°49′ cancer",
+    "wholly": false
+   },
+   {
+    "from": "2033-06-21 10:13 UT",
+    "to": "2033-07-15 14:12 UT",
+    "stationRetrograde": "17°56′ cancer",
+    "stationDirect": "8°30′ cancer",
+    "wholly": true
+   },
+   {
+    "from": "2039-07-02 21:46 UT",
+    "to": "2039-07-27 03:06 UT",
+    "stationRetrograde": "29°22′ cancer",
+    "stationDirect": "19°14′ cancer",
+    "wholly": true
+   },
+   {
+    "from": "2040-06-13 00:24 UT",
+    "to": "2040-07-07 02:14 UT",
+    "stationRetrograde": "9°32′ cancer",
+    "stationDirect": "0°31′ cancer",
+    "wholly": false
+   }
+  ],
+  "mercury-retrograde-in-leo": [
+   {
+    "from": "2004-08-10 00:36 UT",
+    "to": "2004-09-02 13:04 UT",
+    "stationRetrograde": "8°46′ virgo",
+    "stationDirect": "25°44′ leo",
+    "wholly": false
+   },
+   {
+    "from": "2005-07-23 02:57 UT",
+    "to": "2005-08-16 03:50 UT",
+    "stationRetrograde": "20°28′ leo",
+    "stationDirect": "8°45′ leo",
+    "wholly": true
+   },
+   {
+    "from": "2006-07-04 19:29 UT",
+    "to": "2006-07-29 00:38 UT",
+    "stationRetrograde": "1°22′ leo",
+    "stationDirect": "21°03′ cancer",
+    "wholly": false
+   },
+   {
+    "from": "2011-08-03 03:51 UT",
+    "to": "2011-08-26 21:57 UT",
+    "stationRetrograde": "1°12′ virgo",
+    "stationDirect": "18°41′ leo",
+    "wholly": false
+   },
+   {
+    "from": "2012-07-15 02:09 UT",
+    "to": "2012-08-08 05:43 UT",
+    "stationRetrograde": "12°32′ leo",
+    "stationDirect": "1°25′ leo",
+    "wholly": true
+   },
+   {
+    "from": "2017-08-13 01:03 UT",
+    "to": "2017-09-05 11:23 UT",
+    "stationRetrograde": "11°38′ virgo",
+    "stationDirect": "28°25′ leo",
+    "wholly": false
+   },
+   {
+    "from": "2018-07-26 04:58 UT",
+    "to": "2018-08-19 04:20 UT",
+    "stationRetrograde": "23°27′ leo",
+    "stationDirect": "11°31′ leo",
+    "wholly": true
+   },
+   {
+    "from": "2019-07-07 23:09 UT",
+    "to": "2019-08-01 04:00 UT",
+    "stationRetrograde": "4°27′ leo",
+    "stationDirect": "23°56′ cancer",
+    "wholly": false
+   },
+   {
+    "from": "2024-08-05 04:58 UT",
+    "to": "2024-08-28 21:06 UT",
+    "stationRetrograde": "4°06′ virgo",
+    "stationDirect": "21°24′ leo",
+    "wholly": false
+   },
+   {
+    "from": "2025-07-18 04:38 UT",
+    "to": "2025-08-11 07:31 UT",
+    "stationRetrograde": "15°34′ leo",
+    "stationDirect": "4°14′ leo",
+    "wholly": true
+   },
+   {
+    "from": "2031-07-29 06:47 UT",
+    "to": "2031-08-22 04:24 UT",
+    "stationRetrograde": "26°25′ leo",
+    "stationDirect": "14°17′ leo",
+    "wholly": true
+   },
+   {
+    "from": "2032-07-10 02:28 UT",
+    "to": "2032-08-03 06:56 UT",
+    "stationRetrograde": "7°32′ leo",
+    "stationDirect": "26°49′ cancer",
+    "wholly": false
+   },
+   {
+    "from": "2037-08-08 05:49 UT",
+    "to": "2037-08-31 19:59 UT",
+    "stationRetrograde": "6°59′ virgo",
+    "stationDirect": "24°06′ leo",
+    "wholly": false
+   },
+   {
+    "from": "2038-07-21 06:53 UT",
+    "to": "2038-08-14 08:50 UT",
+    "stationRetrograde": "18°35′ leo",
+    "stationDirect": "7°02′ leo",
+    "wholly": true
+   }
+  ],
+  "mercury-retrograde-in-virgo": [
+   {
+    "from": "2002-09-14 19:33 UT",
+    "to": "2002-10-06 19:29 UT",
+    "stationRetrograde": "13°14′ libra",
+    "stationDirect": "28°19′ virgo",
+    "wholly": false
+   },
+   {
+    "from": "2003-08-28 13:39 UT",
+    "to": "2003-09-20 08:53 UT",
+    "stationRetrograde": "26°19′ virgo",
+    "stationDirect": "12°12′ virgo",
+    "wholly": true
+   },
+   {
+    "from": "2004-08-10 00:36 UT",
+    "to": "2004-09-02 13:04 UT",
+    "stationRetrograde": "8°46′ virgo",
+    "stationDirect": "25°44′ leo",
+    "wholly": false
+   },
+   {
+    "from": "2009-09-07 04:40 UT",
+    "to": "2009-09-29 13:16 UT",
+    "stationRetrograde": "6°13′ libra",
+    "stationDirect": "21°36′ virgo",
+    "wholly": false
+   },
+   {
+    "from": "2010-08-20 20:00 UT",
+    "to": "2010-09-12 23:06 UT",
+    "stationRetrograde": "19°03′ virgo",
+    "stationDirect": "5°22′ virgo",
+    "wholly": true
+   },
+   {
+    "from": "2011-08-03 03:51 UT",
+    "to": "2011-08-26 21:57 UT",
+    "stationRetrograde": "1°12′ virgo",
+    "stationDirect": "18°41′ leo",
+    "wholly": false
+   },
+   {
+    "from": "2015-09-17 18:05 UT",
+    "to": "2015-10-09 15:02 UT",
+    "stationRetrograde": "15°55′ libra",
+    "stationDirect": "0°53′ libra",
+    "wholly": false
+   },
+   {
+    "from": "2016-08-30 13:00 UT",
+    "to": "2016-09-22 05:32 UT",
+    "stationRetrograde": "29°04′ virgo",
+    "stationDirect": "14°49′ virgo",
+    "wholly": true
+   },
+   {
+    "from": "2017-08-13 01:03 UT",
+    "to": "2017-09-05 11:23 UT",
+    "stationRetrograde": "11°38′ virgo",
+    "stationDirect": "28°25′ leo",
+    "wholly": false
+   },
+   {
+    "from": "2022-09-10 03:33 UT",
+    "to": "2022-10-02 09:11 UT",
+    "stationRetrograde": "8°55′ libra",
+    "stationDirect": "24°12′ virgo",
+    "wholly": false
+   },
+   {
+    "from": "2023-08-23 19:58 UT",
+    "to": "2023-09-15 20:18 UT",
+    "stationRetrograde": "21°51′ virgo",
+    "stationDirect": "8°00′ virgo",
+    "wholly": true
+   },
+   {
+    "from": "2024-08-05 04:58 UT",
+    "to": "2024-08-28 21:06 UT",
+    "stationRetrograde": "4°06′ virgo",
+    "stationDirect": "21°24′ leo",
+    "wholly": false
+   },
+   {
+    "from": "2029-09-02 12:12 UT",
+    "to": "2029-09-25 02:02 UT",
+    "stationRetrograde": "1°49′ libra",
+    "stationDirect": "17°26′ virgo",
+    "wholly": false
+   },
+   {
+    "from": "2030-08-16 01:21 UT",
+    "to": "2030-09-08 09:21 UT",
+    "stationRetrograde": "14°29′ virgo",
+    "stationDirect": "1°06′ virgo",
+    "wholly": true
+   },
+   {
+    "from": "2035-09-13 02:21 UT",
+    "to": "2035-10-05 04:55 UT",
+    "stationRetrograde": "11°37′ libra",
+    "stationDirect": "26°47′ virgo",
+    "wholly": false
+   },
+   {
+    "from": "2036-08-25 19:45 UT",
+    "to": "2036-09-17 17:18 UT",
+    "stationRetrograde": "24°38′ virgo",
+    "stationDirect": "10°38′ virgo",
+    "wholly": true
+   },
+   {
+    "from": "2037-08-08 05:49 UT",
+    "to": "2037-08-31 19:59 UT",
+    "stationRetrograde": "6°59′ virgo",
+    "stationDirect": "24°06′ leo",
+    "wholly": false
+   }
+  ],
+  "mercury-retrograde-in-libra": [
+   {
+    "from": "2000-10-18 13:38 UT",
+    "to": "2000-11-08 02:26 UT",
+    "stationRetrograde": "15°47′ scorpio",
+    "stationDirect": "29°56′ libra",
+    "wholly": false
+   },
+   {
+    "from": "2001-10-01 19:19 UT",
+    "to": "2001-10-23 00:22 UT",
+    "stationRetrograde": "29°41′ libra",
+    "stationDirect": "14°12′ libra",
+    "wholly": true
+   },
+   {
+    "from": "2002-09-14 19:33 UT",
+    "to": "2002-10-06 19:29 UT",
+    "stationRetrograde": "13°14′ libra",
+    "stationDirect": "28°19′ virgo",
+    "wholly": false
+   },
+   {
+    "from": "2007-10-12 03:57 UT",
+    "to": "2007-11-01 22:58 UT",
+    "stationRetrograde": "9°04′ scorpio",
+    "stationDirect": "23°21′ libra",
+    "wholly": false
+   },
+   {
+    "from": "2008-09-24 07:11 UT",
+    "to": "2008-10-15 20:07 UT",
+    "stationRetrograde": "22°50′ libra",
+    "stationDirect": "7°33′ libra",
+    "wholly": true
+   },
+   {
+    "from": "2009-09-07 04:40 UT",
+    "to": "2009-09-29 13:16 UT",
+    "stationRetrograde": "6°13′ libra",
+    "stationDirect": "21°36′ virgo",
+    "wholly": false
+   },
+   {
+    "from": "2014-10-04 17:00 UT",
+    "to": "2014-10-25 19:18 UT",
+    "stationRetrograde": "2°18′ scorpio",
+    "stationDirect": "16°45′ libra",
+    "wholly": false
+   },
+   {
+    "from": "2015-09-17 18:05 UT",
+    "to": "2015-10-09 15:02 UT",
+    "stationRetrograde": "15°55′ libra",
+    "stationDirect": "0°53′ libra",
+    "wholly": false
+   },
+   {
+    "from": "2020-10-14 01:03 UT",
+    "to": "2020-11-03 17:50 UT",
+    "stationRetrograde": "11°40′ scorpio",
+    "stationDirect": "25°53′ libra",
+    "wholly": false
+   },
+   {
+    "from": "2021-09-27 05:07 UT",
+    "to": "2021-10-18 15:19 UT",
+    "stationRetrograde": "25°28′ libra",
+    "stationDirect": "10°07′ libra",
+    "wholly": true
+   },
+   {
+    "from": "2022-09-10 03:33 UT",
+    "to": "2022-10-02 09:11 UT",
+    "stationRetrograde": "8°55′ libra",
+    "stationDirect": "24°12′ virgo",
+    "wholly": false
+   },
+   {
+    "from": "2027-10-07 14:36 UT",
+    "to": "2027-10-28 14:12 UT",
+    "stationRetrograde": "4°55′ scorpio",
+    "stationDirect": "19°18′ libra",
+    "wholly": false
+   },
+   {
+    "from": "2028-09-19 16:27 UT",
+    "to": "2028-10-11 10:30 UT",
+    "stationRetrograde": "18°35′ libra",
+    "stationDirect": "3°28′ libra",
+    "wholly": true
+   },
+   {
+    "from": "2029-09-02 12:12 UT",
+    "to": "2029-09-25 02:02 UT",
+    "stationRetrograde": "1°49′ libra",
+    "stationDirect": "17°26′ virgo",
+    "wholly": false
+   },
+   {
+    "from": "2033-10-16 22:02 UT",
+    "to": "2033-11-06 12:40 UT",
+    "stationRetrograde": "14°16′ scorpio",
+    "stationDirect": "28°26′ libra",
+    "wholly": false
+   },
+   {
+    "from": "2034-09-30 02:57 UT",
+    "to": "2034-10-21 10:24 UT",
+    "stationRetrograde": "28°06′ libra",
+    "stationDirect": "12°41′ libra",
+    "wholly": true
+   },
+   {
+    "from": "2035-09-13 02:21 UT",
+    "to": "2035-10-05 04:55 UT",
+    "stationRetrograde": "11°37′ libra",
+    "stationDirect": "26°47′ virgo",
+    "wholly": false
+   },
+   {
+    "from": "2040-10-09 12:01 UT",
+    "to": "2040-10-30 09:05 UT",
+    "stationRetrograde": "7°31′ scorpio",
+    "stationDirect": "21°51′ libra",
+    "wholly": false
+   }
+  ],
+  "mercury-retrograde-in-scorpio": [
+   {
+    "from": "2000-10-18 13:38 UT",
+    "to": "2000-11-08 02:26 UT",
+    "stationRetrograde": "15°47′ scorpio",
+    "stationDirect": "29°56′ libra",
+    "wholly": false
+   },
+   {
+    "from": "2005-11-14 05:37 UT",
+    "to": "2005-12-04 02:29 UT",
+    "stationRetrograde": "10°56′ sagittarius",
+    "stationDirect": "24°44′ scorpio",
+    "wholly": false
+   },
+   {
+    "from": "2006-10-28 19:12 UT",
+    "to": "2006-11-18 00:25 UT",
+    "stationRetrograde": "25°04′ scorpio",
+    "stationDirect": "9°03′ scorpio",
+    "wholly": true
+   },
+   {
+    "from": "2007-10-12 03:57 UT",
+    "to": "2007-11-01 22:58 UT",
+    "stationRetrograde": "9°04′ scorpio",
+    "stationDirect": "23°21′ libra",
+    "wholly": false
+   },
+   {
+    "from": "2012-11-06 22:58 UT",
+    "to": "2012-11-26 22:49 UT",
+    "stationRetrograde": "4°18′ sagittarius",
+    "stationDirect": "18°10′ scorpio",
+    "wholly": false
+   },
+   {
+    "from": "2013-10-21 10:26 UT",
+    "to": "2013-11-10 21:11 UT",
+    "stationRetrograde": "18°23′ scorpio",
+    "stationDirect": "2°29′ scorpio",
+    "wholly": true
+   },
+   {
+    "from": "2014-10-04 17:00 UT",
+    "to": "2014-10-25 19:18 UT",
+    "stationRetrograde": "2°18′ scorpio",
+    "stationDirect": "16°45′ libra",
+    "wholly": false
+   },
+   {
+    "from": "2018-11-17 01:25 UT",
+    "to": "2018-12-06 21:26 UT",
+    "stationRetrograde": "13°29′ sagittarius",
+    "stationDirect": "27°16′ scorpio",
+    "wholly": false
+   },
+   {
+    "from": "2019-10-31 15:36 UT",
+    "to": "2019-11-20 19:12 UT",
+    "stationRetrograde": "27°38′ scorpio",
+    "stationDirect": "11°35′ scorpio",
+    "wholly": true
+   },
+   {
+    "from": "2020-10-14 01:03 UT",
+    "to": "2020-11-03 17:50 UT",
+    "stationRetrograde": "11°40′ scorpio",
+    "stationDirect": "25°53′ libra",
+    "wholly": false
+   },
+   {
+    "from": "2025-11-09 18:56 UT",
+    "to": "2025-11-29 17:42 UT",
+    "stationRetrograde": "6°51′ sagittarius",
+    "stationDirect": "20°42′ scorpio",
+    "wholly": false
+   },
+   {
+    "from": "2026-10-24 07:11 UT",
+    "to": "2026-11-13 15:55 UT",
+    "stationRetrograde": "20°58′ scorpio",
+    "stationDirect": "5°02′ scorpio",
+    "wholly": true
+   },
+   {
+    "from": "2027-10-07 14:36 UT",
+    "to": "2027-10-28 14:12 UT",
+    "stationRetrograde": "4°55′ scorpio",
+    "stationDirect": "19°18′ libra",
+    "wholly": false
+   },
+   {
+    "from": "2031-11-19 21:08 UT",
+    "to": "2031-12-09 16:28 UT",
+    "stationRetrograde": "16°03′ sagittarius",
+    "stationDirect": "29°48′ scorpio",
+    "wholly": false
+   },
+   {
+    "from": "2032-11-02 11:52 UT",
+    "to": "2032-11-22 14:03 UT",
+    "stationRetrograde": "0°12′ sagittarius",
+    "stationDirect": "14°07′ scorpio",
+    "wholly": false
+   },
+   {
+    "from": "2033-10-16 22:02 UT",
+    "to": "2033-11-06 12:40 UT",
+    "stationRetrograde": "14°16′ scorpio",
+    "stationDirect": "28°26′ libra",
+    "wholly": false
+   },
+   {
+    "from": "2038-11-12 14:50 UT",
+    "to": "2038-12-02 12:33 UT",
+    "stationRetrograde": "9°24′ sagittarius",
+    "stationDirect": "23°14′ scorpio",
+    "wholly": false
+   },
+   {
+    "from": "2039-10-27 03:51 UT",
+    "to": "2039-11-16 10:38 UT",
+    "stationRetrograde": "23°32′ scorpio",
+    "stationDirect": "7°33′ scorpio",
+    "wholly": true
+   },
+   {
+    "from": "2040-10-09 12:01 UT",
+    "to": "2040-10-30 09:05 UT",
+    "stationRetrograde": "7°31′ scorpio",
+    "stationDirect": "21°51′ libra",
+    "wholly": false
+   }
+  ],
+  "mercury-retrograde-in-sagittarius": [
+   {
+    "from": "2003-12-17 15:58 UT",
+    "to": "2004-01-06 13:48 UT",
+    "stationRetrograde": "12°33′ capricorn",
+    "stationDirect": "26°16′ sagittarius",
+    "wholly": false
+   },
+   {
+    "from": "2004-11-30 12:12 UT",
+    "to": "2004-12-20 06:36 UT",
+    "stationRetrograde": "26°44′ sagittarius",
+    "stationDirect": "10°27′ sagittarius",
+    "wholly": true
+   },
+   {
+    "from": "2005-11-14 05:37 UT",
+    "to": "2005-12-04 02:29 UT",
+    "stationRetrograde": "10°56′ sagittarius",
+    "stationDirect": "24°44′ scorpio",
+    "wholly": false
+   },
+   {
+    "from": "2010-12-10 12:00 UT",
+    "to": "2010-12-30 07:26 UT",
+    "stationRetrograde": "5°56′ capricorn",
+    "stationDirect": "19°37′ sagittarius",
+    "wholly": false
+   },
+   {
+    "from": "2011-11-24 07:11 UT",
+    "to": "2011-12-14 01:48 UT",
+    "stationRetrograde": "20°07′ sagittarius",
+    "stationDirect": "3°51′ sagittarius",
+    "wholly": true
+   },
+   {
+    "from": "2012-11-06 22:58 UT",
+    "to": "2012-11-26 22:49 UT",
+    "stationRetrograde": "4°18′ sagittarius",
+    "stationDirect": "18°10′ scorpio",
+    "wholly": false
+   },
+   {
+    "from": "2016-12-19 10:52 UT",
+    "to": "2017-01-08 09:46 UT",
+    "stationRetrograde": "15°07′ capricorn",
+    "stationDirect": "28°50′ sagittarius",
+    "wholly": false
+   },
+   {
+    "from": "2017-12-03 07:28 UT",
+    "to": "2017-12-23 01:57 UT",
+    "stationRetrograde": "29°18′ sagittarius",
+    "stationDirect": "13°00′ sagittarius",
+    "wholly": true
+   },
+   {
+    "from": "2018-11-17 01:25 UT",
+    "to": "2018-12-06 21:26 UT",
+    "stationRetrograde": "13°29′ sagittarius",
+    "stationDirect": "27°16′ scorpio",
+    "wholly": false
+   },
+   {
+    "from": "2023-12-13 07:03 UT",
+    "to": "2024-01-02 03:11 UT",
+    "stationRetrograde": "8°29′ capricorn",
+    "stationDirect": "22°10′ sagittarius",
+    "wholly": false
+   },
+   {
+    "from": "2024-11-26 02:35 UT",
+    "to": "2024-12-15 21:02 UT",
+    "stationRetrograde": "22°40′ sagittarius",
+    "stationDirect": "6°23′ sagittarius",
+    "wholly": true
+   },
+   {
+    "from": "2025-11-09 18:56 UT",
+    "to": "2025-11-29 17:42 UT",
+    "stationRetrograde": "6°51′ sagittarius",
+    "stationDirect": "20°42′ scorpio",
+    "wholly": false
+   },
+   {
+    "from": "2030-12-06 02:41 UT",
+    "to": "2030-12-25 21:20 UT",
+    "stationRetrograde": "1°51′ capricorn",
+    "stationDirect": "15°33′ sagittarius",
+    "wholly": false
+   },
+   {
+    "from": "2031-11-19 21:08 UT",
+    "to": "2031-12-09 16:28 UT",
+    "stationRetrograde": "16°03′ sagittarius",
+    "stationDirect": "29°48′ scorpio",
+    "wholly": false
+   },
+   {
+    "from": "2032-11-02 11:52 UT",
+    "to": "2032-11-22 14:03 UT",
+    "stationRetrograde": "0°12′ sagittarius",
+    "stationDirect": "14°07′ scorpio",
+    "wholly": false
+   },
+   {
+    "from": "2036-12-15 02:02 UT",
+    "to": "2037-01-03 23:02 UT",
+    "stationRetrograde": "11°02′ capricorn",
+    "stationDirect": "24°44′ sagittarius",
+    "wholly": false
+   },
+   {
+    "from": "2037-11-28 21:55 UT",
+    "to": "2037-12-18 16:19 UT",
+    "stationRetrograde": "25°13′ sagittarius",
+    "stationDirect": "8°56′ sagittarius",
+    "wholly": true
+   },
+   {
+    "from": "2038-11-12 14:50 UT",
+    "to": "2038-12-02 12:33 UT",
+    "stationRetrograde": "9°24′ sagittarius",
+    "stationDirect": "23°14′ scorpio",
+    "wholly": false
+   }
+  ],
+  "mercury-retrograde-in-capricorn": [
+   {
+    "from": "2002-01-18 20:47 UT",
+    "to": "2002-02-08 17:29 UT",
+    "stationRetrograde": "14°29′ aquarius",
+    "stationDirect": "28°37′ capricorn",
+    "wholly": false
+   },
+   {
+    "from": "2003-01-02 18:16 UT",
+    "to": "2003-01-23 01:08 UT",
+    "stationRetrograde": "28°27′ capricorn",
+    "stationDirect": "12°17′ capricorn",
+    "wholly": true
+   },
+   {
+    "from": "2003-12-17 15:58 UT",
+    "to": "2004-01-06 13:48 UT",
+    "stationRetrograde": "12°33′ capricorn",
+    "stationDirect": "26°16′ sagittarius",
+    "wholly": false
+   },
+   {
+    "from": "2009-01-11 16:43 UT",
+    "to": "2009-02-01 07:13 UT",
+    "stationRetrograde": "7°45′ aquarius",
+    "stationDirect": "21°44′ capricorn",
+    "wholly": false
+   },
+   {
+    "from": "2009-12-26 14:36 UT",
+    "to": "2010-01-15 16:54 UT",
+    "stationRetrograde": "21°47′ capricorn",
+    "stationDirect": "5°33′ capricorn",
+    "wholly": true
+   },
+   {
+    "from": "2010-12-10 12:00 UT",
+    "to": "2010-12-30 07:26 UT",
+    "stationRetrograde": "5°56′ capricorn",
+    "stationDirect": "19°37′ sagittarius",
+    "wholly": false
+   },
+   {
+    "from": "2016-01-05 13:05 UT",
+    "to": "2016-01-25 21:52 UT",
+    "stationRetrograde": "1°02′ aquarius",
+    "stationDirect": "14°54′ capricorn",
+    "wholly": false
+   },
+   {
+    "from": "2016-12-19 10:52 UT",
+    "to": "2017-01-08 09:46 UT",
+    "stationRetrograde": "15°07′ capricorn",
+    "stationDirect": "28°50′ sagittarius",
+    "wholly": false
+   },
+   {
+    "from": "2022-01-14 11:40 UT",
+    "to": "2022-02-04 04:14 UT",
+    "stationRetrograde": "10°20′ aquarius",
+    "stationDirect": "24°22′ capricorn",
+    "wholly": false
+   },
+   {
+    "from": "2022-12-29 09:29 UT",
+    "to": "2023-01-18 13:12 UT",
+    "stationRetrograde": "24°21′ capricorn",
+    "stationDirect": "8°08′ capricorn",
+    "wholly": true
+   },
+   {
+    "from": "2023-12-13 07:03 UT",
+    "to": "2024-01-02 03:11 UT",
+    "stationRetrograde": "8°29′ capricorn",
+    "stationDirect": "22°10′ sagittarius",
+    "wholly": false
+   },
+   {
+    "from": "2029-01-07 07:55 UT",
+    "to": "2029-01-27 18:40 UT",
+    "stationRetrograde": "3°38′ aquarius",
+    "stationDirect": "17°32′ capricorn",
+    "wholly": false
+   },
+   {
+    "from": "2029-12-22 05:46 UT",
+    "to": "2030-01-11 05:47 UT",
+    "stationRetrograde": "17°42′ capricorn",
+    "stationDirect": "1°26′ capricorn",
+    "wholly": true
+   },
+   {
+    "from": "2030-12-06 02:41 UT",
+    "to": "2030-12-25 21:20 UT",
+    "stationRetrograde": "1°51′ capricorn",
+    "stationDirect": "15°33′ sagittarius",
+    "wholly": false
+   },
+   {
+    "from": "2035-01-17 06:42 UT",
+    "to": "2035-02-07 01:25 UT",
+    "stationRetrograde": "12°56′ aquarius",
+    "stationDirect": "27°01′ capricorn",
+    "wholly": false
+   },
+   {
+    "from": "2036-01-01 04:22 UT",
+    "to": "2036-01-21 09:43 UT",
+    "stationRetrograde": "26°55′ capricorn",
+    "stationDirect": "10°44′ capricorn",
+    "wholly": true
+   },
+   {
+    "from": "2036-12-15 02:02 UT",
+    "to": "2037-01-03 23:02 UT",
+    "stationRetrograde": "11°02′ capricorn",
+    "stationDirect": "24°44′ sagittarius",
+    "wholly": false
+   }
+  ],
+  "mercury-retrograde-in-aquarius": [
+   {
+    "from": "2001-02-04 01:54 UT",
+    "to": "2001-02-25 15:45 UT",
+    "stationRetrograde": "0°41′ pisces",
+    "stationDirect": "15°24′ aquarius",
+    "wholly": false
+   },
+   {
+    "from": "2002-01-18 20:47 UT",
+    "to": "2002-02-08 17:29 UT",
+    "stationRetrograde": "14°29′ aquarius",
+    "stationDirect": "28°37′ capricorn",
+    "wholly": false
+   },
+   {
+    "from": "2007-02-14 04:35 UT",
+    "to": "2007-03-08 04:48 UT",
+    "stationRetrograde": "10°13′ pisces",
+    "stationDirect": "25°24′ aquarius",
+    "wholly": false
+   },
+   {
+    "from": "2008-01-28 20:29 UT",
+    "to": "2008-02-19 03:01 UT",
+    "stationRetrograde": "23°52′ aquarius",
+    "stationDirect": "8°19′ aquarius",
+    "wholly": true
+   },
+   {
+    "from": "2009-01-11 16:43 UT",
+    "to": "2009-02-01 07:13 UT",
+    "stationRetrograde": "7°45′ aquarius",
+    "stationDirect": "21°44′ capricorn",
+    "wholly": false
+   },
+   {
+    "from": "2014-02-06 21:41 UT",
+    "to": "2014-02-28 14:05 UT",
+    "stationRetrograde": "3°20′ pisces",
+    "stationDirect": "18°09′ aquarius",
+    "wholly": false
+   },
+   {
+    "from": "2015-01-21 15:53 UT",
+    "to": "2015-02-11 15:00 UT",
+    "stationRetrograde": "17°05′ aquarius",
+    "stationDirect": "1°18′ aquarius",
+    "wholly": true
+   },
+   {
+    "from": "2016-01-05 13:05 UT",
+    "to": "2016-01-25 21:52 UT",
+    "stationRetrograde": "1°02′ aquarius",
+    "stationDirect": "14°54′ capricorn",
+    "wholly": false
+   },
+   {
+    "from": "2020-02-17 00:52 UT",
+    "to": "2020-03-10 03:53 UT",
+    "stationRetrograde": "12°53′ pisces",
+    "stationDirect": "28°12′ aquarius",
+    "wholly": false
+   },
+   {
+    "from": "2021-01-30 15:50 UT",
+    "to": "2021-02-21 00:57 UT",
+    "stationRetrograde": "26°29′ aquarius",
+    "stationDirect": "11°01′ aquarius",
+    "wholly": true
+   },
+   {
+    "from": "2022-01-14 11:40 UT",
+    "to": "2022-02-04 04:14 UT",
+    "stationRetrograde": "10°20′ aquarius",
+    "stationDirect": "24°22′ capricorn",
+    "wholly": false
+   },
+   {
+    "from": "2027-02-09 17:35 UT",
+    "to": "2027-03-03 12:37 UT",
+    "stationRetrograde": "5°58′ pisces",
+    "stationDirect": "20°55′ aquarius",
+    "wholly": false
+   },
+   {
+    "from": "2028-01-24 11:02 UT",
+    "to": "2028-02-14 12:42 UT",
+    "stationRetrograde": "19°41′ aquarius",
+    "stationDirect": "3°59′ aquarius",
+    "wholly": true
+   },
+   {
+    "from": "2029-01-07 07:55 UT",
+    "to": "2029-01-27 18:40 UT",
+    "stationRetrograde": "3°38′ aquarius",
+    "stationDirect": "17°32′ capricorn",
+    "wholly": false
+   },
+   {
+    "from": "2034-02-02 11:19 UT",
+    "to": "2034-02-23 22:58 UT",
+    "stationRetrograde": "29°06′ aquarius",
+    "stationDirect": "13°44′ aquarius",
+    "wholly": true
+   },
+   {
+    "from": "2035-01-17 06:42 UT",
+    "to": "2035-02-07 01:25 UT",
+    "stationRetrograde": "12°56′ aquarius",
+    "stationDirect": "27°01′ capricorn",
+    "wholly": false
+   },
+   {
+    "from": "2040-02-12 13:35 UT",
+    "to": "2040-03-05 11:23 UT",
+    "stationRetrograde": "8°37′ pisces",
+    "stationDirect": "23°41′ aquarius",
+    "wholly": false
+   }
+  ],
+  "mercury-retrograde-in-pisces": [
+   {
+    "from": "2000-02-21 12:44 UT",
+    "to": "2000-03-14 20:42 UT",
+    "stationRetrograde": "17°10′ pisces",
+    "stationDirect": "2°46′ pisces",
+    "wholly": true
+   },
+   {
+    "from": "2001-02-04 01:54 UT",
+    "to": "2001-02-25 15:45 UT",
+    "stationRetrograde": "0°41′ pisces",
+    "stationDirect": "15°24′ aquarius",
+    "wholly": false
+   },
+   {
+    "from": "2006-03-02 20:29 UT",
+    "to": "2006-03-25 13:43 UT",
+    "stationRetrograde": "26°55′ pisces",
+    "stationDirect": "13°10′ pisces",
+    "wholly": true
+   },
+   {
+    "from": "2007-02-14 04:35 UT",
+    "to": "2007-03-08 04:48 UT",
+    "stationRetrograde": "10°13′ pisces",
+    "stationDirect": "25°24′ aquarius",
+    "wholly": false
+   },
+   {
+    "from": "2012-03-12 07:51 UT",
+    "to": "2012-04-04 10:10 UT",
+    "stationRetrograde": "6°49′ aries",
+    "stationDirect": "23°50′ pisces",
+    "wholly": false
+   },
+   {
+    "from": "2013-02-23 09:38 UT",
+    "to": "2013-03-17 20:05 UT",
+    "stationRetrograde": "19°52′ pisces",
+    "stationDirect": "5°37′ pisces",
+    "wholly": true
+   },
+   {
+    "from": "2014-02-06 21:41 UT",
+    "to": "2014-02-28 14:05 UT",
+    "stationRetrograde": "3°20′ pisces",
+    "stationDirect": "18°09′ aquarius",
+    "wholly": false
+   },
+   {
+    "from": "2019-03-05 18:20 UT",
+    "to": "2019-03-28 14:01 UT",
+    "stationRetrograde": "29°38′ pisces",
+    "stationDirect": "16°05′ pisces",
+    "wholly": true
+   },
+   {
+    "from": "2020-02-17 00:52 UT",
+    "to": "2020-03-10 03:53 UT",
+    "stationRetrograde": "12°53′ pisces",
+    "stationDirect": "28°12′ aquarius",
+    "wholly": false
+   },
+   {
+    "from": "2025-03-15 06:49 UT",
+    "to": "2025-04-07 11:06 UT",
+    "stationRetrograde": "9°35′ aries",
+    "stationDirect": "26°49′ pisces",
+    "wholly": false
+   },
+   {
+    "from": "2026-02-26 06:47 UT",
+    "to": "2026-03-20 19:36 UT",
+    "stationRetrograde": "22°33′ pisces",
+    "stationDirect": "8°29′ pisces",
+    "wholly": true
+   },
+   {
+    "from": "2027-02-09 17:35 UT",
+    "to": "2027-03-03 12:37 UT",
+    "stationRetrograde": "5°58′ pisces",
+    "stationDirect": "20°55′ aquarius",
+    "wholly": false
+   },
+   {
+    "from": "2032-03-07 16:24 UT",
+    "to": "2032-03-30 14:30 UT",
+    "stationRetrograde": "2°23′ aries",
+    "stationDirect": "19°02′ pisces",
+    "wholly": false
+   },
+   {
+    "from": "2033-02-18 21:18 UT",
+    "to": "2033-03-13 03:01 UT",
+    "stationRetrograde": "15°33′ pisces",
+    "stationDirect": "1°02′ pisces",
+    "wholly": true
+   },
+   {
+    "from": "2038-03-18 06:12 UT",
+    "to": "2038-04-10 12:13 UT",
+    "stationRetrograde": "12°22′ aries",
+    "stationDirect": "29°49′ pisces",
+    "wholly": false
+   },
+   {
+    "from": "2039-03-01 04:12 UT",
+    "to": "2039-03-23 19:22 UT",
+    "stationRetrograde": "25°15′ pisces",
+    "stationDirect": "11°21′ pisces",
+    "wholly": true
+   },
+   {
+    "from": "2040-02-12 13:35 UT",
+    "to": "2040-03-05 11:23 UT",
+    "stationRetrograde": "8°37′ pisces",
+    "stationDirect": "23°41′ aquarius",
+    "wholly": false
+   }
+  ],
+  "venus-retrograde-in-aries": [
+   {
+    "from": "2001-03-09 01:06 UT",
+    "to": "2001-04-20 04:30 UT",
+    "stationRetrograde": "17°43′ aries",
+    "stationDirect": "1°27′ aries",
+    "wholly": true
+   },
+   {
+    "from": "2009-03-06 17:18 UT",
+    "to": "2009-04-17 19:25 UT",
+    "stationRetrograde": "15°27′ aries",
+    "stationDirect": "29°12′ pisces",
+    "wholly": false
+   },
+   {
+    "from": "2017-03-04 09:07 UT",
+    "to": "2017-04-15 10:18 UT",
+    "stationRetrograde": "13°08′ aries",
+    "stationDirect": "26°54′ pisces",
+    "wholly": false
+   },
+   {
+    "from": "2025-03-02 00:31 UT",
+    "to": "2025-04-13 01:03 UT",
+    "stationRetrograde": "10°50′ aries",
+    "stationDirect": "24°37′ pisces",
+    "wholly": false
+   },
+   {
+    "from": "2033-02-27 15:41 UT",
+    "to": "2033-04-10 15:31 UT",
+    "stationRetrograde": "8°31′ aries",
+    "stationDirect": "22°21′ pisces",
+    "wholly": false
+   }
+  ],
+  "venus-retrograde-in-taurus": [],
+  "venus-retrograde-in-gemini": [
+   {
+    "from": "2004-05-17 22:29 UT",
+    "to": "2004-06-29 23:15 UT",
+    "stationRetrograde": "26°08′ gemini",
+    "stationDirect": "9°37′ gemini",
+    "wholly": true
+   },
+   {
+    "from": "2012-05-15 14:31 UT",
+    "to": "2012-06-27 15:10 UT",
+    "stationRetrograde": "23°59′ gemini",
+    "stationDirect": "7°29′ gemini",
+    "wholly": true
+   },
+   {
+    "from": "2020-05-13 06:41 UT",
+    "to": "2020-06-25 06:50 UT",
+    "stationRetrograde": "21°50′ gemini",
+    "stationDirect": "5°20′ gemini",
+    "wholly": true
+   },
+   {
+    "from": "2028-05-10 23:01 UT",
+    "to": "2028-06-22 22:14 UT",
+    "stationRetrograde": "19°41′ gemini",
+    "stationDirect": "3°10′ gemini",
+    "wholly": true
+   },
+   {
+    "from": "2036-05-08 15:55 UT",
+    "to": "2036-06-20 14:10 UT",
+    "stationRetrograde": "17°31′ gemini",
+    "stationDirect": "1°01′ gemini",
+    "wholly": true
+   }
+  ],
+  "venus-retrograde-in-cancer": [],
+  "venus-retrograde-in-leo": [
+   {
+    "from": "2007-07-27 17:27 UT",
+    "to": "2007-09-08 16:17 UT",
+    "stationRetrograde": "2°57′ virgo",
+    "stationDirect": "16°35′ leo",
+    "wholly": false
+   },
+   {
+    "from": "2015-07-25 09:25 UT",
+    "to": "2015-09-06 08:32 UT",
+    "stationRetrograde": "0°46′ virgo",
+    "stationDirect": "14°23′ leo",
+    "wholly": false
+   },
+   {
+    "from": "2023-07-23 01:31 UT",
+    "to": "2023-09-04 01:22 UT",
+    "stationRetrograde": "28°36′ leo",
+    "stationDirect": "12°12′ leo",
+    "wholly": true
+   },
+   {
+    "from": "2031-07-20 17:10 UT",
+    "to": "2031-09-01 17:56 UT",
+    "stationRetrograde": "26°25′ leo",
+    "stationDirect": "10°01′ leo",
+    "wholly": true
+   },
+   {
+    "from": "2039-07-18 08:35 UT",
+    "to": "2039-08-30 10:11 UT",
+    "stationRetrograde": "24°14′ leo",
+    "stationDirect": "7°50′ leo",
+    "wholly": true
+   }
+  ],
+  "venus-retrograde-in-virgo": [
+   {
+    "from": "2007-07-27 17:27 UT",
+    "to": "2007-09-08 16:17 UT",
+    "stationRetrograde": "2°57′ virgo",
+    "stationDirect": "16°35′ leo",
+    "wholly": false
+   },
+   {
+    "from": "2015-07-25 09:25 UT",
+    "to": "2015-09-06 08:32 UT",
+    "stationRetrograde": "0°46′ virgo",
+    "stationDirect": "14°23′ leo",
+    "wholly": false
+   }
+  ],
+  "venus-retrograde-in-libra": [
+   {
+    "from": "2002-10-10 18:31 UT",
+    "to": "2002-11-21 07:08 UT",
+    "stationRetrograde": "15°36′ scorpio",
+    "stationDirect": "0°03′ scorpio",
+    "wholly": false
+   },
+   {
+    "from": "2010-10-08 07:01 UT",
+    "to": "2010-11-18 21:17 UT",
+    "stationRetrograde": "13°13′ scorpio",
+    "stationDirect": "27°39′ libra",
+    "wholly": false
+   },
+   {
+    "from": "2018-10-05 19:01 UT",
+    "to": "2018-11-16 10:50 UT",
+    "stationRetrograde": "10°50′ scorpio",
+    "stationDirect": "25°14′ libra",
+    "wholly": false
+   },
+   {
+    "from": "2026-10-03 07:09 UT",
+    "to": "2026-11-14 00:21 UT",
+    "stationRetrograde": "8°29′ scorpio",
+    "stationDirect": "22°51′ libra",
+    "wholly": false
+   },
+   {
+    "from": "2034-09-30 19:35 UT",
+    "to": "2034-11-11 13:58 UT",
+    "stationRetrograde": "6°07′ scorpio",
+    "stationDirect": "20°27′ libra",
+    "wholly": false
+   }
+  ],
+  "venus-retrograde-in-scorpio": [
+   {
+    "from": "2002-10-10 18:31 UT",
+    "to": "2002-11-21 07:08 UT",
+    "stationRetrograde": "15°36′ scorpio",
+    "stationDirect": "0°03′ scorpio",
+    "wholly": false
+   },
+   {
+    "from": "2010-10-08 07:01 UT",
+    "to": "2010-11-18 21:17 UT",
+    "stationRetrograde": "13°13′ scorpio",
+    "stationDirect": "27°39′ libra",
+    "wholly": false
+   },
+   {
+    "from": "2018-10-05 19:01 UT",
+    "to": "2018-11-16 10:50 UT",
+    "stationRetrograde": "10°50′ scorpio",
+    "stationDirect": "25°14′ libra",
+    "wholly": false
+   },
+   {
+    "from": "2026-10-03 07:09 UT",
+    "to": "2026-11-14 00:21 UT",
+    "stationRetrograde": "8°29′ scorpio",
+    "stationDirect": "22°51′ libra",
+    "wholly": false
+   },
+   {
+    "from": "2034-09-30 19:35 UT",
+    "to": "2034-11-11 13:58 UT",
+    "stationRetrograde": "6°07′ scorpio",
+    "stationDirect": "20°27′ libra",
+    "wholly": false
+   }
+  ],
+  "venus-retrograde-in-sagittarius": [],
+  "venus-retrograde-in-capricorn": [
+   {
+    "from": "2005-12-24 09:40 UT",
+    "to": "2006-02-03 09:19 UT",
+    "stationRetrograde": "1°28′ aquarius",
+    "stationDirect": "16°01′ capricorn",
+    "wholly": false
+   },
+   {
+    "from": "2013-12-21 21:55 UT",
+    "to": "2014-01-31 20:53 UT",
+    "stationRetrograde": "28°58′ capricorn",
+    "stationDirect": "13°33′ capricorn",
+    "wholly": true
+   },
+   {
+    "from": "2021-12-19 10:35 UT",
+    "to": "2022-01-29 08:49 UT",
+    "stationRetrograde": "26°29′ capricorn",
+    "stationDirect": "11°04′ capricorn",
+    "wholly": true
+   },
+   {
+    "from": "2029-12-16 23:48 UT",
+    "to": "2030-01-26 21:34 UT",
+    "stationRetrograde": "24°01′ capricorn",
+    "stationDirect": "8°37′ capricorn",
+    "wholly": true
+   },
+   {
+    "from": "2037-12-14 12:47 UT",
+    "to": "2038-01-24 10:17 UT",
+    "stationRetrograde": "21°31′ capricorn",
+    "stationDirect": "6°08′ capricorn",
+    "wholly": true
+   }
+  ],
+  "venus-retrograde-in-aquarius": [
+   {
+    "from": "2005-12-24 09:40 UT",
+    "to": "2006-02-03 09:19 UT",
+    "stationRetrograde": "1°28′ aquarius",
+    "stationDirect": "16°01′ capricorn",
+    "wholly": false
+   }
+  ],
+  "venus-retrograde-in-pisces": [
+   {
+    "from": "2009-03-06 17:18 UT",
+    "to": "2009-04-17 19:25 UT",
+    "stationRetrograde": "15°27′ aries",
+    "stationDirect": "29°12′ pisces",
+    "wholly": false
+   },
+   {
+    "from": "2017-03-04 09:07 UT",
+    "to": "2017-04-15 10:18 UT",
+    "stationRetrograde": "13°08′ aries",
+    "stationDirect": "26°54′ pisces",
+    "wholly": false
+   },
+   {
+    "from": "2025-03-02 00:31 UT",
+    "to": "2025-04-13 01:03 UT",
+    "stationRetrograde": "10°50′ aries",
+    "stationDirect": "24°37′ pisces",
+    "wholly": false
+   },
+   {
+    "from": "2033-02-27 15:41 UT",
+    "to": "2033-04-10 15:31 UT",
+    "stationRetrograde": "8°31′ aries",
+    "stationDirect": "22°21′ pisces",
+    "wholly": false
+   }
+  ],
+  "mars-retrograde-in-aries": [
+   {
+    "from": "2020-09-09 22:26 UT",
+    "to": "2020-11-14 00:33 UT",
+    "stationRetrograde": "28°08′ aries",
+    "stationDirect": "15°14′ aries",
+    "wholly": true
+   }
+  ],
+  "mars-retrograde-in-taurus": [
+   {
+    "from": "2005-10-01 22:01 UT",
+    "to": "2005-12-10 04:05 UT",
+    "stationRetrograde": "23°22′ taurus",
+    "stationDirect": "8°14′ taurus",
+    "wholly": true
+   },
+   {
+    "from": "2037-10-12 23:06 UT",
+    "to": "2037-12-23 06:32 UT",
+    "stationRetrograde": "6°15′ gemini",
+    "stationDirect": "20°07′ taurus",
+    "wholly": false
+   }
+  ],
+  "mars-retrograde-in-gemini": [
+   {
+    "from": "2007-11-15 08:27 UT",
+    "to": "2008-01-30 22:34 UT",
+    "stationRetrograde": "12°27′ cancer",
+    "stationDirect": "24°04′ gemini",
+    "wholly": false
+   },
+   {
+    "from": "2022-10-30 13:25 UT",
+    "to": "2023-01-12 20:59 UT",
+    "stationRetrograde": "25°36′ gemini",
+    "stationDirect": "8°07′ gemini",
+    "wholly": true
+   },
+   {
+    "from": "2037-10-12 23:06 UT",
+    "to": "2037-12-23 06:32 UT",
+    "stationRetrograde": "6°15′ gemini",
+    "stationDirect": "20°07′ taurus",
+    "wholly": false
+   }
+  ],
+  "mars-retrograde-in-cancer": [
+   {
+    "from": "2007-11-15 08:27 UT",
+    "to": "2008-01-30 22:34 UT",
+    "stationRetrograde": "12°27′ cancer",
+    "stationDirect": "24°04′ gemini",
+    "wholly": false
+   },
+   {
+    "from": "2009-12-20 13:27 UT",
+    "to": "2010-03-10 17:13 UT",
+    "stationRetrograde": "19°41′ leo",
+    "stationDirect": "0°17′ leo",
+    "wholly": false
+   },
+   {
+    "from": "2024-12-06 23:33 UT",
+    "to": "2025-02-24 02:01 UT",
+    "stationRetrograde": "6°10′ leo",
+    "stationDirect": "17°00′ cancer",
+    "wholly": false
+   },
+   {
+    "from": "2039-11-23 20:44 UT",
+    "to": "2040-02-09 11:47 UT",
+    "stationRetrograde": "21°45′ cancer",
+    "stationDirect": "3°01′ cancer",
+    "wholly": true
+   }
+  ],
+  "mars-retrograde-in-leo": [
+   {
+    "from": "2009-12-20 13:27 UT",
+    "to": "2010-03-10 17:13 UT",
+    "stationRetrograde": "19°41′ leo",
+    "stationDirect": "0°17′ leo",
+    "wholly": false
+   },
+   {
+    "from": "2024-12-06 23:33 UT",
+    "to": "2025-02-24 02:01 UT",
+    "stationRetrograde": "6°10′ leo",
+    "stationDirect": "17°00′ cancer",
+    "wholly": false
+   },
+   {
+    "from": "2027-01-10 13:00 UT",
+    "to": "2027-04-01 14:11 UT",
+    "stationRetrograde": "10°25′ virgo",
+    "stationDirect": "20°55′ leo",
+    "wholly": false
+   }
+  ],
+  "mars-retrograde-in-virgo": [
+   {
+    "from": "2012-01-24 00:55 UT",
+    "to": "2012-04-14 03:53 UT",
+    "stationRetrograde": "23°05′ virgo",
+    "stationDirect": "3°40′ virgo",
+    "wholly": true
+   },
+   {
+    "from": "2027-01-10 13:00 UT",
+    "to": "2027-04-01 14:11 UT",
+    "stationRetrograde": "10°25′ virgo",
+    "stationDirect": "20°55′ leo",
+    "wholly": false
+   },
+   {
+    "from": "2029-02-14 08:13 UT",
+    "to": "2029-05-05 18:57 UT",
+    "stationRetrograde": "13°55′ libra",
+    "stationDirect": "24°55′ virgo",
+    "wholly": false
+   }
+  ],
+  "mars-retrograde-in-libra": [
+   {
+    "from": "2014-03-01 16:24 UT",
+    "to": "2014-05-20 01:32 UT",
+    "stationRetrograde": "27°32′ libra",
+    "stationDirect": "9°01′ libra",
+    "wholly": true
+   },
+   {
+    "from": "2029-02-14 08:13 UT",
+    "to": "2029-05-05 18:57 UT",
+    "stationRetrograde": "13°55′ libra",
+    "stationDirect": "24°55′ virgo",
+    "wholly": false
+   }
+  ],
+  "mars-retrograde-in-scorpio": [
+   {
+    "from": "2016-04-17 12:15 UT",
+    "to": "2016-06-29 23:39 UT",
+    "stationRetrograde": "8°54′ sagittarius",
+    "stationDirect": "23°03′ scorpio",
+    "wholly": false
+   },
+   {
+    "from": "2031-03-29 00:35 UT",
+    "to": "2031-06-13 11:52 UT",
+    "stationRetrograde": "21°38′ scorpio",
+    "stationDirect": "4°26′ scorpio",
+    "wholly": true
+   }
+  ],
+  "mars-retrograde-in-sagittarius": [
+   {
+    "from": "2001-05-11 16:15 UT",
+    "to": "2001-07-19 22:48 UT",
+    "stationRetrograde": "29°03′ sagittarius",
+    "stationDirect": "15°06′ sagittarius",
+    "wholly": true
+   },
+   {
+    "from": "2016-04-17 12:15 UT",
+    "to": "2016-06-29 23:39 UT",
+    "stationRetrograde": "8°54′ sagittarius",
+    "stationDirect": "23°03′ scorpio",
+    "wholly": false
+   },
+   {
+    "from": "2033-05-26 23:47 UT",
+    "to": "2033-08-01 14:21 UT",
+    "stationRetrograde": "12°30′ capricorn",
+    "stationDirect": "29°47′ sagittarius",
+    "wholly": false
+   }
+  ],
+  "mars-retrograde-in-capricorn": [
+   {
+    "from": "2018-06-26 21:11 UT",
+    "to": "2018-08-27 14:01 UT",
+    "stationRetrograde": "9°13′ aquarius",
+    "stationDirect": "28°36′ capricorn",
+    "wholly": false
+   },
+   {
+    "from": "2033-05-26 23:47 UT",
+    "to": "2033-08-01 14:21 UT",
+    "stationRetrograde": "12°30′ capricorn",
+    "stationDirect": "29°47′ sagittarius",
+    "wholly": false
+   }
+  ],
+  "mars-retrograde-in-aquarius": [
+   {
+    "from": "2003-07-29 07:38 UT",
+    "to": "2003-09-27 07:50 UT",
+    "stationRetrograde": "10°08′ pisces",
+    "stationDirect": "0°07′ pisces",
+    "wholly": false
+   },
+   {
+    "from": "2018-06-26 21:11 UT",
+    "to": "2018-08-27 14:01 UT",
+    "stationRetrograde": "9°13′ aquarius",
+    "stationDirect": "28°36′ capricorn",
+    "wholly": false
+   }
+  ],
+  "mars-retrograde-in-pisces": [
+   {
+    "from": "2003-07-29 07:38 UT",
+    "to": "2003-09-27 07:50 UT",
+    "stationRetrograde": "10°08′ pisces",
+    "stationDirect": "0°07′ pisces",
+    "wholly": false
+   },
+   {
+    "from": "2035-08-15 10:08 UT",
+    "to": "2035-10-15 08:33 UT",
+    "stationRetrograde": "28°26′ pisces",
+    "stationDirect": "17°45′ pisces",
+    "wholly": true
+   }
+  ]
+ }
+}

@@ -27,7 +27,7 @@ faq:
   - q: "Do I need to know astrology?"
     a: "No. The descriptions never name a sign, a planet or a house, so knowing your chart gives you no head start, and not knowing it holds you back in nothing."
   - q: "What if I don’t know my birth time?"
-    a: "Tick “I don’t know my birth time”. The test still works, with fewer kinds of question: without the time there are no houses and no rising sign. [Here’s where to find it](/blog/unknown-birth-time/), country by country."
+    a: "For now, the test needs your birth time and place: without the time there are no houses and no rising sign. We’re working on a project to find people’s birth data accurately; until then, [here’s where to look for yours](/blog/unknown-birth-time/#finding-your-time)."
   - q: "Where do the other two descriptions come from?"
     a: "From thirty charts drawn for birth dates and places picked at random, and written by the same method, at the same length and in the same plain words as yours. They describe nobody you know."
   - q: "Is it really free?"

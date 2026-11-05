@@ -1,4 +1,5 @@
 {{- /* Headings as Goldmark writes them, plus an optional planet or sign before the words:
-       ## How I tested {glyph="♄"}  →  the symbol, in the accent, hidden from screen readers. */ -}}
-<h{{ .Level }} id="{{ .Anchor }}"{{ range $k, $v := .Attributes }}{{ if ne $k "glyph" }} {{ $k }}="{{ $v }}"{{ end }}{{ end }}>{{ with .Attributes.glyph }}<span class="glyph" aria-hidden="true">{{ . }}&#xFE0E;</span>{{ end }}{{ .Text }}</h{{ .Level }}>
+       ## How I tested {glyph="♄"}  →  the symbol, in the accent, hidden from screen readers.
+       An {#anchor} arrives both as .Anchor and among the attributes: it is written once. */ -}}
+<h{{ .Level }} id="{{ .Anchor }}"{{ range $k, $v := .Attributes }}{{ if not (in (slice "glyph" "id") $k) }} {{ $k }}="{{ $v }}"{{ end }}{{ end }}>{{ with .Attributes.glyph }}<span class="glyph" aria-hidden="true">{{ . }}&#xFE0E;</span>{{ end }}{{ .Text }}</h{{ .Level }}>
 {{- /* keep the trailing whitespace out */ -}}

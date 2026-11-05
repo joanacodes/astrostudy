@@ -1,7 +1,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <script>document.documentElement.classList.replace("no-js", "js");try { if (sessionStorage.getItem("astro-seen")) document.documentElement.classList.add("seen"); else sessionStorage.setItem("astro-seen", "1"); } catch (e) {}setTimeout(function () { if (!window.__astro) document.documentElement.classList.replace("js", "no-js"); }, 3000);</script>
-{{- $title := cond .IsHome (printf "%s — %s" site.Title (.Params.titleTail | default (i18n "titleTail"))) (printf "%s · %s" .Title site.Title) }}
+{{- /* An encyclopaedia entry is searched for by its full name ("Saturn in astrology"), so its title tag
+       takes the page's h1, or a seoTitle where one is given, before the short title used in lists. */}}
+{{- $name := .Params.seoTitle | default .Params.h1 | default .Title | plainify }}
+{{- $title := cond .IsHome (printf "%s — %s" site.Title (.Params.titleTail | default (i18n "titleTail"))) (printf "%s · %s" $name site.Title) }}
 {{- if eq .Kind "404" }}{{ $title = printf "%s · %s" (i18n "notFound") site.Title }}{{ end }}
 {{- $desc := .Description | default site.Params.description }}
 <title>{{ $title }}</title>

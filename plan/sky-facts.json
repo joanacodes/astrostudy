@@ -1,0 +1,1111 @@
+{
+ "about": "New and full moons (the sign is the Moon's), the retrogrades of Mercury, Venus and Mars (station retrograde and direct), and the solar and lunar eclipses, 1 January 2026 to 31 December 2030, in UT. AGS's ephemeris: astronomy-engine, geocentric apparent positions on the true ecliptic of date (tropical).",
+ "generated": "2026-11-04",
+ "lunations": [
+  {
+   "kind": "full",
+   "date": "2026-01-03 10:03 UT",
+   "sign": "cancer",
+   "degree": "13°02′"
+  },
+  {
+   "kind": "new",
+   "date": "2026-01-18 19:52 UT",
+   "sign": "capricorn",
+   "degree": "28°44′"
+  },
+  {
+   "kind": "full",
+   "date": "2026-02-01 22:09 UT",
+   "sign": "leo",
+   "degree": "13°04′"
+  },
+  {
+   "kind": "new",
+   "date": "2026-02-17 12:01 UT",
+   "sign": "aquarius",
+   "degree": "28°50′"
+  },
+  {
+   "kind": "full",
+   "date": "2026-03-03 11:38 UT",
+   "sign": "virgo",
+   "degree": "12°54′"
+  },
+  {
+   "kind": "new",
+   "date": "2026-03-19 01:24 UT",
+   "sign": "pisces",
+   "degree": "28°27′"
+  },
+  {
+   "kind": "full",
+   "date": "2026-04-02 02:12 UT",
+   "sign": "libra",
+   "degree": "12°21′"
+  },
+  {
+   "kind": "new",
+   "date": "2026-04-17 11:52 UT",
+   "sign": "aries",
+   "degree": "27°29′"
+  },
+  {
+   "kind": "full",
+   "date": "2026-05-01 17:23 UT",
+   "sign": "scorpio",
+   "degree": "11°21′"
+  },
+  {
+   "kind": "new",
+   "date": "2026-05-16 20:01 UT",
+   "sign": "taurus",
+   "degree": "25°58′"
+  },
+  {
+   "kind": "full",
+   "date": "2026-05-31 08:45 UT",
+   "sign": "sagittarius",
+   "degree": "9°56′"
+  },
+  {
+   "kind": "new",
+   "date": "2026-06-15 02:54 UT",
+   "sign": "gemini",
+   "degree": "24°03′"
+  },
+  {
+   "kind": "full",
+   "date": "2026-06-29 23:57 UT",
+   "sign": "capricorn",
+   "degree": "8°15′"
+  },
+  {
+   "kind": "new",
+   "date": "2026-07-14 09:44 UT",
+   "sign": "cancer",
+   "degree": "21°59′"
+  },
+  {
+   "kind": "full",
+   "date": "2026-07-29 14:36 UT",
+   "sign": "aquarius",
+   "degree": "6°30′"
+  },
+  {
+   "kind": "new",
+   "date": "2026-08-12 17:37 UT",
+   "sign": "leo",
+   "degree": "20°02′"
+  },
+  {
+   "kind": "full",
+   "date": "2026-08-28 04:19 UT",
+   "sign": "pisces",
+   "degree": "4°54′"
+  },
+  {
+   "kind": "new",
+   "date": "2026-09-11 03:27 UT",
+   "sign": "virgo",
+   "degree": "18°26′"
+  },
+  {
+   "kind": "full",
+   "date": "2026-09-26 16:49 UT",
+   "sign": "aries",
+   "degree": "3°37′"
+  },
+  {
+   "kind": "new",
+   "date": "2026-10-10 15:50 UT",
+   "sign": "libra",
+   "degree": "17°21′"
+  },
+  {
+   "kind": "full",
+   "date": "2026-10-26 04:12 UT",
+   "sign": "taurus",
+   "degree": "2°46′"
+  },
+  {
+   "kind": "new",
+   "date": "2026-11-09 07:02 UT",
+   "sign": "scorpio",
+   "degree": "16°53′"
+  },
+  {
+   "kind": "full",
+   "date": "2026-11-24 14:54 UT",
+   "sign": "gemini",
+   "degree": "2°20′"
+  },
+  {
+   "kind": "new",
+   "date": "2026-12-09 00:52 UT",
+   "sign": "sagittarius",
+   "degree": "16°57′"
+  },
+  {
+   "kind": "full",
+   "date": "2026-12-24 01:28 UT",
+   "sign": "cancer",
+   "degree": "2°14′"
+  },
+  {
+   "kind": "new",
+   "date": "2027-01-07 20:25 UT",
+   "sign": "capricorn",
+   "degree": "17°18′"
+  },
+  {
+   "kind": "full",
+   "date": "2027-01-22 12:17 UT",
+   "sign": "leo",
+   "degree": "2°14′"
+  },
+  {
+   "kind": "new",
+   "date": "2027-02-06 15:56 UT",
+   "sign": "aquarius",
+   "degree": "17°38′"
+  },
+  {
+   "kind": "full",
+   "date": "2027-02-20 23:24 UT",
+   "sign": "virgo",
+   "degree": "2°05′"
+  },
+  {
+   "kind": "new",
+   "date": "2027-03-08 09:30 UT",
+   "sign": "pisces",
+   "degree": "17°35′"
+  },
+  {
+   "kind": "full",
+   "date": "2027-03-22 10:44 UT",
+   "sign": "libra",
+   "degree": "1°35′"
+  },
+  {
+   "kind": "new",
+   "date": "2027-04-06 23:51 UT",
+   "sign": "aries",
+   "degree": "16°57′"
+  },
+  {
+   "kind": "full",
+   "date": "2027-04-20 22:27 UT",
+   "sign": "scorpio",
+   "degree": "0°37′"
+  },
+  {
+   "kind": "new",
+   "date": "2027-05-06 10:59 UT",
+   "sign": "taurus",
+   "degree": "15°42′"
+  },
+  {
+   "kind": "full",
+   "date": "2027-05-20 10:59 UT",
+   "sign": "scorpio",
+   "degree": "29°13′"
+  },
+  {
+   "kind": "new",
+   "date": "2027-06-04 19:40 UT",
+   "sign": "gemini",
+   "degree": "13°58′"
+  },
+  {
+   "kind": "full",
+   "date": "2027-06-19 00:45 UT",
+   "sign": "sagittarius",
+   "degree": "27°33′"
+  },
+  {
+   "kind": "new",
+   "date": "2027-07-04 03:02 UT",
+   "sign": "cancer",
+   "degree": "11°57′"
+  },
+  {
+   "kind": "full",
+   "date": "2027-07-18 15:45 UT",
+   "sign": "capricorn",
+   "degree": "25°49′"
+  },
+  {
+   "kind": "new",
+   "date": "2027-08-02 10:05 UT",
+   "sign": "leo",
+   "degree": "9°55′"
+  },
+  {
+   "kind": "full",
+   "date": "2027-08-17 07:29 UT",
+   "sign": "aquarius",
+   "degree": "24°12′"
+  },
+  {
+   "kind": "new",
+   "date": "2027-08-31 17:41 UT",
+   "sign": "virgo",
+   "degree": "8°06′"
+  },
+  {
+   "kind": "full",
+   "date": "2027-09-15 23:04 UT",
+   "sign": "pisces",
+   "degree": "22°53′"
+  },
+  {
+   "kind": "new",
+   "date": "2027-09-30 02:36 UT",
+   "sign": "libra",
+   "degree": "6°43′"
+  },
+  {
+   "kind": "full",
+   "date": "2027-10-15 13:47 UT",
+   "sign": "aries",
+   "degree": "21°59′"
+  },
+  {
+   "kind": "new",
+   "date": "2027-10-29 13:37 UT",
+   "sign": "scorpio",
+   "degree": "5°54′"
+  },
+  {
+   "kind": "full",
+   "date": "2027-11-14 03:26 UT",
+   "sign": "taurus",
+   "degree": "21°31′"
+  },
+  {
+   "kind": "new",
+   "date": "2027-11-28 03:24 UT",
+   "sign": "sagittarius",
+   "degree": "5°39′"
+  },
+  {
+   "kind": "full",
+   "date": "2027-12-13 16:09 UT",
+   "sign": "gemini",
+   "degree": "21°25′"
+  },
+  {
+   "kind": "new",
+   "date": "2027-12-27 20:12 UT",
+   "sign": "capricorn",
+   "degree": "5°50′"
+  },
+  {
+   "kind": "full",
+   "date": "2028-01-12 04:03 UT",
+   "sign": "cancer",
+   "degree": "21°27′"
+  },
+  {
+   "kind": "new",
+   "date": "2028-01-26 15:13 UT",
+   "sign": "aquarius",
+   "degree": "6°11′"
+  },
+  {
+   "kind": "full",
+   "date": "2028-02-10 15:04 UT",
+   "sign": "leo",
+   "degree": "21°24′"
+  },
+  {
+   "kind": "new",
+   "date": "2028-02-25 10:38 UT",
+   "sign": "pisces",
+   "degree": "6°21′"
+  },
+  {
+   "kind": "full",
+   "date": "2028-03-11 01:06 UT",
+   "sign": "virgo",
+   "degree": "20°59′"
+  },
+  {
+   "kind": "new",
+   "date": "2028-03-26 04:31 UT",
+   "sign": "aries",
+   "degree": "6°03′"
+  },
+  {
+   "kind": "full",
+   "date": "2028-04-09 10:27 UT",
+   "sign": "libra",
+   "degree": "20°06′"
+  },
+  {
+   "kind": "new",
+   "date": "2028-04-24 19:47 UT",
+   "sign": "taurus",
+   "degree": "5°09′"
+  },
+  {
+   "kind": "full",
+   "date": "2028-05-08 19:49 UT",
+   "sign": "scorpio",
+   "degree": "18°44′"
+  },
+  {
+   "kind": "new",
+   "date": "2028-05-24 08:16 UT",
+   "sign": "gemini",
+   "degree": "3°41′"
+  },
+  {
+   "kind": "full",
+   "date": "2028-06-07 06:09 UT",
+   "sign": "sagittarius",
+   "degree": "17°02′"
+  },
+  {
+   "kind": "new",
+   "date": "2028-06-22 18:28 UT",
+   "sign": "cancer",
+   "degree": "1°51′"
+  },
+  {
+   "kind": "full",
+   "date": "2028-07-06 18:11 UT",
+   "sign": "capricorn",
+   "degree": "15°11′"
+  },
+  {
+   "kind": "new",
+   "date": "2028-07-22 03:02 UT",
+   "sign": "cancer",
+   "degree": "29°51′"
+  },
+  {
+   "kind": "full",
+   "date": "2028-08-05 08:10 UT",
+   "sign": "aquarius",
+   "degree": "13°26′"
+  },
+  {
+   "kind": "new",
+   "date": "2028-08-20 10:44 UT",
+   "sign": "leo",
+   "degree": "27°56′"
+  },
+  {
+   "kind": "full",
+   "date": "2028-09-03 23:48 UT",
+   "sign": "pisces",
+   "degree": "11°59′"
+  },
+  {
+   "kind": "new",
+   "date": "2028-09-18 18:24 UT",
+   "sign": "virgo",
+   "degree": "26°21′"
+  },
+  {
+   "kind": "full",
+   "date": "2028-10-03 16:25 UT",
+   "sign": "aries",
+   "degree": "10°59′"
+  },
+  {
+   "kind": "new",
+   "date": "2028-10-18 02:57 UT",
+   "sign": "libra",
+   "degree": "25°16′"
+  },
+  {
+   "kind": "full",
+   "date": "2028-11-02 09:17 UT",
+   "sign": "taurus",
+   "degree": "10°29′"
+  },
+  {
+   "kind": "new",
+   "date": "2028-11-16 13:18 UT",
+   "sign": "scorpio",
+   "degree": "24°43′"
+  },
+  {
+   "kind": "full",
+   "date": "2028-12-02 01:40 UT",
+   "sign": "gemini",
+   "degree": "10°24′"
+  },
+  {
+   "kind": "new",
+   "date": "2028-12-16 02:06 UT",
+   "sign": "sagittarius",
+   "degree": "24°39′"
+  },
+  {
+   "kind": "full",
+   "date": "2028-12-31 16:48 UT",
+   "sign": "cancer",
+   "degree": "10°33′"
+  },
+  {
+   "kind": "new",
+   "date": "2029-01-14 17:25 UT",
+   "sign": "capricorn",
+   "degree": "24°50′"
+  },
+  {
+   "kind": "full",
+   "date": "2029-01-30 06:04 UT",
+   "sign": "leo",
+   "degree": "10°38′"
+  },
+  {
+   "kind": "new",
+   "date": "2029-02-13 10:32 UT",
+   "sign": "aquarius",
+   "degree": "25°00′"
+  },
+  {
+   "kind": "full",
+   "date": "2029-02-28 17:10 UT",
+   "sign": "virgo",
+   "degree": "10°24′"
+  },
+  {
+   "kind": "new",
+   "date": "2029-03-15 04:19 UT",
+   "sign": "pisces",
+   "degree": "24°52′"
+  },
+  {
+   "kind": "full",
+   "date": "2029-03-30 02:26 UT",
+   "sign": "libra",
+   "degree": "9°40′"
+  },
+  {
+   "kind": "new",
+   "date": "2029-04-13 21:40 UT",
+   "sign": "aries",
+   "degree": "24°14′"
+  },
+  {
+   "kind": "full",
+   "date": "2029-04-28 10:37 UT",
+   "sign": "scorpio",
+   "degree": "8°26′"
+  },
+  {
+   "kind": "new",
+   "date": "2029-05-13 13:42 UT",
+   "sign": "taurus",
+   "degree": "23°05′"
+  },
+  {
+   "kind": "full",
+   "date": "2029-05-27 18:38 UT",
+   "sign": "sagittarius",
+   "degree": "6°45′"
+  },
+  {
+   "kind": "new",
+   "date": "2029-06-12 03:51 UT",
+   "sign": "gemini",
+   "degree": "21°29′"
+  },
+  {
+   "kind": "full",
+   "date": "2029-06-26 03:22 UT",
+   "sign": "capricorn",
+   "degree": "4°50′"
+  },
+  {
+   "kind": "new",
+   "date": "2029-07-11 15:51 UT",
+   "sign": "cancer",
+   "degree": "19°38′"
+  },
+  {
+   "kind": "full",
+   "date": "2029-07-25 13:36 UT",
+   "sign": "aquarius",
+   "degree": "2°54′"
+  },
+  {
+   "kind": "new",
+   "date": "2029-08-10 01:56 UT",
+   "sign": "leo",
+   "degree": "17°45′"
+  },
+  {
+   "kind": "full",
+   "date": "2029-08-24 01:51 UT",
+   "sign": "pisces",
+   "degree": "1°12′"
+  },
+  {
+   "kind": "new",
+   "date": "2029-09-08 10:44 UT",
+   "sign": "virgo",
+   "degree": "16°04′"
+  },
+  {
+   "kind": "full",
+   "date": "2029-09-22 16:29 UT",
+   "sign": "pisces",
+   "degree": "29°57′"
+  },
+  {
+   "kind": "new",
+   "date": "2029-10-07 19:15 UT",
+   "sign": "libra",
+   "degree": "14°48′"
+  },
+  {
+   "kind": "full",
+   "date": "2029-10-22 09:28 UT",
+   "sign": "aries",
+   "degree": "29°16′"
+  },
+  {
+   "kind": "new",
+   "date": "2029-11-06 04:24 UT",
+   "sign": "scorpio",
+   "degree": "14°02′"
+  },
+  {
+   "kind": "full",
+   "date": "2029-11-21 04:03 UT",
+   "sign": "taurus",
+   "degree": "29°07′"
+  },
+  {
+   "kind": "new",
+   "date": "2029-12-05 14:52 UT",
+   "sign": "sagittarius",
+   "degree": "13°45′"
+  },
+  {
+   "kind": "full",
+   "date": "2029-12-20 22:47 UT",
+   "sign": "gemini",
+   "degree": "29°21′"
+  },
+  {
+   "kind": "new",
+   "date": "2030-01-04 02:50 UT",
+   "sign": "capricorn",
+   "degree": "13°47′"
+  },
+  {
+   "kind": "full",
+   "date": "2030-01-19 15:54 UT",
+   "sign": "cancer",
+   "degree": "29°37′"
+  },
+  {
+   "kind": "new",
+   "date": "2030-02-02 16:08 UT",
+   "sign": "aquarius",
+   "degree": "13°51′"
+  },
+  {
+   "kind": "full",
+   "date": "2030-02-18 06:20 UT",
+   "sign": "leo",
+   "degree": "29°38′"
+  },
+  {
+   "kind": "new",
+   "date": "2030-03-04 06:35 UT",
+   "sign": "pisces",
+   "degree": "13°44′"
+  },
+  {
+   "kind": "full",
+   "date": "2030-03-19 17:57 UT",
+   "sign": "virgo",
+   "degree": "29°10′"
+  },
+  {
+   "kind": "new",
+   "date": "2030-04-02 22:03 UT",
+   "sign": "aries",
+   "degree": "13°12′"
+  },
+  {
+   "kind": "full",
+   "date": "2030-04-18 03:20 UT",
+   "sign": "libra",
+   "degree": "28°09′"
+  },
+  {
+   "kind": "new",
+   "date": "2030-05-02 14:12 UT",
+   "sign": "taurus",
+   "degree": "12°14′"
+  },
+  {
+   "kind": "full",
+   "date": "2030-05-17 11:19 UT",
+   "sign": "scorpio",
+   "degree": "26°37′"
+  },
+  {
+   "kind": "new",
+   "date": "2030-06-01 06:22 UT",
+   "sign": "gemini",
+   "degree": "10°50′"
+  },
+  {
+   "kind": "full",
+   "date": "2030-06-15 18:41 UT",
+   "sign": "sagittarius",
+   "degree": "24°43′"
+  },
+  {
+   "kind": "new",
+   "date": "2030-06-30 21:35 UT",
+   "sign": "cancer",
+   "degree": "9°09′"
+  },
+  {
+   "kind": "full",
+   "date": "2030-07-15 02:12 UT",
+   "sign": "capricorn",
+   "degree": "22°41′"
+  },
+  {
+   "kind": "new",
+   "date": "2030-07-30 11:11 UT",
+   "sign": "leo",
+   "degree": "7°21′"
+  },
+  {
+   "kind": "full",
+   "date": "2030-08-13 10:44 UT",
+   "sign": "aquarius",
+   "degree": "20°45′"
+  },
+  {
+   "kind": "new",
+   "date": "2030-08-28 23:07 UT",
+   "sign": "virgo",
+   "degree": "5°41′"
+  },
+  {
+   "kind": "full",
+   "date": "2030-09-11 21:18 UT",
+   "sign": "pisces",
+   "degree": "19°11′"
+  },
+  {
+   "kind": "new",
+   "date": "2030-09-27 09:55 UT",
+   "sign": "libra",
+   "degree": "4°21′"
+  },
+  {
+   "kind": "full",
+   "date": "2030-10-11 10:47 UT",
+   "sign": "aries",
+   "degree": "18°10′"
+  },
+  {
+   "kind": "new",
+   "date": "2030-10-26 20:17 UT",
+   "sign": "scorpio",
+   "degree": "3°27′"
+  },
+  {
+   "kind": "full",
+   "date": "2030-11-10 03:30 UT",
+   "sign": "taurus",
+   "degree": "17°46′"
+  },
+  {
+   "kind": "new",
+   "date": "2030-11-25 06:46 UT",
+   "sign": "sagittarius",
+   "degree": "3°02′"
+  },
+  {
+   "kind": "full",
+   "date": "2030-12-09 22:41 UT",
+   "sign": "gemini",
+   "degree": "17°54′"
+  },
+  {
+   "kind": "new",
+   "date": "2030-12-24 17:32 UT",
+   "sign": "capricorn",
+   "degree": "2°57′"
+  }
+ ],
+ "retrogrades": [
+  {
+   "body": "Mercury",
+   "retrograde": "2026-02-26 06:47 UT",
+   "sign": "pisces",
+   "degree": "22°33′",
+   "direct": "2026-03-20 19:36 UT",
+   "directSign": "pisces",
+   "directDegree": "8°29′"
+  },
+  {
+   "body": "Mercury",
+   "retrograde": "2026-06-29 17:37 UT",
+   "sign": "cancer",
+   "degree": "26°15′",
+   "direct": "2026-07-23 22:54 UT",
+   "directSign": "cancer",
+   "directDegree": "16°19′"
+  },
+  {
+   "body": "Mercury",
+   "retrograde": "2026-10-24 07:11 UT",
+   "sign": "scorpio",
+   "degree": "20°58′",
+   "direct": "2026-11-13 15:55 UT",
+   "directSign": "scorpio",
+   "directDegree": "5°02′"
+  },
+  {
+   "body": "Mercury",
+   "retrograde": "2027-02-09 17:35 UT",
+   "sign": "pisces",
+   "degree": "5°58′",
+   "direct": "2027-03-03 12:37 UT",
+   "directSign": "aquarius",
+   "directDegree": "20°55′"
+  },
+  {
+   "body": "Mercury",
+   "retrograde": "2027-06-10 18:19 UT",
+   "sign": "cancer",
+   "degree": "6°21′",
+   "direct": "2027-07-04 19:38 UT",
+   "directSign": "gemini",
+   "directDegree": "27°28′"
+  },
+  {
+   "body": "Mercury",
+   "retrograde": "2027-10-07 14:36 UT",
+   "sign": "scorpio",
+   "degree": "4°55′",
+   "direct": "2027-10-28 14:12 UT",
+   "directSign": "libra",
+   "directDegree": "19°18′"
+  },
+  {
+   "body": "Mercury",
+   "retrograde": "2028-01-24 11:02 UT",
+   "sign": "aquarius",
+   "degree": "19°41′",
+   "direct": "2028-02-14 12:42 UT",
+   "directSign": "aquarius",
+   "directDegree": "3°59′"
+  },
+  {
+   "body": "Mercury",
+   "retrograde": "2028-05-21 08:41 UT",
+   "sign": "gemini",
+   "degree": "16°18′",
+   "direct": "2028-06-14 06:05 UT",
+   "directSign": "gemini",
+   "directDegree": "7°45′"
+  },
+  {
+   "body": "Mercury",
+   "retrograde": "2028-09-19 16:27 UT",
+   "sign": "libra",
+   "degree": "18°35′",
+   "direct": "2028-10-11 10:30 UT",
+   "directSign": "libra",
+   "directDegree": "3°28′"
+  },
+  {
+   "body": "Mercury",
+   "retrograde": "2029-01-07 07:55 UT",
+   "sign": "aquarius",
+   "degree": "3°38′",
+   "direct": "2029-01-27 18:40 UT",
+   "directSign": "capricorn",
+   "directDegree": "17°32′"
+  },
+  {
+   "body": "Mercury",
+   "retrograde": "2029-05-01 23:11 UT",
+   "sign": "taurus",
+   "degree": "26°40′",
+   "direct": "2029-05-25 19:15 UT",
+   "directSign": "taurus",
+   "directDegree": "17°33′"
+  },
+  {
+   "body": "Mercury",
+   "retrograde": "2029-09-02 12:12 UT",
+   "sign": "libra",
+   "degree": "1°49′",
+   "direct": "2029-09-25 02:02 UT",
+   "directSign": "virgo",
+   "directDegree": "17°26′"
+  },
+  {
+   "body": "Mercury",
+   "retrograde": "2029-12-22 05:46 UT",
+   "sign": "capricorn",
+   "degree": "17°42′",
+   "direct": "2030-01-11 05:47 UT",
+   "directSign": "capricorn",
+   "directDegree": "1°26′"
+  },
+  {
+   "body": "Mercury",
+   "retrograde": "2030-04-13 02:29 UT",
+   "sign": "taurus",
+   "degree": "7°47′",
+   "direct": "2030-05-06 20:18 UT",
+   "directSign": "aries",
+   "directDegree": "27°26′"
+  },
+  {
+   "body": "Mercury",
+   "retrograde": "2030-08-16 01:21 UT",
+   "sign": "virgo",
+   "degree": "14°29′",
+   "direct": "2030-09-08 09:21 UT",
+   "directSign": "virgo",
+   "directDegree": "1°06′"
+  },
+  {
+   "body": "Mercury",
+   "retrograde": "2030-12-06 02:41 UT",
+   "sign": "capricorn",
+   "degree": "1°51′",
+   "direct": "2030-12-25 21:20 UT",
+   "directSign": "sagittarius",
+   "directDegree": "15°33′"
+  },
+  {
+   "body": "Venus",
+   "retrograde": "2026-10-03 07:09 UT",
+   "sign": "scorpio",
+   "degree": "8°29′",
+   "direct": "2026-11-14 00:21 UT",
+   "directSign": "libra",
+   "directDegree": "22°51′"
+  },
+  {
+   "body": "Venus",
+   "retrograde": "2028-05-10 23:01 UT",
+   "sign": "gemini",
+   "degree": "19°41′",
+   "direct": "2028-06-22 22:14 UT",
+   "directSign": "gemini",
+   "directDegree": "3°10′"
+  },
+  {
+   "body": "Venus",
+   "retrograde": "2029-12-16 23:48 UT",
+   "sign": "capricorn",
+   "degree": "24°01′",
+   "direct": "2030-01-26 21:34 UT",
+   "directSign": "capricorn",
+   "directDegree": "8°37′"
+  },
+  {
+   "body": "Mars",
+   "retrograde": "2027-01-10 13:00 UT",
+   "sign": "virgo",
+   "degree": "10°25′",
+   "direct": "2027-04-01 14:11 UT",
+   "directSign": "leo",
+   "directDegree": "20°55′"
+  },
+  {
+   "body": "Mars",
+   "retrograde": "2029-02-14 08:13 UT",
+   "sign": "libra",
+   "degree": "13°55′",
+   "direct": "2029-05-05 18:57 UT",
+   "directSign": "virgo",
+   "directDegree": "24°55′"
+  }
+ ],
+ "eclipses": [
+  {
+   "kind": "solar",
+   "type": "annular",
+   "date": "2026-02-17 12:11 UT",
+   "sign": "aquarius",
+   "degree": "28°50′"
+  },
+  {
+   "kind": "lunar",
+   "type": "total",
+   "date": "2026-03-03 11:33 UT",
+   "sign": "virgo",
+   "degree": "12°51′"
+  },
+  {
+   "kind": "solar",
+   "type": "total",
+   "date": "2026-08-12 17:45 UT",
+   "sign": "leo",
+   "degree": "20°02′"
+  },
+  {
+   "kind": "lunar",
+   "type": "partial",
+   "date": "2026-08-28 04:12 UT",
+   "sign": "pisces",
+   "degree": "4°51′"
+  },
+  {
+   "kind": "solar",
+   "type": "annular",
+   "date": "2027-02-06 15:59 UT",
+   "sign": "aquarius",
+   "degree": "17°37′"
+  },
+  {
+   "kind": "lunar",
+   "type": "penumbral",
+   "date": "2027-02-20 23:12 UT",
+   "sign": "virgo",
+   "degree": "1°58′"
+  },
+  {
+   "kind": "lunar",
+   "type": "penumbral",
+   "date": "2027-07-18 16:02 UT",
+   "sign": "capricorn",
+   "degree": "25°57′"
+  },
+  {
+   "kind": "solar",
+   "type": "total",
+   "date": "2027-08-02 10:06 UT",
+   "sign": "leo",
+   "degree": "9°55′"
+  },
+  {
+   "kind": "lunar",
+   "type": "penumbral",
+   "date": "2027-08-17 07:13 UT",
+   "sign": "aquarius",
+   "degree": "24°04′"
+  },
+  {
+   "kind": "lunar",
+   "type": "partial",
+   "date": "2028-01-12 04:13 UT",
+   "sign": "cancer",
+   "degree": "21°33′"
+  },
+  {
+   "kind": "solar",
+   "type": "annular",
+   "date": "2028-01-26 15:07 UT",
+   "sign": "aquarius",
+   "degree": "6°10′"
+  },
+  {
+   "kind": "lunar",
+   "type": "partial",
+   "date": "2028-07-06 18:19 UT",
+   "sign": "capricorn",
+   "degree": "15°15′"
+  },
+  {
+   "kind": "solar",
+   "type": "total",
+   "date": "2028-07-22 02:55 UT",
+   "sign": "cancer",
+   "degree": "29°50′"
+  },
+  {
+   "kind": "lunar",
+   "type": "total",
+   "date": "2028-12-31 16:51 UT",
+   "sign": "cancer",
+   "degree": "10°34′"
+  },
+  {
+   "kind": "solar",
+   "type": "partial",
+   "date": "2029-01-14 17:12 UT",
+   "sign": "capricorn",
+   "degree": "24°49′"
+  },
+  {
+   "kind": "solar",
+   "type": "partial",
+   "date": "2029-06-12 04:04 UT",
+   "sign": "gemini",
+   "degree": "21°29′"
+  },
+  {
+   "kind": "lunar",
+   "type": "total",
+   "date": "2029-06-26 03:22 UT",
+   "sign": "capricorn",
+   "degree": "4°49′"
+  },
+  {
+   "kind": "solar",
+   "type": "partial",
+   "date": "2029-07-11 15:36 UT",
+   "sign": "cancer",
+   "degree": "19°37′"
+  },
+  {
+   "kind": "solar",
+   "type": "partial",
+   "date": "2029-12-05 15:02 UT",
+   "sign": "sagittarius",
+   "degree": "13°45′"
+  },
+  {
+   "kind": "lunar",
+   "type": "total",
+   "date": "2029-12-20 22:41 UT",
+   "sign": "gemini",
+   "degree": "29°18′"
+  },
+  {
+   "kind": "solar",
+   "type": "annular",
+   "date": "2030-06-01 06:27 UT",
+   "sign": "gemini",
+   "degree": "10°50′"
+  },
+  {
+   "kind": "lunar",
+   "type": "partial",
+   "date": "2030-06-15 18:33 UT",
+   "sign": "sagittarius",
+   "degree": "24°38′"
+  },
+  {
+   "kind": "solar",
+   "type": "total",
+   "date": "2030-11-25 06:50 UT",
+   "sign": "sagittarius",
+   "degree": "3°02′"
+  },
+  {
+   "kind": "lunar",
+   "type": "penumbral",
+   "date": "2030-12-09 22:27 UT",
+   "sign": "gemini",
+   "degree": "17°47′"
+  }
+ ]
+}

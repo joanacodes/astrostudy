@@ -1,0 +1,962 @@
+{
+ "about": "Fixed stars: J2000 coordinates and visual magnitude from the Yale Bright Star Catalogue, 5th revised edition (D. Hoffleit and W. H. Warren Jr., 1991); tropical ecliptic longitude and latitude of date (true ecliptic and equinox) for 1 January of 1930, 2000, 2026 and 2050, precessed with astronomy-engine (proper motion left out: a few arcseconds a century for most of them). Star clusters (Praesepe, M22 Facies, M6 Aculeus, M7 Acumen) are not in the catalogue. contacts: for births from 1930 to 2009 (daily at 12:00 UT), about 1 person in N has the body within 1° of the star's longitude; for the Sun, the birthdays that give it in 1930, 1970 and 2009; for Saturn, the months it was within 1°.",
+ "generated": "2026-11-04",
+ "stars": {
+  "aldebaran": {
+   "bayer": "α Tau",
+   "catalogueName": "Aldebaran",
+   "HR": "1457",
+   "raJ2000": "04h 35m 55.2s",
+   "decJ2000": "+16° 30′ 33″",
+   "magnitudeV": "0.85",
+   "position2026": "10°09′ gemini",
+   "latitude": -5.5,
+   "position1930": "8°48′ gemini",
+   "position2000": "9°47′ gemini",
+   "position2050": "10°29′ gemini",
+   "lon2026": 70.154
+  },
+  "regulus": {
+   "bayer": "α Leo",
+   "catalogueName": "Regulus",
+   "HR": "3982",
+   "raJ2000": "10h 08m 22.3s",
+   "decJ2000": "+11° 58′ 02″",
+   "magnitudeV": "1.35",
+   "position2026": "0°11′ virgo",
+   "latitude": 0.5,
+   "position1930": "28°50′ leo",
+   "position2000": "29°49′ leo",
+   "position2050": "0°31′ virgo",
+   "lon2026": 150.194
+  },
+  "antares": {
+   "bayer": "α Sco",
+   "catalogueName": "Antares",
+   "HR": "6134",
+   "raJ2000": "16h 29m 24.4s",
+   "decJ2000": "-26° 25′ 55″",
+   "magnitudeV": "0.96",
+   "position2026": "10°07′ sagittarius",
+   "latitude": -4.6,
+   "position1930": "8°46′ sagittarius",
+   "position2000": "9°45′ sagittarius",
+   "position2050": "10°27′ sagittarius",
+   "lon2026": 250.127
+  },
+  "fomalhaut": {
+   "bayer": "α PsA",
+   "catalogueName": "Fomalhaut",
+   "HR": "8728",
+   "raJ2000": "22h 57m 39.1s",
+   "decJ2000": "-29° 37′ 20″",
+   "magnitudeV": "1.16",
+   "position2026": "4°13′ pisces",
+   "latitude": -21.1,
+   "position1930": "2°52′ pisces",
+   "position2000": "3°51′ pisces",
+   "position2050": "4°33′ pisces",
+   "lon2026": 334.226
+  },
+  "algol": {
+   "bayer": "β Per",
+   "catalogueName": "Algol",
+   "HR": "936",
+   "raJ2000": "03h 08m 10.1s",
+   "decJ2000": "+40° 57′ 20″",
+   "magnitudeV": "2.12",
+   "position2026": "26°31′ taurus",
+   "latitude": 22.4,
+   "position1930": "25°11′ taurus",
+   "position2000": "26°09′ taurus",
+   "position2050": "26°52′ taurus",
+   "lon2026": 56.532
+  },
+  "alcyone-and-the-pleiades": {
+   "bayer": "η Tau",
+   "catalogueName": "Alcyone",
+   "HR": "1165",
+   "raJ2000": "03h 47m 29.1s",
+   "decJ2000": "+24° 06′ 18″",
+   "magnitudeV": "2.87",
+   "position2026": "0°21′ gemini",
+   "latitude": 4.1,
+   "position1930": "29°00′ taurus",
+   "position2000": "29°59′ taurus",
+   "position2050": "0°41′ gemini",
+   "lon2026": 60.357
+  },
+  "capella": {
+   "bayer": "α Aur",
+   "catalogueName": "Capella",
+   "HR": "1708",
+   "raJ2000": "05h 16m 41.4s",
+   "decJ2000": "+45° 59′ 53″",
+   "magnitudeV": "0.08",
+   "position2026": "22°13′ gemini",
+   "latitude": 22.9,
+   "position1930": "20°52′ gemini",
+   "position2000": "21°51′ gemini",
+   "position2050": "22°33′ gemini",
+   "lon2026": 82.223
+  },
+  "sirius": {
+   "bayer": "α CMa",
+   "catalogueName": "Sirius",
+   "HR": "2491",
+   "raJ2000": "06h 45m 08.9s",
+   "decJ2000": "-16° 42′ 58″",
+   "magnitudeV": "-1.46",
+   "position2026": "14°26′ cancer",
+   "latitude": -39.6,
+   "position1930": "13°06′ cancer",
+   "position2000": "14°04′ cancer",
+   "position2050": "14°46′ cancer",
+   "lon2026": 104.445
+  },
+  "procyon": {
+   "bayer": "α CMi",
+   "catalogueName": "Procyon",
+   "HR": "2943",
+   "raJ2000": "07h 39m 18.1s",
+   "decJ2000": "+05° 13′ 30″",
+   "magnitudeV": "0.38",
+   "position2026": "26°08′ cancer",
+   "latitude": -16,
+   "position1930": "24°48′ cancer",
+   "position2000": "25°46′ cancer",
+   "position2050": "26°29′ cancer",
+   "lon2026": 116.15
+  },
+  "alkaid": {
+   "bayer": "η UMa",
+   "catalogueName": "Alkaid",
+   "HR": "5191",
+   "raJ2000": "13h 47m 32.4s",
+   "decJ2000": "+49° 18′ 48″",
+   "magnitudeV": "1.86",
+   "position2026": "27°18′ virgo",
+   "latitude": 54.4,
+   "position1930": "25°56′ virgo",
+   "position2000": "26°55′ virgo",
+   "position2050": "27°38′ virgo",
+   "lon2026": 177.302
+  },
+  "algorab": {
+   "bayer": "δ Crv",
+   "catalogueName": "Algorab",
+   "HR": "4757",
+   "raJ2000": "12h 29m 51.9s",
+   "decJ2000": "-16° 30′ 56″",
+   "magnitudeV": "2.95",
+   "position2026": "13°48′ libra",
+   "latitude": -12.2,
+   "position1930": "12°28′ libra",
+   "position2000": "13°26′ libra",
+   "position2050": "14°09′ libra",
+   "lon2026": 193.816
+  },
+  "spica": {
+   "bayer": "α Vir",
+   "catalogueName": "Spica",
+   "HR": "5056",
+   "raJ2000": "13h 25m 11.6s",
+   "decJ2000": "-11° 09′ 41″",
+   "magnitudeV": "0.98",
+   "position2026": "24°12′ libra",
+   "latitude": -2.1,
+   "position1930": "22°51′ libra",
+   "position2000": "23°50′ libra",
+   "position2050": "24°32′ libra",
+   "lon2026": 204.206
+  },
+  "arcturus": {
+   "bayer": "α Boo",
+   "catalogueName": "Arcturus",
+   "HR": "5340",
+   "raJ2000": "14h 15m 39.7s",
+   "decJ2000": "+19° 10′ 57″",
+   "magnitudeV": "-0.04",
+   "position2026": "24°36′ libra",
+   "latitude": 30.7,
+   "position1930": "23°14′ libra",
+   "position2000": "24°13′ libra",
+   "position2050": "24°56′ libra",
+   "lon2026": 204.6
+  },
+  "alphecca": {
+   "bayer": "α CrB",
+   "catalogueName": "Alphecca",
+   "HR": "5793",
+   "raJ2000": "15h 34m 41.3s",
+   "decJ2000": "+26° 42′ 53″",
+   "magnitudeV": "2.23",
+   "position2026": "12°39′ scorpio",
+   "latitude": 44.3,
+   "position1930": "11°18′ scorpio",
+   "position2000": "12°17′ scorpio",
+   "position2050": "13°00′ scorpio",
+   "lon2026": 222.663
+  },
+  "vega": {
+   "bayer": "α Lyr",
+   "catalogueName": "Vega",
+   "HR": "7001",
+   "raJ2000": "18h 36m 56.3s",
+   "decJ2000": "+38° 47′ 01″",
+   "magnitudeV": "0.03",
+   "position2026": "15°40′ capricorn",
+   "latitude": 61.7,
+   "position1930": "14°20′ capricorn",
+   "position2000": "15°18′ capricorn",
+   "position2050": "16°00′ capricorn",
+   "lon2026": 285.679
+  },
+  "deneb-algedi": {
+   "bayer": "δ Cap",
+   "catalogueName": "Deneb Algedi",
+   "HR": "8322",
+   "raJ2000": "21h 47m 02.4s",
+   "decJ2000": "-16° 07′ 38″",
+   "magnitudeV": "2.87",
+   "position2026": "23°54′ aquarius",
+   "latitude": -2.6,
+   "position1930": "22°33′ aquarius",
+   "position2000": "23°32′ aquarius",
+   "position2050": "24°14′ aquarius",
+   "lon2026": 323.907
+  },
+  "betelgeuse": {
+   "bayer": "α Ori",
+   "catalogueName": "Betelgeuse",
+   "HR": "2061",
+   "raJ2000": "05h 55m 10.3s",
+   "decJ2000": "+07° 24′ 25″",
+   "magnitudeV": "0.50",
+   "position2026": "29°07′ gemini",
+   "latitude": -16,
+   "position1930": "27°46′ gemini",
+   "position2000": "28°45′ gemini",
+   "position2050": "29°27′ gemini",
+   "lon2026": 89.119
+  },
+  "rigel": {
+   "bayer": "β Ori",
+   "catalogueName": "Rigel",
+   "HR": "1713",
+   "raJ2000": "05h 14m 32.3s",
+   "decJ2000": "-08° 12′ 06″",
+   "magnitudeV": "0.12",
+   "position2026": "17°11′ gemini",
+   "latitude": -31.1,
+   "position1930": "15°50′ gemini",
+   "position2000": "16°49′ gemini",
+   "position2050": "17°31′ gemini",
+   "lon2026": 77.195
+  },
+  "bellatrix": {
+   "bayer": "γ Ori",
+   "catalogueName": "Bellatrix",
+   "HR": "1790",
+   "raJ2000": "05h 25m 07.9s",
+   "decJ2000": "+06° 20′ 59″",
+   "magnitudeV": "1.64",
+   "position2026": "21°18′ gemini",
+   "latitude": -16.8,
+   "position1930": "19°57′ gemini",
+   "position2000": "20°56′ gemini",
+   "position2050": "21°38′ gemini",
+   "lon2026": 81.311
+  },
+  "orions-belt:mintaka": {
+   "bayer": "δ Ori",
+   "catalogueName": "Mintaka",
+   "HR": "1852",
+   "raJ2000": "05h 32m 00.4s",
+   "decJ2000": "-00° 17′ 57″",
+   "magnitudeV": "2.23",
+   "position2026": "22°43′ gemini",
+   "latitude": -23.5,
+   "position1930": "21°22′ gemini",
+   "position2000": "22°21′ gemini",
+   "position2050": "23°03′ gemini",
+   "lon2026": 82.727
+  },
+  "orions-belt:alnilam": {
+   "bayer": "ε Ori",
+   "catalogueName": "Alnilam",
+   "HR": "1903",
+   "raJ2000": "05h 36m 12.8s",
+   "decJ2000": "-01° 12′ 07″",
+   "magnitudeV": "1.70",
+   "position2026": "23°49′ gemini",
+   "latitude": -24.5,
+   "position1930": "22°28′ gemini",
+   "position2000": "23°27′ gemini",
+   "position2050": "24°09′ gemini",
+   "lon2026": 83.828
+  },
+  "orions-belt:alnitak": {
+   "bayer": "ζ Ori",
+   "catalogueName": "Alnitak",
+   "HR": "1948",
+   "raJ2000": "05h 40m 45.5s",
+   "decJ2000": "-01° 56′ 34″",
+   "magnitudeV": "2.05",
+   "position2026": "25°02′ gemini",
+   "latitude": -25.3,
+   "position1930": "23°42′ gemini",
+   "position2000": "24°40′ gemini",
+   "position2050": "25°23′ gemini",
+   "lon2026": 85.046
+  },
+  "pollux": {
+   "bayer": "β Gem",
+   "catalogueName": "Pollux",
+   "HR": "2990",
+   "raJ2000": "07h 45m 18.9s",
+   "decJ2000": "+28° 01′ 34″",
+   "magnitudeV": "1.14",
+   "position2026": "23°34′ cancer",
+   "latitude": 6.7,
+   "position1930": "22°14′ cancer",
+   "position2000": "23°12′ cancer",
+   "position2050": "23°55′ cancer",
+   "lon2026": 113.58
+  },
+  "castor": {
+   "bayer": "α Gem",
+   "catalogueName": "Castor",
+   "HR": "2891",
+   "raJ2000": "07h 34m 36.0s",
+   "decJ2000": "+31° 53′ 18″",
+   "magnitudeV": "1.98",
+   "position2026": "20°36′ cancer",
+   "latitude": 10.1,
+   "position1930": "19°15′ cancer",
+   "position2000": "20°14′ cancer",
+   "position2050": "20°56′ cancer",
+   "lon2026": 110.606
+  },
+  "acubens": {
+   "bayer": "α Cnc",
+   "catalogueName": "Acubens",
+   "HR": "3572",
+   "raJ2000": "08h 58m 29.2s",
+   "decJ2000": "+11° 51′ 28″",
+   "magnitudeV": "4.25",
+   "position2026": "14°00′ leo",
+   "latitude": -5.1,
+   "position1930": "12°39′ leo",
+   "position2000": "13°38′ leo",
+   "position2050": "14°20′ leo",
+   "lon2026": 134.006
+  },
+  "polaris": {
+   "bayer": "α UMi",
+   "catalogueName": "Polaris",
+   "HR": "424",
+   "raJ2000": "02h 31m 48.7s",
+   "decJ2000": "+89° 15′ 51″",
+   "magnitudeV": "2.02",
+   "position2026": "28°55′ gemini",
+   "latitude": 66.1,
+   "position1930": "27°35′ gemini",
+   "position2000": "28°33′ gemini",
+   "position2050": "29°16′ gemini",
+   "lon2026": 88.933
+  },
+  "canopus": {
+   "bayer": "α Car",
+   "catalogueName": "Canopus",
+   "HR": "2326",
+   "raJ2000": "06h 23m 57.1s",
+   "decJ2000": "-52° 41′ 45″",
+   "magnitudeV": "-0.72",
+   "position2026": "15°19′ cancer",
+   "latitude": -75.8,
+   "position1930": "13°59′ cancer",
+   "position2000": "14°57′ cancer",
+   "position2050": "15°39′ cancer",
+   "lon2026": 105.321
+  },
+  "achernar": {
+   "bayer": "α Eri",
+   "catalogueName": "Achernar",
+   "HR": "472",
+   "raJ2000": "01h 37m 42.9s",
+   "decJ2000": "-57° 14′ 12″",
+   "magnitudeV": "0.46",
+   "position2026": "15°40′ pisces",
+   "latitude": -59.4,
+   "position1930": "14°18′ pisces",
+   "position2000": "15°18′ pisces",
+   "position2050": "16°01′ pisces",
+   "lon2026": 345.682
+  },
+  "altair": {
+   "bayer": "α Aql",
+   "catalogueName": "Altair",
+   "HR": "7557",
+   "raJ2000": "19h 50m 47.0s",
+   "decJ2000": "+08° 52′ 06″",
+   "magnitudeV": "0.77",
+   "position2026": "2°08′ aquarius",
+   "latitude": 29.3,
+   "position1930": "0°47′ aquarius",
+   "position2000": "1°46′ aquarius",
+   "position2050": "2°28′ aquarius",
+   "lon2026": 302.14
+  },
+  "deneb-adige": {
+   "bayer": "α Cyg",
+   "catalogueName": "Deneb",
+   "HR": "7924",
+   "raJ2000": "20h 41m 25.9s",
+   "decJ2000": "+45° 16′ 49″",
+   "magnitudeV": "1.25",
+   "position2026": "5°41′ pisces",
+   "latitude": 59.9,
+   "position1930": "4°21′ pisces",
+   "position2000": "5°19′ pisces",
+   "position2050": "6°01′ pisces",
+   "lon2026": 335.688
+  },
+  "markab": {
+   "bayer": "α Peg",
+   "catalogueName": "Markab",
+   "HR": "8781",
+   "raJ2000": "23h 04m 45.7s",
+   "decJ2000": "+15° 12′ 19″",
+   "magnitudeV": "2.49",
+   "position2026": "23°50′ pisces",
+   "latitude": 19.4,
+   "position1930": "22°30′ pisces",
+   "position2000": "23°28′ pisces",
+   "position2050": "24°11′ pisces",
+   "lon2026": 353.849
+  },
+  "scheat": {
+   "bayer": "β Peg",
+   "catalogueName": "Scheat",
+   "HR": "8775",
+   "raJ2000": "23h 03m 46.5s",
+   "decJ2000": "+28° 04′ 58″",
+   "magnitudeV": "2.42",
+   "position2026": "29°44′ pisces",
+   "latitude": 31.1,
+   "position1930": "28°23′ pisces",
+   "position2000": "29°22′ pisces",
+   "position2050": "0°04′ aries",
+   "lon2026": 359.737
+  },
+  "alpheratz": {
+   "bayer": "α And",
+   "catalogueName": "Alpheratz",
+   "HR": "15",
+   "raJ2000": "00h 08m 23.3s",
+   "decJ2000": "+29° 05′ 26″",
+   "magnitudeV": "2.06",
+   "position2026": "14°40′ aries",
+   "latitude": 25.7,
+   "position1930": "13°19′ aries",
+   "position2000": "14°18′ aries",
+   "position2050": "15°00′ aries",
+   "lon2026": 14.672
+  },
+  "mirach": {
+   "bayer": "β And",
+   "catalogueName": "Mirach",
+   "HR": "337",
+   "raJ2000": "01h 09m 43.9s",
+   "decJ2000": "+35° 37′ 14″",
+   "magnitudeV": "2.06",
+   "position2026": "0°46′ taurus",
+   "latitude": 25.9,
+   "position1930": "29°25′ aries",
+   "position2000": "0°24′ taurus",
+   "position2050": "1°06′ taurus",
+   "lon2026": 30.769
+  },
+  "menkar": {
+   "bayer": "α Cet",
+   "catalogueName": "Menkar",
+   "HR": "911",
+   "raJ2000": "03h 02m 16.8s",
+   "decJ2000": "+04° 05′ 23″",
+   "magnitudeV": "2.53",
+   "position2026": "14°41′ taurus",
+   "latitude": -12.6,
+   "position1930": "13°20′ taurus",
+   "position2000": "14°18′ taurus",
+   "position2050": "15°01′ taurus",
+   "lon2026": 44.686
+  },
+  "hamal": {
+   "bayer": "α Ari",
+   "catalogueName": "Hamal",
+   "HR": "617",
+   "raJ2000": "02h 07m 10.4s",
+   "decJ2000": "+23° 27′ 45″",
+   "magnitudeV": "2.00",
+   "position2026": "8°01′ taurus",
+   "latitude": 10,
+   "position1930": "6°40′ taurus",
+   "position2000": "7°39′ taurus",
+   "position2050": "8°21′ taurus",
+   "lon2026": 38.027
+  },
+  "el-nath": {
+   "bayer": "β Tau",
+   "catalogueName": "Elnath",
+   "HR": "1791",
+   "raJ2000": "05h 26m 17.5s",
+   "decJ2000": "+28° 36′ 27″",
+   "magnitudeV": "1.65",
+   "position2026": "22°56′ gemini",
+   "latitude": 5.4,
+   "position1930": "21°35′ gemini",
+   "position2000": "22°34′ gemini",
+   "position2050": "23°16′ gemini",
+   "lon2026": 82.94
+  },
+  "menkalinan": {
+   "bayer": "β Aur",
+   "catalogueName": "Menkalinan",
+   "HR": "2088",
+   "raJ2000": "05h 59m 31.7s",
+   "decJ2000": "+44° 56′ 51″",
+   "magnitudeV": "1.90",
+   "position2026": "0°16′ cancer",
+   "latitude": 21.5,
+   "position1930": "28°55′ gemini",
+   "position2000": "29°54′ gemini",
+   "position2050": "0°36′ cancer",
+   "lon2026": 90.275
+  },
+  "algenib": {
+   "bayer": "γ Peg",
+   "catalogueName": "Algenib",
+   "HR": "39",
+   "raJ2000": "00h 13m 14.2s",
+   "decJ2000": "+15° 11′ 01″",
+   "magnitudeV": "2.83",
+   "position2026": "9°31′ aries",
+   "latitude": 12.6,
+   "position1930": "8°10′ aries",
+   "position2000": "9°09′ aries",
+   "position2050": "9°51′ aries",
+   "lon2026": 9.52
+  },
+  "zubenelgenubi": {
+   "bayer": "α² Lib",
+   "catalogueName": "Zubenelgenubi",
+   "HR": "5531",
+   "raJ2000": "14h 50m 52.7s",
+   "decJ2000": "-16° 02′ 30″",
+   "magnitudeV": "2.75",
+   "position2026": "15°26′ scorpio",
+   "latitude": 0.3,
+   "position1930": "14°06′ scorpio",
+   "position2000": "15°04′ scorpio",
+   "position2050": "15°47′ scorpio",
+   "lon2026": 225.447
+  },
+  "zubeneschamali": {
+   "bayer": "β Lib",
+   "catalogueName": "Zubeneschamali",
+   "HR": "5685",
+   "raJ2000": "15h 17m 00.4s",
+   "decJ2000": "-09° 22′ 59″",
+   "magnitudeV": "2.61",
+   "position2026": "19°44′ scorpio",
+   "latitude": 8.5,
+   "position1930": "18°23′ scorpio",
+   "position2000": "19°22′ scorpio",
+   "position2050": "20°04′ scorpio",
+   "lon2026": 229.737
+  },
+  "vindemiatrix": {
+   "bayer": "ε Vir",
+   "catalogueName": "Vindemiatrix",
+   "HR": "4932",
+   "raJ2000": "13h 02m 10.6s",
+   "decJ2000": "+10° 57′ 33″",
+   "magnitudeV": "2.83",
+   "position2026": "10°18′ libra",
+   "latitude": 16.2,
+   "position1930": "8°57′ libra",
+   "position2000": "9°56′ libra",
+   "position2050": "10°38′ libra",
+   "lon2026": 190.306
+  },
+  "denebola": {
+   "bayer": "β Leo",
+   "catalogueName": "Denebola",
+   "HR": "4534",
+   "raJ2000": "11h 49m 03.6s",
+   "decJ2000": "+14° 34′ 19″",
+   "magnitudeV": "2.14",
+   "position2026": "21°58′ virgo",
+   "latitude": 12.3,
+   "position1930": "20°38′ virgo",
+   "position2000": "21°36′ virgo",
+   "position2050": "22°19′ virgo",
+   "lon2026": 171.983
+  },
+  "sadalsuud": {
+   "bayer": "β Aqr",
+   "catalogueName": "Sadalsuud",
+   "HR": "8232",
+   "raJ2000": "21h 31m 33.5s",
+   "decJ2000": "-05° 34′ 16″",
+   "magnitudeV": "2.91",
+   "position2026": "23°45′ aquarius",
+   "latitude": 8.6,
+   "position1930": "22°24′ aquarius",
+   "position2000": "23°23′ aquarius",
+   "position2050": "24°05′ aquarius",
+   "lon2026": 323.759
+  },
+  "sadalmelik": {
+   "bayer": "α Aqr",
+   "catalogueName": "Sadalmelik",
+   "HR": "8414",
+   "raJ2000": "22h 05m 47.0s",
+   "decJ2000": "-00° 19′ 11″",
+   "magnitudeV": "2.96",
+   "position2026": "3°42′ pisces",
+   "latitude": 10.7,
+   "position1930": "2°22′ pisces",
+   "position2000": "3°20′ pisces",
+   "position2050": "4°03′ pisces",
+   "lon2026": 333.717
+  },
+  "rasalhague": {
+   "bayer": "α Oph",
+   "catalogueName": "Rasalhague",
+   "HR": "6556",
+   "raJ2000": "17h 34m 56.1s",
+   "decJ2000": "+12° 33′ 36″",
+   "magnitudeV": "2.08",
+   "position2026": "22°48′ sagittarius",
+   "latitude": 35.8,
+   "position1930": "21°28′ sagittarius",
+   "position2000": "22°26′ sagittarius",
+   "position2050": "23°09′ sagittarius",
+   "lon2026": 262.814
+  },
+  "ras-algethi": {
+   "bayer": "α¹ Her",
+   "catalogueName": "Rasalgethi",
+   "HR": "6406",
+   "raJ2000": "17h 14m 38.9s",
+   "decJ2000": "+14° 23′ 25″",
+   "magnitudeV": "3.48",
+   "position2026": "16°31′ sagittarius",
+   "latitude": 37.3,
+   "position1930": "15°10′ sagittarius",
+   "position2000": "16°08′ sagittarius",
+   "position2050": "16°51′ sagittarius",
+   "lon2026": 256.517
+  },
+  "unukalhai": {
+   "bayer": "α Ser",
+   "catalogueName": "Unukalhai",
+   "HR": "5854",
+   "raJ2000": "15h 44m 16.1s",
+   "decJ2000": "+06° 25′ 32″",
+   "magnitudeV": "2.65",
+   "position2026": "22°26′ scorpio",
+   "latitude": 25.5,
+   "position1930": "21°05′ scorpio",
+   "position2000": "22°04′ scorpio",
+   "position2050": "22°46′ scorpio",
+   "lon2026": 232.441
+  },
+  "shaula": {
+   "bayer": "λ Sco",
+   "catalogueName": "Shaula",
+   "HR": "6527",
+   "raJ2000": "17h 33m 36.5s",
+   "decJ2000": "-37° 06′ 14″",
+   "magnitudeV": "1.63",
+   "position2026": "24°57′ sagittarius",
+   "latitude": -13.8,
+   "position1930": "23°36′ sagittarius",
+   "position2000": "24°34′ sagittarius",
+   "position2050": "25°17′ sagittarius",
+   "lon2026": 264.95
+  },
+  "lesath": {
+   "bayer": "υ Sco",
+   "catalogueName": "Lesath",
+   "HR": "6508",
+   "raJ2000": "17h 30m 45.8s",
+   "decJ2000": "-37° 17′ 45″",
+   "magnitudeV": "2.69",
+   "position2026": "24°22′ sagittarius",
+   "latitude": -14,
+   "position1930": "23°01′ sagittarius",
+   "position2000": "24°00′ sagittarius",
+   "position2050": "24°42′ sagittarius",
+   "lon2026": 264.377
+  },
+  "sabik": {
+   "bayer": "η Oph",
+   "catalogueName": "Sabik",
+   "HR": "6378",
+   "raJ2000": "17h 10m 22.7s",
+   "decJ2000": "-15° 43′ 29″",
+   "magnitudeV": "2.43",
+   "position2026": "18°20′ sagittarius",
+   "latitude": 7.2,
+   "position1930": "16°59′ sagittarius",
+   "position2000": "17°57′ sagittarius",
+   "position2050": "18°40′ sagittarius",
+   "lon2026": 258.334
+  },
+  "mira": {
+   "bayer": "ο Cet",
+   "catalogueName": "Mira",
+   "HR": "681",
+   "raJ2000": "02h 19m 20.7s",
+   "decJ2000": "-02° 58′ 39″",
+   "magnitudeV": "3.04",
+   "position2026": "1°53′ taurus",
+   "latitude": -15.9,
+   "position1930": "0°32′ taurus",
+   "position2000": "1°31′ taurus",
+   "position2050": "2°13′ taurus",
+   "lon2026": 31.887
+  }
+ },
+ "contacts": {
+  "sun-conjunct-regulus": {
+   "orb": 1,
+   "oneIn": 176,
+   "birthdays": [
+    "1930: 08-22 to 08-23",
+    "1970: 08-22 to 08-23",
+    "2009: 08-22 to 08-23"
+   ]
+  },
+  "moon-conjunct-regulus": {
+   "orb": 1,
+   "oneIn": 179
+  },
+  "venus-conjunct-regulus": {
+   "orb": 1,
+   "oneIn": 146
+  },
+  "mars-conjunct-regulus": {
+   "orb": 1,
+   "oneIn": 161
+  },
+  "saturn-conjunct-regulus": {
+   "orb": 1,
+   "oneIn": 151,
+   "periods": [
+    [
+     "1948-09",
+     "1949-05"
+    ],
+    [
+     "1977-10",
+     "1978-07"
+    ],
+    [
+     "2007-08",
+     "2007-09"
+    ]
+   ]
+  },
+  "sun-conjunct-aldebaran": {
+   "orb": 1,
+   "oneIn": 176,
+   "birthdays": [
+    "1930: 05-30 to 05-31",
+    "1970: 05-30 to 05-31",
+    "2009: 05-30 to 05-31"
+   ]
+  },
+  "moon-conjunct-aldebaran": {
+   "orb": 1,
+   "oneIn": 178
+  },
+  "venus-conjunct-aldebaran": {
+   "orb": 1,
+   "oneIn": 187
+  },
+  "mars-conjunct-aldebaran": {
+   "orb": 1,
+   "oneIn": 181
+  },
+  "saturn-conjunct-aldebaran": {
+   "orb": 1,
+   "oneIn": 186,
+   "periods": [
+    [
+     "1942-07",
+     "1943-04"
+    ],
+    [
+     "1972-05",
+     "1972-06"
+    ],
+    [
+     "2001-06",
+     "2002-04"
+    ]
+   ]
+  },
+  "sun-conjunct-antares": {
+   "orb": 1,
+   "oneIn": 185,
+   "birthdays": [
+    "1930: 12-01 to 12-02",
+    "1970: 12-01 to 12-02",
+    "2009: 12-01 to 12-02"
+   ]
+  },
+  "moon-conjunct-antares": {
+   "orb": 1,
+   "oneIn": 171
+  },
+  "venus-conjunct-antares": {
+   "orb": 1,
+   "oneIn": 212
+  },
+  "mars-conjunct-antares": {
+   "orb": 1,
+   "oneIn": 210
+  },
+  "saturn-conjunct-antares": {
+   "orb": 1,
+   "oneIn": 163,
+   "periods": [
+    [
+     "1956-12",
+     "1957-10"
+    ],
+    [
+     "1986-02",
+     "1986-11"
+    ]
+   ]
+  },
+  "sun-conjunct-fomalhaut": {
+   "orb": 1,
+   "oneIn": 183,
+   "birthdays": [
+    "1930: 02-21 to 02-22",
+    "1970: 02-21 to 02-22",
+    "2009: 02-21 to 02-22"
+   ]
+  },
+  "moon-conjunct-fomalhaut": {
+   "orb": 1,
+   "oneIn": 184
+  },
+  "venus-conjunct-fomalhaut": {
+   "orb": 1,
+   "oneIn": 216
+  },
+  "mars-conjunct-fomalhaut": {
+   "orb": 1,
+   "oneIn": 210
+  },
+  "saturn-conjunct-fomalhaut": {
+   "orb": 1,
+   "oneIn": 183,
+   "periods": [
+    [
+     "1935-03",
+     "1935-11"
+    ],
+    [
+     "1964-04",
+     "1965-01"
+    ],
+    [
+     "1994-02",
+     "1994-03"
+    ]
+   ]
+  },
+  "sun-conjunct-algol": {
+   "orb": 1,
+   "oneIn": 176,
+   "birthdays": [
+    "1930: 05-16 to 05-17",
+    "1970: 05-16 to 05-17",
+    "2009: 05-16 to 05-17"
+   ]
+  },
+  "moon-conjunct-algol": {
+   "orb": 1,
+   "oneIn": 186
+  },
+  "venus-conjunct-algol": {
+   "orb": 1,
+   "oneIn": 212
+  },
+  "mars-conjunct-algol": {
+   "orb": 1,
+   "oneIn": 207
+  },
+  "saturn-conjunct-algol": {
+   "orb": 1,
+   "oneIn": 191,
+   "periods": [
+    [
+     "1941-06",
+     "1942-04"
+    ],
+    [
+     "1971-05",
+     "1971-05"
+    ],
+    [
+     "2000-06",
+     "2001-03"
+    ]
+   ]
+  },
+  "sun-conjunct-spica": {
+   "orb": 1,
+   "oneIn": 181,
+   "birthdays": [
+    "1930: 10-16 to 10-17",
+    "1970: 10-16 to 10-17",
+    "2009: 10-16 to 10-17"
+   ]
+  },
+  "moon-conjunct-spica": {
+   "orb": 1,
+   "oneIn": 187
+  },
+  "venus-conjunct-spica": {
+   "orb": 1,
+   "oneIn": 218
+  },
+  "mars-conjunct-spica": {
+   "orb": 1,
+   "oneIn": 155
+  },
+  "saturn-conjunct-spica": {
+   "orb": 1,
+   "oneIn": 332,
+   "periods": [
+    [
+     "1952-11",
+     "1953-08"
+    ],
+    [
+     "1982-09",
+     "1982-10"
+    ]
+   ]
+  }
+ }
+}

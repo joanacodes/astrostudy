@@ -14,7 +14,7 @@ h1: "Comment vous aimez, <em>côte à côte.</em>"
 lede: "Pour les couples à tous les stades — les premiers mois, les longues années, la mauvaise passe. On regarde ce qui vous attire, ce qui vous rassure de part et d’autre, comment vous vous disputez, et comment vous vous retrouvez."
 facts:
   - { k: "Pour", v: "Deux adultes, 18 ans et plus" }
-  - { k: "Il me faut", v: "Les deux dates et lieux de naissance — et les heures, si vous les connaissez" }
+  - { k: "Il me faut", v: "Les deux dates, heures et lieux de naissance" }
   - { k: "Vous recevez", v: "Une lecture privée, en ligne, sur vous deux, sous une semaine, par e-mail et en PDF", param: "format" }
   - { k: "Formules", v: "Lecture complète, ou lecture complète + consultation" }
   - { k: "Tarif", v: "", param: "priceSynastry" }
@@ -64,7 +64,7 @@ faq:
   - q: "Est-ce seulement pour les couples amoureux ?"
     a: "Celle-ci, oui. Pour les amis, les collègues ou la famille, il existe une lecture faite pour chaque lien — [amis](/synastry/friends/), [collègues](/synastry/coworkers/), [famille](/synastry/family/) — parce que les questions ne sont pas les mêmes."
   - q: "Faut-il connaître nos deux heures de naissance ?"
-    a: "Ça aide, mais non. Sans les heures, je laisse les maisons de côté, et je vous le dis. Les contacts qui comptent le plus dans un couple se lisent toujours clairement."
+    a: "Oui. Sans les deux heures, les maisons restent inconnues, et je ne lis pas une synastrie sans elles. [Voici où chercher une heure de naissance](/blog/unknown-birth-time/#retrouver-votre-heure)."
 
 closing:
   kicker: "Pour vous deux"

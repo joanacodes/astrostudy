@@ -1,0 +1,66 @@
+{
+ "about": "Minutes of clock time each sign takes to rise over the eastern horizon at London (51.5°N), Paris (48.9°N) and New York (40.7°N): the difference of the oblique ascensions of its first and last degree (obliquity 23.44°), in sidereal time converted to clock time. The same for every day of the year.",
+ "generated": "2026-11-04",
+ "pages": {
+  "aries-rising": {
+   "London": 52,
+   "Paris": 58,
+   "New York": 71
+  },
+  "taurus-rising": {
+   "London": 69,
+   "Paris": 74,
+   "New York": 86
+  },
+  "gemini-rising": {
+   "London": 106,
+   "Paris": 109,
+   "New York": 114
+  },
+  "cancer-rising": {
+   "London": 151,
+   "Paris": 148,
+   "New York": 142
+  },
+  "leo-rising": {
+   "London": 170,
+   "Paris": 165,
+   "New York": 153
+  },
+  "virgo-rising": {
+   "London": 170,
+   "Paris": 165,
+   "New York": 151
+  },
+  "libra-rising": {
+   "London": 170,
+   "Paris": 165,
+   "New York": 151
+  },
+  "scorpio-rising": {
+   "London": 170,
+   "Paris": 165,
+   "New York": 153
+  },
+  "sagittarius-rising": {
+   "London": 151,
+   "Paris": 148,
+   "New York": 142
+  },
+  "capricorn-rising": {
+   "London": 106,
+   "Paris": 109,
+   "New York": 114
+  },
+  "aquarius-rising": {
+   "London": 69,
+   "Paris": 74,
+   "New York": 86
+  },
+  "pisces-rising": {
+   "London": 52,
+   "Paris": 58,
+   "New York": 71
+  }
+ }
+}
