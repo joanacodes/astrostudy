@@ -22,8 +22,8 @@ faq:
     a: "Dans « Why Astrology is a Pseudoscience » (1978), Paul Thagard jugeait un domaine sur ses progrès et sa communauté, pas seulement sur sa théorie. L’astrologie avait peu changé en près de deux mille ans et continuait malgré de meilleures explications : il y voyait une pseudoscience, tout en prévenant qu’il ne fallait pas la juger ainsi pour l’Antiquité classique ou la Renaissance."
   - q: "L’astrologie a-t-elle été testée scientifiquement ?"
     a: "Oui. Le test le plus connu, celui de Shawn Carlson, a paru dans Nature en 1985 et a été conçu avec l’aide d’astrologues. Des astrologues devaient associer plus d’une centaine de thèmes natals à des profils de personnalité sans savoir à qui ils appartenaient, et ils n’ont pas fait mieux que le hasard."
-  - q: "Pensez-vous que l’astrologie soit une science ?"
-    a: "Non, et je ne la présente pas comme telle. Personne ne sait exactement comment ça marche, moi y compris, et mon propre comptage est un comptage à la main, dans un carnet, pas une étude scientifique. C’est pourquoi mes lectures sont proposées à des fins de réflexion et de divertissement, jamais comme un verdict sur une vie."
+  - q: "Prétendez-vous que l’astrologie est scientifique ?"
+    a: "Non. Je ne prétends pas savoir comment l’astrologie fonctionne : personne ne sait exactement comment ça marche, moi y compris. Je ne prétends pas que mon comptage soit une étude scientifique : c’est un comptage à la main, dans un carnet, non audité. Je ne prétends pas davantage prédire l’avenir. Mes lectures sont proposées à des fins de réflexion et de divertissement."
 sources:
   - { title: "Karl Popper, Conjectures and Refutations : The Growth of Scientific Knowledge (Londres : Routledge, réimpression 2004), p. 44", note: "l’astrologie comme savoir « pseudo-empirique »" }
   - { title: "Thomas Kuhn, dans Imre Lakatos et Alan Musgrave (dir.), Proceedings of the International Colloquium in the Philosophy of Science (Cambridge University Press, 1970), p. 7–8", note: "l’astrologie comme exemple le plus fréquent de Popper, et pourquoi elle n’avait « pas d’énigmes à résoudre »" }

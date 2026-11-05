@@ -50,8 +50,8 @@ When a relationship really is harmful, the harm is in behaviour, in how someone 
 
 ## What I found {#what-i-found}
 
-In my notebook, the Sun sign held about a third of the time. It was one of the placements everyone reads first, with the rising sign, Venus and Mercury, and overall **30 to 40%** of what I checked held. That's why I hold sun-sign descriptions lightly, and why I'd never judge a person by one, any more than I'd blame a planet for a bad week ([Does Mercury retrograde break things?](/astrology/does-mercury-retrograde-break-things/)).
+In my notebook, the Sun sign held about a third of the time. It was one of the placements everyone reads first, with the rising sign, Venus and Mercury, and overall **30 to 40%** of what I checked held. That's why I hold sun-sign descriptions lightly ([How I read](/how-i-read/)), and why I'd never judge a person by one, any more than I'd blame a planet for a bad week ([Does Mercury retrograde break things?](/astrology/does-mercury-retrograde-break-things/)).
 
 What held far more often, **Saturn, Lilith and Chiron, 75 to 90% of the time**, aren't villains either. They show where a person carries their hardest lesson, the wound they keep circling, the part of them they were told to hide. Between two people, in [synastry](/synastry/), they're where you can hurt each other without meaning to, and where, once you know it, you can help each other heal. That's the opposite of a toxic label: it's a reason for care.
 
-It's a notebook, not a study; it proves nothing about astrology in general. But it's why I'll say this as plainly as I can: "You're a Scorpio, so…" is not a reading. It's an excuse with a vocabulary. A chart describes tendencies, never permissions, and nobody is the villain of a chart. [How I read](/how-i-read/) has the rest.
+It's a notebook, not a study; it proves nothing about astrology in general. But it's why I'll say this as plainly as I can: "You're a Scorpio, so…" is not a reading. It's an excuse with a vocabulary. A chart describes tendencies, never permissions, and nobody is the villain of a chart.

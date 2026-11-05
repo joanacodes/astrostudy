@@ -21,8 +21,8 @@ faq:
     a: "In “Why Astrology is a Pseudoscience” (1978), Paul Thagard judged a field by its progress and its community, not just its theory. Astrology had changed little in nearly 2,000 years and carried on despite better explanations, so he called it a pseudoscience, while warning that it shouldn’t be judged so in classical or Renaissance times."
   - q: "Has astrology ever been tested scientifically?"
     a: "Yes. The best-known test, by Shawn Carlson, was published in Nature in 1985 and designed with astrologers’ help. Astrologers tried to match more than a hundred birth charts to personality profiles without knowing whose was whose, and they did no better than chance."
-  - q: "Do you think astrology is a science?"
-    a: "No, and I don’t present it as one. Nobody knows exactly how astrology works, me included, and my own count is a hand count in a notebook, not a scientific study. That’s why my readings are offered for reflection and entertainment, never as a verdict on anyone’s life."
+  - q: "Do you claim that astrology is scientific?"
+    a: "No. I don’t claim to know how astrology works: nobody knows exactly how it works, me included. I don’t claim that my count is a scientific study: it’s a hand count in a notebook, not audited. Nor do I claim to predict the future. My readings are offered for reflection and entertainment."
 sources:
   - { title: "Karl Popper, Conjectures and Refutations: The Growth of Scientific Knowledge (London: Routledge, reprint 2004), p. 44", note: "astrology as “pseudo-empirical”" }
   - { title: "Thomas Kuhn, in Imre Lakatos and Alan Musgrave (eds.), Proceedings of the International Colloquium in the Philosophy of Science (Cambridge University Press, 1970), pp. 7–8", note: "astrology as Popper’s example, and why it had “no puzzles to solve”" }
