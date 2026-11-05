@@ -2,7 +2,7 @@
 title: "Lune sextile Jupiter en synastrie"
 slug: "lune-sextile-jupiter-synastrie"
 h1: "Lune sextile Jupiter entre deux thèmes"
-description: "Lune sextile Jupiter en synastrie : les projets de l’une rejoignent les besoins de l’autre comme des offres à saisir. Les deux côtés, la fréquence, les pièges."
+description: "Lune sextile Jupiter en synastrie : les projets de l’une rejoignent les besoins de l’autre comme des offres. Ce que vit chaque personne, et sa fréquence."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"

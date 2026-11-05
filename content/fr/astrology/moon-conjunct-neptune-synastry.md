@@ -2,13 +2,13 @@
 title: "Lune conjonction Neptune en synastrie"
 slug: "lune-conjonction-neptune-synastrie"
 h1: "Lune conjonction Neptune entre deux thèmes"
-description: "Lune conjonction Neptune en synastrie : l’imagination de l’une se pose sur les émotions de l’autre, tendre et difficile à cerner. Chaque côté, la fréquence."
+description: "Lune conjonction Neptune en synastrie : l’imagination de l’une se pose sur les émotions de l’autre, tendre et difficile à cerner. Comment chacune le vit."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 91
 glyph: "☽☌♆"
-definition: "Lune conjonction Neptune en synastrie : Neptune d’une personne à moins de 8° de la Lune de l’autre. L’imagination et la compassion de l’une se posent sur les émotions et les besoins de l’autre. J’y lis une tendresse profonde entre deux personnes, en guettant le moment où l’on se devine au lieu de se demander."
+definition: "Lune conjonction Neptune en synastrie : Neptune d’une personne à moins de 8° de la Lune de l’autre. L’imagination et la compassion de l’une se posent sur les émotions et les besoins de l’autre. J’y lis une tendresse profonde entre deux personnes, avec une réserve : se deviner ne doit pas remplacer se demander."
 facts:
   - { k: "Corps", v: "La Lune ☽ d’une personne, Neptune ♆ chez l’autre" }
   - { k: "Aspect", v: "Conjonction ☌, 0°" }
@@ -33,9 +33,9 @@ Lune conjonction Neptune en synastrie pose Neptune, dans le thème d’une perso
 
 La [Lune](/astrology/moon/) traite le ressenti et garde la trace de ce dont une personne a besoin pour se sentir en sécurité. [Neptune](/astrology/neptune/) imagine, compatit et desserre les frontières inutiles. Une [conjonction](/astrology/conjunction/) les fond en un seul mouvement ; d’un thème à l’autre, le terrain des [aspects de synastrie](/astrology/synastry-aspects/), ce mouvement appartient à deux personnes.
 
-Si la Lune est la vôtre, cette personne semble ressentir vos émotions avec vous. Vous n’avez pas à expliquer la mauvaise journée : la bouilloire chauffe déjà, la musique est choisie, la soirée est douce. Une perception aussi complète peut reposer profondément.
+Côté Lune, cette personne semble ressentir vos émotions avec vous. Vous n’avez pas à expliquer la mauvaise journée : la bouilloire chauffe déjà, la musique est choisie, la soirée est douce. Une perception aussi complète peut reposer profondément.
 
-Si Neptune est à vous, cette personne donne à votre imagination et à votre compassion un endroit où aller. Ses humeurs vous touchent, ses besoins vous inspirent, et prendre soin d’elle peut ressembler moins à un effort qu’à la création de quelque chose de beau.
+Côté Neptune, cette personne donne à votre imagination et à votre compassion un endroit où aller. Ses humeurs vous touchent, ses besoins vous inspirent, et prendre soin d’elle peut ressembler moins à un effort qu’à la création de quelque chose de beau.
 
 Ce qui circule, c’est une tendresse qui demande peu d’explications : des amis capables de rester ensemble en silence, un couple dont le foyer devient un refuge, des frères et sœurs qui savent quand se taire.
 

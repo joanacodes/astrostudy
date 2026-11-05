@@ -2,7 +2,7 @@
 title: "Lune carré Jupiter en synastrie"
 slug: "lune-carre-jupiter-synastrie"
 h1: "Lune carré Jupiter entre deux thèmes"
-description: "Lune carré Jupiter en synastrie : la générosité de l’une arrive à la mauvaise taille pour les besoins de l’autre. Les deux côtés, la fréquence, la leçon."
+description: "Lune carré Jupiter en synastrie : la générosité de l’une arrive à la mauvaise taille pour les besoins de l’autre. Ce que vit chaque personne, la leçon."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -47,7 +47,7 @@ Le frottement tient à la taille et au moment. L’encouragement de la personne 
 
 Demandez avant d’élargir. Une question règle une bonne partie de ce carré : tu veux une oreille, un coup de main ou un plan ? La personne qui a la Lune peut y répondre franchement ; celle qui a Jupiter peut garder la grande idée pour un jour où elle sera la bienvenue. Un couple peut réserver les projets au week-end ; un parent et son enfant adulte peuvent convenir que les conseils viennent quand on les demande ; entre collègues, les ambitions peuvent se régler sur ce que l’autre peut porter ce mois-ci.
 
-Environ 1 paire de personnes sur 7 a ce carré, dans un sens ou dans l’autre, à 6,8° près. Il dépend des deux heures de naissance : la Lune avance d’environ 13° par jour et peut entrer dans l’orbe ou en sortir en quelques heures, et les maisons qui situent la friction dans chaque vie demandent aussi les heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Environ 1 paire de personnes sur 7 a ce carré, dans un sens ou dans l’autre, à 6,8° près. Il dépend des deux heures de naissance : la Lune, qui parcourt quelque 13° par jour, peut entrer dans l’orbe ou en sortir en quelques heures, et les maisons qui situent la friction dans chaque vie demandent aussi les heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Les autres contacts de la paire règlent la même question autrement. [Lune trigone Jupiter en synastrie](/astrology/moon-trine-jupiter-synastry/) laisse l’encouragement circuler sans mètre ruban ; [Lune sextile Jupiter en synastrie](/astrology/moon-sextile-jupiter-synastry/) laisse l’offre attendre qu’on la saisisse ; [Lune conjonction Jupiter en synastrie](/astrology/moon-conjunct-jupiter-synastry/) fond le besoin et la croissance en un seul endroit ; [Lune opposition Jupiter en synastrie](/astrology/moon-opposite-jupiter-synastry/) les place aux deux bouts d’une bascule.
 

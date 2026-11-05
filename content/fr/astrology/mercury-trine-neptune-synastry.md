@@ -2,7 +2,7 @@
 title: "Mercure trigone Neptune en synastrie"
 slug: "mercure-trigone-neptune-synastrie"
 h1: "Mercure trigone Neptune entre deux thèmes"
-description: "Mercure trigone Neptune en synastrie : les mots de l’une et l’imagination de l’autre coulent ensemble, avec douceur. Les deux côtés, ce que la gentillesse cache."
+description: "Mercure trigone Neptune en synastrie : les mots de l’une et l’imagination de l’autre coulent ensemble, avec douceur. Les deux côtés, ce que la douceur cache."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/mercury", "/astrology/neptune", "/astrology/trine", "/astrology/mercury-trine-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Mercure trigone Neptune en synastrie ?"
-    a: "D’une personne à l’autre, Mercure et Neptune forment un trigone : environ 120°, en général dans un même élément. Les mots de la personne côté Mercure atteignent sans résistance l’imagination et la sympathie de la personne côté Neptune, et la personne côté Neptune aide la personne côté Mercure à dire ce qu’elle ressent. Le contact décrit une façon douce et créative de se parler, pas une promesse sur la relation."
+    a: "D’une personne à l’autre, Mercure et Neptune forment un trigone : environ 120°, en général dans un même élément. Les mots de la personne côté Mercure touchent sans résistance ce que la personne côté Neptune imagine et ressent, et la personne côté Neptune aide la personne côté Mercure à dire ce qu’elle ressent. Le contact décrit une façon douce et créative de se parler, pas une promesse sur la relation."
   - q: "Est-ce que Mercure trigone Neptune est le signe d’une âme sœur ?"
     a: "Aucun contact n’en est la preuve, et je ne lis pas la synastrie ainsi. Ce trigone décrit deux personnes qui saisissent facilement le ton l’une de l’autre et parlent de sentiments sans effort, ce qui est précieux dans toute relation. Ce que devient la relation dépend des deux personnes, pas d’un angle entre leurs thèmes."
   - q: "Est-ce que Mercure trigone Neptune peut rendre l’honnêteté plus difficile ?"
@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, 120°, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 5,1° près" }
 ---
-Certaines personnes savent vous dire une chose difficile et vous laisser avec le sentiment qu’on a pris soin de vous. Mercure trigone Neptune en synastrie fonctionne souvent ainsi : Mercure dans un thème et Neptune dans l’autre, à un tiers de cercle et en général dans le même élément, et des mots qui portent un sentiment sans perdre leur sens. Il y a là deux plaisirs, parler avec douceur et recevoir une écoute douce, et chaque personne en a un.
+Certaines personnes savent vous dire une chose difficile et vous laisser avec le sentiment qu’on a pris soin de vous. Mercure trigone Neptune en synastrie fonctionne souvent ainsi : Mercure dans un thème et Neptune dans l’autre, à un tiers de cercle, souvent dans un même élément, avec des mots qui portent un sentiment sans perdre leur sens. Il y a là deux plaisirs, parler avec douceur et recevoir une écoute douce, et chaque personne en a un.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -49,7 +49,7 @@ Et sous les autres angles :
 - **[Mercure conjonction Neptune en synastrie](/astrology/mercury-conjunct-neptune-synastry/) :** un même degré, plus proche et plus emmêlé ; plus difficile de distinguer le dit de l’imaginé.
 - **[Mercure sextile Neptune en synastrie](/astrology/mercury-sextile-neptune-synastry/) :** une ouverture plus étroite, où l’imagination vient quand on l’invite.
 - **[Mercure carré Neptune en synastrie](/astrology/mercury-square-neptune-synastry/) :** un angle droit, où le sens dérive et doit être vérifié.
-- **[Mercure opposition Neptune en synastrie](/astrology/mercury-opposite-neptune-synastry/) :** le littéral et l’imaginé face à face ; une compréhension qui se gagne par-dessus un écart.
+- **[Mercure opposition Neptune en synastrie](/astrology/mercury-opposite-neptune-synastry/) :** une compréhension qui se gagne par-dessus un écart, entre ce qui se dit et ce qui s’imagine.
 
 ## Comment le vivre {#comment-le-vivre}
 

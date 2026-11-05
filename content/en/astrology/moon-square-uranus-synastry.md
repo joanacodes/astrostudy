@@ -32,19 +32,19 @@ Moon square Uranus in synastry is the contact of the message that asks "when wil
 
 The [Moon](/astrology/moon/) tends feelings, attachment and the routines that let a person rest. [Uranus](/astrology/uranus/) wants autonomy and renewal: to differ, to experiment, to break a pattern that has hardened. A [square](/astrology/square/) puts two functions under a tension that makes both adjust. In [synastry aspects](/astrology/synastry-aspects/) the tension lives between two people, and which side you're on shapes everything.
 
-If the Moon is yours, the other person can feel hard to pin down: plans change, moods shift, and the reassurance you'd like comes at odd hours. But they also shake you out of a routine that had stopped serving you, and you discover you can handle more change than you thought.
+When it's your Moon, the other person can feel hard to pin down: plans change, moods shift, and the reassurance you'd like comes at odd hours. But they also shake you out of a routine that had stopped serving you, and you discover you can handle more change than you thought.
 
-If Uranus is yours, the other's need for reassurance can feel like a hand on your sleeve just as you were heading out. But they also show you that staying can be a choice rather than a trap, and your independence grows steadier when it has somewhere to come back to.
+When it's your Uranus, the other's need for reassurance can feel like a hand on your sleeve just as you were heading out. But they also show you that staying can be a choice rather than a trap, and your independence grows steadier when it has somewhere to come back to.
 
 The friction makes something possible that neither might build alone: a security that survives change, and a freedom that doesn't need the other person to stop caring.
 
 ## Where it rubs {#where-it-rubs}
 
-Timing is the rub. Changes get announced at the last minute; reassurance gets asked for in the middle of an adventure. The Moon person's "where are you?" can land as surveillance, the Uranus person's "I need a day" as rejection. Each can start to see the other through the worst version of their need, clinging on one side and flighty on the other. Neither label fits. Innovation is not chaos, autonomy is not isolation, and a square is friction, never failure.
+Most of the friction comes down to timing. Changes get announced at the last minute; reassurance gets asked for in the middle of an adventure. The Moon person's "where are you?" can land as surveillance, the Uranus person's "I need a day" as rejection. Each can start to see the other through the worst version of their need, clinging on one side and flighty on the other. Neither label fits. Innovation is not chaos, autonomy is not isolation, and friction is not the end of anything.
 
 ## How to meet it {#how-to-meet-it}
 
-Build the security out of agreements rather than sameness. Fix a few points, a nightly message, a shared Sunday, and leave the rest open. The Uranus person can give notice of changes; the Moon person can say what would help before a crisis forces it. A couple might schedule time together and time apart; friends might accept a rhythm of long silences and warm returns; colleagues can agree which parts of a project stay fixed and which are open to experiment.
+Build the security out of agreements rather than sameness. Fix a few points, a nightly message, a shared Sunday, and leave the rest open. The Uranus person can give notice of changes; the Moon person can flag what would help before a crisis forces it. A couple might schedule time together and time apart; friends might accept a rhythm of long silences and warm returns; colleagues can agree which parts of a project stay fixed and which are open to experiment.
 
 About 1 pair of people in 7 has this square, one way round or the other, within 6.8°. Uranus is the slow party, about seven years to a sign, so the Uranus person shares that side with a whole generation of classmates; the square becomes personal through the other's Moon. And the Moon is quick, about 13° a day: without both birth times I can't tell whether the square is there, nor which houses it falls across ([what changes without a birth time](/blog/unknown-birth-time/)).
 

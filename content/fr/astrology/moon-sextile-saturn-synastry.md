@@ -2,7 +2,7 @@
 title: "Lune sextile Saturne en synastrie"
 slug: "lune-sextile-saturne-synastrie"
 h1: "Lune sextile Saturne entre deux thèmes"
-description: "Lune sextile Saturne en synastrie : la fiabilité de l’une à portée des besoins de l’autre, pour peu qu’on la demande. Les deux côtés, la fréquence, les pièges."
+description: "Lune sextile Saturne en synastrie : la fiabilité de l’une à portée des besoins de l’autre, pour peu qu’on la demande. Chaque côté, le piège de l’attente."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"

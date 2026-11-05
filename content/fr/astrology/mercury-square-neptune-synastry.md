@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 143
 glyph: "☿□♆"
-definition: "Mercure carré Neptune en synastrie met un angle droit, à 5,1° près, entre Mercure chez une personne et Neptune chez l’autre. Le besoin de mots clairs de la première et la façon de parler en images de la seconde se croisent : le sens peut dériver. J’y lis une friction qui apprend la compassion précise, jamais la tromperie."
+definition: "Mercure carré Neptune en synastrie met un angle droit, à 5,1° près, entre deux thèmes : Mercure dans l’un, Neptune dans l’autre. Le besoin de mots clairs de la première et la façon de parler en images de la seconde se croisent : le sens peut dériver. J’y lis une friction qui apprend la compassion précise, jamais la tromperie."
 facts:
   - { k: "Corps", v: "Mercure ☿ chez l’une, Neptune ♆ chez l’autre" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -21,7 +21,7 @@ faq:
   - q: "Que veut dire Mercure carré Neptune en synastrie ?"
     a: "Il y a environ 90°, en général trois signes, entre Mercure chez une personne et Neptune chez l’autre. La personne côté Mercure veut que les choses soient dites clairement ; la personne côté Neptune parle volontiers en sentiments, en images et en espoirs, et les entend aussi. Le sens peut dériver entre vous, et avec du soin, la friction vous apprend à dire ce que vous voulez dire et à entendre ce qui est voulu."
   - q: "Est-ce que Mercure carré Neptune en synastrie veut dire qu’une personne ment ?"
-    a: "Non. Neptune décrit l’imagination et l’empathie, pas la tromperie. Le carré montre deux façons de communiquer qui ne s’alignent pas : l’une littérale, l’autre impressionniste. Les malentendus naissent de cet écart, pas de la mauvaise foi, et nommer l’écart fait en général plus de bien que le soupçon."
+    a: "Non. Neptune parle d’imagination et d’empathie ; la tromperie n’en fait pas partie. Le carré montre deux façons de communiquer qui ne s’alignent pas : l’une littérale, l’autre impressionniste. Les malentendus naissent de cet écart, pas de la mauvaise foi, et nommer l’écart fait en général plus de bien que le soupçon."
   - q: "Comment vivre Mercure carré Neptune en couple ou en amitié ?"
     a: "Séparez le rêve de la décision. Parlez librement des espoirs et des impressions ; puis, quand une chose doit être convenue, dites-la en mots simples et écrivez-la. La personne côté Neptune peut demander de la patience pour des sentiments qui ne sont pas encore des phrases, et la personne côté Mercure des précisions quand elles comptent."
 sources:
@@ -56,4 +56,4 @@ Ce que deviennent les mêmes fonctions sous d’autres angles :
 
 Donnez à chaque genre de conversation son moment. Que certaines soient faites pour les espoirs et les impressions, sans conclusion obligatoire. Quand une chose doit être convenue, la personne côté Mercure peut l’énoncer en une phrase simple et la personne côté Neptune dire si cela correspond à ce qu’elle ressent ; les dates et l’argent s’écrivent. Au travail, le carré peut associer avec bonheur une personne qui dessine et une personne qui calcule ; en amitié, c’est la personne qui vous apprend que les faits peuvent être doux ; dans un couple ou une famille, une raison de demander : « c’est un souhait, ou un projet ? »
 
-Environ 1 paire de personnes sur 9 a Mercure et Neptune en carré, dans un sens ou dans l’autre, à 5,1° près. Les heures montrent où le sens dérive : Neptune tombant dans la maison 7 de la personne côté Mercure, [Neptune de l’autre dans votre maison 7](/astrology/neptune-in-7th-house-synastry/), met cette dérive au cœur du partenariat, ce qui demande les deux heures de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Environ 1 paire de personnes sur 9 a Mercure et Neptune en carré, dans un sens ou dans l’autre, à 5,1° près. Les heures montrent où le sens dérive : si Neptune occupe la maison 7 du thème côté Mercure, comme le décrit [Neptune de l’autre dans votre maison 7](/astrology/neptune-in-7th-house-synastry/), cette dérive se place au cœur du partenariat ; encore faut-il connaître les deux heures de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).

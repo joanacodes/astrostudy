@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 95
 glyph: "☽☍♆"
-definition: "Moon opposite Neptune in synastry means one person’s Neptune faces the other’s Moon from about 180° away, within 8°. One tends to hold the concrete, everyday needs, the other the ideal, the imagined and the compassionate. I read it as a polarity between the real and the dreamed, which two people can learn to share."
+definition: "Moon opposite Neptune in synastry means one person’s Neptune faces the other’s Moon from about 180° away, within 8°. Everyday needs tend to sit with one of them; the ideal, the imagined and the compassionate with the other. I read it as a polarity between the real and the dreamed, which two people can learn to share."
 facts:
   - { k: "Bodies", v: "One person’s Moon ☽, the other’s Neptune ♆" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -17,7 +17,7 @@ facts:
 related: ["/astrology/moon", "/astrology/neptune", "/astrology/opposition", "/astrology/moon-opposite-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Moon opposite Neptune mean in synastry?"
-    a: "One person’s Neptune and the other’s Moon face each other across the zodiac, within 8°. The Moon person tends to carry the pair’s ordinary needs, the Neptune person its imagination and ideals, and each can see in the other what they lack. It is a polarity to balance, not a mismatch."
+    a: "One person’s Neptune and the other’s Moon face each other across the zodiac, within 8°. Ordinary needs tend to land with the Moon person, imagination and ideals with the Neptune person, and each can see in the other what they lack. Two ends of one line, then, rather than a mismatch."
   - q: "Why does someone seem larger than life with Moon opposite Neptune?"
     a: "Because each of you carries what the other lacks. To the Moon person, the Neptune person can seem to carry something finer; to the Neptune person, the Moon person can seem to carry something truer. Both are partly projection, and both point to qualities each of you can grow in yourself."
   - q: "Is Moon opposite Neptune a sign of disappointment in love?"
@@ -26,15 +26,15 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the opposition, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 8°" }
 ---
-Moon opposite Neptune in synastry sets one person's needs and the other's ideals at the two ends of a line. One person tends to stand for the everyday, the meals and the moods and the plain wants; the other for something wider, softer, harder to pin down. Each end draws the other across.
+Moon opposite Neptune in synastry sets what one person needs and what the other idealises at the two ends of a line. One person tends to stand for the everyday, the meals and the moods and the plain wants; the other for something wider, softer, harder to pin down. Each end draws the other across.
 
 ## What flows {#what-flows}
 
 The [Moon](/astrology/moon/) holds what a person needs to feel safe, here and now. [Neptune](/astrology/neptune/) holds imagination, compassion and the pull of the ideal. An [opposition](/astrology/opposition/) sets them across one axis, a polarity where each end makes the other visible. In [synastry aspects](/astrology/synastry-aspects/), the axis runs between two people, and each starts with one end.
 
-At the Moon's end, you may find this person lifts your days out of the ordinary. They bring music, faith, imagination, a sense that life is larger than the list of chores, and your feelings are honoured rather than managed. At times they can also seem far away, somewhere you can't follow.
+If the Moon end is yours, this person may lift your days out of the ordinary. They bring music, faith, imagination, a sense that life is larger than the list of chores, and your feelings are honoured rather than managed. At times they can also seem far away, somewhere you can't follow.
 
-At Neptune's end, you may find this person brings your dreams down to earth in a good way. Their plain needs, a hug, a meal, a clear answer, show you where compassion lands, and their realness can be a relief. At times their needs may feel too ordinary, or too many.
+If the Neptune end is yours, this person may bring your dreams down to earth, in a good way. Their plain needs, a hug, a meal, a clear answer, show you where compassion lands, and their realness can be a relief. At times their needs may feel too ordinary, or too many.
 
 When it's balanced, the pair has both: a life that is concrete and lived, with something luminous in it.
 

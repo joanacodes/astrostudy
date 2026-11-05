@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 45
 glyph: "☉☍♇"
-definition: "Sun opposite Pluto in synastry places one person’s visible self across the zodiac from the other’s depth, with Pluto about 180° from the Sun, within 8°. One is easy to read, the other slow to know. I read it as a polarity between openness and depth, in which power has to be shared in plain words."
+definition: "Sun opposite Pluto in synastry sets a visible self across the zodiac from a hidden depth: one person’s Sun, the other’s Pluto, about 180° apart within 8°. One is easy to read, the other slow to know. To me it is a polarity between openness and depth, in which power has to be shared in plain words."
 facts:
   - { k: "Bodies", v: "One person’s Sun ☉, the other’s Pluto ♇" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun", "/astrology/pluto", "/astrology/opposition", "/astrology/sun-opposite-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Sun opposite Pluto mean in synastry?"
-    a: "The Sun person’s visible, expressive self faces the Pluto person’s depth from the other side of the zodiac, within 8°. One tends to be seen, the other to see. I read it as a polarity between openness and depth, which works when influence and privacy are shared out openly."
+    a: "The Sun person’s visible, expressive self faces the Pluto person’s depth from the other side of the zodiac, within 8°. One tends to be seen, the other to see. It’s a polarity between openness and depth, and it works when influence and privacy are shared out openly."
   - q: "Why can Sun opposite Pluto feel so absorbing?"
     a: "Because each holds what the other lacks, visibility on one side and depth on the other, and an opposition makes each aware of the missing half. That draw is real, and it isn’t a verdict on whether two people belong together."
   - q: "How do you balance power with Sun opposite Pluto?"
@@ -37,7 +37,7 @@ Holding the Sun, you meet a depth you may not show yourself. The other notices w
 
 Holding Pluto, you meet an openness that draws your depth out. The Sun person's vitality makes it easier to bring something hidden into the light, and you may admire how simply they let themselves be seen. Their visibility can also show up what you keep back.
 
-What flows is a kind of mutual revelation: each learns more about their own end by facing the other's.
+The result is a mutual revelation: each learns more about their own end by facing the other's.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -45,12 +45,12 @@ A seesaw of visibility and privacy. The more the Sun person shows, the more the 
 
 The neighbouring angles change the pressure: [Sun conjunct Pluto in synastry](/astrology/sun-conjunct-pluto-synastry/) puts the depth right on the identity, [Sun square Pluto in synastry](/astrology/sun-square-pluto-synastry/) makes it press from the side, and [Sun trine Pluto in synastry](/astrology/sun-trine-pluto-synastry/) and [Sun sextile Pluto in synastry](/astrology/sun-sextile-pluto-synastry/) turn it into a resource that asks for no confrontation.
 
-Pluto's sign covers anything from 12 to 31 years of births, so it belongs to an era. A birthday six signs away is what turns it into this opposition, between these two.
+Pluto's sign covers anything from 12 to 31 years of births, so it belongs to an era. A birthday six signs away is what turns it into an opposition with this one person.
 
 ## How to meet it {#how-to-meet-it}
 
-Share power in plain words. Agree which decisions are joint and which belong to one person, and what each is entitled to keep private. Then take turns at the other's end: the Pluto person lets something be seen without being asked, and the Sun person keeps something back without apology. In a couple, transparency can be agreed rather than demanded; between friends, depth can be offered at chosen moments; in a family, an adult child's privacy can be respected; at work, the public face and the strategist behind it can share the credit.
+Share power in plain words. Agree which decisions are joint and which belong to one person, and what each is entitled to keep private. Then take turns at the other's end: the Pluto person lets something be seen unprompted, and the Sun person keeps something back without apology. In a couple, transparency can be agreed rather than demanded; between friends, depth can be offered at chosen moments; in a family, an adult child's privacy can be respected; at work, the public face and the strategist behind it can share the credit.
 
-About 1 pair of people in 12 has this opposition, one way round or the other, within 8°. I begin only with both birth times. In a few hours neither body moves far enough to change the opposition, but the hour decides the houses, and so the axis it runs along: privacy and partnership, say, or home and public life ([what changes without a birth time](/blog/unknown-birth-time/)). This is also a contact I name only with both people present, since it touches what each keeps hidden ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+About 1 pair of people in 12 has this opposition, one way round or the other, within 8°. Both birth times come before anything else. Over a few hours neither body travels far enough to alter the opposition, but the hour decides the houses, and so the axis it runs along: privacy and partnership, say, or home and public life ([what changes without a birth time](/blog/unknown-birth-time/)). This is also a contact I name only with both people present, since it touches what each keeps hidden ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
 
 In one chart, [Sun opposite Pluto](/astrology/sun-opposite-pluto/) is a polarity inside one life. Here it runs between two, and the balance is negotiated face to face, which is slower, and more honest.

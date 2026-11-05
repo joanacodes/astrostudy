@@ -2,7 +2,7 @@
 title: "Lune conjonction Saturne en synastrie"
 slug: "lune-conjonction-saturne-synastrie"
 h1: "Lune conjonction Saturne entre deux thèmes"
-description: "Lune conjonction Saturne en synastrie : la structure de l’une se pose sur les besoins de l’autre, et rassure ou pèse. Les deux côtés, la fréquence, le flou."
+description: "Lune conjonction Saturne en synastrie : la structure de l’une se pose sur les besoins de l’autre, et rassure ou pèse. Qui ressent quoi, la fréquence."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"

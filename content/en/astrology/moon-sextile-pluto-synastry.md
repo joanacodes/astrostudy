@@ -1,7 +1,7 @@
 ---
 title: "Moon sextile Pluto in synastry"
 h1: "Moon sextile Pluto between two charts"
-description: "Moon sextile Pluto in synastry: one person’s depth is on offer to the other’s feelings, when both choose to go there. Each side, how common it is, the catch."
+description: "Moon sextile Pluto in synastry: one person’s depth is on offer to the other’s feelings, when both choose to go there. Each person’s side, and how often."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -30,7 +30,7 @@ Moon sextile Pluto in synastry opens a door about 60° wide between what one per
 
 ## What flows {#what-flows}
 
-The [Moon](/astrology/moon/) is how a person feels, attaches and recovers. [Pluto](/astrology/pluto/) is the capacity for deep change: to release what has run its course, to regenerate, to take back one's own power. A [sextile](/astrology/sextile/) lets two functions cooperate once someone takes the opening. In [synastry aspects](/astrology/synastry-aspects/), the opening runs between two people.
+The [Moon](/astrology/moon/) shows how a person feels, attaches and recovers. [Pluto](/astrology/pluto/) is the capacity for deep change: to release what has run its course, to regenerate, to take back one's own power. A [sextile](/astrology/sextile/) lets two functions cooperate once someone takes the opening. In [synastry aspects](/astrology/synastry-aspects/), the opening runs between two people.
 
 From the Moon side, this person can make hard feelings easier to face. They don't flinch when you bring them something heavy, and they help you look at it honestly, which often turns out to be the start of feeling better. Habits of comfort you'd outgrown can be let go of in their company.
 
@@ -46,7 +46,7 @@ Depth on offer can stay unoffered. In calm times the pair may keep things light,
 
 Check before going deep. A simple "can we talk about something real?" respects the opening and lets the other choose the moment. Make regular room for it: a walk, a long meal, a yearly look back at what has changed for each of you. Respect a "not now" as much as a "yes". Couples, friends and relatives can all use this; at work, it serves the pair who can review what went wrong without blame.
 
-About 1 pair of people in 10 has this sextile, one way round or the other, within 4.8°. Pluto spends between 12 and 31 years per sign, which makes the Pluto person's side common to a long run of birth years; what belongs to this pair alone is where the other's Moon happened to be. That's a question of hours, since the Moon moves around 13° a day against an orb of 4.8°: both birth times decide whether the sextile is there, and which houses it links ([what changes without a birth time](/blog/unknown-birth-time/)).
+About 1 pair of people in 10 has this sextile, one way round or the other, within 4.8°. Pluto spends between 12 and 31 years per sign, which makes the Pluto person's side common to a long run of birth years; what belongs to this pair alone is where the other's Moon happened to be. That's a question of hours, since the Moon moves around 13° a day against an orb of 4.8°: both birth times settle whether the sextile exists, and which houses it links ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Closer or further round the circle:
 

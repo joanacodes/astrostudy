@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/moon", "/astrology/uranus", "/astrology/sextile", "/astrology/moon-sextile-uranus", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Lune sextile Uranus en synastrie ?"
-    a: "Il y a environ 60° entre Uranus, dans un thème, et la Lune, dans l’autre, à 4,8° près. La première propose volontiers de petits changements, un autre trajet, un autre programme, que la seconde peut accueillir sans se sentir déracinée ; la seconde offre un endroit où la première aime revenir. Cela marche quand les deux s’en saisissent."
+    a: "Il y a environ 60° entre Uranus, dans un thème, et la Lune, dans l’autre, à 4,8° près. La première propose volontiers de petits changements, un autre trajet, un autre programme, que la seconde peut accueillir sans se sentir déracinée ; la seconde offre un endroit où la première aime revenir. Encore faut-il que les deux s’en servent."
   - q: "Lune sextile Uranus, plutôt excitant ou plutôt calme ?"
     a: "Surtout calme, avec des étincelles. Un sextile est un aspect doux : les changements qu’il apporte sont plutôt petits et choisis que soudains. Cela convient aux paires qui aiment un peu de nouveauté sans bouleversement. Si personne ne s’en sert, il reste tranquille."
   - q: "Comment utiliser Lune sextile Uranus ?"

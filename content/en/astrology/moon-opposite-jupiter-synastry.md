@@ -1,7 +1,7 @@
 ---
 title: "Moon opposite Jupiter in synastry"
 h1: "Moon opposite Jupiter between two charts"
-description: "Moon opposite Jupiter in synastry: one person holds the familiar, the other the wider world, at two ends of a seesaw. Both sides, how common, how to balance."
+description: "Moon opposite Jupiter in synastry: one person holds the familiar, the other the wider world, on a seesaw. Each end of the line, the count, the balance."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"

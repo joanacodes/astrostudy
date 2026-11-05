@@ -2,7 +2,7 @@
 title: "Lune opposition Uranus en synastrie"
 slug: "lune-opposition-uranus-synastrie"
 h1: "Lune opposition Uranus entre deux thèmes"
-description: "Lune opposition Uranus en synastrie : l’une tire vers la proximité, l’autre vers l’espace, aux deux bouts d’une ligne. Chaque côté, la fréquence, l’équilibre."
+description: "Lune opposition Uranus en synastrie : l’une tire vers la proximité, l’autre vers l’espace, aux deux bouts d’une ligne. Les deux bouts, le balancement."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/moon", "/astrology/uranus", "/astrology/opposition", "/astrology/moon-opposite-uranus", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Lune opposition Uranus en synastrie ?"
-    a: "D’un thème à l’autre, Uranus et la Lune se font face, à 8° près. La personne qui a la Lune porte souvent le besoin de proximité et d’habitudes de la paire, celle qui a Uranus son besoin d’espace et de changement, et chacune tire l’autre vers son bout. C’est une polarité à équilibrer, pas le signe que l’une veut partir."
+    a: "D’un thème à l’autre, Uranus et la Lune se font face, à 8° près. Dans les faits, la personne qui a la Lune parle souvent pour la proximité et les habitudes, celle qui a Uranus pour l’espace et le changement, et chacune tire l’autre vers son bout. L’enjeu est l’équilibre, et rien n’y dit que l’une veut partir."
   - q: "Lune opposition Uranus, est-ce compatible avec une longue relation ?"
     a: "Tout contact peut exister dans une longue relation, et aucun n’en décide. Celui-ci demande des accords plus que de la ressemblance : des moments à deux et des moments à soi, choisis par les deux. Quand chaque personne prend aussi un peu du bout de l’autre, la tension devient un rythme plutôt qu’un tiraillement."
   - q: "Avec Lune opposition Uranus, pourquoi échangeons-nous sans cesse les rôles ?"

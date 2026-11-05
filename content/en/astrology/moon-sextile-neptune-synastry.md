@@ -1,7 +1,7 @@
 ---
 title: "Moon sextile Neptune in synastry"
 h1: "Moon sextile Neptune between two charts"
-description: "Moon sextile Neptune in synastry: one person’s imagination gives the other’s moods a form, when both reach for it. Each side, how common it is, the catch."
+description: "Moon sextile Neptune in synastry: one person’s imagination gives the other’s moods a form, when both reach for it. Both sides, the count, why it stays vague."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -44,7 +44,7 @@ A sextile's gift can stay a gift unopened. The Neptune person may drift into rev
 
 ## How to meet it {#how-to-meet-it}
 
-Make something together. A shared playlist, a photo album, a garden, a cooking ritual: anything that gives the imagination a form and the feelings a place. The Moon person can say in plain words what would comfort them; the Neptune person can turn that into something lovely, then check it's still what was asked for. A couple might keep a creative habit; relatives might share a tradition of storytelling; coworkers can bring imagination to how a team looks after itself.
+Create something together. A shared playlist, a photo album, a garden, a cooking ritual: anything that gives the imagination a form and the feelings a place. The Moon person can spell out what would comfort them; the Neptune person can turn that into something lovely, then check it's still what was asked for. A couple might keep a creative habit; relatives might share a tradition of storytelling; coworkers can bring imagination to how a team looks after itself.
 
 About 1 pair of people in 10 has this sextile, one way round or the other, within 4.8°. Neptune's side of it is common property, since it stays some fourteen years in each sign; the Moon's side is a matter of days and hours, and that's the side that belongs to the two of you. With an orb under 5°, the Moon's daily 13° or so settles it within hours, and the houses, which say where imagination meets feeling in each life, need both birth times too ([why I wait for the time](/blog/unknown-birth-time/#why-i-wait-for-the-time)).
 

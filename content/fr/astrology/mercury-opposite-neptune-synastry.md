@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 145
 glyph: "☿☍♆"
-definition: "Mercure opposition Neptune en synastrie tient Mercure, chez une personne, et Neptune, chez l’autre, à environ 180°, à 6° près. Les faits et les mots d’un côté font face à l’imagination et au ressenti de l’autre, et chacun rend visible la façon de savoir de l’autre. J’y lis un équilibre entre le littéral et l’imaginé, à apprendre ensemble."
+definition: "Mercure opposition Neptune en synastrie tient face à face, à environ 180° et à 6° près, Mercure chez une personne et Neptune chez l’autre. Les faits et les mots rencontrent l’imagination et le ressenti, et chaque bout rend visible la façon de savoir de l’autre. J’y lis un équilibre entre le littéral et l’imaginé, à apprendre ensemble."
 facts:
   - { k: "Corps", v: "Mercure ☿ chez l’une, Neptune ♆ chez l’autre" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -28,17 +28,17 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’opposition, 180°, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6° près" }
 ---
-L’une des deux personnes veut savoir ce qui s’est passé ; l’autre, ce que cela voulait dire. Mercure opposition Neptune en synastrie installe Mercure, chez l’une, et Neptune, chez l’autre, de part et d’autre du zodiaque, et le littéral et l’imaginé se retrouvent face à face à la même table. Les deux bouts comptent, parce que chacun voit ce que l’autre ne peut pas voir.
+L’une des deux personnes veut savoir ce qui s’est passé ; l’autre, ce que cela voulait dire. Mercure opposition Neptune en synastrie installe Mercure, chez l’une, et Neptune, chez l’autre, de part et d’autre du zodiaque, et le littéral et l’imaginé se retrouvent face à face à la même table. Les deux bouts comptent, parce que chacun aperçoit ce qui échappe à l’autre.
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Mercure](/astrology/mercury/) est la façon dont une personne raisonne, nomme et distingue une chose d’une autre. [Neptune](/astrology/neptune/) est sa façon de sentir, d’imaginer et de compatir : la part à l’aise avec ce qui ne se laisse pas épingler. Une [opposition](/astrology/opposition/) fait de deux fonctions une polarité, chacune vue clairement face à l’autre, et en tant que contact entre deux thèmes, l’un des [aspects de synastrie](/astrology/synastry-aspects/), elle donne un bout à chaque personne.
+[Mercure](/astrology/mercury/) décrit la façon de raisonner, de nommer, de distinguer une chose d’une autre. [Neptune](/astrology/neptune/) est sa façon de sentir, d’imaginer et de compatir : la part à l’aise avec ce qui échappe aux définitions. Une [opposition](/astrology/opposition/) fait de deux fonctions une polarité, chacune vue clairement face à l’autre, et en tant que contact entre deux thèmes, l’un des [aspects de synastrie](/astrology/synastry-aspects/), elle donne un bout à chaque personne.
 
 Ensemble, vous voyez plus large. La personne côté Mercure apporte les faits sur lesquels l’intuition de la personne côté Neptune peut s’appuyer ; la personne côté Neptune apporte le sens qui manquait aux faits de la personne côté Mercure. Vous pouvez prendre ensemble des décisions à la fois sensées et humaines : le projet qui marche et qui semble juste. Beaucoup de paires qui ont cette opposition découvrent que l’une traduit l’autre en société, la vision de la personne qui rêve en étapes, ou la prudence de la personne réaliste en quelque chose de plus doux.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Une balançoire peut pencher trop loin. Quand c’est votre Mercure, il peut sembler que c’est toujours vous qui vérifiez, qui demandez les détails, qui gâchez le rêve d’une question ; ou bien vous absorbez si bien les humeurs de l’autre que vous perdez votre propre lecture des choses. Quand c’est votre Neptune, votre façon de sentir semble toujours devoir se justifier avec des mots qu’elle n’a pas ; ou bien vous vous appuyez sur la certitude de l’autre et cessez de vous fier à la vôtre. La polarité n’est pas l’inimitié, et la compassion n’est pas l’effacement de soi, mais chaque bout peut l’oublier.
+Une balançoire peut pencher trop loin. Quand c’est votre Mercure, vous avez peut-être l’impression que c’est toujours vous qui vérifiez, qui demandez les détails, qui gâchez le rêve d’une question ; ou bien vous absorbez si bien les humeurs de l’autre que vous perdez votre propre lecture des choses. Quand c’est votre Neptune, votre façon de sentir semble toujours devoir se justifier avec des mots qu’elle n’a pas ; ou bien vous vous appuyez sur la certitude de l’autre et cessez de vous fier à la vôtre. La polarité n’est pas l’inimitié, et la compassion n’est pas l’effacement de soi, mais chaque bout peut l’oublier.
 
 En face de Neptune, que la personne côté Neptune partage avec toutes les personnes nées dans les mêmes quatorze ans environ, c’est Mercure qui fait de cette opposition une affaire entre deux personnes plutôt qu’entre deux époques. À l’échelle d’un seul thème, [Mercure opposition Neptune](/astrology/mercury-opposite-neptune/) montre souvent quelqu’un qui rencontre l’imagination à travers les autres ; entre deux thèmes, cette autre personne est dans la pièce, et vous pouvez lui demander ce qu’elle voulait dire.
 
@@ -46,7 +46,7 @@ Comment les autres angles de la paire répartissent ces deux façons de savoir 
 
 - **[Mercure conjonction Neptune en synastrie](/astrology/mercury-conjunct-neptune-synastry/) :** les mots et l’imagination sur un même degré, si bien que les deux bouts se fondent au lieu de se faire face.
 - **[Mercure sextile Neptune en synastrie](/astrology/mercury-sextile-neptune-synastry/) :** une ouverture douce ; l’imagination offerte sur invitation.
-- **[Mercure carré Neptune en synastrie](/astrology/mercury-square-neptune-synastry/) :** un angle droit, où le sens dérive entre mots clairs et impressions.
+- **[Mercure carré Neptune en synastrie](/astrology/mercury-square-neptune-synastry/) :** un quart de cercle, où le sens dérive entre mots clairs et impressions.
 - **[Mercure trigone Neptune en synastrie](/astrology/mercury-trine-neptune-synastry/) :** l’aisance d’un trigone ; le sentiment et les mots au même pas.
 
 ## Comment le vivre {#comment-le-vivre}

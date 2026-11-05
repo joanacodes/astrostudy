@@ -1,13 +1,13 @@
 ---
 title: "Moon conjunct Neptune in synastry"
 h1: "Moon conjunct Neptune between two charts"
-description: "Moon conjunct Neptune in synastry: one person’s imagination settles on the other’s feelings, tender and hard to outline. Each side, the count, where they blur."
+description: "Moon conjunct Neptune in synastry: one person’s imagination settles on the other’s feelings, tender and hard to outline. Who feels what, and how often."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 91
 glyph: "☽☌♆"
-definition: "Moon conjunct Neptune in synastry means one person’s Neptune sits within 8° of the other’s Moon. One person’s imagination and compassion settle right on the other’s feelings and needs. I read it as deep tenderness between two people, and I watch for the point where sensing each other replaces asking."
+definition: "Moon conjunct Neptune in synastry means one person’s Neptune sits within 8° of the other’s Moon. One person’s imagination and compassion settle right on the other’s feelings and needs. I read it as deep tenderness between two people, with one caution: sensing each other mustn’t replace asking."
 facts:
   - { k: "Bodies", v: "One person’s Moon ☽, the other’s Neptune ♆" }
   - { k: "Aspect", v: "Conjunction ☌, 0°" }
@@ -32,9 +32,9 @@ Moon conjunct Neptune in synastry places one person's Neptune on the other's Moo
 
 The [Moon](/astrology/moon/) processes feeling and keeps track of what a person needs to feel safe. [Neptune](/astrology/neptune/) imagines, empathises and loosens the boundaries that aren't needed. A [conjunction](/astrology/conjunction/) makes them one process; across two charts, the ground covered by [synastry aspects](/astrology/synastry-aspects/), that process belongs to two people.
 
-If the Moon is yours, this person can seem to feel your feelings with you. You don't have to explain the bad day: they've already put the kettle on, chosen the music, made the evening gentle. Being sensed this completely can be deeply restful.
+On the Moon's side of the contact, this person can seem to feel your feelings with you. You don't have to explain the bad day: they've already put the kettle on, chosen the music, made the evening gentle. Being sensed this completely can be deeply restful.
 
-If Neptune is yours, this person gives your imagination and compassion somewhere to go. Their moods move you, their needs inspire you, and caring for them can feel less like effort than like making something beautiful.
+On Neptune's side, this person gives your imagination and compassion somewhere to go. Their moods move you, their needs inspire you, and caring for them can feel less like effort than like making something beautiful.
 
 What flows is a tenderness that asks for little explanation: friends who can sit together in silence, a couple whose home becomes a refuge, siblings who know when not to talk.
 

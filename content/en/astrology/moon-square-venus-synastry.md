@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 68
 glyph: "☽□♀"
-definition: "In Moon square Venus in synastry, the Moon in one chart and Venus in the other are about 90° apart, within 6.8°. The way one shows appreciation and the way the other needs looking after don’t line up at first. To me it’s friction that turns two people into translators of each other’s care, never a lack of affection."
+definition: "In Moon square Venus in synastry, one chart’s Moon and the other’s Venus sit about 90° apart, within 6.8°. The way one shows appreciation and the way the other needs looking after don’t line up at first. To me it’s friction that turns two people into translators of each other’s care, never a lack of affection."
 facts:
   - { k: "Bodies", v: "One person’s Moon ☽, the other’s Venus ♀" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -51,6 +51,6 @@ Friction isn't failure, and nobody here is being unkind.
 
 Ask, specifically: "what would actually help right now?" If Venus is yours, offer what's asked for, even when it's less lovely than what you had in mind; if the Moon is yours, take what's offered as care, then say what you need. Between co-workers, it might be the manager whose praise is generous when you needed clear instructions; among adult relatives, the one who shows love by cooking when you needed to be listened to; friends and couples have their own versions. Spelling it out can feel clumsy, and it works.
 
-Of every 7 pairs of people, about one has this square within 6.8°, whichever of them has the Moon. Born a few hours earlier or later, the Moon person might not have it at all: the Moon covers about 13° a day, while Venus, three to four weeks in a sign, barely moves. Both birth times are needed: without them, I don't read the synastry ([what changes without a birth time](/blog/unknown-birth-time/)).
+Of every 7 pairs of people, about one has this square within 6.8°, whichever of them has the Moon. Born a few hours earlier or later, the Moon person might not have it at all: the Moon runs through some 13° a day, while Venus, three to four weeks in a sign, barely moves. Both birth times are needed: without them, I don't read the synastry ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Inside a single chart, the same square is [Moon square Venus](/astrology/moon-square-venus/). Between two, [Moon opposite Venus in synastry](/astrology/moon-opposite-venus-synastry/) turns the mismatch into a polarity; [Moon conjunct Venus in synastry](/astrology/moon-conjunct-venus-synastry/) makes the two kinds of care hard to tell apart; [Moon sextile Venus in synastry](/astrology/moon-sextile-venus-synastry/) and [Moon trine Venus in synastry](/astrology/moon-trine-venus-synastry/) let them meet more easily.

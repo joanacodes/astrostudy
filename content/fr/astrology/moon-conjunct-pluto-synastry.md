@@ -2,7 +2,7 @@
 title: "Lune conjonction Pluton en synastrie"
 slug: "lune-conjonction-pluton-synastrie"
 h1: "Lune conjonction Pluton entre deux thèmes"
-description: "Lune conjonction Pluton en synastrie : l’intensité de l’une se pose sur les émotions de l’autre, et rien ne reste en surface. Chaque côté, la fréquence."
+description: "Lune conjonction Pluton en synastrie : l’intensité de l’une se pose sur les émotions de l’autre, et rien ne reste en surface. Qui ressent quoi, la confiance."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -33,9 +33,9 @@ Lune conjonction Pluton en synastrie pose Pluton, dans le thème d’une personn
 
 La [Lune](/astrology/moon/) porte le ressenti, l’attachement et le besoin de se sentir en sécurité. [Pluton](/astrology/pluto/) transforme : écarter ce qui ne sert plus, renouveler à la racine, rendre un sens plus fort de son propre pouvoir. Une [conjonction](/astrology/conjunction/) les fait agir d’un même geste, et comme les [aspects de synastrie](/astrology/synastry-aspects/) relient deux thèmes, ce geste est ici partagé par deux personnes.
 
-Si la Lune est la vôtre, cette personne voit peut-être droit dans ce que vous ressentez, y compris ce que vous vous cachiez. Un regard pareil peut soulager : de vieilles blessures sont nommées, des habitudes de protection se desserrent, et vous en sortez plus solide. Il peut aussi vous laisser à nu, surtout au début.
+Avec votre Lune dans ce contact, cette personne voit peut-être droit dans ce que vous ressentez, y compris ce que vous vous cachiez. Un regard pareil peut soulager : de vieilles blessures sont nommées, des habitudes de protection se desserrent, et vous en sortez plus solide. Il peut aussi vous laisser à nu, surtout au début.
 
-Si Pluton est à vous, cette personne vous laisse peut-être entrer là où d’autres vous laissent à la porte. Votre intensité rencontre de l’émotion plutôt que de la peur, et prendre soin d’elle peut réveiller la part de vous la plus protectrice et la plus honnête. Sa tendresse peut aussi atteindre vos propres zones gardées.
+Avec Pluton de votre côté, cette personne vous laisse peut-être entrer là où d’autres vous laissent à la porte. Votre intensité rencontre de l’émotion plutôt que de la peur, et prendre soin d’elle peut réveiller la part de vous la plus protectrice et la plus honnête. Sa tendresse peut aussi atteindre vos propres zones gardées.
 
 Ce qui circule, c’est la profondeur : des amis qui se confient tout, un couple qui se transforme pour le mieux, des proches qui disent enfin la chose vraie.
 

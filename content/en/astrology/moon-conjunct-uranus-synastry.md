@@ -1,13 +1,13 @@
 ---
 title: "Moon conjunct Uranus in synastry"
 h1: "Moon conjunct Uranus between two charts"
-description: "Moon conjunct Uranus in synastry: the familiar and the new meet on one degree, one person bringing each. Each side, the count, and where they blur."
+description: "Moon conjunct Uranus in synastry: the familiar and the new meet on one degree, one person bringing each. Both sides, how often, and where they blur."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 86
 glyph: "☽☌♅"
-definition: "Moon conjunct Uranus in synastry means one person’s Uranus sits within 8° of the other’s Moon. One person’s urge to renew, differ and stay free lands on the other’s needs and habits. To me it’s a contact that wakes things up, and I watch for the moment one person’s changes start running the other’s moods."
+definition: "Moon conjunct Uranus in synastry means one person’s Uranus sits within 8° of the other’s Moon. One person’s urge to renew, differ and stay free lands on the other’s needs and habits. To me it’s a contact that wakes things up, and I keep an eye on the moment one person’s changes start running the other’s moods."
 facts:
   - { k: "Bodies", v: "One person’s Moon ☽, the other’s Uranus ♅" }
   - { k: "Aspect", v: "Conjunction ☌, 0°" }
@@ -46,11 +46,11 @@ On one degree, two needs can run together: the Moon person's need to feel settle
 
 Decide together what doesn't move. A shared meal, a weekly call, a room nobody rearranges without asking: a few anchors let the rest move freely. The Uranus person can give notice before big changes; the Moon person can check, now and then, whether a new habit is one they chose or one they caught. In a couple or a family, that means changes discussed rather than announced; between colleagues, experiments with a clear way back.
 
-About 1 pair of people in 12 has this conjunction, one way round or the other, within 8°. With roughly seven years to a sign, the Uranus person's Uranus is close to a generational signature; it becomes part of this pair only because the other person's Moon happens to land on it. That Moon moves about 13° a day, so the conjunction depends on both birth times, and so do the houses that show where it touches each life ([what changes without a birth time](/blog/unknown-birth-time/)).
+About 1 pair of people in 12 has this conjunction, one way round or the other, within 8°. With roughly seven years to a sign, the Uranus person's Uranus is close to a generational signature; it becomes part of this pair only because the other person's Moon happens to land on it. That Moon travels about 13° a day, which makes both birth times decisive for the conjunction, and for the houses that show where it touches each life ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Further round the circle, the same two needs meet differently:
 
-- **[Moon sextile Uranus in synastry](/astrology/moon-sextile-uranus-synastry/):** small refreshments offered, which wait to be taken up.
+- **[Moon sextile Uranus in synastry](/astrology/moon-sextile-uranus-synastry/):** small refreshments offered, for the other to accept or not.
 - **[Moon square Uranus in synastry](/astrology/moon-square-uranus-synastry/):** closeness and room asked for at the same moment.
 - **[Moon trine Uranus in synastry](/astrology/moon-trine-uranus-synastry/):** change and comfort keeping step, with little to negotiate.
 - **[Moon opposite Uranus in synastry](/astrology/moon-opposite-uranus-synastry/):** the nest at one end, the open road at the other.

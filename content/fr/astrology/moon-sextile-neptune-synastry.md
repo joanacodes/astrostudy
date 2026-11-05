@@ -2,7 +2,7 @@
 title: "Lune sextile Neptune en synastrie"
 slug: "lune-sextile-neptune-synastrie"
 h1: "Lune sextile Neptune entre deux thèmes"
-description: "Lune sextile Neptune en synastrie : l’imagination de l’une donne forme aux humeurs de l’autre, si l’on s’en saisit. Chaque côté, la fréquence, le revers."
+description: "Lune sextile Neptune en synastrie : l’imagination de l’une donne forme aux humeurs de l’autre, si l’on s’en saisit. Les deux côtés, le flou possible."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -45,7 +45,7 @@ Le cadeau d’un sextile peut rester dans son papier. La personne qui a Neptune 
 
 ## Comment le vivre {#comment-le-vivre}
 
-Créez quelque chose ensemble. Une liste de morceaux partagée, un album de photos, un jardin, un rituel de cuisine : tout ce qui donne une forme à l’imagination et une place aux émotions. La personne qui a la Lune peut dire avec des mots simples ce qui la réconforterait ; celle qui a Neptune peut en faire quelque chose de beau, puis vérifier que c’est toujours ce qui était demandé. Un couple peut garder une habitude créative ; une famille peut entretenir une tradition d’histoires racontées ; des collègues peuvent mettre de l’imagination dans la façon dont une équipe prend soin d’elle-même.
+Créez quelque chose ensemble. Une liste de morceaux partagée, un album de photos, un jardin, un rituel de cuisine : tout ce qui donne une forme à l’imagination et une place aux émotions. La personne qui a la Lune peut formuler simplement ce qui la réconforterait ; celle qui a Neptune peut en faire quelque chose de beau, puis vérifier que c’est toujours ce qui était demandé. Un couple peut garder une habitude créative ; une famille peut entretenir une tradition d’histoires racontées ; des collègues peuvent mettre de l’imagination dans la façon dont une équipe prend soin d’elle-même.
 
 Environ 1 paire de personnes sur 10 a ce sextile, dans un sens ou dans l’autre, à 4,8° près. Le côté Neptune est un bien commun, puisque Neptune reste quelque quatorze ans dans chaque signe ; le côté Lune est une affaire de jours et d’heures, et c’est lui qui vous appartient, à vous deux. Avec un orbe de moins de 5°, les 13° environ que la Lune parcourt chaque jour tranchent en quelques heures ; quant aux maisons, où l’imagination rencontre le ressenti dans chaque vie, elles demandent aussi les deux heures de naissance ([pourquoi j’attends l’heure](/blog/unknown-birth-time/#pourquoi-j-attends-l-heure)).
 

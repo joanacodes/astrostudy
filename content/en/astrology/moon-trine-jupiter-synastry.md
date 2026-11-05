@@ -1,7 +1,7 @@
 ---
 title: "Moon trine Jupiter in synastry"
 h1: "Moon trine Jupiter between two charts"
-description: "Moon trine Jupiter in synastry: encouragement and comfort running both ways in one element. Both sides, how common it is, and what such ease can hide."
+description: "Moon trine Jupiter in synastry: encouragement and comfort running both ways in one element. The giver, the receiver, the count, what ease can hide."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -26,7 +26,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 6.8°" }
 ---
-Moon trine Jupiter in synastry joins one person's needs and the other's appetite for growth at about 120°, usually across one element. Between these two, a hard week tends to shrink to its real size, and an idea tends to find someone who can use it. Each of you stands at a different end of that ease.
+Moon trine Jupiter in synastry joins what one person needs to the other's appetite for growth at about 120°, usually across one element. Between these two, a hard week tends to shrink to its real size, and an idea tends to find someone who can use it. Each of you stands at a different end of that ease.
 
 ## What flows {#what-flows}
 
@@ -53,6 +53,6 @@ The pair's other contacts carry the same functions with more effort, or less spa
 
 Let a bad day be a bad day before anyone finds its meaning. The Jupiter person can sometimes be the one who's looked after; the Moon person can offer a wider view as well as receive one. In a couple, that might be a habit of trading roles; among friends, the one who always advises getting asked how they are; in a family, a brother or sister who no longer has to have all the answers; between colleagues, help and praise flowing in both directions.
 
-About 1 pair of people in 7 has this trine, one way round or the other, within 6.8°. I need both birth times to see it. In a few hours the Moon travels several degrees, some 13 in a full day, enough to open or close the orb, and the times also give the houses where each of you meets the trine ([what changes without a birth time](/blog/unknown-birth-time/)).
+About 1 pair of people in 7 has this trine, one way round or the other, within 6.8°. Both birth times have to be known to see it. In a few hours the Moon travels several degrees, some 13 in a full day, enough to open or close the orb, and the times also give the houses where each of you meets the trine ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 In a single birth chart, [Moon trine Jupiter](/astrology/moon-trine-jupiter/) belongs to one person; here it's a current between two, and what it carries is up to both of you.

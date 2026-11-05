@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 89
 glyph: "☽△♅"
-definition: "Moon trine Uranus in synastry means one person’s Uranus is about 120° from the other’s Moon, within 6.8°, as a rule in signs that share an element. One person’s independence and the other’s need for security work together, so change rarely feels like a threat. I read it as a freeing ease, worth using on purpose."
+definition: "Moon trine Uranus in synastry means one person’s Uranus is about 120° from the other’s Moon, within 6.8°, as a rule in signs that share an element. One person’s independence and the other’s need for security work together, so change rarely feels like a threat. In my readings it’s a freeing ease, worth using on purpose."
 facts:
   - { k: "Bodies", v: "One person’s Moon ☽, the other’s Uranus ♅" }
   - { k: "Aspect", v: "Trine △, 120°" }
@@ -44,14 +44,14 @@ When change costs so little, the need for continuity can go unsaid. The Moon per
 
 ## How to meet it {#how-to-meet-it}
 
-Use the ease deliberately. Pick the change you've both been postponing and make it while it's easy; then pick one thing that stays the same, a ritual, a place, a weekly hour, and protect it. The Moon person can say plainly when they need stillness; the Uranus person can say thank you for the room. Friends can turn spontaneity into a tradition; colleagues can lead a change together.
+Use the ease deliberately. Pick the change you've both been postponing and make it while it's easy; then pick one thing that stays the same, a ritual, a place, a weekly hour, and protect it. The Moon person can speak up when they need stillness; the Uranus person can say thank you for the room. Friends can turn spontaneity into a tradition; colleagues can lead a change together.
 
 About 1 pair of people in 7 has this trine, one way round or the other, within 6.8°. Uranus moved so slowly around the Uranus person's birth, about seven years a sign, that its side of the trine is a generation's inheritance; the Moon's side is a date and an hour, and it's the Moon that turns the trine from a backdrop into an encounter. Both birth times decide it, then: a Moon covering roughly 13° a day can cross the orb within hours, and only the times place the trine in each person's houses ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Other angles make the same two needs work harder:
 
 - **[Moon conjunct Uranus in synastry](/astrology/moon-conjunct-uranus-synastry/):** freedom and comfort on one degree, hard to tell apart.
-- **[Moon sextile Uranus in synastry](/astrology/moon-sextile-uranus-synastry/):** change offered in small doses, waiting to be taken up.
+- **[Moon sextile Uranus in synastry](/astrology/moon-sextile-uranus-synastry/):** change in small doses, offered rather than imposed.
 - **[Moon square Uranus in synastry](/astrology/moon-square-uranus-synastry/):** two needs that call at the same moment, so timing becomes the work.
 - **[Moon opposite Uranus in synastry](/astrology/moon-opposite-uranus-synastry/):** one person holding closeness, the other room, across a line.
 

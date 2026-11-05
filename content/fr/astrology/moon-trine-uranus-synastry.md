@@ -2,7 +2,7 @@
 title: "Lune trigone Uranus en synastrie"
 slug: "lune-trigone-uranus-synastrie"
 h1: "Lune trigone Uranus entre deux thèmes"
-description: "Lune trigone Uranus en synastrie : la liberté de l’une et le confort de l’autre s’entendent, et le changement ne fait plus peur. Chaque côté, la fréquence."
+description: "Lune trigone Uranus en synastrie : la liberté de l’une et le confort de l’autre s’entendent, et le changement ne fait plus peur. Deux points de vue, un chiffre."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -45,7 +45,7 @@ Quand le changement coûte si peu, le besoin de continuité peut rester tu. La p
 
 ## Comment le vivre {#comment-le-vivre}
 
-Mettez cette aisance au travail, délibérément. Choisissez le changement que la paire repousse depuis longtemps et faites-le pendant que c’est facile ; puis choisissez une chose qui ne change pas, un rituel, un lieu, une heure par semaine, et protégez-la. La personne qui a la Lune peut dire clairement quand elle a besoin de calme ; celle qui a Uranus peut dire merci pour l’espace reçu. Des amis peuvent faire de la spontanéité une tradition ; des collègues peuvent mener un changement ensemble.
+Mettez cette aisance au travail, délibérément. Choisissez le changement que la paire repousse depuis longtemps et faites-le pendant que c’est facile ; puis choisissez une chose qui ne change pas, un rituel, un lieu, une heure par semaine, et protégez-la. La personne qui a la Lune peut annoncer clairement quand elle a besoin de calme ; celle qui a Uranus peut dire merci pour l’espace reçu. Des amis peuvent faire de la spontanéité une tradition ; des collègues peuvent mener un changement ensemble.
 
 Environ 1 paire de personnes sur 7 a ce trigone, dans un sens ou dans l’autre, à 6,8° près. Autour de la naissance de la personne qui porte Uranus, cette planète avançait si lentement, environ sept ans par signe, que le côté Uranus du trigone est un héritage de génération ; le côté Lune, lui, est une date et une heure, et c’est la Lune qui fait du trigone une rencontre plutôt qu’un décor. C’est donc l’heure des deux naissances qui tranche : une Lune qui parcourt environ 13° par jour peut traverser l’orbe en quelques heures, et seules les heures placent le trigone dans les maisons de chaque personne ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

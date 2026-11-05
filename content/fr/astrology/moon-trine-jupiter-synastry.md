@@ -43,7 +43,7 @@ L’élément commun donne le style : en feu, l’encouragement prend la forme 
 
 Un contact facile peut cacher ce qu’il ne traite pas. Le recul arrive parfois avant que l’émotion ait été ressentie : la personne qui a la Lune apprend à sauter le creux pour aller droit à la vue d’ensemble, et quelque chose reste mal digéré. Les rôles peuvent aussi se figer : celle qui a Jupiter toujours dans le rôle de qui élargit, celle qui a la Lune toujours dans celui de qui reçoit, jusqu’à ce qu’on oublie de demander à la première ce dont elle a besoin. L’aisance n’a rien d’inévitable, et la fluidité n’est pas de la passivité : un trigone garde sa chaleur quand les deux l’entretiennent.
 
-Les autres contacts de la paire portent les mêmes fonctions avec plus d’effort, ou moins d’espace :
+Ailleurs sur le cercle, les mêmes fonctions demandent plus d’effort, ou laissent moins d’espace :
 
 - **[Lune conjonction Jupiter en synastrie](/astrology/moon-conjunct-jupiter-synastry/) :** le besoin et la croissance fondus sur un même degré, quand le trigone les garde à un tiers de cercle.
 - **[Lune sextile Jupiter en synastrie](/astrology/moon-sextile-jupiter-synastry/) :** une ouverture plutôt qu’un courant, avec des offres qui attendent qu’on les saisisse.

@@ -2,7 +2,7 @@
 title: "Lune sextile Pluton en synastrie"
 slug: "lune-sextile-pluton-synastrie"
 h1: "Lune sextile Pluton entre deux thèmes"
-description: "Lune sextile Pluton en synastrie : la profondeur de l’une est à portée des émotions de l’autre, si les deux choisissent d’y aller. Chaque côté, la fréquence."
+description: "Lune sextile Pluton en synastrie : la profondeur de l’une est à portée des émotions de l’autre, si les deux choisissent d’y aller. Chaque point de vue."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"

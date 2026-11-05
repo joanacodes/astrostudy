@@ -2,13 +2,13 @@
 title: "Soleil trigone Pluton en synastrie"
 slug: "soleil-trigone-pluton-synastrie"
 h1: "Soleil trigone Pluton entre deux thèmes"
-description: "Soleil trigone Pluton en synastrie : la profondeur d’une personne fortifie sans lutte l’identité de l’autre. Ce que chacune y gagne, ce qui reste dans l’ombre."
+description: "Soleil trigone Pluton en synastrie : une profondeur qui affermit un moi au lieu de l’ébranler. Ce que chacune y gagne, ce qui reste dans l’ombre."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 44
 glyph: "☉△♇"
-definition: "Soleil trigone Pluton en synastrie laisse l’identité d’une personne et la profondeur de l’autre travailler ensemble sans peine, Pluton se plaçant à quatre signes du Soleil, avec un orbe de 6,8°. Sous pression, la paire tend à se raffermir. J’y lis une résilience partagée, à employer exprès plutôt que seulement en cas de crise."
+definition: "Dans Soleil trigone Pluton en synastrie, l’identité d’une personne et la profondeur de l’autre coopèrent sans tension, à 120° environ de distance, à 6,8° près, souvent dans un même élément. Sous pression, la paire tend à se raffermir. J’y lis une résilience partagée, à employer exprès plutôt que seulement en cas de crise."
 facts:
   - { k: "Corps", v: "Le Soleil ☉ d’une personne, Pluton ♇ dans le thème de l’autre" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -19,16 +19,16 @@ facts:
 related: ["/astrology/sun", "/astrology/pluto", "/astrology/trine", "/astrology/sun-trine-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Soleil trigone Pluton en synastrie ?"
-    a: "La profondeur et la capacité de renouveau de la personne qui a Pluton soutiennent sans effort l’identité de celle qui a le Soleil, à environ 120°, à 6,8° près. L’une se sent plus résistante, l’autre voit son intensité bienvenue. Cela décrit une façon d’affronter les difficultés ensemble, pas ce qu’il faudra affronter."
+    a: "Ici, la profondeur affermit au lieu d’ébranler : l’intensité de la personne qui a Pluton soutient l’identité de l’autre depuis environ 120°, à 6,8° près. L’une se sent plus résistante, l’autre bienvenue telle qu’elle est. Il s’agit de la façon d’affronter ensemble les difficultés, pas de ce qu’il faudra affronter."
   - q: "Soleil trigone Pluton est-il le signe d’un lien profond ?"
-    a: "Il paraît souvent profond, parce que les sujets difficiles s’abordent facilement entre les deux. Mais aucun contact ne mesure un lien ni ne le garantit ; ce trigone décrit une façon de se rencontrer, et ce que deux personnes bâtissent dessus leur appartient."
+    a: "Il paraît souvent profond, parce que les sujets difficiles s’abordent facilement entre les deux. Mais aucun contact ne mesure un lien ni ne le garantit ; ce trigone décrit une façon de se rencontrer, et ce qui en naît dépend des deux personnes."
   - q: "Que peut cacher Soleil trigone Pluton ?"
-    a: "Son propre poids. Deux personnes si habituées à la profondeur peuvent ne pas voir tout ce qu’elles portent, repousser un changement parce que le lien tient si bien, ou laisser sans examen l’influence discrète de l’une. En parler de temps en temps garde cette aisance honnête."
+    a: "Son propre poids. Deux personnes si habituées à la profondeur peuvent ne pas voir tout ce qu’elles portent, repousser un changement parce que le lien tient si bien, ou laisser sans examen l’influence discrète de l’une. Le nommer à voix haute, de temps à autre, suffit en général."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, entre signes distants de quatre" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6,8° près" }
 ---
-Quand les choses deviennent dures, cette paire tend à se raffermir plutôt qu’à vaciller. Dans Soleil trigone Pluton entre deux thèmes, Pluton, chez l’une, se trouve à quatre signes du Soleil de l’autre, en général dans le même élément, et la profondeur et l’identité travaillent ensemble sans lutte.
+Quand les choses deviennent dures, cette paire tend à se raffermir plutôt qu’à vaciller. Soleil trigone Pluton relie, à travers quatre signes, Pluton chez l’une et le Soleil de l’autre, le plus souvent dans un même élément, et la profondeur et l’identité travaillent ensemble sans lutte.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -38,7 +38,7 @@ Avec le Soleil, vous gagnez en résistance auprès de cette personne. Votre sent
 
 Avec Pluton, votre profondeur rencontre de la chaleur plutôt que de la méfiance. Votre intensité a sa place, rien en vous n’a besoin d’être atténué, et la vitalité de l’autre vous renouvelle à votre tour.
 
-L’élément donne la texture : en feu, un courage partagé ; en terre, de l’endurance face aux difficultés longues et concrètes ; en air, une franchise sur ce que d’autres n’abordent pas ; en eau, une profondeur affective qui se passe d’explications. Des amitiés qui ont traversé une crise, un couple qui fait équipe pendant une année difficile, des collègues sur un travail à fort enjeu, la personne de la famille qu’on appelle en cas d’urgence : ce trigone ressemble souvent à cela.
+L’élément donne la texture : en feu, un courage partagé ; en terre, de l’endurance face aux difficultés longues et concrètes ; en air, une franchise sur ce que d’autres n’abordent pas ; en eau, une profondeur affective qui se passe d’explications. Des amitiés qui ont traversé une crise, un couple qui fait équipe pendant une année difficile, des collègues sur un travail à fort enjeu, la personne de la famille qu’on appelle en cas d’urgence : c’est souvent sous ces traits qu’apparaît ce trigone.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
@@ -46,15 +46,15 @@ Ce que cette aisance peut cacher, c’est son propre poids. Deux personnes aussi
 
 À côté des autres angles de la paire :
 
-- **[Soleil conjonction Pluton en synastrie](/astrology/sun-conjunct-pluto-synastry/) :** la profondeur se pose sur l’identité même, et les deux peuvent se confondre.
+- **[Soleil conjonction Pluton en synastrie](/astrology/sun-conjunct-pluto-synastry/) :** la profondeur se pose sur l’identité, sans plus aucune distance.
 - **[Soleil sextile Pluton en synastrie](/astrology/sun-sextile-pluto-synastry/) :** la même force est offerte, et il faut la demander.
 - **[Soleil carré Pluton en synastrie](/astrology/sun-square-pluto-synastry/) :** la profondeur presse de côté, et l’autorité doit se partager.
-- **[Soleil opposition Pluton en synastrie](/astrology/sun-opposite-pluto-synastry/) :** la profondeur fait face au Soleil depuis l’autre côté du thème, comme une forte attraction.
+- **[Soleil opposition Pluton en synastrie](/astrology/sun-opposite-pluto-synastry/) :** la profondeur se tient de l’autre côté du thème, et visibilité et intimité doivent s’équilibrer.
 
 ## Comment le vivre {#comment-le-vivre}
 
 Employez cette force exprès, pas seulement dans les urgences. Lancez-vous ensemble dans quelque chose d’exigeant, une rénovation, une formation, un long projet, et parlez de ce que vous avez traversé. Vérifiez de temps en temps que l’influence va dans les deux sens. Gardez de la place pour la légèreté et pour les autres, afin que la profondeur ne se referme pas en monde privé. Un couple peut nommer cette force à voix haute ; entre amis, on peut s’épauler à chaque tournant ; une famille peut se partager le rôle de la personne solide ; des collègues peuvent former une excellente cellule de crise, à condition de se reposer entre deux crises.
 
-Environ 1 paire de personnes sur 7 a ce trigone, dans un sens ou dans l’autre, à 6,8° près. Pluton reste de 12 à 31 ans dans un signe, toile de fond de générations entières ; le trigone, lui, est fixé par un anniversaire, et c’est ce qui en fait celui de cette paire. J’attends les deux heures de naissance : l’heure déplace à peine le Soleil, qui parcourt environ un degré par jour, mais elle décide des maisons, donc de l’endroit de chaque vie où cette force partagée se dépense ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Environ 1 paire de personnes sur 7 a ce trigone, dans un sens ou dans l’autre, à 6,8° près. Pluton demeure de 12 à 31 ans dans un même signe, toile de fond de générations entières ; le trigone, lui, est fixé par un anniversaire, et c’est ce qui en fait celui de cette paire. J’attends les deux heures de naissance : l’heure déplace à peine le Soleil, qui parcourt environ un degré par jour, mais elle décide des maisons, donc de l’endroit de chaque vie où cette force partagée se dépense ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Dans un seul thème, [Soleil trigone Pluton](/astrology/sun-trine-pluto/) donne à une personne un accès facile à sa propre profondeur. Entre deux thèmes, cet accès passe par la relation, et mieux vaut le remarquer avant d’en avoir besoin.

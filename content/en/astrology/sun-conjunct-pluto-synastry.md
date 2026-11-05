@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 41
 glyph: "☉☌♇"
-definition: "Sun conjunct Pluto in synastry brings one person’s capacity for depth and renewal right onto the other’s identity, with Pluto within 8° of the Sun. The Sun person feels seen to the core, the Pluto person deeply invested. I read it as a contact that can strengthen a self, as long as the change stays chosen."
+definition: "Sun conjunct Pluto in synastry brings one person’s capacity for depth and renewal right onto the other’s identity, Pluto lying within 8° of that Sun. One feels seen to the core, the other deeply invested. I read it as a contact that can strengthen a self, as long as the change stays chosen."
 facts:
   - { k: "Bodies", v: "One person’s Sun ☉, the other’s Pluto ♇" }
   - { k: "Aspect", v: "Conjunction ☌, 0°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun", "/astrology/pluto", "/astrology/conjunction", "/astrology/sun-conjunct-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Sun conjunct Pluto mean in synastry?"
-    a: "The Pluto person’s depth and capacity for renewal land on the Sun person’s identity, within 8°. The Sun person tends to feel seen to the core and strengthened; the Pluto person feels unusually invested. It describes how intensely two people meet, not what will happen between them."
+    a: "The Pluto person’s depth lands on the Sun person’s identity, within 8°, and the meeting is rarely casual: one tends to feel seen to the core and strengthened, the other unusually invested. It describes how intensely two people meet, not what will happen between them."
   - q: "Is Sun conjunct Pluto a controlling aspect?"
     a: "Not in itself. Pluto describes transformation and empowerment, and empowerment is not domination. Questions of power can come up, as they do in any close bond; the healthy form of this contact strengthens the Sun person’s own authority rather than handing it to the other."
   - q: "Why does Sun conjunct Pluto feel so intense?"
@@ -33,7 +33,7 @@ Being seen all the way down can be the most strengthening thing that happens to 
 
 The [Sun](/astrology/sun/) organises identity and vitality: a sense of self and the energy to live it. [Pluto](/astrology/pluto/) enables transformation and regeneration, letting go of what no longer serves and growing into authentic power. A [conjunction](/astrology/conjunction/) makes the two act as one process; between two charts, one person brings the self and the other the depth. It's among the most intense [synastry aspects](/astrology/synastry-aspects/) the Sun can make.
 
-For the Sun person, there's the experience of being taken all the way seriously. The other sees what you're capable of, including strengths you'd kept out of sight, and around them you may shed roles that no longer fit. You can come out of such a bond more fully yourself.
+The Sun person is taken all the way seriously. The other sees what you're capable of, including strengths you'd kept out of sight, and around them you may shed roles that no longer fit. You can come out of such a bond more fully yourself.
 
 For the Pluto person, the other's vitality reaches places that usually stay quiet. Their direction matters to you more than you expected, and your intensity, which can be too much for others, finds something worthy of it. Your own renewal is stirred by theirs.
 

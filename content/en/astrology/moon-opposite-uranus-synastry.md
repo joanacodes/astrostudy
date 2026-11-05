@@ -1,7 +1,7 @@
 ---
 title: "Moon opposite Uranus in synastry"
 h1: "Moon opposite Uranus between two charts"
-description: "Moon opposite Uranus in synastry: one person pulls towards closeness, the other towards room, at two ends of one line. Each side, the count, and the balance."
+description: "Moon opposite Uranus in synastry: one person pulls towards closeness, the other towards room, at two ends of one line. Both views, the count, the swing."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -17,7 +17,7 @@ facts:
 related: ["/astrology/moon", "/astrology/uranus", "/astrology/opposition", "/astrology/moon-opposite-uranus", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Moon opposite Uranus mean in synastry?"
-    a: "One person’s Uranus sits across the zodiac from the other’s Moon, within 8°. The Moon person tends to carry the pair’s need for closeness and routine, the Uranus person its need for room and change, and each keeps pulling the other towards their end. It is a polarity to balance, not a sign that one of you wants out."
+    a: "One person’s Uranus sits across the zodiac from the other’s Moon, within 8°. In practice the Moon person often speaks for closeness and routine, the Uranus person for room and change, and each keeps pulling the other towards their end. Balance is the task, and nothing in it says anyone wants out."
   - q: "Can Moon opposite Uranus work in a long relationship?"
     a: "Any contact can sit inside a long relationship, and none decides it. This one asks for agreements more than for sameness: time together and time apart, both chosen. When each person also takes on a little of the other’s end, the pull becomes a rhythm rather than a tug."
   - q: "Why do we keep swapping roles with Moon opposite Uranus?"
@@ -30,7 +30,7 @@ Moon opposite Uranus in synastry stretches a line between two people: at one end
 
 ## What flows {#what-flows}
 
-The [Moon](/astrology/moon/) is about attachment, continuity and the felt sense of being held. [Uranus](/astrology/uranus/) is about autonomy, originality and the freedom to change course. An [opposition](/astrology/opposition/) makes them two ends of one axis, each clearer for the other's presence. In [synastry aspects](/astrology/synastry-aspects/), the axis runs between two people.
+Attachment, continuity and the felt sense of being held belong to the [Moon](/astrology/moon/). [Uranus](/astrology/uranus/) is about autonomy, originality and the freedom to change course. An [opposition](/astrology/opposition/) makes them two ends of one axis, each clearer for the other's presence. In [synastry aspects](/astrology/synastry-aspects/), that axis has a person at each end.
 
 Standing at the Moon's end, you may find this person brings air into a life that had grown close and settled. They widen your circle, unsettle a habit or two, and show you that you can be loved without being kept. At times their independence will feel like distance.
 
@@ -46,7 +46,7 @@ Seesaws stick. The Moon person becomes the one who always asks for more time tog
 
 Cross over from time to time: the Moon person might choose a solo adventure, and the Uranus person might be the one to propose a quiet evening in. Make agreements rather than assumptions about space and contact: who calls, how often, what "a weekend away" means. A couple might keep separate interests alongside shared rituals; friends might accept long gaps without reading them as distance; at work, the one who wants procedures and the one who wants to improvise can split a project by phase.
 
-About 1 pair of people in 12 has this opposition, one way round or the other, within 8°. Its Uranus side was handed out to a whole generation, about seven years per sign; its Moon side was handed to one person on one day, and that's what makes it particular to the two of you. The day and the hour both matter: the Moon shifts about 13° in a day, so the birth times decide whether the opposition is there, and they give the houses each end falls in ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)).
+About 1 pair of people in 12 has this opposition, one way round or the other, within 8°. Its Uranus side was handed out to a whole generation, about seven years per sign; its Moon side was handed to one person on one day, and that's what makes it particular to the two of you. The day and the hour both matter: the Moon shifts about 13° in a day, so without both birth times there's no knowing whether the opposition is there, and the times also give the houses each end falls in ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)).
 
 The other angles bring the two ends closer, or turn them:
 

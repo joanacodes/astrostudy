@@ -21,7 +21,7 @@ related: ["/astrology/moon", "/astrology/black-moon-lilith", "/astrology/sextile
 faq:
   - q: "Que veut dire Lune sextile Lilith en synastrie ?"
     a: "La Lune d’une personne se trouve à environ 60° de la Lune noire Lilith de l’autre. L’aisance de la personne de la Lune offre à celle de Lilith un cadre où elle n’a pas à se corriger, et la franchise de la personne de Lilith autorise l’autre à vouloir ce qu’elle veut. L’ouverture est réelle, encore faut-il s’en servir."
-  - q: "Lune sextile Lilith en synastrie rend-il plus audacieux ?"
+  - q: "Lune sextile Lilith en synastrie donne-t-il de l’audace ?"
     a: "Il peut rendre l’audace plus facile, petit à petit. Près de la personne de Lilith, celle de la Lune dit parfois non plus simplement, ou nomme un besoin ; près de la personne de la Lune, celle de Lilith laisse voir davantage d’elle-même. Un sextile invite. Il ne change personne à lui seul."
   - q: "Faut-il des heures de naissance exactes pour Lune sextile Lilith ?"
     a: "Oui, les deux. L’orbe est de 4,8°, et la Lune gagne environ 13° en un jour : la même paire peut avoir le sextile avec une heure de naissance et le perdre quelques heures plus tard. La Lilith moyenne, elle, reste presque immobile d’une heure à l’autre, si bien que la Lune tranche, et les maisons demandent aussi les heures."

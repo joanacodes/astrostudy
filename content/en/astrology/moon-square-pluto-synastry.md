@@ -40,7 +40,7 @@ What the friction makes possible is trust of an unusual kind: two people who hav
 
 ## Where it rubs {#where-it-rubs}
 
-The rub is power and pace. The Pluto person may push for change, a talk, a decision, a confession, before the Moon person is ready; the Moon person may dig in or go quiet, and the quiet can look like defiance. Each can start to read the other's need as an attempt at control: possessiveness on one side, interrogation on the other. Jealousy and suspicion grow fastest where nothing has been said aloud. Transformation is not destruction, empowerment is not domination, and a square is friction, never failure.
+Two things chafe: power, and pace. The Pluto person may push for change, a talk, a decision, a confession, before the Moon person is ready; the Moon person may dig in or go quiet, and the quiet can look like defiance. Each can start to read the other's need as an attempt at control: possessiveness on one side, interrogation on the other. Jealousy and suspicion grow fastest where nothing has been said aloud. Transformation is not destruction, empowerment is not domination, and a square is friction, never failure.
 
 ## How to meet it {#how-to-meet-it}
 

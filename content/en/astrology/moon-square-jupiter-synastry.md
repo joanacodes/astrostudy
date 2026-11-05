@@ -1,7 +1,7 @@
 ---
 title: "Moon square Jupiter in synastry"
 h1: "Moon square Jupiter between two charts"
-description: "Moon square Jupiter in synastry: one person’s generosity arrives at the wrong size for the other’s needs. Both sides, how common it is, and what it teaches."
+description: "Moon square Jupiter in synastry: one person’s generosity arrives at the wrong size for the other’s needs. What each feels, how often, what it teaches."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -46,8 +46,8 @@ The rub is size and timing. The Jupiter person's encouragement arrives before th
 
 Ask before you widen. One question settles much of this square: do you want an ear, a hand or a plan? The Moon person can answer it honestly; the Jupiter person can keep the big idea for a day when it's wanted. A couple might keep planning talk for weekends; a parent and an adult child might agree that advice comes when asked for; between colleagues, ambitions can be scaled to what the other can carry this month.
 
-About 1 pair of people in 7 has this square, one way round or the other, within 6.8°. It depends on both birth times: the Moon moves about 13° a day, so it can enter or leave that orb within hours, and the houses that place the friction in each life need the times as well ([what changes without a birth time](/blog/unknown-birth-time/)).
+About 1 pair of people in 7 has this square, one way round or the other, within 6.8°. It depends on both birth times: the Moon's daily motion, about 13°, can carry it into or out of that orb within hours, and the houses that place the friction in each life come from the times too ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-The pair's other contacts settle the same question differently. [Moon trine Jupiter in synastry](/astrology/moon-trine-jupiter-synastry/) lets encouragement flow without a measuring tape; [Moon sextile Jupiter in synastry](/astrology/moon-sextile-jupiter-synastry/) leaves the offer waiting to be taken up; [Moon conjunct Jupiter in synastry](/astrology/moon-conjunct-jupiter-synastry/) fuses need and growth in one place; [Moon opposite Jupiter in synastry](/astrology/moon-opposite-jupiter-synastry/) sets them at either end of a seesaw.
+The pair's other contacts settle the same question differently. [Moon trine Jupiter in synastry](/astrology/moon-trine-jupiter-synastry/) lets encouragement flow without a measuring tape; [Moon sextile Jupiter in synastry](/astrology/moon-sextile-jupiter-synastry/) leaves the offer on the table; [Moon conjunct Jupiter in synastry](/astrology/moon-conjunct-jupiter-synastry/) fuses need and growth in one place; [Moon opposite Jupiter in synastry](/astrology/moon-opposite-jupiter-synastry/) sets them at either end of a seesaw.
 
 Inside a single chart, [Moon square Jupiter](/astrology/moon-square-jupiter/) is one person learning their own proportion; between two charts, two people end up teaching it to each other.

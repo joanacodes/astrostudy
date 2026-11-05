@@ -2,7 +2,7 @@
 title: "Lune opposition Jupiter en synastrie"
 slug: "lune-opposition-jupiter-synastrie"
 h1: "Lune opposition Jupiter entre deux thèmes"
-description: "Lune opposition Jupiter en synastrie : l’une tient le familier, l’autre le vaste monde, aux deux bouts d’une bascule. Les deux côtés, la fréquence, l’équilibre."
+description: "Lune opposition Jupiter en synastrie : l’une tient le familier, l’autre le vaste monde, aux deux bouts d’une bascule. Chaque bout, la fréquence, l’équilibre."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"

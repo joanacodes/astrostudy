@@ -41,7 +41,7 @@ Cette friction peut donner une confiance rare : celle de deux personnes qui se 
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Le frottement tient au pouvoir et au rythme. La personne qui a Pluton peut pousser au changement, une discussion, une décision, un aveu, avant que l’autre soit prête ; celle qui a la Lune peut se braquer ou se taire, et ce silence peut ressembler à un défi. Chacune peut se mettre à lire le besoin de l’autre comme une tentative de contrôle : possessivité d’un côté, interrogatoire de l’autre. La jalousie et la méfiance poussent plus vite là où rien n’a été dit à voix haute. La transformation ne détruit pas, le pouvoir d’agir n’écrase personne, et un carré est une friction, jamais un échec.
+Deux choses frottent : le pouvoir, et le rythme. La personne qui a Pluton peut pousser au changement, une discussion, une décision, un aveu, avant que l’autre soit prête ; celle qui a la Lune peut se braquer ou se taire, et ce silence peut ressembler à un défi. Chacune peut se mettre à lire le besoin de l’autre comme une tentative de contrôle : possessivité d’un côté, interrogatoire de l’autre. La jalousie et la méfiance poussent plus vite là où rien n’a été dit à voix haute. La transformation ne détruit pas, le pouvoir d’agir n’écrase personne, et un carré est une friction, jamais un échec.
 
 ## Comment le vivre {#comment-le-vivre}
 

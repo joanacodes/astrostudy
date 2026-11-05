@@ -1,7 +1,7 @@
 ---
 title: "Moon conjunct Pluto in synastry"
 h1: "Moon conjunct Pluto between two charts"
-description: "Moon conjunct Pluto in synastry: one person’s intensity lands on the other’s feelings, and little stays on the surface. Each side, the count, where they blur."
+description: "Moon conjunct Pluto in synastry: one person’s intensity lands on the other’s feelings, and little stays on the surface. Who feels what, the count, trust."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -32,9 +32,9 @@ Moon conjunct Pluto in synastry sets one person's Pluto on the other's Moon. Fee
 
 The [Moon](/astrology/moon/) carries feeling, attachment and the need to feel safe. [Pluto](/astrology/pluto/) transforms: it lets go of what has served its time, regenerates, and gives people back their own power. A [conjunction](/astrology/conjunction/) fuses the two, and since [synastry aspects](/astrology/synastry-aspects/) join two charts, the fused movement belongs to two people.
 
-If the Moon is yours, this person may see straight to what you feel, including what you'd hidden from yourself. Being seen like that can be a relief: old hurts get named, habits of self-protection loosen, and you come out stronger. It can also feel exposing, especially early on.
+With your Moon in the contact, this person may see straight to what you feel, including what you'd hidden from yourself. Being seen like that can be a relief: old hurts get named, habits of self-protection loosen, and you come out stronger. It can also feel exposing, especially early on.
 
-If Pluto is yours, this person may let you in where others keep you at the door. Your intensity is met with feeling rather than fear, and caring for them can bring out the most protective, most honest part of you. Their tenderness can also reach your own guarded places.
+With your Pluto in the contact, this person may let you in where others keep you at the door. Your intensity is met with feeling rather than fear, and caring for them can bring out the most protective, most honest part of you. Their tenderness can also reach your own guarded places.
 
 What flows is depth: friends who trust each other with everything, a couple who change each other for the better, relatives who finally say the true thing.
 

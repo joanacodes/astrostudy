@@ -50,7 +50,7 @@ Les quatre autres angles de la paire, en comparaison :
 - **[Mercure conjonction Uranus en synastrie](/astrology/mercury-conjunct-uranus-synastry/) :** un même degré : un contact plus bruyant et moins prévisible.
 - **[Mercure sextile Uranus en synastrie](/astrology/mercury-sextile-uranus-synastry/) :** une ouverture plus étroite, où l’angle neuf doit être demandé.
 - **[Mercure carré Uranus en synastrie](/astrology/mercury-square-uranus-synastry/) :** la même paire sous friction, où chaque idée neuve doit se battre pour être entendue.
-- **[Mercure opposition Uranus en synastrie](/astrology/mercury-opposite-uranus-synastry/) :** face à face ; l’idée neuve arrive toujours de l’autre côté.
+- **[Mercure opposition Uranus en synastrie](/astrology/mercury-opposite-uranus-synastry/) :** aux deux bouts de la table ; l’idée neuve vient toujours d’en face.
 
 ## Comment le vivre {#comment-le-vivre}
 

@@ -1,7 +1,7 @@
 ---
 title: "Moon trine Saturn in synastry"
 h1: "Moon trine Saturn between two charts"
-description: "Moon trine Saturn in synastry: one person’s steadiness and the other’s needs keep the same pace. Both sides, how common it is, and the rut such ease can hide."
+description: "Moon trine Saturn in synastry: one person’s steadiness and the other’s needs keep the same pace. Each person’s view, the count, and the rut ease can hide."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -26,7 +26,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 6.8°" }
 ---
-Moon trine Saturn in synastry joins one person's needs and the other's steadiness at about 120°, usually within one element. It's the contact of the calm kitchen and the kept appointment: one person can feel fully, the other can hold things up, and neither has to strain to manage it.
+Moon trine Saturn in synastry brings together what one person needs and the other's steadiness at about 120°, usually within one element. It's the contact of the calm kitchen and the kept appointment: one person can feel fully, the other can hold things up, and neither has to strain to manage it.
 
 ## What flows {#what-flows}
 

@@ -1,7 +1,7 @@
 ---
 title: "Moon sextile Jupiter in synastry"
 h1: "Moon sextile Jupiter between two charts"
-description: "Moon sextile Jupiter in synastry: one person’s plans and learning reach the other’s needs as offers to take up. Both sides, how common, what the ease hides."
+description: "Moon sextile Jupiter in synastry: one person’s plans and learning reach the other’s needs as offers. How each side lives it, and how often it occurs."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
