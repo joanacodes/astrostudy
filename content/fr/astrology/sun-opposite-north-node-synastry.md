@@ -31,7 +31,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les paires qui ont cette opposition, dans un sens ou dans l’autre, à 8° près" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les deux nœuds, moyen et vrai, toujours opposés" }
 ---
-Soleil opposition Nœud Nord en synastrie : le Soleil d’une personne occupe le Nœud Sud de l’autre, le bout de son axe des nœuds opposé au Nord. C’est le bout familier : ce qu’est la première correspond à ce que la seconde sait déjà être, et la direction où la seconde grandit se trouve en face, de l’autre côté du thème.
+Soleil opposition Nœud Nord en synastrie : un Soleil qui occupe le Nœud Sud de quelqu’un d’autre, le bout de son axe des nœuds opposé au Nord. C’est le bout familier : ce qu’est la première correspond à ce que la seconde sait déjà être, et la direction où la seconde grandit se trouve en face, de l’autre côté du thème.
 
 ## Ce qui circule {#ce-qui-circule}
 

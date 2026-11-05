@@ -22,7 +22,7 @@ faq:
   - q: "Lune opposition Uranus, est-ce compatible avec une longue relation ?"
     a: "Tout contact peut exister dans une longue relation, et aucun n’en décide. Celui-ci demande des accords plus que de la ressemblance : des moments à deux et des moments à soi, choisis par les deux. Quand chaque personne prend aussi un peu du bout de l’autre, la tension devient un rythme plutôt qu’un tiraillement."
   - q: "Avec Lune opposition Uranus, pourquoi échangeons-nous sans cesse les rôles ?"
-    a: "Parce qu’une opposition se comporte comme une bascule. Quand l’une des deux personnes se penche vers la proximité, l’autre s’éloigne souvent, et inversement. Remarquer le balancement, et dire à voix haute de quel bout on a besoin aujourd’hui, évite que l’une soit à jamais celle qui retient et l’autre celle qui s’en va."
+    a: "Parce qu’une opposition se comporte comme une bascule : que l’une aille vers la proximité, et l’autre s’éloigne souvent, et inversement. Remarquer le balancement, et dire à voix haute de quel bout on a besoin aujourd’hui, évite que l’une soit à jamais celle qui retient et l’autre celle qui s’en va."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’opposition, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 8° près" }
@@ -33,15 +33,15 @@ Lune opposition Uranus en synastrie tend une ligne entre deux personnes : à un
 
 La [Lune](/astrology/moon/) parle d’attachement, de continuité et de sécurité ressentie. [Uranus](/astrology/uranus/) parle d’autonomie, d’originalité et de la liberté de changer de cap. Une [opposition](/astrology/opposition/) en fait les deux bouts d’un même axe, chacun plus net en présence de l’autre. Dans les [aspects de synastrie](/astrology/synastry-aspects/), l’axe court entre deux personnes.
 
-Au bout de la Lune, cette personne fait peut-être entrer de l’air dans une vie devenue un peu close. Elle élargit votre cercle, bouscule une habitude ou deux, et vous montre qu’on peut vous aimer sans vous retenir. Par moments, son indépendance ressemblera à de la distance.
+Au bout de la Lune, cette personne fait peut-être entrer de l’air dans une vie devenue un peu close. Elle élargit votre cercle, bouscule une habitude ou deux, et vous montre qu’on peut vous aimer sans vous retenir. Par moments, son indépendance pourra ressembler à de la distance.
 
-Au bout d’Uranus, cette personne vous offre peut-être un port d’attache dont vous ne saviez pas avoir envie. Son attachement vous montre à quoi pourrait ressembler le fait de rester, quand c’est choisi et non imposé. Par moments, son besoin de proximité ressemblera à une traction sur la corde.
+Au bout d’Uranus, cette personne vous offre peut-être un port d’attache dont vous ne saviez pas avoir envie. Son attachement vous montre à quoi pourrait ressembler le fait de rester, quand c’est choisi et non imposé. Par moments, son besoin de proximité pourra ressembler à une traction sur la corde.
 
 En équilibre, la paire a ce qui manquait à chaque personne : une appartenance qui laisse de l’espace, et une liberté qui a un endroit où revenir.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Les bascules se coincent. La personne qui a la Lune devient celle qui demande toujours plus de temps ensemble, celle qui a Uranus celle qui a toujours besoin d’espace, et chacune se met à voir l’autre comme l’obstacle. La proximité demandée peut tomber comme une revendication ; l’indépendance prise, comme un rejet. Pourtant, l’autonomie ne veut pas dire l’isolement, s’attacher n’est pas dépendre, et les deux bouts n’ont jamais été ennemis : chaque personne tient un peu des deux, quels que soient les rôles où elle est tombée.
+Les bascules se coincent. La personne qui a la Lune finit par être celle qui demande toujours plus de temps ensemble, celle qui a Uranus celle qui a toujours besoin d’espace, et chacune se met à voir l’autre comme l’obstacle. La proximité demandée peut tomber comme une revendication ; l’indépendance prise, comme un rejet. Pourtant, l’autonomie ne veut pas dire l’isolement, s’attacher n’est pas dépendre, et les deux bouts n’ont jamais été ennemis : chaque personne tient un peu des deux, quels que soient les rôles où elle est tombée.
 
 ## Comment le vivre {#comment-le-vivre}
 

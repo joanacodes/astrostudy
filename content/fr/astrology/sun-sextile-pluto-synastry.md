@@ -23,12 +23,12 @@ faq:
   - q: "Soleil sextile Pluton aide-t-il à traverser les moments difficiles ensemble ?"
     a: "Il aide souvent à ces moments-là précisément : les fins, les déménagements, les changements de cap. Mais un sextile est une ouverture, pas une garantie, et aucun contact ne décide de la façon dont deux personnes traversent une période dure. Ce qui compte, c’est que l’une demande et que l’autre offre."
   - q: "La personne qui a Pluton a-t-elle du pouvoir sur l’autre avec cet aspect ?"
-    a: "Non. Un sextile propose sans presser, et la fonction de Pluton est l’affirmation de soi, qui n’est pas la domination. La personne qui a le Soleil décide de ce qu’elle prend ; la forme saine de ce contact la rend plus forte dans sa propre direction."
+    a: "Non. Un sextile propose sans presser, et la fonction de Pluton est l’affirmation de soi, qui n’est pas la domination. C’est la personne qui a le Soleil qui choisit ce qu’elle prend ; la forme saine de ce contact la rend plus forte dans sa propre direction."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, qu’il range parmi les aspects harmonieux" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 4,8° près" }
 ---
-Il y a souvent une personne que l’on appelle quand un chapitre se ferme. Ici, le Soleil d’une personne et Pluton chez l’autre sont en sextile, à deux signes d’écart, environ 60°, et la capacité de renouveau de la personne qui a Pluton est à portée du but de l’autre.
+Il y a souvent une personne que l’on appelle quand un chapitre se ferme. Ici, Pluton, dans un thème, et le Soleil, dans l’autre, sont en sextile, à deux signes d’écart, environ 60°, et la capacité de renouveau de la personne qui a Pluton est à portée du but de l’autre.
 
 ## Ce qui circule {#ce-qui-circule}
 

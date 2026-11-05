@@ -30,7 +30,7 @@ Moon square Jupiter in synastry is a 90° angle between what one person needs an
 
 ## What flows {#what-flows}
 
-The [Moon](/astrology/moon/) regulates feeling and need: comfort, attachment, the small habits that steady a person. [Jupiter](/astrology/jupiter/) widens: it seeks meaning, learns, holds principles and looks for room to grow. A [square](/astrology/square/) sets them at right angles, where friction does useful work, and among [synastry aspects](/astrology/synastry-aspects/) that friction runs between two people, each carrying one of the functions.
+The [Moon](/astrology/moon/) regulates feeling and need: comfort, attachment, the small habits that steady a person. [Jupiter](/astrology/jupiter/) widens: it seeks meaning, learns, holds principles and looks for room to grow. A [square](/astrology/square/) sets them at right angles, where friction does useful work, and among [synastry aspects](/astrology/synastry-aspects/) the friction passes from one person to the other, each carrying one of the functions.
 
 If yours is the Moon, the other person's generosity can feel like weather a little too warm for the day. You wanted a quiet evening and got a plan for the summer; you voiced a worry and heard a principle. When it works, though, they pull you past a comfort you'd already outgrown, and afterwards you're glad they did.
 

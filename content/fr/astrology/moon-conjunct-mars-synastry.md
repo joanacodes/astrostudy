@@ -2,7 +2,7 @@
 title: "Lune conjonction Mars en synastrie"
 slug: "lune-conjonction-mars-synastrie"
 h1: "Lune conjonction Mars entre deux thèmes"
-description: "Lune conjonction Mars en synastrie : l’élan de l’une tombe pile sur les émotions de l’autre. Ce que vit chaque côté, sa fréquence, agir avant de ressentir."
+description: "Lune conjonction Mars en synastrie : l’élan de l’une tombe pile sur les émotions de l’autre. Les deux côtés, la fréquence, agir avant de ressentir."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -25,16 +25,16 @@ faq:
   - q: "Que ressent la personne Lune avec Lune conjonction Mars ?"
     a: "Souvent de l’énergie et de la protection : auprès de cette personne, les choses se font et personne ne vient vous marcher sur les pieds. Parfois de la précipitation, quand on agit sur ses émotions avant qu’elle les ait ressenties. Sa part consiste à dire tôt si elle veut de l’action ou simplement de la compagnie."
   - q: "Quel rôle joue l’heure de naissance pour Lune conjonction Mars ?"
-    a: "Un rôle décisif, surtout celle de la personne Lune. Mars passe six à sept semaines dans un signe, et sa place change à peine en une journée, alors que la Lune avance d’environ 13° : quelques heures décident si la conjonction existe. Pas de lecture de synastrie sans les deux heures, qui donnent aussi les maisons."
+    a: "Un rôle décisif, surtout celle de la personne Lune. Mars, qui passe six à sept semaines dans un signe, reste presque immobile d’un jour à l’autre ; la Lune, elle, parcourt environ 13° par jour : quelques heures décident si la conjonction existe. Pas de lecture de synastrie sans les deux heures, qui donnent aussi les maisons."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "ses quatre aspects ; la conjonction, une rencontre, reste à part" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les paires qui ont cette conjonction, dans un sens ou dans l’autre, à 8° près" }
 ---
-Lune conjonction Mars en synastrie, c’est la Lune d’une personne et Mars, dans le thème de l’autre, au même endroit. L’élan de l’une rencontre de tout près les besoins de l’autre : l’aide et l’énergie arrivent vite, les émotions se changent en actes, et le rythme est rarement lent.
+Lune conjonction Mars en synastrie réunit au même endroit la Lune d’une personne et Mars, dans le thème de l’autre. L’élan de l’une rencontre de tout près les besoins de l’autre : l’aide et l’énergie arrivent vite, les émotions se changent en actes, et le rythme est rarement lent.
 
 ## Ce qui circule {#ce-qui-circule}
 
-Chez une personne, la [Lune](/astrology/moon/) est la météo intérieure : ce qu’elle ressent et ce dont elle a besoin, et les réconforts qui la stabilisent. [Mars](/astrology/mars/), c’est la façon d’agir : l’initiative, l’effort, le courage, les limites que l’on tient. Une [conjonction](/astrology/conjunction/) soude les deux en un seul mouvement ; dans les [aspects de synastrie](/astrology/synastry-aspects/) de cette paire, nulle part une émotion et sa réponse ne sont aussi proches.
+La météo intérieure d’une personne, c’est sa [Lune](/astrology/moon/) : ce qu’elle ressent et ce dont elle a besoin, et les réconforts qui la stabilisent. [Mars](/astrology/mars/), c’est la façon d’agir : l’initiative, l’effort, le courage, les limites que l’on tient. Une [conjonction](/astrology/conjunction/) soude les deux en un seul mouvement ; dans les [aspects de synastrie](/astrology/synastry-aspects/) de cette paire, nulle part une émotion et sa réponse ne sont aussi proches.
 
 Quand c’est votre Lune, cette personne a tendance à répondre présente à vos besoins. Vous évoquez un problème, et elle s’en occupe déjà ; quelqu’un vous traite injustement, et elle se hérisse à votre place. Auprès d’elle, les choses se font, et vous vous sentez à l’abri.
 
@@ -52,8 +52,8 @@ S’affirmer n’est pas agresser, et la rapidité n’est pas la négligence :
 
 ## Comment le vivre {#comment-le-vivre}
 
-Confiez le rythme à la personne Lune. Si c’est votre Mars, attendez un oui clair avant de prendre quelque chose en charge pour l’autre ; si la Lune est la vôtre, dites tôt si vous voulez de l’action ou de la compagnie. Au travail, la personne Mars est souvent celle qui part au combat pour vous, à mettre au courant d’abord ; entre amis et adultes d’une même famille, la personne protectrice ; en couple, l’énergie reste chaleureuse tant qu’elle n’est pas précipitée.
+Confiez le rythme à la personne Lune. Si c’est votre Mars, attendez un oui clair avant de prendre quelque chose en charge pour l’autre ; côté Lune, dites tôt si vous voulez de l’action ou de la compagnie. Au travail, la personne Mars est souvent celle qui part au combat pour vous, à mettre au courant d’abord ; entre amis et adultes d’une même famille, la personne protectrice ; en couple, l’énergie reste chaleureuse tant qu’elle n’est pas précipitée.
 
-Environ 1 paire de personnes sur 12 partage cette conjonction à 8° près, que la Lune soit dans un thème ou dans l’autre. Mars passe environ six à sept semaines dans un signe et bouge à peine en une journée, alors que la Lune avance d’environ 13° : quelques heures de la naissance de la personne Lune décident du contact. Sans les deux heures de naissance, pas de lecture de synastrie ; les maisons en ont besoin aussi ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Environ 1 paire de personnes sur 12 partage cette conjonction à 8° près, que la Lune soit dans un thème ou dans l’autre. Mars passe environ six à sept semaines dans un signe, et sa place ne change presque pas en un jour, tandis que la Lune en parcourt environ 13 : quelques heures de la naissance de la personne Lune décident du contact. Faute des deux heures de naissance, pas de lecture de synastrie ; les maisons en ont besoin aussi ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Quand une seule personne porte les deux, c’est [Lune conjonction Mars](/astrology/moon-conjunct-mars/). Entre deux thèmes, [Lune sextile Mars en synastrie](/astrology/moon-sextile-mars-synastry/) et [Lune trigone Mars en synastrie](/astrology/moon-trine-mars-synastry/) font coopérer l’élan et le besoin à un peu de distance, tandis que [Lune carré Mars en synastrie](/astrology/moon-square-mars-synastry/) et [Lune opposition Mars en synastrie](/astrology/moon-opposite-mars-synastry/) demandent aux deux de trouver un rythme commun.

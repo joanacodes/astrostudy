@@ -28,11 +28,11 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, entre signes distants de quatre" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6,8° près" }
 ---
-Quand les choses deviennent dures, cette paire tend à se raffermir plutôt qu’à vaciller. Soleil trigone Pluton relie, à travers quatre signes, Pluton chez l’une et le Soleil de l’autre, le plus souvent dans un même élément, et la profondeur et l’identité travaillent ensemble sans lutte.
+Quand les choses deviennent dures, cette paire tend à se raffermir plutôt qu’à vaciller. Soleil trigone Pluton relie, à travers quatre signes, le Soleil d’un thème à Pluton dans l’autre, en général au sein d’un même élément, et la profondeur et l’identité travaillent ensemble sans lutte.
 
 ## Ce qui circule {#ce-qui-circule}
 
-Le [Soleil](/astrology/sun/) organise l’identité et la vitalité, le moi sur lequel une personne se tient. [Pluton](/astrology/pluto/) permet la transformation, la régénération et l’affirmation de soi : aller au fond, lâcher prise, en revenir avec plus de force. Un [trigone](/astrology/trine/) relie les deux par la fluidité, chacune renforçant l’autre. Des [aspects de synastrie](/astrology/synastry-aspects/) que Pluton forme avec le Soleil, c’est celui où la profondeur paraît la plus sûre.
+Le [Soleil](/astrology/sun/) organise l’identité et la vitalité, le moi sur lequel une personne se tient. [Pluton](/astrology/pluto/) permet la transformation, la régénération et l’affirmation de soi : aller au fond, lâcher prise, en revenir avec plus de force. Un [trigone](/astrology/trine/) relie les deux par la fluidité, chacune renforçant l’autre. Ici, la profondeur paraît sûre, ce qui n’est pas le cas de tous les [aspects de synastrie](/astrology/synastry-aspects/) que forme Pluton.
 
 Avec le Soleil, vous gagnez en résistance auprès de cette personne. Votre sentiment de vous-même gagne en profondeur sans qu’on vous le dispute, et les choses difficiles, une conversation dure, une perte, une grande décision, paraissent plus supportables à ses côtés.
 

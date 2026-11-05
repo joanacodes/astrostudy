@@ -27,13 +27,13 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the square, from signs three apart" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 6.8°" }
 ---
-One of you says "this is who I am"; the other hears "this is what hasn't been looked at yet". In Sun square Pluto, one person's Pluto and the other's Sun stand a quarter of the zodiac apart, and two strong currents meet side-on.
+One of you says "this is who I am"; the other hears "this is what hasn't been looked at yet". In Sun square Pluto, a quarter of the zodiac lies between one person's Pluto and the other's Sun, and two strong currents meet side-on.
 
 ## What flows {#what-flows}
 
 The [Sun](/astrology/sun/) organises identity and agency: who someone is, and how they act from that centre. [Pluto](/astrology/pluto/) drives transformation, regeneration and empowerment, the urge to get to the root of things. A [square](/astrology/square/) relates them through constructive friction, and in [synastry aspects](/astrology/synastry-aspects/) that friction runs between two people rather than inside one.
 
-What it can build is solid ground on both sides. The Sun person, pressed to look at what they'd rather not, often comes out with a self they've chosen more consciously. The Pluto person, meeting someone who won't simply be transformed, learns that depth works best when it's invited. Trust that has survived this kind of testing tends to hold.
+What it can build is solid ground on both sides. The Sun person, pressed to look at what they'd rather not, often comes out with a self they've chosen more consciously. The Pluto person discovers, through someone who won't simply be transformed, that depth works best when it's invited. Trust that has survived this kind of testing tends to hold.
 
 Where Pluto falls among the Sun person's houses matters a great deal here: in the 7th, the friction gathers around partnership itself; in the 10th, around ambition and public life; in the 2nd, around money and what each person is worth to themselves.
 

@@ -30,7 +30,7 @@ Moon conjunct Jupiter in synastry puts one person's Jupiter on the other's Moon:
 
 ## What flows {#what-flows}
 
-The [Moon](/astrology/moon/) regulates needs, attachment and the feeling of being safe. [Jupiter](/astrology/jupiter/) expands understanding: it learns, makes meaning and supports growth. A [conjunction](/astrology/conjunction/) makes two functions act as one, and between charts that one place belongs to two people, which is why [synastry aspects](/astrology/synastry-aspects/) are read from each side.
+The [Moon](/astrology/moon/) regulates needs, attachment and the feeling of being safe. [Jupiter](/astrology/jupiter/) expands understanding: it learns, makes meaning and supports growth. A [conjunction](/astrology/conjunction/) fuses two functions into one movement, and between charts that movement belongs to two people, which is why [synastry aspects](/astrology/synastry-aspects/) are read from each side.
 
 If the Moon is yours, your feelings get a hearing, then a larger frame. A worry you mention comes back with some context, so it stops being a weight you carry alone, and your comforts widen: a walk, a dish or a book you'd never have chosen becomes part of what settles you.
 

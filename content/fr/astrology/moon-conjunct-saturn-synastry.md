@@ -20,7 +20,7 @@ faq:
   - q: "Que veut dire Lune conjonction Saturne en synastrie ?"
     a: "Saturne, dans le thème d’une personne, se trouve à moins de 8° de la Lune de l’autre. La structure, la prudence et le sens des responsabilités de la première se posent sur les besoins de la seconde : le soin prend des formes fiables et concrètes. Cela peut ressembler à un appui ou à une tutelle, et tout dépend de la façon dont les deux personnes s’en servent."
   - q: "Lune conjonction Saturne, est-ce mauvais signe en synastrie ?"
-    a: "Non. Saturne est une structure, pas une punition, et une conjonction est une rencontre, pas un verdict. Ce contact demande à la personne qui a Saturne de montrer sa chaleur autant que sa fiabilité, et à celle qui a la Lune de dire ce dont elle a besoin plutôt que d’entrer dans un cadre. Aucun contact ne décide à lui seul si deux personnes se font du bien."
+    a: "Non. Saturne est une structure, pas une punition, et une conjonction est une rencontre, pas un verdict. Ce contact demande à la personne qui a Saturne de montrer sa chaleur autant que sa fiabilité, et à celle qui a la Lune de dire ce dont elle a besoin plutôt que d’entrer dans un cadre. Aucun contact, à lui seul, ne dit si deux personnes se font du bien."
   - q: "Avec Lune conjonction Saturne, pourquoi me sentir responsable des émotions de l’autre ?"
     a: "Si Saturne est à vous, les besoins de l’autre tombent sur votre sens du devoir : veiller sur cette personne peut ressembler à une tâche qu’on vous a confiée. Vous pouvez choisir ce qui vous revient. Être fiable ne veut pas dire répondre de ce que ressent une autre personne adulte."
 sources:
@@ -32,7 +32,7 @@ Lune conjonction Saturne en synastrie pose Saturne, dans le thème d’une perso
 
 ## Ce qui circule {#ce-qui-circule}
 
-Je lis la [Lune](/astrology/moon/) comme la gardienne des besoins, de l’attachement et du sentiment de sécurité. [Saturne](/astrology/saturn/) bâtit la structure : la responsabilité, les limites, la discipline, ce qui est fait pour durer. Dans une [conjonction](/astrology/conjunction/), les deux agissent ensemble ; d’un thème à l’autre, ce que mesurent les [aspects de synastrie](/astrology/synastry-aspects/), chaque personne en apporte une à la rencontre.
+Je lis la [Lune](/astrology/moon/) comme la gardienne des besoins, de l’attachement et du sentiment de sécurité. [Saturne](/astrology/saturn/) bâtit des charpentes : des devoirs, des limites, une discipline, ce qui est fait pour durer. Dans une [conjonction](/astrology/conjunction/), les deux agissent ensemble ; d’un thème à l’autre, ce que mesurent les [aspects de synastrie](/astrology/synastry-aspects/), chaque personne en apporte une à la rencontre.
 
 Si la Lune est de votre côté, vous trouvez peut-être là un appui sur lequel compter. Cette personne est présente, se souvient, prévoit, et quand vos émotions montent, son calme leur donne des contours. Si ce genre de réconfort a été rare pour vous, cela peut ressembler à une découverte.
 

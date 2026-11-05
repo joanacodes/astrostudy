@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 42
 glyph: "☉⚹♇"
-definition: "Sun sextile Pluto in synastry brings one person’s capacity for renewal within reach of the other’s purpose, at about 60° and within 4.8°. At turning points, the Sun person can draw on the Pluto person’s depth. I read it as resilience on offer, which works once someone asks for it."
+definition: "In Sun sextile Pluto in synastry, one person’s capacity for renewal comes within reach of the other’s purpose, at about 60° and within 4.8°. At turning points, the Sun person can draw on the Pluto person’s depth. I read it as resilience on offer, which works once someone asks for it."
 facts:
   - { k: "Bodies", v: "One person’s Sun ☉, the other’s Pluto ♇" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }

@@ -33,9 +33,9 @@ Lune sextile Uranus en synastrie relie les habitudes d’une personne au goût d
 
 La [Lune](/astrology/moon/) garde les besoins d’une personne, ses attachements et les petits rituels qui lui disent qu’elle est en sécurité. [Uranus](/astrology/uranus/) apporte l’originalité et l’autonomie : l’envie d’essayer, de se distinguer, de changer ce qui s’est figé. Un [sextile](/astrology/sextile/) offre à deux fonctions une chance de coopérer, pour peu que quelqu’un la saisisse. Et comme chaque contact entre deux thèmes, ce qu’on appelle les [aspects de synastrie](/astrology/synastry-aspects/), celui-ci se vit différemment de chaque côté.
 
-Du côté de la Lune, les suggestions de cette personne arrivent peut-être à des doses que vous pouvez absorber. Elles ne renversent pas vos habitudes ; elles y ouvrent une fenêtre. Après un moment ensemble, vous remarquez que vous avez essayé quelque chose de nouveau en restant vous-même, ce qui n’est pas rien pour une Lune qui aime ses routines.
+Côté Lune, ce que propose cette personne arrive peut-être à des doses que vous pouvez absorber. Elles ne renversent pas vos habitudes ; elles y ouvrent une fenêtre. Après un moment ensemble, vous remarquez que vous avez essayé quelque chose de nouveau en restant vous-même, ce qui n’est pas rien pour une Lune qui aime ses routines.
 
-Du côté d’Uranus, votre agitation trouve peut-être un endroit accueillant où se poser. Vos idées sont bien reçues, parfois adoptées, et la façon dont l’autre s’installe vous montre comment un changement peut devenir une habitude qui vaut d’être gardée. Vous pouvez inventer sans vous entendre dire que vous êtes de trop. Entre amis, c’est parfois une personne qui déniche le nouveau restaurant et l’autre qui en fait une adresse fidèle.
+Côté Uranus, votre agitation trouve peut-être un endroit accueillant où se poser. Vos idées sont bien reçues, parfois adoptées, et la façon dont l’autre s’installe vous montre comment un changement peut devenir une habitude qui vaut d’être gardée. Vous pouvez inventer sans vous entendre dire que vous êtes de trop. Entre amis, c’est parfois une personne qui déniche le nouveau restaurant et l’autre qui en fait une adresse fidèle.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

@@ -32,7 +32,7 @@ L’une des deux personnes dit exactement ce qu’elle pense ; l’autre enten
 
 ## Ce qui circule {#ce-qui-circule}
 
-Le [Soleil](/astrology/sun/) organise l’identité et la direction, et veut un contour reconnaissable. [Neptune](/astrology/neptune/) apporte l’imagination, la compassion et l’idéalisation, le sens de ce qui dépasse le littéral. Un [carré](/astrology/square/) les fait frotter, et cette friction oblige chacune à s’adapter. Dans les [aspects de synastrie](/astrology/synastry-aspects/), les deux fonctions vivent chez deux personnes, ce qui place cette friction dans la conversation.
+Le [Soleil](/astrology/sun/) organise l’identité et la direction, et veut un contour reconnaissable. [Neptune](/astrology/neptune/) apporte l’imagination, la compassion et l’idéalisation, le sens de ce qui dépasse le littéral. Un [carré](/astrology/square/) les fait frotter, et cette friction oblige chacune à s’adapter. Dans les [aspects de synastrie](/astrology/synastry-aspects/), chaque personne porte l’une des fonctions, ce qui place cette friction dans la conversation.
 
 Ce qu’elle rend possible, c’est un idéal qui devient plus juste. Confrontée à une personne réelle, avec de vrais projets, l’image que se fait la personne qui a Neptune se corrige, et la compassion qui survit à la correction est plus solide que le premier enchantement. La personne qui a le Soleil, elle, apprend à entendre ce qui n’est pas dit, et à parler avec plus de soin qu’ailleurs.
 

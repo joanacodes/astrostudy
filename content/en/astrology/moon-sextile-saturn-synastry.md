@@ -44,9 +44,9 @@ A sextile doesn't press, so neither person may press either. The Saturn person, 
 
 ## How to meet it {#how-to-meet-it}
 
-Spell the arrangement out. The Moon person can put into words what kind of support helps; the Saturn person can offer it in a form that leaves room to decline. A regular habit suits this sextile: a standing call, a shared chore, a look at plans every few months. When I find it between two charts in [synastry readings](/synastry/), I treat it as a resource the pair can choose to use.
+Spell the arrangement out. The Moon person can put into words what kind of support helps; the Saturn person can offer it in a form that leaves room to decline. A regular habit suits this sextile, for a couple or two siblings alike: a standing call, a shared chore, a look at plans every few months. When I find it between two charts in [synastry readings](/synastry/), I treat it as a resource the pair can choose to use.
 
-About 1 pair of people in 10 has this sextile, one way round or the other, within 4.8°. Everyone born in the same two or three years as the Saturn person has Saturn in the same sign; the Moon's half of the sextile is the part that belongs to these two people alone. Both birth times matter: a Moon moving about 13° a day crosses a 4.8° orb in well under a day, and the houses, which say where the support shows up in each life, come only from the times ([what changes without a birth time](/blog/unknown-birth-time/)).
+About 1 pair of people in 10 has this sextile, one way round or the other, within 4.8°. Anyone born within the same two or three years as the Saturn person has Saturn in the same sign; the Moon's half of the sextile is the part that belongs to these two people alone. Both birth times matter: a Moon moving about 13° a day crosses a 4.8° orb in well under a day, and the houses, which say where the support shows up in each life, need the times too ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Where the angle changes, so does the bargain:
 

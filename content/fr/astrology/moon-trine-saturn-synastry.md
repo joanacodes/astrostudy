@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/moon", "/astrology/saturn", "/astrology/trine", "/astrology/moon-trine-saturn", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Lune trigone Saturne en synastrie ?"
-    a: "Saturne, chez l’une des deux personnes, forme un trigone d’environ 120° avec la Lune de l’autre, à 6,8° près. La patience et le sens de la structure de la première conviennent en général aux besoins de la seconde, et la chaleur qui lui revient donne du sens à ses devoirs. C’est un courant calme et concret entre deux personnes."
+    a: "Il y a un trigone, environ 120° à 6,8° près, entre Saturne chez une personne et la Lune de l’autre. La patience et le sens de la structure de la première conviennent en général aux besoins de la seconde, et la chaleur qui lui revient donne du sens à ses devoirs. C’est un courant calme et concret entre deux personnes."
   - q: "Lune trigone Saturne, est-ce le signe d’une relation durable ?"
     a: "Ce trigone aime la patience et les habitudes, qui aident toute relation que les deux personnes veulent garder. Mais aucun contact ne prédit combien de temps deux personnes restent ensemble, ni si elles le devraient. Le trigone décrit une aisance ; ce que deux adultes en font leur appartient."
   - q: "Avec Lune trigone Saturne, qui veille sur la personne stable ?"
@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6,8° près" }
 ---
-Lune trigone Saturne en synastrie réunit les besoins d’une personne et la constance de l’autre à environ 120°, en général dans un même élément. C’est le contact de la cuisine tranquille et du rendez-vous tenu : l’une peut ressentir pleinement, l’autre peut tenir les choses debout, et ni l’une ni l’autre n’a à forcer pour y arriver.
+Lune trigone Saturne en synastrie réunit les besoins d’une personne et la constance de l’autre à environ 120°, le plus souvent entre signes d’un même élément. C’est le contact de la cuisine tranquille et du rendez-vous tenu : l’une peut ressentir pleinement, l’autre peut tenir les choses debout, et ni l’une ni l’autre n’a à forcer pour y arriver.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -47,12 +47,12 @@ Une aisance de ce genre peut durcir en habitude. Les rôles se figent : la pers
 
 Veillez sur la personne stable : qu’on lui demande de temps en temps comment elle va vraiment, en le pensant, et qu’elle avoue sa fatigue avant que celle-ci se change en silence. Changez une habitude par an, exprès. Un couple peut inventer un nouveau rituel ; des amis, partir hors des sentiers habituels ; une famille, sortir du vieux scénario ; une équipe, échanger des rôles devenus automatiques.
 
-Environ 1 paire de personnes sur 7 a ce trigone, dans un sens ou dans l’autre, à 6,8° près. Si la Lune est la vôtre, vous trouveriez à peu près le même trigone avec bien des personnes nées à peu près en même temps que celle qui a Saturne, puisque Saturne s’attarde environ deux ans et demi dans chaque signe ; ce qui est particulier, c’est cette personne, et la façon dont elle porte Saturne. Je ne le lis pas sans les deux heures de naissance : les 13° environ que la Lune parcourt chaque jour peuvent lui faire traverser l’orbe, et les maisons, où le trigone se pose dans chaque vie, dépendent des heures ([pourquoi j’attends l’heure](/blog/unknown-birth-time/#pourquoi-j-attends-l-heure)).
+Environ 1 paire de personnes sur 7 a ce trigone, dans un sens ou dans l’autre, à 6,8° près. Si la Lune est la vôtre, vous trouveriez à peu près le même trigone avec bien des personnes nées à peu près en même temps que celle qui a Saturne, puisque Saturne reste près de deux ans et demi dans chaque signe ; ce qui est particulier, c’est cette personne, et la façon dont elle porte Saturne. Je ne le lis pas sans les deux heures de naissance : le déplacement quotidien de la Lune, environ 13°, peut la faire entrer dans l’orbe ou en sortir, et les maisons, où le trigone se pose dans chaque vie, dépendent des heures ([pourquoi j’attends l’heure](/blog/unknown-birth-time/#pourquoi-j-attends-l-heure)).
 
 Sous d’autres angles, ces deux fonctions demandent davantage aux deux personnes :
 
 - **[Lune conjonction Saturne en synastrie](/astrology/moon-conjunct-saturn-synastry/) :** le cadre se pose sur le besoin lui-même, plus près et plus lourd.
-- **[Lune sextile Saturne en synastrie](/astrology/moon-sextile-saturn-synastry/) :** un soutien qui attend qu’on le demande.
+- **[Lune sextile Saturne en synastrie](/astrology/moon-sextile-saturn-synastry/) :** une aide disponible, à condition de la réclamer.
 - **[Lune carré Saturne en synastrie](/astrology/moon-square-saturn-synastry/) :** le besoin et la prudence qui arrivent au mauvais moment.
 - **[Lune opposition Saturne en synastrie](/astrology/moon-opposite-saturn-synastry/) :** le besoin à un bout, les limites à l’autre, qu’on se passe de main en main.
 

@@ -31,7 +31,7 @@ When things get hard, this pair tends to get steadier rather than shakier. Sun t
 
 ## What flows {#what-flows}
 
-The [Sun](/astrology/sun/) organises identity and vitality, the self a person stands on. [Pluto](/astrology/pluto/) enables transformation, regeneration and empowerment: going deep, letting go, coming back stronger. A [trine](/astrology/trine/) relates the two through flow, each reinforcing the other. Of Pluto's [synastry aspects](/astrology/synastry-aspects/) with the Sun, it's the one where depth feels safest.
+The [Sun](/astrology/sun/) organises identity and vitality, the self a person stands on. [Pluto](/astrology/pluto/) enables transformation, regeneration and empowerment: going deep, letting go, coming back stronger. A [trine](/astrology/trine/) relates the two through flow, each reinforcing the other. Here depth feels safe, which isn't true of every one of the [synastry aspects](/astrology/synastry-aspects/) Pluto makes.
 
 With the Sun, you feel more resilient around this person. Your sense of self gains depth without being challenged for it, and difficult things, a hard conversation, a loss, a big decision, seem more bearable with them beside you.
 

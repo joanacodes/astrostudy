@@ -17,7 +17,7 @@ facts:
 related: ["/astrology/moon", "/astrology/pluto", "/astrology/opposition", "/astrology/moon-opposite-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Moon opposite Pluto mean in synastry?"
-    a: "One person’s Pluto and the other’s Moon sit at opposite points of the zodiac, within 8°. The Moon person tends to stand for safety and the familiar, the Pluto person for depth and change, and each can feel the other pulling hard. That pull asks for balance; it isn’t a struggle written in advance."
+    a: "One person’s Pluto and the other’s Moon sit at opposite points of the zodiac, within 8°. Safety and the familiar are usually the Moon person’s ground, depth and change the Pluto person’s, and each can feel the other pulling hard. That pull asks for balance; it isn’t a struggle written in advance."
   - q: "Does Moon opposite Pluto mean an obsessive relationship?"
     a: "No. Pluto describes transformation and personal power, not obsession, and a relationship’s course is never set by a single contact. This opposition can make attachment feel strong and change feel urgent. Naming that, and agreeing how decisions are made, keeps the intensity on the side of growth."
   - q: "Can Moon opposite Pluto work between friends or colleagues?"
@@ -40,13 +40,13 @@ Balanced, the pair has both: depth that doesn't drown anyone, and safety that do
 
 ## Where it rubs {#where-it-rubs}
 
-Seesaws of this weight get stuck easily. The Moon person can come to feel the other always wants more, more honesty, more change, more of them; the Pluto person can come to feel the other always holds back. Power gathers at one end: one decides, the other adapts, and resentment builds where it isn't said. Polarity is not enmity, transformation is not destruction and empowerment is not domination, but on this line those boundaries need watching.
+Seesaws of this weight get stuck easily. The Moon person can come to feel the other always wants more, more honesty, more change, more of them; the Pluto person can come to feel the other always holds back. Power gathers at one end: one decides, the other adapts, and resentment builds where it isn't said. Polarity is not enmity, change is not destruction, and power over one's own life is not power over someone else's, but on this line those boundaries need watching.
 
 ## How to meet it {#how-to-meet-it}
 
 Make power travel. Let the Moon person set the pace of some changes and the Pluto person lead others; take turns deciding what the pair takes on next. The Pluto person can practise leaving well alone; the Moon person can practise saying yes to a necessary change before it's forced. A couple might name who holds which decisions; family members might agree what history is open for discussion and what isn't; colleagues might pair the one who protects what works with the one who rebuilds.
 
-About 1 pair of people in 12 has this opposition, one way round or the other, within 8°. Read generation by generation, Pluto's end hardly moves, since Pluto needs 12 to 31 years to cross a sign; read day by day, the Moon's end never stops, and it's the day, not the generation, that put these two people across from each other. That's also why both birth times matter to me: the Moon, at some 13° a day, could slip out of this opposition if either birth came a few hours sooner or later, and the houses at either end come only from the times ([what changes without a birth time](/blog/unknown-birth-time/)). In [synastry readings](/synastry/), those houses come first: they show where in two lives the pull is felt, before anything is said about power.
+About 1 pair of people in 12 has this opposition, one way round or the other, within 8°. Read generation by generation, Pluto's end hardly moves, since Pluto takes between 12 and 31 years over each sign; read day by day, the Moon's end never stops, and it's the day, not the generation, that put these two people across from each other. That's also why both birth times matter to me: the Moon, at some 13° a day, could slip out of this opposition if either birth came a few hours sooner or later, and the houses at either end come only from the times ([what changes without a birth time](/blog/unknown-birth-time/)). In [synastry readings](/synastry/), those houses come first: they show where in two lives the pull is felt, before anything is said about power.
 
 Its four siblings, for comparison:
 

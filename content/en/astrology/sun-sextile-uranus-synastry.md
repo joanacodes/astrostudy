@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 32
 glyph: "☉⚹♅"
-definition: "Sun sextile Uranus in synastry links one person’s urge for change to the other’s direction through an easy angle of about 60°, within 4.8°. The Uranus person brings options; the Sun person chooses which to use. I read it as renewal on offer, which only becomes real when someone acts on it."
+definition: "Sun sextile Uranus in synastry links one person’s urge for change to the other’s direction across an easy 60°, within 4.8°. The Uranus person brings options; the Sun person chooses which to use. I read it as renewal on offer, which only becomes real when someone acts on it."
 facts:
   - { k: "Bodies", v: "One person’s Sun ☉, the other’s Uranus ♅" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }

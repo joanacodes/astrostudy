@@ -31,7 +31,7 @@ Lune carré Jupiter en synastrie trace un angle de 90° entre ce dont une person
 
 ## Ce qui circule {#ce-qui-circule}
 
-La [Lune](/astrology/moon/) veille au ressenti et au besoin : le réconfort, l’attachement, les petites habitudes qui tiennent une personne d’aplomb. [Jupiter](/astrology/jupiter/) élargit : chercher du sens, apprendre, tenir à des principes, trouver de la place pour grandir. Un [carré](/astrology/square/) les place à angle droit, là où la friction fait un travail utile, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), cette friction passe entre deux personnes qui portent chacune une des fonctions.
+La [Lune](/astrology/moon/) veille au ressenti et au besoin : le réconfort, l’attachement, les petites habitudes qui tiennent une personne d’aplomb. [Jupiter](/astrology/jupiter/) élargit : chercher du sens, apprendre, tenir à des principes, trouver de la place pour grandir. Un [carré](/astrology/square/) les place à angle droit, là où la friction fait un travail utile, et dans les [aspects de synastrie](/astrology/synastry-aspects/), la friction va d’une personne à l’autre, chacune portant une des fonctions.
 
 Si la Lune est la vôtre, la générosité de l’autre peut ressembler à une météo un peu trop chaude pour la saison. Vous vouliez une soirée tranquille et vous recevez un projet pour l’été ; vous confiez une inquiétude et vous entendez un principe. Quand cela fonctionne, pourtant, cette personne vous fait dépasser un confort devenu trop petit, et ensuite vous lui en savez gré.
 
@@ -41,7 +41,7 @@ La friction rend donc la mesure possible. Avec le temps, vous pouvez apprendre c
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Le frottement tient à la taille et au moment. L’encouragement de la personne qui a Jupiter arrive avant que l’émotion de l’autre ait été entendue, ou ses convictions commentent cette émotion : tu ne devrais pas t’en faire, pense à l’ensemble. De l’autre côté, le besoin de familier de la personne qui a la Lune peut ressembler à un frein sur chaque projet. Et avec Jupiter dans l’affaire, la paire peut dire oui à plus que ses soirées n’en contiennent. Un carré est une friction, jamais un échec : rien de cela ne veut dire que la paire est mal assortie, seulement que vous mesurez avec des règles différentes.
+Le frottement tient à la taille et au moment. L’encouragement de la personne qui a Jupiter arrive avant que l’émotion de l’autre ait été entendue, ou ses convictions commentent cette émotion : tu ne devrais pas t’en faire, pense à l’ensemble. De l’autre côté, le besoin de familier de la personne qui a la Lune peut ressembler à un frein sur chaque projet. Et avec Jupiter dans l’affaire, la paire peut dire oui à plus que ses soirées n’en contiennent. Frotter n’est pas échouer : rien de cela ne veut dire que la paire est mal assortie, seulement que vous mesurez avec des règles différentes.
 
 ## Comment le vivre {#comment-le-vivre}
 

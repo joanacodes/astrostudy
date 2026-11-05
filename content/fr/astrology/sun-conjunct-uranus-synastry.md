@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/sun", "/astrology/uranus", "/astrology/conjunction", "/astrology/sun-conjunct-uranus", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Soleil conjonction Uranus en synastrie ?"
-    a: "L’envie de changer, d’expérimenter et de se distinguer, chez une personne, tombe sur le Soleil de l’autre, à 8° près, au centre de qui elle est. La personne qui a le Soleil se sent souvent plus libre et plus inventive à ses côtés ; celle qui a Uranus sent que ses idées ont trouvé un lieu. Cela décrit une dynamique, pas une issue."
+    a: "L’envie de changer, d’expérimenter et de se distinguer, chez une personne, tombe sur le Soleil de l’autre, à 8° près, au centre de qui elle est. Auprès de l’autre, la personne qui a le Soleil se découvre souvent plus libre et plus inventive ; celle qui a Uranus sent que ses idées ont trouvé un lieu. Cela décrit une dynamique, pas une issue."
   - q: "Soleil conjonction Uranus annonce-t-il une relation qui ne durera pas ?"
     a: "Non. Uranus parle de changement et d’autonomie, pas d’instabilité, et aucun aspect ne décide combien de temps deux personnes restent proches. Celui-ci demande de l’espace à l’intérieur du lien : de la nouveauté à partager, et une liberté que personne n’a à conquérir."
   - q: "Qui change le plus avec Soleil conjonction Uranus ?"

@@ -30,7 +30,7 @@ Moon opposite Jupiter in synastry puts one person's needs and the other's sense 
 
 ## What flows {#what-flows}
 
-The [Moon](/astrology/moon/) holds needs, attachment and the routines that turn a place into a refuge. [Jupiter](/astrology/jupiter/) holds growth, learning, principles and the urge to look further. An [opposition](/astrology/opposition/) sets two functions face to face, so that each end makes the other easier to see. Read as one of the [synastry aspects](/astrology/synastry-aspects/), it means each of you lives one end and meets the other end in someone else.
+The [Moon](/astrology/moon/) holds needs, attachment and the routines that turn a place into a refuge. [Jupiter](/astrology/jupiter/) holds growth, learning, principles and the urge to look further. An [opposition](/astrology/opposition/) lines two functions up across the circle, and each end makes the other easier to see. Seen as one of the [synastry aspects](/astrology/synastry-aspects/), it means each of you lives one end and meets the other end in someone else.
 
 Living the Moon's end, you may find this person draws you out: towards the trip you'd have postponed, the course, the bigger question, friends from other worlds. Their range can feel like fresh air, and at times like distance, their mind already elsewhere while you're still here.
 
@@ -44,7 +44,7 @@ Two people on a seesaw aren't enemies, but a seesaw can stick. The Moon person b
 
 ## How to meet it {#how-to-meet-it}
 
-Take turns at each other's end. The Jupiter person can bring the wider world home, sharing what they're learning at the table rather than from a distance; the Moon person can choose an adventure now and then, on their own terms. A couple might plan travel around a familiar ritual; friends might alternate a night in with a night out; colleagues might pair one person's vision with the other's sense of what the team can absorb.
+Visit each other's end. The Jupiter person can bring the wider world home, sharing what they're learning at the table rather than from a distance; the Moon person can choose an adventure now and then, on their own terms. A couple might plan travel around a familiar ritual; friends might alternate a night in with a night out; colleagues might pair one person's vision with the other's sense of what the team can absorb.
 
 About 1 pair of people in 12 has this opposition, one way round or the other, within 8°. Both birth times decide it. At some 13° a day, the Moon can cross the edge of the orb in a matter of hours, and the houses, which show what each end is about in each life, can't be drawn without the times ([why I wait for the time](/blog/unknown-birth-time/#why-i-wait-for-the-time)).
 

@@ -19,7 +19,7 @@ faq:
   - q: "What does Moon square Saturn mean in synastry?"
     a: "One person’s Saturn sits about 90° from the other’s Moon, within 6.8°. The Moon person’s needs tend to arrive when the Saturn person’s structure says not now, so care can feel rationed on one side and demanded on the other. Worked with, the friction builds care that is warm and reliable at once."
   - q: "Does Moon square Saturn mean one person is cold?"
-    a: "No. Saturn describes structure, caution and responsibility, not a lack of feeling. What reads as coldness is often care given in practical form, at a moment when the other needed it in words. This square asks the Saturn person to say the warm thing aloud, and the Moon person to say the need plainly."
+    a: "No. Saturn describes structure, caution and responsibility, not a lack of feeling. What reads as coldness is often care given in practical form, at a moment when the other needed it in words. What this square invites is plain speech on both sides: the warm thing said aloud by the Saturn person, the need named simply by the Moon person."
   - q: "Can Moon square Saturn work between colleagues?"
     a: "Yes, and it can be useful there. One person notices how the team feels, the other keeps the deadlines and the rules. The friction comes when a need meets a procedure. Agreeing in advance on when feelings get discussed, and when the schedule wins, takes much of the heat out of it."
 sources:
@@ -27,7 +27,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 6.8°" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "Saturn, Lilith and Chiron, the placements that held most often" }
 ---
-Moon square Saturn in synastry is a quarter-circle between what one person needs and how the other organises life. A feeling turns up on its own clock; a care that runs on a calendar meets it at the wrong hour. Neither person is unkind, and both can end up feeling short-changed.
+Moon square Saturn in synastry is a quarter-circle between one person's feelings and the other's way of organising life. A feeling turns up on its own clock; a care that runs on a calendar meets it at the wrong hour. Neither person is unkind, and both can end up feeling short-changed.
 
 ## What flows {#what-flows}
 
@@ -47,7 +47,7 @@ Trouble starts with timing and tone. Saturn's caution, its rules and its "not no
 
 Say the warmth out loud, and say the need early. The Saturn person can explain the reason behind a limit and add the kind sentence they usually leave implied; the Moon person can mention a need while it's still small. Agree on times, too: when feelings get talked through, when the schedule wins. Between coworkers, a short weekly check-in can do more than any rule.
 
-I read Saturn slowly because of my notebook. By sign and house, Saturn, Lilith and Chiron held 75 to 90% of the time, in my chart and in those of the people who let me test theirs ([the invoice method, and what held overall](/blog/i-tested-my-birth-chart/)). That isn't a number for this square, and a notebook proves nothing about astrology in general.
+I read Saturn slowly because of my notebook. By sign and house, Saturn, Lilith and Chiron held 75 to 90% of the time, in my chart and in those of the people who let me test theirs ([the invoice method, and what held overall](/blog/i-tested-my-birth-chart/)). That isn't a number for this square; it's a notebook, not a study.
 
 About 1 pair of people in 7 has this square, one way round or the other, within 6.8°. If the Saturn is yours, your schoolmates have much the same one, since Saturn needs about two and a half years for each sign; what makes the square yours is where the other person's Moon happens to fall, 90° from it. At about 13° a day, the Moon makes both birth times decisive: they settle whether the square is there, and give the houses where each of you feels it ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)).
 

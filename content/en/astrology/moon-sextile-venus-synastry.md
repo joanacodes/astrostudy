@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 67
 glyph: "☽⚹♀"
-definition: "Moon sextile Venus in synastry links one person’s Moon and the other’s Venus at about 60°, within 4.8°. Kindness from one side meets the needs of the other in friendly, unforced ways, as long as someone makes the first gesture. I read it as goodwill that deepens once it’s acted on."
+definition: "Moon sextile Venus in synastry is an angle of about 60°, give or take 4.8°, between one person’s Moon and the other’s Venus. Kindness from one side meets the needs of the other in friendly, unforced ways, as long as someone makes the first gesture. I read it as goodwill that deepens once it’s acted on."
 facts:
   - { k: "Bodies", v: "One person’s Moon ☽, the other’s Venus ♀" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -29,7 +29,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the sextile, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "pairs with the sextile either way round, within 4.8°" }
 ---
-Moon sextile Venus in synastry links one person's Moon and the other's Venus at 60°. It's the friendly contact of the pair: small kindnesses from one side land on the needs of the other, provided someone makes the first gesture.
+Moon sextile Venus in synastry puts one person's Moon and the other's Venus 60° apart. It's the friendly contact of the pair: small kindnesses from one side land on the needs of the other, provided someone makes the first gesture.
 
 ## What flows {#what-flows}
 
@@ -39,7 +39,7 @@ When the Moon is yours, this person's attentions tend to arrive in a form you ca
 
 When Venus is yours, your kindness seems to land without effort, and the other person's appreciation is easy to read. You learn quickly what pleases them, which makes giving a pleasure rather than a guess.
 
-Usually the two sit two signs apart, in elements that suit each other. A Moon in Scorpio, with deep and private needs, meets in a Venus in Capricorn a steady, practical affection that doesn't pry; a Moon in Gemini finds in a Venus in Aries or Leo a warmth that keeps things moving.
+Most often, two signs separate them, in elements that suit each other. A Moon in Scorpio, with deep and private needs, meets in a Venus in Capricorn a steady, practical affection that doesn't pry; a Moon in Gemini finds in a Venus in Aries or Leo a warmth that keeps things moving.
 
 At work, it's the colleague who notices you're having a hard week and brings you a cup of tea; between friends, the one who keeps the invitations coming.
 
@@ -49,10 +49,10 @@ A sextile can stay politely on the surface. Pleasantness becomes a ceiling: both
 
 ## How to meet it {#how-to-meet-it}
 
-Make the gesture. If Venus is yours, offer something specific rather than general niceness; if the Moon is yours, ask for one thing you'd normally wait to be offered. In a family of adults, a sextile like this can carry a relationship that would otherwise be all duty; in a couple, it's the everyday consideration that keeps things kind.
+Take the first step yourself. If Venus is yours, offer something specific rather than general niceness; if the Moon is yours, ask for one thing you'd normally wait to be offered. In a family of adults, a sextile like this can carry a relationship that would otherwise be all duty; in a couple, it's the everyday consideration that keeps things kind.
 
 Who makes the first gesture matters less than that someone does. Often the Venus person offers and the Moon person receives; the contact deepens when that sometimes runs the other way, with the Moon person offering comfort and the Venus person letting themselves be looked after.
 
-This sextile shows up in about 1 pair of people in 10 at 4.8°, one way round or the other. The Moon needs less than a day to cross the sextile's whole window, while Venus, three to four weeks to a sign, barely shifts, so whether the contact exists depends on the hour the Moon person was born. I don't read any synastry without both birth times ([what changes without a birth time](/blog/unknown-birth-time/)).
+This sextile is found in about 1 pair of people in 10 at 4.8°, one way round or the other. The Moon needs less than a day to cross the sextile's whole window, while Venus, three to four weeks to a sign, barely shifts, so whether the contact exists depends on the hour the Moon person was born. I don't read any synastry without both birth times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Within a single chart, this angle is [Moon sextile Venus](/astrology/moon-sextile-venus/). Between two, [Moon trine Venus in synastry](/astrology/moon-trine-venus-synastry/) offers the same warmth without waiting to be asked; [Moon conjunct Venus in synastry](/astrology/moon-conjunct-venus-synastry/) fuses comfort and pleasure; [Moon square Venus in synastry](/astrology/moon-square-venus-synastry/) and [Moon opposite Venus in synastry](/astrology/moon-opposite-venus-synastry/) ask the two to translate between their ways of caring.

@@ -31,7 +31,7 @@ Lune sextile Saturne en synastrie espace d’environ 60° les besoins d’une pe
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Saturne](/astrology/saturn/) bâtit ce qui dure : des cadres, des responsabilités, des limites, de la patience. La [Lune](/astrology/moon/) veille sur les besoins, l’attachement et les habitudes qui apaisent une personne. Un [sextile](/astrology/sextile/) fait coopérer ces deux fonctions à une condition : l’aide est réelle, mais elle attend qu’on s’en serve. Comme les autres [aspects de synastrie](/astrology/synastry-aspects/), celui-ci ne se vit pas pareil selon le bout qui est le vôtre.
+[Saturne](/astrology/saturn/) bâtit ce qui dure : des cadres, des responsabilités, des limites, de la patience. La [Lune](/astrology/moon/) s’occupe des besoins, des attachements et des habitudes qui apaisent une personne. Un [sextile](/astrology/sextile/) fait coopérer ces deux fonctions à une condition : l’aide est réelle, mais elle attend qu’on s’en serve. Comme les autres [aspects de synastrie](/astrology/synastry-aspects/), celui-ci ne se vit pas pareil selon le bout qui est le vôtre.
 
 Avec la Lune de ce côté-ci, vous remarquez peut-être combien il est facile de compter sur cette personne, sans la moindre impression de faiblesse. Elle ne fait pas d’histoires : elle se souvient du rendez-vous, vérifie les pneus, tient la date fixée en mars. Une semaine fragile, le savoir suffit à vous apaiser.
 
@@ -41,13 +41,13 @@ Entre amis, cela peut ressembler à une promenade hebdomadaire jamais annulée�
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Un sextile ne presse pas, alors aucune des deux personnes ne presse non plus. Celle qui a Saturne, soucieuse de ne pas s’imposer, attend qu’on lui demande ; celle qui a la Lune, qui ne veut pas peser, ne demande rien. Le lien peut alors rester poli et pratique, avec beaucoup d’aide dans l’agenda et peu d’émotions dites à voix haute. Un mauvais jour, la personne qui a la Lune peut prendre la retenue de l’autre pour de la distance, et celle qui a Saturne peut prendre le silence de l’autre pour une absence de besoins. L’occasion demande de l’engagement : ce contact donne peu tant que personne ne s’en saisit.
+Un sextile ne presse pas, alors aucune des deux personnes ne presse non plus. Celle qui a Saturne attend qu’on lui demande, par souci de ne pas s’imposer ; celle qui a la Lune, qui ne veut pas peser, ne demande rien. Le lien peut alors rester poli et pratique, avec beaucoup d’aide dans l’agenda et peu d’émotions dites à voix haute. Un mauvais jour, la personne qui a la Lune peut prendre la retenue de l’autre pour de la distance, et celle qui a Saturne peut prendre le silence de l’autre pour une absence de besoins. L’occasion demande de l’engagement : ce contact donne peu tant que personne ne s’en saisit.
 
 ## Comment le vivre {#comment-le-vivre}
 
-Rendez l’arrangement explicite. La personne qui a la Lune peut nommer, avec des mots, le soutien qui l’aide ; celle qui a Saturne peut l’offrir sous une forme qui laisse la liberté de refuser. Une habitude régulière convient bien à ce sextile : un appel fixe, une tâche partagée, un point sur les projets tous les quelques mois. Quand je le trouve entre deux thèmes dans mes [lectures de synastrie](/synastry/), je le traite comme une ressource que la paire peut choisir d’utiliser.
+Rendez l’arrangement explicite. La personne qui a la Lune peut dire en toutes lettres quel soutien l’aide ; celle qui a Saturne peut l’offrir sous une forme qui laisse la liberté de refuser. Une habitude régulière convient bien à ce sextile, en couple comme entre frères et sœurs : un appel fixe, une tâche partagée, un point sur les projets tous les quelques mois. Quand je le trouve entre deux thèmes dans mes [lectures de synastrie](/synastry/), je le traite comme une ressource que la paire peut choisir d’utiliser.
 
-Environ 1 paire de personnes sur 10 a ce sextile, dans un sens ou dans l’autre, à 4,8° près. Les personnes nées dans les deux ou trois mêmes années que celle qui a Saturne ont Saturne dans le même signe ; la moitié du sextile qui revient à la Lune est la seule qui n’appartienne qu’à ces deux personnes. Les deux heures de naissance comptent : à environ 13° par jour, la Lune traverse un orbe de 4,8° en bien moins d’une journée, et les maisons, qui disent où le soutien se manifeste dans chaque vie, ne viennent que des heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Environ 1 paire de personnes sur 10 a ce sextile, dans un sens ou dans l’autre, à 4,8° près. Toute personne née dans les deux ou trois mêmes années que celle qui a Saturne a Saturne dans le même signe ; la moitié du sextile qui revient à la Lune est la seule qui n’appartienne qu’à ces deux personnes. Les deux heures de naissance comptent : à environ 13° par jour, la Lune traverse un orbe de 4,8° en bien moins d’une journée, et les maisons, qui disent où le soutien se manifeste dans chaque vie, ne viennent que des heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Quand l’angle change, le marché change aussi :
 

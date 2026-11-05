@@ -26,7 +26,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "his four aspects, which leave out the conjunction" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 8°" }
 ---
-Moon conjunct Pluto in synastry sets one person's Pluto on the other's Moon. Feelings on one side meet a drive for depth on the other, at the same degree, and the result is a bond in which very little stays casual. I read it slowly, and from both ends.
+Moon conjunct Pluto in synastry sets one person's Pluto on the other's Moon. One brings feelings, the other a drive for depth, and on a shared degree the result is a bond in which very little stays casual. I read it slowly, and from both ends.
 
 ## What flows {#what-flows}
 
@@ -46,7 +46,7 @@ On one degree, two intensities merge, and it can be hard to tell whose feeling i
 
 Build trust slowly and on purpose. Talk about power plainly: who decides what, what stays private, what each of you needs to feel safe. Let change be invited, not imposed, and keep some of life separate: friends of your own, time alone, a place where nobody is examining anybody. In a couple, that's what keeps intensity from becoming possession; between close friends or relatives, it's what lets honesty stay kind.
 
-About 1 pair of people in 11 has this conjunction, one way round or the other, within 8°. Pluto's stay in a sign runs from 12 to 31 years, so the Pluto person shares its sign with a long run of births; the conjunction becomes personal only where the other's Moon lands on it. At roughly 13° a day, the Moon arrives on that degree or misses it within a few hours of birth, and the houses it falls in need both times as well ([what changes without a birth time](/blog/unknown-birth-time/)).
+About 1 pair of people in 11 has this conjunction, one way round or the other, within 8°. Pluto's stay in a sign runs from 12 to 31 years, so the Pluto person shares its sign with a long run of births; the conjunction becomes personal only where the other's Moon lands on it. At roughly 13° a day, the Moon arrives on that degree or misses it within a few hours of birth, and both times are needed for the houses it falls in ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 With distance between them, the same two functions work differently:
 

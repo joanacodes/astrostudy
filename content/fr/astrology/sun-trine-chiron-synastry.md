@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, qui forme avec le sextile la paire harmonieuse" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6,8° près" }
 ---
-Être pleinement soi à côté du point sensible de quelqu’un, sans appuyer dessus, est chose rare, et dans cette paire cela vient en général tout seul. Avec Soleil trigone Chiron entre deux thèmes, Chiron, chez l’une, se trouve à environ 120° du Soleil de l’autre, les deux partageant le plus souvent un élément.
+Être pleinement soi à côté du point sensible de quelqu’un, sans appuyer dessus, est chose rare, et dans cette paire cela vient en général tout seul. Dans cette paire, Chiron, chez l’une, se trouve à environ 120° du Soleil de l’autre, les deux partageant le plus souvent un élément.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -47,7 +47,7 @@ Le confort peut rendre l’histoire invisible. Comme rien ne frotte, ce que la p
 Le reste de la paire, par comparaison :
 
 - **[Soleil conjonction Chiron en synastrie](/astrology/sun-conjunct-chiron-synastry/) :** l’aisance se pose sur le point sensible même, et les rôles peuvent se brouiller.
-- **[Soleil sextile Chiron en synastrie](/astrology/sun-sextile-chiron-synastry/) :** l’expérience est offerte, et il faut la demander.
+- **[Soleil sextile Chiron en synastrie](/astrology/sun-sextile-chiron-synastry/) :** l’expérience attend qu’on la sollicite.
 - **[Soleil carré Chiron en synastrie](/astrology/sun-square-chiron-synastry/) :** la même aisance frotte, et il faut dessiner la carte du terrain sensible.
 - **[Soleil opposition Chiron en synastrie](/astrology/sun-opposite-chiron-synastry/) :** les deux se font face, et la personne qui aide et celle qu’on aide peuvent se figer dans leurs rôles.
 
@@ -55,6 +55,6 @@ Le reste de la paire, par comparaison :
 
 Dites ce que vous voyez. La personne qui a le Soleil peut remercier l’autre pour un savoir-faire précis, pas seulement pour sa gentillesse ; celle qui a Chiron peut partager une part de son histoire, si elle le souhaite, pour que l’aisance repose sur quelque chose de connu. Laissez la personne qui a Chiron enseigner quand elle en a envie. Un couple peut nommer le travail qui se cache derrière le confort ; entre amis, on peut laisser la personne qui a l’expérience mener dans ce domaine de temps en temps ; en famille, le savoir-faire discret de quelqu’un peut être salué à voix haute ; au travail, qui sait faire mérite d’en avoir le crédit.
 
-Environ 1 paire de personnes sur 7 a ce trigone, dans un sens ou dans l’autre, à 6,8° près. Selon l’endroit où se trouvait Chiron sur sa longue orbite, toutes les personnes nées à moins de deux ans de celle qui a Chiron, ou jusqu’à huit ans, partagent ce même signe ; le trigone avec ce Soleil-là dépend d’un anniversaire. Je ne commence qu’une fois les deux heures de naissance en main : l’heure déplace rarement le Soleil assez pour compter, mais elle fixe les maisons, qui montrent où chaque vie ressent cette aisance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Et je le lis, comme tout contact avec Chiron, avec l’accord de la personne dont c’est le point sensible ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Environ 1 paire de personnes sur 7 a ce trigone, dans un sens ou dans l’autre, à 6,8° près. Selon l’endroit où se trouvait Chiron sur sa longue orbite, toutes les personnes nées à moins de deux ans de celle qui a Chiron, ou jusqu’à huit ans, partagent ce même signe ; le trigone avec ce Soleil-là dépend d’un anniversaire. Je ne commence qu’une fois les deux heures de naissance réunies : l’heure déplace rarement le Soleil assez pour compter, mais elle fixe les maisons, la carte de l’endroit où chaque vie ressent cette aisance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Et je le lis, comme tout contact avec Chiron, avec l’accord de la personne dont c’est le point sensible ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
 
 Dans un seul thème, [Soleil trigone Chiron](/astrology/sun-trine-chiron/) garde le point sensible d’une personne et son sentiment de soi en bons termes. Entre deux thèmes, ces bons termes passent d’une vie à l’autre, et les deux personnes y gagnent.

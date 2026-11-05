@@ -32,9 +32,9 @@ Moon conjunct Uranus in synastry puts one person's Uranus on the other's Moon. T
 
 The [Moon](/astrology/moon/) regulates feelings, needs and the habits that make a person feel at home. [Uranus](/astrology/uranus/) is the urge to renew: to stand apart, to try things, to loosen whatever has grown too tight. In a [conjunction](/astrology/conjunction/) the two work as a single process; between two charts, where [synastry aspects](/astrology/synastry-aspects/) live, that single process has two owners.
 
-If the Moon is yours, this person tends to refresh you. Your routines, your comfort foods, your ways of settling get questioned and sometimes rearranged, and more often than you'd expect you like the result: life with them feels less like a groove and more like a home that breathes.
+With your Moon in play, this person tends to refresh you. Your routines, your comfort foods, your ways of settling get questioned and sometimes rearranged, and more often than you'd expect you like the result: life with them feels less like a groove and more like a home that breathes.
 
-If Uranus is yours, this person tends to receive your difference without flinching. Your need for room, your odd ideas, your sudden changes of plan land on someone who responds rather than resists, and you may feel freer to be yourself here than almost anywhere.
+With your Uranus in play, this person tends to receive your difference without flinching. Your need for room, your odd ideas, your sudden changes of plan land on someone who responds rather than resists, and you may feel freer to be yourself here than almost anywhere.
 
 What flows is renewal close to home: a couple who keep reinventing their weekends, two friends who drag each other out of old habits, a colleague whose new method the other actually enjoys trying.
 
@@ -44,7 +44,7 @@ On one degree, two needs can run together: the Moon person's need to feel settle
 
 ## How to meet it {#how-to-meet-it}
 
-Decide together what doesn't move. A shared meal, a weekly call, a room nobody rearranges without asking: a few anchors let the rest move freely. The Uranus person can give notice before big changes; the Moon person can check, now and then, whether a new habit is one they chose or one they caught. In a couple or a family, that means changes discussed rather than announced; between colleagues, experiments with a clear way back.
+Decide together what doesn't move. A shared meal, a weekly call, a room nobody rearranges without asking: a few anchors let the rest move freely. The Uranus person can give notice before big changes; the Moon person can ask themselves, from time to time, whether a new habit is one they chose or one they caught. In a couple or a family, that means changes discussed rather than announced; between colleagues, experiments with a clear way back.
 
 About 1 pair of people in 12 has this conjunction, one way round or the other, within 8°. With roughly seven years to a sign, the Uranus person's Uranus is close to a generational signature; it becomes part of this pair only because the other person's Moon happens to land on it. That Moon travels about 13° a day, which makes both birth times decisive for the conjunction, and for the houses that show where it touches each life ([what changes without a birth time](/blog/unknown-birth-time/)).
 

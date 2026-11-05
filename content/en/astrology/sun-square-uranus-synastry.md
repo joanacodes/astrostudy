@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun", "/astrology/uranus", "/astrology/square", "/astrology/sun-square-uranus", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Sun square Uranus mean in synastry?"
-    a: "The Uranus person’s need for change and freedom crosses the Sun person’s direction at about 90°, within 6.8°. Plans get questioned, routines get redesigned, and both have to adjust. I read it as friction that can reform a shared life, never as proof that the pair can’t settle."
+    a: "The Uranus person’s need for change and freedom crosses the Sun person’s direction at about 90°, within 6.8°. Plans get questioned, routines get redesigned, and both have to adjust. Friction like this can reform a shared life; it is never proof that the pair can’t settle."
   - q: "Does Sun square Uranus mean the relationship is unstable?"
     a: "No. Uranus describes change and autonomy, not instability, and a square describes friction rather than failure. This contact asks two people to agree on what stays fixed and what can move, which most couples, friends and colleagues have to work out sooner or later anyway."
   - q: "Who feels Sun square Uranus more?"

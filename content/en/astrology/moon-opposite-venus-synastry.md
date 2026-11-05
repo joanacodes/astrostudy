@@ -24,7 +24,7 @@ faq:
   - q: "What goes wrong with Moon opposite Venus?"
     a: "The roles can set. One person always gives comfort while the other keeps things pleasant, or one always needs while the other always pleases. The Moon person may feel the other cares more about how things look than how they feel; the Venus person may feel the other’s needs weigh on every pleasure."
   - q: "Can the birth time change Moon opposite Venus?"
-    a: "Yes. In a day the Moon travels about 13°, more than this opposition allows on either side, so a wrong hour can show the contact where there is none, or hide one that’s there. It’s one reason I don’t read a synastry without both birth times."
+    a: "Yes. In a day the Moon travels about 13°, more than this opposition allows on either side, so a wrong hour can show the contact where there is none, or hide one that’s there. It’s one reason a synastry needs both birth times."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the opposition, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "pairs with the opposition either way round, within 8°" }
@@ -49,6 +49,6 @@ Polarity isn't contradiction. The two ends need each other to make sense.
 
 Take turns at each end. If Venus is yours, ask for comfort sometimes instead of only offering charm; if the Moon is yours, offer appreciation, not only need. Between co-workers, it can be the pairing where one keeps the team steady and the other keeps it pleasant, and crossing over helps both; among friends and adult relatives, the same holds. Because this contact so often comes with a pull, people sometimes want to look at the other person's chart early on. I'd rather wait until you've known each other a while and both of you agree ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
 
-My count puts it at about 1 pair of people in 12, within 8°, the Moon belonging to either. The Moon's speed makes the time decisive: wrong by a few hours, a chart can show this opposition where there is none, or miss one that's there. That's a reason to insist on both birth times; the houses are another ([what changes without a birth time](/blog/unknown-birth-time/)).
+My count puts it at about 1 pair of people in 12, within 8°, whichever chart holds the Moon. The Moon's speed makes the time decisive: wrong by a few hours, a chart can show this opposition where there is none, or miss one that's there. That's a reason to insist on both birth times; the houses are another ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 One person can carry both ends too: that's [Moon opposite Venus](/astrology/moon-opposite-venus/). [Moon conjunct Venus in synastry](/astrology/moon-conjunct-venus-synastry/) puts the two on the same spot; [Moon square Venus in synastry](/astrology/moon-square-venus-synastry/) makes them misread each other; [Moon sextile Venus in synastry](/astrology/moon-sextile-venus-synastry/) and [Moon trine Venus in synastry](/astrology/moon-trine-venus-synastry/) let them meet with less work.

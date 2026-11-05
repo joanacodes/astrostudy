@@ -2,7 +2,7 @@
 title: "Soleil conjonction Lilith en synastrie"
 slug: "soleil-conjonction-lilith-synastrie"
 h1: "Soleil conjonction Lilith entre deux thèmes"
-description: "Soleil conjonction Lilith en synastrie : le Soleil d’une personne sur ce que l’autre a appris à cacher. Les deux côtés, sa fréquence, et quand le regard expose."
+description: "Soleil conjonction Lilith en synastrie : un Soleil posé sur ce que l’autre a appris à cacher. Les deux côtés, sa fréquence, et quand le regard expose."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"

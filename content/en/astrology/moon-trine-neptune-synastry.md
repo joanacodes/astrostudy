@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 94
 glyph: "☽△♆"
-definition: "Moon trine Neptune in synastry means one person’s Neptune is about 120° from the other’s Moon, within 6.8°, typically in signs of a single element. One person’s compassion and imagination meet the other’s feelings without effort. It strikes me as a gentle ease between two people, best when it isn’t used to dodge hard conversations."
+definition: "Moon trine Neptune in synastry means one person’s Neptune is about 120° from the other’s Moon, within 6.8°, with the two signs most often sharing an element. One person’s compassion and imagination meet the other’s feelings without effort. It strikes me as a gentle ease between two people, best when it isn’t used to dodge hard conversations."
 facts:
   - { k: "Bodies", v: "One person’s Moon ☽, the other’s Neptune ♆" }
   - { k: "Aspect", v: "Trine △, 120°" }

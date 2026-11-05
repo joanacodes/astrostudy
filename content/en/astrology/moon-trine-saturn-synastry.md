@@ -17,7 +17,7 @@ facts:
 related: ["/astrology/moon", "/astrology/saturn", "/astrology/trine", "/astrology/moon-trine-saturn", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Moon trine Saturn mean in synastry?"
-    a: "One person’s Saturn makes a trine, about 120°, to the other’s Moon, within 6.8°. The Saturn person’s patience and feel for structure tend to suit the Moon person’s needs, and the Moon person’s ease with those limits lets the Saturn person relax. It is a calm, practical current between two people."
+    a: "One person’s Saturn makes a trine, about 120°, to the other’s Moon, within 6.8°. The Saturn person’s patience and feel for structure fit what the Moon person needs, and in return the Moon person’s ease with limits lets the Saturn person relax. It is a calm, practical current between two people."
   - q: "Is Moon trine Saturn a sign of a lasting relationship?"
     a: "It suits patience and routine, and those help any relationship that both people want to keep. But no contact predicts how long two people stay together, or whether they should. The trine describes an ease; what two adults build on it is theirs to decide."
   - q: "Who looks after the steady one in Moon trine Saturn?"
@@ -48,7 +48,7 @@ Look after the steady one. The Moon person can ask, now and then, how the other 
 
 About 1 pair of people in 7 has this trine, one way round or the other, within 6.8°. If the Moon is yours, you'd find much the same trine with plenty of people born in the Saturn person's couple of years, since Saturn lingers in each sign for about two and a half years; what's particular is this person, and how they carry their Saturn. I don't read it without both birth times: the Moon's daily 13° or so can carry it across the orb, and only the times can place the trine in the houses of each life ([why I wait for the time](/blog/unknown-birth-time/#why-i-wait-for-the-time)).
 
-Set at other angles, the same two functions ask more of both people:
+At other angles, need and structure ask more of both people:
 
 - **[Moon conjunct Saturn in synastry](/astrology/moon-conjunct-saturn-synastry/):** the frame sits on the need itself, closer and heavier.
 - **[Moon sextile Saturn in synastry](/astrology/moon-sextile-saturn-synastry/):** support that waits to be requested.

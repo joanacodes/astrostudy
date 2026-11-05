@@ -28,11 +28,11 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 8°" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "Chiron’s sign and house among the placements that held most often; single charts, not pairs" }
 ---
-What comes easily to one of you is the very thing the other had to learn the long way round. That's the heart of Sun conjunct Chiron between two charts: one person's Sun within 8° of the other's Chiron, ease and hard-won skill on the same spot.
+What comes easily to one of you is the very thing the other had to learn the long way round. That's the heart of Sun conjunct Chiron: one person's Sun within 8° of the other's Chiron, ease and hard-won skill on the same spot.
 
 ## What flows {#what-flows}
 
-The [Sun](/astrology/sun/) organises identity, vitality and self-expression. [Chiron](/astrology/chiron/) describes adaptation around a persistent limitation: a sore spot, and the skills, compensations and practical wisdom that grow up around it. A [conjunction](/astrology/conjunction/) fuses two functions into one process, and here the fusion runs between two people: one person's whole way of being sits on the other's tender place. Of all the [synastry aspects](/astrology/synastry-aspects/) with Chiron, few are as direct.
+The [Sun](/astrology/sun/) organises identity, vitality and self-expression. [Chiron](/astrology/chiron/) describes adaptation around a persistent limitation: a sore spot, and the skills, compensations and practical wisdom that grow up around it. A [conjunction](/astrology/conjunction/) binds the two into a single unit, and here the binding runs between two people: one person's whole way of being sits on the other's tender place. Of all the [synastry aspects](/astrology/synastry-aspects/) with Chiron, few are as direct.
 
 For the Sun person, there's recognition from someone who understands, better than most, what you do without thinking. You may notice a sensitivity in them around you and not know why at first. Over time you may become, for them, proof that the thing can be done, and you can learn a lot from how differently they manage it.
 

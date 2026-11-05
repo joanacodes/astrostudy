@@ -1,13 +1,13 @@
 ---
 title: "Moon trine Venus in synastry"
 h1: "Moon trine Venus between two charts"
-description: "Moon trine Venus in synastry: everyday affection that fits without being asked for. How each side feels it, how often it occurs, and an ease worth tending."
+description: "Moon trine Venus in synastry: everyday affection that fits without being asked for. Both sides, the count, and an ease worth tending."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
 weight: 69
 glyph: "☽△♀"
-definition: "In Moon trine Venus in synastry, about 120°, within 6.8°, separate one person’s Moon from the other’s Venus, usually in signs of one element. Care offered and care needed agree without effort, in ordinary daily ways. I read it as a gentle ease between two people, worth tending rather than taking for granted."
+definition: "In Moon trine Venus in synastry, about 120°, within 6.8°, separate one person’s Moon from the other’s Venus, generally in two signs that share an element. Care offered and care needed agree without effort, in ordinary daily ways. I read it as a gentle ease between two people, worth tending rather than taking for granted."
 facts:
   - { k: "Bodies", v: "One person’s Moon ☽, the other’s Venus ♀" }
   - { k: "Aspect", v: "Trine △, 120°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/moon", "/astrology/venus", "/astrology/trine", "/astrology/moon-trine-venus", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Moon trine Venus mean in synastry?"
-    a: "One chart’s Moon and the other’s Venus are about 120° apart, within 6.8°, usually in signs of one element. What one person offers and what the other needs agree without effort, so everyday care comes easily. I read it as a gentle ease, worth tending rather than taking for granted."
+    a: "The Moon of one person and the Venus of the other are about 120° apart, within 6.8°, often in signs that share an element. What one person offers and what the other needs agree without effort, so everyday care comes easily. I read it as a gentle ease, worth tending rather than taking for granted."
   - q: "Is Moon trine Venus a sign of a happy relationship?"
     a: "It’s a sign of ease in one area: care and comfort. No single contact decides how two people get on, and each chart still matters most. This trine helps a great deal with daily kindness; it doesn’t do the rest of the work, and it can’t stop a pair from avoiding hard subjects."
   - q: "What can Moon trine Venus hide?"

@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, qu’il range parmi les aspects inharmonieux" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6,8° près" }
 ---
-Le projet était décidé dimanche ; mercredi, l’une des deux personnes a une meilleure idée. Dans Soleil carré Uranus, l’angle est droit, environ 90°, entre le Soleil de l’une et Uranus chez l’autre, le plus souvent dans deux signes d’un même mode, et le besoin de changement rencontre sans cesse une direction de côté.
+Le projet était décidé dimanche ; mercredi, l’une des deux personnes a une meilleure idée. Dans Soleil carré Uranus, l’angle est droit, environ 90°, entre le Soleil de l’une et Uranus chez l’autre, en général dans des signes de même mode, et le besoin de changement rencontre sans cesse une direction de côté.
 
 ## Ce qui circule {#ce-qui-circule}
 

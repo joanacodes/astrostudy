@@ -20,7 +20,7 @@ faq:
   - q: "Que veut dire Lune carré Saturne en synastrie ?"
     a: "Saturne, chez l’une des deux personnes, forme un angle d’environ 90° avec la Lune de l’autre, à 6,8° près. Les besoins de la personne qui a la Lune arrivent souvent quand la structure de l’autre dit « pas maintenant » : le soin peut sembler rationné d’un côté et réclamé de l’autre. Travaillée, cette friction bâtit un soin chaleureux et fiable à la fois."
   - q: "Lune carré Saturne, est-ce que l’une des deux personnes est froide ?"
-    a: "Non. Saturne décrit la structure, la prudence et la responsabilité, pas une absence de sentiments. Ce qui ressemble à de la froideur est souvent un soin donné sous forme pratique, au moment où l’autre l’attendait en mots. Ce carré demande à la personne qui a Saturne de dire la chose chaleureuse à voix haute, et à celle qui a la Lune de dire son besoin simplement."
+    a: "Non. Saturne décrit la structure, la prudence et la responsabilité, pas une absence de sentiments. Ce qui ressemble à de la froideur est souvent un soin donné sous forme pratique, au moment où l’autre l’attendait en mots. Ce carré invite la personne qui a Saturne à dire la chose chaleureuse à voix haute, et celle qui a la Lune à formuler son besoin simplement."
   - q: "Entre collègues, Lune carré Saturne, est-ce gérable ?"
     a: "Oui, et cela peut même servir. L’une des deux personnes sent l’humeur de l’équipe, l’autre tient les délais et les règles. La friction vient quand un besoin rencontre une procédure. Convenir à l’avance du moment où l’on parle des émotions, et de celui où le calendrier l’emporte, enlève beaucoup de tension."
 sources:
@@ -48,7 +48,7 @@ Tout part du moment et du ton. La prudence, les règles et le « pas maintenant
 
 Dites la chaleur à voix haute, et dites le besoin tôt. La personne qui a Saturne peut expliquer la raison d’une limite et ajouter la phrase gentille qu’elle laisse d’habitude sous-entendue ; celle qui a la Lune peut parler d’un besoin tant qu’il est encore petit. Convenez aussi des moments : quand on parle des émotions, quand le calendrier l’emporte. Entre collègues, un court point chaque semaine peut faire plus que n’importe quelle règle.
 
-Je lis Saturne lentement, et mon carnet en est la raison : Saturne, Lilith et Chiron y ont tenu 75 à 90 % du temps, par signe et par maison, dans mon thème et dans ceux des personnes qui m’ont laissé tester le leur ([la méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)). Ce n’est pas un chiffre pour ce carré, et un carnet ne prouve rien sur l’astrologie en général.
+Je lis Saturne lentement, et mon carnet en est la raison : Saturne, Lilith et Chiron y ont tenu 75 à 90 % du temps, par signe et par maison, dans mon thème et dans ceux des personnes qui m’ont laissé tester le leur ([la méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)). Ce n’est pas un chiffre pour ce carré : c’est un carnet, pas une étude.
 
 Environ 1 paire de personnes sur 7 a ce carré, dans un sens ou dans l’autre, à 6,8° près. Si Saturne est à vous, vos camarades de classe ont Saturne presque au même endroit, puisqu’il faut environ deux ans et demi à cette planète pour chaque signe ; ce qui rend ce carré personnel, c’est la Lune de l’autre, à un quart de zodiaque. À raison de 13° par jour environ, la Lune rend les deux heures de naissance décisives : elles disent si le carré existe, et donnent les maisons où chaque personne le ressent ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)).
 

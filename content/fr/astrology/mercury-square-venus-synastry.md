@@ -22,14 +22,14 @@ faq:
   - q: "Que veut dire Mercure carré Vénus en synastrie ?"
     a: "Mercure, chez une personne, se trouve à environ 90° de la Vénus de l’autre. La façon de raisonner de la personne de Mercure croise à angle droit la façon d’estimer de la personne de Vénus : l’une entend l’argument, l’autre le ton. Avec un peu de travail, ce carré apprend aux deux la précision et l’amabilité dans la même phrase."
   - q: "Pourquoi n’y a-t-il jamais de carré Mercure–Vénus dans un thème natal ?"
-    a: "Parce que les deux planètes ne s’écartent jamais assez. Mercure reste dans les 28° environ autour du Soleil, Vénus dans les 47° : dans un même thème, elles ne sont jamais à plus de 75° environ l’une de l’autre, loin du carré. Entre deux personnes, avec trois mois d’écart entre les anniversaires, il est courant."
+    a: "Parce que les deux planètes ne s’écartent jamais assez. Mercure reste dans les 28° environ autour du Soleil, Vénus dans les 47° : dans un même thème, l’écart entre les deux ne dépasse jamais 75° environ, loin du carré. Entre deux personnes, avec trois mois d’écart entre les anniversaires, il est courant."
   - q: "Le carré Mercure–Vénus en synastrie veut-il dire des disputes ?"
     a: "Il décrit un frottement entre des raisons et des préférences, plus souvent un malentendu de ton qu’une vraie querelle. Un carré est une friction, jamais un échec. Les paires qui apprennent à demander « tu veux mon avis, ou que j’en profite avec toi ? » en sortent en général plus affûtées."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, et l’écart de leurs anniversaires" }
 ---
-Mercure carré Vénus en synastrie est un contact avec lequel personne ne naît. Dans un même thème, Mercure et Vénus ne sont jamais à plus de 75° environ l’une de l’autre : un angle droit entre elles demande donc deux personnes, la façon de raisonner de l’une et la façon d’estimer de l’autre, qui se croisent.
+Mercure carré Vénus en synastrie est un contact avec lequel personne ne naît. Dans un même thème, Mercure et Vénus ne s’écartent jamais de plus de 75° environ : un angle droit entre les deux planètes demande donc deux personnes, la façon de raisonner de l’une et la façon d’estimer de l’autre, qui se croisent.
 
 ## Ce qui circule {#ce-qui-circule}
 

@@ -19,7 +19,7 @@ related: ["/astrology/sun", "/astrology/neptune", "/astrology/conjunction", "/as
 faq:
   - q: "What does Sun conjunct Neptune mean in synastry?"
     a: "The Neptune person’s imagination and compassion gather around the Sun person’s identity, within 8°. The Sun person tends to feel believed in and seen at their best; the Neptune person feels inspired and moved. It describes a tender way of seeing each other; it says nothing about how things will turn out."
-  - q: "Is Sun conjunct Neptune a sign of soulmates?"
+  - q: "Does Sun conjunct Neptune mean we are soulmates?"
     a: "No contact proves that. This one often feels like recognition, even like meeting someone you had imagined, and that feeling is worth taking seriously. But it describes how one person’s imagination meets the other’s identity, not a destiny, and no synastry can promise one."
   - q: "How do you keep Sun conjunct Neptune grounded?"
     a: "By letting each other be ordinary. Talk plainly about habits, money and time as well as hopes; the Sun person can say when an image no longer fits, and the Neptune person can keep limits and projects of their own, so that giving stays a choice."

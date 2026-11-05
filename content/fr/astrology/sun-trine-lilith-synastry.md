@@ -30,7 +30,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les paires qui ont ce trigone, dans un sens ou dans l’autre, à 6,8° près, avec la Lilith moyenne" }
 ---
-Avec Soleil trigone Lilith en synastrie, le Soleil d’une personne et la Lune noire Lilith de l’autre se trouvent à 120°, un tiers du tour du zodiaque. Des cinq façons dont cette paire peut se rencontrer, c’est celle où le côté indompté se détend : dans la lumière de l’autre, il n’a pas à se battre pour exister.
+Soleil trigone Lilith en synastrie : à 120°, un tiers du tour du zodiaque, le Soleil de l’une et la Lune noire Lilith de l’autre. Des cinq façons dont cette paire peut se rencontrer, c’est celle où le côté indompté se détend : dans la lumière de l’autre, il n’a pas à se battre pour exister.
 
 ## Ce qui circule {#ce-qui-circule}
 

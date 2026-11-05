@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 67
 glyph: "☽⚹♀"
-definition: "Lune sextile Vénus en synastrie relie la Lune d’une personne et la Vénus de l’autre à environ 60°, à 4,8° près. La gentillesse d’un côté rencontre les besoins de l’autre de façon amicale et simple, pourvu que quelqu’un fasse le premier geste. J’y lis une bienveillance qui s’approfondit quand on la met en actes."
+definition: "Lune sextile Vénus en synastrie désigne un angle de 60°, à 4,8° près, entre la Lune d’une personne et la Vénus de l’autre. La gentillesse d’un côté rencontre les besoins de l’autre de façon amicale et simple, pourvu que quelqu’un fasse le premier geste. J’y lis une bienveillance qui s’approfondit quand on la met en actes."
 facts:
   - { k: "Corps", v: "La Lune ☽ de l’une, la Vénus ♀ de l’autre" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -34,7 +34,7 @@ Avec Lune sextile Vénus en synastrie, la Lune d’une personne et la Vénus de 
 
 ## Ce qui circule {#ce-qui-circule}
 
-La [Lune](/astrology/moon/), c’est ce dont une personne a besoin et sa façon de réagir : le réconfort, l’habitude, le soin qui la garde stable. [Vénus](/astrology/venus/), c’est sa façon d’apprécier et de rendre : ce qu’elle aime, comment elle le montre, ce qu’elle juge être un échange équitable. Un [sextile](/astrology/sextile/) offre aux deux un lien par l’occasion et la coopération, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), celui-ci est modeste et pratique.
+La [Lune](/astrology/moon/), c’est ce dont une personne a besoin et sa façon de réagir : le réconfort, l’habitude, le soin qui la garde stable. [Vénus](/astrology/venus/), c’est sa façon d’apprécier et de rendre : ce qu’elle aime, comment elle le montre, ce qu’elle juge être un échange équitable. Un [sextile](/astrology/sextile/) leur offre un lien fait d’occasions et de coopération ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), celui-ci est modeste et pratique.
 
 Quand la Lune est la vôtre, les attentions de cette personne arrivent sous une forme dont vous pouvez vous servir : le message un jour difficile, la chose dont elle s’est souvenue, l’invitation qui tombe au bon moment. On pense à vous, et cela se sent.
 
@@ -46,7 +46,7 @@ Entre collègues, c’est la personne qui remarque que votre semaine est dure et
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Un sextile peut rester poliment en surface. L’agrément devient un plafond : les deux personnes restent aimables et attentives, et aucune ne risque de dire ce dont elle a vraiment besoin. La personne Vénus peut préférer l’agréable au vrai ; la personne Lune, attendre qu’on la remarque plutôt que demander. Une bienveillance que personne ne met en actes reste de la bienveillance, sans plus.
+Ce sextile peut rester poliment en surface. L’agrément devient un plafond : les deux personnes restent aimables et attentives, et aucune ne risque de dire ce dont elle a vraiment besoin. La personne Vénus peut préférer l’agréable au vrai ; la personne Lune, attendre qu’on la remarque plutôt que demander. Une bienveillance que personne ne met en actes reste de la bienveillance, sans plus.
 
 ## Comment le vivre {#comment-le-vivre}
 

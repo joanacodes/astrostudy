@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 45
 glyph: "☉☍♇"
-definition: "Sun opposite Pluto in synastry sets a visible self across the zodiac from a hidden depth: one person’s Sun, the other’s Pluto, about 180° apart within 8°. One is easy to read, the other slow to know. To me it is a polarity between openness and depth, in which power has to be shared in plain words."
+definition: "Sun opposite Pluto in synastry sets a visible self across the zodiac from a hidden depth, the Sun of one person opposing the Pluto of the other within 8°. One is easy to read, the other slow to know. To me it is a polarity between openness and depth, in which power has to be shared in plain words."
 facts:
   - { k: "Bodies", v: "One person’s Sun ☉, the other’s Pluto ♇" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }

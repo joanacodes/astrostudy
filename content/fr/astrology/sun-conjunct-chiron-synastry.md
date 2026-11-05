@@ -29,11 +29,11 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 8° près" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "le signe et la maison de Chiron parmi les placements qui ont le plus souvent tenu ; des thèmes seuls, pas des paires" }
 ---
-Ce qui vient facilement à l’une est justement ce que l’autre a dû apprendre par le chemin long. C’est le cœur de Soleil conjonction Chiron entre deux thèmes : le Soleil d’une personne à moins de 8° de Chiron chez l’autre, l’aisance et le savoir-faire durement acquis au même endroit.
+Ce qui vient facilement à l’une est justement ce que l’autre a dû apprendre par le chemin long. C’est le cœur de Soleil conjonction Chiron : le Soleil d’une personne à moins de 8° de Chiron chez l’autre, l’aisance et le savoir-faire durement acquis au même endroit.
 
 ## Ce qui circule {#ce-qui-circule}
 
-Le [Soleil](/astrology/sun/) organise l’identité, la vitalité et l’expression de soi. [Chiron](/astrology/chiron/) décrit l’adaptation autour d’une limite qui persiste : un point sensible, et les savoir-faire, les compensations et la sagesse pratique qui poussent autour. Une [conjonction](/astrology/conjunction/) fond deux fonctions en un seul processus, et ici la fusion passe entre deux personnes : toute la façon d’être de l’une se pose sur l’endroit tendre de l’autre. Peu d’[aspects de synastrie](/astrology/synastry-aspects/) avec Chiron sont aussi directs.
+Le [Soleil](/astrology/sun/) organise l’identité, la vitalité et l’expression de soi. [Chiron](/astrology/chiron/) décrit l’adaptation autour d’une limite qui persiste : un point sensible, et les savoir-faire, les compensations et la sagesse pratique qui poussent autour. Une [conjonction](/astrology/conjunction/) lie les deux en une seule unité, et ici le lien passe entre deux personnes : toute la façon d’être de l’une se pose sur l’endroit tendre de l’autre. Peu d’[aspects de synastrie](/astrology/synastry-aspects/) avec Chiron sont aussi directs.
 
 Pour la personne qui a le Soleil, il y a la reconnaissance de quelqu’un qui comprend, mieux que quiconque, ce que vous faites sans y penser. Vous remarquez peut-être chez l’autre une sensibilité en votre présence, sans savoir d’abord pourquoi. Avec le temps, vous pouvez devenir pour cette personne la preuve que la chose est possible, et apprendre beaucoup de la façon différente dont elle s’y prend.
 
@@ -43,7 +43,7 @@ Pour la personne qui a Chiron, il y a à la fois un pincement et une lumière. V
 
 Le contact rapproché brouille les rôles. La personne qui a le Soleil peut se sentir responsable de la sensibilité de l’autre, et marcher sur la pointe des pieds dans tout un domaine de la vie. Celle qui a Chiron peut se mettre à se définir par la comparaison, comme si le point sensible était ce qu’elle est. Il ne l’est pas : la blessure est un contexte, pas une identité, et le savoir-faire bâti autour lui appartient autant que l’aisance appartient à l’autre.
 
-L’orbite irrégulière de Chiron le garde dans un même signe de moins de deux ans à environ huit : ce signe appartient à la classe d’âge de la personne qui a Chiron. Le Soleil, fixé par un anniversaire, fait de cette conjonction une affaire entre deux personnes. Dans mon carnet, le signe et la maison de Chiron ont figuré parmi [les trois qui ont tenu](/blog/saturn-chiron-lilith/) le mieux ; c’était un test de thèmes seuls, pas de paires, mais c’est l’une des raisons pour lesquelles un contact avec Chiron n’est jamais survolé dans mes lectures.
+L’orbite irrégulière de Chiron le garde dans un même signe de moins de deux ans à environ huit : ce signe est celui de toute une classe d’âge. Le Soleil, fixé par un anniversaire, fait de cette conjonction une affaire entre deux personnes. Dans mon carnet, Chiron, par son signe et sa maison, a figuré parmi [les trois qui ont tenu](/blog/saturn-chiron-lilith/) le mieux ; c’était un test de thèmes seuls, pas de paires, mais c’est l’une des raisons pour lesquelles un contact avec Chiron n’est jamais survolé dans mes lectures.
 
 Les autres angles de la paire :
 

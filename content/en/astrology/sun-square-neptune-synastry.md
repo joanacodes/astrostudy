@@ -31,7 +31,7 @@ One of you says exactly what you mean; the other hears what it might mean. Sun s
 
 ## What flows {#what-flows}
 
-The [Sun](/astrology/sun/) organises identity and direction, and wants a recognisable outline. [Neptune](/astrology/neptune/) brings imagination, compassion and idealisation, a sense for what lies beyond the literal. A [square](/astrology/square/) relates the two through friction that drives adaptation. In [synastry aspects](/astrology/synastry-aspects/), the two functions live in two people, which puts this friction into conversation.
+The [Sun](/astrology/sun/) organises identity and direction, and wants a recognisable outline. [Neptune](/astrology/neptune/) brings imagination, compassion and idealisation, a sense for what lies beyond the literal. A [square](/astrology/square/) relates the two through friction that drives adaptation. In [synastry aspects](/astrology/synastry-aspects/), each person carries one of the functions, which puts this friction into conversation.
 
 What it makes possible is an ideal that gets truer. Pressed against a real person with real plans, the Neptune person's picture is revised, and the compassion that survives the revision is sturdier than the first enchantment. The Sun person, meanwhile, learns to hear what isn't said, and to speak with more care than they might elsewhere.
 

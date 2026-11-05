@@ -26,7 +26,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the square, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 6.8°" }
 ---
-Moon square Neptune in synastry puts a quarter-circle between what one person needs and what the other imagines. The care is real on both sides; it just doesn't always arrive in the shape that was hoped for, and both people can end up feeling a little unseen.
+Moon square Neptune in synastry sets 90° between the care one person needs and the care the other imagines. The care is real on both sides; it just doesn't always arrive in the shape that was hoped for, and both people can end up feeling a little unseen.
 
 ## What flows {#what-flows}
 
@@ -46,7 +46,7 @@ Here the friction takes the form of misreading. The Neptune person may idealise 
 
 Trade guesses for questions. "What would help right now?", asked by the Neptune person and answered specifically by the Moon person, clears most of the fog. Put important things into words, even in writing, and repeat back what you heard. In a couple, that might be a weekly check-in about how each of you is really doing; between friends or relatives, saying "I meant this, not that"; between colleagues, clear briefs instead of hints.
 
-About 1 pair of people in 7 has this square, one way round or the other, within 6.8°. Neptune lingers about fourteen years in each sign, so among the Neptune person's contemporaries it barely differs; what makes the square personal is the other's Moon, placed 90° away by a date and an hour. That's why both birth times are needed: some 13° of lunar travel a day can open or close the orb, and without the times there are no houses to read ([what changes without a birth time](/blog/unknown-birth-time/)).
+About 1 pair of people in 7 has this square, one way round or the other, within 6.8°. Neptune lingers about fourteen years in each sign, so among the Neptune person's contemporaries it barely differs; what makes the square personal is the other's Moon, placed 90° away by a date and an hour. That's why both birth times are needed: some 13° of lunar travel a day can open or close the orb, and the houses can't be placed without the times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Its neighbours tell the same story more smoothly, or from further apart: [Moon conjunct Neptune in synastry](/astrology/moon-conjunct-neptune-synastry/) merges feeling and imagination, [Moon sextile Neptune in synastry](/astrology/moon-sextile-neptune-synastry/) gives moods a shape when both reach for it, [Moon trine Neptune in synastry](/astrology/moon-trine-neptune-synastry/) lets kindness flow, and [Moon opposite Neptune in synastry](/astrology/moon-opposite-neptune-synastry/) sets the everyday and the ideal on opposite sides.
 

@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, with the sextile one of the harmonious pair" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 6.8°" }
 ---
-Being fully yourself next to someone's sore spot without pressing on it is a rare thing, and in this pair it tends to come naturally. With Sun trine Chiron between two charts, one person's Chiron lies about 120° from the other's Sun, the two typically sharing an element.
+Being fully yourself next to someone's sore spot without pressing on it is a rare thing, and in this pair it tends to come naturally. In this pair, one person's Chiron lies about 120° from the other's Sun, the two typically sharing an element.
 
 ## What flows {#what-flows}
 
@@ -46,7 +46,7 @@ Comfort can make the history invisible. Because nothing rubs, what the Chiron pe
 The rest of the pair, by comparison:
 
 - **[Sun conjunct Chiron in synastry](/astrology/sun-conjunct-chiron-synastry/):** the ease lands right on the sore spot, and roles can blur.
-- **[Sun sextile Chiron in synastry](/astrology/sun-sextile-chiron-synastry/):** the experience is offered, and has to be asked for.
+- **[Sun sextile Chiron in synastry](/astrology/sun-sextile-chiron-synastry/):** the experience waits to be requested.
 - **[Sun square Chiron in synastry](/astrology/sun-square-chiron-synastry/):** the same ease rubs, and the tender ground has to be mapped.
 - **[Sun opposite Chiron in synastry](/astrology/sun-opposite-chiron-synastry/):** the two face each other, and helper and helped can harden into roles.
 
@@ -54,6 +54,6 @@ The rest of the pair, by comparison:
 
 Say what you see. The Sun person can thank the other for a specific skill, not just for being kind; the Chiron person can share some of the history, if they want to, so the ease rests on something known. Let the Chiron person teach when they're willing. A couple can name the work behind the comfort; friends can let the one with experience lead in that area now and then; in a family, a relative's quiet skill can be credited aloud; at work, the person who knows how deserves the credit for it.
 
-About 1 pair of people in 7 has this trine, one way round or the other, within 6.8°. Depending on where Chiron was on its long orbit, everyone born within less than two years of the Chiron person, or within as many as eight, shares their Chiron sign; the trine with this Sun depends on a birthday. I begin only once both birth times are in: the hour seldom moves the Sun enough to matter, but it fixes the houses, which show where in each life this ease is felt ([what changes without a birth time](/blog/unknown-birth-time/)). And I read it, as I read every Chiron contact, with the agreement of the person whose sore spot it is ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+About 1 pair of people in 7 has this trine, one way round or the other, within 6.8°. Depending on where Chiron was on its long orbit, everyone born within less than two years of the Chiron person, or within as many as eight, shares their Chiron sign; the trine with this Sun depends on a birthday. I begin only once both birth times are in: the hour seldom moves the Sun enough to matter, but it fixes the houses, the map of where this ease is felt in each life ([what changes without a birth time](/blog/unknown-birth-time/)). And I read it, as I read every Chiron contact, with the agreement of the person whose sore spot it is ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
 
 In one chart, [Sun trine Chiron](/astrology/sun-trine-chiron/) keeps a person's sore spot and sense of self on good terms. Between two, the good terms run across two lives, and both people benefit.

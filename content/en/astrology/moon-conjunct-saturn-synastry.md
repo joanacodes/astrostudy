@@ -27,15 +27,15 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 8°" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "Saturn, one of the three placements that held most often, by sign and house" }
 ---
-Moon conjunct Saturn in synastry sets one person's Saturn on the other's Moon. Where one of you looks for comfort, the other brings a frame: routines, promises, limits, the long view. That can be the steadiest thing in a life or the heaviest, often both on different days, so I read it from each side.
+Moon conjunct Saturn in synastry sets one person's Saturn on the other's Moon. Where one of you looks for comfort, the other brings a frame: routines, promises, limits, the long view. That can be the steadiest thing in a life or the heaviest, often both on different days, so I take it from each side in turn.
 
 ## What flows {#what-flows}
 
 I read the [Moon](/astrology/moon/) as the keeper of needs, attachment and the feeling of safety. [Saturn](/astrology/saturn/) builds structure: responsibility, boundaries, discipline, things made to last. In a [conjunction](/astrology/conjunction/) the two act together; across two charts, which is what [synastry aspects](/astrology/synastry-aspects/) measure, each person brings one of them to the meeting.
 
-With the Moon on your side, you may feel held in a way you can count on. This person turns up, remembers, plans ahead, and when your feelings run high their calm gives those feelings edges. If that kind of comfort was rare for you, it can feel like a discovery.
+If it's your Moon, you may feel held in a way you can count on. This person turns up, remembers, plans ahead, and when your feelings run high their calm gives those feelings edges. If that kind of comfort was rare for you, it can feel like a discovery.
 
-With Saturn on your side, your reliability is wanted rather than resented. Your caution reads as care to this person, and their warmth reaches the part of you that usually stays on duty. In time, their needs can teach you that structure is there to serve a life, not to stand in for one.
+If it's your Saturn, your reliability is wanted rather than resented. Your caution reads as care to this person, and their warmth reaches the part of you that usually stays on duty. In time, their needs can teach you that structure is there to serve a life, not to stand in for one.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -47,6 +47,6 @@ Make the warmth visible. The Saturn person can explain why a limit matters, and 
 
 Saturn is where I slow down in any reading. In my notebook, kept on my own chart and then on family, friends and strangers who agreed, Saturn, Lilith and Chiron held 75 to 90% of the time ([the three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)). That was Saturn by sign and house in single charts: I have no figure for this contact, and a notebook proves nothing about astrology in general.
 
-About 1 pair of people in 11 has this conjunction, one way round or the other, within 8°. With about two and a half years in each sign, Saturn sits in much the same place for everyone born around the Saturn person's birth; the Moon, at two and a half days a sign, is what turns a generation's Saturn into a meeting of two people. It's also why I need both birth times: in a day the Moon moves about 13°, enough to make or unmake the conjunction, and the houses depend on the times as well ([what changes without a birth time](/blog/unknown-birth-time/)).
+About 1 pair of people in 11 has this conjunction, one way round or the other, within 8°. With about two and a half years in each sign, Saturn sits in much the same place for everyone born around the Saturn person's birth; the Moon, at two and a half days a sign, is what turns a generation's Saturn into a meeting of two people. It's also why I need both birth times: the Moon travels about 13° from one day to the next, so the conjunction can hang on the hour, and the houses can't be drawn without them ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 The other angles give need and structure more room: [Moon sextile Saturn in synastry](/astrology/moon-sextile-saturn-synastry/) offers dependability that has to be taken up, [Moon square Saturn in synastry](/astrology/moon-square-saturn-synastry/) sets rules and needs at cross purposes, [Moon trine Saturn in synastry](/astrology/moon-trine-saturn-synastry/) lets both fall into a steady rhythm, and [Moon opposite Saturn in synastry](/astrology/moon-opposite-saturn-synastry/) puts need and limits at either end of a seesaw. In one person's chart, [Moon conjunct Saturn](/astrology/moon-conjunct-saturn/) is a heart that learned its own structure; here, the structure comes from someone else.

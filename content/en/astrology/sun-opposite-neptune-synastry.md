@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 40
 glyph: "☉☍♆"
-definition: "In Sun opposite Neptune in synastry, a clear sense of self and a wide imagination sit at opposite ends of the zodiac: one person’s Sun, the other’s Neptune, about 180° apart within 8°. One defines, the other opens out. I read it as a polarity between definition and openness, for both people to balance over time."
+definition: "In Sun opposite Neptune in synastry, a clear sense of self and a wide imagination sit at opposite ends of the zodiac: one person’s Sun, the other’s Neptune, about 180° apart within 8°. One defines, the other opens out. It describes a polarity of definition and openness, for both people to balance over time."
 facts:
   - { k: "Bodies", v: "One person’s Sun ☉, the other’s Neptune ♆" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -49,6 +49,6 @@ Neptune's sign, which lasts about fourteen years, is shared with the Neptune per
 
 Visit each other's end, in turn. The Neptune person can state a preference and hold it; the Sun person can leave a decision open for a while, and live with not knowing yet. In a couple, alternate who chooses; between friends, one plans and the other dreams, then swap; in a family, the practical sibling and the dreamer can trust each other's half; at work, the strategist and the visionary can treat each other as necessary rather than difficult.
 
-About 1 pair of people in 11 has this opposition, one way round or the other, within 8°. I begin only with both birth times. In a few hours the Sun covers only a fraction of a degree, too little to change the opposition, but the times set which two areas of life the ends fall into, and so where the seesaw is felt ([what changes without a birth time](/blog/unknown-birth-time/)).
+About 1 pair of people in 11 has this opposition, one way round or the other, within 8°. Both birth times are my starting point. In a few hours the Sun covers only a fraction of a degree, too little to change the opposition, but the times set which two areas of life the ends fall into, and so where the seesaw is felt ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 The neighbouring angles: [Sun conjunct Neptune in synastry](/astrology/sun-conjunct-neptune-synastry/) merges the outline and the ideal, [Sun square Neptune in synastry](/astrology/sun-square-neptune-synastry/) makes them rub, and [Sun trine Neptune in synastry](/astrology/sun-trine-neptune-synastry/) and [Sun sextile Neptune in synastry](/astrology/sun-sextile-neptune-synastry/) let them cooperate. In one chart, [Sun opposite Neptune](/astrology/sun-opposite-neptune/) is a single person learning where they end and others begin. Between two, each holds one side of that line, which is why I take it on only when both people are part of the reading ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

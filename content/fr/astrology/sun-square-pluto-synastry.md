@@ -2,7 +2,7 @@
 title: "Soleil carré Pluton en synastrie"
 slug: "soleil-carre-pluton-synastrie"
 h1: "Soleil carré Pluton entre deux thèmes"
-description: "Soleil carré Pluton en synastrie : le besoin de transformer d’une personne presse le sentiment de soi de l’autre. Qui ressent quoi, et le partage de l’autorité."
+description: "Soleil carré Pluton en synastrie : l’envie de transformer, chez une personne, presse le moi de l’autre. Qui ressent quoi, et le partage de l’autorité."
 date: 2026-11-04
 reviewed: 2026-11-04
 family: "combinations"
@@ -28,13 +28,13 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, entre signes distants de trois" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6,8° près" }
 ---
-L’une dit « voilà qui je suis » ; l’autre entend « voilà ce qui n’a pas encore été regardé ». Dans Soleil carré Pluton, Pluton chez l’une et le Soleil de l’autre sont à un quart de zodiaque, et deux courants puissants se croisent de côté.
+L’une dit « voilà qui je suis » ; l’autre entend « voilà ce qui n’a pas encore été regardé ». Dans Soleil carré Pluton, les deux corps, chacun dans un thème, forment un angle droit, et deux courants puissants se croisent de côté.
 
 ## Ce qui circule {#ce-qui-circule}
 
 Le [Soleil](/astrology/sun/) organise l’identité et la capacité d’agir : qui l’on est, et comment on agit depuis ce centre. [Pluton](/astrology/pluto/) pousse à la transformation, à la régénération et à l’affirmation de soi, à l’envie d’aller à la racine. Un [carré](/astrology/square/) les fait se frotter de façon constructive ; dans les [aspects de synastrie](/astrology/synastry-aspects/), ce frottement passe entre deux personnes au lieu de rester à l’intérieur d’une seule.
 
-Ce qu’elle peut construire, c’est un terrain solide des deux côtés. La personne qui a le Soleil, poussée à regarder ce qu’elle aurait préféré éviter, en ressort souvent avec un moi choisi plus consciemment. Celle qui a Pluton, face à quelqu’un qui ne se laisse pas simplement transformer, apprend que la profondeur agit mieux quand on l’invite. Une confiance qui a survécu à ce genre d’épreuve tient en général.
+Ce qu’elle peut construire, c’est un terrain solide des deux côtés. La personne qui a le Soleil, poussée à regarder ce qu’elle aurait préféré éviter, en ressort souvent avec un moi choisi plus consciemment. Celle qui a Pluton découvre, au contact de quelqu’un qui ne se laisse pas simplement transformer, que la profondeur agit mieux quand on l’invite. Une confiance qui a survécu à ce genre d’épreuve tient en général.
 
 L’endroit où Pluton tombe parmi les maisons de la personne qui a le Soleil compte beaucoup : en maison 7, la friction se rassemble autour du couple lui-même ; en maison 10, autour de l’ambition et de la vie publique ; en maison 2, autour de l’argent et de ce que chacune vaut à ses propres yeux.
 
@@ -46,7 +46,7 @@ Côté Pluton : la résistance. L’assurance de l’autre peut ressembler à u
 
 Le pouvoir devient un sujet : qui décide, qui cède, qui a le dernier mot. Transformer n’est pas détruire, et s’affirmer n’est pas dominer ; la friction est là pour être traversée, pas gagnée.
 
-Pluton passe de 12 à 31 ans dans chaque signe : son signe est un fait de génération. Quels Soleils ce signe touche en carré dépend des anniversaires, et c’est ce qui place le carré entre ces deux personnes-là.
+Pluton passe de 12 à 31 ans dans chaque signe : son signe est un fait de génération. Quels Soleils ce signe touche en carré dépend des anniversaires, et c’est ce qui fait de ce carré l’affaire de ces deux personnes.
 
 ## Comment le vivre {#comment-le-vivre}
 

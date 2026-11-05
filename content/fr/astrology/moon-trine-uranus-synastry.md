@@ -37,7 +37,7 @@ Avec la Lune de votre côté, cette personne rend le changement vivable. Un dém
 
 Avec Uranus de votre côté, vous recevez de l’espace sans avoir à le demander. Votre indépendance n’est pas lue comme un verdict sur la relation : vous pouvez aller et venir, et continuer à revenir. C’est souvent justement ce qui vous permet de rester.
 
-Au travail, deux collègues ainsi liés traversent parfois une réorganisation avec calme ; en famille, les choix inhabituels d’une personne ne déstabilisent pas forcément l’autre.
+Au travail, deux collègues que ce contact relie traversent parfois une réorganisation avec calme ; en famille, les choix inhabituels d’une personne ne déstabilisent pas forcément l’autre.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

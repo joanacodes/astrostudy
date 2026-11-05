@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 58
 glyph: "☉□☊"
-definition: "Sun square North Node in synastry sets one person’s Sun about 90° from the other’s North Node, within 6.8°, and so 90° from their South Node too. That Sun stands across the other’s path, part of neither their familiar ground nor their next step. I read it as friction that asks growth to make room for a real person."
+definition: "Sun square North Node in synastry places the Sun of one person about 90° from the North Node of the other, within 6.8°, and so 90° from their South Node too. That Sun stands across the other’s path, part of neither their familiar ground nor their next step. I read it as friction that asks growth to make room for a real person."
 facts:
   - { k: "Bodies", v: "One person’s Sun ☉, the other’s North Node ☊" }
   - { k: "Aspect", v: "Square □, 90°" }

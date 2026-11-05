@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 79
 glyph: "☽△♃"
-definition: "Moon trine Jupiter in synastry means one person’s Jupiter is about 120° from the other’s Moon, within 6.8°, usually in signs of one element. One person’s wider view reaches the other’s needs without strain, and comfort comes back the other way. I read it as easy encouragement, at its best when feelings are allowed to land first."
+definition: "Moon trine Jupiter in synastry means one person’s Jupiter is about 120° from the other’s Moon, within 6.8°, normally across signs of the same element. One person’s wider view reaches the other’s needs without strain, and comfort comes back the other way. I read it as easy encouragement, at its best when feelings are allowed to land first."
 facts:
   - { k: "Bodies", v: "One person’s Moon ☽, the other’s Jupiter ♃" }
   - { k: "Aspect", v: "Trine △, 120°" }
@@ -17,7 +17,7 @@ facts:
 related: ["/astrology/moon", "/astrology/jupiter", "/astrology/trine", "/astrology/moon-trine-jupiter", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Moon trine Jupiter mean in synastry?"
-    a: "One person’s Jupiter makes a trine, about 120°, to the other’s Moon, within 6.8°. The Jupiter person’s perspective and generosity tend to suit the Moon person’s needs, and the Moon person’s warmth gives the Jupiter person somewhere to rest. It describes an easy current between two people, not a promise about where it leads."
+    a: "One person’s Jupiter makes a trine, about 120°, to the other’s Moon, within 6.8°. The Jupiter person’s perspective and generosity tend to suit the Moon person’s needs, and the Moon person’s warmth gives the Jupiter person somewhere to rest. It describes an easy current between two people, with no promise attached about where it leads."
   - q: "Does Moon trine Jupiter mean we will always get along?"
     a: "No contact means that. The trine makes encouragement and comfort easy to exchange, which helps on hard days. But ease is not inevitability: two adults still choose how they treat each other, and the rest of both charts has its say as well."
   - q: "What can go wrong with such an easy contact?"
@@ -30,7 +30,7 @@ Moon trine Jupiter in synastry joins what one person needs to the other's appeti
 
 ## What flows {#what-flows}
 
-The [Moon](/astrology/moon/) handles feeling, attachment and the felt sense of security; [Jupiter](/astrology/jupiter/) handles meaning, learning, principles and growth. A [trine](/astrology/trine/) lets two functions reinforce each other without either taking over. As with all [synastry aspects](/astrology/synastry-aspects/), each person carries one of the functions, so the same current is felt from two banks.
+The [Moon](/astrology/moon/) handles feeling, attachment and the felt sense of security; [Jupiter](/astrology/jupiter/) handles meaning, learning, principles and growth. A [trine](/astrology/trine/) lets each function strengthen the other, and neither takes charge. As with all [synastry aspects](/astrology/synastry-aspects/), each person carries one of the functions, so the same current is felt from two banks.
 
 When you're the Moon person, this contact tends to make your feelings seem workable. You arrive anxious and leave with a sense that the thing has a shape, a next step, a place in a longer story, and none of it felt like a lecture. Their company widens your comforts without unsettling them.
 

@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 95
 glyph: "☽☍♆"
-definition: "Moon opposite Neptune in synastry means one person’s Neptune faces the other’s Moon from about 180° away, within 8°. Everyday needs tend to sit with one of them; the ideal, the imagined and the compassionate with the other. I read it as a polarity between the real and the dreamed, which two people can learn to share."
+definition: "Moon opposite Neptune in synastry means one person’s Neptune faces the other’s Moon from about 180° away, within 8°. Everyday needs tend to sit with one of them; the ideal, the imagined and the compassionate with the other. My reading: a polarity between the real and the dreamed, which two people can learn to share."
 facts:
   - { k: "Bodies", v: "One person’s Moon ☽, the other’s Neptune ♆" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -17,7 +17,7 @@ facts:
 related: ["/astrology/moon", "/astrology/neptune", "/astrology/opposition", "/astrology/moon-opposite-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Moon opposite Neptune mean in synastry?"
-    a: "One person’s Neptune and the other’s Moon face each other across the zodiac, within 8°. Ordinary needs tend to land with the Moon person, imagination and ideals with the Neptune person, and each can see in the other what they lack. Two ends of one line, then, rather than a mismatch."
+    a: "One person’s Neptune lies opposite the other’s Moon, within 8°. Ordinary needs tend to land with the Moon person, imagination and ideals with the Neptune person, and each can see in the other what they lack. Two ends of one line, then, rather than a mismatch."
   - q: "Why does someone seem larger than life with Moon opposite Neptune?"
     a: "Because each of you carries what the other lacks. To the Moon person, the Neptune person can seem to carry something finer; to the Neptune person, the Moon person can seem to carry something truer. Both are partly projection, and both point to qualities each of you can grow in yourself."
   - q: "Is Moon opposite Neptune a sign of disappointment in love?"
@@ -30,7 +30,7 @@ Moon opposite Neptune in synastry sets what one person needs and what the other 
 
 ## What flows {#what-flows}
 
-The [Moon](/astrology/moon/) holds what a person needs to feel safe, here and now. [Neptune](/astrology/neptune/) holds imagination, compassion and the pull of the ideal. An [opposition](/astrology/opposition/) sets them across one axis, a polarity where each end makes the other visible. In [synastry aspects](/astrology/synastry-aspects/), the axis runs between two people, and each starts with one end.
+The [Moon](/astrology/moon/) looks after the needs of the day, what makes a person feel safe here and now. [Neptune](/astrology/neptune/) holds imagination, compassion and the pull of the ideal. An [opposition](/astrology/opposition/) sets them across one axis, a polarity where each end makes the other visible. Across two charts, which is what [synastry aspects](/astrology/synastry-aspects/) describe, each person starts at one end.
 
 If the Moon end is yours, this person may lift your days out of the ordinary. They bring music, faith, imagination, a sense that life is larger than the list of chores, and your feelings are honoured rather than managed. At times they can also seem far away, somewhere you can't follow.
 

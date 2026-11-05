@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 47
 glyph: "☉⚹⚷"
-definition: "Sun sextile Chiron in synastry links one person’s purpose to the other’s hard-won experience, Chiron about 60° from the Sun, within 4.8°. Practical wisdom is on offer where the Sun person needs it. I read it as help from someone who has been there, which works once it is asked for."
+definition: "Sun sextile Chiron in synastry connects one person’s purpose with the other’s hard-won experience, across some 60° with an orb of 4.8°. Practical wisdom is on offer where the Sun person needs it. I read it as help from someone who has been there, which works once it is asked for."
 facts:
   - { k: "Bodies", v: "One person’s Sun ☉, the other’s Chiron ⚷" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -20,28 +20,28 @@ faq:
   - q: "What does Sun sextile Chiron mean in synastry?"
     a: "What the Chiron person learned around a sore spot is available to the Sun person’s aims, at about 60°, within 4.8°. One brings direction, the other know-how earned the long way. It works when the Sun person asks and the Chiron person chooses to share."
   - q: "Is Sun sextile Chiron good for mentoring?"
-    a: "Often, yes: it suits a teacher and a learner, at work or anywhere else, because the experience is practical and offered at a comfortable distance. Still, a sextile only opens the way, and no contact guarantees how a mentoring relationship goes."
+    a: "Often, yes: it suits a teacher and a learner, at work or anywhere else, because the experience is practical and offered at a comfortable distance. Still, a sextile only opens the way, and how a mentoring relationship turns out isn’t written in any single contact."
   - q: "Why doesn’t the Chiron person offer help more often?"
     a: "Because the subject touches a tender place, and a sextile doesn’t push. Many people keep what they learned the hard way to themselves unless someone asks. A specific question usually brings out more than a general invitation."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the sextile, an aspect of signs two apart" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 4.8°" }
 ---
-A tip passed on by someone who learned it the hard way, at exactly the moment you need it: that's the texture of Sun sextile Chiron between two charts. The Chiron of one person sits about 60° from the other's Sun, two signs on, and experience flows towards purpose whenever someone opens the door.
+A tip passed on, at exactly the moment you need it, by someone who learned it the hard way. In Sun sextile Chiron between two charts, one person's Chiron is two signs from the other's Sun, about 60° round, and experience flows towards purpose whenever someone opens the door.
 
 ## What flows {#what-flows}
 
 The [Sun](/astrology/sun/) organises purpose and vitality, the direction a person sets out in. [Chiron](/astrology/chiron/) is adaptation around a lasting limitation: the compensations, skills and practical wisdom a person builds where something didn't come easily. A [sextile](/astrology/sextile/) relates the two through opportunity and responsiveness. Among the [synastry aspects](/astrology/synastry-aspects/) that involve Chiron, it's one of the lightest-handed.
 
-With the Sun, your aims gain practical wisdom from someone who has lived a version of the difficulty. They know the shortcut, the pitfall, the way to keep going when the obvious route fails, and they pass it on without fuss. Your own direction may grow kinder to other people's limits as a result.
+With the Sun, your aims gain from someone who has lived a version of the difficulty. They know the shortcut, the pitfall, the way to keep going when the obvious route fails, and they pass it on without fuss. Your own direction may grow kinder to other people's limits as a result.
 
-With Chiron, the other's purpose gives your hard-won knowledge a use. Instead of being the person with the sore spot, you become the one who knows how, and that shift alone can change how you carry it.
+With Chiron, your hard-won knowledge finds a use in the other's plans. Instead of being the person with the sore spot, you become the one who knows how, and that shift alone can change how you carry it.
 
 The elements shape the help: between fire and air, encouragement in words and a push of courage; between earth and water, practical assistance and quiet emotional steadiness.
 
 ## Where it rubs {#where-it-rubs}
 
-What this ease can hide is silence. The Chiron person may not mention their experience, because the subject is tender, and the Sun person may not think to ask. Or the advice comes unasked and lands as a lecture. Because the sore spot itself is rarely named, help can miss its mark: a sextile opens the way, and someone still has to walk it.
+Silence is what this ease tends to hide. The Chiron person may not mention their experience, because the subject is tender, and the Sun person, not knowing, doesn't ask. Or the advice comes unasked and lands as a lecture. Because the sore spot itself is rarely named, help can miss its mark: a sextile opens the way, and someone still has to walk it.
 
 Chiron moves unevenly, lingering in some signs for about eight years and crossing others in under two, so its sign belongs to a cohort whose size varies. The Sun, two signs away because of one birthday, is the part only this pair has.
 

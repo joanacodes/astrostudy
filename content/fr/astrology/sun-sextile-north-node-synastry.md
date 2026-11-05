@@ -8,7 +8,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 57
 glyph: "☉⚹☊"
-definition: "Soleil sextile Nœud Nord en synastrie : le Soleil d’une personne fait un angle de 60°, à 4,8° près, avec le Nœud Nord de l’autre, et donc de 120° avec son Nœud Sud. L’une accueille l’autre comme elle est et lui ouvre une porte vers ce qu’elle apprend. J’y lis une invitation qui attend qu’on la saisisse."
+definition: "Soleil sextile Nœud Nord en synastrie : entre le Soleil de l’une et le Nœud Nord de l’autre, un angle de 60°, à 4,8° près, et donc de 120° avec son Nœud Sud. L’une accueille l’autre comme elle est et lui ouvre une porte vers ce qu’elle apprend. J’y lis une invitation qui attend qu’on la saisisse."
 facts:
   - { k: "Corps", v: "Le Soleil ☉ de l’une, le Nœud Nord ☊ de l’autre" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }

@@ -32,9 +32,9 @@ Moon sextile Uranus in synastry links one person's routines to the other's taste
 
 The [Moon](/astrology/moon/) is where a person keeps their needs, their attachments and the small rituals that tell them they're safe. [Uranus](/astrology/uranus/) brings originality and autonomy: the wish to try, to differ, to change what has gone stale. A [sextile](/astrology/sextile/) gives two functions a chance to cooperate, as long as someone takes it. Like all [synastry aspects](/astrology/synastry-aspects/), this one is lived differently from each side.
 
-Carrying the Moon, you may find this person's suggestions arrive in doses you can absorb. They don't overturn your habits; they open a window in them. After time together you notice you've tried something new and still feel like yourself, which is no small thing for a Moon that likes its routines.
+On the Moon's side, what this person proposes tends to come in doses you can absorb. They don't overturn your habits; they open a window in them. After time together you notice you've tried something new and still feel like yourself, which is no small thing for a Moon that likes its routines.
 
-Carrying Uranus, you may find that your restlessness has somewhere friendly to land. Your ideas are welcomed, sometimes adopted, and the other's way of settling shows you how a change can become a habit worth keeping. You get to be inventive without being told you're too much. Between friends, it might be the one who always finds the new restaurant and the one who turns it into a regular haunt.
+On Uranus's side, your restlessness may find somewhere friendly to land. Your ideas are welcomed, sometimes adopted, and the other's way of settling shows you how a change can become a habit worth keeping. You get to be inventive without being told you're too much. Between friends, it might be the one who always finds the new restaurant and the one who turns it into a regular haunt.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -44,7 +44,7 @@ The ease of a sextile is also its weak point: nothing forces the opening. The Ur
 
 Make experimenting a habit, which sounds like a contradiction and isn't. Pick a regular slot for something new: a recipe on Sundays, a different walk each month, one change to how a shared week runs. Let the Moon person choose the pace and the Uranus person the ideas, then swap. Friends can take turns choosing; a couple can try out a new tradition; colleagues can pilot a method on a small task before a large one.
 
-About 1 pair of people in 10 has this sextile, one way round or the other, within 4.8°. The Uranus person's Uranus is a group portrait, since Uranus lingers some seven years in each sign; the other's Moon is a single snapshot, and the sextile exists only where the two meet. That snapshot needs both birth times: with an orb under 5° and a Moon that covers some 13° in a day, a few hours either way decide it, and so do the houses, the part of each life where the sextile plays out ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)).
+About 1 pair of people in 10 has this sextile, one way round or the other, within 4.8°. The Uranus person's Uranus is a group portrait, since Uranus lingers some seven years in each sign; the other's Moon is a single snapshot, and the sextile exists only where the two meet. That snapshot needs both birth times: with an orb under 5° and a Moon that covers some 13° in a day, a few hours either way decide it, and so do the houses, which place the sextile in each life ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)).
 
 Turn the angle, and change arrives differently:
 

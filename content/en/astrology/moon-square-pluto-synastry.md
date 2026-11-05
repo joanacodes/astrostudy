@@ -7,7 +7,7 @@ reviewed: 2026-11-04
 family: "combinations"
 weight: 98
 glyph: "☽□♇"
-definition: "Moon square Pluto in synastry means one person’s Pluto is about 90° from the other’s Moon, within 6.8°. One person’s need for familiar comfort and the other’s drive to go deeper and change things rub against each other. To me it’s friction that can build trust and strength, provided power is shared."
+definition: "Moon square Pluto in synastry means one person’s Pluto is about 90° from the other’s Moon, within 6.8°. Familiar comfort matters most to one of them, going deeper and changing things to the other, and the two rub. To me it’s friction that can build trust and strength, provided power is shared."
 facts:
   - { k: "Bodies", v: "One person’s Moon ☽, the other’s Pluto ♇" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -30,7 +30,7 @@ Moon square Pluto in synastry sets a quarter-circle between one person's need to
 
 ## What flows {#what-flows}
 
-In my reading the [Moon](/astrology/moon/) is the part that needs security, attachment and familiar comfort; [Pluto](/astrology/pluto/) is the part that transforms, lets go of the obsolete and reclaims its own power. A [square](/astrology/square/) puts them in friction, and the friction is productive: each pushes the other to adapt. And in [synastry aspects](/astrology/synastry-aspects/) that involve Pluto, the question of power is never far away.
+In my reading the [Moon](/astrology/moon/) is the part that needs security, attachment and familiar comfort; [Pluto](/astrology/pluto/) is the part that transforms, lets go of the obsolete and reclaims its own power. A [square](/astrology/square/) puts them in friction, and the friction is productive: each pushes the other to change shape. And in [synastry aspects](/astrology/synastry-aspects/) that involve Pluto, the question of power is never far away.
 
 Carrying the Moon, you may feel this person won't let you hide. They notice the habit that isn't helping, the comfort that has turned into avoidance, and they say so. It can be bracing, sometimes too much; it can also be the push that gets you out of a rut you'd stopped seeing.
 

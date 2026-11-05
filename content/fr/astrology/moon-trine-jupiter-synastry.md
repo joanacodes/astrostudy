@@ -35,7 +35,7 @@ La [Lune](/astrology/moon/) s’occupe du ressenti, de l’attachement et du sen
 
 Quand vous êtes du côté de la Lune, ce contact rend vos émotions plus maniables. Vous arrivez avec une inquiétude et repartez avec l’impression que la chose a une forme, une suite, une place dans une histoire plus longue, sans avoir eu droit à un sermon. Sa compagnie élargit vos réconforts sans les bousculer.
 
-Quand vous êtes du côté de Jupiter, votre générosité est reçue sans histoires. Ce que vous offrez, un recul, un plan, une raison d’essayer, sert vraiment, et la chaleur de l’autre donne à votre agitation un endroit où s’arrêter. Vous aimez peut-être la personne que vous êtes dans cette compagnie.
+Quand Jupiter est à vous, votre générosité passe sans histoires. Ce que vous offrez, un recul, un plan, une raison d’essayer, sert vraiment, et la chaleur de l’autre donne à votre agitation un endroit où s’arrêter. Vous aimez peut-être la personne que vous êtes dans cette compagnie.
 
 L’élément commun donne le style : en feu, l’encouragement prend la forme de l’enthousiasme ; en terre, d’une générosité pratique ; en air, de longues conversations ; en eau, d’une compassion qui se passe de mots.
 
@@ -52,7 +52,7 @@ Ailleurs sur le cercle, les mêmes fonctions demandent plus d’effort, ou laiss
 
 ## Comment le vivre {#comment-le-vivre}
 
-Laissez une mauvaise journée être une mauvaise journée avant que quelqu’un lui trouve un sens. La personne qui a Jupiter peut parfois être celle dont on s’occupe ; celle qui a la Lune peut offrir une vue large autant qu’en recevoir. Dans un couple, cela peut devenir l’habitude d’échanger les rôles ; entre amis, la personne qui conseille toujours se voit demander comment elle va ; en famille, un frère ou une sœur adulte cesse d’avoir réponse à tout ; entre collègues, l’aide et les compliments circulent dans les deux sens.
+Laissez une mauvaise journée être une mauvaise journée avant que quelqu’un lui trouve un sens. La personne qui a Jupiter peut parfois être celle dont on s’occupe ; celle qui a la Lune peut offrir une vue large autant qu’en recevoir. Dans un couple, cela peut devenir l’habitude d’échanger les rôles ; entre amis, la personne qui conseille toujours se voit demander comment elle va ; en famille, une sœur ou un frère adulte cesse d’avoir réponse à tout ; entre collègues, l’aide et les compliments circulent dans les deux sens.
 
 Environ 1 paire de personnes sur 7 a ce trigone, dans un sens ou dans l’autre, à 6,8° près. Pour le voir, j’ai besoin des deux heures de naissance. En quelques heures, la Lune parcourt plusieurs degrés, environ 13 sur une journée entière, assez pour ouvrir ou fermer l’orbe, et les heures donnent aussi les maisons où chacune des deux personnes rencontre le trigone ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

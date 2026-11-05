@@ -23,7 +23,7 @@ faq:
   - q: "Soleil trigone Uranus veut-il dire que l’on se laisse de l’espace ?"
     a: "En général, oui : aucune des deux personnes n’a à se battre pour avoir de la place, et l’indépendance paraît naturelle. Le risque est l’inverse d’une dispute : tant d’espace que l’on oublie de s’y retrouver. Des projets communs empêchent la liberté de se changer en distance."
   - q: "Soleil trigone Uranus est-il un aspect chanceux ?"
-    a: "Un trigone n’est pas de la chance. Il décrit une fluidité : deux fonctions qui se soutiennent sans friction. Ce que deux personnes font de cette aisance leur appartient, et aucun contact ne garantit le cours d’une relation."
+    a: "Un trigone n’est pas de la chance. Il décrit une fluidité : deux fonctions qui se soutiennent sans friction. Ce que deux personnes font de cette aisance leur appartient, et aucun contact ne trace d’avance le cours d’une relation."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, qui relie les signes d’une même triplicité" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6,8° près" }

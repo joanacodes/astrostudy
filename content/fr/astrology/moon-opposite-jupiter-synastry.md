@@ -31,7 +31,7 @@ Lune opposition Jupiter en synastrie pose les besoins d’une personne et le sen
 
 ## Ce qui circule {#ce-qui-circule}
 
-La [Lune](/astrology/moon/) porte les besoins, l’attachement et les routines qui font d’un lieu un refuge. [Jupiter](/astrology/jupiter/) porte la croissance, l’apprentissage, les principes et l’envie de voir plus loin. Une [opposition](/astrology/opposition/) met deux fonctions face à face, si bien que chaque bout rend l’autre plus visible. Lue comme l’un des [aspects de synastrie](/astrology/synastry-aspects/), elle veut dire que chaque personne vit un bout et rencontre l’autre chez quelqu’un d’autre.
+La [Lune](/astrology/moon/) porte les besoins, l’attachement et les routines qui font d’un lieu un refuge. [Jupiter](/astrology/jupiter/) porte la croissance, l’apprentissage, les principes et l’envie de voir plus loin. Une [opposition](/astrology/opposition/) aligne deux fonctions de part et d’autre du cercle, et chaque bout rend l’autre plus visible. Lue comme l’un des [aspects de synastrie](/astrology/synastry-aspects/), elle veut dire que chaque personne vit un bout et rencontre l’autre chez quelqu’un d’autre.
 
 Au bout de la Lune, cette personne vous attire peut-être vers l’extérieur : le voyage que vous auriez reporté, le cours, la grande question, des amis venus d’autres mondes. Son envergure peut faire l’effet d’un grand air, et parfois d’une distance, son esprit déjà ailleurs quand vous êtes encore là.
 
@@ -45,7 +45,7 @@ Deux personnes sur une bascule ne sont pas ennemies, mais une bascule peut se bl
 
 ## Comment le vivre {#comment-le-vivre}
 
-Relayez-vous au bout de l’autre. La personne qui a Jupiter peut ramener le vaste monde à la maison, partager ce qu’elle apprend autour de la table plutôt qu’à distance ; celle qui a la Lune peut choisir une aventure de temps en temps, à ses conditions. Un couple peut construire un voyage autour d’un rituel familier ; des amis peuvent alterner soirée chez soi et sortie ; des collègues peuvent associer la vision de l’une au sens qu’a l’autre de ce que l’équipe peut absorber.
+Allez à tour de rôle au bout de l’autre. La personne qui a Jupiter peut ramener le vaste monde à la maison, partager ce qu’elle apprend autour de la table plutôt qu’à distance ; celle qui a la Lune peut choisir une aventure de temps en temps, à ses conditions. Un couple peut construire un voyage autour d’un rituel familier ; des amis peuvent alterner soirée chez soi et sortie ; des collègues peuvent associer la vision de l’une au sens qu’a l’autre de ce que l’équipe peut absorber.
 
 Environ 1 paire de personnes sur 12 a cette opposition, dans un sens ou dans l’autre, à 8° près. Les deux heures de naissance en décident. À environ 13° par jour, la Lune peut franchir le bord de l’orbe en quelques heures, et les maisons, qui disent de quoi parle chaque bout dans chaque vie, ne se tracent pas sans les heures ([pourquoi j’attends l’heure](/blog/unknown-birth-time/#pourquoi-j-attends-l-heure)).
 

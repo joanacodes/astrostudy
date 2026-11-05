@@ -47,7 +47,7 @@ Les polarités invitent la projection. La personne qui a la Lune peut voir celle
 
 Vérifiez l’image auprès de la personne, souvent et avec douceur. Celle qui a la Lune peut laisser l’autre rêver sans lui demander de se justifier ; celle qui a Neptune peut répondre aux besoins ordinaires aussi volontiers qu’aux besoins poétiques. Échangez parfois vos bouts : la personne qui a la Lune choisit la sortie inspirante, celle qui a Neptune s’occupe de la semaine pratique. Amis, couples et familles peuvent garder l’habitude de demander « comment vas-tu, vraiment ? » et d’attendre la réponse ; des collègues peuvent associer exprès la vision et la logistique.
 
-Environ 1 paire de personnes sur 11 a cette opposition, dans un sens ou dans l’autre, à 8° près. Son bout lointain, Neptune, était le même pour toutes les personnes nées sur quatorze ans environ ; son bout proche, la Lune, change d’heure en heure, et c’est lui qui rend l’opposition vôtre. Ce sont donc les deux heures de naissance qui tranchent, et elles donnent aussi les maisons où tombe chaque bout ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Environ 1 paire de personnes sur 11 a cette opposition, dans un sens ou dans l’autre, à 8° près. Son bout lointain, celui de Neptune, était identique pour toutes les personnes nées sur quatorze ans environ ; son bout proche, celui de la Lune, change d’heure en heure, et c’est lui qui rend l’opposition vôtre. Les deux heures de naissance ont donc le dernier mot, et elles donnent aussi les maisons où tombe chaque bout ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Plus près, ou en angle, les deux mêmes fonctions se comportent autrement :
 

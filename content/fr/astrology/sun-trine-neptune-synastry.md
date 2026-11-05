@@ -32,7 +32,7 @@ Une bienveillance qui arrive avant qu’on la demande : c’est la marque de So
 
 ## Ce qui circule {#ce-qui-circule}
 
-Le [Soleil](/astrology/sun/) organise qui est une personne et ce qu’elle vise. [Neptune](/astrology/neptune/) apporte l’imagination, la compassion, l’inspiration et le sens de ce qui dépasse le pratique. Un [trigone](/astrology/trine/) relie les deux en facilitant : chacune des deux fonctions rend l’autre plus simple. Parmi les [aspects de synastrie](/astrology/synastry-aspects/) de Neptune, peu sont aussi doux.
+Le [Soleil](/astrology/sun/) organise qui est une personne et ce qu’elle vise. [Neptune](/astrology/neptune/) apporte l’imagination, la compassion, l’inspiration et le goût d’un sens qui dépasse le pratique. Un [trigone](/astrology/trine/) relie les deux en facilitant : chacune des deux fonctions rend l’autre plus simple. Parmi les [aspects de synastrie](/astrology/synastry-aspects/) de Neptune, peu sont aussi doux.
 
 Pour la personne qui a le Soleil, il y a le sentiment d’être comprise avec douceur. On suppose d’emblée le meilleur de vous, vos ambitions rencontrent de l’imagination plutôt que du doute, et vous pouvez vous montrer tendre devant cette personne sans perdre la face.
 
