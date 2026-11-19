@@ -45,7 +45,7 @@ Seen from the Mars side, your offers can look like politeness rather than real r
 
 The sextile's neighbours in this pair:
 
-- **[Mars conjunct Chiron in synastry](/astrology/mars-conjunct-chiron-synastry/):** the push lands on the tender place itself, closer and harder to pace.
+- **[Mars conjunct Chiron in synastry](/astrology/mars-conjunct-chiron-synastry/):** the same two on one degree, where every push needs asking for first.
 - **[Mars square Chiron in synastry](/astrology/mars-square-chiron-synastry/):** a sign further round, the nudge catches the sore spot from the side.
 - **[Mars trine Chiron in synastry](/astrology/mars-trine-chiron-synastry/):** the same support, wider and steadier, without waiting to be invited.
 - **[Mars opposite Chiron in synastry](/astrology/mars-opposite-chiron-synastry/):** drive and tender place face each other, and each sees itself in the other.

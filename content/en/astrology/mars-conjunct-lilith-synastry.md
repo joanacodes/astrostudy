@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 6°, with mean Lilith" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "Lilith by sign and house in single charts; no count of contacts between two" }
 ---
-Picture someone saying "go on, then" to the plan everyone else talked you out of. Mars conjunct Lilith in synastry sets one person's Mars on the other's Black Moon Lilith, 6° or closer, and the drive of one lands on the very part of the other that never agreed to be managed.
+Picture someone saying "go on, then" to the plan everyone else talked you out of. Mars conjunct Lilith in synastry lands one person's Mars on the other's Black Moon Lilith, 6° or closer, and the drive of one reaches the very part of the other that never agreed to be managed.
 
 ## What flows {#what-flows}
 

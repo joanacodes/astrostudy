@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’opposition, 180°, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6° près" }
 ---
-Dans certaines paires, l’une tient l’agenda et l’autre tient le rêve. Avec Mars opposition Neptune en synastrie, tout le zodiaque sépare Mars, chez une personne, de Neptune chez l’autre, et les deux moitiés de tout projet, faire et imaginer, ont tendance à s’installer chacune d’un côté de la pièce.
+Dans certaines paires, l’une tient l’agenda et l’autre tient le rêve. Avec Mars opposition Neptune en synastrie, un demi-tour de zodiaque sépare Mars, chez une personne, de Neptune chez l’autre, et les deux moitiés de tout projet, faire et imaginer, ont tendance à s’installer chacune d’un côté de la pièce.
 
 ## Ce qui circule {#ce-qui-circule}
 

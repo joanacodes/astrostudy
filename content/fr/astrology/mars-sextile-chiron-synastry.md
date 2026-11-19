@@ -46,7 +46,7 @@ Vu du côté de Mars, vos offres peuvent passer pour de la politesse plutôt que
 
 Les voisins du sextile dans cette paire :
 
-- **[Mars conjonction Chiron en synastrie](/astrology/mars-conjunct-chiron-synastry/) :** la poussée tombe sur le point sensible lui-même, plus près, et plus délicate à mesurer.
+- **[Mars conjonction Chiron en synastrie](/astrology/mars-conjunct-chiron-synastry/) :** les deux sur un même degré, où chaque poussée demande d’abord la permission.
 - **[Mars carré Chiron en synastrie](/astrology/mars-square-chiron-synastry/) :** un signe plus loin, le coup de pouce accroche le point sensible de côté.
 - **[Mars trigone Chiron en synastrie](/astrology/mars-trine-chiron-synastry/) :** le même soutien, plus large et plus régulier, sans attendre d’invitation.
 - **[Mars opposition Chiron en synastrie](/astrology/mars-opposite-chiron-synastry/) :** face à face, l’élan et le point sensible se reconnaissent l’un dans l’autre.

@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 5.1°" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "Chiron among the three placements that held most often, in single charts" }
 ---
-One of you pushes, and keeps catching something the other never mentioned. In Mars square Chiron in synastry, one person's Mars and the other's Chiron stand at right angles, and the push meets the tender place from the side, which is exactly why nobody sees it coming.
+One of you pushes, and keeps catching something the other never mentioned. In Mars square Chiron in synastry, the push from one person's Mars reaches the other's Chiron from about 90° away, meeting the tender place from the side, which is exactly why nobody sees it coming.
 
 ## What flows {#what-flows}
 

@@ -45,7 +45,7 @@ If yours is the Neptune, your hopes keep being hurried into action, or turned in
 
 Seen from this corner, the pair's other contacts:
 
-- **[Mars conjunct Neptune in synastry](/astrology/mars-conjunct-neptune-synastry/):** no angle at all; the push lands on the dream, and blur replaces friction.
+- **[Mars conjunct Neptune in synastry](/astrology/mars-conjunct-neptune-synastry/):** zero degrees between them; the push lands on the dream, and blur replaces friction.
 - **[Mars sextile Neptune in synastry](/astrology/mars-sextile-neptune-synastry/):** a sign closer, the same functions help each other on request.
 - **[Mars trine Neptune in synastry](/astrology/mars-trine-neptune-synastry/):** a sign further on, in one element, the expectations match without being spelled out.
 - **[Mars opposite Neptune in synastry](/astrology/mars-opposite-neptune-synastry/):** the angle opens into a seesaw, and the crossing becomes a division of roles.

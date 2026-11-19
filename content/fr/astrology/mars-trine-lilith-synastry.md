@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 5,1° près, avec la Lilith moyenne" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "Lilith parmi les trois placements qui ont le plus souvent tenu, dans des thèmes individuels" }
 ---
-Deux personnes qui préfèrent toutes deux faire les choses à leur façon peuvent former une excellente équipe, ou deux équipes parallèles. Avec Mars trigone Lilith en synastrie, un trigone relie Mars, chez l’une, à la Lune noire Lilith chez l’autre, le plus souvent à travers un même élément, et le choix peu conventionnel est souvent celui qu’elles font ensemble sans en discuter.
+Deux personnes qui préfèrent toutes deux faire les choses à leur façon peuvent former une excellente équipe, ou deux équipes parallèles. Avec Mars trigone Lilith en synastrie, Mars, chez l’une, et la Lune noire Lilith, chez l’autre, font bon ménage à environ 120°, le plus souvent à travers un même élément, et le choix peu conventionnel est souvent celui qu’elles font ensemble sans en discuter.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -58,4 +58,4 @@ Gardez deux non séparés. Chacune garde au moins une chose qui reste sa décisi
 
 En comptant avec la Lilith moyenne, je trouve environ 1 paire de personnes sur 9 avec ce trigone, dans un sens ou dans l’autre, à 5,1° près. Le côté Lilith change en quelques mois, environ neuf par signe, si bien que la personne de Lilith ne le partage de près qu’avec une saison de naissances ; Mars, plus rapide, isole cette paire-là. Les deux corps bougent peu d’une heure à l’autre, si bien que l’heure de naissance change à peine le trigone ; les maisons, où la liberté commune s’exerce, demandent les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Mon carnet met à part trois placements, Saturne, Chiron et Lilith, pour avoir tenu bien plus souvent que le reste ; ses tests portaient toutefois sur des thèmes individuels, si bien que ce trigone reçoit mon attention et pas de chiffre ([les trois qui ont tenu : Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/)).
 
-Quand [Mars trigone Lilith](/astrology/mars-trine-lilith/) se trouve dans un seul thème, la même personne porte les deux moitiés de cette alliance. Entre deux thèmes, l’alliance compte deux membres, et chacune garde sa voix.
+Dans un seul thème, [Mars trigone Lilith](/astrology/mars-trine-lilith/) confie à la même personne les deux moitiés de cette alliance. Entre deux thèmes, l’alliance compte deux membres, et chacune garde sa voix.

@@ -22,7 +22,7 @@ faq:
   - q: "Que veut dire Mars opposition Nœud Nord en synastrie ?"
     a: "Mars, chez l’une, s’oppose au Nœud Nord de l’autre, à 6° près, ce qui revient à se tenir sur son Nœud Sud. L’élan de la personne de Mars rencontre les forces rodées de celle du nœud, si bien que les deux se sentent capables et chez elles ensemble. La croissance se trouve en face de l’endroit où l’énergie tombe."
   - q: "Est-ce que Mars opposition Nœud Nord est mauvais signe ?"
-    a: "Non. Le Nœud Sud est une force établie, pas un défaut, et la compétence partagée est un plaisir. La seule prudence concerne l’habitude : une paire si à l’aise en terrain connu peut oublier la direction moins familière. Le remarquer, de temps en temps, est tout ce que ce contact demande."
+    a: "Non. Rien ne cloche du côté du Nœud Sud : il porte une force établie, et la compétence partagée est un plaisir. La seule prudence concerne l’habitude : une paire si à l’aise en terrain connu peut oublier la direction moins familière. Le remarquer, de temps en temps, est tout ce que ce contact demande."
   - q: "Est-ce que Mars opposition Nœud Nord est un lien de vie antérieure ?"
     a: "Cette lecture existe dans une partie de l’astrologie ; ce n’est pas la mienne. Un thème ne peut pas prouver une vie antérieure, et je lis le Nœud Sud comme les savoir-faire et les habitudes qu’une personne a déjà. Ce qui semble familier entre deux personnes est réel ; d’où cela vient, c’est à elles de se le demander."
 sources:

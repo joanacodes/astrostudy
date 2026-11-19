@@ -47,7 +47,7 @@ Both experiences are accurate; they're the same crossing seen from its two sides
 
 Seen from the crossing, the other angles:
 
-- **[Mars conjunct North Node in synastry](/astrology/mars-conjunct-north-node-synastry/):** the drive lands on the growing end, pushing forward.
+- **[Mars conjunct North Node in synastry](/astrology/mars-conjunct-north-node-synastry/):** no crossing at all, just a push aimed straight at the growing end.
 - **[Mars sextile North Node in synastry](/astrology/mars-sextile-north-node-synastry/):** a sign closer, an opening rather than a crossing.
 - **[Mars trine North Node in synastry](/astrology/mars-trine-north-node-synastry/):** a sign further, effort flows with the growth.
 - **[Mars opposite North Node in synastry](/astrology/mars-opposite-north-node-synastry/):** the drive sits on the familiar end, facing the new.

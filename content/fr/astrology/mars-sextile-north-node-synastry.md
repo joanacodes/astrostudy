@@ -23,8 +23,8 @@ faq:
     a: "Soixante degrés séparent Mars, chez l’une, du Nœud Nord de l’autre, et donc cent vingt de son Nœud Sud. La personne de Mars peut ouvrir une voie vers ce que la personne du nœud apprend, et peut aussi rendre le familier très confortable. La direction que prend la paire dépend de choix, pas de l’angle."
   - q: "Est-ce que Mars sextile Nœud Nord aide à grandir ?"
     a: "Cela peut aider, en douceur. L’élan de la personne de Mars offre des ouvertures vers le moins familier, et celle du nœud décide de les prendre ou non. Comme Mars, chez l’autre, facilite aussi le retour vers les forces anciennes, grandir ici, c’est choisir exprès la nouvelle porte, de temps en temps."
-  - q: "Pourquoi le Nœud Sud compte-t-il dans Mars sextile Nœud Nord ?"
-    a: "Parce que les nœuds se font face, Mars à 60° du Nœud Nord se trouve forcément à 120° du Nœud Sud, et cet angle plus large est le lien le plus doux. Ensemble, la paire glisse volontiers vers ce que la personne du nœud fait déjà bien. Le savoir aide à choisir la nouvelle porte quand cela compte."
+  - q: "En quoi le Nœud Sud compte-t-il pour Mars sextile Nœud Nord ?"
+    a: "Parce que les nœuds se font face, Mars à 60° du Nœud Nord se trouve forcément à 120° du Nœud Sud, et cet angle plus large est le lien le plus doux. Ensemble, la paire glisse volontiers vers les points forts que la personne du nœud a déjà. Le savoir aide à choisir la nouvelle porte quand cela compte."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, entre signes distants de deux" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 3,6° près, avec le nœud vrai" }
@@ -42,7 +42,7 @@ Avec le Nœud Nord en Poissons, par exemple, l’ouverture peut mener à lâcher
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Le côté à 120°, celui qui touche le Nœud Sud, est le plus doux des deux, et le plus doux l’emporte quand personne ne choisit. La paire peut passer des années à faire, très heureusement, ce que la personne du nœud fait déjà bien, pendant que l’ouverture vers la croissance reste une conversation occasionnelle. Les forces acquises ne sont pas un obstacle, mais s’appuyer sur elles seules réduit l’éventail d’une personne.
+Le côté à 120°, celui qui touche le Nœud Sud, est le plus doux des deux, et le plus doux l’emporte quand personne ne choisit. La paire peut passer des années à faire, très heureusement, ce qui réussit déjà à la personne du nœud, pendant que l’ouverture vers la croissance reste une conversation occasionnelle. Les forces acquises ne sont pas un obstacle, mais s’appuyer sur elles seules réduit l’éventail d’une personne.
 
 Côté Mars, on est tenté d’applaudir la version familière de l’autre, celle qui va le mieux avec votre élan. Côté nœud, on est tenté d’attendre la poussée au lieu de choisir soi-même la nouvelle porte.
 

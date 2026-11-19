@@ -36,7 +36,7 @@ Avec Mars trigone Neptune en synastrie, l’une apporte d’ordinaire le mouveme
 
 Si Mars est de votre côté, vous remarquerez peut-être en vous plus de générosité à son contact, et moins d’esprit de compétition : votre énergie se tourne vers ce qui importe à l’une comme à l’autre, et l’effort cesse de ressembler à une rivalité. Si Neptune est de votre côté, vous voyez vos idées avancer sans avoir à les défendre. Une pensée partagée pendant une promenade réapparaît une semaine plus tard sous la forme d’un projet commencé.
 
-Selon l’élément commun, le trigone change d’allure. En eau, Mars en Cancer avec Neptune en Scorpion, il se montre dans un soin qui se fait vraiment ; en terre, Mars en Taureau avec Neptune en Capricorne, dans des rêves qui prennent patiemment forme ; en feu, dans l’enthousiasme pour une cause ; en air, dans des idéaux changés en conversations et en projets.
+Selon l’élément commun, l’aspect change d’allure. En eau, Mars en Cancer avec Neptune en Scorpion, le trigone se montre dans un soin qui se fait vraiment ; en terre, Mars en Taureau avec Neptune en Capricorne, dans des rêves qui prennent patiemment forme ; en feu, dans l’enthousiasme pour une cause ; en air, dans des idéaux changés en conversations et en projets.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

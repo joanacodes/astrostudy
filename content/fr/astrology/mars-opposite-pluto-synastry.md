@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’opposition, 180°, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6° près" }
 ---
-Deux courants puissants, face à face : l’un pousse vers l’extérieur, l’autre tire les choses jusqu’à la racine. Avec Mars opposition Pluton en synastrie, toute la largeur du zodiaque sépare Mars, chez une personne, de Pluton chez l’autre, et la question qui circule entre elles est celle du partage de la force.
+Deux courants puissants, face à face : l’un pousse vers l’extérieur, l’autre tire les choses jusqu’à la racine. Avec Mars opposition Pluton en synastrie, Mars, chez l’une, et Pluton, chez l’autre, se font face à travers le zodiaque, et la question qui circule entre elles est celle du partage de la force.
 
 ## Ce qui circule {#ce-qui-circule}
 

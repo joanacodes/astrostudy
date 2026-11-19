@@ -48,7 +48,7 @@ Les deux expériences sont justes : c’est le même croisement, vu de ses deux
 
 Vus depuis le carrefour, les autres angles :
 
-- **[Mars conjonction Nœud Nord en synastrie](/astrology/mars-conjunct-north-node-synastry/) :** l’élan tombe sur le bout de la croissance, et pousse vers l’avant.
+- **[Mars conjonction Nœud Nord en synastrie](/astrology/mars-conjunct-north-node-synastry/) :** pas de croisement du tout, juste une poussée droit sur le bout de la croissance.
 - **[Mars sextile Nœud Nord en synastrie](/astrology/mars-sextile-north-node-synastry/) :** un signe plus près, une ouverture plutôt qu’un croisement.
 - **[Mars trigone Nœud Nord en synastrie](/astrology/mars-trine-north-node-synastry/) :** un signe plus loin, l’effort coule avec la croissance.
 - **[Mars opposition Nœud Nord en synastrie](/astrology/mars-opposite-north-node-synastry/) :** l’élan se pose sur le bout familier, face au nouveau.

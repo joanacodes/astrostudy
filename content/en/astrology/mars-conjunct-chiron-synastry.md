@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 6°" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "Chiron by sign and house in single charts; no count of contacts between two" }
 ---
-Imagine the friend who signs you both up for the very thing you'd quietly decided wasn't for you. That's how Mars conjunct Chiron in synastry can feel from one side; from the other, it can feel like being trusted with a real part of someone. One person's Mars lands within 6° of the other's Chiron.
+Imagine the friend who signs you both up for the very thing you'd quietly decided wasn't for you. That's how Mars conjunct Chiron in synastry can feel from one side; from the other, it can feel like being trusted with a real part of someone. Here one person's Mars and the other's Chiron share a stretch of the zodiac no wider than 6°.
 
 ## What flows {#what-flows}
 

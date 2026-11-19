@@ -48,7 +48,7 @@ Aucun verdict là-dedans sur qui que ce soit. Gagner en force n’est pas domine
 Dépliés vers d’autres angles, le même élan et la même profondeur se comportent autrement :
 
 - **[Mars sextile Pluton en synastrie](/astrology/mars-sextile-pluto-synastry/) :** une alliance de travail, sollicitée quand une tâche l’exige plutôt que branchée en permanence.
-- **[Mars carré Pluton en synastrie](/astrology/mars-square-pluto-synastry/) :** le rythme et la profondeur pèsent de côté l’un sur l’autre.
+- **[Mars carré Pluton en synastrie](/astrology/mars-square-pluto-synastry/) :** à un quart de tour, là où la vitesse et la profondeur se poussent de biais.
 - **[Mars trigone Pluton en synastrie](/astrology/mars-trine-pluto-synastry/) :** une endurance partagée à travers un élément, régulière plutôt que concentrée.
 - **[Mars opposition Pluton en synastrie](/astrology/mars-opposite-pluto-synastry/) :** les deux forces face à face, et un pouvoir à garder en balance.
 

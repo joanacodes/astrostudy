@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 244
 glyph: "♂△⚸"
-definition: "Mars trine Lilith in synastry means one person’s Mars and the other’s mean Black Moon Lilith sit a trine apart, about 120° within 5.1°, mostly across one element. Action and independence agree, without discussion, on the unconventional choice. To me it's an easy alliance that still needs room for two separate wills."
+definition: "Mars trine Lilith in synastry means one person’s Mars and the other’s mean Black Moon Lilith sit a trine apart, about 120° within 5.1°, mostly across one element. Action and independence agree, without discussion, on the unconventional choice. To me it’s an easy alliance that still needs room for two separate wills."
 facts:
   - { k: "Bodies", v: "One person’s Mars ♂, the other’s Black Moon Lilith ⚸" }
   - { k: "Aspect", v: "Trine △, 120°" }
@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 5.1°, with mean Lilith" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "Lilith among the three placements that held most often, in single charts" }
 ---
-Two people who'd both rather do it their own way can make an excellent team, or two parallel ones. In Mars trine Lilith in synastry, a trine joins one person's Mars to the other's Black Moon Lilith, most often across one element, and the unconventional choice tends to be the one they make together without discussing it.
+Two people who'd both rather do it their own way can make an excellent team, or two parallel ones. In Mars trine Lilith in synastry, one person's Mars and the other's Black Moon Lilith keep easy company at about 120°, most often across one element, and the unconventional choice tends to be the one they make together without discussing it.
 
 ## What flows {#what-flows}
 

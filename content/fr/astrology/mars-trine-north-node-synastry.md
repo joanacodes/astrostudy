@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 249
 glyph: "♂△☊"
-definition: "Mars trigone Nœud Nord en synastrie signifie que Mars, chez une personne, est à 120° du Nœud Nord de l’autre, à 5,1° près, et à 60° de son Nœud Sud. L’élan de l’une coule vers la croissance de l’autre, en restant ami de ses forces anciennes. J’y lis un soutien qui tient compagnie, la pratique restant l’affaire de l’autre."
+definition: "Mars trigone Nœud Nord en synastrie signifie que Mars, chez une personne, est à 120° du Nœud Nord de l’autre, à 5,1° près, et donc à 60° de son Nœud Sud. L’élan de l’une coule vers la croissance de l’autre, ami de ses forces anciennes. J’y lis un soutien qui tient compagnie, la pratique restant l’affaire de l’autre."
 facts:
   - { k: "Corps", v: "Mars ♂ de l’une, le Nœud Nord ☊ de l’autre" }
   - { k: "Aspect", v: "Trigone △, 120°" }

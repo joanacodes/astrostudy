@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6° près, avec la Lilith moyenne" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "Lilith par signe et maison, dans des thèmes individuels ; aucun décompte des contacts entre deux personnes" }
 ---
-Imaginez quelqu’un qui répond « vas-y, alors » au projet que tout le monde vous avait déconseillé. Dans Mars conjonction Lilith en synastrie, Mars, chez une personne, rejoint à 6° près la Lune noire Lilith de l’autre, et l’élan de l’une tombe sur la part même de l’autre qui n’a jamais accepté d’être dirigée.
+Imaginez quelqu’un qui répond « vas-y, alors » au projet que tout le monde vous avait déconseillé. Dans Mars conjonction Lilith en synastrie, Mars, chez une personne, et la Lune noire Lilith de l’autre se trouvent sur le même degré, à 6° près, et l’élan de l’une tombe sur la part même de l’autre qui n’a jamais accepté d’être dirigée.
 
 ## Ce qui circule {#ce-qui-circule}
 

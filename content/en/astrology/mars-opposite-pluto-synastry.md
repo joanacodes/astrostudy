@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 235
 glyph: "♂☍♇"
-definition: "Mars opposite Pluto in synastry means one person’s Mars stands at the far pole from the other’s Pluto, 180° away within 6°. Each meets in the other a strength they use less, directness or depth, so the pair keeps working out a balance of power. To me it's a seesaw two adults can share, never enmity."
+definition: "Mars opposite Pluto in synastry means one person’s Mars stands at the far pole from the other’s Pluto, 180° away within 6°. Each meets in the other a strength they use less, directness or depth, so the pair keeps working out a balance of power. To me it’s a seesaw two adults can share, never enmity."
 facts:
   - { k: "Bodies", v: "One person’s Mars ♂, the other’s Pluto ♇" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -20,14 +20,14 @@ faq:
   - q: "What does Mars opposite Pluto mean in synastry?"
     a: "One person’s Mars and the other’s Pluto hold opposite ends of the zodiac, within 6°. The Mars person brings directness and drive, the Pluto person depth and staying power, and each meets in the other the strength they use less. It describes a balance of power that two people work out between them."
   - q: "Is Mars opposite Pluto a dangerous aspect in synastry?"
-    a: "No aspect is dangerous, and none predicts how people will behave. This opposition describes two strong ways of using energy facing each other, which makes questions of power visible. A seesaw isn't a battlefield; clear agreements and taking turns keep it level."
+    a: "No aspect is dangerous, and none predicts how people will behave. This opposition describes two strong ways of using energy facing each other, which makes questions of power visible. A seesaw isn’t a battlefield; clear agreements and taking turns keep it level."
   - q: "Who holds the power in Mars opposite Pluto?"
     a: "Neither, by nature. Each tends to see the other as the strong one: the Pluto person sees force and speed, the Mars person sees depth and resolve. Power here is something to share and rebalance over time, not something a chart hands to one person."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the opposition, 180°, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 6°" }
 ---
-Two strong currents, facing each other: one pushes outward, the other pulls things down to the root. In Mars opposite Pluto in synastry, the whole width of the zodiac lies between one person's Mars and the other's Pluto, and the question running between them is how strength gets shared.
+Two strong currents, facing each other: one pushes outward, the other pulls things down to the root. In Mars opposite Pluto in synastry, a straight line across the zodiac joins one person's Mars to the other's Pluto, and the question running between them is how strength gets shared.
 
 ## What flows {#what-flows}
 

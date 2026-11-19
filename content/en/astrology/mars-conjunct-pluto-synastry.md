@@ -47,7 +47,7 @@ Neither is a verdict on anyone. Empowerment isn't domination, and assertion isn'
 Opened out to other angles, the same drive and depth behave differently:
 
 - **[Mars sextile Pluto in synastry](/astrology/mars-sextile-pluto-synastry/):** a working alliance, called on when a job needs it rather than always on.
-- **[Mars square Pluto in synastry](/astrology/mars-square-pluto-synastry/):** pace and depth pressing on each other from the side.
+- **[Mars square Pluto in synastry](/astrology/mars-square-pluto-synastry/):** a quarter-turn away, where speed and depth push at each other sideways.
 - **[Mars trine Pluto in synastry](/astrology/mars-trine-pluto-synastry/):** stamina shared across one element, steady instead of concentrated.
 - **[Mars opposite Pluto in synastry](/astrology/mars-opposite-pluto-synastry/):** the two strengths face to face, with power to keep level.
 
