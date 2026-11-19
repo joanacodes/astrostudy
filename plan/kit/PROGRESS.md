@@ -13,14 +13,15 @@ until 3:50 am Paris Friday 20th November" (= 02:50 UTC).
 - Dark mode: agent aaf1d65d39460ffb0 (commits its own files on the branch with [skip ci]).
 
 ## Running (agent ids, for SendMessage after a container restart)
-- dark mode aaf1d65d39460ffb0
-- syn[7] a70080ca10d5779f9 · syn[8] af7e9fe2ef71add1b · syn[9] ab76f94347b1fddbe · syn[10] a89e83515a8003955
-- syn[12] a926f8a62c95646d9 · sunmoon[0] leftovers + sunmoon[1] a494c02696a563f5a · overlay[0] abfe4f500b4dc3f63
-- done since restart: syn[4] leftovers + syn[11] (4d6c424)
-- next: syn[13], syn[14], syn[15], sunmoon[2..5], overlay[1..6], transit[0..3], cycles[0..2], t2concepts[0..4], t2tech, t2patterns, t2research[0..2], t2asteroids, stars, then tier 3
+- syn[7] a70080ca10d5779f9 · syn[9] ab76f94347b1fddbe · syn[12] a926f8a62c95646d9 · syn[13] a2c391fafeb68ae45
+- syn[14] a65141d8a73370aa6 · syn[15] a6f9582a2f17106e1
+- sunmoon[0] leftovers (4 Sun in Taurus) + sunmoon[1] a494c02696a563f5a · overlay[0] abfe4f500b4dc3f63
+- done since restart: dark mode (4fdde73, 90b6ec6, 0f17d53) · syn[4] leftovers + syn[11] (4d6c424) · syn[8] (in WIP commits) · syn[10] (2707169)
+- next: sunmoon[2..5], overlay[1..6], transit[0..3], cycles[0..2], t2concepts[0..4], t2tech, t2patterns, t2research[0..2], t2asteroids, stars, then tier 3
 
 ## Publishing to main
 Worktree from origin/main; git merge --no-ff --no-commit origin/claude/astrostudy-website-tdhyzt; git rm the files of
 batches still being written; hugo build + node tools/check-links.mjs <out> + node tools/plan/check-entries.mjs --published;
 commit without [skip ci]; git push origin HEAD:main. Files left out last time and changed since may conflict: take the
-branch's version.
+branch's version. All of it in one command: bash plan/kit/publish-main.sh [--dry-run] "<title>" <batch:index | id>… (the
+running batches, left out).
