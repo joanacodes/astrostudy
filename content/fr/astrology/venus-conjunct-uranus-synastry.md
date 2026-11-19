@@ -22,7 +22,7 @@ faq:
     a: "Moins de 6° séparent la Vénus d’une personne et Uranus chez l’autre. La personne d’Uranus élargit ou réarrange souvent les goûts de l’autre, tandis que celle de Vénus apprécie justement ce qui rend la première différente. L’aspect décrit le goût et l’originalité qui travaillent ensemble, en couple, en amitié, en famille ou au travail."
   - q: "Vénus conjonction Uranus en synastrie, est-ce une attirance passagère ?"
     a: "Un angle ne me dit pas combien de temps dure quoi que ce soit, et je n’essaie pas de le deviner. Cette conjonction décrit une attirance mêlée de nouveauté, qui peut sembler soudaine. Qu’un lien garde son intérêt une fois la nouveauté retombée dépend des deux adultes, pas d’Uranus."
-  - q: "Qui ressent le plus Vénus conjonction Uranus ?"
+  - q: "Qui change le plus avec Vénus conjonction Uranus ?"
     a: "Chacune ressent autre chose. La personne de Vénus remarque souvent que ses goûts bougent, avec plaisir et parfois avec une secousse. Celle d’Uranus se sent appréciée pour des traits qui la mettent d’habitude à part, puis sent parfois une pression à continuer de surprendre. Les deux côtés méritent d’être entendus."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "ses aspects, où une rencontre au même endroit ne compte pas comme un aspect à part entière" }

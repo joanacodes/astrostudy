@@ -32,7 +32,7 @@ Some people never need to be told that your bluntness is a kind of honesty, or t
 
 ## What flows {#what-flows}
 
-[Venus](/astrology/venus/) is the part of a person that values and chooses: attraction, preference, the eye for what's good, and fairness in what's given and returned. [Black Moon Lilith](/astrology/black-moon-lilith/) is a calculated point, the Moon's apogee, whose meaning differs between traditions; I read it as what someone learned to keep out of view, their instinct for autonomy and their own relation to power. A [trine](/astrology/trine/) keeps two functions in easy flow, each keeping its identity. In [synastry aspects](/astrology/synastry-aspects/), each of you carries one of them, so the ease runs between you.
+[Venus](/astrology/venus/) is the part of a person that values and chooses: attraction, preference, the eye for what's good, and fairness in what's given and returned. [Black Moon Lilith](/astrology/black-moon-lilith/) is a calculated point, the Moon's apogee, whose meaning differs between traditions; I read it as what someone learned to keep out of view, their instinct for autonomy and their own relation to power. A [trine](/astrology/trine/) lets two functions run together easily, neither losing its identity. In [synastry aspects](/astrology/synastry-aspects/), each of you carries one of them, so the ease runs between you.
 
 For the one whose Lilith it is, there's no case to make. With the Venus in Aries and the Lilith in Sagittarius, both fire signs, a taste for the direct and the brave meets a refusal to believe what one is told, and the Venus person likes that refusal on sight. You can disagree with everyone else in the room and look across to find them pleased.
 

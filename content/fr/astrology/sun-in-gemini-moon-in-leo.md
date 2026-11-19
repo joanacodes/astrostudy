@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 29
 glyph: "☉♊☽♌"
-definition: "Soleil en Gémeaux, Lune en Lion met la Lune dans le feu, deux signes après le Soleil, dans la première semaine d’un mois lunaire ; comme le Soleil gouverne le Lion, cette Lune répond à votre Soleil en Gémeaux. J’y lis un esprit vif et un cœur chaud : des mots qui veulent plaire, des besoins qui veulent être vus."
+definition: "Soleil en Gémeaux, Lune en Lion place la Lune deux signes devant le Soleil, en signe de feu, dans la première semaine d’un mois lunaire ; comme le Soleil gouverne le Lion, cette Lune répond à votre Soleil en Gémeaux. J’y lis un esprit vif et un cœur chaud : des mots qui veulent plaire, des besoins qui veulent être vus."
 facts:
   - { k: "Signe solaire", v: "Gémeaux ♊, gouvernés par Mercure" }
   - { k: "Signe lunaire", v: "Lion ♌, gouverné par le Soleil" }
@@ -23,7 +23,7 @@ faq:
   - q: "Pourquoi mon Soleil gouverne-t-il ma Lune avec le Soleil en Gémeaux et la Lune en Lion ?"
     a: "Dans l’ancien système des maîtrises, le Soleil gouverne le Lion : il est donc le maître du signe de votre Lune. Dans votre thème, le Soleil est en Gémeaux, signe de Mercure, si bien que ce qui réchauffe cette Lune, c’est la reconnaissance de votre façon de penser, de parler et de relier. La maison du Soleil parle donc à la fois de votre but et du maître de votre Lune."
   - q: "La Lune était-elle un croissant à une naissance Soleil en Gémeaux, Lune en Lion ?"
-    a: "Presque toujours. Deux jours et demi à sept jours environ s’étaient écoulés depuis la nouvelle lune, et un croissant brillait à l’ouest après le coucher du Soleil. Seules les toutes premières de ces naissances tombent encore dans la phase de nouvelle lune du découpage en huit phases ; les autres sont des naissances de croissant."
+    a: "Presque toujours. Deux jours et demi à sept jours environ s’étaient écoulés depuis la nouvelle lune, et un croissant se montrait au couchant. Seules les toutes premières de ces naissances restent, pour le découpage en huit phases, dans la nouvelle lune ; les autres sont des naissances de croissant."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "Mercure maître des Gémeaux, le Soleil maître du Lion" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et l’avance de la Lune sur le Soleil" }
@@ -39,7 +39,7 @@ Le maître du Lion est le [Soleil](/astrology/sun/) lui-même, et cela forme ici
 
 Deux jours et demi à sept jours environ s’étaient écoulés depuis la nouvelle lune, et la Lune avait 31° à 89° d’avance sur le Soleil, se couchant chaque soir un peu plus tard à l’ouest. Les huit phases rangent la grande majorité de ces naissances dans le [premier croissant](/astrology/waxing-crescent/) et les toutes premières dans la phase de [nouvelle lune](/astrology/new-moon/) ; vers 60° d’avance, les deux luminaires forment un [Soleil sextile Lune](/astrology/sun-sextile-moon/) croissant. Le croissant, comme je le lis, est la phase où les besoins commencent à suivre leur propre chemin, et une Lune en Lion le fait avec un certain panache. [Votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) dit où passent ses limites.
 
-Environ 1 personne sur 138 partage ce duo. La Lune traverse le Lion en deux jours et demi environ, arrivant du Cancer et repartant vers la Vierge : un jour de passage, l’heure de naissance choisit entre cette page, le [Soleil en Gémeaux, Lune en Cancer](/astrology/sun-in-gemini-moon-in-cancer/) et le [Soleil en Gémeaux, Lune en Vierge](/astrology/sun-in-gemini-moon-in-virgo/) ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/#la-lune)). C’est aussi cette heure qui fixe l’ascendant et les maisons, et une Lune en Lion mérite de savoir dans quelle maison elle brille avant qu’on la lise.
+Environ 1 personne sur 138 partage ce duo. Le Lion n’est qu’une étape de deux jours et demi environ sur le chemin de la Lune, du Cancer à la Vierge : un jour de passage, c’est l’heure de naissance qui désigne la bonne page, celle-ci, le [Soleil en Gémeaux, Lune en Cancer](/astrology/sun-in-gemini-moon-in-cancer/) ou le [Soleil en Gémeaux, Lune en Vierge](/astrology/sun-in-gemini-moon-in-virgo/) ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/#la-lune)). C’est aussi cette heure qui fixe l’ascendant et les maisons, et une Lune en Lion mérite de savoir dans quelle maison elle brille avant qu’on la lise.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 

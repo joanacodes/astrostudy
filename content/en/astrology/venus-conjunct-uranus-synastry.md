@@ -21,7 +21,7 @@ faq:
     a: "One person’s Venus and the other’s Uranus fall within 6° of each other. The Uranus person tends to widen or rearrange the other’s tastes, while the Venus person tends to like exactly what makes the Uranus person different. It describes taste and originality working as one, between partners, friends, relatives or colleagues."
   - q: "Is Venus conjunct Uranus in synastry just a passing attraction?"
     a: "I can’t tell how long anything lasts from an angle, and I don’t try. The conjunction describes attraction mixed with novelty, which can feel sudden. Whether a bond keeps its interest once the newness settles depends on the two adults, not on Uranus."
-  - q: "Which person feels Venus conjunct Uranus more?"
+  - q: "Who changes more with Venus conjunct Uranus?"
     a: "They feel different things. The Venus person often notices their tastes shifting, with pleasure and sometimes with a jolt. The Uranus person tends to feel appreciated for qualities that usually make them the odd one out, and may then feel some pressure to keep surprising. Both sides deserve a hearing."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "his aspects, which count a meeting in one place as no aspect of its own" }

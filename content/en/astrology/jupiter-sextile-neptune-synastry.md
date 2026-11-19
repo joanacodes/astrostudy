@@ -18,9 +18,9 @@ facts:
 related: ["/astrology/jupiter", "/astrology/neptune", "/astrology/sextile", "/astrology/jupiter-sextile-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Jupiter sextile Neptune mean in synastry?"
-    a: "About 60° lie between one person’s Jupiter and the other’s Neptune, within 3°, usually two signs apart. One person gives ideals a direction, the other gives plans an image and a heart. It’s an easy link that works only when the pair actually makes something of it."
+    a: "Two signs apart as a rule, one person’s Jupiter and the other’s Neptune form a 60° angle, within 3°. One person gives ideals a direction, the other gives plans an image and a heart. It’s an easy link that works only when the pair actually makes something of it."
   - q: "Who has Jupiter sextile Neptune in synastry?"
-    a: "The birth dates set it, generously: a person born in mid-2005, for instance, shares it with everyone born between November 1973 and January 1976. That’s why it describes two eras more than two people, and why its place in my readings is the houses."
+    a: "The birth dates set it, generously: a person born in mid-2005, for instance, shares it with everyone born between November 1973 and January 1976. That’s why it describes two eras more than two people, and why I read it in the houses rather than as a bond."
   - q: "Can Jupiter sextile Neptune help a creative partnership?"
     a: "It can make it easier for one person’s ideals and the other’s sense of purpose to meet, but a sextile needs effort to become anything, and no single contact decides a partnership. Setting dates and limits does more than the aspect does."
 sources:
@@ -41,15 +41,15 @@ Whoever has the Neptune tends to feel that their inspiration finally has an addr
 
 ## Where it rubs {#where-it-rubs}
 
-Potential isn't realisation, and this sextile can stay a lovely conversation. Two people can dream together for years without starting, each waiting for the other to make it real. Neptune's blind spot, confusing compassion with unlimited availability, can meet a Jupiter that keeps adding good causes; between them, they can promise more help than any pair can give.
+Potential isn't realisation, and this sextile can stay a lovely conversation. Two people can dream together for years without starting, each waiting for the other to make it real. Neptune's blind spot, confusing compassion with unlimited availability, can meet a Jupiter that keeps adding good causes; between them, they can promise more help than any pair can give. Neptune can also take a symbol for a promise, as if a shared intuition meant the plan was meant to be; a sextile never says that, it only offers.
 
 Its relatives are louder or easier. [Jupiter conjunct Neptune in synastry](/astrology/jupiter-conjunct-neptune-synastry/) fuses belief and ideal into one; [Jupiter square Neptune in synastry](/astrology/jupiter-square-neptune-synastry/) makes them argue at right angles; [Jupiter trine Neptune in synastry](/astrology/jupiter-trine-neptune-synastry/) lets them flow in one element; [Jupiter opposite Neptune in synastry](/astrology/jupiter-opposite-neptune-synastry/) sets conviction facing longing.
 
 ## How to meet it {#how-to-meet-it}
 
-Give a dream a date. Pick one shared thing to make or do, a piece of music, a fundraiser, a garden for the street, a course you'll teach together, and put it in the calendar. Decide in advance how much time and help each of you can give, so generosity doesn't turn into exhaustion. Friends, couples, siblings and colleagues can all use it the same way.
+Give a dream a date. Pick one shared thing to make or do, a piece of music, a fundraiser, a garden for the street, a course you'll teach together, and put it in the calendar. Decide who takes the first concrete step, and when. Decide too how much time and help each of you can give, so generosity doesn't turn into exhaustion. Any adult pair can try it: a couple, two friends, siblings, a team of two at work.
 
-Here the dates are generous. A person born in mid-2005 has Jupiter sextile the Neptune of anyone born between November 1973 and January 1976; the other way round, their Neptune takes the sextile from the Jupiter of people born between February and June 2007, barely two years younger. I don't put it on the list of a synastry's aspects, which I keep for contacts with the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven; a sextile between two slow planets goes to the houses, where it describes two eras' imaginations meeting more than two people.
+Here the dates are generous. A person born in mid-2005 has Jupiter sextile the Neptune of anyone born between November 1973 and January 1976; in the opposite direction, people born between February and June 2007, barely two years younger, have Jupiter sextile that person's Neptune. I don't put it on the list of a synastry's aspects, which I keep for contacts with the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven; a sextile between two slow planets goes to the houses, where it describes two eras' imaginations meeting more than two people.
 
 With Neptune taking some 165 years to circle the zodiac, no birth hour changes this sextile, but the hour does set the houses it lands in, so I need both ([what changes without a birth time](/blog/unknown-birth-time/)).
 

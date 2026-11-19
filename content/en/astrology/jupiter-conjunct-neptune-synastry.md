@@ -41,7 +41,7 @@ Bring the Neptune, and your longings meet someone who can name them. Your imagin
 
 ## Where it rubs {#where-it-rubs}
 
-Fused, belief and imagination can inflate each other. Neither function is at fault, and idealisation isn't delusion, but a pair can start confusing resonance with truth: if it feels this meaningful to both of you, it must be right. Jupiter can mistake a shared conviction for wisdom; Neptune can mistake empathy for accurate knowledge of the other person. The blur is real too: whose ideal is this, and who is carrying whose hope?
+Fused, belief and imagination can inflate each other. Neither function is at fault, and idealisation isn't delusion, but a pair can start confusing resonance with truth: if it feels this meaningful to both of you, it must be right. Jupiter can mistake a shared conviction for wisdom; Neptune can take imagination for evidence. The blur is real too: whose ideal is this, and who is carrying whose hope?
 
 Spread out at other angles:
 

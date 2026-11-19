@@ -21,7 +21,7 @@ faq:
     a: "Venus in one chart and Saturn in the other sit about 120° apart, typically in signs of one element. The Venus person tends to enjoy the other’s reliability, and the Saturn person finds it easy to commit to what the Venus person values. It describes affection and dependability keeping step, in a couple, a friendship, a family or a team."
   - q: "Does Venus trine Saturn mean a relationship will last?"
     a: "No contact can say that, and I never read one as a forecast. This trine describes ease between what one person values and the other’s way of committing, which is pleasant to live with. How long any bond lasts depends on the two adults in it, not on an angle."
-  - q: "What can go wrong with Venus trine Saturn?"
+  - q: "What does the ease of Venus trine Saturn leave out?"
     a: "Mostly what the ease lets you skip. Arrangements that suited both of you at the start can carry on long after anyone has asked whether they still fit, and the Venus person may adopt the other’s standards as their own taste without noticing. A yearly look at your routines, together, is usually enough."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, 120°, which he counts among the harmonious aspects" }

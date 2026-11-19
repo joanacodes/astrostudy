@@ -21,9 +21,9 @@ faq:
   - q: "Une Lune en Taureau ralentit-elle un Soleil en Gémeaux ?"
     a: "Elle le stabilise plus qu’elle ne le ralentit. Le Soleil en Gémeaux mène de front plusieurs intérêts et plusieurs conversations ; la Lune en Taureau, exaltée dans son signe, s’apaise par la routine, le corps et les réconforts familiers. Ce duo pense souvent vite et ressent au pas, et se porte au mieux quand les deux vitesses sont respectées."
   - q: "Quelles planètes comptent le plus avec le Soleil en Gémeaux et la Lune en Taureau ?"
-    a: "Mercure, maître des Gémeaux, pour votre façon de penser et de parler, et Vénus, maîtresse du Taureau, pour ce qui vous réconforte et ce qui compte pour vous. Les deux voyagent près du Soleil, et avec un Soleil en Gémeaux, chacune de ces planètes peut se trouver en Taureau, le signe de votre Lune. Je regarde leur place avant presque tout le reste."
+    a: "Mercure, maître des Gémeaux, pour votre manière de réfléchir et de vous exprimer, et Vénus, maîtresse du Taureau, pour ce qui vous réconforte et ce qui compte pour vous. Les deux voyagent près du Soleil, et avec un Soleil en Gémeaux, chacune de ces planètes peut se trouver en Taureau, le signe de votre Lune. Je regarde leur place avant presque tout le reste."
   - q: "À quel moment du cycle lunaire tombe une naissance Soleil en Gémeaux, Lune en Taureau ?"
-    a: "Dans ses derniers jours, au plus cinq jours avant une nouvelle lune. La Lune était 1° à 60° derrière le Soleil : un fin croissant à l’aube, ou plus de Lune visible du tout. Presque toutes ces naissances sont balsamiques dans le découpage en huit phases ; les plus précoces relèvent du dernier quartier."
+    a: "Dans ses derniers jours, au plus cinq jours avant une nouvelle lune. La Lune était 1° à 60° derrière le Soleil : un fin croissant à l’aube, ou plus de Lune visible du tout. Dans les huit phases, presque toutes sont balsamiques ; seules les premières appartiennent encore au dernier quartier."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "Mercure maître des Gémeaux, Vénus maîtresse du Taureau, et l’exaltation de la Lune en Taureau" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et le retard de la Lune sur le Soleil" }

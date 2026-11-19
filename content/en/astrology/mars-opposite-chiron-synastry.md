@@ -32,7 +32,7 @@ One of you goes straight at a thing; the other has learned that some things only
 
 ## What flows {#what-flows}
 
-[Mars](/astrology/mars/) is the direct way: initiative, effort, assertion, competing openly, holding a limit. [Chiron](/astrology/chiron/) is the way round: adapting to a limit that persists, compensating, building skill through repeated practice until something becomes possible after all. An [opposition](/astrology/opposition/) sets the two as poles of one axis, and among the pair's [synastry aspects](/astrology/synastry-aspects/), this is the mirror.
+[Mars](/astrology/mars/) goes straight at things: initiative, effort, assertion, competing openly, holding a limit. [Chiron](/astrology/chiron/) is the way round: adapting to a limit that persists, compensating, building skill through repeated practice until something becomes possible after all. An [opposition](/astrology/opposition/) sets the two as poles of one axis, and among the pair's [synastry aspects](/astrology/synastry-aspects/), this is the mirror.
 
 Across from your Mars, the other person can teach you that a closed door sometimes has a window: their patience with a limit, their inventive workarounds, their sense of what effort really costs. Across from your Chiron, the other person can show you what it looks like to act without first proving you're entitled to: to try the direct route now and then, and find it holds.
 
@@ -42,7 +42,7 @@ Opposite signs move the same way and fill in each other's element: Mars in Pisce
 
 The mirror can be uncomfortable. If the Mars is yours, the other person's tender place may stir your own, and you may push harder, or rush to rescue, rather than sit with it. If the Chiron is yours, their directness can land right where you're tender, and you may defer to it, or bristle against it, instead of offering your own method.
 
-When the roles freeze, the pair can settle into a story of the strong one and the one with the limit. It's the wrong story. Adapting is a strength, and support is not dependence; an opposition is a balance, not a ranking.
+When the roles freeze, the pair can settle into a story of the strong one and the one with the limit. It's the wrong story. Adapting is a strength, and leaning on someone now and then is not the same as depending on them; an opposition is a balance, not a ranking.
 
 Turned to the pair's other angles:
 
@@ -57,4 +57,4 @@ Take turns teaching. Let the Chiron person lead where their methods work better,
 
 About 1 pair of people in 15, one way round or the other, has this opposition within 6°, a little more often than the conjunction. The Chiron end of the mirror is a matter of birth years, how many depending on the sign; the Mars end, set within a few weeks, places these two face to face. The houses decide which areas of life the mirror shows, and they need both times ([what changes without a birth time](/blog/unknown-birth-time/)). In my notebook Saturn, Lilith and Chiron held 75 to 90% of the time, each read in someone's own chart; contacts between two people I never counted, so I give this one no figure, only care ([the three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)). Because it touches what someone guards, a reading of it needs a yes from each of you ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
 
-In a single chart, [Mars opposite Chiron](/astrology/mars-opposite-chiron/) is someone who keeps catching sight of their tender place in other people's pushes. Between two charts, those pushes are real, and so is the chance to answer them.
+Inside one chart, [Mars opposite Chiron](/astrology/mars-opposite-chiron/) belongs to someone who keeps catching sight of their tender place in other people's pushes. Between two charts, those pushes are real, and so is the chance to answer them.

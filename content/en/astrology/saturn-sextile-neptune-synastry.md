@@ -58,4 +58,4 @@ Two examples from the count: someone born in mid-1965 has it with anyone born be
 
 The houses come from both birth times; the sextile itself doesn't shift with the hour ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Within a single chart, [Saturn sextile Neptune](/astrology/saturn-sextile-neptune/) is a person's own bridge between the possible and the practical. Between two, one person holds each end of the bridge, and the reading needs both of them ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Within a single chart, [Saturn sextile Neptune](/astrology/saturn-sextile-neptune/) is a person whose own ideals and routines already trade with each other. Between two, one person brings each half of the trade, and the reading needs both of them ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

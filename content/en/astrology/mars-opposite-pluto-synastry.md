@@ -35,7 +35,7 @@ Two strong currents, facing each other: one pushes outward, the other pulls thin
 
 Facing your Mars, the other person's Pluto can teach you depth and patience: that some things change only when you stop pushing and look underneath. Facing your Pluto, their Mars can teach you directness and speed: that a decision you've weighed for months can simply be made. Together you cover both kinds of strength, quick and deep.
 
-Opposite signs move in the same manner and want complementary things. Mars in Taurus opposite Pluto in Scorpio, both fixed, sets steady endurance across from an urge for root-and-branch change; Mars in Aries opposite Pluto in Libra, both cardinal, a go-it-alone push across from a deep wish to remake how partnership works.
+Opposite signs move in the same manner and want complementary things. Mars in Aquarius opposite Pluto in Leo, both fixed, sets an inventive, independent push across from an urge to rebuild pride and creativity from the root; Mars in Aries opposite Pluto in Libra, both cardinal, a go-it-alone push across from a deep wish to remake how partnership works.
 
 ## Where it rubs {#where-it-rubs}
 

@@ -48,11 +48,11 @@ Measured from the trine, the other four contacts:
 - **[Mars conjunct Chiron in synastry](/astrology/mars-conjunct-chiron-synastry/):** the drive sits right on the tender place, where pace matters most.
 - **[Mars sextile Chiron in synastry](/astrology/mars-sextile-chiron-synastry/):** two signs nearer, the same help waits for a request.
 - **[Mars square Chiron in synastry](/astrology/mars-square-chiron-synastry/):** a sign nearer, and the push starts catching instead of gliding.
-- **[Mars opposite Chiron in synastry](/astrology/mars-opposite-chiron-synastry/):** two signs further, each person sees in the other what they practise less.
+- **[Mars opposite Chiron in synastry](/astrology/mars-opposite-chiron-synastry/):** two signs further, the pair turns into a mirror of opposite approaches.
 
 ## How to meet it {#how-to-meet-it}
 
-Ask about the cost, kindly and now and then: "Is this still working for you, or are you keeping up for my sake?" The Chiron person can answer honestly, including on the days the answer is no. Long collaborations suit this trine: a coaching or mentoring pair at work, friends training for something over months, adult siblings sharing the care of a family project.
+Ask about the cost, kindly and now and then: "Is this still working for you, or are you keeping up for my sake?" The Chiron person can answer honestly, including on the days the answer is no. This trine does well in long collaborations: a coaching or mentoring pair at work, friends training for something over months, adult siblings sharing the care of a family project.
 
 Within 5.1°, one way round or the other, about 1 pair of people in 9 has the trine, as many as have the square. The Chiron half belongs to a span of birth years, short or long depending on the sign, because Chiron races through some signs and lingers in others; the Mars half, set by a birthday within a few weeks, is what makes this pair rather than their whole age group. Neither moves enough in a day for the hour to count, short of a trine on the limit of its orb; as for the houses, where the support is felt in each life, they need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 

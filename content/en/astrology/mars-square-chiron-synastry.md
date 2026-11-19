@@ -32,7 +32,7 @@ One of you pushes, and keeps catching something the other never mentioned. In Ma
 
 ## What flows {#what-flows}
 
-[Mars](/astrology/mars/) carries a person's drive: the will to begin, to compete, to hold a line and see it through. [Chiron](/astrology/chiron/) carries what they've learned about a limit that stays: how to adapt the pace, the method or the setting so they can still take part. A [square](/astrology/square/) makes two functions catch on each other until something adapts, and among the [synastry aspects](/astrology/synastry-aspects/), this one makes the adapting a shared job.
+[Mars](/astrology/mars/) carries a person's drive: getting started, measuring up, defending a line, finishing what they begin. [Chiron](/astrology/chiron/) carries what they've learned about a limit that stays: how to change the way they go about things so they can still join in. A [square](/astrology/square/) makes two functions catch on each other until something adapts, and among the [synastry aspects](/astrology/synastry-aspects/), this one makes the adapting a shared job.
 
 What the friction produces, given time, is better methods. The Mars person learns pacing: that a push lands differently when it's asked for, and that effort split into smaller steps often gets further. The Chiron person learns to name the limit out loud, early, and to ask for the adjustment that works instead of quietly coping.
 
@@ -40,11 +40,11 @@ Their shared modality sets where it catches: in cardinal signs, as with Mars in 
 
 ## Where it rubs {#where-it-rubs}
 
-If the Mars is yours, your effort keeps snagging on something invisible. You suggest, encourage, push the way that works for you, and the other person flinches or withdraws. It's easy to feel blamed for a sore spot you didn't know was there, or to conclude you can't do anything right.
+From the Mars side, effort keeps snagging on something invisible. You suggest, encourage, push the way that works for you, and the other person flinches or withdraws. It's easy to feel blamed for a sore spot you didn't know was there, or to conclude you can't do anything right.
 
 If the Chiron is yours, the other person's energy keeps arriving where you're tender, sometimes in the very area where you've built your best workarounds, and their push can seem to dismiss them. A recurring sensitivity is not a failure, and a different method is not a lesser one.
 
-It predicts no injury or illness, either; I don't read charts for health ([Can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)).
+This square predicts no injury or illness, either; I don't read charts for health ([Can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)).
 
 From this angle, the pair's other contacts:
 
@@ -57,6 +57,6 @@ From this angle, the pair's other contacts:
 
 Name the limit before it's hit. The Chiron person can say plainly where the sore spot is and what helps; the Mars person can ask "help or space?" before pressing on it, and adapt the plan rather than abandon it. Teams can agree how tasks are done as well as when; an adult child and a parent can renegotiate old expectations one at a time.
 
-Square and trine are the pair's commonest contacts, each found in about 1 pair of people in 9, one way round or the other, within 5.1°. The Chiron person shares their side of it with a whole stretch of birth years, longer in some signs than in others on Chiron's lopsided orbit; the Mars person's birthday makes the contact theirs. The hour barely moves either body; the houses, where the catching happens, need both times ([what changes without a birth time](/blog/unknown-birth-time/)). In my notebook, Chiron was one of the three placements that held far more often than the rest, read in single charts, which is a reason for care with this contact, not a number for it ([the three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)). It's for two people who have both asked to hear it ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Square and trine are the pair's commonest contacts, each found in about 1 pair of people in 9, one way round or the other, within 5.1°. The Chiron person shares their side of it with a whole stretch of birth years, longer in some signs than in others on Chiron's lopsided orbit; the Mars person's birthday makes the contact theirs. The hour barely moves either body; it's the houses, where the catching happens, that can't be placed without both times ([what changes without a birth time](/blog/unknown-birth-time/)). In my notebook, Chiron was one of the three placements that held far more often than the rest, read in single charts, which is a reason for care with this contact, not a number for it ([the three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)). It's for two people who have both asked to hear it ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
 
 Within a single birth chart, [Mars square Chiron](/astrology/mars-square-chiron/) describes someone whose own push keeps meeting their own limit. Here the push and the limit belong to two people, who can talk about it.

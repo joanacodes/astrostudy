@@ -32,7 +32,7 @@ Venus never strays more than about 47° from the Sun, so if your Venus sits on s
 
 ## What flows {#what-flows}
 
-[Venus](/astrology/venus/) is how a person values and relates: who and what attracts them, what they prefer, their pleasures, their sense of a fair exchange. The [North Node](/astrology/north-node/) marks a capacity someone is still building, less familiar and less automatic, that grows through practice and feedback; the [South Node](/astrology/south-node/), exactly opposite, holds what they've long done well. A [conjunction](/astrology/conjunction/) fuses two functions into one process, and in [synastry aspects](/astrology/synastry-aspects/) each person carries one of them.
+[Venus](/astrology/venus/) is how a person values and relates: who and what attracts them, what they prefer, their pleasures, their sense of a fair exchange. The [North Node](/astrology/north-node/) marks a capacity someone is still building, less familiar and less automatic, that grows through practice and feedback; the [South Node](/astrology/south-node/), exactly opposite, holds what they've long done well. A [conjunction](/astrology/conjunction/) binds two functions into one process, and in [synastry aspects](/astrology/synastry-aspects/) each person carries one of them.
 
 Carrying the node, you meet someone whose ordinary manner is your homework. Say your North Node is in Libra, where the work is sharing decisions after a long habit of making them alone, and the other's Venus is in Libra too, in its own sign: their easy way of asking what you'd like, of splitting a choice, of making room, is exactly what you're practising. Around them it looks possible, and it looks pleasant.
 

@@ -36,7 +36,7 @@ Deux courants puissants, face à face : l’un pousse vers l’extérieur, l’
 
 Si Mars est chez vous, Pluton, chez l’autre, peut vous apprendre la profondeur et la patience : certaines choses ne changent que lorsqu’on arrête de pousser pour regarder dessous. Si Pluton est chez vous, Mars, chez l’autre, peut vous apprendre la franchise et la vitesse : une décision pesée pendant des mois peut tout simplement se prendre. Ensemble, vous couvrez les deux sortes de force, la rapide et la profonde.
 
-Des signes opposés avancent de la même manière et veulent des choses complémentaires. Mars en Taureau opposition Pluton en Scorpion, deux signes fixes : une endurance régulière face à une envie de changement de fond en comble. Mars en Bélier opposition Pluton en Balance, deux signes cardinaux : une poussée solitaire face à un profond désir de refaire la façon dont on vit à deux.
+Des signes opposés avancent de la même manière et veulent des choses complémentaires. Mars en Verseau opposition Pluton en Lion, deux signes fixes : une poussée inventive et indépendante face à une envie de rebâtir la fierté et la création jusqu’à la racine. Mars en Bélier opposition Pluton en Balance, deux signes cardinaux : une poussée solitaire face à un profond désir de refaire la façon dont on vit à deux.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

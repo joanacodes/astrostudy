@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 6°" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "Chiron by sign and house in single charts; no count of contacts between two" }
 ---
-Imagine the friend who signs you both up for the very thing you'd quietly decided wasn't for you. Mars conjunct Chiron in synastry can feel like that from one side, and like finally being taken seriously from the other, when one person's Mars lands within 6° of the other's Chiron.
+Imagine the friend who signs you both up for the very thing you'd quietly decided wasn't for you. That's how Mars conjunct Chiron in synastry can feel from one side; from the other, it can feel like being trusted with a real part of someone. One person's Mars lands within 6° of the other's Chiron.
 
 ## What flows {#what-flows}
 
@@ -40,7 +40,7 @@ Take Mars in Aries on Chiron in Aries: a quick, go-first drive meeting a sensiti
 
 ## Where it rubs {#where-it-rubs}
 
-On one degree, whose limit is it? The Mars person can start treating the other's tender place as a problem to fix, and push harder than was ever asked. The Chiron person can hide the effort it costs to keep up, so the other never learns how much adapting is going on. Needing support isn't the same as being incapable, and a limit that comes back isn't a failure.
+Whose limit is it, when the two share a degree? The Mars person may begin to treat the other's tender place as a problem to fix, and push harder than was ever asked. The Chiron person can hide the effort it costs to keep up, so the other never learns how much adapting is going on. Needing support isn't the same as being incapable, and a limit that comes back isn't a failure.
 
 Where [Mars conjunct Saturn in synastry](/astrology/mars-conjunct-saturn-synastry/) meets a limit being set, this one meets a limit already there, to be worked around rather than removed. The other angles:
 

@@ -49,7 +49,7 @@ The square isn't failure, and competing isn't hostility. It rubs most when each 
 
 Agree the size before the work. One sentence each, "what's it for?" and "what's the first step?", settles more than a long debate. Let the Jupiter person set the aim and the Mars person the pace, then check both halfway. In a couple, that can be the renovation scoped before the first tin of paint; between friends, the trip planned with a purpose and an honest count of energy; in a family, a cause one relative cares about and another can actually help with; at work, the strategy meeting that ends with someone's name next to a task.
 
-About 1 pair of people in 9 has this square, one way round or the other, within 5.1°. In Placidus, the house system I use, an hour's difference in either birth can move a planet across a house cusp, so where in each life the testing happens depends on both times; whether the square exists, the hour rarely changes ([what changes without a birth time](/blog/unknown-birth-time/)).
+This square is common: within 5.1°, about 1 pair of people in 9 has it, one way round or the other. In Placidus, the house system I use, an hour's difference in either birth can move a planet across a house cusp, so where in each life the testing happens depends on both times; whether the square exists, the hour rarely changes ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Inside one chart, [Mars square Jupiter](/astrology/mars-square-jupiter/) is a single person's effort and belief sizing each other up. Between two, the pair's other contacts:
 

@@ -31,7 +31,7 @@ Ask this pair why they took the project on and you'll get two answers that fit: 
 
 ## What flows {#what-flows}
 
-[Mars](/astrology/mars/) is effort with a direction: initiative, assertion, courage, follow-through. [Jupiter](/astrology/jupiter/) is the reach for meaning: principles, beliefs, learning, growth. A [trine](/astrology/trine/) keeps two functions in easy flow, each strengthening the other while staying itself. Shared across two charts, as in all [synastry aspects](/astrology/synastry-aspects/), the flow becomes a habit of cooperation.
+[Mars](/astrology/mars/) is effort with a direction: initiative, assertion, courage, follow-through. [Jupiter](/astrology/jupiter/) is the reach for meaning: principles, beliefs, learning, growth. A [trine](/astrology/trine/) lets two functions flow together, each feeding the other and keeping its own job. Shared across two charts, as in all [synastry aspects](/astrology/synastry-aspects/), the flow becomes a habit of cooperation.
 
 One person's Mars in Gemini with the other's Jupiter in Aquarius, both air: quick, talkative effort meets a sense of meaning that lives in groups, ideas and causes. The Mars person writes the leaflet in an evening; the Jupiter person knows exactly who it's for.
 
@@ -47,6 +47,6 @@ The other snag is quieter. The Mars person's energy can become the standing engi
 
 Invite a third voice. Before a big shared commitment, ask someone outside the pair, a friend, a colleague, a slower thinker, what they'd question. Name what each of you brings, the effort and the reason, so neither turns into background. In a couple, this trine might run a household full of projects; between friends, a long tradition of trips and causes; between adult siblings, the ones who organise everyone else; at work, a pairing that clients enjoy. All of these last longer when someone sometimes says "not this one".
 
-About 1 pair of people in 9 has this trine, one way round or the other, within 5.1°, as many as have the square. The trine doesn't hang on the hour, since Mars takes a day or two to move a degree. The houses do: a trine falling in one person's 6th house, the house of daily work, reads differently from one in their 9th, the house of study and travel, so I wait for both times ([what changes without a birth time](/blog/unknown-birth-time/)).
+About 1 pair of people in 9 has this trine, one way round or the other, if you allow 5.1°. The trine doesn't hang on the hour, since Mars takes a day or two to move a degree. The houses do: a trine falling in one person's 6th house, the house of daily work, reads differently from one in their 9th, the house of study and travel, so I wait for both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 In one chart, [Mars trine Jupiter](/astrology/mars-trine-jupiter/) makes a person's own effort and conviction easy partners. Between two charts, [Mars conjunct Jupiter in synastry](/astrology/mars-conjunct-jupiter-synastry/) lands the push on the belief itself, [Mars sextile Jupiter in synastry](/astrology/mars-sextile-jupiter-synastry/) offers a lighter cooperation that needs a starter, [Mars square Jupiter in synastry](/astrology/mars-square-jupiter-synastry/) turns the ease into a debate about size, and [Mars opposite Jupiter in synastry](/astrology/mars-opposite-jupiter-synastry/) stretches the two across a seesaw.
