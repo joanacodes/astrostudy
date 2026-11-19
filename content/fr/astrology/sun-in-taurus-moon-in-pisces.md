@@ -1,0 +1,54 @@
+---
+title: "Soleil en Taureau, Lune en Poissons"
+slug: "soleil-en-taureau-lune-en-poissons"
+h1: "Soleil en Taureau, Lune en Poissons dans un thème natal"
+description: "Soleil en Taureau, Lune en Poissons : Vénus chez elle dans un signe, exaltée dans l’autre, une naissance après le dernier quartier. Les sens et l’imaginaire."
+date: 2026-11-19
+reviewed: 2026-11-19
+family: "combinations"
+weight: 24
+glyph: "☉♉☽♓"
+definition: "Soleil en Taureau, Lune en Poissons forme un sextile par signe, la Lune deux signes derrière le Soleil, pour une naissance vingt-deux à vingt-sept jours après une nouvelle lune. Vénus gouverne l’un des signes et a son exaltation dans l’autre. J’y lis les sens et l’imaginaire réunis : un moi ancré, des besoins tendres qui rêvent."
+facts:
+  - { k: "Signe solaire", v: "Taureau ♉, gouverné par Vénus" }
+  - { k: "Signe lunaire", v: "Poissons ♓, gouvernés par Neptune et Jupiter ; signe de l’exaltation de Vénus" }
+  - { k: "Éléments", v: "Terre et eau" }
+  - { k: "Modes", v: "Fixe et mutable" }
+  - { k: "Phase de naissance", v: "Après le dernier quartier : 22 à 27 jours après une nouvelle lune" }
+  - { k: "Fréquence", v: "Environ 1 personne sur 138 née entre 1930 et 2009" }
+related: ["/astrology/sun-in-taurus", "/astrology/moon-in-pisces", "/astrology/neptune", "/astrology/last-quarter-moon", "/astrology/sun-sextile-moon"]
+faq:
+  - q: "Pourquoi Vénus est-elle si importante avec le Soleil en Taureau et la Lune en Poissons ?"
+    a: "Parce que la tradition l’honore dans les deux signes : Vénus gouverne le Taureau, le signe de votre Soleil, et a son exaltation dans les Poissons, celui de votre Lune. J’y lis le fil de ce duo, le plaisir et la beauté ressentis d’abord par le corps, puis par l’imaginaire, et je regarde tôt le signe et la maison de Vénus."
+  - q: "Un Soleil en Taureau avec une Lune en Poissons est-il sensible ?"
+    a: "Discrètement. Le Soleil en Taureau donne une surface calme et stable ; la Lune en Poissons, dessous, absorbe l’humeur des gens alentour et a besoin de douceur et de temps seule. Les deux s’entendent bien, mais ce que la Lune absorbe, le Soleil tend à le garder : des façons régulières de laisser partir la journée comptent beaucoup."
+  - q: "Dans quelle phase était la Lune à une naissance Soleil en Taureau, Lune en Poissons ?"
+    a: "Décroissante, après le dernier quartier : la Lune était 31° à 90° derrière le Soleil, vingt-deux à vingt-sept jours après le début du mois lunaire. Sept de ces naissances sur huit relèvent du dernier quartier dans les huit phases, les autres de la lune balsamique. Vers 60° de retard, les luminaires forment aussi un sextile décroissant."
+sources:
+  - { title: "Ptolémée, Tétrabible, livre I", note: "Vénus maîtresse du Taureau et exaltée dans les Poissons, et Jupiter maître des Poissons" }
+  - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et le retard de la Lune sur le Soleil" }
+  - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "la Lune décroissante après le dernier quartier" }
+---
+Vénus gouverne le signe de votre Soleil, et les Poissons, où se trouve votre Lune, sont justement le signe où la tradition exalte Vénus. Une même planète est honorée des deux côtés de ce duo, et j’en lis le fil comme le plaisir et la beauté, éprouvés par le corps, puis par l’imaginaire. Votre naissance a eu lieu après le dernier quartier, quand la Lune s’amincit dans le ciel du matin.
+
+## Comment ils s’accordent {#comment-ils-s-accordent}
+
+Terre et eau, fixe et mutable, la Lune deux signes derrière le Soleil : un sextile par signe, une aide qui fonctionne quand on la saisit. Le [Soleil en Taureau](/astrology/sun-in-taurus/) se connaît par ce qu’il peut toucher, garder et savourer ; la [Lune en Poissons](/astrology/moon-in-pisces/) absorbe l’humeur des gens qui l’entourent et s’apaise par la musique, l’imaginaire, la solitude et la bonté. Le Soleil offre à la Lune un sol ferme où revenir ; la Lune donne au Soleil une raison de regarder plus loin que ce qu’il possède.
+
+[Vénus](/astrology/venus/) ne s’éloigne jamais beaucoup d’un Soleil en Taureau, et avec un Soleil au début du signe, Vénus peut même être dans les Poissons, son exaltation, le signe de votre Lune. Votre Lune a deux maîtres, et je lis les deux : [Neptune](/astrology/neptune/), maître des Poissons pour les astrologues modernes, pour là où vous rêvez et vous perdez dans ce que vous aimez ; et [Jupiter](/astrology/jupiter/), maître du signe avant la découverte de Neptune en 1846, pour là où toute cette sensibilité trouve un sens. Aucun des deux luminaires n’a de dignité dans son signe : l’honneur revient à Vénus.
+
+Entre le dernier quartier et la nouvelle lune suivante, la Lune était 31° à 90° derrière le Soleil, vingt-deux à vingt-sept jours après le début du mois. Sept de ces naissances sur huit sont des naissances de [dernier quartier](/astrology/last-quarter-moon/), les autres de [lune balsamique](/astrology/balsamic-moon/) ; vers 60° de retard, les luminaires forment un [Soleil sextile Lune](/astrology/sun-sextile-moon/) décroissant. Je lis le dernier quartier comme un temps pour décider de ce qu’on garde et de ce qu’on laisse aller, la question même qu’un Soleil en Taureau trouve difficile et qu’une Lune en Poissons trouve facile. [Votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) indique où commence chaque phase.
+
+Environ 1 personne sur 138 a ce duo. La Lune passe deux jours et demi environ dans les Poissons, dernier des signes, avant que le Bélier ne rouvre le tour ; si elle y entrait ou en sortait le jour de votre naissance, l’heure dit si cette page est la vôtre, ou le [Soleil en Taureau, Lune en Verseau](/astrology/sun-in-taurus-moon-in-aquarius/), ou le [Soleil en Taureau, Lune en Bélier](/astrology/sun-in-taurus-moon-in-aries/) ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/#la-lune)). La même heure donne l’ascendant ; les trois dessinent un contour, et les nuances viennent de ce que l’heure révèle encore, les maisons et les angles.
+
+## Dans les relations proches {#dans-les-relations-proches}
+
+Vous aimez avec tendresse et constance : le Soleil en Taureau par la présence, le toucher et le confort, la Lune en Poissons par l’intuition, le pardon et le sens de ce dont l’autre a besoin avant toute demande. Le risque naît de la loyauté et de la compassion réunies. Le Soleil n’aime pas partir, la Lune n’aime pas blesser, et à eux deux, ils peuvent vous faire continuer de donner à un lien qui ne rend plus rien. Une personne qui dit simplement ce qu’elle ressent, pour que vous n’ayez pas à l’absorber et à deviner, laisse les deux luminaires se reposer.
+
+## Au travail {#au-travail}
+
+Un travail qui unit le savoir-faire et l’imaginaire vous convient : la musique, la cuisine, les jardins, le design, ou un travail de soin fait avec patience. Le Soleil veut quelque chose de concret à montrer ; la Lune veut que le travail compte pour quelqu’un. Les lieux bruyants et agressifs épuisent la Lune en Poissons, et un rôle sans résultat visible laisse le Soleil en Taureau sans savoir à quoi il sert. Un endroit calme, un rythme régulier et un peu de solitude chaque jour conviennent aux deux.
+
+## Le plus difficile {#le-plus-difficile}
+
+Ce duo peut absorber beaucoup et ne laisser partir que peu. La Lune en Poissons s’imprègne de l’humeur des autres ; le Soleil en Taureau garde ce qu’il a reçu, si bien qu’une tristesse ramassée le lundi peut encore vous accompagner le vendredi. Ce qui aide : donner à la Lune une façon de relâcher et au Soleil une façon d’ancrer ce relâchement, une marche sous la pluie, une heure au jardin, une musique jouée plutôt que seulement écoutée, tout ce qui laisse les humeurs du jour traverser le corps et s’en aller.
