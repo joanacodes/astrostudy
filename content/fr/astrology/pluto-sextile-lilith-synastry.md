@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 367
 glyph: "♇⚹⚸"
-definition: "Pluton sextile Lilith en synastrie écarte de 60°, à 2,4° près, Pluton dans un thème et la Lune noire Lilith moyenne dans un autre. La capacité de changement profond de l’une invite la part indomptée de l’autre à sortir de sa cachette et à servir. J’y lis une invitation à baisser la garde, qui ne marche que si les deux l’acceptent."
+definition: "Pluton sextile Lilith en synastrie écarte de 60°, à 2,4° près, Pluton dans un thème et la Lune noire Lilith moyenne dans un autre. La profondeur de l’une invite la part indomptée de l’autre à sortir de sa cachette et à servir. J’y lis une invitation à baisser la garde, qui ne marche que si les deux l’acceptent."
 facts:
   - { k: "Corps", v: "Pluton ♇ de l’une, la Lune noire Lilith ⚸ de l’autre" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -23,7 +23,7 @@ faq:
   - q: "Est-ce que Pluton sextile Lilith ne concerne que l’amour ?"
     a: "Non. Il peut apparaître entre amis, collègues, frères et sœurs ou dans un couple, et il ne dit rien du cours d’une relation ni de son intimité. Il décrit la profondeur de l’une qui fait de la place à la part indomptée de l’autre, ce qui compte dans toute paire qui doit se faire confiance."
   - q: "Pourquoi les fenêtres de Pluton sextile Lilith sont-elles si courtes ?"
-    a: "Parce que l’orbe n’est que de 2,4° et que la Lilith moyenne traverse un signe en neuf mois environ : elle franchit la zone en un mois ou deux. Pluton, lui, bouge à peine. C’est aussi pour cela que le choix de la Lilith compte : la Lilith vraie peut se trouver assez loin pour faire disparaître l’aspect."
+    a: "Parce que l’orbe n’est que de 2,4° et que la Lilith moyenne traverse un signe en neuf mois environ : elle franchit la zone en un mois ou deux. Pluton, en revanche, bouge à peine. C’est aussi pour cela que le choix de la Lilith compte : la Lilith vraie peut se trouver assez loin pour faire disparaître l’aspect."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, 60°, parmi les aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance où Pluton, chez l’une, est à moins de 2,4° d’un sextile avec la Lilith moyenne de l’autre" }
@@ -45,7 +45,7 @@ L’aisance peut garder tout le monde poli. Une invitation jamais formulée rest
 Les autres angles de la paire :
 
 - **[Pluton conjonction Lilith en synastrie](/astrology/pluto-conjunct-lilith-synastry/) :** la profondeur tombe droit sur l’endroit caché, sans porte où frapper.
-- **[Pluton carré Lilith en synastrie](/astrology/pluto-square-lilith-synastry/) :** l’envie de transformer frotte contre l’envie de rester indomptée.
+- **[Pluton carré Lilith en synastrie](/astrology/pluto-square-lilith-synastry/) :** l’envie de transformer frotte contre l’envie de garder sa part indomptée.
 - **[Pluton trigone Lilith en synastrie](/astrology/pluto-trine-lilith-synastry/) :** un accueil plus large, qui coule sans qu’on le demande.
 - **[Pluton opposition Lilith en synastrie](/astrology/pluto-opposite-lilith-synastry/) :** le pouvoir et le refus tenus aux deux bouts d’un axe.
 
