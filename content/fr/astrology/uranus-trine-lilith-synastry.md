@@ -20,8 +20,8 @@ related: ["/astrology/uranus", "/astrology/black-moon-lilith", "/astrology/trine
 faq:
   - q: "Que veut dire Uranus trigone Lilith en synastrie ?"
     a: "Uranus, chez une personne, se trouve à environ 120° de la Lune noire Lilith de l’autre, en général dans des signes du même élément. L’appétit de différence de la première et les instincts gardés de la seconde se soutiennent : chacune peut être elle-même sans trop se corriger. L’aspect décrit une aisance entre originalité et autonomie."
-  - q: "Uranus trigone Lilith peut-il être trop d’une bonne chose ?"
-    a: "Il peut pencher de ce côté. Quand deux personnes se font sentir libres aussi facilement, elles cessent parfois de vérifier si une provocation est honnête ou juste amusante, ou gardent leur part indomptée pour elles deux seules. Se demander de temps en temps ce que l’aisance saute la garde généreuse."
+  - q: "Est-ce qu’Uranus trigone Lilith peut rendre les choses trop faciles ?"
+    a: "Ce trigone peut pencher de ce côté. Quand deux personnes se font sentir libres aussi facilement, elles cessent parfois de vérifier si une provocation est honnête ou juste amusante, ou gardent leur part indomptée pour elles deux seules. Se demander de temps en temps ce que l’aisance saute la garde généreuse."
   - q: "Qui a Uranus trigone Lilith avec quelqu’un ?"
     a: "Une personne née au milieu de 1985 l’a avec toute personne née, par périodes, de février 1988 à novembre 1990, et avec celles nées d’octobre à décembre 1993 ou 1996, parmi d’autres courtes fenêtres. Personne ne choisit ces dates : ce sont les maisons qui portent la part personnelle de la lecture."
 sources:
@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Uranus, chez une personne, à 120° de la Lilith moyenne d’une autre, à 3,4° près" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "l’apogée moyen de la Lune" }
 ---
-Avec certaines personnes, on n’a jamais à expliquer pourquoi on fait les choses à sa façon. En synastrie, Uranus trigone Lilith met Uranus, chez l’une, à environ 120° de la Lune noire Lilith de l’autre, à 3,4° près, en général dans des signes du même élément, et deux formes d’indépendance marchent au même pas.
+Avec certaines personnes, on n’a jamais à expliquer pourquoi on fait les choses à sa façon. Dans Uranus trigone Lilith en synastrie, un tiers du zodiaque sépare Uranus, chez l’une, de la Lune noire Lilith de l’autre, à 3,4° près, en général dans des signes du même élément, et deux formes d’indépendance marchent au même pas.
 
 ## Ce qui circule {#ce-qui-circule}
 

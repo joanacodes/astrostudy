@@ -20,8 +20,8 @@ related: ["/astrology/uranus", "/astrology/chiron", "/astrology/square", "/astro
 faq:
   - q: "Que veut dire Uranus carré Chiron en synastrie ?"
     a: "Uranus, chez une personne, se trouve à environ 90° du Chiron de l’autre, en général dans des signes du même mode. L’appétit de changement de la première appuie sans cesse sur les arrangements que la seconde a bâtis autour d’une limite durable. L’aspect décrit une friction entre changement et adaptation, qui peut mener les deux vers de meilleures solutions."
-  - q: "Uranus carré Chiron veut-il dire que l’une blessera l’autre ?"
-    a: "Non. Il ne prédit rien de ce qui se passera entre deux personnes. Il peut se montrer dans un changement qui arrive là où l’autre est le moins souple, et dans une prudence qui agace celle qui veut avancer. Si l’on en parle, cette friction donne souvent des arrangements qui conviennent aux deux."
+  - q: "Est-ce qu’Uranus carré Chiron veut dire que l’une blessera l’autre ?"
+    a: "Non. Ce carré ne prédit rien de ce qui se passera entre deux personnes. Il peut se montrer dans un changement qui arrive là où l’autre est le moins souple, et dans une prudence qui agace celle qui veut avancer. Si l’on en parle, cette friction donne souvent des arrangements qui conviennent aux deux."
   - q: "Qui a Uranus carré Chiron avec quelqu’un ?"
     a: "Deux dates de naissance le fixent, jamais un choix. Une personne née au milieu de 1965 et toute personne née entre décembre 1985 et juin 1986 l’ont dans les deux sens : Uranus, chez chacune, forme un carré avec le Chiron de l’autre. Un double carré lié à de telles dates parle de deux cohortes plus que de deux personnes : je regarde donc les maisons."
 sources:
@@ -55,6 +55,6 @@ Séparez l’idée de son moment. La personne d’Uranus peut demander « qu’
 
 Ce sont les calendriers qui forment la paire. Une personne née au milieu de 1965 et une personne née entre décembre 1985 et juin 1986 l’ont dans les deux sens : Uranus, chez la première, forme un carré avec le Chiron de la seconde, et Uranus, chez la seconde, avec le Chiron de la première. Toutes les personnes nées ces mois-là partagent les mêmes carrés avec les mêmes gens : ce contact reste donc hors du décompte d’une synastrie, qui ne retient que les contacts avec le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Lu par les maisons, il décrit deux époques en désaccord sur la dose de changement qu’une vie peut supporter, plus que deux personnes en conflit.
 
-Le carré tient à toute heure de l’un et l’autre anniversaire ; les maisons, non. Qu’Uranus, chez l’une, tombe dans la maison 10 de l’autre, en bousculant les routines de la vie professionnelle, ou dans sa maison 4, demande les deux heures de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Le carré tient à toute heure de l’un et l’autre anniversaire ; les maisons, non. Qu’Uranus, chez l’une, tombe dans la maison 2 de l’autre, en secouant ce sur quoi elle s’appuie, ou dans sa maison 10, parmi les habitudes de la vie professionnelle, demande les deux heures de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Dans un seul thème, [Uranus carré Chiron](/astrology/uranus-square-chiron/) appartient aux naissances de 1942 à 1944 et de 1996 à 1998 : une personne dont le propre élan de changement appuie sur son propre point sensible. Entre deux thèmes, la pression vient de quelqu’un qui ne sait pas forcément où ça fait mal, et c’est pourquoi je la lis avec les deux personnes, jamais sur l’une d’elles ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

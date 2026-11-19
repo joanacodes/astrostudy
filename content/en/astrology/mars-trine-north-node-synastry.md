@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 249
 glyph: "♂△☊"
-definition: "Mars trine North Node in synastry means one person’s Mars is 120° from the other’s North Node, within 5.1°, and 60° from their South Node. One person’s drive flows towards the other’s growth, friendly to their old strengths. I read it as support that feels like company, while the practising stays the other’s."
+definition: "Mars trine North Node in synastry means one person’s Mars trines the other’s North Node, within 5.1°, while sextiling their South Node. One person’s drive flows towards the other’s growth, friendly to their old strengths. I read it as support that feels like company, while the practising stays the other’s."
 facts:
   - { k: "Bodies", v: "One person’s Mars ♂, the other’s North Node ☊" }
   - { k: "Aspect", v: "Trine △, 120°" }
@@ -54,7 +54,7 @@ Around the trine, the rest of the pair:
 
 ## How to meet it {#how-to-meet-it}
 
-Let the Node person do the repetitions. The Mars person can keep company, ask how it's going, celebrate small progress, and resist taking over. Name the new thing being practised, so ease doesn't blur it. Training partners, a mentor and mentee at work, friends learning a language together, a couple where one is retraining: all suit this trine.
+The practice itself stays with the Node person. The Mars person can keep company, ask how it's going, celebrate small progress, and resist taking over. Name the new thing being practised, so ease doesn't blur it. Training partners, a mentor and mentee at work, friends learning a language together, a couple where one is retraining: all suit this trine.
 
 With the true node, about 1 pair of people in 9 has this trine, one way round or the other, within 5.1°; I read the mean node beside it and say when the two part company at the limit. A North Node position is held in common by everyone born within a few months, since the node needs about 18 months to back through a sign; the Mars person's birthday narrows it to the two of you. The houses, where the growth happens, need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 

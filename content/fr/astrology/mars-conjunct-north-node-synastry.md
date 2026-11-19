@@ -30,7 +30,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6° près, avec le nœud vrai" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai" }
 ---
-Imaginez une personne amie qui répète « tu devrais essayer » à propos de la chose même que vous êtes à moitié en train d’essayer. Avec Mars conjonction Nœud Nord en synastrie, Mars, chez l’une, atteint le Nœud Nord de l’autre, à 6° près, et l’énergie de l’une tombe exactement là où l’autre apprend à grandir.
+Imaginez une personne amie qui répète « tu devrais essayer » à propos de la chose même que vous êtes à moitié en train d’essayer. Avec Mars conjonction Nœud Nord en synastrie, Mars, chez l’une, atteint le Nœud Nord de l’autre, à 6° près, et l’énergie de l’une tombe exactement là où l’autre s’exerce à grandir.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -53,7 +53,7 @@ Une croissance pratiquée grâce à l’énergie de quelqu’un d’autre peut d
 
 ## Comment le vivre {#comment-le-vivre}
 
-Laissez la personne du nœud fixer le rythme et choisir l’étape suivante. Celle de Mars peut offrir de la compagnie, une échéance, un trajet jusqu’à la première séance, puis s’effacer. Une pratique modeste et répétée vaut mieux qu’un grand saut héroïque. Entre collègues, ce peut être quelqu’un qui encadre et sait s’arrêter ; en couple, la personne qui réserve le cours et laisse l’autre décider d’y aller ou non.
+Laissez le calendrier à la personne du nœud, avec le choix de l’étape suivante. Celle de Mars peut offrir de la compagnie, une échéance, un trajet jusqu’à la première séance, puis s’effacer. Une pratique modeste et répétée vaut mieux qu’un grand saut héroïque. Entre collègues, ce peut être quelqu’un qui encadre et sait s’arrêter ; en couple, la personne qui réserve le cours et laisse l’autre décider d’y aller ou non.
 
 Avec le nœud vrai, environ 1 paire de personnes sur 15 a cette conjonction, dans un sens ou dans l’autre, à 6° près. Je lis le nœud moyen à côté ; comme les deux positions ne s’écartent jamais de plus de deux degrés environ, seul un contact au bord de l’orbe peut apparaître avec l’un et pas avec l’autre ([Nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). Le nœud recule à travers chaque signe en environ 18 mois : un Nœud Nord à quelques degrés de celui de cette personne est donc partagé par toutes celles nées quelques mois avant ou après ; Mars, qu’un signe ne retient que six ou sept semaines, distingue cette paire-là. Les maisons, là où la croissance est attendue, exigent les deux heures de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

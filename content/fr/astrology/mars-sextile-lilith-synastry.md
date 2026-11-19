@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 3,6° près, avec la Lilith moyenne" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "l’apogée de la Lune, moyen et vrai" }
 ---
-Certaines personnes font passer l’option inhabituelle pour une option ordinaire. Avec Mars sextile Lilith en synastrie, Mars, chez l’une, et la Lune noire Lilith, chez l’autre, sont à environ 60°, et l’option hors script cesse de ressembler à un risque pour ressembler à un plan.
+Certaines personnes font passer l’option inhabituelle pour une option ordinaire. Avec Mars sextile Lilith en synastrie, la Lune noire Lilith de l’une se trouve à une soixantaine de degrés de Mars chez l’autre, et l’option hors script cesse de ressembler à un risque pour ressembler à un plan.
 
 ## Ce qui circule {#ce-qui-circule}
 

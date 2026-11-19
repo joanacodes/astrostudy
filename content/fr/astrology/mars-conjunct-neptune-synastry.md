@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 226
 glyph: "♂☌♆"
-definition: "Mars conjonction Neptune en synastrie signifie que Mars, chez une personne, tombe à moins de 6° de Neptune chez l’autre. L’élan de l’une rencontre l’imaginaire de l’autre sur le même degré : une vision trouve qui la réalise, un effort trouve son but. Pour moi, c’est une inspiration mise au travail, qui reste honnête si chacune dit ce qu’elle veut."
+definition: "Mars conjonction Neptune en synastrie signifie que Mars, chez une personne, et Neptune, chez l’autre, se rejoignent à 6° près. L’élan de l’une rencontre l’imaginaire de l’autre sur le même degré : une vision trouve qui la réalise, un effort trouve son but. Pour moi, c’est une inspiration mise au travail, qui reste honnête si chacune dit ce qu’elle veut."
 facts:
   - { k: "Corps", v: "Mars ♂ de l’une, Neptune ♆ de l’autre" }
   - { k: "Aspect", v: "Conjonction ☌, 0°" }
@@ -33,7 +33,7 @@ Mars conjonction Neptune en synastrie pose l’élan d’une personne sur le deg
 
 ## Ce qui circule {#ce-qui-circule}
 
-Avec [Mars](/astrology/mars/), une personne va chercher ce qu’elle veut : l’initiative, l’effort, l’affirmation, l’élan qui mène au bout. Avec [Neptune](/astrology/neptune/), elle imagine ce qui vaut la peine d’être voulu : l’inspiration, la compassion, le sens des choses, et l’art d’effacer les frontières inutiles. Une [conjonction](/astrology/conjunction/) fait travailler deux fonctions d’un seul geste sans qu’aucune perde sa nature ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), celle-ci partage ce geste entre deux personnes : l’une apporte la poussée, l’autre l’image.
+Avec [Mars](/astrology/mars/), une personne va chercher ce qu’elle veut : l’initiative, l’effort, l’affirmation, l’élan qui mène au bout. Avec [Neptune](/astrology/neptune/), elle imagine ce qui vaut la peine d’être voulu : l’inspiration, la compassion, le sens des choses, et l’art de dissoudre les cloisons superflues. Une [conjonction](/astrology/conjunction/) fait travailler deux fonctions d’un seul geste sans qu’aucune perde sa nature ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), celle-ci partage ce geste entre deux personnes : l’une apporte la poussée, l’autre l’image.
 
 Si vous êtes la personne de Mars, votre énergie trouve soudain où aller. Les idéaux de l’autre donnent du prix à l’effort, et vous travaillerez souvent davantage pour une cause partagée avec cette personne que pour une cause choisie sans elle. Du côté de Neptune, vous sentez peut-être que quelqu’un prend enfin votre imagination assez au sérieux pour agir : l’idée à peine formulée devient un projet, une pièce repeinte, une collecte de fonds avec une date.
 

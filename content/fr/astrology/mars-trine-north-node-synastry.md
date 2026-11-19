@@ -48,14 +48,14 @@ Le sextile au Nœud Sud cache un piège plus subtil : comme les forces ancienne
 
 Autour du trigone, le reste de la paire :
 
-- **[Mars conjonction Nœud Nord en synastrie](/astrology/mars-conjunct-north-node-synastry/) :** Mars sur le point de croissance lui-même : plus de poussée, moins de compagnie.
+- **[Mars conjonction Nœud Nord en synastrie](/astrology/mars-conjunct-north-node-synastry/) :** en plein sur le point de croissance : plus de poussée, moins de compagnie.
 - **[Mars sextile Nœud Nord en synastrie](/astrology/mars-sextile-north-node-synastry/) :** deux signes plus près, là où le chemin le plus facile mène en arrière.
 - **[Mars carré Nœud Nord en synastrie](/astrology/mars-square-north-node-synastry/) :** un signe plus près, l’effort coupe l’axe.
 - **[Mars opposition Nœud Nord en synastrie](/astrology/mars-opposite-north-node-synastry/) :** deux signes plus loin, l’élan s’installe en terrain ancien et rodé.
 
 ## Comment le vivre {#comment-le-vivre}
 
-Laissez la personne du nœud faire les répétitions. Celle de Mars peut tenir compagnie, demander où on en est, fêter les petits progrès, et résister à l’envie de prendre la main. Nommez la chose nouvelle qu’on pratique, pour que l’aisance ne la brouille pas. Des partenaires d’entraînement, une personne qui en forme une autre au travail, des amis qui apprennent une langue ensemble, un couple où quelqu’un se reconvertit : tous conviennent à ce trigone.
+La pratique elle-même reste à la personne du nœud. Celle de Mars peut tenir compagnie, demander où on en est, fêter les petits progrès, et résister à l’envie de prendre la main. Nommez la chose nouvelle qu’on pratique, pour que l’aisance ne la brouille pas. Des partenaires d’entraînement, une personne qui en forme une autre au travail, des amis qui apprennent une langue ensemble, un couple où quelqu’un se reconvertit : tous conviennent à ce trigone.
 
 Avec le nœud vrai, environ 1 paire de personnes sur 9 a ce trigone, dans un sens ou dans l’autre, à 5,1° près ; je lis le nœud moyen à côté, et je dis quand les deux se séparent au bord de l’orbe. Une position du Nœud Nord est la même, à peu de chose près, pour tout un trimestre de naissances, puisqu’un signe retient le nœud environ 18 mois ; Mars, chez l’autre, réduit cela à vous deux. Les maisons, là où la croissance se fait, demandent les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

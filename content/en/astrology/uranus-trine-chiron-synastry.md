@@ -31,7 +31,7 @@ Some people fix things for you before you've finished explaining what's hard, an
 
 ## What flows {#what-flows}
 
-[Uranus](/astrology/uranus/) brings originality and the freedom to try what hasn't been tried; it is the part of a person that wants a better system, not a better excuse. [Chiron](/astrology/chiron/) is practical wisdom earned around a limit that stays: compensations, rehabilitated skills, a way of taking part that had to be invented. A [trine](/astrology/trine/) lets two functions reinforce each other while each stays itself, and among the [synastry aspects](/astrology/synastry-aspects/) this one makes one person's inventions and the other's adaptations easy partners.
+[Uranus](/astrology/uranus/) brings originality and the freedom to try what hasn't been tried; it is the part of a person that wants a better system, not a better excuse. [Chiron](/astrology/chiron/) is practical wisdom earned around a limit that stays: compensations, rehabilitated skills, a way of taking part that had to be invented. Through a [trine](/astrology/trine/), two functions support each other and keep their own shape; among the [synastry aspects](/astrology/synastry-aspects/) this one makes one person's inventions and the other's adaptations easy partners.
 
 If the Uranus is yours, your unconventional ideas are welcomed rather than tolerated. The other person tries them, improves them and tells you what works, and you find that your restlessness has a use.
 

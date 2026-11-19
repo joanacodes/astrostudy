@@ -33,7 +33,7 @@ One of you wants to get going; the other wants to know what lies underneath firs
 
 [Mars](/astrology/mars/) moves: it initiates, asserts, competes, defends a line. [Pluto](/astrology/pluto/) goes deep: it transforms, regenerates, removes what has become obsolete and grows real strength from what's left. A [square](/astrology/square/) sets them at right angles, and the friction makes both adapt; among the [synastry aspects](/astrology/synastry-aspects/) this angle is where questions of say and power tend to arrive early.
 
-What the pressure makes possible is proportion. The Mars person learns that pushing harder isn't always the answer, and that some situations need waiting until their depth shows. The Pluto person learns that change can begin before everything underneath has been examined, and that someone else's speed can be useful rather than careless. Trust that has come through this kind of testing is rarely naive.
+What the pressure makes possible is proportion. The Mars person finds out that more force isn't always the answer, and that some situations need waiting until their depth shows. The Pluto person learns that change can begin before everything underneath has been examined, and that someone else's speed can be useful rather than careless. Trust that has come through this kind of testing is rarely naive.
 
 Both signs usually belong to one modality, and that modality names the theme. Mars in Aquarius square Pluto in Scorpio, both fixed: neither keen to give way, so patience becomes the skill. Mars in Cancer square Pluto in Libra, both cardinal: the question is who starts, and on whose terms.
 

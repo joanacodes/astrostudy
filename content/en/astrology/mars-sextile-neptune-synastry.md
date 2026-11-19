@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/neptune", "/astrology/sextile", "/astrology/mars-sextile-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Mars sextile Neptune mean in synastry?"
-    a: "Two signs usually separate one person’s Mars from the other’s Neptune, about 60° apart. Drive on one side and imagination on the other cooperate easily: practical help for an ideal, and a reason for effort. Like every sextile, it works when someone takes the opening, and stays quiet otherwise."
+    a: "Two signs usually separate one person’s Mars from the other’s Neptune, about 60° apart. The two functions cooperate easily: practical help for an ideal, and a reason for effort. Like every sextile, it works when someone takes the opening, and stays quiet otherwise."
   - q: "Does Mars sextile Neptune help a relationship?"
     a: "It eases one part of it, and only one. No single contact settles whether two people get on. This sextile describes a readiness to help each other’s ideals along; whether that readiness gets used depends on the two people, and on whether either of them asks."
   - q: "How close does Mars sextile Neptune have to be?"

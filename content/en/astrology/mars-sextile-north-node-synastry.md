@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/mars", "/astrology/north-node", "/astrology/sextile", "/astrology/mars-sextile-north-node", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Mars sextile North Node mean in synastry?"
-    a: "Sixty degrees separate one person’s Mars from the other’s North Node, and so a hundred and twenty from their South Node. The Mars person can open a way towards what the Node person is learning, and can also make the familiar very comfortable. Which way the pair goes depends on choices, not on the angle."
+    a: "Sixty degrees separate one person’s Mars from the other’s North Node, which leaves a hundred and twenty between that Mars and their South Node. The Mars person can open a way towards what the Node person is learning, and can also make the familiar very comfortable. Which way the pair goes depends on choices, not on the angle."
   - q: "Does Mars sextile North Node help someone grow?"
     a: "It can, gently. The Mars person’s drive offers openings towards the less familiar, and the Node person decides whether to take them. Because the same Mars also eases the way back to old strengths, growth here comes from choosing the new door on purpose, now and then."
   - q: "Why does the South Node matter in Mars sextile North Node?"

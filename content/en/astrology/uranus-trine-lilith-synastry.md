@@ -32,7 +32,7 @@ With some people you never have to explain why you do things your own way. Uranu
 
 ## What flows {#what-flows}
 
-[Uranus](/astrology/uranus/) innovates and differentiates: it wants a life that isn't a copy of anyone's, and the systems around it loosened enough to allow that. [Black Moon Lilith](/astrology/black-moon-lilith/), the point where the Moon swings farthest from Earth, is read symbolically and with varying emphasis; I take it as raw autonomy, a boundary, and whatever a person once learned to tuck out of sight. A [trine](/astrology/trine/) lets two functions strengthen each other while each keeps its nature; among the [synastry aspects](/astrology/synastry-aspects/), this one lets one person's originality and another's untamed side vouch for each other.
+[Uranus](/astrology/uranus/) innovates and differentiates: it wants a life that isn't a copy of anyone's, and the systems around it loosened enough to allow that. [Black Moon Lilith](/astrology/black-moon-lilith/), the point where the Moon swings farthest from Earth, is read symbolically and with varying emphasis; I take it as raw autonomy, a boundary, and whatever a person once learned to tuck out of sight. In a [trine](/astrology/trine/), two functions lend each other strength and stay themselves; among the [synastry aspects](/astrology/synastry-aspects/), this one lets one person's originality and another's untamed side vouch for each other.
 
 Holding the Uranus, you find the other person's refusals refreshing rather than difficult: their no to convention sounds like your own yes to something new.
 

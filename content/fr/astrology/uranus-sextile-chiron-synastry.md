@@ -22,8 +22,8 @@ faq:
     a: "Uranus, chez une personne, se trouve à environ 60° du Chiron de l’autre, à 2,4° près. Les essais et les méthodes inhabituelles de la première sont à portée de la plus vieille parade de la seconde. C’est une offre plutôt qu’un changement : elle ne devient quelque chose que si l’une des deux s’en saisit."
   - q: "Qui a Uranus sextile Chiron avec quelqu’un ?"
     a: "Cela vient avec les dates de naissance. Une personne née au milieu de 1945 l’a avec toute personne née, par périodes, de mai 1971 à février 1974, et avec toute personne née, par périodes, de novembre 1980 à août 1982. Chacune de ces périodes compte une foule de naissances : pour une paire donnée, les maisons en disent plus que le sextile."
-  - q: "Uranus sextile Chiron rend-il les choses faciles entre deux personnes ?"
-    a: "Il rend une approche nouvelle possible, pas automatique. La personne de Chiron décide encore si elle l’essaie, et celle d’Uranus doit encore rester assez longtemps pour aller au bout. Comme tout sextile, il demande un pas de chaque côté."
+  - q: "Est-ce qu’Uranus sextile Chiron rend les choses faciles entre deux personnes ?"
+    a: "Ce sextile rend une approche nouvelle possible, pas automatique. La personne de Chiron décide encore si elle l’essaie, et celle d’Uranus doit encore rester assez longtemps pour aller au bout. Comme tout sextile, il demande un pas de chaque côté."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, 60°, le plus étroit de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Uranus, chez une personne, à 60° du Chiron d’une autre, à 2,4° près" }

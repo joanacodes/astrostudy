@@ -1,7 +1,7 @@
 ---
 title: "Uranus conjunct Lilith in synastry"
 h1: "Uranus conjunct Lilith between two charts"
-description: "Uranus conjunct Lilith in synastry: one person’s licence to differ lands on what the other learned to hide. Both sides, who has it, why mean Lilith."
+description: "Uranus conjunct Lilith in synastry: one person’s licence to differ meets the part of the other they keep hidden. Both sides, who has it, why mean Lilith."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -53,8 +53,8 @@ Fusion blurs whose freedom it is. The Uranus person can turn the other's untamed
 
 Ask before you celebrate. The Uranus person can ask how much of this the other wants seen, and by whom; the Lilith person can say where the line is, and move it when they choose. Between partners, that may be what is shown in front of family; at work, how much of a colleague's unusual streak gets credit.
 
-Someone born in mid-1965, with Uranus in Virgo, has it with anyone born from January to March 1962, when mean Lilith crossed the same degrees; the window returns about every nine years, from September to November 1979, from July to September 1988, from May to August 1997. Turned round, the Uranus of anyone born, on and off, from March 1994 to January 1997 sits on that 1965 Lilith. Whoever shares those months shares the contact, so it stays outside my synastry count, which tallies only contacts with the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. I read it through the houses, as two eras' ideas of what may be shown more than two people's.
+Take a birth in mid-1965, with Uranus in Virgo: mean Lilith crossed the same degrees for anyone born from January to March 1962, and the window returns about every nine years after that, from September to November 1979, from July to September 1988, from May to August 1997. Turned round, the Uranus of anyone born, on and off, from March 1994 to January 1997 sits on that 1965 Lilith. Whoever shares those months shares the contact, so it stays outside my synastry count, which tallies only contacts with the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. I read it through the houses, as two eras' ideas of what may be shown more than two people's.
 
-These dates use mean Lilith; true Lilith can sit tens of degrees away and take the contact in or out of orb ([Which Lilith is mine?](/astrology/which-lilith-is-mine/)). The hour barely moves either point, but it sets the houses, so both birth times come first ([what changes without a birth time](/blog/unknown-birth-time/)). In [my notebook](/blog/i-tested-my-birth-chart/), Saturn, Lilith and Chiron held 75 to 90% of the time, each checked within one chart; that figure says nothing about a contact between two.
+These dates use mean Lilith; true Lilith can sit tens of degrees away and take the contact in or out of orb ([Which Lilith is mine?](/astrology/which-lilith-is-mine/)). The hour barely moves Uranus or Lilith, but it sets the houses, so both birth times come first ([what changes without a birth time](/blog/unknown-birth-time/)). [My notebook](/blog/i-tested-my-birth-chart/) singled Lilith out: Saturn, Lilith and Chiron held 75 to 90% of the time when I checked them chart by chart, never one chart against another.
 
 Inside one chart, [Uranus conjunct Lilith](/astrology/uranus-conjunct-lilith/) makes a person's originality and their untamed side the same thing. Between two charts it touches what someone learned to hide, so I read it only when both people want it read ([synastry and consent](/blog/synastry-behind-their-back/)).

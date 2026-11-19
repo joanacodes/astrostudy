@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/chiron", "/astrology/trine", "/astrology/mars-trine-chiron", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Mars trine Chiron mean in synastry?"
-    a: "Chiron in one chart and Mars in the other stand a trine apart, about 120°, often across one element. The Mars person tends to encourage without pressing too hard, and the Chiron person’s practical wisdom helps the other’s effort last. It describes easy cooperation between drive and adaptation."
+    a: "A trine, about 120°, joins Chiron in one person’s chart to Mars in the other’s, often across one element. The Mars person tends to encourage without pressing too hard, and the Chiron person’s practical wisdom helps the other’s effort last. It describes easy cooperation between drive and adaptation."
   - q: "Is Mars trine Chiron a supportive aspect?"
     a: "It describes support that comes easily, which many pairs enjoy. No contact guarantees how two people treat each other, though. The trine shows a readiness on both sides: to encourage without pushing, and to share what works around a limit."
   - q: "What can Mars trine Chiron hide?"
@@ -46,7 +46,7 @@ There's a subtler risk too: assuming every difficulty has to turn into wisdom. N
 Gentler or sharper, the other four:
 
 - **[Mars conjunct Chiron in synastry](/astrology/mars-conjunct-chiron-synastry/):** the drive sits right on the tender place, where pace matters most.
-- **[Mars sextile Chiron in synastry](/astrology/mars-sextile-chiron-synastry/):** two signs nearer, the same help waits for a request.
+- **[Mars sextile Chiron in synastry](/astrology/mars-sextile-chiron-synastry/):** two signs nearer, where support has to be asked for first.
 - **[Mars square Chiron in synastry](/astrology/mars-square-chiron-synastry/):** a sign nearer, and the push starts catching instead of gliding.
 - **[Mars opposite Chiron in synastry](/astrology/mars-opposite-chiron-synastry/):** two signs further, the pair turns into a mirror of opposite approaches.
 
@@ -54,6 +54,6 @@ Gentler or sharper, the other four:
 
 Ask about the cost, kindly and now and then: "Is this still working for you, or are you keeping up for my sake?" The Chiron person can answer honestly, including on the days the answer is no. This trine does well in long collaborations: a coaching or mentoring pair at work, friends training for something over months, adult siblings sharing the care of a family project.
 
-Within 5.1°, one way round or the other, about 1 pair of people in 9 has the trine, as many as have the square. The Chiron half belongs to a span of birth years, short or long depending on the sign, because Chiron races through some signs and lingers in others; the Mars half, set by a birthday within a few weeks, is what makes this pair rather than their whole age group. Neither moves enough in a day for the hour to count, short of a trine on the limit of its orb; as for the houses, where the support is felt in each life, they need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
+Within 5.1°, one way round or the other, about 1 pair of people in 9 has the trine, as many as have the square. The Chiron half belongs to a span of birth years, short or long depending on the sign, because Chiron races through some signs and lingers in others; the Mars half, set by a birthday within a few weeks, is what makes this pair rather than their whole age group. A day's movement of either is too small for the hour to count, unless the trine sits at the very edge of its orb; as for the houses, where the support is felt in each life, they need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 A person born with [Mars trine Chiron](/astrology/mars-trine-chiron/) finds their own way round a limit and keeps going. Between two charts, one person's way round becomes the other's, and both go further.

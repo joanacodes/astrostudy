@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/neptune", "/astrology/trine", "/astrology/mars-trine-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Mars trine Neptune mean in synastry?"
-    a: "Roughly 120° lies between one person’s Mars and the other’s Neptune, often in signs of a single element. The Mars person tends to act on what the Neptune person imagines without being asked, and the Neptune person’s ideals make the other’s effort feel worthwhile. It describes inspiration that travels both ways."
+    a: "Drive in one chart and imagination in the other sit a trine apart, about 120°, often in signs of a single element. The Mars person tends to act on what the Neptune person imagines without being asked, and the Neptune person’s ideals make the other’s effort feel worthwhile. It describes inspiration that travels both ways."
   - q: "What does the ease of Mars trine Neptune hide?"
     a: "Mostly what nobody checks. Because the two move together so easily, plans can float without dates, and the Mars person’s energy can drift towards the other’s hopes without anyone asking what it costs. A little structure, added kindly, keeps the trine from turning vague."
   - q: "Is Mars trine Neptune a sign of a creative partnership?"
@@ -54,6 +54,6 @@ To place this trine among the others:
 
 Give the flow banks. A date, a budget, a list of who carries what: small structures that don't spoil the ease. The Neptune person can name one practical wish at a time; the Mars person can ask now and then, "is this still what you want?" Between friends it might mean finally finishing the shared project; in a family, an adult sibling who acts on another's ideas and gets thanked by name; at work, a creative brief with a deadline.
 
-Counted within 5.1°, one way round or the other, the trine links about 1 pair of people in 9. Almost anyone born a year or two either side of the Neptune person would offer the same Neptune, since it takes about fourteen years over a sign; it's the Mars, through a sign in six or seven weeks, that picks this pair out of that crowd. Neither body moves enough in a day for the hour to matter much, short of a trine right on the limit, and the houses, where the inspiration lands in each life, can't be drawn without both times ([what changes without a birth time](/blog/unknown-birth-time/)).
+Counted within 5.1°, one way round or the other, the trine links about 1 pair of people in 9. Almost anyone born a year or two either side of the Neptune person would offer the same Neptune, since it takes about fourteen years over a sign; it's the Mars, through a sign in six or seven weeks, that picks this pair out of that crowd. Over a single day neither Mars nor Neptune shifts far, so the hour hardly counts except for a trine right on the limit, and the houses, where the inspiration lands in each life, can't be drawn without both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 In a single chart, [Mars trine Neptune](/astrology/mars-trine-neptune/) is effort and imagination agreeing inside one person. Shared between two, the agreement needs saying aloud from time to time, or each starts answering for the other.

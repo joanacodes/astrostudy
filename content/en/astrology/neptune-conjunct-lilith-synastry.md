@@ -57,4 +57,4 @@ It belongs to birth dates. Someone born in mid-1955 has their Neptune, in Libra,
 
 Neither point moves fast enough for the hour to decide whether the conjunction exists; where it falls in each life takes both birth times ([what changes without a birth time](/blog/unknown-birth-time/)). These months use mean Lilith; true Lilith may sit somewhere else entirely ([Which Lilith is mine?](/astrology/which-lilith-is-mine/)).
 
-Inside a single chart, [Neptune conjunct Lilith](/astrology/neptune-conjunct-lilith/) is a person's own wildness behind their own veil. Here the veil is offered by someone else, which is why I read this only when both people want the reading ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Inside a single chart, [Neptune conjunct Lilith](/astrology/neptune-conjunct-lilith/) is a person's own wildness behind their own veil. Here the veil is offered by someone else, and I only lift it when both people want the reading ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

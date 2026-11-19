@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/neptune", "/astrology/black-moon-lilith", "/astrology/square", "/astrology/neptune-square-lilith", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Neptune square Lilith mean in synastry?"
-    a: "Across the two charts, Neptune and Black Moon Lilith form a right angle, give or take a few degrees. The Neptune person tends to see the other through a softer, kinder lens than the other recognises, and the Lilith person tends to resist being softened. The rub is about being seen as you are, and it usually improves once it’s said out loud."
+    a: "Across the two charts, Neptune and Black Moon Lilith form a right angle. The Neptune person tends to see the other through a softer, kinder lens than the other recognises, and the Lilith person tends to resist being softened. The rub is about being seen as you are, and it usually improves once it’s said out loud."
   - q: "Is Neptune square Lilith a bad sign between two people?"
     a: "No. A square describes friction, and friction is how two people learn each other’s real shape. This one sets a gentle, hopeful way of seeing against a blunt refusal to be prettied up. It forecasts nothing about where a relationship ends up; it describes something to talk about."
   - q: "Does birth time matter for Neptune square Lilith in synastry?"

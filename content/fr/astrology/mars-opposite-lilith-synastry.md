@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6° près, avec la Lilith moyenne" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "ce qui a tenu, placement par placement, dans des thèmes individuels" }
 ---
-Chacune peut sembler la sauvage aux yeux de l’autre. Avec Mars opposition Lilith en synastrie, Mars, chez une personne, regarde la Lune noire Lilith de l’autre depuis l’autre bout du zodiaque, et deux sortes de force, la poussée franche et le refus indompté, ne cessent de s’accrocher du regard par-dessus l’écart.
+Aux yeux de chacune, c’est l’autre qui paraît indomptée. Avec Mars opposition Lilith en synastrie, Mars, chez une personne, regarde la Lune noire Lilith de l’autre depuis l’autre bout du zodiaque, et deux sortes de force, la poussée franche et le refus indompté, ne cessent de s’accrocher du regard par-dessus l’écart.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -37,7 +37,7 @@ Chacune peut sembler la sauvage aux yeux de l’autre. Avec Mars opposition Lili
 
 Si Mars est à vous, la Lilith de l’autre vous montre une liberté dont vous ne vous servez peut-être pas : le refus tout simple, le chemin que personne n’a approuvé, le non sans états d’âme. Si Lilith est à vous, Mars, chez l’autre, vous montre quelque chose d’aussi étranger : un élan qui ne demande la permission à personne, parce qu’il n’a jamais pensé en avoir besoin.
 
-Ces deux signes, face à face, partagent un mode. Entre Mars en Cancer et Lilith en Capricorne, l’axe est cardinal : un élan protecteur, tourné vers le foyer, face à un refus de plier devant quelque autorité que ce soit. Entre Mars en Sagittaire et Lilith en Gémeaux, il devient mutable : une poussée vers la vue d’ensemble face à un esprit indompté et agité.
+Ces deux signes, face à face, partagent un mode. Entre Mars en Cancer et Lilith en Capricorne, l’axe est cardinal : un élan protecteur, tourné vers le foyer, face à un refus de plier devant quelque autorité que ce soit. Entre Mars en Sagittaire et Lilith en Gémeaux, l’axe devient mutable : une poussée vers la vue d’ensemble face à un esprit indompté et agité.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

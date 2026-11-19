@@ -36,7 +36,7 @@ L’une a fait exactement ce qu’on lui demandait ; l’autre avait imaginé 
 
 Ce que la friction rend possible, c’est la précision. La personne de Neptune, pressée de dire ce qu’elle entend vraiment, apprend à mettre un idéal en mots sur lesquels on peut agir. Celle de Mars, devant une image plus vaste que la tâche, apprend à viser ce à quoi sert l’effort, pas seulement l’étape suivante. Les paires qui ont ce carré finissent souvent plus douées pour les consignes, les promesses et les plans que celles qui n’ont jamais eu à vérifier.
 
-Un carré relie le plus souvent deux signes du même mode. Avec Mars en Bélier et Neptune en Capricorne, signes cardinaux, quelqu’un qui démarre vite côtoie un idéal de structures lentes et solides ; avec Mars en Lion et Neptune en Scorpion, signes fixes, une poussée entière côtoie un rêve de profondeur et d’intimité.
+Un carré unit d’ordinaire deux signes de même mode. Avec Mars en Bélier et Neptune en Capricorne, signes cardinaux, quelqu’un qui démarre vite côtoie un idéal de structures lentes et solides ; avec Mars en Lion et Neptune en Scorpion, signes fixes, une poussée entière côtoie un rêve de profondeur et d’intimité.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
@@ -57,4 +57,4 @@ Avant de commencer, vérifiez si vous avez sous les yeux un plan ou un espoir :
 
 D’après mon décompte, environ 1 paire de personnes sur 9 a ce carré, dans un sens ou dans l’autre, à 5,1° près. Sa moitié Neptune est générationnelle : un signe garde Neptune environ quatorze ans, et ce côté-là se retrouve donc chez presque toutes les personnes du même âge ; c’est la place de Mars chez l’autre, une affaire de semaines, qui change ce décor commun en contact. L’heure de naissance ne déplace guère Mars ni Neptune ; elle fixe en revanche les maisons, les domaines de vie où le croisement se voit, et je ne lis pas sans elles ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Quand un seul thème porte les deux bouts, [Mars carré Neptune](/astrology/mars-square-neptune/), c’est une personne dont l’effort et les idéaux négocient sans cesse. Entre deux personnes, la négociation peut se faire à voix haute, et c’est le grand avantage de ce carré.
+Quand un seul thème porte les deux bouts, [Mars carré Neptune](/astrology/mars-square-neptune/), c’est une personne dont l’effort et les idéaux négocient sans cesse. Entre deux personnes, on peut en parler ouvertement, et c’est le grand avantage de ce carré.

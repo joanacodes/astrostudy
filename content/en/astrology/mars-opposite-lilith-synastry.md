@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/black-moon-lilith", "/astrology/opposition", "/astrology/mars-opposite-lilith", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Mars opposite Lilith mean in synastry?"
-    a: "The mean Black Moon Lilith of one person and the Mars of the other face each other, within 6°. The Mars person brings open, direct drive; the Lilith person, an independence that won’t be managed. Each sees in the other the force they use less, which can intrigue and unsettle in equal measure."
+    a: "One person’s mean Black Moon Lilith and the other’s Mars face each other across the zodiac, within 6°. The Mars person brings open, direct drive; the Lilith person, an independence that won’t be managed. Each sees in the other the force they use less, which can intrigue and unsettle in equal measure."
   - q: "Is Mars opposite Lilith a sign of conflict?"
     a: "No. Two ends of one seesaw aren’t two sides of a quarrel, and Lilith doesn’t brand anyone. This contact describes a pull between two kinds of strength. It becomes hard when one tries to tame the other, and easier when each lets the other keep their own way of acting."
   - q: "Why does Mars opposite Lilith fascinate early on?"
@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 6°, with mean Lilith" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "what held, placement by placement, in single charts" }
 ---
-Each of you can look like the wild one to the other. In Mars opposite Lilith in synastry, one person's Mars stands across the zodiac from the other's Black Moon Lilith, and two kinds of strength, open push and untamed refusal, keep catching each other's eye across the gap.
+To each of you, the other can seem the untamed one. In Mars opposite Lilith in synastry, one person's Mars faces the other's Black Moon Lilith from the far side of the zodiac, and two kinds of strength, open push and untamed refusal, keep catching each other's eye across the gap.
 
 ## What flows {#what-flows}
 

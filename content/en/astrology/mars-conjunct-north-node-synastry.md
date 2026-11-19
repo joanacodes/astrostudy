@@ -52,7 +52,7 @@ Growth practised under someone else's steam can turn into their project. The Mar
 
 ## How to meet it {#how-to-meet-it}
 
-Let the Node person set the pace and choose the next step. The Mars person can offer company, a deadline, a lift to the first session, and then step back. Small, repeated practice beats one heroic leap. Between colleagues this can be a mentor who knows when to stop; in a couple, the partner who books the class and lets the other decide whether to go.
+Leave the timing to the Node person, along with the choice of the next step. The Mars person can offer company, a deadline, a lift to the first session, and then step back. Small, repeated practice beats one heroic leap. Between colleagues this can be a mentor who knows when to stop; in a couple, the partner who books the class and lets the other decide whether to go.
 
 Counted with the true node, about 1 pair of people in 15 has this conjunction, one way round or the other, within 6°. I read the mean node alongside it; since the two positions never drift apart by more than about two degrees, only a contact near the rim of the orb can appear in one and not the other ([mean node and true node](/astrology/mean-node-and-true-node/)). The node retreats through each sign over about 18 months, so a North Node within a few degrees of this person's is shared by anyone born a few months either side; the Mars, taking six or seven weeks over each sign, singles out this pair. The houses, where the growth is asked for, need both birth times ([what changes without a birth time](/blog/unknown-birth-time/)).
 

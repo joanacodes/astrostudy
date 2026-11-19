@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 244
 glyph: "♂△⚸"
-definition: "Mars trine Lilith in synastry means one person’s Mars and the other’s mean Black Moon Lilith form a trine, about 120° within 5.1°, mostly across one element. Action and independence agree, without discussion, on the unconventional choice. To me it's an easy alliance that still needs room for two separate wills."
+definition: "Mars trine Lilith in synastry means one person’s Mars and the other’s mean Black Moon Lilith sit a trine apart, about 120° within 5.1°, mostly across one element. Action and independence agree, without discussion, on the unconventional choice. To me it's an easy alliance that still needs room for two separate wills."
 facts:
   - { k: "Bodies", v: "One person’s Mars ♂, the other’s Black Moon Lilith ⚸" }
   - { k: "Aspect", v: "Trine △, 120°" }
@@ -22,7 +22,7 @@ faq:
   - q: "Is Mars trine Lilith a good sign?"
     a: "It’s an easy contact, and easy is pleasant, but no aspect decides how a relationship goes. This trine describes two people who rarely ask each other to conform. What they do with that freedom, including leaving each other room, matters more than the angle."
   - q: "What does Mars trine Lilith hide?"
-    a: "Mostly the moment when shared independence turns into one person’s way. Because the two agree so easily, the Lilith person’s style can become the pair’s default, or the Mars person’s plans can carry both along. Checking that each still has a separate no keeps the trine healthy."
+    a: "Mostly the moment when shared independence turns into one person’s way. Because the two agree so easily, one style can quietly become the pair’s, or one person’s plans can sweep the other along. Checking that each still has a separate no keeps the trine healthy."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, 120°, among his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 5.1°, with mean Lilith" }
@@ -44,7 +44,7 @@ Easy agreement has a blind spot: the moment when "our own way" quietly becomes o
 
 There's an outward risk too: a pair this comfortable bending rules can stop noticing who else the rules were protecting, or forget to explain itself to the people around it. Ease doesn't make a choice wise, and the current still needs steering.
 
-Where the trine sits among the rest:
+How this trine compares with the rest:
 
 - **[Mars conjunct Lilith in synastry](/astrology/mars-conjunct-lilith-synastry/):** the push meets the untamed point head-on, with far more charge.
 - **[Mars sextile Lilith in synastry](/astrology/mars-sextile-lilith-synastry/):** a narrower opening, where someone has to take the first step.

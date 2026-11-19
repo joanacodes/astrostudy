@@ -37,7 +37,7 @@ Avec Saturne conjonction Lilith en synastrie, Saturne d’une personne rejoint, 
 
 Si Saturne est de votre côté, votre sens de l’ordre touche chez cette personne quelque chose qui ne veut pas être ordonné. Vous pouvez avoir envie de le protéger, ou de le gérer, et remarquer où vos propres règles viennent de la peur plutôt que du soin.
 
-Si Lilith est de votre côté, la structure de cette personne se pose sur ce que vous gardez pour vous. Cela peut ressembler à la vieille consigne de baisser d’un ton ; cela peut aussi offrir, pour une fois, un endroit sûr où cesser de se cacher, avec des murs qui tiennent.
+Si Lilith est de votre côté, ce que cette personne bâtit vient se poser sur ce que vous gardez pour vous. Cela peut ressembler à la vieille consigne de baisser d’un ton ; cela peut aussi offrir, pour une fois, un endroit sûr où cesser de se cacher, avec des murs qui tiennent.
 
 Ce que la rencontre peut construire, c’est un contenant : une structure assez solide pour tenir ce qui était caché sans lui demander de rapetisser.
 

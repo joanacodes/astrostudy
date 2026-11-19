@@ -40,7 +40,7 @@ Les deux signes se conviennent en général par l’élément. Mars en Gémeaux 
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Ce que l’aisance cache ici, c’est souvent un premier pas qui manque. La personne de Mars attend souvent qu’on lui demande ; celle de Chiron, habituée à se débrouiller seule, n’aime pas demander. Les deux peuvent se vouloir du bien pendant des années sans que l’échange commence jamais. Autre piège discret : la personne de Chiron peut donner généreusement son savoir-faire et recevoir peu en retour, comme si aider et se faire aider n’étaient pas tous deux permis.
+Un premier pas qui manque : voilà ce que l’aisance cache souvent ici. La personne de Mars attend souvent qu’on lui demande ; celle de Chiron, habituée à se débrouiller seule, n’aime pas demander. Les deux peuvent se vouloir du bien pendant des années sans que l’échange commence jamais. Autre piège discret : la personne de Chiron peut donner généreusement son savoir-faire et recevoir peu en retour, comme si aider et se faire aider n’étaient pas tous deux permis.
 
 Vu du côté de Mars, vos offres peuvent passer pour de la politesse plutôt que pour une vraie disponibilité. Vu du côté de Chiron, accepter de l’aide peut ressembler à un aveu de faiblesse. Ce n’en est pas un : recevoir du soutien n’est pas dépendre.
 

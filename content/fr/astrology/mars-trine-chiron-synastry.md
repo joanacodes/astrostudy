@@ -23,7 +23,7 @@ faq:
   - q: "Est-ce que Mars trigone Chiron est un aspect qui soutient ?"
     a: "Ce trigone décrit un soutien qui vient facilement, et beaucoup de paires l’apprécient. Aucun contact ne garantit pour autant la façon dont deux personnes se traitent. Le trigone montre une disposition des deux côtés : encourager sans pousser, et partager ce qui marche autour d’une limite."
   - q: "Que peut cacher Mars trigone Chiron ?"
-    a: "Le prix à payer pour suivre. Comme rien ne se heurte, la personne de Chiron peut s’adapter en silence, et celle de Mars ne jamais remarquer l’effort que cela demande. Demander de temps en temps ce que coûte l’arrangement garde l’aisance honnête."
+    a: "Ce que coûte le fait de suivre. Comme rien ne se heurte, la personne de Chiron peut s’adapter en silence, et celle de Mars ne jamais remarquer l’effort que cela demande. Une question posée de loin en loin sur le coût de l’arrangement garde l’aisance honnête."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, 120°, parmi ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 5,1° près" }
@@ -55,6 +55,6 @@ Plus doux ou plus vifs, les quatre autres :
 
 Demandez ce que cela coûte, gentiment et de temps en temps : « Tu suis encore pour toi, ou pour moi ? » La personne de Chiron peut répondre honnêtement, y compris les jours où la réponse est non. Ce trigone se plaît dans les collaborations au long cours : un duo de mentorat au travail, des amis qui s’entraînent pendant des mois, des frères et sœurs adultes qui partagent le soin d’un projet familial.
 
-À 5,1° près, dans un sens ou dans l’autre, environ 1 paire de personnes sur 9 a ce trigone, autant que le carré. La moitié Chiron appartient à une période d’années de naissance, courte ou longue selon le signe, parce que Chiron file à travers certains signes et s’attarde dans d’autres ; la moitié Mars, fixée par un anniversaire à quelques semaines près, distingue cette paire de toute sa classe d’âge. Ni Mars ni Chiron ne bougent assez en un jour pour que l’heure compte, sauf pour un trigone à la limite de l’orbe ; quant aux maisons, là où le soutien se sent dans chaque vie, elles demandent les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+À 5,1° près, dans un sens ou dans l’autre, environ 1 paire de personnes sur 9 a ce trigone, autant que le carré. La moitié Chiron appartient à une période d’années de naissance, courte ou longue selon le signe, parce que Chiron file à travers certains signes et s’attarde dans d’autres ; la moitié Mars, fixée par un anniversaire à quelques semaines près, distingue cette paire de toute sa classe d’âge. En un jour, le déplacement de Mars comme celui de Chiron reste trop faible pour que l’heure compte, sauf si le trigone se tient au bord même de son orbe ; quant aux maisons, là où le soutien se sent dans chaque vie, elles demandent les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Qui naît avec [Mars trigone Chiron](/astrology/mars-trine-chiron/) trouve son propre chemin autour d’une limite et continue. Entre deux thèmes, le chemin de l’une devient celui de l’autre, et les deux vont plus loin.

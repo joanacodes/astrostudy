@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/black-moon-lilith", "/astrology/sextile", "/astrology/mars-sextile-lilith", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Mars sextile Lilith mean in synastry?"
-    a: "One person’s Mars and the other’s mean Black Moon Lilith are about 60° apart, usually two signs. The Mars person’s initiative gives the Lilith person’s independence somewhere practical to go, and the Lilith person’s refusal to follow the script gives the Mars person fresh directions. Nothing happens until one of them moves."
+    a: "The Mars person and the Lilith person have their two points about 60° apart, usually two signs. The Mars person’s initiative gives the Lilith person’s independence somewhere practical to go, and the Lilith person’s refusal to follow the script gives the Mars person fresh directions. Nothing happens until one of them moves."
   - q: "Does it matter which Lilith you use for Mars sextile Lilith?"
     a: "Very much. The true point wanders widely around the mean, and this contact only counts within 3.6°, so one version may show it and the other not. I use mean Lilith, as most astrologers do, and say so in a reading."
   - q: "Is Mars sextile Lilith a good sign for working together?"
@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 3.6°, with mean Lilith" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s apogee, mean and true" }
 ---
-Some people make the unusual option feel like an ordinary one. In Mars sextile Lilith in synastry, one person's Mars and the other's Black Moon Lilith are about 60° apart, and the off-script option stops looking like a risk and starts looking like a plan.
+Some people make the unusual option feel like an ordinary one. In Mars sextile Lilith in synastry, a couple of signs lie between one person's Mars and the other's Black Moon Lilith, so the off-script option stops looking like a risk and starts looking like a plan.
 
 ## What flows {#what-flows}
 

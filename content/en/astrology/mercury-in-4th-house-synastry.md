@@ -30,13 +30,13 @@ Their Mercury in your 4th house is talk that follows you home. Another person's 
 
 ## What it brings {#what-it-brings}
 
-[The 4th house](/astrology/4th-house/) is your ground: home, family, roots, belonging, and the private self only those closest to you see. [Mercury](/astrology/mercury/) asks, connects and explains. As a [house overlay](/astrology/house-overlays/), this one puts their curiosity at your front door, and then inside it.
+[The 4th house](/astrology/4th-house/) is your ground: the home you grew up in and the one you've made, family, belonging, and the self you keep for the people nearest you. [Mercury](/astrology/mercury/) asks, connects and explains. As a [house overlay](/astrology/house-overlays/), this one puts their curiosity at your front door, and then inside it.
 
 With them you may find words for things that were never said at home. They ask how your family did things, why a phrase of your grandmother's still makes you laugh, what your first street was like, and in answering you understand your own history a little better. Practical talk about the home goes well too: a move, a repair, a household that runs on good conversation.
 
 For them, your private world is a place to think. They may do their best talking at your table, and your roots give their questions somewhere real to go. The 4th is angular, strong even when it works out of sight, and its natural sign is [Cancer](/astrology/cancer/), ruled by the Moon: memory, shelter, the familiar.
 
-Just past your [IC](/astrology/imum-coeli/), their Mercury also meets the deepest point of your chart, and I read that conjunction along with the house: their words reach your foundations.
+If it sits right after your [IC](/astrology/imum-coeli/), their Mercury is also conjunct the deepest point of your chart. I read that contact along with the house: their words reach your foundations.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -48,7 +48,7 @@ The 4th describes your experience of home, not what your family was like; it say
 
 ## How to meet it {#how-to-meet-it}
 
-Let the stories come at your pace, and say which ones are yours to keep. Decisions about a shared home go better on paper, each voice heard before anything is bought or moved. In a couple, talk about what home means to each of you before you share one; between friends, this is often the one who helped you pack and then stayed for supper; between colleagues who work from home, a glimpse of each other's kitchens can become part of the working day; between adult relatives, the one you go over the old stories with, who remembers them differently.
+Let the stories come at your pace, and say which ones are yours to keep. Decisions about a shared home go better on paper, each voice heard before anything is bought or moved. In a couple, talk about what home means to each of you before you share one; between friends, they may be the one who helped you pack and then stayed for supper; between colleagues who work from home, a glimpse of each other's kitchens can become part of the working day; between adult relatives, the one you go over the old stories with, who remembers them differently.
 
 From the other chair it's your Mercury in their 4th house, and your questions that reach their roots. Next door, [their Mercury in your 3rd house](/astrology/mercury-in-3rd-house-synastry/) keeps the talk on the street and in your messages, while [their Mercury in your 5th house](/astrology/mercury-in-5th-house-synastry/) takes it out to play.
 

@@ -31,7 +31,7 @@ From one end of a seesaw, the other end always looks lighter or heavier than it 
 
 ## What flows {#what-flows}
 
-[Uranus](/astrology/uranus/) differentiates and liberates: it wants room to live another way, and to change whatever forbids it. [Chiron](/astrology/chiron/) accommodates: it keeps a person functioning, contributing and connected around a limitation that doesn't lift, and that experience often makes them a good mentor. An [opposition](/astrology/opposition/) relates two functions through polarity, each most visible from the other's side; among the [synastry aspects](/astrology/synastry-aspects/), it shares that polarity out between two people.
+[Uranus](/astrology/uranus/) differentiates and liberates: it wants room to live another way, and to change whatever forbids it. [Chiron](/astrology/chiron/) accommodates: it keeps a person functioning, contributing and connected around a limitation that doesn't lift, and that experience often makes them a good mentor. An [opposition](/astrology/opposition/) joins two functions as poles, each easiest to see from the far side; among the [synastry aspects](/astrology/synastry-aspects/), it shares that polarity out between two people.
 
 Opposite signs share a modality and answer each other. With Uranus in Virgo opposite Chiron in Pisces, two mutable signs, the pair keeps circling one question: what can be improved by design, and what has to be lived with. Learning to tell the two apart is the gift here.
 

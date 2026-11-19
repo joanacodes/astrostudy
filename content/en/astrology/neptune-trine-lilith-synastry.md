@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that set one person’s Neptune within 3.4° of a trine to another’s mean Lilith" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "Lilith by sign and house in one chart, not contacts between two" }
 ---
-Some people hear your bluntest refusal and are, if anything, relieved by it. With Neptune trine Lilith in synastry, one person's Neptune and the other's Black Moon Lilith are spaced a trine apart, and what the other learned to hide is met without a flinch, by someone whose own dreaming gets braver in return.
+Some people hear your bluntest refusal and are, if anything, relieved by it. With Neptune trine Lilith in synastry spaces one chart's Neptune a trine away from another chart's Black Moon Lilith, and what the other learned to hide is met without a flinch, by someone whose own dreaming gets braver in return.
 
 ## What flows {#what-flows}
 

@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 250
 glyph: "♂☍☊"
-definition: "Mars opposition Nœud Nord en synastrie signifie que Mars, chez une personne, tombe sur le Nœud Sud de l’autre, à 6° près, juste en face de son Nœud Nord. L’élan de l’une rencontre les forces établies de l’autre, familières et stimulantes. J’y lis une paire à l’aise en terrain connu, à surveiller quand le confort remplace la croissance."
+definition: "Mars opposition Nœud Nord en synastrie signifie que Mars, chez une personne, coïncide à 6° près avec le Nœud Sud de l’autre, juste en face de son Nœud Nord. L’élan de l’une rencontre les forces établies de l’autre, familières et stimulantes. J’y lis une paire à l’aise en terrain connu, à surveiller quand le confort remplace la croissance."
 facts:
   - { k: "Corps", v: "Mars ♂ de l’une, le Nœud Nord ☊ de l’autre" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -57,6 +57,6 @@ Mesurés depuis le bout familier, les autres contacts :
 
 Profitez de la compétence partagée, et ajoutez un pas délibéré vers le moins familier. La personne de Mars peut soutenir ouvertement le nouveau but de celle du nœud, même s’il est plus lent et moins gratifiant que ce que vous faites bien ensemble. Des associés peuvent profiter de l’efficacité tout en réservant du temps à l’inhabituel ; de vieux amis, garder leurs rituels et en ajouter un nouveau ; en famille, des frères et sœurs peuvent cesser de se distribuer les rôles qu’ils avaient enfants.
 
-Avec le nœud vrai, environ 1 paire de personnes sur 15 a cette opposition, dans un sens ou dans l’autre, à 6° près. Le nœud moyen, que je regarde aussi, suit le vrai de si près que les deux ne divergent que pour un Mars tout à la limite ([Nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). Le degré du Nœud Sud, comme celui du Nord, appartient à toutes les personnes nées à quelques mois de celle du nœud, l’axe reculant à travers un signe en environ 18 mois ; Mars, chez l’autre, met ces deux personnes-là sur le même terrain. Les maisons, qui disent où se trouve ce terrain, demandent les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). J’en dis davantage dans [Les nœuds en synastrie](/astrology/nodes-in-synastry/).
+Avec le nœud vrai, environ 1 paire de personnes sur 15 a cette opposition, dans un sens ou dans l’autre, à 6° près. Le nœud moyen, que je regarde aussi, suit le vrai de si près que les deux ne divergent que lorsque Mars se tient tout au bord de l’orbe ([Nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). Le degré du Nœud Sud, comme celui du Nord, appartient à toutes les personnes nées à quelques mois de celle du nœud, l’axe reculant à travers un signe en environ 18 mois ; Mars, chez l’autre, met ces deux personnes-là sur le même terrain. Les maisons, qui disent où se trouve ce terrain, demandent les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). J’en dis davantage dans [Les nœuds en synastrie](/astrology/nodes-in-synastry/).
 
 Un thème qui contient [Mars opposition Nœud Nord](/astrology/mars-opposite-north-node/) connaît déjà l’effort comme un vieil ami. Entre deux thèmes, l’élan de quelqu’un d’autre rencontre ce terrain rodé, et peut aider à le tourner vers l’avant.

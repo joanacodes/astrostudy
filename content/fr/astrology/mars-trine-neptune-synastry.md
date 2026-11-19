@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/mars", "/astrology/neptune", "/astrology/trine", "/astrology/mars-trine-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Mars trigone Neptune en synastrie ?"
-    a: "Environ 120° séparent Mars, chez l’une, de Neptune chez l’autre, souvent dans des signes d’un seul élément. La personne de Mars agit spontanément sur ce que celle de Neptune imagine, et les idéaux de la seconde donnent du prix à l’effort de la première. L’aspect décrit une inspiration qui circule dans les deux sens."
+    a: "L’élan d’un thème et l’imaginaire de l’autre sont en trigone, environ 120°, souvent dans des signes d’un seul élément. La personne de Mars agit spontanément sur ce que celle de Neptune imagine, et les idéaux de la seconde donnent du prix à l’effort de la première. L’aspect décrit une inspiration qui circule dans les deux sens."
   - q: "Que cache l’aisance de Mars trigone Neptune ?"
     a: "Surtout ce que personne ne vérifie. Comme les deux avancent ensemble si facilement, des projets peuvent flotter sans date, et l’énergie de la personne de Mars dériver vers les espoirs de l’autre sans que quiconque demande ce qu’elle coûte. Un peu de structure, ajoutée avec douceur, empêche le trigone de devenir flou."
   - q: "Est-ce que Mars trigone Neptune fait un bon duo créatif ?"

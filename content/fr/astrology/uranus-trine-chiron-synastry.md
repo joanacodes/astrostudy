@@ -21,7 +21,7 @@ faq:
   - q: "Que veut dire Uranus trigone Chiron en synastrie ?"
     a: "Uranus, chez une personne, se trouve à environ 120° du Chiron de l’autre, en général dans des signes du même élément. Les idées inhabituelles de la première conviennent à la façon dont la seconde vit avec une limite durable, si bien que les améliorations viennent sans lutte. L’aspect décrit une coopération facile entre invention et adaptation."
   - q: "Uranus trigone Chiron, est-ce bon signe pour une relation ?"
-    a: "Il montre une aisance entre invention et adaptation, rien de plus : un seul contact ne règle jamais la question de savoir si une relation marche. Cette aisance a un angle mort : quand les solutions arrivent aussi bien, l’effort que fait encore la personne de Chiron peut passer inaperçu des deux. Le nommer de temps en temps garde le trigone honnête."
+    a: "Ce trigone montre une aisance entre invention et adaptation, rien de plus : un seul contact ne règle jamais la question de savoir si une relation marche. Cette aisance a un angle mort : quand les solutions arrivent aussi bien, l’effort que fait encore la personne de Chiron peut passer inaperçu des deux. Le nommer de temps en temps garde le trigone honnête."
   - q: "Qui a Uranus trigone Chiron avec quelqu’un ?"
     a: "Seules les dates de naissance décident. Une personne née au milieu de 1975 et toute personne née entre avril et juillet 1988 l’ont dans les deux sens : Uranus, chez chacune, forme un trigone avec le Chiron de l’autre. Toute personne née dans ces quatre mois aurait les mêmes trigones avec les mêmes gens : c’est pourquoi je le lis par les maisons."
 sources:

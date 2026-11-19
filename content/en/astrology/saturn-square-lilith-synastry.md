@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 308
 glyph: "♄□⚸"
-definition: "Saturn square Lilith in synastry is a right angle, within 4.25°, between one person’s Saturn and the other’s Black Moon Lilith. One person’s rules and sense of what is proper keep catching on what the other refuses to give up. I read it as friction that tests both the rules and the refusals, never as a battle of wills."
+definition: "In Saturn square Lilith in synastry, one person’s Saturn stands at right angles, within 4.25°, to the other’s Black Moon Lilith. One person’s rules and sense of what is proper keep catching on what the other refuses to give up. I read it as friction that tests both the rules and the refusals, never as a battle of wills."
 facts:
   - { k: "Bodies", v: "One person’s Saturn ♄, the other’s Black Moon Lilith ⚸" }
   - { k: "Aspect", v: "Square □, 90°" }

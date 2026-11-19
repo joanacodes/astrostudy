@@ -21,7 +21,7 @@ faq:
   - q: "Que veut dire Saturne carré Lilith en synastrie ?"
     a: "Un quart de zodiaque sépare Saturne, dans un thème, de la Lune noire Lilith, dans l’autre. Ce que la personne de Saturne tient pour convenable ou nécessaire bute sans cesse sur ce que celle de Lilith refuse de céder. La friction peut apprendre aux deux quelles règles et quels refus valent encore d’être gardés."
   - q: "Est-ce que Saturne carré Lilith annonce des conflits ?"
-    a: "Ce contact décrit une friction, ce qui n’est pas la même chose. Deux personnes peuvent vivre des années avec un carré et en sortir avec de meilleures règles et des limites plus claires. Le carré ne prédit ni dispute ni issue, et comme des fenêtres de naissance entières le partagent, je lui donne bien moins de poids qu’à tout contact avec une planète personnelle."
+    a: "Ce contact décrit une friction, ce qui n’est pas la même chose. Deux personnes peuvent vivre des années avec un carré et en sortir avec de meilleures règles et des limites plus claires. Le carré ne prédit ni dispute ni issue, et comme il appartient à des fenêtres de naissance entières, il pèse bien moins pour moi que tout contact avec une planète personnelle."
   - q: "Pourquoi les dates de Saturne carré Lilith reviennent-elles tous les quatre ans et demi ?"
     a: "Un carré a deux points, un de chaque côté de Saturne, et la Lilith moyenne revient au même point en un peu moins de neuf ans. Elle atteint l’un des deux points environ tous les quatre ans et demi : pour une personne donnée, celles qui ont ce carré avec elle sont nées dans de courtes fenêtres, à ce rythme."
 sources:
