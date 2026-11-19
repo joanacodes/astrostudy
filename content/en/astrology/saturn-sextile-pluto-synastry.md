@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the sextile, 60°, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that give this contact" }
 ---
-Deep change in stages is what Saturn sextile Pluto in synastry can offer, with one person's Saturn about 60° from the other's Pluto and no more than 3° to spare. One knows what has to go; the other knows in what order to take it down so that nothing collapses. Between them, a renovation becomes possible, if someone picks up the first tool.
+Deep change in stages is what Saturn sextile Pluto in synastry can offer, with one person's Saturn about 60° from the other's Pluto and no more than 3° to spare. The Pluto person knows what has to go; the Saturn person knows in what order to take it down so that nothing collapses. Between them, a renovation becomes possible, if someone picks up the first tool.
 
 ## What flows {#what-flows}
 

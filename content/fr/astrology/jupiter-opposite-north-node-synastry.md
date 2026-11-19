@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact, avec le nœud vrai" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai, toujours opposés" }
 ---
-Jupiter opposition Nœud Nord en synastrie met Jupiter, chez l’une, juste en face du Nœud Nord de l’autre, c’est-à-dire sur son Nœud Sud. La chaleur et la foi de la première tombent sur ce que la seconde sait déjà faire ; la direction où celle-ci grandit se trouve de l’autre côté du thème.
+En face du Nœud Nord de l’autre, juste sur son Nœud Sud : c’est là que Jupiter opposition Nœud Nord en synastrie place Jupiter, chez l’une. La chaleur et la foi de la personne de Jupiter tombent sur ce que la personne du nœud sait déjà faire ; la direction où celle-ci grandit se trouve de l’autre côté du thème.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -51,6 +51,6 @@ Servez-vous du confort comme d’un camp de base. Si Jupiter est de votre côté
 
 Dans le décompte, une naissance du milieu de 1975 s’associe ainsi aux naissances de février à août 1977, dont le Nœud Sud tombe sur la position de Jupiter de 1975, et à celles de juillet à novembre 1976, dont Jupiter se pose sur le Nœud Sud de 1975. Des périodes entières de naissances portent chaque côté : cette opposition reste donc hors de mon décompte d’une synastrie, qui n’inclut que les contacts avec le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Lue par les maisons, elle décrit la manière dont une époque honore ce qu’une autre a déjà appris, plus que quoi que ce soit entre deux personnes.
 
-Moyens ou vrais, les nœuds sont à un ou deux degrés au plus l’un de l’autre, et je pèse les deux ; les fenêtres ci-dessus ont été calculées avec le nœud vrai ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). Les maisons, où je lis ce contact, demandent les deux heures de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Je pèse les deux nœuds, le moyen et le vrai, qui ne s’écartent jamais de plus d’un ou deux degrés ; les fenêtres ci-dessus ont été calculées avec le nœud vrai ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). Lire ce contact par les maisons demande les deux heures de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Quand un seul thème contient [Jupiter opposition Nœud Nord](/astrology/jupiter-opposite-north-node/), une personne porte ses propres dons vers l’autre bout. Ici, quelqu’un d’autre admire ces dons, et la lecture demande le oui des deux personnes ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

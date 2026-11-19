@@ -34,7 +34,7 @@ A third of the zodiac separates one person's Jupiter from the other's North Node
 
 [Jupiter](/astrology/jupiter/) expands understanding and gives effort a reason. The [North Node](/astrology/north-node/) is the less familiar capacity a person builds through repetition and feedback, set against the South Node's established strengths. A [trine](/astrology/trine/) lets two functions reinforce each other while each keeps its identity, and among the [synastry aspects](/astrology/synastry-aspects/) this one puts one person's outlook in step with another's growth.
 
-A trine to the North Node usually shares its element. Take a Jupiter in Virgo and a North Node in Capricorn, both earth signs: a faith in careful, useful work, supporting someone who is learning to take on responsibility and long aims. The encouragement arrives as method, not slogans.
+Jupiter trining a North Node usually falls in the node's element. Take a Jupiter in Virgo and a North Node in Capricorn, both earth signs: a faith in careful, useful work, supporting someone who is learning to take on responsibility and long aims. The encouragement arrives as method, not slogans.
 
 If the North Node is yours, this person makes the unfamiliar feel reachable. They rarely push; they simply assume you'll get there, and that assumption carries you through the clumsy stage. The lighter sextile to your South Node means your old strengths stay welcome as tools.
 
@@ -57,6 +57,6 @@ Leave some of the struggle in place. If the Jupiter is yours, ask what they've t
 
 The dates are the whole story of who has it. Born in mid-1965? Then anyone born from April to October 1971 has a North Node 120° from your Jupiter, and anyone born from April to July 1973 a Jupiter 120° from your North Node. Both sides belong to whole runs of births, so I don't treat this trine as something two people share personally: my count of a synastry takes only contacts involving the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. Through the houses, I read it as one era backing another, more than one person backing another.
 
-Mean node and true node are a degree or two apart at most; I check both, and the dates use the true node ([mean node and true node](/astrology/mean-node-and-true-node/)). The hour won't change the trine, but it sets the houses, and I need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
+There's never more than a degree or two between the mean node and the true node; I check both, and the dates use the true node ([mean node and true node](/astrology/mean-node-and-true-node/)). The hour won't change the trine, but it sets the houses, and I need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Inside one chart, [Jupiter trine North Node](/astrology/jupiter-trine-north-node/) is a person whose own beliefs carry them forward. Between two charts, one person carries part of the other's confidence for a while, and both decide whether it's read ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

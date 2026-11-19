@@ -33,7 +33,7 @@ sources:
 
 [Saturn](/astrology/saturn/) holds things in place: commitments, procedures, the authority that keeps a structure upright. [Pluto](/astrology/pluto/) presses for renewal: it exposes what has rotted, clears it, and regenerates what remains. A [square](/astrology/square/) relates them through constructive friction, and among the [synastry aspects](/astrology/synastry-aspects/) this one sets one generation's structures against another's urge to transform them.
 
-The two signs usually share a modality. One person's Saturn in Cancer with the other's Pluto in Libra, both cardinal: a duty to protect home and family, crossing a generation's drive to remake relationships on fairer terms. Two cardinal signs both want to lead, which is why the pressure here rarely lets up on its own.
+This square's signs, as so often, share a modality. One person's Saturn in Cancer with the other's Pluto in Libra, both cardinal: a duty to protect home and family, crossing a generation's drive to remake relationships on fairer terms. Two cardinal signs both want to lead, which is why the pressure here rarely lets up on its own.
 
 What the friction can build is endurance and candour. The Saturn person learns which structures are worth the effort of defending, because the others don't survive the pressure; the Pluto person learns to change things without needing everything to fall. Both get better at saying plainly who holds power, and why.
 

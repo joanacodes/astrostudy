@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, 120°, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact" }
 ---
-La manière dont une génération garde les choses et celle dont une autre les renouvelle peuvent s’emboîter : c’est Saturne trigone Uranus en synastrie, Saturne, chez l’une, à environ 120° d’Uranus chez l’autre, en général dans des signes du même élément. Entre ces deux personnes, le changement arrive souvent avec quelqu’un pour le mener à terme.
+La manière dont une génération garde les choses et celle dont une autre les renouvelle peuvent s’emboîter : c’est Saturne trigone Uranus en synastrie, Saturne chez l’une et Uranus chez l’autre à quelque 120°, d’ordinaire dans un même élément. Entre ces deux personnes, le changement arrive souvent avec quelqu’un pour le mener à terme.
 
 ## Ce qui circule {#ce-qui-circule}
 

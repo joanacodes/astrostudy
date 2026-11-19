@@ -32,9 +32,9 @@ With Jupiter square Lilith in synastry, a quarter of the zodiac lies between one
 
 ## What flows {#what-flows}
 
-[Jupiter](/astrology/jupiter/) gives a person their principles: the meaning they build, the hope they extend, the frame they grow within. [Black Moon Lilith](/astrology/black-moon-lilith/), the Moon's apogee, is read so differently from one tradition to another that I hold it as a symbol: the instinct and autonomy someone learned to hide, and the line they won't let anyone cross. A [square](/astrology/square/) relates two functions through constructive friction, and as with all [synastry aspects](/astrology/synastry-aspects/), here each function has its own owner.
+[Jupiter](/astrology/jupiter/) gives a person their principles: the meaning they build, the hope they extend, the frame they grow within. [Black Moon Lilith](/astrology/black-moon-lilith/), the Moon's apogee, is read so differently from one tradition to another that I hold it as a symbol: the instinct and autonomy someone learned to hide, and the line they won't let anyone cross. A [square](/astrology/square/) sets two functions in constructive friction; among the [synastry aspects](/astrology/synastry-aspects/), this one gives the conviction to one person and the refusal to the other.
 
-Squares usually join signs of one modality. Picture a Jupiter in Cancer meeting a Lilith in Aries, two cardinal signs: a faith in family, care and belonging, meeting someone who learned to hide their anger and their need to go first. Each starts things; they just start different things.
+This square, like most, joins signs of one modality. Picture a Jupiter in Cancer meeting a Lilith in Aries, two cardinal signs: a faith in family, care and belonging, meeting someone who learned to hide their anger and their need to go first. Each starts things; they just start different things.
 
 What the friction offers is an audit. The Jupiter person discovers where a principle has quietly become a rule for other people; the Lilith person, where a refusal has become a reflex rather than a choice. Pairs who stay with that discomfort often come out with convictions they've actually examined.
 
@@ -42,7 +42,7 @@ What the friction offers is an audit. The Jupiter person discovers where a princ
 
 If the Lilith is yours, the other person's outlook can feel like a gentle verdict. You're invited to be more hopeful, more forgiving, more reasonable than you feel, and your refusals get treated as a phase you'll grow out of. It's easy to go quiet, or to dig in harder than you meant to.
 
-If the Jupiter is yours, your goodwill keeps meeting a flat no. What you offer generously, a perspective, a reason to hope, an idea of how things could be, gets turned down, and it can feel like your whole view of life is being refused. A square is friction, never failure: what rubs is two certainties, not two people's worth.
+If the Jupiter is yours, your goodwill keeps meeting a flat no. What you offer generously, a perspective, a reason to hope, an idea of how things could be, gets turned down, and it can feel like your whole view of life is being refused. A square is friction, never failure, and what rubs here is two certainties, not two people's worth.
 
 - **[Jupiter conjunct Lilith in synastry](/astrology/jupiter-conjunct-lilith-synastry/):** principle and refusal fused, so the risk becomes adoption rather than argument.
 - **[Jupiter sextile Lilith in synastry](/astrology/jupiter-sextile-lilith-synastry/):** a polite offer the other may take at their own pace.

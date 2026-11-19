@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "Saturne parmi les trois qui ont tenu, dans des thèmes seuls" }
 ---
-Ce qu’une personne entretient, ses règles, ses rôles, ses responsabilités, se trouve, dans Saturne conjonction Pluton en synastrie, exactement là où l’autre a besoin de changer les choses à la racine : Saturne de l’une sur Pluton de l’autre. Avec deux planètes lentes, la rencontre se fait entre deux époques autant qu’entre deux personnes.
+Ce qu’une personne entretient, ses règles, ses rôles, ses responsabilités, se trouve, dans Saturne conjonction Pluton en synastrie, exactement là où l’autre a besoin de changer les choses à la racine, Saturne de l’une reposant sur Pluton de l’autre. Avec deux planètes lentes, la rencontre se fait entre deux époques autant qu’entre deux personnes.
 
 ## Ce qui circule {#ce-qui-circule}
 

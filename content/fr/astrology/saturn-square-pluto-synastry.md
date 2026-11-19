@@ -34,7 +34,7 @@ sources:
 
 [Saturne](/astrology/saturn/) tient les choses en place : les engagements, les procédures, l’autorité qui garde une structure debout. [Pluton](/astrology/pluto/) pousse au renouveau : mettre au jour ce qui a pourri, le dégager, régénérer ce qui reste. Un [carré](/astrology/square/) les relie par une friction constructive, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), celui-ci oppose les structures d’une génération à l’envie d’une autre de les transformer.
 
-Les deux signes partagent en général un mode. Saturne de l’une en Cancer, Pluton de l’autre en Balance, deux signes cardinaux : un devoir de protéger la maison et la famille, qui croise l’élan d’une génération à refaire les relations sur des bases plus justes. Deux signes cardinaux veulent l’un et l’autre mener, et c’est pourquoi la pression, ici, se relâche rarement d’elle-même.
+Les signes de ce carré, comme si souvent, ont un même mode. Saturne de l’une en Cancer, Pluton de l’autre en Balance, deux signes cardinaux : un devoir de protéger la maison et la famille, qui croise l’élan d’une génération à refaire les relations sur des bases plus justes. Deux signes cardinaux veulent l’un et l’autre mener, et c’est pourquoi la pression, ici, se relâche rarement d’elle-même.
 
 Ce que la friction peut bâtir, c’est l’endurance et la franchise. La personne de Saturne apprend quelles structures valent l’effort d’être défendues, puisque les autres ne survivent pas à la pression ; celle de Pluton apprend à changer les choses sans avoir besoin que tout tombe. Les deux apprennent à dire simplement qui détient le pouvoir, et pourquoi.
 

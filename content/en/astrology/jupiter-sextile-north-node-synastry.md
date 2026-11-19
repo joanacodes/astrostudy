@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that give this contact, with the true node" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }
 ---
-Jupiter sextile North Node in synastry puts one person's Jupiter about 60° from the other's North Node, which places it about 120° from their South Node. The first person's outlook can speak to what the second already knows and to what they're learning, and walk them from one to the other.
+A sextile to someone's North Node is also a trine to their South Node, and Jupiter sextile North Node in synastry puts one person's Jupiter in that double position: about 60° from the other's North Node, 120° from their South Node. The Jupiter person's outlook can speak to what the other already knows and to what they're learning, and walk them from one to the other.
 
 ## What flows {#what-flows}
 

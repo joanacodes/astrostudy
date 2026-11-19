@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, 60°, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact" }
 ---
-Un changement profond par étapes : voilà ce que Saturne sextile Pluton en synastrie peut offrir, avec Saturne, chez l’une, à environ 60° de Pluton chez l’autre, et 3° de marge au plus. L’une sait ce qui doit partir ; l’autre sait dans quel ordre le démonter pour que rien ne s’effondre. À elles deux, une rénovation devient possible, si quelqu’un prend le premier outil.
+Un changement profond par étapes : voilà ce que Saturne sextile Pluton en synastrie peut offrir, avec Saturne, chez l’une, à environ 60° de Pluton chez l’autre, et 3° de marge au plus. La personne de Pluton sait ce qui doit partir ; celle de Saturne sait dans quel ordre le démonter pour que rien ne s’effondre. À elles deux, une rénovation devient possible, si quelqu’un prend le premier outil.
 
 ## Ce qui circule {#ce-qui-circule}
 

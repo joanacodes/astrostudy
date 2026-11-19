@@ -39,11 +39,11 @@ Si Lilith est de votre côté, vous cessez peut-être de vous corriger auprès d
 
 Si Jupiter est de votre côté, la part indomptée de l’autre s’accorde sans effort avec votre idée de la vie. Vous êtes peut-être la première personne à la traiter comme ordinaire. Votre confiance dans les gens trouve un exemple vivant.
 
-Un même élément les tient en général. Jupiter de l’une en Sagittaire, Lilith de l’autre en Lion, deux signes de feu : un regard large et aventureux, à côté d’une personne qui a appris à cacher combien elle voulait être vue. Auprès de ce regard-là, être vue cesse de paraître excessif.
+Leurs deux signes partagent souvent un élément. Jupiter de l’une en Sagittaire, Lilith de l’autre en Lion, deux signes de feu : un regard large et aventureux, à côté d’une personne qui a appris à cacher combien elle voulait être vue. Auprès de ce regard-là, être vue cesse de paraître excessif.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-L’aisance cache ce qui n’est jamais mis à l’épreuve. L’accueil peut rester dans la relation, une liberté qui existe dans une cuisine ou une amitié et nulle part ailleurs. Et il va souvent dans un seul sens : la personne de Jupiter fait de la place, celle de Lilith la prend, et personne ne demande ce que la première garde pour elle. L’aisance n’est pas une fatalité ; un trigone laissé à lui-même devient une habitude confortable.
+Ce que l’aisance cache, c’est ce qui n’a jamais été éprouvé. L’accueil peut rester dans la relation, une liberté qui existe dans une cuisine ou une amitié et nulle part ailleurs. Et il va souvent dans un seul sens : la personne de Jupiter fait de la place, celle de Lilith la prend, et personne ne demande ce que la première garde pour elle. L’aisance n’est pas une fatalité ; un trigone laissé à lui-même devient une habitude confortable.
 
 - **[Jupiter conjonction Lilith en synastrie](/astrology/jupiter-conjunct-lilith-synastry/) :** plus près, plus chargé, et l’accueil tourne à la cause.
 - **[Jupiter sextile Lilith en synastrie](/astrology/jupiter-sextile-lilith-synastry/) :** moitié moins d’écart, et l’accueil arrive comme une offre à accepter.
@@ -58,4 +58,4 @@ Si votre naissance tombe au milieu de 1995, vous l’avez avec les personnes né
 
 C’est l’heure de chaque naissance qui place ces maisons ; le trigone, lui, ne dépend pas de l’heure, car Jupiter et Lilith bougent à peine en un jour ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Les dates supposent la Lilith moyenne ; la Lilith vraie, qui s’écarte parfois de dizaines de degrés, peut dire autre chose ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)).
 
-Quand un seul thème contient [Jupiter trigone Lilith](/astrology/jupiter-trine-lilith/), l’accueil est intérieur. Ici, une personne l’offre à une autre, et il touche ce que l’autre garde pour elle : je ne lis donc ce contact que si les deux le demandent ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Quand un seul thème contient [Jupiter trigone Lilith](/astrology/jupiter-trine-lilith/), l’accueil est intérieur. Ici, une personne l’offre à une autre, et il touche ce que l’autre garde pour elle : c’est pourquoi j’attends que les deux le demandent ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

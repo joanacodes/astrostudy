@@ -44,7 +44,7 @@ Si Saturne est de votre côté, chaque fois que vous réglez une chose, cette pe
 
 Si Uranus est de votre côté, la prudence de l’autre heurte votre liberté par le côté. On vous demande des raisons, des délais, des garanties, et vous pouvez vous surprendre à enfreindre des règles qui ne vous gênaient pas, juste pour respirer. Rien de cela ne fait du carré un échec : c’est une friction entre deux ensembles d’habitudes, et la valeur de personne n’est en jeu.
 
-- **[Saturne conjonction Uranus en synastrie](/astrology/saturn-conjunct-uranus-synastry/) :** aucun angle où se disputer ; la règle et la réforme partagent un degré.
+- **[Saturne conjonction Uranus en synastrie](/astrology/saturn-conjunct-uranus-synastry/) :** les deux sur un seul degré, sans plus rien à se disputer de biais.
 - **[Saturne sextile Uranus en synastrie](/astrology/saturn-sextile-uranus-synastry/) :** un signe plus près, où la méthode et l’invention peuvent s’allier.
 - **[Saturne trigone Uranus en synastrie](/astrology/saturn-trine-uranus-synastry/) :** un signe plus loin, où le changement et la continuité s’entendent.
 - **[Saturne opposition Uranus en synastrie](/astrology/saturn-opposite-uranus-synastry/) :** face à face plutôt qu’en travers, chacune tirant vers un bout.

@@ -43,9 +43,9 @@ The signs of a sextile usually belong to elements that get on. One person's Uran
 
 A sextile hides how easily it goes unused. Each person can assume the worst of the other's generation: the Uranus person expects a refusal and never asks, the Saturn person expects impatience and never offers. The orb is only 3°, so the contact speaks quietly, and the alliance stays hypothetical.
 
-The other angles change the terms:
+Change the angle and the terms change:
 
-- **[Saturn conjunct Uranus in synastry](/astrology/saturn-conjunct-uranus-synastry/):** rule and reform on one degree, hard to tell apart.
+- **[Saturn conjunct Uranus in synastry](/astrology/saturn-conjunct-uranus-synastry/):** the rule and the reform share a degree and start to look alike.
 - **[Saturn square Uranus in synastry](/astrology/saturn-square-uranus-synastry/):** the same two functions, now at cross purposes.
 - **[Saturn trine Uranus in synastry](/astrology/saturn-trine-uranus-synastry/):** cooperation that needs no invitation.
 - **[Saturn opposite Uranus in synastry](/astrology/saturn-opposite-uranus-synastry/):** each person pulled to one end, and a balance to find.
@@ -58,4 +58,4 @@ Two pairs from the count show the spread: a person born in mid-1985 with anyone 
 
 Both birth times set those houses; the sextile itself is indifferent to the hour ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-[Saturn sextile Uranus](/astrology/saturn-sextile-uranus/), in one chart, is a person's own knack for workable reform. Across two charts, the knack is shared out, and it's read only when both people ask for it ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+[Saturn sextile Uranus](/astrology/saturn-sextile-uranus/) inside one chart lets a person reform things in ways that stick. Across two charts, that ability is shared out, and it's read only when both people ask for it ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

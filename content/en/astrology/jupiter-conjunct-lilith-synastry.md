@@ -32,7 +32,7 @@ Jupiter conjunct Lilith in synastry lays one person's Jupiter over the other's B
 
 ## What flows {#what-flows}
 
-[Jupiter](/astrology/jupiter/) widens: it studies, draws meaning from experience, builds principles and leaves room to grow. [Black Moon Lilith](/astrology/black-moon-lilith/), the point where the Moon's orbit takes it farthest from Earth, is read very differently from one school to the next; I read it as instinctive autonomy, the material someone set aside to be acceptable, and their own sense of power and limits. A [conjunction](/astrology/conjunction/) makes two functions act as one, and among the [synastry aspects](/astrology/synastry-aspects/) this one gives the widening to one person and the untamed part to the other.
+[Jupiter](/astrology/jupiter/) makes room: it studies, draws meaning from experience, builds principles and leaves space to grow. [Black Moon Lilith](/astrology/black-moon-lilith/) is a calculated point, the far end of the Moon's orbit, and its meaning shifts from one school to another; I read it as instinctive autonomy, the material someone set aside to be acceptable, and their own sense of power and limits. A [conjunction](/astrology/conjunction/) makes two functions act as one, and among the [synastry aspects](/astrology/synastry-aspects/) this one gives the widening to one person and the untamed part to the other.
 
 If the Lilith is yours, you may find in this person a philosophy with room for what you hid. They don't flinch at your appetite or your refusals; often they seem to think those are worth something. That can feel like air after years in a small room, and on other days like being turned into an example, your wildness admired and fitted into their view of the world.
 

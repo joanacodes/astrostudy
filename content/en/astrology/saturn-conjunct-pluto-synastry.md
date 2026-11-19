@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that give this contact" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "Saturn among the three that held, in single charts" }
 ---
-What one person maintains, their rules, roles and responsibilities, sits in Saturn conjunct Pluto in synastry exactly where the other needs to change things at the root: one person's Saturn on the other's Pluto. With two slow planets, that meeting is as much between two eras as between two people.
+What one person maintains, their rules, roles and responsibilities, sits in Saturn conjunct Pluto in synastry exactly where the other needs to change things at the root, Saturn in one chart lying on Pluto in the other. With two slow planets, that meeting is as much between two eras as between two people.
 
 ## What flows {#what-flows}
 

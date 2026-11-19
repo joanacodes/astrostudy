@@ -31,25 +31,25 @@ Mercury opposite Mars in synastry seats two people at either end of one question
 
 ## What flows {#what-flows}
 
-[Mercury](/astrology/mercury/) is how a person takes things in and makes sense of them: questions, comparisons, the right word. [Mars](/astrology/mars/) is how a person goes after something: effort, nerve, the first step and the last push. An [opposition](/astrology/opposition/) relates two functions through polarity, each easier to see against the other, and in this one among the [synastry aspects](/astrology/synastry-aspects/) each function gets its own person, facing the other's.
+[Mercury](/astrology/mercury/) is how a person takes things in and makes sense of them: questions, comparisons, the right word. [Mars](/astrology/mars/) is a person's way of going after what they want: effort, nerve, the first step and the last push. An [opposition](/astrology/opposition/) relates two functions through polarity, each easier to see against the other, and in this one among the [synastry aspects](/astrology/synastry-aspects/) each function gets its own person, facing the other's.
 
 If the Mercury is yours, the other person makes your thinking concrete. You lay out three options and they've already picked one; you raise a doubt and they answer it by trying. That can feel like being rushed, and it can also be the first time your ideas have met someone who acts on them.
 
 If the Mars is yours, the other person makes your drive reflective. You arrive with a decision and leave with questions you hadn't thought to ask. That can feel like being held up, and it can also spare you a costly start.
 
-Opposite signs move in the same mode and pair fire with air, or earth with water. One person's Mercury in Libra with the other's Mars in Aries: someone who weighs both sides before speaking, facing someone who goes first and adjusts on the way. Between them, a decision can be both considered and actually made, as long as each end is allowed to do its job.
+Opposite signs move in the same mode and pair fire with air, or earth with water. Mercury in Libra facing Mars in Aries shows the pattern: someone who weighs both sides before speaking, facing someone who goes first and adjusts on the way. Between them, a decision can be both considered and actually made, as long as each end is allowed to do its job.
 
 ## Where it rubs {#where-it-rubs}
 
 The seesaw is the friction. The more the Mercury person deliberates, the harder the Mars person pushes; the harder the push, the more questions come back. Each starts to see the other as the obstacle: the one who never stops talking, the one who never stops to listen. Over time the labels stick, "the talker" and "the one who just does things", and each person can stop noticing the moments when the other is right.
 
-An opposition is a seesaw, never enmity: what you push against across the room is the half of the question you'd otherwise leave out.
+An opposition is a seesaw, never enmity, and what you push against across the room is the half of the question you'd otherwise leave out.
 
 Other angles make the exchange tighter or looser. In [Mercury conjunct Mars in synastry](/astrology/mercury-conjunct-mars-synastry/) the two ends collapse into one gesture; [Mercury sextile Mars in synastry](/astrology/mercury-sextile-mars-synastry/) makes partners who take turns; [Mercury square Mars in synastry](/astrology/mercury-square-mars-synastry/) brings the clash in from the side rather than head on; and [Mercury trine Mars in synastry](/astrology/mercury-trine-mars-synastry/) lets thinking pass into doing with hardly a pause.
 
 ## How to meet it {#how-to-meet-it}
 
-Agree where the decision point is. Give deliberation a deadline the Mars person can see, and give action a check the Mercury person can trust: "we decide on Friday", "we try it for a month, then look again". Now and then, swap ends on purpose: the Mercury person proposes the first move, the Mars person sets out the reasons. Business partners with this opposition often split the work well, one negotiating and one delivering; between a parent and an adult child it may be the conversation about the house that needs repairs; in a couple, the holiday one wants to research and the other wants to book.
+Agree where the decision point is. Give deliberation a deadline the Mars person can see, and give action a check the Mercury person can trust: "we decide on Friday", "we try it for a month, then look again". Every so often, trade places deliberately: the Mercury person proposes the first move, the Mars person sets out the reasons. Business partners with this opposition often split the work well, one negotiating and one delivering; between a parent and an adult child it may be the conversation about the house that needs repairs; in a couple, the holiday one wants to research and the other wants to book.
 
 About 1 pair of people in 15 has this opposition, one way round or the other, within 6°. Inside one chart, Mercury can face Mars only during a Mars retrograde, since Mercury keeps close to the Sun; between two people born at different times, nothing of the kind is needed. The planets hardly care about the hour, but the houses do: whether the seesaw sits in the Mercury person's working day or in the Mars person's home life depends on both birth times, and I don't read a synastry without them ([what changes without a birth time](/blog/unknown-birth-time/)).
 

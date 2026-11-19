@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, 120°, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that give this contact" }
 ---
-One generation's way of keeping things and another's way of renewing them can turn out to fit: that's Saturn trine Uranus in synastry, one person's Saturn about 120° from the other's Uranus, usually in signs of one element. Change between these two tends to come with someone who'll see it through.
+One generation's way of keeping things and another's way of renewing them can turn out to fit: that's Saturn trine Uranus in synastry, with one person's Saturn and the other's Uranus some 120° apart, as a rule in the same element. Change between these two tends to come with someone who'll see it through.
 
 ## What flows {#what-flows}
 

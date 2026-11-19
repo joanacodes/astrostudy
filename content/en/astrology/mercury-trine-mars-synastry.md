@@ -37,7 +37,7 @@ With the Mercury on your side, you are understood in practice. You explain what 
 
 With the Mars on your side, you get instructions you can actually use. The other person's thinking arrives already shaped for action, and they often find the words for what you're doing while you do it, which makes your effort visible to others as well as to you.
 
-Trines usually join two signs of one element. One person's Mercury in Scorpio with the other's Mars in Cancer, both water: a mind that says little and means all of it, beside a drive that moves to protect and provide. Half a sentence about what worries the Mercury person, and the Mars person is already dealing with it. Two colleagues with this trine can pass a project back and forth for years without a handover meeting; a parent and an adult child can clear out a garage in an afternoon.
+Trines usually join two signs of one element. Water is a typical meeting ground: Mercury in Scorpio in one chart, Mars in Cancer in the other, a mind that says little and means all of it, beside a drive that moves to protect and provide. Half a sentence about what worries the Mercury person, and the Mars person is already dealing with it. Two colleagues with this trine can pass a project back and forth for years without a handover meeting; a parent and an adult child can clear out a garage in an afternoon.
 
 ## Where it rubs {#where-it-rubs}
 

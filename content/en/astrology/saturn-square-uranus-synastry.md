@@ -43,7 +43,7 @@ If the Saturn is yours, every time you settle something, this person reopens it.
 
 If the Uranus is yours, the other's caution hits your freedom from the side. You're asked for reasons, timelines, guarantees, and you can find yourself breaking rules you didn't mind, just to breathe. None of that makes the square a failure: it's friction between two sets of habits, and neither person's worth is at stake.
 
-- **[Saturn conjunct Uranus in synastry](/astrology/saturn-conjunct-uranus-synastry/):** no angle to argue across; the rule and the reform share a degree.
+- **[Saturn conjunct Uranus in synastry](/astrology/saturn-conjunct-uranus-synastry/):** the two on a single degree, with nothing left to argue across.
 - **[Saturn sextile Uranus in synastry](/astrology/saturn-sextile-uranus-synastry/):** a sign closer, where method and invention can join forces.
 - **[Saturn trine Uranus in synastry](/astrology/saturn-trine-uranus-synastry/):** a sign further, where change and continuity agree.
 - **[Saturn opposite Uranus in synastry](/astrology/saturn-opposite-uranus-synastry/):** face to face instead of crosswise, with each pulling to an end.

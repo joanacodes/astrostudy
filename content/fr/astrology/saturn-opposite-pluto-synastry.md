@@ -32,7 +32,7 @@ Garder ou lâcher ? Saturne opposition Pluton en synastrie donne deux proprié
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Saturne](/astrology/saturn/) garde : les structures, les devoirs, ce qui vaut d’être conservé parce que cela a demandé si longtemps à bâtir. [Pluton](/astrology/pluto/) transforme : finir ce qui est fini, mettre au jour ce qui était enfoui, le rendre en force. Une [opposition](/astrology/opposition/) met deux fonctions face à face, pour que chacune se voie mieux, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), celle-ci place la garde dans un thème et la fin dans l’autre.
+[Saturne](/astrology/saturn/) garde : les structures, les devoirs, ce qui vaut d’être conservé parce que cela a demandé si longtemps à bâtir. [Pluton](/astrology/pluto/) déblaie le terrain : finir ce qui est fini, mettre au jour ce qui était enfoui, le rendre en force. Une [opposition](/astrology/opposition/) met deux fonctions face à face, pour que chacune se voie mieux, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), celle-ci place la garde dans un thème et la fin dans l’autre.
 
 Les peurs derrière chaque bout méritent d’être connues. Dans ma lecture, Saturne craint le chaos et l’effort gaspillé, tandis que Pluton a besoin de la vérité sur ce qui ne fonctionne plus, pour que les choses puissent se réorganiser. L’une a peur de perdre ce qui a été bâti, l’autre de vivre dans quelque chose de déjà mort.
 

@@ -31,7 +31,7 @@ Keep it or let it go? Saturn opposite Pluto in synastry gives that question two 
 
 ## What flows {#what-flows}
 
-[Saturn](/astrology/saturn/) guards: structures, duties, the things worth keeping because they took so long to build. [Pluto](/astrology/pluto/) transforms: it ends what is finished, uncovers what was buried, and gives it back as strength. An [opposition](/astrology/opposition/) sets two functions face to face, so that each is seen more clearly, and among the [synastry aspects](/astrology/synastry-aspects/) this one puts the keeping in one chart and the ending in the other.
+[Saturn](/astrology/saturn/) guards: structures, duties, the things worth keeping because they took so long to build. [Pluto](/astrology/pluto/) clears the ground: it ends what is finished, uncovers what was buried, and gives it back as strength. An [opposition](/astrology/opposition/) sets two functions face to face, so that each is seen more clearly, and among the [synastry aspects](/astrology/synastry-aspects/) this one puts the keeping in one chart and the ending in the other.
 
 The fears behind each end are worth knowing. As I read them, Saturn fears chaos and wasted effort, while Pluto needs the truth about what has stopped working, so that things can be reorganised. One person is afraid of losing what was built, the other of living inside something already dead.
 

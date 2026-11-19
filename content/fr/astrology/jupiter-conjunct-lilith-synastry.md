@@ -29,11 +29,11 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact, avec la Lilith moyenne" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "Lilith parmi les trois placements qui ont le mieux tenu" }
 ---
-Jupiter conjonction Lilith en synastrie pose Jupiter, chez l’une, sur la Lune noire Lilith de l’autre. Ce en quoi la première croit, et la place que cela fait aux autres, tombe sur ce que la seconde a appris à cacher : la part qu’on lui a dite « de trop ».
+Jupiter, chez une personne, vient se poser sur la Lune noire Lilith de l’autre dans Jupiter conjonction Lilith en synastrie. Ce en quoi la première croit, et la place que cela fait aux autres, tombe sur ce que la seconde a appris à cacher : la part qu’on lui a dite « de trop ».
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Jupiter](/astrology/jupiter/) élargit : étudier, tirer du sens de l’expérience, bâtir des principes, laisser de la place pour grandir. La [Lune noire Lilith](/astrology/black-moon-lilith/), le point où l’orbite de la Lune l’emmène le plus loin de la Terre, se lit différemment d’une école à l’autre ; j’y lis l’autonomie instinctive, ce qu’une personne a mis de côté pour être acceptable, et son rapport à sa force et à ses limites. Une [conjonction](/astrology/conjunction/) fait agir deux fonctions comme une seule, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), celle-ci confie l’élargissement à l’une et la part indomptée à l’autre.
+[Jupiter](/astrology/jupiter/) ouvre de l’espace : étudier, tirer du sens de l’expérience, bâtir des principes, laisser de l’espace pour grandir. La [Lune noire Lilith](/astrology/black-moon-lilith/), point où la Lune s’éloigne le plus de la Terre, prend des sens différents selon les écoles ; j’y lis l’autonomie instinctive, ce qu’une personne a mis de côté pour être acceptable, et son rapport à sa force et à ses limites. Une [conjonction](/astrology/conjunction/) fait agir deux fonctions comme une seule, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), celle-ci confie l’élargissement à l’une et la part indomptée à l’autre.
 
 Si Lilith est de votre côté, cette personne a peut-être une philosophie où ce que vous cachiez trouve sa place. Votre appétit, vos refus ne la font pas tressaillir ; elle semble penser qu’ils valent quelque chose. Cela peut ressembler à de l’air après des années dans une petite pièce, et d’autres jours à devenir un exemple, votre part sauvage admirée et rangée dans sa vision du monde.
 

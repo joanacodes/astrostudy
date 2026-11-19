@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that give this contact, with the true node" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true, always opposite" }
 ---
-Jupiter opposite North Node in synastry sets one person's Jupiter across from the other's North Node, which means right on top of their South Node. The first person's warmth and faith land on what the second already knows how to do; the direction the second is growing in sits on the far side of the chart.
+Across from the other's North Node, right on top of their South Node: that's where Jupiter opposite North Node in synastry puts one person's Jupiter. The Jupiter person's warmth and faith land on what the node person already knows how to do; the direction the node person is growing in sits on the far side of the chart.
 
 ## What flows {#what-flows}
 
@@ -50,6 +50,6 @@ Use the comfort as a base. If the Jupiter is yours, ask now and then about the u
 
 In the count, a birth in mid-1975 pairs this way with births from February to August 1977, whose South Node falls on the 1975 Jupiter, and with births from July to November 1976, whose Jupiter sits on the 1975 South Node. Whole spells of births carry each side, so this opposition stays outside my count of a synastry, which only includes contacts with the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. Read through the houses, it describes how one era honours what another has already learned, more than anything between two people.
 
-Mean or true, the nodes sit a degree or two apart at most, and I weigh both; the windows above were worked out with the true node ([mean node and true node](/astrology/mean-node-and-true-node/)). The houses, where I read it, need both birth times ([what changes without a birth time](/blog/unknown-birth-time/)).
+I weigh both nodes, the mean and the true, which never part by more than a degree or two; the windows above were worked out with the true node ([mean node and true node](/astrology/mean-node-and-true-node/)). Reading it through the houses takes both birth times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 When one chart holds [Jupiter opposite North Node](/astrology/jupiter-opposite-north-node/), a person carries their own gifts across. Here the gifts are admired by someone else, and a reading of it needs both people's yes ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

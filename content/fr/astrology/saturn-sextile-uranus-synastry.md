@@ -44,9 +44,9 @@ Les deux signes d’un sextile ont d’ordinaire des éléments qui s’entenden
 
 Un sextile cache la facilité avec laquelle on le laisse dormir. Chacune peut supposer le pire de la génération de l’autre : la personne d’Uranus s’attend à un refus et ne demande jamais, celle de Saturne s’attend à de l’impatience et ne propose jamais. L’orbe n’est que de 3° : le contact parle bas, et l’alliance reste une hypothèse.
 
-Les autres angles changent les termes :
+Changez d’angle, et les termes changent :
 
-- **[Saturne conjonction Uranus en synastrie](/astrology/saturn-conjunct-uranus-synastry/) :** la règle et la réforme sur un même degré, difficiles à distinguer.
+- **[Saturne conjonction Uranus en synastrie](/astrology/saturn-conjunct-uranus-synastry/) :** la règle et la réforme partagent un degré et finissent par se ressembler.
 - **[Saturne carré Uranus en synastrie](/astrology/saturn-square-uranus-synastry/) :** les deux mêmes fonctions, désormais à contre-courant.
 - **[Saturne trigone Uranus en synastrie](/astrology/saturn-trine-uranus-synastry/) :** une coopération qui n’attend pas d’invitation.
 - **[Saturne opposition Uranus en synastrie](/astrology/saturn-opposite-uranus-synastry/) :** chaque personne tirée vers un bout, et un équilibre à trouver.
@@ -59,4 +59,4 @@ Deux paires du décompte montrent l’étendue : une personne née au milieu de
 
 Sans les deux heures, pas de maisons ; le sextile lui-même est indifférent à l’heure ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-[Saturne sextile Uranus](/astrology/saturn-sextile-uranus/), dans un seul thème, est le talent d’une personne pour les réformes praticables. Entre deux thèmes, ce talent est partagé, et je ne le lis que si les deux le demandent ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+[Saturne sextile Uranus](/astrology/saturn-sextile-uranus/), dans un seul thème, permet à une personne de réformer d’une manière qui tient. Entre deux thèmes, cette capacité se partage, et je ne lis ce contact que si les deux le demandent ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

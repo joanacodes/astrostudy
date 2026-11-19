@@ -38,7 +38,7 @@ Si Neptune est de votre côté, cette personne est un récipient qui ne se fend 
 
 Si Saturne est de votre côté, votre fiabilité devient une part de quelque chose en quoi vous croyez. Les routines que vous tiendriez de toute façon servent désormais un espoir, et vous trouverez peut-être à votre propre constance un sens que vous n’aviez jamais tout à fait nommé.
 
-Le plus souvent, les deux signes partagent un élément. Quand Neptune en Capricorne rencontre Saturne en Taureau, deux signes de terre, l’idéal d’une génération pour des institutions solides et utiles trouve un sens du devoir qui veut faire durer les bonnes choses. L’idéal reçoit des fondations ; les fondations reçoivent une raison.
+Leurs signes appartiennent le plus souvent au même élément. Quand Neptune en Capricorne rencontre Saturne en Taureau, deux signes de terre, l’idéal d’une génération pour des institutions solides et utiles trouve un sens du devoir qui veut faire durer les bonnes choses. L’idéal reçoit des fondations ; les fondations reçoivent une raison.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
@@ -55,6 +55,6 @@ Rendez visible le travail invisible. Nommez qui porte quoi, et échangez de temp
 
 Les naissances de septembre 1961 à novembre 1964 l’ont avec une personne née au milieu de 1945, leur Neptune en Scorpion en trigone avec Saturne en Cancer ; celles de mai à novembre 1998 l’ont avec une personne née au milieu de 1985, leur Saturne en Taureau en trigone avec Neptune de 1985, en Capricorne. Les contacts que partagent des séries entières de naissances restent hors de mon décompte d’une synastrie, réservé aux contacts qui touchent le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Dans les maisons, je lis celui-ci comme deux époques qui se soutiennent, plus que comme deux personnes.
 
-Le trigone ne dépend pas de l’heure ; les maisons, si, et elles demandent les deux heures de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Le trigone ne dépend pas de l’heure, à la différence des maisons, pour lesquelles il me faut les deux heures de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Dans un seul thème, [Saturne trigone Neptune](/astrology/saturn-trine-neptune/) est une personne dont la discipline et l’imagination s’entretiennent l’une l’autre. Entre deux, les deux moitiés appartiennent à deux personnes, et les deux doivent demander la lecture ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

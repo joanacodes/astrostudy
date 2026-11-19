@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact, avec la Lilith moyenne" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "ce que j’ai compté, et que c’étaient des thèmes seuls" }
 ---
-Jupiter opposition Lilith en synastrie tend une ligne entre deux personnes : à un bout, la foi et les principes de l’une ; à l’autre, les refus que la seconde a appris à cacher. Jupiter, chez la première, fait face à la Lune noire Lilith de l’autre, à environ 180°, et chacune voit chez l’autre la moitié de la vie qu’elle a laissée de côté.
+À un bout, la foi et les principes d’une personne ; à l’autre, les refus qu’une seconde a appris à cacher. Jupiter opposition Lilith en synastrie trace cette ligne entre deux thèmes, Jupiter chez la première faisant face à la Lune noire Lilith de l’autre, à environ 180°, et chacune voit chez l’autre la moitié de la vie qu’elle a laissée de côté.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -53,4 +53,4 @@ Deux fenêtres de naissance la donnent à une personne née au milieu de 1965 :
 
 Les maisons demandent les deux heures de naissance, tandis que l’opposition elle-même ignore l’heure, les deux points étant lents ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Les dates utilisent la Lilith moyenne ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)). Dans mon carnet, Saturne, Chiron et Lilith ont tenu 75 à 90 % du temps, mais je vérifiais le thème propre de chaque personne ; aucun contact entre deux thèmes n’a jamais été compté, si bien que celui-ci n’a pas de chiffre ([les trois qui ont tenu](/blog/saturn-chiron-lilith/)).
 
-Dans un seul thème, [Jupiter opposition Lilith](/astrology/jupiter-opposite-lilith/) demande à une personne de faire siens les deux bouts. Entre deux, chacune en possède un, et une lecture demande que les deux disent oui ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+À l’intérieur d’un seul thème, [Jupiter opposition Lilith](/astrology/jupiter-opposite-lilith/) oblige une personne à faire siens les deux bouts. Entre deux, chacune en possède un, et une lecture demande que les deux disent oui ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

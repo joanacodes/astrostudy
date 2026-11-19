@@ -34,7 +34,7 @@ One of them keeps asking how, with what and by when; the other keeps asking why 
 
 [Saturn](/astrology/saturn/) is the function of limits: what can be held, afforded, finished. [Neptune](/astrology/neptune/) is the function of ideals: imagination, compassion, the urge to give beyond what's measured. A [square](/astrology/square/) relates them through constructive friction, and among the [synastry aspects](/astrology/synastry-aspects/) this one gives each to a different person, often of a different generation.
 
-Squares usually share a modality. Say one chart has Saturn in Libra and the other Neptune in Capricorn, two cardinal signs: a careful sense of what's fair, crossing a generation's ideal of institutions that would actually serve people. Both want to set things going, which keeps the argument active rather than sullen.
+Most squares keep to one modality. Say one chart has Saturn in Libra and the other Neptune in Capricorn, two cardinal signs: a careful sense of what's fair, crossing a generation's ideal of institutions that would actually serve people. Both want to set things going, which keeps the argument active rather than sullen.
 
 What the friction makes possible is an idealism that has been tested, and a realism that hasn't forgotten what it's for. Pairs who keep talking end up with hopes that survive a budget and rules that remember people.
 

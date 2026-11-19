@@ -38,11 +38,11 @@ If the Lilith is yours, you may notice you stop editing yourself around this per
 
 If the Jupiter is yours, the other person's untamed side fits your sense of how life should be, with no strain. You may be the first person who treats it as ordinary. Your faith in people, whatever form it takes, gets a living example.
 
-One element usually holds both. One person's Jupiter in Sagittarius with the other's Lilith in Leo, both fire: a roomy, adventurous outlook beside someone who learned to hide how much they wanted to be seen. Around this Jupiter, being seen stops feeling like too much.
+Their two signs often share an element. One person's Jupiter in Sagittarius with the other's Lilith in Leo, both fire: a roomy, adventurous outlook beside someone who learned to hide how much they wanted to be seen. Around this Jupiter, being seen stops feeling like too much.
 
 ## Where it rubs {#where-it-rubs}
 
-Ease hides what never gets tested. The welcome can stay inside the relationship, a freedom that exists in one kitchen or one friendship and nowhere else. And it tends to run one way: the Jupiter person gives room, the Lilith person takes it, and nobody asks what the Jupiter person keeps back. Ease isn't inevitability; a trine left alone becomes a comfortable habit.
+What the ease hides is whatever never gets tested. The welcome can stay inside the relationship, a freedom that exists in one kitchen or one friendship and nowhere else. And it tends to run one way: the Jupiter person gives room, the Lilith person takes it, and nobody asks what the Jupiter person keeps back. Ease isn't inevitability; a trine left alone becomes a comfortable habit.
 
 - **[Jupiter conjunct Lilith in synastry](/astrology/jupiter-conjunct-lilith-synastry/):** closer and more charged, with the welcome turning into a cause.
 - **[Jupiter sextile Lilith in synastry](/astrology/jupiter-sextile-lilith-synastry/):** half the distance, and the welcome comes as an offer to accept.

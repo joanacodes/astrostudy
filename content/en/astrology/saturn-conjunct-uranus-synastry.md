@@ -27,11 +27,11 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the aspects; the conjunction, a meeting rather than an angle" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that give this contact" }
 ---
-Within a few degrees of one person's Uranus sits the other's Saturn: that is Saturn conjunct Uranus in synastry. The commitments the first person keeps lie exactly where the second wants to change things, and because both planets move slowly, the meeting is less between two people than between two generations.
+Within a few degrees of one person's Uranus sits the other's Saturn: that is Saturn conjunct Uranus in synastry. The commitments the Saturn person keeps lie exactly where the Uranus person wants to change things, and because both planets move slowly, the meeting is less between two people than between two generations.
 
 ## What flows {#what-flows}
 
-[Saturn](/astrology/saturn/) builds structure: responsibility, boundaries, discipline, the long view. [Uranus](/astrology/uranus/) enables change: it innovates, frees, reforms systems grown too tight. A [conjunction](/astrology/conjunction/) makes two functions one process, and among the [synastry aspects](/astrology/synastry-aspects/) this one gives the keeping to one person and the changing to the other. Saturn and Uranus also have a sign in common: Saturn is the traditional ruler of [Aquarius](/astrology/aquarius/) and Uranus its modern one. I read both, and in this contact each person brings one of them.
+[Saturn](/astrology/saturn/) holds the frame: responsibility, boundaries, discipline, the long view. [Uranus](/astrology/uranus/) opens things up: it innovates, frees, reforms systems grown too tight. A [conjunction](/astrology/conjunction/) makes two functions one process, and among the [synastry aspects](/astrology/synastry-aspects/) this one gives the keeping to one person and the changing to the other. Saturn and Uranus also have a sign in common: Saturn is the traditional ruler of [Aquarius](/astrology/aquarius/) and Uranus its modern one. I read both, and in this contact each person brings one of them.
 
 If the Saturn is yours, the other person's restlessness lands precisely where you keep your sense of what must hold. They question the rule you'd never thought to question. Sometimes they're right, and that is unsettling in a useful way.
 

@@ -38,19 +38,19 @@ Si Mercure est de votre côté, l’autre rend votre pensée concrète. Vous exp
 
 Si Mars est de votre côté, l’autre rend votre élan réfléchi. Vous arrivez avec une décision et repartez avec des questions que vous n’aviez pas pensé à poser. Cela peut donner une impression de frein, et aussi vous épargner un départ coûteux.
 
-Deux signes opposés partagent le même mode et associent le feu à l’air, ou la terre à l’eau. Mercure de l’une en Balance, Mars de l’autre en Bélier : une personne qui pèse le pour et le contre avant de parler, face à une autre qui part la première et corrige en route. Entre elles, une décision peut être à la fois réfléchie et réellement prise, pourvu que chaque bout puisse faire son travail.
+Deux signes opposés partagent le même mode et associent le feu à l’air, ou la terre à l’eau. Mercure en Balance face à Mars en Bélier montre le schéma : une personne qui pèse le pour et le contre avant de parler, face à une autre qui part la première et corrige en route. Entre elles, une décision peut être à la fois réfléchie et réellement prise, pourvu que chaque bout puisse faire son travail.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
 La balançoire est la friction elle-même. Plus la personne de Mercure délibère, plus celle de Mars pousse ; plus la poussée est forte, plus les questions reviennent. Chacune finit par voir l’autre comme l’obstacle : celle qui n’arrête pas de parler, celle qui ne s’arrête jamais pour écouter. Avec le temps, les étiquettes collent, « celle qui parle » et « celle qui fonce », et l’on cesse de remarquer les moments où l’autre a raison.
 
-Une opposition est une balançoire, jamais une inimitié : ce contre quoi vous poussez, de l’autre côté de la pièce, est la moitié de la question que vous auriez laissée de côté.
+Une opposition est une balançoire, jamais une inimitié, et ce contre quoi vous poussez, de l’autre côté de la pièce, est la moitié de la question que vous auriez laissée de côté.
 
 D’autres angles resserrent ou relâchent l’échange. Dans [Mercure conjonction Mars en synastrie](/astrology/mercury-conjunct-mars-synastry/), les deux bouts se fondent en un seul geste ; [Mercure sextile Mars en synastrie](/astrology/mercury-sextile-mars-synastry/) fait de la paire deux partenaires qui jouent à tour de rôle ; [Mercure carré Mars en synastrie](/astrology/mercury-square-mars-synastry/) fait arriver le heurt par le côté plutôt que de face ; et [Mercure trigone Mars en synastrie](/astrology/mercury-trine-mars-synastry/) laisse la pensée passer à l’action presque sans pause.
 
 ## Comment le vivre {#comment-le-vivre}
 
-Convenez de l’endroit où l’on décide. Donnez à la délibération une échéance que la personne de Mars puisse voir, et à l’action un point de contrôle auquel celle de Mercure puisse se fier : « on décide vendredi », « on essaie un mois, puis on regarde ». De temps en temps, échangez les bouts exprès : la personne de Mercure propose le premier geste, celle de Mars expose les raisons. Des associés qui ont cette opposition se partagent souvent bien le travail, l’une négocie, l’autre livre ; entre un parent et son enfant adulte, ce peut être la conversation sur la maison à réparer ; dans un couple, les vacances que l’une veut étudier et l’autre réserver.
+Convenez de l’endroit où l’on décide. Donnez à la délibération une échéance que la personne de Mars puisse voir, et à l’action un point de contrôle auquel celle de Mercure puisse se fier : « on décide vendredi », « on essaie un mois, puis on regarde ». Changez de place, parfois, exprès : la personne de Mercure propose le premier geste, celle de Mars expose les raisons. Des associés qui ont cette opposition se partagent souvent bien le travail, l’une négocie, l’autre livre ; entre un parent et son enfant adulte, ce peut être la conversation sur la maison à réparer ; dans un couple, les vacances que l’une veut étudier et l’autre réserver.
 
 Environ 1 paire de personnes sur 15 a cette opposition, dans un sens ou dans l’autre, à 6° près. Dans un seul thème, Mercure ne peut faire face à Mars que pendant une rétrogradation de Mars, puisque Mercure reste près du Soleil ; entre deux personnes nées à des moments différents, rien de tel n’est nécessaire. Les planètes se soucient peu de l’heure, mais les maisons, si : que la balançoire se trouve dans la vie de travail de la personne de Mercure ou dans la vie de famille de celle de Mars dépend des deux heures de naissance, et je ne lis pas de synastrie sans elles ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

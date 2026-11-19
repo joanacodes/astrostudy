@@ -35,7 +35,7 @@ L’une ne cesse de demander comment, avec quoi et pour quand ; l’autre ne c
 
 [Saturne](/astrology/saturn/) est la fonction des limites : ce qu’on peut tenir, payer, finir. [Neptune](/astrology/neptune/) est la fonction des idéaux : l’imagination, la compassion, l’envie de donner au-delà de ce qui se mesure. Un [carré](/astrology/square/) les relie par une friction constructive, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), celui-ci confie chacune à une personne différente, souvent d’une autre génération.
 
-Les signes d’un carré partagent en général un mode. Supposons Saturne en Balance dans un thème et Neptune en Capricorne dans l’autre, deux signes cardinaux : un sens attentif de ce qui est juste, croisant l’idéal d’une génération pour des institutions qui serviraient vraiment les gens. Les deux veulent mettre les choses en route, ce qui garde la discussion active plutôt que boudeuse.
+La plupart des carrés restent dans un même mode. Supposons Saturne en Balance dans un thème et Neptune en Capricorne dans l’autre, deux signes cardinaux : un sens attentif de ce qui est juste, croisant l’idéal d’une génération pour des institutions qui serviraient vraiment les gens. Les deux veulent mettre les choses en route, ce qui garde la discussion active plutôt que boudeuse.
 
 Ce que la friction rend possible, c’est un idéalisme mis à l’épreuve, et un réalisme qui n’a pas oublié à quoi il sert. Les paires qui continuent de se parler finissent avec des espoirs qui survivent à un budget et des règles qui se souviennent des gens.
 

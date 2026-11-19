@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact, avec le nœud vrai" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai" }
 ---
-Jupiter sextile Nœud Nord en synastrie place Jupiter, chez l’une, à environ 60° du Nœud Nord de l’autre, donc à environ 120° de son Nœud Sud. Le regard de la première peut parler à ce que la seconde sait déjà et à ce qu’elle apprend, et l’accompagner de l’un à l’autre.
+Un sextile au Nœud Nord de quelqu’un est aussi un trigone à son Nœud Sud, et Jupiter sextile Nœud Nord en synastrie met Jupiter, chez l’une, dans cette double position : à environ 60° du Nœud Nord de l’autre, à 120° de son Nœud Sud. Le regard de la personne de Jupiter peut parler à ce que l’autre sait déjà et à ce qu’elle apprend, et l’accompagner de l’un à l’autre.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -45,7 +45,7 @@ Ce qu’un sextile peut cacher, c’est la dérive. Parce que la personne de Jup
 
 Un risque plus petit guette du côté de Jupiter : offrir encore et encore la même aide à quelqu’un qui a cessé de la prendre.
 
-Vus d’ici, les autres angles :
+Depuis cette position, voici ce que font les autres angles :
 
 - **[Jupiter conjonction Nœud Nord en synastrie](/astrology/jupiter-conjunct-north-node-synastry/) :** un encouragement visant droit la croissance, et face au familier.
 - **[Jupiter carré Nœud Nord en synastrie](/astrology/jupiter-square-north-node-synastry/) :** des convictions en travers de tout le chemin, l’ancien comme le nouveau.
@@ -58,6 +58,6 @@ Terminez chaque conversation par un pas vers le nouveau, nommé et petit. Si le 
 
 Parmi les personnes nées au milieu de 1975, le sextile apparaît avec toute personne née de juillet à octobre 1983, son Nœud Nord à 60° de la position de Jupiter de 1975, et avec toute personne née d’avril à juillet 1981, chez qui Jupiter se trouve à 60° du Nœud Nord de 1975. Un contact que partagent des périodes entières de naissances dit peu de deux individus : mes synastries le laissent hors du compte, qui ne retient que les contacts où le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel prend part. Je le lis plutôt par les maisons, où ce contact marque l’écart entre deux périodes de naissances plus qu’entre deux personnes.
 
-Les mois viennent du nœud vrai ; je vérifie aussi le nœud moyen, jamais à plus d’un ou deux degrés, et avec un orbe aussi étroit les deux peuvent diverger aux bords ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). L’heure ne fait ni ne défait le sextile, mais elle fixe les maisons : il faut les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Les mois viennent du nœud vrai ; je vérifie aussi le nœud moyen, jamais à plus d’un ou deux degrés, et avec un orbe aussi étroit les deux peuvent diverger aux bords ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). L’heure ne fait ni ne défait le sextile, mais elle fixe les maisons : les deux heures me sont donc nécessaires ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 [Jupiter sextile Nœud Nord](/astrology/jupiter-sextile-north-node/), dans un seul thème, est une personne qui s’aide elle-même à avancer. Entre deux thèmes, l’aide vient de quelqu’un d’autre, et je ne lis ce contact qu’avec l’accord des deux ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

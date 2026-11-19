@@ -35,7 +35,7 @@ Un tiers du zodiaque sépare Jupiter, chez l’une, du Nœud Nord de l’autre d
 
 [Jupiter](/astrology/jupiter/) élargit la compréhension et donne une raison à l’effort. Le [Nœud Nord](/astrology/north-node/) est la capacité moins familière qu’une personne construit par la répétition, face aux forces acquises du Nœud Sud. Un [trigone](/astrology/trine/) laisse deux fonctions se renforcer en gardant chacune son identité, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), celui-ci met le regard de l’une au pas de la croissance de l’autre.
 
-Un trigone au Nœud Nord partage en général son élément. Prenez Jupiter en Vierge et un Nœud Nord en Capricorne, deux signes de terre : une foi dans le travail soigné et utile, au service d’une personne qui apprend à prendre des responsabilités et à viser loin. L’encouragement arrive sous forme de méthode, pas de slogans.
+Jupiter en trigone au Nœud Nord tombe d’ordinaire dans l’élément du nœud. Prenez Jupiter en Vierge et un Nœud Nord en Capricorne, deux signes de terre : une foi dans le travail soigné et utile, au service d’une personne qui apprend à prendre des responsabilités et à viser loin. L’encouragement arrive sous forme de méthode, pas de slogans.
 
 Si le Nœud Nord est de votre côté, cette personne rend l’inconnu accessible. Elle pousse rarement ; elle suppose simplement que vous y arriverez, et cette supposition vous porte à travers la période maladroite. Le sextile plus léger à votre Nœud Sud garde vos forces anciennes bienvenues, comme outils.
 
@@ -58,6 +58,6 @@ Laissez une part de la difficulté en place. Si Jupiter est de votre côté, dem
 
 Les dates disent tout de qui l’a. Votre naissance tombe au milieu de 1965 ? Alors toute personne née d’avril à octobre 1971 a son Nœud Nord à 120° de votre Jupiter, et toute personne née d’avril à juillet 1973 a Jupiter à 120° de votre Nœud Nord. Chaque côté appartient à des séries entières de naissances : je ne traite donc pas ce trigone comme un bien propre à deux personnes, et mon décompte d’une synastrie ne retient que les contacts touchant le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Par les maisons, je le lis comme une époque qui en épaule une autre, plus qu’une personne qui en épaule une autre.
 
-Nœud moyen et nœud vrai sont à un ou deux degrés au plus l’un de l’autre ; je vérifie les deux, et les dates utilisent le nœud vrai ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). L’heure ne change pas le trigone, mais elle fixe les maisons, et il me faut les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Entre nœud moyen et nœud vrai, il n’y a jamais plus d’un ou deux degrés ; je vérifie les deux, et les dates utilisent le nœud vrai ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). L’heure ne change pas le trigone, mais elle fixe les maisons, et il me faut les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Dans un seul thème, [Jupiter trigone Nœud Nord](/astrology/jupiter-trine-north-node/) est une personne que ses propres convictions font avancer. Entre deux thèmes, l’une porte un temps une part de la confiance de l’autre, et les deux décident si l’on lit ce contact ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

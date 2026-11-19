@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that give this contact, with mean Lilith" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "what I counted, and that it was single charts" }
 ---
-Jupiter opposite Lilith in synastry stretches a line between two people: at one end, one person's faith and principles; at the other, the refusals the second person learned to hide. Jupiter in one chart faces Black Moon Lilith in the other, about 180° apart, and each looks to the other like the half of life they left out.
+At one end, one person's faith and principles; at the other, the refusals a second person learned to hide. Jupiter opposite Lilith in synastry draws that line between two charts, Jupiter in one facing Black Moon Lilith in the other, about 180° apart, and each looks to the other like the half of life they left out.
 
 ## What flows {#what-flows}
 
