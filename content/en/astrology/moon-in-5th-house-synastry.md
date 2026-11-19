@@ -34,7 +34,7 @@ Their Moon in your 5th house makes fun feel safe. Another person's feelings find
 
 For you, the effect is often permission. You can be silly, affectionate or creative around them without feeling foolish, and they respond to what you make or suggest with real warmth. Romance, when it's there, tends to have tenderness in it as well as spark.
 
-For them, your sense of fun can be a refuge. Playing with you, laughing with you, being taken out of themselves for an afternoon soothes something, and they may show their care through treats, surprises and small pleasures. The 5th is succedent, the place where what feels safe at home grows into enjoyment, and [Leo](/astrology/leo/), warm and generous, is its natural sign. Good Fortune was its old name, and Venus has its joy there.
+For them, your sense of fun can be a refuge. Playing with you, laughing with you, being taken out of themselves for an afternoon soothes something, and they may show their care through treats, surprises and small pleasures. The 5th is succedent, the place where what feels safe at home grows into enjoyment, and [Leo](/astrology/leo/), warm and generous, is its natural sign. Its traditional name is Good Fortune, and Venus has its joy there.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -50,4 +50,4 @@ Keep the fun, and let feelings into it. Check in now and then without breaking t
 
 The other way round, if your Moon falls in their 5th house, you're the one soothed by their play, and the one to watch for leaning on them to lift your mood. [Their Moon in your 4th house](/astrology/moon-in-4th-house-synastry/) is about home; [their Moon in your 6th house](/astrology/moon-in-6th-house-synastry/) about daily routines.
 
-Over twelve hours their Moon moves six or seven degrees, so a morning birth and an evening one can put it in different houses of yours. Your own time places your 5th, and in Placidus, the house system I use, the two together decide the overlay ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). Romance or friendship, it's read only with both people knowing ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Over twelve hours their Moon moves six or seven degrees, so a morning birth and an evening one can put it in different houses of yours. Your own time places your 5th, and in Placidus, the house system I use, the two together decide the overlay, which is why I don't begin with one missing ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). Romance or friendship, it's read only with both people knowing ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
