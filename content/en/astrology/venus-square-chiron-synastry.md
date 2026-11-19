@@ -1,13 +1,13 @@
 ---
 title: "Venus square Chiron in synastry"
 h1: "Venus square Chiron between two charts"
-description: "Venus square Chiron in synastry: what delights one person can be what costs the other effort. Both sides of the friction, what it teaches, how common it is."
+description: "Venus square Chiron in synastry: what delights one person can be what costs the other effort. How each side feels it, what it teaches, how common."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 198
 glyph: "♀□⚷"
-definition: "Venus square Chiron in synastry means one person’s Venus is about 90° from the other’s Chiron, within 5.1°. The first person’s tastes and ways of showing affection can press, unknowingly, on what the second has had to work around. I read it as a rub that gets two adults saying what helps."
+definition: "Venus square Chiron in synastry means one person’s Venus is about 90° from the other’s Chiron, within 5.1°. The first person’s tastes and ways of showing affection can press, unknowingly, on what the second has learned to live around. I read it as a rub that gets two adults saying what helps."
 facts:
   - { k: "Bodies", v: "One person’s Venus ♀, the other’s Chiron ⚷" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -21,7 +21,7 @@ faq:
     a: "About 90° separate Chiron in one chart from Venus in the other, usually three signs apart. What the Venus person enjoys, or the way they show affection, can land on something the Chiron person has had to work around. It describes friction that asks both people to name what is easy and what is costly."
   - q: "Does Venus square Chiron mean one person hurts the other?"
     a: "Not as I read it. The friction usually comes from preferences landing, unseen, on a sensitivity, not from anyone meaning harm. Nobody is at fault for a tender spot or for not knowing about it. Saying plainly what helps and what doesn’t turns most of it into care."
-  - q: "How do you handle Venus square Chiron?"
+  - q: "What helps with Venus square Chiron?"
     a: "Ask rather than assume: is this easy for you, or does it cost you something? The Venus person can offer other ways to enjoy the same thing; the Chiron person can ask for an adjustment without treating the request as a weakness. Small, explicit changes do most of the work."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the square, 90°, among the four aspects of his first book" }
@@ -44,7 +44,7 @@ If the Chiron is yours, the other's pleasures can seem to measure you against a 
 
 The pair's other angles handle the same meeting differently:
 
-- **[Venus conjunct Chiron in synastry](/astrology/venus-conjunct-chiron-synastry/):** appreciation settled right on the adapted place.
+- **[Venus conjunct Chiron in synastry](/astrology/venus-conjunct-chiron-synastry/):** appreciation landing exactly where the other has adjusted.
 - **[Venus sextile Chiron in synastry](/astrology/venus-sextile-chiron-synastry/):** know-how offered once somebody asks for it.
 - **[Venus trine Chiron in synastry](/astrology/venus-trine-chiron-synastry/):** room made for each other with hardly a word.
 - **[Venus opposite Chiron in synastry](/astrology/venus-opposite-chiron-synastry/):** what's easy and what's hard-won held at two ends.

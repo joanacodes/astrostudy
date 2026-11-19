@@ -32,7 +32,7 @@ In many pairs, one person is the one who suggests the treat and the other the on
 
 ## What flows {#what-flows}
 
-[Venus](/astrology/venus/) is how someone loves and what they prize: affection, taste, the feeling that a give-and-take is even. [Saturn](/astrology/saturn/) is how they hold things together: limits, duty, plans made for the long run. An [opposition](/astrology/opposition/) sets two functions across from each other, so that each shows up the other; among the [synastry aspects](/astrology/synastry-aspects/), the two ends are lived by two different people.
+[Venus](/astrology/venus/) is how someone loves and what they prize: affection, taste, the feeling that a give-and-take is even. [Saturn](/astrology/saturn/) is how they hold things together: limits, duty, plans made for the long run. An [opposition](/astrology/opposition/) places two functions on opposite sides, so that each shows up the other; among the [synastry aspects](/astrology/synastry-aspects/), the two ends are lived by two different people.
 
 Between them, a pair with this opposition often covers both ends of a good life: something to enjoy, and the structure that keeps it possible. A friendship has its outings and someone who remembers to book them. The Venus person sees what a limit protects by seeing it held; the Saturn person sees what a pleasure is worth by seeing it enjoyed.
 

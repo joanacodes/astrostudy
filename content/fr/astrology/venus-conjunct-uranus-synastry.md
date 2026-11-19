@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/venus", "/astrology/uranus", "/astrology/conjunction", "/astrology/venus-conjunct-uranus", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Vénus conjonction Uranus en synastrie ?"
-    a: "Uranus, chez une personne, se trouve à moins de 6° de la Vénus de l’autre. La personne d’Uranus élargit ou réarrange souvent les goûts de l’autre, tandis que celle de Vénus apprécie justement ce qui rend la première différente. L’aspect décrit le goût et l’originalité qui travaillent ensemble, en couple, en amitié, en famille ou au travail."
+    a: "Uranus, chez une personne, tombe à 6° ou moins de la Vénus de l’autre. La personne d’Uranus élargit ou réarrange souvent les goûts de l’autre, tandis que celle de Vénus apprécie justement ce qui rend la première différente. L’aspect décrit le goût et l’originalité qui travaillent ensemble, en couple, en amitié, en famille ou au travail."
   - q: "Vénus conjonction Uranus en synastrie, est-ce une attirance passagère ?"
     a: "Un angle ne me dit pas combien de temps dure quoi que ce soit, et je n’essaie pas de le deviner. Cette conjonction décrit une attirance mêlée de nouveauté, qui peut sembler soudaine. Qu’un lien garde son intérêt une fois la nouveauté retombée dépend des deux adultes, pas d’Uranus."
   - q: "Qui change le plus avec Vénus conjonction Uranus ?"

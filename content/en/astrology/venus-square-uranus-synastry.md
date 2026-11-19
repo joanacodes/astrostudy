@@ -31,7 +31,7 @@ One of you is attached to how things are done; the other has just thought of a b
 
 ## What flows {#what-flows}
 
-[Venus](/astrology/venus/) is where a person's attachments live: to people, to pleasures, to the way things are shared. [Uranus](/astrology/uranus/) reconfigures: it wants the freedom to test another way, and room to be distinct. A [square](/astrology/square/) brings two functions into a friction that makes both adjust; of all the [synastry aspects](/astrology/synastry-aspects/), here the attachment belongs to one person and the urge to rearrange to the other.
+[Venus](/astrology/venus/) is where a person's attachments live: to people, to pleasures, to the way things are shared. [Uranus](/astrology/uranus/) reconfigures: it wants the freedom to test another way, and room to be distinct. A [square](/astrology/square/) sets two functions rubbing until both adjust; of all the [synastry aspects](/astrology/synastry-aspects/), here the attachment belongs to one person and the urge to rearrange to the other.
 
 The friction's gift is a pair that designs its arrangements instead of inheriting them. Because nothing stays the same by default, each person has to decide what matters. The Venus person learns which preferences are essential and which were only habit; the Uranus person learns which changes serve the bond and which are restlessness looking for an outlet. Agreements come out with room built in.
 
@@ -52,7 +52,7 @@ The pair's other angles handle keeping and changing in their own ways:
 
 ## How to meet it {#how-to-meet-it}
 
-Agree on fixed points and free zones. Two or three rituals stay put, the weekly call, the birthday tradition; elsewhere, the Uranus person is free to experiment. Before changing something the other enjoys, mention it. In a couple, that might be holidays alternating between the familiar and the new; at work, a colleague who wants a new system agreeing to keep the old one running for a month; in a family, a grown child reworking a tradition with a parent rather than around them.
+Agree on fixed points and free zones. Two or three rituals stay put, the weekly call, the birthday tradition; elsewhere, the Uranus person is free to experiment. Before changing something the other enjoys, mention it. In a couple, that might be holidays alternating between the familiar and the new; between friends, a standing dinner that stays put while the restaurant changes; at work, a colleague who wants a new system agreeing to keep the old one running for a month; in a family, a grown child reworking a tradition with a parent rather than around them.
 
 About 1 pair of people in 9 has this square, one way round or the other, within 5.1°. Uranus belongs to an era: people born within a year of the Uranus person carry Uranus within a few degrees of theirs, along with much the same appetite for change. The square becomes personal through the other's Venus, set by which season and which year they were born in. In one day Venus moves little more than a degree, so the birth time rarely decides the square; it settles the houses, the parts of each life that get rearranged ([what changes without a birth time](/blog/unknown-birth-time/)).
 

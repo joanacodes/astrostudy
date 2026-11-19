@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 183
 glyph: "♀□♅"
-definition: "Vénus carré Uranus en synastrie signifie que Vénus, chez une personne, se trouve à environ 90° d’Uranus chez l’autre, à 5,1° près. Ce à quoi la première tient rencontre sans cesse l’envie de la seconde de le réarranger : habitudes et plaisirs sont rarement laissés tranquilles. J’y lis une friction entre attachement et réinvention, que deux adultes peuvent organiser."
+definition: "Vénus carré Uranus en synastrie signifie que Vénus, chez une personne, se trouve à environ 90° d’Uranus chez l’autre, à 5,1° près. Ce à quoi la première tient se heurte sans cesse à l’envie de la seconde de le réarranger : habitudes et plaisirs restent rarement tranquilles. J’y lis une friction entre attachement et réinvention, que deux adultes peuvent organiser."
 facts:
   - { k: "Corps", v: "Vénus ♀ de l’une, Uranus ♅ de l’autre" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -53,7 +53,7 @@ Les autres angles de la paire traitent à leur façon le fait de garder et de ch
 
 ## Comment le vivre {#comment-le-vivre}
 
-Convenez de points fixes et de zones libres. Deux ou trois rituels ne bougent pas, l’appel de la semaine, la tradition d’anniversaire ; ailleurs, la personne d’Uranus est libre d’expérimenter. Avant de changer une chose que l’autre aime, dites-le. Dans un couple, cela peut donner des vacances qui alternent entre le connu et le neuf ; au travail, une collègue qui veut un nouveau système et accepte de garder l’ancien un mois ; en famille, un enfant devenu adulte qui retravaille une tradition avec ses parents plutôt que sans eux.
+Convenez de points fixes et de zones libres. Deux ou trois rituels ne bougent pas, l’appel de la semaine, la tradition d’anniversaire ; ailleurs, la personne d’Uranus est libre d’expérimenter. Avant de changer une chose que l’autre aime, dites-le. Dans un couple, cela peut donner des vacances qui alternent entre le connu et le neuf ; entre amis, un dîner régulier qui reste fixe quand le restaurant change ; au travail, une collègue qui veut un nouveau système et accepte de garder l’ancien un mois ; en famille, un enfant devenu adulte qui retravaille une tradition avec ses parents plutôt que sans eux.
 
 Environ 1 paire de personnes sur 9 a ce carré, dans un sens ou dans l’autre, à 5,1° près. Uranus appartient à une époque : naître à moins d’un an de la personne d’Uranus suffit pour avoir Uranus au même endroit à quelques degrés près, avec à peu près le même appétit de changement. Le carré devient personnel par Vénus, chez l’autre, que fixent la saison et l’année de sa naissance. En un jour, Vénus avance à peine plus d’un degré : l’heure de naissance décide rarement du carré, mais elle fixe les maisons, les parts de chaque vie qui se trouvent réarrangées ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

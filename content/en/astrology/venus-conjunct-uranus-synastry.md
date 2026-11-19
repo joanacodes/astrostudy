@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/uranus", "/astrology/conjunction", "/astrology/venus-conjunct-uranus", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Venus conjunct Uranus mean in synastry?"
-    a: "The Venus of one person and the Uranus of the other fall within 6°. The Uranus person tends to widen or rearrange the other’s tastes, while the Venus person tends to like exactly what makes the Uranus person different. It describes taste and originality working as one, between partners, friends, relatives or colleagues."
+    a: "Venus, in one person’s chart, falls within 6° of Uranus in the other’s. The Uranus person tends to widen or rearrange the other’s tastes, while the Venus person tends to like exactly what makes the Uranus person different. It describes taste and originality working as one, between partners, friends, relatives or colleagues."
   - q: "Is Venus conjunct Uranus in synastry just a passing attraction?"
     a: "I can’t tell how long anything lasts from an angle, and I don’t try. The conjunction describes attraction mixed with novelty, which can feel sudden. Whether a bond keeps its interest once the newness settles depends on the two adults, not on Uranus."
   - q: "Who changes more with Venus conjunct Uranus?"

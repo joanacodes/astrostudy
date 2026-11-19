@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’opposition, 180°, parmi les quatre aspects qu’il décrit" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6° près" }
 ---
-Dans certaines paires, l’une porte le rêve et l’autre les détails. Vénus opposition Neptune en synastrie installe souvent ce partage : la Vénus de l’une et Neptune chez l’autre se tiennent aux deux bouts du zodiaque, et ce que l’on préfère concrètement fait face à ce que l’on imagine.
+Dans certaines paires, l’une porte le rêve et l’autre les détails. Vénus opposition Neptune en synastrie installe souvent ce partage : la Vénus de l’une et Neptune chez l’autre occupent les deux extrémités du zodiaque, et ce que l’on préfère concrètement fait face à ce que l’on imagine.
 
 ## Ce qui circule {#ce-qui-circule}
 

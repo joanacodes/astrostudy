@@ -32,7 +32,7 @@ Certaines paires se pardonnent presque avant qu’il y ait quoi que ce soit à p
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Vénus](/astrology/venus/) est ce qu’une personne savoure et sa manière d’aimer : le goût, la tendresse, le souhait que donner et recevoir restent en équilibre. [Neptune](/astrology/neptune/) adoucit les lignes dures : la compassion, l’imagination, une disposition à lâcher une limite quand elle ne sert à rien. Un [trigone](/astrology/trine/) garde deux fonctions au même pas sans effort, et comme pour les autres [aspects de synastrie](/astrology/synastry-aspects/), chaque allure appartient à une personne différente.
+[Vénus](/astrology/venus/) est ce qu’une personne savoure et sa manière d’aimer : le goût, la tendresse, le souhait que donner et recevoir restent en équilibre. [Neptune](/astrology/neptune/) adoucit les lignes dures : la compassion, l’imagination, une disposition à lâcher une limite quand elle ne sert à rien. Un [trigone](/astrology/trine/) accorde sans effort le pas de deux fonctions, et comme pour les autres [aspects de synastrie](/astrology/synastry-aspects/), chaque allure appartient à une personne différente.
 
 Du côté de Vénus, ce que vous aimez est reçu avec imagination et chaleur. Les choses qui vous plaisent, un peintre, une promenade, une façon de dresser la table, semblent compter davantage une fois partagées avec cette personne. On vous aime jusque dans vos préférences les plus tendres, celles que vous gardez d’habitude pour vous.
 

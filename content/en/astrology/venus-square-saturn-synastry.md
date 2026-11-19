@@ -32,7 +32,7 @@ One of you says "let's", the other says "let's see". In Venus square Saturn in s
 
 ## What flows {#what-flows}
 
-[Venus](/astrology/venus/) holds a person's preferences and pleasures, and their wish for an exchange that feels fair. [Saturn](/astrology/saturn/) is what they hold steady: limits, commitments, the long view. A [square](/astrology/square/) puts two functions in constructive friction, and among the [synastry aspects](/astrology/synastry-aspects/) it's one where each side is carried by a different person.
+[Venus](/astrology/venus/) holds a person's preferences and pleasures, and their wish for an exchange that feels fair. [Saturn](/astrology/saturn/) is what they hold steady: limits, commitments, the long view. A [square](/astrology/square/) holds two functions at an awkward angle, where each has to develop to meet the other, and as with all [synastry aspects](/astrology/synastry-aspects/), the pleasure-seeking half and the cautious half live in different people.
 
 The friction gets the terms said out loud. What is each of you asking for, how much time can it have, what is promised and what isn't? Pleasures that survive that conversation tend to be chosen on purpose, and then they happen. The Venus person learns to make a case for what matters to them instead of hoping it will be guessed; the Saturn person learns to say yes as a decision rather than a concession, looking after what both value instead of guarding against it.
 
@@ -40,7 +40,7 @@ The friction gets the terms said out loud. What is each of you asking for, how m
 
 If the Venus is yours, your pleasures can seem to need a permit. You suggest, they assess; you show affection, and it seems to be checked for good sense. It's easy to hear "no" in their caution, and to conclude that what you value doesn't count with them.
 
-If the Saturn is yours, you may feel you're always the one saying "not yet". Their wishes arrive faster than your sense of what's sound, and you end up guarding the limits for both of you while being cast as the obstacle. Your dread of effort spent on something that won't hold gets plenty of exercise. A square is friction, never failure, and what rubs here is the timetable of pleasure, not the affection behind it.
+If the Saturn is yours, you may feel you're always the one saying "not yet". Their wishes arrive faster than your sense of what's sound, and you end up guarding the limits for both of you while being cast as the obstacle. Your dread of effort spent on something that won't hold gets plenty of exercise. A square is friction, never failure; the rub here concerns the timetable of pleasure, not the affection behind it.
 
 At other angles, the same question settles differently:
 
@@ -51,7 +51,7 @@ At other angles, the same question settles differently:
 
 ## How to meet it {#how-to-meet-it}
 
-Decide in advance what's open. The Saturn person can give the reason behind a "not yet", and a date; the Venus person can bring a wish with the details Saturn needs to say yes: when, how long, what it involves. In a couple, that might be planning the year's holidays together; between friends, agreeing which evenings work can't cancel; between a designer and a project lead, settling early how much polish the deadline allows.
+Decide in advance what's open. The Saturn person can give the reason behind a "not yet", and a date; the Venus person can bring a wish with the details Saturn needs to say yes: when, how long, what it involves. In a couple, that might be planning the year's holidays together; between friends, agreeing which evenings work can't cancel; between a designer and a project lead, settling early how much polish the deadline allows; between a parent and a grown child, agreeing what a visit includes.
 
 About 1 pair of people in 9 has this square, one way round or the other, within 5.1°. If the Saturn is yours, cousins and classmates close to your age carry nearly the same one; the square appears only with people whose Venus sits 90° from it, which comes down mostly to their birthday. Across a whole day, Venus moves about a degree at most, so the hour matters only at the edge of the orb; it always settles the houses, which show in what corner of each life the bargaining goes on ([what changes without a birth time](/blog/unknown-birth-time/)).
 

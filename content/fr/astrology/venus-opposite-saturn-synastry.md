@@ -33,7 +33,7 @@ Dans bien des paires, l’une propose la sortie et l’autre vérifie l’agenda
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Vénus](/astrology/venus/) dit comment une personne aime et ce qu’elle tient pour précieux : l’affection, le goût, le sentiment qu’un échange est égal. [Saturne](/astrology/saturn/) est sa façon de tenir les choses ensemble : les limites, le devoir, les projets faits pour durer. Une [opposition](/astrology/opposition/) place deux fonctions de part et d’autre, si bien que chacune fait ressortir l’autre ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), chaque bout a sa personne.
+[Vénus](/astrology/venus/) dit comment une personne aime et ce qu’elle tient pour précieux : l’affection, le goût, le sentiment qu’un échange est égal. [Saturne](/astrology/saturn/) est sa façon de tenir les choses ensemble : les limites, le devoir, les projets faits pour durer. Une [opposition](/astrology/opposition/) place deux fonctions de part et d’autre, si bien que chacune fait ressortir l’autre ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), les deux bouts reviennent à deux personnes.
 
 Une paire qui a cette opposition couvre souvent les deux bouts d’une vie agréable : quelque chose à savourer, et la structure qui le rend possible. Une amitié a ses sorties, et quelqu’un qui pense à les réserver. La personne de Vénus voit ce qu’une limite protège en la voyant tenue ; celle de Saturne voit ce que vaut un plaisir en le voyant savouré.
 
@@ -45,7 +45,7 @@ Les quatre autres contacts de la paire disposent autrement les mêmes bouts :
 
 - **[Vénus conjonction Saturne en synastrie](/astrology/venus-conjunct-saturn-synastry/) :** la sortie et l’agenda au même endroit, sans balançoire.
 - **[Vénus sextile Saturne en synastrie](/astrology/venus-sextile-saturn-synastry/) :** deux bouts qui coopèrent dès qu’on les y invite.
-- **[Vénus carré Saturne en synastrie](/astrology/venus-square-saturn-synastry/) :** un quart de tour, où l’on discute des conditions plutôt que des rôles.
+- **[Vénus carré Saturne en synastrie](/astrology/venus-square-saturn-synastry/) :** un angle droit, où l’on discute des conditions plutôt que des rôles.
 - **[Vénus trigone Saturne en synastrie](/astrology/venus-trine-saturn-synastry/) :** constance et plaisir réunis dans un même élément, si bien que personne n’en porte qu’un.
 
 ## Comment le vivre {#comment-le-vivre}

@@ -2,7 +2,7 @@
 title: "Vénus carré Chiron en synastrie"
 slug: "venus-carre-chiron-synastrie"
 h1: "Vénus carré Chiron entre deux thèmes"
-description: "Vénus carré Chiron en synastrie : ce qui ravit l’une peut coûter un effort à l’autre. Les deux côtés de la friction, ce qu’elle apprend, et sa fréquence."
+description: "Vénus carré Chiron en synastrie : ce qui ravit l’une peut coûter un effort à l’autre. Ce que chaque côté vit, ce que la friction apprend."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

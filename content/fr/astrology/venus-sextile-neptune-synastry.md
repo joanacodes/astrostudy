@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, 60°, qu’il compte parmi les aspects harmonieux" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 3,6° près" }
 ---
-Certaines gentillesses arrivent si discrètement qu’on ne les remarque qu’après coup. Vénus sextile Neptune en synastrie a cette qualité : la Vénus de la première personne se trouve à environ 60° de Neptune chez la seconde, et l’empathie de la seconde trouve sans cesse le chemin des goûts de la première, qui donne en retour aux rêveries de la seconde un endroit réel où vivre.
+Certaines gentillesses arrivent si discrètement qu’on ne les remarque qu’après coup. Vénus sextile Neptune en synastrie a cette qualité : la Vénus de la première personne et Neptune chez la seconde sont à quelque 60°, et l’empathie de la seconde trouve sans cesse le chemin des goûts de la première, qui donne en retour aux rêveries de la seconde un endroit réel où vivre.
 
 ## Ce qui circule {#ce-qui-circule}
 

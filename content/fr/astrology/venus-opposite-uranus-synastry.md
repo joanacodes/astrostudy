@@ -19,11 +19,11 @@ facts:
 related: ["/astrology/venus", "/astrology/uranus", "/astrology/opposition", "/astrology/venus-opposite-uranus", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Vénus opposition Uranus en synastrie ?"
-    a: "Vénus chez une personne fait face à Uranus chez l’autre, à l’opposé du zodiaque, dans des signes qui se regardent. La personne de Vénus parle souvent pour la proximité, les projets communs et les plaisirs familiers ; celle d’Uranus pour la place, le changement et les projets séparés. L’aspect décrit une polarité dont chacune peut apprendre."
+    a: "Face à la Vénus d’une personne, de l’autre côté du zodiaque, on trouve Uranus chez l’autre, dans des signes qui se regardent. La personne de Vénus parle souvent pour la proximité, les projets communs et les plaisirs familiers ; celle d’Uranus pour la place, le changement et les projets séparés. L’aspect décrit une polarité dont chacune peut apprendre."
   - q: "Est-ce que Vénus opposition Uranus veut dire que quelqu’un partira ?"
     a: "Non. Je ne lis jamais un aspect comme une prévision de rester ou de partir. Cette opposition décrit deux personnes qui répondent à la question de la proximité et de la liberté depuis deux bouts opposés, ce qui demande de négocier. Ce qu’elles en font est leur choix, pas celui du thème."
   - q: "Comment équilibrer Vénus opposition Uranus ?"
-    a: "En échangeant les bouts de temps en temps. La personne d’Uranus peut proposer un rituel ou un projet commun ; celle de Vénus peut suggérer quelque chose de nouveau ou prendre du temps seule. Quand chacune porte parfois le bout de l’autre, aucune n’a à défendre un seul côté en permanence."
+    a: "En changeant de bout, régulièrement. La personne d’Uranus peut proposer un rituel ou un projet commun ; celle de Vénus peut suggérer quelque chose de nouveau ou prendre du temps seule. Quand chacune porte parfois le bout de l’autre, aucune n’a à défendre un seul côté en permanence."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’opposition, 180°, le plus large des aspects qu’il décrit" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6° près" }

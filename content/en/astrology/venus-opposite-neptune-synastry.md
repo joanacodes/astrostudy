@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 190
 glyph: "♀☍♆"
-definition: "Venus opposite Neptune in synastry means one person’s Venus is about 180° from the other’s Neptune, within 6°. What one person concretely prefers stands across from the other’s ideals, and the details and the dream often end up split between them. I read it as a polarity that rewards swapping ends, never as disillusion."
+definition: "Venus opposite Neptune in synastry means one person’s Venus is about 180° from the other’s Neptune, within 6°. One person’s concrete preferences stand across from the other’s ideals, and the details and the dream often end up split between them. I read it as a polarity that rewards swapping ends, never as disillusion."
 facts:
   - { k: "Bodies", v: "One person’s Venus ♀, the other’s Neptune ♆" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }

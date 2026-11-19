@@ -41,7 +41,7 @@ Si Saturne est de votre côté, cette personne donne une raison à vos structure
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Deux fonctions aussi proches se mêlent, et ce qui se mêle ici, c’est l’affection et l’obligation. Côté Vénus, la question devient de savoir si l’on vous apprécie ou si l’on vous gère : les plaisirs finissent par sembler surveillés, et vous vérifiez peut-être vos propres goûts à l’aune de l’approbation de l’autre. Côté Saturne, il s’agit de savoir si l’on vous aime ou si l’on compte sur vous : l’affection de l’autre devient une responsabilité de plus à bien tenir, et chaque sortie, quelque chose à ne pas gâcher. La vieille habitude de Saturne, confondre la responsabilité et la valeur personnelle, trouve ici une place toute prête.
+Deux fonctions aussi proches se mêlent, et ce qui se mêle ici, c’est l’affection et l’obligation. Côté Vénus, la question devient de savoir si l’on vous apprécie ou si l’on vous gère : les plaisirs finissent par sembler surveillés, et vous vérifiez peut-être vos propres goûts à l’aune de l’approbation de l’autre. Côté Saturne, l’enjeu est de savoir si l’on vous aime ou si l’on compte sur vous : l’affection de l’autre devient une responsabilité de plus à bien tenir, et chaque sortie, quelque chose à ne pas gâcher. La vieille habitude de Saturne, confondre la responsabilité et la valeur personnelle, trouve ici une place toute prête.
 
 La fusion n’efface aucune des deux personnes. Les autres angles donnent plus d’espace aux deux mêmes fonctions :
 

@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/neptune", "/astrology/trine", "/astrology/venus-trine-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Venus trine Neptune mean in synastry?"
-    a: "A trine of about 120° links one person’s Venus with the other’s Neptune, usually across signs of one element. The Venus person’s tastes are met with imagination and kindness, and the Neptune person’s compassion lands on someone who enjoys it. It describes gentleness flowing both ways, in a friendship, a family, a working partnership or a couple."
+    a: "A trine of about 120° ties Neptune in one person’s chart to Venus in the other’s, usually across signs of one element. The Venus person’s tastes are met with imagination and kindness, and the Neptune person’s compassion lands on someone who enjoys it. It describes gentleness flowing both ways, in a friendship, a family, a working partnership or a couple."
   - q: "Is Venus trine Neptune a sign of true love?"
     a: "It is a sign of tenderness between two functions, which is lovely to live with, but no single contact can say what a bond is or will become, and this trine is common. How two adults treat each other over the years tells you far more."
   - q: "Are there downsides to Venus trine Neptune?"

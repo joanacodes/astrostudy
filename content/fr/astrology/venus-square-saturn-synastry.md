@@ -33,7 +33,7 @@ L’une dit « allons-y », l’autre dit « on verra ». Avec Vénus carré
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Vénus](/astrology/venus/) rassemble les préférences et les plaisirs d’une personne, et son désir d’un échange qui paraisse juste. [Saturne](/astrology/saturn/) est ce qu’elle tient : les limites, les engagements, le long terme. Un [carré](/astrology/square/) fait frotter deux fonctions pour qu’elles s’ajustent l’une à l’autre, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), c’en est un où chaque côté est porté par une personne différente.
+[Vénus](/astrology/venus/) rassemble les préférences et les plaisirs d’une personne, et son désir d’un échange qui paraisse juste. [Saturne](/astrology/saturn/) est ce qu’elle tient : les limites, les engagements, le long terme. Un [carré](/astrology/square/) fait frotter deux fonctions pour qu’elles s’ajustent, et dans les [aspects de synastrie](/astrology/synastry-aspects/), chacun des deux côtés revient à quelqu’un de différent.
 
 La friction oblige à dire les conditions à voix haute. Que demande chacune ? Combien de temps cela peut-il prendre ? Qu’est-ce qui est promis, et qu’est-ce qui ne l’est pas ? Les plaisirs qui survivent à cette conversation sont choisis exprès, et ensuite ils ont lieu. La personne de Vénus apprend à défendre ce qui compte pour elle au lieu d’espérer qu’on le devine ; celle de Saturne apprend à dire oui par décision plutôt que par concession, en veillant sur ce que les deux estiment au lieu de s’en méfier.
 
@@ -52,7 +52,7 @@ Si Saturne est de votre côté, vous voilà peut-être toujours dans le rôle de
 
 ## Comment le vivre {#comment-le-vivre}
 
-Décidez à l’avance de ce qui est ouvert. La personne de Saturne peut donner la raison d’un « pas encore », et une date ; celle de Vénus peut apporter une envie avec les détails dont l’autre a besoin pour dire oui : quand, combien de temps, ce que cela implique. Dans un couple, ce peut être de prévoir ensemble les vacances de l’année ; entre amis, de convenir des soirées que le travail ne peut pas annuler ; entre une graphiste et un chef de projet, de régler tôt le degré de finition que permet l’échéance.
+Décidez à l’avance de ce qui est ouvert. La personne de Saturne peut donner la raison d’un « pas encore », et une date ; celle de Vénus peut apporter une envie avec les détails dont l’autre a besoin pour dire oui : quand, combien de temps, ce que cela implique. Dans un couple, ce peut être de prévoir ensemble les vacances de l’année ; entre amis, de convenir des soirées que le travail ne peut pas annuler ; entre une graphiste et un chef de projet, de régler tôt le degré de finition que permet l’échéance ; entre une mère et son fils adulte, de convenir de ce que comprend une visite.
 
 Environ 1 paire de personnes sur 9 a ce carré, dans un sens ou dans l’autre, à 5,1° près. Si Saturne est de votre côté, vos cousins et vos camarades de classe à peu près du même âge ont presque la même position ; le carré n’apparaît qu’avec les personnes dont Vénus se trouve à 90° de là, ce qui tient surtout à leur date d’anniversaire. Sur une journée entière, Vénus avance d’un degré environ, au plus : l’heure ne compte donc qu’au bord de l’orbe. Mais l’heure fixe toujours les maisons, qui montrent dans quel coin de chaque vie le marchandage se fait ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

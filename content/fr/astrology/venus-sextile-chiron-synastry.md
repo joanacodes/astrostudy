@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/venus", "/astrology/chiron", "/astrology/sextile", "/astrology/venus-sextile-chiron", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Vénus sextile Chiron en synastrie ?"
-    a: "Un sextile d’environ 60° rattache Chiron, dans un thème, à la Vénus de l’autre. L’expérience d’adaptation de la personne de Chiron peut rendre ce qu’aime la personne de Vénus plus facile à partager, et celle-ci tient cette expérience pour un vrai savoir-faire. L’aspect décrit une gentillesse pratique, entre amis, en famille, entre collègues ou en couple."
+    a: "Un sextile d’environ 60° rattache Chiron, dans un thème, à la Vénus de l’autre. L’expérience d’adaptation de la personne de Chiron peut rendre ce qu’aime la personne de Vénus plus facile à partager, et celle-ci tient cette expérience pour un vrai savoir-faire. L’aspect décrit une gentillesse pratique, dans toutes sortes de liens."
   - q: "Est-ce que Vénus sextile Chiron peut aider une relation ?"
     a: "L’aspect décrit un échange utile : du savoir-faire d’un côté, de l’estime de l’autre. Comme tout sextile, il ne fait pas grand-chose si les deux personnes ne s’en saisissent pas, et aucun contact ne règle à lui seul l’avenir d’un lien. L’usage qu’en font deux adultes compte le plus."
   - q: "Qui donne le plus avec Vénus sextile Chiron ?"
