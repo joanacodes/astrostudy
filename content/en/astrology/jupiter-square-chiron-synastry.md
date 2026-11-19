@@ -58,4 +58,4 @@ For a mid-1995 birthday, the Chiron of two groups squares its Jupiter: people bo
 
 The hour of birth places the Ascendant and the Midheaven, and with them every house cusp. It can't move this square, but it decides which parts of the two lives the square touches, so I need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Born into one chart, [Jupiter square Chiron](/astrology/jupiter-square-chiron/) is a private negotiation between hope and a tender spot. Between two people, someone else is doing the hoping, and that needs care and consent ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Kept inside one chart, [Jupiter square Chiron](/astrology/jupiter-square-chiron/) is a private negotiation between hope and a tender spot. Between two people, someone else is doing the hoping, and that needs care and consent ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

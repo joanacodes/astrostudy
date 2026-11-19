@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the square, 90°, among the four aspects he describes" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that set one person’s Jupiter within 4.25° of a square to another’s Uranus" }
 ---
-One person has a framework that makes sense of things; the other keeps finding the case it doesn't cover. Jupiter square Uranus in synastry is a right angle, about 90° within 4.25°, between one person's Jupiter and the other's Uranus. Handled well, the friction between the two cohorts turns convictions into reforms.
+Give one person a framework that makes sense of things, and the other will find the case it doesn't cover. Jupiter square Uranus in synastry is a right angle, about 90° within 4.25°, between one person's Jupiter and the other's Uranus. Handled well, the friction between the two cohorts turns convictions into reforms.
 
 ## What flows {#what-flows}
 

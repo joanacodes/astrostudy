@@ -53,4 +53,4 @@ Half a century separates the pairs in one example: people born between January 1
 
 Births only hours apart share this trine, since neither body moves noticeably in a day; houses are another matter, and need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-A single chart with [Jupiter trine Chiron](/astrology/jupiter-trine-chiron/) holds the student and the teacher in one person. Between two charts the roles can be shared and swapped, and I read them only with both people's agreement ([synastry and consent](/blog/synastry-behind-their-back/)).
+Someone whose own chart has [Jupiter trine Chiron](/astrology/jupiter-trine-chiron/) is student and teacher at once. Between two charts the roles can be shared and swapped, and I read them only with both people's agreement ([synastry and consent](/blog/synastry-behind-their-back/)).

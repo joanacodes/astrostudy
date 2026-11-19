@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, 90°, parmi les aspects de son premier livre" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Jupiter d’une personne en carré de Pluton chez une autre, à 4,25° près" }
 ---
-L’une veut plus de place ; l’autre veut savoir ce qu’il y a dessous. Jupiter carré Pluton en synastrie croise les deux à angle droit, à 4,25° près : Jupiter dans un thème, Pluton dans l’autre.
+Plus de place, dit l’une ; et dessous, quoi ? demande l’autre. Jupiter carré Pluton en synastrie croise les deux à angle droit, à 4,25° près : Jupiter dans un thème, Pluton dans l’autre.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -55,7 +55,7 @@ Les quatre autres angles :
 
 Séparez ce que vous ajoutez de ce que vous déblayez, et faites-le dans l’ordre. Quand la personne de Pluton a besoin qu’une chose soit examinée, qu’elle le soit avant que celle de Jupiter propose l’étape suivante ; quand la personne de Jupiter voit une ouverture, que celle de Pluton dise ce qu’elle coûterait. Un couple qui rénove une maison ou une habitude, des amis qui repensent un projet commun, des collègues qui réorganisent une équipe, des frères et sœurs adultes qui démêlent une affaire de famille : tous ont besoin de la même séquence.
 
-Les âges peuvent être proches : Pluton, chez toutes les personnes nées entre octobre 1988 et janvier 1991, forme un carré avec Jupiter d’un anniversaire de la mi-1985, trois à cinq ans plus tôt, et les personnes nées entre juin et décembre 1961 ont l’inverse. Il échoue au seul critère que je fixe pour un aspect de synastrie, un corps personnel à l’un des bouts (le Soleil, la Lune, Mercure, Vénus, Mars, l’Ascendant ou le Milieu du Ciel), parce que toutes les personnes nées ces années-là le partagent. Dans les maisons, en revanche, il se lit comme les habitudes de croissance et de changement de deux époques qui frottent, et cela, je le lis.
+Les âges peuvent être proches : Pluton, chez toutes les personnes nées entre octobre 1988 et janvier 1991, forme un carré avec Jupiter d’un anniversaire de la mi-1985, trois à cinq ans plus tôt, et les personnes nées entre juin et décembre 1961 ont l’inverse. Ce carré échoue au seul critère que je fixe pour un aspect de synastrie, un corps personnel à l’un des bouts (le Soleil, la Lune, Mercure, Vénus, Mars, l’Ascendant ou le Milieu du Ciel), parce que toutes les personnes nées ces années-là le partagent. Dans les maisons, en revanche, il se lit comme les habitudes de croissance et de changement de deux époques qui frottent, et cela, je le lis.
 
 Une heure de naissance est un délai bien trop court pour que l’une ou l’autre planète déplace le carré ; elle compte pour tout ce que j’en dirais, les maisons : je ne le lis donc pas sans les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

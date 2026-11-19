@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, 90°, parmi les quatre aspects qu’il décrit" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Jupiter d’une personne en carré d’Uranus chez une autre, à 4,25° près" }
 ---
-L’une a un cadre qui donne sens aux choses ; l’autre trouve sans cesse le cas qu’il ne couvre pas. Jupiter carré Uranus en synastrie, c’est un angle droit, environ 90° à 4,25° près, entre Jupiter chez une personne et Uranus chez l’autre. Bien vécue, la friction entre les deux cohortes change des convictions en réformes.
+Donnez à l’une un cadre qui donne sens aux choses, et l’autre trouvera le cas qu’il ne couvre pas. Jupiter carré Uranus en synastrie, c’est un angle droit, environ 90° à 4,25° près, entre Jupiter chez une personne et Uranus chez l’autre. Bien vécue, la friction entre les deux cohortes change des convictions en réformes.
 
 ## Ce qui circule {#ce-qui-circule}
 

@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the opposition, 180°, the widest of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that set one person’s Jupiter within 5° of an opposition to another’s Pluto" }
 ---
-One person keeps opening the windows; the other keeps checking the foundations. Across the zodiac from each other, about 180° apart within 5°, one person's Jupiter and the other's Pluto make Jupiter opposite Pluto in synastry.
+In this pair, someone is always opening windows and someone is always checking the foundations. Across the zodiac from each other, about 180° apart within 5°, one person's Jupiter and the other's Pluto make Jupiter opposite Pluto in synastry.
 
 ## What flows {#what-flows}
 

@@ -53,4 +53,4 @@ It can reach across half a century: everyone born between June 1941 and Septembe
 
 Pluto takes about 248 years to circle the zodiac, so the hour of birth cannot touch the trine; what the hour decides is the houses, and both are needed before I say anything about it ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-In one person's chart, [Jupiter trine Pluto](/astrology/jupiter-trine-pluto/) keeps depth and breadth on good terms. Shared between two charts, the good terms are visible to both, and so is the temptation to stop checking them.
+Where it sits inside one person's chart, [Jupiter trine Pluto](/astrology/jupiter-trine-pluto/) keeps depth and breadth on good terms. Shared between two charts, the good terms are visible to both, and so is the temptation to stop checking them.

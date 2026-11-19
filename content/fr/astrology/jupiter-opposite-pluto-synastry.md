@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’opposition, 180°, le plus large de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Jupiter d’une personne en opposition à Pluton chez une autre, à 5° près" }
 ---
-L’une ouvre sans cesse les fenêtres ; l’autre vérifie sans cesse les fondations. D’un bout à l’autre du zodiaque, à environ 180° et à 5° près, Jupiter chez une personne et Pluton chez l’autre forment Jupiter opposition Pluton en synastrie.
+Dans cette paire, quelqu’un ouvre toujours les fenêtres et quelqu’un vérifie toujours les fondations. D’un bout à l’autre du zodiaque, à environ 180° et à 5° près, Jupiter chez une personne et Pluton chez l’autre forment Jupiter opposition Pluton en synastrie.
 
 ## Ce qui circule {#ce-qui-circule}
 

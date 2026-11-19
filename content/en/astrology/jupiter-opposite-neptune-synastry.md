@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the opposition, 180°, one of the four he describes" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that set one person’s Jupiter within 5° of an opposition to another’s Neptune" }
 ---
-One person says what they believe, the other what they long for, and each hears something missing from the other's sentence. Jupiter opposite Neptune in synastry has one person's Jupiter and the other's Neptune at opposite ends of the zodiac, about 180° apart, within 5°.
+Belief on one side, longing on the other, and each hears something missing from the other's sentence. Jupiter opposite Neptune in synastry has one person's Jupiter and the other's Neptune at opposite ends of the zodiac, about 180° apart, within 5°.
 
 ## What flows {#what-flows}
 

@@ -58,4 +58,4 @@ Two windows, half a century apart, share it with one mid-1965 birthday: people b
 
 Chiron's stretched orbit makes it linger in some signs for years and cross others quickly, but no birth hour moves it; the hour decides the houses, so without both times I don't begin ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-A person with [Jupiter conjunct Chiron](/astrology/jupiter-conjunct-chiron/) at birth looks for meaning right at their own sore point. Between two people, the meaning comes from someone else, which is why it needs inviting, and why I read this only with both of them ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Someone born under [Jupiter conjunct Chiron](/astrology/jupiter-conjunct-chiron/) looks for meaning right at their own sore point. Between two people, the meaning comes from someone else, which is why it needs inviting, and why I read this only with both of them ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

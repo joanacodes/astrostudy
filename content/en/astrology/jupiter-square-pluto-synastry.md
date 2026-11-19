@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the square, 90°, among the aspects of his first book" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that set one person’s Jupiter within 4.25° of a square to another’s Pluto" }
 ---
-One person wants more room; the other wants to know what's underneath. Jupiter square Pluto in synastry crosses the two at right angles, give or take 4.25°: Jupiter in one chart, Pluto in the other.
+More room, says one; what's underneath, asks the other. Jupiter square Pluto in synastry crosses the two at right angles, give or take 4.25°: Jupiter in one chart, Pluto in the other.
 
 ## What flows {#what-flows}
 

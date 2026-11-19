@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’opposition, 180°, l’un des quatre aspects qu’il décrit" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Jupiter d’une personne en opposition à Neptune chez une autre, à 5° près" }
 ---
-L’une dit ce qu’elle croit, l’autre ce à quoi elle aspire, et chacune entend qu’il manque quelque chose dans la phrase de l’autre. Jupiter chez une personne, Neptune chez l’autre : Jupiter opposition Neptune en synastrie les met face à face à travers tout le zodiaque, à 5° près.
+La croyance d’un côté, l’aspiration de l’autre, et chacune entend qu’il manque quelque chose dans la phrase de l’autre. Jupiter chez une personne, Neptune chez l’autre : Jupiter opposition Neptune en synastrie les met face à face à travers tout le zodiaque, à 5° près.
 
 ## Ce qui circule {#ce-qui-circule}
 

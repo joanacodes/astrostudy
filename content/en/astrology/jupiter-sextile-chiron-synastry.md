@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the sextile, 60°, one of the four he names" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that set one person’s Jupiter within 3° of a sextile to another’s Chiron" }
 ---
-Help is easiest to accept when it comes as an offer between equals. Jupiter sextile Chiron in synastry places the two about 60° apart, within 3°: one person's Jupiter, the other's Chiron, and an open invitation for each to teach the other something.
+Help is easiest to accept when it comes as an offer between equals. Jupiter sextile Chiron in synastry keeps the two about 60° apart, within 3°: one person's Jupiter, the other's Chiron, and an open invitation for each to teach the other something.
 
 ## What flows {#what-flows}
 

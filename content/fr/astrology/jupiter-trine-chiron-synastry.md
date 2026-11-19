@@ -54,4 +54,4 @@ Un demi-siècle sépare les paires d’un exemple : les personnes nées entre j
 
 Des naissances séparées de quelques heures partagent ce trigone, puisqu’aucun des deux corps ne bouge sensiblement en un jour ; les maisons, c’est autre chose, et il faut les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Un thème unique où figure [Jupiter trigone Chiron](/astrology/jupiter-trine-chiron/) réunit en une même personne celle qui apprend et celle qui enseigne. Entre deux thèmes, les rôles se partagent et s’échangent, et je ne les lis qu’avec l’accord des deux ([synastrie et consentement](/blog/synastry-behind-their-back/)).
+Apprendre et enseigner cohabitent chez la personne dont le thème contient [Jupiter trigone Chiron](/astrology/jupiter-trine-chiron/). Entre deux thèmes, les rôles se partagent et s’échangent, et je ne les lis qu’avec l’accord des deux ([synastrie et consentement](/blog/synastry-behind-their-back/)).
