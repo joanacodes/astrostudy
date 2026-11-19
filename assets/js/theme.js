@@ -9,10 +9,11 @@ const device = matchMedia('(prefers-color-scheme: dark)');
 const reduce = matchMedia('(prefers-reduced-motion: reduce)');
 const deviceTheme = () => (device.matches ? 'dark' : 'light');
 
+const valid = (t) => (t === 'dark' || t === 'light' ? t : null);
+
 function kept() {
   try {
-    const t = localStorage.getItem(KEY);
-    return t === 'dark' || t === 'light' ? t : null;
+    return valid(localStorage.getItem(KEY));
   } catch {
     return null; // storage refused (a locked-down browser): the device decides
   }
@@ -30,9 +31,11 @@ function show(theme) {
 }
 
 // Every colour takes its new value at once (see .theme-switching in site.css): the style is read once
-// in between, so turning transitions back on doesn't replay the change. Where the browser can, the
-// whole page crossfades meanwhile.
-function change(theme) {
+// in between, so turning transitions back on doesn't replay the change. When the visitor presses the
+// switch, the whole page crossfades meanwhile where the browser can. A change that comes from the
+// device or another tab lands at once: a crossfade waits for a frame, and a page nobody is looking
+// at may not draw one.
+function change(theme, fade = false) {
   if (theme === root.dataset.theme) return show(theme);
   const swap = () => {
     root.classList.add('theme-switching');
@@ -40,7 +43,7 @@ function change(theme) {
     getComputedStyle(root).getPropertyValue('color');
     root.classList.remove('theme-switching');
   };
-  if (document.startViewTransition && !reduce.matches && !document.hidden) document.startViewTransition(swap);
+  if (fade && document.startViewTransition && !reduce.matches && !document.hidden) document.startViewTransition(swap);
   else swap();
 }
 
@@ -59,16 +62,17 @@ export function initTheme() {
       } catch {
         // not kept: this page still changes, the next one opens with the device's setting
       }
-      change(next);
+      change(next, true);
     });
   }
   device.addEventListener?.('change', () => {
     if (!chosen) change(deviceTheme());
   });
-  // a choice made in another tab of this site
+  // a choice made in another tab of this site (read from the event: this tab's copy of the storage may
+  // not have caught up yet)
   addEventListener('storage', (e) => {
     if (e.key !== KEY && e.key !== null) return;
-    chosen = kept();
+    chosen = e.key === null ? null : valid(e.newValue);
     change(chosen || deviceTheme());
   });
 }
