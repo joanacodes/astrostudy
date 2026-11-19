@@ -22,7 +22,7 @@ faq:
   - q: "How does a Cancer Sun with a Leo Moon like to be loved?"
     a: "Warmth said out loud. The Cancer Sun expresses love by looking after people and keeping a home; the Leo Moon wants its warmth returned and its efforts recognised. A thank-you, a celebration, being introduced with pride: small signs of recognition reach this Moon more than people expect."
   - q: "How soon after a new moon is a Sun in Cancer, Moon in Leo birth?"
-    a: "Within about five days. The Moon was no more than 60° from the Sun, often too close to it to be seen. Only the last of these births reach the crescent; the eight-phase count calls all the others new moon births, and the new moon before them was usually in Cancer."
+    a: "Within about five days. At most 60° separated the Moon from the Sun, and the Moon was often invisible beside it. Only the last of these births reach the crescent; the eight-phase count calls all the others new moon births, and the new moon before them was usually in Cancer."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the Moon’s rule of Cancer and the Sun’s of Leo" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s lead over the Sun" }
@@ -38,7 +38,7 @@ What makes this pair unique is the rulers. Leo belongs to the [Sun](/astrology/s
 
 The lunar month had barely begun: the Moon, 1° to 60° past the Sun, was at most a fine evening crescent and often not visible at all. In the eight-phase count, these are [new moon](/astrology/new-moon/) births, except the latest, which belong to the [waxing crescent](/astrology/waxing-crescent/); the new moon just gone was usually in Cancer. Close to the border between the signs, a Sun in Cancer's last degrees and a Moon in Leo's first can even be conjunct. In a new moon birth I read purpose and need as beginning together, and with the lights in each other's signs, they keep finding their way back to each other. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) explains both phases.
 
-About 1 person in 139 has this pair. The Moon passes through Leo in roughly two and a half days, arriving from Cancer and leaving for Virgo, and a birth near either crossing is placed by its time: here, on the [Sun in Cancer, Moon in Cancer](/astrology/sun-in-cancer-moon-in-cancer/) page or on the [Sun in Cancer, Moon in Virgo](/astrology/sun-in-cancer-moon-in-virgo/) page ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). The rising sign depends on the same moment, and with two lights this bound together, the houses they occupy show where the exchange between them is lived.
+About 1 person in 139 has this pair. With Cancer on one side and Virgo on the other, Leo is crossed by the Moon in roughly two and a half days; near either crossing, it is the time of birth that places you: here, on the [Sun in Cancer, Moon in Cancer](/astrology/sun-in-cancer-moon-in-cancer/) page or on the [Sun in Cancer, Moon in Virgo](/astrology/sun-in-cancer-moon-in-virgo/) page ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). The rising sign depends on the same moment, and with two lights this bound together, the houses they occupy show where the exchange between them is lived.
 
 ## In close relationships {#in-close-relationships}
 

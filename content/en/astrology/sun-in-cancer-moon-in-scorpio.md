@@ -21,8 +21,8 @@ faq:
     a: "Deep more than loud. Both lights are in water, so feelings are strong and long-lasting: the Cancer Sun protects and remembers, the Scorpio Moon trusts slowly and completely. The pair can seem calm and private from outside while feeling a great deal inside, and it tends to love very loyally."
   - q: "How do the rulers work for a Cancer Sun with a Scorpio Moon?"
     a: "The Moon rules Cancer, so your Moon also governs your Sun’s sign. For Scorpio there are two rulers, both of which I read: Mars, its traditional ruler, for how this Moon defends what it loves, and Pluto, its modern ruler, for how it goes deep and renews itself. Tradition places Mars in its fall in Cancer."
-  - q: "What phase of the Moon goes with a Cancer Sun and a Scorpio Moon?"
-    a: "Just past the first quarter, with the Moon already more than half lit, 91° to 149° ahead of the Sun. The first quarter phase of the eight-phase count takes most of these births, the gibbous the latest; close to 120°, the trine between the lights is exact."
+  - q: "Which lunar phase comes with Sun in Cancer, Moon in Scorpio?"
+    a: "Usually the first quarter, with the Moon a little more than half lit and 91° to 149° on from the Sun; and the eight-phase count calls the latest ones gibbous. If the Moon was about 120° ahead, the two lights were in an exact trine."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the Moon’s rule of Cancer and its fall in Scorpio, Mars’s rule of Scorpio and its fall in Cancer" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s lead over the Sun" }
@@ -36,9 +36,9 @@ Cardinal water and fixed water, four signs apart: a trine by sign, the same elem
 
 The Moon rules Cancer, so your Moon also governs your Sun's sign, and here it stands in its [fall](/astrology/fall/), the sign tradition counts hardest for it. I read that as comfort that has to reach the bottom of a feeling before it arrives, with your sense of purpose following the same deep route. Of Scorpio's two rulers I read both: [Mars](/astrology/mars/), the traditional one, which the old books put in its own fall in Cancer, your Sun's sign, and [Pluto](/astrology/pluto/), the modern ruler, which shows where this Moon is willing to let a bond change its form.
 
-Past the first quarter and swelling towards full, the Moon was 91° to 149° ahead of the Sun, in the second week of the lunar month. The eight-phase count puts most of these births in the [first quarter moon](/astrology/first-quarter-moon/) phase and the latest in the [waxing gibbous moon](/astrology/waxing-gibbous-moon/), and around 120° the water trine becomes a waxing [Sun trine Moon](/astrology/sun-trine-moon/). The trine is easy, but the first quarter phase it falls in is a phase of doing, as I read it, and this pair is at its best when its depth is put to work for someone. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) says more.
+Swelling towards full, past its first quarter, your Moon had opened a lead of 91° to 149° over the Sun. In the eight-phase count, the [first quarter moon](/astrology/first-quarter-moon/) has most of them, the [waxing gibbous moon](/astrology/waxing-gibbous-moon/) the latest; around 120° the water trine becomes a waxing [Sun trine Moon](/astrology/sun-trine-moon/). The trine is easy, but the first quarter phase it falls in is a phase of doing, as I read it, and this pair is at its best when its depth is put to work for someone. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) says more.
 
-One person in 139 or so has these two lights in water. The Moon lingers in Scorpio for some two and a half days, between Libra and Sagittarius; on the day it crossed in or out, the time is what tells this page from the [Sun in Cancer, Moon in Libra](/astrology/sun-in-cancer-moon-in-libra/) and the [Sun in Cancer, Moon in Sagittarius](/astrology/sun-in-cancer-moon-in-sagittarius/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). It also sets the rising sign; with two such private lights, a rising sign in air or fire can change a great deal about how you come across.
+One person in 139 or so has these two lights in water. Two and a half days, give or take, is what the Moon needs to get through Scorpio, from Libra to Sagittarius, and a birth on one of its crossing days could equally belong to the [Sun in Cancer, Moon in Libra](/astrology/sun-in-cancer-moon-in-libra/) or the [Sun in Cancer, Moon in Sagittarius](/astrology/sun-in-cancer-moon-in-sagittarius/) until the time is known ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). That time sets the rising sign too; with two such private lights, a rising sign in air or fire can change a great deal about how you come across.
 
 ## In close relationships {#in-close-relationships}
 
@@ -46,7 +46,7 @@ You love deeply, protectively and for a long time. The Cancer Sun surrounds a pa
 
 ## At work {#at-work}
 
-Work that needs both care and depth suits this pair: counselling and support roles, family history, research into what others overlook, crisis work, keeping confidences in a position of trust. The Sun wants to protect; the Moon wants to understand what is really going on. You may be quietly formidable, the one people bring their real problems to. Workplaces built on gossip or shallow loyalties wear both lights down.
+Work that needs both care and depth suits this pair: counselling and support roles, family history, research into what others overlook, crisis work, keeping confidences in a position of trust. Your Sun guards; your Moon digs until it understands what is really going on. You may be quietly formidable, the one people bring their real problems to. Workplaces built on gossip or shallow loyalties wear both lights down.
 
 ## The hard part {#the-hard-part}
 
