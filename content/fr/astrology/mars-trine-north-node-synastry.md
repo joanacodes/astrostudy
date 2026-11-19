@@ -38,7 +38,7 @@ Certains soutiens ressemblent davantage à une compagnie qu’à un entraînemen
 
 Côté nœud, le moins familier devient plus facile quand cette personne est là. Elle ne pousse pas ; elle va simplement dans la même direction que vous, et s’exercer à ses côtés paraît naturel plutôt qu’exposé. Côté Mars, votre énergie trouve une direction qui lui plaît, et vous regardez quelqu’un devenir plus pleinement soi, en partie en votre compagnie. Comme Mars, chez vous, est aussi en sextile à son Nœud Sud, vous pouvez apprécier ce que cette personne fait déjà bien tout en soutenant ce qui est nouveau.
 
-Avec le Nœud Nord en Capricorne, par exemple, Mars en Taureau ou en Vierge prête un effort régulier et pratique à la construction d’un rôle public ; le Nœud Sud en Cancer, en sextile à Mars, garde à portée le confort du foyer sans le laisser tout retenir.
+Avec le Nœud Nord en Scorpion, par exemple, Mars en Cancer ou en Poissons prête un effort protecteur et intuitif à l’apprentissage de la confiance et du changement ; le Nœud Sud en Taureau, en sextile à Mars, garde le confort du familier à portée de main sans le laisser tout figer.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

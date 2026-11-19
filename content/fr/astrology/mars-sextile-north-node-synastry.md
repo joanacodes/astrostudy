@@ -2,7 +2,7 @@
 title: "Mars sextile Nœud Nord en synastrie"
 slug: "mars-sextile-noeud-nord-synastrie"
 h1: "Mars sextile Nœud Nord entre deux thèmes"
-description: "Mars sextile Nœud Nord en synastrie : une douce ouverture vers la croissance, et un chemin plus facile vers le familier. Les deux côtés, les deux nœuds."
+description: "Mars sextile Nœud Nord en synastrie : une porte discrète vers le neuf, une pente douce vers le familier. Les deux côtés, les deux nœuds, sa fréquence."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -30,7 +30,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 3,6° près, avec le nœud vrai" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai" }
 ---
-Il y a ici deux portes, et l’une est plus facile à franchir. Avec Mars sextile Nœud Nord en synastrie, Mars, chez l’une, regarde le Nœud Nord de l’autre sous un angle de 60° environ, et son Nœud Sud sous un angle double : une ouverture modeste vers la croissance, et un chemin bien lisse vers le familier.
+Il y a ici deux portes, et l’une est plus facile à franchir. Avec Mars sextile Nœud Nord en synastrie, Mars, chez l’une, regarde le Nœud Nord de l’autre sous un angle de 60° environ, et son Nœud Sud sous un angle double : une ouverture modeste vers la croissance, doublée d’un chemin bien lisse vers le familier.
 
 ## Ce qui circule {#ce-qui-circule}
 

@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 243
 glyph: "♂□⚸"
-definition: "Mars carré Lilith en synastrie signifie qu’un angle droit, à 5,1° près, relie Mars, chez une personne, à la Lune noire Lilith moyenne chez l’autre. La poussée de l’une rencontre sans cesse le refus de l’autre d’être dirigée, et ce frottement peut fasciner autant qu’agacer. J’y lis une friction qui apprend des limites claires, respectées des deux côtés."
+definition: "Mars carré Lilith en synastrie signifie qu’un angle droit, à 5,1° près, relie Mars, chez une personne, à la Lune noire Lilith moyenne chez l’autre. La poussée de l’une rencontre sans cesse le refus de l’autre d’être dirigée, et ce frottement peut fasciner autant qu’agacer. J’y vois l’apprentissage de limites claires, respectées des deux côtés."
 facts:
   - { k: "Corps", v: "Mars ♂ de l’une, la Lune noire Lilith ⚸ de l’autre" }
   - { k: "Aspect", v: "Carré □, 90°" }

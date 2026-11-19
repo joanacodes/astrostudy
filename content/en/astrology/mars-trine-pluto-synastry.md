@@ -1,7 +1,7 @@
 ---
 title: "Mars trine Pluto in synastry"
 h1: "Mars trine Pluto between two charts"
-description: "Mars trine Pluto in synastry: one person’s drive and the other’s depth share an element and a lot of stamina. Both sides, what the ease hides, how common."
+description: "Mars trine Pluto in synastry: drive in one person and depth in the other share an element and a lot of stamina. Both sides, what the ease hides, how common."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

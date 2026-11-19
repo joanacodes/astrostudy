@@ -37,7 +37,7 @@ Some support feels like company rather than coaching. In Mars trine North Node i
 
 On the Node side, the less familiar gets easier when this person is around. They don't push; they're simply going your way, and practising alongside them feels natural rather than exposed. On the Mars side, your energy finds a direction it likes, and you get to watch someone become more fully themselves, partly in your company. Because your Mars is also sextile their South Node, you can value what they already do well while backing what's new.
 
-With the North Node in Capricorn, say, a Mars in Taurus or Virgo lends steady, practical effort to building a public role; the South Node in Cancer, sextile that Mars, keeps the comfort of home within reach without letting it hold everything back.
+With the North Node in Scorpio, say, a Mars in Cancer or Pisces lends protective, intuitive effort to learning trust and letting things change; the South Node in Taurus, sextile that Mars, keeps the comfort of the familiar close at hand without letting it hold everything still.
 
 ## Where it rubs {#where-it-rubs}
 

@@ -38,7 +38,7 @@ Imaginez une personne amie qui répète « tu devrais essayer » à propos de 
 
 Si le nœud est à vous, la chose peu familière que vous pratiquez trouve un moteur. Avec cette personne, vous essayez plus tôt et plus souvent : le rôle autour duquel vous tourniez, l’habitude que vous vouliez prendre, la façon de prendre la parole que vous ne trouvez jamais sans aide. Si Mars est à vous, votre initiative trouve un usage qui compte pour quelqu’un d’autre, et vous aimerez peut-être être la raison pour laquelle cette personne ose enfin passer la première.
 
-Les signes donnent son sujet à la croissance. Avec le Nœud Nord en Sagittaire, la poussée va souvent vers le fait de défendre ce qu’on croit, plutôt que de rassembler encore des faits ; avec le Nœud Nord en Gémeaux, vers la curiosité et les questions, là où l’ancienne habitude était la certitude. Dans les deux cas, l’élan de la personne de Mars va justement dans cette direction.
+Les signes disent sur quoi porte la croissance. Si le Nœud Nord est en Sagittaire, la poussée va souvent vers le fait de défendre ce qu’on croit, plutôt que de rassembler encore des faits ; avec le Nœud Nord en Gémeaux, vers la curiosité et les questions, là où l’ancienne habitude était la certitude. Dans les deux cas, l’élan de la personne de Mars va justement dans cette direction.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

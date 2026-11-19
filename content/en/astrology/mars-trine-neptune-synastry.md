@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 229
 glyph: "♂△♆"
-definition: "Mars trine Neptune in synastry means a third of the zodiac, within 5.1°, separates one person’s Mars from the other’s Neptune, often in one element. Drive in one person and imagination in the other keep step, so effort follows inspiration without being told. I read it as two people setting each other in motion, which still needs a plan to land."
+definition: "Mars trine Neptune in synastry means a third of the zodiac, within 5.1°, separates one person’s Mars from the other’s Neptune, often in one element. Drive in one and imagination in the other keep step, and effort follows inspiration unprompted. I read it as two people setting each other in motion, which still needs a plan to land."
 facts:
   - { k: "Bodies", v: "One person’s Mars ♂, the other’s Neptune ♆" }
   - { k: "Aspect", v: "Trine △, 120°" }
