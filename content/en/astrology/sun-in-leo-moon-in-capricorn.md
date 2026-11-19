@@ -1,7 +1,7 @@
 ---
 title: "Sun in Leo, Moon in Capricorn"
 h1: "Sun in Leo, Moon in Capricorn in a birth chart"
-description: "Sun in Leo, Moon in Capricorn: a quincunx by sign, the Sun at home and the Moon in detriment, born under a gibbous Moon. Warmth, duty and Saturn’s weight."
+description: "Sun in Leo, Moon in Capricorn: a quincunx by sign, the Sun in its domicile, the Moon in detriment, under a gibbous Moon. Warmth, duty and Saturn’s weight."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -20,9 +20,9 @@ faq:
   - q: "Is a Leo Sun with a Capricorn Moon ambitious?"
     a: "Often, though ambition here means wanting to build something lasting with your name on it rather than wanting status. The Leo Sun brings vision and warmth, the Capricorn Moon discipline and a long view, and together they suit responsibility. The care to take is letting rest and pleasure in before the work is finished."
   - q: "Why does Saturn matter so much with a Leo Sun and a Capricorn Moon?"
-    a: "Saturn rules Capricorn, so it shows the structure your feelings lean on. In the traditional scheme Saturn also has its detriment in Leo, your Sun’s sign, which I read as duty and self-expression keeping uneasy company. And Saturn was one of three placements that held 75 to 90% of the time in my testing notes."
+    a: "Saturn rules Capricorn, so it shows the structure your feelings lean on. In the traditional scheme Saturn also has its detriment in Leo, your Sun’s sign, which I read as duty and self-expression keeping uneasy company. And in my testing notes Saturn held 75 to 90% of the time, far more often than the list as a whole."
   - q: "How close to a full moon is a Sun in Leo, Moon in Capricorn birth?"
-    a: "A few days short of it. The Moon was 120° to 180° ahead of the Sun, ten to almost fifteen days into the lunar month, and growing. Most of these births, about seven in eight, are gibbous births in the eight-phase count; the earliest belong to the first quarter phase."
+    a: "A few days short of it, with the Moon 120° to 180° ahead of the Sun and the month ten to almost fifteen days old. About seven of these births in eight are gibbous by the eight-phase reckoning, and the first few fall in its first quarter phase."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the Moon’s detriment in Capricorn, Saturn’s rule of Capricorn and its detriment in Leo" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s lead over the Sun" }
@@ -32,13 +32,13 @@ A Leo Sun wants to create and to shine; a Capricorn Moon feels safe only once th
 
 ## How they get along {#how-they-get-along}
 
-Fire and earth, fixed and cardinal, five signs apart counting from the Sun: these two share no quality at all, and by sign they make a [quincunx](/astrology/quincunx/), a link that offers neither ease nor friction but asks for steady adjustment. The [Sun in Leo](/astrology/sun-in-leo/) organises itself around expression, warmth and a centre of its own; the [Moon in Capricorn](/astrology/moon-in-capricorn/) steadies itself through structure, responsibility and a clear sense of what can be relied on. The Sun wants to be seen in what it makes, the Moon wants it to last, and they rarely ask the same question at the same time.
+Count five signs on from the Sun and you reach the Moon: fire meets earth, fixed meets cardinal, and nothing is shared, so by sign the lights make a [quincunx](/astrology/quincunx/), a link that asks for steady adjustment rather than offering ease or friction. The [Sun in Leo](/astrology/sun-in-leo/) organises itself around expression, warmth and a centre of its own; the [Moon in Capricorn](/astrology/moon-in-capricorn/) steadies itself through structure, responsibility and a clear sense of what can be relied on. The Sun wants to be seen in what it makes, the Moon wants it to last, and they rarely ask the same question at the same time.
 
-Both lights have a dignity to report, at opposite ends of the scale. Your Sun is at home in Leo; your Moon is in its [detriment](/astrology/detriment/) in Capricorn, the sign opposite Cancer, which I read as needs that would rather manage a feeling than display it, not as a cooler heart. [Saturn](/astrology/saturn/) rules Capricorn, and in the traditional scheme, which gives Saturn Aquarius as well, Leo is one of the two signs of its detriment: the ruler of your Moon is least at ease in your Sun's sign. Saturn is also one of [the three that held](/blog/saturn-chiron-lilith/) 75 to 90% of the time in my notebook, so with this Moon its sign, house and aspects are where I look hardest.
+Both lights have a dignity to report, at opposite ends of the scale. Your Sun is at home in Leo; your Moon is in its [detriment](/astrology/detriment/), the sign opposite Cancer, which I read as feelings handled through duty before they're shown, never as a colder heart. [Saturn](/astrology/saturn/) rules Capricorn, and by the traditional scheme, which gives it Aquarius as well, Leo is one of its two signs of detriment: your Moon's ruler is least at ease in your Sun's sign. In my notebook Saturn held up 75 to 90% of the time, among [the three that held](/blog/saturn-chiron-lilith/), so its house and aspects are where I look hardest here.
 
-Ten to almost fifteen days into the lunar month, the Moon stood 120° to 180° ahead of the Sun, with the opposition still a few days off. About seven births in eight fall in the [waxing gibbous moon](/astrology/waxing-gibbous-moon/) as astrologers count eight phases, the rest in the [first quarter moon](/astrology/first-quarter-moon/); at the very start of the range the lights may form a waxing [Sun trine Moon](/astrology/sun-trine-moon/), and near 150° the quincunx is exact as well as by sign. A gibbous birth, to me, describes needs still tuning themselves to a purpose that is nearly ready, and [your birth lunar phase](/astrology/your-birth-lunar-phase/) places it in the month.
+Ten to almost fifteen days into the lunar month, the Moon stood 120° to 180° ahead of the Sun, with the opposition still a few days off. About seven births in eight fall in the [waxing gibbous moon](/astrology/waxing-gibbous-moon/) as astrologers count eight phases, the rest in the [first quarter moon](/astrology/first-quarter-moon/); at the very start of the range the lights may form a waxing [Sun trine Moon](/astrology/sun-trine-moon/), and near 150° the quincunx tightens into an exact aspect. A gibbous birth, to me, describes needs still tuning themselves to a purpose that is nearly ready, and [your birth lunar phase](/astrology/your-birth-lunar-phase/) places it in the month.
 
-About 1 person in 143 is born to this pair. Capricorn holds the Moon for some two and a half days; on the day it arrived from Sagittarius or left for Aquarius, only the hour can say whether this page is yours, or the [Sun in Leo, Moon in Sagittarius](/astrology/sun-in-leo-moon-in-sagittarius/), or the [Sun in Leo, Moon in Aquarius](/astrology/sun-in-leo-moon-in-aquarius/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). Saturn's house, which I've just said I trust most, needs that hour too, and so does the rising sign: a reason, if this Moon needed one, to find the time before anything else.
+About 1 person in 143 is born to this pair. If the Moon came in from Sagittarius or left for Aquarius on your birthday, only the hour settles it between this page, the [Sun in Leo, Moon in Sagittarius](/astrology/sun-in-leo-moon-in-sagittarius/) and the [Sun in Leo, Moon in Aquarius](/astrology/sun-in-leo-moon-in-aquarius/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). Saturn's house needs that hour too, and so does the rising sign.
 
 ## In close relationships {#in-close-relationships}
 
@@ -46,7 +46,7 @@ Love, for this pair, is warm in its gestures and serious in its commitments. The
 
 ## At work {#at-work}
 
-You're built for responsibility with a name on it. The Sun wants to lead and create; the Moon brings stamina, planning and an instinct for what will still stand in ten years. That makes you good at running things: a department, a business, a production, anything that needs vision and discipline in the same pair of hands. The danger is that work becomes the place where every feeling goes to be managed, and achievement the only rest you allow yourself.
+You're built for responsibility with a name on it. The Sun wants to lead and create; the Moon brings stamina, planning and an instinct for what will still stand in ten years. That makes you good at running things that need vision and discipline in the same pair of hands. The danger is that work turns into a filing system for feelings, and achievement into the only rest you allow yourself.
 
 ## The hard part {#the-hard-part}
 

@@ -19,8 +19,8 @@ facts:
 related: ["/astrology/neptune", "/astrology/north-node", "/astrology/sextile", "/astrology/neptune-sextile-north-node", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Neptune sextile Nœud Nord en synastrie ?"
-    a: "Il décrit Neptune, chez une personne, à environ 60° du Nœud Nord de l’autre. L’imagination de la première rend souvent la nouvelle direction de la seconde moins solitaire et plus possible, sans s’en emparer. Comme tout sextile, c’est une ouverture, qui n’aide que si les deux s’en servent."
-  - q: "Neptune sextile Nœud Nord touche-t-il aussi le Nœud Sud ?"
+    a: "Ce contact décrit Neptune, chez une personne, à environ 60° du Nœud Nord de l’autre. L’imagination de la première rend souvent la nouvelle direction de la seconde moins solitaire et plus possible, sans s’en emparer. Comme tout sextile, c’est une ouverture, qui n’aide que si les deux s’en servent."
+  - q: "Est-ce que Neptune sextile Nœud Nord touche aussi le Nœud Sud ?"
     a: "Oui. Le Nœud Sud se trouve exactement à l’opposé du Nœud Nord : à 60° de l’un, Neptune se trouve à environ 120° de l’autre, en trigone. Ce lien facile avec le bout familier fait partie du contact : la même imagination qui encourage le neuf peut aussi rendre les vieilles habitudes très confortables."
   - q: "Qui a Neptune sextile Nœud Nord avec qui ?"
     a: "Tout se joue sur les dates de naissance : une personne née au milieu de 1975 le partage avec les personnes nées de décembre 1977 à février 1978 et, dans l’autre sens, avec celles nées de novembre 1997 à février 1999. L’orbe est étroit : les fenêtres sont courtes, et quelques semaines suffisent à les manquer."

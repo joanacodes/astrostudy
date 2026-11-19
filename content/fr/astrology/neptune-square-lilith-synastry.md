@@ -20,7 +20,7 @@ related: ["/astrology/neptune", "/astrology/black-moon-lilith", "/astrology/squa
 faq:
   - q: "Que veut dire Neptune carré Lilith en synastrie ?"
     a: "Les deux points, un dans chaque thème, se croisent à environ 90°. La première voit souvent la seconde à travers un filtre plus doux et plus bienveillant que celle-ci ne s’y reconnaît, et la seconde résiste à être adoucie. La friction porte sur la justesse du regard, et s’apaise souvent une fois dite."
-  - q: "Neptune carré Lilith est-il mauvais signe entre deux personnes ?"
+  - q: "Est-ce que Neptune carré Lilith est mauvais signe entre deux personnes ?"
     a: "Non. Un carré décrit une friction, et c’est par la friction que deux personnes apprennent la forme réelle l’une de l’autre. Celui-ci oppose une manière douce et pleine d’espoir de voir à un refus net d’être embellie. Il n’annonce rien de l’issue d’une relation : il décrit de quoi parler."
   - q: "L’heure de naissance compte-t-elle pour Neptune carré Lilith en synastrie ?"
     a: "Pas pour le carré lui-même : Neptune et la Lilith moyenne avancent si lentement que deux personnes nées les mêmes jours l’ont quelle que soit l’heure. Les maisons où il tombe, qui me disent où la friction se ressent dans chaque vie, demandent les deux heures de naissance."

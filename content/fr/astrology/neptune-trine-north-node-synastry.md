@@ -20,7 +20,7 @@ related: ["/astrology/neptune", "/astrology/north-node", "/astrology/trine", "/a
 faq:
   - q: "Que veut dire Neptune trigone Nœud Nord en synastrie ?"
     a: "Le contact place Neptune, chez une personne, à environ 120° du Nœud Nord de l’autre. La première se figure souvent la nouvelle direction de la seconde comme naturelle et digne d’être tentée, et la seconde donne à cette imagination quelque chose de réel à viser. Le sextile au Nœud Sud garde aussi le terrain familier amical."
-  - q: "Neptune trigone Nœud Nord est-il bon signe pour une relation ?"
+  - q: "Est-ce que Neptune trigone Nœud Nord est bon signe pour une relation ?"
     a: "Il décrit un soutien entre l’imagination de l’une et la croissance de l’autre, ce qui est agréable, mais il ne décide rien d’une relation. Il vient aussi avec des mois entiers de naissances. Ce qui compte, c’est que l’encouragement s’accompagne d’un retour honnête, car grandir demande les deux."
   - q: "Quel écart d’âge entre les personnes qui ont Neptune trigone Nœud Nord ?"
     a: "Souvent une génération : une naissance du milieu de 1965 le retrouve chez les personnes nées de septembre 1947 à décembre 1949, et chez celles nées de janvier 2003 à avril 2005. Il arrive aussi entre âges proches, comme avec les personnes nées de juin à octobre 1963."

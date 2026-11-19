@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Uranus, chez une personne, à 90° de la Lilith moyenne d’une autre, à 3,4° près" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "l’apogée de la Lune et son mouvement moyen" }
 ---
-L’une veut ouvrir toutes les fenêtres ; l’autre a des pièces qui restent fermées pour de bonnes raisons. Uranus carré Lilith en synastrie installe Uranus, chez l’une, à environ 90° de la Lune noire Lilith de l’autre, à 3,4° près, et l’envie de s’échapper rencontre sans cesse une limite que l’autre a tracée.
+L’une veut ouvrir toutes les fenêtres ; l’autre a des pièces qui restent fermées pour de bonnes raisons. Uranus carré Lilith en synastrie : Uranus, chez l’une, fait un angle d’environ 90° avec la Lune noire Lilith de l’autre, à 3,4° près, et l’envie de s’échapper rencontre sans cesse une limite que l’autre a tracée.
 
 ## Ce qui circule {#ce-qui-circule}
 

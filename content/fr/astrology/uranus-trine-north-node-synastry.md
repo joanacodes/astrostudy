@@ -23,13 +23,13 @@ faq:
   - q: "Est-ce qu’Uranus trigone Nœud Nord rend la croissance facile ?"
     a: "Plus légère, pas automatique. Une paire aussi à l’aise avec le changement peut prendre les nouveaux départs pour des progrès et ne jamais rester assez longtemps pour qu’une capacité nouvelle s’installe. Le trigone porte la croissance ; la part lente et répétée revient à la personne du nœud."
   - q: "Qui a Uranus trigone Nœud Nord avec quelqu’un ?"
-    a: "Une personne née au milieu de 1955 l’a avec toute personne née de mars à juillet 1969 ou de janvier à juin 1994, et avec toute personne née, par périodes, de septembre 1960 à août 1962. Les dates utilisent le nœud vrai ; des cohortes entières les partagent, et ce sont les maisons qui portent la lecture."
+    a: "Une personne née au milieu de 1955 l’a avec toute personne née de mars à juillet 1969 ou de janvier à juin 1994, et avec toute personne née, par périodes, de septembre 1960 à août 1962. Les dates utilisent le nœud vrai ; elles appartiennent à des cohortes entières, d’où la lecture par les maisons."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, 120°, comme l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Uranus, chez une personne, à 120° du Nœud Nord vrai d’une autre, à 3,4° près" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "le calcul des nœuds de la Lune" }
 ---
-Avec certaines personnes, essayer l’inconnu ressemble moins à un saut qu’à un changement d’air. Avec Uranus trigone Nœud Nord en synastrie, Uranus, chez l’une, se tient à environ 120° du Nœud Nord de l’autre, à 3,4° près, et à 60° de son Nœud Sud : le goût du changement de la première accompagne la direction de croissance de la seconde.
+Avec certaines personnes, essayer l’inconnu ressemble moins à un saut qu’à un changement d’air. Avec Uranus trigone Nœud Nord en synastrie, environ 120° vont d’Uranus, chez l’une, au Nœud Nord de l’autre, à 3,4° près, et 60° jusqu’à son Nœud Sud : le goût du changement de la première accompagne la direction de croissance de la seconde.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -52,8 +52,8 @@ L’aisance peut tenir lieu de pratique. Une paire aussi à l’aise avec le cha
 
 Ajoutez de la répétition à l’enthousiasme. La personne du nœud peut faire d’un changement inspirant une habitude de chaque semaine ; celle d’Uranus peut rester pour le milieu, plus terne, ou du moins s’y intéresser. Des amis peuvent continuer une activité nouvelle au-delà du premier frisson ; des collègues, transformer une idée fraîche en procédure ; un couple, laisser une expérience devenir une tradition.
 
-Une personne née au milieu de 1955, avec Uranus en Cancer, l’a avec toute personne née de mars à juillet 1969 ou de janvier à juin 1994, dont le Nœud Nord se trouve à 120°. Toute personne née, par périodes, de septembre 1960 à août 1962 a Uranus en Lion en trigone avec ce Nœud Nord de 1955 en Sagittaire. Ce sont des cohortes, pas des choix : le contact reste hors de mon décompte de synastrie, qui ne garde que les contacts avec le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Je le lis par les maisons, comme l’aisance d’une époque avec le changement qui porte une autre époque en avant.
+Une personne née au milieu de 1955, avec Uranus en Cancer, l’a avec toute personne née de mars à juillet 1969 ou de janvier à juin 1994, dont le Nœud Nord se trouve à 120°. Toute personne née, par périodes, de septembre 1960 à août 1962 a Uranus en Lion en trigone avec ce Nœud Nord de 1955 en Sagittaire. Ce sont des cohortes, pas des choix. Mes synastries se bâtissent sur des contacts avec le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel, et ce trigone n’en a aucun ; par les maisons, il se lit comme une génération à l’aise avec le changement qui porte la suivante en avant.
 
 Je prends les dates du nœud vrai et garde un œil sur le nœud moyen, jamais à plus d’un ou deux degrés ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). L’heure laisse le trigone tranquille mais décide des maisons, par exemple Uranus dans la maison 9 de la personne du nœud, parmi les études et les voyages : les deux heures passent d’abord ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Dans un seul thème, [Uranus trigone Nœud Nord](/astrology/uranus-trine-north-node/) laisse la propre originalité d’une personne alléger sa croissance. Entre deux thèmes, cette aisance appartient à quelqu’un d’autre, qui la prête, et c’est pourquoi je demande aux deux personnes avant de la lire ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+La version natale, [Uranus trigone Nœud Nord](/astrology/uranus-trine-north-node/), décrit une personne dont l’originalité allège déjà sa propre croissance. Entre deux thèmes, cette aisance appartient à quelqu’un d’autre, qui la prête, et c’est pourquoi je demande aux deux personnes avant de la lire ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Uranus, chez une personne, à 180° de la Lilith moyenne d’une autre, à 4° près" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "le calcul de l’apogée moyen de la Lune" }
 ---
-La rebelle bruyante et celle qui refuse en silence se trouvent souvent, et chacune est un peu saisie par ce qu’elle voit. Dans Uranus opposition Lilith en synastrie, 180° environ séparent Uranus, chez l’une, de la Lune noire Lilith de l’autre, à 4° près : la différence affichée et le refus gardé se tiennent de part et d’autre du zodiaque.
+La rebelle bruyante et celle qui refuse en silence se trouvent souvent, et chacune est un peu saisie par ce qu’elle voit. Uranus opposition Lilith en synastrie met face à face Uranus, chez l’une, et la Lune noire Lilith de l’autre, à environ 180°, à 4° près : la différence affichée et le refus gardé se tiennent de part et d’autre du zodiaque.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -54,7 +54,7 @@ Les rôles se figent vite. L’une devient « la libre », l’autre « celle
 
 Changez de bout exprès. La personne d’Uranus peut garder une chose pour elle, volontairement, et voir ce que cela protège ; celle de Lilith peut montrer une chose ouvertement, et voir ce que cela libère. Un couple peut répartir les combats que chacun mène en public ; des collègues, laisser parler d’abord la voix discordante et discrète.
 
-Le cycle de Lilith le répand largement. Pour une naissance au milieu de 1945, avec Uranus en Gémeaux, l’opposition se forme avec toute personne née de février à mai 1973, de décembre 1981 à mars 1982 ou de novembre 1990 à janvier 1991, quand la Lilith moyenne se tenait en face, en Sagittaire. Uranus en Bélier, chez toute personne née par périodes de mai 1932 à mars 1935, fait face à cette Lilith de 1945 en Balance. Personne ne choisit ces dates, et comme les fenêtres reviennent tous les neuf ans, le contact relie des personnes d’âges très différents : mon décompte de synastrie le laisse de côté et ne garde que les contacts touchant le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Par les maisons, je le lis comme deux époques qui se tiennent à part, face à face.
+Le cycle de Lilith le répand largement. Pour une naissance au milieu de 1945, avec Uranus en Gémeaux, l’opposition se forme avec toute personne née de février à mai 1973, de décembre 1981 à mars 1982 ou de novembre 1990 à janvier 1991, quand la Lilith moyenne se tenait en face, en Sagittaire. Uranus en Bélier, chez toute personne née par périodes de mai 1932 à mars 1935, fait face à cette Lilith de 1945 en Balance. Personne ne choisit ces dates, et comme les fenêtres reviennent tous les neuf ans, le contact relie des personnes d’âges très différents. C’est pourquoi il reste en dehors des contacts que je compte, qui font tous intervenir le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Par les maisons, je le lis comme deux époques qui se tiennent à part, face à face.
 
 Je le date avec la Lilith moyenne ; sur un thème réglé sur la Lilith vraie, qui peut se trouver à plusieurs dizaines de degrés, l’opposition peut se déplacer ou disparaître ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)). L’heure ne change pas assez leurs positions pour compter, seulement les maisons que l’axe traverse : c’est pourquoi je demande les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

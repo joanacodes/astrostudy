@@ -20,7 +20,7 @@ related: ["/astrology/neptune", "/astrology/north-node", "/astrology/conjunction
 faq:
   - q: "Que veut dire Neptune conjonction Nœud Nord en synastrie ?"
     a: "Le contact joint Neptune, dans un thème, au Nœud Nord d’un autre, à 4° près. L’imagination et l’idéal de la première se rassemblent souvent autour de la direction où grandit la seconde, ce qui peut rendre ce chemin possible à voir, ou le changer en rêverie. Le Nœud Sud de la seconde fait face à Neptune."
-  - q: "Neptune conjonction Nœud Nord est-il un lien prédestiné ?"
+  - q: "Est-ce que Neptune conjonction Nœud Nord est un lien prédestiné ?"
     a: "Ce n’est pas ma lecture. Le Nœud Nord décrit une capacité qui se construit en s’exerçant, pas un destin, et toutes les naissances de quelques mois partagent ce contact. Il peut donner à une rencontre un air important ; ce que deux personnes en font leur appartient."
   - q: "Quel nœud utilisez-vous pour Neptune conjonction Nœud Nord en synastrie ?"
     a: "Les deux, le nœud moyen comme le nœud vrai, séparés au plus d’un ou deux degrés. Les mois de naissance de cette page suivent le nœud vrai ; avec un orbe de 4°, ils ne divergent que pour une paire tout à la limite."

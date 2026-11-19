@@ -20,7 +20,7 @@ related: ["/astrology/sun-in-leo", "/astrology/moon-in-virgo", "/astrology/mercu
 faq:
   - q: "Un Soleil en Lion avec une Lune en Vierge est-il perfectionniste ?"
     a: "Pas par nature, même si cela peut en avoir l’air. Le Soleil en Lion veut faire une chose entière et s’y montrer ; la Lune en Vierge se calme une fois que cette chose marche comme il faut. Ensemble, ils placent la barre haut. Cela ne tourne au perfectionnisme que lorsque l’exigence ne sert plus personne, vous y compris."
-  - q: "Pourquoi Mercure compte-t-il tant pour un Soleil en Lion, Lune en Vierge ?"
+  - q: "Pourquoi est-ce que Mercure compte tant pour un Soleil en Lion, Lune en Vierge ?"
     a: "Mercure gouverne la Vierge, le signe de votre Lune, et y a aussi son exaltation. Comme l’écart entre Mercure et le Soleil ne dépasse jamais 28° environ, Mercure se trouve en Cancer, en Lion ou en Vierge. En Vierge, Mercure rejoint votre Lune en pleine force ; en Lion, Mercure prend la chaleur du Soleil. Son signe et sa maison montrent comment vos émotions se trient."
   - q: "La Lune était-elle visible à une naissance Soleil en Lion, Lune en Vierge ?"
     a: "En général, pas encore. Elle n’avait pris que 1° à 59° d’avance sur le Soleil, de quelques heures à presque cinq jours après la nouvelle lune, et se couchait peu après lui ; vers la fin de cet intervalle, un mince croissant paraît bas à l’ouest au crépuscule. Le découpage en huit phases compte près de neuf de ces naissances sur dix comme des naissances de nouvelle lune."

@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 351
 glyph: "♆☌⚸"
-definition: "En synastrie, Neptune conjonction Lilith réunit, à 4° près, Neptune d’un thème et la Lune noire Lilith moyenne d’un autre. L’imagination de l’une enveloppe la part que l’autre a appris à taire, pour l’honorer ou en faire un mythe. Il appartient à toute une période de naissances : ses maisons m’en disent plus que l’aspect."
+definition: "En synastrie, Neptune conjonction Lilith réunit, à 4° près, Neptune d’un thème et la Lune noire Lilith moyenne d’un autre. L’imagination de l’une enveloppe la part que l’autre a appris à taire, pour l’honorer ou en faire un mythe. Ce contact appartient à toute une période de naissances : ses maisons m’en disent plus que l’aspect."
 facts:
   - { k: "Corps", v: "Neptune ♆ de l’une, la Lune noire Lilith ⚸ de l’autre" }
   - { k: "Aspect", v: "Conjonction ☌, 0°" }
@@ -22,8 +22,8 @@ faq:
     a: "Les deux points se rejoignent à moins de 4° : Neptune d’un côté, la Lune noire Lilith de l’autre. La première devine souvent, avec tendresse, la part de la seconde qui a été repoussée hors de vue. La personne de Lilith peut s’y sentir acceptée tout entière, ou changée en muse, et sait en général laquelle des deux."
   - q: "Qui ressent le plus Neptune conjonction Lilith ?"
     a: "Souvent la personne de Lilith, parce que le contact touche ce qu’elle gardait pour elle : être vue là émeut, et expose. Celle de Neptune le vit plutôt comme une fascination, une imagination attirée par la part indomptée de l’autre. Les deux sont réels, et aucune des deux ne fait quoi que ce soit à l’autre."
-  - q: "Pourquoi Neptune conjonction Lilith reste-t-il hors de votre décompte ?"
-    a: "Parce qu’il vient avec des dates de naissance plutôt qu’avec deux personnes en particulier. Neptune bouge à peine en un an et la Lilith moyenne reste des mois dans un signe : toutes les naissances d’une même période le partagent. Mon décompte s’en tient aux contacts avec un astre personnel, et laisse celui-ci aux maisons."
+  - q: "Pourquoi laissez-vous Neptune conjonction Lilith hors de votre décompte ?"
+    a: "Parce que ce contact vient avec des dates de naissance plutôt qu’avec deux personnes en particulier. Neptune bouge à peine en un an et la Lilith moyenne reste des mois dans un signe : toutes les naissances d’une même période le partagent. Mon décompte s’en tient aux contacts avec un astre personnel, et laisse celui-ci aux maisons."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les aspects, et la conjonction comme rencontre de deux astres" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Neptune, chez l’une, à moins de 4° de la Lilith moyenne de l’autre" }

@@ -20,7 +20,7 @@ related: ["/astrology/neptune", "/astrology/black-moon-lilith", "/astrology/oppo
 faq:
   - q: "Que veut dire Neptune opposition Lilith en synastrie ?"
     a: "Neptune dans un thème se trouve à peu près à l’opposé de la Lune noire Lilith dans l’autre. La première aspire souvent à une proximité sans bords, et la seconde garde souvent une part d’elle-même hors d’atteinte. Comme dans toute opposition, chaque extrémité éclaire ce qui manque à l’autre."
-  - q: "Neptune opposition Lilith annonce-t-il des conflits dans une relation ?"
+  - q: "Est-ce que Neptune opposition Lilith annonce des conflits dans une relation ?"
     a: "Non. Une opposition est une polarité, les deux bouts d’une même ligne, pas un combat. Celle-ci oscille entre l’envie de fusionner et l’envie de rester à part, et l’oscillation peut être inconfortable. Les paires qui la nomment trouvent en général un rythme de proximité et de distance qui convient aux deux."
   - q: "Comment savoir si j’ai Neptune opposition Lilith avec quelqu’un ?"
     a: "Tout tient aux deux dates de naissance, rien à ce qu’il y a de personnel entre vous : des saisons entières de naissances le partagent. Tracez les deux thèmes avec la Lune noire Lilith moyenne, celle de ces dates, et voyez si Neptune, chez l’une, tombe à moins de 4° du point opposé à la Lilith de l’autre."

@@ -20,8 +20,8 @@ related: ["/astrology/pluto", "/astrology/chiron", "/astrology/conjunction", "/a
 faq:
   - q: "Que veut dire Pluton conjonction Chiron en synastrie ?"
     a: "Pluton, dans un thème, tombe à moins de 4° du Chiron d’un autre. Le besoin d’aller à la racine de la première personne arrive sur l’endroit où la seconde a appris à vivre avec une difficulté. Cela peut aider une vieille façon de faire face à changer, ou pousser à un changement non désiré ; le rythme en décide."
-  - q: "Pluton conjonction Chiron peut-il être trop intense entre deux personnes ?"
-    a: "Il peut sembler intense, parce que la profondeur arrive juste là où l’on est sensible. Ce n’est ni un mal ni un avertissement. Il demande un rythme plus lent que celui qu’aime Pluton, et que la personne de Chiron décide de ce qui change et de ce qui reste. Les paires qui s’accordent là-dessus le trouvent souvent apaisant."
+  - q: "Est-ce que Pluton conjonction Chiron peut être trop intense entre deux personnes ?"
+    a: "Ce contact peut sembler intense, parce que la profondeur arrive juste là où l’on est sensible. Ce n’est ni un mal ni un avertissement. Il demande un rythme plus lent que celui qu’aime Pluton, et que la personne de Chiron décide de ce qui change et de ce qui reste. Les paires qui s’accordent là-dessus le trouvent souvent apaisant."
   - q: "Pourquoi les fenêtres de Pluton conjonction Chiron reviennent-elles tous les cinquante ans ?"
     a: "Parce que Chiron met environ cinquante ans à faire le tour du zodiaque, pendant que Pluton bouge à peine. Une personne née au milieu de 1945 a cette conjonction avec des personnes nées en 1941 et 1942, puis avec d’autres nées en 1991 et 1992, quand Chiron était revenu dans la même partie du Lion."
 sources:

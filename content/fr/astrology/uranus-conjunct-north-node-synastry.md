@@ -29,32 +29,32 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Uranus, chez une personne, à moins de 4° du Nœud Nord vrai d’une autre" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai" }
 ---
-Certaines personnes arrivent juste quand vous essayez quelque chose de neuf, et rendent la chose à la fois possible et un peu trop rapide. Uranus conjonction Nœud Nord en synastrie pose Uranus, chez l’une, à moins de 4° du Nœud Nord de l’autre, donc aussi à l’opposé de son Nœud Sud : le changement tombe sur la route que l’autre apprend à prendre.
+Certaines personnes arrivent juste quand vous essayez quelque chose de neuf, et rendent la chose à la fois possible et un peu trop rapide. Avec Uranus conjonction Nœud Nord en synastrie, Uranus, chez l’une, rejoint à moins de 4° le Nœud Nord de l’autre, et fait donc face à son Nœud Sud : le changement tombe sur la route que l’autre apprend à prendre.
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Uranus](/astrology/uranus/) expérimente et libère : tester d’autres voies, abandonner ce qui ne marche plus, revendiquer le droit d’être différent. Le [Nœud Nord](/astrology/north-node/) est un point calculé, la direction dans laquelle une personne bâtit, par la pratique et le retour d’expérience, une capacité moins familière ; le [Nœud Sud](/astrology/south-node/), juste en face, tient ce qui est déjà consolidé et facile. Une [conjonction](/astrology/conjunction/) fait agir deux fonctions comme une seule ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), celle-ci pose l’appétit de nouveauté de l’une sur la direction de croissance de l’autre.
+[Uranus](/astrology/uranus/) expérimente et libère : tester d’autres voies, abandonner ce qui ne marche plus, revendiquer le droit d’être différent. Le [Nœud Nord](/astrology/north-node/) est un point calculé, la direction dans laquelle une personne bâtit, par la pratique et le retour d’expérience, une capacité moins familière ; le [Nœud Sud](/astrology/south-node/), juste en face, tient ce qui est déjà consolidé et facile. Avec une [conjonction](/astrology/conjunction/), deux fonctions travaillent comme une seule sans qu’aucune ne disparaisse ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), celle-ci pose l’appétit de nouveauté de l’une sur la direction de croissance de l’autre.
 
 Dans la vie de la personne du nœud, ce peut être l’amie, le partenaire ou la collègue qui rend l’inconnu ordinaire. Cette personne essaie ce autour de quoi vous tournez depuis longtemps, sans mode d’emploi, et vous découvrez que la pratique peut commencer avant de se sentir prêt ou prête.
 
-Si le Nœud Nord est de votre côté, l’agitation de l’autre peut faire office de vent arrière. Elle souffle aussi sur votre Nœud Sud, les habitudes sur lesquelles vous comptez, et certaines peuvent soudain vous sembler éventées.
+Quand le Nœud Nord est le vôtre, l’agitation de l’autre peut faire office de vent arrière. Elle souffle aussi sur votre Nœud Sud, les habitudes sur lesquelles vous comptez, et certaines peuvent soudain vous sembler éventées.
 
 Si Uranus est de votre côté, vous serez peut-être surpris ou surprise de voir vos essais pris pour modèle, ou votre liberté enrôlée dans le développement de quelqu’un d’autre.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Une conjonction brouille les contours, et celle-ci confond changement et croissance. La personne d’Uranus peut pousser la nouveauté pour elle-même et appeler cela un progrès ; celle du nœud peut prendre les manières inhabituelles de l’autre pour son propre chemin, et laisser en route des forces utiles du Nœud Sud. Grandir est une pratique, pas un saut emprunté à quelqu’un d’autre, et cela récompense rarement tout de suite.
+Fondus, changement et croissance se confondent facilement. La personne d’Uranus peut pousser la nouveauté pour elle-même et appeler cela un progrès ; celle du nœud peut prendre les manières inhabituelles de l’autre pour son propre chemin, et laisser en route des forces utiles du Nœud Sud. Grandir est une pratique, pas un saut emprunté à quelqu’un d’autre, et cela récompense rarement tout de suite.
 
 - **[Uranus sextile Nœud Nord en synastrie](/astrology/uranus-sextile-north-node-synastry/) :** l’essai offert comme une ouverture, le bout familier restant bienvenu.
 - **[Uranus carré Nœud Nord en synastrie](/astrology/uranus-square-north-node-synastry/) :** le changement qui croise le chemin à angle droit, sans prendre le parti d’aucun bout.
-- **[Uranus trigone Nœud Nord en synastrie](/astrology/uranus-trine-north-node-synastry/) :** le changement et la croissance qui avancent ensemble, parfois trop légèrement.
+- **[Uranus trigone Nœud Nord en synastrie](/astrology/uranus-trine-north-node-synastry/) :** changement et croissance au même pas, parfois avec trop de légèreté.
 - **[Uranus opposition Nœud Nord en synastrie](/astrology/uranus-opposite-north-node-synastry/) :** l’agitation tombe sur le bout familier et remue les vieilles habitudes.
 
 ## Comment le vivre {#comment-le-vivre}
 
 Laissez la personne du nœud fixer le rythme de sa propre pratique. Celle d’Uranus peut montrer comment elle fait sans laisser entendre qu’il faut faire ainsi ; celle du nœud peut garder ce qui marche du côté du Nœud Sud tout en essayant le neuf. Un couple peut apprendre une compétence ensemble, à deux vitesses ; au travail, le goût de l’une pour les nouveaux outils peut aider une collègue ou un collègue qui apprend à diriger.
 
-Le tour à reculons des nœuds, environ 18,6 ans, dessine qui l’a. Une personne née au milieu de 1965, avec Uranus en Vierge, l’a avec toute personne née de mai à octobre 1979, ou de décembre 1997 à mai 1998, quand le Nœud Nord traversait la Vierge. Toute personne née, par périodes, de juin 1944 à juin 1946 a Uranus en Gémeaux sur ce Nœud Nord de 1965. Aucune de ces naissances n’a été prévue pour quelqu’un, si bien que le contact reste hors de mon décompte de synastrie, réservé aux contacts avec le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Dans les maisons, il montre l’idée que deux époques se font de la façon dont une vie avance.
+Le tour à reculons des nœuds, environ 18,6 ans, dessine qui l’a. Née au milieu de 1965, avec Uranus en Vierge, une personne partage ce contact avec toute personne née de mai à octobre 1979, ou de décembre 1997 à mai 1998, quand le Nœud Nord traversait la Vierge. Toute personne née, par périodes, de juin 1944 à juin 1946 a Uranus en Gémeaux sur ce Nœud Nord de 1965. Aucune de ces naissances n’a été prévue pour quelqu’un. Chaque contact que je retiens dans une synastrie passe par le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel, et pas celui-ci ; dans les maisons, il montre l’idée que deux époques se font de la façon dont une vie avance.
 
 Les dates utilisent le nœud vrai. Le nœud moyen n’en est jamais à plus d’un ou deux degrés, et je regarde les deux ; près du bord de l’orbe, ils peuvent ne pas s’accorder ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). L’heure ne déplace presque ni le nœud ni Uranus, mais que la rencontre tombe dans la maison 10 de la personne du nœud, dans sa vie publique, ou dans sa maison 3, parmi les savoir-faire du quotidien, demande les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

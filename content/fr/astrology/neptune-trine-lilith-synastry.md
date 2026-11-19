@@ -22,7 +22,7 @@ faq:
     a: "C’est un trigone, environ 120°, entre Neptune dans un premier thème et la Lune noire Lilith dans un second. La première prend souvent les refus et les appétits de la seconde comme ils viennent, et la seconde rend les rêves de la première plus hardis. Facile, ce contact donne le plus, comme tout trigone, quand on s’en sert exprès."
   - q: "Deux personnes nées la même année peuvent-elles avoir Neptune trigone Lilith en synastrie ?"
     a: "Oui, et parfois dans les deux sens. Prenez une naissance du milieu de 1985 : avec les personnes nées de mai à juillet de cette année-là, le contact va dans les deux directions à la fois. Cette Lilith de 1985 forme aussi un trigone avec Neptune chez les personnes nées en 1930 et pendant la plus grande partie de 1931."
-  - q: "Neptune trigone Lilith veut-il dire que deux personnes sont faites l’une pour l’autre ?"
+  - q: "Est-ce que Neptune trigone Lilith veut dire que deux personnes sont faites l’une pour l’autre ?"
     a: "Non. Aucun aspect n’en décide, facile ou difficile, et celui-ci vient avec une saison de naissances plutôt qu’avec deux personnes en particulier. Il décrit une manière dont deux personnes accueillent un côté particulier l’une de l’autre. Leur entente dépend de bien plus qu’un trigone."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, 120°, parmi les quatre aspects" }
