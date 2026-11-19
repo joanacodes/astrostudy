@@ -20,14 +20,14 @@ faq:
   - q: "What does Jupiter square Saturn mean in synastry?"
     a: "Across the two charts, Jupiter and Saturn stand about 90° apart, within 4.25°, one planet in each. One tends to bring the larger hope, the other the conditions it has to meet. It’s friction, not failure: plans that satisfy both people have been tested from two sides, which easy agreement rarely manages."
   - q: "Is Jupiter square Saturn bad in synastry?"
-    a: "No aspect is bad as I read it. This square describes two attitudes to growth that rub, and rubbing can sharpen a shared plan. It also belongs to whole birth years, so I read it through the houses rather than as something personal between two people."
+    a: "No aspect is bad as I read it. This square describes two attitudes to growth that rub, and rubbing can sharpen a shared plan. It also belongs to whole birth years, so it tells me about two eras before it tells me anything about two people."
   - q: "Who has Jupiter square Saturn with someone?"
     a: "That comes down to two birthdays. For a birth in mid-1975, for example, it forms with anyone born between January 1990 and January 1991, and with anyone born between July 1945 and July 1946. Since it comes with the calendar, it says more about two eras than about two people."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the square, 90°, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that set one person’s Jupiter within 4.25° of a square to another’s Saturn" }
 ---
-One person arrives with a larger idea; the other asks what it will stand on. Jupiter square Saturn in synastry sets one person's Jupiter about 90° from the other's Saturn, within 4.25°, usually in two signs of the same modality. It's a friction of birth years, and I read it as two eras negotiating.
+One person arrives with a larger idea; the other asks what it will stand on. Jupiter square Saturn in synastry sets one person's Jupiter about 90° from the other's Saturn, within 4.25°, usually in two signs of the same modality. What rubs here is less two characters than two cohorts negotiating.
 
 ## What flows {#what-flows}
 

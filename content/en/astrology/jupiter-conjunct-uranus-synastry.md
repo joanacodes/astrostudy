@@ -1,7 +1,7 @@
 ---
 title: "Jupiter conjunct Uranus in synastry"
 h1: "Jupiter conjunct Uranus between two charts"
-description: "Jupiter conjunct Uranus in synastry: one person’s sense of meaning fused with the other’s urge to reform. Both sides, who has it, and how I read it."
+description: "Jupiter conjunct Uranus in synastry: one person’s sense of meaning fused with the other’s urge to reform. What each feels, who has it, why I read the houses."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -18,16 +18,16 @@ facts:
 related: ["/astrology/jupiter", "/astrology/uranus", "/astrology/conjunction", "/astrology/jupiter-conjunct-uranus", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Jupiter conjunct Uranus mean in synastry?"
-    a: "One person’s Jupiter sits within 5° of the other’s Uranus, usually in the same sign. One brings a wide sense of meaning, the other an urge to question and reform, and the two act as one process. It tends to make a pair good at rethinking things together."
+    a: "The two planets meet across the two charts, usually in one sign and never more than 5° apart: one person’s Jupiter, the other’s Uranus. One brings a wide sense of meaning, the other an urge to question and reform, and the two act as one process. It tends to make a pair good at rethinking things together."
   - q: "Who has Jupiter conjunct Uranus with someone?"
-    a: "Two birth dates decide it. Someone born in mid-1985, for example, has it with everyone born between December 1998 and February 2001. Since a whole span of births shares it, I read it through the houses of the two charts rather than as a personal contact."
+    a: "Two birth dates decide it. Everyone born between December 1998 and February 2001, for example, has their Uranus on the Jupiter of a person born in mid-1985. Since a whole span of births shares it, I read it through the houses of the two charts rather than as a personal contact."
   - q: "Is Jupiter conjunct Uranus a sign of an exciting relationship?"
     a: "It describes a pattern, not an outcome: belief and change fused, which can feel stimulating or unsettling. No single contact decides how a relationship goes. What two adults do with it, and the personal contacts between their charts, matter far more."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the four aspects he lists; the conjunction stands apart from them" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that bring one person’s Jupiter within 5° of another’s Uranus" }
 ---
-Put one person's Jupiter on the other's Uranus and a conversation about what life means tends to turn into a conversation about what could change. Jupiter conjunct Uranus in synastry is that overlap, within 5°. It belongs to two birth years, so I read it as one era's beliefs meeting another era's experiments.
+Put one person's Jupiter on the other's Uranus and a conversation about what life means tends to turn into a conversation about what could change. That overlap, within 5°, is Jupiter conjunct Uranus in synastry, and I read it as one era's beliefs meeting another era's experiments.
 
 ## What flows {#what-flows}
 

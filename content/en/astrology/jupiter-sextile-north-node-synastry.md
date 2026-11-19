@@ -32,7 +32,7 @@ Jupiter sextile North Node in synastry puts one person's Jupiter about 60° from
 
 ## What flows {#what-flows}
 
-[Jupiter](/astrology/jupiter/) is how a person widens things: learning, connecting, finding a reason. The [North Node](/astrology/north-node/) marks a capacity that's less automatic and grows with repetition; opposite it, the South Node holds what came early and easily. A [sextile](/astrology/sextile/) relates two functions through opportunity, and among the [synastry aspects](/astrology/synastry-aspects/) this one offers help that respects both ends of the other's path.
+[Jupiter](/astrology/jupiter/) is how a person widens things: learning, connecting, finding a reason. The [North Node](/astrology/north-node/) marks a capacity that's less automatic and grows with repetition; across from it, the South Node keeps the skills that arrived early, without effort. A [sextile](/astrology/sextile/) relates two functions through opportunity, and among the [synastry aspects](/astrology/synastry-aspects/) this one offers help that respects both ends of the other's path.
 
 If the North Node is yours, advice from this person arrives in a language you already speak. They value what you're good at, and they show you how it could carry you somewhere new: the teacher who uses your old skill as the first rung of a new ladder. Growth feels like an extension, not a betrayal of who you've been.
 
@@ -55,7 +55,7 @@ From here, the pair's other angles:
 
 End each conversation with one step in the new direction, named and small. If the North Node is yours, ask for help with the unfamiliar thing specifically, not only for praise; if the Jupiter is yours, notice when the talk has drifted home and steer it gently forward. A coach and an adult learner, two colleagues across departments, a pair of siblings trying something neither grew up with: all can use the bridge, if they cross it.
 
-Someone born in mid-1975 has it with anyone born from July to October 1983, whose North Node sits 60° from that 1975 Jupiter, and with people born from April to July 1981, whose Jupiter makes the same angle to the 1975 North Node. A contact that whole spells of births share says little about two individuals, so my synastry readings leave it out of the count; they count only contacts in which the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven takes part. I read this one through the houses, as a difference between two eras more than between two people.
+Among people born in mid-1975, the sextile turns up with anyone born from July to October 1983, their North Node 60° from the 1975 Jupiter, and with anyone born from April to July 1981, their Jupiter 60° from the 1975 North Node. A contact that whole spells of births share says little about two individuals, so my synastry readings leave it out of the count; they count only contacts in which the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven takes part. I read it instead through the houses, where it marks a gap between two periods of births more than between two people.
 
 The months come from the true node; I check the mean node too, never more than a degree or two away, and with an orb this narrow the two can disagree at the edges ([mean node and true node](/astrology/mean-node-and-true-node/)). The hour can't make or break the sextile, but it sets the houses, so both times are needed ([what changes without a birth time](/blog/unknown-birth-time/)).
 

@@ -46,9 +46,9 @@ At other angles, the pair loses this mirror. [Jupiter conjunct Lilith in synastr
 
 ## How to meet it {#how-to-meet-it}
 
-Trade ends now and then. The Jupiter person says out loud one thing they refuse; the Lilith person, one thing they believe in. It sounds small, and it loosens the roles. In-laws with this opposition can stop being "the family's values" and "the outsider"; colleagues, "the mission" and "the awkward one"; a couple, the hopeful one and the sceptic.
+Let each of you speak from the other's end once in a while. The Jupiter person says out loud one thing they refuse; the Lilith person, one thing they believe in. It sounds small, and it loosens the roles. In-laws with this opposition can stop being "the family's values" and "the outsider"; colleagues, "the mission" and "the awkward one"; a couple, the hopeful one and the sceptic.
 
-Someone born in mid-1965 has it with anyone born from February to May 1973, whose Lilith faces that 1965 Jupiter, and with people born from August 1966 to June 1967, whose Jupiter faces the 1965 Lilith. Because everyone born in those months carries it, I count it nowhere in a synastry; only contacts with the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven make my count. Read through the houses, it becomes a seesaw between two eras, months long each, more than between two people.
+Two birth windows give it to someone born in mid-1965: February to May 1973, for a partner whose Lilith faces that Jupiter, and August 1966 to June 1967, for one whose Jupiter faces that Lilith. Because everyone born in those months carries it, I count it nowhere in a synastry; only contacts with the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven make my count. Read through the houses, it becomes a seesaw between two eras, months long each, more than between two people.
 
 The houses need both birth times, while the opposition itself ignores the hour, both points being slow ([what changes without a birth time](/blog/unknown-birth-time/)). The dates use mean Lilith ([Which Lilith is mine?](/astrology/which-lilith-is-mine/)). In my notebook, Saturn, Chiron and Lilith held 75 to 90% of the time, but I was checking each person's own chart; no contact between two charts was ever counted, so there's no figure for this one ([the three that held](/blog/saturn-chiron-lilith/)).
 

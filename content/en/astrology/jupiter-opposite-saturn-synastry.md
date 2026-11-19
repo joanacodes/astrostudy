@@ -22,12 +22,12 @@ faq:
   - q: "Is Jupiter opposite Saturn a bad sign between two people?"
     a: "No. An opposition is a seesaw, not a conflict. It can harden into fixed roles, the dreamer and the auditor, but it can also give a pair the full range of judgement. And since it belongs to birth years, I read it through the houses, not as a verdict on two people."
   - q: "Who has Jupiter opposite Saturn with someone?"
-    a: "Only the two birth dates decide that. A person born in mid-1955 has it with anyone born between July and December 1962, for example, and with anyone born in 1991. It belongs to those months as much as to anyone in them: a meeting of two eras more than of two people."
+    a: "Only the two birth dates decide that. Anyone born between July and December 1962 has it with a person born in mid-1955, for example, and so does anyone born in 1991. It belongs to those months as much as to anyone in them: a meeting of two eras more than of two people."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the opposition, 180°, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that set one person’s Jupiter within 5° of an opposition to another’s Saturn" }
 ---
-In any decision this pair makes, one of them is usually arguing for more and the other for enough. Jupiter opposite Saturn in synastry puts one person's Jupiter about 180° from the other's Saturn, within 5°, usually in opposite signs. Birth years build it, and I read it as a seesaw between two eras, never as two sides at war.
+In any decision this pair makes, one of them is usually arguing for more and the other for enough. Jupiter opposite Saturn in synastry puts one person's Jupiter about 180° from the other's Saturn, within 5°, usually in opposite signs. As I read it, that's a seesaw between two cohorts, never two sides at war.
 
 ## What flows {#what-flows}
 

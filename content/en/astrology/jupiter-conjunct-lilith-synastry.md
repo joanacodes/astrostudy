@@ -32,7 +32,7 @@ Jupiter conjunct Lilith in synastry lays one person's Jupiter over the other's B
 
 ## What flows {#what-flows}
 
-[Jupiter](/astrology/jupiter/) widens: it learns, finds meaning, forms principles, makes room for growth. [Black Moon Lilith](/astrology/black-moon-lilith/), the point where the Moon's orbit takes it farthest from Earth, is read very differently from one school to the next; I read it as instinctive autonomy, the material someone set aside to be acceptable, and their own sense of power and limits. A [conjunction](/astrology/conjunction/) makes two functions act as one, and among the [synastry aspects](/astrology/synastry-aspects/) this one gives the widening to one person and the untamed part to the other.
+[Jupiter](/astrology/jupiter/) widens: it studies, draws meaning from experience, builds principles and leaves room to grow. [Black Moon Lilith](/astrology/black-moon-lilith/), the point where the Moon's orbit takes it farthest from Earth, is read very differently from one school to the next; I read it as instinctive autonomy, the material someone set aside to be acceptable, and their own sense of power and limits. A [conjunction](/astrology/conjunction/) makes two functions act as one, and among the [synastry aspects](/astrology/synastry-aspects/) this one gives the widening to one person and the untamed part to the other.
 
 If the Lilith is yours, you may find in this person a philosophy with room for what you hid. They don't flinch at your appetite or your refusals; often they seem to think those are worth something. That can feel like air after years in a small room, and on other days like being turned into an example, your wildness admired and fitted into their view of the world.
 
@@ -40,7 +40,7 @@ If the Jupiter is yours, the other person's untamed side tends to make sense to 
 
 ## Where it rubs {#where-it-rubs}
 
-A conjunction blurs whose story it is. The Jupiter person can adopt the other's refusal as a cause, complete with a theory of what their freedom should look like; the Lilith person can start showing the hidden part only in this company, shaped to fit the other's view of it. Expansion isn't excess and autonomy isn't immorality: the risk is quieter, a private refusal turned into a public principle before its owner chose that.
+A conjunction blurs whose story it is. The Jupiter person can adopt the other's refusal as a cause, complete with a theory of what their freedom should look like; the Lilith person can start showing the hidden part only in this company, shaped to fit the other's view of it. None of this is excess or wrongdoing; the risk is quieter, a private refusal turned into a public principle before its owner chose that.
 
 - **[Jupiter sextile Lilith in synastry](/astrology/jupiter-sextile-lilith-synastry/):** room offered at a slight distance, as an invitation that can be declined.
 - **[Jupiter square Lilith in synastry](/astrology/jupiter-square-lilith-synastry/):** principles catch on a refusal, and both get examined.

@@ -23,12 +23,12 @@ faq:
   - q: "Est-ce que Jupiter opposition Saturne est un mauvais signe entre deux personnes ?"
     a: "Non. Une opposition est une balance, pas un conflit. Elle peut se figer en rôles fixes, celle qui rêve et celle qui vérifie, mais elle peut aussi donner à une paire toute l’étendue du jugement. Et comme elle tient aux années de naissance, je la lis par les maisons, pas comme un verdict sur deux personnes."
   - q: "Qui a Jupiter opposition Saturne avec quelqu’un ?"
-    a: "Seules les deux dates de naissance en décident. Une personne née à la mi-1955 l’a par exemple avec toute personne née entre juillet et décembre 1962, et avec toute personne née en 1991. Elle appartient à ces mois autant qu’aux personnes : une rencontre entre deux époques plus qu’entre deux personnes."
+    a: "Seules les deux dates de naissance en décident. Toute personne née entre juillet et décembre 1962 l’a par exemple avec une personne née à la mi-1955, et toute personne née en 1991 aussi. Elle appartient à ces mois autant qu’aux personnes : une rencontre entre deux époques plus qu’entre deux personnes."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’opposition, 180°, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Jupiter d’une personne en opposition à Saturne chez une autre, à 5° près" }
 ---
-Dans chaque décision de cette paire, l’une plaide en général pour plus et l’autre pour assez. Jupiter opposition Saturne en synastrie place Jupiter, chez une personne, à environ 180° de Saturne chez l’autre, à 5° près, en général dans des signes opposés. Les années de naissance la construisent, et j’y lis une balance entre deux époques, jamais deux camps en guerre.
+Dans chaque décision de cette paire, l’une plaide en général pour plus et l’autre pour assez. Jupiter opposition Saturne en synastrie place Jupiter, chez une personne, à environ 180° de Saturne chez l’autre, à 5° près, en général dans des signes opposés. Dans ma lecture, c’est une balance entre deux cohortes, jamais deux camps en guerre.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -59,4 +59,4 @@ Imaginez une personne née à la mi-1955 : Jupiter, dans son thème, fait face 
 
 Un an par signe pour Jupiter, deux ans et demi pour Saturne : l’heure de naissance ne change rien à l’existence de l’opposition, et décide de l’endroit où elle tombe. Sans les deux heures, je ne vois pas les maisons, et je ne la lis pas ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Dans un seul thème, [Jupiter opposition Saturne](/astrology/jupiter-opposite-saturn/) est un équilibre qu’une personne apprend à tenir seule. Entre deux, chaque bout a sa personne, et l’équilibre devient une conversation.
+Chez une seule personne, [Jupiter opposition Saturne](/astrology/jupiter-opposite-saturn/) est un équilibre qu’elle apprend à tenir seule. Entre deux, chaque bout a sa personne, et l’équilibre devient une conversation.

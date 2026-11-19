@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 252
 glyph: "♃⚹♄"
-definition: "Jupiter sextile Saturn in synastry means one person’s Jupiter is about 60° from the other’s Saturn, within 3°. One sees where something could grow, the other how to make it hold, and the link works once someone acts on it. Whole birth months share it, so I read it through the houses."
+definition: "Jupiter sextile Saturn in synastry means one person’s Jupiter is about 60° from the other’s Saturn, within 3°. One sees where something could grow, the other how to make it hold, and the link works once someone acts on it. Whole birth months share it; the houses make it personal."
 facts:
   - { k: "Bodies", v: "One person’s Jupiter ♃, the other’s Saturn ♄" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }

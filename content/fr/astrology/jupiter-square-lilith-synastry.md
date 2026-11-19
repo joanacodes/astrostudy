@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact, avec la Lilith moyenne" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "l’apogée de la Lune et sa position moyenne" }
 ---
-Jupiter carré Lilith en synastrie place Jupiter, chez l’une, à environ 90° de la Lune noire Lilith de l’autre. Ce que la première croit bon, honnête et digne d’espoir accroche sans cesse ce que la seconde refuse d’abandonner, et aucune des deux n’a entièrement tort.
+Avec Jupiter carré Lilith en synastrie, un quart du zodiaque sépare Jupiter, chez l’une, de la Lune noire Lilith de l’autre. Ce que la première croit bon, honnête et digne d’espoir accroche sans cesse ce que la seconde refuse d’abandonner, et aucune des deux n’a entièrement tort.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -54,8 +54,8 @@ Si Jupiter est de votre côté, votre bonne volonté rencontre sans cesse un non
 
 Discutez du principe, jamais de la personne. Celle de Jupiter peut se demander : « est-ce ma valeur, ou une règle que je veux te faire suivre ? » ; celle de Lilith : « est-ce mon non, ou un vieux non ? ». Entre un enfant adulte et un parent, ce peut être la foi ou la politique ; entre collègues, une mission à laquelle l’une croit et pour laquelle l’autre refuse de jouer l’enthousiasme ; entre amis, l’une qui cherche le bon côté des choses et l’autre qui refuse de faire semblant.
 
-Une personne née au milieu de 1955 l’a avec toute personne née de septembre à décembre 1967, dont la Lilith forme un carré avec la position de Jupiter de 1955, et avec toute personne née de mai à août 1962, dont Jupiter forme un carré avec la Lilith de 1955. Rien de personnel là-dedans : toute personne née dans les mêmes semaines aurait le même carré avec les mêmes personnes. Mes synastries ne comptent un contact que si le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel y prend part ; celui-ci reste donc hors du compte, et je le lis par les maisons où il tombe, comme le frottement de deux époques plus que de deux personnes.
+Le décompte donne ce carré, par exemple, à une personne née au milieu de 1955 avec toute personne née entre septembre et décembre 1967, dont la Lilith forme un carré avec la position de Jupiter de 1955, ou entre mai et août 1962, dont Jupiter forme un carré avec la Lilith de 1955. Rien de personnel là-dedans : toute personne née dans les mêmes semaines aurait le même carré avec les mêmes personnes. Mes synastries ne comptent un contact que si le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel y prend part ; celui-ci reste donc hors du compte, et je le lis par les maisons où il tombe, comme le frottement de deux époques plus que de deux personnes.
 
-Cette lecture demande les deux heures de naissance : le carré ne bouge pas avec l’heure, les maisons, si ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Les dates supposent la Lilith moyenne, celle que je lis ; avec la Lilith vraie, le carré peut tout simplement disparaître ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)).
+Cette lecture demande les deux heures de naissance : le carré ne bouge pas avec l’heure, les maisons, si ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Les dates supposent la Lilith moyenne, celle que je lis ; la Lilith vraie peut faire sortir le carré de l’orbe ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)).
 
 Dans un seul thème, [Jupiter carré Lilith](/astrology/jupiter-square-lilith/) est une discussion qu’une personne mène avec ses propres convictions d’emprunt. Entre deux thèmes, la discussion a deux voix, et les deux doivent être d’accord avant que je la regarde ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

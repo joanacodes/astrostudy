@@ -33,7 +33,7 @@ Jupiter conjonction Lilith en synastrie pose Jupiter, chez l’une, sur la Lune 
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Jupiter](/astrology/jupiter/) élargit : apprendre, trouver du sens, former des principes, faire de la place à la croissance. La [Lune noire Lilith](/astrology/black-moon-lilith/), le point où l’orbite de la Lune l’emmène le plus loin de la Terre, se lit différemment d’une école à l’autre ; j’y lis l’autonomie instinctive, ce qu’une personne a mis de côté pour être acceptable, et son rapport à sa force et à ses limites. Une [conjonction](/astrology/conjunction/) fait agir deux fonctions comme une seule, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), celle-ci confie l’élargissement à l’une et la part indomptée à l’autre.
+[Jupiter](/astrology/jupiter/) élargit : étudier, tirer du sens de l’expérience, bâtir des principes, laisser de la place pour grandir. La [Lune noire Lilith](/astrology/black-moon-lilith/), le point où l’orbite de la Lune l’emmène le plus loin de la Terre, se lit différemment d’une école à l’autre ; j’y lis l’autonomie instinctive, ce qu’une personne a mis de côté pour être acceptable, et son rapport à sa force et à ses limites. Une [conjonction](/astrology/conjunction/) fait agir deux fonctions comme une seule, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), celle-ci confie l’élargissement à l’une et la part indomptée à l’autre.
 
 Si Lilith est de votre côté, cette personne a peut-être une philosophie où ce que vous cachiez trouve sa place. Votre appétit, vos refus ne la font pas tressaillir ; elle semble penser qu’ils valent quelque chose. Cela peut ressembler à de l’air après des années dans une petite pièce, et d’autres jours à devenir un exemple, votre part sauvage admirée et rangée dans sa vision du monde.
 
@@ -41,7 +41,7 @@ Si Jupiter est de votre côté, la part indomptée de l’autre vous parle et é
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Une conjonction brouille la question : à qui est cette histoire ? La personne de Jupiter peut adopter le refus de l’autre comme une cause, avec toute une théorie de ce que sa liberté devrait être ; celle de Lilith peut ne plus montrer sa part cachée qu’en sa compagnie. L’expansion n’est pas l’excès, ni l’autonomie l’immoralité : le risque est plus discret, un refus intime devenu principe public sans que la personne l’ait choisi.
+Une conjonction brouille la question : à qui est cette histoire ? La personne de Jupiter peut adopter le refus de l’autre comme une cause, avec toute une théorie de ce que sa liberté devrait être ; celle de Lilith peut ne plus montrer sa part cachée qu’en sa compagnie. Rien de cela n’est excès ni faute ; le risque est plus discret, un refus intime devenu principe public sans que la personne l’ait choisi.
 
 - **[Jupiter sextile Lilith en synastrie](/astrology/jupiter-sextile-lilith-synastry/) :** de la place offerte à petite distance, une invitation qu’on peut décliner.
 - **[Jupiter carré Lilith en synastrie](/astrology/jupiter-square-lilith-synastry/) :** des principes accrochent un refus, et les deux sont examinés.

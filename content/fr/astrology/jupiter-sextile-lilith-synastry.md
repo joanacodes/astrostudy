@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact, avec la Lilith moyenne" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "l’apogée de la Lune, à l’origine de la Lune noire moyenne" }
 ---
-Dans Jupiter sextile Lilith en synastrie, environ 60° séparent Jupiter, chez l’une, de la Lune noire Lilith de l’autre. Rien ici ne tire ni ne presse. Le monde plus large de la première laisse simplement une porte entrouverte, et la part cachée de la seconde peut la franchir, ou non.
+Rien, dans Jupiter sextile Lilith en synastrie, ne tire ni ne presse : Jupiter, chez l’une, et la Lune noire Lilith de l’autre sont à environ 60°, un sextile qui ne laisse que 3° de marge. Le monde plus large de la première laisse simplement une porte entrouverte, et la part cachée de la seconde peut la franchir, ou non.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -49,7 +49,7 @@ Ce qu’un sextile cache, c’est la facilité avec laquelle on le laisse inutil
 
 Rendez les invitations concrètes et gardez-les légères : nommez le lieu et le jour, et dites clairement que non est une très bonne réponse. Si Lilith est de votre côté, acceptez celles qui vous intéressent, à vos conditions, et dites-le quand l’une ne vous dit rien. Des amis peuvent suivre un cours ensemble ; un couple, partir là où aucun des deux n’est allé ; des frères et sœurs adultes, trouver un loisir sans histoire de famille.
 
-Qui l’a est une affaire de dates. Une personne née au milieu de 1965 l’a avec toute personne née d’avril à juin 1967, dont la Lilith se trouve à 60° de la position de Jupiter de 1965, et de nouveau avec les personnes nées en avril ou mai 1970 ; hors de ces brèves fenêtres, le contact disparaît. Toute une saison de naissances a la même position de Jupiter, une autre la même Lilith : je laisse donc ce sextile de côté quand je fais le compte de ce que partagent deux thèmes, un compte qui ne retient que les contacts avec le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Ce que j’en fais, c’est regarder les maisons, et le lire comme l’écart entre deux moments du temps plutôt qu’entre deux caractères.
+Qui l’a est une affaire de dates. Prenez une personne née au milieu de 1965 : les personnes nées d’avril à juin 1967 ont leur Lilith à 60° de cette position de Jupiter, et celles nées en avril ou mai 1970 aussi ; hors de ces brèves fenêtres, personne. Toute une saison de naissances a la même position de Jupiter, une autre la même Lilith : je laisse donc ce sextile de côté quand je fais le compte de ce que partagent deux thèmes, un compte qui ne retient que les contacts avec le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Ce que j’en fais, c’est regarder les maisons, et le lire comme l’écart entre deux moments du temps plutôt qu’entre deux caractères.
 
 Ces maisons demandent les deux heures de naissance, car Jupiter et Lilith avancent trop lentement pour que l’heure compte pour l’aspect lui-même ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Mes mois supposent la Lilith moyenne ; la Lilith vraie peut s’écarter assez pour annuler un sextile aussi étroit ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)).
 

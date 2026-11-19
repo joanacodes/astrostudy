@@ -20,7 +20,7 @@ faq:
   - q: "What does Jupiter conjunct Saturn mean in synastry?"
     a: "One person’s Jupiter sits within 5° of the other’s Saturn, usually in the same sign. Growth and meaning on one side, structure and responsibility on the other, meet in a single spot. The Jupiter person tends to bring the reason for a plan, the Saturn person the frame that lets it last."
   - q: "Who has Jupiter conjunct Saturn with someone?"
-    a: "It depends on the two birth dates. Someone born in mid-1965, for instance, has it with anyone born between June 1972 and May 1973. Because it comes with the calendar rather than the person, I read it through the houses of both charts, not as a personal aspect."
+    a: "It depends on the two birth dates. Take a birth in mid-1965: anyone born between June 1972 and May 1973, about seven years later, has their Saturn on that person’s Jupiter. Because it comes with the calendar rather than the person, I read it through the houses of both charts, not as a personal aspect."
   - q: "Is Jupiter conjunct Saturn a good sign in a relationship?"
     a: "No single contact decides whether a relationship works, and this one comes from birth years more than from two people. It describes a pattern, growth and structure asking to be handled together. What two adults make of it, and the rest of both charts, matters far more."
 sources:

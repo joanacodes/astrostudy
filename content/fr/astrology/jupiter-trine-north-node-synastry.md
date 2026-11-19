@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact, avec le nœud vrai" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai" }
 ---
-Dans Jupiter trigone Nœud Nord en synastrie, Jupiter, chez l’une, se trouve à environ 120° du Nœud Nord de l’autre, et à 60° de son Nœud Sud. La manière de voir de la première semble faite pour la direction où grandit la seconde : auprès d’elle, le pas suivant ressemble moins à un saut qu’à la chose évidente à faire.
+Un tiers du zodiaque sépare Jupiter, chez l’une, du Nœud Nord de l’autre dans Jupiter trigone Nœud Nord en synastrie, ce qui laisse Jupiter à 60° de son Nœud Sud. La manière de voir de la première semble faite pour la direction où grandit la seconde : auprès d’elle, le pas suivant ressemble moins à un saut qu’à la chose évidente à faire.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -56,7 +56,7 @@ Les autres angles de la paire changent l’aide :
 
 Laissez une part de la difficulté en place. Si Jupiter est de votre côté, demandez ce qui a déjà été essayé avant de dire ce que vous feriez, et laissez l’autre bloquer un peu. Si le Nœud Nord est de votre côté, pratiquez parfois hors de sa vue, pour que le savoir-faire soit à vous et non à la relation. Une personne qui guide et une autre qui débute, deux amis à quelques années d’écart, un couple qui construit une vie : chacun peut s’en servir, en gardant le soutien et en rendant le travail.
 
-Une personne née au milieu de 1965 l’a avec toute personne née d’avril à octobre 1971, dont le Nœud Nord se trouve à 120° de la position de Jupiter de 1965, et avec les personnes nées d’avril à juillet 1973, dont Jupiter forme un trigone avec le Nœud Nord de 1965. Chaque côté appartient à des séries entières de naissances : je ne traite donc pas ce trigone comme un bien propre à deux personnes, et mon décompte d’une synastrie ne retient que les contacts touchant le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Par les maisons, je le lis comme une époque qui en épaule une autre, plus qu’une personne qui en épaule une autre.
+Les dates disent tout de qui l’a. Votre naissance tombe au milieu de 1965 ? Alors toute personne née d’avril à octobre 1971 a son Nœud Nord à 120° de votre Jupiter, et toute personne née d’avril à juillet 1973 a Jupiter à 120° de votre Nœud Nord. Chaque côté appartient à des séries entières de naissances : je ne traite donc pas ce trigone comme un bien propre à deux personnes, et mon décompte d’une synastrie ne retient que les contacts touchant le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Par les maisons, je le lis comme une époque qui en épaule une autre, plus qu’une personne qui en épaule une autre.
 
 Nœud moyen et nœud vrai sont à un ou deux degrés au plus l’un de l’autre ; je vérifie les deux, et les dates utilisent le nœud vrai ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). L’heure ne change pas le trigone, mais elle fixe les maisons, et il me faut les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

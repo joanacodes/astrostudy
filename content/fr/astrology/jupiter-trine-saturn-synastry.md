@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 254
 glyph: "♃△♄"
-definition: "Jupiter trigone Saturne en synastrie signifie que Jupiter d’une personne se trouve à environ 120° de Saturne chez l’autre, à 4,25° près. Ce que l’une comprend et ce que l’autre peut tenir s’emboîtent aisément, ce qui sert les projets et la transmission. Ce trigone tient aux années de naissance plus qu’aux personnes : je le lis par les maisons."
+definition: "Jupiter trigone Saturne en synastrie signifie que Jupiter d’une personne se trouve à environ 120° de Saturne chez l’autre, à 4,25° près. Ce que l’une comprend et ce que l’autre peut tenir s’emboîtent aisément, ce qui sert les projets et la transmission. Les années de naissance le distribuent ; je le lis dans les maisons."
 facts:
   - { k: "Corps", v: "Jupiter ♃ chez l’une, Saturne ♄ chez l’autre" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -23,12 +23,12 @@ faq:
   - q: "Que peut cacher Jupiter trigone Saturne en synastrie ?"
     a: "Surtout ce que l’aisance permet d’éviter. Une paire aussi raisonnable peut choisir sans cesse le projet familier et prendre une prudence partagée pour de la sagesse. L’apport de chacune peut aussi cesser d’être remarqué. Tenter de temps en temps quelque chose de neuf, ensemble, garde le trigone honnête."
   - q: "Qui a Jupiter trigone Saturne avec quelqu’un ?"
-    a: "Les dates de naissance en décident. Une personne née à la mi-1995 l’a avec toute personne née entre septembre 1967 et mars 1968, et avec toute personne née entre août 2005 et juillet 2006. Il vient de ces mois-là, non du caractère de quiconque : je le lis donc par les maisons des deux thèmes."
+    a: "Parmi les naissances de 1930 à 2009, un anniversaire à la mi-1995 le trouve avec deux groupes : les personnes nées entre septembre 1967 et mars 1968, et celles nées entre août 2005 et juillet 2006. Il vient de ces mois-là, non du caractère de quiconque : je le lis donc par les maisons des deux thèmes."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, 120°, parmi ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Jupiter d’une personne en trigone de Saturne chez une autre, à 4,25° près" }
 ---
-Demandez à cette paire de préparer quelque chose, et le projet sort souvent à la fois plein d’espoir et solide. Dans Jupiter trigone Saturne en synastrie, les deux planètes se répondent à environ 120°, Jupiter chez l’une, Saturne chez l’autre, à 4,25° près, en général dans des signes du même élément. Deux dates de naissance le fixent, et j’y lis deux époques qui se trouvent d’accord.
+Demandez à cette paire de préparer quelque chose, et le projet sort souvent à la fois plein d’espoir et solide. Dans Jupiter trigone Saturne en synastrie, les deux planètes se répondent à environ 120°, Jupiter chez l’une, Saturne chez l’autre, à 4,25° près, en général dans des signes du même élément. C’est l’accord de deux cohortes plus que de deux tempéraments.
 
 ## Ce qui circule {#ce-qui-circule}
 

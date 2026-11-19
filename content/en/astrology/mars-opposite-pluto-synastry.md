@@ -41,7 +41,7 @@ Opposite signs move in the same manner and want complementary things. Mars in Ta
 
 The seesaw tilts when the roles freeze. With the Mars, you may come to experience the other person as the immovable one, the will you keep running into, and push harder each time. With the Pluto, you may come to experience them as the force that never lets up, and answer by holding on to control, or by withdrawing to think. Each can feel that the other holds the power; both are usually wrong.
 
-An opposition is a seesaw, never enmity. Empowerment is not domination, and assertion is not aggression: the work is balance, not victory.
+None of this makes the two of you enemies: you share one seesaw. Neither strength is a weapon either, since Pluto's is the power to renew and Mars's the right to assert, and the work is balance, not victory.
 
 The same two strengths at other angles:
 

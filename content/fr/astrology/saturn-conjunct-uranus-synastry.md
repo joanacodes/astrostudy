@@ -40,7 +40,7 @@ Si Uranus est de votre côté, cette personne met un plancher sous votre envie d
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Une conjonction brouille la frontière entre la règle et la réforme. Au bout d’un moment, on ne sait plus de qui venait le nouvel arrangement : l’expérience de la personne d’Uranus durcit en procédure de la personne de Saturne, ou la structure de la seconde absorbe chaque changement si bien qu’il ne reste rien de neuf. Réformer n’est pas détruire, une structure n’est pas une cage ; cette paire doit continuer à distinguer les deux.
+Une conjonction brouille la frontière entre la règle et la réforme. Au bout d’un moment, on ne sait plus de qui venait le nouvel arrangement : l’expérience de la personne d’Uranus durcit en procédure de la personne de Saturne, ou la structure de la seconde absorbe chaque changement si bien qu’il ne reste rien de neuf. Changer une règle n’est pas l’abattre, et en garder une n’enferme personne ; cette paire doit continuer à distinguer les deux.
 
 - **[Saturne sextile Uranus en synastrie](/astrology/saturn-sextile-uranus-synastry/) :** une alliance de travail offerte, à deux signes d’écart.
 - **[Saturne carré Uranus en synastrie](/astrology/saturn-square-uranus-synastry/) :** maintenir et changer se heurtent à angle droit.

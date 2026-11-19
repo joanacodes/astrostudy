@@ -39,7 +39,7 @@ The two signs usually get on by element. Mars in Cancer with Pluto in Virgo join
 
 ## Where it rubs {#where-it-rubs}
 
-What a sextile's ease can hide here is time. Because the alliance works so well under pressure, the pair may only call on it in emergencies: the Pluto person's depth when something breaks, the Mars person's energy for heavy lifting. In quiet periods, neither mentions what they'd quietly like to change, and small adjustments wait until they've become large ones. Gradual change is easy to underestimate.
+What a sextile's ease can hide here is time. Because the alliance works so well under pressure, the pair may only call on it in emergencies: the Pluto person's depth when something breaks, the Mars person's energy for heavy lifting. In calm periods, neither mentions what they'd like to change, and small adjustments wait until they've become large ones. Gradual change is easy to underestimate.
 
 From the Mars side, there's also a risk of becoming the engine for someone else's overhauls and never your own. From the Pluto side, of handing the hard part of starting to the other person every time, and losing the habit of beginning.
 

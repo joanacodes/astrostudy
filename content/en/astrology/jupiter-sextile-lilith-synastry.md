@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that give this contact, with mean Lilith" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s apogee, behind mean Black Moon Lilith" }
 ---
-In Jupiter sextile Lilith in synastry, about 60° separate one person's Jupiter from the other's Black Moon Lilith. Nothing here pulls or presses. One person's wider world simply keeps leaving a door ajar, and the other's hidden side can walk through it, or not.
+Nothing in Jupiter sextile Lilith in synastry pulls or presses: one person's Jupiter and the other's Black Moon Lilith sit about 60° apart, a sextile with only 3° of leeway. One person's wider world simply keeps leaving a door ajar, and the other's hidden side can walk through it, or not.
 
 ## What flows {#what-flows}
 
@@ -48,7 +48,7 @@ Set at other angles, the same two points behave differently. [Jupiter conjunct L
 
 Make the invitations concrete and keep them light: name the place and the day, and make clear that no is a perfectly good answer. If the Lilith is yours, accept the ones that interest you, on your own terms, and say so when one doesn't. Friends can take a course together; a couple can travel somewhere neither has been; adult siblings can find a hobby that has no family history attached.
 
-Who has it is a matter of dates. Someone born in mid-1965 has it with anyone born from April to June 1967, whose Lilith lies 60° from that 1965 Jupiter, and again with people born in April or May 1970; outside such brief windows, it's gone. A whole season of births carries the same Jupiter, and another the same Lilith, so I leave this sextile out when I tally what two charts share: my tally takes only contacts with the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. What I do with it is look at the houses, and read it as the gap between two moments in time rather than between two characters.
+Who has it is a matter of dates. Take someone born in mid-1965: people born from April to June 1967 have their Lilith 60° from that Jupiter, and so do people born in April or May 1970; anyone born outside such brief windows doesn't. A whole season of births carries the same Jupiter, and another the same Lilith, so I leave this sextile out when I tally what two charts share: my tally takes only contacts with the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. What I do with it is look at the houses, and read it as the gap between two moments in time rather than between two characters.
 
 Those houses need both birth times, since Jupiter and Lilith move too slowly for the hour to matter to the aspect itself ([what changes without a birth time](/blog/unknown-birth-time/)). My months use mean Lilith; true Lilith can wander far enough to cancel a sextile this narrow ([Which Lilith is mine?](/astrology/which-lilith-is-mine/)).
 

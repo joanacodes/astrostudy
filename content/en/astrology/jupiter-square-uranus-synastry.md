@@ -20,14 +20,14 @@ faq:
   - q: "What does Jupiter square Uranus mean in synastry?"
     a: "About 90°, within 4.25°, separate one person’s Jupiter from the other’s Uranus. One tends to hold principles and a framework of meaning, the other to question it and push for change. The friction can turn beliefs into reforms, as long as neither treats the other’s view as a threat."
   - q: "Is Jupiter square Uranus bad in a relationship?"
-    a: "No contact is bad as I read it. This square describes ideas that rub, which can be tiring and is also how two people keep each other from going stale. It belongs to whole spans of birth dates, so I read it through the houses rather than as a verdict."
+    a: "Not in my reading: I don't sort contacts into good and bad. This square describes ideas that rub, which can be tiring and is also how two people keep each other from going stale. And since whole spans of birth dates share it, its place in my readings is the houses, not a verdict."
   - q: "Who has Jupiter square Uranus with someone?"
-    a: "The birth dates decide. Someone born in mid-2005, for instance, has it with anyone born between December 1989 and January 1992. Because a run of births shares it, I treat it as two eras meeting, not as something personal."
+    a: "The birth dates decide. One example from my count: a mid-2005 birth and any birth between December 1989 and January 1992. Because a run of births shares it, I treat it as two eras meeting, not as something personal."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the square, 90°, among the four aspects he describes" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that set one person’s Jupiter within 4.25° of a square to another’s Uranus" }
 ---
-One person has a framework that makes sense of things; the other keeps finding the case it doesn't cover. Jupiter square Uranus in synastry sets one person's Jupiter about 90° from the other's Uranus, within 4.25°. Two birth years produce it, and I read it as a friction between eras that can turn convictions into reforms.
+One person has a framework that makes sense of things; the other keeps finding the case it doesn't cover. Jupiter square Uranus in synastry is a right angle, about 90° within 4.25°, between one person's Jupiter and the other's Uranus. Handled well, the friction between the two cohorts turns convictions into reforms.
 
 ## What flows {#what-flows}
 
@@ -58,4 +58,4 @@ Dates decide it. Among people born from 1930 to 2009, someone born in mid-2005 h
 
 Both planets turn retrograde for months every year, which is why the windows above come in pieces, but nothing in either chart moves enough in a few hours to make or break the square. The hour sets the houses, and I need both ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-When one chart holds [Jupiter square Uranus](/astrology/jupiter-square-uranus/), the argument between belief and change runs inside one person. Here it has two speakers, each convinced, which can make it easier to hear.
+For one person alone, [Jupiter square Uranus](/astrology/jupiter-square-uranus/) is an argument between belief and change, conducted inside. Here it has two speakers, each convinced, which can make it easier to hear.

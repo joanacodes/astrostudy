@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the sextile, 60°, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that give this contact" }
 ---
-In Saturn sextile Uranus in synastry, one person's Saturn lies about 60° from the other's Uranus. Nothing collides and nothing merges: one generation's way of making things last sits at a workable distance from another's way of making things new, and the two can be introduced.
+Saturn sextile Uranus in synastry leaves a sixth of the zodiac between one person's Saturn and the other's Uranus. Nothing collides and nothing merges: one generation's way of making things last sits at a workable distance from another's way of making things new, and the two can be introduced.
 
 ## What flows {#what-flows}
 
@@ -37,7 +37,7 @@ If the Uranus is yours, this person can be the one who makes your idea stick. Yo
 
 If the Saturn is yours, the other person can update what you've built without threatening it. Their suggestions arrive at an angle you can work with: not a demolition, a renovation. You may find you like being the one who says, "fine, let's make it standard."
 
-Sextiles usually pair compatible elements. One person's Uranus in Sagittarius with the other's Saturn in Aquarius, fire and air: a restless faith in better ways, beside a cool sense of how groups and systems actually work. The idea gets a framework; the framework gets a reason.
+The signs of a sextile usually belong to elements that get on. One person's Uranus in Sagittarius with the other's Saturn in Aquarius, fire and air: a restless faith in better ways, beside a cool sense of how groups and systems actually work. The idea gets a framework; the framework gets a reason.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -54,7 +54,7 @@ The other angles change the terms:
 
 Give it a project and ask out loud. Agree on a small trial with a review date: the Uranus person designs the change, the Saturn person decides how it will be kept. A long-serving colleague and a new hire can modernise a process this way; an adult child and a parent, a family business; neighbours, a shared garden that survives its first winter.
 
-Someone born in mid-1985 has it with anyone born from June 1992 to January 1993, whose Saturn sits 60° from that 1985 Uranus, and someone born in mid-1955 with anyone born from September 1964 to March 1965, whose Uranus sits 60° from the 1955 Saturn. Since a whole span of births shares each side, I keep it out of what I count in a synastry, where only contacts touching the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven go in. Through the houses, I read it as a gap between two eras that happens to be bridgeable, more than as a gap between two people.
+Two pairs from the count show the spread: a person born in mid-1985 with anyone born from June 1992 to January 1993, whose Saturn sits 60° from the 1985 Uranus; a person born in mid-1955 with anyone born from September 1964 to March 1965, whose Uranus sits 60° from the 1955 Saturn. Since a whole span of births shares each side, I keep it out of what I count in a synastry, where only contacts touching the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven go in. Through the houses, I read it as a gap between two eras that happens to be bridgeable, more than as a gap between two people.
 
 Both birth times set those houses; the sextile itself is indifferent to the hour ([what changes without a birth time](/blog/unknown-birth-time/)).
 

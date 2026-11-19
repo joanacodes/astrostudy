@@ -39,7 +39,7 @@ If the Uranus is yours, this person puts a floor under your urge to change thing
 
 ## Where it rubs {#where-it-rubs}
 
-A conjunction blurs the line between the rule and the reform. After a while, it's hard to say whose idea the new arrangement was: the Uranus person's experiment hardens into the Saturn person's procedure, or the Saturn person's structure absorbs each change so thoroughly that nothing new is left. Reform isn't destruction, and structure isn't a cage; this pair needs to keep telling them apart.
+A conjunction blurs the line between the rule and the reform. After a while, it's hard to say whose idea the new arrangement was: the Uranus person's experiment hardens into the Saturn person's procedure, or the Saturn person's structure absorbs each change so thoroughly that nothing new is left. Changing a rule isn't tearing it down, and keeping one isn't locking anyone in; this pair needs to keep the two apart.
 
 - **[Saturn sextile Uranus in synastry](/astrology/saturn-sextile-uranus-synastry/):** a working alliance on offer, two signs apart.
 - **[Saturn square Uranus in synastry](/astrology/saturn-square-uranus-synastry/):** keeping and changing collide at right angles.

@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact, avec le nœud vrai" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai" }
 ---
-Jupiter conjonction Nœud Nord en synastrie pose Jupiter, chez l’une, sur le Nœud Nord de l’autre. La manière dont la première trouve du sens tombe sur la capacité même que la seconde apprend, et fait face, de l’autre côté du thème, à son Nœud Sud : les forces qui lui viennent déjà facilement.
+Avec Jupiter conjonction Nœud Nord en synastrie, le Nœud Nord d’une personne reçoit Jupiter de l’autre. La manière dont la première trouve du sens tombe sur la capacité même que la seconde apprend, et fait face, de l’autre côté du thème, à son Nœud Sud : les forces qui lui viennent déjà facilement.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -41,7 +41,7 @@ Si Jupiter est de votre côté, vous voyez où va l’autre et vous avez envie d
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Une conjonction brouille la question : à qui est cette direction ? La personne de Jupiter peut se faire une idée de la croissance de l’autre, étapes comprises, et celle du nœud peut se mettre à pratiquer pour être approuvée plutôt que pour elle-même. Parler du chemin peut aussi remplacer le faire : Jupiter donne du sens au Nœud Nord, et le sens n’est pas la pratique.
+Dans une conjonction, on finit par ne plus savoir à qui appartient la direction. La personne de Jupiter peut se faire une idée de la croissance de l’autre, étapes comprises, et celle du nœud peut se mettre à pratiquer pour être approuvée plutôt que pour elle-même. Parler du chemin peut aussi remplacer le faire : Jupiter donne du sens au Nœud Nord, et le sens n’est pas la pratique.
 
 Le Nœud Sud ajoute un piège plus discret. Les forces acquises de la personne du nœud font face à Jupiter de l’autre, si bien que ce qu’elle fait déjà bien peut sembler moins intéressant à cette personne, et elle peut avoir l’impression que ses anciens savoir-faire ne comptent pas ici. Ils comptent.
 
@@ -54,7 +54,7 @@ Le Nœud Sud ajoute un piège plus discret. Les forces acquises de la personne d
 
 Laissez la personne dont c’est le nœud choisir le rythme et la pratique. Si Jupiter est de votre côté, offrez du recul plutôt qu’un programme, et saluez l’effort, pas votre idée du résultat. Si le Nœud Nord est de votre côté, prenez l’encouragement et continuez à vous servir de ce que vous savez. Entre collègues d’âges différents, c’est la personne qui ouvre la bonne porte ; entre amis ou dans un couple, celle dont la confiance rend un pas difficile plus facile.
 
-Une personne née au milieu de 1955 l’a avec toute personne née entre septembre 1962 et mars 1963, dont le Nœud Nord tombe sur la position de Jupiter de 1955, et avec les personnes nées en 1960, de janvier à mars ou de mai à novembre, dont Jupiter se pose sur le Nœud Nord de 1955. Chaque côté est partagé par toutes les naissances de ces mois-là : je tiens donc ce contact hors de mon décompte d’une synastrie, qui ne retient que ceux qui touchent le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Je le lis par les maisons, comme la rencontre de deux époques de quelques mois, plus que de deux personnes.
+Choisissez une date de naissance, et le décompte nomme les partenaires. Pour une personne née au milieu de 1955, ce sont les personnes nées entre septembre 1962 et mars 1963, dont le Nœud Nord tombe sur cette position de Jupiter, et celles nées en 1960, de janvier à mars ou de mai à novembre, dont Jupiter se pose sur ce Nœud Nord. Chaque côté est partagé par toutes les naissances de ces mois-là : je tiens donc ce contact hors de mon décompte d’une synastrie, qui ne retient que ceux qui touchent le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Je le lis par les maisons, comme la rencontre de deux époques de quelques mois, plus que de deux personnes.
 
 Je regarde les deux nœuds, moyen et vrai, à un ou deux degrés l’un de l’autre au plus ; les mois ci-dessus viennent du nœud vrai ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). Les maisons demandent les deux heures de naissance, alors que la conjonction elle-même ne se soucie pas de l’heure ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

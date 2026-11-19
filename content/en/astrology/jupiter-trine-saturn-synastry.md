@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 254
 glyph: "♃△♄"
-definition: "Jupiter trine Saturn in synastry means one person’s Jupiter is about 120° from the other’s Saturn, within 4.25°. What one understands and what the other can sustain fit together easily, which suits planning and mentoring. It belongs to birth years more than to two people, so I read it through the houses."
+definition: "Jupiter trine Saturn in synastry means one person’s Jupiter is about 120° from the other’s Saturn, within 4.25°. What one understands and what the other can sustain fit together easily, which suits planning and mentoring. Birth years hand it out, and I read it in the houses, not as a personal bond."
 facts:
   - { k: "Bodies", v: "One person’s Jupiter ♃, the other’s Saturn ♄" }
   - { k: "Aspect", v: "Trine △, 120°" }
@@ -22,12 +22,12 @@ faq:
   - q: "What can go wrong with Jupiter trine Saturn in synastry?"
     a: "Mostly what the ease lets you skip. A pair this sensible can keep choosing the familiar plan and mistake shared caution for wisdom. Each person’s contribution can also stop being noticed. Trying something new together now and then keeps the trine honest."
   - q: "Who has Jupiter trine Saturn with someone?"
-    a: "The birth dates decide. A person born in mid-1995 has it with anyone born between September 1967 and March 1968, and with anyone born between August 2005 and July 2006. It comes with those months, not with anyone’s character, so I read it through the houses of both charts."
+    a: "Among births from 1930 to 2009, a mid-1995 birthday finds it with two groups: those born between September 1967 and March 1968, and those born between August 2005 and July 2006. It comes with those months, not with anyone’s character, so I read it through the houses of both charts."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, 120°, among his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that set one person’s Jupiter within 4.25° of a trine to another’s Saturn" }
 ---
-Ask this pair to plan something and the plan tends to come out both hopeful and sound. In Jupiter trine Saturn in synastry, one person's Jupiter sits about 120° from the other's Saturn, within 4.25°, usually in signs of one element. Two birth dates set it, and I read it as two eras that happen to agree.
+Ask this pair to plan something and the plan tends to come out both hopeful and sound. In Jupiter trine Saturn in synastry, one person's Jupiter sits about 120° from the other's Saturn, within 4.25°, usually in signs of one element. It's the agreement of two cohorts more than of two temperaments.
 
 ## What flows {#what-flows}
 

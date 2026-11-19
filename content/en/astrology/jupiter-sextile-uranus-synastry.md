@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 257
 glyph: "♃⚹♅"
-definition: "Jupiter sextile Uranus in synastry means one person’s Jupiter is about 60° from the other’s Uranus, within 3°. One learns and makes sense of things, the other tests alternatives, and together they can learn by trying, provided someone starts. A year or more of births can share it, so I read it through the houses."
+definition: "Jupiter sextile Uranus in synastry means one person’s Jupiter is about 60° from the other’s Uranus, within 3°. One learns and makes sense of things, the other tests alternatives, and together they can learn by trying, provided someone starts. A year or more of births can share it; what makes it personal is the houses."
 facts:
   - { k: "Bodies", v: "One person’s Jupiter ♃, the other’s Uranus ♅" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -18,16 +18,16 @@ facts:
 related: ["/astrology/jupiter", "/astrology/uranus", "/astrology/sextile", "/astrology/jupiter-sextile-uranus", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Jupiter sextile Uranus mean in synastry?"
-    a: "It’s a 60° link, within 3°, between one person’s Jupiter and the other’s Uranus, usually two signs apart. One person learns and makes sense of things, the other experiments and reforms, and the two can feed each other once someone takes the first step."
+    a: "A 60° link, within 3°, joins one person’s Jupiter to the other’s Uranus, usually two signs apart. One person learns and makes sense of things, the other experiments and reforms, and the two can feed each other once someone takes the first step."
   - q: "Who has Jupiter sextile Uranus in synastry?"
-    a: "It goes by birth dates. Someone born in mid-1935, for example, has it with anyone born between September 1964 and September 1965. A whole year of births shares it with them, which is why I read it through the houses rather than counting it as personal."
+    a: "It goes by birth dates: the Uranus of anyone born between September 1964 and September 1965 is sextile the Jupiter of a person born in mid-1935, for one. A whole year of births shares it with them, which is why I read it through the houses rather than counting it as personal."
   - q: "Is Jupiter sextile Uranus a good aspect between friends?"
     a: "It can make friends good at learning by trying things together, but a sextile only works when used, and no single contact decides a friendship. It also belongs to birth years, so I read it in the houses of both charts, alongside the contacts that involve personal bodies."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the sextile, the 60° aspect" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that set one person’s Jupiter within 3° of a sextile to another’s Uranus" }
 ---
-Some contacts arrive as an invitation rather than a jolt. Jupiter sextile Uranus in synastry sets one person's Jupiter about 60° from the other's Uranus, within 3°: a standing offer to learn something by trying it differently. It comes with two birth dates, which is why I read it as two eras trading ideas.
+Some contacts arrive as an invitation rather than a jolt. With Jupiter sextile Uranus in synastry, the two planets stand about 60° apart across the two charts, within 3°: a standing offer to learn something by trying it differently. What trades ideas here is two cohorts as much as two people.
 
 ## What flows {#what-flows}
 
@@ -49,8 +49,8 @@ Compared with its neighbours, this is the lightest touch. [Jupiter conjunct Uran
 
 Take the invitation literally. Sign up for something neither of you knows: a language, a workshop, a different route to a familiar place. Agree to try one change for a set time, then compare notes on what worked, what didn't and what you'd keep. Friends, couples, adult siblings and coworkers can all use the same small habit: an experiment with a review date.
 
-Here is how the dates fall for one birthday. A person born in mid-1935 meets this sextile in the Uranus of anyone born between September 1964 and September 1965, a generation younger; the reverse windows are short and scattered, August to December 1962 among them. Because a whole year of births can share it, I keep it out of the contacts I count in a synastry reading, which must include a personal body (the Sun, Moon, Mercury, Venus, Mars, Ascendant or Midheaven). I read it through the houses instead, as two eras' ways of learning and changing meeting, more than two people.
+Here is how the dates fall for one birthday. A person born in mid-1935 meets this sextile in the Uranus of anyone born between September 1964 and September 1965, a generation younger; the reverse windows are short and scattered, August to December 1962 among them. Because a whole year of births can share it, I keep it out of my synastry tally, where every contact must include a personal body (the Sun, Moon, Mercury, Venus, Mars, Ascendant or Midheaven). I read it through the houses instead, as two eras' ways of learning and changing meeting, more than two people.
 
 Jupiter covers its sign in about a year, roughly a twelfth of a degree a day, and Uranus far less, so a few hours never decide this sextile. They do decide the houses, and with them where the offer lands in each life, so I ask for both birth times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Someone born with [Jupiter sextile Uranus](/astrology/jupiter-sextile-uranus/) carries both the learner and the experimenter. Split across two charts, each has to go and find the other.
+Within one life, [Jupiter sextile Uranus](/astrology/jupiter-sextile-uranus/) makes a person both learner and experimenter. Split across two charts, each role has to go and find the other.

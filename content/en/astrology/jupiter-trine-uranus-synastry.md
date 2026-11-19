@@ -1,13 +1,13 @@
 ---
 title: "Jupiter trine Uranus in synastry"
 h1: "Jupiter trine Uranus between two charts"
-description: "Jupiter trine Uranus in synastry: one person’s growth and the other’s independence keep pace. Both sides, what the ease can hide, and who has it."
+description: "Jupiter trine Uranus in synastry: one person’s growth and the other’s independence keep pace. Each side, the blind spot of ease, and who has it."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 259
 glyph: "♃△♅"
-definition: "Jupiter trine Uranus in synastry means one person’s Jupiter is about 120° from the other’s Uranus, within 4.25°. Growth and independence help each other: change finds a welcome, and understanding keeps moving. Whole runs of birth months share it, so I read it through the houses, as two eras that suit each other."
+definition: "Jupiter trine Uranus in synastry means one person’s Jupiter is about 120° from the other’s Uranus, within 4.25°. Growth and independence help each other: change finds a welcome, and understanding keeps moving. In my readings it’s two eras that suit each other, found in the houses rather than counted as an aspect."
 facts:
   - { k: "Bodies", v: "One person’s Jupiter ♃, the other’s Uranus ♅" }
   - { k: "Aspect", v: "Trine △, 120°" }
@@ -18,16 +18,16 @@ facts:
 related: ["/astrology/jupiter", "/astrology/uranus", "/astrology/trine", "/astrology/jupiter-trine-uranus", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Jupiter trine Uranus mean in synastry?"
-    a: "One person’s Jupiter and the other’s Uranus sit about 120° apart, within 4.25°, usually in signs of one element. Growth and independence help each other: one person widens their understanding through the other’s changes, and those changes find a welcome. It suits pairs who like to explore."
+    a: "A trine of about 120°, within 4.25°, links one person’s Jupiter to the other’s Uranus, usually across two signs of one element. Growth and independence help each other: one person widens their understanding through the other’s changes, and those changes find a welcome. It suits pairs who like to explore."
   - q: "What can Jupiter trine Uranus hide?"
-    a: "Mostly what the ease never questions. Two people this open to change can drop good things too quickly and skip asking what still works. Keeping a short list of what you value, and checking new plans against it, keeps the trine honest."
+    a: "Whatever nobody thinks to question. Two people this open to change can drop good things too quickly and skip asking what still works. Keeping a short list of what you value, and checking new plans against it, keeps the trine honest."
   - q: "Who has Jupiter trine Uranus with someone?"
-    a: "The two birth dates decide. Someone born in mid-1945, for example, has it with people born between April 1939 and July 1940 and with people born between December 1992 and March 1994. Whole runs of births share it, so I read it through the houses."
+    a: "Two groups of births have it with someone born in mid-1945, for example: those of April 1939 to July 1940, and those of December 1992 to March 1994. Those are whole runs of births, which is why the houses, not the aspect, carry my reading."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, 120°, one of the four aspects he describes" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that set one person’s Jupiter within 4.25° of a trine to another’s Uranus" }
 ---
-Change is easier to welcome when someone can tell you what it's for. Jupiter trine Uranus in synastry places one person's Jupiter about 120° from the other's Uranus, within 4.25°, usually in signs of one element. Two birth dates arrange it, so I read it as two eras that find each other's novelties sensible.
+Change is easier to welcome when someone can tell you what it's for. Between one person's Jupiter and the other's Uranus, Jupiter trine Uranus in synastry measures about 120°, within 4.25°, usually across signs of one element. It reads as two eras that find each other's novelties sensible.
 
 ## What flows {#what-flows}
 
@@ -54,8 +54,8 @@ Around the trine:
 
 Keep a short list of what works, and check new plans against it before you change anything. Let the Uranus person name what they'd never give up and the Jupiter person what they'd never stop questioning; the lists may overlap more than you expect. The trine suits pairs who explore: friends who travel, a couple who move or retrain, a parent and adult child learning each other's world, colleagues who prototype well together.
 
-The calendar makes the matches. For a mid-1945 birthday, the trine reaches the Uranus of people born between April 1939 and July 1940, and of people born between December 1992 and March 1994, almost half a century later. So many births share each window that I don't count the trine in a synastry reading, where every contact must involve the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. I read it in the houses, where two eras' ways of welcoming change meet in two lives, more than two personalities.
+The calendar makes the matches. For a mid-1945 birthday, the trine reaches the Uranus of people born between April 1939 and July 1940, and of people born between December 1992 and March 1994, almost half a century later. So many births share each window that I don't count the trine in a synastry reading, where every contact must involve the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. The houses are where I read it, as two eras' ways of welcoming change more than two personalities.
 
-Uranus takes about eighty-four years to go round the zodiac and Jupiter about twelve, so the hour of birth cannot make or break this trine; the houses it falls in depend on both hours, which is why I don't read a synastry without them ([what changes without a birth time](/blog/unknown-birth-time/)).
+Uranus takes about eighty-four years to go round the zodiac and Jupiter about twelve, so the hour of birth cannot make or break this trine; the houses it falls in need both hours, and a synastry without them is one I don't do ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 [Jupiter trine Uranus](/astrology/jupiter-trine-uranus/) in one chart is an easy relationship with change that a person carries alone. Between two charts it becomes company: someone to grow with while things move.

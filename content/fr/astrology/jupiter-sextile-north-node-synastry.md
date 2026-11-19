@@ -20,7 +20,7 @@ related: ["/astrology/jupiter", "/astrology/north-node", "/astrology/sextile", "
 faq:
   - q: "Que veut dire Jupiter sextile Nœud Nord en synastrie ?"
     a: "Jupiter, chez une personne, se trouve à environ 60° du Nœud Nord de l’autre, donc à environ 120° de son Nœud Sud. Le regard de la première parle à ce que la seconde sait déjà et le tourne vers ce qu’elle apprend. C’est une offre d’aide ouverte, qui montre sa valeur dans les pas réellement faits."
-  - q: "Pourquoi le Nœud Sud compte-t-il ici ?"
+  - q: "Pourquoi est-ce que le Nœud Sud compte ici ?"
     a: "Parce que les deux nœuds sont toujours exactement opposés : un sextile à l’un est un trigone à l’autre. La personne de Jupiter est donc à l’aise avec les forces acquises de la personne du nœud autant qu’avec sa croissance, ce qui rend l’aide familière. Le piège, c’est qu’elle peut revenir vers le terrain connu."
   - q: "Ce contact est-il personnel à nous deux ?"
     a: "Pas vraiment. Jupiter passe environ un an dans un signe et les nœuds environ dix-huit mois : toutes les personnes nées dans les mêmes mois partagent les mêmes positions. Je ne le compte pas parmi les contacts d’une synastrie ; je le lis par les maisons, qui montrent par quel domaine de vie l’aide arrive."
@@ -33,7 +33,7 @@ Jupiter sextile Nœud Nord en synastrie place Jupiter, chez l’une, à environ 
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Jupiter](/astrology/jupiter/) est la manière dont une personne élargit les choses : apprendre, relier, trouver une raison. Le [Nœud Nord](/astrology/north-node/) désigne une capacité moins automatique, qui grandit avec la répétition ; en face, le Nœud Sud garde ce qui est venu tôt et facilement. Un [sextile](/astrology/sextile/) relie deux fonctions par l’occasion, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), celui-ci offre une aide qui respecte les deux bouts du chemin de l’autre.
+[Jupiter](/astrology/jupiter/) est la manière dont une personne élargit les choses : apprendre, relier, trouver une raison. Le [Nœud Nord](/astrology/north-node/) désigne une capacité moins automatique, qui grandit avec la répétition ; en face, le Nœud Sud garde les savoir-faire venus tôt, sans effort. Un [sextile](/astrology/sextile/) relie deux fonctions par l’occasion, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), celui-ci offre une aide qui respecte les deux bouts du chemin de l’autre.
 
 Si le Nœud Nord est de votre côté, les conseils de cette personne arrivent dans une langue que vous parlez déjà. Elle estime ce que vous savez faire, et vous montre comment cela pourrait vous mener ailleurs : comme quelqu’un qui enseigne et prend votre ancien savoir-faire pour premier barreau d’une nouvelle échelle. Grandir ressemble à un prolongement, pas à une trahison de ce que vous avez été.
 
@@ -45,18 +45,18 @@ Ce qu’un sextile peut cacher, c’est la dérive. Parce que la personne de Jup
 
 Un risque plus petit guette du côté de Jupiter : offrir encore et encore la même aide à quelqu’un qui a cessé de la prendre.
 
-Depuis ce sextile, les autres angles de la paire :
+Vus d’ici, les autres angles :
 
 - **[Jupiter conjonction Nœud Nord en synastrie](/astrology/jupiter-conjunct-north-node-synastry/) :** un encouragement visant droit la croissance, et face au familier.
 - **[Jupiter carré Nœud Nord en synastrie](/astrology/jupiter-square-north-node-synastry/) :** des convictions en travers de tout le chemin, l’ancien comme le nouveau.
 - **[Jupiter trigone Nœud Nord en synastrie](/astrology/jupiter-trine-north-node-synastry/) :** l’équilibre inversé, le courant facile allant vers le nouveau.
-- **[Jupiter opposition Nœud Nord en synastrie](/astrology/jupiter-opposite-north-node-synastry/) :** Jupiter sur le bout familier lui-même.
+- **[Jupiter opposition Nœud Nord en synastrie](/astrology/jupiter-opposite-north-node-synastry/) :** Jupiter à même le bout familier.
 
 ## Comment le vivre {#comment-le-vivre}
 
 Terminez chaque conversation par un pas vers le nouveau, nommé et petit. Si le Nœud Nord est de votre côté, demandez de l’aide pour la chose inconnue précisément, pas seulement des compliments ; si Jupiter est de votre côté, remarquez quand la conversation est rentrée à la maison, et ramenez-la doucement vers l’avant. Une personne qui entraîne et une autre, adulte, qui apprend, deux collègues de services différents, des frères et sœurs qui essaient une chose que leur enfance ne leur a pas apprise : tous peuvent se servir du pont, s’ils le traversent.
 
-Une personne née au milieu de 1975 l’a avec toute personne née de juillet à octobre 1983, dont le Nœud Nord se trouve à 60° de la position de Jupiter de 1975, et avec les personnes nées d’avril à juillet 1981, dont Jupiter forme le même angle avec le Nœud Nord de 1975. Un contact que partagent des périodes entières de naissances dit peu de deux individus : mes synastries le laissent hors du compte, qui ne retient que les contacts où le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel prend part. Je lis celui-ci par les maisons, comme une différence entre deux époques plus qu’entre deux personnes.
+Parmi les personnes nées au milieu de 1975, le sextile apparaît avec toute personne née de juillet à octobre 1983, son Nœud Nord à 60° de la position de Jupiter de 1975, et avec toute personne née d’avril à juillet 1981, chez qui Jupiter se trouve à 60° du Nœud Nord de 1975. Un contact que partagent des périodes entières de naissances dit peu de deux individus : mes synastries le laissent hors du compte, qui ne retient que les contacts où le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel prend part. Je le lis plutôt par les maisons, où ce contact marque l’écart entre deux périodes de naissances plus qu’entre deux personnes.
 
 Les mois viennent du nœud vrai ; je vérifie aussi le nœud moyen, jamais à plus d’un ou deux degrés, et avec un orbe aussi étroit les deux peuvent diverger aux bords ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). L’heure ne fait ni ne défait le sextile, mais elle fixe les maisons : il faut les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

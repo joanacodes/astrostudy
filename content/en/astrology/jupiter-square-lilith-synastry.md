@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that give this contact, with mean Lilith" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s apogee and its mean position" }
 ---
-Jupiter square Lilith in synastry sets one person's Jupiter about 90° from the other's Black Moon Lilith. What the first believes is good, decent and worth hoping for keeps catching on what the second refuses to give up, and neither side is wrong about everything.
+With Jupiter square Lilith in synastry, a quarter of the zodiac lies between one person's Jupiter and the other's Black Moon Lilith. What the first believes is good, decent and worth hoping for keeps catching on what the second refuses to give up, and neither side is wrong about everything.
 
 ## What flows {#what-flows}
 
@@ -53,8 +53,8 @@ If the Jupiter is yours, your goodwill keeps meeting a flat no. What you offer g
 
 Argue about the principle, never about the person. The Jupiter person can ask, "is this my value, or a rule I want you to follow?"; the Lilith person, "is this my no, or an old one?". Between an adult child and a parent, it may be faith or politics; between colleagues, a mission one believes in and the other won't perform enthusiasm for; between friends, one who looks for the good and one who refuses to pretend.
 
-Someone born in mid-1955 has it with anyone born from September to December 1967, whose Lilith squares that 1955 Jupiter, and with anyone born from May to August 1962, whose Jupiter squares the 1955 Lilith. Nothing in that is personal: anyone born in the same weeks would have the same square with the same people. My synastry readings count a contact only when the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven takes part, so this one stays out of the count; I read it through the houses it falls in, where it describes two eras rubbing more than two people.
+The count gives the square, for instance, to a person born in mid-1955 paired with anyone born between September and December 1967, whose Lilith squares the 1955 Jupiter, or between May and August 1962, whose Jupiter squares the 1955 Lilith. Nothing in that is personal: anyone born in the same weeks would have the same square with the same people. My synastry readings count a contact only when the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven takes part, so this one stays out of the count; I read it through the houses it falls in, where it describes two eras rubbing more than two people.
 
-That reading needs both birth times: the square itself won't move with the hour, but the houses will ([what changes without a birth time](/blog/unknown-birth-time/)). The dates use mean Lilith, which I read; with true Lilith the square may not be there at all ([Which Lilith is mine?](/astrology/which-lilith-is-mine/)).
+That reading needs both birth times: the square itself won't move with the hour, but the houses will ([what changes without a birth time](/blog/unknown-birth-time/)). The dates use mean Lilith, which I read; true Lilith can move it out of orb altogether ([Which Lilith is mine?](/astrology/which-lilith-is-mine/)).
 
 Within one chart, [Jupiter square Lilith](/astrology/jupiter-square-lilith/) is an argument a person has with their own borrowed beliefs. Between two charts the argument has two voices, and both people have to agree before I look at it ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

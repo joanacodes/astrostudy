@@ -21,14 +21,14 @@ faq:
   - q: "Que veut dire Jupiter carré Saturne en synastrie ?"
     a: "D’un thème à l’autre, Jupiter et Saturne se tiennent à environ 90°, à 4,25° près, une planète dans chaque thème. L’une apporte souvent l’espoir le plus vaste, l’autre les conditions qu’il doit remplir. C’est une friction, pas un échec : un projet qui satisfait les deux a été éprouvé de deux côtés, ce qu’un accord facile permet rarement."
   - q: "Jupiter carré Saturne, est-ce mauvais en synastrie ?"
-    a: "Aucun aspect n’est mauvais dans ma lecture. Ce carré décrit deux attitudes envers la croissance qui frottent, et ce frottement peut affûter un projet commun. Il appartient aussi à des années de naissance entières : je le lis donc par les maisons plutôt que comme une chose personnelle entre deux personnes."
+    a: "Aucun aspect n’est mauvais dans ma lecture. Ce carré décrit deux attitudes envers la croissance qui frottent, et ce frottement peut affûter un projet commun. Il appartient aussi à des années de naissance entières : il me parle de deux époques avant de me dire quoi que ce soit de deux personnes."
   - q: "Qui a Jupiter carré Saturne avec quelqu’un ?"
     a: "Tout tient à deux anniversaires. Pour une naissance à la mi-1975, par exemple, il se forme avec toute personne née entre janvier 1990 et janvier 1991, et avec toute personne née entre juillet 1945 et juillet 1946. Comme il vient du calendrier, il parle de deux époques plus que de deux personnes."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, 90°, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Jupiter d’une personne en carré de Saturne chez une autre, à 4,25° près" }
 ---
-L’une arrive avec une idée plus grande ; l’autre demande sur quoi elle reposera. Avec Jupiter carré Saturne en synastrie, 90° environ séparent Jupiter, chez une personne, de Saturne chez l’autre, à 4,25° près, en général dans deux signes du même mode. C’est une friction entre années de naissance, et j’y lis deux époques qui négocient.
+L’une arrive avec une idée plus grande ; l’autre demande sur quoi elle reposera. Avec Jupiter carré Saturne en synastrie, 90° environ séparent Jupiter, chez une personne, de Saturne chez l’autre, à 4,25° près, en général dans deux signes du même mode. Ce qui frotte ici, ce sont moins deux caractères que deux cohortes qui négocient.
 
 ## Ce qui circule {#ce-qui-circule}
 

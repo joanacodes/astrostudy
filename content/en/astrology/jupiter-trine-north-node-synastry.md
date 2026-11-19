@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that give this contact, with the true node" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }
 ---
-In Jupiter trine North Node in synastry, one person's Jupiter lies about 120° from the other's North Node, and 60° from their South Node. The first person's way of seeing things seems made for the direction the second is growing in: around them, the next step looks less like a leap and more like the obvious thing to do.
+A third of the zodiac separates one person's Jupiter from the other's North Node in Jupiter trine North Node in synastry, which leaves the Jupiter 60° from their South Node. The first person's way of seeing things seems made for the direction the second is growing in: around them, the next step looks less like a leap and more like the obvious thing to do.
 
 ## What flows {#what-flows}
 
@@ -55,7 +55,7 @@ The pair's other angles change the help:
 
 Leave some of the struggle in place. If the Jupiter is yours, ask what they've tried before offering what you'd do, and let them get stuck a little. If the North Node is yours, practise sometimes where the other can't see, so the skill is yours and not the relationship's. A mentor and someone starting out, two friends a few years apart, a couple building a life: each can use this trine well, by keeping the support and handing back the work.
 
-Someone born in mid-1965 has it with anyone born from April to October 1971, whose North Node lies 120° from that 1965 Jupiter, and with people born from April to July 1973, whose Jupiter trines the 1965 North Node. Both sides belong to whole runs of births, so I don't treat this trine as something two people share personally: my count of a synastry takes only contacts involving the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. Through the houses, I read it as one era backing another, more than one person backing another.
+The dates are the whole story of who has it. Born in mid-1965? Then anyone born from April to October 1971 has a North Node 120° from your Jupiter, and anyone born from April to July 1973 a Jupiter 120° from your North Node. Both sides belong to whole runs of births, so I don't treat this trine as something two people share personally: my count of a synastry takes only contacts involving the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. Through the houses, I read it as one era backing another, more than one person backing another.
 
 Mean node and true node are a degree or two apart at most; I check both, and the dates use the true node ([mean node and true node](/astrology/mean-node-and-true-node/)). The hour won't change the trine, but it sets the houses, and I need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
