@@ -1,13 +1,13 @@
 ---
 title: "Uranus opposite North Node in synastry"
 h1: "Uranus opposite North Node between two charts"
-description: "Uranus opposite North Node in synastry: one person’s Uranus sits on the other’s South Node and stirs familiar ground. Both sides, who has it."
+description: "Uranus opposite North Node in synastry: one person’s Uranus sits on the other’s South Node and stirs familiar ground. The near end, the far end, and who has it."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 340
 glyph: "♅☍☊"
-definition: "Uranus opposite North Node in synastry means one person’s Uranus is about 180° from the other’s North Node, within 4°, and so on their South Node. One person’s appetite for change stirs what the other already knows well, while their growth lies the other way. Dated with the true node, it is read through the houses."
+definition: "Uranus opposite North Node in synastry means one person’s Uranus is about 180° from the other’s North Node, within 4°, and so on their South Node. One person’s appetite for change stirs what the other already knows well, while their growth lies the other way. Its windows come from the true node, and I read it through the houses."
 facts:
   - { k: "Bodies", v: "One person’s Uranus ♅, the other’s North Node ☊" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -22,7 +22,7 @@ faq:
   - q: "Does Uranus opposite North Node hold someone back?"
     a: "No. It describes a stir on familiar ground, which can free someone to move as easily as it can tempt them to stay. Nothing in it decides which; the node person chooses whether what is stirred becomes a springboard or a place to settle back into."
   - q: "Who has Uranus opposite North Node with someone?"
-    a: "The contact links a mid-1975 birth with anyone born from July 1967 to January 1968 or from February to July 1986, and with anyone born, on and off, from May 1941 to May 1943. The dates use the true node and are shared by whole birth periods."
+    a: "The contact links a mid-1975 birth with anyone born from July 1967 to January 1968 or from February to July 1986, and with anyone born, on and off, from May 1941 to May 1943. The true node sets those dates, and whole birth periods share them."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the opposition, 180°, one of the aspects he lists" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that put one person’s Uranus 180° from another’s true North Node, within 4°" }
@@ -53,6 +53,6 @@ Ask what the stir is for. The node person can notice when excitement pulls them 
 
 In mid-1975 Uranus stood in Libra, on the degrees where the South Node had stood for births from July 1967 to January 1968, and would stand again for births from February to July 1986. Anyone born, on and off, from May 1941 to May 1943 has Uranus on the 1975 South Node. The year of birth settles all of this, which is why I leave it uncounted: the contacts I count between two charts each include the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. Through the houses, it shows one era stirring up what another took for granted.
 
-The dates use the true node; I compare it with the mean node, never more than a degree or two apart, before saying the contact is there ([mean node and true node](/astrology/mean-node-and-true-node/)). The hour can't make or break the opposition, but it places the axis: Uranus on a South Node in the 4th house, among home habits, puts the node person's growth in their 10th, in public life, and only both times can show that ([what changes without a birth time](/blog/unknown-birth-time/)).
+I take the true node for these windows and compare it with the mean node, never more than a degree or two apart, before saying the contact is there ([mean node and true node](/astrology/mean-node-and-true-node/)). The hour can't make or break the opposition, but it places the axis: Uranus on a South Node in the 4th house, among home habits, puts the node person's growth in their 10th, in public life, and only both times can show that ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 [Uranus opposite North Node](/astrology/uranus-opposite-north-node/) in one chart makes change and the fresh start something a person already knows by heart. Across two charts, the restlessness belongs to one person and the habits to the other, and I read it only when both of you want it read ([synastry and consent](/blog/synastry-behind-their-back/)).

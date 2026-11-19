@@ -31,7 +31,7 @@ A workaround someone has spent years perfecting meets a person who would rather 
 
 ## What flows {#what-flows}
 
-[Uranus](/astrology/uranus/) is the function of reform: it differentiates, experiments and frees what has been held too tightly, often by changing the system rather than the person. [Chiron](/astrology/chiron/) adapts: it finds a way to keep taking part around a limitation that doesn't go away, and turns that know-how into practical skill. A [conjunction](/astrology/conjunction/) runs two functions as a single process; among the [synastry aspects](/astrology/synastry-aspects/), this one sets one person's reforming streak on the other's most practised adaptation.
+[Uranus](/astrology/uranus/) is the function of reform: it differentiates, experiments and frees what has been held too tightly, often by changing the system rather than the person. [Chiron](/astrology/chiron/) adapts: it finds a way to keep taking part around a limitation that doesn't go away, and turns that know-how into practical skill. A [conjunction](/astrology/conjunction/) makes one process of two functions; among the [synastry aspects](/astrology/synastry-aspects/), this one sets one person's reforming streak on the other's most practised adaptation.
 
 What it can give is an inventive kind of accommodation. Where the Chiron person has been adjusting to a setting, the Uranus person asks why the setting can't adjust instead: a different tool, a rearranged room, a rule quietly dropped.
 

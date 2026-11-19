@@ -30,7 +30,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact, avec le nœud vrai" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai, toujours opposés" }
 ---
-Avec Chiron opposition Nœud Nord en synastrie, le Chiron de l’une fait face au Nœud Nord de l’autre, à 3° près, et se pose donc juste sur son Nœud Sud : s’opposer à l’un des nœuds, c’est rejoindre l’autre. Les façons de tenir de l’une atterrissent sur le terrain le plus ancien et le plus exercé de l’autre. Sa croissance, pendant ce temps, attend de l’autre côté du zodiaque.
+Avec Chiron opposition Nœud Nord en synastrie, toute la largeur du zodiaque, à 3° près, sépare le Chiron de l’une et le Nœud Nord de l’autre ; ce Chiron tombe ainsi sur son Nœud Sud, car s’opposer à l’un des nœuds, c’est rejoindre l’autre. Les façons de tenir de l’une atterrissent sur le terrain le plus ancien et le plus exercé de l’autre. Sa croissance, pendant ce temps, attend de l’autre côté du zodiaque.
 
 ## Ce qui circule {#ce-qui-circule}
 

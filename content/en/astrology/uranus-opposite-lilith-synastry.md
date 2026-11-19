@@ -1,13 +1,13 @@
 ---
 title: "Uranus opposite Lilith in synastry"
 h1: "Uranus opposite Lilith between two charts"
-description: "Uranus opposite Lilith in synastry: one person’s open difference faces the other’s quiet refusal, each a mirror. Both sides, who has it, which Lilith."
+description: "Uranus opposite Lilith in synastry: one person’s open difference faces the other’s quiet refusal, each a mirror. Both ends, the dates, and which Lilith."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 335
 glyph: "♅☍⚸"
-definition: "Uranus opposite Lilith in synastry means one person’s Uranus is about 180° from the other’s Black Moon Lilith, within 4°. One person acts out the urge to differ, the other the refusal and the guarded instinct, and each sees a far end of themselves in the other. Dated with mean Lilith, it is read through the houses."
+definition: "Uranus opposite Lilith in synastry means one person’s Uranus faces the other’s Black Moon Lilith across the zodiac, about 180° away, within 4°. One person acts out the urge to differ, the other the refusal and the guarded instinct, and each sees a far end of themselves in the other. Mean Lilith dates it; the houses carry its reading."
 facts:
   - { k: "Bodies", v: "One person’s Uranus ♅, the other’s Black Moon Lilith ⚸" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/black-moon-lilith", "/astrology/opposition", "/astrology/uranus-opposite-lilith", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Uranus opposite Lilith mean in synastry?"
-    a: "One person’s Uranus is about 180° from the other’s Black Moon Lilith, in opposite signs. One person tends to carry the visible urge to break with convention, the other a quieter refusal and a guarded instinct. Each sees in the other the end of the axis they live less, which can teach both a fuller range."
+    a: "One person’s Uranus faces the other’s Black Moon Lilith from the opposite sign, about 180° away. One person tends to carry the visible urge to break with convention, the other a quieter refusal and a guarded instinct. Each sees in the other the end of the axis they live less, which can teach both a fuller range."
   - q: "Who has Uranus opposite Lilith with someone?"
     a: "Take a birth in mid-1945: it shares the opposition with anyone born from February to May 1973 or from November 1990 to January 1991, windows that recur about every nine years with mean Lilith, and with anyone born, on and off, from May 1932 to March 1935. None of it singles out two people, which is why the houses matter."
   - q: "Does Uranus opposite Lilith make two people rivals?"

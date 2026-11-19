@@ -22,7 +22,7 @@ faq:
   - q: "Can Saturn trine North Node make growth too comfortable?"
     a: "It can. Growth usually involves some awkwardness, and when one person’s structure smooths every step, the other may stop stretching, or practise mainly to please. Keeping some of the effort one’s own is what turns the support into progress."
   - q: "Who has Saturn trine North Node in synastry?"
-    a: "For someone born in mid-1985, with Saturn in Scorpio, it is anyone born between January and June 1988 or between May and November 2000, when the true North Node crossed Pisces and then Cancer. Since whole months of births share it, I read it through the houses."
+    a: "Whole months of births. A person born in mid-1985, Saturn in Scorpio, shares it with anyone born between January and June 1988, or between May and November 2000, as the true North Node moved through Pisces and then Cancer; so I read it through the houses."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, 120°, and the sextile, 60°" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }
@@ -38,7 +38,7 @@ With the North Node on your side, you find that this person's steadiness makes t
 
 If the Saturn is yours, the other person's growth is easy to support: your habits suit it, and helping costs you little. You may find that your patience, for once, is exactly what someone needed.
 
-A Scorpio Saturn, a Pisces North Node, a Virgo South Node: staying power, in easy trine with a growth towards trusting what can't be planned, and in friendly sextile with an old talent for getting details right.
+A Scorpio Saturn, a Pisces North Node, a Virgo South Node: staying power, in easy trine with a growth that is learning to let go of control, and in friendly sextile with an old talent for getting details right.
 
 ## Where it rubs {#where-it-rubs}
 

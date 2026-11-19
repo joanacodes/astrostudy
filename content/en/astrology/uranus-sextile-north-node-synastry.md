@@ -1,13 +1,13 @@
 ---
 title: "Uranus sextile North Node in synastry"
 h1: "Uranus sextile North Node between two charts"
-description: "Uranus sextile North Node in synastry: one person’s experiments open a way for the other to grow, and refresh the familiar. Both sides, who has it."
+description: "Uranus sextile North Node in synastry: one person’s experiments open a way for the other to grow, and refresh the familiar. Each side, and the dates."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 337
 glyph: "♅⚹☊"
-definition: "Uranus sextile North Node in synastry means one person’s Uranus is about 60° from the other’s North Node, within 2.4°, and so 120° from their South Node. One person’s experiments open a way for the other to grow, while refreshing what they already know. Dated with the true node, it is read through the houses."
+definition: "Uranus sextile North Node in synastry means one person’s Uranus is about 60° from the other’s North Node, within 2.4°, and so 120° from their South Node. One person’s experiments open a way for the other to grow, while refreshing what they already know. The true node dates it; the houses carry its meaning."
 facts:
   - { k: "Bodies", v: "One person’s Uranus ♅, the other’s North Node ☊" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -22,7 +22,7 @@ faq:
   - q: "Why does the South Node matter with Uranus sextile North Node?"
     a: "Because the same Uranus trines the South Node, the easier of the two links runs to what the node person already knows. The influence can end up refreshing familiar habits rather than helping a new step. Choosing one unfamiliar thing to practise keeps the sextile pointed forward."
   - q: "Who has Uranus sextile North Node with someone?"
-    a: "For someone born in mid-1985, it forms with anyone born from December 1989 to April 1990 or from March to July 1996, and with anyone born, on and off, from July 1952 to April 1954. The dates use the true node, and whole months of births share them."
+    a: "For someone born in mid-1985, it forms with anyone born from December 1989 to April 1990 or from March to July 1996, and with anyone born, on and off, from July 1952 to April 1954. Those months come from the true node, and everyone born in them shares the contact."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the sextile, 60°, as he defines it" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that put one person’s Uranus 60° from another’s true North Node, within 2.4°" }
@@ -42,7 +42,7 @@ On the Uranus side, you have the pleasure of watching your unusual methods help,
 
 ## Where it rubs {#where-it-rubs}
 
-The easier half can win. With a trine to the South Node and only a sextile to the North, the Uranus person's influence may mostly refresh old strengths: new paint on familiar habits, and no step taken. The opportunity has to be engaged, and practice is still practice. The Uranus person, for their part, can lose interest if the opening isn't used quickly.
+The easy link can take over. With a trine to the South Node and only a sextile to the North, the Uranus person's influence may mostly refresh old strengths: new paint on familiar habits, and no step taken. The opportunity has to be engaged, and practice is still practice. The Uranus person, for their part, can lose interest if the opening isn't used quickly.
 
 - **[Uranus conjunct North Node in synastry](/astrology/uranus-conjunct-north-node-synastry/):** the experiment sits on the path itself and presses harder.
 - **[Uranus square North Node in synastry](/astrology/uranus-square-north-node-synastry/):** Uranus stands across the path, halfway between its ends.

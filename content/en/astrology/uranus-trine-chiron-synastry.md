@@ -1,7 +1,7 @@
 ---
 title: "Uranus trine Chiron in synastry"
 h1: "Uranus trine Chiron between two charts"
-description: "Uranus trine Chiron in synastry: one person’s originality fits the other’s way round an old limit. Both sides, what the ease hides, who has it."
+description: "Uranus trine Chiron in synastry: one person’s originality fits the other’s way round an old limit. Each side, the effort ease can hide, and the dates."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

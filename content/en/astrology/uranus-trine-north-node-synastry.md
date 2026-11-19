@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 339
 glyph: "♅△☊"
-definition: "Uranus trine North Node in synastry means one person’s Uranus is about 120° from the other’s North Node, within 3.4°, and so 60° from their South Node. One person’s appetite for change runs with the other’s direction of growth, making the new feel light. Dated with the true node, it is read through the houses."
+definition: "Uranus trine North Node in synastry means one person’s Uranus is about 120° from the other’s North Node, within 3.4°, and so 60° from their South Node. One person’s appetite for change runs with the other’s direction of growth, making the new feel light. Reckoned with the true node, it belongs to the houses more than to the pair."
 facts:
   - { k: "Bodies", v: "One person’s Uranus ♅, the other’s North Node ☊" }
   - { k: "Aspect", v: "Trine △, 120°" }
@@ -22,7 +22,7 @@ faq:
   - q: "Does Uranus trine North Node make growth easy?"
     a: "Lighter, not automatic. A pair this comfortable with change can mistake fresh starts for progress and never stay long enough for a new capacity to settle. The trine helps the growth along; the repeating, slow part still belongs to the node person."
   - q: "Who has Uranus trine North Node with someone?"
-    a: "Someone born in mid-1955 has it with anyone born from March to July 1969 or from January to June 1994, and with anyone born, on and off, from September 1960 to August 1962. The dates use the true node; they belong to whole cohorts, which is why I go to the houses."
+    a: "Someone born in mid-1955 has it with anyone born from March to July 1969 or from January to June 1994, and with anyone born, on and off, from September 1960 to August 1962. Those windows follow the true node and belong to whole cohorts, which is why I go to the houses."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, 120°, as one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that put one person’s Uranus 120° from another’s true North Node, within 3.4°" }

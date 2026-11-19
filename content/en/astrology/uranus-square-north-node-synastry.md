@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 338
 glyph: "♅□☊"
-definition: "Uranus square North Node in synastry means one person’s Uranus is about 90° from the other’s North Node, within 3.4°, and so square their South Node too. One person’s independence cuts across the other’s path from the familiar to the new, asking to be included. Dated with the true node, it is read through the houses."
+definition: "Uranus square North Node in synastry means one person’s Uranus is about 90° from the other’s North Node, within 3.4°, and so square their South Node too. One person’s independence cuts across the other’s path from the familiar to the new, asking to be included. Its dates follow the true node, and its reading the houses."
 facts:
   - { k: "Bodies", v: "One person’s Uranus ♅, the other’s North Node ☊" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -22,7 +22,7 @@ faq:
   - q: "Does Uranus square North Node block someone’s growth?"
     a: "No. A square is friction, and this one sits across the path rather than on it, so it favours neither end. It can show as changes of plan that interrupt someone’s practice, or as a plan that fences the other in. Talked through, it makes a direction sturdier."
   - q: "Who has Uranus square North Node with someone?"
-    a: "A birth in mid-1975 shares it with anyone born from June to November 1981 or from November 1990 to March 1991, and with anyone born, on and off, from March 2002 to December 2004. The dates use the true node, and none of them is personal."
+    a: "A birth in mid-1975 shares it with anyone born from June to November 1981 or from November 1990 to March 1991, and with anyone born, on and off, from March 2002 to December 2004. They come from the true node, and none of them is personal."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the square, 90°, among the aspects he names" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that put one person’s Uranus 90° from another’s true North Node, within 3.4°" }
@@ -55,6 +55,6 @@ Build the surprise into the plan. The node person can practise in ways that surv
 
 The nodes' backward motion gives the square two chances per round, one on each side of the axis. Take a birth in mid-1975, with Uranus in Libra: the square forms with anyone born from June to November 1981 or from November 1990 to March 1991, windows about nine years apart. Anyone born, on and off, from March 2002 to December 2004 has Uranus square the 1975 nodes in turn. Such pairings belong to the calendar. My rule in synastry is simple: a contact counts when one of its bodies is the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven, and here neither is. Through the houses, I read this one as two eras disagreeing about how straight a path should be.
 
-These dates follow the true node; I check the mean node too, a degree or two away at most, and say when the two disagree ([mean node and true node](/astrology/mean-node-and-true-node/)). The hour moves neither body appreciably, but whether the Uranus lands in the node person's 4th house, beside home and roots, or their 9th, among beliefs, needs both times ([what changes without a birth time](/blog/unknown-birth-time/)).
+I take these dates from the true node and check the mean node too, a degree or two away at most, and say when the two disagree ([mean node and true node](/astrology/mean-node-and-true-node/)). The hour moves neither body appreciably, but whether the Uranus lands in the node person's 4th house, beside home and roots, or their 9th, among beliefs, needs both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 When both bodies sit in one chart, as [Uranus square North Node](/astrology/uranus-square-north-node/), the need for room and the path belong to the same person. Between two charts the crossing comes from another life, and both people decide whether it is read ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

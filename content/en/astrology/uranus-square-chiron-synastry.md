@@ -31,7 +31,7 @@ One of them keeps moving the furniture; the other has learned exactly where it n
 
 ## What flows {#what-flows}
 
-[Uranus](/astrology/uranus/) breaks with the expected: it reconfigures systems, insists on difference and looks for the breakthrough. [Chiron](/astrology/chiron/) works within what can't be wished away, building compensations, routines and skills around a vulnerability that persists. A [square](/astrology/square/) relates them through constructive friction; among the [synastry aspects](/astrology/synastry-aspects/), this one hands the push for change to one person and the hard-won arrangement to the other.
+[Uranus](/astrology/uranus/) breaks with the expected: it reconfigures systems, insists on difference and looks for the breakthrough. [Chiron](/astrology/chiron/) works within what can't be wished away, building compensations, routines and skills around a vulnerability that persists. A [square](/astrology/square/) sets them rubbing in a way that builds; among the [synastry aspects](/astrology/synastry-aspects/), this one hands the push for change to one person and the hard-won arrangement to the other.
 
 Squares usually join signs of one modality. With Uranus in Virgo squaring Chiron in Gemini, two mutable signs, a taste for improving methods meets a tender place around being understood: one person keeps refining how things are explained, while the other has only just found words that work.
 

@@ -1,13 +1,13 @@
 ---
 title: "Uranus sextile Lilith in synastry"
 h1: "Uranus sextile Lilith between two charts"
-description: "Uranus sextile Lilith in synastry: one person’s unusual ways give the other’s hidden side an outlet, if they take it. Both sides, who has it, which Lilith."
+description: "Uranus sextile Lilith in synastry: one person’s unusual ways give the other’s hidden side an outlet, if they take it. Each side, the dates, the Lilith I use."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 332
 glyph: "♅⚹⚸"
-definition: "Uranus sextile Lilith in synastry means one person’s Uranus is about 60° from the other’s Black Moon Lilith, within 2.4°. One person’s unconventional ways offer the other’s guarded side an outlet, which opens only when the other chooses. Dated with mean Lilith, its windows are short and recur; I read it through the houses."
+definition: "Uranus sextile Lilith in synastry means that, within 2.4°, one person’s Uranus and the other’s Black Moon Lilith are about 60° apart. One person’s unconventional ways offer the other’s guarded side an outlet, which opens only when the other chooses. Dated with mean Lilith, its windows are short and recur, and the houses carry its meaning."
 facts:
   - { k: "Bodies", v: "One person’s Uranus ♅, the other’s Black Moon Lilith ⚸" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -18,11 +18,11 @@ facts:
 related: ["/astrology/uranus", "/astrology/black-moon-lilith", "/astrology/sextile", "/astrology/uranus-sextile-lilith", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Uranus sextile Lilith mean in synastry?"
-    a: "One person’s Uranus sits about 60° from the other’s Black Moon Lilith, within 2.4°. The Uranus person’s unconventional settings and ideas offer the Lilith person’s guarded side somewhere to go. Like every sextile it is an opportunity, real only when the Lilith person decides to use it."
+    a: "About 60° separate one person’s Uranus from the other’s Black Moon Lilith, within 2.4°. The Uranus person’s unconventional settings and ideas offer the Lilith person’s guarded side somewhere to go. Like every sextile it is an opportunity, real only when the Lilith person decides to use it."
   - q: "Who has Uranus sextile Lilith with someone?"
     a: "Someone born in mid-1955 and anyone born in April or May 1971 have it both ways round. The 1955 Uranus also meets the Lilith of people born in two short windows in every nine-year round of mean Lilith. With every birth in those weeks sharing it, I read it through the houses."
   - q: "Is Uranus sextile Lilith a sign of attraction?"
-    a: "Not as I read it. It describes an opening between one person’s originality and another’s hidden side, in any adult pair, from friends to colleagues. It predicts nothing about attraction or about where a relationship goes."
+    a: "In my reading, no. It describes an opening between one person’s originality and another’s hidden side, in any adult pair, from friends to colleagues. It predicts nothing about attraction or about where a relationship goes."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the sextile, 60°, the smallest of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that put one person’s Uranus 60° from another’s mean Lilith, within 2.4°" }

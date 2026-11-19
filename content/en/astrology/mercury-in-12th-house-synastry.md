@@ -30,7 +30,7 @@ Their Mercury in your 12th house speaks to the part of you that rarely speaks. C
 
 ## What it brings {#what-it-brings}
 
-[The 12th house](/astrology/12th-house/) is what happens out of sight: solitude and rest, the inner life, work done behind the scenes, and what you carry without saying. [Mercury](/astrology/mercury/) names, explains and interprets. As a [house overlay](/astrology/house-overlays/), this one asks a mind made for words to work where words come slowly.
+[The 12th house](/astrology/12th-house/) holds the life no one watches: solitude and rest, the inner life, work done behind the scenes, and the thoughts you've never voiced. [Mercury](/astrology/mercury/) names, explains and interprets. As a [house overlay](/astrology/house-overlays/), this one asks a mind made for words to work where words come slowly.
 
 For you, they may be the one who finds words for what you only felt. A letter from them, a late conversation, a question asked gently, and something you've been turning over for years comes into focus. Some people with this overlay write to each other more easily than they talk, and keep the best of it private.
 

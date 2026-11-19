@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 331
 glyph: "♅☌⚸"
-definition: "Uranus conjunct Lilith in synastry means one person’s Uranus lies within 4° of the other’s Black Moon Lilith. One person’s licence to be different lands on the part of the other they learned to hide, which can feel like permission or like exposure. Dated with mean Lilith, it is read through the houses."
+definition: "Uranus conjunct Lilith in synastry means one person’s Uranus and the other’s Black Moon Lilith lie within 4° of each other. One person’s licence to be different lands on the part of the other they learned to hide, which can feel like permission or like exposure. Its dates follow mean Lilith, and I read it through the houses."
 facts:
   - { k: "Bodies", v: "One person’s Uranus ♅, the other’s Black Moon Lilith ⚸" }
   - { k: "Aspect", v: "Conjunction ☌, 0°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/black-moon-lilith", "/astrology/conjunction", "/astrology/uranus-conjunct-lilith", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Uranus conjunct Lilith mean in synastry?"
-    a: "One person’s Uranus lies within 4° of the other’s Black Moon Lilith, usually in the same sign. The Uranus person’s urge to differ falls on what the Lilith person learned to keep hidden. It can feel like being allowed to stop editing yourself, or like being shown before you were ready."
+    a: "Your Uranus falls within 4° of the other’s Black Moon Lilith, or theirs on yours, usually in one sign. The Uranus person’s urge to differ falls on what the Lilith person learned to keep hidden. It can feel like being allowed to stop editing yourself, or like being shown before you were ready."
   - q: "Who has Uranus conjunct Lilith with someone?"
     a: "Birth dates settle it. Someone born in mid-1965 has it with anyone born from January to March 1962, and again with each new window about nine years later, because mean Lilith goes round the zodiac in under nine years. The houses, not the aspect, make it about two particular people."
   - q: "Should the Lilith person show more of themselves with this contact?"

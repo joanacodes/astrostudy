@@ -1,13 +1,13 @@
 ---
 title: "Uranus conjunct North Node in synastry"
 h1: "Uranus conjunct North Node between two charts"
-description: "Uranus conjunct North Node in synastry: one person’s experiments land on the other’s direction of growth. Both sides, the South Node, who has it."
+description: "Uranus conjunct North Node in synastry: one person’s experiments land on the other’s direction of growth. Each side, the South Node too, and who shares it."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 336
 glyph: "♅☌☊"
-definition: "Uranus conjunct North Node in synastry means one person’s Uranus lies within 4° of the other’s North Node, and so opposite their South Node. One person’s experiments land on the direction the other is learning to grow in, encouraging it or rushing it. Dated with the true node, it is read through the houses."
+definition: "Uranus conjunct North Node in synastry means one person’s Uranus lies within 4° of the other’s North Node, and so opposite their South Node. One person’s experiments land on the direction the other is learning to grow in, encouraging it or rushing it. I date it with the true node and read it through the houses."
 facts:
   - { k: "Bodies", v: "One person’s Uranus ♅, the other’s North Node ☊" }
   - { k: "Aspect", v: "Conjunction ☌, 0°" }
@@ -20,9 +20,9 @@ faq:
   - q: "What does Uranus conjunct North Node mean in synastry?"
     a: "One person’s Uranus lies within 4° of the other’s North Node, and therefore opposite their South Node. The Uranus person’s appetite for the new sits on the direction the node person is learning to grow in. It can feel like a tailwind for practising the unfamiliar, or like being hurried past habits that still help."
   - q: "Is Uranus conjunct North Node a fated contact?"
-    a: "Some astrologers call contacts with the nodes fated. I read this one as a direction meeting a source of change, never as destiny: it says nothing about how long two people stay close or what they become to each other. What the node person practises remains their choice."
+    a: "Node contacts are sometimes described as fated. I read this one as a direction meeting a source of change, never as destiny: it says nothing about how long two people stay close or what they become to each other. What the node person practises remains their choice."
   - q: "Who has Uranus conjunct North Node with someone?"
-    a: "For a birth in mid-1965, it forms with anyone born from May to October 1979 or from December 1997 to May 1998, a window that recurs about every 18.6 years, and with anyone born, on and off, from June 1944 to June 1946. The dates use the true node."
+    a: "For a birth in mid-1965, it forms with anyone born from May to October 1979 or from December 1997 to May 1998, a window that recurs about every 18.6 years, and with anyone born, on and off, from June 1944 to June 1946. All of it is reckoned with the true node."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the four aspects he lists, without the conjunction" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that put one person’s Uranus within 4° of another’s true North Node" }
@@ -55,6 +55,6 @@ Let the node person set the pace of their own practice. The Uranus person can sh
 
 The node's backward round of about 18.6 years shapes who has it. A person born in mid-1965 carries Uranus in Virgo, and so shares this contact with anyone born from May to October 1979, or from December 1997 to May 1998, when the North Node passed through Virgo. Anyone born, on and off, from June 1944 to June 1946 has Uranus in Gemini on that 1965 North Node. None of those births was planned with anyone in mind. Each contact I list in a synastry involves the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven, and this one doesn't; in the houses, it shows two eras' ideas of how a life moves forward.
 
-The dates use the true node. The mean node is never more than a degree or two away, and I look at both; near the edge of the orb they can disagree ([mean node and true node](/astrology/mean-node-and-true-node/)). The hour hardly moves the node or Uranus, but whether the meeting falls in the node person's 10th house, in public life, or their 3rd, among everyday skills, needs both times ([what changes without a birth time](/blog/unknown-birth-time/)).
+These windows come from the true node; the mean node is never more than a degree or two away, and I look at both; near the edge of the orb they can disagree ([mean node and true node](/astrology/mean-node-and-true-node/)). The hour hardly moves the node or Uranus, but whether the meeting falls in the node person's 10th house, in public life, or their 3rd, among everyday skills, needs both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 A single chart with [Uranus conjunct North Node](/astrology/uranus-conjunct-north-node/) asks its owner to grow by differing. Between two charts the push comes from someone else, which is why the reading needs both of them ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

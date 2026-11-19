@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 333
 glyph: "♅□⚸"
-definition: "Uranus square Lilith in synastry means one person’s Uranus is about 90° from the other’s Black Moon Lilith, within 3.4°. One person’s restlessness keeps catching on the other’s guarded boundaries, and the other’s refusals on that restlessness. Dated with mean Lilith, it is friction about freedom and privacy, read through the houses."
+definition: "Uranus square Lilith in synastry means the other person’s Black Moon Lilith lies about 90° from one person’s Uranus, within 3.4°. One person’s restlessness keeps catching on the other’s guarded boundaries, and the other’s refusals on that restlessness. Dated with mean Lilith, it is friction about freedom and privacy, read through the houses."
 facts:
   - { k: "Bodies", v: "One person’s Uranus ♅, the other’s Black Moon Lilith ⚸" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/black-moon-lilith", "/astrology/square", "/astrology/uranus-square-lilith", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Uranus square Lilith mean in synastry?"
-    a: "One person’s Uranus is about 90° from the other’s Black Moon Lilith, usually in signs of one modality. The Uranus person’s urge to break out of the usual keeps pressing on what the Lilith person guards, and the Lilith person’s refusals keep blocking the other’s experiments. It is friction that can teach both where freedom needs consent."
+    a: "The other’s Black Moon Lilith sits about 90° from your Uranus, or yours from theirs, usually in signs of one modality. The Uranus person’s urge to break out of the usual keeps pressing on what the Lilith person guards, and the Lilith person’s refusals keep blocking the other’s experiments. It is friction that can teach both where freedom needs consent."
   - q: "Does Uranus square Lilith mean one person will push the other too far?"
     a: "No. It predicts nothing about how two people treat each other. It describes a recurring friction between one person’s restlessness and the other’s boundaries, which can be named, negotiated and respected. Friction tells you where to talk, not how things end."
   - q: "Who has Uranus square Lilith with someone?"
@@ -34,7 +34,7 @@ One of them wants to open every window; the other has rooms that stay shut for g
 
 [Uranus](/astrology/uranus/) liberates and experiments: it tests limits, questions conventions and claims room to live differently. [Black Moon Lilith](/astrology/black-moon-lilith/) is a calculated point, the Moon's apogee, and its meaning is symbolic and disputed; I read it as instinct, autonomy and the boundary around what someone learned to keep to themselves. A [square](/astrology/square/) puts two functions at an angle that rubs, usefully; among the [synastry aspects](/astrology/synastry-aspects/), this one gives the urge to break out to one person and the guarded line to the other.
 
-Squares usually join signs of one modality. With Uranus in Libra squaring Lilith in Capricorn, two cardinal signs, both people want to set something in motion: one a freer arrangement between people, the other a structure they control on their own terms.
+Like most squares, this one links two signs of one modality. With Uranus in Libra squaring Lilith in Capricorn, two cardinal signs, both people want to set something in motion: one a freer arrangement between people, the other a structure they control on their own terms.
 
 What the friction can teach is precise: which freedoms need consent. Pairs who keep talking learn to tell the other's no from their fear, and their own push from their curiosity.
 

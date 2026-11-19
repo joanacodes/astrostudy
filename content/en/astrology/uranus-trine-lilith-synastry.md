@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 334
 glyph: "♅△⚸"
-definition: "Uranus trine Lilith in synastry means one person’s Uranus is about 120° from the other’s Black Moon Lilith, within 3.4°. One person’s taste for difference and the other’s untamed side encourage each other, so being unedited feels easy. Dated with mean Lilith, it is read through the houses, with an eye on what the ease skips."
+definition: "Uranus trine Lilith in synastry means 120° or so, within 3.4°, between one person’s Uranus and the other’s Black Moon Lilith. One person’s taste for difference and the other’s untamed side encourage each other, so being unedited feels easy. I date it with mean Lilith and read it through the houses, watching what the ease skips."
 facts:
   - { k: "Bodies", v: "One person’s Uranus ♅, the other’s Black Moon Lilith ⚸" }
   - { k: "Aspect", v: "Trine △, 120°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/black-moon-lilith", "/astrology/trine", "/astrology/uranus-trine-lilith", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Uranus trine Lilith mean in synastry?"
-    a: "One person’s Uranus is about 120° from the other’s Black Moon Lilith, usually in signs of one element. The Uranus person’s appetite for difference and the Lilith person’s guarded instincts back each other up, so both can be themselves without much editing. It describes ease between originality and autonomy."
+    a: "A trine links one person’s Uranus with the other’s Black Moon Lilith, about 120° apart, usually in signs of one element. The Uranus person’s appetite for difference and the Lilith person’s guarded instincts back each other up, so both can be themselves without much editing. It describes ease between originality and autonomy."
   - q: "Can Uranus trine Lilith be too much of a good thing?"
     a: "It can lean that way. When two people make each other feel free so easily, they may stop checking whether a provocation is honest or just fun, or keep their untamed sides for each other alone. Asking now and then what the ease is skipping keeps it generous."
   - q: "Who has Uranus trine Lilith with someone?"
