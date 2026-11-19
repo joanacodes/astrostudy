@@ -20,7 +20,7 @@ faq:
   - q: "How do a Gemini Sun and a Pisces Moon fit together?"
     a: "Like a writer and a dreamer sharing one desk. The Gemini Sun wants facts, names and conversation; the Pisces Moon feels in images and moods, and absorbs the atmosphere around it. As two mutable signs they bend easily, and the friction of the square tends to come out as too much input from too many directions."
   - q: "Why is Mercury uncomfortable with Sun in Gemini, Moon in Pisces?"
-    a: "Because the ruler of your Sun’s sign is at its weakest in your Moon’s: Mercury governs Gemini, and the old rules give it both its detriment and its fall in Pisces. I read that as straight-line thinking that doesn’t soothe this Moon: images, music and metaphor reach it better than arguments. Neptune and Jupiter, Pisces’s two rulers, show where it does find its footing."
+    a: "Because Mercury, your Sun’s ruler, is at its weakest in your Moon’s sign: Mercury governs Gemini, and the old rules give it both its detriment and its fall in Pisces. I read that as straight-line thinking that doesn’t soothe this Moon: images, music and metaphor reach it better than arguments. Neptune and Jupiter, Pisces’s two rulers, show where it does find its footing."
   - q: "Which lunar phase belongs to Sun in Gemini, Moon in Pisces?"
     a: "The days either side of the last quarter, roughly day twenty to day twenty-four and a half of the lunar month; the Moon was 61° to 119° short of the Sun. Disseminating and last quarter share them equally in the eight-phase count; right at 90°, the square between the lights is exact."
 sources:
@@ -38,7 +38,7 @@ Tradition is hard on [Mercury](/astrology/mercury/) in Pisces, giving it both it
 
 The Moon was 61° to 119° behind the Sun, roughly twenty to twenty-four and a half days into the lunar month, close to a half moon rising around midnight. These births come in two equal halves, [waning gibbous (disseminating) moon](/astrology/waning-gibbous-disseminating-moon/) and [last quarter moon](/astrology/last-quarter-moon/), and a gap of about 90° turns the square of signs into an exact waning [Sun square Moon](/astrology/sun-square-moon/), friction worked out by changing your own priorities. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) describes both phases.
 
-Around one person in 139 carries this pair. Pisces is the Moon's last stop before Aries, a stay of some two and a half days, and on a crossing day the clock alone decides between this page, the [Sun in Gemini, Moon in Aquarius](/astrology/sun-in-gemini-moon-in-aquarius/) and the [Sun in Gemini, Moon in Aries](/astrology/sun-in-gemini-moon-in-aries/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). It also fixes the rising sign and the houses, which matter here: two lights this responsive take their cue from their surroundings, and the houses describe those surroundings.
+Around one person in 139 carries this pair. Pisces is the Moon's last stop before Aries, a stay of some two and a half days, and on a crossing day the clock alone decides between this page, the [Sun in Gemini, Moon in Aquarius](/astrology/sun-in-gemini-moon-in-aquarius/) and the [Sun in Gemini, Moon in Aries](/astrology/sun-in-gemini-moon-in-aries/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). It also settles the rising sign and the houses, which matter here: two lights this responsive take their cue from their surroundings, and the houses describe those surroundings.
 
 ## In close relationships {#in-close-relationships}
 

@@ -1,7 +1,7 @@
 ---
 title: "Sun in Cancer, Moon in Scorpio"
 h1: "Sun in Cancer, Moon in Scorpio in a birth chart"
-description: "Sun in Cancer, Moon in Scorpio: water trine water, the Moon in its fall, born past the first quarter. Deep loyalty, deep privacy, in love and at work."
+description: "Sun in Cancer, Moon in Scorpio: water trine water, the Moon in its fall, just past the first quarter. Deep loyalty, deep privacy, in love and at work."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

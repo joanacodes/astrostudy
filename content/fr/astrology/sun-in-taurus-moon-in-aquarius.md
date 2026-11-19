@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et le retard de la Lune sur le Soleil" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "le dernier quartier : la Lune à 90° derrière le Soleil" }
 ---
-Ces deux signes sont fixes, et chacun est fidèle à autre chose : le Soleil en Taureau à ce qu’il possède, la Lune en Verseau à ce qu’elle estime juste. Votre naissance a eu lieu autour du dernier quartier, quand la Lune se lève vers minuit, et je lis ce duo comme deux façons de tenir bon sous un même toit : l’une garde, l’autre réforme.
+Ces deux signes sont fixes, et chacun est fidèle à autre chose : le Soleil en Taureau à ce qu’il possède, la Lune en Verseau à ce qu’elle estime juste. Votre naissance a eu lieu autour du dernier quartier, quand la Lune se lève vers minuit, et j’y vois deux façons de tenir bon sous un même toit : l’une garde, l’autre réforme.
 
 ## Comment ils s’accordent {#comment-ils-s-accordent}
 

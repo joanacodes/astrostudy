@@ -19,7 +19,7 @@ related: ["/astrology/sun-in-taurus", "/astrology/moon-in-capricorn", "/astrolog
 faq:
   - q: "Is a Taurus Sun with a Capricorn Moon all work and no play?"
     a: "Not as I read it, though the risk is real. With the Sun and Moon both in earth, practicality and patience come easily; Venus, ruler of Taurus, wants pleasure, while Saturn, ruler of Capricorn, wants it earned first. The pair often enjoys life most once a plan is safely in place, and does well to let comfort come first now and then."
-  - q: "Why does Saturn matter so much with Sun in Taurus, Moon in Capricorn?"
+  - q: "Why does Saturn carry so much weight with Sun in Taurus, Moon in Capricorn?"
     a: "Saturn rules Capricorn, so it speaks for your Moon: where you look for structure, what you take responsibility for, how you keep yourself steady. In my notebook, Saturn, Chiron and Lilith held up much more often than the rest, 75 to 90% of the time, so Saturn’s sign and house get particular care in my reading."
   - q: "Where was the Moon in its cycle at a Sun in Taurus, Moon in Capricorn birth?"
     a: "Waning, past full and not yet at the last quarter: the Moon was 91° to 148° behind the Sun, seventeen and a half to twenty-two days after a new moon. Seven of these births in eight are disseminating in the eight-phase count; the earliest are full moon births. Near 120° behind, the lights are in a waning trine."
@@ -38,7 +38,7 @@ Pleasure and value on one side, structure and time on the other: that is [Venus]
 
 The full moon was already behind you: the Moon had dropped 91° to 148° behind the Sun, seventeen and a half to twenty-two days into the lunar month. The [waning gibbous (disseminating) moon](/astrology/waning-gibbous-disseminating-moon/) takes nearly all of these births, seven in eight; it's a phase in which, as I read it, what you've learned looks for someone to hand it on to. The earliest few still belong to the [full moon](/astrology/full-moon/) phase. Where the gap is close to 120°, the trine of signs is matched by a waning [Sun trine Moon](/astrology/sun-trine-moon/). [Your birth lunar phase](/astrology/your-birth-lunar-phase/) gives the eight phases in order.
 
-One person in 143, roughly, has this pair. Capricorn keeps the Moon for some two and a half days, after Sagittarius and before Aquarius, and a birthday on which it arrived or left can only be placed by the clock: this page, the [Sun in Taurus, Moon in Sagittarius](/astrology/sun-in-taurus-moon-in-sagittarius/) or the [Sun in Taurus, Moon in Aquarius](/astrology/sun-in-taurus-moon-in-aquarius/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). The clock also fixes the rising sign. Until I have it, the two lights are footings with no walls, which is why I don't read a chart without the time.
+One person in 143, roughly, has this pair. Capricorn keeps the Moon some two and a half days, after Sagittarius and before Aquarius, and a birthday on which it arrived or left can only be placed by the clock: this page, the [Sun in Taurus, Moon in Sagittarius](/astrology/sun-in-taurus-moon-in-sagittarius/) or the [Sun in Taurus, Moon in Aquarius](/astrology/sun-in-taurus-moon-in-aquarius/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). The clock also fixes the rising sign. Until I have it, the two lights are footings with no walls, which is why I don't read a chart without the time.
 
 ## In close relationships {#in-close-relationships}
 

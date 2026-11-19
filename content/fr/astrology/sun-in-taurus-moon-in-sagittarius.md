@@ -23,7 +23,7 @@ faq:
   - q: "Quel rôle jouent Vénus et Jupiter avec le Soleil en Taureau et la Lune en Sagittaire ?"
     a: "Ce sont les maîtres des signes de vos deux luminaires : Vénus pour le Taureau, Jupiter pour le Sagittaire. Vénus décrit ce que vous appréciez et ce qui vous fait plaisir, Jupiter la quête de sens et de place pour grandir. Leurs signes, leurs maisons et leurs aspects disent si le confort et le sens s’entendent dans votre thème, et où ils peuvent se rejoindre."
   - q: "Dans quelle phase était la Lune à une naissance Soleil en Taureau, Lune en Sagittaire ?"
-    a: "Juste après la pleine lune. La Lune se tenait à 181° à 239° du Soleil, dans les cinq jours environ qui suivent l’opposition, sa lumière commençant tout juste à décroître. Le découpage en huit phases accorde 45° à la pleine lune : sept de ces naissances sur huit y restent donc, les autres sont disséminantes."
+    a: "Juste après la pleine lune. La Lune se tenait à 181° à 239° du Soleil, au plus cinq jours environ après l’opposition, sa lumière commençant tout juste à décroître. Le découpage en huit phases accorde 45° à la pleine lune : sept de ces naissances sur huit y restent donc, les autres sont disséminantes."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "Vénus maîtresse du Taureau, Jupiter maître du Sagittaire, et les aspects qu’il comptait" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et la distance de la Lune au-delà de la pleine lune" }

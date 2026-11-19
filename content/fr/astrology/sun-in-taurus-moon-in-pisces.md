@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 24
 glyph: "☉♉☽♓"
-definition: "Soleil en Taureau, Lune en Poissons forme un sextile par signe, la Lune deux signes derrière le Soleil, pour une naissance vingt-deux à vingt-sept jours après une nouvelle lune. Vénus gouverne l’un des signes et a son exaltation dans l’autre. J’y lis les sens et l’imaginaire réunis : un moi ancré, des besoins tendres qui rêvent."
+definition: "Soleil en Taureau, Lune en Poissons forme un sextile par signe, la Lune deux signes derrière le Soleil, à une naissance survenue vingt-deux à vingt-sept jours après une nouvelle lune. Vénus gouverne l’un des signes et a son exaltation dans l’autre. J’y lis les sens et l’imaginaire réunis : un moi ancré, des besoins tendres qui rêvent."
 facts:
   - { k: "Signe solaire", v: "Taureau ♉, gouverné par Vénus" }
   - { k: "Signe lunaire", v: "Poissons ♓, gouvernés par Neptune et Jupiter ; signe de l’exaltation de Vénus" }
@@ -23,7 +23,7 @@ faq:
   - q: "Une Lune en Poissons rend-elle un Soleil en Taureau plus sensible ?"
     a: "Discrètement. Le Soleil en Taureau donne une surface calme et stable ; la Lune en Poissons, dessous, absorbe l’humeur des gens alentour et a besoin de douceur et de temps seule. Les deux s’entendent bien, mais ce que la Lune absorbe, le Soleil tend à le garder : des façons régulières de laisser partir la journée comptent beaucoup."
   - q: "La Lune croît-elle ou décroît-elle à une naissance Soleil en Taureau, Lune en Poissons ?"
-    a: "Décroissante, après le dernier quartier : la Lune était 31° à 90° derrière le Soleil, vingt-deux à vingt-sept jours après le début du mois lunaire. Dans les huit phases, presque toutes sont des naissances de dernier quartier, et quelques-unes balsamiques. Autour de 60° de retard, les luminaires font aussi un sextile décroissant."
+    a: "Décroissante, après le dernier quartier : la Lune était 31° à 90° derrière le Soleil, vingt-deux à vingt-sept jours après le début du mois lunaire. Presque toutes, dans les huit phases, sont des naissances de dernier quartier, et quelques-unes balsamiques. Autour de 60° de retard, les luminaires font aussi un sextile décroissant."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "Vénus maîtresse du Taureau et exaltée dans les Poissons, et Jupiter maître des Poissons" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et le retard de la Lune sur le Soleil" }

@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et le retard de la Lune sur le Soleil" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "le dernier quartier : la Lune à 90° derrière le Soleil" }
 ---
-Votre but est d’abriter des gens ; vos émotions fonctionnent comme un réflexe. Vous prenez soin des vôtres avec une grande tendresse et les défendez avec une rapidité saisissante. Votre arrivée s’est faite dans le dernier tiers du mois lunaire, près de la demi-lune qui se lève à minuit.
+Votre but est d’abriter des gens ; vos émotions fonctionnent comme un réflexe. Vous prenez soin des vôtres avec une grande tendresse et les défendez avec une rapidité saisissante. Votre arrivée s’est faite tard dans le mois lunaire, autour de la demi-lune qui se lève à minuit.
 
 ## Comment ils s’accordent {#comment-ils-s-accordent}
 

@@ -43,7 +43,7 @@ Ce duo compte pour une naissance sur 140 environ. La Lune demeure environ deux j
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-En amour, il vous faut aussi une amitié. Le Soleil en Cancer aspire à la proximité, à la continuité, à un foyer partagé ; la Lune en Verseau a besoin d’espace, d’honnêteté, et d’être rencontrée d’égale à égale plutôt que tenue comme un bien. Vous pouvez être d’une grande loyauté et avoir quand même besoin d’une soirée, ou d’une cause, à vous. Les difficultés viennent quand le besoin de distance de la Lune passe pour de la froideur, ou le besoin de réassurance du Soleil pour de l’accaparement. Dire simplement « je ne pars pas, j’ai juste besoin d’air » apaise tout le monde.
+En amour, il vous faut aussi une amitié. Le Soleil en Cancer aspire à la proximité, à la continuité, à un foyer partagé ; la Lune en Verseau demande de l’espace, de l’honnêteté, et d’être rencontrée d’égale à égale plutôt que tenue comme un bien. Vous pouvez être d’une grande loyauté et avoir quand même besoin d’une soirée, ou d’une cause, à vous. Les difficultés viennent quand le besoin de distance de la Lune passe pour de la froideur, ou le besoin de réassurance du Soleil pour de l’accaparement. Dire simplement « je ne pars pas, j’ai juste besoin d’air » apaise tout le monde.
 
 ## Au travail {#au-travail}
 

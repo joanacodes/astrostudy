@@ -23,7 +23,7 @@ faq:
   - q: "Quelles planètes faut-il regarder pour un Soleil en Cancer avec une Lune en Balance ?"
     a: "La Lune elle-même, parce qu’en gouvernant le Cancer elle gouverne votre signe solaire, puis Vénus, maîtresse de la Balance, qui parle pour votre Lune. Avec un Soleil en Cancer, Vénus reste à 47° environ au plus, quelque part du Taureau à la Vierge, et son signe montre quel genre d’harmonie vous réconforte."
   - q: "Une naissance Soleil en Cancer, Lune en Balance a-t-elle lieu près d’une demi-lune ?"
-    a: "Le plus souvent, oui. Du cinquième au dixième jour du mois lunaire, votre Lune passait du croissant à la demi-lune, avec 61° à 119° d’avance sur le Soleil. Les naissances de croissant et de premier quartier sont ici aussi fréquentes les unes que les autres dans le découpage en huit phases ; le carré croissant est exact quand la Lune a 90° d’avance environ."
+    a: "Le plus souvent, oui. Du cinquième au dixième jour du mois lunaire, votre Lune passait du croissant à la demi-lune, en avance de 61° à 119° sur le Soleil. Les naissances de croissant et de premier quartier sont ici aussi fréquentes les unes que les autres dans le découpage en huit phases ; le carré croissant est exact quand la Lune a 90° d’avance environ."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "la Lune maîtresse du Cancer, Vénus maîtresse de la Balance, et le carré" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et l’avance de la Lune sur le Soleil" }

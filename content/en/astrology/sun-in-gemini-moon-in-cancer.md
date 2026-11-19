@@ -22,7 +22,7 @@ faq:
   - q: "Why does the Moon itself matter so much with Sun in Gemini, Moon in Cancer?"
     a: "Because it rules its own sign here, so no other planet speaks for it: its house and aspects carry the whole weight of your needs. Mercury, ruler of Gemini, speaks for your Sun, and with a Gemini Sun it can stand in Cancer too, where thinking runs through memory and feeling."
   - q: "Was there a new moon just before a Sun in Gemini, Moon in Cancer birth?"
-    a: "Yes, within about five days. The Moon had moved 2° to 59° past the Sun and was often still too close to it to be seen. The eight-phase count puts most of them in the new moon phase and the latest few in the crescent."
+    a: "Yes, within about five days. The Moon had moved 2° to 59° past the Sun and was often still too close to it to be seen. The eight-phase count puts most of them in the new moon phase, the latest few in the crescent."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Mercury’s rule of Gemini and the Moon’s of Cancer" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and how far the Moon was past the Sun" }
