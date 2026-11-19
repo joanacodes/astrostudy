@@ -23,7 +23,7 @@ faq:
   - q: "Quel lien unit la Lune au Soleil avec le Soleil en Cancer et la Lune en Bélier ?"
     a: "Parce que le Cancer, signe de votre Soleil, a la Lune pour maîtresse. Votre Lune gouverne donc aussi votre Soleil, et elle se tient en Bélier : votre sens du but prend ses repères auprès d’une Lune rapide et ardente. Mars, maître du Bélier, a sa chute en Cancer, ce qui lie le duo une seconde fois."
   - q: "Y avait-il une demi-lune à une naissance Soleil en Cancer, Lune en Bélier ?"
-    a: "Presque : la Lune suivait le Soleil à 62° à 120°, dix-neuf jours et demi à vingt-quatre jours et demi après le début du mois lunaire. Dans le découpage en huit phases, moitié disséminantes, moitié dernier quartier ; vers 90°, le carré décroissant est exact."
+    a: "Presque : la Lune suivait le Soleil à 62° à 120°, de 19 jours et demi à 24 jours et demi après la nouvelle lune. Dans le découpage en huit phases, moitié disséminantes, moitié dernier quartier ; vers 90°, le carré décroissant est exact."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "la Lune maîtresse du Cancer, Mars maître du Bélier et sa chute en Cancer" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et le retard de la Lune sur le Soleil" }
@@ -39,7 +39,7 @@ Les maîtres nouent le duo. Le signe de votre Soleil appartient à la Lune, et v
 
 Au moment de votre naissance, le mois lunaire avait dix-neuf jours et demi à vingt-quatre jours et demi, et la Lune suivait le Soleil à 62° à 120°. Dans le découpage en huit phases, la [lune gibbeuse décroissante (disséminante)](/astrology/waning-gibbous-disseminating-moon/) et le [dernier quartier](/astrology/last-quarter-moon/) prennent chacun la moitié de ces naissances ; à 90° de retard, le carré des signes devient exactement un [Soleil carré Lune](/astrology/sun-square-moon/) décroissant. Je lis le dernier quartier comme une friction réglée de l’intérieur, en changeant ses propres priorités, ce qui, pour ce duo, revient souvent à choisir les combats qui vous appartiennent vraiment. Retournez le duo et vous obtenez le [Soleil en Bélier, Lune en Cancer](/astrology/sun-in-aries-moon-in-cancer/), son miroir croissant. [Votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) situe ces phases.
 
-Environ 1 personne sur 138 a ce duo. Le Bélier n’accueille la Lune que deux jours et demi environ, et un anniversaire tombé sur un passage, depuis les Poissons ou vers le Taureau, peut aussi bien donner le [Soleil en Cancer, Lune en Poissons](/astrology/sun-in-cancer-moon-in-pisces/) ou le [Soleil en Cancer, Lune en Taureau](/astrology/sun-in-cancer-moon-in-taurus/) ; l’heure tranche ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)). Avec l’heure viennent l’ascendant et les maisons, et sans eux je ne peux pas vous dire où, dans votre vie, cette protection s’exerce.
+Environ 1 personne sur 138 a ce duo. Le Bélier n’accueille la Lune qu’environ deux jours et demi, et un anniversaire tombé sur un passage, depuis les Poissons ou vers le Taureau, peut aussi bien donner le [Soleil en Cancer, Lune en Poissons](/astrology/sun-in-cancer-moon-in-pisces/) ou le [Soleil en Cancer, Lune en Taureau](/astrology/sun-in-cancer-moon-in-taurus/) ; l’heure tranche ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)). Avec l’heure viennent l’ascendant et les maisons, et sans eux je ne peux pas vous dire où, dans votre vie, cette protection s’exerce.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 

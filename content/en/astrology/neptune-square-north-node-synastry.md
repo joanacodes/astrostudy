@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 358
 glyph: "♆□☊"
-definition: "Neptune square North Node in synastry is one person’s Neptune at right angles to the other’s nodal axis, within 3.4°, so 90° from their South Node too. One person’s ideals and longings keep crossing the road the other is learning to walk. I read it as friction that asks for the dream to be folded into the practice."
+definition: "In synastry, Neptune square North Node crosses one person’s nodal axis with another’s Neptune, about 90° from both nodes, within 3.4°. One person’s ideals and longings keep crossing the road the other is learning to walk. I read it as friction that asks for the dream to be folded into the practice."
 facts:
   - { k: "Bodies", v: "One person’s Neptune ♆, the other’s North Node ☊" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that square one person’s Neptune with another’s true nodes, within 3.4°" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s ascending node, mean and true" }
 ---
-One of you is learning, slowly and with effort, to do something new; the other keeps arriving with a beautiful reason to do something else. Neptune square North Node in synastry sets one person's Neptune across the other's nodal axis, at right angles to both ends.
+One of you is learning, slowly and with effort, to do something new; the other keeps arriving with a beautiful reason to do something else. That is the shape of Neptune square North Node in synastry: one person's Neptune stands across the other's nodal axis, at right angles to both ends.
 
 ## What flows {#what-flows}
 

@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s lead over the Sun" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the waxing Moon in the days before the full" }
 ---
-Curiosity is your Sun's way into the world, and your Moon lets only a few people into its own. With the Sun in Gemini and the Moon in Scorpio, you can talk easily with almost anyone and still keep your deepest feelings for a very small circle. A gibbous Moon, swelling towards full, was in the sky at your birth.
+Curiosity is your Sun's way into the world, and your Moon lets only a few people into its own. Gemini Sun, Scorpio Moon: you can talk easily with almost anyone and still keep your deepest feelings for a very small circle. A gibbous Moon, swelling towards full, was in the sky at your birth.
 
 ## How they get along {#how-they-get-along}
 

@@ -23,7 +23,7 @@ faq:
   - q: "Que disent Mercure, Uranus et Saturne avec le Soleil en Gémeaux et la Lune en Verseau ?"
     a: "Mercure, maître de votre Soleil, montre comment vous pensez et reliez les choses. Le Verseau répond à Uranus en astrologie tropicale moderne et à Saturne dans la tradition ancienne : Uranus montre où votre Lune refuse la façon attendue de faire, Saturne où elle bâtit des fidélités durables, et je lis les deux côte à côte."
   - q: "Où en était la Lune dans son cycle quand un Soleil en Gémeaux a rencontré une Lune en Verseau ?"
-    a: "Quelque part entre la pleine lune et le dernier quartier, dix-sept à vingt-deux jours après une nouvelle lune, la Lune 91° à 149° derrière le Soleil. Le découpage en huit phases en fait presque toutes des naissances disséminantes, les plus précoces des naissances de pleine lune, et autour de 120° de retard, le trigone entre les luminaires est exact."
+    a: "Quelque part entre la pleine lune et le dernier quartier, du dix-septième au vingt-deuxième jour du mois lunaire, la Lune 91° à 149° derrière le Soleil. Le découpage en huit phases en fait presque toutes des naissances disséminantes, les plus précoces des naissances de pleine lune, et autour de 120° de retard, le trigone entre les luminaires est exact."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "Mercure maître des Gémeaux, Saturne maître du Verseau, et les signes d’air" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et le retard de la Lune sur le Soleil" }

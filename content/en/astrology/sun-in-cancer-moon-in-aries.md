@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and how far behind the Sun the Moon was" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the last quarter: the Moon 90° behind the Sun" }
 ---
-Your purpose is to shelter people; your feelings move like a reflex. You look after your own with great tenderness and defend them with startling speed. You arrived in the last third of the lunar month, near the half moon that rises at midnight.
+Your purpose is to shelter people; your feelings move like a reflex. You look after your own with great tenderness and defend them with startling speed. You arrived late in the lunar month, near the half moon that rises at midnight.
 
 ## How they get along {#how-they-get-along}
 

@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 25
 glyph: "☉♊☽♈"
-definition: "Sun in Gemini, Moon in Aries has the Moon trailing the Sun by two signs, in fire, during the last week of a lunar month, after the last quarter. I read it as curiosity and impatience travelling together: a self that gathers options and ideas, and needs that settle once a feeling has been acted on, quickly and out loud."
+definition: "Sun in Gemini, Moon in Aries places a fire Moon two signs back from the Sun, in the lunar month’s final week, after the last quarter. I read it as curiosity and impatience travelling together: a self that gathers options and ideas, and needs that settle once a feeling has been acted on, quickly and out loud."
 facts:
   - { k: "Sun sign", v: "Gemini ♊, ruled by Mercury" }
   - { k: "Moon sign", v: "Aries ♈, ruled by Mars" }
@@ -22,7 +22,7 @@ faq:
   - q: "Why do Mercury and Mars matter with Sun in Gemini, Moon in Aries?"
     a: "As rulers of Gemini and Aries, they speak for your two lights: Mercury for how you think and connect, Mars for how your feelings turn into action. Mercury always stays near a Gemini Sun, never as far as Aries, so the Moon’s outlet comes from Mars, and its house matters."
   - q: "Was the Moon waning at a Sun in Gemini, Moon in Aries birth?"
-    a: "Yes. The Moon was 31° to 88° behind the Sun, a waning crescent seen before dawn, twenty-two to twenty-seven days after a new moon. All but about one in eight count as last quarter births in the eight phases; the latest are balsamic, the phase that closes the month."
+    a: "Yes. The Moon was 31° to 88° behind the Sun, a waning crescent seen before dawn, twenty-two to twenty-seven days after a new moon. Nearly all are last quarter births in the eight-phase count, the latest balsamic, the phase that closes the month."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Mercury’s rule of Gemini and Mars’s of Aries" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s distance behind the Sun" }

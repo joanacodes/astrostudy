@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 38
 glyph: "☉♋☽♉"
-definition: "Sun in Cancer, Moon in Taurus places the Moon in its exaltation, two signs behind a Sun in the sign the Moon rules, at a birth in the last week of a lunar month. I read it as care made solid: a self that shelters people, and needs that settle through the body, good food and familiar things."
+definition: "Sun in Cancer, Moon in Taurus places the Moon in its exaltation, two signs behind a Sun in the sign the Moon rules, at a birth in the closing week of a lunar month. I read it as care made solid: a self that shelters people, and needs that settle through the body, good food and familiar things."
 facts:
   - { k: "Sun sign", v: "Cancer ♋, ruled by the Moon" }
   - { k: "Moon sign", v: "Taurus ♉, ruled by Venus; the Moon’s exaltation" }
@@ -36,9 +36,9 @@ Cardinal water and fixed earth, with Taurus two signs before Cancer: a sextile b
 
 The rulers make this pair distinctive. Cancer's only ruler is the Moon, so your Moon governs your Sun's sign, and it does so from its [exaltation](/astrology/exaltation/), the sign where the old books say it works with the greatest ease. That gives the emotional side of your chart a steady authority: when your feelings are settled, your sense of direction follows. [Venus](/astrology/venus/), ruler of Taurus, then shows what comforts this Moon most, and since Venus is never more than about 47° from the Sun, it may even share Taurus with your Moon when the Sun is early in Cancer.
 
-The birth falls in the last week of the lunar month, with the Moon 31° to 88° short of the Sun and rising in the early hours. Most of these births fall in the [last quarter moon](/astrology/last-quarter-moon/) phase of the eight-phase count, and a late few in the [balsamic moon](/astrology/balsamic-moon/); near 60° behind, the Sun and Moon are in a waning [Sun sextile Moon](/astrology/sun-sextile-moon/). The last quarter is a phase of reviewing and letting go, as I read it, which a Taurus Moon learns slowly and, once it has, well. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) sets out the phases.
+The birth falls in the last week of the lunar month, with the Moon 31° to 88° short of the Sun and rising in the early hours. The eight-phase count places most of these births in the [last quarter moon](/astrology/last-quarter-moon/) phase and a late few in the [balsamic moon](/astrology/balsamic-moon/); near 60° behind, the Sun and Moon are in a waning [Sun sextile Moon](/astrology/sun-sextile-moon/). The last quarter is a phase of reviewing and letting go, as I read it, which a Taurus Moon learns slowly and, once it has, well. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) sets out the phases.
 
-About one birth in 140 has this pair. Taurus holds the Moon for roughly two and a half days, between Aries and Gemini, so a birth on either crossing could just as easily be the [Sun in Cancer, Moon in Aries](/astrology/sun-in-cancer-moon-in-aries/) or the [Sun in Cancer, Moon in Gemini](/astrology/sun-in-cancer-moon-in-gemini/), and only the time says which ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). The rising sign needs the same time, and it often explains why one person with this pair seems so much more restless than another.
+About one birth in 140 has this pair. Taurus holds the Moon for roughly two and a half days, between Aries and Gemini, so a birth on either crossing could just as easily be the [Sun in Cancer, Moon in Aries](/astrology/sun-in-cancer-moon-in-aries/) or the [Sun in Cancer, Moon in Gemini](/astrology/sun-in-cancer-moon-in-gemini/); which one, only the time says ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). The rising sign needs the same time, and it often explains why one person with this pair seems so much more restless than another.
 
 ## In close relationships {#in-close-relationships}
 

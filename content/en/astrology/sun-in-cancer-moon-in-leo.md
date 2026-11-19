@@ -21,7 +21,7 @@ faq:
     a: "Yes. Cancer is the Moon’s sign and Leo the Sun’s, so each light stands in the sign the other rules. Tradition calls that a mutual reception, and I read it as two lights that can stand in for each other: feeling steadies purpose, and purpose warms feeling. This is the one combination of Sun and Moon signs in which each light occupies the other's sign."
   - q: "How does a Cancer Sun with a Leo Moon like to be loved?"
     a: "Warmth said out loud. The Cancer Sun expresses love by looking after people and keeping a home; the Leo Moon wants its warmth returned and its efforts recognised. A thank-you, a celebration, being introduced with pride: small signs of recognition reach this Moon more than people expect."
-  - q: "How soon after a new moon is a Sun in Cancer, Moon in Leo birth?"
+  - q: "Is a Sun in Cancer, Moon in Leo birth close to a new moon?"
     a: "Within about five days. At most 60° separated the Moon from the Sun, and the Moon was often invisible beside it. Only the last of these births reach the crescent; the eight-phase count calls all the others new moon births, and the new moon before them was usually in Cancer."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the Moon’s rule of Cancer and the Sun’s of Leo" }

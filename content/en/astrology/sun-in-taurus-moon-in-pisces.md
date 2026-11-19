@@ -21,7 +21,7 @@ faq:
     a: "Because tradition honours it in both signs: Taurus, where your Sun is, is one of Venus’s homes, and Pisces, where your Moon is, its exaltation. I read it as the thread of the pair, pleasure and beauty felt first through the body and then through the imagination, and Venus's sign and house come early in my reading."
   - q: "Does a Pisces Moon make a Taurus Sun more sensitive?"
     a: "Quietly so. The Taurus Sun gives a calm, steady surface; the Pisces Moon underneath takes in the moods of the people around it and needs gentleness and time alone. The two get on well, but what the Moon absorbs, the Sun tends to keep, so regular ways of letting the day go matter."
-  - q: "What phase was the Moon in at a Sun in Taurus, Moon in Pisces birth?"
+  - q: "Is the Moon waxing or waning at a Sun in Taurus, Moon in Pisces birth?"
     a: "Waning, after the last quarter: the Moon was 31° to 90° behind the Sun, twenty-two to twenty-seven days into the lunar month. In the eight phases nearly all are last quarter births, and a few are balsamic. Around 60° behind, the lights also make a waning sextile."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Venus’s rule of Taurus and its exaltation in Pisces, and Jupiter’s rule of Pisces" }

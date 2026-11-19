@@ -22,7 +22,7 @@ faq:
   - q: "How do Mercury and Jupiter share the work with a Gemini Sun and a Sagittarius Moon?"
     a: "Your Sun answers to Mercury: facts, words, connections. Your Moon answers to Jupiter: meaning, belief, growth. Tradition says Mercury is weakest in Sagittarius and Jupiter weakest in Gemini, which I read as two ways of knowing, the detail and the big picture, that need each other."
   - q: "How near the full moon is a Sun in Gemini, Moon in Sagittarius birth?"
-    a: "Within about two and a half days of it, before or after: the Moon stood 151° to 210° from the Sun. In the eight phases half fall in the gibbous and half are full moon births, and close to 180° the lights are in opposition."
+    a: "Never more than two and a half days or so away, on either side: the Moon stood 151° to 210° from the Sun. In the eight phases half fall in the gibbous and half are full moon births, and close to 180° the lights are in opposition."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Mercury’s rule of Gemini and Jupiter’s of Sagittarius, and the opposition" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and how far apart the lights were" }
@@ -38,7 +38,7 @@ The rulers mirror each other. [Mercury](/astrology/mercury/) governs Gemini and 
 
 Between the twelfth day of the lunar month and the seventeenth, the Moon stood 151° to 210° on from the Sun, so the full moon lay no more than two and a half days off, before or after. The eight-phase count splits these births evenly between the [waxing gibbous moon](/astrology/waxing-gibbous-moon/) and the [full moon](/astrology/full-moon/); the closer the gap came to 180°, the stronger the [Sun opposite Moon](/astrology/sun-opposite-moon/) in your chart. The full moon nearest your birth very probably fell in Sagittarius, as every full moon does while the Sun is in Gemini: a [full moon in Sagittarius](/astrology/full-moon-in-sagittarius/). [Your birth lunar phase](/astrology/your-birth-lunar-phase/) says which side of it you're on.
 
-The count finds this axis in about 1 person in 141. Sagittarius keeps the Moon for about two and a half days; if your birthday saw it arrive from Scorpio or leave for Capricorn, you might belong with the [Sun in Gemini, Moon in Scorpio](/astrology/sun-in-gemini-moon-in-scorpio/) or the [Sun in Gemini, Moon in Capricorn](/astrology/sun-in-gemini-moon-in-capricorn/) instead, and the time decides ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). The time also sets the rising sign, and with an opposition the houses matter twice, since they show which two areas of life the axis runs between.
+The count finds this axis in about 1 person in 141. The Moon visits Sagittarius for about two and a half days; if your birthday saw it arrive from Scorpio or leave for Capricorn, you might belong with the [Sun in Gemini, Moon in Scorpio](/astrology/sun-in-gemini-moon-in-scorpio/) or the [Sun in Gemini, Moon in Capricorn](/astrology/sun-in-gemini-moon-in-capricorn/): the time decides ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). The time also sets the rising sign, and with an opposition the houses matter twice, since they show which two areas of life the axis runs between.
 
 ## In close relationships {#in-close-relationships}
 

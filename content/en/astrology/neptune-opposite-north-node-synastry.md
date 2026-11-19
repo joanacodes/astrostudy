@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 360
 glyph: "♆☍☊"
-definition: "Neptune opposite North Node in synastry places one person’s Neptune across from the other’s North Node, within 4°, which lays it on their South Node. One person’s imagination meets the other on ground they know by heart, soothing, while the other’s growth faces it from across the chart. I read it as a seesaw between home and growth."
+definition: "In synastry, Neptune opposite North Node means a Neptune in one chart facing the North Node of another, within 4°, and therefore sitting on that person’s South Node. One person’s imagination meets the other on ground they know by heart, while the other’s growth faces it across the chart. I read it as a seesaw between home and growth."
 facts:
   - { k: "Bodies", v: "One person’s Neptune ♆, the other’s North Node ☊" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that set one person’s Neptune opposite another’s true North Node, within 4°" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes: the North Node and its opposite point" }
 ---
-Some people meet you exactly where you're most at ease, on the ground you could walk blindfold. Neptune opposite North Node in synastry sets one person's Neptune across from the other's North Node, which places it on their South Node: a dreamy, familiar home ground, with the other's growth on the far side of the chart.
+Some people meet you exactly where you're most at ease, on the ground you could walk blindfold. Neptune opposite North Node in synastry is that kind of meeting: the Neptune of one chart faces the other's North Node, so it rests on their South Node, a dreamy, familiar home ground, with the other's growth on the far side of the chart.
 
 ## What flows {#what-flows}
 

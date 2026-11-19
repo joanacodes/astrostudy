@@ -22,7 +22,7 @@ faq:
   - q: "Why does my Sun rule my Moon with Sun in Gemini, Moon in Leo?"
     a: "In the old scheme of rulerships the Sun governs Leo, which makes it the ruler of your Moon’s sign. In your chart the Sun is in Gemini, ruled by Mercury, so what warms this Moon is being appreciated for how you think, talk and connect. The Sun’s house therefore speaks of your purpose and of your Moon’s ruler at once."
   - q: "Was the Moon a crescent at a Sun in Gemini, Moon in Leo birth?"
-    a: "Almost always. Between two and a half and about seven days had passed since the new moon, and a crescent hung in the west after sunset. Only the very earliest of these births still fall in the new moon phase of the eight-phase count; the rest are crescent births."
+    a: "Almost always. Between two and a half and about seven days had passed since the new moon, and a crescent stood low in the west once the Sun had set. Only the very earliest of these births still belong to the new moon phase; in the eight-phase count the rest are crescent births."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Mercury’s rule of Gemini and the Sun’s of Leo" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s lead over the Sun" }
@@ -38,7 +38,7 @@ The ruler of Leo is the [Sun](/astrology/sun/) itself, and here that makes a cha
 
 Between two and a half and seven or so days had passed since the new moon, and the Moon was 31° to 89° ahead of the Sun, setting a little later each evening in the west. The eight phases put the great majority of these births in the [waxing crescent](/astrology/waxing-crescent/) and the earliest few in the [new moon](/astrology/new-moon/) phase; near 60° ahead, the two lights form a waxing [Sun sextile Moon](/astrology/sun-sextile-moon/). The crescent, as I read it, is the phase in which needs begin to go their own way, and a Leo Moon does that with some style. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) covers where its edges fall.
 
-About 1 person in 138 shares the pair. Leo is a stop of about two and a half days on the Moon's way from Cancer to Virgo, so on a crossing day it's the birth time that names the right page: this one, the [Sun in Gemini, Moon in Cancer](/astrology/sun-in-gemini-moon-in-cancer/) or the [Sun in Gemini, Moon in Virgo](/astrology/sun-in-gemini-moon-in-virgo/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). That time is also what fixes the rising sign and the houses, and a Leo Moon deserves to know which house it shines in before anyone reads it.
+About 1 person in 138 shares the pair. Leo is a stop of about two and a half days on the Moon's way from Cancer to Virgo, so on a crossing day it's the birth time that names the right page: this one, the [Sun in Gemini, Moon in Cancer](/astrology/sun-in-gemini-moon-in-cancer/) or the [Sun in Gemini, Moon in Virgo](/astrology/sun-in-gemini-moon-in-virgo/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). That time is also what places the rising sign and the houses, and a Leo Moon deserves to know which house it shines in before anyone reads it.
 
 ## In close relationships {#in-close-relationships}
 

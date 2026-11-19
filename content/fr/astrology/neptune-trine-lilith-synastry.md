@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/neptune", "/astrology/black-moon-lilith", "/astrology/trine", "/astrology/neptune-trine-lilith", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Neptune trigone Lilith en synastrie ?"
-    a: "C’est un trigone, environ 120°, qui joint Neptune chez une personne à la Lune noire Lilith chez une autre. La première prend souvent les refus et les appétits de la seconde comme ils viennent, et la seconde rend les rêves de la première plus hardis. Facile, ce contact donne le plus, comme tout trigone, quand on s’en sert exprès."
+    a: "C’est un trigone, environ 120°, entre Neptune dans un premier thème et la Lune noire Lilith dans un second. La première prend souvent les refus et les appétits de la seconde comme ils viennent, et la seconde rend les rêves de la première plus hardis. Facile, ce contact donne le plus, comme tout trigone, quand on s’en sert exprès."
   - q: "Deux personnes nées la même année peuvent-elles avoir Neptune trigone Lilith en synastrie ?"
     a: "Oui, et parfois dans les deux sens. Prenez une naissance du milieu de 1985 : avec les personnes nées de mai à juillet de cette année-là, le contact va dans les deux directions à la fois. Cette Lilith de 1985 forme aussi un trigone avec Neptune chez les personnes nées en 1930 et pendant la plus grande partie de 1931."
   - q: "Neptune trigone Lilith veut-il dire que deux personnes sont faites l’une pour l’autre ?"
@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Neptune, chez l’une, à moins de 3,4° d’un trigone avec la Lilith moyenne de l’autre" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "Lilith par signe et par maison dans un seul thème, pas les contacts entre deux" }
 ---
-Certaines personnes entendent votre refus le plus net et en sont, au fond, soulagées. Avec Neptune trigone Lilith en synastrie, Neptune, chez l’une, et la Lune noire Lilith de l’autre sont en trigone : ce que l’autre a appris à cacher est reçu sans un mouvement de recul, par quelqu’un dont les rêves s’enhardissent en retour.
+Certaines personnes entendent votre refus le plus net et en sont, au fond, soulagées. Neptune trigone Lilith en synastrie, c’est un trigone entre Neptune dans un thème et la Lune noire Lilith dans un autre : ce que l’autre a appris à cacher est reçu sans un mouvement de recul, par quelqu’un dont les rêves s’enhardissent en retour.
 
 ## Ce qui circule {#ce-qui-circule}
 

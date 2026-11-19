@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 357
 glyph: "♆⚹☊"
-definition: "Neptune sextile Nœud Nord en synastrie situe Neptune, chez une personne, à environ 60° du Nœud Nord de l’autre, à 2,4° près, donc à environ 120° de son Nœud Sud. L’imagination de l’une tend la main à la croissance de l’autre sans la diriger, et glisse aussi bien vers les vieilles habitudes. J’y lis une offre, par les maisons."
+definition: "Neptune sextile Nœud Nord en synastrie est un lien de 60°, à 2,4° près, entre Neptune dans un thème et le Nœud Nord d’un autre, et un lien de 120° avec le Nœud Sud de cette personne. L’imagination de l’une tend la main à la croissance de l’autre, et glisse aussi vers les vieilles habitudes. J’y lis une offre."
 facts:
   - { k: "Corps", v: "Neptune ♆ de l’une, le Nœud Nord ☊ de l’autre" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -23,19 +23,19 @@ faq:
   - q: "Neptune sextile Nœud Nord touche-t-il aussi le Nœud Sud ?"
     a: "Oui. Le Nœud Sud se trouve exactement à l’opposé du Nœud Nord : à 60° de l’un, Neptune se trouve à environ 120° de l’autre, en trigone. Ce lien facile avec le bout familier fait partie du contact : la même imagination qui encourage le neuf peut aussi rendre les vieilles habitudes très confortables."
   - q: "Qui a Neptune sextile Nœud Nord avec qui ?"
-    a: "Cela suit les dates de naissance. Une personne née au milieu de 1975 l’a avec les personnes nées de décembre 1977 à février 1978, et, dans l’autre sens, avec celles nées de novembre 1997 à février 1999. L’orbe est étroit : les fenêtres sont courtes, et quelques semaines suffisent à les manquer."
+    a: "Tout se joue sur les dates de naissance : une personne née au milieu de 1975 le partage avec les personnes nées de décembre 1977 à février 1978 et, dans l’autre sens, avec celles nées de novembre 1997 à février 1999. L’orbe est étroit : les fenêtres sont courtes, et quelques semaines suffisent à les manquer."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, 60°, et le trigone, 120°" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance où Neptune, chez l’une, est à moins de 2,4° d’un sextile avec le Nœud Nord vrai de l’autre" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "le calcul des nœuds moyen et vrai" }
 ---
-L’aide pour grandir ne vient pas toujours comme une poussée. Neptune sextile Nœud Nord en synastrie situe Neptune, chez l’une, à environ 60° du Nœud Nord de l’autre, et l’aide vient comme une offre : une image de là où l’autre pourrait aller, tendue pour être prise ou laissée.
+L’aide pour grandir ne vient pas toujours comme une poussée. Dans Neptune sextile Nœud Nord en synastrie, l’aide vient comme une offre : Neptune, chez l’une, à environ 60° du Nœud Nord de l’autre, tend une image de là où l’autre pourrait aller, à prendre ou à laisser.
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Neptune](/astrology/neptune/) donne à une personne son sens du possible : des images, un idéal, de la compassion, une confiance en ce qui ne se mesure pas encore. Le [Nœud Nord](/astrology/north-node/) désigne une capacité qu’on est encore en train d’apprendre, moins automatique que ce qui est venu d’abord, et le [Nœud Sud](/astrology/south-node/), en face, garde ce qui est venu d’abord. Un [sextile](/astrology/sextile/) les relie par l’occasion, et comme l’autre face d’un sextile à un nœud est un trigone à l’autre nœud, ce contact touche les deux bouts. Parmi les [aspects de synastrie](/astrology/synastry-aspects/), cela en fait un pont qu’une personne prête à l’autre.
+[Neptune](/astrology/neptune/) donne à une personne son sens du possible : des images, un idéal, de la compassion, une confiance en ce qui ne se mesure pas encore. Le [Nœud Nord](/astrology/north-node/) représente une capacité encore en apprentissage, moins automatique que ce qui est venu d’abord ; le [Nœud Sud](/astrology/south-node/), en face, conserve ce qui est venu d’abord. Un [sextile](/astrology/sextile/) les met en lien par l’occasion ; et, les nœuds se faisant face, Neptune forme du même coup un trigone avec le Nœud Sud : ce contact touche les deux bouts. Parmi les [aspects de synastrie](/astrology/synastry-aspects/), cela en fait un pont qu’une personne prête à l’autre.
 
-Si le Nœud Nord est le vôtre, cette personne rend votre nouvelle direction moins solitaire. Elle suggère plutôt qu’elle ne dirige, elle sait vous imaginer faisant la chose inconnue, et vos anciennes forces lui plaisent aussi, puisque Neptune, dans son thème, est en trigone avec votre Nœud Sud. Avec elle, vous n’avez pas à choisir entre ce que vous avez été et ce que vous devenez.
+Pour qui porte le Nœud Nord, la nouvelle direction devient moins solitaire auprès de l’autre. Elle suggère plutôt qu’elle ne dirige, elle sait vous imaginer faisant la chose inconnue, et vos anciennes forces lui plaisent aussi, puisque Neptune, dans son thème, est en trigone avec votre Nœud Sud. Avec elle, vous n’avez pas à choisir entre ce que vous avez été et ce que vous devenez.
 
 Si Neptune est de votre côté, vos rêves trouvent un emploi. Vous pouvez transmettre une vision, une histoire, un sens du possible, et voir quelqu’un en faire une pratique. C’est la plus douce des influences, et elle marche le mieux quand suggérer vous suffit.
 
@@ -54,8 +54,8 @@ Les mêmes à d’autres angles :
 
 Prenez l’offre exprès. De temps en temps, vérifiez si le temps passé ensemble nourrit la nouvelle direction ou seulement l’ancienne, et corrigez un peu la barre si c’est toujours l’ancienne. Si le Nœud Nord est le vôtre, dites à l’autre ce que vous pratiquez, pour que son imagination ait où se poser. Des amis peuvent en faire un projet commun ; des frères et sœurs, un encouragement libre des rôles de famille ; des collègues, une vision qu’une autre personne a la joie de construire.
 
-Une personne née au milieu de 1975 a Neptune, en Sagittaire, à 60° du Nœud Nord des personnes nées de décembre 1977 à février 1978, et de celles nées d’avril à août 1990. Son propre Nœud Nord se trouve à 60° de Neptune chez toutes les personnes nées de novembre 1997 à février 1999, et chez celles nées d’août 1942 à octobre 1943 : un seul contact qui rejoint la génération d’un parent et celle d’un enfant. C’est pourquoi je le garde hors des contacts que je compte en synastrie, qui touchent tous le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel, et le lis dans les maisons, où les générations se passent quelque chose.
+Une naissance de 1975 le montre bien : Neptune, en Sagittaire, y est à 60° du Nœud Nord des personnes nées de décembre 1977 à février 1978, et de celles nées d’avril à août 1990. Inversez les rôles, et le Nœud Nord de 1975 trouve Neptune à 60° chez toutes les naissances de novembre 1997 à février 1999, et chez celles d’août 1942 à octobre 1943 : un même contact atteint la génération d’un parent et celle d’un enfant. Cette portée explique qu’il reste hors de ma liste de contacts de synastrie, qui touchent chacun le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel, et que je le lise dans les maisons, où les générations se passent quelque chose.
 
-L’heure de naissance ne change pas le sextile ; les maisons demandent les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Avec un orbe de 2,4°, le nœud compte : je vérifie le nœud moyen et le nœud vrai, et ces mois suivent le nœud vrai ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)).
+L’heure de naissance ne change pas le sextile ; pour les maisons, il faut les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Avec un orbe de 2,4°, le nœud compte : je compare le nœud moyen au nœud vrai, et c’est le vrai qui a servi pour ces mois ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)).
 
 [Neptune sextile Nœud Nord](/astrology/neptune-sextile-north-node/), dans un seul thème, laisse l’imagination d’une personne aider sa propre croissance. Prêté d’un thème à l’autre, il appartient à une paire, et je le lis avec les deux ou pas du tout ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

@@ -22,7 +22,7 @@ faq:
   - q: "Which planets matter for Sun in Cancer, Moon in Libra?"
     a: "The Moon itself, because it rules Cancer and so governs your Sun’s sign, and Venus, ruler of Libra, which speaks for your Moon. With a Cancer Sun, Venus stays within about 47°, somewhere from Taurus to Virgo, and its sign shows what kind of harmony comforts you."
   - q: "Was a Sun in Cancer, Moon in Libra birth near a half moon?"
-    a: "Usually close to one. Between the fifth day after the new moon and the tenth, the Moon, 61° to 119° ahead of the Sun, was turning from a crescent into a half moon. Crescent and first quarter births are equally common here in the eight-phase count; the waxing square is exact when the Moon is about 90° ahead."
+    a: "Usually close to one. Between the fifth day after the new moon and the tenth, the Moon, 61° to 119° on from the Sun, was turning from a crescent into a half moon. Crescent and first quarter births are equally common here in the eight-phase count; the waxing square is exact when the Moon is about 90° ahead."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the Moon’s rule of Cancer, Venus’s of Libra, and the square" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s lead over the Sun" }

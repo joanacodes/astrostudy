@@ -23,7 +23,7 @@ faq:
   - q: "Quelles planètes faut-il regarder pour un Soleil en Cancer avec une Lune en Balance ?"
     a: "La Lune elle-même, parce qu’en gouvernant le Cancer elle gouverne votre signe solaire, puis Vénus, maîtresse de la Balance, qui parle pour votre Lune. Avec un Soleil en Cancer, Vénus reste à 47° environ au plus, quelque part du Taureau à la Vierge, et son signe montre quel genre d’harmonie vous réconforte."
   - q: "Une naissance Soleil en Cancer, Lune en Balance a-t-elle lieu près d’une demi-lune ?"
-    a: "Le plus souvent, oui. Entre le cinquième et le dixième jour du mois lunaire, votre Lune passait du croissant à la demi-lune, avec 61° à 119° d’avance sur le Soleil. Les naissances de croissant et de premier quartier sont ici aussi fréquentes les unes que les autres dans le découpage en huit phases ; le carré croissant est exact quand la Lune a 90° d’avance environ."
+    a: "Le plus souvent, oui. Du cinquième au dixième jour du mois lunaire, votre Lune passait du croissant à la demi-lune, avec 61° à 119° d’avance sur le Soleil. Les naissances de croissant et de premier quartier sont ici aussi fréquentes les unes que les autres dans le découpage en huit phases ; le carré croissant est exact quand la Lune a 90° d’avance environ."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "la Lune maîtresse du Cancer, Vénus maîtresse de la Balance, et le carré" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et l’avance de la Lune sur le Soleil" }
@@ -43,7 +43,7 @@ Ce duo, environ 1 personne sur 137 le partage. La Lune s’arrête en Balance le
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-Vous voulez un foyer à la fois sûr et gracieux : attentionné, courtois, beau à retrouver. Le Soleil en Cancer abrite l’autre ; la Lune en Balance a besoin que les choses soient justes entre vous et que les conflits soient traités avec douceur. Vous pouvez faire beaucoup pour éviter une scène, puis souffrir que vos propres besoins n’aient pas été dits. Soulever les petites choses tôt, doucement et avec des mots, protège la paix qui vous tient à cœur mieux que le silence.
+Vous voulez un foyer à la fois sûr et gracieux : attentionné, courtois, beau à retrouver. Le Soleil en Cancer abrite l’autre ; la Lune en Balance tient à ce que les choses soient justes entre vous et que les conflits soient traités avec douceur. Vous pouvez faire beaucoup pour éviter une scène, puis souffrir que vos propres besoins n’aient pas été dits. Soulever les petites choses tôt, doucement et avec des mots, protège la paix qui vous tient à cœur mieux que le silence.
 
 ## Au travail {#au-travail}
 

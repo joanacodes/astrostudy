@@ -22,7 +22,7 @@ faq:
   - q: "Why does the Moon itself matter so much with Sun in Gemini, Moon in Cancer?"
     a: "Because it rules its own sign here, so no other planet speaks for it: its house and aspects carry the whole weight of your needs. Mercury, ruler of Gemini, speaks for your Sun, and with a Gemini Sun it can stand in Cancer too, where thinking runs through memory and feeling."
   - q: "Was there a new moon just before a Sun in Gemini, Moon in Cancer birth?"
-    a: "Yes, within about five days. The Moon had moved 2° to 59° past the Sun and was often still too close to it to be seen. Most of them fall in the new moon phase of the eight-phase count, and the latest few in the crescent."
+    a: "Yes, within about five days. The Moon had moved 2° to 59° past the Sun and was often still too close to it to be seen. The eight-phase count puts most of them in the new moon phase and the latest few in the crescent."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Mercury’s rule of Gemini and the Moon’s of Cancer" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and how far the Moon was past the Sun" }
@@ -34,7 +34,7 @@ Words go out, and feelings want to come home. With the Sun in Gemini and the Moo
 
 Mutable air and cardinal water, with the Moon one sign ahead: a [semi-sextile](/astrology/semi-sextile/) by sign, two neighbours with very different habits. The [Sun in Gemini](/astrology/sun-in-gemini/) grows through exchange, meeting people and ideas and keeping the conversation moving; the [Moon in Cancer](/astrology/moon-in-cancer/) needs belonging, a home base and people it can look after, and it remembers everything. The Sun is happy to range widely. The Moon keeps checking that everyone it loves is safe.
 
-Here the Moon is in its own sign, its [domicile](/astrology/domicile/), and answers to no other planet, so its house and aspects carry the full weight of your needs. [Mercury](/astrology/mercury/), ruler of your Sun's sign, can only be in Taurus, Gemini or Cancer here; in Cancer, it lends your thinking the Moon's memory and moods, and the two lights understand each other more easily. Gemini gives the Sun no dignity at all, so in this pair the needs have the stronger voice.
+Here the Moon is in its own sign, its [domicile](/astrology/domicile/), and answers to no other planet, so its house and aspects carry the full weight of your needs. [Mercury](/astrology/mercury/), ruler of your Sun's sign, is confined here to Taurus, Gemini or Cancer; in Cancer, it lends your thinking the Moon's memory and moods, and the two lights understand each other more easily. Gemini gives the Sun no dignity at all, so in this pair the needs have the stronger voice.
 
 The Moon was 2° to 59° on from the Sun, within five days of a new moon and often still lost in its glare. The eight-phase count gives the [new moon](/astrology/new-moon/) phase the lion's share of these births and leaves the latest few to the [waxing crescent](/astrology/waxing-crescent/). A late Gemini Sun and an early Cancer Moon can still form a [Sun conjunct Moon](/astrology/sun-conjunct-moon/), an out-of-sign one, across the boundary. I read a new moon birth as purpose and need setting out from nearly the same point, and here they set off in two directions, one towards people and one towards home. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) says more.
 

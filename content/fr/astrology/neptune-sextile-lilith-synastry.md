@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, 60°, le plus étroit de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance où Neptune, chez l’une, est à moins de 2,4° d’un sextile avec la Lilith moyenne de l’autre" }
 ---
-Toutes les invitations à être davantage vous-même n’arrivent pas sous forme de défi. En synastrie, Neptune sextile Lilith, c’est un sixième du zodiaque entre Neptune, chez l’une, et la Lune noire Lilith, chez l’autre, et l’invitation vient en douceur : l’imagination de l’une ouvre une porte, que l’autre franchit ou non.
+Toutes les invitations à être davantage vous-même n’arrivent pas sous forme de défi. En synastrie, Neptune sextile Lilith, c’est un sixième du zodiaque entre deux thèmes, de Neptune à la Lune noire Lilith, et l’invitation vient en douceur : l’imagination de l’une ouvre une porte, que l’autre franchit ou non.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -55,6 +55,6 @@ Acceptez l’invitation exprès, et donnez une date au jeu : un projet, un voya
 
 Côté dates, une naissance du milieu de 1965 met Neptune, en Scorpion, à 60° de la Lilith des personnes nées de février à avril 1965, en Capricorne, de quelques mois plus âgées. Avec un orbe aussi étroit, les fenêtres sont courtes, et elles reviennent deux fois par tour de Lilith, par exemple chez les personnes nées en janvier ou février 1971. Sa propre Lilith, à la fin du Capricorne, se trouve à 60° de Neptune chez toutes les personnes nées d’octobre 1969 à décembre 1970. Comme il vient avec les fenêtres plutôt qu’avec les personnes, je le laisse hors des aspects retenus dans une synastrie, tous liés au Soleil, à la Lune, à Mercure, à Vénus, à Mars, à l’ascendant ou au milieu du ciel. Je le cherche dans les maisons, où il parle de deux moments de l’histoire qui se croisent plutôt que de deux caractères.
 
-Les deux points avancent si lentement que l’heure ne fait ni ne défait ce sextile ; les maisons qu’il relie, dans les deux thèmes, demandent les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Les fenêtres viennent de la Lilith moyenne ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)).
+Les deux points avancent si lentement que l’heure ne fait ni ne défait ce sextile ; les maisons qu’il relie, dans les deux thèmes, demandent les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Ces fenêtres ont été calculées avec la Lilith moyenne ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)).
 
 [Neptune sextile Lilith](/astrology/neptune-sextile-lilith/), dans un seul thème, est la porte d’une personne entre rêver et refuser. Entre deux thèmes, l’une tient la porte et l’autre la franchit, et je ne le lis qu’avec les deux ([synastrie et consentement](/blog/synastry-behind-their-back/)).

@@ -22,7 +22,7 @@ faq:
   - q: "Which planets speak for a Gemini Sun and a Libra Moon?"
     a: "Your Sun answers to Mercury, the planet of words and connections; your Moon to Venus, which shows what you find fair, pleasing and worth keeping. Both stay near the Sun, Mercury within about 28° and Venus within about 47°, so they often meet in your chart, and when they do, words and charm work as one."
   - q: "How far past the new moon is a Sun in Gemini, Moon in Libra birth?"
-    a: "Seven and a half to about twelve days, with the Moon 91° to 148° ahead of the Sun and already more than half lit. Most of these births fall in the first quarter phase of the eight-phase count, the latest in the gibbous; near 120°, the lights make a waxing trine."
+    a: "From seven and a half days to about twelve, with the Moon 91° to 148° ahead of the Sun and already more than half lit. Most of these births fall in the first quarter phase of the eight-phase count, the latest in the gibbous; near 120°, the lights make a waxing trine."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Mercury’s rule of Gemini and Venus’s of Libra, and the trine" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s lead over the Sun" }
@@ -38,7 +38,7 @@ Your Sun answers to [Mercury](/astrology/mercury/) and your Moon to [Venus](/ast
 
 By the eighth to twelfth day of the lunar month the Moon had moved 91° to 148° ahead of the Sun: past the half moon, and swelling. Nearly all of these births are [first quarter moon](/astrology/first-quarter-moon/) births in the eight-phase count; a few late ones already count as [waxing gibbous moon](/astrology/waxing-gibbous-moon/) births. That's an interesting mix: a trine of signs, which flows, born in a phase I read as friction that pushes you to act. The ease is real, and it still asks you to do something with it. Near 120° ahead, the lights make a waxing [Sun trine Moon](/astrology/sun-trine-moon/). [Your birth lunar phase](/astrology/your-birth-lunar-phase/) explains the boundaries.
 
-This pairing falls to about 1 person in 140. The Moon needs two and a half days or so to cross Libra; born on the day it left Virgo or reached Scorpio, the time would have to settle it between this page, the [Sun in Gemini, Moon in Virgo](/astrology/sun-in-gemini-moon-in-virgo/) and the [Sun in Gemini, Moon in Scorpio](/astrology/sun-in-gemini-moon-in-scorpio/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). Your rising sign comes from that same time, and so do the houses that show where all this conversation actually happens.
+This pairing falls to about 1 person in 140. Crossing Libra takes about two and a half days; born on the day it left Virgo or reached Scorpio, the time would have to settle it between this page, the [Sun in Gemini, Moon in Virgo](/astrology/sun-in-gemini-moon-in-virgo/) and the [Sun in Gemini, Moon in Scorpio](/astrology/sun-in-gemini-moon-in-scorpio/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). Your rising sign comes from that same time, and so do the houses that show where all this conversation actually happens.
 
 ## In close relationships {#in-close-relationships}
 

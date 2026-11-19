@@ -32,28 +32,28 @@ Some people turn up just as you are trying something new, and make it feel both 
 
 ## What flows {#what-flows}
 
-[Uranus](/astrology/uranus/) experiments and frees: it tests alternatives, drops what has stopped working and claims room to differ. The [North Node](/astrology/north-node/) is a calculated point, the direction in which a person builds a less familiar capacity through practice and feedback; the [South Node](/astrology/south-node/), exactly opposite, holds what is already consolidated and easy. A [conjunction](/astrology/conjunction/) makes two functions act as one; among the [synastry aspects](/astrology/synastry-aspects/), this one lays one person's appetite for the new on the other's direction of growth.
+[Uranus](/astrology/uranus/) experiments and frees: it tests alternatives, drops what has stopped working and claims room to differ. The [North Node](/astrology/north-node/) is a calculated point, the direction in which a person builds a less familiar capacity through practice and feedback; the [South Node](/astrology/south-node/), exactly opposite, holds what is already consolidated and easy. With a [conjunction](/astrology/conjunction/), two functions work as one without either disappearing; among the [synastry aspects](/astrology/synastry-aspects/), this one lays one person's appetite for the new on the other's direction of growth.
 
 In the node person's life, this can be the friend, partner or colleague who makes the unfamiliar ordinary. They try the thing you've been circling, without a manual, and you discover that practice can start before you feel ready.
 
-If the North Node is yours, the other's restlessness can work as a tailwind. It also blows across your South Node, the habits you rely on, and some of them may suddenly feel stale.
+With the North Node on your side, the other's restlessness can work as a tailwind. It also blows across your South Node, the habits you rely on, and some of them may suddenly feel stale.
 
 If the Uranus is yours, you may be surprised to see your experiments taken as a model, or your freedom recruited into someone else's development.
 
 ## Where it rubs {#where-it-rubs}
 
-A conjunction blurs, and this one blurs change with growth. The Uranus person can push novelty for its own sake and call it progress; the node person can mistake the other's unusual ways for their own path, and drop useful South Node strengths on the way. Growth is practice, not a leap borrowed from someone else, and it rarely feels rewarding at once.
+Fused, change and growth are easy to mistake for each other. The Uranus person can push novelty for its own sake and call it progress; the node person can mistake the other's unusual ways for their own path, and drop useful South Node strengths on the way. Growth is practice, not a leap borrowed from someone else, and it rarely feels rewarding at once.
 
 - **[Uranus sextile North Node in synastry](/astrology/uranus-sextile-north-node-synastry/):** experiment offered as an opening, with the familiar end welcome too.
 - **[Uranus square North Node in synastry](/astrology/uranus-square-north-node-synastry/):** change crossing the path at a right angle, siding with neither end.
-- **[Uranus trine North Node in synastry](/astrology/uranus-trine-north-node-synastry/):** change and growth moving together, sometimes too lightly.
+- **[Uranus trine North Node in synastry](/astrology/uranus-trine-north-node-synastry/):** change and growth in step, sometimes with too light a touch.
 - **[Uranus opposite North Node in synastry](/astrology/uranus-opposite-north-node-synastry/):** the restlessness lands on the familiar end and stirs old habits.
 
 ## How to meet it {#how-to-meet-it}
 
 Let the node person set the pace of their own practice. The Uranus person can show how they do something without implying it must be done that way; the node person can keep what works from the South Node while trying the new. A couple may learn a skill together at two speeds; at work, one person's taste for new tools can help a colleague learning to lead.
 
-The node's backward round of about 18.6 years shapes who has it. Someone born in mid-1965, with Uranus in Virgo, has it with anyone born from May to October 1979, or from December 1997 to May 1998, when the North Node passed through Virgo. Anyone born, on and off, from June 1944 to June 1946 has Uranus in Gemini on that 1965 North Node. None of those births was planned with anyone in mind, so the contact stays out of my synastry count, kept for contacts with the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. In the houses, it shows two eras' ideas of how a life moves forward.
+The node's backward round of about 18.6 years shapes who has it. A person born in mid-1965 carries Uranus in Virgo, and so shares this contact with anyone born from May to October 1979, or from December 1997 to May 1998, when the North Node passed through Virgo. Anyone born, on and off, from June 1944 to June 1946 has Uranus in Gemini on that 1965 North Node. None of those births was planned with anyone in mind. Each contact I list in a synastry involves the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven, and this one doesn't; in the houses, it shows two eras' ideas of how a life moves forward.
 
 The dates use the true node. The mean node is never more than a degree or two away, and I look at both; near the edge of the orb they can disagree ([mean node and true node](/astrology/mean-node-and-true-node/)). The hour hardly moves the node or Uranus, but whether the meeting falls in the node person's 10th house, in public life, or their 3rd, among everyday skills, needs both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 

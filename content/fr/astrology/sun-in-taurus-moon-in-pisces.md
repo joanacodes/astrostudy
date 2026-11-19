@@ -22,7 +22,7 @@ faq:
     a: "Parce que la tradition l’honore dans les deux signes : le Taureau, où est votre Soleil, est l’un des domiciles de Vénus, et les Poissons, où est votre Lune, son exaltation. J’y lis le fil de ce duo, le plaisir et la beauté ressentis d’abord par le corps, puis par l’imaginaire, et la position de Vénus, par signe et par maison, passe tôt dans ma lecture."
   - q: "Une Lune en Poissons rend-elle un Soleil en Taureau plus sensible ?"
     a: "Discrètement. Le Soleil en Taureau donne une surface calme et stable ; la Lune en Poissons, dessous, absorbe l’humeur des gens alentour et a besoin de douceur et de temps seule. Les deux s’entendent bien, mais ce que la Lune absorbe, le Soleil tend à le garder : des façons régulières de laisser partir la journée comptent beaucoup."
-  - q: "Dans quelle phase était la Lune à une naissance Soleil en Taureau, Lune en Poissons ?"
+  - q: "La Lune croît-elle ou décroît-elle à une naissance Soleil en Taureau, Lune en Poissons ?"
     a: "Décroissante, après le dernier quartier : la Lune était 31° à 90° derrière le Soleil, vingt-deux à vingt-sept jours après le début du mois lunaire. Dans les huit phases, presque toutes sont des naissances de dernier quartier, et quelques-unes balsamiques. Autour de 60° de retard, les luminaires font aussi un sextile décroissant."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "Vénus maîtresse du Taureau et exaltée dans les Poissons, et Jupiter maître des Poissons" }

@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 356
 glyph: "♆☌☊"
-definition: "Neptune conjunct North Node in synastry joins one person’s Neptune to the other’s North Node, within 4°, which leaves it facing their South Node. One person’s imagination settles on the other’s growing edge: inspiring when the dream helps the practice, hazy when it replaces it. Cohorts share it; the houses make it personal."
+definition: "Neptune conjunct North Node in synastry joins one person’s Neptune to the other’s North Node, within 4°, which leaves it facing their South Node. One person’s imagination settles on the other’s growing edge: inspiring when the dream helps the practice, hazy when it replaces it. Whole cohorts share it; the houses are where it becomes personal."
 facts:
   - { k: "Bodies", v: "One person’s Neptune ♆, the other’s North Node ☊" }
   - { k: "Aspect", v: "Conjunction ☌, 0°" }
@@ -20,7 +20,7 @@ faq:
   - q: "What does Neptune conjunct North Node mean in synastry?"
     a: "The contact joins Neptune in one chart to the North Node in another, within 4°. The Neptune person’s imagination and ideals tend to gather around the direction the other is growing in, which can make that direction look possible, or turn it into a daydream. The node person’s South Node sits opposite that Neptune."
   - q: "Is Neptune conjunct North Node a fated connection?"
-    a: "Not as I read it. The North Node describes a capacity someone builds by practice, not a destiny, and everyone born within the same months shares this contact. It can make a meeting feel significant; what two people do with it is theirs to decide."
+    a: "Fate isn’t a word I use for it. The North Node describes a capacity someone builds by practice, not a destiny, and everyone born within the same months shares this contact. It can make a meeting feel significant; what two people do with it is theirs to decide."
   - q: "Which node do you use for Neptune conjunct North Node in synastry?"
     a: "I look at both, the mean and the true node, which never sit more than a degree or two apart. The birth months on this page use the true node; with a 4° orb, they disagree only for a pair right at the limit."
 sources:

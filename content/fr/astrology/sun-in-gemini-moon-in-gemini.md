@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 27
 glyph: "☉♊☽♊"
-definition: "Soleil en Gémeaux, Lune en Gémeaux signifie que les deux luminaires étaient en Gémeaux à votre naissance, à moins de 30° l’un de l’autre, donc près d’une nouvelle lune, et que Mercure gouverne les deux. J’y lis un esprit qui se réconforte comme il explore : en questionnant, en reliant, en parlant, presque sans distance entre penser et ressentir."
+definition: "Soleil en Gémeaux, Lune en Gémeaux réunit les deux luminaires en Gémeaux, à moins de 30° l’un de l’autre, donc près d’une nouvelle lune, sous un seul maître, Mercure. J’y lis un esprit qui se réconforte comme il explore : en questionnant, en reliant, en parlant, presque sans distance entre penser et ressentir."
 facts:
   - { k: "Signe solaire", v: "Gémeaux ♊, gouvernés par Mercure" }
   - { k: "Signe lunaire", v: "Gémeaux ♊, gouvernés par Mercure" }
@@ -23,7 +23,7 @@ faq:
   - q: "Où se trouve Mercure dans un thème double Gémeaux ?"
     a: "Jamais loin. Mercure répond pour vos deux luminaires et reste toujours à 28° environ du Soleil au plus : en Taureau, en Gémeaux ou en Cancer. La maison de Mercure montre où la curiosité de ce duo se met au travail, et ses aspects avec quelle facilité elle ralentit. Je lis Mercure avant presque tout le reste du thème."
   - q: "Quelle phase lunaire va avec un double Gémeaux ?"
-    a: "Les deux bouts du cycle. La Lune était à moins de 29° environ du Soleil, derrière ou devant lui, et la naissance a eu lieu à deux jours et demi environ d’une nouvelle lune. La moitié de ces naissances sont balsamiques, la phase qui clôt l’ancien mois ; l’autre moitié tombe dans la phase de nouvelle lune qui ouvre le suivant."
+    a: "Les deux bouts du cycle. La Lune était à moins de 29° environ du Soleil, derrière ou devant lui, et la naissance a eu lieu à moins de deux jours et demi d’une nouvelle lune. La moitié de ces naissances sont balsamiques, la phase qui clôt l’ancien mois ; l’autre moitié tombe dans la phase de nouvelle lune qui ouvre le suivant."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "Mercure maître des Gémeaux, et les signes mutables" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et la proximité des deux luminaires" }
@@ -33,9 +33,9 @@ Deux luminaires dans le signe des jumeaux, et pourtant une seule voix. Votre cur
 
 ## Comment ils s’accordent {#comment-ils-s-accordent}
 
-Même élément, même mode, même maître : l’air mutable des deux côtés. Le [Soleil en Gémeaux](/astrology/sun-in-gemini/) se construit par l’échange, la conversation suivante, l’idée suivante, le lien suivant ; la [Lune en Gémeaux](/astrology/moon-in-gemini/) s’apaise une fois qu’une émotion a été mise en mots et partagée. Rien n’est à traduire entre le but et le besoin. Une bonne discussion qui règle un projet règle aussi une humeur, et l’inverse vaut tout autant : une soirée sans personne à qui parler éteint les deux luminaires à la fois.
+Même élément, même mode, même maître : l’air mutable des deux côtés. Le [Soleil en Gémeaux](/astrology/sun-in-gemini/) se construit par l’échange, la conversation suivante, l’idée suivante, le lien suivant ; la [Lune en Gémeaux](/astrology/moon-in-gemini/) s’apaise une fois qu’une émotion a été mise en mots et partagée. Le but et le besoin parlent la même langue. Une bonne discussion qui règle un projet règle aussi une humeur, et l’inverse vaut tout autant : une soirée sans personne à qui parler éteint les deux luminaires à la fois.
 
-[Mercure](/astrology/mercury/) gouverne les deux, et comme Mercure ne s’éloigne jamais de plus de 28° environ du Soleil, l’unique planète derrière vos deux luminaires voyage toujours avec eux, en Taureau, en Gémeaux ou en Cancer. Quand Mercure est aussi en Gémeaux, trois des voix principales du thème partagent un signe. Les Gémeaux ne donnent de dignité à aucun des luminaires : l’état de Mercure, sa maison et ses aspects portent donc le poids, et je les lis très tôt.
+[Mercure](/astrology/mercury/) gouverne les deux, et comme Mercure ne quitte jamais le voisinage du Soleil, l’unique planète derrière vos deux luminaires voyage toujours avec eux, en Taureau, en Gémeaux ou en Cancer. Quand Mercure est aussi en Gémeaux, trois des voix principales du thème partagent un signe. Les Gémeaux ne donnent de dignité à aucun des luminaires : l’état de Mercure, sa maison et ses aspects portent donc le poids, et je les lis très tôt.
 
 L’écart entre les luminaires était de moins de 30°, la Lune soit encore en train de rattraper le Soleil, avec jusqu’à 29° de retard, soit tout juste devant, avec jusqu’à 28° d’avance : une naissance à deux jours et demi environ, au plus, d’une nouvelle lune. La moitié de ces naissances ferment l’ancien cycle, en phase [balsamique](/astrology/balsamic-moon/) ; l’autre moitié ouvre le suivant, en [nouvelle lune](/astrology/new-moon/). Près de la conjonction, le thème a un [Soleil conjonction Lune](/astrology/sun-conjunct-moon/). La plupart de ces naissances côtoient une [nouvelle lune en Gémeaux](/astrology/new-moon-in-gemini/), puisqu’une nouvelle lune tombe dans le signe même du Soleil. [Votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) dit ce que signifie chaque côté de cette nouvelle lune.
 

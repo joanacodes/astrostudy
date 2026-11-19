@@ -29,11 +29,11 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui opposent Neptune, chez l’une, à la Lilith moyenne de l’autre, à 4° près" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "le calcul de l’apogée moyen de la Lune" }
 ---
-Plus l’une tend la main, plus l’autre garde un peu en retrait. Dans Neptune opposition Lilith, les deux points se tiennent de part et d’autre du zodiaque, un dans chaque thème, et la paire vit sur une balançoire : à un bout, le désir d’une proximité sans bords ; à l’autre, un tranchant qui refuse de se dissoudre.
+Plus l’une tend la main, plus l’autre garde un peu en retrait. Dans Neptune opposition Lilith, les deux points se font face d’un bout à l’autre du zodiaque, un dans chaque thème, et la paire vit sur une balançoire : à un bout, le désir d’une proximité sans bords ; à l’autre, un tranchant qui refuse de se dissoudre.
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Neptune](/astrology/neptune/) veut appartenir à plus grand qu’un seul moi : une personne, une cause, un rêve partagé. La [Lune noire Lilith](/astrology/black-moon-lilith/), placée là où l’orbite lunaire atteint sa plus grande distance, va dans l’autre sens dans ma lecture : l’autonomie, le refus, la part de soi qui n’a jamais accepté d’être absorbée ; les écoles diffèrent, et je la garde symbolique. Une [opposition](/astrology/opposition/) fonctionne par polarité ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), elle donne chaque bout à une personne différente, si bien que chacune voit chez l’autre la qualité qu’elle a le moins.
+[Neptune](/astrology/neptune/) veut appartenir à plus grand qu’un seul moi : une personne, une cause, un rêve partagé. La [Lune noire Lilith](/astrology/black-moon-lilith/), placée là où l’orbite lunaire atteint sa plus grande distance, va dans l’autre sens dans ma lecture : l’autonomie, le refus, la part de soi qui n’a jamais accepté d’être absorbée ; les écoles diffèrent, et je la garde symbolique. Une [opposition](/astrology/opposition/) fonctionne par polarité ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), elle répartit ses deux bouts entre deux personnes, si bien que chacune voit chez l’autre la qualité qu’elle a le moins.
 
 C’est ce qu’elle donne : un miroir. La personne de Neptune apprend de l’autre à quoi ressemble une limite tenue sans froideur. Celle de Lilith apprend de l’autre qu’adoucir un angle de temps en temps, ce n’est pas le perdre.
 

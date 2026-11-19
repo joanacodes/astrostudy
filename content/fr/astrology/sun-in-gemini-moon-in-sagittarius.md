@@ -23,7 +23,7 @@ faq:
   - q: "Quel est le partage des rôles entre Mercure et Jupiter avec un Soleil en Gémeaux et une Lune en Sagittaire ?"
     a: "Votre Soleil répond à Mercure : les faits, les mots, les liens. Votre Lune répond à Jupiter : le sens, la croyance, la croissance. La tradition dit Mercure au plus faible en Sagittaire et Jupiter au plus faible en Gémeaux, ce que je lis comme deux façons de connaître, le détail et la vue d’ensemble, qui ont besoin l’une de l’autre."
   - q: "À quelle distance de la pleine lune tombe une naissance Soleil en Gémeaux, Lune en Sagittaire ?"
-    a: "À deux jours et demi environ, avant ou après : la Lune se tenait à 151° à 210° du Soleil. Dans les huit phases, la moitié de ces naissances tombe dans la lune gibbeuse et l’autre moitié dans la pleine lune ; près de 180°, les luminaires sont en opposition."
+    a: "Jamais à plus de deux jours et demi environ, d’un côté ou de l’autre : la Lune se tenait à 151° à 210° du Soleil. Dans les huit phases, ces naissances se partagent entre lune gibbeuse et pleine lune, moitié-moitié ; près de 180°, les luminaires sont en opposition."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "Mercure maître des Gémeaux, Jupiter maître du Sagittaire, et l’opposition" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et l’écart entre les luminaires" }

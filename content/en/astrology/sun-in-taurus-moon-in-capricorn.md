@@ -21,7 +21,7 @@ faq:
     a: "Not as I read it, though the risk is real. With the Sun and Moon both in earth, practicality and patience come easily; Venus, ruler of Taurus, wants pleasure, while Saturn, ruler of Capricorn, wants it earned first. The pair often enjoys life most once a plan is safely in place, and does well to let comfort come first now and then."
   - q: "Why does Saturn matter so much with Sun in Taurus, Moon in Capricorn?"
     a: "Saturn rules Capricorn, so it speaks for your Moon: where you look for structure, what you take responsibility for, how you keep yourself steady. In my notebook, Saturn, Chiron and Lilith held up much more often than the rest, 75 to 90% of the time, so Saturn’s sign and house get particular care in my reading."
-  - q: "What phase was the Moon in at a Sun in Taurus, Moon in Capricorn birth?"
+  - q: "Where was the Moon in its cycle at a Sun in Taurus, Moon in Capricorn birth?"
     a: "Waning, past full and not yet at the last quarter: the Moon was 91° to 148° behind the Sun, seventeen and a half to twenty-two days after a new moon. Seven of these births in eight are disseminating in the eight-phase count; the earliest are full moon births. Near 120° behind, the lights are in a waning trine."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Venus’s rule of Taurus, Saturn’s of Capricorn, and the Moon’s detriment there" }

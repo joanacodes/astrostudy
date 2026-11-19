@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 359
 glyph: "♆△☊"
-definition: "In Neptune trine North Node, a synastry contact, one person’s Neptune lies a trine from the other’s North Node, within 3.4°, and a sextile from their South Node. One person’s imagination lets the other picture where they are growing, and that growth gives the dream an aim. I read it as easy support, best paired with honest feedback."
+definition: "In Neptune trine North Node, a synastry contact, the Neptune of one chart lies a trine, within 3.4°, from the North Node of another, and a sextile from its South Node. One person’s imagination lets the other picture where they are growing, and that growth gives the dream an aim: easy support, best paired with honest feedback."
 facts:
   - { k: "Bodies", v: "One person’s Neptune ♆, the other’s North Node ☊" }
   - { k: "Aspect", v: "Trine △, 120°" }

@@ -20,9 +20,9 @@ faq:
   - q: "How do a Gemini Sun and a Pisces Moon fit together?"
     a: "Like a writer and a dreamer sharing one desk. The Gemini Sun wants facts, names and conversation; the Pisces Moon feels in images and moods, and absorbs the atmosphere around it. As two mutable signs they bend easily, and the friction of the square tends to come out as too much input from too many directions."
   - q: "Why is Mercury uncomfortable with Sun in Gemini, Moon in Pisces?"
-    a: "Because the ruler of your Sun’s sign is out of its element in your Moon’s: Mercury governs Gemini, and the old rules give it both its detriment and its fall in Pisces. I read that as straight-line thinking that doesn’t soothe this Moon: images, music and metaphor reach it better than arguments. Neptune and Jupiter, Pisces’s two rulers, show where it does find its footing."
+    a: "Because the ruler of your Sun’s sign is at its weakest in your Moon’s: Mercury governs Gemini, and the old rules give it both its detriment and its fall in Pisces. I read that as straight-line thinking that doesn’t soothe this Moon: images, music and metaphor reach it better than arguments. Neptune and Jupiter, Pisces’s two rulers, show where it does find its footing."
   - q: "Which lunar phase belongs to Sun in Gemini, Moon in Pisces?"
-    a: "The days either side of the last quarter, roughly day twenty to day twenty-four and a half of the lunar month, with the Moon 61° to 119° short of the Sun. Disseminating and last quarter share them equally in the eight-phase count; right at 90°, the square between the lights is exact."
+    a: "The days either side of the last quarter, roughly day twenty to day twenty-four and a half of the lunar month; the Moon was 61° to 119° short of the Sun. Disseminating and last quarter share them equally in the eight-phase count; right at 90°, the square between the lights is exact."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Mercury’s rule of Gemini, its detriment and fall in Pisces, and Jupiter’s rule of Pisces" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and how far the Moon trailed the Sun" }

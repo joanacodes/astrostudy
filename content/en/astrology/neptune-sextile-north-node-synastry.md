@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 357
 glyph: "♆⚹☊"
-definition: "Neptune sextile North Node in synastry sets one person’s Neptune about 60° from the other’s North Node, within 2.4°, which puts it about 120° from their South Node. One person’s imagination offers the other’s growth a gentle hand without steering it, and slips just as easily into old habits. I read it as an offer, through the houses."
+definition: "Neptune sextile North Node in synastry is a 60° link, give or take 2.4°, between one chart’s Neptune and another’s North Node, and a 120° link to that person’s South Node. One person’s imagination offers the other’s growth a gentle hand, and slips as easily into old habits. I read it as an offer."
 facts:
   - { k: "Bodies", v: "One person’s Neptune ♆, the other’s North Node ☊" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }

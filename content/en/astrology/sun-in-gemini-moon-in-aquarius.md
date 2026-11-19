@@ -22,7 +22,7 @@ faq:
   - q: "What do Mercury, Uranus and Saturn say with Sun in Gemini, Moon in Aquarius?"
     a: "Your Sun’s ruler, Mercury, shows how you think and link things up. Aquarius answers to Uranus in modern tropical astrology and to Saturn in the older tradition: Uranus shows where your Moon refuses the expected way of doing things, Saturn where it builds lasting loyalties, and I read the two side by side."
   - q: "Where was the Moon in its cycle when a Gemini Sun met an Aquarius Moon?"
-    a: "Somewhere between the full moon and the last quarter, seventeen to twenty-two days after a new moon, with the Moon 91° to 149° behind the Sun. The eight-phase count makes almost all of them disseminating births and the earliest full moon ones, and around 120° behind, the trine between the lights is exact."
+    a: "Somewhere between the full moon and the last quarter: between day seventeen and day twenty-two of the lunar month, the Moon 91° to 149° behind the Sun. The eight-phase count makes almost all of them disseminating births and the earliest full moon ones, and around 120° behind, the trine between the lights is exact."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Mercury’s rule of Gemini and Saturn’s of Aquarius, and the air signs" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and how far behind the Sun the Moon was" }

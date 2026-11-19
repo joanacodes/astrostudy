@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et le retard de la Lune sur le Soleil" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les derniers jours du mois lunaire avant la nouvelle lune" }
 ---
-La Lune se tient ici un signe derrière le Soleil, encore dans le Taureau stable alors que le Soleil est passé en Gémeaux. Avec ce duo, l’esprit voyage léger et vite, le cœur suit un chemin bien tracé, et votre naissance a eu lieu dans les jours calmes d’avant la nouvelle lune.
+La Lune se tient ici un signe derrière le Soleil, encore dans le Taureau stable alors que le Soleil est passé en Gémeaux. Avec ce duo, l’esprit voyage léger et vite, le cœur suit un chemin bien tracé, et la naissance s’est faite dans les jours calmes d’avant la nouvelle lune.
 
 ## Comment ils s’accordent {#comment-ils-s-accordent}
 
@@ -39,7 +39,7 @@ La tradition est généreuse envers la Lune ici et indifférente au Soleil : le
 
 Votre naissance tombe en fin de mois lunaire : la Lune était 1° à 60° derrière le Soleil, vingt-quatre jours et demi à presque vingt-neuf jours et demi après la nouvelle lune précédente. Toutes ces naissances sauf une sur huit environ relèvent de la [lune balsamique](/astrology/balsamic-moon/), la phase que je lis comme celle des fins et de la place nette, et les plus précoces du [dernier quartier](/astrology/last-quarter-moon/). Drôle d’endroit pour une Lune en Taureau, qui aime garder : la phase lui demande de lâcher prise. Un Soleil en début de Gémeaux et une Lune en fin de Taureau peuvent même former une conjonction à cheval sur deux signes, un [aspect dissocié](/astrology/out-of-sign-aspects/). [Votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) en dit plus.
 
-Ce duo revient environ une fois sur 139 naissances. Le Taureau garde la Lune une soixantaine d’heures, entre le Bélier et les Gémeaux ; si votre anniversaire tombe sur un passage, seule l’heure tranche entre cette page, le [Soleil en Gémeaux, Lune en Bélier](/astrology/sun-in-gemini-moon-in-aries/) et le [Soleil en Gémeaux, Lune en Gémeaux](/astrology/sun-in-gemini-moon-in-gemini/) ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)). L’ascendant dépend de la même heure ; sans elle, les deux luminaires ne sont que deux luminaires, pas encore un thème.
+Ce duo revient environ une fois sur 139 naissances. Le Taureau garde la Lune une soixantaine d’heures, entre le Bélier et les Gémeaux ; si votre anniversaire tombe sur un passage, l’heure seule fait le tri entre cette page, le [Soleil en Gémeaux, Lune en Bélier](/astrology/sun-in-gemini-moon-in-aries/) et le [Soleil en Gémeaux, Lune en Gémeaux](/astrology/sun-in-gemini-moon-in-gemini/) ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)). L’ascendant dépend de la même heure ; sans elle, les deux luminaires ne sont que deux luminaires, pas encore un thème.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
