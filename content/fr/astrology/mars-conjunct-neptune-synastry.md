@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 226
 glyph: "♂☌♆"
-definition: "Mars conjonction Neptune en synastrie signifie que Mars, chez une personne, se trouve à moins de 6° de Neptune chez l’autre. L’élan de l’une rencontre l’imaginaire de l’autre sur le même degré : une vision trouve qui la réalise, un effort trouve son but. Pour moi, c’est une inspiration mise au travail, qui reste honnête si chacune dit ce qu’elle veut."
+definition: "Mars conjonction Neptune en synastrie signifie que Mars, chez une personne, tombe à moins de 6° de Neptune chez l’autre. L’élan de l’une rencontre l’imaginaire de l’autre sur le même degré : une vision trouve qui la réalise, un effort trouve son but. Pour moi, c’est une inspiration mise au travail, qui reste honnête si chacune dit ce qu’elle veut."
 facts:
   - { k: "Corps", v: "Mars ♂ de l’une, Neptune ♆ de l’autre" }
   - { k: "Aspect", v: "Conjonction ☌, 0°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/mars", "/astrology/neptune", "/astrology/conjunction", "/astrology/mars-conjunct-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Mars conjonction Neptune en synastrie ?"
-    a: "Mars, chez l’une des deux personnes, se trouve à moins de 6° de Neptune chez l’autre. L’élan de la première rencontre l’imaginaire et les idéaux de la seconde sur le même degré : l’une agit souvent sur ce que l’autre se figure. L’aspect décrit une inspiration mise au travail, et demande à chacune de garder ses propres désirs en vue."
+    a: "Mars dans un thème et Neptune dans l’autre sont à 6° au plus. L’élan de la première rencontre l’imaginaire et les idéaux de la seconde sur le même degré : l’une agit souvent sur ce que l’autre se figure. L’aspect décrit une inspiration mise au travail, et demande à chacune de garder ses propres désirs en vue."
   - q: "Est-ce que Mars conjonction Neptune veut dire que quelqu’un ment ?"
     a: "Non. Neptune représente l’imagination, la compassion et les idéaux, et non le mensonge. Ce contact peut en revanche amener deux personnes à travailler d’après l’image qu’elles se font l’une de l’autre plutôt que d’après ce qui a vraiment été dit. C’est une habitude, pas un défaut de qui que ce soit, et des questions simples la défont."
   - q: "Qui ressent le plus Mars conjonction Neptune ?"
@@ -33,9 +33,9 @@ Mars conjonction Neptune en synastrie pose l’élan d’une personne sur le deg
 
 ## Ce qui circule {#ce-qui-circule}
 
-Avec [Mars](/astrology/mars/), une personne va chercher ce qu’elle veut : l’initiative, l’effort, l’affirmation, l’élan qui mène au bout. Avec [Neptune](/astrology/neptune/), elle imagine ce qui vaut la peine d’être voulu : l’inspiration, la compassion, le sens des choses, et un assouplissement des bords qui n’ont pas lieu d’être. Une [conjonction](/astrology/conjunction/) fait travailler deux fonctions d’un seul geste sans qu’aucune perde sa nature ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), celle-ci partage ce geste entre deux personnes : l’une apporte la poussée, l’autre l’image.
+Avec [Mars](/astrology/mars/), une personne va chercher ce qu’elle veut : l’initiative, l’effort, l’affirmation, l’élan qui mène au bout. Avec [Neptune](/astrology/neptune/), elle imagine ce qui vaut la peine d’être voulu : l’inspiration, la compassion, le sens des choses, et l’art d’effacer les frontières inutiles. Une [conjonction](/astrology/conjunction/) fait travailler deux fonctions d’un seul geste sans qu’aucune perde sa nature ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), celle-ci partage ce geste entre deux personnes : l’une apporte la poussée, l’autre l’image.
 
-Si Mars est de votre côté, votre énergie trouve soudain où aller. Les idéaux de l’autre donnent du prix à l’effort, et vous travaillerez souvent davantage pour une cause partagée avec cette personne que pour une cause choisie sans elle. Du côté de Neptune, vous sentez peut-être que quelqu’un prend enfin votre imagination assez au sérieux pour agir : l’idée à peine formulée devient un projet, une pièce repeinte, une collecte de fonds avec une date.
+Si vous êtes la personne de Mars, votre énergie trouve soudain où aller. Les idéaux de l’autre donnent du prix à l’effort, et vous travaillerez souvent davantage pour une cause partagée avec cette personne que pour une cause choisie sans elle. Du côté de Neptune, vous sentez peut-être que quelqu’un prend enfin votre imagination assez au sérieux pour agir : l’idée à peine formulée devient un projet, une pièce repeinte, une collecte de fonds avec une date.
 
 Prenez Mars en Capricorne sur Neptune en Capricorne : un élan patient et ambitieux rencontre une imagination qui rêve en formes concrètes, et le voyage dont deux proches parlent depuis des années finit par être réservé.
 

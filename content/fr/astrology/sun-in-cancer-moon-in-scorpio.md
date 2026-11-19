@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 44
 glyph: "☉♋☽♏"
-definition: "Soleil en Cancer, Lune en Scorpion réunit deux signes d’eau à quatre signes d’écart, la Lune en avance dans le signe de sa chute, peu après le premier quartier. J’y lis une eau profonde des deux côtés : un moi qui garde les gens qu’il aime, et des besoins qui accordent leur confiance lentement, puis pour de bon."
+definition: "Soleil en Cancer, Lune en Scorpion réunit deux signes d’eau distants de quatre signes, la Lune en avance dans le signe de sa chute, peu après le premier quartier. J’y lis une eau profonde des deux côtés : un moi qui garde les gens qu’il aime, et des besoins qui accordent leur confiance lentement, puis pour de bon."
 facts:
   - { k: "Signe solaire", v: "Cancer ♋, gouverné par la Lune" }
   - { k: "Signe lunaire", v: "Scorpion ♏, gouverné par Pluton et Mars ; chute de la Lune" }
@@ -18,12 +18,12 @@ facts:
   - { k: "Fréquence", v: "Environ 1 personne sur 139 née entre 1930 et 2009" }
 related: ["/astrology/sun-in-cancer", "/astrology/moon-in-scorpio", "/astrology/water-signs", "/astrology/sun-trine-moon", "/astrology/fall"]
 faq:
-  - q: "Le Soleil en Cancer avec la Lune en Scorpion est-il une combinaison intense ?"
-    a: "Profonde plutôt que bruyante. Les deux luminaires sont dans l’eau, si bien que les émotions sont fortes et durables : le Soleil en Cancer protège et se souvient, la Lune en Scorpion fait confiance lentement et complètement. Vu de l’extérieur, ce duo peut sembler calme et discret tout en ressentant énormément au-dedans, et il aime en général avec une grande loyauté."
+  - q: "Cette combinaison, Soleil en Cancer et Lune en Scorpion, est-elle intense ?"
+    a: "Profonde plutôt que bruyante. L’eau domine des deux côtés, si bien que les émotions sont fortes et durables : le Soleil en Cancer protège et se souvient, la Lune en Scorpion fait confiance lentement et complètement. Vu de l’extérieur, ce duo peut sembler calme et discret tout en ressentant énormément au-dedans, et il aime en général avec une grande loyauté."
   - q: "Comment agissent les maîtres pour un Soleil en Cancer avec une Lune en Scorpion ?"
-    a: "La Lune gouverne le Cancer : votre Lune gouverne donc aussi le signe de votre Soleil. Le Scorpion a deux maîtres, et je lis les deux : Mars, maître traditionnel, pour la façon dont cette Lune défend ce qu’elle aime, et Pluton, maître moderne, pour la façon dont elle va au fond des choses et se renouvelle. La tradition place la chute de Mars en Cancer."
+    a: "Votre Lune a autorité sur votre signe solaire, le Cancer étant gouverné par la Lune. Pour le Scorpion, deux planètes comptent, et je les lis côte à côte : Mars, maître traditionnel, pour la façon dont cette Lune défend ce qu’elle aime, et Pluton, maître moderne, pour l’art qu’a cette Lune d’aller au fond des choses et de se renouveler. La tradition place la chute de Mars en Cancer."
   - q: "Quelle phase lunaire accompagne le Soleil en Cancer et la Lune en Scorpion ?"
-    a: "Le plus souvent le premier quartier, la Lune un peu plus qu’à moitié éclairée et 91° à 149° devant le Soleil ; le découpage en huit phases appelle gibbeuses les plus tardives de ces naissances. Si la Lune avait 120° d’avance environ, les deux luminaires formaient un trigone exact."
+    a: "Le plus souvent le premier quartier, la Lune un peu plus qu’à moitié éclairée et 91° à 149° devant le Soleil ; le découpage en huit phases fait déjà des plus tardives des naissances gibbeuses. Si la Lune avait 120° d’avance environ, les deux luminaires formaient un trigone exact."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "la Lune maîtresse du Cancer et en chute en Scorpion, Mars maître du Scorpion et en chute en Cancer" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et l’avance de la Lune sur le Soleil" }
@@ -35,11 +35,11 @@ Deux signes d’eau se rencontrent ici, et tous deux gardent leurs profondeurs p
 
 L’eau cardinale et l’eau fixe, à quatre signes d’écart : un trigone par signe, le même élément des deux côtés. Le [Soleil en Cancer](/astrology/sun-in-cancer/) fait de la sécurité des siens un but ; la [Lune en Scorpion](/astrology/moon-in-scorpio/) a besoin de vérité et de loyauté avant de se détendre, et quand elle fait confiance, c’est pour de bon. Ces luminaires se comprennent sans beaucoup parler. Ce qui manque au duo, c’est l’air : un regard extérieur, un mot plus léger, une porte laissée ouverte.
 
-La Lune gouverne le Cancer : votre Lune gouverne donc aussi le signe de votre Soleil, et elle se trouve ici dans sa [chute](/astrology/fall/), le signe que la tradition juge le plus difficile pour elle. J’y lis un réconfort qui doit toucher le fond d’une émotion avant d’arriver, et votre sens du but suit le même chemin profond. Le Scorpion a deux maîtres ; je lis les deux : [Mars](/astrology/mars/), le maître traditionnel, que les anciens textes placent en chute en Cancer, le signe de votre Soleil, et [Pluton](/astrology/pluto/), le maître moderne, qui montre où cette Lune accepte qu’un lien change de forme.
+Votre Lune, maîtresse du Cancer, règne aussi sur votre Soleil ; or elle occupe ici sa [chute](/astrology/fall/), le signe que la tradition juge le plus difficile pour elle. J’y lis un réconfort qui doit toucher le fond d’une émotion avant d’arriver, et votre sens du but suit le même chemin profond. Deux planètes gouvernent le Scorpion, et je lis les deux : [Mars](/astrology/mars/), le maître traditionnel, dont les anciens textes situent la chute dans votre signe solaire, et [Pluton](/astrology/pluto/), le maître moderne, qui montre où cette Lune accepte qu’un lien change de forme.
 
-Gonflée vers la pleine lune, passé son premier quartier, votre Lune avait pris 91° à 149° d’avance sur le Soleil. Dans le découpage en huit phases, le [premier quartier](/astrology/first-quarter-moon/) en compte la plupart, la [lune gibbeuse croissante](/astrology/waxing-gibbous-moon/) les plus tardives ; vers 120°, le trigone d’eau devient un [Soleil trigone Lune](/astrology/sun-trine-moon/) croissant. Le trigone est facile, mais la phase de premier quartier où il tombe est, telle que je la lis, une phase d’action, et ce duo donne le meilleur de lui-même quand sa profondeur sert à quelqu’un. [Votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) en dit plus.
+Gonflée vers la pleine lune, passé son premier quartier, votre Lune s’était éloignée du Soleil de 91° à 149°. Le [premier quartier](/astrology/first-quarter-moon/) reçoit l’essentiel de ces naissances, selon le découpage en huit phases, et la [lune gibbeuse croissante](/astrology/waxing-gibbous-moon/) les dernières ; vers 120°, le trigone d’eau devient un [Soleil trigone Lune](/astrology/sun-trine-moon/) croissant. Le trigone est facile, mais la phase de premier quartier où il tombe est, telle que je la lis, une phase d’action, et ce duo donne le meilleur de lui-même quand sa profondeur sert à quelqu’un. [Votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) en dit plus.
 
-Une personne sur 139 environ a ces deux luminaires dans l’eau. Il faut à la Lune deux jours et demi, à peu près, pour traverser le Scorpion, de la Balance au Sagittaire, et une naissance un jour de passage pourrait aussi bien relever du [Soleil en Cancer, Lune en Balance](/astrology/sun-in-cancer-moon-in-libra/) ou du [Soleil en Cancer, Lune en Sagittaire](/astrology/sun-in-cancer-moon-in-sagittarius/) tant que l’heure n’est pas connue ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/#la-lune)). Cette heure fixe aussi l’ascendant ; avec deux luminaires aussi discrets, un ascendant d’air ou de feu peut beaucoup changer la façon dont vous apparaissez.
+Une personne sur 139 environ a ces deux luminaires dans l’eau. La Lune met environ deux jours et demi pour traverser le Scorpion ; le jour où elle y entre ou en sort, seule l’heure de naissance permet de trancher entre cette page, le [Soleil en Cancer, Lune en Balance](/astrology/sun-in-cancer-moon-in-libra/) et le [Soleil en Cancer, Lune en Sagittaire](/astrology/sun-in-cancer-moon-in-sagittarius/) ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/#la-lune)). Cette heure fixe aussi l’ascendant ; avec deux luminaires aussi discrets, un ascendant d’air ou de feu peut beaucoup changer la façon dont vous apparaissez.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
@@ -47,7 +47,7 @@ Vous aimez profondément, en protégeant, et longtemps. Le Soleil en Cancer ento
 
 ## Au travail {#au-travail}
 
-Un travail qui demande à la fois du soin et de la profondeur convient à ce duo : l’écoute et l’accompagnement, l’histoire des familles, la recherche sur ce que les autres négligent, le travail de crise, la garde des confidences dans un poste de confiance. Votre Soleil garde ; votre Lune creuse jusqu’à comprendre ce qui se passe vraiment. Vous pouvez être redoutable sans bruit, la personne à qui l’on apporte ses vrais problèmes. Les lieux de travail fondés sur les ragots ou les loyautés superficielles usent les deux luminaires.
+Les métiers où il faut du soin et de la profondeur conviennent à ce duo : l’écoute et l’accompagnement, l’histoire des familles, la recherche sur ce que les autres négligent, le travail de crise, la garde des confidences dans un poste de confiance. Votre Soleil garde ; votre Lune creuse jusqu’à savoir ce qu’il en est réellement. Vous pouvez être redoutable sans bruit, la personne à qui l’on apporte ses vrais problèmes. Les lieux de travail fondés sur les ragots ou les loyautés superficielles usent les deux luminaires.
 
 ## Le plus difficile {#le-plus-difficile}
 

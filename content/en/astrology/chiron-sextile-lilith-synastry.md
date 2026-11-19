@@ -1,13 +1,13 @@
 ---
 title: "Chiron sextile Lilith in synastry"
 h1: "Chiron sextile Lilith between two charts"
-description: "Chiron sextile Lilith in synastry: one person’s work-arounds and the other’s untamed side, on offer to each other. Both sides, who has it, the houses."
+description: "Chiron sextile Lilith in synastry: one person’s work-arounds and the other’s untamed side, on offer to each other. Each side, and the birth months."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 377
 glyph: "⚷⚹⚸"
-definition: "Chiron sextile Lilith in synastry means one person’s Chiron is about 60° from the other’s Black Moon Lilith, within 1.8°, the tightest orb I use. One person’s way of adapting and the other’s untamed side can help each other, but only once someone asks. I read it as an opening, through the houses."
+definition: "Chiron sextile Lilith in synastry is a 60° link from one person’s Chiron to another person’s Black Moon Lilith, held to 1.8°, the tightest orb I use. One person’s way of adapting and the other’s untamed side can help each other, but only once someone asks. I read it as an opening, through the houses."
 facts:
   - { k: "Bodies", v: "One person’s Chiron ⚷, the other’s Black Moon Lilith ⚸" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/chiron", "/astrology/black-moon-lilith", "/astrology/sextile", "/astrology/chiron-sextile-lilith", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Chiron sextile Lilith mean in synastry?"
-    a: "One person’s Chiron sits about 60° from the other’s Black Moon Lilith, within 1.8°. What one has learned by adapting around a lasting difficulty and what the other refuses to give up can trade: practical ideas one way, plain speaking the other. Like any sextile, it waits for someone to make the first move."
+    a: "Two signs, about 60° within 1.8°, separate the Chiron of one person from the Lilith of the other. What one has learned by adapting around a lasting difficulty and what the other refuses to give up can trade: practical ideas one way, plain speaking the other. Like any sextile, it waits for a first move."
   - q: "Why is the orb so small for Chiron sextile Lilith?"
     a: "My synastry orbs give Chiron and Lilith 3°, and a sextile keeps three fifths of that, so 1.8°. The contact therefore belongs to narrow windows of births, a month or two at a time on Lilith’s side, which is one more reason I read it as the mark of an era rather than of a person."
   - q: "Can Chiron sextile Lilith go unnoticed?"
@@ -28,11 +28,11 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that give this contact, with mean Lilith" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s mean apogee" }
 ---
-Chiron sextile Lilith in synastry sets one person's Chiron about 60° from the other's Black Moon Lilith, within 1.8°, the narrowest orb I use. The two usually sit in signs that get on, and each holds something the other could use. Nothing changes hands, though, until one of them asks.
+With Chiron sextile Lilith in synastry, two signs or so lie between the Chiron in one chart and the Black Moon Lilith in the other, and I allow it only 1.8° either side, the narrowest orb I use. The two usually sit in signs that get on, and each holds something the other could use. Nothing changes hands, though, until one of them asks.
 
 ## What flows {#what-flows}
 
-[Chiron](/astrology/chiron/) is the part of a chart that finds a workable way to take part despite a limitation that stays: compensating, accommodating, learning a skill nobody had to teach anyone else. [Black Moon Lilith](/astrology/black-moon-lilith/) marks, for many astrologers, instinctive autonomy, authenticity and the parts of a person left outside; schools disagree on what it carries, so I read it symbolically. A [sextile](/astrology/sextile/) relates two functions through opportunity and cooperation, and among the [synastry aspects](/astrology/synastry-aspects/) it hands the opportunity from one person to another.
+[Chiron](/astrology/chiron/) stands for the know-how a person builds when a limitation won't lift: they compensate, they accommodate, they learn a skill nobody else in the room needed. [Black Moon Lilith](/astrology/black-moon-lilith/) marks, for many astrologers, instinctive autonomy, authenticity and the parts of a person left outside; schools disagree on what it carries, so I read it symbolically. A [sextile](/astrology/sextile/) offers two functions a chance to cooperate, an opening rather than a guarantee; as one of the [synastry aspects](/astrology/synastry-aspects/), the opening lies between two people, and either can take it.
 
 Holding the Chiron, you may find that the other person's directness gives you words you lacked. They don't apologise for what they refuse, and beside them, asking for an accommodation starts to sound less like a confession and more like information.
 
@@ -45,7 +45,7 @@ A sextile rarely grates; what it can hide is how little gets used. Two people wi
 - **[Chiron conjunct Lilith in synastry](/astrology/chiron-conjunct-lilith-synastry/):** no distance between the two, so they merge rather than trade.
 - **[Chiron square Lilith in synastry](/astrology/chiron-square-lilith-synastry/):** the same pair learning by collision instead of by invitation.
 - **[Chiron trine Lilith in synastry](/astrology/chiron-trine-lilith-synastry/):** a wider, steadier current that needs less asking.
-- **[Chiron opposite Lilith in synastry](/astrology/chiron-opposite-lilith-synastry/):** the two set across the chart, each holding what the other lacks.
+- **[Chiron opposite Lilith in synastry](/astrology/chiron-opposite-lilith-synastry/):** a face-off across the zodiac, each person embodying what the other steers clear of.
 
 ## How to meet it {#how-to-meet-it}
 
@@ -53,8 +53,6 @@ Make the first exchange small and specific. One asks for a single thing, a slowe
 
 The tight orb keeps the windows of births short. Someone born in mid-1955 has Chiron in Aquarius, and anyone born in January or February 1967 has Lilith in Aries, 60° away. The reverse can join two people two years apart: the 1955 Lilith, in Sagittarius, is sextile the Aquarius Chiron of people born between August and December 1957. Lilith reaches 60° on both sides of that Chiron, so the windows on its side alternate, three and six years apart. I keep contacts like this out of my count, which takes in only the Sun, the Moon, Mercury, Venus, Mars, the Ascendant and the Midheaven; read through the houses, this sextile says more about what two generations can offer each other than about the two of you.
 
-In my notebook, Chiron and Lilith were two of the three placements that held 75 to 90% of the time, each in its own chart ([the three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)). It never looked at contacts between charts, so this one has no figure.
-
-Neither point moves far in a day, so the hour of birth hardly touches the sextile itself; it fixes the two houses the opening joins, and I need both times to see them ([what changes without a birth time](/blog/unknown-birth-time/)).
+Neither point moves far in a day, so the hour of birth hardly touches the sextile itself; what it fixes is the pair of houses the opening joins, and those stay hidden until both times are known ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 A single chart can carry the same angle, [Chiron sextile Lilith](/astrology/chiron-sextile-lilith/), where one person's adaptations and refusals are on speaking terms. Here they belong to two people, and both should want the reading ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

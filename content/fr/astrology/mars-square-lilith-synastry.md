@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 243
 glyph: "♂□⚸"
-definition: "Mars carré Lilith en synastrie signifie qu’un angle droit, à 5,1° près, relie Mars, chez une personne, à la Lune noire Lilith moyenne chez l’autre. La poussée de l’une rencontre sans cesse le refus de l’autre d’être dirigée, et ce frottement peut fasciner autant qu’agacer. J’y vois l’apprentissage de limites claires, respectées des deux côtés."
+definition: "Mars carré Lilith en synastrie signifie que la Lune noire Lilith moyenne d’une personne fait un angle droit avec Mars chez l’autre, à 5,1° près. La poussée de l’une rencontre sans cesse le refus de l’autre d’être dirigée, et ce frottement peut fasciner autant qu’agacer. J’y vois l’apprentissage de limites claires, respectées des deux côtés."
 facts:
   - { k: "Corps", v: "Mars ♂ de l’une, la Lune noire Lilith ⚸ de l’autre" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/mars", "/astrology/black-moon-lilith", "/astrology/square", "/astrology/mars-square-lilith", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Mars carré Lilith en synastrie ?"
-    a: "Mars, chez l’une, et la Lune noire Lilith moyenne, chez l’autre, se tiennent à angle droit, à 5,1° près. La façon de pousser de la personne de Mars rencontre le refus de celle de Lilith d’être dirigée. L’aspect décrit une friction autour de l’autonomie et des limites, dont deux adultes peuvent tirer une idée claire de leurs limites."
+    a: "Mars, chez l’une, croise à angle droit la Lune noire Lilith moyenne de l’autre, à 5,1° près. La façon de pousser de la personne de Mars rencontre le refus de celle de Lilith d’être dirigée. L’aspect décrit une friction autour de l’autonomie et des limites, dont deux adultes peuvent tirer une idée claire de leurs limites."
   - q: "Est-ce que Mars carré Lilith est un aspect toxique ?"
     a: "Aucun aspect ne rend une relation toxique, et Lilith ne tache le caractère de personne. Ce carré décrit une poussée et un refus qui se rencontrent de biais. Pris comme une information, un non devient ce que la paire apprend de plus utile ; la façon dont deux personnes se traitent est leur choix, pas celui du thème."
   - q: "Pourquoi Mars carré Lilith attire et agace à la fois ?"
@@ -37,7 +37,7 @@ L’une pousse ; le non de l’autre arrive par le côté. Avec Mars carré Li
 
 Ce que la friction peut donner, c’est de la clarté. La personne de Mars apprend où se trouvent vraiment les limites de l’autre, et qu’un non n’est pas un obstacle mais une information. Celle de Lilith apprend à dire ce non simplement et tôt, sans en faire une bataille. Les paires qui ont ce carré finissent souvent avec des accords d’une clarté rare, parce qu’elles ont dû les passer.
 
-Les signes partagent en général un mode. Si les deux sont en signes fixes, Mars en Taureau carré Lilith en Lion par exemple, personne ne veut céder de terrain ; dans les signes mutables, comme Mars en Vierge carré Lilith en Gémeaux, la poussée et le refus changent sans cesse de forme.
+Si les deux sont en signes fixes, Mars en Taureau carré Lilith en Lion par exemple, la poussée comme le refus s’enracinent ; dans les signes mutables, comme Mars en Vierge carré Lilith en Gémeaux, tout change sans cesse de forme.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
@@ -58,6 +58,6 @@ Les autres angles, vus d’ici :
 
 Prenez un non pour une information, et ne passez jamais outre. Convenez à voix haute de ce qui se négocie et de ce qui ne se négocie pas, avant que la question se pose. La personne de Mars peut demander plutôt que défier ; celle de Lilith, refuser sans disparaître. Entre collègues, des règles écrites sur qui décide quoi aident ; entre colocataires ou frères et sœurs adultes, des règles de maison faites ensemble plutôt qu’imposées.
 
-Avec la Lilith moyenne, environ 1 paire de personnes sur 9 a ce carré, dans un sens ou dans l’autre, à 5,1° près. Le côté Lilith se partage entre toutes les naissances de ces quelques mois, puisque le point reste à peu près neuf mois dans un signe ; c’est la position de Mars, qu’un anniversaire décide, qui change cette position partagée en contact entre deux personnes précises. Quelques heures de différence ne déplacent presque rien ; les maisons, elles, montrent où la poussée et le refus se rencontrent, et demandent les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Le consentement compte doublement dans un contact qui parle de limites : je ne la lis que si les deux me le demandent ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Avec la Lilith moyenne, environ 1 paire de personnes sur 9 a ce carré, dans un sens ou dans l’autre, à 5,1° près. Le côté Lilith se partage entre toutes les naissances de ces quelques mois, puisque le point reste à peu près neuf mois dans un signe ; c’est la position de Mars, qu’un anniversaire décide, qui change cette position partagée en contact entre deux personnes précises. Quelques heures de différence ne déplacent presque rien ; les maisons, elles, montrent où la poussée et le refus se rencontrent, et demandent les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Le consentement compte doublement dans un contact qui parle de limites : je ne la lis que sur une demande venue de chacune ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
 
 Chez une même personne, [Mars carré Lilith](/astrology/mars-square-lilith/) oppose son élan à ses propres refus. Entre deux personnes, chaque non appartient à quelqu’un, et chacun peut être entendu.

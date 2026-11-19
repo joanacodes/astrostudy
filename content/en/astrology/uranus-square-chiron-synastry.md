@@ -22,7 +22,7 @@ faq:
   - q: "Does Uranus square Chiron mean one person will hurt the other?"
     a: "No. It predicts nothing about what happens between two people. It can show as change arriving where the other is least flexible, and as caution that frustrates the one who wants to move. Talked through, that friction tends to produce arrangements that suit both."
   - q: "Who has Uranus square Chiron with someone?"
-    a: "It depends on the birth dates. Someone born in mid-1965 and anyone born between December 1985 and June 1986 have it both ways round, each person’s Uranus squaring the other’s Chiron. Because whole runs of births share it, I read it through the houses."
+    a: "Two birth dates set it, never a choice. Someone born in mid-1965 and anyone born between December 1985 and June 1986 have it both ways round, each person’s Uranus squaring the other’s Chiron. A double square tied to dates like these says more about two cohorts than about two people, so I look at the houses."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the square, 90°, among the four aspects he names" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that put one person’s Uranus 90° from another’s Chiron, within 3.4°" }

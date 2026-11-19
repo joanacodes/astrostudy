@@ -44,7 +44,7 @@ Un courant n’est pas un cap, et l’aisance ne rend rien certain. Comme rien n
 
 Côté Mars, le risque discret est que votre élan suive les humeurs et les espoirs de l’autre plutôt que vos propres buts. Côté Neptune, c’est de croire que l’accord que vous sentez avec l’autre vous dit ce qu’elle veut : l’empathie n’est pas la connaissance exacte d’autrui, et un trigone peut donner l’impression du contraire.
 
-À côté du trigone, les quatre autres :
+Pour situer ce trigone parmi les autres :
 
 - **[Mars conjonction Neptune en synastrie](/astrology/mars-conjunct-neptune-synastry/) :** la poussée tombe sur le rêve lui-même, plus près et moins détendue.
 - **[Mars sextile Neptune en synastrie](/astrology/mars-sextile-neptune-synastry/) :** deux signes plus près, l’aide est là mais attend d’être invitée.
@@ -55,6 +55,6 @@ Côté Mars, le risque discret est que votre élan suive les humeurs et les espo
 
 Donnez des berges au courant. Une date, un budget, une liste de qui porte quoi : de petites structures qui n’abîment pas l’aisance. La personne de Neptune peut nommer un souhait concret à la fois ; celle de Mars, demander de temps en temps : « c’est toujours ce que tu veux ? » Entre amis, cela peut vouloir dire finir enfin le projet commun ; en famille, une sœur adulte qui agit sur les idées de son frère et qu’on remercie nommément ; au travail, une commande créative avec une échéance.
 
-Compté à 5,1° près, dans un sens ou dans l’autre, ce trigone relie environ 1 paire de personnes sur 9. La plupart des personnes nées un ou deux ans avant ou après celle de Neptune offriraient Neptune au même endroit, puisque Neptune met environ quatorze ans à traverser un signe ; c’est Mars, qui en traverse un en six ou sept semaines, qui distingue cette paire dans la foule. En une journée, Mars et Neptune bougent trop peu pour que l’heure compte beaucoup, sauf pour un trigone tout juste à la limite, et les maisons, là où l’inspiration tombe dans chaque vie, ne se dessinent pas sans les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Compté à 5,1° près, dans un sens ou dans l’autre, ce trigone relie environ 1 paire de personnes sur 9. La plupart des personnes nées un ou deux ans avant ou après celle de Neptune offriraient Neptune au même endroit, puisque Neptune ne change de signe qu’au bout d’environ quatorze ans ; c’est Mars, qui en traverse un en six ou sept semaines, qui distingue cette paire dans la foule. En une journée, Mars et Neptune bougent trop peu pour que l’heure compte beaucoup, sauf pour un trigone tout juste à la limite, et les maisons, là où l’inspiration tombe dans chaque vie, ne se dessinent pas sans les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Si un seul thème contient [Mars trigone Neptune](/astrology/mars-trine-neptune/), l’effort et l’imagination s’accordent chez une même personne. Partagé entre deux, cet accord demande à être dit de temps en temps à voix haute, sinon chacune se met à répondre pour l’autre.

@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 232
 glyph: "♂⚹♇"
-definition: "Mars sextile Pluton en synastrie signifie qu’un écart de 60°, à 3,6° près, relie Mars, chez une personne, à Pluton chez l’autre. L’une apporte l’élan, l’autre le cran de couper ce qui ne marche plus : une équipe solide. J’y lis une alliance qui sert le mieux quand on s’en sert avant une crise, pas seulement pendant."
+definition: "Mars sextile Pluton en synastrie signifie que Mars, chez une personne, et Pluton, chez l’autre, sont en sextile : environ 60°, à 3,6° près. L’une apporte l’élan, l’autre le cran de couper ce qui ne marche plus : une équipe solide. J’y lis une alliance qui sert le mieux quand on s’en sert avant une crise, pas seulement pendant."
 facts:
   - { k: "Corps", v: "Mars ♂ de l’une, Pluton ♇ de l’autre" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/mars", "/astrology/pluto", "/astrology/sextile", "/astrology/mars-sextile-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Mars sextile Pluton en synastrie ?"
-    a: "Environ deux signes séparent Mars, chez l’une, de Pluton chez l’autre, soit à peu près 60°. La personne de Mars apporte l’élan ; celle de Pluton voit ce qui doit changer à la racine. Les deux forment une solide équipe de travail, à condition de lui donner vraiment de quoi travailler."
+    a: "De Mars, chez l’une, à Pluton, chez l’autre, il y a environ 60°, en général deux signes. La personne de Mars apporte l’élan ; celle de Pluton voit ce qui doit changer à la racine. Les deux forment une solide équipe de travail, à condition de lui donner vraiment de quoi travailler."
   - q: "Est-ce que Mars sextile Pluton aide à travailler ensemble ?"
     a: "Souvent, oui. Devant un projet bloqué, l’une remet les choses en mouvement et l’autre sait quoi couper. Ce contact convient aux collègues, aux associés et aux amis qui construisent. Comme tout sextile, il demande à être saisi : laissée au repos, l’alliance peut dormir jusqu’au jour où quelque chose cède."
   - q: "Qui profite de Mars sextile Pluton ?"
@@ -44,7 +44,7 @@ Ce que l’aisance d’un sextile peut cacher ici, c’est le temps. Comme l’a
 
 Côté Mars, il y a aussi le risque de devenir le moteur des remises à plat de l’autre, jamais des vôtres. Côté Pluton, celui de laisser chaque fois à l’autre la partie difficile, commencer, et de perdre l’habitude de se lancer.
 
-Comment se situent les autres contacts de la paire :
+L’alliance, mise à l’épreuve des autres angles :
 
 - **[Mars conjonction Pluton en synastrie](/astrology/mars-conjunct-pluto-synastry/) :** l’alliance devient fusion, sans réserve et plus difficile à doser.
 - **[Mars carré Pluton en synastrie](/astrology/mars-square-pluto-synastry/) :** un signe plus loin, la coopération cède la place à une mise à l’épreuve des forces.
@@ -55,6 +55,6 @@ Comment se situent les autres contacts de la paire :
 
 Donnez à l’alliance une tâche permanente, pas seulement une crise. Un point mensuel sur ce qui pourrait changer, un projet commun à long terme, une décision prise par beau temps sur la façon dont vous déciderez par gros temps. Des collègues peuvent s’en servir pour réparer un processus avant qu’il lâche ; des colocataires, pour remettre une maison en ordre ; des amis, pour s’entraîner à quelque chose de difficile ; un parent et son enfant adulte, pour revoir un arrangement familial qui ne convient plus à personne.
 
-À 3,6° près, et dans un sens ou dans l’autre, environ 1 paire de personnes sur 12 a ce sextile. Une moitié appartient à une classe d’âge : toute personne née à quelques années de celle de Pluton a Pluton presque au même endroit, puisqu’il faut à Pluton de 12 à 31 ans pour quitter un signe. L’autre moitié, Mars, retient quelques semaines d’anniversaires tous les deux ans environ. Avec un orbe aussi serré, une naissance tout au bord est le seul cas où l’heure peut faire entrer ou sortir le sextile ; et les maisons, là où l’alliance travaille, réclament quoi qu’il arrive les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+À 3,6° près, et dans un sens ou dans l’autre, environ 1 paire de personnes sur 12 a ce sextile. Une moitié appartient à une classe d’âge : toute personne née à quelques années de celle de Pluton a Pluton presque au même endroit, puisque Pluton met de 12 à 31 ans à quitter un signe. L’autre moitié, Mars, retient quelques semaines d’anniversaires tous les deux ans environ. Avec un orbe aussi serré, une naissance tout au bord est le seul cas où l’heure peut faire entrer ou sortir le sextile ; et les maisons, là où l’alliance travaille, réclament quoi qu’il arrive les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Pour qui l’a dans son propre thème, [Mars sextile Pluton](/astrology/mars-sextile-pluto/) est une réserve où puiser quand cela compte. Entre deux personnes, la réserve a deux clés, et elle s’ouvre le mieux quand les deux les tournent.

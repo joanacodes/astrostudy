@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 250
 glyph: "♂☍☊"
-definition: "Mars opposite North Node in synastry puts one person’s Mars across from the other’s North Node, within 6°, and so on top of their South Node. One person’s drive meets the other’s established strengths, familiar and energising for both. I read it as a pair at ease on old ground, worth watching for when comfort replaces growth."
+definition: "Mars opposite North Node in synastry means one person’s Mars lands on the other’s South Node, within 6°, directly across from their North Node. One person’s drive meets the other’s established strengths, familiar and energising for both. I read it as a pair at ease on old ground, worth watching for when comfort replaces growth."
 facts:
   - { k: "Bodies", v: "One person’s Mars ♂, the other’s North Node ☊" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/mars", "/astrology/north-node", "/astrology/opposition", "/astrology/mars-opposite-north-node", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Mars opposite North Node mean in synastry?"
-    a: "Sitting 180° from the other’s North Node, within 6°, one person’s Mars lands on their South Node. The Mars person’s drive meets the Node person’s practised strengths, so the two feel capable and at home together. Growth lies across from where the energy lands."
+    a: "One person’s Mars stands opposite the other’s North Node, within 6°, which is the same as standing on their South Node. The Mars person’s drive meets the Node person’s practised strengths, so the two feel capable and at home together. Growth lies across from where the energy lands."
   - q: "Is Mars opposite North Node a bad sign?"
     a: "No. The South Node is established strength, not a defect, and shared competence is a pleasure. The only caution is habit: a pair this comfortable on familiar ground can forget the less familiar direction. Noticing that, now and then, is all this contact asks."
   - q: "Is Mars opposite North Node a past-life connection?"
@@ -56,6 +56,6 @@ Measured from the familiar end, the other contacts:
 
 Enjoy the shared competence, and add one deliberate step towards the less familiar. The Mars person can back the Node person's new aim openly, even when it's slower and less satisfying than what you do well together. Business partners can use the efficiency and still budget time for the unfamiliar; old friends can keep their rituals and add one new one; in a family, siblings can stop casting each other in the roles they had as children.
 
-By the true node, about 1 pair of people in 15 has this opposition, one way round or the other, within 6°. I read the mean node as well; it shadows the true one closely, so the two disagree only for a Mars at the very limit ([mean node and true node](/astrology/mean-node-and-true-node/)). The South Node's degree, like the North's, belongs to everyone born within a few months of the Node person, the axis backing through a sign in about 18 months; the Mars, set by a birthday, puts these two in particular on the same ground. The houses, which tell where that ground lies, need both times ([what changes without a birth time](/blog/unknown-birth-time/)). There's more on contacts like this in [The nodes in synastry](/astrology/nodes-in-synastry/).
+By the true node, about 1 pair of people in 15 has this opposition, one way round or the other, within 6°. The mean node, which I also look at, shadows the true one so closely that the two disagree only for a Mars at the very limit ([mean node and true node](/astrology/mean-node-and-true-node/)). The South Node's degree, like the North's, belongs to everyone born within a few months of the Node person, the axis backing through a sign in about 18 months; the Mars, set by a birthday, puts these two in particular on the same ground. The houses, which tell where that ground lies, need both times ([what changes without a birth time](/blog/unknown-birth-time/)). There's more on contacts like this in [The nodes in synastry](/astrology/nodes-in-synastry/).
 
 A chart with [Mars opposite North Node](/astrology/mars-opposite-north-node/) in it already knows effort as an old friend. Between two charts, someone else's drive meets that practised ground, and can help point it forward.

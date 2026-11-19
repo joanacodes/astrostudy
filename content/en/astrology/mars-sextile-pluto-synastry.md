@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 232
 glyph: "♂⚹♇"
-definition: "Mars sextile Pluto in synastry means one person’s Mars and the other’s Pluto form a 60° angle, within 3.6°. One brings momentum, the other the nerve to cut what no longer works: a capable team. I read it as an alliance that serves best when used before a crisis, not only during one."
+definition: "Mars sextile Pluto in synastry means one person’s Mars sits a sextile, about 60° within 3.6°, from the other’s Pluto. One brings momentum, the other the nerve to cut what no longer works: a capable team. I read it as an alliance that serves best when used before a crisis, not only during one."
 facts:
   - { k: "Bodies", v: "One person’s Mars ♂, the other’s Pluto ♇" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/pluto", "/astrology/sextile", "/astrology/mars-sextile-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Mars sextile Pluto mean in synastry?"
-    a: "Roughly two signs lie between one person’s Mars and the other’s Pluto, about 60° apart. The Mars person supplies momentum; the Pluto person sees what needs to change at the root. The two make a strong working partnership, provided they actually give it something to work on."
+    a: "From one person’s Mars to the other’s Pluto is about 60°, usually two signs. The Mars person supplies momentum; the Pluto person sees what needs to change at the root. The two make a strong working partnership, provided they actually give it something to work on."
   - q: "Is Mars sextile Pluto good for working together?"
     a: "Often, yes. Faced with a stuck project, one person gets things moving and the other knows what to cut. It suits colleagues, business partners and friends who build things. Like any sextile it needs taking up: left idle, the alliance can sleep until something goes wrong."
   - q: "Which person benefits from Mars sextile Pluto?"
@@ -43,7 +43,7 @@ What a sextile's ease can hide here is time. Because the alliance works so well 
 
 From the Mars side, there's also a risk of becoming the engine for someone else's overhauls and never your own. From the Pluto side, of handing the hard part of starting to the other person every time, and losing the habit of beginning.
 
-How the pair's other contacts compare:
+The alliance, tried at the pair's other angles:
 
 - **[Mars conjunct Pluto in synastry](/astrology/mars-conjunct-pluto-synastry/):** the alliance becomes a fusion, all-in and harder to pace.
 - **[Mars square Pluto in synastry](/astrology/mars-square-pluto-synastry/):** a sign further round, cooperation gives way to testing each other's force.

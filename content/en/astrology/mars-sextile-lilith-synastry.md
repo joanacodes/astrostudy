@@ -22,7 +22,7 @@ faq:
   - q: "Does it matter which Lilith you use for Mars sextile Lilith?"
     a: "Very much. The true point wanders widely around the mean, and this contact only counts within 3.6°, so one version may show it and the other not. I use mean Lilith, as most astrologers do, and say so in a reading."
   - q: "Is Mars sextile Lilith a good sign for working together?"
-    a: "It can be, for projects that benefit from doing things differently. One person gets things moving; the other questions the usual way of doing them. Like any sextile it needs engaging: two people can agree they’d love to break the mould and never actually do it."
+    a: "It can be, for projects that benefit from doing things differently. One person gets things moving; the other questions the usual way of doing them. Nothing in a sextile acts on its own: two people can agree they’d love to break the mould and never actually do it."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the sextile, 60°, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 3.6°, with mean Lilith" }

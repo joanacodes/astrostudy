@@ -21,20 +21,20 @@ faq:
   - q: "Que veut dire Uranus opposition Chiron en synastrie ?"
     a: "Uranus, chez une personne, se trouve à environ 180° du Chiron de l’autre, dans des signes opposés. L’une porte l’envie de liberté et de changement, l’autre une limite durable et l’art de vivre avec. Chacune voit dans l’autre le bout de la balançoire qu’elle tient le moins, ce qui peut apprendre aux deux un meilleur équilibre."
   - q: "Qui a Uranus opposition Chiron avec quelqu’un ?"
-    a: "Cela dépend des dates de naissance, et ce contact relie souvent des personnes nées à quelques années d’écart. Une personne née au milieu de 1965 l’a avec toute personne née, par périodes, de mars 1962 à janvier 1965, et de novembre 1965 à juillet 1968. Tant de gens le partagent que je le lis par les maisons."
+    a: "Les dates décident, et elles relient souvent des personnes nées à quelques années d’écart. Une personne née au milieu de 1965 l’a avec toute personne née, par périodes, de mars 1962 à janvier 1965, et de novembre 1965 à juillet 1968. Comme des camarades de classe ou des frères et sœurs le partagent, c’est par les maisons qu’il devient l’affaire de deux personnes précises."
   - q: "Uranus opposition Chiron veut-il dire que deux personnes vont s’éloigner ?"
     a: "Non. Une opposition est une polarité, jamais une sentence sur une relation, et elle ne prédit rien. Son risque est plus discret : que l’une s’installe dans le rôle de la personne libre et l’autre dans celui de la personne qui fait face. Échanger un peu de chaque rôle garde la balançoire en mouvement."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’opposition, 180°, le plus large de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Uranus, chez une personne, à 180° du Chiron d’une autre, à 4° près" }
 ---
-D’un bout d’une balançoire, l’autre bout paraît toujours plus léger ou plus lourd qu’il ne l’est. Avec Uranus opposition Chiron en synastrie, Uranus, chez l’une, se trouve à environ 180° du Chiron de l’autre, à 4° près : la liberté de la première et la limite durable de la seconde occupent les deux bouts de la même planche.
+D’un bout d’une balançoire, l’autre bout paraît toujours plus léger ou plus lourd qu’il ne l’est. Uranus opposition Chiron en synastrie installe Uranus, chez l’une, à environ 180° du Chiron de l’autre, à 4° près : la liberté de la première et la limite durable de la seconde occupent les deux bouts de la même planche.
 
 ## Ce qui circule {#ce-qui-circule}
 
 [Uranus](/astrology/uranus/) différencie et libère : la place de vivre autrement, et l’envie de changer ce qui l’interdit. [Chiron](/astrology/chiron/) s’accommode : il permet à une personne de fonctionner, de contribuer et de rester en lien malgré une limite qui ne se lève pas, et cette expérience fait souvent d’elle un bon mentor. Une [opposition](/astrology/opposition/) relie deux fonctions par la polarité, chacune plus visible depuis le côté de l’autre ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), elle répartit cette polarité entre deux personnes.
 
-Les signes opposés partagent un mode et se complètent. Avec Uranus en Vierge face à un Chiron en Poissons, deux signes mutables, la paire tourne autour d’une seule question : qu’est-ce qui s’améliore par l’organisation, et qu’est-ce qui se vit tel quel ? Apprendre à distinguer les deux, c’est le cadeau de ce contact.
+Deux signes opposés ont le même mode et se répondent. Avec Uranus en Vierge face à un Chiron en Poissons, deux signes mutables, la paire tourne autour d’une seule question : qu’est-ce qui s’améliore par l’organisation, et qu’est-ce qui se vit tel quel ? Apprendre à distinguer les deux, c’est le cadeau de ce contact.
 
 Si Uranus est de votre côté, la limite de l’autre peut ressembler à la vie que vous vous êtes arrangé ou arrangée pour ne pas avoir : des points fixes, des routines soigneuses, un rythme imposé par quelque chose que personne n’a choisi. Vous admirez parfois sa patience, ou brûlez de l’en libérer.
 
@@ -53,7 +53,7 @@ Le risque, c’est que la balançoire se fige en deux rôles : la personne libr
 
 Changez de place de temps en temps. La personne d’Uranus peut essayer de vivre une journée dans l’une des contraintes de l’autre ; celle de Chiron, prendre un risque que l’autre prendrait sans y penser. Des frères et sœurs adultes proches en âge, d’anciens camarades de classe devenus collègues, un couple, deux voisins : chacun peut cesser de distribuer les rôles de la personne libre et de la personne prudente.
 
-Dans mes données, cette opposition relie souvent des personnes nées à quelques années d’écart. Une personne née au milieu de 1965 l’a avec toute personne née, par périodes, de mars 1962 à janvier 1965, dont le Chiron en Poissons fait face à Uranus en Vierge, et avec toute personne née, par périodes, de novembre 1965 à juillet 1968, dont Uranus en Vierge fait face à son Chiron. Avec autant de gens qui le partagent, ce contact décrit deux cohortes voisines plus qu’un couple. Mon décompte d’une synastrie ne garde que les contacts touchant le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel ; celui-ci, je le lis par les maisons, comme deux époques proches qui ont pesé autrement la liberté et les limites.
+Dans mes données, cette opposition relie souvent des personnes nées à quelques années d’écart. Une personne née au milieu de 1965 l’a avec toute personne née, par périodes, de mars 1962 à janvier 1965, dont le Chiron en Poissons fait face à Uranus en Vierge, et avec toute personne née, par périodes, de novembre 1965 à juillet 1968, dont Uranus en Vierge fait face à son Chiron. Avec autant de gens qui le partagent, ce contact décrit deux cohortes voisines plus qu’un couple. Dans mes synastries, seuls comptent les contacts qui touchent le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel ; celui-ci, je le lis par les maisons, comme deux époques proches qui ont pesé autrement la liberté et les limites.
 
 Aucune heure de naissance ne fait disparaître l’opposition. Les maisons dépendent des deux heures, et elles montrent si la balançoire va de soi à l’autre, maisons 1 et 7, ou du foyer au travail, maisons 4 et 10 ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

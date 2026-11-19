@@ -20,9 +20,9 @@ faq:
   - q: "What does Uranus trine Chiron mean in synastry?"
     a: "One person’s Uranus is about 120° from the other’s Chiron, usually in signs of one element. The Uranus person’s unusual ideas tend to fit the way the Chiron person lives with a lasting limit, so improvements come without a struggle. It describes easy cooperation between invention and adaptation."
   - q: "Is Uranus trine Chiron a good sign in a relationship?"
-    a: "It is a sign of ease between two functions, and no single contact decides whether a relationship works. The ease has a blind spot: when solutions arrive this smoothly, the effort the Chiron person still makes can go unseen by both. Naming it now and then keeps the trine honest."
+    a: "It shows ease between invention and adaptation, nothing more: whether a relationship works is never settled by one contact. The ease has a blind spot: when solutions arrive this smoothly, the effort the Chiron person still makes can go unseen by both. Naming it now and then keeps the trine honest."
   - q: "Who has Uranus trine Chiron with someone?"
-    a: "It depends on the birth dates. Someone born in mid-1975 and anyone born between April and July 1988 have it both ways round, each person’s Uranus trining the other’s Chiron. Everyone born in those months shares it, so I read it through the houses."
+    a: "Only the birth dates decide. Someone born in mid-1975 and anyone born between April and July 1988 have it both ways round, each person’s Uranus trining the other’s Chiron. Anyone born in those four months would have the same trines with the same people, which is why I read it through the houses."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, 120°, one of the four aspects he describes" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that put one person’s Uranus 120° from another’s Chiron, within 3.4°" }

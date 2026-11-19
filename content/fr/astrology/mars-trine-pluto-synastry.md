@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 234
 glyph: "♂△♇"
-definition: "Mars trigone Pluton en synastrie signifie qu’environ 120°, à 5,1° près, séparent Mars, chez une personne, de Pluton chez l’autre, souvent dans un même élément. L’élan et la profondeur se soutiennent sur la durée. J’y lis une endurance partagée, une force qui épaule sans rivaliser, et qui demande de dire qui tient la barre."
+definition: "Mars trigone Pluton en synastrie signifie que Mars, chez une personne, et Pluton, chez l’autre, partagent en général un élément, à environ 120°, à 5,1° près. L’élan et la profondeur se soutiennent sur la durée. J’y lis une endurance partagée, une force qui épaule sans rivaliser, et qui demande de dire qui tient la barre."
 facts:
   - { k: "Corps", v: "Mars ♂ de l’une, Pluton ♇ de l’autre" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/mars", "/astrology/pluto", "/astrology/trine", "/astrology/mars-trine-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Mars trigone Pluton en synastrie ?"
-    a: "Environ 120° séparent Mars, chez l’une, de Pluton chez l’autre ; leurs signes partagent souvent l’eau, la terre, le feu ou l’air. L’élan de la personne de Mars et la capacité de changer en profondeur de celle de Pluton se renforcent. L’aspect décrit une endurance partagée, une force qui épaule au lieu de rivaliser."
+    a: "Chez l’une, Mars ; chez l’autre, Pluton, à environ 120° : leurs signes partagent souvent l’eau, la terre, le feu ou l’air. L’élan de la personne de Mars et la capacité de changer en profondeur de celle de Pluton se renforcent. L’aspect décrit une endurance partagée, une force qui épaule au lieu de rivaliser."
   - q: "Est-ce que Mars trigone Pluton rend une relation plus solide ?"
     a: "C’est le signe de deux fonctions qui se soutiennent, ce qui peut rendre une paire résistante dans l’effort. Aucun contact isolé ne décide de la solidité d’une relation. Le trigone montre une aisance entre deux fonctions ; la franchise avec laquelle deux adultes partagent les décisions compte davantage que n’importe quel angle."
   - q: "Est-ce que Mars trigone Pluton a un revers ?"

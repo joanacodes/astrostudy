@@ -20,7 +20,7 @@ faq:
   - q: "What does Uranus conjunct Chiron mean in synastry?"
     a: "One person’s Uranus lies within 4° of the other’s Chiron, usually in the same sign. The Uranus person’s urge to reform arrives exactly where the Chiron person has adapted around a lasting limit. It can feel like fresh air or like pressure, and it describes how two people interact, never how things turn out."
   - q: "Who has Uranus conjunct Chiron with someone?"
-    a: "It depends on the birth dates. Someone born in mid-1965 has it with everyone born between September 1943 and August 1944, and with everyone born on and off from November 1993 to September 1994. So many people share it that I read it through the houses rather than as a personal bond."
+    a: "The calendar decides. Someone born in mid-1965 has it with everyone born between September 1943 and August 1944, and with everyone born on and off from November 1993 to September 1994. A pairing that wide links whole generations, so I read it through the houses rather than as a bond between two people."
   - q: "Is Uranus conjunct Chiron a healing contact?"
     a: "Healing is one possible outcome, not what the contact does. It describes inventive change meeting an established way of coping. It goes best when the Chiron person decides what may change and when, and when the Uranus person asks what an arrangement does before replacing it."
 sources:

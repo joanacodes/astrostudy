@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 239
 glyph: "♂△⚷"
-definition: "Mars trigone Chiron en synastrie signifie qu’environ 120°, à 5,1° près, séparent Mars, chez une personne, de Chiron chez l’autre, souvent dans un même élément. Ce que l’une veut faire et la façon dont l’autre contourne une limite s’accordent sans peine. J’y lis un soutien qui sait s’arrêter, à vérifier parfois pour ce qu’il coûte en silence."
+definition: "Mars trigone Chiron en synastrie signifie que le Chiron d’une personne et Mars chez l’autre se répondent à environ 120°, à 5,1° près, souvent dans un même élément. Ce que l’une veut faire et la façon dont l’autre contourne une limite s’accordent sans peine. J’y lis un soutien qui sait s’arrêter, à vérifier parfois pour son coût discret."
 facts:
   - { k: "Corps", v: "Mars ♂ de l’une, Chiron ⚷ de l’autre" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/mars", "/astrology/chiron", "/astrology/trine", "/astrology/mars-trine-chiron", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Mars trigone Chiron en synastrie ?"
-    a: "Mars, chez l’une, et Chiron, chez l’autre, forment un trigone, environ 120°, souvent à travers un même élément. La personne de Mars encourage en général sans trop appuyer, et la sagesse pratique de celle de Chiron aide l’effort de l’autre à durer. L’aspect décrit une coopération facile entre l’élan et l’adaptation."
+    a: "Chiron dans un thème, Mars dans l’autre : un trigone les relie, environ 120°, souvent à travers un même élément. La personne de Mars encourage en général sans trop appuyer, et la sagesse pratique de celle de Chiron aide l’effort de l’autre à durer. L’aspect décrit une coopération facile entre l’élan et l’adaptation."
   - q: "Est-ce que Mars trigone Chiron est un aspect qui soutient ?"
     a: "Ce trigone décrit un soutien qui vient facilement, et beaucoup de paires l’apprécient. Aucun contact ne garantit pour autant la façon dont deux personnes se traitent. Le trigone montre une disposition des deux côtés : encourager sans pousser, et partager ce qui marche autour d’une limite."
   - q: "Que peut cacher Mars trigone Chiron ?"
@@ -44,7 +44,7 @@ Ce qu’un trigone aussi lisse cache, c’est le prix à payer pour suivre. La p
 
 Il y a un risque plus subtil : croire que chaque difficulté doit devenir une sagesse. Toutes les limites que porte la personne de Chiron n’ont pas à devenir une leçon pour la paire ; certaines ont seulement besoin de place. L’aisance ne garantit rien, et ce courant demande lui aussi de l’attention.
 
-Mesurés depuis le trigone, les quatre autres contacts :
+Plus doux ou plus vifs, les quatre autres :
 
 - **[Mars conjonction Chiron en synastrie](/astrology/mars-conjunct-chiron-synastry/) :** l’élan se pose sur le point sensible, là où le rythme compte le plus.
 - **[Mars sextile Chiron en synastrie](/astrology/mars-sextile-chiron-synastry/) :** deux signes plus près, la même aide reste en attente d’une demande.

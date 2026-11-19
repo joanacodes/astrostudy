@@ -33,7 +33,7 @@ Picture a friend who keeps saying "you should try that" about the one thing you'
 
 ## What flows {#what-flows}
 
-[Mars](/astrology/mars/) is a person's drive: starting, pushing, competing, finishing. The [North Node](/astrology/north-node/) is a point, not a body, and it marks a direction: the skill a person reaches for least, which only grows by being used; the [South Node](/astrology/south-node/), exactly opposite, keeps what they could do in their sleep. A [conjunction](/astrology/conjunction/) fuses Mars with that point, and in the language of [synastry aspects](/astrology/synastry-aspects/), one person's push arrives at the other's growing edge, and so faces their comfort zone.
+[Mars](/astrology/mars/) is where a chart gets going: starting, pushing, competing, finishing. The [North Node](/astrology/north-node/) is a point, not a body, and it marks a direction: the skill a person reaches for least, which only grows by being used; the [South Node](/astrology/south-node/), exactly opposite, keeps what they could do in their sleep. A [conjunction](/astrology/conjunction/) fuses Mars with that point, and in the language of [synastry aspects](/astrology/synastry-aspects/), one person's push arrives at the other's growing edge, and so faces their comfort zone.
 
 If the node is yours, the less familiar thing you're practising gets an engine. Around this person you try it sooner and more often: the role you'd been circling, the habit you meant to start, the way of speaking up you never quite manage alone. If the Mars is yours, your initiative finds a use that matters to someone else, and you may enjoy being the reason they finally go first.
 
@@ -43,7 +43,7 @@ The signs give the growth its subject. With the North Node in Sagittarius, the p
 
 Growth practised under someone else's steam can turn into their project. The Mars person may start setting the pace of the other's development, impatient with how slowly a new capacity builds. The Node person can feel pushed off familiar ground before they're ready, because the same Mars sits opposite their South Node. Difficulty doesn't prove that a step is the right one, and there's no exam to fail here.
 
-[Venus conjunct North Node in synastry](/astrology/venus-conjunct-north-node-synastry/) brings affection to the same growing edge; this one brings effort, and effort can crowd. The pair's other angles:
+[Venus conjunct North Node in synastry](/astrology/venus-conjunct-north-node-synastry/) brings affection to the same growing edge; this one brings effort, and effort can crowd. The four others, for comparison:
 
 - **[Mars sextile North Node in synastry](/astrology/mars-sextile-north-node-synastry/):** a narrower door forward, and a smoother road home.
 - **[Mars square North Node in synastry](/astrology/mars-square-north-node-synastry/):** the push cuts across the axis instead of landing on one end.

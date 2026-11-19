@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 228
 glyph: "♂□♆"
-definition: "Mars carré Neptune en synastrie signifie qu’un quart du zodiaque, à 5,1° près, sépare Mars, chez une personne, de Neptune chez l’autre. L’élan de l’une rencontre de biais les idéaux de l’autre, et ce qui se fait diffère un peu de ce qui était imaginé. Pour moi, c’est une friction qui apprend à dire clairement ce qu’on veut."
+definition: "Mars carré Neptune en synastrie signifie qu’un quart du zodiaque, à 5,1° près, s’étend entre Mars, chez une personne, et Neptune, chez l’autre. L’élan de l’une rencontre de biais les idéaux de l’autre, et ce qui se fait diffère un peu de ce qu’on imaginait. Pour moi, c’est une friction qui apprend à dire clairement ce qu’on veut."
 facts:
   - { k: "Corps", v: "Mars ♂ de l’une, Neptune ♆ de l’autre" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/mars", "/astrology/neptune", "/astrology/square", "/astrology/mars-square-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Mars carré Neptune en synastrie ?"
-    a: "Mars, chez l’une, et Neptune, chez l’autre, se tiennent à un quart de zodiaque. L’élan de la première et les idéaux de la seconde se rencontrent sans cesse de biais : un effort qui vise une cible, une image qui en vise une autre. L’aspect décrit des attentes croisées que des mots simples démêlent, pas deux personnes mal assorties."
+    a: "Mars, chez l’une, et Neptune, chez l’autre, se tiennent à un quart de zodiaque. L’élan de l’une et les idéaux de l’autre se rencontrent sans cesse de biais : un effort qui vise une cible, une image qui en vise une autre. L’aspect décrit des attentes croisées que des mots simples démêlent, pas deux personnes mal assorties."
   - q: "Pourquoi se comprend-on si mal avec Mars carré Neptune ?"
     a: "Souvent parce que l’une agit d’après un plan pendant que l’autre décrit un espoir, et que les deux emploient les mêmes mots. Le carré ne rend personne malhonnête. Il montre l’endroit où l’intention et l’imagination doivent être vérifiées l’une par l’autre avant que quiconque se mette au travail."
   - q: "Est-ce que Mars carré Neptune peut marcher entre collègues ?"
@@ -36,7 +36,7 @@ L’une a fait exactement ce qu’on lui demandait ; l’autre avait imaginé 
 
 Ce que la friction rend possible, c’est la précision. La personne de Neptune, pressée de dire ce qu’elle entend vraiment, apprend à mettre un idéal en mots sur lesquels on peut agir. Celle de Mars, devant une image plus vaste que la tâche, apprend à viser ce à quoi sert l’effort, pas seulement l’étape suivante. Les paires qui ont ce carré finissent souvent plus douées pour les consignes, les promesses et les plans que celles qui n’ont jamais eu à vérifier.
 
-Les signes partagent en général un mode. Mars en Bélier carré Neptune en Capricorne, deux signes cardinaux : quelqu’un qui démarre vite, à côté d’un idéal de structures lentes et solides. Mars en Lion carré Neptune en Scorpion, deux signes fixes : une poussée entière, à côté d’un rêve de profondeur et d’intimité.
+Un carré relie le plus souvent deux signes du même mode. Avec Mars en Bélier et Neptune en Capricorne, signes cardinaux, quelqu’un qui démarre vite côtoie un idéal de structures lentes et solides ; avec Mars en Lion et Neptune en Scorpion, signes fixes, une poussée entière côtoie un rêve de profondeur et d’intimité.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

@@ -35,7 +35,7 @@ Deux personnes qui préfèrent toutes deux faire les choses à leur façon peuve
 
 [Mars](/astrology/mars/) est la volonté d’une personne en action : se lancer, fournir l’effort, se mesurer, tenir bon. La [Lune noire Lilith](/astrology/black-moon-lilith/) est l’apogée de la Lune, lissé en une trajectoire moyenne ; les lectures diffèrent, et la mienne y voit l’instinct d’autonomie, ce qu’on a appris à cacher, et un pouvoir qui ne répond à personne. Un [trigone](/astrology/trine/) fait marcher deux fonctions ensemble sans les confondre, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), celui-ci associe l’action et l’indépendance sans coût visible.
 
-Si Mars est de votre côté, vous vous sentez peut-être plus libre de sortir des conventions avec cette personne : le projet qui ferait hausser les sourcils ailleurs reçoit un oui enthousiaste. Si Lilith est de votre côté, votre indépendance rencontre de l’action plutôt que de l’inquiétude. Personne ne vous demande d’expliquer pourquoi vous ne faites pas comme d’habitude ; on vous aide à faire à votre façon.
+Avec Mars de votre côté, vous vous sentez peut-être plus libre de sortir des conventions avec cette personne : le projet qui ferait hausser les sourcils ailleurs reçoit un oui enthousiaste. Si Lilith est de votre côté, votre indépendance rencontre de l’action plutôt que de l’inquiétude. Personne ne vous demande d’expliquer pourquoi vous ne faites pas comme d’habitude ; on vous aide à faire à votre façon.
 
 L’élément donne le style. En terre, Mars en Taureau avec Lilith en Capricorne, c’est un refus tranquille de se presser et l’habitude commune de construire selon ses propres critères ; en air, Mars en Balance avec Lilith en Verseau, la liberté des idées et celle de changer d’avis ; en feu, au grand jour ; en eau, en privé et sur ses gardes.
 
@@ -45,9 +45,9 @@ L’accord facile a un angle mort : le moment où « notre façon » devient 
 
 Il y a aussi un risque vers l’extérieur : une paire si à l’aise pour contourner les règles peut cesser de voir qui d’autre ces règles protégeaient, ou oublier de s’expliquer auprès des gens qui l’entourent. L’aisance ne rend pas un choix sage, et le courant a toujours besoin d’être dirigé.
 
-Les autres contacts de la paire, à côté du trigone :
+La place du trigone parmi les autres :
 
-- **[Mars conjonction Lilith en synastrie](/astrology/mars-conjunct-lilith-synastry/) :** l’élan tombe sur le point indompté lui-même, avec bien plus de charge.
+- **[Mars conjonction Lilith en synastrie](/astrology/mars-conjunct-lilith-synastry/) :** la poussée rencontre de front le point indompté, avec bien plus de charge.
 - **[Mars sextile Lilith en synastrie](/astrology/mars-sextile-lilith-synastry/) :** une ouverture plus étroite, où quelqu’un doit faire le premier pas.
 - **[Mars carré Lilith en synastrie](/astrology/mars-square-lilith-synastry/) :** un signe plus près, et les deux se rencontrent comme poussée et refus.
 - **[Mars opposition Lilith en synastrie](/astrology/mars-opposite-lilith-synastry/) :** deux signes plus loin, chacune devient le côté sauvage de l’autre.
@@ -56,6 +56,6 @@ Les autres contacts de la paire, à côté du trigone :
 
 Gardez deux non séparés. Chacune garde au moins une chose qui reste sa décision, et vérifie de temps en temps que la façon de la paire est toujours celle de chaque personne. Expliquer vos choix aux gens autour de vous aide aussi, pour que votre indépendance commune ne passe pas pour du mépris. Cela convient aux cofondateurs, aux compagnons de voyage, aux frères et sœurs adultes qui partagent un rôle familial peu conventionnel.
 
-En comptant avec la Lilith moyenne, je trouve environ 1 paire de personnes sur 9 avec ce trigone, dans un sens ou dans l’autre, à 5,1° près. Le côté Lilith change en quelques mois, environ neuf par signe, si bien que la personne de Lilith ne le partage de près qu’avec une saison de naissances ; Mars, plus rapide, isole cette paire-là. Les deux corps bougent peu d’une heure à l’autre, si bien que l’heure de naissance change à peine le trigone ; les maisons, où la liberté commune s’exerce, demandent les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Mon carnet distingue trois placements, Saturne, Chiron et Lilith, qui ont tenu bien plus souvent que les autres ; mais il testait des thèmes individuels, si bien que ce trigone reçoit mon attention et pas de chiffre ([les trois qui ont tenu : Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/)).
+En comptant avec la Lilith moyenne, je trouve environ 1 paire de personnes sur 9 avec ce trigone, dans un sens ou dans l’autre, à 5,1° près. Le côté Lilith change en quelques mois, environ neuf par signe, si bien que la personne de Lilith ne le partage de près qu’avec une saison de naissances ; Mars, plus rapide, isole cette paire-là. Les deux corps bougent peu d’une heure à l’autre, si bien que l’heure de naissance change à peine le trigone ; les maisons, où la liberté commune s’exerce, demandent les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Mon carnet met à part trois placements, Saturne, Chiron et Lilith, pour avoir tenu bien plus souvent que le reste ; mais il testait des thèmes individuels, si bien que ce trigone reçoit mon attention et pas de chiffre ([les trois qui ont tenu : Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/)).
 
-Avec [Mars trigone Lilith](/astrology/mars-trine-lilith/) dans son propre thème, une personne porte les deux moitiés de cette alliance. Entre deux thèmes, l’alliance compte deux membres, et chacune garde sa voix.
+Quand [Mars trigone Lilith](/astrology/mars-trine-lilith/) se trouve dans un seul thème, la même personne porte les deux moitiés de cette alliance. Entre deux thèmes, l’alliance compte deux membres, et chacune garde sa voix.

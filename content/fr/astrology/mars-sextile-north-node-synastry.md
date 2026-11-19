@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 247
 glyph: "♂⚹☊"
-definition: "Mars sextile Nœud Nord en synastrie est un contact de 60°, à 3,6° près, entre Mars, chez une personne, et le Nœud Nord de l’autre, donc de 120° avec son Nœud Sud. L’élan de l’une ouvre une voie vers ce que l’autre apprend, et un chemin tranquille vers l’habitude. J’y lis un encouragement à offrir, jamais à imposer."
+definition: "Mars sextile Nœud Nord en synastrie relie Mars, chez une personne, au Nœud Nord de l’autre à 60°, à 3,6° près, et à son Nœud Sud à 120°. L’élan de l’une ouvre une voie vers ce que l’autre apprend, et un chemin tranquille vers l’habitude. J’y lis un encouragement à offrir, jamais à imposer."
 facts:
   - { k: "Corps", v: "Mars ♂ de l’une, le Nœud Nord ☊ de l’autre" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }

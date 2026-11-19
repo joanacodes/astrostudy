@@ -23,12 +23,12 @@ faq:
   - q: "Uranus carré Chiron veut-il dire que l’une blessera l’autre ?"
     a: "Non. Il ne prédit rien de ce qui se passera entre deux personnes. Il peut se montrer dans un changement qui arrive là où l’autre est le moins souple, et dans une prudence qui agace celle qui veut avancer. Si l’on en parle, cette friction donne souvent des arrangements qui conviennent aux deux."
   - q: "Qui a Uranus carré Chiron avec quelqu’un ?"
-    a: "Cela dépend des dates de naissance. Une personne née au milieu de 1965 et toute personne née entre décembre 1985 et juin 1986 l’ont dans les deux sens : Uranus, chez chacune, forme un carré avec le Chiron de l’autre. Des séries entières de naissances le partagent : je le lis par les maisons."
+    a: "Deux dates de naissance le fixent, jamais un choix. Une personne née au milieu de 1965 et toute personne née entre décembre 1985 et juin 1986 l’ont dans les deux sens : Uranus, chez chacune, forme un carré avec le Chiron de l’autre. Un double carré lié à de telles dates parle de deux cohortes plus que de deux personnes : je regarde donc les maisons."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, 90°, parmi les quatre aspects qu’il nomme" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Uranus, chez une personne, à 90° du Chiron d’une autre, à 3,4° près" }
 ---
-L’une déplace sans cesse les meubles ; l’autre a appris exactement où chacun doit se trouver. Avec Uranus carré Chiron en synastrie, Uranus, chez l’une, se trouve à environ 90° du Chiron de l’autre, à 3,4° près, et le changement arrive toujours sous l’angle où il coûte le plus à la seconde.
+L’une déplace sans cesse les meubles ; l’autre a appris exactement où chacun doit se trouver. Dans Uranus carré Chiron en synastrie, quelque 90° séparent Uranus, chez l’une, du Chiron de l’autre, à 3,4° près, et le changement arrive toujours sous l’angle où il coûte le plus à la seconde.
 
 ## Ce qui circule {#ce-qui-circule}
 

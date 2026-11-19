@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 247
 glyph: "♂⚹☊"
-definition: "Mars sextile North Node in synastry is a 60° contact, within 3.6°, from one person’s Mars to the other’s North Node, and so a 120° one to their South Node. One person’s drive offers an opening towards the other’s growth and a smooth way back to habit. I read it as encouragement that works when offered, never forced."
+definition: "Mars sextile North Node in synastry joins one person’s Mars to the other’s North Node at 60°, within 3.6°, and to their South Node at 120°. One person’s drive offers an opening towards the other’s growth and a smooth way back to habit. I read it as encouragement that works when offered, never forced."
 facts:
   - { k: "Bodies", v: "One person’s Mars ♂, the other’s North Node ☊" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -29,7 +29,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 3.6°, with the true node" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }
 ---
-There are two doors here, and one of them is easier to walk through. In Mars sextile North Node in synastry, the Mars of one person lies about 60° from the other's North Node and twice as far from their South Node: a modest opening towards growth, and a smooth road back to the familiar.
+There are two doors here, and one of them is easier to walk through. In Mars sextile North Node in synastry, the other's North Node sits about 60° from the Mars of one person, and their South Node twice as far: a modest opening towards growth, and a smooth road back to the familiar.
 
 ## What flows {#what-flows}
 

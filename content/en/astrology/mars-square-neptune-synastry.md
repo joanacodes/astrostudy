@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the square, 90°, from signs three apart" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 5.1°" }
 ---
-One of you did exactly what was asked; the other had pictured something else entirely. Mars square Neptune in synastry sets one person's Mars about 90° from the other's Neptune, and the gap between what gets done and what was imagined becomes something the two of you keep meeting.
+One of you did exactly what was asked; the other had pictured something else entirely. With Mars square Neptune in synastry, a right angle opens between one person's Mars and the other's Neptune, and the gap between what gets done and what was imagined becomes something the two of you keep running into.
 
 ## What flows {#what-flows}
 

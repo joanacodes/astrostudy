@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 235
 glyph: "♂☍♇"
-definition: "Mars opposition Pluton en synastrie signifie que 180°, à 6° près, séparent Mars, chez une personne, de Pluton chez l’autre. Chacune trouve chez l’autre une force dont elle se sert moins, la franchise ou la profondeur, et la paire règle sans cesse un équilibre des forces. J’y lis une balançoire que deux adultes peuvent partager, jamais une inimitié."
+definition: "Mars opposition Pluton en synastrie signifie que Mars, chez une personne, occupe le pôle opposé à Pluton chez l’autre : 180°, à 6° près. Chacune trouve chez l’autre une force dont elle se sert moins, franchise ou profondeur, et la paire règle sans cesse un équilibre des forces. J’y lis une balançoire que deux adultes peuvent partager, jamais une inimitié."
 facts:
   - { k: "Corps", v: "Mars ♂ de l’une, Pluton ♇ de l’autre" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/mars", "/astrology/pluto", "/astrology/opposition", "/astrology/mars-opposite-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Mars opposition Pluton en synastrie ?"
-    a: "À 6° près, Mars, chez l’une, et Pluton, chez l’autre, se trouvent aux deux bouts du zodiaque. La personne de Mars apporte la franchise et l’élan, celle de Pluton la profondeur et l’endurance, et chacune trouve chez l’autre la force dont elle se sert moins. L’aspect décrit un équilibre des forces que deux personnes règlent entre elles."
+    a: "Aux deux bouts du zodiaque, à 6° près : Mars chez l’une, Pluton chez l’autre. La personne de Mars apporte la franchise et l’élan, celle de Pluton la profondeur et l’endurance, et chacune trouve chez l’autre la force dont elle se sert moins. L’aspect décrit un équilibre des forces que deux personnes règlent entre elles."
   - q: "Est-ce que Mars opposition Pluton est un aspect dangereux en synastrie ?"
     a: "Aucun aspect n’est dangereux, et aucun ne prédit la façon dont les gens se conduiront. Cette opposition décrit deux manières fortes d’employer l’énergie qui se font face, ce qui rend visibles les questions de pouvoir. Une balançoire n’est pas un champ de bataille : des accords clairs et des tours de rôle la gardent à niveau."
   - q: "Qui a le pouvoir avec Mars opposition Pluton ?"
@@ -36,7 +36,7 @@ Deux courants puissants, face à face : l’un pousse vers l’extérieur, l’
 
 Si Mars est chez vous, Pluton, chez l’autre, peut vous apprendre la profondeur et la patience : certaines choses ne changent que lorsqu’on arrête de pousser pour regarder dessous. Si Pluton est chez vous, Mars, chez l’autre, peut vous apprendre la franchise et la vitesse : une décision pesée pendant des mois peut tout simplement se prendre. Ensemble, vous couvrez les deux sortes de force, la rapide et la profonde.
 
-Des signes opposés avancent de la même manière et veulent des choses complémentaires. Mars en Verseau opposition Pluton en Lion, deux signes fixes : une poussée inventive et indépendante face à une envie de rebâtir la fierté et la création jusqu’à la racine. Mars en Bélier opposition Pluton en Balance, deux signes cardinaux : une poussée solitaire face à un profond désir de refaire la façon dont on vit à deux.
+Des signes opposés avancent de la même manière et veulent des choses complémentaires. Prenez Mars en Verseau et Pluton en Lion, deux signes fixes : une poussée inventive et indépendante y fait face à une envie de rebâtir la fierté et la création jusqu’à la racine. Prenez Mars en Bélier et Pluton en Balance, deux signes cardinaux : une poussée solitaire y fait face à un profond désir de refaire la façon dont on vit à deux.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
@@ -53,8 +53,8 @@ Les deux mêmes forces, à d’autres angles :
 
 ## Comment le vivre {#comment-le-vivre}
 
-Rendez les accords explicites et menez à tour de rôle. Décidez quels domaines reviennent à qui, et échangez de temps en temps, pour qu’aucune ne soit toujours celle qui pousse ou toujours celle qui tient bon. Le travail consiste à tenir une position sans avoir besoin de l’emporter, et à laisser à l’autre la place de tenir la sienne. En couple, alternez qui tranche les grandes décisions ; au travail, des rôles écrits ; entre un enfant adulte et un parent, une renégociation de qui a son mot à dire sur quoi ; entre amis, une franchise aux limites convenues.
+Rendez les accords explicites et menez à tour de rôle. Décidez quels domaines reviennent à qui, et échangez de temps en temps, pour qu’aucune ne soit toujours celle qui pousse ou toujours celle qui tient bon. Le travail consiste à tenir une position sans avoir besoin de l’emporter, et à laisser à l’autre la place de tenir la sienne. En couple, alternez qui tranche les grandes décisions ; au travail, des rôles écrits ; entre un parent et un enfant désormais adulte, une renégociation de qui a son mot à dire sur quoi ; entre amis, une franchise aux limites convenues.
 
-Aucun contact de la paire n’est plus rare : environ 1 paire de personnes sur 17 l’a, dans un sens ou dans l’autre, à 6° près. Le bout Pluton de la balançoire est partagé avec toute la génération de la personne de Pluton, puisque Pluton s’attarde de 12 à 31 ans dans chaque signe ; le bout Mars, fixé en quelques semaines, installe cette paire-là. L’heure ne déplace guère Mars ni Pluton, mais les maisons montrent dans quelles parts de chaque vie l’équilibre se cherche, et il y faut les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Les deux le sentent fortement, et aucune ne devrait en entendre parler de seconde main : la lecture est pour les deux ensemble ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Aucun contact de la paire n’est plus rare : environ 1 paire de personnes sur 17 l’a, dans un sens ou dans l’autre, à 6° près. Le bout Pluton de la balançoire est partagé avec toute la génération de la personne de Pluton, puisque Pluton s’attarde dans un signe de 12 à 31 ans ; le bout Mars, fixé en quelques semaines, installe cette paire-là. L’heure ne déplace guère Mars ni Pluton, mais les maisons montrent dans quelles parts de chaque vie l’équilibre se cherche, et il y faut les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Les deux le sentent fortement, et aucune ne devrait en entendre parler de seconde main : la lecture est pour les deux ensemble ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
 
 Chez quelqu’un qui est né avec [Mars opposition Pluton](/astrology/mars-opposite-pluto/), ce sont souvent d’autres gens qui portent un temps le bout Pluton. Entre deux thèmes, chaque personne porte vraiment un bout, et les deux peuvent se passer le poids de l’une à l’autre.

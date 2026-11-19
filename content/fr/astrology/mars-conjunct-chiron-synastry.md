@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 236
 glyph: "♂☌⚷"
-definition: "Mars conjonction Chiron en synastrie signifie que Mars, chez une personne, se trouve sur Chiron chez l’autre, à 6° près. L’élan de l’une arrive là où l’autre a appris à contourner une limite durable : l’encouragement et la pression y sont tout proches. J’y lis un contact qui marche quand la personne de Chiron donne le rythme."
+definition: "Mars conjonction Chiron en synastrie signifie que Mars, chez une personne, recouvre Chiron chez l’autre, à 6° près. L’élan de l’une arrive là où l’autre a dû composer avec une limite tenace : l’encouragement et la pression y sont tout proches. J’y lis un contact qui marche quand la personne de Chiron donne le rythme."
 facts:
   - { k: "Corps", v: "Mars ♂ de l’une, Chiron ⚷ de l’autre" }
   - { k: "Aspect", v: "Conjonction ☌, 0°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/mars", "/astrology/chiron", "/astrology/conjunction", "/astrology/mars-conjunct-chiron", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Mars conjonction Chiron en synastrie ?"
-    a: "Mars, chez l’une, se trouve sur Chiron chez l’autre, à 6° près. L’élan de la personne de Mars tombe exactement là où celle de Chiron a dû s’adapter à une limite durable. On peut y trouver un encouragement à réessayer, ou une poussée là où c’est sensible, et la différence tient surtout au rythme et au fait de demander."
+    a: "Mars, dans un thème, touche Chiron dans l’autre, à 6° près. L’élan de la personne de Mars tombe exactement là où celle de Chiron a dû s’adapter à une limite durable. On peut y trouver un encouragement à réessayer, ou une poussée là où c’est sensible, et la différence tient surtout au rythme et au fait de demander."
   - q: "Est-ce que Mars conjonction Chiron veut dire que l’une blessera l’autre ?"
     a: "Aucun contact n’en décide, et celui-ci ne prédit rien. Il montre où l’énergie de l’une rencontre la sensibilité de l’autre. Sans qu’on demande, cela peut piquer ; offerte au rythme de l’autre, cette énergie peut l’aider à reprendre part à ce qu’elle avait mis de côté. Le choix appartient aux personnes, pas au thème."
   - q: "Est-ce que Mars conjonction Chiron est un contact qui guérit ?"
@@ -52,8 +52,8 @@ Là où [Mars conjonction Saturne en synastrie](/astrology/mars-conjunct-saturn-
 
 ## Comment le vivre {#comment-le-vivre}
 
-Laissez la personne de Chiron donner le rythme, et nommer l’ajustement qui marche : des séances plus courtes, un autre outil, de la compagnie ou pas. La personne de Mars peut vérifier d’abord, un coup de pouce ou un coup de main, et prendre la réponse au pied de la lettre. En couple, ce peut être une peur portée depuis des années par l’une des deux personnes ; entre frères et sœurs, un permis de conduire passé tard, avec l’autre sur le siège passager.
+Le rythme revient à la personne de Chiron, tout comme le choix de l’ajustement qui marche : des séances plus courtes, un autre outil, de la compagnie ou pas. La personne de Mars peut vérifier d’abord, un coup de pouce ou un coup de main, et prendre la réponse au pied de la lettre. En couple, ce peut être une peur portée depuis des années par l’une des deux personnes ; entre frères et sœurs, un permis de conduire passé tard, avec l’autre sur le siège passager.
 
-Des cinq contacts de la paire, c’est le moins courant : environ 1 paire de personnes sur 16 l’a, dans un sens ou dans l’autre, à 6° près. La foule qui partage la position de Chiron de cette personne varie selon le signe : en Bélier ou en Poissons, où Chiron s’attarde environ huit ans, une foule nombreuse ; en Vierge ou en Balance, moins de deux ans, une petite. Mars, qui ne reste que quelques semaines, fait de cette rencontre celle de ces deux personnes. Les heures décident quelle maison de chaque thème la reçoit ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Chiron fait partie des trois placements, avec Saturne et Lilith, qui ont tenu 75 à 90 % du temps quand j’ai testé des thèmes ; j’ai testé des thèmes individuels, pas des contacts entre deux personnes, et celui-ci reste donc sans chiffre ([les trois qui ont tenu : Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/)). Nommer le point sensible de quelqu’un est intime : je ne le fais qu’à la demande des deux ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Des cinq contacts de la paire, c’est le moins courant : environ 1 paire de personnes sur 16 l’a, dans un sens ou dans l’autre, à 6° près. La foule qui partage la position de Chiron de cette personne varie selon le signe : en Bélier ou en Poissons, où Chiron s’attarde environ huit ans, une foule nombreuse ; en Vierge ou en Balance, moins de deux ans, une petite. Mars, qui ne reste que quelques semaines, fait de cette rencontre celle de ces deux personnes. Les heures décident quelle maison de chaque thème la reçoit ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Saturne, Chiron et Lilith ont tenu 75 à 90 % du temps dans mon carnet, mais chaque coche y allait au thème d’une seule personne ; les paires n’y ont jamais été notées, si bien que le carnet ne dit rien de cette conjonction ([les trois qui ont tenu : Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/)). Nommer le point sensible de quelqu’un est intime : je ne le fais qu’à la demande des deux ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
 
 À l’échelle d’une seule personne, [Mars conjonction Chiron](/astrology/mars-conjunct-chiron/) est un courage façonné par l’obligation de s’adapter. Partagé entre deux, ce courage s’offre, et l’adaptation se respecte.

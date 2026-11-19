@@ -31,11 +31,11 @@ In some pairs, one person keeps the diary and the other keeps the dream. Mars op
 
 ## What flows {#what-flows}
 
-[Mars](/astrology/mars/) moves a person forward: initiative, effort, assertion, a boundary held. [Neptune](/astrology/neptune/) lets them see past the edges: imagination, compassion, ideals, a sense of something larger. Across an [opposition](/astrology/opposition/) the two stand opposite, and that way each is easier to see than side by side; of the pair's [synastry aspects](/astrology/synastry-aspects/), it's the one where each person most visibly holds what the other practises less.
+[Mars](/astrology/mars/) moves a person forward: initiative, effort, assertion, a boundary held. [Neptune](/astrology/neptune/) lets them see past the edges: to imagine, to feel for others, to hold an ideal, to sense a larger whole. Across an [opposition](/astrology/opposition/) the two stand opposite, and that way each is easier to see than side by side; of the pair's [synastry aspects](/astrology/synastry-aspects/), it's the one where each person most visibly holds what the other practises less.
 
 Facing your Mars, the other person's Neptune can remind you why effort matters at all: they see the meaning in what you're doing, sometimes before you do. Facing your Neptune, their Mars shows you what your ideals look like once someone acts on them. Together you can cover a lot of ground, one of you dreaming up the next thing, the other getting it started.
 
-Signs that face each other move in the same way and have elements that fill each other's gaps. Mars in Taurus opposite Neptune in Scorpio, both fixed, sets steady, practical effort across from an ideal of depth; Mars in Gemini opposite Neptune in Sagittarius, both mutable, a quick, versatile drive across from a dream of wide horizons.
+Signs that face each other move in the same way and have elements that fill each other's gaps. Mars in Taurus facing Neptune in Scorpio puts steady, practical effort on the fixed axis, across from an ideal of depth; Mars in Gemini facing Neptune in Sagittarius puts a quick, versatile drive on the mutable one, across from a dream of wide horizons.
 
 ## Where it rubs {#where-it-rubs}
 

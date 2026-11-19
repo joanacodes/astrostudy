@@ -43,7 +43,7 @@ A current isn't a course, and nothing about ease makes an outcome certain. Becau
 
 From the Mars side, the quiet risk is that your drive follows the other's moods and hopes rather than your own aims. From the Neptune side, it's assuming that feeling so attuned to them tells you what they want: empathy isn't accurate knowledge of another person, and a trine can make it feel as if it were.
 
-Next to the trine, the other four:
+To place this trine among the others:
 
 - **[Mars conjunct Neptune in synastry](/astrology/mars-conjunct-neptune-synastry/):** the push lands on the dream itself, closer and less relaxed.
 - **[Mars sextile Neptune in synastry](/astrology/mars-sextile-neptune-synastry/):** two signs nearer, help is there but waits to be invited.

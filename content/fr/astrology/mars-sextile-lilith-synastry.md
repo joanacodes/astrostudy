@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 242
 glyph: "♂⚹⚸"
-definition: "Mars sextile Lilith en synastrie signifie que Mars, chez une personne, et la Lune noire Lilith moyenne, chez l’autre, forment un angle de 60°, à 3,6° près. L’initiative d’un côté et l’indépendance de l’autre coopèrent, et l’option hors des sentiers battus devient plus facile à prendre. J’y lis une invitation à faire autrement, qu’il faut accepter."
+definition: "Mars sextile Lilith en synastrie signifie qu’un angle de 60°, à 3,6° près, lie Mars, chez une personne, à la Lune noire Lilith moyenne de l’autre. L’initiative d’un côté et l’indépendance de l’autre coopèrent, et l’option hors des sentiers battus devient plus facile à prendre. J’y lis une invitation à faire autrement, qu’il faut accepter."
 facts:
   - { k: "Corps", v: "Mars ♂ de l’une, la Lune noire Lilith ⚸ de l’autre" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }

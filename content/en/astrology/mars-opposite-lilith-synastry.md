@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/black-moon-lilith", "/astrology/opposition", "/astrology/mars-opposite-lilith", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Mars opposite Lilith mean in synastry?"
-    a: "Within 6°, the Mars of one person faces the mean Black Moon Lilith of the other. The Mars person brings open, direct drive; the Lilith person, an independence that won’t be managed. Each sees in the other the force they use less, which can intrigue and unsettle in equal measure."
+    a: "The mean Black Moon Lilith of one person and the Mars of the other face each other, within 6°. The Mars person brings open, direct drive; the Lilith person, an independence that won’t be managed. Each sees in the other the force they use less, which can intrigue and unsettle in equal measure."
   - q: "Is Mars opposite Lilith a sign of conflict?"
     a: "No. Two ends of one seesaw aren’t two sides of a quarrel, and Lilith doesn’t brand anyone. This contact describes a pull between two kinds of strength. It becomes hard when one tries to tame the other, and easier when each lets the other keep their own way of acting."
   - q: "Why does Mars opposite Lilith fascinate early on?"
@@ -36,7 +36,7 @@ Each of you can look like the wild one to the other. In Mars opposite Lilith in 
 
 If the Mars is yours, the other's Lilith shows you a freedom you may not use: the plain refusal, the route nobody approved, the untroubled no. If Lilith is yours, their Mars shows you something just as foreign: drive that asks nobody's permission because it never thought it needed any.
 
-The two signs face each other across one modality. Mars in Cancer opposite Lilith in Capricorn, both cardinal, sets a protective, home-focused drive across from a refusal to bow to anyone's authority; Mars in Sagittarius opposite Lilith in Gemini, both mutable, a push towards the big picture across from an untamed, restless mind.
+The two signs face each other across one modality. Between Mars in Cancer and Lilith in Capricorn the axis is cardinal: a protective, home-focused drive across from a refusal to bow to anyone's authority. Between Mars in Sagittarius and Lilith in Gemini it turns mutable: a push towards the big picture across from an untamed, restless mind.
 
 ## Where it rubs {#where-it-rubs}
 

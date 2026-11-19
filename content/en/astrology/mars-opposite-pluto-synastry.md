@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 235
 glyph: "♂☍♇"
-definition: "Mars opposite Pluto in synastry means one person’s Mars and the other’s Pluto are 180° apart, within 6°. Each meets in the other a strength they use less, directness in one, depth in the other, so the pair keeps working out a balance of power. To me it's a seesaw two adults can share, never enmity."
+definition: "Mars opposite Pluto in synastry means one person’s Mars stands at the far pole from the other’s Pluto, 180° away within 6°. Each meets in the other a strength they use less, directness or depth, so the pair keeps working out a balance of power. To me it's a seesaw two adults can share, never enmity."
 facts:
   - { k: "Bodies", v: "One person’s Mars ♂, the other’s Pluto ♇" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/pluto", "/astrology/opposition", "/astrology/mars-opposite-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Mars opposite Pluto mean in synastry?"
-    a: "Within 6°, the Mars of one person and the Pluto of the other lie at opposite ends of the zodiac. The Mars person brings directness and drive, the Pluto person depth and staying power, and each meets in the other the strength they use less. It describes a balance of power that two people work out between them."
+    a: "One person’s Mars and the other’s Pluto hold opposite ends of the zodiac, within 6°. The Mars person brings directness and drive, the Pluto person depth and staying power, and each meets in the other the strength they use less. It describes a balance of power that two people work out between them."
   - q: "Is Mars opposite Pluto a dangerous aspect in synastry?"
     a: "No aspect is dangerous, and none predicts how people will behave. This opposition describes two strong ways of using energy facing each other, which makes questions of power visible. A seesaw isn't a battlefield; clear agreements and taking turns keep it level."
   - q: "Who holds the power in Mars opposite Pluto?"
@@ -35,7 +35,7 @@ Two strong currents, facing each other: one pushes outward, the other pulls thin
 
 Facing your Mars, the other person's Pluto can teach you depth and patience: that some things change only when you stop pushing and look underneath. Facing your Pluto, their Mars can teach you directness and speed: that a decision you've weighed for months can simply be made. Together you cover both kinds of strength, quick and deep.
 
-Opposite signs move in the same manner and want complementary things. Mars in Aquarius opposite Pluto in Leo, both fixed, sets an inventive, independent push across from an urge to rebuild pride and creativity from the root; Mars in Aries opposite Pluto in Libra, both cardinal, a go-it-alone push across from a deep wish to remake how partnership works.
+Opposite signs move in the same manner and want complementary things. Take Mars in Aquarius and Pluto in Leo, both fixed: an inventive, independent push meets an urge to rebuild pride and creativity from the root. Take Mars in Aries and Pluto in Libra, both cardinal: a go-it-alone push meets a deep wish to remake how partnership works.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -52,7 +52,7 @@ The same two strengths at other angles:
 
 ## How to meet it {#how-to-meet-it}
 
-Make agreements explicit and take turns leading. Decide which areas belong to whom, and swap now and then so neither of you is always the one pushing or always the one holding firm. The practice is to hold a position without having to come out on top, and to leave the other room to hold theirs. In a couple, alternate who decides the big things; at work, roles on paper; between an adult child and a parent, a renegotiation of who has a say in what; between friends, honesty with agreed edges.
+Make agreements explicit and take turns leading. Decide which areas belong to whom, and swap now and then so neither of you is always the one pushing or always the one holding firm. The practice is to hold a position without having to come out on top, and to leave the other room to hold theirs. In a couple, alternate who decides the big things; at work, roles on paper; between a parent and a grown-up child, a renegotiation of who has a say in what; between friends, honesty with agreed edges.
 
 This is the rarest contact of the pair: about 1 pair of people in 17 has it, one way round or the other, within 6°. The Pluto end of the seesaw is shared with the Pluto person's whole generation, since a sign holds Pluto for 12 to 31 years; the Mars end, set within a few weeks, seats this particular pair. The hour barely moves either body, but the houses show which parts of each life the balancing happens in, and those need both times ([what changes without a birth time](/blog/unknown-birth-time/)). Both of you feel it strongly, and neither should hear about it second-hand: a reading of it is for the two of you together ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
 

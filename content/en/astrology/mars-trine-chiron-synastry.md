@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 239
 glyph: "♂△⚷"
-definition: "Mars trine Chiron in synastry means one person’s Mars and the other’s Chiron are about 120° apart, within 5.1°, often in one element. One person’s drive and the other’s way of adapting around a limit work together easily. I read it as support that knows when to stop, worth checking now and then for what it quietly costs."
+definition: "Mars trine Chiron in synastry means one person’s Mars has the other’s Chiron about 120° away, within 5.1°, often in one element. One person’s drive and the other’s way of adapting around a limit work together easily. I read it as support that knows when to stop, worth checking now and then for what it quietly costs."
 facts:
   - { k: "Bodies", v: "One person’s Mars ♂, the other’s Chiron ⚷" }
   - { k: "Aspect", v: "Trine △, 120°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/chiron", "/astrology/trine", "/astrology/mars-trine-chiron", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Mars trine Chiron mean in synastry?"
-    a: "One person’s Mars and the other’s Chiron form a trine, about 120°, often across one element. The Mars person tends to encourage without pressing too hard, and the Chiron person’s practical wisdom helps the other’s effort last. It describes easy cooperation between drive and adaptation."
+    a: "Chiron in one chart and Mars in the other stand a trine apart, about 120°, often across one element. The Mars person tends to encourage without pressing too hard, and the Chiron person’s practical wisdom helps the other’s effort last. It describes easy cooperation between drive and adaptation."
   - q: "Is Mars trine Chiron a supportive aspect?"
     a: "It describes support that comes easily, which many pairs enjoy. No contact guarantees how two people treat each other, though. The trine shows a readiness on both sides: to encourage without pushing, and to share what works around a limit."
   - q: "What can Mars trine Chiron hide?"
@@ -43,7 +43,7 @@ What a trine this smooth hides is the cost of keeping up. The Chiron person may 
 
 There's a subtler risk too: assuming every difficulty has to turn into wisdom. Not every limit the Chiron person carries needs to become a lesson for the pair; some just need room. Ease is no guarantee, and the flow here still asks for attention.
 
-Measured from the trine, the other four contacts:
+Gentler or sharper, the other four:
 
 - **[Mars conjunct Chiron in synastry](/astrology/mars-conjunct-chiron-synastry/):** the drive sits right on the tender place, where pace matters most.
 - **[Mars sextile Chiron in synastry](/astrology/mars-sextile-chiron-synastry/):** two signs nearer, the same help waits for a request.

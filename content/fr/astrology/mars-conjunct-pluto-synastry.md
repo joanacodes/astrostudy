@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 231
 glyph: "♂☌♇"
-definition: "Mars conjonction Pluton en synastrie signifie que moins de 6° séparent Mars, chez une personne, de Pluton chez l’autre. L’élan de l’une tombe sur la capacité de l’autre à changer en profondeur, et l’effort commun va volontiers jusqu’au fond. J’y lis une force concentrée, à tourner vers un but partagé, en gardant le pouvoir à sa juste mesure."
+definition: "Mars conjonction Pluton en synastrie signifie que Mars, chez une personne, et Pluton, chez l’autre, ont moins de 6° d’écart. L’élan de l’une tombe sur la capacité de l’autre à changer en profondeur, et l’effort commun va volontiers jusqu’au fond. J’y lis une force concentrée, à tourner vers un but partagé, en gardant le pouvoir à sa juste mesure."
 facts:
   - { k: "Corps", v: "Mars ♂ de l’une, Pluton ♇ de l’autre" }
   - { k: "Aspect", v: "Conjonction ☌, 0°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/mars", "/astrology/pluto", "/astrology/conjunction", "/astrology/mars-conjunct-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Mars conjonction Pluton en synastrie ?"
-    a: "Au plus 6° séparent Mars, chez l’une, de Pluton chez l’autre : l’élan de la première rencontre sur le même degré l’envie de transformer de la seconde. Ensemble, l’effort se fait volontiers complet et entier. L’aspect décrit une intensité entre deux personnes, qui peut beaucoup renouveler quand on la tourne vers un but choisi à deux."
+    a: "Pas plus de 6° entre Mars, chez l’une, et Pluton, chez l’autre : l’élan de la première rencontre sur le même degré l’envie de transformer de la seconde. Ensemble, l’effort se fait volontiers complet et entier. L’aspect décrit une intensité entre deux personnes, qui peut beaucoup renouveler quand on la tourne vers un but choisi à deux."
   - q: "Est-ce que Mars conjonction Pluton est une lutte de pouvoir ?"
     a: "Pas forcément. Le contact fait remonter des questions de pouvoir et de rythme, parce que la force des deux personnes est engagée en même temps. Pluton représente le fait de gagner en force, pas la domination ; Mars, l’affirmation, pas l’agression. Convenir de qui décide de quoi en fait un partenariat."
   - q: "Pourquoi tant d’intensité avec Mars conjonction Pluton ?"
@@ -50,7 +50,7 @@ Dépliés vers d’autres angles, le même élan et la même profondeur se compo
 - **[Mars sextile Pluton en synastrie](/astrology/mars-sextile-pluto-synastry/) :** une alliance de travail, sollicitée quand une tâche l’exige plutôt que branchée en permanence.
 - **[Mars carré Pluton en synastrie](/astrology/mars-square-pluto-synastry/) :** le rythme et la profondeur pèsent de côté l’un sur l’autre.
 - **[Mars trigone Pluton en synastrie](/astrology/mars-trine-pluto-synastry/) :** une endurance partagée à travers un élément, régulière plutôt que concentrée.
-- **[Mars opposition Pluton en synastrie](/astrology/mars-opposite-pluto-synastry/) :** les deux forces se font face, et l’équilibre reste à trouver.
+- **[Mars opposition Pluton en synastrie](/astrology/mars-opposite-pluto-synastry/) :** les deux forces face à face, et un pouvoir à garder en balance.
 
 ## Comment le vivre {#comment-le-vivre}
 

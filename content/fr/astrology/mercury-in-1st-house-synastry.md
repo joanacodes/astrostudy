@@ -2,13 +2,13 @@
 title: "Mercure de l’autre dans votre maison 1"
 slug: "mercure-en-maison-1-synastrie"
 h1: "Mercure de l’autre dans votre maison 1 en synastrie"
-description: "Mercure de l’autre dans votre maison 1 en synastrie : sa façon de penser et de parler tournée vers votre allure, vécue des deux côtés, et ce que décident les heures."
+description: "Mercure de l’autre dans votre maison 1 en synastrie : sa pensée et sa parole tournées vers votre allure, vécues des deux côtés, et ce que décident les heures."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 25
 glyph: "☿"
-definition: "Mercure de l’autre dans votre maison 1 place la planète de la pensée et de la parole de cette personne dans la maison de votre allure et de la première impression. En synastrie, elle vous remarque à voix haute et met des mots sur votre manière d’être ; à ses côtés, vous pensez plus vite, vous parlez davantage, et l’on vous lit plus facilement."
+definition: "Avec Mercure de l’autre dans votre maison 1, la planète de la pensée et de la parole de cette personne occupe la maison de votre allure. En synastrie, elle vous remarque à voix haute et met des mots sur votre manière d’être ; à ses côtés, vous pensez plus vite, vous parlez davantage, et l’on vous lit plus facilement."
 facts:
   - { k: "Corps de l’autre", v: "Mercure de l’autre ☿" }
   - { k: "Votre maison", v: "La maison 1, la façon dont vous apparaissez" }
@@ -18,10 +18,10 @@ facts:
 related: ["/astrology/mercury", "/astrology/1st-house", "/astrology/house-overlays", "/astrology/ascendant", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire Mercure de l’autre dans ma maison 1 ?"
-    a: "Sa façon de penser et de parler se pose sur la part de votre thème que l’on rencontre en premier : votre allure, votre corps, vos premières réactions. Cette personne vous remarque souvent à voix haute, et à ses côtés vous pensez plus vite, vous en dites plus. Cela décrit où va son attention, pas ce que deviendra votre lien."
+    a: "Sa façon de penser et de parler se pose sur la part de votre thème que l’on rencontre en premier : votre apparence, vos gestes, votre façon de vous lancer. Cette personne vous remarque à voix haute, et à ses côtés vous pensez plus vite, vous en dites plus. Cela décrit où va son attention, pas ce que deviendra votre lien."
   - q: "Pourquoi cette personne commente-t-elle sans cesse ma façon d’apparaître ?"
     a: "Parce que votre allure est l’endroit où son esprit se pose. Avec Mercure de l’autre dans votre maison 1, vous êtes le sujet vers lequel sa curiosité revient, et elle pense à voix haute. C’est surtout de l’intérêt, pas de la critique ; quand une remarque pique, lui demander d’où elle vient en refait une conversation."
-  - q: "Que vit-on quand Mercure, dans son propre thème, tombe dans la maison 1 de l’autre ?"
+  - q: "Et quand c’est Mercure, dans mon thème, qui tombe dans la maison 1 de l’autre ?"
     a: "Souvent, cette personne attire votre regard et vous avez du mal à ne pas la décrire. Sa façon d’arriver met vos pensées en route, et vous vous entendez parfois nommer ce que vous voyez en elle avant de l’avoir décidé. Gardez des observations généreuses, et demandez lesquelles elle a envie d’entendre."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
@@ -35,7 +35,7 @@ Avec Mercure de l’autre dans votre maison 1, la pensée d’une autre personne
 
 De votre côté, cela peut ressembler à la première fois qu’on vous décrit avec une vraie attention. Cette personne met des mots sur votre façon d’entrer dans une pièce ou de prendre un problème, vous pose des questions directes sur vous-même, et vous trouve peut-être un surnom en une semaine. À ses côtés, vous pensez sans doute plus vite, vous répondez sans avoir répété, et vous sortez d’une conversation en sachant un peu mieux de quoi vous avez l’air vu du dehors.
 
-Pour l’autre, vous êtes un sujet de réflexion. Votre manière d’être soulève des questions auxquelles cette personne veut répondre, et ses idées arrivent plus vite quand vous êtes dans la pièce. La maison 1 est angulaire, la plus visible des familles de maisons, et son signe naturel est le [Bélier](/astrology/aries/), prompt à démarrer. La tradition y plaçait la joie de Mercure : dans un thème natal, la pensée s’y sent chez elle, dans la maison du moi. D’un thème à l’autre, cette joie n’est qu’empruntée, mais elle aide à comprendre pourquoi ses pensées se posent si volontiers sur vous.
+Pour l’autre, vous êtes un sujet de réflexion. Votre manière d’être soulève des questions auxquelles cette personne veut répondre, et ses idées arrivent plus vite quand vous êtes dans la pièce. Angulaire, la maison 1 a pour signe naturel le [Bélier](/astrology/aries/), prompt à démarrer. La tradition y plaçait la joie de Mercure : dans un thème natal, la pensée s’y sent chez elle, dans la maison du moi. D’un thème à l’autre, cette joie n’est qu’empruntée, mais elle aide à comprendre pourquoi ses pensées se posent si volontiers sur vous.
 
 À quelques degrés de votre [ascendant](/astrology/ascendant/), Mercure de l’autre forme aussi une conjonction avec lui, et ses mots tombent sur le point même d’où se lève votre thème.
 
@@ -51,6 +51,6 @@ Mercure décrit les habitudes d’un esprit, pas des intentions : cette superpo
 
 Demandez les observations qui vous seraient utiles, et dites celles que vous préférez ne pas entendre. Un simple « qu’est-ce qui te fait dire ça ? » transforme une remarque en conversation. Dans un couple, savourez cette attention et gardez les remarques sur l’apparence rares et bienveillantes ; entre amis, c’est peut-être la voix franche à qui vous soumettez une première impression avant un entretien ; entre collègues, la personne qui vous dit clairement comment votre présentation est passée ; entre frères et sœurs adultes, celle qui vous raconte encore comme autrefois, et à qui l’on peut demander de mettre l’histoire à jour.
 
-Retournez les deux thèmes : c’est alors vous qui ne pouvez vous empêcher de mettre l’autre en mots, et cela s’appelle votre Mercure dans sa maison 1. Les maisons voisines changent de sujet. [Mercure de l’autre dans votre maison 12](/astrology/mercury-in-12th-house-synastry/) parle de ce que vous taisez, et [Mercure de l’autre dans votre maison 2](/astrology/mercury-in-2nd-house-synastry/) de ce que vous estimez et de la façon dont vous le pesez.
+Retournez les deux thèmes : c’est alors vous qui ne pouvez vous empêcher de mettre l’autre en mots, et cela s’appelle votre Mercure dans sa maison 1. Reculez Mercure d’une maison et ses pensées rejoignent ce que vous laissez sans le dire ([Mercure de l’autre dans votre maison 12](/astrology/mercury-in-12th-house-synastry/)) ; avancez Mercure d’une maison et ses pensées se mettent à peser ce que vous possédez et estimez ([Mercure de l’autre dans votre maison 2](/astrology/mercury-in-2nd-house-synastry/)).
 
-Votre ascendant avance d’environ un degré toutes les quatre minutes : en Placidus, le système de maisons que j’utilise, votre heure de naissance décide donc si Mercure de l’autre, près de cette ligne, tombe dans votre maison 12 ou dans votre maison 1. L’heure de l’autre compte moins : Mercure met deux ou trois semaines à traverser un signe, soit un degré ou deux par jour, et sa date de naissance suffit à situer Mercure, sauf juste sur l’une de vos cuspides. Il me faut malgré tout les deux heures avant d’ouvrir une synastrie ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)), et que chacune des deux personnes soit au courant ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Votre ascendant avance d’environ un degré toutes les quatre minutes : en Placidus, le système de maisons que j’utilise, votre heure de naissance décide donc si Mercure de l’autre, près de cette ligne, tombe chez vous en maison 12 ou en maison 1. L’heure de l’autre compte moins : Mercure met deux ou trois semaines à traverser un signe, soit un degré ou deux par jour, et sa date de naissance suffit, sauf juste sur l’une de vos cuspides. Il me faut malgré tout les deux heures avant d’ouvrir une synastrie ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)), et que chacune des deux personnes soit au courant ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

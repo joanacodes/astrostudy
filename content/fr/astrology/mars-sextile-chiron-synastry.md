@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 237
 glyph: "♂⚹⚷"
-definition: "Mars sextile Chiron en synastrie signifie qu’environ 60°, à 3,6° près, séparent Mars, chez une personne, de Chiron chez l’autre. L’élan de l’une donne à l’autre le cran d’un nouvel essai, et la sagesse pratique de l’autre aide cet élan à durer. J’y lis un encouragement qui attend d’être invité, et qui le rend bien."
+definition: "Mars sextile Chiron en synastrie signifie que Mars, chez une personne, se trouve en général à deux signes de Chiron chez l’autre, à 3,6° près. L’élan de l’une donne à l’autre le cran d’un nouvel essai ; sa sagesse pratique aide cet élan à durer. J’y lis un encouragement qui attend d’être invité, et le rend bien."
 facts:
   - { k: "Corps", v: "Mars ♂ de l’une, Chiron ⚷ de l’autre" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/mars", "/astrology/chiron", "/astrology/sextile", "/astrology/mars-sextile-chiron", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Mars sextile Chiron en synastrie ?"
-    a: "Environ 60° séparent Mars, chez l’une, de Chiron chez l’autre ; leurs signes ont souvent des éléments qui se conviennent. La personne de Mars offre souvent la bonne dose d’élan ; celle de Chiron sait comment continuer quand l’effort rencontre une limite. Saisi, ce contact devient un échange pratique d’encouragements et de méthodes."
+    a: "Vu depuis Mars, chez l’une, le Chiron de l’autre est à environ 60° ; leurs signes ont souvent des éléments qui se conviennent. La personne de Mars offre souvent la bonne dose d’élan ; celle de Chiron sait comment continuer quand l’effort rencontre une limite. Saisi, ce contact devient un échange pratique d’encouragements et de méthodes."
   - q: "Qui aide qui avec Mars sextile Chiron ?"
     a: "L’aide va dans les deux sens. La personne de Mars peut aider l’autre à réessayer sans la submerger. Celle de Chiron peut lui montrer comment doser l’effort, choisir un meilleur outil ou demander exactement le soutien nécessaire. Chacune donne ce dont l’autre se sert moins."
   - q: "Qu’est-ce qui empêche Mars sextile Chiron de servir ?"
@@ -40,7 +40,7 @@ Les deux signes se conviennent en général par l’élément. Mars en Gémeaux 
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-L’aisance peut cacher un premier pas qui manque. La personne de Mars attend souvent qu’on lui demande ; celle de Chiron, habituée à se débrouiller seule, n’aime pas demander. Les deux peuvent se vouloir du bien pendant des années sans que l’échange commence jamais. Autre piège discret : la personne de Chiron peut donner généreusement son savoir-faire et recevoir peu en retour, comme si aider et se faire aider n’étaient pas tous deux permis.
+Ce que l’aisance cache ici, c’est souvent un premier pas qui manque. La personne de Mars attend souvent qu’on lui demande ; celle de Chiron, habituée à se débrouiller seule, n’aime pas demander. Les deux peuvent se vouloir du bien pendant des années sans que l’échange commence jamais. Autre piège discret : la personne de Chiron peut donner généreusement son savoir-faire et recevoir peu en retour, comme si aider et se faire aider n’étaient pas tous deux permis.
 
 Vu du côté de Mars, vos offres peuvent passer pour de la politesse plutôt que pour une vraie disponibilité. Vu du côté de Chiron, accepter de l’aide peut ressembler à un aveu de faiblesse. Ce n’en est pas un : recevoir du soutien n’est pas dépendre.
 
@@ -53,7 +53,7 @@ Les voisins du sextile dans cette paire :
 
 ## Comment le vivre {#comment-le-vivre}
 
-Faites la première demande simplement. La personne de Chiron peut dire quel genre d’aide fonctionne, et celle de Mars proposer une fois, clairement, puis laisser reposer. Échangez les méthodes dans les deux sens : des collègues qui se passent les techniques qui les font tenir, des amis qui apprennent ensemble un savoir-faire, un enfant adulte et un parent qui mettent au point une nouvelle routine qui convient aux deux.
+Faites la première demande simplement. La personne de Chiron peut dire quel genre d’aide fonctionne, et celle de Mars proposer une fois, clairement, puis laisser reposer. Échangez les méthodes dans les deux sens : des collègues qui se passent les techniques qui les font tenir, des amis qui apprennent ensemble un savoir-faire, un parent et son enfant adulte qui mettent au point une nouvelle routine qui convient aux deux.
 
 Malgré l’orbe le plus étroit des cinq, 3,6°, environ 1 paire de personnes sur 13 a ce sextile, dans un sens ou dans l’autre. Du côté de Chiron, la position dépend surtout de l’année de naissance, et le nombre d’années qui la partagent dépend du signe, l’orbite irrégulière de Chiron accordant à certains signes moins de deux ans et à d’autres environ huit ; le moment de l’année où la personne de Mars est née fait le reste. Avec un orbe aussi étroit, c’est une naissance tout au bord qui peut rendre l’heure décisive ; les maisons où l’échange a lieu demandent de toute façon les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

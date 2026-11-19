@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/neptune", "/astrology/conjunction", "/astrology/mars-conjunct-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Mars conjunct Neptune mean in synastry?"
-    a: "One person’s Mars sits within 6° of the other’s Neptune. The Mars person’s drive meets the Neptune person’s imagination and ideals on the same degree, so one tends to act on what the other pictures. It describes inspiration put to work between two people, and asks both to keep their own wishes in view."
+    a: "Neptune in one chart sits within 6° of Mars in the other. The Mars person’s drive meets the Neptune person’s imagination and ideals on the same degree, so one tends to act on what the other pictures. It describes inspiration put to work between two people, and asks both to keep their own wishes in view."
   - q: "Does Mars conjunct Neptune mean someone is being deceived?"
     a: "No. Neptune stands for imagination, compassion and ideals, not deceit. What this contact can do is let two people work from a picture of each other instead of from what was actually said. That is a habit, not a flaw in anyone, and plain questions undo it."
   - q: "Who feels Mars conjunct Neptune more?"

@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 6°" }
   - { title: "NASA — Pluto facts", url: "https://science.nasa.gov/dwarf-planets/pluto/facts/", note: "an orbit of about 248 years, hence Pluto’s slow, uneven pace through the signs" }
 ---
-Some pairs can't do anything by halves together: a weekend job becomes a renovation, a walk becomes a training plan. Mars conjunct Pluto in synastry is one reason. One person's Mars sits within 6° of the other's Pluto, and whatever the two of you take on, you tend to take on to the root.
+Some pairs can't do anything by halves together: a weekend job becomes a renovation, a walk becomes a training plan. Mars conjunct Pluto in synastry is one reason. One person's Mars and the other's Pluto meet within 6°, and whatever the two of you take on, you tend to take on to the root.
 
 ## What flows {#what-flows}
 
@@ -49,7 +49,7 @@ Opened out to other angles, the same drive and depth behave differently:
 - **[Mars sextile Pluto in synastry](/astrology/mars-sextile-pluto-synastry/):** a working alliance, called on when a job needs it rather than always on.
 - **[Mars square Pluto in synastry](/astrology/mars-square-pluto-synastry/):** pace and depth pressing on each other from the side.
 - **[Mars trine Pluto in synastry](/astrology/mars-trine-pluto-synastry/):** stamina shared across one element, steady instead of concentrated.
-- **[Mars opposite Pluto in synastry](/astrology/mars-opposite-pluto-synastry/):** the two strengths facing each other, and a balance to find.
+- **[Mars opposite Pluto in synastry](/astrology/mars-opposite-pluto-synastry/):** the two strengths face to face, with power to keep level.
 
 ## How to meet it {#how-to-meet-it}
 

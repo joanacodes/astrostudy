@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 240
 glyph: "♂☍⚷"
-definition: "Mars opposite Chiron in synastry means 180°, within 6°, separates one person’s Mars from the other’s Chiron. Each sees in the other what they practise less: going straight at a thing, or finding another way round it. I read it as a mirror held between two people, never a ranking of who is stronger."
+definition: "Mars opposite Chiron in synastry means one person’s Mars and the other’s Chiron sit on one axis, at its opposite ends, within 6°. Each sees in the other what they practise less: going straight at a thing, or finding a way round it. I read it as a mirror held between two people, never a ranking of who is stronger."
 facts:
   - { k: "Bodies", v: "One person’s Mars ♂, the other’s Chiron ⚷" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/chiron", "/astrology/opposition", "/astrology/mars-opposite-chiron", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Mars opposite Chiron mean in synastry?"
-    a: "The Mars of one person faces the Chiron of the other, 180° apart within 6°. The Mars person tends to go straight at things; the Chiron person has learned to find another way round a limit. Each sees in the other the approach they use less, which can be bracing and very useful."
+    a: "Across 180°, within 6°, one person’s Mars looks straight at the other’s Chiron. The Mars person tends to go straight at things; the Chiron person has learned to find another way round a limit. Each sees in the other the approach they use less, which can be bracing and very useful."
   - q: "Does Mars opposite Chiron make one person the strong one?"
     a: "No. It can look that way when roles freeze: the Mars person as the capable one, the Chiron person as the one with a limit. But adapting is a strength too, and needing support isn’t dependence. The opposition works best when each teaches the other something."
   - q: "How do you balance Mars opposite Chiron?"
@@ -36,7 +36,7 @@ One of you goes straight at a thing; the other has learned that some things only
 
 Across from your Mars, the other person can teach you that a closed door sometimes has a window: their patience with a limit, their inventive workarounds, their sense of what effort really costs. Across from your Chiron, the other person can show you what it looks like to act without first proving you're entitled to: to try the direct route now and then, and find it holds.
 
-Opposite signs move the same way and fill in each other's element: Mars in Pisces opposite Chiron in Virgo, both mutable, sets a fluid, intuitive drive across from a sensitivity around getting things exactly right.
+Mars in Pisces opposite Chiron in Virgo is a case in point, on the mutable axis: a fluid, intuitive drive across from a sensitivity around getting things exactly right.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -55,6 +55,6 @@ Turned to the pair's other angles:
 
 Take turns teaching. Let the Chiron person lead where their methods work better, and the Mars person where a direct approach saves time. Say out loud what each of you finds hard and what each finds easy; the lists are usually mirror images. Between colleagues, that might mean pairing on a task instead of dividing it; between friends, swapping who plans and who adapts; in a couple, noticing who always rescues and who always copes, and trading.
 
-About 1 pair of people in 15, one way round or the other, has this opposition within 6°, a little more often than the conjunction. The Chiron end of the mirror is a matter of birth years, how many depending on the sign; the Mars end, set within a few weeks, places these two face to face. The houses decide which areas of life the mirror shows, and they need both times ([what changes without a birth time](/blog/unknown-birth-time/)). In my notebook Saturn, Lilith and Chiron held 75 to 90% of the time, each read in someone's own chart; contacts between two people I never counted, so I give this one no figure, only care ([the three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)). Because it touches what someone guards, a reading of it needs a yes from each of you ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+About 1 pair of people in 15, one way round or the other, has this opposition within 6°, a little more often than the conjunction. The Chiron end of the mirror is a matter of birth years, how many depending on the sign; Mars, a few weeks in each sign, turns that shared position into a mirror between two particular people. The houses decide which areas of life the mirror shows, and they need both times ([what changes without a birth time](/blog/unknown-birth-time/)). Chiron stands out in my notebook, where it held 75 to 90% of the time alongside Saturn and Lilith; but each result came from someone's own chart, no pair was ever counted, and so this opposition gets no figure, only care ([the three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)). Because it touches what someone guards, a reading of it needs a yes from each of you ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
 
 Inside one chart, [Mars opposite Chiron](/astrology/mars-opposite-chiron/) belongs to someone who keeps catching sight of their tender place in other people's pushes. Between two charts, those pushes are real, and so is the chance to answer them.

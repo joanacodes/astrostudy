@@ -20,7 +20,7 @@ faq:
   - q: "What does Uranus opposite Chiron mean in synastry?"
     a: "One person’s Uranus is about 180° from the other’s Chiron, in opposite signs. One person carries the urge for freedom and change, the other a lasting limit and the skill of living with it. Each sees in the other the end of the seesaw they hold less of, which can teach both a better balance."
   - q: "Who has Uranus opposite Chiron with someone?"
-    a: "It depends on the birth dates, and often joins people born a few years apart. Someone born in mid-1965 has it with anyone born, on and off, from March 1962 to January 1965, and from November 1965 to July 1968. So many people share it that I read it through the houses."
+    a: "The dates decide, and they often join people born a few years apart. Someone born in mid-1965 has it with anyone born, on and off, from March 1962 to January 1965, and from November 1965 to July 1968. With classmates and siblings sharing it, the houses are where it becomes about two particular people."
   - q: "Does Uranus opposite Chiron mean two people will pull apart?"
     a: "No. An opposition is a polarity, never a sentence on a relationship, and it predicts nothing. Its risk is subtler: one person settling into the role of the free one and the other into the role of the one who copes. Swapping a little of each keeps the seesaw moving."
 sources:
@@ -33,7 +33,7 @@ From one end of a seesaw, the other end always looks lighter or heavier than it 
 
 [Uranus](/astrology/uranus/) differentiates and liberates: it wants room to live another way, and to change whatever forbids it. [Chiron](/astrology/chiron/) accommodates: it keeps a person functioning, contributing and connected around a limitation that doesn't lift, and that experience often makes them a good mentor. An [opposition](/astrology/opposition/) relates two functions through polarity, each most visible from the other's side; among the [synastry aspects](/astrology/synastry-aspects/), it shares that polarity out between two people.
 
-Opposite signs share a modality and complete each other. With Uranus in Virgo opposite Chiron in Pisces, two mutable signs, the pair keeps circling one question: what can be improved by design, and what has to be lived with. Learning to tell the two apart is the gift here.
+Opposite signs share a modality and answer each other. With Uranus in Virgo opposite Chiron in Pisces, two mutable signs, the pair keeps circling one question: what can be improved by design, and what has to be lived with. Learning to tell the two apart is the gift here.
 
 If the Uranus is yours, the other's limit can look like the life you have arranged not to have: fixed points, careful routines, a pace set by something nobody chose. You may admire their patience, or itch to free them from it.
 

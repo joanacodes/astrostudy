@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 25
 glyph: "☿"
-definition: "Their Mercury in your 1st house places the other person’s planet of thought and speech in the house of your manner and first impressions. In synastry they tend to notice you out loud, putting words to how you come across, while you may find yourself quicker, chattier and easier to read in their company."
+definition: "With their Mercury in your 1st house, the planet of the other person’s thinking and speech sits in the house of your manner and first impressions. In synastry they tend to notice you out loud, putting words to how you come across, while you may find yourself quicker, chattier and easier to read in their company."
 facts:
   - { k: "Their body", v: "Their Mercury ☿" }
   - { k: "Your house", v: "The 1st house, how you come across" }
@@ -17,10 +17,10 @@ facts:
 related: ["/astrology/mercury", "/astrology/1st-house", "/astrology/house-overlays", "/astrology/ascendant", "/blog/unknown-birth-time"]
 faq:
   - q: "What does their Mercury in my 1st house mean?"
-    a: "Their way of thinking and talking settles on the part of your chart people meet first: your manner, your body, your first reactions. They tend to notice you out loud, and beside them you may think faster and say more. It describes where their attention goes, not what the bond will become."
+    a: "Their way of thinking and talking settles on the part of your chart people meet first: the way you look, move and get started. They tend to notice you out loud, and beside them you may think faster and say more. It describes where their attention goes, not what the bond will become."
   - q: "Why do they keep commenting on how I come across?"
     a: "Because your manner is where their mind lands. With their Mercury in your 1st house, you are the subject their curiosity keeps returning to, and they think aloud. Most of it is interest rather than criticism; when a remark stings, asking what made them think it usually turns it back into a conversation."
-  - q: "What is it like to have my Mercury in someone’s 1st house?"
+  - q: "My Mercury is in their 1st house: what does that do?"
     a: "Usually you find them easy to notice and hard to stop describing. Their way of arriving sets your thoughts going, and you may hear yourself naming what you see in them before deciding to. Keep the observations generous, and ask which ones they actually want to hear."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
@@ -50,6 +50,6 @@ Mercury describes the habits of a mind, not anyone's intentions: this overlay sa
 
 Ask for the observations you'd find useful, and say which ones you'd rather not hear. A simple "what made you think that?" turns a remark into a conversation. In a couple, enjoy being noticed and keep comments on appearance kind and rare; between friends, they may be the frank voice you check a first impression with before an interview; between colleagues, the one who tells you clearly how your presentation came across; between adult siblings, the one who still narrates you, and can be asked to update the story.
 
-Turn the charts round and you are the one who can't stop putting them into words: that's your Mercury in their 1st house. The houses on either side change the subject. [Their Mercury in your 12th house](/astrology/mercury-in-12th-house-synastry/) speaks to what you keep unsaid, and [their Mercury in your 2nd house](/astrology/mercury-in-2nd-house-synastry/) to what you value and how you weigh it.
+Turn the charts round and you are the one who can't stop putting them into words: that's your Mercury in their 1st house. Move their Mercury back a house and it lands among the things you leave unsaid ([their Mercury in your 12th house](/astrology/mercury-in-12th-house-synastry/)); move it forward and it starts weighing what you own and value ([their Mercury in your 2nd house](/astrology/mercury-in-2nd-house-synastry/)).
 
-Your Ascendant moves about a degree every four minutes, so in Placidus, the house system I use, your birth time decides whether a Mercury close to it falls in your 12th house or your 1st. Theirs matters less: Mercury takes two or three weeks to cross a sign, a degree or two a day, so their birth date places it unless it sits right on one of your cusps. Even so, I open a synastry only once I have both times ([what changes without a birth time](/blog/unknown-birth-time/)), and only when you both know about it ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Your Ascendant moves about a degree every four minutes, which is why, in Placidus, the house system I use, your birth time decides whether a Mercury close to it falls in your 12th house or your 1st. Theirs matters less: Mercury takes two or three weeks to cross a sign, a degree or two a day, so their birth date places it unless it sits right on one of your cusps. Even so, I open a synastry only once I have both times ([what changes without a birth time](/blog/unknown-birth-time/)), and only when you both know about it ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

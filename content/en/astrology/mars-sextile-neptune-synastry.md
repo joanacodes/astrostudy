@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 227
 glyph: "♂⚹♆"
-definition: "Mars sextile Neptune in synastry means that 60°, give or take 3.6°, separates one person’s Mars from the other’s Neptune. Drive on one side and imagination on the other cooperate readily, provided someone makes the first move. I read it as gentle encouragement between two people: practical help for an ideal, offered and taken by choice."
+definition: "Mars sextile Neptune in synastry means the gap between one person’s Mars and the other’s Neptune is close to 60°, within 3.6°. Drive on one side and imagination on the other cooperate readily, provided one of them moves first. I read it as gentle encouragement between two people: practical help for an ideal, offered and taken by choice."
 facts:
   - { k: "Bodies", v: "One person’s Mars ♂, the other’s Neptune ♆" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -31,7 +31,7 @@ Some help arrives only when it's asked for, and then arrives well. In Mars sexti
 
 ## What flows {#what-flows}
 
-[Mars](/astrology/mars/) is a person's capacity to start, to push and to see a thing through. [Neptune](/astrology/neptune/) is their capacity to imagine it first: ideals, compassion, a sense of what a situation could become. A [sextile](/astrology/sextile/) joins them by opportunity: they cooperate once someone takes the opening. Among the [synastry aspects](/astrology/synastry-aspects/), this one lets practical help reach someone else's ideals without either person giving anything up.
+[Mars](/astrology/mars/) is how a person starts, pushes and sees a thing through. [Neptune](/astrology/neptune/) is how they imagine it first: ideals, compassion, a sense of what a situation could become. A [sextile](/astrology/sextile/) joins them by opportunity: they cooperate once someone takes the opening. Among the [synastry aspects](/astrology/synastry-aspects/), this one lets practical help reach someone else's ideals without either person giving anything up.
 
 With the Mars on your side, the other person's ideas give your energy good things to do, and few of them are urgent, so you choose when to step in. Their feel for what people need can soften how you push, too: around them, you may assert things more kindly. With the Neptune on your side, your imagination gets a willing pair of hands. A hope you'd mentioned in passing, a garden for the street, a better way to run the family holidays, comes back to you as a first step already taken.
 

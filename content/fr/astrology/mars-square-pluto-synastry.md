@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 233
 glyph: "♂□♇"
-definition: "Mars carré Pluton en synastrie signifie qu’environ 90°, à 5,1° près, séparent Mars, chez une personne, de Pluton chez l’autre. Le rythme de l’une pèse sans cesse sur le besoin de profondeur de l’autre, et la question de qui décide arrive tôt. J’y lis une friction magnétique et exigeante qui apprend la mesure, jamais une compétition à gagner."
+definition: "Mars carré Pluton en synastrie signifie que Mars, chez une personne, se tient à environ 90° de Pluton chez l’autre, à 5,1° près. Le rythme de l’une pèse sans cesse sur le besoin de profondeur de l’autre, et qui décide devient vite une question. J’y lis une friction magnétique et exigeante qui apprend la mesure, jamais une compétition."
 facts:
   - { k: "Corps", v: "Mars ♂ de l’une, Pluton ♇ de l’autre" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -36,7 +36,7 @@ L’une veut se mettre en route ; l’autre veut d’abord savoir ce qu’il y
 
 Ce que la pression rend possible, c’est la mesure. La personne de Mars découvre qu’il ne suffit pas toujours de pousser plus fort, et que certaines situations demandent d’attendre que leur profondeur se montre. Celle de Pluton apprend qu’un changement peut commencer avant que tout ce qui est dessous ait été examiné, et que la vitesse de quelqu’un d’autre peut servir au lieu de nuire. Une confiance passée par ce genre d’épreuve est rarement naïve.
 
-Les deux signes appartiennent en général à un même mode, et ce mode donne le thème. Mars en Verseau carré Pluton en Scorpion, deux signes fixes : personne ne cède volontiers, et la patience devient le savoir-faire. Mars en Cancer carré Pluton en Balance, deux signes cardinaux : la question est de savoir qui commence, et à quelles conditions.
+Les deux signes appartiennent en général à un même mode, et ce mode donne le thème. En signes fixes, comme Mars en Verseau carré Pluton en Scorpion, personne ne cède volontiers, et la patience devient le savoir-faire. En signes cardinaux, comme Mars en Cancer carré Pluton en Balance, la question est de savoir qui commence, et à quelles conditions.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

@@ -44,9 +44,9 @@ Easy agreement has a blind spot: the moment when "our own way" quietly becomes o
 
 There's an outward risk too: a pair this comfortable bending rules can stop noticing who else the rules were protecting, or forget to explain itself to the people around it. Ease doesn't make a choice wise, and the current still needs steering.
 
-The pair's other contacts, beside the trine:
+Where the trine sits among the rest:
 
-- **[Mars conjunct Lilith in synastry](/astrology/mars-conjunct-lilith-synastry/):** the drive lands on the untamed point itself, with far more charge.
+- **[Mars conjunct Lilith in synastry](/astrology/mars-conjunct-lilith-synastry/):** the push meets the untamed point head-on, with far more charge.
 - **[Mars sextile Lilith in synastry](/astrology/mars-sextile-lilith-synastry/):** a narrower opening, where someone has to take the first step.
 - **[Mars square Lilith in synastry](/astrology/mars-square-lilith-synastry/):** a sign nearer, and the same two meet as push and refusal.
 - **[Mars opposite Lilith in synastry](/astrology/mars-opposite-lilith-synastry/):** two signs further, each becomes the other's wild side.

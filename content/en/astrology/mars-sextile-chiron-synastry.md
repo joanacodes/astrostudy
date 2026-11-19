@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 237
 glyph: "♂⚹⚷"
-definition: "Mars sextile Chiron in synastry means one person’s Mars and the other’s Chiron sit about 60° apart, within 3.6°. One person’s drive gives the other the nerve for another attempt at a workable speed, and the other’s practical wisdom about limits helps that drive last. I read it as encouragement that waits to be invited, and repays the invitation."
+definition: "Mars sextile Chiron in synastry means one person’s Mars and the other’s Chiron usually sit two signs apart, within 3.6°. One person’s drive gives the other the nerve for another attempt at a workable speed; the other’s practical wisdom about limits helps that drive last. I read it as encouragement that waits to be invited, and repays it."
 facts:
   - { k: "Bodies", v: "One person’s Mars ♂, the other’s Chiron ⚷" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/chiron", "/astrology/sextile", "/astrology/mars-sextile-chiron", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Mars sextile Chiron mean in synastry?"
-    a: "Roughly 60° lies between one person’s Mars and the other’s Chiron, generally in signs whose elements suit each other. The Mars person tends to offer the right amount of push; the Chiron person knows how to keep going when effort meets a limit. Taken up, it becomes a practical exchange of encouragement and method."
+    a: "Seen from one person’s Mars, the other’s Chiron sits about 60° away, generally in a sign whose element suits it. The Mars person tends to offer the right amount of push; the Chiron person knows how to keep going when effort meets a limit. Taken up, it becomes a practical exchange of encouragement and method."
   - q: "Who helps whom with Mars sextile Chiron?"
     a: "Help runs both ways. The Mars person can help the other try again, without overwhelming them. The Chiron person can show the Mars person how to pace effort, use a better tool or name the kind of support that works. Each gives what the other uses less."
   - q: "Why might Mars sextile Chiron go unnoticed?"
@@ -52,7 +52,7 @@ The sextile's neighbours in this pair:
 
 ## How to meet it {#how-to-meet-it}
 
-Make the first request plainly. The Chiron person can say what kind of help works, and the Mars person can offer once, clearly, then let it rest. Trade methods in both directions: coworkers swapping the techniques that keep them going, friends learning a skill together, an adult child and a parent working out a new routine that suits both.
+Make the first request plainly. The Chiron person can say what kind of help works, and the Mars person can offer once, clearly, then let it rest. Trade methods in both directions: coworkers swapping the techniques that keep them going, friends learning a skill together, a parent and their grown child working out a new routine that suits both.
 
 Despite the narrowest orb of the five, 3.6°, about 1 pair of people in 13 has this sextile, one way round or the other. On the Chiron side, the position depends mostly on the year of birth, and how many years share it depends on the sign, Chiron's uneven orbit giving some signs under two years and others about eight; when in the year the Mars person was born does the rest. With so narrow an orb, a birth right at its edge is where the hour can matter; the houses where the exchange happens need both times in any case ([what changes without a birth time](/blog/unknown-birth-time/)).
 

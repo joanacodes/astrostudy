@@ -21,18 +21,18 @@ faq:
   - q: "Que veut dire Uranus trigone Chiron en synastrie ?"
     a: "Uranus, chez une personne, se trouve à environ 120° du Chiron de l’autre, en général dans des signes du même élément. Les idées inhabituelles de la première conviennent à la façon dont la seconde vit avec une limite durable, si bien que les améliorations viennent sans lutte. L’aspect décrit une coopération facile entre invention et adaptation."
   - q: "Uranus trigone Chiron, est-ce bon signe pour une relation ?"
-    a: "C’est le signe d’une aisance entre deux fonctions, et aucun contact isolé ne décide si une relation marche. Cette aisance a un angle mort : quand les solutions arrivent aussi bien, l’effort que fait encore la personne de Chiron peut passer inaperçu des deux. Le nommer de temps en temps garde le trigone honnête."
+    a: "Il montre une aisance entre invention et adaptation, rien de plus : un seul contact ne règle jamais la question de savoir si une relation marche. Cette aisance a un angle mort : quand les solutions arrivent aussi bien, l’effort que fait encore la personne de Chiron peut passer inaperçu des deux. Le nommer de temps en temps garde le trigone honnête."
   - q: "Qui a Uranus trigone Chiron avec quelqu’un ?"
-    a: "Cela dépend des dates de naissance. Une personne née au milieu de 1975 et toute personne née entre avril et juillet 1988 l’ont dans les deux sens : Uranus, chez chacune, forme un trigone avec le Chiron de l’autre. Toutes les personnes nées ces mois-là le partagent : je le lis par les maisons."
+    a: "Seules les dates de naissance décident. Une personne née au milieu de 1975 et toute personne née entre avril et juillet 1988 l’ont dans les deux sens : Uranus, chez chacune, forme un trigone avec le Chiron de l’autre. Toute personne née dans ces quatre mois aurait les mêmes trigones avec les mêmes gens : c’est pourquoi je le lis par les maisons."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, 120°, l’un des quatre aspects qu’il décrit" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Uranus, chez une personne, à 120° du Chiron d’une autre, à 3,4° près" }
 ---
-Certaines personnes règlent le problème avant que vous ayez fini d’expliquer ce qui est difficile, et la solution vous va. Avec Uranus trigone Chiron en synastrie, Uranus, chez l’une, se trouve à environ 120° du Chiron de l’autre, à 3,4° près, en général dans des signes du même élément, et l’invention et l’adaptation marchent au même pas.
+Certaines personnes règlent le problème avant que vous ayez fini d’expliquer ce qui est difficile, et la solution vous va. En synastrie, Uranus trigone Chiron met Uranus, chez l’une, à environ 120° du Chiron de l’autre, à 3,4° près, en général dans des signes du même élément, et l’invention et l’adaptation marchent au même pas.
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Uranus](/astrology/uranus/) apporte l’originalité et la liberté d’essayer ce qu’on n’a jamais essayé : la part d’une personne qui veut un meilleur système, pas une meilleure excuse. [Chiron](/astrology/chiron/) est la sagesse pratique gagnée autour d’une limite qui reste : des compensations, des savoir-faire retrouvés, une manière de prendre part qu’il a fallu inventer. Un [trigone](/astrology/trine/) laisse deux fonctions se renforcer tout en restant elles-mêmes, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), celui-ci fait des inventions de l’une et des adaptations de l’autre des partenaires faciles.
+[Uranus](/astrology/uranus/) apporte l’originalité et la liberté d’essayer ce qu’on n’a jamais essayé : la part d’une personne qui veut un meilleur système, pas une meilleure excuse. [Chiron](/astrology/chiron/) est la sagesse pratique gagnée autour d’une limite qui reste : des compensations, des savoir-faire retrouvés, une manière de prendre part qu’il a fallu inventer. Avec un [trigone](/astrology/trine/), deux fonctions se renforcent sans cesser d’être elles-mêmes ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), celui-ci fait des inventions de l’une et des adaptations de l’autre des partenaires faciles.
 
 Si Uranus est de votre côté, vos idées peu conventionnelles sont accueillies plutôt que tolérées. L’autre les essaie, les améliore et vous dit ce qui marche, et vous découvrez que votre agitation sert à quelque chose.
 

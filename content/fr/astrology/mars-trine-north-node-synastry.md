@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 249
 glyph: "♂△☊"
-definition: "Mars trigone Nœud Nord en synastrie place Mars, chez une personne, en trigone au Nœud Nord de l’autre, à 5,1° près, et donc en sextile à son Nœud Sud. L’élan de l’une coule vers la croissance de l’autre, en restant ami de ses forces anciennes. J’y lis un soutien qui tient compagnie, la pratique restant l’affaire de l’autre."
+definition: "Mars trigone Nœud Nord en synastrie signifie que Mars, chez une personne, est à 120° du Nœud Nord de l’autre, à 5,1° près, et à 60° de son Nœud Sud. L’élan de l’une coule vers la croissance de l’autre, en restant ami de ses forces anciennes. J’y lis un soutien qui tient compagnie, la pratique restant l’affaire de l’autre."
 facts:
   - { k: "Corps", v: "Mars ♂ de l’une, le Nœud Nord ☊ de l’autre" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -30,7 +30,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 5,1° près, avec le nœud vrai" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai" }
 ---
-Certains soutiens ressemblent davantage à une compagnie qu’à un entraînement. Avec Mars trigone Nœud Nord en synastrie, Mars, chez l’une, est en trigone avec le Nœud Nord de l’autre et en sextile avec son Nœud Sud : l’élan de l’une avance à côté de la croissance de l’autre sans lui barrer la route.
+Certains soutiens ressemblent davantage à une compagnie qu’à un entraînement. Avec Mars trigone Nœud Nord en synastrie, Mars, chez l’une, se tient à un trigone du Nœud Nord de l’autre et à un sextile de son Nœud Sud : l’élan de l’une avance à côté de la croissance de l’autre sans lui barrer la route.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -48,7 +48,7 @@ Le sextile au Nœud Sud cache un piège plus subtil : comme les forces ancienne
 
 Autour du trigone, le reste de la paire :
 
-- **[Mars conjonction Nœud Nord en synastrie](/astrology/mars-conjunct-north-node-synastry/) :** l’élan se tient sur le bord de croissance lui-même, avec plus de poussée.
+- **[Mars conjonction Nœud Nord en synastrie](/astrology/mars-conjunct-north-node-synastry/) :** Mars sur le point de croissance lui-même : plus de poussée, moins de compagnie.
 - **[Mars sextile Nœud Nord en synastrie](/astrology/mars-sextile-north-node-synastry/) :** deux signes plus près, là où le chemin le plus facile mène en arrière.
 - **[Mars carré Nœud Nord en synastrie](/astrology/mars-square-north-node-synastry/) :** un signe plus près, l’effort coupe l’axe.
 - **[Mars opposition Nœud Nord en synastrie](/astrology/mars-opposite-north-node-synastry/) :** deux signes plus loin, l’élan s’installe en terrain ancien et rodé.

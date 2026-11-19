@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 327
 glyph: "♅⚹⚷"
-definition: "Uranus sextile Chiron in synastry means one person’s Uranus is about 60° from the other’s Chiron, within 2.4°. One person’s experiments offer the other a new way around an old limit, which helps only once someone tries it. People born in the same months share it, so I read it through the houses."
+definition: "Uranus sextile Chiron in synastry means one person’s Uranus is about 60° from the other’s Chiron, within 2.4°. One person’s experiments offer the other a new way around an old limit, which helps only once someone tries it. It belongs to whole months of births, so I read it through the houses where the offer is made."
 facts:
   - { k: "Bodies", v: "One person’s Uranus ♅, the other’s Chiron ⚷" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -20,7 +20,7 @@ faq:
   - q: "What does Uranus sextile Chiron mean in synastry?"
     a: "One person’s Uranus sits about 60° from the other’s Chiron, within 2.4°. The Uranus person’s experiments and unusual methods are within reach of the Chiron person’s oldest workaround. It is an offer rather than a change: it becomes something only when one of them takes it up."
   - q: "Who has Uranus sextile Chiron with someone?"
-    a: "It comes with the birth dates. Someone born in mid-1945 has it with anyone born, on and off, from May 1971 to February 1974, and with anyone born, on and off, from November 1980 to August 1982. Everyone born in those months shares it, so I read it through the houses."
+    a: "It comes with the birth dates. Someone born in mid-1945 has it with anyone born, on and off, from May 1971 to February 1974, and with anyone born, on and off, from November 1980 to August 1982. Each of those spells holds a great many births, so for any given pair the houses say more than the sextile does."
   - q: "Does Uranus sextile Chiron make things easy between two people?"
     a: "It makes a new approach available, not automatic. The Chiron person still decides whether to try it, and the Uranus person still has to stay long enough to see it through. Like every sextile, it asks for a step from both sides."
 sources:

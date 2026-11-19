@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 249
 glyph: "♂△☊"
-definition: "Mars trine North Node in synastry places one person’s Mars in trine to the other’s North Node, within 5.1°, and so in sextile to their South Node. One person’s drive flows towards the other’s growth, friendly to their old strengths. I read it as support that feels like company, while the practising stays the other’s."
+definition: "Mars trine North Node in synastry means one person’s Mars is 120° from the other’s North Node, within 5.1°, and 60° from their South Node. One person’s drive flows towards the other’s growth, friendly to their old strengths. I read it as support that feels like company, while the practising stays the other’s."
 facts:
   - { k: "Bodies", v: "One person’s Mars ♂, the other’s North Node ☊" }
   - { k: "Aspect", v: "Trine △, 120°" }
@@ -47,7 +47,7 @@ There's a subtler trap in the sextile to the South Node: since old strengths are
 
 Around the trine, the rest of the pair:
 
-- **[Mars conjunct North Node in synastry](/astrology/mars-conjunct-north-node-synastry/):** the drive stands on the growing edge itself, with more push.
+- **[Mars conjunct North Node in synastry](/astrology/mars-conjunct-north-node-synastry/):** Mars on the growth point itself: more push, less company.
 - **[Mars sextile North Node in synastry](/astrology/mars-sextile-north-node-synastry/):** two signs nearer, where the easier road leads backwards.
 - **[Mars square North Node in synastry](/astrology/mars-square-north-node-synastry/):** a sign nearer, effort cuts across the axis.
 - **[Mars opposite North Node in synastry](/astrology/mars-opposite-north-node-synastry/):** two signs further, the drive settles into old, practised territory.

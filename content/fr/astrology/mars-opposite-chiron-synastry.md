@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 240
 glyph: "♂☍⚷"
-definition: "Mars opposition Chiron en synastrie signifie que 180°, à 6° près, séparent Mars, chez une personne, de Chiron chez l’autre. Chacune voit chez l’autre ce qu’elle pratique moins : aller droit au but, ou trouver un autre chemin. J’y lis un miroir tendu entre deux personnes, jamais un classement de la plus forte."
+definition: "Mars opposition Chiron en synastrie signifie que Mars, chez une personne, et Chiron, chez l’autre, se tiennent sur un même axe, aux deux bouts, à 6° près. Chacune voit chez l’autre ce qu’elle pratique moins : aller droit au but, ou trouver un autre chemin. J’y lis un miroir tendu entre deux personnes, jamais un classement de la plus forte."
 facts:
   - { k: "Corps", v: "Mars ♂ de l’une, Chiron ⚷ de l’autre" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -19,9 +19,9 @@ facts:
 related: ["/astrology/mars", "/astrology/chiron", "/astrology/opposition", "/astrology/mars-opposite-chiron", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Mars opposition Chiron en synastrie ?"
-    a: "Mars, chez l’une, fait face à Chiron chez l’autre, à 180°, à 6° près. La personne de Mars va droit aux choses ; celle de Chiron a appris à contourner une limite. Chacune voit chez l’autre la façon de faire dont elle se sert moins, ce qui peut être tonique et très utile."
+    a: "Sur 180°, à 6° près, Mars, chez l’une, regarde droit vers Chiron chez l’autre. La personne de Mars va droit aux choses ; celle de Chiron a appris à contourner une limite. Chacune voit chez l’autre la façon de faire dont elle se sert moins, ce qui peut être tonique et très utile."
   - q: "Est-ce que Mars opposition Chiron fait de l’une la plus forte ?"
-    a: "Non. Cela peut sembler le cas quand les rôles se figent : la personne de Mars dans le rôle de la capable, celle de Chiron dans celui de la personne limitée. Mais s’adapter est aussi une force, et recevoir du soutien n’est pas dépendre. L’opposition marche le mieux quand chacune apprend quelque chose à l’autre."
+    a: "Non. Cela peut sembler le cas quand les rôles se figent : la personne de Mars dans le rôle de la capable, celle de Chiron dans celui de la personne limitée. Mais s’adapter est aussi une force, et accepter de l’aide n’est pas une dépendance. L’opposition marche le mieux quand chacune apprend quelque chose à l’autre."
   - q: "Comment équilibrer Mars opposition Chiron ?"
     a: "En alternant. Laissez la personne de Chiron mener là où ses méthodes marchent mieux, et celle de Mars là où aller droit aide. Dire à voix haute ce que chacune trouve difficile, et ce qu’elle trouve facile, fait bouger la balançoire au lieu de fixer qui s’assoit à quel bout."
 sources:
@@ -35,9 +35,9 @@ L’une va droit aux choses ; l’autre a appris que certaines ne s’ouvrent 
 
 [Mars](/astrology/mars/) va droit aux choses : l’initiative, l’effort, l’affirmation, la compétition à découvert, une limite tenue. [Chiron](/astrology/chiron/) est le détour : s’adapter à une limite qui persiste, compenser, se construire un savoir-faire à force de pratique jusqu’à ce que quelque chose devienne possible malgré tout. Une [opposition](/astrology/opposition/) fait de ces deux fonctions les pôles d’un même axe, et parmi les [aspects de synastrie](/astrology/synastry-aspects/) de la paire, c’est le miroir.
 
-Si Mars est de votre côté, l’autre peut vous apprendre qu’une porte fermée a parfois une fenêtre : sa patience face à une limite, ses astuces inventives, son sens de ce que coûte vraiment un effort. Si Chiron est de votre côté, l’autre peut vous montrer ce que c’est qu’agir sans avoir d’abord à prouver qu’on en a le droit : prendre de temps en temps la voie directe, et découvrir qu’elle tient.
+Quand c’est vous qui portez Mars, l’autre peut vous apprendre qu’une porte fermée a parfois une fenêtre : sa patience face à une limite, ses astuces inventives, son sens de ce que coûte vraiment un effort. Si Chiron est de votre côté, l’autre peut vous montrer ce que c’est qu’agir sans avoir d’abord à prouver qu’on en a le droit : prendre de temps en temps la voie directe, et découvrir qu’elle tient.
 
-Des signes opposés avancent de la même façon et complètent l’élément l’un de l’autre : Mars en Poissons opposition Chiron en Vierge, deux signes mutables, place un élan fluide et intuitif face à une sensibilité autour du fait de bien faire les choses.
+Mars en Poissons opposition Chiron en Vierge en donne un exemple, sur l’axe mutable : un élan fluide et intuitif face à une sensibilité autour du fait de bien faire les choses.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
@@ -56,6 +56,6 @@ Le même duo, à d’autres angles :
 
 Apprenez l’une de l’autre, à tour de rôle. Laissez la personne de Chiron mener là où ses méthodes marchent mieux, et celle de Mars là où une approche directe fait gagner du temps. Dites à voix haute ce que chacune trouve difficile et ce que chacune trouve facile ; les deux listes se répondent souvent comme dans un miroir. Entre collègues, cela peut vouloir dire faire une tâche en binôme au lieu de la partager ; entre amis, échanger qui organise et qui s’adapte ; en couple, remarquer qui sauve toujours et qui fait toujours face, et changer de rôle.
 
-Environ 1 paire de personnes sur 15, dans un sens ou dans l’autre, a cette opposition à 6° près, un peu plus souvent que la conjonction. Le bout Chiron du miroir est une affaire d’années de naissance, plus ou moins nombreuses selon le signe ; le bout Mars, fixé à quelques semaines près, met ces deux personnes face à face. Les maisons décident des domaines de vie où le miroir se montre, et elles demandent les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Dans mon carnet, Saturne, Lilith et Chiron ont tenu 75 à 90 % du temps, chaque placement lu dans le thème d’une seule personne ; les contacts entre deux personnes, je ne les ai jamais comptés, et je ne donne à celui-ci aucun chiffre, seulement du soin ([les trois qui ont tenu : Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/)). Comme ce contact touche à ce que quelqu’un protège, sa lecture demande un oui de chacune ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Environ 1 paire de personnes sur 15, dans un sens ou dans l’autre, a cette opposition à 6° près, un peu plus souvent que la conjonction. Le bout Chiron du miroir est une affaire d’années de naissance, plus ou moins nombreuses selon le signe ; Mars, quelques semaines par signe, fait de cette position partagée un miroir entre deux personnes précises. Les maisons décident des domaines de vie où le miroir se montre, et elles demandent les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Chiron se distingue dans mon carnet, où il a tenu 75 à 90 % du temps avec Saturne et Lilith ; mais chaque résultat venait du thème d’une seule personne, aucune paire n’a jamais été comptée, et cette opposition ne reçoit donc aucun chiffre, seulement du soin ([les trois qui ont tenu : Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/)). Comme ce contact touche à ce que quelqu’un protège, sa lecture demande un oui de chacune ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
 
 À l’intérieur d’un seul thème, [Mars opposition Chiron](/astrology/mars-opposite-chiron/) appartient à quelqu’un qui aperçoit sans cesse son point sensible dans les poussées des autres. Entre deux thèmes, ces poussées sont réelles, et la possibilité d’y répondre aussi.

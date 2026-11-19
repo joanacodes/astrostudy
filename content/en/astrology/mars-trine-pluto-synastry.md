@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 234
 glyph: "♂△♇"
-definition: "Mars trine Pluto in synastry means one person’s Mars and the other’s Pluto lie about 120° apart, within 5.1°, often in one element. Drive and depth support each other, so the two can keep going through long, demanding work. I read it as shared stamina, strength that backs rather than competes, which still needs saying who steers."
+definition: "Mars trine Pluto in synastry means one person’s Mars and the other’s Pluto usually share an element, sitting about 120° apart within 5.1°. Drive and depth support each other, so the two can keep going through long, demanding work. I read it as shared stamina, strength that backs rather than competes, which still needs saying who steers."
 facts:
   - { k: "Bodies", v: "One person’s Mars ♂, the other’s Pluto ♇" }
   - { k: "Aspect", v: "Trine △, 120°" }
@@ -39,7 +39,7 @@ The element shapes the stamina. Water, say Mars in Pisces with Pluto in Scorpio,
 
 ## Where it rubs {#where-it-rubs}
 
-What the ease hides is who is steering. Momentum this smooth can carry a pair into big decisions before anyone has actually said yes: a move, a merger, a long commitment of time. The Pluto person's influence tends to be quiet and the Mars person's energy obliging, so the direction can be set by one of you without either noticing.
+The ease keeps one question quiet: who is steering. Momentum this smooth can carry a pair into big decisions before anyone has actually said yes: a move, a merger, a long commitment of time. The Pluto person's influence tends to be quiet and the Mars person's energy obliging, so the direction can be set by one of you without either noticing.
 
 From the Mars side, watch for spending your strength on the other's transformations while your own plans wait. From the Pluto side, watch for mistaking control for safety: a pair that never argues about direction may simply never have asked. Ease promises no particular outcome, and somebody still has to steer.
 

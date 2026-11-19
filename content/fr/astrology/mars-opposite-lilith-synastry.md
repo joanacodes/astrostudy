@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/mars", "/astrology/black-moon-lilith", "/astrology/opposition", "/astrology/mars-opposite-lilith", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Mars opposition Lilith en synastrie ?"
-    a: "À 6° près, Mars, chez l’une, et la Lune noire Lilith moyenne, chez l’autre, occupent des points opposés du zodiaque. La personne de Mars apporte un élan franc et direct ; celle de Lilith, une indépendance qui ne se laisse pas diriger. Chacune voit chez l’autre la force dont elle se sert moins, ce qui intrigue et trouble à parts égales."
+    a: "La Lune noire Lilith moyenne de l’une et Mars chez l’autre se font face, à 6° près. La personne de Mars apporte un élan franc et direct ; celle de Lilith, une indépendance qui ne se laisse pas diriger. Chacune voit chez l’autre la force dont elle se sert moins, ce qui intrigue et trouble à parts égales."
   - q: "Est-ce que Mars opposition Lilith annonce des conflits ?"
     a: "Non. Les deux bouts d’une balançoire ne sont pas les deux camps d’une querelle, et Lilith ne marque personne au fer rouge. Ce contact décrit une attirance entre deux sortes de force. Il devient difficile quand l’une cherche à dompter l’autre, et plus simple quand chacune laisse l’autre agir à sa façon."
   - q: "Pourquoi tant de fascination au début avec Mars opposition Lilith ?"
@@ -37,7 +37,7 @@ Chacune peut sembler la sauvage aux yeux de l’autre. Avec Mars opposition Lili
 
 Si Mars est à vous, la Lilith de l’autre vous montre une liberté dont vous ne vous servez peut-être pas : le refus tout simple, le chemin que personne n’a approuvé, le non sans états d’âme. Si Lilith est à vous, Mars, chez l’autre, vous montre quelque chose d’aussi étranger : un élan qui ne demande la permission à personne, parce qu’il n’a jamais pensé en avoir besoin.
 
-Ces deux signes, face à face, partagent un mode. Mars en Cancer opposition Lilith en Capricorne, deux signes cardinaux : un élan protecteur, tourné vers le foyer, face à un refus de plier devant quelque autorité que ce soit. Mars en Sagittaire opposition Lilith en Gémeaux, deux signes mutables : une poussée vers la vue d’ensemble face à un esprit indompté et agité.
+Ces deux signes, face à face, partagent un mode. Entre Mars en Cancer et Lilith en Capricorne, l’axe est cardinal : un élan protecteur, tourné vers le foyer, face à un refus de plier devant quelque autorité que ce soit. Entre Mars en Sagittaire et Lilith en Gémeaux, il devient mutable : une poussée vers la vue d’ensemble face à un esprit indompté et agité.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

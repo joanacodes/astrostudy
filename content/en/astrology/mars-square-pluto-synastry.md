@@ -39,7 +39,7 @@ Both signs usually belong to one modality, and that modality names the theme. Ma
 
 ## Where it rubs {#where-it-rubs}
 
-Holding the Mars, you may feel examined, slowed or second-guessed: every plan gets asked what it's really for, and your energy can seem to hit something immovable. It's easy to push harder just to get past it.
+As the Mars person, you may feel examined, slowed or second-guessed: every plan gets asked what it's really for, and your energy can seem to hit something immovable. It's easy to push harder just to get past it.
 
 Holding the Pluto, you may feel hurried, or that your caution is being overruled: their momentum arrives before you've seen the bottom of a situation, and your depth can be taken for control. It's easy to dig in just to slow things down.
 
