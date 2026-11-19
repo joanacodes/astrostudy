@@ -1,7 +1,7 @@
 ---
 title: "Saturn square Chiron in synastry"
 h1: "Saturn square Chiron between two charts"
-description: "Saturn square Chiron in synastry: one person’s standards press on the other’s lasting limit, and a fitted rule can come of it. Both sides, who has it."
+description: "Saturn square Chiron in synastry: one person’s standards press on the other’s lasting limit, and a fitted rule can come of it. Each side, a generation apart."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

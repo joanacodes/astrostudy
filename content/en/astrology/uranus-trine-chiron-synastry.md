@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 329
 glyph: "♅△⚷"
-definition: "Uranus trine Chiron in synastry means one person’s Uranus is about 120° from the other’s Chiron, within 3.4°. One person’s originality suits the other’s way of living with a lasting limit, so new solutions arrive without a fight. Whole birth periods share it; I read it through the houses, watching for the effort its ease can hide."
+definition: "Uranus trine Chiron in synastry means one person’s Uranus is about 120° from the other’s Chiron, within 3.4°. One person’s originality suits the other’s way of living with a lasting limit, so solutions come without a fight. Whole birth periods share it; I read it through the houses, alert to the effort its ease can hide."
 facts:
   - { k: "Bodies", v: "One person’s Uranus ♅, the other’s Chiron ⚷" }
   - { k: "Aspect", v: "Trine △, 120°" }
@@ -50,7 +50,7 @@ Ease can hide the cost. Because solutions arrive so smoothly, the Uranus person 
 
 ## How to meet it {#how-to-meet-it}
 
-Name the effort out loud. Once in a while, the Uranus person can ask what still costs the other something; the Chiron person can say so before it piles up. Keep the good inventions visible, written down or passed on, since Chiron's knowledge often helps a third person later. Friends may build a shared toolbox of tricks; a couple, a home that works for both bodies and both temperaments; colleagues, a method the whole team adopts; a parent and an adult child, new ways of keeping in touch.
+Name the effort out loud. Once in a while, the Uranus person can ask what still costs the other something; the Chiron person can say so before it piles up. Keep the good inventions visible, written down or passed on, since Chiron's knowledge often helps a third person later. Friends may build a shared toolbox of tricks; a couple, a home that works for both; colleagues, a method the whole team adopts.
 
 Like every contact between slow bodies, it belongs to dates rather than to persons. Besides the double example above, the Uranus of someone born in mid-1975 trines the Chiron of anyone born from June 1937 to June 1938. None of this is personal in the way a contact with someone's Moon would be, so I keep it outside my synastry count, which takes only contacts reaching the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven of one of the two. Through the houses, I read it as an easy exchange between two eras more than between two people.
 

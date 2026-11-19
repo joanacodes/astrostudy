@@ -1,7 +1,7 @@
 ---
 title: "Saturn sextile Chiron in synastry"
 h1: "Saturn sextile Chiron between two charts"
-description: "Saturn sextile Chiron in synastry: one person’s structure, offered to the other’s way of adapting, if someone asks. Both sides, the birth years."
+description: "Saturn sextile Chiron in synastry: one person’s structure, offered to the other’s way of adapting, if someone asks. Each side, two eras, the houses."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -38,7 +38,7 @@ If the Saturn is yours, you have something practical to lend: a schedule, a habi
 
 If the Chiron is yours, you hold practical wisdom the other can use: what still works when the standard plan fails. And in this person you have someone whose steadiness could make your adaptation less tiring to keep up.
 
-So the exchange runs both ways, structure for know-how, and the signs usually get on. One person's Saturn in Cancer with the other's Chiron in Taurus: a protective sense of duty beside a slow, practical way of coping.
+So the exchange runs both ways, structure for know-how, and the signs usually get on. One person's Saturn in Cancer with the other's Chiron in Taurus: a protective sense of duty beside a steady way of coping that keeps whatever works.
 
 ## Where it rubs {#where-it-rubs}
 

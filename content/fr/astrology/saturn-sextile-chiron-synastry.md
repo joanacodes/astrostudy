@@ -37,9 +37,9 @@ Un sextile est une offre, et Saturne sextile Chiron en synastrie est une offre d
 
 Si Saturne est de votre côté, vous avez quelque chose de concret à prêter : un emploi du temps, l’habitude de finir, la patience de monter un système et de le faire tourner. La façon dont l’autre fait face vous intéresse, parce qu’elle marche dans des conditions que vos méthodes n’ont jamais eu à affronter.
 
-Si Chiron est de votre côté, vous avez une sagesse pratique dont l’autre peut se servir : ce qui marche encore quand le plan habituel échoue. Et vous trouvez chez cette personne une stabilité qui pourrait rendre votre adaptation moins fatigante à tenir.
+Si Chiron est de votre côté, vous avez une sagesse pratique dont l’autre peut se servir : ce qui marche encore quand le plan habituel échoue. Et cette personne a une stabilité qui pourrait rendre votre adaptation moins fatigante.
 
-L’échange va donc dans les deux sens, une structure contre un savoir-faire, et les signes s’entendent en général. Saturne de l’une en Cancer, Chiron de l’autre en Taureau : un sens protecteur du devoir à côté d’une façon lente et concrète de faire face.
+L’échange va donc dans les deux sens, une structure contre un savoir-faire, et les signes s’entendent en général. Saturne de l’une en Cancer, Chiron de l’autre en Taureau : un sens protecteur du devoir à côté d’une façon régulière de faire face, qui garde tout ce qui marche.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
