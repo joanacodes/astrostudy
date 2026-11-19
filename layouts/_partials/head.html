@@ -24,7 +24,11 @@
 {{- /* large previews: Google Discover only shows big cards (and sends real traffic) with this */}}
 <meta name="robots" content="max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 {{- end }}
-<meta name="theme-color" content="#9db6c9">
+<meta name="theme-color" content="#9db6c9" data-light="#9db6c9" data-dark="#121a22">
+{{- /* Light or dark, settled before the stylesheet paints: the visitor's choice if this browser kept one
+       (assets/js/theme.js), else the device's setting. Without JavaScript there is no data-theme, and
+       the site stays light. */}}
+<script>(function (h, m) { var t; try { t = localStorage.getItem("astro-theme"); } catch (e) {} if (t !== "dark" && t !== "light") t = window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"; h.setAttribute("data-theme", t); if (m) m.setAttribute("content", m.getAttribute("data-" + t)); })(document.documentElement, document.querySelector('meta[name="theme-color"]'));</script>
 <meta name="format-detection" content="telephone=no">
 <link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
 <link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | relURL }}">

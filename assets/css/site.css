@@ -71,20 +71,42 @@
   --ink: #1c211b;
   --ink-2: #474e44;
   --ink-3: #4b5249;
+  --ink-rgb: 28, 33, 27; /* the ink as channels, for washes of it (a hover, a faint edge) */
   --line: rgba(28, 33, 27, 0.14);
   --line-2: rgba(28, 33, 27, 0.3);
   --field-line: rgba(28, 33, 27, 0.55); /* 3:1 against the paper, as WCAG asks of input edges */
   --accent: #b5512c;
+  --accent-rgb: 181, 81, 44; /* the accent as channels, for its tints */
   --accent-ink: #8f3d1f;
+  --on-accent: #fff; /* type and ticks on an accent fill */
   --leaf: #50683c;
   --halo: 246, 245, 239;
   /* over the meadow: white type on a soft, feathered shade of the sky behind it */
   --sky-ink: #fff;
   --sky-ink-2: rgba(255, 255, 255, 0.9);
   --sky-shadow: 0 1px 2px rgba(6, 16, 26, 0.3), 0 0 1px rgba(6, 16, 26, 0.25);
+  --sky-btn: #fff; /* the solid buttons on the meadow, and the type on them */
+  --sky-btn-ink: #1c211b;
+  --sky-base: #9db6c9; /* under the meadow until it paints, and past the ends of the page */
+  --sky-patch: linear-gradient(160deg, #8fb0c9 0%, #c3d4e0 55%, #dfe3d6 100%); /* a sign on a patch of sky, until there's a picture */
   /* glass panels: the meadow shows through, blurred, behind the reading */
   --pane: rgba(247, 246, 241, 0.6);
   --pane-2: rgba(244, 243, 237, 0.7);
+  /* As channels, each use giving its own opacity: the smaller sheets of glass (the facts, the sign-up,
+     the contact sheet), the cards and fields laid on the glass, and the bright edge a pane catches. */
+  --sheet: 248, 247, 242;
+  --fill: 255, 255, 255;
+  --rim: 255, 255, 255;
+  --bar-1: rgba(250, 249, 245, 0.74); /* the header, top to bottom */
+  --bar-2: rgba(246, 245, 240, 0.62);
+  --panel: #f6f5f0; /* the computer menu, and the bar while it's open */
+  --drawer: rgba(244, 243, 237, 0.74); /* the phone menu */
+  --scrim: rgba(28, 40, 48, 0.18); /* the page under the computer menu */
+  --footer: rgba(24, 31, 25, 0.8);
+  --footer-ink: 243, 241, 234; /* as channels; the footer is dark in both themes, so its type is light in both */
+  --preloader: radial-gradient(ellipse at 50% 45%, rgba(247, 246, 241, 0.62) 0%, rgba(236, 234, 222, 0.55) 70%, rgba(227, 226, 214, 0.5) 100%);
+  --sunword: linear-gradient(to left, #f7c25a 0%, #eea23c 24%, #d77a33 46%, #8a4a26 60%, var(--ink) 72%);
+  --redword: linear-gradient(to left, #d96a3c 0%, var(--accent) 30%, #8f3d1f 62%, #4a2a1c 88%, var(--ink) 100%);
   --serif: "Fraunces", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
   --sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
@@ -92,6 +114,98 @@
   --gutter: max(clamp(16px, 4.2vw, 56px), env(safe-area-inset-left), env(safe-area-inset-right));
   --max: 1220px;
   --radius: 2px;
+}
+
+/* Night: the same page under a dark sky, dark glass over a dimmed meadow. head.html sets data-theme
+   before the first paint, from the visitor's choice if this browser kept one, else from the device's
+   setting; without JavaScript it is never set and the site stays light. Screen only, so a printout
+   stays on white paper. The type keeps AA contrast even where the brightest patch of the meadow
+   glows through the glass. */
+@media screen {
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --paper: #151916;
+    --paper-2: #1c211d;
+    --glass: rgba(24, 29, 26, 0.7);
+    --glass-strong: rgba(22, 27, 24, 0.86);
+    --ink: #ece8de;
+    --ink-2: #cbc7bb;
+    --ink-3: #bdb9ad;
+    --ink-rgb: 236, 232, 222;
+    --line: rgba(236, 232, 222, 0.14);
+    --line-2: rgba(236, 232, 222, 0.3);
+    --field-line: rgba(236, 232, 222, 0.5);
+    /* the same warm red, lit up enough to read on the dark */
+    --accent: #e0855d;
+    --accent-rgb: 224, 133, 93;
+    --accent-ink: #efa585;
+    --on-accent: #1d120c;
+    --leaf: #a3bd8c;
+    --halo: 14, 18, 16;
+    --sky-btn: #f1ede3;
+    --sky-base: #121a22;
+    --sky-patch: linear-gradient(160deg, #24364a 0%, #33485a 55%, #46534d 100%);
+    --pane: rgba(20, 25, 22, 0.66);
+    --pane-2: rgba(17, 21, 18, 0.74);
+    --sheet: 26, 31, 28;
+    --fill: 48, 55, 51;
+    --rim: 86, 94, 89;
+    --bar-1: rgba(24, 29, 26, 0.8);
+    --bar-2: rgba(20, 25, 22, 0.7);
+    --panel: #181d1a;
+    --drawer: rgba(16, 20, 17, 0.82);
+    --scrim: rgba(2, 6, 10, 0.45);
+    --footer: rgba(10, 13, 11, 0.84);
+    --preloader: radial-gradient(ellipse at 50% 45%, rgba(26, 31, 28, 0.7) 0%, rgba(18, 22, 19, 0.66) 70%, rgba(12, 15, 13, 0.62) 100%);
+    --sunword: linear-gradient(to left, #f7c25a 0%, #eea23c 24%, #e59a5c 46%, #e8c3a0 60%, var(--ink) 72%);
+    --redword: linear-gradient(to left, #f08c62 0%, var(--accent) 30%, #e9a487 62%, #e8d2c6 88%, var(--ink) 100%);
+    --night: rgba(4, 10, 20, 0.62);
+  }
+  /* The meadow at night: one plain veil over the scene. Not a filter, which would be worked out again
+     for every frame the meadow draws. */
+  :root[data-theme="dark"] .meadow::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    background: var(--night);
+  }
+  /* the sheets' veil darkens the page rather than lighting it; written out, not a variable, because
+     older browsers pass no variables down to ::backdrop */
+  :root[data-theme="dark"] .sheet::backdrop {
+    background: rgba(6, 9, 8, 0.5);
+  }
+  /* the browser's own grey for a field's placeholder is too faint on a dark field (the light site keeps
+     the browser's); Firefox also dims it with opacity */
+  :root[data-theme="dark"] ::placeholder {
+    color: rgba(236, 232, 222, 0.64);
+    opacity: 1;
+  }
+  /* the tick on an accent circle takes the accent's dark type (one rule each: a browser that can't read
+     :has() drops the whole rule it appears in) */
+  :root[data-theme="dark"] .evening:has(input:checked)::after {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 18 18'%3E%3Cpath d='M5 9.4l2.6 2.6L13 6.6' fill='none' stroke='%231d120c' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  }
+  :root[data-theme="dark"] .quiz__answers li.is-right::before {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 18 18'%3E%3Cpath d='M5 9.4l2.6 2.6L13 6.6' fill='none' stroke='%231d120c' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  }
+}
+
+/* While the theme changes every colour lands at once (theme.js): the fades written for hovers would
+   otherwise each run at their own pace. The switch's knob still slides. Where the browser can, the
+   page crossfades instead (a view transition), a little slower than its default. */
+.theme-switching *,
+.theme-switching *::before,
+.theme-switching *::after {
+  transition: none !important;
+}
+.theme-switching .theme-toggle__knob {
+  transition: transform 0.6s cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation-duration: 0.45s;
+  animation-timing-function: cubic-bezier(0.22, 0.61, 0.36, 1);
 }
 
 *,
@@ -103,7 +217,7 @@
 html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-  background: #9db6c9;
+  background: var(--sky-base);
   overflow-x: hidden;
   overflow-x: clip;
 }
@@ -141,7 +255,7 @@ a {
 }
 
 ::selection {
-  background: rgba(181, 81, 44, 0.22);
+  background: rgba(var(--accent-rgb), 0.22);
 }
 
 :focus-visible {
@@ -364,16 +478,16 @@ p {
   padding-top: max(10px, env(safe-area-inset-top));
   /* one light bar across the whole width: text scrolling beneath never shows between two pills */
   /* frosted glass: the meadow and the page pass beneath, blurred enough that words stay out of the way */
-  background: linear-gradient(180deg, rgba(250, 249, 245, 0.74), rgba(246, 245, 240, 0.62));
+  background: linear-gradient(180deg, var(--bar-1), var(--bar-2));
   -webkit-backdrop-filter: blur(24px) saturate(1.4);
   backdrop-filter: blur(24px) saturate(1.4);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.55);
-  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.6), 0 10px 30px -24px rgba(20, 40, 20, 0.4);
+  border-bottom: 1px solid rgba(var(--rim), 0.55);
+  box-shadow: inset 0 1px 0 rgba(var(--rim), 0.6), 0 10px 30px -24px rgba(20, 40, 20, 0.4);
   transition: background-color 0.5s var(--ease);
 }
 /* with the menu open the bar and the panel read as one sheet */
 .menu-open .header {
-  background: #f6f5f0;
+  background: var(--panel);
   border-bottom-color: transparent;
 }
 .brand {
@@ -420,8 +534,69 @@ p {
   transition: background-color 0.4s var(--ease), color 0.4s var(--ease);
 }
 .header__lang:hover {
-  background: rgba(28, 33, 27, 0.06);
+  background: rgba(var(--ink-rgb), 0.06);
   color: var(--ink);
+}
+/* The light/dark switch: a small track whose knob carries the sun by day and slides over with the
+   moon at night. The knob follows <html data-theme>, set before the first paint, rather than the
+   button's aria-pressed, set once the script runs, so it never slides on arrival. The track's edge
+   is the input-edge colour: with the knob it's all there is to see of the control. */
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  padding: 9px 6px;
+  border: 0;
+  border-radius: 999px;
+  background: none;
+  font: inherit;
+  color: var(--ink);
+  cursor: pointer;
+}
+.theme-toggle__track {
+  position: relative;
+  flex: none;
+  width: 44px;
+  height: 26px;
+  border-radius: 999px;
+  border: 1px solid var(--field-line);
+  transition: background-color 0.4s var(--ease), border-color 0.4s var(--ease);
+}
+.theme-toggle:hover .theme-toggle__track {
+  border-color: var(--ink);
+  background: rgba(var(--ink-rgb), 0.06);
+}
+.theme-toggle__knob {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  display: grid;
+  place-items: center;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: var(--ink);
+  color: var(--paper);
+  transition: transform 0.6s var(--ease-out);
+}
+.theme-toggle svg {
+  width: 14px;
+  height: 14px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.theme-toggle__moon,
+[data-theme="dark"] .theme-toggle__sun {
+  display: none;
+}
+[data-theme="dark"] .theme-toggle__moon {
+  display: block;
+}
+[data-theme="dark"] .theme-toggle__knob {
+  transform: translateX(18px);
 }
 .menu-toggle {
   display: inline-flex;
@@ -441,7 +616,7 @@ p {
   transition: background-color 0.4s var(--ease), color 0.4s var(--ease), border-color 0.4s var(--ease);
 }
 .menu-toggle:hover {
-  background: rgba(28, 33, 27, 0.06);
+  background: rgba(var(--ink-rgb), 0.06);
 }
 .menu-toggle[aria-expanded="true"] {
   background: var(--ink);
@@ -497,7 +672,8 @@ p {
 }
 .no-js .menu-toggle,
 .no-js .menu-panel,
-.no-js .menu-scrim {
+.no-js .menu-scrim,
+.no-js .theme-toggle {
   display: none !important;
 }
 .no-js .header {
@@ -527,6 +703,13 @@ p {
     padding: 10px 8px;
   }
 }
+/* Below about 460px the switch would push the bar past the screen's edge: there it lives in the phone
+   menu only. */
+@media (max-width: 459px) {
+  .header .theme-toggle {
+    display: none;
+  }
+}
 
 /* The computer menu: a panel sliding down from under the bar to 40% of the screen (never so short
    that a card loses its line), one card per page, the order button and the small links at the end.
@@ -540,7 +723,7 @@ p {
   --panel-h: max(40vh, 360px);
   height: var(--panel-h);
   padding: 84px var(--gutter) 26px;
-  background: #f6f5f0;
+  background: var(--panel);
   box-shadow: 0 30px 60px -30px rgba(18, 38, 18, 0.35);
   transform: translateY(-101%);
   visibility: hidden;
@@ -590,7 +773,7 @@ p {
   overflow: hidden;
   border-radius: 14px;
   /* until a picture is given: a patch of the meadow's sky, with the page's sign */
-  background: linear-gradient(160deg, #8fb0c9 0%, #c3d4e0 55%, #dfe3d6 100%);
+  background: var(--sky-patch);
   display: grid;
   place-items: center;
 }
@@ -692,7 +875,7 @@ p {
   position: fixed;
   inset: 0;
   z-index: 37;
-  background: rgba(28, 40, 48, 0.18);
+  background: var(--scrim);
   opacity: 0;
   visibility: hidden;
   transition: opacity 0.6s var(--ease), visibility 0s linear 0.6s;
@@ -724,7 +907,7 @@ p {
   overscroll-behavior: contain;
   padding: 96px var(--gutter) calc(110px + env(safe-area-inset-bottom));
   text-align: right;
-  background: rgba(244, 243, 237, 0.74);
+  background: var(--drawer);
   -webkit-backdrop-filter: blur(34px) saturate(1.4);
   backdrop-filter: blur(34px) saturate(1.4);
   opacity: 0;
@@ -860,6 +1043,18 @@ p {
   padding-top: 22px;
   color: var(--ink-2);
 }
+/* in the phone menu the switch says what it is, in the language link's small capitals */
+.drawer .theme-toggle {
+  align-self: flex-end;
+  margin-top: 6px;
+  padding: 8px 0;
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-2);
+}
 
 /* ------------------------------------------------------------------------------------------------
    Layout */
@@ -962,7 +1157,7 @@ main:focus {
   background: var(--glass-strong);
   -webkit-backdrop-filter: blur(16px) saturate(1.3);
   backdrop-filter: blur(16px) saturate(1.3);
-  border: 1px solid rgba(255, 255, 255, 0.6);
+  border: 1px solid rgba(var(--rim), 0.6);
   text-shadow: none;
 }
 .hero .btn,
@@ -976,17 +1171,17 @@ main:focus {
 }
 .hero .btn::before,
 .window .btn::before {
-  background: #fff;
+  background: var(--sky-btn);
 }
 .hero .btn:hover,
 .window .btn:hover {
-  color: var(--ink);
+  color: var(--sky-btn-ink);
 }
 .hero .btn--solid,
 .window .btn--solid {
-  background: #fff;
-  border-color: #fff;
-  color: var(--ink);
+  background: var(--sky-btn);
+  border-color: var(--sky-btn);
+  color: var(--sky-btn-ink);
 }
 .hero .btn--solid::before,
 .window .btn--solid::before {
@@ -994,7 +1189,7 @@ main:focus {
 }
 .hero .btn--solid:hover,
 .window .btn--solid:hover {
-  color: #fff;
+  color: var(--on-accent);
   border-color: var(--accent-ink);
 }
 .hero__actions {
@@ -1020,10 +1215,10 @@ main:focus {
   margin: 18px 0 0;
   padding: 0;
   list-style: none;
-  background: rgba(248, 247, 242, 0.62);
+  background: rgba(var(--sheet), 0.62);
   -webkit-backdrop-filter: blur(26px) saturate(1.4) brightness(1.04);
   backdrop-filter: blur(26px) saturate(1.4) brightness(1.04);
-  border: 1px solid rgba(255, 255, 255, 0.55);
+  border: 1px solid rgba(var(--rim), 0.55);
   border-radius: 14px;
   overflow: hidden;
 }
@@ -1096,8 +1291,8 @@ main:focus {
   background: linear-gradient(180deg, var(--pane), var(--pane-2));
   -webkit-backdrop-filter: blur(36px) saturate(1.45) brightness(1.06);
   backdrop-filter: blur(36px) saturate(1.45) brightness(1.06);
-  border-top: 1px solid rgba(255, 255, 255, 0.6);
-  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.45);
+  border-top: 1px solid rgba(var(--rim), 0.6);
+  box-shadow: inset 0 1px 0 rgba(var(--rim), 0.45);
 }
 .paper + .paper {
   border-top: 1px solid var(--line);
@@ -1193,7 +1388,7 @@ main h2:not(.visually-hidden),
   text-decoration-line: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 0.17em;
-  text-decoration-color: rgba(181, 81, 44, 0.5);
+  text-decoration-color: rgba(var(--accent-rgb), 0.5);
   text-decoration-skip-ink: auto;
 }
 .window .display {
@@ -1478,6 +1673,14 @@ main h2:not(.visually-hidden),
 .wheel .w-dot--accent {
   fill: var(--accent);
 }
+/* the accent is written into a few drawn figures (mark-wheel.html, mark-pair.html, sky.js): it follows
+   the theme's */
+svg [stroke="#b5512c"] {
+  stroke: var(--accent);
+}
+svg [fill="#b5512c"] {
+  fill: var(--accent);
+}
 .wheel text {
   font-family: var(--sans);
   font-size: 7px;
@@ -1535,7 +1738,7 @@ main h2:not(.visually-hidden),
 .steps li.is-lit::before {
   background: var(--accent);
   border-color: var(--accent);
-  box-shadow: 0 0 0 5px rgba(181, 81, 44, 0.14);
+  box-shadow: 0 0 0 5px rgba(var(--accent-rgb), 0.14);
 }
 .steps h3 {
   margin-bottom: 8px;
@@ -1640,7 +1843,7 @@ main h2:not(.visually-hidden),
 .note {
   padding: 22px 24px;
   border-left: 2px solid var(--accent);
-  background: rgba(181, 81, 44, 0.05);
+  background: rgba(var(--accent-rgb), 0.05);
   color: var(--ink-2);
   max-width: 44em;
 }
@@ -1662,10 +1865,10 @@ main h2:not(.visually-hidden),
   color: var(--ink);
   padding: clamp(22px, 3.4vw, 34px);
   border-radius: 18px;
-  background: rgba(248, 247, 242, 0.7);
+  background: rgba(var(--sheet), 0.7);
   -webkit-backdrop-filter: blur(26px) saturate(1.4) brightness(1.04);
   backdrop-filter: blur(26px) saturate(1.4) brightness(1.04);
-  border: 1px solid rgba(255, 255, 255, 0.6);
+  border: 1px solid rgba(var(--rim), 0.6);
   box-shadow: 0 24px 60px -36px rgba(10, 30, 20, 0.55);
 }
 .signup .btn {
@@ -1683,7 +1886,7 @@ main h2:not(.visually-hidden),
   background: var(--accent-ink);
 }
 .signup .btn--solid:hover {
-  color: #fff;
+  color: var(--on-accent);
   border-color: var(--accent-ink);
 }
 .signup .form {
@@ -1707,7 +1910,7 @@ main h2:not(.visually-hidden),
   padding: 14px 18px 14px;
   border: 1px solid var(--line);
   border-radius: 14px;
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(var(--fill), 0.5);
   cursor: pointer;
   transition: border-color 0.3s var(--ease), background 0.3s var(--ease), box-shadow 0.3s var(--ease);
 }
@@ -1746,11 +1949,11 @@ main h2:not(.visually-hidden),
 }
 .evening:hover {
   border-color: var(--ink-3);
-  background: rgba(255, 255, 255, 0.7);
+  background: rgba(var(--fill), 0.7);
 }
 .evening:has(input:checked) {
   border-color: var(--accent);
-  background: rgba(255, 255, 255, 0.85);
+  background: rgba(var(--fill), 0.85);
   box-shadow: inset 0 0 0 1px var(--accent);
 }
 .evening:has(input:checked) .evening__num {
@@ -1939,7 +2142,7 @@ main h2:not(.visually-hidden),
   padding: 14px 16px;
   border: 1px solid var(--line);
   border-radius: 14px;
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(var(--fill), 0.5);
   font: inherit;
   font-size: 1rem;
   line-height: 1.5;
@@ -1950,7 +2153,7 @@ main h2:not(.visually-hidden),
 }
 .quiz__option:hover:not(:disabled) {
   border-color: var(--ink-3);
-  background: rgba(255, 255, 255, 0.75);
+  background: rgba(var(--fill), 0.75);
 }
 .quiz__option:focus-visible {
   outline: 2px solid var(--accent);
@@ -1963,7 +2166,7 @@ main h2:not(.visually-hidden),
 .quiz__option.is-picked {
   opacity: 1;
   border-color: var(--accent);
-  background: rgba(255, 255, 255, 0.85);
+  background: rgba(var(--fill), 0.85);
   box-shadow: inset 0 0 0 1px var(--accent);
 }
 .quiz__letter {
@@ -1995,7 +2198,7 @@ main h2:not(.visually-hidden),
   padding: 18px 20px;
   border: 1px solid var(--line);
   border-radius: 14px;
-  background: rgba(255, 255, 255, 0.6);
+  background: rgba(var(--fill), 0.6);
 }
 .quiz__chart h3 {
   margin: 0;
@@ -2035,7 +2238,7 @@ main h2:not(.visually-hidden),
   padding: 14px 16px 14px 46px;
   border: 1px solid var(--line);
   border-radius: 14px;
-  background: rgba(255, 255, 255, 0.45);
+  background: rgba(var(--fill), 0.45);
 }
 /* a tick in a filled circle where the participant found their own, an empty circle where they didn't */
 .quiz__answers li::before {
@@ -2381,15 +2584,15 @@ main h2:not(.visually-hidden),
 
 .footer {
   position: relative;
-  background: rgba(24, 31, 25, 0.8);
+  background: var(--footer);
   -webkit-backdrop-filter: blur(30px) saturate(1.3);
   backdrop-filter: blur(30px) saturate(1.3);
-  color: rgba(243, 241, 234, 0.84);
+  color: rgba(var(--footer-ink), 0.84);
   padding: clamp(56px, 7vw, 96px) 0 110px;
   font-size: 0.92rem;
 }
 .footer a {
-  color: var(--paper);
+  color: rgb(var(--footer-ink));
   text-decoration: none;
 }
 .footer a:hover {
@@ -2407,7 +2610,7 @@ main h2:not(.visually-hidden),
   }
 }
 .footer .brand {
-  color: var(--paper);
+  color: rgb(var(--footer-ink));
   margin-bottom: 14px;
 }
 .footer h2 {
@@ -2416,7 +2619,7 @@ main h2:not(.visually-hidden),
   font-weight: 500;
   letter-spacing: 0.15em;
   text-transform: uppercase;
-  color: rgba(243, 241, 234, 0.66);
+  color: rgba(var(--footer-ink), 0.66);
   margin: 0 0 14px;
 }
 .footer ul {
@@ -2430,13 +2633,13 @@ main h2:not(.visually-hidden),
 .footer__fine {
   margin-top: 56px;
   padding-top: 22px;
-  border-top: 1px solid rgba(243, 241, 234, 0.14);
+  border-top: 1px solid rgba(var(--footer-ink), 0.14);
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   gap: 12px 32px;
   font-size: 0.8rem;
-  color: rgba(243, 241, 234, 0.66);
+  color: rgba(var(--footer-ink), 0.66);
 }
 .footer__fine p {
   margin: 0;
@@ -2460,7 +2663,7 @@ main h2:not(.visually-hidden),
   gap: 10px;
   padding: 12px 20px 12px 16px;
   border-radius: 999px;
-  border: 1px solid rgba(28, 33, 27, 0.1);
+  border: 1px solid rgba(var(--ink-rgb), 0.1);
   background: var(--glass-strong);
   -webkit-backdrop-filter: blur(16px) saturate(1.3);
   backdrop-filter: blur(16px) saturate(1.3);
@@ -2514,13 +2717,13 @@ main h2:not(.visually-hidden),
   height: fit-content;
   max-height: min(90vh, 880px);
   max-height: min(90dvh, 880px);
-  border: 1px solid rgba(255, 255, 255, 0.65);
+  border: 1px solid rgba(var(--rim), 0.65);
   border-radius: 22px;
-  background: rgba(248, 247, 242, 0.76);
+  background: rgba(var(--sheet), 0.76);
   -webkit-backdrop-filter: blur(32px) saturate(1.45);
   backdrop-filter: blur(32px) saturate(1.45);
   color: var(--ink);
-  box-shadow: 0 60px 160px -40px rgba(10, 30, 10, 0.55), inset 0 1px 0 rgba(255, 255, 255, 0.6);
+  box-shadow: 0 60px 160px -40px rgba(10, 30, 10, 0.55), inset 0 1px 0 rgba(var(--rim), 0.6);
   overflow: hidden auto;
   overscroll-behavior: contain;
   --sheet-from: translateY(26px) scale(0.975);
@@ -2575,7 +2778,7 @@ main h2:not(.visually-hidden),
   justify-content: space-between;
   align-items: center;
   padding: 18px 22px 14px;
-  background: rgba(248, 247, 242, 0.72);
+  background: rgba(var(--sheet), 0.72);
   -webkit-backdrop-filter: blur(18px);
   backdrop-filter: blur(18px);
   border-bottom: 1px solid var(--line);
@@ -2592,7 +2795,7 @@ main h2:not(.visually-hidden),
   transition: background 0.4s var(--ease), transform 0.6s var(--ease-out);
 }
 .sheet__close:hover {
-  background: rgba(28, 33, 27, 0.06);
+  background: rgba(var(--ink-rgb), 0.06);
   transform: rotate(90deg);
 }
 .sheet__close::before,
@@ -2655,7 +2858,7 @@ main h2:not(.visually-hidden),
   font: inherit;
   font-size: 1rem;
   color: var(--ink);
-  background: rgba(255, 255, 255, 0.55);
+  background: rgba(var(--fill), 0.55);
   border: 0;
   border-bottom: 1px solid var(--field-line);
   border-radius: 0;
@@ -2683,7 +2886,7 @@ main h2:not(.visually-hidden),
   outline: none;
   border-bottom-color: var(--ink);
   box-shadow: 0 1px 0 0 var(--ink);
-  background: rgba(255, 255, 255, 0.85);
+  background: rgba(var(--fill), 0.85);
 }
 .check input:focus-visible {
   outline: 2px solid var(--accent);
@@ -2778,7 +2981,7 @@ main h2:not(.visually-hidden),
   margin: 2px 0 0;
   border: 1px solid var(--ink-2);
   border-radius: 3px;
-  background: rgba(255, 255, 255, 0.6);
+  background: rgba(var(--fill), 0.6);
   display: grid;
   place-items: center;
   cursor: pointer;
@@ -2936,13 +3139,13 @@ main h2:not(.visually-hidden),
   padding: 12px 14px;
   border: 1px solid var(--line-2);
   border-radius: 12px;
-  background: rgba(255, 255, 255, 0.45);
+  background: rgba(var(--fill), 0.45);
   cursor: pointer;
   transition: border-color 0.4s var(--ease), background 0.4s var(--ease);
 }
 .option:has(input:checked) {
   border-color: var(--ink);
-  background: rgba(255, 255, 255, 0.8);
+  background: rgba(var(--fill), 0.8);
 }
 .option input {
   -webkit-appearance: none;
@@ -2987,7 +3190,7 @@ main h2:not(.visually-hidden),
   padding: 4px 0;
   border: 1px solid var(--line-2);
   border-radius: 10px;
-  background: rgba(255, 255, 255, 0.92);
+  background: rgba(var(--fill), 0.92);
   box-shadow: 0 18px 40px -26px rgba(18, 38, 18, 0.5);
   max-height: 300px;
   overflow-y: auto;
@@ -3009,7 +3212,7 @@ main h2:not(.visually-hidden),
 }
 .place__list [role="option"]:hover,
 .place__list [aria-selected="true"] {
-  background: rgba(28, 33, 27, 0.06);
+  background: rgba(var(--ink-rgb), 0.06);
 }
 .place__credit {
   margin-top: 4px;
@@ -3137,7 +3340,7 @@ main {
   line-height: 1.75;
 }
 mark.todo {
-  background: rgba(181, 81, 44, 0.14);
+  background: rgba(var(--accent-rgb), 0.14);
   color: var(--accent-ink);
   padding: 0.05em 0.35em;
   border-radius: 4px;
@@ -3176,7 +3379,7 @@ mark.todo {
   text-align: center;
   padding: var(--gutter);
   /* the same paper colours, as frosted glass: the meadow shows through, softly */
-  background: radial-gradient(ellipse at 50% 45%, rgba(247, 246, 241, 0.62) 0%, rgba(236, 234, 222, 0.55) 70%, rgba(227, 226, 214, 0.5) 100%);
+  background: var(--preloader);
   -webkit-backdrop-filter: blur(22px) saturate(1.2);
   backdrop-filter: blur(22px) saturate(1.2);
   color: var(--ink);
@@ -3326,11 +3529,11 @@ mark.todo {
   padding-right: 0.04em; /* the glow and the gradient reach the tail of the last letter */
 }
 .sunword {
-  background-image: linear-gradient(to left, #f7c25a 0%, #eea23c 24%, #d77a33 46%, #8a4a26 60%, var(--ink) 72%);
+  background-image: var(--sunword);
   filter: drop-shadow(0 0 12px rgba(245, 172, 72, 0.6));
 }
 .redword {
-  background-image: linear-gradient(to left, #d96a3c 0%, var(--accent) 30%, #8f3d1f 62%, #4a2a1c 88%, var(--ink) 100%);
+  background-image: var(--redword);
   filter: drop-shadow(0 0 11px rgba(200, 90, 50, 0.5));
 }
 
@@ -3348,7 +3551,7 @@ mark.todo {
   text-decoration-color: var(--accent);
 }
 .lit {
-  color: #fff;
+  color: var(--on-accent);
   background: var(--accent);
   padding: 0 0.22em 0.04em;
   border-radius: 0.18em;
@@ -3402,7 +3605,7 @@ mark.todo {
   aspect-ratio: 16 / 10;
   overflow: hidden;
   border-radius: 18px;
-  background: linear-gradient(160deg, #8fb0c9 0%, #c3d4e0 55%, #dfe3d6 100%);
+  background: var(--sky-patch);
 }
 .post-cover img {
   position: absolute;
@@ -3595,8 +3798,8 @@ mark.todo {
   justify-items: start;
   padding: 22px;
   border-radius: 18px;
-  background: rgba(255, 255, 255, 0.38);
-  border: 1px solid rgba(255, 255, 255, 0.6);
+  background: rgba(var(--fill), 0.38);
+  border: 1px solid rgba(var(--rim), 0.6);
 }
 .side-card p {
   margin: 0;
@@ -3655,7 +3858,7 @@ mark.todo {
     padding: 11px 26px calc(11px + 0px) 18px;
     border: 0;
     background: var(--accent);
-    color: #fff;
+    color: var(--on-accent);
     font: 500 0.72rem var(--sans);
     letter-spacing: 0.1em;
     text-transform: uppercase;
@@ -3767,7 +3970,7 @@ mark.todo {
   min-height: 44px;
   border-radius: 999px;
   border: 1px solid var(--field-line);
-  background: rgba(255, 255, 255, 0.4);
+  background: rgba(var(--fill), 0.4);
   cursor: text;
 }
 .search-field svg {
@@ -3824,7 +4027,7 @@ mark.todo {
   padding: 8px 14px;
   border-radius: 999px;
   border: 1px solid var(--line-2);
-  background: rgba(255, 255, 255, 0.3);
+  background: rgba(var(--fill), 0.3);
   color: var(--ink);
   cursor: pointer;
   transition: background-color 0.3s var(--ease), color 0.3s var(--ease), border-color 0.3s var(--ease);
@@ -3862,8 +4065,8 @@ mark.todo {
   width: 260px;
   padding: 16px;
   border-radius: 18px;
-  background: rgba(248, 247, 242, 0.96);
-  border: 1px solid rgba(255, 255, 255, 0.7);
+  background: rgba(var(--sheet), 0.96);
+  border: 1px solid rgba(var(--rim), 0.7);
   box-shadow: 0 24px 60px -24px rgba(18, 38, 18, 0.45);
 }
 .sort-menu .label {
@@ -3978,14 +4181,14 @@ mark.todo {
   align-items: start;
   padding: 16px;
   border-radius: 16px;
-  background: rgba(255, 255, 255, 0.36);
-  border: 1px solid rgba(255, 255, 255, 0.6);
+  background: rgba(var(--fill), 0.36);
+  border: 1px solid rgba(var(--rim), 0.6);
   text-decoration: none;
   color: var(--ink);
   transition: background-color 0.3s var(--ease), transform 0.4s var(--ease-out);
 }
 .enc-card:hover {
-  background: rgba(255, 255, 255, 0.6);
+  background: rgba(var(--fill), 0.6);
   transform: translateY(-2px);
 }
 .enc-card__glyph {
@@ -3995,7 +4198,7 @@ mark.todo {
   width: 52px;
   height: 52px;
   border-radius: 12px;
-  background: linear-gradient(160deg, #8fb0c9 0%, #c3d4e0 55%, #dfe3d6 100%);
+  background: var(--sky-patch);
   color: #fff;
   font-family: "Astro Symbols", var(--serif);
   font-size: 1.6rem;
