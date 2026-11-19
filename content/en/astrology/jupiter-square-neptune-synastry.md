@@ -20,7 +20,7 @@ faq:
   - q: "What does Jupiter square Neptune mean in synastry?"
     a: "A quarter of the zodiac, within 4.25°, separates one person’s Jupiter from the other’s Neptune. One tends to want clear principles, the other to follow ideals and intuitions that resist being pinned down. The friction can teach discernment: ideals with edges, beliefs with compassion."
   - q: "Is Jupiter square Neptune a sign of deception in a relationship?"
-    a: "No. Neptune doesn’t mean deception in my reading, and a square is friction, not failure. This one describes two ways of knowing that rub: clarity and imagination. It also comes with whole birth years, so I read it in the houses, never as a judgement on two people."
+    a: "No. Neptune doesn’t mean deception in my reading, and a square is friction, not failure. This one describes two ways of knowing that rub: clarity and imagination. And it says nothing about two people's honesty: whole birth years share it."
   - q: "Who has Jupiter square Neptune with someone?"
     a: "Look at the dates: everyone born between September 1962 and November 1965 has their Neptune square the Jupiter of a person born in mid-1985, to take one example. It belongs to those years, which is why I read it as two eras meeting."
 sources:

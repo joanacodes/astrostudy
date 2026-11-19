@@ -28,11 +28,11 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les aspects ; la conjonction, une rencontre plutôt qu’un angle" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact" }
 ---
-Saturne conjonction Uranus en synastrie pose Saturne, chez l’une, sur Uranus chez l’autre, à quelques degrés près. Les engagements que tient la première se trouvent exactement là où la seconde veut changer les choses, et comme les deux planètes avancent lentement, la rencontre se fait moins entre deux personnes qu’entre deux générations.
+À quelques degrés d’Uranus, chez l’une, se trouve Saturne de l’autre : c’est Saturne conjonction Uranus en synastrie. Les engagements que tient la première se trouvent exactement là où la seconde veut changer les choses, et comme les deux planètes avancent lentement, la rencontre se fait moins entre deux personnes qu’entre deux générations.
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Saturne](/astrology/saturn/) établit la structure : la responsabilité, les limites, la discipline, le long terme. [Uranus](/astrology/uranus/) rend le changement possible : innover, libérer, réformer les systèmes devenus trop étroits. Une [conjonction](/astrology/conjunction/) fait de deux fonctions un seul mouvement, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), celle-ci confie le maintien à l’une et le changement à l’autre. Les deux planètes partagent d’ailleurs un signe : Saturne est le maître traditionnel du [Verseau](/astrology/aquarius/), Uranus son maître moderne. Je lis les deux, et dans ce contact, chaque personne en apporte un.
+[Saturne](/astrology/saturn/) bâtit la structure : la responsabilité, les limites, la discipline, le long terme. [Uranus](/astrology/uranus/) rend le changement possible : innover, libérer, réformer les systèmes devenus trop étroits. Une [conjonction](/astrology/conjunction/) fait de deux fonctions un seul mouvement, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), celle-ci confie le maintien à l’une et le changement à l’autre. Saturne et Uranus ont aussi un signe en commun : Saturne est le maître traditionnel du [Verseau](/astrology/aquarius/), Uranus son maître moderne. Je lis les deux, et dans ce contact, chaque personne en apporte un.
 
 Si Saturne est de votre côté, l’agitation de l’autre tombe précisément là où vous gardez votre sens de ce qui doit tenir. Cette personne questionne la règle que vous n’aviez jamais pensé à questionner. Parfois, elle a raison, et c’est déstabilisant de manière utile.
 

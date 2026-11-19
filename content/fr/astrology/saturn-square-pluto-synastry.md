@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, 90°, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact" }
 ---
-Saturne carré Pluton en synastrie croise Saturne, chez l’une, avec Pluton chez l’autre, à environ 90°. L’une dit : « c’est comme ça qu’on fait » ; l’autre : « ça doit partir ». Aucune ne cède facilement, et la pression entre elles est réelle, ce qui est justement pourquoi elle peut bâtir quelque chose de durable.
+« C’est comme ça qu’on fait », dit l’une ; « ça doit partir », dit l’autre. Dans Saturne carré Pluton en synastrie, Saturne, chez la première, et Pluton chez la seconde se rencontrent à environ 90°, aucune ne cède facilement, et la pression entre elles est réelle, ce qui est justement pourquoi elle peut bâtir quelque chose de durable.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -53,7 +53,7 @@ Si Pluton est de votre côté, les structures de l’autre peuvent ressembler à
 
 Parlez du pouvoir simplement. Dites ce que chacune protège et ce que chacune craint de perdre, puis convenez de qui décide de quoi. Changez une chose à la fois, et laissez-la se poser avant la suivante. Une responsable et un membre de son équipe, deux copropriétaires, un parent et son enfant adulte qui reprend une part des responsabilités familiales : chacun peut se servir de la friction pour rebâtir sans que personne soit écrasé.
 
-Une personne née au milieu de 1975 l’a avec toute personne née entre octobre 1978 et novembre 1981, chez qui Pluton en Balance forme un carré avec Saturne de 1975, en Cancer ; une personne née au milieu de 1965 l’a avec toute personne née d’octobre 2001 à janvier 2004, chez qui Pluton forme un carré avec Saturne de 1965. De tels contacts relient des périodes de naissance entières : ils restent hors de ce que je compte dans une synastrie, où le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel doivent prendre part. Par les maisons, je lis ce carré comme deux époques qui pèsent l’une sur l’autre, plus que deux personnes.
+Ce carré relie par exemple une personne née au milieu de 1975, Saturne en Cancer, à toute personne née entre octobre 1978 et novembre 1981, Pluton en Balance, et une personne née au milieu de 1965 à toute personne née d’octobre 2001 à janvier 2004, chez qui Pluton forme un carré avec Saturne de 1965. De tels contacts relient des périodes de naissance entières : ils restent hors de ce que je compte dans une synastrie, où le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel doivent prendre part. Par les maisons, je lis ce carré comme deux époques qui pèsent l’une sur l’autre, plus que deux personnes.
 
 Les deux heures de naissance sont nécessaires pour ces maisons, même si le carré lui-même ne bouge pas avec l’heure ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Avec Pluton de l’autre dans votre maison 10, par exemple, la pression porte sur votre rôle public ([Pluton de l’autre dans votre maison 10](/astrology/pluto-in-10th-house-synastry/)).
 

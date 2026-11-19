@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 35
 glyph: "☉♊☽♒"
-definition: "Sun in Gemini, Moon in Aquarius has both lights in air, with the Moon four signs back, in the waning days between the full moon and the last quarter. To me it describes a mind made for networks: a self that connects people and ideas, and needs that rest once life feels fair, free and shared with friends."
+definition: "Sun in Gemini, Moon in Aquarius has both lights in air, with the Moon four signs back, in the waning days between the full moon and the last quarter. To me it describes a mind made for networks: a self that connects people and ideas, and needs that are at peace when life feels fair, free and shared with friends."
 facts:
   - { k: "Sun sign", v: "Gemini ♊, ruled by Mercury" }
   - { k: "Moon sign", v: "Aquarius ♒, ruled by Uranus and Saturn" }
@@ -22,7 +22,7 @@ faq:
   - q: "What do Mercury, Uranus and Saturn say with Sun in Gemini, Moon in Aquarius?"
     a: "Your Sun’s ruler, Mercury, shows how you think and link things up. Aquarius answers to Uranus in modern tropical astrology and to Saturn in the older tradition: Uranus shows where your Moon refuses the expected way of doing things, Saturn where it builds lasting loyalties, and I read the two side by side."
   - q: "Where was the Moon in its cycle when a Gemini Sun met an Aquarius Moon?"
-    a: "Somewhere between the full moon and the last quarter, seventeen to twenty-two days after a new moon, with the Moon 91° to 149° behind the Sun. The eight-phase count makes almost all of them disseminating births and the earliest full moon ones, and near 120° behind the lights make a waning trine."
+    a: "Somewhere between the full moon and the last quarter, seventeen to twenty-two days after a new moon, with the Moon 91° to 149° behind the Sun. The eight-phase count makes almost all of them disseminating births and the earliest full moon ones, and around 120° behind, the trine between the lights is exact."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Mercury’s rule of Gemini and Saturn’s of Aquarius, and the air signs" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and how far behind the Sun the Moon was" }
@@ -34,7 +34,7 @@ A mind full of connections and a heart loyal to its friends and its principles: 
 
 Mutable air meets fixed air four signs back from the Sun: a trine by sign, with the element shared and the mode different. The [Sun in Gemini](/astrology/sun-in-gemini/) gathers, links and passes on information, and comes alive in exchange; the [Moon in Aquarius](/astrology/moon-in-aquarius/) steadies itself by understanding, by seeing how a feeling fits a larger pattern, and by staying true to its friends and its principles. Where Gemini moves quickly between ideas, Aquarius picks a few and holds them, sometimes for life.
 
-Your Sun answers to [Mercury](/astrology/mercury/). On the Moon's side there are two rulers to weigh together: [Uranus](/astrology/uranus/), the modern ruler, assigned to Aquarius after William Herschel found the planet in 1781, and [Saturn](/astrology/saturn/), its ruler in the older books. Uranus marks where this Moon needs to do things its own way; Saturn, where it keeps faith. Neither sign confers a dignity on its light, so these three planets carry the detail of the pair.
+Your Sun answers to [Mercury](/astrology/mercury/). On the Moon's side I read both rulers together: [Saturn](/astrology/saturn/), Aquarius's ruler in traditional astrology, and [Uranus](/astrology/uranus/), which modern astrologers assigned to the sign after William Herschel found the planet in 1781. Uranus marks where this Moon needs to do things its own way; Saturn, where it keeps faith. Neither sign confers a dignity on its light, so these three planets carry the detail of the pair.
 
 The Sun was 91° to 149° ahead of the Moon, seventeen to twenty-two days after a new moon: past full and shrinking, the Moon rose in the middle of the evening or later. The [waning gibbous (disseminating) moon](/astrology/waning-gibbous-disseminating-moon/) is the phase of almost all of these births, the [full moon](/astrology/full-moon/) of the earliest; near 120° behind, the trine of signs becomes a waning [Sun trine Moon](/astrology/sun-trine-moon/). I read the disseminating phase as understanding that wants to be shared, and with two air signs that wish is strong: you may only know what you think once you've explained it to a room full of people. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) sets the phases side by side.
 

@@ -54,7 +54,7 @@ Its neighbours, for comparison:
 
 Name the limits while things are easy: how much time, help or money each of you can give, and what each of you needs back. When an ideal comes up, ask for specifics, a date, a cost, a first step, not to deflate it but to let it land. The trine suits colleagues in a helping profession, friends who run a choir or a reading group, a couple devoted to a shared cause, siblings who look after an older parent together.
 
-For a mid-1975 birthday, the trine reaches the Neptune of everyone born between November 1978 and January 1982, three to six years younger; and people born between September 1990 and February 1991 return the trine, from their Jupiter to that birthday's Neptune. Nothing personal sits at either end of this trine, no Sun, Moon, Mercury, Venus, Mars, Ascendant or Midheaven, and that is my test for counting a contact in a synastry. I read it instead through the houses, as two eras' ideals meeting, more than two personalities.
+Everyone born between November 1978 and January 1982, three to six years after a mid-1975 birthday, has Neptune trine that birthday's Jupiter; and people born between September 1990 and February 1991 return the trine, from their Jupiter to that birthday's Neptune. Nothing personal sits at either end of this trine, no Sun, Moon, Mercury, Venus, Mars, Ascendant or Midheaven, and that is my test for counting a contact in a synastry. I read it instead through the houses, as two eras' ideals meeting, more than two personalities.
 
 A birth hour does nothing to Jupiter or Neptune and everything to the houses, so for this trine, as for every contact, I need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 

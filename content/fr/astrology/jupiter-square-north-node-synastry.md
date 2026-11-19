@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact, avec le nœud vrai" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai" }
 ---
-Jupiter carré Nœud Nord en synastrie place Jupiter, chez l’une, à angle droit avec l’axe des nœuds de l’autre : à environ 90° de son Nœud Nord, et à 90° de son Nœud Sud aussi. Les convictions de la première ne s’alignent ni sur le point de départ de la seconde ni sur sa direction, et c’est précisément ce qui les rend utiles.
+Dans Jupiter carré Nœud Nord en synastrie, Jupiter, chez l’une, fait un angle droit avec l’axe des nœuds de l’autre : à environ 90° de son Nœud Nord, et à 90° de son Nœud Sud aussi. Les convictions de la première ne s’alignent ni sur le point de départ de la seconde ni sur sa direction, et c’est précisément ce qui les rend utiles.
 
 ## Ce qui circule {#ce-qui-circule}
 

@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the sextile, 60°, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that give this contact" }
 ---
-Saturn sextile Neptune in synastry links one person's Saturn and the other's Neptune at about 60°, with only 3° of leeway. It describes a trade that two generations could make: one supplies the step, the other supplies the reason, and nothing happens until someone proposes it.
+Saturn sextile Neptune in synastry links one person's Saturn and the other's Neptune at about 60°, a narrow contact with 3° to spare. It describes a trade that two generations could make: one supplies the step, the other supplies the reason, and nothing happens until someone proposes it.
 
 ## What flows {#what-flows}
 
@@ -54,7 +54,7 @@ The same two planets elsewhere on the circle:
 
 Attach one ideal to one habit. Pick something one of you cares about and give it a regular, protected slot: an evening a month for the cause, an hour on Sundays for the art. A parent and an adult child can start volunteering this way; friends, a choir that actually meets; colleagues, a mentoring scheme that survives the first busy season.
 
-Two examples from the count: someone born in mid-1965 has it with anyone born between October 1991 and February 1993, whose Neptune in Capricorn sits 60° from that 1965 Saturn in Pisces; someone born in mid-1975 has it with anyone born from November 1980 to March 1981, whose Saturn in Libra sits 60° from the 1975 Neptune. Contacts like this one belong to whole cohorts, so they don't enter my count of a synastry, which includes only contacts with the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. Read through the houses, this one shows what two eras could do for each other, more than what two individuals share.
+Two examples from the count: anyone born between October 1991 and February 1993, Neptune in Capricorn, has it with a person born in mid-1965, Saturn in Pisces; anyone born from November 1980 to March 1981, Saturn in Libra, has it with a person born in mid-1975, whose Neptune that Saturn sextiles. Contacts like this one belong to whole cohorts, so they don't enter my count of a synastry, which includes only contacts with the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. Read through the houses, this one shows what two eras could do for each other, more than what two individuals share.
 
 The houses come from both birth times; the sextile itself doesn't shift with the hour ([what changes without a birth time](/blog/unknown-birth-time/)).
 

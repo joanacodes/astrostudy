@@ -32,7 +32,7 @@ Growing towards something is easier when someone nearby already likes it. Venus 
 
 ## What flows {#what-flows}
 
-[Venus](/astrology/venus/) is how someone weighs and chooses: what they find attractive, what they prefer, how they share and repay. The [North Node](/astrology/north-node/) points to a complementary capacity a person builds through practice; the [South Node](/astrology/south-node/) opposite holds their settled skills. A [trine](/astrology/trine/) relates two functions through easy flow, each keeping its own job. Among the [synastry aspects](/astrology/synastry-aspects/), this one sends one person's liking towards the other's development.
+[Venus](/astrology/venus/) is how someone weighs and chooses: what they find attractive, what they prefer, how they share and repay. The [North Node](/astrology/north-node/) points to a complementary capacity a person builds through practice; the [South Node](/astrology/south-node/) opposite holds their settled skills. A [trine](/astrology/trine/) relates two functions through easy flow, neither taking over the other. Among the [synastry aspects](/astrology/synastry-aspects/), this one sends one person's liking towards the other's development.
 
 With the North Node in Cancer, say, letting feeling, home and care count as much as achievement, and the South Node in Capricorn, long practised at getting things done, the other person's Venus in Pisces trines the first and sextiles the second. Venus is exalted in Pisces, by tradition, and its taste here runs to tenderness and kindness: they notice the evening the Node person keeps free for family, the call they make to a friend, and they love it. They respect the Capricorn competence too, a sextile's worth.
 

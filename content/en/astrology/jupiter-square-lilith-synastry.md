@@ -34,7 +34,7 @@ With Jupiter square Lilith in synastry, a quarter of the zodiac lies between one
 
 [Jupiter](/astrology/jupiter/) gives a person their principles: the meaning they build, the hope they extend, the frame they grow within. [Black Moon Lilith](/astrology/black-moon-lilith/), the Moon's apogee, is read so differently from one tradition to another that I hold it as a symbol: the instinct and autonomy someone learned to hide, and the line they won't let anyone cross. A [square](/astrology/square/) relates two functions through constructive friction, and as with all [synastry aspects](/astrology/synastry-aspects/), here each function has its own owner.
 
-Squares usually join signs of one modality. One person's Jupiter in Cancer with the other's Lilith in Aries, both cardinal: a faith in family, care and belonging, meeting someone who learned to hide their anger and their need to go first. Each starts things; they just start different things.
+Squares usually join signs of one modality. Picture a Jupiter in Cancer meeting a Lilith in Aries, two cardinal signs: a faith in family, care and belonging, meeting someone who learned to hide their anger and their need to go first. Each starts things; they just start different things.
 
 What the friction offers is an audit. The Jupiter person discovers where a principle has quietly become a rule for other people; the Lilith person, where a refusal has become a reflex rather than a choice. Pairs who stay with that discomfort often come out with convictions they've actually examined.
 

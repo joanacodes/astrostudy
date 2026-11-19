@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact, avec la Lilith moyenne" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "l’apogée moyen de l’orbite lunaire" }
 ---
-Avec Jupiter trigone Lilith en synastrie, le regard d’une personne semble avoir été construit avec de la place pour la part sauvage de l’autre. Jupiter, chez l’une, se trouve à environ 120° de la Lune noire Lilith de l’autre, et ce qui était caché n’a pas à plaider pour entrer.
+Le regard d’une personne, dans Jupiter trigone Lilith en synastrie, semble avoir été construit avec de la place pour la part sauvage de l’autre. Jupiter, chez l’une, se trouve à environ 120° de la Lune noire Lilith de l’autre, et ce qui était caché n’a pas à plaider pour entrer.
 
 ## Ce qui circule {#ce-qui-circule}
 

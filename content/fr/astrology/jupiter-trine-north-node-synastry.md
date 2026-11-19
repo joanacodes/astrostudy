@@ -35,7 +35,7 @@ Un tiers du zodiaque sépare Jupiter, chez l’une, du Nœud Nord de l’autre d
 
 [Jupiter](/astrology/jupiter/) élargit la compréhension et donne une raison à l’effort. Le [Nœud Nord](/astrology/north-node/) est la capacité moins familière qu’une personne construit par la répétition, face aux forces acquises du Nœud Sud. Un [trigone](/astrology/trine/) laisse deux fonctions se renforcer en gardant chacune son identité, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), celui-ci met le regard de l’une au pas de la croissance de l’autre.
 
-Un trigone au Nœud Nord partage en général son élément. Jupiter de l’une en Vierge, le Nœud Nord de l’autre en Capricorne, deux signes de terre : une foi dans le travail soigné et utile, au service d’une personne qui apprend à prendre des responsabilités et à viser loin. L’encouragement arrive sous forme de méthode, pas de slogans.
+Un trigone au Nœud Nord partage en général son élément. Prenez Jupiter en Vierge et un Nœud Nord en Capricorne, deux signes de terre : une foi dans le travail soigné et utile, au service d’une personne qui apprend à prendre des responsabilités et à viser loin. L’encouragement arrive sous forme de méthode, pas de slogans.
 
 Si le Nœud Nord est de votre côté, cette personne rend l’inconnu accessible. Elle pousse rarement ; elle suppose simplement que vous y arriverez, et cette supposition vous porte à travers la période maladroite. Le sextile plus léger à votre Nœud Sud garde vos forces anciennes bienvenues, comme outils.
 

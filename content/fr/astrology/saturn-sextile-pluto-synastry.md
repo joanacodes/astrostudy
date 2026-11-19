@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, 60°, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact" }
 ---
-Saturne sextile Pluton en synastrie place Saturne, chez l’une, et Pluton chez l’autre à environ 60°, avec 3° de marge au plus. L’une sait ce qui doit partir ; l’autre sait dans quel ordre le démonter pour que rien ne s’effondre. À elles deux, une rénovation devient possible, si quelqu’un prend le premier outil.
+Un changement profond par étapes : voilà ce que Saturne sextile Pluton en synastrie peut offrir, avec Saturne, chez l’une, à environ 60° de Pluton chez l’autre, et 3° de marge au plus. L’une sait ce qui doit partir ; l’autre sait dans quel ordre le démonter pour que rien ne s’effondre. À elles deux, une rénovation devient possible, si quelqu’un prend le premier outil.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -38,13 +38,13 @@ Si Pluton est de votre côté, cette personne traite votre besoin de changement 
 
 Si Saturne est de votre côté, la profondeur de l’autre donne une raison à vos méthodes. À travers cette personne, vous voyez lesquelles de vos structures méritent une rénovation plutôt qu’une défense, et vous aimerez peut-être être celle ou celui qui rend un changement effrayant praticable.
 
-Un sextile relie d’habitude des éléments qui coopèrent. Saturne de l’une en Cancer, Pluton de l’autre en Vierge, eau et terre : un sens du devoir protecteur, à côté de l’élan d’une génération qui veut épurer et réparer. Le soin et la précision peuvent démonter une chose et la remonter mieux.
+Les deux signes d’un sextile s’entraident d’ordinaire. Saturne en Cancer et Pluton en Vierge, l’eau à côté de la terre : un sens du devoir protecteur, à côté de l’élan d’une génération qui veut épurer et réparer. Le soin et la précision peuvent démonter une chose et la remonter mieux.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
 Un sextile peut cacher le chantier que personne ne commence. La personne de Saturne peut lire la profondeur de l’autre comme du drame et laisser sa méthode au tiroir ; celle de Pluton, lire la prudence de l’autre comme une fuite et garder le changement pour elle. L’orbe est étroit, le contact parle bas, et la rénovation peut rester une conversation pendant des années.
 
-Depuis le sextile, les autres contacts de la paire :
+Ce que deviennent les deux planètes à d’autres angles :
 
 - **[Saturne conjonction Pluton en synastrie](/astrology/saturn-conjunct-pluto-synastry/) :** la structure et le renouveau sur un seul degré, avec une question de pouvoir à régler.
 - **[Saturne carré Pluton en synastrie](/astrology/saturn-square-pluto-synastry/) :** le même travail fait sous pression plutôt que sur invitation.
@@ -57,6 +57,6 @@ Traitez le grand changement comme une liste. Notez ce qui doit partir, mettez-le
 
 Le décompte montre comment ce sextile se pose : une personne née au milieu de 1975, avec Saturne en Cancer, l’a avec toute personne née entre août 1966 et octobre 1968, chez qui Pluton en Vierge se trouve à 60° ; une personne née au milieu de 1955 l’a avec toute personne née de septembre à novembre 1982, chez qui Saturne en Balance se trouve à 60° de Pluton de 1955, en Lion. Rien dans un tel contact ne distingue deux personnes, puisque toutes les naissances de ces périodes le partagent ; je le laisse hors des contacts que je compte, qui touchent toujours le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Dans les maisons, je le lis comme deux époques capables de rebâtir ensemble, plus que comme deux personnes.
 
-Les deux heures de naissance fixent ces maisons ; le sextile ignore l’heure ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+L’heure de chaque naissance fixe ces maisons, sans rien changer au sextile ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 [Saturne sextile Pluton](/astrology/saturn-sextile-pluto/), dans un seul thème, donne à une personne l’habitude de changer les choses par morceaux maniables. Entre deux thèmes, cette habitude se partage, et je ne lis ce contact qu’avec les deux personnes ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

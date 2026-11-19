@@ -27,11 +27,11 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the opposition, 180°, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that give this contact" }
 ---
-Saturn opposite Neptune in synastry puts one person's Saturn and the other's Neptune at two ends of a line, about 180° apart. One keeps the accounts; the other keeps the faith. Each is quite sure the other has missed something important, and each is partly right.
+One keeps the accounts; the other keeps the faith. Saturn opposite Neptune in synastry sets one person's Saturn and the other's Neptune at the two ends of that line, about 180° apart. Each is quite sure the other has missed something important, and each is partly right.
 
 ## What flows {#what-flows}
 
-[Saturn](/astrology/saturn/) counts and keeps: limits, commitments, the long arithmetic of what's possible. [Neptune](/astrology/neptune/) hopes and imagines: compassion, inspiration, a feeling that the most important things can't be counted. An [opposition](/astrology/opposition/) relates two functions through polarity, each easier to see against the other, and among the [synastry aspects](/astrology/synastry-aspects/) this one gives each end to a person shaped by a different era.
+[Saturn](/astrology/saturn/) counts and keeps: limits, commitments, the long arithmetic of what's possible. [Neptune](/astrology/neptune/) hopes and imagines: compassion, inspiration, a feeling that the most important things can't be counted. An [opposition](/astrology/opposition/) holds two functions in polarity, and among the [synastry aspects](/astrology/synastry-aspects/) this one makes each person, shaped by a different era, the other's counterweight.
 
 If the Saturn is yours, the other person can look like the hope you've learned to keep on a short lead. Their generosity, their faith in people, their willingness to start without a guarantee: you may find it moving and alarming at once.
 
@@ -47,7 +47,7 @@ At other angles the two planets meet differently. [Saturn conjunct Neptune in sy
 
 Trade ends on purpose. The Saturn person names a hope of their own and lets it stand without a plan; the Neptune person drafts the plan for one of their ideals, with figures. Keep two lists, what we can promise and what we hope, so neither is mistaken for the other. A couple with different instincts about money and giving, colleagues at a charity, an adult child and a parent can all use this to keep both ends in the room.
 
-One example from the count: someone born in mid-1975, with Saturn in Cancer, has it with anyone born between December 1991 and January 1996, whose Neptune in Capricorn faces it. Another: someone born in mid-1965 has it with anyone born from May 1970 to April 1971, whose Saturn faces the 1965 Neptune. These contacts are shared by cohorts, so I never fold them into the count of a synastry, which only gathers contacts with the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. I read this one through the houses, as two eras' ideas of good sense facing each other, more than two people.
+One example from the count: someone born in mid-1975, with Saturn in Cancer, has it with anyone born between December 1991 and January 1996, whose Neptune in Capricorn faces it. Another: people born from May 1970 to April 1971 have their Saturn facing the Neptune of anyone born in mid-1965. These contacts are shared by cohorts, so I never fold them into the count of a synastry, which only gathers contacts with the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. I read this one through the houses, as two eras' ideas of good sense facing each other, more than two people.
 
 The houses depend on both birth times, which the opposition itself ignores ([what changes without a birth time](/blog/unknown-birth-time/)). If their Saturn falls in your 2nd house, for instance, the counting reaches your own money and what you value ([Their Saturn in your 2nd house](/astrology/saturn-in-2nd-house-synastry/)).
 

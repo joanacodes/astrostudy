@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "his four aspects; the conjunction is a meeting rather than one of them" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that bring one person’s Jupiter within 5° of another’s Neptune" }
 ---
-When one person's Jupiter lands on the other's Neptune, a belief and a dream occupy the same place, and it can be hard to say which of you brought which. Jupiter conjunct Neptune in synastry joins them within 5°. I read it as one era's faith in meaning meeting another era's longing, more than as a bond between two people.
+One person's Jupiter on the other's Neptune: a belief and a dream occupy the same place, and it can be hard to say which of you brought which. Jupiter conjunct Neptune in synastry joins them within 5°. I read it as one era's faith in meaning meeting another era's longing, more than as a bond between two people.
 
 ## What flows {#what-flows}
 

@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that give this contact" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "Saturn among the three that held, in single charts" }
 ---
-Saturn opposite Uranus in synastry stretches a line between two charts: one person's Saturn at one end, the other's Uranus about 180° away. On one side, the wish for things to hold; on the other, the wish for room. Each person tends to see the other as the one doing the pulling.
+On one side of Saturn opposite Uranus in synastry sits one person's Saturn, with its wish for things to hold; about 180° away sits the other's Uranus, with its wish for room. Each person tends to see the other as the one doing the pulling.
 
 ## What flows {#what-flows}
 
@@ -50,6 +50,6 @@ Name the pull out loud, then trade something. The Saturn person can sponsor one 
 
 Someone born in mid-1975 has it with anyone born between November 1992 and March 1994, whose Uranus faces that 1975 Saturn; someone born in mid-1955 has it with anyone born during 1961, whose Saturn faces the 1955 Uranus, so it isn't always the elder who holds the Saturn end. Whole cohorts share each side, so the opposition is never part of my count of a synastry, which keeps to contacts with the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. Through the houses I read it as two eras balancing each other, more than two people.
 
-The houses need both birth times; the hour doesn't move either planet enough to matter to the opposition ([what changes without a birth time](/blog/unknown-birth-time/)). Saturn was one of the three placements that held 75 to 90% of the time in my notebook, but only in single charts ([the three that held](/blog/saturn-chiron-lilith/)); this contact has no figure of its own.
+The houses need both birth times, though no hour moves either planet far enough to change the opposition ([what changes without a birth time](/blog/unknown-birth-time/)). Saturn was one of the three placements that held 75 to 90% of the time in my notebook, but only in single charts ([the three that held](/blog/saturn-chiron-lilith/)); this contact has no figure of its own.
 
 Inside one chart, [Saturn opposite Uranus](/astrology/saturn-opposite-uranus/) is a balance one person learns to strike alone. Between two, it's struck together, and only read when both people want it ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

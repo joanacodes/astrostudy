@@ -28,11 +28,11 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’opposition, 180°, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact" }
 ---
-Saturne opposition Neptune en synastrie place Saturne, chez l’une, et Neptune chez l’autre aux deux bouts d’une ligne, à environ 180°. L’une tient les comptes ; l’autre garde la foi. Chacune est sûre que l’autre a manqué quelque chose d’important, et chacune a en partie raison.
+L’une tient les comptes ; l’autre garde la foi. Saturne opposition Neptune en synastrie place Saturne, chez la première, et Neptune chez la seconde aux deux bouts de cette ligne, à environ 180°. Chacune est sûre que l’autre a manqué quelque chose d’important, et chacune a en partie raison.
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Saturne](/astrology/saturn/) compte et garde : les limites, les engagements, la longue arithmétique du possible. [Neptune](/astrology/neptune/) espère et imagine : la compassion, l’inspiration, le sentiment que les choses les plus importantes ne se comptent pas. Une [opposition](/astrology/opposition/) relie deux fonctions par la polarité, chacune plus visible à côté de l’autre, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), celle-ci donne chaque bout à une personne façonnée par une autre époque.
+[Saturne](/astrology/saturn/) compte et garde : les limites, les engagements, la longue arithmétique du possible. [Neptune](/astrology/neptune/) espère et imagine : la compassion, l’inspiration, le sentiment que les choses les plus importantes ne se comptent pas. Une [opposition](/astrology/opposition/) tient deux fonctions en polarité, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), celle-ci fait de chaque personne, façonnée par une autre époque, le contrepoids de l’autre.
 
 Si Saturne est de votre côté, l’autre peut ressembler à l’espoir que vous avez appris à tenir en laisse courte. Sa générosité, sa confiance dans les gens, sa capacité à commencer sans garantie : vous pouvez les trouver à la fois émouvantes et inquiétantes.
 
@@ -48,7 +48,7 @@ Une opposition est une balançoire, jamais une inimitié, mais celle-ci tend à 
 
 Échangez les bouts exprès. La personne de Saturne nomme un espoir à elle et le laisse exister sans plan ; celle de Neptune rédige, chiffres compris, le plan de l’un de ses idéaux. Tenez deux listes, ce que nous pouvons promettre et ce que nous espérons, pour ne jamais confondre l’une avec l’autre. Un couple aux instincts différents sur l’argent et le don, des collègues dans une association, un enfant adulte et un parent peuvent tous s’en servir pour garder les deux bouts dans la pièce.
 
-Un exemple du décompte : une personne née au milieu de 1975, avec Saturne en Cancer, l’a avec toute personne née entre décembre 1991 et janvier 1996, chez qui Neptune en Capricorne fait face à Saturne de 1975. Un autre : une personne née au milieu de 1965 l’a avec toute personne née de mai 1970 à avril 1971, chez qui Saturne fait face à Neptune de 1965. Ces contacts sont partagés par des cohortes : je ne les fais jamais entrer dans le décompte d’une synastrie, qui ne rassemble que les contacts avec le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Je lis celui-ci par les maisons, comme deux idées du bon sens, celles de deux époques, face à face, plus que deux personnes.
+Un exemple du décompte : une personne née au milieu de 1975, avec Saturne en Cancer, l’a avec toute personne née entre décembre 1991 et janvier 1996, chez qui Neptune en Capricorne fait face à Saturne de 1975. Un autre : les personnes nées de mai 1970 à avril 1971 ont Saturne en face de Neptune de toute personne née au milieu de 1965. Ces contacts sont partagés par des cohortes : je ne les fais jamais entrer dans le décompte d’une synastrie, qui ne rassemble que les contacts avec le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Je lis celui-ci par les maisons, comme deux idées du bon sens, celles de deux époques, face à face, plus que deux personnes.
 
 Les maisons dépendent des deux heures de naissance, que l’opposition elle-même ignore ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Si Saturne de l’autre tombe dans votre maison 2, par exemple, les comptes touchent votre propre argent et ce qui a de la valeur pour vous ([Saturne de l’autre dans votre maison 2](/astrology/saturn-in-2nd-house-synastry/)).
 

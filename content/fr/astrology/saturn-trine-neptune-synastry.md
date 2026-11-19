@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, 120°, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact" }
 ---
-Saturne trigone Neptune en synastrie place Saturne, chez l’une, à environ 120° de Neptune chez l’autre, en général dans des signes du même élément. L’une est là, semaine après semaine, pendant des années ; l’autre apporte la raison d’être là. L’idéal trouve un foyer, et la fiabilité un but.
+Semaine après semaine, pendant des années, l’une est là ; l’autre apporte la raison d’être là. Dans Saturne trigone Neptune en synastrie, un tiers du zodiaque sépare Saturne, chez l’une, de Neptune chez l’autre, et l’idéal trouve un foyer pendant que la fiabilité trouve un but.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -38,11 +38,11 @@ Si Neptune est de votre côté, cette personne est un récipient qui ne se fend 
 
 Si Saturne est de votre côté, votre fiabilité devient une part de quelque chose en quoi vous croyez. Les routines que vous tiendriez de toute façon servent désormais un espoir, et vous trouverez peut-être à votre propre constance un sens que vous n’aviez jamais tout à fait nommé.
 
-Un même élément les relie en général. Saturne de l’une en Cancer, Neptune de l’autre en Scorpion, deux signes d’eau : un sens du devoir protecteur, qui fait un foyer, à côté d’une compassion profonde et discrète. Le soin reçoit une maison ; la maison reçoit un cœur.
+Le plus souvent, les deux signes partagent un élément. Quand Neptune en Capricorne rencontre Saturne en Taureau, deux signes de terre, l’idéal d’une génération pour des institutions solides et utiles trouve un sens du devoir qui veut faire durer les bonnes choses. L’idéal reçoit des fondations ; les fondations reçoivent une raison.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-L’aisance peut cacher une charge inégale. La personne de Saturne porte souvent le côté pratique sans qu’on le lui demande, et celle de Neptune peut ne jamais voir tout ce qui est tenu. Avec les années, une rancœur silencieuse peut pousser là où personne n’a remarqué de coût. Le rêve peut aussi rester confortablement privé, jamais éprouvé dans le monde, parce que les deux le soutiennent si bien. Un courant n’est pas de la passivité : le trigone partage un don, et quelqu’un doit encore vérifier les comptes.
+L’aisance peut cacher une charge inégale. La personne de Saturne porte souvent le côté pratique sans qu’on le lui demande, et celle de Neptune peut ne jamais voir tout ce qui est tenu. Avec les années, une rancœur silencieuse peut pousser là où personne n’a remarqué de coût. Le rêve peut aussi rester confortablement privé, jamais éprouvé dans le monde, parce que les deux le soutiennent si bien. Si doux que soit le partage, il faut encore que quelqu’un vérifie les comptes.
 
 - **[Saturne conjonction Neptune en synastrie](/astrology/saturn-conjunct-neptune-synastry/) :** le récipient et l’idéal confondus, plus difficiles à distinguer.
 - **[Saturne sextile Neptune en synastrie](/astrology/saturn-sextile-neptune-synastry/) :** le même échange, mais il faut le proposer.
@@ -53,8 +53,8 @@ L’aisance peut cacher une charge inégale. La personne de Saturne porte souven
 
 Rendez visible le travail invisible. Nommez qui porte quoi, et échangez de temps en temps : la personne de Neptune prend un tour à la logistique, celle de Saturne un tour au rêve. Deux bénévoles qui tiennent une banque alimentaire depuis des années, une musicienne et l’ami qui gère ses dates, un enfant adulte et un parent qui partagent une foi : chacun peut garder ce trigone juste en remerciant pour ce que personne ne voit.
 
-Une personne née au milieu de 1945 l’a avec toute personne née entre septembre 1961 et novembre 1964, chez qui Neptune en Scorpion forme un trigone avec Saturne de 1945, en Cancer ; une personne née au milieu de 1985 l’a avec toute personne née de mai à novembre 1998, chez qui Saturne forme un trigone avec Neptune de 1985. Les contacts que partagent des séries entières de naissances restent hors de mon décompte d’une synastrie, réservé aux contacts qui touchent le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Dans les maisons, je lis celui-ci comme deux époques qui se soutiennent, plus que comme deux personnes.
+Les naissances de septembre 1961 à novembre 1964 l’ont avec une personne née au milieu de 1945, leur Neptune en Scorpion en trigone avec Saturne en Cancer ; celles de mai à novembre 1998 l’ont avec une personne née au milieu de 1985, leur Saturne en Taureau en trigone avec Neptune de 1985, en Capricorne. Les contacts que partagent des séries entières de naissances restent hors de mon décompte d’une synastrie, réservé aux contacts qui touchent le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Dans les maisons, je lis celui-ci comme deux époques qui se soutiennent, plus que comme deux personnes.
 
-Le trigone ne dépend pas de l’heure ; les maisons, si, et il faut donc les deux heures de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Le trigone ne dépend pas de l’heure ; les maisons, si, et elles demandent les deux heures de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Dans un seul thème, [Saturne trigone Neptune](/astrology/saturn-trine-neptune/) est une personne dont la discipline et l’imagination s’entretiennent l’une l’autre. Entre deux, les deux moitiés appartiennent à deux personnes, et les deux doivent demander la lecture ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

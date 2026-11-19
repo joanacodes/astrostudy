@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that give this contact, with the true node" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }
 ---
-Jupiter conjunct North Node in synastry sets one person's Jupiter on the other's North Node. The first person's way of finding meaning lands on the very capacity the second is learning, and, across the chart, faces the second person's South Node: the strengths that already come easily.
+In Jupiter conjunct North Node in synastry, the North Node of one person receives the other's Jupiter. The Jupiter person's way of finding meaning lands on the very capacity the node person is learning, and, across the chart, faces the node person's South Node: the strengths that already come easily.
 
 ## What flows {#what-flows}
 

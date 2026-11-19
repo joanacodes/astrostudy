@@ -40,7 +40,7 @@ Carrying the Venus, you may notice that what you take for granted gets watched, 
 
 ## Where it rubs {#where-it-rubs}
 
-A conjunction blurs, and the blur here runs between liking someone and growing. The Node person can start to credit the other with their progress, or practise only in the other's company, so the new capacity stays on loan. The Venus person can end up feeling responsible for someone else's development without having signed up, and feel it as weight when the other stumbles.
+Liking someone and growing can get confused when the two sit this close. The Node person can start to credit the other with their progress, or practise only in the other's company, so the new capacity stays on loan. The Venus person can end up feeling responsible for someone else's development without having signed up, and feel it as weight when the other stumbles.
 
 Then there's the South Node, opposite your Venus. In the Libra example it sits in Aries, on the familiar ground of deciding alone, and around you that old independence can look less appealing to the other. That can feel like progress to them and, some days, like losing a part of themselves they were proud of. Nothing needs losing: the familiar strength stays, and the new one is added to it.
 

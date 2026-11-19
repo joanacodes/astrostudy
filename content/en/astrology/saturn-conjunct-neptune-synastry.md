@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the aspects; the conjunction, a meeting rather than an angle" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that give this contact" }
 ---
-Saturn conjunct Neptune in synastry places one person's Saturn on the other's Neptune. Where the second person keeps a hope, an ideal or a longing, the first brings a sense of limits, duty and time, at the same degree; and because both planets are slow, the meeting runs between two generations as much as between two people.
+Where one person keeps a hope, an ideal or a longing, Saturn conjunct Neptune in synastry places the other's Saturn, with its sense of limits, duty and time, on the same degree. Both planets are slow, so the meeting runs between two generations as much as between two people.
 
 ## What flows {#what-flows}
 
@@ -50,7 +50,7 @@ A conjunction mixes the two. The Saturn person can turn the other's hope into an
 
 Write the hope down, then write the promise under it, separately. Decide who carries which part and for how long. Co-founders of a charity can use this conjunction to give a cause a constitution; a couple planning a life abroad, to turn a longing into a dated plan; an adult child caring for a parent, to keep compassion from becoming an endless shift.
 
-Someone born in mid-1975 has it with anyone born between December 1985 and June 1986, whose Saturn crossed that 1975 Neptune in Sagittarius; someone born in mid-1955 has it with anyone born from September 1961 to January 1965, whose Neptune sits on the 1955 Saturn in Scorpio. Since whole spans of births share each side, I don't count the conjunction among a synastry's contacts; those always involve the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. In the houses it falls in, I read one era's sense of duty meeting another era's ideal, more than one person meeting another.
+Born in mid-1975, with Neptune in Sagittarius? Then everyone born between December 1985 and June 1986 brings a Saturn to that degree. Born in mid-1955, with Saturn in Scorpio? Everyone born from September 1961 to January 1965 brings a Neptune to it. Since whole spans of births share each side, I don't count the conjunction among a synastry's contacts; those always involve the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. In the houses it falls in, I read one era's sense of duty meeting another era's ideal, more than one person meeting another.
 
 Those houses come from both birth times, and nothing else does the work here: the hour doesn't change the conjunction ([what changes without a birth time](/blog/unknown-birth-time/)). With their Neptune in your 6th house, for instance, the dream walks into your working day ([Their Neptune in your 6th house](/astrology/neptune-in-6th-house-synastry/)).
 

@@ -39,7 +39,7 @@ Carrying the Mars, you may find your energy has a direction it lacked. Around th
 
 ## Where it rubs {#where-it-rubs}
 
-A conjunction blurs, and the question it blurs is whose cause this is. The Mars person can adopt the other's beliefs wholesale, because acting on them feels so good; the Jupiter person can come to rely on the other's energy for their own sense of purpose, and feel flat when it's elsewhere. Two people can find themselves deep in a project neither would have chosen alone.
+Whose cause is this? This close together, effort and belief stop being easy to tell apart. The Mars person can adopt the other's beliefs wholesale, because acting on them feels so good; the Jupiter person can come to rely on the other's energy for their own sense of purpose, and feel flat when it's elsewhere. Two people can find themselves deep in a project neither would have chosen alone.
 
 Size is the other snag. Jupiter's growth needn't mean excess, nor Mars's nerve recklessness, but enthusiasm fed by enthusiasm grows fast, and nobody in this meeting naturally asks "how much?" The risk is less danger than overcommitment: plans that outrun the time and stamina of the two people carrying them.
 

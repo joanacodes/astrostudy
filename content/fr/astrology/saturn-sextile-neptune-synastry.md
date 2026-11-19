@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, 60°, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact" }
 ---
-Saturne sextile Neptune en synastrie relie Saturne, chez l’une, et Neptune chez l’autre à environ 60°, avec 3° de marge seulement. Ce sextile décrit un échange que deux générations pourraient faire : l’une fournit le pas, l’autre la raison, et rien n’arrive tant que personne ne le propose.
+Saturne sextile Neptune en synastrie relie Saturne, chez l’une, et Neptune chez l’autre à environ 60° : un contact étroit, à 3° près. Ce sextile décrit un échange que deux générations pourraient faire : l’une fournit le pas, l’autre la raison, et rien n’arrive tant que personne ne le propose.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -55,8 +55,8 @@ Les mêmes planètes ailleurs sur le cercle :
 
 Attachez un idéal à une habitude. Choisissez une chose à laquelle l’une des deux tient et donnez-lui un créneau régulier et protégé : une soirée par mois pour la cause, une heure le dimanche pour l’art. Un parent et son enfant adulte peuvent commencer ainsi à faire du bénévolat ; des amis, monter une chorale qui se réunit vraiment ; des collègues, un parrainage qui survit à la première saison chargée.
 
-Deux exemples tirés du décompte : une personne née au milieu de 1965 l’a avec toute personne née entre octobre 1991 et février 1993, chez qui Neptune en Capricorne se trouve à 60° de Saturne de 1965, en Poissons ; une personne née au milieu de 1975 l’a avec toute personne née de novembre 1980 à mars 1981, chez qui Saturne en Balance se trouve à 60° de Neptune de 1975. Des contacts comme celui-ci appartiennent à des cohortes entières : ils n’entrent pas dans mon décompte d’une synastrie, qui ne retient que les contacts avec le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Lu par les maisons, celui-ci montre ce que deux époques pourraient faire l’une pour l’autre, plus que ce que partagent deux individus.
+Deux exemples tirés du décompte : toute personne née entre octobre 1991 et février 1993, Neptune en Capricorne, l’a avec une personne née au milieu de 1965, Saturne en Poissons ; toute personne née de novembre 1980 à mars 1981, Saturne en Balance, l’a avec une personne née au milieu de 1975, dont Neptune reçoit ce sextile. Des contacts comme celui-ci appartiennent à des cohortes entières : ils n’entrent pas dans mon décompte d’une synastrie, qui ne retient que les contacts avec le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Lu par les maisons, celui-ci montre ce que deux époques pourraient faire l’une pour l’autre, plus que ce que partagent deux individus.
 
-Les maisons viennent des deux heures de naissance ; le sextile lui-même ne bouge pas avec l’heure ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Les maisons viennent des deux heures de naissance ; l’heure ne change rien au sextile lui-même ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Dans un seul thème, [Saturne sextile Neptune](/astrology/saturn-sextile-neptune/) est une personne dont les idéaux et les habitudes échangent déjà entre eux. Entre deux, chaque personne apporte une moitié de l’échange, et la lecture demande les deux ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

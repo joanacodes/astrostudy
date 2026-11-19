@@ -34,7 +34,7 @@ A third of the zodiac separates one person's Jupiter from the other's North Node
 
 [Jupiter](/astrology/jupiter/) expands understanding and gives effort a reason. The [North Node](/astrology/north-node/) is the less familiar capacity a person builds through repetition and feedback, set against the South Node's established strengths. A [trine](/astrology/trine/) lets two functions reinforce each other while each keeps its identity, and among the [synastry aspects](/astrology/synastry-aspects/) this one puts one person's outlook in step with another's growth.
 
-A trine to the North Node usually shares its element. One person's Jupiter in Virgo with the other's North Node in Capricorn, both earth: a faith in careful, useful work, supporting someone who is learning to take on responsibility and long aims. The encouragement arrives as method, not slogans.
+A trine to the North Node usually shares its element. Take a Jupiter in Virgo and a North Node in Capricorn, both earth signs: a faith in careful, useful work, supporting someone who is learning to take on responsibility and long aims. The encouragement arrives as method, not slogans.
 
 If the North Node is yours, this person makes the unfamiliar feel reachable. They rarely push; they simply assume you'll get there, and that assumption carries you through the clumsy stage. The lighter sextile to your South Node means your old strengths stay welcome as tools.
 

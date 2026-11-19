@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that give this contact, with mean Lilith" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the mean apogee of the Moon’s orbit" }
 ---
-With Jupiter trine Lilith in synastry, one person's outlook seems to have been built with room for the other's wilder side. Jupiter in one chart sits about 120° from Black Moon Lilith in the other, usually in signs of one element, and what was once hidden doesn't have to argue its way in.
+One person's outlook, in Jupiter trine Lilith in synastry, seems to have been built with room for the other's wilder side. Jupiter in one chart sits about 120° from Black Moon Lilith in the other, usually in signs of one element, and what was once hidden doesn't have to argue its way in.
 
 ## What flows {#what-flows}
 

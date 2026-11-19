@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the square, 90°, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that give this contact" }
 ---
-Saturn square Pluto in synastry crosses one person's Saturn with the other's Pluto at about 90°. One says, "this is how it's done"; the other says, "this has to go". Neither yields easily, and the pressure between them is real, which is exactly why it can build something durable.
+"This is how it's done," says one; "this has to go," says the other. In Saturn square Pluto in synastry, one person's Saturn and the other's Pluto meet at about 90°, neither yields easily, and the pressure between them is real, which is exactly why it can build something durable.
 
 ## What flows {#what-flows}
 
@@ -52,7 +52,7 @@ If the Pluto is yours, the other's structures can feel like a lid on something t
 
 Talk about power plainly. Say what each of you is protecting and what each fears losing, then agree who decides which things. Change one thing at a time and let it settle before the next. A manager and a team member, co-owners of a house, a parent and an adult child taking on part of the family's responsibilities: each can use the friction to rebuild without anyone being crushed.
 
-Someone born in mid-1975 has it with anyone born between October 1978 and November 1981, whose Pluto in Libra squares that Saturn in Cancer; someone born in mid-1965 has it with anyone born from October 2001 to January 2004, whose Pluto squares the 1965 Saturn. Such contacts link whole stretches of births, so they stay outside what I count in a synastry, where the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven must take part. Through the houses, I read this square as two eras pressing on each other, more than two people.
+The square links, for example, a person born in mid-1975, Saturn in Cancer, with anyone born between October 1978 and November 1981, Pluto in Libra, and a person born in mid-1965 with anyone born from October 2001 to January 2004, whose Pluto squares the 1965 Saturn. Such contacts link whole stretches of births, so they stay outside what I count in a synastry, where the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven must take part. Through the houses, I read this square as two eras pressing on each other, more than two people.
 
 Both birth times are needed for those houses, though the square itself doesn't move with the hour ([what changes without a birth time](/blog/unknown-birth-time/)). With their Pluto in your 10th house, say, the pressure lands on your public role ([Their Pluto in your 10th house](/astrology/pluto-in-10th-house-synastry/)).
 

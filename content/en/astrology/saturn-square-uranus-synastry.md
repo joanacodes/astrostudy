@@ -33,7 +33,7 @@ Saturn square Uranus in synastry crosses one person's Saturn with the other's Ur
 
 [Saturn](/astrology/saturn/) holds things steady: commitments, procedures, the discipline of finishing. [Uranus](/astrology/uranus/) unsettles them on purpose: it invents, goes its own way, and loosens whatever has set too hard. A [square](/astrology/square/) sets two functions in constructive friction, and among the [synastry aspects](/astrology/synastry-aspects/) this one gives each of them to a different generation.
 
-A square tends to link two signs of the same modality. One person's Saturn in Pisces with the other's Uranus in Sagittarius, both mutable: a duty of care, patient and self-effacing, crossing a restless faith in starting over somewhere new. Mutable signs bend easily, so the friction is less a wall than a running renegotiation.
+A square tends to link two signs of the same modality. Saturn in Pisces in one chart, Uranus in Sagittarius in the other, both mutable: a duty of care, patient and self-effacing, crossing a restless faith in starting over somewhere new. Mutable signs bend easily, so the friction is less a wall than a running renegotiation.
 
 What the friction can teach is discernment. The Saturn person finds out which of their rules actually carry weight, because those are the ones they'll still defend after the tenth challenge. The Uranus person finds out which changes are worth what they cost, because those are the ones they'll still argue for when the other asks how.
 

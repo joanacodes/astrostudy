@@ -34,7 +34,7 @@ Saturne carré Uranus en synastrie croise Saturne, chez l’une, avec Uranus che
 
 [Saturne](/astrology/saturn/) maintient les choses : les engagements, les procédures, la discipline de finir. [Uranus](/astrology/uranus/) les dérange exprès : inventer, suivre son propre chemin, desserrer ce qui a trop pris. Un [carré](/astrology/square/) met deux fonctions en friction constructive, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), celui-ci confie chacune à une génération différente.
 
-Un carré lie le plus souvent deux signes du même mode. Saturne de l’une en Poissons, Uranus de l’autre en Sagittaire, deux signes mutables : un devoir de soin, patient et discret, qui croise une foi inquiète dans les nouveaux départs ailleurs. Les signes mutables plient facilement : la friction tient moins du mur que d’une renégociation permanente.
+Un carré lie le plus souvent deux signes du même mode. Saturne en Poissons dans un thème, Uranus en Sagittaire dans l’autre, deux signes mutables : un devoir de soin, patient et discret, qui croise une foi inquiète dans les nouveaux départs ailleurs. Les signes mutables plient facilement : la friction tient moins du mur que d’une renégociation permanente.
 
 Ce que la friction peut apprendre, c’est le discernement. La personne de Saturne découvre lesquelles de ses règles portent vraiment du poids : ce sont celles qu’elle défend encore à la dixième contestation. La personne d’Uranus découvre quels changements valent ce qu’ils coûtent : ce sont ceux qu’elle défend encore quand l’autre demande comment.
 

@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "ses quatre aspects ; la conjonction est une rencontre plutôt que l’un d’eux" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Jupiter d’une personne à moins de 5° de Neptune chez une autre" }
 ---
-Quand Jupiter, chez une personne, tombe sur Neptune chez l’autre, une croyance et un rêve occupent la même place, et l’on a du mal à dire qui a apporté quoi. Jupiter conjonction Neptune en synastrie les réunit à moins de 5°. J’y lis la foi d’une époque dans le sens, rencontrant les aspirations d’une autre, plus qu’un lien entre deux personnes.
+Jupiter d’une personne sur Neptune de l’autre : une croyance et un rêve occupent la même place, et l’on a du mal à dire qui a apporté quoi. Jupiter conjonction Neptune en synastrie les réunit à moins de 5°. J’y lis la foi d’une époque dans le sens, rencontrant les aspirations d’une autre, plus qu’un lien entre deux personnes.
 
 ## Ce qui circule {#ce-qui-circule}
 

@@ -35,7 +35,7 @@ Avec Jupiter carré Lilith en synastrie, un quart du zodiaque sépare Jupiter, c
 
 [Jupiter](/astrology/jupiter/) donne à une personne ses principes : le sens qu’elle construit, l’espoir qu’elle offre, le cadre dans lequel elle grandit. La [Lune noire Lilith](/astrology/black-moon-lilith/), l’apogée de la Lune, se lit si différemment d’une tradition à l’autre que je la tiens pour un symbole : l’instinct et l’autonomie qu’une personne a appris à cacher, et la limite qu’elle ne laisse franchir à personne. Un [carré](/astrology/square/) relie deux fonctions par une friction constructive, et comme dans tous les [aspects de synastrie](/astrology/synastry-aspects/), chaque fonction appartient ici à une personne.
 
-Un carré relie en général deux signes du même mode. Jupiter de l’une en Cancer, Lilith de l’autre en Bélier, deux signes cardinaux : une foi dans la famille, le soin et l’appartenance, face à une personne qui a appris à cacher sa colère et son besoin de passer la première. Chacune lance des choses ; simplement, pas les mêmes.
+Un carré relie en général deux signes du même mode. Imaginez Jupiter en Cancer face à une Lilith en Bélier, deux signes cardinaux : une foi dans la famille, le soin et l’appartenance, face à une personne qui a appris à cacher sa colère et son besoin de passer la première. Chacune lance des choses ; simplement, pas les mêmes.
 
 Ce que la friction offre, c’est un inventaire. La personne de Jupiter découvre où un principe est devenu, sans bruit, une règle pour les autres ; celle de Lilith, où un refus est devenu un réflexe plutôt qu’un choix. Les paires qui restent avec cet inconfort en sortent souvent avec des convictions examinées.
 
@@ -43,7 +43,7 @@ Ce que la friction offre, c’est un inventaire. La personne de Jupiter découvr
 
 Si Lilith est de votre côté, le regard de l’autre peut ressembler à un verdict en douceur. On vous invite à plus d’espoir, de pardon, de raison que vous n’en ressentez, et vos refus passent pour une phase dont vous sortirez. Il est facile de vous taire, ou de vous braquer plus que prévu.
 
-Si Jupiter est de votre côté, votre bonne volonté rencontre sans cesse un non sec. Ce que vous offrez, un point de vue, une raison d’espérer, une idée de ce que les choses pourraient être, est refusé, et l’on a l’impression que toute votre vision de la vie l’est avec. Un carré est une friction, jamais un échec : ce qui frotte, ce sont deux certitudes, pas la valeur de deux personnes.
+Si Jupiter est de votre côté, votre bonne volonté rencontre sans cesse un non sec. Ce que vous offrez, un point de vue, une raison d’espérer, est refusé, et l’on a l’impression que toute votre vision de la vie l’est avec. Un carré est une friction, jamais un échec : ce qui frotte, ce sont deux certitudes, pas la valeur de deux personnes.
 
 - **[Jupiter conjonction Lilith en synastrie](/astrology/jupiter-conjunct-lilith-synastry/) :** le principe et le refus confondus, et le risque devient l’adoption plutôt que la dispute.
 - **[Jupiter sextile Lilith en synastrie](/astrology/jupiter-sextile-lilith-synastry/) :** une offre polie, que l’autre prend à son rythme.

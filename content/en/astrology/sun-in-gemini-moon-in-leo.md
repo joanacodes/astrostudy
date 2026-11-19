@@ -32,7 +32,7 @@ With this pair, the storyteller and the warm audience it needs live in one perso
 
 ## How they get along {#how-they-get-along}
 
-Gemini is mutable air, Leo fixed fire, two signs apart with the Moon in front: a sextile by sign, a friendly relation that rewards a little effort. The [Sun in Gemini](/astrology/sun-in-gemini/) lives by exchange, by questions, stories and quick connections; the [Moon in Leo](/astrology/moon-in-leo/) steadies itself through warmth that comes back, through being seen and chosen by a few people who matter. A good conversation lifts the Moon's spirits, and the Moon gives the Sun's restless talk a heart and some loyalty.
+Air and fire, mutable and fixed, two signs apart with the Moon in front: a sextile by sign, a friendly relation that rewards a little effort. The [Sun in Gemini](/astrology/sun-in-gemini/) lives by exchange, by questions, stories and quick connections; the [Moon in Leo](/astrology/moon-in-leo/) steadies itself through warmth that comes back, through being seen and chosen by a few people who matter. A good conversation lifts the Moon's spirits, and the Moon gives the Sun's restless talk a heart and some loyalty.
 
 The ruler of Leo is the [Sun](/astrology/sun/) itself, and here that makes a chain: the Moon reports to your Sun, the Sun stands in Gemini and reports to [Mercury](/astrology/mercury/), and so what warms this Moon is being appreciated for how you think and speak, not only for what you do. The Sun's house does double duty in my reading, as your purpose and as the ruler of your needs. Neither Gemini nor Leo gives its light a dignity, so the chain itself is the story.
 

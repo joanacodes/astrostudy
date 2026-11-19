@@ -42,7 +42,7 @@ One person in 141 or so has this pair. The Moon's stay in Scorpio, between Libra
 
 ## In close relationships {#in-close-relationships}
 
-You can be easy company and a demanding intimate at once. The Gemini Sun chats, teases and keeps things light; the Scorpio Moon is looking for the person it can trust completely, and it checks quietly before it gives. Partners may enjoy the conversation for months before they meet the depth. What helps the bond is letting the two lights meet sooner: use the Gemini gift for words to say one true, heavy thing, early, and see what the other person does with it.
+In company you're easy; in intimacy, demanding. The Gemini Sun chats, teases and keeps things light; the Scorpio Moon is looking for the person it can trust completely, and it checks quietly before it gives. Partners may enjoy the conversation for months before they meet the depth. What helps the bond is letting the two lights meet sooner: use the Gemini gift for words to say one true, heavy thing, early, and see what the other person does with it.
 
 ## At work {#at-work}
 

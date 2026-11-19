@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "Saturne parmi les trois qui ont tenu, dans des thèmes seuls" }
 ---
-Saturne opposition Uranus en synastrie tend une ligne entre deux thèmes : Saturne, chez l’une, à un bout, Uranus chez l’autre à environ 180°. D’un côté, le souhait que les choses tiennent ; de l’autre, le souhait d’avoir de l’air. Chacune a tendance à voir l’autre comme celle qui tire.
+D’un côté de Saturne opposition Uranus en synastrie se tient Saturne, chez l’une, avec le souhait que les choses tiennent ; à environ 180°, Uranus chez l’autre, avec le souhait d’avoir de l’air. Chacune a tendance à voir l’autre comme celle qui tire.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -51,6 +51,6 @@ Nommez le tiraillement à voix haute, puis échangez quelque chose. La personne 
 
 Une personne née au milieu de 1975 l’a avec toute personne née entre novembre 1992 et mars 1994, dont Uranus fait face à Saturne de 1975 ; une personne née au milieu de 1955 l’a avec les personnes nées en 1961, dont Saturne fait face à Uranus de 1955, si bien que ce n’est pas toujours l’aînée qui tient le bout de Saturne. Des cohortes entières partagent chaque côté : l’opposition ne fait donc jamais partie de mon décompte d’une synastrie, qui s’en tient aux contacts avec le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Par les maisons, je la lis comme deux époques qui s’équilibrent, plus que deux personnes.
 
-Les maisons demandent les deux heures de naissance ; l’heure ne déplace aucune des deux planètes assez pour peser sur l’opposition ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Saturne fait partie des trois placements qui ont tenu 75 à 90 % du temps dans mon carnet, mais seulement dans des thèmes seuls ([les trois qui ont tenu](/blog/saturn-chiron-lilith/)) ; ce contact n’a pas de chiffre à lui.
+Les maisons demandent les deux heures de naissance, même si aucune heure ne déplace l’une ou l’autre planète assez pour changer l’opposition ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Saturne fait partie des trois placements qui ont tenu 75 à 90 % du temps dans mon carnet, mais seulement dans des thèmes seuls ([les trois qui ont tenu](/blog/saturn-chiron-lilith/)) ; ce contact n’a pas de chiffre à lui.
 
 Dans un seul thème, [Saturne opposition Uranus](/astrology/saturn-opposite-uranus/) est un équilibre qu’une personne apprend à trouver seule. Entre deux, on le trouve à deux, et je ne le lis que si les deux le veulent ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

@@ -34,7 +34,7 @@ Their Moon in your 7th house brings another person's emotional needs to the plac
 
 For you, they can feel like someone whose needs you naturally take into account, the way you would with a partner. Their moods register as part of "us", and their comfort matters in the plans you make. You may also recognise in what they need something you need yourself, and find it easier to see in them than in your own life.
 
-For them, being one to one with you can feel safe. Their feelings find a counterpart, someone who answers rather than only listens, and they may relax into the relationship sooner than they usually would. The 7th is angular and shows, and its natural sign is [Libra](/astrology/libra/), the sign of balance and fair exchange. If their Moon sits on your [Descendant](/astrology/descendant/), the point where your chart turns to face others, it touches the very frame through which you meet other people, and I read the two together.
+For them, being one to one with you can feel safe. Their feelings find a counterpart, someone who answers rather than only listens, and they may relax into the relationship sooner than they usually would. The 7th is angular and visible; [Libra](/astrology/libra/), the sign of balance and fair exchange, is the one nature pairs with it. Placed right on your [Descendant](/astrology/descendant/), the point where your chart turns to face others, their Moon touches the very frame through which you meet other people, and I read the two together.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -48,6 +48,6 @@ An overlay doesn't decide what you become to each other; it shows how naturally 
 
 Put both sets of needs on the table, and take turns. "What do you need this week?" asked in both directions keeps the scales level. In a couple, that means checking that care flows both ways rather than settling into a carer and a cared-for; between business partners, paying attention to the emotional climate of the partnership as well as the contract; between friends, letting the friendship stay a friendship if that's what it is; between rivals, remembering that the person opposite has feelings too.
 
-Reverse the charts and it's your Moon in their 7th house, your needs arriving in their idea of partnership, with the same care for balance. [Their Moon in your 6th house](/astrology/moon-in-6th-house-synastry/) shows care in daily tasks; [their Moon in your 8th house](/astrology/moon-in-8th-house-synastry/) takes it into trust and intimacy.
+Reverse the charts and your Moon sits in their 7th house instead: your needs arrive in their idea of partnership, with the same care for balance. [Their Moon in your 6th house](/astrology/moon-in-6th-house-synastry/) shows care in daily tasks; [their Moon in your 8th house](/astrology/moon-in-8th-house-synastry/) takes it into trust and intimacy.
 
 Of all their planets, the Moon is the one whose house in your chart their birth time can change most easily: it moves about 13° a day. Your Descendant, opposite your Ascendant, is set by your own time, and in Placidus, the house system I use, so is every cusp ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). If you've only just met, it may be too early for this reading anyway ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#we-just-met)).

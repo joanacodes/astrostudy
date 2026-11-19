@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, 120°, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that give this contact" }
 ---
-Saturn trine Neptune in synastry sets one person's Saturn about 120° from the other's Neptune, usually in signs of one element. One of them turns up, week after week, for years; the other brings the reason it's worth turning up for. The ideal finds a home, and the reliability finds a purpose.
+Week after week, for years, one person turns up; the other brings the reason it's worth turning up for. In Saturn trine Neptune in synastry, a third of the zodiac separates one person's Saturn from the other's Neptune, and the ideal finds a home while the reliability finds a purpose.
 
 ## What flows {#what-flows}
 
@@ -37,11 +37,11 @@ If the Neptune is yours, this person is a container that doesn't crack. Your art
 
 If the Saturn is yours, your reliability becomes part of something you believe in. The routines you'd keep anyway now serve a hope, and you may find a meaning in your own steadiness that you'd never quite named.
 
-One element usually joins them. One person's Saturn in Cancer with the other's Neptune in Scorpio, both water: a protective, home-making sense of duty beside a deep, private compassion. Care gets a household; the household gets a heart.
+One element usually joins them. When a Neptune in Capricorn meets a Saturn in Taurus, both earth, a generation's ideal of solid, useful institutions finds a sense of duty that wants good things to last. The ideal gets foundations; the foundations get a reason.
 
 ## Where it rubs {#where-it-rubs}
 
-Ease can hide an uneven load. The Saturn person often carries the practical side without being asked, and the Neptune person may never see how much is being held. Over years, quiet resentment can grow where no one noticed a cost. The dream can also stay comfortably private, never tested in the wider world because the two of them sustain it so well. Flow isn't passivity: the trine shares out a gift, and someone still has to check the accounts.
+Ease can hide an uneven load. The Saturn person often carries the practical side without being asked, and the Neptune person may never see how much is being held. Over years, quiet resentment can grow where no one noticed a cost. The dream can also stay comfortably private, never tested in the wider world because the two of them sustain it so well. However smoothly the gift is shared, someone still has to check the accounts.
 
 - **[Saturn conjunct Neptune in synastry](/astrology/saturn-conjunct-neptune-synastry/):** the container and the ideal fused, harder to tell apart.
 - **[Saturn sextile Neptune in synastry](/astrology/saturn-sextile-neptune-synastry/):** the same exchange, but it has to be proposed.
@@ -52,7 +52,7 @@ Ease can hide an uneven load. The Saturn person often carries the practical side
 
 Make the invisible work visible. Name who carries what, and swap now and then: the Neptune person takes a turn with the logistics, the Saturn person a turn with the dreaming. Two volunteers who've run a food bank for years, a musician and the friend who manages the bookings, an adult child and a parent who share a faith: each can keep this trine fair by saying thank you for the parts nobody sees.
 
-Someone born in mid-1945 has it with anyone born between September 1961 and November 1964, whose Neptune in Scorpio trines that Saturn in Cancer; someone born in mid-1985 has it with anyone born from May to November 1998, whose Saturn trines the 1985 Neptune. Contacts that whole runs of births share stay out of my count of a synastry; that count is reserved for contacts touching the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. In the houses, I read this one as two eras sustaining each other, more than two people.
+Births of September 1961 to November 1964 have it with someone born in mid-1945, their Neptune in Scorpio trine that Saturn in Cancer; births of May to November 1998 have it with someone born in mid-1985, their Saturn in Taurus trine the 1985 Neptune in Capricorn. Contacts that whole runs of births share stay out of my count of a synastry; that count is reserved for contacts touching the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. In the houses, I read this one as two eras sustaining each other, more than two people.
 
 The trine doesn't depend on the hour; the houses do, and so both birth times are needed ([what changes without a birth time](/blog/unknown-birth-time/)).
 

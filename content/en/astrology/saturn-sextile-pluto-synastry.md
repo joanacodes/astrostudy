@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the sextile, 60°, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that give this contact" }
 ---
-Saturn sextile Pluto in synastry sets one person's Saturn and the other's Pluto about 60° apart, with no more than 3° of leeway. One of them knows what has to go; the other knows in what order to take it down so that nothing collapses. Between them, a renovation becomes possible, if someone picks up the first tool.
+Deep change in stages is what Saturn sextile Pluto in synastry can offer, with one person's Saturn about 60° from the other's Pluto and no more than 3° to spare. One knows what has to go; the other knows in what order to take it down so that nothing collapses. Between them, a renovation becomes possible, if someone picks up the first tool.
 
 ## What flows {#what-flows}
 
@@ -37,7 +37,7 @@ If the Pluto is yours, this person treats your need for deep change as a project
 
 If the Saturn is yours, the other person's depth gives your methods a reason. Through them, you see which of your structures are worth renovating instead of defending, and you may enjoy being the one who makes a frightening change manageable.
 
-Sextiles usually link elements that cooperate. One person's Saturn in Cancer with the other's Pluto in Virgo, water and earth: a protective sense of duty beside a generation's drive to purify and repair. Care and precision can take something apart and put it back better.
+The sextile's two signs tend to help each other. A Saturn in Cancer and a Pluto in Virgo, water beside earth: a protective sense of duty beside a generation's drive to purify and repair. Care and precision can take something apart and put it back better.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -56,6 +56,6 @@ Treat the big change as a list. Write down what has to go, put it in order, date
 
 The count shows how it lands: someone born in mid-1975, with Saturn in Cancer, has it with anyone born between August 1966 and October 1968, whose Pluto in Virgo sits 60° away; someone born in mid-1955 has it with anyone born from September to November 1982, whose Saturn in Libra sits 60° from the 1955 Pluto in Leo. Nothing about such a contact singles out two people, since everyone born in those spans shares it; I leave it out of the contacts I count, which always involve the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. In the houses, I read it as two eras able to rebuild something together, more than two people.
 
-Both birth times set those houses; the sextile ignores the hour ([what changes without a birth time](/blog/unknown-birth-time/)).
+The hour of each birth fixes those houses; the sextile ignores it ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 [Saturn sextile Pluto](/astrology/saturn-sextile-pluto/) inside one chart gives a single person the habit of changing things one manageable piece at a time. Across two charts, the habit is split between two people, and it's read only with both of them ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

@@ -21,7 +21,7 @@ faq:
   - q: "Que veut dire Jupiter carré Neptune en synastrie ?"
     a: "Un quart de zodiaque, à 4,25° près, sépare Jupiter d’une personne et Neptune de l’autre. L’une veut plutôt des principes clairs, l’autre suit des idéaux et des intuitions qui refusent d’être épinglés. La friction peut apprendre le discernement : des idéaux avec des bords, des croyances avec de la compassion."
   - q: "Est-ce que Jupiter carré Neptune est un signe de tromperie dans une relation ?"
-    a: "Non. Neptune ne veut pas dire tromperie dans ma lecture, et un carré est une friction, pas un échec. Celui-ci décrit deux façons de connaître qui frottent : la clarté et l’imagination. Il vient aussi d’années de naissance entières : je le lis dans les maisons, jamais comme un jugement sur deux personnes."
+    a: "Non. Neptune ne veut pas dire tromperie dans ma lecture, et un carré est une friction, pas un échec. Celui-ci décrit deux façons de connaître qui frottent : la clarté et l’imagination. Et il ne dit rien de l’honnêteté de deux personnes : des années de naissance entières le partagent."
   - q: "Qui a Jupiter carré Neptune avec quelqu’un ?"
     a: "Regardez les dates : toutes les personnes nées entre septembre 1962 et novembre 1965 ont Neptune en carré avec Jupiter d’une personne née à la mi-1985, pour prendre un exemple. Le contact appartient à ces années-là, c’est pourquoi j’y lis la rencontre de deux époques."
 sources:

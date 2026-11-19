@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les aspects ; la conjonction, une rencontre plutôt qu’un angle" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact" }
 ---
-Saturne conjonction Neptune en synastrie place Saturne, chez l’une, sur Neptune chez l’autre. Là où la seconde garde un espoir, un idéal, une aspiration, la première apporte, au même degré, le sens des limites, du devoir et du temps ; et comme les deux planètes sont lentes, la rencontre se fait entre deux générations autant qu’entre deux personnes.
+Là où une personne garde un espoir, un idéal, une aspiration, Saturne conjonction Neptune en synastrie place Saturne de l’autre, avec le sens des limites, du devoir et du temps, au même degré. Les deux planètes sont lentes : la rencontre se fait entre deux générations autant qu’entre deux personnes.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -51,7 +51,7 @@ Une conjonction mélange les deux. La personne de Saturne peut faire de l’espo
 
 Écrivez l’espoir, puis écrivez la promesse en dessous, à part. Décidez qui porte quelle part, et pour combien de temps. Les fondatrices et fondateurs d’une association peuvent se servir de cette conjonction pour donner des statuts à une cause ; un couple qui rêve de vivre à l’étranger, pour faire d’une aspiration un plan daté ; un enfant adulte qui soigne un parent, pour empêcher la compassion de devenir une garde sans fin.
 
-Une personne née au milieu de 1975 l’a avec toute personne née entre décembre 1985 et juin 1986, chez qui Saturne a franchi Neptune de 1975, en Sagittaire ; une personne née au milieu de 1955 l’a avec toute personne née de septembre 1961 à janvier 1965, chez qui Neptune se pose sur Saturne de 1955, en Scorpion. Comme des périodes entières de naissances partagent chaque côté, je ne compte pas cette conjonction parmi les contacts d’une synastrie, qui touchent toujours le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Dans les maisons où elle tombe, je lis le sens du devoir d’une époque face à l’idéal d’une autre, plus que la rencontre de deux personnes.
+Votre naissance date du milieu de 1975, avec Neptune en Sagittaire ? Alors toutes les personnes nées entre décembre 1985 et juin 1986 apportent Saturne à ce degré. Du milieu de 1955, avec Saturne en Scorpion ? Toutes celles nées de septembre 1961 à janvier 1965 y apportent Neptune. Comme des périodes entières de naissances partagent chaque côté, je ne compte pas cette conjonction parmi les contacts d’une synastrie, qui touchent toujours le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Dans les maisons où elle tombe, je lis le sens du devoir d’une époque face à l’idéal d’une autre, plus que la rencontre de deux personnes.
 
 Ces maisons viennent des deux heures de naissance, et rien d’autre ne fait le travail ici : l’heure ne change pas la conjonction ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Avec Neptune de l’autre dans votre maison 6, par exemple, le rêve entre dans votre journée de travail ([Neptune de l’autre dans votre maison 6](/astrology/neptune-in-6th-house-synastry/)).
 

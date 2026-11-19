@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, 120°, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that give this contact" }
 ---
-With Saturn trine Pluto in synastry, one person's Saturn lies about 120° from the other's Pluto, usually in signs of one element. One of them can stay the course; the other can go to the bottom of things. Together they tend to come through a hard season with the structure intact and something underneath it renewed.
+Staying the course is one person's gift here, going to the bottom of things the other's. Saturn trine Pluto in synastry joins one person's Saturn to the other's Pluto across about 120°, usually in one element, and together they tend to come through a hard season with the structure intact and something underneath it renewed.
 
 ## What flows {#what-flows}
 
@@ -37,13 +37,13 @@ If the Pluto is yours, this person can hold steady while you change. Your deep r
 
 If the Saturn is yours, the other person keeps your structures from going stale. Through them, a commitment that might have hardened into habit gets renewed from the inside, and you find you can change without losing your footing.
 
-One element usually holds them. One person's Saturn in Cancer with the other's Pluto in Scorpio, both water: a protective loyalty beside a generation's need to get to the root of things. Loyalty learns it can survive a hard truth, and the truth learns it doesn't have to destroy what it touches.
+Usually a single element houses them, and water is a common meeting place: Saturn in Cancer in one chart, Pluto in Scorpio in the other, a protective loyalty beside a generation's need to get to the root of things. Loyalty learns it can survive a hard truth, and the truth learns it doesn't have to destroy what it touches.
 
 ## Where it rubs {#where-it-rubs}
 
-Ease can hide endurance past its time. A pair this good at coping can put up with what it ought to change, and skip the difficult conversation because things still hold. The Saturn person may carry a structure long after its purpose has gone; the Pluto person may save their depth for crises and leave everyday life untouched. Ease isn't inevitability: the trine makes resilience easy, not wise.
+Ease can hide endurance past its time. A pair this good at coping can put up with what it ought to change, and skip the difficult conversation because things still hold. The Saturn person may carry a structure long after its purpose has gone; the Pluto person may save their depth for crises and leave everyday life untouched. A trine supplies the resilience; it doesn't supply the judgement about when to use it.
 
-The same planets at other angles:
+Turned to other angles, the pair changes:
 
 - **[Saturn conjunct Pluto in synastry](/astrology/saturn-conjunct-pluto-synastry/):** structure and renewal fused, with control to share out.
 - **[Saturn sextile Pluto in synastry](/astrology/saturn-sextile-pluto-synastry/):** the work broken into stages, waiting for a start.
@@ -54,8 +54,8 @@ The same planets at other angles:
 
 Check what you're enduring, and why. Once a year, ask each other what you would change if you weren't so good at coping, and act on one answer. Long-standing business partners, friends of twenty years, a couple, an adult child and a parent who have weathered a lot together: each can use the trine to renew something on purpose, not only in emergencies.
 
-Someone born in mid-1975 has it with anyone born between October 1990 and January 1993, whose Pluto in Scorpio trines that Saturn in Cancer; someone born in mid-1985 has it with anyone born from April to August 1993, whose Saturn trines the 1985 Pluto. Because everyone born in those months carries the same positions, I never weigh this trine as a bond between two individuals; the contacts I count in a synastry all involve the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. In the houses, it shows how two eras can carry change for each other, more than how two people do.
+Here are two from the count. A person born in mid-1975, with Saturn in Cancer, shares it with everyone born from October 1990 to January 1993, when Pluto was in Scorpio; a person born in mid-1985 shares it with everyone born from April to August 1993, whose Saturn trines the 1985 Pluto. Because everyone born in those months carries the same positions, I never weigh this trine as a bond between two individuals; the contacts I count in a synastry all involve the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. In the houses, it shows how two eras can carry change for each other, more than how two people do.
 
-The houses need both birth times; the hour leaves the trine itself untouched ([what changes without a birth time](/blog/unknown-birth-time/)).
+No hour of birth makes or breaks this trine, but both are needed for the houses ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-When one chart holds [Saturn trine Pluto](/astrology/saturn-trine-pluto/), one person's structures and depths work together. Here they belong to two people, and both should want the reading ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+When one chart holds [Saturn trine Pluto](/astrology/saturn-trine-pluto/), one person's structures and depths work together. Here they're shared between two people, and I read the trine only if each of them wishes it ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact, avec le nœud vrai" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai, toujours opposés" }
 ---
-Jupiter opposition Nœud Nord en synastrie place Jupiter, chez l’une, en face du Nœud Nord de l’autre, c’est-à-dire juste sur son Nœud Sud. La chaleur et la foi de la première tombent sur ce que la seconde sait déjà faire ; la direction où celle-ci grandit se trouve de l’autre côté du thème.
+Jupiter opposition Nœud Nord en synastrie met Jupiter, chez l’une, juste en face du Nœud Nord de l’autre, c’est-à-dire sur son Nœud Sud. La chaleur et la foi de la première tombent sur ce que la seconde sait déjà faire ; la direction où celle-ci grandit se trouve de l’autre côté du thème.
 
 ## Ce qui circule {#ce-qui-circule}
 

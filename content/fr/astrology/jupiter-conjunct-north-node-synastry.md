@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact, avec le nœud vrai" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai" }
 ---
-Avec Jupiter conjonction Nœud Nord en synastrie, le Nœud Nord d’une personne reçoit Jupiter de l’autre. La manière dont la première trouve du sens tombe sur la capacité même que la seconde apprend, et fait face, de l’autre côté du thème, à son Nœud Sud : les forces qui lui viennent déjà facilement.
+Dans Jupiter conjonction Nœud Nord en synastrie, le Nœud Nord d’une personne reçoit Jupiter de l’autre. La manière dont la personne de Jupiter trouve du sens tombe sur la capacité même que la personne du nœud apprend, et fait face, de l’autre côté du thème, à son Nœud Sud : les forces qui lui viennent déjà facilement.
 
 ## Ce qui circule {#ce-qui-circule}
 
