@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/venus", "/astrology/neptune", "/astrology/conjunction", "/astrology/venus-conjunct-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Vénus conjonction Neptune en synastrie ?"
-    a: "Moins de 6° séparent Vénus, dans un thème, de Neptune, dans l’autre. La personne de Neptune trouve souvent dans ce qu’aime l’autre plus que celle-ci n’y voyait, et la personne de Vénus donne une forme aux rêves de la première. L’aspect décrit un monde commun de sensibilité et de beauté, dans toute paire d’adultes."
+    a: "Neptune, dans un thème, se pose sur la Vénus de l'autre, à 6° près. La personne de Neptune trouve souvent dans ce qu’aime l’autre plus que celle-ci n’y voyait, et la personne de Vénus donne une forme aux rêves de la première. L’aspect décrit un monde commun de sensibilité et de beauté, dans toute paire d’adultes."
   - q: "Est-ce que Vénus conjonction Neptune en synastrie veut dire tromperie ?"
     a: "Pas dans ma lecture. L’imagination et la compassion sont le territoire de Neptune, et je ne lis jamais la tromperie dans un thème. Ce que cette conjonction peut faire, c’est brouiller les contours : croire savoir ce que l’autre ressent, ou mettre ses propres préférences de côté. Vérifier auprès de l’autre, avec des mots simples, garde la tendresse claire."
   - q: "Est-ce que Vénus conjonction Neptune veut dire que deux personnes devaient se rencontrer ?"

@@ -21,7 +21,7 @@ faq:
   - q: "Que veut dire Jupiter conjonction Pluton en synastrie ?"
     a: "Jupiter dans un thème se trouve sur Pluton dans l’autre, à 5° près. La croissance et la transformation se fondent : l’une veut élargir la vie, l’autre la changer à la racine. L’encouragement peut y devenir très puissant, et il demande de la patience envers qui se transforme."
   - q: "Qui a Jupiter conjonction Pluton avec quelqu’un ?"
-    a: "Deux dates de naissance en décident, et la lenteur de Pluton élargit les fenêtres : toutes les personnes nées entre juin 1938 et août 1944 l’ont avec une personne née à la mi-1955, par exemple. Un contact aussi partagé appartient à toute une cohorte avant d’appartenir à un couple ou à une amitié."
+    a: "Deux dates de naissance en décident, et la lenteur de Pluton élargit les fenêtres : une personne née à la mi-1955 le trouve chez toutes les personnes nées entre juin 1938 et août 1944. Un contact aussi partagé appartient à toute une cohorte avant d’appartenir à un couple ou à une amitié."
   - q: "Est-ce que Jupiter conjonction Pluton présente un danger dans une relation ?"
     a: "Non. Dans ma lecture, Pluton décrit la transformation et la profondeur, jamais le danger ni la destruction. Cette conjonction demande à deux personnes de respecter le rythme et l’intimité de l’autre. Et comme des années entières la partagent, elle ne prédit rien sur personne."
 sources:

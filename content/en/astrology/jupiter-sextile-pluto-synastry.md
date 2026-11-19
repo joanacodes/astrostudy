@@ -20,7 +20,7 @@ faq:
   - q: "What does Jupiter sextile Pluto mean in synastry?"
     a: "Pluto in one chart sits about 60° from Jupiter in the other, within 3°, usually in signs two apart. One brings a sense of potential, the other depth and honesty about what lies underneath, and the two can help each other once someone chooses to go deeper."
   - q: "Who has Jupiter sextile Pluto in synastry?"
-    a: "The dates decide: everyone born between June 1948 and September 1950, for example, has Pluto sextile the Jupiter of a person born in mid-1965. With windows that wide, it is a generational meeting more than a personal one."
+    a: "The dates decide. A mid-1965 birthday, for one, has it with a run of births more than two years long, from June 1948 to September 1950. With windows that wide, it is a generational meeting more than a personal one."
   - q: "Is Jupiter sextile Pluto a strong aspect between two people?"
     a: "It’s a quiet one. A sextile offers cooperation without forcing it, and this one only shows when a pair chooses to talk about what matters. It also belongs to whole birth years, so in my readings it sits in the houses, not among the personal contacts."
 sources:
@@ -49,7 +49,7 @@ Other angles make the meeting stronger or harder. [Jupiter conjunct Pluto in syn
 
 Choose to go one level deeper, on purpose and with permission. Ask the question underneath the polite one, and let the other decide whether to answer. Use the link for things that need both breadth and honesty: a career change talked through, a family story finally sorted out, a shared project that needs restructuring. It works between friends, partners, siblings and colleagues alike, as long as nobody is pushed.
 
-More than two years of births share it with one mid-1965 birthday: everyone born between June 1948 and September 1950 has Pluto sextile that person's Jupiter, while the reverse comes in short windows, January to April 1994 among them. I keep contacts like this off my list of synastry aspects, a list that begins and ends with the personal bodies: the Sun, the Moon, Mercury, Venus, Mars, the Ascendant and the Midheaven. A sextile between two slow planets I read in the houses, as the meeting of two eras' ways of growing and renewing.
+Between June 1948 and September 1950, every birth has Pluto sextile the Jupiter of a mid-1965 birthday; in the other direction the windows are short, January to April 1994 among them. I keep contacts like this off my list of synastry aspects, a list that begins and ends with the personal bodies: the Sun, the Moon, Mercury, Venus, Mars, the Ascendant and the Midheaven. A sextile between two slow planets I read in the houses, as the meeting of two eras' ways of growing and renewing.
 
 Pluto, found in 1930 and classed a dwarf planet in 2006, barely moves in a day, so the hour of birth leaves the sextile alone; it decides the houses, and I need both times before I read them ([what changes without a birth time](/blog/unknown-birth-time/)).
 

@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/moon", "/astrology/11th-house", "/astrology/house-overlays", "/astrology/aquarius", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire la Lune de l’autre dans ma maison 11 ?"
-    a: "Ses émotions et son besoin d’appartenance trouvent un foyer parmi vos amis, vos groupes et vos espoirs. Cette personne se sent souvent bien dans votre cercle et prend soin des gens qui s’y trouvent, et vos amitiés gagnent en chaleur grâce à elle. Cela décrit l’appartenance et la tendresse dans l’amitié, quel que soit le lien par ailleurs."
+    a: "Ses émotions et son besoin d’appartenance trouvent un foyer parmi vos amitiés, vos cercles et ce que vous espérez. Cette personne se sent souvent bien dans votre cercle et prend soin des gens qui s’y trouvent, et vos amitiés gagnent en chaleur grâce à elle. Cela décrit l’appartenance et la tendresse dans l’amitié, quel que soit le lien par ailleurs."
   - q: "Pourquoi une personne dont la Lune est dans ma maison 11 s’intègre-t-elle si facilement à mon cercle ?"
     a: "Parce que sa Lune, en quête d’appartenance, se pose dans la maison de vos amis et de vos communautés. Les vôtres lui paraissent sûrs, et elle a tendance à veiller sur eux. Prévoyez seulement du temps rien qu’à deux, pour que le groupe ne porte pas tout le lien."
   - q: "Que vit-on quand sa Lune tombe dans la maison 11 de quelqu’un ?"
@@ -27,15 +27,15 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "la Lune, l’un des deux luminaires" }
 ---
-La Lune de l’autre dans votre maison 11 fait entrer dans votre cercle le besoin d’appartenance de quelqu’un. Vos amis, vos groupes et l’avenir que vous construisez avec eux deviennent un lieu où cette personne se sent chez elle, et l’amitié entre vous deux a souvent une vraie tendresse.
+La Lune de l’autre dans votre maison 11 fait entrer dans votre cercle le besoin d’appartenance de quelqu’un. Vos amis, vos groupes et l’avenir que vous construisez avec eux deviennent un endroit où elle peut se poser, et l’amitié entre vous deux a souvent une vraie tendresse.
 
 ## Ce que ça apporte {#ce-que-ca-apporte}
 
-La [maison 11](/astrology/11th-house/) est la part d’un thème tournée vers beaucoup de gens à la fois : les amis choisis, les équipes, les communautés, les réseaux qui aident sans qu’on le demande, et les espoirs que vous partagez avec eux. La [Lune](/astrology/moon/) porte le besoin d’appartenance d’une personne et sa façon de prendre soin des autres. Dans cette [superposition de maisons](/astrology/house-overlays/), ce besoin rencontre les vôtres.
+La [maison 11](/astrology/11th-house/) tourne un thème vers beaucoup de gens à la fois : les amis choisis, les équipes, les communautés, les réseaux qui aident sans qu’on le demande, et les espoirs que vous partagez avec eux. La [Lune](/astrology/moon/) porte le besoin d’appartenance d’une personne et sa façon de prendre soin des autres. Dans cette [superposition de maisons](/astrology/house-overlays/), ce besoin rencontre les vôtres.
 
 De votre côté, cette personne peut rendre votre cercle plus familial. Elle retient les anniversaires de vos amis, remarque qui se fait discret, et apporte aux réunions une chaleur que les autres sentent aussi. Vos espoirs pour l’avenir semblent compter pour elle personnellement, et parler projets avec elle peut ressembler à une forme de soin.
 
-Pour l’autre, vos amis et vos communautés peuvent devenir un foyer. Elle se sent peut-être à sa place parmi les vôtres plus vite qu’elle ne l’aurait cru, et vos causes communes donnent à ses émotions un endroit où aller. La maison 11 est succédente, la maison où ce que vous avez bâti se partage et se poursuit, et le [Verseau](/astrology/aquarius/), signe de la communauté et de l’indépendance, lui correspond. Son nom ancien est le Génie favorable, et Jupiter s’y réjouit.
+Pour l’autre, vos amis et vos communautés peuvent devenir un foyer. Les vôtres deviennent les siens étonnamment vite, et vos causes communes donnent à ses émotions un endroit où aller. La maison 11 est succédente, la maison où ce que vous avez bâti se partage et se poursuit, et le [Verseau](/astrology/aquarius/), signe de la communauté et de l’indépendance, lui correspond. Son nom ancien est le Génie favorable, et Jupiter s’y réjouit.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

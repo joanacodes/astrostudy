@@ -32,7 +32,7 @@ Dans certaines paires, la générosité et l’imagination semblent se nourrir l
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Jupiter](/astrology/jupiter/) est l’endroit où un thème cherche la signification : à quoi servait une expérience, ce qu’elle finit par vouloir dire. [Neptune](/astrology/neptune/) est l’endroit où il ressent au-delà de lui-même : la compassion, l’intuition, une imagination qui voit des symboles dans les choses ordinaires. Un [trigone](/astrology/trine/) laisse deux fonctions se renforcer en restant elles-mêmes, et quand elles appartiennent à deux personnes, comme dans les [aspects de synastrie](/astrology/synastry-aspects/), chacune renforce l’autre du dehors.
+[Jupiter](/astrology/jupiter/) est l’endroit où un thème cherche la signification : à quoi servait une expérience, ce qu’elle finit par vouloir dire. [Neptune](/astrology/neptune/) est l’endroit où un thème ressent au-delà de lui-même : la compassion, l’intuition, une imagination qui voit des symboles dans les choses ordinaires. Un [trigone](/astrology/trine/) laisse deux fonctions se renforcer en restant elles-mêmes, et quand elles appartiennent à deux personnes, comme dans les [aspects de synastrie](/astrology/synastry-aspects/), chacune renforce l’autre du dehors.
 
 Sur ce trigone, la croissance de Jupiter prend les idéaux de Neptune et leur trouve une place dans une vision cohérente de la vie ; Neptune adoucit cette vision, pour que ce qui a du sens fasse aussi de la place aux autres.
 

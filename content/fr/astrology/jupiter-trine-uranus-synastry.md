@@ -42,7 +42,7 @@ La personne d’Uranus se sent souvent bienvenue. Votre besoin de liberté est r
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-L’aisance peut cacher ce que personne ne questionne. Deux personnes aussi à l’aise avec le changement peuvent lâcher trop vite de bonnes choses : Uranus sous-estime la valeur de la continuité, Jupiter trouve une raison d’accueillir presque tout ce qui est neuf, et personne ne demande ce qui marche encore. L’aisance n’est pas une fatalité, et la fluidité n’est pas la passivité. Une paire aussi accommodante peut aussi admirer de loin la liberté de l’autre, sans jamais s’approcher assez pour être en désaccord.
+L’aisance peut cacher ce que personne ne questionne. Deux personnes aussi à l’aise avec le changement peuvent lâcher trop vite de bonnes choses : Uranus sous-estime la valeur de la continuité, Jupiter trouve une raison d’accueillir presque tout ce qui est neuf, et personne ne demande ce qui marche encore. L’aisance n’a rien d’inévitable, et couler n’est pas se laisser porter. Une paire aussi accommodante peut aussi admirer de loin la liberté de l’autre, sans jamais s’approcher assez pour être en désaccord.
 
 Autour du trigone :
 

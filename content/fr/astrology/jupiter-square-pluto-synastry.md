@@ -23,7 +23,7 @@ faq:
   - q: "Est-ce que Jupiter carré Pluton est une lutte de pouvoir ?"
     a: "Pas forcément, et jamais comme une fatalité. Un carré est une friction, pas un échec, et Pluton veut dire transformation, pas domination. Celui-ci demande à deux personnes de s’accorder sur l’ordre des choses : déblayer d’abord, grandir ensuite. Des années de naissance entières le portent : raison de plus pour n’y voir la faute de personne."
   - q: "Qui a Jupiter carré Pluton avec quelqu’un ?"
-    a: "Les deux dates de naissance en décident. Toutes les personnes nées entre octobre 1988 et janvier 1991 ont Pluton en carré avec Jupiter d’une personne née à la mi-1985, par exemple, souvent à quelques années d’écart seulement. Cet étalement explique pourquoi il me parle de deux générations plutôt que de deux tempéraments."
+    a: "Les deux dates de naissance en décident, et elles peuvent être proches : un anniversaire de la mi-1985 l’a avec chaque naissance d’octobre 1988 à janvier 1991, à quelques années d’écart seulement. Cet étalement explique pourquoi il me parle de deux générations plutôt que de deux tempéraments."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, 90°, parmi les aspects de son premier livre" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Jupiter d’une personne en carré de Pluton chez une autre, à 4,25° près" }
@@ -34,7 +34,7 @@ L’une veut plus de place ; l’autre veut savoir ce qu’il y a dessous. Jup
 
 [Jupiter](/astrology/jupiter/) pousse vers l’extérieur : plus d’ampleur, plus de possibles, un cadre plus grand pour l’expérience. [Pluton](/astrology/pluto/) descend : vers les motifs, les attachements et les rapports de pouvoir sous une situation, et vers ce qui doit partir pour que le reste vive. Un [carré](/astrology/square/) fait travailler deux fonctions l’une contre l’autre, et c’est ainsi que chacune apprend ; dans les [aspects de synastrie](/astrology/synastry-aspects/), chaque personne en apporte une.
 
-À cet angle, la croissance de Jupiter ajoute sans cesse pendant que la profondeur de Pluton dépouille sans cesse, et chacune met l’autre à l’épreuve : l’expansion est-elle réelle, et le déblaiement nécessaire ?
+À cet angle, la croissance de Jupiter ajoute sans cesse pendant que la profondeur de Pluton dépouille sans cesse, et chacune met l’autre à l’épreuve : est-ce que l’expansion est réelle, et le déblaiement nécessaire ?
 
 Quand c’est vous qui portez Jupiter ici, vous voulez élargir, inclure, croire le meilleur ; l’autre demande sans cesse ce qu’il y a dessous et ce qui doit partir. On peut avoir l’impression que vos espoirs passent à l’interrogatoire, ou que rien de bon n’a le droit de rester simple.
 

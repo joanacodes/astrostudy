@@ -2,7 +2,7 @@
 title: "Mars conjonction Jupiter en synastrie"
 slug: "mars-conjonction-jupiter-synastrie"
 h1: "Mars conjonction Jupiter entre deux thèmes"
-description: "Mars conjonction Jupiter en synastrie : l’élan de l’une tombe sur les convictions de l’autre. Les deux côtés, à qui appartient la cause, et sa fréquence."
+description: "Mars conjonction Jupiter en synastrie : ce à quoi l’une croit, l’autre le met en mouvement. Les deux côtés, à qui appartient la cause, et sa fréquence."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -32,7 +32,7 @@ sources:
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Mars](/astrology/mars/), c’est la façon dont une personne agit pour ce qu’elle veut : l’initiative, l’effort, l’affirmation, les limites qu’elle est prête à défendre. [Jupiter](/astrology/jupiter/) élargit sa compréhension : le sens, les principes, les convictions, le désir d’apprendre et de grandir. Une [conjonction](/astrology/conjunction/) fait travailler deux fonctions comme une seule. Répartie sur deux thèmes, comme dans les [aspects de synastrie](/astrology/synastry-aspects/), elle a besoin des deux personnes : l’une apporte la poussée, l’autre la raison.
+[Mars](/astrology/mars/) fait passer à l’action ce qu’une personne veut : l’initiative, l’effort, l’affirmation, les limites qu’elle est prête à défendre. [Jupiter](/astrology/jupiter/) élargit sa compréhension : le sens, les principes, les convictions, le désir d’apprendre et de grandir. Avec une [conjonction](/astrology/conjunction/), deux fonctions travaillent comme une seule. Répartie sur deux thèmes, comme dans les [aspects de synastrie](/astrology/synastry-aspects/), elle a besoin des deux personnes : l’une apporte la poussée, l’autre la raison.
 
 Côté Jupiter, vous verrez peut-être se réaliser ce dont vous n’aviez fait que parler. La cause qui vous tient à cœur, le voyage dont vous lisez les récits depuis des années, le cours que vous vouliez suivre : cette personne l’entend, et se met en route. Vos principes trouvent des jambes.
 
@@ -40,15 +40,15 @@ Côté Mars, votre énergie trouve peut-être une direction qui lui manquait. À
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Une conjonction brouille, et la question qu’elle brouille, c’est à qui appartient la cause. La personne de Mars peut adopter en bloc les convictions de l’autre, parce qu’agir pour elles fait tant de bien ; celle de Jupiter peut finir par compter sur l’énergie de l’autre pour son propre sens du but, et se sentir vide quand cette énergie va ailleurs. Deux personnes peuvent se retrouver plongées dans un projet qu’aucune n’aurait choisi seule.
+À qui est cette cause ? Si proches, l’effort et la conviction ne se distinguent plus facilement. La personne de Mars peut adopter en bloc les convictions de l’autre, parce qu’agir pour elles fait tant de bien ; celle de Jupiter peut finir par compter sur l’énergie de l’autre pour son propre sens du but, et se sentir vide quand cette énergie va ailleurs. Deux personnes peuvent se retrouver plongées dans un projet qu’aucune n’aurait choisi seule.
 
-La taille est l’autre accroc. La croissance que cherche Jupiter n’est pas forcément l’excès, ni le cran de Mars de la témérité, mais un enthousiasme nourri d’enthousiasme grandit vite, et personne, dans cette rencontre, ne demande naturellement « combien ? ». Le risque tient moins au danger qu’au trop-plein d’engagements : des projets qui dépassent le temps et l’endurance des deux personnes qui les portent.
+La taille est l’autre accroc. La croissance que cherche Jupiter n’est pas forcément l’excès, ni le cran de Mars de la témérité, mais un enthousiasme nourri d’enthousiasme grandit vite, et personne, dans cette rencontre, ne demande naturellement « combien ? ». Ce qui déraille, en général, c’est le trop-plein d’engagements : des projets qui dépassent le temps et l’endurance des deux personnes qui les portent.
 
 ## Comment le vivre {#comment-le-vivre}
 
 Donnez une taille à l’énergie commune. Avant que le projet grandisse, convenez de la part de vos vies qu’il obtient : une soirée par semaine, une saison, un voyage. Si Jupiter est de votre côté, vérifiez que l’autre veut la cause pour elle-même, pas seulement pour vous ; si Mars est de votre côté, demandez à quoi sert la conviction avant de vous y dépenser. Couples, amis, frères et sœurs adultes, collègues connaissent cette conjonction comme la paire qui lance les choses ; celles qui en profitent le plus longtemps les terminent aussi.
 
-Avec un orbe de 6°, je compte cette conjonction dans environ 1 paire de personnes sur 15, dans un sens ou dans l’autre. Jupiter passe environ un an dans un signe, si bien que le signe de Jupiter est partagé par toutes les personnes nées la même année ; c’est Mars, six ou sept semaines par signe, qui rend la rencontre personnelle. Les heures de naissance décident rarement si la conjonction existe, mais les maisons où elle tombe, là où l’élan se porte dans chaque vie, demandent les deux ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Quand c’est le Soleil de l’autre, et non Mars, qui se pose sur Jupiter dans votre thème, [Soleil conjonction Jupiter en synastrie](/astrology/sun-conjunct-jupiter-synastry/) élargit toute une façon d’être plutôt qu’un plan d’action.
+Avec un orbe de 6°, je compte cette conjonction dans environ 1 paire de personnes sur 15, dans un sens ou dans l’autre. Le signe de Jupiter est partagé par toutes les personnes nées à peu près la même année : c’est la position de Mars chez l’autre, qui change de signe toutes les six ou sept semaines, qui distingue la paire. Les heures de naissance décident rarement si la conjonction existe, mais les maisons où elle tombe, là où l’élan se porte dans chaque vie, demandent les deux ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Quand c’est le Soleil de l’autre, et non Mars, qui se pose sur Jupiter dans votre thème, [Soleil conjonction Jupiter en synastrie](/astrology/sun-conjunct-jupiter-synastry/) élargit toute une façon d’être plutôt qu’un plan d’action.
 
 Dans le thème d’une seule personne, [Mars conjonction Jupiter](/astrology/mars-conjunct-jupiter/) fond son effort et sa conviction en un seul geste. Entre deux personnes, les autres angles de la paire les répartissent autrement :
 

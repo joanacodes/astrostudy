@@ -20,7 +20,7 @@ faq:
   - q: "What does Jupiter conjunct Pluto mean in synastry?"
     a: "Jupiter in one chart lies on Pluto in the other, within 5°. Growth and transformation fuse: one person’s wish to widen life meets the other’s wish to change it at the root. It can make encouragement unusually powerful, and it asks for patience with whoever is doing the transforming."
   - q: "Who has Jupiter conjunct Pluto with someone?"
-    a: "Two birth dates decide, and Pluto’s slowness makes the spans wide: everyone born between June 1938 and August 1944 has it with someone born in mid-1955, for example. A contact shared that widely belongs to a whole cohort before it belongs to a couple or a friendship."
+    a: "Two birth dates decide, and Pluto’s slowness makes the spans wide: a person born in mid-1955 meets it in everyone born between June 1938 and August 1944. A contact shared that widely belongs to a whole cohort before it belongs to a couple or a friendship."
   - q: "Is Jupiter conjunct Pluto dangerous in a relationship?"
     a: "No. In my reading Pluto describes transformation and depth, never danger or destruction. This conjunction asks two people to respect each other’s pace and privacy. And since whole birth years share it, it is no forecast about anyone."
 sources:

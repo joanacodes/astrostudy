@@ -32,7 +32,7 @@ Across a table, one of you is reaching for the shared plan and the other is keep
 
 ## What flows {#what-flows}
 
-[Venus](/astrology/venus/) is the function of liking and relating: attraction, preference, what someone finds beautiful, and the wish for an exchange that feels even. [Black Moon Lilith](/astrology/black-moon-lilith/), a point at the Moon's greatest distance from Earth, carries different meanings in different traditions; I read it as untamed instinct, autonomy, and what a person was taught to keep out of sight. An [opposition](/astrology/opposition/) sets two functions at the two ends of a line, a polarity in which each makes the other easier to see. As in every one of the [synastry aspects](/astrology/synastry-aspects/), each end has its own person.
+[Venus](/astrology/venus/) is the function of liking and relating: attraction, preference, what someone finds beautiful, and the wish for an exchange that feels even. [Black Moon Lilith](/astrology/black-moon-lilith/), a point at the Moon's greatest distance from Earth, carries different meanings in different traditions; I read it as untamed instinct, autonomy, and what a person was taught to keep out of sight. An [opposition](/astrology/opposition/) sets two functions at the two ends of a line, a polarity in which each throws the other into relief. As in every one of the [synastry aspects](/astrology/synastry-aspects/), each end has its own person.
 
 Set a Venus in Leo across from a Lilith in Aquarius, two fixed signs face to face, and a warm, generous, show-loving taste faces a cool refusal to be anyone's audience. The Venus person brings the party; the Lilith person stands by the window, and is often the one the Venus person most wants to talk to.
 

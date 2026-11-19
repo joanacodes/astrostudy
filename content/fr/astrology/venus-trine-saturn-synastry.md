@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/venus", "/astrology/saturn", "/astrology/trine", "/astrology/venus-trine-saturn", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Vénus trigone Saturne en synastrie ?"
-    a: "Vénus chez une personne, Saturne chez l’autre, et environ 120° entre les deux. La personne de Vénus apprécie la fiabilité de l’autre, et celle de Saturne s’engage sans peine envers ce que la première estime. L’aspect décrit l’affection et la constance au même pas, dans un couple, une amitié, une famille ou une équipe."
+    a: "Saturne, chez une personne, et Vénus, chez l'autre, sont en trigone, à environ 120°. La personne de Vénus apprécie la fiabilité de l’autre, et celle de Saturne s’engage sans peine envers ce que la première estime. L’aspect décrit l’affection et la constance au même pas, dans un couple, une amitié, une famille ou une équipe."
   - q: "Est-ce que Vénus trigone Saturne veut dire qu’une relation durera ?"
     a: "Aucun contact ne peut l’annoncer, et je ne lis aucun aspect comme une prévision. Ce trigone décrit une aisance entre ce qu’une personne estime et la façon dont l’autre s’engage, ce qui est agréable à vivre. La durée d’un lien dépend des deux adultes qui le vivent, pas d’un angle."
   - q: "Qu’est-ce que l’aisance de Vénus trigone Saturne peut cacher ?"

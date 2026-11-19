@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/jupiter", "/astrology/saturn", "/astrology/conjunction", "/astrology/jupiter-conjunct-saturn", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Jupiter conjonction Saturne en synastrie ?"
-    a: "Jupiter, chez une personne, se trouve à moins de 5° de Saturne chez l’autre, en général dans le même signe. La croissance et le sens d’un côté, la structure et la responsabilité de l’autre se rejoignent en un seul point. La personne de Jupiter apporte souvent la raison d’un projet, celle de Saturne le cadre qui le fait durer."
+    a: "Jupiter dans un thème et Saturne dans l’autre partagent en général un signe, à moins de 5° d’écart. La croissance et le sens d’un côté, la structure et la responsabilité de l’autre se rejoignent en un seul point. La personne de Jupiter apporte souvent la raison d’un projet, celle de Saturne le cadre qui le fait durer."
   - q: "Qui a Jupiter conjonction Saturne avec quelqu’un ?"
     a: "Cela dépend des deux dates de naissance. Prenez une naissance à la mi-1965 : toute personne née entre juin 1972 et mai 1973 a Saturne là où se trouve Jupiter chez cette personne. Comme elle vient du calendrier plutôt que de la personne, je la lis par les maisons des deux thèmes, pas comme un aspect personnel."
   - q: "Est-ce que Jupiter conjonction Saturne est un bon signe dans une relation ?"

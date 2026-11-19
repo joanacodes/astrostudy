@@ -41,7 +41,7 @@ If the Uranus is yours, your need for room is met without argument, and the othe
 
 ## Where it rubs {#where-it-rubs}
 
-Ease isn't inevitability, and this trine's cost is restlessness that never lands. A pair this comfortable with change can start many things and keep few routines; novelty can pass for progress when nobody inside the pair is attached to the old way. Continuity has its value, and this contact underrates it.
+A trine this light on its feet has its own cost: restlessness that never lands. A pair this comfortable with change can start many things and keep few routines; novelty can pass for progress when nobody inside the pair is attached to the old way. Continuity has its value, and this contact underrates it.
 
 Independence can also become distance. Because each lets the other do things their own way, the pair may never build a shared rhythm at all: two people improving things side by side, rarely together.
 

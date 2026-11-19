@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/neptune", "/astrology/sextile", "/astrology/venus-sextile-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Venus sextile Neptune mean in synastry?"
-    a: "One person’s Venus and the other’s Neptune are some 60° apart, normally two signs. The Neptune person tends to sense what the Venus person likes, and the Venus person helps the Neptune person’s ideas take a real shape. It describes quiet kindness and shared imagination between friends, relatives, colleagues or partners."
+    a: "Neptune in one chart and Venus in the other are about 60° apart, with one sign between them. The Neptune person tends to sense what the Venus person likes, and the Venus person helps the Neptune person’s ideas take a real shape. It describes quiet kindness and shared imagination between friends, relatives, colleagues or partners."
   - q: "Is Venus sextile Neptune a romantic aspect?"
     a: "It can feel romantic, but it is just as much about friendship and making things together. The sextile describes gentleness between one person’s taste and the other’s imagination, which suits any adult pair. It doesn’t predict where a relationship goes; the two people decide that."
   - q: "Why does Venus sextile Neptune stay vague?"
@@ -49,4 +49,4 @@ Give the kindness a form and a date. One shared project with an edge works bette
 
 About 1 pair of people in 13 has this sextile, one way round or the other, within 3.6°. Neptune creeps along at about two degrees a year, so whoever shares the Neptune person's year of birth carries much the same Neptune: that side belongs to a cohort. Whether these two have the sextile is down to the Venus person's birthday; with an orb of 3.6°, a few days either way can decide it. The hour of birth barely shifts either planet, but it decides which houses the sextile links, and so which corners of two lives it touches; for that I need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-[Venus sextile Neptune](/astrology/venus-sextile-neptune/) in one chart is a person whose taste and imagination help each other. Between two people, the help has to be offered and accepted, and that is most of its charm.
+Inside a single chart, [Venus sextile Neptune](/astrology/venus-sextile-neptune/) describes a person whose taste and imagination help each other. Between two people, the help has to be offered and accepted, and that is most of its charm.

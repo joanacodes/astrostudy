@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/venus", "/astrology/neptune", "/astrology/square", "/astrology/venus-square-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Vénus carré Neptune en synastrie ?"
-    a: "Vénus chez une personne forme un angle droit avec Neptune chez l’autre, à environ 90°. La personne de Vénus veut souvent des conditions claires, des préférences dites et un juste équilibre ; celle de Neptune garde volontiers les projets ouverts. L’aspect décrit une friction entre clarté et imagination, avec laquelle deux adultes peuvent travailler."
+    a: "Les deux planètes, Vénus dans un thème et Neptune dans l'autre, forment un carré d'environ 90°. La personne de Vénus veut souvent des conditions claires, des préférences dites et un juste équilibre ; celle de Neptune garde volontiers les projets ouverts. L’aspect décrit une friction entre clarté et imagination, avec laquelle deux adultes peuvent travailler."
   - q: "Est-ce que Vénus carré Neptune veut dire que quelqu’un ment ?"
     a: "Non. Neptune décrit l’imagination, la compassion et le goût de l’inachevé, pas la tromperie, et je ne lis la malhonnêteté dans aucun contact. Ce que ce carré peut apporter, c’est du flou : un oui qui n’était qu’un peut-être, ou un idéal pris pour un fait. Des mots simples dissipent l’essentiel."
   - q: "Comment vivre Vénus carré Neptune ?"

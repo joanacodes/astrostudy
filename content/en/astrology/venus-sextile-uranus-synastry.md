@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/uranus", "/astrology/sextile", "/astrology/venus-sextile-uranus", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Venus sextile Uranus mean in synastry?"
-    a: "One person’s Venus sits some 60° from the other’s Uranus, two signs apart as a rule. The Uranus person tends to bring the new ideas and the Venus person the eye that picks the good ones. It describes cooperation between originality and taste, which works in friendships, families and teams as well as in couples."
+    a: "Uranus in one chart sextiles Venus in the other: about 60°, two signs apart as a rule. The Uranus person tends to bring the new ideas and the Venus person the eye that picks the good ones. It describes cooperation between originality and taste, which works in friendships, families and teams as well as in couples."
   - q: "Is Venus sextile Uranus a good aspect in synastry?"
     a: "It is a pleasant one to have, but I don’t grade contacts. The sextile describes an opening between one person’s inventiveness and the other’s taste, and openings need someone to use them. What two adults make of it matters more than the angle itself."
   - q: "Why might Venus sextile Uranus go unnoticed?"
@@ -47,6 +47,6 @@ The pair's other contacts change how the new arrives. In [Venus conjunct Uranus 
 
 Try one experiment at a time, and give it a season. The Venus person can be candid about which suggestions they love and which leave them cold; the Uranus person can stay with a good idea long enough for it to become shared. At work, that might be two colleagues piloting a new tool before it reaches the team; in a family, a grown child showing a parent a new way to keep in touch; between friends, a book club with rules nobody else would choose.
 
-About 1 pair of people in 13 has this sextile, one way round or the other, within 3.6°. Uranus advances only a little over four degrees a year, so anyone born close to the Uranus person in age brings much the same Uranus: it belongs to a cohort. Venus is the narrow part. With an orb of 3.6°, a week's difference in the Venus person's birthday could take the sextile away, and that birthday is what makes this contact theirs. Neither planet does much between morning and evening, so the hour won't usually decide it; it decides the houses, and I need both birth times to read those ([what changes without a birth time](/blog/unknown-birth-time/)).
+About 1 pair of people in 13 has this sextile, one way round or the other, within 3.6°. Uranus advances only a little over four degrees a year, so anyone born close to the Uranus person in age brings much the same Uranus: it belongs to a cohort. Venus is the narrow part. With an orb of 3.6°, a week's difference in the Venus person's birthday could take the sextile away, and that birthday is what makes this contact theirs. Neither planet does much between morning and evening, so the hour won't usually decide it; it decides the houses, which can only be read with both birth times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Someone born with [Venus sextile Uranus](/astrology/venus-sextile-uranus/) updates their own tastes as they go. Between two people, one proposes and the other picks, and neither can do the other's half.

@@ -33,7 +33,7 @@ Vénus ne s’éloigne jamais de plus de 47° environ du Soleil : si votre Vén
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Vénus](/astrology/venus/), c’est la façon dont une personne estime et se lie : qui et ce qui l’attire, ce qu’elle préfère, ses plaisirs, son sens d’un échange juste. Le [Nœud Nord](/astrology/north-node/) marque une capacité encore en chantier, moins familière et moins automatique, qui grandit par la pratique et les retours ; le [Nœud Sud](/astrology/south-node/), exactement en face, garde ce qu’elle sait faire depuis longtemps. Une [conjonction](/astrology/conjunction/) fait de deux fonctions un seul processus, et dans les [aspects de synastrie](/astrology/synastry-aspects/), chaque personne en porte une.
+[Vénus](/astrology/venus/) décrit la manière dont quelqu’un estime et se lie : qui et ce qui l’attire, ce qu’elle préfère, ses plaisirs, son sens d’un échange juste. Le [Nœud Nord](/astrology/north-node/) marque une capacité encore en chantier, moins familière et moins automatique, qui grandit par la pratique et les retours ; le [Nœud Sud](/astrology/south-node/), exactement en face, garde ce qu’elle sait faire depuis longtemps. Une [conjonction](/astrology/conjunction/) lie deux fonctions en un seul processus, et dans les [aspects de synastrie](/astrology/synastry-aspects/), chaque personne en porte une.
 
 Côté nœud, vous rencontrez quelqu’un dont la manière ordinaire est votre exercice. Disons que votre Nœud Nord est en Balance, où le travail consiste à partager les décisions après une longue habitude de les prendre sans personne, et que Vénus, chez l’autre, est aussi en Balance, dans son propre signe : sa façon facile de demander ce qui vous ferait plaisir, de partager un choix, de faire de la place, est exactement ce que vous vous exercez à faire. À ses côtés, cela paraît possible, et agréable.
 
@@ -41,7 +41,7 @@ Côté Vénus, vous remarquerez peut-être que ce que vous tenez pour acquis est
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Une conjonction brouille, et le flou passe ici entre aimer quelqu’un et grandir. La personne du Nœud peut se mettre à attribuer ses progrès à l’autre, ou ne s’exercer qu’en sa compagnie, si bien que la nouvelle capacité reste empruntée. La personne de Vénus peut finir par se sentir responsable du développement de quelqu’un d’autre sans l’avoir choisi, et le ressentir comme un poids quand l’autre trébuche.
+Aimer quelqu’un et grandir peuvent se confondre quand les deux sont si proches. La personne du Nœud peut se mettre à attribuer ses progrès à l’autre, ou ne s’exercer qu’en sa compagnie, si bien que la nouvelle capacité reste empruntée. La personne de Vénus peut finir par se sentir responsable du développement de quelqu’un d’autre sans l’avoir choisi, et le ressentir comme un poids quand l’autre trébuche.
 
 Reste le Nœud Sud, en face de votre Vénus. Dans l’exemple de la Balance, il est en Bélier, sur le terrain familier où l’on décide sans consulter, et à vos côtés, cette vieille indépendance peut sembler moins attirante à l’autre. Cela peut ressembler à un progrès pour elle et, certains jours, à la perte d’une part dont elle était fière. Rien n’a besoin d’être perdu : la force familière reste, et la nouvelle s’y ajoute.
 

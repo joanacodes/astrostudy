@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 215
 glyph: "♂☍♃"
-definition: "Mars opposition Jupiter en synastrie signifie que Mars, chez une personne, se trouve à environ 180° de Jupiter chez l’autre, dans des signes opposés. L’une penche vers l’action immédiate, l’autre vers la compréhension préalable, et chacune voit chez l’autre ce qu’elle remet à plus tard. J’y lis une bascule qui apprend l’équilibre, jamais un bras de fer."
+definition: "Mars opposition Jupiter en synastrie signifie que Mars, chez une personne, se trouve à environ 180° de Jupiter chez l’autre, dans des signes opposés. L’une penche vers l’action immédiate, l’autre vers la compréhension préalable, et chacune trouve chez l’autre ce qu’elle laisse pour plus tard. J’y lis un équilibre appris par les deux bouts, jamais un bras de fer."
 facts:
   - { k: "Corps", v: "Mars ♂ de l’une, Jupiter ♃ de l’autre" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/mars", "/astrology/jupiter", "/astrology/opposition", "/astrology/mars-opposite-jupiter", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Mars opposition Jupiter en synastrie ?"
-    a: "Mars, chez une personne, fait face à Jupiter chez l’autre, à environ 180°, dans des signes opposés. La personne de Mars veut en général agir tout de suite ; celle de Jupiter veut d’abord la vue d’ensemble. Chacune montre à l’autre la moitié qu’elle remet à plus tard, et la paire rééquilibre sans cesse entre faire et comprendre."
+    a: "Les deux planètes se font face, à environ 180° : Mars chez une personne, Jupiter chez l’autre, dans le signe opposé. La personne de Mars veut en général agir tout de suite ; celle de Jupiter, d’abord la vue d’ensemble. Chacune montre à l’autre la moitié qu’elle remet à plus tard, et la paire rééquilibre sans cesse entre faire et comprendre."
   - q: "Mars opposition Jupiter en synastrie, est-ce un aspect de conflit ?"
     a: "Non. C’est une bascule, pas un affrontement : deux fonctions aux deux bouts d’une ligne, chacune rendant l’autre visible. Ici, il s’agit de l’action et du sens, et la tension entre eux porte sur le moment et l’accent. Rien dans cet aspect ne prédit une dispute entre deux personnes."
   - q: "Comment équilibrer Mars opposition Jupiter ?"
@@ -32,7 +32,7 @@ L’une a déjà un pied dehors ; l’autre demande encore où mène la route.
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Mars](/astrology/mars/), c’est l’élan d’une personne : lancer les choses, pousser pour elles, rivaliser, tenir une limite. [Jupiter](/astrology/jupiter/), c’est sa quête de sens : la vue large, les principes, les convictions, ce qu’on apprend de l’expérience. Une [opposition](/astrology/opposition/) relie deux fonctions par la polarité, où chaque bout rend l’autre plus visible. Dans les [aspects de synastrie](/astrology/synastry-aspects/), les deux bouts appartiennent à deux personnes, ce qui met la bascule sous les yeux des deux.
+[Mars](/astrology/mars/), c’est l’élan d’une personne : lancer les choses, pousser pour elles, rivaliser, tenir une limite. [Jupiter](/astrology/jupiter/), c’est sa quête de sens : la vue large, les principes, les convictions, ce qu’on apprend de l’expérience. Une [opposition](/astrology/opposition/) range deux fonctions aux deux pôles d’un axe, et chaque bout montre à quoi sert l’autre. Dans les [aspects de synastrie](/astrology/synastry-aspects/), les deux bouts appartiennent à deux personnes, ce qui met la bascule sous les yeux des deux.
 
 Les signes opposés partagent un mode. Mars en Bélier chez l’une, signe que Mars gouverne, et Jupiter en Balance chez l’autre : une envie d’agir de son propre chef fait face à la conviction qu’il faut peser les choses en pensant à tout le monde. La personne de Mars décide ; celle de Jupiter consulte.
 
@@ -48,9 +48,9 @@ Il n’y a pas d’inimitié là-dedans. C’est une bascule, et elle se coince 
 
 Changez de bout exprès. Laissez la personne de Jupiter lancer quelque chose de petit sans consulter, et celle de Mars poser un « pour quoi faire ? » avant de bouger. Entre amis, ce peut être la personne qui décide d’habitude et qui laisse l’autre choisir la destination ; en famille, la personne qui explique toujours et qui, pour une fois, fait le travail pratique ; au travail, deux collègues aux rythmes différents qui mènent la réunion à tour de rôle ; en couple, alterner qui organise.
 
-Cette opposition n’a qu’un point du cercle où tomber, quand le carré et le trigone en ont chacun deux : c’est la plus rare des trois, environ 1 paire de personnes sur 15, dans un sens ou dans l’autre, à 6° près. Mars et Jupiter avancent assez lentement pour que les heures de naissance en décident rarement, mais la maison de chaque planète dans le thème de l’autre, là où se tient la bascule, dépend des deux ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Je la lis avec les deux personnes, jamais sur l’une d’elles ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Cette opposition n’a qu’un point du cercle où tomber, quand le carré et le trigone en ont chacun deux : c’est la plus rare des trois, environ 1 paire de personnes sur 15, dans un sens ou dans l’autre, à 6° près. Mars et Jupiter avancent assez lentement pour que les heures de naissance en décident rarement, mais la maison de chaque planète dans le thème de l’autre, là où se tient la bascule, dépend des deux ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). C’est une lecture pour deux personnes assises ensemble, jamais une lecture sur une personne absente ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
 
-Dans un seul thème, [Mars opposition Jupiter](/astrology/mars-opposite-jupiter/) demande à une même personne de tenir les deux bouts. Entre deux thèmes, les autres angles de la paire :
+Dans un seul thème, [Mars opposition Jupiter](/astrology/mars-opposite-jupiter/) demande à une même personne de tenir les deux bouts. Placez les deux à d’autres angles entre deux thèmes, et le tableau change :
 
 - **[Mars conjonction Jupiter en synastrie](/astrology/mars-conjunct-jupiter-synastry/) :** pas de bascule ; la poussée et la raison partagent un même point.
 - **[Mars sextile Jupiter en synastrie](/astrology/mars-sextile-jupiter-synastry/) :** les deux bouts deviennent voisins et coopèrent quand on les invite.

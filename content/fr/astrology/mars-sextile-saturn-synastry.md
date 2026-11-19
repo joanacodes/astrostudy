@@ -32,7 +32,7 @@ Un plan d’entraînement ne marche que si quelqu’un s’y tient, et une perso
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Mars](/astrology/mars/), c’est l’élan pour commencer et continuer : l’initiative, l’effort, la compétition, l’affirmation. [Saturne](/astrology/saturn/), l’envie de bâtir ce qui tient : la responsabilité, la discipline, les limites, l’ordre à long terme. Un [sextile](/astrology/sextile/) relie deux fonctions par l’occasion, coopérative et réactive, mais seulement quand on s’y engage. Comme dans chacun des [aspects de synastrie](/astrology/synastry-aspects/), l’occasion se tient entre deux personnes, et chacune peut l’ouvrir.
+[Mars](/astrology/mars/), c’est l’élan pour commencer et continuer : l’initiative, l’effort, la compétition, l’affirmation. [Saturne](/astrology/saturn/), l’envie de bâtir ce qui tient : la responsabilité, la discipline, les limites, l’ordre à long terme. Un [sextile](/astrology/sextile/) offre à deux fonctions une coopération qui répond quand on l’appelle, et seulement alors. Comme dans chacun des [aspects de synastrie](/astrology/synastry-aspects/), l’occasion se tient entre deux personnes, et chacune peut l’ouvrir.
 
 Mars en Scorpion chez l’une, Saturne en Vierge chez l’autre, eau et terre : un effort déterminé et discret rencontre une méthode soigneuse. Le Scorpion a deux maîtres, Mars selon la tradition et Pluton selon la lecture moderne, et je lis les deux ; ici, c’est l’ancien maître qui est en domicile, et l’effort s’accroche. La personne de Mars s’installe dans un long travail ; celle de Saturne sait dans quel ordre le faire. Une thèse, une longue rénovation, la restauration d’un vieux bateau : c’est le genre de projets où ce sextile se montre.
 
@@ -40,7 +40,7 @@ Si Saturne est de votre côté, vous voyez votre méthode utilisée par quelqu�
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Ce qu’offre un sextile attend qu’on le prenne, et celui-ci attend poliment. Le conseil qui ferait gagner un mois à la personne de Mars reste dans la tête de l’autre ; l’énergie qui sauverait le plan en panne de la personne de Saturne part ailleurs. Rien ne va mal, et c’est justement pour cela que l’aide reste inutilisée.
+L’offre de ce sextile attend qu’on la prenne, et elle attend poliment. Le conseil qui ferait gagner un mois à la personne de Mars reste dans la tête de l’autre ; l’énergie qui sauverait le plan en panne de la personne de Saturne part ailleurs. Rien ne va mal, et c’est justement pour cela que l’aide reste inutilisée.
 
 L’accroc plus subtil : l’arrangement peut se figer en aide à sens unique. Si la personne de Saturne fournit toujours la méthode et celle de Mars toujours l’effort, la première n’agit jamais sur ses propres plans, et la seconde n’apprend jamais à planifier. Des rôles faciles restent des rôles.
 

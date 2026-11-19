@@ -40,7 +40,7 @@ If the node is yours, practising the new thing near this person feels less like 
 
 ## Where it rubs {#where-it-rubs}
 
-Ease isn't inevitability. Growth that feels like pleasure can skip the clumsy stage, the part where a new capacity is practised badly, alone, without applause. If the Node person only practises in the other's company, the capacity stays tied to it.
+Easy doesn't mean automatic. Growth that feels like pleasure can skip the clumsy stage, the part where a new capacity is practised badly, alone, without applause. If the Node person only practises in the other's company, the capacity stays tied to it.
 
 Approval can become the reason, too. The Venus person's liking is real, but a change made to be liked isn't quite the Node person's own, and the North Node, as I read it, is never a duty owed to anyone. Meanwhile the South Node's strengths, which the Venus person enjoys only lightly, can go quietly unused.
 
@@ -48,9 +48,9 @@ Approval can become the reason, too. The Venus person's liking is real, but a ch
 
 Practise in other rooms as well. If the node is yours, try the new habit where nobody is watching, and bring the result back to share; if the Venus is yours, praise the effort rather than the person you'd like them to be. In a couple, that might be the tenderness one of you is learning to show; between friends, the friend who notices you've started ringing your sister on Sundays; in a family, a sibling who likes the softer you without mocking the efficient one; at work, a manager who values the time you now give to people as much as to targets.
 
-In the count, which follows the true node, this trine joins about 1 pair of people in 9, one way round or the other, within 5.1°; I check the mean node as well, and the two are never more than a degree or two apart. The North Node spends about 18 months in a sign, so its element is shared by everyone born in that stretch, while Venus usually crosses a sign in three or four weeks: Venus, and the houses that both birth times decide, make the contact particular to you two ([what changes without a birth time](/blog/unknown-birth-time/)). Like any synastry, it's for two people who both asked ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+In the count, which follows the true node, this trine joins about 1 pair of people in 9, one way round or the other, within 5.1°; I look at both nodes, mean and true, which are never more than a degree or two apart. The North Node spends about 18 months in a sign, so its element is shared by everyone born in that stretch, while Venus usually crosses a sign in three or four weeks: Venus, and the houses that both birth times decide, make the contact particular to you two ([what changes without a birth time](/blog/unknown-birth-time/)). Like any synastry, it's for two people who both asked ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
 
-In one chart, [Venus trine North Node](/astrology/venus-trine-north-node/) describes a person's own taste and growth in step. Between two, the pair's other angles:
+In one chart, [Venus trine North Node](/astrology/venus-trine-north-node/) describes a person's own taste and growth in step. Between two charts, the other angles sit like this:
 
 - **[Venus conjunct North Node in synastry](/astrology/venus-conjunct-north-node-synastry/):** no flow needed; Venus already sits where the growth is going.
 - **[Venus sextile North Node in synastry](/astrology/venus-sextile-north-node-synastry/):** the trine and sextile change places, so comfort with the old ground leads.

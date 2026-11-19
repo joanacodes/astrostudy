@@ -2,7 +2,7 @@
 title: "Mars conjonction Saturne en synastrie"
 slug: "mars-conjonction-saturne-synastrie"
 h1: "Mars conjonction Saturne entre deux thèmes"
-description: "Mars conjonction Saturne en synastrie : la poussée de l’une rencontre les règles et le long terme de l’autre, au même endroit. Les deux côtés, à qui l’horloge."
+description: "Mars conjonction Saturne en synastrie : l’élan et le long terme au même endroit, une personne apportant chacun. Les deux côtés, à qui appartient l’horloge."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -33,7 +33,7 @@ L’une arrive avec de l’énergie à dépenser ; l’autre avec un plan, une
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Mars](/astrology/mars/), c’est la façon dont une personne va chercher les choses : l’initiative, l’effort, l’affirmation, les limites qu’elle défend. [Saturne](/astrology/saturn/) établit la structure : la responsabilité, la discipline, les limites, et la patience de bâtir sur des années. Une [conjonction](/astrology/conjunction/) place deux fonctions sur le même point, au travail ensemble. Dans les [aspects de synastrie](/astrology/synastry-aspects/), chaque personne apporte une fonction, et le mouvement ne marche que si les deux y sont.
+[Mars](/astrology/mars/), c’est la manière qu’a quelqu’un d’aller chercher les choses : l’initiative, l’effort, l’affirmation, les limites qu’elle défend. [Saturne](/astrology/saturn/) établit la structure : la responsabilité, la discipline, les limites, et la patience de bâtir sur des années. Une [conjonction](/astrology/conjunction/) place deux fonctions sur le même point, au travail ensemble. Dans les [aspects de synastrie](/astrology/synastry-aspects/), chaque personne apporte une fonction, et le mouvement ne marche que si les deux y sont.
 
 Avec les deux planètes en Capricorne, le signe de Saturne et celui où Mars a son exaltation, la rencontre est à son plus résolu : un élan stratégique tombe sur quelqu’un qui sait comment on bâtit et entretient une structure. Ce genre de paire peut rénover une maison pièce par pièce, s’entraîner pour un long défi, ou mener un projet commun pendant des années : l’une apporte la poussée, l’autre l’ordre.
 
@@ -41,9 +41,9 @@ Si Saturne est de votre côté, l’énergie de quelqu’un arrive juste là où
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Une conjonction brouille, et ici le flou porte sur l’horloge : à qui est-elle ? La personne de Saturne peut se mettre à prendre en charge l’effort de l’autre, le vérifier, le planifier, porter l’inquiétude à sa place ; la personne de Mars peut lui confier sa propre discipline, puis lui en vouloir d’être encadrée. L’angle mort de Saturne, croire que le contrôle garantit la sécurité, et l’envie de Mars de partir tout de suite peuvent se rencontrer dans la même semaine.
+Avec l’élan et la structure au même endroit, la question la plus difficile est celle de l’horloge : à qui est-elle ? La personne de Saturne peut se mettre à prendre en charge l’effort de l’autre, le vérifier, le planifier, porter l’inquiétude à sa place ; la personne de Mars peut lui confier sa propre discipline, puis lui en vouloir d’être encadrée. L’angle mort de Saturne, croire que le contrôle garantit la sécurité, et l’envie de Mars de partir tout de suite peuvent se rencontrer dans la même semaine.
 
-Du côté de Mars, cela peut ressembler à un frein serré au moment même où tout est prêt. Du côté de Saturne, cela peut ressembler à une pression pour valider quelque chose qui n’est pas encore solide. J’y lis deux bonnes fonctions qui partagent une porte étroite, et une porte se franchit chacune son tour.
+Pour la personne de Mars, cela peut ressembler à un frein serré au moment même où tout est prêt. Pour celle de Saturne, cela peut ressembler à une pression pour valider quelque chose qui n’est pas encore solide. J’y lis deux bonnes fonctions qui partagent une porte étroite, et une porte se franchit chacune son tour.
 
 ## Comment le vivre {#comment-le-vivre}
 

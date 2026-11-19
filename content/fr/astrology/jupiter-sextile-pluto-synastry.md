@@ -21,7 +21,7 @@ faq:
   - q: "Que veut dire Jupiter sextile Pluton en synastrie ?"
     a: "Pluton chez l’une se trouve à environ 60° de Jupiter chez l’autre, à 3° près, le plus souvent dans des signes à deux d’écart. L’une apporte le sens du possible, l’autre la profondeur et l’honnêteté sur ce qui se cache dessous, et les deux peuvent s’entraider dès que quelqu’un choisit d’aller plus loin."
   - q: "Qui a Jupiter sextile Pluton en synastrie ?"
-    a: "Les dates en décident : toutes les personnes nées entre juin 1948 et septembre 1950, par exemple, ont Pluton en sextile avec Jupiter d’une personne née à la mi-1965. Avec des fenêtres aussi larges, c’est une rencontre de générations plus qu’une affaire personnelle."
+    a: "Les dates en décident. Un anniversaire de la mi-1965, par exemple, l’a avec plus de deux ans de naissances, de juin 1948 à septembre 1950. Avec des fenêtres aussi larges, c’est une rencontre de générations plus qu’une affaire personnelle."
   - q: "Est-ce que Jupiter sextile Pluton est un aspect fort entre deux personnes ?"
     a: "C’est un aspect discret. Un sextile offre une coopération sans l’imposer, et celui-ci n’apparaît que lorsqu’une paire choisit de parler de ce qui compte. Il appartient aussi à des années de naissance entières : dans mes lectures, il se trouve dans les maisons, pas parmi les contacts personnels."
 sources:
@@ -50,7 +50,7 @@ D’autres angles rendent la rencontre plus forte ou plus rude. [Jupiter conjonc
 
 Choisissez d’aller un cran plus profond, exprès et avec permission. Posez la question qui se cache sous la question polie, et laissez l’autre décider d’y répondre. Servez-vous du lien pour ce qui demande à la fois de l’ampleur et de l’honnêteté : un changement de métier qu’on discute, une histoire de famille enfin démêlée, un projet commun à réorganiser. Cela marche entre amis, partenaires, frères et sœurs ou collègues, tant que personne n’est poussé.
 
-Plus de deux ans de naissances le partagent avec un seul anniversaire de la mi-1965 : toutes les personnes nées entre juin 1948 et septembre 1950 ont Pluton en sextile avec Jupiter de cette personne, tandis que l’inverse vient par courtes fenêtres, de janvier à avril 1994 entre autres. Je garde ce genre de contact hors de ma liste d’aspects de synastrie, une liste qui commence et finit par les corps personnels : le Soleil, la Lune, Mercure, Vénus, Mars, l’Ascendant et le Milieu du Ciel. Un sextile entre deux planètes lentes, je le lis dans les maisons, comme la rencontre de deux façons de grandir et de se renouveler, propres à deux époques.
+Entre juin 1948 et septembre 1950, chaque naissance a Pluton en sextile avec Jupiter d’un anniversaire de la mi-1965 ; dans l’autre sens, les fenêtres sont courtes, de janvier à avril 1994 entre autres. Je garde ce genre de contact hors de ma liste d’aspects de synastrie, une liste qui commence et finit par les corps personnels : le Soleil, la Lune, Mercure, Vénus, Mars, l’Ascendant et le Milieu du Ciel. Un sextile entre deux planètes lentes, je le lis dans les maisons, comme la rencontre de deux façons de grandir et de se renouveler, propres à deux époques.
 
 La découverte de Pluton date de 1930, son classement parmi les planètes naines de 2006, et en un jour Pluton bouge à peine : l’heure de naissance laisse le sextile tranquille. Elle décide des maisons, et il me faut les deux heures avant de les lire ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

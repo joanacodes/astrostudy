@@ -34,7 +34,7 @@ L’une a un cadre qui donne sens aux choses ; l’autre trouve sans cesse le 
 
 [Jupiter](/astrology/jupiter/) tient des principes : des cadres qui guident l’action, des croyances qui organisent l’expérience en sens. [Uranus](/astrology/uranus/) cherche la réforme : changer ce qui ne convient plus, affirmer son autonomie, vouloir de la place pour s’écarter de l’attendu. Un [carré](/astrology/square/) met deux fonctions dans une friction constructive, celle qui oblige chacune à se développer ; entre deux thèmes, comme [aspect de synastrie](/astrology/synastry-aspects/), il donne à chaque personne un côté de cette friction.
 
-Avec un angle droit entre elles, la croissance de Jupiter demande aux changements d’Uranus à quoi ils servent, et les changements d’Uranus demandent aux croyances de Jupiter si elles conviennent encore. Quand cela marche, on révise les croyances au lieu de les défendre, et on comprend les changements au lieu de les imposer.
+Avec un angle droit entre les deux fonctions, la croissance de Jupiter demande aux changements d’Uranus à quoi ils servent, et les changements d’Uranus demandent aux croyances de Jupiter si elles conviennent encore. Quand cela marche, on révise les croyances au lieu de les défendre, et on comprend les changements au lieu de les imposer.
 
 Si vous êtes la personne de Jupiter, vous tenez une image qui vous a servi, et l’autre ne cesse d’en trouver les trous. On peut avoir l’impression que rien de ce que l’on croit n’a le droit de rester en place, ou que vos principes sont traités comme de simples habitudes.
 

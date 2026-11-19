@@ -49,7 +49,7 @@ Mark what's fixed and what's open. Agree a few commitments that hold whatever co
 
 Count 15 pairs of people and about one of them will have this opposition, either way round, inside 6°. A few hours make no difference to Uranus and little to Mars, but a lot to the houses: the Uranus person's Uranus might fall in the other's 7th house, the house of partnership, or in their 10th, and those are different stories ([what changes without a birth time](/blog/unknown-birth-time/)). They're stories I tell only to both people ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
 
-In one chart, [Mars opposite Uranus](/astrology/mars-opposite-uranus/) sets one person's push against their own wish for room. Between two charts, the pair's other angles:
+In one chart, [Mars opposite Uranus](/astrology/mars-opposite-uranus/) sets one person's push against their own wish for room. Across two charts, the other angles of this pair work like this:
 
 - **[Mars conjunct Uranus in synastry](/astrology/mars-conjunct-uranus-synastry/):** effort and the new idea on one spot, with no distance between them.
 - **[Mars sextile Uranus in synastry](/astrology/mars-sextile-uranus-synastry/):** the two ends close up and cooperate when invited.

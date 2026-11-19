@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/uranus", "/astrology/conjunction", "/astrology/mars-conjunct-uranus", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Mars conjunct Uranus mean in synastry?"
-    a: "This is one person’s Mars within 6° of the other’s Uranus. Whatever the Uranus person wants to change, the Mars person is inclined to start changing, so experiments begin fast. I read it as momentum for change, shared between two people who each need a say in its speed."
+    a: "Here one person’s Mars sits within 6° of the other’s Uranus. Whatever the Uranus person wants to change, the Mars person is inclined to start changing, so experiments begin fast. I read it as momentum for change, shared between two people who each need a say in its speed."
   - q: "Is Mars conjunct Uranus unstable in synastry?"
     a: "Not as I read it. Uranus describes innovation and freedom, not chaos, and Mars describes effort, not recklessness. Together they can make change happen quickly, which can feel unsettling for a while; agreeing what should stay the same keeps the speed useful."
   - q: "Who feels Mars conjunct Uranus more?"
@@ -47,9 +47,9 @@ From the Mars side, you may start on an idea only to hear it's been improved sin
 
 Separate thinking aloud from deciding. If the Uranus is yours, say which ideas are for acting on and which are for turning over; if the Mars is yours, ask which kind this is before you start. Agree what stays the same while something changes. Between friends, that could be a new venture with the old friendship left as it is; in a family, a long-overdue change to how holidays are shared, made with everyone; at work, a reform tried in one team before the whole office; in a couple, one change at a time.
 
-About 1 pair of people in 15 has this conjunction, either way round, at up to 6° from exact. Because Uranus moves so slowly, the hour of birth has almost no say in whether the conjunction is there; it has every say in the houses, which place the change in a particular part of each life, and I start a synastry only once both times are known ([what changes without a birth time](/blog/unknown-birth-time/)). With the Sun instead of Mars, [Sun conjunct Uranus in synastry](/astrology/sun-conjunct-uranus-synastry/) touches who someone is rather than what they do.
+About 1 pair of people in 15 has this conjunction, either way round, at up to 6° from exact. Because Uranus moves so slowly, the hour of birth has almost no say in whether the conjunction is there; it has every say in the houses, which place the change in a particular part of each life, and no synastry of mine begins until both times are in hand ([what changes without a birth time](/blog/unknown-birth-time/)). With the Sun instead of Mars, [Sun conjunct Uranus in synastry](/astrology/sun-conjunct-uranus-synastry/) touches who someone is rather than what they do.
 
-Inside one chart, [Mars conjunct Uranus](/astrology/mars-conjunct-uranus/) is a single person's push and inventiveness in one place. Between two charts:
+One person can carry this meeting alone, as [Mars conjunct Uranus](/astrology/mars-conjunct-uranus/): push and inventiveness in a single chart. Between two charts:
 
 - **[Mars sextile Uranus in synastry](/astrology/mars-sextile-uranus-synastry/):** the new idea and the effort cooperate at a short distance, when someone reaches for them.
 - **[Mars square Uranus in synastry](/astrology/mars-square-uranus-synastry/):** push and change keep interrupting each other, and the pair learns to finish what it starts.

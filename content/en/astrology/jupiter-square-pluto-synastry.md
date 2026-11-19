@@ -22,7 +22,7 @@ faq:
   - q: "Is Jupiter square Pluto a power struggle?"
     a: "Not necessarily, and never as a fixed fate. A square is friction, not failure, and Pluto means transformation, not domination. This one asks two people to agree on the order of things: clearing first, then growing. Whole birth years carry it, which is one more reason not to read it as anyone's fault."
   - q: "Who has Jupiter square Pluto with someone?"
-    a: "The two birth dates decide. Everyone born between October 1988 and January 1991 has Pluto square the Jupiter of someone born in mid-1985, for instance, often a gap of only a few years. That spread is why it tells me about two generations rather than two temperaments."
+    a: "The two birth dates decide, and they can be close: a mid-1985 birthday has it with every birth from October 1988 to January 1991, only a few years apart. That spread is why it tells me about two generations rather than two temperaments."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the square, 90°, among the aspects of his first book" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that set one person’s Jupiter within 4.25° of a square to another’s Pluto" }

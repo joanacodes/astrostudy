@@ -32,7 +32,7 @@ Quand l’une accélère, l’autre semble s’arc-bouter ; quand l’une se d
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Mars](/astrology/mars/), c’est la capacité d’une personne à démarrer et à pousser : l’action, l’affirmation, l’effort, le courage. [Saturne](/astrology/saturn/), sa capacité à tenir et à donner forme : la structure, la responsabilité, les limites, et le temps. Une [opposition](/astrology/opposition/) place deux fonctions aux deux bouts d’une ligne, une polarité où chacune devient plus visible. Entre deux thèmes, comme dans tous les [aspects de synastrie](/astrology/synastry-aspects/), chaque personne porte un bout de la ligne.
+[Mars](/astrology/mars/), c’est la capacité d’une personne à démarrer et à pousser : l’action, l’affirmation, l’effort, le courage. [Saturne](/astrology/saturn/), sa capacité à tenir et à donner forme : la structure, la responsabilité, les limites, et le temps. Une [opposition](/astrology/opposition/) étire deux fonctions le long d’une même ligne, si bien que chacune se voit par contraste avec l’autre. Entre deux thèmes, comme dans tous les [aspects de synastrie](/astrology/synastry-aspects/), chaque personne porte un bout de la ligne.
 
 Les deux signes se font face dans un même mode. Mars en Cancer chez l’une, Saturne en Capricorne chez l’autre, en domicile : un effort qui agit pour protéger ce qui est proche fait face à une structure bâtie pour le long terme. L’une se précipite pour aider ; l’autre demande si l’aide durera.
 
@@ -42,7 +42,7 @@ Ce qui circule, c’est la mesure. La personne de Mars voit ce que la patience p
 
 Pour la personne de Mars, l’autre peut sembler être la limite même : la règle qu’on rencontre, le « attends » qui arrive juste au moment de partir. Pour la personne de Saturne, l’autre peut sembler être la hâte même : une pression sur des plans qui ne sont pas mûrs, et une responsabilité jamais choisie.
 
-Rien de tout cela n’est une inimitié. C’est une bascule, et celle-ci se coince quand chacune pousse plus fort sur son bout pour compenser l’autre : plus d’urgence appelle plus de prudence, et inversement. On en sort rarement en gagnant ; on en sort en allant ensemble vers le milieu.
+C’est une bascule, pas une querelle, et celle-ci se coince quand chacune pousse plus fort sur son bout pour compenser l’autre : plus d’urgence appelle plus de prudence, et inversement. On en sort rarement en gagnant ; on en sort en allant ensemble vers le milieu.
 
 ## Comment le vivre {#comment-le-vivre}
 
@@ -50,7 +50,7 @@ Retrouvez-vous au milieu, exprès. Convenez d’un calendrier qui laisse de la p
 
 Dans un sens ou dans l’autre, environ 1 paire de personnes sur 15 a cette opposition, en comptant jusqu’à 6° de part et d’autre de l’exactitude. Les deux heures de naissance passent d’abord : Saturne se déplace si peu en un jour que l’heure ne peut pas changer cette opposition, mais l’ascendant traverse un signe entier en deux heures environ, et avec lui toutes les maisons où se tient la bascule ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Elle touche la façon dont chaque personne vit la pression : sa place est dans une lecture que les deux ont choisie ([synastrie et consentement](/blog/synastry-behind-their-back/)).
 
-Un seul thème peut porter la même opposition, [Mars opposition Saturne](/astrology/mars-opposite-saturn/), et une seule personne en équilibre alors les deux bouts. Entre deux thèmes, les autres angles de la paire :
+Un seul thème peut porter la même opposition, [Mars opposition Saturne](/astrology/mars-opposite-saturn/), et une seule personne en équilibre alors les deux bouts. Comparée aux autres contacts de la paire, entre deux thèmes :
 
 - **[Mars conjonction Saturne en synastrie](/astrology/mars-conjunct-saturn-synastry/) :** pas de bascule du tout ; la poussée tombe juste sur le plan.
 - **[Mars sextile Saturne en synastrie](/astrology/mars-sextile-saturn-synastry/) :** les deux bouts réduisent l’écart et coopèrent quand on le demande.

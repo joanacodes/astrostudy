@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/neptune", "/astrology/square", "/astrology/venus-square-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Venus square Neptune mean in synastry?"
-    a: "One person’s Venus stands at a right angle to the other’s Neptune, about 90° apart. The Venus person tends to want clear terms, stated preferences and a fair balance; the Neptune person tends to keep plans open and see the bond through its ideal. It describes friction between clarity and imagination, which two adults can work with."
+    a: "The two planets, Venus in one chart and Neptune in the other, form a square of about 90°. The Venus person tends to want clear terms, stated preferences and a fair balance; the Neptune person tends to keep plans open and see the bond through its ideal. It describes friction between clarity and imagination, which two adults can work with."
   - q: "Does Venus square Neptune mean someone is lying?"
     a: "No. Neptune describes imagination, compassion and a taste for the open-ended, not deceit, and I don’t read dishonesty into any contact. What this square can bring is vagueness: a yes that was really a maybe, or an ideal taken for a fact. Plain words clear most of it."
   - q: "How do you handle Venus square Neptune?"
@@ -48,7 +48,7 @@ The other angles of the pair handle clarity and imagination differently:
 - **[Venus conjunct Neptune in synastry](/astrology/venus-conjunct-neptune-synastry/):** taste and dream merged, with the outlines to watch rather than argue over.
 - **[Venus sextile Neptune in synastry](/astrology/venus-sextile-neptune-synastry/):** imagination put to work on a shared plan, once someone sets a date.
 - **[Venus trine Neptune in synastry](/astrology/venus-trine-neptune-synastry/):** gentleness that rarely needs terms at all.
-- **[Venus opposite Neptune in synastry](/astrology/venus-opposite-neptune-synastry/):** the practical and the ideal facing each other as two roles.
+- **[Venus opposite Neptune in synastry](/astrology/venus-opposite-neptune-synastry/):** the details kept by one person, the hopes by the other.
 
 ## How to meet it {#how-to-meet-it}
 

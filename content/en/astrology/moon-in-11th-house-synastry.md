@@ -26,15 +26,15 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the Moon, one of the two lights" }
 ---
-Their Moon in your 11th house brings someone's need to belong into your circle. Your friends, your groups and the future you're building with them become a place where they feel at home, and friendship between the two of you tends to have real tenderness in it.
+Their Moon in your 11th house brings someone's need to belong into your circle. Your friends, your groups and the future you're building with them become somewhere they can settle, and friendship between the two of you tends to have real tenderness in it.
 
 ## What it brings {#what-it-brings}
 
-[The 11th house](/astrology/11th-house/) is the part of a chart that faces many people at once: chosen friends, teams, communities, the networks that help without being asked, and the hopes you share with them. The [Moon](/astrology/moon/) holds a person's need to belong and their way of looking after others. In this [house overlay](/astrology/house-overlays/), that need meets your people.
+[The 11th house](/astrology/11th-house/) turns a chart towards many people at once: chosen friends, teams, communities, the networks that help without being asked, and the hopes you share with them. The [Moon](/astrology/moon/) holds a person's need to belong and their way of looking after others. In this [house overlay](/astrology/house-overlays/), that need meets your people.
 
 For you, they can make your circle feel more like family. They remember your friends' birthdays, notice who's been quiet, and bring a warmth to gatherings that others feel too. Your hopes for the future seem to matter to them personally, and talking plans with them can feel like being taken care of.
 
-For them, your friends and communities can become a home. They may feel they belong among your people faster than they expected, and your shared causes give their feelings somewhere to go. The 11th is succedent, the house where what you've built is shared and kept going, and [Aquarius](/astrology/aquarius/), the sign of community and independence, corresponds to it. Its old name is the Good Spirit, and Jupiter rejoices there.
+For them, your friends and communities can become a home. Your people can feel like theirs surprisingly quickly, and your shared causes give their feelings somewhere to go. A succedent house, the 11th keeps going what has been built in public, and [Aquarius](/astrology/aquarius/), the sign of community and independence, corresponds to it. Its old name is the Good Spirit, and Jupiter rejoices there.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -42,7 +42,7 @@ Group life and emotional needs don't always fit together. They may want one-to-o
 
 From their side, belonging to your world can make them over-invest in it: looking after everyone, taking every disagreement in the group personally, or wondering where they stand with you once the guests have gone.
 
-Whatever else the bond is, the 11th brings friendship into it; it doesn't decide what you become to each other.
+Whatever else the bond is, friendship is part of it here; what the two of you make of the rest is yours to decide.
 
 ## How to meet it {#how-to-meet-it}
 

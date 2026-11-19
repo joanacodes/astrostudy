@@ -32,7 +32,7 @@ One of you mentions a course, a cause, a walk to somewhere far; the other has al
 
 ## What flows {#what-flows}
 
-[Mars](/astrology/mars/) carries a person's agency: what they go after, how they begin, how hard they push and where they stand their ground. [Jupiter](/astrology/jupiter/) is where they look for meaning: principles, beliefs, learning, the larger view of a life. A [sextile](/astrology/sextile/) relates two functions through opportunity and cooperation, which work once engaged. In [synastry aspects](/astrology/synastry-aspects/), the engaging is done by two people, and either can begin.
+[Mars](/astrology/mars/) carries a person's agency: what they go after, how they begin, how hard they push and where they stand their ground. [Jupiter](/astrology/jupiter/) is where they look for meaning: principles, beliefs, learning, the larger view of a life. A [sextile](/astrology/sextile/) makes two functions willing partners, though only once someone engages them. In [synastry aspects](/astrology/synastry-aspects/), the engaging is done by two people, and either can begin.
 
 The two signs are usually two apart, in elements that get on. One person's Mars in Virgo with the other's Jupiter in Cancer, earth and water, Jupiter exalted there by tradition: careful, practical effort meets a protective, generous sense of what family and belonging are for. The Mars person books the hall and mends the chairs; the Jupiter person knows why the gathering matters, and says so in a way that makes the work feel worth it.
 
@@ -40,7 +40,7 @@ If the Jupiter is yours, your ideas find a willing pair of hands, and you may gr
 
 ## Where it rubs {#where-it-rubs}
 
-What a sextile offers can stay talk. "We should do that" is easy between these two, and so is not doing it: the opportunity is real, but nothing in the contact forces the first step, and many plans stay pleasant ideas.
+Between these two, an idea can stay talk for a long time. "We should do that" is easy between these two, and so is not doing it: the opportunity is real, but nothing in the contact forces the first step, and many plans stay pleasant ideas.
 
 When someone does start, it's often the same person. If the Mars person always makes the first move, they can begin to feel like the engine of the other's beliefs; if the Jupiter person always supplies the reason, they can feel like the brochure for someone else's energy. The ease hides the imbalance, because nothing actually goes wrong.
 

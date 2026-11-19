@@ -33,7 +33,7 @@ Grandir vers quelque chose est plus facile quand quelqu’un, tout près, l’ai
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Vénus](/astrology/venus/), c’est la façon dont une personne pèse et choisit : ce qu’elle trouve attirant, ce qu’elle préfère, sa manière de partager et de rendre. Le [Nœud Nord](/astrology/north-node/) désigne une capacité complémentaire qu’une personne construit par la pratique ; le [Nœud Sud](/astrology/south-node/), en face, ses savoir-faire installés. Un [trigone](/astrology/trine/) relie deux fonctions par un courant facile, chacune gardant son rôle. Parmi les [aspects de synastrie](/astrology/synastry-aspects/), celui-ci envoie l’affection de l’une vers le développement de l’autre.
+[Vénus](/astrology/venus/) est la balance intérieure d’une personne : ce qu’elle trouve attirant, ce qu’elle préfère, sa manière de partager et de rendre. Le [Nœud Nord](/astrology/north-node/) désigne une capacité complémentaire qu’une personne construit par la pratique ; le [Nœud Sud](/astrology/south-node/), en face, ses savoir-faire installés. Un [trigone](/astrology/trine/) relie deux fonctions par un courant facile, sans que l’une prenne le pas sur l’autre. Parmi les [aspects de synastrie](/astrology/synastry-aspects/), celui-ci envoie l’affection de l’une vers le développement de l’autre.
 
 Avec le Nœud Nord en Cancer, par exemple, où l’on apprend à laisser l’émotion, le foyer et le soin compter autant que la réussite, et le Nœud Sud en Capricorne, rompu de longue date à mener les choses à bien, Vénus en Poissons, chez l’autre, fait un trigone au premier et un sextile au second. Vénus a son exaltation en Poissons, selon la tradition, et son goût penche vers la tendresse : cette personne remarque la soirée gardée pour la famille, l’appel passé à une amie, et elle adore cela. Elle respecte aussi la compétence du Capricorne, à hauteur de sextile.
 
@@ -41,7 +41,7 @@ Si le nœud est le vôtre, vous exercer à la nouveauté près de cette personne
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-L’aisance n’est pas une fatalité. Une croissance qui ressemble à un plaisir peut sauter l’étape maladroite, celle où une capacité nouvelle s’exerce mal, en solitaire, sans applaudissements. Si la personne du Nœud ne s’exerce qu’en compagnie de l’autre, la capacité y reste attachée.
+Facile ne veut pas dire automatique. Une croissance qui ressemble à un plaisir peut sauter l’étape maladroite, celle où une capacité nouvelle s’exerce mal, en solitaire, sans applaudissements. Si la personne du Nœud ne s’exerce qu’en compagnie de l’autre, la capacité y reste attachée.
 
 L’approbation peut aussi devenir la raison. L’affection de la personne de Vénus est réelle, mais un changement fait pour plaire n’appartient pas tout à fait à la personne du Nœud, et le Nœud Nord, dans ma lecture, n’est jamais une dette envers qui que ce soit. Pendant ce temps, les forces du Nœud Sud, que la personne de Vénus n’apprécie que légèrement, peuvent rester sans emploi.
 
@@ -49,9 +49,9 @@ L’approbation peut aussi devenir la raison. L’affection de la personne de V�
 
 Exercez-vous aussi dans d’autres pièces. Si le nœud est le vôtre, essayez la nouvelle habitude là où personne ne regarde, et rapportez-en le résultat ; si Vénus est la vôtre, saluez l’effort plutôt que la personne que vous aimeriez voir. En couple, ce peut être la tendresse qu’on apprend à montrer ; entre amis, la personne qui remarque que vous appelez maintenant votre sœur le dimanche ; en famille, une sœur ou un frère qui aime la version plus douce de vous sans se moquer de l’efficace ; au travail, une hiérarchie qui valorise le temps donné aux gens autant qu’aux objectifs.
 
-Environ 1 paire de personnes sur 9 a ce trigone, dans un sens ou dans l’autre, à 5,1° près. Le décompte suit le nœud vrai, mais je regarde aussi le nœud moyen ; les deux ne sont jamais à plus d’un ou deux degrés l’un de l’autre. Le Nœud Nord passe environ 18 mois dans un signe, et son élément appartient à toute une période de naissances ; Vénus en traverse un en trois ou quatre semaines : c’est elle, avec les maisons que fixent les deux heures de naissance, qui rend ce contact propre à vous deux ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Comme toute synastrie, il est pour deux personnes qui l’ont demandée ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Dans le décompte, qui suit le nœud vrai, ce trigone relie environ 1 paire de personnes sur 9, dans un sens ou dans l’autre, à 5,1° près ; je regarde les deux nœuds, moyen et vrai, jamais à plus d’un ou deux degrés l’un de l’autre. Le Nœud Nord passe environ 18 mois dans un signe, et son élément appartient à toute une période de naissances ; Vénus en traverse un en trois ou quatre semaines : c’est elle, avec les maisons que fixent les deux heures de naissance, qui rend ce contact propre à vous deux ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Comme toute synastrie, il est pour deux personnes qui l’ont demandée ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
 
-Dans un seul thème, [Vénus trigone Nœud Nord](/astrology/venus-trine-north-node/) décrit le goût et la croissance d’une personne au même pas. Entre deux, les autres angles de la paire :
+Dans un seul thème, [Vénus trigone Nœud Nord](/astrology/venus-trine-north-node/) décrit le goût et la croissance d’une personne au même pas. Entre deux thèmes, voici comment se placent les autres angles :
 
 - **[Vénus conjonction Nœud Nord en synastrie](/astrology/venus-conjunct-north-node-synastry/) :** pas besoin de courant ; Vénus se trouve déjà là où va la croissance.
 - **[Vénus sextile Nœud Nord en synastrie](/astrology/venus-sextile-north-node-synastry/) :** le trigone et le sextile changent de place, et le confort du terrain connu mène.

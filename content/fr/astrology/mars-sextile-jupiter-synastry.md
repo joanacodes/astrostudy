@@ -33,7 +33,7 @@ L’une parle d’un cours, d’une cause, d’une marche vers un endroit lointa
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Mars](/astrology/mars/) porte la capacité d’agir d’une personne : ce qu’elle poursuit, sa façon de commencer, la force avec laquelle elle pousse et l’endroit où elle tient bon. [Jupiter](/astrology/jupiter/) est l’endroit où elle cherche du sens : les principes, les convictions, l’apprentissage, la vue d’ensemble d’une vie. Un [sextile](/astrology/sextile/) relie deux fonctions par l’occasion et la coopération, qui fonctionnent dès qu’on s’y engage. Dans les [aspects de synastrie](/astrology/synastry-aspects/), cet engagement revient à deux personnes, et chacune peut commencer.
+[Mars](/astrology/mars/) porte la capacité d’agir d’une personne : ce qu’elle poursuit, sa façon de commencer, la force avec laquelle elle pousse et l’endroit où elle tient bon. [Jupiter](/astrology/jupiter/) est l’endroit où une personne cherche du sens : les principes, les convictions, l’apprentissage, la vue d’ensemble d’une vie. Un [sextile](/astrology/sextile/) fait de deux fonctions des partenaires volontaires, à condition que quelqu’un les mette en route. Dans les [aspects de synastrie](/astrology/synastry-aspects/), cet engagement revient à deux personnes, et chacune peut commencer.
 
 Les deux signes sont en général séparés par un seul autre, dans des éléments qui s’entendent. Mars en Vierge chez l’une, Jupiter en Cancer chez l’autre, terre et eau, et Jupiter a son exaltation en Cancer selon la tradition : un effort soigneux et pratique rencontre un sens protecteur et généreux de ce à quoi servent la famille et l’appartenance. La personne de Mars réserve la salle et répare les chaises ; celle de Jupiter sait pourquoi la réunion compte, et le dit d’une façon qui donne au travail toute sa valeur.
 
@@ -41,7 +41,7 @@ Si Jupiter est de votre côté, vos idées trouvent des mains volontaires, et vo
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Ce qu’offre un sextile peut rester en paroles. « Il faudrait le faire » se dit facilement entre ces deux-là, et ne pas le faire aussi : l’occasion est réelle, mais rien dans le contact n’impose le premier pas, et bien des projets restent d’agréables idées.
+Entre ces deux-là, une idée peut rester longtemps en paroles. « Il faudrait le faire » se dit facilement entre ces deux-là, et ne pas le faire aussi : l’occasion est réelle, mais rien dans le contact n’impose le premier pas, et bien des projets restent d’agréables idées.
 
 Quand quelqu’un commence, c’est souvent la même personne. Si la personne de Mars fait toujours le premier pas, elle peut finir par se sentir le moteur des convictions de l’autre ; si celle de Jupiter fournit toujours la raison, elle peut se sentir la brochure de l’énergie de quelqu’un d’autre. L’aisance cache le déséquilibre, parce que rien ne va vraiment mal.
 

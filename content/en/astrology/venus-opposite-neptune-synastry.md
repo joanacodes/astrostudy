@@ -1,7 +1,7 @@
 ---
 title: "Venus opposite Neptune in synastry"
 h1: "Venus opposite Neptune between two charts"
-description: "Venus opposite Neptune in synastry: one person carries the dream, the other the details. Both ends of the seesaw, and how two people keep both in view."
+description: "Venus opposite Neptune in synastry: the dream sits with one person, the details with the other. Both ends of the seesaw, and how to keep both in view."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the opposition, 180°, among the four aspects he describes" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 6°" }
 ---
-In some pairs, one person carries the dream and the other the details. Venus opposite Neptune in synastry often sets things up that way: about 180° separate one person's Venus from the other's Neptune, and what's concretely preferred faces what's imagined.
+In some pairs, one person carries the dream and the other the details. Venus opposite Neptune in synastry often sets things up that way: with the Venus of one person directly across the zodiac from the Neptune of the other, so that what's concretely preferred faces what's imagined.
 
 ## What flows {#what-flows}
 
@@ -44,13 +44,13 @@ If the Neptune is yours, you may hold the dream: what the bond could become, the
 The pair's other aspects divide the dream and the details differently:
 
 - **[Venus conjunct Neptune in synastry](/astrology/venus-conjunct-neptune-synastry/):** the dream and the details blended in one shared world.
-- **[Venus sextile Neptune in synastry](/astrology/venus-sextile-neptune-synastry/):** imagination put to use when one of the two names a plan.
+- **[Venus sextile Neptune in synastry](/astrology/venus-sextile-neptune-synastry/):** dreams that become projects once someone books a date.
 - **[Venus square Neptune in synastry](/astrology/venus-square-neptune-synastry/):** a demand for clear terms meeting a wish to keep things open.
 - **[Venus trine Neptune in synastry](/astrology/venus-trine-neptune-synastry/):** taste and imagination so at ease that nobody keeps count.
 
 ## How to meet it {#how-to-meet-it}
 
-Ask both questions out loud: "what are you hoping this will be?" and "what would actually help this week?" Then swap ends now and then. Let the Neptune person handle a practical detail from start to finish, and let the Venus person propose something purely for what it means. A founder with a vision and the colleague who knows what clients will like, two siblings planning a family celebration, friends choosing where to travel, or a couple: the same two questions keep both ends in view.
+Ask both questions out loud: "what are you hoping this will be?" and "what would actually help this week?" Then swap ends from time to time: hand the Neptune person a practical detail from start to finish, and let the Venus person propose something purely for what it means. A founder with a vision and the colleague who knows what clients will like, two siblings planning a family celebration, friends choosing where to travel, or a couple: the same two questions keep both ends in view.
 
 About 1 pair of people in 15 has this opposition, one way round or the other, within 6°. Swap the Neptune person for a sibling born a year apart and the opposition might well survive, since Neptune shifts by little more than two degrees a year; swap the Venus person for a sibling born in another season and it would almost certainly go. One half belongs to a cohort, the other to a birthday. The birth hour won't shift either planet much, but it decides the houses, where the dream and the details meet in each life, and I need both times for those ([what changes without a birth time](/blog/unknown-birth-time/)).
 

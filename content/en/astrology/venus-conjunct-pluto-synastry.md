@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/pluto", "/astrology/conjunction", "/astrology/venus-conjunct-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Venus conjunct Pluto mean in synastry?"
-    a: "One person’s Venus and the other’s Pluto meet within 6° of each other. The Pluto person tends to take what the Venus person values seriously enough to ask what lies underneath it, and the Venus person makes the Pluto person’s depth feel welcome. It describes attachment and transformation working as one, between any two adults."
+    a: "One person’s Pluto and the other’s Venus meet within 6°. The Pluto person tends to take what the Venus person values seriously enough to ask what lies underneath it, and the Venus person makes the Pluto person’s depth feel welcome. It describes attachment and transformation working as one, between any two adults."
   - q: "Is Venus conjunct Pluto an obsessive aspect?"
     a: "Not as I read it. Pluto describes depth and renewal, not obsession or control, and a conjunction isn’t good or bad in itself. What this contact can do is make everything feel important at once, which can be intense. Keeping some things light, on purpose, helps both people."
   - q: "Does Venus conjunct Pluto change people?"

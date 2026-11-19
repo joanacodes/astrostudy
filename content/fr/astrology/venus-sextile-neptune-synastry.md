@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/venus", "/astrology/neptune", "/astrology/sextile", "/astrology/venus-sextile-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Vénus sextile Neptune en synastrie ?"
-    a: "Vénus chez l’une et Neptune chez l’autre sont à quelque 60°, en général deux signes. La personne de Neptune devine souvent les goûts de l’autre, et la personne de Vénus aide les idées de la première à prendre une forme réelle. L’aspect décrit une gentillesse discrète et une imagination partagée, entre amis, en famille, entre collègues ou en couple."
+    a: "Neptune dans un thème et Vénus dans l'autre sont à environ 60°, avec un signe entre les deux. La personne de Neptune devine souvent les goûts de l’autre, et la personne de Vénus aide les idées de la première à prendre une forme réelle. L’aspect décrit une gentillesse discrète et une imagination partagée, entre amis, en famille, entre collègues ou en couple."
   - q: "Vénus sextile Neptune, est-ce un aspect romantique ?"
     a: "Ce sextile peut sembler romantique, mais l’amitié et la création à deux lui vont tout aussi bien. L’aspect décrit une douceur entre le goût de l’une et l’imagination de l’autre, qui convient à toute paire d’adultes. Rien là ne prédit la suite d’une relation : les deux personnes en décident."
   - q: "Pourquoi est-ce que Vénus sextile Neptune reste dans le flou ?"

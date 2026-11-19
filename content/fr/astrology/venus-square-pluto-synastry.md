@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/venus", "/astrology/pluto", "/astrology/square", "/astrology/venus-square-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Vénus carré Pluton en synastrie ?"
-    a: "Un carré d’environ 90° relie la Vénus d’une personne et Pluton chez l’autre. La personne de Vénus veut souvent que les choses restent agréables et équitables ; celle de Pluton veut qu’elles soient vraies jusqu’au fond, et prêtes à changer sinon. L’aspect décrit une friction sur les conditions d’un lien, que deux adultes peuvent transformer en franchise."
+    a: "Entre la Vénus d'une personne et Pluton chez l'autre, il y a un quart de cercle, environ 90°. La personne de Vénus veut souvent que les choses restent agréables et équitables ; celle de Pluton veut qu’elles soient vraies jusqu’au fond, et prêtes à changer sinon. L’aspect décrit une friction sur les conditions d’un lien, que deux adultes peuvent transformer en franchise."
   - q: "Est-ce que Vénus carré Pluton veut dire lutte de pouvoir ?"
     a: "Pas forcément. L’aspect décrit deux personnes qui pèsent le même échange différemment, l’une pour la légèreté, l’autre pour la profondeur, et cela peut ressembler à une rivalité. Mais gagner en force n’est pas dominer, et un moment déséquilibré n’est pas un plan. Dire ce que chacune veut enlève souvent la lutte."
   - q: "Comment travailler avec Vénus carré Pluton ?"

@@ -31,11 +31,11 @@ Halfway through building the shelves, one of you has a better idea for the whole
 
 ## What flows {#what-flows}
 
-[Mars](/astrology/mars/) puts a person's wants into motion: initiative, effort, assertion, follow-through. [Uranus](/astrology/uranus/) opens what's fixed: innovation, autonomy, experiment, reform. A [square](/astrology/square/) relates two functions through friction that pushes both to adapt. Shared between two people, as in all [synastry aspects](/astrology/synastry-aspects/), the friction has a sender and a receiver, and they swap more often than you'd think.
+[Mars](/astrology/mars/) puts a person's wants into motion: initiative, effort, assertion, follow-through. [Uranus](/astrology/uranus/) opens what's fixed: innovation, autonomy, experiment, reform. A [square](/astrology/square/) puts two functions at a right angle, where friction does the teaching. Shared between two people, as in all [synastry aspects](/astrology/synastry-aspects/), the friction has a sender and a receiver, and they swap more often than you'd think.
 
-Squares usually join signs of one modality. One person's Mars in Taurus with the other's Uranus in Aquarius, both fixed: a steady, patient push meets a determination to reinvent the method. Two kinds of persistence, one for keeping going and one for doing it differently.
+Both signs belong to one modality, as they usually do in a square. One person's Mars in Taurus with the other's Uranus in Aquarius, both fixed: a steady, patient push meets a determination to reinvent the method. Two kinds of persistence, one for keeping going and one for doing it differently.
 
-What the friction makes possible is adaptability. The Mars person learns to change course without losing heart; the Uranus person learns that a reform has to be carried through, not just announced. Pairs with this square often become very good at improving things while they're in motion.
+What this pair learns from the rub is adaptability. The Mars person learns to change course without losing heart; the Uranus person learns that a reform has to be carried through, not just announced. Pairs with this square often become very good at improving things while they're in motion.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -43,7 +43,7 @@ If it's your Mars, you commit, you start, you build up speed, and then the plan 
 
 If it's your Uranus, you may feel hemmed in by the other's momentum: decisions made before you'd finished thinking, a pace that leaves no space to try another way. It can feel like being drafted into someone else's plan.
 
-Neither of you is unreliable or rigid by nature. Innovation isn't chaos, and assertion isn't control; the square is friction, never failure. And the friction is rarely about the change itself: it's about notice, and about whether the person who has to adjust was asked.
+Nobody in this pair is unreliable or rigid by nature. Innovation isn't chaos, and assertion isn't control; the square is friction, never failure. And the friction is rarely about the change itself: it's about notice, and about whether the person who has to adjust was asked.
 
 ## How to meet it {#how-to-meet-it}
 
@@ -51,7 +51,7 @@ Give change a place in the plan. Agree in advance where flexibility is welcome, 
 
 Within 5.1°, the square links about 1 pair of people in 9, either way round. Both birth times are needed, as for every synastry I read: not to find the square, which the hour rarely changes, but to see where in each life it sits, at home, at work or between partners ([what changes without a birth time](/blog/unknown-birth-time/)). Like any reading of two people, it's done with both of them ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
 
-Born into one chart, [Mars square Uranus](/astrology/mars-square-uranus/) has a single person interrupting their own momentum. Between two charts:
+Born into one chart, [Mars square Uranus](/astrology/mars-square-uranus/) has a single person interrupting their own momentum; across two charts, the pair's other angles run like this:
 
 - **[Mars conjunct Uranus in synastry](/astrology/mars-conjunct-uranus-synastry/):** no angle at all; the push and the new idea arrive together.
 - **[Mars sextile Uranus in synastry](/astrology/mars-sextile-uranus-synastry/):** invention offered rather than forced, a step to the side.

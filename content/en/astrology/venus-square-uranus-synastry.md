@@ -45,7 +45,7 @@ If the Uranus is yours, the other's preferences can feel like rules, and a reque
 
 The pair's other angles handle keeping and changing in their own ways:
 
-- **[Venus conjunct Uranus in synastry](/astrology/venus-conjunct-uranus-synastry/):** taste and novelty in one place, liked before they're questioned.
+- **[Venus conjunct Uranus in synastry](/astrology/venus-conjunct-uranus-synastry/):** what's liked and what's new arrive together, before anyone questions them.
 - **[Venus sextile Uranus in synastry](/astrology/venus-sextile-uranus-synastry/):** new ideas offered, and the Venus person free to pick.
 - **[Venus trine Uranus in synastry](/astrology/venus-trine-uranus-synastry/):** room granted so readily that nobody has to argue for it.
 - **[Venus opposite Uranus in synastry](/astrology/venus-opposite-uranus-synastry/):** keeping and changing turned into two people's roles.

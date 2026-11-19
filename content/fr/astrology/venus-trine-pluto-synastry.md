@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 194
 glyph: "♀△♇"
-definition: "Vénus trigone Pluton en synastrie signifie que Vénus, chez une personne, se trouve à environ 120° de Pluton chez l’autre, à 5,1° près. Ce que la première estime et la capacité de profondeur et de renouveau de la seconde vont dans le même sens : la franchise et la loyauté viennent sans trop d’effort. J’y lis une profondeur facile, qu’il faut quand même dire."
+definition: "Vénus trigone Pluton en synastrie signifie que Vénus, chez une personne, se trouve à environ 120° de Pluton chez l’autre, à 5,1° près. Ce que la première estime et le goût de la seconde pour la profondeur vont dans le même sens : franchise et loyauté viennent sans effort. J’y lis une profondeur facile, qu’il faut quand même dire."
 facts:
   - { k: "Corps", v: "Vénus ♀ de l’une, Pluton ♇ de l’autre" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/venus", "/astrology/pluto", "/astrology/trine", "/astrology/venus-trine-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Vénus trigone Pluton en synastrie ?"
-    a: "Vénus, chez une personne, forme un trigone avec Pluton chez l’autre, les deux partageant en général un élément. L’estime de la personne de Vénus rend la profondeur de l’autre bienvenue, et la personne de Pluton aide ce qu’estime la première à se renforcer. L’aspect décrit une franchise et une loyauté qui viennent facilement, entre amis, en famille, au travail ou en couple."
+    a: "Vénus, chez une personne, forme un trigone avec Pluton chez l’autre, les deux partageant en général un élément. L’estime de la personne de Vénus rend la profondeur de l’autre bienvenue, et la personne de Pluton aide ce qu’estime la première à se renforcer. L’aspect décrit une franchise et une loyauté qui viennent facilement, quel que soit le lien."
   - q: "Est-ce que Vénus trigone Pluton est un lien durable ?"
     a: "Je ne lis aucun aspect comme une prévision de la durée d’un lien. Ce trigone décrit une profondeur qui vient sans grand combat, ce qui peut aider deux personnes à traverser des changements. Rester proches dépend d’elles, du reste des deux thèmes, et de la vie."
   - q: "Qu’est-ce qui peut passer inaperçu avec Vénus trigone Pluton ?"
@@ -50,6 +50,6 @@ Les autres angles de la paire sont moins accommodants : [Vénus conjonction Plu
 
 Dites à voix haute ce que vous estimez, même quand vous êtes sûre ou sûr que l’autre le sait. Marquez les petits renouveaux, une nouvelle habitude, un avis qui change, une porte fermée avec douceur, autant que les grands. Distinguez le privé du secret : certaines choses n’appartiennent qu’à vous, mais rien de ce qui concerne les deux personnes ne devrait l’être. De vieux amis, une mentore et son ancien élève restés proches, des frères et sœurs passés ensemble par un bouleversement familial, des couples : tous se portent bien avec cette habitude.
 
-Environ 1 paire de personnes sur 9 a ce trigone, dans un sens ou dans l’autre, à 5,1° près. Dans le thème de la personne de Pluton, Pluton marque une génération : la planète avance si lentement que les personnes nées à la même époque ont Pluton presque au même endroit. Vénus, c’est autre chose. Elle suit le Soleil et fait le tour du zodiaque en un an environ : sa position appartient à une date de naissance précise, et c’est cette date qui fait de ce trigone celui de deux personnes. L’heure ne menace pas l’angle ; elle décide des maisons, qui situent cette profondeur dans chaque vie, et la lecture attend donc les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Environ 1 paire de personnes sur 9 a ce trigone, dans un sens ou dans l’autre, à 5,1° près. Dans le thème de la personne de Pluton, Pluton marque une génération : la planète avance si lentement que les personnes nées à peu près en même temps ont Pluton presque au même endroit. Vénus, c’est autre chose. Elle accompagne le Soleil et boucle le zodiaque en un an environ : sa position appartient à une date de naissance précise, et c’est cette date qui fait de ce trigone celui de deux personnes. L’heure ne menace pas l’angle ; elle décide des maisons, qui situent cette profondeur dans chaque vie, et la lecture attend donc les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Une personne née avec [Vénus trigone Pluton](/astrology/venus-trine-pluto/) garde ce qu’elle aime à travers les changements. Entre deux personnes, garder devient un travail commun, et la plupart du temps un travail agréable.

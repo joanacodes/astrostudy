@@ -32,11 +32,11 @@ L’une veut réparer le portail ; l’autre se demande s’il ne faudrait pas
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Mars](/astrology/mars/), c’est la fonction qui agit : commencer, s’affirmer, faire l’effort, défendre une limite. [Jupiter](/astrology/jupiter/), celle qui élargit : la compréhension, le sens, les principes, la croissance dans la durée. Un [carré](/astrology/square/) relie deux fonctions par une friction qui les fait grandir toutes les deux. Dans les [aspects de synastrie](/astrology/synastry-aspects/), la friction circule entre deux personnes, chacune en tenant un bout.
+[Mars](/astrology/mars/), c’est la fonction qui agit : commencer, s’affirmer, faire l’effort, défendre une limite. [Jupiter](/astrology/jupiter/), celle qui élargit : la compréhension, le sens, les principes, la croissance dans la durée. Un [carré](/astrology/square/) engage deux fonctions dans une friction qui les fait grandir l’une et l’autre. Dans les [aspects de synastrie](/astrology/synastry-aspects/), la friction circule entre deux personnes, chacune en tenant un bout.
 
 Les deux signes partagent en général un mode. Mars en Vierge chez l’une, Jupiter en Sagittaire chez l’autre, deux signes mutables, Jupiter y étant en domicile : un effort soigneux et détaillé rencontre un sens ample de ce à quoi sert la vie. La personne de Mars veut que la prochaine chose soit bien faite ; celle de Jupiter veut savoir où elle mène.
 
-Ce que la friction rend possible, c’est le jugement. La personne de Mars apprend à se demander à quoi sert un effort avant de le dépenser ; celle de Jupiter apprend qu’un principe ne vaut que par le prochain pas fait en son nom. Avec le temps, la paire peut devenir douée pour dimensionner les choses : assez grandes pour compter, assez petites pour être finies.
+Le cadeau de la friction, c’est le jugement. La personne de Mars apprend à se demander à quoi sert un effort avant de le dépenser ; celle de Jupiter apprend qu’un principe ne vaut que par le prochain pas fait en son nom. Avec le temps, la paire peut devenir douée pour dimensionner les choses : assez grandes pour compter, assez petites pour être finies.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

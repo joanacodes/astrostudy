@@ -31,7 +31,7 @@ Some pairs are at their best with a problem nobody has solved yet. Mars sextile 
 
 ## What flows {#what-flows}
 
-[Mars](/astrology/mars/) is initiative: the willingness to start, to push, to compete, to see a thing through. [Uranus](/astrology/uranus/) is invention: differentiation, experiment, reform, the freedom to rearrange what's there. A [sextile](/astrology/sextile/) relates two functions through opportunity, real but waiting to be used. Between two charts, as with all [synastry aspects](/astrology/synastry-aspects/), each person holds one of those functions and offers it to the other.
+[Mars](/astrology/mars/) is initiative: the willingness to start, to push, to compete, to see a thing through. [Uranus](/astrology/uranus/) is invention: differentiation, experiment, reform, the freedom to rearrange what's there. Under a [sextile](/astrology/sextile/), two functions have an opening between them, real but waiting to be used. Between two charts, as with all [synastry aspects](/astrology/synastry-aspects/), each person holds one of those functions and offers it to the other.
 
 One person's Mars in Cancer with the other's Uranus in Virgo, water and earth: effort that wants to protect and provide meets a knack for practical reform. The Mars person wants the household to run better for everyone; the Uranus person has three ideas for how, and one of them works. The pair's gift is speed of learning: an idea is tried, the result is in by Friday, and the next version is better.
 
@@ -39,7 +39,7 @@ If the Uranus is yours, you finally have someone who'll test your ideas rather t
 
 ## Where it rubs {#where-it-rubs}
 
-What a sextile offers is easy to waste. Experiments start cheerfully and stop halfway; the Uranus person moves on to the next idea, the Mars person to the next task, and the improvements never quite settle. Novelty isn't the same as innovation, and a pair this comfortable with trying things can confuse the two.
+Experiments are easy to start here, and just as easy to waste. They begin cheerfully and stop halfway; the Uranus person moves on to the next idea, the Mars person to the next task, and the improvements never quite settle. Novelty isn't the same as innovation, and a pair this comfortable with trying things can confuse the two.
 
 Freedom can go unshared, too. If the Uranus person always proposes and the Mars person always carries out, the Mars person can feel like a test bench, and the Uranus person never tries their own ideas with their own hands.
 

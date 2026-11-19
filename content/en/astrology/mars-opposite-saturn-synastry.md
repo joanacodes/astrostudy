@@ -31,7 +31,7 @@ When one of you speeds up, the other seems to dig in; when one relaxes, the othe
 
 ## What flows {#what-flows}
 
-[Mars](/astrology/mars/) is a person's capacity to start and push: action, assertion, effort, courage. [Saturn](/astrology/saturn/) is their capacity to hold and shape: structure, responsibility, limits, and time. An [opposition](/astrology/opposition/) sets two functions at either end of a line, a polarity in which each becomes more visible. Between two charts, as in all [synastry aspects](/astrology/synastry-aspects/), each person carries one end of the line.
+[Mars](/astrology/mars/) is a person's capacity to start and push: action, assertion, effort, courage. [Saturn](/astrology/saturn/) is their capacity to hold and shape: structure, responsibility, limits, and time. An [opposition](/astrology/opposition/) stretches two functions along one line, so that each can be seen against the other. Between two charts, as in all [synastry aspects](/astrology/synastry-aspects/), each person carries one end of the line.
 
 The two signs face each other in one modality. One person's Mars in Cancer with the other's Saturn in Capricorn, at home in its own sign: effort that acts to protect what's close faces a structure built for the long run. One rushes to help; the other asks whether the help will last.
 
@@ -41,7 +41,7 @@ What flows is proportion. The Mars person sees what patience can build; the Satu
 
 To the Mars person, the other can seem to be the limit itself: the rule you meet, the "wait" that arrives just when you're ready. To the Saturn person, the other can seem to be the hurry itself: pressure on plans that aren't ready, and a responsibility you never chose.
 
-None of that is enmity. It's a seesaw, and this one sticks when each pushes harder on their own end to make up for the other: more urgency invites more caution, and the reverse. The way out is rarely to win; it's to move towards the middle together.
+It's a seesaw, not a feud, and this one sticks when each pushes harder on their own end to make up for the other: more urgency invites more caution, and the reverse. The way out is rarely to win; it's to move towards the middle together.
 
 ## How to meet it {#how-to-meet-it}
 
@@ -49,7 +49,7 @@ Meet in the middle on purpose. Agree a timetable with room for both: a start dat
 
 One way round or the other, about 1 pair of people in 15 has this opposition, counting up to 6° either side of exact. Both birth times come first: Saturn shifts so little in a day that the hour can't change this opposition, but the Ascendant moves through a whole sign in about two hours, and with it every house the seesaw sits in ([what changes without a birth time](/blog/unknown-birth-time/)). It touches how each person handles pressure, so it belongs in a reading both people chose ([synastry and consent](/blog/synastry-behind-their-back/)).
 
-A single chart can hold the same opposition, [Mars opposite Saturn](/astrology/mars-opposite-saturn/), and then one person balances both ends. Between two charts, the pair's other angles:
+A single chart can hold the same opposition, [Mars opposite Saturn](/astrology/mars-opposite-saturn/), and then one person balances both ends. Compared with its siblings between two charts:
 
 - **[Mars conjunct Saturn in synastry](/astrology/mars-conjunct-saturn-synastry/):** no seesaw at all; the push lands right on the plan.
 - **[Mars sextile Saturn in synastry](/astrology/mars-sextile-saturn-synastry/):** the two ends close the gap and cooperate when asked.

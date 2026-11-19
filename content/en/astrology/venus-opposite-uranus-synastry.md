@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the opposition, 180°, the widest of the aspects he describes" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 6°" }
 ---
-Every pair works out how close is close enough. With Venus opposite Uranus in synastry, the two answers sit at opposite ends: one person's Venus and the other's Uranus sit 180° apart, and the first tends to speak for togetherness while the second speaks for room.
+Every pair works out how close is close enough. With Venus opposite Uranus in synastry, the two answers sit at opposite ends: the Venus of one person is 180° from the Uranus of the other, and the first tends to speak for togetherness while the second speaks for room.
 
 ## What flows {#what-flows}
 

@@ -31,15 +31,15 @@ Ask this pair why they took the project on and you'll get two answers that fit: 
 
 ## What flows {#what-flows}
 
-[Mars](/astrology/mars/) is effort with a direction: initiative, assertion, courage, follow-through. [Jupiter](/astrology/jupiter/) is the reach for meaning: principles, beliefs, learning, growth. A [trine](/astrology/trine/) lets two functions flow together, each feeding the other and keeping its own job. Shared across two charts, as in all [synastry aspects](/astrology/synastry-aspects/), the flow becomes a habit of cooperation.
+[Mars](/astrology/mars/) is effort with a direction: initiative, assertion, courage, follow-through. [Jupiter](/astrology/jupiter/) is the reach for meaning: principles, beliefs, learning, growth. In a [trine](/astrology/trine/), two functions flow together, each feeding the other and keeping its own job. Shared across two charts, as in all [synastry aspects](/astrology/synastry-aspects/), the flow becomes a habit of cooperation.
 
-One person's Mars in Gemini with the other's Jupiter in Aquarius, both air: quick, talkative effort meets a sense of meaning that lives in groups, ideas and causes. The Mars person writes the leaflet in an evening; the Jupiter person knows exactly who it's for.
+One person's Mars in Gemini with the other's Jupiter in Aquarius, both air: quick, talkative effort meets a sense of meaning that lives in groups, ideas and causes. The Mars person writes the leaflet in an evening; the Jupiter person knows exactly who it's for. The trine also tends to make each braver than usual in the other's company: the Mars person dares larger aims, the Jupiter person acts sooner on what they believe.
 
 If the Jupiter is yours, your beliefs find someone who acts on them without being asked twice, and seems to enjoy it. If the Mars is yours, your energy is welcomed rather than managed, and it comes back to you with a larger point than you'd have found alone. Both of you may take on more with each other, and do it more cheerfully, than with most people.
 
 ## Where it rubs {#where-it-rubs}
 
-Ease isn't inevitability, and this trine's blind spot is agreement. When effort and conviction never disagree, the pair can mistake its own enthusiasm for good judgement; wisdom isn't certainty, and a plan two keen people love can still be the wrong plan.
+This trine's blind spot is agreement. When effort and conviction never disagree, the pair can mistake its own enthusiasm for good judgement; wisdom isn't certainty, and a plan two keen people love can still be the wrong plan.
 
 The other snag is quieter. The Mars person's energy can become the standing engine of the Jupiter person's ideas, taken for granted because it never complains; the Jupiter person's meaning can become the Mars person's only compass. Generosity flows best when each still checks what the other wants.
 

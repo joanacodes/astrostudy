@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/pluto", "/astrology/square", "/astrology/venus-square-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Venus square Pluto mean in synastry?"
-    a: "One person’s Venus stands about 90° from the other’s Pluto. The Venus person tends to want things pleasant and evenly shared; the Pluto person wants them true all the way down, and ready to change if they aren’t. It describes friction over the terms of a bond, which two adults can turn into honesty."
+    a: "Pluto in one chart squares Venus in the other, at about 90°. The Venus person tends to want things pleasant and evenly shared; the Pluto person wants them true all the way down, and ready to change if they aren’t. It describes friction over the terms of a bond, which two adults can turn into honesty."
   - q: "Does Venus square Pluto mean a power struggle?"
     a: "Not necessarily. It describes two people who weigh the same exchange differently, one for ease and one for depth, and that can feel like a contest. But empowerment isn’t domination, and an uneven moment isn’t a plan. Saying what each person wants usually takes the struggle out of it."
   - q: "How do you work with Venus square Pluto?"
@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the square, 90°, which his first book counts among four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 5.1°" }
 ---
-Pleasant isn't always enough for one of you, and intense isn't always welcome to the other. Venus square Pluto in synastry sets one person's Venus at right angles to the other's Pluto, and the first's wish for ease keeps meeting the second's need to get to the truth. I read it as an argument about terms, with something real at stake on each side.
+Pleasant isn't always enough for one of you, and intense isn't always welcome to the other. In Venus square Pluto in synastry, the two planets meet at right angles, one in each chart, and the first person's wish for ease keeps meeting the second's need to get to the truth. I read it as an argument about terms, with something real at stake on each side.
 
 ## What flows {#what-flows}
 
@@ -46,12 +46,12 @@ The pair's other contacts set ease and depth at different angles:
 - **[Venus conjunct Pluto in synastry](/astrology/venus-conjunct-pluto-synastry/):** value and intensity in one place, every pleasure taken to the root.
 - **[Venus sextile Pluto in synastry](/astrology/venus-sextile-pluto-synastry/):** an honest look given when it's asked for, and not before.
 - **[Venus trine Pluto in synastry](/astrology/venus-trine-pluto-synastry/):** depth and enjoyment in one current, rarely argued over.
-- **[Venus opposite Pluto in synastry](/astrology/venus-opposite-pluto-synastry/):** lightness and depth facing each other as two roles.
+- **[Venus opposite Pluto in synastry](/astrology/venus-opposite-pluto-synastry/):** one person keeps it light, the other keeps it real.
 
 ## How to meet it {#how-to-meet-it}
 
 Name what's being negotiated. "We're deciding how much time this takes", "we're deciding whether this stays", said out loud, turns a vague pressure into a question two people can answer. Agree which things are open to change and which aren't. The Pluto person can say what they fear losing instead of holding tighter; the Venus person can say what they want instead of smoothing it over. Co-founders deciding what their company stands for, friends after a falling-out, a parent and an adult child renegotiating closeness, or a couple: the same plain words help each of them.
 
-About 1 pair of people in 9 has this square, one way round or the other, within 5.1°. Pluto lingers so long in each sign, from 12 to 31 years, that the Pluto person's age-mates carry it within a few degrees: that side speaks for a generation. The square becomes this pair's through the Venus side, placed 90° away by the other's birthday. Over a day, neither planet moves enough to switch the square on or off, except at the very edge of 5.1°; the hour sets the houses, the rooms of each life where the terms get argued ([what changes without a birth time](/blog/unknown-birth-time/)).
+About 1 pair of people in 9 has this square, one way round or the other, within 5.1°. Pluto stays so long in each sign, from 12 to 31 years, that the Pluto person's age-mates carry it within a few degrees: that side speaks for a generation. The square becomes this pair's through the Venus side, placed 90° away by the other's birthday. Over a day, neither planet moves enough to switch the square on or off, except at the very edge of 5.1°; the hour sets the houses, the rooms of each life where the terms get argued ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Someone born with [Venus square Pluto](/astrology/venus-square-pluto/) learns, inside one life, where intensity belongs. Between two charts the lesson is shared, and the terms can be agreed aloud, with both people present ([synastry and consent](/blog/synastry-behind-their-back/)).

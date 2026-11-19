@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, 120°, which he places with the sextile among the harmonious aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 5.1°" }
 ---
-Some pairs can talk about anything, including what they'd rather not. Venus trine Pluto in synastry is often part of the reason: one person's Venus and the other's Pluto trine each other, most often from signs of a single element, and what the first values settles easily into the second's depth.
+Some pairs can talk about anything, including what they'd rather not. Venus trine Pluto in synastry is often part of the reason: one person's Venus and the other's Pluto trine each other, most often from signs that share an element, and what the first values settles easily into the second's depth.
 
 ## What flows {#what-flows}
 

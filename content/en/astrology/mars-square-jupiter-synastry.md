@@ -31,11 +31,11 @@ One of you wants to fix the gate; the other wonders whether the whole garden nee
 
 ## What flows {#what-flows}
 
-[Mars](/astrology/mars/) is the function that acts: it starts, asserts, makes the effort, defends a limit. [Jupiter](/astrology/jupiter/) is the function that expands: understanding, meaning, principles, growth over time. A [square](/astrology/square/) relates two functions through friction that makes both develop. In [synastry aspects](/astrology/synastry-aspects/), the friction runs between two people, each holding one end of it.
+[Mars](/astrology/mars/) is the function that acts: it starts, asserts, makes the effort, defends a limit. [Jupiter](/astrology/jupiter/) is the function that expands: understanding, meaning, principles, growth over time. A [square](/astrology/square/) brings two functions into a friction that develops both. In [synastry aspects](/astrology/synastry-aspects/), the friction runs between two people, each holding one end of it.
 
 The two signs usually share a modality. One person's Mars in Virgo with the other's Jupiter in Sagittarius, both mutable, Jupiter in its own sign: careful, detailed effort meets a sweeping sense of what life is for. The Mars person wants the next thing done properly; the Jupiter person wants to know where it leads.
 
-What the friction makes possible is judgement. The Mars person learns to ask what an effort serves before spending it; the Jupiter person learns that a principle is only as good as the next step taken in its name. Over time, the pair can get good at sizing things: big enough to matter, small enough to finish.
+The friction's gift is judgement. The Mars person learns to ask what an effort serves before spending it; the Jupiter person learns that a principle is only as good as the next step taken in its name. Over time, the pair can get good at sizing things: big enough to matter, small enough to finish.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -51,7 +51,7 @@ Agree the size before the work. One sentence each, "what's it for?" and "what's 
 
 This square is common: within 5.1°, about 1 pair of people in 9 has it, one way round or the other. In Placidus, the house system I use, an hour's difference in either birth can move a planet across a house cusp, so where in each life the testing happens depends on both times; whether the square exists, the hour rarely changes ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Inside one chart, [Mars square Jupiter](/astrology/mars-square-jupiter/) is a single person's effort and belief sizing each other up. Between two, the pair's other contacts:
+Inside one chart, [Mars square Jupiter](/astrology/mars-square-jupiter/) has effort and belief sizing each other up in the same person. Between two, the pair's other contacts:
 
 - **[Mars conjunct Jupiter in synastry](/astrology/mars-conjunct-jupiter-synastry/):** effort and meaning on one point, so the question of size comes later.
 - **[Mars sextile Jupiter in synastry](/astrology/mars-sextile-jupiter-synastry/):** the same two cooperating, with a short gap that leaves room.

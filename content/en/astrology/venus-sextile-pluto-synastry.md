@@ -33,7 +33,7 @@ Some people make honesty feel like a gift rather than a test. Venus sextile Plut
 
 [Venus](/astrology/venus/) sorts what a person cares for from what they can do without: preference, pleasure, the balance of an exchange. [Pluto](/astrology/pluto/) gets to the bottom of things: it lets go of what's finished and makes what's left stronger. A [sextile](/astrology/sextile/) puts two functions within reach of each other, and in [synastry aspects](/astrology/synastry-aspects/), the reaching is something two people have to choose.
 
-If the Venus is yours, this person can help you see which of your attachments still matter. Ask, and you'll get an honest answer about the job you keep for comfort or the hobby you've outgrown, given with care rather than judgement. What survives the question tends to be loved more freely afterwards.
+If the Venus is yours, you can count on this person to show you which attachments still matter. Ask, and you'll get an honest answer about the job you keep for comfort or the hobby you've outgrown, given with care rather than judgement. What survives the question tends to be loved more freely afterwards.
 
 If the Pluto is yours, your honesty is welcome here, and even enjoyed. The Venus person brings warmth to the hard conversations and appreciation to whatever you've rebuilt, so depth stops feeling like something you carry alone. You may find yourself lighter in this company than in most.
 

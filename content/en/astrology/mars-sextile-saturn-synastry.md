@@ -31,7 +31,7 @@ A training plan only works if someone sticks to it, and a person with energy to 
 
 ## What flows {#what-flows}
 
-[Mars](/astrology/mars/) is the drive to begin and keep going: initiative, effort, competition, assertion. [Saturn](/astrology/saturn/) is the urge to build things that hold: responsibility, discipline, limits, long-term order. A [sextile](/astrology/sextile/) relates two functions through opportunity, cooperative and responsive, but only when engaged. As with any of the [synastry aspects](/astrology/synastry-aspects/), the opportunity is held between two people, and either can open it.
+[Mars](/astrology/mars/) is the drive to begin and keep going: initiative, effort, competition, assertion. [Saturn](/astrology/saturn/) is the urge to build things that hold: responsibility, discipline, limits, long-term order. A [sextile](/astrology/sextile/) offers two functions a cooperation that responds when called on, and only then. As with any of the [synastry aspects](/astrology/synastry-aspects/), the opportunity is held between two people, and either can open it.
 
 One person's Mars in Scorpio with the other's Saturn in Virgo, water and earth: a determined, private kind of effort meets a careful method. Mars rules Scorpio by tradition and Pluto by the modern reckoning, and I read both; here the old ruler is at home, and it digs in. The Mars person settles into a long job; the Saturn person knows the order to do it in. A thesis, a long renovation, the restoration of an old boat: these are the sort of projects where this sextile shows.
 
@@ -39,7 +39,7 @@ If the Saturn is yours, you get to see your method used by someone who'll actual
 
 ## Where it rubs {#where-it-rubs}
 
-What a sextile offers waits to be taken, and this one waits politely. Advice that would save the Mars person a month sits unspoken in the other's head; energy that would rescue the Saturn person's stalled plan goes into something else. Nothing goes wrong, which is exactly why the help goes unused.
+The offer in this sextile waits to be taken, and it waits politely. Advice that would save the Mars person a month sits unspoken in the other's head; energy that would rescue the Saturn person's stalled plan goes into something else. Nothing goes wrong, which is exactly why the help goes unused.
 
 There's a subtler snag: the arrangement can harden into one-way help. If the Saturn person always supplies the method and the Mars person always the effort, the Saturn person may never get to act on their own plans, and the Mars person may never learn to plan. Easy roles are still roles.
 

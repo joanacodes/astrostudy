@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 215
 glyph: "♂☍♃"
-definition: "Mars opposite Jupiter in synastry means one person’s Mars is about 180° from the other’s Jupiter, within 6°, in opposite signs. One leans towards acting now, the other towards understanding first, and each sees in the other what they put off. I read it as a seesaw that teaches balance, never as a standoff."
+definition: "Mars opposite Jupiter in synastry means one person’s Mars is about 180° from the other’s Jupiter, within 6°, in opposite signs. One leans towards acting now, the other towards understanding first, and each finds in the other what they leave for later. I read it as balance learned from both ends, never as a standoff."
 facts:
   - { k: "Bodies", v: "One person’s Mars ♂, the other’s Jupiter ♃" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/jupiter", "/astrology/opposition", "/astrology/mars-opposite-jupiter", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Mars opposite Jupiter mean in synastry?"
-    a: "One person’s Mars faces the other’s Jupiter from about 180°, in opposite signs. The Mars person tends to want to act now; the Jupiter person tends to want the larger picture first. Each shows the other the half they postpone, and the pair keeps rebalancing between doing and understanding."
+    a: "The two planets sit about 180° apart, one person’s Mars in the sign opposite the other’s Jupiter. The Mars person tends to want to act now; the Jupiter person tends to want the larger picture first. Each shows the other the half they postpone, and the pair keeps rebalancing between doing and understanding."
   - q: "Is Mars opposite Jupiter in synastry a conflict aspect?"
     a: "No. It’s a seesaw, not a contest: two functions at either end of a line, each making the other visible. Here they are action and meaning, and the tension between them is about timing and emphasis. Nothing in it predicts a fight between two people."
   - q: "How do you balance Mars opposite Jupiter?"
@@ -31,7 +31,7 @@ One of you is already halfway out of the door; the other is still asking where t
 
 ## What flows {#what-flows}
 
-[Mars](/astrology/mars/) is a person's drive: starting things, pushing for them, competing, holding a boundary. [Jupiter](/astrology/jupiter/) is their search for meaning: the larger view, principles, belief, learning from experience. An [opposition](/astrology/opposition/) relates two functions as a polarity, where each end makes the other easier to see. In [synastry aspects](/astrology/synastry-aspects/), the two ends belong to two people, which puts the seesaw where both can see it.
+[Mars](/astrology/mars/) is a person's drive: starting things, pushing for them, competing, holding a boundary. [Jupiter](/astrology/jupiter/) is their search for meaning: the larger view, principles, belief, learning from experience. An [opposition](/astrology/opposition/) pairs two functions as opposite poles, and each end shows what the other is for. In [synastry aspects](/astrology/synastry-aspects/), the two ends belong to two people, which puts the seesaw where both can see it.
 
 Opposite signs share a modality. One person's Mars in Aries, its own sign, with the other's Jupiter in Libra: a drive to act on one's own say-so faces a belief that things should be weighed with everyone in mind. The Mars person decides; the Jupiter person consults.
 
@@ -47,9 +47,9 @@ There's no enmity in it. This is a seesaw, and it sticks when the ends turn into
 
 Swap ends on purpose. Let the Jupiter person start something small without consultation, and the Mars person ask one "what for?" before moving. Between friends, that can be the one who usually decides letting the other choose the destination; in a family, the relative who always explains doing the practical job for once; at work, a fast colleague and a thoughtful one taking turns to lead the meeting; in a couple, alternating who plans.
 
-This opposition has one point on the circle to land on, where the square and the trine each have two, so it's the rarer kind: about 1 pair of people in 15 has it, one way round or the other, within 6°. Mars and Jupiter are slow enough that the hours of birth rarely decide it, but each planet's house in the other's chart, where the seesaw stands, depends on both ([what changes without a birth time](/blog/unknown-birth-time/)). I read it with both people, never about one of them ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+This opposition has one point on the circle to land on, where the square and the trine each have two, so it's the rarer kind: about 1 pair of people in 15 has it, one way round or the other, within 6°. Mars and Jupiter are slow enough that the hours of birth rarely decide it, but each planet's house in the other's chart, where the seesaw stands, depends on both ([what changes without a birth time](/blog/unknown-birth-time/)). It's a reading for two people sitting together, never one about someone absent ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
 
-Inside a single chart, [Mars opposite Jupiter](/astrology/mars-opposite-jupiter/) asks one person to hold both ends. Between two charts, the pair's other angles:
+Inside a single chart, [Mars opposite Jupiter](/astrology/mars-opposite-jupiter/) asks one person to hold both ends. Set the two at other angles across two charts and the picture changes:
 
 - **[Mars conjunct Jupiter in synastry](/astrology/mars-conjunct-jupiter-synastry/):** no seesaw; the push and the reason share one point.
 - **[Mars sextile Jupiter in synastry](/astrology/mars-sextile-jupiter-synastry/):** the two ends become neighbours, cooperating when invited.

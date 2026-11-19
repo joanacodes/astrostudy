@@ -34,13 +34,13 @@ Demandez à cette paire pourquoi elle a pris le projet en main, et vous aurez de
 
 [Mars](/astrology/mars/), c’est l’effort qui a une direction : l’initiative, l’affirmation, le courage, la persévérance. [Jupiter](/astrology/jupiter/), c’est l’élan vers le sens : les principes, les convictions, l’apprentissage, la croissance. Un [trigone](/astrology/trine/) laisse deux fonctions couler ensemble, chacune nourrissant l’autre en gardant son rôle. Partagé entre deux thèmes, comme dans tous les [aspects de synastrie](/astrology/synastry-aspects/), ce courant devient une habitude de coopération.
 
-Mars en Gémeaux chez l’une, Jupiter en Verseau chez l’autre, deux signes d’air : un effort rapide et bavard rencontre un sens qui vit dans les groupes, les idées et les causes. La personne de Mars écrit le tract en une soirée ; celle de Jupiter sait exactement à qui il s’adresse.
+Mars en Gémeaux chez l’une, Jupiter en Verseau chez l’autre, deux signes d’air : un effort rapide et bavard rencontre un sens qui vit dans les groupes, les idées et les causes. La personne de Mars écrit le tract en une soirée ; celle de Jupiter sait exactement à qui il s’adresse. Le trigone rend aussi chacune plus audacieuse que d’habitude en présence de l’autre : la personne de Mars ose des buts plus larges, celle de Jupiter agit plus tôt selon ses convictions.
 
 Si Jupiter est de votre côté, vos convictions trouvent quelqu’un qui agit pour elles sans qu’on le lui demande deux fois, et qui semble y prendre plaisir. Si Mars est de votre côté, votre énergie est accueillie plutôt que gérée, et elle vous revient chargée d’un sens plus large que celui que vous auriez trouvé sans l’autre. Vous en entreprenez peut-être plus ensemble, et plus gaiement, qu’avec la plupart des gens.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-L’aisance n’est pas une fatalité, et l’angle mort de ce trigone, c’est l’accord. Quand l’effort et la conviction ne sont jamais en désaccord, la paire peut prendre son propre enthousiasme pour du discernement ; la sagesse n’est pas la certitude, et un projet que deux personnes enthousiastes adorent peut quand même être le mauvais.
+L’angle mort de ce trigone, c’est l’accord. Quand l’effort et la conviction ne sont jamais en désaccord, la paire peut prendre son propre enthousiasme pour du discernement ; la sagesse n’est pas la certitude, et un projet que deux personnes enthousiastes adorent peut quand même être le mauvais.
 
 L’autre accroc est plus discret. L’énergie de la personne de Mars peut devenir le moteur attitré des idées de celle de Jupiter, un moteur que plus personne ne remarque parce qu’il ne se plaint jamais ; le sens que porte la personne de Jupiter peut devenir la seule boussole de celle de Mars. La générosité circule mieux quand chacune vérifie encore ce que l’autre veut.
 

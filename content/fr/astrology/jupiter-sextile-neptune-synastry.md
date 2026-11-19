@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/jupiter", "/astrology/neptune", "/astrology/sextile", "/astrology/jupiter-sextile-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Jupiter sextile Neptune en synastrie ?"
-    a: "En général à deux signes d’écart, Jupiter d’une personne et Neptune de l’autre forment un angle de 60°, à 3° près. L’une donne une direction aux idéaux, l’autre donne aux projets une image et du cœur. C’est un lien facile, qui ne marche que si la paire en fait vraiment quelque chose."
+    a: "Deux signes séparent d’ordinaire Jupiter, chez une personne, et Neptune, chez l’autre : un angle de 60°, à 3° près. L’une donne une direction aux idéaux, l’autre donne aux projets une image et du cœur. C’est un lien facile, qui ne marche que si la paire en fait vraiment quelque chose."
   - q: "Qui a Jupiter sextile Neptune en synastrie ?"
     a: "Les dates de naissance le fixent, et largement : une personne née à la mi-2005, par exemple, le partage avec toutes les personnes nées entre novembre 1973 et janvier 1976. Voilà pourquoi il décrit deux époques plus que deux personnes, et pourquoi je le lis dans les maisons plutôt que comme un lien."
   - q: "Est-ce que Jupiter sextile Neptune peut aider un partenariat créatif ?"
@@ -50,7 +50,7 @@ Les autres angles parlent plus fort, ou plus facilement. [Jupiter conjonction Ne
 
 Donnez une date à un rêve. Choisissez une chose à faire ou à créer ensemble, un morceau de musique, une collecte, un jardin pour la rue, une formation que vous donnerez à deux, et inscrivez-la au calendrier. Décidez qui fait le premier pas concret, et quand. Décidez aussi combien de temps et d’aide chacune peut donner, pour que la générosité ne tourne pas à l’épuisement. N’importe quelle paire adulte peut essayer : un couple, deux amis, une fratrie, un binôme au travail.
 
-Ici, les dates sont généreuses. Une personne née à la mi-2005 a Jupiter en sextile avec Neptune chez toute personne née entre novembre 1973 et janvier 1976 ; et, en sens inverse, les personnes nées entre février et juin 2007, à peine deux ans plus jeunes, ont Jupiter en sextile avec Neptune de cette personne. Je ne le mets pas sur la liste des aspects d’une synastrie, que je réserve aux contacts avec le Soleil, la Lune, Mercure, Vénus, Mars, l’Ascendant ou le Milieu du Ciel ; un sextile entre deux planètes lentes va dans les maisons, où il décrit la rencontre des imaginations de deux époques plus que de deux personnes.
+Ici, les dates sont généreuses : une personne née à la mi-2005 trouve son pendant dans toutes les naissances de novembre 1973 à janvier 1976 ; et, en sens inverse, les personnes nées entre février et juin 2007, à peine deux ans plus jeunes, ont Jupiter en sextile avec Neptune de cette personne. Je ne le mets pas sur la liste des aspects d’une synastrie, que je réserve aux contacts avec le Soleil, la Lune, Mercure, Vénus, Mars, l’Ascendant ou le Milieu du Ciel ; un sextile entre deux planètes lentes va dans les maisons, où il décrit la rencontre des imaginations de deux époques plus que de deux personnes.
 
 Neptune met quelque 165 ans à faire le tour du zodiaque : aucune heure de naissance ne change ce sextile, mais l’heure fixe les maisons où il tombe, et il me faut les deux ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

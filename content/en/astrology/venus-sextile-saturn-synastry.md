@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 3.6°" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "Saturn, Lilith and Chiron, counted in each person’s own chart" }
 ---
-Some help only arrives once you ask for it, and then turns out to be exactly the right kind. Venus sextile Saturn in synastry sets one person's Venus about 60° from the other's Saturn, so what the first enjoys can borrow the second's patience and know-how. The offer runs both ways, and it waits for someone to take it up.
+Some help only arrives once you ask for it, and then turns out to be exactly the right kind. Venus sextile Saturn in synastry places the two planets about 60° apart, one in each chart, so what the first person enjoys can borrow the second's patience and know-how. The offer runs both ways, and it waits for someone to take it up.
 
 ## What flows {#what-flows}
 

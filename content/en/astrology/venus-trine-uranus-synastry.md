@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, 120°, named by him among the harmonious aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 5.1°" }
 ---
-Some bonds come with the windows already open. With Venus trine Uranus in synastry, one person's Venus and the other's Uranus stand some 120° apart, generally in signs of one element, and neither person has to argue for room: the first enjoys the second's oddities, and the second feels free without asking.
+Some bonds come with the windows already open. With Venus trine Uranus in synastry, the two planets, one in each chart, are some 120° apart, generally in signs of one element, and neither person has to argue for room: the first enjoys the second's oddities, and the second feels free without asking.
 
 ## What flows {#what-flows}
 
