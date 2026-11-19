@@ -1,13 +1,13 @@
 ---
 title: "Mars trine Neptune in synastry"
 h1: "Mars trine Neptune between two charts"
-description: "Mars trine Neptune in synastry: one person’s drive and the other’s imagination move together. Both sides, what the ease can hide, and how common it is."
+description: "Mars trine Neptune in synastry: effort from one person, imagination from the other, keeping the same pace. Both sides, what the ease can hide, how common."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 229
 glyph: "♂△♆"
-definition: "Mars trine Neptune in synastry means a third of the zodiac, within 5.1°, separates one person’s Mars from the other’s Neptune, often in one element. One person’s drive and the other’s imagination keep step, so effort follows inspiration without being told. I read it as two people setting each other in motion, which still needs a plan to land."
+definition: "Mars trine Neptune in synastry means a third of the zodiac, within 5.1°, separates one person’s Mars from the other’s Neptune, often in one element. Drive in one person and imagination in the other keep step, so effort follows inspiration without being told. I read it as two people setting each other in motion, which still needs a plan to land."
 facts:
   - { k: "Bodies", v: "One person’s Mars ♂, the other’s Neptune ♆" }
   - { k: "Aspect", v: "Trine △, 120°" }
@@ -27,11 +27,11 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, 120°, between signs of one element" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 5.1°" }
 ---
-With Mars trine Neptune in synastry, one person tends to supply the motion and the other the reason for it, and neither has to ask. About 120° lies between the Mars of one and the Neptune of the other, mostly in signs of the same element, so drive and imagination keep the same pace.
+With Mars trine Neptune in synastry, one person tends to supply the motion and the other the reason for it, and neither has to ask. About 120° lies between the Mars of one and the Neptune of the other, mostly across one element, which keeps drive and imagination at the same pace.
 
 ## What flows {#what-flows}
 
-[Mars](/astrology/mars/) turns wanting into doing: initiative, effort, assertion, follow-through. [Neptune](/astrology/neptune/) supplies what it's worth doing for: imagination, compassion, ideals, a feel for atmosphere and meaning. A [trine](/astrology/trine/) lets two functions flow together and reinforce each other, and in [synastry aspects](/astrology/synastry-aspects/) like this one the current runs from one person to the other and back.
+[Mars](/astrology/mars/) turns wanting into doing: initiative, effort, assertion, follow-through. [Neptune](/astrology/neptune/) supplies what it's worth doing for: imagination, compassion, ideals, a feel for atmosphere and meaning. A [trine](/astrology/trine/) keeps two functions moving in step, each strengthening the other, and in [synastry aspects](/astrology/synastry-aspects/) like this one the current runs from one person to the other and back.
 
 With your Mars in the trine, you may notice you're more generous around this person and less combative: your energy goes towards things that matter to you both, and effort stops feeling like a contest. With your Neptune in it, you watch your ideas move without having to argue for them. A thought shared on a walk turns up a week later as something begun.
 

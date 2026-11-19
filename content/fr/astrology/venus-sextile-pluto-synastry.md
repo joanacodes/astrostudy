@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, 60°, parmi les aspects qu’il appelle harmonieux" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 3,6° près" }
 ---
-Certaines personnes font de la franchise un cadeau plutôt qu’une épreuve. Vénus sextile Pluton en synastrie peut en être une raison : environ 60° séparent Vénus, dans un thème, de Pluton, dans l’autre, et ce à quoi tient la première peut être regardé, gardé ou laissé partir avec l’aide de la seconde, dès que l’une ou l’autre le demande.
+Certaines personnes font de la franchise un cadeau plutôt qu’une épreuve. Vénus sextile Pluton en synastrie y contribue souvent : un sextile relie Vénus, chez une personne, à Pluton, chez l’autre, et ce à quoi tient la première peut être regardé, gardé ou laissé partir avec l’aide de la seconde, dès que l’une ou l’autre le demande.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -42,7 +42,7 @@ Si Pluton est de votre côté, votre franchise est bienvenue ici, et même appr�
 
 Un sextile propose plutôt qu’il n’insiste, si bien que la profondeur peut rester facultative pendant des années. La personne de Pluton peut garder ses intuitions pour elle de peur de s’imposer, ou taire ses propres motivations, ce qui n’est pas la même chose que la profondeur. Celle de Vénus peut garder les choses agréables, préférant l’harmonie à la conversation qui renouvellerait quelque chose. Le lien reste alors gentil, et un peu moins profond que les deux ne le voulaient. Une occasion, rappelle le sextile, demande que quelqu’un la saisisse.
 
-Sous les autres aspects, personne n’attend qu’on demande : [Vénus conjonction Pluton en synastrie](/astrology/venus-conjunct-pluto-synastry/) fait que tout compte à la fois ; [Vénus carré Pluton en synastrie](/astrology/venus-square-pluto-synastry/) transforme en friction la question de ce qu’on garde ; [Vénus trigone Pluton en synastrie](/astrology/venus-trine-pluto-synastry/) laisse la loyauté s’approfondir toute seule ; et [Vénus opposition Pluton en synastrie](/astrology/venus-opposite-pluto-synastry/) partage la légèreté et la profondeur entre deux personnes.
+Sous les autres aspects, personne n’attend qu’on demande : [Vénus conjonction Pluton en synastrie](/astrology/venus-conjunct-pluto-synastry/) fait que tout compte à la fois ; [Vénus carré Pluton en synastrie](/astrology/venus-square-pluto-synastry/) transforme en friction la question de ce qu’on garde ; [Vénus trigone Pluton en synastrie](/astrology/venus-trine-pluto-synastry/) laisse la loyauté s’approfondir d’elle-même ; et [Vénus opposition Pluton en synastrie](/astrology/venus-opposite-pluto-synastry/) partage la légèreté et la profondeur entre deux personnes.
 
 ## Comment le vivre {#comment-le-vivre}
 
@@ -50,4 +50,4 @@ Posez la vraie question de temps en temps, et convenez d’avance qu’elle peut
 
 Environ 1 paire de personnes sur 13 a ce sextile, dans un sens ou dans l’autre, à 3,6° près. La position de Pluton appartient à la génération de la personne de Pluton : elle se déplace si lentement que les personnes proches en âge en apportent presque la même. Le sextile se fait du côté de Vénus. Vénus passe d’ordinaire un degré donné en quelques jours, mais une année où elle devient rétrograde tout près, elle peut s’y attarder des semaines : ce contact tient donc au moment où la personne de Vénus est née. En une journée, l’angle change à peine, si bien que l’heure ne le menace pas ; ce qu’elle place, ce sont les maisons, et avec elles les domaines où se tiennent les conversations franches : les deux heures passent donc en premier ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-[Vénus sextile Pluton](/astrology/venus-sextile-pluto/), dans un seul thème, décrit une personne capable de renouveler ce qu’elle aime quand elle le choisit. Entre deux, le choix engage les deux personnes, et la franchise aussi.
+Chez une personne qui l’a dans son propre thème, [Vénus sextile Pluton](/astrology/venus-sextile-pluto/) décrit la capacité de renouveler ce qu’elle aime quand elle le choisit. Entre deux, le choix engage les deux personnes, et la franchise aussi.

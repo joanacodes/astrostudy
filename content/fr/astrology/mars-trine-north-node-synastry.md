@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 249
 glyph: "♂△☊"
-definition: "Mars trigone Nœud Nord en synastrie place Mars, chez une personne, en trigone au Nœud Nord de l’autre, à 5,1° près, et donc en sextile à son Nœud Sud. L’élan de l’une coule vers la croissance de l’autre, en restant ami de ses forces anciennes. J’y lis un soutien qui ressemble à une compagnie, tandis que la pratique reste l’affaire de l’autre."
+definition: "Mars trigone Nœud Nord en synastrie place Mars, chez une personne, en trigone au Nœud Nord de l’autre, à 5,1° près, et donc en sextile à son Nœud Sud. L’élan de l’une coule vers la croissance de l’autre, en restant ami de ses forces anciennes. J’y lis un soutien qui tient compagnie, la pratique restant l’affaire de l’autre."
 facts:
   - { k: "Corps", v: "Mars ♂ de l’une, le Nœud Nord ☊ de l’autre" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -20,11 +20,11 @@ facts:
 related: ["/astrology/mars", "/astrology/north-node", "/astrology/trine", "/astrology/mars-trine-north-node", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Mars trigone Nœud Nord en synastrie ?"
-    a: "En trigone au Nœud Nord de l’autre, Mars, chez l’une, est aussi en sextile à son Nœud Sud. L’élan de la personne de Mars soutient souvent la croissance de celle du nœud sans pousser, tout en restant ami de ce qu’elle fait déjà bien. L’aspect décrit un encouragement qui ressemble à une compagnie."
+    a: "En trigone au Nœud Nord de l’autre, Mars, chez l’une, forme aussi un sextile avec son Nœud Sud. L’élan de la personne de Mars soutient souvent la croissance de celle du nœud sans pousser, tout en restant ami de ce qu’elle fait déjà bien. L’aspect décrit un encouragement qui ressemble à une compagnie."
   - q: "Est-ce que Mars trigone Nœud Nord veut dire que l’une aide l’autre à grandir ?"
     a: "Ce trigone montre un soutien qui vient facilement, mais la croissance vient toujours de la pratique. La personne du nœud doit répéter, essayer, se tromper ; celle de Mars tient compagnie. Quand la personne qui aide se met à pratiquer à la place de l’autre, le trigone perd son sens."
   - q: "Quel rôle joue le Nœud Sud dans Mars trigone Nœud Nord ?"
-    a: "Des points opposés donnent des angles complémentaires : en trigone au Nœud Nord, Mars est en sextile au Nœud Sud. Cela garde les forces anciennes à portée : la personne de Mars peut encourager le nouveau sans balayer ce que celle du nœud fait déjà bien. Les deux bouts restent utiles."
+    a: "Des points opposés donnent des angles complémentaires : un trigone au Nœud Nord vaut un sextile au Nœud Sud. Cela garde les forces anciennes à portée : la personne de Mars peut encourager le nouveau sans balayer ce que celle du nœud fait déjà bien. Les deux bouts restent utiles."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, 120°, parmi ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 5,1° près, avec le nœud vrai" }
@@ -38,7 +38,7 @@ Certains soutiens ressemblent davantage à une compagnie qu’à un entraînemen
 
 Côté nœud, le moins familier devient plus facile quand cette personne est là. Elle ne pousse pas ; elle va simplement dans la même direction que vous, et s’exercer à ses côtés paraît naturel plutôt qu’exposé. Côté Mars, votre énergie trouve une direction qui lui plaît, et vous regardez quelqu’un devenir plus pleinement soi, en partie en votre compagnie. Comme Mars, chez vous, est aussi en sextile à son Nœud Sud, vous pouvez apprécier ce que cette personne fait déjà bien tout en soutenant ce qui est nouveau.
 
-Avec le Nœud Nord en Verseau, par exemple, Mars en Gémeaux ou en Balance prête une énergie sociable et bavarde au travail en groupe ; le Nœud Sud en Lion, en sextile à Mars, garde à portée le plaisir de se distinguer sans en faire le but.
+Avec le Nœud Nord en Capricorne, par exemple, Mars en Taureau ou en Vierge prête un effort régulier et pratique à la construction d’un rôle public ; le Nœud Sud en Cancer, en sextile à Mars, garde à portée le confort du foyer sans le laisser tout retenir.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
@@ -57,6 +57,6 @@ Autour du trigone, le reste de la paire :
 
 Laissez la personne du nœud faire les répétitions. Celle de Mars peut tenir compagnie, demander où on en est, fêter les petits progrès, et résister à l’envie de prendre la main. Nommez la chose nouvelle qu’on pratique, pour que l’aisance ne la brouille pas. Des partenaires d’entraînement, une personne qui en forme une autre au travail, des amis qui apprennent une langue ensemble, un couple où quelqu’un se reconvertit : tous conviennent à ce trigone.
 
-Avec le nœud vrai, environ 1 paire de personnes sur 9 a ce trigone, dans un sens ou dans l’autre, à 5,1° près ; je lis le nœud moyen à côté, et je dis quand les deux se séparent au bord de l’orbe. Une position du Nœud Nord est commune à toutes les personnes nées à quelques mois d’intervalle, puisque le nœud met environ 18 mois à reculer à travers un signe ; Mars, chez l’autre, réduit cela à vous deux. Les maisons, là où la croissance se fait, demandent les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Avec le nœud vrai, environ 1 paire de personnes sur 9 a ce trigone, dans un sens ou dans l’autre, à 5,1° près ; je lis le nœud moyen à côté, et je dis quand les deux se séparent au bord de l’orbe. Une position du Nœud Nord est la même, à peu de chose près, pour tout un trimestre de naissances, puisqu’un signe retient le nœud environ 18 mois ; Mars, chez l’autre, réduit cela à vous deux. Les maisons, là où la croissance se fait, demandent les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 [Mars trigone Nœud Nord](/astrology/mars-trine-north-node/), chez une seule personne, accorde l’effort et la croissance. Entre deux, cela marche tant que la personne qui aide ne devient jamais celle qui grandit.

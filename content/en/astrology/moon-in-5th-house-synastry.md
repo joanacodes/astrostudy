@@ -34,7 +34,7 @@ Their Moon in your 5th house makes fun feel safe. Another person's feelings find
 
 For you, the effect is often permission. You can be silly, affectionate or creative around them without feeling foolish, and they respond to what you make or suggest with real warmth. Romance, when it's there, tends to have tenderness in it as well as spark.
 
-For them, your sense of fun can be a refuge. Playing with you, laughing with you, being taken out of themselves for an afternoon soothes something, and they may show their care through treats, surprises and small pleasures. The 5th is succedent, the place where what feels safe at home grows into enjoyment, and [Leo](/astrology/leo/), warm and generous, is its natural sign. Tradition called it Good Fortune and placed the joy of Venus there.
+For them, your sense of fun can be a refuge. Playing with you, laughing with you, being taken out of themselves for an afternoon soothes something, and they may show their care through treats, surprises and small pleasures. The 5th is succedent, the place where what feels safe at home grows into enjoyment, and [Leo](/astrology/leo/), warm and generous, is its natural sign. Good Fortune was its old name, and Venus has its joy there.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -42,7 +42,7 @@ A bond that comforts through play can struggle when there's nothing to play abou
 
 From their side, your playfulness can sometimes seem to skip over what they feel. They want to be taken seriously in the middle of the fun, and a joke at the wrong moment can land as a refusal to listen.
 
-Tradition gave the 5th children, and the Moon is the planet of nurture, so it's tempting to see a family in this overlay. I don't: whether and when anyone has a child is beyond any chart ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and I don't read [children's charts](/astrology/childrens-charts/) at all. What I read is two adults' tenderness and play.
+Tradition gave the 5th children, and the Moon is the planet of nurture, so it's tempting to see a family in this overlay. I don't: whether and when anyone has a child is beyond any chart ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and [children's charts](/astrology/childrens-charts/) are not something I read. Here I look at two adults' tenderness and play.
 
 ## How to meet it {#how-to-meet-it}
 

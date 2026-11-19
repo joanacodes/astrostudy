@@ -31,7 +31,7 @@ Le Soleil de l’autre dans votre maison 12 est la superposition la plus diffici
 
 ## Ce que ça apporte {#ce-que-ca-apporte}
 
-La [maison 12](/astrology/12th-house/) est la fin silencieuse d’un thème, la portion juste avant l’ascendant : la solitude et la retraite, la récupération, les soins donnés ou reçus sans être vus, le travail fait en coulisses, et les parts de vous que vous apprenez encore à connaître. Le [Soleil](/astrology/sun/) est le centre vivant d’une personne, le moi qu’elle cherche à mettre en lumière. Avec son Soleil dans cette maison, la [superposition de maisons](/astrology/house-overlays/) fait tomber cette lumière sur ce que vous montrez rarement.
+La [maison 12](/astrology/12th-house/) est la fin silencieuse d’un thème, la portion juste avant l’ascendant : la solitude et la retraite, la récupération, les soins donnés ou reçus sans être vus, le travail fait en coulisses, et ces côtés de vous que vous n’avez pas encore rencontrés. Le [Soleil](/astrology/sun/) est le centre vivant d’une personne, le moi qu’elle cherche à mettre en lumière. Avec son Soleil dans cette maison, la [superposition de maisons](/astrology/house-overlays/) fait tomber cette lumière sur ce que vous montrez rarement.
 
 Avec cette personne, vous avez peut-être le sentiment qu’elle vous connaît d’une façon difficile à expliquer : familière dès le début, comme si elle avait vu la pièce que vous gardez pour vous. Le temps passé ensemble peut reposer, une retraite plus qu’une sortie, et vous pensez peut-être à elle dans les heures calmes plus que vous n’en parlez en société. C’est une maison cadente, où un tour des maisons se dénoue avant que le suivant commence, et les [Poissons](/astrology/pisces/) sont son signe par nature, poreux et bienveillants.
 

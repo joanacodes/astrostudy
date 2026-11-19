@@ -2,7 +2,7 @@
 title: "Mars trigone Chiron en synastrie"
 slug: "mars-trigone-chiron-synastrie"
 h1: "Mars trigone Chiron entre deux thèmes"
-description: "Mars trigone Chiron en synastrie : l’élan de l’une rejoint le point sensible de l’autre sans appuyer dessus. Les deux côtés, ce que cache l’aisance."
+description: "Mars trigone Chiron en synastrie : l’élan de l’une s’approche du point sensible de l’autre et sait se faire doux. Les deux côtés, ce que l’aisance cache."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -32,7 +32,7 @@ Il existe un soutien qui n’a jamais besoin d’explication. Avec Mars trigone 
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Mars](/astrology/mars/) met une personne en mouvement : le premier pas, l’effort régulier, l’envie de se mesurer et de défendre ce qui est à elle. [Chiron](/astrology/chiron/) montre où elle a dû contourner une limite durable, et ce que cela lui a appris. Par un [trigone](/astrology/trine/), deux fonctions gardent leur caractère et s’aident mutuellement, et dans le vocabulaire des [aspects de synastrie](/astrology/synastry-aspects/), celui-ci associe l’élan et l’adaptation sans friction.
+[Mars](/astrology/mars/) met une personne en mouvement : le premier pas, l’effort régulier, le goût de se mesurer, la défense de son bien. [Chiron](/astrology/chiron/) montre où elle a dû contourner une limite durable, et ce que cela lui a appris. Par un [trigone](/astrology/trine/), deux fonctions gardent leur caractère et s’aident mutuellement, et dans le vocabulaire des [aspects de synastrie](/astrology/synastry-aspects/), celui-ci associe l’élan et l’adaptation sans friction.
 
 Côté Mars, vous ajustez votre poussée presque d’instinct auprès de cette personne : vous suggérez au lieu d’insister, vous avancez pas à pas, et cela vous plaît aussi. Vous empruntez peut-être ses méthodes, le rythme ou les outils qu’elle a mis au point, et vous tenez plus longtemps grâce à eux. Côté Chiron, vous trouvez une compagnie rare : quelqu’un qui vous soutient jusque dans les choses qui vous retenaient autrefois, et qui sait quand vous laisser faire.
 

@@ -50,7 +50,7 @@ Le même duo, à d’autres angles :
 - **[Mars conjonction Chiron en synastrie](/astrology/mars-conjunct-chiron-synastry/) :** pas de miroir, un seul point de rencontre, où le rythme devient tout.
 - **[Mars sextile Chiron en synastrie](/astrology/mars-sextile-chiron-synastry/) :** quatre signes plus près, un échange de coups de pouce et de méthodes, sur demande.
 - **[Mars carré Chiron en synastrie](/astrology/mars-square-chiron-synastry/) :** à un quart de tour, là où la poussée accroche le point sensible de côté.
-- **[Mars trigone Chiron en synastrie](/astrology/mars-trine-chiron-synastry/) :** un soutien qui coule dans un même élément, sans rien à refléter.
+- **[Mars trigone Chiron en synastrie](/astrology/mars-trine-chiron-synastry/) :** un soutien porté par un même élément, sans rien à refléter.
 
 ## Comment le vivre {#comment-le-vivre}
 

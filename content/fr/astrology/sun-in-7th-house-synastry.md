@@ -35,7 +35,7 @@ La [maison 7](/astrology/7th-house/) est celle de la personne assise en face : 
 
 De votre côté, cette personne compte souvent très tôt : vous la prenez au sérieux, d’égal à égal, parce que sa direction semble répondre à quelque chose que vous attendiez. La maison 7 contient souvent des qualités plus faciles à voir chez quelqu’un d’autre qu’en vous : cette personne peut donc ressembler à l’incarnation de ce que vous voulez, ou de ce que vous ne vous êtes jamais tout à fait permis. La maison est angulaire, si bien que ce qu’elle contient se voit, et la [Balance](/astrology/libra/) lui correspond dans le zodiaque naturel : la mesure, le sens de la justice, le goût de la compagnie.
 
-Pour l’autre, le lien avec vous peut être l’endroit où son but devient net. Cette personne se sent rencontrée d’égal à égal, et l’idée qu’elle a d’elle-même s’éclaircit de vous avoir en face. Si son Soleil se trouve pile sur votre [descendant](/astrology/descendant/), le degré qui se couchait à l’ouest à votre naissance, il rencontre le cadre à travers lequel vous voyez toute autre personne, et je lis ce contact avec la superposition.
+Pour l’autre, le lien avec vous peut être l’endroit où son but devient net. Cette personne se sent rencontrée d’égal à égal, et l’idée qu’elle a d’elle-même s’éclaircit de vous avoir en face. Si son Soleil se trouve pile sur votre [descendant](/astrology/descendant/), le point qui se couchait sur l’horizon ouest à l’heure de votre naissance, il rencontre le cadre à travers lequel vous voyez toute autre personne, et je lis ce contact avec la superposition.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

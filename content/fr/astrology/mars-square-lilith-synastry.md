@@ -33,17 +33,17 @@ L’une pousse ; le non de l’autre arrive par le côté. Avec Mars carré Li
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Mars](/astrology/mars/) est l’affirmation en mouvement : l’envie de commencer, de se mesurer, d’aller chercher quelque chose et de défendre une limite. La [Lune noire Lilith](/astrology/black-moon-lilith/), point calculé plutôt qu’astre, se lit différemment d’une tradition à l’autre ; pour moi, elle représente le gouvernement de soi par l’instinct, ce qu’on a un jour demandé à une personne de laisser de côté, et des limites que personne d’autre n’a à tracer. Un [carré](/astrology/square/) frotte deux fonctions l’une contre l’autre jusqu’à ce que quelque chose s’adapte, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), celui-ci fait des limites le sujet même.
+[Mars](/astrology/mars/) est l’affirmation en mouvement : l’envie de commencer, de se mesurer, de poursuivre un but et de garder une limite. La [Lune noire Lilith](/astrology/black-moon-lilith/), point calculé plutôt qu’astre, se lit différemment d’une tradition à l’autre ; pour moi, elle représente le gouvernement de soi par l’instinct, ce qu’on a un jour demandé à une personne de laisser de côté, et des limites que personne d’autre n’a à tracer. Un [carré](/astrology/square/) frotte deux fonctions l’une contre l’autre, et quelque chose finit par s’adapter ; et parmi les [aspects de synastrie](/astrology/synastry-aspects/), celui-ci fait des limites le sujet même.
 
 Ce que la friction peut donner, c’est de la clarté. La personne de Mars apprend où se trouvent vraiment les limites de l’autre, et qu’un non n’est pas un obstacle mais une information. Celle de Lilith apprend à dire ce non simplement et tôt, sans en faire une bataille. Les paires qui ont ce carré finissent souvent avec des accords d’une clarté rare, parce qu’elles ont dû les passer.
 
-Les signes partagent en général un mode. Dans les signes fixes, par exemple Mars en Taureau carré Lilith en Lion, personne ne veut céder de terrain ; dans les signes mutables, comme Mars en Vierge carré Lilith en Gémeaux, la poussée et le refus changent sans cesse de forme.
+Les signes partagent en général un mode. Si les deux sont en signes fixes, Mars en Taureau carré Lilith en Lion par exemple, personne ne veut céder de terrain ; dans les signes mutables, comme Mars en Vierge carré Lilith en Gémeaux, la poussée et le refus changent sans cesse de forme.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
 Côté Mars, votre initiative rencontre sans cesse un refus que vous n’aviez pas vu venir. Vous proposez, vous planifiez, vous poussez, et l’autre s’arc-boute ou se dérobe. On a vite fait de le prendre personnellement, ou de pousser plus fort pour passer.
 
-Côté Lilith, la poussée de l’autre peut ressembler à une façon de vous diriger, ou de vous mettre au défi : une invitation à faire les choses à sa manière qui tombe exactement sur la part de vous qui refuse les ordres. On refuse vite par réflexe, même quand l’idée vous aurait plu.
+Côté Lilith, la poussée de l’autre peut ressembler à une façon de vous diriger, ou de vous mettre au défi : une invitation à faire les choses à sa manière qui tombe exactement sur le côté de vous qui ne supporte pas les ordres. On refuse vite par réflexe, même quand l’idée vous aurait plu.
 
 Le même frottement peut fasciner autant qu’agacer, et aucun de ces sentiments n’est un verdict. Rien d’un échec dans cette friction, et personne n’y joue le rôle du méchant : s’affirmer n’est pas agresser, et refuser n’est pas rejeter.
 

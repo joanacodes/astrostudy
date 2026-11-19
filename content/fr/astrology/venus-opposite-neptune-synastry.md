@@ -2,7 +2,7 @@
 title: "Vénus opposition Neptune en synastrie"
 slug: "venus-opposition-neptune-synastrie"
 h1: "Vénus opposition Neptune entre deux thèmes"
-description: "Vénus opposition Neptune en synastrie : l’une porte le rêve, l’autre les détails. Les deux bouts de la balançoire, et comment garder les deux en vue."
+description: "Vénus opposition Neptune en synastrie : le rêve chez l’une, les détails chez l’autre. Les deux côtés, et comment garder l’un et l’autre en vue."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’opposition, 180°, parmi les quatre aspects qu’il décrit" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6° près" }
 ---
-Dans certaines paires, l’une porte le rêve et l’autre les détails. Vénus opposition Neptune en synastrie installe souvent ce partage : environ 180° séparent la Vénus de l’une et Neptune chez l’autre, et ce que l’on préfère concrètement fait face à ce que l’on imagine.
+Dans certaines paires, l’une porte le rêve et l’autre les détails. Vénus opposition Neptune en synastrie installe souvent ce partage : la Vénus de l’une et Neptune chez l’autre se tiennent aux deux bouts du zodiaque, et ce que l’on préfère concrètement fait face à ce que l’on imagine.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -42,7 +42,7 @@ Si Vénus est de votre côté, vous tenez peut-être le bout pratique à chaque 
 
 Si Neptune est de votre côté, vous tenez peut-être le rêve : ce que le lien pourrait devenir, la bonté qu’il pourrait porter. Votre sensibilité peut sembler pesée contre les préférences de l’autre et jugée peu pratique. La tentation est de donner plus que vous n’avez, parce que donner ressemble à aimer ; mais se donner avec compassion ne veut pas dire s’effacer. Plus l’une rêve, plus l’autre corrige, et inversement. Une opposition est une balançoire, jamais une inimitié : aucun bout ne fonctionne sans l’autre.
 
-Les autres aspects de la paire partagent autrement le rêve et les détails :
+Ailleurs dans la paire, le rêve et les détails se répartissent autrement :
 
 - **[Vénus conjonction Neptune en synastrie](/astrology/venus-conjunct-neptune-synastry/) :** le rêve et les détails fondus dans un même monde partagé.
 - **[Vénus sextile Neptune en synastrie](/astrology/venus-sextile-neptune-synastry/) :** l’imagination mise à profit quand l’une des deux nomme un projet.

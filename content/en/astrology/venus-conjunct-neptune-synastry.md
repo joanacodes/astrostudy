@@ -34,7 +34,7 @@ Some pairs build a small world of their own, with its own music. Venus conjunct 
 
 [Venus](/astrology/venus/) is a person's taste and their way of being fond: what they find lovely, what they'd keep, how they make an exchange feel even. [Neptune](/astrology/neptune/) reaches past the visible: compassion, imagination, a sense of meaning beyond the everyday. A [conjunction](/astrology/conjunction/) makes one current of the two, and this one of the [synastry aspects](/astrology/synastry-aspects/) sends that current through two people at once.
 
-If the Venus is yours, your tastes are met with imagination. The Neptune person finds more in what you love than you'd noticed: a song you like becomes a memory you share, a place you mention becomes somewhere you both return to. Being appreciated this way can feel like being understood without having to explain.
+If the Venus is yours, imagination meets your tastes. The Neptune person finds more in what you love than you'd noticed: a song you like becomes a memory you share, a place you mention becomes somewhere you both return to. Being appreciated this way can feel like being understood without having to explain.
 
 If the Neptune is yours, your imagination and compassion finally have somewhere to land. This person gives your dreams a form, choosing the colours, the table, the music, and their pleasure in it makes the dream real enough to live in. Your kindness is enjoyed rather than overlooked.
 

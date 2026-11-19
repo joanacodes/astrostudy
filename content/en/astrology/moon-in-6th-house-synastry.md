@@ -19,7 +19,7 @@ faq:
   - q: "What does their Moon in my 6th house mean in synastry?"
     a: "Their feelings and needs find a place in your daily routines, work and habits. They tend to feel safe in the rhythm of your days, and you may feel cared for in practical, everyday ways: a meal made, a task shared, a reminder given. It can show between people who live or work side by side."
   - q: "Can their Moon in my 6th house say anything about my health?"
-    a: "No chart can, and this one doesn’t try. The 6th was once the house of illness; today I read it as daily care and routine, and here it shows how those flow between you. For any worry about your health, a doctor is the right person to ask."
+    a: "No chart can, and this one doesn’t try. The 6th was once the house of illness; today I read it as daily care and routine, and here it shows how those flow between you. Any worry about your health is one to take to a doctor."
   - q: "What does my Moon in their 6th house mean for me?"
     a: "Their routines and steady days may calm you, and helping them can feel like a natural way to show care. Watch that your care doesn’t turn into running their life for them, and that they know your help is a gift, not a duty."
 sources:
@@ -30,7 +30,7 @@ Their Moon in your 6th house shows up in small, practical kindnesses. Another pe
 
 ## What it brings {#what-it-brings}
 
-[The 6th house](/astrology/6th-house/) is the shape of an ordinary day: the work you actually do, your habits and routines, the people beside you, and the way you look after your body through sleep, food, movement and rest. The [Moon](/astrology/moon/) is a person's need for comfort and the habits that keep them steady, so it is at home among routines. In this [house overlay](/astrology/house-overlays/), their need for steadiness meets the rhythm of your days.
+[The 6th house](/astrology/6th-house/) covers your ordinary days: the work you actually do, your habits and routines, the people beside you, and the way you look after your body through sleep, food, movement and rest. The [Moon](/astrology/moon/) is a person's need for comfort and the habits that keep them steady, so it is at home among routines. In this [house overlay](/astrology/house-overlays/), their need for steadiness meets the rhythm of your days.
 
 For you, the effect is often being looked after without any fuss. They notice when you've skipped lunch, remember the appointment you forgot, or simply make the working day kinder by being in it. You may find your routines steadier, and some of them more pleasant, because they're shared.
 

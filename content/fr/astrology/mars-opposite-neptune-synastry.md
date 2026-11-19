@@ -32,11 +32,11 @@ Dans certaines paires, l’une tient l’agenda et l’autre tient le rêve. Ave
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Mars](/astrology/mars/) fait avancer une personne : l’initiative, l’effort, l’affirmation, une limite tenue. [Neptune](/astrology/neptune/) lui fait voir au-delà des bords : l’imagination, la compassion, les idéaux, le sentiment de quelque chose de plus grand. De part et d’autre d’une [opposition](/astrology/opposition/), les deux fonctions se font face, et chacune se voit mieux ainsi que côte à côte ; parmi les [aspects de synastrie](/astrology/synastry-aspects/) de la paire, c’est celui où chaque personne tient le plus visiblement ce que l’autre pratique moins.
+[Mars](/astrology/mars/) fait avancer une personne : l’initiative, l’effort, l’affirmation, une limite tenue. [Neptune](/astrology/neptune/) lui fait voir au-delà des bords : l’imagination, la compassion, les idéaux, l’intuition d’un tout plus vaste. De part et d’autre d’une [opposition](/astrology/opposition/), les deux fonctions se tiennent en vis-à-vis, et chacune se voit mieux ainsi que côte à côte ; parmi les [aspects de synastrie](/astrology/synastry-aspects/) de la paire, c’est celui où chaque personne tient le plus visiblement ce que l’autre pratique moins.
 
 Face à Mars, chez vous, Neptune chez l’autre peut vous rappeler pourquoi l’effort compte : cette personne voit le sens de ce que vous faites, parfois avant vous. Face à Neptune, chez vous, Mars chez l’autre vous montre à quoi ressemblent vos idéaux une fois que quelqu’un agit dessus. Ensemble, vous pouvez couvrir beaucoup de terrain, l’une rêvant la suite, l’autre la mettant en route.
 
-Des signes qui se font face avancent de la même manière et ont des éléments qui comblent les manques l’un de l’autre. Mars en Taureau opposition Neptune en Scorpion, deux signes fixes : un effort régulier et pratique face à un idéal de profondeur. Mars en Gémeaux opposition Neptune en Sagittaire, deux signes mutables : un élan vif et polyvalent face à un rêve de grands horizons.
+Deux signes en vis-à-vis avancent de la même manière, et leurs éléments comblent les manques l’un de l’autre. Mars en Taureau opposition Neptune en Scorpion, deux signes fixes : un effort régulier et pratique face à un idéal de profondeur. Mars en Gémeaux opposition Neptune en Sagittaire, deux signes mutables : un élan vif et polyvalent face à un rêve de grands horizons.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
@@ -46,7 +46,7 @@ Chacune peut aussi mal lire l’autre bout. Vu du côté de Neptune, l’élan d
 
 Mesurés depuis cette polarité, les quatre autres contacts :
 
-- **[Mars conjonction Neptune en synastrie](/astrology/mars-conjunct-neptune-synastry/) :** celle qui fait et celle qui rêve se tiennent au même endroit, plus proches et plus difficiles à distinguer.
+- **[Mars conjonction Neptune en synastrie](/astrology/mars-conjunct-neptune-synastry/) :** celle qui fait et celle qui rêve se tiennent au même endroit, plus proches, et plus floues.
 - **[Mars sextile Neptune en synastrie](/astrology/mars-sextile-neptune-synastry/) :** quatre signes plus près, les deux s’entraident simplement quand on le demande.
 - **[Mars carré Neptune en synastrie](/astrology/mars-square-neptune-synastry/) :** à un quart de zodiaque, les rôles cèdent la place à des attentes croisées.
 - **[Mars trigone Neptune en synastrie](/astrology/mars-trine-neptune-synastry/) :** l’élan et l’imaginaire partagent un élément et coulent ensemble, sans rôles à répartir.

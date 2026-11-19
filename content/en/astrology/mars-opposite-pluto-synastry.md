@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 235
 glyph: "♂☍♇"
-definition: "Mars opposite Pluto in synastry means one person’s Mars and the other’s Pluto are 180° apart, within 6°. Each meets in the other a strength they use less, directness in one, depth in the other, so the pair keeps working out a balance of power. I read it as a seesaw two adults can share, never as enmity."
+definition: "Mars opposite Pluto in synastry means one person’s Mars and the other’s Pluto are 180° apart, within 6°. Each meets in the other a strength they use less, directness in one, depth in the other, so the pair keeps working out a balance of power. To me it's a seesaw two adults can share, never enmity."
 facts:
   - { k: "Bodies", v: "One person’s Mars ♂, the other’s Pluto ♇" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }

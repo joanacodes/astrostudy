@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 189
 glyph: "♀△♆"
-definition: "Vénus trigone Neptune en synastrie signifie que Vénus, chez une personne, se trouve à environ 120° de Neptune chez l’autre, à 5,1° près. Ce que la première aime et l’imagination compatissante de la seconde vont au même pas : la douceur et le pardon viennent facilement. J’y lis une vraie tendresse, à vérifier de temps en temps pour l’équilibre."
+definition: "Vénus trigone Neptune en synastrie signifie que Vénus, chez une personne, se trouve à environ 120° de Neptune chez l’autre, à 5,1° près. L’imagination compatissante de la seconde suit le pas de ce que la première aime : la douceur et le pardon viennent facilement. J’y lis une vraie tendresse, à vérifier de temps en temps pour l’équilibre."
 facts:
   - { k: "Corps", v: "Vénus ♀ de l’une, Neptune ♆ de l’autre" }
   - { k: "Aspect", v: "Trigone △, 120°" }

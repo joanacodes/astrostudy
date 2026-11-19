@@ -20,9 +20,9 @@ facts:
 related: ["/astrology/mars", "/astrology/north-node", "/astrology/conjunction", "/astrology/mars-conjunct-north-node", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Mars conjonction Nœud Nord en synastrie ?"
-    a: "Mars, chez l’une, se trouve sur le Nœud Nord de l’autre, à 6° près, et fait donc face à son Nœud Sud. L’élan de la première rencontre le savoir-faire peu familier que la seconde est en train de bâtir, et l’éloigne de ce qu’elle fait déjà par réflexe. Ce contact stimule souvent la croissance quand la personne du nœud garde la main sur le rythme."
-  - q: "Est-ce que Mars conjonction Nœud Nord veut dire que nous devions nous rencontrer ?"
-    a: "Je ne le lis pas ainsi. Le Nœud Nord montre une direction qui récompense la pratique, rien de plus figé, et ce contact montre l’énergie de quelqu’un d’autre qui y arrive. Il peut sembler chargé de sens, et ce sens, ce sont les deux personnes qui le font, pas le thème qui le leur donne."
+    a: "Mars, chez l’une, occupe le degré du Nœud Nord de l’autre, à 6° près, et fait donc face à son Nœud Sud. L’élan de la première rencontre le savoir-faire nouveau que bâtit la seconde, loin de ce qu’elle fait déjà par réflexe. Ce contact stimule souvent la croissance quand la personne du nœud garde la main sur le rythme."
+  - q: "Est-ce que Mars conjonction Nœud Nord rend une relation à part ?"
+    a: "Cela peut en donner l’impression, puisque l’énergie de l’une tombe sur le chemin de croissance de l’autre. Je n’y lis pas un destin : le Nœud Nord montre une direction qui récompense la pratique, rien de plus figé, et le sens, ce sont les deux personnes qui le font, pas le thème qui le leur donne."
   - q: "Mars conjonction Nœud Nord, pourquoi ça peut sembler insistant ?"
     a: "Parce que l’énergie de la personne de Mars tombe exactement sur ce que l’autre connaît le moins, et que la pratique y est d’abord lente et maladroite. L’encouragement peut basculer en pression. Quand la personne du nœud choisit le rythme et que celle de Mars propose au lieu d’insister, la même énergie aide."
 sources:
@@ -38,13 +38,13 @@ Imaginez une personne amie qui répète « tu devrais essayer » à propos de 
 
 Si le nœud est à vous, la chose peu familière que vous pratiquez trouve un moteur. Avec cette personne, vous essayez plus tôt et plus souvent : le rôle autour duquel vous tourniez, l’habitude que vous vouliez prendre, la façon de prendre la parole que vous ne trouvez jamais sans aide. Si Mars est à vous, votre initiative trouve un usage qui compte pour quelqu’un d’autre, et vous aimerez peut-être être la raison pour laquelle cette personne ose enfin passer la première.
 
-Les signes donnent son sujet à la croissance. Avec le Nœud Nord en Lion, la poussée va souvent vers le fait de s’avancer et de se montrer ; avec le Nœud Nord en Gémeaux, vers la curiosité et les questions, là où l’ancienne habitude était la certitude. Dans les deux cas, l’élan de la personne de Mars va justement dans cette direction.
+Les signes donnent son sujet à la croissance. Avec le Nœud Nord en Sagittaire, la poussée va souvent vers le fait de défendre ce qu’on croit, plutôt que de rassembler encore des faits ; avec le Nœud Nord en Gémeaux, vers la curiosité et les questions, là où l’ancienne habitude était la certitude. Dans les deux cas, l’élan de la personne de Mars va justement dans cette direction.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Une croissance pratiquée grâce à l’énergie de quelqu’un d’autre peut devenir son projet. La personne de Mars peut se mettre à régler le rythme du développement de l’autre, impatiente de la lenteur avec laquelle une capacité nouvelle se construit. Celle du nœud peut se sentir poussée hors de son terrain familier avant d’être prête, puisque Mars, chez l’autre, fait aussi face à son Nœud Sud. La difficulté ne prouve pas qu’un pas est le bon, et il n’y a pas d’examen à rater.
+Une croissance pratiquée grâce à l’énergie de quelqu’un d’autre peut devenir son projet. Il arrive que la personne de Mars veuille régler le rythme du développement de l’autre, impatiente de la lenteur avec laquelle une capacité nouvelle se construit. Celle du nœud peut se sentir poussée hors de son terrain familier avant d’être prête, puisque Mars, chez l’autre, fait aussi face à son Nœud Sud. La difficulté ne prouve pas qu’un pas est le bon, et il n’y a pas d’examen à rater.
 
-[Vénus conjonction Nœud Nord en synastrie](/astrology/venus-conjunct-north-node-synastry/) apporte de l’affection au même bord de croissance ; celle-ci apporte de l’effort, et l’effort peut prendre trop de place. Les autres angles de la paire :
+[Vénus conjonction Nœud Nord en synastrie](/astrology/venus-conjunct-north-node-synastry/) apporte de l’affection au même bord de croissance ; celle-ci apporte de l’effort, et l’effort peut prendre trop de place. Le reste de la paire :
 
 - **[Mars sextile Nœud Nord en synastrie](/astrology/mars-sextile-north-node-synastry/) :** une ouverture plus petite vers la croissance, avec un chemin de retour plus facile.
 - **[Mars carré Nœud Nord en synastrie](/astrology/mars-square-north-node-synastry/) :** la poussée traverse l’axe au lieu de tomber sur l’un de ses bouts.
@@ -55,6 +55,6 @@ Une croissance pratiquée grâce à l’énergie de quelqu’un d’autre peut d
 
 Laissez la personne du nœud fixer le rythme et choisir l’étape suivante. Celle de Mars peut offrir de la compagnie, une échéance, un trajet jusqu’à la première séance, puis s’effacer. Une pratique modeste et répétée vaut mieux qu’un grand saut héroïque. Entre collègues, ce peut être quelqu’un qui encadre et sait s’arrêter ; en couple, la personne qui réserve le cours et laisse l’autre décider d’y aller ou non.
 
-Avec le nœud vrai, environ 1 paire de personnes sur 15 a cette conjonction, dans un sens ou dans l’autre, à 6° près. Je lis le nœud moyen à côté ; comme les deux positions ne s’écartent jamais de plus de deux degrés environ, seul un contact au bord de l’orbe peut apparaître avec l’un et pas avec l’autre ([Nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). Le nœud recule à travers chaque signe en environ 18 mois : un Nœud Nord à quelques degrés de celui de cette personne est donc partagé par toutes celles nées quelques mois avant ou après ; Mars, qui avance d’un signe toutes les six ou sept semaines, distingue cette paire-là. Les maisons, là où la croissance est attendue, exigent les deux heures de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Avec le nœud vrai, environ 1 paire de personnes sur 15 a cette conjonction, dans un sens ou dans l’autre, à 6° près. Je lis le nœud moyen à côté ; comme les deux positions ne s’écartent jamais de plus de deux degrés environ, seul un contact au bord de l’orbe peut apparaître avec l’un et pas avec l’autre ([Nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). Le nœud recule à travers chaque signe en environ 18 mois : un Nœud Nord à quelques degrés de celui de cette personne est donc partagé par toutes celles nées quelques mois avant ou après ; Mars, qui met six ou sept semaines à traverser un signe, distingue cette paire-là. Les maisons, là où la croissance est attendue, exigent les deux heures de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-[Mars conjonction Nœud Nord](/astrology/mars-conjunct-north-node/), dans un seul thème, fait de l’action la leçon elle-même. Entre deux, l’une agit et l’autre grandit, et la croissance doit rester à celle qui grandit.
+[Mars conjonction Nœud Nord](/astrology/mars-conjunct-north-node/) fait de l’action la leçon elle-même quand il n’y a qu’un seul thème. Entre deux, l’une agit et l’autre grandit, et la croissance doit rester à celle qui grandit.

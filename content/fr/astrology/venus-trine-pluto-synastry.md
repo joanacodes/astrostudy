@@ -2,7 +2,7 @@
 title: "Vénus trigone Pluton en synastrie"
 slug: "venus-trigone-pluton-synastrie"
 h1: "Vénus trigone Pluton entre deux thèmes"
-description: "Vénus trigone Pluton en synastrie : la profondeur et l’estime viennent facilement entre deux personnes. Les deux côtés, ce qui reste tu quand tout est facile."
+description: "Vénus trigone Pluton en synastrie : la profondeur et l’estime viennent facilement à deux. Les deux côtés, et ce qui reste tu quand tout est facile."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -21,14 +21,14 @@ faq:
   - q: "Que veut dire Vénus trigone Pluton en synastrie ?"
     a: "Vénus, chez une personne, forme un trigone avec Pluton chez l’autre, les deux partageant en général un élément. L’estime de la personne de Vénus rend la profondeur de l’autre bienvenue, et la personne de Pluton aide ce qu’estime la première à se renforcer. L’aspect décrit une franchise et une loyauté qui viennent facilement, quel que soit le lien."
   - q: "Est-ce que Vénus trigone Pluton est un lien durable ?"
-    a: "Je ne lis aucun aspect comme une prévision de la durée d’un lien. Ce trigone décrit une profondeur qui vient sans grand combat, ce qui peut aider deux personnes à traverser des changements. Rester proches dépend d’elles, du reste des deux thèmes, et de la vie."
+    a: "Aucun aspect, pour moi, ne prévoit la durée d’un lien. Ce trigone décrit une profondeur qui vient sans grand combat, ce qui peut aider deux personnes à traverser des changements. Rester proches dépend d’elles, du reste des deux thèmes, et de la vie."
   - q: "Qu’est-ce qui peut passer inaperçu avec Vénus trigone Pluton ?"
     a: "Surtout ce qui ne se dit jamais. Comme la compréhension vient facilement, la paire peut s’y fier au lieu des mots, garder trop longtemps pour soi ce qui est privé, ou attendre les grands changements et manquer les petits. Dire à voix haute, de temps en temps, ce que vous estimez garde la profondeur partagée."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, 120°, qu’il range avec le sextile parmi les aspects harmonieux" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 5,1° près" }
 ---
-Certaines paires peuvent parler de tout, y compris de ce qu’elles préféreraient taire. Vénus trigone Pluton en synastrie y est souvent pour quelque chose : Vénus, chez une personne, et Pluton, chez l’autre, sont en trigone, le plus souvent depuis des signes d’un seul élément, et ce qu’estime la première trouve facilement sa place dans la profondeur de la seconde.
+Certaines paires peuvent parler de tout, y compris de ce qu’elles préféreraient taire. Vénus trigone Pluton en synastrie y est souvent pour quelque chose : un trigone relie Vénus, dans le thème d’une personne, à Pluton, dans celui de l’autre, le plus souvent depuis des signes d’un seul élément, et ce qu’estime la première trouve facilement sa place dans la profondeur de la seconde.
 
 ## Ce qui circule {#ce-qui-circule}
 

@@ -46,7 +46,7 @@ Les quatre autres contacts de la paire disposent autrement les mêmes bouts :
 - **[Vénus conjonction Saturne en synastrie](/astrology/venus-conjunct-saturn-synastry/) :** la sortie et l’agenda au même endroit, sans balançoire.
 - **[Vénus sextile Saturne en synastrie](/astrology/venus-sextile-saturn-synastry/) :** deux bouts qui coopèrent dès qu’on les y invite.
 - **[Vénus carré Saturne en synastrie](/astrology/venus-square-saturn-synastry/) :** un quart de tour, où l’on discute des conditions plutôt que des rôles.
-- **[Vénus trigone Saturne en synastrie](/astrology/venus-trine-saturn-synastry/) :** le plaisir et la prudence dans un même élément, si bien que personne n’en porte qu’un.
+- **[Vénus trigone Saturne en synastrie](/astrology/venus-trine-saturn-synastry/) :** constance et plaisir réunis dans un même élément, si bien que personne n’en porte qu’un.
 
 ## Comment le vivre {#comment-le-vivre}
 

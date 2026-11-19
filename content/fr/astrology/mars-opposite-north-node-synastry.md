@@ -2,7 +2,7 @@
 title: "Mars opposition Nœud Nord en synastrie"
 slug: "mars-opposition-noeud-nord-synastrie"
 h1: "Mars opposition Nœud Nord entre deux thèmes"
-description: "Mars opposition Nœud Nord en synastrie : l’élan de l’une tombe sur le Nœud Sud de l’autre, son terrain familier. Les deux côtés, les deux nœuds, sa fréquence."
+description: "Mars opposition Nœud Nord en synastrie : l’élan de l’une tombe sur le terrain familier de l’autre, son Nœud Sud. Les deux côtés, les deux nœuds, sa fréquence."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -30,11 +30,11 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6° près, avec le nœud vrai" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai" }
 ---
-L’élan de l’une tombe sur le terrain de l’autre. Avec Mars opposition Nœud Nord en synastrie, Mars, chez l’une, fait face au Nœud Nord de l’autre depuis l’autre bout du zodiaque, et se trouve juste sur son Nœud Sud : l’endroit où cette personne est déjà rodée, rapide et sûre d’elle.
+L’élan de l’une tombe sur le terrain de l’autre. Avec Mars opposition Nœud Nord en synastrie, Mars, chez l’une, se trouve à l’opposé du Nœud Nord de l’autre, à l’autre bout du zodiaque, et juste sur son Nœud Sud : l’endroit où cette personne est déjà rodée, rapide et sûre d’elle.
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Mars](/astrology/mars/) est la façon dont une personne se met en route et continue : les premiers gestes, l’effort, la compétition, l’arrivée. Le [Nœud Nord](/astrology/north-node/) montre où quelqu’un cherche encore ses appuis ; le [Nœud Sud](/astrology/south-node/), juste en face, où ces appuis sont trouvés depuis longtemps, une ressource plutôt qu’un défaut. Dans une [opposition](/astrology/opposition/), Mars fait face au bord de croissance et se pose sur le terrain connu, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), c’est le contact de la compétence partagée.
+[Mars](/astrology/mars/) permet à une personne de se mettre en route et de continuer : les premiers gestes, l’effort, la compétition, l’arrivée. Le [Nœud Nord](/astrology/north-node/) montre où quelqu’un cherche encore ses appuis ; le [Nœud Sud](/astrology/south-node/), juste en face, où ces appuis sont trouvés depuis longtemps, une ressource plutôt qu’un défaut. Dans une [opposition](/astrology/opposition/), Mars fait face au bord de croissance et se pose sur le terrain connu, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), c’est le contact de la compétence partagée.
 
 Côté nœud, cette personne fait ressortir ce que vous faites déjà bien. Vos savoir-faire établis reçoivent de l’énergie et de l’usage ; vous vous sentez capable, rapide, et l’on vous reconnaît. Côté Mars, vous rencontrez quelqu’un dont les forces rodées vont avec votre élan, et travailler ou jouer ensemble paraît efficace et satisfaisant dès le début.
 
@@ -44,14 +44,14 @@ Avec le Nœud Sud en Capricorne, par exemple, et Mars dessus, le geste familier 
 
 Le confort peut remplacer la croissance en silence. Une paire aussi douée pour le familier peut y revenir sans cesse, et la direction moins pratiquée de la personne du nœud, en face de l’endroit où tombe Mars, a peu de place. La personne de Mars peut aussi découvrir que son énergie ramène l’autre vers d’anciens rôles au moment même où elle cherche à les quitter.
 
-Ce n’est pas un verdict sur le Nœud Sud : une capacité établie n’est pas une faiblesse, et il n’y a rien à abandonner. Le travail consiste à remarquer quand on choisit le familier par habitude plutôt que parce que c’est le meilleur outil.
+Le Nœud Sud n’est pas en cause : une capacité établie n’est pas une faiblesse, et il n’y a rien à abandonner. Le travail consiste à remarquer quand on choisit le familier par habitude plutôt que parce que c’est le meilleur outil.
 
 Mesurés depuis le bout familier, les autres contacts :
 
 - **[Mars conjonction Nœud Nord en synastrie](/astrology/mars-conjunct-north-node-synastry/) :** le même élan au bout opposé, qui pousse vers la croissance.
 - **[Mars sextile Nœud Nord en synastrie](/astrology/mars-sextile-north-node-synastry/) :** une ouverture vers l’avant, avec un chemin facile derrière.
 - **[Mars carré Nœud Nord en synastrie](/astrology/mars-square-north-node-synastry/) :** l’élan au croisement, entre les deux bouts.
-- **[Mars trigone Nœud Nord en synastrie](/astrology/mars-trine-north-node-synastry/) :** de la compagnie sur le chemin de la croissance, amie des forces anciennes.
+- **[Mars trigone Nœud Nord en synastrie](/astrology/mars-trine-north-node-synastry/) :** de la compagnie vers la croissance, en bons termes avec les forces anciennes.
 
 ## Comment le vivre {#comment-le-vivre}
 

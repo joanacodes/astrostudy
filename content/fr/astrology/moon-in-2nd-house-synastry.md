@@ -18,9 +18,9 @@ facts:
 related: ["/astrology/moon", "/astrology/2nd-house", "/astrology/house-overlays", "/astrology/taurus", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "Que veut dire la Lune de l’autre dans ma maison 2 ?"
-    a: "Son besoin de sécurité se pose sur ce que vous possédez et ce qui compte pour vous : vos biens, vos talents, votre valeur à vos propres yeux. Cette personne se sent souvent en sécurité avec votre stabilité, et vous recevez d’elle un soin concret. Cela décrit du réconfort, jamais une prédiction d’argent."
+    a: "Son besoin de sécurité se pose sur vos biens, vos talents et la valeur que vous vous reconnaissez. Cette personne se sent souvent en sécurité avec votre stabilité, et vous recevez d’elle un soin concret. Cela décrit du réconfort, jamais une prédiction d’argent."
   - q: "La Lune de l’autre dans ma maison 2 est-elle bon signe pour la sécurité ?"
-    a: "Elle décrit souvent un lien qui paraît stable, parce que ses émotions s’apaisent autour de ce sur quoi l’on peut compter avec vous. Mais un sentiment de sécurité n’est pas une prédiction : aucun thème ne dit ce que l’une ou l’autre possédera. Ce qui aide, c’est de parler de ce qui rassure chaque personne, argent compris."
+    a: "Elle décrit souvent un lien qui paraît stable, parce que ses émotions s’apaisent autour de ce sur quoi l’on peut compter avec vous. Mais un sentiment de sécurité n’est pas une prédiction : aucun thème ne dit ce que chaque personne possédera. Ce qui aide, c’est de parler de ce qui rassure chaque personne, argent compris."
   - q: "Que signifie pour moi ma Lune dans sa maison 2 ?"
     a: "Vous vous sentez peut-être plus calme auprès de sa fiabilité, de ses affaires, de sa façon de prendre soin de ce qui compte. Son monde donne à vos émotions quelque chose de solide où se poser. Le soin à prendre : ne pas laisser votre tranquillité dépendre de ses ressources, ni la sienne des vôtres."
 sources:
@@ -31,7 +31,7 @@ La Lune de l’autre dans votre maison 2 est une superposition où l’on se sen
 
 ## Ce que ça apporte {#ce-que-ca-apporte}
 
-La [maison 2](/astrology/2nd-house/) répond à la question *sur quoi puis-je compter ?* : vos ressources, vos biens, les talents dont vous pourriez vivre et, en dessous, l’estime que vous vous portez. La [Lune](/astrology/moon/) est la façon dont une personne prend soin de ses émotions, et ce dont elle a besoin pour se sentir en sécurité. Dans cette [superposition de maisons](/astrology/house-overlays/), son besoin de sécurité vient se poser sur votre terrain.
+La [maison 2](/astrology/2nd-house/) répond à la question *sur quoi puis-je compter ?* : vos ressources, vos biens, les talents dont vous pourriez vivre et, en dessous, l’estime que vous vous portez. La [Lune](/astrology/moon/) dit comment une personne prend soin de ses émotions, et ce qu’il lui faut pour être en sécurité. Dans cette [superposition de maisons](/astrology/house-overlays/), son besoin de sécurité vient se poser sur votre terrain.
 
 De votre côté, l’effet est souvent une tendresse pratique. Cette personne remarque ce qu’il vous faut et y pourvoit sans histoires : ce qu’il faut dans le placard, la réparation faite, l’objet perdu retrouvé. Recevoir des soins concrets peut vous donner le sentiment de compter, et avec le temps stabiliser l’estime que vous avez de vous.
 
@@ -43,7 +43,7 @@ Quand le sentiment de sécurité de quelqu’un repose en partie sur vos ressour
 
 De son côté, votre prudence ou votre générosité avec ce que vous avez touchent directement son sentiment de sécurité. Si votre situation vacille, elle peut le ressentir comme sa propre inquiétude, et avoir du mal à le dire sans paraître compter votre argent.
 
-Aucun thème ne dit ce que l’une ou l’autre aura, et je n’en lis aucun pour l’argent ([l’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)) ; cette superposition décrit la rencontre de deux sensibilités autour de ce qui compte.
+Aucun thème ne dit ce que chacune des deux personnes aura, et je n’en lis aucun pour l’argent ([l’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)) ; cette superposition décrit la rencontre de deux sensibilités autour de ce qui compte.
 
 ## Comment le vivre {#comment-le-vivre}
 

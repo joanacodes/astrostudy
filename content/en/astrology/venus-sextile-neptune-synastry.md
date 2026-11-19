@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the sextile, 60°, counted by him among the harmonious aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 3.6°" }
 ---
-Some kindness arrives so quietly that you only notice it afterwards. Venus sextile Neptune in synastry has that quality: one person's Venus and the other's Neptune sit about 60° apart, and the second's empathy keeps finding its way to the first's tastes, while the first gives the second's imaginings somewhere real to live.
+Some kindness arrives so quietly that you only notice it afterwards. Venus sextile Neptune in synastry has that quality: the second person's empathy, coming from a Neptune about 60° from the first person's Venus, keeps finding its way to the first's tastes, while the first gives the second's imaginings somewhere real to live.
 
 ## What flows {#what-flows}
 

@@ -1,7 +1,7 @@
 ---
 title: "Mars conjunct Chiron in synastry"
 h1: "Mars conjunct Chiron between two charts"
-description: "Mars conjunct Chiron in synastry: one person’s drive lands right on the place where the other had to find another way. Both sides, pace, how common it is."
+description: "Mars conjunct Chiron in synastry: one person’s drive arrives at the very place where the other had to find another way. Both sides, pace, how common."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -53,6 +53,6 @@ Where [Mars conjunct Saturn in synastry](/astrology/mars-conjunct-saturn-synastr
 
 Let the Chiron person set the pace, and let them name the adjustment that works: shorter sessions, a different tool, company or none. The Mars person can check first, a push or a hand, and take either answer at face value. In a couple, that might be a fear one of you has carried for years; between siblings, a late driving test, with the other in the passenger seat.
 
-Of the pair's five contacts, this is the least common: about 1 pair of people in 16 has it, one way round or the other, within 6°. How big the crowd sharing the Chiron person's position is depends on the sign: in Aries or Pisces, where Chiron lingers about eight years, a wide one; in Virgo or Libra, under two, a narrow one. Mars, there for a few weeks, is what makes the meeting these two people's. The times decide which house of each chart receives it ([what changes without a birth time](/blog/unknown-birth-time/)). Chiron is one of three placements, with Saturn and Lilith, that held 75 to 90% of the time when I tested charts; what I tested was each person's own chart, never a contact between two, so this one carries no figure ([the three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)). Naming someone's tender place is intimate, so I do it only when both have asked ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Of the pair's five contacts, this is the least common: about 1 pair of people in 16 has it, one way round or the other, within 6°. How big the crowd sharing the Chiron person's position is depends on the sign: in Aries or Pisces, where Chiron lingers about eight years, a wide one; in Virgo or Libra, under two, a narrow one. Mars, there for a few weeks, is what makes the meeting these two people's. The times decide which house of each chart receives it ([what changes without a birth time](/blog/unknown-birth-time/)). Chiron is one of three placements, with Saturn and Lilith, that held 75 to 90% of the time when I tested charts; what I tested was each person's own chart, never a contact between two, so this one carries no figure ([the three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)). Naming someone's tender place is intimate, so I do it only at both people's request ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
 
 In one person, [Mars conjunct Chiron](/astrology/mars-conjunct-chiron/) is courage shaped by having had to adapt. Shared between two, the courage is offered, and the adapting is respected.

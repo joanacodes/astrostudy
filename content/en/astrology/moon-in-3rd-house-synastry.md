@@ -30,7 +30,7 @@ Their Moon in your 3rd house turns ordinary conversation into a place of comfort
 
 ## What it brings {#what-it-brings}
 
-[The 3rd house](/astrology/3rd-house/) is the everyday mind and the world close at hand: how you think and talk, what you read and write, the people near you, the short trips of a normal week. The [Moon](/astrology/moon/) describes what a person needs to feel comforted, and how they respond before they reason. As a [house overlay](/astrology/house-overlays/), their Moon here lets their feelings move through your words.
+[The 3rd house](/astrology/3rd-house/) covers ordinary thinking and the people nearby: how you talk, what you read and write, your neighbours and relatives, the short trips of a normal week. The [Moon](/astrology/moon/) describes what a person needs to feel comforted, and how they respond before they reason. As a [house overlay](/astrology/house-overlays/), their Moon here lets their feelings move through your words.
 
 For you, they can become the person you tell things to first, and the one whose news you want each day. Conversations with them have warmth, and you may notice your own way of talking soften or loosen in their company. The bond often takes on a sibling's familiarity: easy, a little teasing, as much a part of the day as the post.
 

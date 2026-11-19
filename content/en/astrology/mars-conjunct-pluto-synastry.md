@@ -1,7 +1,7 @@
 ---
 title: "Mars conjunct Pluto in synastry"
 h1: "Mars conjunct Pluto between two charts"
-description: "Mars conjunct Pluto in synastry: one person’s drive meets the other’s urge to change things at the root. Both sides, how common it is, and how to share power."
+description: "Mars conjunct Pluto in synastry: one person’s drive lands on the other’s urge for deep, lasting change. Both sides, how common it is, how to share power."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -32,9 +32,9 @@ Some pairs can't do anything by halves together: a weekend job becomes a renovat
 
 ## What flows {#what-flows}
 
-[Mars](/astrology/mars/) is a person's drive: the will to start, to compete, to hold ground and to finish. [Pluto](/astrology/pluto/) is their capacity for deep change: clearing out what has outlived its use, renewing what remains, growing into real strength. A [conjunction](/astrology/conjunction/) welds two functions together without dissolving either, and among the [synastry aspects](/astrology/synastry-aspects/), few concentrate two people's energy as completely as this one.
+[Mars](/astrology/mars/) is a person's drive: the will to start, to compete, to hold ground and to finish. [Pluto](/astrology/pluto/) is their capacity for deep change: letting go of what no longer serves, renewing what remains, growing into real strength. A [conjunction](/astrology/conjunction/) welds two functions together without dissolving either, and among the [synastry aspects](/astrology/synastry-aspects/), few concentrate two people's energy as completely as this one.
 
-On the Mars side, your effort meets someone who takes it entirely seriously. Around them you dig in, you finish, and you may find reserves you didn't know you had. On the Pluto side, the other's energy arrives exactly where you keep the urge to change things at the root. It can feel like being handed the means to clear out what you'd outgrown, a job, a habit, an overfull house, and also like having that urge woken before you'd decided to act on it.
+On the Mars side, your effort meets someone who takes it entirely seriously. Around them you dig in, you finish, and you may find reserves you didn't know you had. On the Pluto side, the other's energy arrives exactly where you keep the urge to rework things from the bottom up. It can feel like being handed the means to clear out what you'd outgrown, a job, a habit, an overfull house, and also like having that urge woken before you'd decided to act on it.
 
 Picture Mars in Virgo on Pluto in Virgo: a methodical drive meeting a deep need to strip things down to what works. Such a pair can overhaul a small business, a kitchen or a training routine to the last detail, and enjoy every hour of it.
 

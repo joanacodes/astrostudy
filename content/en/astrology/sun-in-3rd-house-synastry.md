@@ -30,7 +30,7 @@ Their Sun in your 3rd house brings another person's sense of purpose into the bu
 
 ## What it brings {#what-it-brings}
 
-[The 3rd house](/astrology/3rd-house/) is the everyday mind: how you think, talk, write and learn, the people close at hand, the short trips of an ordinary week. The [Sun](/astrology/sun/) is a person's sense of who they're becoming, and the warmth they bring to it. In this [house overlay](/astrology/house-overlays/), their purpose moves into your conversations.
+[The 3rd house](/astrology/3rd-house/) is the mind in daily use: thinking, talking, writing and learning, the people within reach, the short trips of an ordinary week. The [Sun](/astrology/sun/) is a person's sense of who they're becoming, and the warmth they bring to it. In this [house overlay](/astrology/house-overlays/), their purpose moves into your conversations.
 
 You may find you learn from them without anyone setting out to teach. They mention a book, and you read it; they ask what you think, and you discover you have an opinion. Their presence gives your everyday mind a direction, a reason to finish the sentence. The 3rd is cadent, one of the houses of adjusting and passing things on, and [Gemini](/astrology/gemini/) belongs to it by nature: curiosity, quick exchange, two voices. Tradition called it the Goddess.
 

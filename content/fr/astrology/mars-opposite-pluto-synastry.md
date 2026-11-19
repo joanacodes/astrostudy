@@ -32,7 +32,7 @@ Deux courants puissants, face à face : l’un pousse vers l’extérieur, l’
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Mars](/astrology/mars/) est la voie directe : l’initiative, l’effort, la compétition, une limite tenue. [Pluton](/astrology/pluto/) est la voie qui descend : la transformation, la régénération, la fin de ce qui ne marche plus, la lente croissance d’une vraie force. Dans une [opposition](/astrology/opposition/), les deux fonctions se tiennent comme deux pôles, et de tous les [aspects de synastrie](/astrology/synastry-aspects/) de la paire, c’est celui qui montre le plus nettement à chaque personne la force dont elle se sert le moins.
+[Mars](/astrology/mars/) est la voie directe : l’initiative, l’effort, la compétition, une limite tenue. [Pluton](/astrology/pluto/) est la voie qui descend : la transformation, la régénération, la fin de ce qui ne marche plus, la lente croissance d’une vraie force. Avec une [opposition](/astrology/opposition/), deux pôles se forment, et de tous les [aspects de synastrie](/astrology/synastry-aspects/) de la paire, c’est celui qui montre le plus nettement à chaque personne la force dont elle se sert le moins.
 
 Si Mars est chez vous, Pluton, chez l’autre, peut vous apprendre la profondeur et la patience : certaines choses ne changent que lorsqu’on arrête de pousser pour regarder dessous. Si Pluton est chez vous, Mars, chez l’autre, peut vous apprendre la franchise et la vitesse : une décision pesée pendant des mois peut tout simplement se prendre. Ensemble, vous couvrez les deux sortes de force, la rapide et la profonde.
 

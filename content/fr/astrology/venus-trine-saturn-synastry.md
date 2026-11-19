@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/venus", "/astrology/saturn", "/astrology/trine", "/astrology/venus-trine-saturn", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Vénus trigone Saturne en synastrie ?"
-    a: "Saturne, chez une personne, et Vénus, chez l'autre, sont en trigone, à environ 120°. La personne de Vénus apprécie la fiabilité de l’autre, et celle de Saturne s’engage sans peine envers ce que la première estime. L’aspect décrit l’affection et la constance au même pas, dans un couple, une amitié, une famille ou une équipe."
+    a: "Saturne, chez une personne, et Vénus, chez l’autre, sont en trigone, à environ 120°. La personne de Vénus apprécie la fiabilité de l’autre, et celle de Saturne s’engage sans peine envers ce que la première estime. L’aspect décrit l’affection et la constance au même pas, dans un couple, une amitié, une famille ou une équipe."
   - q: "Est-ce que Vénus trigone Saturne veut dire qu’une relation durera ?"
     a: "Aucun contact ne peut l’annoncer, et je ne lis aucun aspect comme une prévision. Ce trigone décrit une aisance entre ce qu’une personne estime et la façon dont l’autre s’engage, ce qui est agréable à vivre. La durée d’un lien dépend des deux adultes qui le vivent, pas d’un angle."
   - q: "Qu’est-ce que l’aisance de Vénus trigone Saturne peut cacher ?"
@@ -45,7 +45,7 @@ L’élément commun donne le ton. Vénus de l’une en Scorpion, Saturne de l�
 
 L’aisance peut empêcher une paire de rien revoir. Les habitudes qui convenaient aux deux au début continuent, puisque rien ne grince, et plus personne ne demande si elles vont encore. La personne de Vénus peut adopter les exigences de celle de Saturne comme son propre goût sans s’en apercevoir, et y perdre un peu de son jugement ; les limites de la personne de Saturne sont acceptées si facilement qu’elle n’a jamais à les expliquer. Alors le premier vrai changement, un nouveau travail, un déménagement, une nouvelle amitié, peut ressembler à une trahison, parce que la paire s’est si peu exercée à s’ajuster. L’harmonie n’est pas l’évitement de tout conflit.
 
-Les autres contacts de la paire montrent ce que l’aisance épargne : [Vénus conjonction Saturne en synastrie](/astrology/venus-conjunct-saturn-synastry/) presse l’affection et le devoir en un seul geste ; [Vénus sextile Saturne en synastrie](/astrology/venus-sextile-saturn-synastry/) demande que quelqu’un aille chercher l’aide ; [Vénus carré Saturne en synastrie](/astrology/venus-square-saturn-synastry/) discute chaque condition ; et [Vénus opposition Saturne en synastrie](/astrology/venus-opposite-saturn-synastry/) partage le plaisir et la prudence entre deux personnes.
+Ce que l’aisance épargne se voit aux autres contacts de la paire : [Vénus conjonction Saturne en synastrie](/astrology/venus-conjunct-saturn-synastry/) presse l’affection et le devoir en un seul geste ; [Vénus sextile Saturne en synastrie](/astrology/venus-sextile-saturn-synastry/) demande que quelqu’un aille chercher l’aide ; [Vénus carré Saturne en synastrie](/astrology/venus-square-saturn-synastry/) discute chaque condition ; et [Vénus opposition Saturne en synastrie](/astrology/venus-opposite-saturn-synastry/) partage le plaisir et la prudence entre deux personnes.
 
 ## Comment le vivre {#comment-le-vivre}
 

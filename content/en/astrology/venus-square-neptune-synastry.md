@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/neptune", "/astrology/square", "/astrology/venus-square-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Venus square Neptune mean in synastry?"
-    a: "The two planets, Venus in one chart and Neptune in the other, form a square of about 90°. The Venus person tends to want clear terms, stated preferences and a fair balance; the Neptune person tends to keep plans open and see the bond through its ideal. It describes friction between clarity and imagination, which two adults can work with."
+    a: "Venus and Neptune, one in each person’s chart, form a square of about 90°. The Venus person tends to want clear terms, stated preferences and a fair balance; the Neptune person tends to keep plans open and see the bond through its ideal. It describes friction between clarity and imagination, which two adults can work with."
   - q: "Does Venus square Neptune mean someone is lying?"
     a: "No. Neptune describes imagination, compassion and a taste for the open-ended, not deceit, and I don’t read dishonesty into any contact. What this square can bring is vagueness: a yes that was really a maybe, or an ideal taken for a fact. Plain words clear most of it."
   - q: "How do you handle Venus square Neptune?"

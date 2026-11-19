@@ -31,7 +31,7 @@ La Lune de l’autre dans votre maison 6 se voit dans de petites gentillesses pr
 
 ## Ce que ça apporte {#ce-que-ca-apporte}
 
-La [maison 6](/astrology/6th-house/) est la forme d’une journée ordinaire : le travail que vous faites vraiment, vos habitudes et vos routines, les gens à vos côtés, et la façon dont vous entretenez votre corps : sommeil, nourriture, mouvement, repos. La [Lune](/astrology/moon/) est le besoin de réconfort d’une personne et les habitudes qui la stabilisent : elle est donc chez elle parmi les routines. Dans cette [superposition de maisons](/astrology/house-overlays/), son besoin de stabilité rencontre le rythme de vos journées.
+La [maison 6](/astrology/6th-house/) couvre vos journées ordinaires : le travail que vous faites vraiment, vos habitudes et vos routines, les gens à vos côtés, et la façon dont vous entretenez votre corps : sommeil, nourriture, mouvement, repos. La [Lune](/astrology/moon/) est le besoin de réconfort d’une personne et les habitudes qui la stabilisent : elle est donc chez elle parmi les routines. Dans cette [superposition de maisons](/astrology/house-overlays/), son besoin de stabilité rencontre le rythme de vos journées.
 
 De votre côté, l’effet est souvent celui d’un soin sans histoires. Cette personne remarque que vous avez sauté le déjeuner, se souvient du rendez-vous que vous aviez oublié, ou rend simplement la journée de travail plus douce par sa présence. Vos habitudes deviennent peut-être plus stables, et certaines plus agréables, parce qu’elles se partagent.
 

@@ -1,13 +1,13 @@
 ---
 title: "Mars square Chiron in synastry"
 h1: "Mars square Chiron between two charts"
-description: "Mars square Chiron in synastry: one person’s push keeps catching the other’s tender place from the side. Both sides, how common, plain words that help."
+description: "Mars square Chiron in synastry: one person’s push snags, from the side, on the other’s tender place. Both sides, how common, plain words that help."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 238
 glyph: "♂□⚷"
-definition: "Mars square Chiron in synastry means one person’s Mars and the other’s Chiron are about 90° apart, within 5.1°. One person’s push keeps catching the other’s tender place from the side, and each catch asks for a better method. I read it as friction that teaches gentleness and plain words, never as harm written into two charts."
+definition: "Mars square Chiron in synastry means one person’s Mars and the other’s Chiron are about 90° apart, within 5.1°. One person’s push snags, from the side, on the other’s tender place, and each snag asks for a better method. It reads to me as friction that teaches gentleness and plain words, never as harm written into two charts."
 facts:
   - { k: "Bodies", v: "One person’s Mars ♂, the other’s Chiron ⚷" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -51,12 +51,12 @@ From this angle, the pair's other contacts:
 - **[Mars conjunct Chiron in synastry](/astrology/mars-conjunct-chiron-synastry/):** the push lands squarely on the tender place, with no angle to soften it.
 - **[Mars sextile Chiron in synastry](/astrology/mars-sextile-chiron-synastry/):** a sign closer, encouragement arrives at the right size, when invited.
 - **[Mars trine Chiron in synastry](/astrology/mars-trine-chiron-synastry/):** a sign further, the support adjusts itself without colliding.
-- **[Mars opposite Chiron in synastry](/astrology/mars-opposite-chiron-synastry/):** the two face each other, and the catch becomes a mirror.
+- **[Mars opposite Chiron in synastry](/astrology/mars-opposite-chiron-synastry/):** face to face now, and the catch becomes a mirror.
 
 ## How to meet it {#how-to-meet-it}
 
-Name the limit before it's hit. The Chiron person can say plainly where the sore spot is and what helps; the Mars person can ask "help or space?" before pressing on it, and adapt the plan rather than abandon it. Teams can agree how tasks are done as well as when; an adult child and a parent can renegotiate old expectations one at a time.
+Name the limit before it's hit. The Chiron person can say plainly where the sore spot is and what helps; the Mars person can ask "help or space?" before pressing on it, and change the approach while keeping the aim. Teams can agree how tasks are done as well as when; an adult child and a parent can renegotiate old expectations one at a time.
 
-Square and trine are the pair's commonest contacts, each found in about 1 pair of people in 9, one way round or the other, within 5.1°. The Chiron person shares their side of it with a whole stretch of birth years, longer in some signs than in others on Chiron's lopsided orbit; the Mars person's birthday makes the contact theirs. The hour barely moves either body; it's the houses, where the catching happens, that can't be placed without both times ([what changes without a birth time](/blog/unknown-birth-time/)). In my notebook, Chiron was one of the three placements that held far more often than the rest, read in single charts, which is a reason for care with this contact, not a number for it ([the three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)). It's for two people who have both asked to hear it ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Square and trine are the pair's commonest contacts, each found in about 1 pair of people in 9, one way round or the other, within 5.1°. The Chiron person shares their side of it with a whole stretch of birth years, longer in some signs than in others on Chiron's lopsided orbit; the Mars person's birthday makes the contact theirs. The hour barely moves either body; it's the houses, where the catching happens, that can't be placed without both times ([what changes without a birth time](/blog/unknown-birth-time/)). Chiron belongs to the three placements that held far more often than the rest in my notebook, read in single charts, which is a reason for care with this contact, not a number for it ([the three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)). It's for two people who have both asked to hear it ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
 
 Within a single birth chart, [Mars square Chiron](/astrology/mars-square-chiron/) describes someone whose own push keeps meeting their own limit. Here the push and the limit belong to two people, who can talk about it.

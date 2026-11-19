@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 6°" }
   - { title: "NASA — Neptune facts", url: "https://science.nasa.gov/neptune/neptune-facts/", note: "an orbit of about 165 years, hence Neptune’s slow pace through the signs" }
 ---
-Mars conjunct Neptune in synastry puts one person's drive on the very degree where the other dreams. What one of you can picture, the other wants to get up and do. It makes a fine engine for shared projects, as long as both of you notice whose wish is being carried out.
+Mars conjunct Neptune in synastry sets one person's drive down on the very degree where the other dreams. What one of you can picture, the other wants to get up and do. It makes a fine engine for shared projects, as long as both of you notice whose wish is being carried out.
 
 ## What flows {#what-flows}
 
@@ -55,6 +55,6 @@ Pulled apart to other angles, push and picture keep different company:
 
 Say the wish in words before anyone acts on it. "Is this yours, mine or ours?" sounds stiff the first time and becomes a private joke by the fifth. The Mars person can check the brief before starting; the Neptune person can describe the picture in concrete terms, including what they'd rather leave undone. In a couple that might be the holiday nobody quite planned; in a family, an adult child carrying out a parent's dream; at work, a founder's vision and the colleague who builds it.
 
-Within 6°, one way round or the other, about 1 pair of people in 15 shares this conjunction, and only half of it is personal. Neptune needs about fourteen years to cross one sign, which means the Neptune person shares their position, to within a few degrees, with everyone born a couple of years either side of them; the Mars, which changes sign every six or seven weeks, makes the meeting theirs. Neither body covers much ground in a day, and the hour rarely makes or breaks the meeting, but the houses, where in each life the dream gets its legs, need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
+Within 6°, one way round or the other, about 1 pair of people in 15 shares this conjunction, and only half of it is personal. Neptune needs about fourteen years to cross one sign, which means the Neptune person shares their position, to within a few degrees, with everyone born a couple of years either side of them; the Mars, which leaves each sign within six or seven weeks, makes the meeting theirs. Neither body covers much ground in a day, and the hour rarely makes or breaks the meeting, but the houses, where in each life the dream gets its legs, need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Where one birth chart holds both, [Mars conjunct Neptune](/astrology/mars-conjunct-neptune/) describes someone moved to act by their own imagination. Between two charts, one of you imagines and the other acts, which is why it pays to ask before starting.

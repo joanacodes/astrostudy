@@ -20,7 +20,7 @@ faq:
   - q: "Que veut dire le Soleil de l’autre dans ma maison 6 en synastrie ?"
     a: "Son élan arrive dans vos journées ordinaires : le travail, les habitudes, la façon dont vous prenez soin de vous. La vie quotidienne prend souvent plus de direction à ses côtés, et cette personne apprécie votre savoir-faire et votre méthode. C’est l’une des superpositions que l’on retrouve souvent entre collègues."
   - q: "Le Soleil de l’autre dans ma maison 6 peut-il toucher ma santé ?"
-    a: "Non. La tradition donnait la maladie à la maison 6, mais un thème ne peut ni diagnostiquer ni prédire quoi que ce soit sur votre santé, en synastrie non plus. Cette superposition décrit vos habitudes et votre travail quotidien face à son élan. Pour votre santé, c’est un médecin qu’il faut voir, pas un thème."
+    a: "Non. La maison 6 portait la maladie dans la tradition, mais aucun thème, seul ou à deux, ne diagnostique ni ne prévoit rien de votre santé. Cette superposition décrit vos habitudes et votre travail quotidien face à son élan. Pour votre santé, c’est un médecin qu’il faut voir, pas un thème."
   - q: "Qu’apporte ma maison 6 à la personne dont c’est le Soleil ?"
     a: "Souvent le sentiment d’être utile et comprise sur le plan pratique. Votre façon d’organiser une journée donne à son élan de quoi travailler, et elle admire parfois votre compétence. Le risque, de son côté : sentir ses grands projets se réduire à des listes quand elle est avec vous."
 sources:
@@ -31,7 +31,7 @@ Le Soleil de l’autre dans votre maison 6 est la superposition de la journée o
 
 ## Ce que ça apporte {#ce-que-ca-apporte}
 
-La [maison 6](/astrology/6th-house/) couvre la forme de vos journées : les tâches plutôt que le titre, les habitudes qui vous tiennent, les gens à côté de qui vous travaillez, le soin que vous donnez à votre corps. Le [Soleil](/astrology/sun/) est, dans un thème, l’élan qui pousse une personne à devenir quelqu’un en particulier, et l’énergie qui va avec. Son Soleil dans cette maison forme une [superposition de maisons](/astrology/house-overlays/) où cet élan rencontre votre quotidien.
+La [maison 6](/astrology/6th-house/) couvre la forme de vos journées : les tâches plutôt que le titre, les habitudes qui vous tiennent, vos collègues de tous les jours, l’attention que vous portez à votre corps. Le [Soleil](/astrology/sun/) est, dans un thème, l’élan qui pousse une personne à devenir quelqu’un en particulier, et l’énergie qui va avec. Son Soleil dans cette maison forme une [superposition de maisons](/astrology/house-overlays/) où cet élan rencontre votre quotidien.
 
 Avec cette personne, l’ordinaire peut cesser d’être ordinaire. Une routine du matin partagée, un projet au travail, une cuisine qui tourne bien à deux : elle donne un but aux tâches que vous vous contenteriez d’expédier, et vous vous surprenez à les faire mieux. Bien des duos de travail réussis ont cette superposition quelque part, même si elle ne se limite pas au travail.
 
@@ -43,7 +43,7 @@ Quand deux personnes se rencontrent surtout dans la maison des tâches, la relat
 
 De son côté, le risque est un rétrécissement. Ses grands buts arrivent dans une maison de corvées et de méthode, et avec vous cette personne peut sentir sa direction réduite à des prochaines étapes, ou mesurée à l’aune de vos exigences sur la bonne manière de faire.
 
-La tradition donnait à la maison 6 la maladie et le nom de Fortune défavorable. Je ne lis pas la santé dans un thème, ni en synastrie ni ailleurs ([l’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)) ; ce que je lis ici, c’est votre façon de travailler et de prendre soin de vous, côte à côte.
+La tradition donnait à la maison 6 la maladie et le nom de Fortune défavorable. La santé n’est pas quelque chose que je lis, ni en synastrie ni ailleurs ([l’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)) ; ici, je regarde comment vous travaillez et prenez soin de vous, côte à côte.
 
 ## Comment le vivre {#comment-le-vivre}
 

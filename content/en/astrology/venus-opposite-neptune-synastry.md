@@ -50,7 +50,7 @@ The pair's other aspects divide the dream and the details differently:
 
 ## How to meet it {#how-to-meet-it}
 
-Ask both questions out loud: "what are you hoping this will be?" and "what would actually help this week?" Then swap ends from time to time: hand the Neptune person a practical detail from start to finish, and let the Venus person propose something purely for what it means. A founder with a vision and the colleague who knows what clients will like, two siblings planning a family celebration, friends choosing where to travel, or a couple: the same two questions keep both ends in view.
+Ask both questions out loud: "what are you hoping this will be?" and "what would actually help this week?" Then swap ends from time to time: hand the Neptune person a practical job to carry through alone, and let the Venus person propose something purely for what it means. A founder with a vision and the colleague who knows what clients will like, two siblings planning a family celebration, friends choosing where to travel, or a couple: the same two questions keep both ends in view.
 
 About 1 pair of people in 15 has this opposition, one way round or the other, within 6°. Swap the Neptune person for a sibling born a year apart and the opposition might well survive, since Neptune shifts by little more than two degrees a year; swap the Venus person for a sibling born in another season and it would almost certainly go. One half belongs to a cohort, the other to a birthday. The birth hour won't shift either planet much, but it decides the houses, where the dream and the details meet in each life, and I need both times for those ([what changes without a birth time](/blog/unknown-birth-time/)).
 

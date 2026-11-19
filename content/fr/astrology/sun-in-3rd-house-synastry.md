@@ -31,7 +31,7 @@ Le Soleil de l’autre dans votre maison 3 fait entrer l’élan d’une personn
 
 ## Ce que ça apporte {#ce-que-ca-apporte}
 
-La [maison 3](/astrology/3rd-house/) est l’esprit de tous les jours : votre façon de penser, de parler, d’écrire et d’apprendre, les gens tout proches, les petits trajets d’une semaine ordinaire. Le [Soleil](/astrology/sun/) est le sens qu’une personne a de ce qu’elle devient, et la chaleur qu’elle y met. Dans cette [superposition de maisons](/astrology/house-overlays/), son élan s’installe dans vos conversations.
+La [maison 3](/astrology/3rd-house/) est l’esprit de tous les jours : penser, parler, écrire, apprendre, les gens à portée de main, les petits trajets d’une semaine ordinaire. Le [Soleil](/astrology/sun/) est le sens qu’une personne a de ce qu’elle devient, et la chaleur qu’elle y met. Dans cette [superposition de maisons](/astrology/house-overlays/), son élan s’installe dans vos conversations.
 
 Vous apprenez peut-être à son contact sans que personne ait décidé d’enseigner. Elle cite un livre, et vous le lisez ; elle vous demande votre avis, et vous découvrez que vous en avez un. Sa présence donne une direction à votre esprit de tous les jours, une raison d’aller au bout de la phrase. Cadente, la maison 3 compte parmi celles où l’on s’ajuste et où l’on transmet, et les [Gémeaux](/astrology/gemini/) lui reviennent par nature : la curiosité, l’échange rapide, deux voix. La tradition l’appelait la Déesse.
 

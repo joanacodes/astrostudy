@@ -31,11 +31,11 @@ Il y a des gens qui font paraître le monde plus grand, et une personne dont le 
 
 ## Ce que ça apporte {#ce-que-ca-apporte}
 
-La [maison 9](/astrology/9th-house/) est l’horizon d’un thème : les longs voyages, les autres langues et les autres cultures, les études supérieures, la foi et la philosophie, l’enseignement, et le moment où l’on cesse de répéter ce qu’on nous a appris pour se mettre à y réfléchir. Le [Soleil](/astrology/sun/) donne à une personne son orientation, le but qui organise tout le reste. Son Soleil forme ici une [superposition de maisons](/astrology/house-overlays/) où ce but éclaire votre quête de sens.
+La [maison 9](/astrology/9th-house/) est l’horizon d’un thème : les longs voyages, les autres langues et les autres cultures, les études poussées, la foi, la philosophie, l’enseignement, et le moment où l’on cesse de répéter ce qu’on nous a appris pour se mettre à y réfléchir. Le [Soleil](/astrology/sun/) donne à une personne son orientation, le but qui organise tout le reste. Son Soleil forme ici une [superposition de maisons](/astrology/house-overlays/) où ce but éclaire votre quête de sens.
 
 De votre côté, cette personne peut ressembler à une porte qui s’ouvre. À cause d’elle, vous lisez le livre, suivez le cours, réservez le billet, ou vous vous surprenez simplement à poser de plus grandes questions au dîner. Elle peut devenir quelqu’un qui vous enseigne, même si aucune des deux personnes n’emploierait ce mot, ou la meilleure compagnie de voyage que vous ayez eue.
 
-Pour l’autre, votre regard sur le monde peut donner son sens à sa direction. En expliquant ce qu’elle vise à quelqu’un qui demande pourquoi, cette personne le comprend mieux elle-même, et vos convictions, différentes ou partagées, deviennent un paysage que son but peut explorer. Cadente, la maison 9 transforme l’expérience en compréhension, et le [Sagittaire](/astrology/sagittarius/) lui est associé. La tradition l’appelait le Dieu, la maison où le Soleil a sa joie dans le thème d’une personne.
+Pour l’autre, votre regard sur le monde peut donner son sens à sa direction. En expliquant ce qu’elle vise à quelqu’un qui demande pourquoi, cette personne le comprend mieux elle-même, et vos convictions, différentes ou partagées, deviennent un paysage que son but peut explorer. Cadente, la maison 9 transforme l’expérience en compréhension, et le [Sagittaire](/astrology/sagittarius/) lui est associé. Son nom ancien est le Dieu ; c’est la maison où le Soleil a sa joie, dans le thème d’une personne.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

@@ -20,7 +20,7 @@ faq:
   - q: "What does Mars sextile Chiron mean in synastry?"
     a: "Roughly 60° lies between one person’s Mars and the other’s Chiron, generally in signs whose elements suit each other. The Mars person tends to offer the right amount of push; the Chiron person knows how to keep going when effort meets a limit. Taken up, it becomes a practical exchange of encouragement and method."
   - q: "Who helps whom with Mars sextile Chiron?"
-    a: "Help runs both ways. The Mars person can help the other try again, without overwhelming them. The Chiron person can show the Mars person how to pace effort, use a better tool or ask for exactly the support needed. Each gives what the other uses less."
+    a: "Help runs both ways. The Mars person can help the other try again, without overwhelming them. The Chiron person can show the Mars person how to pace effort, use a better tool or name the kind of support that works. Each gives what the other uses less."
   - q: "Why might Mars sextile Chiron go unnoticed?"
     a: "Because a sextile only works when someone takes it up, and this one sits between a person who waits to be asked and a person who doesn’t like asking. The help is there; it simply needs a first request, made plainly."
 sources:
@@ -33,7 +33,7 @@ Encouragement is easy to get wrong: too much and it shoves, too little and it is
 
 [Mars](/astrology/mars/) is how a person starts, keeps going and stands up for an aim. [Chiron](/astrology/chiron/) is how they've learned to take part despite a persistent limit: by compensating, adjusting, practising, and often by turning what they learned into advice worth having. A [sextile](/astrology/sextile/) offers the two an opening for cooperation, and as one of the [synastry aspects](/astrology/synastry-aspects/), it lets each person borrow what the other has practised more.
 
-From the Mars side, your drive comes with a feel for how much push someone can use. You can be the friend who says "one more go" at the right moment, and stops there. From the Chiron side, you have something the other person rarely gets from anyone else: how to keep going when effort meets a limit. A pacing trick, a better tool, a way of asking for exactly the help you need and no more, and the other's energy goes further for it.
+From the Mars side, your drive comes with a feel for how much push someone can use. You can be the friend who says "one more go" at the right moment, and stops there. From the Chiron side, you have something the other person rarely gets from anyone else: how to keep going when effort meets a limit. A pacing trick, a better tool, a knack for saying precisely what kind of help would work, and the other's energy goes further for it.
 
 The two signs usually suit each other by element. Mars in Gemini with Chiron in Leo might trade lively encouragement for the courage to be seen; Mars in Taurus with Chiron in Pisces, steady effort for a gentle, workable way through things that can't be controlled.
 

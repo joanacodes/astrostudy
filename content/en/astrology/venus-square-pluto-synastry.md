@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus", "/astrology/pluto", "/astrology/square", "/astrology/venus-square-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Venus square Pluto mean in synastry?"
-    a: "Pluto in one chart squares Venus in the other, at about 90°. The Venus person tends to want things pleasant and evenly shared; the Pluto person wants them true all the way down, and ready to change if they aren’t. It describes friction over the terms of a bond, which two adults can turn into honesty."
+    a: "Pluto in one chart squares Venus in the other, at about 90°. The Venus person usually wants things pleasant and evenly shared; the Pluto person wants them true all the way down, and ready to change if they aren’t. It describes friction over the terms of a bond, which two adults can turn into honesty."
   - q: "Does Venus square Pluto mean a power struggle?"
     a: "Not necessarily. It describes two people who weigh the same exchange differently, one for ease and one for depth, and that can feel like a contest. But empowerment isn’t domination, and an uneven moment isn’t a plan. Saying what each person wants usually takes the struggle out of it."
   - q: "How do you work with Venus square Pluto?"

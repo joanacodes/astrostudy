@@ -33,7 +33,7 @@ One person's drive cuts straight across the other's path. In Mars square North N
 
 ## What flows {#what-flows}
 
-[Mars](/astrology/mars/) is will in action: starting, pushing, competing, holding a position. The [North Node](/astrology/north-node/) is the less travelled way of doing things, which only becomes natural with repetition; the [South Node](/astrology/south-node/), opposite, is the well-worn way, reliable and quick to hand. A [square](/astrology/square/) makes two things catch until they adapt; as [synastry aspects](/astrology/synastry-aspects/) go, it's the one that lays a person's energy across both ends of someone else's [nodal axis](/astrology/nodal-axis/) at once.
+[Mars](/astrology/mars/) is wanting turned into motion: a start, a push, a contest, a position held. The [North Node](/astrology/north-node/) is the less travelled way of doing things, which only becomes natural with repetition; the [South Node](/astrology/south-node/), opposite, is the well-worn way, reliable and quick to hand. A [square](/astrology/square/) makes two things catch until they adapt; as [synastry aspects](/astrology/synastry-aspects/) go, it's the one that lays a person's energy across both ends of someone else's [nodal axis](/astrology/nodal-axis/) at once.
 
 What the friction can teach is deliberate choice. The Mars person's plans keep raising a question for the Node person: is this the old way or the new one? Over time, the Node person gets better at telling the two apart and choosing on purpose, rather than by habit. The Mars person, meanwhile, learns that their drive affects someone else's development, and becomes more careful about where they aim it.
 

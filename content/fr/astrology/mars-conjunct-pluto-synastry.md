@@ -2,7 +2,7 @@
 title: "Mars conjonction Pluton en synastrie"
 slug: "mars-conjonction-pluton-synastrie"
 h1: "Mars conjonction Pluton entre deux thèmes"
-description: "Mars conjonction Pluton en synastrie : l’élan de l’une rencontre chez l’autre l’envie de changer les choses à la racine. Les deux côtés, partager la force."
+description: "Mars conjonction Pluton en synastrie : l’élan de l’une rencontre chez l’autre l’envie d’un changement profond et durable. Les deux côtés, partager la force."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -35,7 +35,7 @@ Certaines paires ne savent rien faire à moitié ensemble : un petit chantier d
 
 [Mars](/astrology/mars/) est l’élan d’une personne : la volonté de commencer, de se mesurer, de tenir sa position et d’aller au bout. [Pluton](/astrology/pluto/), sa capacité à changer en profondeur : se défaire de ce qui est usé, renouveler ce qui reste, gagner une vraie force. Une [conjonction](/astrology/conjunction/) soude deux fonctions sans dissoudre aucune des deux, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), peu concentrent aussi complètement l’énergie de deux personnes.
 
-Côté Mars, votre effort rencontre quelqu’un qui le prend entièrement au sérieux. À son contact, vous vous accrochez, vous finissez, et vous trouvez peut-être des réserves insoupçonnées. Côté Pluton, l’énergie de l’autre arrive exactement là où vous gardez l’envie de changer les choses à la racine. On peut avoir l’impression de recevoir les moyens de se défaire de ce qui ne vous allait plus, un emploi, une habitude, une maison trop pleine, et aussi de sentir cette envie réveillée avant d’avoir décidé d’agir.
+Côté Mars, votre effort rencontre quelqu’un qui le prend entièrement au sérieux. À son contact, vous vous accrochez, vous finissez, et vous trouvez peut-être des réserves insoupçonnées. Côté Pluton, l’énergie de l’autre arrive exactement là où vous gardez l’envie de tout reprendre de fond en comble. On peut avoir l’impression de recevoir les moyens de se défaire de ce qui ne vous allait plus, un emploi, une habitude, une maison trop pleine, et aussi de sentir cette envie réveillée avant d’avoir décidé d’agir.
 
 Imaginez Mars en Vierge sur Pluton en Vierge : un élan méthodique qui rencontre un profond besoin de ramener les choses à ce qui fonctionne. Une telle paire peut remettre à plat une petite entreprise, une cuisine ou une routine d’entraînement jusqu’au dernier détail, et y prendre plaisir à chaque heure.
 

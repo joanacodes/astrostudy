@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun", "/astrology/2nd-house", "/astrology/house-overlays", "/astrology/taurus", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "Que veut dire le Soleil de quelqu’un dans ma maison 2 ?"
-    a: "Son élan éclaire ce que vous estimez et ce sur quoi vous comptez : vos talents, vos biens, la valeur que vous vous accordez. Beaucoup de personnes prennent leurs propres capacités plus au sérieux à ses côtés. Cela décrit la façon dont vous gérez ensemble ce qui compte, jamais si l’une ou l’autre gagnera ou perdra de l’argent."
+    a: "Son élan éclaire ce que vous estimez et ce sur quoi vous comptez : vos talents, vos biens, la valeur que vous vous accordez. Beaucoup de personnes prennent leurs propres capacités plus au sérieux à ses côtés. Cela décrit la façon dont vous gérez ensemble ce qui compte, jamais si l’une des deux personnes gagnera ou perdra de l’argent."
   - q: "Le Soleil de l’autre dans ma maison 2 annonce-t-il de l’argent ?"
     a: "Aucune superposition ne peut le dire, et je ne lis pas un thème pour l’argent. Celle-ci décrit la rencontre entre son élan, vos valeurs et votre besoin de sécurité : cette personne peut vous aider à voir ce que vous valez, ou se mettre à fixer vos priorités. Qui paie quoi, c’est à vous deux d’en décider."
   - q: "Que ressent l’autre personne avec son Soleil dans ma maison 2 ?"

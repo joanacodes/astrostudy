@@ -32,7 +32,7 @@ Each of you can look like the wild one to the other. In Mars opposite Lilith in 
 
 ## What flows {#what-flows}
 
-[Mars](/astrology/mars/) acts in the open: it starts things, competes, and holds its line where everyone can see. [Black Moon Lilith](/astrology/black-moon-lilith/), the Moon's mean far point, invites more than one reading; mine is autonomy, the part someone learned to keep out of view, and the power they rarely show. An [opposition](/astrology/opposition/) sets two functions at the two poles of a single line; among the [synastry aspects](/astrology/synastry-aspects/), it's the one that shows each person a force they seldom allow themselves.
+[Mars](/astrology/mars/) acts in the open: it starts things, competes, and holds its line where everyone can see. [Black Moon Lilith](/astrology/black-moon-lilith/), the Moon's mean far point, invites more than one reading; mine is autonomy, the part someone learned to tuck away, and the power they rarely show. An [opposition](/astrology/opposition/) sets two functions at the two poles of a single line; among the [synastry aspects](/astrology/synastry-aspects/), it's the one that shows each person a force they seldom allow themselves.
 
 If the Mars is yours, the other's Lilith shows you a freedom you may not use: the plain refusal, the route nobody approved, the untroubled no. If Lilith is yours, their Mars shows you something just as foreign: drive that asks nobody's permission because it never thought it needed any.
 

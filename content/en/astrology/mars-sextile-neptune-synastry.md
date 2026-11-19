@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 227
 glyph: "♂⚹♆"
-definition: "Mars sextile Neptune in synastry means that 60°, give or take 3.6°, separates one person’s Mars from the other’s Neptune. One person’s drive and the other’s imagination cooperate readily, provided someone makes the first move. I read it as gentle encouragement between two people: practical help for an ideal, offered and taken by choice."
+definition: "Mars sextile Neptune in synastry means that 60°, give or take 3.6°, separates one person’s Mars from the other’s Neptune. Drive on one side and imagination on the other cooperate readily, provided someone makes the first move. I read it as gentle encouragement between two people: practical help for an ideal, offered and taken by choice."
 facts:
   - { k: "Bodies", v: "One person’s Mars ♂, the other’s Neptune ♆" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -35,7 +35,7 @@ Some help arrives only when it's asked for, and then arrives well. In Mars sexti
 
 With the Mars on your side, the other person's ideas give your energy good things to do, and few of them are urgent, so you choose when to step in. Their feel for what people need can soften how you push, too: around them, you may assert things more kindly. With the Neptune on your side, your imagination gets a willing pair of hands. A hope you'd mentioned in passing, a garden for the street, a better way to run the family holidays, comes back to you as a first step already taken.
 
-The signs usually get on by element, fire with air or earth with water. Mars in Scorpio with Neptune in Capricorn is a quiet, persistent drive meeting an ideal of things built to last; Mars in Leo with Neptune in Libra, a warm, open push meeting a dream of fairness.
+Usually fire meets air, or earth meets water, so the two signs get along. Mars in Scorpio with Neptune in Capricorn is a quiet, persistent drive meeting an ideal of things built to last; Mars in Leo with Neptune in Libra, a warm, open push meeting a dream of fairness.
 
 ## Where it rubs {#where-it-rubs}
 

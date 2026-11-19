@@ -19,7 +19,7 @@ faq:
   - q: "What does their Sun in my 6th house mean in synastry?"
     a: "Their sense of purpose lands in your ordinary days: work, routines, habits and the way you look after yourself. Daily life often runs with more direction around them, and they tend to value your skill and method. It is one of the overlays that shows up often between colleagues."
   - q: "Can their Sun in my 6th house affect my health?"
-    a: "No. Tradition gave the 6th illness, but a chart can’t diagnose or predict anything about your health, in synastry either. What this overlay describes is your routines and daily work meeting their purpose. Anything about your health belongs with a doctor, not a chart."
+    a: "No. Tradition gave the 6th illness, but no chart, single or paired, can diagnose or foresee anything about your health. What this overlay describes is your routines and daily work meeting their purpose. Anything about your health belongs with a doctor, not a chart."
   - q: "How does the other person feel with their Sun in my 6th house?"
     a: "Often useful and understood at a practical level. Your way of organising a day gives their purpose something to work with, and they may admire your competence. The risk on their side is feeling that their larger aims shrink into lists when they’re with you."
 sources:
@@ -30,7 +30,7 @@ Their Sun in your 6th house is the overlay of the ordinary day. Another person's
 
 ## What it brings {#what-it-brings}
 
-[The 6th house](/astrology/6th-house/) covers the shape of your days: the tasks rather than the title, the habits that hold you up, the people you work beside, the care you give your body. The [Sun](/astrology/sun/) is the drive in a person's chart to become someone in particular, and the energy that goes with it. Their Sun in this house makes a [house overlay](/astrology/house-overlays/) where that drive meets your daily round.
+[The 6th house](/astrology/6th-house/) covers the shape of your days: the jobs themselves rather than your job title, the habits that keep you upright, the people you work beside, the care you give your body. The [Sun](/astrology/sun/) is the drive in a person's chart to become someone in particular, and the energy that goes with it. Their Sun in this house makes a [house overlay](/astrology/house-overlays/) where that drive meets your daily round.
 
 With them around, the ordinary can stop feeling ordinary. A shared morning routine, a project at work, a kitchen run smoothly by two: they bring a sense of purpose to the jobs you'd normally just get through, and you may find yourself doing them better. Plenty of good working partnerships have this overlay somewhere, though it isn't confined to work.
 

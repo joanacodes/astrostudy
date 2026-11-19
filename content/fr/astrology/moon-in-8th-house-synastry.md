@@ -43,7 +43,7 @@ Plus on va loin, plus il faut de confiance, et son besoin de confiance peut alle
 
 De son côté, votre discrétion peut ressembler à une porte close. Quand vous vous retirez à l’écart pour digérer quelque chose, elle peut le prendre pour elle, comme si le lieu le plus sûr qu’elle connaisse avait été fermé à clé.
 
-La mort et l’héritage relevaient de la maison 8 pour la tradition. Une Lune à cet endroit ne dit rien ni de l’une ni de l’autre, en synastrie comme dans un thème seul, et je ne lis jamais pour cela ([l’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)) ; elle décrit la façon dont les émotions et la confiance circulent entre deux personnes.
+La mort et l’héritage relevaient de la maison 8 pour la tradition. Une Lune à cet endroit ne dit rien ni de l’un ni de l’autre, en synastrie comme dans un thème seul, et je ne lis jamais pour cela ([l’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)) ; elle décrit la façon dont les émotions et la confiance circulent entre deux personnes.
 
 ## Comment le vivre {#comment-le-vivre}
 

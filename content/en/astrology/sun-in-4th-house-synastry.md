@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 4
 glyph: "☉"
-definition: "Their Sun in your 4th house sets another person’s Sun at the base of your chart, in the house of home, roots and private life. In synastry their purpose lights up the ground you stand on: they tend to feel like home or family to you, and most themselves in your private world."
+definition: "Their Sun in your 4th house sets another person’s Sun at the foot of your chart, among your home, roots and private life. In synastry their purpose lights up the ground you stand on: they tend to feel like home or family to you, and most themselves in your private world."
 facts:
   - { k: "Their body", v: "Their Sun ☉" }
   - { k: "Your house", v: "The 4th house, home and roots" }
@@ -48,4 +48,4 @@ Talk about home as a shared thing with private corners. Which rooms, routines or
 
 Swap the charts and you have your Sun in their 4th house: you become the warmth in their home, facing the same questions about space and privacy. [Their Sun in your 3rd house](/astrology/sun-in-3rd-house-synastry/) stays in the conversation; [their Sun in your 5th house](/astrology/sun-in-5th-house-synastry/) turns it towards play and pleasure.
 
-Your IC goes round the whole zodiac in a day, like your Ascendant, so in Placidus, the house system I use, your 4th house can only be found with your birth time. Their Sun shifts by only about a degree in a day, so their own hour of birth counts just at the 4th's two borders ([what changes without a birth time](/blog/unknown-birth-time/)). Home is private ground, and I look at it only with both people's agreement ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Your IC travels the full circle of the zodiac every day, just as your Ascendant does, so in Placidus, the house system I use, your 4th house can only be found with your birth time. Their Sun shifts by only about a degree in a day, so their own hour of birth counts just at the 4th's two borders ([what changes without a birth time](/blog/unknown-birth-time/)). Home is private ground, and I look at it only with both people's agreement ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

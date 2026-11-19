@@ -35,7 +35,7 @@ La [maison 5](/astrology/5th-house/) est la part de la vie que vous n’avez pas
 
 De votre côté, l’effet ressemble souvent à une permission. Vous pouvez faire des bêtises, montrer votre affection ou créer à ses côtés sans vous sentir ridicule, et cette personne accueille ce que vous faites ou proposez avec une vraie chaleur. L’amour, quand il est là, a de la tendresse autant que de l’étincelle.
 
-Pour l’autre, votre goût du jeu peut être un refuge. Jouer avec vous, rire avec vous, sortir de soi le temps d’un après-midi apaise quelque chose, et cette personne montre peut-être son attention par des gâteries, des surprises, de petits plaisirs. Succédente, la maison 5 est celle où ce qui se sent en sécurité à la maison grandit en plaisir, et le [Lion](/astrology/leo/), chaleureux et généreux, est son signe naturel. La tradition lui donnait le nom de Fortune favorable, et Vénus y avait sa joie.
+Pour l’autre, votre goût du jeu peut être un refuge. Jouer avec vous, rire avec vous, sortir de soi le temps d’un après-midi apaise quelque chose, et cette personne montre peut-être son attention par des gâteries, des surprises, de petits plaisirs. Succédente, la maison 5 est celle où ce qui se sent en sécurité à la maison grandit en plaisir, et le [Lion](/astrology/leo/), chaleureux et généreux, est son signe naturel. Son nom ancien est la Fortune favorable, et c’est la maison où Vénus se réjouit.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

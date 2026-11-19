@@ -20,8 +20,8 @@ related: ["/astrology/mars", "/astrology/north-node", "/astrology/conjunction", 
 faq:
   - q: "What does Mars conjunct North Node mean in synastry?"
     a: "The Mars of one person sits on the North Node of the other, within 6°, and therefore faces their South Node. One person’s drive meets the unfamiliar skill the other is building, and pulls away from what they already do by reflex. It tends to energise growth when the Node person keeps the pace."
-  - q: "Does Mars conjunct North Node mean we were meant to meet?"
-    a: "I don’t read it that way. The North Node shows a direction that repays practice, nothing more fixed than that, and this contact shows someone else’s energy arriving there. It can feel meaningful, and the meaning is something the two people make, not something the chart hands them."
+  - q: "Does Mars conjunct North Node make a relationship special?"
+    a: "It can feel that way, since one person’s energy lands on the other’s path of growth. I don’t read it as destiny: the North Node shows a direction that repays practice, nothing more fixed, and the meaning is something the two people make, not something the chart hands them."
   - q: "Why can Mars conjunct North Node feel pushy?"
     a: "Because the Mars person’s energy lands on exactly what the other finds least familiar, and practice there is slow and clumsy at first. Encouragement can tip into pressure. When the Node person chooses the pace and the Mars person offers rather than insists, the same energy helps."
 sources:
@@ -37,7 +37,7 @@ Picture a friend who keeps saying "you should try that" about the one thing you'
 
 If the node is yours, the less familiar thing you're practising gets an engine. Around this person you try it sooner and more often: the role you'd been circling, the habit you meant to start, the way of speaking up you never quite manage alone. If the Mars is yours, your initiative finds a use that matters to someone else, and you may enjoy being the reason they finally go first.
 
-The signs give the growth its subject. With the North Node in Leo, the push tends to go into stepping forward and being seen; with the North Node in Gemini, into curiosity and questions where the old habit was certainty. Either way, the Mars person's drive happens to be heading in that direction.
+The signs give the growth its subject. With the North Node in Sagittarius, the push tends to go into taking a stand on what one believes, rather than gathering more facts first; with the North Node in Gemini, into curiosity and questions where the old habit was certainty. Either way, the Mars person's drive happens to be heading in that direction.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -45,7 +45,7 @@ Growth practised under someone else's steam can turn into their project. The Mar
 
 [Venus conjunct North Node in synastry](/astrology/venus-conjunct-north-node-synastry/) brings affection to the same growing edge; this one brings effort, and effort can crowd. The pair's other angles:
 
-- **[Mars sextile North Node in synastry](/astrology/mars-sextile-north-node-synastry/):** a smaller opening towards growth, with an easier road back.
+- **[Mars sextile North Node in synastry](/astrology/mars-sextile-north-node-synastry/):** a narrower door forward, and a smoother road home.
 - **[Mars square North Node in synastry](/astrology/mars-square-north-node-synastry/):** the push cuts across the axis instead of landing on one end.
 - **[Mars trine North Node in synastry](/astrology/mars-trine-north-node-synastry/):** support for the new that never stands on it.
 - **[Mars opposite North Node in synastry](/astrology/mars-opposite-north-node-synastry/):** the push lands on the familiar end instead.
@@ -54,6 +54,6 @@ Growth practised under someone else's steam can turn into their project. The Mar
 
 Let the Node person set the pace and choose the next step. The Mars person can offer company, a deadline, a lift to the first session, and then step back. Small, repeated practice beats one heroic leap. Between colleagues this can be a mentor who knows when to stop; in a couple, the partner who books the class and lets the other decide whether to go.
 
-Counted with the true node, about 1 pair of people in 15 has this conjunction, one way round or the other, within 6°. I read the mean node alongside it; since the two positions never part by more than a couple of degrees, only a contact near the rim of the orb can appear in one and not the other ([mean node and true node](/astrology/mean-node-and-true-node/)). The node retreats through each sign over about 18 months, so a North Node within a few degrees of this person's is shared by anyone born a few months either side; the Mars, moving forward a sign every six or seven weeks, singles out this pair. The houses, where the growth is asked for, need both birth times ([what changes without a birth time](/blog/unknown-birth-time/)).
+Counted with the true node, about 1 pair of people in 15 has this conjunction, one way round or the other, within 6°. I read the mean node alongside it; since the two positions never drift apart by more than about two degrees, only a contact near the rim of the orb can appear in one and not the other ([mean node and true node](/astrology/mean-node-and-true-node/)). The node retreats through each sign over about 18 months, so a North Node within a few degrees of this person's is shared by anyone born a few months either side; the Mars, taking six or seven weeks over each sign, singles out this pair. The houses, where the growth is asked for, need both birth times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Inside one chart, [Mars conjunct North Node](/astrology/mars-conjunct-north-node/) makes action itself the lesson. Between two, one person acts and the other grows, and the growing has to stay the grower's own.

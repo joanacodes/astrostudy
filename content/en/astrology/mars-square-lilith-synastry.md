@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 243
 glyph: "♂□⚸"
-definition: "Mars square Lilith in synastry means a right angle, within 5.1°, joins one person’s Mars to the other’s mean Black Moon Lilith. One person’s push keeps meeting the other’s refusal to be managed, and the rub can fascinate as much as it annoys. I read it as friction that teaches clear boundaries, respected on both sides."
+definition: "Mars square Lilith in synastry means a right angle, within 5.1°, joins one person’s Mars to the other’s mean Black Moon Lilith. One person’s push keeps meeting the other’s refusal to be managed, and the rub can fascinate as much as it annoys. I take it as friction that teaches clear boundaries, respected on both sides."
 facts:
   - { k: "Bodies", v: "One person’s Mars ♂, the other’s Black Moon Lilith ⚸" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -32,17 +32,17 @@ One of you pushes; the other's no arrives from the side. In Mars square Lilith i
 
 ## What flows {#what-flows}
 
-[Mars](/astrology/mars/) is assertion in motion: the urge to start, to compete, to go after something and to defend a boundary. [Black Moon Lilith](/astrology/black-moon-lilith/), a calculated point rather than a body, is read differently from one tradition to another; for me it stands for self-government by instinct, what a person was once asked to leave out, and limits nobody else gets to draw. A [square](/astrology/square/) rubs two functions together until something adapts, and as [synastry aspects](/astrology/synastry-aspects/) go, this one turns boundaries into the subject.
+[Mars](/astrology/mars/) is assertion in motion: the urge to start, to compete, to chase an aim and to guard a boundary. [Black Moon Lilith](/astrology/black-moon-lilith/), a calculated point rather than a body, is read differently from one tradition to another; for me it stands for self-government by instinct, what a person was once asked to leave out, and limits nobody else gets to draw. A [square](/astrology/square/) rubs two functions together until something adapts, and as [synastry aspects](/astrology/synastry-aspects/) go, this one turns boundaries into the subject.
 
 What the friction can give is clarity. The Mars person learns where the other's limits really are, and that a no isn't an obstacle but information. The Lilith person learns to say that no plainly and early, without having to turn it into a battle. Pairs with this square often end up with unusually clear agreements, because they've had to make them.
 
-The signs usually share a modality. In fixed signs, say Mars in Taurus square Lilith in Leo, neither wants to give ground; in mutable signs, like Mars in Virgo square Lilith in Gemini, the push and the refusal keep changing shape.
+The signs usually share a modality. With both in fixed signs, Mars in Taurus square Lilith in Leo for instance, neither wants to give ground; in mutable signs, like Mars in Virgo square Lilith in Gemini, the push and the refusal keep changing shape.
 
 ## Where it rubs {#where-it-rubs}
 
 On the Mars side, your initiative keeps meeting a refusal you didn't see coming. You suggest, plan, push, and the other person digs in or slips away. It's easy to take that personally, or to push harder to get past it.
 
-On the Lilith side, the other's push can feel like being managed, or dared: an invitation to do things their way that lands on exactly the part of you that won't be told. It's easy to refuse on reflex, even when you'd have liked the idea.
+On the Lilith side, the other's push can feel like being managed, or dared: an invitation to do things their way that lands on exactly the side of you that refuses orders. It's easy to refuse on reflex, even when you'd have liked the idea.
 
 The same rub can fascinate as much as it annoys, and neither feeling is a verdict. Friction here isn't failure and nobody is the villain: assertion isn't aggression, and refusal isn't rejection.
 

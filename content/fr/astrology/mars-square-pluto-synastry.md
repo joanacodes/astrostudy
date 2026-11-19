@@ -32,7 +32,7 @@ L’une veut se mettre en route ; l’autre veut d’abord savoir ce qu’il y
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Mars](/astrology/mars/) avance : l’initiative, l’affirmation, la compétition, une limite défendue. [Pluton](/astrology/pluto/) descend en profondeur : transformer, régénérer, éliminer ce qui est devenu obsolète et tirer une vraie force de ce qui reste. Un [carré](/astrology/square/) met deux fonctions à angle droit, et la friction oblige chacune à s’adapter ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), c’est sous cet angle que les questions de pouvoir et de décision arrivent le plus tôt.
+[Mars](/astrology/mars/) avance : l’initiative, l’affirmation, la compétition, une limite défendue. [Pluton](/astrology/pluto/) descend en profondeur : transformer, régénérer, éliminer ce qui est devenu obsolète et tirer une vraie force de ce qui reste. Un [carré](/astrology/square/) place deux fonctions en équerre, et le frottement oblige chacune à s’adapter ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), c’est sous cet angle que les questions de pouvoir et de décision arrivent le plus tôt.
 
 Ce que la pression rend possible, c’est la mesure. La personne de Mars découvre qu’il ne suffit pas toujours de pousser plus fort, et que certaines situations demandent d’attendre que leur profondeur se montre. Celle de Pluton apprend qu’un changement peut commencer avant que tout ce qui est dessous ait été examiné, et que la vitesse de quelqu’un d’autre peut servir au lieu de nuire. Une confiance passée par ce genre d’épreuve est rarement naïve.
 

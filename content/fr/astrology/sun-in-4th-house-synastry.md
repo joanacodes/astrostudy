@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 4
 glyph: "☉"
-definition: "Le Soleil de l’autre dans votre maison 4 pose son Soleil au pied de votre thème, dans la maison du foyer, des racines et de la vie privée. En synastrie, son élan éclaire le sol où vous vous tenez : cette personne prend souvent pour vous la saveur d’un foyer, et se sent plus elle-même chez vous."
+definition: "Le Soleil de l’autre dans votre maison 4 pose son Soleil au pied de votre thème, parmi votre foyer, vos racines et votre vie privée. En synastrie, son élan éclaire le sol où vous vous tenez : cette personne prend souvent pour vous la saveur d’un foyer, et se sent plus elle-même chez vous."
 facts:
   - { k: "Corps de l’autre", v: "Le Soleil de l’autre ☉" }
   - { k: "Votre maison", v: "La maison 4, le foyer et les racines" }
@@ -49,4 +49,4 @@ Parlez du foyer comme d’une chose partagée, avec des coins privés. Quelles p
 
 Inversez les thèmes et vous obtenez votre Soleil dans sa maison 4 : c’est vous la chaleur de son foyer, avec les mêmes questions d’espace et d’intimité. [Le Soleil de l’autre dans votre maison 3](/astrology/sun-in-3rd-house-synastry/) reste dans la conversation ; [le Soleil de l’autre dans votre maison 5](/astrology/sun-in-5th-house-synastry/) la tourne vers le jeu et le plaisir.
 
-Votre Fond du Ciel fait le tour du zodiaque en une journée, comme votre ascendant : en Placidus, le système de maisons que j’utilise, votre maison 4 ne se trouve qu’avec votre heure de naissance. Son Soleil ne se déplace que d’un degré environ par jour : l’heure de l’autre ne compte qu’aux deux frontières de la maison 4 ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Le foyer est un terrain privé, et je ne le regarde qu’avec l’accord des deux personnes ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Votre Fond du Ciel accomplit chaque jour un tour complet du zodiaque, comme votre ascendant : en Placidus, le système de maisons que j’utilise, votre maison 4 ne se trouve qu’avec votre heure de naissance. Son Soleil ne se déplace que d’un degré environ par jour : l’heure de l’autre ne compte qu’aux deux frontières de la maison 4 ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Le foyer est un terrain privé, et je ne m’y aventure qu’avec l’accord des deux personnes ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

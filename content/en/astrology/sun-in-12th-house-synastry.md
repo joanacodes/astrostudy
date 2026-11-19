@@ -30,9 +30,9 @@ Their Sun in your 12th house is the hardest overlay to describe, and it can be o
 
 ## What it brings {#what-it-brings}
 
-[The 12th house](/astrology/12th-house/) is the quiet end of a chart, the stretch just before the Ascendant: solitude and retreat, recovery, care given or received without being seen, work done behind the scenes, and the parts of yourself you're still getting to know. The [Sun](/astrology/sun/) is a person's living centre, the self they're trying to bring into the light. Their Sun here makes a [house overlay](/astrology/house-overlays/) where that light falls on what you rarely show.
+[The 12th house](/astrology/12th-house/) is the quiet end of a chart, the stretch just before the Ascendant: solitude and retreat, recovery, care given or received without being seen, work done behind the scenes, and the sides of yourself you haven't met yet. The [Sun](/astrology/sun/) is a person's living centre, the self they're trying to bring into the light. Their Sun here makes a [house overlay](/astrology/house-overlays/) where that light falls on what you rarely show.
 
-With them you may feel known in a way that's hard to explain: familiar from the start, as if they'd seen the room you keep to yourself. Time with them can be restful, a retreat rather than an outing, and you may find yourself thinking about them in the quiet hours more than you talk about them in company. It's a cadent house, where one round of the houses is let go before the next begins, and [Pisces](/astrology/pisces/) is its sign by nature, porous and kind.
+With them you may feel known in a way that's hard to explain: familiar from the start, as if they'd seen the room you keep to yourself. Time with them can be restful, a retreat rather than an outing, and you may find yourself thinking about them in the quiet hours more than you talk about them in company. It's a cadent house, the close of the circle just before the Ascendant opens it again, and [Pisces](/astrology/pisces/) is its sign by nature, porous and kind.
 
 For them, the effect can be strangely invisible. Their light reaches your private side, and they may sense your quiet depth and feel at peace beside you without quite knowing how much they matter to you. They might also feel that part of you stays out of reach, a door they can hear life behind but never see open.
 

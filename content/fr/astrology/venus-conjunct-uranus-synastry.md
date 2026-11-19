@@ -19,10 +19,10 @@ facts:
 related: ["/astrology/venus", "/astrology/uranus", "/astrology/conjunction", "/astrology/venus-conjunct-uranus", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Vénus conjonction Uranus en synastrie ?"
-    a: "Uranus, chez une personne, se trouve à moins de 6° de la Vénus de l'autre. La personne d’Uranus élargit ou réarrange souvent les goûts de l’autre, tandis que celle de Vénus apprécie justement ce qui rend la première différente. L’aspect décrit le goût et l’originalité qui travaillent ensemble, en couple, en amitié, en famille ou au travail."
+    a: "Uranus, chez une personne, se trouve à moins de 6° de la Vénus de l’autre. La personne d’Uranus élargit ou réarrange souvent les goûts de l’autre, tandis que celle de Vénus apprécie justement ce qui rend la première différente. L’aspect décrit le goût et l’originalité qui travaillent ensemble, en couple, en amitié, en famille ou au travail."
   - q: "Vénus conjonction Uranus en synastrie, est-ce une attirance passagère ?"
     a: "Un angle ne me dit pas combien de temps dure quoi que ce soit, et je n’essaie pas de le deviner. Cette conjonction décrit une attirance mêlée de nouveauté, qui peut sembler soudaine. Qu’un lien garde son intérêt une fois la nouveauté retombée dépend des deux adultes, pas d’Uranus."
-  - q: "Qui change le plus avec Vénus conjonction Uranus ?"
+  - q: "Qui change le plus avec Vénus conjonction Uranus ?"
     a: "Chacune ressent autre chose. La personne de Vénus remarque souvent que ses goûts bougent, avec plaisir et parfois avec une secousse. Celle d’Uranus se sent appréciée pour des traits qui la mettent d’habitude à part, puis sent parfois une pression à continuer de surprendre. Les deux côtés méritent d’être entendus."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "ses aspects, où une rencontre au même endroit ne compte pas comme un aspect à part entière" }
@@ -41,7 +41,7 @@ Si Uranus est de votre côté, ce qui fait d’habitude de vous l’exception es
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-À 0°, l’attirance et la nouveauté se confondent, et il devient difficile de savoir laquelle vous attire. Si Vénus est de votre côté, vos goûts peuvent se mettre à suivre la dernière expérience de l’autre, jusqu’à ce qu’une préférence bien à vous paraisse terne, voire déloyale. Si Uranus est de votre côté, être appréciée ou apprécié pour vos surprises peut devenir en silence un devoir de surprendre encore ; et quand l’autre demande de garder une chose telle qu’elle était, il est facile d’entendre une résistance là où il n’y a qu’un rythme plus lent. Prendre la vitesse d’adaptation de quelqu’un pour une opposition est l’un des plus vieux angles morts d’Uranus.
+À 0°, l’attirance et la nouveauté se confondent, et il devient difficile de savoir laquelle vous attire. Côté Vénus, vos goûts peuvent se mettre à suivre la dernière expérience de l’autre, jusqu’à ce qu’une préférence bien à vous paraisse terne, voire déloyale. Si Uranus est de votre côté, être appréciée ou apprécié pour vos surprises peut devenir en silence un devoir de surprendre encore ; et quand l’autre demande de garder une chose telle qu’elle était, il est facile d’entendre une résistance là où il n’y a qu’un rythme plus lent. Prendre la vitesse d’adaptation de quelqu’un pour une opposition est l’un des plus vieux angles morts d’Uranus.
 
 La fusion laisse quand même deux personnes. Les autres angles donnent plus de distance à la même paire :
 

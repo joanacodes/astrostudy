@@ -1,7 +1,7 @@
 ---
 title: "Mars trine North Node in synastry"
 h1: "Mars trine North Node between two charts"
-description: "Mars trine North Node in synastry: one person’s drive supports the other’s growth like company, not pressure. Both sides, both nodes, what ease can hide."
+description: "Mars trine North Node in synastry: one person’s drive keeps the other’s growth company, without pressure. Both sides, both nodes, what ease can hide."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -23,7 +23,7 @@ faq:
   - q: "Does Mars trine North Node mean one person helps the other grow?"
     a: "It shows support that comes easily, but growth still comes from practice. The Node person has to do the repeating, the trying and the getting it wrong; the Mars person keeps company. When the helper starts doing the practising for them, the trine loses its point."
   - q: "What is the South Node’s part in Mars trine North Node?"
-    a: "Opposite points make complementary angles: trine to the North Node, Mars is sextile the South Node. That keeps old strengths within reach: the Mars person can encourage the new without dismissing what the Node person already does well. Both ends stay useful."
+    a: "Opposite points make complementary angles: trine to the North Node means sextile to the South. That keeps old strengths within reach: the Mars person can encourage the new without dismissing what the Node person already does well. Both ends stay useful."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, 120°, among his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 5.1°, with the true node" }
@@ -37,7 +37,7 @@ Some support feels like company rather than coaching. In Mars trine North Node i
 
 On the Node side, the less familiar gets easier when this person is around. They don't push; they're simply going your way, and practising alongside them feels natural rather than exposed. On the Mars side, your energy finds a direction it likes, and you get to watch someone become more fully themselves, partly in your company. Because your Mars is also sextile their South Node, you can value what they already do well while backing what's new.
 
-With the North Node in Aquarius, say, a Mars in Gemini or Libra lends sociable, talkative energy to working within a group; the South Node in Leo, sextile that Mars, keeps the pleasure of standing out within reach without making it the point.
+With the North Node in Capricorn, say, a Mars in Taurus or Virgo lends steady, practical effort to building a public role; the South Node in Cancer, sextile that Mars, keeps the comfort of home within reach without letting it hold everything back.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -56,6 +56,6 @@ Around the trine, the rest of the pair:
 
 Let the Node person do the repetitions. The Mars person can keep company, ask how it's going, celebrate small progress, and resist taking over. Name the new thing being practised, so ease doesn't blur it. Training partners, a mentor and mentee at work, friends learning a language together, a couple where one is retraining: all suit this trine.
 
-With the true node, about 1 pair of people in 9 has this trine, one way round or the other, within 5.1°; I read the mean node beside it and say when the two part company near the edge of the orb. A North Node position is held in common by everyone born within a few months, since the node needs about 18 months to back through a sign; the Mars person's birthday narrows it to the two of you. The houses, where the growth happens, need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
+With the true node, about 1 pair of people in 9 has this trine, one way round or the other, within 5.1°; I read the mean node beside it and say when the two part company at the limit. A North Node position is held in common by everyone born within a few months, since the node needs about 18 months to back through a sign; the Mars person's birthday narrows it to the two of you. The houses, where the growth happens, need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 For one person, [Mars trine North Node](/astrology/mars-trine-north-node/) is effort and growth agreeing. Between two, it works as long as the helper never becomes the one doing the growing.

@@ -27,11 +27,11 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "la Lune, l’un des deux luminaires" }
 ---
-La Lune de l’autre dans votre maison 7 fait arriver les besoins émotionnels d’une personne à l’endroit de votre thème où vous rencontrez quelqu’un d’égal à égal. Quel que soit le lien, il tend à prendre l’allure d’un partenariat : deux séries de besoins face à face, de part et d’autre de la table, qui apprennent à se répondre tour à tour.
+La Lune de l’autre dans votre maison 7 fait arriver les besoins émotionnels d’une personne à l’endroit de votre thème où vous rencontrez quelqu’un d’égal à égal. Quel que soit le lien, il tend à prendre l’allure d’un partenariat : deux séries de besoins face à face, qui apprennent à se répondre tour à tour.
 
 ## Ce que ça apporte {#ce-que-ca-apporte}
 
-La [maison 7](/astrology/7th-house/) décrit les personnes que vous rencontrez en tête-à-tête : partenaires en amour comme au travail, proches collaborateurs, et rivaux qui vous font face ouvertement. La [Lune](/astrology/moon/) décrit comment une personne a besoin des autres, s’attache et cherche du réconfort. Dans cette [superposition de maisons](/astrology/house-overlays/), son attachement arrive dans votre maison du partenariat.
+La [maison 7](/astrology/7th-house/) parle des personnes que vous avez en face de vous : amours et associés, proches collaborateurs, et rivaux qui s’opposent à vous ouvertement. La [Lune](/astrology/moon/) décrit comment une personne a besoin des autres, s’attache et cherche du réconfort. Dans cette [superposition de maisons](/astrology/house-overlays/), son attachement arrive dans votre maison du partenariat.
 
 De votre côté, cette personne peut vous sembler de celles dont on prend naturellement les besoins en compte, comme on le ferait pour un partenaire. Ses humeurs deviennent une part du « nous », et son confort compte dans les projets que vous faites. Vous reconnaissez peut-être aussi dans ce dont elle a besoin quelque chose dont vous avez besoin vous-même, et que vous voyez plus facilement chez elle que dans votre propre vie.
 

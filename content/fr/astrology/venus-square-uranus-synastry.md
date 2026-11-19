@@ -46,7 +46,7 @@ Si Uranus est de votre côté, les préférences de l’autre peuvent ressembler
 
 Les autres angles de la paire traitent à leur façon le fait de garder et de changer :
 
-- **[Vénus conjonction Uranus en synastrie](/astrology/venus-conjunct-uranus-synastry/) :** le goût et la nouveauté au même endroit, aimés avant d’être questionnés.
+- **[Vénus conjonction Uranus en synastrie](/astrology/venus-conjunct-uranus-synastry/) :** ce qui plaît et ce qui est neuf arrivent ensemble, avant toute question.
 - **[Vénus sextile Uranus en synastrie](/astrology/venus-sextile-uranus-synastry/) :** des idées neuves proposées, et la personne de Vénus libre de choisir.
 - **[Vénus trigone Uranus en synastrie](/astrology/venus-trine-uranus-synastry/) :** de la place accordée si volontiers que personne n’a à la réclamer.
 - **[Vénus opposition Uranus en synastrie](/astrology/venus-opposite-uranus-synastry/) :** garder et changer devenus les rôles de deux personnes.

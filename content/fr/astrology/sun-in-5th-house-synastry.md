@@ -20,7 +20,7 @@ faq:
   - q: "Le Soleil de l’autre dans ma maison 5 est-il un signe d’amour ?"
     a: "Il a souvent un parfum romantique, parce que la maison 5 couvre le jeu, le plaisir et la naissance d’un amour, et que son élan éclaire les trois. Mais la même superposition existe entre amis qui se font rire et entre collègues qui créent bien ensemble. Elle décrit un plaisir, pas un destin."
   - q: "Le Soleil en maison 5 en synastrie annonce-t-il des enfants ?"
-    a: "Non. La tradition donnait les enfants à la maison 5, mais aucun thème ne peut dire si ou quand quelqu’un aura un enfant, et je ne lis jamais une synastrie pour cela. Ce que je lis dans votre maison 5, c’est votre propre créativité, votre plaisir, et la façon dont l’élan de cette personne les réchauffe."
+    a: "Non. La maison 5 recevait les enfants dans la tradition, mais savoir si un enfant viendra, et quand, dépasse tout thème, et je ne lis jamais une synastrie pour cela. Ce que je lis dans votre maison 5, c’est votre propre créativité, votre plaisir, et la façon dont l’élan de cette personne les réchauffe."
   - q: "Que ressent la personne dont le Soleil est dans ma maison 5 ?"
     a: "En général, le plaisir d’être appréciée. Votre joie en sa compagnie, vos rires et vos jeux donnent à son sens d’elle-même un endroit chaleureux où briller. Le revers : elle peut finir par croire qu’elle doit vous divertir, comme si une soirée calme était un échec de sa part."
 sources:
@@ -31,7 +31,7 @@ Certaines personnes rendent la vie plus amusante rien qu’en arrivant. Avec le 
 
 ## Ce que ça apporte {#ce-que-ca-apporte}
 
-La [maison 5](/astrology/5th-house/) est ce que vous faites pour la joie : créer pour le plaisir de créer, les jeux, les loisirs, le flirt, les débuts d’un amour, votre façon de vous montrer quand personne ne vous note. Le [Soleil](/astrology/sun/) est le centre créateur d’une personne, l’identité qu’elle met au monde et la vitalité qui la porte. Dans cette [superposition de maisons](/astrology/house-overlays/), ce centre réchauffe votre plaisir.
+La [maison 5](/astrology/5th-house/) rassemble ce que vous faites pour la joie : créer pour le plaisir de créer, les jeux, les loisirs, le flirt, les débuts d’un amour, la façon dont vous vous montrez quand rien n’est noté. Le [Soleil](/astrology/sun/) est le centre créateur d’une personne, l’identité qu’elle met au monde et la vitalité qui la porte. Dans cette [superposition de maisons](/astrology/house-overlays/), ce centre réchauffe votre plaisir.
 
 Avec cette personne, vous riez peut-être davantage, vous prenez un risque créatif que vous repoussiez, ou vous retrouvez un passe-temps abandonné. L’attirance passe souvent par cette superposition, mais pas toujours : des amis qui se poussent à monter un groupe de musique ou à faire un jardin la ressentent aussi. Ce que vous remarquez, c’est une légèreté, le sentiment qu’en sa compagnie le plaisir n’a pas besoin d’excuse.
 
@@ -43,7 +43,7 @@ Le problème d’un lien bâti sur le plaisir, c’est ce qui se passe les jours
 
 De son côté, plaire peut devenir un travail. Cette personne peut sentir qu’elle doit garder l’étincelle, comme si une soirée terne était son échec, et s’inquiéter quand votre joie baisse pour des raisons qui n’ont rien à voir avec elle.
 
-La tradition donnait les enfants à la maison 5, et certains astrologues lisent encore le Soleil d’un partenaire à cet endroit comme une famille à venir. Pas moi, ni en synastrie ni ailleurs : aucun thème ne peut dire si ou quand quelqu’un aura un enfant ([l’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)). Ce que je lis dans votre maison 5, c’est votre propre créativité et votre plaisir.
+Dans la tradition, la maison 5 était celle des enfants, et certains astrologues lisent encore le Soleil d’un partenaire à cet endroit comme une famille à venir. Pas moi, ni en synastrie ni ailleurs : qu’un enfant vienne ou non, et quand, aucun thème, seul ou à deux, ne le montre ([l’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)). Ce que je lis dans votre maison 5, c’est votre propre créativité et votre plaisir.
 
 ## Comment le vivre {#comment-le-vivre}
 

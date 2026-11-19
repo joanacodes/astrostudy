@@ -41,7 +41,7 @@ Si Chiron est de votre côté, les arrangements que vous avez faits autour d’u
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-À 0°, l’estime et la réparation peuvent se mêler. Si Vénus est de votre côté, apprécier les adaptations de quelqu’un peut glisser vers un projet : arranger les choses pour cette personne ; mais s’adapter n’exige pas de guérison, et avoir besoin d’un peu de soutien ne rend personne dépendant. Si Chiron est de votre côté, être appréciée ou apprécié autour de votre point sensible peut le placer au centre du lien, jusqu’à donner l’impression qu’on vous aime pour la limite plutôt que pour vous-même. Le point sensible fait partie du contexte, pas de toute la personne, d’un côté comme de l’autre.
+À 0°, l’estime et la réparation peuvent se mêler. Si Vénus est de votre côté, apprécier les adaptations de quelqu’un peut glisser vers un projet : arranger les choses pour cette personne ; mais s’adapter n’exige pas de guérison, et avoir besoin d’un peu de soutien ne rend personne dépendant. Côté Chiron, qu’on vous apprécie autour de votre point sensible peut le placer au centre du lien, jusqu’à donner l’impression qu’on vous aime pour la limite plutôt que pour vous-même. Le point sensible fait partie du contexte, pas de toute la personne, d’un côté comme de l’autre.
 
 Les autres angles tiennent les deux mêmes fonctions plus à distance :
 

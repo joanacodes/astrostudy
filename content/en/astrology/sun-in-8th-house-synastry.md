@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 8
 glyph: "☉"
-definition: "Their Sun in your 8th house lets the other person’s Sun into your house of intimacy, trust and what is shared or owed. In synastry their purpose meets the places you let someone in: the bond tends to go deep and change you, and they feel seen in more of who they are; it never predicts an ending."
+definition: "Their Sun in your 8th house lets the other person’s Sun into your house of intimacy, trust and joint commitments. In synastry their purpose meets the places you let someone in: the bond tends to go deep and change you, and they feel seen in more of who they are; it never predicts an ending."
 facts:
   - { k: "Their body", v: "Their Sun ☉" }
   - { k: "Your house", v: "The 8th house, intimacy, trust and what is shared" }
@@ -30,7 +30,7 @@ Their Sun in your 8th house is an overlay of depth. Another person's sense of pu
 
 ## What it brings {#what-it-brings}
 
-[The 8th house](/astrology/8th-house/) begins where a bond gets serious: intimacy, sexual and otherwise, trust and what it costs to give it, money and decisions held in common, debts in both senses of the word. The [Sun](/astrology/sun/) is the source of a person's aliveness, their sense of being someone with a direction. As a [house overlay](/astrology/house-overlays/), their Sun here shines into rooms you don't show to many.
+[The 8th house](/astrology/8th-house/) begins where a bond gets serious: closeness of body and of mind, the price of trusting someone, money and decisions held in common, debts in both senses of the word. The [Sun](/astrology/sun/) is the source of a person's aliveness, their sense of being someone with a direction. As a [house overlay](/astrology/house-overlays/), their Sun here shines into rooms you don't show to many.
 
 You may find that things go deep quickly with them. You tell them what you'd normally keep, ask for help you'd normally manage alone, or make a joint decision sooner than you meant to. Their presence seems to give you permission to be known, and the bond often leaves you changed, the way a long conversation at three in the morning can.
 

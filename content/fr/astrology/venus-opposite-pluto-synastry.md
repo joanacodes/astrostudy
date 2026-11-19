@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/venus", "/astrology/pluto", "/astrology/opposition", "/astrology/venus-opposite-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Vénus opposition Pluton en synastrie ?"
-    a: "Pluton, chez une personne, regarde la Vénus de l'autre depuis l'autre bout du zodiaque, le plus souvent d'un signe à son opposé. La personne de Vénus veille au plaisir et à l’équité, celle de Pluton à la profondeur et à la franchise, et chacune reconnaît chez l’autre ce qu’elle porte moins. L’aspect décrit une polarité entre légèreté et profondeur, dans toute paire d’adultes."
+    a: "Pluton, chez une personne, regarde la Vénus de l’autre depuis l’autre bout du zodiaque, le plus souvent d’un signe à son opposé. La personne de Vénus veille au plaisir et à l’équité, celle de Pluton à la profondeur et à la franchise, et chacune reconnaît chez l’autre ce qu’elle porte moins. L’aspect décrit une polarité entre légèreté et profondeur, dans toute paire d’adultes."
   - q: "Est-ce que Vénus opposition Pluton veut dire que l’une contrôle l’autre ?"
     a: "Non. On a souvent l’impression que l’autre tient le pouvoir : la personne de Pluton par son intensité, celle de Vénus par l’estime qu’elle peut donner ou retenir. Mais un déséquilibre n’est pas un plan, et s’affirmer ne veut pas dire dominer. Dire ce que l’on ressent depuis chaque bout le montre en général."
   - q: "Est-ce que Vénus opposition Pluton peut marcher entre amis ou entre collègues ?"
@@ -47,7 +47,7 @@ Aux autres angles de la paire, la surface et la profondeur s’arrangent autreme
 - **[Vénus conjonction Pluton en synastrie](/astrology/venus-conjunct-pluto-synastry/) :** la surface et la profondeur fondues, sans bout à passer.
 - **[Vénus sextile Pluton en synastrie](/astrology/venus-sextile-pluto-synastry/) :** la profondeur disponible sur demande, sans que personne pousse.
 - **[Vénus carré Pluton en synastrie](/astrology/venus-square-pluto-synastry/) :** la même tension discutée à angle droit, sur les conditions plutôt que sur les rôles.
-- **[Vénus trigone Pluton en synastrie](/astrology/venus-trine-pluto-synastry/) :** la légèreté et la profondeur qui coulent ensemble, chacune à l’aise près de l’autre.
+- **[Vénus trigone Pluton en synastrie](/astrology/venus-trine-pluto-synastry/) :** profondeur et légèreté qui coulent ensemble, chacune à l’aise près de l’autre.
 
 ## Comment le vivre {#comment-le-vivre}
 

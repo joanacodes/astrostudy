@@ -17,7 +17,7 @@ facts:
 related: ["/astrology/sun", "/astrology/10th-house", "/astrology/house-overlays", "/astrology/midheaven", "/blog/unknown-birth-time"]
 faq:
   - q: "What does their Sun in my 10th house mean?"
-    a: "Their purpose lands in your public life: your work, your role, your reputation and what you want to build in the world. They tend to take your ambitions seriously, and they often admire or identify with what you do. It describes how your paths meet in public, not whether either of you will succeed."
+    a: "Their purpose lands in your public life: your work, your role, your standing and the mark you hope to leave. They tend to take your ambitions seriously, and they often admire or identify with what you do. It describes how your paths meet in public, not whether either of you will succeed."
   - q: "Can their Sun in my 10th house help my career?"
     a: "An overlay can’t make anyone’s career, and I don’t read charts for success. What it shows is that their sense of purpose meets your public direction: they may encourage you, advise you or work alongside you. Whether that helps depends on what you both do with it."
   - q: "How does my 10th house look from their side?"
@@ -32,9 +32,9 @@ Their Sun in your 10th house carries another person's purpose up to the most vis
 
 [The 10th house](/astrology/10th-house/) sits at the top of the chart: your public direction, the role you take on in the world, the responsibilities you accept and what you'd like to have done. The [Sun](/astrology/sun/) gives a person a direction and the vitality to follow it; this [house overlay](/astrology/house-overlays/) points that direction at your public life.
 
-For you, it can feel like being taken seriously. They notice what you're capable of in the world and say so; they ask about your plans as if those plans mattered; and you may find yourself aiming higher, or more precisely, because someone with a clear purpose of their own believes yours is worth pursuing. It's an angular house, the most public of the four, and [Capricorn](/astrology/capricorn/) is its natural sign, the sign of slow, deliberate building.
+For you, it can feel like being taken seriously. They notice what you're capable of in the world and say so; they ask about your plans as if those plans mattered; and you may find yourself aiming higher, or more precisely, because someone with a clear purpose of their own believes yours is worth pursuing. Of the four angular houses it is the most public, and [Capricorn](/astrology/capricorn/) is its natural sign, the sign of slow, deliberate building.
 
-For them, your role in the world can look like a version of their own aims. They may feel proud of what you do, invest their energy in your path, or simply like being seen beside you. When their Sun is just past your [Midheaven](/astrology/midheaven/), the point where the zodiac crossed the meridian at your birth, it meets the reference point of your public life, and I treat that contact as part of the same reading.
+For them, your role in the world can look like a version of their own aims. They may feel proud of what you do, invest their energy in your path, or simply like being seen beside you. When their Sun is just past your [Midheaven](/astrology/midheaven/), the degree of the zodiac on the meridian at the hour of your birth, it meets the reference point of your public life, and I treat that contact as part of the same reading.
 
 ## Where it rubs {#where-it-rubs}
 

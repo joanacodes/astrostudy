@@ -46,7 +46,7 @@ Côté Mars, méfiez-vous de dépenser votre force pour les transformations de l
 
 Autres angles, autres façons d’agencer la même force :
 
-- **[Mars conjonction Pluton en synastrie](/astrology/mars-conjunct-pluto-synastry/) :** l’endurance ramassée en un seul point, plus intense et moins détendue.
+- **[Mars conjonction Pluton en synastrie](/astrology/mars-conjunct-pluto-synastry/) :** l’endurance ramassée en un seul point, plus brûlante, et plus dure à régler.
 - **[Mars sextile Pluton en synastrie](/astrology/mars-sextile-pluto-synastry/) :** deux signes plus près, une alliance qui attend qu’on l’appelle.
 - **[Mars carré Pluton en synastrie](/astrology/mars-square-pluto-synastry/) :** un signe plus près, et le soutien tourne à la pression sur le rythme et la décision.
 - **[Mars opposition Pluton en synastrie](/astrology/mars-opposite-pluto-synastry/) :** deux signes plus loin, une force fait face à l’autre à travers le zodiaque.

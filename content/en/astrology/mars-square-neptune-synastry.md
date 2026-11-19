@@ -1,13 +1,13 @@
 ---
 title: "Mars square Neptune in synastry"
 h1: "Mars square Neptune between two charts"
-description: "Mars square Neptune in synastry: one person’s drive meets the other’s ideals at an angle, and expectations cross. Both sides, how common, what helps."
+description: "Mars square Neptune in synastry: one person’s effort and the other’s ideals come at each other sideways, and expectations cross. Both sides, what helps."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 228
 glyph: "♂□♆"
-definition: "Mars square Neptune in synastry means a quarter of the zodiac, within 5.1°, lies between one person’s Mars and the other’s Neptune. One person’s drive keeps meeting the other’s ideals from the side, so what gets done and what was imagined don’t quite match. To me it’s a friction that trains both people to say plainly what they want."
+definition: "Mars square Neptune in synastry means a quarter of the zodiac, within 5.1°, lies between one person’s Mars and the other’s Neptune. One person’s drive comes at the other’s ideals from the side, so what gets done and what was imagined don’t quite match. To me it’s a friction that trains both people to say plainly what they want."
 facts:
   - { k: "Bodies", v: "One person’s Mars ♂, the other’s Neptune ♆" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/neptune", "/astrology/square", "/astrology/mars-square-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Mars square Neptune mean in synastry?"
-    a: "One person’s Mars and the other’s Neptune stand a quarter of the zodiac apart. The Mars person’s drive and the Neptune person’s ideals keep meeting at an angle: effort aimed at one target, a picture of another. It describes crossed expectations that plain words can sort out, not a mismatch between two people."
+    a: "One person’s Mars and the other’s Neptune make a square, within 5.1°. The Mars person’s drive and the Neptune person’s ideals keep meeting at an angle: effort aimed at one target, a picture of another. It describes crossed expectations that plain words can sort out, not a mismatch between two people."
   - q: "Why do we keep misunderstanding each other with Mars square Neptune?"
     a: "Often because one person is acting on a plan while the other is describing a hope, and both use the same words. The square doesn’t make anyone dishonest. It shows where intention and imagination need checking against each other before anyone gets to work."
   - q: "Can Mars square Neptune work between colleagues?"
@@ -31,7 +31,7 @@ One of you did exactly what was asked; the other had pictured something else ent
 
 ## What flows {#what-flows}
 
-[Mars](/astrology/mars/) aims: it initiates, asserts and puts effort behind a goal. [Neptune](/astrology/neptune/) widens: imagination, compassion, ideals, a sense of what lies past the obvious. A [square](/astrology/square/) relates them through constructive friction, and when it runs between two people, as it does among the [synastry aspects](/astrology/synastry-aspects/), each one's way of wanting keeps catching on the other's.
+[Mars](/astrology/mars/) aims: it initiates, asserts and puts effort behind a goal. [Neptune](/astrology/neptune/) widens: imagination, compassion, ideals, a sense of what lies past the obvious. A [square](/astrology/square/) puts them at a working angle, and when it runs between two people, as it does among the [synastry aspects](/astrology/synastry-aspects/), each one's way of wanting keeps catching on the other's.
 
 What the friction makes possible is precision. The Neptune person, pressed to say what they actually mean, learns to put an ideal into words someone can act on. The Mars person, met by a picture larger than the task, learns to aim at what the effort is for, not only at the next step. Pairs with this square often end up better at briefs, promises and plans than pairs who never had to check.
 

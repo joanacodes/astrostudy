@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 244
 glyph: "♂△⚸"
-definition: "Mars trine Lilith in synastry means one person’s Mars and the other’s mean Black Moon Lilith form a trine, about 120° within 5.1°, mostly across one element. Action and independence agree, without discussion, on the unconventional choice. I read it as an easy alliance that still needs room for two separate wills."
+definition: "Mars trine Lilith in synastry means one person’s Mars and the other’s mean Black Moon Lilith form a trine, about 120° within 5.1°, mostly across one element. Action and independence agree, without discussion, on the unconventional choice. To me it's an easy alliance that still needs room for two separate wills."
 facts:
   - { k: "Bodies", v: "One person’s Mars ♂, the other’s Black Moon Lilith ⚸" }
   - { k: "Aspect", v: "Trine △, 120°" }

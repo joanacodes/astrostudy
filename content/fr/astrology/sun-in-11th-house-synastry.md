@@ -35,7 +35,7 @@ La [maison 11](/astrology/11th-house/) ouvre un thème sur les autres au pluriel
 
 Avec cette personne, l’avenir peut sembler plus vaste. Elle prend vos projets à long terme au sérieux, vous présente des gens qui les partagent, ou rejoint une cause qui vous tient à cœur et lui donne de l’énergie. Cette superposition a souvent une camaraderie facile, de celles qui survivent à des mois d’absence et reprennent au milieu d’une phrase.
 
-Pour l’autre, c’est dans votre cercle que son but trouve de la compagnie. Cette personne se sent parfois chez elle parmi vos amis plus vite qu’elle ne l’aurait cru, et vos espoirs laissent de la place aux siens. Succédente, la maison 11 est l’endroit où ce que vous accomplissez en public se partage et se garde vivant avec d’autres, et le [Verseau](/astrology/aquarius/) est le signe qui va avec elle. La tradition l’appelait le Génie favorable et y plaçait la joie de Jupiter.
+Pour l’autre, c’est dans votre cercle que son but trouve de la compagnie. Cette personne se sent parfois chez elle parmi vos amis plus vite qu’elle ne l’aurait cru, et vos espoirs laissent de la place aux siens. Succédente, la maison 11 est l’endroit où ce que vous accomplissez en public se partage et se garde vivant avec d’autres, et le [Verseau](/astrology/aquarius/) est le signe qui va avec elle. Son vieux nom de Génie favorable vient de la tradition, qui y logeait la joie de Jupiter.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

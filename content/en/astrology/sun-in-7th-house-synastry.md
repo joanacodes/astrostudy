@@ -19,7 +19,7 @@ faq:
   - q: "Does their Sun in my 7th house mean marriage?"
     a: "No chart shows a wedding, and I don’t read synastry for events. Their Sun in your 7th describes someone who tends to feel like a partner or an equal, the person across the table. It appears between spouses, business partners, close friends and even friendly rivals; what you make of it is yours."
   - q: "Why does their Sun in my 7th house feel like a mirror?"
-    a: "Because the 7th holds what you look for in others, and often qualities you find easier to see in someone else than in yourself. Their purpose lands there, so they can seem to embody what you want or lack. Part of the work is recognising which of those qualities are also yours."
+    a: "Because the 7th holds what you look for in others, and often qualities that are easier to admire in someone else than to own in yourself. Their purpose lands there, so they can seem to embody what you want or lack. Part of the work is recognising which of those qualities are also yours."
   - q: "What is it like to have my Sun in someone’s 7th house?"
     a: "Often a sense of meeting an equal. Your direction becomes clearer in partnership with them, as if the relationship showed you who you are. The risk is carrying the light for both of you, or feeling that the bond depends on you being the strong one."
 sources:
@@ -30,11 +30,11 @@ Their Sun in your 7th house puts someone's sense of purpose exactly where your c
 
 ## What it brings {#what-it-brings}
 
-[The 7th house](/astrology/7th-house/) is the house of the person across the table: partners in love and in work, anyone you meet as an equal, and the open rival who stands in front of you rather than behind. The [Sun](/astrology/sun/) is the core of a person's identity, the part of them that wants to be recognised for who they are. In this [house overlay](/astrology/house-overlays/), that wish arrives in the very place you go looking for a counterpart.
+[The 7th house](/astrology/7th-house/) is where you meet someone face to face: partners in love and in business, anyone you treat as an equal, and the open rival who stands in front of you rather than behind. The [Sun](/astrology/sun/) is the core of a person's identity, the part of them that wants to be recognised for who they are. In this [house overlay](/astrology/house-overlays/), that wish arrives in the very place you go looking for a counterpart.
 
-For you, they tend to matter early: a partner, an equal, someone whose direction you take seriously because it seems to answer something you were waiting for. The 7th often holds qualities you find easier to see in another person than in yourself, so they may look like the embodiment of what you want, or of what you've never quite allowed yourself. The house is angular, so what it holds shows, and [Libra](/astrology/libra/) corresponds to it in the natural zodiac: measure, a sense of justice, a taste for company.
+For you, they tend to matter early: a partner, an equal, someone whose direction you take seriously because it seems to answer something you were waiting for. The 7th often holds qualities you more readily notice in another person than in yourself, so they may look like the embodiment of what you want, or of what you've never quite allowed yourself. The house is angular, so what it holds shows, and [Libra](/astrology/libra/) corresponds to it in the natural zodiac: measure, a sense of justice, a taste for company.
 
-For them, partnership with you can be where their purpose comes into focus. They feel met as an equal, and their sense of who they are sharpens for having you opposite. If their Sun sits right on your [Descendant](/astrology/descendant/), the degree that was setting in the west when you were born, it meets the frame through which you see every other person, and I read that contact together with the overlay.
+For them, partnership with you can be where their purpose comes into focus. They feel met as an equal, and their sense of who they are sharpens for having you opposite. If their Sun sits right on your [Descendant](/astrology/descendant/), the point that was setting on the western horizon at your birth, it meets the frame through which you see every other person, and I read that contact together with the overlay.
 
 ## Where it rubs {#where-it-rubs}
 

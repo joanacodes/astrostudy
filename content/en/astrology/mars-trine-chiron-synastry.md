@@ -1,7 +1,7 @@
 ---
 title: "Mars trine Chiron in synastry"
 h1: "Mars trine Chiron between two charts"
-description: "Mars trine Chiron in synastry: one person’s drive meets the other’s tender place without pressing on it. Both sides, what the ease hides, how common it is."
+description: "Mars trine Chiron in synastry: one person’s drive comes near the other’s tender place and knows to go gently. Both sides, what the ease hides, how common."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -31,7 +31,7 @@ There's a kind of support that never needs explaining. With Mars trine Chiron in
 
 ## What flows {#what-flows}
 
-[Mars](/astrology/mars/) puts a person into motion: the first move, the steady effort, the readiness to compete and to defend what's theirs. [Chiron](/astrology/chiron/) shows where they've had to work around a lasting limit, and what that taught them. Through a [trine](/astrology/trine/), two functions keep their character and help each other along, and in the vocabulary of [synastry aspects](/astrology/synastry-aspects/), this one pairs drive with adaptation without friction.
+[Mars](/astrology/mars/) puts a person into motion: the first move, the steady effort, the appetite for a contest, the defence of what's theirs. [Chiron](/astrology/chiron/) shows where they've had to work around a lasting limit, and what that taught them. Through a [trine](/astrology/trine/), two functions keep their character and help each other along, and in the vocabulary of [synastry aspects](/astrology/synastry-aspects/), this one pairs drive with adaptation without friction.
 
 On the Mars side, you adjust your push almost by instinct around this person: you suggest rather than insist, you go a step at a time, and you find that pleases you too. You may also borrow their methods, the pacing or the tools they've worked out, and last longer for it. On the Chiron side, you get rare company: someone who backs you into the very things that once held you back, and knows when to leave you to it.
 

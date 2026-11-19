@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 248
 glyph: "♂□☊"
-definition: "Mars carré Nœud Nord en synastrie signifie que Mars, chez une personne, forme un carré avec les deux nœuds de l’autre, à 5,1° près : 90° du Nœud Nord, 90° du Nœud Sud. L’élan de l’une traverse la ligne entre l’ancien terrain de l’autre et sa croissance. J’y lis une friction tonique qui apprend à choisir, au cas par cas, où aller."
+definition: "Mars carré Nœud Nord en synastrie signifie que Mars, chez une personne, forme un carré avec les deux nœuds de l’autre, à 5,1° près : 90° du Nœud Nord, 90° du Nœud Sud. L’élan de l’une traverse la ligne entre l’ancien terrain de l’autre et sa croissance. J’y lis une friction tonique, qui enseigne le choix au cas par cas."
 facts:
   - { k: "Corps", v: "Mars ♂ de l’une, le Nœud Nord ☊ de l’autre" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -20,7 +20,7 @@ facts:
 related: ["/astrology/mars", "/astrology/north-node", "/astrology/square", "/astrology/mars-square-north-node", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Mars carré Nœud Nord en synastrie ?"
-    a: "Mars, chez l’une, est en carré avec le Nœud Nord de l’autre, et donc aussi avec son Nœud Sud. L’élan de la personne de Mars croise le chemin de celle du nœud à mi-distance entre l’ancien terrain et le nouveau. L’aspect décrit une friction qui demande à la paire de choisir, une situation à la fois, entre le familier et le moins familier."
+    a: "Mars, chez l’une, est en carré avec le Nœud Nord de l’autre, et donc aussi avec son Nœud Sud. L’élan de la personne de Mars croise le chemin de celle du nœud à mi-distance entre l’ancien terrain et le nouveau. L’aspect décrit une friction qui demande à la paire de choisir entre le familier et le moins familier."
   - q: "Est-ce que Mars carré Nœud Nord est mauvais pour une relation ?"
     a: "Aucun contact n’est mauvais, et aucun ne tranche le sort d’une relation. Ce carré montre les projets et l’énergie de l’une qui rencontrent de biais le développement de l’autre, si bien que les priorités peuvent se heurter. Discutée, cette friction apprend souvent aux deux à distinguer les vieilles habitudes des nouveaux buts."
   - q: "Est-ce que Mars carré Nœud Nord pèse plus sur l’une des deux ?"
@@ -30,19 +30,19 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 5,1° près, avec le nœud vrai" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai" }
 ---
-L’élan de l’une coupe tout droit le chemin de l’autre. Avec Mars carré Nœud Nord en synastrie, Mars, chez l’une, forme un angle droit avec le Nœud Nord de l’autre et, par la même géométrie, avec son Nœud Sud : c’est un carrefour, aussi loin de la route parcourue que de la route à venir.
+L’élan de l’une coupe tout droit le chemin de l’autre. Avec Mars carré Nœud Nord en synastrie, l’angle droit que Mars, chez l’une, fait avec le Nœud Nord de l’autre vaut aussi pour son Nœud Sud : c’est un carrefour, aussi loin de la route parcourue que de la route à venir.
 
 ## Ce qui circule {#ce-qui-circule}
 
 [Mars](/astrology/mars/) est la volonté en action : commencer, pousser, se mesurer, tenir une position. Le [Nœud Nord](/astrology/north-node/) est la façon de faire la moins fréquentée, qui ne devient naturelle qu’à force de répétition ; le [Nœud Sud](/astrology/south-node/), en face, la façon bien rodée, fiable et toujours sous la main. Un [carré](/astrology/square/) fait accrocher deux choses jusqu’à ce qu’elles s’adaptent ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), c’est celui qui pose l’énergie d’une personne en travers des deux bouts de l’[axe des nœuds](/astrology/nodal-axis/) d’une autre.
 
-Ce que la friction peut apprendre, c’est le choix délibéré. Les projets de la personne de Mars posent sans cesse une question à celle du nœud : est-ce l’ancienne façon ou la nouvelle ? Avec le temps, la personne du nœud apprend à les distinguer et à choisir exprès, plutôt que par habitude. La personne de Mars, de son côté, apprend que son élan pèse sur le développement de quelqu’un d’autre, et vise avec plus de soin.
+La friction a ceci de bon qu’elle apprend le choix délibéré. Les projets de la personne de Mars posent sans cesse une question à celle du nœud : est-ce l’ancienne façon ou la nouvelle ? Avec le temps, la personne du nœud apprend à les distinguer et à choisir exprès, plutôt que par habitude. La personne de Mars, de son côté, apprend que son élan pèse sur le développement de quelqu’un d’autre, et vise avec plus de soin.
 
 Les trois points partagent souvent un mode. Avec les nœuds en Gémeaux et en Sagittaire, Mars en Vierge ou en Poissons place une énergie mutable et souple juste entre l’apprentissage de tous les jours et la vue d’ensemble.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Côté nœud, l’énergie de l’autre peut ressembler à une interruption : au moment où vous vous lancez dans quelque chose de nouveau, ses projets vous tirent de côté, ou vous ramènent dans un ancien rôle que vous quittiez. Côté Mars, vous pouvez avoir l’impression que vos buts sont toujours mesurés à la croissance de quelqu’un d’autre, et en vouloir à une direction que vous ne voyez pas.
+Côté nœud, l’énergie de l’autre peut ressembler à une interruption : au moment où vous vous engagez dans du nouveau, ses projets vous tirent de côté, ou vous ramènent dans un ancien rôle que vous quittiez. Côté Mars, vous pouvez avoir l’impression que vos buts sont toujours mesurés à la croissance de quelqu’un d’autre, et en vouloir à une direction que vous ne voyez pas.
 
 Les deux expériences sont justes : c’est le même croisement, vu de ses deux côtés. Une friction de ce genre demande des choix, jamais que l’une s’efface pour de bon.
 

@@ -30,7 +30,7 @@ Their Moon in your 7th house brings another person's emotional needs to the plac
 
 ## What it brings {#what-it-brings}
 
-[The 7th house](/astrology/7th-house/) describes the people you meet one to one: partners in love and in work, close collaborators, and the rivals who face you openly. The [Moon](/astrology/moon/) is how a person needs, attaches and seeks comfort. In this [house overlay](/astrology/house-overlays/), their attachment lands in your house of partnership.
+[The 7th house](/astrology/7th-house/) is about the people you face one to one: lovers and business partners, close collaborators, and the rivals who oppose you openly. The [Moon](/astrology/moon/) is how a person needs, attaches and seeks comfort. In this [house overlay](/astrology/house-overlays/), their attachment lands in your house of partnership.
 
 For you, they can feel like someone whose needs you naturally take into account, the way you would with a partner. Their moods register as part of "us", and their comfort matters in the plans you make. You may also recognise in what they need something you need yourself, and find it easier to see in them than in your own life.
 

@@ -2,7 +2,7 @@
 title: "Mars opposition Lilith en synastrie"
 slug: "mars-opposition-lilith-synastrie"
 h1: "Mars opposition Lilith entre deux thèmes"
-description: "Mars opposition Lilith en synastrie : l’élan de l’une fait face à la part indomptée de l’autre, et chacune semble la sauvage. Les deux côtés, sa fréquence."
+description: "Mars opposition Lilith en synastrie : l’élan de l’une fait face au côté indompté de l’autre, et chacune semble la sauvage. Les deux côtés, sa fréquence."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -29,11 +29,11 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 6° près, avec la Lilith moyenne" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "ce qui a tenu, placement par placement, dans des thèmes individuels" }
 ---
-Chacune peut sembler la sauvage aux yeux de l’autre. Avec Mars opposition Lilith en synastrie, Mars, chez une personne, fait face à la Lune noire Lilith chez l’autre, à l’autre bout du zodiaque, et deux sortes de force, la poussée franche et le refus indompté, ne cessent de s’accrocher du regard par-dessus l’écart.
+Chacune peut sembler la sauvage aux yeux de l’autre. Avec Mars opposition Lilith en synastrie, Mars, chez une personne, regarde la Lune noire Lilith de l’autre depuis l’autre bout du zodiaque, et deux sortes de force, la poussée franche et le refus indompté, ne cessent de s’accrocher du regard par-dessus l’écart.
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Mars](/astrology/mars/) agit à découvert : lancer les choses, se mesurer, tenir sa ligne au vu de tous. La [Lune noire Lilith](/astrology/black-moon-lilith/), point lointain moyen de la Lune, se prête à plusieurs lectures ; la mienne y voit l’autonomie, la part qu’on a appris à tenir à l’écart des regards, et le pouvoir qu’on montre rarement. Une [opposition](/astrology/opposition/) place deux fonctions aux deux pôles d’une même ligne ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), c’est celle qui montre à chaque personne une force qu’elle s’autorise rarement.
+[Mars](/astrology/mars/) agit à découvert : lancer les choses, se mesurer, tenir sa ligne au vu de tous. La [Lune noire Lilith](/astrology/black-moon-lilith/), point lointain moyen de la Lune, se prête à plusieurs lectures ; la mienne y voit l’autonomie, la part qu’on a appris à tenir à l’écart des regards, et le pouvoir qu’on montre rarement. Une [opposition](/astrology/opposition/) tend un fil entre deux fonctions, une à chaque bout ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), c’est celle qui montre à chaque personne une force qu’elle s’autorise rarement.
 
 Si Mars est à vous, la Lilith de l’autre vous montre une liberté dont vous ne vous servez peut-être pas : le refus tout simple, le chemin que personne n’a approuvé, le non sans états d’âme. Si Lilith est à vous, Mars, chez l’autre, vous montre quelque chose d’aussi étranger : un élan qui ne demande la permission à personne, parce qu’il n’a jamais pensé en avoir besoin.
 
@@ -45,7 +45,7 @@ L’attirance peut tourner à la tentative de dompter. La personne de Mars peut 
 
 Une polarité n’est pas une inimitié, et Lilith n’est une marque contre personne. La fascination des premiers mois est réelle ; ce qui la garde douce ensuite, c’est le respect de deux façons d’agir qui n’ont pas besoin de se fondre.
 
-Les autres angles de la paire, vus d’en face :
+Depuis l’autre rive, le reste de la paire :
 
 - **[Mars conjonction Lilith en synastrie](/astrology/mars-conjunct-lilith-synastry/) :** plus d’écart du tout ; l’élan et le refus se rencontrent sur un degré.
 - **[Mars sextile Lilith en synastrie](/astrology/mars-sextile-lilith-synastry/) :** quatre signes plus près, une invitation à prendre ensemble le chemin inhabituel.

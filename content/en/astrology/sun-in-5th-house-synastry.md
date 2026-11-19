@@ -19,7 +19,7 @@ faq:
   - q: "Is their Sun in my 5th house a sign of romance?"
     a: "It often feels romantic, because the 5th covers play, pleasure and falling in love, and their purpose lights all three up. But the same overlay appears between friends who make each other laugh and colleagues who create well together. It describes delight, not a destiny."
   - q: "Does Sun in the 5th house synastry mean children together?"
-    a: "No. Tradition gave the 5th house children, but no chart can say whether or when anyone will have a child, and I never read synastry for it. What I read in your 5th is your own creativity and pleasure, and how this person’s purpose warms them."
+    a: "No. Children belonged to the 5th in tradition, yet whether or when someone becomes a parent is beyond any chart, and I never read synastry for it. What I read in your 5th is your own creativity and pleasure, and how this person’s purpose warms them."
   - q: "What does the person with the Sun feel in my 5th house?"
     a: "Usually enjoyed. Your delight in them, your laughter and your play give their sense of self a warm place to shine. The catch is that they can start to feel they must keep you entertained, as if a quiet evening were a failure of theirs."
 sources:
@@ -42,7 +42,7 @@ The trouble with a bond built on delight is what happens on ordinary days. If mo
 
 From their side, being enjoyed can turn into a job. They may feel they must keep things sparkling, as if a flat evening were their failure, and grow anxious when your delight dims for reasons that have nothing to do with them.
 
-Tradition gave the 5th children, and some astrologers still read a partner's Sun here as a family to come. I don't, in synastry or anywhere else: no chart can say whether or when anyone will have a child ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)). What I read in your 5th is your own creativity and pleasure.
+Tradition gave the 5th children, and some astrologers still read a partner's Sun here as a family to come. I don't, in synastry or anywhere else: whether a child will come, and when, is not something one chart or two can show ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)). What I read in your 5th is your own creativity and pleasure.
 
 ## How to meet it {#how-to-meet-it}
 

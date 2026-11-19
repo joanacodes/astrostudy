@@ -1,7 +1,7 @@
 ---
 title: "Mars sextile Lilith in synastry"
 h1: "Mars sextile Lilith between two charts"
-description: "Mars sextile Lilith in synastry: one person’s drive gives the other’s independence somewhere to go. Both sides, why the Lilith version matters, how common."
+description: "Mars sextile Lilith in synastry: initiative from one person, a practical outlet for the other’s independence. Both sides, why the Lilith version matters."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -49,7 +49,7 @@ Seen from the sextile, the other angles:
 - **[Mars conjunct Lilith in synastry](/astrology/mars-conjunct-lilith-synastry/):** two signs closer, the drive lands on the untamed point itself.
 - **[Mars square Lilith in synastry](/astrology/mars-square-lilith-synastry/):** a sign further, push and refusal meet at a sharper angle.
 - **[Mars trine Lilith in synastry](/astrology/mars-trine-lilith-synastry/):** two signs further, independence flows without needing an invitation.
-- **[Mars opposite Lilith in synastry](/astrology/mars-opposite-lilith-synastry/):** the two face each other, and each sees the other as the free one.
+- **[Mars opposite Lilith in synastry](/astrology/mars-opposite-lilith-synastry/):** facing each other, each sees the other as the free one.
 
 ## How to meet it {#how-to-meet-it}
 

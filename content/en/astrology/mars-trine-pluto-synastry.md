@@ -31,7 +31,7 @@ Some partnerships run on stamina rather than sparks. In Mars trine Pluto in syna
 
 ## What flows {#what-flows}
 
-[Mars](/astrology/mars/) gives a person their push: initiative, effort, the courage to compete and the persistence to finish. [Pluto](/astrology/pluto/) gives them depth: the capacity to transform, to renew after a loss of footing, to let obsolete things end and to grow stronger from what remains. Through a [trine](/astrology/trine/) the two reinforce each other while staying distinct, and as [synastry aspects](/astrology/synastry-aspects/) go, this is the one where drive and depth most readily back each other up.
+[Mars](/astrology/mars/) gives a person their push: initiative, effort, the nerve to compete, the persistence to finish. [Pluto](/astrology/pluto/) gives them depth: the capacity to transform, to renew after a loss of footing, to let obsolete things end and to grow stronger from what remains. Through a [trine](/astrology/trine/) the two reinforce each other while staying distinct, and as [synastry aspects](/astrology/synastry-aspects/) go, this is the one where drive and depth most readily back each other up.
 
 If the Mars is yours, your effort gets a second wind from the other person's steadiness. Setbacks feel less final around them, and you may take on harder things than you would alone. If the Pluto is yours, your capacity for deep change gets a willing engine: what you've been ready to transform, a career, a home, an old way of doing things, starts moving without a fight.
 
@@ -41,11 +41,11 @@ The element shapes the stamina. Water, say Mars in Pisces with Pluto in Scorpio,
 
 What the ease hides is who is steering. Momentum this smooth can carry a pair into big decisions before anyone has actually said yes: a move, a merger, a long commitment of time. The Pluto person's influence tends to be quiet and the Mars person's energy obliging, so the direction can be set by one of you without either noticing.
 
-From the Mars side, watch for spending your strength on the other's transformations while your own plans wait. From the Pluto side, watch for mistaking control for safety: a pair that never argues about direction may simply never have asked. Ease is no promise of outcome, and a current still needs someone at the helm.
+From the Mars side, watch for spending your strength on the other's transformations while your own plans wait. From the Pluto side, watch for mistaking control for safety: a pair that never argues about direction may simply never have asked. Ease promises no particular outcome, and somebody still has to steer.
 
 Other angles, other arrangements of the same strength:
 
-- **[Mars conjunct Pluto in synastry](/astrology/mars-conjunct-pluto-synastry/):** the stamina packed into one point, more intense and less relaxed.
+- **[Mars conjunct Pluto in synastry](/astrology/mars-conjunct-pluto-synastry/):** the stamina packed into one point, hotter and harder to pace.
 - **[Mars sextile Pluto in synastry](/astrology/mars-sextile-pluto-synastry/):** two signs nearer, an alliance that waits to be called on.
 - **[Mars square Pluto in synastry](/astrology/mars-square-pluto-synastry/):** a sign nearer, and the support turns into pressure over pace and say.
 - **[Mars opposite Pluto in synastry](/astrology/mars-opposite-pluto-synastry/):** two signs further, strength facing strength across the zodiac.

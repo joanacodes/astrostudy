@@ -32,7 +32,7 @@ Donnez un problème à cette paire, et elle a tendance à le résoudre par les d
 
 ## Ce qui circule {#ce-qui-circule}
 
-Avec [Mars](/astrology/mars/), une personne commence, pousse, se mesure et tient la distance. Avec [Pluton](/astrology/pluto/), elle va à la racine des choses : elle se défait de ce qui est devenu obsolète, renouvelle ce qui reste et grandit dans sa propre force. Un [sextile](/astrology/sextile/) est un contact d’occasion, efficace dès qu’on s’en saisit, et dans la langue des [aspects de synastrie](/astrology/synastry-aspects/), il fait de ces deux fonctions des alliées plutôt que des rivales.
+Avec [Mars](/astrology/mars/), une personne commence, pousse, se mesure et tient la distance. Avec [Pluton](/astrology/pluto/), elle va à la racine des choses : elle se défait de ce qui ne sert plus, renouvelle ce qui reste et grandit dans sa propre force. Un [sextile](/astrology/sextile/) est un contact d’occasion, efficace dès qu’on s’en saisit, et dans la langue des [aspects de synastrie](/astrology/synastry-aspects/), il fait de ces deux fonctions des alliées plutôt que des rivales.
 
 Apportez Mars à cette paire, et votre énergie gagne une direction. L’autre vous aide à voir quelle part d’une tâche compte vraiment, et l’effort cesse de s’éparpiller. Apportez Pluton, et votre sens de ce qui doit changer trouve quelqu’un de prêt à commencer : la réorganisation que vous rumiez depuis des mois obtient son premier après-midi de vrai travail.
 

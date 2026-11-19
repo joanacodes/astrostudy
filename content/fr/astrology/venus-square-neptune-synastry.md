@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/venus", "/astrology/neptune", "/astrology/square", "/astrology/venus-square-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Vénus carré Neptune en synastrie ?"
-    a: "Les deux planètes, Vénus dans un thème et Neptune dans l'autre, forment un carré d'environ 90°. La personne de Vénus veut souvent des conditions claires, des préférences dites et un juste équilibre ; celle de Neptune garde volontiers les projets ouverts. L’aspect décrit une friction entre clarté et imagination, avec laquelle deux adultes peuvent travailler."
+    a: "Les deux planètes, Vénus dans un thème et Neptune dans l’autre, forment un carré d’environ 90°. La personne de Vénus veut souvent des conditions claires, des préférences dites et un juste équilibre ; celle de Neptune garde volontiers les projets ouverts. L’aspect décrit une friction entre clarté et imagination, avec laquelle deux adultes peuvent travailler."
   - q: "Est-ce que Vénus carré Neptune veut dire que quelqu’un ment ?"
     a: "Non. Neptune décrit l’imagination, la compassion et le goût de l’inachevé, pas la tromperie, et je ne lis la malhonnêteté dans aucun contact. Ce que ce carré peut apporter, c’est du flou : un oui qui n’était qu’un peut-être, ou un idéal pris pour un fait. Des mots simples dissipent l’essentiel."
   - q: "Comment vivre Vénus carré Neptune ?"
@@ -49,7 +49,7 @@ Aux autres angles, clarté et imagination trouvent d’autres arrangements :
 - **[Vénus conjonction Neptune en synastrie](/astrology/venus-conjunct-neptune-synastry/) :** le goût et le rêve fondus, des contours à surveiller plutôt qu’à disputer.
 - **[Vénus sextile Neptune en synastrie](/astrology/venus-sextile-neptune-synastry/) :** l’imagination mise au service d’un projet commun, dès que quelqu’un fixe une date.
 - **[Vénus trigone Neptune en synastrie](/astrology/venus-trine-neptune-synastry/) :** une douceur qui n’a presque jamais besoin de conditions.
-- **[Vénus opposition Neptune en synastrie](/astrology/venus-opposite-neptune-synastry/) :** le concret et l’idéal face à face, comme deux rôles.
+- **[Vénus opposition Neptune en synastrie](/astrology/venus-opposite-neptune-synastry/) :** les détails à l’une, les espoirs à l’autre.
 
 ## Comment le vivre {#comment-le-vivre}
 

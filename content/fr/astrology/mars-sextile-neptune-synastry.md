@@ -44,7 +44,7 @@ Encore faut-il que quelqu’un passe la porte. La personne de Neptune a tendance
 
 Vu du côté de Mars, vous ne mesurez peut-être pas à quel point votre initiative serait bienvenue, et vous vous retenez par respect. Vu du côté de Neptune, l’aide semble ne venir que si vous la demandez d’une façon qui vous met mal à l’aise, alors vous cessez de demander. L’aisance est réelle ; elle est simplement discrète, et une occasion qu’on laisse de côté reste une occasion.
 
-Ce que les autres angles de la paire changent à cet arrangement :
+Ce que changent, dans cette paire, les autres angles :
 
 - **[Mars conjonction Neptune en synastrie](/astrology/mars-conjunct-neptune-synastry/) :** deux signes plus près, l’élan se pose sur le rêve même, et les deux peuvent se confondre.
 - **[Mars carré Neptune en synastrie](/astrology/mars-square-neptune-synastry/) :** un signe plus loin, la coopération devient une friction qui aiguise chacune des deux personnes.

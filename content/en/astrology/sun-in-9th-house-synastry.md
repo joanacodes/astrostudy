@@ -30,7 +30,7 @@ There are people who make the world look bigger, and someone whose Sun falls in 
 
 ## What it brings {#what-it-brings}
 
-[The 9th house](/astrology/9th-house/) is the far horizon of a chart: long journeys, other languages and cultures, higher study, faith and philosophy, teaching, and the moment you stop repeating what you were taught and start thinking it through. The [Sun](/astrology/sun/) gives a person their orientation, the aim that organises everything else. Their Sun here makes a [house overlay](/astrology/house-overlays/) in which that aim lights up your search for meaning.
+[The 9th house](/astrology/9th-house/) is the far horizon of a chart: long journeys, other languages and cultures, higher study, faith and philosophy, teaching, and the point where inherited answers give way to your own. The [Sun](/astrology/sun/) gives a person their orientation, the aim that organises everything else. Their Sun here makes a [house overlay](/astrology/house-overlays/) in which that aim lights up your search for meaning.
 
 For you, they can feel like a door opening. Because of them you read the book, take the course, book the ticket, or simply find yourself asking bigger questions over dinner. They may become a kind of teacher to you, even if neither of you would use the word, or the best travelling companion you've had.
 
