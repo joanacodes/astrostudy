@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many pairs of people have it, either way round, within 5.1°" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "why Saturn gets more time in my readings; no figure for contacts between charts" }
 ---
-Reliability is rarely called charming. Venus trine Saturn in synastry is the contact where it can be: one person's Venus sits about 120° from the other's Saturn, normally in signs of a single element, and what the first enjoys turns out to include the second's way of keeping their word.
+Reliability is rarely called charming. Venus trine Saturn in synastry is the contact where it can be: the trine joins one person's Venus to the other's Saturn, usually through signs of one element, and what the first enjoys turns out to include the second's way of keeping their word.
 
 ## What flows {#what-flows}
 
