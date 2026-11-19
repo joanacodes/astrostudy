@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun-in-leo", "/astrology/moon-in-virgo", "/astrology/mercury", "/astrology/new-moon", "/astrology/waxing-crescent"]
 faq:
   - q: "Is a Leo Sun with a Virgo Moon a perfectionist?"
-    a: "Not by nature, though it can look like one. The Leo Sun wants to make something whole and be seen in it; the Virgo Moon settles once that thing works properly. Together they set a high bar. It turns into perfectionism only when the standard stops serving anyone, including you."
+    a: "Not by nature, though it can look like one. The Leo Sun wants to make something whole and be seen in it; the Virgo Moon relaxes only when it runs smoothly. Together they set a high bar. It turns into perfectionism only when the standard stops serving anyone, including you."
   - q: "Why does Mercury matter so much to a Leo Sun, Virgo Moon?"
     a: "Mercury rules Virgo, your Moon’s sign, and is exalted there as well. Held within some 28° of the Sun, it can only be in Cancer, Leo or Virgo. In Virgo it joins your Moon at full strength; in Leo it takes on the Sun’s warmth. Its sign and house show how your feelings get sorted."
   - q: "Was the Moon visible at a Sun in Leo, Moon in Virgo birth?"
@@ -32,17 +32,17 @@ The Moon had just stepped out of the Sun's sign into the next when you arrived, 
 
 ## How they get along {#how-they-get-along}
 
-Leo is fixed fire and Virgo mutable earth, next-door signs with no element or mode in common. The [Sun in Leo](/astrology/sun-in-leo/) organises itself around making something whole and standing behind it; the [Moon in Virgo](/astrology/moon-in-virgo/) settles by sorting, mending and being of use. That makes for an unusual blend of nerve and care: you want the big gesture, and you want it to work properly, down to the last detail, before anyone sees it.
+Leo is fixed fire and Virgo mutable earth, next-door signs with no element or mode in common. The [Sun in Leo](/astrology/sun-in-leo/) organises itself around making something whole and standing behind it; the [Moon in Virgo](/astrology/moon-in-virgo/) is soothed by a task it can do well, with its hands or its head. That makes for an unusual blend of nerve and care: you want the big gesture, and you want it to work properly, down to the last detail, before anyone sees it.
 
 Your Sun is its own ruler, in its [domicile](/astrology/domicile/). The Moon answers to [Mercury](/astrology/mercury/), which rules Virgo and is exalted there too, and which can't wander beyond some 28° of the Sun, so that in a Leo month it sits in Cancer, Leo or Virgo. When it shares your Moon's sign, the planet that sorts your feelings is as well placed as tradition allows; when it sits with your Sun in Leo, your thinking takes on the Sun's warmth and its wish to be heard. Either way, Mercury is the third body I read here, right after the two lights.
 
 With the Moon 1° to 59° ahead of the Sun, the new moon lay anywhere from a few hours to nearly five days behind you. That places close to nine births in ten in the [new moon](/astrology/new-moon/) phase of the eight, the rest in the [waxing crescent](/astrology/waxing-crescent/), the first thin curve in the evening sky. Right at the start of the range the lights can still be conjunct across the sign line, an [out-of-sign aspect](/astrology/out-of-sign-aspects/) and a [Sun conjunct Moon](/astrology/sun-conjunct-moon/) all the same; [your birth lunar phase](/astrology/your-birth-lunar-phase/) sets out the phases that follow.
 
-One birth in about 141 brings this pair. The Moon gets through Virgo in roughly two and a half days, so if it was arriving from Leo or leaving for Libra on your birthday, the hour picks between this page, the double Leo of the [Sun in Leo, Moon in Leo](/astrology/sun-in-leo-moon-in-leo/) and the [Sun in Leo, Moon in Libra](/astrology/sun-in-leo-moon-in-libra/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). Born on 22 or 23 August, you may need it for the Sun's sign too, since that's when the Sun moves on into Virgo. The same hour brings the rising sign, without which these two lights have no setting.
+One birth in about 141 brings this pair. The Moon gets through Virgo in roughly two and a half days, so if it was arriving from Leo or leaving for Libra on your birthday, the hour picks between this page, the double Leo of the [Sun in Leo, Moon in Leo](/astrology/sun-in-leo-moon-in-leo/) and the [Sun in Leo, Moon in Libra](/astrology/sun-in-leo-moon-in-libra/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). Born on 22 or 23 August, you may need it for the Sun's sign too, since that's when the Sun moves on into Virgo. The rising sign rests on that hour too, and without it these two lights perform on a bare stage.
 
 ## In close relationships {#in-close-relationships}
 
-In love you're generous on the big occasions and attentive on the ordinary days. The Leo Sun remembers the anniversary and turns it into an event; the Virgo Moon remembers the allergy, the train time, the errand everyone else forgot. You might plan the whole celebration and then do the washing-up yourself, partly because you'd rather it was done properly. Let someone look after you in return, imperfectly, and thank them for it.
+In love you're generous on the big occasions and attentive on the ordinary days. The Leo Sun remembers the anniversary and turns it into an event; the Virgo Moon notices the dripping tap, the passport about to expire, the errand everyone else forgot. You might plan the whole celebration and then do the washing-up yourself, partly because you'd rather it was done properly. Let someone look after you in return, imperfectly, and thank them for it.
 
 ## At work {#at-work}
 

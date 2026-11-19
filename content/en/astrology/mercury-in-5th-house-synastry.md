@@ -30,7 +30,7 @@ Their Mercury in your 5th house turns talk into play. Running jokes, stories tol
 
 ## What it brings {#what-it-brings}
 
-[The 5th house](/astrology/5th-house/) holds the things you do for no reason but delight: play, pleasure, creativity, romance, the risks you take for fun and the way you show yourself when nobody is grading you. [Mercury](/astrology/mercury/) is curiosity and exchange, the mind that likes to connect one thing to another. In this [house overlay](/astrology/house-overlays/), their mind wanders into your playground.
+[The 5th house](/astrology/5th-house/) holds the things you do for no reason but delight: play, pleasure, creativity, romance, the risks you take for fun and the way you show yourself when nobody is grading you. [Mercury](/astrology/mercury/) is curiosity and exchange, the mind that likes to connect one thing to another. This [house overlay](/astrology/house-overlays/) lets their mind wander into your playground.
 
 For you, they make things fun to think about. They pick up your jokes and hand them back improved, suggest the game, the puzzle, the film worth arguing over afterwards, and take an interest in what you make: a drawing, a song, a half-finished story. You may grow more inventive with them, and readier to show work you'd usually keep in a drawer. When there's attraction, it often starts in words, a message read twice, a joke only the two of you get.
 

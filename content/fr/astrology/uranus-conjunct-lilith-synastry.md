@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 331
 glyph: "♅☌⚸"
-definition: "Uranus conjonction Lilith en synastrie signifie qu’Uranus, chez une personne, se trouve à moins de 4° de la Lune noire Lilith de l’autre. Le droit à la différence de l’une tombe sur ce que l’autre a appris à cacher : une permission, ou une exposition. Daté avec la Lilith moyenne, ce contact se lit par les maisons."
+definition: "Uranus conjonction Lilith en synastrie signifie qu’Uranus, chez une personne, et la Lune noire Lilith de l’autre sont à moins de 4° d’écart. Le droit à la différence de l’une tombe sur ce que l’autre a appris à cacher : une permission, ou une exposition. Ses dates suivent la Lilith moyenne, et je le lis par les maisons."
 facts:
   - { k: "Corps", v: "Uranus ♅ de l’une, la Lune noire Lilith ⚸ de l’autre" }
   - { k: "Aspect", v: "Conjonction ☌, 0°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/black-moon-lilith", "/astrology/conjunction", "/astrology/uranus-conjunct-lilith", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Uranus conjonction Lilith en synastrie ?"
-    a: "Uranus, chez une personne, se trouve à moins de 4° de la Lune noire Lilith de l’autre, en général dans le même signe. L’envie de différence de la première tombe sur ce que la seconde a appris à garder caché. On peut y trouver la permission de cesser de se corriger, ou l’impression qu’on vous expose trop tôt."
+    a: "Uranus, chez vous, tombe à moins de 4° de la Lune noire Lilith de l’autre, ou l’inverse, en général dans un même signe. L’envie de différence de la première tombe sur ce que la seconde a appris à garder caché. On peut y trouver la permission de cesser de se corriger, ou l’impression qu’on vous expose trop tôt."
   - q: "Qui a Uranus conjonction Lilith avec quelqu’un ?"
     a: "Les dates de naissance le décident. Une personne née au milieu de 1965 l’a avec toute personne née de janvier à mars 1962, puis avec chaque nouvelle fenêtre environ neuf ans plus tard, car la Lilith moyenne fait le tour du zodiaque en moins de neuf ans. Ce sont les maisons, pas l’aspect, qui en font l’affaire de deux personnes précises."
   - q: "La personne de Lilith doit-elle se montrer davantage avec ce contact ?"

@@ -2,13 +2,13 @@
 title: "Uranus opposition Lilith en synastrie"
 slug: "uranus-opposition-lilith-synastrie"
 h1: "Uranus opposition Lilith entre deux thèmes"
-description: "Uranus opposition Lilith en synastrie : la différence affichée de l’une fait face au refus discret de l’autre. Les deux côtés, qui l’a, quelle Lilith."
+description: "Uranus opposition Lilith en synastrie : la différence affichée de l’une fait face au refus discret de l’autre. Les deux bouts, les dates, quelle Lilith."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 335
 glyph: "♅☍⚸"
-definition: "Uranus opposition Lilith en synastrie signifie qu’Uranus, chez une personne, se trouve à environ 180° de la Lune noire Lilith de l’autre, à 4° près. L’une joue l’envie de se différencier, l’autre le refus et l’instinct gardé, et chacune voit dans l’autre un bout d’elle-même. Daté avec la Lilith moyenne, il se lit par les maisons."
+definition: "Uranus opposition Lilith en synastrie signifie qu’Uranus, chez une personne, fait face à la Lune noire Lilith de l’autre, à environ 180°, à 4° près. L’une joue l’envie de se différencier, l’autre le refus et l’instinct gardé, et chacune voit dans l’autre un bout d’elle-même. La Lilith moyenne le date ; les maisons portent sa lecture."
 facts:
   - { k: "Corps", v: "Uranus ♅ de l’une, la Lune noire Lilith ⚸ de l’autre" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/black-moon-lilith", "/astrology/opposition", "/astrology/uranus-opposite-lilith", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Uranus opposition Lilith en synastrie ?"
-    a: "Uranus, chez une personne, se trouve à environ 180° de la Lune noire Lilith de l’autre, dans des signes opposés. L’une porte souvent l’envie visible de rompre avec les conventions, l’autre un refus plus discret et un instinct gardé. Chacune voit dans l’autre le bout de l’axe qu’elle vit le moins, ce qui peut élargir leur registre à toutes deux."
+    a: "Uranus, chez une personne, fait face à la Lune noire Lilith de l’autre depuis le signe opposé, à environ 180°. L’une porte souvent l’envie visible de rompre avec les conventions, l’autre un refus plus discret et un instinct gardé. Chacune voit dans l’autre le bout de l’axe qu’elle vit le moins, ce qui peut élargir leur registre à toutes deux."
   - q: "Qui a Uranus opposition Lilith avec quelqu’un ?"
     a: "Prenons une naissance au milieu de 1945 : elle partage l’opposition avec toute personne née de février à mai 1973 ou de novembre 1990 à janvier 1991, des fenêtres qui reviennent environ tous les neuf ans avec la Lilith moyenne, et avec toute personne née, par périodes, de mai 1932 à mars 1935. Rien là ne désigne deux personnes en particulier : d’où l’importance des maisons."
   - q: "Est-ce qu’Uranus opposition Lilith fait de deux personnes des rivales ?"
@@ -56,6 +56,6 @@ Changez de bout exprès. La personne d’Uranus peut garder une chose pour elle,
 
 Le cycle de Lilith le répand largement. Pour une naissance au milieu de 1945, avec Uranus en Gémeaux, l’opposition se forme avec toute personne née de février à mai 1973, de décembre 1981 à mars 1982 ou de novembre 1990 à janvier 1991, quand la Lilith moyenne se tenait en face, en Sagittaire. Uranus en Bélier, chez toute personne née par périodes de mai 1932 à mars 1935, fait face à cette Lilith de 1945 en Balance. Personne ne choisit ces dates, et comme les fenêtres reviennent tous les neuf ans, le contact relie des personnes d’âges très différents. C’est pourquoi il reste en dehors des contacts que je compte, qui font tous intervenir le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Par les maisons, je le lis comme deux époques qui se tiennent à part, face à face.
 
-Je le date avec la Lilith moyenne ; sur un thème réglé sur la Lilith vraie, qui peut se trouver à plusieurs dizaines de degrés, l’opposition peut se déplacer ou disparaître ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)). L’heure ne change pas assez leurs positions pour compter, seulement les maisons que l’axe traverse : c’est pourquoi je demande les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Je le date avec la Lilith moyenne ; sur un thème réglé sur la Lilith vraie, qui peut se trouver à plusieurs dizaines de degrés, l’opposition peut se déplacer ou disparaître ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)). L’heure ne change pas assez leurs positions pour compter, seulement les maisons que l’axe traverse , d’où ma demande des deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Dans un seul thème, [Uranus opposition Lilith](/astrology/uranus-opposite-lilith/) place l’envie de se différencier d’une personne face à sa propre part indomptée, souvent rencontrée à travers les autres. Entre deux thèmes, « les autres » sont une personne précise, et chacune a son mot à dire sur le fait qu’on regarde ce contact ([synastrie et consentement](/blog/synastry-behind-their-back/)).

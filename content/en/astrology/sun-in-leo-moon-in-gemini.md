@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 51
 glyph: "☉♌☽♊"
-definition: "Sun in Leo, Moon in Gemini pairs fixed fire with mutable air, two signs apart, at a birth in the fourth week of the lunar month, after the last quarter. Picture a heart with a running commentary: one big loyalty at the centre, and needs fed by talk and variety."
+definition: "Sun in Leo, Moon in Gemini joins a fixed fire Sun to a mutable air Moon, a sextile by sign, at a birth some days past the last quarter. Picture a heart with a running commentary: one big loyalty at the centre, and needs fed by talk and variety."
 facts:
   - { k: "Sun sign", v: "Leo ♌, ruled by the Sun; its domicile" }
   - { k: "Moon sign", v: "Gemini ♊, ruled by Mercury" }
@@ -46,7 +46,7 @@ In love you're warm, funny and easy to talk to, and you need both halves returne
 
 ## At work {#at-work}
 
-Presenting, teaching, writing, championing an idea: work where you speak for something you believe in suits the pair. The Sun brings conviction and a sense of occasion, the Moon quickness, range and an ear for what people are really saying, so you can hold a room and read it at the same time. Long silent stretches drain the Moon, and work that never carries your name drains the Sun. A role with plenty of variety inside one clear mission keeps both lights awake.
+Speaking up for a cause, teaching, writing: the pair comes alive when you speak for something you believe in. The Sun brings conviction and a sense of occasion, the Moon quickness, range and an ear for what people are really saying, so you can hold a room and read it at the same time. Long silent stretches drain the Moon, and work that never carries your name drains the Sun. A role with plenty of variety inside one clear mission keeps both lights awake.
 
 ## The hard part {#the-hard-part}
 

@@ -22,7 +22,7 @@ faq:
   - q: "Is Saturn conjunct North Node a fated contact?"
     a: "No, not in my reading. Some astrologers call contacts with the nodes fated; I read this one as one person’s structure meeting the other’s direction of growth, which both are free to use or ignore. It decides nothing, and everyone born in the same months shares it."
   - q: "Who has Saturn conjunct North Node in synastry?"
-    a: "People born in windows about eighteen and a half years apart. For someone born in mid-1975, with Saturn in Cancer, it is anyone born between October 1981 and May 1982, or between May and December 2000, when the North Node crossed that part of Cancer. The months come from the true node."
+    a: "People born in windows about eighteen and a half years apart: with a mid-1975 Saturn in Cancer, that means anyone born between October 1981 and May 1982, or between May and December 2000, when the North Node crossed that part of Cancer. The months come from the true node."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the aspects; the conjunction, a meeting rather than an angle" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }

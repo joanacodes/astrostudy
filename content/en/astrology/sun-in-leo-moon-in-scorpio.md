@@ -1,7 +1,7 @@
 ---
 title: "Sun in Leo, Moon in Scorpio"
 h1: "Sun in Leo, Moon in Scorpio in a birth chart"
-description: "Sun in Leo, Moon in Scorpio: two fixed signs in a square, the Moon in its fall, born near the first quarter. Warmth in the open, depth kept private."
+description: "Sun in Leo, Moon in Scorpio: fixed fire squares fixed water, the Moon in its fall, near the first quarter moon. Warmth in the open, depth kept private."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

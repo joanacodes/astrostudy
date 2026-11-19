@@ -1,13 +1,13 @@
 ---
 title: "Sun in Leo, Moon in Taurus"
 h1: "Sun in Leo, Moon in Taurus in a birth chart"
-description: "Sun in Leo, Moon in Taurus: two fixed signs at a square, the Sun at home and the Moon exalted, born near the last quarter. Pride and comfort, in love and work."
+description: "Sun in Leo, Moon in Taurus: both lights dignified, in fixed signs a square apart, near the last quarter moon. Pride and comfort, in love and at work."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 50
 glyph: "☉♌☽♉"
-definition: "Sun in Leo, Moon in Taurus sets two fixed signs at a square, from a birth near the last quarter of the lunar month. Both lights are dignified, the Sun at home and the Moon exalted, so each stands on strong ground. I read it as loyalty in each, and two different ideas of what is worth keeping."
+definition: "Sun in Leo, Moon in Taurus sets each light in a fixed sign, a square apart, at a birth near the last quarter. Both lights are dignified, the Sun at home and the Moon exalted, so each stands on strong ground. I read it as loyalty in each, and two different ideas of what is worth keeping."
 facts:
   - { k: "Sun sign", v: "Leo ♌, ruled by the Sun; its domicile" }
   - { k: "Moon sign", v: "Taurus ♉, ruled by Venus; the Moon’s exaltation" }
@@ -21,8 +21,8 @@ faq:
     a: "By tradition, yes. Leo is the Sun’s own sign and Taurus the Moon’s exaltation, so each light works at ease in its own manner. Strength here means steadiness rather than agreement: the two signs form a square, and both are fixed, so neither gives way quickly when they want different things."
   - q: "Why does change feel slow with a Leo Sun and a Taurus Moon?"
     a: "Both signs are fixed, so both lights prefer to keep what works: the Sun its loyalties and what it has made, the Moon its routines and comforts. Change isn’t refused so much as weighed, slowly. Warning in advance and a small first step usually let this pair move without feeling pushed."
-  - q: "How old was the lunar month at a Sun in Leo, Moon in Taurus birth?"
-    a: "Between nineteen and a half and twenty-four and a half days, close to the last quarter, with the Moon 61° to 120° behind the Sun. Disseminating and last quarter births split evenly here, and near 90° the square is exact."
+  - q: "Is a Sun in Leo, Moon in Taurus birth three weeks into the lunar month?"
+    a: "Three weeks or a little more: 19½ to 24½ days, near the last quarter, the Moon trailing the Sun by 61° to 120°. Disseminating and last quarter births split evenly here, and near 90° the square is exact."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the Sun’s domicile in Leo, the Moon’s exaltation in Taurus, and Venus’s rule of Taurus" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and how far behind the Sun the Moon was" }
@@ -50,4 +50,4 @@ Work that builds something durable and lets you sign it suits this pair: a busin
 
 ## The hard part {#the-hard-part}
 
-Two fixed signs at a square can dig in. When pride and the need for security disagree, a choice that should take an afternoon can take a season: the job you've outgrown kept because it's safe, an old grievance kept because letting it go feels like losing face. What helps is the last quarter's own habit, review and release. Ask what you're holding out of pride and what out of comfort, then let one thing go at a time, at a pace the Taurus Moon can trust.
+When two fixed signs meet at a square, each can dig in. When pride and the need for security disagree, a choice that should take an afternoon can take a season: the job you've outgrown kept because it's safe, an old grievance kept because letting it go feels like losing face. What helps is the last quarter's own habit, review and release. Ask what you're holding out of pride and what out of comfort, then let one thing go at a time, at a pace the Taurus Moon can trust.

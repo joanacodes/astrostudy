@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 330
 glyph: "♅☍⚷"
-definition: "Uranus opposite Chiron in synastry means one person’s Uranus is about 180° from the other’s Chiron, within 4°. One carries the push for freedom, the other a lasting limit and its workarounds, and each sees a far end of themselves in the other. People born a few years apart often share it; the houses make it personal."
+definition: "Uranus opposite Chiron in synastry means one person’s Uranus is about 180° from the other’s Chiron, within 4°. One carries the push for freedom, the other a lasting limit and its workarounds, and each sees a far end of themselves in the other. People born a few years apart often share it; the houses hold the detail."
 facts:
   - { k: "Bodies", v: "One person’s Uranus ♅, the other’s Chiron ⚷" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }

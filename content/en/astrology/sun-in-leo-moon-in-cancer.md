@@ -32,7 +32,7 @@ Tradition gave the Sun and the Moon one sign each, Leo and Cancer, next door to 
 
 ## How they get along {#how-they-get-along}
 
-Leo is fixed fire and Cancer cardinal water. Your Moon is one sign back from your Sun, in the next-door sign, and the two share nothing but the border. The [Sun in Leo](/astrology/sun-in-leo/) wants to be seen accurately and to stand behind what it makes, in the open; the [Moon in Cancer](/astrology/moon-in-cancer/) needs a safe place to come back to, and people to look after inside it. One faces outward, the other inward, and the step between them is the step across your own front door.
+Fire that holds steady sits beside water that starts things: Leo is fixed, Cancer cardinal. Your Moon is one sign back from your Sun, in the next-door sign, and the two share nothing but the border. The [Sun in Leo](/astrology/sun-in-leo/) wants to be seen accurately and to stand behind what it makes, in the open; the [Moon in Cancer](/astrology/moon-in-cancer/) needs a safe place to come back to, and people to look after inside it. One faces outward, the other inward, and the step between them is the step across your own front door.
 
 This is the only pair in which both lights are in their [domicile](/astrology/domicile/). The [Sun](/astrology/sun/) rules Leo and the [Moon](/astrology/moon/) rules Cancer, so neither hands its business to another planet and the trail of rulers stops at the [luminaries](/astrology/luminaries/) themselves. Their two houses therefore carry unusual weight, describing where your purpose and your comfort live with no go-between. It also means no ruler elsewhere in the chart arbitrates when they disagree; the aspects each light makes become the mediators.
 

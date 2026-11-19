@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 36
 glyph: "☿"
-definition: "Mercure de l’autre dans votre maison 12 met un esprit fait pour les mots au travail là où vous gardez ce que vous taisez : la solitude, la vie intérieure. En synastrie, cette personne vous aide à mettre des mots sur vos émotions, ou vous trouve difficile à lire ; les Poissons, qui en sont le signe naturel, réunissent l’exil et la chute de Mercure."
+definition: "Mercure de l’autre dans votre maison 12 met un esprit fait pour les mots au travail là où vous gardez ce que vous taisez. En synastrie, cette personne vous aide à mettre des mots sur vos émotions, ou vous trouve difficile à lire ; les Poissons, qui en sont le signe naturel, réunissent l’exil et la chute de Mercure."
 facts:
   - { k: "Corps de l’autre", v: "Mercure de l’autre ☿" }
   - { k: "Votre maison", v: "La maison 12, ce qui reste tu et la vie intérieure" }
@@ -20,7 +20,7 @@ faq:
   - q: "Que décrit Mercure de l’autre dans ma maison 12 ?"
     a: "Une conversation avec la part de vous qui parle rarement : votre vie intérieure, ce que vous gardez pour vous, les pensées des heures calmes. Cette personne vous aide parfois à les dire, ou vous trouve difficile à lire. Cela décrit votre façon de communiquer en privé, jamais un avertissement ni un diagnostic."
   - q: "Pourquoi tant de choses restent-elles non dites entre nous ?"
-    a: "Parce que Mercure de l’autre, la planète des mots, se trouve dans la maison de ce qui se passe hors de la vue. Beaucoup se comprend sans se dire, et une part se comprend de travers. Dire la chose, même maladroitement, ou l’écrire, aide en général plus qu’attendre le bon moment."
+    a: "Parce que Mercure de l’autre, la planète des mots, se trouve dans la maison de ce qui se vit à l’abri des regards. Beaucoup se comprend sans se dire, et une part se comprend de travers. Dire la chose, même maladroitement, ou l’écrire, aide en général plus qu’attendre le bon moment."
   - q: "Que vit-on quand Mercure, dans son propre thème, tombe dans la maison 12 de l’autre ?"
     a: "Vous percevez peut-être ce que cette personne ne dit pas, et votre façon habituelle d’expliquer ralentit en sa présence. Posez vos questions doucement et laissez les silences être des silences. Si vous devinez quelque chose de sa vie intérieure, vérifiez auprès d’elle au lieu d’agir d’après votre supposition."
 sources:
@@ -35,7 +35,7 @@ La [maison 12](/astrology/12th-house/) abrite la vie que personne ne regarde : 
 
 Pour vous, elle trouve parfois les mots de ce que vous ne faisiez que ressentir. Une lettre d’elle, une conversation tardive, une question posée doucement, et une chose que vous retourniez depuis des années devient nette. Certaines personnes qui ont cette superposition s’écrivent plus facilement qu’elles ne se parlent, et gardent le meilleur pour elles.
 
-Pour elle, votre monde intérieur est fascinant et difficile à lire. Elle sent que vous comprenez plus que vous ne dites, et sa pensée change à vos côtés : plus lente, plus intuitive, moins sûre de ses explications. La maison 12 est cadente ; c’est là que la tradition voyait Saturne se réjouir. Son signe naturel, les [Poissons](/astrology/pisces/), relève de Neptune et, dans la tradition, de Jupiter, et je lis les deux. C’est aussi le signe de l’exil et de la chute de Mercure, où la pensée avance par images plus que par listes.
+Pour elle, votre monde intérieur est fascinant et difficile à lire. Elle sent que vous comprenez plus que vous ne dites, et sa pensée change à vos côtés : plus lente, plus intuitive, moins sûre de ses explications. Cadente, la maison 12 est celle où la tradition voyait Saturne se réjouir. Son signe naturel, les [Poissons](/astrology/pisces/), relève de Neptune et, dans la tradition, de Jupiter, et je lis les deux. C’est aussi le signe de l’exil et de la chute de Mercure, où la pensée avance par images plus que par listes.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

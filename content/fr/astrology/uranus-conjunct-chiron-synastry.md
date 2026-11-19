@@ -2,7 +2,7 @@
 title: "Uranus conjonction Chiron en synastrie"
 slug: "uranus-conjonction-chiron-synastrie"
 h1: "Uranus conjonction Chiron entre deux thèmes"
-description: "Uranus conjonction Chiron en synastrie : le goût du changement de l’une tombe sur le point sensible de l’autre. Les deux côtés, qui l’a, comment le vivre."
+description: "Uranus conjonction Chiron en synastrie : le goût du changement de l’une tombe sur le point sensible de l’autre. Chaque côté, les dates, comment le vivre."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

@@ -2,7 +2,7 @@
 title: "Uranus sextile Chiron en synastrie"
 slug: "uranus-sextile-chiron-synastrie"
 h1: "Uranus sextile Chiron entre deux thèmes"
-description: "Uranus sextile Chiron en synastrie : les essais de l’une offrent à l’autre un nouveau chemin autour d’une vieille limite. Les deux côtés, et qui l’a."
+description: "Uranus sextile Chiron en synastrie : les essais de l’une offrent à l’autre un nouveau chemin autour d’une vieille limite. Ce que vit chaque côté, et qui l’a."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -21,7 +21,7 @@ faq:
   - q: "Que veut dire Uranus sextile Chiron en synastrie ?"
     a: "Uranus, chez une personne, se trouve à environ 60° du Chiron de l’autre, à 2,4° près. Les essais et les méthodes inhabituelles de la première sont à portée de la plus vieille parade de la seconde. C’est une offre plutôt qu’un changement : elle ne devient quelque chose que si l’une des deux s’en saisit."
   - q: "Qui a Uranus sextile Chiron avec quelqu’un ?"
-    a: "Cela vient avec les dates de naissance. Une personne née au milieu de 1945 l’a avec toute personne née, par périodes, de mai 1971 à février 1974, et avec toute personne née, par périodes, de novembre 1980 à août 1982. Chacune de ces périodes compte une foule de naissances : pour une paire donnée, les maisons en disent plus que le sextile."
+    a: "Les seules dates de naissance l’apportent. Une personne née au milieu de 1945 l’a avec toute personne née, par périodes, de mai 1971 à février 1974, et avec toute personne née, par périodes, de novembre 1980 à août 1982. Chacune de ces périodes compte une foule de naissances : pour une paire donnée, les maisons en disent plus que le sextile."
   - q: "Est-ce qu’Uranus sextile Chiron rend les choses faciles entre deux personnes ?"
     a: "Ce sextile rend une approche nouvelle possible, pas automatique. La personne de Chiron décide encore si elle l’essaie, et celle d’Uranus doit encore rester assez longtemps pour aller au bout. Comme tout sextile, il demande un pas de chaque côté."
 sources:

@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 333
 glyph: "♅□⚸"
-definition: "Uranus carré Lilith en synastrie signifie qu’Uranus, chez une personne, se trouve à environ 90° de la Lune noire Lilith de l’autre, à 3,4° près. L’agitation de l’une accroche sans cesse les limites gardées de l’autre, et les refus de l’autre cette agitation. Daté avec la Lilith moyenne, c’est une friction entre liberté et intimité, lue par les maisons."
+definition: "Uranus carré Lilith en synastrie signifie que la Lune noire Lilith d’une personne se trouve à environ 90° d’Uranus chez l’autre, à 3,4° près. L’agitation de l’une accroche sans cesse les limites gardées de l’autre, et les refus de l’autre cette agitation. Daté avec la Lilith moyenne, c’est une friction entre liberté et intimité, lue par les maisons."
 facts:
   - { k: "Corps", v: "Uranus ♅ de l’une, la Lune noire Lilith ⚸ de l’autre" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/black-moon-lilith", "/astrology/square", "/astrology/uranus-square-lilith", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Uranus carré Lilith en synastrie ?"
-    a: "Uranus, chez une personne, se trouve à environ 90° de la Lune noire Lilith de l’autre, en général dans des signes du même mode. L’envie de la première de sortir de l’habituel appuie sans cesse sur ce que la seconde garde, et les refus de la seconde bloquent les essais de la première. C’est une friction qui peut apprendre aux deux où la liberté demande un accord."
+    a: "La Lune noire Lilith de l’autre se trouve à environ 90° d’Uranus chez vous, ou l’inverse, en général dans des signes du même mode. L’envie de la première de sortir de l’habituel appuie sans cesse sur ce que la seconde garde, et les refus de la seconde bloquent les essais de la première. C’est une friction qui peut apprendre aux deux où la liberté demande un accord."
   - q: "Est-ce qu’Uranus carré Lilith veut dire que l’une poussera l’autre trop loin ?"
     a: "Non. Ce carré ne prédit rien de la manière dont deux personnes se traiteront. Il décrit une friction qui revient entre l’agitation de l’une et les limites de l’autre, qu’on peut nommer, négocier et respecter. La friction montre où parler, pas comment les choses finissent."
   - q: "Qui a Uranus carré Lilith avec quelqu’un ?"
@@ -35,7 +35,7 @@ L’une veut ouvrir toutes les fenêtres ; l’autre a des pièces qui restent
 
 [Uranus](/astrology/uranus/) libère et expérimente : éprouver les limites, questionner les conventions, réclamer la place de vivre autrement. La [Lune noire Lilith](/astrology/black-moon-lilith/) est un point calculé, l’apogée de la Lune, et son sens est symbolique et discuté ; j’y lis l’instinct, l’autonomie et la limite tracée autour de ce qu’une personne a appris à garder pour elle. Un [carré](/astrology/square/) place deux fonctions sous un angle qui frotte, utilement ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), celui-ci donne l’envie de s’échapper à l’une et la limite gardée à l’autre.
 
-Les carrés relient en général des signes du même mode. Avec Uranus en Balance au carré d’une Lilith en Capricorne, deux signes cardinaux, chacune veut mettre quelque chose en mouvement : l’une un arrangement plus libre entre les gens, l’autre une structure qu’elle maîtrise selon ses propres règles.
+Comme la plupart des carrés, celui-ci relie deux signes du même mode. Avec Uranus en Balance au carré d’une Lilith en Capricorne, deux signes cardinaux, chacune veut mettre quelque chose en mouvement : l’une un arrangement plus libre entre les gens, l’autre une structure qu’elle maîtrise selon ses propres règles.
 
 Ce que la friction peut apprendre est précis : quelles libertés demandent un accord. Les paires qui continuent à se parler apprennent à distinguer le non de l’autre de sa peur, et leur propre élan de leur curiosité.
 
@@ -56,6 +56,6 @@ Mettez-vous d’accord sur les portes qui restent fermées, puis montrez-vous la
 
 C’est le calendrier qui le fixe. Une personne née au milieu de 1975, avec Lilith en Poissons, l’a avec toute personne née, par périodes, de février 1984 à octobre 1986, dont Uranus en Sagittaire forme un carré avec elle. Uranus en Balance, chez cette personne de 1975, forme aussi un carré avec la Lilith de toute personne née dans des fenêtres de deux ou trois mois qui reviennent environ tous les quatre ans et demi, comme d’août à octobre 1978 et de juillet à septembre 1987. Un contact aussi lié aux dates reste hors de mon compte d’une synastrie, qui ne retient que les contacts touchant le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel ; par les maisons, je le lis comme deux époques qui tirent différemment sur la frontière entre liberté et intimité.
 
-La Lilith moyenne fixe ces fenêtres ; le point vrai s’en écarte beaucoup, parfois de plusieurs dizaines de degrés, et peut donner le carré à d’autres personnes ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)). L’heure ne crée ni n’annule le carré, mais elle décide si Uranus tombe dans la maison 1 de la personne de Lilith, dans sa façon de se montrer, ou dans sa maison 9, parmi ses convictions : il me faut donc les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+La Lilith moyenne fixe ces fenêtres ; le point vrai s’en écarte beaucoup, parfois de plusieurs dizaines de degrés, et peut donner le carré à d’autres personnes ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)). L’heure ne crée ni n’annule le carré, mais elle décide si Uranus tombe dans la maison 1 de la personne de Lilith, dans sa façon de se montrer, ou dans sa maison 9, parmi ses convictions , et je ne commence qu’avec les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Dans un seul thème, [Uranus carré Lilith](/astrology/uranus-square-lilith/) oppose la propre envie de changement d’une personne à sa propre part gardée. Entre deux thèmes, la pression et la limite appartiennent à deux personnes différentes, et c’est pourquoi la lecture demande deux oui ([synastrie et consentement](/blog/synastry-behind-their-back/)).

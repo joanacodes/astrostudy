@@ -23,7 +23,7 @@ faq:
   - q: "Pourquoi les choses peuvent-elles rester en l’état avec Saturne sextile Nœud Nord ?"
     a: "Parce que Saturne fait aussi un trigone au Nœud Sud. La structure épouse si bien les forces établies de la personne du nœud que la paire peut s’y installer, et la pratique nouvelle ne commence jamais. L’ouverture vers le Nœud Nord est réelle, mais c’est la moitié qui demande un effort."
   - q: "Qui a Saturne sextile Nœud Nord ?"
-    a: "Pour une personne née mi-1965, avec Saturne en Poissons, ce sont toutes les personnes nées entre mars et juillet 1985 ou entre mai et octobre 1991, quand le Nœud Nord vrai passait en Taureau puis en Capricorne. Toutes celles nées ces mois-là le partagent : je le lis donc par les maisons."
+    a: "Prenez une naissance de la mi-1965, Saturne en Poissons : les personnes qui le partagent sont nées entre mars et juillet 1985 ou entre mai et octobre 1991, quand le Nœud Nord vrai passait en Taureau puis en Capricorne. Je le lis donc par les maisons."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, 60°, et le trigone, 120°" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai" }
@@ -35,7 +35,7 @@ Un sextile transmet une occasion, et Saturne sextile Nœud Nord en synastrie tra
 
 [Saturne](/astrology/saturn/) sait persévérer : une heure fixe, un but mesurable, la patience des résultats lents. Le [Nœud Nord](/astrology/north-node/) désigne la capacité qu’une personne apprend par la pratique, toujours associée au [Nœud Sud](/astrology/south-node/) en face, la compétence sur laquelle elle s’appuie déjà. Un [sextile](/astrology/sextile/) relie deux fonctions par une occasion qu’il faut saisir ; réparti sur deux thèmes, comme tous les [aspects de synastrie](/astrology/synastry-aspects/), il fait se rencontrer la méthode de l’une et la direction de l’autre.
 
-Si Saturne est de votre côté, vous voyez comment le nouveau savoir-faire de l’autre pourrait devenir une habitude, et vous avez la patience d’aider si on vous le demande ; ses forces établies vous conviennent.
+Si Saturne est de votre côté, le nouveau savoir-faire de l’autre vous apparaît comme une habitude qui ne demande qu’à naître, et vous avez la patience d’aider si on vous le demande ; ses forces établies vous conviennent.
 
 Si le Nœud Nord vous revient, cette personne peut changer une vague intention en pratique qui a une forme, et accepter son aide ne vous coûte pas votre assise.
 
@@ -56,6 +56,6 @@ Bâtissez le neuf sur l’ancien. Choisissez une pratique tournée vers le Nœud
 
 Le décompte donne à une personne née mi-1965, Saturne en Poissons, deux fenêtres : toutes les personnes nées entre mars et juillet 1985, Nœud Nord en Taureau, et toutes celles nées entre mai et octobre 1991, Nœud Nord en Capricorne. Dans l’autre sens, le Nœud Nord en Cancer d’une naissance de la mi-1945 l’a avec Saturne en Taureau chez toute personne née entre juin et octobre 1969. Partagé par des mois entiers de naissances, il sort de mon décompte de synastrie, qui ne garde que les contacts avec le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel ; par les maisons, il montre la patience d’une époque offerte à la croissance d’une autre, plus que rien de personnel.
 
-Je lis le nœud moyen et le nœud vrai côte à côte ; les fenêtres ci-dessus viennent du nœud vrai ([Nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). Aucune heure de naissance ne déplace assez l’un ou l’autre point pour changer le sextile, mais les maisons, c’est autre chose ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Si le Nœud Nord tombe dans la maison 3 de la personne de Saturne, la pratique peut passer par la conversation, les leçons et les apprentissages du quotidien ([Le Nœud Nord de l’autre dans votre maison 3](/astrology/north-node-in-3rd-house-synastry/)).
+Je lis le nœud moyen et le nœud vrai côte à côte ; les fenêtres ci-dessus viennent du nœud vrai ([Nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). L’heure de naissance ne bouge aucun des deux points au point de changer le sextile, mais les maisons, c’est autre chose ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Placé dans la maison 3 de la personne de Saturne, le Nœud Nord fait passer la pratique par la conversation, les leçons et les apprentissages du quotidien ([Le Nœud Nord de l’autre dans votre maison 3](/astrology/north-node-in-3rd-house-synastry/)).
 
 Une personne née avec [Saturne sextile Nœud Nord](/astrology/saturn-sextile-north-node/) peut se prêter à elle-même la discipline dont sa croissance a besoin. Entre deux personnes, le prêt est réel, et les deux doivent être d’accord avant que je le lise ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

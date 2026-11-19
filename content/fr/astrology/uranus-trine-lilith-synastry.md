@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 334
 glyph: "♅△⚸"
-definition: "Uranus trigone Lilith en synastrie signifie qu’Uranus, chez une personne, se trouve à environ 120° de la Lune noire Lilith de l’autre, à 3,4° près. Le goût de la différence de l’une et la part indomptée de l’autre s’encouragent : être soi sans retouche devient facile. Daté avec la Lilith moyenne, ce contact se lit par les maisons."
+definition: "Uranus trigone Lilith en synastrie signifie qu’environ 120°, à 3,4° près, séparent Uranus chez une personne et la Lune noire Lilith chez l’autre. Le goût de la différence de l’une et la part indomptée de l’autre s’encouragent : être soi sans retouche devient facile. Je le date avec la Lilith moyenne et le lis par les maisons."
 facts:
   - { k: "Corps", v: "Uranus ♅ de l’une, la Lune noire Lilith ⚸ de l’autre" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/black-moon-lilith", "/astrology/trine", "/astrology/uranus-trine-lilith", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Uranus trigone Lilith en synastrie ?"
-    a: "Uranus, chez une personne, se trouve à environ 120° de la Lune noire Lilith de l’autre, en général dans des signes du même élément. L’appétit de différence de la première et les instincts gardés de la seconde se soutiennent : chacune peut être elle-même sans trop se corriger. L’aspect décrit une aisance entre originalité et autonomie."
+    a: "Un trigone relie Uranus, chez une personne, à la Lune noire Lilith de l’autre, à environ 120°, en général dans des signes du même élément. L’appétit de différence de la première et les instincts gardés de la seconde se soutiennent : chacune peut être elle-même sans trop se corriger. L’aspect décrit une aisance entre originalité et autonomie."
   - q: "Est-ce qu’Uranus trigone Lilith peut rendre les choses trop faciles ?"
     a: "Ce trigone peut pencher de ce côté. Quand deux personnes se font sentir libres aussi facilement, elles cessent parfois de vérifier si une provocation est honnête ou juste amusante, ou gardent leur part indomptée pour elles deux seules. Se demander de temps en temps ce que l’aisance saute la garde généreuse."
   - q: "Qui a Uranus trigone Lilith avec quelqu’un ?"

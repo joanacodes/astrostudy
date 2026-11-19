@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/chiron", "/astrology/square", "/astrology/uranus-square-chiron", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Uranus square Chiron mean in synastry?"
-    a: "One person’s Uranus is about 90° from the other’s Chiron, usually in signs of one modality. The Uranus person’s appetite for change keeps pressing on the arrangements the Chiron person built around a lasting limit. It describes friction between change and adaptation, which can push both towards better solutions."
+    a: "Ninety degrees or so separate one person’s Uranus from the other’s Chiron, usually in signs that share a modality. The Uranus person’s appetite for change keeps pressing on the arrangements the Chiron person built around a lasting limit. It describes friction between change and adaptation, which can push both towards better solutions."
   - q: "Does Uranus square Chiron mean one person will hurt the other?"
     a: "No. It predicts nothing about what happens between two people. It can show as change arriving where the other is least flexible, and as caution that frustrates the one who wants to move. Talked through, that friction tends to produce arrangements that suit both."
   - q: "Who has Uranus square Chiron with someone?"
@@ -33,7 +33,7 @@ One of them keeps moving the furniture; the other has learned exactly where it n
 
 [Uranus](/astrology/uranus/) breaks with the expected: it reconfigures systems, insists on difference and looks for the breakthrough. [Chiron](/astrology/chiron/) works within what can't be wished away, building compensations, routines and skills around a vulnerability that persists. A [square](/astrology/square/) sets them rubbing in a way that builds; among the [synastry aspects](/astrology/synastry-aspects/), this one hands the push for change to one person and the hard-won arrangement to the other.
 
-Squares usually join signs of one modality. With Uranus in Virgo squaring Chiron in Gemini, two mutable signs, a taste for improving methods meets a tender place around being understood: one person keeps refining how things are explained, while the other has only just found words that work.
+Most squares link signs of one modality, and this one usually does. With Uranus in Virgo squaring Chiron in Gemini, two mutable signs, a taste for improving methods meets a tender place around being understood: one person keeps refining how things are explained, while the other has only just found words that work.
 
 Handled with care, the friction produces better designs. The Uranus person learns what an arrangement protects before replacing it; the Chiron person learns that change can be built with them rather than done to them. Pairs who stay with it often reach solutions neither would have found alone.
 

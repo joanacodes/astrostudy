@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/north-node", "/astrology/opposition", "/astrology/uranus-opposite-north-node", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Uranus opposite North Node mean in synastry?"
-    a: "One person’s Uranus is about 180° from the other’s North Node, which puts it on their South Node. The Uranus person’s taste for change lands on the skills and habits the node person knows best, refreshing or unsettling them, while the node person’s direction of growth lies on the far side of the chart."
+    a: "The other’s North Node lies about 180° from your Uranus, or yours from theirs, which sets the Uranus on a South Node. The Uranus person’s taste for change lands on the skills and habits the node person knows best, refreshing or unsettling them, while the node person’s direction of growth lies on the far side of the chart."
   - q: "Does Uranus opposite North Node hold someone back?"
     a: "No. It describes a stir on familiar ground, which can free someone to move as easily as it can tempt them to stay. Nothing in it decides which; the node person chooses whether what is stirred becomes a springboard or a place to settle back into."
   - q: "Who has Uranus opposite North Node with someone?"

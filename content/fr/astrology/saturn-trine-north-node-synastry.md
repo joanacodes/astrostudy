@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 314
 glyph: "♄△☊"
-definition: "Saturne trigone Nœud Nord en synastrie, c’est un trigone d’environ 120°, à 4,25° près, entre Saturne chez une personne et le Nœud Nord chez l’autre, doublé d’un sextile à son Nœud Sud. La constance de l’une nourrit ce que l’autre apprend sans peser sur ce qu’elle sait déjà. J’y lis un soutien facile, qu’il faut encore employer."
+definition: "Saturne trigone Nœud Nord en synastrie unit par un trigone, à 4,25° près, Saturne d’une personne et le Nœud Nord de l’autre, avec en prime un sextile vers son Nœud Sud. La constance de l’une nourrit ce que l’autre apprend sans peser sur ce qu’elle sait déjà. J’y lis un soutien facile, qu’il faut encore employer."
 facts:
   - { k: "Corps", v: "Saturne ♄ de l’une, le Nœud Nord ☊ de l’autre" }
   - { k: "Aspect", v: "Trigone △, 120°" }

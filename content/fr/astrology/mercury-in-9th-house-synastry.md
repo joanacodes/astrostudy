@@ -31,7 +31,7 @@ Mercure de l’autre dans votre maison 9 fait voyager la conversation. Avec cett
 
 ## Ce que ça apporte {#ce-que-ca-apporte}
 
-La [maison 9](/astrology/9th-house/) va le plus loin de chez vous : les longs voyages, les études supérieures, la foi, l’enseignement et l’édition, et le moment où une croyance héritée devient une croyance examinée. [Mercure](/astrology/mercury/) apprend, interprète et transmet. Dans cette [superposition de maisons](/astrology/house-overlays/), son esprit rencontre votre quête de sens.
+La [maison 9](/astrology/9th-house/) va le plus loin de chez vous : les longs voyages, les études supérieures, la foi, l’enseignement et l’édition, et le moment où une croyance héritée devient une croyance examinée. [Mercure](/astrology/mercury/) apprend, interprète et transmet. Cette [superposition de maisons](/astrology/house-overlays/) met son esprit face à votre quête de sens.
 
 De votre côté, cette personne ouvre des portes vers des idées. Elle vous prête l’auteur que vous n’auriez jamais trouvé, vous explique une culture de l’intérieur, prépare l’itinéraire, ou pose la question qui vous fait revoir une chose que vous aviez toujours crue. En étudiant avec elle, ou simplement en parlant tard, vous sentez votre regard s’élargir sans avoir à rien abandonner.
 

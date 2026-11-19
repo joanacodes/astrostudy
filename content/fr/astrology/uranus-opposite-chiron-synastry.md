@@ -2,13 +2,13 @@
 title: "Uranus opposition Chiron en synastrie"
 slug: "uranus-opposition-chiron-synastrie"
 h1: "Uranus opposition Chiron entre deux thèmes"
-description: "Uranus opposition Chiron en synastrie : la liberté de l’une fait face à la limite durable de l’autre, et chacune y voit un bout d’elle-même. Les deux côtés."
+description: "Uranus opposition Chiron en synastrie : la liberté de l’une fait face à la limite durable de l’autre. Chaque côté, qui l’a, et comment équilibrer."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 330
 glyph: "♅☍⚷"
-definition: "Uranus opposition Chiron en synastrie signifie qu’Uranus, chez une personne, se trouve à environ 180° du Chiron de l’autre, à 4° près. L’une porte l’élan de liberté, l’autre une limite durable et ses parades ; chacune voit dans l’autre un bout d’elle-même. Des personnes nées à quelques années d’écart l’ont souvent ; je le lis par les maisons."
+definition: "Uranus opposition Chiron en synastrie signifie qu’Uranus, chez une personne, se trouve à environ 180° du Chiron de l’autre, à 4° près. L’une porte l’élan de liberté, l’autre une limite durable et ses parades ; chacune voit dans l’autre un bout d’elle-même. Des personnes nées à quelques années d’écart l’ont souvent ; pour une paire donnée, le détail est dans les maisons."
 facts:
   - { k: "Corps", v: "Uranus ♅ de l’une, le Chiron ⚷ de l’autre" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -23,7 +23,7 @@ faq:
   - q: "Qui a Uranus opposition Chiron avec quelqu’un ?"
     a: "Les dates décident, et elles relient souvent des personnes nées à quelques années d’écart. Une personne née au milieu de 1965 l’a avec toute personne née, par périodes, de mars 1962 à janvier 1965, et de novembre 1965 à juillet 1968. Comme des camarades de classe ou des frères et sœurs le partagent, c’est par les maisons qu’il devient l’affaire de deux personnes précises."
   - q: "Est-ce qu’Uranus opposition Chiron veut dire que deux personnes vont s’éloigner ?"
-    a: "Non. Une opposition est une polarité, jamais une sentence sur une relation, et elle ne prédit rien. Son risque est plus discret : que l’une s’installe dans le rôle de la personne libre et l’autre dans celui de la personne qui fait face. Échanger un peu de chaque rôle garde la balançoire en mouvement."
+    a: "Non. Une opposition est une polarité, jamais une sentence sur une relation, et elle ne prédit rien. Le risque est ailleurs, plus discret : que l’une s’installe dans le rôle de la personne libre et l’autre dans celui de la personne qui fait face. Échanger un peu de chaque rôle garde la balançoire en mouvement."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’opposition, 180°, le plus large de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Uranus, chez une personne, à 180° du Chiron d’une autre, à 4° près" }
@@ -32,7 +32,7 @@ D’un bout d’une balançoire, l’autre bout paraît toujours plus léger ou 
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Uranus](/astrology/uranus/) différencie et libère : la place de vivre autrement, et l’envie de changer ce qui l’interdit. [Chiron](/astrology/chiron/) s’accommode : il permet à une personne de fonctionner, de contribuer et de rester en lien malgré une limite qui ne se lève pas, et cette expérience fait souvent d’elle un bon mentor. Une [opposition](/astrology/opposition/) fait de deux fonctions deux pôles, chacun plus facile à voir depuis l’autre rive ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), elle répartit cette polarité entre deux personnes.
+[Uranus](/astrology/uranus/) distingue et affranchit : la place de vivre autrement, et l’envie de changer ce qui l’interdit. [Chiron](/astrology/chiron/) s’accommode : il permet à une personne de fonctionner, de contribuer et de rester en lien malgré une limite qui ne se lève pas, et cette expérience fait souvent d’elle un bon mentor. Une [opposition](/astrology/opposition/) fait de deux fonctions deux pôles, chacun plus facile à voir depuis l’autre rive ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), elle répartit cette polarité entre deux personnes.
 
 Deux signes opposés ont le même mode et se répondent. Avec Uranus en Vierge face à un Chiron en Poissons, deux signes mutables, la paire tourne autour d’une seule question : qu’est-ce qui s’améliore par l’organisation, et qu’est-ce qui se vit tel quel ? Apprendre à distinguer les deux, c’est le cadeau de ce contact.
 

@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 338
 glyph: "♅□☊"
-definition: "Uranus carré Nœud Nord en synastrie signifie qu’Uranus d’une personne se trouve à environ 90° du Nœud Nord de l’autre, à 3,4° près, donc au carré de son Nœud Sud. L’indépendance de l’une coupe le chemin de l’autre, du familier au neuf, et demande à y entrer. Daté avec le nœud vrai, il se lit par les maisons."
+definition: "Uranus carré Nœud Nord en synastrie signifie qu’Uranus d’une personne se trouve à environ 90° du Nœud Nord de l’autre, à 3,4° près, donc au carré de son Nœud Sud. L’indépendance de l’une coupe le chemin de l’autre, du familier au neuf, et demande à y entrer. Ses dates suivent le nœud vrai, et sa lecture, les maisons."
 facts:
   - { k: "Corps", v: "Uranus ♅ de l’une, le Nœud Nord ☊ de l’autre" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -23,7 +23,7 @@ faq:
   - q: "Est-ce qu’Uranus carré Nœud Nord bloque la croissance de quelqu’un ?"
     a: "Non. Un carré est une friction, et celui-ci se tient en travers du chemin plutôt que dessus : il ne favorise aucun des deux bouts. Il peut se montrer dans des changements de plan qui interrompent la pratique de l’une, ou dans un plan qui enferme l’autre. Si l’on en parle, il rend une direction plus solide."
   - q: "Qui a Uranus carré Nœud Nord avec quelqu’un ?"
-    a: "Une naissance au milieu de 1975 le partage avec toute personne née de juin à novembre 1981 ou de novembre 1990 à mars 1991, et avec toute personne née, par périodes, de mars 2002 à décembre 2004. Les dates utilisent le nœud vrai, et aucune n’a rien de personnel."
+    a: "Une naissance au milieu de 1975 le partage avec toute personne née de juin à novembre 1981 ou de novembre 1990 à mars 1991, et avec toute personne née, par périodes, de mars 2002 à décembre 2004. Elles viennent du nœud vrai, et aucune n’a rien de personnel."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, 90°, parmi les aspects qu’il nomme" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Uranus, chez une personne, à 90° du Nœud Nord vrai d’une autre, à 3,4° près" }
@@ -56,6 +56,6 @@ Prévoyez la surprise dans le plan. La personne du nœud peut pratiquer d’une 
 
 Le mouvement à reculons des nœuds donne au carré deux occasions par tour, une de chaque côté de l’axe. Au milieu de 1975, Uranus était en Balance ; le carré relie cette naissance à toute personne née de juin à novembre 1981 ou de novembre 1990 à mars 1991, deux fenêtres à environ neuf ans d’écart. Toute personne née, par périodes, de mars 2002 à décembre 2004 a, à son tour, Uranus au carré des nœuds de 1975. Ces paires appartiennent au calendrier. Ma règle en synastrie est simple : un contact compte quand l’un de ses corps est le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel, et ce n’est pas le cas ici. Par les maisons, je lis celui-ci comme deux époques en désaccord sur la droiture d’un chemin.
 
-Ces dates suivent le nœud vrai ; je vérifie aussi le nœud moyen, à un ou deux degrés au plus, et je dis quand les deux ne s’accordent pas ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). L’heure ne change guère leurs positions, mais savoir si Uranus tombe dans la maison 4 de la personne du nœud, près du foyer et des racines, ou dans sa maison 9, parmi ses convictions, demande les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Je tire ces dates du nœud vrai ; je vérifie aussi le nœud moyen, à un ou deux degrés au plus, et je dis quand les deux ne s’accordent pas ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). L’heure ne change guère leurs positions, mais savoir si Uranus tombe dans la maison 4 de la personne du nœud, près du foyer et des racines, ou dans sa maison 9, parmi ses convictions, demande les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Quand les deux corps sont dans un même thème, comme [Uranus carré Nœud Nord](/astrology/uranus-square-north-node/), le besoin d’espace et le chemin appartiennent à la même personne. Entre deux thèmes, la traversée vient d’une autre vie, et les deux personnes décident si on la lit ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

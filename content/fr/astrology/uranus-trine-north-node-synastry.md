@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 339
 glyph: "♅△☊"
-definition: "Uranus trigone Nœud Nord en synastrie signifie qu’Uranus d’une personne se trouve à environ 120° du Nœud Nord de l’autre, à 3,4° près, donc à 60° de son Nœud Sud. Le goût du changement de l’une accompagne la croissance de l’autre et allège le neuf. Daté avec le nœud vrai, il se lit par les maisons."
+definition: "Uranus trigone Nœud Nord en synastrie signifie qu’Uranus d’une personne se trouve à environ 120° du Nœud Nord de l’autre, à 3,4° près, donc à 60° de son Nœud Sud. Le goût du changement de l’une accompagne la croissance de l’autre et allège le neuf. Calculé avec le nœud vrai, il appartient aux maisons plus qu’à la paire."
 facts:
   - { k: "Corps", v: "Uranus ♅ de l’une, le Nœud Nord ☊ de l’autre" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -23,7 +23,7 @@ faq:
   - q: "Est-ce qu’Uranus trigone Nœud Nord rend la croissance facile ?"
     a: "Plus légère, pas automatique. Une paire aussi à l’aise avec le changement peut prendre les nouveaux départs pour des progrès et ne jamais rester assez longtemps pour qu’une capacité nouvelle s’installe. Le trigone porte la croissance ; la part lente et répétée revient à la personne du nœud."
   - q: "Qui a Uranus trigone Nœud Nord avec quelqu’un ?"
-    a: "Une personne née au milieu de 1955 l’a avec toute personne née de mars à juillet 1969 ou de janvier à juin 1994, et avec toute personne née, par périodes, de septembre 1960 à août 1962. Les dates utilisent le nœud vrai ; elles appartiennent à des cohortes entières, d’où la lecture par les maisons."
+    a: "Une personne née au milieu de 1955 l’a avec toute personne née de mars à juillet 1969 ou de janvier à juin 1994, et avec toute personne née, par périodes, de septembre 1960 à août 1962. Ces fenêtres suivent le nœud vrai et appartiennent à des cohortes entières, d’où la lecture par les maisons."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, 120°, comme l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Uranus, chez une personne, à 120° du Nœud Nord vrai d’une autre, à 3,4° près" }

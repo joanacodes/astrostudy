@@ -2,13 +2,13 @@
 title: "Uranus opposition Nœud Nord en synastrie"
 slug: "uranus-opposition-noeud-nord-synastrie"
 h1: "Uranus opposition Nœud Nord entre deux thèmes"
-description: "Uranus opposition Nœud Nord en synastrie : Uranus, chez l’une, se pose sur le Nœud Sud de l’autre et remue un terrain connu. Les deux côtés, qui l’a."
+description: "Uranus opposition Nœud Nord en synastrie : Uranus, chez l’une, se pose sur le Nœud Sud de l’autre et remue un terrain connu. Les deux bouts, et qui l’a."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 340
 glyph: "♅☍☊"
-definition: "Uranus opposition Nœud Nord en synastrie signifie qu’Uranus d’une personne se trouve à environ 180° du Nœud Nord de l’autre, à 4° près, donc sur son Nœud Sud. L’appétit de changement de l’une remue ce que l’autre connaît déjà bien, alors que sa croissance va dans l’autre sens. Daté avec le nœud vrai, il se lit par les maisons."
+definition: "Uranus opposition Nœud Nord en synastrie signifie qu’Uranus d’une personne se trouve à environ 180° du Nœud Nord de l’autre, à 4° près, donc sur son Nœud Sud. L’appétit de changement de l’une remue ce que l’autre connaît déjà bien, alors que sa croissance va dans l’autre sens. Le nœud vrai fixe ses fenêtres, les maisons son sens."
 facts:
   - { k: "Corps", v: "Uranus ♅ de l’une, le Nœud Nord ☊ de l’autre" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -19,11 +19,11 @@ facts:
 related: ["/astrology/uranus", "/astrology/north-node", "/astrology/opposition", "/astrology/uranus-opposite-north-node", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Uranus opposition Nœud Nord en synastrie ?"
-    a: "Uranus, chez une personne, se trouve à environ 180° du Nœud Nord de l’autre, donc sur son Nœud Sud. Le goût du changement de la première tombe sur les savoir-faire et les habitudes que la seconde connaît le mieux, pour les rafraîchir ou les déranger, tandis que sa direction de croissance se trouve de l’autre côté du thème."
+    a: "Le Nœud Nord de l’autre se trouve à environ 180° d’Uranus chez vous, ou l’inverse, ce qui place Uranus sur un Nœud Sud. Le goût du changement de la première tombe sur les savoir-faire et les habitudes que la seconde connaît le mieux, pour les rafraîchir ou les déranger, tandis que sa direction de croissance se trouve de l’autre côté du thème."
   - q: "Est-ce qu’Uranus opposition Nœud Nord retient quelqu’un en arrière ?"
     a: "Non. Ce contact décrit une agitation en terrain connu, qui peut aussi bien libérer une personne que l’inciter à rester. Rien n’y décide lequel des deux ; la personne du nœud choisit si ce qui est remué devient un tremplin ou un endroit où se réinstaller."
   - q: "Qui a Uranus opposition Nœud Nord avec quelqu’un ?"
-    a: "Le contact relie une naissance du milieu de 1975 à toute personne née de juillet 1967 à janvier 1968 ou de février à juillet 1986, et à toute personne née, par périodes, de mai 1941 à mai 1943. Les dates utilisent le nœud vrai et sont partagées par des périodes entières de naissances."
+    a: "Le contact relie une naissance du milieu de 1975 à toute personne née de juillet 1967 à janvier 1968 ou de février à juillet 1986, et à toute personne née, par périodes, de mai 1941 à mai 1943. Le nœud vrai fixe ces dates, et des périodes entières de naissances les partagent."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’opposition, 180°, l’un des aspects qu’il énumère" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Uranus, chez une personne, à 180° du Nœud Nord vrai d’une autre, à 4° près" }
@@ -54,6 +54,6 @@ Demandez à quoi sert cette agitation. La personne du nœud peut remarquer quand
 
 Au milieu de 1975, Uranus se trouvait en Balance, sur les degrés où se tenait le Nœud Sud des personnes nées de juillet 1967 à janvier 1968, et où le Nœud Sud reviendrait pour les personnes nées de février à juillet 1986. Toute personne née, par périodes, de mai 1941 à mai 1943 a Uranus sur le Nœud Sud de 1975. L’année de naissance règle tout cela, et c’est pourquoi je ne le compte pas : les contacts que je compte entre deux thèmes comprennent chacun le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Par les maisons, il montre une époque qui remue ce qu’une autre tenait pour acquis.
 
-Les dates utilisent le nœud vrai ; je le compare au nœud moyen, jamais à plus d’un ou deux degrés, avant de dire que le contact est là ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). L’heure ne fait ni ne défait l’opposition, mais elle place l’axe : Uranus sur un Nœud Sud en maison 4, parmi les habitudes du foyer, met la croissance de la personne du nœud dans sa maison 10, dans la vie publique, et seules les deux heures peuvent le montrer ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Je prends le nœud vrai pour ces fenêtres et le compare au nœud moyen, jamais à plus d’un ou deux degrés, avant de dire que le contact est là ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). L’heure ne fait ni ne défait l’opposition, mais elle place l’axe : Uranus sur un Nœud Sud en maison 4, parmi les habitudes du foyer, met la croissance de la personne du nœud dans sa maison 10, dans la vie publique, et seules les deux heures peuvent le montrer ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Dans un seul thème, [Uranus opposition Nœud Nord](/astrology/uranus-opposite-north-node/) fait du changement et du nouveau départ quelque chose qu’une personne connaît déjà par cœur. Sur deux thèmes, l’agitation appartient à l’une et les habitudes à l’autre, et je ne la lis que si chacune des deux personnes le veut ([synastrie et consentement](/blog/synastry-behind-their-back/)).

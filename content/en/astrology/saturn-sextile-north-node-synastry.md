@@ -22,7 +22,7 @@ faq:
   - q: "Why can Saturn sextile North Node keep things as they are?"
     a: "Because the same Saturn trines the South Node. The structure fits the node person’s established strengths so comfortably that the pair can settle there, and the newer practice never gets started. The opening towards the North Node is real, but it is the half that asks for effort."
   - q: "Who has Saturn sextile North Node?"
-    a: "For someone born in mid-1965, with Saturn in Pisces, it is anyone born between March and July 1985 or between May and October 1991, when the true North Node passed Taurus and then Capricorn. Everyone born in those months shares it, so I read it through the houses."
+    a: "Take a mid-1965 birth, Saturn in Pisces: the people who share it were born between March and July 1985 or between May and October 1991, when the true North Node passed Taurus and then Capricorn. Whole months share it, so I read it through the houses."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the sextile, 60°, and the trine, 120°" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon’s nodes, mean and true" }
@@ -34,7 +34,7 @@ A sextile hands over an opportunity, and Saturn sextile North Node in synastry h
 
 [Saturn](/astrology/saturn/) knows how to keep at something: a regular hour, a measurable goal, the patience for slow results. The [North Node](/astrology/north-node/) marks the capacity a person is learning through practice, always paired with the [South Node](/astrology/south-node/) opposite, the competence they already rely on. A [sextile](/astrology/sextile/) relates two functions through an opportunity someone must act on; spread across two charts, as all the [synastry aspects](/astrology/synastry-aspects/) are, it lets one person's method meet the other's direction.
 
-If the Saturn is yours, you can see how the other's new skill could become a habit, and you have the patience to help if asked; their established strengths sit well with you.
+If the Saturn is yours, the other's new skill looks to you like a habit waiting to happen, and you have the patience to help if asked; their established strengths sit well with you.
 
 If the North Node is yours, this person can turn a vague intention into a practice with a shape, and accepting their help doesn't cost you your footing.
 

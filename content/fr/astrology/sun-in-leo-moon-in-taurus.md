@@ -2,13 +2,13 @@
 title: "Soleil en Lion, Lune en Taureau"
 slug: "soleil-en-lion-lune-en-taureau"
 h1: "Soleil en Lion, Lune en Taureau dans un thème natal"
-description: "Soleil en Lion, Lune en Taureau : deux signes fixes en carré, le Soleil chez lui, la Lune exaltée, près du dernier quartier. Fierté et confort, en amour."
+description: "Soleil en Lion, Lune en Taureau : Soleil chez lui et Lune exaltée, à angle droit, près du dernier quartier. Fierté et confort, en amour et au travail."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 50
 glyph: "☉♌☽♉"
-definition: "Soleil en Lion, Lune en Taureau met deux signes fixes en carré, pour une naissance proche du dernier quartier. Le Soleil est dans son propre signe et la Lune dans son exaltation : les deux luminaires se tiennent sur un terrain solide. J’y lis une fidélité de chaque côté, et deux idées différentes de ce qui mérite d’être gardé."
+definition: "Soleil en Lion, Lune en Taureau met chaque luminaire dans un signe fixe, en carré l’un de l’autre, près du dernier quartier. Les deux sont en dignité, le Soleil chez lui, la Lune exaltée : chacun se tient sur un terrain solide. J’y lis une fidélité de chaque côté, et deux idées différentes de ce qui mérite d’être gardé."
 facts:
   - { k: "Signe solaire", v: "Lion ♌, gouverné par le Soleil ; son domicile" }
   - { k: "Signe lunaire", v: "Taureau ♉, gouverné par Vénus ; exaltation de la Lune" }
@@ -22,8 +22,8 @@ faq:
     a: "Selon la tradition, oui. Le Lion est le propre signe du Soleil et le Taureau l’exaltation de la Lune : chaque luminaire travaille à l’aise, à sa manière. La force, ici, veut dire constance plutôt qu’accord : les deux signes forment un carré, et tous deux sont fixes, si bien qu’aucun ne cède vite quand ils veulent des choses différentes."
   - q: "Pourquoi le changement est-il lent avec un Soleil en Lion et une Lune en Taureau ?"
     a: "Les deux signes sont fixes : les deux luminaires préfèrent garder ce qui marche, le Soleil ses fidélités et ce qu’il a fait, la Lune ses habitudes et ses réconforts. Le changement n’est pas refusé, il est pesé, lentement. Être prévenu à l’avance et commencer par un petit pas permettent en général à ce duo d’avancer sans se sentir poussé."
-  - q: "Quel âge avait le mois lunaire à une naissance Soleil en Lion, Lune en Taureau ?"
-    a: "Entre dix-neuf jours et demi et vingt-quatre jours et demi, près du dernier quartier, la Lune 61° à 120° derrière le Soleil. Une moitié de ces naissances tombe dans la phase disséminante, l’autre dans celle du dernier quartier, et vers 90° le carré est exact."
+  - q: "Le mois lunaire avait-il trois semaines à une naissance Soleil en Lion, Lune en Taureau ?"
+    a: "Trois semaines ou un peu plus : entre 19 jours et demi et 24 jours et demi, près du dernier quartier, la Lune traînant 61° à 120° derrière le Soleil. Une moitié de ces naissances tombe dans la phase disséminante, l’autre dans celle du dernier quartier, et vers 90° le carré est exact."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le domicile du Soleil en Lion, l’exaltation de la Lune en Taureau, et la maîtrise de Vénus sur le Taureau" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et le retard de la Lune sur le Soleil" }
@@ -51,4 +51,4 @@ Un travail qui bâtit quelque chose de durable et que vous pouvez signer convien
 
 ## Le plus difficile {#le-plus-difficile}
 
-Deux signes fixes en carré peuvent s’arc-bouter. Quand la fierté et le besoin de sécurité ne s’accordent pas, un choix qui devrait prendre un après-midi peut prendre une saison : le poste devenu trop petit, gardé parce qu’il est sûr, une vieille rancune gardée parce que la lâcher ressemble à perdre la face. Ce qui aide, c’est l’habitude propre au dernier quartier : faire le point, puis lâcher. Demandez-vous ce que vous gardez par fierté et ce que vous gardez par confort, puis laissez partir une chose à la fois, au rythme auquel la Lune en Taureau peut se fier.
+Quand deux signes fixes se croisent en carré, chacun peut s’arc-bouter sur sa position. Quand la fierté et le besoin de sécurité ne s’accordent pas, un choix qui devrait prendre un après-midi peut prendre une saison : le poste devenu trop petit, gardé parce qu’il est sûr, une vieille rancune gardée parce que la lâcher ressemble à perdre la face. Ce qui aide, c’est l’habitude propre au dernier quartier : faire le point, puis lâcher. Demandez-vous ce que vous gardez par fierté et ce que vous gardez par confort, puis laissez partir une chose à la fois, au rythme auquel la Lune en Taureau peut se fier.

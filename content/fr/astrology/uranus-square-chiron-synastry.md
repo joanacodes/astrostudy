@@ -32,9 +32,9 @@ L’une déplace sans cesse les meubles ; l’autre a appris exactement où ch
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Uranus](/astrology/uranus/) rompt avec l’attendu : reconfigurer les systèmes, revendiquer la différence, chercher la percée. [Chiron](/astrology/chiron/) travaille avec ce qu’on ne peut pas faire disparaître, en bâtissant compensations, routines et savoir-faire autour d’une vulnérabilité qui persiste. Un [carré](/astrology/square/) les relie par une friction constructive ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), celui-ci confie l’élan de changement à l’une et l’arrangement durement acquis à l’autre.
+[Uranus](/astrology/uranus/) rompt avec l’attendu : reconfigurer les systèmes, revendiquer la différence, chercher la percée. [Chiron](/astrology/chiron/) travaille avec ce qu’on ne peut pas faire disparaître, en bâtissant compensations, routines et savoir-faire autour d’une vulnérabilité qui persiste. Un [carré](/astrology/square/) les fait frotter d’une façon qui construit ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), celui-ci confie l’élan de changement à l’une et l’arrangement durement acquis à l’autre.
 
-Les carrés relient en général des signes du même mode. Avec Uranus en Vierge au carré d’un Chiron en Gémeaux, deux signes mutables, le goût d’améliorer les méthodes rencontre un point sensible autour du fait d’être compris : l’une peaufine sans cesse sa façon d’expliquer, quand l’autre vient tout juste de trouver des mots qui lui conviennent.
+En général, un carré unit deux signes du même mode. Avec Uranus en Vierge au carré d’un Chiron en Gémeaux, deux signes mutables, le goût d’améliorer les méthodes rencontre un point sensible autour du fait d’être compris : l’une peaufine sans cesse sa façon d’expliquer, quand l’autre vient tout juste de trouver des mots qui lui conviennent.
 
 Bien mené, ce frottement donne de meilleures solutions. La personne d’Uranus apprend ce que protège un arrangement avant de le remplacer ; celle de Chiron apprend qu’un changement peut se construire avec elle plutôt que lui tomber dessus. Les paires qui tiennent bon trouvent souvent ce qu’aucune n’aurait trouvé seule.
 

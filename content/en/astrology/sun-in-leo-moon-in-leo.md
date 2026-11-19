@@ -1,13 +1,13 @@
 ---
 title: "Sun in Leo, Moon in Leo"
 h1: "Sun in Leo, Moon in Leo in a birth chart"
-description: "Sun in Leo, Moon in Leo: a double Leo, born near a new moon when the Moon could barely be seen, the Sun ruling both lights. One source of warmth, read twice."
+description: "Sun in Leo, Moon in Leo: the Sun rules both lights, and the Moon, so close to new, could barely be seen. One source of warmth, read twice."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 53
 glyph: "☉♌☽♌"
-definition: "Sun in Leo, Moon in Leo means both lights were in Leo at your birth, within about 2½ days of a new moon. The Sun rules the sign, so a single light answers for both. I read it as purpose and comfort lit from one source: making something from the heart, and having it seen."
+definition: "Sun in Leo, Moon in Leo is the double Leo: both lights in the Sun’s own sign, no more than about 2½ days from a new moon. The Sun rules the sign, so a single light answers for both. I read it as purpose and comfort lit from one source: making something from the heart, and having it seen."
 facts:
   - { k: "Sun sign", v: "Leo ♌, ruled by the Sun; its domicile" }
   - { k: "Moon sign", v: "Leo ♌, ruled by the Sun; no dignity for the Moon" }
@@ -36,7 +36,7 @@ Both lights burn in fixed fire. The [Sun in Leo](/astrology/sun-in-leo/) organis
 
 The [Sun](/astrology/sun/) rules [Leo](/astrology/leo/), so in this chart it rules both lights and answers to nobody: the Moon reports to the Sun, and the Sun to itself. The Sun is in its [domicile](/astrology/domicile/); the Moon holds no dignity of its own in Leo, only the standing it borrows from its ruler. Where another pair sends me on to a second planet, a double Leo sends me back to the Sun again, to its house and to its aspects, which the Moon, so close by, very often shares.
 
-Anywhere from 30° behind the Sun to 29° ahead of it: that is where your Moon could be, which puts the birth no more than about 2½ days from a new moon. Half these births fall in the [balsamic moon](/astrology/balsamic-moon/), as the old month closes, and half in the [new moon](/astrology/new-moon/) phase that opens the next; the new moon on either side of your birth was usually a [new moon in Leo](/astrology/new-moon-in-leo/), and with the lights close together the chart has a [Sun conjunct Moon](/astrology/sun-conjunct-moon/). Which side of the exact new moon you came is a matter of hours, and [your birth lunar phase](/astrology/your-birth-lunar-phase/) says what each side means.
+Your Moon could sit anywhere in a span of some 59°, from 30° behind the Sun to 29° ahead of it; in time, that is no more than about 2½ days either side of a new moon. The [balsamic moon](/astrology/balsamic-moon/), last phase of the old month, takes one half of these births and the [new moon](/astrology/new-moon/) phase the other; the new moon on either side of your birth was usually a [new moon in Leo](/astrology/new-moon-in-leo/), and with the lights close together the chart has a [Sun conjunct Moon](/astrology/sun-conjunct-moon/). Which side of the exact new moon you came is a matter of hours, and [your birth lunar phase](/astrology/your-birth-lunar-phase/) says what each side means.
 
 Roughly one person in 142 is a double Leo. Most birthdays settle it, since the Moon usually keeps one sign from midnight to midnight; on the day it came in from Cancer or moved on to Virgo, the hour decides between a double Leo, the [Sun in Leo, Moon in Cancer](/astrology/sun-in-leo-moon-in-cancer/) and the [Sun in Leo, Moon in Virgo](/astrology/sun-in-leo-moon-in-virgo/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). When both lights share a sign, it's tempting to read that sign twice and call it a portrait. I hold back: in [my notebook](/blog/i-tested-my-birth-chart/), about a third of the Sun signs I checked held up, and the Moon, ticked or crossed like every placement, didn't join the three that held far more often.
 

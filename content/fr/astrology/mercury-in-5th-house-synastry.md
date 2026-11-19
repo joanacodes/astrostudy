@@ -31,7 +31,7 @@ Mercure de l’autre dans votre maison 5 transforme la parole en jeu. Les plaisa
 
 ## Ce que ça apporte {#ce-que-ca-apporte}
 
-La [maison 5](/astrology/5th-house/) est ce que vous faites pour la joie : le jeu, le plaisir, la créativité, les amours, les risques pris pour le frisson et la façon dont vous vous montrez quand personne ne vous note. [Mercure](/astrology/mercury/) est la curiosité et l’échange, l’esprit qui aime relier une chose à une autre. Dans cette [superposition de maisons](/astrology/house-overlays/), son esprit s’aventure dans votre cour de récréation.
+La [maison 5](/astrology/5th-house/) est ce que vous faites pour la joie : le jeu, le plaisir, la créativité, les amours, les risques pris pour le frisson et la façon dont vous vous montrez quand personne ne vous note. [Mercure](/astrology/mercury/) est la curiosité et l’échange, l’esprit qui aime relier une chose à une autre. Cette [superposition de maisons](/astrology/house-overlays/) laisse son esprit s’aventurer dans votre cour de récréation.
 
 De votre côté, cette personne rend les choses amusantes à penser. Elle reprend vos plaisanteries et vous les rend améliorées, propose le jeu, l’énigme, le film dont on discutera après, et s’intéresse à ce que vous créez : un dessin, une chanson, une histoire à moitié écrite. L’inventivité vous vient plus facilement avec elle, et vous osez montrer un travail que vous laisseriez d’habitude dans un tiroir. Quand il y a de l’attirance, elle commence souvent par les mots : un message relu deux fois, une plaisanterie que personne d’autre ne comprend.
 

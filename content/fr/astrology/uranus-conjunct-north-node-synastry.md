@@ -2,13 +2,13 @@
 title: "Uranus conjonction Nœud Nord en synastrie"
 slug: "uranus-conjonction-noeud-nord-synastrie"
 h1: "Uranus conjonction Nœud Nord entre deux thèmes"
-description: "Uranus conjonction Nœud Nord en synastrie : les essais de l’une tombent sur la direction dans laquelle l’autre grandit. Les deux côtés, le Nœud Sud, qui l’a."
+description: "Uranus conjonction Nœud Nord en synastrie : les essais de l’une tombent sur le chemin où l’autre grandit. Les deux nœuds, et qui le partage."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 336
 glyph: "♅☌☊"
-definition: "Uranus conjonction Nœud Nord en synastrie signifie qu’Uranus, chez une personne, se trouve à moins de 4° du Nœud Nord de l’autre, donc à l’opposé de son Nœud Sud. Les essais de l’une tombent sur la direction dans laquelle l’autre apprend à grandir, pour l’encourager ou la presser. Daté avec le nœud vrai, il se lit par les maisons."
+definition: "Uranus conjonction Nœud Nord en synastrie signifie qu’Uranus, chez une personne, se trouve à moins de 4° du Nœud Nord de l’autre, donc à l’opposé de son Nœud Sud. Les essais de l’une tombent sur la direction dans laquelle l’autre apprend à grandir, pour l’encourager ou la presser. Daté au nœud vrai, il se lit dans les maisons."
 facts:
   - { k: "Corps", v: "Uranus ♅ de l’une, le Nœud Nord ☊ de l’autre" }
   - { k: "Aspect", v: "Conjonction ☌, 0°" }
@@ -21,9 +21,9 @@ faq:
   - q: "Que veut dire Uranus conjonction Nœud Nord en synastrie ?"
     a: "Uranus, chez une personne, se trouve à moins de 4° du Nœud Nord de l’autre, et donc à l’opposé de son Nœud Sud. L’appétit de nouveauté de la première se pose sur la direction dans laquelle la seconde apprend à grandir. Cela peut porter, pour s’exercer à l’inconnu, ou presser au-delà d’habitudes encore utiles."
   - q: "Est-ce qu’Uranus conjonction Nœud Nord est un contact prédestiné ?"
-    a: "Certains astrologues disent prédestinés les contacts avec les nœuds. J’y lis une direction qui rencontre une source de changement, jamais un destin : rien ne dit combien de temps deux personnes resteront proches ni ce qu’elles deviendront l’une pour l’autre. Ce que la personne du nœud pratique reste son choix."
+    a: "On décrit parfois les contacts avec les nœuds comme prédestinés. J’y lis une direction qui rencontre une source de changement, jamais un destin : rien ne dit combien de temps deux personnes resteront proches ni ce qu’elles deviendront l’une pour l’autre. Ce que la personne du nœud pratique reste son choix."
   - q: "Qui a Uranus conjonction Nœud Nord avec quelqu’un ?"
-    a: "Pour une naissance au milieu de 1965, le contact se forme avec toute personne née de mai à octobre 1979 ou de décembre 1997 à mai 1998, une fenêtre qui revient environ tous les 18,6 ans, et avec toute personne née, par périodes, de juin 1944 à juin 1946. Les dates utilisent le nœud vrai."
+    a: "Pour une naissance au milieu de 1965, le contact se forme avec toute personne née de mai à octobre 1979 ou de décembre 1997 à mai 1998, une fenêtre qui revient environ tous les 18,6 ans, et avec toute personne née, par périodes, de juin 1944 à juin 1946. Tout cela est calculé avec le nœud vrai."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les quatre aspects qu’il énumère, sans la conjonction" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Uranus, chez une personne, à moins de 4° du Nœud Nord vrai d’une autre" }
@@ -56,6 +56,6 @@ Laissez la personne du nœud fixer le rythme de sa propre pratique. Celle d’Ur
 
 Le tour à reculons des nœuds, environ 18,6 ans, dessine qui l’a. Née au milieu de 1965, avec Uranus en Vierge, une personne partage ce contact avec toute personne née de mai à octobre 1979, ou de décembre 1997 à mai 1998, quand le Nœud Nord traversait la Vierge. Toute personne née, par périodes, de juin 1944 à juin 1946 a Uranus en Gémeaux sur ce Nœud Nord de 1965. Aucune de ces naissances n’a été prévue pour quelqu’un. Chaque contact que je retiens dans une synastrie passe par le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel, et pas celui-ci ; dans les maisons, il montre l’idée que deux époques se font de la façon dont une vie avance.
 
-Les dates utilisent le nœud vrai. Le nœud moyen n’en est jamais à plus d’un ou deux degrés, et je regarde les deux ; près du bord de l’orbe, ils peuvent ne pas s’accorder ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). L’heure ne déplace presque ni le nœud ni Uranus, mais que la rencontre tombe dans la maison 10 de la personne du nœud, dans sa vie publique, ou dans sa maison 3, parmi les savoir-faire du quotidien, demande les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Ces fenêtres viennent du nœud vrai ; le nœud moyen n’en est jamais à plus d’un ou deux degrés, et je regarde les deux ; au bord de l’orbe, il arrive qu’ils divergent ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)). L’heure ne déplace presque ni le nœud ni Uranus, mais que la rencontre tombe dans la maison 10 de la personne du nœud, dans sa vie publique, ou dans sa maison 3, parmi les savoir-faire du quotidien, demande les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Un seul thème avec [Uranus conjonction Nœud Nord](/astrology/uranus-conjunct-north-node/) demande à la personne qui le porte de grandir en se différenciant. Entre deux thèmes, l’élan vient de quelqu’un d’autre, et c’est pourquoi la lecture demande les deux personnes ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

@@ -33,7 +33,7 @@ Les deux lieux d’honneur du Soleil sont occupés dans ce thème : son propre 
 
 ## Comment ils s’accordent {#comment-ils-s-accordent}
 
-Le Lion et le Bélier sont tous deux de feu, et comptée depuis le Soleil, la Lune se tient quatre signes en arrière : un trigone par signe : l’élément est le même, l’entente facile. Les tempos diffèrent. Le Lion, fixe, entretient un feu une fois allumé ; le Bélier, cardinal, en allume de nouveaux. Le [Soleil en Lion](/astrology/sun-in-leo/) veut faire une chose entière et la défendre, tandis que la [Lune en Bélier](/astrology/moon-in-aries/) apaise une émotion en agissant, vite. Au quotidien, vos besoins fournissent l’étincelle et votre sens de vous-même l’entretient : un courage qui survit au premier élan.
+Votre Lune se tient quatre signes en arrière de votre Soleil, tous deux dans le feu : un trigone par signe, où l’élément commun rend l’entente facile. Les tempos diffèrent. Le Lion, fixe, entretient un feu une fois allumé ; le Bélier, cardinal, en allume de nouveaux. Le [Soleil en Lion](/astrology/sun-in-leo/) veut faire une chose entière et la défendre, tandis que la [Lune en Bélier](/astrology/moon-in-aries/) apaise une émotion en agissant, vite. Au quotidien, vos besoins fournissent l’étincelle et votre sens de vous-même l’entretient : un courage qui survit au premier élan.
 
 Le [Soleil](/astrology/sun/) gouverne le Lion : votre Soleil ne répond donc à aucune autre planète, ce que la tradition appelle son [domicile](/astrology/domicile/). Le Bélier ne donne à la Lune aucune dignité, mais c’est l’[exaltation](/astrology/exaltation/) du Soleil : même votre Lune se tient sur un terrain qui honore le Soleil. Le Bélier est gouverné par [Mars](/astrology/mars/), dont le signe et la maison montrent où vont vos émotions une fois levées : vers un sport, une cause, une échéance.
 
@@ -43,7 +43,7 @@ Une personne sur 137 environ naît avec ce duo. La Lune ne reste guère plus de 
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-En amour, vous ouvrez avec la chaleur et suivez avec l’action. Le Soleil en Lion veut être la personne particulière de quelqu’un ; la Lune en Bélier a besoin que les choses soient dites franchement et réglées tout de suite. Une colère passe vite pour la Lune, alors qu’une blessure d’orgueil peut mettre plus longtemps à refroidir pour le Soleil : une dispute peut être finie pour une part de vous et pas pour l’autre. Demander *pour moi c’est réglé, et pour toi ?* comble cet écart. Vos proches se sentent défendus et fêtés ; il vous faut en retour de la franchise, et qu’on remarque ce que vous avez lancé.
+En amour, vous ouvrez avec la chaleur et suivez avec l’action. Le Soleil en Lion veut compter pour une personne avant toutes les autres ; la Lune en Bélier a besoin que les choses soient dites franchement et réglées tout de suite. Une colère passe vite pour la Lune, alors qu’une blessure d’orgueil peut mettre plus longtemps à refroidir pour le Soleil : une dispute peut être finie pour une part de vous et pas pour l’autre. Demander *pour moi c’est réglé, et pour toi ?* comble cet écart. Vos proches se sentent défendus et fêtés ; il vous faut en retour de la franchise, et qu’on remarque ce que vous avez lancé.
 
 ## Au travail {#au-travail}
 

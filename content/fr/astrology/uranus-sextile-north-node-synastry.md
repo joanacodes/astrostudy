@@ -2,13 +2,13 @@
 title: "Uranus sextile Nœud Nord en synastrie"
 slug: "uranus-sextile-noeud-nord-synastrie"
 h1: "Uranus sextile Nœud Nord entre deux thèmes"
-description: "Uranus sextile Nœud Nord en synastrie : les essais de l’une ouvrent à l’autre une voie pour grandir, et rafraîchissent le familier. Les deux côtés, qui l’a."
+description: "Uranus sextile Nœud Nord en synastrie : les essais de l’une ouvrent à l’autre une voie pour grandir, et rafraîchissent le familier. Chaque côté, et les dates."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 337
 glyph: "♅⚹☊"
-definition: "Uranus sextile Nœud Nord en synastrie signifie qu’Uranus, chez une personne, se trouve à environ 60° du Nœud Nord de l’autre, à 2,4° près, donc à 120° de son Nœud Sud. Les essais de l’une ouvrent à l’autre une voie pour grandir, en rafraîchissant ce qu’elle sait déjà. Daté avec le nœud vrai, il se lit par les maisons."
+definition: "Uranus sextile Nœud Nord en synastrie signifie qu’Uranus, chez une personne, se trouve à environ 60° du Nœud Nord de l’autre, à 2,4° près, donc à 120° de son Nœud Sud. Les essais de l’une ouvrent à l’autre une voie pour grandir, en rafraîchissant ce qu’elle sait déjà. Le nœud vrai le date ; les maisons portent son sens."
 facts:
   - { k: "Corps", v: "Uranus ♅ de l’une, le Nœud Nord ☊ de l’autre" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -23,7 +23,7 @@ faq:
   - q: "Pourquoi le Nœud Sud compte-t-il avec Uranus sextile Nœud Nord ?"
     a: "Parce qu’Uranus forme aussi un trigone avec le Nœud Sud : le plus facile des deux liens mène à ce que la personne du nœud sait déjà. L’influence peut finir par rafraîchir des habitudes familières plutôt que d’aider un pas nouveau. Choisir une chose peu familière à pratiquer garde le sextile tourné vers l’avant."
   - q: "Qui a Uranus sextile Nœud Nord avec quelqu’un ?"
-    a: "Pour une personne née au milieu de 1985, le sextile se forme avec toute personne née de décembre 1989 à avril 1990 ou de mars à juillet 1996, et avec toute personne née, par périodes, de juillet 1952 à avril 1954. Les dates utilisent le nœud vrai, et des mois entiers de naissances les partagent."
+    a: "Pour une personne née au milieu de 1985, le sextile se forme avec toute personne née de décembre 1989 à avril 1990 ou de mars à juillet 1996, et avec toute personne née, par périodes, de juillet 1952 à avril 1954. Ces mois viennent du nœud vrai, et toutes les personnes qui y sont nées partagent le contact."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, 60°, tel qu’il le définit" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Uranus, chez une personne, à 60° du Nœud Nord vrai d’une autre, à 2,4° près" }
@@ -43,7 +43,7 @@ Du côté d’Uranus, vous avez le plaisir de voir vos méthodes inhabituelles s
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-La moitié la plus facile peut l’emporter. Avec un trigone au Nœud Sud et seulement un sextile au Nœud Nord, l’influence de la personne d’Uranus peut surtout rafraîchir d’anciennes forces : une couche de peinture neuve sur des habitudes connues, et aucun pas de fait. L’occasion demande qu’on s’y engage, et la pratique reste la pratique. De son côté, la personne d’Uranus peut se lasser si l’ouverture ne sert pas vite.
+C’est souvent le lien le plus facile qui gagne. Avec un trigone au Nœud Sud et seulement un sextile au Nœud Nord, l’influence de la personne d’Uranus peut surtout rafraîchir d’anciennes forces : une couche de peinture neuve sur des habitudes connues, et aucun pas de fait. L’occasion demande qu’on s’y engage, et la pratique reste la pratique. De son côté, la personne d’Uranus peut se lasser si l’ouverture ne sert pas vite.
 
 - **[Uranus conjonction Nœud Nord en synastrie](/astrology/uranus-conjunct-north-node-synastry/) :** l’essai se pose sur le chemin même et appuie plus fort.
 - **[Uranus carré Nœud Nord en synastrie](/astrology/uranus-square-north-node-synastry/) :** Uranus se tient en travers du chemin, à mi-distance de ses deux bouts.

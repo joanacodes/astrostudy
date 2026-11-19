@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/chiron", "/astrology/trine", "/astrology/uranus-trine-chiron", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Uranus trine Chiron mean in synastry?"
-    a: "One person’s Uranus is about 120° from the other’s Chiron, usually in signs of one element. The Uranus person’s unusual ideas tend to fit the way the Chiron person lives with a lasting limit, so improvements come without a struggle. It describes easy cooperation between invention and adaptation."
+    a: "Your Uranus and the other’s Chiron, or theirs and yours, sit about 120° apart, usually in signs of one element. The Uranus person’s unusual ideas tend to fit the way the Chiron person lives with a lasting limit, so improvements come without a struggle. It describes easy cooperation between invention and adaptation."
   - q: "Is Uranus trine Chiron a good sign in a relationship?"
     a: "It shows ease between invention and adaptation, nothing more: whether a relationship works is never settled by one contact. The ease has a blind spot: when solutions arrive this smoothly, the effort the Chiron person still makes can go unseen by both. Naming it now and then keeps the trine honest."
   - q: "Who has Uranus trine Chiron with someone?"

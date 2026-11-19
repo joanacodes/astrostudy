@@ -2,13 +2,13 @@
 title: "Uranus trigone Chiron en synastrie"
 slug: "uranus-trigone-chiron-synastrie"
 h1: "Uranus trigone Chiron entre deux thèmes"
-description: "Uranus trigone Chiron en synastrie : l’originalité de l’une va à la façon dont l’autre vit avec une vieille limite. Les deux côtés, ce que cache l’aisance."
+description: "Uranus trigone Chiron en synastrie : l’originalité de l’une va à la façon dont l’autre vit avec une vieille limite. Chaque côté, l’effort que cache l’aisance."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 329
 glyph: "♅△⚷"
-definition: "Uranus trigone Chiron en synastrie signifie qu’Uranus, chez une personne, se trouve à environ 120° du Chiron de l’autre, à 3,4° près. L’originalité de l’une convient à la façon dont l’autre vit avec une limite durable : les solutions viennent sans bataille. Des années entières le partagent ; je le lis par les maisons, attentive à l’effort que l’aisance cache."
+definition: "Uranus trigone Chiron en synastrie signifie qu’Uranus, chez une personne, se trouve à environ 120° du Chiron de l’autre, à 3,4° près. L’originalité de l’une sert la façon dont l’autre vit avec une limite durable : les solutions viennent sans bataille. Commun à des années entières de naissances, il se lit par les maisons, avec un œil sur l’effort caché."
 facts:
   - { k: "Corps", v: "Uranus ♅ de l’une, le Chiron ⚷ de l’autre" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -23,7 +23,7 @@ faq:
   - q: "Uranus trigone Chiron, est-ce bon signe pour une relation ?"
     a: "Ce trigone montre une aisance entre invention et adaptation, rien de plus : un seul contact ne règle jamais la question de savoir si une relation marche. Cette aisance a un angle mort : quand les solutions arrivent aussi bien, l’effort que fait encore la personne de Chiron peut passer inaperçu des deux. Le nommer de temps en temps garde le trigone honnête."
   - q: "Qui a Uranus trigone Chiron avec quelqu’un ?"
-    a: "Seules les dates de naissance décident. Une personne née au milieu de 1975 et toute personne née entre avril et juillet 1988 l’ont dans les deux sens : Uranus, chez chacune, forme un trigone avec le Chiron de l’autre. Toute personne née dans ces quatre mois aurait les mêmes trigones avec les mêmes gens : c’est pourquoi je le lis par les maisons."
+    a: "Seules les dates de naissance décident. Une personne née au milieu de 1975 et toute personne née entre avril et juillet 1988 l’ont dans les deux sens, d’Uranus chez l’une au Chiron chez l’autre, et réciproquement. Toute personne née dans ces quatre mois aurait les mêmes trigones avec les mêmes gens : c’est pourquoi je le lis par les maisons."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, 120°, l’un des quatre aspects qu’il décrit" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Uranus, chez une personne, à 120° du Chiron d’une autre, à 3,4° près" }
@@ -42,7 +42,7 @@ L’échange peut aller dans les deux sens. Une personne née au milieu de 1975 
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-L’aisance peut cacher le prix. Comme les solutions arrivent si facilement, la personne d’Uranus peut supposer que l’autre absorbera le prochain changement aussi bien que le précédent, et cesser de voir le travail que demande encore l’adaptation. La personne de Chiron peut cesser de rien demander, puisque l’aide arrive d’habitude, puis peiner en silence le jour où elle n’arrive pas. Le courant est réel ; il n’est simplement pas gratuit, et le trigone n’envoie jamais la facture.
+L’aisance peut cacher le prix. Comme les solutions arrivent si facilement, la personne d’Uranus peut supposer que l’autre absorbera le prochain changement aussi bien que le précédent, et cesser de voir le travail que demande encore l’adaptation. La personne de Chiron peut cesser de rien demander, puisque l’aide arrive d’habitude, puis peiner en silence le jour où elle n’arrive pas. Ce courant existe bien ; il n’est simplement pas gratuit, et le trigone n’envoie jamais la facture.
 
 - **[Uranus conjonction Chiron en synastrie](/astrology/uranus-conjunct-chiron-synastry/) :** l’invention posée sur le point sensible même, intense et difficile à démêler.
 - **[Uranus sextile Chiron en synastrie](/astrology/uranus-sextile-chiron-synastry/) :** le même genre d’aide, mais qu’il faut demander et essayer.
