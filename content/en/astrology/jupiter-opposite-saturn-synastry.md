@@ -18,11 +18,11 @@ facts:
 related: ["/astrology/jupiter", "/astrology/saturn", "/astrology/opposition", "/astrology/jupiter-opposite-saturn", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Jupiter opposite Saturn mean in synastry?"
-    a: "One person’s Jupiter sits about 180° from the other’s Saturn, within 5°, usually in opposite signs. One tends to argue for growth and possibility, the other for limits and durability. It’s a polarity: each shows the other what they leave out, and the work is finding the middle."
+    a: "One person’s Jupiter faces the other’s Saturn from about 180° away, within 5°, usually from the opposite sign. One tends to argue for growth and possibility, the other for limits and durability. It’s a polarity: each shows the other what they leave out, and the work is finding the middle."
   - q: "Is Jupiter opposite Saturn a bad sign between two people?"
     a: "No. An opposition is a seesaw, not a conflict. It can harden into fixed roles, the dreamer and the auditor, but it can also give a pair the full range of judgement. And since it belongs to birth years, I read it through the houses, not as a verdict on two people."
   - q: "Who has Jupiter opposite Saturn with someone?"
-    a: "It depends on the birth dates. Someone born in mid-1955 has it with anyone born between July and December 1962, for example, and with anyone born in 1991. Everyone born in those months shares it, which makes it a meeting of two eras more than of two people."
+    a: "Only the two birth dates decide that. A person born in mid-1955 has it with anyone born between July and December 1962, for example, and with anyone born in 1991. It belongs to those months as much as to anyone in them: a meeting of two eras more than of two people."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the opposition, 180°, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that set one person’s Jupiter within 5° of an opposition to another’s Saturn" }
@@ -31,13 +31,13 @@ In any decision this pair makes, one of them is usually arguing for more and the
 
 ## What flows {#what-flows}
 
-[Jupiter](/astrology/jupiter/) is generative: it sees future possibilities, connects them into a sense of meaning and wants room to develop them. [Saturn](/astrology/saturn/) is durable order: it takes responsibility, draws boundaries and asks what will still stand in ten years. An [opposition](/astrology/opposition/) relates two functions through polarity, each making the other visible; among the [synastry aspects](/astrology/synastry-aspects/), it gives the two poles to two people who face each other.
+[Jupiter](/astrology/jupiter/) is generative: it sees future possibilities, connects them into a sense of meaning and wants room to develop them. [Saturn](/astrology/saturn/) is durable order: it takes responsibility, draws boundaries and asks what will still stand in ten years. An [opposition](/astrology/opposition/) holds two functions in polarity, each making the other visible; in [synastry aspects](/astrology/synastry-aspects/), the two poles belong to two people who face each other.
 
-What Jupiter's growth does with Saturn's structure, from opposite sides, is hold up a mirror. The Jupiter person sees in the other the patience their hopes need; the Saturn person sees in the other the purpose their discipline was for. Between them they cover the whole range, from possibility to proof.
+From opposite sides, growth and structure hold up a mirror to each other. The Jupiter person sees in the other the patience their hopes need; the Saturn person sees in the other the purpose their discipline was for. Between them they cover the whole range, from possibility to proof.
 
-If the Jupiter is yours, you become the voice of more: more scope, more trust, one more try. Facing this person you may overstate it, because you can feel the limit coming before anyone names it.
+On the Jupiter side, you become the voice of more: more scope, more trust, one more try. Facing this person you may overstate it, because you can feel the limit coming before anyone names it.
 
-If the Saturn is yours, you become the voice of enough: the budget, the deadline, the reason to wait. You may overstate that too, because the other's hopes seem to need a counterweight, and you've been cast as it.
+On the Saturn side, you become the voice of enough: the budget, the deadline, the reason to wait. You may overstate that too, because the other's hopes seem to need a counterweight, and you've been cast as it.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -54,7 +54,7 @@ Measured against this face-off:
 
 Take the other end on purpose, now and then. Let the Saturn person make the case for a risk and the Jupiter person the case for a limit; you'll each learn what the other is defending. Before a big choice, look for the middle together: a "yes, if" rather than a yes and a no. A couple might use it on holidays and savings, friends on a shared plan, a parent and an adult child on how much to hand over, colleagues on growth and budget.
 
-Someone born in mid-1955 has Jupiter opposite the Saturn of anyone born between July and December 1962, seven years younger, and of anyone born in 1991. The other way round, their Saturn faces the Jupiter of people born between October 1952 and March 1953, a little over two years older. Whole cohorts share contacts like this, so they don't enter the aspects I count in a synastry reading, only those that involve the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. An opposition of two slow planets I read through the houses they fall in: the difference between two eras, laid across two charts.
+Picture someone born in mid-1955: their Jupiter faces the Saturn of anyone born between July and December 1962, seven years younger, and of anyone born in 1991. The other way round, their Saturn faces the Jupiter of people born between October 1952 and March 1953, a little over two years older. Whole cohorts share contacts like this, so they don't enter the aspects I count in a synastry reading, only those that involve the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. An opposition of two slow planets I read through the houses they fall in: the difference between two eras, laid across two charts.
 
 Jupiter's year in a sign and Saturn's two and a half make the hour of birth irrelevant to whether the opposition exists, and decisive for where it falls. Without both times I can't see the houses, so I don't read it ([what changes without a birth time](/blog/unknown-birth-time/)).
 

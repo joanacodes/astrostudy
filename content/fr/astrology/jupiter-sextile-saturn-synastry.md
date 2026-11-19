@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 252
 glyph: "♃⚹♄"
-definition: "Jupiter sextile Saturne en synastrie signifie que Jupiter, chez une personne, se trouve à environ 60° de Saturne chez l’autre, à 3° près. L’une voit où quelque chose pourrait grandir, l’autre comment le faire tenir, et le lien fonctionne dès qu’on s’en sert. C’est un contact partagé par des mois entiers de naissances, que je lis par les maisons."
+definition: "Jupiter sextile Saturne en synastrie signifie que Jupiter, chez une personne, se trouve à environ 60° de Saturne chez l’autre, à 3° près. L’une voit où quelque chose pourrait grandir, l’autre comment le faire tenir, et le lien fonctionne dès qu’on s’en sert. Des mois entiers de naissances le partagent : je le lis donc par les maisons."
 facts:
   - { k: "Corps", v: "Jupiter ♃ chez l’une, Saturne ♄ chez l’autre" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -19,9 +19,9 @@ facts:
 related: ["/astrology/jupiter", "/astrology/saturn", "/astrology/sextile", "/astrology/jupiter-sextile-saturn", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Jupiter sextile Saturne en synastrie ?"
-    a: "Jupiter, chez une personne, se trouve à environ 60° de Saturne chez l’autre, à 3° près, en général à deux signes d’écart. L’une tend à voir les ouvertures, l’autre sait leur donner des étapes et des limites. C’est un lien coopératif, mais un sextile attend qu’on s’en serve : rien ne se passe tant que personne ne commence."
+    a: "L’aspect relie Jupiter d’une personne et Saturne de l’autre à environ 60°, à 3° près, en général à deux signes d’écart. L’une tend à voir les ouvertures, l’autre sait leur donner des étapes et des limites. C’est un lien coopératif, mais un sextile attend qu’on s’en serve : rien ne se passe tant que personne ne commence."
   - q: "Qui a Jupiter sextile Saturne en synastrie ?"
-    a: "Cela vient des dates de naissance. Une personne née à la mi-1985 l’a par exemple avec les personnes nées entre mai et novembre 1987, et avec celles nées entre septembre 1997 et mars 1998. Toutes les naissances de ces mois le partagent avec elle : il décrit deux époques plus que deux personnes."
+    a: "Cela vient des dates de naissance. Une personne née à la mi-1985 l’a par exemple avec les personnes nées entre mai et novembre 1987, et avec celles nées entre septembre 1997 et mars 1998. Toute sa cohorte de naissance le partage avec elle : il décrit deux époques plus que deux personnes."
   - q: "Comptez-vous Jupiter sextile Saturne dans une lecture de synastrie ?"
     a: "Pas comme un aspect. Mes lectures de synastrie ne comptent que les contacts qui touchent au moins un corps personnel : le Soleil, la Lune, Mercure, Vénus, Mars, l’Ascendant ou le Milieu du Ciel. Entre deux planètes lentes, je regarde les maisons où chacune tombe, ce qui demande les deux heures de naissance."
 sources:
@@ -32,7 +32,7 @@ Un sextile entre deux thèmes est une offre plus qu’un événement. Avec Jupit
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Jupiter](/astrology/jupiter/) est la fonction qui repère une occasion et en fait une croissance : ce qui pourrait se développer, et les principes qui disent pourquoi cela en vaut la peine. [Saturne](/astrology/saturn/) pose à cette croissance ses conditions : la responsabilité, les limites, un calendrier, la discipline de s’y tenir. Un [sextile](/astrology/sextile/) relie deux fonctions par une coopération qui attend un engagement ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), c’est celui qui attend le plus visiblement qu’on s’en serve.
+[Jupiter](/astrology/jupiter/) est la fonction qui repère une occasion et en fait une croissance : ce qui pourrait se développer, et les principes qui disent pourquoi cela en vaut la peine. [Saturne](/astrology/saturn/) pose à cette croissance ses conditions : la responsabilité, les limites, un calendrier, la discipline de s’y tenir. Un [sextile](/astrology/sextile/) relie deux fonctions par une coopération qui attend un engagement ; de tous les [aspects de synastrie](/astrology/synastry-aspects/), c’est celui qui attend le plus visiblement qu’on s’en serve.
 
 Ici, la croissance de Jupiter offre à la structure de Saturne une direction où grandir, et la structure de Saturne offre aux ouvertures de Jupiter une façon de durer.
 
@@ -50,7 +50,7 @@ Ses voisins rendent le lien plus sonore. [Jupiter conjonction Saturne en synastr
 
 Saisissez l’ouverture exprès. Choisissez un projet assez petit pour commencer ce mois-ci et assez réel pour avoir besoin de vous deux : un jardin, une formation, des archives de famille, une procédure au travail qui n’appartient à personne. Laissez la personne de Jupiter dire pourquoi il compte et celle de Saturne fixer les trois premières étapes, et échangez si cela cale. Couples, amis, frères et sœurs, collègues peuvent s’en servir de la même façon.
 
-Ce sont les dates de naissance qui le fixent. Une personne née à la mi-1985 a Jupiter en sextile avec Saturne chez les personnes nées entre mai et novembre 1987, et chez celles nées entre septembre 1997 et mars 1998. Dans l’autre sens, les fenêtres se réduisent à quelques mois, qui reviennent au rythme de Jupiter : l’une d’elles réunit les personnes nées en décembre 1984 et en janvier 1985, à peine plus âgées qu’elle.
+Ce sont les dates de naissance qui le fixent : une personne née à la mi-1985 le trouve avec Saturne chez les personnes nées entre mai et novembre 1987, et chez celles nées entre septembre 1997 et mars 1998. Dans l’autre sens, les fenêtres se réduisent à quelques mois, qui reviennent au rythme de Jupiter : l’une d’elles réunit les personnes nées en décembre 1984 et en janvier 1985, à peine plus âgées qu’elle.
 
 Tant de gens le partagent que je le laisse hors des aspects que je compte en synastrie, qui ne retiennent que les contacts avec le Soleil, la Lune, Mercure, Vénus, Mars, l’Ascendant ou le Milieu du Ciel. Un sextile entre deux planètes lentes me dit comment deux époques se rencontrent ; les maisons où chacune tombe me disent où, dans les deux vies, la rencontre a lieu.
 

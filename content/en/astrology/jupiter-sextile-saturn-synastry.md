@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 252
 glyph: "♃⚹♄"
-definition: "Jupiter sextile Saturn in synastry means one person’s Jupiter is about 60° from the other’s Saturn, within 3°. One sees where something could grow, the other how to make it hold, and the link works once someone acts on it. Shared by whole birth months, it’s a contact I read through the houses."
+definition: "Jupiter sextile Saturn in synastry means one person’s Jupiter is about 60° from the other’s Saturn, within 3°. One sees where something could grow, the other how to make it hold, and the link works once someone acts on it. Whole birth months share it, so I read it through the houses."
 facts:
   - { k: "Bodies", v: "One person’s Jupiter ♃, the other’s Saturn ♄" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -18,9 +18,9 @@ facts:
 related: ["/astrology/jupiter", "/astrology/saturn", "/astrology/sextile", "/astrology/jupiter-sextile-saturn", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Jupiter sextile Saturn mean in synastry?"
-    a: "One person’s Jupiter sits about 60° from the other’s Saturn, within 3°, usually two signs apart. One of you tends to see openings, the other knows how to give them steps and limits. It’s a cooperative link, but a sextile waits to be used: nothing happens until one of you starts."
+    a: "The aspect links one person’s Jupiter and the other’s Saturn at about 60°, within 3°, usually two signs apart. One of you tends to see openings, the other knows how to give them steps and limits. It’s a cooperative link, but a sextile waits to be used: nothing happens until one of you starts."
   - q: "Who has Jupiter sextile Saturn in synastry?"
-    a: "It comes with the birth dates. Someone born in mid-1985 has it with people born between May and November 1987, for example, and with people born between September 1997 and March 1998. Everyone born in those months shares it with them, so it describes two eras more than two people."
+    a: "It comes with the birth dates. Someone born in mid-1985 has it with people born between May and November 1987, for example, and with people born between September 1997 and March 1998. Their whole birth cohort shares it with them, so it describes two eras more than two people."
   - q: "Do you count Jupiter sextile Saturn in a synastry reading?"
     a: "Not as an aspect. My synastry readings count only contacts that involve at least one personal body: the Sun, Moon, Mercury, Venus, Mars, Ascendant or Midheaven. Between two slow planets, I look at the houses each one falls in, which needs both birth times."
 sources:
@@ -31,7 +31,7 @@ A sextile between two charts is an offer more than an event. In Jupiter sextile 
 
 ## What flows {#what-flows}
 
-[Jupiter](/astrology/jupiter/) is the function that spots an opportunity and turns it into growth: the potential for something to develop, and the principles that say why it's worth the trouble. [Saturn](/astrology/saturn/) gives that growth its conditions: responsibility, limits, a timetable, the discipline of keeping at it. A [sextile](/astrology/sextile/) relates two functions through cooperation that waits for engagement; among the [synastry aspects](/astrology/synastry-aspects/), it's the one that most plainly waits to be used.
+[Jupiter](/astrology/jupiter/) is the function that spots an opportunity and turns it into growth: the potential for something to develop, and the principles that say why it's worth the trouble. [Saturn](/astrology/saturn/) gives that growth its conditions: responsibility, limits, a timetable, the discipline of keeping at it. A [sextile](/astrology/sextile/) relates two functions through cooperation that waits for engagement; of all the [synastry aspects](/astrology/synastry-aspects/), it's the one that most plainly waits to be used.
 
 Here, Jupiter's growth offers Saturn's structure a direction to grow in, and Saturn's structure offers Jupiter's openings a way to be kept.
 
@@ -49,7 +49,7 @@ Its neighbours make the link louder. [Jupiter conjunct Saturn in synastry](/astr
 
 Take the opening on purpose. Choose one project small enough to start this month and real enough to need you both: a garden, a course, a family archive, a process at work that nobody owns. Let the Jupiter person say why it matters and the Saturn person set the first three steps, and swap if it stalls. Couples, friends, siblings and colleagues can all use it the same way.
 
-The contact is set by birth dates. Someone born in mid-1985 has Jupiter sextile the Saturn of people born between May and November 1987, and of people born between September 1997 and March 1998. Going the other way, the windows shrink to a few months, recurring as Jupiter comes round: one of them takes in births of December 1984 and January 1985, barely older than they are.
+The contact is set by birth dates: a person born in mid-1985 finds it with the Saturn of people born between May and November 1987, and of people born between September 1997 and March 1998. Going the other way, the windows shrink to a few months, recurring as Jupiter comes round: one of them takes in births of December 1984 and January 1985, barely older than they are.
 
 So many people share it that I leave it out of the aspects I count in a synastry reading, which only include contacts with the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. A sextile between two slow planets tells me how two eras meet; the houses each one falls in tell me where in the two lives that meeting takes place.
 

@@ -1,7 +1,7 @@
 ---
 title: "Venus conjunct Lilith in synastry"
 h1: "Venus conjunct Lilith between two charts"
-description: "Venus conjunct Lilith in synastry: one person’s taste lands on what the other learned to hide. Both sides, when liking turns to owning, how common it is."
+description: "Venus conjunct Lilith in synastry: one person’s taste falls right on the part of the other that was put away. Both sides, liking versus owning."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -48,6 +48,6 @@ There's a quieter snag too. Venus looks for reciprocity, and appreciation hopes 
 
 The hidden part belongs to the person who hid it. If the Venus is yours, ask before you make their bluntness, their appetite or their strangeness part of your story about them; if the Lilith is yours, you can enjoy being liked there and still keep some of it to yourself. Between friends, that's the friend who loves your laugh and doesn't need it at every party; between an adult child and a parent, finally being liked for what used to be corrected; between colleagues, a manager who values your refusal to sugar-coat without making it your job.
 
-About 1 pair of people in 15 has this conjunction, one way round or the other, within 6°, counted with mean Lilith. Which Lilith you use matters more than the hour: true Lilith can sit tens of degrees from the mean, so the contact may show in one calculation and not in the other ([which Lilith is mine?](/astrology/which-lilith-is-mine/)). The hours matter for the houses, where each life feels the meeting, and that's why I need both birth times ([what changes without a birth time](/blog/unknown-birth-time/)). What it touches is private by nature, so I read it with both people or not at all ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+With mean Lilith and an orb of 6°, the count comes to about 1 pair of people in 15, one way round or the other. Ask which Lilith a chart uses before anything else: the true, osculating point wobbles far from the mean one, by tens of degrees at times, so this conjunction can be exact by one reckoning and absent by the other ([which Lilith is mine?](/astrology/which-lilith-is-mine/)). The hours matter for the houses, where each life feels the meeting, and that's why I need both birth times ([what changes without a birth time](/blog/unknown-birth-time/)). What it touches is private by nature, so I read it with both people or not at all ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
 
 In one chart, [Venus conjunct Lilith](/astrology/venus-conjunct-lilith/) is a single person's taste and refusal in the same place. Between two, the angle opens and the meeting changes: [Venus sextile Lilith in synastry](/astrology/venus-sextile-lilith-synastry/) coaxes the hidden side out in play, [Venus square Lilith in synastry](/astrology/venus-square-lilith-synastry/) asks it to be smoother and hears no, [Venus trine Lilith in synastry](/astrology/venus-trine-lilith-synastry/) lets it be without comment, and [Venus opposite Lilith in synastry](/astrology/venus-opposite-lilith-synastry/) puts taste and refusal at the two ends of a seesaw.

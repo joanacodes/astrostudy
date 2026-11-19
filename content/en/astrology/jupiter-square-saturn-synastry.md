@@ -18,11 +18,11 @@ facts:
 related: ["/astrology/jupiter", "/astrology/saturn", "/astrology/square", "/astrology/jupiter-square-saturn", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Jupiter square Saturn mean in synastry?"
-    a: "One person’s Jupiter sits about 90° from the other’s Saturn, within 4.25°. One tends to bring the larger hope, the other the conditions it has to meet. It’s friction, not failure: plans that satisfy both people have been tested from two sides, which easy agreement rarely manages."
+    a: "Across the two charts, Jupiter and Saturn stand about 90° apart, within 4.25°, one planet in each. One tends to bring the larger hope, the other the conditions it has to meet. It’s friction, not failure: plans that satisfy both people have been tested from two sides, which easy agreement rarely manages."
   - q: "Is Jupiter square Saturn bad in synastry?"
     a: "No aspect is bad as I read it. This square describes two attitudes to growth that rub, and rubbing can sharpen a shared plan. It also belongs to whole birth years, so I read it through the houses rather than as something personal between two people."
   - q: "Who has Jupiter square Saturn with someone?"
-    a: "It depends on the two birth dates. Someone born in mid-1975, for example, has it with anyone born between January 1990 and January 1991, and with anyone born between July 1945 and July 1946. Everyone born in those months shares it."
+    a: "That comes down to two birthdays. For a birth in mid-1975, for example, it forms with anyone born between January 1990 and January 1991, and with anyone born between July 1945 and July 1946. Since it comes with the calendar, it says more about two eras than about two people."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the square, 90°, one of his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that set one person’s Jupiter within 4.25° of a square to another’s Saturn" }
@@ -31,9 +31,9 @@ One person arrives with a larger idea; the other asks what it will stand on. Jup
 
 ## What flows {#what-flows}
 
-[Jupiter](/astrology/jupiter/) widens: it expands what a person thinks possible and organises it into beliefs worth acting on. [Saturn](/astrology/saturn/) consolidates: it sets limits, takes responsibility and insists that whatever is built can survive time. A [square](/astrology/square/) relates two functions through constructive friction, the kind that drives adaptation; among the [synastry aspects](/astrology/synastry-aspects/), it hands each person one end of that friction.
+[Jupiter](/astrology/jupiter/) widens: it expands what a person thinks possible and organises it into beliefs worth acting on. [Saturn](/astrology/saturn/) consolidates: it sets limits, takes responsibility and insists that whatever is built can survive time. A [square](/astrology/square/) sets two functions at right angles in a constructive friction, the kind that drives adaptation; among the [synastry aspects](/astrology/synastry-aspects/), it hands each person one end of that friction.
 
-What Jupiter's growth does with Saturn's structure, at a right angle, is press on it. Structure is asked to stretch; growth is asked to show its foundations. A plan that survives both people has been tested from two directions.
+On a square, Jupiter's growth leans on Saturn's structure. Structure is asked to stretch; growth is asked to show its foundations. A plan that survives both people has been tested from two directions.
 
 If yours is the Jupiter, you may feel audited. You share a hope and receive conditions; you propose a step and hear about the risk. What you gain is a sparring partner who takes your beliefs seriously enough to test them.
 
@@ -54,7 +54,7 @@ Elsewhere in the same family:
 
 Agree on the test before the argument: what would count as a reason to go ahead, and what as a reason to stop. In a couple, that could be a move; between friends, a shared venture; in a family, an adult child's plans and a parent's caution; at work, a proposal and its review. Trial periods suit this square: a limit with an end date is easier for Jupiter to accept, a hope with a deadline easier for Saturn.
 
-Who has it depends on the two birth dates. Someone born in mid-1975 has Jupiter square the Saturn of anyone born between July 1945 and July 1946, and of anyone born between January 1990 and January 1991; the other way round, their Saturn takes a square from the Jupiter of people born between October 1987 and February 1988. With whole birth years sharing it, it isn't one of the contacts I count in a synastry reading: those need a personal body, the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. I read it through the houses the two planets occupy, as a difference between two eras more than between two people.
+Which pairs have it is a question of calendars. Take a birthday in mid-1975: Jupiter there squares the Saturn of everyone born between July 1945 and July 1946, and again of everyone born between January 1990 and January 1991; the other way round, their Saturn takes a square from the Jupiter of people born between October 1987 and February 1988. With whole birth years sharing it, it isn't one of the contacts I count in a synastry reading: those need a personal body, the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. I read it in the houses the two planets occupy, as two eras' habits meeting more than two temperaments.
 
 Neither planet moves fast enough for a few hours to make or break the square, but the houses it ties together change with the hour, which is why I don't read a synastry without both birth times ([what changes without a birth time](/blog/unknown-birth-time/)).
 

@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 25
 glyph: "☉♊☽♈"
-definition: "Sun in Gemini, Moon in Aries puts the Moon two signs behind the Sun, in fire, at a birth twenty-two to twenty-seven days after a new moon. I read it as curiosity and impatience travelling together: a self that gathers options and ideas, and needs that settle once a feeling has been acted on, quickly and out loud."
+definition: "Sun in Gemini, Moon in Aries has the Moon trailing the Sun by two signs, in fire, during the last week of a lunar month, after the last quarter. I read it as curiosity and impatience travelling together: a self that gathers options and ideas, and needs that settle once a feeling has been acted on, quickly and out loud."
 facts:
   - { k: "Sun sign", v: "Gemini ♊, ruled by Mercury" }
   - { k: "Moon sign", v: "Aries ♈, ruled by Mars" }
@@ -17,12 +17,12 @@ facts:
   - { k: "How common", v: "About 1 person in 138 born 1930–2009" }
 related: ["/astrology/sun-in-gemini", "/astrology/moon-in-aries", "/astrology/mars", "/astrology/last-quarter-moon", "/astrology/sun-sextile-moon"]
 faq:
-  - q: "What is a Gemini Sun with an Aries Moon like?"
-    a: "Quick on both sides, in two different ways. The Gemini Sun is quick to notice, connect and talk; the Aries Moon is quick to feel and to act on the feeling. People with the pair are often lively, frank and hard to bore, and they tend to say what they think and then do something about it."
+  - q: "Are a Gemini Sun and an Aries Moon both quick?"
+    a: "Yes, in two different ways. The Gemini Sun is quick to notice, connect and talk; the Aries Moon is quick to feel and to act on the feeling. The pair tends to be lively, frank and hard to bore, saying what it thinks and then doing something about it."
   - q: "Why do Mercury and Mars matter with Sun in Gemini, Moon in Aries?"
-    a: "Mercury rules Gemini and Mars rules Aries, so they speak for your two lights: Mercury for how you think and connect, Mars for how your feelings turn into action. Mercury always stays near a Gemini Sun, never as far as Aries, so the Moon’s outlet comes from Mars, and its house matters."
+    a: "As rulers of Gemini and Aries, they speak for your two lights: Mercury for how you think and connect, Mars for how your feelings turn into action. Mercury always stays near a Gemini Sun, never as far as Aries, so the Moon’s outlet comes from Mars, and its house matters."
   - q: "Was the Moon waning at a Sun in Gemini, Moon in Aries birth?"
-    a: "Yes. The Moon was 31° to 88° behind the Sun, a waning crescent seen before dawn, twenty-two to twenty-seven days after a new moon. Seven of these births in eight fall in the last quarter phase of the eight-phase count and the rest in the balsamic phase that closes the month."
+    a: "Yes. The Moon was 31° to 88° behind the Sun, a waning crescent seen before dawn, twenty-two to twenty-seven days after a new moon. All but about one in eight count as last quarter births in the eight phases; the latest are balsamic, the phase that closes the month."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Mercury’s rule of Gemini and Mars’s of Aries" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s distance behind the Sun" }
@@ -32,13 +32,13 @@ Questions come first for a Gemini Sun, and for an Aries Moon the answer had bett
 
 ## How they get along {#how-they-get-along}
 
-Air and fire feed each other, and two signs apart, with the Moon behind, they make a sextile by sign. Gemini is mutable and moves sideways, between ideas and people; Aries is cardinal and moves straight ahead. The [Sun in Gemini](/astrology/sun-in-gemini/) builds a self out of exchange, several interests held together by curiosity; the [Moon in Aries](/astrology/moon-in-aries/) settles a feeling by doing something with it, and is calm again once it has. The Sun supplies the options, the Moon the decision, and between them very little goes unsaid.
+Air fans fire, and with the Moon two signs back from the Sun the pair forms a sextile by sign. Gemini is mutable and moves sideways, between ideas and people; Aries is cardinal and moves straight ahead. The [Sun in Gemini](/astrology/sun-in-gemini/) builds a self out of exchange, several interests held together by curiosity; the [Moon in Aries](/astrology/moon-in-aries/) gets over a feeling by acting on it, and is calm again once it has. The Sun supplies the options, the Moon the decision, and between them very little goes unsaid.
 
-[Mercury](/astrology/mercury/) rules your Sun's sign and [Mars](/astrology/mars/) your Moon's: the mind that connects and the drive that cuts through. Mercury keeps within about 28° of the Sun, so a Gemini Sun has it in Taurus, Gemini or Cancer, never in Aries. Your Moon's voice comes from Mars instead, and the house Mars occupies shows where these quick feelings go to be spent. Neither light has a dignity in its sign, so tradition tilts the balance neither way.
+The mind that connects and the drive that cuts through: [Mercury](/astrology/mercury/) speaks for your Sun, [Mars](/astrology/mars/) for your Moon. Mercury, never more than about 28° from the Sun, can't stray as far as Aries from a Gemini Sun, so the Moon's voice is Mars's alone, and the house Mars occupies shows where these quick feelings go to be spent. Tradition gives the lights no dignity in Gemini or Aries, so neither outranks the other.
 
-The Moon was 31° to 88° behind the Sun, twenty-two to twenty-seven days after a new moon: a waning crescent, rising in the dark before dawn. In the eight-phase count, seven of these births in eight belong to the [last quarter moon](/astrology/last-quarter-moon/) and the last few to the [balsamic moon](/astrology/balsamic-moon/); with the Moon near 60° behind, the lights form a waning [Sun sextile Moon](/astrology/sun-sextile-moon/). I read the last quarter as a phase for reviewing and clearing away, a natural home for a Moon that likes to settle things fast. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) places it in the cycle.
+A waning crescent hung in the dark before dawn: the Moon was 31° to 88° behind the Sun, with twenty-two to twenty-seven days of the lunar month gone. The eight-phase count puts these births in the [last quarter moon](/astrology/last-quarter-moon/), all but one in eight, which goes to the [balsamic moon](/astrology/balsamic-moon/), and a gap near 60° adds an exact waning [Sun sextile Moon](/astrology/sun-sextile-moon/). Reviewing and clearing away is how I read the last quarter, which suits a Moon that likes things settled fast. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) places it in the cycle.
 
-You share this pair with about 1 person in 138. Aries holds the Moon for two and a half days or so; if it arrived from Pisces or moved on to Taurus on the day you were born, only the time can say whether you belong here, with the [Sun in Gemini, Moon in Pisces](/astrology/sun-in-gemini-moon-in-pisces/) or with the [Sun in Gemini, Moon in Taurus](/astrology/sun-in-gemini-moon-in-taurus/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). The rising sign needs that time too, and since it sets the houses, it also decides where in your life this quick pair does its talking and its acting.
+You share this pair with about 1 person in 138. The Moon gets through Aries in about two and a half days, coming in from Pisces and leaving for Taurus; born on either changeover day, only the time can place you here or on the [Sun in Gemini, Moon in Pisces](/astrology/sun-in-gemini-moon-in-pisces/) or the [Sun in Gemini, Moon in Taurus](/astrology/sun-in-gemini-moon-in-taurus/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). The time does more than that: it fixes the rising sign and the houses, and so decides where in your life this quick pair does its talking and its acting.
 
 ## In close relationships {#in-close-relationships}
 

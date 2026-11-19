@@ -19,9 +19,9 @@ facts:
 related: ["/astrology/venus", "/astrology/saturn", "/astrology/trine", "/astrology/venus-trine-saturn", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Vénus trigone Saturne en synastrie ?"
-    a: "Vénus, chez une personne, se trouve à environ 120° de Saturne chez l’autre. La personne de Vénus apprécie la fiabilité de l’autre, et celle de Saturne s’engage sans peine envers ce que la première estime. L’aspect décrit l’affection et la constance au même pas, dans un couple, une amitié, une famille ou une équipe."
+    a: "Vénus chez une personne, Saturne chez l’autre, et environ 120° entre les deux. La personne de Vénus apprécie la fiabilité de l’autre, et celle de Saturne s’engage sans peine envers ce que la première estime. L’aspect décrit l’affection et la constance au même pas, dans un couple, une amitié, une famille ou une équipe."
   - q: "Est-ce que Vénus trigone Saturne veut dire qu’une relation durera ?"
-    a: "Aucun contact ne peut le dire, et je n’en lis jamais un comme une prévision. Ce trigone décrit une aisance entre ce qu’une personne estime et la façon dont l’autre s’engage, ce qui est agréable à vivre. La durée d’un lien dépend des deux adultes qui le vivent, pas d’un angle."
+    a: "Aucun contact ne peut l’annoncer, et je ne lis aucun aspect comme une prévision. Ce trigone décrit une aisance entre ce qu’une personne estime et la façon dont l’autre s’engage, ce qui est agréable à vivre. La durée d’un lien dépend des deux adultes qui le vivent, pas d’un angle."
   - q: "Qu’est-ce que l’aisance de Vénus trigone Saturne peut cacher ?"
     a: "Surtout ce qu’elle permet de sauter. Des arrangements qui convenaient aux deux au début peuvent continuer longtemps sans que personne ne demande s’ils vont encore, et la personne de Vénus peut adopter les exigences de l’autre comme son propre goût sans s’en apercevoir. Revoir vos habitudes ensemble, de temps en temps, suffit souvent."
 sources:
@@ -29,17 +29,17 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de paires de personnes l’ont, dans un sens ou dans l’autre, à 5,1° près" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "pourquoi Saturne a plus de temps dans mes lectures ; aucun chiffre pour les contacts entre thèmes" }
 ---
-On dit rarement de la fiabilité qu’elle a du charme. Vénus trigone Saturne en synastrie est le contact où cela arrive : Vénus, chez une personne, se trouve à environ 120° de Saturne chez l’autre, en général dans des signes d’un même élément, et ce qui plaît à la première comprend la manière dont la seconde tient parole.
+On dit rarement de la fiabilité qu’elle a du charme. Vénus trigone Saturne en synastrie est le contact où cela arrive : la Vénus d’une personne et Saturne chez l’autre sont à environ 120°, en règle générale dans un seul élément, et ce qui plaît à la première comprend la manière dont la seconde tient parole.
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Vénus](/astrology/venus/) est le sens qu’a une personne de ce qui vaut la peine et de la façon de l’aimer : le goût, la tendresse, un juste échange. [Saturne](/astrology/saturn/) est son sens de ce qui dure : l’engagement, les limites, le soin dans le temps. Un [trigone](/astrology/trine/) laisse deux fonctions se renforcer tout en restant elles-mêmes, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), ce renfort passe d’une personne à l’autre.
+[Vénus](/astrology/venus/) est la part d’une personne qui sait ce qui vaut la peine d’être eu et comment le chérir : le goût, la tendresse, un juste échange. [Saturne](/astrology/saturn/) est son sens de ce qui dure : l’engagement, les limites, le soin dans le temps. Un [trigone](/astrology/trine/) laisse deux fonctions se renforcer tout en restant elles-mêmes, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), ce renfort passe d’une personne à l’autre.
 
 Si Vénus est de votre côté, la constance de l’autre vous apparaît comme une forme de grâce. Cette personne arrive à l’heure dite, rend ce qu’elle emprunte en meilleur état, se souvient du café que vous aimez, et vous trouvez cela charmant plutôt qu’ennuyeux. Votre goût a trouvé quelqu’un pour le garder.
 
 Si Saturne est de votre côté, vous engager envers ce que cette personne apprécie vous coûte peu. Ses plaisirs vous paraissent solides, dignes du temps et de l’entretien qu’ils demandent : vous pouvez donner une structure sans avoir l’impression de faire la police. Et sa reconnaissance tombe sur ce qui fait peut-être votre plus grande fierté : on peut compter sur vous.
 
-L’élément commun donne le ton. Vénus de l’une en Scorpion, Saturne de l’autre en Cancer, deux signes d’eau : un goût pour la profondeur et la loyauté, à côté d’une manière protectrice et patiente de veiller sur les gens.
+L’élément commun donne le ton. Vénus de l’une en Scorpion, Saturne de l’autre en Cancer, l’eau pour élément commun : un goût pour la profondeur et la loyauté, à côté d’une manière protectrice et patiente de veiller sur les gens.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
@@ -51,6 +51,6 @@ Les autres contacts de la paire montrent ce que l’aisance épargne : [Vénus 
 
 Revoyez les arrangements de temps en temps, exprès. « Est-ce qu’on veut encore faire comme ça ? » est une question juste dans une longue amitié, entre deux associés, ou entre une tante et sa nièce qui partagent un savoir-faire. Continuez à dire ce que vous appréciez, pour que la constance ne se fonde pas dans le décor, et laissez la personne de Saturne changer une règle sans que cela compte comme une trahison.
 
-Environ 1 paire de personnes sur 9 a ce trigone, dans un sens ou dans l’autre, à 5,1° près. Saturne met environ 29 ans et demi à faire le tour du thème : la position de Saturne dit quand une personne est née, et toute une classe d’âge la partage. Vénus est la variable : avec une naissance quelques semaines plus tôt ou plus tard, Vénus, chez l’autre, aurait pu sortir de l’orbe. L’heure ne déplace guère ni l’une ni l’autre planète ; elle fixe les maisons, et donc le domaine où votre trigone travaille, la vie de famille, le travail ou l’amitié : c’est pourquoi je demande les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Environ 1 paire de personnes sur 9 a ce trigone, dans un sens ou dans l’autre, à 5,1° près. Le tour du thème par Saturne dure environ 29 ans et demi : la position de Saturne dit quand une personne est née, et toute une classe d’âge la partage. Vénus est la variable : avec une naissance quelques semaines plus tôt ou plus tard, Vénus, chez l’autre, aurait pu sortir de l’orbe. L’heure ne déplace guère ni l’une ni l’autre planète ; elle fixe les maisons, et donc le domaine où votre trigone travaille, la vie de famille, le travail ou l’amitié : c’est pourquoi je demande les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Depuis mon carnet, Saturne reçoit plus de mon temps dans toute lecture : Saturne, Lilith et Chiron ont tenu 75 à 90 % du temps, thème par thème, et un trigone entre deux personnes n’est jamais entré dans ce décompte ([les trois qui ont tenu](/blog/saturn-chiron-lilith/)). Une personne née avec [Vénus trigone Saturne](/astrology/venus-trine-saturn/) aime avec sa propre patience intégrée. Entre deux, la patience vient de l’autre côté, et le merci aussi.

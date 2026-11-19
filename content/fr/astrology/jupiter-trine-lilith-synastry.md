@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 279
 glyph: "♃△⚸"
-definition: "Jupiter trigone Lilith en synastrie signifie que Jupiter, chez une personne, se trouve à environ 120° de la Lune noire Lilith de l’autre, à 4,25° près, en général dans le même élément. Le sens que l’une donne aux choses fait aisément place à ce que l’autre a appris à cacher. J’y lis une permission qui coule, à sortir de la pièce où on l’a trouvée."
+definition: "Jupiter trigone Lilith en synastrie signifie que Jupiter, chez une personne, se trouve à environ 120° de la Lune noire Lilith de l’autre, à 4,25° près, souvent dans le même élément. Le regard de l’une fait place à ce que l’autre a appris à cacher. J’y lis une permission facile, à sortir de la pièce où on l’a trouvée."
 facts:
   - { k: "Corps", v: "Jupiter ♃ de l’une, la Lune noire Lilith ⚸ de l’autre" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -29,15 +29,15 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact, avec la Lilith moyenne" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "l’apogée moyen de l’orbite lunaire" }
 ---
-Avec Jupiter trigone Lilith en synastrie, le regard d’une personne semble avoir été construit avec de la place pour la part sauvage de l’autre. Jupiter, chez l’une, se trouve à environ 120° de la Lune noire Lilith de l’autre, en général dans des signes du même élément, et ce qui était caché n’a pas à plaider pour entrer.
+Avec Jupiter trigone Lilith en synastrie, le regard d’une personne semble avoir été construit avec de la place pour la part sauvage de l’autre. Jupiter, chez l’une, se trouve à environ 120° de la Lune noire Lilith de l’autre, et ce qui était caché n’a pas à plaider pour entrer.
 
 ## Ce qui circule {#ce-qui-circule}
 
 [Jupiter](/astrology/jupiter/) est l’endroit où une personne trouve du sens et lui fait de la place : des principes, du recul, une idée généreuse de ce qu’une vie peut contenir. La [Lune noire Lilith](/astrology/black-moon-lilith/), point calculé où la Lune est au plus loin de la Terre, se lit de bien des manières ; j’y lis l’instinct et l’autonomie qu’une personne a mis de côté pour être acceptable, et le sens qu’elle a de ses limites. Un [trigone](/astrology/trine/) laisse deux fonctions se soutenir en restant chacune elle-même, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), ce soutien passe d’une personne à l’autre.
 
-Si Lilith est de votre côté, vous remarquerez peut-être que vous cessez de vous corriger auprès de cette personne. La franchise, la faim, le refus d’être commode : rien de tout cela ne semble demander d’explication. C’est un repos rare.
+Si Lilith est de votre côté, vous cessez peut-être de vous corriger auprès de cette personne. La franchise, la faim, le refus d’être commode : rien de cela ne semble demander d’explication. C’est un repos rare.
 
-Si Jupiter est de votre côté, la part indomptée de l’autre s’accorde sans effort avec votre idée de la vie. Vous êtes peut-être la première personne à la traiter comme ordinaire. Votre confiance dans les gens, quelle que soit sa forme, trouve un exemple vivant.
+Si Jupiter est de votre côté, la part indomptée de l’autre s’accorde sans effort avec votre idée de la vie. Vous êtes peut-être la première personne à la traiter comme ordinaire. Votre confiance dans les gens trouve un exemple vivant.
 
 Un même élément les tient en général. Jupiter de l’une en Sagittaire, Lilith de l’autre en Lion, deux signes de feu : un regard large et aventureux, à côté d’une personne qui a appris à cacher combien elle voulait être vue. Auprès de ce regard-là, être vue cesse de paraître excessif.
 
@@ -56,6 +56,6 @@ Sortez la permission de la pièce. Si Lilith est de votre côté, laissez un peu
 
 Une personne née au milieu de 1995 l’a avec toute personne née de juillet à octobre 1996, dont la Lilith forme un trigone avec la position de Jupiter de 1995, et avec les personnes nées d’avril à août 1997, dont Jupiter forme un trigone avec la Lilith de 1995. Des séries entières de naissances partagent chaque côté : je n’ajoute donc pas ce trigone aux contacts que je compte entre deux thèmes, qui comprennent toujours le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Ce que ce contact peut m’apprendre passe par les maisons, et même là je le lis comme la rencontre de deux périodes plus que de deux personnes.
 
-Les deux heures de naissance décident de ces maisons ; le trigone, lui, ne dépend pas de l’heure, car Jupiter et Lilith bougent à peine en un jour ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Les dates supposent la Lilith moyenne ; la Lilith vraie, qui s’écarte de plusieurs dizaines de degrés, peut ne pas être d’accord ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)).
+Les deux heures de naissance décident de ces maisons ; le trigone, lui, ne dépend pas de l’heure, car Jupiter et Lilith bougent à peine en un jour ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Les dates supposent la Lilith moyenne ; la Lilith vraie, qui s’écarte parfois de dizaines de degrés, peut dire autre chose ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)).
 
-Quand un seul thème contient [Jupiter trigone Lilith](/astrology/jupiter-trine-lilith/), l’accueil est intérieur. Ici, une personne l’offre à une autre, et il touche ce que cette autre garde d’ordinaire pour elle : je ne lis donc ce contact que si les deux le demandent ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Quand un seul thème contient [Jupiter trigone Lilith](/astrology/jupiter-trine-lilith/), l’accueil est intérieur. Ici, une personne l’offre à une autre, et il touche ce que l’autre garde pour elle : je ne lis donc ce contact que si les deux le demandent ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

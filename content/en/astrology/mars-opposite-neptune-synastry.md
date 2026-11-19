@@ -20,7 +20,7 @@ faq:
   - q: "What does Mars opposite Neptune mean in synastry?"
     a: "One person’s Mars sits across the zodiac from the other’s Neptune, within 6°. The Mars person tends to carry the effort and the Neptune person the vision, and each sees in the other the half they use less. It describes a polarity between acting and imagining, held by two people."
   - q: "Is Mars opposite Neptune a difficult synastry aspect?"
-    a: "It asks for balance more than it causes trouble. An opposition is a seesaw, not a quarrel. The difficulty, when there is one, comes from roles that set too firmly: one person always doing, the other always dreaming. Trading those roles now and then keeps the contact lively."
+    a: "What it mostly asks for is balance. The two ends sit on one seesaw, not on opposing sides of a quarrel. The difficulty, when there is one, comes from roles that set too firmly: one person always doing, the other always dreaming. Trading those roles now and then keeps the contact lively."
   - q: "Who loses sight of their own wishes with Mars opposite Neptune?"
     a: "Either person can. The Mars person may spend their drive on the other’s ideals and forget their own aims; the Neptune person may lend their imagination to the other’s goals and forget what they hoped for. Naming one wish each, regularly, usually brings both back."
 sources:
@@ -31,11 +31,11 @@ In some pairs, one person keeps the diary and the other keeps the dream. Mars op
 
 ## What flows {#what-flows}
 
-[Mars](/astrology/mars/) is the part of a person that pushes forward: initiative, effort, assertion, a boundary held. [Neptune](/astrology/neptune/) is the part that sees past the edges: imagination, compassion, ideals, a sense of something larger. An [opposition](/astrology/opposition/) relates two functions as a polarity, each making the other easier to see, and of the pair's [synastry aspects](/astrology/synastry-aspects/), it's the one where each person most clearly holds what the other practises less.
+[Mars](/astrology/mars/) moves a person forward: initiative, effort, assertion, a boundary held. [Neptune](/astrology/neptune/) lets them see past the edges: imagination, compassion, ideals, a sense of something larger. Across an [opposition](/astrology/opposition/) the two face each other, and facing, they show up more clearly than side by side; of the pair's [synastry aspects](/astrology/synastry-aspects/), it's the one where each person most visibly holds what the other practises less.
 
 Facing your Mars, the other person's Neptune can remind you why effort matters at all: they see the meaning in what you're doing, sometimes before you do. Facing your Neptune, their Mars shows you what your ideals look like once someone acts on them. Together you can cover a lot of ground, one of you dreaming up the next thing, the other getting it started.
 
-Opposite signs share a modality and complete each other's element. Mars in Taurus opposite Neptune in Scorpio, both fixed, sets steady, practical effort across from an ideal of depth; Mars in Gemini opposite Neptune in Sagittarius, both mutable, a quick, versatile drive across from a dream of wide horizons.
+Signs that face each other move in the same way and have elements that fill each other's gaps. Mars in Taurus opposite Neptune in Scorpio, both fixed, sets steady, practical effort across from an ideal of depth; Mars in Gemini opposite Neptune in Sagittarius, both mutable, a quick, versatile drive across from a dream of wide horizons.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -54,6 +54,6 @@ Measured from this polarity, the other four contacts:
 
 Trade places on purpose. Let the Neptune person take one practical step alone; let the Mars person say out loud what they'd dream of if nothing needed doing. Each of you keeps one goal that is only yours. Between colleagues, the person with the vision also owns a deadline; in a family, the adult child who always organises gets asked what they would like, for once; in a couple, you alternate who plans the weekend.
 
-About 1 pair of people in 15 has this opposition, one way round or the other, within 6°. On the Neptune side, the seesaw is anchored in a birth cohort: Neptune takes about fourteen years to cross a sign, so people from the Neptune person's school year share their end of it, near enough. The other end, a Mars that moves on within weeks, is what seats the two of you. The hour hardly moves either body, but the houses show where in each life the roles settle, and I read only with both times ([what changes without a birth time](/blog/unknown-birth-time/)). Roles like these are made between two people, so I take them on only when both have asked ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Only the conjunction is as rare in this pair: about 1 pair of people in 15 has the opposition, one way round or the other, within 6°. On the Neptune side, the seesaw is anchored in a birth cohort: Neptune takes about fourteen years to cross a sign, so people from the Neptune person's school year share their end of it. The other end, a Mars that moves on within weeks, is what seats the two of you. The hour hardly moves either body, yet it is the houses that tell me which part of each life the roles settle into, and I read only with both times ([what changes without a birth time](/blog/unknown-birth-time/)). Roles like these are made between two people, so I take them on only when both have asked ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
 
-In one chart, [Mars opposite Neptune](/astrology/mars-opposite-neptune/) is a person learning to want things for themselves while caring for others. Across two charts, that lesson is shared, and each can help the other learn it.
+Born into one chart, [Mars opposite Neptune](/astrology/mars-opposite-neptune/) asks a single person to want things for themselves while caring for others. Across two charts, that lesson is shared, and each can help the other learn it.

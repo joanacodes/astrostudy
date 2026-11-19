@@ -40,7 +40,7 @@ Take Mars in Capricorn on Neptune in Capricorn: a patient, ambitious drive meets
 
 ## Where it rubs {#where-it-rubs}
 
-At this distance it gets hard to tell whose wish is whose. The Mars person can start acting on what they believe the other wants, and the Neptune person, glad to see the dream move, may not mention that it was never quite this one.
+At this distance, whose wish is whose gets hard to say. The Mars person can start acting on what they believe the other wants, and the Neptune person, glad to see the dream move, may not mention that it was never quite this one.
 
 Carrying Mars, the risk is effort spent on a picture rather than a request: you deliver, and the result doesn't land the way the image did. Carrying Neptune, it runs the other way: you take in their drive so readily that their goals start to feel like your ideals, until you can't find your own want any more. Compassion isn't self-erasure, on either side of this meeting.
 
@@ -55,6 +55,6 @@ Pulled apart to other angles, push and picture keep different company:
 
 Say the wish in words before anyone acts on it. "Is this yours, mine or ours?" sounds stiff the first time and becomes a private joke by the fifth. The Mars person can check the brief before starting; the Neptune person can describe the picture in concrete terms, including what they'd rather leave undone. In a couple that might be the holiday nobody quite planned; in a family, an adult child carrying out a parent's dream; at work, a founder's vision and the colleague who builds it.
 
-This conjunction turns up in about 1 pair of people in 15, one way round or the other, within 6°, and only half of it is personal. Neptune needs about fourteen years to cross one sign, which means the Neptune person shares their position, to within a few degrees, with everyone born a couple of years either side of them; the Mars, which changes sign every six or seven weeks, makes the meeting theirs. Neither body moves far in a day, so the hour rarely makes or breaks it, but the houses, where in each life the dream gets its legs, need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
+Within 6°, one way round or the other, about 1 pair of people in 15 shares this conjunction, and only half of it is personal. Neptune needs about fourteen years to cross one sign, which means the Neptune person shares their position, to within a few degrees, with everyone born a couple of years either side of them; the Mars, which changes sign every six or seven weeks, makes the meeting theirs. Neither body covers much ground in a day, and the hour rarely makes or breaks the meeting, but the houses, where in each life the dream gets its legs, need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 Where one birth chart holds both, [Mars conjunct Neptune](/astrology/mars-conjunct-neptune/) describes someone moved to act by their own imagination. Between two charts, one of you imagines and the other acts, which is why it pays to ask before starting.

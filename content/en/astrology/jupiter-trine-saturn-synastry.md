@@ -18,11 +18,11 @@ facts:
 related: ["/astrology/jupiter", "/astrology/saturn", "/astrology/trine", "/astrology/jupiter-trine-saturn", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Jupiter trine Saturn mean in synastry?"
-    a: "One person’s Jupiter sits about 120° from the other’s Saturn, within 4.25°, usually in signs of one element. One tends to bring understanding and principles, the other discipline and a long view, and the two fit without much negotiation. It suits shared plans and mentoring, in either direction."
+    a: "It’s an angle of about 120°, within 4.25°, between one person’s Jupiter and the other’s Saturn, usually in signs of one element. One tends to bring understanding and principles, the other discipline and a long view, and the two fit without much negotiation. It suits shared plans and mentoring, in either direction."
   - q: "What can go wrong with Jupiter trine Saturn in synastry?"
     a: "Mostly what the ease lets you skip. A pair this sensible can keep choosing the familiar plan and mistake shared caution for wisdom. Each person’s contribution can also stop being noticed. Trying something new together now and then keeps the trine honest."
   - q: "Who has Jupiter trine Saturn with someone?"
-    a: "It depends on the birth dates. Someone born in mid-1995 has it with anyone born between September 1967 and March 1968, and with anyone born between August 2005 and July 2006. Everyone born in those months shares it, so I read it through the houses of both charts."
+    a: "The birth dates decide. A person born in mid-1995 has it with anyone born between September 1967 and March 1968, and with anyone born between August 2005 and July 2006. It comes with those months, not with anyone’s character, so I read it through the houses of both charts."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the trine, 120°, among his four aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that set one person’s Jupiter within 4.25° of a trine to another’s Saturn" }
@@ -31,9 +31,9 @@ Ask this pair to plan something and the plan tends to come out both hopeful and 
 
 ## What flows {#what-flows}
 
-[Jupiter](/astrology/jupiter/) is the part of a chart that learns and judges: it turns experience into understanding and applies it with some wisdom. [Saturn](/astrology/saturn/) is the part that keeps: discipline, responsibility, the boundaries that let a commitment survive the years. A [trine](/astrology/trine/) relates two functions through flow, each reinforcing the other while staying itself; among the [synastry aspects](/astrology/synastry-aspects/), it lets one person's understanding and the other's discipline coordinate with little negotiation.
+[Jupiter](/astrology/jupiter/) learns and weighs: it turns experience into understanding and applies it with some wisdom. [Saturn](/astrology/saturn/) keeps: discipline, responsibility, the boundaries that let a commitment survive the years. A [trine](/astrology/trine/) lets two functions flow together, each reinforcing the other while staying itself; as a [synastry aspect](/astrology/synastry-aspects/), it lets one person's understanding and the other's discipline coordinate with little negotiation.
 
-What Jupiter's growth does with Saturn's structure, on a trine, is fit it. Learning slots into routine, principles into commitments: the Saturn person's rules gain a reason that can be put into words, and the Jupiter person's ideas gain a home that will hold them.
+On a trine, growth and structure fit into each other. Learning slots into routine, principles into commitments: the Saturn person's rules gain a reason that can be put into words, and the Jupiter person's ideas gain a home that will hold them.
 
 When the Jupiter is yours, your sense of what's worth attempting meets someone who knows how to make things durable. You feel carried rather than corrected, and you may think more carefully, simply because someone is ready to build what you say.
 
@@ -49,7 +49,7 @@ Beside its four neighbours, the trine runs smoothest. With [Jupiter conjunct Sat
 
 Test the ease now and then. Once in a while, do something neither of you would have planned: a course outside your field, a trip without an itinerary, a project with a real chance of not working. Name what each of you brings, out loud, so steadiness and encouragement don't turn into furniture. The pattern suits mentoring, in either direction: an older colleague and a younger one, an adult child teaching a parent something new, friends who keep each other learning, a couple building something slowly.
 
-It rides on the birth years. Someone born in mid-1995 has Jupiter trine the Saturn of anyone born between September 1967 and March 1968, old enough to be a parent, and of anyone born between August 2005 and July 2006, ten years younger. That reach across a generation is exactly why I leave it out of the aspects I count in a synastry reading, where each needs a personal body: the Sun, Moon, Mercury, Venus, Mars, Ascendant or Midheaven. Whoever shares those birth months shares the trine, so I read it in the houses, where two eras meet in two particular lives.
+It rides on the birth years. Born in mid-1995, a person has this trine with the Saturn of anyone born between September 1967 and March 1968, old enough to be a parent, and of anyone born between August 2005 and July 2006, ten years younger. That reach across a generation is exactly why it stays off the list of aspects in my synastry readings, where each one needs a personal body: the Sun, Moon, Mercury, Venus, Mars, Ascendant or Midheaven. Whoever shares those birth months shares the trine, so I read it in the houses, where two eras meet in two particular lives.
 
 The hour of birth can't move either planet far enough to change the trine, but it places both in the houses, and that takes both hours ([what changes without a birth time](/blog/unknown-birth-time/)).
 

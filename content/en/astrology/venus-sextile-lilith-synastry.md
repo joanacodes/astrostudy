@@ -36,7 +36,7 @@ Not every meeting with someone's hidden side is a revelation. Venus sextile Lili
 
 With the Venus on your side, you like something in this person that they rarely show, and you can say so lightly: a laugh at the joke they half swallowed, a yes to the plan everyone else called odd. Their frankness often works on you in return, and you find yourself owning your own preferences a little more plainly.
 
-With the Lilith on your side, the other's liking costs you nothing. No audition, no speech: you can say the blunt thing, or want what you want, and it's met with interest rather than correction. One person's Venus in Sagittarius with the other's Lilith in Aquarius shows the flavour: an appetite for the unconventional meets a refusal to belong to the crowd, and the two enjoy each other most where others shake their heads.
+With the Lilith on your side, the other's liking costs you nothing. No audition, no speech: you can say the blunt thing, or want what you want, and it's met with interest rather than correction. A Venus in Sagittarius meeting a Lilith in Aquarius gives the flavour: an appetite for the unconventional meets a refusal to belong to the crowd, and the two enjoy each other most where others shake their heads.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -48,9 +48,9 @@ Being invited isn't the same as being free, either. If the invitation always com
 
 Take the opening out of the private joke. If the Lilith is yours, try one of the refusals you practise here somewhere it counts, and tell the other how it went; if the Venus is yours, notice when your liking has become the only place they feel allowed, and say you'd like them to have more than one. Between siblings, this can be the one who backed your unlikely choice of work; between colleagues, the one who laughs at your plain speaking in a meeting and then supports the point.
 
-About 1 pair of people in 13 has this sextile, one way round or the other, within 3.6°: a narrow orb, so most of these contacts are close. Venus moves about a degree a day and mean Lilith about a degree in nine, so the hour of birth rarely makes or breaks the sextile, but it sets the houses in both charts, which is why both times come before any reading ([what changes without a birth time](/blog/unknown-birth-time/)).
+About 1 pair of people in 13 has this sextile, one way round or the other, within 3.6°: a narrow orb, so every sextile in that count is a close one. Venus moves about a degree a day and mean Lilith about a degree in nine, so the hour of birth rarely makes or breaks the sextile, but it sets the houses in both charts, which is why both times come before any reading ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Read inside one chart, [Venus sextile Lilith](/astrology/venus-sextile-lilith/) is a person's own access to their untamed taste. The pair's other contacts between two people:
+Read inside one chart, [Venus sextile Lilith](/astrology/venus-sextile-lilith/) is a person's own access to their untamed taste. Between two people, the rest of the pair works like this:
 
 - **[Venus conjunct Lilith in synastry](/astrology/venus-conjunct-lilith-synastry/):** liking that lands right on the hidden part, with no distance to play in.
 - **[Venus square Lilith in synastry](/astrology/venus-square-lilith-synastry/):** an angle that catches, where taste asks for polish and gets a refusal.

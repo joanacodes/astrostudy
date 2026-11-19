@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mars", "/astrology/neptune", "/astrology/square", "/astrology/mars-square-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Mars square Neptune mean in synastry?"
-    a: "One person’s Mars sits about 90° from the other’s Neptune. The Mars person’s drive and the Neptune person’s ideals keep meeting at an angle: effort aimed at one target, a picture of another. It describes crossed expectations that plain words can sort out, not a mismatch between two people."
+    a: "One person’s Mars and the other’s Neptune stand a quarter of the zodiac apart. The Mars person’s drive and the Neptune person’s ideals keep meeting at an angle: effort aimed at one target, a picture of another. It describes crossed expectations that plain words can sort out, not a mismatch between two people."
   - q: "Why do we keep misunderstanding each other with Mars square Neptune?"
     a: "Often because one person is acting on a plan while the other is describing a hope, and both use the same words. The square doesn’t make anyone dishonest. It shows where intention and imagination need checking against each other before anyone gets to work."
   - q: "Can Mars square Neptune work between colleagues?"
