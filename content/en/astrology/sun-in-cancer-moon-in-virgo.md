@@ -1,7 +1,7 @@
 ---
 title: "Sun in Cancer, Moon in Virgo"
 h1: "Sun in Cancer, Moon in Virgo in a birth chart"
-description: "Sun in Cancer, Moon in Virgo: water and earth in a sextile by sign, in the first week of a lunar month. Care with a method, and the worry that comes with it."
+description: "Sun in Cancer, Moon in Virgo: water and earth in a sextile by sign, under a thin evening crescent. Care with a method, and the worry that comes with it."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -22,7 +22,7 @@ faq:
   - q: "What does Mercury do with Sun in Cancer, Moon in Virgo?"
     a: "It speaks for your Moon, as ruler of Virgo, describing how you sort and handle your feelings, and through the Moon, ruler of Cancer, it touches your purpose too. With the Sun in Cancer, Mercury has to be in Gemini, Cancer or Leo, so this Moon’s ruler always works from a sign other than Virgo."
   - q: "Was there a crescent moon at a Sun in Cancer, Moon in Virgo birth?"
-    a: "Nearly always: the Moon was a growing evening crescent, 31° to 89° ahead of the Sun, between two and a half and seven or so days after the new moon. In the eight-phase count, only a few early births are still new moon births."
+    a: "Nearly always. A growing crescent stood in the evening sky, the Moon leading the Sun by 31° to 89°, two and a half days to a week after the new moon; just a few early births are still new moon births in the eight-phase count."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the Moon’s rule of Cancer and Mercury’s of Virgo" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s lead over the Sun" }
@@ -32,13 +32,13 @@ Looking after people is your Sun's purpose, and doing it properly is your Moon's
 
 ## How they get along {#how-they-get-along}
 
-Cardinal water and mutable earth, two signs apart with the Moon ahead: a sextile by sign, and earth and water suit each other. The [Sun in Cancer](/astrology/sun-in-cancer/) makes its purpose out of protecting and providing for its people; the [Moon in Virgo](/astrology/moon-in-virgo/) calms down when things are in order and being useful. The two agree on what matters, which is taking care of others, and differ only on style: the Sun responds with feeling, the Moon with a plan.
+Cardinal water and mutable earth, with Virgo two signs on from Cancer: a sextile by sign, and earth and water suit each other. The [Sun in Cancer](/astrology/sun-in-cancer/) makes its purpose out of protecting and providing for its people; the [Moon in Virgo](/astrology/moon-in-virgo/) calms down when things are in order and being useful. The two agree on what matters, which is taking care of others, and differ only on style: the Sun responds with feeling, the Moon with a plan.
 
-Since the Moon rules Cancer, how your Moon fares in Virgo colours your sense of purpose as well, and Virgo in turn belongs to [Mercury](/astrology/mercury/). Tied to the Sun's side, within about 28°, Mercury can only be in Gemini, Cancer or Leo here: the planet that sorts this Moon's feelings works from another corner of the chart, and its sign and house say how. Tradition grants neither light a dignity in these signs.
+Since the Moon rules Cancer, how your Moon fares in Virgo colours your sense of purpose as well, and Virgo in turn belongs to [Mercury](/astrology/mercury/). Mercury, held within about 28° of the Sun, has three signs open to it with this Sun, Gemini, Cancer and Leo, and Virgo is not one of them: the planet that sorts this Moon's feelings works from another corner of the chart, and its sign and house say how. Tradition grants neither light a dignity in these signs.
 
-From two and a half to about seven days into the month, with the Moon 31° to 89° on from the Sun: that is the window for this pair. The [waxing crescent](/astrology/waxing-crescent/) holds the great majority of these births in the eight-phase count, the [new moon](/astrology/new-moon/) phase a few early ones, and around 60° the sextile of signs becomes a waxing [Sun sextile Moon](/astrology/sun-sextile-moon/). In the crescent, as I read it, needs start to find their own way, and this Moon's way is usually a task. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) explains the phase.
+This pair needs the Moon to have travelled 31° to 89° past the Sun, which takes from two and a half days to about a week. A few early births still count as [new moon](/astrology/new-moon/) ones, and the eight-phase count puts all the rest in the [waxing crescent](/astrology/waxing-crescent/); around 60° the sextile of signs becomes a waxing [Sun sextile Moon](/astrology/sun-sextile-moon/). The crescent is where I see needs beginning to find their own way, and this Moon's way is usually a task. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) explains the phase.
 
-This pairing comes to roughly 1 person in 138. Two and a half days is the Moon's usual stay in Virgo, between Leo and Libra; if it changed sign on the day you were born, your page could be the [Sun in Cancer, Moon in Leo](/astrology/sun-in-cancer-moon-in-leo/) or the [Sun in Cancer, Moon in Libra](/astrology/sun-in-cancer-moon-in-libra/), and only the birth time can say ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). It gives the rising sign and the houses too, which is why I never read a chart without it.
+Roughly 1 person in 138 was born with this Sun and this Moon. The Moon spends two and a half days or so in Virgo after Leo and before Libra; if it changed sign on your birthday, you may belong instead to the [Sun in Cancer, Moon in Leo](/astrology/sun-in-cancer-moon-in-leo/) or the [Sun in Cancer, Moon in Libra](/astrology/sun-in-cancer-moon-in-libra/), which only the birth time settles ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). It gives the rising sign and the houses too, which is why I never read a chart without it.
 
 ## In close relationships {#in-close-relationships}
 
@@ -46,7 +46,7 @@ You love by looking after people in concrete ways. The Cancer Sun wants to keep 
 
 ## At work {#at-work}
 
-Care work with a practical edge suits this pair: nursing and support roles, social work, running a household or an office so that everyone else can get on, organising the logistics that keep a team or a family going. The Sun wants the work to protect people; the Moon wants it to be done well. Chaotic, careless workplaces upset both. You're often the one quietly holding the system together, and you deserve to be told so.
+Care work with a practical edge suits this pair: nursing and support roles, social work, running a household or an office so that everyone else can get on, organising the logistics that keep a team or a family going. The purpose is protection, and the comfort is a job done well. Chaotic, careless workplaces upset both. You're often the one quietly holding the system together, and you deserve to be told so.
 
 ## The hard part {#the-hard-part}
 

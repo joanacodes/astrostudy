@@ -17,12 +17,12 @@ facts:
   - { k: "How common", v: "About 1 person in 137 born 1930–2009" }
 related: ["/astrology/sun-in-cancer", "/astrology/moon-in-libra", "/astrology/venus", "/astrology/first-quarter-moon", "/astrology/sun-square-moon"]
 faq:
-  - q: "Is a Cancer Sun with a Libra Moon a peacemaker?"
+  - q: "Is keeping the peace typical of a Cancer Sun with a Libra Moon?"
     a: "Often, and sometimes at a cost. The Cancer Sun protects its own people; the Libra Moon cannot settle while anyone is being treated unfairly. The pair tends to smooth over tensions at home and at work, and can end up carrying other people’s disagreements. Peace that leaves out your own needs doesn’t last."
   - q: "Which planets matter for Sun in Cancer, Moon in Libra?"
     a: "The Moon itself, because it rules Cancer and so governs your Sun’s sign, and Venus, ruler of Libra, which speaks for your Moon. With a Cancer Sun, Venus stays within about 47°, somewhere from Taurus to Virgo, and its sign shows what kind of harmony comforts you."
   - q: "Was a Sun in Cancer, Moon in Libra birth near a half moon?"
-    a: "Usually close to one: five to almost ten days after the new moon, the Moon, 61° to 119° ahead of the Sun, was turning from a crescent into a half moon. The eight-phase count divides these births between crescent and first quarter, half and half, and at about 90° the waxing square is exact."
+    a: "Usually close to one. Between the fifth day after the new moon and the tenth, the Moon, 61° to 119° ahead of the Sun, was turning from a crescent into a half moon. Crescent and first quarter births are equally common here in the eight-phase count, and at about 90° the waxing square is exact."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the Moon’s rule of Cancer, Venus’s of Libra, and the square" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s lead over the Sun" }
@@ -32,13 +32,13 @@ Your Sun's first loyalty is to your own people; your Moon cannot rest until thin
 
 ## How they get along {#how-they-get-along}
 
-Cardinal water and cardinal air, the Moon three signs on: a square by sign: two signs that both start things. The [Sun in Cancer](/astrology/sun-in-cancer/) gives its loyalty first to family, old friends and the people it shelters; the [Moon in Libra](/astrology/moon-in-libra/) settles when relationships are balanced and the room is calm, and it moves quickly to restore that balance. The friction comes when the two ask for different things: standing by your own, or being even-handed with everyone, the outsider included.
+Cardinal water and cardinal air, the Moon three signs on: a square by sign, and both signs like to make the first move. The [Sun in Cancer](/astrology/sun-in-cancer/) gives its loyalty first to family, old friends and the people it shelters; the [Moon in Libra](/astrology/moon-in-libra/) settles when relationships are balanced and the room is calm, and it moves quickly to restore that balance. The friction comes when the two ask for different things: standing by your own, or being even-handed with everyone, the outsider included.
 
 Whatever your Moon needs, your Sun needs as well, since the Moon rules Cancer: here that means harmony with other people becomes part of your purpose, not an optional extra. Your Moon in turn answers to [Venus](/astrology/venus/), which with a Cancer Sun sits somewhere between Taurus and Virgo, its sign showing what kind of beauty and peace restores you. Neither sign is a place of dignity for its light.
 
-The Moon stood 61° to 119° ahead of the Sun, five to almost ten days after a new moon, between a thick crescent and a half moon. The eight-phase count divides these births equally between the [waxing crescent](/astrology/waxing-crescent/) and the [first quarter moon](/astrology/first-quarter-moon/), and close to 90° the square of signs is mirrored by a waxing [Sun square Moon](/astrology/sun-square-moon/). The first quarter, as I read it, turns friction outward into action, and for this pair the action is often a conversation that clears the air. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) gives the details.
+Somewhere between a thick crescent and a half moon, yours stood 61° to 119° ahead of the Sun; at least five days had gone by since the new moon, and fewer than ten. The eight-phase count divides these births equally between the [waxing crescent](/astrology/waxing-crescent/) and the [first quarter moon](/astrology/first-quarter-moon/), and close to 90° the square of signs is mirrored by a waxing [Sun square Moon](/astrology/sun-square-moon/). The first quarter, as I read it, turns friction outward into action, and for this pair the action is often a conversation that clears the air. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) gives the details.
 
-Around 1 person in 137 shares it. The Moon takes some two and a half days to cross Libra, from Virgo to Scorpio, so on a changeover day the time of birth decides between this page, the [Sun in Cancer, Moon in Virgo](/astrology/sun-in-cancer-moon-in-virgo/) and the [Sun in Cancer, Moon in Scorpio](/astrology/sun-in-cancer-moon-in-scorpio/) ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)). That moment also fixes the rising sign and the houses, which show whether this tug between home and fairness plays out mostly in private or in public.
+Around 1 person in 137 shares it. Libra is a two-and-a-half-day stop for the Moon, coming from Virgo and going on to Scorpio; born on a day when it changed sign, you need the time to know whether you're on the right page or belong to the [Sun in Cancer, Moon in Virgo](/astrology/sun-in-cancer-moon-in-virgo/) or the [Sun in Cancer, Moon in Scorpio](/astrology/sun-in-cancer-moon-in-scorpio/) ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)). Your rising sign and houses come from that moment as well, and they show whether this tug between home and fairness plays out mostly in private or in public.
 
 ## In close relationships {#in-close-relationships}
 
@@ -46,7 +46,7 @@ You want a home that is both safe and gracious: nurturing, courteous, beautiful 
 
 ## At work {#at-work}
 
-Mediation, family law, human resources, hospitality, interior design, counselling couples or teams: work where care and fairness have to meet suits this pair. The Sun wants to protect people; the Moon wants the process to be just and the atmosphere civil. You're often the colleague who notices someone being left out and quietly fixes it. Hostile, partisan workplaces cost you a great deal, so choose teams that argue honestly and make up properly.
+Mediation, family law, human resources, hospitality, interior design, counselling couples or teams: work where care and fairness have to meet suits this pair. The Cancer side looks after people, the Libra side after the process, which must be just, and the atmosphere, which must stay civil. You're often the colleague who notices someone being left out and quietly fixes it. Hostile, partisan workplaces cost you a great deal, so choose teams that argue honestly and make up properly.
 
 ## The hard part {#the-hard-part}
 
