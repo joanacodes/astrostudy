@@ -45,7 +45,7 @@ Ce que la rencontre peut produire, c’est un idéal doté d’un tranchant prat
 Fondus, le changement et l’idéal se brouillent. La personne d’Uranus peut prendre la nouveauté pour un progrès et redessiner ce que l’autre chérissait avant de le comprendre ; celle de Neptune peut prendre une émotion forte pour une raison et suivre la nouveauté sans recul, ou la rejeter comme froide. Aucun des deux instincts n’a tort ; chacun a besoin du garde-fou de l’autre.
 
 - **[Uranus sextile Neptune en synastrie](/astrology/uranus-sextile-neptune-synastry/) :** un angle étroit et amical, où la vision et la réforme s’entraident.
-- **[Uranus carré Neptune en synastrie](/astrology/uranus-square-neptune-synastry/) :** les idéaux et les expériences à angle droit, qui frottent jusqu’à trouver une forme praticable.
+- **[Uranus carré Neptune en synastrie](/astrology/uranus-square-neptune-synastry/) :** les idéaux et les expériences à angle droit, chacun mettant l’autre à l’épreuve.
 - **[Uranus trigone Neptune en synastrie](/astrology/uranus-trine-neptune-synastry/) :** les idées neuves et les idéaux anciens qui vont dans le même sens.
 - **[Uranus opposition Neptune en synastrie](/astrology/uranus-opposite-neptune-synastry/) :** le changement à un bout, l’idéal à l’autre, et des décennies entre les deux.
 

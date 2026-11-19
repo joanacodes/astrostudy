@@ -44,7 +44,7 @@ What the meeting can make is an ideal with a working edge, and a reform with a r
 Fused, change and ideal blur. The Uranus person can take novelty for progress and redesign what the Neptune person cherished before understanding it; the Neptune person can take a stirring feeling for a reason and follow the new thing uncritically, or dismiss it as cold. Neither instinct is wrong; each needs the other's check.
 
 - **[Uranus sextile Neptune in synastry](/astrology/uranus-sextile-neptune-synastry/):** a narrow, friendly angle where vision and reform trade help.
-- **[Uranus square Neptune in synastry](/astrology/uranus-square-neptune-synastry/):** ideals and experiments at right angles, rubbing until a workable form appears.
+- **[Uranus square Neptune in synastry](/astrology/uranus-square-neptune-synastry/):** ideals and experiments at right angles, each testing the other.
 - **[Uranus trine Neptune in synastry](/astrology/uranus-trine-neptune-synastry/):** new ideas and old ideals running the same way.
 - **[Uranus opposite Neptune in synastry](/astrology/uranus-opposite-neptune-synastry/):** change at one end, ideal at the other, with decades between.
 
