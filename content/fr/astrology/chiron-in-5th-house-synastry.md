@@ -36,7 +36,7 @@ Montrer à quelqu’un une chanson écrite par vous, un premier dessin ou un cou
 
 Avec cette personne, vous osez peut-être davantage. Elle est en général douce avec les premiers essais, parce qu’elle sait ce que c’est que de mettre une part de soi en vitrine et d’attendre ; la chanson qui chante faux, la toile à moitié finie, le compliment maladroit reçoivent de l’intérêt plutôt qu’une note sur dix. Si vous avez cessé de jouer à un moment de votre vie, c’est peut-être elle qui vous y ramène.
 
-Pour elle, votre plaisir peut être émouvant et un peu douloureux. Vous voir savourer librement les choses lui rappelle peut-être l’endroit où elle a dû s’adapter autrefois : elle reste parfois au bord d’un jeu avant d’y entrer, puis s’y découvre plus libre avec vous qu’avec la plupart des gens. La maison 5 est succédente, là où le plaisir grandit ; le [Lion](/astrology/leo/) est son signe naturel, la tradition l’appelait la Fortune favorable, et Vénus y a sa joie.
+Pour elle, votre plaisir peut être émouvant et un peu douloureux. Vous voir savourer librement les choses lui rappelle peut-être l’endroit où elle a dû s’adapter autrefois : elle reste parfois au bord d’un jeu avant d’y entrer, puis s’y découvre plus libre avec vous qu’avec la plupart des gens. Succédente, la maison 5 fait grandir le plaisir. Son signe naturel est le [Lion](/astrology/leo/), et les anciens astrologues, qui la nommaient la Fortune favorable, plaçaient ici la joie de Vénus.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

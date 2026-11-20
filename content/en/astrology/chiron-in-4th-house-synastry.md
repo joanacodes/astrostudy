@@ -34,7 +34,7 @@ Some people walk into your kitchen and seem to know where the cups are, and whic
 
 With them, home may become easier to live in. They often have a feel for what makes a place safe: a light left on, a door that's always open, a family situation that won't change but can be lived with. Chiron doesn't need the old difficulty to go away, and neither do they; they may help you make room around a family pattern instead of fighting it.
 
-For them, your private life can stir something tender. Your family's habits, a crowded Sunday lunch or a very quiet flat may recall what they once had to work around, and they can feel welcomed and on the outside in the same moment. Your home may also become one of the places where they rest. The 4th is angular, strong even when it works out of sight, and [Cancer](/astrology/cancer/), its natural sign, shelters what it loves. Close to the cusp, their Chiron also touches your [Imum Coeli](/astrology/imum-coeli/), the lowest point of your chart, and I read that meeting as a contact as well as an overlay.
+For them, your private life can stir something tender. Your family's habits, a crowded Sunday lunch or a very quiet flat may recall what they once had to work around, and they can feel welcomed and on the outside in the same moment. Your home may also become one of the places where they rest. Angular, the 4th carries real weight though most of it happens behind your own front door; its natural sign, [Cancer](/astrology/cancer/), shelters what it loves. Close to the cusp, their Chiron also touches your [Imum Coeli](/astrology/imum-coeli/), the lowest point of your chart, and I read that meeting as a contact as well as an overlay.
 
 ## Where it rubs {#where-it-rubs}
 

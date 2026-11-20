@@ -16,7 +16,7 @@ facts:
   - { k: "Needs", v: "Your birth time, which sets your Descendant; their date places their Chiron" }
 related: ["/astrology/chiron", "/astrology/6th-house", "/astrology/house-overlays", "/astrology/can-astrology-predict-health-problems", "/astrology/descendant"]
 faq:
-  - q: "Is their Chiron in my 6th house a sign of illness for either of us?"
+  - q: "Could their Chiron in my 6th house point to illness, mine or theirs?"
     a: "No. Tradition read illness in the 6th, but a synastry can’t diagnose or foresee anything about anyone’s body, and Chiron’s old hurt is not an illness. This overlay describes daily routines and work: where their hard-won way of pacing themselves meets your ordinary week. A question about anyone's health goes to a doctor, not to a chart."
   - q: "Why does someone with Chiron in my 6th house notice when I overwork?"
     a: "Often because they have had to find their own way of working within limits, and recognise the signs of someone pushing past theirs. In your house of routines and daily tasks, that know-how shows as practical tips and well-timed breaks. Take what suits you; your schedule stays yours."
@@ -34,7 +34,7 @@ Some people know exactly when to say "stop for lunch", because they once learned
 
 With them, your days may become more workable. They tend to have practical tricks for doing things within limits: the list broken into smaller lists, the alarm that says stop, the task handed on before it grows. They notice when you're running on empty and say so plainly, and they rarely mistake slowing down for failing.
 
-For them, your way of working can touch something tender. Your perfectionism, or your easy way of taking a break, may recall a time when they felt valued only for being useful, and they may answer by working harder beside you. The 6th is cadent, a house of maintenance and adjustment; [Virgo](/astrology/virgo/) is its natural sign, tradition called it Bad Fortune and gave Mars its joy there. Late in your 6th, their Chiron nears your [Descendant](/astrology/descendant/), and a working alliance can shade into a one-to-one bond.
+For them, your way of working can touch something tender. Your perfectionism, or your easy way of taking a break, may recall a time when they felt valued only for being useful, and they may answer by working harder beside you. Cadent houses adjust and keep things running, and this one has [Virgo](/astrology/virgo/) for its natural sign; its old name was Bad Fortune, and Mars was said to rejoice in it. Late in your 6th, their Chiron nears your [Descendant](/astrology/descendant/), and a working alliance can shade into a one-to-one bond.
 
 ## Where it rubs {#where-it-rubs}
 

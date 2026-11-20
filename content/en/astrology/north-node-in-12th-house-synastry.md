@@ -1,7 +1,7 @@
 ---
 title: "Their North Node in your 12th house"
 h1: "Their North Node in your 12th house in synastry"
-description: "Their North Node in your 12th house in synastry: your rest, solitude and inner life as the direction they grow in, their South Node in your 6th, both ways."
+description: "Their North Node in your 12th house in synastry: rest and solitude as their lesson near you, busy usefulness from their South Node in your 6th, no warning."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

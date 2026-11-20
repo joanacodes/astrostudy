@@ -1,7 +1,7 @@
 ---
 title: "Their North Node in your 9th house"
 h1: "Their North Node in your 9th house in synastry"
-description: "Their North Node in your 9th house in synastry: your beliefs, studies and travels as the direction they grow in, their South Node in your 3rd, both ways."
+description: "Their North Node in your 9th house in synastry: a view of the world of their own, found near yours, and the small talk their South Node in your 3rd prefers."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

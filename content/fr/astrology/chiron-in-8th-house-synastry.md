@@ -17,8 +17,8 @@ facts:
   - { k: "Il faut", v: "Votre heure de naissance ; sa date de naissance fixe son Chiron" }
 related: ["/astrology/chiron", "/astrology/8th-house", "/astrology/house-overlays", "/astrology/can-astrology-predict-death", "/astrology/scorpio"]
 faq:
-  - q: "Le Chiron de l’autre dans ma maison 8 annonce-t-il une perte ou un danger ?"
-    a: "Non. La tradition donnait à la maison 8 la mort et l’héritage, mais aucun thème ne prédit l’une ou l’autre, et je n’en lis jamais un pour cela. Son Chiron décrit ici une vieille blessure et sa stabilité durement acquise face à votre intimité, votre confiance et ce que vous partagez. Il amène souvent quelqu’un capable de rester avec vous dans les conversations difficiles."
+  - q: "Avec le Chiron de l’autre dans ma maison 8, y a-t-il une perte à redouter ?"
+    a: "Non. Le vieux lien de la maison 8 avec la mort ou l’héritage ne fait pas d’une superposition une prédiction : aucun thème ne prédit l’une ou l’autre, et je n’en lis jamais un pour cela. Son Chiron décrit ici une vieille blessure et sa stabilité durement acquise face à votre intimité, votre confiance et ce que vous partagez. Il amène souvent quelqu’un capable de rester avec vous dans les conversations difficiles."
   - q: "Pourquoi puis-je dire à une personne dont le Chiron est dans ma maison 8 ce que je n’ai jamais dit ?"
     a: "Les personnes qui ont dû s’adapter autour d’un point sensible restent souvent calmes devant les vérités difficiles des autres. Dans votre maison de l’intimité et de la confiance, ce calme peut ressembler à une permission. Confiez-vous à votre rythme ; la profondeur n’a pas besoin d’arriver d’un seul coup."
   - q: "Pourquoi la proximité me met-elle sur mes gardes quand mon Chiron est dans sa maison 8 ?"
@@ -36,7 +36,7 @@ Certains liens atteignent l’endroit où l’on garde ce qu’on n’a jamais d
 
 Avec cette personne, vous dites peut-être ce que vous n’avez jamais dit. Elle ne bronche guère devant les vérités difficiles, et sait rester à vos côtés dans une conversation pénible sans la presser vers une fin bien rangée. Quand les affaires communes se compliquent, un compte joint, un prêt, une promesse, c’est peut-être elle qui insiste, doucement, pour que tout soit mis sur la table, parce qu’elle sait ce que coûte le secret.
 
-Pour elle, la proximité avec vous est l’endroit où sa garde peut se relever. Votre ouverture, ou simplement la profondeur de ce que vous partagez, appuie peut-être sur l’endroit où elle a dû s’adapter autrefois, et elle peut désirer l’intimité et s’en protéger dans le même souffle. La maison 8 est succédente, elle garde ce qu’un lien crée ; le [Scorpion](/astrology/scorpio/), son signe naturel, a deux maîtres, Pluton pour l’astrologie tropicale moderne et Mars pour la tradition, et je lis les deux.
+Pour elle, la proximité avec vous est l’endroit où sa garde peut se relever. Votre ouverture, ou simplement la profondeur de ce que vous partagez, appuie peut-être sur l’endroit où elle a dû s’adapter autrefois, et elle peut désirer l’intimité et s’en protéger dans le même souffle. Les maisons succédentes gardent ce que les angles lancent, et celle-ci garde ce que deux personnes bâtissent ensemble ; le [Scorpion](/astrology/scorpio/), son signe naturel, a deux maîtres, Pluton pour l’astrologie tropicale moderne et Mars pour la tradition, et je lis les deux.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
@@ -44,7 +44,7 @@ La confiance peut tourner à l’épreuve. Elle retient peut-être quelque chose
 
 De son côté, être connue à ce point est à la fois ce qu’elle souhaite et ce qu’elle redoute. Elle vous aide peut-être dans vos moments les plus durs tout en gardant les siens hors de vue, et confond être utile dans une crise avec être proche.
 
-La tradition donnait à la maison 8 la mort et l’héritage. Je ne lis ni l’une ni l’autre dans aucun thème, seul ou à deux ([l’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)) : cette superposition décrit la confiance, la profondeur et ce que deux personnes tiennent en commun.
+Les anciens livres rangeaient aussi la mort et l’héritage dans cette maison. Je ne lis ni l’une ni l’autre dans aucun thème, seul ou à deux ([l’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)) : cette superposition décrit la confiance, la profondeur et ce que deux personnes tiennent en commun.
 
 ## Comment le vivre {#comment-le-vivre}
 

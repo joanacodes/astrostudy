@@ -34,7 +34,7 @@ Small words carry a lot in the 3rd house: the message read in the wrong tone, th
 
 Things may make sense when they explain them. They rarely make you feel slow, and when you're stuck on something you abandoned years ago, a language, a sum, a form, they tend to offer another way in rather than the same explanation louder. They listen to how you put things, not only to what you say.
 
-For them, your ordinary chatter can reach a tender place. A teasing word, a correction in passing, a message that sounds curt on a small screen may land on something they adapted around long ago, while your curiosity lets them teach what they learned the long way. The 3rd is cadent, a house of learning and passing things on; [Gemini](/astrology/gemini/) is its natural sign, tradition named it the Goddess, and the Moon has its joy there. Late in your 3rd, their Chiron sits close to your [Imum Coeli](/astrology/imum-coeli/), the point where your 4th begins, and talk starts to touch home.
+For them, your ordinary chatter can reach a tender place. A teasing word, a correction in passing, a message that sounds curt on a small screen may land on something they adapted around long ago, while your curiosity lets them teach what they learned the long way. The 3rd is cadent, a house of learning and passing things on, with [Gemini](/astrology/gemini/) as its natural sign; tradition knew it as the Goddess, the house where the Moon rejoices. Late in your 3rd, their Chiron sits close to your [Imum Coeli](/astrology/imum-coeli/), the point where your 4th begins, and talk starts to touch home.
 
 ## Where it rubs {#where-it-rubs}
 

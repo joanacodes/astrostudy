@@ -1,7 +1,7 @@
 ---
 title: "Their North Node in your 10th house"
 h1: "Their North Node in your 10th house in synastry"
-description: "Their North Node in your 10th house in synastry: your work and public role as the direction they grow in, their South Node in your 4th, from both sides."
+description: "Their North Node in your 10th house in synastry: your public life as the step they learn to take, your home as their South Node’s comfort, both ways."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

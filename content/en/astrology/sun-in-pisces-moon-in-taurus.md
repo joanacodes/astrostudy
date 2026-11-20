@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s distance from the Sun" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the young crescent in the days after a new moon" }
 ---
-Pisces gives your Sun its imagination; Taurus, where tradition exalts the Moon, gives your feelings their footing. The month was only days old when you arrived, its crescent still slim in the dusk. The pair asks a question I find lovely: how can a dream be made to last?
+Pisces gives your Sun its imagination; Taurus, where tradition exalts the Moon, gives your feelings their footing. Only a few days separated your birth from the new moon, and the Moon showed as a slim curve at dusk. The pair asks a question I find lovely: how can a dream be made to last?
 
 ## How they get along {#how-they-get-along}
 

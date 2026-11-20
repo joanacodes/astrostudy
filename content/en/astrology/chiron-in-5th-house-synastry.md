@@ -35,7 +35,7 @@ Showing someone a song you wrote, a first drawing or a crush takes a particular 
 
 With them, you may dare more. They tend to be gentle with first attempts, because they know what it is to put something of yourself on show and wait; the out-of-tune song, the half-finished canvas, the clumsy compliment are met with interest rather than marks out of ten. If you stopped playing at some point, they may be the one who gets you back to it.
 
-For them, your delight can be touching and a little sore. Watching you enjoy yourself freely may recall the place where they once had to adapt, and they can hover at the edge of a game before joining in, then find themselves freer with you than with most. The 5th is succedent, where pleasure grows; [Leo](/astrology/leo/) is its natural sign, tradition called it Good Fortune, and Venus has its joy there.
+For them, your delight can be touching and a little sore. Watching you enjoy yourself freely may recall the place where they once had to adapt, and they can hover at the edge of a game before joining in, then find themselves freer with you than with most. Succedent, the 5th is where pleasure grows. Its natural sign is [Leo](/astrology/leo/), and the old astrologers, who called it Good Fortune, placed the joy of Venus here.
 
 ## Where it rubs {#where-it-rubs}
 

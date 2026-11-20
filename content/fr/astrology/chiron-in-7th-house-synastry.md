@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 127
 glyph: "⚷"
-definition: "Chiron de l’autre dans votre maison 7 met son Chiron en face de vous, dans la maison des partenaires et des liens en tête-à-tête. En synastrie, sa vieille blessure et ce qu’elle lui a appris de la proximité entrent dans le lien lui-même : cette personne écoute remarquablement bien, et être votre égale effleure un point sensible."
+definition: "Chiron de l’autre dans votre maison 7 place son Chiron dans la maison de la personne qui vous fait face : partenaires, proches collaborateurs, liens à deux. En synastrie, sa vieille blessure et ce qu’elle lui a appris de la proximité entrent dans le lien lui-même : cette personne écoute remarquablement bien, et être votre égale effleure un point sensible."
 facts:
   - { k: "Corps de l’autre", v: "Le Chiron de l’autre ⚷" }
   - { k: "Votre maison", v: "La maison 7 : les partenaires, les liens en tête-à-tête" }
@@ -17,7 +17,7 @@ facts:
   - { k: "Il faut", v: "Votre heure de naissance, pour placer votre descendant ; sa date fixe son Chiron" }
 related: ["/astrology/chiron", "/astrology/7th-house", "/astrology/house-overlays", "/astrology/descendant", "/astrology/chiron-in-7th-house"]
 faq:
-  - q: "Une personne dont le Chiron est dans ma maison 7 va-t-elle me faire souffrir en couple ?"
+  - q: "Faut-il s’attendre à souffrir avec une personne dont le Chiron tombe dans ma maison 7 ?"
     a: "Pas à cause de la superposition. Son Chiron décrit une vieille blessure qu’elle porte déjà, et ce qu’elle lui a appris ; dans votre maison 7, il montre que les liens en tête-à-tête sont l’endroit où cela entre en jeu entre vous. Cela fait souvent d’elle quelqu’un d’attentif, en couple comme en affaires. La façon dont on traite quelqu’un relève de choix, pas d’un thème."
   - q: "Pourquoi une personne dont le Chiron tombe dans ma maison 7 m’écoute-t-elle si bien ?"
     a: "Les personnes qui ont dû s’adapter dans leurs propres liens proches apprennent souvent à écouter remarquablement bien, en tête-à-tête. Avec son Chiron dans la maison de la personne qui vous fait face, ce talent vous vise directement. Profitez-en, et veillez à ce que l’écoute aille dans les deux sens."
@@ -35,7 +35,7 @@ Quand un lien se vit à deux, couple, associés, l’ami ou l’amie qu’on voi
 
 De votre côté, parler avec cette personne peut avoir une qualité rare. Elle écoute en tête-à-tête avec une vraie attention, remarque le schéma que vous répétez avec les gens, et reste avec vous sans chercher à vous réparer. Avec elle, il devient peut-être plus facile de dire ce dont vous avez besoin dans une relation, parce qu’elle semble savoir ce qu’il en coûte de demander.
 
-Pour elle, être votre égale peut être la partie tendre. Être choisie, signer un accord, s’asseoir en face de vous à une table de négociation lui rappelle peut-être l’endroit où elle a dû s’adapter, et elle se prépare parfois à voir une vieille histoire se répéter, tout en savourant qu’elle ne se répète pas. La maison 7 est angulaire : ce qui y tombe se voit, chez les personnes que vous choisissez et chez celles avec qui vous vous heurtez ; la [Balance](/astrology/libra/), son signe naturel, pèse les deux côtés. Un Chiron posé juste sur votre [descendant](/astrology/descendant/), le degré qui se couchait à l’ouest à votre naissance, rend le contact plus sonore encore : je le lis comme une conjonction à cet angle autant que comme une superposition.
+Pour elle, être votre égale peut être la partie tendre. Être choisie, signer un accord, s’asseoir en face de vous à une table de négociation lui rappelle peut-être l’endroit où elle a dû s’adapter, et elle se prépare parfois à voir une vieille histoire se répéter, tout en savourant qu’elle ne se répète pas. Angulaire, la maison 7 expose ce qu’elle contient chez les personnes que vous choisissez comme chez celles avec qui vous vous disputez ; la [Balance](/astrology/libra/), son signe naturel, ne cesse de peser les deux côtés. Un Chiron posé juste sur votre [descendant](/astrology/descendant/), le degré qui se couchait à l’ouest à votre naissance, rend le contact plus sonore encore : je le lis comme une conjonction à cet angle autant que comme une superposition.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

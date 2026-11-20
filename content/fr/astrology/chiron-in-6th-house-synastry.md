@@ -17,7 +17,7 @@ facts:
   - { k: "Il faut", v: "Votre heure de naissance, qui fixe votre descendant ; sa date place son Chiron" }
 related: ["/astrology/chiron", "/astrology/6th-house", "/astrology/house-overlays", "/astrology/can-astrology-predict-health-problems", "/astrology/descendant"]
 faq:
-  - q: "Le Chiron de l’autre dans ma maison 6 est-il un signe de maladie pour l’un de nous ?"
+  - q: "Faut-il craindre une maladie quand le Chiron de l’autre tombe dans ma maison 6 ?"
     a: "Non. La tradition lisait la maladie dans la maison 6, mais une synastrie ne peut rien diagnostiquer ni prévoir du corps de quiconque, et la vieille blessure de Chiron n’est pas une maladie. Cette superposition décrit les routines et le travail : l’endroit où sa façon durement apprise de doser ses efforts rencontre votre semaine. Une question de santé se pose à un médecin, pas à un thème."
   - q: "Pourquoi une personne dont le Chiron est dans ma maison 6 voit-elle quand j’en fais trop ?"
     a: "Souvent parce qu’elle a dû trouver sa propre façon de travailler dans ses limites, et reconnaît les signes chez quelqu’un qui dépasse les siennes. Dans votre maison des routines et des tâches, ce savoir prend la forme d’astuces concrètes et de pauses bien placées. Prenez ce qui vous convient ; votre emploi du temps reste le vôtre."
@@ -35,7 +35,7 @@ Certaines personnes savent exactement quand dire « on s’arrête pour déjeun
 
 Avec cette personne, vos journées deviennent peut-être plus vivables. Elle a souvent des astuces concrètes pour faire les choses dans les limites : la liste découpée en listes plus petites, l’alarme qui dit stop, la tâche passée à quelqu’un d’autre avant qu’elle grossisse. Elle remarque quand vous tournez à vide et le dit simplement, et confond rarement ralentir et échouer.
 
-Pour elle, votre façon de travailler peut toucher quelque chose de tendre. Votre perfectionnisme, ou votre facilité à prendre une pause, lui rappelle peut-être une époque où elle ne se sentait estimée que pour son utilité, et elle répond parfois en travaillant plus dur à côté de vous. La maison 6 est cadente, une maison d’entretien et d’ajustement ; la [Vierge](/astrology/virgo/) est son signe naturel, la tradition l’appelait la Fortune défavorable et y plaçait la joie de Mars. En fin de maison 6, son Chiron s’approche de votre [descendant](/astrology/descendant/), et une alliance de travail peut glisser vers un lien en tête-à-tête.
+Pour elle, votre façon de travailler peut toucher quelque chose de tendre. Votre perfectionnisme, ou votre facilité à prendre une pause, lui rappelle peut-être une époque où elle ne se sentait estimée que pour son utilité, et elle répond parfois en travaillant plus dur à côté de vous. Les maisons cadentes ajustent et font tourner les choses, et celle-ci a la [Vierge](/astrology/virgo/) pour signe naturel ; son nom ancien était la Fortune défavorable, et Mars passait pour s’y réjouir. En fin de maison 6, son Chiron s’approche de votre [descendant](/astrology/descendant/), et une alliance de travail peut glisser vers un lien en tête-à-tête.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

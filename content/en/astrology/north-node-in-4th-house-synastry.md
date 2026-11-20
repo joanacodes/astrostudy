@@ -1,7 +1,7 @@
 ---
 title: "Their North Node in your 4th house"
 h1: "Their North Node in your 4th house in synastry"
-description: "Their North Node in your 4th house in synastry: your home and private life as the direction they grow in, their South Node in your 10th, from both sides."
+description: "Their North Node in your 4th house in synastry: learning to belong in your home, at ease with your career through their South Node in your 10th."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 127
 glyph: "⚷"
-definition: "Their Chiron in your 7th house puts the other person’s Chiron across the table from you, in the house of partners and one-to-one bonds that begins at your Descendant. In synastry their old hurt, and what it taught them about closeness, enters the partnership itself: they listen unusually well, and being your equal brushes a sore spot."
+definition: "Their Chiron in your 7th house places the other person’s Chiron in the house of whoever faces you: partners, close collaborators, one-to-one bonds. In synastry their old hurt, and what it taught them about closeness, enters the partnership itself: they listen unusually well, and being your equal brushes a sore spot."
 facts:
   - { k: "Their body", v: "Their Chiron ⚷" }
   - { k: "Your house", v: "The 7th house: partners and one-to-one bonds" }
@@ -16,7 +16,7 @@ facts:
   - { k: "Needs", v: "Your birth time, to place your Descendant; their date fixes their Chiron" }
 related: ["/astrology/chiron", "/astrology/7th-house", "/astrology/house-overlays", "/astrology/descendant", "/astrology/chiron-in-7th-house"]
 faq:
-  - q: "Will someone whose Chiron is in my 7th house hurt me in a relationship?"
+  - q: "Is a partner whose Chiron falls in my 7th house going to hurt me?"
     a: "Not because of the overlay. Their Chiron describes an old hurt they already carry and what it taught them; in your 7th, it shows that one-to-one bonds are where it comes into play between you. That often makes them a careful, attentive partner or collaborator. How anyone treats anyone is a matter of choices, not of a chart."
   - q: "Why do I feel so heard by someone whose Chiron falls in my 7th house?"
     a: "People who have had to adapt in their own close bonds often learn to listen unusually well, one to one. With their Chiron in the house of the person facing you, that skill is aimed straight at you. Enjoy it, and make sure the listening runs both ways."
@@ -34,7 +34,7 @@ When a bond is one to one, partners, business associates, the friend you mostly 
 
 For you, they can be an uncommonly good partner to talk to. They tend to listen one to one with real attention, notice the pattern you keep repeating with people, and stay with it without trying to fix you. With them, it may be easier to say what you need in a relationship, because they seem to know what it costs to ask.
 
-For them, being your equal can be the tender part. Being chosen, signing an agreement, sitting opposite you at a negotiating table may recall the place where they once had to adapt, and they may brace for an old story to repeat itself, even while they enjoy that it doesn't. The 7th is angular, so what lands here shows, in the people you choose and the ones you clash with; [Libra](/astrology/libra/), its natural sign, weighs both sides. A Chiron of theirs right on your [Descendant](/astrology/descendant/), the degree that was setting in the west when you were born, makes the contact louder still: I read it as a conjunction to that angle as well as an overlay.
+For them, being your equal can be the tender part. Being chosen, signing an agreement, sitting opposite you at a negotiating table may recall the place where they once had to adapt, and they may brace for an old story to repeat itself, even while they enjoy that it doesn't. Angular, the 7th puts its contents on display in whoever you choose and whoever you argue with; [Libra](/astrology/libra/), its natural sign, keeps weighing both sides. A Chiron of theirs right on your [Descendant](/astrology/descendant/), the degree that was setting in the west when you were born, makes the contact louder still: I read it as a conjunction to that angle as well as an overlay.
 
 ## Where it rubs {#where-it-rubs}
 

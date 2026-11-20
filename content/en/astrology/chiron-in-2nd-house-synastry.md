@@ -35,7 +35,7 @@ What you own, what you charge and what you think you deserve: that's the ground 
 
 With them, you may finally name a price. They tend to see the talent you give away for nothing, the rate you never raised, the purchase you keep apologising for. Someone who has had to work around a sore spot knows what a skill built the long way is worth, and they tend to say so, without fuss, when you price yours too low.
 
-For them, your relationship with having can be moving, or tender. Your ease with comfort, or your careful thrift, may brush whatever they have had to work around, and money can carry more of their old feelings than they show; often they turn generous towards you in very practical ways. The 2nd is succedent, a house where things settle and accumulate, and [Taurus](/astrology/taurus/), its natural sign, likes what is solid and lasts.
+For them, your relationship with having can be moving, or tender. Your ease with comfort, or your careful thrift, may brush whatever they have had to work around, and money can carry more of their old feelings than they show; often they turn generous towards you in very practical ways. In the 2nd, a succedent house, what the 1st set moving comes to rest and is kept; [Taurus](/astrology/taurus/), its natural sign, values what is solid and lasts.
 
 ## Where it rubs {#where-it-rubs}
 

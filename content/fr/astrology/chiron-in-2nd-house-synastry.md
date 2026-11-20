@@ -36,7 +36,7 @@ Ce que vous possédez, ce que vous facturez, ce que vous pensez mériter : voil
 
 Avec cette personne, vous osez peut-être enfin annoncer un prix. Elle repère le talent que vous donnez pour rien, le tarif jamais augmenté, l’achat dont vous vous excusez encore. Ayant dû contourner un point sensible, elle sait ce que vaut une compétence bâtie par le long chemin, et vous le dit, sans en faire une affaire, quand vous fixez votre prix trop bas.
 
-Pour elle, votre rapport à l’avoir peut émouvoir, ou toucher un point tendre. Votre aisance avec le confort, ou votre économie soigneuse, effleure peut-être ce qu’elle a dû contourner, et l’argent porte chez elle plus de vieux sentiments qu’elle n’en montre ; souvent, elle se montre généreuse envers vous de façon très concrète. La maison 2 est succédente, une maison où les choses se posent et s’accumulent, et le [Taureau](/astrology/taurus/), son signe naturel, aime ce qui est solide et dure.
+Pour elle, votre rapport à l’avoir peut émouvoir, ou toucher un point tendre. Votre aisance avec le confort, ou votre économie soigneuse, effleure peut-être ce qu’elle a dû contourner, et l’argent porte chez elle plus de vieux sentiments qu’elle n’en montre ; souvent, elle se montre généreuse envers vous de façon très concrète. Dans la maison 2, succédente, ce que la maison 1 a mis en mouvement se pose et se garde ; le [Taureau](/astrology/taurus/), son signe naturel, tient à ce qui est solide et dure.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

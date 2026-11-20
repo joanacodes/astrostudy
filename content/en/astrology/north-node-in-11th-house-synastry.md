@@ -1,7 +1,7 @@
 ---
 title: "Their North Node in your 11th house"
 h1: "Their North Node in your 11th house in synastry"
-description: "Their North Node in your 11th house in synastry: your friends, groups and hopes as the direction they grow in, their South Node in your 5th, from both sides."
+description: "Their North Node in your 11th house in synastry: belonging in your circle as their stretch, one-to-one fun as their South Node’s habit, from both sides."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

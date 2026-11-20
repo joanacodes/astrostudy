@@ -16,8 +16,8 @@ facts:
   - { k: "Needs", v: "Your birth time; their birth date pins down their Chiron" }
 related: ["/astrology/chiron", "/astrology/8th-house", "/astrology/house-overlays", "/astrology/can-astrology-predict-death", "/astrology/scorpio"]
 faq:
-  - q: "Does their Chiron in my 8th house mean loss or danger?"
-    a: "No. Tradition gave the 8th death and inheritance, but no chart foretells either, and I never read one for that. Their Chiron here describes an old hurt and its hard-won steadiness meeting your intimacy, trust and shared matters. It often brings someone who can stay with you through difficult conversations."
+  - q: "Is there anything to fear from their Chiron in my 8th house?"
+    a: "No. The old link between the 8th and death or inheritance doesn’t turn an overlay into a forecast: no chart foretells either, and I never read one for that. Their Chiron here describes an old hurt and its hard-won steadiness meeting your intimacy, trust and shared matters. It often brings someone who can stay with you through difficult conversations."
   - q: "Why can I tell someone with Chiron in my 8th house things I’ve never said?"
     a: "People who have had to adapt around a sore spot of their own often stay calm in front of other people’s hard truths. In your house of intimacy and trust, that calm can feel like permission. Share at your own pace; depth doesn’t need to arrive all at once."
   - q: "Why does closeness make me guarded when my Chiron is in their 8th house?"
@@ -35,7 +35,7 @@ Some bonds reach the place where people keep what they've never said. With their
 
 With them, you may say what you've never said. They tend not to flinch at hard truths, and they can stay beside you in a difficult conversation without hurrying it to a tidy end. When shared matters get complicated, a joint account, a loan, a promise, they may be the one who insists, gently, on everything being out in the open, because they know what secrecy costs.
 
-For them, closeness with you is where their guard can rise. Your openness, or simply the depth of what the two of you share, may press on the place where they once had to adapt, and they can want intimacy and brace against it in the same breath. The 8th is succedent, holding what a bond creates; [Scorpio](/astrology/scorpio/), its natural sign, has two rulers, Pluto in modern tropical astrology and Mars in tradition, and I read both.
+For them, closeness with you is where their guard can rise. Your openness, or simply the depth of what the two of you share, may press on the place where they once had to adapt, and they can want intimacy and brace against it in the same breath. Succedent houses keep what the angles start, and this one keeps whatever two people build together; [Scorpio](/astrology/scorpio/), its natural sign, has two rulers, Pluto in modern tropical astrology and Mars in tradition, and I read both.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -43,7 +43,7 @@ Trust can become a test. They may hold something back long after you've opened u
 
 From their side, being known this well is both what they want and what they fear. They may help you through your hardest moments while keeping their own out of sight, and confuse being useful in a crisis with being close.
 
-Tradition gave the 8th death and inheritance. I read neither in any chart, alone or in a pair ([can astrology predict death?](/astrology/can-astrology-predict-death/)): this overlay describes trust, depth and what two people hold in common.
+The old books filed death and inheritance under this house too. I read neither in any chart, alone or in a pair ([can astrology predict death?](/astrology/can-astrology-predict-death/)): this overlay describes trust, depth and what two people hold in common.
 
 ## How to meet it {#how-to-meet-it}
 

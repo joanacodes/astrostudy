@@ -1,7 +1,7 @@
 ---
 title: "Their North Node in your 3rd house"
 h1: "Their North Node in your 3rd house in synastry"
-description: "Their North Node in your 3rd house in synastry: your everyday talk and near world as the direction they grow in, their South Node in your 9th, both ways."
+description: "Their North Node in your 3rd house in synastry: their practice in asking and listening in your near world, their South Node in your 9th, and both sides."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

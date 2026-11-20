@@ -1,7 +1,7 @@
 ---
 title: "Their North Node in your 2nd house"
 h1: "Their North Node in your 2nd house in synastry"
-description: "Their North Node in your 2nd house in synastry: your values and resources as the direction they grow in, their South Node in your 8th, felt from both sides."
+description: "Their North Node in your 2nd house in synastry: what they learn from how you value and keep your own, their South Node in your 8th, and no money forecast."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
