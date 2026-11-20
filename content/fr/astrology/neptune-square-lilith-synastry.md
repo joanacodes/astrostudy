@@ -22,7 +22,7 @@ faq:
     a: "Les deux points, un dans chaque thème, se croisent à environ 90°. La première voit souvent la seconde à travers un filtre plus doux et plus bienveillant que celle-ci ne s’y reconnaît, et la seconde résiste à être adoucie. La friction porte sur la justesse du regard, et s’apaise souvent une fois dite."
   - q: "Est-ce que Neptune carré Lilith est mauvais signe entre deux personnes ?"
     a: "Non. Un carré décrit une friction, et c’est par la friction que deux personnes apprennent la forme réelle l’une de l’autre. Celui-ci oppose une manière douce et pleine d’espoir de voir à un refus net d’être embellie. Il n’annonce rien de l’issue d’une relation : il décrit de quoi parler."
-  - q: "L’heure de naissance compte-t-elle pour Neptune carré Lilith en synastrie ?"
+  - q: "Est-ce que l’heure de naissance compte pour Neptune carré Lilith en synastrie ?"
     a: "Pas pour le carré lui-même : Neptune et la Lilith moyenne avancent si lentement que deux personnes nées les mêmes jours l’ont quelle que soit l’heure. Les maisons où il tombe, qui me disent où la friction se ressent dans chaque vie, demandent les deux heures de naissance."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, 90°, l’un de ses quatre aspects" }
@@ -32,7 +32,7 @@ L’une décrit sans cesse l’autre comme plus douce qu’elle ne l’est ; l
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Neptune](/astrology/neptune/) voit le meilleur des gens, parfois avant qu’il soit là : la compassion, l’idéal, un don pour le sens et l’atmosphère. La [Lune noire Lilith](/astrology/black-moon-lilith/) est un point que les astrologues placent au plus loin de l’orbite lunaire et lisent, chaque école à sa façon, comme l’instinct qui refuse d’être domestiqué et la limite qu’on garde quoi qu’il arrive ; je la tiens pour un symbole. Un [carré](/astrology/square/) est une friction constructive : les deux fonctions s’accrochent sans cesse, et chacune s’en développe. Dans les [aspects de synastrie](/astrology/synastry-aspects/) comme celui-ci, chaque personne porte un côté de l’accroc.
+[Neptune](/astrology/neptune/) voit le meilleur des gens, parfois avant que ce meilleur soit là : la compassion, l’idéal, un don pour le sens et l’atmosphère. La [Lune noire Lilith](/astrology/black-moon-lilith/) est un point que les astrologues placent au plus loin de l’orbite lunaire et lisent, chaque école à sa façon, comme l’instinct qui refuse d’être domestiqué et la limite qu’on garde quoi qu’il arrive ; je la tiens pour un symbole. Un [carré](/astrology/square/) est une friction constructive : les deux fonctions s’accrochent sans cesse, et chacune s’en développe. Dans les [aspects de synastrie](/astrology/synastry-aspects/) comme celui-ci, chaque personne porte un côté de l’accroc.
 
 La friction a un fruit : la netteté. La personne de Neptune, assez souvent repoussée, apprend à regarder celle qui est dans la pièce plutôt que celle qu’elle avait imaginée. Celle de Lilith apprend qu’être accueillie avec douceur n’est pas être domptée. Une paire qui traverse ce carré finit par avoir quelque chose de rare : une affection qui a vu les angles, et qui est restée.
 

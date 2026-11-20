@@ -30,7 +30,7 @@ When Jupiter moves on from your 1st house into your 2nd, its growth turns from w
 
 ## What changes {#what-changes}
 
-[Jupiter](/astrology/jupiter/) widens understanding and looks for meaning. The [2nd house](/astrology/2nd-house/) holds resources, values and self-worth: what you earn and keep, the talents you could live from, the things you'd protect if you had to choose. With Jupiter crossing it, I read a year when your sense of your own worth tends to stretch. A skill you'd taken for granted can start to look like something to build on, and values you'd only half said out loud get clearer, until you want your time, your work and your spending to agree with them.
+[Jupiter](/astrology/jupiter/) widens understanding and looks for meaning. The [2nd house](/astrology/2nd-house/) holds resources, values and self-worth: what you earn and keep, the talents you could live from, the things you'd protect if you had to choose. As Jupiter crosses it, your sense of your own worth tends to stretch. A skill you'd taken for granted can start to look like something to build on, and values you'd only half said out loud get clearer, until you want your time, your work and your spending to agree with them.
 
 Whatever planets sit in your 2nd from birth, Jupiter widens each one's way of valuing for a few weeks as it passes: with your Moon there, what makes you feel secure; with your Mars there, what you're willing to work for.
 

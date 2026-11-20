@@ -2,13 +2,13 @@
 title: "Pluton sextile Lilith en synastrie"
 slug: "pluton-sextile-lilith-synastrie"
 h1: "Pluton sextile Lilith entre deux thèmes"
-description: "Pluton sextile Lilith en synastrie : la profondeur de l’une invite l’autre à baisser la garde, et l’invitation ne vaut que si on la prend. Qui l’a."
+description: "Pluton sextile Lilith en synastrie : la profondeur de l’une invite l’autre à relâcher sa vigilance, une offre qui ne vaut que si on la prend. Qui l’a."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 367
 glyph: "♇⚹⚸"
-definition: "Avec Pluton sextile Lilith en synastrie, un angle de 60°, à 2,4° près, unit Pluton d’un premier thème à la Lune noire Lilith moyenne d’un second. La profondeur de l’une invite la part indomptée de l’autre à sortir de sa cachette. J’y lis une invitation à baisser la garde, qui ne marche que si les deux l’acceptent."
+definition: "Avec Pluton sextile Lilith en synastrie, Pluton se trouve, dans un premier thème, à 60° environ de la Lune noire Lilith moyenne d’un second, à 2,4° près. La profondeur de l’une invite la part indomptée de l’autre à sortir de sa cachette. J’y lis une invitation à se dévoiler, qui ne marche que si les deux l’acceptent."
 facts:
   - { k: "Corps", v: "Pluton ♇ de l’une, la Lune noire Lilith ⚸ de l’autre" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/pluto", "/astrology/black-moon-lilith", "/astrology/sextile", "/astrology/pluto-sextile-lilith", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Pluton sextile Lilith en synastrie ?"
-    a: "Il y a environ 60° entre Pluton d’un côté et la Lune noire Lilith de l’autre. La personne de Pluton offre souvent à l’autre une manière sûre de cesser de cacher ce qu’on avait jugé de trop, et d’en faire une force. Cela reste une offre : le sextile ne fait rien tant que les deux ne s’en saisissent pas."
+    a: "Les deux points se tiennent à environ 60° : Pluton dans un thème, la Lune noire Lilith dans l’autre. La personne de Pluton offre souvent à l’autre une manière sûre de cesser de cacher ce qu’on avait jugé de trop, et d’en faire une force. Cela reste une offre : le sextile ne fait rien tant que les deux ne s’en saisissent pas."
   - q: "Est-ce que Pluton sextile Lilith ne concerne que l’amour ?"
     a: "Non. Ce contact peut apparaître entre amis, collègues, frères et sœurs ou dans un couple, et il ne dit rien du cours d’une relation ni de son intimité. Il décrit une profondeur qui ouvre un espace à la part indomptée de l’autre, ce qui compte dans toute paire qui doit se faire confiance."
   - q: "Pourquoi les fenêtres de Pluton sextile Lilith sont-elles si courtes ?"
@@ -28,11 +28,11 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, 60°, parmi les aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance où Pluton, chez l’une, est à moins de 2,4° d’un sextile avec la Lilith moyenne de l’autre" }
 ---
-Certaines personnes rendent sûr le fait de ne plus se cacher, non en insistant, mais en laissant la porte ouverte. Dans Pluton sextile Lilith, contact de synastrie, soixante degrés séparent Pluton, chez l’une, de la Lune noire Lilith de l’autre, et cette porte ouverte est tout le contact : une invitation à baisser la garde, qui ne vaut que si on la prend.
+Certaines personnes rendent sûr le fait de ne plus se cacher, non en insistant, mais en laissant la porte ouverte. Dans Pluton sextile Lilith, contact de synastrie, soixante degrés vont de Pluton dans le thème de l’une jusqu’à la Lune noire Lilith que porte l’autre, et cette porte ouverte est tout le contact : une invitation à moins se garder, qui ne vaut que si on la prend.
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Pluton](/astrology/pluto/), c’est l’élan de transformer : se défaire de ce qui ne sert plus et faire pousser, avec ce qui reste, une capacité d’agir plus authentique. La [Lune noire Lilith](/astrology/black-moon-lilith/) est un point symbolique, l’endroit moyen où la Lune s’éloigne le plus de la Terre, que les astrologues relient, chacun avec ses accents, à l’instinct, à l’autonomie, aux limites personnelles et à ce qui s’est vu refuser une place. Un [sextile](/astrology/sextile/) les relie par l’occasion : chacune peut éveiller l’autre, si quelqu’un s’engage. Parmi les [aspects de synastrie](/astrology/synastry-aspects/), c’est l’une des façons les plus douces dont ces deux-là se rencontrent.
+[Pluton](/astrology/pluto/), c’est l’élan de transformer : se défaire de ce qui ne sert plus et faire pousser, avec ce qui reste, une capacité d’agir plus authentique. La [Lune noire Lilith](/astrology/black-moon-lilith/) est un point symbolique, l’apogée moyen de l’orbite lunaire, que les astrologues relient, chacun avec ses accents, à l’instinct, à l’autonomie, aux limites personnelles et à ce qui s’est vu refuser une place. Un [sextile](/astrology/sextile/) leur ouvre une occasion : chacune peut éveiller l’autre, si quelqu’un s’engage. Parmi les [aspects de synastrie](/astrology/synastry-aspects/), c’est l’une des façons les plus douces dont ces deux-là se rencontrent.
 
 Du côté de la Lilith, cette personne rend possible de baisser la garde. Ce qu’on vous a appris à cacher, une colère, une faim, un refus de rentrer dans le rang, commence à ressembler à un matériau pour bâtir plutôt qu’à un handicap à dissimuler. Personne ne pousse ; la porte est simplement ouverte.
 
@@ -57,4 +57,4 @@ Voyons le cas d’une naissance du milieu de 1965, avec Pluton en Vierge : le s
 
 Les deux points se déplacent à peine : l’heure de naissance ne décide pas du sextile, mais les maisons demandent quand même les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Ces mois suivent la Lilith moyenne, et avec un orbe aussi serré, la Lilith vraie donne souvent une autre réponse ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)).
 
-Dans un seul thème, [Pluton sextile Lilith](/astrology/pluto-sextile-lilith/) laisse entrouverte la porte d’une personne. Quand la porte appartient à l’une et la main tendue à l’autre, je ne le lis qu’avec les deux ([synastrie et consentement](/blog/synastry-behind-their-back/)).
+Dans un seul thème, [Pluton sextile Lilith](/astrology/pluto-sextile-lilith/) laisse entrouverte la porte d’une personne. Quand la porte appartient à l’une et la main tendue à l’autre, c’est ensemble qu’elles décident si je le lis ([synastrie et consentement](/blog/synastry-behind-their-back/)).

@@ -30,7 +30,7 @@ The 8th house is where a bond gets serious, and Jupiter's year there widens what
 
 ## What changes {#what-changes}
 
-[Jupiter](/astrology/jupiter/) widens and makes sense of things; the [8th house](/astrology/8th-house/) is what happens after you let someone in: shared resources, intimacy, trust, what you owe and are owed, and the changes that closeness brings. With Jupiter crossing it, I read a year when trust can grow where it's earned, when sharing feels more generous in both directions, and when you're more willing to look at what lies underneath a bond, including the parts you usually leave alone.
+[Jupiter](/astrology/jupiter/) widens and makes sense of things; the [8th house](/astrology/8th-house/) is what happens after you let someone in: shared resources, intimacy, trust, what you owe and are owed, and the changes that closeness brings. In Jupiter's year there, trust can grow where it's earned, sharing can feel more generous in both directions, and you may be more willing to look at what lies underneath a bond, including the parts you usually leave alone.
 
 It's also a house of transitions, and Jupiter's way of meeting change is to look for what it means. Where something in your shared life is shifting, the year tends to help you understand it rather than only endure it.
 

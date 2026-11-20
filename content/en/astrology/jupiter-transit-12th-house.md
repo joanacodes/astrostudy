@@ -30,7 +30,7 @@ In the year or so before Jupiter reaches your Ascendant, it crosses your 12th ho
 
 ## What changes {#what-changes}
 
-[Jupiter](/astrology/jupiter/) widens understanding and gathers experience into meaning; the [12th house](/astrology/12th-house/) is the inner life: solitude and rest, retreat and reflection, compassion, what you let go of and what you carry without saying. With Jupiter crossing it, I read a year when meaning comes quietly: in time alone, in care given or received without fuss, in study or practice done for its own sake, and in understanding something about yourself that only shows in private.
+[Jupiter](/astrology/jupiter/) widens understanding and gathers experience into meaning; the [12th house](/astrology/12th-house/) is the inner life: solitude and rest, retreat and reflection, compassion, what you let go of and what you carry without saying. Meaning, in this year, tends to come quietly: in time alone, in care given or received without fuss, in study or practice done for its own sake, and in understanding something about yourself that only shows in private.
 
 The 12th has a family tie to Jupiter. In the natural order it belongs to Pisces, and Pisces has two rulers, Neptune, the modern one, and Jupiter, the traditional one; I read both, and with Jupiter here, the older ruler is crossing the house of its own old sign.
 

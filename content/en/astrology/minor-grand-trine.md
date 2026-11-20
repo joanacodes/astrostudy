@@ -1,7 +1,7 @@
 ---
 title: "Minor grand trine"
 h1: "The minor grand trine in astrology"
-description: "The minor grand trine in astrology: two planets in trine with a third sextile both, how common it is, why the middle planet matters, and what the birth time adds."
+description: "The minor grand trine in astrology: two planets in trine with a third sextile both, how common it is, why the middle planet matters, and what the time adds."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"

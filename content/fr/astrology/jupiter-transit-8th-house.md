@@ -31,7 +31,7 @@ La maison 8 est l’endroit où un lien devient sérieux, et l’année de Jupit
 
 ## Ce qui change {#ce-qui-change}
 
-[Jupiter](/astrology/jupiter/) élargit les choses et leur donne un sens ; la [maison 8](/astrology/8th-house/), c’est ce qui se passe une fois que vous avez laissé quelqu’un entrer : les ressources partagées, l’intimité, la confiance, ce que vous devez et ce qu’on vous doit, et les changements que la proximité amène. Pendant que Jupiter la traverse, je lis une année où la confiance peut grandir là où elle se mérite, où le partage semble plus généreux dans les deux sens, et où vous acceptez davantage de regarder ce qu’il y a sous un lien, y compris ce que vous laissez d’habitude de côté.
+[Jupiter](/astrology/jupiter/) élargit les choses et leur donne un sens ; la [maison 8](/astrology/8th-house/), c’est ce qui se passe une fois que vous avez laissé quelqu’un entrer : les ressources partagées, l’intimité, la confiance, ce que vous devez et ce qu’on vous doit, et les changements que la proximité amène. Dans l’année de Jupiter à cet endroit, la confiance peut grandir là où elle se mérite, le partage peut sembler plus généreux dans les deux sens, et vous accepterez peut-être davantage de regarder ce qu’il y a sous un lien, y compris ce que vous laissez d’habitude de côté.
 
 C’est aussi une maison de passages, et la façon dont Jupiter aborde le changement consiste à chercher ce qu’il veut dire. Là où quelque chose bouge dans votre vie partagée, l’année aide souvent à le comprendre plutôt qu’à seulement le subir.
 

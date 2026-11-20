@@ -20,13 +20,13 @@ faq:
     a: "Because their Saturn, the part of them concerned with commitment and time, lands in your house of partners. The bond tends to feel like a real arrangement early on: reliable, slow to warm, built to last. It describes how commitment feels between you, never whether you will marry or stay together."
   - q: "Does Saturn in the 7th house synastry mean marriage?"
     a: "No. Tradition gave the 7th marriage and contracts, and Saturn there does describe a serious, committed feel, but no chart says whether or when two people marry. Friends, colleagues and business partners feel the same seriousness. What happens between you depends on both whole charts and on your own choices."
-  - q: "What does the Saturn person feel when their Saturn is in my 7th house?"
-    a: "Often a sense of responsibility towards the partnership, and a wish to get it right. They may hold back until they are sure, then stay. Your hesitations can worry them more than they show, so it helps to say plainly what you want and on what timetable."
+  - q: "Why does someone whose Saturn falls in my 7th house take so long to commit?"
+    a: "Often they feel responsible for the partnership and want to get it right, so they hold back until they are sure, then stay. Your hesitations can worry them more than they show. Saying plainly what you want, and on what timetable, helps them relax and saves you waiting in the dark."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Saturn’s exaltation in Libra" }
 ---
-When someone's Saturn falls in your 7th house, the relationship tends to feel like a real arrangement early on, whatever kind it is. Promises are kept, or noticed when they aren't, and the word *we* starts to carry weight, sometimes sooner than either of you planned.
+Whatever kind of relationship it is, a person whose Saturn falls in your 7th house tends to make it feel like a real arrangement early on. Promises are kept, or noticed when they aren't, and the word *we* starts to carry weight, sometimes sooner than either of you planned.
 
 ## What it brings {#what-it-brings}
 
@@ -52,4 +52,4 @@ Their Saturn also touches your other planets, and where it meets your Venus or y
 
 Turned the other way, the picture shows your Saturn in their 7th house: you become the partner who asks for time, and the one whose caution needs explaining. [Their Saturn in your 6th house](/astrology/saturn-in-6th-house-synastry/) is about the working day; [their Saturn in your 8th house](/astrology/saturn-in-8th-house-synastry/), about trust and what you share.
 
-Your Descendant, the cusp of the 7th, is fixed by your birth time to the minute, so in Placidus, the house system I use, a few minutes decide whether their Saturn sits just inside your 7th or still in your 6th. Their date fixes Saturn's degree; their time I ask for anyway, as for any synastry ([what changes without a birth time](/blog/unknown-birth-time/)). Born close together, you may have both Saturns in one sign, and your own in your 7th as well ([Saturn in the 7th house](/astrology/saturn-in-7th-house/)); fourteen or fifteen years apart, half of Saturn's cycle, the two tend to face each other from opposite signs instead. Synastry usually starts with this house, and reading it supposes that both people wanted it read ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Your Descendant, the cusp of the 7th, is fixed by your birth time to the minute, so in Placidus, the house system I use, a few minutes decide whether their Saturn sits just inside your 7th or still in your 6th. Their date fixes Saturn's degree; their time I ask for anyway, as for any synastry ([what changes without a birth time](/blog/unknown-birth-time/)). Between people born close together, both Saturns may share a sign, with your own in your 7th as well ([Saturn in the 7th house](/astrology/saturn-in-7th-house/)); fourteen or fifteen years apart, half of Saturn's cycle, the two tend to face each other from opposite signs instead. Synastry usually starts with this house, and reading it supposes that both people wanted it read ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

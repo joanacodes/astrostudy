@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 368
 glyph: "♇□⚸"
-definition: "Pluton carré Lilith en synastrie, c’est l’angle droit, à 3,4° près, que forment Pluton chez une personne et la Lune noire Lilith moyenne chez une autre. L’élan de transformation de l’une appuie sans cesse sur le refus de l’autre d’être dirigée, et chacune peut se sentir poussée. J’y lis une friction qui apprend à distinguer changer et contrôler."
+definition: "Pluton carré Lilith en synastrie : la Lune noire Lilith moyenne d’une personne et Pluton dans le thème d’une autre font un angle droit, à 3,4° près. L’élan de transformation de l’une appuie sans cesse sur le refus de l’autre d’être dirigée, et chacune peut se sentir poussée. J’y lis une friction qui apprend à distinguer changer et contrôler."
 facts:
   - { k: "Corps", v: "Pluton ♇ de l’une, la Lune noire Lilith ⚸ de l’autre" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -21,9 +21,9 @@ faq:
   - q: "Que veut dire Pluton carré Lilith en synastrie ?"
     a: "Entre Pluton d’un côté et la Lune noire Lilith de l’autre, l’angle est droit. L’envie de la personne de Pluton de changer les choses en profondeur accroche souvent la part de l’autre qui refuse d’être dirigée, et chacune peut sentir l’autre pousser. Cela s’apaise quand aucune ne traite l’autre comme un projet."
   - q: "Est-ce que Pluton carré Lilith veut dire une lutte de pouvoir ?"
-    a: "On peut le vivre ainsi, mais personne n’a à gagner : un carré est une friction, pas un échec. Le frottement court entre transformer et refuser, deux instincts sains. Les paires qui cessent de vouloir se changer l’une l’autre voient souvent la friction tourner au respect, parfois à une alliance de travail."
+    a: "On peut le vivre ainsi, mais personne n’a à gagner : cette friction n’a rien d’un échec. Le frottement court entre transformer et refuser, deux instincts sains. Les paires qui cessent de vouloir se changer l’une l’autre voient souvent la friction tourner au respect, parfois à une alliance de travail."
   - q: "Qui a Pluton carré Lilith avec qui ?"
-    a: "Cela suit les dates de naissance. Soit une naissance du milieu de 1995 : les personnes nées d’août à octobre 1992 ou de février à avril 1997 le partagent et, dans l’autre sens, toutes celles nées de juillet 1966 à octobre 1968. Toutes les naissances de ces mois le partagent."
+    a: "Cela suit les dates de naissance. Soit une naissance du milieu de 1995 : les personnes nées d’août à octobre 1992 ou de février à avril 1997 le partagent et, dans l’autre sens, toutes celles nées de juillet 1966 à octobre 1968. Chaque fenêtre couvre des mois entiers de naissances."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, 90°, parmi les quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui mettent Pluton, chez l’une, en carré avec la Lilith moyenne de l’autre, à 3,4° près" }
@@ -33,7 +33,7 @@ Certaines paires s’attirent justement là où elles se heurtent. Dans Pluton c
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Pluton](/astrology/pluto/) cherche la vérité sous la surface et le pouvoir de réorganiser ce qui ne marche plus ; au mieux, cela donne de la force, et l’angle mort est de prendre le contrôle pour de la sécurité. La [Lune noire Lilith](/astrology/black-moon-lilith/), point calculé à l’apogée moyen de la Lune, se lit, d’une école à l’autre, comme l’instinct, l’autonomie, les limites et les parts d’une personne qu’on n’a jamais laissées entrer ; je la lis comme un symbole. Un [carré](/astrology/square/) les joint par une friction constructive, et comme tous les [aspects de synastrie](/astrology/synastry-aspects/), il met chaque fonction entre les mains d’une personne différente.
+[Pluton](/astrology/pluto/) cherche la vérité sous la surface et le pouvoir de réorganiser ce qui ne marche plus ; au mieux, cela donne de la force, et l’angle mort est de prendre le contrôle pour de la sécurité. La [Lune noire Lilith](/astrology/black-moon-lilith/), qui n’est pas un corps mais un point, l’apogée moyen de la Lune, se lit, d’une école à l’autre, comme l’instinct, l’autonomie, les limites et les parts d’une personne qu’on n’a jamais laissées entrer ; je la lis comme un symbole. Un [carré](/astrology/square/) les joint par une friction constructive, et comme tous les [aspects de synastrie](/astrology/synastry-aspects/), il met chaque fonction entre les mains d’une personne différente.
 
 De la friction sort une distinction dont les deux ont besoin. La personne de Pluton apprend, souvent à ses dépens, qu’aider quelqu’un à changer et le diriger ne sont pas la même chose. Celle de Lilith apprend à se servir de son tranchant exprès, et pas seulement pour se défendre. Les paires qui y arrivent peuvent être redoutables ensemble : l’une voit ce qui doit changer, l’autre sait ce qu’il ne faut pas céder.
 
@@ -43,7 +43,7 @@ Côté Lilith, on dirait que cette personne tient à vous réformer : réorient
 
 Si Pluton est de votre côté, le refus de l’autre d’être dirigée vous agace et vous fascine à parts égales. Vous voyez ce qui pourrait se transformer chez elle, vous proposez, et vous butez sur un mur. On croit alors sa profondeur rejetée, alors que seule la pression l’est.
 
-Un carré est une friction, jamais un échec : chacune défend quelque chose de réel, le changement d’un côté, l’autonomie de l’autre.
+Ce n’est pas un échec, c’est une friction : chacune défend quelque chose de réel, le changement d’un côté, l’autonomie de l’autre.
 
 Aux autres angles de la paire :
 
@@ -58,6 +58,6 @@ Pas de projets l’une sur l’autre. Si Pluton est de votre côté, repérez le
 
 Avec Pluton à la fin du Scorpion, une naissance du milieu de 1995 forme ce carré avec la Lilith des personnes nées d’août à octobre 1992, alors en Verseau, et de celles nées de février à avril 1997 ; sa propre Lilith, en Gémeaux, croise à angle droit Pluton de toutes les naissances de juillet 1966 à octobre 1968, une génération de parents. Partagé si largement, ce carré n’entre jamais dans mes décomptes de synastrie, qui s’en tiennent aux contacts avec le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel ; les maisons montrent où la poussée d’une époque rencontre le refus d’une autre.
 
-Le carré ne dépend pas de l’heure de naissance ; les maisons dépendent des deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Chaque fenêtre de cette page est calculée avec la Lilith moyenne ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)). Mon carnet a vu Lilith, comme Saturne et Chiron, tenir 75 à 90 % du temps, mais comme placement dans un seul thème ; ce carré n’a pas de score ([les trois qui ont tenu](/blog/saturn-chiron-lilith/)).
+Le carré ne dépend pas de l’heure de naissance ; il faut les deux heures pour en situer les maisons ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Chaque fenêtre de cette page est calculée avec la Lilith moyenne ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)). Mon carnet a vu Lilith, comme Saturne et Chiron, tenir 75 à 90 % du temps, mais comme placement dans un seul thème ; ce carré n’a pas de score ([les trois qui ont tenu](/blog/saturn-chiron-lilith/)).
 
 [Pluton carré Lilith](/astrology/pluto-square-lilith/), à l’intérieur d’un thème, est une personne dont l’envie de changer bute sur un instinct qui ne se laisse pas diriger. Partagé entre deux thèmes, ce carré demande les deux voix dans la pièce avant que je le lise ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

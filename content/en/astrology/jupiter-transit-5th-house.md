@@ -30,7 +30,7 @@ Jupiter's year in your 5th house makes room for whatever you do for no reason ex
 
 ## What changes {#what-changes}
 
-[Jupiter](/astrology/jupiter/) expands and generates: it opens possibilities and helps them grow into something. The [5th house](/astrology/5th-house/) is creativity, play, pleasure and romance, the part of life that doesn't have to justify itself, and Venus has its joy there. With Jupiter crossing it, I read about a year when making things, playing, flirting and performing come with more appetite. A creative project can take up more room, a hobby can turn into a craft, and you may find out what you actually enjoy, as opposed to what you're good at.
+[Jupiter](/astrology/jupiter/) expands and generates: it opens possibilities and helps them grow into something. The [5th house](/astrology/5th-house/) is creativity, play, pleasure and romance, the part of life that doesn't have to justify itself, and Venus has its joy there. While Jupiter is there, making things, playing, flirting and performing tend to come with more appetite. A creative project can take up more room, a hobby can turn into a craft, and you may find out what you actually enjoy, as opposed to what you're good at.
 
 The old books would have called it a doubly kind season, since the house is Good Fortune and Jupiter the greater [benefic](/astrology/benefics-and-malefics/). I keep the kindness and leave the promise. Joy isn't excess, and the year asks you to choose your pleasures rather than collect them.
 

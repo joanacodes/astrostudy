@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 16
 glyph: "♄"
-definition: "Saturne en transit en maison 4 décrit environ trois ans passés sous tout le reste : Saturne, en avançant dans le ciel, franchit votre Fond du Ciel puis traverse votre maison du foyer et des racines. Ce transit structure ce que votre thème contient déjà sur la famille et l’appartenance : des fondations vérifiées, des responsabilités à la maison, un foyer bâti pour durer."
+definition: "Saturne en transit en maison 4 décrit environ trois ans passés sous tout le reste : Saturne franchit votre Fond du Ciel puis traverse votre maison du foyer et des racines. Ce transit structure ce que votre thème contient déjà sur la famille et l’appartenance : des fondations vérifiées, des responsabilités à la maison, un foyer bâti pour durer."
 facts:
   - { k: "Corps", v: "Saturne ♄, la planète du temps et de la structure" }
   - { k: "Maison", v: "La maison 4 : le foyer, les racines et la famille (angulaire)" }
@@ -31,7 +31,7 @@ Les années de Saturne dans votre maison 4 sont celles que Saturne passe sous to
 
 ## Ce qui change {#ce-qui-change}
 
-[Saturne](/astrology/saturn/) construit ce qui doit durer et vérifie ce qui ne durera pas ; la [maison 4](/astrology/4th-house/), c’est le foyer, les racines, la famille et la vie privée. Pendant que Saturne la traverse, je lis une saison de réparation. Les responsabilités à la maison peuvent grandir, une façon de vivre ensemble peut demander à être repensée, et le passé, y compris les habitudes de famille, peut demander à être regardé avec des yeux d’adulte. Ce travail se voit rarement de l’extérieur, et c’est l’un des plus durables que fasse Saturne.
+[Saturne](/astrology/saturn/) construit ce qui doit durer et vérifie ce qui ne durera pas ; la [maison 4](/astrology/4th-house/), c’est le foyer, les racines, la famille et la vie privée. Le passage de Saturne en fait un temps de réparation. Les responsabilités à la maison peuvent grandir, une façon de vivre ensemble peut demander à être repensée, et le passé, y compris les habitudes de famille, peut demander à être regardé avec des yeux d’adulte. Ce travail se voit rarement de l’extérieur, et c’est l’un des plus durables que fasse Saturne.
 
 En Placidus, le système de maisons que j’utilise, le Fond du Ciel est la cuspide de la maison 4, et Saturne sur ce point se trouve aussi face à votre Milieu du Ciel ([Saturne en transit opposition Milieu du Ciel du thème natal](/astrology/transiting-saturn-opposite-natal-midheaven/)) : un temps où ce que vous bâtissez en public dépend souvent de ce que vous réparez chez vous. Le Cancer, signe naturel de la maison 4, est celui où la tradition plaçait l’exil de Saturne, la planète des règles dans la maison du sentiment. Je lis cette friction comme utile : un soin qui reçoit une structure, et un foyer bâti plutôt que seulement hérité.
 
@@ -43,7 +43,7 @@ Des traditions anciennes lisaient un parent en maison 4, sans jamais trancher le
 
 La plupart des séjours de Saturne en maison 4, dans les thèmes en Placidus dressés pour une naissance à Londres, durent entre 22 mois environ et un peu moins de 4 ans, avec un peu moins de trois ans au milieu ; pour une naissance à New York, de 23 mois environ à près de 4 ans. La maison 4 fait partie des maisons dont la taille varie le moins à ces latitudes, avec les maisons 3, 9 et 10, et ses séjours ne s’étirent pas autant que ceux des maisons 1 ou 12.
 
-Votre Fond du Ciel tient à la minute de votre naissance : un thème sans l’heure reste donc pour moi un thème que je ne lis pas ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Le séjour suit les années de Saturne dans votre maison 3, celle du monde proche ([Saturne en transit en maison 3](/astrology/saturn-transit-3rd-house/)), et laisse la place, quand Saturne quitte la maison 4, à ses années en maison 5, où le travail se tourne vers la joie ([Saturne en transit en maison 5](/astrology/saturn-transit-5th-house/)).
+Votre Fond du Ciel tient à la minute de votre naissance : un thème sans l’heure reste donc pour moi un thème que je ne lis pas ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Le séjour suit les années de Saturne dans votre maison 3, celle du monde proche ([Saturne en transit en maison 3](/astrology/saturn-transit-3rd-house/)), et laisse la place à ses années en maison 5, où le travail se tourne vers la joie ([Saturne en transit en maison 5](/astrology/saturn-transit-5th-house/)).
 
 Votre Fond du Ciel est toujours opposé à votre Milieu du Ciel : prenez-les par paires. Milieu du Ciel en Balance, Fond du Ciel en Bélier : de février 2026 à avril 2028. Milieu du Ciel en Scorpion, Fond du Ciel en Taureau : d’avril 2028 à mai 2030. Milieu du Ciel en Sagittaire, Fond du Ciel en Gémeaux : de juin 2030 à juillet 2032. Milieu du Ciel en Capricorne, Fond du Ciel en Cancer, le signe de la maison 4 : de juillet 2032 à mai 2035. Milieu du Ciel en Verseau, Fond du Ciel en Lion : d’août 2034 à juillet 2037. Milieu du Ciel en Poissons, Fond du Ciel en Vierge : d’octobre 2036 à septembre 2039. Milieu du Ciel en Bélier, Fond du Ciel en Balance : à partir de septembre 2039. Un Fond du Ciel en Poissons a été franchi entre mars 2023 et février 2026, et du Scorpion au Verseau, ce sera après 2039.
 

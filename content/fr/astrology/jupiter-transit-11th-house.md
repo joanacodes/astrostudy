@@ -22,7 +22,7 @@ faq:
   - q: "Que fait le transit en maison 11 aux amitiés ?"
     a: "Ce passage élargit souvent votre cercle et approfondit les amitiés qui partagent vos espoirs : de nouveaux groupes, de vieilles amitiés retrouvées, une aide offerte sans qu’on la demande. Il ne décide pas qui reste ou qui part, et la popularité n’est pas le sujet : la maison 11 parle d’appartenance, pas de chiffres."
   - q: "Est-ce que le séjour de Jupiter en maison 11 dure plus d’un an ?"
-    a: "Un peu, en règle générale : un peu plus d’un an au milieu. Les thèmes dressés en Placidus pour Londres placent la plupart des séjours en maison 11 entre 11 et 22 mois environ, et pour New York le bout long descend vers 20 mois. Vos dates tiennent à la cuspide que donne votre heure de naissance."
+    a: "Légèrement : un peu plus d’un an au milieu. Les thèmes dressés en Placidus pour Londres placent la plupart des séjours en maison 11 entre 11 et 22 mois environ, et pour New York le bout long descend vers 20 mois. Vos dates tiennent à la cuspide que donne votre heure de naissance."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée des séjours de Jupiter dans une maison, en Placidus à Londres et à New York, et ses signes à partir de 2026" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
@@ -31,7 +31,7 @@ La tradition donnait à Jupiter sa joie en maison 11, le Génie favorable, et l�
 
 ## Ce qui change {#ce-qui-change}
 
-[Jupiter](/astrology/jupiter/) élargit, relie et donne un avenir aux choses ; la [maison 11](/astrology/11th-house/), c’est la communauté, l’amitié, les réseaux et les buts que vous poursuivez avec d’autres. Les vieux livres disaient que Jupiter s’y réjouit ([joies des planètes](/astrology/planetary-joys/)), et je comprends pourquoi : la planète qui cherche du sens et la maison des espoirs partagés veulent la même chose. Pendant que Jupiter la traverse, je lis une année où votre cercle peut s’élargir, où un groupe peut commencer à vous ressembler, et où l’avenir que vous aimeriez construire devient plus net, souvent parce que vous en parlez avec les bonnes personnes.
+[Jupiter](/astrology/jupiter/) élargit, relie et donne un avenir aux choses ; la [maison 11](/astrology/11th-house/), c’est la communauté, l’amitié, les réseaux et les buts que vous poursuivez avec d’autres. Les vieux livres disaient que Jupiter s’y réjouit ([joies des planètes](/astrology/planetary-joys/)), et je comprends pourquoi : la planète qui cherche du sens et la maison des espoirs partagés veulent la même chose. Tout au long de l’année de Jupiter à cet endroit, votre cercle peut s’élargir, un groupe peut commencer à vous ressembler, et l’avenir que vous aimeriez construire devient plus net, souvent parce que vous en parlez avec les bonnes personnes.
 
 Appartenir n’est pas être populaire, pourtant, et la maison 11 n’est pas un concours de chiffres. La croissance consiste ici à trouver les personnes qui tiennent à ce qui compte pour vous, et à les laisser vous aider comme vous les aidez.
 

@@ -31,7 +31,7 @@ Quand Jupiter quitte votre maison 1 pour votre maison 2, la croissance se détou
 
 ## Ce qui change {#ce-qui-change}
 
-[Jupiter](/astrology/jupiter/) élargit la compréhension et cherche du sens. La [maison 2](/astrology/2nd-house/) réunit les ressources, les valeurs et l’estime de soi : ce que vous gagnez et gardez, les talents dont vous pourriez vivre, ce que vous protégeriez s’il fallait choisir. Pendant ce passage, je lis une année où le sentiment de votre valeur tend à s’étirer. Un savoir-faire que vous teniez pour acquis peut commencer à ressembler à une base sur laquelle bâtir, et des valeurs à moitié formulées deviennent plus nettes, jusqu’à ce que vous vouliez y accorder votre temps, votre travail et vos dépenses.
+[Jupiter](/astrology/jupiter/) élargit la compréhension et cherche du sens. La [maison 2](/astrology/2nd-house/) réunit les ressources, les valeurs et l’estime de soi : ce que vous gagnez et gardez, les talents dont vous pourriez vivre, ce que vous protégeriez s’il fallait choisir. Au passage de Jupiter, le sentiment de votre valeur tend à s’étirer. Un savoir-faire que vous teniez pour acquis peut commencer à ressembler à une base sur laquelle bâtir, et des valeurs à moitié formulées deviennent plus nettes, jusqu’à ce que vous vouliez y accorder votre temps, votre travail et vos dépenses.
 
 Quelles que soient les planètes que votre maison 2 contient depuis la naissance, Jupiter élargit pour quelques semaines, en passant, la façon dont chacune accorde de la valeur aux choses : avec votre Lune à cet endroit, ce qui vous donne un sentiment de sécurité ; avec Mars, ce pour quoi vous acceptez de travailler.
 

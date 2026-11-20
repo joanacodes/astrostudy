@@ -21,9 +21,9 @@ faq:
   - q: "Que veut dire Neptune trigone Nœud Nord en synastrie ?"
     a: "Le contact relie Neptune et le Nœud Nord de deux thèmes différents par un angle facile d’environ 120°. La première se figure souvent la nouvelle direction de la seconde comme naturelle et digne d’être tentée, et la seconde donne à cette imagination quelque chose de réel à viser. Le sextile au Nœud Sud garde aussi le terrain familier amical."
   - q: "Est-ce que Neptune trigone Nœud Nord est bon signe pour une relation ?"
-    a: "Il décrit un soutien entre l’imagination de l’une et la croissance de l’autre, ce qui est agréable, mais il ne décide rien d’une relation. Il vient aussi avec des mois entiers de naissances. Ce qui compte, c’est que l’encouragement s’accompagne d’un retour honnête, car grandir demande les deux."
+    a: "Ce contact décrit un soutien entre l’imagination de l’une et la croissance de l’autre, ce qui est agréable, mais il ne décide rien d’une relation. Il vient aussi avec des mois entiers de naissances. Ce qui compte, c’est que l’encouragement s’accompagne d’un retour honnête, car grandir demande les deux."
   - q: "Quel écart d’âge entre les personnes qui ont Neptune trigone Nœud Nord ?"
-    a: "Souvent une génération : une naissance du milieu de 1965 le retrouve chez les personnes nées de septembre 1947 à décembre 1949, et chez celles nées de janvier 2003 à avril 2005. Il arrive aussi entre âges proches, comme avec les personnes nées de juin à octobre 1963."
+    a: "Souvent une génération : une naissance du milieu de 1965 le retrouve chez les personnes nées de septembre 1947 à décembre 1949, et chez celles nées de janvier 2003 à avril 2005. Le contact arrive aussi entre âges proches, comme avec les personnes nées de juin à octobre 1963."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le trigone, 120°, et le sextile, 60°" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Neptune, chez l’une, à moins de 3,4° d’un trigone avec le Nœud Nord vrai de l’autre" }
@@ -35,7 +35,7 @@ Certains encouragements marchent parce qu’ils arrivent sous forme d’image :
 
 [Neptune](/astrology/neptune/) apporte l’imagination, la compassion et l’oreille du sens, la capacité de tenir un espoir avant d’en avoir la preuve. Le [Nœud Nord](/astrology/north-node/) est la direction où l’on grandit en s’exerçant, moins automatique que les forces anciennes ; le [Nœud Sud](/astrology/south-node/), en face, garde ces forces. Un [trigone](/astrology/trine/) laisse deux fonctions s’aider ; et les nœuds étant à 180° l’un de l’autre, le trigone au Nœud Nord devient un sextile au Nœud Sud : celui-ci aide le neuf tout en laissant une porte ouverte au familier. Dans les [aspects de synastrie](/astrology/synastry-aspects/), l’aide passe d’une personne à l’autre.
 
-Quand le Nœud Nord est le vôtre, la nouvelle direction ressemble, auprès de cette personne, moins à un risque qu’au chapitre suivant, évident. Son imagination complète ce que vous ne voyez pas encore ; sa bonté rend supportable le temps des débuts. Et comme Neptune, dans son thème, forme aussi un sextile avec votre Nœud Sud, elle respecte d’où vous venez au lieu de vous demander de le quitter.
+Quand le Nœud Nord est le vôtre, la nouvelle direction ressemble, auprès de cette personne, moins à un risque qu’au chapitre suivant, évident. Son imagination complète ce que vous ne voyez pas encore ; sa bonté rend supportable le temps des débuts. Et comme Neptune, dans son thème, forme aussi un sextile avec votre Nœud Sud, cette personne respecte d’où vous venez au lieu de vous demander de le quitter.
 
 Du côté de Neptune, la croissance de l’autre donne à vos rêves un travail. Un idéalisme qui pourrait dériver trouve une personne et un chemin où se poser, et la voir faire les pas que vous aviez imaginés est une récompense en soi.
 

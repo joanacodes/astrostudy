@@ -31,7 +31,7 @@ Les années de Saturne dans votre maison 3 ralentissent l’esprit du quotidien,
 
 ## Ce qui change {#ce-qui-change}
 
-[Saturne](/astrology/saturn/) donne une structure aux choses et leur demande de durer ; la [maison 3](/astrology/3rd-house/), c’est la circulation de la vie quotidienne : les conversations, la lecture, l’écriture, les petits trajets, les premiers apprentissages et les gens tout proches. Pendant que Saturne la traverse, je lis une saison de pensée attentive. Vous étudierez peut-être enfin quelque chose pour de bon, choisirez vos mots avec plus de poids, mettrez de l’ordre dans une routine, ou constaterez que les idées lancées à la légère veulent désormais être vérifiées et menées à bout.
+[Saturne](/astrology/saturn/) donne une structure aux choses et leur demande de durer ; la [maison 3](/astrology/3rd-house/), c’est la circulation de la vie quotidienne : les conversations, la lecture, l’écriture, les petits trajets, les premiers apprentissages et les gens tout proches. Penser avec soin devient la règle de ces années. Vous étudierez peut-être enfin quelque chose pour de bon, choisirez vos mots avec plus de poids, mettrez de l’ordre dans une routine, ou constaterez que les idées lancées à la légère veulent désormais être vérifiées et menées à bout.
 
 Cela peut sembler plus lent que vous ne le voudriez. Les réponses rapides deviennent plus difficiles, et des conversations légères peuvent devenir sérieuses un moment. Ce n’est pas l’esprit qui faiblit ; c’est l’esprit à qui l’on demande de penser ce qu’il dit, ce qui est un savoir-faire, et Saturne enseigne les savoir-faire par le long chemin.
 

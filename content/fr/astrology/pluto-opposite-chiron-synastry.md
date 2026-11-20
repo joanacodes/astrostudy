@@ -40,7 +40,7 @@ Ce qu’elle donne à la paire, c’est du recul. La personne de Pluton voit che
 
 Si Chiron est le vôtre, cette personne semble voir tout droit l’endroit que vous avez tant travaillé à gérer, et douter de l’arrangement. Certains jours, c’est le sentiment d’être comprise ou compris en profondeur ; d’autres, celui qu’on vous demande de démonter ce qui tient votre vie debout.
 
-Côté Pluton, les accommodements de l’autre ressemblent parfois à une porte qu’elle referme sans cesse. Vous voyez ce qui pourrait partir ; elle voit ce que cela coûterait. Poussez, et elle ne bouge plus ; ne bougez plus, et rien ne change.
+Côté Pluton, les accommodements de l’autre ressemblent parfois à une porte refermée sans cesse. Vous voyez ce qui pourrait partir ; elle voit ce que cela coûterait. Poussez, et elle ne bouge plus ; ne bougez plus, et rien ne change.
 
 Rien d’hostile là-dedans : c’est une balançoire entre deux instincts sains. Elle ne tourne au reproche que lorsque chacune oublie que la question de l’autre est bonne, elle aussi.
 

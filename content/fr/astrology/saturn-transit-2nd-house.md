@@ -31,7 +31,7 @@ Les années de Saturne dans votre maison 2 apportent sa patience à ce que vous 
 
 ## Ce qui change {#ce-qui-change}
 
-[Saturne](/astrology/saturn/) construit des structures faites pour traverser le temps ; la [maison 2](/astrology/2nd-house/) réunit les ressources, les valeurs, les biens et l’estime de soi. Pendant que Saturne la traverse, je lis une saison d’intendance. Les budgets se précisent, les limites s’affermissent, et vous triez peut-être ce sur quoi vous comptez vraiment et ce qui n’est qu’une habitude. Les savoir-faire dont vous pourriez vivre demandent plus de soin, et la question qui se trouve dessous aussi : que vaut-on quand personne ne paie ?
+[Saturne](/astrology/saturn/) construit des structures faites pour traverser le temps ; la [maison 2](/astrology/2nd-house/) réunit les ressources, les valeurs, les biens et l’estime de soi. Ces années sont, à mes yeux, une saison d’intendance. Les budgets se précisent, les limites s’affermissent, et vous triez peut-être ce sur quoi vous comptez vraiment et ce qui n’est qu’une habitude. Les savoir-faire dont vous pourriez vivre demandent plus de soin, et la question qui se trouve dessous aussi : que vaut-on quand personne ne paie ?
 
 Cette question est le cadeau le plus aigu de Saturne ici. L’une de ses vieilles habitudes consiste à confondre la responsabilité et la valeur, et en maison 2 cela peut vouloir dire se mesurer à ce que l’on gagne ou épargne. Le travail de ces années est de séparer les deux, et de bâtir la sécurité avec quelque chose de plus stable que la peur.
 

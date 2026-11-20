@@ -30,7 +30,7 @@ When Jupiter crosses the Imum Coeli, the point at the very bottom of your chart,
 
 ## What changes {#what-changes}
 
-[Jupiter](/astrology/jupiter/) widens what you understand and helps it mean something; the [4th house](/astrology/4th-house/) is home, roots and belonging, the ground you stand on and the self you keep behind your own front door. With Jupiter there, I read a year when that ground gets more generous. You may want more room where you live, more people round the table or fewer, more time inside your own life, or a better understanding of where you come from and what you carry from it.
+[Jupiter](/astrology/jupiter/) widens what you understand and helps it mean something; the [4th house](/astrology/4th-house/) is home, roots and belonging, the ground you stand on and the self you keep behind your own front door. For a year, Jupiter makes that ground more generous. You may want more room where you live, more people round the table or fewer, more time inside your own life, or a better understanding of where you come from and what you carry from it.
 
 The IC is where your chart touches the ground. In Placidus, the house system I use, it's the cusp of the 4th, and Jupiter standing on it is also Jupiter opposite your Midheaven ([transiting Jupiter opposite natal Midheaven](/astrology/transiting-jupiter-opposite-natal-midheaven/)), as if the public side of your life stepped back to let the private one grow. There's a fitting echo in the natural order, too: Cancer, the 4th house's sign, is where tradition placed Jupiter's exaltation, as if care and belonging were where its generosity feels most at home.
 

@@ -27,11 +27,11 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée des séjours de Saturne dans une maison, en Placidus à Londres et à New York, et ses signes à partir de 2026" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
 ---
-Quand Saturne franchit le degré qui se levait à votre naissance, commence un séjour d’environ trois ans dans votre maison 1. La planète du temps et de la structure se tourne vers la personne que vous montrez d’abord, et lui demande de prendre une forme plus nette.
+Certains transits passent ; celui-ci s’installe. Pendant environ trois ans après le passage de Saturne sur votre ascendant, la planète du temps et de la structure travaille la personne que vous montrez d’abord, et lui demande de prendre une forme plus nette.
 
 ## Ce qui change {#ce-qui-change}
 
-[Saturne](/astrology/saturn/) bâtit des structures, pose des limites et travaille sur le long terme ; la [maison 1](/astrology/1st-house/), c’est l’identité et la présence, la personne que vous montrez d’abord et votre façon de commencer. Pendant que Saturne la traverse, je lis une saison de définition. Vous vous prendrez peut-être plus au sérieux, laisserez un rôle qui ne vous allait pas, prendrez des engagements envers vous-même et les tiendrez, et verrez les autres vous traiter comme une personne sur qui compter. Cela peut sembler plus lourd que d’habitude, comme si chaque pas demandait une raison : c’est Saturne qui vous demande de choisir ce que vous défendez.
+[Saturne](/astrology/saturn/) bâtit des structures, pose des limites et travaille sur le long terme ; la [maison 1](/astrology/1st-house/), c’est l’identité et la présence, la personne que vous montrez d’abord et votre façon de commencer. C’est une saison de définition. Vous vous prendrez peut-être plus au sérieux, laisserez un rôle qui ne vous allait pas, prendrez des engagements envers vous-même et les tiendrez, et verrez les autres vous traiter comme une personne sur qui compter. Cela peut sembler plus lourd que d’habitude, comme si chaque pas demandait une raison : c’est Saturne qui vous demande de choisir ce que vous défendez.
 
 En Placidus, le système de maisons que j’utilise, la maison 1 commence à l’ascendant : le séjour s’ouvre donc avec Saturne sur votre degré ascendant ([Saturne en transit conjonction Ascendant du thème natal](/astrology/transiting-saturn-conjunct-natal-ascendant/)), souvent le moment qui ressemble le plus à un tournant. Le Soleil ou Mars dans votre maison 1 de naissance rencontrent Saturne ensuite, et la rencontre demande de la patience à la planète concernée : un plan pour l’élan, une colonne vertébrale pour la présence.
 

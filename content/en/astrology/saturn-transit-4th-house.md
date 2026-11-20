@@ -30,7 +30,7 @@ Saturn's years in your 4th house are the ones it spends underneath everything el
 
 ## What changes {#what-changes}
 
-[Saturn](/astrology/saturn/) builds what's meant to last and checks what isn't; the [4th house](/astrology/4th-house/) is home, roots, family and the private self. With Saturn crossing it, I read a season of repair. Responsibilities at home can grow, a living arrangement can need rethinking, and the past, family patterns included, can ask to be looked at with adult eyes. The work is often invisible from outside, and it's some of the most durable Saturn does.
+[Saturn](/astrology/saturn/) builds what's meant to last and checks what isn't; the [4th house](/astrology/4th-house/) is home, roots, family and the private self. Saturn's crossing makes it a time for repair. Responsibilities at home can grow, a living arrangement can need rethinking, and the past, family patterns included, can ask to be looked at with adult eyes. The work is often invisible from outside, and it's some of the most durable Saturn does.
 
 In Placidus, the house system I use, the IC is the cusp of the 4th, and Saturn on it is Saturn opposite your Midheaven ([transiting Saturn opposite natal Midheaven](/astrology/transiting-saturn-opposite-natal-midheaven/)): a time when what you build in public tends to depend on what you repair at home. Cancer, the 4th's natural sign, is where tradition put Saturn in detriment, the planet of rules in the house of feeling. I read that friction as useful: care that gets a structure, and a home that's built rather than only inherited.
 

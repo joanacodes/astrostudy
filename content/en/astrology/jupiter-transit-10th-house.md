@@ -30,7 +30,7 @@ Jupiter's year in your 10th house begins at the top of your chart, on the Midhea
 
 ## What changes {#what-changes}
 
-[Jupiter](/astrology/jupiter/) expands, gathers meaning and looks for principles to act on; the [10th house](/astrology/10th-house/) is public life: work, responsibility, reputation, the role you play and what you'd like to leave behind. With Jupiter crossing it, I read a year when ambitions can feel within reach and the direction of your work clearer. You may take on more responsibility, be asked to lead, or simply understand better what you want your work to mean.
+[Jupiter](/astrology/jupiter/) expands, gathers meaning and looks for principles to act on; the [10th house](/astrology/10th-house/) is public life: work, responsibility, reputation, the role you play and what you'd like to leave behind. Ambitions can feel within reach in this year, and the direction of your work clearer. You may take on more responsibility, be asked to lead, or simply understand better what you want your work to mean.
 
 The stay opens at the Midheaven, the cusp of the 10th in Placidus, the house system I use ([transiting Jupiter conjunct natal Midheaven](/astrology/transiting-jupiter-conjunct-natal-midheaven/)), and that crossing is often the most visible stretch of the year. Capricorn, the 10th's sign in the natural order, is where tradition placed Jupiter's fall, and the old picture suits the house: big plans asked to show their foundations.
 

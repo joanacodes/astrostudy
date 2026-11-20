@@ -26,11 +26,11 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Saturn stays in a house, in Placidus charts at London and New York, and its signs from 2026" }
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
 ---
-When Saturn crosses the degree that was rising at your birth, it begins a stay of about three years in your 1st house. The planet of time and structure turns to the self you lead with, and asks it to take a clearer shape.
+Some transits pass; this one settles in. For about three years after Saturn crosses your Ascendant, the planet of time and structure works on the self you lead with, asking it to take a clearer shape.
 
 ## What changes {#what-changes}
 
-[Saturn](/astrology/saturn/) builds structure, sets boundaries and works on the long term; the [1st house](/astrology/1st-house/) is identity and presence, the self you lead with and the way you begin. With Saturn crossing it, I read a season of definition. You may take yourself more seriously, drop a role that never fitted, make commitments to yourself and keep them, and find that people start treating you as someone they can rely on. It can feel heavier than usual, as if every step needed a reason: that's Saturn asking you to choose what you stand for.
+[Saturn](/astrology/saturn/) builds structure, sets boundaries and works on the long term; the [1st house](/astrology/1st-house/) is identity and presence, the self you lead with and the way you begin. Put the two together and you get a season of definition. You may take yourself more seriously, drop a role that never fitted, make commitments to yourself and keep them, and find that people start treating you as someone they can rely on. It can feel heavier than usual, as if every step needed a reason: that's Saturn asking you to choose what you stand for.
 
 In Placidus, the house system I use, the 1st begins at the Ascendant, so the stay opens with Saturn on your rising degree ([transiting Saturn conjunct natal Ascendant](/astrology/transiting-saturn-conjunct-natal-ascendant/)), often the stretch that feels most like a turning point. A natal Sun or Mars in the 1st meets Saturn after that, and the meeting tends to ask that planet for patience: drive given a plan, presence given a backbone.
 

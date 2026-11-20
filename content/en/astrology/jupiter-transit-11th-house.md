@@ -21,7 +21,7 @@ faq:
   - q: "What does the 11th-house transit do for friendships?"
     a: "It tends to widen your circle and deepen the friendships that share your hopes: new groups, old friends found again, help offered without being asked. It doesn’t decide who stays or goes, and popularity isn’t the point: the 11th is about belonging, not numbers."
   - q: "Is Jupiter’s stay in the 11th longer than a year?"
-    a: "Slightly, as a rule: a little over a year in the middle. Charts drawn in Placidus for London put most 11th-house stays somewhere from about 11 months to 22, and for New York the long end comes down to about 20. Your own dates hang on the cusp your birth time gives you."
+    a: "Slightly: a little over a year in the middle. Charts drawn in Placidus for London put most 11th-house stays somewhere from about 11 months to 22, and for New York the long end comes down to about 20. Your own dates hang on the cusp your birth time gives you."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Jupiter stays in a house, in Placidus charts at London and New York, and its signs from 2026" }
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
@@ -30,7 +30,7 @@ Tradition gave Jupiter its joy in the 11th house, the Good Spirit, and its year 
 
 ## What changes {#what-changes}
 
-[Jupiter](/astrology/jupiter/) widens, connects and gives things a future; the [11th house](/astrology/11th-house/) is community, friendship, networks and the goals you pursue with others. The old books said Jupiter rejoices here ([planetary joys](/astrology/planetary-joys/)), and I can see why: the planet that looks for meaning and the house of shared hopes want the same thing. With Jupiter crossing it, I read a year when your circle can widen, a group can start to feel like yours, and the future you'd like to build gets clearer, often because you're talking about it with the right people.
+[Jupiter](/astrology/jupiter/) widens, connects and gives things a future; the [11th house](/astrology/11th-house/) is community, friendship, networks and the goals you pursue with others. The old books said Jupiter rejoices here ([planetary joys](/astrology/planetary-joys/)), and I can see why: the planet that looks for meaning and the house of shared hopes want the same thing. Across Jupiter's year there, your circle can widen, a group can start to feel like yours, and the future you'd like to build gets clearer, often because you're talking about it with the right people.
 
 Belonging isn't popularity, though, and the 11th isn't a contest for numbers. The growth here is in finding the people who share what you care about, and in letting them help you as you help them.
 

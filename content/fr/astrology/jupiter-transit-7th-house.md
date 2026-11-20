@@ -31,7 +31,7 @@ sources:
 
 ## Ce qui change {#ce-qui-change}
 
-[Jupiter](/astrology/jupiter/) élargit la compréhension et aide l’expérience à prendre sens ; la [maison 7](/astrology/7th-house/), c’est le couple, la coopération, les accords et les personnes que vous rencontrez d’égal à égal, en amour comme au travail. Pendant que Jupiter la traverse, je lis une année où cette part de la vie gagne de l’espace. Des personnes qui agrandissent votre monde peuvent se rapprocher, des liens existants peuvent devenir plus généreux, et vous vous comprendrez peut-être mieux en regardant ce que vous cherchez chez les autres.
+[Jupiter](/astrology/jupiter/) élargit la compréhension et aide l’expérience à prendre sens ; la [maison 7](/astrology/7th-house/), c’est le couple, la coopération, les accords et les personnes que vous rencontrez d’égal à égal, en amour comme au travail. Le passage de Jupiter donne plus d’espace à cette part de la vie. Des personnes qui agrandissent votre monde peuvent se rapprocher, des liens existants peuvent devenir plus généreux, et vous vous comprendrez peut-être mieux en regardant ce que vous cherchez chez les autres.
 
 Le jour où Jupiter atteint votre descendant, Jupiter se tient aussi face à votre degré ascendant ([Jupiter en transit opposition Ascendant du thème natal](/astrology/transiting-jupiter-opposite-natal-ascendant/)) : en Placidus, le système que j’utilise pour les maisons, la cuspide de la maison 7 est toujours le point qui fait face à l’ascendant. La maison 1, c’était *moi* ; celle-ci, c’est *l’autre*, et l’année de Jupiter parle de l’espace entre les deux.
 

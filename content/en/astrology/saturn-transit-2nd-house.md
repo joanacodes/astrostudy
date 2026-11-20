@@ -30,7 +30,7 @@ Saturn's years in your 2nd house bring its patience to what you have and what yo
 
 ## What changes {#what-changes}
 
-[Saturn](/astrology/saturn/) makes structures meant to survive time; the [2nd house](/astrology/2nd-house/) holds resources, values, possessions and self-worth. With Saturn crossing it, I read a season of stewardship. Budgets get clearer, limits get firmer, and you may find yourself sorting what you really rely on from what you've only grown used to. Skills you could live from deserve more care now, and so does the question underneath them: what am I worth when nobody is paying?
+[Saturn](/astrology/saturn/) makes structures meant to survive time; the [2nd house](/astrology/2nd-house/) holds resources, values, possessions and self-worth. Its years there are, as I read them, a season of stewardship. Budgets get clearer, limits get firmer, and you may find yourself sorting what you really rely on from what you've only grown used to. Skills you could live from deserve more care now, and so does the question underneath them: what am I worth when nobody is paying?
 
 That question is Saturn's sharpest gift here. One of its old habits is to confuse responsibility with worth, and in the 2nd that can mean measuring yourself by what you earn or save. The work of these years is to separate the two, and to build security out of something steadier than fear.
 

@@ -31,7 +31,7 @@ Dans l’année environ qui précède son arrivée sur votre ascendant, Jupiter 
 
 ## Ce qui change {#ce-qui-change}
 
-[Jupiter](/astrology/jupiter/) élargit la compréhension et rassemble l’expérience en un sens ; la [maison 12](/astrology/12th-house/), c’est la vie intérieure : la solitude et le repos, le retrait et la réflexion, la compassion, ce que vous laissez partir et ce que vous portez sans le dire. Pendant que Jupiter la traverse, je lis une année où le sens vient sans bruit : dans le temps passé à l’écart, dans le soin donné ou reçu sans façons, dans une étude ou une pratique menée pour elle-même, et dans quelque chose de vous qui ne se montre qu’en privé.
+[Jupiter](/astrology/jupiter/) élargit la compréhension et rassemble l’expérience en un sens ; la [maison 12](/astrology/12th-house/), c’est la vie intérieure : la solitude et le repos, le retrait et la réflexion, la compassion, ce que vous laissez partir et ce que vous portez sans le dire. Le sens, cette année-là, vient plutôt sans bruit : dans le temps passé à l’écart, dans le soin donné ou reçu sans façons, dans une étude ou une pratique menée pour elle-même, et dans quelque chose de vous qui ne se montre qu’en privé.
 
 La maison 12 a un lien de famille avec Jupiter. Dans l’ordre naturel, elle revient aux Poissons, qui ont deux maîtres, Neptune, le moderne, et Jupiter, le traditionnel ; je lis les deux, et ici, Jupiter traverse la maison de son ancien signe.
 

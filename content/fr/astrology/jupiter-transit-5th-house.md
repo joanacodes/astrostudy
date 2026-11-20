@@ -31,7 +31,7 @@ L’année de Jupiter dans votre maison 5 fait de la place à ce que vous faites
 
 ## Ce qui change {#ce-qui-change}
 
-[Jupiter](/astrology/jupiter/) élargit et fait naître : cette planète ouvre des possibles et les aide à devenir quelque chose. La [maison 5](/astrology/5th-house/) est celle de la créativité, du jeu, du plaisir et des amours, la part de la vie qui n’a pas à se justifier, et Vénus y a sa joie. Pendant que Jupiter la traverse, je lis une année environ où créer, jouer, séduire et se produire viennent avec plus d’appétit. Un projet créatif peut prendre plus de place, un loisir devenir un savoir-faire, et vous découvrirez peut-être ce que vous aimez vraiment, plutôt que ce que vous faites bien.
+[Jupiter](/astrology/jupiter/) élargit et fait naître : cette planète ouvre des possibles et les aide à devenir quelque chose. La [maison 5](/astrology/5th-house/) est celle de la créativité, du jeu, du plaisir et des amours, la part de la vie qui n’a pas à se justifier, et Vénus y a sa joie. Tant que Jupiter s’y trouve, créer, jouer, séduire et se produire viennent souvent avec plus d’appétit. Un projet créatif peut prendre plus de place, un loisir devenir un savoir-faire, et vous découvrirez peut-être ce que vous aimez vraiment, plutôt que ce que vous faites bien.
 
 Les vieux livres y auraient vu une saison doublement favorable, puisque la maison est la Fortune favorable et que la tradition plaçait Jupiter en tête des [bénéfiques](/astrology/benefics-and-malefics/). Je garde la douceur et laisse la promesse. La joie n’est pas l’excès, et l’année demande de choisir vos plaisirs plutôt que de les collectionner.
 

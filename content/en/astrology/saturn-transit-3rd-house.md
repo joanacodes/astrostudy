@@ -30,7 +30,7 @@ Saturn's years in your 3rd house slow the everyday mind down on purpose: the mes
 
 ## What changes {#what-changes}
 
-[Saturn](/astrology/saturn/) gives things structure and asks them to last; the [3rd house](/astrology/3rd-house/) is the traffic of daily life: talk, reading, writing, short journeys, the first kind of learning and the people close at hand. With Saturn crossing it, I read a season of careful thinking. You may study something properly at last, choose your words with more weight, put a daily routine in order, or find that ideas you used to toss off now want to be checked and finished.
+[Saturn](/astrology/saturn/) gives things structure and asks them to last; the [3rd house](/astrology/3rd-house/) is the traffic of daily life: talk, reading, writing, short journeys, the first kind of learning and the people close at hand. Careful thinking is the order of these years. You may study something properly at last, choose your words with more weight, put a daily routine in order, or find that ideas you used to toss off now want to be checked and finished.
 
 It can feel slower than you'd like. Quick answers get harder to give, and conversations that were light can turn serious for a while. That isn't the mind failing; it's the mind being asked to mean what it says, which is a skill, and Saturn teaches skills the long way.
 

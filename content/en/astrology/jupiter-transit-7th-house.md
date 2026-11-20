@@ -30,7 +30,7 @@ Halfway round the chart from your Ascendant, Jupiter's year in your 7th house tu
 
 ## What changes {#what-changes}
 
-[Jupiter](/astrology/jupiter/) broadens understanding and helps experience make sense; the [7th house](/astrology/7th-house/) is partnership, cooperation, agreements and the people you meet as equals, in love and in work. With Jupiter crossing it, I read a year when that part of life gets roomier. People who widen your world can come closer, existing bonds can take on more generosity, and you may find you understand yourself better by watching what you look for in others.
+[Jupiter](/astrology/jupiter/) broadens understanding and helps experience make sense; the [7th house](/astrology/7th-house/) is partnership, cooperation, agreements and the people you meet as equals, in love and in work. Jupiter's passage gives that part of life more room. People who widen your world can come closer, existing bonds can take on more generosity, and you may find you understand yourself better by watching what you look for in others.
 
 On the day Jupiter reaches your Descendant, it also stands opposite your rising degree ([transiting Jupiter opposite natal Ascendant](/astrology/transiting-jupiter-opposite-natal-ascendant/)): the cusp of the 7th, in Placidus, the system I use for houses, is always the point facing the Ascendant. The 1st house was *me*; this one is *you*, and Jupiter's year is about the space between.
 

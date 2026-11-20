@@ -2,7 +2,7 @@
 title: "Soleil en Scorpion, Lune en Lion"
 slug: "soleil-en-scorpion-lune-en-lion"
 h1: "Soleil en Scorpion, Lune en Lion dans un thème natal"
-description: "Soleil en Scorpion, Lune en Lion : deux signes fixes en carré, la Lune dans le signe du Soleil, près du dernier quartier. Un moi secret, un cœur qui veut être vu."
+description: "Soleil en Scorpion, Lune en Lion : deux signes fixes en carré, la Lune dans le signe du Soleil, au dernier quartier. Un moi secret, un cœur qui veut être vu."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
