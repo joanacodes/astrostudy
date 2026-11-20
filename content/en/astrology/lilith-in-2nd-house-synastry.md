@@ -16,7 +16,7 @@ facts:
   - { k: "Needs", v: "Your birth time; their date places mean Lilith" }
 related: ["/astrology/black-moon-lilith", "/astrology/2nd-house", "/astrology/house-overlays", "/astrology/which-lilith-is-mine", "/astrology/lilith-in-2nd-house"]
 faq:
-  - q: "Will their Lilith in my 2nd house make me spend more?"
+  - q: "Could their Lilith in my 2nd house loosen my purse strings?"
     a: "It can make you want more openly, which isn’t the same as spending more. Their Lilith meets your values and appetites, and with them the guilt you were taught about wanting may loosen. How you use your money stays your decision, and no overlay says what you’ll earn or lose."
   - q: "Is it their Lilith in my 2nd house that makes them question my values?"
     a: "Partly. Lilith is the part of them that refused what it was told to want or not want, and in your 2nd it meets your sense of worth and what you keep. Their questions can free you from inherited rules, or simply grate. Keep the values you’ve chosen, and drop the ones you never did."
@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Taurus and its ruler, Venus" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the lunar apogee behind mean Lilith" }
 ---
-Wanting things out loud is harder than it sounds: a fair price, a good coat, money that's yours alone. Their Lilith in your 2nd house puts the part of them that refused to be tamed among your possessions and your sense of worth.
+Wanting things out loud is harder than it sounds: a fair price, a good coat, money that's yours alone. With their Lilith in your 2nd house, the other person's least domesticated wants come to sit among your possessions and your sense of worth.
 
 ## What it brings {#what-it-brings}
 

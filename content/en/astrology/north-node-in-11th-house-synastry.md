@@ -22,7 +22,7 @@ faq:
   - q: "Why does someone with their North Node in my 11th house want to meet all my friends?"
     a: "Because belonging to a group is what they are learning, and your circle is the one in front of them. They may join in eagerly and a little unsure of the rules. Let them find a role among your friends that is their own, rather than staying your plus-one."
   - q: "Can their North Node in my 11th house turn a romance into a friendship?"
-    a: "It doesn’t decide what kind of bond you have. With their South Node in your 5th, flirting and fun come easily to them, and friendship is the stretch, so the relationship may keep both. Many couples with this overlay share friends and causes as well as each other; what you make of it is your choice."
+    a: "It doesn’t decide what kind of bond you have. With their South Node in your 5th, flirting and fun come easily to them, and friendship is the stretch, so the relationship may keep both. Nothing stops a couple from sharing friends and causes as well as each other; what you make of it is yours to choose."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the 11th and 5th houses, Good Spirit and Good Fortune" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Aquarius, the sign of Saturn in tradition" }
