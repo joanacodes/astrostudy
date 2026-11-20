@@ -106,7 +106,7 @@ La planète qui gouverne votre signe ascendant gouverne aussi votre maison 1, et
 Toutes les planètes traversent votre maison 1 tôt ou tard. La Lune la franchit en deux jours et demi environ chaque mois, le Soleil en un mois environ chaque année, Mercure, Vénus et Mars en quelques semaines : de courtes périodes où l’on vous remarque davantage, ou bien où vous vous regardez davantage. Les planètes lentes y restent des années, à peu près le temps qu’il leur faut pour traverser un signe, plus ou moins selon la taille de la maison dans votre thème :
 
 - **[Jupiter en transit en maison 1](/astrology/jupiter-transit-1st-house/) :** environ un an d’élan, avec l’envie de commencer quelque chose ou de vous montrer autrement.
-- **[Saturne en transit en maison 1](/astrology/saturn-transit-1st-house/) :** environ deux ans et demi à vous prendre au sérieux ; plus de poids, plus d’assise, des contours plus nets.
+- **[Saturne en transit en maison 1](/astrology/saturn-transit-1st-house/) :** environ trois ans à vous prendre au sérieux ; plus de poids, plus d’assise, des contours plus nets.
 - **[Uranus en transit en maison 1](/astrology/uranus-transit-1st-house/) :** environ sept ans pour vous défaire d’une vieille image et en essayer une plus libre.
 - **[Neptune en transit en maison 1](/astrology/neptune-transit-1st-house/) :** environ quatorze ans où vos contours s’estompent : moins de certitudes sur qui vous êtes, plus d’ouverture à qui vous pourriez être.
 - **[Pluton en transit en maison 1](/astrology/pluto-transit-1st-house/) :** une longue et lente refonte de votre façon de vous tenir dans le monde, sur dix ans ou plus.

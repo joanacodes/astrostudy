@@ -104,7 +104,7 @@ Le maître de la maison 8 est la planète qui gouverne le signe sur sa cuspide, 
 La Lune traverse votre maison 8 chaque mois, le Soleil une fois par an, Mercure, Vénus et Mars pendant quelques semaines : une question de confiance ou d’argent se pose, puis passe. Les planètes lentes y restent des années, à peu près le temps qu’il leur faut pour traverser un signe, plus ou moins selon la taille de la maison :
 
 - **[Jupiter en transit en maison 8](/astrology/jupiter-transit-8th-house/) :** environ un an où la confiance vient plus facilement et où le partage semble généreux, dans les deux sens.
-- **[Saturne en transit en maison 8](/astrology/saturn-transit-8th-house/) :** environ deux ans et demi à faire le point sur ce que vous devez et ce qu’on vous doit, et sur les personnes en qui vous avez vraiment confiance.
+- **[Saturne en transit en maison 8](/astrology/saturn-transit-8th-house/) :** environ trois ans à faire le point sur ce que vous devez et ce qu’on vous doit, et sur les personnes en qui vous avez vraiment confiance.
 - **[Uranus en transit en maison 8](/astrology/uranus-transit-8th-house/) :** environ sept ans de changements soudains dans ce qui se partage, et de besoin de liberté dans l’intimité.
 - **[Neptune en transit en maison 8](/astrology/neptune-transit-8th-house/) :** environ quatorze ans où les frontières de l’argent et de la proximité s’assouplissent : un temps pour la compassion, et pour des comptes clairs.
 - **[Pluton en transit en maison 8](/astrology/pluto-transit-8th-house/) :** un long et lent changement dans votre rapport au pouvoir, à la confiance et au lâcher-prise.

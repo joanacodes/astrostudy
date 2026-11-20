@@ -105,7 +105,7 @@ Le maître de la maison 3 est la planète qui gouverne le signe sur sa cuspide, 
 La Lune traverse votre maison 3 chaque mois, le Soleil une fois par an, Mercure, Vénus et Mars pendant quelques semaines : des périodes chargées en messages, en courses et en conversations. Les planètes lentes y restent des années, à peu près le temps qu’il leur faut pour traverser un signe, plus ou moins selon la taille de la maison :
 
 - **[Jupiter en transit en maison 3](/astrology/jupiter-transit-3rd-house/) :** environ un an d’envie d’apprendre, de lire, de discuter et de bouger davantage.
-- **[Saturne en transit en maison 3](/astrology/saturn-transit-3rd-house/) :** environ deux ans et demi d’études sérieuses et de mots pesés.
+- **[Saturne en transit en maison 3](/astrology/saturn-transit-3rd-house/) :** environ trois ans d’études sérieuses et de mots pesés.
 - **[Uranus en transit en maison 3](/astrology/uranus-transit-3rd-house/) :** environ sept ans d’idées nouvelles et de nouvelles façons de garder le contact.
 - **[Neptune en transit en maison 3](/astrology/neptune-transit-3rd-house/) :** environ quatorze ans où l’imagination grandit et les détails se brouillent : un bon moment pour écrire, et pour relire deux fois ce que vous signez.
 - **[Pluton en transit en maison 3](/astrology/pluto-transit-3rd-house/) :** un long changement dans votre façon de penser et dans ce que vous acceptez de dire.

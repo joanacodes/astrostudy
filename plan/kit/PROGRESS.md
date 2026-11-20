@@ -13,11 +13,18 @@ until 3:50 am Paris Friday 20th November" (= 02:50 UTC).
 - Dark mode: agent aaf1d65d39460ffb0 (commits its own files on the branch with [skip ci]).
 
 ## Running (agent ids, for SendMessage after a container restart)
-- syn[7] a70080ca10d5779f9 · syn[9] ab76f94347b1fddbe · syn[12] a926f8a62c95646d9 · syn[13] a2c391fafeb68ae45
-- syn[14] a65141d8a73370aa6 · syn[15] a6f9582a2f17106e1
-- sunmoon[0] leftovers (4 Sun in Taurus) + sunmoon[1] a494c02696a563f5a · overlay[0] abfe4f500b4dc3f63
-- done since restart: dark mode (4fdde73, 90b6ec6, 0f17d53) · syn[4] leftovers + syn[11] (4d6c424) · syn[8] (in WIP commits) · syn[10] (2707169)
-- next: sunmoon[2..5], overlay[1..6], transit[0..3], cycles[0..2], t2concepts[0..4], t2tech, t2patterns, t2research[0..2], t2asteroids, stars, then tier 3
+- overlay[6] a76272b9f8018ea56 · sunmoon[5] a144dd7551aaea9c7 · transit[2] af2d3c3aae0e29205 (stops 02:38) · transit[1] a795db51273c912d3
+- t2concepts[0] part a46a8204c650da27a (stops 02:38) · cycles[1] aca101aad54363d35
+- t2concepts[1] part a697592341bb91b5c (stops 02:38) · overlay[5] ab899a66c2c276479
+- done since restart: dark mode (4fdde73, 90b6ec6, 0f17d53) · syn[4] leftovers + syn[11] (4d6c424) · syn[8] (in WIP commits) · syn[10] (2707169) · overlay[0] (36d02aa) · syn[7] (1dabb0b) · syn[9] (50d2eaa) · sunmoon[0] leftovers + sunmoon[1] (5bf0895) · syn[13] (b529af0) · syn[15] (in WIP commits) · sunmoon[2] (bcf9d8a) · syn[12] (8790fcd) · overlay[1] (in WIP commits) · overlay[2] (3078909) · syn[14] (6adbed9): every synastry batch done · transit[0] (6cdd612) · cycles[0] (in WIP commits) · t2patterns (3d7dc58) · sunmoon[4] (30a02f5) · overlay[3] (c7c1814) · sunmoon[3] (6c30c0c) · transit[3] (70fe27b) · overlay[4] (in WIP commits) · cycles[2] (0bbb927, 2070d5d) · Saturn house stay 'about three years' on the house pages (ccea722) · moon.md birth-time fix (37600e8)
+- on main: 46e7daf (dark mode + 270 pages), deployed 23:03 UTC
+- next: t2concepts[0..4], t2tech, t2research[0..2], t2asteroids, stars, then tier 3
+
+## Data to check
+- plan/kit/overlap.py lists sentences two pages share: on 20 November most were the brief's formulas, a few real echoes (the 11th house's one-line definition in four new pages, a 4th-house line in two overlays) to reword later.
+- plan/retrograde-facts.json files the 2040 Mercury retrograde under Gemini (both stations in Cancer, 9°32′ to 0°31′) and the 2015 one under Virgo (both in Libra, 15°55′ to 0°53′). The sign pages describe them by their stations.
+
+- trapeze and envelope (patterns): no checkable source defines them, so the envelope page gives no geometry and the trapeze only its outline.
 
 ## Publishing to main
 Worktree from origin/main; git merge --no-ff --no-commit origin/claude/astrostudy-website-tdhyzt; git rm the files of

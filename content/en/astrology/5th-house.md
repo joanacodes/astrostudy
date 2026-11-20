@@ -106,7 +106,7 @@ The ruler of the 5th house is the planet that rules the sign on its cusp. Where 
 The Moon crosses your 5th house every month, the Sun once a year, Mercury, Venus and Mars for a few weeks: short spells when play and pleasure come more easily to mind. The slow planets stay for years, roughly as long as they take to cross a sign, more or less with the size of the house:
 
 - **[Jupiter transiting the 5th house](/astrology/jupiter-transit-5th-house/):** about a year of more fun, more creativity and more appetite for life.
-- **[Saturn transiting the 5th house](/astrology/saturn-transit-5th-house/):** about two and a half years of taking a craft seriously — or of learning to make time for joy.
+- **[Saturn transiting the 5th house](/astrology/saturn-transit-5th-house/):** about three years of taking a craft seriously — or of learning to make time for joy.
 - **[Uranus transiting the 5th house](/astrology/uranus-transit-5th-house/):** around seven years of new pleasures, and a taste for the unexpected in love.
 - **[Neptune transiting the 5th house](/astrology/neptune-transit-5th-house/):** around fourteen years of romance and imagination, and of idealising easily.
 - **[Pluto transiting the 5th house](/astrology/pluto-transit-5th-house/):** a long, slow change in how you create and how you love.

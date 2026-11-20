@@ -104,7 +104,7 @@ The ruler of the 11th house is the planet that rules the sign on its cusp, and w
 The Moon passes through your 11th house every month, the Sun once a year, Mercury, Venus and Mars for a few weeks at a time: an invitation, a reunion, a group chat that won't stop. The slow planets stay for years, roughly as long as they take to cross a sign, more or less with the size of the house:
 
 - **[Jupiter transiting the 11th house](/astrology/jupiter-transit-11th-house/):** about a year in the house of its joy, when friendships and hopes tend to grow and new circles open.
-- **[Saturn transiting the 11th house](/astrology/saturn-transit-11th-house/):** about two and a half years of finding out which friendships hold, and of taking on responsibility in a group.
+- **[Saturn transiting the 11th house](/astrology/saturn-transit-11th-house/):** about three years of finding out which friendships hold, and of taking on responsibility in a group.
 - **[Uranus transiting the 11th house](/astrology/uranus-transit-11th-house/):** around seven years of new, unusual circles, and of needing to belong on your own terms.
 - **[Neptune transiting the 11th house](/astrology/neptune-transit-11th-house/):** around fourteen years of shared ideals and causes — and of learning to see groups and friends clearly.
 - **[Pluto transiting the 11th house](/astrology/pluto-transit-11th-house/):** a long, deep change in your friendships and in the groups you give your energy to.

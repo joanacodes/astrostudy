@@ -38,10 +38,22 @@ git worktree remove --force "$wt" 2>/dev/null || rm -rf "$wt"
 git worktree prune
 git worktree add -q --detach "$wt" origin/main
 cd "$wt"
-if ! git merge -q --no-ff --no-commit "origin/$branch" 2>/dev/null; then
-  # Files left out of an earlier push and changed since: the branch's version is the newer one.
-  for f in $(git diff --name-only --diff-filter=U); do git checkout -q --theirs -- "$f"; git add "$f"; done
-fi
+git merge -q --no-ff --no-commit "origin/$branch" >/dev/null 2>&1 || true
+# A page left out of an earlier push was deleted on main; if the branch changed it since, the merge stops
+# on it (modify/delete) and the branch's version is the one to keep. Any other conflict is a real one:
+# main has changes of its own (the blind test's pages, for one) that must not be overwritten.
+for f in $(git diff --name-only --diff-filter=U); do
+  case "$f" in
+    content/*/astrology/*.md) git checkout -q "origin/$branch" -- "$f" ;;
+    *) echo "conflict in $f: resolve it by hand in $wt"; exit 1 ;;
+  esac
+done
+# A page left out of an earlier push and unchanged since stays deleted after the merge, silently: bring
+# back every page the branch has. The ones still being written are taken out again just below.
+git ls-tree -r --name-only "origin/$branch" -- content | while read -r f; do [ -e "$f" ] || echo "$f"; done > "$wt.missing"
+echo "pages restored after earlier pushes: $(wc -l < "$wt.missing") files"
+if [ -s "$wt.missing" ]; then xargs -a "$wt.missing" git checkout -q "origin/$branch" --; fi
+rm -f "$wt.missing"
 
 n=0
 for id in $leftout; do

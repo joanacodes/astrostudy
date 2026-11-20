@@ -77,7 +77,7 @@ In [synastry](/synastry/), when one person's Saturn touches the other's planets,
 
 ## Transits and the Saturn return {#saturn-return}
 
-Saturn moves through each house of your chart in about two and a half years, and it meets its own birth position at regular steps: a first square around 7, an opposition around 14 to 15, another square around 21 to 22, and the first [Saturn return](/astrology/saturn-return/) between about 27 and 30. The cycle starts again: square around 36 to 37, opposition around 44, square around 51, second return around 58 to 60.
+Saturn usually spends about three years in each house of your chart, and it meets its own birth position at regular steps: a first square around 7, an opposition around 14 to 15, another square around 21 to 22, and the first [Saturn return](/astrology/saturn-return/) between about 27 and 30. The cycle starts again: square around 36 to 37, opposition around 44, square around 51, second return around 58 to 60.
 
 The return has a reputation as a crisis. In readings it looks more like a review: what you built on someone else's plan tends to wobble, what you built on your own tends to hold.
 

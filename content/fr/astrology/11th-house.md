@@ -105,7 +105,7 @@ Le maître de la maison 11 est la planète qui gouverne le signe sur sa cuspide,
 La Lune traverse votre maison 11 chaque mois, le Soleil une fois par an, Mercure, Vénus et Mars pendant quelques semaines : une invitation, des retrouvailles, une conversation de groupe qui ne s’arrête plus. Les planètes lentes y restent des années, à peu près le temps qu’il leur faut pour traverser un signe, plus ou moins selon la taille de la maison :
 
 - **[Jupiter en transit en maison 11](/astrology/jupiter-transit-11th-house/) :** environ un an dans la maison de sa joie, où les amitiés et les espoirs ont tendance à grandir et où de nouveaux cercles s’ouvrent.
-- **[Saturne en transit en maison 11](/astrology/saturn-transit-11th-house/) :** environ deux ans et demi à découvrir quelles amitiés tiennent, et à prendre des responsabilités dans un groupe.
+- **[Saturne en transit en maison 11](/astrology/saturn-transit-11th-house/) :** environ trois ans à découvrir quelles amitiés tiennent, et à prendre des responsabilités dans un groupe.
 - **[Uranus en transit en maison 11](/astrology/uranus-transit-11th-house/) :** environ sept ans de cercles nouveaux et peu ordinaires, et de besoin d’appartenir à vos propres conditions.
 - **[Neptune en transit en maison 11](/astrology/neptune-transit-11th-house/) :** environ quatorze ans d’idéaux et de causes partagés — et d’apprentissage pour voir les groupes et les amis avec clarté.
 - **[Pluton en transit en maison 11](/astrology/pluto-transit-11th-house/) :** un long et profond changement dans vos amitiés et dans les groupes auxquels vous donnez votre énergie.

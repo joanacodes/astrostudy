@@ -107,7 +107,7 @@ Le maître de la maison 5 est la planète qui gouverne le signe sur sa cuspide. 
 La Lune traverse votre maison 5 chaque mois, le Soleil une fois par an, Mercure, Vénus et Mars pendant quelques semaines : de courtes périodes où le jeu et le plaisir viennent plus facilement à l’esprit. Les planètes lentes y restent des années, à peu près le temps qu’il leur faut pour traverser un signe, plus ou moins selon la taille de la maison :
 
 - **[Jupiter en transit en maison 5](/astrology/jupiter-transit-5th-house/) :** environ un an de plaisir, de créativité et d’appétit de vivre en plus.
-- **[Saturne en transit en maison 5](/astrology/saturn-transit-5th-house/) :** environ deux ans et demi à prendre un savoir-faire au sérieux — ou à apprendre à faire de la place à la joie.
+- **[Saturne en transit en maison 5](/astrology/saturn-transit-5th-house/) :** environ trois ans à prendre un savoir-faire au sérieux — ou à apprendre à faire de la place à la joie.
 - **[Uranus en transit en maison 5](/astrology/uranus-transit-5th-house/) :** environ sept ans de plaisirs nouveaux, et de goût pour l’inattendu en amour.
 - **[Neptune en transit en maison 5](/astrology/neptune-transit-5th-house/) :** environ quatorze ans de romantisme et d’imagination, et d’idéalisation facile.
 - **[Pluton en transit en maison 5](/astrology/pluto-transit-5th-house/) :** un changement long et lent dans votre façon de créer et d’aimer.
