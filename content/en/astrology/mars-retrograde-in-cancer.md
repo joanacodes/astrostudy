@@ -46,8 +46,8 @@ Which house Cancer occupies, and so where this winter review settles, comes from
 3. **[3rd house](/astrology/cancer-on-3rd-house-cusp/):** the way you speak up for family and neighbours; a protective outburst, recalled and softened.
 4. **[4th house](/astrology/cancer-on-4th-house-cusp/):** Cancer’s natural house: home and roots; an old family friction, revisited with more patience than before.
 5. **[5th house](/astrology/cancer-on-5th-house-cusp/):** play, romance and creative work, a house tradition also gave to children; read in an adult’s life, never as a forecast of pregnancy ([Can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)): a tender wish you held back, looked at again.
-6. **[6th house](/astrology/cancer-on-6th-house-cusp/):** looking after others at work; the extra care you give unasked, measured against your own needs.
-7. **[7th house](/astrology/cancer-on-7th-house-cusp/):** Cancer on the Descendant, with Capricorn rising: a partner whose moods steer the pace; who protects whom, talked over.
+6. **[6th house](/astrology/cancer-on-6th-house-cusp/):** caring for colleagues as much as for tasks; the extra care you give unasked, measured against your own needs.
+7. **[7th house](/astrology/cancer-on-7th-house-cusp/):** with Capricorn rising, Cancer sets on the Descendant: a partner whose moods steer the pace; who protects whom, talked over.
 8. **[8th house](/astrology/cancer-on-8th-house-cusp/):** closeness, trust and what is shared; a need for safety you pressed in silence, finally named.
 9. **[9th house](/astrology/cancer-on-9th-house-cusp/):** beliefs inherited from home; a family conviction you defended, examined as your own.
 10. **[10th house](/astrology/cancer-on-10th-house-cusp/):** Cancer on the Midheaven: ambition that looks after people; the effort you put into being needed at work, rethought.

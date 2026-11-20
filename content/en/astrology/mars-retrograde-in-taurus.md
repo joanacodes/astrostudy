@@ -47,7 +47,7 @@ Only [your birth time](/blog/unknown-birth-time/) can place Taurus among your ho
 4. **[4th house](/astrology/taurus-on-4th-house-cusp/):** a home you worked hard for; the family role you never put down, picked up and examined.
 5. **[5th house](/astrology/taurus-on-5th-house-cusp/):** pleasure and handmade creative work; a slow-burning attraction, or a piece you keep reshaping.
 6. **[6th house](/astrology/taurus-on-6th-house-cusp/):** a steady working routine; the extra weight you carry simply because you can, reconsidered.
-7. **[7th house](/astrology/taurus-on-7th-house-cusp/):** Taurus on the Descendant, with Scorpio rising: a partner who stands firm; a long standoff over who gives way, reopened gently.
+7. **[7th house](/astrology/taurus-on-7th-house-cusp/):** with Scorpio rising, Taurus sets on the Descendant: a partner who stands firm; a long standoff over who gives way, reopened gently.
 8. **[8th house](/astrology/taurus-on-8th-house-cusp/):** what two people share and owe each other, a house tradition also tied to death; I read trust and intimacy there, never anyone’s end ([Can astrology predict death?](/astrology/can-astrology-predict-death/)).
 9. **[9th house](/astrology/taurus-on-9th-house-cusp/):** beliefs rooted in experience; a conviction held for years, tested before you defend it again.
 10. **[10th house](/astrology/taurus-on-10th-house-cusp/):** Taurus on the Midheaven: a reputation built brick by brick; the pace of your ambition, reset.

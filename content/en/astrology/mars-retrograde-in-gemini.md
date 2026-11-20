@@ -47,7 +47,7 @@ The house Gemini fills in your chart depends on [your birth time](/blog/unknown-
 4. **[4th house](/astrology/gemini-on-4th-house-cusp/):** a lively, busy home; the household debate that never settles, approached from a new angle.
 5. **[5th house](/astrology/gemini-on-5th-house-cusp/):** wordplay, games and flirtation; a rivalry kept up for fun, seen for what it is.
 6. **[6th house](/astrology/gemini-on-6th-house-cusp/):** workdays full of messages and errands; the habit of saying yes to every task, rethought.
-7. **[7th house](/astrology/gemini-on-7th-house-cusp/):** Gemini on the Descendant, with Sagittarius rising: a partner you spar with in words; an old argument between you, reopened to be understood rather than won.
+7. **[7th house](/astrology/gemini-on-7th-house-cusp/):** with Sagittarius rising, Gemini sets on the Descendant: a partner you spar with in words; an old argument between you, reopened to be understood rather than won.
 8. **[8th house](/astrology/gemini-on-8th-house-cusp/):** talk about trust, desire and what is shared; a hard question you kept postponing, asked more simply.
 9. **[9th house](/astrology/gemini-on-9th-house-cusp/):** debates about belief, study and travel; a cause you argued for loudly, re-examined.
 10. **[10th house](/astrology/gemini-on-10th-house-cusp/):** Gemini on the Midheaven: a working life of many roles; the one you push hardest, chosen again or let go.

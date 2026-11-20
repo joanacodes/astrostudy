@@ -42,15 +42,15 @@ Avec Mars déjà rétrograde en Taureau à la naissance, il s’agit d’un plac
 
 Seule [votre heure de naissance](/blog/unknown-birth-time/) peut situer le Taureau parmi vos maisons : c’est pourquoi je ne lis pas de thème sans elle. En Placidus, le système de maisons que j’utilise, la boucle de 2037 peut commencer dans la maison des Gémeaux et finir dans celle du Taureau.
 
-1. **[Maison I](/astrology/taurus-rising/) :** l’ascendant Taureau : une façon calme et solide d’aborder le monde ; la patience sur laquelle on compte chez vous, vérifiée : vous sert-elle encore ?
+1. **[Maison I](/astrology/taurus-rising/) :** le Taureau à l’ascendant : une façon calme et solide d’aborder le monde ; la patience sur laquelle on compte chez vous, vérifiée : vous sert-elle encore ?
 2. **[Maison II](/astrology/taurus-on-2nd-house-cusp/) :** les biens et l’estime de soi ; l’effort mis à garder ce que vous avez, mis en balance avec ce que vous voulez faire grandir.
 3. **[Maison III](/astrology/taurus-on-3rd-house-cusp/) :** les rues et les habitudes familières ; un point sur lequel vous ne cédez pas, réentendu de l’autre côté.
 4. **[Maison IV](/astrology/taurus-on-4th-house-cusp/) :** un foyer gagné à la sueur de votre front ; le rôle familial jamais posé, repris en main et examiné.
 5. **[Maison V](/astrology/taurus-on-5th-house-cusp/) :** le plaisir et la création faite main ; une attirance qui couve lentement, ou une œuvre que vous remodelez sans cesse.
 6. **[Maison VI](/astrology/taurus-on-6th-house-cusp/) :** une routine de travail régulière ; le poids supplémentaire porté simplement parce que vous le pouvez, reconsidéré.
-7. **[Maison VII](/astrology/taurus-on-7th-house-cusp/) :** le Taureau au descendant, avec l’ascendant Scorpion : une personne qui tient bon ; un long bras de fer pour savoir qui cède, rouvert avec douceur.
+7. **[Maison VII](/astrology/taurus-on-7th-house-cusp/) :** ascendant Scorpion, le Taureau à l’occident : une personne qui tient bon ; un long bras de fer pour savoir qui cède, rouvert avec douceur.
 8. **[Maison VIII](/astrology/taurus-on-8th-house-cusp/) :** ce que deux personnes partagent et se doivent, une maison que la tradition liait aussi à la mort ; j’y lis la confiance et l’intimité, jamais la fin de quiconque ([L’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)).
-9. **[Maison IX](/astrology/taurus-on-9th-house-cusp/) :** des croyances nées de l’expérience ; une conviction tenue depuis des années, éprouvée avant d’être défendue de nouveau.
+9. **[Maison IX](/astrology/taurus-on-9th-house-cusp/) :** des convictions forgées par le vécu ; une conviction tenue depuis des années, éprouvée avant d’être défendue de nouveau.
 10. **[Maison X](/astrology/taurus-on-10th-house-cusp/) :** le Taureau au milieu du ciel : une réputation bâtie pierre après pierre ; le rythme de votre ambition, remis à plat.
 11. **[Maison XI](/astrology/taurus-on-11th-house-cusp/) :** des amis fidèles et des groupes de longue date ; un engagement tenu par habitude, repensé avec eux.
 12. **[Maison XII](/astrology/taurus-on-12th-house-cusp/) :** une rancœur rangée hors de vue ; un grief jamais dit, regardé en privé.

@@ -47,7 +47,7 @@ The house Aries opens in your chart, and so the part of life where this loop pre
 4. **[4th house](/astrology/aries-on-4th-house-cusp/):** a home where you take charge; a project under your roof begun at speed, wanting a second plan.
 5. **[5th house](/astrology/aries-on-5th-house-cusp/):** sport, flirting and creative dares; the need to win even at play, seen with some humour.
 6. **[6th house](/astrology/aries-on-6th-house-cusp/):** Mars’s traditional joy, also given to illness; I read it as daily work, never a forecast about health ([Can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)): the pace you set yourself, brought down to one you can keep.
-7. **[7th house](/astrology/aries-on-7th-house-cusp/):** Aries on the Descendant, with Libra rising: the other person brings the fire, and who leads in the partnership comes up for discussion.
+7. **[7th house](/astrology/aries-on-7th-house-cusp/):** with Libra rising, Aries sets on the Descendant: the other person brings the fire, and who leads in the partnership comes up for discussion.
 8. **[8th house](/astrology/aries-on-8th-house-cusp/):** desire and what you share with someone close; a need you pressed hard, or never voiced, looked at honestly.
 9. **[9th house](/astrology/aries-on-9th-house-cusp/):** a belief you would fight for; a crusade or a journey taken up on impulse, reconsidered.
 10. **[10th house](/astrology/aries-on-10th-house-cusp/):** Aries on the Midheaven: ambition that wants to lead; a bid for a role, rethought before the next push.

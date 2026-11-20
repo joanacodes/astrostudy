@@ -42,13 +42,13 @@ Avec Mars rétrograde en Gémeaux à la naissance, une dispute peut se répéter
 
 La maison qu’occupent les Gémeaux dans votre thème dépend de [votre heure de naissance](/blog/unknown-birth-time/) : sans elle, je ne trace pas les maisons et je ne lis pas le thème. En Placidus, le système de maisons que j’utilise, les boucles de 2007–2008 et de 2037 franchissent chacune une limite de signe : elles peuvent toucher deux maisons.
 
-1. **[Maison I](/astrology/gemini-rising/) :** l’ascendant Gémeaux : une première impression vive et bavarde ; votre façon de défendre votre point de vue, ralentie au rythme de l’écoute.
+1. **[Maison I](/astrology/gemini-rising/) :** les Gémeaux à l’ascendant : une première impression vive et bavarde ; votre façon de défendre votre point de vue, ralentie au rythme de l’écoute.
 2. **[Maison II](/astrology/gemini-on-2nd-house-cusp/) :** les savoir-faire que vous monnayez ; un effort éparpillé entre trop d’activités d’appoint, resserré.
 3. **[Maison III](/astrology/gemini-on-3rd-house-cusp/) :** la maison naturelle des Gémeaux : fratrie, voisinage, petits trajets ; un différend qui court par messages, enfin traité avec soin.
 4. **[Maison IV](/astrology/gemini-on-4th-house-cusp/) :** un foyer animé et affairé ; le débat de famille jamais tranché, abordé sous un nouvel angle.
 5. **[Maison V](/astrology/gemini-on-5th-house-cusp/) :** les jeux de mots, les jeux tout court, la séduction ; une rivalité entretenue pour le plaisir, vue pour ce qu’elle est.
 6. **[Maison VI](/astrology/gemini-on-6th-house-cusp/) :** des journées de travail pleines de messages et de démarches ; l’habitude de dire oui à chaque tâche, repensée.
-7. **[Maison VII](/astrology/gemini-on-7th-house-cusp/) :** les Gémeaux au descendant, avec l’ascendant Sagittaire : une personne avec qui vous croisez le fer en paroles ; une vieille dispute entre vous, rouverte pour être comprise plutôt que gagnée.
+7. **[Maison VII](/astrology/gemini-on-7th-house-cusp/) :** ascendant Sagittaire, les Gémeaux à l’occident : une personne avec qui vous croisez le fer en paroles ; une vieille dispute entre vous, rouverte pour être comprise plutôt que gagnée.
 8. **[Maison VIII](/astrology/gemini-on-8th-house-cusp/) :** parler de confiance, de désir et de ce qui se partage ; une question difficile sans cesse remise, posée plus simplement.
 9. **[Maison IX](/astrology/gemini-on-9th-house-cusp/) :** les débats sur les croyances, les études, les voyages ; une cause défendue haut et fort, réexaminée.
 10. **[Maison X](/astrology/gemini-on-10th-house-cusp/) :** les Gémeaux au milieu du ciel : une vie professionnelle aux rôles multiples ; celui que vous poussez le plus, choisi de nouveau ou laissé.

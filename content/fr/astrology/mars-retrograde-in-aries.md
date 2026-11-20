@@ -42,13 +42,13 @@ Aucune autre n’atteint le Bélier avant 2040. Les signes voisins en frôlent l
 
 La maison qu’ouvre le Bélier dans votre thème, et donc la part de votre vie où cette boucle a mis le frein, dépend de [votre heure de naissance](/blog/unknown-birth-time/), et je ne lis pas de thème sans elle. En Placidus, le système de maisons que j’utilise, 13° de rétrogradation peuvent chevaucher une cuspide : deux lignes voisines peuvent alors vous concerner.
 
-1. **[Maison I](/astrology/aries-rising/) :** l’ascendant Bélier : votre façon d’entrer quelque part au pas de charge ; un premier geste, assez ralenti pour que vous le voyiez venir.
+1. **[Maison I](/astrology/aries-rising/) :** le Bélier à l’ascendant : votre façon d’entrer quelque part au pas de charge ; un premier geste, assez ralenti pour que vous le voyiez venir.
 2. **[Maison II](/astrology/aries-on-2nd-house-cusp/) :** l’élan qui bâtit ce qui est à vous ; un but poursuivi à toute allure, confronté à ce qui compte pour vous.
 3. **[Maison III](/astrology/aries-on-3rd-house-cusp/) :** les répliques rapides et les courses du quotidien ; un échange vif avec un frère, une sœur ou un voisin, rejoué jusqu’à y voir votre part.
 4. **[Maison IV](/astrology/aries-on-4th-house-cusp/) :** un foyer où vous prenez les commandes ; un projet lancé chez vous à toute vitesse, qui réclame un second plan.
 5. **[Maison V](/astrology/aries-on-5th-house-cusp/) :** le sport, la séduction, les défis créatifs ; le besoin de gagner même au jeu, regardé avec humour.
 6. **[Maison VI](/astrology/aries-on-6th-house-cusp/) :** la joie traditionnelle de Mars, maison que la tradition donnait aussi à la maladie ; j’y lis le travail quotidien, jamais une prédiction de santé ([L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)) : votre rythme, ramené à un rythme tenable.
-7. **[Maison VII](/astrology/aries-on-7th-house-cusp/) :** le Bélier au descendant, avec l’ascendant Balance : l’autre apporte le feu, et qui mène dans le couple se discute.
+7. **[Maison VII](/astrology/aries-on-7th-house-cusp/) :** ascendant Balance, le Bélier à l’occident : l’autre apporte le feu, et qui mène dans le couple se discute.
 8. **[Maison VIII](/astrology/aries-on-8th-house-cusp/) :** le désir et ce que vous partagez avec un proche ; un besoin trop pressé, ou jamais dit, regardé franchement.
 9. **[Maison IX](/astrology/aries-on-9th-house-cusp/) :** une conviction pour laquelle vous vous battriez ; une croisade ou un voyage entrepris sur un coup de tête, reconsidérés.
 10. **[Maison X](/astrology/aries-on-10th-house-cusp/) :** le Bélier au milieu du ciel : une ambition qui veut mener ; une candidature à un rôle, repensée avant le prochain élan.
@@ -59,4 +59,4 @@ La maison qu’ouvre le Bélier dans votre thème, et donc la part de votre vie 
 
 J’aime que cette révision passe par le corps autant que par la tête : une longue marche ou une nage soutenue dépensent une agitation encore sans cible. Revenez ensuite à ce qui a été commencé puis laissé : le Bélier lance plus qu’il ne termine, et ces semaines aident à choisir quels départs méritent encore votre effort.
 
-Regardez aussi la maison qu’occupe Mars dans votre thème natal : là vit votre élan, et sa révision y trouve souvent un écho. Si la colère remonte, elle vous appartient, à vous et à la situation, pas au ciel : la dire simplement coûte moins que la ravaler ou la jeter à la figure de quelqu’un. Rien de tout cela ne décide d’une issue : cela décrit une saison où le plus rapide des signes se demande vers quoi il courait.
+Regardez aussi la maison qu’occupe Mars dans votre thème natal : là vit votre élan, et sa révision y trouve souvent un écho. Si la colère remonte, elle vous appartient, à vous et à la situation, pas au ciel : la dire simplement coûte moins que la ravaler ou la jeter à la figure de quelqu’un. Aucune issue ne s’y décide : cela décrit une saison où le plus rapide des signes se demande vers quoi il courait.
