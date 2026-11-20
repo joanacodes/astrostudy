@@ -49,6 +49,8 @@ Le nœud que vous suivez change la forme du retour, pas son âge ([nœud moyen e
 - **Le nœud moyen** recule à vitesse constante : il franchit votre degré natal une seule fois, à une date précise.
 - **Le nœud vrai** oscille autour du nœud moyen : il peut passer votre degré natal, revenir en arrière, puis le repasser. Le retour se lit alors comme une période où le passage exact se produit plus d’une fois.
 
+Je regarde les deux : la date du nœud moyen dit quand le retour est exact en moyenne, les passages du nœud vrai disent combien de temps dure la saison.
+
 Les nœuds entraînent aussi les éclipses. Une éclipse a lieu quand une nouvelle ou une pleine lune tombe près des nœuds : pendant la saison d’un retour, les éclipses retombent dans le même couple de signes qu’autour de votre naissance, et dans le même couple de vos maisons. C’est l’une des raisons pour lesquelles on lit le retour comme un thème qui s’aligne sur lui-même.
 
 L’âge ne demande que la date de naissance. Les maisons, les angles que les nœuds croisent en revenant, les maisons qu’éclairent les éclipses, tout cela dépend de l’heure de naissance ; [sans elle](/blog/unknown-birth-time/), rien dans le thème ne permet de situer le retour, et je ne lis pas un thème dans ces conditions.

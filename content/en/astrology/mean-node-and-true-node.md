@@ -44,7 +44,7 @@ The gap between them is a degree or two at most. That's small enough that most c
 
 ## How it works {#how-it-works}
 
-The Moon's orbit is tilted to the Sun's path, so the Moon crosses that path twice a month. The Sun's pull slowly swings the whole orbit round, and the crossing points slide backwards. That slide isn't even, though: the pull changes as the Sun and Moon change places, so the real crossing point wobbles around its average. The mean node smooths the wobble out; the true node keeps it. Jean Meeus's *Astronomical Algorithms* gives the method for both, which is what astrology software builds on.
+The Moon's orbit is tilted to the Sun's path, so the Moon crosses that path twice a month. The Sun's pull slowly swings the whole orbit round, and the crossing points slide backwards. That slide isn't even, though: the pull changes as the Sun and Moon change places, so the real crossing point wobbles around its average. The mean node smooths the wobble out; the true node keeps it. Jean Meeus's *Astronomical Algorithms* sets out how to calculate both.
 
 What the difference can change:
 

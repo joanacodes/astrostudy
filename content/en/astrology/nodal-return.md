@@ -48,6 +48,8 @@ Which node you follow changes the shape of the return, not its age ([mean node a
 - **The mean node** moves backwards at an even pace, so it crosses your natal degree once, on a single date.
 - **The true node** wobbles around the mean one, so it can pass your natal degree, pull back, and pass it again. The return then reads as a stretch of time with more than one exact crossing.
 
+I look at both: the mean node's date says when the return is exact on average, and the true node's passes say how long the season runs.
+
 The nodes also carry the eclipses. An eclipse happens when a new or full moon falls near the nodes, so in the season of a return the eclipses fall in the same pair of signs as around your birth, and in the same pair of your houses. That is part of why the return is read as the chart lining up with itself.
 
 The age needs nothing but the birth date. The houses, the angles the nodes cross on their way back, and the houses the eclipses light up all depend on the birth time; [without it](/blog/unknown-birth-time/), there's nothing in the chart to set the return against, and I don't read a chart that way.

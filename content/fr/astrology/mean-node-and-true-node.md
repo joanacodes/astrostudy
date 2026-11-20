@@ -45,7 +45,7 @@ L’écart entre les deux ne dépasse pas un ou deux degrés. C’est assez peu 
 
 ## Comment ça marche {#comment-ca-marche}
 
-L’orbite de la Lune est inclinée sur la trajectoire du Soleil : la Lune la traverse donc deux fois par mois. L’attraction du Soleil fait lentement tourner toute l’orbite, et les points de croisement glissent à reculons. Ce glissement n’a rien de régulier : l’attraction varie à mesure que le Soleil et la Lune changent de place, si bien que le croisement réel oscille autour de sa moyenne. Le nœud moyen gomme cette oscillation, le nœud vrai la garde. Jean Meeus, dans *Astronomical Algorithms*, donne la méthode pour l’un et l’autre, et c’est sur elle que s’appuient les logiciels d’astrologie.
+L’orbite de la Lune est inclinée sur la trajectoire du Soleil : la Lune la traverse donc deux fois par mois. L’attraction du Soleil fait lentement tourner toute l’orbite, et les points de croisement glissent à reculons. Ce glissement n’a rien de régulier : l’attraction varie à mesure que le Soleil et la Lune changent de place, si bien que le croisement réel oscille autour de sa moyenne. Le nœud moyen gomme cette oscillation, le nœud vrai la garde. Jean Meeus, dans *Astronomical Algorithms*, explique comment calculer l’un et l’autre.
 
 Ce que l’écart peut changer :
 
