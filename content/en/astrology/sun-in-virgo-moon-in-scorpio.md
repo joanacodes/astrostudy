@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 68
 glyph: "☉♍☽♏"
-definition: "Sun in Virgo, Moon in Scorpio joins mutable earth and fixed water a sextile apart, at a birth while a young crescent stood in the evening sky. The Moon is in its fall; Mercury rules the Sun’s sign. I read it as close attention with depth behind it: you see the small thing, and feel what it means."
+definition: "Sun in Virgo, Moon in Scorpio joins mutable earth and fixed water a sextile apart, at a birth while a young crescent hung low in the west after sunset. The Moon is in its fall; Mercury rules the Sun’s sign. I read it as close attention with depth behind it: you see the small thing, and feel what it means."
 facts:
   - { k: "Sun sign", v: "Virgo ♍, ruled by Mercury" }
   - { k: "Moon sign", v: "Scorpio ♏, ruled by Pluto and Mars; the Moon’s fall" }
@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s lead over the Sun" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the waxing crescent in the first week of the lunar month" }
 ---
-A Virgo Sun notices the detail everyone else missed; a Scorpio Moon needs to know what lies under the surface before it can rest. The Moon was a young crescent in the evening sky when you were born, and I read the pair as close attention with depth behind it: you see the small thing, and you feel what it means.
+A Virgo Sun notices the detail everyone else missed; a Scorpio Moon can't rest until it knows what is going on beneath the surface. The Moon was a young crescent in the evening sky when you were born, and I read the pair as close attention with depth behind it: you see the small thing, and you feel what it means.
 
 ## How they get along {#how-they-get-along}
 
