@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mercury-retrograde", "/astrology/libra", "/astrology/mercury-in-libra", "/astrology/7th-house", "/blog/retrograde-planets"]
 faq:
   - q: "When is Mercury retrograde in Libra next?"
-    a: "From 7 to 28 October 2027, starting at 4°55′ Scorpio and ending at 19°18′ Libra. It opens a run of three: 19 September to 11 October 2028, wholly in Libra, and then 2 to 25 September 2029, from Libra into Virgo. The most recent ran from 10 September to 2 October 2022."
+    a: "From 7 to 28 October 2027, starting at 4°55′ Scorpio and ending at 19°18′ Libra. It opens a run of three: 19 September to 11 October 2028, wholly in Libra, and then 2 to 25 September 2029, from Libra into Virgo. The last was from 10 September to 2 October 2022."
   - q: "What does Mercury retrograde in Libra mean?"
     a: "Astrologers read it as weeks when Mercury’s diplomatic, weighing side turns back: agreements, compromises and conversations between two people come round for a second hearing. I read it as balance being checked, never as a prediction about a relationship."
   - q: "How long does Mercury retrograde in Libra last?"

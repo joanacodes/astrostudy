@@ -22,17 +22,17 @@ faq:
   - q: "Is a Sagittarius Sun with a Cancer Moon torn between home and travel?"
     a: "It can feel that way. The Sagittarius Sun wants distance, ideas and room; the Cancer Moon, in its own sign, needs a home base and people to shelter. With neither element nor modality in common, neither gives way by itself. Many people with the pair do best with a home they leave often and always come back to."
   - q: "Which lunar phase goes with Sun in Sagittarius, Moon in Cancer?"
-    a: "The days just after a full moon. The Moon was 181° to 239° ahead of the Sun, fifteen to nineteen and a half days after the new moon. About seven of these births in eight fall in the full moon phase of the eight, and the rest in the disseminating phase that follows."
+    a: "The days just after a full moon. The Moon was 181° to 239° ahead of the Sun, fifteen to nineteen and a half days after the new moon. Seven births in eight with this pair land in the full moon phase of the eight, one in eight in the disseminating phase after it."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the Moon’s domicile in Cancer and Jupiter’s exaltation there" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s distance from the Sun" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the full moon and the waning days after it" }
 ---
-Tradition gives Jupiter its exaltation in Cancer, and Jupiter rules Sagittarius: with this pair, the planet your Sun answers to is honoured in your Moon's sign. You were born just after a full moon. I read the pair as a travelling life with a home port, a wide self that grows by looking after people.
+Tradition gives Jupiter its exaltation in Cancer, and Jupiter rules Sagittarius: with this pair, the planet your Sun answers to is honoured in your Moon's sign. You were born just after a full moon, and the pair reads to me as a travelling life with a home port, a wide self that grows by looking after people.
 
 ## How they get along {#how-they-get-along}
 
-Cancer lies seven signs on from Sagittarius, five counting back: a [quincunx](/astrology/quincunx/) by sign, mutable fire for the Sun and cardinal water for the Moon, nothing shared, so the two adjust to each other rather than blend. The [Sun in Sagittarius](/astrology/sun-in-sagittarius/) looks far afield for a meaning large enough to live by; the [Moon in Cancer](/astrology/moon-in-cancer/) keeps its circle close and its door open to that circle: the spare room made up, the phone answered at midnight, the family recipe kept going. You may spend the year planning a journey and the evening checking that everyone at home is all right.
+Cancer lies seven signs on from Sagittarius, five counting back: a [quincunx](/astrology/quincunx/) by sign between mutable fire and cardinal water, nothing shared, so the two adjust to each other rather than blend. The [Sun in Sagittarius](/astrology/sun-in-sagittarius/) looks far afield for a meaning large enough to live by; the [Moon in Cancer](/astrology/moon-in-cancer/) keeps its circle close and its door open to that circle: the spare room made up, the phone answered at midnight, the family recipe kept going. You may spend the year planning a journey and the evening checking that everyone at home is all right.
 
 The dignities are what make this pair unusual. The Moon rules Cancer, so it is in its [domicile](/astrology/domicile/), with no other planet to consult: its own house and aspects carry it. [Jupiter](/astrology/jupiter/), your Sun's ruler, has its [exaltation](/astrology/exaltation/) in Cancer, the sign where tradition honours it most. So purpose and need share a meeting point: what you look for far away tends to grow fastest once it's brought home and used to care for someone. Jupiter spends about a year in each sign, so its house, from your birth time, is what makes it personal.
 

@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et l’écart entre les deux luminaires" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "la pleine lune et les jours gibbeux qui la précèdent" }
 ---
-Les Gémeaux rassemblent les questions ; le Sagittaire part en quête de la réponse. Votre Lune et votre Soleil se tiennent aux deux bouts de cet axe, et votre naissance a eu lieu près d’une pleine lune, le plus souvent la pleine lune en Gémeaux, la dernière avant le solstice de décembre. Je lis ce duo comme un esprit qui questionne et un moi qui répond, l’un ayant besoin de l’autre.
+Les Gémeaux rassemblent les questions ; le Sagittaire part en quête de la réponse. Votre Lune et votre Soleil se tiennent aux deux bouts de cet axe, et votre naissance a eu lieu près d’une pleine lune, le plus souvent la pleine lune en Gémeaux, la dernière avant le solstice de décembre. Voici un esprit qui questionne et un moi qui répond, l’un ayant besoin de l’autre.
 
 ## Comment ils s’accordent {#comment-ils-s-accordent}
 

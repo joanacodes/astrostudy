@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/mercury-retrograde", "/astrology/leo", "/astrology/mercury-in-leo", "/astrology/sun", "/blog/retrograde-planets"]
 faq:
   - q: "Quand aura lieu la prochaine rétrogradation de Mercure en Lion ?"
-    a: "Pas avant le 29 juillet 2031 : le Lion n’en connaît aucune entre 2026 et 2030, sa plus longue pause. Celle-là dure jusqu’au 22 août 2031, tout entière en Lion, et la suivante, du 10 juillet au 3 août 2032, part du Lion pour finir en Cancer. La plus récente a eu lieu du 18 juillet au 11 août 2025."
+    a: "Pas avant le 29 juillet 2031 : le Lion n’en connaît aucune entre 2026 et 2030, sa plus longue pause. Celle-là dure jusqu’au 22 août 2031, tout entière en Lion, et la suivante, du 10 juillet au 3 août 2032, part du Lion pour finir en Cancer. La dernière en date allait du 18 juillet au 11 août 2025."
   - q: "Que veut dire Mercure rétrograde en Lion ?"
     a: "Les astrologues y lisent des semaines où le côté expressif et conteur de Mercure fait marche arrière : discours, présentations et créations sont revus, et la façon dont vous racontez votre propre histoire se fait réentendre. J’y lis une répétition dans une maison de votre thème plutôt qu’une prédiction."
   - q: "Combien de temps dure Mercure rétrograde en Lion ?"

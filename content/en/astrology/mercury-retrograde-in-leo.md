@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/mercury-retrograde", "/astrology/leo", "/astrology/mercury-in-leo", "/astrology/sun", "/blog/retrograde-planets"]
 faq:
   - q: "When is the next Mercury retrograde in Leo?"
-    a: "Not until 29 July 2031: Leo has none between 2026 and 2030, the longest pause in its list. That one runs to 22 August 2031, wholly in Leo, and the next, from 10 July to 3 August 2032, starts in Leo and ends in Cancer. The most recent ran from 18 July to 11 August 2025."
+    a: "Not until 29 July 2031: Leo has none between 2026 and 2030, the longest pause in its list. That one runs to 22 August 2031, wholly in Leo, and the next, from 10 July to 3 August 2032, starts in Leo and ends in Cancer. Leo’s most recent one ran from 18 July to 11 August 2025."
   - q: "What does Mercury retrograde in Leo mean?"
     a: "Astrologers read it as weeks when Mercury’s expressive, storytelling side turns back on itself: speeches, presentations and creative work are revised, and the way you tell your own story is heard again. I read it as a rehearsal in one house of your chart rather than a forecast."
   - q: "How long does Mercury retrograde in Leo last?"

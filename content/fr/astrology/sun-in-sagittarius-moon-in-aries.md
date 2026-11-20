@@ -22,14 +22,14 @@ faq:
     a: "À un mélange de franchise, de vitesse et d’espoir. Le Soleil en Sagittaire s’organise autour d’une direction qui vaut d’être suivie ; la Lune en Bélier retrouve son équilibre en bougeant. Les deux sont de feu : le but et l’élan s’accordent d’ordinaire. Le soin à prendre : le rythme, le repos, l’horloge plus lente des autres, les émotions qu’il faut attendre."
   - q: "Le Soleil en Sagittaire et la Lune en Bélier forment-ils un trigone de feu ?"
     a: "Par signe, oui. Le Bélier se trouve quatre signes après le Sagittaire : les deux luminaires partagent un élément et sont en trigone par signe. Le trigone exact dépend des degrés : avec une Lune environ 120° devant le Soleil, presque dix jours après la nouvelle lune, votre thème porte un Soleil trigone Lune croissant."
-  - q: "Dans quelle phase était la Lune à une naissance Soleil en Sagittaire, Lune en Bélier ?"
-    a: "Au-delà du premier quartier, et encore croissante. La Lune avait 91° à 149° d’avance sur le Soleil, sept jours et demi à douze jours après le début du mois lunaire. Dans les huit phases que comptent beaucoup d’astrologues, environ sept de ces naissances sur huit tombent dans le premier quartier, les autres dans la phase gibbeuse qui suit."
+  - q: "Quel âge avait le mois lunaire à une naissance Soleil en Sagittaire, Lune en Bélier ?"
+    a: "Au-delà du premier quartier, et encore croissante. La Lune avait 91° à 149° d’avance sur le Soleil, sept jours et demi à douze jours après le début du mois lunaire. Dans les huit phases que comptent beaucoup d’astrologues, la plupart de ces naissances relèvent du premier quartier, et une sur huit environ de la phase gibbeuse qui suit."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les signes de feu, la maîtrise de Jupiter sur le Sagittaire et celle de Mars sur le Bélier" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et l’avance de la Lune sur le Soleil" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "le premier quartier et la Lune croissante qui le suit" }
 ---
-Certains thèmes se disputent sur la direction à prendre. Celui-ci, rarement : un Soleil en Sagittaire choisit l’horizon lointain, une Lune en Bélier vous fait passer la porte, et les deux sont de feu. Je lis ce duo comme un but lointain et un premier pas rapide qui s’entendent, et s’arrêtent rarement.
+Certains thèmes se disputent sur la direction à prendre. Celui-ci, rarement : un Soleil en Sagittaire choisit l’horizon lointain, une Lune en Bélier vous fait passer la porte, et les deux sont de feu. Pour moi, ce duo est un but lointain et un premier pas rapide qui s’entendent, et s’arrêtent rarement.
 
 ## Comment ils s’accordent {#comment-ils-s-accordent}
 
@@ -39,7 +39,7 @@ Aucun des deux luminaires n’a de dignité ici ; ce qui les relie, ce sont le
 
 Votre naissance a eu lieu dans la semaine qui suit une demi-lune. La Lune s’était éloignée de 91° à 149° du Soleil, sept jours et demi à douze jours après la nouvelle lune, et elle était levée le soir, plus qu’à moitié éclairée. Environ sept de ces naissances sur huit tombent dans le [premier quartier](/astrology/first-quarter-moon/) du compte en huit phases, les autres dans la [lune gibbeuse croissante](/astrology/waxing-gibbous-moon/). Vers 120°, les luminaires forment un [Soleil trigone Lune](/astrology/sun-trine-moon/) croissant : le trigone par signe devient exact. Je lis une naissance de premier quartier dans deux signes de feu comme un besoin qui a déjà décidé d’agir, et [votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) explique comment se découpe le mois.
 
-Environ 1 personne sur 148 a ce duo. Si la Lune quittait les Poissons ou gagnait le Taureau le jour de votre anniversaire, c’est l’heure qui choisit entre cette page, le [Soleil en Sagittaire, Lune en Poissons](/astrology/sun-in-sagittarius-moon-in-pisces/) et le [Soleil en Sagittaire, Lune en Taureau](/astrology/sun-in-sagittarius-moon-in-taurus/) ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/#la-lune)). La même heure donne l’ascendant, troisième trait de l’esquisse que commencent les deux luminaires, et les maisons de Jupiter et de Mars : c’est pourquoi je ne lis pas un thème sans elle.
+Environ 1 personne sur 148 a ce duo. Si la Lune quittait les Poissons ou gagnait le Taureau le jour de votre anniversaire, c’est l’heure qui choisit entre cette page, le [Soleil en Sagittaire, Lune en Poissons](/astrology/sun-in-sagittarius-moon-in-pisces/) et le [Soleil en Sagittaire, Lune en Taureau](/astrology/sun-in-sagittarius-moon-in-taurus/) ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/#la-lune)). La même heure donne l’ascendant, troisième trait de l’esquisse que commencent les deux luminaires, et les maisons de Jupiter et de Mars : une raison de plus pour ne commencer aucune lecture sans elle.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 

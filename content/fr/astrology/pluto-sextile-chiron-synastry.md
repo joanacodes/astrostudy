@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 362
 glyph: "♇⚹⚷"
-definition: "Pluton sextile Chiron en synastrie est un angle de 60°, à 2,4° près, entre Pluton dans un thème et Chiron dans un autre. La capacité de renouveau profond de l’une offre à l’autre la place de revoir une vieille adaptation, sans la forcer. J’y vois une invitation discrète, à lire dans les maisons plutôt qu’à compter."
+definition: "Pluton sextile Chiron en synastrie : environ 60°, à 2,4° près, de Pluton dans un thème à Chiron dans un autre. La capacité de renouveau profond de l’une offre à l’autre la place de revoir une vieille adaptation, sans la forcer. J’y vois une invitation discrète, à lire dans les maisons plutôt qu’à compter."
 facts:
   - { k: "Corps", v: "Pluton ♇ de l’une, Chiron ⚷ de l’autre" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -32,7 +32,7 @@ Tous les changements profonds n’ont pas à commencer par une crise. Pluton sex
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Pluton](/astrology/pluto/) incarne le renouveau en profondeur : laisser aller ce qui a fait son temps, se régénérer, faire grandir une capacité d’agir vraiment à soi. [Chiron](/astrology/chiron/) décrit l’adaptation à une limite qui persiste : des compensations, des méthodes ajustées, une sagesse pratique gagnée en vivant à côté d’une difficulté. Un [sextile](/astrology/sextile/) les relie par l’occasion et la coopération, et dans les [aspects de synastrie](/astrology/synastry-aspects/), l’occasion passe entre deux personnes, qui en tiennent chacune la moitié.
+[Pluton](/astrology/pluto/) incarne le renouveau en profondeur : laisser aller ce qui a fait son temps, se régénérer, faire grandir une capacité d’agir vraiment à soi. [Chiron](/astrology/chiron/) décrit l’adaptation à une limite qui persiste : des compensations, des méthodes ajustées, une sagesse pratique gagnée en vivant à côté d’une difficulté. Un [sextile](/astrology/sextile/) leur offre une occasion de coopérer ; dans les [aspects de synastrie](/astrology/synastry-aspects/), cette occasion se partage, chaque personne en tenant la moitié.
 
 Pour la personne de Chiron, le vieux détour commence à paraître négociable plutôt que menacé. Cette personne voit ce que vous avez bâti autour de votre difficulté et ne se presse pas de le juger ; elle rend simplement sûr d’essayer autre chose, et de revenir en arrière si cela ne vous va pas.
 
@@ -53,7 +53,7 @@ Autour de la même paire :
 
 Formulez l’offre à voix haute, une fois, et laissez-la tenir. Si Pluton est de votre côté, essayez « si un jour tu veux voir cela autrement, je suis là », et pensez vraiment ce « si ». Si Chiron est le vôtre, choisissez une petite chose à revoir et traitez-la comme un essai qu’on peut défaire. Des frères et sœurs adultes peuvent se servir de ce sextile pour mettre à jour de vieux rôles de famille ; des amis, pour essayer ce que l’un des deux avait exclu ; des collègues, pour repenser une méthode bâtie autour d’une limite.
 
-Des naissances à quelques mois d’écart peuvent le partager : une naissance du milieu de 1995, avec Pluton à la fin du Scorpion, le trouve chez les personnes nées de décembre 1994 à février 1995 et en août et septembre 1995, dont Chiron se tient à 60°, et chez celles nées de février à juillet 1954. Son Chiron, à son tour, se trouve à 60° de Pluton chez toutes les naissances d’octobre 1991 à décembre 1992, et chez celles de juin 1931 à août 1933. Les contacts de ce genre, étalés sur des périodes entières, n’entrent pas dans mon décompte de synastrie, qui ne prend que ceux qui touchent le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel ; ses maisons montrent une époque qui propose à une autre une nouvelle manière de vivre avec ce qui dure.
+Des naissances à quelques mois d’écart peuvent le partager : un thème du milieu de 1995, Pluton dans les derniers degrés du Scorpion, le partage avec les personnes nées de décembre 1994 à février 1995 et en août et septembre 1995, dont Chiron se tient à 60°, et chez celles nées de février à juillet 1954. Son Chiron, à son tour, se trouve à 60° de Pluton chez toutes les naissances d’octobre 1991 à décembre 1992, et chez celles de juin 1931 à août 1933. Étalés sur des périodes entières, les contacts de ce genre restent en marge de mon décompte de synastrie, réservé à ceux qui touchent le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel ; ses maisons montrent une époque qui propose à une autre une nouvelle manière de vivre avec ce qui dure.
 
 Les deux corps sont trop lents pour que l’heure de naissance compte dans ce sextile ; ses maisons, si, et elles demandent les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

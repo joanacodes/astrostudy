@@ -20,15 +20,15 @@ faq:
   - q: "What is a Sagittarius Sun with an Aries Moon like?"
     a: "Often frank, quick and hopeful in the same breath. The Sagittarius Sun organises itself around a direction worth following; the Aries Moon gets its balance back by moving. Both are fire, so aim and impulse usually agree. The care to take is pace: rest, other people’s slower clocks, and the feelings that need waiting for."
   - q: "Is Sun in Sagittarius, Moon in Aries a fire trine?"
-    a: "By sign, yes. Aries is four signs on from Sagittarius, so the two lights share an element and sit in a trine by sign. An exact trine depends on the degrees: born with the Moon about 120° ahead, nearly ten days after the new moon, you have a waxing Sun trine Moon."
-  - q: "What phase was the Moon in at a Sun in Sagittarius, Moon in Aries birth?"
-    a: "Past the first quarter and still growing. The Moon was 91° to 149° ahead of the Sun, seven and a half to twelve days into the lunar month. In the eight phases many astrologers count, about seven of these births in eight fall in the first quarter phase, the rest in the gibbous phase after it."
+    a: "By sign, yes. Counting from Sagittarius, Aries is the fourth sign on, so the two lights share an element and sit in a trine by sign. An exact trine depends on the degrees: born with the Moon about 120° ahead, nearly ten days after the new moon, you have a waxing Sun trine Moon."
+  - q: "How old was the lunar month at a Sun in Sagittarius, Moon in Aries birth?"
+    a: "Past the first quarter and still growing. The Moon was 91° to 149° ahead of the Sun, seven and a half to twelve days into the lunar month. In the eight phases many astrologers count, most of these births belong to the first quarter phase and about one in eight to the gibbous phase after it."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the fire signs, Jupiter’s rule of Sagittarius and Mars’s of Aries" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and how far ahead of the Sun the Moon was" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the first quarter and the growing Moon after it" }
 ---
-Some charts argue with themselves about where to go. This one seldom does: a Sagittarius Sun picks the far horizon, an Aries Moon gets you out of the door, and both are fire. I read the pair as a far aim and a quick first step that agree, and seldom stop to rest.
+Some charts argue with themselves about where to go. This one seldom does: a Sagittarius Sun picks the far horizon, an Aries Moon gets you out of the door, and both are fire. To me the pair is a far aim and a quick first step that agree, and seldom stop to rest.
 
 ## How they get along {#how-they-get-along}
 
@@ -38,7 +38,7 @@ Neither light has a dignity here; what ties them is their rulers. [Jupiter](/ast
 
 You arrived in the week after a half moon. The Moon had moved 91° to 149° ahead of the Sun, seven and a half to twelve days after the new moon, and it was up in the evening sky, more than half lit. About seven of these births in eight fall in the [first quarter moon](/astrology/first-quarter-moon/) as astrologers who count eight phases divide the month, the rest in the [waxing gibbous moon](/astrology/waxing-gibbous-moon/). Around 120°, nearly ten days in, the lights form a waxing [Sun trine Moon](/astrology/sun-trine-moon/), the trine by sign made exact. I read a first quarter birth in two fire signs as a need that has already decided to act, and [your birth lunar phase](/astrology/your-birth-lunar-phase/) explains how the month is cut.
 
-About 1 person in 148 has this pair. If the Moon left Pisces or reached Taurus on your birthday, the hour you were born decides between this page, the [Sun in Sagittarius, Moon in Pisces](/astrology/sun-in-sagittarius-moon-in-pisces/) and the [Sun in Sagittarius, Moon in Taurus](/astrology/sun-in-sagittarius-moon-in-taurus/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). The same hour gives the rising sign, the third line of the sketch the two lights begin, and the houses of Jupiter and Mars, which is why I don't read a chart without it.
+About 1 person in 148 has this pair. If the Moon left Pisces or reached Taurus on your birthday, the hour you were born decides between this page, the [Sun in Sagittarius, Moon in Pisces](/astrology/sun-in-sagittarius-moon-in-pisces/) and the [Sun in Sagittarius, Moon in Taurus](/astrology/sun-in-sagittarius-moon-in-taurus/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). The same hour gives the rising sign, the third line of the sketch the two lights begin, and the houses of Jupiter and Mars: one more reason I won't begin a reading without it.
 
 ## In close relationships {#in-close-relationships}
 

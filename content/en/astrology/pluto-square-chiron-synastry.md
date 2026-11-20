@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 363
 glyph: "♇□⚷"
-definition: "In synastry, Pluto square Chiron sets one chart’s Pluto at right angles to another chart’s Chiron, within 3.4°. One person’s urge to change things at the root presses on what the other has learned to work around, and both have to sort what can go from what stays. I read it as friction that teaches that difference, slowly."
+definition: "In synastry, Pluto square Chiron sets one chart’s Pluto at right angles to another chart’s Chiron, within 3.4°. One person’s drive to change things from the root presses on what the other has learned to work around, and both have to sort what can go from what stays. I read it as friction that teaches that difference, slowly."
 facts:
   - { k: "Bodies", v: "One person’s Pluto ♇, the other’s Chiron ⚷" }
   - { k: "Aspect", v: "Square □, 90°" }
@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the square, 90°, one of the four aspects he sets out" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that square one person’s Pluto with another’s Chiron, within 3.4°" }
 ---
-"Why don't you just change it?" is a fair question, and sometimes the wrong one. Pluto square Chiron in synastry sets one person's Pluto at right angles to the other's Chiron, and the friction runs between a push for deep change and a difficulty that has to be lived with.
+"Why don't you just change it?" is a fair question, and sometimes the wrong one. Pluto square Chiron in synastry crosses one person's Pluto with the other's Chiron at a right angle, and the friction runs between a push for deep change and a difficulty that has to be lived with.
 
 ## What flows {#what-flows}
 
@@ -39,7 +39,7 @@ The friction's gift is discernment. Over time the Pluto person learns that some 
 
 If the Chiron is yours, this person keeps pressing on what you've made peace with. Their certainty that it could all be different can feel like not being seen: as if the care and skill you've put into living with your difficulty were only a delay. You may dig in harder than you mean to.
 
-If the Pluto is yours, the other's acceptance can look like giving up. You offer a way out and meet a wall; you name what isn't working and hear "it works for me". It's easy to feel that your honesty is unwelcome, or to push harder, which never helps. A square is friction, not failure, and both of you hold half of the truth: some things should change, and some should be lived with.
+If the Pluto is yours, the other's acceptance can look like giving up. You offer a way out and meet a wall; you name what isn't working and hear "it works for me". It's easy to feel that your honesty is unwelcome, or to push harder, which never helps. This is friction, not failure, and both of you hold half of the truth: some things should change, and some should be lived with.
 
 Elsewhere around the pair:
 
@@ -54,6 +54,6 @@ Sort before you act. Together, list what the Chiron person would like to change 
 
 Consider a birth in mid-1985: its Pluto, early in Scorpio, squares the Chiron of people born from July to September 1991 and from February to May 1992, and of people born from January 1955 to January 1956. Their Chiron, for its part, squares the Pluto of anyone born from June 1962 to September 1964, a parent's generation, with Pluto then in Virgo. Since it is carried by such long spells of births, I leave it out when I count a synastry's contacts, which must each involve the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven; read through the houses, it shows two eras disagreeing about what can be fixed.
 
-No hour of birth makes or breaks this square; the houses it joins need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
+Birth hours can't create or cancel this square; the houses it joins need both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 When one chart holds [Pluto square Chiron](/astrology/pluto-square-chiron/), a person argues this out with themselves. Between two, the argument has two voices, and I open it only when both want to hear it ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

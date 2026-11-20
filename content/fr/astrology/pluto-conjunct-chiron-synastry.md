@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 361
 glyph: "♇☌⚷"
-definition: "En synastrie, Pluton conjonction Chiron amène Pluton, chez une personne, à moins de 4° du Chiron de l’autre. Le besoin de tout renouveler à la racine rencontre l’endroit où l’autre a appris à s’adapter à une limite durable, ce qui peut libérer un vieux détour ou trop appuyer dessus. Je le lis lentement, par les maisons, avec l’accord des deux."
+definition: "En synastrie, Pluton conjonction Chiron rapproche à 4° au plus Pluton, chez une personne, du Chiron de l’autre. Le besoin de tout renouveler à la racine rencontre l’endroit où l’autre a appris à s’adapter à une limite durable, ce qui peut libérer un vieux détour ou trop appuyer dessus. Je le lis lentement, par les maisons, avec l’accord des deux."
 facts:
   - { k: "Corps", v: "Pluton ♇ de l’une, Chiron ⚷ de l’autre" }
   - { k: "Aspect", v: "Conjonction ☌, 0°" }
@@ -41,7 +41,7 @@ Du côté de Pluton, l’endroit sensible de l’autre capte toute votre attenti
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-Avec une conjonction, on ne sait plus très bien à qui appartient le changement. La personne de Pluton peut faire de la difficulté de l’autre une cause, avec un plan pour la transformer ; celle de Chiron peut confier son endroit sensible à l’intensité d’une autre et perdre son mot à dire. Certaines limites se vivent à côté plutôt qu’elles ne se surmontent, et certaines adaptations sont des savoir-faire, pas des symptômes. Personne ne fait de mal ; la profondeur est simplement arrivée avant d’être invitée.
+Avec une conjonction, on ne sait plus très bien à qui appartient le changement. Celle ou celui qui porte Pluton peut adopter la difficulté de l’autre comme une cause, avec un plan pour la transformer ; celle de Chiron peut confier son endroit sensible à l’intensité d’une autre et perdre son mot à dire. Certaines limites se vivent à côté plutôt qu’elles ne se surmontent, et certaines adaptations sont des savoir-faire, pas des symptômes. Personne ne fait de mal ; la profondeur est simplement arrivée avant d’être invitée.
 
 Les mêmes à d’autres distances :
 
@@ -54,7 +54,7 @@ Les mêmes à d’autres distances :
 
 C’est à la personne de Chiron de fixer le rythme et l’ordre du jour : c’est toute la règle. Si Pluton est de votre côté, demandez avant de creuser, et prenez ses détours pour un savoir plutôt que pour une résistance. Si Chiron est le vôtre, dites de quelle vieille façon de faire face vous seriez heureuse ou heureux de vous défaire, et laquelle vous gardez. Une mentore et son apprenti peuvent bien s’en servir, tout comme de vieux amis qui se sont vus traverser des changements, ou un couple prêt à aller lentement.
 
-Une naissance du milieu de 1945 montre comment jouent les dates. Pluton, en Lion, y reçoit le Chiron des personnes nées de juillet à octobre 1941 et de janvier à juin 1942, puis, une cinquantaine d’années plus tard, celui des personnes nées entre septembre 1991 et août 1992, avec une pause au début du printemps. Le Chiron de 1945, à son tour, se trouve sous Pluton chez toutes les naissances d’août 1969 à octobre 1972. Une telle étendue l’exclut de mes décomptes de synastrie, où chaque contact passe par le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel ; dans les maisons, il montre comment deux générations ont rencontré le même genre de terrain sensible.
+Une naissance du milieu de 1945 montre comment jouent les dates. Pluton, en Lion, y couvre Chiron pour toute personne née de juillet à octobre 1941 ou de janvier à juin 1942, puis de nouveau, une cinquantaine d’années plus tard, pour la plupart des naissances entre septembre 1991 et août 1992, avec une pause au début du printemps. Le Chiron de 1945, à son tour, se trouve sous Pluton chez toutes les naissances d’août 1969 à octobre 1972. Une telle étendue l’exclut de mes décomptes de synastrie, où chaque contact passe par le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel ; dans les maisons, il montre comment deux générations ont rencontré le même genre de terrain sensible.
 
 L’heure ne joue aucun rôle dans la présence de la conjonction ; trouver ses maisons demande les deux heures de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Chiron compte parmi les trois placements que mon carnet a vus tenir 75 à 90 % du temps, avec Saturne et Lilith ([les trois qui ont tenu](/blog/saturn-chiron-lilith/)) ; c’était le thème d’une seule personne, et ce contact n’en tire aucun chiffre.
 

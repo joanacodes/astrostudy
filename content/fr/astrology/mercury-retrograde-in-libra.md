@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/mercury-retrograde", "/astrology/libra", "/astrology/mercury-in-libra", "/astrology/7th-house", "/blog/retrograde-planets"]
 faq:
   - q: "Mercure rétrograde en Balance : quand est la prochaine ?"
-    a: "Du 7 au 28 octobre 2027, de 4°55′ du Scorpion à 19°18′ de la Balance. Elle ouvre une série de trois : du 19 septembre au 11 octobre 2028, tout entière en Balance, puis du 2 au 25 septembre 2029, de la Balance vers la Vierge. La plus récente a eu lieu du 10 septembre au 2 octobre 2022."
+    a: "Du 7 au 28 octobre 2027, de 4°55′ du Scorpion à 19°18′ de la Balance. Elle ouvre une série de trois : du 19 septembre au 11 octobre 2028, tout entière en Balance, puis du 2 au 25 septembre 2029, de la Balance vers la Vierge. La précédente allait du 10 septembre au 2 octobre 2022."
   - q: "Que veut dire Mercure rétrograde en Balance ?"
     a: "Les astrologues y lisent des semaines où le côté diplomate de Mercure, qui pèse le pour et le contre, revient en arrière : accords, compromis et conversations à deux passent en seconde audience. J’y lis un équilibre que l’on vérifie, jamais une prédiction sur une relation."
   - q: "Combien de temps dure Mercure rétrograde en Balance ?"
@@ -36,7 +36,7 @@ Les rétrogradations de Mercure en Balance tombent entre début septembre et dé
 
 La [Balance](/astrology/libra/) est un signe d’air cardinal gouverné par Vénus, et Mercure y pèse un avis contre l’autre en cherchant le mot juste et courtois. Pendant [Mercure rétrograde](/astrology/mercury-retrograde/), quand la planète semble, vue de la Terre, caler puis reculer dans le signe, la pesée recommence : un accord trouvé à deux, un compromis qui semblait égal, ce que vous avez tu pour garder la paix. Mercure n’a pas de dignité en Balance, et plutôt qu’un verdict, je lis ces semaines comme une seconde audience : un équilibre que l’on vérifie, pas une chose cassée.
 
-Entre 2000 et 2040, dix-huit rétrogradations touchent la Balance, par séries de trois années en 2000–2002, 2007–2009, 2020–2022, 2027–2029 et 2033–2035. La plus récente, du 10 septembre au 2 octobre 2022, est partie de 8°55′ de la Balance pour s’achever à 24°12′ de la Vierge ([Mercure rétrograde en Vierge](/astrology/mercury-retrograde-in-virgo/)). La prochaine ouvre une nouvelle série : du 7 au 28 octobre 2027, de 4°55′ du Scorpion ([Mercure rétrograde en Scorpion](/astrology/mercury-retrograde-in-scorpio/)) à 19°18′ de la Balance. Du 19 septembre au 11 octobre 2028, la rétrogradation reste tout entière en Balance, de 18°35′ à 3°28′, et en septembre 2029 elle ressort de nouveau vers la Vierge.
+Entre 2000 et 2040, dix-huit rétrogradations touchent la Balance, par séries de trois années en 2000–2002, 2007–2009, 2020–2022, 2027–2029 et 2033–2035. La dernière en date, du 10 septembre au 2 octobre 2022, allait de 8°55′ de la Balance à 24°12′ de la Vierge ([Mercure rétrograde en Vierge](/astrology/mercury-retrograde-in-virgo/)). La prochaine ouvre une nouvelle série : du 7 au 28 octobre 2027, de 4°55′ du Scorpion ([Mercure rétrograde en Scorpion](/astrology/mercury-retrograde-in-scorpio/)) à 19°18′ de la Balance. Du 19 septembre au 11 octobre 2028, la rétrogradation reste tout entière en Balance, de 18°35′ à 3°28′, et en septembre 2029 elle ressort de nouveau vers la Vierge.
 
 Mercure rétrograde en Balance dans un thème natal, c’est autre chose : un esprit qui pèse les deux côtés en dedans avant de parler, et j’en parle dans [planètes rétrogrades natales](/blog/retrograde-planets/).
 

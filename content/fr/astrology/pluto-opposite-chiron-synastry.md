@@ -19,9 +19,9 @@ facts:
 related: ["/astrology/pluto", "/astrology/chiron", "/astrology/opposition", "/astrology/pluto-opposite-chiron", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Pluton opposition Chiron en synastrie ?"
-    a: "Pluton, dans un thème, et Chiron, dans l’autre, occupent des points opposés du zodiaque. La personne de Pluton demande volontiers d’une difficulté si elle peut partir, celle de Chiron comment bien vivre avec. Chacune voit chez l’autre la réponse qu’elle utilise le moins, ce que montre une opposition."
+    a: "Pluton, chez une personne, fait face au Chiron de l’autre depuis le point opposé du zodiaque. La personne de Pluton demande volontiers d’une difficulté si elle peut partir, celle de Chiron comment bien vivre avec. Chacune voit chez l’autre la réponse qu’elle utilise le moins, ce que montre une opposition."
   - q: "Est-ce que Pluton opposition Chiron est un conflit entre deux personnes ?"
-    a: "Non. Une opposition est une polarité : un seul axe, avec une personne à chaque bout. Certains jours, celle-ci ressemble à une reconnaissance ; d’autres, à une demande de démonter quelque chose qui marche. Alterner les deux questions change souvent la tension en équilibre."
+    a: "Non. Ce contact forme une polarité : un seul axe, avec une personne à chaque bout. Certains jours, celle-ci ressemble à une reconnaissance ; d’autres, à une demande de démonter quelque chose qui marche. Alterner les deux questions change souvent la tension en équilibre."
   - q: "Pourquoi tant de personnes nées dans les années 1960 partagent-elles Pluton opposition Chiron ?"
     a: "Pluton a passé l’essentiel des années 1960 en Vierge, et Chiron, en face, a traversé lentement les Poissons pendant une bonne partie de la même période. Deux personnes nées à quelques années d’écart dans les années 1960 ont donc souvent Pluton de l’une face au Chiron de l’autre, et beaucoup portent la même opposition dans leur propre thème."
 sources:
@@ -32,7 +32,7 @@ Devant une chose qui ne s’en va pas, l’une demande « peut-on s’en débar
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Pluton](/astrology/pluto/), c’est le renouveau en profondeur : les structures qui ne servent plus sont écartées, quelque chose se régénère, et une force plus vraiment à soi prend leur place. [Chiron](/astrology/chiron/), c’est l’adaptation : autour d’une limite qui persiste, la méthode, le rythme ou l’outil changent, pour que la vie continue sans attendre que la limite s’en aille. Une [opposition](/astrology/opposition/) place deux fonctions aux deux bouts d’un même axe, et dans les [aspects de synastrie](/astrology/synastry-aspects/), chaque réponse reçoit une personne pour la porter.
+[Pluton](/astrology/pluto/), c’est le renouveau en profondeur : les structures qui ne servent plus sont écartées, quelque chose se régénère, et une force plus vraiment à soi prend leur place. [Chiron](/astrology/chiron/), c’est l’adaptation : autour d’une limite qui persiste, la méthode, le rythme ou l’outil changent, pour que la vie continue sans attendre que la limite s’en aille. Une [opposition](/astrology/opposition/) dispose deux fonctions de part et d’autre d’un axe ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), chaque réponse trouve ici une personne pour la porter.
 
 Ce qu’elle donne à la paire, c’est du recul. La personne de Pluton voit chez l’autre une patience envers ce qui dure qu’elle s’accorde rarement ; celle de Chiron voit chez l’autre une capacité à laisser finir une chose, à laquelle elle avait peut-être cessé de croire. À deux, elles tiennent les deux réponses, ce qui est plus que ce que la plupart des gens tiennent seuls.
 

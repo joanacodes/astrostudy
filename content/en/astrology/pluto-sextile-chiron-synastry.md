@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 362
 glyph: "♇⚹⚷"
-definition: "Pluto sextile Chiron in synastry is a 60° angle, within 2.4°, from one chart’s Pluto to another chart’s Chiron. One person’s capacity for deep renewal offers the other room to rework an old adaptation, without forcing it. I treat it as a quiet invitation, and look at it in the houses rather than in the count."
+definition: "Pluto sextile Chiron in synastry sets one chart’s Pluto a sextile, about 60°, from another chart’s Chiron, within 2.4°. One person’s capacity for deep renewal offers the other room to rework an old adaptation, without forcing it. I treat it as a quiet invitation, and look at it in the houses rather than in the count."
 facts:
   - { k: "Bodies", v: "One person’s Pluto ♇, the other’s Chiron ⚷" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -52,7 +52,7 @@ Around the same pair:
 
 Say the offer out loud, once, and let it stand. If the Pluto is yours, try "if you ever want to look at that differently, I'm here", and mean the "if". If the Chiron is yours, pick one small thing to rework and treat it as an experiment you can undo. Adult siblings can use this sextile to update old family roles; friends, to try something one of them had ruled out; colleagues, to rethink a method built around a limit.
 
-Births months apart can share it: a birth in mid-1995, with Pluto at the end of Scorpio, meets it in people born from December 1994 to February 1995 and in August and September 1995, whose Chiron stands 60° away, and in people born from February to July 1954. Their Chiron, in turn, sits 60° from the Pluto of anyone born from October 1991 to December 1992, and of people born from June 1931 to August 1933. Contacts like this one, spread over whole spells of births, don't enter my synastry count, which takes only those touching the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven; its houses show one era offering another a different way to live with what lasts.
+Births months apart can share it: a birth in mid-1995, Pluto in the last degrees of Scorpio, meets it in people born from December 1994 to February 1995 and in August and September 1995, whose Chiron stands 60° away, and in people born from February to July 1954. Their Chiron, in turn, sits 60° from the Pluto of anyone born from October 1991 to December 1992, and of people born from June 1931 to August 1933. Contacts like this one, spread over whole spells of births, don't enter my synastry count, which takes only those touching the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven; its houses show one era offering another a different way to live with what lasts.
 
 The hour of birth can't add or remove this sextile, the bodies being slow, but its houses can only be found with both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 

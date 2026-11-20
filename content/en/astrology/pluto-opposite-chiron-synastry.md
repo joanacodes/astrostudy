@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/pluto", "/astrology/chiron", "/astrology/opposition", "/astrology/pluto-opposite-chiron", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Pluto opposite Chiron mean in synastry?"
-    a: "Pluto in one chart and Chiron in the other occupy opposite points of the zodiac. The Pluto person tends to ask of a difficulty whether it can go, and the Chiron person how to live well around it. Each sees, in the other, the answer they reach for least, which is what an opposition shows."
+    a: "One person’s Pluto faces the other’s Chiron from the opposite point of the zodiac. The Pluto person tends to ask of a difficulty whether it can go, and the Chiron person how to live well around it. Each sees, in the other, the answer they reach for least, which is what an opposition shows."
   - q: "Is Pluto opposite Chiron a conflict between two people?"
     a: "No. An opposition is a polarity, a single axis with a person at each end. Some days this one feels like recognition; other days, like a request to take apart something that works. Taking turns with the two questions usually turns the pull into balance."
   - q: "Why do so many people born in the 1960s share Pluto opposite Chiron?"
