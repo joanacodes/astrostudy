@@ -18,7 +18,7 @@ related: ["/astrology/chiron", "/astrology/11th-house", "/astrology/house-overla
 faq:
   - q: "Why does someone with their Chiron in my 11th house hesitate to join my friends?"
     a: "Groups and belonging are where their old hurt is most easily touched in your company, so a crowded table of your friends can feel exposing to them, however warm it is. Small gatherings first, and an easy way out, often help more than urging them to join everything."
-  - q: "Can their Chiron in my 11th house help me find my people?"
+  - q: "Could their Chiron in my 11th house lead me to my people?"
     a: "Often, yes. People who have had to work at belonging tend to notice who is left out, and to know how a group can make room. In your house of friends and shared hopes, that skill can lead you to circles, causes or projects you wouldn’t have tried alone."
   - q: "Why do their friends leave me feeling like an outsider when my Chiron is in their 11th house?"
     a: "Their circles, causes and plans for the future come close to your own sore spot, so joining their friends can stir old feelings of not quite belonging, even when everyone is kind. Say what helps: a smaller gathering, a familiar face, a set time to leave."
@@ -29,7 +29,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Aquarius, a sign of Saturn" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "single charts only, never overlays" }
 ---
-Some people walk into a crowded room and find, within minutes, the one person standing at the edge. When someone's Chiron falls in your 11th house, that kind of attention comes into your friendships, your groups and the future you hope for.
+Some people walk into a crowded room and find, within minutes, the one person standing at the edge. Their Chiron in your 11th house brings that kind of attention into your friendships, your groups and the future you hope for.
 
 ## What it brings {#what-it-brings}
 
@@ -37,7 +37,7 @@ Some people walk into a crowded room and find, within minutes, the one person st
 
 With them, belonging may get easier, or wider. They tend to notice who's being left out and quietly make room, and they may draw you into a group you'd have avoided, or help you start the one you wished existed. A long-term hope can look more workable beside someone who has had to find side doors all their life.
 
-For them, your circle can be both welcome and exposing. Your easy place among friends, your invitations, your group chat full of in-jokes may stir whatever they once had to work around, and they may hover at the edge of your crowd before they settle. A succedent house, the 11th is where shared plans gather weight; [Aquarius](/astrology/aquarius/), its natural sign, answers to Saturn in tradition and to Uranus today, and I read both. Tradition called this house the Good Spirit, and Jupiter rejoices there.
+For them, your circle can be both welcome and exposing. Your easy place among friends, your invitations, your group chat full of in-jokes may wake what they once had to work their way past, and they may hover at the edge of your crowd before they settle. A succedent house, the 11th is where shared plans gather weight; [Aquarius](/astrology/aquarius/), its natural sign, answers to Saturn in tradition and to Uranus today, and I read both. Tradition called this house the Good Spirit, and Jupiter rejoices there.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -53,4 +53,4 @@ Introduce them to your friends gradually: a small table before a big party, one 
 
 From where they stand, it's your Chiron in their 11th house, and their friendships are where your old hurt gets touched. [Their Chiron in your 10th house](/astrology/chiron-in-10th-house-synastry/) meets your public role; [their Chiron in your 12th house](/astrology/chiron-in-12th-house-synastry/), what you keep out of view.
 
-Everyone born within the same few years has Chiron in roughly the same place, so a whole group of friends your age may put Chiron in the same house of yours; what singles one person out is the rest of their chart. Their date fixes their Chiron; your birth time draws the 11th, and in Placidus, the house system I use, nothing here is placed without it, nor read without their time as well ([what changes without a birth time](/blog/unknown-birth-time/)). In my notebook Chiron was one of [the three that held](/blog/saturn-chiron-lilith/#chiron), with Saturn and Lilith, 75 to 90% of the time in single charts; overlays were never part of that count. Friends deserve the same say in a reading as partners do ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Everyone born within the same few years has Chiron in roughly the same place, so a whole group of friends your age may each have Chiron in that same house of yours; what singles one person out is the rest of their chart. Their date fixes their Chiron; your birth time draws the 11th, and in Placidus, the house system I use, nothing here is placed without it, nor read without their time as well ([what changes without a birth time](/blog/unknown-birth-time/)). In my notebook Chiron was one of [the three that held](/blog/saturn-chiron-lilith/#chiron), with Saturn and Lilith, 75 to 90% of the time in single charts; overlays were never part of that count. Friends deserve the same say in a reading as partners do ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
