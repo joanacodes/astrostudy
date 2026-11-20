@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/neptune", "/astrology/north-node", "/astrology/trine", "/astrology/neptune-trine-north-node", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Neptune trine North Node mean in synastry?"
-    a: "The contact sets one person’s Neptune about 120° from the other’s North Node. The Neptune person tends to picture the other’s new direction as natural and worth trying, and the node person gives that imagination something real to aim at. Its sextile to the South Node keeps the familiar ground friendly too."
+    a: "The contact opens an angle of some 120° from one person’s Neptune to the other’s North Node. The Neptune person tends to picture the other’s new direction as natural and worth trying, and the node person gives that imagination something real to aim at. Its sextile to the South Node keeps the familiar ground friendly too."
   - q: "Is Neptune trine North Node a good sign for a relationship?"
     a: "It describes support between one person’s imagination and the other’s growth, which is pleasant, but it decides nothing about a relationship. It also comes with whole months of births. What matters is whether the encouragement comes with honest feedback, because growth needs both."
   - q: "How far apart in age are people with Neptune trine North Node?"

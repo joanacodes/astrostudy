@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 352
 glyph: "♆⚹⚸"
-definition: "Neptune sextile Lilith in synastry is a 60° angle, give or take 2.4°, between one person’s Neptune and the other’s mean Black Moon Lilith. One person’s imagination offers the other’s untamed side a safe form to come out in, through play, art or a shared story. I read it as an invitation that counts only when taken up."
+definition: "Neptune sextile Lilith in synastry joins one person’s Neptune and the other’s mean Black Moon Lilith by a sextile, within 2.4°. One person’s imagination offers the other’s untamed side a safe form to come out in, through play, art or a shared story. I read it as an invitation that counts only when taken up."
 facts:
   - { k: "Bodies", v: "One person’s Neptune ♆, the other’s Black Moon Lilith ⚸" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/neptune", "/astrology/black-moon-lilith", "/astrology/sextile", "/astrology/neptune-sextile-lilith", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Neptune sextile Lilith mean in synastry?"
-    a: "Two charts have it when one person’s Neptune and the other’s Black Moon Lilith are about 60° apart. The Neptune person’s imagination tends to give the other’s hidden, untamed side a safe way into the open: a game, a story, a shared piece of art. It works as an invitation, which means it does nothing until someone accepts it."
+    a: "Two charts have it when about 60° separate one person’s Neptune from the other’s Black Moon Lilith. The Neptune person’s imagination tends to give the other’s hidden, untamed side a safe way into the open: a game, a story, a shared piece of art. It works as an invitation, which means it does nothing until someone accepts it."
   - q: "Is Neptune sextile Lilith a good aspect in synastry?"
     a: "It’s an easy one, which isn’t the same as good. It describes an opening between one person’s imagination and the other’s refusals, and like every sextile it needs using. It says nothing about whether two people will get on; that depends on them, and on the rest of both charts."
   - q: "How narrow is the orb for Neptune sextile Lilith in synastry?"

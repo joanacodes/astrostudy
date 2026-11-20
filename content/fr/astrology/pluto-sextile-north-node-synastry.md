@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 372
 glyph: "♇⚹☊"
-definition: "Avec Pluton sextile Nœud Nord en synastrie, Pluton, chez une personne, forme à 2,4° près un sextile avec le Nœud Nord de l’autre, et donc un trigone avec son Nœud Sud. Le renouveau que porte l’une donne à l’autre une route vers l’avant fidèle à ses forces anciennes. J’y lis une occasion discrète, réelle dès qu’on la prend."
+definition: "Avec Pluton sextile Nœud Nord en synastrie, Pluton, chez une personne, forme à 2,4° près un sextile avec le Nœud Nord de l’autre, ce qui fait un trigone avec son Nœud Sud. Le renouveau que porte l’une donne à l’autre une route vers l’avant fidèle à ses forces anciennes. J’y lis une occasion discrète, réelle dès qu’on la prend."
 facts:
   - { k: "Corps", v: "Pluton ♇ de l’une, le Nœud Nord ☊ de l’autre" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }

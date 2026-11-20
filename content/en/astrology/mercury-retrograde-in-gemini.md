@@ -22,7 +22,7 @@ faq:
   - q: "What does Mercury retrograde in Gemini mean?"
     a: "Mercury rules Gemini, so astrologers read these weeks as Mercury’s own work running backwards for a while: conversations, messages, reading and plans that were left open come round again. I read it as a time for going back over threads in one house of your chart, never as a forecast of events."
   - q: "Is Mercury retrograde worse in its own sign?"
-    a: "Not in my reading. In Gemini the retrograde is more purely about Mercury’s business, communication and connection, but that doesn’t make anything likelier to go wrong. It is also one of the narrowest: each covers only 8½° to 9° of the zodiac, in about 24 days."
+    a: "In my reading, its own sign makes the retrograde in Gemini more purely about Mercury’s business, communication and connection, but no likelier to make anything go wrong. It is also one of the narrowest: each covers only 8½° to 9° of the zodiac, in about 24 days."
   - q: "Which house does Mercury retrograde in Gemini fall in for me?"
     a: "The house Gemini occupies in your chart, which only your birth time can show, because the houses turn with the hours. Covering just 8½° to 9°, it usually stays in that one house. Without the time the houses can’t be drawn, and that is why I don’t read a chart without it."
 sources:

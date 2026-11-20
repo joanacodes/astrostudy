@@ -44,7 +44,7 @@ From the Neptune side, the other's careful practice can look dry, even joyless, 
 
 A square is friction, never a verdict on the pair. Both people are right about something: the dream matters, and so does the discipline.
 
-Elsewhere in the pair:
+The pair's remaining aspects:
 
 - **[Neptune conjunct North Node in synastry](/astrology/neptune-conjunct-north-node-synastry/):** the dream lands on the road ahead instead of crossing it.
 - **[Neptune sextile North Node in synastry](/astrology/neptune-sextile-north-node-synastry/):** a smaller, friendlier offer running alongside the road.

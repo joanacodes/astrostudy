@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 354
 glyph: "♆△⚸"
-definition: "Neptune trigone Lilith en synastrie relie Neptune, dans un thème, et la Lune noire Lilith moyenne de l’autre à environ 120°, à 3,4° près. L’imagination de l’une reçoit sans broncher la part indomptée de l’autre, et cette part donne en retour de l’aplomb aux rêves. J’y lis une acceptation facile, qui gagne à servir."
+definition: "Neptune trigone Lilith en synastrie : à environ 120° de Neptune dans un thème, à 3,4° près, se tient la Lune noire Lilith moyenne d’un autre. L’imagination de l’une reçoit sans broncher la part indomptée de l’autre, et cette part donne en retour de l’aplomb aux rêves. J’y lis une acceptation facile, qui gagne à servir."
 facts:
   - { k: "Corps", v: "Neptune ♆ de l’une, la Lune noire Lilith ⚸ de l’autre" }
   - { k: "Aspect", v: "Trigone △, 120°" }
@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Neptune, chez l’une, à moins de 3,4° d’un trigone avec la Lilith moyenne de l’autre" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "Lilith par signe et par maison dans un seul thème, pas les contacts entre deux" }
 ---
-Certaines personnes entendent votre refus le plus net et en sont, au fond, soulagées. Neptune trigone Lilith en synastrie, c’est un trigone entre Neptune dans un thème et la Lune noire Lilith dans un autre : ce que l’autre a appris à cacher est reçu sans un mouvement de recul, par quelqu’un dont les rêves s’enhardissent en retour.
+Certaines personnes entendent votre refus le plus net et en sont, au fond, soulagées. Neptune trigone Lilith en synastrie, c’est un trigone qui relie la Lune noire Lilith d’une personne à Neptune chez l’autre : ce que l’autre a appris à cacher est reçu sans un mouvement de recul, par quelqu’un dont les rêves s’enhardissent en retour.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -54,7 +54,7 @@ Ailleurs dans la paire :
 
 Mettez l’accueil au travail. Faites entrer la part indomptée dans une décision ordinaire, et vérifiez qu’elle y est encore bienvenue. Si Neptune est de votre côté, dites tout haut ce que sa franchise vous a donné ; côté Lilith, dites ce que cela fait de ne pas voir l’autre reculer. De vieux amis qui ont ce trigone deviennent souvent les témoins honnêtes l’un de l’autre ; un couple, un foyer où l’on peut être direct et doux ; des collègues, une équipe où une voix discordante est entendue comme utile.
 
-Une personne née au milieu de 1985 l’a dans les deux sens avec les personnes nées de mai à juillet 1985, Neptune de chacune en trigone avec la Lilith de l’autre. Sa Lilith, au début du Taureau, trouve aussi en trigone la position de Neptune de toutes les naissances de novembre 1984 à janvier 1987, et de celles de janvier 1930 à septembre 1931, quand Neptune traversait la Vierge. Un contact partagé aussi largement n’entre jamais dans le décompte de mes synastries, qui s’en tient au Soleil, à la Lune, à Mercure, à Vénus, à Mars, à l’ascendant et au milieu du ciel ; je lis celui-ci dans les maisons, comme un échange entre époques plutôt qu’entre tempéraments.
+Née au milieu de 1985, une personne l’a dans les deux sens avec celles nées de mai à juillet 1985, Neptune de chacune en trigone avec la Lilith de l’autre. Sa Lilith, au début du Taureau, trouve aussi en trigone la position de Neptune de toutes les naissances de novembre 1984 à janvier 1987, et de celles de janvier 1930 à septembre 1931, quand Neptune traversait la Vierge. Un contact partagé aussi largement n’entre jamais dans le décompte de mes synastries, qui s’en tient au Soleil, à la Lune, à Mercure, à Vénus, à Mars, à l’ascendant et au milieu du ciel ; je lis celui-ci dans les maisons, comme un échange entre époques plutôt qu’entre tempéraments.
 
 L’heure de naissance ne touche pas au trigone, les deux points étant lents, mais situer les maisons exige les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Toutes ces fenêtres reposent sur la Lilith moyenne ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)). Mon carnet range Lilith parmi [les trois qui ont tenu](/blog/saturn-chiron-lilith/), avec Saturne et Chiron, 75 à 90 % du temps ; il s’agissait du thème d’une seule personne, lu par signe et par maison, et ce trigone n’en reçoit aucun chiffre.
 

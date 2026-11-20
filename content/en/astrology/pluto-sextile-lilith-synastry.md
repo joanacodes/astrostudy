@@ -1,7 +1,7 @@
 ---
 title: "Pluto sextile Lilith in synastry"
 h1: "Pluto sextile Lilith between two charts"
-description: "Pluto sextile Lilith in synastry: one person’s depth invites the other to be less guarded, and the invitation only works if taken. Both sides, who has it."
+description: "Pluto sextile Lilith in synastry: one person’s depth invites the other to be less guarded, and the invitation only works if taken. Each side, the dates."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -41,7 +41,7 @@ On the Pluto side, the other's untamed streak gives your renewal an ally. You le
 
 The ease can keep everyone polite. An invitation that's never spoken stays a possibility, and both people may wait for the other to say the first true thing. The Lilith person may test the door once and step back if the welcome isn't immediate; the Pluto person may mistake patience for indifference and push, which closes it. Opportunity needs engagement, and engagement needs a little nerve on both sides.
 
-The pair's other angles:
+The pair at its other angles:
 
 - **[Pluto conjunct Lilith in synastry](/astrology/pluto-conjunct-lilith-synastry/):** depth lands right on the hidden place, with no door to knock on.
 - **[Pluto square Lilith in synastry](/astrology/pluto-square-lilith-synastry/):** the urge to transform rubs against the urge to stay untamed.

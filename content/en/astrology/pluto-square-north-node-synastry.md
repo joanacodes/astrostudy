@@ -51,7 +51,7 @@ The other four, for contrast:
 
 ## How to meet it {#how-to-meet-it}
 
-Ask before you press. If the Pluto is yours, put your challenge as a question, "is there something this path needs to change first?", and accept the answer. With the North Node on your side, say what you're willing to examine and what you'd rather keep as it is. Colleagues can use this square to stress-test a plan; a couple, to make a big change thoroughly; friends born months apart, to keep each other honest.
+Ask before you press. If the Pluto is yours, put your challenge as a question, "is there something this path needs to change first?", and accept the answer. If you carry the North Node, say what you're willing to examine and what you'd rather keep as it is. Colleagues can use this square to stress-test a plan; a couple, to make a big change thoroughly; friends born months apart, to keep each other honest.
 
 Contemporaries can share it in both directions. A mid-1965 birth, Pluto in Virgo, and any birth from March to August 1965, nodes on the Gemini–Sagittarius axis, each carry a Pluto square to the other's nodes. Further out, the 1965 Pluto squares the nodes of anyone born between November 1955 and March 1956, and every birth from July 1963 to October 1965 has a Pluto squaring the 1965 nodes. So many births carry it that it never counts as a synastry contact for me, the ones I count involving the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven; in the houses, it shows one generation's depth cutting across another's road.
 

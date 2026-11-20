@@ -35,9 +35,9 @@ L’année de Jupiter dans votre maison 5 fait de la place à ce que vous faites
 
 Les vieux livres y auraient vu une saison doublement favorable, puisque la maison est la Fortune favorable et que la tradition plaçait Jupiter en tête des [bénéfiques](/astrology/benefics-and-malefics/). Je garde la douceur et laisse la promesse. La joie n’est pas l’excès, et l’année demande de choisir vos plaisirs plutôt que de les collectionner.
 
-Les planètes de votre naissance en maison 5 sont les premières que Jupiter atteint, chacune avec quelques semaines de lumière en plus ; le Soleil natal à cet endroit, maître naturel de la maison, peut donner à ce passage le goût d’un regard enfin posé sur vous.
+Chaque planète déjà présente dans votre maison 5 reçoit quelques semaines de lumière en plus au passage de Jupiter ; le Soleil natal à cet endroit, maître naturel de la maison, peut donner à ce passage le goût d’un regard enfin posé sur vous.
 
-La tradition donnait aussi les enfants à la maison 5. Un transit ne peut dire à personne si un enfant viendra, ni quand ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et je ne lis pas [le thème des enfants](/astrology/childrens-charts/) : ce que je lis dans votre maison 5, c’est votre propre plaisir et votre créativité, en adulte. Comme tout [transit](/astrology/transits/), celui-ci ne fait ressortir que ce que votre thème contient déjà.
+La tradition donnait aussi les enfants à la maison 5. Un transit ne peut dire à personne si un enfant viendra, ni quand ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et je ne lis pas [le thème des enfants](/astrology/childrens-charts/) : ce que je lis dans votre maison 5, c’est votre propre plaisir et votre créativité, en adulte. Ce [transit](/astrology/transits/), comme tout autre, n’ajoute rien à votre thème : il fait ressortir le plaisir et la créativité qui s’y trouvent déjà.
 
 ## Combien de temps {#combien-de-temps}
 

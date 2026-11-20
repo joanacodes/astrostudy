@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 353
 glyph: "♆□⚸"
-definition: "Neptune carré Lilith en synastrie, c’est un quart de cercle, à 3,4° près, qui sépare Neptune, dans un thème, de la Lune noire Lilith moyenne, dans l’autre. Le regard tendre de l’une manque le tranchant de l’autre, qui refuse d’être adoucie. J’y lis une friction qui apprend aux deux à se voir sans filtre, jamais un mauvais assortiment."
+definition: "Neptune carré Lilith en synastrie, c’est un quart de cercle, à 3,4° près, de Neptune dans un thème jusqu’à la Lune noire Lilith moyenne que porte l’autre. Le regard tendre de l’une manque le tranchant de l’autre, qui refuse d’être adoucie. J’y lis une friction qui apprend aux deux à se voir sans filtre, jamais un mauvais assortiment."
 facts:
   - { k: "Corps", v: "Neptune ♆ de l’une, la Lune noire Lilith ⚸ de l’autre" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -28,7 +28,7 @@ sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, 90°, l’un de ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui mettent Neptune, chez l’une, en carré avec la Lilith moyenne de l’autre, à 3,4° près" }
 ---
-L’une décrit sans cesse l’autre comme plus douce qu’elle ne l’est ; l’autre corrige sans cesse la description. Dans Neptune carré Lilith en synastrie, Neptune, chez l’une, fait un angle droit avec la Lune noire Lilith de l’autre, et la friction porte sur une image qui ne colle pas tout à fait.
+L’une décrit sans cesse l’autre comme plus douce qu’elle ne l’est ; l’autre corrige sans cesse la description. Dans Neptune carré Lilith en synastrie, la Lune noire Lilith d’une personne tombe à angle droit de Neptune chez l’autre, et la friction porte sur une image qui ne colle pas tout à fait.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -57,4 +57,4 @@ Le calendrier décide de qui le partage. Pour une naissance du milieu de 1975, N
 
 L’heure ne change rien au fait de l’avoir, puisque les deux points avancent à peine ; pour le placer dans les maisons, il faut les deux heures de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Ces dates s’appuient sur la Lilith moyenne ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)).
 
-Quand une seule personne porte [Neptune carré Lilith](/astrology/neptune-square-lilith/), elle est prise entre garder la paix et garder sa ligne. Partagé entre deux, l’accroc devient une conversation, et je ne l’ouvre que si les deux le demandent ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Quand une seule personne porte [Neptune carré Lilith](/astrology/neptune-square-lilith/), elle est prise entre garder la paix et garder sa ligne. Partagé entre deux, l’accroc devient une conversation, que je n’engage qu’à la demande des deux ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

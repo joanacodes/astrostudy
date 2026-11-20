@@ -34,7 +34,7 @@ Jupiter's year in your 3rd house brings its growth down to the scale of an ordin
 
 There's a tension built into it, and it's a useful one. Jupiter likes the whole picture; the 3rd house deals in pieces, many of them, quickly. So the year can scatter you across ten interests, or it can be the year the ten interests turn out to be one. What it asks is that you let information become understanding.
 
-Planets you were born with in the 3rd meet Jupiter first. A natal Mercury there, in the house of Gemini in the natural order, tends to fill those weeks with words: writing, explaining, being asked to say what you think.
+A natal Mercury in the 3rd, the house of Gemini in the natural order, is one of the first things Jupiter meets there, and it tends to fill those weeks with words: writing, explaining, being asked to say what you think.
 
 As with any [transit](/astrology/transits/), nothing here comes from outside your chart. Jupiter brings out the curiosity it already holds and gives it more room for a while.
 

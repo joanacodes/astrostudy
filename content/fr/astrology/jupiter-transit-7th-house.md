@@ -17,9 +17,9 @@ facts:
   - { k: "Il faut", v: "Votre heure de naissance, qui place votre descendant" }
 related: ["/astrology/jupiter", "/astrology/7th-house", "/astrology/transits", "/astrology/descendant", "/astrology/jupiter-in-7th-house"]
 faq:
-  - q: "Vais-je rencontrer quelqu’un quand Jupiter entrera dans ma maison 7 ?"
-    a: "Un transit ne peut pas vous le dire. La maison 7 décrit la façon dont vous rencontrez les autres en tête-à-tête, et avec Jupiter à cet endroit, je lis de la place et de la générosité : des personnes nouvelles peuvent élargir votre monde, des liens existants respirer davantage. Qui entrera dans votre vie, et quand, n’est écrit dans aucun transit."
-  - q: "Est-ce que Jupiter en transit en maison 7 est bon pour le mariage ?"
+  - q: "Qui vais-je rencontrer pendant que Jupiter traverse ma maison 7 ?"
+    a: "Personne ne peut le lire dans un transit. La maison 7 décrit la façon dont vous rencontrez les autres en tête-à-tête, et avec Jupiter à cet endroit, je lis de la place et de la générosité : des personnes nouvelles peuvent élargir votre monde, des liens existants respirer davantage. Qui entrera dans votre vie, et quand, n’est écrit dans aucun transit."
+  - q: "Est-ce que Jupiter en maison 7 peut me dire si je vais me marier ?"
     a: "La tradition donnait le mariage et les contrats à la maison 7, et Jupiter peut rendre l’engagement plus confiant et plus équitable. Ce transit ne décide pas si l’on se marie, si l’on reste ou si l’on se sépare. Je ne lis jamais un transit comme l’issue d’une relation, seulement comme le climat qu’elle traverse."
   - q: "Pourquoi Jupiter sur mon descendant est aussi en opposition à mon ascendant ?"
     a: "Parce que le descendant est le point exactement opposé à votre ascendant. Quand Jupiter l’atteint, ce passage ouvre le séjour en maison 7 et place Jupiter face à votre degré ascendant au même moment : les personnes en face de vous et votre façon de vous présenter se lisent alors ensemble."
@@ -33,9 +33,9 @@ sources:
 
 [Jupiter](/astrology/jupiter/) élargit la compréhension et aide l’expérience à prendre sens ; la [maison 7](/astrology/7th-house/), c’est le couple, la coopération, les accords et les personnes que vous rencontrez d’égal à égal, en amour comme au travail. Pendant que Jupiter la traverse, je lis une année où cette part de la vie gagne de l’espace. Des personnes qui agrandissent votre monde peuvent se rapprocher, des liens existants peuvent devenir plus généreux, et vous vous comprendrez peut-être mieux en regardant ce que vous cherchez chez les autres.
 
-Le séjour commence sur un angle. En Placidus, le système de maisons que j’utilise, la maison 7 s’ouvre au descendant, le point juste en face de votre ascendant : les premières semaines, Jupiter se tient donc face à votre degré ascendant ([Jupiter en transit opposition Ascendant du thème natal](/astrology/transiting-jupiter-opposite-natal-ascendant/)). La maison 1, c’était *moi* ; celle-ci, c’est *l’autre*, et l’année de Jupiter parle de l’espace entre les deux.
+Le jour où Jupiter atteint votre descendant, Jupiter se tient aussi face à votre degré ascendant ([Jupiter en transit opposition Ascendant du thème natal](/astrology/transiting-jupiter-opposite-natal-ascendant/)) : en Placidus, le système que j’utilise pour les maisons, la cuspide de la maison 7 est toujours le point qui fait face à l’ascendant. La maison 1, c’était *moi* ; celle-ci, c’est *l’autre*, et l’année de Jupiter parle de l’espace entre les deux.
 
-Les planètes de votre naissance en maison 7 viennent ensuite. Avec Vénus à cet endroit, qui gouverne la maison dans l’ordre naturel, ce passage peut se vivre comme une chaleur donnée et reçue ; avec Saturne, comme un engagement de longue date qui reprend son souffle.
+Viennent ensuite les planètes que votre thème place en maison 7. Avec Vénus à cet endroit, qui gouverne la maison dans l’ordre naturel, ce passage peut se vivre comme une chaleur donnée et reçue ; avec Saturne, comme un engagement de longue date qui reprend son souffle.
 
 Ce que ce [transit](/astrology/transits/) ne fera pas, c’est décider quoi que ce soit pour deux personnes. Il ne dit pas si vous allez rencontrer quelqu’un, vous marier ou vous séparer, et les contrats et adversaires déclarés de la tradition ne portent aucun verdict non plus : je ne lis jamais un transit pour l’issue d’un litige ou d’un procès. Il fait ressortir, pour un an, ce que votre thème contient déjà sur le couple et les alliances.
 

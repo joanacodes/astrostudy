@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 352
 glyph: "♆⚹⚸"
-definition: "Neptune sextile Lilith en synastrie désigne un écart d’environ 60°, à 2,4° près, entre Neptune chez une personne et la Lune noire Lilith moyenne chez l’autre. L’imagination de l’une offre à la part indomptée de l’autre une forme sûre où sortir : le jeu, l’art, une histoire commune. J’y lis une invitation, qui ne compte que si on l’accepte."
+definition: "Neptune sextile Lilith en synastrie : environ 60°, à 2,4° près, séparent Neptune, dans le thème de l’une, de la Lune noire Lilith moyenne, dans celui de l’autre. L’imagination de l’une offre à la part indomptée de l’autre une forme sûre où sortir : le jeu, l’art, une histoire commune. J’y lis une invitation, qui ne compte que si on l’accepte."
 facts:
   - { k: "Corps", v: "Neptune ♆ de l’une, la Lune noire Lilith ⚸ de l’autre" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/neptune", "/astrology/black-moon-lilith", "/astrology/sextile", "/astrology/neptune-sextile-lilith", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Neptune sextile Lilith en synastrie ?"
-    a: "Deux thèmes l’ont quand Neptune, dans l’un, et la Lune noire Lilith, dans l’autre, sont à environ 60° d’écart. L’imagination de la première donne souvent à la part cachée et indomptée de la seconde une manière sûre de se montrer : un jeu, une histoire, une œuvre commune. C’est une invitation, qui ne fait rien tant que personne ne l’accepte."
+    a: "Deux thèmes l’ont quand Neptune, dans l’un, et la Lune noire Lilith, dans l’autre, sont à environ 60° d’écart. L’imagination de la première donne souvent à la part cachée et indomptée de la seconde une manière sûre de se montrer : un jeu, une histoire, une œuvre commune. C’est une invitation : elle reste lettre morte tant que personne ne l’accepte."
   - q: "Est-ce que Neptune sextile Lilith est un bon aspect en synastrie ?"
     a: "C’est un aspect facile, ce qui n’est pas la même chose. Ce contact décrit une ouverture entre l’imagination de l’une et les refus de l’autre, et comme tout sextile, il demande qu’on s’en serve. Il ne dit rien de l’entente de deux personnes : cela dépend d’elles, et du reste des deux thèmes."
   - q: "Quel orbe pour Neptune sextile Lilith en synastrie ?"

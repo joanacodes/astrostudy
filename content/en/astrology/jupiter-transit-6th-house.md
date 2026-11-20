@@ -21,7 +21,7 @@ faq:
   - q: "Why can Jupiter stay longer in the 6th house?"
     a: "Because at London’s latitude a 6th house can be very narrow or very wide, depending on the birth time. In Placidus charts drawn there, most stays run from about 10 months to just over 2 years around a middle of about a year, which, with the 7th, is the widest spread of any house."
   - q: "Will Jupiter transiting the 6th house bring a new job?"
-    a: "It can’t promise that. The 6th describes daily work and routine, and with Jupiter crossing it I read growth in how you work: a skill refined, a method improved, often more on your desk. Whether a job changes depends on your life and the people in it, not on the sky."
+    a: "Nothing in the transit promises that. The 6th describes daily work and routine, and with Jupiter crossing it I read growth in how you work: a skill refined, a method improved, often more on your desk. Whether a job changes depends on your life and the people in it, not on the sky."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Jupiter stays in a house, in Placidus charts at London and New York, and its signs from 2026" }
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
@@ -34,7 +34,7 @@ When Jupiter crosses your 6th house, its growth goes to work: the tasks of an or
 
 There's a friction in it worth naming. Tradition put Jupiter in detriment in Virgo, the 6th house's sign in the natural order, and the year can feel like that: a large outlook asked to work at the scale of a to-do list. I read the friction kindly. Meaning found in small, repeated tasks is still meaning, and the 6th is where tradition said Mars, the planet of effort, rejoices.
 
-Planets you were born with in the 6th get their turn first. With your Mars there, the weeks Jupiter spends on it tend to make effort easier to keep up; with your Moon there, the routines that make you feel looked after.
+If Mars sits in your 6th from birth, the weeks Jupiter spends on it tend to make effort easier to keep up; with your Moon there, it's the routines that make you feel looked after.
 
 Tradition also gave this house illness, and called it Bad Fortune. I don't read health in a transit, either way: no chart can predict an illness or a recovery ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)), and anything about your body belongs with a doctor. As with every [transit](/astrology/transits/), Jupiter here brings out what your chart already holds about work and care, nothing more.
 

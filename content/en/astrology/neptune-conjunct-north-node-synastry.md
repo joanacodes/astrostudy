@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 356
 glyph: "♆☌☊"
-definition: "Neptune conjunct North Node in synastry joins one person’s Neptune to the other’s North Node, within 4°, which leaves it facing their South Node. One person’s imagination settles on the other’s growing edge: inspiring when the dream helps the practice, hazy when it replaces it. Whole cohorts share it; the houses are where it becomes personal."
+definition: "Neptune conjunct North Node in synastry happens when one person’s Neptune lies on the other’s North Node, at most 4° away, with their South Node opposite. One person’s imagination settles on the other’s growing edge: inspiring when the dream helps the practice, hazy when it replaces it. Whole cohorts share it; the houses are where it becomes personal."
 facts:
   - { k: "Bodies", v: "One person’s Neptune ♆, the other’s North Node ☊" }
   - { k: "Aspect", v: "Conjunction ☌, 0°" }
@@ -34,9 +34,9 @@ Some people describe your next step so vividly that you can almost see yourself 
 
 [Neptune](/astrology/neptune/) imagines and feels with others, sensing meaning before it can be proved. The [North Node](/astrology/north-node/) marks a less familiar capacity, built through practice and never handed over complete; the [South Node](/astrology/south-node/), exactly opposite, is the ground a person knows by heart. In a [conjunction](/astrology/conjunction/) two functions act together while each keeps its nature, and in [synastry aspects](/astrology/synastry-aspects/) they belong to different people: here one person's dreaming meets the other's growing edge.
 
-With the North Node on your side, you may find this person sees where you're heading before you've said it aloud. The new thing you're practising, the clumsy one, looks beautiful through their eyes, and on hard days their faith in it carries you. Their Neptune also faces your South Node, so the habits you lean on most may interest them less, which can sting, or set you free.
+Holding the North Node, you may find this person sees where you're heading before you've said it aloud. The new thing you're practising, the clumsy one, looks beautiful through their eyes, and on hard days their faith in it carries you. Their Neptune also faces your South Node, so the habits you lean on most may interest them less, which can sting, or set you free.
 
-If the Neptune is yours, the other person's path catches your imagination. You picture what they could become, you're moved by their first awkward tries, and you find yourself hoping on their behalf. Your compassion makes their beginner's stage gentler.
+From the Neptune side, the other person's path catches your imagination. You picture what they could become, you're moved by their first awkward tries, and you find yourself hoping on their behalf. Your compassion makes their beginner's stage gentler.
 
 ## Where it rubs {#where-it-rubs}
 

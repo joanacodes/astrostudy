@@ -42,7 +42,7 @@ Du côté de Pluton, la part indomptée de l’autre donne une alliée à votre 
 
 L’aisance peut garder tout le monde poli. Une invitation jamais formulée reste une possibilité, et chacune peut attendre que l’autre dise la première chose vraie. La personne de Lilith peut essayer la porte une fois et reculer si l’accueil n’est pas immédiat ; celle de Pluton peut prendre cette prudence pour de l’indifférence et pousser, ce qui referme la porte. L’occasion demande un engagement, et l’engagement un peu d’audace des deux côtés.
 
-Les autres angles de la paire :
+La paire sous ses autres angles :
 
 - **[Pluton conjonction Lilith en synastrie](/astrology/pluto-conjunct-lilith-synastry/) :** la profondeur tombe droit sur l’endroit caché, sans porte où frapper.
 - **[Pluton carré Lilith en synastrie](/astrology/pluto-square-lilith-synastry/) :** l’envie de transformer frotte contre l’envie de garder sa part indomptée.

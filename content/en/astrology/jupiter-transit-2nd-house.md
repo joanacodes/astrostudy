@@ -32,7 +32,7 @@ When Jupiter moves on from your 1st house into your 2nd, its growth turns from w
 
 [Jupiter](/astrology/jupiter/) widens understanding and looks for meaning. The [2nd house](/astrology/2nd-house/) holds resources, values and self-worth: what you earn and keep, the talents you could live from, the things you'd protect if you had to choose. With Jupiter crossing it, I read a year when your sense of your own worth tends to stretch. A skill you'd taken for granted can start to look like something to build on, and values you'd only half said out loud get clearer, until you want your time, your work and your spending to agree with them.
 
-Planets you were born with in the 2nd are the first Jupiter meets there, and each meeting widens that planet's way of valuing for a few weeks: with your Moon in the 2nd, what makes you feel secure; with your Mars there, what you're willing to work for.
+Whatever planets sit in your 2nd from birth, Jupiter widens each one's way of valuing for a few weeks as it passes: with your Moon there, what makes you feel secure; with your Mars there, what you're willing to work for.
 
 This is also the stay where Jupiter's reputation gets in the way. People hope it will bring money, and some books promise as much. I don't read money in a chart, coming or going, and a [transit](/astrology/transits/) can't tell anyone what they'll earn ([can astrology pick investments?](/astrology/can-astrology-pick-investments/)). It brings out what your chart already holds about security and worth. What grows is your relationship with resources, never a figure on a statement.
 

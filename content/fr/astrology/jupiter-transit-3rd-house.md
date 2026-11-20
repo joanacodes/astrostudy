@@ -2,7 +2,7 @@
 title: "Jupiter en transit en maison 3"
 slug: "transit-jupiter-maison-3"
 h1: "Jupiter en transit dans votre maison 3"
-description: "Jupiter en transit en maison 3 : un an environ où l’apprentissage, la parole et la curiosité du quotidien s’élargissent. Sa durée, et les dates qui l’amènent."
+description: "Jupiter en transit en maison 3 : un an environ où l’apprentissage, la parole et la curiosité du quotidien s’élargissent. Combien de temps, et à partir de quand."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -35,7 +35,7 @@ L’année de Jupiter dans votre maison 3 ramène la croissance à l’échelle 
 
 Une tension est inscrite là-dedans, et elle sert. Jupiter aime le tableau d’ensemble ; la maison 3 travaille par morceaux, nombreux et rapides. L’année peut donc vous disperser entre dix centres d’intérêt, ou devenir celle où les dix se révèlent n’en faire qu’un. Ce qu’elle demande, c’est de laisser l’information devenir compréhension.
 
-Les planètes de votre naissance en maison 3 rencontrent Jupiter en premier. Mercure à cet endroit, dans la maison des Gémeaux dans l’ordre naturel, remplit souvent ces semaines de mots : écrire, expliquer, se voir demander ce que vous pensez.
+Mercure dans votre maison 3 de naissance, la maison des Gémeaux dans l’ordre naturel, compte parmi les premières rencontres de Jupiter à cet endroit, et remplit souvent ces semaines de mots : écrire, expliquer, se voir demander ce que vous pensez.
 
 Comme pour tout [transit](/astrology/transits/), rien ici ne vient de l’extérieur de votre thème. Jupiter fait ressortir la curiosité qui s’y trouve déjà et lui donne plus de place pour un temps.
 

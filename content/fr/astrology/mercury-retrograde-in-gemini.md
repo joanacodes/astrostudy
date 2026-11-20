@@ -23,7 +23,7 @@ faq:
   - q: "Que veut dire Mercure rétrograde en Gémeaux ?"
     a: "Mercure gouverne les Gémeaux : les astrologues lisent ces semaines comme le travail même de Mercure qui tourne à rebours un moment. Conversations, messages, lectures et projets laissés ouverts reviennent. J’y lis un temps pour reprendre les fils dans une maison de votre thème, jamais la prédiction d’un événement."
   - q: "Mercure rétrograde, est-ce pire dans son propre signe ?"
-    a: "Pas à mes yeux. En Gémeaux, la rétrogradation parle plus purement des affaires de Mercure, l’échange et le lien, mais rien n’en devient plus susceptible de mal tourner. C’est aussi l’une des plus étroites : chacune ne couvre que 8,5° à 9° du zodiaque, en 24 jours environ."
+    a: "À mes yeux, le domicile rend la rétrogradation en Gémeaux plus purement affaire de Mercure, l’échange et le lien, sans rien rendre plus susceptible de mal tourner. C’est aussi l’une des plus étroites : chacune ne couvre que 8,5° à 9° du zodiaque, en 24 jours environ."
   - q: "Dans quelle maison tombe Mercure rétrograde en Gémeaux pour moi ?"
     a: "Dans la maison qu’occupent les Gémeaux dans votre thème, que seule votre heure de naissance peut montrer, car les maisons tournent avec les heures. Sur 8,5° à 9° seulement, la rétrogradation reste le plus souvent dans cette maison-là. Sans l’heure, les maisons ne se tracent pas : c’est pourquoi je ne lis pas de thème sans elle."
 sources:

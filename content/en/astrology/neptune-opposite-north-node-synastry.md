@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/neptune", "/astrology/north-node", "/astrology/opposition", "/astrology/neptune-opposite-north-node", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Neptune opposite North Node mean in synastry?"
-    a: "In this contact one person’s Neptune stands across the zodiac from the other’s North Node, and so right on their South Node. The Neptune person’s imagination tends to meet the other on familiar ground, which feels like home, while the other’s direction of growth lies across the wheel from it."
+    a: "In this contact one person’s Neptune faces the other’s North Node from the opposite side of the chart, and so falls right on their South Node. The Neptune person’s imagination tends to meet the other on familiar ground, which feels like home, while the other’s direction of growth lies across the wheel from it."
   - q: "Is Neptune opposite North Node the same as Neptune conjunct South Node?"
     a: "Yes, between two charts as in one. The two nodes always lie exactly opposite each other, so a Neptune 180° from someone’s North Node sits on their South Node. I name it by the North Node, as astrologers usually do, and read both ends together."
   - q: "Does Neptune opposite North Node hold someone back?"
@@ -53,7 +53,7 @@ The other four, by contrast:
 
 Bring the new into the old company. If the North Node is yours, show this person the thing you're learning, badly done and all, so their imagination has somewhere new to go. If the Neptune is yours, ask about it, and try to picture it as warmly as you picture what you already know. Old friends can keep one shared ritual and add one new thing a year; a parent and an adult child, swap the familiar stories for a question about what's next.
 
-The pairs are easy to find in the calendar. Someone born in mid-1985 has their Neptune, early in Capricorn, on the South Node of people born from October 1982 to April 1983 and from August to November 2001. As for the 1985 South Node, in Scorpio, it sits beneath the Neptune of all births from August 1963 to December 1965, whose Neptune therefore faces the 1985 North Node in Taurus. Since whole cohorts carry it, it has no place among the contacts I tally in a synastry, all of which involve the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven; its houses show one era's dreams resting on another's inheritance.
+The pairs are easy to find in the calendar. Someone born in mid-1985 has their Neptune, early in Capricorn, on the South Node of people born from October 1982 to April 1983 and from August to November 2001. As for the 1985 South Node, in Scorpio, it sits beneath the Neptune of all births from August 1963 to December 1965, whose Neptune therefore faces the 1985 North Node in Taurus. Since whole cohorts carry it, it has no place among the contacts I tally in a synastry, each of which has to involve the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven; its houses show one era's dreams resting on another's inheritance.
 
 No hour of birth will move this opposition in or out, both points being slow; the houses need both times ([what changes without a birth time](/blog/unknown-birth-time/)). Whether you use the mean node or the true one changes these windows very little, since the two stay within a degree or two; I look at both, and the months above follow the true node ([mean node and true node](/astrology/mean-node-and-true-node/)).
 

@@ -19,21 +19,21 @@ facts:
 related: ["/astrology/neptune", "/astrology/north-node", "/astrology/sextile", "/astrology/neptune-sextile-north-node", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Neptune sextile Nœud Nord en synastrie ?"
-    a: "Ce contact décrit Neptune, chez une personne, à environ 60° du Nœud Nord de l’autre. L’imagination de la première rend souvent la nouvelle direction de la seconde moins solitaire et plus possible, sans s’en emparer. Comme tout sextile, c’est une ouverture, qui n’aide que si les deux s’en servent."
+    a: "Ce contact décrit un sextile d’environ 60° qui va de Neptune, chez une personne, jusqu’au Nœud Nord de l’autre. L’imagination de la première rend souvent la nouvelle direction de la seconde moins solitaire et plus possible, sans s’en emparer. Comme tout sextile, c’est une ouverture, qui n’aide que si les deux s’en servent."
   - q: "Est-ce que Neptune sextile Nœud Nord touche aussi le Nœud Sud ?"
     a: "Oui. Le Nœud Sud se trouve exactement à l’opposé du Nœud Nord : à 60° de l’un, Neptune se trouve à environ 120° de l’autre, en trigone. Ce lien facile avec le bout familier fait partie du contact : la même imagination qui encourage le neuf peut aussi rendre les vieilles habitudes très confortables."
   - q: "Qui a Neptune sextile Nœud Nord avec qui ?"
-    a: "Tout se joue sur les dates de naissance : une personne née au milieu de 1975 le partage avec les personnes nées de décembre 1977 à février 1978 et, dans l’autre sens, avec celles nées de novembre 1997 à février 1999. L’orbe est étroit : les fenêtres sont courtes, et quelques semaines suffisent à les manquer."
+    a: "Tout se joue sur les dates de naissance : une personne du milieu de 1975 le partage avec celles nées de décembre 1977 à février 1978 et, dans l’autre sens, avec celles nées de novembre 1997 à février 1999. L’orbe est étroit : les fenêtres sont courtes, et quelques semaines suffisent à les manquer."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, 60°, et le trigone, 120°" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance où Neptune, chez l’une, est à moins de 2,4° d’un sextile avec le Nœud Nord vrai de l’autre" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "le calcul des nœuds moyen et vrai" }
 ---
-L’aide pour grandir ne vient pas toujours comme une poussée. Dans Neptune sextile Nœud Nord en synastrie, l’aide vient comme une offre : Neptune, chez l’une, à environ 60° du Nœud Nord de l’autre, tend une image de là où l’autre pourrait aller, à prendre ou à laisser.
+L’aide pour grandir ne vient pas toujours comme une poussée. Dans Neptune sextile Nœud Nord en synastrie, l’aide vient comme une offre : Depuis le thème de l’une, Neptune tend vers le Nœud Nord de l’autre, à quelque 60°, une image de là où celle-ci pourrait aller, à prendre ou à laisser.
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Neptune](/astrology/neptune/) donne à une personne son sens du possible : des images, un idéal, de la compassion, une confiance en ce qui ne se mesure pas encore. Le [Nœud Nord](/astrology/north-node/) représente une capacité encore en apprentissage, moins automatique que ce qui est venu d’abord ; le [Nœud Sud](/astrology/south-node/), en face, conserve ce qui est venu d’abord. Un [sextile](/astrology/sextile/) les met en lien par l’occasion ; et, les nœuds se faisant face, Neptune forme du même coup un trigone avec le Nœud Sud : ce contact touche les deux bouts. Parmi les [aspects de synastrie](/astrology/synastry-aspects/), cela en fait un pont qu’une personne prête à l’autre.
+[Neptune](/astrology/neptune/) donne à une personne son sens du possible : des images, un idéal, de la compassion, une foi dans ce qu’aucune mesure ne saisit encore. Le [Nœud Nord](/astrology/north-node/) représente une capacité encore en apprentissage, moins automatique que ce qui est venu d’abord ; le [Nœud Sud](/astrology/south-node/), en face, conserve ce qui est venu d’abord. Un [sextile](/astrology/sextile/) les relie par une occasion à saisir ; et, les nœuds se faisant face, Neptune forme du même coup un trigone avec le Nœud Sud : ce contact touche les deux bouts. Parmi les [aspects de synastrie](/astrology/synastry-aspects/), cela en fait un pont qu’une personne prête à l’autre.
 
 Pour qui porte le Nœud Nord, la nouvelle direction devient moins solitaire auprès de l’autre. Elle suggère plutôt qu’elle ne dirige, elle sait vous imaginer faisant la chose inconnue, et vos anciennes forces lui plaisent aussi, puisque Neptune, dans son thème, est en trigone avec votre Nœud Sud. Avec elle, vous n’avez pas à choisir entre ce que vous avez été et ce que vous devenez.
 

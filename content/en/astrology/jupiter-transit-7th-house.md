@@ -16,9 +16,9 @@ facts:
   - { k: "Needs", v: "Your birth time, which places your Descendant" }
 related: ["/astrology/jupiter", "/astrology/7th-house", "/astrology/transits", "/astrology/descendant", "/astrology/jupiter-in-7th-house"]
 faq:
-  - q: "Will I meet someone when Jupiter enters my 7th house?"
-    a: "A transit can’t tell you that. The 7th describes how you meet people one to one, and with Jupiter there I read room and generosity in that part of life: new people may widen your world, existing bonds may feel roomier. Who comes into your life, and when, isn’t written in a transit."
-  - q: "Is Jupiter transiting the 7th house good for marriage?"
+  - q: "Who will I meet while Jupiter crosses my 7th house?"
+    a: "Nobody can read that in a transit. The 7th describes how you meet people one to one, and with Jupiter there I read room and generosity in that part of life: new people may widen your world, existing bonds may feel roomier. Who comes into your life, and when, isn’t written in a transit."
+  - q: "Can Jupiter in the 7th house tell me whether I’ll marry?"
     a: "Tradition gave the 7th marriage and contracts, and Jupiter can make commitment feel more hopeful and more fair-minded. It doesn’t decide whether anyone marries, stays or parts. I never read a transit as the forecast of a relationship’s outcome, only as the climate it’s passing through."
   - q: "Why is Jupiter on my Descendant also opposite my Ascendant?"
     a: "Because the Descendant is the point exactly across the chart from your Ascendant. When Jupiter reaches it, it opens the stay in your 7th and stands opposite your rising degree at the same moment, so the people facing you and the way you present yourself are read together."
@@ -32,9 +32,9 @@ Halfway round the chart from your Ascendant, Jupiter's year in your 7th house tu
 
 [Jupiter](/astrology/jupiter/) broadens understanding and helps experience make sense; the [7th house](/astrology/7th-house/) is partnership, cooperation, agreements and the people you meet as equals, in love and in work. With Jupiter crossing it, I read a year when that part of life gets roomier. People who widen your world can come closer, existing bonds can take on more generosity, and you may find you understand yourself better by watching what you look for in others.
 
-The stay begins at an angle. In Placidus, the house system I use, the 7th opens at the Descendant, the point directly opposite your Ascendant, so the first weeks are Jupiter standing across from your rising degree ([transiting Jupiter opposite natal Ascendant](/astrology/transiting-jupiter-opposite-natal-ascendant/)). The 1st house was *me*; this one is *you*, and Jupiter's year is about the space between.
+On the day Jupiter reaches your Descendant, it also stands opposite your rising degree ([transiting Jupiter opposite natal Ascendant](/astrology/transiting-jupiter-opposite-natal-ascendant/)): the cusp of the 7th, in Placidus, the system I use for houses, is always the point facing the Ascendant. The 1st house was *me*; this one is *you*, and Jupiter's year is about the space between.
 
-Planets you were born with in the 7th are next. Born with Venus there, the house's natural ruler, you may feel that pass as warmth given and received; with Saturn there, as a long commitment given some air.
+Then come any planets your chart holds in the 7th. Born with Venus there, the house's natural ruler, you may feel that pass as warmth given and received; with Saturn there, as a long commitment given some air.
 
 What the [transit](/astrology/transits/) won't do is decide anything for two people. It doesn't say whether you'll meet someone, marry or part, and tradition's contracts and open rivals carry no verdict either: I never read a transit for the outcome of a dispute or a case. It brings out what your chart already holds about partnership, for a year.
 

@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 351
 glyph: "♆☌⚸"
-definition: "In synastry, Neptune conjunct Lilith puts one person’s Neptune within 4° of the other’s mean Black Moon Lilith. One person’s imagination and tenderness settle on what the other learned to keep hidden, which can honour it or turn it into a myth. Whole spells of births share it, so its houses tell me more than the aspect."
+definition: "In synastry, Neptune conjunct Lilith means one person’s Neptune lies no more than 4° from the other’s mean Black Moon Lilith. One person’s imagination and tenderness settle on what the other learned to keep hidden, which can honour it or turn it into a myth. Whole spells of births share it, so its houses tell me more than the aspect."
 facts:
   - { k: "Bodies", v: "One person’s Neptune ♆, the other’s Black Moon Lilith ⚸" }
   - { k: "Aspect", v: "Conjunction ☌, 0°" }

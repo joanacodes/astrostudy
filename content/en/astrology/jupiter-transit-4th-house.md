@@ -19,7 +19,7 @@ faq:
   - q: "Will I move house when Jupiter enters my 4th?"
     a: "It can’t say that. The 4th describes home and belonging, and with Jupiter there I read a wish for more room, literal or not: space, people, time inside your own life. Whether you move depends on your circumstances, and I don’t read a transit as the forecast of any event."
   - q: "When does Jupiter cross my IC?"
-    a: "When it reaches the degree of your Imum Coeli, the point opposite your Midheaven, which your birth time sets. That crossing opens its stay in your 4th house, which in Placidus charts at London’s latitude usually lasts a little over a year, between about 11 and 22 months."
+    a: "When it reaches the degree of your Imum Coeli, the point opposite your Midheaven, which your birth time sets. That crossing opens a stay slightly longer than the average, from about 11 to 22 months in most Placidus charts drawn for London."
   - q: "Is Jupiter’s year in the 4th good for family?"
     a: "It often brings warmth and room to that part of life, and a wider understanding of where you come from. It decides nothing for other people, though: your relatives’ lives are their own, and a transit through your chart describes your experience of home, not theirs."
 sources:
@@ -32,11 +32,11 @@ When Jupiter crosses the Imum Coeli, the point at the very bottom of your chart,
 
 [Jupiter](/astrology/jupiter/) widens what you understand and helps it mean something; the [4th house](/astrology/4th-house/) is home, roots and belonging, the ground you stand on and the self you keep behind your own front door. With Jupiter there, I read a year when that ground gets more generous. You may want more room where you live, more people round the table or fewer, more time inside your own life, or a better understanding of where you come from and what you carry from it.
 
-The stay begins at an angle: in Placidus, the house system I use, the 4th house opens at the IC, so its first weeks are Jupiter crossing that point, directly opposite your Midheaven ([transiting Jupiter opposite natal Midheaven](/astrology/transiting-jupiter-opposite-natal-midheaven/)). There's a fitting echo in the natural order, too: Cancer, the 4th house's sign, is where tradition placed Jupiter's exaltation, as if care and belonging were where its generosity feels most at home.
+The IC is where your chart touches the ground. In Placidus, the house system I use, it's the cusp of the 4th, and Jupiter standing on it is also Jupiter opposite your Midheaven ([transiting Jupiter opposite natal Midheaven](/astrology/transiting-jupiter-opposite-natal-midheaven/)), as if the public side of your life stepped back to let the private one grow. There's a fitting echo in the natural order, too: Cancer, the 4th house's sign, is where tradition placed Jupiter's exaltation, as if care and belonging were where its generosity feels most at home.
 
 If you were born with the Moon in your 4th, the house's natural ruler, Jupiter's pass over it is often the warmest part of the year: feelings about home come closer to the surface.
 
-What this year grows mostly doesn't show at work, and that's as it should be. Like every [transit](/astrology/transits/), it brings out what your chart already holds; it doesn't decide whether you move, or what happens in your family.
+Like every [transit](/astrology/transits/), it brings out what your chart already holds; it doesn't decide whether you move, or what happens in your family.
 
 ## How long it lasts {#how-long-it-lasts}
 

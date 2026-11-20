@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui opposent Neptune, chez l’une, à la Lilith moyenne de l’autre, à 4° près" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "le calcul de l’apogée moyen de la Lune" }
 ---
-Plus l’une tend la main, plus l’autre garde un peu en retrait. Dans Neptune opposition Lilith, les deux points se font face d’un bout à l’autre du zodiaque, un dans chaque thème, et la paire vit sur une balançoire : à un bout, le désir d’une proximité sans bords ; à l’autre, un tranchant qui refuse de se dissoudre.
+Plus l’une tend la main, plus l’autre garde un peu en retrait. Dans Neptune opposition Lilith, les deux points se regardent de part et d’autre du zodiaque, un dans chaque thème, et la paire vit sur une balançoire : à un bout, le désir d’une proximité sans bords ; à l’autre, un tranchant qui refuse de se dissoudre.
 
 ## Ce qui circule {#ce-qui-circule}
 

@@ -19,9 +19,9 @@ facts:
 related: ["/astrology/neptune", "/astrology/north-node", "/astrology/square", "/astrology/neptune-square-north-node", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Neptune carré Nœud Nord en synastrie ?"
-    a: "Neptune, dans un thème, fait un angle droit avec l’axe des nœuds d’un autre : environ 90° du Nœud Nord, et autant du Nœud Sud. L’idéal, les causes et les désirs de la première croisent souvent la route que la seconde apprend à suivre, et tirent de côté, loin de l’ancien terrain comme du nouveau."
+    a: "Neptune, dans un thème, coupe à angle droit l’axe des nœuds d’un autre : environ 90° du Nœud Nord, et autant du Nœud Sud. L’idéal, les causes et les désirs de la première croisent souvent la route que la seconde apprend à suivre, et tirent de côté, loin de l’ancien terrain comme du nouveau."
   - q: "Est-ce que Neptune carré Nœud Nord veut dire que l’une distrait l’autre ?"
-    a: "On peut le vivre ainsi, mais la distraction n’est pas toute l’histoire. Un carré est une friction, et celui-ci oppose un rêve à une discipline. Quand la personne du nœud intègre un peu de cette imagination à sa pratique, et que celle de Neptune vise des pas réels, la friction devient utile."
+    a: "On peut le vivre ainsi, mais la distraction n’est pas toute l’histoire. Un carré frotte, et celui-ci oppose un rêve à une discipline. Quand la personne du nœud intègre un peu de cette imagination à sa pratique, et que celle de Neptune vise des pas réels, la friction devient utile."
   - q: "Est-ce que Neptune carré Nœud Nord peut aller dans les deux sens ?"
     a: "Oui, quand les deux naissances sont proches. Entre une naissance du milieu de 1945 et une autre de septembre à novembre 1945, Neptune de chacune forme un carré avec les nœuds de l’autre. Avec plus d’écart d’âge, il ne va en général que dans un sens."
 sources:
@@ -45,7 +45,7 @@ Côté Neptune, la pratique soigneuse de l’autre peut vous sembler sèche, pre
 
 Un carré est une friction, jamais un verdict sur la paire. Les deux ont raison sur quelque chose : le rêve compte, et la discipline aussi.
 
-Ailleurs dans la paire :
+Les autres aspects de la paire :
 
 - **[Neptune conjonction Nœud Nord en synastrie](/astrology/neptune-conjunct-north-node-synastry/) :** le rêve se pose sur la route devant au lieu de la couper.
 - **[Neptune sextile Nœud Nord en synastrie](/astrology/neptune-sextile-north-node-synastry/) :** une offre plus petite et plus amicale, qui longe la route.
