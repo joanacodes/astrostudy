@@ -20,7 +20,7 @@ faq:
   - q: "Qu’est-ce que Saturne de l’autre dans ma maison 3 change à nos conversations ?"
     a: "Le soin et la prudence de cette personne entrent dans vos échanges de tous les jours : messages, conversations, idées lancées à voix haute. Vos mots gagnent en précision et vous terminez des pensées que vous auriez laissées tomber, tandis que l’autre se sent responsable de la justesse de vos échanges. Gardez de la place pour la pensée inachevée."
   - q: "Pourquoi est-ce que je prépare ce que je dis à une personne dont Saturne est dans ma maison 3 ?"
-    a: "Parce que Saturne, chez elle, se trouve dans la part de votre thème qui couvre la parole de tous les jours, et que Saturne écoute la structure. Son attention aux détails peut ressembler à un examen, même quand elle veut seulement comprendre. Dire que vous pensez à voix haute, plutôt que de livrer une conclusion, aide en général."
+    a: "Parce que Saturne, chez elle, se trouve dans la part de votre thème qui couvre la parole de tous les jours, et que Saturne écoute la structure. Son attention aux détails peut ressembler à un examen, même quand cette personne veut seulement comprendre. Dire que vous pensez à voix haute, plutôt que de livrer une conclusion, aide en général."
   - q: "Est-ce que Saturne de l’autre dans ma maison 3 aide à étudier ensemble ?"
     a: "Souvent, oui. Cette superposition convient aux apprentissages réguliers : réviser à deux, suivre un cours jusqu’au bout, pratiquer une compétence semaine après semaine. La personne dont c’est Saturne tient le rythme, vous apportez la curiosité. Le mieux : des corrections accompagnées d’encouragements, et chacun sa façon d’apprendre."
 sources:

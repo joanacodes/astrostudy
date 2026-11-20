@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/11th-house", "/astrology/house-overlays", "/astrology/aquarius", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Pourquoi l’amitié vient-elle si lentement avec une personne dont Saturne est dans ma maison 11 ?"
-    a: "Cette personne s’engage lentement et pour de bon, et Saturne, dans son thème, arrive justement parmi vos amis et vos groupes : elle reste en retrait jusqu’à connaître sa place, puis elle reste. L’amitié met parfois des années à se former ; c’est souvent celle qui survit aux déménagements et aux décennies."
+    a: "Cette personne s’engage lentement et pour de bon, et Saturne, dans son thème, arrive justement parmi vos amis et vos groupes : cette personne reste en retrait jusqu’à connaître sa place, puis elle reste. L’amitié met parfois des années à se former ; c’est souvent celle qui survit aux déménagements et aux décennies."
   - q: "Est-ce que Saturne de l’autre dans ma maison 11 veut dire que mes amis lui déplaisent ?"
     a: "Pas forcément. Sa réserve parmi vos proches décrit souvent la lenteur avec laquelle cette personne s’autorise à faire partie d’un groupe, pas un jugement. Lui donner un rôle, ou du temps avec un ou deux amis plutôt qu’avec toute la bande, aide en général. Si elle désapprouve vraiment, mieux vaut le dire que le deviner."
   - q: "Pourquoi est-ce moi qui organise ses amis, avec Saturne de mon thème dans sa maison 11 ?"

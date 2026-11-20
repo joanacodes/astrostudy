@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/9th-house", "/astrology/house-overlays", "/astrology/midheaven", "/blog/unknown-birth-time"]
 faq:
   - q: "Pourquoi est-ce qu’une personne dont Saturne est dans ma maison 9 remet en question tout ce que je crois ?"
-    a: "Saturne, chez cette personne, éprouve ce qui dure, et tombe ici dans votre maison des convictions, de l’étude et du sens : elle demande comment vous le savez, et si cela tient. Cela peut ressembler à un doute dirigé contre vous, mais vos convictions en sortent souvent plus solides, et plus à vous."
+    a: "Saturne, chez cette personne, éprouve ce qui dure, et tombe ici dans votre maison des convictions, de l’étude et du sens : cette personne demande comment vous le savez, et si cela tient. Cela peut ressembler à un doute dirigé contre vous, mais vos convictions en sortent souvent plus solides, et plus à vous."
   - q: "Voyager ou étudier avec une personne dont Saturne est dans ma maison 9 : à quoi s’attendre ?"
     a: "Cette superposition apporte en général de la préparation et de la constance aux deux : le cours mené à terme, le long voyage vraiment préparé. Le frottement, c’est une prudence qui refroidit l’enthousiasme. Un plan qui laisse de la place à l’imprévu permet souvent à chacun de profiter de ce que l’autre apporte."
   - q: "Si Saturne, dans mon thème, tombe dans sa maison 9, suis-je trop critique envers ses croyances ?"
@@ -27,7 +27,7 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "Saturne parmi les planètes classiques" }
 ---
-Une conversation sur ce que vous croyez prend un autre tour avec une personne dont Saturne tombe dans votre maison 9. Elle demande comment vous le savez, d’où cela vient, si cela tient, et la foi ou la philosophie que vous lui apportez en sort plus solide, ou plus honnête sur ses doutes.
+Une conversation sur ce que vous croyez prend un autre tour avec une personne dont Saturne tombe dans votre maison 9. Cette personne demande comment vous le savez, d’où cela vient, si cela tient, et la foi ou la philosophie que vous lui apportez en sort plus solide, ou plus honnête sur ses doutes.
 
 ## Ce que ça apporte {#ce-que-ca-apporte}
 

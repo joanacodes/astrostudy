@@ -22,7 +22,7 @@ faq:
   - q: "Pourquoi est-ce que je me sens si libre chez moi avec une personne dont Uranus est dans ma maison 4 ?"
     a: "Uranus, chez cette personne, fait entrer de l’air dans la part de votre vie bâtie sur l’habitude et la mémoire : un foyer avec elle ressemble moins à un scénario et davantage à quelque chose que vous inventez. Si la même agitation vous inquiète, convenez de quelques points fixes et laissez changer le reste."
   - q: "Pourquoi cette personne veut-elle tout changer chez moi ?"
-    a: "Votre foyer lui semble un système qui pourrait fonctionner autrement, et Uranus, dans son thème, a envie d’essayer. Elle se sent peut-être aussi étonnamment libre dans votre monde privé. Cela aide qu’elle demande ce qui est sacré avant de réorganiser, et que vous disiez quelles traditions comptent pour vous."
+    a: "Votre foyer lui semble un système qui pourrait fonctionner autrement, et Uranus, dans son thème, a envie d’essayer. Cette personne se sent peut-être aussi étonnamment libre dans votre monde privé. Cela aide qu’elle demande ce qui est sacré avant de réorganiser, et que vous disiez quelles traditions comptent pour vous."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "les signes et leurs maîtres classiques" }
