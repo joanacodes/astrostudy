@@ -20,7 +20,7 @@ related: ["/astrology/sun-in-capricorn", "/astrology/moon-in-libra", "/astrology
 faq:
   - q: "Un Soleil en Capricorne et une Lune en Balance se heurtent-ils ?"
     a: "Ils se frottent, comme deux signes cardinaux en carré : le Soleil en Capricorne veut décider et bâtir, la Lune en Balance a besoin que les choses soient justes et son entourage en paix. Mais Saturne, maître du Soleil, a son exaltation en Balance : la structure et l’équité ont ici plus en commun que le carré ne le laisse croire."
-  - q: "Pourquoi l’exaltation de Saturne en Balance compte-t-elle pour ce duo ?"
+  - q: "Pourquoi est-ce que l’exaltation de Saturne en Balance compte pour ce duo ?"
     a: "La tradition, à la suite de Ptolémée, donne à Saturne son exaltation en Balance, le signe de l’équilibre et des accords. Avec un Soleil en Capricorne, la planète à laquelle répond votre but est honorée dans le signe de vos besoins. Dans mon carnet, Saturne a aussi bien mieux tenu que la plupart des placements."
   - q: "Une naissance Soleil en Capricorne, Lune en Balance est-elle une naissance de dernier quartier ?"
     a: "Pour la moitié environ. La Lune avait 241° à 299° d’avance sur le Soleil, vingt jours à vingt-quatre jours et demi environ après la nouvelle lune. Ces naissances se partagent également entre les phases disséminante et de dernier quartier des huit, et à 270°, le carré décroissant entre les luminaires est exact."
