@@ -17,7 +17,7 @@ facts:
   - { k: "Il faut", v: "Votre heure de naissance, qui fixe votre Milieu du Ciel ; sa date de naissance" }
 related: ["/astrology/neptune", "/astrology/10th-house", "/astrology/house-overlays", "/astrology/midheaven", "/astrology/capricorn"]
 faq:
-  - q: "Neptune de l’autre dans ma maison 10 peut-elle m’aider à trouver ma vocation ?"
+  - q: "Est-ce que Neptune de l’autre dans ma maison 10 peut m’aider à trouver ma vocation ?"
     a: "Souvent, oui : son idéal atteint le sommet de votre thème, si bien que l’ambition se change en vocation et que le travail semble servir quelque chose. Le soin est pratique. Une vocation a quand même besoin d’un chemin, d’un budget et de conditions claires, et sa foi en vous marche mieux avec votre propre organisation."
   - q: "Est-ce que Neptune de l’autre dans ma maison 10 brouille ma réputation ?"
     a: "Cela peut l’adoucir et l’agrandir : cette personne parle parfois de vous avec un éclat qui finit par faire partie de votre image. C’est agréable, et un peu irréel. Laisser voir le travail derrière l’image garde votre vie publique à vous. La superposition ne prédit jamais ni réussite ni échec."
@@ -47,4 +47,8 @@ Rien de tout cela ne prédit une réussite, un échec ou la carrière de qui que
 
 ## Comment le vivre {#comment-le-vivre}
 
-Donnez un chemin au rêve. Écrivez ce qu’une vocation demanderait concrètement, semaine après semaine, et laissez voir le travail derrière l’image. Dans un couple, soutenez vos vocations par une aide pratique autant que par la foi ; entre amis, l’admiration est la meilleure quand elle n’exige pas que vous restiez impressionnant... 
+Donnez un chemin au rêve. Écrivez ce qu’une vocation demanderait concrètement, semaine après semaine, et laissez voir le travail derrière l’image. Dans un couple, soutenez vos vocations par une aide pratique autant que par la foi ; entre amis, l’admiration est la meilleure quand elle ne vous oblige pas à briller sans cesse ; entre une responsable d’équipe et une personne de l’équipe, rôles et salaire méritent d’être clairs justement parce que la mission inspire ; entre proches adultes, un vieux récit de famille sur ce que vous deviez devenir peut prendre sa retraite en douceur.
+
+L’autre moitié du tableau, c’est votre Neptune dans sa maison 10 : vos idéaux qui rejoignent sa vie publique. [Neptune de l’autre dans votre maison 9](/astrology/neptune-in-9th-house-synastry/) élargit vos convictions ; [Neptune de l’autre dans votre maison 11](/astrology/neptune-in-11th-house-synastry/) circule parmi vos amis et vos causes.
+
+L’idée d’une belle carrière change avec les époques, et deux personnes séparées d’une génération portent souvent des rêves de travail différents. À âge proche, cette superposition reflète peut-être votre propre Neptune, et la vocation qu’elle suggère appartient à votre époque commune ; avec un écart plus grand, les idéaux du travail de sa génération rencontrent votre direction, et les comparer honnêtement peut vous aider à choisir. Neptune avance si lentement que sa seule date de naissance situe Neptune. Votre Milieu du Ciel fait le tour du zodiaque en un jour : votre heure de naissance le fixe, et en Placidus, le système de maisons que j’utilise, il forme la cuspide de votre maison 10 ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Entre collègues plus encore qu’ailleurs, un thème ne se lit qu’avec le oui de la personne à qui il appartient ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/#ce-que-je-demande)).

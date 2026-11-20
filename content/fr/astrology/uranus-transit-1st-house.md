@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 25
 glyph: "♅"
-definition: "Uranus en transit en maison 1, ce sont les années, six environ en général, où Uranus part de votre ascendant pour traverser la maison du moi. Ce transit remue ce que votre thème dit déjà de votre façon d’aborder le monde : une vieille image qui se desserre, une autre, plus libre, essayée au grand jour. Ce passage ne prédit aucun bouleversement."
+definition: "Uranus en transit en maison 1, ce sont les années, six environ en général, où Uranus part de votre ascendant et traverse la maison du moi. Ce transit remue ce que votre thème dit déjà de votre façon d’aborder le monde : une vieille image qui se desserre, une plus libre essayée au grand jour. Ce passage ne prédit aucun bouleversement."
 facts:
   - { k: "Corps", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Maison", v: "La maison 1, angulaire : le moi que vous montrez et votre façon de commencer" }
