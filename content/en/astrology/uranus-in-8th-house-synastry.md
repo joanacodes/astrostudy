@@ -17,7 +17,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/8th-house", "/astrology/house-overlays", "/astrology/can-astrology-predict-death", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Should I be afraid of their Uranus in my 8th house?"
-    a: "No. Whatever the old books said about the 8th, no chart foresees a death or a loss, and I never read one that way. This overlay describes freedom and surprise in intimacy, trust and shared resources; it can feel intense, and clear consent is what keeps intensity safe."
+    a: "No. No chart foresees a death or a loss, whatever the 8th meant to the old books, and I never read one that way. This overlay describes freedom and surprise in intimacy, trust and shared resources; it can feel intense, and clear consent is what keeps intensity safe."
   - q: "Why does intimacy feel so unpredictable with someone whose Uranus is in my 8th house?"
     a: "Their Uranus brings change and the need for air into your house of deep closeness. Openness can come in sudden waves, then space, and shared arrangements may shift. Naming what each of you needs, and agreeing how changes are proposed, turns the unpredictability into something you can trust."
   - q: "Why do I feel free in intimacy with someone whose 8th house holds my Uranus?"
@@ -32,7 +32,7 @@ Closeness takes unexpected turns when someone's Uranus falls in your 8th house. 
 
 [Uranus](/astrology/uranus/) wants the freedom to question what's been taken for granted, and to try another arrangement. [The 8th house](/astrology/8th-house/) holds the bonds that ask the most of you: intimacy of body and mind, the risk of trusting, money and obligations held in common. Here is a [house overlay](/astrology/house-overlays/) that airs out the most private rooms.
 
-For you, it can be a release. Taboos you carried without examining may loosen; you may talk about desire, money or fear more frankly than ever, and find that honesty brings you closer rather than further apart. Shared arrangements, accounts, agreements, can take forms that suit the two of you rather than convention.
+For you, it can loosen what was knotted. Taboos you carried without examining may loosen; you may talk about desire, money or fear more frankly than ever, and find that honesty brings you closer rather than further apart. Shared arrangements, accounts, agreements, can take forms that suit the two of you rather than convention.
 
 For them, your depth may be where they discover they don't have to choose between closeness and freedom. They can feel unusually free with you in intimacy, and curious about everything you keep. [Scorpio](/astrology/scorpio/), the 8th's natural sign, has two rulers I read side by side, Pluto in modern tropical astrology and Mars in the tradition; the house itself is succedent, where whatever a bond builds collects.
 
