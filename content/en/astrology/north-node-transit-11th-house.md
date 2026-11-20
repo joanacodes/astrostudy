@@ -35,7 +35,7 @@ The [North Node](/astrology/north-node/) shows growth that comes with practice. 
 
 The [South Node](/astrology/south-node/) in your 5th knows the solo performance: your own creations, your own pleasure, being the one people watch. It's a real gift. The stretch is to let it serve something bigger than one stage.
 
-Tradition called the 11th the Good Spirit and gave Jupiter its joy there. Aquarius, its natural sign, has two rulers, Saturn, the traditional one, and Uranus, the modern one, and I read both. With either in your natal 11th, the node's month over it tends to show which groups are really yours.
+Jupiter rejoiced in the 11th, the old Good Spirit. Aquarius, its natural sign, has two rulers, Saturn, the traditional one, and Uranus, the modern one, and I read both. With either in your natal 11th, the node's month over it tends to show which groups are really yours.
 
 A [transit](/astrology/transits/) like this one doesn't bring friends by itself or decide which circle will take you in; it brings out what your chart already holds about community.
 

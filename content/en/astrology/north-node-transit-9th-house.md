@@ -35,7 +35,7 @@ The [North Node](/astrology/north-node/) is the direction that asks to be practi
 
 The [South Node](/astrology/south-node/) in your 3rd knows the near ground by heart: facts, messages, errands, the quick answer and the next notification. Your curiosity stays a gift, and so does the ease with which you talk to anyone. The stretch is to let it all add up to something.
 
-Tradition called the 9th the God and gave the Sun its joy there. A natal Sun in your 9th, crossed by the node for a month or so, can make a conviction feel like yours rather than borrowed; a natal Jupiter there, ruler of Sagittarius, the house's natural sign, tends to widen the question.
+In the old scheme the 9th was the God, the house where the Sun rejoiced. A natal Sun in your 9th, crossed by the node for a month or so, can make a conviction feel like yours rather than borrowed; a natal Jupiter there, ruler of Sagittarius, the house's natural sign, tends to widen the question.
 
 Like every [transit](/astrology/transits/), this one brings out what your chart already holds about belief. It doesn't hand you a creed, and I don't read it as a calling you're fated to answer.
 

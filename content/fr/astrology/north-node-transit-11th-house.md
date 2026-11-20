@@ -36,7 +36,7 @@ Le [Nœud Nord](/astrology/north-node/) montre une croissance qui vient avec la 
 
 Le [Nœud Sud](/astrology/south-node/), dans votre maison 5, connaît le numéro en solo : vos créations, votre plaisir, le fait d’être la personne qu’on regarde. C’est un vrai don. L’effort consiste à le mettre au service de quelque chose de plus grand qu’une seule scène.
 
-La tradition appelait la maison 11 le Génie favorable et y plaçait la joie de Jupiter. Le Verseau, son signe naturel, a deux maîtres, Saturne, le traditionnel, et Uranus, le moderne, et je lis les deux. Avec l’un ou l’autre dans votre maison 11 de naissance, le mois que le nœud passe dessus montre souvent quels groupes sont vraiment les vôtres.
+Jupiter avait sa joie en maison 11, l’ancien Génie favorable. Le Verseau, son signe naturel, a deux maîtres, Saturne, le traditionnel, et Uranus, le moderne, et je lis les deux. Avec l’un ou l’autre dans votre maison 11 de naissance, le mois que le nœud passe dessus montre souvent quels groupes sont vraiment les vôtres.
 
 Un [transit](/astrology/transits/) comme celui-ci n’apporte pas d’amis à lui seul et ne décide pas du cercle qui vous accueillera ; il fait ressortir ce que votre thème contient déjà sur la vie en commun.
 

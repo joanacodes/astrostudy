@@ -21,7 +21,7 @@ faq:
   - q: "What does the South Node in my 2nd house mean?"
     a: "It’s crossing your own resources and values, the ground of self-sufficiency: paying your own way, keeping your own counsel, owing no one. That steadiness stays useful. These months ask you to loosen it a little, so that trust can run both ways."
   - q: "How long is the North Node in the 8th house?"
-    a: "Usually about a year and a half. In Placidus charts drawn at London’s latitude, most stays fall between about 11 months and 2 years and 5 months; at New York’s, between about a year and 2 years. Your 2nd, across the chart, holds the South Node for exactly the same months."
+    a: "Most often around eighteen months. In Placidus charts drawn at London’s latitude, the bulk of the stays fall between about 11 months and 2 years and 5 months, and at New York’s they range from about a year to 2 years. Your 2nd, across the chart, holds the South Node for exactly the same months."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long the true node stays in a house, in Placidus charts at London and New York, and its signs from 2026" }
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
@@ -35,7 +35,7 @@ The [North Node](/astrology/north-node/) points to growth that's awkward before 
 
 The [South Node](/astrology/south-node/) in your 2nd knows the opposite habit well: self-sufficiency, keeping your own account, never quite depending on anyone. It's a sturdy skill, and you keep it. The stretch is to stop it becoming a wall.
 
-Scorpio, the 8th's natural sign, has two rulers, Mars, the traditional one, and Pluto, the modern one, and I read both: with either natal in your 8th, the month the node spends over it tends to bring questions of control and trust forward.
+Scorpio, the 8th's natural sign, has two rulers, Mars, the traditional one, and Pluto, the modern one, and I read both: with either natal in your 8th, questions of control and trust tend to come forward while the node crosses it.
 
 Tradition gave this house death and inheritance. A [transit](/astrology/transits/) predicts neither ([can astrology predict death?](/astrology/can-astrology-predict-death/)), and I don't read debts, legacies or joint money for their outcome. What this one stirs is what your chart already holds about closeness.
 

@@ -22,7 +22,7 @@ faq:
   - q: "Que me demande de lâcher le Nœud Sud en maison 3 ?"
     a: "Rien de définitif. Il traverse la maison de l’information quotidienne, où les faits, les messages et les réponses rapides vous sont familiers. Ces savoir-faire restent. Ces mois-là vous demandent d’arrêter de collectionner pour commencer à conclure, afin que ce que vous savez devienne ce que vous pensez."
   - q: "Pourquoi le séjour du Nœud Nord en maison 9 commence au Milieu du Ciel ?"
-    a: "Parce que le nœud avance à reculons : il quitte votre maison 10 en franchissant le Milieu du Ciel, la cuspide de cette maison en Placidus, et entre en maison 9. Au même moment, le Nœud Sud franchit votre Fond du Ciel : le début touche à la fois votre direction publique et vos racines."
+    a: "Parce que le nœud parcourt le zodiaque à l’envers : il quitte votre maison 10 en franchissant le Milieu du Ciel, la cuspide de cette maison en Placidus, et entre en maison 9. Au même moment, le Nœud Sud franchit votre Fond du Ciel : le début touche à la fois votre direction publique et vos racines."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée des séjours du nœud vrai dans une maison, en Placidus à Londres et à New York, et ses signes à partir de 2026" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
@@ -36,7 +36,7 @@ Le [Nœud Nord](/astrology/north-node/) est la direction qui demande à être pr
 
 Le [Nœud Sud](/astrology/south-node/), dans votre maison 3, connaît par cœur le terrain proche : les faits, les messages, les courses, la réponse rapide et la notification suivante. Votre curiosité reste un don, tout comme l’aisance avec laquelle vous parlez à n’importe qui. L’effort consiste à faire de tout cela une somme.
 
-La tradition appelait la maison 9 le Dieu et y plaçait la joie du Soleil. Avec le Soleil dans votre maison 9 de naissance, que le nœud franchit pendant un mois environ, une conviction peut enfin sembler la vôtre plutôt qu’empruntée ; avec Jupiter à cet endroit, maître du Sagittaire, signe naturel de la maison, la question tend à s’élargir.
+Dans l’ancien schéma, la maison 9 était le Dieu, celle où le Soleil se réjouissait. Avec le Soleil dans votre maison 9 de naissance, que le nœud franchit pendant un mois environ, une conviction peut enfin sembler la vôtre plutôt qu’empruntée ; avec Jupiter à cet endroit, maître du Sagittaire, signe naturel de la maison, la question tend à s’élargir.
 
 Comme tout [transit](/astrology/transits/), celui-ci fait ressortir ce que votre thème contient déjà sur les convictions. Il ne vous donne pas de credo, et je n’y lis pas une vocation à laquelle vous seriez destinée ou destiné.
 

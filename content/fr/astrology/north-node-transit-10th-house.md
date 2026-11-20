@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/north-node", "/astrology/10th-house", "/astrology/transits", "/astrology/south-node", "/astrology/north-node-in-10th-house"]
 faq:
   - q: "Est-ce que le Nœud Nord en maison 10 apporte une promotion ?"
-    a: "Aucun transit ne peut la promettre. Je lis une direction : vers un rôle public, des responsabilités et un travail qui porte votre nom. Cela peut vouloir dire demander davantage, changer de voie ou simplement être vue ou vu pour ce que vous faites déjà. Ce qui arrive au travail dépend de bien plus qu’un thème."
+    a: "Aucune promotion ne se lit dans un transit. J’y vois une direction : vers un rôle public, des responsabilités et un travail qui porte votre nom. Cela peut vouloir dire demander davantage, changer de voie ou simplement être vue ou vu pour ce que vous faites déjà. Ce qui arrive au travail dépend de bien plus qu’un thème."
   - q: "Que signifie le Nœud Sud dans ma maison 4 ?"
     a: "Il traverse le foyer, la famille et le moi intime, un terrain que vous connaissez par cœur : veiller sur la maisonnée, rester près de vos origines, vous faire discrète ou discret. Ce soin garde toute sa valeur. Ces mois-là vous demandent d’en porter une part hors de la maison, vers le monde."
   - q: "Pourquoi le séjour du Nœud Nord en maison 10 s’achève au Milieu du Ciel ?"
@@ -36,7 +36,7 @@ Le [Nœud Nord](/astrology/north-node/) est la direction la moins pratiquée, et
 
 Le [Nœud Sud](/astrology/south-node/), dans votre maison 4, décrit ce qui rassure : le foyer, la famille, le moi intime, le travail que personne ne voit. Ce terrain reste le vôtre, et vous y reviendrez. Ces mois-là demandent s’il n’est pas devenu une cachette.
 
-Le Capricorne, signe naturel de la maison 10, revient à Saturne, et la tradition y plaçait l’exaltation de Mars : l’ambition avec la patience. Avec Saturne dans votre maison 10 de naissance, que le nœud rencontre pendant un mois environ, un but ancien semble souvent à portée d’un vrai effort.
+Le Capricorne, signe naturel de la maison 10, revient à Saturne, et la tradition y plaçait l’exaltation de Mars : l’ambition avec la patience. Saturne dans votre maison 10 de naissance ? Quand le nœud y passe, un but ancien semble souvent à portée d’un vrai effort.
 
 Un [transit](/astrology/transits/) comme celui-ci fait ressortir ce que votre thème contient déjà sur la vocation. Il ne vous nomme à rien, et je n’y lis ni l’issue d’une carrière ni un destin.
 

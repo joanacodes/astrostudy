@@ -35,7 +35,7 @@ The [North Node](/astrology/north-node/) is the direction that gets easier with 
 
 The [South Node](/astrology/south-node/) in your 12th describes the familiar move of these months: drifting, waiting to feel ready, slipping away when the day gets loud. Rest and imagination are real needs, and nobody's asking you to drop them. The stretch is to give them edges.
 
-Tradition called the 6th Bad Fortune and gave Mars its joy there, as if effort belonged in this house. A natal Mars in your 6th, met by the node for a month or so, can turn restlessness into steady work.
+Mars, the planet of effort, had its joy in this house, which the old books named Bad Fortune. If you were born with Mars in the 6th, the weeks the node spends on it can turn restlessness into steady work.
 
 Books once read illness in the 6th. I don't. A [transit](/astrology/transits/) can't diagnose anything ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)), and if your health worries you, a doctor is the person to see. What this one brings out is what your chart already says about work and habit.
 

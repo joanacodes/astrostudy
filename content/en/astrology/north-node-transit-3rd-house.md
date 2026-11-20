@@ -35,7 +35,7 @@ The [North Node](/astrology/north-node/) shows growth that asks for practice. Th
 
 The [South Node](/astrology/south-node/) meanwhile crosses your 9th, the house of belief and distant places. Its familiar move is the big answer: the theory that explains everything, the certainty, the plan to be somewhere else. Your convictions stay yours; the stretch is to test them against the details in front of you.
 
-Tradition called the 3rd the Goddess and gave the Moon its joy there, which suits the nodes, the two points where the Moon's path crosses the Sun's. With a natal Moon in your 3rd, the month the node spends on it tends to turn feelings into words.
+The Moon, whose path makes the nodes where it crosses the Sun's, had its joy in the 3rd, the house tradition called the Goddess. If your Moon sits in the 3rd, the node's passage over it tends to turn feelings into words.
 
 In Placidus, the house system I use, the stay begins at your IC, and as the North Node crosses it, the South Node crosses your Midheaven ([transiting North Node opposite natal Midheaven](/astrology/transiting-north-node-opposite-natal-midheaven/)). A [transit](/astrology/transits/) like this one brings out what your chart already holds about learning; it doesn't decide what you'll hear or say.
 

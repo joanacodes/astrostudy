@@ -22,7 +22,7 @@ faq:
   - q: "Que signifie le Nœud Sud dans ma maison 2 ?"
     a: "Il traverse vos propres ressources et vos valeurs, le terrain de l’autonomie : payer votre part, garder vos affaires pour vous, ne rien devoir à personne. Cette solidité reste utile. Ces mois-là vous demandent de la desserrer un peu, pour que la confiance circule dans les deux sens."
   - q: "Combien de temps dure le passage du Nœud Nord en maison 8 ?"
-    a: "Environ un an et demi en général. Dans les thèmes en Placidus dressés à la latitude de Londres, la plupart des séjours tombent entre 11 mois et 2 ans et 5 mois environ ; à celle de New York, entre un an et 2 ans environ. Votre maison 2, en face, garde le Nœud Sud exactement pendant les mêmes mois."
+    a: "Dix-huit mois environ, le plus souvent. Dans les thèmes en Placidus dressés à la latitude de Londres, l’essentiel des séjours tombe entre 11 mois et 2 ans et 5 mois environ, et à la latitude de New York, ils vont d’un an à 2 ans environ. Votre maison 2, en face, garde le Nœud Sud exactement pendant les mêmes mois."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée des séjours du nœud vrai dans une maison, en Placidus à Londres et à New York, et ses signes à partir de 2026" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
@@ -36,7 +36,7 @@ Le [Nœud Nord](/astrology/north-node/) montre une croissance maladroite avant d
 
 Le [Nœud Sud](/astrology/south-node/), dans votre maison 2, connaît bien l’habitude inverse : se suffire, tenir ses propres comptes, ne jamais tout à fait dépendre de quelqu’un. C’est un savoir-faire solide, et vous le gardez. L’effort consiste à l’empêcher de devenir un mur.
 
-Le Scorpion, signe naturel de la maison 8, a deux maîtres, Mars, le traditionnel, et Pluton, le moderne, et je lis les deux : avec l’un ou l’autre dans votre maison 8 de naissance, le mois que le nœud passe dessus met souvent en avant les questions de contrôle et de confiance.
+Le Scorpion, signe naturel de la maison 8, a deux maîtres, Mars, le traditionnel, et Pluton, le moderne, et je lis les deux : avec l’un ou l’autre dans votre maison 8 de naissance, les questions de contrôle et de confiance passent souvent au premier plan pendant ce passage du nœud.
 
 La tradition donnait à cette maison la mort et l’héritage. Un [transit](/astrology/transits/) ne prédit ni l’une ni l’autre ([L’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)), et je ne lis pas non plus l’issue d’une dette, d’un legs ou d’un argent commun. Ce transit remue ce que votre thème contient déjà sur la proximité.
 

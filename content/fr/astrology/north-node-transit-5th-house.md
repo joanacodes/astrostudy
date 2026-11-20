@@ -36,7 +36,7 @@ Le [Nœud Nord](/astrology/north-node/) montre ce qui grandit avec la pratique, 
 
 Le [Nœud Sud](/astrology/south-node/), dans votre maison 11, connaît l’autre façon de vivre : appartenir à un groupe, servir une cause, être une bonne amie ou un bon ami pour beaucoup, souvent aux dépens de vos propres envies. Ces liens restent. La question, c’est de savoir s’il existe une version de vous en dehors d’eux.
 
-La tradition appelait la maison 5 la Fortune favorable et y plaçait la joie de Vénus. Avec Vénus dans votre maison 5 de naissance, que le nœud rencontre pendant un mois environ, le plaisir s’accepte souvent plus facilement ; avec Saturne à cet endroit, le jeu peut devenir un savoir-faire que vous avez enfin le droit d’apprendre.
+Le nom ancien de la maison 5 était la Fortune favorable, et Vénus y avait sa joie. Avec Vénus dans votre maison 5 de naissance, le plaisir s’accepte souvent plus facilement quand le nœud l’atteint ; avec Saturne à cet endroit, le jeu peut devenir un savoir-faire que vous avez enfin le droit d’apprendre.
 
 Les anciens livres plaçaient aussi les enfants dans cette maison. Un [transit](/astrology/transits/) ne prédit pas de grossesse ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et ce site ne lit jamais le thème d’un enfant ([le thème des enfants](/astrology/childrens-charts/)) : ce que je lis, c’est la joie propre de l’adulte.
 

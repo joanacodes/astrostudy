@@ -17,7 +17,7 @@ facts:
 related: ["/astrology/north-node", "/astrology/10th-house", "/astrology/transits", "/astrology/south-node", "/astrology/north-node-in-10th-house"]
 faq:
   - q: "Does the North Node in my 10th house bring a promotion?"
-    a: "No transit can promise one. What I read is a direction: towards a public role, responsibility and work that carries your name. That might mean asking for more, changing course or simply being seen for what you already do. What happens at work depends on far more than a chart."
+    a: "No transit can promise one. I read a direction here: towards a public role, responsibility and work that carries your name. That might mean asking for more, changing course or simply being seen for what you already do. What happens at work depends on far more than a chart."
   - q: "What does the South Node in my 4th house mean?"
     a: "It’s crossing home, family and the private self, ground you know by heart: looking after the household, staying close to where you come from, keeping a low profile. That care stays valuable. These months ask you to bring some of it out of the house and into the world."
   - q: "Why does the North Node’s 10th-house stay end at the Midheaven?"
@@ -35,7 +35,7 @@ The [North Node](/astrology/north-node/) is the less practised direction, and th
 
 The [South Node](/astrology/south-node/) in your 4th describes what feels safe: home, family, the private self, the work nobody sees. That ground stays yours, and you'll still go back to it. These months ask whether it has become a place to hide.
 
-Capricorn, the 10th's natural sign, belongs to Saturn, and tradition gave Mars its exaltation there: ambition with patience. A natal Saturn in your 10th, met by the node for a month or so, tends to make a long-held aim feel within reach of real effort.
+Capricorn, the 10th's natural sign, belongs to Saturn, and tradition gave Mars its exaltation there: ambition with patience. Born with Saturn in the 10th? When the node passes over it, a long-held aim tends to feel within reach of real effort.
 
 A [transit](/astrology/transits/) like this one brings out what your chart already holds about vocation. It doesn't appoint you to anything, and I don't read a career outcome or a destiny in it.
 

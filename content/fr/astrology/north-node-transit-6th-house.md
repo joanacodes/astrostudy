@@ -36,7 +36,7 @@ Le [Nœud Nord](/astrology/north-node/) est la direction qui devient plus facile
 
 Le [Nœud Sud](/astrology/south-node/), dans votre maison 12, décrit le geste familier de ces mois-là : dériver, attendre de se sentir prête ou prêt, s’éclipser quand la journée devient bruyante. Le repos et l’imagination sont de vrais besoins, et personne ne vous demande d’y renoncer. L’effort consiste à leur donner des contours.
 
-La tradition appelait la maison 6 la Fortune défavorable et y plaçait la joie de Mars, comme si l’effort avait sa place ici. Avec Mars dans votre maison 6 de naissance, que le nœud rencontre pendant un mois environ, l’agitation peut devenir un travail régulier.
+Mars, la planète de l’effort, avait sa joie dans cette maison, que les anciens livres nommaient la Fortune défavorable. Si Mars se trouve dans votre maison 6 de naissance, les semaines que le nœud passe dessus peuvent changer l’agitation en travail régulier.
 
 Les livres lisaient autrefois la maladie en maison 6. Pas moi. Un [transit](/astrology/transits/) ne peut rien diagnostiquer ([L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)), et si votre santé vous inquiète, c’est un médecin qu’il faut voir. Ce transit fait ressortir ce que votre thème dit déjà du travail et des habitudes.
 

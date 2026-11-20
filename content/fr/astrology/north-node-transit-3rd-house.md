@@ -36,7 +36,7 @@ Le [Nœud Nord](/astrology/north-node/) montre une croissance qui demande de l�
 
 Pendant ce temps, le [Nœud Sud](/astrology/south-node/) traverse votre maison 9, celle des convictions et des pays lointains. Son geste familier, c’est la grande réponse : la théorie qui explique tout, la certitude, le projet d’être ailleurs. Vos convictions restent les vôtres ; l’effort consiste à les éprouver contre les détails que vous avez sous les yeux.
 
-La tradition appelait la maison 3 la Déesse et y plaçait la joie de la Lune, ce qui convient aux nœuds, les deux points où la route de la Lune croise celle du Soleil. Avec la Lune dans votre maison 3 de naissance, le mois que le nœud passe dessus aide souvent les émotions à trouver leurs mots.
+La Lune, dont la route dessine les nœuds en croisant celle du Soleil, avait sa joie en maison 3, celle que la tradition appelait la Déesse. Si la Lune se trouve dans votre maison 3 de naissance, le passage du nœud sur elle aide souvent les émotions à trouver leurs mots.
 
 En Placidus, le système de maisons que j’utilise, le séjour commence à votre Fond du Ciel, et pendant que le Nœud Nord le franchit, le Nœud Sud franchit votre Milieu du Ciel ([Nœud Nord en transit opposition Milieu du Ciel du thème natal](/astrology/transiting-north-node-opposite-natal-midheaven/)). Un [transit](/astrology/transits/) comme celui-ci fait ressortir ce que votre thème contient déjà sur l’apprentissage ; il ne décide pas de ce que vous entendrez ou direz.
 

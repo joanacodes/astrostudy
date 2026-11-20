@@ -35,7 +35,7 @@ The [North Node](/astrology/north-node/) points to what grows with practice, and
 
 The [South Node](/astrology/south-node/) in your 11th knows the other way of living: belonging to a group, serving a cause, being a good friend to many, often at the cost of your own wants. Those bonds stay. The question is whether there's a version of you outside them.
 
-Tradition called the 5th Good Fortune and gave Venus its joy there. A natal Venus in the 5th, met by the node for a month or so, tends to make pleasure easier to accept; a natal Saturn there can make play feel like a skill you're finally allowed to learn.
+The 5th's old name was Good Fortune, and Venus had its joy there. A natal Venus in the 5th tends to make pleasure easier to accept when the node reaches it; a natal Saturn there can make play feel like a skill you're finally allowed to learn.
 
 The old books also put children in this house. A [transit](/astrology/transits/) doesn't predict a pregnancy ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and this site never reads a child's chart ([children's charts](/astrology/childrens-charts/)): what I read is the adult's own joy.
 
