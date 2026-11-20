@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 82
 glyph: "☉♎☽♑"
-definition: "Soleil en Balance, Lune en Capricorne réunit l’air cardinal et la terre cardinale en carré, cinq à dix jours après une nouvelle lune, avec l’exaltation de Saturne dans le signe du Soleil et sa maîtrise sur celui de la Lune. J’y lis un moi qui négocie des termes justes, avec des besoins rassurés dès qu’un plan tient."
+definition: "Soleil en Balance, Lune en Capricorne réunit l’air cardinal et la terre cardinale en carré, cinq à dix jours après une nouvelle lune, avec l’exaltation de Saturne dans le signe du Soleil et sa maîtrise sur celui de la Lune. Je lis là un moi qui négocie des termes justes, avec des besoins rassurés dès qu’un plan tient."
 facts:
   - { k: "Signe solaire", v: "Balance ♎, gouvernée par Vénus ; chute du Soleil et exaltation de Saturne" }
   - { k: "Signe lunaire", v: "Capricorne ♑, gouverné par Saturne ; exil de la Lune" }
@@ -35,7 +35,7 @@ Saturne relie ce duo : la Balance, où se trouve votre Soleil, est son exaltati
 
 La Balance est air cardinal, le Capricorne terre cardinale, trois signes plus loin, ce qui fait un [carré](/astrology/square/) par signe. Chacun aime commencer les choses, et tous deux aiment une forme de structure : le [Soleil en Balance](/astrology/sun-in-libra/) une structure équitable, aux règles acceptables par tous ; la [Lune en Capricorne](/astrology/moon-in-capricorn/) une structure fiable, avec un plan et quelqu’un qui en répond, souvent vous. C’est peut-être vous qui négociez l’accord, puis veillez sans bruit à son exécution.
 
-Aucun des deux luminaires n’est à son aise selon les vieilles règles : le Soleil est dans sa [chute](/astrology/fall/) en Balance, la Lune dans son [exil](/astrology/detriment/) en Capricorne, face au Cancer, son propre signe. Je n’y lis pas de verdict. La chute décrit un moi qui agit par la consultation ; l’exil, une Lune qui montre son soin par la fiabilité plutôt que par la douceur. C’est [Vénus](/astrology/venus/) qui gouverne la Balance, et [Saturne](/astrology/saturn/) qui gouverne le Capricorne tout en ayant son exaltation en Balance : le signe, la maison et les aspects de Saturne comptent donc deux fois. Dans [mon carnet](/blog/i-tested-my-birth-chart/), où chaque placement a été vérifié un à un, Saturne comptait parmi les [trois qui ont tenu](/blog/saturn-chiron-lilith/), 75 à 90 % du temps, quand l’ensemble de mes croix et de mes coches donnait environ un tiers ; avec Saturne derrière vos deux luminaires, c’est par là que je commencerais.
+Aucun des deux luminaires n’est à son aise selon les vieilles règles : le Soleil a sa [chute](/astrology/fall/) en Balance, la Lune son [exil](/astrology/detriment/) en Capricorne, face au Cancer, son propre signe. Je n’y lis pas de verdict. La chute décrit un moi qui agit par la consultation ; l’exil, une Lune qui montre son soin par la fiabilité plutôt que par la douceur. C’est [Vénus](/astrology/venus/) qui gouverne la Balance, et [Saturne](/astrology/saturn/) qui gouverne le Capricorne tout en ayant son exaltation en Balance : le signe, la maison et les aspects de Saturne comptent donc deux fois. Dans [mon carnet](/blog/i-tested-my-birth-chart/), où chaque placement a été vérifié un à un, Saturne comptait parmi les [trois qui ont tenu](/blog/saturn-chiron-lilith/), 75 à 90 % du temps, quand l’ensemble de mes croix et de mes coches donnait environ un tiers ; avec Saturne derrière vos deux luminaires, c’est par là que je commencerais.
 
 Entre le cinquième et le dixième jour du mois lunaire, la Lune avait pris 61° à 119° d’avance sur le Soleil : un croissant qui s’épaissit vers la moitié, ou la dépasse à peine. Ces naissances se coupent presque exactement en deux : le [premier croissant](/astrology/waxing-crescent/) prend les plus précoces, le [premier quartier](/astrology/first-quarter-moon/) les autres, et un [Soleil carré Lune](/astrology/sun-square-moon/) croissant exact se trouve à 90°. Le premier quartier change le frottement en action, tel que je le lis, et une Lune en Capricorne excelle dans l’action. [Votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) décrit l’une et l’autre.
 
@@ -43,7 +43,7 @@ Environ 1 personne sur 144 a les luminaires dans ce carré, avec Saturne derriè
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-Votre amour prend volontiers la forme de la fiabilité et de l’équité : le plan fait, la promesse tenue, le travail partagé à parts égales. Dire ce que vous ressentez vous coûte davantage. Le Soleil en Balance garde les choses agréables, la Lune en Capricorne remet ses propres besoins à plus tard, et l’autre ne découvre parfois votre épuisement qu’après coup. Laissez quelqu’un prendre soin de vous sans raison, et ne le lui rendez pas dans la semaine.
+Votre amour prend volontiers la forme de la fiabilité et de l’équité : le plan fait, la promesse tenue, le travail partagé à parts égales. Dire ce que vous ressentez vous coûte davantage. Le Soleil en Balance tient à l’agrément, la Lune en Capricorne remet ses propres besoins à plus tard, et l’autre ne découvre parfois votre épuisement qu’après coup. Laissez quelqu’un prendre soin de vous sans raison, et ne le lui rendez pas dans la semaine.
 
 ## Au travail {#au-travail}
 

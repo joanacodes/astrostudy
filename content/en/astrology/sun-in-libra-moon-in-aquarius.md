@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 83
 glyph: "☉♎☽♒"
-definition: "Sun in Libra, Moon in Aquarius places both lights in air, with Aquarius four signs on from Libra, a week or more after a new moon. I read it as a self built on fair dealing between particular people, with needs that rest on friendship, principle and a little room to breathe."
+definition: "Sun in Libra, Moon in Aquarius places both lights in air, with Aquarius four signs on from Libra, a week or more after a new moon. In my reading, a self built on fair dealing between particular people, with needs that rest on friendship, principle and a little room to breathe."
 facts:
   - { k: "Sun sign", v: "Libra ♎, ruled by Venus; the Sun’s fall" }
   - { k: "Moon sign", v: "Aquarius ♒, ruled by Uranus and Saturn; the sign of the Sun’s detriment" }
@@ -32,13 +32,13 @@ Fairness between two people and fairness for everyone: your Sun in Libra cares a
 
 ## How they get along {#how-they-get-along}
 
-Libra is cardinal air and Aquarius fixed air, four signs on: a [trine](/astrology/trine/) by sign, the easiest relation two signs can have, with a shared element besides. The [Sun in Libra](/astrology/sun-in-libra/) wants the fair arrangement between particular people; the [Moon in Aquarius](/astrology/moon-in-aquarius/) feels safe among friends and principles, with a little distance and room to be itself. You think readily about how people ought to treat each other, at the dinner table and in the world.
+Libra is cardinal air and Aquarius fixed air, four signs on: a [trine](/astrology/trine/) by sign, the easiest relation two signs can have, with a shared element besides. The [Sun in Libra](/astrology/sun-in-libra/) looks for the fair arrangement between particular people; the [Moon in Aquarius](/astrology/moon-in-aquarius/) feels safe among friends and principles, with a little distance and room to be itself. You think readily about how people ought to treat each other, at the dinner table and in the world.
 
 Tradition gives the Sun its fall in Libra and its detriment in Aquarius, so your two lights occupy the Sun's two hardest signs. I read that as a self and a set of needs that work through other people rather than by standing out alone, which suits air. [Venus](/astrology/venus/) rules Libra. Aquarius has two rulers and I read both: [Uranus](/astrology/uranus/), given to it by modern astrologers, shows where your Moon has to do things its own way; [Saturn](/astrology/saturn/), its ruler in the older books, shows what it is willing to commit to. Saturn is also exalted in Libra, so it touches both lights. In [my notebook](/blog/i-tested-my-birth-chart/), Saturn, Chiron and Lilith were the three placements that held 75 to 90% of the time, and overall about a third of what I checked held; with Saturn on both sides of this pair, I give it a careful look.
 
-The Moon was 90° to 150° ahead of the Sun, in a lunar month 7½ to 12½ days old. The [first quarter moon](/astrology/first-quarter-moon/) holds the greater part of these births, the [waxing gibbous moon](/astrology/waxing-gibbous-moon/) the latest few, about one in eight, and near 120° a waxing [Sun trine Moon](/astrology/sun-trine-moon/) keeps purpose and need moving in step. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) separates the two phases.
+Between 7½ and 12½ days after the new moon, the Moon stood 90° to 150° from the Sun on its waxing side. The [first quarter moon](/astrology/first-quarter-moon/) holds the greater part of these births, the [waxing gibbous moon](/astrology/waxing-gibbous-moon/) the latest few, about one in eight, and near 120° a waxing [Sun trine Moon](/astrology/sun-trine-moon/) keeps purpose and need moving in step. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) separates the two phases.
 
-Roughly one birth in 144 brings this pair. The Moon's crossings into and out of Aquarius happen every month, and on those days your page might be the [Sun in Libra, Moon in Capricorn](/astrology/sun-in-libra-moon-in-capricorn/) or the [Sun in Libra, Moon in Pisces](/astrology/sun-in-libra-moon-in-pisces/) instead: the time settles it ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)). It also sets the rising sign and the houses, and so the places in your life where Uranus and Saturn, the Moon's two rulers, actually do their work.
+Roughly one birth in 144 brings this pair. The Moon's crossings into and out of Aquarius happen every month, and on those days your page might be the [Sun in Libra, Moon in Capricorn](/astrology/sun-in-libra-moon-in-capricorn/) or the [Sun in Libra, Moon in Pisces](/astrology/sun-in-libra-moon-in-pisces/) instead, and only the birth time can choose ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)). With it come the rising sign and the houses, and so the places in your life where Uranus and Saturn, the Moon's two rulers, actually do their work.
 
 ## In close relationships {#in-close-relationships}
 

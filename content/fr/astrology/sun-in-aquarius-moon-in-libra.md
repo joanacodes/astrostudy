@@ -43,7 +43,7 @@ Le décompte donne ce duo à environ 1 personne sur 144 : avec celui de la Lune
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-Le couple compte pour vous comme un échange d’égal à égal entre amis. La Lune en Balance cherche l’harmonie avec la personne la plus proche et remarque vite quand l’équilibre penche ; le Soleil en Verseau a besoin que cette personne respecte son indépendance et ses convictions. Discuter de ce qui serait juste vous est peut-être plus facile que dire ce qui vous ferait plaisir. Essayez dans l’autre ordre : un désir dit simplement s’équilibre mieux qu’un principe.
+Le couple compte pour vous comme un échange d’égal à égal. La Lune en Balance cherche l’harmonie avec la personne la plus proche et remarque vite quand l’équilibre penche ; le Soleil en Verseau a besoin que cette personne respecte son indépendance et ses convictions. Discuter de ce qui serait juste vous est peut-être plus facile que dire ce qui vous ferait plaisir. Essayez dans l’autre ordre : un désir dit simplement s’équilibre mieux qu’un principe.
 
 ## Au travail {#au-travail}
 
