@@ -1,7 +1,7 @@
 ---
 title: "Mercury retrograde in Gemini"
 h1: "When Mercury turns retrograde in Gemini"
-description: "Mercury retrograde in Gemini: Mercury backing through its own sign, its dates from 2000 to 2040, what it slows house by house, and what helps."
+description: "Mercury retrograde in Gemini, Mercury’s own sign: barely 9° covered each time, the dates from 2000 to 2040, what slows house by house, and what helps."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

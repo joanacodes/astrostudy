@@ -2,7 +2,7 @@
 title: "Thème en étoile irrégulière"
 slug: "theme-en-etoile-irreguliere"
 h1: "Le thème en étoile irrégulière en astrologie"
-description: "Le thème en étoile irrégulière en astrologie : des amas de planètes inégalement répartis, une forme de Marc Edmund Jones, pourquoi pas de décompte, ses centres."
+description: "Le thème en étoile irrégulière en astrologie : quelques amas de planètes inégaux, la plus irrégulière des formes de Marc Edmund Jones, et ses centres."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
@@ -49,6 +49,6 @@ Les maisons des amas demandent l’heure de naissance, tout comme la Lune, qui p
 - **Nommez chaque amas.** Donnez à chaque nœud une description simple, d’après ses planètes et sa maison. Les voir en liste rend le thème plus facile à vivre.
 - **Construisez des ponts.** Les aspects entre les amas sont l’endroit où vos talents peuvent se rejoindre. Les projets qui mobilisent deux centres à la fois conviennent souvent à cette forme.
 - **Respectez l’irrégularité.** Une vie à plusieurs centres ne ressemblera à aucune autre. Ce n’est pas du désordre ; c’est la forme.
-- **Donnez à chaque centre sa saison.** Tous les amas n’ont pas besoin d’attention en même temps. Passer de l’un à l’autre avec le temps, c’est ainsi que chacun a son tour.
+- **Donnez à chaque centre sa saison.** Inutile de vous occuper de tous les amas à la fois. Passer de l’un à l’autre avec le temps, c’est ainsi que chacun a son tour.
 
 Le [thème en éventail](/astrology/fan-chart/), dernière forme de cette famille, ne fait pas partie des sept de Jones ; il a sa propre page. Une étoile irrégulière n’a pas de centre unique, et c’est sa nature : plusieurs endroits où se tenir, et une vie qui peut apprendre à passer de l’un à l’autre.

@@ -1,7 +1,7 @@
 ---
 title: "Progressed Moon in Cancer"
 h1: "The progressed Moon in Cancer"
-description: "The progressed Moon in Cancer: the Moon in its own sign for about two years and four months, what the chapter brings, how long it lasts, what helps."
+description: "The progressed Moon in Cancer, the Moon’s own sign: a chapter of home, family and belonging, how long it usually lasts, and what helps."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

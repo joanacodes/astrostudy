@@ -1,7 +1,7 @@
 ---
 title: "Mercury retrograde in Libra"
 h1: "When Mercury turns retrograde in Libra"
-description: "Mercury retrograde in Libra: Mercury backing through the sign of the scales, its dates from 2000 to 2040, what it slows house by house, and what helps."
+description: "Mercury retrograde in Libra, often three years running: its dates from 2000 to 2040, the agreements it reopens house by house, and what helps."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -22,7 +22,7 @@ faq:
   - q: "What does Mercury retrograde in Libra mean?"
     a: "Astrologers read it as weeks when Mercury’s diplomatic, weighing side turns back: agreements, compromises and conversations between two people come round for a second hearing. I read it as balance being checked, never as a prediction about a relationship."
   - q: "How long does Mercury retrograde in Libra last?"
-    a: "About 20½ to 22½ days, in the dates from 2000 to 2040, covering 14½° to 16° of the zodiac. Many start in Scorpio or finish in Virgo, so only part of each falls in Libra; those that stay inside it, as in 2021 and 2028, give the sign all of their weeks."
+    a: "A Libra retrograde lasts about 20½ to 22½ days and travels 14½° to 16° of the zodiac, in the dates from 2000 to 2040. Many start in Scorpio or finish in Virgo, so only part of each falls in Libra; those that stay inside it, as in 2021 and 2028, give the sign all of their weeks."
   - q: "Is Mercury retrograde in Libra bad for relationships?"
     a: "No transit decides how a relationship goes, and I never read a break-up from one. Libra is the sign of partnership, so these weeks are often read as a time when what two people agreed is talked over again, which can be a useful conversation in any month."
 sources:

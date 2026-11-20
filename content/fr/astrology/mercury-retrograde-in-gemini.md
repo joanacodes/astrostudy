@@ -2,7 +2,7 @@
 title: "Mercure rétrograde en Gémeaux"
 slug: "mercure-retrograde-en-gemeaux"
 h1: "Quand Mercure rétrograde en Gémeaux"
-description: "Mercure rétrograde en Gémeaux : Mercure qui recule dans son propre signe, ses dates de 2000 à 2040, ce qui ralentit maison par maison, et ce qui aide."
+description: "Mercure rétrograde en Gémeaux, son propre signe : à peine 9° chaque fois, les dates de 2000 à 2040, ce qui ralentit maison par maison, ce qui aide."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

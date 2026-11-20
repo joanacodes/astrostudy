@@ -44,7 +44,7 @@ Le décompte sur lequel s’appuie ce site mesure chaque thème à une seule rè
 
 Les planètes qui la composent n’en sont pas moins réelles. Si un logiciel trace une enveloppe dans votre thème, ses planètes forment bien chacun des aspects qu’il montre, et chaque aspect garde le sens qu’il a toujours dans le système que j’ai construit pour mes lectures : ouvertures, circulations, frottements, polarités, ajustements, selon l’angle. Je les lis d’abord, un par un, dans leurs signes. Puis je me demande ce qu’ajoute le fait de les lier. Une figure est une insistance : elle dit que ces fonctions ont tendance à bouger ensemble, pas qui vous êtes, et elle mérite l’attention quand elle répète ce que le reste du thème dit déjà.
 
-Les maisons de ses planètes décident des domaines de vie que la figure relie, et elles demandent l’heure de naissance. Si la Lune occupe l’un de ses coins, la figure peut ne tenir qu’une partie de la journée. C’est pourquoi je [ne lis pas un thème sans l’heure de naissance](/blog/unknown-birth-time/), quel que soit le nom de ses configurations.
+Seule l’heure de naissance place ses planètes dans des maisons, et donc dans des domaines de votre vie. Si la Lune occupe l’un de ses coins, la figure peut ne tenir qu’une partie de la journée. C’est pourquoi je [ne lis pas un thème sans l’heure de naissance](/blog/unknown-birth-time/), quel que soit le nom de ses configurations.
 
 ## Ce qui aide {#ce-qui-aide}
 

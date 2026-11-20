@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 22
 glyph: "✦"
-definition: "A splash chart has its planets spread round the wheel rather than gathered in one part of it: more an absence of pattern than a pattern. Of Marc Edmund Jones’s seven shapes, it is the least shaped. I read it as breadth, attention shared out across many areas of life. Its definition varies too much between authors for a count."
+definition: "A splash chart has its planets spread round the wheel rather than gathered in one part of it: more an absence of pattern than a pattern. Of Marc Edmund Jones’s seven shapes, it is the least shaped. I read it as breadth, attention shared out across many areas of life. Authors disagree on its edges, so it goes uncounted here."
 facts:
   - { k: "Shape", v: "Planets spread round the whole wheel, in many signs" }
   - { k: "Aspects", v: "None required: it’s the spread of the planets" }

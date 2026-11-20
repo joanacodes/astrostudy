@@ -1,7 +1,7 @@
 ---
 title: "Splay chart"
 h1: "The splay chart in astrology"
-description: "The splay chart in astrology: planets in a few irregular clusters round the wheel, a Marc Edmund Jones shape, why it has no count, and how I read its centres."
+description: "The splay chart in astrology: planets gathered in a few uneven clusters, the most irregular of Marc Edmund Jones’s shapes, and how I read its several centres."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
@@ -48,6 +48,6 @@ The houses of the clusters need the time of birth, and so does the Moon, which c
 - **Name each cluster.** Give every knot a plain description from its planets and house. Seeing them listed makes the chart easier to live with.
 - **Build bridges.** The aspects between clusters are where your talents can join up. Projects that use two centres at once tend to suit a splay.
 - **Honour the irregularity.** A life with several centres won't look like anyone else's. That isn't disorder; it's the shape.
-- **Give each centre its season.** Not every cluster needs attention at once. Moving between them over time is how they all get their turn.
+- **Give each centre its season.** You needn't tend every cluster at once. Moving between them over time is how they all get their turn.
 
 The [fan chart](/astrology/fan-chart/), the last shape in this family, isn't among Jones's seven; it has a page of its own. A splay has no single centre, and that's its design: several places to stand, and a life that can learn to move between them.

@@ -2,7 +2,7 @@
 title: "Neptune de l’autre dans votre maison 2"
 slug: "neptune-en-maison-2-synastrie"
 h1: "Neptune de l’autre dans votre maison 2 en synastrie"
-description: "Neptune de l’autre dans votre maison 2 en synastrie : son idéal face à votre argent, vos biens et votre valeur, vécu des deux côtés, chiffres à l’appui."
+description: "Neptune de l’autre dans votre maison 2 en synastrie : ses idéaux mêlés à votre argent, à ce que vous possédez et à votre valeur, chiffres à l’appui."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -31,7 +31,7 @@ L’argent est rarement que de l’argent, et avec Neptune de l’autre dans vot
 
 ## Ce que ça apporte {#ce-que-ca-apporte}
 
-[Neptune](/astrology/neptune/) dissout les contours durs : imaginer, idéaliser, compatir. La [maison 2](/astrology/2nd-house/), c’est ce sur quoi vous pouvez compter : vos revenus, vos biens, les compétences dont vous pourriez vivre, et le sentiment de votre valeur qui se tient dessous. Par cette [superposition de maisons](/astrology/house-overlays/), son idéal rejoint vos ressources.
+[Neptune](/astrology/neptune/) dissout les contours durs : imaginer, idéaliser, compatir. La [maison 2](/astrology/2nd-house/) rassemble ce sur quoi vous vous appuyez : ce que vous gagnez et gardez, les talents qui vous font vivre, et, plus bas, ce que vous estimez mériter. Par cette [superposition de maisons](/astrology/house-overlays/), son idéal rejoint vos ressources.
 
 Avec cette personne, les objets comptent parfois moins, et le sens davantage. Vous donnez peut-être ce dont vous n’avez plus besoin, vous fixez le prix de votre travail d’après ce qu’il représente pour vous plutôt que d’après le marché, ou vous découvrez qu’un talent jamais pris au sérieux a de la valeur. L’estime de soi s’adoucit aussi : l’autre vous mesure rarement à ce que vous avez.
 

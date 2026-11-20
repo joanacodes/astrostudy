@@ -1,7 +1,7 @@
 ---
 title: "Mercury retrograde in Sagittarius"
 h1: "When Mercury turns retrograde in Sagittarius"
-description: "Mercury retrograde in Sagittarius: Mercury backing through its detriment, its dates from 2000 to 2040, what it slows house by house, and what helps."
+description: "Mercury retrograde in Sagittarius, the shortest and widest of the year: its dates from 2000 to 2040, what it reopens house by house, and what helps."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

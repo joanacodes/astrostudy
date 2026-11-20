@@ -43,7 +43,7 @@ The count behind this site tests every chart against a single rule for each figu
 
 That doesn't make the planets in it less real. If a program draws an envelope in your chart, its planets still make every aspect it shows, and each aspect means what it always means in the system I built for my readings: openings, flows, frictions, polarities, adjustments, according to the angle. I read those first, one by one, in their signs. Then I ask what binding them together adds. A figure is emphasis: it says that these functions tend to move together, not who you are, and it earns attention when it repeats what the rest of the chart already says.
 
-The houses of its planets decide which areas of life the figure joins, and they need the time of birth. If the Moon is one of its corners, the figure may hold for only part of the day. That's why I [don't read a chart without the birth time](/blog/unknown-birth-time/), whatever its patterns are called.
+Only the time of birth places its planets in houses, and so in areas of your life. If the Moon is one of its corners, the figure may hold for only part of the day. That's why I [don't read a chart without the birth time](/blog/unknown-birth-time/), whatever its patterns are called.
 
 ## What helps {#what-helps}
 

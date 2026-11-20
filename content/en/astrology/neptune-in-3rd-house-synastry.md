@@ -30,11 +30,11 @@ Some people change the way you talk. With their Neptune in your 3rd house, conve
 
 ## What it brings {#what-it-brings}
 
-[Neptune](/astrology/neptune/) thinks in pictures and feelings rather than lists, and senses what lies under words. [The 3rd house](/astrology/3rd-house/) is your everyday mind: messages, conversations, errands, first learning, and the people close at hand, brothers and sisters among them. In this [house overlay](/astrology/house-overlays/), their imagination enters your daily talk.
+[Neptune](/astrology/neptune/) thinks in pictures and feelings rather than lists, and senses what lies under words. [The 3rd house](/astrology/3rd-house/) is your everyday mind: messages, conversations, errands, first learning, and the people you grew up beside or live near: siblings, cousins, neighbours. In this [house overlay](/astrology/house-overlays/), their imagination enters your daily talk.
 
 Talking with them can feel like music. You may find yourself writing more lyrically, reading poetry again, learning a language for the sound of it, or understanding each other before a sentence is finished. Ordinary walks and errands gather atmosphere.
 
-Your words reach them as more than information. They may hear a story in a hurried message, keep your notes, quote you back months later; your curiosity gives their imagination a daily route to travel. Cadent, the 3rd is a house of learning and passing things on, with [Gemini](/astrology/gemini/) as its natural sign; tradition called it the Goddess and gave the Moon its joy there. Placed at the very end of the house, their Neptune also approaches your [Imum Coeli](/astrology/imum-coeli/), and conversation slides from the day's news into memories of home.
+Your words reach them as more than information. They may hear a story in a hurried message, keep your notes, quote you back months later; your curiosity gives their imagination a daily route to travel. Of the three kinds of house, the 3rd is cadent, made for learning and for passing on what you learn; [Gemini](/astrology/gemini/) is its natural sign, and its old name, the Goddess, belongs to the house where the Moon rejoices. Placed at the very end of the house, their Neptune also approaches your [Imum Coeli](/astrology/imum-coeli/), and conversation slides from the day's news into memories of home.
 
 ## Where it rubs {#where-it-rubs}
 

@@ -2,7 +2,7 @@
 title: "Lune progressée en Cancer"
 slug: "lune-progressee-en-cancer"
 h1: "La Lune progressée en Cancer"
-description: "La Lune progressée en Cancer : la Lune dans son propre signe pendant deux ans et quatre mois environ, ce qu’apporte ce chapitre, sa durée, ce qui aide."
+description: "La Lune progressée en Cancer, le signe propre de la Lune : un chapitre de foyer, de famille et d’appartenance, sa durée habituelle, et ce qui aide."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -17,9 +17,9 @@ facts:
 related: ["/astrology/progressed-moon", "/astrology/cancer", "/astrology/moon-in-cancer", "/astrology/can-astrology-predict-pregnancy", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire la Lune progressée en Cancer ?"
-    a: "Que votre Lune progressée est rentrée chez elle : elle traverse le Cancer, le signe que gouverne la Lune. Les astrologues lisent ces deux ans environ comme un chapitre centré sur l’appartenance : le foyer, la famille, la proximité et le soin, donné et reçu. J’y lis une météo intérieure dans une part de votre thème, jamais un événement en route."
+    a: "Que votre Lune progressée est rentrée chez elle : elle traverse le Cancer, le signe que gouverne la Lune. Les astrologues lisent ces deux ans environ comme un chapitre centré sur l’appartenance : le foyer, la famille, la proximité et le soin, donné et reçu. J’y lis une météo intérieure dans une part de votre thème, jamais un événement en route."
   - q: "Combien de temps la Lune progressée reste-t-elle en Cancer ?"
-    a: "Être chez elle ne fait pas s’attarder la Lune : dans mon décompte des naissances de 1930 à 2009, son chapitre Cancer a duré deux ans à deux ans et demi, deux ans et quatre mois environ en règle générale. Votre propre durée dépend de la vitesse de la Lune dans les jours qui ont suivi votre naissance."
+    a: "Être chez elle ne fait pas s’attarder la Lune : dans mon décompte des naissances de 1930 à 2009, son chapitre Cancer a duré deux ans à deux ans et demi, deux ans et quatre mois environ en règle générale. Votre propre durée dépend de la vitesse de la Lune dans les jours qui ont suivi votre naissance."
   - q: "La Lune progressée en Cancer annonce-t-elle une grossesse ?"
     a: "Non. La tradition liait la Lune aux mères et le Cancer à la famille, d’où cette idée répandue, mais aucune progression ne prédit une grossesse et je n’en lis jamais ainsi. Le chapitre décrit votre propre besoin de proximité et d’un foyer, quelle que soit la personne avec qui vous le partagez."
   - q: "Et si ma Lune natale est aussi en Cancer ?"

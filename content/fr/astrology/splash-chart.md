@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 22
 glyph: "✦"
-definition: "Un thème dispersé a ses planètes réparties sur toute la roue plutôt que rassemblées dans une partie : plutôt une absence de forme qu’une forme. Des sept formes de Marc Edmund Jones, c’est la moins dessinée. J’y lis de l’ampleur, une attention partagée entre de nombreux domaines de vie. Sa définition varie trop d’un auteur à l’autre pour un décompte."
+definition: "Un thème dispersé a ses planètes réparties sur toute la roue plutôt que rassemblées dans une partie : plutôt une absence de forme qu’une forme. Des sept formes de Marc Edmund Jones, c’est la moins dessinée. J’y lis de l’ampleur, une attention partagée entre de nombreux domaines de vie. Faute d’accord sur ses limites, il n’est pas compté."
 facts:
   - { k: "Forme", v: "Des planètes réparties sur toute la roue, dans de nombreux signes" }
   - { k: "Aspects", v: "Aucun n’est requis : c’est la répartition des planètes" }

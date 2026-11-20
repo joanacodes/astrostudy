@@ -19,7 +19,7 @@ faq:
   - q: "Que veut dire la Lune progressée en Poissons ?"
     a: "Que votre Lune progressée a atteint le dernier signe du zodiaque, les Poissons, gouvernés par Neptune et Jupiter. Les astrologues lisent ces deux ans environ comme un chapitre doux et intérieur : des besoins comblés par le repos, l’imaginaire, la compassion et le lâcher-prise. J’y lis une saison calme, jamais l’annonce d’événements."
   - q: "Combien de temps la Lune progressée reste-t-elle en Poissons ?"
-    a: "Un chapitre Poissons dure le plus souvent deux ans et quatre mois environ ; parmi les naissances que j’ai comptées de 1930 à 2009, aucun n’a été plus court que deux ans ni plus long que deux ans et demi. Si rêveur que paraisse le chapitre, il garde l’allure de la vraie Lune après votre naissance, un jour pour chaque année."
+    a: "Un chapitre Poissons dure le plus souvent deux ans et quatre mois environ ; parmi les naissances que j’ai comptées de 1930 à 2009, aucun n’a été plus court que deux ans ni plus long que deux ans et demi. Si rêveur que paraisse le chapitre, il garde l’allure de la vraie Lune après votre naissance, un jour pour chaque année."
   - q: "Que se passe-t-il quand la Lune progressée quitte les Poissons ?"
     a: "Elle entre en Bélier et commence un nouveau tour du zodiaque, d’environ 27 ans. Les astrologues lisent souvent ce changement comme un passage du lâcher-prise au recommencement, du repos à l’initiative. Votre thème progressé dit quand, à condition d’être dressé à partir d’une heure de naissance exacte."
   - q: "La Lune progressée en Poissons, est-ce un temps pour se retirer ?"

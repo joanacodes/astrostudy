@@ -2,7 +2,7 @@
 title: "Mercure rétrograde en Sagittaire"
 slug: "mercure-retrograde-en-sagittaire"
 h1: "Quand Mercure rétrograde en Sagittaire"
-description: "Mercure rétrograde en Sagittaire : Mercure qui recule dans son signe d’exil, ses dates de 2000 à 2040, ce qui ralentit maison par maison, et ce qui aide."
+description: "Mercure rétrograde en Sagittaire, la plus courte et la plus large de l’année : ses dates de 2000 à 2040, ce qu’elle rouvre maison par maison, ce qui aide."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

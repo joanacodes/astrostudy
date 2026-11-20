@@ -23,7 +23,7 @@ faq:
   - q: "Le thème en locomotive est-il fréquent ?"
     a: "Plus que toute autre forme de mon décompte : environ 2 personnes sur 5 nées entre 1930 et 2009 ont leurs dix planètes sur 240°, mais pas sur 180°. Une règle aussi simple a des bords nets : les thèmes qui en sont proches peuvent changer de forme pour quelques degrés."
   - q: "Qu’est-ce que la planète de tête d’une locomotive ?"
-    a: "La planète à l’avant du groupe : la première après le tiers vide, dans le sens des aiguilles d’une montre, celui dans lequel le thème tourne chaque jour. Les astrologues qui se servent de cette forme lui donnent plus de poids, comme la planète qui tire les autres. Je la lis de près, comme une voix forte parmi dix."
+    a: "La planète à l’avant du groupe : la première après le tiers vide, dans le sens des aiguilles d’une montre, celui dans lequel le thème tourne chaque jour. Dans la tradition de cette forme, elle compte plus que les autres, puisqu’elle tire tout le reste. Je la lis de près, comme une voix forte parmi dix."
   - q: "Un thème en locomotive veut-il dire une personne très motivée ?"
     a: "Les astrologues qui se servent de cette forme le disent souvent, et elle peut décrire un élan : un thème qui avance sans cesse vers le vide qu’il laisse ouvert. Mais une forme décrit une insistance, pas un caractère. Que cet élan se montre dans le travail, le soin, l’étude ou autre chose dépend des planètes et des maisons en jeu."
 sources:

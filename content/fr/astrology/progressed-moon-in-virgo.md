@@ -40,7 +40,7 @@ La tradition liait la Vierge et sa maison naturelle, la maison 6, à la maladie,
 
 ## Combien de temps {#combien-de-temps}
 
-La Vierge peut retenir la Lune progressée un peu plus longtemps que la plupart des signes. Dans mon décompte, pour les naissances de 1930 à 2009, ses traversées sont allées de deux ans à deux ans et sept mois environ, un maximum qu’elle ne partage qu’avec le Lion, même si le séjour habituel reste le même qu’ailleurs, deux ans et quatre mois environ. La vitesse de la vraie Lune dans les jours qui ont suivi votre naissance fixe votre propre durée, un jour de sa course pour chaque année de la vôtre.
+La Vierge peut retenir la Lune progressée un peu plus longtemps que la plupart des signes. Dans mon décompte, pour les naissances de 1930 à 2009, ses traversées sont allées de deux ans à deux ans et sept mois environ, un maximum qu’elle ne partage qu’avec le Lion, même si le séjour habituel reste le même qu’ailleurs, deux ans et quatre mois environ. Si vous aimez la précision, comme la Vierge, votre propre durée vient de la vitesse de la vraie Lune dans les jours qui ont suivi votre naissance, et un logiciel peut la mesurer au mois près.
 
 Elle suit la [Lune progressée en Lion](/astrology/progressed-moon-in-leo/) et laisse place à la [Lune progressée en Balance](/astrology/progressed-moon-in-libra/) : après la représentation, la pratique ; après la pratique, l’autre. La Vierge est le sixième des douze signes : son chapitre clôt la première moitié du tour d’environ 27 ans de la Lune progressée, compté depuis le Bélier, et la seconde moitié s’ouvre avec la Balance.
 

@@ -22,7 +22,7 @@ faq:
   - q: "How common is a locomotive chart?"
     a: "More than any other shape in my count: about 2 people in 5 born from 1930 to 2009 have all ten planets within 240°, though not within 180°. A rule that simple has sharp edges, so charts close to them can change shape with a few degrees."
   - q: "What is the leading planet of a locomotive?"
-    a: "The planet at the front of the group: the first one after the empty third, counting clockwise, the way the chart turns through a day. Astrologers who use the shape give it extra weight as the planet that pulls the rest. I read it closely, as one strong voice among ten."
+    a: "The planet at the front of the group: the first one after the empty third, counting clockwise, the way the chart turns through a day. In the shape’s tradition it counts for more than the others, since it pulls the rest along. I read it closely, as one strong voice among ten."
   - q: "Does a locomotive chart mean a driven person?"
     a: "Astrologers who use the shape often say so, and it can describe drive: a chart that keeps moving towards the gap it leaves open. But a shape describes emphasis, not character. Whether that drive shows in work, care, study or anything else depends on the planets and houses involved."
 sources:

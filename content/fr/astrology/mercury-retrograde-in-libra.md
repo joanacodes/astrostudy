@@ -2,7 +2,7 @@
 title: "Mercure rétrograde en Balance"
 slug: "mercure-retrograde-en-balance"
 h1: "Quand Mercure rétrograde en Balance"
-description: "Mercure rétrograde en Balance : Mercure qui recule dans le signe de la balance, ses dates de 2000 à 2040, ce qui ralentit maison par maison, et ce qui aide."
+description: "Mercure rétrograde en Balance, souvent trois années de suite : ses dates de 2000 à 2040, les accords qu’elle rouvre maison par maison, et ce qui aide."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -23,7 +23,7 @@ faq:
   - q: "Que veut dire Mercure rétrograde en Balance ?"
     a: "Les astrologues y lisent des semaines où le côté diplomate de Mercure, qui pèse le pour et le contre, revient en arrière : accords, compromis et conversations à deux passent en seconde audience. J’y lis un équilibre que l’on vérifie, jamais une prédiction sur une relation."
   - q: "Combien de temps dure Mercure rétrograde en Balance ?"
-    a: "De 20,5 à 22,5 jours environ, dans les dates de 2000 à 2040, sur 14,5° à 16° du zodiaque. Beaucoup commencent en Scorpion ou finissent en Vierge : une partie seulement de chacune tombe alors en Balance, tandis que celles qui y restent, comme en 2021 et 2028, lui donnent toutes leurs semaines."
+    a: "Une rétrogradation en Balance dure 20,5 à 22,5 jours environ et parcourt 14,5° à 16° du zodiaque, dans les dates de 2000 à 2040. Beaucoup commencent en Scorpion ou finissent en Vierge : une partie seulement de chacune tombe alors en Balance, tandis que celles qui y restent, comme en 2021 et 2028, lui donnent toutes leurs semaines."
   - q: "Mercure rétrograde en Balance, est-ce mauvais pour le couple ?"
     a: "Aucun transit ne décide de la façon dont une relation évolue, et je n’y lis jamais de rupture. La Balance est le signe du partenariat : on lit souvent ces semaines comme un moment où ce que deux personnes ont convenu se rediscute, une conversation qui peut être utile à n’importe quel moment de l’année."
 sources:

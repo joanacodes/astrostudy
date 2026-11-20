@@ -1,7 +1,7 @@
 ---
 title: "Seesaw chart"
 h1: "The seesaw chart in astrology"
-description: "The seesaw chart in astrology: two groups of planets facing each other across the wheel, a Marc Edmund Jones shape, why it has no count, and how to read it."
+description: "The seesaw chart in astrology: two groups of planets facing each other across the wheel, as Marc Edmund Jones drew it, and how I read their balance."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
@@ -43,7 +43,7 @@ The count behind this site leaves the seesaw out. Its definitions vary too much 
 
 Astrologers who use the shape describe a life that moves between two contrasting sides, often finding it hard to bring them together. The system I built for my readings reads the opposition, the aspect a seesaw is built around, as polarity and integration, and never as conflict in itself, so I read the shape the same way. Two centres of gravity, each with its own business; the empty stretches between them are where you cross from one to the other. Balance here isn't stillness. A seesaw that works keeps moving, and both seats stay occupied. And like any shape, it describes emphasis: the planets in each group, read one by one, decide what the two sides are actually about.
 
-The houses do much of the telling, and they need the time of birth. Two groups across the horizon, around the 1st and 7th houses, pair self and others; across the meridian, around the 4th and 10th, home and public life. The Moon can sit in one group or in a gap, and its place changes by about a sign every two and a half days. Which two sides of life the seesaw joins is a question for [the birth time](/blog/unknown-birth-time/), and I wait for its answer.
+Much of the telling is done by the houses, which only the time of birth can supply. Two groups across the horizon, around the 1st and 7th houses, pair self and others; across the meridian, around the 4th and 10th, home and public life. The Moon can sit in one group or in a gap, and its place changes by about a sign every two and a half days. Which two sides of life the seesaw joins is a question for [the birth time](/blog/unknown-birth-time/), and I wait for its answer.
 
 ## What helps {#what-helps}
 

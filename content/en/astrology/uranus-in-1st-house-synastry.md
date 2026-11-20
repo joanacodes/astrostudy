@@ -19,7 +19,7 @@ faq:
   - q: "Why do I change my style around someone whose Uranus is in my 1st house?"
     a: "Their Uranus, the planet of change and freedom, has landed on what people see of you first: your manner, your looks, the way you start things. Around them, being different can feel allowed, even exciting. Change what you want to, at your own pace; the overlay describes an invitation, not an obligation."
   - q: "Does Uranus in my 1st house synastry mean the relationship won’t last?"
-    a: "No. Uranus describes change and freedom, never a break-up. This overlay tends to make the bond feel lively and a little unpredictable, and it can last a long time when both of you enjoy being surprised. How it goes depends on both whole charts and on the choices you make."
+    a: "No. Freedom and change are Uranus’s subject, not endings. This overlay tends to make the bond feel lively and a little unpredictable, and it can last a long time when both of you enjoy being surprised. How it goes depends on both whole charts and on the choices you make."
   - q: "Why does someone feel freer around me when their Uranus falls in my 1st house?"
     a: "Your way of arriving gives their own originality somewhere to land. They may feel more inventive and less self-conscious beside you, as if your presence permitted change. The care, on their side, is not to treat your slower pace as resistance, or your look as a project."
 sources:

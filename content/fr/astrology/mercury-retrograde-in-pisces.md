@@ -2,7 +2,7 @@
 title: "Mercure rétrograde en Poissons"
 slug: "mercure-retrograde-en-poissons"
 h1: "Quand Mercure rétrograde en Poissons"
-description: "Mercure rétrograde en Poissons : Mercure qui recule dans son signe d’exil et de chute, ses dates de 2000 à 2040, maison par maison, et ce qui aide."
+description: "Mercure rétrograde en Poissons, là où la tradition affaiblit deux fois Mercure : ses dates de 2000 à 2040, maison par maison, et ce qui aide."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -18,14 +18,14 @@ facts:
   - { k: "La prochaine", v: "9 février–3 mars 2027, des Poissons au Verseau" }
 related: ["/astrology/mercury-retrograde", "/astrology/pisces", "/astrology/mercury-in-pisces", "/astrology/neptune", "/blog/retrograde-planets"]
 faq:
-  - q: "La rétrogradation de Mercure en Poissons revient-elle en 2027 ?"
+  - q: "Quelles dates pour Mercure rétrograde en Poissons en 2027 ?"
     a: "Oui, du 9 février au 3 mars 2027 : la rétrogradation commence à 5°58′ des Poissons et s’achève à 20°55′ du Verseau. Elle suit celle du 26 février au 20 mars 2026, tout entière en Poissons, et la prochaine à rester tout entière dans le signe ira du 18 février au 13 mars 2033."
   - q: "Que veut dire Mercure rétrograde en Poissons ?"
     a: "Les astrologues y lisent des semaines où Mercure, en exil et en chute dans ce signe, revient sur des impressions plutôt que sur des faits : rêves, intuitions, sentiments jamais dits et travaux créatifs reviennent. J’y lis un temps pour mettre des mots sur ce qui a été pressenti, jamais l’annonce d’une confusion."
   - q: "Pourquoi dit-on que Mercure rétrograde en Poissons embrouille tout ?"
     a: "C’est sa réputation, que je ne partage pas : en Poissons, Mercure travaille par images et par sentiment plutôt que par listes, et la rétrogradation y ramène ce qui a été pressenti sans être encore dit. Cela demande une autre forme d’attention, pas la peur du flou."
   - q: "Combien de temps dure Mercure rétrograde en Poissons ?"
-    a: "De 21,5 à 23 jours environ, entre 2000 et 2040, sur 12,5° à 15° du zodiaque. Sept des dix-sept restent tout entières en Poissons, autant que dans n’importe quel signe ; les autres commencent en Bélier ou finissent en Verseau."
+    a: "Chacune dure 21,5 à 23 jours environ et couvre 12,5° à 15° du zodiaque, dans les dates de 2000 à 2040. Sept des dix-sept restent tout entières en Poissons, autant que dans n’importe quel signe ; les autres commencent en Bélier ou finissent en Verseau."
 sources:
   - { title: "Les dates de The Astro Study d’après la position des planètes", note: "chaque rétrogradation de Mercure qui touche les Poissons, 2000–2040" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "l’orbite de Mercure et ses boucles apparentes" }
@@ -34,7 +34,7 @@ Mercure recule en Poissons entre début février et début avril, dans le signe 
 
 ## Ce qui ralentit {#ce-qui-ralentit}
 
-Les [Poissons](/astrology/pisces/) sont un signe d’eau mutable à deux maîtres, Jupiter dans la tradition et Neptune pour les astrologues modernes ; je lis les deux. Mercure, la planète des listes et des étiquettes, y travaille par images, par musique et par intuition. Quand [Mercure rétrograde](/astrology/mercury-retrograde/) atteint les Poissons, la planète semble, vue de la Terre, ralentir jusqu’à l’arrêt puis glisser en arrière, et ce sont des impressions plutôt que des faits qui reviennent : un rêve à moitié retenu, un sentiment envers quelqu’un jamais mis en mots, une histoire qui vit en images plus qu’en phrases.
+Les [Poissons](/astrology/pisces/) sont un signe d’eau mutable, gouverné par Jupiter dans la tradition et par Neptune pour les modernes ; je lis les deux, la foi et le rêve. Mercure, la planète des listes et des étiquettes, y travaille par images, par musique et par intuition. Quand [Mercure rétrograde](/astrology/mercury-retrograde/) atteint les Poissons, la planète semble, vue de la Terre, ralentir jusqu’à l’arrêt puis glisser en arrière, et ce sont des impressions plutôt que des faits qui reviennent : un rêve à moitié retenu, un sentiment envers quelqu’un jamais mis en mots, une histoire qui vit en images plus qu’en phrases.
 
 Dix-sept rétrogradations touchent les Poissons de 2000 à 2040, et sept restent tout entières à l’intérieur, autant que dans n’importe quel signe. La plus récente en fait partie : du 26 février au 20 mars 2026, Mercure a reculé de 22°33′ à 8°29′ des Poissons. La prochaine, du 9 février au 3 mars 2027, commence à 5°58′ des Poissons et s’achève à 20°55′ du Verseau ([Mercure rétrograde en Verseau](/astrology/mercury-retrograde-in-aquarius/)). En 2025, du 15 mars au 7 avril, la rétrogradation était venue du Bélier ([Mercure rétrograde en Bélier](/astrology/mercury-retrograde-in-aries/)), de 9°35′ du Bélier à 26°49′ des Poissons : les Poissons en comptent donc trois années de suite, 2025, 2026 et 2027.
 

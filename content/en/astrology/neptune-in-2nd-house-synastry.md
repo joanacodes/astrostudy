@@ -30,7 +30,7 @@ Money is rarely just money, and with their Neptune in your 2nd house it becomes 
 
 ## What it brings {#what-it-brings}
 
-[Neptune](/astrology/neptune/) dissolves hard edges: it imagines, idealises and feels for others. [The 2nd house](/astrology/2nd-house/) is what you can count on: income, belongings, the skills you could live from, and the sense of worth beneath them. Through this [house overlay](/astrology/house-overlays/), their ideals reach your resources.
+[Neptune](/astrology/neptune/) dissolves hard edges: it imagines, idealises and feels for others. [The 2nd house](/astrology/2nd-house/) holds what you rely on: what you earn and keep, the talents that pay your way, and the quieter question of what you think you deserve. Through this [house overlay](/astrology/house-overlays/), their ideals reach your resources.
 
 Around them, possessions may matter less and meaning more. You might give away what you no longer need, price your work by what it means to you rather than by the going rate, or discover that a talent you never took seriously has value. Self-worth can feel kinder too: they rarely measure you by what you have.
 
@@ -42,7 +42,7 @@ The trouble is the haze around numbers. Who paid for what, which money was a gif
 
 From their side, your values may prove more practical than the picture they held, and they can feel let down when you insist on a price, a receipt or a budget. Or they idealise your stability and lean on it more than either of you noticed.
 
-An overlay in the 2nd describes how two people handle worth and resources, never whether money will come or go; no chart can tell you that ([can astrology pick investments?](/astrology/can-astrology-pick-investments/)).
+An overlay in the 2nd describes how two people handle worth and resources and never forecasts a gain or a loss, which no chart can do ([can astrology pick investments?](/astrology/can-astrology-pick-investments/)).
 
 ## How to meet it {#how-to-meet-it}
 

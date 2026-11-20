@@ -1,7 +1,7 @@
 ---
 title: "Mercury retrograde in Pisces"
 h1: "When Mercury turns retrograde in Pisces"
-description: "Mercury retrograde in Pisces: Mercury backing through the sign of its detriment and fall, its dates from 2000 to 2040, house by house, and what helps."
+description: "Mercury retrograde in Pisces, where tradition counts Mercury weakest twice over: its dates from 2000 to 2040, house by house, and what helps."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -24,7 +24,7 @@ faq:
   - q: "Is Mercury retrograde in Pisces confusing?"
     a: "It has that reputation, which I don’t share: Mercury works in Pisces through images and feeling rather than lists, and its retrograde there tends to bring back what was sensed but not yet said. That asks for a different kind of attention, not a fear of muddle."
   - q: "How long does Mercury retrograde in Pisces last?"
-    a: "About 21½ to 23 days, between 2000 and 2040, over 12½° to 15° of the zodiac. Seven of the seventeen stay wholly inside Pisces, as many as in any sign; the others begin in Aries or end in Aquarius."
+    a: "Each lasts about 21½ to 23 days and covers 12½° to 15° of the zodiac, in the dates from 2000 to 2040. Seven of the seventeen stay wholly inside Pisces, as many as in any sign; the others begin in Aries or end in Aquarius."
 sources:
   - { title: "The Astro Study’s dates from the planets’ positions", note: "every retrograde of Mercury that touches Pisces, 2000–2040" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "Mercury’s orbit and its apparent loops" }
@@ -33,7 +33,7 @@ Mercury turns back in Pisces between early February and early April, in the sign
 
 ## What slows down {#what-slows-down}
 
-[Pisces](/astrology/pisces/) is mutable water with two rulers, Jupiter in the tradition and Neptune for modern astrologers; I read both. Mercury, the planet of lists and labels, works there through images, music and intuition. When [Mercury retrograde](/astrology/mercury-retrograde/) reaches Pisces, the planet appears from Earth to drift to a halt and slip backwards, and what it goes over are impressions rather than facts: a dream you half remember, a feeling about someone you never put into words, a story that lives more in pictures than in sentences.
+[Pisces](/astrology/pisces/) is mutable water, ruled by Jupiter in the tradition and by Neptune for modern astrologers; I read both, the faith and the dream. Mercury, the planet of lists and labels, works there through images, music and intuition. When [Mercury retrograde](/astrology/mercury-retrograde/) reaches Pisces, the planet appears from Earth to drift to a halt and slip backwards, and what it goes over are impressions rather than facts: a dream you half remember, a feeling about someone you never put into words, a story that lives more in pictures than in sentences.
 
 Seventeen retrogrades touch Pisces from 2000 to 2040, and seven of them stay wholly inside it, as many as in any sign. The most recent did: from 26 February to 20 March 2026, Mercury backed from 22°33′ to 8°29′ Pisces. The next, from 9 February to 3 March 2027, stations at 5°58′ Pisces and turns direct at 20°55′ Aquarius ([Mercury retrograde in Aquarius](/astrology/mercury-retrograde-in-aquarius/)). In 2025, from 15 March to 7 April, it had come in from Aries ([Mercury retrograde in Aries](/astrology/mercury-retrograde-in-aries/)), from 9°35′ Aries to 26°49′ Pisces, so Pisces has three years running: 2025, 2026 and 2027.
 

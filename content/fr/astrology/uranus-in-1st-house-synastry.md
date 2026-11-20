@@ -20,7 +20,7 @@ faq:
   - q: "Pourquoi est-ce que je change de style auprès d’une personne dont Uranus est dans ma maison 1 ?"
     a: "Uranus, planète du changement et de la liberté, chez cette personne, arrive sur ce que l’on voit de vous en premier : votre allure, votre apparence, votre façon de commencer. À ses côtés, la différence peut sembler permise, voire excitante. Changez ce que vous voulez, à votre rythme : la superposition décrit une invitation, pas une obligation."
   - q: "Est-ce qu’Uranus en maison 1, en synastrie, veut dire que la relation ne durera pas ?"
-    a: "Non. Uranus décrit le changement et la liberté, jamais une rupture. Cette superposition rend souvent le lien vivant et un peu imprévisible, et il peut durer longtemps quand la surprise plaît des deux côtés. La suite dépend des deux thèmes entiers et des choix que vous faites."
+    a: "Non. Le sujet d’Uranus, c’est la liberté et le changement, pas les fins. Cette superposition rend souvent le lien vivant et un peu imprévisible, et il peut durer longtemps quand la surprise plaît des deux côtés. La suite dépend des deux thèmes entiers et des choix que vous faites."
   - q: "Pourquoi une personne se sent-elle plus libre auprès de moi quand Uranus, dans son thème, tombe dans ma maison 1 ?"
     a: "Votre façon d’arriver donne à sa propre originalité un endroit où se poser. Cette personne se sent peut-être plus inventive et moins gênée à vos côtés, comme si votre présence autorisait le changement. Le soin, de son côté, consiste à ne pas prendre votre rythme plus lent pour de la résistance, ni votre apparence pour un projet."
 sources:

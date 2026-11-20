@@ -19,11 +19,11 @@ faq:
   - q: "Que veut dire la Lune progressée en Verseau ?"
     a: "Que votre Lune progressée passe par le Verseau, le signe d’air aux deux maîtres, Uranus et Saturne. Les astrologues lisent ces deux ans environ comme un chapitre de liberté et de lien aux autres : des besoins comblés par les amis, les groupes, les idées et la place d’être soi. J’y lis une saison d’indépendance, jamais un événement à venir."
   - q: "Combien de temps la Lune progressée reste-t-elle en Verseau ?"
-    a: "Assez longtemps, dans un signe fixe, pour qu’une nouvelle façon de vivre cesse de paraître nouvelle : deux ans à deux ans et demi, le plus souvent deux ans et quatre mois environ, dans mon décompte des naissances de 1930 à 2009. La durée exacte dépend de la vitesse de la vraie Lune après votre naissance."
+    a: "Assez longtemps, dans un signe fixe, pour qu’une nouvelle façon de vivre cesse de paraître nouvelle : deux ans à deux ans et demi, le plus souvent deux ans et quatre mois environ, dans mon décompte des naissances de 1930 à 2009. La durée exacte dépend de la vitesse de la vraie Lune après votre naissance."
   - q: "La Lune progressée en Verseau change-t-elle les amitiés ?"
     a: "Elle ne décide rien d’une amitié. Les astrologues lisent ce chapitre comme un temps où les amis et les groupes comptent davantage : de nouveaux cercles vous attireront peut-être, ou vous verrez les anciens autrement. Ce qui se passe entre les personnes reste leur fait, pas celui du thème."
   - q: "Les deux maîtres comptent-ils pour la Lune progressée en Verseau ?"
-    a: "Je lis les deux : Saturne, le maître traditionnel, montre par sa maison natale où le chapitre veut de la structure et de l’engagement ; Uranus, le maître moderne, où il veut du changement et de la liberté. Leurs maisons, comme celle que traverse la Lune progressée, ne se placent qu’avec votre heure de naissance exacte."
+    a: "Je lis les deux : Saturne, le maître traditionnel, montre par sa maison natale où le chapitre veut de la structure et de l’engagement ; Uranus, le maître moderne, là où ce même chapitre demande du changement et de la liberté. Leurs maisons, comme celle que traverse la Lune progressée, ne se placent qu’avec votre heure de naissance exacte."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les traversées du Verseau par la Lune progressée, pour les naissances de 1930 à 2009" }
   - { title: "Steven Forrest, The Changing Sky (1986)", note: "la Lune progressée dans l’ensemble de la pratique des progressions" }

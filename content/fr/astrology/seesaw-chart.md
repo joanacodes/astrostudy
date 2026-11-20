@@ -2,7 +2,7 @@
 title: "Thème en balançoire"
 slug: "theme-en-balancoire"
 h1: "Le thème en balançoire en astrologie"
-description: "Le thème en balançoire en astrologie : deux groupes de planètes face à face, une forme de Marc Edmund Jones, pourquoi pas de décompte ici, et comment la lire."
+description: "Le thème en balançoire en astrologie : deux groupes de planètes face à face, tels que les dessinait Marc Edmund Jones, et comment je lis leur équilibre."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
@@ -44,7 +44,7 @@ Le décompte sur lequel s’appuie ce site laisse la balançoire de côté. Ses 
 
 Les astrologues qui se servent de cette forme décrivent une vie qui va et vient entre deux côtés contrastés, et qui a souvent du mal à les réunir. Le système que j’ai construit pour mes lectures lit l’opposition, l’aspect autour duquel se construit une balançoire, comme une polarité et une intégration, jamais comme un conflit en soi : je lis la forme de la même façon. Deux centres de gravité, chacun avec ses propres affaires ; les espaces vides entre eux sont l’endroit où l’on passe de l’un à l’autre. L’équilibre, ici, n’est pas l’immobilité. Une balançoire qui fonctionne ne cesse de bouger, et ses deux sièges restent occupés. Et comme toute forme, elle décrit une insistance : ce sont les planètes de chaque groupe, lues une à une, qui disent de quoi parlent vraiment les deux côtés.
 
-Les maisons en disent beaucoup, et elles demandent l’heure de naissance. Deux groupes de part et d’autre de l’horizon, autour des maisons 1 et 7, associent soi et les autres ; de part et d’autre du méridien, autour des maisons 4 et 10, le foyer et la vie publique. La Lune peut se trouver dans un groupe ou dans un vide, et sa place change d’un signe environ tous les deux jours et demi. Quels deux côtés de la vie relie la balançoire, c’est une question pour [l’heure de naissance](/blog/unknown-birth-time/), et j’attends sa réponse.
+Une bonne part du récit vient des maisons, que seule l’heure de naissance peut fournir. Deux groupes de part et d’autre de l’horizon, autour des maisons 1 et 7, associent soi et les autres ; de part et d’autre du méridien, autour des maisons 4 et 10, le foyer et la vie publique. La Lune peut se trouver dans un groupe ou dans un vide, et sa place change d’un signe environ tous les deux jours et demi. Quels deux côtés de la vie relie la balançoire, c’est une question pour [l’heure de naissance](/blog/unknown-birth-time/), et j’attends sa réponse.
 
 ## Ce qui aide {#ce-qui-aide}
 

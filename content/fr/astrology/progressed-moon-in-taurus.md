@@ -19,7 +19,7 @@ faq:
   - q: "Que veut dire la Lune progressée en Taureau ?"
     a: "Que la Lune de votre thème progressé traverse le Taureau, là où la tradition la place au plus fort. Les astrologues lisent ce chapitre comme un temps où les besoins se posent : la stabilité, la continuité et quelque chose de solide sur quoi compter comptent plus que la nouveauté. J’y lis une saison intérieure, sans événement écrit d’avance."
   - q: "Combien de temps la Lune progressée reste-t-elle en Taureau ?"
-    a: "Exaltation ou pas, un chapitre Taureau suit le cours habituel : deux ans à deux ans et demi, le plus souvent deux ans et quatre mois environ, dans mon décompte des naissances de 1930 à 2009. Seule la vitesse de la vraie Lune dans les jours qui ont suivi votre naissance rend le vôtre plus court ou plus long."
+    a: "Exaltation ou pas, un chapitre Taureau suit le cours habituel : deux ans à deux ans et demi, le plus souvent deux ans et quatre mois environ, dans mon décompte des naissances de 1930 à 2009. Seule la vitesse de la vraie Lune dans les jours qui ont suivi votre naissance rend le vôtre plus court ou plus long."
   - q: "La Lune progressée est-elle forte en Taureau ?"
     a: "Pour la tradition, oui : le Taureau est l’exaltation de la Lune, le signe où les anciens livres disent qu’elle est particulièrement bien reçue. J’y lis des besoins qui trouvent plus facilement un sol ferme pendant ces années, pas la promesse d’une vie facile ; le temps d’un chapitre dépend toujours du thème entier."
   - q: "Quand ma Lune progressée sera-t-elle en Taureau ?"
@@ -40,7 +40,7 @@ Au sein du chapitre, il y a des passages plus courts. En traversant le Taureau, 
 
 ## Combien de temps {#combien-de-temps}
 
-Si stable qu’il paraisse, le chapitre Taureau n’est pas plus lent que les autres : pour les naissances de 1930 à 2009, la Lune progressée y est restée entre deux ans et deux ans et demi, le plus souvent deux ans et quatre mois environ. Ce qui fixe votre propre durée, c’est la vitesse de la vraie Lune dans les jours qui ont suivi votre naissance, un jour de sa course pour chaque année du chapitre.
+Si stable qu’il paraisse, le chapitre Taureau n’est pas plus lent que les autres : pour les naissances de 1930 à 2009, la Lune progressée y est restée entre deux ans et deux ans et demi, le plus souvent deux ans et quatre mois environ. Ce qui fixe votre propre durée, c’est la vitesse de la vraie Lune dans les jours qui ont suivi votre naissance, un jour de sa course pour chaque année du chapitre.
 
 Elle arrive de la [Lune progressée en Bélier](/astrology/progressed-moon-in-aries/) et repart vers la [Lune progressée en Gémeaux](/astrology/progressed-moon-in-gemini/), et elle ne reviendra pas en Taureau avant environ 27 ans, le temps qu’il faut à la Lune progressée pour faire le tour du zodiaque. Ce long retour est une raison de remarquer le chapitre pendant qu’on le vit.
 

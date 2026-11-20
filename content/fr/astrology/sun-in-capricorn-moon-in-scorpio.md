@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 116
 glyph: "☉♑☽♏"
-definition: "Soleil en Capricorne, Lune en Scorpion associe la terre cardinale et l’eau fixe en sextile par signe, pour une naissance juste après le dernier quartier, trois semaines environ après la nouvelle lune. La Lune est en chute ; Mars, maître ancien du Scorpion, a son exaltation en Capricorne. J’y lis une endurance portée par la profondeur, lente à faire confiance et à renoncer."
+definition: "Soleil en Capricorne, Lune en Scorpion associe la terre cardinale et l’eau fixe en sextile par signe, pour une naissance juste après le dernier quartier. La Lune est en chute ; Mars, maître ancien du Scorpion, a son exaltation en Capricorne. J’y lis une endurance portée par la profondeur, lente à faire confiance et à renoncer."
 facts:
   - { k: "Signe solaire", v: "Capricorne ♑, gouverné par Saturne ; exaltation de Mars" }
   - { k: "Signe lunaire", v: "Scorpion ♏, gouverné par Pluton et Mars ; chute de la Lune" }
@@ -19,9 +19,9 @@ facts:
 related: ["/astrology/sun-in-capricorn", "/astrology/moon-in-scorpio", "/astrology/last-quarter-moon", "/astrology/sun-sextile-moon", "/astrology/pluto"]
 faq:
   - q: "Un Soleil en Capricorne avec une Lune en Scorpion est-il intense ?"
-    a: "En silence, oui. Le Soleil en Capricorne est constant et discret sur ses ambitions ; la Lune en Scorpion ressent profondément et accorde lentement sa confiance. La terre et l’eau sont en sextile par signe : le Soleil donne une structure à la profondeur de la Lune, la Lune une raison au travail du Soleil. Le soin à prendre : laisser entrer quelqu’un avant qu’une crise ne le fasse."
+    a: "En silence, oui. Le Soleil en Capricorne est discret sur ses ambitions ; la Lune en Scorpion ressent profondément et accorde lentement sa confiance. En sextile par signe, le Soleil donne une structure à la profondeur de la Lune, la Lune une raison au travail du Soleil. Le soin à prendre : laisser entrer quelqu’un avant qu’une crise ne le fasse."
   - q: "Quels maîtres comptent pour un Soleil en Capricorne et une Lune en Scorpion ?"
-    a: "Saturne pour votre Soleil, et pour votre Lune les deux maîtres du Scorpion, Pluton chez les modernes et Mars dans les livres anciens : je lis les deux. Mars a son exaltation en Capricorne : la tradition honore donc le maître ancien de la Lune dans le signe de votre Soleil. Les maisons de Saturne, de Pluton et de Mars montrent où ce duo s’enracine."
+    a: "Saturne pour votre Soleil, et pour votre Lune les deux maîtres du Scorpion, Pluton chez les modernes et Mars dans les livres anciens : je lis les deux. Mars a son exaltation en Capricorne : la tradition honore donc le maître ancien de la Lune dans le signe de votre Soleil. Leurs maisons montrent où ce duo s’enracine."
   - q: "Dans quelle semaine du mois lunaire naît-on avec le Soleil en Capricorne et la Lune en Scorpion ?"
     a: "Dans la dernière, juste après le dernier quartier. La Lune avait 271° à 329° d’avance sur le Soleil, vingt-deux à vingt-sept jours après la nouvelle lune. La phase de dernier quartier des huit prend la plupart de ces naissances, environ sept sur huit, et vers 300°, les luminaires forment un sextile décroissant."
 sources:

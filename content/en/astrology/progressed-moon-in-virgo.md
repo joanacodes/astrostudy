@@ -39,7 +39,7 @@ Tradition linked Virgo and its natural house, the 6th, with illness, and the Moo
 
 ## How long it lasts {#how-long-it-lasts}
 
-Virgo can hold the progressed Moon a little longer than most signs. In my count, for births from 1930 to 2009, its crossings ranged from two years to about two years and seven months, a top end it shares only with Leo, though the usual stay was the same as anywhere, about two years and four months. The real Moon’s speed in the days after your birth decides your own length, one day of its motion for each year of yours.
+Virgo can hold the progressed Moon a little longer than most signs. In my count, for births from 1930 to 2009, its crossings ranged from two years to about two years and seven months, a top end it shares only with Leo, though the usual stay was the same as anywhere, about two years and four months. If you like precision, as Virgo does, your own figure comes from the real Moon’s speed in the days after your birth, and a program can measure it to the month.
 
 It follows the [progressed Moon in Leo](/astrology/progressed-moon-in-leo/) and gives way to the [progressed Moon in Libra](/astrology/progressed-moon-in-libra/): after the performance, the practice; after the practice, the other person. Virgo is the sixth of the twelve signs, so its chapter closes the first half of the progressed Moon’s round of about 27 years, counted from Aries, and the second half opens with Libra.
 

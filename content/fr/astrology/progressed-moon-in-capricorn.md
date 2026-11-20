@@ -17,7 +17,7 @@ facts:
 related: ["/astrology/progressed-moon", "/astrology/capricorn", "/astrology/moon-in-capricorn", "/astrology/saturn", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire la Lune progressée en Capricorne ?"
-    a: "Que votre Lune progressée fait l’ascension du Capricorne, signe de terre gouverné par Saturne et, selon la tradition, exil de la Lune. Les astrologues lisent ces deux ans environ comme un chapitre sérieux : des besoins comblés par la responsabilité, la structure et un travail qui dure. J’y lis une météo intérieure, une chaleur qui passe par les actes, sans événement annoncé."
+    a: "Que votre Lune progressée fait l’ascension du Capricorne, signe de terre gouverné par Saturne et, selon la tradition, exil de la Lune. Les astrologues lisent ces deux ans environ comme un chapitre sérieux : des besoins comblés par la responsabilité, la structure et un travail qui dure. J’y lis une chaleur qui passe par les actes, sans événement annoncé."
   - q: "Combien de temps la Lune progressée reste-t-elle en Capricorne ?"
     a: "L’ascension prend deux ans à deux ans et demi dans mon décompte des naissances de 1930 à 2009, le plus souvent deux ans et quatre mois environ. L’exil ne la ralentit pas ; le séjour dépend de la vitesse de la vraie Lune dans les jours qui ont suivi votre naissance."
   - q: "La Lune progressée en Capricorne, est-ce une période dure ?"

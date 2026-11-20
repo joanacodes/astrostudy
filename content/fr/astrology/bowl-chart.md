@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 17
 glyph: "✦"
-definition: "Un thème en bol a ses dix planètes dans une moitié de la roue, sur 180° ou moins, et l’autre moitié vide. C’est l’une des sept formes nommées par Marc Edmund Jones. J’y lis une insistance : un côté plein, et un côté vide vers lequel le thème reste tourné. Le décompte en trouve chez 1 personne sur 9 environ."
+definition: "Un thème en bol a ses dix planètes dans une moitié de la roue, sur 180° ou moins, et l’autre moitié vide. C’est l’une des sept formes nommées par Marc Edmund Jones. J’y lis une insistance : un côté plein, et un côté vide vers lequel le thème reste tourné. Sa part dans mon décompte : environ 1 personne sur 9."
 facts:
   - { k: "Forme", v: "Les dix planètes sur 180° au plus ; l’autre moitié de la roue vide" }
   - { k: "Aspects", v: "Aucun n’est nécessaire : c’est la répartition des planètes" }
