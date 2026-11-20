@@ -1,13 +1,13 @@
 ---
 title: "Saturn transiting the 9th house"
 h1: "Saturn transiting your 9th house"
-description: "Saturn transiting the 9th house: about three years when beliefs, study and long journeys are tested and given structure. Its steady length, and your dates."
+description: "Saturn transiting the 9th house: about three years when beliefs, study and long journeys are tested, in the steadiest stays of any house."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 21
 glyph: "♄"
-definition: "Saturn transiting the 9th house is the testing, usually just under three years long, of what you believe and how you came to believe it, as Saturn crosses your house of study, travel and meaning. It activates what your chart already holds there and gives it structure: convictions earned, long study given a shape."
+definition: "Saturn transiting the 9th house is the testing, usually just under three years long, of what you believe and how you came to believe it, as Saturn crosses your house of study, travel and meaning. The convictions it tests are your chart’s own, and the ones that hold get a shape."
 facts:
   - { k: "Body", v: "Saturn ♄, the planet of time and structure" }
   - { k: "House", v: "The 9th house: the far horizon, study and belief (cadent)" }
@@ -36,7 +36,7 @@ The 9th is Jupiter's house in the natural order, the house of Sagittarius, and S
 
 With your Jupiter in the 9th, the house's natural ruler, Saturn's pass tests the beliefs you hold most generously, and keeps the ones that survive.
 
-Like any [transit](/astrology/transits/), this one brings out what your chart already holds about meaning and gives it a frame. It doesn't decide where you'll go, what you'll study or how anything you apply for turns out.
+The [transit](/astrology/transits/) itself only brings out what your chart already holds about meaning, and gives it a frame. It doesn't decide where you'll go, what you'll study or how anything you apply for turns out.
 
 ## How long it lasts {#how-long-it-lasts}
 

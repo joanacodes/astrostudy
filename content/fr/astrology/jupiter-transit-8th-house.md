@@ -2,13 +2,13 @@
 title: "Jupiter en transit en maison 8"
 slug: "transit-jupiter-maison-8"
 h1: "Jupiter en transit dans votre maison 8"
-description: "Jupiter en transit en maison 8 : un an environ de confiance et de partage plus profonds, sans prédire mort ni argent. Durée, et signes par élément."
+description: "Jupiter en transit en maison 8 : un an environ de confiance et de partage plus profonds, sans prédire mort ni argent, avec les signes par élément."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 8
 glyph: "♃"
-definition: "Jupiter en transit en maison 8 décrit l’année environ où la croissance de Jupiter atteint ce que vous partagez avec d’autres : la confiance, l’intimité, l’argent commun, les obligations. Ce transit élargit ce que votre thème y contient déjà, souvent vers plus de profondeur et d’honnêteté. Il n’annonce ni héritage ni mort."
+definition: "Jupiter en transit en maison 8 décrit l’année environ où la croissance de Jupiter atteint ce que vous partagez avec d’autres : la confiance, l’intimité, l’argent commun, les obligations. Ce transit travaille ce que votre thème y contient déjà, souvent vers plus de profondeur et d’honnêteté. Il n’annonce ni héritage ni mort."
 facts:
   - { k: "Corps", v: "Jupiter ♃, la planète de la croissance et du sens" }
   - { k: "Maison", v: "La maison 8 : ce que vous partagez et ce que vous devez (succédente)" }

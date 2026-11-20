@@ -2,13 +2,13 @@
 title: "Jupiter en transit en maison 1"
 slug: "transit-jupiter-maison-1"
 h1: "Jupiter en transit dans votre maison 1"
-description: "Jupiter en transit en maison 1 : environ un an pour grandir, dès le passage sur votre ascendant. Combien de temps, et les dates selon votre signe ascendant."
+description: "Jupiter en transit en maison 1 : environ un an pour grandir, dès le passage sur votre ascendant. Votre signe ascendant vous dit quand ce transit arrive."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 1
 glyph: "♃"
-definition: "Jupiter en transit en maison 1, c’est la période, en général un an environ, où Jupiter traverse dans le ciel la maison qui commence à votre ascendant. Ce transit n’apporte aucune chance par lui-même : il active ce que votre thème dit déjà de la personne que vous êtes, et l’élargit : de la place pour une version plus vaste de vous."
+definition: "Jupiter en transit en maison 1, c’est la période, en général un an environ, où Jupiter traverse dans le ciel la maison qui commence à votre ascendant. Ce transit n’apporte aucune chance par lui-même. Ce qu’il réveille, c’est ce que votre thème dit déjà de vous, avec de la place : une version plus vaste de vous-même, essayée au grand jour."
 facts:
   - { k: "Corps", v: "Jupiter ♃, la planète de la croissance et du sens" }
   - { k: "Maison", v: "La maison 1 : la personne que vous montrez d’abord (angulaire)" }

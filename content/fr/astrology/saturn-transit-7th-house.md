@@ -2,13 +2,13 @@
 title: "Saturne en transit en maison 7"
 slug: "transit-saturne-maison-7"
 h1: "Saturne en transit dans votre maison 7"
-description: "Saturne en transit en maison 7 : environ trois ans à regarder l’engagement et l’équité en face, sans prédiction de rupture. Sa durée, et vos dates."
+description: "Saturne en transit en maison 7 : environ trois ans à regarder l’engagement et l’équité en face, sans prédiction de rupture, à partir de votre descendant."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 19
 glyph: "♄"
-definition: "Saturne en transit en maison 7, c’est le lent examen, long d’un peu moins de trois ans, de vos liens en tête-à-tête les plus proches, à partir du jour où Saturne atteint votre descendant. Ce transit structure ce que votre thème contient déjà sur le couple : engagements examinés, conditions plus justes, limites claires. Il ne prédit aucune rupture."
+definition: "Saturne en transit en maison 7, c’est le lent examen, long d’un peu moins de trois ans, de vos liens en tête-à-tête les plus proches, à partir du jour où Saturne atteint votre descendant. Ce transit passe au crible les liens que votre thème décrit déjà : engagements regardés, conditions plus justes, limites claires. Il ne prédit aucune rupture."
 facts:
   - { k: "Corps", v: "Saturne ♄, la planète du temps et de la structure" }
   - { k: "Maison", v: "La maison 7 : les partenaires et les liens en tête-à-tête (angulaire)" }

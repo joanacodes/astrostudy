@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 21
 glyph: "✦"
-definition: "A seesaw chart has its planets in two groups on opposite sides of the wheel, with empty space between them on both sides. It is one of Marc Edmund Jones’s seven shapes. I read it as a life organised around two poles that ask to be balanced, not chosen between. Authors define it too differently for a count."
+definition: "A seesaw chart has its planets in two groups on opposite sides of the wheel, with empty space between them on both sides. Marc Edmund Jones listed it among his seven shapes. I read it as a life organised around two poles that ask to be balanced, not chosen between. Definitions differ too much between authors to count it."
 facts:
   - { k: "Shape", v: "Two groups of planets facing each other, with empty space on both sides" }
   - { k: "Aspects", v: "None required; oppositions can run between the groups" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/locomotive-chart", "/astrology/splash-chart", "/astrology/opposition", "/astrology/marc-edmund-jones", "/blog/unknown-birth-time"]
 faq:
   - q: "What is a seesaw chart?"
-    a: "A chart whose planets fall into two groups on opposite sides of the wheel, with empty space between them. Marc Edmund Jones named it among his seven shapes. I read it as two centres of gravity facing each other: two sides of life that keep asking to be balanced."
+    a: "A chart whose planets fall into two groups on opposite sides of the wheel, with empty space between them. It belongs to the seven shapes of Marc Edmund Jones’s scheme. I read it as two centres of gravity facing each other: two sides of life that keep asking to be balanced."
   - q: "Why is there no count for the seesaw chart?"
     a: "Because authors don’t draw it the same way. One description asks for groups at least 60° apart; others set the line elsewhere. A count needs a single rule, and with several in use, any number would depend on which rule I happened to pick rather than on the charts."
   - q: "How do I read a seesaw chart?"
@@ -43,7 +43,7 @@ The count behind this site leaves the seesaw out. Its definitions vary too much 
 
 Astrologers who use the shape describe a life that moves between two contrasting sides, often finding it hard to bring them together. The system I built for my readings reads the opposition, the aspect a seesaw is built around, as polarity and integration, and never as conflict in itself, so I read the shape the same way. Two centres of gravity, each with its own business; the empty stretches between them are where you cross from one to the other. Balance here isn't stillness. A seesaw that works keeps moving, and both seats stay occupied. And like any shape, it describes emphasis: the planets in each group, read one by one, decide what the two sides are actually about.
 
-The houses do much of the telling, and they need the time of birth. Two groups across the horizon, around the 1st and 7th houses, pair self and others; across the meridian, around the 4th and 10th, home and public life. The Moon can sit in one group or in a gap, and its place changes by about a sign every two and a half days. That's why I [don't read the shape without the birth time](/blog/unknown-birth-time/).
+The houses do much of the telling, and they need the time of birth. Two groups across the horizon, around the 1st and 7th houses, pair self and others; across the meridian, around the 4th and 10th, home and public life. The Moon can sit in one group or in a gap, and its place changes by about a sign every two and a half days. Which two sides of life the seesaw joins is a question for [the birth time](/blog/unknown-birth-time/), and I wait for its answer.
 
 ## What helps {#what-helps}
 

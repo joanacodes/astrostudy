@@ -20,7 +20,7 @@ faq:
   - q: "What does a grand cross mean in a birth chart?"
     a: "Four planets linked by two oppositions and four squares, usually in one modality. Each pulls against two neighbours and faces a fourth. I read it as tension spread on every side: a lot of effort, and with practice an unusual steadiness. It describes pressure to work with, not a fate or a failure."
   - q: "How rare is a grand cross?"
-    a: "Rarer than most patterns. In my count of charts born from 1930 to 2009, about 1 person in 80 has one among the ten planets, with orbs of 8° when the Sun or Moon is involved and 6° otherwise. Including the angles or Chiron, or allowing wider orbs, would raise that figure."
+    a: "Rarer than most patterns. Out of every eighty people born from 1930 to 2009, about one has a grand cross among the ten planets, in my count, with orbs of 8° for the Sun and Moon and 6° for the others. Four planets have to fall into place at once."
   - q: "What is a cardinal, fixed or mutable grand cross?"
     a: "It’s named after the modality its four signs share. Cardinal signs begin, fixed signs keep going, mutable signs adapt, so the pressure shows as many starts at once, as stubborn persistence, or as constant adjusting. Near the end of a sign, one arm can fall in another modality and loosen the figure."
   - q: "Is a grand cross harder than a T-square?"
@@ -43,7 +43,7 @@ It's one of the rarer figures in the count behind this site: about 1 person in 8
 
 The system I built for my readings is firm about both aspects in it. A square is friction that pushes development, never failure or punishment; an opposition is polarity, two functions learning to see each other, not conflict in itself. A grand cross puts both everywhere at once. I read it as a life that asks for effort on several fronts and often builds a rare capacity to hold things together: the person others call steady, who knows how much juggling that steadiness takes. Some old books say it gives you a cross to bear. I'd rather say four functions each need their turn, and none of them can be dropped for long. A single figure, however striking, doesn't run the chart: I read its four planets one by one, in their signs, before I read the cross.
 
-The houses are where it lands, and they need the time of birth. Four planets about 90° apart often fall in houses of one kind, the four angular, succedent or cadent houses ([angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/)), and a cross lying on the angles themselves, near the Ascendant, Descendant, Midheaven and IC, is the loudest version. None of that shows without the time, and a cross with the Moon in it can form or come apart within the same day. That's why I [don't read it without the birth time](/blog/unknown-birth-time/).
+The houses are where it lands, and they need the time of birth. Four planets about 90° apart often fall in houses of one kind, the four angular, succedent or cadent houses ([angular, succedent and cadent houses](/astrology/angular-succedent-and-cadent-houses/)), and a cross lying on the angles themselves, near the Ascendant, Descendant, Midheaven and IC, is the loudest version. None of that shows without the time, and a cross with the Moon in it can form or come apart within the same day. A cross without its houses is pressure with nowhere to land, which is why I [wait for the birth time before reading it](/blog/unknown-birth-time/).
 
 ## What helps {#what-helps}
 

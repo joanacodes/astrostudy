@@ -1,13 +1,13 @@
 ---
 title: "Splay chart"
 h1: "The splay chart in astrology"
-description: "The splay chart in astrology: planets in a few irregular clusters round the wheel, one of Marc Edmund Jones’s shapes, why it has no count, and how I read its centres."
+description: "The splay chart in astrology: planets in a few irregular clusters round the wheel, a Marc Edmund Jones shape, why it has no count, and how I read its centres."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
 weight: 23
 glyph: "✦"
-definition: "A splay chart has its planets in a few irregular clusters spread round the wheel, often pairs or conjunctions at uneven distances, with gaps between them. It is one of Marc Edmund Jones’s seven shapes. I read it as several centres of gravity, each with its own business. Authors define it too differently for a count."
+definition: "A splay chart has its planets in a few irregular clusters spread round the wheel, often pairs or conjunctions at uneven distances, with gaps between them. It is the most irregular of Marc Edmund Jones’s seven shapes. I read it as several centres of gravity, each with its own business. With no agreed definition, it has no count here."
 facts:
   - { k: "Shape", v: "A few irregular clusters, spread round the wheel with gaps between" }
   - { k: "Aspects", v: "Conjunctions within the clusters; any aspect between them" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/splash-chart", "/astrology/fan-chart", "/astrology/stellium", "/astrology/marc-edmund-jones", "/blog/unknown-birth-time"]
 faq:
   - q: "What is a splay chart?"
-    a: "A chart whose planets gather in a few irregular clusters, at uneven distances round the wheel, with gaps between them. Marc Edmund Jones counted it among his seven shapes. I read each cluster as a centre of gravity with its own business, and the chart as the way those centres share one life."
+    a: "A chart whose planets gather in a few irregular clusters, at uneven distances round the wheel, with gaps between them. In Marc Edmund Jones’s scheme, it’s the shape of several centres. I read each cluster as a centre of gravity with its own business, and the chart as the way those centres share one life."
   - q: "What is the difference between a splay and a splash chart?"
     a: "Both spread the planets round the wheel. In a splash, they’re scattered more or less everywhere; in a splay, they gather into a few distinct clusters, with clear gaps in between. A splay has several strong points; a splash has breadth without them."
   - q: "Why is there no count for the splay chart?"
@@ -31,7 +31,7 @@ Not every chart is a crowd, a half or a train. In a splay chart the planets gath
 
 ## What it looks like {#what-it-looks-like}
 
-In the description Wikipedia gives from its sources, a splay has at least two, and usually three, pairs or conjunctions of planets spread irregularly round the chart. Each knot is a small group, a tight [conjunction](/astrology/conjunction/) or, with three or more planets in one sign, a [stellium](/astrology/stellium/); between the knots, the wheel is open. It's one of the seven shapes [Marc Edmund Jones](/astrology/marc-edmund-jones/) named, and the one most defined by irregularity.
+In the description Wikipedia gives from its sources, a splay has at least two, and usually three, pairs or conjunctions of planets spread irregularly round the chart. Each knot is a small group, a tight [conjunction](/astrology/conjunction/) or, with three or more planets in one sign, a [stellium](/astrology/stellium/); between the knots, the wheel is open. It's one of the seven shapes [Marc Edmund Jones](/astrology/marc-edmund-jones/) named, and the one most defined by irregularity. Mercury never strays more than about 28° from the Sun and Venus never more than about 47°, so the Sun can easily gather a knot of its own with one or both of them. The slow planets make knots that whole generations share, which is why the houses, more than the signs, make a splay personal.
 
 That irregularity is the point. The clusters don't face each other the way a seesaw's two groups do, and they don't string out into one long train. Compare its neighbour, the [splash](/astrology/splash-chart/): both spread the planets round the wheel, but a splash scatters them more or less everywhere, while a splay gathers them into a few distinct points with clear gaps in between.
 
@@ -41,7 +41,7 @@ This is the last of Jones's shapes on these pages, and the third with no figure.
 
 Astrologers who use the shape describe an individualist with several strong talents that don't always connect, and little taste for routine. I read the splay as several centres of gravity. Each cluster has its own business, given by its planets, its sign and its house; the gaps are where those businesses meet, or don't. The aspects that run between clusters are the links I read most closely, because they're how the centres reach each other. And repetition matters more here than anywhere: when two clusters say the same thing in different words, that's the chart's real emphasis, rather than any one knot on its own.
 
-The houses of the clusters need the time of birth, and so does the Moon, which can join a knot or stand apart from all of them depending on the hour. Without the houses, a splay is a set of knots with no address, and that's why I [don't read a chart without the birth time](/blog/unknown-birth-time/).
+The houses of the clusters need the time of birth, and so does the Moon, which can join a knot or stand apart from all of them depending on the hour. Its knots only become parts of your life once [the birth time](/blog/unknown-birth-time/) places them, so I wait for it.
 
 ## What helps {#what-helps}
 

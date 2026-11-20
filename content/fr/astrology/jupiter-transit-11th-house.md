@@ -2,13 +2,13 @@
 title: "Jupiter en transit en maison 11"
 slug: "transit-jupiter-maison-11"
 h1: "Jupiter en transit dans votre maison 11"
-description: "Jupiter en transit en maison 11 : un an environ dans la maison de sa joie, où amitiés, groupes et espoirs partagés grandissent. Durée, et signes tour à tour."
+description: "Jupiter en transit en maison 11 : un an environ dans la maison de sa joie ; amitiés, groupes et espoirs grandissent, en trois blocs de signes."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 11
 glyph: "♃"
-definition: "Jupiter en transit en maison 11 place Jupiter, pendant un peu plus d’un an, dans la maison où la tradition plaçait sa joie : les amis, les groupes, les espoirs partagés. Ce transit élargit ce que votre thème contient déjà sur l’appartenance, vers de nouveaux cercles et une idée plus claire de ce que vous bâtissez ensemble."
+definition: "Jupiter en transit en maison 11 place Jupiter, pendant un peu plus d’un an, dans la maison où la tradition plaçait sa joie : les amis, les groupes, les espoirs partagés. Ce passage puise dans le sentiment d’appartenance que décrit déjà votre thème, vers de nouveaux cercles et une idée plus claire de ce que vous bâtissez ensemble."
 facts:
   - { k: "Corps", v: "Jupiter ♃, la planète de la croissance et du sens" }
   - { k: "Maison", v: "La maison 11 : les amis, les groupes et les espoirs (succédente)" }

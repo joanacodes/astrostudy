@@ -20,7 +20,7 @@ faq:
   - q: "What is a yod in astrology?"
     a: "A pattern in which one planet sits 150° from two others that are 60° apart: two quincunxes and a sextile. The lone planet, at the apex, keeps adjusting to the pair at its base. Its other name, the finger of God, describes the shape on the page, not a destiny."
   - q: "How rare is a yod?"
-    a: "Less rare than its reputation. In my count of charts born from 1930 to 2009, about 1 person in 8 has one among the ten planets, with the quincunxes within 3° and the sextile within 8° when the Sun or Moon is involved, 6° otherwise. A slightly wider orb would find many more."
+    a: "Less rare than its reputation. One person in about eight, among everyone born from 1930 to 2009, has a yod among the ten planets in my count, and its quincunxes are held to 3°, far tighter than the major aspects. One more degree of leeway would find many more."
   - q: "Why is a yod called the finger of God?"
     a: "Because of its shape: a long triangle that narrows from its base to a single planet, like a pointing finger. The word yod itself is the tenth letter of the Hebrew alphabet. Neither name says anything about fate; I read the apex as a skill under construction, not a mission handed down."
   - q: "What is the apex planet of a yod?"
@@ -40,13 +40,13 @@ A yod has three planets. Two sit about 60° apart, in [sextile](/astrology/sexti
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 1 person in 8 born from 1930 to 2009 has a yod among the ten planets, in the count behind this site, with each quincunx held within 3° and the sextile within 8° when the Sun or Moon is involved, 6° otherwise. For a pattern with such a reputation, that's common. The tight quincunx orb matters: allow a degree more and many more yods appear, a degree less and many disappear. The count also leaves out the angles, Chiron, Lilith and the nodes, any of which can stand at a point of the triangle.
+For a pattern with such a reputation, the yod is common: in the count behind this site it turns up for about 1 person in 8 born from 1930 to 2009, among the ten planets, with each quincunx held within 3° and the sextile allowed 8° beside the Sun or Moon, 6° otherwise. The tight quincunx orb matters: allow a degree more and many more yods appear, a degree less and many disappear. The count also leaves out the angles, Chiron, Lilith and the nodes, any of which can stand at a point of the triangle.
 
 The system I built for my readings describes the quincunx as a relation of adjustment and recalibration: not conflict, not failure, and not something that settles by itself. The sextile at the base is cooperation that needs taking up to become anything. Put together, I read a yod as two functions that work well as a pair and a third that has to keep re-tuning itself to both, because there's no shared ground where they could meet halfway. Over the years, that re-tuning tends to turn into precision: the apex learns, by sheer repetition, a way of working that suits two very different neighbours.
 
 None of this is a destiny. A chart describes how you're inclined to move, not where you must end up ([how I read](/how-i-read/)), and a yod is no exception, whatever its name.
 
-The houses of the base and the apex need the time of birth: the apex's house is the area of life where the adjusting goes on, the base's houses the areas it adjusts to. A yod with the Moon at one of its points is the most time-sensitive of all: with a 3° orb on the quincunxes and the Moon moving about a sign every two and a half days, it can be there in the morning and gone by the evening. That's why I [don't read a chart without the birth time](/blog/unknown-birth-time/).
+The houses of the base and the apex need the time of birth: the apex's house is the area of life where the adjusting goes on, the base's houses the areas it adjusts to. A yod with the Moon at one of its points is the most time-sensitive of all: with a 3° orb on the quincunxes and the Moon moving about a sign every two and a half days, it can be there in the morning and gone by the evening. With a figure that delicate, I [need the birth time before saying anything about it](/blog/unknown-birth-time/).
 
 ## What helps {#what-helps}
 

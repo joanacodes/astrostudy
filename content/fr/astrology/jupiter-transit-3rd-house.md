@@ -2,13 +2,13 @@
 title: "Jupiter en transit en maison 3"
 slug: "transit-jupiter-maison-3"
 h1: "Jupiter en transit dans votre maison 3"
-description: "Jupiter en transit en maison 3 : un an environ où l’apprentissage, la parole et la curiosité du quotidien s’élargissent. Combien de temps, et à partir de quand."
+description: "Jupiter en transit en maison 3 : un an environ où l’apprentissage, la parole et la curiosité du quotidien s’élargissent, avec les dates année après année."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 3
 glyph: "♃"
-definition: "Jupiter en transit en maison 3 veut dire que Jupiter, en avançant dans le ciel, traverse la part de votre thème qui contient la pensée, la parole et l’apprentissage du quotidien, en général un peu plus d’un an. Ce transit active ce qui s’y trouve déjà et l’élargit : plus de curiosité, plus de conversations, un savoir épars qui se rassemble."
+definition: "Jupiter en transit en maison 3 veut dire que Jupiter, en avançant dans le ciel, traverse la part de votre thème qui contient la pensée, la parole et l’apprentissage du quotidien, un peu plus d’un an. La curiosité réveillée était déjà écrite dans votre thème ; pour un temps, elle trouve plus de conversations, et un savoir épars se rassemble."
 facts:
   - { k: "Corps", v: "Jupiter ♃, la planète de la croissance et du sens" }
   - { k: "Maison", v: "La maison 3 : l’esprit au quotidien et ce qui est tout proche (cadente)" }

@@ -1,13 +1,13 @@
 ---
 title: "Saturn transiting the 8th house"
 h1: "Saturn transiting your 8th house"
-description: "Saturn transiting the 8th house: about three years of taking stock of trust, debts and shared money, never a forecast of death. Length, and your dates."
+description: "Saturn transiting the 8th house: about three years of taking stock of trust, debts and shared money, never a forecast of death or loss, sign by sign."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 20
 glyph: "♄"
-definition: "Saturn transiting the 8th house is Saturn’s audit, usually a little under three years long, of what you share with other people and what you owe them: joint money, obligations, trust and intimacy. It activates what your chart already holds there and gives it structure. It foretells no death and no loss."
+definition: "Saturn transiting the 8th house is Saturn’s audit, usually a little under three years long, of what you share with other people and what you owe them: joint money, obligations, trust and intimacy. What’s already in your chart gets counted and put on firmer ground. It foretells no death and no loss."
 facts:
   - { k: "Body", v: "Saturn ♄, the planet of time and structure" }
   - { k: "House", v: "The 8th house: what you share and what you owe (succedent)" }
@@ -18,7 +18,7 @@ related: ["/astrology/saturn", "/astrology/8th-house", "/astrology/transits", "/
 faq:
   - q: "Is Saturn transiting the 8th house dangerous?"
     a: "No. Tradition gave the 8th death, and some books still frighten people with this transit, but I don’t read death in any chart. What Saturn describes here is a season of taking stock: shared money, obligations, and whom you can trust. A demanding season, never a sentence."
-  - q: "What does Saturn in the 8th do to shared finances?"
+  - q: "How does Saturn in the 8th touch shared money?"
     a: "It tends to bring them into the open: joint accounts, loans, debts and agreements want a clearer structure. That’s stewardship, not a forecast. No transit can say whether money will be gained or lost, and I don’t read one for that; what it shows is how you share."
   - q: "Why does intimacy feel guarded with Saturn in the 8th?"
     a: "Because Saturn tests foundations before it trusts them, and the 8th is the house of trust and closeness. For a while you may let people in more slowly, or ask more of them first. I read that as trust being rebuilt to last, not as a door closing."
@@ -36,7 +36,7 @@ One of Saturn's old habits is to mistake control for safety, and the 8th is wher
 
 With your Moon in the 8th, the pass can make closeness feel more guarded for a while, and teach what a safe intimacy needs.
 
-Tradition gave the 8th death and inheritance. I don't read either in a [transit](/astrology/transits/), for anyone ([can astrology predict death?](/astrology/can-astrology-predict-death/)), and Saturn here predicts no loss of money or of people. It brings out what your chart already holds about sharing, and gives it a structure.
+Tradition gave the 8th death and inheritance. Neither belongs in my readings ([can astrology predict death?](/astrology/can-astrology-predict-death/)), and Saturn here predicts no loss, of money or of people. A [transit](/astrology/transits/) like this one shows how you share, and helps you put it on firmer ground.
 
 ## How long it lasts {#how-long-it-lasts}
 

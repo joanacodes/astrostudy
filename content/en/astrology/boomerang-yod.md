@@ -20,7 +20,7 @@ faq:
   - q: "What is a boomerang yod?"
     a: "A yod with one more planet: a fourth body opposite the apex, sitting between the two base planets, about 30° from each. The apex still adjusts to the base, but now something faces it across the chart. The name pictures the adjusting going out from the apex and coming back through that fourth planet."
   - q: "How rare is a boomerang yod?"
-    a: "Rarer than the yod. In my count of charts born from 1930 to 2009, about 1 person in 27 has one among the ten planets, with quincunxes within 3° and the sextile and opposition within 8° when the Sun or Moon is involved, 6° otherwise. The angles and Chiron weren’t counted."
+    a: "Rarer than a plain yod: about 1 chart in 27 for births from 1930 to 2009 has one among the ten planets, by my count, with its quincunxes kept within 3°. It needs a fourth planet in one precise spot, opposite the apex; Chiron and the angles, which could fill it, weren’t counted."
   - q: "How is a boomerang yod different from a yod?"
     a: "A plain yod leaves the point opposite its apex empty, so the adjusting has nowhere obvious to land. In a boomerang yod a planet sits there, opposite the apex, and the strain meets a counterweight: an awareness, often through other people, of what the apex has been adjusting for."
   - q: "Does the birth time change a boomerang yod?"
@@ -39,13 +39,13 @@ In signs, the fourth planet usually falls in the sign between the two base plane
 
 ## In a birth chart {#in-a-birth-chart}
 
-In the count behind this site, about 1 person in 27 born from 1930 to 2009 has a boomerang yod among the ten planets, with the quincunxes within 3° and the sextile and opposition within 8° when the Sun or Moon is involved, 6° otherwise. The figure needs four planets placed just so, and those tight quincunxes make it sensitive to orbs: a degree's difference either way changes the count a great deal. The count also leaves out the angles, Chiron, Lilith and the nodes, any of which could stand opposite an apex.
+A fourth planet exactly opposite a yod's apex is a rarer thing than the yod itself: the count behind this site finds the boomerang in about 1 chart in 27 for births from 1930 to 2009, among the ten planets, with its quincunxes held to 3° and its sextile and opposition allowed 8° near the Sun or Moon, 6° otherwise. The figure needs four planets placed just so, and those tight quincunxes make it sensitive to orbs: a degree's difference either way changes the count a great deal. The count also leaves out the angles, Chiron, Lilith and the nodes, any of which could stand opposite an apex.
 
 The system I built for my readings describes the quincunx as adjustment and recalibration, and the opposition as polarity: two functions made aware of each other, so that each can be integrated rather than fought. In a yod, the apex keeps adjusting with nothing across from it. In a boomerang yod, the planet opposite gives it a counterpart, and I read that as the adjusting becoming visible: something you can see and name, often first in someone else, rather than only feel. The fourth planet also sits close to both base planets, in semi-sextile, a contact of small, steady coordination, so it gathers what the base offers and carries it across the chart.
 
 I still read the four planets one by one before the figure: their functions, their signs, how loudly each speaks. A pattern this neat gets my attention; it doesn't get the last word over the rest of the chart.
 
-The houses decide where the opposition falls, across which two areas of life the boomerang throws and returns, and the houses need the time of birth. A boomerang yod with the Moon in it can form and vanish within a day, as the Moon moves about a sign every two and a half days and the quincunxes allow only 3°. That's one reason I [read nothing without the birth time](/blog/unknown-birth-time/).
+The houses decide where the opposition falls, across which two areas of life the boomerang throws and returns, and the houses need the time of birth. A boomerang yod with the Moon in it can form and vanish within a day, as the Moon moves about a sign every two and a half days and the quincunxes allow only 3°. So the boomerang, more than most figures, waits on [the birth time](/blog/unknown-birth-time/) before I read it.
 
 ## What helps {#what-helps}
 

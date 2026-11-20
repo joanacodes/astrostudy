@@ -2,13 +2,13 @@
 title: "Jupiter en transit en maison 5"
 slug: "transit-jupiter-maison-5"
 h1: "Jupiter en transit dans votre maison 5"
-description: "Jupiter en transit en maison 5 : un an environ de jeu, de créativité et de plaisir, lu dans une vie d’adulte. Sa durée, et quand ce transit vous atteint."
+description: "Jupiter en transit en maison 5 : un an environ de jeu, de créativité et de plaisir dans une vie d’adulte, avec Jupiter en Lion à partir de juin 2026."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 5
 glyph: "♃"
-definition: "Jupiter en transit en maison 5, c’est le passage de Jupiter, un an environ, dans la part du thème consacrée à la joie : la créativité, le jeu, le plaisir, l’amour. Ce transit élargit ce que votre thème y contient, et ce que vous faites pour le plaisir prend plus de place. Il ne prédit ni enfant ni histoire d’amour."
+definition: "Jupiter en transit en maison 5, c’est le passage de Jupiter, un an environ, dans la part du thème consacrée à la joie : la créativité, le jeu, le plaisir, l’amour. Ce transit réveille l’envie de jouer que votre thème contient, et ce que vous faites pour le plaisir prend plus de place. Il ne prédit ni enfant ni histoire d’amour."
 facts:
   - { k: "Corps", v: "Jupiter ♃, la planète de la croissance et du sens" }
   - { k: "Maison", v: "La maison 5 : la joie, le jeu et la créativité (succédente)" }

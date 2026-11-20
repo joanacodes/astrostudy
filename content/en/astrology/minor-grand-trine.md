@@ -20,7 +20,7 @@ faq:
   - q: "What is a minor grand trine?"
     a: "Three planets: two about 120° apart, in trine, and a third roughly halfway between them, about 60° from each, in sextile. The figure draws a flat triangle. I read the middle planet as the place where the trine’s ease is gathered and put to use: the figure’s working point."
   - q: "How common is a minor grand trine?"
-    a: "Very common. In my count of charts born from 1930 to 2009, about 4 people in 9 have one among the ten planets, with orbs of 8° when the Sun or Moon is involved and 6° otherwise. It’s an ordinary resource of many charts rather than a rare distinction."
+    a: "Very common. Nearly half the people in my count, about 4 in 9 of those born from 1930 to 2009, have one among the ten planets. It needs only one trine and a planet near its midpoint, so I read it as an ordinary resource of many charts rather than a rare distinction."
   - q: "What is the difference between a minor grand trine and a grand trine?"
     a: "A grand trine has three trines in a closed loop; a minor grand trine has one trine and two sextiles, with the third planet between the other two instead of across from them. It’s less self-contained: its sextiles offer openings that need taking up, which makes it easier to put to work."
   - q: "Which planet matters most in a minor grand trine?"
@@ -39,13 +39,13 @@ It's called minor because it has one trine where the [grand trine](/astrology/gr
 
 ## In a birth chart {#in-a-birth-chart}
 
-The count behind this site found a minor grand trine among the ten planets in about 4 people in 9 born from 1930 to 2009, counting each aspect within 8° when the Sun or Moon is involved and 6° otherwise. Add the Ascendant, the Midheaven, Chiron, Lilith or the nodes, or widen the orbs a little, and it would be more common still. It's one of the most ordinary figures a chart can hold.
+Nearly half the charts in the count behind this site hold one: about 4 people in 9 born from 1930 to 2009 have a minor grand trine among the ten planets, with each aspect allowed 8° when the Sun or Moon is involved and 6° otherwise. Add the Ascendant, the Midheaven, Chiron, Lilith or the nodes, or widen the orbs a little, and it would be more common still. It's one of the most ordinary figures a chart can hold.
 
 That changes how I read it. A pattern this common says little on its own; it earns attention when it repeats something the rest of the chart already says, the same planets or the same houses coming up again and again. Patterns emerge from repetition, and a minor grand trine is often one strand of a larger repetition rather than the thing itself.
 
 When it does stand out, I read it through its middle planet. The system I built for my readings describes the trine as flow that keeps each function itself, and the sextile as cooperation that has to be engaged before it becomes anything. In a minor grand trine, the two ends of the trine support each other easily, and the middle planet is offered a share of that ease by both, on the condition that it takes it up. With Mercury in the middle, the flow tends to become words and plans; with Mars, action; with Saturn, structure that lasts.
 
-The middle planet's house shows where that happens, and it needs the time of birth, like the houses of the other two. A figure with the Moon in it can come and go within a day. That's why I [don't read a chart without the birth time](/blog/unknown-birth-time/), common pattern or rare.
+The middle planet's house shows where that happens, and it needs the time of birth, like the houses of the other two. A figure with the Moon in it can come and go within a day. Common as the figure is, I [wait for the time](/blog/unknown-birth-time/) before reading it, because its working point lives in a house.
 
 ## What helps {#what-helps}
 

@@ -20,7 +20,7 @@ faq:
   - q: "What does a T-square mean in a birth chart?"
     a: "Two planets in opposition, both square a third. The pull between the first two runs into the third, the focal planet, which takes up the strain and turns it into effort. I read it as a strong engine for action, demanding and productive, never as a flaw in the chart."
   - q: "How common is a T-square?"
-    a: "Very common. In my count of charts born from 1930 to 2009, about 3 people in 10 have one among the ten planets, with orbs of 8° when the Sun or Moon is involved and 6° otherwise. Counting the angles, Chiron or the nodes as well would find even more."
+    a: "Very common: it turns up in about 3 charts in 10 for births from 1930 to 2009, in my count, among the ten planets alone. It takes only three planets, and every opposition in a chart gives it a chance; with the angles and Chiron added, the share would be higher still."
   - q: "What is the focal planet of a T-square?"
     a: "The planet square to both ends of the opposition, at the point of the T. It sits about 90° from each, so it takes pressure from both sides at once. Its function, sign and house show where the pattern’s energy gathers and what it most often does."
   - q: "What is the empty leg of a T-square?"
@@ -40,7 +40,7 @@ Signs three and six apart share a modality, so a T-square usually falls in three
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 3 people in 10 born from 1930 to 2009 have a T-square among the ten planets, in the count behind this site, with squares and oppositions counted within 8° when the Sun or Moon is involved and 6° otherwise. That's before adding the Ascendant, the Midheaven, Chiron, Lilith or the nodes. The horizon is itself an opposition, so a planet square to both the Ascendant and the Descendant makes a T-square with them, and the count can't see it. Change the orbs by a couple of degrees and the share changes a great deal.
+Three planets are all a T-square takes, which is why it's so common: about 3 people in 10 born from 1930 to 2009 have one among the ten planets in the count behind this site, squares and oppositions allowed 8° when the Sun or Moon is involved and 6° otherwise. That's before adding the Ascendant, the Midheaven, Chiron, Lilith or the nodes. The horizon is itself an opposition, so a planet square to both the Ascendant and the Descendant makes a T-square with them, and the count can't see it. Change the orbs by a couple of degrees and the share changes a great deal.
 
 I read a T-square as an engine. An opposition on its own can swing between its two ends for years; the focal planet turns that swing into effort in one direction. The system I built for my readings calls the square constructive friction, friction that develops rather than defeats, so the apex is where you work hardest and where much of your competence comes from. Its function says what kind of effort: an apex Mars acts and pushes, an apex Mercury plans and talks it through, an apex Moon feels all of it first. When Saturn or Chiron sits at the apex, I read it most slowly, because they're two of [the three that held](/blog/saturn-chiron-lilith/) far more often than the rest in my notebook, 75 to 90% of the time.
 

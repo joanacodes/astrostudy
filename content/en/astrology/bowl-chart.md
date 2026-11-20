@@ -20,7 +20,7 @@ faq:
   - q: "What is a bowl chart in astrology?"
     a: "A chart in which all ten planets sit within one half of the wheel, 180° or less, and the other half is empty. Marc Edmund Jones named it, with six other shapes. I read it as emphasis: much is held on one side, and the empty side shows what the chart keeps reaching towards."
   - q: "How common is a bowl chart?"
-    a: "In my count of charts born from 1930 to 2009, about 1 person in 9 has one, counting charts whose ten planets fit within 180° but not within 120°, the tighter bundle. Move that line by a few degrees and the share changes; the angles and Chiron weren’t counted."
+    a: "Using the rule of all ten planets within 180° but not within 120°, which is the tighter bundle, my count finds a bowl for about 1 person in 9 born from 1930 to 2009. Move that line by a few degrees and the share changes."
   - q: "Does it matter which half of the chart the bowl is in?"
     a: "Yes, and that depends on the birth time. Planets gathered above the horizon or below it, in the east or the west, are read differently, and only the time places the houses. That’s why I don’t read a bowl, or any chart, without it."
   - q: "What is the difference between a bowl and a bucket?"
@@ -40,11 +40,11 @@ Two planets mark the rim, the first and the last of the group. When the bowl is 
 
 ## In a birth chart {#in-a-birth-chart}
 
-In the count behind this site, about 1 person in 9 born from 1930 to 2009 has a bowl: all ten planets within 180°, but not within 120°. The line matters. A chart whose planets span 181° isn't a bowl by this rule, and a looser rule would find many more. The count also uses only the ten planets, without the Ascendant, the Midheaven, Chiron, Lilith or the nodes, any of which can sit in the empty half and change how the chart looks on the page. The slow planets do much of the shaping: Uranus, Neptune and Pluto move so little in a year that everyone born in the same stretch of years shares their spacing, and the faster planets then decide whether the rest gather on the same side.
+Take the rule the count behind this site uses, all ten planets within 180° but not within 120°, and about 1 person in 9 born from 1930 to 2009 has a bowl. The line matters. A chart whose planets span 181° isn't a bowl by this rule, and a looser rule would find many more. The count also uses only the ten planets, without the Ascendant, the Midheaven, Chiron, Lilith or the nodes, any of which can sit in the empty half and change how the chart looks on the page. The slow planets do much of the shaping: Uranus, Neptune and Pluto move so little in a year that everyone born in the same stretch of years shares their spacing, and the faster planets then decide whether the rest gather on the same side.
 
 Astrologers who use the shapes describe the bowl as a self-contained chart, organised around what it holds, often with a strong sense of purpose about what lies across the empty side. I read it more modestly, as emphasis. The full half shows where your attention tends to live. The empty half isn't missing from your life: it's where you go looking, the experience you seek out or meet in other people. And the shape matters when the planets, signs and houses inside it repeat the same theme; on its own, it never decides who you are.
 
-Where the bowl sits is the part that needs the time of birth. A bowl in houses 7 to 12 lies above the horizon, one in houses 1 to 6 below it; others fill the eastern or the western half of the chart ([hemisphere emphasis](/astrology/hemisphere-emphasis/)). The Moon can matter too: as the fastest planet, moving about a sign every two and a half days, it can be the one whose place decides whether all ten fit in half the circle. That's why I [don't read the shape without the birth time](/blog/unknown-birth-time/).
+Where the bowl sits is the part that needs the time of birth. A bowl in houses 7 to 12 lies above the horizon, one in houses 1 to 6 below it; others fill the eastern or the western half of the chart ([hemisphere emphasis](/astrology/hemisphere-emphasis/)). The Moon can matter too: as the fastest planet, moving about a sign every two and a half days, it can be the one whose place decides whether all ten fit in half the circle. Which way the bowl faces is something only [the birth time](/blog/unknown-birth-time/) can tell me, so I don't read it without one.
 
 ## What helps {#what-helps}
 

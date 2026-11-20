@@ -2,13 +2,13 @@
 title: "Saturne en transit en maison 4"
 slug: "transit-saturne-maison-4"
 h1: "Saturne en transit dans votre maison 4"
-description: "Saturne en transit en maison 4 : environ trois ans à réparer les fondations du foyer et des racines, dès votre Fond du Ciel. Sa durée, et vos dates par signe."
+description: "Saturne en transit en maison 4 : environ trois ans à réparer les fondations du foyer dès le Fond du Ciel, avec les dates par paires d’angles."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 16
 glyph: "♄"
-definition: "Saturne en transit en maison 4 décrit environ trois ans passés sous tout le reste : Saturne franchit votre Fond du Ciel puis traverse votre maison du foyer et des racines. Ce transit structure ce que votre thème contient déjà sur la famille et l’appartenance : des fondations vérifiées, des responsabilités à la maison, un foyer bâti pour durer."
+definition: "Saturne en transit en maison 4 décrit environ trois ans passés sous tout le reste : Saturne franchit votre Fond du Ciel puis traverse votre maison du foyer et des racines. Ce transit passe en revue ce que votre thème dit de la famille et de l’appartenance : des fondations vérifiées, des responsabilités à la maison, un foyer bâti pour durer."
 facts:
   - { k: "Corps", v: "Saturne ♄, la planète du temps et de la structure" }
   - { k: "Maison", v: "La maison 4 : le foyer, les racines et la famille (angulaire)" }

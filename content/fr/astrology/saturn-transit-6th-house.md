@@ -2,13 +2,13 @@
 title: "Saturne en transit en maison 6"
 slug: "transit-saturne-maison-6"
 h1: "Saturne en transit dans votre maison 6"
-description: "Saturne en transit en maison 6 : environ trois ans à reconstruire les routines et le travail quotidien, sans prévision de santé. Sa durée, et les dates."
+description: "Saturne en transit en maison 6 : environ trois ans à reconstruire routines et travail quotidien, sans rien dire de la santé, et des séjours jusqu’à 5 ans."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 18
 glyph: "♄"
-definition: "Saturne en transit en maison 6 fait entrer Saturne, pour un peu moins de trois ans en général, dans votre maison du travail quotidien, des habitudes et du soin. Ce transit structure ce que votre thème y contient déjà : des méthodes reconstruites, des limites posées, des habitudes faites pour durer. Il ne dit rien d’une maladie."
+definition: "Saturne en transit en maison 6 fait entrer Saturne, pour un peu moins de trois ans, dans votre maison du travail quotidien, des habitudes et du soin. Ce que votre thème dit du quotidien, Saturne le resserre et le répare : des méthodes revues, des limites posées, des routines faites pour durer. Ce transit ne dit rien d’une maladie."
 facts:
   - { k: "Corps", v: "Saturne ♄, la planète du temps et de la structure" }
   - { k: "Maison", v: "La maison 6 : le travail quotidien et les habitudes (cadente)" }

@@ -20,7 +20,7 @@ faq:
   - q: "What is a bucket chart?"
     a: "A chart in which nine planets gather within half the wheel and the tenth sits alone on the other side. The nine make the bucket; the lone planet is its handle. Marc Edmund Jones named the shape. I read the handle as a planet that draws much of the chart’s attention towards it."
   - q: "How common is a bucket chart?"
-    a: "Common. In my count of charts born from 1930 to 2009, about 1 person in 3 has nine planets within 180° and the tenth outside them. The rule is simple and catches a lot of charts; a stricter one would find fewer. The angles and Chiron weren’t part of it."
+    a: "Common. About a third of the people in my count, born from 1930 to 2009, have nine planets within 180° and the tenth outside them. The rule is simple and catches a lot of charts; a stricter one would find fewer."
   - q: "What does the handle planet of a bucket mean?"
     a: "It’s the planet on its own, facing the other nine across the chart. Astrologers who use the shape give it extra weight, as the point the whole chart leans on. I look at it closely, through its function, sign and house, but a single planet never decides a chart."
   - q: "Can a chart be a bucket and a locomotive at once?"
@@ -44,7 +44,7 @@ About 1 person in 3 born from 1930 to 2009 has a bucket in the count behind this
 
 Astrologers who use the shapes give the handle planet extra weight: the point the whole chart leans on, the function that pulls the group's energy towards one purpose. I give it a closer look, not the last word. The system I built for my readings holds that no single factor determines a chart's dominant theme, so I read the handle through its function, its sign and its house, and then see whether the rest of the chart repeats what it says. When Saturn is the handle, I take longer over it: Saturn was one of the three placements that held 75 to 90% of the time in [my notebook](/blog/i-tested-my-birth-chart/), for me and for the people I tested.
 
-The handle's house needs the time of birth, and so does the question of which half the bucket fills. The Moon complicates things in its own way. It can cross from the group to the empty side within a day or two, so on some birthdays the hour decides whether the Moon is the handle or part of the bucket. That's one reason I [read nothing without the birth time](/blog/unknown-birth-time/).
+The handle's house needs the time of birth, and so does the question of which half the bucket fills. The Moon complicates things in its own way. It can cross from the group to the empty side within a day or two, so on some birthdays the hour decides whether the Moon is the handle or part of the bucket. With the handle's house unknown there's no bucket to read, which is why I [ask for the birth time first](/blog/unknown-birth-time/).
 
 ## What helps {#what-helps}
 

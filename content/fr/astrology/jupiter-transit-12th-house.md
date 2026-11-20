@@ -2,13 +2,13 @@
 title: "Jupiter en transit en maison 12"
 slug: "transit-jupiter-maison-12"
 h1: "Jupiter en transit dans votre maison 12"
-description: "Jupiter en transit en maison 12 : un an environ de croissance discrète, de repos et de fins de chapitre, avant l’ascendant. Durée, et dates selon votre thème."
+description: "Jupiter en transit en maison 12 : un an environ de croissance discrète, de repos et de fins de chapitre dans la dernière maison avant l’ascendant."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 12
 glyph: "♃"
-definition: "Jupiter en transit en maison 12, c’est l’année tranquille qui précède l’arrivée de Jupiter sur votre ascendant, le temps de traverser la maison de la vie intérieure. Ce transit élargit ce que votre thème contient déjà sur la solitude, le repos et la compassion : du sens trouvé en privé, des chapitres refermés. Il ne prédit ni maladie ni enfermement."
+definition: "Jupiter en transit en maison 12, c’est l’année tranquille qui précède l’arrivée de Jupiter sur votre ascendant, le temps de traverser la maison de la vie intérieure. La solitude, le repos et la compassion, tels que votre thème les contient déjà, s’y élargissent : du sens trouvé en privé, des chapitres refermés. Ce transit ne prédit ni maladie ni enfermement."
 facts:
   - { k: "Corps", v: "Jupiter ♃, la planète de la croissance et du sens" }
   - { k: "Maison", v: "La maison 12 : la vie intérieure, loin des regards (cadente)" }

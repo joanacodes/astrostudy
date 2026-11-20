@@ -1,13 +1,13 @@
 ---
 title: "Jupiter transiting the 9th house"
 h1: "Jupiter transiting your 9th house"
-description: "Jupiter transiting the 9th house: about a year in its own house, when study, travel and belief widen without hardening into certainty. Length and dates."
+description: "Jupiter transiting the 9th house: about a year in its own house, when study, travel and belief widen without hardening, until it reaches your Midheaven."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 9
 glyph: "♃"
-definition: "Jupiter transiting the 9th house is Jupiter crossing the house it rules in the natural order, the far horizon of your chart, usually for a little over a year. It activates what your chart already holds about belief, study and travel, and widens it, asking for questions rather than certainty."
+definition: "Jupiter transiting the 9th house is Jupiter crossing the house it rules in the natural order, the far horizon of your chart, usually for a little over a year. It widens the beliefs, studies and journeys your chart already contains, and asks them for questions rather than certainty."
 facts:
   - { k: "Body", v: "Jupiter ♃, the planet of growth and meaning" }
   - { k: "House", v: "The 9th house: the far horizon, study and belief (cadent)" }

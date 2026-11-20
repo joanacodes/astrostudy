@@ -20,9 +20,9 @@ faq:
   - q: "What does a grand trine mean in a birth chart?"
     a: "Three planets in mutual trine, usually in one element, each supporting the other two. I read it as ease that circulates: three functions that cooperate without being asked. It’s a real resource. Its one weakness is that nothing in it forces the issue, so it can stay unused for years."
   - q: "How rare is a grand trine?"
-    a: "Not very. In my count of charts born from 1930 to 2009, about 1 person in 10 has one among the ten planets, with orbs of 8° when the Sun or Moon is involved and 6° otherwise. Wider orbs, or Chiron and the angles, would find more of them."
+    a: "Not very. Roughly one chart in ten has a grand trine among the ten planets, in my count of everyone born from 1930 to 2009, allowing 8° for aspects with the Sun or Moon and 6° for the rest. Count Chiron and the angles too, or widen the orbs, and you’d find more."
   - q: "Is a grand trine lucky?"
-    a: "Not in the way people hope. A trine describes flow between two functions, not luck, success or protection. A grand trine shows where things come easily to you; what you do with that ease is still yours to decide, and many people only notice it when something asks them to use it."
+    a: "Not in the sense people usually mean. A trine describes flow between two functions, not luck, success or protection. A grand trine shows where things come easily to you; what you do with that ease is still yours to decide, and many people only notice it when something asks them to use it."
   - q: "What is a fire, earth, air or water grand trine?"
     a: "It’s named after the element of its three signs. Fire circulates initiative and enthusiasm, earth practical skill, air ideas and connection, water feeling and empathy. Near the end of a sign, one corner can slip into another element, and the circuit then runs a little less smoothly."
 sources:
@@ -44,7 +44,7 @@ Among the ten planets, with each trine counted within 8° when the Sun or Moon i
 
 The system I built for my readings describes the trine as flow that keeps each function itself: the two planets help each other without merging into one. Three of them in a loop multiply that. I read a grand trine as a part of you that works without strain, often so smoothly that you don't count it as a gift. But ease isn't a promise that things will turn out well, and flow isn't the same as standing still. The planets decide what circulates: a triangle of the Moon, Venus and Neptune moves feeling around; one of Mercury, Saturn and Uranus, ideas and structure. When Saturn is a corner, I give the figure more time. Saturn was one of the three placements that held 75 to 90% of the time in [my notebook](/blog/i-tested-my-birth-chart/), and an easy Saturn is often the steadiness a person leans on without naming it.
 
-The houses of the three corners decide which parts of your life the circuit links, and they need the birth time. So does any triangle that runs through the Moon, which moves about a sign every two and a half days: a Moon corner found from the date alone may not survive the hour. An angle can complete a figure too, and only the time places the angles. That's one reason I [wait for the time before reading](/blog/unknown-birth-time/).
+The houses of the three corners decide which parts of your life the circuit links, and they need the birth time. So does any triangle that runs through the Moon, which moves about a sign every two and a half days: a Moon corner found from the date alone may not survive the hour. An angle can complete a figure too, and only the time places the angles. A triangle without its houses links three functions but no parts of your life, so I [wait for the time before reading one](/blog/unknown-birth-time/).
 
 ## What helps {#what-helps}
 

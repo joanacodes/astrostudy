@@ -1,13 +1,13 @@
 ---
 title: "Jupiter transiting the 2nd house"
 h1: "Jupiter transiting your 2nd house"
-description: "Jupiter transiting the 2nd house: about a year when self-worth and values grow, never a money forecast. How long it lasts, and which signs bring it when."
+description: "Jupiter transiting the 2nd house: about a year when self-worth and values grow, never a money forecast. The stay at London’s latitude, and the signs to 2038."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 2
 glyph: "♃"
-definition: "Jupiter transiting the 2nd house is the year or so when Jupiter in the sky crosses your house of resources and values. It doesn’t bring money. It activates what your chart already says about worth and security, and widens it: what you value, what you could build on, and what you would choose to keep."
+definition: "Jupiter transiting the 2nd house is the year or so when Jupiter in the sky crosses your house of resources and values. It doesn’t bring money. Nothing new arrives: the transit stirs what your chart already says about worth and security, so that what you value, what you could build on and what you’d keep come into focus."
 facts:
   - { k: "Body", v: "Jupiter ♃, the planet of growth and meaning" }
   - { k: "House", v: "The 2nd house: what you have and what you value (succedent)" }

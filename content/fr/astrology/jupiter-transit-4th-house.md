@@ -2,13 +2,13 @@
 title: "Jupiter en transit en maison 4"
 slug: "transit-jupiter-maison-4"
 h1: "Jupiter en transit dans votre maison 4"
-description: "Jupiter en transit en maison 4 : un an environ où foyer, famille et racines prennent plus de place. Sa durée, et vos dates selon votre Fond du Ciel."
+description: "Jupiter en transit en maison 4 : un an environ où foyer, famille et racines prennent plus de place, dès votre Fond du Ciel, lu selon son signe."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 4
 glyph: "♃"
-definition: "Jupiter en transit en maison 4, c’est l’année environ qui suit le passage de Jupiter sur votre Fond du Ciel, la cuspide tout en bas du thème. Ce transit active ce que votre thème contient déjà sur le foyer, la famille et les racines, et l’élargit : plus de place, dedans comme dehors, et un sentiment d’appartenance plus profond."
+definition: "Jupiter en transit en maison 4, c’est l’année environ qui suit le passage de Jupiter sur votre Fond du Ciel, la cuspide tout en bas du thème. L’histoire que votre thème raconte déjà du foyer, de la famille et des racines reçoit plus de place, dedans comme dehors, avec un sentiment d’appartenance plus profond."
 facts:
   - { k: "Corps", v: "Jupiter ♃, la planète de la croissance et du sens" }
   - { k: "Maison", v: "La maison 4 : le foyer, les racines et la famille (angulaire)" }

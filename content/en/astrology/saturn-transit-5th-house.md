@@ -1,13 +1,13 @@
 ---
 title: "Saturn transiting the 5th house"
 h1: "Saturn transiting your 5th house"
-description: "Saturn transiting the 5th house: about three years when play and creativity get structure, read with no forecast of children. How long, and your dates."
+description: "Saturn transiting the 5th house: about three years when play and creativity get structure, with no forecast of children, counted back from Leo."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 17
 glyph: "♄"
-definition: "Saturn transiting the 5th house is the meeting, a little under three years long, between the planet of discipline and your house of joy: creativity, play, pleasure and romance. It activates what your chart already holds there and gives it structure: practice, craft, and time you protect. It predicts no child and no break-up."
+definition: "Saturn transiting the 5th house is the meeting, a little under three years long, between the planet of discipline and your house of joy: creativity, play, pleasure and romance. The creativity your chart already holds is given form: practice, craft, and time you protect. It predicts no child and no break-up."
 facts:
   - { k: "Body", v: "Saturn ♄, the planet of time and structure" }
   - { k: "House", v: "The 5th house: joy, play and creativity (succedent)" }
@@ -32,11 +32,11 @@ Saturn's years in your 5th house bring the planet of discipline into the house o
 
 [Saturn](/astrology/saturn/) organises, limits and builds for the long run; the [5th house](/astrology/5th-house/) is creativity, self-expression, pleasure and romance, the part of life that doesn't have to justify itself. Under Saturn, joy gets taken seriously. A hobby can become a discipline, a talent can learn technique, and you may discover that pleasure needs protecting from duty as much as duty needs protecting from pleasure.
 
-Leo, the 5th's natural sign, is one of Saturn's signs of detriment in tradition: the planet of limits in the house of display. I read the friction as craft. Delight that learns its technique doesn't stop being delight; it starts to last.
+Tradition counted Leo, the 5th's natural sign, among the signs where Saturn is in detriment: limits meeting display. I read the friction as craft. Delight that learns its technique doesn't stop being delight; it starts to last.
 
 With your Venus in the 5th, in the house where tradition gave it its joy, Saturn's pass can turn a pleasure into a practice, or remind you to keep it free of obligation.
 
-Children belong to the 5th in the old books, and I don't read a transit for them, ever: whether and when anyone has a child is no chart's business to predict ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and this site doesn't read [children's charts](/astrology/childrens-charts/). In your 5th I read what you create and enjoy as an adult. Like any [transit](/astrology/transits/), this one brings out what your chart holds about joy and gives it a frame, nothing more.
+Children belong to the 5th in the old books, and I don't read a transit for them, ever: whether and when anyone has a child is no chart's business to predict ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and this site doesn't read [children's charts](/astrology/childrens-charts/). In your 5th I read what you create and enjoy as an adult. Any [transit](/astrology/transits/) works on what your chart already holds; this one gives your joy a frame, nothing more.
 
 ## How long it lasts {#how-long-it-lasts}
 

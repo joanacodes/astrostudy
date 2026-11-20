@@ -1,13 +1,13 @@
 ---
 title: "Saturn transiting the 2nd house"
 h1: "Saturn transiting your 2nd house"
-description: "Saturn transiting the 2nd house: about three years of budgets, values and slow security, with no forecast of money. Its length, and the signs that bring it."
+description: "Saturn transiting the 2nd house: about three years of budgets, values and slow security, with no money forecast, and Taurus coming in April 2028."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 14
 glyph: "♄"
-definition: "Saturn transiting the 2nd house is Saturn’s stay, just under three years as a rule, in your house of resources and values. It activates what your chart already holds about money, worth and security and gives it structure: budgets, limits, stewardship, and security built slowly enough to last. It predicts no money, either way."
+definition: "Saturn transiting the 2nd house is Saturn’s stay, just under three years as a rule, in your house of resources and values. It puts a frame round what your chart already says about money, worth and security: budgets, limits, stewardship, security built slowly enough to last. It predicts no money, either way."
 facts:
   - { k: "Body", v: "Saturn ♄, the planet of time and structure" }
   - { k: "House", v: "The 2nd house: what you have and what you value (succedent)" }
@@ -16,9 +16,9 @@ facts:
   - { k: "Needs", v: "Your birth time, which places the cusp of your 2nd" }
 related: ["/astrology/saturn", "/astrology/2nd-house", "/astrology/transits", "/astrology/saturn-in-2nd-house", "/astrology/can-astrology-pick-investments"]
 faq:
-  - q: "Does Saturn transiting the 2nd house mean money problems?"
+  - q: "Will money be tight while Saturn crosses my 2nd house?"
     a: "Not as a forecast. I don’t read money in a transit, coming or going. With Saturn in the 2nd I read a season of stewardship: budgets, limits, and security built slowly enough to last. The house describes how you handle resources, not what will happen to them."
-  - q: "What is Saturn in the 2nd house teaching?"
+  - q: "What lesson does Saturn bring to the 2nd house?"
     a: "Often the difference between what you earn and what you’re worth. Saturn tends to make you look at what you rely on, what you value enough to keep, and what you’ve been holding out of fear rather than need. The lesson is stewardship: looking after what you have without letting it define you."
   - q: "Is three years in the 2nd house usual for Saturn?"
     a: "Just under three years is the usual stay in Placidus charts drawn at London’s latitude, with most between about 22 months and just over 4 years; at New York’s the long end is just under 4. The width of your own 2nd, which your birth time sets, decides where yours falls."
@@ -36,7 +36,7 @@ That question is Saturn's sharpest gift here. One of its old habits is to confus
 
 With your Venus in the 2nd, the planet of what you enjoy and value, Saturn's pass tends to sort the pleasures you'd keep from the ones you only bought.
 
-None of this is a forecast about money. I don't read money in a chart, and a [transit](/astrology/transits/) can't say what you'll have ([can astrology pick investments?](/astrology/can-astrology-pick-investments/)). It brings out what your chart already holds about security and gives it a structure; the outcome is yours.
+None of this is a forecast about money. Money isn't something I read in a chart, and no [transit](/astrology/transits/) can tell you what you'll have ([can astrology pick investments?](/astrology/can-astrology-pick-investments/)). It brings out what your chart already holds about security and gives it a structure; the outcome is yours.
 
 ## How long it lasts {#how-long-it-lasts}
 

@@ -20,7 +20,7 @@ faq:
   - q: "What is a kite in astrology?"
     a: "A pattern of four planets: three in a grand trine, and a fourth opposite one of them, sextile the other two. Drawn on the chart it looks like a kite, with the opposition as its spine. I read it as an easy talent given a purpose: the opposition is what sets the triangle moving."
   - q: "How rare is a kite?"
-    a: "In my count of charts born from 1930 to 2009, about 1 person in 19 has one among the ten planets, with orbs of 8° when the Sun or Moon is involved and 6° otherwise. A kite needs a grand trine first, so it can never be more common than one."
+    a: "It needs a grand trine first, so it can never be more common than one. In my count of births from 1930 to 2009, about 1 person in 19 has a kite among the ten planets, with 8° allowed for the Sun and Moon and 6° for the others."
   - q: "What does the planet opposite the grand trine do?"
     a: "It faces one corner across the chart and sextiles the other two, so it’s linked to the whole triangle. I read it as the kite’s point of effort: the opposition brings awareness and some pull, the sextiles bring cooperation, and together they give the triangle’s ease somewhere to go."
   - q: "Is a kite better than a grand trine?"
@@ -39,7 +39,7 @@ Two patterns sit inside it. The original triangle is still there, and the fourth
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 1 person in 19 born from 1930 to 2009 has a kite among the ten planets, in the count behind this site, with every aspect counted within 8° when the Sun or Moon is involved and 6° otherwise. A degree or two of orb either way moves that figure a lot. The count also misses the kites that the Ascendant, the Midheaven, Chiron or the nodes complete: a grand trine with one corner on the Descendant has the Ascendant itself as its tail, and only the birth time shows it.
+Because a kite has to start from a grand trine, it's rarer than one: the count behind this site finds it in about 1 chart in 19 for births from 1930 to 2009, among the ten planets, every aspect allowed 8° when the Sun or Moon takes part and 6° otherwise. A degree or two of orb either way moves that figure a lot. The count also misses the kites that the Ascendant, the Midheaven, Chiron or the nodes complete: a grand trine with one corner on the Descendant has the Ascendant itself as its tail, and only the birth time shows it.
 
 The system I built for my readings describes the trine as flow that leaves each function itself, the sextile as cooperation that has to be taken up, and the opposition as polarity, two functions learning to see each other. I read a kite as ease given a purpose. The grand trine supplies a talent that runs on its own; the planet opposite one corner puts a question to it, and the two sextiles give it ways to answer. I think of the corner it faces as the head of the kite: the function the whole figure tends to pull towards. What the kite is for depends on the planets. With the Sun at the head, it often shows as a sense of direction; with Saturn at the tail, as talent asked to take on structure and responsibility.
 

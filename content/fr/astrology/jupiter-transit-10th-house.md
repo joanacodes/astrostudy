@@ -2,13 +2,13 @@
 title: "Jupiter en transit en maison 10"
 slug: "transit-jupiter-maison-10"
 h1: "Jupiter en transit dans votre maison 10"
-description: "Jupiter en transit en maison 10 : un an environ de croissance au travail et en public, dès votre Milieu du Ciel, sans promesse d’avancement. Durée et dates."
+description: "Jupiter en transit en maison 10 : un an environ de croissance au travail et en public dès votre Milieu du Ciel, sans promesse d’avancement."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 10
 glyph: "♃"
-definition: "Jupiter en transit en maison 10, c’est la saison, un peu plus d’un an, qui s’ouvre sur votre Milieu du Ciel, le point le plus haut du thème. Ce transit élargit ce que votre thème contient déjà sur le travail et la vie publique : plus de place, plus de visibilité, souvent plus de responsabilités, et une direction plus nette."
+definition: "Jupiter en transit en maison 10, c’est la saison, un peu plus d’un an, qui s’ouvre sur votre Milieu du Ciel, le point le plus haut du thème. Ce transit prend ce que votre thème dit du travail et de la vie publique et lui donne plus de place : de la visibilité, souvent plus de responsabilités, une direction plus nette."
 facts:
   - { k: "Corps", v: "Jupiter ♃, la planète de la croissance et du sens" }
   - { k: "Maison", v: "La maison 10 : le travail, le rôle et la réputation (angulaire)" }

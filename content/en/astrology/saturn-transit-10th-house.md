@@ -1,13 +1,13 @@
 ---
 title: "Saturn transiting the 10th house"
 h1: "Saturn transiting your 10th house"
-description: "Saturn transiting the 10th house: about three years of Saturn at home, in your work and public role, with no career forecast. How long, and your dates."
+description: "Saturn transiting the 10th house: about three years of Saturn at home, in your work and public role, with no career forecast, dated by your Midheaven."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 22
 glyph: "♄"
-definition: "Saturn transiting the 10th house is Saturn at home for about three years, crossing the house of its own sign from your Midheaven on: work, responsibility, reputation and the role you play in public. It activates what your chart already holds there and gives it structure, slowly, for the long run."
+definition: "Saturn transiting the 10th house is Saturn at home for about three years, crossing the house of its own sign from your Midheaven on: work, responsibility, reputation and the role you play in public. Slowly, and for the long run, it gives structure to the ambitions already written in your chart."
 facts:
   - { k: "Body", v: "Saturn ♄, the planet of time and structure" }
   - { k: "House", v: "The 10th house: work, role and reputation (angular)" }
@@ -16,7 +16,7 @@ facts:
   - { k: "Needs", v: "Your birth time, which places your Midheaven" }
 related: ["/astrology/saturn", "/astrology/10th-house", "/astrology/transits", "/astrology/midheaven", "/astrology/saturn-return"]
 faq:
-  - q: "Does Saturn in the 10th house mean career trouble?"
+  - q: "Will Saturn in my 10th house hold my career back?"
     a: "Not as a forecast. Saturn in the 10th is Saturn at home, in the house of its own sign, and I read it as responsibility at work and a clear look at what you’ve built. Whether a job changes depends on far more than the sky, and I don’t predict careers."
   - q: "Why is Saturn on the Midheaven a turning point?"
     a: "Because the Midheaven opens your 10th, the most public house, and Saturn there brings structure and responsibility into full view. It often feels like the moment work asks more of you and authority becomes something you carry. I read it as a milestone on a long climb, not as a verdict."

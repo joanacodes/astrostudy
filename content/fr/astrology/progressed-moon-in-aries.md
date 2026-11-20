@@ -19,7 +19,7 @@ faq:
   - q: "Que veut dire la Lune progressée en Bélier ?"
     a: "Que la Lune de votre thème progressé, celui qui avance d’un jour par année de vie, traverse le Bélier. Les astrologues lisent ces deux ans environ comme un chapitre où les besoins se tournent vers le commencement et l’action pour son propre compte. J’y lis une météo intérieure, jamais une liste d’événements."
   - q: "Combien de temps la Lune progressée reste-t-elle en Bélier ?"
-    a: "Entre deux ans et deux ans et demi, le plus souvent deux ans et quatre mois environ, pour les naissances que j’ai comptées de 1930 à 2009. La durée exacte dépend de la vitesse de la vraie Lune dans les jours qui ont suivi votre naissance : c’est pourquoi elle change d’une personne à l’autre."
+    a: "Entre deux ans et deux ans et demi, le plus souvent deux ans et quatre mois environ, pour les naissances que j’ai comptées de 1930 à 2009. Ouvrir un nouveau tour ne change pas l’allure : votre propre durée dépend de la vitesse de la vraie Lune dans les jours qui ont suivi votre naissance."
   - q: "La Lune progressée en Bélier, est-ce un nouveau départ ?"
     a: "En un sens, oui : le Bélier est le premier signe, et la Lune progressée y ouvre un nouveau tour du zodiaque, un tour d’environ 27 ans. Les astrologues y lisent un chapitre affectif neuf. Il décrit ce que vous ressentez et ce dont vous avez besoin, pas quelque chose qui doive arriver."
   - q: "Quelle maison traverse ma Lune progressée en Bélier ?"

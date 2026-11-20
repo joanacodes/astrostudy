@@ -18,7 +18,7 @@ faq:
   - q: "What does the progressed Moon in Aries mean?"
     a: "It means the Moon of your progressed chart, the one that moves a day for each year of life, is crossing Aries. Astrologers read those two years or so as a chapter in which needs turn towards starting things and acting on your own account. I read it as inner weather, never as a list of events."
   - q: "How long does the progressed Moon stay in Aries?"
-    a: "Between two and two and a half years, usually about two years and four months, in the births I counted from 1930 to 2009. The exact length is set by how fast the real Moon was moving in the days after you were born, which is why it differs from one person to the next."
+    a: "Between two and two and a half years, usually about two years and four months, in the births I counted from 1930 to 2009. Opening a new round doesn’t change the pace: your own length is set by how fast the real Moon was moving in the days after you were born."
   - q: "Is the progressed Moon in Aries a new beginning?"
     a: "In one sense, yes: Aries is the first sign, so the progressed Moon opens a new round of the zodiac there, a round of about 27 years. Astrologers read it as a fresh emotional chapter. It describes how you feel and what you need, not something that is bound to happen."
   - q: "Which house does my progressed Moon in Aries cross?"

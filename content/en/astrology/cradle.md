@@ -20,7 +20,7 @@ faq:
   - q: "What is a cradle in astrology?"
     a: "Four planets spread over half the chart: two in opposition at the ends, and two between them on one side, each about 60° from the next. Three sextiles run along the curve, two trines cross it and the opposition spans it. I read it as a tension supported from below, step by step."
   - q: "How common is a cradle?"
-    a: "In my count of charts born from 1930 to 2009, about 1 person in 10 has one among the ten planets, with orbs of 8° when the Sun or Moon is involved and 6° otherwise. That makes it about as common as a grand trine, before counting the angles or Chiron."
+    a: "About as common as a grand trine: roughly 1 chart in 10 for births from 1930 to 2009 holds a cradle among the ten planets, by my count. It’s built from an opposition and soft aspects, each common on its own, and the angles and Chiron weren’t included."
   - q: "What do the two middle planets of a cradle do?"
     a: "They link the two ends of the opposition by easy steps: each is sextile its neighbour and trine the far end. I read them as go-betweens, the functions that let you travel from one side of the tension to the other without a leap, and so the place to start when the opposition feels stuck."
   - q: "Is a cradle a comfortable pattern?"
@@ -39,13 +39,13 @@ Inside it, two smaller figures overlap. The first three planets make a [minor gr
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 1 person in 10 born from 1930 to 2009 has a cradle among the ten planets, in the count behind this site, counting every aspect within 8° when the Sun or Moon is involved and 6° otherwise: about as often as a grand trine. That leaves out the cradles an angle, Chiron, Lilith or a node completes. A cradle needs four planets spaced evenly, so a degree or two of orb either way changes the count a great deal.
+The cradle is about as common as the grand trine: roughly 1 person in 10 born from 1930 to 2009 has one among the ten planets, in the count behind this site, its sextiles, trines and opposition each allowed 8° when the Sun or Moon is in them and 6° otherwise. That leaves out the cradles an angle, Chiron, Lilith or a node completes. A cradle needs four planets spaced evenly, so a degree or two of orb either way changes the count a great deal.
 
 The system I built for my readings describes the opposition as polarity and integration, the sextile as cooperation that needs taking up, and the trine as flow. I read the cradle as a tension held from below. The opposition sets two functions face to face; the middle planets give you a way to travel between them in easy steps, so the tension can be visited from several sides instead of swung between two. That makes the two middle planets the most useful in the figure: go-betweens, the functions to reach for when the opposition feels stuck. A pattern is still read through the planets, signs and houses it joins, never on its shape alone.
 
 Its catch is its comfort. Support all round an opposition makes it easy to live with, and so easy never to settle: the cradle can rock for years without going anywhere. The other half of the circle, on the far side of the opposition, holds nothing of the figure, and I look there for what it doesn't supply.
 
-The opposition usually lies across two houses facing each other, and the middle planets in the houses between them: which ones depends on the time of birth. A cradle with the Moon in it can form or dissolve in a day. That's why I [wait for the birth time before reading](/blog/unknown-birth-time/) any of it.
+The opposition usually lies across two houses facing each other, and the middle planets in the houses between them: which ones depends on the time of birth. A cradle with the Moon in it can form or dissolve in a day. Where it rocks, and whether it's there at all, are both questions for [the birth time](/blog/unknown-birth-time/), and I wait for it before reading.
 
 ## What helps {#what-helps}
 

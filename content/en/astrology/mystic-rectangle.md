@@ -22,7 +22,7 @@ faq:
   - q: "Why is it called a mystic rectangle?"
     a: "I haven’t found the origin of the name in a source I could check, so I won’t guess at one. The geometry is plain: a rectangle of soft aspects around two oppositions. Nothing in it is more mysterious than the rest of a chart, and I read it the same way, planet by planet."
   - q: "How rare is a mystic rectangle?"
-    a: "In my count of charts born from 1930 to 2009, about 1 person in 28 has one among the ten planets, with orbs of 8° when the Sun or Moon is involved and 6° otherwise. The angles, Chiron and the nodes weren’t counted, and a wider orb would find more."
+    a: "Fairly rare: my count finds it for about 1 person in 28 born from 1930 to 2009, among the ten planets. All four planets must land at once in signs of one polarity; Chiron, the nodes and the angles could complete more rectangles, but weren’t counted."
   - q: "Which signs does a mystic rectangle fall in?"
     a: "Usually four signs of one polarity: two fire and two air, or two earth and two water. Every aspect in it joins signs an even number apart, two, four or six, and those always share a polarity. Near the end of a sign, one corner can slip across and break that neat pattern."
 sources:
@@ -41,7 +41,7 @@ The [kite](/astrology/kite/) has one opposition hung from a grand trine; the rec
 
 ## In a birth chart {#in-a-birth-chart}
 
-About 1 person in 28 born from 1930 to 2009 has a mystic rectangle among the ten planets, in the count behind this site, counting each aspect within 8° when the Sun or Moon is involved and 6° otherwise. Four planets have to land in just the right places, so the figure is sensitive to orbs: a little more leeway finds many loose rectangles, a little less keeps only the tight ones. The count can't see a rectangle completed by an angle, Chiron, Lilith or a node.
+Four planets have to land in exactly the right places at once, and the count behind this site finds that in about 1 chart in 28 for people born from 1930 to 2009, among the ten planets, with 8° allowed when the Sun or Moon takes part and 6° for the rest. That precision makes the figure sensitive to orbs: a little more leeway finds many loose rectangles, a little less keeps only the tight ones. The count can't see a rectangle completed by an angle, Chiron, Lilith or a node.
 
 The system I built for my readings describes the opposition as polarity, two functions made aware of each other so they can be integrated rather than fought; the trine as flow, and the sextile as an opening that has to be taken. I read a mystic rectangle as two tensions held in a frame. Each opposition pulls on its own, and the soft sides give each end an easy line to an end of the other. In a life, that can look like someone able to hold two big questions at once without coming apart. The frame has its own risk: support can keep the tension circulating instead of settling it, because the soft sides make it easy to slide from one pull to the other without ever answering either. A single figure doesn't decide the chart, though. I read its four planets in their signs first, and the rectangle as the way they talk.
 

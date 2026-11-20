@@ -2,13 +2,13 @@
 title: "Jupiter en transit en maison 6"
 slug: "transit-jupiter-maison-6"
 h1: "Jupiter en transit dans votre maison 6"
-description: "Jupiter en transit en maison 6 : un an environ où travail quotidien et habitudes grandissent, sans prévision de santé. Durée, et dates signe par signe."
+description: "Jupiter en transit en maison 6 : un an environ où travail quotidien et habitudes grandissent, sans prévision de santé, avec des séjours très variables."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 6
 glyph: "♃"
-definition: "Jupiter en transit en maison 6, c’est l’année environ que Jupiter passe à traverser votre maison du travail quotidien, des habitudes et du soin. Ce transit élargit ce que votre thème y contient déjà : plus à faire, de meilleures habitudes à portée de main, du sens trouvé dans les tâches ordinaires. Il ne prédit rien de votre santé."
+definition: "Jupiter en transit en maison 6, c’est l’année environ que Jupiter passe à traverser votre maison du travail quotidien, des habitudes et du soin. Sa matière, c’est la vie de travail que votre thème décrit déjà : plus à faire, de meilleures habitudes à portée de main, du sens dans les tâches ordinaires. Ce transit ne prédit rien de votre santé."
 facts:
   - { k: "Corps", v: "Jupiter ♃, la planète de la croissance et du sens" }
   - { k: "Maison", v: "La maison 6 : le travail quotidien et les habitudes (cadente)" }

@@ -1,13 +1,13 @@
 ---
 title: "Jupiter transiting the 8th house"
 h1: "Jupiter transiting your 8th house"
-description: "Jupiter transiting the 8th house: about a year of deeper trust and sharing, never a forecast of death or money. Its length, and the signs by element."
+description: "Jupiter transiting the 8th house: about a year of deeper trust and sharing, never a forecast of death or money, with Jupiter’s signs grouped by element."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 8
 glyph: "♃"
-definition: "Jupiter transiting the 8th house describes the year or so when Jupiter’s growth reaches what you share with other people: trust, intimacy, joint money and obligations. It activates what your chart already holds there and widens it, often towards depth and honesty. It foretells no inheritance and no death."
+definition: "Jupiter transiting the 8th house describes the year or so when Jupiter’s growth reaches what you share with other people: trust, intimacy, joint money and obligations. It works on what your chart already holds there, often pulling it towards depth and honesty. It foretells no inheritance and no death."
 facts:
   - { k: "Body", v: "Jupiter ♃, the planet of growth and meaning" }
   - { k: "House", v: "The 8th house: what you share and what you owe (succedent)" }
@@ -21,7 +21,7 @@ faq:
   - q: "What does Jupiter in the 8th house do to relationships?"
     a: "It tends to deepen them where trust is already growing: more openness, more willingness to share, sometimes the conversation about money or the future you’d put off. It decides nothing for the other person, and it doesn’t make every closeness right for you: that discernment stays yours."
   - q: "Does the 8th keep Jupiter longer than the 2nd?"
-    a: "Not in the middle. In Placidus charts drawn at London’s latitude, the 8th usually holds Jupiter about a year, most often from about 11 months to nearly 2 years, while the 2nd, the same size across the chart, runs a little over a year with a shorter long end. Your own stay depends on your birth time."
+    a: "Not in the middle. In Placidus charts drawn at London’s latitude, the 8th usually holds Jupiter about a year, most often from about 11 months to nearly 2 years, while the 2nd, the same size across the chart, runs a little over a year with a shorter long end. Where yours falls is a matter of your birth time."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Jupiter stays in a house, in Placidus charts at London and New York, and its signs from 2026" }
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }

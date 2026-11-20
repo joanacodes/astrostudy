@@ -1,13 +1,13 @@
 ---
 title: "Saturn transiting the 12th house"
 h1: "Saturn transiting your 12th house"
-description: "Saturn transiting the 12th house: about three years of review, rest and closure before it reaches your Ascendant, never a forecast of illness. Its dates."
+description: "Saturn transiting the 12th house: about three years of review, rest and closure before your Ascendant, in the house of Saturn’s joy, and no illness foretold."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 24
 glyph: "♄"
-definition: "Saturn transiting the 12th house is the review, usually a little under three years long, that comes before Saturn reaches your Ascendant: chapters closed, fears faced, solitude given a structure. It activates what your chart already holds about the inner life. Tradition said Saturn rejoices here; I read no confinement and no illness in it."
+definition: "Saturn transiting the 12th house is the review, usually a little under three years long, that comes before Saturn reaches your Ascendant: chapters closed, fears faced, solitude given a structure. Its work happens in the inner life your chart already holds. Tradition said Saturn rejoices here; I read no confinement and no illness in it."
 facts:
   - { k: "Body", v: "Saturn ♄, the planet of time and structure" }
   - { k: "House", v: "The 12th house: the inner life, out of sight (cadent)" }
@@ -16,10 +16,10 @@ facts:
   - { k: "Needs", v: "Your birth time, which sets where your 12th ends, at the Ascendant" }
 related: ["/astrology/saturn", "/astrology/12th-house", "/astrology/transits", "/astrology/astrology-and-mental-health", "/astrology/saturn-in-12th-house"]
 faq:
-  - q: "Is Saturn transiting the 12th house depressing?"
+  - q: "Can Saturn in the 12th house bring low moods?"
     a: "A transit can’t diagnose a mood, and I don’t read mental health in a chart. The 12th is the house of solitude and the inner life, and Saturn there can make these years feel quieter and more inward. If low feelings last or weigh on you, please talk to a doctor or a qualified therapist."
-  - q: "What does Saturn in the 12th house prepare me for?"
-    a: "Often for the new start that comes when Saturn reaches your Ascendant. These years tend to be about closing chapters, facing what you’ve avoided and resting more than usual, so that what you begin in the 1st house begins cleanly. I read it as a review, not a waiting room."
+  - q: "Is Saturn in the 12th a time of preparation?"
+    a: "Often, yes: for the new start that comes when Saturn reaches your Ascendant. These years tend to be about closing chapters, facing what you’ve avoided and resting more than usual, so that what you begin in the 1st house begins cleanly. I read it as a review, not a waiting room."
   - q: "Why is the 12th called Saturn’s joy?"
     a: "Because tradition said each planet rejoices in one house, and Saturn’s was the 12th, the house of retreat and solitude, which the old books called the Bad Spirit. The planet of limits was thought to be at ease where life goes quiet. During the transit I read that ease as solitude used well."
 sources:

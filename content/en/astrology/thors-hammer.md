@@ -20,7 +20,7 @@ faq:
   - q: "What is Thor’s hammer in astrology?"
     a: "A pattern of three planets: two in square, about 90° apart, and a third about 135° from both, a sesquiquadrate to each. The square’s friction gathers on that third planet. I read it as pressure that asks you to rebuild an arrangement around one function: demanding work rather than a punishment."
   - q: "How common is Thor’s hammer?"
-    a: "More common than its name suggests. In my count of charts born from 1930 to 2009, about 1 person in 11 has one among the ten planets, with the sesquiquadrates within 3° and the square within 8° when the Sun or Moon is involved, 6° otherwise."
+    a: "More common than its name suggests: in my count it turns up for about 1 person in 11 born from 1930 to 2009. Its two sesquiquadrates are held to 3° there; a degree more of leeway on them would make the figure noticeably more frequent."
   - q: "How is Thor’s hammer different from a T-square?"
     a: "Both gather tension on one planet. In a T-square, that planet is square two planets in opposition, so it meets the pressure head on. In Thor’s hammer, it sits 135° from two planets in square, an odder angle, and the work it asks for is less a push than a rebuild."
   - q: "Why is it called Thor’s hammer?"
@@ -42,11 +42,11 @@ Compare the [T-square](/astrology/t-square/), the familiar figure with one plane
 
 ## In a birth chart {#in-a-birth-chart}
 
-In the count behind this site, about 1 person in 11 born from 1930 to 2009 has Thor's hammer among the ten planets, with the sesquiquadrates held within 3° and the square within 8° when the Sun or Moon is involved, 6° otherwise. The tight orb on the sesquiquadrates matters: loosen it by a degree and the figure turns up far more often, tighten it and it thins out. The count also leaves out the angles, Chiron, Lilith and the nodes, any of which could stand at the apex.
+Its sesquiquadrates are held to 3° in the count behind this site, and even so Thor's hammer appears in about 1 chart in 11 for births from 1930 to 2009, among the ten planets, with the square allowed 8° when the Sun or Moon is in it and 6° otherwise. The tight orb on the sesquiquadrates matters: loosen it by a degree and the figure turns up far more often, tighten it and it thins out. The count also leaves out the angles, Chiron, Lilith and the nodes, any of which could stand at the apex.
 
 The system I built for my readings calls the square constructive friction and the sesquiquadrate compound tension that asks for restructuring: neither failure, punishment nor crisis. I read Thor's hammer as a square whose friction is passed on. The two planets in square push against each other, and the pressure they build lands on the third, which has to reorganise around it. The obvious fix rarely holds for long; changing the whole arrangement around the apex planet does. Its function says what gets rebuilt: an apex Venus reworks how you relate and what you value, an apex Mercury how you think and plan. I read its three planets in their own signs before the figure, since a single pattern never decides a chart.
 
-The houses of the three planets, and of the empty point opposite the apex, need the time of birth, and so does any hammer with the Moon in it: with only 3° allowed on the sesquiquadrates, a Moon apex can come and go within a day. That's one more reason I [don't read a chart without the birth time](/blog/unknown-birth-time/).
+The houses of the three planets, and of the empty point opposite the apex, need the time of birth, and so does any hammer with the Moon in it: with only 3° allowed on the sesquiquadrates, a Moon apex can come and go within a day. A hammer that may not exist at the hour of birth is one more reason I [wait for the time](/blog/unknown-birth-time/).
 
 ## What helps {#what-helps}
 

@@ -1,13 +1,13 @@
 ---
 title: "Saturn transiting the 1st house"
 h1: "Saturn transiting your 1st house"
-description: "Saturn transiting the 1st house: about three years of defining yourself, from the day it crosses your Ascendant. How long it lasts, and when it’s yours."
+description: "Saturn transiting the 1st house: about three years of defining yourself from your Ascendant on, with stays of up to five years at London’s latitude."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 13
 glyph: "♄"
-definition: "Saturn transiting the 1st house is the stretch, a little under three years as a rule, when Saturn in the sky crosses the house that begins at your Ascendant. It activates what your chart already holds about who you are and gives it shape: more definition, more seriousness, commitments made to yourself. It’s a timetable, not a wall."
+definition: "Saturn transiting the 1st house begins on the day Saturn reaches your Ascendant and lasts, as a rule, a little under three years. The self it shapes is the one your chart already describes: more definition, more seriousness, commitments made to yourself and kept. It’s a timetable, not a wall."
 facts:
   - { k: "Body", v: "Saturn ♄, the planet of time and structure" }
   - { k: "House", v: "The 1st house: the self you lead with (angular)" }

@@ -19,7 +19,7 @@ faq:
   - q: "Que veut dire la Lune progressée en Balance ?"
     a: "Que votre Lune progressée traverse la Balance, le signe de l’équilibre et du partenariat. Les astrologues lisent ces deux ans environ comme un chapitre où vos besoins se comblent par les autres : la compagnie, l’équité, la coopération et le sens de la mesure. J’y lis une météo intérieure, jamais un événement annoncé."
   - q: "Combien de temps la Lune progressée reste-t-elle en Balance ?"
-    a: "Deux ans à deux ans et demi, le plus souvent deux ans et quatre mois environ, pour toutes les naissances que j’ai comptées de 1930 à 2009. Votre propre durée vient de la vitesse de la vraie Lune dans les jours qui ont suivi votre naissance, un jour pour chaque année."
+    a: "Deux ans à deux ans et demi, le plus souvent deux ans et quatre mois environ, pour toutes les naissances que j’ai comptées de 1930 à 2009. Le signe de l’équilibre n’a pas une allure plus régulière qu’un autre : votre propre durée vient de la vitesse de la vraie Lune dans les jours qui ont suivi votre naissance."
   - q: "La Lune progressée en Balance annonce-t-elle une nouvelle relation ?"
     a: "Pas comme une prédiction : aucune progression ne décide qu’une relation commencera, s’approfondira ou finira, et je n’en lis jamais ainsi. Les astrologues lisent ce chapitre comme un temps où le partenariat et l’équité comptent davantage pour vous, ce qui peut colorer toutes les relations, de l’amour à l’amitié et au travail."
   - q: "Pourquoi relie-t-on la Lune progressée en Balance au chapitre Bélier ?"

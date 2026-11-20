@@ -2,13 +2,13 @@
 title: "Saturne en transit en maison 2"
 slug: "transit-saturne-maison-2"
 h1: "Saturne en transit dans votre maison 2"
-description: "Saturne en transit en maison 2 : environ trois ans de budgets, de valeurs et de sécurité lente, sans prédiction d’argent. Sa durée, et les signes qui l’amènent."
+description: "Saturne en transit en maison 2 : environ trois ans de budgets, de valeurs et de sécurité lente, sans prédiction d’argent, et le Taureau dès avril 2028."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 14
 glyph: "♄"
-definition: "Saturne en transit en maison 2, c’est le séjour de Saturne, un peu moins de trois ans en général, dans votre maison des ressources et des valeurs. Ce transit structure ce que votre thème contient déjà sur l’argent, la valeur et la sécurité : budgets, limites, intendance, une sécurité bâtie assez lentement pour durer. Il ne prédit aucun argent."
+definition: "Saturne en transit en maison 2, c’est le séjour de Saturne, un peu moins de trois ans en général, dans votre maison des ressources et des valeurs. Ce transit met un cadre autour de ce que votre thème dit déjà de l’argent, de la valeur et de la sécurité : budgets, limites, intendance, sécurité bâtie lentement. Il ne prédit aucun argent."
 facts:
   - { k: "Corps", v: "Saturne ♄, la planète du temps et de la structure" }
   - { k: "Maison", v: "La maison 2 : ce que vous avez et ce qui compte pour vous (succédente)" }

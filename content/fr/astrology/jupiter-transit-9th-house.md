@@ -2,13 +2,13 @@
 title: "Jupiter en transit en maison 9"
 slug: "transit-jupiter-maison-9"
 h1: "Jupiter en transit dans votre maison 9"
-description: "Jupiter en transit en maison 9 : un an environ dans sa propre maison ; études, voyages et convictions s’élargissent sans se figer. Durée et dates."
+description: "Jupiter en transit en maison 9 : un an environ dans sa propre maison ; études, voyages et convictions s’élargissent sans se figer, jusqu’au Milieu du Ciel."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 9
 glyph: "♃"
-definition: "Jupiter en transit en maison 9, c’est Jupiter qui traverse la maison qui lui revient dans l’ordre naturel, l’horizon lointain du thème, en général pendant un peu plus d’un an. Ce transit élargit ce que votre thème contient déjà sur les convictions, les études et les voyages, et demande des questions plutôt que des certitudes."
+definition: "Jupiter en transit en maison 9, c’est Jupiter qui traverse la maison qui lui revient dans l’ordre naturel, l’horizon lointain du thème, en général pendant un peu plus d’un an. Ce passage élargit les convictions, les études et les voyages que votre thème contient déjà, et leur demande des questions plutôt que des certitudes."
 facts:
   - { k: "Corps", v: "Jupiter ♃, la planète de la croissance et du sens" }
   - { k: "Maison", v: "La maison 9 : l’horizon lointain, les études et les convictions (cadente)" }

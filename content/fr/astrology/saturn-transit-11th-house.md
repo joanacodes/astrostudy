@@ -2,13 +2,13 @@
 title: "Saturne en transit en maison 11"
 slug: "transit-saturne-maison-11"
 h1: "Saturne en transit dans votre maison 11"
-description: "Saturne en transit en maison 11 : environ trois ans où amitiés, groupes et espoirs partagés sont triés et structurés. Sa durée, et vos dates signe par signe."
+description: "Saturne en transit en maison 11 : environ trois ans où amitiés, groupes et espoirs partagés sont triés et structurés, en vieux territoire de Saturne."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 23
 glyph: "♄"
-definition: "Saturne en transit en maison 11, c’est la saison, un peu moins de trois ans, où le tri de Saturne atteint vos amis, vos groupes et vos espoirs partagés. Ce transit structure ce que votre thème contient sur l’appartenance : des liens moins nombreux et plus vrais, des responsabilités dans un groupe, des projets qui changent les espoirs en étapes."
+definition: "Saturne en transit en maison 11, c’est la saison, un peu moins de trois ans, où le tri de Saturne atteint vos amis, vos groupes et vos espoirs partagés. L’appartenance est revue selon les termes de votre thème : des liens moins nombreux et plus vrais, des responsabilités dans un groupe, des projets qui changent les espoirs en étapes."
 facts:
   - { k: "Corps", v: "Saturne ♄, la planète du temps et de la structure" }
   - { k: "Maison", v: "La maison 11 : les amis, les groupes et les espoirs (succédente)" }

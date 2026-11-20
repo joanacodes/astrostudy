@@ -20,7 +20,7 @@ faq:
   - q: "What is a grand sextile in astrology?"
     a: "Six planets spaced about 60° apart all round the chart, so each is sextile its neighbours, trine the next ones along and opposite the planet across the wheel. Drawn out, it makes a six-pointed star: two grand trines laid over each other, held together by three oppositions."
   - q: "How rare is a grand sextile?"
-    a: "Very rare. In my count of charts born from 1930 to 2009, about 1 person in 7,305 has one among the ten planets, with orbs of 8° when the Sun or Moon is involved and 6° otherwise. It needs six of the ten planets placed evenly round the circle at once, slow ones included."
+    a: "Very rare: the rarest pattern in my count, found for about 1 person in 7,305 born from 1930 to 2009. It needs six of the ten planets placed evenly round the circle at the same moment, the slow ones included, which almost never happens."
   - q: "Does a grand sextile make a chart special?"
     a: "It makes it rare, which isn’t a rank. Rarity doesn’t make a chart better or a person chosen. I read it as I read any pattern: through its six planets, their signs and their houses, as one part of a chart that has four more planets and much else to say."
   - q: "Which signs does a grand sextile fall in?"

@@ -1,13 +1,13 @@
 ---
 title: "Jupiter transiting the 4th house"
 h1: "Jupiter transiting your 4th house"
-description: "Jupiter transiting the 4th house: a year or so when home, family and roots get more room. How long the stay lasts, and how your IC’s sign gives its dates."
+description: "Jupiter transiting the 4th house: a year or so when home, family and roots get more room, from the day Jupiter reaches your IC, read by the IC’s sign."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 4
 glyph: "♃"
-definition: "Jupiter transiting the 4th house is the year or so after Jupiter in the sky crosses your Imum Coeli, the cusp at the bottom of your chart. It activates what your chart already holds about home, family and roots, and widens it: more room, inside and out, and a deeper sense of where you belong."
+definition: "Jupiter transiting the 4th house is the year or so after Jupiter in the sky crosses your Imum Coeli, the cusp at the bottom of your chart. Your chart’s own story of home, family and roots is what it stirs, giving it more room, inside and out, and a deeper sense of where you belong."
 facts:
   - { k: "Body", v: "Jupiter ♃, the planet of growth and meaning" }
   - { k: "House", v: "The 4th house: home, roots and family (angular)" }

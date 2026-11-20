@@ -2,13 +2,13 @@
 title: "Jupiter en transit en maison 2"
 slug: "transit-jupiter-maison-2"
 h1: "Jupiter en transit dans votre maison 2"
-description: "Jupiter en transit en maison 2 : un an environ où l’estime de soi et les valeurs grandissent, sans prévision d’argent. Sa durée, et les signes qui l’amènent."
+description: "Jupiter en transit en maison 2 : un an environ où l’estime de soi et les valeurs grandissent, sans prévision d’argent. La durée, et les signes jusqu’en 2038."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 2
 glyph: "♃"
-definition: "Jupiter en transit en maison 2, c’est l’année environ où Jupiter traverse dans le ciel votre maison des ressources et des valeurs. Ce transit n’apporte pas d’argent. Il active ce que votre thème dit déjà de la valeur et de la sécurité, et l’élargit : ce qui compte pour vous, ce sur quoi vous pourriez bâtir, ce que vous garderiez."
+definition: "Jupiter en transit en maison 2, c’est l’année environ où Jupiter traverse votre maison des ressources et des valeurs. Ce transit n’apporte pas d’argent : il remue ce que votre thème dit déjà de la valeur et de la sécurité, et ce qui compte pour vous, ce sur quoi bâtir, ce que vous garderiez se précisent."
 facts:
   - { k: "Corps", v: "Jupiter ♃, la planète de la croissance et du sens" }
   - { k: "Maison", v: "La maison 2 : ce que vous avez et ce qui compte pour vous (succédente)" }

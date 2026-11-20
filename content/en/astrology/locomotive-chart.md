@@ -20,7 +20,7 @@ faq:
   - q: "What is a locomotive chart?"
     a: "A chart in which all ten planets fit within two-thirds of the wheel, leaving an empty third of about four signs. Marc Edmund Jones named the shape after a train, with the planets as carriages and one planet leading. I read the empty third as open track: a space the chart keeps moving into."
   - q: "How common is a locomotive chart?"
-    a: "It’s the most common shape in my count: about 2 people in 5 born from 1930 to 2009 have all ten planets within 240° but not within 180°. That’s a simple rule, and charts near its edges change shape with a few degrees; the angles and Chiron weren’t counted."
+    a: "More than any other shape in my count: about 2 people in 5 born from 1930 to 2009 have all ten planets within 240°, though not within 180°. A rule that simple has sharp edges, so charts close to them can change shape with a few degrees."
   - q: "What is the leading planet of a locomotive?"
     a: "The planet at the front of the group: the first one after the empty third, counting clockwise, the way the chart turns through a day. Astrologers who use the shape give it extra weight as the planet that pulls the rest. I read it closely, as one strong voice among ten."
   - q: "Does a locomotive chart mean a driven person?"
@@ -42,11 +42,11 @@ Gather the carriages into a third of the circle and the chart becomes a [bundle]
 
 ## In a birth chart {#in-a-birth-chart}
 
-The count behind this site found the locomotive in about 2 people in 5 born from 1930 to 2009: all ten planets within 240°, but not within 180°, which the count leaves to the bowl and the bundle. That's the commonest of the four shapes it checks. The rule is simple, and charts close to its edges switch shape with a few degrees of difference; the Ascendant, the Midheaven, Chiron, Lilith and the nodes weren't counted, and any of them may sit in the empty third.
+In the count behind this site the locomotive beats every other shape: about 2 people in 5 born from 1930 to 2009 have all ten planets within 240° but not within 180°, which the count leaves to the bowl and the bundle. The rule is simple, and charts close to its edges switch shape with a few degrees of difference; the Ascendant, the Midheaven, Chiron, Lilith and the nodes weren't counted, and any of them may sit in the empty third.
 
 Astrologers who use the shapes read a locomotive as drive: a chart that pushes towards what it lacks, with its leading planet setting the pace and much depending on it. I take the image, and keep it in proportion. The empty third is the direction the chart keeps moving into, the experience it goes looking for. The leading planet gets a closer look, through its function, sign and house, because it's where the train meets the open track. But one planet at the front doesn't decide a chart, and no shape fixes a character: a cluster or a spread describes emphasis, which the planets themselves have to confirm.
 
-Where the empty third falls needs the birth time: above or below the horizon, east or west ([hemisphere emphasis](/astrology/hemisphere-emphasis/)), and across which houses. The Moon matters too, since it may be the planet that leads the train or the one that closes it, and its place changes by about a sign every two and a half days. That's why I [read the shape only with the birth time](/blog/unknown-birth-time/).
+Where the empty third falls needs the birth time: above or below the horizon, east or west ([hemisphere emphasis](/astrology/hemisphere-emphasis/)), and across which houses. The Moon matters too, since it may be the planet that leads the train or the one that closes it, and its place changes by about a sign every two and a half days. Without the time I couldn't tell you which part of your life the train is heading into, so I [read it only with the birth time](/blog/unknown-birth-time/).
 
 ## What helps {#what-helps}
 

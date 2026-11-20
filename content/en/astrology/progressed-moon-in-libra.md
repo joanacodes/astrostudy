@@ -18,7 +18,7 @@ faq:
   - q: "What does the progressed Moon in Libra mean?"
     a: "It means your progressed Moon is crossing Libra, the sign of balance and partnership. Astrologers read these two years or so as a chapter in which your needs are met through others: company, fairness, cooperation and a sense of proportion. I read it as inner weather, never as an event foretold."
   - q: "How long does the progressed Moon stay in Libra?"
-    a: "Two to two and a half years, usually about two years and four months, in every birth I counted from 1930 to 2009. Your own length comes from how fast the real Moon was moving in the days after you were born, one day for each year."
+    a: "Two to two and a half years, usually about two years and four months, in every birth I counted from 1930 to 2009. The sign of balance keeps no more even a pace than any other: your own length comes from how fast the real Moon was moving in the days after you were born."
   - q: "Does the progressed Moon in Libra mean a new relationship?"
     a: "Not as a prediction: no progression decides that a relationship will begin, deepen or end, and I never read one that way. Astrologers read the chapter as a time when partnership and fairness matter more to you, which can colour every kind of relationship, from love to friendship to work."
   - q: "Why is the progressed Moon in Libra linked to the Aries chapter?"

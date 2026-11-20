@@ -1,13 +1,13 @@
 ---
 title: "Jupiter transiting the 1st house"
 h1: "Jupiter transiting your 1st house"
-description: "Jupiter transiting the 1st house: about a year of room to grow, from the day it crosses your Ascendant. How long it lasts, and when your rising sign gets it."
+description: "Jupiter transiting the 1st house: about a year of room to grow, from the day it crosses your Ascendant. Your rising sign tells you when it comes."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 1
 glyph: "♃"
-definition: "Jupiter transiting the 1st house is the stretch, usually about a year, when Jupiter in the sky crosses the house that begins at your Ascendant. It brings no luck of its own. It activates what your chart already says about who you are and widens it: room to try a larger version of yourself, in plain view."
+definition: "Jupiter transiting the 1st house is the stretch, usually about a year, when Jupiter in the sky crosses the house that begins at your Ascendant. It brings no luck of its own. What it stirs is what your chart already says about who you are, given room: a larger version of yourself, tried in plain view."
 facts:
   - { k: "Body", v: "Jupiter ♃, the planet of growth and meaning" }
   - { k: "House", v: "The 1st house: the self you lead with (angular)" }

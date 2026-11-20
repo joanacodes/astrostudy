@@ -2,13 +2,13 @@
 title: "Saturne en transit en maison 8"
 slug: "transit-saturne-maison-8"
 h1: "Saturne en transit dans votre maison 8"
-description: "Saturne en transit en maison 8 : environ trois ans pour faire le point sur la confiance, les dettes et l’argent commun, sans prédire de mort. Durée et dates."
+description: "Saturne en transit en maison 8 : environ trois ans pour faire le point sur la confiance, les dettes et l’argent commun, sans prédire mort ni perte."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 20
 glyph: "♄"
-definition: "Saturne en transit en maison 8, c’est l’inventaire que dresse Saturne, en général pendant un peu moins de trois ans, de ce que vous partagez avec d’autres et de ce que vous leur devez : l’argent commun, les obligations, la confiance et l’intimité. Ce transit structure ce que votre thème y contient déjà. Il n’annonce ni mort ni perte."
+definition: "Saturne en transit en maison 8, c’est l’inventaire que dresse Saturne, pendant un peu moins de trois ans, de ce que vous partagez avec d’autres et de ce que vous leur devez : l’argent commun, les obligations, la confiance, l’intimité. Ce que contient votre thème est compté et posé sur un sol plus ferme. Ce transit n’annonce ni mort ni perte."
 facts:
   - { k: "Corps", v: "Saturne ♄, la planète du temps et de la structure" }
   - { k: "Maison", v: "La maison 8 : ce que vous partagez et ce que vous devez (succédente)" }

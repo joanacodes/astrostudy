@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/bucket-chart", "/astrology/locomotive-chart", "/astrology/stellium", "/astrology/marc-edmund-jones", "/blog/unknown-birth-time"]
 faq:
   - q: "What is a bundle chart?"
-    a: "A chart in which all ten planets fit within 120°, about four signs, leaving two-thirds of the wheel empty. Marc Edmund Jones named it among his seven shapes. I read it as concentration: attention gathered in a few areas of life, with the empty part of the chart describing what comes to you from outside."
+    a: "A chart in which all ten planets fit within 120°, about four signs, leaving two-thirds of the wheel empty. It’s the tightest of the seven shapes Marc Edmund Jones named. I read it as concentration: attention gathered in a few areas of life, with the empty part of the chart describing what comes to you from outside."
   - q: "How rare is a bundle chart?"
     a: "It’s the rarest shape in my count: about 1 person in 56 born from 1930 to 2009 has all ten planets within 120°. It can only happen when the slowest planets stand close together, which depends on the years of birth, while the fast ones gather on the same side."
   - q: "Is a bundle chart a narrow life?"
@@ -40,11 +40,11 @@ A bundle needs the sky to cooperate. The slow planets have to stand within a thi
 
 ## In a birth chart {#in-a-birth-chart}
 
-The count behind this site found about 1 person in 56 born from 1930 to 2009 with a bundle, all ten planets within 120°: the rarest of the four shapes it checks. Shift that line by a few degrees either way and the share would move noticeably. The count also leaves out the Ascendant, the Midheaven, Chiron, Lilith and the nodes, which can fall in the empty space and give it a point of its own.
+Only about 1 person in 56 born from 1930 to 2009 has all ten planets within 120°, in the count behind this site, which makes the bundle the rarest of the four shapes it checks. Shift that line by a few degrees either way and the share would move noticeably. The count also leaves out the Ascendant, the Midheaven, Chiron, Lilith and the nodes, which can fall in the empty space and give it a point of its own.
 
 Astrologers who use the shapes read a bundle as concentration: someone who specialises, persists, goes deep into a few things. I'd say it more carefully. A bundle shows where attention gathers, and it tends to gather there for a long time, because every function in the chart is working within the same few signs and houses. The empty two-thirds aren't empty of life: they're where other people, places and experiences come in from outside, rather than where your own planets already stand. A cluster this tight still describes emphasis, not character, and I read its ten planets one by one before I read the bundle.
 
-A bundle of four signs can fill three houses or five, and which ones decides a great deal: the same bundle across the 10th and 11th houses, or across the 4th and 5th, describes two different lives. The houses need the time of birth, and so does the Moon, which may sit just inside the bundle or just outside it depending on the hour. That's why I [wait for the birth time](/blog/unknown-birth-time/) before reading any shape.
+A bundle of four signs can fill three houses or five, and which ones decides a great deal: the same bundle across the 10th and 11th houses, or across the 4th and 5th, describes two different lives. The houses need the time of birth, and so does the Moon, which may sit just inside the bundle or just outside it depending on the hour. A bundle without its houses says where in the zodiac your planets gather but not where in your life, so I [wait for the birth time](/blog/unknown-birth-time/) before reading it.
 
 ## What helps {#what-helps}
 

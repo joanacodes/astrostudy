@@ -1,13 +1,13 @@
 ---
 title: "Saturn transiting the 3rd house"
 h1: "Saturn transiting your 3rd house"
-description: "Saturn transiting the 3rd house: about three years when the everyday mind slows down to learn properly and say what it means. Length, and dates by year."
+description: "Saturn transiting the 3rd house: about three years when the everyday mind slows down to learn properly and say what it means, dated year by year."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 15
 glyph: "♄"
-definition: "Saturn transiting the 3rd house is the season, usually just under three years, when Saturn’s slow discipline reaches the everyday mind: how you think, talk, learn and get about. It activates what your chart already holds there and gives it structure: careful study, weighed words, and skills built to last."
+definition: "Saturn transiting the 3rd house is the season, usually just under three years, when Saturn’s slow discipline reaches the everyday mind: how you think, talk, learn and get about. What it structures is already in your chart: study made careful, words weighed, skills built to last."
 facts:
   - { k: "Body", v: "Saturn ♄, the planet of time and structure" }
   - { k: "House", v: "The 3rd house: the everyday mind and what’s close at hand (cadent)" }
@@ -18,10 +18,10 @@ related: ["/astrology/saturn", "/astrology/3rd-house", "/astrology/transits", "/
 faq:
   - q: "Does Saturn in the 3rd house make it hard to communicate?"
     a: "It tends to make you more careful with words rather than less able to use them: slower to speak, more precise, less willing to say what you don’t mean. Some conversations may feel heavier for a while. I read it as a mind learning to say what it means, not as a fault."
-  - q: "What should I study while Saturn is in my 3rd house?"
+  - q: "Which subjects suit Saturn in the 3rd house?"
     a: "Whatever you’ll need for years: a language learned properly, a skill practised every day, the basics you once skipped. Saturn here suits depth more than speed, so one subject studied well tends to serve you better than five sampled. How any course turns out depends on far more than a transit."
-  - q: "Does Saturn in the 3rd affect siblings?"
-    a: "The 3rd describes your experience of the people you grew up with, not their lives. With Saturn crossing it, those ties may ask for more responsibility, or for a more honest conversation. What happens to a brother or sister belongs to their own life, never to your transit."
+  - q: "Can Saturn in my 3rd house strain things with a sibling?"
+    a: "It can ask more of those ties: more responsibility, or a more honest conversation than usual. But the 3rd only describes your side of them, the way you live those bonds. What happens to a brother or sister belongs to their own life, never to your transit."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Saturn stays in a house, in Placidus charts at London and New York, and its signs from 2026" }
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
@@ -40,7 +40,7 @@ What a [transit](/astrology/transits/) like this does is bring out what your cha
 
 ## How long it lasts {#how-long-it-lasts}
 
-The 3rd holds Saturn for just under three years in most Placidus charts drawn at London's latitude, with the range a little shorter at the top than across all the houses: about 22 months to just under 4 years. New York's latitude gives nearly the same, from about 23 months to nearly 4.
+The 3rd holds Saturn for just under three years in most Placidus charts drawn at London's latitude, with the range a little shorter at the top than across all the houses: about 22 months to just under 4 years. For a New York birth it's much the same: about 23 months to nearly 4 years.
 
 The cusps that frame this stay need the birth time, and without one I don't read ([what changes without a birth time](/blog/unknown-birth-time/)). It follows Saturn's years in your 2nd, about what you have ([Saturn transiting the 2nd house](/astrology/saturn-transit-2nd-house/)), and ends at your Imum Coeli, where its years at home begin ([Saturn transiting the 4th house](/astrology/saturn-transit-4th-house/)).
 

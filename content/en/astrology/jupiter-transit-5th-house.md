@@ -1,13 +1,13 @@
 ---
 title: "Jupiter transiting the 5th house"
 h1: "Jupiter transiting your 5th house"
-description: "Jupiter transiting the 5th house: about a year of play, creativity and pleasure, read in an adult’s life. How long it lasts, and when it reaches you."
+description: "Jupiter transiting the 5th house: about a year of play, creativity and pleasure in an adult’s life, with Leo, the 5th’s own sign, in the sky from June 2026."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 5
 glyph: "♃"
-definition: "Jupiter transiting the 5th house is Jupiter’s passage, usually about a year, through the part of your chart given to joy: creativity, play, pleasure and romance. It activates what your chart already holds there and widens it, so that what you do for its own sake gets more room. It predicts no child and no love affair."
+definition: "Jupiter transiting the 5th house is Jupiter’s passage, usually about a year, through the part of your chart given to joy: creativity, play, pleasure and romance. It wakes the playfulness your chart already holds, so that what you do for its own sake gets more room. It predicts no child and no love affair."
 facts:
   - { k: "Body", v: "Jupiter ♃, the planet of growth and meaning" }
   - { k: "House", v: "The 5th house: joy, play and creativity (succedent)" }

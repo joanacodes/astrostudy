@@ -1,13 +1,13 @@
 ---
 title: "Saturn transiting the 4th house"
 h1: "Saturn transiting your 4th house"
-description: "Saturn transiting the 4th house: about three years of repairing foundations at home and in your roots, from your IC on. How long, and dates by IC sign."
+description: "Saturn transiting the 4th house: about three years of repairing foundations at home and in your roots from the IC on, read by Midheaven and IC pairs."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 16
 glyph: "♄"
-definition: "Saturn transiting the 4th house describes about three years spent underneath everything else: Saturn, moving through the sky, crosses your Imum Coeli and then your house of home and roots. It activates what your chart already holds about family and belonging and gives it structure: foundations checked, responsibilities at home, a home built to last."
+definition: "Saturn transiting the 4th house describes about three years spent underneath everything else: Saturn, moving through the sky, crosses your Imum Coeli and then your house of home and roots. It goes through what your chart says about family and belonging like a careful survey: foundations checked, responsibilities at home, a home built to last."
 facts:
   - { k: "Body", v: "Saturn ♄, the planet of time and structure" }
   - { k: "House", v: "The 4th house: home, roots and family (angular)" }
@@ -16,7 +16,7 @@ facts:
   - { k: "Needs", v: "Your birth time, which places your IC" }
 related: ["/astrology/saturn", "/astrology/4th-house", "/astrology/transits", "/astrology/imum-coeli", "/astrology/saturn-in-4th-house"]
 faq:
-  - q: "Does Saturn in the 4th house mean family problems?"
+  - q: "What does Saturn in my 4th house ask of family life?"
     a: "Not as a forecast. The 4th describes your experience of home and family, and with Saturn there I read responsibility and repair: foundations checked, roles at home renegotiated, the past looked at more honestly. What happens to the people in your family belongs to their lives, not to your transit."
   - q: "What does Saturn crossing my IC feel like?"
     a: "Often like a pause in public life while the ground underneath is checked. The IC is the cusp of your 4th and the point opposite your Midheaven, so Saturn there turns your attention to home, roots and private foundations. I read it as quiet, serious work rather than as an event."
