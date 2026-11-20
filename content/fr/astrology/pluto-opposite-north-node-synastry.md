@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/pluto", "/astrology/north-node", "/astrology/opposition", "/astrology/pluto-opposite-north-node", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Pluton opposition Nœud Nord en synastrie ?"
-    a: "Pluton, dans un thème, se trouve face au Nœud Nord dans un autre, donc juste sur le Nœud Sud de cette personne. La profondeur de la première rejoint souvent la seconde sur son terrain le plus familier, les forces et habitudes qu’elle connaît le mieux, pendant que sa nouvelle direction attend en face."
+    a: "Pluton, dans un thème, se trouve face au Nœud Nord dans un autre, donc juste sur le Nœud Sud de cette personne. La profondeur de la personne de Pluton retrouve souvent l’autre sur son terrain le plus familier, les forces et habitudes qu’elle connaît le mieux, pendant que sa nouvelle direction attend en face."
   - q: "D’où vient le sentiment de familiarité de Pluton opposition Nœud Nord ?"
     a: "Parce que Pluton se tient sur le Nœud Sud, la part du thème qui garde les capacités pratiquées depuis longtemps. La personne de Pluton comprend ces vieilles stratégies de l’intérieur, parfois mieux que la personne du nœud, ce qui donne le sentiment d’être connue tout de suite. Familier ne veut pourtant pas dire prédestiné."
   - q: "Est-ce que Pluton opposition Nœud Nord fait tourner deux personnes en rond ?"

@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 373
 glyph: "♇□☊"
-definition: "Pluto square North Node in synastry puts one chart’s Pluto at right angles to both of another chart’s nodes, within 3.4°. One person’s demand for deep change crosses the other’s path at both ends, the familiar ground and the new direction alike. I read it as friction that helps when offered gently and chafes when pressed."
+definition: "Pluto square North Node in synastry is one chart’s Pluto at right angles, within 3.4°, to both nodes of another chart. One person’s demand for deep change crosses the other’s path at both ends, the familiar ground and the new direction alike. I read it as friction that helps when offered gently and chafes when pressed."
 facts:
   - { k: "Bodies", v: "One person’s Pluto ♇, the other’s North Node ☊" }
   - { k: "Aspect", v: "Square □, 90°" }

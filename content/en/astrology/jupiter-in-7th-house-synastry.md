@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 67
 glyph: "♃"
-definition: "Their Jupiter in your 7th house sets the other person’s Jupiter in your house of partners and allies, the people you meet as equals. In synastry their generosity makes partnership a place to grow: they give in good faith and share their world, and they find in you an equal who answers them; it never predicts marriage."
+definition: "Their Jupiter in your 7th house means the other person’s Jupiter joins your partners and allies, the people you meet as equals. In synastry their generosity makes partnership a place to grow: they give in good faith and share their world, and they find in you an equal who answers them; it never predicts marriage."
 facts:
   - { k: "Their body", v: "Their Jupiter ♃" }
   - { k: "Your house", v: "The 7th house: partners, allies, equals" }
@@ -17,11 +17,11 @@ facts:
 related: ["/astrology/jupiter", "/astrology/7th-house", "/astrology/house-overlays", "/astrology/descendant", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Does their Jupiter in my 7th house mean we’re meant to be together?"
-    a: "No overlay can say that. Their generosity lands in your house of partnership, so being one to one with them can feel open-handed and full of possibility, in love or in work. Whether a relationship grows depends on the two of you, not on where a planet falls."
+    a: "No overlay can say that. Their generosity lands in your house of partnership, so being one to one with them can feel open-handed and full of possibility, in love or in work. Whether a relationship grows is up to the two of you; where a planet falls can't decide it."
   - q: "Is their Jupiter in my 7th house good for a business partnership?"
     a: "It often brings good faith and generosity to agreements: shared opportunities, a wish to build something larger together. The risk is enthusiasm outrunning the detail. Writing down the terms, and checking them once the excitement has settled, keeps a generous partnership fair."
   - q: "What does the Jupiter person feel facing me?"
-    a: "Often that they’ve found a partner who lets them grow: facing you, their generosity and their ideas are answered by an equal. They can also feel their giving goes unreturned, or feel tied to promises made in a hopeful moment. Saying what you value in what they bring keeps the exchange balanced."
+    a: "Often that they’ve found a partner who lets them grow: facing you, their generosity and their ideas are answered by an equal. Some also feel their giving isn't matched, or feel tied to promises made in a hopeful moment. Saying what you value in what they bring keeps the exchange balanced."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the 7th, the angle of partners" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Libra, a sign of Venus" }
@@ -34,7 +34,7 @@ Their Jupiter in your 7th house brings another person's generosity to the place 
 
 With them, partnership can feel generous. They trust you from the start, share opportunities, bring you into their world and take an interest in yours. Agreements, from a shared lease to a joint project, may come more easily, because good faith is where you both begin.
 
-For them, facing you is a chance to grow. Across from you, their generosity and their beliefs are answered by someone on an equal footing, and that can be rare. Angular, the 7th shows what it holds in the partners you choose and how you treat them; [Libra](/astrology/libra/), sign of balance and fair exchange, is its natural sign. If their Jupiter sits on your [Descendant](/astrology/descendant/), the western point of your chart, it makes a conjunction with the angle through which you meet any counterpart, and that contact counts in the reading.
+For them, facing you is a chance to grow. Across from you, their generosity and their beliefs are answered by someone on an equal footing, and that can be rare. Their own sense of what matters tends to grow through the bond as well. Angular, the 7th shows what it holds in the partners you choose and how you treat them; [Libra](/astrology/libra/), sign of balance and fair exchange, is its natural sign. Right on your [Descendant](/astrology/descendant/), the western point of your chart, their Jupiter makes a conjunction with the angle through which you meet any counterpart, and that contact counts in the reading.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -46,7 +46,7 @@ An overlay in the 7th never says whether two people will marry, stay together or
 
 ## How to meet it {#how-to-meet-it}
 
-Keep the good faith, and write down the terms. Generosity between equals lasts longer when both know what was agreed. In a couple, check that giving flows both ways; between business partners, a contract read slowly is a gift to the friendship; between friends, a shared plan works best when someone owns the details; between rivals, generosity can turn a contest into a respectful one.
+Keep the good faith, and write down the terms. Generosity between equals lasts longer when both know what was agreed, and when each of you can say what you need without seeming ungrateful. In a couple, check that giving flows both ways; between business partners, a contract read slowly is a gift to the friendship; between friends, a shared plan works best when someone owns the details; between rivals, generosity can turn a contest into a respectful one.
 
 From where they stand, it's your Jupiter in their 7th house, and your generosity that faces them. [Their Jupiter in your 6th house](/astrology/jupiter-in-6th-house-synastry/) helps your working days; [their Jupiter in your 8th house](/astrology/jupiter-in-8th-house-synastry/) widens trust and what you share.
 

@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 373
 glyph: "♇□☊"
-definition: "Pluton carré Nœud Nord en synastrie met Pluton, dans un thème, à angle droit des deux nœuds d’un autre, à 3,4° près. L’exigence de changement profond de l’une croise le chemin de l’autre aux deux bouts, terrain familier et direction nouvelle. J’y lis une friction qui aide si on l’offre, et qui irrite si on l’impose."
+definition: "Pluton carré Nœud Nord en synastrie dresse Pluton, chez une personne, perpendiculairement à l’axe des nœuds de l’autre, à 3,4° près. L’exigence de changement profond de l’une croise le chemin de l’autre aux deux bouts, terrain familier et direction nouvelle. J’y lis une friction qui aide si on l’offre, et qui irrite si on l’impose."
 facts:
   - { k: "Corps", v: "Pluton ♇ de l’une, le Nœud Nord ☊ de l’autre" }
   - { k: "Aspect", v: "Carré □, 90°" }
@@ -54,7 +54,7 @@ Pour comparer, les quatre autres :
 
 Demandez avant d’insister. Si Pluton est de votre côté, formulez votre défi en question, « est-ce que ce chemin doit d’abord changer quelque chose ? », et acceptez la réponse. Avec le Nœud Nord de votre côté, dites ce que vous voulez bien examiner et ce que vous préférez garder tel quel. Des collègues peuvent s’appuyer sur ce carré pour mettre un projet à l’épreuve ; un couple, pour faire à fond un grand changement ; des amis nés à quelques mois d’écart, pour rester honnêtes l’un envers l’autre.
 
-Des contemporains peuvent l’avoir dans les deux sens. Deux thèmes de 1965 suffisent : celui du milieu de l’année, Pluton en Vierge, et n’importe lequel de mars à août, nœuds sur l’axe Gémeaux-Sagittaire, ont chacun Pluton au carré des nœuds de l’autre. Plus loin, Pluton de 1965 est au carré des nœuds de toute personne née entre novembre 1955 et mars 1956, et toute naissance de juillet 1963 à octobre 1965 a Pluton au carré des nœuds de 1965. Tant de naissances le portent qu’il ne compte jamais comme contact de synastrie pour moi, ceux que je compte passant par le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel ; dans les maisons, il montre la profondeur d’une génération coupant la route d’une autre.
+Des contemporains peuvent l’avoir dans les deux sens. Deux thèmes de 1965 suffisent : celui du milieu de l’année, Pluton en Vierge, et n’importe lequel de mars à août, nœuds sur l’axe Gémeaux-Sagittaire, ont chacun Pluton au carré des nœuds de l’autre. Plus loin, Pluton de 1965 forme le même angle avec les nœuds des naissances de novembre 1955 à mars 1956, et toute naissance de juillet 1963 à octobre 1965 a Pluton au carré des nœuds de 1965. Tant de naissances le portent qu’il ne compte jamais comme contact de synastrie pour moi, ceux que je compte passant par le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel ; dans les maisons, il montre la profondeur d’une génération coupant la route d’une autre.
 
 L’heure de naissance ne crée ni n’efface ce carré ; ses maisons demandent les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Ces fenêtres suivent le nœud vrai ; je regarde les deux, et le nœud moyen peut en déplacer les bords de quelques semaines ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)).
 

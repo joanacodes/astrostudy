@@ -57,4 +57,4 @@ The dates are close. A chart from mid-1985, with Pluto early in Scorpio, puts it
 
 The hour decides nothing here; the houses do, and they need both birth times ([what changes without a birth time](/blog/unknown-birth-time/)). I keep the mean node in view beside the true one, which these months follow ([mean node and true node](/astrology/mean-node-and-true-node/)).
 
-[Pluto opposite North Node](/astrology/pluto-opposite-north-node/), in a single chart, makes deep renewal a person's own old skill. Here the old skill belongs to someone else, which is why I need a yes from each of them first ([synastry and consent](/blog/synastry-behind-their-back/)).
+[Pluto opposite North Node](/astrology/pluto-opposite-north-node/), in a single chart, makes deep renewal a person's own old skill. Here the old skill belongs to someone else, so I need a yes from each of them first ([synastry and consent](/blog/synastry-behind-their-back/)).

@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 371
 glyph: "♇☌☊"
-definition: "Pluto conjunct North Node in synastry puts one person’s Pluto and the other’s North Node no more than 4° apart, which sets that Pluto opposite their South Node. One person’s urge to renew at depth lands where the other is starting to practise, and the two rarely feel that pressure alike. I read it in both charts’ houses."
+definition: "Pluto conjunct North Node in synastry is the meeting, within 4°, of one person’s Pluto with the other’s North Node, which sets that Pluto opposite their South Node. One person’s urge to renew at depth lands where the other is starting to practise, and the two rarely feel that pressure alike. I read it in both charts’ houses."
 facts:
   - { k: "Bodies", v: "One person’s Pluto ♇, the other’s North Node ☊" }
   - { k: "Aspect", v: "Conjunction ☌, 0°" }

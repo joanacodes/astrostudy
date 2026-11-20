@@ -35,7 +35,7 @@ Quand Jupiter quitte votre maison 1 pour votre maison 2, la croissance se détou
 
 Les planètes de votre naissance en maison 2 sont les premières que Jupiter y rencontre, et chaque rencontre élargit pour quelques semaines la façon dont cette planète accorde de la valeur aux choses : avec votre Lune en maison 2, ce qui vous donne un sentiment de sécurité ; avec Mars à cet endroit, ce pour quoi vous acceptez de travailler.
 
-C’est aussi le séjour où la réputation de Jupiter brouille les pistes. On espère que ce transit apportera de l’argent, et certains livres le promettent. Je ne lis pas l’argent dans un thème, ni celui qui vient ni celui qui part, et aucun [transit](/astrology/transits/) ne peut dire ce que vous gagnerez (voir [L’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)). Il fait ressortir ce que votre thème contient déjà sur la sécurité et la valeur. Ce qui grandit, c’est votre rapport aux ressources, jamais un chiffre sur un relevé.
+C’est aussi le séjour où la réputation de Jupiter brouille les pistes. On espère que ce transit apportera de l’argent, et certains livres le promettent. Je ne lis pas l’argent dans un thème, ni celui qui vient ni celui qui part, et aucun [transit](/astrology/transits/) ne peut dire ce que vous gagnerez (voir [L’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)). Ce transit fait ressortir ce que votre thème contient déjà sur la sécurité et la valeur. Ce qui grandit, c’est votre rapport aux ressources, jamais un chiffre sur un relevé.
 
 ## Combien de temps {#combien-de-temps}
 

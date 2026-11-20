@@ -1,13 +1,13 @@
 ---
 title: "Pluto trine North Node in synastry"
 h1: "Pluto trine North Node between two charts"
-description: "Pluto trine North Node in synastry: one person’s depth puts wind in the sails of the other’s growth, keeping old strengths in reach. Each side, and who has it."
+description: "Pluto trine North Node in synastry: one person’s depth puts wind in the sails of the other’s growth, old strengths kept near. What each feels, and the dates."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 374
 glyph: "♇△☊"
-definition: "Pluto trine North Node in synastry links one person’s Pluto by a trine, within 3.4°, to the other’s North Node, and by a sextile to their South Node. One person’s capacity for renewal carries the other’s growth along, while old strengths stay within reach. I read it as support; the walking stays the other’s."
+definition: "Pluto trine North Node in synastry ties one person’s Pluto by a trine, within 3.4°, to the other’s North Node, and by a sextile to the South Node opposite. One person’s capacity for renewal carries the other’s growth along, while old strengths stay within reach. I read it as support; the walking stays the other’s."
 facts:
   - { k: "Bodies", v: "One person’s Pluto ♇, the other’s North Node ☊" }
   - { k: "Aspect", v: "Trine △, 120°" }

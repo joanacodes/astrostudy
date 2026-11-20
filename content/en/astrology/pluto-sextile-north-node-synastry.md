@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 372
 glyph: "♇⚹☊"
-definition: "Pluto sextile North Node in synastry is a 60° angle, within 2.4°, from one person’s Pluto to the other’s North Node, which puts that Pluto 120° from their South Node. The renewal one carries gives the other a route forward that keeps faith with old strengths. I read it as a quiet opportunity, real once taken."
+definition: "Pluto sextile North Node in synastry is one person’s Pluto sitting a sextile from the other’s North Node, inside 2.4°, and so a trine from their South Node. The renewal one carries gives the other a route forward that keeps faith with old strengths. I read it as a quiet opportunity, real once taken."
 facts:
   - { k: "Bodies", v: "One person’s Pluto ♇, the other’s North Node ☊" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
