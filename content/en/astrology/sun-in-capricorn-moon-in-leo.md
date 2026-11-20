@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 113
 glyph: "☉♑☽♌"
-definition: "Sun in Capricorn, Moon in Leo joins cardinal earth and fixed fire by a quincunx, at a birth in the days just after a full moon. The Sun rules the Moon’s sign, and Saturn, the Sun’s ruler, has its detriment in Leo. I read it as a dutiful self with a warm light inside, learning to let it be seen."
+definition: "Sun in Capricorn, Moon in Leo joins cardinal earth and fixed fire by a quincunx, at a birth within five days after a full moon. The Sun rules the Moon’s sign, and Saturn, the Sun’s ruler, has its detriment in Leo. I read it as a dutiful self with a warm light inside, learning to let it be seen."
 facts:
   - { k: "Sun sign", v: "Capricorn ♑, ruled by Saturn" }
   - { k: "Moon sign", v: "Leo ♌, ruled by the Sun; Saturn’s detriment" }
@@ -28,15 +28,15 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and how far the Moon had moved past the full" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the full moon and the waning days after it" }
 ---
-Leo belongs to the Sun, so your Moon answers to your Sun, and your Sun is in Capricorn, a sign that earns before it shines. You were born just after a full moon, with the Moon rising soon after dark. I read the pair as a dutiful self with a warm light inside, learning to let it be seen.
+The Sun rules Leo, which means your Moon answers to your Sun, and your Sun is in Capricorn, a sign that earns before it shines. You were born just after a full moon, with the Moon rising soon after dark. I read the pair as a dutiful self with a warm light inside, learning to let it be seen.
 
 ## How they get along {#how-they-get-along}
 
-Leo is seven signs on from Capricorn, five counting back: a [quincunx](/astrology/quincunx/) by sign, cardinal earth for the Sun and fixed fire for the Moon, with nothing shared and constant adjustment asked. The [Sun in Capricorn](/astrology/sun-in-capricorn/) organises itself around responsibility and work that lasts; the [Moon in Leo](/astrology/moon-in-leo/) comes back to itself through play and pride in what it makes: the garden shown to visitors, the song learned for the party, the work that carries your name. The Sun says *later, when it's done*; the Moon says *now, while it's lovely*.
+Leo is seven signs on from Capricorn, or five the other way round: a [quincunx](/astrology/quincunx/) by sign, cardinal earth for the Sun and fixed fire for the Moon, with nothing shared and constant adjustment asked. The [Sun in Capricorn](/astrology/sun-in-capricorn/) organises itself around responsibility and work that lasts; the [Moon in Leo](/astrology/moon-in-leo/) comes back to itself through play and pride in what it makes: the garden shown to visitors, the song learned for the party, the work that carries your name. The Sun says *later, when it's done*; the Moon says *now, while it's lovely*.
 
 The rulers make this pair particular. The [Sun](/astrology/sun/) itself rules Leo, so your Moon answers to your Sun: what lights your feelings depends on what your sense of purpose is building. [Saturn](/astrology/saturn/), ruler of your Sun's sign, has its [detriment](/astrology/detriment/) in Leo by the traditional scheme, which gave it Aquarius too, so the planet of duty is least at home where your needs want to play. The lights carry no dignity in these signs. I read Saturn's sign and house as the shape of the work, and the Sun's house as the stage where this Moon hopes to be seen.
 
-You arrived just after a full moon. The Moon had passed the opposition and stood 181° to 239° from the Sun, fifteen to nineteen and a half days into the month, round or nearly so. Almost nine births in ten fall in the [full moon](/astrology/full-moon/) phase, the rest early in the [waning gibbous (disseminating) moon](/astrology/waning-gibbous-disseminating-moon/), and near 210° the quincunx by sign is exact, waning. I read a birth just past the full as a light that has been seen and now wants to give back; [your birth lunar phase](/astrology/your-birth-lunar-phase/) explains the turn.
+You arrived just after a full moon: the Moon was already past the opposition, 181° to 239° from the Sun, fifteen to nineteen and a half days into the month, round or nearly so. The [full moon](/astrology/full-moon/) phase takes almost nine of these births in ten, the rest early in the [waning gibbous (disseminating) moon](/astrology/waning-gibbous-disseminating-moon/), and near 210° the quincunx by sign is exact, waning. To me a birth just after the full is a light that has been seen and now wants to give back; [your birth lunar phase](/astrology/your-birth-lunar-phase/) explains the turn.
 
 About 1 person in 150 is born with this pair. If the Moon left Cancer or reached Virgo that day, the birth time is the only way to tell this page from the [Sun in Capricorn, Moon in Cancer](/astrology/sun-in-capricorn-moon-in-cancer/) and the [Sun in Capricorn, Moon in Virgo](/astrology/sun-in-capricorn-moon-in-virgo/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). The rising sign needs it too, and so do the houses where the Sun works and the Moon wants to shine.
 

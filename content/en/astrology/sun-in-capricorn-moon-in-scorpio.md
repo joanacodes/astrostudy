@@ -20,7 +20,7 @@ faq:
   - q: "Is a Capricorn Sun with a Scorpio Moon intense?"
     a: "Quietly, yes. The Capricorn Sun is steady and private about its ambitions; the Scorpio Moon feels deeply and trusts slowly. Earth and water in a sextile by sign cooperate: the Sun gives the Moon’s depth a structure, the Moon gives the Sun’s work a reason. The care to take is letting someone in before a crisis does."
   - q: "Which rulers matter for a Capricorn Sun and a Scorpio Moon?"
-    a: "Saturn for your Sun, and for your Moon both of Scorpio’s rulers, Pluto in modern astrology and Mars in the older books: I read both. Mars has its exaltation in Capricorn, so the Moon’s traditional ruler is honoured in your Sun’s sign. Where Saturn, Pluto and Mars fall by house shows where this pair digs in."
+    a: "Saturn for your Sun, and for your Moon both of Scorpio’s rulers, Pluto for modern astrologers and Mars in the older books: I read both. Mars has its exaltation in Capricorn, so the Moon’s traditional ruler is honoured in your Sun’s sign. Where Saturn, Pluto and Mars fall by house shows where this pair digs in."
   - q: "Which week of the lunar month is a Sun in Capricorn, Moon in Scorpio birth in?"
     a: "The last, just after the last quarter. The Moon was 271° to 329° ahead of the Sun, twenty-two to twenty-seven days after the new moon. The last quarter phase of the eight takes most of these births, about seven in eight, and near 300° the lights form a waning sextile."
 sources:

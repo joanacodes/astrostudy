@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 111
 glyph: "☉♑☽♊"
-definition: "Sun in Capricorn, Moon in Gemini links cardinal earth and mutable air by a quincunx, at a birth under a gibbous Moon, ten to fifteen days after a new moon. Saturn rules the Sun’s sign and Mercury the Moon’s. I read it as a long plan kept in conversation: structure on one side, curiosity on the other."
+definition: "Sun in Capricorn, Moon in Gemini links cardinal earth and mutable air by a quincunx, at a birth under a gibbous Moon, ten to fifteen days after a new moon. Saturn rules the Sun’s sign and Mercury the Moon’s. To me it is structure on one side and curiosity on the other, kept on speaking terms."
 facts:
   - { k: "Sun sign", v: "Capricorn ♑, ruled by Saturn" }
   - { k: "Moon sign", v: "Gemini ♊, ruled by Mercury" }
@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s lead over the Sun" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the waxing gibbous Moon before the full, and Mercury’s distance from the Sun" }
 ---
-Saturn rules your Sun and Mercury your Moon: time on one side, words on the other. You were born under a swelling Moon a few days before the full. I read the pair as a long plan kept in conversation, a builder who needs to talk the building through.
+Saturn rules your Sun and Mercury your Moon: time on one side, words on the other. You were born under a swelling Moon a few days before the full. Think of the pair as a builder who needs to talk the building through.
 
 ## How they get along {#how-they-get-along}
 

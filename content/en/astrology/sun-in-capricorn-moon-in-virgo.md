@@ -46,7 +46,7 @@ Love, for this pair, is practical and attentive. The Virgo Moon notices what a p
 
 ## At work {#at-work}
 
-This is a pair for crafts, systems and anything where quality is the point: engineering, editing, accounting, archives, operations, skilled trades, any field where an error matters and someone has to catch it. The Sun brings the long plan and the authority, the Moon precision and a feel for what isn't quite right yet. You may become the person everyone asks, and the one who trains the next. Watch for picking up everyone's loose ends because you'd tie them better.
+This is a pair for crafts, systems and anything where quality is the point: engineering, editing, accounting, archives, operations, skilled trades, any field where an error matters and someone has to catch it. The Sun brings the long view and the standing, the Moon precision and a feel for what isn't quite right yet. You may become the person everyone asks, and the one who trains the next. Watch for picking up everyone's loose ends because you'd tie them better.
 
 ## The hard part {#the-hard-part}
 

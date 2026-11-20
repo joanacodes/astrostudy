@@ -19,9 +19,9 @@ facts:
 related: ["/astrology/sun-in-scorpio", "/astrology/moon-in-pisces", "/astrology/first-quarter-moon", "/astrology/sun-trine-moon", "/astrology/neptune"]
 faq:
   - q: "Un Soleil en Scorpion et une Lune en Poissons s’entendent-ils ?"
-    a: "En général, bien. Vos deux luminaires sont dans l’eau, dans des signes en trigone, et le but comme le besoin parlent la langue de l’émotion. La différence tient à la forme et au rythme : le Scorpion rassemble l’émotion et la garde, les Poissons la laissent passer et en accueillent davantage. L’aisance est réelle ; il peut manquer une voix intérieure qui dise assez."
+    a: "En général, bien. Vos deux luminaires sont dans l’eau, dans des signes en trigone : le but comme le besoin parlent la langue de l’émotion. La différence tient à la forme et au rythme : le Scorpion rassemble l’émotion et la garde, les Poissons la laissent passer. L’aisance est réelle ; il peut manquer une voix intérieure qui dise assez."
   - q: "Quelles planètes regarder d’abord avec un Soleil en Scorpion et une Lune en Poissons ?"
-    a: "Les quatre maîtres : Mars et Pluton pour le Soleil, Jupiter et Neptune pour la Lune. Pluton et Neptune avancent si lentement que leurs signes appartiennent à toute une génération : la maison et les aspects de ces deux planètes en disent plus sur vous, et seule l’heure de naissance donne les maisons. Vénus, en exaltation dans les Poissons, mérite aussi un regard."
+    a: "Les quatre maîtres : Mars et Pluton pour le Soleil, Jupiter et Neptune pour la Lune. Pluton et Neptune avancent si lentement que leurs signes appartiennent à toute une génération : leurs maisons et leurs aspects en disent plus sur vous, et seule l’heure de naissance donne les maisons. Vénus, en exaltation ici, mérite aussi un regard."
   - q: "Est-on trop sensible avec un Soleil en Scorpion et une Lune en Poissons ?"
     a: "Pas trop sensible : sensible, ce qui est différent. Avec les deux luminaires dans l’eau, vous percevez ce que d’autres ne voient pas, un savoir-faire en amour et au travail. Le soin à prendre est concret : du repos, des limites aux soucis d’autrui rapportés chez vous, et un moyen de distinguer vos émotions de celles de la pièce."
 sources:

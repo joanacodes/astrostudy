@@ -19,8 +19,8 @@ related: ["/astrology/sun-in-libra", "/astrology/moon-in-sagittarius", "/astrolo
 faq:
   - q: "What does a Libra Sun with a Sagittarius Moon look for in a partner?"
     a: "Fairness, good company and room to grow. The Libra Sun wants a relationship that is balanced and pleasant; the Sagittarius Moon looks for candour, laughter and something ahead to share. A partner who travels with you, in any sense, suits both lights, and so does freedom that is agreed rather than taken."
-  - q: "Is Sun in Libra, Moon in Sagittarius a sextile?"
-    a: "By sign, yes: Sagittarius is two signs on from Libra, and air and fire suit each other. By degree, the lights are sextile when the Moon is about 60° ahead of the Sun, some five days after a new moon. I read an easy link between purpose and need, one that still asks you to use it."
+  - q: "Why does Jupiter matter for a Libra Sun with a Sagittarius Moon?"
+    a: "Because Jupiter rules Sagittarius, so it speaks for your Moon. Its sign, house and aspects show where you go for meaning, study and room to grow, and where you recover the sense that life is going somewhere. Venus, ruler of Libra, does the same for your Sun. Their houses need a birth time."
   - q: "Why does space matter so much to a Libra Sun with a Sagittarius Moon?"
     a: "Because the Moon, in Sagittarius, feels safe with room ahead of it: a plan, a journey, a question with room in it. The Libra Sun loves company and partnership, so the two can seem to pull apart. They don’t have to. Space shared with someone you trust gives the Moon its horizon and the Sun its companion."
 sources:

@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun-in-scorpio", "/astrology/moon-in-pisces", "/astrology/first-quarter-moon", "/astrology/sun-trine-moon", "/astrology/neptune"]
 faq:
   - q: "Do a Scorpio Sun and a Pisces Moon get along?"
-    a: "Usually well. Both lights are in water, in signs that trine each other, and purpose and need share a language of feeling. The difference is in shape and pace: Scorpio gathers feeling and holds it, Pisces lets it flow through and takes in more. The ease is real; what the pair can lack is an inner voice that says enough."
+    a: "Usually well. Both lights are in water, in signs that trine each other, and purpose and need share a language of feeling. The difference is in shape and pace: Scorpio gathers feeling and holds it, Pisces lets it flow through. The ease is real; what the pair can lack is an inner voice that says enough."
   - q: "Which planets should a Scorpio Sun with a Pisces Moon look at first?"
     a: "The four rulers: Mars and Pluto for the Sun, Jupiter and Neptune for the Moon. Pluto and Neptune move so slowly that their signs belong to a whole generation, so their houses and aspects say more about you, and only a birth time gives the houses. Venus, exalted in Pisces, is worth a look too."
   - q: "Is a Scorpio Sun with a Pisces Moon too sensitive?"

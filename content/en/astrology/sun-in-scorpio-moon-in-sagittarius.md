@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun-in-scorpio", "/astrology/moon-in-sagittarius", "/astrology/new-moon-in-scorpio", "/astrology/waxing-crescent", "/astrology/jupiter"]
 faq:
   - q: "Can a Scorpio Sun and a Sagittarius Moon work together?"
-    a: "Yes, once each has its turn. The Scorpio Sun goes deep, holds on and keeps its counsel; the Sagittarius Moon needs air, candour and a next horizon. They are neighbours with different elements and tempos, so they take turns rather than blend: the dive, then the air, then the meaning."
+    a: "Yes, once each has its turn. The Scorpio Sun goes deep, holds on and shows itself in stages; the Sagittarius Moon needs air, candour and a next horizon. They are neighbours with different elements and tempos, so they take turns rather than blend: the dive, then the air, then the meaning."
   - q: "Does a Sagittarius Moon with a Scorpio Sun mean a fresh lunar month?"
     a: "Yes. Your birthday fell within the first five days or so of the lunar month, usually one opened by a new moon in Scorpio, with the Moon 1° to 59° past the Sun. Seven births in eight here fall in the new moon phase; the rest come in the waxing crescent, once the crescent stands clear of the sunset."
   - q: "What helps a Scorpio Sun with a Sagittarius Moon after a hard time?"
@@ -34,7 +34,7 @@ After the dive, the open air. Your Sun in Scorpio goes down into what is difficu
 
 Sagittarius follows Scorpio round the zodiac, a [semi-sextile](/astrology/semi-sextile/) by sign, so the lights differ in element and in pace: fixed water, mutable fire. The [Sun in Scorpio](/astrology/sun-in-scorpio/) holds on, goes deep and says little about it; the [Moon in Sagittarius](/astrology/moon-in-sagittarius/) is happiest with room to roam, frank talk and somewhere new in view. One light dives, the other surfaces, and much of your life is the rhythm between them.
 
-[Jupiter](/astrology/jupiter/) rules your Moon's sign, so where Jupiter sits by sign and house tells you where you hunt for meaning, and where you go to breathe. On the Sun's side, Scorpio has a ruler from each tradition, and I read both: [Mars](/astrology/mars/), from the older books, for the force you bring to hard things, and [Pluto](/astrology/pluto/), from modern astrology, for what you will let end so that it can be rebuilt. Jupiter's generosity and Pluto's intensity meet in this pair, and where they agree, a crisis tends to become a lesson rather than a wound.
+[Jupiter](/astrology/jupiter/) rules your Moon's sign, so where Jupiter sits by sign and house tells you where you hunt for meaning, and where you go to breathe. On the Sun's side, Scorpio has a ruler from each tradition, and I read both: [Mars](/astrology/mars/), from the older books, for the force you bring to hard things, and [Pluto](/astrology/pluto/), from modern astrology, for what you will let end so that it can be rebuilt. Jupiter's search for meaning and Pluto's pull towards the root meet in this pair, and where they agree, a crisis tends to become a lesson rather than a wound.
 
 Your birth came at most five days or so after a new moon; the Moon was 1° to 59° past the Sun, and the conjunction behind it usually fell in Scorpio, a [new moon in Scorpio](/astrology/new-moon-in-scorpio/). Counted in eight phases, nearly all of these are [new moon](/astrology/new-moon/) births, with a few, about an eighth, in the [waxing crescent](/astrology/waxing-crescent/); and in the earliest of these births, a Moon only just into Sagittarius can still be conjunct a Sun in the last degrees of Scorpio. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) describes this opening stretch of the month.
 
@@ -50,4 +50,4 @@ Work that combines depth with meaning suits you: research with a purpose, psycho
 
 ## The hard part {#the-hard-part}
 
-The two lights handle pain differently: the Scorpio Sun goes into it, the Sagittarius Moon looks for the way out, and you may swing between brooding and escaping into plans. Neither on its own heals much. Let the Moon's optimism wait until the Sun has finished looking, then let it help you make sense of what you found: depth first, meaning second, and a trip or a long walk to mark the change.
+The two lights handle pain differently: the Scorpio Sun goes into it, the Sagittarius Moon looks for the wider view, and you may swing between brooding and hurrying into plans. Neither on its own heals much. Let the Moon's optimism wait until the Sun has finished looking, then let it help you make sense of what you found: depth first, meaning second, and a trip or a long walk to mark the change.

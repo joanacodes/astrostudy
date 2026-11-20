@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 119
 glyph: "☉♑☽♒"
-definition: "Sun in Capricorn, Moon in Aquarius places the Moon one sign ahead of the Sun, within about five days after a new moon. Cardinal earth meets fixed air; Saturn rules Capricorn and, traditionally, Aquarius too, with Uranus as the Moon’s modern ruler. I read it as a builder whose needs look to the future."
+definition: "Sun in Capricorn, Moon in Aquarius places the Moon one sign ahead of the Sun, within about five days after a new moon. Cardinal earth meets fixed air; Saturn rules Capricorn and, traditionally, Aquarius too, with Uranus as the Moon’s modern ruler. I read it as someone who builds for the future and needs room to improve it."
 facts:
   - { k: "Sun sign", v: "Capricorn ♑, ruled by Saturn" }
   - { k: "Moon sign", v: "Aquarius ♒, ruled by Uranus and Saturn" }
@@ -28,13 +28,13 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s lead over the Sun" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the new moon and the first days after it" }
 ---
-In the old scheme Saturn ruled both Capricorn and Aquarius, so your Sun and Moon answer, at least in part, to the same planet; Uranus, for modern astrologers, gives the Moon a second voice. You were born in the first days of a lunar month. I read the pair as a builder whose needs look to the future.
+In the old scheme Saturn ruled both Capricorn and Aquarius, so your Sun and Moon answer, at least in part, to the same planet; Uranus, for modern astrologers, gives the Moon a second voice. You were born in the first days of a lunar month. To me the pair builds with one eye on what comes next.
 
 ## How they get along {#how-they-get-along}
 
 The signs are neighbours and share nothing in element or modality: cardinal earth for the Sun, fixed air for the Moon. The [Sun in Capricorn](/astrology/sun-in-capricorn/) builds a life in dependable stages; the [Moon in Aquarius](/astrology/moon-in-aquarius/) steadies itself by seeing how things connect: the system sketched on the back of an envelope, the group that runs on shared principles, the evening spent with friends arguing about how things ought to work. One wants the structure to hold; the other wants it to work better for everyone in it.
 
-Aquarius has two rulers and I read both. [Saturn](/astrology/saturn/), its traditional ruler, also rules your Sun's sign, so structure and commitment speak for both lights; [Uranus](/astrology/uranus/), its modern ruler, adds a need to reform, to try another way, to keep some independence inside every commitment. Capricorn and Aquarius give your lights no dignity of their own. Saturn carries extra weight with me for another reason: in [my notebook](/blog/i-tested-my-birth-chart/) it was among the few placements that held far more often than the rest, 75 to 90% of the time. Uranus, about seven years in each sign, belongs to a generation by sign and to you by house.
+Aquarius has two rulers and I read both. [Saturn](/astrology/saturn/), its traditional ruler, also rules your Sun's sign, so structure and commitment speak for both lights; [Uranus](/astrology/uranus/), its modern ruler, adds a need to reform, to try another way, to keep some independence inside every commitment. Capricorn and Aquarius give your lights no dignity of their own. Saturn carries extra weight with me for another reason: in [my notebook](/blog/i-tested-my-birth-chart/) it was among the few placements to collect a tick 75 to 90% of the time. Uranus, about seven years in each sign, belongs to a generation by sign and to you by house.
 
 You were born at the very start of a lunar month. The Moon had moved 1° to 59° past the Sun, up to about five days after the new moon: too close to the Sun to see at first, then a thin evening crescent. Seven in eight of these births are [new moon](/astrology/new-moon/) births in the eight-phase count, the rest early [waxing crescent](/astrology/waxing-crescent/), and right at the end of the range the lights approach a waxing [Sun sextile Moon](/astrology/sun-sextile-moon/). A birth this early in the month, to me, has purpose and need setting out together; here the need is a step ahead, already looking at what comes next. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) explains the phases.
 

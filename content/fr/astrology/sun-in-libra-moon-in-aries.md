@@ -14,7 +14,7 @@ facts:
   - { k: "Signe lunaire", v: "Bélier ♈, gouverné par Mars ; signe de l’exaltation du Soleil" }
   - { k: "Éléments", v: "Air et feu" }
   - { k: "Modes", v: "Cardinal et cardinal" }
-  - { k: "Phase de naissance", v: "Une pleine lune : 12 jours et demi à 17 jours après une nouvelle lune" }
+  - { k: "Phase de naissance", v: "Autour de la pleine lune : 12 jours et demi à 17 jours après la nouvelle lune" }
   - { k: "Fréquence", v: "Environ 1 personne sur 147 née entre 1930 et 2009" }
 related: ["/astrology/sun-in-libra", "/astrology/moon-in-aries", "/astrology/full-moon-in-aries", "/astrology/sun-opposite-moon", "/astrology/hunters-moon"]
 faq:

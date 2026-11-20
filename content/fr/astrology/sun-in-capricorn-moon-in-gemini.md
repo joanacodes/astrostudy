@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 111
 glyph: "☉♑☽♊"
-definition: "Soleil en Capricorne, Lune en Gémeaux relie la terre cardinale et l’air mutable par un quinconce, pour une naissance sous une Lune gibbeuse, dix à quinze jours après une nouvelle lune. Saturne gouverne le signe du Soleil, Mercure celui de la Lune. J’y lis un long plan tenu en conversation : la structure d’un côté, la curiosité de l’autre."
+definition: "Soleil en Capricorne, Lune en Gémeaux relie la terre cardinale et l’air mutable par un quinconce, pour une naissance sous une Lune gibbeuse, dix à quinze jours après une nouvelle lune. Saturne gouverne le signe du Soleil, Mercure celui de la Lune. J’y vois la structure d’un côté, la curiosité de l’autre, qui restent en bons termes."
 facts:
   - { k: "Signe solaire", v: "Capricorne ♑, gouverné par Saturne" }
   - { k: "Signe lunaire", v: "Gémeaux ♊, gouvernés par Mercure" }
@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et l’avance de la Lune sur le Soleil" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "la Lune gibbeuse croissante avant la pleine lune, et l’écart de Mercure au Soleil" }
 ---
-Saturne gouverne votre Soleil, Mercure votre Lune : le temps d’un côté, les mots de l’autre. Votre naissance a eu lieu sous une Lune qui s’arrondissait, quelques jours avant la pleine lune. Je lis ce duo comme un long plan tenu en conversation, une personne qui bâtit et qui a besoin de parler de la construction.
+Saturne gouverne votre Soleil, Mercure votre Lune : le temps d’un côté, les mots de l’autre. Votre naissance a eu lieu sous une Lune qui s’arrondissait, quelques jours avant la pleine lune. Imaginez une personne qui bâtit et qui a besoin de parler de la construction en chemin.
 
 ## Comment ils s’accordent {#comment-ils-s-accordent}
 
@@ -37,7 +37,7 @@ Les Gémeaux se trouvent cinq signes après le Capricorne : les luminaires ne p
 
 [Saturne](/astrology/saturn/) gouverne le signe de votre Soleil et [Mercure](/astrology/mercury/) celui de votre Lune, sans dignité ni pour Saturne en Gémeaux ni pour Mercure en Capricorne ; les luminaires n’en ont pas ici non plus. Le signe et la maison de Saturne montrent où vous bâtissez lentement et portez des responsabilités ; ceux de Mercure, comment vos émotions trouvent leurs mots, et Mercure, jamais à plus de 28° environ du Soleil, se trouve dans votre thème en Sagittaire, en Capricorne ou en Verseau. Un aspect entre Saturne et Mercure dit souvent si vos plans et votre parole forment une équipe ou deux.
 
-Votre naissance a eu lieu dans les jours qui précèdent une pleine lune. La Lune avait 122° à 180° d’avance sur le Soleil, dix jours à presque quinze après la nouvelle lune, brillante et levée l’après-midi ou au crépuscule. La [lune gibbeuse croissante](/astrology/waxing-gibbous-moon/) prend environ sept de ces naissances sur huit dans le compte en huit phases, le [premier quartier](/astrology/first-quarter-moon/) les autres, et vers 150°, le quinconce par signe devient exact. Je lis les jours gibbeux comme un temps pour affiner ce qui est presque fini, et une Lune en Gémeaux affine en parlant. [Votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) situe votre naissance parmi les huit.
+Votre naissance a eu lieu dans les jours qui précèdent une pleine lune. La Lune avait 122° à 180° d’avance sur le Soleil, dix jours à presque quinze après la nouvelle lune, brillante et levée l’après-midi ou au crépuscule. La [lune gibbeuse croissante](/astrology/waxing-gibbous-moon/) prend environ sept de ces naissances sur huit dans le compte en huit phases, le [premier quartier](/astrology/first-quarter-moon/) les autres, et vers 150°, le quinconce par signe est exact. Les jours gibbeux sont pour moi un temps pour affiner ce qui est presque fini, et une Lune en Gémeaux affine en parlant. [Votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) situe votre naissance parmi les huit.
 
 Environ 1 personne sur 149 a ce duo. Quand la Lune arrivait du Taureau en Gémeaux, ou les quittait pour le Cancer, le jour de votre anniversaire, c’est votre heure de naissance qui choisit entre cette page, le [Soleil en Capricorne, Lune en Taureau](/astrology/sun-in-capricorn-moon-in-taurus/) et le [Soleil en Capricorne, Lune en Cancer](/astrology/sun-in-capricorn-moon-in-cancer/) ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/#la-lune)). L’ascendant, tiré de la même minute, complète la première esquisse ; les maisons, qui en viennent aussi, montrent où se tiennent le plan et la conversation.
 

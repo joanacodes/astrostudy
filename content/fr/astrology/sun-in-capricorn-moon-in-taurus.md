@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 110
 glyph: "☉♑☽♉"
-definition: "Soleil en Capricorne, Lune en Taureau associe la terre cardinale et la terre fixe en trigone par signe, pour une naissance une semaine environ après une nouvelle lune, juste après le premier quartier. La Lune est dans son exaltation. J’y lis une personne qui bâtit, aux besoins qui entretiennent ce qui est bâti : stable des deux côtés."
+definition: "Soleil en Capricorne, Lune en Taureau associe la terre cardinale et la terre fixe en trigone par signe, pour une naissance sept jours et demi à douze jours après une nouvelle lune. La Lune est exaltée en Taureau. J’y vois une personne qui bâtit, aux besoins qui entretiennent ce qui est bâti : stable des deux côtés."
 facts:
   - { k: "Signe solaire", v: "Capricorne ♑, gouverné par Saturne" }
   - { k: "Signe lunaire", v: "Taureau ♉, gouverné par Vénus ; exaltation de la Lune" }
@@ -22,20 +22,20 @@ faq:
     a: "Le plus souvent, oui. Deux signes de terre en trigone, et une Lune dans son exaltation. Le Soleil en Capricorne bâtit par étapes ; la Lune en Taureau se sent en sécurité quand quelque chose dure et qu’on l’entretient. Le soin à prendre, c’est le changement : une routine peut durer bien après avoir cessé de servir."
   - q: "Que disent Saturne et Vénus d’un Soleil en Capricorne avec une Lune en Taureau ?"
     a: "Ce sont les deux maîtres : Saturne pour votre Soleil, Vénus pour votre Lune. Saturne montre où vous bâtissez et prenez des responsabilités ; Vénus, ce que vous appréciez et ce qui vous restaure. Aucune n’a de dignité dans le signe de l’autre. Avec un aspect entre Saturne et Vénus, le devoir et le plaisir coopèrent plutôt qu’ils ne rivalisent."
-  - q: "Quelle part de la Lune était éclairée à une naissance Soleil en Capricorne, Lune en Taureau ?"
-    a: "Plus de la moitié. La Lune avait 91° à 148° d’avance sur le Soleil, sept jours et demi à douze jours après la nouvelle lune : juste après le premier quartier, et encore croissante. La phase de premier quartier des huit en prend environ sept sur huit ; vers 120°, les luminaires forment un trigone croissant."
+  - q: "La Lune était-elle plus qu’à moitié éclairée à une naissance Soleil en Capricorne, Lune en Taureau ?"
+    a: "Oui. La Lune avait 91° à 148° d’avance sur le Soleil, sept jours et demi à douze jours après la nouvelle lune : juste après le premier quartier, et encore croissante. La phase de premier quartier des huit en prend environ sept sur huit ; vers 120°, les luminaires forment un trigone croissant."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’exaltation de la Lune en Taureau, la maîtrise de Saturne sur le Capricorne et celle de Vénus sur le Taureau" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et l’avance de la Lune sur le Soleil" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "le premier quartier et la Lune croissante qui le suit" }
 ---
-Le Capricorne demande comment une chose se construit ; le Taureau, comment elle dure. Votre Soleil est dans le premier, votre Lune dans le second, tous deux de terre, et votre naissance a suivi de peu la demi-lune de la première semaine du mois. Je lis ce duo comme une personne qui bâtit, dont les besoins prennent soin de ce qui est bâti.
+Le Capricorne demande comment une chose se construit ; le Taureau, comment elle dure. Avec le Soleil en Capricorne et la Lune en Taureau, tous deux de terre, votre naissance a suivi de peu la demi-lune de la première semaine du mois. Je lis ce duo comme une personne qui bâtit, dont les besoins prennent soin de ce qui est bâti.
 
 ## Comment ils s’accordent {#comment-ils-s-accordent}
 
-Comptez quatre signes depuis le Capricorne et vous arrivez au Taureau : un trigone par signe, la terre cardinale pour le Soleil, la terre fixe pour la Lune. Le [Soleil en Capricorne](/astrology/sun-in-capricorn/) pose une structure et la gravit étape par étape ; la [Lune en Taureau](/astrology/moon-in-taurus/) se sent en sécurité quand ce qu’elle aime est entretenu : la maison tenue, les routines de chaque saison répétées, l’amitié soignée pendant des décennies. L’un lance la construction, l’autre la garde debout, et tous deux mesurent leurs jours à ce qui dure.
+Le Taureau est le quatrième signe après le Capricorne : un trigone par signe entre la terre cardinale et la terre fixe. Le [Soleil en Capricorne](/astrology/sun-in-capricorn/) pose une structure et la gravit étape par étape ; la [Lune en Taureau](/astrology/moon-in-taurus/) se sent en sécurité quand ce qu’elle aime est entretenu : la maison tenue, les routines de chaque saison répétées, l’amitié soignée pendant des décennies. L’un lance la construction, l’autre la garde debout, et tous deux mesurent leurs jours à ce qui dure.
 
-La Lune est dans son [exaltation](/astrology/exaltation/) en Taureau, ce que je lis comme des besoins clairs, constants et difficiles à ébranler, une ancre lourde pour un Soleil cardinal. Le Soleil n’a pas de dignité en Capricorne. [Saturne](/astrology/saturn/), maître de votre Soleil, et [Vénus](/astrology/venus/), maîtresse de votre Lune, n’en ont pas non plus dans le signe de l’autre : Saturne montre où vous prenez des responsabilités, Vénus ce que vous appréciez et ce qui vous restaure. Avec un aspect entre les deux dans le thème, le devoir et le plaisir partagent un même calendrier au lieu de se le disputer.
+La Lune est dans son [exaltation](/astrology/exaltation/) en Taureau : des besoins clairs, constants et difficiles à ébranler, une ancre lourde pour un Soleil cardinal. Le Soleil n’a pas de dignité en Capricorne. [Saturne](/astrology/saturn/), maître de votre Soleil, et [Vénus](/astrology/venus/), maîtresse de votre Lune, n’en ont pas non plus dans le signe de l’autre : Saturne montre où vous prenez des responsabilités, Vénus ce que vous appréciez et ce qui vous restaure. Avec un aspect entre les deux dans le thème, le devoir et le plaisir partagent un même calendrier au lieu de se le disputer.
 
 Votre naissance a suivi de peu le premier quartier. La Lune avait 91° à 148° d’avance sur le Soleil, sept jours et demi à douze jours après la nouvelle lune, plus qu’à moitié éclairée, croissante et levée le soir. Le [premier quartier](/astrology/first-quarter-moon/) des huit phases prend environ sept de ces naissances sur huit, la [lune gibbeuse croissante](/astrology/waxing-gibbous-moon/) les autres, et vers 120°, le trigone par signe devient exact : un [Soleil trigone Lune](/astrology/sun-trine-moon/) croissant. Une naissance de premier quartier, telle que je la lis, est un moment pour s’engager dans ce qui a commencé, ce qui convient à deux signes qui préfèrent finir que recommencer. [Votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) en dit plus.
 

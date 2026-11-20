@@ -18,8 +18,8 @@ facts:
   - { k: "Fréquence", v: "Environ 1 personne sur 144 née entre 1930 et 2009" }
 related: ["/astrology/sun-in-libra", "/astrology/moon-in-aquarius", "/astrology/sun-trine-moon", "/astrology/uranus", "/blog/i-tested-my-birth-chart"]
 faq:
-  - q: "Le Soleil en Balance et la Lune en Verseau, est-ce un trigone ?"
-    a: "Par signe, oui : le Verseau est quatre signes après la Balance, et tous deux sont d’air. Au degré près, le trigone est exact quand la Lune a environ 120° d’avance, quelque dix jours après une nouvelle lune. J’y lis un flux facile entre le but et le besoin, porté par les idées et l’amitié."
+  - q: "Un Soleil en Balance et une Lune en Verseau font-ils un duo facile ?"
+    a: "Le plus souvent, oui. La Balance et le Verseau sont deux signes d’air en trigone : ce que vous visez et ce dont vous avez besoin s’accordent, autour de l’équité, des idées et de l’amitié. Cette aisance a son revers : avec si peu de friction intérieure, les émotions restent parfois dans la tête, et gagnent à être dites à voix haute."
   - q: "Est-ce que Saturne gouverne une Lune en Verseau ?"
     a: "Dans la tradition, oui ; Uranus est la maîtrise moderne du Verseau, et je lis les deux. Uranus montre où votre Lune a besoin de différer, Saturne ce à quoi elle accepte de s’engager. Avec votre Soleil en Balance, signe de l’exaltation de Saturne, Saturne touche les deux luminaires, et Saturne a tenu 75 à 90 % du temps dans mon carnet."
   - q: "D’où vient la réserve apparente d’un Soleil en Balance avec une Lune en Verseau ?"

@@ -17,8 +17,8 @@ facts:
   - { k: "How common", v: "About 1 person in 144 born 1930–2009" }
 related: ["/astrology/sun-in-libra", "/astrology/moon-in-aquarius", "/astrology/sun-trine-moon", "/astrology/uranus", "/blog/i-tested-my-birth-chart"]
 faq:
-  - q: "Is Sun in Libra, Moon in Aquarius a trine?"
-    a: "By sign, yes: Aquarius is four signs on from Libra, and both are air. By degree, the lights are trine when the Moon is about 120° ahead of the Sun, some ten days after a new moon, in the waxing half of the month. I read an easy flow between purpose and need, carried by ideas and friendship."
+  - q: "Is a Libra Sun with an Aquarius Moon an easy pairing?"
+    a: "Mostly, yes. Libra and Aquarius are both air and four signs apart, so what you aim for and what you need tend to agree, about fairness, ideas and friendship. The ease has a cost of its own: with so little friction inside, feelings can stay in the head, and they need saying out loud."
   - q: "Does Saturn rule an Aquarius Moon?"
     a: "In the tradition, yes; Uranus is its modern ruler, and I read both. Uranus shows where your Moon needs room to differ, Saturn what it is willing to commit to. With your Sun in Libra, Saturn’s exaltation, Saturn touches both lights, and it was one of the three placements that held 75 to 90% of the time in my notebook."
   - q: "Why can a Libra Sun with an Aquarius Moon seem cool?"

@@ -20,8 +20,8 @@ related: ["/astrology/sun-in-libra", "/astrology/moon-in-sagittarius", "/astrolo
 faq:
   - q: "Que cherche chez l’autre un Soleil en Balance avec une Lune en Sagittaire ?"
     a: "L’équité, la bonne compagnie et de la place pour grandir. Le Soleil en Balance veut une relation équilibrée et agréable ; la Lune en Sagittaire cherche la franchise, le rire et quelque chose à attendre à deux. Une personne qui voyage avec vous, en tout sens, convient aux deux luminaires, tout comme une liberté convenue plutôt que prise."
-  - q: "Le Soleil en Balance et la Lune en Sagittaire, est-ce un sextile ?"
-    a: "Par signe, oui : le Sagittaire est deux signes après la Balance, et l’air et le feu se conviennent. Au degré près, le sextile est exact quand la Lune a environ 60° d’avance, quelque cinq jours après une nouvelle lune. J’y lis un lien facile entre le but et le besoin, qui demande quand même qu’on s’en serve."
+  - q: "Quel rôle joue Jupiter pour un Soleil en Balance avec une Lune en Sagittaire ?"
+    a: "Jupiter gouverne le Sagittaire et parle donc pour votre Lune : le signe, la maison et les aspects de Jupiter montrent où vous cherchez du sens et de l’élan, et où vous retrouvez le sentiment que la vie mène quelque part. Vénus, qui gouverne la Balance, fait de même pour le Soleil. Les maisons demandent l’heure de naissance."
   - q: "Pourquoi l’espace compte-t-il tant pour un Soleil en Balance avec une Lune en Sagittaire ?"
     a: "Parce que la Lune en Sagittaire se sent en sécurité avec de la place devant elle : un projet, un voyage, une question ouverte. Le Soleil en Balance aime le couple, et les deux semblent parfois tirer en sens contraire. Un espace partagé avec une personne de confiance donne à la Lune son horizon et au Soleil sa compagnie."
 sources:

@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 114
 glyph: "☉♑☽♍"
-definition: "Soleil en Capricorne, Lune en Vierge associe la terre cardinale et la terre mutable en trigone par signe, pour une naissance sous une Lune disséminante, dix-sept à vingt-deux jours après la nouvelle lune. Saturne gouverne le signe du Soleil, Mercure celui de la Lune. J’y lis une maîtrise bâtie patiemment et transmise : une compétence qui est aussi un soin."
+definition: "Soleil en Capricorne, Lune en Vierge réunit deux signes de terre, cardinal et mutable, en trigone par signe, pour une naissance sous une Lune disséminante, dix-sept à vingt-deux jours après la nouvelle lune. Saturne gouverne le signe du Soleil, Mercure celui de la Lune. J’y lis une maîtrise bâtie patiemment et transmise : une compétence qui est aussi un soin."
 facts:
   - { k: "Signe solaire", v: "Capricorne ♑, gouverné par Saturne" }
   - { k: "Signe lunaire", v: "Vierge ♍, gouvernée par Mercure ; domicile et exaltation de Mercure" }
@@ -47,7 +47,7 @@ L’amour, pour ce duo, est pratique et attentif. La Lune en Vierge remarque ce 
 
 ## Au travail {#au-travail}
 
-C’est un duo pour les métiers, les systèmes et tout ce dont la qualité est le but : l’ingénierie, l’édition, la comptabilité, les archives, la logistique, les métiers qualifiés, tout domaine où une erreur compte et où quelqu’un doit la repérer. Le Soleil apporte le long plan et l’autorité, la Lune la précision et le sens de ce qui n’est pas encore tout à fait juste. Vous devenez peut-être la personne que tout le monde consulte, et celle qui forme la suivante. Attention à ramasser tous les fils laissés par les autres, sous prétexte que vous les noueriez mieux.
+C’est un duo pour les métiers, les systèmes et tout ce dont la qualité est le but : l’ingénierie, l’édition, la comptabilité, les archives, la logistique, les métiers qualifiés, tout domaine où une erreur compte et où quelqu’un doit la repérer. Le Soleil apporte le regard long et la stature, la Lune la précision et le sens de ce qui n’est pas encore tout à fait juste. Vous devenez peut-être la personne que tout le monde consulte, et celle qui forme la suivante. Attention à ramasser tous les fils laissés par les autres, sous prétexte que vous les noueriez mieux.
 
 ## Le plus difficile {#le-plus-difficile}
 

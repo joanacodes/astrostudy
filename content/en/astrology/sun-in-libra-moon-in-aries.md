@@ -13,7 +13,7 @@ facts:
   - { k: "Moon sign", v: "Aries ♈, ruled by Mars; the sign of the Sun’s exaltation" }
   - { k: "Elements", v: "Air and fire" }
   - { k: "Modalities", v: "Cardinal and cardinal" }
-  - { k: "Born near", v: "A full moon: 12½ to 17 days after a new moon" }
+  - { k: "Born near", v: "At or near the full moon: 12½ to 17 days after a new moon" }
   - { k: "How common", v: "About 1 person in 147 born 1930–2009" }
 related: ["/astrology/sun-in-libra", "/astrology/moon-in-aries", "/astrology/full-moon-in-aries", "/astrology/sun-opposite-moon", "/astrology/hunters-moon"]
 faq:

@@ -1,13 +1,13 @@
 ---
 title: "Sun in Capricorn, Moon in Libra"
 h1: "Sun in Capricorn, Moon in Libra in a birth chart"
-description: "Sun in Capricorn, Moon in Libra: a cardinal square near the last quarter, with Saturn exalted in the Moon’s sign. Structure and fairness, in love and at work."
+description: "Sun in Capricorn, Moon in Libra: earth and air at a square, born near the last quarter, with Saturn exalted in the Moon’s sign. Structure and fairness."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 115
 glyph: "☉♑☽♎"
-definition: "Sun in Capricorn, Moon in Libra squares two cardinal signs, earth and air, at a birth around the last quarter, three weeks or so after a new moon. Saturn, the Sun’s ruler, has its exaltation in Libra; Venus rules the Moon’s sign. I read it as duty and fairness negotiating, and often agreeing on rules everyone can trust."
+definition: "Sun in Capricorn, Moon in Libra sets cardinal earth against cardinal air in a square by sign, at a birth around the last quarter. Saturn, the Sun’s ruler, has its exaltation in Libra; Venus rules the Moon’s sign. I read it as duty and fairness negotiating, and often agreeing on rules everyone can trust."
 facts:
   - { k: "Sun sign", v: "Capricorn ♑, ruled by Saturn" }
   - { k: "Moon sign", v: "Libra ♎, ruled by Venus; Saturn’s exaltation" }
@@ -28,17 +28,17 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s position behind the Sun" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the last quarter and the waning days before it" }
 ---
-Tradition exalts Saturn in Libra, and Saturn rules Capricorn: with this pair, the planet your Sun answers to is honoured in the sign where your Moon lives. You were born around the last quarter, with a half moon in the morning sky. I read the pair as duty and fairness negotiating, and often settling on rules everyone can trust.
+Tradition exalts Saturn in Libra, and Saturn rules Capricorn: with this pair, the planet your Sun answers to is honoured in the sign where your Moon lives. Your birth came around the last quarter, with a half moon in the morning sky. I read the pair as duty and fairness negotiating, and often settling on rules everyone can trust.
 
 ## How they get along {#how-they-get-along}
 
-Libra sits three signs before Capricorn: a square by sign between two cardinal signs, air and earth. The [Sun in Capricorn](/astrology/sun-in-capricorn/) takes charge of a long project and carries the responsibility; the [Moon in Libra](/astrology/moon-in-libra/) steadies itself when an arrangement is fair to everyone in it: the rota agreed, the disagreement talked through to a settlement both sides can live with, the room arranged so that it looks right. Both signs initiate, the Sun by deciding and the Moon by mediating, so you may find yourself chairing meetings you never meant to lead.
+Libra sits three signs before Capricorn, so two cardinal signs meet at a square by sign, air against earth. The [Sun in Capricorn](/astrology/sun-in-capricorn/) takes charge of a long project and carries the responsibility; the [Moon in Libra](/astrology/moon-in-libra/) steadies itself when an arrangement is fair to everyone in it: the rota agreed, the disagreement talked through to a settlement both sides can live with, the room arranged so that it looks right. Both signs initiate, the Sun by deciding and the Moon by mediating, so you may find yourself chairing meetings you never meant to lead.
 
-The exaltation is what makes this square unusual. [Saturn](/astrology/saturn/), your Sun's ruler, has its [exaltation](/astrology/exaltation/) in Libra: the planet of structure is most honoured in the sign of balance, which I read as discipline that serves fairness. [Venus](/astrology/venus/), your Moon's ruler, has no dignity in Capricorn, and the lights have none here. In [my notebook](/blog/i-tested-my-birth-chart/), where every placement got its tick or its cross, Saturn was one of only three that held 75 to 90% of the time, so with this pair its sign and house come first, then Venus's.
+The exaltation is what makes this square unusual. Your Sun's ruler, [Saturn](/astrology/saturn/), has its [exaltation](/astrology/exaltation/) in Libra: the planet of structure is most honoured in the sign of balance, which I read as discipline that serves fairness. [Venus](/astrology/venus/), your Moon's ruler, has no dignity in Capricorn, and the lights have none here. In [my notebook](/blog/i-tested-my-birth-chart/), where every placement got its tick or its cross, Saturn was one of only three that held 75 to 90% of the time, so with this pair its sign and house come first, then Venus's.
 
 Your birth fell around the last quarter. The Moon was 241° to 299° ahead of the Sun, or 61° to 119° behind it, about twenty to twenty-four and a half days after the new moon, rising late at night or in the small hours. The births split evenly between the [waning gibbous (disseminating) moon](/astrology/waning-gibbous-disseminating-moon/) and the [last quarter moon](/astrology/last-quarter-moon/), and at 270° the square by sign is exact, a waning [Sun square Moon](/astrology/sun-square-moon/). I read a last quarter birth as a moment for reviewing the terms of things, which a Libra Moon does naturally; [your birth lunar phase](/astrology/your-birth-lunar-phase/) explains the turn at 270°.
 
-About 1 person in 147 is born with this pair. On a birthday when the Moon left Virgo or moved into Scorpio, the birth time decides whether this page fits, or the [Sun in Capricorn, Moon in Virgo](/astrology/sun-in-capricorn-moon-in-virgo/), or the [Sun in Capricorn, Moon in Scorpio](/astrology/sun-in-capricorn-moon-in-scorpio/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)), and near the quarter it decides the phase too. The rising sign and Saturn's house rest on the same time.
+About 1 person in 147 is born with this pair. If, on your birthday, the Moon left Virgo or moved into Scorpio, the birth time decides whether this page fits, or the [Sun in Capricorn, Moon in Virgo](/astrology/sun-in-capricorn-moon-in-virgo/), or the [Sun in Capricorn, Moon in Scorpio](/astrology/sun-in-capricorn-moon-in-scorpio/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)), and near the quarter it decides the phase too. The rising sign and Saturn's house rest on the same time.
 
 ## In close relationships {#in-close-relationships}
 

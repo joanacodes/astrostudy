@@ -2,13 +2,13 @@
 title: "Soleil en Capricorne, Lune en Balance"
 slug: "soleil-en-capricorne-lune-en-balance"
 h1: "Soleil en Capricorne, Lune en Balance dans un thème natal"
-description: "Soleil en Capricorne, Lune en Balance : un carré cardinal près du dernier quartier, Saturne ayant son exaltation chez la Lune. La structure et l’équité."
+description: "Soleil en Capricorne, Lune en Balance : la terre et l’air en carré, près du dernier quartier, et l’exaltation de Saturne chez la Lune. Structure et équité."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 115
 glyph: "☉♑☽♎"
-definition: "Soleil en Capricorne, Lune en Balance met en carré deux signes cardinaux, la terre et l’air, pour une naissance autour du dernier quartier, trois semaines environ après une nouvelle lune. Saturne, maître du Soleil, a son exaltation en Balance ; Vénus gouverne le signe de la Lune. J’y lis le devoir et l’équité qui négocient, et s’entendent souvent."
+definition: "Soleil en Capricorne, Lune en Balance oppose la terre cardinale à l’air cardinal dans un carré par signe, pour une naissance autour du dernier quartier. Saturne, maître du Soleil, a son exaltation en Balance ; Vénus gouverne le signe de la Lune. J’y lis le devoir et l’équité qui négocient, et s’entendent souvent."
 facts:
   - { k: "Signe solaire", v: "Capricorne ♑, gouverné par Saturne" }
   - { k: "Signe lunaire", v: "Balance ♎, gouvernée par Vénus ; exaltation de Saturne" }
@@ -29,17 +29,17 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et le retard de la Lune sur le Soleil" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "le dernier quartier et les jours décroissants qui le précèdent" }
 ---
-La tradition exalte Saturne en Balance, et Saturne gouverne le Capricorne : avec ce duo, la planète à laquelle répond votre Soleil est honorée dans le signe où vit votre Lune. Votre naissance a eu lieu autour du dernier quartier, une demi-lune dans le ciel du matin. Je lis ce duo comme le devoir et l’équité qui négocient, et s’accordent souvent sur des règles dignes de confiance.
+La tradition exalte Saturne en Balance, et Saturne gouverne le Capricorne : avec ce duo, la planète à laquelle répond votre Soleil est honorée dans le signe où vit votre Lune. Votre naissance est tombée autour du dernier quartier, une demi-lune dans le ciel du matin. Je lis ce duo comme le devoir et l’équité qui négocient, et s’accordent souvent sur des règles dignes de confiance.
 
 ## Comment ils s’accordent {#comment-ils-s-accordent}
 
-La Balance se trouve trois signes avant le Capricorne : un carré par signe entre deux signes cardinaux, l’air et la terre. Le [Soleil en Capricorne](/astrology/sun-in-capricorn/) prend en charge un long projet et en porte la responsabilité ; la [Lune en Balance](/astrology/moon-in-libra/) se stabilise quand un arrangement est juste pour chacun : le planning accepté, le désaccord mené jusqu’à un compromis que les deux côtés peuvent vivre, la pièce disposée pour qu’elle ait l’air juste. Les deux signes lancent les choses, le Soleil en décidant, la Lune en arbitrant : vous présidez peut-être des réunions sans l’avoir voulu.
+La Balance se trouve trois signes avant le Capricorne : deux signes cardinaux se rencontrent en carré par signe, l’air contre la terre. Le [Soleil en Capricorne](/astrology/sun-in-capricorn/) prend en charge un long projet et en porte la responsabilité ; la [Lune en Balance](/astrology/moon-in-libra/) se stabilise quand un arrangement est juste pour chacun : le planning accepté, le désaccord mené jusqu’à un compromis que les deux côtés peuvent vivre, la pièce disposée pour qu’elle ait l’air juste. Les deux signes lancent les choses, le Soleil en décidant, la Lune en arbitrant : vous présidez peut-être des réunions sans l’avoir voulu.
 
 L’exaltation rend ce carré singulier. [Saturne](/astrology/saturn/), maître de votre Soleil, a son [exaltation](/astrology/exaltation/) en Balance : la planète de la structure reçoit ses plus grands honneurs dans le signe de l’équilibre, ce que je lis comme une discipline au service de l’équité. [Vénus](/astrology/venus/), maîtresse de votre Lune, n’a pas de dignité en Capricorne, et les luminaires n’en ont pas ici. Dans [mon carnet](/blog/i-tested-my-birth-chart/), où chaque placement a reçu sa croix ou sa coche, Saturne était l’un des trois seuls à tenir 75 à 90 % du temps : avec ce duo, je lis donc d’abord le signe et la maison de Saturne, puis ceux de Vénus.
 
 Votre naissance a eu lieu autour du dernier quartier. La Lune avait 241° à 299° d’avance sur le Soleil, soit 61° à 119° de retard, vingt jours à vingt-quatre jours et demi environ après la nouvelle lune, levée tard dans la nuit ou aux petites heures. Ces naissances se partagent également entre la [lune gibbeuse décroissante (disséminante)](/astrology/waning-gibbous-disseminating-moon/) et le [dernier quartier](/astrology/last-quarter-moon/), et à 270°, le carré par signe est exact : un [Soleil carré Lune](/astrology/sun-square-moon/) décroissant. Je lis une naissance de dernier quartier comme un moment pour revoir les termes des choses, ce qu’une Lune en Balance fait naturellement ; [votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) explique le tournant de 270°.
 
-Environ 1 personne sur 147 naît avec ce duo. Un anniversaire où la Lune quittait la Vierge ou entrait en Scorpion demande l’heure de naissance pour savoir si cette page convient, ou le [Soleil en Capricorne, Lune en Vierge](/astrology/sun-in-capricorn-moon-in-virgo/), ou le [Soleil en Capricorne, Lune en Scorpion](/astrology/sun-in-capricorn-moon-in-scorpio/) ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/#la-lune)), et près du quartier, elle décide aussi de la phase. L’ascendant et la maison de Saturne reposent sur la même heure.
+Environ 1 personne sur 147 naît avec ce duo. Un anniversaire où la Lune quittait la Vierge ou entrait en Scorpion demande l’heure de naissance pour savoir si cette page convient, ou le [Soleil en Capricorne, Lune en Vierge](/astrology/sun-in-capricorn-moon-in-virgo/), ou le [Soleil en Capricorne, Lune en Scorpion](/astrology/sun-in-capricorn-moon-in-scorpio/) ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/#la-lune)), et, près du quartier, elle fixe aussi la phase. L’ascendant et la maison de Saturne reposent sur la même heure.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 

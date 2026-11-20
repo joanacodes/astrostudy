@@ -16,7 +16,7 @@ facts:
   - { k: "Needs", v: "Your birth time; Neptune’s degree comes from their birth date" }
 related: ["/astrology/neptune", "/astrology/6th-house", "/astrology/house-overlays", "/astrology/can-astrology-predict-health-problems", "/astrology/virgo"]
 faq:
-  - q: "Is their Neptune in my 6th house good for working together?"
+  - q: "Can we work well together if their Neptune is in my 6th house?"
     a: "It can bring meaning to shared work: tasks feel like a calling, help flows freely, and routines become small rituals. The cost is clarity. Roles, deadlines and who does what can blur, so writing them down protects the goodwill rather than spoiling it. It describes how work feels between you, not how it will turn out."
   - q: "Does their Neptune in my 6th house affect my health?"
     a: "No chart can say anything about your health, and I never read the 6th house for illness, whatever tradition said. This overlay describes your daily work, habits and the ideal of service as they meet the other person’s imagination. Questions about your body belong with a doctor."
@@ -30,11 +30,11 @@ A shift that flies by, flowers suddenly on a desk, a routine that starts to feel
 
 ## What it brings {#what-it-brings}
 
-[Neptune](/astrology/neptune/) reaches past the useful towards the meaningful, and serves out of compassion rather than duty. [The 6th house](/astrology/6th-house/) holds the shape of your days: tasks, habits, methods, the colleagues beside you and the way you look after yourself. With this [house overlay](/astrology/house-overlays/), what gives their life meaning enters your daily round.
+[Neptune](/astrology/neptune/) reaches past the useful towards the meaningful, and serves out of compassion rather than duty. [The 6th house](/astrology/6th-house/) holds the shape of your days: tasks, habits, methods, the people you work next to, and the care you give your own body and time. With this [house overlay](/astrology/house-overlays/), what gives their life meaning enters your daily round.
 
 Work beside them can feel like a calling rather than a job. You may bring more care to small tasks, start helping people because it feels right, or find that a routine you resisted becomes a kind of ritual: the morning walk, the tidy workbench, the hour of practice.
 
-Your daily method can look to them like quiet devotion. They may admire your craft, help without being asked, or feel that working near you gives their ideals something practical to do. The 6th is cadent, made for maintaining and adjusting, with [Virgo](/astrology/virgo/), the sign of method, as its natural sign; across the chart lies Pisces, Neptune's own sign in modern tropical astrology, so this overlay sets imagination to work on details. At the far end of the house, near your [Descendant](/astrology/descendant/), a working bond can start to feel like a partnership.
+Your daily method can look to them like quiet devotion. They may admire your craft, help without being asked, or feel that working near you gives their ideals something practical to do. The 6th is cadent, made for maintaining and adjusting, with [Virgo](/astrology/virgo/), the sign of method, as its natural sign; across the chart lies Pisces, which modern tropical astrology gives to Neptune, and the overlay therefore sets imagination to work on details. At the far end of the house, near your [Descendant](/astrology/descendant/), a working bond can start to feel like a partnership.
 
 ## Where it rubs {#where-it-rubs}
 
