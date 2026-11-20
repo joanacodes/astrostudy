@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 117
 glyph: "☉♑☽♐"
-definition: "Sun in Capricorn, Moon in Sagittarius places the Moon in the sign just before the Sun’s, at a birth under a balsamic Moon in the last days of the lunar month. Cardinal earth meets mutable fire, and Jupiter, the Moon’s ruler, has its fall in Capricorn. I read it as a structured life that keeps a window open."
+definition: "Sun in Capricorn, Moon in Sagittarius means the Moon trailed the Sun by one sign, in Sagittarius, at a birth in the closing days of the lunar month. Cardinal earth meets mutable fire, and Jupiter, the Moon’s ruler, has its fall in Capricorn. I read it as a structured life that keeps a window open."
 facts:
   - { k: "Sun sign", v: "Capricorn ♑, ruled by Saturn; Jupiter’s fall" }
   - { k: "Moon sign", v: "Sagittarius ♐, ruled by Jupiter" }
@@ -36,7 +36,7 @@ Neighbouring signs share nothing, and these two make the difference plain: cardi
 
 [Jupiter](/astrology/jupiter/), your Moon's ruler, has its [fall](/astrology/fall/) in Capricorn, the sign of your Sun: the planet of meaning and growth is least at ease on the Sun's ground, so the Moon's need for room has to argue its case to a self that wants proof first. [Saturn](/astrology/saturn/), your Sun's ruler, has no dignity in Sagittarius, and the lights have none here. I read the two rulers together, and their relation in the chart shows whether duty and hope negotiate or simply take turns.
 
-This is a birth from the end of the month. Your Moon was 301° to 359° ahead of the Sun, which is up to 59° behind it, twenty-four and a half to twenty-nine and a half days after the last new moon: a fine crescent rising before dawn, or no Moon to see at all. The [balsamic moon](/astrology/balsamic-moon/) takes nearly nine of these births in ten, the rest at the end of the [last quarter moon](/astrology/last-quarter-moon/) phase, and the [new moon](/astrology/new-moon/) that followed was only days away. A balsamic birth, to me, carries the feeling of a cycle closing, and this Moon closes it by looking beyond it. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) says more.
+Your birth came at the close of the lunar month. The Moon was 301° to 359° ahead of the Sun, which is up to 59° behind it, twenty-four and a half to twenty-nine and a half days after the last new moon: a fine crescent rising before dawn, or no Moon to see at all. The [balsamic moon](/astrology/balsamic-moon/) takes nearly nine of these births in ten, the rest at the end of the [last quarter moon](/astrology/last-quarter-moon/) phase, and the [new moon](/astrology/new-moon/) that followed was only days away. A balsamic birth, to me, carries the feeling of a cycle closing, and this Moon closes it by looking beyond it. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) says more.
 
 About 1 person in 152 has this pair. If the Moon left Scorpio or reached Capricorn on your birthday, only the time of birth can say whether this page is yours, or the [Sun in Capricorn, Moon in Scorpio](/astrology/sun-in-capricorn-moon-in-scorpio/), or the [Sun in Capricorn, Moon in Capricorn](/astrology/sun-in-capricorn-moon-in-capricorn/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). Born on 21 or 22 December, the same time may also decide your Sun sign. The rising sign and the houses of Saturn and Jupiter wait on it too.
 

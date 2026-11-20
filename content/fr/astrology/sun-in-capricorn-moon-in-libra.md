@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et le retard de la Lune sur le Soleil" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "le dernier quartier et les jours décroissants qui le précèdent" }
 ---
-La tradition exalte Saturne en Balance, et Saturne gouverne le Capricorne : avec ce duo, la planète à laquelle répond votre Soleil est honorée dans le signe où vit votre Lune. Votre naissance est tombée autour du dernier quartier, une demi-lune dans le ciel du matin. Je lis ce duo comme le devoir et l’équité qui négocient, et s’accordent souvent sur des règles dignes de confiance.
+La tradition exalte Saturne en Balance, et Saturne gouverne le Capricorne : la planète qui se tient derrière votre Soleil reçoit donc ses plus grands honneurs là où vit votre Lune. Votre naissance est tombée autour du dernier quartier, une demi-lune dans le ciel du matin. Je lis ce duo comme le devoir et l’équité qui négocient, et s’accordent souvent sur des règles dignes de confiance.
 
 ## Comment ils s’accordent {#comment-ils-s-accordent}
 

@@ -1,7 +1,7 @@
 ---
 title: "Sun in Sagittarius, Moon in Aquarius"
 h1: "Sun in Sagittarius, Moon in Aquarius in a birth chart"
-description: "Sun in Sagittarius, Moon in Aquarius: fire and air in a sextile by sign, Uranus and Saturn for the Moon, born under a waxing crescent. Ideas that want company."
+description: "Sun in Sagittarius, Moon in Aquarius: a fire–air sextile by sign, Uranus and Saturn for the Moon, born under a waxing crescent. Ideas that want company."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -34,7 +34,7 @@ Sagittarius wants a philosophy to live by; Aquarius wants a world that works bet
 
 Aquarius lies two signs on from Sagittarius: a sextile by sign, fixed air beside mutable fire, the element that fans a flame. The [Sun in Sagittarius](/astrology/sun-in-sagittarius/) wants a creed worth living by and the freedom to revise it; the [Moon in Aquarius](/astrology/moon-in-aquarius/) steadies itself in good company of minds: the friend it can call after a year's silence and pick up mid-sentence, the cause it has signed up to, the evening spent working out how something could be done better. The sextile offers cooperation, and here it is easy to take up: your beliefs and your loyalties tend to point the same way.
 
-Aquarius has two rulers, and I read both: [Uranus](/astrology/uranus/), the modern one, for where this Moon needs freedom to try things its own way, and [Saturn](/astrology/saturn/), the traditional one, for the commitments that let it stay close without feeling fenced in. [Jupiter](/astrology/jupiter/) rules your Sun's sign. Jupiter has no dignity in Aquarius, nor Saturn in Sagittarius, and the lights have none either. Uranus spends about seven years in a sign, so its sign belongs to a generation; its house, which needs your birth time, is what makes the Moon's need for freedom personal.
+For Aquarius I read both rulers: [Uranus](/astrology/uranus/), the modern one, for where this Moon needs freedom to try things its own way, and [Saturn](/astrology/saturn/), the traditional one, for the commitments that let it stay close without feeling fenced in. [Jupiter](/astrology/jupiter/) rules your Sun's sign. Jupiter has no dignity in Aquarius, nor Saturn in Sagittarius, and the lights have none either. Uranus spends about seven years in a sign, so its sign belongs to a generation; its house, which needs your birth time, is what makes the Moon's need for freedom personal.
 
 This is a crescent birth. Your Moon had moved 30° to 89° ahead of the Sun, two and a half to seven days after the new moon, and it set in the evening a few hours after the Sun. The [waxing crescent](/astrology/waxing-crescent/) takes about seven of these births in eight, the [new moon](/astrology/new-moon/) phase the rest, and near 60° the lights form a waxing [Sun sextile Moon](/astrology/sun-sextile-moon/), the sextile by sign made exact. A crescent birth, to me, is need gathering the nerve to go its own way; with an Aquarius Moon it goes towards other people and new ideas. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) explains the crescent.
 

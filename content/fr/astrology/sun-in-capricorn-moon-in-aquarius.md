@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 119
 glyph: "☉♑☽♒"
-definition: "Soleil en Capricorne, Lune en Verseau place la Lune un signe devant le Soleil, dans les cinq jours qui suivent une nouvelle lune. La terre cardinale rencontre l’air fixe ; Saturne gouverne le Capricorne et, selon la tradition, le Verseau, dont Uranus est le maître moderne. J’y lis quelqu’un qui bâtit pour l’avenir, et veut pouvoir l’améliorer."
+definition: "Soleil en Capricorne, Lune en Verseau, c’est une Lune en avance d’un signe sur le Soleil, en Verseau, pour une naissance aux cinq premiers jours d’un mois lunaire. Saturne gouverne le Capricorne et, selon la tradition, le Verseau, dont Uranus est le maître moderne. J’y lis quelqu’un qui bâtit pour l’avenir, et veut pouvoir l’améliorer."
 facts:
   - { k: "Signe solaire", v: "Capricorne ♑, gouverné par Saturne" }
   - { k: "Signe lunaire", v: "Verseau ♒, gouverné par Uranus et Saturne" }

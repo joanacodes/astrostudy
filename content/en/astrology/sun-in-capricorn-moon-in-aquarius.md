@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 119
 glyph: "☉♑☽♒"
-definition: "Sun in Capricorn, Moon in Aquarius places the Moon one sign ahead of the Sun, within about five days after a new moon. Cardinal earth meets fixed air; Saturn rules Capricorn and, traditionally, Aquarius too, with Uranus as the Moon’s modern ruler. I read it as someone who builds for the future and needs room to improve it."
+definition: "Sun in Capricorn, Moon in Aquarius has the Moon a sign ahead of the Sun, in Aquarius, at a birth in the first five days of a lunar month. Saturn rules Capricorn and, traditionally, Aquarius too, with Uranus as the Moon’s modern ruler. I read it as someone who builds for the future and needs room to improve it."
 facts:
   - { k: "Sun sign", v: "Capricorn ♑, ruled by Saturn" }
   - { k: "Moon sign", v: "Aquarius ♒, ruled by Uranus and Saturn" }

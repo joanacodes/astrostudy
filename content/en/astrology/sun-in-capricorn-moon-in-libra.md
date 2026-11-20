@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s position behind the Sun" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the last quarter and the waning days before it" }
 ---
-Tradition exalts Saturn in Libra, and Saturn rules Capricorn: with this pair, the planet your Sun answers to is honoured in the sign where your Moon lives. Your birth came around the last quarter, with a half moon in the morning sky. I read the pair as duty and fairness negotiating, and often settling on rules everyone can trust.
+Tradition exalts Saturn in Libra, and Saturn rules Capricorn, so the planet behind your Sun is at its most honoured where your Moon lives. Your birth came around the last quarter, with a half moon in the morning sky. I read the pair as duty and fairness negotiating, and often settling on rules everyone can trust.
 
 ## How they get along {#how-they-get-along}
 

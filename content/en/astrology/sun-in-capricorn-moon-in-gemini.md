@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 111
 glyph: "☉♑☽♊"
-definition: "Sun in Capricorn, Moon in Gemini links cardinal earth and mutable air by a quincunx, at a birth under a gibbous Moon, ten to fifteen days after a new moon. Saturn rules the Sun’s sign and Mercury the Moon’s. To me it is structure on one side and curiosity on the other, kept on speaking terms."
+definition: "Sun in Capricorn, Moon in Gemini links cardinal earth and mutable air by a quincunx, born in the gibbous days before a full moon. Saturn rules the Sun’s sign and Mercury the Moon’s. To me it is structure on one side and curiosity on the other, kept on speaking terms."
 facts:
   - { k: "Sun sign", v: "Capricorn ♑, ruled by Saturn" }
   - { k: "Moon sign", v: "Gemini ♊, ruled by Mercury" }

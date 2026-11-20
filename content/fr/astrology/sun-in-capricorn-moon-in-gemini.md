@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 111
 glyph: "☉♑☽♊"
-definition: "Soleil en Capricorne, Lune en Gémeaux relie la terre cardinale et l’air mutable par un quinconce, pour une naissance sous une Lune gibbeuse, dix à quinze jours après une nouvelle lune. Saturne gouverne le signe du Soleil, Mercure celui de la Lune. J’y vois la structure d’un côté, la curiosité de l’autre, qui restent en bons termes."
+definition: "Soleil en Capricorne, Lune en Gémeaux relie la terre cardinale et l’air mutable par un quinconce, pour une naissance dans les jours gibbeux qui précèdent une pleine lune. Saturne gouverne le signe du Soleil, Mercure celui de la Lune. J’y vois la structure d’un côté, la curiosité de l’autre, qui restent en bons termes."
 facts:
   - { k: "Signe solaire", v: "Capricorne ♑, gouverné par Saturne" }
   - { k: "Signe lunaire", v: "Gémeaux ♊, gouvernés par Mercure" }
