@@ -16,9 +16,9 @@ facts:
 related: ["/astrology/progressed-moon", "/astrology/cancer", "/astrology/moon-in-cancer", "/astrology/can-astrology-predict-pregnancy", "/blog/unknown-birth-time"]
 faq:
   - q: "What does the progressed Moon in Cancer mean?"
-    a: "It means the Moon of your progressed chart is crossing Cancer, the sign it rules. Astrologers read these two years or so as a chapter centred on belonging: home, family, closeness and care, given and received. I read it as inner weather in one part of your chart, never as an event on its way."
+    a: "Your progressed Moon has come home: it is crossing Cancer, the sign the Moon rules. Astrologers read these two years or so as a chapter centred on belonging: home, family, closeness and care, given and received. I read it as inner weather in one part of your chart, never as an event on its way."
   - q: "How long does the progressed Moon stay in Cancer?"
-    a: "About two years and four months as a rule, and between two and two and a half years for every birth I counted from 1930 to 2009. Being in its own sign doesn’t lengthen the stay; the Moon’s speed in the days after your birth decides it."
+    a: "Being at home doesn’t make the Moon linger: in my count of births from 1930 to 2009, its Cancer chapter lasted two to two and a half years, about two years and four months as a rule. Your own length is decided by the Moon’s speed in the days after your birth."
   - q: "Does the progressed Moon in Cancer mean a pregnancy?"
     a: "No. Tradition tied the Moon to mothers and Cancer to the family, so the idea is common, but no progression predicts a pregnancy and I never read one that way. The chapter describes your own need for closeness and a home, whoever you share it with."
   - q: "What if my natal Moon is in Cancer too?"
@@ -39,7 +39,7 @@ Tradition linked the Moon with mothers and Cancer with the family, and these yea
 
 ## How long it lasts {#how-long-it-lasts}
 
-Its own sign doesn’t keep it longer. For births from 1930 to 2009 the progressed Moon spent between two and two and a half years in Cancer, usually about two years and four months, the number of years matching the days the real Moon took to cross the sign after each birth. If you want your own dates, a progressed chart shows the month the Moon crosses into Cancer and the month it leaves; they are only as accurate as the birth time behind them.
+Its own sign doesn’t keep it longer. In the births I counted, from 1930 to 2009, the homecoming lasted between two and two and a half years, usually about two years and four months, the number of years matching the days the real Moon took to cross Cancer after each birth. If you want your own dates, a progressed chart shows the month the Moon crosses into Cancer and the month it leaves; they are only as accurate as the birth time behind them.
 
 It comes after the [progressed Moon in Gemini](/astrology/progressed-moon-in-gemini/) and before the [progressed Moon in Leo](/astrology/progressed-moon-in-leo/). With a natal [Moon in Cancer](/astrology/moon-in-cancer/), this is a homecoming twice over: the progressed Moon returns to its birth sign about every 27 years, the time of one round of the zodiac, and its first stay there, from birth, was only part of a crossing, since it began wherever your Moon stood. The last months of a Cancer chapter can feel like stepping out of a shell, which is where Leo takes over.
 

@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 6
 glyph: "⚻☍"
-definition: "A boomerang yod is a yod with a fourth planet opposite its apex: two planets in sextile, both quincunx a third, and a fourth across from that third, between the first two. It gives the yod’s constant adjusting a counterweight and a way back. About 1 person in 27 has one among the ten planets."
+definition: "A boomerang yod is a yod with a fourth planet opposite its apex: two planets in sextile, both quincunx a third, and a fourth across from that third, between the first two. It gives the yod’s constant adjusting a counterweight and a way back. Rarer than a plain yod, it marks about 1 chart in 27."
 facts:
   - { k: "Shape", v: "A yod with a line drawn from its apex straight across the chart" }
   - { k: "Aspects", v: "A sextile, two quincunxes, an opposition and two semi-sextiles" }
@@ -39,7 +39,7 @@ In signs, the fourth planet usually falls in the sign between the two base plane
 
 ## In a birth chart {#in-a-birth-chart}
 
-A fourth planet exactly opposite a yod's apex is a rarer thing than the yod itself: the count behind this site finds the boomerang in about 1 chart in 27 for births from 1930 to 2009, among the ten planets, with its quincunxes held to 3° and its sextile and opposition allowed 8° near the Sun or Moon, 6° otherwise. The figure needs four planets placed just so, and those tight quincunxes make it sensitive to orbs: a degree's difference either way changes the count a great deal. The count also leaves out the angles, Chiron, Lilith and the nodes, any of which could stand opposite an apex.
+A fourth planet exactly opposite a yod's apex is a rarer thing than the yod itself: the count behind this site finds the boomerang in about 1 chart in 27 for births from 1930 to 2009, among the ten planets, with its quincunxes held to 3° and its sextile and opposition allowed 8° near the Sun or Moon, 6° otherwise. The figure needs four planets placed just so, and those tight quincunxes make it sensitive to orbs: a degree's difference either way changes the count a great deal. Nor can the count see a boomerang finished by an angle, Chiron, Lilith or a node standing opposite the apex.
 
 The system I built for my readings describes the quincunx as adjustment and recalibration, and the opposition as polarity: two functions made aware of each other, so that each can be integrated rather than fought. In a yod, the apex keeps adjusting with nothing across from it. In a boomerang yod, the planet opposite gives it a counterpart, and I read that as the adjusting becoming visible: something you can see and name, often first in someone else, rather than only feel. The fourth planet also sits close to both base planets, in semi-sextile, a contact of small, steady coordination, so it gathers what the base offers and carries it across the chart.
 

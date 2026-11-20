@@ -17,7 +17,7 @@ facts:
 related: ["/astrology/progressed-moon", "/astrology/virgo", "/astrology/moon-in-virgo", "/astrology/can-astrology-predict-health-problems", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire la Lune progressée en Vierge ?"
-    a: "Que votre Lune progressée traverse la Vierge, le signe de terre gouverné par Mercure. Les astrologues lisent ces années comme un chapitre pratique : des besoins comblés en se rendant utile, en mettant de l’ordre et en améliorant le quotidien. J’y lis une météo intérieure, une humeur sans événement écrit d’avance."
+    a: "Que votre Lune progressée est arrivée en Vierge, le signe de terre que gouverne Mercure. Les astrologues lisent ces années comme un chapitre pratique : des besoins comblés en se rendant utile, en mettant de l’ordre et en améliorant le quotidien. J’y lis une météo intérieure, une humeur sans événement écrit d’avance."
   - q: "Combien de temps la Lune progressée reste-t-elle en Vierge ?"
     a: "Le plus souvent deux ans et quatre mois environ. Pour les naissances de 1930 à 2009, ses traversées de la Vierge sont allées de deux ans à deux ans et sept mois environ : la Vierge est l’un des deux signes, avec le Lion, où les plus longues dépassent deux ans et demi."
   - q: "La Lune progressée en Vierge touche-t-elle la santé ?"

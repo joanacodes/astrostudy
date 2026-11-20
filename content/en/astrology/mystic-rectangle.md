@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 8
 glyph: "▭"
-definition: "A mystic rectangle is four planets in two oppositions, joined around the sides by two sextiles and two trines, drawing a rectangle across the chart. It describes tension held inside a frame of support: two polarities, with easy links between their ends. About 1 person in 28 has one among the ten planets."
+definition: "A mystic rectangle is four planets in two oppositions, joined around the sides by two sextiles and two trines, drawing a rectangle across the chart. It describes tension held inside a frame of support: two polarities, with easy links between their ends. Four planets must fall just so, and about 1 person in 28 has one."
 facts:
   - { k: "Shape", v: "A rectangle: long sides of 120°, short sides of 60°, diagonals of 180°" }
   - { k: "Aspects", v: "Two oppositions, two trines and two sextiles" }

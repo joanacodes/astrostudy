@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 4
 glyph: "□"
-definition: "A T-square is two planets in opposition, both square a third, the focal planet at the apex. It draws a T across the chart, with an open side where a fourth corner would be. It describes tension that gathers in one place and pushes for action. About 3 people in 10 have one among the ten planets."
+definition: "A T-square is two planets in opposition, both square a third, the focal planet at the apex. It draws a T across the chart, with an open side where a fourth corner would be. It describes tension that gathers in one place and pushes for action. Roughly 3 charts in 10 hold one."
 facts:
   - { k: "Shape", v: "A T: two planets opposite each other, a third halfway between them" }
   - { k: "Aspects", v: "One opposition and two squares" }

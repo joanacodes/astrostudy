@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 20
 glyph: "✦"
-definition: "A locomotive chart has all ten planets within two-thirds of the wheel, 240° or less, leaving an empty third, like a train with open track ahead. It is one of Marc Edmund Jones’s seven shapes and the commonest in my count, with one planet leading the train. About 2 people in 5 have one among the ten planets."
+definition: "A locomotive chart has all ten planets within two-thirds of the wheel, 240° or less, leaving an empty third, like a train with open track ahead. It is one of Marc Edmund Jones’s seven shapes, with one planet leading the train. No shape is commoner in my count: about 2 people in 5 have one."
 facts:
   - { k: "Shape", v: "All ten planets within 240°; an empty third of about four signs" }
   - { k: "Aspects", v: "None needed: it’s the spread of the planets" }

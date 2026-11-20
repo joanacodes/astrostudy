@@ -16,7 +16,7 @@ facts:
 related: ["/astrology/progressed-moon", "/astrology/virgo", "/astrology/moon-in-virgo", "/astrology/can-astrology-predict-health-problems", "/blog/unknown-birth-time"]
 faq:
   - q: "What does the progressed Moon in Virgo mean?"
-    a: "It means your progressed Moon is crossing Virgo, the earth sign ruled by Mercury. Astrologers read these years as a practical chapter: needs met through being useful, putting things in order and improving how daily life works. I read it as inner weather, a mood with no events written into it."
+    a: "Your progressed Moon has reached Virgo, the earth sign Mercury rules. Astrologers read these years as a practical chapter: needs met through being useful, putting things in order and improving how daily life works. I read it as inner weather, a mood with no events written into it."
   - q: "How long does the progressed Moon stay in Virgo?"
     a: "Usually about two years and four months. For births from 1930 to 2009 its crossings of Virgo ranged from two years to about two years and seven months, which makes Virgo one of the two signs, with Leo, where the longest run past two and a half years."
   - q: "Does the progressed Moon in Virgo affect health?"

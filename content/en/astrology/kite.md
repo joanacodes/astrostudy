@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 7
 glyph: "△☍"
-definition: "A kite is a grand trine with a fourth planet opposite one corner and sextile the other two. The opposition gives the triangle’s ease a direction and a point of effort, so the talent has something to do. About 1 person in 19 born from 1930 to 2009 has one among the ten planets."
+definition: "A kite is a grand trine with a fourth planet opposite one corner and sextile the other two. The opposition gives the triangle’s ease a direction and a point of effort, so the talent has something to do. Never more common than the grand trine it needs, it turns up in about 1 chart in 19."
 facts:
   - { k: "Shape", v: "A grand trine with a tail: a fourth planet opposite one corner" }
   - { k: "Aspects", v: "Three trines, one opposition and two sextiles" }

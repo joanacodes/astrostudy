@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 12
 glyph: "⚹△"
-definition: "Un petit trigone, ce sont trois planètes : deux en trigone et une troisième entre elles, en sextile avec les deux, qui dessinent un triangle aplati d’un côté du thème. Il décrit une aisance qui trouve son point d’usage, la circulation du trigone recueillie par la planète du milieu. Il est courant : environ 4 personnes sur 9 en ont un."
+definition: "Un petit trigone, ce sont trois planètes : deux en trigone et une troisième entre elles, en sextile avec les deux, en triangle aplati. Il décrit une aisance qui trouve son point d’usage, la circulation du trigone recueillie par la planète du milieu. Il est courant : près de la moitié des thèmes, environ 4 sur 9, en contiennent un."
 facts:
   - { k: "Forme", v: "Un triangle aplati : deux planètes à 120°, une troisième à mi-chemin" }
   - { k: "Aspects", v: "Un trigone et deux sextiles" }
@@ -21,7 +21,7 @@ faq:
   - q: "Qu’est-ce qu’un petit trigone ?"
     a: "Trois planètes : deux à 120° environ, en trigone, et une troisième à peu près à mi-chemin, à 60° environ de chacune, en sextile. La figure dessine un triangle aplati. Je lis la planète du milieu comme l’endroit où l’aisance du trigone est recueillie et mise au travail : le point de travail de la figure."
   - q: "Le petit trigone est-il fréquent ?"
-    a: "Très. Dans mon décompte des naissances de 1930 à 2009, environ 4 personnes sur 9 en ont un parmi les dix planètes, avec des orbes de 8° quand le Soleil ou la Lune en fait partie et de 6° sinon. C’est une ressource ordinaire de beaucoup de thèmes plutôt qu’une distinction rare."
+    a: "Très. Près de la moitié des personnes de mon décompte, environ 4 sur 9 parmi celles nées entre 1930 et 2009, en ont un parmi les dix planètes. Il ne demande qu’un trigone et une planète près de son milieu : je le lis comme une ressource ordinaire de beaucoup de thèmes plutôt qu’une distinction rare."
   - q: "Quelle différence entre un petit trigone et un grand trigone ?"
     a: "Un grand trigone compte trois trigones en boucle fermée ; un petit trigone, un trigone et deux sextiles, avec la troisième planète entre les deux autres au lieu d’en face. Il est moins refermé sur lui-même : ses sextiles offrent des ouvertures qu’il faut saisir, ce qui le rend plus facile à mettre au travail."
   - q: "Quelle planète compte le plus dans un petit trigone ?"
@@ -40,13 +40,13 @@ On le dit petit parce qu’il a un seul trigone là où le [grand trigone](/astr
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le décompte sur lequel s’appuie ce site a trouvé un petit trigone parmi les dix planètes chez environ 4 personnes sur 9 nées entre 1930 et 2009, chaque aspect étant compté à 8° près quand le Soleil ou la Lune en fait partie et à 6° près sinon. Ajoutez l’ascendant, le milieu du ciel, Chiron, Lilith ou les nœuds, ou élargissez un peu les orbes, et il serait plus courant encore. C’est l’une des figures les plus ordinaires qu’un thème puisse contenir.
+Près de la moitié des thèmes du décompte sur lequel s’appuie ce site en contiennent un : environ 4 personnes sur 9 nées entre 1930 et 2009 ont un petit trigone parmi les dix planètes, chaque aspect admis à 8° quand le Soleil ou la Lune en fait partie et à 6° sinon. Ajoutez l’ascendant, le milieu du ciel, Chiron, Lilith ou les nœuds, ou élargissez un peu les orbes, et il serait plus courant encore. C’est l’une des figures les plus ordinaires qu’un thème puisse contenir.
 
 Cela change ma façon de le lire. Une configuration aussi courante dit peu de chose à elle seule ; elle mérite l’attention quand elle répète ce que le reste du thème dit déjà, les mêmes planètes ou les mêmes maisons qui reviennent encore et encore. Les configurations naissent de la répétition, et un petit trigone est souvent un fil d’une répétition plus large plutôt que la chose elle-même.
 
 Quand il ressort, je le lis par sa planète du milieu. Le système que j’ai construit pour mes lectures décrit le trigone comme une circulation qui laisse chaque fonction intacte, et le sextile comme une coopération qu’il faut engager avant qu’elle devienne quelque chose. Dans un petit trigone, les deux bouts du trigone se soutiennent sans peine, et la planète du milieu se voit offrir une part de cette aisance par les deux, à condition de la saisir. Avec Mercure au milieu, la circulation devient souvent des mots et des projets ; avec Mars, de l’action ; avec Saturne, une structure qui dure.
 
-La maison de la planète du milieu montre où cela se passe, et elle demande l’heure de naissance, comme les maisons des deux autres. Une figure qui passe par la Lune peut aller et venir dans la journée. C’est pourquoi je [ne lis pas un thème sans l’heure de naissance](/blog/unknown-birth-time/), que la configuration soit courante ou rare.
+La maison de la planète du milieu montre où cela se passe, et elle demande l’heure de naissance, comme les maisons des deux autres. Une figure qui passe par la Lune peut aller et venir dans la journée. Si courante que soit la figure, j’[attends l’heure](/blog/unknown-birth-time/) avant de la lire, parce que son point de travail habite une maison.
 
 ## Ce qui aide {#ce-qui-aide}
 

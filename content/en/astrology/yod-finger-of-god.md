@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 5
 glyph: "⚻"
-definition: "A yod is a narrow triangle of three planets: two in sextile at its base, both quincunx a third at its point, the apex. Also called the finger of God, it describes a function that keeps adjusting to two others it shares nothing with: recalibration, not fate. About 1 person in 8 has one."
+definition: "A yod is a narrow triangle of three planets: two in sextile at its base, both quincunx a third at its point, the apex. Also called the finger of God, it describes a function that keeps adjusting to two others it shares nothing with: recalibration, not fate. My count finds one for about 1 person in 8."
 facts:
   - { k: "Shape", v: "A long, narrow triangle: two planets 60° apart, a third 150° from both" }
   - { k: "Aspects", v: "One sextile and two quincunxes" }

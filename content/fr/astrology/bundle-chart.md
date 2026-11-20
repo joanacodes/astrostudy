@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 19
 glyph: "✦"
-definition: "Un thème en faisceau a ses dix planètes serrées sur un tiers de la roue, 120° ou moins, environ quatre signes, et les deux tiers du thème vides. C’est la plus resserrée des sept formes de Marc Edmund Jones. J’y lis une concentration : l’attention rassemblée sur quelques domaines de vie. Environ 1 personne sur 56 en a un."
+definition: "Un thème en faisceau a ses dix planètes serrées sur un tiers de la roue, 120° ou moins, environ quatre signes, et les deux tiers du thème vides. C’est la plus resserrée des sept formes de Marc Edmund Jones. J’y lis une concentration : l’attention rassemblée sur quelques domaines de vie. Il est rare : environ 1 personne sur 56."
 facts:
   - { k: "Forme", v: "Les dix planètes sur 120° au plus : environ quatre signes" }
   - { k: "Aspects", v: "Aucun n’est nécessaire ; à l’intérieur, pas de place pour une opposition" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/bucket-chart", "/astrology/locomotive-chart", "/astrology/stellium", "/astrology/marc-edmund-jones", "/blog/unknown-birth-time"]
 faq:
   - q: "Qu’est-ce qu’un thème en faisceau ?"
-    a: "Un thème dont les dix planètes tiennent sur 120°, environ quatre signes, en laissant vides les deux tiers de la roue. Marc Edmund Jones l’a nommé parmi ses sept formes. J’y lis une concentration : l’attention rassemblée sur quelques domaines de vie, la partie vide du thème décrivant ce qui vous vient de l’extérieur."
+    a: "Un thème dont les dix planètes tiennent sur 120°, environ quatre signes, en laissant vides les deux tiers de la roue. Aucune forme du système de Marc Edmund Jones n’est plus serrée. J’y lis une concentration : l’attention rassemblée sur quelques domaines de vie, la partie vide du thème décrivant ce qui vous vient de l’extérieur."
   - q: "Le thème en faisceau est-il rare ?"
     a: "C’est la forme la plus rare de mon décompte : environ 1 personne sur 56 née entre 1930 et 2009 a ses dix planètes sur 120°. Cela n’arrive que lorsque les planètes les plus lentes se tiennent proches les unes des autres, ce qui dépend des années de naissance, et que les rapides se rassemblent du même côté."
   - q: "Un thème en faisceau, est-ce une vie étroite ?"
@@ -41,11 +41,11 @@ Un faisceau demande que le ciel s’y prête. Les planètes lentes doivent se te
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le décompte sur lequel s’appuie ce site a trouvé environ 1 personne sur 56 née entre 1930 et 2009 avec un faisceau, les dix planètes sur 120° : la plus rare des quatre formes qu’il examine. Déplacez cette limite de quelques degrés dans un sens ou dans l’autre, et la proportion bougerait nettement. Le décompte laisse aussi de côté l’ascendant, le milieu du ciel, Chiron, Lilith et les nœuds, qui peuvent tomber dans l’espace vide et lui donner un point à lui.
+Seule 1 personne sur 56 environ, parmi celles nées entre 1930 et 2009, a ses dix planètes sur 120° dans le décompte sur lequel s’appuie ce site, ce qui fait du faisceau la plus rare des quatre formes qu’il examine. Déplacez cette limite de quelques degrés dans un sens ou dans l’autre, et la proportion bougerait nettement. Le décompte laisse aussi de côté l’ascendant, le milieu du ciel, Chiron, Lilith et les nœuds, qui peuvent tomber dans l’espace vide et lui donner un point à lui.
 
 Les astrologues qui se servent de ces formes lisent le faisceau comme une concentration : quelqu’un qui se spécialise, persévère, va au fond de quelques choses. Je le dirais avec plus de prudence. Un faisceau montre où l’attention se rassemble, et elle a tendance à y rester longtemps, parce que chaque fonction du thème travaille dans les mêmes quelques signes et les mêmes maisons. Les deux tiers vides ne sont pas vides de vie : c’est par là qu’entrent les autres, les lieux, les expériences venues du dehors, plutôt que là où vos propres planètes se tiennent déjà. Un groupe aussi serré décrit toujours une insistance, pas un caractère, et je lis ses dix planètes une à une avant de lire le faisceau.
 
-Un faisceau de quatre signes peut occuper trois maisons ou cinq, et lesquelles décide de beaucoup : le même faisceau sur les maisons 10 et 11, ou sur les maisons 4 et 5, décrit deux vies différentes. Les maisons demandent l’heure de naissance, tout comme la Lune, qui peut se trouver juste à l’intérieur du faisceau ou juste à l’extérieur selon l’heure. C’est pourquoi j’[attends l’heure de naissance](/blog/unknown-birth-time/) avant de lire une forme, quelle qu’elle soit.
+Un faisceau de quatre signes peut occuper trois maisons ou cinq, et lesquelles décide de beaucoup : le même faisceau sur les maisons 10 et 11, ou sur les maisons 4 et 5, décrit deux vies différentes. Les maisons demandent l’heure de naissance, tout comme la Lune, qui peut se trouver juste à l’intérieur du faisceau ou juste à l’extérieur selon l’heure. Un faisceau sans ses maisons dit où vos planètes se rassemblent dans le zodiaque, mais pas dans votre vie : j’[attends donc l’heure de naissance](/blog/unknown-birth-time/) avant de le lire.
 
 ## Ce qui aide {#ce-qui-aide}
 

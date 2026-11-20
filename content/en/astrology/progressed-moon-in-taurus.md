@@ -18,7 +18,7 @@ faq:
   - q: "What does the progressed Moon in Taurus mean?"
     a: "That the Moon of your progressed chart is crossing Taurus, where tradition places it at its strongest. Astrologers read the chapter as one in which needs settle: steadiness, continuity and something solid to rely on matter more than novelty. I read it as an inner season, with no events written into it."
   - q: "How long does the progressed Moon stay in Taurus?"
-    a: "Two to two and a half years, usually about two years and four months, for births from 1930 to 2009. Its exaltation there doesn’t make the stay any longer: the length depends only on how fast the real Moon moved in the days after your birth."
+    a: "Exaltation or not, a Taurus chapter runs the usual course: two to two and a half years, most often about two years and four months, in my count of births from 1930 to 2009. Only the real Moon’s speed in the days after your birth makes yours shorter or longer."
   - q: "Is the progressed Moon strong in Taurus?"
     a: "By tradition, yes: Taurus is the Moon’s exaltation, the sign where the old books say it is especially well received. I read that as needs that find solid ground more easily in these years, not as a promise that life will be easy; the weather of a chapter still depends on the whole chart."
   - q: "When will my progressed Moon be in Taurus?"
@@ -39,7 +39,7 @@ Inside the chapter there are shorter passages. Crossing Taurus, the progressed M
 
 ## How long it lasts {#how-long-it-lasts}
 
-For births from 1930 to 2009, the progressed Moon spent between two and two and a half years in Taurus, usually about two years and four months, the same span as in any other sign: exaltation doesn’t slow it. What sets your own length is the real Moon’s speed in the days after you were born, a day of its travel for each year of the chapter.
+Steady as it feels, the Taurus chapter is no slower than the others: for births from 1930 to 2009, the progressed Moon spent between two and two and a half years there, usually about two years and four months. What sets your own length is the real Moon’s speed in the days after you were born, a day of its travel for each year of the chapter.
 
 It comes in from the [progressed Moon in Aries](/astrology/progressed-moon-in-aries/) and moves on to the [progressed Moon in Gemini](/astrology/progressed-moon-in-gemini/), and it won’t be back in Taurus for about 27 years, the time the progressed Moon needs to go round the whole zodiac. That long return is one reason to notice the chapter while you are in it.
 

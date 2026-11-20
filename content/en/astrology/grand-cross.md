@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 3
 glyph: "⊞"
-definition: "A grand cross is four planets in two oppositions that cross the chart, each planet square its two neighbours, usually in signs of one modality. It describes tension held on four sides at once: steady effort, and often a wide range of responses, never failure. About 1 person in 80 has one among the ten planets."
+definition: "A grand cross is four planets in two oppositions that cross the chart, each planet square its two neighbours, usually in signs of one modality. It describes tension held on four sides at once: steady effort, and often a wide range of responses, never failure. Only about 1 person in 80 is born with one."
 facts:
   - { k: "Shape", v: "A square with both diagonals: four planets about 90° apart" }
   - { k: "Aspects", v: "Two oppositions and four squares" }

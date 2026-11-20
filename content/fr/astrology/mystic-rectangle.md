@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 8
 glyph: "▭"
-definition: "Un rectangle mystique, ce sont quatre planètes en deux oppositions, reliées sur les côtés par deux sextiles et deux trigones, qui dessinent un rectangle en travers du thème. Il décrit une tension tenue dans un cadre de soutien : deux polarités, avec des liens faciles entre leurs bouts. Environ 1 personne sur 28 en a un."
+definition: "Un rectangle mystique, ce sont quatre planètes en deux oppositions, reliées sur les côtés par deux sextiles et deux trigones : un rectangle en travers du thème. Il décrit une tension tenue dans un cadre de soutien : deux polarités, avec des liens faciles entre leurs bouts. Quatre planètes doivent tomber juste, et environ 1 personne sur 28 en a un."
 facts:
   - { k: "Forme", v: "Un rectangle : grands côtés de 120°, petits côtés de 60°, diagonales de 180°" }
   - { k: "Aspects", v: "Deux oppositions, deux trigones et deux sextiles" }
@@ -23,7 +23,7 @@ faq:
   - q: "Pourquoi l’appelle-t-on rectangle mystique ?"
     a: "Je n’ai pas trouvé l’origine du nom dans une source que j’aie pu vérifier : je ne vais donc pas en inventer une. La géométrie, elle, est simple : un rectangle d’aspects doux autour de deux oppositions. Rien n’y est plus mystérieux que le reste d’un thème, et je le lis de la même façon, planète par planète."
   - q: "Le rectangle mystique est-il rare ?"
-    a: "Dans mon décompte des naissances de 1930 à 2009, environ 1 personne sur 28 en a un parmi les dix planètes, avec des orbes de 8° quand le Soleil ou la Lune en fait partie et de 6° sinon. Les angles, Chiron et les nœuds n’ont pas été comptés, et un orbe plus large en trouverait davantage."
+    a: "Assez : mon décompte le trouve chez environ 1 personne sur 28 née entre 1930 et 2009, parmi les dix planètes. Les quatre planètes doivent tomber en même temps dans des signes d’une même polarité ; Chiron, les nœuds et les angles pourraient compléter d’autres rectangles, mais n’ont pas été comptés."
   - q: "Dans quels signes tombe un rectangle mystique ?"
     a: "Le plus souvent dans quatre signes d’une même polarité : deux de feu et deux d’air, ou deux de terre et deux d’eau. Chaque aspect de la figure relie des signes distants d’un nombre pair, deux, quatre ou six, et ceux-là partagent toujours une polarité. En fin de signe, un coin peut déborder et rompre ce bel ordre."
 sources:
@@ -42,7 +42,7 @@ Le [cerf-volant](/astrology/kite/) accroche une opposition à un grand trigone�
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 28 née entre 1930 et 2009 a un rectangle mystique parmi les dix planètes, dans le décompte sur lequel s’appuie ce site, chaque aspect étant compté à 8° près quand le Soleil ou la Lune en fait partie et à 6° près sinon. Quatre planètes doivent tomber exactement aux bons endroits : la figure est donc sensible aux orbes, un peu plus de latitude trouve beaucoup de rectangles lâches, un peu moins ne garde que les serrés. Le décompte ne voit pas un rectangle complété par un angle, Chiron, Lilith ou un nœud.
+Quatre planètes doivent tomber exactement aux bons endroits en même temps, et le décompte sur lequel s’appuie ce site trouve cela dans environ 1 thème sur 28 pour les personnes nées entre 1930 et 2009, parmi les dix planètes, avec 8° quand le Soleil ou la Lune y prend part et 6° pour le reste. Cette précision rend la figure sensible aux orbes : un peu plus de latitude trouve beaucoup de rectangles lâches, un peu moins ne garde que les serrés. Le décompte ne voit pas un rectangle complété par un angle, Chiron, Lilith ou un nœud.
 
 Le système que j’ai construit pour mes lectures décrit l’opposition comme une polarité, deux fonctions rendues conscientes l’une de l’autre pour être intégrées plutôt que combattues ; le trigone comme une circulation, et le sextile comme une ouverture qu’il faut saisir. Je lis un rectangle mystique comme deux tensions tenues dans un cadre. Chaque opposition tire de son côté, et les côtés doux donnent à chaque bout une ligne facile vers un bout de l’autre. Dans une vie, cela peut ressembler à quelqu’un capable de porter deux grandes questions à la fois sans se disperser. Le cadre a son propre risque : le soutien peut faire tourner la tension au lieu de la régler, parce que les côtés doux permettent de glisser d’une traction à l’autre sans jamais répondre à aucune. Une seule figure ne décide pas du thème, pour autant. Je lis d’abord ses quatre planètes dans leurs signes, et le rectangle comme leur façon de se parler.
 

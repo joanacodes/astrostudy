@@ -17,9 +17,9 @@ facts:
 related: ["/astrology/progressed-moon", "/astrology/cancer", "/astrology/moon-in-cancer", "/astrology/can-astrology-predict-pregnancy", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire la Lune progressée en Cancer ?"
-    a: "Que la Lune de votre thème progressé traverse le Cancer, le signe qu’elle gouverne. Les astrologues lisent ces deux ans environ comme un chapitre centré sur l’appartenance : le foyer, la famille, la proximité et le soin, donné et reçu. J’y lis une météo intérieure dans une part de votre thème, jamais un événement en route."
+    a: "Que votre Lune progressée est rentrée chez elle : elle traverse le Cancer, le signe que gouverne la Lune. Les astrologues lisent ces deux ans environ comme un chapitre centré sur l’appartenance : le foyer, la famille, la proximité et le soin, donné et reçu. J’y lis une météo intérieure dans une part de votre thème, jamais un événement en route."
   - q: "Combien de temps la Lune progressée reste-t-elle en Cancer ?"
-    a: "Deux ans et quatre mois environ en règle générale, et entre deux ans et deux ans et demi pour toutes les naissances que j’ai comptées de 1930 à 2009. Être dans son propre signe n’allonge pas le séjour ; c’est la vitesse de la Lune dans les jours qui ont suivi votre naissance qui en décide."
+    a: "Être chez elle ne fait pas s’attarder la Lune : dans mon décompte des naissances de 1930 à 2009, son chapitre Cancer a duré deux ans à deux ans et demi, deux ans et quatre mois environ en règle générale. Votre propre durée dépend de la vitesse de la Lune dans les jours qui ont suivi votre naissance."
   - q: "La Lune progressée en Cancer annonce-t-elle une grossesse ?"
     a: "Non. La tradition liait la Lune aux mères et le Cancer à la famille, d’où cette idée répandue, mais aucune progression ne prédit une grossesse et je n’en lis jamais ainsi. Le chapitre décrit votre propre besoin de proximité et d’un foyer, quelle que soit la personne avec qui vous le partagez."
   - q: "Et si ma Lune natale est aussi en Cancer ?"
@@ -40,7 +40,7 @@ La tradition associait la Lune aux mères et le Cancer à la famille, et l’on 
 
 ## Combien de temps {#combien-de-temps}
 
-Son propre signe ne la retient pas plus longtemps. Pour les naissances de 1930 à 2009, la Lune progressée a passé entre deux ans et deux ans et demi en Cancer, le plus souvent deux ans et quatre mois environ, autant d’années que la vraie Lune avait mis de jours à traverser le signe après chaque naissance. Si vous voulez vos propres dates, un thème progressé montre le mois où la Lune entre en Cancer et celui où elle en sort ; elles ne sont pas plus précises que l’heure de naissance dont elles partent.
+Son propre signe ne la retient pas plus longtemps. Pour les naissances que j’ai comptées, de 1930 à 2009, ce retour chez elle a duré entre deux ans et deux ans et demi, le plus souvent deux ans et quatre mois environ, autant d’années que la vraie Lune avait mis de jours à traverser le Cancer après chaque naissance. Si vous voulez vos propres dates, un thème progressé montre le mois où la Lune entre en Cancer et celui où elle en sort ; elles ne sont pas plus précises que l’heure de naissance dont elles partent.
 
 Elle vient après la [Lune progressée en Gémeaux](/astrology/progressed-moon-in-gemini/) et avant la [Lune progressée en Lion](/astrology/progressed-moon-in-leo/). Avec une [Lune en Cancer](/astrology/moon-in-cancer/) à la naissance, c’est un double retour : la Lune progressée revient dans son signe natal tous les 27 ans environ, le temps d’un tour du zodiaque, et son premier séjour, depuis la naissance, n’était qu’une partie de traversée, puisqu’il commençait là où se tenait votre Lune. Les derniers mois d’un chapitre Cancer peuvent ressembler à une sortie de coquille, et c’est là que le Lion prend le relais.
 

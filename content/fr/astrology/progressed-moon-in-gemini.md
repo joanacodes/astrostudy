@@ -19,7 +19,7 @@ faq:
   - q: "Que veut dire la Lune progressée en Gémeaux ?"
     a: "Que votre Lune progressée, le repère du thème pour l’humeur d’un chapitre, traverse les Gémeaux. Les astrologues lisent ces années comme un temps où les besoins passent par les mots, les idées et les gens : comprendre ce que l’on ressent en en parlant. J’y lis une météo intérieure, pas l’annonce de ce qui arrivera."
   - q: "Combien de temps la Lune progressée reste-t-elle en Gémeaux ?"
-    a: "Le plus souvent deux ans et quatre mois environ, et entre deux ans et deux ans et demi pour toutes les naissances que j’ai comptées de 1930 à 2009. La vraie Lune traverse les Gémeaux en deux jours et demi environ ; chacun de ces jours après votre naissance devient une année du chapitre."
+    a: "La vraie Lune traverse les Gémeaux en deux jours et demi environ ; dans le thème progressé, chacun de ces jours après votre naissance devient une année : le chapitre dure donc deux ans à deux ans et demi, le plus souvent deux ans et quatre mois environ, dans mon décompte des naissances de 1930 à 2009."
   - q: "La Lune progressée en Gémeaux, est-ce un bon moment pour étudier ?"
     a: "Les astrologues y lisent souvent un chapitre curieux : apprendre peut sembler naturel pendant ces années, mais rien dans une progression ne décide de ce que vous devriez entreprendre ni de la façon dont cela tournera. Si l’étude vous attire, le chapitre peut s’y prêter ; le choix et l’effort restent les vôtres."
   - q: "La maison compte-t-elle pour la Lune progressée en Gémeaux ?"

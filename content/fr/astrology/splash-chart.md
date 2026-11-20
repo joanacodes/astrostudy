@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 22
 glyph: "✦"
-definition: "Un thème dispersé a ses planètes réparties sur toute la roue plutôt que rassemblées dans une partie : plutôt une absence de forme qu’une forme. C’est l’une des sept formes de Marc Edmund Jones. J’y lis de l’ampleur, une attention partagée entre de nombreux domaines de vie. Les auteurs le définissent trop différemment pour un décompte."
+definition: "Un thème dispersé a ses planètes réparties sur toute la roue plutôt que rassemblées dans une partie : plutôt une absence de forme qu’une forme. Des sept formes de Marc Edmund Jones, c’est la moins dessinée. J’y lis de l’ampleur, une attention partagée entre de nombreux domaines de vie. Sa définition varie trop d’un auteur à l’autre pour un décompte."
 facts:
   - { k: "Forme", v: "Des planètes réparties sur toute la roue, dans de nombreux signes" }
   - { k: "Aspects", v: "Aucun n’est requis : c’est la répartition des planètes" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/seesaw-chart", "/astrology/splay-chart", "/astrology/chart-ruler", "/astrology/marc-edmund-jones", "/blog/unknown-birth-time"]
 faq:
   - q: "Qu’est-ce qu’un thème dispersé ?"
-    a: "Un thème dont les planètes sont réparties sur toute la roue au lieu d’être rassemblées dans une partie, si bien qu’aucun grand espace ne reste vide. Marc Edmund Jones l’a compté parmi ses sept formes. J’y lis de l’ampleur : un intérêt et une attention partagés entre de nombreux domaines de vie."
+    a: "Un thème dont les planètes sont réparties sur toute la roue au lieu d’être rassemblées dans une partie, si bien qu’aucun grand espace ne reste vide. Des formes décrites par Marc Edmund Jones, c’est la plus lâche. J’y lis de l’ampleur : un intérêt et une attention partagés entre de nombreux domaines de vie."
   - q: "Un thème dispersé manque-t-il de concentration ?"
     a: "Pas forcément. Les astrologues qui se servent de cette forme préviennent que l’énergie peut s’éparpiller entre trop de choses, et c’est possible. Mais l’ampleur, c’est aussi une palette : la capacité de rencontrer toutes sortes de gens et de situations. La concentration vient des choix, et des planètes les plus fortes du thème, pas de la forme."
   - q: "Pourquoi n’y a-t-il pas de décompte pour le thème dispersé ?"

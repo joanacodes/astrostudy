@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 20
 glyph: "✦"
-definition: "Un thème en locomotive a ses dix planètes sur deux tiers de la roue, 240° ou moins, et un tiers vide, comme un train avec de la voie libre devant lui. C’est l’une des sept formes de Marc Edmund Jones, la plus courante de mon décompte, et une planète mène le train. Environ 2 personnes sur 5 en ont un."
+definition: "Un thème en locomotive a ses dix planètes sur deux tiers de la roue, 240° ou moins, et un tiers vide, comme un train devant une voie libre. C’est l’une des sept formes de Marc Edmund Jones, et une planète mène le train. Aucune forme n’est plus courante dans mon décompte : environ 2 personnes sur 5 en ont un."
 facts:
   - { k: "Forme", v: "Les dix planètes sur 240° au plus ; un tiers vide d’environ quatre signes" }
   - { k: "Aspects", v: "Aucun n’est nécessaire : c’est la répartition des planètes" }
@@ -21,7 +21,7 @@ faq:
   - q: "Qu’est-ce qu’un thème en locomotive ?"
     a: "Un thème dont les dix planètes tiennent sur deux tiers de la roue, en laissant un tiers vide d’environ quatre signes. Marc Edmund Jones a nommé cette forme d’après un train, les planètes en wagons et l’une d’elles en tête. Je lis le tiers vide comme de la voie libre : un espace vers lequel le thème ne cesse d’avancer."
   - q: "Le thème en locomotive est-il fréquent ?"
-    a: "C’est la forme la plus courante de mon décompte : environ 2 personnes sur 5 nées entre 1930 et 2009 ont leurs dix planètes sur 240° mais pas sur 180°. La règle est simple, et les thèmes proches de ses limites changent de forme pour quelques degrés ; les angles et Chiron n’ont pas été comptés."
+    a: "Plus que toute autre forme de mon décompte : environ 2 personnes sur 5 nées entre 1930 et 2009 ont leurs dix planètes sur 240°, mais pas sur 180°. Une règle aussi simple a des bords nets : les thèmes qui en sont proches peuvent changer de forme pour quelques degrés."
   - q: "Qu’est-ce que la planète de tête d’une locomotive ?"
     a: "La planète à l’avant du groupe : la première après le tiers vide, dans le sens des aiguilles d’une montre, celui dans lequel le thème tourne chaque jour. Les astrologues qui se servent de cette forme lui donnent plus de poids, comme la planète qui tire les autres. Je la lis de près, comme une voix forte parmi dix."
   - q: "Un thème en locomotive veut-il dire une personne très motivée ?"
@@ -43,11 +43,11 @@ Rassemblez les wagons sur un tiers du cercle, et le thème devient un [thème en
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le décompte sur lequel s’appuie ce site a trouvé la locomotive chez environ 2 personnes sur 5 nées entre 1930 et 2009 : les dix planètes sur 240°, mais pas sur 180°, ce que le décompte laisse au bol et au faisceau. C’est la plus courante des quatre formes qu’il examine. La règle est simple, et les thèmes proches de ses limites changent de forme pour quelques degrés ; l’ascendant, le milieu du ciel, Chiron, Lilith et les nœuds n’ont pas été comptés, et chacun peut se trouver dans le tiers vide.
+Dans le décompte sur lequel s’appuie ce site, la locomotive l’emporte sur toutes les autres formes : environ 2 personnes sur 5 nées entre 1930 et 2009 ont leurs dix planètes sur 240° mais pas sur 180°, ce que le décompte laisse au bol et au faisceau. La règle est simple, et les thèmes proches de ses limites changent de forme pour quelques degrés ; l’ascendant, le milieu du ciel, Chiron, Lilith et les nœuds n’ont pas été comptés, et chacun peut se trouver dans le tiers vide.
 
 Les astrologues qui se servent de ces formes lisent la locomotive comme un élan : un thème qui pousse vers ce qui lui manque, sa planète de tête donnant l’allure, et beaucoup de choses reposant sur elle. Je garde l’image, en la tenant dans ses proportions. Le tiers vide est la direction vers laquelle le thème ne cesse d’avancer, l’expérience qu’il va chercher. La planète de tête a droit à un regard plus attentif, par sa fonction, son signe et sa maison, parce que c’est là que le train rencontre la voie libre. Mais une planète à l’avant ne décide pas d’un thème, et aucune forme ne fixe un caractère : un groupe ou un étalement décrit une insistance, que les planètes elles-mêmes doivent confirmer.
 
-L’endroit où tombe le tiers vide demande l’heure de naissance : au-dessus ou au-dessous de l’horizon, à l’est ou à l’ouest ([hémisphères du thème](/astrology/hemisphere-emphasis/)), et sur quelles maisons. La Lune compte aussi, puisqu’elle peut être la planète qui mène le train ou celle qui le ferme, et sa place change d’un signe environ tous les deux jours et demi. C’est pourquoi je [ne lis la forme qu’avec l’heure de naissance](/blog/unknown-birth-time/).
+L’endroit où tombe le tiers vide demande l’heure de naissance : au-dessus ou au-dessous de l’horizon, à l’est ou à l’ouest ([hémisphères du thème](/astrology/hemisphere-emphasis/)), et sur quelles maisons. La Lune compte aussi, puisqu’elle peut être la planète qui mène le train ou celle qui le ferme, et sa place change d’un signe environ tous les deux jours et demi. Sans l’heure, je ne pourrais pas vous dire vers quelle partie de votre vie roule le train : je [ne le lis qu’avec l’heure de naissance](/blog/unknown-birth-time/).
 
 ## Ce qui aide {#ce-qui-aide}
 

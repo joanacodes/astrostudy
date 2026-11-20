@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 93
 glyph: "☉♏☽♐"
-definition: "Sun in Scorpio, Moon in Sagittarius sets the Moon in the sign that follows the Sun’s, a few days after a new moon, usually one in Scorpio. I read the pair as an identity that dives deep, with needs that settle once there is space, meaning and a horizon to look towards."
+definition: "Sun in Scorpio, Moon in Sagittarius is a birth in the days just after a new moon, usually one in Scorpio, with the Moon already into the next sign. I read the pair as an identity that dives deep, with needs that settle once there is space, meaning and a horizon to look towards."
 facts:
   - { k: "Sun sign", v: "Scorpio ♏, ruled by Pluto and Mars" }
   - { k: "Moon sign", v: "Sagittarius ♐, ruled by Jupiter" }
@@ -20,7 +20,7 @@ faq:
   - q: "Can a Scorpio Sun and a Sagittarius Moon work together?"
     a: "Yes, once each has its turn. The Scorpio Sun goes deep, holds on and keeps its counsel; the Sagittarius Moon needs air, candour and a next horizon. They are neighbours with different elements and tempos, so they take turns rather than blend: the dive, then the air, then the meaning."
   - q: "Does a Sagittarius Moon with a Scorpio Sun mean a fresh lunar month?"
-    a: "Yes. You were born no more than about five days into the lunar month, usually one opened by a new moon in Scorpio, with the Moon 1° to 59° past the Sun. Seven births in eight here fall in the new moon phase; the rest come in the waxing crescent, once the crescent stands clear of the sunset."
+    a: "Yes. Your birthday fell within the first five days or so of the lunar month, usually one opened by a new moon in Scorpio, with the Moon 1° to 59° past the Sun. Seven births in eight here fall in the new moon phase; the rest come in the waxing crescent, once the crescent stands clear of the sunset."
   - q: "What helps a Scorpio Sun with a Sagittarius Moon after a hard time?"
     a: "Going through it first, then room. The Scorpio Sun needs to feel what happened fully, without hurrying; the Sagittarius Moon then needs space, movement and a larger view in which the experience makes sense. A journey, a good book or a frank talk with a friend often helps more than staying alone with the feeling."
 sources:
@@ -32,13 +32,13 @@ After the dive, the open air. Your Sun in Scorpio goes down into what is difficu
 
 ## How they get along {#how-they-get-along}
 
-Sagittarius follows Scorpio round the zodiac, a [semi-sextile](/astrology/semi-sextile/) by sign, so the lights differ in element and in pace: fixed water, mutable fire. The [Sun in Scorpio](/astrology/sun-in-scorpio/) holds on, goes deep and says little about it; the [Moon in Sagittarius](/astrology/moon-in-sagittarius/) settles when it has room to roam, frank talk and somewhere new in view. One light dives, the other surfaces, and much of your life is the rhythm between them.
+Sagittarius follows Scorpio round the zodiac, a [semi-sextile](/astrology/semi-sextile/) by sign, so the lights differ in element and in pace: fixed water, mutable fire. The [Sun in Scorpio](/astrology/sun-in-scorpio/) holds on, goes deep and says little about it; the [Moon in Sagittarius](/astrology/moon-in-sagittarius/) is happiest with room to roam, frank talk and somewhere new in view. One light dives, the other surfaces, and much of your life is the rhythm between them.
 
-[Jupiter](/astrology/jupiter/) rules your Moon's sign, so where Jupiter sits by sign and house tells you where you go looking for meaning, and where you go to breathe. On the Sun's side there are two rulers and I read both: [Mars](/astrology/mars/), from the older books, for the force you bring to hard things, and [Pluto](/astrology/pluto/), from modern astrology, for what you will let end so that it can be rebuilt. Jupiter's generosity and Pluto's intensity meet in this pair, and where they agree, a crisis tends to become a lesson rather than a wound.
+[Jupiter](/astrology/jupiter/) rules your Moon's sign, so where Jupiter sits by sign and house tells you where you hunt for meaning, and where you go to breathe. On the Sun's side, Scorpio has a ruler from each tradition, and I read both: [Mars](/astrology/mars/), from the older books, for the force you bring to hard things, and [Pluto](/astrology/pluto/), from modern astrology, for what you will let end so that it can be rebuilt. Jupiter's generosity and Pluto's intensity meet in this pair, and where they agree, a crisis tends to become a lesson rather than a wound.
 
-Your birth came at most five days or so after a new moon, with the Moon 1° to 59° past the Sun, and the conjunction behind it usually fell in Scorpio, a [new moon in Scorpio](/astrology/new-moon-in-scorpio/). Counted in eight phases, nearly all of these are [new moon](/astrology/new-moon/) births, with a few, about an eighth, in the [waxing crescent](/astrology/waxing-crescent/); and at the very start of the range, a Moon only just into Sagittarius can still be conjunct a Sun in the last degrees of Scorpio. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) describes this opening stretch of the month.
+Your birth came at most five days or so after a new moon; the Moon was 1° to 59° past the Sun, and the conjunction behind it usually fell in Scorpio, a [new moon in Scorpio](/astrology/new-moon-in-scorpio/). Counted in eight phases, nearly all of these are [new moon](/astrology/new-moon/) births, with a few, about an eighth, in the [waxing crescent](/astrology/waxing-crescent/); and in the earliest of these births, a Moon only just into Sagittarius can still be conjunct a Sun in the last degrees of Scorpio. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) describes this opening stretch of the month.
 
-One person in 146 or so is born with the Moon just past the Sun and into Sagittarius. A few hours on the day the Moon changed sign can decide between this page, the [Sun in Scorpio, Moon in Scorpio](/astrology/sun-in-scorpio-moon-in-scorpio/) and the [Sun in Scorpio, Moon in Capricorn](/astrology/sun-in-scorpio-moon-in-capricorn/); settling that is the birth time's job ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)). Your houses hang on that time too, and they show where in your life you dive and where you come up for air.
+One person in 146 or so is born with the Moon just past the Sun and into Sagittarius. A few hours on the day the Moon changed sign can decide between this page, the [Sun in Scorpio, Moon in Scorpio](/astrology/sun-in-scorpio-moon-in-scorpio/) and the [Sun in Scorpio, Moon in Capricorn](/astrology/sun-in-scorpio-moon-in-capricorn/); settling that is the birth time's job ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)). Your houses come from that hour as well; they show where in your life you dive and where you come up for air.
 
 ## In close relationships {#in-close-relationships}
 

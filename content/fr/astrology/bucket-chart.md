@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 18
 glyph: "✦"
-definition: "Un thème en seau a neuf planètes dans une moitié de la roue et la dixième seule dans l’autre, comme une anse. C’est l’une des sept formes de Marc Edmund Jones. On donne souvent plus de poids à cette anse ; je la regarde de plus près, sans lui donner le dernier mot. Environ 1 personne sur 3 en a un."
+definition: "Un thème en seau a neuf planètes dans une moitié de la roue et la dixième seule dans l’autre, comme une anse. Marc Edmund Jones lui a donné son nom. Je regarde l’anse de près, sans lui laisser le dernier mot. Selon la règle simple du décompte, 1 thème sur 3 environ est un seau."
 facts:
   - { k: "Forme", v: "Neuf planètes sur 180°, la dixième seule en dehors" }
   - { k: "Aspects", v: "Aucun n’est nécessaire : c’est la répartition des planètes" }
@@ -19,9 +19,9 @@ facts:
 related: ["/astrology/bowl-chart", "/astrology/bundle-chart", "/astrology/singletons", "/astrology/marc-edmund-jones", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Qu’est-ce qu’un thème en seau ?"
-    a: "Un thème dont neuf planètes se rassemblent dans une moitié de la roue, la dixième se tenant seule de l’autre côté. Les neuf forment le seau ; la planète isolée en est l’anse. Marc Edmund Jones a nommé cette forme. Je lis l’anse comme une planète qui attire vers elle une bonne part de l’attention du thème."
+    a: "Un thème dont neuf planètes se rassemblent dans une moitié de la roue, la dixième se tenant seule de l’autre côté. Les neuf forment le seau ; la planète isolée en est l’anse. Le nom vient de Marc Edmund Jones. Je lis l’anse comme une planète qui attire vers elle une bonne part de l’attention du thème."
   - q: "Le thème en seau est-il fréquent ?"
-    a: "Oui. Dans mon décompte des naissances de 1930 à 2009, environ 1 personne sur 3 a neuf planètes sur 180° et la dixième en dehors. La règle est simple et retient beaucoup de thèmes ; une règle plus stricte en trouverait moins. Les angles et Chiron n’en faisaient pas partie."
+    a: "Oui. Environ un tiers des personnes de mon décompte, nées entre 1930 et 2009, ont neuf planètes sur 180° et la dixième en dehors. La règle est simple et retient beaucoup de thèmes ; une règle plus stricte en trouverait moins."
   - q: "Que veut dire la planète de l’anse d’un thème en seau ?"
     a: "C’est la planète isolée, face aux neuf autres de l’autre côté du thème. Les astrologues qui se servent de cette forme lui donnent plus de poids, comme le point sur lequel tout le thème s’appuie. Je la regarde de près, par sa fonction, son signe et sa maison, mais une seule planète ne décide jamais d’un thème."
   - q: "Un thème peut-il être à la fois en seau et en locomotive ?"
@@ -45,7 +45,7 @@ Environ 1 personne sur 3 née entre 1930 et 2009 a un seau dans le décompte sur
 
 Les astrologues qui se servent de ces formes donnent plus de poids à la planète de l’anse : le point sur lequel tout le thème s’appuie, la fonction qui tire l’énergie du groupe vers un seul but. Je la regarde de plus près, sans lui donner le dernier mot. Le système que j’ai construit pour mes lectures tient qu’aucun facteur ne décide seul de ce qui domine un thème : je lis donc l’anse par sa fonction, son signe et sa maison, puis je regarde si le reste du thème répète ce qu’elle dit. Quand Saturne fait l’anse, j’y passe plus de temps : Saturne a fait partie des trois placements qui ont tenu 75 à 90 % du temps dans [mon carnet](/blog/i-tested-my-birth-chart/), pour moi comme pour les personnes que j’ai testées.
 
-La maison de l’anse demande l’heure de naissance, tout comme la question de savoir quelle moitié le seau occupe. La Lune complique les choses à sa façon. Elle peut passer du groupe au côté vide en un jour ou deux : certains jours de naissance, c’est l’heure qui décide si la Lune fait l’anse ou fait partie du seau. C’est l’une des raisons pour lesquelles je [ne lis rien sans l’heure de naissance](/blog/unknown-birth-time/).
+La maison de l’anse demande l’heure de naissance, tout comme la question de savoir quelle moitié le seau occupe. La Lune complique les choses à sa façon. Elle peut passer du groupe au côté vide en un jour ou deux : certains jours de naissance, c’est l’heure qui décide si la Lune fait l’anse ou fait partie du seau. Sans la maison de l’anse, il n’y a pas de seau à lire, et c’est pourquoi je [demande d’abord l’heure de naissance](/blog/unknown-birth-time/).
 
 ## Ce qui aide {#ce-qui-aide}
 

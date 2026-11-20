@@ -17,9 +17,9 @@ facts:
 related: ["/astrology/progressed-moon", "/astrology/capricorn", "/astrology/moon-in-capricorn", "/astrology/saturn", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire la Lune progressée en Capricorne ?"
-    a: "Que votre Lune progressée traverse le Capricorne, signe de terre gouverné par Saturne et, selon la tradition, exil de la Lune. Les astrologues lisent ces deux ans environ comme un chapitre sérieux : des besoins comblés par la responsabilité, la structure et un travail qui dure. J’y lis une météo intérieure, une chaleur qui passe par les actes, sans événement annoncé."
+    a: "Que votre Lune progressée fait l’ascension du Capricorne, signe de terre gouverné par Saturne et, selon la tradition, exil de la Lune. Les astrologues lisent ces deux ans environ comme un chapitre sérieux : des besoins comblés par la responsabilité, la structure et un travail qui dure. J’y lis une météo intérieure, une chaleur qui passe par les actes, sans événement annoncé."
   - q: "Combien de temps la Lune progressée reste-t-elle en Capricorne ?"
-    a: "Entre deux ans et deux ans et demi dans mon décompte des naissances de 1930 à 2009, le plus souvent deux ans et quatre mois environ. L’exil ne la ralentit pas ; le séjour dépend de la vitesse de la vraie Lune dans les jours qui ont suivi votre naissance."
+    a: "L’ascension prend deux ans à deux ans et demi dans mon décompte des naissances de 1930 à 2009, le plus souvent deux ans et quatre mois environ. L’exil ne la ralentit pas ; le séjour dépend de la vitesse de la vraie Lune dans les jours qui ont suivi votre naissance."
   - q: "La Lune progressée en Capricorne, est-ce une période dure ?"
     a: "Elle peut sembler exigeante, et la tradition voit dans le Capricorne l’exil de la Lune, mais je ne la lis pas comme un chapitre froid ou malheureux. Les émotions se montrent dans ce que vous faites, et la responsabilité peut devenir une source de stabilité. Le plus difficile, souvent, c’est de tout porter sans aide."
   - q: "Quel rôle joue Saturne pour la Lune progressée en Capricorne ?"
@@ -40,7 +40,7 @@ L’endroit où se rassemble le travail du chapitre dépend de la maison que tra
 
 ## Combien de temps {#combien-de-temps}
 
-Pour les naissances de 1930 à 2009, la Lune progressée a mis entre deux ans et deux ans et demi à traverser le Capricorne, le plus souvent deux ans et quatre mois environ ; l’exil ne la fait pas s’attarder, si longue que paraisse la montée. Votre propre durée suit la vitesse de la vraie Lune dans les jours qui ont suivi votre naissance, un jour de sa course pour chaque année du chapitre.
+Pour les naissances de 1930 à 2009, la Lune progressée a mis entre deux ans et deux ans et demi à traverser le Capricorne, le plus souvent deux ans et quatre mois environ ; l’exil ne la fait pas s’attarder, si longue que paraisse la montée. La durée du vôtre s’est décidée dans les premiers jours de votre vie, à l’allure de la vraie Lune.
 
 Elle vient après la [Lune progressée en Sagittaire](/astrology/progressed-moon-in-sagittarius/) et avant la [Lune progressée en Verseau](/astrology/progressed-moon-in-aquarius/) : la vision, puis la structure, puis la question de savoir pour qui la structure est faite. Le Capricorne est le dixième des douze signes : il ne reste au tour d’environ 27 ans que le Verseau et les Poissons avant qu’il recommence en Bélier. Avec une [Lune en Capricorne](/astrology/moon-in-capricorn/) à la naissance, vous vivez depuis toujours avec ce besoin d’appui ; le chapitre lui donne une saison à lui.
 

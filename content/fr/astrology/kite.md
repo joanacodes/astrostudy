@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 7
 glyph: "△☍"
-definition: "Un cerf-volant est un grand trigone auquel s’ajoute une quatrième planète, opposée à un sommet et en sextile avec les deux autres. L’opposition donne à l’aisance du triangle une direction et un point d’effort : le talent a quelque chose à faire. Environ 1 personne sur 19 née entre 1930 et 2009 en a un parmi les dix planètes."
+definition: "Un cerf-volant est un grand trigone auquel s’ajoute une quatrième planète, opposée à un sommet et en sextile avec les deux autres. L’opposition donne à l’aisance du triangle une direction et un point d’effort : le talent a quelque chose à faire. Jamais plus fréquent que le grand trigone dont il a besoin, il apparaît dans environ 1 thème sur 19."
 facts:
   - { k: "Forme", v: "Un grand trigone avec une queue : une quatrième planète opposée à un sommet" }
   - { k: "Aspects", v: "Trois trigones, une opposition et deux sextiles" }
@@ -21,7 +21,7 @@ faq:
   - q: "Qu’est-ce qu’un cerf-volant en astrologie ?"
     a: "Une configuration de quatre planètes : trois en grand trigone, et une quatrième opposée à l’une d’elles, en sextile avec les deux autres. Tracée sur le thème, elle a l’allure d’un cerf-volant, avec l’opposition pour arête. J’y lis un talent facile à qui l’on donne un but : c’est l’opposition qui met le triangle en mouvement."
   - q: "Le cerf-volant est-il rare ?"
-    a: "Dans mon décompte des naissances de 1930 à 2009, environ 1 personne sur 19 en a un parmi les dix planètes, avec des orbes de 8° quand le Soleil ou la Lune en fait partie et de 6° sinon. Un cerf-volant demande d’abord un grand trigone : il ne peut donc jamais être plus fréquent que lui."
+    a: "Il lui faut d’abord un grand trigone : il ne peut donc jamais être plus fréquent que lui. Dans mon décompte des naissances de 1930 à 2009, environ 1 personne sur 19 a un cerf-volant parmi les dix planètes, avec 8° pour le Soleil et la Lune et 6° pour les autres."
   - q: "Que fait la planète opposée au grand trigone ?"
     a: "Elle fait face à un sommet à travers le thème et forme un sextile avec les deux autres : elle est reliée à tout le triangle. J’y lis le point d’effort du cerf-volant : l’opposition apporte de la conscience et un peu de traction, les sextiles de la coopération, et ensemble ils donnent à l’aisance du triangle un endroit où aller."
   - q: "Un cerf-volant vaut-il mieux qu’un grand trigone ?"
@@ -40,7 +40,7 @@ Deux configurations y logent. Le triangle d’origine est toujours là, et la qu
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 19 née entre 1930 et 2009 a un cerf-volant parmi les dix planètes, dans le décompte sur lequel s’appuie ce site, chaque aspect étant compté à 8° près quand le Soleil ou la Lune en fait partie et à 6° près sinon. Un degré ou deux d’orbe dans un sens ou dans l’autre déplacent beaucoup ce chiffre. Le décompte manque aussi les cerfs-volants que complètent l’ascendant, le milieu du ciel, Chiron ou les nœuds : un grand trigone dont un sommet est sur le descendant a l’ascendant lui-même pour queue, et seule l’heure de naissance le montre.
+Parce qu’un cerf-volant doit partir d’un grand trigone, il est plus rare que lui : le décompte sur lequel s’appuie ce site le trouve dans environ 1 thème sur 19 pour les naissances de 1930 à 2009, parmi les dix planètes, chaque aspect admis à 8° quand le Soleil ou la Lune y prend part et à 6° sinon. Un degré ou deux d’orbe dans un sens ou dans l’autre déplacent beaucoup ce chiffre. Le décompte manque aussi les cerfs-volants que complètent l’ascendant, le milieu du ciel, Chiron ou les nœuds : un grand trigone dont un sommet est sur le descendant a l’ascendant lui-même pour queue, et seule l’heure de naissance le montre.
 
 Le système que j’ai construit pour mes lectures décrit le trigone comme une circulation qui laisse chaque fonction intacte, le sextile comme une coopération qu’il faut saisir, et l’opposition comme une polarité, deux fonctions qui apprennent à se voir. Je lis un cerf-volant comme une aisance à qui l’on donne un but. Le grand trigone fournit un talent qui tourne tout seul ; la planète opposée à un sommet lui pose une question, et les deux sextiles lui offrent des façons d’y répondre. Je vois le sommet qu’elle regarde comme la tête du cerf-volant : la fonction vers laquelle toute la figure a tendance à tirer. À quoi sert le cerf-volant, cela dépend des planètes. Avec le Soleil à la tête, il se montre souvent comme un sens de la direction ; avec Saturne à la queue, comme un talent prié de prendre une structure et des responsabilités.
 

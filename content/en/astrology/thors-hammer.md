@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 10
 glyph: "⚼"
-definition: "Thor’s hammer is three planets: two in square, both sesquiquadrate a third that sits 135° from each. The friction of the square is passed on to that third planet, which has to reorganise around it: compound tension that asks for a rebuild, not a punishment. About 1 person in 11 has one among the ten planets."
+definition: "Thor’s hammer is three planets: two in square, both sesquiquadrate a third that sits 135° from each. The friction of the square is passed on to that third planet, which has to reorganise around it: compound tension that asks for a rebuild, not a punishment. Despite the name, about 1 chart in 11 contains one."
 facts:
   - { k: "Shape", v: "A wedge: two planets 90° apart, a third 135° from both" }
   - { k: "Aspects", v: "One square and two sesquiquadrates" }
@@ -34,7 +34,7 @@ The name sounds like a blow from above. The pattern is quieter than that and far
 
 ## What it looks like {#what-it-looks-like}
 
-Thor's hammer has three planets. Two sit about 90° apart, in [square](/astrology/square/); the third sits about 135° from each, a [sesquiquadrate](/astrology/sesquiquadrate/) to both, a square and a half. Put the square's planets at 0° and 90° and the third falls at 225°, opposite the square's midpoint at 45°. On the wheel it makes a wedge: a short side across the square, two long sides out to the apex.
+Three planets make Thor's hammer. Two sit about 90° apart, in [square](/astrology/square/); the third sits about 135° from each, a [sesquiquadrate](/astrology/sesquiquadrate/) to both, a square and a half. Put the square's planets at 0° and 90° and the third falls at 225°, opposite the square's midpoint at 45°. On the wheel it makes a wedge: a short side across the square, two long sides out to the apex.
 
 The square usually joins two signs of one modality, like any square. The sesquiquadrate spans four and a half signs, so the apex can fall in a sign that shares an element with one end of the square, or in a sign that shares nothing with it, depending on the degrees. Here the angles say more than the signs. Johannes Kepler brought the sesquiquadrate into astrology alongside Ptolemy's aspects, in *Harmonices Mundi* (Linz, 1619).
 
@@ -42,7 +42,7 @@ Compare the [T-square](/astrology/t-square/), the familiar figure with one plane
 
 ## In a birth chart {#in-a-birth-chart}
 
-Its sesquiquadrates are held to 3° in the count behind this site, and even so Thor's hammer appears in about 1 chart in 11 for births from 1930 to 2009, among the ten planets, with the square allowed 8° when the Sun or Moon is in it and 6° otherwise. The tight orb on the sesquiquadrates matters: loosen it by a degree and the figure turns up far more often, tighten it and it thins out. The count also leaves out the angles, Chiron, Lilith and the nodes, any of which could stand at the apex.
+Its sesquiquadrates are held to 3° in the count behind this site, and even so Thor's hammer appears in about 1 chart in 11 for births from 1930 to 2009, among the ten planets, with the square allowed 8° when the Sun or Moon is in it and 6° otherwise. The tight orb on the sesquiquadrates matters: loosen it by a degree and the figure turns up far more often, tighten it and it thins out. An angle, Chiron, Lilith or a node at the apex would make a hammer the count can't see.
 
 The system I built for my readings calls the square constructive friction and the sesquiquadrate compound tension that asks for restructuring: neither failure, punishment nor crisis. I read Thor's hammer as a square whose friction is passed on. The two planets in square push against each other, and the pressure they build lands on the third, which has to reorganise around it. The obvious fix rarely holds for long; changing the whole arrangement around the apex planet does. Its function says what gets rebuilt: an apex Venus reworks how you relate and what you value, an apex Mercury how you think and plan. I read its three planets in their own signs before the figure, since a single pattern never decides a chart.
 

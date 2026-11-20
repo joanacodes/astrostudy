@@ -16,9 +16,9 @@ facts:
 related: ["/astrology/progressed-moon", "/astrology/scorpio", "/astrology/moon-in-scorpio", "/astrology/astrology-and-mental-health", "/blog/unknown-birth-time"]
 faq:
   - q: "What does the progressed Moon in Scorpio mean?"
-    a: "It means your progressed Moon is crossing Scorpio, the sign tradition calls the Moon’s fall. Astrologers read these two years or so as a deep chapter: feelings felt more fully, a need for trust and truth, and change that works from the inside. I read it as inner weather, never as an omen."
+    a: "Your progressed Moon is moving through Scorpio, which tradition calls the Moon’s fall. Astrologers read these two years or so as a deep chapter: feelings felt more fully, a need for trust and truth, and change that works from the inside. I read it as a season of depth, never as an omen."
   - q: "How long does the progressed Moon stay in Scorpio?"
-    a: "About two years and four months as a rule, and between two and two and a half years in every birth I counted from 1930 to 2009. Its length depends on the real Moon’s speed in the days after your birth, not on how heavy the chapter may feel."
+    a: "Deep as it runs, the chapter keeps an ordinary length: about two years and four months as a rule, and between two and two and a half years in every birth I counted from 1930 to 2009. What sets yours is the real Moon’s speed in the days after your birth, not how heavy the chapter may feel."
   - q: "Is the progressed Moon in Scorpio a difficult time?"
     a: "It can feel intense, and tradition calls Scorpio the Moon’s fall, but I don’t read it as a bad chapter. Feelings go deeper and trust matters more, and what you work through here tends to change you. If feelings ever become too heavy, talk to someone who can help in person."
   - q: "Which planets rule my progressed Moon in Scorpio?"
@@ -31,7 +31,7 @@ From the fair-minded years of Libra, the progressed Moon goes down into Scorpio,
 
 ## What it brings {#what-it-brings}
 
-[The progressed Moon](/astrology/progressed-moon/) is the part of your [secondary progressions](/astrology/secondary-progressions/) that sets a chapter’s emotional key. [Scorpio](/astrology/scorpio/) is fixed water with two rulers, Mars in the tradition and Pluto for modern astrologers, and I read both. In this sign the Moon’s needs turn towards depth: wanting what is real under what is said, wanting closeness that has been tested, and preferring a few bonds to many light ones. Feelings are held longer and felt more fully; trust, once given, is given whole. It may show as a conversation you finally have, a loyalty you choose to keep, or a habit of comfort you outgrow. Coming out of Libra, the first months can feel like a door closing on small talk; by the last, the same intensity is often ready to look outward again.
+[The progressed Moon](/astrology/progressed-moon/) is the part of your [secondary progressions](/astrology/secondary-progressions/) that sets a chapter’s emotional key. Two rulers share [Scorpio](/astrology/scorpio/), and I read both: Mars, as the tradition has it, and Pluto, as modern astrologers do; the sign itself is fixed water. In this sign the Moon’s needs turn towards depth: wanting what is real under what is said, wanting closeness that has been tested, and preferring a few bonds to many light ones. Feelings are held longer and felt more fully; trust, once given, is given whole. It may show as a conversation you finally have, a loyalty you choose to keep, or a habit of comfort you outgrow. Coming out of Libra, the first months can feel like a door closing on small talk; by the last, the same intensity is often ready to look outward again.
 
 Tradition calls Scorpio the Moon’s fall, opposite its exaltation in Taurus, and says comfort is harder to come by there. I read that as feelings that go underground before they come up again, never as a dark chapter: what Scorpio does with a feeling is transform it, and a feeling worked through to the bottom tends to come back up changed.
 

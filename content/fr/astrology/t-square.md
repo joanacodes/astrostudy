@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 4
 glyph: "□"
-definition: "Un T-carré, ce sont deux planètes en opposition, toutes deux en carré avec une troisième, la planète focale, au sommet. Il dessine un T en travers du thème, ouvert là où se tiendrait un quatrième coin. Il décrit une tension qui se rassemble en un point et pousse à agir. Environ 3 personnes sur 10 en ont un."
+definition: "Un T-carré, ce sont deux planètes en opposition, toutes deux en carré avec une troisième, la planète focale, au sommet. Il dessine un T en travers du thème, ouvert là où se tiendrait un quatrième coin. Il décrit une tension qui se rassemble en un point et pousse à agir. Près de 3 thèmes sur 10 en contiennent un."
 facts:
   - { k: "Forme", v: "Un T : deux planètes face à face, une troisième à mi-chemin" }
   - { k: "Aspects", v: "Une opposition et deux carrés" }
@@ -21,7 +21,7 @@ faq:
   - q: "Que veut dire un T-carré dans un thème natal ?"
     a: "Deux planètes en opposition, toutes deux en carré avec une troisième. La traction entre les deux premières vient buter sur la troisième, la planète focale, qui reprend la tension et la transforme en effort. J’y lis un puissant moteur d’action, exigeant et fécond, jamais un défaut du thème."
   - q: "Le T-carré est-il fréquent ?"
-    a: "Très. Dans mon décompte des naissances de 1930 à 2009, environ 3 personnes sur 10 en ont un parmi les dix planètes, avec des orbes de 8° quand le Soleil ou la Lune en fait partie et de 6° sinon. En comptant aussi les angles, Chiron ou les nœuds, on en trouverait encore davantage."
+    a: "Très : il apparaît dans environ 3 thèmes sur 10 pour les naissances de 1930 à 2009, dans mon décompte, parmi les seules dix planètes. Il ne lui faut que trois planètes, et chaque opposition d’un thème lui donne une occasion ; avec les angles et Chiron, la proportion serait plus haute encore."
   - q: "Qu’est-ce que la planète focale d’un T-carré ?"
     a: "La planète en carré avec les deux bouts de l’opposition, à la pointe du T. Elle se trouve à 90° environ de chacun et reçoit donc la pression des deux côtés à la fois. Sa fonction, son signe et sa maison disent où se rassemble l’énergie de la configuration, et ce qu’elle en fait le plus souvent."
   - q: "Qu’est-ce que la branche vide d’un T-carré ?"
@@ -41,7 +41,7 @@ Les signes distants de trois et de six partagent un mode : un T-carré tombe do
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 3 personnes sur 10 nées entre 1930 et 2009 ont un T-carré parmi les dix planètes, dans le décompte sur lequel s’appuie ce site, en comptant carrés et oppositions à 8° près quand le Soleil ou la Lune en fait partie et à 6° près sinon. Et c’est avant d’ajouter l’ascendant, le milieu du ciel, Chiron, Lilith ou les nœuds. L’horizon est lui-même une opposition : une planète en carré à la fois avec l’ascendant et le descendant forme un T-carré avec eux, et le décompte ne peut pas le voir. Changez les orbes de deux degrés, et la proportion change beaucoup.
+Trois planètes suffisent à un T-carré, d’où sa fréquence : environ 3 personnes sur 10 nées entre 1930 et 2009 en ont un parmi les dix planètes dans le décompte sur lequel s’appuie ce site, carrés et oppositions admis à 8° quand le Soleil ou la Lune en fait partie et à 6° sinon. Et c’est avant d’ajouter l’ascendant, le milieu du ciel, Chiron, Lilith ou les nœuds. L’horizon est lui-même une opposition : une planète en carré à la fois avec l’ascendant et le descendant forme un T-carré avec eux, et le décompte ne peut pas le voir. Changez les orbes de deux degrés, et la proportion change beaucoup.
 
 Je lis un T-carré comme un moteur. Une opposition seule peut osciller des années entre ses deux bouts ; la planète focale transforme ce balancement en effort dans une seule direction. Le système que j’ai construit pour mes lectures décrit le carré comme un frottement constructif, qui fait grandir au lieu d’abattre : le sommet est donc l’endroit où vous travaillez le plus, et d’où vient une bonne part de vos compétences. Sa fonction dit de quel effort il s’agit : Mars au sommet agit et pousse, Mercure au sommet planifie et en parle, la Lune au sommet ressent tout d’abord. Quand Saturne ou Chiron occupe le sommet, je lis plus lentement encore, parce que ce sont deux des [trois placements qui ont tenu](/blog/saturn-chiron-lilith/) bien plus souvent que les autres dans mon carnet, 75 à 90 % du temps.
 

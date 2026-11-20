@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 3
 glyph: "⊞"
-definition: "Une grande croix, ce sont quatre planètes en deux oppositions qui se croisent, chacune en carré avec ses deux voisines, le plus souvent dans des signes d’un même mode. Elle décrit une tension tenue sur quatre côtés à la fois : un effort constant, souvent une grande palette de réponses, jamais un échec. Environ 1 personne sur 80 en a une."
+definition: "Une grande croix, ce sont quatre planètes en deux oppositions qui se croisent, chacune en carré avec ses deux voisines, souvent dans un même mode. Elle décrit une tension tenue sur quatre côtés à la fois : un effort constant, une large palette de réponses, jamais un échec. Seule 1 personne sur 80 environ naît avec une grande croix."
 facts:
   - { k: "Forme", v: "Un carré et ses deux diagonales : quatre planètes à 90° environ" }
   - { k: "Aspects", v: "Deux oppositions et quatre carrés" }
@@ -21,7 +21,7 @@ faq:
   - q: "Que veut dire une grande croix dans un thème natal ?"
     a: "Quatre planètes reliées par deux oppositions et quatre carrés, le plus souvent dans un même mode. Chacune tire contre deux voisines et fait face à une quatrième. J’y lis une tension répartie de tous côtés : beaucoup d’effort et, avec la pratique, une stabilité peu commune. C’est une pression à travailler, pas un destin ni un échec."
   - q: "La grande croix est-elle rare ?"
-    a: "Plus que la plupart des configurations. Dans mon décompte des naissances de 1930 à 2009, environ 1 personne sur 80 en a une parmi les dix planètes, avec des orbes de 8° quand le Soleil ou la Lune en fait partie et de 6° sinon. Avec les angles ou Chiron, ou des orbes plus larges, ce chiffre monterait."
+    a: "Plus que la plupart des configurations. Sur quatre-vingts personnes nées entre 1930 et 2009, environ une a une grande croix parmi les dix planètes, dans mon décompte, avec des orbes de 8° pour le Soleil et la Lune et de 6° pour les autres. Quatre planètes doivent se placer en même temps."
   - q: "Qu’est-ce qu’une grande croix cardinale, fixe ou mutable ?"
     a: "Elle porte le nom du mode que partagent ses quatre signes. Les signes cardinaux commencent, les fixes persévèrent, les mutables s’adaptent : la pression se montre en plusieurs départs à la fois, en persévérance obstinée ou en ajustements constants. En fin de signe, une branche peut tomber dans un autre mode et desserrer la figure."
   - q: "Une grande croix est-elle plus difficile qu’un T-carré ?"
@@ -44,7 +44,7 @@ C’est l’une des figures les plus rares du décompte sur lequel s’appuie ce
 
 Le système que j’ai construit pour mes lectures est clair sur les deux aspects qui la composent. Un carré est un frottement qui fait avancer, jamais un échec ni une punition ; une opposition est une polarité, deux fonctions qui apprennent à se voir, pas un conflit en soi. Une grande croix met les deux partout à la fois. J’y lis une vie qui demande de l’effort sur plusieurs fronts et qui construit souvent une rare capacité à tenir les choses ensemble : la personne que les autres trouvent solide, et qui sait ce que cette solidité lui coûte de jonglage. De vieux livres disent qu’elle donne une croix à porter. Je dirais plutôt que quatre fonctions ont chacune besoin de leur tour, et qu’aucune ne peut être lâchée longtemps. Une seule figure, si frappante soit-elle, ne commande pas le thème : je lis ses quatre planètes une à une, dans leurs signes, avant de lire la croix.
 
-Les maisons disent où elle tombe, et elles demandent l’heure de naissance. Quatre planètes à 90° environ tombent souvent dans des maisons d’un même type, les quatre angulaires, succédentes ou cadentes ([maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/)), et une croix posée sur les angles eux-mêmes, près de l’ascendant, du descendant, du milieu du ciel et du fond du ciel, en est la version la plus forte. Rien de cela n’apparaît sans l’heure, et une croix qui passe par la Lune peut se former ou se défaire dans la même journée. C’est pourquoi je [ne la lis pas sans l’heure de naissance](/blog/unknown-birth-time/).
+Les maisons disent où elle tombe, et elles demandent l’heure de naissance. Quatre planètes à 90° environ tombent souvent dans des maisons d’un même type, les quatre angulaires, succédentes ou cadentes ([maisons angulaires, succédentes et cadentes](/astrology/angular-succedent-and-cadent-houses/)), et une croix posée sur les angles eux-mêmes, près de l’ascendant, du descendant, du milieu du ciel et du fond du ciel, en est la version la plus forte. Rien de cela n’apparaît sans l’heure, et une croix qui passe par la Lune peut se former ou se défaire dans la même journée. Une croix sans ses maisons est une pression qui ne sait où se poser, et c’est pourquoi j’[attends l’heure de naissance avant de la lire](/blog/unknown-birth-time/).
 
 ## Ce qui aide {#ce-qui-aide}
 

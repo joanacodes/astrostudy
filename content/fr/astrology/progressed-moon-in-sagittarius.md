@@ -17,7 +17,7 @@ facts:
 related: ["/astrology/progressed-moon", "/astrology/sagittarius", "/astrology/moon-in-sagittarius", "/astrology/jupiter", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire la Lune progressée en Sagittaire ?"
-    a: "Que votre Lune progressée traverse le Sagittaire, le signe de feu gouverné par Jupiter. Les astrologues lisent ces deux ans environ comme un chapitre d’élargissement : des besoins comblés par le sens, l’apprentissage, la franchise et la place pour grandir. J’y lis une météo intérieure, une humeur qui s’ouvre, jamais une prédiction."
+    a: "Que votre Lune progressée voyage à travers le Sagittaire, le signe de feu que gouverne Jupiter. Les astrologues lisent ces deux ans environ comme un chapitre d’élargissement : des besoins comblés par le sens, l’apprentissage, la franchise et la place pour grandir. J’y lis une humeur qui s’élargit, jamais la promesse d’un voyage."
   - q: "Combien de temps la Lune progressée reste-t-elle en Sagittaire ?"
     a: "Pour les naissances que j’ai comptées, de 1930 à 2009, le séjour a duré de deux ans à deux ans et demi, le plus souvent deux ans et quatre mois environ. Si vaste que semble le signe, la durée vient de la vitesse de la vraie Lune dans les jours qui ont suivi votre naissance."
   - q: "La Lune progressée en Sagittaire annonce-t-elle un voyage ?"

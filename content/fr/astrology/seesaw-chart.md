@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 21
 glyph: "✦"
-definition: "Un thème en balançoire a ses planètes en deux groupes, de part et d’autre de la roue, avec de l’espace vide entre eux des deux côtés. C’est l’une des sept formes de Marc Edmund Jones. J’y lis une vie organisée autour de deux pôles qui demandent à être équilibrés, pas départagés. Les auteurs la définissent trop différemment pour un décompte."
+definition: "Un thème en balançoire a ses planètes en deux groupes, de part et d’autre de la roue, avec de l’espace vide des deux côtés. Marc Edmund Jones l’a rangé parmi ses sept formes. J’y lis une vie organisée autour de deux pôles qui demandent à être équilibrés, pas départagés. Les définitions diffèrent trop d’un auteur à l’autre pour le compter."
 facts:
   - { k: "Forme", v: "Deux groupes de planètes face à face, avec de l’espace vide des deux côtés" }
   - { k: "Aspects", v: "Aucun n’est requis ; des oppositions peuvent relier les groupes" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/locomotive-chart", "/astrology/splash-chart", "/astrology/opposition", "/astrology/marc-edmund-jones", "/blog/unknown-birth-time"]
 faq:
   - q: "Qu’est-ce qu’un thème en balançoire ?"
-    a: "Un thème dont les planètes se répartissent en deux groupes de part et d’autre de la roue, avec de l’espace vide entre eux. Marc Edmund Jones l’a nommé parmi ses sept formes. J’y lis deux centres de gravité qui se font face : deux côtés de la vie qui demandent sans cesse à être équilibrés."
+    a: "Un thème dont les planètes se répartissent en deux groupes de part et d’autre de la roue, avec de l’espace vide entre eux. Il appartient aux sept formes du système de Marc Edmund Jones. J’y lis deux centres de gravité qui se font face : deux côtés de la vie qui demandent sans cesse à être équilibrés."
   - q: "Pourquoi n’y a-t-il pas de décompte pour le thème en balançoire ?"
     a: "Parce que les auteurs ne le dessinent pas de la même façon. Une description demande des groupes à au moins 60° l’un de l’autre ; d’autres placent la limite ailleurs. Un décompte exige une seule règle, et avec plusieurs en usage, tout chiffre dépendrait de la règle choisie plutôt que des thèmes."
   - q: "Comment lire un thème en balançoire ?"
@@ -44,7 +44,7 @@ Le décompte sur lequel s’appuie ce site laisse la balançoire de côté. Ses 
 
 Les astrologues qui se servent de cette forme décrivent une vie qui va et vient entre deux côtés contrastés, et qui a souvent du mal à les réunir. Le système que j’ai construit pour mes lectures lit l’opposition, l’aspect autour duquel se construit une balançoire, comme une polarité et une intégration, jamais comme un conflit en soi : je lis la forme de la même façon. Deux centres de gravité, chacun avec ses propres affaires ; les espaces vides entre eux sont l’endroit où l’on passe de l’un à l’autre. L’équilibre, ici, n’est pas l’immobilité. Une balançoire qui fonctionne ne cesse de bouger, et ses deux sièges restent occupés. Et comme toute forme, elle décrit une insistance : ce sont les planètes de chaque groupe, lues une à une, qui disent de quoi parlent vraiment les deux côtés.
 
-Les maisons en disent beaucoup, et elles demandent l’heure de naissance. Deux groupes de part et d’autre de l’horizon, autour des maisons 1 et 7, associent soi et les autres ; de part et d’autre du méridien, autour des maisons 4 et 10, le foyer et la vie publique. La Lune peut se trouver dans un groupe ou dans un vide, et sa place change d’un signe environ tous les deux jours et demi. C’est pourquoi je [ne lis pas la forme sans l’heure de naissance](/blog/unknown-birth-time/).
+Les maisons en disent beaucoup, et elles demandent l’heure de naissance. Deux groupes de part et d’autre de l’horizon, autour des maisons 1 et 7, associent soi et les autres ; de part et d’autre du méridien, autour des maisons 4 et 10, le foyer et la vie publique. La Lune peut se trouver dans un groupe ou dans un vide, et sa place change d’un signe environ tous les deux jours et demi. Quels deux côtés de la vie relie la balançoire, c’est une question pour [l’heure de naissance](/blog/unknown-birth-time/), et j’attends sa réponse.
 
 ## Ce qui aide {#ce-qui-aide}
 

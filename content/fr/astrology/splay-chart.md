@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 23
 glyph: "✦"
-definition: "Un thème en étoile irrégulière a ses planètes en quelques amas irréguliers répartis sur la roue, souvent des paires ou des conjonctions à des distances inégales, séparées par des vides. C’est l’une des sept formes de Marc Edmund Jones. J’y lis plusieurs centres de gravité, chacun avec ses affaires. Les auteurs le définissent trop différemment pour un décompte."
+definition: "Un thème en étoile irrégulière a ses planètes en quelques amas répartis sur la roue, souvent des paires ou des conjonctions à des distances inégales, séparées par des vides. Parmi les sept formes de Marc Edmund Jones, aucune n’est moins régulière. J’y lis plusieurs centres de gravité, chacun avec ses affaires. Faute de définition convenue, il n’a pas de décompte."
 facts:
   - { k: "Forme", v: "Quelques amas irréguliers répartis sur la roue, séparés par des vides" }
   - { k: "Aspects", v: "Des conjonctions dans les amas ; tous les aspects entre eux" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/splash-chart", "/astrology/fan-chart", "/astrology/stellium", "/astrology/marc-edmund-jones", "/blog/unknown-birth-time"]
 faq:
   - q: "Qu’est-ce qu’un thème en étoile irrégulière ?"
-    a: "Un thème dont les planètes se rassemblent en quelques amas irréguliers, à des distances inégales sur la roue, séparés par des vides. Marc Edmund Jones l’a compté parmi ses sept formes. Je lis chaque amas comme un centre de gravité avec ses propres affaires, et le thème comme la façon dont ces centres partagent une vie."
+    a: "Un thème dont les planètes se rassemblent en quelques amas irréguliers, à des distances inégales sur la roue, séparés par des vides. Dans le système de Marc Edmund Jones, c’est la forme aux centres multiples. Je lis chaque amas comme un centre de gravité avec ses propres affaires, et le thème comme la façon dont ces centres partagent une vie."
   - q: "Quelle différence entre un thème en étoile irrégulière et un thème dispersé ?"
     a: "Tous deux répartissent les planètes sur la roue. Dans un thème dispersé, elles sont éparpillées à peu près partout ; dans une étoile irrégulière, elles se rassemblent en quelques amas distincts, avec des vides nets entre eux. L’étoile irrégulière a plusieurs points forts ; le thème dispersé a de l’ampleur sans eux."
   - q: "Pourquoi n’y a-t-il pas de décompte pour ce thème ?"
@@ -42,7 +42,7 @@ C’est la dernière des formes de Jones sur ces pages, et la troisième sans ch
 
 Les astrologues qui se servent de cette forme décrivent une personnalité indépendante, aux talents forts et nombreux qui ne se relient pas toujours, et peu portée sur la routine. Je lis l’étoile irrégulière comme plusieurs centres de gravité. Chaque amas a ses propres affaires, données par ses planètes, son signe et sa maison ; les vides sont l’endroit où ces affaires se rencontrent, ou non. Les aspects qui relient les amas sont les liens que je lis de plus près, parce que c’est par eux que les centres se rejoignent. Et la répétition compte ici plus qu’ailleurs : quand deux amas disent la même chose avec des mots différents, c’est là la vraie insistance du thème, plutôt que dans un seul nœud.
 
-Les maisons des amas demandent l’heure de naissance, tout comme la Lune, qui peut rejoindre un nœud ou se tenir à l’écart de tous selon l’heure. Sans les maisons, une étoile irrégulière n’est qu’un ensemble de nœuds sans adresse, et c’est pourquoi je [ne lis pas un thème sans l’heure de naissance](/blog/unknown-birth-time/).
+Les maisons des amas demandent l’heure de naissance, tout comme la Lune, qui peut rejoindre un nœud ou se tenir à l’écart de tous selon l’heure. Ses nœuds ne deviennent des parts de votre vie qu’une fois placés par [l’heure de naissance](/blog/unknown-birth-time/) : je l’attends donc.
 
 ## Ce qui aide {#ce-qui-aide}
 

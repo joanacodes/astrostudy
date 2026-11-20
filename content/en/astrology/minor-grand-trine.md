@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 12
 glyph: "⚹△"
-definition: "A minor grand trine is three planets: two in trine and a third between them, sextile both, drawing a flat triangle on one side of the chart. It describes ease with a point of use, the trine’s flow gathered by the planet in the middle. It’s common: about 4 people in 9 have one among the ten planets."
+definition: "A minor grand trine is three planets: two in trine and a third between them, sextile both, drawing a flat triangle on one side of the chart. It describes ease with a point of use, the trine’s flow gathered by the planet in the middle. It’s common: nearly half of all charts, about 4 in 9, hold one."
 facts:
   - { k: "Shape", v: "A flat triangle: two planets 120° apart, a third midway" }
   - { k: "Aspects", v: "One trine and two sextiles" }

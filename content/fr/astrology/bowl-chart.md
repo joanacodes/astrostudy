@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 17
 glyph: "✦"
-definition: "Un thème en bol a ses dix planètes dans une moitié de la roue, sur 180° ou moins, et l’autre moitié vide. C’est l’une des sept formes nommées par Marc Edmund Jones. J’y lis une insistance : beaucoup de choses tenues d’un côté, et un côté vide vers lequel le thème reste tourné. Environ 1 personne sur 9 en a un."
+definition: "Un thème en bol a ses dix planètes dans une moitié de la roue, sur 180° ou moins, et l’autre moitié vide. C’est l’une des sept formes nommées par Marc Edmund Jones. J’y lis une insistance : un côté plein, et un côté vide vers lequel le thème reste tourné. Le décompte en trouve chez 1 personne sur 9 environ."
 facts:
   - { k: "Forme", v: "Les dix planètes sur 180° au plus ; l’autre moitié de la roue vide" }
   - { k: "Aspects", v: "Aucun n’est nécessaire : c’est la répartition des planètes" }
@@ -21,7 +21,7 @@ faq:
   - q: "Qu’est-ce qu’un thème en bol en astrologie ?"
     a: "Un thème dont les dix planètes se trouvent dans une moitié de la roue, sur 180° ou moins, l’autre moitié étant vide. Marc Edmund Jones l’a nommé, avec six autres formes. J’y lis une insistance : beaucoup de choses tenues d’un côté, et un côté vide qui montre vers quoi le thème ne cesse de tendre."
   - q: "Le thème en bol est-il fréquent ?"
-    a: "Dans mon décompte des naissances de 1930 à 2009, environ 1 personne sur 9 en a un, en comptant les thèmes dont les dix planètes tiennent sur 180° mais pas sur 120°, le faisceau, plus serré. Déplacez cette limite de quelques degrés et la proportion change ; les angles et Chiron n’ont pas été comptés."
+    a: "Avec la règle des dix planètes sur 180° mais pas sur 120°, le faisceau étant plus serré, mon décompte trouve un bol chez environ 1 personne sur 9 née entre 1930 et 2009. Déplacez cette limite de quelques degrés, et la proportion change."
   - q: "La moitié du thème où se trouve le bol compte-t-elle ?"
     a: "Oui, et cela dépend de l’heure de naissance. Des planètes rassemblées au-dessus ou au-dessous de l’horizon, à l’est ou à l’ouest, ne se lisent pas de la même façon, et seule l’heure place les maisons. C’est pourquoi je ne lis pas un bol, ni aucun thème, sans elle."
   - q: "Quelle différence entre un thème en bol et un thème en seau ?"
@@ -41,11 +41,11 @@ Deux planètes marquent le bord, la première et la dernière du groupe. Quand l
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Dans le décompte sur lequel s’appuie ce site, environ 1 personne sur 9 née entre 1930 et 2009 a un bol : les dix planètes sur 180°, mais pas sur 120°. La limite compte. Un thème dont les planètes s’étendent sur 181° n’est pas un bol selon cette règle, et une règle plus lâche en trouverait bien davantage. Le décompte n’emploie aussi que les dix planètes, sans l’ascendant, le milieu du ciel, Chiron, Lilith ni les nœuds, qui peuvent tous se trouver dans la moitié vide et changer l’allure du thème sur la page. Les planètes lentes font une bonne part de la forme : Uranus, Neptune et Pluton bougent si peu en un an que toutes les personnes nées pendant les mêmes années partagent leur espacement, et les planètes rapides décident ensuite si le reste se rassemble du même côté.
+Prenez la règle qu’emploie le décompte sur lequel s’appuie ce site, les dix planètes sur 180° mais pas sur 120°, et environ 1 personne sur 9 née entre 1930 et 2009 a un bol. La limite compte. Un thème dont les planètes s’étendent sur 181° n’est pas un bol selon cette règle, et une règle plus lâche en trouverait bien davantage. Le décompte n’emploie aussi que les dix planètes, sans l’ascendant, le milieu du ciel, Chiron, Lilith ni les nœuds, qui peuvent tous se trouver dans la moitié vide et changer l’allure du thème sur la page. Les planètes lentes font une bonne part de la forme : Uranus, Neptune et Pluton bougent si peu en un an que toutes les personnes nées pendant les mêmes années partagent leur espacement, et les planètes rapides décident ensuite si le reste se rassemble du même côté.
 
 Les astrologues qui se servent de ces formes décrivent le bol comme un thème qui se suffit à lui-même, organisé autour de ce qu’il contient, souvent avec un fort sentiment de but tourné vers ce qui se trouve de l’autre côté. Je le lis plus modestement, comme une insistance. La moitié pleine montre où votre attention a tendance à vivre. La moitié vide ne manque pas à votre vie : c’est là que vous allez chercher, l’expérience que vous poursuivez ou que vous rencontrez chez les autres. Et la forme compte quand les planètes, les signes et les maisons qu’elle contient répètent le même thème ; à elle seule, elle ne décide jamais de qui vous êtes.
 
-L’endroit où se trouve le bol, c’est la partie qui demande l’heure de naissance. Un bol dans les maisons 7 à 12 se trouve au-dessus de l’horizon, un bol dans les maisons 1 à 6 au-dessous ; d’autres remplissent la moitié est ou la moitié ouest du thème ([hémisphères du thème](/astrology/hemisphere-emphasis/)). La Lune peut aussi compter : c’est la planète la plus rapide, elle avance d’un signe environ tous les deux jours et demi, et sa place peut décider si les dix tiennent dans une moitié du cercle. C’est pourquoi je [ne lis pas la forme sans l’heure de naissance](/blog/unknown-birth-time/).
+L’endroit où se trouve le bol, c’est la partie qui demande l’heure de naissance. Un bol dans les maisons 7 à 12 se trouve au-dessus de l’horizon, un bol dans les maisons 1 à 6 au-dessous ; d’autres remplissent la moitié est ou la moitié ouest du thème ([hémisphères du thème](/astrology/hemisphere-emphasis/)). La Lune peut aussi compter : c’est la planète la plus rapide, elle avance d’un signe environ tous les deux jours et demi, et sa place peut décider si les dix tiennent dans une moitié du cercle. De quel côté regarde le bol, seule [l’heure de naissance](/blog/unknown-birth-time/) peut me le dire : je ne le lis donc pas sans elle.
 
 ## Ce qui aide {#ce-qui-aide}
 

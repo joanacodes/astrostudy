@@ -17,9 +17,9 @@ facts:
 related: ["/astrology/progressed-moon", "/astrology/libra", "/astrology/moon-in-libra", "/astrology/venus", "/blog/unknown-birth-time"]
 faq:
   - q: "Que veut dire la Lune progressée en Balance ?"
-    a: "Que votre Lune progressée traverse la Balance, le signe de l’équilibre et du partenariat. Les astrologues lisent ces deux ans environ comme un chapitre où vos besoins se comblent par les autres : la compagnie, l’équité, la coopération et le sens de la mesure. J’y lis une météo intérieure, jamais un événement annoncé."
+    a: "Que votre Lune progressée se trouve pour deux ans environ en Balance, le signe de l’équilibre et du partenariat. Les astrologues lisent ce chapitre comme un temps où vos besoins se comblent par les autres : la compagnie, l’équité, la coopération et le sens de la mesure. J’y lis un besoin d’équilibre, jamais une prédiction sur une relation en particulier."
   - q: "Combien de temps la Lune progressée reste-t-elle en Balance ?"
-    a: "Deux ans à deux ans et demi, le plus souvent deux ans et quatre mois environ, pour toutes les naissances que j’ai comptées de 1930 à 2009. Le signe de l’équilibre n’a pas une allure plus régulière qu’un autre : votre propre durée vient de la vitesse de la vraie Lune dans les jours qui ont suivi votre naissance."
+    a: "Pour toutes les naissances que j’ai comptées de 1930 à 2009, le chapitre Balance a pris deux ans à deux ans et demi, le plus souvent deux ans et quatre mois environ. Le signe de l’équilibre n’a pas une allure plus régulière qu’un autre : votre propre durée vient de la vitesse de la vraie Lune dans les jours qui ont suivi votre naissance."
   - q: "La Lune progressée en Balance annonce-t-elle une nouvelle relation ?"
     a: "Pas comme une prédiction : aucune progression ne décide qu’une relation commencera, s’approfondira ou finira, et je n’en lis jamais ainsi. Les astrologues lisent ce chapitre comme un temps où le partenariat et l’équité comptent davantage pour vous, ce qui peut colorer toutes les relations, de l’amour à l’amitié et au travail."
   - q: "Pourquoi relie-t-on la Lune progressée en Balance au chapitre Bélier ?"
@@ -40,7 +40,7 @@ Rien de tout cela ne prédit qu’une relation commence ou finisse ; une progr
 
 ## Combien de temps {#combien-de-temps}
 
-Pour les naissances de 1930 à 2009, la Lune progressée a mis entre deux ans et deux ans et demi à traverser la Balance, le plus souvent deux ans et quatre mois environ, une année du chapitre pour chaque jour que la vraie Lune a passé dans le signe après la naissance. Être le signe de l’équilibre ne rend pas le chapitre de la Balance plus régulier que les autres : sa durée vient de la seule vitesse de la Lune à la naissance.
+Pesé en années, le chapitre Balance ressemble aux autres : pour les naissances de 1930 à 2009, la Lune progressée a mis entre deux ans et deux ans et demi à traverser le signe, le plus souvent deux ans et quatre mois environ, une année pour chaque jour que la vraie Lune y a passé après la naissance. Être le signe de l’équilibre ne rend pas le chapitre de la Balance plus régulier que les autres : sa durée vient de la seule vitesse de la Lune à la naissance.
 
 Elle suit la [Lune progressée en Vierge](/astrology/progressed-moon-in-virgo/) et précède la [Lune progressée en Scorpion](/astrology/progressed-moon-in-scorpio/). La Balance fait face au Bélier : ce chapitre arrive donc environ un demi-tour, la moitié d’un cycle d’environ 27 ans, après le début du chapitre Bélier ; ce que vous aviez commencé pour vous-même alors, vous vous surprendrez peut-être à le partager maintenant.
 

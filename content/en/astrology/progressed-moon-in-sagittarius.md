@@ -16,7 +16,7 @@ facts:
 related: ["/astrology/progressed-moon", "/astrology/sagittarius", "/astrology/moon-in-sagittarius", "/astrology/jupiter", "/blog/unknown-birth-time"]
 faq:
   - q: "What does the progressed Moon in Sagittarius mean?"
-    a: "It means your progressed Moon is crossing Sagittarius, the fire sign ruled by Jupiter. Astrologers read these two years or so as an expansive chapter: needs met through meaning, learning, honesty and room to grow. I read it as inner weather, a widening of mood, never a forecast of events."
+    a: "In your chart, the progressed Moon is travelling through Sagittarius, the fire sign ruled by Jupiter. Astrologers read these two years or so as an expansive chapter: needs met through meaning, learning, honesty and room to grow. I read it as a widening of mood, never as a promise of journeys."
   - q: "How long does the progressed Moon stay in Sagittarius?"
     a: "In the births I counted, from 1930 to 2009, the stay ran from two to two and a half years and was usually about two years and four months. However wide the sign feels, the stay is set by the real Moon’s speed in the days after your birth."
   - q: "Does the progressed Moon in Sagittarius mean travel?"

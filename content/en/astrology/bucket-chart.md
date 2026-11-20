@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 18
 glyph: "✦"
-definition: "A bucket chart has nine planets within one half of the wheel and the tenth alone in the other half, like a handle on a bowl. It is one of Marc Edmund Jones’s seven chart shapes. Astrologers give the handle planet extra weight; I give it a closer look, not the last word. About 1 person in 3 has one."
+definition: "A bucket chart has nine planets within half of the wheel and the tenth alone in the other half, like a handle. Marc Edmund Jones gave it its name. Astrologers give the handle planet extra weight; I give it a closer look, not the last word. By the count’s simple rule, about 1 chart in 3 is a bucket."
 facts:
   - { k: "Shape", v: "Nine planets within 180°, the tenth alone outside them" }
   - { k: "Aspects", v: "None needed: it’s the spread of the planets" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/bowl-chart", "/astrology/bundle-chart", "/astrology/singletons", "/astrology/marc-edmund-jones", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What is a bucket chart?"
-    a: "A chart in which nine planets gather within half the wheel and the tenth sits alone on the other side. The nine make the bucket; the lone planet is its handle. Marc Edmund Jones named the shape. I read the handle as a planet that draws much of the chart’s attention towards it."
+    a: "A chart in which nine planets gather within half the wheel and the tenth sits alone on the other side. The nine make the bucket; the lone planet is its handle. The name is Marc Edmund Jones’s. I read the handle as a planet that draws much of the chart’s attention towards it."
   - q: "How common is a bucket chart?"
     a: "Common. About a third of the people in my count, born from 1930 to 2009, have nine planets within 180° and the tenth outside them. The rule is simple and catches a lot of charts; a stricter one would find fewer."
   - q: "What does the handle planet of a bucket mean?"

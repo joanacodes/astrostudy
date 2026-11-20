@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 10
 glyph: "⚼"
-definition: "Le marteau de Thor, ce sont trois planètes : deux en carré, toutes deux en sesqui-carré avec une troisième placée à 135° de chacune. Le frottement du carré se reporte sur cette troisième planète, qui doit se réorganiser autour : une tension composée qui demande une reconstruction, pas une punition. Environ 1 personne sur 11 en a un."
+definition: "Le marteau de Thor, ce sont trois planètes : deux en carré, toutes deux en sesqui-carré avec une troisième placée à 135° de chacune. Le frottement du carré se reporte sur cette troisième planète, qui doit se réorganiser autour : une tension composée qui demande une reconstruction, pas une punition. Malgré son nom, environ 1 thème sur 11 en contient un."
 facts:
   - { k: "Forme", v: "Un coin : deux planètes à 90°, une troisième à 135° des deux" }
   - { k: "Aspects", v: "Un carré et deux sesqui-carrés" }
@@ -19,9 +19,9 @@ facts:
 related: ["/astrology/sesquiquadrate", "/astrology/square", "/astrology/t-square", "/astrology/cradle", "/blog/unknown-birth-time"]
 faq:
   - q: "Qu’est-ce que le marteau de Thor en astrologie ?"
-    a: "Une configuration de trois planètes : deux en carré, à 90° environ, et une troisième à 135° environ des deux, en sesqui-carré avec chacune. Le frottement du carré se rassemble sur cette troisième planète. J’y lis une pression qui demande de reconstruire un agencement autour d’une fonction : un travail exigeant, pas une punition."
+    a: "Trois planètes : deux en carré, à 90° environ, et une troisième à 135° environ des deux, en sesqui-carré avec chacune. Le frottement du carré se rassemble sur cette troisième planète. J’y lis une pression qui demande de reconstruire un agencement autour d’une fonction : un travail exigeant, pas une punition."
   - q: "Le marteau de Thor est-il fréquent ?"
-    a: "Plus que son nom ne le laisse croire. Dans mon décompte des naissances de 1930 à 2009, environ 1 personne sur 11 en a un parmi les dix planètes, avec des sesqui-carrés à 3° près et un carré à 8° près quand le Soleil ou la Lune en fait partie, 6° sinon."
+    a: "Plus que son nom ne le laisse croire : dans mon décompte, il apparaît chez environ 1 personne sur 11 née entre 1930 et 2009. Ses deux sesqui-carrés y sont tenus à 3° ; un degré de latitude en plus sur eux rendrait la figure nettement plus fréquente."
   - q: "Quelle différence entre le marteau de Thor et le T-carré ?"
     a: "Tous deux rassemblent la tension sur une planète. Dans un T-carré, elle est en carré avec deux planètes en opposition et reçoit la pression de face. Dans le marteau de Thor, elle se trouve à 135° de deux planètes en carré, un angle plus étrange, et le travail qu’elle demande tient moins de la poussée que de la reconstruction."
   - q: "Pourquoi l’appelle-t-on marteau de Thor ?"
@@ -35,7 +35,7 @@ Le nom fait penser à un coup venu d’en haut. La configuration est plus discr�
 
 ## À quoi elle ressemble {#a-quoi-elle-ressemble}
 
-Le marteau de Thor compte trois planètes. Deux se trouvent à 90° environ l’une de l’autre, en [carré](/astrology/square/) ; la troisième se trouve à 135° environ de chacune, en [sesqui-carré](/astrology/sesquiquadrate/) avec les deux, un carré et demi. Placez les planètes du carré à 0° et à 90°, et la troisième tombe à 225°, en face du milieu du carré, à 45°. Sur la roue, cela fait un coin : un côté court en travers du carré, deux longs côtés jusqu’au sommet.
+Trois planètes forment le marteau de Thor. Deux se trouvent à 90° environ l’une de l’autre, en [carré](/astrology/square/) ; la troisième se trouve à 135° environ de chacune, en [sesqui-carré](/astrology/sesquiquadrate/) avec les deux, un carré et demi. Placez les planètes du carré à 0° et à 90°, et la troisième tombe à 225°, en face du milieu du carré, à 45°. Sur la roue, cela fait un coin : un côté court en travers du carré, deux longs côtés jusqu’au sommet.
 
 Le carré relie le plus souvent deux signes d’un même mode, comme tout carré. Le sesqui-carré couvre quatre signes et demi : le sommet peut donc tomber dans un signe qui partage un élément avec un bout du carré, ou dans un signe qui ne partage rien avec lui, selon les degrés. Ici, les angles en disent plus que les signes. Johannes Kepler a fait entrer le sesqui-carré en astrologie à côté des aspects de Ptolémée, dans *Harmonices Mundi* (Linz, 1619).
 
@@ -43,11 +43,11 @@ Comparez avec le [T-carré](/astrology/t-square/), la figure bien connue où une
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Dans le décompte sur lequel s’appuie ce site, environ 1 personne sur 11 née entre 1930 et 2009 a un marteau de Thor parmi les dix planètes, avec des sesqui-carrés à 3° près et un carré à 8° près quand le Soleil ou la Lune en fait partie, 6° sinon. L’orbe serré des sesqui-carrés compte : desserrez-le d’un degré et la figure apparaît bien plus souvent, resserrez-le et elle se raréfie. Le décompte laisse aussi de côté les angles, Chiron, Lilith et les nœuds, qui pourraient tous occuper le sommet.
+Ses sesqui-carrés sont tenus à 3° dans le décompte sur lequel s’appuie ce site, et le marteau de Thor apparaît pourtant dans environ 1 thème sur 11 pour les naissances de 1930 à 2009, parmi les dix planètes, avec le carré admis à 8° quand le Soleil ou la Lune y figure et à 6° sinon. L’orbe serré des sesqui-carrés compte : desserrez-le d’un degré et la figure apparaît bien plus souvent, resserrez-le et elle se raréfie. Un angle, Chiron, Lilith ou un nœud au sommet formerait un marteau que le décompte ne voit pas.
 
 Le système que j’ai construit pour mes lectures décrit le carré comme un frottement constructif, et le sesqui-carré comme une tension composée qui demande une restructuration : ni échec, ni punition, ni crise. Je lis le marteau de Thor comme un carré dont le frottement se transmet. Les deux planètes en carré poussent l’une contre l’autre, et la pression qu’elles accumulent retombe sur la troisième, qui doit se réorganiser autour. La solution évidente tient rarement longtemps ; changer tout l’agencement autour de la planète du sommet, oui. Sa fonction dit ce qui se reconstruit : Vénus au sommet retravaille vos façons d’aimer et ce à quoi vous tenez, Mercure au sommet vos façons de penser et de prévoir. Je lis ses trois planètes dans leurs propres signes avant la figure, puisqu’une configuration seule ne décide jamais d’un thème.
 
-Les maisons des trois planètes, et celle du point vide en face du sommet, demandent l’heure de naissance, tout comme un marteau qui passe par la Lune : avec 3° seulement sur les sesqui-carrés, une Lune au sommet peut aller et venir dans la journée. C’est une raison de plus pour laquelle je [ne lis pas un thème sans l’heure de naissance](/blog/unknown-birth-time/).
+Les maisons des trois planètes, et celle du point vide en face du sommet, demandent l’heure de naissance, tout comme un marteau qui passe par la Lune : avec 3° seulement sur les sesqui-carrés, une Lune au sommet peut aller et venir dans la journée. Un marteau qui n’existe peut-être pas à l’heure de la naissance est une raison de plus d’[attendre l’heure](/blog/unknown-birth-time/).
 
 ## Ce qui aide {#ce-qui-aide}
 

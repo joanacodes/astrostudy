@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 5
 glyph: "⚻"
-definition: "Un yod est un triangle étroit de trois planètes : deux en sextile à sa base, toutes deux en quinconce avec une troisième à sa pointe, le sommet. Appelé aussi doigt de Dieu, il décrit une fonction qui s’ajuste à deux autres avec lesquelles elle ne partage rien : un recalibrage, pas un destin. Environ 1 personne sur 8 en a un."
+definition: "Un yod est un triangle étroit de trois planètes : deux en sextile à sa base, toutes deux en quinconce avec une troisième à sa pointe. Dit aussi doigt de Dieu, il décrit une fonction qui s’ajuste à deux autres avec lesquelles elle ne partage rien : un recalibrage, pas un destin. Mon décompte en trouve un chez 1 personne sur 8."
 facts:
   - { k: "Forme", v: "Un long triangle étroit : deux planètes à 60°, une troisième à 150° des deux" }
   - { k: "Aspects", v: "Un sextile et deux quinconces" }
@@ -21,7 +21,7 @@ faq:
   - q: "Qu’est-ce qu’un yod en astrologie ?"
     a: "Une figure où une planète se trouve à 150° de deux autres, elles-mêmes à 60° l’une de l’autre : deux quinconces et un sextile. La planète isolée, au sommet, s’ajuste sans cesse à la paire de la base. Son autre nom, doigt de Dieu, décrit la forme dessinée, pas un destin."
   - q: "Le yod est-il rare ?"
-    a: "Moins que sa réputation. Dans mon décompte des naissances de 1930 à 2009, environ 1 personne sur 8 en a un parmi les dix planètes, avec des quinconces à 3° près et un sextile à 8° près quand le Soleil ou la Lune en fait partie, 6° sinon. Un orbe à peine plus large en trouverait bien davantage."
+    a: "Moins que sa réputation. Une personne sur huit environ, parmi toutes celles nées entre 1930 et 2009, a un yod parmi les dix planètes dans mon décompte, et ses quinconces y sont tenus à 3°, bien plus serrés que les aspects majeurs. Un degré de latitude en plus en trouverait bien davantage."
   - q: "Pourquoi appelle-t-on le yod doigt de Dieu ?"
     a: "À cause de sa forme : un long triangle qui se resserre de sa base vers une seule planète, comme un doigt pointé. Le mot yod est la dixième lettre de l’alphabet hébreu. Aucun des deux noms ne dit quoi que ce soit du destin ; je lis le sommet comme un savoir-faire en construction, pas comme une mission tombée du ciel."
   - q: "Qu’est-ce que la planète au sommet d’un yod ?"
@@ -41,13 +41,13 @@ Un yod compte trois planètes. Deux se trouvent à 60° environ l’une de l’a
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 8 née entre 1930 et 2009 a un yod parmi les dix planètes, dans le décompte sur lequel s’appuie ce site, avec chaque quinconce à 3° près et le sextile à 8° près quand le Soleil ou la Lune en fait partie, 6° sinon. Pour une configuration de cette réputation, c’est courant. L’orbe serré du quinconce compte beaucoup : un degré de plus, et bien d’autres yods apparaissent ; un degré de moins, et beaucoup disparaissent. Le décompte laisse aussi de côté les angles, Chiron, Lilith et les nœuds, qui peuvent chacun occuper une pointe du triangle.
+Pour une configuration de cette réputation, le yod est courant : dans le décompte sur lequel s’appuie ce site, il apparaît chez environ 1 personne sur 8 née entre 1930 et 2009, parmi les dix planètes, avec chaque quinconce tenu à 3° et le sextile admis à 8° près du Soleil ou de la Lune, 6° sinon. L’orbe serré du quinconce compte beaucoup : un degré de plus, et bien d’autres yods apparaissent ; un degré de moins, et beaucoup disparaissent. Le décompte laisse aussi de côté les angles, Chiron, Lilith et les nœuds, qui peuvent chacun occuper une pointe du triangle.
 
 Le système que j’ai construit pour mes lectures décrit le quinconce comme une relation d’ajustement et de recalibrage : ni conflit, ni échec, ni rien qui se règle tout seul. Le sextile de la base est une coopération qu’il faut saisir pour qu’elle devienne quelque chose. Ensemble, je lis le yod comme deux fonctions qui marchent bien en paire et une troisième qui doit sans cesse se réaccorder aux deux, faute d’un terrain partagé où les rejoindre à mi-chemin. Avec les années, ce réaccordage se change souvent en précision : le sommet apprend, à force de répétition, une façon de travailler qui convient à deux voisines très différentes.
 
 Rien de tout cela n’est un destin. Un thème décrit la façon dont vous avez tendance à avancer, pas l’endroit où vous devez arriver ([ma méthode](/how-i-read/)), et le yod ne fait pas exception, quel que soit son nom.
 
-Les maisons de la base et du sommet demandent l’heure de naissance : la maison du sommet est le domaine de vie où l’ajustement se fait, celles de la base les domaines auxquels il s’ajuste. Un yod dont la Lune occupe une pointe est le plus sensible à l’heure : avec un orbe de 3° sur les quinconces et une Lune qui avance d’un signe environ tous les deux jours et demi, il peut exister le matin et avoir disparu le soir. C’est pourquoi je [ne lis pas un thème sans l’heure de naissance](/blog/unknown-birth-time/).
+Les maisons de la base et du sommet demandent l’heure de naissance : la maison du sommet est le domaine de vie où l’ajustement se fait, celles de la base les domaines auxquels il s’ajuste. Un yod dont la Lune occupe une pointe est le plus sensible à l’heure : avec un orbe de 3° sur les quinconces et une Lune qui avance d’un signe environ tous les deux jours et demi, il peut exister le matin et avoir disparu le soir. Avec une figure aussi délicate, il me faut [l’heure de naissance avant d’en dire quoi que ce soit](/blog/unknown-birth-time/).
 
 ## Ce qui aide {#ce-qui-aide}
 

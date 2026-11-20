@@ -16,9 +16,9 @@ facts:
 related: ["/astrology/progressed-moon", "/astrology/capricorn", "/astrology/moon-in-capricorn", "/astrology/saturn", "/blog/unknown-birth-time"]
 faq:
   - q: "What does the progressed Moon in Capricorn mean?"
-    a: "It means your progressed Moon is crossing Capricorn, the earth sign ruled by Saturn and, by tradition, the Moon’s detriment. Astrologers read these two years or so as a serious chapter: needs met through responsibility, structure and work that lasts. I read it as inner weather, warmth shown in deeds, with no events foretold."
+    a: "Your progressed Moon is making the climb through Capricorn, the earth sign ruled by Saturn and, by tradition, the Moon’s detriment. Astrologers read these two years or so as a serious chapter: needs met through responsibility, structure and work that lasts. I read it as inner weather, warmth shown in deeds, with no events foretold."
   - q: "How long does the progressed Moon stay in Capricorn?"
-    a: "Between two and two and a half years in my count of births from 1930 to 2009, and usually about two years and four months. The detriment doesn’t slow it down; the stay depends on how fast the real Moon was moving in the days after you were born."
+    a: "The climb takes two to two and a half years in my count of births from 1930 to 2009, and usually about two years and four months. The detriment doesn’t slow it down; the stay depends on how fast the real Moon was moving in the days after you were born."
   - q: "Is the progressed Moon in Capricorn a hard time?"
     a: "It can feel demanding, and tradition calls Capricorn the Moon’s detriment, but I don’t read it as a cold or unlucky chapter. Feelings show in what you do, and responsibility can become a source of steadiness. The hard part is usually carrying too much alone."
   - q: "Why does Saturn matter for the progressed Moon in Capricorn?"
@@ -39,7 +39,7 @@ Where the chapter’s work gathers depends on the house the progressed Moon cros
 
 ## How long it lasts {#how-long-it-lasts}
 
-For births from 1930 to 2009, the progressed Moon took between two and two and a half years to cross Capricorn, usually about two years and four months; the detriment doesn’t make it linger, however long the climb may feel. Your own length follows the real Moon’s speed in the days after your birth, one day of its motion for each year of the chapter.
+For births from 1930 to 2009, the progressed Moon took between two and two and a half years to cross Capricorn, usually about two years and four months; the detriment doesn’t make it linger, however long the climb may feel. How long yours lasts was settled in the first days of your life, by the pace of the real Moon.
 
 It comes after the [progressed Moon in Sagittarius](/astrology/progressed-moon-in-sagittarius/) and before the [progressed Moon in Aquarius](/astrology/progressed-moon-in-aquarius/): the vision, then the structure, then the question of whom the structure is for. Capricorn is the tenth of the twelve signs, so the round of about 27 years has only Aquarius and Pisces left before it begins again in Aries. With a natal [Moon in Capricorn](/astrology/moon-in-capricorn/), you have lived with this need for footing all your life; the chapter gives it a season of its own.
 

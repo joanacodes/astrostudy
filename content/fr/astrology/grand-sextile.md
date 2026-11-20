@@ -21,7 +21,7 @@ faq:
   - q: "Qu’est-ce qu’un grand sextile en astrologie ?"
     a: "Six planètes espacées de 60° environ tout autour du thème : chacune est en sextile avec ses voisines, en trigone avec les suivantes et opposée à la planète d’en face. Tracée, la figure dessine une étoile à six branches : deux grands trigones superposés, tenus ensemble par trois oppositions."
   - q: "Le grand sextile est-il rare ?"
-    a: "Très. Dans mon décompte des naissances de 1930 à 2009, environ 1 personne sur 7 305 en a un parmi les dix planètes, avec des orbes de 8° quand le Soleil ou la Lune en fait partie et de 6° sinon. Il faut six des dix planètes réparties en même temps autour du cercle, les lentes comprises."
+    a: "Très : c’est la configuration la plus rare de mon décompte, trouvée chez environ 1 personne sur 7 305 née entre 1930 et 2009. Il faut six des dix planètes réparties régulièrement autour du cercle au même moment, les lentes comprises, ce qui n’arrive presque jamais."
   - q: "Un grand sextile rend-il un thème exceptionnel ?"
     a: "Il le rend rare, ce qui n’est pas un rang. La rareté ne rend ni un thème meilleur ni une personne élue. Je le lis comme toute configuration : par ses six planètes, leurs signes et leurs maisons, comme une partie d’un thème qui compte quatre autres planètes et bien d’autres choses à dire."
   - q: "Dans quels signes tombe un grand sextile ?"

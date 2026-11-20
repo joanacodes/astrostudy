@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 11
 glyph: "⚹☍"
-definition: "Un berceau, ce sont quatre planètes sur une moitié du thème : deux en opposition, et deux autres entre elles d’un même côté, reliées par une chaîne de trois sextiles, les paires extérieures aussi en trigone. Il décrit une tension portée par en dessous, marche après marche, assez confortable pour s’y reposer. Environ 1 personne sur 10 en a un."
+definition: "Un berceau, ce sont quatre planètes sur une moitié du thème : deux en opposition, deux autres entre elles d’un même côté, reliées par trois sextiles, les paires extérieures aussi en trigone. Il décrit une tension portée par en dessous, assez confortable pour s’y reposer. Un thème sur dix environ en a un, presque autant que de grands trigones."
 facts:
   - { k: "Forme", v: "Un demi-hexagone : quatre planètes à 60° environ, sur 180°" }
   - { k: "Aspects", v: "Trois sextiles, deux trigones et une opposition" }
@@ -21,7 +21,7 @@ faq:
   - q: "Qu’est-ce qu’un berceau en astrologie ?"
     a: "Quatre planètes réparties sur une moitié du thème : deux en opposition aux extrémités, et deux entre elles d’un même côté, chacune à 60° environ de la suivante. Trois sextiles suivent la courbe, deux trigones la traversent et l’opposition l’enjambe. J’y lis une tension soutenue par en dessous, pas à pas."
   - q: "Le berceau est-il fréquent ?"
-    a: "Dans mon décompte des naissances de 1930 à 2009, environ 1 personne sur 10 en a un parmi les dix planètes, avec des orbes de 8° quand le Soleil ou la Lune en fait partie et de 6° sinon. Il est donc à peu près aussi fréquent qu’un grand trigone, avant même de compter les angles ou Chiron."
+    a: "À peu près autant qu’un grand trigone : environ 1 thème sur 10 pour les naissances de 1930 à 2009 contient un berceau parmi les dix planètes, dans mon décompte. Il se construit avec une opposition et des aspects doux, chacun courant à lui seul, et les angles et Chiron n’ont pas été inclus."
   - q: "Que font les deux planètes du milieu d’un berceau ?"
     a: "Elles relient les deux bouts de l’opposition par des étapes faciles : chacune est en sextile avec sa voisine et en trigone avec le bout opposé. J’y lis des médiatrices, les fonctions qui permettent de passer d’un côté de la tension à l’autre sans saut, et donc le point de départ quand l’opposition semble bloquée."
   - q: "Le berceau est-il une configuration confortable ?"
@@ -40,13 +40,13 @@ Partez d’une [opposition](/astrology/opposition/), deux planètes à 180°. Pl
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Environ 1 personne sur 10 née entre 1930 et 2009 a un berceau parmi les dix planètes, dans le décompte sur lequel s’appuie ce site, chaque aspect étant compté à 8° près quand le Soleil ou la Lune en fait partie et à 6° près sinon : à peu près aussi souvent qu’un grand trigone. Restent de côté les berceaux que complète un angle, Chiron, Lilith ou un nœud. Un berceau demande quatre planètes régulièrement espacées : un degré ou deux d’orbe dans un sens ou dans l’autre changent beaucoup le compte.
+Le berceau est à peu près aussi fréquent que le grand trigone : environ 1 personne sur 10 née entre 1930 et 2009 en a un parmi les dix planètes, dans le décompte sur lequel s’appuie ce site, ses sextiles, ses trigones et son opposition admis chacun à 8° quand le Soleil ou la Lune y figure et à 6° sinon. Restent de côté les berceaux que complète un angle, Chiron, Lilith ou un nœud. Un berceau demande quatre planètes régulièrement espacées : un degré ou deux d’orbe dans un sens ou dans l’autre changent beaucoup le compte.
 
 Le système que j’ai construit pour mes lectures décrit l’opposition comme une polarité et une intégration, le sextile comme une coopération qu’il faut saisir, et le trigone comme une circulation. Je lis le berceau comme une tension portée par en dessous. L’opposition met deux fonctions face à face ; les planètes du milieu offrent un chemin de l’une à l’autre par étapes faciles, si bien que la tension peut se visiter par plusieurs côtés au lieu de se balancer entre deux. Les deux planètes du milieu sont donc les plus utiles de la figure : des médiatrices, les fonctions à solliciter quand l’opposition semble bloquée. Une configuration se lit toujours par les planètes, les signes et les maisons qu’elle relie, jamais par sa seule forme.
 
 Son piège, c’est son confort. Du soutien tout autour d’une opposition la rend facile à vivre, donc facile à ne jamais régler : le berceau peut se balancer des années sans aller nulle part. L’autre moitié du cercle, de l’autre côté de l’opposition, ne contient rien de la figure, et c’est là que je cherche ce qu’elle n’apporte pas.
 
-L’opposition s’étend le plus souvent sur deux maisons qui se font face, et les planètes du milieu dans les maisons d’entre les deux : lesquelles, cela dépend de l’heure de naissance. Un berceau qui passe par la Lune peut se former ou se défaire en une journée. C’est pourquoi j’[attends l’heure de naissance avant de lire](/blog/unknown-birth-time/) quoi que ce soit.
+L’opposition s’étend le plus souvent sur deux maisons qui se font face, et les planètes du milieu dans les maisons d’entre les deux : lesquelles, cela dépend de l’heure de naissance. Un berceau qui passe par la Lune peut se former ou se défaire en une journée. Où il se balance, et s’il existe seulement, ce sont deux questions pour [l’heure de naissance](/blog/unknown-birth-time/), et je l’attends avant de lire.
 
 ## Ce qui aide {#ce-qui-aide}
 

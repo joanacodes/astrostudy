@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/seesaw-chart", "/astrology/splay-chart", "/astrology/chart-ruler", "/astrology/marc-edmund-jones", "/blog/unknown-birth-time"]
 faq:
   - q: "What is a splash chart?"
-    a: "A chart whose planets are spread round the whole wheel rather than gathered in one part of it, so that no large stretch is left empty. It’s the loosest of Marc Edmund Jones’s seven shapes. I read it as breadth: interest and attention shared out across many areas of life."
+    a: "A chart whose planets are spread round the whole wheel rather than gathered in one part of it, so that no large stretch is left empty. Of the shapes Marc Edmund Jones described, it’s the loosest. I read it as breadth: interest and attention shared out across many areas of life."
   - q: "Is a splash chart unfocused?"
     a: "Not necessarily. Astrologers who use the shape warn that energy can scatter across too many things, and it can. But breadth is also range: the ability to meet many kinds of people and situations. Focus comes from choices, and from the strongest planets in the chart, not from the shape."
   - q: "Why is there no count for the splash chart?"

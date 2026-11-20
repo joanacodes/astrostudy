@@ -16,9 +16,9 @@ facts:
 related: ["/astrology/progressed-moon", "/astrology/libra", "/astrology/moon-in-libra", "/astrology/venus", "/blog/unknown-birth-time"]
 faq:
   - q: "What does the progressed Moon in Libra mean?"
-    a: "It means your progressed Moon is crossing Libra, the sign of balance and partnership. Astrologers read these two years or so as a chapter in which your needs are met through others: company, fairness, cooperation and a sense of proportion. I read it as inner weather, never as an event foretold."
+    a: "For two years or so, your progressed Moon is in Libra, the sign of balance and partnership. Astrologers read the chapter as one in which your needs are met through others: company, fairness, cooperation and a sense of proportion. I read it as a need for balance, never as a forecast about any one relationship."
   - q: "How long does the progressed Moon stay in Libra?"
-    a: "Two to two and a half years, usually about two years and four months, in every birth I counted from 1930 to 2009. The sign of balance keeps no more even a pace than any other: your own length comes from how fast the real Moon was moving in the days after you were born."
+    a: "In every birth I counted from 1930 to 2009, the Libra chapter took two to two and a half years, most often about two years and four months. The sign of balance keeps no more even a pace than any other: your own length comes from how fast the real Moon was moving in the days after you were born."
   - q: "Does the progressed Moon in Libra mean a new relationship?"
     a: "Not as a prediction: no progression decides that a relationship will begin, deepen or end, and I never read one that way. Astrologers read the chapter as a time when partnership and fairness matter more to you, which can colour every kind of relationship, from love to friendship to work."
   - q: "Why is the progressed Moon in Libra linked to the Aries chapter?"
@@ -39,7 +39,7 @@ None of this predicts a relationship beginning or ending; a progression describe
 
 ## How long it lasts {#how-long-it-lasts}
 
-For births from 1930 to 2009, the progressed Moon took between two and two and a half years to cross Libra, usually about two years and four months, a year of the chapter for each day the real Moon spent in the sign after the birth. Being the sign of balance doesn’t make Libra’s chapter any more even than the rest: its length comes from the Moon’s speed at birth alone.
+Weighed in years, the Libra chapter comes out like the others: for births from 1930 to 2009, the progressed Moon took between two and two and a half years to cross the sign, usually about two years and four months, a year for each day the real Moon spent there after the birth. Being the sign of balance doesn’t make Libra’s chapter any more even than the rest: its length comes from the Moon’s speed at birth alone.
 
 It follows the [progressed Moon in Virgo](/astrology/progressed-moon-in-virgo/) and precedes the [progressed Moon in Scorpio](/astrology/progressed-moon-in-scorpio/). Libra stands opposite Aries, so this chapter comes about half a round, half of a cycle of some 27 years, after the Aries one began; what you started for yourself then, you may now find yourself sharing.
 

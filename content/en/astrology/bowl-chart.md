@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 17
 glyph: "✦"
-definition: "A bowl chart has all ten planets within one half of the wheel, 180° or less, leaving the other half empty. It is one of the seven chart shapes Marc Edmund Jones named. I read it as emphasis: much held on one side, and an empty side the chart keeps facing. About 1 person in 9 has one."
+definition: "A bowl chart has all ten planets within half of the wheel, 180° or less, leaving the other half empty. It is one of the seven chart shapes Marc Edmund Jones named. I read it as emphasis: much held on one side, and an empty side the chart keeps facing. Its share in my count: about 1 person in 9."
 facts:
   - { k: "Shape", v: "All ten planets within 180°; the other half of the wheel empty" }
   - { k: "Aspects", v: "None needed: it’s the spread of the planets" }

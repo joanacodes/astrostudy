@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 19
 glyph: "✦"
-definition: "A bundle chart has all ten planets packed within a third of the wheel, 120° or less, about four signs, leaving two-thirds of the chart empty. It is the tightest of Marc Edmund Jones’s seven shapes. I read it as concentration: attention gathered in a few areas of life. About 1 person in 56 has one."
+definition: "A bundle chart has all ten planets packed within a third of the wheel, 120° or less, about four signs, leaving two-thirds of the chart empty. It is the tightest of Marc Edmund Jones’s seven shapes. I read it as concentration: attention gathered in a few areas of life. It is rare: about 1 person in 56."
 facts:
   - { k: "Shape", v: "All ten planets within 120°: about four signs" }
   - { k: "Aspects", v: "None needed; inside it, no room for an opposition" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/bucket-chart", "/astrology/locomotive-chart", "/astrology/stellium", "/astrology/marc-edmund-jones", "/blog/unknown-birth-time"]
 faq:
   - q: "What is a bundle chart?"
-    a: "A chart in which all ten planets fit within 120°, about four signs, leaving two-thirds of the wheel empty. It’s the tightest of the seven shapes Marc Edmund Jones named. I read it as concentration: attention gathered in a few areas of life, with the empty part of the chart describing what comes to you from outside."
+    a: "A chart in which all ten planets fit within 120°, about four signs, leaving two-thirds of the wheel empty. No shape in Marc Edmund Jones’s scheme is tighter. I read it as concentration: attention gathered in a few areas of life, with the empty part of the chart describing what comes to you from outside."
   - q: "How rare is a bundle chart?"
     a: "It’s the rarest shape in my count: about 1 person in 56 born from 1930 to 2009 has all ten planets within 120°. It can only happen when the slowest planets stand close together, which depends on the years of birth, while the fast ones gather on the same side."
   - q: "Is a bundle chart a narrow life?"

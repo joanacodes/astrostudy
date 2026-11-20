@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 14
 glyph: "✦"
-definition: "Envelope is a name given to an aspect pattern linking several planets in a chart, but authors don’t agree on which planets and aspects make one. With no single definition there is no single drawing, and this site gives no count. Whatever a program labels an envelope is read through its planets and the aspects between them."
+definition: "Envelope is a name given to an aspect pattern linking several planets in a chart, but authors don’t agree on which planets and aspects make one. With no single definition there is no single drawing, and this site gives no count. Whatever a program labels an envelope, I read planet by planet and aspect by aspect."
 facts:
   - { k: "Shape", v: "No single one: it depends on the author" }
   - { k: "Aspects", v: "They change from one definition to another" }

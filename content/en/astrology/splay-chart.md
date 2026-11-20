@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 23
 glyph: "✦"
-definition: "A splay chart has its planets in a few irregular clusters spread round the wheel, often pairs or conjunctions at uneven distances, with gaps between them. It is the most irregular of Marc Edmund Jones’s seven shapes. I read it as several centres of gravity, each with its own business. With no agreed definition, it has no count here."
+definition: "A splay chart has its planets in a few irregular clusters spread round the wheel, often pairs or conjunctions at uneven distances, with gaps between them. Among Marc Edmund Jones’s seven shapes, none is less regular. I read it as several centres of gravity, each with its own business. With no agreed definition, it has no count here."
 facts:
   - { k: "Shape", v: "A few irregular clusters, spread round the wheel with gaps between" }
   - { k: "Aspects", v: "Conjunctions within the clusters; any aspect between them" }

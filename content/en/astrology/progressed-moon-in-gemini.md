@@ -18,7 +18,7 @@ faq:
   - q: "What does the progressed Moon in Gemini mean?"
     a: "It means your progressed Moon, the chart’s marker for the mood of a chapter, is crossing Gemini. Astrologers read these years as a time when needs are met through words, ideas and people: understanding what you feel by talking it through. I read it as inner weather, not as a forecast of what will happen."
   - q: "How long does the progressed Moon stay in Gemini?"
-    a: "Usually about two years and four months, and between two and two and a half years in every birth I counted from 1930 to 2009. The real Moon crosses Gemini in about two and a half days; each of those days after your birth becomes a year of the chapter."
+    a: "The real Moon crosses Gemini in about two and a half days; in the progressed chart each of those days after your birth becomes a year, so the chapter lasts two to two and a half years, usually about two years and four months, in my count of births from 1930 to 2009."
   - q: "Is the progressed Moon in Gemini a good time to study?"
     a: "Astrologers often read it as a curious chapter, so learning can feel natural in these years, but nothing in a progression decides what you should take up or how it will go. If study appeals to you, the chapter may suit it; the choice, and the effort, stay yours."
   - q: "Does the house matter for the progressed Moon in Gemini?"

@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 14
 glyph: "✦"
-definition: "Enveloppe est le nom donné à une configuration qui relie plusieurs planètes d’un thème, mais les auteurs ne s’accordent pas sur les planètes et les aspects qui la forment. Sans définition unique, pas de dessin unique, et ce site n’en donne pas de décompte. Ce qu’un logiciel appelle enveloppe se lit par ses planètes et leurs aspects."
+definition: "Enveloppe est le nom donné à une configuration qui relie plusieurs planètes d’un thème, mais les auteurs ne s’accordent pas sur les planètes et les aspects qui la forment. Sans définition unique, pas de dessin unique, et ce site n’en donne pas de décompte. Ce qu’un logiciel appelle enveloppe, je le lis planète par planète, aspect par aspect."
 facts:
   - { k: "Forme", v: "Aucune en particulier : elle dépend de l’auteur" }
   - { k: "Aspects", v: "Ils changent d’une définition à l’autre" }
