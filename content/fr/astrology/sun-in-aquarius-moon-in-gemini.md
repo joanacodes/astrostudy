@@ -43,7 +43,7 @@ Le décompte donne ce trigone d’air à environ 1 personne sur 148. Les jours o
 
 ## Dans les relations proches {#dans-les-relations-proches}
 
-Il vous faut quelqu’un à qui tout dire, qui vous laisse penser à voix haute. Le Soleil en Verseau veut une amitié dans le couple, avec de l’indépendance des deux côtés ; la Lune en Gémeaux veut ce va-et-vient quotidien de petites nouvelles, de plaisanteries et de questions qui lui dit que le lien est vivant. Plus difficile : la proximité sans paroles, et les phrases les plus simples, *tu m’as manqué*, *j’ai peur*. Une personne qui comprend que la conversation est votre façon de lui tenir la main se sentira rarement tenue à l’écart.
+Il vous faut quelqu’un à qui tout dire, qui vous laisse penser à voix haute. Le Soleil en Verseau veut une amitié dans le couple, avec de l’indépendance des deux côtés ; la Lune en Gémeaux veut ce va-et-vient quotidien de petites nouvelles, de plaisanteries et de questions qui lui dit que le lien est vivant. Plus difficile : la proximité sans paroles, les phrases les plus simples, *tu m’as manqué*, *j’ai peur*. Une personne qui comprend que la conversation est votre façon de lui tenir la main se sentira rarement tenue à l’écart.
 
 ## Au travail {#au-travail}
 
@@ -51,4 +51,4 @@ Un travail qui fait circuler l’information entre les gens vous convient : l�
 
 ## Le plus difficile {#le-plus-difficile}
 
-Avec deux signes d’air, une émotion reste volontiers dans la tête. Vous savez expliquer ce qui vous a fait mal, le replacer dans son contexte, en faire même une histoire drôle sans prendre le temps de le ressentir. Le Soleil fixe rend aussi vos opinions plus difficiles à déplacer que vos humeurs, ce qui surprend ceux qui prennent votre vivacité pour de la souplesse. Ce qui aide n’est pas fait de mots : cuisiner, nager, une longue marche sans téléphone, tout ce qui laisse une émotion arriver avant que vous l’ayez décrite.
+Avec deux signes d’air, une émotion reste volontiers dans la tête. Vous savez expliquer ce qui vous a fait mal, le replacer dans son contexte, en faire une histoire drôle sans prendre le temps de le ressentir. Le Soleil fixe rend aussi vos opinions plus difficiles à déplacer que vos humeurs, ce qui surprend ceux qui prennent votre vivacité pour de la souplesse. Ce qui aide n’est pas fait de mots : cuisiner, nager, une longue marche sans téléphone, tout ce qui laisse une émotion arriver avant que vous l’ayez décrite.
