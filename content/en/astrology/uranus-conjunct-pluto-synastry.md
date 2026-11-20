@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 321
 glyph: "♅☌♇"
-definition: "Uranus conjunct Pluto in synastry puts one person’s Uranus within 4° of the other’s Pluto: one generation’s way of changing things lands on another’s way of transforming them from the root. Whether the younger or the older holds the Uranus depends on the 1960s meeting. I read it through the houses, as two eras, not as fate."
+definition: "Uranus conjunct Pluto in synastry brings the Uranus of one person to within 4° of the other’s Pluto: one generation’s way of changing things lands on another’s way of transforming them from the root. Whether the younger or the older holds the Uranus depends on the 1960s meeting. I read it through the houses, as two eras, not as fate."
 facts:
   - { k: "Bodies", v: "One person’s Uranus ♅, the other’s Pluto ♇" }
   - { k: "Aspect", v: "Conjunction ☌, 0°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/pluto", "/astrology/conjunction", "/astrology/uranus-conjunct-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Uranus conjunct Pluto mean in synastry?"
-    a: "One person’s Uranus lies within 4° of the other’s Pluto. The Uranus person’s urge to break a pattern or reform a system lands on the place where the Pluto person transforms things at depth. It can fuse into change that goes all the way down; it describes two generations meeting more than two individuals."
+    a: "Within 4° of one person’s Uranus sits the other’s Pluto. The Uranus person’s urge to break a pattern or reform a system lands on the place where the Pluto person transforms things at depth. It can fuse into change that goes all the way down; it describes two generations meeting more than two individuals."
   - q: "Who holds the Uranus in Uranus conjunct Pluto?"
     a: "It depends on the meeting of the two planets in the mid-1960s. Before it, Uranus trailed Pluto and reached each Pluto degree years later, so the younger person holds the Uranus; after it, Uranus ran ahead, so the older person does. Between two people born in the mid-1960s it can go either way."
   - q: "Is Uranus conjunct Pluto an intense contact in synastry?"
@@ -27,7 +27,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the aspects; the conjunction, a meeting rather than an angle" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that give this contact, either way round" }
 ---
-One generation's urge to break a pattern meets another's urge to renew it at the root in Uranus conjunct Pluto in synastry. One person's Uranus lies within 4° of the other's Pluto, so the change one era reached for lands on the depth another era works from.
+One generation's urge to break a pattern meets another's urge to renew it at the root in Uranus conjunct Pluto in synastry. The Uranus in one chart lies within 4° of the Pluto in the other, so the change one era reached for lands on the depth another era works from.
 
 ## What flows {#what-flows}
 

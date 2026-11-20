@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/pluto", "/astrology/conjunction", "/astrology/uranus-conjunct-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Uranus conjonction Pluton en synastrie ?"
-    a: "Moins de 4° séparent Uranus d’une personne de Pluton chez l’autre. L’envie de la personne d’Uranus de briser un schéma ou de réformer un système se pose là où celle de Pluton transforme les choses en profondeur. Cela peut se fondre en un changement qui va jusqu’au bout ; le contact décrit deux générations qui se rencontrent plus que deux individus."
+    a: "Moins de 4° séparent Uranus d’une personne de Pluton chez l’autre. L’envie de la personne d’Uranus de briser un schéma ou de réformer un système se pose là où celle de Pluton transforme les choses en profondeur. Cela peut se fondre en un changement qui va jusqu’au bout ; le contact parle de deux générations qui se croisent, plus que de deux individus."
   - q: "Qui porte Uranus dans Uranus conjonction Pluton ?"
     a: "Cela dépend de la rencontre des deux planètes au milieu des années 1960. Avant, Uranus restait derrière Pluton et n’atteignait chaque degré de Pluton que des années plus tard : c’est la personne la plus jeune qui porte Uranus. Après, Uranus avait pris de l’avance, et c’est alors la plus âgée. Entre deux personnes nées au milieu des années 1960, cela peut aller dans les deux sens."
   - q: "Est-ce qu’Uranus conjonction Pluton est un contact intense en synastrie ?"

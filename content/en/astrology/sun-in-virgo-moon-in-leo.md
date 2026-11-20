@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 65
 glyph: "☉♍☽♌"
-definition: "Sun in Virgo, Moon in Leo sets the Moon in the sign before the Sun’s, which is the Sun’s own sign, during the last days of the lunar month. The Moon answers to the Sun, and the Sun to Mercury. I read it as a discreet worker with a warm heart that needs, now and then, to be seen."
+definition: "Sun in Virgo, Moon in Leo sets the Moon in the sign before the Sun’s, which is the Sun’s own sign, as the lunar month comes to an end. The Moon answers to the Sun, and the Sun to Mercury. I read it as a discreet worker with a warm heart that needs, now and then, to be seen."
 facts:
   - { k: "Sun sign", v: "Virgo ♍, ruled by Mercury" }
   - { k: "Moon sign", v: "Leo ♌, ruled by the Sun" }
@@ -17,22 +17,22 @@ facts:
   - { k: "How common", v: "About 1 person in 143 born 1930–2009" }
 related: ["/astrology/sun-in-virgo", "/astrology/moon-in-leo", "/astrology/balsamic-moon", "/astrology/new-moon-in-virgo", "/astrology/sun"]
 faq:
-  - q: "Why does recognition matter so much to a Virgo Sun with a Leo Moon?"
+  - q: "Does a Virgo Sun with a Leo Moon need recognition?"
     a: "Because the Leo Moon settles once its warmth is seen and returned, while the Virgo Sun tends to work quietly and play its gifts down. The need is real but rarely voiced. Specific appreciation, for what you actually did, reaches this pair far better than general praise does."
   - q: "What does it mean that the Sun rules a Leo Moon?"
-    a: "Leo is the Sun’s sign, so your Moon answers to your Sun: how you feel depends a good deal on how your purpose is going. With the Sun in Virgo, ruled by Mercury, the chain runs from Moon to Sun to Mercury, and Mercury’s sign and house describe where it ends."
+    a: "Leo belongs to the Sun, which makes your Sun your Moon’s ruler: how you feel depends a good deal on how your purpose is going. With the Sun in Virgo, ruled by Mercury, the chain runs from Moon to Sun to Mercury, and Mercury’s sign and house describe where it ends."
   - q: "Is a Sun in Virgo, Moon in Leo birth near a new moon?"
-    a: "Yes, just before one. Trailing the Sun by up to 58°, the Moon was in the last four or five days of its round. About seven of these births in eight are balsamic in the eight-phase scheme and a few belong to the last quarter; the new moon that followed was usually in Virgo."
+    a: "Yes, just before one. Trailing the Sun by up to 58°, the Moon was in the last four or five days of its round. Seven-eighths or so are balsamic births in the eight-phase scheme, the rest last quarter ones; the new moon that followed was usually in Virgo."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the Sun’s rule of Leo and Mercury’s of Virgo" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and how far behind the Sun the Moon was" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the old crescent in the days before the new moon" }
 ---
-Here the Moon sits one sign behind the Sun, in Leo, the sign the Sun rules, so your feelings answer directly to your sense of purpose. The lunar month was nearly over when you arrived, and I read the pair as a discreet worker with a warm heart that needs, now and then, to be seen.
+Your Moon is in Leo, one sign back from your Sun and in the very sign the Sun rules, which puts your feelings under the direct authority of your sense of purpose. The lunar month was nearly over at your arrival; I read the pair as a discreet worker with a warm heart that needs, now and then, to be seen.
 
 ## How they get along {#how-they-get-along}
 
-Mutable earth for the Sun, fixed fire for the Moon, and the two signs side by side: neighbours that share neither element nor mode. The [Sun in Virgo](/astrology/sun-in-virgo/) builds a self from discernment and good method, and is often modest about its gifts; the [Moon in Leo](/astrology/moon-in-leo/) needs warmth returned, to know that its care has landed and that it matters to someone in particular. In public you may play down what you do. In private you need someone to notice it.
+Side by side in the zodiac, Virgo and Leo still have nothing in common: mutable earth for your Sun, fixed fire for your Moon. The [Sun in Virgo](/astrology/sun-in-virgo/) builds a self from discernment and good method, and is often modest about its gifts; the [Moon in Leo](/astrology/moon-in-leo/) needs warmth returned, to know that its care has landed and that it matters to someone in particular. In public you may play down what you do. In private you need someone to notice it.
 
 The [Sun](/astrology/sun/) rules Leo, so your Moon reports to your Sun: what you feel depends a good deal on how your purpose is going, and a good day's work can lift a low mood faster than any treat. Your Sun in turn answers to [Mercury](/astrology/mercury/), ruler and exaltation of Virgo, which is never far from the Sun and sits in Leo, Virgo or Libra. The chain runs Moon, Sun, Mercury, and when Mercury is in Leo with your Moon, the planet that orders your thinking takes on its warmth as well. No dignity applies to either light in these signs.
 

@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 45
 glyph: "♀"
-definition: "Their Venus in your 9th house turns the other person’s affection towards your horizons: travel, study, belief and the meaning you look for. In synastry they love your outlook, and journeys or learning together please you both, though the far-off can be easier to love than the everyday; Sagittarius is the 9th’s natural sign."
+definition: "Their Venus in your 9th house finds your horizons lovely: your travels, studies, beliefs and search for meaning are what the other person admires. In synastry, journeys and learning together please you both, though the far-off can be easier to love than the everyday; the house’s natural sign is Jupiter’s Sagittarius."
 facts:
   - { k: "Their body", v: "Their Venus ♀" }
   - { k: "Your house", v: "The 9th house, journeys, beliefs and learning" }
@@ -19,7 +19,7 @@ faq:
   - q: "What draws them to me if their Venus is in my 9th house?"
     a: "Your outlook: your ideas, beliefs, travels and the way you look for meaning. They tend to find these lovely, and travelling or learning together can be a real pleasure. It describes affection for the wider world you open up, between partners, friends or colleagues alike."
   - q: "Does their Venus in my 9th house mean a long-distance relationship?"
-    a: "No overlay predicts where anyone will live or how a relationship will run. Venus here describes affection for what reaches far in you: ideas, beliefs, a taste for travel. Where and how you live is for the two of you to decide, not for a house in a chart."
+    a: "No overlay predicts where anyone will live or how a relationship will run. Venus here describes affection for what reaches far in you: ideas, beliefs, a taste for travel. Where and how you live is a choice the two of you make, not something a house in a chart decides."
   - q: "What do I find in them if my Venus is in their 9th house?"
     a: "Usually you love their horizons: their ideas, their faith or philosophy, their stories of elsewhere. They may feel admired for how they think. Love the ordinary person as well as the explorer, and be curious about their beliefs rather than simply charmed by them."
 sources:
@@ -40,9 +40,9 @@ Your worldview draws them. With you they may feel their own horizons widen, and 
 
 The far-off can be easier to love than the everyday. A bond that glows on holiday or in big conversations may struggle with the washing-up on a Tuesday, and an idealised picture of who you are, the traveller, the thinker, can leave little room for the ordinary person. Differences of belief can also be smoothed over for the sake of harmony instead of talked through.
 
-They may feel loved as an adventure rather than as a partner for daily life, or admired as a teacher without being known. If you idealise their culture or their faith, they may feel seen as a symbol rather than a person.
+They may feel loved as an adventure rather than as a partner for daily life, or admired as a teacher without being known. If you idealise their culture or their faith, they may feel seen as a symbol rather than a person. And if one of you always plans the adventures, the other can start to feel like luggage.
 
-Late in your 9th, close to your [Midheaven](/astrology/midheaven/), their Venus also brushes the top of your chart, and their appreciation of your ideas spills over into appreciation of your work and public life.
+Where your 9th meets your [Midheaven](/astrology/midheaven/), their Venus brushes the top of your chart too, and their appreciation of your ideas spills over into appreciation of your work and public life.
 
 ## How to meet it {#how-to-meet-it}
 

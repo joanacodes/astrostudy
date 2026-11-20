@@ -22,9 +22,9 @@ faq:
   - q: "Que veut dire Chiron sextile Nœud Nord en synastrie ?"
     a: "Le Chiron d’une personne se tient à deux signes environ du Nœud Nord de l’autre, à 1,8° près, et à quatre de son Nœud Sud. L’expérience de la première, faite autour d’une difficulté durable, peut ouvrir à la seconde un accès pratique à la capacité qu’elle construit, tout en restant à l’aise avec ce qu’elle sait déjà."
   - q: "Pourquoi le Nœud Sud compte-t-il dans Chiron sextile Nœud Nord ?"
-    a: "Parce que les nœuds se font exactement face, le Chiron qui forme un sextile avec l’un forme un trigone avec l’autre. La personne de Chiron s’entend sans peine avec les forces familières de l’autre : son aide paraît amicale plutôt que critique, et l’on est tenté de rester sur ce terrain confortable."
+    a: "Parce que les nœuds se font exactement face, l’angle de 60° qui relie ce Chiron au Nœud Nord devient, de l’autre côté de l’axe, un trigone avec le Nœud Sud. La personne de Chiron s’entend sans peine avec les forces familières de l’autre : son aide paraît amicale plutôt que critique, et l’on est tenté de rester sur ce terrain confortable."
   - q: "Qui a Chiron sextile Nœud Nord avec qui ?"
-    a: "Cela suit les mois de naissance. Un Chiron de mi-1995 forme un sextile avec le Nœud Nord de toutes les personnes nées de novembre 1981 à mars 1982, et l’inverse vaut pour celles nées de juillet à octobre 2002. En reculant, le nœud atteint les 60° des deux côtés d’un Chiron, si bien que de nouvelles fenêtres s’ouvrent."
+    a: "Cela suit les mois de naissance. Un Chiron de mi-1995 forme un sextile avec le Nœud Nord de chaque naissance de novembre 1981 à mars 1982, et l’inverse vaut pour celles nées de juillet à octobre 2002. En reculant, le nœud atteint les 60° des deux côtés d’un Chiron, si bien que de nouvelles fenêtres s’ouvrent."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, 60°, et le trigone, 120°, parmi ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact, avec le nœud vrai" }

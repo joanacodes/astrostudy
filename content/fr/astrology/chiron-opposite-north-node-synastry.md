@@ -36,7 +36,7 @@ Avec Chiron opposition Nœud Nord en synastrie, toute la largeur du zodiaque, à
 
 [Chiron](/astrology/chiron/) est la part d’un thème qui a appris à fonctionner autour d’une limite restée là : d’autres chemins, d’autres outils, un rythme qui marche. Le [Nœud Sud](/astrology/south-node/) garde ce qu’une personne fait déjà avec aisance, et le [Nœud Nord](/astrology/north-node/), toujours en face, la capacité moins familière qu’elle construit. Une [opposition](/astrology/opposition/) tend deux fonctions sur une même ligne, chacune définissant l’autre, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), celle-ci gare Chiron au bout familier de l’axe de l’autre.
 
-Si Chiron est de votre côté, le vieux terrain de l’autre ressemble à un endroit où vous êtes déjà passé. Vous reconnaissez ses manières habituelles de s’en sortir, et l’autre reconnaît votre façon de tenir en retour. Il y a là une parenté : aucune des deux n’a à expliquer comment elle fait.
+Si Chiron est de votre côté, le vieux terrain de l’autre ressemble à un endroit que vous connaissez déjà. Vous reconnaissez ses manières habituelles de s’en sortir, et l’autre reconnaît votre façon de tenir en retour. Il y a là une parenté : aucune des deux n’a à expliquer comment elle fait.
 
 Du côté du Nœud Nord, vous trouvez l’autre à l’aise avec ce que vous connaissez le mieux. Le temps passé ensemble repose, et vos forces acquises sont comprises sans effort. Ce que l’autre fera moins volontiers, c’est vous tirer vers le bout inconnu, puisque son Chiron vit sur votre bout familier.
 
