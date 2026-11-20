@@ -22,7 +22,7 @@ faq:
   - q: "Pourquoi cette personne semble-t-elle connaître mes peurs, avec Saturne de l’autre dans ma maison 12 ?"
     a: "Saturne, dans son thème, a pris place dans la part du vôtre qui garde le non-dit, et Saturne remarque le poids. Cette personne sent peut-être une inquiétude avant que vous en parliez, ou en porte une pour vous. Nommer vos peurs à voix haute, même petites, évite que ce savoir tourne au silence."
   - q: "Pourquoi est-ce que je m’inquiète pour une personne dont la maison 12 reçoit Saturne de mon thème ?"
-    a: "Saturne, chez vous, tombe là où se déroule sa vie privée : vous vous sentez responsable de choses que vous ne voyez pas tout à fait, son repos, sa solitude, les peurs qu’elle garde. Offrir de la stabilité sans demander d’explications aide, tout comme croire que ses retraits servent à se renouveler, pas à vous fermer la porte."
+    a: "Saturne, chez vous, tombe là où se déroule sa vie privée : vous vous sentez responsable de choses que vous voyez mal, son repos, sa solitude, les peurs qu’elle garde. Offrir de la stabilité sans demander d’explications aide, tout comme croire que ses retraits servent à se renouveler, pas à vous fermer la porte."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "Saturne parmi les planètes classiques" }
