@@ -8,10 +8,10 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 41
 glyph: "♆"
-definition: "Neptune en transit en maison 5, c’est l’imaginaire en liberté dans votre maison de la créativité, du jeu et des amours, environ quatorze ans en général. Ce transit colore ce que votre thème dit du plaisir : un art proche de la dévotion, un amour prompt à idéaliser, un jeu où l’on s’oublie. Ni enfant ni liaison n’y sont prédits."
+definition: "Neptune en transit en maison 5, c’est l’imaginaire en liberté là où vous créez, jouez et aimez, environ quatorze ans en général. Ce transit colore ce que votre thème dit du plaisir : un art proche de la dévotion, un amour prompt à idéaliser, un jeu où l’on s’oublie. Ni enfant ni liaison n’y sont prédits."
 facts:
   - { k: "Corps", v: "Neptune ♆, la planète des idéaux, de l’imaginaire et de l’aspiration" }
-  - { k: "Maison", v: "La maison 5, succédente : la créativité, le jeu, les amours et l’expression de soi" }
+  - { k: "Maison", v: "La maison 5, succédente : l’art, le jeu, les élans du cœur et le plaisir de se montrer" }
   - { k: "Durée", v: "Environ 14 ans en général ; de près de 9 à un peu moins de 22 ans à la latitude de Londres" }
   - { k: "Dans le ciel", v: "Bélier, de janvier 2026 à mars 2039" }
   - { k: "Il faut", v: "Votre heure de naissance, seul moyen de savoir quand commence votre maison 5" }

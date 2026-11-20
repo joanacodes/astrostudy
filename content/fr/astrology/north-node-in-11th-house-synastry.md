@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 155
 glyph: "☊"
-definition: "Le Nœud Nord de l’autre dans votre maison 11 fait de vos amitiés, de vos groupes et de vos espoirs partagés l’endroit où cette personne grandit, et place son Nœud Sud dans votre maison 5. Dans votre cercle, elle apprend à appartenir à plus grand que vous deux ; le charme et le plaisir en tête-à-tête, eux, ne s’apprennent pas."
+definition: "Le Nœud Nord de l’autre dans votre maison 11 signifie que cette personne grandit parmi vos amitiés, vos groupes et vos espoirs partagés, tandis que son Nœud Sud occupe votre maison 5. Dans votre cercle, elle apprend à appartenir à plus grand que vous deux ; le charme et le plaisir en tête-à-tête, eux, ne s’apprennent pas."
 facts:
   - { k: "Corps de l’autre", v: "Le Nœud Nord de l’autre ☊, moyen et vrai" }
   - { k: "Votre maison", v: "La maison 11 : amis, groupes, espoirs partagés" }
@@ -37,7 +37,7 @@ La [maison 11](/astrology/11th-house/), ce sont les autres au pluriel : les ami
 
 De votre côté, cette personne veut peut-être rencontrer vos amis, rejoindre votre chorale ou votre association, aider au projet que vous avez lancé avec d’autres. Elle y apporte peut-être la générosité de qui débarque sans bien connaître encore les règles du groupe, et voir votre cercle à travers ses yeux peut vous rappeler à quel point il vous porte.
 
-Pour elle, vos amitiés montrent à quoi ressemblent, en pratique, des espoirs partagés. Le [Verseau](/astrology/aquarius/), signe naturel de cette maison succédente, répond à Uranus dans l’astrologie tropicale moderne et à Saturne dans la tradition. Je lis les deux : un esprit indépendant et un regard qui porte loin, ce qu’il faut pour appartenir sans disparaître. La tradition comptait la maison 11 parmi les maisons fastes, l’appelait le Génie favorable et y plaçait la joie de Jupiter.
+Pour elle, vos amitiés montrent à quoi ressemblent, en pratique, des espoirs partagés. Le [Verseau](/astrology/aquarius/), signe naturel de cette maison succédente, répond à Uranus dans l’astrologie tropicale moderne et à Saturne dans la tradition. Je lis les deux : un esprit indépendant et un regard qui porte loin, ce qu’il faut pour appartenir sans disparaître. Maison faste pour la tradition, la maison 11 portait le nom de Génie favorable, et Jupiter y avait sa joie.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
@@ -53,4 +53,4 @@ Faites-la entrer dans le groupe et laissez-la y trouver un rôle qui ne soit pas
 
 Retournez les thèmes et c’est votre nœud parmi ses amis : votre Nœud Nord dans sa maison 11. Juste avant sur la roue, [le Nœud Nord de l’autre dans votre maison 10](/astrology/north-node-in-10th-house-synastry/) observe votre carrière ; juste après, [le Nœud Nord de l’autre dans votre maison 12](/astrology/north-node-in-12th-house-synastry/) tient compagnie à votre solitude.
 
-Quatre minutes d’écart sur l’heure de naissance déplacent votre horizon d’un degré, et en Placidus, le système de maisons que j’utilise, les cuspides de votre maison 11 bougent avec lui : c’est donc votre heure qui trace les bords de votre cercle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Son nœud appartient à une foule autant qu’à elle, partagé par toutes les personnes nées à 18 mois près, et sa date de naissance le place. Aux deux bords de votre maison 11, le nœud moyen et le nœud vrai peuvent diverger, l’un la plaçant parmi vos amis, l’autre dans votre carrière ou votre solitude ; je regarde les deux, et je ne lis le duo qu’avec les deux heures. L’amitié est un choix que font deux personnes, et la lecture qu’on en fait aussi ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Quatre minutes d’écart sur l’heure de naissance déplacent votre horizon d’un degré, et en Placidus, le système de maisons que j’utilise, les cuspides de votre maison 11 bougent avec lui : c’est donc votre heure qui trace les bords de votre cercle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Son nœud appartient à une foule autant qu’à elle, partagé par toutes les personnes nées à 18 mois près, et sa date de naissance le place. Aux deux bords de votre maison 11, le nœud moyen et le nœud vrai peuvent diverger, l’un la plaçant parmi vos amis, l’autre dans votre carrière ou votre solitude ; je regarde les deux, et je ne lis le duo qu’avec les deux heures. Une amitié se choisit à deux : je n’en lis aucune pour une seule des deux personnes ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

@@ -2,7 +2,7 @@
 title: "Uranus en transit en maison 2"
 slug: "transit-uranus-maison-2"
 h1: "Uranus en transit dans votre maison 2"
-description: "Uranus en transit en maison 2 : environ sept ans pour changer votre façon de gagner et ce qui compte pour vous, sans prédire l’argent, juste après le Taureau."
+description: "Uranus en transit en maison 2 : un peu moins de sept ans de nouvelles façons de gagner, de dépenser et d’estimer, sans prédire l’argent, après le Taureau."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

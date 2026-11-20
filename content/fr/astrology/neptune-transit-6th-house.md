@@ -22,7 +22,7 @@ faq:
   - q: "Pourquoi est-ce que les routines s’effritent avec Neptune en maison 6 ?"
     a: "Parce que Neptune dissout ce qui a cessé d’avoir du sens, et que la maison 6 est celle de la routine. Les habitudes gardées par simple devoir peuvent s’effacer avant que de nouvelles se forment. Un cadre léger, quelques repères fixes dans la journée et des tâches choisies pour une raison aident le nouveau rythme à s’installer."
   - q: "Quelle maison garde Neptune le plus longtemps à la latitude de Londres ?"
-    a: "Au bout long, la maison 6 : dans les thèmes en Placidus dressés pour Londres, la plupart des séjours de Neptune y durent jusqu’à vingt-six ans, la plus longue portée de toutes les maisons, même si le milieu est de près de treize ans. Que le vôtre soit long ou court dépend de la largeur de votre maison 6, fixée par votre heure de naissance."
+    a: "Au bout long, la maison 6 : dans les thèmes en Placidus dressés pour Londres, la plupart des séjours de Neptune y durent jusqu’à vingt-six ans, la plus longue portée de toutes les maisons, même si le milieu est de près de treize ans. Long ou court, le vôtre suit la largeur de votre maison 6, et cette largeur vient de l’heure de votre naissance."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les années de Neptune dans chaque maison à deux latitudes, Londres et New York, en Placidus, avec les signes atteints à partir de 2026" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons et leurs anciens noms, tels que les employaient les astrologues hellénistiques" }

@@ -2,7 +2,7 @@
 title: "Uranus en transit en maison 8"
 slug: "transit-uranus-maison-8"
 h1: "Uranus en transit dans votre maison 8"
-description: "Uranus en transit en maison 8 : près de huit ans de liberté dans l’intimité et de nouveaux termes pour ce qui se partage, sans prédire ni mort ni argent."
+description: "Uranus en transit en maison 8 : près de huit ans pour respirer dans la proximité et revoir les accords communs, sans rien prédire de la mort ni de l’argent."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

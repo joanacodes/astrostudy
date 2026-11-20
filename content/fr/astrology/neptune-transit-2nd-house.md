@@ -2,7 +2,7 @@
 title: "Neptune en transit en maison 2"
 slug: "transit-neptune-maison-2"
 h1: "Neptune en transit dans votre maison 2"
-description: "Neptune en transit en maison 2 : près de quinze ans où les valeurs deviennent moins matérielles et l’argent demande des comptes clairs, sans prédiction."
+description: "Neptune en transit en maison 2 : près de quinze ans où l’argent compte moins que le sens et réclame des comptes clairs, sans aucune prédiction."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -27,7 +27,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les années de Neptune dans chaque maison à deux latitudes, Londres et New York, en Placidus, avec les signes atteints à partir de 2026" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons et leurs anciens noms, tels que les employaient les astrologues hellénistiques" }
 ---
-Avec Neptune dans votre maison 2, la planète des idéaux s’installe pour des années dans la part du thème qui compte les choses : l’argent, les biens, ce que vous appelleriez la sécurité, et ce que vous pensez valoir. Le séjour dure en général près de quinze ans.
+Avec Neptune dans votre maison 2, la planète des idéaux s’installe pour des années dans la part du thème qui compte les choses : l’argent, les biens, ce que vous appelleriez la sécurité, et ce que vous pensez valoir. Il faut compter, en général, près de quinze ans.
 
 ## Ce qui change {#ce-qui-change}
 

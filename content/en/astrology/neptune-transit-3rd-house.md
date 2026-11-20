@@ -10,7 +10,7 @@ glyph: "♆"
 definition: "Neptune transiting the 3rd house fills your everyday mind with images for close to sixteen years in the middle, Neptune’s longest stay in any house at London’s latitude. It works on what your chart already says about thinking, talking and learning: intuition and imagination grow, while details ask for a second look."
 facts:
   - { k: "Body", v: "Neptune ♆, the planet of ideals, imagination and longing" }
-  - { k: "House", v: "The 3rd house, cadent: everyday thinking, words, learning and the near world" }
+  - { k: "House", v: "The 3rd house, cadent: words, ideas, learning and the streets around you" }
   - { k: "Stay", v: "Usually just under 16 years; about 9½ to nearly 19 years at London’s latitude" }
   - { k: "In the sky", v: "Aries, from January 2026 to March 2039" }
   - { k: "Needs", v: "Your birth time; without it the 3rd has no edges" }
@@ -21,7 +21,7 @@ faq:
   - q: "Is Neptune in the 3rd house good for writing?"
     a: "Often, yes. Years of Neptune in the house of words tend to suit poetry, songs, fiction and any writing that works through image and feeling. Drafts may come easily and need a clearer eye later, which is a fair division of labour."
   - q: "Is the 3rd house Neptune’s longest stay?"
-    a: "In the middle, yes, for a London birth: just under sixteen years in Placidus charts drawn there, the longest middle of any house, with most stays between about nine and a half and nearly nineteen years. Your birth time sets the size of your 3rd, and so your own figure."
+    a: "In the middle, yes, for a London birth: just under sixteen years in Placidus charts drawn there, the longest middle of any house, with most stays between about nine and a half and nearly nineteen years. The size of your 3rd, given by your birth time, makes your own figure."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "Neptune’s years in each house at two latitudes, London and New York, in Placidus, with the signs it reaches from 2026" }
   - { title: "Vettius Valens, Anthology", note: "the houses and their old names, as the Hellenistic astrologers used them" }

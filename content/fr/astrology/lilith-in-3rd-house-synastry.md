@@ -21,7 +21,7 @@ faq:
     a: "C’est peut-être en partie cela. Sa Lilith est la part d’elle qui refuse le bâillon, et dans votre maison 3, elle rencontre vos mots, vos messages et vos questions de tous les jours. À ses côtés, la phrase qu’on vous avait appris à ravaler peut sortir. La franchise est un cadeau tant qu’elle reste bienveillante."
   - q: "Une superposition de Lilith en maison 3 veut-elle dire que nous allons nous disputer ?"
     a: "Pas forcément. Elle rend la conversation plus franche, ce qui peut donner des échanges plus vifs, surtout par message, où le ton se perd. Convenir des sujets qu’on aborde en face, et d’une façon de dire « ça m’a piqué », empêche la franchise de tourner au concours de points. La superposition montre un style d’échange, pas une dispute."
-  - q: "Et quand c’est ma Lilith qui tombe dans sa maison 3 ?"
+  - q: "Et si les rôles s’inversent, ma Lilith tombant dans sa maison 3 ?"
     a: "Votre côté sans filtre rencontre ses échanges de tous les jours : elle se surprend peut-être à en dire plus que d’habitude, ou se hérisse devant votre franchise. Demandez avant de plaisanter sur ses frères et sœurs ou sur sa façon de parler, et laissez-lui un peu de banalités polies ; tout le monde ne veut pas que chaque phrase compte."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "la maison 3, la Déesse" }

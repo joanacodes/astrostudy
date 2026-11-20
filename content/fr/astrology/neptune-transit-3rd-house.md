@@ -11,7 +11,7 @@ glyph: "♆"
 definition: "Neptune en transit en maison 3 remplit d’images votre esprit de tous les jours pendant près de seize ans au milieu, le plus long séjour de Neptune dans une maison à la latitude de Londres. Ce transit travaille ce que votre thème dit de la pensée, de la parole et de l’apprentissage : l’intuition grandit, les détails demandent une seconde lecture."
 facts:
   - { k: "Corps", v: "Neptune ♆, la planète des idéaux, de l’imaginaire et de l’aspiration" }
-  - { k: "Maison", v: "La maison 3, cadente : la pensée de tous les jours, les mots, l’apprentissage et le monde proche" }
+  - { k: "Maison", v: "La maison 3, cadente : les mots, les idées, l’apprentissage et les rues autour de vous" }
   - { k: "Durée", v: "Un peu moins de 16 ans en général ; de 9 ans et demi environ à près de 19 ans à la latitude de Londres" }
   - { k: "Dans le ciel", v: "Bélier, de janvier 2026 à mars 2039" }
   - { k: "Il faut", v: "Votre heure de naissance ; sans elle, la maison 3 n’a pas de bords" }
@@ -22,7 +22,7 @@ faq:
   - q: "Est-ce que Neptune en maison 3 est bon pour l’écriture ?"
     a: "Souvent, oui. Des années de Neptune dans la maison des mots conviennent à la poésie, aux chansons, à la fiction et à toute écriture qui passe par l’image et le sentiment. Les brouillons viennent parfois facilement et demandent plus tard un œil plus clair, ce qui est un juste partage du travail."
   - q: "Est-ce que la maison 3 est le plus long séjour de Neptune ?"
-    a: "Au milieu, oui, pour une naissance à Londres : un peu moins de seize ans dans les thèmes en Placidus dressés là-bas, le milieu le plus long de toutes les maisons, la plupart des séjours allant de neuf ans et demi environ à près de dix-neuf. Votre heure de naissance fixe la taille de votre maison 3, et donc votre propre chiffre."
+    a: "Au milieu, oui, pour une naissance à Londres : un peu moins de seize ans dans les thèmes en Placidus dressés là-bas, le milieu le plus long de toutes les maisons, la plupart des séjours allant de neuf ans et demi environ à près de dix-neuf. C’est la taille de votre maison 3, donnée par votre heure de naissance, qui fait votre propre chiffre."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les années de Neptune dans chaque maison à deux latitudes, Londres et New York, en Placidus, avec les signes atteints à partir de 2026" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons et leurs anciens noms, tels que les employaient les astrologues hellénistiques" }

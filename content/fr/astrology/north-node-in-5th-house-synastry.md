@@ -45,7 +45,7 @@ Vos amis et vos groupes, là où son [Nœud Sud](/astrology/south-node/) tombe d
 
 De son côté, votre maison 5 peut ressembler à une scène où elle ne sait pas si elle a le droit de monter. Elle reste peut-être en retrait, en fait une plaisanterie, ou se cache dans l’organisation, le rôle confortable que lui donne la maison 11.
 
-La tradition donnait les enfants à la maison 5. Aucun bout de cette superposition ne dit si l’une ou l’autre des deux personnes en aura ([l’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et je ne lis pas [le thème des enfants](/astrology/childrens-charts/) : ce qu’elle décrit, c’est le jeu et le plaisir entre deux adultes.
+Autrefois, on cherchait les enfants dans la maison 5. Aucun bout de cette superposition ne dit si l’une ou l’autre des deux personnes en aura ([l’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et je ne lis pas [le thème des enfants](/astrology/childrens-charts/) : ce qu’elle décrit, c’est le jeu et le plaisir entre deux adultes.
 
 ## Comment le vivre {#comment-le-vivre}
 

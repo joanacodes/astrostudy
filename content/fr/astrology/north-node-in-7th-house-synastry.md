@@ -45,7 +45,7 @@ Son [Nœud Sud](/astrology/south-node/) se trouve dans la [maison 1](/astrology/
 
 De son côté, former un duo avec vous peut ressembler à apprendre à danser avec quelqu’un qui connaît déjà les pas. Quand cela devient difficile, elle se replie peut-être dans l’indépendance en l’appelant franchise, et vous vous demandez s’il s’agit d’un partenariat ou d’un terrain d’entraînement.
 
-Rien de cela ne veut dire que votre lien était écrit d’avance, ni que la relation est sa mission dans la vie. Cette superposition ne prédit ni mariage, ni contrat, ni durée. Elle décrit une direction que cette personne travaille, dans une relation que vous choisissez à deux, jour après jour.
+Rien de cela ne veut dire que votre lien était écrit d’avance, ni que la relation est sa mission dans la vie. On n’y lit ni mariage à venir, ni contrat, ni durée. Elle décrit une direction que cette personne travaille, dans une relation que vous choisissez à deux, jour après jour.
 
 ## Comment le vivre {#comment-le-vivre}
 

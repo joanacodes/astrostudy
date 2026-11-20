@@ -20,7 +20,7 @@ faq:
     a: "It may well be part of it. Their Lilith is the part of them that won’t be gagged; set in your 3rd house, it reaches your everyday words, messages and questions. With them, the sentence you were taught to swallow may come out. Frankness is a gift when it stays kind."
   - q: "Does a Lilith overlay in the 3rd house mean we’ll argue?"
     a: "Not necessarily. It makes conversation franker, which can mean sharper exchanges, especially by message, where tone gets lost. Agreeing which subjects you discuss face to face, and how you say ‘that stung’, keeps frankness from turning into point-scoring. The overlay shows a style of talk, not a quarrel."
-  - q: "And when my Lilith is the one in their 3rd house?"
+  - q: "What if the roles flip and my Lilith lands in their 3rd house?"
     a: "Your unfiltered side meets their everyday talk, so they may find themselves saying more than usual, or bristling at your bluntness. Ask before teasing them about their siblings or the way they speak, and let them keep a little polite small talk; not everyone wants every sentence to count."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the 3rd house, the Goddess" }

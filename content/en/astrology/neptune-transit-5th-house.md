@@ -7,10 +7,10 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 41
 glyph: "♆"
-definition: "Neptune transiting the 5th house is imagination let loose in your house of creativity, play and romance, usually for about fourteen years. It colours what your chart already says about delight: art closer to devotion, love quick to idealise, play that lets you forget yourself. Children and romances are not what it predicts."
+definition: "Neptune transiting the 5th house is imagination let loose where you create, play and love, usually for about fourteen years. It colours what your chart already says about delight: art closer to devotion, love quick to idealise, play that lets you forget yourself. Children and romances are not what it predicts."
 facts:
   - { k: "Body", v: "Neptune ♆, the planet of ideals, imagination and longing" }
-  - { k: "House", v: "The 5th house, succedent: creativity, play, romance and self-expression" }
+  - { k: "House", v: "The 5th house, succedent: art, play, romance and the joy of being seen" }
   - { k: "Stay", v: "Usually about 14 years; nearly 9 to just under 22 years at London’s latitude" }
   - { k: "In the sky", v: "Aries, from January 2026 to March 2039" }
   - { k: "Needs", v: "Your birth time, the only way to know when your 5th begins" }

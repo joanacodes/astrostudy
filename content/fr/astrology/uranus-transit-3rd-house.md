@@ -2,7 +2,7 @@
 title: "Uranus en transit en maison 3"
 slug: "transit-uranus-maison-3"
 h1: "Uranus en transit dans votre maison 3"
-description: "Uranus en transit en maison 3 : près de huit ans d’idées neuves, d’outils neufs et de nouvelles façons de parler, pendant qu’Uranus traverse les Gémeaux."
+description: "Uranus en transit en maison 3 : près de huit ans où la pensée avance par bonds et où la parole change d’outils, pendant qu’Uranus traverse les Gémeaux."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

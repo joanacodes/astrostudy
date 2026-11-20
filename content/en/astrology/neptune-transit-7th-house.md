@@ -10,7 +10,7 @@ glyph: "♆"
 definition: "Neptune transiting the 7th house opens a long season at your Descendant: close to thirteen years in the middle, spent in your house of partners. It colours what your chart already says about one-to-one bonds: devotion, compassion, a longing for a soulmate, and lines that blur. It names no deceiver and ends no bond."
 facts:
   - { k: "Body", v: "Neptune ♆, the planet of ideals, imagination and longing" }
-  - { k: "House", v: "The 7th house, angular: partnership, commitment and one-to-one bonds" }
+  - { k: "House", v: "The 7th house, angular: love, partnership and agreements between two" }
   - { k: "Stay", v: "Usually about 12 years and 8 months; nearly 9 to about 25 years at London’s latitude" }
   - { k: "In the sky", v: "Aries, from January 2026 to March 2039" }
   - { k: "Needs", v: "Your birth time, which places the Descendant opposite your rising degree" }

@@ -11,7 +11,7 @@ glyph: "♆"
 definition: "Neptune en transit en maison 7 ouvre une longue saison au descendant : près de treize ans au milieu dans votre maison des partenaires. Ce transit colore les liens en tête-à-tête : dévouement, compassion, désir d’âme sœur, lignes qui se brouillent. Ce passage ne désigne aucun trompeur et ne clôt aucun lien."
 facts:
   - { k: "Corps", v: "Neptune ♆, la planète des idéaux, de l’imaginaire et de l’aspiration" }
-  - { k: "Maison", v: "La maison 7, angulaire : le couple, l’engagement et les liens en tête-à-tête" }
+  - { k: "Maison", v: "La maison 7, angulaire : l’amour, l’association et les accords à deux" }
   - { k: "Durée", v: "Environ 12 ans et 8 mois en général ; de près de 9 à 25 ans environ à la latitude de Londres" }
   - { k: "Dans le ciel", v: "Bélier, de janvier 2026 à mars 2039" }
   - { k: "Il faut", v: "Votre heure de naissance, qui place le descendant face à votre degré ascendant" }

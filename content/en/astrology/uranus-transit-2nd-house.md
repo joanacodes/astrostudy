@@ -1,7 +1,7 @@
 ---
 title: "Uranus transiting the 2nd house"
 h1: "Uranus transiting your 2nd house"
-description: "Uranus transiting the 2nd house: about seven years of changing how you earn and what you value, with no money forecast, just after Uranus left Taurus."
+description: "Uranus transiting the 2nd house: just under seven years of new ways to earn, spend and value, with no money forecast, as Uranus leaves Taurus behind."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

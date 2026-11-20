@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 156
 glyph: "☊"
-definition: "Their North Node in your 12th house sends the other person’s learning to the quiet end of your chart, rest, solitude and the inner life, and their South Node to your 6th. Near you they practise stillness and letting go, and they fall back on busy usefulness in your daily routine."
+definition: "Their North Node in your 12th house sends the other person’s learning into the private hours of your chart, your rest, your solitude, your inner life, and their South Node to your 6th. Near you they practise stillness and letting go, and they fall back on busy usefulness in your daily routine."
 facts:
   - { k: "Their body", v: "Their North Node ☊, mean and true" }
   - { k: "Your house", v: "The 12th house: rest, solitude, the inner life" }

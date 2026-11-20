@@ -32,11 +32,11 @@ Their North Node in your 4th house sets the direction the other person is growin
 
 ## What it brings {#what-it-brings}
 
-[The 4th house](/astrology/4th-house/) is the ground you stand on: home, family, belonging, the self only close people see. The [North Node](/astrology/north-node/) shows a capacity someone is still practising. Through this [house overlay](/astrology/house-overlays/), the practice is belonging, being at home, unhurried and off duty, and they learn it near you.
+[The 4th house](/astrology/4th-house/) is home in every sense: the rooms you live in, the family you came from or made, the feeling of belonging, the side of you that visitors rarely see. The [North Node](/astrology/north-node/) shows a capacity someone is still practising. Through this [house overlay](/astrology/house-overlays/), the practice is belonging, being at home, unhurried and off duty, and they learn it near you.
 
 For you, they may want to be in your kitchen more than in your diary. They ask where you grew up, notice how you've arranged a room, sit down to a meal without looking at their phone. Seen through their interest, your private life can feel worth more than you'd usually allow.
 
-For them, your home shows what an inner life with roots can look like. Letting feelings and belonging count as much as achievement is their stretch; it comes slowly, but it comes. The 4th is angular, though it works out of sight, and [Cancer](/astrology/cancer/), its natural sign, is ruled by the Moon, the body whose crossings of the Sun's path make the nodes. Close to your [IC](/astrology/imum-coeli/), their North Node meets the root of your chart and their South Node your [Midheaven](/astrology/midheaven/), so their line runs straight down your meridian.
+For them, your home shows what an inner life with roots can look like. Letting feelings and belonging count as much as achievement is their stretch; it comes slowly, but it comes. Angular yet private, the 4th has [Cancer](/astrology/cancer/) as its natural sign, ruled by the Moon, the body whose crossings of the Sun's path make the nodes. Close to your [IC](/astrology/imum-coeli/), their North Node meets the root of your chart and their South Node your [Midheaven](/astrology/midheaven/), so their line runs straight down your meridian.
 
 ## Where it rubs {#where-it-rubs}
 

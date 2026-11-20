@@ -8,10 +8,10 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 44
 glyph: "♆"
-definition: "Neptune en transit en maison 8 amincit les murs entre vous et les autres pendant près de quatorze ans en général, dans la maison de l’intimité, de la confiance et de ce qui se partage. Ce transit travaille la proximité de votre thème : compassion, fusion, arrangements communs flous. Ni mort, ni legs, ni argent n’y sont lus."
+definition: "Neptune en transit en maison 8 amincit les murs entre vous et les autres pendant près de quatorze ans en général, dans la maison de l’intimité, de la confiance et de ce qui se partage. Ce transit travaille la proximité de votre thème : compassion, fusion, arrangements communs flous. On n’y lit ni la mort de quiconque ni une somme d’argent."
 facts:
   - { k: "Corps", v: "Neptune ♆, la planète des idéaux, de l’imaginaire et de l’aspiration" }
-  - { k: "Maison", v: "La maison 8, succédente : l’intimité, la confiance, l’argent partagé et ce qui se doit" }
+  - { k: "Maison", v: "La maison 8, succédente : la confiance, l’intimité, les comptes communs et les dettes" }
   - { k: "Durée", v: "Près de 14 ans en général ; de près de 9 à près de 22 ans à la latitude de Londres" }
   - { k: "Dans le ciel", v: "Bélier, de janvier 2026 à mars 2039" }
   - { k: "Il faut", v: "Votre heure de naissance, sans laquelle votre maison 8 n’a pas de date de début" }
@@ -22,7 +22,7 @@ faq:
   - q: "Pourquoi est-ce que la proximité ressemble à une fusion avec Neptune en maison 8 ?"
     a: "Parce que Neptune dissout les frontières et que la maison 8 est celle où l’on laisse entrer quelqu’un. La confiance peut se donner tout entière, et les sentiments d’une autre personne peuvent sembler être les vôtres. C’est tendre et réel ; garder le sens de l’endroit où vous finissez est ce qui permet au lien de durer."
   - q: "Est-ce que le séjour de Neptune en maison 8 est dans la moyenne ?"
-    a: "Exactement dans la moyenne à la latitude de Londres : près de quatorze ans au milieu dans les thèmes en Placidus dressés là-bas, comme pour l’ensemble des maisons, la plupart des séjours allant de près de neuf à près de vingt-deux ans. Pour une naissance à New York, un peu moins de quinze ans au milieu. Le vôtre dépend de votre heure de naissance."
+    a: "Exactement dans la moyenne à la latitude de Londres : près de quatorze ans au milieu dans les thèmes en Placidus dressés là-bas, comme pour l’ensemble des maisons, la plupart des séjours allant de près de neuf à près de vingt-deux ans. Pour une naissance à New York, un peu moins de quinze ans au milieu. C’est l’heure de votre naissance qui fixe la longueur du vôtre."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les années de Neptune dans chaque maison à deux latitudes, Londres et New York, en Placidus, avec les signes atteints à partir de 2026" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons et leurs anciens noms, tels que les employaient les astrologues hellénistiques" }

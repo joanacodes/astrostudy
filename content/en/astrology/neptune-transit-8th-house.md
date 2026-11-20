@@ -10,7 +10,7 @@ glyph: "♆"
 definition: "Neptune transiting the 8th house softens the walls between you and others for nearly fourteen years as a rule, in the house of intimacy, trust and what is shared or owed. It works on what your chart already says about closeness: compassion, merging, joint arrangements that blur. No death, legacy or sum of money is read into it."
 facts:
   - { k: "Body", v: "Neptune ♆, the planet of ideals, imagination and longing" }
-  - { k: "House", v: "The 8th house, succedent: intimacy, trust, shared money and what is owed" }
+  - { k: "House", v: "The 8th house, succedent: trust, intimacy, joint accounts and debts" }
   - { k: "Stay", v: "Usually nearly 14 years; nearly 9 to nearly 22 years at London’s latitude" }
   - { k: "In the sky", v: "Aries, from January 2026 to March 2039" }
   - { k: "Needs", v: "Your birth time, without which your 8th has no start date" }
