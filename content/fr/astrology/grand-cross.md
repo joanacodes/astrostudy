@@ -25,7 +25,7 @@ faq:
   - q: "Qu’est-ce qu’une grande croix cardinale, fixe ou mutable ?"
     a: "Elle porte le nom du mode que partagent ses quatre signes. Les signes cardinaux commencent, les fixes persévèrent, les mutables s’adaptent : la pression se montre en plusieurs départs à la fois, en persévérance obstinée ou en ajustements constants. En fin de signe, une branche peut tomber dans un autre mode et desserrer la figure."
   - q: "Une grande croix est-elle plus difficile qu’un T-carré ?"
-    a: "Ni l’une ni l’autre n’est un verdict. Le T-carré a un côté ouvert, le point vide en face de sa planète focale, par où la tension peut se relâcher. La grande croix ferme ce côté : la pression y est plus égale et n’a pas d’issue évidente. Cela peut la rendre plus stable autant que plus exigeante."
+    a: "Aucune de ces deux figures n’est un verdict. Le T-carré a un côté ouvert, le point vide en face de sa planète focale, par où la tension peut se relâcher. La grande croix ferme ce côté : la pression y est plus égale et n’a pas d’issue évidente. Cela peut la rendre plus stable autant que plus exigeante."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré et l’opposition, mesurés en signes" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de thèmes ont une grande croix parmi les dix planètes" }

@@ -22,7 +22,7 @@ faq:
   - q: "Is a splash chart unfocused?"
     a: "Not necessarily. Astrologers who use the shape warn that energy can scatter across too many things, and it can. But breadth is also range: the ability to meet many kinds of people and situations. Focus comes from choices, and from the strongest planets in the chart, not from the shape."
   - q: "Why is there no count for the splash chart?"
-    a: "Because there’s no single rule for it. Authors don’t agree on where a splash ends and another shape begins, so a chart could be a splash for one and something else for another. A count built on any one of those rules would describe the rule, not the charts."
+    a: "Because authors share no single rule for it. Authors don’t agree on where a splash ends and another shape begins, so a chart could be a splash for one and something else for another. A count built on any one of those rules would describe the rule, not the charts."
 sources:
   - { title: "Wikipedia — Marc Edmund Jones", url: "https://en.wikipedia.org/wiki/Marc_Edmund_Jones", note: "the seven shapes he named, the splash among them; checked on 20 November 2026" }
   - { title: "Wikipedia — Natal astrology", url: "https://en.wikipedia.org/wiki/Natal_astrology", note: "the splash, “or rather lack of pattern”, after Robert Pelletier and Leonard Cataldo, Be Your Own Astrologer (1984), pp. 166–168, and Sasha Fenton, Understanding Astrology (1991), pp. 68–70; checked on 20 November 2026" }

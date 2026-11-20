@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 2
 glyph: "△"
-definition: "Un grand trigone, ce sont trois planètes chacune en trigone avec les deux autres, à 120° environ, qui dessinent un triangle équilatéral, le plus souvent dans un même élément. Il décrit un circuit de soutien entre trois fonctions : une aisance réelle, qui ne demande rien et peut donc rester inemployée. Environ 1 personne sur 10 en a un."
+definition: "Un grand trigone relie trois planètes à 120° environ les unes des autres, chacune en trigone avec les deux autres : un triangle équilatéral, le plus souvent dans un même élément. Il décrit un circuit de soutien entre trois fonctions : une aisance réelle, qui ne demande rien et peut donc rester inemployée. Environ 1 personne sur 10 en a un."
 facts:
   - { k: "Forme", v: "Un triangle équilatéral : trois planètes à 120° environ" }
   - { k: "Aspects", v: "Trois trigones" }

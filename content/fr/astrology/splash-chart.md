@@ -23,7 +23,7 @@ faq:
   - q: "Un thème dispersé manque-t-il de concentration ?"
     a: "Pas forcément. Les astrologues qui se servent de cette forme préviennent que l’énergie peut s’éparpiller entre trop de choses, et c’est possible. Mais l’ampleur, c’est aussi une palette : la capacité de rencontrer toutes sortes de gens et de situations. La concentration vient des choix, et des planètes les plus fortes du thème, pas de la forme."
   - q: "Pourquoi n’y a-t-il pas de décompte pour le thème dispersé ?"
-    a: "Parce qu’il n’a pas de règle unique. Les auteurs ne s’accordent pas sur l’endroit où finit un thème dispersé et où commence une autre forme : un thème pourrait être dispersé pour l’un et autre chose pour l’autre. Un décompte fondé sur l’une de ces règles décrirait la règle, pas les thèmes."
+    a: "Parce qu’aucune règle ne fait l’unanimité. Les auteurs ne s’accordent pas sur l’endroit où finit un thème dispersé et où commence une autre forme : un thème pourrait être dispersé pour l’un et autre chose pour l’autre. Un décompte fondé sur l’une de ces règles décrirait la règle, pas les thèmes."
 sources:
   - { title: "Wikipédia (en anglais) — Marc Edmund Jones", url: "https://en.wikipedia.org/wiki/Marc_Edmund_Jones", note: "les sept formes qu’il a nommées, dont le thème dispersé ; consulté le 20 novembre 2026" }
   - { title: "Wikipédia (en anglais) — Natal astrology", url: "https://en.wikipedia.org/wiki/Natal_astrology", note: "le thème dispersé, « ou plutôt l’absence de forme », d’après Robert Pelletier et Leonard Cataldo, Be Your Own Astrologer (1984), p. 166–168, et Sasha Fenton, Understanding Astrology (1991), p. 68–70 ; consulté le 20 novembre 2026" }

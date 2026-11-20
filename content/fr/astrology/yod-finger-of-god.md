@@ -45,7 +45,7 @@ Pour une configuration de cette réputation, le yod est courant : dans le déco
 
 Le système que j’ai construit pour mes lectures décrit le quinconce comme une relation d’ajustement et de recalibrage : ni conflit, ni échec, ni rien qui se règle tout seul. Le sextile de la base est une coopération qu’il faut saisir pour qu’elle devienne quelque chose. Ensemble, je lis le yod comme deux fonctions qui marchent bien en paire et une troisième qui doit sans cesse se réaccorder aux deux, faute d’un terrain partagé où les rejoindre à mi-chemin. Avec les années, ce réaccordage se change souvent en précision : le sommet apprend, à force de répétition, une façon de travailler qui convient à deux voisines très différentes.
 
-Rien de tout cela n’est un destin. Un thème décrit la façon dont vous avez tendance à avancer, pas l’endroit où vous devez arriver ([ma méthode](/how-i-read/)), et le yod ne fait pas exception, quel que soit son nom.
+Il n’y a là aucun destin. Un thème décrit la façon dont vous avez tendance à avancer, pas l’endroit où vous devez arriver ([ma méthode](/how-i-read/)), et le yod ne fait pas exception, quel que soit son nom.
 
 Les maisons de la base et du sommet demandent l’heure de naissance : la maison du sommet est le domaine de vie où l’ajustement se fait, celles de la base les domaines auxquels il s’ajuste. Un yod dont la Lune occupe une pointe est le plus sensible à l’heure : avec un orbe de 3° sur les quinconces et une Lune qui avance d’un signe environ tous les deux jours et demi, il peut exister le matin et avoir disparu le soir. Avec une figure aussi délicate, il me faut [l’heure de naissance avant d’en dire quoi que ce soit](/blog/unknown-birth-time/).
 

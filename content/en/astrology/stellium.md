@@ -45,7 +45,7 @@ I read a stellium as emphasis. A sign the chart keeps returning to becomes a man
 
 Two things decide where that emphasis lands, and both need the time of birth. The first is the house: the same four planets in the 10th house and in the 4th describe very different lives, and only the time says which. The second is the Moon, which changes sign about every two and a half days; on the day it moves, the hour decides whether it joins the crowd. That's why I [don't read a chart without the birth time](/blog/unknown-birth-time/): without it, a stellium has a sign but no house to live in.
 
-The ruler of the crowded sign matters as well. Wherever that planet sits, it carries the whole group's business into another part of the chart. Scorpio, Aquarius and Pisces have two rulers each, a modern one and a traditional one, and I read both.
+The ruler of the crowded sign matters as well. Wherever that planet sits, it carries the whole group's business into another part of the chart. When the crowded sign is Scorpio, Aquarius or Pisces, I read both of its rulers, the modern and the traditional.
 
 ## What helps {#what-helps}
 

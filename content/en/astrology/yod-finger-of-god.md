@@ -44,7 +44,7 @@ For a pattern with such a reputation, the yod is common: in the count behind thi
 
 The system I built for my readings describes the quincunx as a relation of adjustment and recalibration: not conflict, not failure, and not something that settles by itself. The sextile at the base is cooperation that needs taking up to become anything. Put together, I read a yod as two functions that work well as a pair and a third that has to keep re-tuning itself to both, because there's no shared ground where they could meet halfway. Over the years, that re-tuning tends to turn into precision: the apex learns, by sheer repetition, a way of working that suits two very different neighbours.
 
-None of this is a destiny. A chart describes how you're inclined to move, not where you must end up ([how I read](/how-i-read/)), and a yod is no exception, whatever its name.
+There's no destiny in any of this. A chart describes how you're inclined to move, not where you must end up ([how I read](/how-i-read/)), and a yod is no exception, whatever its name.
 
 The houses of the base and the apex need the time of birth: the apex's house is the area of life where the adjusting goes on, the base's houses the areas it adjusts to. A yod with the Moon at one of its points is the most time-sensitive of all: with a 3° orb on the quincunxes and the Moon moving about a sign every two and a half days, it can be there in the morning and gone by the evening. With a figure that delicate, I [need the birth time before saying anything about it](/blog/unknown-birth-time/).
 

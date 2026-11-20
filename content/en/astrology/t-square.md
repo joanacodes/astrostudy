@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/square", "/astrology/opposition", "/astrology/grand-cross", "/astrology/yod-finger-of-god", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "What does a T-square mean in a birth chart?"
-    a: "Two planets in opposition, both square a third. The pull between the first two runs into the third, the focal planet, which takes up the strain and turns it into effort. I read it as a strong engine for action, demanding and productive, never as a flaw in the chart."
+    a: "Two planets facing each other in opposition, with a third square to both. The pull between the first two runs into the third, the focal planet, which takes up the strain and turns it into effort. I read it as a strong engine for action, demanding and productive, never as a flaw in the chart."
   - q: "How common is a T-square?"
     a: "Very common: it turns up in about 3 charts in 10 for births from 1930 to 2009, in my count, among the ten planets alone. It takes only three planets, and every opposition in a chart gives it a chance; with the angles and Chiron added, the share would be higher still."
   - q: "What is the focal planet of a T-square?"

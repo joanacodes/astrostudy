@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/square", "/astrology/opposition", "/astrology/grand-cross", "/astrology/yod-finger-of-god", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "Que veut dire un T-carré dans un thème natal ?"
-    a: "Deux planètes en opposition, toutes deux en carré avec une troisième. La traction entre les deux premières vient buter sur la troisième, la planète focale, qui reprend la tension et la transforme en effort. J’y lis un puissant moteur d’action, exigeant et fécond, jamais un défaut du thème."
+    a: "Deux planètes face à face en opposition, et une troisième en carré avec les deux. La traction entre les deux premières vient buter sur la troisième, la planète focale, qui reprend la tension et la transforme en effort. J’y lis un puissant moteur d’action, exigeant et fécond, jamais un défaut du thème."
   - q: "Le T-carré est-il fréquent ?"
     a: "Très : il apparaît dans environ 3 thèmes sur 10 pour les naissances de 1930 à 2009, dans mon décompte, parmi les seules dix planètes. Il ne lui faut que trois planètes, et chaque opposition d’un thème lui donne une occasion ; avec les angles et Chiron, la proportion serait plus haute encore."
   - q: "Qu’est-ce que la planète focale d’un T-carré ?"

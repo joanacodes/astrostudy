@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "patterns"
 weight: 2
 glyph: "△"
-definition: "A grand trine is three planets each trine the other two, about 120° apart, drawing an equilateral triangle across the chart, usually in signs of one element. It describes a circuit of support between three functions: real ease, which asks nothing and so can sit idle. About 1 person in 10 has one among the ten planets."
+definition: "A grand trine links three planets about 120° apart, each in trine with the other two: an equilateral triangle across the chart, usually in signs of one element. It describes a circuit of support between three functions: real ease, which asks nothing and so can sit idle. About 1 person in 10 has one among the ten planets."
 facts:
   - { k: "Shape", v: "An equilateral triangle: three planets about 120° apart" }
   - { k: "Aspects", v: "Three trines" }

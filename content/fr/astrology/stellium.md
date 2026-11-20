@@ -46,7 +46,7 @@ Je lis un stellium comme une insistance. Un signe auquel le thème revient sans 
 
 Deux choses décident de l’endroit où tombe cette insistance, et toutes deux demandent l’heure de naissance. La première, c’est la maison : les mêmes quatre planètes en maison 10 ou en maison 4 décrivent des vies très différentes, et seule l’heure dit laquelle. La seconde, c’est la Lune, qui change de signe environ tous les deux jours et demi ; le jour où elle passe, l’heure décide si elle rejoint le groupe. C’est pourquoi je [ne lis pas un thème sans l’heure de naissance](/blog/unknown-birth-time/) : sans elle, un stellium a un signe, mais pas de maison où vivre.
 
-Le maître du signe occupé compte aussi. Où que se trouve cette planète, elle emporte les affaires de tout le groupe vers une autre partie du thème. Le Scorpion, le Verseau et les Poissons ont chacun deux maîtres, un moderne et un traditionnel, et je lis les deux.
+Le maître du signe occupé compte aussi. Où que se trouve cette planète, elle emporte les affaires de tout le groupe vers une autre partie du thème. Quand le signe occupé est le Scorpion, le Verseau ou les Poissons, je lis ses deux maîtres, le moderne et le traditionnel.
 
 ## Ce qui aide {#ce-qui-aide}
 

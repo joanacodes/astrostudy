@@ -35,7 +35,7 @@ Le nom fait penser à un coup venu d’en haut. La configuration est plus discr�
 
 ## À quoi elle ressemble {#a-quoi-elle-ressemble}
 
-Trois planètes forment le marteau de Thor. Deux d’entre elles forment un [carré](/astrology/square/), à 90° environ. La troisième se tient à 135° environ des deux, en [sesqui-carré](/astrology/sesquiquadrate/), un carré et demi, avec chacune. Placez les planètes du carré à 0° et à 90°, et la troisième tombe à 225°, en face du milieu du carré, à 45°. Sur la roue, cela fait un coin : un côté court en travers du carré, deux longs côtés jusqu’au sommet.
+Trois planètes forment le marteau de Thor. Deux d’entre elles dessinent un [carré](/astrology/square/), à 90° environ. La troisième se tient à 135° environ des deux, en [sesqui-carré](/astrology/sesquiquadrate/), un carré et demi, avec chacune. Placez les planètes du carré à 0° et à 90°, et la troisième tombe à 225°, en face du milieu du carré, à 45°. Sur la roue, cela fait un coin : un côté court en travers du carré, deux longs côtés jusqu’au sommet.
 
 Le carré relie le plus souvent deux signes d’un même mode, comme tout carré. Le sesqui-carré couvre quatre signes et demi : le sommet peut donc tomber dans un signe qui partage un élément avec un bout du carré, ou dans un signe qui ne partage rien avec lui, selon les degrés. Ici, les angles en disent plus que les signes. Johannes Kepler a fait entrer le sesqui-carré en astrologie à côté des aspects de Ptolémée, dans *Harmonices Mundi* (Linz, 1619).
 
