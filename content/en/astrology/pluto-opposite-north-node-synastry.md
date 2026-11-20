@@ -18,11 +18,11 @@ facts:
 related: ["/astrology/pluto", "/astrology/north-node", "/astrology/opposition", "/astrology/pluto-opposite-north-node", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Pluto opposite North Node mean in synastry?"
-    a: "Pluto in one chart lies across from the North Node in another, which puts it right on that person’s South Node. The Pluto person’s depth tends to meet the other on their most familiar ground, the strengths and habits they know best, while their new direction lies on the far side of the chart."
+    a: "Pluto in one chart lies across from the North Node in another, which puts it right on that person’s South Node. The Pluto person’s depth tends to meet the other on their most familiar ground, the strengths and habits they know best, while their new direction waits across the chart."
   - q: "Why does Pluto opposite North Node feel so familiar?"
     a: "Because Pluto sits on the South Node, the part of a chart that holds long-practised capacities. The Pluto person understands those old strategies from the inside, sometimes better than the node person does, which can feel like being known at once. Familiar isn’t the same as fated, though."
   - q: "Does Pluto opposite North Node keep two people stuck?"
-    a: "Not by itself. The South Node is established strength, not a fault, and being understood there is a real gift. The risk is circling old ground together. Bringing the North Node’s new practice into that deep, familiar company keeps the seesaw moving."
+    a: "Not by itself. Nothing is wrong with the South Node, which holds established strength, and being understood there is a real gift. The risk is circling old ground together. Bringing the North Node’s new practice into that deep, familiar company keeps the seesaw moving."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the opposition, 180°, the widest aspect" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that set one person’s Pluto opposite another’s true North Node, within 4°" }
@@ -32,7 +32,7 @@ With some people, you fall back into your oldest self without noticing, and it f
 
 ## What flows {#what-flows}
 
-[Pluto](/astrology/pluto/) is transformation and regeneration: getting to the bottom of things, clearing what is obsolete, renewing an agency from the inside. The [South Node](/astrology/south-node/) holds the capacities a person has practised longest, available with little effort; the [North Node](/astrology/north-node/) opposite, the complementary capacity they are still building. An [opposition](/astrology/opposition/) relates two functions through polarity, and in [synastry aspects](/astrology/synastry-aspects/) like this one, Pluto sits on one end of someone else's axis.
+[Pluto](/astrology/pluto/) is transformation and regeneration: getting to the bottom of things, clearing what is obsolete, renewing an agency from the inside. The [South Node](/astrology/south-node/) holds the capacities a person has practised longest, available with little effort; the [North Node](/astrology/north-node/) opposite, the complementary capacity they are still building. An [opposition](/astrology/opposition/) holds two functions in polarity; in [synastry aspects](/astrology/synastry-aspects/) like this one, Pluto takes up one end of someone else's axis.
 
 For the person whose North Node it is, this person's depth meets you on familiar ground. They understand your old strategies from the inside, sometimes better than you do, and with them you feel known at once. That can steady you through hard times: someone sees what your oldest strengths are worth.
 
@@ -53,8 +53,8 @@ Its neighbours:
 
 Honour the old ground, and bring something new onto it. If the North Node is yours, let this person see you practising the unfamiliar thing, clumsy as it is, instead of only the strengths they already know. If the Pluto is yours, ask about the new direction, and put your depth behind it as readily as behind the old. Old friends, couples who met young and families tend to know this opposition well.
 
-The dates are close. Someone born in mid-1985, with Pluto early in Scorpio, has their Pluto on the South Node of people born from January to June 1986, only months younger, and of those born from June to November 1967 or from August 2004 to January 2005. Their own South Node, in Scorpio too, lies under the Pluto of everyone born from September 1989 to December 1991, with the 1985 North Node, in Taurus, facing it. Because births across months share it, it sits outside the contacts I count in a synastry, which involve the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven; read through the houses, it shows one era's depth resting on another's inheritance.
+The dates are close. A chart from mid-1985, with Pluto early in Scorpio, puts it on the South Node of anyone born between January and June 1986, only months younger, as well as those born from June to November 1967 or from August 2004 to January 2005. Their own South Node, in Scorpio too, lies under the Pluto of everyone born from September 1989 to December 1991, with the 1985 North Node, in Taurus, facing it. Since months of births share it, it isn't among the contacts that make up my synastry readings, each of which needs the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven; read through the houses, it shows one era's depth resting on another's inheritance.
 
 The hour decides nothing here; the houses do, and they need both birth times ([what changes without a birth time](/blog/unknown-birth-time/)). I keep the mean node in view beside the true one, which these months follow ([mean node and true node](/astrology/mean-node-and-true-node/)).
 
-[Pluto opposite North Node](/astrology/pluto-opposite-north-node/), in a single chart, makes deep renewal a person's own old skill. Here the old skill belongs to someone else, and I read it only when both have said yes ([synastry and consent](/blog/synastry-behind-their-back/)).
+[Pluto opposite North Node](/astrology/pluto-opposite-north-node/), in a single chart, makes deep renewal a person's own old skill. Here the old skill belongs to someone else, which is why I need a yes from each of them first ([synastry and consent](/blog/synastry-behind-their-back/)).

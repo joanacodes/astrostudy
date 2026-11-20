@@ -1,7 +1,7 @@
 ---
 title: "Jupiter transiting the 4th house"
 h1: "Jupiter transiting your 4th house"
-description: "Jupiter transiting the 4th house: about a year of growth at home and in your roots, from the day it crosses your IC. How long it lasts, and when it’s yours."
+description: "Jupiter transiting the 4th house: a year or so when home, family and roots get more room. How long the stay lasts, and how your IC’s sign gives its dates."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -16,17 +16,17 @@ facts:
   - { k: "Needs", v: "Your birth time, which places your IC" }
 related: ["/astrology/jupiter", "/astrology/4th-house", "/astrology/transits", "/astrology/imum-coeli", "/astrology/jupiter-in-4th-house"]
 faq:
-  - q: "Does Jupiter in the 4th house mean moving house?"
+  - q: "Will I move house when Jupiter enters my 4th?"
     a: "It can’t say that. The 4th describes home and belonging, and with Jupiter there I read a wish for more room, literal or not: space, people, time inside your own life. Whether you move depends on your circumstances, and I don’t read a transit as the forecast of any event."
   - q: "When does Jupiter cross my IC?"
     a: "When it reaches the degree of your Imum Coeli, the point opposite your Midheaven, which your birth time sets. That crossing opens its stay in your 4th house, which in Placidus charts at London’s latitude usually lasts a little over a year, between about 11 and 22 months."
-  - q: "Is Jupiter transiting the 4th house good for family?"
+  - q: "Is Jupiter’s year in the 4th good for family?"
     a: "It often brings warmth and room to that part of life, and a wider understanding of where you come from. It decides nothing for other people, though: your relatives’ lives are their own, and a transit through your chart describes your experience of home, not theirs."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Jupiter stays in a house, in Placidus charts at London and New York, and its signs from 2026" }
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
 ---
-Every twelve years or so, Jupiter reaches the bottom of your chart, the Imum Coeli, and settles into your 4th house for about a year. Its growth goes underground for a while: into home, family and the private self, the part of your life most people never see.
+When Jupiter crosses the Imum Coeli, the point at the very bottom of your chart, it begins about a year in your 4th house. Its growth goes underground for a while: into home, family and the private self, the part of your life most people never see.
 
 ## What changes {#what-changes}
 
@@ -40,9 +40,9 @@ What this year grows mostly doesn't show at work, and that's as it should be. Li
 
 ## How long it lasts {#how-long-it-lasts}
 
-At London's latitude, Placidus charts give Jupiter about a year in a house on average, mostly between about 11 months and nearly 2 years. The 4th sits a little above that in the middle, at a little over a year, and a little below it at the long end, at about 22 months; New York's latitude gives the 4th the same. When it starts depends on your IC, which goes round the whole zodiac in a day like the Ascendant, and how long it lasts on the size of your 4th: both need your birth time, and I don't read a chart without it ([what changes without a birth time](/blog/unknown-birth-time/)).
+The 4th tends to keep Jupiter a little over a year, the range running from about 11 months to 22 in Placidus charts drawn at London's latitude, with New York's giving the same. What stretches a stay is Jupiter's retrograde loop, about four months of every year. When a loop falls across your IC, Jupiter crosses the point three times, and the stay counts from the first crossing.
 
-It follows [Jupiter transiting the 3rd house](/astrology/jupiter-transit-3rd-house/) and comes before [Jupiter transiting the 5th house](/astrology/jupiter-transit-5th-house/).
+When it starts depends on your IC, which hangs on the minute you were born just as the Ascendant does, and how long it lasts on the size of your 4th: both need your birth time, the reason I never read a chart without one ([what changes without a birth time](/blog/unknown-birth-time/)). The year before, the growth was in talk and learning ([Jupiter transiting the 3rd house](/astrology/jupiter-transit-3rd-house/)); the year after, it turns to play and pleasure ([Jupiter transiting the 5th house](/astrology/jupiter-transit-5th-house/)).
 
 Your IC is always the sign opposite your Midheaven: with the Midheaven in Aquarius, for instance, the IC is in Leo, which Jupiter crosses from June 2026 to July 2027. An IC in Virgo comes next (July 2027 to August 2028), then Libra (to September 2029), Scorpio (to October 2030), Sagittarius (to November 2031) and Capricorn (to November 2032). Aquarius runs from April 2032 to December 2033, as Jupiter moves back and forth over the line, Pisces from April 2033 to April 2034, Aries to April 2035, Taurus to May 2036 and Gemini to May 2037, and an IC in Cancer, the sign of Jupiter's exaltation, waits for May 2037 to June 2038.
 

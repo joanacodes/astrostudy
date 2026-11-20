@@ -19,7 +19,7 @@ faq:
   - q: "Does Jupiter in the 2nd house mean more money?"
     a: "Not as I read it. The 2nd house describes how you handle money and what you value, not what you will earn, and no transit can predict money. What Jupiter tends to widen here is your sense of worth: skills you could build on, and values you want your spending to match."
   - q: "How long does Jupiter stay in my 2nd house?"
-    a: "A little over a year, usually. In Placidus charts drawn at London’s latitude, most stays in the 2nd last between about 11 and 22 months, and New York gives the same. Your own stay depends on how wide your 2nd house is, which needs your birth time."
+    a: "Usually a little over a year: most stays in the 2nd run from about 11 to 22 months, in Placidus charts at London’s latitude and at New York’s alike. The dates of your own stay come from your chart, starting with the birth time that places the cusp of your 2nd house."
   - q: "What is Jupiter transiting the 2nd house good for?"
     a: "Looking at what you value and what you can count on: pricing a skill fairly, bringing your spending in line with what matters to you, building a kind of security that suits you. It’s a year for growing your relationship with resources. It promises nothing about income, and I don’t read it for that."
 sources:
@@ -38,11 +38,11 @@ This is also the stay where Jupiter's reputation gets in the way. People hope it
 
 ## How long it lasts {#how-long-it-lasts}
 
-Charts drawn at London's latitude, in Placidus, give Jupiter about a year in an average house, most often between about 11 months and nearly 2 years. The 2nd runs a little over a year in the middle and stops a little sooner at the long end, at about 22 months, and New York's latitude gives the 2nd exactly the same figures. Your own stay depends on the width of your 2nd house, which comes from your birth time and the latitude you were born at. Without the time, nobody can say where your 2nd begins, and I don't read a chart without it ([what changes without a birth time](/blog/unknown-birth-time/)).
+A little over a year is the usual length of a Jupiter stay in the 2nd, in Placidus charts drawn at London's latitude, and most fall between about 11 and 22 months. Across all twelve houses the middle is about a year and the long end nearly 2, so the 2nd is a shade longer at the centre and a shade shorter at the edge; New York's latitude gives it exactly the same figures. Your own stay depends on the width of your 2nd house, which comes from your birth time and the latitude you were born at. Without the time, nobody can say where your 2nd begins, and I don't read a chart without it ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-The year before belongs to your 1st house ([Jupiter transiting the 1st house](/astrology/jupiter-transit-1st-house/)), the year after to your 3rd ([Jupiter transiting the 3rd house](/astrology/jupiter-transit-3rd-house/)).
+It picks up from a year spent on who you are ([Jupiter transiting the 1st house](/astrology/jupiter-transit-1st-house/)) and leads into one of talk and learning ([Jupiter transiting the 3rd house](/astrology/jupiter-transit-3rd-house/)).
 
-To find your window, look up the sign and degree on the cusp of your 2nd house: Jupiter enters the house when it reaches that degree. It spends from June 2026 to July 2027 in Leo, then reaches Virgo in July 2027, Libra in August 2028, Scorpio in September 2029 and Sagittarius in October 2030, about a year apiece. Capricorn follows from November 2031 to November 2032, overlapping with Aquarius, which Jupiter enters in April 2032, leaves again, and keeps until December 2033. Pisces comes in April 2033, Aries in April 2034, and then Taurus, the 2nd house's own sign in the natural order, from April 2035 to May 2036; Gemini runs to May 2037 and Cancer to June 2038.
+To find your window, look up the sign and degree on the cusp of your 2nd house: Jupiter enters the house when it reaches that degree. It spends from June 2026 to July 2027 in Leo, then reaches Virgo in July 2027, Libra in August 2028, Scorpio in September 2029 and Sagittarius in October 2030, about a year apiece. Capricorn follows from November 2031 to November 2032, overlapping with Aquarius, which Jupiter enters in April 2032, leaves again, and keeps until December 2033. Pisces comes in April 2033 and Aries in April 2034. Taurus, the sign the natural zodiac pairs with the 2nd house, has Jupiter from April 2035 to May 2036, and the cycle closes with Gemini, to May 2037, and Cancer, to June 2038.
 
 ## What helps {#what-helps}
 
