@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 317
 glyph: "♅⚹♆"
-definition: "Uranus sextile Neptune in synastry joins one person’s Uranus and the other’s Neptune at about 60°, within 2.4°. The reforms one generation reaches for and the ideals another holds can help each other, through a joint effort that someone has to start. I read it through the houses, as two eras trading help."
+definition: "Uranus sextile Neptune in synastry separates one person’s Uranus from the other’s Neptune by some 60°, within 2.4°. The reforms one generation reaches for and the ideals another holds can help each other, through a joint effort that someone has to start. I read it through the houses, as two eras trading help."
 facts:
   - { k: "Bodies", v: "One person’s Uranus ♅, the other’s Neptune ♆" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }

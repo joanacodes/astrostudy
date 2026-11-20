@@ -59,4 +59,4 @@ Les deux exemples du décompte sont à environ une génération d’écart. Tout
 
 L’heure de naissance ne déplace ni l’une ni l’autre planète ; elle décide des maisons ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Avec Pluton dans la maison 10 de la personne d’Uranus, la friction atteint la carrière et la place publique ([Pluton de l’autre dans votre maison 10](/astrology/pluto-in-10th-house-synastry/)).
 
-Dans le thème d’une seule personne, [Uranus carré Pluton](/astrology/uranus-square-pluto/) appartient aux personnes nées entre 1930 et 1936, et à quelques mois de 2009. Entre deux thèmes, ce contact relie des générations, et je n’en parle qu’avec l’accord des deux personnes ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Pour un thème pris seul, [Uranus carré Pluton](/astrology/uranus-square-pluto/) appartient aux naissances de 1930 à 1936, et à quelques mois de 2009. Entre deux thèmes, ce contact relie des générations, et je n’en parle qu’avec l’accord des deux personnes ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

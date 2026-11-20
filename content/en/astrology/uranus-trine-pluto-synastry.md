@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 324
 glyph: "♅△♇"
-definition: "Uranus trine Pluto in synastry links one person’s Uranus and the other’s Pluto by about 120°, within 3.4°. The trine is missing from every birth chart of 1930 to 2009, yet between two charts it joins people born decades apart, with change and depth in step. I read it through the houses, as an alliance of eras."
+definition: "Uranus trine Pluto in synastry sets one person’s Uranus a third of the zodiac from the other’s Pluto, within 3.4°. Missing from every birth chart of 1930 to 2009, the trine joins people born decades apart, with change and depth in step. I read it through the houses, as an alliance of eras."
 facts:
   - { k: "Bodies", v: "One person’s Uranus ♅, the other’s Pluto ♇" }
   - { k: "Aspect", v: "Trine △, 120°" }

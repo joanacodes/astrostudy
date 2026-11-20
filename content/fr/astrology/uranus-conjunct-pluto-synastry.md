@@ -23,7 +23,7 @@ faq:
   - q: "Qui porte Uranus dans Uranus conjonction Pluton ?"
     a: "Cela dépend de la rencontre des deux planètes au milieu des années 1960. Avant, Uranus restait derrière Pluton et n’atteignait chaque degré de Pluton que des années plus tard : c’est la personne la plus jeune qui porte Uranus. Après, Uranus avait pris de l’avance, et c’est alors la plus âgée. Entre deux personnes nées au milieu des années 1960, cela peut aller dans les deux sens."
   - q: "Est-ce qu’Uranus conjonction Pluton est un contact intense en synastrie ?"
-    a: "Le contact peut sembler intense, puisque les deux planètes parlent de changement, mais l’intensité n’est pas la destruction. Transformer n’est pas démolir, et réformer n’est pas semer le chaos. Partagé par des années de naissance entières, il compte bien moins pour moi que tout contact avec une planète personnelle."
+    a: "Le contact peut sembler intense, puisque les deux planètes parlent de changement, mais l’intensité n’est pas la destruction. Transformer n’est pas démolir, et réformer n’est pas semer le chaos. Commun à des années de naissance entières, ce contact passe pour moi loin derrière tout ce qui touche une planète personnelle."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les aspects ; la conjonction, une rencontre plutôt qu’un angle" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact, dans un sens ou dans l’autre" }
@@ -57,4 +57,4 @@ Qui porte quelle planète dépend de la dernière rencontre des deux planètes, 
 
 L’heure ne déplace aucune des deux planètes, mais fixe chaque maison ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Si Pluton tombe dans la maison 4 de la personne d’Uranus, la rencontre atteint le foyer, les racines et les schémas familiaux ([Pluton de l’autre dans votre maison 4](/astrology/pluto-in-4th-house-synastry/)).
 
-La plupart des personnes nées entre août 1963 et 1968 portent [Uranus conjonction Pluton](/astrology/uranus-conjunct-pluto/) dans leur propre thème. Entre deux thèmes, le changement et la profondeur appartiennent à des personnes différentes, et je ne regarde ce contact que si les deux le souhaitent ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+La plupart des personnes nées entre août 1963 et 1968 portent [Uranus conjonction Pluton](/astrology/uranus-conjunct-pluto/) dans leur propre thème. Entre deux thèmes, le changement et la profondeur appartiennent à des personnes différentes, et je ne m’y penche que si toutes deux le demandent ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

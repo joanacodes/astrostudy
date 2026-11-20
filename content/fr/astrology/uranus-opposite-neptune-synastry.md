@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 320
 glyph: "♅☍♆"
-definition: "Uranus opposition Neptune en synastrie met Uranus d’une personne de l’autre côté du zodiaque par rapport à Neptune chez l’autre, à 4° près. Aucune naissance de 1930 à 2009 n’a cette opposition dans son thème ; entre deux personnes nées à des décennies d’écart, elle est courante. J’y lis une balançoire entre le changement et les idéaux de deux époques."
+definition: "Uranus opposition Neptune en synastrie dresse Uranus d’une personne face à Neptune chez l’autre, d’un côté à l’autre du ciel, à 4° près. Aucune naissance de 1930 à 2009 n’a cette opposition dans son thème ; entre deux personnes nées à des décennies d’écart, elle est courante. J’y lis une balançoire entre le changement et les idéaux de deux époques."
 facts:
   - { k: "Corps", v: "Uranus ♅ de l’une, Neptune ♆ de l’autre" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
@@ -57,4 +57,4 @@ L’écart d’âge est en général large : une quarantaine d’années entre 
 
 Les planètes ne bougent pas avec l’heure de naissance ; les maisons, si ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Avec Neptune dans la maison 7 de la personne d’Uranus, la polarité se loge dans le partenariat : l’autre semble incarner l’idéal que la personne d’Uranus tient à distance ([Neptune de l’autre dans votre maison 7](/astrology/neptune-in-7th-house-synastry/)).
 
-Dans un seul thème, [Uranus opposition Neptune](/astrology/uranus-opposite-neptune/) n’appartient à aucune naissance des quatre-vingts ans du décompte. Entre deux thèmes, ce contact appartient à deux générations à la fois, et je ne le lis qu’avec l’accord des deux personnes ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+À l’intérieur d’un même thème, [Uranus opposition Neptune](/astrology/uranus-opposite-neptune/) n’appartient à aucune naissance des quatre-vingts ans du décompte. Entre deux thèmes, ce contact appartient à deux générations à la fois, et je ne le lis qu’avec l’accord des deux personnes ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

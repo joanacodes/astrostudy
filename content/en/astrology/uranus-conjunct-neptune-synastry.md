@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/neptune", "/astrology/conjunction", "/astrology/uranus-conjunct-neptune", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Uranus conjunct Neptune mean in synastry?"
-    a: "One person’s Uranus lies within 4° of the other’s Neptune. The Uranus person’s way of changing systems lands on what the Neptune person holds as an ideal, a vision or a compassion that reaches beyond facts. Both planets move so slowly that it describes two generations meeting more than two individuals."
+    a: "The two planets fall within 4° of each other, Uranus in one chart and Neptune in the other. The Uranus person’s way of changing systems lands on what the Neptune person holds as an ideal, a vision or a compassion that reaches beyond facts. Both planets move so slowly that it describes two generations meeting more than two individuals."
   - q: "Why does the younger person usually hold the Uranus?"
     a: "Uranus moves faster than Neptune and, until the early 1990s, trailed behind it round the zodiac. A Neptune degree from someone’s birth was therefore reached by Uranus only years later, in the chart of someone younger. For people born after the two met in 1993, it can work the other way round."
   - q: "Does Uranus conjunct Neptune matter between two people born in the early 1990s?"

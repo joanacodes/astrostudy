@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 320
 glyph: "♅☍♆"
-definition: "Uranus opposite Neptune in synastry puts one person’s Uranus across the zodiac from the other’s Neptune, within 4°. No one born between 1930 and 2009 has this opposition in their own chart, but between two people born decades apart it is common. I read it as a seesaw between two eras’ change and ideals."
+definition: "Uranus opposite Neptune in synastry places the Uranus of one chart directly across from the Neptune of the other, within 4°. No one born between 1930 and 2009 has this opposition in their own chart, but between two people born decades apart it is common. I read it as a seesaw between two eras’ change and ideals."
 facts:
   - { k: "Bodies", v: "One person’s Uranus ♅, the other’s Neptune ♆" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }

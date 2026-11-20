@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 325
 glyph: "♅☍♇"
-definition: "Uranus opposite Pluto in synastry sets one person’s Uranus across the zodiac from the other’s Pluto, within 4°. No birth chart of 1930 to 2009 holds it; it needs two people born some forty to sixty years apart, one era’s urge to break free facing another’s urge to renew at the root. I read it through the houses."
+definition: "Uranus opposite Pluto in synastry has one person’s Uranus and the other’s Pluto at opposite ends of the zodiac, within 4°. No birth chart of 1930 to 2009 holds it; it needs two people born forty to sixty years apart, one era’s urge to break free facing another’s urge to renew at the root. I read it through the houses."
 facts:
   - { k: "Bodies", v: "One person’s Uranus ♅, the other’s Pluto ♇" }
   - { k: "Aspect", v: "Opposition ☍, 180°" }
