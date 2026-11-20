@@ -43,11 +43,11 @@ What the friction can make is reform that reaches deep enough to last, and trans
 
 ## Where it rubs {#where-it-rubs}
 
-The square turns on pace and depth. The Uranus person can push changes through before anyone understands what still works; the Pluto person can hold on to control in the name of depth, or treat each experiment as a threat. A square is friction, never failure, and this one is between two generations' ways of changing, not between two people's worth.
+The square turns on pace and depth. The Uranus person can push changes through before anyone understands what still works; the Pluto person can hold on to control in the name of depth, or treat each experiment as a threat. A square is friction, never failure: what pushes here is two generations' ways of changing, not two people's worth.
 
 - **[Uranus conjunct Pluto in synastry](/astrology/uranus-conjunct-pluto-synastry/):** change and depth welded on one degree.
 - **[Uranus sextile Pluto in synastry](/astrology/uranus-sextile-pluto-synastry/):** a sign closer, an opening instead of a push.
-- **[Uranus trine Pluto in synastry](/astrology/uranus-trine-pluto-synastry/):** a sign further, the two urges flowing together.
+- **[Uranus trine Pluto in synastry](/astrology/uranus-trine-pluto-synastry/):** a sign further, where change and depth run in step.
 - **[Uranus opposite Pluto in synastry](/astrology/uranus-opposite-pluto-synastry/):** the whole zodiac apart, freedom and renewal on a seesaw.
 
 ## How to meet it {#how-to-meet-it}
@@ -58,4 +58,4 @@ Both examples in the count are about a generation apart. Anyone born between Sep
 
 The birth hour moves neither planet; it decides the houses ([what changes without a birth time](/blog/unknown-birth-time/)). With the Pluto in the Uranus person's 10th house, the friction reaches career and public standing ([Their Pluto in your 10th house](/astrology/pluto-in-10th-house-synastry/)).
 
-In one person's chart, [Uranus square Pluto](/astrology/uranus-square-pluto/) belongs to births of 1930 to 1936 and a few months of 2009. Between two charts it joins generations, and it is read only when both people ask ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+In one person's chart, [Uranus square Pluto](/astrology/uranus-square-pluto/) belongs to people born between 1930 and 1936, and to a few months of 2009. Between two charts it joins generations, and it is read only when both people ask ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
