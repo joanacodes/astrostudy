@@ -20,7 +20,7 @@ faq:
     a: "No overlay decides how a career goes. Their Chiron in your 10th describes where their hard-won experience of being seen and judged meets your public role: often as mentoring, sometimes as over-protectiveness. What you do with your work, and how far you take it, stays in your hands."
   - q: "Why is their career advice so precise when their Chiron falls in my 10th house?"
     a: "People who have had to find a way round an obstacle in public life tend to know exactly where the traps are. In your house of work and reputation, that knowledge comes out as specific, practical advice. Take what fits, and keep in mind that their path and yours are not the same climb."
-  - q: "Why does their success unsettle me when my Chiron is in their 10th house?"
+  - q: "Why do I feel envy and pride at once when my Chiron sits in their 10th house?"
     a: "Their ambitions, standing and public role press on your own sore spot, so watching them step forward can stir pride and old envy at once. You may want to coach them, or shield them from criticism. Admire openly, advise when asked, and keep your own ambitions in view."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the 10th house, the highest of the angles" }

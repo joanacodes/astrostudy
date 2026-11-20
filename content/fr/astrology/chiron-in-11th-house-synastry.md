@@ -38,7 +38,7 @@ Certaines personnes entrent dans une pièce bondée et trouvent, en quelques min
 
 Avec cette personne, appartenir devient peut-être plus simple, ou plus large. Elle remarque qui reste à l’écart et fait de la place sans bruit, et vous entraîne parfois dans un groupe que vous auriez évité, ou vous aide à lancer celui que vous auriez voulu voir exister. Un espoir à long terme paraît plus réalisable à côté de quelqu’un qui a dû trouver des portes dérobées toute sa vie.
 
-Pour elle, votre cercle peut être à la fois accueillant et exposant. Votre place facile parmi vos amis, vos invitations, votre groupe de messages plein de blagues entre initiés réveillent peut-être ce qu’elle a dû contourner, et elle reste parfois au bord de votre bande avant de s’y poser. Maison succédente, la maison 11 est celle où les projets communs prennent du poids ; le [Verseau](/astrology/aquarius/), son signe naturel, relève de Saturne dans la tradition et d’Uranus aujourd’hui, et je lis les deux. Son nom ancien était le Génie favorable, et Jupiter s’y réjouit.
+Pour elle, votre cercle peut être à la fois accueillant et exposant. Votre place facile parmi vos amis, vos invitations, votre groupe de messages plein de blagues entre initiés réveillent peut-être ce qu’elle a dû contourner, et elle reste parfois au bord de votre bande avant de s’y poser. Maison succédente, la maison 11 est celle où les projets communs prennent du poids ; le [Verseau](/astrology/aquarius/), son signe naturel, eut Saturne pour seul maître pendant des siècles, et en a un second depuis la découverte d’Uranus par Herschel en 1781 ; je lis les deux. Son nom ancien était le Génie favorable, et Jupiter s’y réjouit.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

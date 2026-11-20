@@ -21,7 +21,7 @@ faq:
     a: "Aucune superposition ne décide de la marche d’une carrière. Son Chiron dans votre maison 10 décrit l’endroit où son expérience, durement acquise, du regard et du jugement des autres rencontre votre rôle public : souvent du mentorat, parfois trop de protection. Ce que vous faites de votre travail, et jusqu’où vous le menez, reste entre vos mains."
   - q: "Pourquoi ses conseils sur mon travail sont-ils si justes quand son Chiron tombe dans ma maison 10 ?"
     a: "Les personnes qui ont dû contourner un obstacle dans leur vie publique savent souvent exactement où sont les pièges. Dans votre maison du travail et de la réputation, ce savoir prend la forme de conseils précis et concrets. Prenez ce qui vous va, en gardant à l’esprit que son chemin et le vôtre ne sont pas la même ascension."
-  - q: "Pourquoi sa réussite me trouble-t-elle quand mon Chiron est dans sa maison 10 ?"
+  - q: "Pourquoi est-ce que j’éprouve à la fois de la fierté et de l’envie quand mon Chiron se trouve dans sa maison 10 ?"
     a: "Ses ambitions, sa position et son rôle public appuient sur votre propre point sensible : la voir avancer peut éveiller à la fois de la fierté et une vieille envie. Vous avez peut-être envie de la coacher, ou de la protéger des critiques. Admirez ouvertement, conseillez sur demande, et gardez vos propres ambitions en vue."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "la maison 10, le plus haut des angles" }

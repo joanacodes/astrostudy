@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 129
 glyph: "⚷"
-definition: "Their Chiron in your 9th house carries the other person’s Chiron to your far horizon: beliefs, higher study, long journeys, the search for meaning. In synastry the sense they made of an old hurt meets your own questions: they tend to teach without preaching, while your beliefs or travels can touch something tender in them."
+definition: "Their Chiron in your 9th house sends the other person’s Chiron out to your far horizon: beliefs, higher study, long journeys, the search for meaning. In synastry the sense they made of an old hurt meets your own questions: they tend to teach without preaching, while your beliefs or travels can touch something tender in them."
 facts:
   - { k: "Their body", v: "Their Chiron ⚷" }
   - { k: "Your house", v: "The 9th house: beliefs, study, far journeys" }
@@ -34,7 +34,7 @@ Some people help you think about what you believe without ever telling you what 
 
 With them, a question you'd shelved may open again. They tend to mentor rather than preach, because whatever they believe, they reached it the long way; they ask what you think before telling you what they think. A course you gave up on, a trip you postponed, a doubt you never dared voice may come back within reach.
 
-For them, your beliefs and journeys can stir something tender. Your faith or your scepticism, a degree you took for granted, the ease with which you move between countries may recall the detours they were forced to take, and they may want to give you what they wish someone had given them. Cadent, the 9th learns and hands on; its natural sign is [Sagittarius](/astrology/sagittarius/), and tradition, which called it the God, gave the Sun its joy there. Late in your 9th, their Chiron nears your [Midheaven](/astrology/midheaven/), and what you come to believe starts to show in what you do in public.
+For them, your beliefs and journeys can stir something tender. Your faith or your scepticism, a degree you took for granted, the ease with which you move between countries may recall the detours they were forced to take, and they may want to give you what they wish someone had given them. Cadent, the 9th learns and hands on; its natural sign is [Sagittarius](/astrology/sagittarius/), and tradition, which called it the God, gave the Sun its joy there. Late in your 9th, their Chiron nears your [Midheaven](/astrology/midheaven/), and your convictions begin to show in your public life.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -48,6 +48,6 @@ Their search for meaning has its own history, long before you; your 9th house is
 
 Keep curiosity ahead of conversion: ask what led them to their view, and say what led you to yours. A couple with different beliefs can agree which subjects stay open and which are simply respected; friends travelling together can take turns choosing the day; at work, this overlay suits mentoring as long as the person being taught sets the pace; adult relatives who no longer share a faith can keep a table where nobody has to win.
 
-Flip the two charts and your Chiron sits in their 9th house: their beliefs and journeys press on your old hurt, and the teaching becomes yours to offer. [Their Chiron in your 8th house](/astrology/chiron-in-8th-house-synastry/) meets your trust and intimacy; [their Chiron in your 10th house](/astrology/chiron-in-10th-house-synastry/), your public life.
+Flip the two charts, with the Chiron yours and the 9th house theirs: their beliefs and journeys press on your old hurt, and the teaching becomes yours to offer. [Their Chiron in your 8th house](/astrology/chiron-in-8th-house-synastry/) meets your trust and intimacy; [their Chiron in your 10th house](/astrology/chiron-in-10th-house-synastry/), your public life.
 
 A body as slow as Chiron is placed by their birth date alone. Your birth time places your 9th, and the Midheaven at its far end moves through all twelve signs between one midnight and the next, so in Placidus, the house system I use, the time is what puts their Chiron in your 9th rather than your 10th; I ask for both times ([what changes without a birth time](/blog/unknown-birth-time/)). When you're near in age, their Chiron often sits close to your own, and [Chiron in the 9th house](/astrology/chiron-in-9th-house/) may then describe your side as well. If the other person can't be asked, begin with your own chart instead ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#instead)).

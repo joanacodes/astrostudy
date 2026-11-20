@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 129
 glyph: "⚷"
-definition: "Chiron de l’autre dans votre maison 9 porte son Chiron jusqu’à votre horizon lointain : convictions, études supérieures, longs voyages, quête de sens. En synastrie, le sens que cette personne a tiré d’une vieille blessure rencontre vos propres questions : elle enseigne sans prêcher, et vos convictions ou vos voyages peuvent toucher en elle quelque chose de tendre."
+definition: "Chiron de l’autre dans votre maison 9 envoie son Chiron jusqu’à votre horizon lointain : convictions, études supérieures, longs voyages, quête de sens. En synastrie, le sens que cette personne a tiré d’une vieille blessure rencontre vos propres questions : elle enseigne sans prêcher, et vos convictions ou vos voyages peuvent toucher en elle quelque chose de tendre."
 facts:
   - { k: "Corps de l’autre", v: "Le Chiron de l’autre ⚷" }
   - { k: "Votre maison", v: "La maison 9 : les convictions, les études, les voyages lointains" }
@@ -35,7 +35,7 @@ Certaines personnes vous aident à réfléchir à ce que vous croyez sans jamais
 
 Avec cette personne, une question mise de côté peut se rouvrir. Elle guide plutôt qu’elle ne prêche, parce que ses convictions, quelles qu’elles soient, elle les a atteintes par le long chemin ; elle demande ce que vous pensez avant de dire ce qu’elle pense. Un cours abandonné, un voyage remis, un doute jamais formulé reviennent peut-être à portée de main.
 
-Pour elle, vos convictions et vos voyages peuvent remuer quelque chose de tendre. Votre foi ou votre scepticisme, un diplôme que vous trouviez aller de soi, l’aisance avec laquelle vous passez d’un pays à l’autre lui rappellent peut-être les détours qu’elle a dû prendre, et elle a envie de vous donner ce qu’elle aurait aimé recevoir. Cadente, la maison 9 apprend et transmet ; son signe naturel est le [Sagittaire](/astrology/sagittarius/), et la tradition, qui l’appelait le Dieu, y plaçait la joie du Soleil. En fin de maison 9, son Chiron s’approche de votre [Milieu du Ciel](/astrology/midheaven/), et ce que vous finissez par croire commence à se voir dans ce que vous faites en public.
+Pour elle, vos convictions et vos voyages peuvent remuer quelque chose de tendre. Votre foi ou votre scepticisme, un diplôme que vous trouviez aller de soi, l’aisance avec laquelle vous passez d’un pays à l’autre lui rappellent peut-être les détours qu’elle a dû prendre, et elle a envie de vous donner ce qu’elle aurait aimé recevoir. Cadente, la maison 9 apprend et transmet ; son signe naturel est le [Sagittaire](/astrology/sagittarius/), et la tradition, qui l’appelait le Dieu, y plaçait la joie du Soleil. En fin de maison 9, son Chiron s’approche de votre [Milieu du Ciel](/astrology/midheaven/), et vos convictions commencent à passer dans votre vie publique.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

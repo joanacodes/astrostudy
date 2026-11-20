@@ -37,7 +37,7 @@ Some people walk into a crowded room and find, within minutes, the one person st
 
 With them, belonging may get easier, or wider. They tend to notice who's being left out and quietly make room, and they may draw you into a group you'd have avoided, or help you start the one you wished existed. A long-term hope can look more workable beside someone who has had to find side doors all their life.
 
-For them, your circle can be both welcome and exposing. Your easy place among friends, your invitations, your group chat full of in-jokes may wake what they once had to work their way past, and they may hover at the edge of your crowd before they settle. A succedent house, the 11th is where shared plans gather weight; [Aquarius](/astrology/aquarius/), its natural sign, answers to Saturn in tradition and to Uranus today, and I read both. Tradition called this house the Good Spirit, and Jupiter rejoices there.
+For them, your circle can be both welcome and exposing. Your easy place among friends, your invitations, your group chat full of in-jokes may wake what they once had to work their way past, and they may hover at the edge of your crowd before they settle. A succedent house, the 11th is where shared plans gather weight; [Aquarius](/astrology/aquarius/), its natural sign, had Saturn as its ruler for centuries and Uranus as well since 1781, when Herschel found it; I read both. Tradition called this house the Good Spirit, and Jupiter rejoices there.
 
 ## Where it rubs {#where-it-rubs}
 
