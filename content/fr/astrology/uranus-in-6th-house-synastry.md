@@ -17,7 +17,7 @@ facts:
   - { k: "Il faut", v: "Votre heure de naissance ; la maison 6 va jusqu’à votre descendant" }
 related: ["/astrology/uranus", "/astrology/6th-house", "/astrology/house-overlays", "/astrology/can-astrology-predict-health-problems", "/astrology/descendant"]
 faq:
-  - q: "Pourquoi une personne dont Uranus est dans ma maison 6 change-t-elle sans cesse mes habitudes ?"
+  - q: "Pourquoi est-ce qu’une personne dont Uranus est dans ma maison 6 change sans cesse mes habitudes ?"
     a: "Uranus réforme les systèmes et tombe ici dans votre maison du travail quotidien et des habitudes : vos routines lui semblent pouvoir mieux marcher. Certains changements vous aideront, d’autres vous bousculeront. Convenir des routines qui restent des points fixes empêche les essais d’envahir votre semaine."
   - q: "Comment se passe le travail avec une personne dont Uranus est dans ma maison 6 ?"
     a: "Souvent de façon inventive et rarement ennuyeuse : de nouveaux outils, de meilleures méthodes, des arrangements souples. La même énergie peut faire bouger les plans trop souvent. Le mieux : tester ses idées comme des essais, avec des dates de bilan, et traiter votre besoin de constance comme une information plutôt qu’une résistance."

@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/8th-house", "/astrology/house-overlays", "/astrology/can-astrology-predict-death", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Faut-il avoir peur d’Uranus de l’autre dans ma maison 8 ?"
-    a: "Non. Aucun thème ne prévoit une mort ni une perte, quel que soit le sens que les anciens livres donnaient à la maison 8, et je n’en lis jamais un ainsi. Cette superposition décrit la liberté et la surprise dans l’intimité, la confiance et les ressources partagées ; elle peut sembler intense, et un consentement clair est ce qui rend cette intensité sûre."
+    a: "Non. Aucun thème ne prévoit une mort ni une perte, quel que soit le sens que les anciens livres donnaient à la maison 8, et je n’en lis jamais un ainsi. Cette superposition décrit la liberté et la surprise dans l’intimité, la confiance et les ressources partagées ; elle peut sembler intense, et un consentement clair la rend sûre."
   - q: "Pourquoi l’intimité semble-t-elle si imprévisible avec une personne dont Uranus est dans ma maison 8 ?"
     a: "Uranus, chez cette personne, apporte le changement et le besoin d’air dans votre maison de la proximité profonde. L’ouverture peut venir par vagues soudaines, puis de l’espace, et les arrangements communs peuvent bouger. Nommer ce dont chacun a besoin, et convenir de la façon de proposer un changement, rend cette imprévisibilité digne de confiance."
   - q: "Pourquoi est-ce que je me sens libre dans l’intimité avec une personne dont la maison 8 reçoit Uranus de mon thème ?"

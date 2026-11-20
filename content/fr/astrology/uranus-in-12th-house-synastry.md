@@ -21,7 +21,7 @@ faq:
     a: "Non. L’astrologie ancienne donnait à la maison 12 l’enfermement et les tourments cachés, mais aucun thème ne diagnostique quoi que ce soit, et je ne lis jamais une planète à cet endroit comme un symptôme. Cette superposition décrit le goût du changement d’une personne qui rejoint votre solitude et votre vie intérieure : intuitions soudaines, ou calme troublé."
   - q: "Pourquoi ai-je des intuitions soudaines auprès d’une personne dont Uranus est dans ma maison 12 ?"
     a: "Ici, les percées qu’apporte Uranus arrivent dans la part de votre thème où les choses travaillent hors de la vue. Auprès de cette personne, de vieux schémas peuvent soudain paraître autres, et de nouvelles façons de vous reposer ou de réfléchir s’ouvrent. Protéger quelques heures calmes évite que ces intuitions tournent à l’agitation."
-  - q: "Pourquoi la vie privée d’une personne dont la maison 12 reçoit Uranus de mon thème m’attire-t-elle autant ?"
+  - q: "Pourquoi est-ce que la vie privée d’une personne dont la maison 12 reçoit Uranus de mon thème m’attire autant ?"
     a: "Dans sa maison 12, Uranus, chez vous, atteint ce que cette personne garde pour elle, et vous sentez peut-être dans sa solitude des possibilités qu’elle n’a pas explorées. Cette curiosité peut la libérer, ou sembler intrusive. Attendre une invitation, et respecter les retraites dont elle a besoin, garde cette curiosité du côté de la liberté."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }

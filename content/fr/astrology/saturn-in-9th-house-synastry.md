@@ -17,7 +17,7 @@ facts:
   - { k: "Il faut", v: "Votre heure de naissance, qui place votre Milieu du Ciel" }
 related: ["/astrology/saturn", "/astrology/9th-house", "/astrology/house-overlays", "/astrology/midheaven", "/blog/unknown-birth-time"]
 faq:
-  - q: "Pourquoi une personne dont Saturne est dans ma maison 9 remet-elle en question tout ce que je crois ?"
+  - q: "Pourquoi est-ce qu’une personne dont Saturne est dans ma maison 9 remet en question tout ce que je crois ?"
     a: "Saturne, chez cette personne, éprouve ce qui dure, et tombe ici dans votre maison des convictions, de l’étude et du sens : elle demande comment vous le savez, et si cela tient. Cela peut ressembler à un doute dirigé contre vous, mais vos convictions en sortent souvent plus solides, et plus à vous."
   - q: "Voyager ou étudier avec une personne dont Saturne est dans ma maison 9 : à quoi s’attendre ?"
     a: "Cette superposition apporte en général de la préparation et de la constance aux deux : le cours mené à terme, le long voyage vraiment préparé. Le frottement, c’est une prudence qui refroidit l’enthousiasme. Un plan qui laisse de la place à l’imprévu permet souvent à chacun de profiter de ce que l’autre apporte."

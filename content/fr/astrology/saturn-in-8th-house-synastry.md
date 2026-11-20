@@ -20,7 +20,7 @@ faq:
   - q: "Pourquoi la confiance est-elle si lente avec une personne dont Saturne est dans ma maison 8 ?"
     a: "Saturne, chez cette personne, la part qui pose des limites et tient ses engagements, arrive dans votre maison de l’intimité et des ressources partagées. La confiance entre vous se gagne lentement, puis se garde longtemps. Elle peut d’abord ressembler à de la prudence, voire à de la méfiance ; dire ce dont chacun a besoin avant de s’ouvrir aide en général."
   - q: "Est-ce que Saturne en maison 8, en synastrie, annonce un malheur ?"
-    a: "Non. Les anciens livres plaçaient la mort et l’héritage en maison 8, mais aucun thème ne peut prévoir l’une ou l’autre, et je ne lis pas de thème pour cela. Cette superposition décrit la façon dont deux personnes vivent la confiance, l’intimité et les engagements communs. Ce qui pèse ici, c’est le sérieux, et le sérieux, traité avec soin, permet à la confiance de durer."
+    a: "Non. Les anciens livres plaçaient la mort et l’héritage en maison 8, mais aucun thème ne peut prévoir l’une ou l’autre, et je ne lis pas de thème pour cela. Cette superposition décrit la confiance, l’intimité et les engagements communs. Ce qui pèse ici, c’est le sérieux, et traité avec soin, il permet à la confiance de durer."
   - q: "Si Saturne, dans mon thème, tombe dans sa maison 8, pourquoi est-ce que je me retiens ?"
     a: "Parce que Saturne, chez vous, rencontre la part de sa vie où l’on se laisse approcher, et veut que cette proximité soit sûre avant d’être profonde. Vous sondez peut-être le terrain longtemps, gardez ce que cette personne vous confie et prenez très au sérieux les engagements communs. Lui dire que c’est de la prudence, pas du doute, l’aide à patienter."
 sources:

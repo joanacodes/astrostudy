@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/4th-house", "/astrology/house-overlays", "/astrology/imum-coeli", "/blog/synastry-behind-their-back"]
 faq:
   - q: "Que veut dire Saturne de l’autre dans ma maison 4 pour le foyer ?"
-    a: "Le sens du devoir et de la durée de cette personne s’installe dans votre vie de foyer : la façon dont une maison tourne, ce qui rassure, ce que vous bâtissez pour durer. Vous prenez peut-être racine plus facilement avec elle, ou vous sentez votre maison devenir un lieu à règles. Cela décrit une façon de partager un foyer, pas la question de savoir si vous le ferez."
+    a: "Le sens du devoir de cette personne s’installe dans votre vie de foyer : la façon dont une maison tourne, ce qui rassure, ce que vous bâtissez pour durer. Vous prenez peut-être racine plus facilement avec elle, ou voyez votre maison devenir un lieu à règles. Cela décrit une manière de partager un foyer, rien de plus."
   - q: "Est-ce que Saturne de l’autre dans ma maison 4 est bon signe pour vivre ensemble ?"
     a: "Cela peut être une base solide, car cette superposition parle de fondations : la fiabilité, les habitudes, un foyer bâti pour durer. Les frottements viennent plutôt des règles : lesquelles, et de qui. Les convenir ensemble, et y revenir, compte plus que la superposition elle-même, et aucun thème ne décide si deux personnes doivent vivre ensemble."
   - q: "Est-ce que Saturne en maison 4, en synastrie, parle de ma famille ?"

@@ -19,7 +19,7 @@ related: ["/astrology/uranus", "/astrology/2nd-house", "/astrology/house-overlay
 faq:
   - q: "Est-ce qu’Uranus de l’autre dans ma maison 2 va bouleverser mes finances ?"
     a: "Aucun thème ne dit ce qui arrivera à votre argent. Cette superposition décrit le goût du changement d’une personne face à votre sécurité et à votre valeur : elle encourage peut-être de nouvelles façons de gagner ou de lâcher prise, et cela peut vous bousculer. Gardez un noyau stable et testez les changements en petit : les décisions restent les vôtres."
-  - q: "Pourquoi une personne dont Uranus est dans ma maison 2 me fait-elle repenser ce qui compte ?"
+  - q: "Pourquoi est-ce qu’une personne dont Uranus est dans ma maison 2 me fait repenser ce qui compte ?"
     a: "Uranus interroge les arrangements reçus, et dans votre maison 2, ceux qui entourent vos biens, vos revenus et votre estime de vous. Ce que vous gardiez par habitude devient facultatif, un savoir-faire négligé prend de la valeur : une invitation à choisir votre sécurité plutôt qu’à en hériter."
   - q: "Pourquoi est-ce que je propose sans cesse des changements quand Uranus, dans mon thème, tombe dans sa maison 2 ?"
     a: "Uranus, chez vous, voit son monde d’objets et de valeurs comme quelque chose qui pourrait fonctionner autrement, et les idées viennent vite : un autre travail, une vie plus légère, un autre prix. Proposez-les comme des possibilités, pas comme des plans, et rappelez-vous que sa stabilité est peut-être justement ce qui lui permet d’en adopter une."

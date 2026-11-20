@@ -17,7 +17,7 @@ facts:
   - { k: "Il faut", v: "Votre heure de naissance à la minute près, pour votre Milieu du Ciel" }
 related: ["/astrology/saturn", "/astrology/10th-house", "/astrology/house-overlays", "/astrology/midheaven", "/blog/i-tested-my-birth-chart"]
 faq:
-  - q: "Une personne dont Saturne est dans ma maison 10 fait-elle un bon mentor ?"
+  - q: "Est-ce qu’une personne dont Saturne est dans ma maison 10 fait un bon mentor ?"
     a: "Souvent, si vous en cherchez un : vos ambitions arrivent dans le champ de Saturne, chez cette personne, et y sont prises au sérieux, tenues à une haute exigence. Rien ici ne prédit votre réussite. La superposition décrit la rencontre entre votre ambition et son autorité, et vous restez libre de choisir votre route."
   - q: "Pourquoi est-ce que son avis sur mon travail pèse autant, avec Saturne de l’autre dans ma maison 10 ?"
     a: "Saturne, chez cette personne, se tient là où se décide votre vie publique, et Saturne parle avec autorité. Ses compliments peuvent sembler rares et ses critiques lourdes, même sans intention. Distinguer son avis de votre décision, et le dire, garde la direction entre vos mains."

@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/5th-house", "/astrology/house-overlays", "/astrology/can-astrology-predict-pregnancy", "/astrology/childrens-charts"]
 faq:
   - q: "Que veut dire Saturne de l’autre dans ma maison 5 pour le jeu et l’amour ?"
-    a: "Ce qui, chez cette personne, sait attendre et poser des limites arrive dans la part de votre vie faite pour le plaisir : le jeu, la création, le flirt, l’amour. Un loisir peut y devenir un savoir-faire et un amour une cour lente et sérieuse, ou le plaisir peut sembler surveillé. Cela décrit votre façon d’aimer les choses ensemble, pas la fin d’une histoire."
+    a: "Ce qui, chez cette personne, sait attendre et poser des limites arrive dans la part de votre vie faite pour le plaisir : le jeu, la création, l’amour. Un loisir peut y devenir un savoir-faire, un amour une cour lente et sérieuse, ou le plaisir sembler surveillé. Cela décrit votre façon d’aimer les choses à deux, pas la fin d’une histoire."
   - q: "Est-ce que Saturne de l’autre dans ma maison 5 est mauvais pour l’amour ?"
     a: "Non. Cette superposition ralentit souvent l’amour et le rend sérieux, ce qui peut d’abord ressembler à de la réticence. La tradition disait Saturne maléfique, mais j’y lis un calendrier : un intérêt qui revient, à son rythme. Ce qui aide le plus, c’est de dire à voix haute que vous vous plaisez."
   - q: "Est-ce que Saturne de l’autre dans ma maison 5 annonce des difficultés avec les enfants ?"

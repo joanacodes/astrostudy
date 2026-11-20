@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/11th-house", "/astrology/house-overlays", "/astrology/aquarius", "/blog/unknown-birth-time"]
 faq:
   - q: "Pourquoi est-ce que je me fais de nouveaux amis par une personne dont Uranus est dans ma maison 11 ?"
-    a: "Uranus, chez cette personne, tombe dans votre maison des amis, des groupes et des espoirs partagés, et de nouveaux réseaux arrivent avec cette superposition. Vous rencontrez peut-être des gens qui ne ressemblent pas à votre entourage habituel, rejoignez des causes que vous n’auriez jamais trouvées, et vous sentez plus libre d’appartenir sans rentrer dans le rang. Garder vos vieilles amitiés à côté des nouvelles en fait un cadeau."
+    a: "Uranus, chez cette personne, tombe dans votre maison des amis et des espoirs partagés, et de nouveaux réseaux arrivent dans la foulée. Vous rencontrez peut-être des gens loin de votre entourage habituel, rejoignez des causes inattendues, et vous sentez plus libre d’appartenir sans rentrer dans le rang. Garder vos vieilles amitiés à côté des nouvelles en fait un cadeau."
   - q: "Pourquoi ne lisez-vous pas le signe d’Uranus en synastrie ?"
     a: "Parce qu’Uranus reste environ sept ans dans chaque signe : les personnes proches en âge partagent ce signe, qui décrit leur génération plus qu’elles-mêmes. Ce qui rend le contact personnel, c’est la maison où il tombe, ici votre maison 11, et ce qu’il touche dans votre thème : c’est pourquoi les deux heures de naissance comptent."
   - q: "Pourquoi est-ce que je me sens chez moi parmi ses amis, avec Uranus de mon thème dans sa maison 11 ?"

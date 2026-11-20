@@ -21,7 +21,7 @@ faq:
     a: "Non. Uranus parle de liberté et de changement ; une fin n’en fait pas partie. Cette superposition rend souvent le partenariat excitant et peu conventionnel, avec de la place pour chacun, et il peut durer longtemps quand l’imprévu plaît aux deux. La durée d’un lien tient aux deux thèmes entiers, et à vos choix."
   - q: "Pourquoi est-ce qu’un partenariat avec une personne dont Uranus est dans ma maison 7 ne ressemble à aucun autre ?"
     a: "Uranus, chez cette personne, apporte l’invention et l’indépendance dans votre maison des partenaires : les rôles et les étapes habituels peuvent se réécrire. Vous vous sentez peut-être plus libre avec elle qu’avec quiconque, ou dans l’incertitude sur votre place. Dire clairement combien d’espace et combien de proximité il faut à chacun aide des deux côtés."
-  - q: "Pourquoi une personne dont Uranus est dans ma maison 7 résiste-t-elle aux étapes habituelles d’une relation ?"
+  - q: "Pourquoi est-ce qu’une personne dont Uranus est dans ma maison 7 résiste aux étapes habituelles d’une relation ?"
     a: "Uranus, dans son thème, veut que chaque personne reste distincte, et dans votre maison des partenaires, cela peut remettre en cause les calendriers et les étiquettes. Ce n’est pas, en soi, un manque d’engagement. Cela aide qu’elle rende sa fiabilité visible, et que vous dessiniez l’arrangement à deux plutôt que d’en hériter."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }

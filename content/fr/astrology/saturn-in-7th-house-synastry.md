@@ -21,7 +21,7 @@ faq:
     a: "Parce que Saturne, chez cette personne, la part qui s’occupe d’engagement et de durée, arrive dans votre maison des partenaires. Le lien prend tôt des allures de véritable accord : fiable, lent à se réchauffer, bâti pour durer. Cela décrit la façon dont l’engagement se vit entre vous, jamais un mariage ni une durée."
   - q: "Est-ce que Saturne en maison 7, en synastrie, veut dire mariage ?"
     a: "Non. La tradition donnait à la maison 7 le mariage et les contrats, et Saturne y décrit bien un climat sérieux et engagé, mais aucun thème ne dit si deux personnes se marieront, ni quand. Amis, collègues et associés vivent le même sérieux. Ce qui se passe entre vous dépend des deux thèmes entiers et de vos propres choix."
-  - q: "Pourquoi la personne dont Saturne est dans ma maison 7 prend-elle autant de temps pour s’engager ?"
+  - q: "Pourquoi est-ce que la personne dont Saturne est dans ma maison 7 met autant de temps à s’engager ?"
     a: "Souvent, cette personne se sent responsable du partenariat et veut bien faire : elle se retient jusqu’à être sûre, puis elle reste. Vos hésitations l’inquiètent plus qu’elle ne le montre. Dire clairement ce que vous voulez, et à quel rythme, l’aide à se détendre, et vous évite d’attendre sans savoir."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }

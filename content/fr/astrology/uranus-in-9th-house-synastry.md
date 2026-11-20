@@ -22,7 +22,7 @@ faq:
   - q: "À quoi ressemble un voyage avec une personne dont Uranus est dans ma maison 9 ?"
     a: "Souvent à une aventure : des détours imprévus, des lieux hors des cartes habituelles, des conversations qui changent votre regard sur l’endroit où vous êtes. La même agitation peut bousculer un itinéraire soigné. Un plan avec des jours libres permet souvent de concilier les deux envies."
   - q: "Pourquoi est-ce que je bouscule ses croyances quand Uranus, dans mon thème, tombe dans sa maison 9 ?"
-    a: "Mettre à l’épreuve ce qu’on a reçu, c’est ce que fait Uranus chez vous, et dans sa maison 9, cela touche l’endroit où cette personne fabrique du sens. Vous lui ouvrez peut-être des portes, ou ébranlez des convictions dont elle a encore besoin. Demander lesquelles sont ouvertes à la question, et lesquelles ne le sont pas, garde le défi du côté du cadeau."
+    a: "Mettre à l’épreuve ce qu’on a reçu, c’est ce que fait Uranus chez vous, et dans sa maison 9, cela touche l’endroit où cette personne fabrique du sens. Vous lui ouvrez peut-être des portes, ou ébranlez des convictions dont elle a encore besoin. Demander lesquelles restent ouvertes à la question garde le défi du côté du cadeau."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "les signes et leurs maîtres classiques" }

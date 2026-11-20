@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/3rd-house", "/astrology/house-overlays", "/astrology/imum-coeli", "/blog/unknown-birth-time"]
 faq:
   - q: "Pourquoi les conversations sont-elles si électriques avec une personne dont Uranus est dans ma maison 3 ?"
-    a: "Uranus, planète de l’invention et du changement, chez cette personne, tombe dans votre maison de la parole quotidienne et de l’apprentissage. Les idées circulent par bonds entre vous, et vous pensez peut-être avec plus d’audace, ou apprenez de nouvelles choses sur un coup de tête. Le même courant peut éparpiller les journées chargées : donner aux idées un endroit où attendre aide."
+    a: "Uranus, planète de l’invention et du changement, chez cette personne, tombe dans votre maison de la parole et de l’apprentissage. Les idées circulent par bonds entre vous, et vous pensez peut-être avec plus d’audace, ou apprenez sur un coup de tête. Le même courant peut éparpiller les journées chargées : donner aux idées un endroit où attendre aide."
   - q: "Est-ce qu’Uranus de l’autre dans ma maison 3 m’aide à apprendre du nouveau ?"
     a: "Souvent, car cette superposition apporte de la curiosité et l’envie d’essayer des méthodes inhabituelles. Vous vous mettez peut-être à une langue, un outil ou un sujet que vous n’auriez jamais choisis de votre côté. Ce qui lui manque, c’est la constance : associez ses étincelles à un plan à vous, ou à un cours qui tient le rythme."
   - q: "Pourquoi est-ce que je l’interromps sans cesse quand Uranus, dans mon thème, tombe dans sa maison 3 ?"

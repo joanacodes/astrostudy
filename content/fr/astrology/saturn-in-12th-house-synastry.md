@@ -18,9 +18,9 @@ facts:
 related: ["/astrology/saturn", "/astrology/12th-house", "/astrology/house-overlays", "/astrology/astrology-and-mental-health", "/astrology/ascendant"]
 faq:
   - q: "Est-ce que Saturne de l’autre dans ma maison 12 est mauvais signe ?"
-    a: "Non. Les anciens livres étaient sévères avec la maison 12, mais ce sont les mêmes qui y plaçaient la joie de Saturne. Cette superposition décrit la constance d’une personne qui rejoint votre solitude, votre repos et vos peurs tues : le calme peut y devenir rassurant, ou des inquiétudes s’y remuer sans être nommées. Rien n’y annonce une maladie, et le diagnostic n’est jamais l’affaire d’un thème."
+    a: "Non. Les anciens livres étaient sévères avec la maison 12, mais ce sont les mêmes qui y plaçaient la joie de Saturne. Cette superposition décrit la constance d’une personne qui rejoint votre solitude et vos peurs tues : le calme peut y devenir rassurant, ou des inquiétudes s’y remuer. Rien n’y annonce une maladie, et le diagnostic n’est jamais l’affaire d’un thème."
   - q: "Pourquoi cette personne semble-t-elle connaître mes peurs, avec Saturne de l’autre dans ma maison 12 ?"
-    a: "Saturne, dans son thème, a pris place dans la part du vôtre qui garde ce que vous portez sans le dire, et Saturne remarque le poids. Elle sent peut-être une inquiétude avant que vous en parliez, ou en porte une pour vous. Nommer vos peurs à voix haute, même les petites, évite que ce savoir tourne au silence des deux côtés."
+    a: "Saturne, dans son thème, a pris place dans la part du vôtre qui garde le non-dit, et Saturne remarque le poids. Cette personne sent peut-être une inquiétude avant que vous en parliez, ou en porte une pour vous. Nommer vos peurs à voix haute, même petites, évite que ce savoir tourne au silence."
   - q: "Pourquoi est-ce que je m’inquiète pour une personne dont la maison 12 reçoit Saturne de mon thème ?"
     a: "Saturne, chez vous, tombe là où se déroule sa vie privée : vous vous sentez responsable de choses que vous ne voyez pas tout à fait, son repos, sa solitude, les peurs qu’elle garde. Offrir de la stabilité sans demander d’explications aide, tout comme croire que ses retraits servent à se renouveler, pas à vous fermer la porte."
 sources:
