@@ -42,7 +42,7 @@ Two fixed signs at a square, four rulers between them: about 1 person in 146. On
 
 ## In close relationships {#in-close-relationships}
 
-You want a bond that goes all the way down, with a partner who is also a friend. The Scorpio Sun asks for complete honesty and a trust earned slowly; the Aquarius Moon needs equality, conversation and a life of its own beside the shared one. You may be intensely loyal and still need a door that opens outward. A partner who doesn't mistake your need for room for a lack of feeling, and never asks you to choose between depth and freedom, lets both lights settle.
+You want a bond that goes all the way down, with a partner who is also a friend. The Scorpio Sun asks for complete honesty and a trust earned slowly; the Aquarius Moon needs equality, conversation and a life of its own beside the shared one. You may be intensely loyal and still need a door that opens outward. A partner who doesn't mistake your need for room for a lack of feeling lets both lights settle.
 
 ## At work {#at-work}
 
