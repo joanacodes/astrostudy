@@ -20,7 +20,7 @@ faq:
     a: "It often does: their ideals reach the top of your chart, so ambition can turn into vocation and work starts to feel as if it serves something. The care is practical. A calling still needs a route, a budget and clear terms, and their faith in you works best alongside your own planning."
   - q: "Does their Neptune in my 10th house blur my reputation?"
     a: "It can soften and enlarge it: they may speak of you with a glow that becomes part of how others see you. That’s pleasant, and slightly unreal. Letting the work behind the image show keeps your public life your own. The overlay never predicts success or failure."
-  - q: "What does the Neptune person see in my public life?"
+  - q: "Why does the Neptune person admire my public role so much?"
     a: "Often an ideal made real: your role, your standing or your work can look to them like the vocation they dream of. That admiration can lift you. It can also hide the ordinary effort behind the role, and showing them the doubts and the routine keeps their picture of you human."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the 10th, the culminating angle" }
@@ -34,7 +34,7 @@ A job that starts to feel like a vocation, a reputation that takes on a slight g
 
 With them, ambition can turn into vocation. You may find the nerve to work in an art, a caring profession or a cause, or simply come to see your present job as service rather than a ladder. They tend to talk about your work as if it mattered beyond the payslip, and sometimes that is what lets you believe it.
 
-Your public role can look to them like an ideal made real. They may admire your standing, picture you doing even greater things, or speak of you to others with a warmth that adds a little glow to your name. The 10th is angular and the most visible house of all, and [Capricorn](/astrology/capricorn/), the patient climber, is its natural sign. A few degrees from your [Midheaven](/astrology/midheaven/), their Neptune conjoins the summit itself, and the overlay is then felt most in how the world sees you.
+Your public role can look to them like an ideal made real. They may admire your standing, picture you doing even greater things, or speak of you to others with a warmth that adds a little glow to your name. The 10th is angular and the most visible house of all, and [Capricorn](/astrology/capricorn/), the patient climber, is its natural sign. Should their Neptune sit right on your [Midheaven](/astrology/midheaven/), it conjoins the summit itself, and the overlay is then felt most in how the world sees you.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -50,4 +50,4 @@ Give the dream a route. Write down what a calling would involve, week by week, a
 
 The other half of the picture is your Neptune in their 10th house, your ideals reaching their public life. [Their Neptune in your 9th house](/astrology/neptune-in-9th-house-synastry/) widens your beliefs; [their Neptune in your 11th house](/astrology/neptune-in-11th-house-synastry/) moves among your friends and causes.
 
-What a good career looks like changes with the times, and two people a generation apart often carry different dreams of work. Close in age, this overlay may mirror your own Neptune, and the vocation it hints at belongs to your shared era; with a wider gap, their generation's ideals of work meet your direction, and comparing them honestly can help you choose. Neptune moves so slowly that its place comes from their birth date alone. Your Midheaven circles the zodiac in a day, so your birth time sets it, and in Placidus, the house system I use, it is the cusp of your 10th ([what changes without a birth time](/blog/unknown-birth-time/)). Between colleagues above all, a chart is read only with its owner's yes ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#what-i-ask)).
+What a good career looks like changes with the times, and two people a generation apart often carry different dreams of work. Close in age, this overlay may mirror your own Neptune, and the vocation it hints at belongs to your shared era; with a wider gap, their generation's ideals of work meet your direction, and comparing them honestly can help you choose. Neptune moves so slowly that its place comes from their birth date alone. Your Midheaven runs through all twelve signs between one sunrise and the next, which is why your birth time is needed to place it, and in Placidus, the house system I use, the 10th begins there ([what changes without a birth time](/blog/unknown-birth-time/)). Between colleagues above all, a chart is read only with its owner's yes ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#what-i-ask)).

@@ -34,15 +34,15 @@ Some people reach you without words. Their Neptune in your 12th house takes anot
 
 With them, silence can be companionable rather than empty. You may meditate together, share music late at night, talk about your dreams, or simply feel understood without explaining; a solitude you once guarded can make room for one more.
 
-Your inner life can feel to them like home. They may sense your moods before you name them, find peace in your quiet, and give care that asks for no thanks. The 12th is cadent, a house where things are released rather than built. Its natural sign is [Pisces](/astrology/pisces/), which modern tropical astrology gives to Neptune and tradition to Jupiter; I read both, and here the modern ruler stands in its own house. Just before your [Ascendant](/astrology/ascendant/), their Neptune also brushes the rising degree, and the dream begins to show in your face.
+Your inner life can feel to them like home. They may sense your moods before you name them, find peace in your quiet, and give care that asks for no thanks. The 12th is cadent, a house where things are released rather than built. Its natural sign is [Pisces](/astrology/pisces/): Jupiter's in tradition, Neptune's in modern tropical astrology; I read both, and here the modern ruler stands in its own house. Just before your [Ascendant](/astrology/ascendant/), their Neptune also brushes the rising degree, and the dream begins to show in your face.
 
 ## Where it rubs {#where-it-rubs}
 
 What is unspoken can stay unspoken. You may withdraw together from things that need facing, or let them carry feelings that belong to you; the boundary between your inner life and theirs can thin until it's hard to say whose sadness is whose.
 
-From their side, your privacy can feel like a mist they cannot cross, and their quiet care may go unseen for a long time.
+To them, your privacy can seem a mist they cannot cross, and their quiet care may go unseen for a long time.
 
-Tradition gave the 12th confinement and hidden enemies. I read it as the inner life, and a chart diagnoses nothing ([astrology and mental health](/astrology/astrology-and-mental-health/)): this overlay describes imagination meeting your solitude, not a hidden harm and not a symptom.
+The old books spoke of confinement and hidden enemies in the 12th. I read it as the inner life, and a chart diagnoses nothing ([astrology and mental health](/astrology/astrology-and-mental-health/)): this overlay describes imagination meeting your solitude, not a hidden harm and not a symptom.
 
 ## How to meet it {#how-to-meet-it}
 
@@ -50,4 +50,4 @@ Name what's shared in the quiet. Say aloud, now and then, what you feel and what
 
 Swap the chairs and you have your Neptune in their 12th house, your imagination in their private world. [Their Neptune in your 11th house](/astrology/neptune-in-11th-house-synastry/) moves among your friends; [their Neptune in your 1st house](/astrology/neptune-in-1st-house-synastry/) steps into the face you show.
 
-Born close in age, the two of you carry Neptune in nearly the same place, so this overlay often repeats your own ([Neptune in the 12th house](/astrology/neptune-in-12th-house/)), and the longing for quiet belongs to a whole generation; with years between you, two eras' ways of seeking peace meet in private. Their birth date places Neptune. The edge between your 12th and your 1st is your Ascendant, and a quarter of an hour of birth time moves it by several degrees, enough in Placidus, the house system I use, to carry their Neptune from one house to the other ([what changes without a birth time](/blog/unknown-birth-time/#what-the-time-decides)). An inner life is the most private thing a chart describes, so I read this only with both people's yes ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#a-chart-is-personal)).
+Born close in age, the two of you carry Neptune in nearly the same place, so this overlay often repeats your own ([Neptune in the 12th house](/astrology/neptune-in-12th-house/)), and the longing for quiet belongs to a whole generation; with years between you, two eras' ways of seeking peace meet in private. For their Neptune, the birth date is enough. The edge between your 12th and your 1st is your Ascendant, and a quarter of an hour of birth time moves it by several degrees, enough in Placidus, the house system I use, to carry their Neptune from one house to the other ([what changes without a birth time](/blog/unknown-birth-time/#what-the-time-decides)). An inner life is the most private thing a chart describes, so I read this only with both people's yes ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#a-chart-is-personal)).
