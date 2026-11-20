@@ -31,7 +31,7 @@ L’essentiel d’une vie se passe en semaine, les jours ordinaires, et c’est 
 
 ## Ce qui change {#ce-qui-change}
 
-[Pluton](/astrology/pluto/) ramène les choses à l’essentiel et montre où se trouve vraiment le pouvoir. La [maison 6](/astrology/6th-house/), c’est la journée de travail : les tâches que vous accomplissez, les personnes avec qui ou pour qui vous travaillez, les routines qui vous font tenir, et le soin quotidien que vous donnez à votre corps et à ce qui vous entoure. Avec Pluton dans cette maison, des routines qui vous soutenaient peuvent commencer à ressembler à une cage, et vous vous surprendrez peut-être à rebâtir la semaine autour de ce qui compte. Le travail peut devenir le lieu d’un engagement plus profond, ou d’un refus plus net : une tâche faite à moitié devient plus difficile à supporter. Le pouvoir au travail, dans une hiérarchie, entre collègues, dans le contrat tacite sur qui fait les tâches invisibles, tend à apparaître en pleine lumière.
+[Pluton](/astrology/pluto/) ramène les choses à l’essentiel et montre où se trouve vraiment le pouvoir. La [maison 6](/astrology/6th-house/), c’est la journée de travail : les tâches que vous accomplissez, les personnes avec qui ou pour qui vous travaillez, les routines qui vous font tenir, et le soin quotidien que vous donnez à votre corps et à ce qui vous entoure. Avec Pluton dans cette maison, des routines qui vous soutenaient peuvent commencer à ressembler à une cage, et vous vous surprendrez peut-être à rebâtir la semaine autour de ce qui compte. Le travail peut devenir le lieu d’un engagement plus profond, ou d’un refus plus net : une tâche faite à moitié devient plus difficile à supporter. Le pouvoir au travail, dans une hiérarchie, entre collègues, dans le contrat tacite sur qui fait les tâches invisibles, tend à apparaître en pleine lumière. Le désir de tout faire parfaitement peut aussi s’aiguiser, et une part du travail de ces années consiste à reconnaître quand « assez bien » suffit.
 
 Si Mars occupe votre maison 6 natale, là où la tradition place la joie de Mars, la rencontre vient en chemin et demande de travailler avec plus de stratégie et moins de tension.
 
@@ -50,5 +50,7 @@ Côté ciel, Pluton se trouve en Verseau depuis mars 2023, sans interruption dep
 Rebâtir une routine à la fois. Pluton en maison 6 récompense une refonte lente plus qu’un bouleversement soudain, et vingt ans laissent tout le temps nécessaire.
 
 Repérer le travail invisible : qui le fait, qui en reçoit le mérite, qui décide. Le nommer est souvent le premier pas vers un partage plus juste.
+
+Quand une habitude est devenue une façon d’éviter quelque chose, se demander ce qu’elle protège avant de la laisser. Pluton finit de toute façon par le mettre au jour, et le savoir d’abord est plus doux.
 
 Continuer à prendre soin de votre corps de façon ordinaire, et porter toute inquiétude pour votre santé à un médecin, pas à un thème.

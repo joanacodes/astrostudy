@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 54
 glyph: "♇"
-definition: "Pluto transiting the 6th house is Pluto’s stay, about twenty years in the middle at London’s latitude, in your house of work, routine and daily care. It goes to the root of how your days are organised: the work you do, whom you do it for, and the habits that hold you up or wear you down. It forecasts no illness."
+definition: "Pluto transiting the 6th house is Pluto’s stay, about twenty years at London’s latitude, in your house of work, routine and daily care. It goes to the root of how your days are organised: the work you do, whom you do it for, and the habits that hold you up or wear you down. It forecasts no illness."
 facts:
   - { k: "Body", v: "Pluto ♇, the planet of depth, power and change" }
   - { k: "House", v: "The 6th house: work, routine and daily care (cadent)" }
@@ -30,7 +30,7 @@ Most of a life happens on ordinary weekdays, and the 6th house is where those da
 
 ## What changes {#what-changes}
 
-[Pluto](/astrology/pluto/) strips things to what is essential and shows where power really sits. The [6th house](/astrology/6th-house/) is the working day: the tasks you do, the people you work with or for, the routines that keep you going, and the daily care you give your body and your surroundings. With Pluto here, routines that once held you up can start to feel like a cage, and you may find yourself rebuilding the week around what matters. Work can become a place of deeper commitment, or of a clearer refusal: a job done half-heartedly gets harder to bear. Power at work, in a hierarchy, between colleagues, in the quiet contract over who does the unseen tasks, tends to come into focus.
+[Pluto](/astrology/pluto/) strips things to what is essential and shows where power really sits. The [6th house](/astrology/6th-house/) is the working day: the tasks you do, the people you work with or for, the routines that keep you going, and the daily care you give your body and your surroundings. With Pluto here, routines that once held you up can start to feel like a cage, and you may find yourself rebuilding the week around what matters. Work can become a place of deeper commitment, or of a clearer refusal: a job done half-heartedly gets harder to bear. Power at work, in a hierarchy, between colleagues, in the quiet contract over who does the unseen tasks, tends to come into focus. The wish to get every detail right can sharpen too, and part of the work of these years is learning when good enough is enough.
 
 A natal Mars in the 6th, the house where tradition says Mars rejoices, is met along the way and asked to work with more strategy and less strain.
 
@@ -49,5 +49,7 @@ As for the sky, Pluto has been in Aquarius since March 2023, continuously since 
 Rebuild one routine at a time. Pluto in the 6th rewards a slow overhaul more than a sudden one, and twenty years is plenty of time.
 
 Notice the invisible work: who does it, who gets the credit, who decides. Naming it is usually the first step towards a fairer share.
+
+When a habit has become a way of avoiding something, ask what it protects before you drop it. Pluto tends to find out either way, and knowing first is gentler.
 
 Keep looking after your body in ordinary ways, and take any worry about your health to a doctor, not to a chart.
