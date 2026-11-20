@@ -1,7 +1,7 @@
 ---
 title: "Their Neptune in your 2nd house"
 h1: "Their Neptune in your 2nd house in synastry"
-description: "Their Neptune in your 2nd house in synastry: their ideals meeting your money, belongings and self-worth, felt both ways, with the figures written down."
+description: "Their Neptune in your 2nd house in synastry: their ideals in what you earn, own and value, both sides of it, with the figures written down."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -50,4 +50,4 @@ Keep the dream and write down the figures. A short note of what was lent, a shar
 
 Read from their chart, it's your Neptune in their 2nd house, with your ideals meeting their resources. [Their Neptune in your 1st house](/astrology/neptune-in-1st-house-synastry/) touches the face you show; [their Neptune in your 3rd house](/astrology/neptune-in-3rd-house-synastry/), the way you talk and learn.
 
-Close in age, you share a generation's ideas about money and ownership. With fifteen years between you, their Neptune sits about a sign away from your own, and what each era dreamed of owning can differ more than the two of you do. Neptune advances only about two degrees a year, so their birth date fixes it firmly. Your birth time places the cusps of your 2nd, which in Placidus, the house system I use, can come out narrow or very wide depending on your latitude ([what changes without a birth time](/blog/unknown-birth-time/#what-the-time-decides)). How someone handles money is private, so this overlay is read only with the other person's agreement as well as yours ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#what-i-ask)).
+Close in age, you share a generation's ideas about money and ownership. With fifteen years between you, their Neptune sits about a sign away from your own, and what each era dreamed of owning can differ more than the two of you do. Neptune advances only about two degrees a year, so their birth date fixes it firmly; their own houses still need their birth time, and I don't begin without it. Your birth time places the cusps of your 2nd, which in Placidus, the house system I use, can come out narrow or very wide depending on your latitude ([what changes without a birth time](/blog/unknown-birth-time/#what-the-time-decides)). How someone handles money is private, so this overlay is read only with the other person's agreement as well as yours ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#what-i-ask)).

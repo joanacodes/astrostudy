@@ -19,9 +19,9 @@ facts:
 related: ["/astrology/venus-retrograde", "/astrology/cancer", "/astrology/venus-in-cancer", "/astrology/moon", "/blog/retrograde-planets"]
 faq:
   - q: "Y a-t-il une rétrogradation de Vénus en Cancer ?"
-    a: "Pas entre 2000 et 2040, dans les dates sur lesquelles je travaille. Vénus recule en Gémeaux en mai et juin, en Lion ou en Vierge à partir de fin juillet, et aucune des deux séries n’atteint le Cancer ces années-là : celle des Gémeaux stationne au plus haut à 26°08′ des Gémeaux, celle du Lion repart au plus bas à 7°50′ du Lion."
+    a: "Mes dates, qui vont de 2000 à 2040, n’en comptent aucune. Vénus recule en Gémeaux en mai et juin, en Lion ou en Vierge à partir de fin juillet, et aucune des deux séries n’atteint le Cancer ces années-là : celle des Gémeaux stationne au plus haut à 26°08′ des Gémeaux, celle du Lion repart au plus bas à 7°50′ du Lion."
   - q: "Que voudrait dire Vénus rétrograde en Cancer ?"
-    a: "Les astrologues y liraient la façon d’estimer de Vénus tournée vers le soin et l’appartenance, ralentie et regardée de nouveau : qui vous donne le sentiment d’être chez vous, ce que vous protégez, ce que l’on donne et reçoit en prenant soin l’un de l’autre. Je lis toute rétrogradation de Vénus comme une météo, jamais comme un verdict sur une relation."
+    a: "Les astrologues y liraient la façon d’estimer de Vénus tournée vers le soin et l’appartenance, ralentie et regardée de nouveau : qui vous donne le sentiment d’être chez vous, ce que vous protégez, ce que l’on donne et reçoit en prenant soin l’un de l’autre. Dans ma lecture, ce serait une météo, et la météo ne prononce aucune sentence sur l’amour."
   - q: "Quelles rétrogradations de Vénus passent le plus près du Cancer ?"
     a: "La série d’été en Lion, dont la station directe descend d’environ 2° tous les huit ans, de 16°35′ du Lion en 2007 à 7°50′ du Lion en 2039 : elle glisse donc vers le Cancer. La série de mai en Gémeaux va dans l’autre sens, un peu plus loin du Cancer à chaque retour."
   - q: "Quel rôle joue la Lune pour Vénus en Cancer ?"

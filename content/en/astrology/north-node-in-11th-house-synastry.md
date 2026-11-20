@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 155
 glyph: "☊"
-definition: "Their North Node in your 11th house leads the other person’s direction of growth into your friendships, groups and shared hopes, with their South Node across in your 5th. In your circle they learn to belong to something larger than the two of you, while charm and one-to-one fun with you need no learning at all."
+definition: "Their North Node in your 11th house makes your friendships, groups and shared hopes the place where the other person grows, with their South Node across in your 5th. In your circle they learn to belong to something larger than the two of you, while charm and one-to-one fun with you need no learning at all."
 facts:
   - { k: "Their body", v: "Their North Node ☊, mean and true" }
   - { k: "Your house", v: "The 11th house: friends, groups, shared hopes" }
@@ -36,20 +36,20 @@ Here the other person's direction of growth lands among your friends, your group
 
 For you, they may want to meet your friends, join your choir or committee, help with the project you started with others. They can be a generous newcomer, a little unsure of the group's rules, and seeing your circle through their eyes may remind you how much it holds you.
 
-For them, your friendships show what shared hopes look like in practice. The 11th is succedent, and its natural sign, [Aquarius](/astrology/aquarius/), has two rulers: Uranus in modern tropical astrology and Saturn in tradition. I read both, the independent streak and the long view, and both suit a person learning to belong without disappearing. Tradition called this house the Good Spirit and gave Jupiter its joy here.
+For them, your friendships show what shared hopes look like in practice. [Aquarius](/astrology/aquarius/), natural sign of this succedent house, answers to Uranus in modern tropical astrology and to Saturn in the tradition. I read both: an independent streak and a long view, which is what belonging without disappearing takes. Tradition counted the 11th among the fortunate houses, named it the Good Spirit and placed Jupiter's joy in it.
 
 ## Where it rubs {#where-it-rubs}
 
-Their [South Node](/astrology/south-node/) in [the 5th house](/astrology/5th-house/) makes one-to-one fun their familiar ground: charm, flirting, performing, being the life of the evening. In your group, they may slip into entertaining rather than belonging, or pull you away from the others for a better time with just them.
+One-to-one fun is the familiar end for them: their [South Node](/astrology/south-node/) sits in [the 5th house](/astrology/5th-house/), with its charm, flirting, performing, being the life of the evening. In your group, they may slip into entertaining rather than belonging, or pull you away from the others for a better time with just them.
 
 From their side, the group can feel like a crowd where they don't stand out. They may miss the attention your 5th gives them and wonder why your friends matter so much.
 
-Tradition gave the 5th children; their South Node there doesn't speak of children or pregnancy, for either of you ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)). What it shows is the playful, familiar side of how they relate to you.
+Children were the 5th's in tradition. Their South Node in that house predicts none, for either of you ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)); it shows the playful, familiar way they relate to you.
 
 ## How to meet it {#how-to-meet-it}
 
 Bring them into the group and let them find a role that isn't the star's. In a couple, keep friends you share as well as friends of your own; between friends, invite them to something collective, a team or a cause; between colleagues, a shared goal will bring out their best; between adult relatives, a joint project for the wider family can work better than a party.
 
-Viewed from the other chart, it's your North Node in their 11th house, and their friendships would be your lesson. [Their North Node in your 10th house](/astrology/north-node-in-10th-house-synastry/) is about your public role; [their North Node in your 12th house](/astrology/north-node-in-12th-house-synastry/) about your quiet hours.
+Turn the charts round and it's your node among their friends: your North Node in their 11th house. Before it on the wheel, [their North Node in your 10th house](/astrology/north-node-in-10th-house-synastry/) watches your career; after it, [their North Node in your 12th house](/astrology/north-node-in-12th-house-synastry/) keeps company with your solitude.
 
-Four minutes of birth time move your horizon by a degree, and in Placidus, the house system I use, the cusps of your 11th move with it, so it's your time that draws the edges of your circle ([what changes without a birth time](/blog/unknown-birth-time/)). Their node, slow enough to be shared by a whole year-group of their own friends, is placed by their birth date. At either edge of your 11th, the mean node and the true node can disagree, one placing them among your friends and the other in your career or your solitude; I look at both, and I read the pair only with both times. Friendship is a choice two people make, and so is a reading of it ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Four minutes of birth time move your horizon by a degree, and in Placidus, the house system I use, the cusps of your 11th move with it, so it's your time that draws the edges of your circle ([what changes without a birth time](/blog/unknown-birth-time/)). Their node is a crowd's as much as theirs, shared by everyone born within about 18 months of them, and their birth date places it. At either edge of your 11th, the mean node and the true node can disagree, one placing them among your friends and the other in your career or your solitude; I look at both, and I read the pair only with both times. Friendship is a choice two people make, and so is a reading of it ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

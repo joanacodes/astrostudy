@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 145
 glyph: "☊"
-definition: "Their North Node in your 1st house means the direction the other person grows in falls on your manner and first moves, with their South Node across in your 7th. In synastry, the way you act on your own tends to show them what they are learning, and being your partner feels like familiar ground to them."
+definition: "Their North Node in your 1st house means the direction the other person grows in falls on your manner and first moves; their South Node, opposite, lands in your 7th. In synastry, the way you act on your own tends to show them what they are learning, and being your partner feels like familiar ground to them."
 facts:
   - { k: "Their body", v: "Their North Node ☊, mean and true" }
   - { k: "Your house", v: "The 1st house: your manner and first moves" }

@@ -41,7 +41,7 @@ Someone born with Venus retrograde in Aquarius has an affection that keeps its i
 
 ## House by house {#house-by-house}
 
-The house with Aquarius on it changes from chart to chart with the time of birth, so this list needs [your birth time](/blog/unknown-birth-time/) before it means anything; without it I don’t read the chart. In Placidus, the house system I use, the 2005 retrograde began in the Aquarius house and soon moved on into the Capricorn one.
+The house with Aquarius on it changes from chart to chart with the time of birth, so this list needs [your birth time](/blog/unknown-birth-time/) before it means anything; without it I don’t read the chart. Placidus, the house system I use, puts the start of the 2005 retrograde in the Aquarius house and most of it in the Capricorn one.
 
 1. **[1st house](/astrology/aquarius-rising/):** Aquarius rising: a friendly, independent manner; the distance you keep at first, and what it protects.
 2. **[2nd house](/astrology/aquarius-on-2nd-house-cusp/):** unconventional values; what you spend on causes, gadgets or ideas, weighed against what you enjoy.

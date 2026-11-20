@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 151
 glyph: "☊"
-definition: "Their North Node in your 7th house puts the other person’s direction of growth in your house of partners, with their South Node across in your 1st. With you they practise sharing decisions, and when it gets hard they fall back on going their own way. It never means two people are meant to be together."
+definition: "Their North Node in your 7th house puts where the other person is heading in your house of partners, with their South Node across in your 1st. With you they practise sharing decisions, and when it gets hard they fall back on going their own way. It never means two people are meant to be together."
 facts:
   - { k: "Their body", v: "Their North Node ☊, mean and true" }
   - { k: "Your house", v: "The 7th house: partners and the person you face" }
@@ -36,11 +36,11 @@ It's tempting to call this overlay destiny. I'd offer a plainer word: practice. 
 
 For you, they may seem keen to cooperate, to ask your view, to decide things together, sometimes more keenly than they manage. Being consulted by someone who is visibly learning to consult can be touching, and you may notice them trying compromises with you that they've never tried before.
 
-For them, sharing a decision is the unfamiliar end, and with you it seems worth the effort. The 7th is angular, beginning at your [Descendant](/astrology/descendant/), and its natural sign, [Libra](/astrology/libra/), is ruled by Venus. A North Node close to that cusp sets their South Node on your Ascendant, both ends of their line on your horizon. And if you were born within a few months of each other, your own North Node is probably in your 7th too: you're learning the same thing, side by side.
+For them, sharing a decision is the unfamiliar end, and with you it seems worth the effort. An angular house, the 7th opens at your [Descendant](/astrology/descendant/), and Venus rules [Libra](/astrology/libra/), its natural sign. A North Node close to that cusp sets their South Node on your Ascendant, both ends of their line on your horizon. And if you were born within a few months of each other, your own North Node is probably in your 7th too: you're learning the same thing, side by side.
 
 ## Where it rubs {#where-it-rubs}
 
-Their [South Node](/astrology/south-node/) in [the 1st house](/astrology/1st-house/) is their old ground: self-reliance. Around your person and your plans, they can fall back on doing it their way and presenting decisions already made, the very habit the 7th asks them to put down.
+Their [South Node](/astrology/south-node/) sits in [the 1st house](/astrology/1st-house/), on your person and your plans, and there self-reliance is their old ground. Around you, they can fall back on doing it their way and presenting decisions already made, the very habit the 7th asks them to put down.
 
 From their side, partnering with you can feel like learning to dance with someone who already knows the steps. When it gets hard, they may retreat into independence and call it honesty, and you may wonder whether you're a partner or a training ground.
 
@@ -50,6 +50,6 @@ None of this means you were meant to be together, or that the relationship is th
 
 Decide some things together on purpose, and say so when it works. In a couple, take turns proposing and give each other a veto; between friends, plan a trip where both say what they want; between business partners, put the shared decisions in writing; between adult siblings, let the one learning to cooperate lead the next family discussion.
 
-If the node were yours, this would be your North Node in their 7th house, and you'd be the one learning to partner. Close by, [their North Node in your 6th house](/astrology/north-node-in-6th-house-synastry/) works in your daily routine, [their North Node in your 8th house](/astrology/north-node-in-8th-house-synastry/) in what you share and trust.
+If the node were yours, this would be your North Node in their 7th house, and you'd be the one learning to partner. The houses on either side change the lesson: with [their North Node in your 6th house](/astrology/north-node-in-6th-house-synastry/) it's your routines, with [their North Node in your 8th house](/astrology/north-node-in-8th-house-synastry/) your trust.
 
-Your Descendant faces your Ascendant and is set by your birth time; in Placidus, the house system I use, it is the cusp of your 7th ([what changes without a birth time](/blog/unknown-birth-time/)). Their birth date is enough to place their node, which stays about 18 months in a sign, but whether you two are learning partnership together also depends on where your node falls in their chart, and that needs their time. When the mean node and the true node sit either side of your Descendant, one count has them learning in your working day and the other across your table; I look at both. Reading how someone learns to partner, without them, would defeat the point ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#what-i-ask)).
+Only your birth time can say where the person across your table begins: in Placidus, the house system I use, your 7th opens at the Descendant, the exact opposite of your Ascendant ([what changes without a birth time](/blog/unknown-birth-time/)). Their birth date is enough to place their node, which stays about 18 months in a sign, but whether you two are learning partnership together also depends on where your node falls in their chart, and that needs their time. When the mean node and the true node sit either side of your Descendant, one count has them learning in your working day and the other across your table; I look at both. Reading how someone learns to partner, without them, would defeat the point ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#what-i-ask)).

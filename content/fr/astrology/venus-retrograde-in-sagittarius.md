@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 21
 glyph: "♀℞♐"
-definition: "Vénus rétrograde en Sagittaire, ce serait Vénus qui semble, depuis la Terre, reculer dans le Sagittaire pendant six semaines environ ; mais entre 2000 et 2040, cela n’arrive jamais : les rétrogradations les plus proches s’arrêtent en Scorpion et en Capricorne. J’y lis le goût de la liberté et des horizons lointains réévalué, dans la maison qu’occupe le Sagittaire dans votre thème."
+definition: "Aucune rétrogradation de Vénus ne tombe en Sagittaire entre 2000 et 2040 : les plus proches s’arrêtent en Scorpion et en Capricorne. S’il en venait une, Vénus semblerait, vue de la Terre, reculer dans le signe pendant six semaines environ, et j’y lirais le goût de la liberté et des horizons lointains repesé, dans la maison du Sagittaire de votre thème."
 facts:
   - { k: "Planète", v: "Vénus ♀" }
   - { k: "Signe", v: "Sagittaire ♐, feu mutable, gouverné par Jupiter" }
@@ -19,9 +19,9 @@ facts:
 related: ["/astrology/venus-retrograde", "/astrology/sagittarius", "/astrology/venus-in-sagittarius", "/astrology/jupiter", "/blog/retrograde-planets"]
 faq:
   - q: "Quand Vénus est-elle rétrograde en Sagittaire ?"
-    a: "Jamais entre 2000 et 2040, dans les dates que j’utilise. Les rétrogradations d’automne partent du Scorpion, au plus haut à 15°36′ du Scorpion, et celles d’hiver reprennent leur marche directe en Capricorne, au plus bas à 6°08′ du Capricorne : le Sagittaire reste intact entre les deux pendant ces quarante ans."
+    a: "Dans les dates que j’utilise, cela n’arrive pas entre 2000 et 2040. Les rétrogradations d’automne partent du Scorpion, au plus haut à 15°36′ du Scorpion, et celles d’hiver reprennent leur marche directe en Capricorne, au plus bas à 6°08′ du Capricorne : le Sagittaire reste intact entre les deux pendant ces quarante ans."
   - q: "Que voudrait dire Vénus rétrograde en Sagittaire ?"
-    a: "Le Sagittaire explore et cherche du sens : les astrologues y liraient un réexamen de ce que vous estimez dans la liberté, les voyages et les idées, et de la place que vous voulez garder en amour. Je lis toute rétrogradation de Vénus comme une météo, jamais comme un jugement sur une relation."
+    a: "Le Sagittaire explore et cherche du sens : les astrologues y liraient un réexamen de ce que vous estimez dans la liberté, les voyages et les idées, et de la place que vous voulez garder en amour. Quoi qu’elle remue, j’y lirais une météo, pas un jugement sur un lien."
   - q: "Quelles rétrogradations de Vénus passent le plus près du Sagittaire ?"
     a: "La série d’hiver en Capricorne. Sa station directe descend d’environ 2,5° tous les huit ans, de 16°01′ du Capricorne début 2006 à 6°08′ du Capricorne en janvier 2038 : elle se rapproche donc du Sagittaire. La série d’automne, en Scorpion, va dans l’autre sens."
   - q: "Où regarder plutôt ?"
@@ -42,7 +42,7 @@ Aucune naissance entre 2000 et 2040 ne porte Vénus rétrograde en Sagittaire. Q
 
 ## Maison par maison {#maison-par-maison}
 
-La place du Sagittaire parmi vos maisons se calcule à partir de la minute et du lieu de votre naissance : elle demande donc [votre heure de naissance](/blog/unknown-birth-time/), et je ne lis jamais un thème sans elle. Voici, en Placidus, le système que j’utilise, ce qu’une Vénus rétrograde en Sagittaire ralentirait dans chaque maison.
+La place du Sagittaire parmi vos maisons se calcule à partir de la minute et du lieu de votre naissance : elle demande donc [votre heure de naissance](/blog/unknown-birth-time/), et je ne lis jamais un thème sans elle. Les lignes ci-dessous, tracées en Placidus, mon système de maisons, disent ce qu’elle ralentirait si elle venait.
 
 1. **[Maison I](/astrology/sagittarius-rising/) :** l’ascendant Sagittaire : une manière franche et aventureuse ; la liberté que vous montrez au monde, et ce qu’elle vous apporte.
 2. **[Maison II](/astrology/sagittarius-on-2nd-house-cusp/) :** dépenser pour vivre des expériences ; ce que vous estimez plus que les biens, estimé de nouveau.

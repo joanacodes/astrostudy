@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 20
 glyph: "♀℞♏"
-definition: "Vénus rétrograde en Scorpion, ce sont les six semaines environ, dès début octobre tous les huit ans, où Vénus semble, depuis la Terre, s’arrêter en Scorpion puis y reculer, le plus souvent jusqu’en Balance. J’y lis l’attachement et le désir examinés en profondeur, ce que vous retenez et pourquoi, dans la maison qu’occupe le Scorpion dans votre thème."
+definition: "Vénus rétrograde en Scorpion commence tous les huit ans début octobre : vue de la Terre, Vénus s’arrête en Scorpion et y recule pendant six semaines environ, pour finir le plus souvent en Balance. J’y lis l’attachement et le désir examinés en profondeur, ce que vous retenez et pourquoi, dans la maison qu’occupe le Scorpion dans votre thème."
 facts:
   - { k: "Planète", v: "Vénus ♀, en exil" }
   - { k: "Signe", v: "Scorpion ♏, eau fixe, gouverné par Pluton et Mars" }
@@ -24,8 +24,8 @@ faq:
     a: "La tradition met Vénus en exil en Scorpion, où l’on accorde de la valeur avec intensité, fidélité et méfiance envers les apparences. Les astrologues lisent la rétrogradation dans ce signe comme des attachements et des désirs examinés pour ce qu’ils cachent. J’y lis des semaines de regard honnête, jamais une prédiction amoureuse ni un verdict sur une relation."
   - q: "La rétrogradation de 2002 est-elle restée en Scorpion ?"
     a: "D’après ses stations, oui. Vénus a rebroussé chemin à 15°36′ du Scorpion le 10 octobre 2002 et repris sa marche directe à 0°03′ du Scorpion le 21 novembre, juste à l’intérieur du signe. Toutes les suivantes de ma liste dépassent 0° et reprennent leur marche directe en Balance."
-  - q: "Quel maître compte pour Vénus rétrograde en Scorpion ?"
-    a: "Le Scorpion a deux maîtres, Mars dans la tradition et Pluton en astrologie tropicale moderne, et je lis les deux : les maisons de Mars et de Pluton dans votre thème natal montrent où mènent les questions de ces semaines. Trouver ces maisons, comme celle que traverse la rétrogradation, demande votre heure de naissance."
+  - q: "Faut-il regarder Mars ou Pluton pour Vénus rétrograde en Scorpion ?"
+    a: "Les deux. La tradition donne le Scorpion à Mars, l’astrologie tropicale moderne à Pluton, et je lis les deux maîtres : la maison de Mars dans votre thème natal montre où le désir agit, celle de Pluton où il transforme. Placer l’une ou l’autre de ces planètes dans une maison demande votre heure de naissance."
 sources:
   - { title: "Les dates de The Astro Study d’après la position des planètes", note: "les cinq rétrogradations d’automne de Vénus parties du Scorpion, 2000–2040" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "où Vénus stationne, et jusqu’où elle recule" }
@@ -34,9 +34,9 @@ Tous les huit ans, vers le début d’octobre, Vénus s’arrête en Scorpion et
 
 ## Ce qui ralentit {#ce-qui-ralentit}
 
-Le [Scorpion](/astrology/scorpio/) est un signe d’eau fixe à deux maîtres, Pluton en astrologie tropicale moderne et Mars dans la tradition, et je lis les deux. Face au Taureau, domicile de Vénus, c’est l’un des deux signes où Vénus est dite en exil : on y accorde de la valeur avec intensité, fidélité, et méfiance envers les apparences. Quand [Vénus rétrograde](/astrology/venus-retrograde/) commence en Scorpion, la planète semble, vue de la Terre, s’arrêter puis creuser à reculons dans le signe, et le réexamen va loin : ce que vous partagez et avec qui, quels attachements sont choisis et lesquels tiennent par peur de perdre, ce que demande vraiment un désir.
+Le [Scorpion](/astrology/scorpio/), signe d’eau fixe, relève de deux maîtres : Mars, selon la tradition, et Pluton, en astrologie tropicale moderne. Je lis les deux. Face au Taureau, domicile de Vénus, c’est l’un des deux signes où Vénus est dite en exil : on y accorde de la valeur avec intensité, fidélité, et méfiance envers les apparences. Quand [Vénus rétrograde](/astrology/venus-retrograde/) commence en Scorpion, la planète semble, vue de la Terre, s’arrêter puis creuser à reculons dans le signe, et le réexamen va loin : ce que vous partagez et avec qui, quels attachements sont choisis et lesquels tiennent par peur de perdre, ce que demande vraiment un désir.
 
-Dans ma liste, de 2000 à 2040, toutes les rétrogradations d’automne partent du Scorpion, environ 2,3° plus bas tous les huit ans : 15°36′ le 10 octobre 2002, 13°13′ en 2010, 10°50′ en 2018, 8°29′ le 3 octobre 2026, 6°07′ le 30 septembre 2034. D’après ses stations, celle de 2002 est restée tout entière en Scorpion, avec une station directe à 0°03′. Les quatre suivantes repassent en Balance et y reprennent leur marche directe ([Vénus rétrograde en Balance](/astrology/venus-retrograde-in-libra/)) : la plus récente, du 3 octobre au 14 novembre 2026, à 22°51′ de la Balance ; la prochaine, du 30 septembre au 11 novembre 2034, à 20°27′ de la Balance. Aucune n’avance jusqu’au Sagittaire, qui n’a pas de rétrogradation de Vénus dans ma liste ([Vénus rétrograde en Sagittaire](/astrology/venus-retrograde-in-sagittarius/)).
+Dans ma liste, de 2000 à 2040, toutes les rétrogradations d’automne partent du Scorpion, environ 2,3° plus bas tous les huit ans : 15°36′ le 10 octobre 2002, 13°13′ en 2010, 10°50′ en 2018, 8°29′ le 3 octobre 2026, 6°07′ le 30 septembre 2034. D’après ses stations, celle de 2002 est restée tout entière en Scorpion, avec une station directe à 0°03′. Les quatre suivantes repassent en Balance et y reprennent leur marche directe ([Vénus rétrograde en Balance](/astrology/venus-retrograde-in-libra/)) : la plus récente, du 3 octobre au 14 novembre 2026, à 22°51′ de la Balance ; la prochaine, du 30 septembre au 11 novembre 2034, à 20°27′ de la Balance. Le Sagittaire, de l’autre côté, reste intact : ma liste n’y compte aucune rétrogradation de Vénus ([Vénus rétrograde en Sagittaire](/astrology/venus-retrograde-in-sagittarius/)).
 
 Placement de naissance, Vénus rétrograde en Scorpion est un sentiment profond qui prend le temps de faire confiance, et je le lis pour lui-même ([planètes rétrogrades natales](/blog/retrograde-planets/)).
 

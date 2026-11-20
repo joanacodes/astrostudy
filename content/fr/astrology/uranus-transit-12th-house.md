@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 36
 glyph: "♅"
-definition: "Uranus en transit en maison 12, ce sont les années, six environ au milieu, où Uranus traverse la maison de la vie intérieure en chemin vers votre ascendant. Ce transit desserre ce que votre thème garde loin des regards : des habitudes intimes, de vieux schémas, des façons de se reposer, avec des intuitions venues dans la solitude. Ni maladie ni enfermement n’y sont décrits."
+definition: "Uranus en transit en maison 12, c’est la dernière étape avant votre ascendant : six ans environ au milieu, passés dans la maison de la vie intérieure. Ce transit desserre ce que votre thème garde loin des regards : habitudes intimes, vieux schémas, façons de se reposer, intuitions venues dans la solitude. Ni maladie ni enfermement n’y sont décrits."
 facts:
   - { k: "Corps", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Maison", v: "La maison 12, cadente : la solitude, le repos, la vie intérieure et ce qui ne se voit pas" }
@@ -27,19 +27,19 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "les séjours d’Uranus maison par maison, en Placidus pour Londres et New York, et les signes traversés à partir de 2026" }
   - { title: "Vettius Valens, Anthologies", note: "les douze lieux du thème, tels que les lisait la tradition hellénistique" }
 ---
-Avant d’atteindre votre ascendant, Uranus passe des années dans votre maison 12, où le changement se fait loin des regards : dans des habitudes que personne ne voit, dans ce qui vous occupe l’esprit dans la solitude, dans des schémas que vous portez sans les nommer. Au milieu, le séjour dure six ans environ ; dans une maison 12 large, bien plus.
+Avant d’atteindre votre ascendant, Uranus passe des années dans votre maison 12, où le changement se fait loin des regards : dans des habitudes que personne ne voit, dans ce qui vous occupe l’esprit dans la solitude, dans des schémas que vous portez sans les nommer. Six ans, c’est le milieu ; une maison 12 large peut garder Uranus bien plus longtemps.
 
 ## Ce qui change {#ce-qui-change}
 
 [Uranus](/astrology/uranus/) libère : cette planète défait un système des contraintes dont il n’a plus besoin. La [maison 12](/astrology/12th-house/), c’est la vie intérieure, la solitude, le retrait et le repos, la réflexion et la compassion, le travail fait sans être vu et les parts de vous que vous apprenez encore à connaître. Avec Uranus à cet endroit, des schémas intimes se desserrent souvent. Une vieille habitude de vous effacer peut perdre son emprise, une façon de vous reposer qui ne répare plus peut changer, et des intuitions peuvent arriver d’un coup, souvent dans les moments de solitude. Une grande part de tout cela ne se voit pas du dehors, et rien de tout cela n’a besoin de public.
 
-La tradition appelait la maison 12 le Génie défavorable et y plaçait la joie de Saturne. Son signe naturel est les Poissons, gouvernés par Neptune en astrologie moderne et par Jupiter dans la tradition, et je lis les deux. Avec Mercure dans votre maison 12 de naissance, le passage peut amener des idées qui naissent dans le calme : gardez de quoi écrire près de l’endroit où vous vous reposez.
+Les Poissons, signe que le zodiaque naturel associe à la maison 12, relèvent de Neptune dans les thèmes modernes et de Jupiter dans les plus anciens, et je garde les deux en vue. Avec Mercure dans votre maison 12 de naissance, le passage peut amener des idées qui naissent dans le calme : gardez de quoi écrire près de l’endroit où vous vous reposez.
 
 Les vieux livres donnaient aussi à cette maison l’enfermement et les ennemis cachés. Je ne lis ni l’un ni les autres dans un transit, et rien ici n’est un diagnostic ([Astrologie et santé mentale](/astrology/astrology-and-mental-health/)) : ce qui remonte de hors de la conscience n’est pas un symptôme. Un [transit](/astrology/transits/) fait ressortir ce que votre thème contient déjà sur la vie intérieure et lui donne de la place pour changer ; si ce qui remonte semble lourd, c’est une personne qualifiée qui peut aider, pas un thème.
 
 ## Combien de temps {#combien-de-temps}
 
-Dans les thèmes en Placidus dressés pour Londres, Uranus passe en général six ans environ en maison 12, le même milieu court qu’en maison 1 et bien moins que le chiffre de l’ensemble des maisons là-bas, mais le bout long atteint quatorze ans environ, le plus lointain de toutes les maisons à cette latitude, parce qu’à Londres une maison 12 va de très mince à très ample. Pour une naissance à New York, le milieu est de près de sept ans et le bout long de douze ans environ.
+Dans les thèmes en Placidus dressés pour Londres, Uranus passe en général six ans environ en maison 12, le même milieu court qu’en maison 1 et bien moins que le chiffre de l’ensemble des maisons là-bas, mais le bout long atteint quatorze ans environ, le plus lointain de toutes les maisons à cette latitude, parce qu’à Londres une maison 12 va de très mince à très ample. À la latitude plus méridionale de New York, les chiffres se resserrent : près de sept ans au milieu, douze environ au bout long.
 
 Le séjour se compte du premier franchissement de la cuspide de votre maison 12, retours rétrogrades compris, jusqu’au jour où Uranus atteint votre ascendant et où commence la maison 1. Ce dernier degré, celui qui se levait à votre naissance, demande la minute de naissance, comme tout le reste de cette partie : je ne lis pas de thème sans elle ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Les années d’avant se passaient parmi les amis et les groupes de votre maison 11 ([Uranus en transit en maison 11](/astrology/uranus-transit-11th-house/)) ; ce qui se libère ici continue en maison 1, où Uranus franchit votre ascendant et où le changement devient visible ([Uranus en transit en maison 1](/astrology/uranus-transit-1st-house/)).
 

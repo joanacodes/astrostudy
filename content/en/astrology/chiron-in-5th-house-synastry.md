@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 125
 glyph: "⚷"
-definition: "Their Chiron in your 5th house brings the other person’s Chiron into your play, creativity, pleasure and romance. In synastry their old hurt, and the gentleness it taught them, meets your joy: they encourage what you make and dare, while your easy delight may brush a sore spot of theirs. It never predicts children."
+definition: "Their Chiron in your 5th house mixes the other person’s Chiron into your play, creativity, pleasure and romance. In synastry their old hurt, and the gentleness it taught them, meets your joy: they encourage what you make and dare, while your easy delight may brush a sore spot of theirs. It never predicts children."
 facts:
   - { k: "Their body", v: "Their Chiron ⚷" }
   - { k: "Your house", v: "The 5th house: play, creation, romance" }
@@ -16,7 +16,7 @@ facts:
   - { k: "Needs", v: "Your birth time; their birth date is enough for their Chiron" }
 related: ["/astrology/chiron", "/astrology/5th-house", "/astrology/house-overlays", "/astrology/can-astrology-predict-pregnancy", "/astrology/childrens-charts"]
 faq:
-  - q: "Is their Chiron in my 5th house a sign of a painful romance?"
+  - q: "Does a painful romance lie ahead if their Chiron is in my 5th house?"
     a: "No. It describes where their old hurt and their hard-won gentleness meet your play, creativity and romance, not how a relationship will go. If romance is part of the bond, they may need reassurance in light moments, and may be unusually kind to your shy side. Friends and colleagues feel the same overlay as encouragement."
   - q: "Why does their encouragement matter so much, with their Chiron in my 5th house?"
     a: "People who have adapted around a sore spot of their own often know what it costs to show something unfinished. In your house of play and creation, that knowledge comes out as patience with your first attempts. Let them cheer you on; you keep the right to make things badly, for fun."
@@ -35,7 +35,7 @@ Showing someone a song you wrote, a first drawing or a crush takes a particular 
 
 With them, you may dare more. They tend to be gentle with first attempts, because they know what it is to put something of yourself on show and wait; the out-of-tune song, the half-finished canvas, the clumsy compliment are met with interest rather than marks out of ten. If you stopped playing at some point, they may be the one who gets you back to it.
 
-For them, your delight can be touching and a little sore. Watching you enjoy yourself freely may stir whatever they once had to work around, and they can hover at the edge of a game before joining in, then find themselves freer with you than with most. Succedent, the 5th is where pleasure grows. Its natural sign is [Leo](/astrology/leo/), and the old astrologers, who called it Good Fortune, placed the joy of Venus here.
+For them, your delight can be touching and a little sore. Watching you enjoy yourself freely may stir whatever they once had to work around, and they can hover at the edge of a game before joining in, then find themselves freer with you than with most. Succedent houses let things grow, and in the 5th what grows is pleasure. Its natural sign is [Leo](/astrology/leo/), and the old astrologers, who called it Good Fortune, placed the joy of Venus here.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -43,7 +43,7 @@ Encouragement can become a programme. The hobby gets a plan, the plan gets a tea
 
 From their side, play is where they can feel most exposed: a party game, a dare, an evening of loud fun may press on the place they've adapted around. They may laugh along and go quiet later.
 
-Children belonged to the 5th in the old books; this overlay says nothing about whether anyone will have a child ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and [children's charts](/astrology/childrens-charts/) stay outside my readings. It describes two adults' pleasure, not a family to come.
+The 5th once stood for children as well; this overlay says nothing about whether anyone will have a child ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and [children's charts](/astrology/childrens-charts/) stay outside my readings. It describes two adults' pleasure, not a family to come.
 
 ## How to meet it {#how-to-meet-it}
 

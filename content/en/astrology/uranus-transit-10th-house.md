@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 34
 glyph: "♅"
-definition: "Uranus transiting the 10th house is the stretch, nearly eight years as a rule, when Uranus moves from your Midheaven through your house of work, role and reputation. It wakes what your chart already holds about public life: restlessness with a path that no longer fits, and room for work you shape yourself. It predicts no career outcome."
+definition: "Uranus transiting the 10th house starts at the top of your chart: from your Midheaven, Uranus spends nearly eight years, as a rule, in your house of work and reputation. It wakes what your chart already holds about public life: restlessness with a path that no longer fits, room for work you shape yourself. It predicts no career outcome."
 facts:
   - { k: "Body", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "House", v: "The 10th house, angular: work, public role, responsibility and reputation" }

@@ -2,7 +2,7 @@
 title: "Neptune de l’autre dans votre maison 1"
 slug: "neptune-en-maison-1-synastrie"
 h1: "Neptune de l’autre dans votre maison 1 en synastrie"
-description: "Neptune de l’autre dans votre maison 1 en synastrie : son imagination autour de votre visage et de vos premiers gestes, l’image de chacun, et l’âge qui compte."
+description: "Neptune de l’autre dans votre maison 1 en synastrie : son imagination autour de votre visage et de vos débuts, l’image de chaque côté, et l’âge qui compte."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

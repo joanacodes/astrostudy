@@ -1,7 +1,7 @@
 ---
 title: "Their Pluto in your 11th house"
 h1: "Their Pluto in your 11th house in synastry"
-description: "Their Pluto in your 11th house in synastry: their depth among your friends, groups and causes, circles that change, felt from both sides, no falling-out foretold."
+description: "Their Pluto in your 11th house in synastry: their depth among your friends, groups and causes, circles that change, both sides, no falling-out foretold."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -50,4 +50,4 @@ Let friendships breathe. Keep some friends who are only yours and some who are s
 
 Reading from their chart, you'd find your Pluto in their 11th house, your depth among their friends. [Their Pluto in your 10th house](/astrology/pluto-in-10th-house-synastry/) reaches your career and standing; [their Pluto in your 12th house](/astrology/pluto-in-12th-house-synastry/) goes into your inner life.
 
-This is where Pluto's generational nature shows most plainly. Its sign marks what a whole cohort sets out to transform, so if you're close in age, Pluto carries the same project in both your charts ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)); with a wide gap, two generations' causes meet in your circle, and each can learn what the other was fighting for. Pluto's degree can be read straight from their birth date. Your 11th, in Placidus, the house system I use, lies in the stretch of sky between your Midheaven and your Ascendant, which your birth time decides ([what changes without a birth time](/blog/unknown-birth-time/)). A friend's chart is still private, and I read it only with their agreement ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#instead)).
+This is where Pluto's generational nature shows most plainly. Its sign marks what a whole cohort sets out to transform, so if you're close in age, Pluto carries the same project in both your charts ([personal, social and generational planets](/astrology/personal-social-and-generational-planets/)); with a wide gap, two generations' causes meet in your circle, and each can learn what the other was fighting for. Pluto's degree can be read straight from their birth date, though their birth time is still needed for their houses, and so for the reading. Your 11th, in Placidus, the house system I use, lies in the stretch of sky between your Midheaven and your Ascendant, which your birth time decides ([what changes without a birth time](/blog/unknown-birth-time/)). A friend's chart is still private, and the reading waits for their consent ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#instead)).

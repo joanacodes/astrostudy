@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 126
 glyph: "⚷"
-definition: "Their Chiron in your 6th house lets the other person’s Chiron into your routines, daily tasks and working habits. In synastry what they learned about working within limits meets your ordinary week: they often help you pace yourself, while your way of working brushes an old sore spot of theirs. It never describes health."
+definition: "Their Chiron in your 6th house threads the other person’s Chiron through your routines, daily tasks and working habits. In synastry what they learned about working within limits meets your ordinary week: they often help you pace yourself, while your way of working brushes an old sore spot of theirs. It never describes health."
 facts:
   - { k: "Their body", v: "Their Chiron ⚷" }
   - { k: "Your house", v: "The 6th house: routines, tasks, the working day" }
@@ -50,4 +50,4 @@ Share routines rather than supervise them, and ask what help looks like before g
 
 Seen from the other side, you carry the Chiron and they the 6th house: your hard-won know-how then goes into their working day. [Their Chiron in your 5th house](/astrology/chiron-in-5th-house-synastry/) meets your play; [their Chiron in your 7th house](/astrology/chiron-in-7th-house-synastry/), the person across the table.
 
-In Placidus, the house system I use, your 6th ends at your Descendant, and your birth time sets where that line falls, so a Chiron close to it may belong to your 6th or your 7th. Their side is simpler: their date alone is enough, since Chiron barely shifts between one dawn and the next. A reading of the two charts begins once I have both times ([what changes without a birth time](/blog/unknown-birth-time/)). A colleague's chart is as personal as a partner's, and it's read only if they've agreed to it ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#what-i-ask)).
+In Placidus, the house system I use, your 6th ends at your Descendant, and your birth time sets where that line falls, so a Chiron close to it may belong to your 6th or your 7th. Their side is simpler: their date alone is enough, since a day's difference moves Chiron by almost nothing. A reading of the two charts begins once I have both times ([what changes without a birth time](/blog/unknown-birth-time/)). A colleague's chart is as personal as a partner's, and it's read only if they've agreed to it ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#what-i-ask)).

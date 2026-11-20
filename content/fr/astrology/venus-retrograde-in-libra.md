@@ -21,7 +21,7 @@ faq:
   - q: "Quand Vénus est-elle rétrograde en Balance ?"
     a: "La plus récente a eu lieu du 3 octobre au 14 novembre 2026 : station rétrograde à 8°29′ du Scorpion, recul jusqu’en Balance, station directe à 22°51′ de la Balance. La prochaine ira du 30 septembre au 11 novembre 2034, de 6°07′ du Scorpion à 20°27′ de la Balance. Chacune commence en Scorpion et finit en Balance."
   - q: "Que veut dire Vénus rétrograde en Balance ?"
-    a: "Vénus gouverne la Balance, le signe de l’équilibre et de l’échange : les astrologues lisent donc une rétrogradation dans ce signe comme Vénus qui revient sur ses propres affaires, l’échange est-il juste, l’harmonie est-elle réelle ou seulement entretenue. J’y lis la météo de quelques semaines, jamais un verdict sur une relation."
+    a: "Vénus gouverne la Balance, le signe de l’équilibre et de l’échange : les astrologues lisent donc une rétrogradation dans ce signe comme Vénus qui revient sur ses propres affaires, l’échange est-il juste, l’harmonie est-elle réelle ou seulement entretenue. Pour moi, ce sont quelques semaines de météo ; aucune relation ne tient ou ne tombe à cause d’elles."
   - q: "Pourquoi la rétrogradation de 2002 ne compte-t-elle pas en Balance ?"
     a: "Ma liste la range sous la Balance, mais ses deux stations tombent en Scorpion : Vénus a rebroussé chemin à 15°36′ du Scorpion le 10 octobre 2002 et repris sa marche directe à 0°03′ du Scorpion le 21 novembre, à trois minutes d’arc de la Balance. D’après ses stations, elle n’est jamais revenue en Balance."
   - q: "Quelle part de la rétrogradation tombe en Balance ?"

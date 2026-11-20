@@ -36,7 +36,7 @@ Montrer à quelqu’un une chanson écrite par vous, un premier dessin ou un cou
 
 Avec cette personne, vous osez peut-être davantage. Elle est en général douce avec les premiers essais, parce qu’elle sait ce que c’est que de mettre une part de soi en vitrine et d’attendre ; la chanson qui chante faux, la toile à moitié finie, le compliment maladroit reçoivent de l’intérêt plutôt qu’une note sur dix. Si vous avez cessé de jouer à un moment de votre vie, c’est peut-être elle qui vous y ramène.
 
-Pour elle, votre plaisir peut être émouvant et un peu douloureux. Vous voir savourer librement les choses réveille peut-être ce qu’elle a dû contourner autrefois : elle reste parfois au bord d’un jeu avant d’y entrer, puis s’y découvre plus libre avec vous qu’avec la plupart des gens. Succédente, la maison 5 fait grandir le plaisir. Son signe naturel est le [Lion](/astrology/leo/), et les anciens astrologues, qui la nommaient la Fortune favorable, plaçaient ici la joie de Vénus.
+Pour elle, votre plaisir peut être émouvant et un peu douloureux. Vous voir savourer librement les choses réveille peut-être ce qu’elle a dû contourner autrefois : elle reste parfois au bord d’un jeu avant d’y entrer, puis s’y découvre plus libre avec vous qu’avec la plupart des gens. Les maisons succédentes font grandir les choses, et dans la maison 5, ce qui grandit, c’est le plaisir. Son signe naturel est le [Lion](/astrology/leo/), et les anciens astrologues, qui la nommaient la Fortune favorable, plaçaient ici la joie de Vénus.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
@@ -44,7 +44,7 @@ L’encouragement peut devenir un programme. Le loisir reçoit un plan, le plan 
 
 De son côté, le jeu est l’endroit où elle peut se sentir le plus exposée : un jeu de société, un défi, une soirée bruyante peuvent appuyer sur ce qu’elle a contourné. Elle rit avec les autres, et se tait plus tard.
 
-Les enfants revenaient à la maison 5 dans la tradition ; cette superposition ne dit rien de la venue d’un enfant dans la vie de quiconque ([l’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et [le thème des enfants](/astrology/childrens-charts/) reste en dehors de mes lectures. Elle décrit le plaisir de deux adultes, pas une famille à venir.
+La maison 5 désignait autrefois aussi les enfants ; cette superposition ne dit rien de la venue d’un enfant dans la vie de quiconque ([l’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et [le thème des enfants](/astrology/childrens-charts/) reste en dehors de mes lectures. Elle décrit le plaisir de deux adultes, pas une famille à venir.
 
 ## Comment le vivre {#comment-le-vivre}
 

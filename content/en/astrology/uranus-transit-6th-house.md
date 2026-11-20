@@ -32,7 +32,7 @@ Uranus in your 6th house brings the planet of change to the most ordinary part o
 
 [Uranus](/astrology/uranus/) reforms systems: it looks at the way something is done and asks whether another arrangement would work better. The [6th house](/astrology/6th-house/) is the daily round, work as tasks rather than titles, routines, craft, the colleagues beside you and the care you give your days. Under Uranus, routines that once held you up can start to feel like rails. You may change the hours you keep, the tools you use, the way a team is organised, or the kind of daily work you're willing to do at all. In these years, the routines that last tend to be the ones you invent.
 
-Tradition named the 6th Bad Fortune and placed the joy of Mars there, a house of effort. Uranus brings effort a question, why this way?, and the answer can give you back hours every week. With Venus in your 6th from birth, the change can reach the pleasure you take in your work, or the people you share it with.
+Mars, the planet of effort, was said to rejoice in the 6th. Uranus brings effort a question, why this way?, and the answer can give you back hours every week. With Venus in your 6th from birth, the change can reach the pleasure you take in your work, or the people you share it with.
 
 Illness was the 6th's in the old books, and I don't read it in a transit: no chart can predict a health problem ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)), and any change to how you look after your body is a conversation for a doctor. What a [transit](/astrology/transits/) like this stirs is what your chart already holds about how you work and keep your days going.
 

@@ -19,7 +19,7 @@ related: ["/astrology/chiron", "/astrology/1st-house", "/astrology/house-overlay
 faq:
   - q: "Que change le Chiron de l’autre dans ma maison 1 à ma façon de paraître ?"
     a: "Sa vieille blessure, et le savoir-faire qu’elle lui a donné, se posent sur votre manière d’apparaître : votre allure, votre silhouette, vos premiers gestes. À ses côtés, votre manière de paraître vous pèse souvent moins, et votre présence touche en elle un point sensible. Cela décrit une rencontre, jamais une blessure infligée."
-  - q: "Une personne dont le Chiron est dans ma maison 1 va-t-elle me donner des complexes ?"
+  - q: "Son Chiron dans ma maison 1 risque-t-il de me donner des complexes ?"
     a: "Parfois, au début. Son attention va droit à votre façon de vous tenir, parce que c’est là qu’elle a dû s’adapter autrefois. Le plus souvent, cela devient de l’aisance : elle sait quelles remarques piquent et lesquelles aident. Si ses conseils sur votre allure ou votre voix deviennent trop nombreux, dites-le simplement."
   - q: "Pourquoi ai-je envie de coacher l’autre quand mon Chiron tombe dans sa maison 1 ?"
     a: "Souvent un choc de reconnaissance quand cette personne entre dans une pièce. Son allure appuie là où vous avez dû le plus travailler pour être à l’aise, et vous aimeriez lui épargner le même effort. La gentillesse, ici, consiste à la laisser telle qu’elle est, sans la coacher."
@@ -35,7 +35,7 @@ Certaines personnes remarquent votre façon de vous tenir avant tout le reste, e
 
 De votre côté, cela apporte souvent une aisance rare. Si une part de votre allure vous pèse depuis toujours, une taille qu’on remarque, une voix qui s’éteint en public, des joues qui rougissent trop vite, cette personne tend à le voir sans s’en formaliser, parce qu’elle a dû un jour faire la paix avec un point sensible bien à elle. Ses remarques sur votre manière de paraître sont en général justes et bienveillantes, et vous vous surprenez à redresser les épaules.
 
-Du sien, votre façon d’arriver peut toucher quelque chose de sensible. L’aplomb avec lequel vous commencez, ou la maladresse que vous ne cachez pas, lui rappelle peut-être ce qu’elle a dû contourner, et elle répond souvent en vous protégeant, comme pour vous épargner ce que l’adaptation lui a coûté. Angulaire, la maison 1 montre ce qui y tombe ; son signe naturel est le [Bélier](/astrology/aries/), le premier élan du zodiaque. Quand son Chiron se trouve à moins de 3° de votre [ascendant](/astrology/ascendant/), l’orbe que j’accorde à Chiron en synastrie, il touche aussi le degré d’où se lève votre thème, et je lis ce contact avec la maison.
+Du sien, votre façon d’arriver peut toucher quelque chose de sensible. L’aplomb avec lequel vous commencez, ou la maladresse que vous ne cachez pas, lui rappelle peut-être ce qu’elle a dû contourner, et elle répond souvent en vous protégeant, comme pour vous épargner ce que l’adaptation lui a coûté. Angulaire, la maison 1 montre ce qui y tombe ; son signe naturel est le [Bélier](/astrology/aries/), le premier élan du zodiaque. Quand son Chiron se trouve à moins de 3° de votre [ascendant](/astrology/ascendant/), l’orbe que j’accorde à Chiron en synastrie, il touche aussi le degré d’où se lève votre thème, un contact que je pèse autant que la maison elle-même.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

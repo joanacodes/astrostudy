@@ -21,9 +21,9 @@ faq:
   - q: "Quand Vénus a-t-elle été rétrograde en Vierge pour la dernière fois ?"
     a: "Du 25 juillet au 6 septembre 2015 : station rétrograde à 0°46′ de la Vierge, recul jusqu’en Lion, station directe à 14°23′ du Lion. La précédente, du 27 juillet au 8 septembre 2007, avait stationné à 2°57′ de la Vierge. Dans ma liste, aucune ne suit avant la fin de 2040."
   - q: "Que veut dire Vénus rétrograde en Vierge ?"
-    a: "La tradition place Vénus en chute en Vierge, où l’affection se montre par le soin, l’utilité et l’attention au détail. Les astrologues lisent une rétrogradation dans ce signe comme le réexamen de ces attentions et de ces exigences : ce que vous faites pour les personnes que vous aimez, et ce que vous attendez. J’y lis une météo, jamais un verdict sur une relation."
+    a: "La tradition place Vénus en chute en Vierge, où l’affection se montre par le soin, l’utilité et l’attention au détail. Les astrologues lisent une rétrogradation dans ce signe comme le réexamen de ces attentions et de ces exigences : ce que vous faites pour les personnes que vous aimez, et ce que vous attendez. J’y vois une saison d’attention, pas un jugement porté sur quiconque."
   - q: "Pourquoi les rétrogradations de Vénus ont-elles quitté la Vierge ?"
-    a: "Parce que chaque retour de la série d’été tombe environ 2° plus bas dans le zodiaque. Après des stations à 2°57′ de la Vierge en 2007 et à 0°46′ de la Vierge en 2015, Vénus a stationné à 28°36′ du Lion en 2023, et toutes les suivantes de cette série, dans ma liste, restent entièrement en Lion."
+    a: "La série d’été glisse d’environ 2° dans le zodiaque à chaque retour. Après des stations à 2°57′ de la Vierge en 2007 et à 0°46′ de la Vierge en 2015, Vénus a stationné à 28°36′ du Lion en 2023, et toutes les suivantes de cette série, dans ma liste, restent entièrement en Lion."
   - q: "Vénus rétrograde en Vierge, est-ce mauvais pour l’amour ?"
     a: "Pas à mes yeux. La tradition fait de la Vierge la chute de Vénus, mais cela décrit une façon d’aimer soigneuse et concrète, pas une façon d’aimer moindre. Une rétrogradation ajoute quelques semaines de réexamen, et un réexamen n’est pas un verdict : il ne décide en rien de l’issue d’une relation."
 sources:
@@ -59,6 +59,6 @@ Seule [votre heure de naissance](/blog/unknown-birth-time/) peut placer la Vierg
 
 ## Ce qui aide {#ce-qui-aide}
 
-Mercure gouverne la Vierge, et la maison qu’occupe Mercure dans votre thème natal montre où se fait le tri de ce que vous aimez. La Vénus de la Vierge améliore ce qu’elle aime.
+Mercure gouverne la Vierge : la maison où se trouve Mercure dans votre thème natal montre où vous triez et classez ce que vous aimez. La Vénus de la Vierge améliore ce qu’elle aime.
 
 Une rétrogradation dans ce signe, telle que je la lis, rappelle qu’on peut laisser certaines choses être aimées telles qu’elles sont, et ce rappel n’a pas besoin d’attendre une nouvelle rétrogradation pour être entendu.

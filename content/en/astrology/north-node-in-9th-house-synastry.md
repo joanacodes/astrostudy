@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 153
 glyph: "☊"
-definition: "Their North Node in your 9th house points the other person’s growth towards your beliefs, studies and long journeys, while their South Node sits across, in your 3rd. Near you, they try out a view of the world of their own; chatting about facts and errands with you, meanwhile, is effortless, and the place they retreat to."
+definition: "Their North Node in your 9th house points the other person’s growth towards your beliefs, studies and long journeys, leaving their South Node in your 3rd. Near you, they try out a view of the world of their own; chatting about facts and errands with you, meanwhile, is effortless, and the place they retreat to."
 facts:
   - { k: "Their body", v: "Their North Node ☊, mean and true" }
   - { k: "Your house", v: "The 9th house: beliefs, study, far horizons" }
@@ -36,15 +36,15 @@ Their North Node in your 9th house is a reach towards the horizon. The other per
 
 For you, they may ask what you believe and actually wait for the answer. They want to hear about the year you lived abroad, the book that rearranged your thinking, the course you've just signed up for. Explaining it to them, you may find out what you think.
 
-For them, trusting a bigger picture over endless detail is the stretch, and your horizons make it feel within reach. The 9th is cadent; its natural sign is [Sagittarius](/astrology/sagittarius/), Jupiter's sign, and tradition called the house the God, where the Sun rejoices. Late in your 9th, their North Node approaches your [Midheaven](/astrology/midheaven/) while their South Node approaches your IC, and what they believe starts to bear on what you're known for.
+For them, trusting a bigger picture over endless detail is the stretch, and your horizons make it feel within reach. The 9th's old name was the God, and tradition gave the Sun its joy there; the house is cadent, and its natural sign is [Sagittarius](/astrology/sagittarius/), Jupiter's. Late in your 9th, their North Node approaches your [Midheaven](/astrology/midheaven/) while their South Node approaches your IC, and what they believe starts to bear on what you're known for.
 
 ## Where it rubs {#where-it-rubs}
 
 Their [South Node](/astrology/south-node/) in [the 3rd house](/astrology/3rd-house/) makes everyday talk with you effortless for them: facts, logistics, news, jokes. When the conversation turns to what something means, they may slide back into trivia, quick answers or the next errand.
 
-From their side, your 9th can feel intimidating. Holding an opinion of their own next to someone who holds theirs with ease takes courage, and they may borrow your views before they find their own. You can end up as a guru you never asked to be.
+Your 9th, seen from their chair, can be intimidating. Holding an opinion of their own next to someone who holds theirs with ease takes courage, and they may borrow your views before they find their own. You can end up as a guru you never asked to be.
 
-Some read a North Node in the 9th as a spiritual mission shared by two people. I read a direction of learning, which either of you is free to take up or leave.
+Some astrologers read a North Node in the 9th as a spiritual mission shared by two people. I read a direction of learning, which either of you is free to take up or leave.
 
 ## How to meet it {#how-to-meet-it}
 
@@ -52,4 +52,4 @@ Ask them what they think before you tell them what you do. In a couple, plan a j
 
 From your chart's side, the same contact is your North Node in their 9th house, and their beliefs would stretch you. Next door, [their North Node in your 8th house](/astrology/north-node-in-8th-house-synastry/) learns trust, and [their North Node in your 10th house](/astrology/north-node-in-10th-house-synastry/) a public role.
 
-In Placidus, the house system I use, your 9th closes at your Midheaven, which crosses the whole zodiac in a day; your birth time places both ([what changes without a birth time](/blog/unknown-birth-time/)). Their node is far too slow for a few hours of their birth time to move it much: their birth date places it within its stay of about 18 months in a sign. Near your Midheaven, though, the mean node and the true node can fall on either side, one among your beliefs and one in your public life; I look at both. Beliefs are personal, so I read this only with both people's knowledge, and with their birth time as well as yours ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+In Placidus, the house system I use, your 9th closes at your Midheaven, which crosses the whole zodiac in a day; your birth time places both ([what changes without a birth time](/blog/unknown-birth-time/)). Their node is far too slow for a few hours of their birth time to move it much: their birth date places it within its stay of about 18 months in a sign. Near your Midheaven, though, the mean node and the true node can fall on either side, one among your beliefs and one in your public life; I look at both. What someone believes is theirs to bring to a reading, so this one waits until both of you know about it and both birth times are in hand ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

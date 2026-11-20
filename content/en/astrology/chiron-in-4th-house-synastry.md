@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 124
 glyph: "⚷"
-definition: "Their Chiron in your 4th house puts the other person’s Chiron at the root of your chart, in the house of home, family and belonging. In synastry their old hurt, and what it taught them about belonging, meets your private life: they often help a place feel safe, while your home life brushes a tender place of theirs."
+definition: "Their Chiron in your 4th house roots the other person’s Chiron at the base of your chart, in the house of home, family and belonging. In synastry their old hurt, and what it taught them about belonging, meets your private life: they often help a place feel safe, while your home life brushes a tender place of theirs."
 facts:
   - { k: "Their body", v: "Their Chiron ⚷" }
   - { k: "Your house", v: "The 4th house: home, roots, family" }

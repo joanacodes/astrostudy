@@ -26,13 +26,13 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "Uranus’s stays house by house, in Placidus charts cast for London and New York, and the signs it crosses from 2026" }
   - { title: "Vettius Valens, Anthology", note: "the twelve places of the chart, as the Hellenistic tradition read them" }
 ---
-Uranus crossing your 11th house is the planet of the future passing through the house of the future: friends, groups, networks and the hopes you share with them. Its stay usually runs just under seven years.
+Uranus crossing your 11th house is the planet of the future passing through the house of the future: friends, groups, networks and the hopes you share with them. Seven years, or a little under, is the usual length of the visit.
 
 ## What changes {#what-changes}
 
 [Uranus](/astrology/uranus/) innovates and differentiates: it wants each part of a network free to be itself while still belonging to the whole. The [11th house](/astrology/11th-house/) is that whole: friendship, community, the groups and causes you join, and the future you'd like to help build. Under Uranus, your circles tend to change. You may meet people who share where you're heading, drift from groups whose future no longer looks like yours, take up a cause, or find that you can belong somewhere without having to fit in.
 
-In the natural order the 11th is the house of Aquarius, which has two rulers, Uranus for modern astrologers and Saturn for the tradition ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). I read both, and here Uranus is crossing ground it knows. The old name for the house was the Good Spirit, and Jupiter had its joy there. With your Moon in the 11th from birth, the change can reach the people you feel at home with, not only the ones you spend time with. And because the 11th faces the 5th, the house of personal pleasure, Uranus here often redraws the line between what you do for yourself and what you'd rather build with others.
+Modern astrology gave Aquarius, the 11th's sign in the natural order, to Uranus; before Uranus was found it belonged to Saturn, and I still read both ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). So here Uranus is crossing ground it knows. The old name for the house was the Good Spirit, and Jupiter had its joy there. With your Moon in the 11th from birth, the change can reach the people you feel at home with, not only the ones you spend time with. And because the 11th faces the 5th, the house of personal pleasure, Uranus here often redraws the line between what you do for yourself and what you'd rather build with others.
 
 A [transit](/astrology/transits/) doesn't choose your friends. What this one brings out is how your chart already belongs among others, and the freedom you need inside the groups you keep.
 

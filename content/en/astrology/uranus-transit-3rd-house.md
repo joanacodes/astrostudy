@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 27
 glyph: "♅"
-definition: "Uranus transiting the 3rd house is the span, nearly eight years as a rule, when Uranus moves through the part of your chart that holds everyday thinking, talk and learning. It wakes up what the chart already says about your mind: ideas that arrive in jumps, habits of speech questioned, new ways of keeping in touch."
+definition: "Uranus transiting the 3rd house brings the planet of change into your everyday mind, as a rule for nearly eight years: how you think, talk, learn and keep in touch. It wakes up what the chart already says there: ideas that arrive in jumps, habits of speech questioned, new ways of keeping in touch."
 facts:
   - { k: "Body", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "House", v: "The 3rd house, cadent: thinking, talk, learning and the near world" }

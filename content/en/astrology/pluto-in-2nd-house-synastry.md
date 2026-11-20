@@ -23,7 +23,7 @@ faq:
   - q: "What draws the Pluto person to what I own and value?"
     a: "Often your steadiness, or the things you guard closely: they sense that your values run deep and want to understand them. They may also want a say in them. Clear lines about what is yours, and generosity about what you choose to share, keep the fascination healthy."
 sources:
-  - { title: "Vettius Valens, Anthology", note: "the 2nd, the house of livelihood" }
+  - { title: "Vettius Valens, Anthology", note: "the 2nd house and its old meanings" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Taurus, a sign of Venus" }
 ---
 Possessions, earnings, self-esteem: when their Pluto falls in your 2nd house, all three can come up for review. It's rarely a quiet audit: another person's depth reaches the house of your resources and asks what truly holds you up.
@@ -50,4 +50,4 @@ Keep money transparent and decisions shared. Agree who pays for what, keep some 
 
 From the other side, this is your Pluto in their 2nd house, your depth reaching their resources. [Their Pluto in your 1st house](/astrology/pluto-in-1st-house-synastry/) works on your manner; [their Pluto in your 3rd house](/astrology/pluto-in-3rd-house-synastry/), on your words and daily thinking.
 
-A generation's relationship to money and ownership is part of what a slow planet marks. Close in age, you share Pluto's sign, and if your own Pluto sits in your 2nd ([Pluto in the 2nd house](/astrology/pluto-in-2nd-house/)), this overlay echoes it; with a decade or two between you, two eras' ideas of security meet over your accounts. Their birth date places Pluto. Your birth time draws the cusps of your 2nd, whose size in Placidus, the house system I use, varies with the latitude you were born at ([what changes without a birth time](/blog/unknown-birth-time/)). Money is among the most private things two people share, so this reading waits until both of you agree ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#what-i-ask)).
+A generation's relationship to money and ownership is part of what a slow planet marks. Close in age, you share Pluto's sign, and if your own Pluto sits in your 2nd ([Pluto in the 2nd house](/astrology/pluto-in-2nd-house/)), this overlay echoes it; with a decade or two between you, two eras' ideas of security meet over your accounts. Their birth date places Pluto. Their houses are another matter: they need the hour, and so does my reading. Your birth time draws the cusps of your 2nd, whose size in Placidus, the house system I use, varies with the latitude you were born at ([what changes without a birth time](/blog/unknown-birth-time/)). Money is among the most private things two people share, so this reading waits until both of you agree ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#what-i-ask)).

@@ -24,7 +24,7 @@ faq:
     a: "Their Pluto, the planet of reorganisation, falls in your house of daily methods, so improving your systems can feel natural, even urgent, to them. Sometimes they’re right. You still decide, and saying which changes you welcome keeps it a collaboration rather than a takeover."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the 6th house and its old reputation" }
-  - { title: "Ptolemy, Tetrabiblos, book I", note: "Virgo, Mercury’s second sign" }
+  - { title: "Ptolemy, Tetrabiblos, book I", note: "Virgo, one of Mercury’s two signs" }
 ---
 Routines rarely survive unchanged when someone's Pluto falls in your 6th house. The way you work, the habits that hold your week together and the people at the next desk can all be reorganised, sometimes thoroughly, by another person's depth.
 
@@ -50,4 +50,4 @@ Change one habit at a time, and agree who decides what. In a couple, divide the 
 
 From their chart, this reads as your Pluto in their 6th house, your depth reorganising their days. [Their Pluto in your 5th house](/astrology/pluto-in-5th-house-synastry/) deepens pleasure and creative work; [their Pluto in your 7th house](/astrology/pluto-in-7th-house-synastry/) meets you as an equal, face to face.
 
-Every generation reinvents work in its own way, and Pluto's sign carries some of that. Close in age, you probably share this overlay's backdrop with your own Pluto ([Pluto in the 6th house](/astrology/pluto-in-6th-house/)); with years between you, two eras' ideas of how work should be done meet over one task list. The degree of their Pluto comes from the day they were born. Your birth time places your 6th, whose far edge in Placidus, the house system I use, is your Descendant ([what changes without a birth time](/blog/unknown-birth-time/#why-i-wait-for-the-time)). Working side by side gives no one a right to the other's chart: the reading waits for consent ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#what-i-ask)).
+Every generation reinvents work in its own way, and Pluto's sign carries some of that. Close in age, you probably share this overlay's backdrop with your own Pluto ([Pluto in the 6th house](/astrology/pluto-in-6th-house/)); with years between you, two eras' ideas of how work should be done meet over one task list. The degree of their Pluto comes from the day they were born, while the overlays running the other way, into their houses, need the hour too. Your birth time places your 6th, whose far edge in Placidus, the house system I use, is your Descendant ([what changes without a birth time](/blog/unknown-birth-time/#why-i-wait-for-the-time)). Working side by side gives no one a right to the other's chart: the reading waits for consent ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#what-i-ask)).

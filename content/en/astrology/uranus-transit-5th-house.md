@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 29
 glyph: "♅"
-definition: "Uranus transiting the 5th house is the run of years, nearly eight as a rule, when Uranus crosses your house of creativity, play and romance. What it shakes up is the delight your chart already holds: pleasures that change, art tried in a new form, love that asks for room. It foretells neither a child nor a lover."
+definition: "Uranus transiting the 5th house means nearly eight years, as a rule, of the planet of the unexpected in your house of creativity, play and romance. What it shakes up is the delight your chart already holds: pleasures that change, art tried in a new form, love that asks for room. It foretells neither a child nor a lover."
 facts:
   - { k: "Body", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "House", v: "The 5th house, succedent: creativity, pleasure, play and romance" }

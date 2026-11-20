@@ -2,7 +2,7 @@
 title: "Vénus rétrograde en Bélier"
 slug: "venus-retrograde-en-belier"
 h1: "Quand Vénus rétrograde en Bélier"
-description: "Vénus rétrograde en Bélier : six semaines, tous les huit ans, où Vénus recule dans le signe de Mars ; ses dates de 2000 à 2040, maison par maison, ce qui aide."
+description: "Vénus rétrograde en Bélier : six semaines tous les huit ans dans le signe de Mars, dès début mars, souvent finies en Poissons ; dates, maisons, ce qui aide."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/venus-retrograde", "/astrology/aries", "/astrology/venus-in-aries", "/astrology/stations", "/blog/retrograde-planets"]
 faq:
   - q: "Quand Vénus est-elle rétrograde en Bélier ?"
-    a: "La plus récente a eu lieu du 2 mars au 13 avril 2025 : station rétrograde à 10°50′ du Bélier, station directe à 24°37′ des Poissons. La prochaine ira du 27 février au 10 avril 2033, de 8°31′ du Bélier jusqu’à 22°21′ des Poissons. Entre les deux, Vénus ne recule pas du tout en Bélier."
+    a: "La dernière a duré du 2 mars au 13 avril 2025 : Vénus a stationné à 10°50′ du Bélier et repris sa marche directe à 24°37′ des Poissons. Puis viendra la période du 27 février au 10 avril 2033, de 8°31′ du Bélier jusqu’à 22°21′ des Poissons. Entre les deux, Vénus ne recule pas du tout en Bélier."
   - q: "Que veut dire Vénus rétrograde en Bélier ?"
     a: "La tradition met Vénus en exil en Bélier, face à sa propre Balance : la valeur s’y décide vite et franchement. Les astrologues lisent la rétrogradation comme le retour des attirances et des préférences nées dans la hâte, pour un nouvel examen. J’y lis le temps de quelques semaines, jamais un verdict sur une relation."
   - q: "Pourquoi Vénus rétrograde en Bélier finit-elle en Poissons ?"

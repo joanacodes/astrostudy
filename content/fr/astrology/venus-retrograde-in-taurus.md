@@ -21,7 +21,7 @@ faq:
   - q: "Quand Vénus est-elle rétrograde en Taureau ?"
     a: "Pas une seule fois entre 2000 et 2040, dans les dates que j’utilise. Ces années-là, Vénus recule en Bélier et en Poissons au début du printemps, en Gémeaux en mai et juin, en Lion et en Vierge, en Scorpion et en Balance, en Capricorne et en Verseau : le Taureau se trouve dans l’intervalle entre les deux premiers."
   - q: "Que voudrait dire Vénus rétrograde en Taureau ?"
-    a: "Vénus gouverne le Taureau : les astrologues y liraient les affaires mêmes de Vénus qui reviennent en arrière, ce que vous estimez, gardez et entretenez, repesé sans hâte. Je lis toute rétrogradation de Vénus comme le temps de quelques semaines, jamais comme un jugement sur une relation."
+    a: "Vénus gouverne le Taureau : les astrologues y liraient les affaires mêmes de Vénus qui reviennent en arrière, ce que vous estimez, gardez et entretenez, repesé sans hâte. À mes yeux, ces semaines décrivent une humeur, et aucune relation n’est jugée sur elles."
   - q: "Puis-je avoir Vénus rétrograde en Taureau dans mon thème natal ?"
     a: "Oui, si votre thème l’indique, mais pas avec une naissance entre 2000 et 2040, puisque aucune ne tombe dans ces années. Une Vénus rétrograde natale décrit une façon d’estimer qui prend son temps : je la lis comme un rythme à vous, jamais comme un défaut."
   - q: "Quelle rétrogradation de Vénus passe le plus près du Taureau ?"

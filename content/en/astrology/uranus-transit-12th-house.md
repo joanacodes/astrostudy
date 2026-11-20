@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 36
 glyph: "♅"
-definition: "Uranus transiting the 12th house is the run of years, about six in the middle, when Uranus crosses the house of the inner life on its way to your Ascendant. It loosens what your chart already holds out of sight: private habits, old patterns, ways of resting, with insight arriving in solitude. Illness and confinement are not what it describes."
+definition: "Uranus transiting the 12th house is the last stretch before Uranus reaches your Ascendant: about six years in the middle, spent in the house of the inner life. It loosens what your chart already holds out of sight: private habits, old patterns, ways of resting, with insight arriving in solitude. Illness and confinement are not what it describes."
 facts:
   - { k: "Body", v: "Uranus ♅, the planet of change and freedom" }
   - { k: "House", v: "The 12th house, cadent: solitude, rest, the inner life and what goes unseen" }
@@ -26,19 +26,19 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "Uranus’s stays house by house, in Placidus charts cast for London and New York, and the signs it crosses from 2026" }
   - { title: "Vettius Valens, Anthology", note: "the twelve places of the chart, as the Hellenistic tradition read them" }
 ---
-Before Uranus reaches your Ascendant it spends years in your 12th, where change happens out of sight: in habits nobody sees, in what you think about when you're alone, in patterns you carry without naming them. In the middle the stay lasts about six years; in a wide 12th, far longer.
+Before Uranus reaches your Ascendant it spends years in your 12th, where change happens out of sight: in habits nobody sees, in what you think about when you're alone, in patterns you carry without naming them. Six years is the middle; a wide 12th can hold Uranus far longer.
 
 ## What changes {#what-changes}
 
 [Uranus](/astrology/uranus/) releases: it frees a system from constraints it no longer needs. The [12th house](/astrology/12th-house/) is the inner life, solitude, retreat and rest, reflection and compassion, the work done unseen and the parts of yourself you're still getting to know. With Uranus here, private patterns tend to come loose. An old habit of keeping yourself small can lose its grip, a way of resting that no longer restores you can change, and insight can arrive suddenly, often when you're on your own. Much of this is invisible from outside, and none of it needs an audience.
 
-Tradition called the 12th the Bad Spirit and gave Saturn its joy there. Its natural sign is Pisces, ruled by Neptune in modern astrology and by Jupiter in the tradition, and I read both. With Mercury in your 12th from birth, the pass can bring ideas that arrive in the quiet: keep something to write on near where you rest.
+Pisces, the sign the natural zodiac pairs with the 12th, answers to Neptune in modern charts and to Jupiter in older ones, and I keep both in view. With Mercury in your 12th from birth, the pass can bring ideas that arrive in the quiet: keep something to write on near where you rest.
 
 The old books also gave this house confinement and hidden enemies. I read neither in a transit, and nothing here is a diagnosis ([astrology and mental health](/astrology/astrology-and-mental-health/)): what rises from outside awareness isn't a symptom. A [transit](/astrology/transits/) brings out what your chart already holds about the inner life and gives it room to change; if what surfaces feels heavy, a qualified person is the right help, not a chart.
 
 ## How long it lasts {#how-long-it-lasts}
 
-In Placidus charts drawn for London, Uranus usually spends about six years in the 12th, the same short middle as the 1st and well under the all-house figure there, yet the long end reaches about fourteen years, the furthest of any house at that latitude, because a London-born 12th ranges from slim to very broad. For a New York birth the middle is nearly seven years and the long end about twelve.
+In Placidus charts drawn for London, Uranus usually spends about six years in the 12th, the same short middle as the 1st and well under the all-house figure there, yet the long end reaches about fourteen years, the furthest of any house at that latitude, because a London-born 12th ranges from slim to very broad. At New York's more southerly latitude the figures tighten to nearly seven years in the middle, with about twelve as the long end.
 
 The stay counts from Uranus's first crossing of your 12th cusp, retrograde returns included, to the day it reaches your Ascendant and the 1st begins. That last degree, the one rising when you were born, needs the minute of birth, and so does everything else in this section; I don't read a chart without it ([what changes without a birth time](/blog/unknown-birth-time/)). The years before were spent among friends and groups in your 11th ([Uranus transiting the 11th house](/astrology/uranus-transit-11th-house/)); what's freed here goes on into the 1st, where Uranus crosses your Ascendant and the change becomes visible ([Uranus transiting the 1st house](/astrology/uranus-transit-1st-house/)).
 

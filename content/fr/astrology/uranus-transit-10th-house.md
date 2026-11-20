@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 34
 glyph: "♅"
-definition: "Uranus en transit en maison 10 décrit les quelque huit ans qu’Uranus passe, en général, entre votre Milieu du Ciel et la fin de votre maison du travail et de la réputation. Ce transit réveille ce que votre thème dit de la vie publique : un chemin qui ne va plus, de la place pour un travail à votre façon."
+definition: "Uranus en transit en maison 10 commence au sommet de votre thème : une fois votre Milieu du Ciel franchi, Uranus passe près de huit ans, en général, dans votre maison du travail et de la réputation. Ce transit réveille ce que votre thème dit de la vie publique : un chemin qui ne va plus, un travail à votre façon."
 facts:
   - { k: "Corps", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Maison", v: "La maison 10, angulaire : le travail, le rôle public, les responsabilités et la réputation" }

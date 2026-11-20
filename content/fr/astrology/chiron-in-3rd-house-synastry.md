@@ -17,7 +17,7 @@ facts:
   - { k: "Il faut", v: "Votre heure de naissance ; sa date fixe son Chiron" }
 related: ["/astrology/chiron", "/astrology/3rd-house", "/astrology/house-overlays", "/astrology/gemini", "/astrology/chiron-in-3rd-house"]
 faq:
-  - q: "Pourquoi est-ce que je parle plus facilement avec une personne dont le Chiron est dans ma maison 3 ?"
+  - q: "Pourquoi les mots viennent-ils plus facilement quand son Chiron est dans ma maison 3 ?"
     a: "Parce que sa propre expérience de l’adaptation en fait souvent quelqu’un qui écoute avec patience et explique avec soin. Dans vos échanges, vos messages et vos apprentissages, elle vous laisse rarement à la traîne, et vous aide parfois à retrouver une entrée dans un sujet abandonné. Vos mots peuvent aussi effleurer son vieux point sensible : le tact vaut dans les deux sens."
   - q: "Le Chiron de l’autre dans ma maison 3 crée-t-il des malentendus ?"
     a: "Il peut les faire paraître plus grands. Un mot lancé au hasard ou un message sec peut tomber sur quelque chose de tendre chez cette personne, et ses corrections peuvent vous sembler condescendantes. Demander ce qui voulait être dit, avant de réagir, suffit souvent. La superposition décrit une sensibilité dans les échanges, pas une dispute écrite d’avance."

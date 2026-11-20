@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 127
 glyph: "⚷"
-definition: "Their Chiron in your 7th house is the other person’s Chiron in the house of whoever faces you: partners, close collaborators, one-to-one bonds. In synastry their old hurt, and what it taught them about closeness, enters the partnership itself: they listen unusually well, and being your equal brushes a sore spot."
+definition: "Their Chiron in your 7th house happens when the other person’s Chiron falls in the house of whoever faces you: partners, close collaborators, one-to-one bonds. In synastry their old hurt, and what it taught them about closeness, enters the partnership itself: they listen unusually well, and being your equal brushes a sore spot."
 facts:
   - { k: "Their body", v: "Their Chiron ⚷" }
   - { k: "Your house", v: "The 7th house: partners and one-to-one bonds" }
@@ -20,7 +20,7 @@ faq:
     a: "Not because of the overlay. Their Chiron describes an old hurt they already carry and what it taught them; in your 7th, it shows that one-to-one bonds are where it comes into play between you. That often makes them a careful, attentive partner or collaborator. How anyone treats anyone is a matter of choices, not of a chart."
   - q: "Why do I feel so heard by someone whose Chiron falls in my 7th house?"
     a: "People who have had to adapt in their own close bonds often learn to listen unusually well, one to one. With their Chiron in the house of the person facing you, that skill is aimed straight at you. Enjoy it, and make sure the listening runs both ways."
-  - q: "Why do I slip into rescuing them when my Chiron is in their 7th house?"
+  - q: "What makes me want to rescue them, with my Chiron in their 7th house?"
     a: "Their way of being a partner presses on your old sore spot, and helping can feel safer than standing as equals. But support offered as rescue puts one person above the other. Ask what they need, say what you need, and keep the footing level."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the 7th house, partners and open rivals" }

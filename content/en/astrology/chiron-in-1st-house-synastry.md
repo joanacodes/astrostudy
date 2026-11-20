@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 121
 glyph: "⚷"
-definition: "Their Chiron in your 1st house means the other person’s Chiron falls in the house of your manner, body and first moves. In synastry their old hurt, and what it taught them, meets the way you show up: they often put you at ease about how you come across, while your presence brushes a sore spot of theirs."
+definition: "In synastry, their Chiron in your 1st house describes the other person’s Chiron lying in the house of your manner, body and first moves. Their old hurt, and what it taught them, meets the way you show up: they often put you at ease about how you come across, while your presence brushes a sore spot of theirs."
 facts:
   - { k: "Their body", v: "Their Chiron ⚷" }
   - { k: "Your house", v: "The 1st house: your manner, body and first moves" }
@@ -34,7 +34,7 @@ Some people notice how you hold yourself before anything else, and seem to know 
 
 For you, this can bring an unusual ease. If you've always felt slightly wrong in your own skin, too tall, too quiet, too quick to blush, they tend to notice and not mind, because they once had to make peace with something of their own. Their remarks on how you come across are usually precise and kind, and you may find yourself standing a little straighter.
 
-For them, your way of arriving can touch something tender. The nerve with which you begin things, or the awkwardness you haven't bothered to hide, may recall what they had to work around, and they often respond by protecting you, as if they could spare you what the adapting cost them. The 1st is angular, so what lands here shows; its natural sign is [Aries](/astrology/aries/), the first move of the zodiac. When their Chiron lies within 3° of your [Ascendant](/astrology/ascendant/), the orb I give Chiron in synastry, it also touches the degree your chart rises from, and I read that contact along with the house.
+For them, your way of arriving can touch something tender. The nerve with which you begin things, or the awkwardness you haven't bothered to hide, may recall what they had to work around, and they often respond by protecting you, as if they could spare you what the adapting cost them. The 1st is angular, so what lands here shows; its natural sign is [Aries](/astrology/aries/), the first move of the zodiac. When their Chiron lies within 3° of your [Ascendant](/astrology/ascendant/), the orb I give Chiron in synastry, it also touches the degree your chart rises from, a contact I weigh as heavily as the house itself.
 
 ## Where it rubs {#where-it-rubs}
 

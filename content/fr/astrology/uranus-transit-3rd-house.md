@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 27
 glyph: "♅"
-definition: "Uranus en transit en maison 3, c’est la période, près de huit ans en général, où Uranus traverse la part de votre thème qui tient la pensée de tous les jours, la parole et l’apprentissage. Ce transit réveille ce que le thème dit déjà de votre esprit : des idées qui arrivent par bonds, des habitudes de langage remises en cause."
+definition: "Uranus en transit en maison 3 amène la planète du changement dans votre esprit de tous les jours, en général pendant près de huit ans : votre façon de penser, de parler, d’apprendre et de garder le contact. Ce transit réveille ce que le thème en dit déjà : des idées qui arrivent par bonds, des habitudes de langage remises en cause."
 facts:
   - { k: "Corps", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Maison", v: "La maison 3, cadente : la pensée, la parole, l’apprentissage et le monde proche" }

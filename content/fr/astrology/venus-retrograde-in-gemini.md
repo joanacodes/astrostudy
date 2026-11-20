@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 15
 glyph: "♀℞♊"
-definition: "Vénus rétrograde en Gémeaux, ce sont les six semaines environ, de mi-mai à fin juin, tous les huit ans, où Vénus semble, depuis la Terre, reculer dans les Gémeaux sans en sortir. J’y lis les attirances et les goûts venus par les mots et la variété, comparés et triés de nouveau, dans la maison qu’occupent les Gémeaux dans votre thème."
+definition: "Vénus rétrograde en Gémeaux revient tous les huit ans, de mi-mai à fin juin : pendant six semaines environ, Vénus semble, vue de la Terre, reculer dans les Gémeaux, sans jamais en sortir. J’y lis les attirances et les goûts venus par les mots et la variété, comparés et triés de nouveau, dans la maison qu’occupent les Gémeaux dans votre thème."
 facts:
   - { k: "Planète", v: "Vénus ♀" }
   - { k: "Signe", v: "Gémeaux ♊, air mutable, gouvernés par Mercure" }
@@ -21,7 +21,7 @@ faq:
   - q: "Quand Vénus est-elle rétrograde en Gémeaux ?"
     a: "La prochaine ira du 10 mai au 22 juin 2028, de 19°41′ à 3°10′ des Gémeaux, et la suivante du 8 mai au 20 juin 2036. La plus récente a eu lieu du 13 mai au 25 juin 2020. Chacune reste tout entière dans les Gémeaux, d’une station à l’autre."
   - q: "Que veut dire Vénus rétrograde en Gémeaux ?"
-    a: "Les Gémeaux comparent, relient et suivent plusieurs fils à la fois : les astrologues lisent donc Vénus rétrograde dans ce signe comme un réexamen de ce qui vous attire, et pourquoi. La conversation qui vous a plu, les options gardées ouvertes, les goûts ramassés en chemin. J’y lis une météo, jamais un verdict sur une relation."
+    a: "Les Gémeaux comparent, relient et suivent plusieurs fils à la fois : les astrologues lisent donc Vénus rétrograde dans ce signe comme un réexamen de ce qui vous attire, et pourquoi. La conversation qui vous a plu, les options gardées ouvertes, les goûts ramassés en chemin. C’est une météo dans ma lecture : elle ne dit rien de l’avenir d’une relation."
   - q: "Pourquoi Vénus reste-t-elle dans les Gémeaux quand elle y recule ?"
     a: "Parce que ses points de retournement tombent bien à l’intérieur du signe : dans ma liste, la station rétrograde se situe entre 26°08′ et 17°31′ des Gémeaux, la station directe entre 9°37′ et 1°01′. Chaque retour est environ 2° plus bas : en 2036, la station directe n’est plus qu’à un degré du Taureau."
   - q: "Vénus rétrograde en Gémeaux dure-t-elle plus longtemps qu’ailleurs ?"
@@ -59,6 +59,6 @@ Votre [heure de naissance](/blog/unknown-birth-time/) décide de la maison qu’
 
 ## Ce qui aide {#ce-qui-aide}
 
-Mercure gouverne les Gémeaux, et la maison qu’occupe Mercure dans votre thème natal montre où se font les comparaisons. Dans ces semaines, telles que je les lis, parler aide plus que trancher : dites à voix haute ce qui vous plaît, à quelqu’un ou sur le papier, et écoutez comment cela sonne.
+La maison où se trouve Mercure dans votre thème natal, puisque Mercure gouverne les Gémeaux, est celle où se font d’ordinaire les comparaisons. Dans ces semaines, telles que je les lis, parler aide plus que trancher : dites à voix haute ce qui vous plaît, à quelqu’un ou sur le papier, et écoutez comment cela sonne.
 
 Rien dans le ciel ne fixe d’échéance à un choix du cœur. Le don des Gémeaux est de voir plus d’un côté, et une rétrogradation dans ce signe vous laisse simplement le temps de regarder chacun.

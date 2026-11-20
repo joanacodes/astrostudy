@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 128
 glyph: "⚷"
-definition: "Chiron de l’autre dans votre maison 8 est une superposition où son Chiron occupe votre maison de l’intimité, de la confiance et du partage. En synastrie, sa vieille blessure et la stabilité qu’elle lui a apprise rencontrent votre proximité : cette personne reste calme devant vos vérités difficiles, et la confiance lui coûte. Rien n’y annonce de perte."
+definition: "Chiron de l’autre dans votre maison 8 indique que son Chiron occupe votre maison de l’intimité, de la confiance et du partage. En synastrie, sa vieille blessure et la stabilité qu’elle lui a apprise rencontrent votre proximité : cette personne reste calme devant vos vérités difficiles, et la confiance lui coûte. Rien n’y annonce de perte."
 facts:
   - { k: "Corps de l’autre", v: "Le Chiron de l’autre ⚷" }
   - { k: "Votre maison", v: "La maison 8 : l’intimité, la confiance, ce qui est partagé" }

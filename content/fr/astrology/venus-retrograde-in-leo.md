@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 17
 glyph: "♀℞♌"
-definition: "Vénus rétrograde en Lion, ce sont les six semaines environ, de fin juillet à début septembre tous les huit ans, où Vénus semble, depuis la Terre, reculer dans le Lion. J’y lis la chaleur et la générosité tournées un temps vers l’intérieur : votre façon d’aimer et votre fierté, dans la maison qu’occupe le Lion dans votre thème."
+definition: "Vénus rétrograde en Lion, c’est le rendez-vous d’été que Vénus fixe tous les huit ans : vue de la Terre, elle semble reculer dans le Lion six semaines environ, de fin juillet à début septembre. J’y lis la chaleur et la générosité tournées vers l’intérieur, votre façon d’aimer et votre fierté, dans la maison qu’occupe le Lion dans votre thème."
 facts:
   - { k: "Planète", v: "Vénus ♀" }
   - { k: "Signe", v: "Lion ♌, feu fixe, gouverné par le Soleil" }
@@ -19,9 +19,9 @@ facts:
 related: ["/astrology/venus-retrograde", "/astrology/leo", "/astrology/venus-in-leo", "/astrology/sun", "/blog/retrograde-planets"]
 faq:
   - q: "Quand Vénus est-elle rétrograde en Lion ?"
-    a: "La plus récente a eu lieu du 23 juillet au 4 septembre 2023, de 28°36′ à 12°12′ du Lion. La prochaine ira du 20 juillet au 1er septembre 2031, de 26°25′ à 10°01′ du Lion, et la suivante du 18 juillet au 30 août 2039. Toutes trois restent entièrement dans le Lion."
+    a: "Vénus a rebroussé chemin en Lion pour la dernière fois le 23 juillet 2023, à 28°36′, et repris sa marche directe à 12°12′ le 4 septembre. La prochaine ira du 20 juillet au 1er septembre 2031, de 26°25′ à 10°01′ du Lion, et la suivante du 18 juillet au 30 août 2039. Toutes trois restent entièrement dans le Lion."
   - q: "Que veut dire Vénus rétrograde en Lion ?"
-    a: "Le Lion exprime et veut être vu : les astrologues lisent donc Vénus rétrograde dans ce signe comme un réexamen de votre façon de montrer l’affection et de ce que vous aimez qu’on admire chez vous : les gestes, la fierté de créer, la générosité. J’y lis la météo de six semaines, jamais une prédiction amoureuse ni un verdict sur une relation."
+    a: "Le Lion exprime et veut être vu : les astrologues lisent donc Vénus rétrograde dans ce signe comme un réexamen de votre façon de montrer l’affection et de ce que vous aimez qu’on admire chez vous : les gestes, la fierté de créer, la générosité. Six semaines de météo, telles que je les lis, sans aucune prédiction sur la vie amoureuse de quiconque."
   - q: "Pourquoi les rétrogradations de 2007 et 2015 ont-elles commencé en Vierge ?"
     a: "Parce que chaque retour de cette série tombe environ 2° plus bas dans le zodiaque. En 2007, la station rétrograde était à 2°57′ de la Vierge, en 2015 à 0°46′ de la Vierge, avant le recul jusqu’en Lion ; en 2023, elle avait glissé à 28°36′ du Lion, et toute la rétrogradation tombe désormais dans le Lion."
   - q: "Combien de temps dure Vénus rétrograde en Lion ?"

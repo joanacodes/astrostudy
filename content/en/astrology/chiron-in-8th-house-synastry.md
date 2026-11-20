@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 128
 glyph: "⚷"
-definition: "Their Chiron in your 8th house is an overlay in which the other person’s Chiron occupies your house of intimacy, trust, shared money and debts. In synastry their old hurt, and the steadiness it taught them, meets your closeness: they stay calm with your hard truths, while trust costs them. It never foretells loss."
+definition: "Their Chiron in your 8th house signals that the other person’s Chiron occupies your house of intimacy, trust, shared money and debts. In synastry their old hurt, and the steadiness it taught them, meets your closeness: they stay calm with your hard truths, while trust costs them. It never foretells loss."
 facts:
   - { k: "Their body", v: "Their Chiron ⚷" }
   - { k: "Your house", v: "The 8th house: intimacy, trust, what is shared" }

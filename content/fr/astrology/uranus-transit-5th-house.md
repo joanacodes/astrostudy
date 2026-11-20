@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 29
 glyph: "♅"
-definition: "Uranus en transit en maison 5, ce sont les années, près de huit en général, où Uranus traverse votre maison de la créativité, du jeu et des amours. Ce transit secoue le plaisir que votre thème contient déjà : des goûts qui changent, un art essayé autrement, un amour qui demande de l’air, sans annoncer d’enfant ni de nouvel amour."
+definition: "Uranus en transit en maison 5 veut dire près de huit ans, en général, de la planète de l’inattendu dans votre maison de la créativité, du jeu et des amours. Ce transit secoue le plaisir que votre thème contient déjà : des goûts qui changent, un art essayé autrement, un amour qui demande de l’air, sans annoncer d’enfant ni d’amour."
 facts:
   - { k: "Corps", v: "Uranus ♅, la planète du changement et de la liberté" }
   - { k: "Maison", v: "La maison 5, succédente : la créativité, le plaisir, le jeu et les amours" }

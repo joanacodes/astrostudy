@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 22
 glyph: "♀℞♑"
-definition: "Vénus rétrograde en Capricorne, ce sont les six semaines environ, de mi-décembre à fin janvier tous les huit ans, où Vénus semble, depuis la Terre, reculer dans le Capricorne, à cheval sur le Nouvel An. J’y lis les engagements et ce que vous avez bâti avec d’autres, réévalués, dans la maison qu’occupe le Capricorne dans votre thème."
+definition: "Vénus rétrograde en Capricorne arrive tous les huit ans à la mi-décembre et dure jusqu’à fin janvier : six semaines environ où Vénus semble, vue de la Terre, reculer dans le Capricorne, à cheval sur le Nouvel An. Ma lecture : les engagements, et ce que vous avez bâti avec d’autres, repesés là où se trouve le Capricorne dans votre thème."
 facts:
   - { k: "Planète", v: "Vénus ♀" }
   - { k: "Signe", v: "Capricorne ♑, terre cardinale, gouverné par Saturne" }
@@ -19,9 +19,9 @@ facts:
 related: ["/astrology/venus-retrograde", "/astrology/capricorn", "/astrology/venus-in-capricorn", "/astrology/saturn", "/blog/retrograde-planets"]
 faq:
   - q: "Quand Vénus est-elle rétrograde en Capricorne ?"
-    a: "La plus récente a eu lieu du 19 décembre 2021 au 29 janvier 2022, de 26°29′ à 11°04′ du Capricorne. La prochaine ira du 16 décembre 2029 au 26 janvier 2030, de 24°01′ à 8°37′, et la suivante du 14 décembre 2037 au 24 janvier 2038. Toutes trois restent entièrement en Capricorne."
+    a: "Sa dernière période a duré du 19 décembre 2021 au 29 janvier 2022, avec des stations à 26°29′ et 11°04′ du Capricorne. La prochaine ira du 16 décembre 2029 au 26 janvier 2030, de 24°01′ à 8°37′, et la suivante du 14 décembre 2037 au 24 janvier 2038. Aucune des trois ne quitte le signe."
   - q: "Que veut dire Vénus rétrograde en Capricorne ?"
-    a: "Le Capricorne bâtit pour durer : les astrologues lisent donc Vénus rétrograde dans ce signe comme un réexamen de ce que vous estimez dans l’engagement, la fiabilité et l’effort au long cours, des liens dans lesquels vous avez investi, et de ce qu’ils vous rendent. J’y lis une météo, jamais un verdict sur une relation."
+    a: "Le Capricorne bâtit pour durer : les astrologues lisent donc Vénus rétrograde dans ce signe comme un réexamen de ce que vous estimez dans l’engagement, la fiabilité et l’effort au long cours, des liens dans lesquels vous avez investi, et de ce qu’ils vous rendent. Je lis ces semaines comme une météo : elles ne décident pas de la durée d’un lien."
   - q: "Pourquoi Vénus rétrograde en Capricorne chevauche-t-elle le Nouvel An ?"
     a: "Parce que cette série rebrousse chemin dans la seconde moitié de décembre et reprend sa marche directe fin janvier ou début février : le 24 décembre 2005, le 21 décembre 2013, le 19 décembre 2021, le 16 décembre 2029 et le 14 décembre 2037 dans ma liste, chaque retour deux ou trois jours plus tôt que le précédent."
   - q: "Est-ce la plus courte des rétrogradations de Vénus ?"

@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 152
 glyph: "☊"
-definition: "Their North Node in your 8th house takes the other person’s direction of growth into your house of intimacy, trust and shared resources, and sets their South Node in your 2nd. Trust is what they practise with you, and holding on to what is theirs is the reflex they know best. It never forecasts a loss."
+definition: "Their North Node in your 8th house is an overlay of trust: the other person’s growth reaches into your intimacy and shared resources, while their South Node sits in your 2nd. Trust is what they practise with you, and holding on to what is theirs is the reflex they know best. It never forecasts a loss."
 facts:
   - { k: "Their body", v: "Their North Node ☊, mean and true" }
   - { k: "Your house", v: "The 8th house: intimacy, trust, what is shared" }
@@ -36,11 +36,11 @@ Trust is the subject here, and it runs more easily one way than the other. The o
 
 For you, they may approach closeness with a care that looks like hesitation: asking before they offer, offering before they're sure. When they do open up, you may feel the size of the step. Your own habits of trust, how you pool, confide and forgive, get looked at closely.
 
-For them, letting things change, letting someone else hold part of what's theirs, is the unfamiliar end, and with you it starts to seem bearable. The 8th is succedent, and its natural sign, [Scorpio](/astrology/scorpio/), has two rulers, Pluto in modern tropical astrology and Mars in tradition; I read both, the depth and the nerve it takes to stay close.
+For them, letting things change, letting someone else hold part of what's theirs, is the unfamiliar end, and with you it starts to seem bearable. Succedent, the 8th has [Scorpio](/astrology/scorpio/) as its natural sign, a sign with two rulers: Pluto for modern tropical astrology, Mars for the tradition. I read both, and here both describe the courage closeness asks for.
 
 ## Where it rubs {#where-it-rubs}
 
-Their [South Node](/astrology/south-node/) in [the 2nd house](/astrology/2nd-house/) makes your belongings and values their familiar ground. They may be practical, even possessive, about your money and your things, comfortable counting and keeping, uneasy with anything held jointly. "Mine" and "yours" can come back into the conversation just when you thought you'd reached "ours".
+What's simply yours, your money, your things, your values, is where their [South Node](/astrology/south-node/) feels at home, in [the 2nd house](/astrology/2nd-house/). They may be practical, even possessive, about what you own, comfortable counting and keeping, uneasy with anything held jointly. "Mine" and "yours" can come back into the conversation just when you thought you'd reached "ours".
 
 From their side, intimacy with you can feel like walking into deep water. They may pull back to what they can hold, and that pulling back is habit, not rejection.
 
@@ -50,6 +50,6 @@ The 8th was given death and inheritance in tradition. Their node there says noth
 
 Let trust grow in steps you can both see. In a couple, let them set the pace of closeness and tell you when it changes; between friends, a confidence kept is worth more than one demanded; between business partners, write down what's pooled and what isn't; between adult relatives, talk about what's held in common before anyone has to decide for anyone else.
 
-From the other side, you'd be reading your North Node in their 8th house, with their trust as your stretch. [Their North Node in your 7th house](/astrology/north-node-in-7th-house-synastry/) is partnership face to face; [their North Node in your 9th house](/astrology/north-node-in-9th-house-synastry/) is the search for meaning.
+From the other side, you'd be reading your North Node in their 8th house, with their trust as your stretch. One house back, [their North Node in your 7th house](/astrology/north-node-in-7th-house-synastry/) learns to share decisions; one house on, [their North Node in your 9th house](/astrology/north-node-in-9th-house-synastry/) learns to hold beliefs of their own.
 
-Placidus, the house system I use, makes some houses far wider than others, and your 8th can be either, so only your birth time shows how much room your shared life takes up ([what changes without a birth time](/blog/unknown-birth-time/)). Their birth date places their node, which needs about a year and a half to cross a sign. Near the cusp your 8th shares with your 7th, the mean node and the true node can split between partnership and intimacy, with the South Node between your 1st and 2nd; I look at both. A reading about trust starts with the other person's trust in it, which means both of you know and both of you have given a birth time ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#a-chart-is-personal)).
+Placidus, the house system I use, makes some houses far wider than others, and your 8th can be either, so only your birth time shows how much room your shared life takes up ([what changes without a birth time](/blog/unknown-birth-time/)). Their node, slow enough to spend about a year and a half in each sign, is placed by their birth date alone; what it meets in you, how wide and how deep your 8th runs, is the clock's business. Near the cusp your 8th shares with your 7th, the mean node and the true node can split between partnership and intimacy, with the South Node between your 1st and 2nd; I look at both. A reading about trust starts with the other person's trust in it, which means both of you know and both of you have given a birth time ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#a-chart-is-personal)).
