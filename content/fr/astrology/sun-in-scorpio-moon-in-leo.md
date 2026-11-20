@@ -2,7 +2,7 @@
 title: "Soleil en Scorpion, Lune en Lion"
 slug: "soleil-en-scorpion-lune-en-lion"
 h1: "Soleil en Scorpion, Lune en Lion dans un thème natal"
-description: "Soleil en Scorpion, Lune en Lion : deux signes fixes en carré, la Lune dans le signe du Soleil, au dernier quartier. Un moi secret, un cœur qui veut être vu."
+description: "Soleil en Scorpion, Lune en Lion : deux signes fixes en carré, la Lune chez le Soleil, au dernier quartier. Un moi secret, un cœur qui veut être vu."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -37,7 +37,7 @@ Le Scorpion est eau fixe et le Lion feu fixe, trois signes en arrière : un [ca
 
 Le signe de votre Lune appartient au [Soleil](/astrology/sun/) : elle suit votre Soleil où qu’il aille, et le signe de ce Soleil répond à deux planètes que je lis pour chaque Scorpion, [Mars](/astrology/mars/), maîtrise traditionnelle, et [Pluton](/astrology/pluto/), maîtrise moderne. Suivez la chaîne : vos deux luminaires finissent entre leurs mains. La place de Mars montre comment vous agissez pour ce que vous aimez ; celle de Pluton, où ce que vous aimez vous transforme. La tradition n’accorde aucune dignité à la Lune en Lion, ni au Soleil en Scorpion.
 
-Comptée depuis le Soleil, la Lune se trouvait 241° à 299° plus loin dans le zodiaque, dans un mois lunaire de 20 à 24 jours et demi, décroissante, près de son dernier quartier ou un peu au-delà. La [lune gibbeuse décroissante (disséminante)](/astrology/waning-gibbous-disseminating-moon/) prend la moitié de ces naissances et le [dernier quartier](/astrology/last-quarter-moon/) l’autre, et le carré de signes se resserre en un [Soleil carré Lune](/astrology/sun-square-moon/) décroissant exact à 270°. Le carré décroissant tourne plutôt la poussée vers l’intérieur : vous retravaillez votre propre position avant de demander aux autres de bouger, et avec une Lune en Lion, cette position touche presque toujours à la fierté.
+Comptée depuis le Soleil, la Lune se trouvait 241° à 299° plus loin dans le zodiaque, 20 jours à 24 jours et demi après la nouvelle lune, décroissante, près de son dernier quartier ou un peu au-delà. La [lune gibbeuse décroissante (disséminante)](/astrology/waning-gibbous-disseminating-moon/) prend la moitié de ces naissances et le [dernier quartier](/astrology/last-quarter-moon/) l’autre, et le carré de signes se resserre en un [Soleil carré Lune](/astrology/sun-square-moon/) décroissant exact à 270°. Le carré décroissant tourne plutôt la poussée vers l’intérieur : vous retravaillez votre propre position avant de demander aux autres de bouger, et avec une Lune en Lion, cette position touche presque toujours à la fierté.
 
 Environ 1 personne sur 145 porte ce carré. Pour une naissance un jour où la Lune changeait de signe autour du Lion, le [Soleil en Scorpion, Lune en Cancer](/astrology/sun-in-scorpio-moon-in-cancer/) ou le [Soleil en Scorpion, Lune en Vierge](/astrology/sun-in-scorpio-moon-in-virgo/) est tout aussi possible ; l’heure le dit ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)). Le même moment donne l’ascendant et les maisons ; la maison d’une Lune en Lion montre où elle cherche ses quelques personnes choisies.
 

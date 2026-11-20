@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 87
 glyph: "☉♏☽♊"
-definition: "Sun in Scorpio, Moon in Gemini joins fixed water and mutable air at a quincunx, a few days after a full moon. I read it as a self that guards what is essential and goes deep, beside needs that settle by talking, asking and naming what is felt."
+definition: "Sun in Scorpio, Moon in Gemini joins fixed water and mutable air at a quincunx, with the full moon a few days behind. What I read there is a self that guards what is essential and goes deep, beside needs that settle by talking, asking and naming what is felt."
 facts:
   - { k: "Sun sign", v: "Scorpio ♏, ruled by Pluto and Mars" }
   - { k: "Moon sign", v: "Gemini ♊, ruled by Mercury" }
@@ -32,13 +32,13 @@ An open book with one chapter locked: that is how this pair often reads. The Gem
 
 ## How they get along {#how-they-get-along}
 
-Scorpio is fixed water and Gemini mutable air, five signs apart counting back from the Sun: a [quincunx](/astrology/quincunx/) by sign, a pairing that has to keep adjusting. The [Sun in Scorpio](/astrology/sun-in-scorpio/) goes deep into one thing at a time and stays there; the [Moon in Gemini](/astrology/moon-in-gemini/) feels better after a conversation, a change of subject, a question answered. Curiosity is the bridge between them: the Moon's questions often lead the Sun to exactly the depths it wants.
+Scorpio is fixed water and Gemini mutable air; count back five signs from the Sun and you reach the Moon: a [quincunx](/astrology/quincunx/) by sign, a pairing that has to keep adjusting. The [Sun in Scorpio](/astrology/sun-in-scorpio/) goes deep into one thing at a time and stays there; the [Moon in Gemini](/astrology/moon-in-gemini/) feels better after a conversation, a change of subject, a question answered. Curiosity is the bridge between them: the Moon's questions often lead the Sun to exactly the depths it wants.
 
 [Mercury](/astrology/mercury/) rules Gemini, so the way your Moon puts feelings into words follows Mercury's sign and house. In the old books Scorpio belongs to [Mars](/astrology/mars/), which shows how your Sun pursues what it wants to know; modern astrologers give it [Pluto](/astrology/pluto/), which shows what it needs to uncover and change, and I read both. Tradition gives neither light any dignity here, so the interest lies in the conversation between Mercury's lightness and Pluto's weight.
 
-The Moon had passed its full, 180° to 239° from the Sun, in a lunar month 15 to 19½ days old. Almost every birth with this pair belongs to the [full moon](/astrology/full-moon/) phase, the few days after the exact full; the latest, about one in eight, fall in the [waning gibbous (disseminating) moon](/astrology/waning-gibbous-disseminating-moon/). The quincunx itself is exact around 210°. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) marks the boundary between them.
+The Moon had passed its full, 180° to 239° from the Sun, in a lunar month 15 to 19½ days old. Almost every birth with this pair belongs to the [full moon](/astrology/full-moon/) phase, the few days after the exact full; the latest eighth or so belong to the [waning gibbous (disseminating) moon](/astrology/waning-gibbous-disseminating-moon/). The quincunx itself is exact around 210°. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) marks the boundary between them.
 
-About 1 person in 149 is born with the Moon in Gemini and the Sun in Scorpio. The Moon moves through Gemini in two and a half days or so; born on the day it arrived from Taurus or left for Cancer, you may have the [Sun in Scorpio, Moon in Taurus](/astrology/sun-in-scorpio-moon-in-taurus/) or the [Sun in Scorpio, Moon in Cancer](/astrology/sun-in-scorpio-moon-in-cancer/) instead ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)). The same time gives the rising sign, and the rising sign usually governs how much of the locked chapter anyone gets to see.
+About 1 person in 149 is born with the Moon in Gemini and the Sun in Scorpio. The Moon takes about two and a half days to cross Gemini; born on the day it arrived from Taurus or left for Cancer, you may have the [Sun in Scorpio, Moon in Taurus](/astrology/sun-in-scorpio-moon-in-taurus/) or the [Sun in Scorpio, Moon in Cancer](/astrology/sun-in-scorpio-moon-in-cancer/) instead ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)). The same time gives the rising sign, and the rising sign usually governs how much of the locked chapter anyone gets to see.
 
 ## In close relationships {#in-close-relationships}
 

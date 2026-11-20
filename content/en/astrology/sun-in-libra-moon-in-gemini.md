@@ -1,13 +1,13 @@
 ---
 title: "Sun in Libra, Moon in Gemini"
 h1: "Sun in Libra, Moon in Gemini in a birth chart"
-description: "Sun in Libra, Moon in Gemini: the scales and the twins, two air signs, born a few days after a full moon. A self that weighs, needs that talk it through."
+description: "Sun in Libra, Moon in Gemini: the scales and the twins, two air signs, born in the days that follow a full moon. A self that weighs, needs that talk it through."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 75
 glyph: "☉♎☽♊"
-definition: "Sun in Libra, Moon in Gemini is an all-air pair, born a few days after a full moon, usually in the disseminating phase, the lights a trine apart by sign. I read it as a sense of self built on fair judgement, with needs that settle by naming, comparing and talking a feeling over."
+definition: "Sun in Libra, Moon in Gemini is an all-air pair, born once the full moon has passed by a few days, usually in the disseminating phase, the lights a trine apart by sign. I read it as a sense of self built on fair judgement, with needs that settle by naming, comparing and talking a feeling over."
 facts:
   - { k: "Sun sign", v: "Libra ♎, ruled by Venus; the Sun’s fall" }
   - { k: "Moon sign", v: "Gemini ♊, ruled by Mercury" }

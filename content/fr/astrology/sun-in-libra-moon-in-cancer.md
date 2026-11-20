@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/sun-in-libra", "/astrology/moon-in-cancer", "/astrology/last-quarter-moon", "/astrology/sun-square-moon", "/astrology/domicile"]
 faq:
   - q: "Le Soleil en Balance et la Lune en Cancer, est-ce un carré ?"
-    a: "Par signe, oui : le Cancer précède la Balance de trois signes, et tous deux sont cardinaux. Le carré n’est exact qu’autour du dernier quartier, environ 22 jours après une nouvelle lune. J’y lis un frottement entre l’équité envers tous et le besoin d’un abri privé, deux choses entre lesquelles on apprend à circuler."
+    a: "Par signe, oui : le Cancer précède la Balance de trois signes, et tous deux sont cardinaux. Le carré n’est exact qu’autour du dernier quartier, environ 22 jours après une nouvelle lune. Je vois là un frottement entre l’équité envers tous et le besoin d’un abri privé, deux choses entre lesquelles on apprend à circuler."
   - q: "Pourquoi le temps chez soi compte-t-il autant avec le Soleil en Balance et la Lune en Cancer ?"
     a: "Parce qu’en Cancer, son propre signe, la Lune a un besoin entier de lieu sûr. Le Soleil en Balance passe la journée à peser l’avis des autres ; la Lune en Cancer récupère là où rien n’est à peser. Le temps chez soi n’est pas une fuite loin des gens : c’est ainsi que ce duo refait le plein."
   - q: "Est-ce qu’on peut dire non avec le Soleil en Balance et la Lune en Cancer ?"

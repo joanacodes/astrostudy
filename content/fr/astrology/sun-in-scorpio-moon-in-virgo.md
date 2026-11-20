@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 90
 glyph: "☉♏☽♍"
-definition: "Soleil en Scorpion, Lune en Vierge réunit l’eau fixe et la terre mutable en sextile, tard dans le mois lunaire, la Vierge étant le domicile et l’exaltation de Mercure. J’y lis un moi qui cherche sous la surface, avec des besoins qui s’apaisent une fois ce qu’il trouve trié et rendu utile."
+definition: "Soleil en Scorpion, Lune en Vierge réunit l’eau fixe et la terre mutable en sextile, tard dans le mois lunaire, la Vierge étant domicile et exaltation de Mercure. J’y vois un moi qui cherche sous la surface, avec des besoins qui s’apaisent une fois ce qu’il trouve trié et rendu utile."
 facts:
   - { k: "Signe solaire", v: "Scorpion ♏, gouverné par Pluton et Mars" }
   - { k: "Signe lunaire", v: "Vierge ♍, domicile et exaltation de Mercure" }
@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et le recul de la Lune derrière le Soleil" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "la Lune entre son dernier quartier et la fin du mois" }
 ---
-Ce que votre Soleil déterre, votre Lune veut le trier. Le Soleil en Scorpion va sous la surface chercher la vérité des choses ; la Lune en Vierge s’apaise une fois cette vérité examinée, étiquetée et mise à profit. Votre naissance tombe dans la quatrième semaine du mois lunaire.
+Ce que votre Soleil déterre, votre Lune veut le trier. Le Soleil en Scorpion descend sous la surface chercher la vérité des choses ; la Lune en Vierge s’apaise une fois cette vérité examinée, étiquetée et mise à profit. Votre naissance tombe dans la quatrième semaine du mois lunaire.
 
 ## Comment ils s’accordent {#comment-ils-s-accordent}
 
@@ -47,7 +47,7 @@ Vous montrez votre soin par l’attention aux détails et par une loyauté qui n
 
 ## Au travail {#au-travail}
 
-Les métiers qui allient l’enquête et la précision vous conviennent : la recherche, l’analyse, l’audit, l’édition, les archives et l’expertise, les fonctions de qualité et de sécurité, tout poste où trouver la vraie cause compte autant que réparer. Le Soleil en Scorpion va au fond des choses ; la Lune en Vierge veille à l’exactitude des détails. Le travail bâclé trouble la Lune et le travail superficiel ennuie le Soleil : vous finissez parfois par refaire celui des autres.
+Les métiers qui allient l’enquête et la précision vous conviennent : la recherche, l’analyse, l’audit, l’édition, les archives et l’expertise, les fonctions de qualité et de sécurité, tout poste où trouver la vraie cause compte autant que réparer. Le Soleil en Scorpion remonte jusqu’à la cause ; la Lune en Vierge veille à l’exactitude des détails. Le travail bâclé trouble la Lune et le travail superficiel ennuie le Soleil : vous finissez parfois par refaire celui des autres.
 
 ## Le plus difficile {#le-plus-difficile}
 

@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 74
 glyph: "☉♎☽♉"
-definition: "Sun in Libra, Moon in Taurus joins two signs ruled by Venus, with the Moon at its exaltation and the Sun in its fall, a few days after a full moon. I read it as a self that looks for the fair arrangement between people, steadied by needs that look for what is durable, familiar and unhurried."
+definition: "Sun in Libra, Moon in Taurus joins two signs ruled by Venus, with the Moon at its exaltation and the Sun in its fall, with the full moon a few days gone. I read it as a self that looks for the fair arrangement between people, steadied by needs that look for what is durable, familiar and unhurried."
 facts:
   - { k: "Sun sign", v: "Libra ♎, ruled by Venus; the Sun’s fall" }
   - { k: "Moon sign", v: "Taurus ♉, ruled by Venus; the Moon’s exaltation" }
@@ -38,7 +38,7 @@ Libra is cardinal air and Taurus fixed earth: no shared element, no shared mode,
 
 Your birth came after a full moon, by up to five days: the Moon was 180° to 240° ahead of the Sun, in a lunar month about 15 to 20 days old. In the eight-phase count the [full moon](/astrology/full-moon/) phase lasts until the Moon is 225° ahead, so it takes nearly all these births; only the latest, about one in eight, reach the [waning gibbous (disseminating) moon](/astrology/waning-gibbous-disseminating-moon/). Around 210°, in the middle of the range, the lights make a quincunx by degree as well. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) explains where one phase ends and the next begins.
 
-Roughly 1 person in 145 is born with Venus ruling both lights in this way. The Moon crosses Taurus in two and a half days or so, and on the day it came in from Aries, or went on into Gemini, only the hour can tell this page from the [Sun in Libra, Moon in Aries](/astrology/sun-in-libra-moon-in-aries/) and the [Sun in Libra, Moon in Gemini](/astrology/sun-in-libra-moon-in-gemini/) ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)). The same hour sets the rising sign and the houses, and with Venus answering for both lights, its house is the one I'd most want to see. Like every house, it needs the time.
+Roughly 1 person in 145 is born with Venus ruling both lights in this way. The Moon crosses Taurus in two and a half days or so, and on the day it came in from Aries, or went on into Gemini, only the hour can say whether yours is this page, the [Sun in Libra, Moon in Aries](/astrology/sun-in-libra-moon-in-aries/) or the [Sun in Libra, Moon in Gemini](/astrology/sun-in-libra-moon-in-gemini/) ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)). The same hour sets the rising sign and the houses, and with Venus answering for both lights, its house is the one I'd most want to see. Like every house, it needs the time.
 
 ## In close relationships {#in-close-relationships}
 

@@ -1,13 +1,13 @@
 ---
 title: "Sun in Scorpio, Moon in Libra"
 h1: "Sun in Scorpio, Moon in Libra in a birth chart"
-description: "Sun in Scorpio, Moon in Libra: the Moon one sign behind, in the balsamic days before a new moon in Scorpio. A self that wants truth, needs that want peace."
+description: "Sun in Scorpio, Moon in Libra: the Moon one sign behind, in the balsamic stretch before a new moon in Scorpio. A self that wants truth, needs that want peace."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 91
 glyph: "☉♏☽♎"
-definition: "Sun in Scorpio, Moon in Libra leaves the Moon in the sign the Sun has just left, a few days before the new moon in Scorpio. I read it as a self that needs the truth beneath things, beside needs that settle only when there is peace and fairness between people."
+definition: "Sun in Scorpio, Moon in Libra leaves the Moon behind, in the sign the Sun has just left, a few days before the new moon in Scorpio. I read it as a self that needs the truth beneath things, beside needs that settle only when there is peace and fairness between people."
 facts:
   - { k: "Sun sign", v: "Scorpio ♏, ruled by Pluto and Mars" }
   - { k: "Moon sign", v: "Libra ♎, ruled by Venus" }
@@ -38,7 +38,7 @@ Libra sits just behind Scorpio, the two signs touching at a border: a [semi-sext
 
 Only 1° to 59° separated the Moon from the Sun it was about to overtake, 24½ to 29½ days into the lunar month. The [balsamic moon](/astrology/balsamic-moon/), the month's last stretch, is the phase of almost all these births; the earliest few, about one in eight, still fall in the [last quarter moon](/astrology/last-quarter-moon/). The new moon that came a few days later was usually a [new moon in Scorpio](/astrology/new-moon-in-scorpio/), and in the last hours of the range a Moon at the end of Libra can already be conjunct a Sun at the start of Scorpio. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) places the balsamic phase among the other seven.
 
-About 1 person in 147 is born with the Moon still in Libra after the Sun has moved on to Scorpio. If your birthday saw the Moon cross into Libra or out of it, the [Sun in Scorpio, Moon in Virgo](/astrology/sun-in-scorpio-moon-in-virgo/) or the [Sun in Scorpio, Moon in Scorpio](/astrology/sun-in-scorpio-moon-in-scorpio/) could be yours as easily as this page, and I'd need the time to say ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)). From the same time comes the rising sign, and with this pair the rising sign often says which goes out to meet people, the diplomat or the investigator.
+One person in 147 or thereabouts has the Moon still in Libra after the Sun has moved on to Scorpio. If your birthday saw the Moon cross into Libra or out of it, the [Sun in Scorpio, Moon in Virgo](/astrology/sun-in-scorpio-moon-in-virgo/) or the [Sun in Scorpio, Moon in Scorpio](/astrology/sun-in-scorpio-moon-in-scorpio/) could be yours as easily as this page, and I'd need the time to say ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)). From the same time comes the rising sign, and with this pair the rising sign often says which goes out to meet people, the diplomat or the investigator.
 
 ## In close relationships {#in-close-relationships}
 

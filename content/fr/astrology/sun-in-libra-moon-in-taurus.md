@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 74
 glyph: "☉♎☽♉"
-definition: "Soleil en Balance, Lune en Taureau réunit deux signes gouvernés par Vénus, la Lune dans son exaltation et le Soleil dans sa chute, quelques jours après une pleine lune. J’y lis un moi qui cherche l’arrangement juste entre les personnes, tenu par des besoins qui recherchent ce qui dure, le familier, le pas tranquille."
+definition: "Soleil en Balance, Lune en Taureau réunit deux signes gouvernés par Vénus, la Lune dans son exaltation et le Soleil dans sa chute, quelques jours après une pleine lune. J’y reconnais un moi qui cherche l’arrangement juste entre les personnes, tenu par des besoins qui recherchent ce qui dure, le familier, le pas tranquille."
 facts:
   - { k: "Signe solaire", v: "Balance ♎, gouvernée par Vénus ; chute du Soleil" }
   - { k: "Signe lunaire", v: "Taureau ♉, gouverné par Vénus ; exaltation de la Lune" }
@@ -35,7 +35,7 @@ Vénus a la charge des deux luminaires, et la tradition les traite très différ
 
 La Balance est air cardinal, le Taureau terre fixe : aucun élément commun, aucun mode commun, et cinq signes d’écart, un [quinconce](/astrology/quincunx/) par signe, que je lis comme un petit ajustement permanent entre deux parts qui ne vont pas de soi l’une pour l’autre. Le [Soleil en Balance](/astrology/sun-in-libra/) accepte de rouvrir toute question que l’équité lui demande de rouvrir ; la [Lune en Taureau](/astrology/moon-in-taurus/) s’apaise quand la question reste close, l’habitude gardée, les meubles à leur place. Vous pouvez renégocier les termes de presque tout et avoir encore besoin que vos soirées restent les mêmes.
 
-[Vénus](/astrology/venus/) gouverne les deux signes : une seule planète répond de votre direction et de ce qui vous stabilise, et son signe et sa maison sont le premier endroit où je regarde. Ptolémée fait du Taureau l’[exaltation](/astrology/exaltation/) de la Lune, le signe où elle est le plus à son aise, alors que la Balance est la chute du Soleil. Je lis ce contraste simplement : vos besoins savent ce qu’ils veulent, et votre sentiment de vous-même se forme plus lentement, en comparant et en pesant. Quand une décision traîne, c’est souvent la Lune en Taureau qui la fait aboutir.
+[Vénus](/astrology/venus/) gouverne les deux signes : une seule planète répond de votre direction et de ce qui vous stabilise, et son signe et sa maison sont le premier endroit où je regarde. Ptolémée fait du Taureau l’[exaltation](/astrology/exaltation/) de la Lune, le signe où elle est le plus à son aise, alors que la Balance marque la chute du Soleil. Je lis ce contraste simplement : vos besoins savent ce qu’ils veulent, et votre sentiment de vous-même se forme plus lentement, en comparant et en pesant. Quand une décision traîne, c’est souvent la Lune en Taureau qui la fait aboutir.
 
 Votre naissance a suivi une pleine lune, de cinq jours au plus : la Lune avait 180° à 240° d’avance sur le Soleil, dans un mois lunaire âgé de 15 à 20 jours environ. Dans le découpage en huit phases, la [pleine lune](/astrology/full-moon/) dure jusqu’à ce que la Lune ait 225° d’avance : elle prend presque toutes ces naissances, et seules les plus tardives, environ une sur huit, atteignent la [lune gibbeuse décroissante (disséminante)](/astrology/waning-gibbous-disseminating-moon/). Vers 210°, au milieu de l’intervalle, les luminaires forment aussi un quinconce au degré près. [Votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) explique où une phase finit et où la suivante commence.
 

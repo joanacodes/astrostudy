@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 88
 glyph: "☉♏☽♋"
-definition: "Soleil en Scorpion, Lune en Cancer réunit deux signes d’eau en trigone, la Lune dans le signe qu’elle gouverne, quelques jours après une pleine lune. J’y lis un moi qui va au fond des choses, tenu par des besoins qui s’apaisent chez soi, parmi les siens et les souvenirs."
+definition: "Soleil en Scorpion, Lune en Cancer réunit deux signes d’eau en trigone, la Lune dans le signe qu’elle gouverne, quelques jours après une pleine lune. Je le vois comme un moi qui va au fond des choses, tenu par des besoins qui s’apaisent chez soi, parmi les siens et les souvenirs."
 facts:
   - { k: "Signe solaire", v: "Scorpion ♏, gouverné par Pluton et Mars" }
   - { k: "Signe lunaire", v: "Cancer ♋, domicile de la Lune ; signe de la chute de Mars" }
@@ -21,9 +21,9 @@ faq:
   - q: "Un Soleil en Scorpion et une Lune en Cancer se comprennent-ils ?"
     a: "En général, oui. Les deux sont d’eau, en trigone par signe : le but et le besoin partagent une langue émotionnelle, la profondeur pour le Soleil, l’abri pour la Lune. Cette aisance a un prix, car deux signes d’eau peuvent garder des blessures ensemble ; l’habitude de dire ses émotions, et des proches d’un autre tempérament, empêchent le duo de se refermer."
   - q: "Qu’apporte le domicile de la Lune à un Soleil en Scorpion ?"
-    a: "Une base sûre. Le Cancer est le signe propre de la Lune : vos besoins sont clairs et le soin des autres vous vient facilement. Le Soleil en Scorpion, qui va dans des endroits difficiles, a un lieu sûr où revenir. La maison et les aspects de la Lune me disent où se trouve cette base."
+    a: "Une base sûre. Le Cancer est le signe propre de la Lune : vos besoins sont clairs et le soin des autres vous vient facilement. Le Soleil en Scorpion, qui va dans des endroits difficiles, a un lieu sûr où revenir. C’est la maison de la Lune, avec ses aspects, qui me dit où se trouve cette base."
   - q: "Où en était le mois lunaire à la naissance d’un Soleil en Scorpion avec une Lune en Cancer ?"
-    a: "Aux deux tiers environ : 17 à 22 jours après une nouvelle lune, la pleine lune passée de quelques jours, la Lune décroissante. La plupart de ces naissances relèvent de la phase disséminante, quelques-unes de la fin de la phase de pleine lune, et vers 240°, les luminaires forment un trigone décroissant."
+    a: "Aux deux tiers environ : la nouvelle lune remonte à 17 à 22 jours, la pleine lune à quelques jours, et la Lune décroît. La plupart de ces naissances relèvent de la phase disséminante, quelques-unes de la fin de la phase de pleine lune, et vers 240°, les luminaires forment un trigone décroissant."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "la maîtrise de la Lune sur le Cancer, celle de Mars sur le Scorpion et sa chute en Cancer" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et le temps écoulé depuis la pleine lune" }
@@ -37,7 +37,7 @@ Le Cancer est quatre signes avant le Scorpion, un [trigone](/astrology/trine/) p
 
 La Lune est dans son [domicile](/astrology/domicile/) : sa maison et ses aspects décrivent vos besoins sans autre maître entre eux et vous. Pour le signe du Soleil, je lis les deux maîtres, [Mars](/astrology/mars/) pour la tradition et [Pluton](/astrology/pluto/) pour l’astrologie moderne. Mars a sa chute en Cancer, là où se trouve votre Lune, ce que je lis avec douceur : la part de votre Soleil en Scorpion qui pousse et qui se bat tend à déposer les armes à la maison. Par sa maison, Pluton montre où le Soleil laisse partir l’ancien ; Mars, où le Soleil doit encore tenir bon.
 
-Avec une Lune à 211° à 270° du Soleil, la pleine lune était derrière vous de quelques jours, dans un mois lunaire de 17 à 22 jours. La [lune gibbeuse décroissante (disséminante)](/astrology/waning-gibbous-disseminating-moon/) prend la plus grande part de ces naissances ; une petite part au début de l’intervalle, environ une naissance sur huit, appartient encore à la [pleine lune](/astrology/full-moon/), et à 240°, le trigone de signes devient un [Soleil trigone Lune](/astrology/sun-trine-moon/) décroissant au degré près. Le nom de la phase veut dire semer à tout vent, et j’y lis une naissance qui transmet ce qu’elle a appris ; ici, c’est souvent une compréhension des émotions, offerte comme un soin. [Votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) range les phases dans leur ordre.
+Avec une Lune à 211° à 270° du Soleil, la pleine lune était derrière vous de quelques jours, et la nouvelle lune, de 17 à 22 jours. La [lune gibbeuse décroissante (disséminante)](/astrology/waning-gibbous-disseminating-moon/) compte l’essentiel de ces naissances ; une petite part au début de l’intervalle, environ une naissance sur huit, appartient encore à la [pleine lune](/astrology/full-moon/), et à 240°, le trigone de signes devient un [Soleil trigone Lune](/astrology/sun-trine-moon/) décroissant au degré près. Le nom de la phase veut dire semer à tout vent, et j’y lis une naissance qui transmet ce qu’elle a appris ; ici, c’est souvent une compréhension des émotions, offerte comme un soin. [Votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) range les phases dans leur ordre.
 
 Environ 1 personne sur 145 a la Lune chez elle en Cancer derrière un Soleil en Scorpion. Une Lune entrée en Cancer, ou sortie de ce signe, le jour de votre naissance laisse en jeu le [Soleil en Scorpion, Lune en Gémeaux](/astrology/sun-in-scorpio-moon-in-gemini/) et le [Soleil en Scorpion, Lune en Lion](/astrology/sun-in-scorpio-moon-in-leo/) tant que l’heure n’est pas connue ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)). Pour une Lune aussi centrée sur le foyer, sa maison est la première chose que cette heure me montrerait, avec l’ascendant.
 

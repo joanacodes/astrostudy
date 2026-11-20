@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 88
 glyph: "☉♏☽♋"
-definition: "Sun in Scorpio, Moon in Cancer joins two water signs a trine apart, with the Moon in the sign it rules, several days after a full moon. I read it as a self that gets to the bottom of things, held by needs that settle at home, among its own people and memories."
+definition: "Sun in Scorpio, Moon in Cancer joins two water signs a trine apart, with the Moon in the sign it rules, several days after a full moon. I take it as a self that gets to the bottom of things, held by needs that settle at home, among its own people and memories."
 facts:
   - { k: "Sun sign", v: "Scorpio ♏, ruled by Pluto and Mars" }
   - { k: "Moon sign", v: "Cancer ♋, the Moon’s domicile; the sign of Mars’s fall" }
@@ -22,7 +22,7 @@ faq:
   - q: "What does the Moon’s domicile give a Scorpio Sun?"
     a: "A secure base. Cancer is the Moon’s own sign, so your needs are clear and your care for others comes easily. The Scorpio Sun, which goes into difficult places, has somewhere safe to come back to. The Moon’s own house and aspects tell me where that base is and what it is made of."
   - q: "How far through the lunar month is a Scorpio Sun with a Cancer Moon born?"
-    a: "About two-thirds of the way: 17 to 22 days after a new moon, with the full moon a few days past and the Moon waning. Most of these births belong to the disseminating phase, a few to the end of the full moon phase, and near 240° the lights form a waning trine."
+    a: "About two-thirds of the way: 17 to 22 days after a new moon, the full moon a few days past and the Moon waning. The disseminating phase holds most of these births, the end of the full moon phase a few, and near 240° the lights form a waning trine."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the Moon’s rule of Cancer, Mars’s rule of Scorpio and its fall in Cancer" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the time since the full moon" }
@@ -36,7 +36,7 @@ Cancer is four signs back from Scorpio, a [trine](/astrology/trine/) by sign, an
 
 The Moon is in its [domicile](/astrology/domicile/), so its own house and aspects describe your needs with no other ruler in between. For the Sun's sign I read both rulers, [Mars](/astrology/mars/) from the tradition and [Pluto](/astrology/pluto/) from modern astrology. Mars has its fall in Cancer, your Moon's sign, which I read gently: the part of your Scorpio Sun that pushes and fights tends to lay down its arms at home. Pluto, by house, shows where the Sun lets old things go; Mars, where it still has to stand its ground.
 
-With the Moon 211° to 270° ahead of the Sun, the full moon was a few days behind you, 17 to 22 days into the lunar month. The [waning gibbous (disseminating) moon](/astrology/waning-gibbous-disseminating-moon/) takes the larger share of these births; a small share at the start of the range, roughly one birth in eight, is still in the [full moon](/astrology/full-moon/) phase, and at 240° the trine of signs becomes a waning [Sun trine Moon](/astrology/sun-trine-moon/) by degree. The phase's name means sowing far and wide, and I read a birth in it as one that passes on what it has learnt; here that is often an understanding of feelings, offered as care. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) sets the phases in their order.
+With the Moon 211° to 270° ahead of the Sun, the full moon was a few days behind you, and the new moon 17 to 22 days back. The [waning gibbous (disseminating) moon](/astrology/waning-gibbous-disseminating-moon/) takes the larger share of these births; a small share at the start of the range, roughly one birth in eight, is still in the [full moon](/astrology/full-moon/) phase, and at 240° the trine of signs becomes a waning [Sun trine Moon](/astrology/sun-trine-moon/) by degree. The phase's name means sowing far and wide, and I read a birth in it as one that passes on what it has learnt; here that is often an understanding of feelings, offered as care. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) sets the phases in their order.
 
 About 1 person in 145 has the Moon at home in Cancer behind a Scorpio Sun. A Moon that entered Cancer, or left it, on the day you were born leaves the [Sun in Scorpio, Moon in Gemini](/astrology/sun-in-scorpio-moon-in-gemini/) and the [Sun in Scorpio, Moon in Leo](/astrology/sun-in-scorpio-moon-in-leo/) in play until the time is known ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)). For a Moon this centred on home, its house is the first thing that time would show me, along with the rising sign.
 

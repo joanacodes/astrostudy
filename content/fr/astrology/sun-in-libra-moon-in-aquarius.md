@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/sun-in-libra", "/astrology/moon-in-aquarius", "/astrology/sun-trine-moon", "/astrology/uranus", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Un Soleil en Balance et une Lune en Verseau font-ils un duo facile ?"
-    a: "Oui, la plupart du temps. La Balance et le Verseau sont deux signes d’air en trigone : ce que vous visez et ce dont vous avez besoin s’accordent, autour de l’équité, des idées et de l’amitié. Cette aisance a son revers : avec si peu de friction intérieure, les émotions restent parfois dans la tête, et gagnent à être dites à voix haute."
+    a: "Oui, la plupart du temps. La Balance et le Verseau sont deux signes d’air en trigone : ce que vous visez et ce dont vous avez besoin s’accordent, autour de l’équité, des idées et de l’amitié. Cette aisance a son revers : avec si peu de friction intérieure, les émotions restent dans la tête, et gagnent à être dites."
   - q: "Est-ce que Saturne gouverne une Lune en Verseau ?"
     a: "Dans la tradition, oui ; Uranus est la maîtrise moderne du Verseau, et je lis les deux. Uranus montre où votre Lune a besoin de différer, Saturne ce à quoi elle accepte de s’engager. Avec votre Soleil en Balance, signe de l’exaltation de Saturne, Saturne touche les deux luminaires, et Saturne a tenu 75 à 90 % du temps dans mon carnet."
   - q: "D’où vient la réserve apparente d’un Soleil en Balance avec une Lune en Verseau ?"
@@ -39,7 +39,7 @@ La tradition met la chute du Soleil en Balance et son exil en Verseau : vos deu
 
 Entre 7 jours et demi et 12 jours et demi après la nouvelle lune, la Lune se trouvait 90° à 150° devant le Soleil. Le [premier quartier](/astrology/first-quarter-moon/) prend la plus grande part de ces naissances, la [lune gibbeuse croissante](/astrology/waxing-gibbous-moon/) les dernières, environ une sur huit, et vers 120°, un [Soleil trigone Lune](/astrology/sun-trine-moon/) croissant fait marcher du même pas le but et le besoin. [Votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) sépare les deux phases.
 
-Environ 1 naissance sur 144 donne ce duo. Chaque mois, la Lune entre en Verseau et en sort, et ces jours-là votre page pourrait être le [Soleil en Balance, Lune en Capricorne](/astrology/sun-in-libra-moon-in-capricorn/) ou le [Soleil en Balance, Lune en Poissons](/astrology/sun-in-libra-moon-in-pisces/) : l’heure tranche ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)). Elle fixe aussi l’ascendant et les maisons, et donc les endroits de votre vie où Uranus et Saturne, les deux maîtres de la Lune, font vraiment leur travail.
+Environ 1 naissance sur 144 donne ce duo. Chaque mois, la Lune entre en Verseau et en sort, et ces jours-là votre page pourrait être le [Soleil en Balance, Lune en Capricorne](/astrology/sun-in-libra-moon-in-capricorn/) ou le [Soleil en Balance, Lune en Poissons](/astrology/sun-in-libra-moon-in-pisces/) : c’est l’heure de naissance qui en décide ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)). Ascendant et maisons en dépendent aussi, et donc les endroits de votre vie où Uranus et Saturne, les deux maîtres de la Lune, font vraiment leur travail.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 

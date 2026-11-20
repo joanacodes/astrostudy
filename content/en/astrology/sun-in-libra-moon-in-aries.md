@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun-in-libra", "/astrology/moon-in-aries", "/astrology/full-moon-in-aries", "/astrology/sun-opposite-moon", "/astrology/hunters-moon"]
 faq:
   - q: "Is Sun in Libra, Moon in Aries a Harvest moon birth?"
-    a: "Sometimes. With the Moon 151° to 208° ahead of the Sun, your birth fell no more than two and a half days or so from a full moon, most often a full moon in Aries. When that full moon is the closest to the September equinox, it is called the Harvest moon; when it is the next one, the Hunter’s moon."
+    a: "Sometimes. With the Moon 151° to 208° ahead of the Sun, your birth fell no more than two and a half days from a full moon, most often a full moon in Aries. When that full moon is the closest to the September equinox, it is called the Harvest moon; when it is the next one, the Hunter’s moon."
   - q: "Why does a Libra Sun with an Aries Moon feel so impatient inside?"
     a: "Because the Moon handles your needs, and in Aries it wants them met quickly, by doing something. The Libra Sun shapes how you see yourself: fair, considered, attentive to others. Both are true. The impatience is the Moon asking to act; it settles once it has, which is why a quick, honest word works better than a long wait."
   - q: "What does a partner need to know about a Libra Sun with an Aries Moon?"

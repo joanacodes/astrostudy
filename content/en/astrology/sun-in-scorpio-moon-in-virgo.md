@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 90
 glyph: "☉♏☽♍"
-definition: "Sun in Scorpio, Moon in Virgo joins fixed water and mutable earth a sextile apart, late in the lunar month, with Mercury ruling and exalted in the Moon’s sign. I read it as a self that searches beneath the surface, with needs that settle once what it finds has been sorted and made useful."
+definition: "Sun in Scorpio, Moon in Virgo joins fixed water and mutable earth a sextile apart, late in the lunar month, with Mercury ruling and exalted in the Moon’s sign. To me it speaks of a self that searches beneath the surface, with needs that settle once what it finds has been sorted and made useful."
 facts:
   - { k: "Sun sign", v: "Scorpio ♏, ruled by Pluto and Mars" }
   - { k: "Moon sign", v: "Virgo ♍, ruled by Mercury, which is exalted there too" }

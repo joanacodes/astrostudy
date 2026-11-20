@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 87
 glyph: "☉♏☽♊"
-definition: "Soleil en Scorpion, Lune en Gémeaux réunit l’eau fixe et l’air mutable en quinconce, quelques jours après une pleine lune. J’y lis un moi qui protège l’essentiel et va en profondeur, à côté de besoins qui s’apaisent en parlant, en questionnant, en nommant ce qui est ressenti."
+definition: "Soleil en Scorpion, Lune en Gémeaux réunit l’eau fixe et l’air mutable en quinconce, quelques jours après une pleine lune. Ce que j’y lis : un moi qui protège l’essentiel et va en profondeur, à côté de besoins qui s’apaisent en parlant, en questionnant, en nommant ce qui est ressenti."
 facts:
   - { k: "Signe solaire", v: "Scorpion ♏, gouverné par Pluton et Mars" }
   - { k: "Signe lunaire", v: "Gémeaux ♊, gouvernés par Mercure" }
@@ -37,9 +37,9 @@ Le Scorpion est eau fixe, les Gémeaux air mutable, à cinq signes en remontant 
 
 [Mercure](/astrology/mercury/) gouverne les Gémeaux : la façon dont votre Lune met ses émotions en mots dépend de la place de Mercure, par signe et par maison. Dans les vieux livres, le Scorpion revient à [Mars](/astrology/mars/), qui montre comment votre Soleil poursuit ce qu’il veut savoir ; l’astrologie moderne lui donne [Pluton](/astrology/pluto/), qui montre ce qu’il doit mettre au jour et transformer, et je lis les deux. Ni le Soleil ni la Lune n’ont ici de dignité : tout l’intérêt tient au dialogue entre la légèreté de Mercure et le poids de Pluton.
 
-La Lune, à 180° à 239° du Soleil, venait de passer son plein, dans un mois lunaire de 15 à 19 jours et demi. Presque toutes les naissances de ce duo appartiennent à la phase de [pleine lune](/astrology/full-moon/), les quelques jours qui suivent la pleine lune exacte ; les plus tardives, environ une sur huit, relèvent de la [lune gibbeuse décroissante (disséminante)](/astrology/waning-gibbous-disseminating-moon/). Le quinconce, lui, devient exact autour de 210°. [Votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) montre où ces deux phases commencent et finissent.
+La Lune, à 180° à 239° du Soleil, venait de passer son plein, dans un mois lunaire de 15 à 19 jours et demi. Presque toutes les naissances de ce duo appartiennent à la phase de [pleine lune](/astrology/full-moon/), les quelques jours qui suivent la pleine lune exacte ; le dernier huitième environ revient à la [lune gibbeuse décroissante (disséminante)](/astrology/waning-gibbous-disseminating-moon/). Le quinconce, lui, devient exact autour de 210°. Le début et la fin de ces deux phases sont détaillés sur [votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/).
 
-Environ 1 personne sur 149 naît avec la Lune en Gémeaux et le Soleil en Scorpion. La Lune traverse les Gémeaux en deux jours et demi environ ; le jour où elle arrive du Taureau ou part vers le Cancer, le [Soleil en Scorpion, Lune en Taureau](/astrology/sun-in-scorpio-moon-in-taurus/) ou le [Soleil en Scorpion, Lune en Cancer](/astrology/sun-in-scorpio-moon-in-cancer/) peut être le vôtre ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)). La même heure donne l’ascendant, et l’ascendant règle souvent ce que l’on voit du chapitre fermé.
+Environ 1 personne sur 149 naît avec la Lune en Gémeaux et le Soleil en Scorpion. La Lune traverse les Gémeaux en deux jours et demi environ ; le jour où elle arrive du Taureau ou part vers le Cancer, le [Soleil en Scorpion, Lune en Taureau](/astrology/sun-in-scorpio-moon-in-taurus/) ou le [Soleil en Scorpion, Lune en Cancer](/astrology/sun-in-scorpio-moon-in-cancer/) pourrait bien vous revenir ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)). L’heure de naissance, qui tranche ici, donne aussi l’ascendant, et l’ascendant règle souvent ce que l’on voit du chapitre fermé.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 

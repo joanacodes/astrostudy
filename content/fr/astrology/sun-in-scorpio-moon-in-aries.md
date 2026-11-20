@@ -20,7 +20,7 @@ related: ["/astrology/sun-in-scorpio", "/astrology/moon-in-aries", "/astrology/w
 faq:
   - q: "Est-ce que Mars est la planète clé du Soleil en Scorpion avec la Lune en Bélier ?"
     a: "Très souvent. Mars gouverne le Bélier, signe de votre Lune, et, dans la tradition, le Scorpion, signe de votre Soleil ; Pluton est la maîtrise moderne du Scorpion, et je lis les deux. Le signe et la maison de Mars montrent où vont votre énergie et votre courage : c’est l’une des premières choses que je regarde ici."
-  - q: "Le Soleil en Scorpion avec la Lune en Bélier, est-ce un duo colérique ?"
+  - q: "Un Soleil en Scorpion et une Lune en Bélier font-ils un duo colérique ?"
     a: "Des émotions fortes, oui ; un caractère emporté, pas forcément. La Lune en Bélier réagit vite et franchement, le Soleil en Scorpion ressent en profondeur, et la colère n’est qu’une des formes que cela peut prendre. Beaucoup de personnes avec ce duo sont courageuses, franches et loyales, et apprennent à donner vite une issue à une émotion vive."
   - q: "Pourquoi la lune gibbeuse convient-elle à un Soleil en Scorpion avec une Lune en Bélier ?"
     a: "Parce qu’environ sept de ces naissances sur huit en relèvent, 10 à près de 15 jours après une nouvelle lune. Je lis les jours gibbeux comme un temps pour polir, et ce duo polit par nature : la Lune en Bélier lance vite, le Soleil en Scorpion reprend jusqu’à ce que ce soit juste."
@@ -33,7 +33,7 @@ Ce que vous ressentez se lit sur votre visage en une seconde ; ce que vous êt
 
 ## Comment ils s’accordent {#comment-ils-s-accordent}
 
-Le Scorpion est eau fixe, le Bélier feu cardinal, cinq signes plus loin : un [quinconce](/astrology/quincunx/) par signe, deux parts qui ne partagent jamais tout à fait un rythme et doivent sans cesse se recalibrer. Le [Soleil en Scorpion](/astrology/sun-in-scorpio/) bâtit son identité dans la profondeur, et tient bon jusqu’à comprendre ; la [Lune en Bélier](/astrology/moon-in-aries/) règle une émotion en agissant aussitôt, puis la laisse partir. Qui voit vos réactions rapides ne devine pas toujours la patience dessous, et qui connaît votre patience peut être surpris par la vitesse de vos émotions.
+Le Scorpion est eau fixe, le Bélier feu cardinal, à cinq signes l’un de l’autre, ce qui fait un [quinconce](/astrology/quincunx/) par signe : deux parts qui ne partagent jamais tout à fait un rythme et doivent sans cesse se recalibrer. Le [Soleil en Scorpion](/astrology/sun-in-scorpio/) bâtit son identité dans la profondeur, et tient bon jusqu’à comprendre ; la [Lune en Bélier](/astrology/moon-in-aries/) règle une émotion en agissant aussitôt, puis la laisse partir. Qui voit vos réactions rapides ne devine pas toujours la patience dessous, et qui connaît votre patience peut être surpris par la vitesse de vos émotions.
 
 [Mars](/astrology/mars/) gouverne pleinement le Bélier, et le Scorpion dans les vieux livres : Mars parle donc pour votre Lune et, en partie, pour votre Soleil. Là où se trouve Mars, par signe et par maison, vont votre effort et votre courage, et je regarde cette place tôt. L’autre maître du Scorpion, pour l’astrologie moderne, est [Pluton](/astrology/pluto/), et je lis les deux ; la maison de Pluton montre où le Soleil fait son travail plus lent de fin et de renouveau. La Lune n’a pas de dignité en Bélier, mais le Bélier est le signe de l’exaltation du Soleil : vos émotions vivent là où, selon la tradition, le Soleil est à son meilleur.
 
