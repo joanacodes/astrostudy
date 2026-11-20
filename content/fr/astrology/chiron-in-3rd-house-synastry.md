@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 123
 glyph: "⚷"
-definition: "Chiron de l’autre dans votre maison 3 signifie que son Chiron tombe dans la maison de votre esprit au quotidien : conversations, messages, apprentissages, frères, sœurs et voisins. En synastrie, sa patience durement gagnée entre dans vos échanges : cette personne explique et écoute remarquablement bien, et vos mots lancés en passant peuvent effleurer un de ses points sensibles."
+definition: "Avec Chiron de l’autre dans votre maison 3, son Chiron se trouve dans la maison de votre esprit au quotidien : conversations, messages, apprentissages, frères, sœurs et voisins. En synastrie, sa patience durement gagnée entre dans vos échanges : cette personne explique et écoute remarquablement bien, et vos mots lancés en passant peuvent effleurer un de ses points sensibles."
 facts:
   - { k: "Corps de l’autre", v: "Le Chiron de l’autre ⚷" }
   - { k: "Votre maison", v: "La maison 3 : les échanges, les messages, l’apprentissage, l’entourage proche" }
@@ -21,7 +21,7 @@ faq:
     a: "Parce que sa propre expérience de l’adaptation en fait souvent quelqu’un qui écoute avec patience et explique avec soin. Dans vos échanges, vos messages et vos apprentissages, elle vous laisse rarement à la traîne, et vous aide parfois à retrouver une entrée dans un sujet abandonné. Vos mots peuvent aussi effleurer son vieux point sensible : le tact vaut dans les deux sens."
   - q: "Le Chiron de l’autre dans ma maison 3 crée-t-il des malentendus ?"
     a: "Il peut les faire paraître plus grands. Un mot lancé au hasard ou un message sec peut tomber sur quelque chose de tendre chez cette personne, et ses corrections peuvent vous sembler condescendantes. Demander ce qui voulait être dit, avant de réagir, suffit souvent. La superposition décrit une sensibilité dans les échanges, pas une dispute écrite d’avance."
-  - q: "Que se passe-t-il quand mon Chiron est dans sa maison 3 ?"
+  - q: "Pourquoi ses remarques en passant me piquent-elles quand mon Chiron est dans sa maison 3 ?"
     a: "Ses bavardages, ses questions et ses opinions de tous les jours atteignent l’endroit où vous avez dû vous adapter : des conversations ordinaires remuent plus qu’il n’y paraît. Vous vous surprenez peut-être à lui enseigner, patiemment, ce que vous avez appris par le long chemin. Laissez-la apprendre à son rythme, et dites quand une plaisanterie a touché un nerf."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "la maison 3, appelée la Déesse" }

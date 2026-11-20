@@ -16,11 +16,11 @@ facts:
   - { k: "Needs", v: "Your birth time; their birth date already places their Chiron" }
 related: ["/astrology/chiron", "/astrology/1st-house", "/astrology/house-overlays", "/astrology/ascendant", "/astrology/chiron-in-1st-house"]
 faq:
-  - q: "What does it mean when someone’s Chiron is in my 1st house?"
+  - q: "What does their Chiron in my 1st house change about how I come across?"
     a: "Their old hurt, and the skill they built around it, lands on the part of your chart people meet first: your manner, your body, the way you begin. Around them you may feel less awkward about how you come across, and your presence may touch something tender in them. It describes a meeting, never an injury."
   - q: "Will someone whose Chiron is in my 1st house make me self-conscious?"
     a: "Sometimes, at first. Their attention goes straight to how you hold yourself, because that is where they once had to adapt. Usually it turns into ease: they know which remarks sting and which help. If their advice on how you look or sound starts to feel like too much, say so plainly."
-  - q: "What do I feel when my Chiron falls in their 1st house?"
+  - q: "Why do I want to coach them when my Chiron falls in their 1st house?"
     a: "Often a jolt of recognition when they walk into a room. Their manner can press on the place where you once worked hardest to feel at ease, and you may want to spare them the same effort. The kind thing is to let them be as they are, without coaching."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the 1st house, where the chart begins" }

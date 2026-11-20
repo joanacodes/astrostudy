@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/2nd-house", "/astrology/transits", "/astrology/uranus-in-2nd-house", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "Est-ce qu’Uranus en maison 2 fait perdre de l’argent ?"
-    a: "Aucun transit n’en décide, et je ne lis ni gains ni pertes dans un thème. Uranus en maison 2 décrit des années où votre façon de gagner, de dépenser ou d’estimer les choses demande à changer, parfois vite. Ce que vous faites de cette envie, et de votre argent, reste votre décision."
+    a: "Rien dans un transit ne le règle, et je ne lis ni gains ni pertes dans un thème. Uranus en maison 2 décrit des années où votre façon de gagner, de dépenser ou d’estimer les choses demande à changer, parfois vite. Ce que vous faites de cette envie, et de votre argent, reste votre décision."
   - q: "Que me demande Uranus en maison 2 ?"
     a: "De regarder ce sur quoi vous comptez et de vous demander si cela vous ressemble encore : une façon de gagner votre vie qui va avec la vie que vous voulez, des valeurs choisies plutôt qu’héritées, une estime de vous qui ne monte ni ne descend avec votre solde."
   - q: "Est-ce que le séjour d’Uranus en maison 2 est plus court que la moyenne ?"

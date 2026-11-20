@@ -34,11 +34,11 @@ When Uranus moves into your 5th house, the planet of the unexpected reaches the 
 
 The 5th faces the 11th, the house the natural zodiac gives to Aquarius, whose modern ruler is Uranus. Crossing the 5th, the planet of groups and futures turns to one person's private delight, and the freedom it asks for is the freedom to enjoy what you enjoy. With your Moon in the 5th from birth, what comforts you and what delights you may both change shape as Uranus passes.
 
-Tradition gave the 5th children, and people still ask whether this transit means one. No chart can say, and I never read one for that ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)); nor do I read [children's charts](/astrology/childrens-charts/). What a [transit](/astrology/transits/) stirs here is the creativity and pleasure already written in an adult's chart.
+Tradition called the 5th Good Fortune and put the joy of Venus there; under Uranus, the good fortune is often a pleasure you'd never have chosen on paper. Tradition also gave the 5th children, and people still ask whether this transit means one. No chart can say, and I never read one for that ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)); nor do I read [children's charts](/astrology/childrens-charts/). What a [transit](/astrology/transits/) stirs here is the creativity and pleasure already written in an adult's chart.
 
 ## How long it lasts {#how-long-it-lasts}
 
-Most of Uranus's stays in the 5th, in Placidus charts for a London birth, run from nearly five years to nearly eleven, with nearly eight as the middle, just above the all-house middle there. A New York birth gives the same middle and a shorter long end, about nine and a half years.
+Most of Uranus's stays in the 5th, in Placidus charts for a London birth, run from nearly five years to nearly eleven, with nearly eight as the middle, just above the all-house middle there. Further south, at New York's latitude, the middle stays put but the long end shortens to about nine and a half years.
 
 The stay begins the first time Uranus crosses your 5th cusp and ends when it leaves the house for good; if retrograde motion takes it back into your 4th for a while, those months still belong to the 5th's count. Both the cusp and the width of the house come from your birth time, the reason a chart without one stays unread on my desk ([what changes without a birth time](/blog/unknown-birth-time/)). The years before were spent rethinking home ([Uranus transiting the 4th house](/astrology/uranus-transit-4th-house/)); the ones after carry the change into work and routine ([Uranus transiting the 6th house](/astrology/uranus-transit-6th-house/)).
 
@@ -48,6 +48,6 @@ Leo, the sign that gives the 5th its warmth, is a long way off: Uranus reaches i
 
 Follow the pleasure that surprises you, even when it doesn't fit the person you thought you were. Uranus in the 5th is generous to experiments and impatient with obligations dressed up as hobbies.
 
-In love, say what freedom means to you, in words rather than in absences. A wish for room is easier to meet when the other person knows its shape.
+In love, say what freedom means to you, in words rather than in absences. A wish for room is easier to meet when the other person knows its shape, and if a bond needs a new form, it's for both people to draw it.
 
 Make something and show it unfinished. The 5th is about being seen enjoying yourself, and Uranus prefers a rough first draft of your own to a polished copy of someone else's.

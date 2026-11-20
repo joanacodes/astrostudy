@@ -2,13 +2,13 @@
 title: "Soleil en Verseau, Lune en Capricorne"
 slug: "soleil-en-verseau-lune-en-capricorne"
 h1: "Soleil en Verseau, Lune en Capricorne dans un thème natal"
-description: "Soleil en Verseau, Lune en Capricorne : le seul duo aux deux luminaires en exil, avec Saturne derrière chacun, dans les jours balsamiques qui précèdent la nouvelle lune."
+description: "Soleil en Verseau, Lune en Capricorne : aucun autre duo n’a ses deux luminaires en exil. Saturne derrière chacun, une naissance juste avant la nouvelle lune."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 130
 glyph: "☉♒☽♑"
-definition: "Soleil en Verseau, Lune en Capricorne place la Lune un signe derrière le Soleil, dans les derniers jours avant une nouvelle lune. Les deux luminaires sont en exil, et Saturne gouverne les deux signes dans la tradition. J’y vois un moi voué à un avenir meilleur pour beaucoup de gens, dont les besoins se posent une fois les responsabilités claires."
+definition: "Soleil en Verseau, Lune en Capricorne met la Lune un signe en arrière du Soleil, juste avant une nouvelle lune. Les deux luminaires sont en exil, et Saturne gouverne les deux signes dans la tradition. J’y vois un moi voué à un avenir meilleur pour beaucoup de gens, dont les besoins se posent une fois les responsabilités claires."
 facts:
   - { k: "Signe solaire", v: "Verseau ♒, gouverné par Uranus et Saturne ; exil du Soleil" }
   - { k: "Signe lunaire", v: "Capricorne ♑, gouverné par Saturne ; exil de la Lune" }

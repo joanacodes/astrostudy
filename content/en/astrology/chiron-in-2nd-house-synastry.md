@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 122
 glyph: "⚷"
-definition: "Their Chiron in your 2nd house means the other person’s Chiron falls in the house of what you have and value: money, belongings, skills you could live from, self-worth. In synastry what they learned the hard way meets your resources; they often see what you undervalue, and your ease or thrift may touch an old sore spot."
+definition: "Their Chiron in your 2nd house places the other person’s Chiron among what you have and value: money, belongings, skills you could live from, self-worth. In synastry what they learned the hard way meets your resources; they often see what you undervalue, and your ease or thrift may touch an old sore spot."
 facts:
   - { k: "Their body", v: "Their Chiron ⚷" }
   - { k: "Your house", v: "The 2nd house: money, belongings, self-worth" }
@@ -20,7 +20,7 @@ faq:
     a: "No. An overlay can’t forecast what anyone will earn, lose or owe. It describes how two people handle worth together: they may spot a skill you undercharge for, and your attitude to money may brush an old sore spot of theirs. Talking plainly about money keeps that from turning into guesswork."
   - q: "Why does someone with Chiron in my 2nd house notice what I undervalue?"
     a: "Because people who have had to adapt around a sore spot of their own tend to know what effort is worth, including yours. That makes them quick to see when you give your skills away. Take the observation if it helps; your prices and your values stay yours to set."
-  - q: "How does my Chiron in their 2nd house feel to me?"
+  - q: "Why do I want to advise them on money when my Chiron is in their 2nd house?"
     a: "Often like watching someone handle money and comfort in a way that presses on your own sore spot, whatever it concerns. Their spending, saving or modesty can stir old feelings, and you may itch to advise them. Offer it only when asked, and let them decide what they value."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the 2nd house and what tradition gave it" }

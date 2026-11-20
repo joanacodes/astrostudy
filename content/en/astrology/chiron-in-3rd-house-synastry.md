@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 123
 glyph: "⚷"
-definition: "Their Chiron in your 3rd house means the other person’s Chiron falls in the house of your everyday mind: talk, messages, learning, siblings and neighbours. In synastry their hard-won patience enters your daily conversations: they often explain and listen unusually well, while your offhand words can brush a sore spot of theirs."
+definition: "With their Chiron in your 3rd house, the other person’s Chiron sits in the house of your everyday mind: talk, messages, learning, siblings and neighbours. In synastry their hard-won patience enters your daily conversations: they often explain and listen unusually well, while your offhand words can brush a sore spot of theirs."
 facts:
   - { k: "Their body", v: "Their Chiron ⚷" }
   - { k: "Your house", v: "The 3rd house: talk, messages, learning, the people nearby" }
@@ -20,7 +20,7 @@ faq:
     a: "Because their own experience of adapting often makes them patient listeners and careful explainers. In your everyday talk, messages and learning, they rarely make you feel slow, and may help you find another way into a subject you gave up on. What you say can also brush their old sore spot, so tact runs both ways."
   - q: "Can their Chiron in my 3rd house cause misunderstandings?"
     a: "It can make them feel bigger. A throwaway word or a terse message may land on something tender in them, and their corrections may sound to you like being talked down to. Asking what was meant, before reacting, usually settles it. The overlay describes sensitivity in talk, not a fated quarrel."
-  - q: "What is it like when my Chiron is in their 3rd house?"
+  - q: "Why do their offhand remarks sting when my Chiron is in their 3rd house?"
     a: "Their everyday chatter, questions and opinions reach the place where you have had to adapt, so ordinary conversations can stir more than they seem to. You may find yourself teaching them, patiently, what you learned the long way. Let them learn at their own pace, and say when a joke touched a nerve."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the 3rd house, called the Goddess" }

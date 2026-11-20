@@ -1,7 +1,7 @@
 ---
 title: "Sun in Aquarius, Moon in Capricorn"
 h1: "Sun in Aquarius, Moon in Capricorn in a birth chart"
-description: "Sun in Aquarius, Moon in Capricorn: no other pair puts both lights in detriment. Saturn stands behind each, in the balsamic days before a new moon."
+description: "Sun in Aquarius, Moon in Capricorn: no other pair puts both lights in detriment. Saturn stands behind each, in the dark days before a new moon."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

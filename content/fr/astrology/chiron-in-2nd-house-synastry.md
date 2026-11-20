@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 122
 glyph: "⚷"
-definition: "Chiron de l’autre dans votre maison 2 signifie que son Chiron tombe dans la maison de vos ressources et de votre valeur : argent, biens, estime de soi. En synastrie, ce qu’elle a appris à la dure rencontre vos ressources : cette personne voit ce que vous sous-estimez, et votre rapport à l’argent touche chez elle un vieux point sensible."
+definition: "Chiron de l’autre dans votre maison 2 place son Chiron parmi vos ressources et ce qui fait votre valeur : argent, biens, estime de soi. En synastrie, ce qu’elle a appris à la dure rencontre vos ressources : cette personne voit ce que vous sous-estimez, et votre rapport à l’argent touche chez elle un vieux point sensible."
 facts:
   - { k: "Corps de l’autre", v: "Le Chiron de l’autre ⚷" }
   - { k: "Votre maison", v: "La maison 2 : l’argent, les biens, l’estime de soi" }
@@ -21,7 +21,7 @@ faq:
     a: "Non. Une superposition ne peut pas prédire ce que quelqu’un gagnera, perdra ou devra. Elle décrit la façon dont deux personnes vivent la valeur ensemble : l’autre repère peut-être un talent que vous bradez, et votre rapport à l’argent effleure un vieux point sensible chez elle. En parler franchement évite les devinettes."
   - q: "Pourquoi une personne dont le Chiron est dans ma maison 2 voit-elle ce que je sous-estime ?"
     a: "Parce qu’une personne qui a dû s’adapter autour d’un point sensible sait souvent ce que vaut un effort, le vôtre compris. Cela lui fait vite voir quand vous bradez vos talents. Prenez la remarque si elle vous sert ; vos prix et vos valeurs restent les vôtres."
-  - q: "Que ressent-on quand son propre Chiron tombe dans la maison 2 de l’autre ?"
+  - q: "Pourquoi ai-je envie de conseiller l’autre sur l’argent quand mon Chiron est dans sa maison 2 ?"
     a: "Souvent l’impression de voir quelqu’un manier l’argent et le confort d’une façon qui appuie sur votre propre point sensible, quel qu’il soit. Ses dépenses, ses économies ou sa modestie réveillent de vieux sentiments, et l’envie de conseiller vous démange. Ne le faites que sur demande, et laissez-la décider de ce qui compte."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "la maison 2 et ce que la tradition lui donnait" }

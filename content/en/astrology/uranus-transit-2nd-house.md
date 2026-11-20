@@ -17,7 +17,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/2nd-house", "/astrology/transits", "/astrology/uranus-in-2nd-house", "/astrology/can-astrology-pick-investments"]
 faq:
   - q: "Will Uranus in my 2nd house make me lose money?"
-    a: "No transit decides that, and I don’t read gains or losses in a chart. Uranus in the 2nd describes years when the way you earn, spend or value things wants to change, sometimes quickly. What you do with that wish, and with your money, remains your decision."
+    a: "Nothing in a transit settles that, and I don’t read gains or losses in a chart. Uranus in the 2nd describes years when the way you earn, spend or value things wants to change, sometimes quickly. What you do with that wish, and with your money, remains your decision."
   - q: "What does Uranus in the 2nd ask of me?"
     a: "To look at what you rely on and ask whether it still matches who you are: a way of earning that fits the life you want, values you chose rather than inherited, and a sense of worth that doesn’t rise and fall with your balance."
   - q: "Is Uranus’s stay in the 2nd shorter than average?"

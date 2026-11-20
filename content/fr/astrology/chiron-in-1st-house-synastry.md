@@ -17,11 +17,11 @@ facts:
   - { k: "Il faut", v: "Votre heure de naissance ; sa date de naissance place déjà son Chiron" }
 related: ["/astrology/chiron", "/astrology/1st-house", "/astrology/house-overlays", "/astrology/ascendant", "/astrology/chiron-in-1st-house"]
 faq:
-  - q: "Que veut dire le Chiron de quelqu’un dans ma maison 1 ?"
-    a: "Sa vieille blessure, et le savoir-faire qu’elle lui a donné, tombent sur la part de votre thème que l’on rencontre en premier : votre allure, votre corps, votre façon de commencer. À ses côtés, votre manière de paraître vous pèse souvent moins, et votre présence touche en elle un point sensible. Cela décrit une rencontre, jamais une blessure infligée."
+  - q: "Que change le Chiron de l’autre dans ma maison 1 à ma façon de paraître ?"
+    a: "Sa vieille blessure, et le savoir-faire qu’elle lui a donné, tombent sur la part de votre thème que l’on rencontre en premier : votre allure, votre silhouette, vos premiers gestes. À ses côtés, votre manière de paraître vous pèse souvent moins, et votre présence touche en elle un point sensible. Cela décrit une rencontre, jamais une blessure infligée."
   - q: "Une personne dont le Chiron est dans ma maison 1 va-t-elle me donner des complexes ?"
     a: "Parfois, au début. Son attention va droit à votre façon de vous tenir, parce que c’est là qu’elle a dû s’adapter autrefois. Le plus souvent, cela devient de l’aisance : elle sait quelles remarques piquent et lesquelles aident. Si ses conseils sur votre allure ou votre voix deviennent trop nombreux, dites-le simplement."
-  - q: "Que ressent-on quand son propre Chiron tombe dans la maison 1 de l’autre ?"
+  - q: "Pourquoi ai-je envie de coacher l’autre quand mon Chiron tombe dans sa maison 1 ?"
     a: "Souvent un choc de reconnaissance quand cette personne entre dans une pièce. Son allure appuie là où vous avez dû le plus travailler pour être à l’aise, et vous aimeriez lui épargner le même effort. La gentillesse, ici, consiste à la laisser telle qu’elle est, sans la coacher."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "la maison 1, là où commence le thème" }
