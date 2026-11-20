@@ -23,7 +23,7 @@ faq:
   - q: "Neptune opposition Nœud Nord, est-ce la même chose que Neptune conjonction Nœud Sud ?"
     a: "Oui, entre deux thèmes comme dans un seul. Les deux nœuds sont toujours exactement opposés : à 180° du Nœud Nord de quelqu’un, Neptune se trouve sur son Nœud Sud. Je le nomme par le Nœud Nord, comme le font en général les astrologues, et je lis les deux bouts ensemble."
   - q: "Est-ce que Neptune opposition Nœud Nord retient quelqu’un ?"
-    a: "Pas à lui seul. Le Nœud Sud est une force établie, pas un défaut, et le voir aimé par quelqu’un est un vrai cadeau. Le risque est seulement que le confort rende la nouvelle direction facile à remettre à plus tard. Faire entrer le neuf dans cette compagnie familière garde la balançoire en mouvement."
+    a: "Ce contact, seul, ne retient personne. Le Nœud Sud est une force établie, pas un défaut, et le voir aimé par quelqu’un est un vrai cadeau. Le risque est seulement que le confort rende la nouvelle direction facile à remettre à plus tard. Faire entrer le neuf dans cette compagnie familière garde la balançoire en mouvement."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’opposition, 180°, parmi ses quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui opposent Neptune, chez l’une, au Nœud Nord vrai de l’autre, à 4° près" }

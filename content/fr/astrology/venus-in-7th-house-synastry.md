@@ -27,7 +27,7 @@ sources:
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "Vénus, maîtresse de la Balance" }
 ---
-Vénus de l’autre dans votre maison 7 se pose là où vous cherchez un partenaire. Quel que soit le lien qui vous unit, amour, amitié, association, le tête-à-tête avec cette personne paraît facile, juste et agréable, et c’est ce qui vaut à cette superposition sa réputation.
+Vénus de l’autre dans votre maison 7 se pose là où vous cherchez votre vis-à-vis. Quel que soit le lien qui vous unit, amour, amitié, association, le tête-à-tête avec cette personne paraît facile, juste et agréable, et c’est ce qui vaut à cette superposition sa réputation.
 
 ## Ce que ça apporte {#ce-que-ca-apporte}
 

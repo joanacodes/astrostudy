@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 47
 glyph: "♀"
-definition: "Their Venus in your 11th house warms your circle: the other person’s affection reaches your friends, your groups and your hopes for the future. In synastry there is usually a real friendship in the bond, whatever else it is, though affection spread across a group can run thin. Tradition called this house the Good Spirit."
+definition: "Their Venus in your 11th house warms your circle: the other person’s affection reaches your friends, your groups and your hopes for the future. In synastry there is usually a real friendship in the bond, whatever else it is, though affection spread across a group can run thin. Its old name, the Good Spirit, still fits."
 facts:
   - { k: "Their body", v: "Their Venus ♀" }
   - { k: "Your house", v: "The 11th house, friends, circles and shared hopes" }
@@ -30,11 +30,11 @@ Their Venus in your 11th house is friendship with a glow. The other person likes
 
 ## What it brings {#what-it-brings}
 
-Friends you choose, groups and networks, the causes you join and the future you hope for belong to [the 11th house](/astrology/11th-house/). [Venus](/astrology/venus/) is affinity and appreciation, the sense of being among your own kind. As a [house overlay](/astrology/house-overlays/), it brings their warmth into your circle.
+Friends you choose, groups and networks, the causes you join and the future you hope for belong to [the 11th house](/astrology/11th-house/). [Venus](/astrology/venus/) is affinity and appreciation, the sense of being among your own kind. Put their Venus there, a [house overlay](/astrology/house-overlays/), and their warmth joins your circle.
 
 You may find that they get on with your friends at once, turn up to the group outing and make it better, and take your hopes seriously. Plans for the future feel lighter when they share them. In a couple, this overlay often means you're friends as well as partners, which is worth more than it sounds.
 
-They feel welcome in your circle and enjoy the people around you. Your ideals appeal to them, and being part of your community gives them a sense of belonging. The 11th is succedent; tradition named it the Good Spirit and gave Jupiter its joy there. [Aquarius](/astrology/aquarius/), its natural sign, had Saturn for its ruler in the old scheme and has Uranus in the modern one, and I keep both in view: loyalty and independence together.
+They feel welcome in your circle and enjoy the people around you. Your ideals appeal to them, and being part of your community gives them a sense of belonging. Old astrologers counted the 11th, a succedent house, among the fortunate ones and called it the Good Spirit; Jupiter has its joy there. [Aquarius](/astrology/aquarius/), its natural sign, had Saturn for its ruler in the old scheme and has Uranus in the modern one, and I read both: loyalty and independence together.
 
 ## Where it rubs {#where-it-rubs}
 

@@ -47,7 +47,7 @@ Les anciens livres cherchaient les enfants dans la maison 5, et certains astrolo
 
 ## Comment le vivre {#comment-le-vivre}
 
-Convenez d’un signal pour « celle-là n’est pas drôle », et servez-vous-en sans faire d’histoire. Créez ensemble : une liste de morceaux, une recette, une histoire écrite un paragraphe chacun. Dans un couple, continuez à vous séduire par les mots bien après les premiers mois ; entre amis, c’est la personne avec qui l’on écrit des bêtises ; entre collègues, les séances d’idées marchent bien, pourvu que quelqu’un note les bonnes ; entre proches adultes, celle qui joue encore aux vieux jeux de famille, et qui gagne.
+Convenez d’un signal pour « celle-là n’est pas drôle », et servez-vous-en sans faire d’histoire. Créez ensemble : une liste de morceaux, une recette, une histoire écrite à quatre mains, paragraphe après paragraphe. Dans un couple, continuez à vous séduire par les mots bien après les premiers mois ; entre amis, c’est la personne avec qui l’on écrit des bêtises ; entre collègues, les séances d’idées marchent bien, pourvu que quelqu’un note les bonnes ; entre proches adultes, celle qui joue encore aux vieux jeux de famille, et qui gagne.
 
 Changez de place, et c’est votre Mercure dans sa maison 5 : votre humour et votre curiosité entrent dans ce qui lui plaît. D’un côté, [Mercure de l’autre dans votre maison 4](/astrology/mercury-in-4th-house-synastry/) garde la conversation à la maison ; de l’autre, [Mercure de l’autre dans votre maison 6](/astrology/mercury-in-6th-house-synastry/) la met au service du quotidien.
 

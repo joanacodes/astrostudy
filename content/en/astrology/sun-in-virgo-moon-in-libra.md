@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 67
 glyph: "☉♍☽♎"
-definition: "Sun in Virgo, Moon in Libra places the Moon one sign ahead of the Sun, in Libra, within five days after a new moon. Mercury rules the Sun’s sign and Venus the Moon’s, and Venus has its fall in Virgo. I read it as precision that wants to be kind, and fairness that wants to be exact."
+definition: "Sun in Virgo, Moon in Libra puts a Libra Moon just past a Virgo Sun, no more than five days into the lunar month. Mercury rules the Sun’s sign and Venus the Moon’s, and Venus has its fall in Virgo. I read it as precision that wants to be kind, and fairness that wants to be exact."
 facts:
   - { k: "Sun sign", v: "Virgo ♍, ruled by Mercury; the sign of Venus’s fall" }
   - { k: "Moon sign", v: "Libra ♎, ruled by Venus" }
@@ -21,8 +21,8 @@ faq:
     a: "Yes, and learning how is this pair’s work. The Virgo Sun wants things done exactly and said accurately; the Libra Moon needs harmony and fairness with the people around it. The trick is timing: the true thing, said gently and early, before it has had time to grow sharp."
   - q: "Where is Venus for a Sun in Virgo, Moon in Libra?"
     a: "Anywhere from Cancer to Scorpio, since Venus never strays more than about 47° from the Sun. Venus rules Libra, your Moon’s sign: in Libra it is at home beside your Moon, and in Virgo it is in its fall beside your Sun. Its sign and house show how easily your need for harmony is met."
-  - q: "How young was the Moon at a Sun in Virgo, Moon in Libra birth?"
-    a: "Very young: from a few hours to nearly five days old, 0° to 60° ahead of the Sun. Close to nine of these births in ten fall in the new moon phase of the eight and the rest in the waxing crescent; the new moon they follow was usually in Virgo."
+  - q: "How many days old was the Moon for a Virgo Sun with a Libra Moon?"
+    a: "Very young, at most five days old, and no more than 60° ahead of the Sun. Rudhyar’s new moon phase takes almost nine of these births in ten, his crescent the remainder; the new moon they follow was usually in Virgo."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Mercury’s rule of Virgo, and Venus’s rule of Libra and fall in Virgo" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s lead over the Sun" }
@@ -32,11 +32,11 @@ Your Moon had already slipped into Libra, the sign that opens at the September e
 
 ## How they get along {#how-they-get-along}
 
-Earth and air, mutable and cardinal, and the Moon one sign ahead of the Sun: neighbours with little in common but the border. The [Sun in Virgo](/astrology/sun-in-virgo/) organises itself around discernment, getting things exactly right; the [Moon in Libra](/astrology/moon-in-libra/) settles when there is balance and good feeling between you and the people around you. So you tend to see the flaw and to feel the cost of naming it in the same moment.
+Earth and air, mutable and cardinal, with the Moon a single sign further on than the Sun: neighbours with little in common but the border. The [Sun in Virgo](/astrology/sun-in-virgo/) organises itself around discernment, getting things exactly right; the [Moon in Libra](/astrology/moon-in-libra/) settles when there is balance and good feeling between you and the people around you. So you tend to see the flaw and to feel the cost of naming it in the same moment.
 
 [Mercury](/astrology/mercury/) rules Virgo and is exalted there; [Venus](/astrology/venus/) rules Libra. Venus can roam up to 47° or so from the Sun, which for a Virgo Sun means anywhere from Cancer to Scorpio, and two of those signs tell a story of their own: in Libra, Venus is at home with your Moon, and in Virgo, beside your Sun, it is in its fall. Where your Venus sits says how easily the Moon's need for harmony is met. Neither light carries a dignity in these signs, though Libra is, by tradition, where the Sun has its fall and Saturn its exaltation.
 
-Only days, at most five, separated your birth from the new moon before it: the Moon stood 0° to 60° ahead of the Sun. Close to nine births in ten belong to the [new moon](/astrology/new-moon/) phase and the rest to the [waxing crescent](/astrology/waxing-crescent/), and that new moon was usually a [new moon in Virgo](/astrology/new-moon-in-virgo/). In the first hours of the range the two lights may sit a few degrees apart across the Virgo–Libra border, a conjunction that ignores the sign line ([out-of-sign aspects](/astrology/out-of-sign-aspects/)) and still counts as a [Sun conjunct Moon](/astrology/sun-conjunct-moon/). [Your birth lunar phase](/astrology/your-birth-lunar-phase/) describes the new moon phase in full.
+Only days, at most five, separated your birth from the new moon before it: the Moon stood 0° to 60° ahead of the Sun. The [new moon](/astrology/new-moon/) phase holds almost all of them, roughly nine in ten, the [waxing crescent](/astrology/waxing-crescent/) the rest, and that new moon was usually a [new moon in Virgo](/astrology/new-moon-in-virgo/). In the first hours of the range the two lights may sit a few degrees apart across the Virgo–Libra border, a conjunction that ignores the sign line ([out-of-sign aspects](/astrology/out-of-sign-aspects/)) and still counts as a [Sun conjunct Moon](/astrology/sun-conjunct-moon/). [Your birth lunar phase](/astrology/your-birth-lunar-phase/) describes the new moon phase in full.
 
 About 1 person in 141 has these lights. If the Moon crossed into Libra or out of it on the day you were born, the time chooses between this page, the [Sun in Virgo, Moon in Virgo](/astrology/sun-in-virgo-moon-in-virgo/) and the [Sun in Virgo, Moon in Scorpio](/astrology/sun-in-virgo-moon-in-scorpio/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). Born around 22 September, at the equinox, your Sun's sign depends on it as well, and the rising sign always does.
 
