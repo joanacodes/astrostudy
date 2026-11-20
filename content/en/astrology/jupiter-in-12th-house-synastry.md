@@ -16,7 +16,7 @@ facts:
   - { k: "Needs", v: "Your birth time, decisive near your Ascendant" }
 related: ["/astrology/jupiter", "/astrology/12th-house", "/astrology/house-overlays", "/astrology/astrology-and-mental-health", "/astrology/pisces"]
 faq:
-  - q: "Why do I feel so quietly supported by someone whose Jupiter is in my 12th house?"
+  - q: "Why does a person with their Jupiter in my 12th house look after me without being asked?"
     a: "Because their generosity lands in the private part of your life: rest, solitude, reflection, the things you carry without saying. Their help tends to come without fuss, and you may only see its size later. It describes a quiet kindness between you, not a rescue or a warning."
   - q: "Is their Jupiter in my 12th house a guardian angel?"
     a: "It’s a lovely image, but a chart doesn’t promise protection. Tradition called Jupiter a benefic; here that generosity works quietly, in your inner life. What it offers is support and meaning you can recognise, not a guarantee against hard times."

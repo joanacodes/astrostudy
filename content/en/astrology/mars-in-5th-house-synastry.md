@@ -20,7 +20,7 @@ faq:
     a: "It can show up that way: their drive lands in the house of romance and play, so interest tends to be direct and lively. But an overlay describes energy, not an outcome, and friends and colleagues feel it too, as competitive fun or creative courage. What two adults do with an attraction is theirs to choose."
   - q: "Can their Mars in my 5th house mean we’ll have a baby?"
     a: "No. The old link between the 5th and children doesn’t turn an overlay into a forecast: no chart can foresee a pregnancy, and I don’t look for one in a synastry. Children’s charts aren’t something I read either. What I read here is two adults’ play, courage and desire."
-  - q: "Is it fun for them to have their Mars in my 5th house?"
+  - q: "Does the Mars person enjoy my sense of fun?"
     a: "Usually, yes: your sense of fun gives their drive a game worth playing, and they may feel bolder and more creative with you. They can also feel that your lightness doesn’t match their intensity. Telling them what kind of play tempts you keeps it enjoyable for both."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave the 5th" }

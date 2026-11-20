@@ -16,8 +16,8 @@ facts:
   - { k: "Needs", v: "Your birth time; their date places their Jupiter" }
 related: ["/astrology/jupiter", "/astrology/1st-house", "/astrology/house-overlays", "/astrology/ascendant", "/astrology/benefics-and-malefics"]
 faq:
-  - q: "Why do I feel bigger around someone whose Jupiter is in my 1st house?"
-    a: "Because their sense of growth and generosity lands on how you show up: your manner, your body, your first moves. They tend to see possibilities in you and say so, and you may take up more room in their company. It describes encouragement between you, not a promise about where it leads."
+  - q: "How does their Jupiter in my 1st house change the way I show up?"
+    a: "It tends to widen it. Their sense of growth and generosity lands on your manner, your body and your first moves; they see possibilities in you and say so, and you may take up more room in their company. It describes encouragement between you, not a promise about where it leads."
   - q: "Is their Jupiter in my 1st house lucky?"
     a: "Tradition called Jupiter a benefic, and the overlay often feels kind: someone who widens your sense of what you could be. But it isn’t luck, and it guarantees nothing. It describes how they tend to see you and how you feel around them, which the two of you shape together."
   - q: "Do they enjoy encouraging me, with their Jupiter in my 1st house?"

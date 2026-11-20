@@ -16,8 +16,8 @@ facts:
   - { k: "Needs", v: "Your birth time; theirs only for a Mars right on your IC" }
 related: ["/astrology/mars", "/astrology/4th-house", "/astrology/house-overlays", "/astrology/imum-coeli", "/blog/synastry-behind-their-back"]
 faq:
-  - q: "Is their Mars in my 4th house good for living together?"
-    a: "It can bring a lot of energy to a shared home: projects, repairs, a household that gets things done. It can also mean friction where you would like to rest. The overlay doesn’t decide whether living together works; agreeing on space, pace and when to stop usually does more than any chart can."
+  - q: "Will their Mars in my 4th house cause trouble if we live together?"
+    a: "No overlay forecasts that. It can bring a lot of energy to a shared home, with projects, repairs and a household that gets things done, and some friction where you would like to rest. Agreeing on space, pace and when to stop usually does more than any chart can."
   - q: "Why do I find it hard to settle at home when they’re around?"
     a: "Your private life is where their drive lands, so the place where you recharge picks up their pace. Some of that is welcome, because things move. Some of it can feel like having no corner left to rest in. Saying which rooms, hours or habits are yours helps both of you."
   - q: "What is it like for them to have their Mars in my 4th house?"

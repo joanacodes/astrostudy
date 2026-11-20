@@ -20,8 +20,8 @@ faq:
     a: "It can be part of it. Their drive lands in the house of your everyday talk, so conversations tend to turn lively, and sometimes into debates with a winner. The same overlay often makes you braver about speaking up. Rules as simple as one topic at a time help it stay lively without turning sharp."
   - q: "What does Mars in the 3rd house mean between siblings?"
     a: "Between adult siblings, it tends to describe how you talk and push each other now: quick exchanges, teasing, old competitions over who knows best. It describes your experience of the bond, not who was right as children. Naming the roles you fall back into can change how the conversations go."
-  - q: "How does the Mars person experience my 3rd house?"
-    a: "Often as a lively place to think out loud. Your curiosity and quickness give their drive someone to spar with, and they may get plans going simply by talking to you. They can also feel corrected, or feel that their challenges slide off you, and push harder to be heard."
+  - q: "Is talking with me a pleasure or a fight for the Mars person?"
+    a: "Often a pleasure: a lively place to think out loud. Your curiosity and quickness give their drive someone to spar with, and they may get plans going simply by talking to you. They can also feel corrected, or feel that their challenges slide off you, and push harder to be heard."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the 3rd house and its old matters" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Gemini, one of the double-bodied signs" }

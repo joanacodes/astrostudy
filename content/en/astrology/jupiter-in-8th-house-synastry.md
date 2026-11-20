@@ -20,7 +20,7 @@ faq:
     a: "No. Tradition gave the 8th inheritance and called Jupiter a benefic, but no chart can predict what anyone will receive, or any death that might bring it. This overlay describes generosity in trust, intimacy and what you share now, between two living adults."
   - q: "Why do I trust them so easily?"
     a: "With their Jupiter in your 8th house, their generosity reaches the place where trust is given, so opening up can feel natural and well placed. That can be a real gift. It still helps to agree the practical terms of anything shared, so that trust rests on clarity as well as warmth."
-  - q: "What does my 8th house offer the Jupiter person?"
+  - q: "What do they find in sharing so much with me?"
     a: "Often a depth their search for meaning can explore: they may learn from what you’ve lived through and feel enlarged by your trust. They may also take your reserve as distrust, or feel their generosity is being examined for motives. Telling them what their support has meant helps."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the 8th and its old matters" }

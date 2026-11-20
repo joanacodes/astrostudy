@@ -16,7 +16,7 @@ facts:
   - { k: "Needs", v: "Your birth time: a few minutes can move it into your 1st" }
 related: ["/astrology/mars", "/astrology/12th-house", "/astrology/house-overlays", "/astrology/astrology-and-mental-health", "/astrology/ascendant"]
 faq:
-  - q: "Why do I feel unsettled around someone whose Mars is in my 12th house?"
+  - q: "Why does their Mars in my 12th house leave me unsettled?"
     a: "Because their drive reaches the private part of your life, where things work below the surface. Their push may stir feelings, wishes or irritations you haven’t named yet. That isn’t a warning sign about either of you; naming what you notice, early and simply, usually brings it into the open."
   - q: "Is their Mars in my 12th house a hidden enemy?"
     a: "No. Tradition gave the 12th hidden enemies, but an overlay doesn’t make anyone a threat, and I never read it that way. It describes their drive meeting your inner life: protective on some days, unsettling on others. Talking openly keeps it from turning into guesswork."

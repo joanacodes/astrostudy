@@ -18,8 +18,8 @@ related: ["/astrology/mars", "/astrology/10th-house", "/astrology/house-overlays
 faq:
   - q: "Does their Mars in my 10th house help my career?"
     a: "It can push it: their drive lands on your public role, so around them you may take more initiative, apply sooner or lead more readily. It doesn’t predict success, for you or for them. It describes energy in your working life, which can feel like support on some days and like pressure or competition on others."
-  - q: "Why do I feel competitive with someone whose Mars is in my 10th house?"
-    a: "Because their drive and your ambition meet in the same place: your standing and your work. Two people pushing towards visible goals can end up racing each other. Saying what you each want, and which goals are shared and which aren’t, turns rivalry back into encouragement."
+  - q: "Can their Mars in my 10th house make us rivals at work?"
+    a: "It can feel that way, because their drive and your ambition meet in the same place: your standing and your work. Two people pushing towards visible goals can end up racing each other. Saying what you each want, and which goals are shared and which aren’t, turns rivalry back into encouragement."
   - q: "What does my 10th house give the person whose Mars it holds?"
     a: "Often a field worth working in: your public role gives their drive a target, and they may enjoy championing you or working at your side. They can also feel uncredited, or held back by your pace. Acknowledging the push they gave, when it helped, keeps the energy generous."
 sources:
