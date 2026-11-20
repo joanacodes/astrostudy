@@ -14,11 +14,11 @@ until 3:50 am Paris Friday 20th November" (= 02:50 UTC).
 
 ## Running (agent ids, for SendMessage after a container restart)
 - sunmoon[2] a6c3ea8b485bd12f3 · overlay[2] abd805cc28cfebe2e · syn[12] a926f8a62c95646d9 · transit[0] a292a6bfb49f5c587
-- syn[14] a65141d8a73370aa6 · syn[15] a6f9582a2f17106e1
+- syn[14] a65141d8a73370aa6 · cycles[0] acb0d53b9c0c99313
 - sunmoon[3] a9e788466d03660fa · overlay[1] a92ce1dd6cb21363b
-- done since restart: dark mode (4fdde73, 90b6ec6, 0f17d53) · syn[4] leftovers + syn[11] (4d6c424) · syn[8] (in WIP commits) · syn[10] (2707169) · overlay[0] (36d02aa) · syn[7] (1dabb0b) · syn[9] (50d2eaa) · sunmoon[0] leftovers + sunmoon[1] (5bf0895) · syn[13] (b529af0) · moon.md birth-time fix (37600e8)
+- done since restart: dark mode (4fdde73, 90b6ec6, 0f17d53) · syn[4] leftovers + syn[11] (4d6c424) · syn[8] (in WIP commits) · syn[10] (2707169) · overlay[0] (36d02aa) · syn[7] (1dabb0b) · syn[9] (50d2eaa) · sunmoon[0] leftovers + sunmoon[1] (5bf0895) · syn[13] (b529af0) · syn[15] (in WIP commits) · moon.md birth-time fix (37600e8)
 - on main: 46e7daf (dark mode + 270 pages), deployed 23:03 UTC
-- next: sunmoon[4..5], overlay[3..6], transit[1..3], cycles[0..2], t2concepts[0..4], t2tech, t2patterns, t2research[0..2], t2asteroids, stars, then tier 3
+- next: sunmoon[4..5], overlay[3..6], transit[1..3], cycles[1..2], t2concepts[0..4], t2tech, t2patterns, t2research[0..2], t2asteroids, stars, then tier 3
 
 ## Publishing to main
 Worktree from origin/main; git merge --no-ff --no-commit origin/claude/astrostudy-website-tdhyzt; git rm the files of
