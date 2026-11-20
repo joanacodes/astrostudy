@@ -18,10 +18,10 @@ facts:
 related: ["/astrology/black-moon-lilith", "/astrology/8th-house", "/astrology/house-overlays", "/astrology/can-astrology-predict-death", "/astrology/which-lilith-is-mine"]
 faq:
   - q: "Sa Lilith dans ma maison 8 annonce-t-elle un lien sexuel intense ?"
-    a: "Pas comme une prédiction. Lilith couvre l’autonomie, l’instinct et ce qui a été mis de côté, et dans votre maison 8, elle rencontre votre intimité et votre confiance : la proximité avec cette personne demande peut-être plus d’honnêteté que d’habitude. Qu’une intimité, quelle qu’elle soit, ait lieu ou non est un choix libre de deux adultes, chaque pas avec le oui des deux."
+    a: "Pas comme une prédiction. Le désir n’est qu’un fil de Lilith, à côté de l’autonomie et de tout ce qui a été écarté ; ici, elle touche votre intimité et votre confiance : la proximité avec cette personne demande peut-être plus d’honnêteté que d’habitude. Qu’une intimité, quelle qu’elle soit, ait lieu ou non est un choix libre de deux adultes, chaque pas avec le oui des deux."
   - q: "Pourquoi les demi-vérités ne marchent-elles plus une fois sa Lilith dans ma maison 8 ?"
     a: "Sa Lilith porte le refus de vivre selon des arrangements fondés sur le silence, et dans votre maison de l’intimité et des affaires communes, elle rencontre les vôtres. Avec cette personne, ce que vous n’avez pas dit tend à remonter, sur le désir, l’argent ou la confiance. Partagez au rythme que vous choisissez ; l’honnêteté n’exige pas de tout dire d’un coup."
-  - q: "Que remue ma Lilith quand elle tombe dans la maison 8 de quelqu’un ?"
+  - q: "Ma Lilith dans la maison 8 de quelqu’un : qu’est-ce que cela réveille chez cette personne ?"
     a: "Votre côté sans fard rencontre son intimité, sa confiance et ses affaires communes : cette personne se sent peut-être invitée à baisser la garde, ou craint d’être possédée. Respectez sa discrétion comme une limite, pas comme un secret à percer, et laissez-la fixer une part du rythme."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "la maison 8, ce qui se partage et se doit" }
@@ -40,7 +40,7 @@ Pour elle, l’intimité avec vous est l’endroit où son moi sans défense peu
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
-L’honnêteté et la discrétion peuvent se heurter. L’une des deux personnes veut peut-être plus de vérité que l’autre ne peut encore en donner, et la pression à tout dire finit par ressembler à une fouille. L’argent commun ou une décision partagée peut tourner à la question de savoir qui tient le pouvoir. Si l’intimité fait partie du lien, rien n’est jamais dû : chaque pas demande le oui libre des deux, et Lilith ne prédit ici rien de la vie sexuelle de qui que ce soit.
+L’honnêteté et la discrétion peuvent se heurter. L’une des deux personnes veut peut-être plus de vérité que l’autre ne peut encore en donner, et la pression à tout dire finit par ressembler à une fouille. L’argent commun ou une décision partagée peut tourner à la question de savoir qui tient le pouvoir. Si l’intimité fait partie du lien, rien n’est jamais dû : il faut à chaque étape un oui donné librement de part et d’autre, et cette superposition ne prédit rien du désir passé à l’acte.
 
 De son côté, votre prudence peut ressembler à une porte fermée dont on lui interdit l’approche, ou votre ouverture à une prise sur elle. Dans les deux cas, elle peut s’éloigner juste au moment où tout se rapproche.
 

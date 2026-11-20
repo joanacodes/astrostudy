@@ -1,13 +1,13 @@
 ---
 title: "Their Lilith in your 8th house"
 h1: "Their Lilith in your 8th house in synastry"
-description: "Their Lilith in your 8th house in synastry: their bare honesty meeting your intimacy, trust and shared money, felt both ways, with consent and no forecast of loss."
+description: "Their Lilith in your 8th house in synastry: bare honesty meeting your intimacy, trust and shared money, felt both ways, with consent and no forecast of loss."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 140
 glyph: "⚸"
-definition: "Their Lilith in your 8th house draws the other person’s mean Black Moon Lilith into your house of intimacy, trust and what is shared or owed. In synastry their unvarnished truth meets your closeness: half-truths stop working, while your boundaries can free or provoke them. It never predicts sex, loss or death."
+definition: "Their Lilith in your 8th house pulls the other person’s mean Black Moon Lilith into your house of intimacy, trust and what is shared or owed. In synastry their unvarnished truth meets your closeness: half-truths stop working, while your boundaries can free or provoke them. It never predicts sex, loss or death."
 facts:
   - { k: "Their body", v: "Their Black Moon Lilith ⚸ (mean)" }
   - { k: "Your house", v: "The 8th house: intimacy, trust, what is shared or owed" }
@@ -16,11 +16,11 @@ facts:
   - { k: "Needs", v: "Your birth time; mean Lilith in both charts" }
 related: ["/astrology/black-moon-lilith", "/astrology/8th-house", "/astrology/house-overlays", "/astrology/can-astrology-predict-death", "/astrology/which-lilith-is-mine"]
 faq:
-  - q: "Does their Lilith in my 8th house mean an intense sexual connection?"
-    a: "Not as a forecast. Lilith covers autonomy, instinct and what was pushed aside, and in your 8th house it meets your intimacy and trust, so closeness with them may ask for more honesty than usual. Whether intimacy of any kind happens is a choice two adults make freely, each step with both saying yes."
+  - q: "Should I expect an intense sexual connection from their Lilith in my 8th house?"
+    a: "Not as a forecast. Desire is only one strand of Lilith, alongside autonomy and whatever was pushed aside; here it touches your intimacy and trust, so closeness with them may ask for more honesty than usual. Whether intimacy of any kind happens is a choice two adults make freely, each step with both saying yes."
   - q: "Why do half-truths stop working once their Lilith is in my 8th house?"
     a: "Their Lilith carries a refusal to live by arrangements built on silence, and in your house of intimacy and shared matters it meets yours. With them, what you haven’t said tends to surface, about desire, money or trust. Share at a pace you choose; honesty doesn’t require telling everything at once."
-  - q: "What do I stir when my Lilith lands in someone’s 8th house?"
+  - q: "If my Lilith sits in someone’s 8th house, what does that wake in them?"
     a: "Your unvarnished side meets their intimacy, trust and joint affairs, so they may feel invited to drop their guard, or afraid of being possessed. Respect their privacy as a boundary, not a secret to uncover, and let them set part of the pace."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the 8th house, what is shared and owed" }
@@ -39,7 +39,7 @@ For them, intimacy with you is where their unguarded self can appear, or where a
 
 ## Where it rubs {#where-it-rubs}
 
-Honesty and privacy can collide. One of you may want more truth than the other can give yet, and the pressure to disclose can start to feel like being searched. Shared money or a joint decision can turn into a question of who holds the power. If intimacy is part of the bond, nothing is ever owed: every step needs both people's free yes, and Lilith here forecasts nothing about anyone's sex life.
+Honesty and privacy can collide. One of you may want more truth than the other can give yet, and the pressure to disclose can start to feel like being searched. Shared money or a joint decision can turn into a question of who holds the power. If intimacy is part of the bond, nothing is ever owed: each step waits for a yes freely given on both sides, and this overlay foretells nothing about desire acted on.
 
 From their side, your caution may look like a locked door they're not allowed near, or your openness may feel like a claim on them. Either can make them pull away just when things get close.
 
