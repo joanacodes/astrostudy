@@ -17,11 +17,11 @@ facts:
 related: ["/astrology/saturn", "/astrology/4th-house", "/astrology/transits", "/astrology/imum-coeli", "/astrology/saturn-in-4th-house"]
 faq:
   - q: "What does Saturn in my 4th house ask of family life?"
-    a: "Not as a forecast. The 4th describes your experience of home and family, and with Saturn there I read responsibility and repair: foundations checked, roles at home renegotiated, the past looked at more honestly. What happens to the people in your family belongs to their lives, not to your transit."
+    a: "Responsibility and repair, more than trouble. The 4th describes your experience of home and family, and with Saturn there I read foundations checked, roles at home renegotiated, the past looked at more honestly. What happens to the people in your family belongs to their lives, not to your transit."
   - q: "What does Saturn crossing my IC feel like?"
     a: "Often like a pause in public life while the ground underneath is checked. The IC is the cusp of your 4th and the point opposite your Midheaven, so Saturn there turns your attention to home, roots and private foundations. I read it as quiet, serious work rather than as an event."
   - q: "Is Saturn in the 4th a bad time to buy a home?"
-    a: "I don’t read a transit as advice to buy, sell or move, and it can’t predict whether a move happens. Saturn in the 4th describes a season of foundations: if a decision about a home is already in front of you, it tends to ask what will still hold in ten years, a good question at any time."
+    a: "I don’t read a transit as advice to buy, sell or move, and it can’t predict whether a move happens. Saturn in the 4th describes a season of foundations: if a decision about a home is already in front of you, it tends to ask what will still hold long after the transit, a good question at any time."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Saturn stays in a house, in Placidus charts at London and New York, and its signs from 2026" }
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }

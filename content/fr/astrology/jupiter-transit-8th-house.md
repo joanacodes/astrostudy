@@ -22,7 +22,7 @@ faq:
   - q: "Que fait Jupiter en maison 8 aux relations ?"
     a: "Ce passage les approfondit souvent là où la confiance grandit déjà : plus d’ouverture, plus d’envie de partager, parfois la conversation sur l’argent ou l’avenir que vous repoussiez. Il ne décide rien pour l’autre, et ne rend pas toute proximité bonne pour vous : ce discernement vous appartient."
   - q: "Est-ce que la maison 8 garde Jupiter plus longtemps que la maison 2 ?"
-    a: "Pas au milieu. Dans les thèmes en Placidus à la latitude de Londres, la maison 8 garde Jupiter environ un an, de 11 mois à presque 2 ans, tandis que la maison 2, de même taille en face, dure un peu plus d’un an avec un bout long plus court. Votre séjour dépend de votre heure de naissance."
+    a: "Pas au milieu. Dans les thèmes en Placidus à la latitude de Londres, la maison 8 garde Jupiter environ un an, de 11 mois à presque 2 ans, tandis que la maison 2, de même taille en face, dure un peu plus d’un an avec un bout long plus court. Votre heure de naissance fixe le vôtre."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée des séjours de Jupiter dans une maison, en Placidus à Londres et à New York, et ses signes à partir de 2026" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }

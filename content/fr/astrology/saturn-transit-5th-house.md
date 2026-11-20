@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/5th-house", "/astrology/transits", "/astrology/saturn-in-5th-house", "/astrology/childrens-charts"]
 faq:
   - q: "Est-ce que Saturne en maison 5 joue sur le fait d’avoir des enfants ?"
-    a: "Aucun transit ne peut dire si un enfant viendra, ni quand, et je n’en lis jamais un pour cela. La tradition donnait les enfants à la maison 5 ; je lis cette maison dans une vie d’adulte, comme la créativité, le jeu et le plaisir, et avec Saturne à cet endroit, comme la discipline qui en fait quelque chose de durable."
+    a: "Ni ce transit ni un autre ne dit si un enfant viendra, ni quand : je ne lis pas les thèmes pour cela. Les vieux livres mettaient les enfants en maison 5 ; dans le thème d’un adulte, j’y lis la créativité et le plaisir, et avec Saturne, la discipline qui les fait durer."
   - q: "Est-ce que Saturne en maison 5 peut mettre fin à une histoire d’amour ?"
     a: "Un transit ne met fin à rien. La maison 5 couvre l’amour comme jeu et plaisir, et Saturne à cet endroit peut rendre l’amour plus sérieux, ou demander si une histoire légère veut devenir un engagement. Ce que deux personnes font de cette question leur appartient, pas au ciel."
   - q: "Pourquoi Saturne donne à la créativité un air de travail ?"
@@ -33,11 +33,11 @@ Les années de Saturne dans votre maison 5 font entrer la planète de la discipl
 
 [Saturne](/astrology/saturn/) organise, limite et construit pour le long terme ; la [maison 5](/astrology/5th-house/), c’est la créativité, l’expression de soi, le plaisir et l’amour, la part de la vie qui n’a pas à se justifier. Sous Saturne, la joie est prise au sérieux. Un loisir peut devenir une discipline, un talent apprendre sa technique, et vous découvrirez peut-être que le plaisir a autant besoin d’être protégé du devoir que le devoir du plaisir.
 
-Le Lion, signe naturel de la maison 5, est l’un des signes d’exil de Saturne pour la tradition : la planète des limites dans la maison de l’éclat. Je lis cette friction comme un savoir-faire. Une joie qui apprend sa technique ne cesse pas d’être une joie ; elle commence à durer.
+La tradition comptait le Lion, signe naturel de la maison 5, parmi les signes où Saturne est en exil : les limites face à l’éclat. Je lis cette friction comme un savoir-faire. Une joie qui apprend sa technique ne cesse pas d’être une joie ; elle commence à durer.
 
 Avec Vénus dans votre maison 5, la maison où la tradition lui donnait sa joie, le passage de Saturne peut faire d’un plaisir une pratique, ou rappeler de le garder libre de toute obligation.
 
-Les enfants appartiennent à la maison 5 dans les vieux livres, et je ne lis jamais un transit pour eux : qu’une personne ait un enfant, et quand, aucun thème n’a à le prédire ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et ce site ne lit pas [le thème des enfants](/astrology/childrens-charts/). Dans votre maison 5, je lis ce que vous créez et savourez en adulte. Comme tout [transit](/astrology/transits/), celui-ci fait ressortir ce que votre thème contient sur la joie et lui donne un cadre, rien de plus.
+Les enfants appartiennent à la maison 5 dans les vieux livres, et je ne lis jamais un transit pour eux : qu’une personne ait un enfant, et quand, aucun thème n’a à le prédire ([L’astrologie peut-elle prédire une grossesse ?](/astrology/can-astrology-predict-pregnancy/)), et ce site ne lit pas [le thème des enfants](/astrology/childrens-charts/). Dans votre maison 5, je lis ce que vous créez et savourez en adulte. Tout [transit](/astrology/transits/) travaille sur ce que votre thème contient déjà ; celui-ci donne un cadre à votre joie, rien de plus.
 
 ## Combien de temps {#combien-de-temps}
 

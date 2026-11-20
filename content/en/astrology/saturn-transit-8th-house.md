@@ -19,9 +19,9 @@ faq:
   - q: "Is Saturn transiting the 8th house dangerous?"
     a: "No. Tradition gave the 8th death, and some books still frighten people with this transit, but I don’t read death in any chart. What Saturn describes here is a season of taking stock: shared money, obligations, and whom you can trust. A demanding season, never a sentence."
   - q: "How does Saturn in the 8th touch shared money?"
-    a: "It tends to bring them into the open: joint accounts, loans, debts and agreements want a clearer structure. That’s stewardship, not a forecast. No transit can say whether money will be gained or lost, and I don’t read one for that; what it shows is how you share."
-  - q: "Why does intimacy feel guarded with Saturn in the 8th?"
-    a: "Because Saturn tests foundations before it trusts them, and the 8th is the house of trust and closeness. For a while you may let people in more slowly, or ask more of them first. I read that as trust being rebuilt to last, not as a door closing."
+    a: "It tends to bring money matters into the open: joint accounts, loans, debts and agreements want a clearer structure. That’s stewardship, not a forecast. No transit can say whether money will be gained or lost, and I don’t read one for that; what it shows is how you share."
+  - q: "Is it normal to trust more slowly under Saturn in the 8th?"
+    a: "Yes, and it isn’t a flaw: Saturn tests foundations before it trusts them, and the 8th is the house of trust and closeness. For a while you may let people in more slowly, or ask more of them first. I read that as trust being rebuilt to last, not as a door closing."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Saturn stays in a house, in Placidus charts at London and New York, and its signs from 2026" }
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
@@ -42,9 +42,9 @@ Tradition gave the 8th death and inheritance. Neither belongs in my readings ([c
 
 Placidus charts drawn at London's latitude keep Saturn in the 8th a little under three years, about 2 years and 10 months in the middle, mostly from about 23 months to just under 4 years. At New York's latitude the range narrows to between 2 years and about 3 years and 8 months, around a middle of just under 3.
 
-Without your birth time I couldn't tell you where your 8th begins, and I won't read a chart on a guess ([what changes without a birth time](/blog/unknown-birth-time/)). Saturn arrives here from your 7th, where the bond itself was examined ([Saturn transiting the 7th house](/astrology/saturn-transit-7th-house/)), and moves on to your 9th, where belief gets its turn ([Saturn transiting the 9th house](/astrology/saturn-transit-9th-house/)).
+Only your birth time can say where your 8th begins, and I won't read a chart on a guess ([what changes without a birth time](/blog/unknown-birth-time/)). Saturn arrives here from your 7th, where the bond itself was examined ([Saturn transiting the 7th house](/astrology/saturn-transit-7th-house/)), and moves on to your 9th, where belief gets its turn ([Saturn transiting the 9th house](/astrology/saturn-transit-9th-house/)).
 
-Is the sign on your 8th cusp Aries? Then it's now: February 2026 to April 2028, after a first visit in 2025. Taurus? April 2028 to May 2030. Gemini? June 2030 to July 2032. Cancer? July 2032 to May 2035. Leo? August 2034 to July 2037. Virgo? October 2036 to September 2039. Libra? From September 2039. Pisces had its turn from March 2023 to February 2026, and Scorpio, the 8th's own sign, waits with Sagittarius, Capricorn and Aquarius until after 2039. The degree on the cusp gives you the month.
+Is the sign on your 8th cusp Aries? Then it's now: February 2026 to April 2028, after a first visit in 2025. Taurus? April 2028 to May 2030. Gemini? June 2030 to July 2032. Cancer? July 2032 to May 2035. Leo? August 2034 to July 2037. Virgo? October 2036 to September 2039. Libra? From September 2039. Pisces had its turn from March 2023 to February 2026, and Scorpio, the 8th's own sign, waits with Sagittarius, Capricorn and Aquarius until after 2039. The month depends on the degree.
 
 ## What helps {#what-helps}
 

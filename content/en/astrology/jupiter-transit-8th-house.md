@@ -36,7 +36,7 @@ It's also a house of transitions, and Jupiter's way of meeting change is to look
 
 With your Pluto or your Mars in the 8th from birth, the two rulers of Scorpio, the house's sign in the natural order (I read both), Jupiter's pass can bring depth and nerve to a conversation you've been putting off.
 
-Tradition gave the 8th death and inheritance, and many books still open with them. I don't read death in a transit, for anyone ([can astrology predict death?](/astrology/can-astrology-predict-death/)), and Jupiter here promises no legacy and no sum of money. As transits do, this [transit](/astrology/transits/) brings out what your chart already holds: here, the way you share, not what you'll receive.
+Tradition gave the 8th death and inheritance, and many books still open with them. I don't read death in a transit, for anyone ([can astrology predict death?](/astrology/can-astrology-predict-death/)), and Jupiter here promises no legacy and no sum of money. What a [transit](/astrology/transits/) works with is what your chart already holds: here, the way you share, not what you'll receive.
 
 ## How long it lasts {#how-long-it-lasts}
 

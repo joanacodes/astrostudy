@@ -21,7 +21,7 @@ faq:
   - q: "Can Saturn stay in the 1st house for five years?"
     a: "It can, at London’s latitude. In Placidus charts drawn there, most stays in the 1st last from about 22 months to 5 years, around a middle of about 2 years and 8 months, because a 1st house that far north can be very wide. Your own stay depends on your birth time and birthplace."
   - q: "Is Saturn transiting the 1st house bad for health?"
-    a: "I don’t read health in a transit, and the 1st describes the body only as the way you meet the world. No chart can say what will happen to your body; that’s a question for a doctor. What I read in this season is your identity taking on structure, slowly and for the long term."
+    a: "I don’t read health in a transit, and the 1st describes the body only as the way you meet the world. What your body will do is beyond any chart, and a question for a doctor. What I read in this season is your identity taking on structure, slowly and for the long term."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Saturn stays in a house, in Placidus charts at London and New York, and its signs from 2026" }
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }

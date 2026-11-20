@@ -1,7 +1,7 @@
 ---
 title: "Saturn transiting the 12th house"
 h1: "Saturn transiting your 12th house"
-description: "Saturn transiting the 12th house: about three years of review, rest and closure before your Ascendant, in the house of Saturn’s joy, and no illness foretold."
+description: "Saturn transiting the 12th house: about three years of review, rest and closure before your Ascendant, in the house of Saturn’s joy, foretelling no illness."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

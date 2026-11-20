@@ -19,8 +19,8 @@ related: ["/astrology/saturn", "/astrology/12th-house", "/astrology/transits", "
 faq:
   - q: "Est-ce que le passage de Saturne en maison 12 pèse sur le moral ?"
     a: "Un transit ne diagnostique pas une humeur, et je ne lis pas la santé mentale dans un thème. La maison 12 est celle de la solitude et de la vie intérieure, et Saturne peut y rendre ces années plus calmes et plus intérieures. Si un abattement dure ou vous pèse, parlez-en à un médecin ou à une personne qualifiée."
-  - q: "À quoi prépare le passage de Saturne en maison 12 ?"
-    a: "Souvent au nouveau départ qui vient quand Saturne atteint votre ascendant. Ces années tournent en général autour de chapitres qui se ferment, de ce que vous aviez évité et d’un repos plus grand que d’habitude, pour que ce que vous commencerez en maison 1 commence net. J’y lis un bilan, pas une salle d’attente."
+  - q: "Est-ce que Saturne en maison 12 est un temps de préparation ?"
+    a: "Souvent, oui : la préparation du nouveau départ qui vient quand Saturne atteint votre ascendant. Ces années tournent en général autour de chapitres qui se ferment, de ce que vous aviez évité et d’un repos plus grand que d’habitude, pour que ce que vous commencerez en maison 1 commence net. J’y lis un bilan, pas une salle d’attente."
   - q: "Pourquoi dit-on que la maison 12 est la joie de Saturne ?"
     a: "Parce que, selon la tradition, chaque planète se réjouit dans une maison, et celle de Saturne était la maison 12, du retrait et de la solitude, que les vieux livres appelaient le Génie défavorable. On pensait la planète des limites à l’aise là où la vie se fait calme. Pendant le transit, j’y lis une solitude bien employée."
 sources:

@@ -16,7 +16,7 @@ facts:
   - { k: "Needs", v: "Your birth time, which places your 11th house" }
 related: ["/astrology/saturn", "/astrology/11th-house", "/astrology/transits", "/astrology/aquarius", "/astrology/saturn-in-11th-house"]
 faq:
-  - q: "Will I lose friends while Saturn crosses my 11th house?"
+  - q: "Will I lose friends with Saturn in my 11th house?"
     a: "Not as a forecast. Saturn in the 11th tends to show which friendships hold under weight, and some may thin out while others deepen. Who stays and who goes depends on people, not on the sky. What I read is a season of belonging on more honest terms."
   - q: "Why do groups feel like work with Saturn in the 11th?"
     a: "Because Saturn brings responsibility wherever it goes, and the 11th is the house of groups, teams and shared aims. You may be asked to organise, to commit or to lead. It can feel heavy; it’s also how a shared hope becomes something real."

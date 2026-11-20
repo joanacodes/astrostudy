@@ -17,8 +17,8 @@ facts:
   - { k: "Il faut", v: "Votre heure de naissance, qui fixe la taille de votre maison 6" }
 related: ["/astrology/saturn", "/astrology/6th-house", "/astrology/transits", "/astrology/saturn-in-6th-house", "/astrology/can-astrology-predict-health-problems"]
 faq:
-  - q: "Est-ce que Saturne en maison 6 veut dire maladie ?"
-    a: "Non. La tradition donnait la maladie à la maison 6, mais je ne lis pas la santé dans un thème : aucun transit ne peut diagnostiquer ni prédire quoi que ce soit de votre corps, et c’est à un médecin qu’il faut demander. Ce que je lis avec Saturne ici, c’est le travail et la routine : discipline, limites, habitudes reconstruites."
+  - q: "Faut-il s’inquiéter pour sa santé avec Saturne en maison 6 ?"
+    a: "Non. La tradition donnait la maladie à la maison 6, mais je ne lis pas la santé dans un thème : aucun transit ne peut diagnostiquer ni prédire quoi que ce soit de votre corps, et ces questions reviennent à un médecin. Ce que je lis avec Saturne ici, c’est le travail et la routine : discipline, limites, habitudes reconstruites."
   - q: "Pourquoi le travail pèse plus lourd avec Saturne en maison 6 ?"
     a: "Parce que Saturne apporte sa responsabilité et ses exigences à la maison des tâches quotidiennes : plus à porter, plus à organiser, moins de patience pour ce qui ne fonctionne pas. Ce poids vient en général avec une méthode plus claire. S’il se transforme en travail de tout le monde, c’est le moment de poser une limite."
   - q: "Pourquoi est-ce que les séjours de Saturne en maison 6 varient autant ?"
@@ -43,7 +43,7 @@ Le nom ancien de la maison 6 était la Fortune défavorable, et les livres y lis
 
 Peu de maisons varient autant. Dans les thèmes en Placidus dressés à la latitude de Londres, les séjours de Saturne en maison 6 vont de 22 mois environ à presque 5 ans, autour d’un milieu de 2 ans et 8 mois, un peu en dessous de celui de l’ensemble des maisons, qui frôle les 3 ans. Descendez le lieu de naissance jusqu’à la latitude de New York, et le milieu monte à 2 ans et 10 mois environ, tandis que le bout long redescend vers 4 ans.
 
-Le début de votre maison 6 et sa longueur viennent de votre heure de naissance, la première chose que je demande ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Le séjour suit les années de Saturne dans votre maison 5 ([Saturne en transit en maison 5](/astrology/saturn-transit-5th-house/)) et s’achève à votre descendant, où commencent ses années avec les partenaires ([Saturne en transit en maison 7](/astrology/saturn-transit-7th-house/)).
+Le début de votre maison 6 et sa longueur viennent de votre heure de naissance, la première chose que je demande ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Saturne arrive en maison 6 depuis la maison 5 ([Saturne en transit en maison 5](/astrology/saturn-transit-5th-house/)), et la quitte à votre descendant pour ses années avec les partenaires ([Saturne en transit en maison 7](/astrology/saturn-transit-7th-house/)).
 
 Les mois où Saturne entre dans chaque signe suffisent pour trouver le vôtre : le Bélier en février 2026, pour de bon après une première visite en 2025 ; le Taureau en avril 2028 ; les Gémeaux en juin 2030 ; le Cancer en juillet 2032 ; le Lion en août 2034 ; la Vierge, signe naturel de la maison 6, en octobre 2036 ; la Balance en septembre 2039. Deux de ces entrées sont suivies d’un pas en arrière : Saturne revient en Cancer après ses premières semaines en Lion et ne le quitte qu’en mai 2035, puis revient en Lion après avoir touché la Vierge, et le quitte en juillet 2037.
 

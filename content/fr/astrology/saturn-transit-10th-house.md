@@ -17,7 +17,7 @@ facts:
   - { k: "Il faut", v: "Votre heure de naissance, qui place votre Milieu du Ciel" }
 related: ["/astrology/saturn", "/astrology/10th-house", "/astrology/transits", "/astrology/midheaven", "/astrology/saturn-return"]
 faq:
-  - q: "Est-ce que Saturne en maison 10 annonce des ennuis de carrière ?"
+  - q: "Est-ce que Saturne dans ma maison 10 va freiner ma carrière ?"
     a: "Pas comme une prédiction. Saturne en maison 10, c’est Saturne chez soi, dans la maison de son propre signe, et j’y lis des responsabilités au travail et un regard lucide sur ce que vous avez bâti. Un changement d’emploi dépend de bien plus que du ciel, et je ne prédis pas les carrières."
   - q: "Pourquoi le passage de Saturne sur le Milieu du Ciel marque un tournant ?"
     a: "Parce que le Milieu du Ciel ouvre votre maison 10, la plus publique de toutes, et que Saturne y met la structure et la responsabilité en pleine lumière. Cela ressemble souvent au moment où le travail vous demande davantage et où l’autorité devient une chose que vous portez. J’y lis une étape d’une longue ascension, pas un verdict."

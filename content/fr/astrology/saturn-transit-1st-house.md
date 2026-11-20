@@ -22,7 +22,7 @@ faq:
   - q: "Est-ce que Saturne peut rester cinq ans en maison 1 ?"
     a: "À la latitude de Londres, oui. Dans les thèmes en Placidus, la plupart des séjours en maison 1 vont de 22 mois à 5 ans environ, autour d’un milieu de 2 ans et 8 mois, parce qu’une maison 1 aussi loin au nord peut être très large. Votre séjour dépend de votre heure et de votre lieu de naissance."
   - q: "Est-ce que Saturne en transit en maison 1 est mauvais pour la santé ?"
-    a: "Je ne lis pas la santé dans un transit, et la maison 1 ne décrit le corps que comme la façon dont vous abordez le monde. Aucun thème ne peut dire ce qui arrivera à votre corps : c’est une question pour un médecin. Je lis dans cette saison votre identité qui prend une structure, lentement et pour longtemps."
+    a: "Je ne lis pas la santé dans un transit, et la maison 1 ne décrit le corps que comme la façon dont vous abordez le monde. Ce que deviendra votre corps, aucun thème ne le sait : c’est à un médecin qu’il faut le demander. Je lis dans cette saison votre identité qui prend une structure, lentement et pour longtemps."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée des séjours de Saturne dans une maison, en Placidus à Londres et à New York, et ses signes à partir de 2026" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }

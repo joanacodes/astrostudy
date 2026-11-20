@@ -19,10 +19,10 @@ related: ["/astrology/saturn", "/astrology/8th-house", "/astrology/transits", "/
 faq:
   - q: "Est-ce que Saturne en transit en maison 8 est dangereux ?"
     a: "Non. La tradition donnait la mort à la maison 8, et certains livres effraient encore avec ce transit, mais je ne lis la mort dans aucun thème. Ce que Saturne décrit ici, c’est une saison où l’on fait le point : l’argent commun, les obligations, les personnes à qui l’on peut se fier. Une saison exigeante, jamais une sentence."
-  - q: "Que fait Saturne en maison 8 à l’argent partagé ?"
-    a: "Ce transit le met souvent au grand jour : comptes communs, prêts, dettes et accords demandent une structure plus claire. C’est de l’intendance, pas une prédiction. Aucun transit ne peut dire si de l’argent sera gagné ou perdu, et je n’en lis aucun pour cela ; ce que ce transit montre, c’est votre façon de partager."
-  - q: "Pourquoi l’intimité semble plus prudente avec Saturne en maison 8 ?"
-    a: "Parce que Saturne vérifie les fondations avant de s’y fier, et que la maison 8 est celle de la confiance et de la proximité. Pendant un temps, vous laisserez peut-être les autres entrer plus lentement, ou leur demanderez davantage d’abord. J’y lis une confiance reconstruite pour durer, pas une porte qui se ferme."
+  - q: "De quelle façon Saturne en maison 8 touche l’argent partagé ?"
+    a: "Ce transit met souvent les questions d’argent au grand jour : comptes communs, prêts, dettes et accords demandent une structure plus claire. C’est de l’intendance, pas une prédiction. Aucun transit ne peut dire si de l’argent sera gagné ou perdu, et je n’en lis aucun pour cela ; ce que ce transit montre, c’est votre façon de partager."
+  - q: "Est-ce normal d’accorder sa confiance plus lentement avec Saturne en maison 8 ?"
+    a: "Oui, et ce n’est pas un défaut : Saturne vérifie les fondations avant de s’y fier, et la maison 8 est celle de la confiance et de la proximité. Pendant un temps, vous laisserez peut-être les autres entrer plus lentement, ou leur demanderez davantage d’abord. J’y lis une confiance reconstruite pour durer, pas une porte qui se ferme."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée des séjours de Saturne dans une maison, en Placidus à Londres et à New York, et ses signes à partir de 2026" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
@@ -37,15 +37,15 @@ L’une des vieilles habitudes de Saturne consiste à prendre le contrôle pour 
 
 Avec la Lune dans votre maison 8, le passage peut rendre la proximité plus prudente pour un temps, et apprendre ce dont une intimité sûre a besoin.
 
-La tradition donnait la mort et l’héritage à la maison 8. Je ne lis ni la mort ni l’héritage dans un [transit](/astrology/transits/), pour personne ([L’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)), et Saturne ne prédit ici aucune perte, ni d’argent ni de personnes. Ce transit fait ressortir ce que votre thème contient déjà sur le partage, et lui donne une structure.
+La tradition donnait la mort et l’héritage à la maison 8. Ce sont deux choses que je ne lis jamais ([L’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)), et Saturne ne prédit ici aucune perte, ni d’argent ni de personnes. Un [transit](/astrology/transits/) comme celui-ci montre votre façon de partager, et vous aide à la poser sur un sol plus ferme.
 
 ## Combien de temps {#combien-de-temps}
 
 Les thèmes en Placidus dressés à la latitude de Londres gardent Saturne en maison 8 un peu moins de trois ans, environ 2 ans et 10 mois au milieu, le plus souvent de 23 mois à un peu moins de 4 ans. À la latitude de New York, l’écart se resserre entre 2 ans et environ 3 ans et 8 mois, autour d’un milieu qui frôle les 3 ans.
 
-Sans votre heure de naissance, je ne pourrais pas vous dire où commence votre maison 8, et je ne lis pas un thème au jugé ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Saturne arrive ici en venant de votre maison 7, où le lien lui-même a été examiné ([Saturne en transit en maison 7](/astrology/saturn-transit-7th-house/)), et repart vers votre maison 9, où vient le tour des convictions ([Saturne en transit en maison 9](/astrology/saturn-transit-9th-house/)).
+Où commence votre maison 8, seule l’heure de naissance le dit, et je ne lis pas un thème au jugé ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Saturne arrive ici en venant de votre maison 7, où le lien lui-même a été examiné ([Saturne en transit en maison 7](/astrology/saturn-transit-7th-house/)), et repart vers votre maison 9, où vient le tour des convictions ([Saturne en transit en maison 9](/astrology/saturn-transit-9th-house/)).
 
-Le signe sur la cuspide de votre maison 8 est le Bélier ? Alors c’est maintenant : de février 2026 à avril 2028, après une première visite en 2025. Le Taureau ? D’avril 2028 à mai 2030. Les Gémeaux ? De juin 2030 à juillet 2032. Le Cancer ? De juillet 2032 à mai 2035. Le Lion ? D’août 2034 à juillet 2037. La Vierge ? D’octobre 2036 à septembre 2039. La Balance ? À partir de septembre 2039. Les Poissons ont eu leur tour de mars 2023 à février 2026, et le Scorpion, signe de la maison 8, attend avec le Sagittaire, le Capricorne et le Verseau la période d’après 2039. Le degré de la cuspide vous donne le mois.
+Le signe sur la cuspide de votre maison 8 est le Bélier ? Alors c’est maintenant : de février 2026 à avril 2028, après une première visite en 2025. Le Taureau ? D’avril 2028 à mai 2030. Les Gémeaux ? De juin 2030 à juillet 2032. Le Cancer ? De juillet 2032 à mai 2035. Le Lion ? D’août 2034 à juillet 2037. La Vierge ? D’octobre 2036 à septembre 2039. La Balance ? À partir de septembre 2039. Les Poissons ont eu leur tour de mars 2023 à février 2026, et le Scorpion, signe de la maison 8, attend avec le Sagittaire, le Capricorne et le Verseau la période d’après 2039. Le mois, lui, dépend du degré.
 
 ## Ce qui aide {#ce-qui-aide}
 

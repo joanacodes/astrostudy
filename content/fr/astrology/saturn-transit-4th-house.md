@@ -17,12 +17,12 @@ facts:
   - { k: "Il faut", v: "Votre heure de naissance, qui place votre Fond du Ciel" }
 related: ["/astrology/saturn", "/astrology/4th-house", "/astrology/transits", "/astrology/imum-coeli", "/astrology/saturn-in-4th-house"]
 faq:
-  - q: "Est-ce que Saturne en maison 4 annonce des problèmes de famille ?"
-    a: "Pas comme une prédiction. La maison 4 décrit ce que vous vivez du foyer et de la famille, et avec Saturne à cet endroit, je lis de la responsabilité et de la réparation : des fondations vérifiées, des rôles renégociés, un passé regardé plus franchement. Ce qui arrive aux membres de votre famille appartient à leur vie, pas à votre transit."
+  - q: "Que demande Saturne en maison 4 à la vie de famille ?"
+    a: "De la responsabilité et de la réparation, plus que des ennuis. La maison 4 décrit ce que vous vivez du foyer et de la famille, et avec Saturne à cet endroit, je lis des fondations vérifiées, des rôles renégociés, un passé regardé plus franchement. Ce qui arrive aux membres de votre famille appartient à leur vie, pas à votre transit."
   - q: "Que ressent-on quand Saturne passe sur le Fond du Ciel ?"
     a: "Souvent une pause dans la vie publique, le temps de vérifier le sol en dessous. Le Fond du Ciel est la cuspide de votre maison 4 et le point opposé à votre Milieu du Ciel : Saturne à cet endroit tourne l’attention vers le foyer, les racines et les fondations privées. J’y lis un travail calme et sérieux plutôt qu’un événement."
   - q: "Est-ce que Saturne en maison 4 est un mauvais moment pour acheter un logement ?"
-    a: "Je ne lis pas un transit comme un conseil d’acheter, de vendre ou de déménager, et il ne peut pas prédire un déménagement. Saturne en maison 4 décrit une saison de fondations : si une décision sur un logement est déjà devant vous, ce transit demande souvent ce qui tiendra encore dans dix ans, une bonne question en tout temps."
+    a: "Je ne lis pas un transit comme un conseil d’acheter, de vendre ou de déménager, et il ne peut pas prédire un déménagement. Saturne en maison 4 décrit une saison de fondations : si une décision sur un logement est déjà devant vous, ce transit demande souvent ce qui tiendra encore bien après lui, une bonne question en tout temps."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée des séjours de Saturne dans une maison, en Placidus à Londres et à New York, et ses signes à partir de 2026" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }

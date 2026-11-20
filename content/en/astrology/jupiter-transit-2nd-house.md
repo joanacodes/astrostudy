@@ -16,7 +16,7 @@ facts:
   - { k: "Needs", v: "Your birth time, which places the cusps of your houses" }
 related: ["/astrology/jupiter", "/astrology/2nd-house", "/astrology/transits", "/astrology/jupiter-in-2nd-house", "/astrology/can-astrology-pick-investments"]
 faq:
-  - q: "Does Jupiter in the 2nd house mean more money?"
+  - q: "Is Jupiter in the 2nd house a sign of more money?"
     a: "Not as I read it. The 2nd house describes how you handle money and what you value, not what you will earn, and no transit can predict money. What Jupiter tends to widen here is your sense of worth: skills you could build on, and values you want your spending to match."
   - q: "How long does Jupiter stay in my 2nd house?"
     a: "Usually a little over a year: most stays in the 2nd run from about 11 to 22 months, in Placidus charts at London’s latitude and at New York’s alike. The dates of your own stay come from your chart, starting with the birth time that places the cusp of your 2nd house."

@@ -19,10 +19,10 @@ related: ["/astrology/saturn", "/astrology/3rd-house", "/astrology/transits", "/
 faq:
   - q: "Est-ce que Saturne en maison 3 rend la communication difficile ?"
     a: "Ce transit apporte plutôt plus d’attention aux mots qu’une difficulté à s’en servir : une parole plus lente, plus précise, moins disposée à dire ce que l’on ne pense pas. Certaines conversations peuvent sembler plus lourdes un moment. J’y lis un esprit qui apprend à dire ce qu’il pense, pas un défaut."
-  - q: "Que faut-il étudier pendant que Saturne traverse ma maison 3 ?"
+  - q: "Quelles matières conviennent à Saturne en maison 3 ?"
     a: "Ce dont vous aurez besoin pendant des années : une langue apprise pour de bon, un savoir-faire pratiqué chaque jour, les bases que vous aviez sautées. Saturne convient ici à la profondeur plus qu’à la vitesse, et un sujet bien étudié sert souvent mieux que cinq survolés. L’issue d’une formation dépend de bien plus qu’un transit."
-  - q: "Est-ce que Saturne en maison 3 touche la fratrie ?"
-    a: "La maison 3 décrit ce que vous vivez avec les personnes auprès de qui vous avez grandi, pas leur vie. Pendant que Saturne la traverse, ces liens peuvent demander plus de responsabilité, ou une conversation plus franche. Ce qui arrive à un frère ou à une sœur appartient à sa propre vie, jamais à votre transit."
+  - q: "Est-ce que Saturne dans ma maison 3 peut tendre les choses avec un frère ou une sœur ?"
+    a: "Ce passage peut demander davantage à ces liens : plus de responsabilité, ou une conversation plus franche que d’habitude. Mais la maison 3 ne décrit que votre côté de ces liens, la façon dont vous les vivez. Ce qui arrive à un frère ou à une sœur appartient à sa propre vie, jamais à votre transit."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée des séjours de Saturne dans une maison, en Placidus à Londres et à New York, et ses signes à partir de 2026" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
@@ -41,7 +41,7 @@ Ce que fait un [transit](/astrology/transits/) comme celui-ci, c’est faire res
 
 ## Combien de temps {#combien-de-temps}
 
-La maison 3 garde Saturne un peu moins de trois ans dans la plupart des thèmes en Placidus dressés à la latitude de Londres, avec un écart un peu plus court en haut que pour l’ensemble des maisons : de 22 mois environ à un peu moins de 4 ans. La latitude de New York donne presque la même chose, de 23 mois environ à près de 4 ans.
+La maison 3 garde Saturne un peu moins de trois ans dans la plupart des thèmes en Placidus dressés à la latitude de Londres, avec un écart un peu plus court en haut que pour l’ensemble des maisons : de 22 mois environ à un peu moins de 4 ans. Pour une naissance à New York, c’est à peu près pareil : de 23 mois environ à près de 4 ans.
 
 Les cuspides qui encadrent ce séjour demandent l’heure de naissance, et sans elle je ne lis pas ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Ce séjour suit les années de Saturne dans votre maison 2, celle de ce que vous avez ([Saturne en transit en maison 2](/astrology/saturn-transit-2nd-house/)), et s’achève à votre Fond du Ciel, où commencent ses années au foyer ([Saturne en transit en maison 4](/astrology/saturn-transit-4th-house/)).
 

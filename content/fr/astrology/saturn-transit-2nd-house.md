@@ -17,9 +17,9 @@ facts:
   - { k: "Il faut", v: "Votre heure de naissance, qui place la cuspide de votre maison 2" }
 related: ["/astrology/saturn", "/astrology/2nd-house", "/astrology/transits", "/astrology/saturn-in-2nd-house", "/astrology/can-astrology-pick-investments"]
 faq:
-  - q: "Est-ce que Saturne en transit en maison 2 annonce des problèmes d’argent ?"
+  - q: "Est-ce que l’argent sera serré pendant que Saturne traverse ma maison 2 ?"
     a: "Pas comme une prédiction. Je ne lis pas l’argent dans un transit, ni celui qui vient ni celui qui part. Avec Saturne en maison 2, je lis une saison d’intendance : des budgets, des limites, une sécurité bâtie assez lentement pour durer. La maison décrit votre façon de gérer les ressources, pas ce qui leur arrivera."
-  - q: "Qu’est-ce que Saturne en maison 2 apprend ?"
+  - q: "Quelle leçon Saturne apporte à la maison 2 ?"
     a: "Souvent la différence entre ce que vous gagnez et ce que vous valez. Saturne amène à regarder ce sur quoi vous comptez, ce qui compte assez pour être gardé, et ce que vous retenez par peur plutôt que par besoin. La leçon, c’est l’intendance : prendre soin de ce que vous avez sans le laisser vous définir."
   - q: "Trois ans en maison 2, est-ce habituel pour Saturne ?"
     a: "Oui : un peu moins de trois ans en général dans les thèmes en Placidus à la latitude de Londres, la plupart des séjours allant de 22 mois à un peu plus de 4 ans ; à New York, le bout long reste sous les 4 ans. La largeur de votre maison 2, fixée par votre heure de naissance, décide du vôtre."
@@ -37,7 +37,7 @@ Cette question est le cadeau le plus aigu de Saturne ici. L’une de ses vieille
 
 Avec Vénus dans votre maison 2, la planète de ce que vous aimez et de ce qui compte pour vous, le passage de Saturne trie souvent les plaisirs que vous garderiez de ceux que vous avez seulement achetés.
 
-Rien de tout cela n’est une prédiction sur l’argent. Je ne lis pas l’argent dans un thème, et un [transit](/astrology/transits/) ne peut pas dire ce que vous aurez ([L’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)). Ce transit fait ressortir ce que votre thème contient déjà sur la sécurité et lui donne une structure ; l’issue vous appartient.
+Rien de tout cela n’est une prédiction sur l’argent. L’argent n’est pas une chose que je lis dans un thème, et ce que vous aurez n’est écrit dans aucun [transit](/astrology/transits/) ([L’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)). Ce transit fait ressortir ce que votre thème contient déjà sur la sécurité et lui donne une structure ; l’issue vous appartient.
 
 ## Combien de temps {#combien-de-temps}
 
@@ -45,11 +45,11 @@ Un peu moins de trois ans : c’est le séjour habituel en maison 2 dans les th
 
 Tout cela tient à la cuspide de votre maison 2, et une lecture qui saute l’heure de naissance saute les maisons : je n’en fais donc pas ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Ces années suivent le passage de Saturne sur votre ascendant et dans votre maison 1 ([Saturne en transit en maison 1](/astrology/saturn-transit-1st-house/)) et précèdent ses années en maison 3, où le travail passe aux mots et à l’apprentissage ([Saturne en transit en maison 3](/astrology/saturn-transit-3rd-house/)).
 
-Saturne est en Bélier en ce moment, de février 2026 à avril 2028 ; vient ensuite le Taureau, signe naturel de la maison 2, d’avril 2028 à mai 2030. Puis les Gémeaux de juin 2030 à juillet 2032 et le Cancer de juillet 2032 à mai 2035, le Lion d’août 2034 à juillet 2037, Saturne passant de l’un à l’autre pendant les mois qu’ils partagent, la Vierge d’octobre 2036 à septembre 2039, et la Balance à partir de septembre 2039. Le dernier passage de Saturne en Poissons s’est achevé en février 2026 ; le Scorpion, le Sagittaire, le Capricorne et le Verseau viendront après 2039. Regardez aussi le degré de votre cuspide : le séjour commence quand Saturne l’atteint.
+Saturne est en Bélier en ce moment, de février 2026 à avril 2028 ; vient ensuite le Taureau, signe naturel de la maison 2, d’avril 2028 à mai 2030. Puis les Gémeaux de juin 2030 à juillet 2032 et le Cancer de juillet 2032 à mai 2035, le Lion d’août 2034 à juillet 2037, Saturne passant de l’un à l’autre pendant les mois qu’ils partagent, la Vierge d’octobre 2036 à septembre 2039, et la Balance à partir de septembre 2039. Le dernier passage de Saturne en Poissons s’est achevé en février 2026 ; le Scorpion, le Sagittaire, le Capricorne et le Verseau viendront après 2039. Le degré de votre cuspide fixe ensuite le mois où tout commence.
 
 ## Ce qui aide {#ce-qui-aide}
 
-Faire un budget avec lequel vous pourriez vivre trois ans, pas trois semaines. Saturne en maison 2 répond aux plans assez réalistes pour être tenus.
+Faire un budget avec lequel vous pourriez vivre tout le séjour, pas seulement une bonne semaine. Saturne en maison 2 répond aux plans assez réalistes pour être tenus.
 
 Bâtir lentement une forme de sécurité : un savoir-faire qui garde sa valeur, l’habitude de mettre quelque chose de côté, une idée plus claire de ce qui vous suffit.
 

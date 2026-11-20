@@ -36,7 +36,7 @@ That question is Saturn's sharpest gift here. One of its old habits is to confus
 
 With your Venus in the 2nd, the planet of what you enjoy and value, Saturn's pass tends to sort the pleasures you'd keep from the ones you only bought.
 
-None of this is a forecast about money. Money isn't something I read in a chart, and no [transit](/astrology/transits/) can tell you what you'll have ([can astrology pick investments?](/astrology/can-astrology-pick-investments/)). It brings out what your chart already holds about security and gives it a structure; the outcome is yours.
+None of this is a forecast about money. Money isn't something I read in a chart, and what you'll have is written in no [transit](/astrology/transits/) ([can astrology pick investments?](/astrology/can-astrology-pick-investments/)). It brings out what your chart already holds about security and gives it a structure; the outcome is yours.
 
 ## How long it lasts {#how-long-it-lasts}
 
@@ -44,11 +44,11 @@ Just under three years is the usual stay in your 2nd, in Placidus charts drawn a
 
 All of that hangs on the cusp of your 2nd, and a reading that skips the birth time skips the houses, so I don't do one ([what changes without a birth time](/blog/unknown-birth-time/)). These years follow Saturn's crossing of your Ascendant and your 1st ([Saturn transiting the 1st house](/astrology/saturn-transit-1st-house/)) and come before its years in your 3rd, where the work moves to words and learning ([Saturn transiting the 3rd house](/astrology/saturn-transit-3rd-house/)).
 
-Saturn is in Aries now, from February 2026 to April 2028; next comes Taurus, the 2nd's natural sign, from April 2028 to May 2030. After that, Gemini from June 2030 to July 2032 and Cancer from July 2032 to May 2035, then Leo from August 2034 to July 2037, Saturn moving between the two in the months they share, Virgo from October 2036 to September 2039, and Libra from September 2039. Saturn's last stretch in Pisces ended in February 2026; Scorpio, Sagittarius, Capricorn and Aquarius come after 2039. Check the degree on your 2nd cusp too: the stay begins when Saturn reaches it.
+Saturn is in Aries now, from February 2026 to April 2028; next comes Taurus, the 2nd's natural sign, from April 2028 to May 2030. After that, Gemini from June 2030 to July 2032 and Cancer from July 2032 to May 2035, then Leo from August 2034 to July 2037, Saturn moving between the two in the months they share, Virgo from October 2036 to September 2039, and Libra from September 2039. Saturn's last stretch in Pisces ended in February 2026; Scorpio, Sagittarius, Capricorn and Aquarius come after 2039. The degree on your 2nd cusp then sets the month it all begins.
 
 ## What helps {#what-helps}
 
-Make a budget you could live with for three years, not three weeks. Saturn in the 2nd responds to plans that are realistic enough to keep.
+Make a budget you could live with for the whole stay, not just for a good week. Saturn in the 2nd responds to plans that are realistic enough to keep.
 
 Build one kind of security slowly: a skill that holds its value, a habit of putting something aside, a clearer idea of what enough looks like for you.
 

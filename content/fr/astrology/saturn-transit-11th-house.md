@@ -17,12 +17,12 @@ facts:
   - { k: "Il faut", v: "Votre heure de naissance, qui place votre maison 11" }
 related: ["/astrology/saturn", "/astrology/11th-house", "/astrology/transits", "/astrology/aquarius", "/astrology/saturn-in-11th-house"]
 faq:
-  - q: "Est-ce que Saturne en maison 11 fait perdre des amis ?"
+  - q: "Vais-je perdre des amis avec Saturne dans ma maison 11 ?"
     a: "Pas comme une prédiction. Saturne en maison 11 montre souvent quelles amitiés tiennent sous le poids, et certaines peuvent s’effacer pendant que d’autres s’approfondissent. Qui reste et qui part dépend des personnes, pas du ciel. Ce que je lis, c’est une saison d’appartenance à des conditions plus franches."
   - q: "Pourquoi les groupes ressemblent à du travail avec Saturne en maison 11 ?"
     a: "Parce que Saturne apporte la responsabilité partout où passe cette planète, et que la maison 11 est celle des groupes, des équipes et des buts communs. On vous demandera peut-être d’organiser, de vous engager ou de mener. Cela peut peser ; c’est aussi la façon dont un espoir partagé devient réel."
   - q: "Comment se compare le séjour de Saturne en maison 11 à celui des autres maisons ?"
-    a: "Ce séjour est dans la moyenne à la latitude de Londres : un peu moins de trois ans au milieu des thèmes en Placidus, la plupart des séjours entre 23 mois et 4 ans. À New York, l’écart se resserre, d’un peu plus de 2 ans à près de 4. Votre séjour dépend de votre heure de naissance."
+    a: "Ce séjour est dans la moyenne à la latitude de Londres : un peu moins de trois ans au milieu des thèmes en Placidus, la plupart des séjours entre 23 mois et 4 ans. À New York, l’écart se resserre, d’un peu plus de 2 ans à près de 4. C’est l’heure de naissance qui décide du vôtre."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée des séjours de Saturne dans une maison, en Placidus à Londres et à New York, et ses signes à partir de 2026" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }
@@ -43,7 +43,7 @@ Appartenir n’est pas se conformer, et l’amitié n’est pas la popularité 
 
 La maison 11 correspond presque exactement aux chiffres de l’ensemble des maisons à la latitude de Londres : un peu moins de trois ans au milieu des thèmes en Placidus dressés là-bas, la plupart des séjours entre 23 mois environ et 4 ans. À la latitude de New York, le bout court s’allonge à un peu plus de 2 ans et le bout long se raccourcit à près de 4.
 
-Chaque cuspide d’une lecture repose sur l’heure de naissance, celle de la maison 11 comprise, et je préfère ne donner aucune lecture plutôt qu’une lecture aux maisons devinées ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Le séjour suit les années de Saturne tout en haut du thème, en maison 10 ([Saturne en transit en maison 10](/astrology/saturn-transit-10th-house/)), et mène à ses années tranquilles en maison 12 ([Saturne en transit en maison 12](/astrology/saturn-transit-12th-house/)).
+Chaque cuspide d’une lecture repose sur l’heure de naissance, celle de la maison 11 comprise, et je préfère ne donner aucune lecture plutôt qu’une lecture aux maisons devinées ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Avant lui viennent les années de Saturne tout en haut du thème, en maison 10 ([Saturne en transit en maison 10](/astrology/saturn-transit-10th-house/)) ; après lui, ses années tranquilles en maison 12 ([Saturne en transit en maison 12](/astrology/saturn-transit-12th-house/)).
 
 Cherchez le signe sur la cuspide de votre maison 11, et son maître si cela vous aide à le retenir. Saturne est en ce moment dans le signe de Mars, le Bélier, de février 2026 à avril 2028 ; puis dans le Taureau de Vénus d’avril 2028 à mai 2030, les Gémeaux de Mercure de juin 2030 à juillet 2032, le Cancer de la Lune de juillet 2032 à mai 2035, le Lion du Soleil d’août 2034 à juillet 2037, la Vierge de Mercure d’octobre 2036 à septembre 2039 et la Balance de Vénus à partir de septembre 2039. Le Verseau, signe naturel de la maison 11, viendra après 2039, comme le Scorpion, le Sagittaire et le Capricorne, et les Poissons ont eu leur tour de mars 2023 à février 2026.
 

@@ -17,7 +17,7 @@ facts:
 related: ["/astrology/saturn", "/astrology/5th-house", "/astrology/transits", "/astrology/saturn-in-5th-house", "/astrology/childrens-charts"]
 faq:
   - q: "Does Saturn in the 5th house affect having children?"
-    a: "No transit can say whether or when anyone will have a child, and I never read one for that. Tradition gave the 5th children; I read the house in an adult’s life, as creativity, play and pleasure, and with Saturn there, as the discipline that turns those into something lasting."
+    a: "Neither this transit nor any other can say whether or when anyone will have a child, and I don't read charts for that. The old books put children in the 5th; in an adult’s chart I read creativity and pleasure there, and with Saturn, the discipline that makes them last."
   - q: "Can Saturn in the 5th house end a romance?"
     a: "A transit doesn’t end anything. The 5th covers romance as play and pleasure, and Saturn there can make love feel more serious, or ask whether something light wants to become a commitment. What two people do with that question belongs to them, not to the sky."
   - q: "Why does Saturn make creativity feel like work?"

@@ -37,7 +37,7 @@ La maison 9 revient à Jupiter dans l’ordre naturel, c’est la maison du Sagi
 
 Avec Jupiter dans votre maison 9, maître naturel de la maison, le passage de Saturne met à l’épreuve les convictions que vous portez le plus généreusement, et garde celles qui résistent.
 
-Comme tout [transit](/astrology/transits/), celui-ci fait ressortir ce que votre thème contient déjà sur le sens et lui donne un cadre. Il ne décide ni où vous irez, ni ce que vous étudierez, ni de l’issue d’une candidature.
+Le [transit](/astrology/transits/) en lui-même n’apporte rien : il éclaire ce que votre thème contient déjà sur le sens, et lui donne un cadre. Il ne décide ni où vous irez, ni ce que vous étudierez, ni de l’issue d’une candidature.
 
 ## Combien de temps {#combien-de-temps}
 
