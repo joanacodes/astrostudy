@@ -22,7 +22,7 @@ faq:
   - q: "Que fait le transit en maison 11 aux amitiés ?"
     a: "Ce passage élargit souvent votre cercle et approfondit les amitiés qui partagent vos espoirs : de nouveaux groupes, de vieilles amitiés retrouvées, une aide offerte sans qu’on la demande. Il ne décide pas qui reste ou qui part, et la popularité n’est pas le sujet : la maison 11 parle d’appartenance, pas de chiffres."
   - q: "Est-ce que le séjour de Jupiter en maison 11 dure plus d’un an ?"
-    a: "Un peu, en général. Dans les thèmes en Placidus dressés à la latitude de Londres, la plupart des séjours en maison 11 durent entre 11 et 22 mois environ, et à celle de New York le bout long tourne autour de 20 mois. Le vôtre dépend de votre heure de naissance, qui place la maison."
+    a: "Un peu, en règle générale : un peu plus d’un an au milieu. Les thèmes dressés en Placidus pour Londres placent la plupart des séjours en maison 11 entre 11 et 22 mois environ, et pour New York le bout long descend vers 20 mois. Vos dates tiennent à la cuspide que donne votre heure de naissance."
 sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes", note: "la durée des séjours de Jupiter dans une maison, en Placidus à Londres et à New York, et ses signes à partir de 2026" }
   - { title: "Vettius Valens, Anthologies", note: "les maisons et ce que la tradition leur attribuait" }

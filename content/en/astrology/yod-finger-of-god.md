@@ -1,13 +1,13 @@
 ---
 title: "Yod (finger of God)"
 h1: "The yod (finger of God) in astrology"
-description: "The yod, or finger of God, in astrology: a sextile pointing at a planet 150° from both, how common it is, why the name isn’t a destiny, and what helps at its apex."
+description: "The yod, or finger of God, in astrology: a sextile pointing at a planet 150° from both, how common it is, why the name isn’t a destiny, and what helps."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"
 weight: 5
 glyph: "⚻"
-definition: "A yod is a long, narrow triangle of three planets: two in sextile at its base, both quincunx a third at its point, the apex. Also called the finger of God, it describes a function that keeps adjusting to two others with which it shares nothing, a demand for recalibration rather than a fate. About 1 person in 8 has one."
+definition: "A yod is a narrow triangle of three planets: two in sextile at its base, both quincunx a third at its point, the apex. Also called the finger of God, it describes a function that keeps adjusting to two others it shares nothing with: recalibration, not fate. About 1 person in 8 has one."
 facts:
   - { k: "Shape", v: "A long, narrow triangle: two planets 60° apart, a third 150° from both" }
   - { k: "Aspects", v: "One sextile and two quincunxes" }

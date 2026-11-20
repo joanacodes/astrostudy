@@ -1,7 +1,7 @@
 ---
 title: "Their Saturn in your 4th house"
 h1: "Their Saturn in your 4th house in synastry"
-description: "Their Saturn in your 4th house in synastry: their sense of duty in your home, roots and private life, what each person carries, and why your time decides it."
+description: "Their Saturn in your 4th house in synastry: their sense of duty under your roof and among your roots, how it feels on each side, and what your time decides."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -30,11 +30,11 @@ Their Saturn in your 4th house is felt behind your own front door. Someone's pat
 
 ## What it brings {#what-it-brings}
 
-[Saturn](/astrology/saturn/) is the part of a chart that builds for the long term: walls, routines, obligations kept. [The 4th house](/astrology/4th-house/) is the ground you stand on: home as it felt from inside, family, belonging, the self only your closest people see. As a [house overlay](/astrology/house-overlays/), their Saturn works here on your foundations.
+[Saturn](/astrology/saturn/) builds for the long term in any chart: walls, routines, obligations kept. [The 4th house](/astrology/4th-house/) holds home as it felt from inside, family and belonging, and the self only your closest people see. As a [house overlay](/astrology/house-overlays/), their Saturn works here on your foundations.
 
 For you, it can be the first home that feels properly held. Bills paid on time, a household that runs, a promise that the roof isn't going anywhere: their steadiness can give you a safety you hadn't known you were missing. Putting down roots, or repairing an old tie, may come easier in their company.
 
-For them, your home life can become a responsibility accepted, sometimes before anyone asked. They may mend, organise and plan for the long run, and feel the weight of keeping it all upright. The 4th is angular, strong even when it works out of sight, and [Cancer](/astrology/cancer/), its natural sign, faces Capricorn across the zodiac, which is why tradition counts Saturn in detriment there: structure and shelter don't always speak the same language. Close to your [Imum Coeli](/astrology/imum-coeli/), the cusp of the house, their Saturn also meets the deepest point of your chart, and I read that contact with the overlay.
+For them, your home life can become a responsibility accepted, sometimes before anyone asked. They may mend, organise and plan for the long run, and feel the weight of keeping it all upright. Angular yet private, the 4th works with full force out of sight, and [Cancer](/astrology/cancer/), its natural sign, faces Capricorn across the zodiac, which is why tradition counts Saturn in detriment there: structure and shelter don't always speak the same language. Right by your [Imum Coeli](/astrology/imum-coeli/), the cusp of the house, their Saturn also touches the lowest point of your chart, and I read that contact with the overlay.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -42,7 +42,7 @@ A home can start to feel inspected. Their way of running a house may arrive as a
 
 From their side, the weight is real. Being the one who holds up the roof is tiring, and they can come to believe that keeping control is the same as keeping everyone safe. Letting someone else run the household may not come easily, and then they feel alone in it.
 
-The 4th describes your experience of home, never anyone's parents, and nothing here forecasts whether you'll live together, move or stay.
+Nothing in this overlay speaks for anyone's parents, and nothing forecasts whether you'll live together, move or stay.
 
 ## How to meet it {#how-to-meet-it}
 
@@ -50,4 +50,4 @@ Write the house rules together, and reread them now and then: what's fixed, what
 
 Lived from their side, the overlay is your Saturn in their 4th house: you lay foundations in their home, and you ask before rearranging it. [Their Saturn in your 3rd house](/astrology/saturn-in-3rd-house-synastry/) weighs your words; [their Saturn in your 5th house](/astrology/saturn-in-5th-house-synastry/), your play.
 
-Your IC, opposite your Midheaven, goes round the whole zodiac in a day, so your birth time decides where the 4th begins and, in Placidus, the house system I use, how far it reaches. Their time hardly enters into it, since their birth date fixes Saturn, but I wait for it all the same ([what changes without a birth time](/blog/unknown-birth-time/)). Saturn comes back to the same sign every 29½ years or so, so people born about thirty years apart can share its sign as well as people born a year or two apart: a parent and an adult child, for instance. If yours sits in your 4th too ([Saturn in the 4th house](/astrology/saturn-in-4th-house/)), the overlay lands on ground you already know. I read it only when both people have agreed ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Your IC, opposite your Midheaven, goes round the whole zodiac in a day, so your birth time decides where the 4th begins and, in Placidus, the house system I use, how far it reaches. For their Saturn, the date they were born is enough, though I still wait for their time before reading anything ([what changes without a birth time](/blog/unknown-birth-time/)). Saturn comes back to the same sign every 29½ years or so, so people born about thirty years apart can share its sign as well as people born a year or two apart: a parent and an adult child, for instance. If yours sits in your 4th too ([Saturn in the 4th house](/astrology/saturn-in-4th-house/)), the overlay lands on ground you already know. And it's read only with both people's yes ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

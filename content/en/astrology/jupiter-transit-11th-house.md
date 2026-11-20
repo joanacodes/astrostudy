@@ -21,7 +21,7 @@ faq:
   - q: "What does the 11th-house transit do for friendships?"
     a: "It tends to widen your circle and deepen the friendships that share your hopes: new groups, old friends found again, help offered without being asked. It doesn’t decide who stays or goes, and popularity isn’t the point: the 11th is about belonging, not numbers."
   - q: "Is Jupiter’s stay in the 11th longer than a year?"
-    a: "A little, usually. In Placidus charts drawn at London’s latitude most stays in the 11th last between about 11 and 22 months, and at New York’s the long end is about 20 months. Where yours falls depends on your birth time, which places the house."
+    a: "Slightly, as a rule: a little over a year in the middle. Charts drawn in Placidus for London put most 11th-house stays somewhere from about 11 months to 22, and for New York the long end comes down to about 20. Your own dates hang on the cusp your birth time gives you."
 sources:
   - { title: "The Astro Study’s count from the planets’ positions", note: "how long Jupiter stays in a house, in Placidus charts at London and New York, and its signs from 2026" }
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }

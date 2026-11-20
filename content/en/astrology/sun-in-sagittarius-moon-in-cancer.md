@@ -1,7 +1,7 @@
 ---
 title: "Sun in Sagittarius, Moon in Cancer"
 h1: "Sun in Sagittarius, Moon in Cancer in a birth chart"
-description: "Sun in Sagittarius, Moon in Cancer: a quincunx by sign, the Moon at home in Jupiter’s sign of exaltation, born just after a full moon. A home port for a traveller."
+description: "Sun in Sagittarius, Moon in Cancer: a quincunx by sign, the Moon at home where Jupiter is exalted, born just after a full moon. A home port for travel."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
