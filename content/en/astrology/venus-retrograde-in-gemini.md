@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 15
 glyph: "♀℞♊"
-definition: "Venus retrograde in Gemini is the six weeks or so, from mid-May to late June every eight years, when Venus seems from Earth to back through Gemini without leaving it. I read it as attractions and tastes that came through words and variety, compared and sorted again, in the house Gemini occupies in your chart."
+definition: "Venus retrograde in Gemini happens every eight years, from mid-May to late June: for about six weeks Venus seems, seen from Earth, to back through Gemini, and never leaves the sign. I read it as attractions and tastes that came through words and variety, compared and sorted again, in the house Gemini occupies in your chart."
 facts:
   - { k: "Planet", v: "Venus ♀" }
   - { k: "Sign", v: "Gemini ♊, mutable air, ruled by Mercury" }
@@ -20,7 +20,7 @@ faq:
   - q: "When is Venus retrograde in Gemini?"
     a: "Next from 10 May to 22 June 2028, from 19°41′ back to 3°10′ Gemini, and after that from 8 May to 20 June 2036. The most recent ran from 13 May to 25 June 2020. Each one stays wholly inside Gemini, from one station to the other."
   - q: "What does Venus retrograde in Gemini mean?"
-    a: "Gemini compares, connects and keeps several threads going, so astrologers read Venus retrograde there as a review of what attracts you and why: the conversation that charmed you, the options kept open, the tastes picked up along the way. I read it as weather, never as a verdict on a relationship."
+    a: "Gemini compares, connects and keeps several threads going, so astrologers read Venus retrograde there as a review of what attracts you and why: the conversation that charmed you, the options kept open, the tastes picked up along the way. That’s weather in my reading: it says nothing about where a relationship is going."
   - q: "Why does Venus stay inside Gemini when it turns back there?"
     a: "Because its turning points fall well inside the sign: in my list, the station retrograde comes between 26°08′ and 17°31′ Gemini and the station direct between 9°37′ and 1°01′. Each return is about 2° lower, so by 2036 the station direct sits only a degree from Taurus."
   - q: "Is Venus retrograde in Gemini longer than elsewhere?"
@@ -58,6 +58,6 @@ Your [birth time](/blog/unknown-birth-time/) decides which house Gemini occupies
 
 ## What helps {#what-helps}
 
-Mercury rules Gemini, and the house your natal Mercury occupies shows where the comparing tends to happen. In these weeks, as I read them, talking helps more than deciding: say what you like out loud, to someone or on paper, and listen to how it sounds.
+Find your natal Mercury, Gemini’s ruler: its house is where the comparing usually happens. In these weeks, as I read them, talking helps more than deciding: say what you like out loud, to someone or on paper, and listen to how it sounds.
 
 Nothing in the sky sets a deadline on a choice of the heart. Gemini’s gift is to see more than one side, and a retrograde there simply gives you time to look at each.

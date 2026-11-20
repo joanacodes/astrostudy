@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 126
 glyph: "⚷"
-definition: "Their Chiron in your 6th house sets the other person’s Chiron among your routines, daily tasks and working habits. In synastry what they learned about working within limits meets your ordinary week: they often help you pace yourself, while your way of working brushes an old sore spot of theirs. It never describes health."
+definition: "Their Chiron in your 6th house lets the other person’s Chiron into your routines, daily tasks and working habits. In synastry what they learned about working within limits meets your ordinary week: they often help you pace yourself, while your way of working brushes an old sore spot of theirs. It never describes health."
 facts:
   - { k: "Their body", v: "Their Chiron ⚷" }
   - { k: "Your house", v: "The 6th house: routines, tasks, the working day" }
@@ -18,10 +18,10 @@ related: ["/astrology/chiron", "/astrology/6th-house", "/astrology/house-overlay
 faq:
   - q: "Could their Chiron in my 6th house point to illness, mine or theirs?"
     a: "No. Tradition read illness in the 6th, but a synastry can’t diagnose or foresee anything about anyone’s body, and Chiron’s old hurt is not an illness. This overlay describes daily routines and work: where their hard-won way of pacing themselves meets your ordinary week. A question about anyone's health goes to a doctor, not to a chart."
-  - q: "Why does someone with Chiron in my 6th house notice when I overwork?"
+  - q: "Why do they notice when I overwork, with their Chiron in my 6th house?"
     a: "Often because they have had to find their own way of working within limits, and recognise the signs of someone pushing past theirs. In your house of routines and daily tasks, that know-how shows as practical tips and well-timed breaks. Take what suits you; your schedule stays yours."
   - q: "Why do I take over their chores when my Chiron is in their 6th house?"
-    a: "Their routines and workload reach the place where you had to adapt, and being useful can feel like the safest way to be close. Helping is kind, but it can hide your own need for help. Ask what support they actually want, and let them return the favour."
+    a: "Their routines and workload touch the spot you've had to work around, and being useful can feel like the safest way to be close. Helping is kind, but it can hide your own need for help. Ask what support they actually want, and let them return the favour."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the 6th house, called Bad Fortune" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Virgo, a sign of Mercury" }
@@ -42,7 +42,7 @@ Help can become supervision. Tips on how you organise your day, what you eat at 
 
 From their side, being useful can turn into a hiding place. Helping you may come easier to them than being helped, and they may underplay what their workarounds cost them, until they're tired and you never saw it coming.
 
-Tradition gave the 6th illness; I read neither illness nor any other health matter here ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). Chiron's old hurt isn't a diagnosis, and this overlay describes how two people get through ordinary days together.
+Illness was the 6th's in tradition, but I read neither illness nor any other health matter here ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). Chiron's old hurt isn't a diagnosis, and this overlay describes how two people get through ordinary days together.
 
 ## How to meet it {#how-to-meet-it}
 
@@ -50,4 +50,4 @@ Share routines rather than supervise them, and ask what help looks like before g
 
 Seen from the other side, you carry the Chiron and they the 6th house: your hard-won know-how then goes into their working day. [Their Chiron in your 5th house](/astrology/chiron-in-5th-house-synastry/) meets your play; [their Chiron in your 7th house](/astrology/chiron-in-7th-house-synastry/), the person across the table.
 
-In Placidus, the house system I use, your 6th ends at your Descendant, and your birth time sets where that line falls, so a Chiron close to it may belong to your 6th or your 7th. Their side is simpler: Chiron covers so little ground in a day that their date alone fixes it. A reading of the two charts begins once I have both times ([what changes without a birth time](/blog/unknown-birth-time/)). A colleague's chart is as personal as a partner's, and it's read only if they've agreed to it ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#what-i-ask)).
+In Placidus, the house system I use, your 6th ends at your Descendant, and your birth time sets where that line falls, so a Chiron close to it may belong to your 6th or your 7th. Their side is simpler: their date alone is enough, since Chiron barely shifts between one dawn and the next. A reading of the two charts begins once I have both times ([what changes without a birth time](/blog/unknown-birth-time/)). A colleague's chart is as personal as a partner's, and it's read only if they've agreed to it ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#what-i-ask)).

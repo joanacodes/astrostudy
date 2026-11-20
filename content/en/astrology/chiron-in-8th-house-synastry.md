@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 128
 glyph: "⚷"
-definition: "Their Chiron in your 8th house gives the other person’s Chiron a place in your house of intimacy, trust, shared money and debts. In synastry their old hurt, and the steadiness it taught them, meets your closeness: they stay calm with your hard truths, while trust costs them. It never foretells loss."
+definition: "Their Chiron in your 8th house is an overlay in which the other person’s Chiron occupies your house of intimacy, trust, shared money and debts. In synastry their old hurt, and the steadiness it taught them, meets your closeness: they stay calm with your hard truths, while trust costs them. It never foretells loss."
 facts:
   - { k: "Their body", v: "Their Chiron ⚷" }
   - { k: "Your house", v: "The 8th house: intimacy, trust, what is shared" }
@@ -19,9 +19,9 @@ faq:
   - q: "Is there anything to fear from their Chiron in my 8th house?"
     a: "No. The old link between the 8th and death or inheritance doesn’t turn an overlay into a forecast: no chart foretells either, and I never read one for that. Their Chiron here describes an old hurt and its hard-won steadiness meeting your intimacy, trust and shared matters. It often brings someone who can stay with you through difficult conversations."
   - q: "Why can I tell someone with Chiron in my 8th house things I’ve never said?"
-    a: "People who have had to adapt around a sore spot of their own often stay calm in front of other people’s hard truths. In your house of intimacy and trust, that calm can feel like permission. Share at your own pace; depth doesn’t need to arrive all at once."
+    a: "Someone who has worked around a tender place for years tends to stay calm in front of other people’s hard truths. In your house of intimacy and trust, that calm can feel like permission. Share at your own pace; depth doesn’t need to arrive all at once."
   - q: "Why does closeness make me guarded when my Chiron is in their 8th house?"
-    a: "Their intimacy, openness and shared plans reach the place where you once had to adapt, so getting close can raise your old guard even when you want the closeness. Say so plainly, and agree a pace that suits you both. Holding back a little isn’t rejection; it’s how trust gets built here."
+    a: "Their intimacy, openness and shared plans touch the old tender place in you, so getting close can raise your old guard even when you want the closeness. Say so plainly, and agree a pace that suits you both. Holding back a little isn’t rejection; it’s how trust gets built here."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the 8th house and what tradition gave it" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Scorpio, a sign of Mars" }
@@ -35,7 +35,7 @@ Some bonds reach the place where people keep what they've never said. With their
 
 With them, you may say what you've never said. They tend not to flinch at hard truths, and they can stay beside you in a difficult conversation without hurrying it to a tidy end. When shared matters get complicated, a joint account, a loan, a promise, they may be the one who insists, gently, on everything being out in the open, because they know what secrecy costs.
 
-For them, closeness with you is where their guard can rise. Your openness, or simply the depth of what the two of you share, may press on the place where they once had to adapt, and they can want intimacy and brace against it in the same breath. Succedent houses keep what the angles start, and this one keeps whatever two people build together; [Scorpio](/astrology/scorpio/), its natural sign, has two rulers, Pluto in modern tropical astrology and Mars in tradition, and I read both.
+For them, closeness with you is where their guard can rise. Your openness, or simply the depth of what the two of you share, may press on their own old tender place, and they can want intimacy and brace against it in the same breath. Succedent houses keep what the angles start, and this one keeps whatever two people build together; [Scorpio](/astrology/scorpio/), its natural sign, answers to Mars in the old texts and to Pluto in modern tropical astrology; I read both.
 
 ## Where it rubs {#where-it-rubs}
 

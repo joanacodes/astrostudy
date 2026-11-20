@@ -1,13 +1,13 @@
 ---
 title: "Venus retrograde in Pisces"
 h1: "When Venus turns retrograde in Pisces"
-description: "Venus retrograde in Pisces, its exaltation: four from 2000 to 2040, each backing in from Aries to turn direct in Pisces; house by house, and what helps."
+description: "Venus retrograde in Pisces, its exaltation: the spring retrograde’s last weeks, four times from 2000 to 2040, turning ever deeper in the sign; house by house."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 24
 glyph: "♀℞♓"
-definition: "Venus retrograde in Pisces is the later part of Venus’s spring retrograde, every eight years, when Venus seems from Earth to back out of Aries into Pisces and turn direct there, in the sign of its exaltation. I read it as tenderness, forgiveness and longing valued again, in the house Pisces occupies in your chart."
+definition: "In Pisces, Venus retrograde is the closing stretch of the spring retrograde: every eight years Venus, seen from Earth, backs out of Aries into Pisces and turns direct there, in the sign of its exaltation. Tenderness, forgiveness and longing come up for review, in whichever house Pisces holds in your chart."
 facts:
   - { k: "Planet", v: "Venus ♀, in its exaltation" }
   - { k: "Sign", v: "Pisces ♓, mutable water, ruled by Neptune and Jupiter" }
@@ -18,13 +18,13 @@ facts:
 related: ["/astrology/venus-retrograde", "/astrology/pisces", "/astrology/venus-in-pisces", "/astrology/exaltation", "/blog/retrograde-planets"]
 faq:
   - q: "When is Venus retrograde in Pisces?"
-    a: "The most recent ran from 2 March to 13 April 2025, from 10°50′ Aries back to 24°37′ Pisces. The next runs from 27 February to 10 April 2033, from 8°31′ Aries to 22°21′ Pisces. In my list, each one begins in Aries and turns direct in Pisces."
+    a: "In 2025 it began on 2 March, with Venus stationing at 10°50′ Aries, and ended on 13 April at 24°37′ Pisces. Next comes the retrograde of 27 February to 10 April 2033, which turns direct at 22°21′ Pisces. In my list, each one begins in Aries and turns direct in Pisces."
   - q: "What does Venus retrograde in Pisces mean?"
-    a: "Tradition places Venus in its exaltation in Pisces, where valuing is tender, imaginative and forgiving. Astrologers read the retrograde there as those qualities looked at again: compassion, longing, what you’ve forgiven and what you idealise. I read it as weather, never as a verdict on a relationship."
+    a: "Tradition places Venus in its exaltation in Pisces, where valuing is tender, imaginative and forgiving. Astrologers read the retrograde there as those qualities looked at again: compassion, longing, what you’ve forgiven and what you idealise. To me it’s weather for some weeks, and no reading of a relationship rests on it."
   - q: "Why does Venus retrograde in Pisces start in Aries?"
     a: "Because Venus backs through the signs in reverse order. In my list it stations in Aries every time, between 15°27′ and 8°31′, and moves back past 0° Aries into Pisces, where it turns direct a little deeper at each return: 29°12′ in 2009, 26°54′ in 2017, 24°37′ in 2025, 22°21′ in 2033."
-  - q: "Which rulers matter for Venus retrograde in Pisces?"
-    a: "Pisces has two, Jupiter in the tradition and Neptune in modern tropical astrology, and I read both: the houses of your natal Jupiter and Neptune show where your generosity and your ideals live, and where these weeks tend to lead. Finding those houses needs your birth time."
+  - q: "Why look at Jupiter and Neptune during Venus retrograde in Pisces?"
+    a: "Because they are Pisces’s two rulers, Jupiter by tradition and Neptune in modern tropical astrology, and I read both. Where Jupiter sits in your chart shows how you give; where Neptune sits, what you dream of. Neither house can be found without your birth time."
 sources:
   - { title: "The Astro Study’s dates from the planets’ positions", note: "Venus’s four spring retrogrades ending in Pisces, 2000–2040, with their stations" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "Venus’s stations direct and their eight-year return" }
@@ -33,7 +33,7 @@ Venus’s spring retrograde begins in Aries and ends in Pisces, so Pisces receiv
 
 ## What slows down {#what-slows-down}
 
-[Pisces](/astrology/pisces/) is mutable water with two rulers, Jupiter in the tradition and Neptune in modern tropical astrology; I read both. Tradition makes it Venus’s exaltation, where valuing is tender, imaginative and quick to forgive. When [Venus retrograde](/astrology/venus-retrograde/) backs into Pisces, the planet seems from Earth to drift back through the last degrees of the zodiac before it turns, and what slows is that tenderness: the people you’ve idealised and the ones you’ve forgiven, the longing for a love that asks nothing, the line between compassion and giving yourself away.
+[Pisces](/astrology/pisces/), mutable water, takes Jupiter as its ruler in the tradition and Neptune in modern tropical astrology, and I read both. Tradition makes it Venus’s exaltation, where valuing is tender, imaginative and quick to forgive. When [Venus retrograde](/astrology/venus-retrograde/) backs into Pisces, the planet seems from Earth to drift back through the last degrees of the zodiac before it turns, and what slows is that tenderness: the people you’ve idealised and the ones you’ve forgiven, the longing for a love that asks nothing, the line between compassion and giving yourself away.
 
 In my list, four retrogrades between 2000 and 2040 end in Pisces, eight years apart, each stationing in Aries ([Venus retrograde in Aries](/astrology/venus-retrograde-in-aries/)) and turning direct a little over 2° deeper into Pisces than the last: 29°12′ on 17 April 2009, 26°54′ on 15 April 2017, 24°37′ on 13 April 2025, 22°21′ on 10 April 2033. The most recent began on 2 March 2025, when Venus stationed at 10°50′ Aries; the next begins on 27 February 2033 at 8°31′ Aries. Before them, the 2001 retrograde stayed in Aries and never reached Pisces, and none of the series reaches back to Aquarius ([Venus retrograde in Aquarius](/astrology/venus-retrograde-in-aquarius/)).
 
@@ -58,6 +58,6 @@ Pisces lands on a house of your chart that only [your birth time](/blog/unknown-
 
 ## What helps {#what-helps}
 
-Read both rulers: the house of your natal Jupiter shows where you give generously, the house of your natal Neptune where you dream and idealise, and between them they show where these weeks take your tenderness.
+Jupiter’s house in your birth chart is where you give most freely, Neptune’s where you dream; between them, they show where these weeks carry your tenderness.
 
 Compassion includes you, and a kindness kept for yourself is part of what Venus in Pisces values. Nothing in these weeks decides anything about a relationship.

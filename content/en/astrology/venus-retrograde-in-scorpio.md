@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 20
 glyph: "♀℞♏"
-definition: "Venus retrograde in Scorpio is the six weeks or so, from early October every eight years, when Venus seems from Earth to stop in Scorpio and back through it, usually on into Libra. I read it as attachment and desire examined at depth: what you share, what you hold onto and why, in the house Scorpio occupies in your chart."
+definition: "Venus retrograde in Scorpio begins every eight years in early October: Venus, seen from Earth, halts in Scorpio and backs through it for about six weeks, usually ending in Libra. I read it as attachment and desire examined at depth: what you share, what you hold onto and why, in the house Scorpio occupies in your chart."
 facts:
   - { k: "Planet", v: "Venus ♀, in its detriment" }
   - { k: "Sign", v: "Scorpio ♏, fixed water, ruled by Pluto and Mars" }
@@ -23,8 +23,8 @@ faq:
     a: "Tradition puts Venus in its detriment in Scorpio, where valuing is intense, loyal and wary of the surface. Astrologers read the retrograde there as attachments and desires examined for what lies underneath. I read it as weeks of honest looking, never as a forecast about love or a verdict on a relationship."
   - q: "Did the 2002 retrograde stay in Scorpio?"
     a: "By its stations, yes. Venus turned back at 15°36′ Scorpio on 10 October 2002 and turned direct at 0°03′ Scorpio on 21 November, just inside the sign. Every later one in my list keeps going past 0° and turns direct in Libra."
-  - q: "Which ruler matters for Venus retrograde in Scorpio?"
-    a: "Scorpio has two rulers, Mars in the tradition and Pluto in modern tropical astrology, and I read both: the houses of your natal Mars and Pluto show where the questions of these weeks tend to lead. Finding those houses, like the one the retrograde crosses, takes your birth time."
+  - q: "Do I look at Mars or Pluto for Venus retrograde in Scorpio?"
+    a: "Both. The tradition gives Scorpio to Mars and modern tropical astrology gives it to Pluto, and I read both rulers: your natal Mars by house shows where desire tends to act, your natal Pluto where it tends to transform. Placing either of them in a house takes your birth time."
 sources:
   - { title: "The Astro Study’s dates from the planets’ positions", note: "Venus’s five autumn retrogrades starting in Scorpio, 2000–2040" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "where Venus stations, and how far it backs" }
@@ -33,9 +33,9 @@ Every eight years, around the start of October, Venus stops in Scorpio and start
 
 ## What slows down {#what-slows-down}
 
-[Scorpio](/astrology/scorpio/) is fixed water with two rulers, Pluto in modern tropical astrology and Mars in the tradition, and I read both. Opposite Venus’s own Taurus, it is one of the two signs where Venus is said to be in detriment: valuing there is intense, loyal, wary of the surface. When [Venus retrograde](/astrology/venus-retrograde/) begins in Scorpio, the planet seems from Earth to stop and burrow back through the sign, and the review goes deep: what you share and with whom, which attachments are chosen and which are held for fear of losing them, what a desire is really asking for.
+[Scorpio](/astrology/scorpio/) is fixed water, and it answers to two rulers: Mars, as the tradition has it, and Pluto, in modern tropical astrology. I read both. Opposite Venus’s own Taurus, it is one of the two signs where Venus is said to be in detriment: valuing there is intense, loyal, wary of the surface. When [Venus retrograde](/astrology/venus-retrograde/) begins in Scorpio, the planet seems from Earth to stop and burrow back through the sign, and the review goes deep: what you share and with whom, which attachments are chosen and which are held for fear of losing them, what a desire is really asking for.
 
-Every autumn retrograde in my list, from 2000 to 2040, starts in Scorpio, about 2⅓° lower every eight years: 15°36′ on 10 October 2002, 13°13′ in 2010, 10°50′ in 2018, 8°29′ on 3 October 2026, 6°07′ on 30 September 2034. By its stations the 2002 one stayed wholly in Scorpio, turning direct at 0°03′. The four after it cross back into Libra and turn direct there ([Venus retrograde in Libra](/astrology/venus-retrograde-in-libra/)): the most recent, from 3 October to 14 November 2026, at 22°51′ Libra; the next, from 30 September to 11 November 2034, at 20°27′ Libra. None reaches forward into Sagittarius, which has no Venus retrograde in my list ([Venus retrograde in Sagittarius](/astrology/venus-retrograde-in-sagittarius/)).
+Every autumn retrograde in my list, from 2000 to 2040, starts in Scorpio, about 2⅓° lower every eight years: 15°36′ on 10 October 2002, 13°13′ in 2010, 10°50′ in 2018, 8°29′ on 3 October 2026, 6°07′ on 30 September 2034. By its stations the 2002 one stayed wholly in Scorpio, turning direct at 0°03′. The four after it cross back into Libra and turn direct there ([Venus retrograde in Libra](/astrology/venus-retrograde-in-libra/)): the most recent, from 3 October to 14 November 2026, at 22°51′ Libra; the next, from 30 September to 11 November 2034, at 20°27′ Libra. Sagittarius, on the far side, stays untouched: my list has no Venus retrograde there ([Venus retrograde in Sagittarius](/astrology/venus-retrograde-in-sagittarius/)).
 
 As a birth placement, Venus retrograde in Scorpio is deep feeling that takes its time to trust, and I read it on its own ([natal retrograde planets](/blog/retrograde-planets/)).
 

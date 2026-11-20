@@ -31,7 +31,7 @@ Les petits mots pèsent lourd en maison 3 : le message lu sur le mauvais ton, l
 
 ## Ce que ça apporte {#ce-que-ca-apporte}
 
-[Chiron](/astrology/chiron/) décrit une limite ancienne et le détour qu’une personne a trouvé pour vivre avec : le long chemin qui, avec le temps, devient un savoir-faire à transmettre. La [maison 3](/astrology/3rd-house/) est la circulation de votre vie quotidienne : conversations, messages, courses, la façon dont votre esprit traverse une journée ordinaire, les premiers apprentissages, et les personnes à côté de qui vous avez grandi. Dans cette [superposition de maisons](/astrology/house-overlays/), sa patience durement gagnée rencontre vos mots de tous les jours.
+[Chiron](/astrology/chiron/) décrit une limite ancienne et le détour qu’une personne a trouvé pour vivre avec : le long chemin qui, avec le temps, devient un savoir-faire à transmettre. La [maison 3](/astrology/3rd-house/) est la circulation de votre vie quotidienne : conversations, messages, courses, la façon dont votre esprit traverse une journée ordinaire, les premiers apprentissages, et les frères, sœurs, cousins ou voisins de votre enfance. Dans cette [superposition de maisons](/astrology/house-overlays/), sa patience durement gagnée rencontre vos mots de tous les jours.
 
 Les choses s’éclairent peut-être quand c’est elle qui les explique. Elle vous donne rarement l’impression d’aller trop lentement, et quand vous butez sur ce que vous avez abandonné il y a des années, une langue, un calcul, un formulaire, elle propose une autre porte d’entrée plutôt que la même explication en plus fort. Elle écoute votre façon de dire les choses, pas seulement ce que vous dites.
 

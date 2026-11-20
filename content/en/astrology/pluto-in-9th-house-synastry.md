@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 117
 glyph: "♇"
-definition: "Their Pluto in your 9th house brings the other person’s depth to your beliefs, philosophy, long study and far journeys. In synastry convictions are tested at the root, debates go deep, and they may find their own certainties shaken by yours. It predicts no conversion: each of you keeps the right to believe differently."
+definition: "Their Pluto in your 9th house lets the other person’s depth into your beliefs, philosophy, long study and far journeys. In synastry convictions are tested at the root, debates go deep, and they may find their own certainties shaken by yours. It predicts no conversion: each of you keeps the right to believe differently."
 facts:
   - { k: "Their body", v: "Their Pluto ♇" }
   - { k: "Your house", v: "The 9th house: beliefs, study, far journeys" }
@@ -19,7 +19,7 @@ faq:
   - q: "How can their Pluto in my 9th house change what I believe?"
     a: "It tends to test your beliefs at the root: inherited ideas may be questioned, deepened or set down, and your thinking about big questions grows more honest. That can be freeing. What you end up believing stays yours; the overlay describes a meeting of minds, not a conversion."
   - q: "Why do our debates about ideas run so deep?"
-    a: "Their Pluto, the planet of depth, falls in your house of philosophy and faith, so conversations about meaning reach each of you at the core. That’s why they matter so much. Arguing to understand rather than to win keeps the depth and drops the fight."
+    a: "Because Pluto’s depth, in their chart, lands where your philosophy and faith live, conversations about meaning reach each of you at the core. That’s why they matter so much. Arguing to understand rather than to win keeps the depth and drops the fight."
   - q: "Is the Pluto person trying to convert me?"
     a: "Not necessarily. Their depth meets your worldview, so they may question it hard, or find their own shaken by yours. If it starts to feel like pressure, say so: each of you keeps the right to believe differently, and a good bond can hold that difference."
 sources:

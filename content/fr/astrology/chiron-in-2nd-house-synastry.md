@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 122
 glyph: "⚷"
-definition: "Chiron de l’autre dans votre maison 2 place son Chiron parmi vos ressources et ce qui fait votre valeur : argent, biens, estime de soi. En synastrie, ce qu’elle a appris à la dure rencontre vos ressources : cette personne voit ce que vous sous-estimez, et votre rapport à l’argent touche chez elle un vieux point sensible."
+definition: "Chiron de l’autre dans votre maison 2 range son Chiron parmi vos ressources et ce qui fait votre valeur : argent, biens, estime de soi. En synastrie, ce qu’elle a appris à la dure rencontre vos ressources : cette personne voit ce que vous sous-estimez, et votre rapport à l’argent touche chez elle un vieux point sensible."
 facts:
   - { k: "Corps de l’autre", v: "Le Chiron de l’autre ⚷" }
   - { k: "Votre maison", v: "La maison 2 : l’argent, les biens, l’estime de soi" }
@@ -17,9 +17,9 @@ facts:
   - { k: "Il faut", v: "Votre heure de naissance ; sa date de naissance place son Chiron" }
 related: ["/astrology/chiron", "/astrology/2nd-house", "/astrology/house-overlays", "/astrology/chiron-in-2nd-house", "/blog/saturn-chiron-lilith"]
 faq:
-  - q: "Le Chiron de l’autre dans ma maison 2 annonce-t-il des soucis d’argent entre nous ?"
+  - q: "Son Chiron dans ma maison 2 va-t-il nous causer des soucis d’argent ?"
     a: "Non. Une superposition ne peut pas prédire ce que quelqu’un gagnera, perdra ou devra. Elle décrit la façon dont deux personnes vivent la valeur ensemble : l’autre repère peut-être un talent que vous bradez, et votre rapport à l’argent effleure un vieux point sensible chez elle. En parler franchement évite les devinettes."
-  - q: "Pourquoi une personne dont le Chiron est dans ma maison 2 voit-elle ce que je sous-estime ?"
+  - q: "Comment son Chiron dans ma maison 2 lui fait-il voir ce que je sous-estime ?"
     a: "Parce qu’une personne qui a dû s’adapter autour d’un point sensible sait souvent ce que vaut un effort, le vôtre compris. Cela lui fait vite voir quand vous bradez vos talents. Prenez la remarque si elle vous sert ; vos prix et vos valeurs restent les vôtres."
   - q: "Pourquoi ai-je envie de conseiller l’autre sur l’argent quand mon Chiron est dans sa maison 2 ?"
     a: "Souvent l’impression de voir quelqu’un manier l’argent et le confort d’une façon qui appuie sur votre propre point sensible, quel qu’il soit. Ses dépenses, ses économies ou sa modestie réveillent de vieux sentiments, et l’envie de conseiller vous démange. Ne le faites que sur demande, et laissez-la décider de ce qui compte."
@@ -36,7 +36,7 @@ Ce que vous possédez, ce que vous facturez, ce que vous pensez mériter : voil
 
 Avec cette personne, vous osez peut-être enfin annoncer un prix. Elle repère le talent que vous donnez pour rien, le tarif jamais augmenté, l’achat dont vous vous excusez encore. Ayant dû contourner un point sensible, elle sait ce que vaut une compétence bâtie par le long chemin, et vous le dit, sans en faire une affaire, quand vous fixez votre prix trop bas.
 
-Pour elle, votre rapport à l’avoir peut émouvoir, ou toucher un point tendre. Votre aisance avec le confort, ou votre économie soigneuse, effleure peut-être ce qu’elle a dû contourner, et l’argent porte chez elle plus de vieux sentiments qu’elle n’en montre ; souvent, elle se montre généreuse envers vous de façon très concrète. Dans la maison 2, succédente, ce que la maison 1 a mis en mouvement se pose et se garde ; le [Taureau](/astrology/taurus/), son signe naturel, tient à ce qui est solide et dure.
+Pour elle, votre rapport à l’avoir peut émouvoir, ou toucher un point tendre. Votre aisance avec le confort, ou votre économie soigneuse, effleure peut-être ce qu’elle a dû contourner, et l’argent porte chez elle plus de vieux sentiments qu’elle n’en montre ; souvent, elle se montre généreuse envers vous de façon très concrète. Dans la maison 2, succédente, ce qui est arrivé avec la maison 1 se dépose et se garde ; le [Taureau](/astrology/taurus/), son signe naturel, tient à ce qui est solide et dure.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
@@ -50,6 +50,6 @@ Une superposition ne prédit ni gains, ni pertes, ni dettes, et je n’en lis ja
 
 Parlez d’argent simplement et précisément : qui paie quoi, et pourquoi. Faites de son regard sur vos talents sous-estimés un cadeau dont vous choisissez l’usage. Dans un couple, un accord clair sur ce qui est commun et ce qui reste à chacun protège les deux ; entre amis, un prêt se dit mieux qu’il ne se suppose ; entre collègues, elle peut vous aider à fixer un tarif, tant que la décision reste la vôtre ; entre proches adultes, les vieilles habitudes familiales face à l’argent méritent un regard doux.
 
-Si le Chiron est le vôtre et la maison 2 la sienne, tout ce qui précède s’inverse : vos vieux sentiments sur la valeur rencontrent ses biens et sa paie. Juste à côté, [Chiron de l’autre dans votre maison 1](/astrology/chiron-in-1st-house-synastry/) touche votre manière de paraître, et [Chiron de l’autre dans votre maison 3](/astrology/chiron-in-3rd-house-synastry/), votre façon de parler et d’apprendre.
+Quand c’est vous qui avez Chiron dans sa maison 2, tout ce qui précède s’inverse : vos vieux sentiments sur la valeur rencontrent ses biens et sa paie. Juste à côté, [Chiron de l’autre dans votre maison 1](/astrology/chiron-in-1st-house-synastry/) touche votre manière de paraître, et [Chiron de l’autre dans votre maison 3](/astrology/chiron-in-3rd-house-synastry/), votre façon de parler et d’apprendre.
 
-Sa date de naissance suffit à fixer son Chiron, qui ne bouge presque pas en une journée. Votre heure trace la maison 2, et en Placidus, le système de maisons que j’utilise, la part du zodiaque qu’elle couvre dépend du moment et du lieu de votre naissance : je ne lis donc la paire qu’avec les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Dans [mon carnet](/blog/i-tested-my-birth-chart/), Chiron faisait partie des trois placements, avec Saturne et Lilith, qui ont tenu 75 à 90 % du temps ; c’était dans des thèmes seuls, et pour une superposition je n’ai aucun chiffre, seulement la raison pour laquelle je regarde ici tôt. La valeur est une affaire privée : cette lecture attend le oui des deux personnes ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Sa date de naissance suffit à fixer son Chiron, qui ne bouge presque pas en une journée. Votre heure trace la maison 2, et en Placidus, le système de maisons que j’utilise, la part du zodiaque qu’elle couvre change d’une naissance à l’autre, selon l’heure et la latitude : je ne lis donc la paire qu’avec les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Dans [mon carnet](/blog/i-tested-my-birth-chart/), Chiron faisait partie des trois placements, avec Saturne et Lilith, qui ont tenu 75 à 90 % du temps ; c’était dans des thèmes seuls, et pour une superposition je n’ai aucun chiffre, seulement la raison pour laquelle je regarde ici tôt. La valeur est une affaire privée : cette lecture attend le oui des deux personnes ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

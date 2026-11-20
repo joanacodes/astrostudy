@@ -16,7 +16,7 @@ facts:
   - { k: "Needs", v: "Your birth time; their Chiron is placed by their birth date" }
 related: ["/astrology/chiron", "/astrology/2nd-house", "/astrology/house-overlays", "/astrology/chiron-in-2nd-house", "/blog/saturn-chiron-lilith"]
 faq:
-  - q: "Does their Chiron in my 2nd house mean money trouble between us?"
+  - q: "Will their Chiron in my 2nd house cause money trouble between us?"
     a: "No. An overlay can’t forecast what anyone will earn, lose or owe. It describes how two people handle worth together: they may spot a skill you undercharge for, and your attitude to money may brush an old sore spot of theirs. Talking plainly about money keeps that from turning into guesswork."
   - q: "Why does someone with Chiron in my 2nd house notice what I undervalue?"
     a: "Because people who have had to adapt around a sore spot of their own tend to know what effort is worth, including yours. That makes them quick to see when you give your skills away. Take the observation if it helps; your prices and your values stay yours to set."

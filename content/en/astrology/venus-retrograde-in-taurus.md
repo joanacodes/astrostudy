@@ -20,7 +20,7 @@ faq:
   - q: "When is Venus retrograde in Taurus?"
     a: "Not once between 2000 and 2040, in the dates I use. In those years Venus turns back in Aries and Pisces in early spring, in Gemini in May and June, in Leo and Virgo, in Scorpio and Libra, and in Capricorn and Aquarius; Taurus sits in the gap between the first two."
   - q: "What would Venus retrograde in Taurus mean?"
-    a: "Venus rules Taurus, so astrologers read a retrograde there as Venus’s own business turning back: what you value, keep and look after, weighed again at an unhurried pace. I read any Venus retrograde as weather for a few weeks, never as a judgement on a relationship."
+    a: "Venus rules Taurus, so astrologers read a retrograde there as Venus’s own business turning back: what you value, keep and look after, weighed again at an unhurried pace. As I read it, weeks like these describe a mood, and a relationship is never judged by them."
   - q: "Can I have Venus retrograde in Taurus in my birth chart?"
     a: "Yes, if your chart shows it, but not with a birth between 2000 and 2040, since none falls in those years. A natal retrograde Venus describes valuing that takes its own time, and I read it as a rhythm of yours, never as a flaw."
   - q: "Which Venus retrograde comes closest to Taurus?"

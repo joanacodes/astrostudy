@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 21
 glyph: "♀℞♐"
-definition: "Venus retrograde in Sagittarius would be Venus appearing, from Earth, to back up through Sagittarius for about six weeks, but between 2000 and 2040 it never happens: the nearest retrogrades stop in Scorpio and Capricorn. I read the idea as a love of freedom and far horizons valued again, in the house Sagittarius occupies in your chart."
+definition: "No Venus retrograde falls in Sagittarius between 2000 and 2040: the nearest stop in Scorpio and Capricorn. Were one to come, Venus would seem from Earth to back through the sign for about six weeks, and I’d read it as a love of freedom and far horizons weighed again, in the Sagittarius house of your chart."
 facts:
   - { k: "Planet", v: "Venus ♀" }
   - { k: "Sign", v: "Sagittarius ♐, mutable fire, ruled by Jupiter" }
@@ -18,9 +18,9 @@ facts:
 related: ["/astrology/venus-retrograde", "/astrology/sagittarius", "/astrology/venus-in-sagittarius", "/astrology/jupiter", "/blog/retrograde-planets"]
 faq:
   - q: "When is Venus retrograde in Sagittarius?"
-    a: "Never between 2000 and 2040, in the dates I use. The autumn retrogrades start in Scorpio, no higher than 15°36′ Scorpio, and the winter ones turn direct in Capricorn, no lower than 6°08′ Capricorn, so Sagittarius sits untouched between them for those forty years."
+    a: "In the dates I use, it doesn’t happen between 2000 and 2040. The autumn retrogrades start in Scorpio, no higher than 15°36′ Scorpio, and the winter ones turn direct in Capricorn, no lower than 6°08′ Capricorn, so Sagittarius sits untouched between them for those forty years."
   - q: "What would Venus retrograde in Sagittarius mean?"
-    a: "Sagittarius explores and looks for meaning, so astrologers would read Venus retrograde there as a review of what you value in freedom, travel and ideas, and of how much room you want in love. I read any Venus retrograde as weather, never as a ruling on a relationship."
+    a: "Sagittarius explores and looks for meaning, so astrologers would read Venus retrograde there as a review of what you value in freedom, travel and ideas, and of how much room you want in love. Whatever it stirred, I would read it as weather, not as a ruling on anyone’s bond."
   - q: "Which Venus retrogrades come closest to Sagittarius?"
     a: "The winter series in Capricorn. Its station direct falls about 2½° lower every eight years, from 16°01′ Capricorn in early 2006 to 6°08′ Capricorn in January 2038, so it moves towards Sagittarius. The autumn series in Scorpio moves the other way."
   - q: "Where should I look instead?"
@@ -41,7 +41,7 @@ Nobody born between 2000 and 2040 has Venus retrograde in Sagittarius in their c
 
 ## House by house {#house-by-house}
 
-Sagittarius’s place among your houses is drawn from the minute and the place of your birth, so it needs [your birth time](/blog/unknown-birth-time/), and I never read a chart without it. Here, in Placidus, the system I use, is what a Venus retrograde in Sagittarius would slow in each house.
+Sagittarius’s place among your houses is drawn from the minute and the place of your birth, so it needs [your birth time](/blog/unknown-birth-time/), and I never read a chart without it. The lines below, drawn in Placidus, my house system, are what one would slow if it came.
 
 1. **[1st house](/astrology/sagittarius-rising/):** Sagittarius rising: a frank, adventurous manner; the freedom you show the world, and what it gives you.
 2. **[2nd house](/astrology/sagittarius-on-2nd-house-cusp/):** spending on experience; what you value more than possessions, valued again.

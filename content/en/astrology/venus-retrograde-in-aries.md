@@ -1,7 +1,7 @@
 ---
 title: "Venus retrograde in Aries"
 h1: "When Venus turns retrograde in Aries"
-description: "Venus retrograde in Aries: six weeks, every eight years, when Venus backs through Mars’s sign; its dates from 2000 to 2040, house by house, and what helps."
+description: "Venus retrograde in Aries: six weeks every eight years in Mars’s sign, from early March, mostly ending in Pisces; dates to 2040, house by house, what helps."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/venus-retrograde", "/astrology/aries", "/astrology/venus-in-aries", "/astrology/stations", "/blog/retrograde-planets"]
 faq:
   - q: "When is Venus retrograde in Aries?"
-    a: "The most recent ran from 2 March to 13 April 2025, stationing at 10°50′ Aries and turning direct at 24°37′ Pisces. The next runs from 27 February to 10 April 2033, from 8°31′ Aries back to 22°21′ Pisces. Between those two, Venus doesn’t turn back in Aries at all."
+    a: "The latest lasted from 2 March to 13 April 2025: Venus stationed at 10°50′ Aries and turned direct at 24°37′ Pisces. Then comes 27 February to 10 April 2033, from 8°31′ Aries back to 22°21′ Pisces. Between those two, Venus doesn’t turn back in Aries at all."
   - q: "What does Venus retrograde in Aries mean?"
     a: "Tradition places Venus in its detriment in Aries, opposite its own Libra, where valuing is quick and frank. Astrologers read the retrograde there as attractions and preferences formed at speed coming back for review. I read it as weather for a few weeks, never as a verdict on anyone’s relationship."
   - q: "Why does Venus retrograde in Aries end in Pisces?"

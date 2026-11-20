@@ -18,10 +18,10 @@ related: ["/astrology/chiron", "/astrology/4th-house", "/astrology/house-overlay
 faq:
   - q: "Does their Chiron in my 4th house mean they’ll hurt my family?"
     a: "No. Chiron describes an old hurt someone already carries and what it taught them, not harm they will do. In your 4th, it shows that home and family are where their sore spot gets touched, and where their know-how about belonging comes into play. Many people with this overlay make a home feel safer, not less."
-  - q: "Why does my home feel safer with someone whose Chiron is in my 4th house?"
+  - q: "Why does my home feel safer when their Chiron is in my 4th house?"
     a: "Often because they have had to work at belonging themselves, and know what makes a place feel safe: the spare key, the quiet corner, the welcome without questions. Around your home and roots, that skill is what you meet first. Their own tender place may sit close by, so let them set the pace."
   - q: "Why does their family stir me so much when my Chiron is in their 4th house?"
-    a: "Their home, family and private life reach the place where you had to adapt, so their kitchen table or their family rituals can stir more than you expected: comfort, envy, or both. You may find yourself making their home kinder. Let them decide what changes there."
+    a: "Their home, family and private life brush against your own old hurt, so their kitchen table or their family rituals can stir more than you expected: comfort, envy, or both. You may find yourself making their home kinder. Let them decide what changes there."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the 4th house and what tradition gave it" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Cancer, the Moon’s sign" }
@@ -42,12 +42,12 @@ A gift for belonging can turn into a repair job. They may try to mend your famil
 
 From their side, being in your home can expose them. A joke at your family's table, an old photo, a ritual everyone else knows by heart may land on the place they've worked hardest to protect, and they may withdraw without saying why.
 
-The 4th describes your experience of home and family; it says nothing certain about anyone's parents, theirs or yours. And their Chiron describes a hurt they brought with them, not one either of you is about to cause.
+The 4th describes your experience of home and family; it allows no firm statement about anyone's parents, theirs or yours. And their Chiron describes a hurt they brought with them, not one either of you is about to cause.
 
 ## How to meet it {#how-to-meet-it}
 
 Let them choose how much of your family they take on, and how fast. Build some traditions of your own rather than inheriting them all. Moving in together, talk early about what home means to each of you; between friends, a standing invitation can mean more than a grand gesture; between colleagues who work from home, respect the line between the desk and the kitchen; between adult relatives, step-families and in-laws often find their footing here.
 
-From their chair, the overlay is your Chiron in their 4th house, and their home becomes the place where your old hurt is touched. [Their Chiron in your 3rd house](/astrology/chiron-in-3rd-house-synastry/) works through your daily talk; [their Chiron in your 5th house](/astrology/chiron-in-5th-house-synastry/) through play and pleasure.
+From their chair, it is your Chiron that sits in their 4th house, and their home becomes the place where your old hurt is touched. [Their Chiron in your 3rd house](/astrology/chiron-in-3rd-house-synastry/) works through your daily talk; [their Chiron in your 5th house](/astrology/chiron-in-5th-house-synastry/) through play and pleasure.
 
-Their birth date places their Chiron. Your birth time places your IC, which turns through the whole zodiac in a day, and in Placidus, the house system I use, the 4th begins there, so your time decides whether their Chiron sits in your 3rd or your 4th; I wait for both times before reading ([what changes without a birth time](/blog/unknown-birth-time/)). One family detail: Chiron takes about fifty years to go round the zodiac, the cycle of the [Chiron return](/astrology/chiron-return/), so a grandparent and an adult grandchild born about fifty years apart have their Chirons near the same place. Home is private ground, and I read it only for two adults who both want the reading ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Their birth date places their Chiron. Your birth time places your IC, which turns through the whole zodiac in a day, and in Placidus, the house system I use, the 4th begins there, so your time decides on which side of that line their Chiron falls, 3rd or 4th; I wait for both times before reading ([what changes without a birth time](/blog/unknown-birth-time/)). One family detail: Chiron takes about fifty years to go round the zodiac, the cycle of the [Chiron return](/astrology/chiron-return/), so a grandparent and an adult grandchild born about fifty years apart have their Chirons near the same place. Home is private ground, and I read it only for two adults who both want the reading ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

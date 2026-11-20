@@ -20,9 +20,9 @@ faq:
   - q: "When was Venus last retrograde in Virgo?"
     a: "From 25 July to 6 September 2015, when Venus stationed at 0°46′ Virgo and backed into Leo, turning direct at 14°23′ Leo. The one before, from 27 July to 8 September 2007, stationed at 2°57′ Virgo. In my list, none follows before the end of 2040."
   - q: "What does Venus retrograde in Virgo mean?"
-    a: "Tradition places Venus in its fall in Virgo, where affection shows itself through care, usefulness and attention to detail. Astrologers read a retrograde there as those attentions and standards looked at again: what you do for the people you love, and what you expect. I read it as weather, never as a verdict on a relationship."
+    a: "Tradition places Venus in its fall in Virgo, where affection shows itself through care, usefulness and attention to detail. Astrologers read a retrograde there as those attentions and standards looked at again: what you do for the people you love, and what you expect. I take it as a season of noticing, not a judgement passed on anyone."
   - q: "Why have Venus’s retrogrades left Virgo?"
-    a: "Because each return of the summer series falls about 2° lower in the zodiac. After stationing at 2°57′ Virgo in 2007 and 0°46′ Virgo in 2015, Venus stationed at 28°36′ Leo in 2023, and every later retrograde of that series in my list stays wholly in Leo."
+    a: "The summer series slips about 2° down the zodiac at every return. After stationing at 2°57′ Virgo in 2007 and 0°46′ Virgo in 2015, Venus stationed at 28°36′ Leo in 2023, and every later retrograde of that series in my list stays wholly in Leo."
   - q: "Is Venus retrograde in Virgo bad for love?"
     a: "Not as I read it. Tradition calls Virgo Venus’s fall, but that describes a careful, practical way of loving, not a lesser one. A retrograde adds a few weeks of review, and a review is not a verdict: it decides nothing about how any relationship turns out."
 sources:
@@ -58,6 +58,6 @@ Only [your birth time](/blog/unknown-birth-time/) can place Virgo in one of your
 
 ## What helps {#what-helps}
 
-Mercury rules Virgo, and where your natal Mercury sits by house shows where the sorting of what you love tends to happen. Virgo’s Venus improves what it loves.
+As Virgo’s ruler, your natal Mercury shows by its house where you tend to sort and grade what you love. Virgo’s Venus improves what it loves.
 
 A retrograde here, as I read it, is a reminder to let some things be loved as they are, and that reminder doesn’t need a retrograde to come round again before you take it.

@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 117
 glyph: "♇"
-definition: "Pluton de l’autre dans votre maison 9 porte la profondeur d’une autre personne jusqu’à vos croyances, votre philosophie, vos longues études et vos voyages lointains. En synastrie, les convictions sont éprouvées à la racine, les débats vont loin, et l’autre voit parfois ses certitudes ébranlées par les vôtres. Aucune conversion n’y est prédite : chaque personne garde le droit de croire autrement."
+definition: "Pluton de l’autre dans votre maison 9 conduit la profondeur d’une autre personne vers vos croyances, vos longues études et vos voyages lointains. En synastrie, les convictions sont éprouvées à la racine, les débats vont loin, et l’autre voit parfois ses certitudes ébranlées par les vôtres. Aucune conversion n’y est prédite : chaque personne garde le droit de croire autrement."
 facts:
   - { k: "Corps de l’autre", v: "Pluton de l’autre ♇" }
   - { k: "Votre maison", v: "La maison 9 : les croyances, les études, les voyages lointains" }
@@ -20,7 +20,7 @@ faq:
   - q: "Mes croyances vont-elles être bousculées par Pluton de l’autre dans ma maison 9 ?"
     a: "Souvent, elles sont éprouvées à la racine : des idées reçues en héritage peuvent être questionnées, approfondies ou posées, et votre réflexion sur les grandes questions devient plus honnête. Cela peut libérer. Ce que vous finissez par croire vous appartient ; la superposition décrit une rencontre des esprits, pas une conversion."
   - q: "Pourquoi nos débats d’idées vont-ils si loin ?"
-    a: "Parce que Pluton, planète de la profondeur, tombe chez cette personne dans votre maison de la philosophie et de la foi : les conversations sur le sens touchent chaque personne au cœur. C’est pour cela qu’elles comptent tant. Débattre pour comprendre plutôt que pour gagner garde la profondeur et laisse tomber le combat."
+    a: "La profondeur de Pluton, chez cette personne, rejoint votre maison de la philosophie et de la foi : les conversations sur le sens touchent chaque personne au cœur. C’est pour cela qu’elles comptent tant. Débattre pour comprendre plutôt que pour gagner garde la profondeur et laisse tomber le combat."
   - q: "Cette personne cherche-t-elle à me convertir ?"
     a: "Pas forcément. Sa profondeur rencontre votre vision du monde : elle la questionne peut-être durement, ou voit la sienne ébranlée par la vôtre. Si cela devient une pression, dites-le : chaque personne garde le droit de croire autrement, et un bon lien peut porter cette différence."
 sources:

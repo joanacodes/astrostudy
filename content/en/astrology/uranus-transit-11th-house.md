@@ -32,17 +32,17 @@ Uranus crossing your 11th house is the planet of the future passing through the 
 
 [Uranus](/astrology/uranus/) innovates and differentiates: it wants each part of a network free to be itself while still belonging to the whole. The [11th house](/astrology/11th-house/) is that whole: friendship, community, the groups and causes you join, and the future you'd like to help build. Under Uranus, your circles tend to change. You may meet people who share where you're heading, drift from groups whose future no longer looks like yours, take up a cause, or find that you can belong somewhere without having to fit in.
 
-In the natural order the 11th is the house of Aquarius, which has two rulers, Uranus for modern astrologers and Saturn for the tradition ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). I read both, and here Uranus is crossing ground it knows. The old name for the house was the Good Spirit, and Jupiter had its joy there. With your Moon in the 11th from birth, the change can reach the people you feel at home with, not only the ones you spend time with.
+In the natural order the 11th is the house of Aquarius, which has two rulers, Uranus for modern astrologers and Saturn for the tradition ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)). I read both, and here Uranus is crossing ground it knows. The old name for the house was the Good Spirit, and Jupiter had its joy there. With your Moon in the 11th from birth, the change can reach the people you feel at home with, not only the ones you spend time with. And because the 11th faces the 5th, the house of personal pleasure, Uranus here often redraws the line between what you do for yourself and what you'd rather build with others.
 
 A [transit](/astrology/transits/) doesn't choose your friends. What this one brings out is how your chart already belongs among others, and the freedom you need inside the groups you keep.
 
 ## How long it lasts {#how-long-it-lasts}
 
-For a London birth, in Placidus, Uranus's stays in the 11th centre on just under seven years, below its middle for all houses there, and most run from nearly five years to about twelve. A New York birth gives about seven in the middle and nearly eleven at the long end, a narrower band, as the houses there vary less in size.
+Just under seven years is the usual middle for a London birth, in Placidus, the same as in the 2nd and below the all-house figure there; most stays fall between nearly five years and about twelve. A New York birth gives about seven in the middle and nearly eleven at the long end, a narrower band, as the houses there vary less in size.
 
 Measured from the first time Uranus crosses your 11th cusp to its last day before the 12th, retrograde dips included, the stay is as long as your 11th is wide, and both its start and its width come from your birth time. I need that time before reading any part of a chart ([what changes without a birth time](/blog/unknown-birth-time/)). Uranus reaches the 11th after its years at the top of your chart, changing your public direction ([Uranus transiting the 10th house](/astrology/uranus-transit-10th-house/)); after it come its years in your 12th, out of sight ([Uranus transiting the 12th house](/astrology/uranus-transit-12th-house/)).
 
-Gemini, where Uranus is from July 2025 to May 2033, is an air sign like Aquarius, the 11th's own, and an 11th cusp in Gemini is crossed somewhere in those years. With the cusp in Cancer, the window runs from August 2032 to August 2039; in Leo, it opens in August 2039. A Taurus cusp had its turn between May 2018 and April 2026.
+Uranus is in Gemini from July 2025 to May 2033, an air sign like Aquarius, the 11th's own; with Gemini on your 11th cusp, the first crossing falls somewhere in that span. With the cusp in Cancer, the window runs from August 2032 to August 2039; in Leo, it opens in August 2039. A Taurus cusp had its turn between May 2018 and April 2026.
 
 ## What helps {#what-helps}
 

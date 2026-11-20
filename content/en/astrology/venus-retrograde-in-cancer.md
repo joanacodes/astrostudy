@@ -18,9 +18,9 @@ facts:
 related: ["/astrology/venus-retrograde", "/astrology/cancer", "/astrology/venus-in-cancer", "/astrology/moon", "/blog/retrograde-planets"]
 faq:
   - q: "Is there a Venus retrograde in Cancer?"
-    a: "Not between 2000 and 2040, in the dates I work from. Venus turns back in Gemini in May and June and in Leo or Virgo from late July, and neither series reaches Cancer in those years: the Gemini one stations no higher than 26°08′ Gemini, the Leo one turns direct no lower than 7°50′ Leo."
+    a: "My dates, which run from 2000 to 2040, hold none. Venus turns back in Gemini in May and June and in Leo or Virgo from late July, and neither series reaches Cancer in those years: the Gemini one stations no higher than 26°08′ Gemini, the Leo one turns direct no lower than 7°50′ Leo."
   - q: "What would Venus retrograde in Cancer mean?"
-    a: "Astrologers would read it as Venus’s way of valuing turned towards care and belonging, slowed down and looked at again: who feels like home to you, what you protect, what you give and receive in looking after each other. I read every Venus retrograde as weather, never as a verdict on a relationship."
+    a: "Astrologers would read it as Venus’s way of valuing turned towards care and belonging, slowed down and looked at again: who feels like home to you, what you protect, what you give and receive in looking after each other. In my reading it would be weather, and weather passes no sentence on love."
   - q: "Which Venus retrogrades come nearest to Cancer?"
     a: "The summer series in Leo, whose station direct moves about 2° lower every eight years, from 16°35′ Leo in 2007 to 7°50′ Leo in 2039, so it drifts towards Cancer. The May series in Gemini moves the other way, a little further from Cancer at each return."
   - q: "What does the Moon have to do with Venus in Cancer?"

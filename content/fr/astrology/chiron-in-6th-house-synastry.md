@@ -19,15 +19,15 @@ related: ["/astrology/chiron", "/astrology/6th-house", "/astrology/house-overlay
 faq:
   - q: "Faut-il craindre une maladie quand le Chiron de l’autre tombe dans ma maison 6 ?"
     a: "Non. La tradition lisait la maladie dans la maison 6, mais une synastrie ne peut rien diagnostiquer ni prévoir du corps de quiconque, et la vieille blessure de Chiron n’est pas une maladie. Cette superposition décrit les routines et le travail : l’endroit où sa façon durement apprise de doser ses efforts rencontre votre semaine. Une question de santé se pose à un médecin, pas à un thème."
-  - q: "Pourquoi une personne dont le Chiron est dans ma maison 6 voit-elle quand j’en fais trop ?"
+  - q: "Avec son Chiron dans ma maison 6, comment cette personne voit-elle que j’en fais trop ?"
     a: "Souvent parce qu’elle a dû trouver sa propre façon de travailler dans ses limites, et reconnaît les signes chez quelqu’un qui dépasse les siennes. Dans votre maison des routines et des tâches, ce savoir prend la forme d’astuces concrètes et de pauses bien placées. Prenez ce qui vous convient ; votre emploi du temps reste le vôtre."
   - q: "Pourquoi est-ce que je prends ses corvées en charge quand mon Chiron est dans sa maison 6 ?"
-    a: "Ses routines et sa charge de travail atteignent l’endroit où vous avez dû vous adapter, et se rendre utile peut sembler la façon la plus sûre d’être proche. Aider est généreux, mais cela peut cacher votre propre besoin d’aide. Demandez quel soutien cette personne veut vraiment, et laissez-la vous rendre la pareille."
+    a: "Ses routines et sa charge de travail touchent ce que vous avez dû contourner, et se rendre utile peut sembler la façon la plus sûre d’être proche. Aider est généreux, mais cela peut cacher votre propre besoin d’aide. Demandez quel soutien cette personne veut vraiment, et laissez-la vous rendre la pareille."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "la maison 6, appelée la Fortune défavorable" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "la Vierge, signe de Mercure" }
 ---
-Certaines personnes savent exactement quand dire « on s’arrête pour déjeuner », parce qu’elles ont appris à leurs dépens ce qui arrive quand personne ne le dit. Avec le Chiron de l’autre dans votre maison 6, sa vieille blessure, et la sagesse pratique qu’elle lui a donnée, apparaissent dans votre semaine ordinaire.
+Certaines personnes savent exactement quand dire « on s’arrête pour déjeuner », parce qu’elles ont appris à leurs dépens ce qui arrive quand personne ne le dit. Son Chiron dans votre maison 6 fait apparaître dans votre semaine ordinaire sa vieille blessure, et la sagesse pratique qu’elle lui a donnée.
 
 ## Ce que ça apporte {#ce-que-ca-apporte}
 
@@ -43,7 +43,7 @@ Un coup de main peut virer au contrôle. Des conseils sur l’organisation de vo
 
 De son côté, se rendre utile peut devenir une cachette. Vous aider lui est peut-être plus facile que d’être aidée, et elle minimise ce que lui coûtent ses détours, jusqu’au jour où la fatigue arrive sans que vous l’ayez vue venir.
 
-La tradition donnait à la maison 6 la maladie ; je n’y lis ni maladie ni aucune autre question de santé ([l’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)). La vieille blessure de Chiron n’est pas un diagnostic, et cette superposition décrit la façon dont deux personnes traversent ensemble les journées ordinaires.
+La maladie revenait à la maison 6 pour la tradition ; je n’y lis ni maladie ni aucune autre question de santé ([l’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)). La vieille blessure de Chiron n’est pas un diagnostic, et cette superposition décrit la façon dont deux personnes traversent ensemble les journées ordinaires.
 
 ## Comment le vivre {#comment-le-vivre}
 
@@ -51,4 +51,4 @@ Partagez les routines plutôt que de les surveiller, et demandez à quoi ressemb
 
 Vue de l’autre côté, c’est vous qui portez Chiron, et elle la maison 6 : votre savoir-faire durement acquis va alors dans sa journée de travail. [Chiron de l’autre dans votre maison 5](/astrology/chiron-in-5th-house-synastry/) rejoint votre jeu ; [Chiron de l’autre dans votre maison 7](/astrology/chiron-in-7th-house-synastry/), la personne d’en face.
 
-En Placidus, le système de maisons que j’utilise, votre maison 6 s’arrête à votre descendant, et votre heure de naissance fixe l’endroit de cette ligne : un Chiron qui en est proche peut appartenir à votre maison 6 ou à votre maison 7. De son côté, c’est plus simple : Chiron parcourt si peu de chemin en un jour que sa date suffit à le fixer. Une lecture des deux thèmes commence une fois les deux heures en main ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Le thème d’un ou d’une collègue est aussi intime que celui de la personne qui partage votre vie, et il ne se lit qu’avec son accord ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/#ce-que-je-demande)).
+En Placidus, le système de maisons que j’utilise, votre maison 6 s’arrête à votre descendant, et votre heure de naissance fixe l’endroit de cette ligne : un Chiron qui en est proche peut relever de votre maison 6 comme de votre maison 7. De son côté, c’est plus simple : sa date suffit, car Chiron se déplace à peine d’une aube à l’autre. Une lecture des deux thèmes commence une fois les deux heures en main ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Le thème d’un ou d’une collègue est aussi intime que celui de la personne qui partage votre vie, et il ne se lit qu’avec son accord ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/#ce-que-je-demande)).

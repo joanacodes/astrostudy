@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 23
 glyph: "♀℞♒"
-definition: "Venus retrograde in Aquarius is Venus seeming, from Earth, to turn back in Aquarius; between 2000 and 2040 it happens only once, at 1°28′ Aquarius on 24 December 2005, before Venus backed into Capricorn. I read it as friendship, freedom and unusual tastes valued again, in the house Aquarius occupies in your chart."
+definition: "Venus retrograde in Aquarius has happened once in my list, from 2000 to 2040: on 24 December 2005 Venus, seen from Earth, stationed at 1°28′ Aquarius and began backing into Capricorn. It speaks to me of friendship, freedom and unusual tastes reconsidered, in your chart’s Aquarius house."
 facts:
   - { k: "Planet", v: "Venus ♀" }
   - { k: "Sign", v: "Aquarius ♒, fixed air, ruled by Uranus and Saturn" }
@@ -20,7 +20,7 @@ faq:
   - q: "When was Venus last retrograde in Aquarius?"
     a: "On 24 December 2005 Venus stationed at 1°28′ Aquarius and began to back towards Capricorn, which it soon entered; it turned direct at 16°01′ Capricorn on 3 February 2006. In my list, from 2000 to 2040, that is the only one, and none follows before the end of 2040."
   - q: "What does Venus retrograde in Aquarius mean?"
-    a: "Aquarius values individuality, friendship and ideas about the future, so astrologers read Venus retrograde there as those preferences reviewed: how much freedom you want in love, which friendships matter, which unusual tastes are really yours. I read it as weather, never as a verdict on a relationship."
+    a: "Aquarius values individuality, friendship and ideas about the future, so astrologers read Venus retrograde there as those preferences reviewed: how much freedom you want in love, which friendships matter, which unusual tastes are really yours. I read it as a passing climate, and never as a judgement on a partnership."
   - q: "Why is there no Venus retrograde in Aquarius after 2006?"
     a: "Each return of the winter series lands about 2½° lower. Eight years after 2005, Venus stationed at 28°58′ Capricorn, and every later winter retrograde in my list stays in Capricorn. The spring series, which ends in Pisces, turns direct no lower than 22°21′ Pisces before 2041."
   - q: "Which rulers matter for Venus retrograde in Aquarius?"
@@ -33,11 +33,11 @@ In forty years of Venus’s retrogrades, from 2000 to 2040, Aquarius has a singl
 
 ## What slows down {#what-slows-down}
 
-[Aquarius](/astrology/aquarius/) is fixed air with two rulers, Saturn in the tradition and Uranus in modern tropical astrology, and I read both. Venus there values freedom within closeness, friendship as much as romance, and tastes that are its own rather than the crowd’s. When [Venus retrograde](/astrology/venus-retrograde/) begins in Aquarius, the planet seems from Earth to halt there and back towards Capricorn, and the review is of independence in love: how much room you want, which friendships carry real affection, which of your unusual preferences you would keep if nobody noticed them.
+In [Aquarius](/astrology/aquarius/), fixed air, the tradition’s ruler is Saturn and modern tropical astrology’s is Uranus; I read both. Venus there values freedom within closeness, friendship as much as romance, and tastes that are its own rather than the crowd’s. When [Venus retrograde](/astrology/venus-retrograde/) begins in Aquarius, the planet seems from Earth to halt there and back towards Capricorn, and the review is of independence in love: how much room you want, which friendships carry real affection, which of your unusual preferences you would keep if nobody noticed them.
 
 The one instance in my list ran from 24 December 2005 to 3 February 2006. It stationed at 1°28′ Aquarius, slipped back into Capricorn early on and spent most of its weeks there, turning direct at 16°01′ Capricorn ([Venus retrograde in Capricorn](/astrology/venus-retrograde-in-capricorn/)). Eight years later the station had moved to 28°58′ Capricorn, and the winter series has stayed out of Aquarius since. On the other side, the spring retrogrades still turn direct more than twenty degrees into Pisces in 2033 ([Venus retrograde in Pisces](/astrology/venus-retrograde-in-pisces/)). So no other Venus retrograde reaches Aquarius before the end of 2040.
 
-As a birth placement, Venus retrograde in Aquarius is affection that keeps its independence while it decides, and I read it for itself ([natal retrograde planets](/blog/retrograde-planets/)).
+Someone born with Venus retrograde in Aquarius has an affection that keeps its independence while it decides, and I read that placement for itself ([natal retrograde planets](/blog/retrograde-planets/)).
 
 ## House by house {#house-by-house}
 
@@ -58,6 +58,6 @@ The house with Aquarius on it changes from chart to chart with the time of birth
 
 ## What helps {#what-helps}
 
-Look at both rulers: the house of your natal Saturn shows where you hold to your commitments, the house of your natal Uranus where you insist on freedom, and Venus in Aquarius lives between the two.
+Saturn and Uranus pull in different directions, and Venus in Aquarius lives between them: one keeps commitments, the other keeps room to move. Find both in your chart; their houses say where each pull is felt.
 
 With no retrograde due here before 2041, those two houses, and the weeks when Venus moves forward through Aquarius, are where these questions come up instead.

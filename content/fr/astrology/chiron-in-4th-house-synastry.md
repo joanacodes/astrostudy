@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 124
 glyph: "⚷"
-definition: "Chiron de l’autre dans votre maison 4 installe son Chiron au pied de votre thème, dans la maison du foyer et des racines. En synastrie, sa vieille blessure et ce qu’elle lui a appris de l’appartenance rencontrent votre vie privée : chez vous, cette personne rend un lieu plus sûr, et votre vie de famille effleure son point tendre."
+definition: "Chiron de l’autre dans votre maison 4 loge son Chiron au pied de votre thème, dans la maison du foyer et des racines. En synastrie, ce que sa vieille blessure lui a enseigné sur l’appartenance rejoint votre vie privée : chez vous, cette personne rend un lieu plus sûr, et votre vie de famille effleure son point tendre."
 facts:
   - { k: "Corps de l’autre", v: "Le Chiron de l’autre ⚷" }
   - { k: "Votre maison", v: "La maison 4 : le foyer, les racines, la famille" }
@@ -17,17 +17,17 @@ facts:
   - { k: "Il faut", v: "Votre heure de naissance, qui place votre Fond du Ciel" }
 related: ["/astrology/chiron", "/astrology/4th-house", "/astrology/house-overlays", "/astrology/imum-coeli", "/astrology/chiron-return"]
 faq:
-  - q: "Le Chiron de l’autre dans ma maison 4 veut-il dire que cette personne fera du mal à ma famille ?"
+  - q: "Avec son Chiron dans ma maison 4, ma famille risque-t-elle d’être blessée ?"
     a: "Non. Chiron décrit une vieille blessure que quelqu’un porte déjà, et ce qu’elle lui a appris, pas un tort à venir. Dans votre maison 4, il montre que le foyer et la famille sont l’endroit où son point sensible se trouve touché, et où son savoir sur l’appartenance entre en jeu. Bien des personnes qui ont cette superposition rendent un foyer plus sûr."
-  - q: "Pourquoi mon foyer me paraît-il plus sûr avec une personne dont le Chiron est dans ma maison 4 ?"
+  - q: "Pourquoi mon foyer me paraît-il plus sûr quand son Chiron est dans ma maison 4 ?"
     a: "Souvent parce qu’elle a dû travailler elle-même à appartenir quelque part, et sait ce qui rend un lieu sûr : la clé en double, le coin tranquille, l’accueil sans questions. Autour de votre foyer et de vos racines, c’est ce savoir que vous rencontrez d’abord. Son propre point tendre n’est jamais loin : laissez-la choisir son rythme."
   - q: "Pourquoi sa famille me remue-t-elle autant quand mon Chiron tombe dans sa maison 4 ?"
-    a: "Son foyer, sa famille et sa vie privée atteignent l’endroit où vous avez dû vous adapter : sa table de cuisine ou ses rituels de famille remuent plus que prévu, réconfort, envie, ou les deux. Vous vous surprenez peut-être à rendre son foyer plus doux. Laissez-la décider de ce qui change chez elle."
+    a: "Son foyer, sa famille et sa vie privée frôlent votre propre vieille blessure : sa table de cuisine ou ses rituels de famille remuent plus que prévu, réconfort, envie, ou les deux. Vous vous surprenez peut-être à rendre son foyer plus doux. Laissez-la décider de ce qui change chez elle."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "la maison 4 et ce que la tradition lui donnait" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "le Cancer, signe de la Lune" }
 ---
-Certaines personnes entrent dans votre cuisine et semblent savoir où sont les tasses, et quels sujets éviter à la table de votre famille. Avec le Chiron de l’autre dans votre maison 4, sa vieille blessure, et ce qu’elle lui a appris de l’appartenance, entre dans votre foyer et vos racines.
+Certaines personnes entrent dans votre cuisine et semblent savoir où sont les tasses, et quels sujets éviter à la table de votre famille. Ici, c’est votre foyer et vos racines que rejoint sa vieille blessure, avec ce qu’elle lui a appris de l’appartenance.
 
 ## Ce que ça apporte {#ce-que-ca-apporte}
 
@@ -43,12 +43,12 @@ Un don pour l’appartenance peut tourner au chantier de réparation. Elle essai
 
 De son côté, être chez vous peut l’exposer. Une plaisanterie à la table familiale, une vieille photo, un rituel que tout le monde connaît par cœur peuvent tomber sur ce qu’elle a le plus travaillé à protéger, et elle se retire parfois sans dire pourquoi.
 
-La maison 4 décrit votre expérience du foyer et de la famille ; elle ne dit rien de certain sur les parents de quiconque, les siens ou les vôtres. Et son Chiron décrit une blessure qu’elle apportait avec elle, pas une blessure que l’un de vous s’apprête à causer.
+La maison 4 décrit votre expérience du foyer et de la famille ; elle ne permet de rien affirmer sur les parents, ni les siens ni les vôtres. Et son Chiron décrit une blessure qu’elle apportait avec elle, pas une blessure que l’un de vous s’apprête à causer.
 
 ## Comment le vivre {#comment-le-vivre}
 
 Laissez-la choisir quelle part de votre famille elle prend, et à quel rythme. Créez quelques traditions à vous plutôt que de toutes les hériter. Au moment d’emménager ensemble, parlez tôt de ce que « chez soi » veut dire pour chacune des deux personnes ; entre amis, une invitation permanente compte parfois plus qu’un grand geste ; entre collègues en télétravail, respectez la frontière entre le bureau et la cuisine ; entre proches adultes, familles recomposées et belles-familles trouvent souvent ici leur équilibre.
 
-Vue de sa chaise, la superposition devient votre Chiron dans sa maison 4, et son foyer, l’endroit où votre vieille blessure se trouve touchée. [Chiron de l’autre dans votre maison 3](/astrology/chiron-in-3rd-house-synastry/) passe par vos échanges quotidiens ; [Chiron de l’autre dans votre maison 5](/astrology/chiron-in-5th-house-synastry/), par le jeu et le plaisir.
+Vue de sa chaise, c’est votre Chiron qui se trouve dans sa maison 4, et son foyer devient l’endroit où votre vieille blessure est touchée. [Chiron de l’autre dans votre maison 3](/astrology/chiron-in-3rd-house-synastry/) passe par vos échanges quotidiens ; [Chiron de l’autre dans votre maison 5](/astrology/chiron-in-5th-house-synastry/), par le jeu et le plaisir.
 
-Sa date de naissance place son Chiron. Votre heure place votre Fond du Ciel, qui fait le tour complet du zodiaque en un jour, et en Placidus, le système de maisons que j’utilise, la maison 4 commence là : votre heure décide donc si son Chiron se trouve dans votre maison 3 ou votre maison 4, et j’attends les deux heures pour lire ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Un détail de famille : Chiron met environ cinquante ans à faire le tour du zodiaque, le cycle du [retour de Chiron](/astrology/chiron-return/), si bien qu’un grand-parent et un petit-enfant adulte nés à cinquante ans d’écart ont leurs Chirons presque au même endroit. Le foyer est un terrain privé : je ne le lis que lorsque les deux personnes, adultes, veulent la lecture ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Sa date de naissance place son Chiron. Votre heure place votre Fond du Ciel, qui parcourt tout le zodiaque en vingt-quatre heures, et en Placidus, le système de maisons que j’utilise, la maison 4 commence là : votre heure décide donc de quel côté de cette ligne tombe son Chiron, maison 3 ou maison 4, et j’attends les deux heures pour lire ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Un détail de famille : Chiron met environ cinquante ans à faire le tour du zodiaque, le cycle du [retour de Chiron](/astrology/chiron-return/), si bien qu’un grand-parent et un petit-enfant adulte nés à cinquante ans d’écart ont leurs Chirons presque au même endroit. Le foyer est un terrain privé : je ne le lis que lorsque les deux personnes, adultes, veulent la lecture ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

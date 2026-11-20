@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 128
 glyph: "⚷"
-definition: "Chiron de l’autre dans votre maison 8 donne à son Chiron une place dans votre maison de l’intimité, de la confiance et du partage. En synastrie, sa vieille blessure et la stabilité qu’elle lui a apprise rencontrent votre proximité : cette personne reste calme devant vos vérités difficiles, et la confiance lui coûte. Rien n’y annonce de perte."
+definition: "Chiron de l’autre dans votre maison 8 est une superposition où son Chiron occupe votre maison de l’intimité, de la confiance et du partage. En synastrie, sa vieille blessure et la stabilité qu’elle lui a apprise rencontrent votre proximité : cette personne reste calme devant vos vérités difficiles, et la confiance lui coûte. Rien n’y annonce de perte."
 facts:
   - { k: "Corps de l’autre", v: "Le Chiron de l’autre ⚷" }
   - { k: "Votre maison", v: "La maison 8 : l’intimité, la confiance, ce qui est partagé" }
@@ -19,16 +19,16 @@ related: ["/astrology/chiron", "/astrology/8th-house", "/astrology/house-overlay
 faq:
   - q: "Avec le Chiron de l’autre dans ma maison 8, y a-t-il une perte à redouter ?"
     a: "Non. Le vieux lien de la maison 8 avec la mort ou l’héritage ne fait pas d’une superposition une prédiction : aucun thème ne prédit l’une ou l’autre, et je n’en lis jamais un pour cela. Son Chiron décrit ici une vieille blessure et sa stabilité durement acquise face à votre intimité, votre confiance et ce que vous partagez. Il amène souvent quelqu’un capable de rester avec vous dans les conversations difficiles."
-  - q: "Pourquoi puis-je dire à une personne dont le Chiron est dans ma maison 8 ce que je n’ai jamais dit ?"
-    a: "Les personnes qui ont dû s’adapter autour d’un point sensible restent souvent calmes devant les vérités difficiles des autres. Dans votre maison de l’intimité et de la confiance, ce calme peut ressembler à une permission. Confiez-vous à votre rythme ; la profondeur n’a pas besoin d’arriver d’un seul coup."
+  - q: "Pourquoi est-ce que je dis tout, ou presque, quand son Chiron est dans ma maison 8 ?"
+    a: "Quelqu’un qui contourne un point tendre depuis des années reste souvent calme devant les vérités difficiles des autres. Dans votre maison de l’intimité et de la confiance, ce calme peut ressembler à une permission. Confiez-vous à votre rythme ; la profondeur n’a pas besoin d’arriver d’un seul coup."
   - q: "Pourquoi la proximité me met-elle sur mes gardes quand mon Chiron est dans sa maison 8 ?"
-    a: "Son intimité, son ouverture et ses projets communs atteignent l’endroit où vous avez dû vous adapter autrefois : se rapprocher peut réveiller votre vieille garde même quand vous désirez ce rapprochement. Dites-le simplement, et convenez d’un rythme qui convient aux deux. Retenir un peu n’est pas un rejet ; c’est ainsi que la confiance se construit ici."
+    a: "Son intimité, son ouverture et ses projets communs touchent votre vieux point tendre : se rapprocher peut réveiller votre vieille garde même quand vous désirez ce rapprochement. Dites-le simplement, et convenez d’un rythme qui convient aux deux. Retenir un peu n’est pas un rejet ; c’est ainsi que la confiance se construit ici."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "la maison 8 et ce que la tradition lui donnait" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "le Scorpion, signe de Mars" }
   - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "Chiron parmi les placements qui ont le mieux tenu" }
 ---
-Certains liens atteignent l’endroit où l’on garde ce qu’on n’a jamais dit. Avec le Chiron de l’autre dans votre maison 8, sa vieille blessure, et la stabilité qu’elle lui a apprise, entrent dans votre intimité, votre confiance et ce que vous partagez à deux.
+Certains liens atteignent l’endroit où l’on garde ce qu’on n’a jamais dit. Placé dans votre maison 8, son Chiron mène sa vieille blessure, et la stabilité qu’elle lui a apprise, jusque dans votre intimité, votre confiance et ce que vous partagez à deux.
 
 ## Ce que ça apporte {#ce-que-ca-apporte}
 
@@ -36,7 +36,7 @@ Certains liens atteignent l’endroit où l’on garde ce qu’on n’a jamais d
 
 Avec cette personne, vous dites peut-être ce que vous n’avez jamais dit. Elle ne bronche guère devant les vérités difficiles, et sait rester à vos côtés dans une conversation pénible sans la presser vers une fin bien rangée. Quand les affaires communes se compliquent, un compte joint, un prêt, une promesse, c’est peut-être elle qui insiste, doucement, pour que tout soit mis sur la table, parce qu’elle sait ce que coûte le secret.
 
-Pour elle, la proximité avec vous est l’endroit où sa garde peut se relever. Votre ouverture, ou simplement la profondeur de ce que vous partagez, appuie peut-être sur l’endroit où elle a dû s’adapter autrefois, et elle peut désirer l’intimité et s’en protéger dans le même souffle. Les maisons succédentes gardent ce que les angles lancent, et celle-ci garde ce que deux personnes bâtissent ensemble ; le [Scorpion](/astrology/scorpio/), son signe naturel, a deux maîtres, Pluton pour l’astrologie tropicale moderne et Mars pour la tradition, et je lis les deux.
+Pour elle, la proximité avec vous est l’endroit où sa garde peut se relever. Votre ouverture, ou simplement la profondeur de ce que vous partagez, appuie peut-être sur son propre point tendre, et elle peut désirer l’intimité et s’en protéger dans le même souffle. Les maisons succédentes gardent ce que les angles lancent, et celle-ci garde ce que deux personnes bâtissent ensemble ; le [Scorpion](/astrology/scorpio/), son signe naturel, relève de Mars dans les anciens textes et de Pluton dans l’astrologie tropicale moderne ; je lis les deux.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

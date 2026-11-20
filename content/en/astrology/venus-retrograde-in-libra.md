@@ -20,7 +20,7 @@ faq:
   - q: "When is Venus retrograde in Libra?"
     a: "The most recent ran from 3 October to 14 November 2026: Venus stationed at 8°29′ Scorpio, backed into Libra and turned direct at 22°51′ Libra. The next runs from 30 September to 11 November 2034, from 6°07′ Scorpio to 20°27′ Libra. Each begins in Scorpio and ends in Libra."
   - q: "What does Venus retrograde in Libra mean?"
-    a: "Venus rules Libra, the sign of balance and give-and-take, so astrologers read a retrograde there as Venus going back over its own concerns: whether an exchange is fair, whether harmony is real or only kept up. I read it as weather for some weeks, never as a verdict on a relationship."
+    a: "Venus rules Libra, the sign of balance and give-and-take, so astrologers read a retrograde there as Venus going back over its own concerns: whether an exchange is fair, whether harmony is real or only kept up. For me it’s a few weeks of weather; no relationship stands or falls by it."
   - q: "Why isn’t the 2002 retrograde counted in Libra?"
     a: "My list files it under Libra, but both of its stations fall in Scorpio: Venus turned back at 15°36′ Scorpio on 10 October 2002 and turned direct at 0°03′ Scorpio on 21 November, three minutes of arc short of Libra. By its stations, it never came back into Libra."
   - q: "How much of the retrograde falls in Libra?"

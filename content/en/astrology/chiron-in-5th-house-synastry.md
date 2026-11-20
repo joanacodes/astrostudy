@@ -18,10 +18,10 @@ related: ["/astrology/chiron", "/astrology/5th-house", "/astrology/house-overlay
 faq:
   - q: "Is their Chiron in my 5th house a sign of a painful romance?"
     a: "No. It describes where their old hurt and their hard-won gentleness meet your play, creativity and romance, not how a relationship will go. If romance is part of the bond, they may need reassurance in light moments, and may be unusually kind to your shy side. Friends and colleagues feel the same overlay as encouragement."
-  - q: "Why does someone with Chiron in my 5th house encourage my creative work?"
+  - q: "Why does their encouragement matter so much, with their Chiron in my 5th house?"
     a: "People who have adapted around a sore spot of their own often know what it costs to show something unfinished. In your house of play and creation, that knowledge comes out as patience with your first attempts. Let them cheer you on; you keep the right to make things badly, for fun."
   - q: "Why does their delight in games unsettle me when my Chiron is in their 5th house?"
-    a: "Their play, flirting and creative risks reach the place where you once had to adapt, so an evening of their fun can stir old feelings along with real pleasure. You may hang back, or encourage them generously. Say when a game touches a nerve; you can join in at your own pace."
+    a: "Their play, flirting and creative risks land near your own sore spot, so an evening of their fun can stir old feelings along with real pleasure. You may hang back, or encourage them generously. Say when a game touches a nerve; you can join in at your own pace."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the 5th house, called Good Fortune" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Leo and its ruler, the Sun" }
@@ -31,11 +31,11 @@ Showing someone a song you wrote, a first drawing or a crush takes a particular 
 
 ## What it brings {#what-it-brings}
 
-[Chiron](/astrology/chiron/) shows an old sore place and the resourcefulness it forced on someone: the compensations, the patience, the practical wisdom. [The 5th house](/astrology/5th-house/) holds what you do for joy alone: what you make for the pleasure of making it, games, hobbies, flirting, falling in love, and the way you show yourself when nobody is grading you. In this [house overlay](/astrology/house-overlays/), their resourcefulness meets your joy.
+[Chiron](/astrology/chiron/) shows an old sore place and the resourcefulness it forced on someone: the compensations, the patience, the practical wisdom. [The 5th house](/astrology/5th-house/) holds what you do for joy alone: what you make for the pleasure of making it, games, hobbies, flirting, falling in love, and the self you show when there's no mark to earn. In this [house overlay](/astrology/house-overlays/), their resourcefulness meets your joy.
 
 With them, you may dare more. They tend to be gentle with first attempts, because they know what it is to put something of yourself on show and wait; the out-of-tune song, the half-finished canvas, the clumsy compliment are met with interest rather than marks out of ten. If you stopped playing at some point, they may be the one who gets you back to it.
 
-For them, your delight can be touching and a little sore. Watching you enjoy yourself freely may recall the place where they once had to adapt, and they can hover at the edge of a game before joining in, then find themselves freer with you than with most. Succedent, the 5th is where pleasure grows. Its natural sign is [Leo](/astrology/leo/), and the old astrologers, who called it Good Fortune, placed the joy of Venus here.
+For them, your delight can be touching and a little sore. Watching you enjoy yourself freely may stir whatever they once had to work around, and they can hover at the edge of a game before joining in, then find themselves freer with you than with most. Succedent, the 5th is where pleasure grows. Its natural sign is [Leo](/astrology/leo/), and the old astrologers, who called it Good Fortune, placed the joy of Venus here.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -43,7 +43,7 @@ Encouragement can become a programme. The hobby gets a plan, the plan gets a tea
 
 From their side, play is where they can feel most exposed: a party game, a dare, an evening of loud fun may press on the place they've adapted around. They may laugh along and go quiet later.
 
-Tradition gave the 5th children; this overlay says nothing about whether anyone will have a child ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and [children's charts](/astrology/childrens-charts/) stay outside my readings. It describes two adults' pleasure, not a family to come.
+Children belonged to the 5th in the old books; this overlay says nothing about whether anyone will have a child ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)), and [children's charts](/astrology/childrens-charts/) stay outside my readings. It describes two adults' pleasure, not a family to come.
 
 ## How to meet it {#how-to-meet-it}
 

@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 22
 glyph: "♀℞♑"
-definition: "Venus retrograde in Capricorn is the six weeks or so, from mid-December to late January every eight years, when Venus seems from Earth to back through Capricorn across the turn of the year. I read it as commitments and what you’ve built with others valued again, in the house Capricorn occupies in your chart."
+definition: "Venus retrograde in Capricorn arrives every eight years in mid-December and lasts into late January: about six weeks in which Venus seems, from Earth, to back through Capricorn across the turn of the year. My reading: commitments, and what you’ve built with others, weighed again where Capricorn sits in your chart."
 facts:
   - { k: "Planet", v: "Venus ♀" }
   - { k: "Sign", v: "Capricorn ♑, cardinal earth, ruled by Saturn" }
@@ -18,9 +18,9 @@ facts:
 related: ["/astrology/venus-retrograde", "/astrology/capricorn", "/astrology/venus-in-capricorn", "/astrology/saturn", "/blog/retrograde-planets"]
 faq:
   - q: "When is Venus retrograde in Capricorn?"
-    a: "The most recent ran from 19 December 2021 to 29 January 2022, from 26°29′ back to 11°04′ Capricorn. The next runs from 16 December 2029 to 26 January 2030, from 24°01′ to 8°37′, and the one after from 14 December 2037 to 24 January 2038. All three stay wholly in Capricorn."
+    a: "Its most recent run lasted from 19 December 2021 to 29 January 2022, with stations at 26°29′ and 11°04′ Capricorn. The next runs from 16 December 2029 to 26 January 2030, from 24°01′ to 8°37′, and the one after from 14 December 2037 to 24 January 2038. None of the three leaves the sign."
   - q: "What does Venus retrograde in Capricorn mean?"
-    a: "Capricorn builds for the long term, so astrologers read Venus retrograde there as a review of what you value in commitment, reliability and effort over time: which bonds you’ve invested in, and whether they still return the care. I read it as weather, never as a verdict on a relationship."
+    a: "Capricorn builds for the long term, so astrologers read Venus retrograde there as a review of what you value in commitment, reliability and effort over time: which bonds you’ve invested in, and whether they still return the care. I read those weeks as weather: they don’t decide whether a bond lasts."
   - q: "Why does Venus retrograde in Capricorn span the new year?"
     a: "Because this series turns back in the second half of December and turns direct in late January or early February: on 24 December 2005, 21 December 2013, 19 December 2021, 16 December 2029 and 14 December 2037 in my list, each return two or three days earlier than the last."
   - q: "Is it the shortest Venus retrograde?"

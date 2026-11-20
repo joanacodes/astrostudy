@@ -1,13 +1,13 @@
 ---
 title: "Venus retrograde in Leo"
 h1: "When Venus turns retrograde in Leo"
-description: "Venus retrograde in Leo: six summer weeks every eight years, wholly in Leo since 2023; the dates from 2000 to 2040, house by house, and what helps."
+description: "Venus retrograde in Leo: six summer weeks every eight years, wholly inside Leo since 2023; every date from 2000 to 2040, each house, and what helps."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 17
 glyph: "♀℞♌"
-definition: "Venus retrograde in Leo is the six weeks or so, from late July to early September every eight years, when Venus seems from Earth to back up through Leo. I read it as warmth and generosity turned inward for a while: how you show love and what you’re proud of, in the house Leo occupies in your chart."
+definition: "Venus retrograde in Leo comes round every eight years in high summer, when Venus appears from Earth to reverse through Leo for about six weeks, from late July to early September. I read it as warmth and generosity turned inward for a while: how you show love and what you’re proud of, in the house Leo occupies in your chart."
 facts:
   - { k: "Planet", v: "Venus ♀" }
   - { k: "Sign", v: "Leo ♌, fixed fire, ruled by the Sun" }
@@ -18,9 +18,9 @@ facts:
 related: ["/astrology/venus-retrograde", "/astrology/leo", "/astrology/venus-in-leo", "/astrology/sun", "/blog/retrograde-planets"]
 faq:
   - q: "When is Venus retrograde in Leo?"
-    a: "The most recent ran from 23 July to 4 September 2023, from 28°36′ back to 12°12′ Leo. The next runs from 20 July to 1 September 2031, from 26°25′ to 10°01′ Leo, and the one after from 18 July to 30 August 2039. All three stay wholly inside Leo."
+    a: "Venus last turned back in Leo on 23 July 2023, at 28°36′, and turned direct at 12°12′ on 4 September. The next runs from 20 July to 1 September 2031, from 26°25′ to 10°01′ Leo, and the one after from 18 July to 30 August 2039. All three stay wholly inside Leo."
   - q: "What does Venus retrograde in Leo mean?"
-    a: "Leo expresses and wants to be seen, so astrologers read Venus retrograde there as a review of how you show affection and what you love to be admired for: gestures, creative pride, generosity. I read it as weather for six weeks, never as a forecast about love or a verdict on a relationship."
+    a: "Leo expresses and wants to be seen, so astrologers read Venus retrograde there as a review of how you show affection and what you love to be admired for: gestures, creative pride, generosity. Six weeks of weather, as I read them, with no forecast for anyone’s love life in them."
   - q: "Why did the 2007 and 2015 retrogrades start in Virgo?"
     a: "Because each return of this series lands about 2° lower in the zodiac. In 2007 Venus stationed at 2°57′ Virgo and in 2015 at 0°46′ Virgo, both then backing into Leo; by 2023 the station had slipped to 28°36′ Leo, so the whole retrograde now falls inside Leo."
   - q: "How long is Venus retrograde in Leo?"

@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 127
 glyph: "⚷"
-definition: "Chiron de l’autre dans votre maison 7 place son Chiron dans la maison de la personne qui vous fait face : partenaires, proches collaborateurs, liens à deux. En synastrie, sa vieille blessure et ce qu’elle lui a appris de la proximité entrent dans le lien lui-même : cette personne écoute remarquablement bien, et être votre égale effleure un point sensible."
+definition: "Chiron de l’autre dans votre maison 7, c’est son Chiron dans la maison de la personne qui vous fait face : partenaires, proches collaborateurs, liens à deux. En synastrie, son ancienne blessure, et la leçon qu’elle en a tirée sur la proximité, entrent dans le lien lui-même : cette personne écoute remarquablement bien, et être votre égale effleure un point sensible."
 facts:
   - { k: "Corps de l’autre", v: "Le Chiron de l’autre ⚷" }
   - { k: "Votre maison", v: "La maison 7 : les partenaires, les liens en tête-à-tête" }
@@ -17,17 +17,17 @@ facts:
   - { k: "Il faut", v: "Votre heure de naissance, pour placer votre descendant ; sa date fixe son Chiron" }
 related: ["/astrology/chiron", "/astrology/7th-house", "/astrology/house-overlays", "/astrology/descendant", "/astrology/chiron-in-7th-house"]
 faq:
-  - q: "Faut-il s’attendre à souffrir avec une personne dont le Chiron tombe dans ma maison 7 ?"
+  - q: "Faut-il s’attendre à souffrir quand son Chiron tombe dans ma maison 7 ?"
     a: "Pas à cause de la superposition. Son Chiron décrit une vieille blessure qu’elle porte déjà, et ce qu’elle lui a appris ; dans votre maison 7, il montre que les liens en tête-à-tête sont l’endroit où cela entre en jeu entre vous. Cela fait souvent d’elle quelqu’un d’attentif, en couple comme en affaires. La façon dont on traite quelqu’un relève de choix, pas d’un thème."
-  - q: "Pourquoi une personne dont le Chiron tombe dans ma maison 7 m’écoute-t-elle si bien ?"
+  - q: "Pourquoi son écoute me fait-elle tant de bien quand son Chiron tombe dans ma maison 7 ?"
     a: "Les personnes qui ont dû s’adapter dans leurs propres liens proches apprennent souvent à écouter remarquablement bien, en tête-à-tête. Avec son Chiron dans la maison de la personne qui vous fait face, ce talent vous vise directement. Profitez-en, et veillez à ce que l’écoute aille dans les deux sens."
   - q: "Pourquoi ai-je le réflexe de secourir l’autre quand mon Chiron est dans sa maison 7 ?"
-    a: "Sa façon de vivre le partenariat atteint l’endroit où vous avez dû vous adapter autrefois, et aider peut sembler plus sûr que de se tenir d’égal à égal. Mais un soutien offert comme un sauvetage place l’un au-dessus de l’autre. Demandez ce dont elle a besoin, dites ce dont vous avez besoin, et gardez le terrain à niveau."
+    a: "Sa façon de vivre le partenariat appuie sur votre vieux point sensible, et aider peut sembler plus sûr que de se tenir d’égal à égal. Mais un soutien offert comme un sauvetage place l’un au-dessus de l’autre. Demandez ce dont elle a besoin, dites ce dont vous avez besoin, et gardez le terrain à niveau."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "la maison 7, les partenaires et les adversaires déclarés" }
   - { title: "Ptolémée, Tétrabible, livre I", note: "la Balance, signe de Vénus" }
 ---
-Quand un lien se vit à deux, couple, associés, l’ami ou l’amie qu’on voit surtout en tête-à-tête, une vieille blessure n’a nulle part où se cacher. Le Chiron de l’autre dans votre maison 7 fait entrer son point sensible, et le savoir-faire qu’il lui a donné, dans le partenariat lui-même.
+Quand un lien se vit à deux, couple, associés, l’ami ou l’amie qu’on voit surtout en tête-à-tête, une vieille blessure n’a nulle part où se cacher. Dans votre maison 7, son Chiron apporte au partenariat lui-même son point sensible, et le savoir-faire qu’il lui a donné.
 
 ## Ce que ça apporte {#ce-que-ca-apporte}
 
@@ -35,7 +35,7 @@ Quand un lien se vit à deux, couple, associés, l’ami ou l’amie qu’on voi
 
 De votre côté, parler avec cette personne peut avoir une qualité rare. Elle écoute en tête-à-tête avec une vraie attention, remarque le schéma que vous répétez avec les gens, et reste avec vous sans chercher à vous réparer. Avec elle, il devient peut-être plus facile de dire ce dont vous avez besoin dans une relation, parce qu’elle semble savoir ce qu’il en coûte de demander.
 
-Pour elle, être votre égale peut être la partie tendre. Être choisie, signer un accord, s’asseoir en face de vous à une table de négociation lui rappelle peut-être l’endroit où elle a dû s’adapter, et elle se prépare parfois à voir une vieille histoire se répéter, tout en savourant qu’elle ne se répète pas. Angulaire, la maison 7 expose ce qu’elle contient chez les personnes que vous choisissez comme chez celles avec qui vous vous disputez ; la [Balance](/astrology/libra/), son signe naturel, ne cesse de peser les deux côtés. Un Chiron posé juste sur votre [descendant](/astrology/descendant/), le degré qui se couchait à l’ouest à votre naissance, rend le contact plus sonore encore : je le lis comme une conjonction à cet angle autant que comme une superposition.
+Pour elle, être votre égale peut être la partie tendre. Être choisie, signer un accord, s’asseoir en face de vous à une table de négociation lui rappelle peut-être ce avec quoi elle a dû apprendre à vivre, et elle se prépare parfois à voir une vieille histoire se répéter, tout en savourant qu’elle ne se répète pas. Angulaire, la maison 7 expose ce qu’elle contient chez les personnes que vous choisissez comme chez celles avec qui vous vous disputez ; la [Balance](/astrology/libra/), son signe naturel, ne cesse de peser les deux côtés. Un Chiron posé juste sur votre [descendant](/astrology/descendant/), l’extrémité ouest de votre horizon à la naissance, rend le contact plus sonore encore : je le lis comme une conjonction à cet angle autant que comme une superposition.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 
