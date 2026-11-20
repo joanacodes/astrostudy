@@ -2,7 +2,7 @@
 title: "Pluton carré Nœud Nord en synastrie"
 slug: "pluton-carre-noeud-nord-synastrie"
 h1: "Pluton carré Nœud Nord entre deux thèmes"
-description: "Pluton carré Nœud Nord en synastrie : l’exigence de changement profond de l’une coupe tout le chemin de l’autre, ancien terrain et nouveau. La friction, qui l’a."
+description: "Pluton carré Nœud Nord en synastrie : l’exigence de changement profond de l’une coupe tout le chemin de l’autre, ancien terrain et nouveau. Qui l’a."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/pluto", "/astrology/north-node", "/astrology/square", "/astrology/pluto-square-north-node", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Pluton carré Nœud Nord en synastrie ?"
-    a: "Pluton, dans un thème, forme un angle droit avec l’axe des nœuds d’un autre, donc avec le Nœud Nord et le Nœud Sud à la fois. L’insistance de la première personne sur le changement profond croise souvent le chemin de la seconde aux deux bouts, et met en question vieilles habitudes et nouveaux projets ensemble. Offert avec douceur, ce défi renforce le chemin."
+    a: "Pluton, dans un thème, forme un angle droit avec l’axe des nœuds d’un autre, donc avec le Nœud Nord et le Nœud Sud à la fois. L’insistance de la première personne sur le changement profond croise souvent le chemin de la seconde aux deux bouts. Offert avec douceur, ce défi renforce le chemin."
   - q: "Est-ce que Pluton carré Nœud Nord bloque la croissance de quelqu’un ?"
     a: "Non. Un carré est une friction, pas un mur, et une croissance qu’on a interrogée en sort souvent plus solide. La personne du nœud peut sentir que sa direction n’est jamais assez profonde pour l’autre ; celle de Pluton, qu’on ne l’entend pas. Dire ce que chacune veut vraiment voir changer transforme en général la pression en aide."
   - q: "Des personnes nées la même année peuvent-elles partager Pluton carré Nœud Nord ?"
