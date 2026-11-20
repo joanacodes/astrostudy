@@ -45,7 +45,7 @@ Le dialogue peut se durcir en débat. Avec deux esprits si friands d’échange,
 
 De son côté, le risque est un miroir qui ne fait que répondre. Si vous opposez à chaque idée son contraire, cette personne peut sentir que vous n’êtes jamais simplement d’accord ; si vous vous effacez, elle peut se sentir seule dans la conversation qu’elle voulait partager.
 
-La tradition donnait à la maison 7 les contrats et les ennemis déclarés. Cette superposition décrit votre façon de négocier ensemble, pas l’issue d’un contrat ou d’un litige entre vous : je ne prédis d’issue juridique pour personne.
+Les contrats et les ennemis déclarés revenaient à la maison 7 dans la tradition. Cette superposition décrit votre façon de négocier ensemble, pas l’issue d’un contrat ou d’un litige entre vous : je ne prédis d’issue juridique pour personne.
 
 ## Comment le vivre {#comment-le-vivre}
 

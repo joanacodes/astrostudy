@@ -35,7 +35,7 @@ La solitude, le repos, la vie intérieure, les soins donnés sans être vus et c
 
 On vous accepte peut-être dans votre part privée, cette version fatiguée, rêveuse ou repliée de vous que les autres rencontrent rarement. Le temps passé avec elle repose plus qu’il n’excite : une soirée tranquille, une promenade sans parler, un message qui arrive exactement quand il le fallait. Certaines personnes qui ont cette superposition voient leur affection grandir longtemps sans un mot.
 
-Votre monde intérieur l’attire. Elle vous aime peut-être en silence, prend soin de vous sans qu’on le lui demande, et trouve une forme de paix en votre compagnie. La maison 12 est cadente, et la tradition, qui l’appelait le Génie défavorable, y voyait la joie de Saturne. Les [Poissons](/astrology/pisces/), son signe naturel, ont Jupiter pour maître traditionnel et Neptune pour maître moderne, et je lis les deux ; c’est aussi le signe de l’exaltation de Vénus, où la compassion vient naturellement.
+Votre monde intérieur l’attire. Elle vous aime peut-être en silence, prend soin de vous sans qu’on le lui demande, et trouve une forme de paix en votre compagnie. La maison 12 est cadente, et la tradition, qui l’appelait le Génie défavorable, y voyait la joie de Saturne. Deux maîtres se partagent les [Poissons](/astrology/pisces/), son signe naturel, Jupiter pour les anciens astrologues et Neptune pour ceux d’aujourd’hui, et je lis les deux ; c’est aussi le signe où Vénus est exaltée, et la compassion y vient naturellement.
 
 ## Là où ça frotte {#la-ou-ca-frotte}
 

@@ -34,7 +34,7 @@ Solitude, rest, the inner life, care given without being seen and the things you
 
 You may feel accepted in your private self, the tired, dreamy or withdrawn version of you that others rarely meet. Time with them can be restful rather than exciting: a quiet evening, a walk without talking, a message that arrives exactly when you needed it. Some people with this overlay find that their affection grows unspoken for a long while.
 
-Your inner world draws them. They may love you quietly, look after you without being asked, and find a kind of peace in your company. The 12th is cadent, and tradition, which called it the Bad Spirit, gave Saturn its joy there. [Pisces](/astrology/pisces/), its natural sign, has Jupiter for its traditional ruler and Neptune for its modern one, and I read both; it is also the sign of Venus's exaltation, where compassion comes naturally.
+Your inner world draws them. They may love you quietly, look after you without being asked, and find a kind of peace in your company. The 12th is cadent, and tradition, which called it the Bad Spirit, gave Saturn its joy there. Two rulers share [Pisces](/astrology/pisces/), its natural sign, Jupiter for the old astrologers and Neptune for today's, and I read both; Pisces is also where Venus is exalted, and compassion comes naturally there.
 
 ## Where it rubs {#where-it-rubs}
 
