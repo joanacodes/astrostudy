@@ -55,6 +55,6 @@ The examples show how far apart in age the two people can be. Someone born in mi
 
 In my notebook, read one chart at a time by sign and house, Chiron and Lilith both held 75 to 90% of the time, alongside Saturn ([the three that held: Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/)); it never counted a contact between two people, so this opposition gets no figure from it.
 
-Neither end moves more than a fraction of a degree in a day, so the birth time doesn't decide the opposition; it decides the two houses the seesaw sits in, and I wait for both times ([what changes without a birth time](/blog/unknown-birth-time/)).
+Over a whole day, neither end travels far enough to matter, so the birth time doesn't decide the opposition; it decides the two houses the seesaw sits in, and I wait for both times ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 [Chiron opposite Lilith](/astrology/chiron-opposite-lilith/), in one chart, is someone who adapts in one area of life and won't bend in another. Split between two charts, the axis has two owners, and neither end gets read without its owner's yes ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 344
 glyph: "♆△♇"
-definition: "Neptune trigone Pluton en synastrie relie Neptune, chez une personne, à Pluton chez l’autre, à environ 120°, à 3,4° près ; dans mes données, Pluton appartient toujours à une personne née de 23 à 35 ans plus tôt environ. La profondeur de l’aînée et les idéaux de la cadette se portent l’un l’autre. Je le lis par les maisons."
+definition: "Neptune trigone Pluton en synastrie relie Neptune, chez une personne, à Pluton chez l’autre, à environ 120°, à 3,4° près ; dans mes données, Pluton appartient toujours à une personne née de 23 à 35 ans plus tôt environ. La profondeur de l’aînée et les idéaux de la cadette se portent l’un l’autre. Les maisons en donnent le détail."
 facts:
   - { k: "Corps", v: "Neptune ♆ de l’une, Pluton ♇ de l’autre" }
   - { k: "Aspect", v: "Trigone △, 120°" }

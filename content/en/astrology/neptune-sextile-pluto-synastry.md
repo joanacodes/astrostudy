@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 342
 glyph: "♆⚹♇"
-definition: "Neptune sextile Pluto in synastry means the two slowest bodies I read, one person’s Neptune and the other’s Pluto, stand about 60° apart, within 2.4°. Ideals and the drive to renew can work together once someone takes the opening. Near-contemporaries often share it, so I read it through the houses."
+definition: "Neptune sextile Pluto in synastry means the two slowest bodies I read, Neptune in one chart and Pluto in the other, stand about 60° apart, within 2.4°. Ideals and the drive to renew can work together once someone takes the opening. Near-contemporaries often share it, so I read it through the houses."
 facts:
   - { k: "Bodies", v: "One person’s Neptune ♆, the other’s Pluto ♇" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/neptune", "/astrology/pluto", "/astrology/sextile", "/astrology/neptune-sextile-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Neptune sextile Pluto mean in synastry?"
-    a: "About 60° separate one person’s Neptune from the other’s Pluto, within 2.4°. One person’s ideals and compassion are within reach of the other’s capacity for deep change, so a shared vision can find the patience to become real. It is an opening, and it does nothing until someone uses it."
+    a: "Sixty degrees, give or take 2.4°, lie between one person’s Neptune and the other’s Pluto. One person’s ideals and compassion are within reach of the other’s capacity for deep change, so a shared vision can find the patience to become real. It is an opening, and it does nothing until someone uses it."
   - q: "Why do so many pairs have Neptune sextile Pluto?"
     a: "Because most people born between the early 1940s and the early 1990s carry the sextile in their own chart, people born a few years apart tend to repeat it between their two charts. That makes it a shared background, the outlook of nearby years, more than a personal link."
   - q: "Who has Neptune sextile Pluto with someone?"

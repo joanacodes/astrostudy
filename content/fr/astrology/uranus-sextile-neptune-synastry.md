@@ -46,7 +46,7 @@ Une ouverture entre générations se laisse facilement inutilisée. Chacune peut
 
 - **[Uranus conjonction Neptune en synastrie](/astrology/uranus-conjunct-neptune-synastry/) :** le changement et l’idéal fondus sur un même degré, avec le flou que cela apporte.
 - **[Uranus carré Neptune en synastrie](/astrology/uranus-square-neptune-synastry/) :** un signe plus loin, là où la réforme et l’idéal frottent au lieu de s’aider.
-- **[Uranus trigone Neptune en synastrie](/astrology/uranus-trine-neptune-synastry/) :** deux signes plus loin, là où ils avancent ensemble sans effort.
+- **[Uranus trigone Neptune en synastrie](/astrology/uranus-trine-neptune-synastry/) :** deux signes plus loin, là où tout avance ensemble sans effort.
 - **[Uranus opposition Neptune en synastrie](/astrology/uranus-opposite-neptune-synastry/) :** d’un bout à l’autre du zodiaque, aux deux extrémités d’une longue ligne.
 
 ## Comment le vivre {#comment-le-vivre}

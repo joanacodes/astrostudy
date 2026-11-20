@@ -33,7 +33,7 @@ One of them wants to keep the dream; the other wants to know what is rotten unde
 
 [Neptune](/astrology/neptune/) carries ideals and empathy, the capacity to sense meaning and to let rigid lines dissolve. [Pluto](/astrology/pluto/) carries the drive to transform: to face what is hidden, end what is obsolete and rebuild from what is sound. A [square](/astrology/square/) puts two functions at odds in a way that forces work; among the [synastry aspects](/astrology/synastry-aspects/), this one sets an ideal against a clearing-out, held by two people of different ages.
 
-The signs usually share a modality. With Pluto in Virgo for a birth of the mid-1960s and Neptune in Sagittarius for births of the late 1970s, both mutable, a drive to fix how things work meets an ideal of meaning and wider horizons.
+The two signs usually belong to one modality. With Pluto in Virgo for a birth of the mid-1960s and Neptune in Sagittarius for births of the late 1970s, both mutable, a drive to fix how things work meets an ideal of meaning and wider horizons.
 
 What the friction can do is honest work on both sides: ideals that survive a hard look, and renewal that keeps its compassion.
 

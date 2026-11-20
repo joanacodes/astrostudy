@@ -22,12 +22,12 @@ faq:
   - q: "Is Pluto sextile Lilith only about romance?"
     a: "No. It can show between friends, colleagues, siblings or a couple, and it says nothing about a relationship’s course or its intimacy. What it describes is one person’s depth making room for the other’s untamed side, which matters in any pair that has to trust each other."
   - q: "Why are Pluto sextile Lilith windows so short?"
-    a: "Because the orb is only 2.4° and mean Lilith moves through a sign in about nine months, so it crosses the band in a month or two. Pluto, by contrast, hardly moves. That is also why the choice of Lilith matters: true Lilith can sit far enough away to remove the aspect."
+    a: "Because the orb is only 2.4° and mean Lilith moves through a sign in about nine months, so it crosses the band in a month or two. Pluto, by contrast, hardly moves. The same tightness makes the choice of Lilith decisive: true Lilith can sit far enough away to remove the aspect."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the sextile, 60°, among the aspects" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that set one person’s Pluto within 2.4° of a sextile to another’s mean Lilith" }
 ---
-Some people make it safe to stop hiding, not by insisting, but by leaving the door open. Pluto sextile Lilith in synastry spaces one person's Pluto about 60° from the other's Black Moon Lilith, and the open door is the whole contact: an invitation to be less guarded, worth something only when it's taken.
+Some people make it safe to stop hiding, not by insisting, but by leaving the door open. In Pluto sextile Lilith, a synastry contact, sixty degrees separate one person's Pluto from the other's Black Moon Lilith, and the open door is the whole of it: an invitation to be less guarded, worth something only when it's taken.
 
 ## What flows {#what-flows}
 

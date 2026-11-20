@@ -56,6 +56,6 @@ Les exemples montrent l’écart d’âge possible. Une personne née au milieu 
 
 Dans mon carnet, lu un thème à la fois par signe et par maison, Chiron et Lilith ont tous deux tenu 75 à 90 % du temps, avec Saturne ([les trois qui ont tenu : Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/)) ; il n’a jamais compté un contact entre deux personnes, et cette opposition n’en reçoit aucun chiffre.
 
-Aucun bout n’avance de plus d’une fraction de degré par jour : l’heure de naissance ne décide pas de l’opposition, mais des deux maisons où se pose la balançoire, et j’attends les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+En une journée entière, aucun des deux bouts ne bouge assez pour compter : l’heure de naissance ne décide pas de l’opposition, mais des deux maisons où se pose la balançoire, et j’attends les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 [Chiron opposition Lilith](/astrology/chiron-opposite-lilith/), dans un seul thème, décrit une personne qui s’adapte dans un domaine de la vie et ne plie pas dans un autre. Partagé entre deux thèmes, l’axe a deux propriétaires, et aucun bout n’est lu sans le oui de qui le porte ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

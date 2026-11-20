@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 367
 glyph: "♇⚹⚸"
-definition: "Pluton sextile Lilith en synastrie écarte de 60°, à 2,4° près, Pluton dans un thème et la Lune noire Lilith moyenne dans un autre. La profondeur de l’une invite la part indomptée de l’autre à sortir de sa cachette et à servir. J’y lis une invitation à baisser la garde, qui ne marche que si les deux l’acceptent."
+definition: "Avec Pluton sextile Lilith en synastrie, un angle de 60°, à 2,4° près, unit Pluton d’un premier thème à la Lune noire Lilith moyenne d’un second. La profondeur de l’une invite la part indomptée de l’autre à sortir de sa cachette. J’y lis une invitation à baisser la garde, qui ne marche que si les deux l’acceptent."
 facts:
   - { k: "Corps", v: "Pluton ♇ de l’une, la Lune noire Lilith ⚸ de l’autre" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -19,16 +19,16 @@ facts:
 related: ["/astrology/pluto", "/astrology/black-moon-lilith", "/astrology/sextile", "/astrology/pluto-sextile-lilith", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Pluton sextile Lilith en synastrie ?"
-    a: "Pluton, chez l’une, et la Lune noire Lilith, chez l’autre, sont à environ 60°. La personne de Pluton offre souvent à l’autre une manière sûre de cesser de cacher ce qu’on avait jugé de trop, et d’en faire une force. Cela reste une offre : le sextile ne fait rien tant que les deux ne s’en saisissent pas."
+    a: "Il y a environ 60° entre Pluton d’un côté et la Lune noire Lilith de l’autre. La personne de Pluton offre souvent à l’autre une manière sûre de cesser de cacher ce qu’on avait jugé de trop, et d’en faire une force. Cela reste une offre : le sextile ne fait rien tant que les deux ne s’en saisissent pas."
   - q: "Est-ce que Pluton sextile Lilith ne concerne que l’amour ?"
-    a: "Non. Il peut apparaître entre amis, collègues, frères et sœurs ou dans un couple, et il ne dit rien du cours d’une relation ni de son intimité. Il décrit la profondeur de l’une qui fait de la place à la part indomptée de l’autre, ce qui compte dans toute paire qui doit se faire confiance."
+    a: "Non. Ce contact peut apparaître entre amis, collègues, frères et sœurs ou dans un couple, et il ne dit rien du cours d’une relation ni de son intimité. Il décrit une profondeur qui ouvre un espace à la part indomptée de l’autre, ce qui compte dans toute paire qui doit se faire confiance."
   - q: "Pourquoi les fenêtres de Pluton sextile Lilith sont-elles si courtes ?"
-    a: "Parce que l’orbe n’est que de 2,4° et que la Lilith moyenne traverse un signe en neuf mois environ : elle franchit la zone en un mois ou deux. Pluton, en revanche, bouge à peine. C’est aussi pour cela que le choix de la Lilith compte : la Lilith vraie peut se trouver assez loin pour faire disparaître l’aspect."
+    a: "Parce que l’orbe n’est que de 2,4° et que la Lilith moyenne traverse un signe en neuf mois environ : elle franchit la zone en un mois ou deux. Pluton, en revanche, bouge à peine. La même étroitesse rend le choix de la Lilith décisif : la Lilith vraie peut se trouver assez loin pour faire disparaître l’aspect."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, 60°, parmi les aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance où Pluton, chez l’une, est à moins de 2,4° d’un sextile avec la Lilith moyenne de l’autre" }
 ---
-Certaines personnes rendent sûr le fait de ne plus se cacher, non en insistant, mais en laissant la porte ouverte. Pluton sextile Lilith en synastrie écarte de 60° environ Pluton, chez l’une, et la Lune noire Lilith de l’autre, et cette porte ouverte est tout le contact : une invitation à baisser la garde, qui ne vaut que si on la prend.
+Certaines personnes rendent sûr le fait de ne plus se cacher, non en insistant, mais en laissant la porte ouverte. Dans Pluton sextile Lilith, contact de synastrie, soixante degrés séparent Pluton, chez l’une, de la Lune noire Lilith de l’autre, et cette porte ouverte est tout le contact : une invitation à baisser la garde, qui ne vaut que si on la prend.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -53,8 +53,8 @@ Les autres angles de la paire :
 
 Dites l’invitation à voix haute, et gardez-la petite. Si Pluton est de votre côté, essayez « tu peux me dire la vraie version », puis laissez de la place pour « pas encore ». Si la Lilith est la vôtre, offrez une chose vraie et voyez ce qu’on en fait. Des collègues peuvent s’en servir pour mettre au jour une objection franche ; des amis, pour cesser de jouer un rôle ; un couple, pour dire ce que chacune ou chacun veut vraiment.
 
-Prenons une naissance du milieu de 1965, Pluton en Vierge : le sextile rejoint les personnes nées en août et septembre 1963, dont la Lilith était en Scorpion, et celles nées de juin à août 1969, des fenêtres d’un mois ou deux qui reviennent deux fois par tour de Lilith. La Lilith de cette naissance, tout à la fin du Capricorne, se tient à 60° de Pluton chez toutes les personnes nées d’octobre 1994 à décembre 1995. Un contact qui suit le calendrier d’aussi près n’entre pas dans mes comptes de synastrie, où chaque contact retenu passe par le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel ; dans les maisons, il montre le goût du changement d’une époque rencontrant l’instinct enfoui d’une autre.
+Voyons le cas d’une naissance du milieu de 1965, avec Pluton en Vierge : le sextile rejoint les personnes nées en août et septembre 1963, dont la Lilith était en Scorpion, et celles nées de juin à août 1969, des fenêtres d’un mois ou deux qui reviennent deux fois par tour de Lilith. Quant à sa Lilith, tout à la fin du Capricorne, Pluton s’en tient à 60° chez toutes les personnes nées d’octobre 1994 à décembre 1995. Un contact qui suit le calendrier d’aussi près n’entre pas dans mes comptes de synastrie, où chaque contact retenu passe par le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel ; dans les maisons, il montre le goût du changement d’une époque rencontrant l’instinct enfoui d’une autre.
 
-Les deux points avancent à peine : l’heure de naissance ne décide pas du sextile, mais les maisons demandent quand même les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Ces mois suivent la Lilith moyenne, et avec un orbe aussi serré, la Lilith vraie donne souvent une autre réponse ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)).
+Les deux points se déplacent à peine : l’heure de naissance ne décide pas du sextile, mais les maisons demandent quand même les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Ces mois suivent la Lilith moyenne, et avec un orbe aussi serré, la Lilith vraie donne souvent une autre réponse ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)).
 
 Dans un seul thème, [Pluton sextile Lilith](/astrology/pluto-sextile-lilith/) laisse entrouverte la porte d’une personne. Quand la porte appartient à l’une et la main tendue à l’autre, je ne le lis qu’avec les deux ([synastrie et consentement](/blog/synastry-behind-their-back/)).

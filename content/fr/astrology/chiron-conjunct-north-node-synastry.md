@@ -30,7 +30,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact, avec le nœud vrai" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds de la Lune, moyen et vrai, toujours opposés" }
 ---
-Chiron conjonction Nœud Nord en synastrie pose le Chiron d’une personne sur le Nœud Nord de l’autre, à 3° près, si bien qu’il fait aussi face à son Nœud Sud. Ce que l’une a compris à la dure se trouve exactement là où l’autre tente du nouveau. C’est l’un des rares contacts où une difficulté peut servir de carte.
+Chiron conjonction Nœud Nord en synastrie dépose votre Chiron sur le Nœud Nord d’une autre personne, ou le sien sur le vôtre, à 3° près, si bien qu’il fait aussi face au Nœud Sud de cette personne. Ce que l’une a compris à la dure se trouve exactement là où l’autre tente du nouveau. C’est l’un des rares contacts où une difficulté peut servir de carte.
 
 ## Ce qui circule {#ce-qui-circule}
 

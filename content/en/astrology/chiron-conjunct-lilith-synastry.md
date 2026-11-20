@@ -32,7 +32,7 @@ Chiron conjunct Lilith in synastry is what happens when your Chiron and another 
 
 ## What flows {#what-flows}
 
-[Chiron](/astrology/chiron/) describes how a person keeps going around something that won't go away: a different method, a slower pace, a tool nobody else needed. [Black Moon Lilith](/astrology/black-moon-lilith/), a calculated point at the Moon's mean apogee, is tied by many astrologers to instinctive autonomy, to boundaries and to whatever got pushed out of view; the schools disagree about it, so I keep it symbolic. Under a [conjunction](/astrology/conjunction/), adapting and refusing run as one movement, and neither swallows the other; as one of the [synastry aspects](/astrology/synastry-aspects/), that single process is split across two lives.
+[Chiron](/astrology/chiron/) describes how a person keeps going around something that won't go away: a different method, a slower pace, a tool nobody else needed. [Black Moon Lilith](/astrology/black-moon-lilith/), which marks the averaged apogee of the Moon, is tied by many astrologers to instinctive autonomy, to boundaries and to whatever got pushed out of view; the schools disagree about it, so I keep it symbolic. Under a [conjunction](/astrology/conjunction/), adapting and refusing run as one movement, and neither swallows the other; as one of the [synastry aspects](/astrology/synastry-aspects/), that single process is split across two lives.
 
 If the Chiron is yours, the other person's untamed side lands squarely on your sore spot, and it doesn't tiptoe. They may name what you've spent years working around as if there were nothing in it to be ashamed of. That can sting; it can also be the first time you feel you needn't be so careful.
 

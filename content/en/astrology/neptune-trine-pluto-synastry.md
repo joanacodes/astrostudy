@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 344
 glyph: "♆△♇"
-definition: "Neptune trine Pluto in synastry joins one person’s Neptune to the other’s Pluto across about 120°, within 3.4°, and in my data the Pluto always belongs to someone born roughly 23 to 35 years earlier. An elder’s depth and a younger person’s ideals carry each other. I read it through the houses."
+definition: "Neptune trine Pluto in synastry joins one person’s Neptune to the other’s Pluto across about 120°, within 3.4°, and in my data the Pluto always belongs to someone born roughly 23 to 35 years earlier. An elder’s depth and a younger person’s ideals carry each other. Its detail lies in the houses."
 facts:
   - { k: "Bodies", v: "One person’s Neptune ♆, the other’s Pluto ♇" }
   - { k: "Aspect", v: "Trine △, 120°" }

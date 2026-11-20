@@ -34,7 +34,7 @@ L’une veut garder le rêve ; l’autre veut savoir ce qui pourrit dessous. A
 
 [Neptune](/astrology/neptune/) porte les idéaux et l’empathie, la capacité de sentir le sens des choses et de laisser se dissoudre les lignes trop raides. [Pluton](/astrology/pluto/) porte l’élan de transformation : regarder ce qui est caché, mettre fin à ce qui est dépassé, rebâtir à partir de ce qui est sain. Un [carré](/astrology/square/) oppose deux fonctions d’une façon qui oblige au travail ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), celui-ci dresse un idéal contre un grand ménage, portés par deux personnes d’âges différents.
 
-Les signes partagent en général un mode. Avec Pluton en Vierge pour une naissance du milieu des années 1960 et Neptune en Sagittaire pour les naissances de la fin des années 1970, deux signes mutables, l’envie de réparer la façon dont les choses marchent rencontre un idéal de sens et d’horizons larges.
+Les deux signes appartiennent en général à un même mode. Avec Pluton en Vierge pour une naissance du milieu des années 1960 et Neptune en Sagittaire pour les naissances de la fin des années 1970, deux signes mutables, l’envie de réparer la façon dont les choses marchent rencontre un idéal de sens et d’horizons larges.
 
 Ce que la friction peut produire, c’est un travail honnête des deux côtés : des idéaux qui supportent un regard dur, et un renouveau qui garde sa compassion.
 

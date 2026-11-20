@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 342
 glyph: "♆⚹♇"
-definition: "Neptune sextile Pluton en synastrie signifie que les deux corps les plus lents que je lise, Neptune chez une personne et Pluton chez l’autre, se tiennent à environ 60°, à 2,4° près. Les idéaux et l’élan de renouveau peuvent s’allier dès que quelqu’un saisit l’ouverture. Des personnes du même âge le partagent souvent : je le lis par les maisons."
+definition: "Neptune sextile Pluton en synastrie signifie que les deux corps les plus lents que je lise, Neptune dans un thème et Pluton dans l’autre, se tiennent à environ 60°, à 2,4° près. Les idéaux et l’élan de renouveau peuvent s’allier dès que quelqu’un saisit l’ouverture. Des personnes du même âge le partagent souvent, d’où une lecture par les maisons."
 facts:
   - { k: "Corps", v: "Neptune ♆ de l’une, Pluton ♇ de l’autre" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/neptune", "/astrology/pluto", "/astrology/sextile", "/astrology/neptune-sextile-pluto", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Neptune sextile Pluton en synastrie ?"
-    a: "Environ 60° séparent Neptune, chez une personne, de Pluton chez l’autre, à 2,4° près. Les idéaux et la compassion de la première sont à portée de la capacité de la seconde à changer en profondeur : une vision commune peut trouver la patience de devenir réelle. C’est une ouverture, qui ne fait rien tant que personne ne s’en sert."
+    a: "Soixante degrés, à 2,4° près, séparent Neptune chez une personne et Pluton chez l’autre. Les idéaux et la compassion de la première sont à portée de la capacité de la seconde à changer en profondeur : une vision commune peut trouver la patience de devenir réelle. C’est une ouverture, qui ne fait rien tant que personne ne s’en sert."
   - q: "Pourquoi tant de paires ont-elles Neptune sextile Pluton ?"
     a: "Parce que la plupart des personnes nées entre le début des années 1940 et le début des années 1990 portent ce sextile dans leur propre thème, des personnes nées à quelques années d’écart le retrouvent souvent entre leurs deux thèmes. C’est un fond commun, le regard des années voisines, plus qu’un lien personnel."
   - q: "Qui a Neptune sextile Pluton avec quelqu’un ?"
@@ -34,7 +34,7 @@ Deux amies nées à quelques années d’écart peuvent partager une vision du m
 
 [Neptune](/astrology/neptune/) est la fonction des idéaux et de la compassion, du sens symbolique et des frontières qui peuvent s’adoucir. [Pluton](/astrology/pluto/) est la fonction du renouveau : éliminer ce qui ne marche plus, régénérer ce qui reste. Un [sextile](/astrology/sextile/) relie deux fonctions par l’occasion, une ouverture qui ne devient quelque chose qu’à l’usage ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), celui-ci permet à la vision de l’une et à la capacité de changement profond de l’autre de s’entraider.
 
-L’aide va dans les deux sens. La personne de Neptune offre à l’élan de l’autre une direction qui vaut l’effort, une raison au-delà du pouvoir ; celle de Pluton offre aux idéaux un moyen de devenir réels, avec la patience de déblayer d’abord le terrain.
+Cette aide circule dans les deux sens. La personne de Neptune offre à l’élan de l’autre une direction qui vaut l’effort, une raison au-delà du pouvoir ; celle de Pluton offre aux idéaux un moyen de devenir réels, avec la patience de déblayer d’abord le terrain.
 
 Avec Neptune de votre côté, vous trouverez peut-être chez l’autre la volonté de faire la partie dure, structurelle, de ce que vous ne pouvez qu’imaginer.
 

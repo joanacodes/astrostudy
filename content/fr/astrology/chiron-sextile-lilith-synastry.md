@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 377
 glyph: "⚷⚹⚸"
-definition: "Chiron sextile Lilith en synastrie est un lien de 60° qui va de Chiron, chez une personne, à la Lune noire Lilith de quelqu’un d’autre, tenu à 1,8°, l’orbe le plus serré que j’utilise. L’adaptation de l’une et la part indomptée de l’autre peuvent s’entraider, si quelqu’un demande. J’y lis une ouverture, par les maisons."
+definition: "Chiron sextile Lilith en synastrie est un lien de 60°, tenu à 1,8°, qui va du Chiron d’un premier thème jusqu’à la Lilith d’un second, l’orbe le plus serré que j’utilise. L’adaptation de l’une et la part indomptée de l’autre peuvent s’entraider, si quelqu’un demande. J’y lis une ouverture, par les maisons."
 facts:
   - { k: "Corps", v: "Chiron ⚷ de l’une, la Lune noire Lilith ⚸ de l’autre" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -52,7 +52,7 @@ Un sextile grince rarement ; ce qu’il peut cacher, c’est le peu qu’on en
 
 Faites un premier échange petit et précis. L’une demande une seule chose, un démarrage plus lent ou une autre façon d’être prévenue ; l’autre nomme une chose qu’elle ne fera pas, et pourquoi. Entre collègues, ce peut être un processus que l’une a adapté face à un script que l’autre refuse de suivre ; entre amis, une question honnête sur la façon dont l’autre s’en sort ; dans un couple ou une famille, la permission durable de dire non sans discours.
 
-L’orbe serré raccourcit les fenêtres de naissances. Une personne née au milieu de 1955 a Chiron en Verseau, et toute personne née en janvier ou février 1967 a Lilith en Bélier, à 60°. Dans l’autre sens, le contact peut unir deux personnes nées à deux ans d’écart : la Lilith de 1955, en Sagittaire, forme un sextile avec le Chiron en Verseau des personnes nées entre août et décembre 1957. Lilith atteint les 60° des deux côtés de ce Chiron, si bien que ses fenêtres alternent, à trois puis six ans d’écart. Je laisse ce genre de contact hors de mon décompte, qui ne retient que le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant et le milieu du ciel ; lu par les maisons, ce sextile parle de ce que deux générations peuvent s’offrir plus que de vous deux.
+L’orbe serré raccourcit les fenêtres de naissances. Une personne née au milieu de 1955 a Chiron en Verseau, et toute personne née en janvier ou février 1967 a Lilith en Bélier, à 60°. Dans l’autre sens, le contact peut unir deux personnes nées à deux ans d’écart : la Lilith de 1955, en Sagittaire, forme un sextile avec le Chiron en Verseau des personnes nées entre août et décembre 1957. Lilith atteint les 60° des deux côtés de ce Chiron, si bien que ses fenêtres alternent, à trois puis six ans d’écart. Je laisse ce genre de contact hors de mon décompte, qui ne retient que le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant et le milieu du ciel ; vu à travers les maisons, ce sextile parle de ce que deux générations peuvent s’offrir plus que de vous deux.
 
 Aucun des deux points n’avance beaucoup en une journée : l’heure de naissance touche à peine le sextile lui-même ; ce qu’elle fixe, ce sont les deux maisons que l’ouverture relie, et elles restent cachées tant que les deux heures ne sont pas connues ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

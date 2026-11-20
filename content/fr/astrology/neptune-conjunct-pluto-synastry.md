@@ -34,7 +34,7 @@ Une part de ce dont une génération a rêvé est exactement ce que la suivante 
 
 [Neptune](/astrology/neptune/) imagine et dissout : des idéaux, de la compassion, le sens de quelque chose de plus grand, et des frontières adoucies là où elles ne servent plus. [Pluton](/astrology/pluto/) transforme : déblayer ce qui n’est plus viable, renouveler depuis la racine, réclamer un pouvoir authentique. Une [conjonction](/astrology/conjunction/) fond deux fonctions en un seul processus sans effacer ni la première ni la seconde ; parmi les [aspects de synastrie](/astrology/synastry-aspects/), celle-ci joint le rêve d’une aînée à la profondeur d’une cadette.
 
-Les signes lui donnent un sujet. Neptune en Vierge pour les naissances du milieu des années 1930, Pluton en Vierge pour celles du milieu des années 1960, par exemple : un idéal de service utile et soigneux rencontre l’envie de refondre la manière de travailler et les méthodes.
+Les signes en précisent le sujet. Neptune en Vierge pour les naissances du milieu des années 1930, Pluton en Vierge pour celles du milieu des années 1960, par exemple : un idéal de service utile et soigneux rencontre l’envie de refondre la manière de travailler et les méthodes.
 
 Si Neptune est de votre côté, vos propres idéaux peuvent vous revenir avec une intensité que vous ne leur aviez jamais donnée : pris au sérieux, poussés plus loin, parfois transformés au point d’en devenir méconnaissables.
 
@@ -57,4 +57,4 @@ Neptune et Pluton sont les deux corps les plus lents que je lise, ce qui fait de
 
 Ces deux planètes bougent à peine en une journée ; les heures décident des maisons, par exemple si la rencontre tombe dans la maison 11 de la personne de Pluton, parmi les amis et les causes, ou dans sa maison 2, parmi ses valeurs ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Dans un seul thème, [Neptune conjonction Pluton](/astrology/neptune-conjunct-pluto/) n’appartient à aucune des naissances que j’ai comptées ; entre deux thèmes, le contact relie deux générations, et les deux personnes doivent vouloir qu’on le lise ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).
+Le décompte des naissances de 1930 à 2009 ne montre [Neptune conjonction Pluton](/astrology/neptune-conjunct-pluto/) dans aucun thème pris seul ; entre deux thèmes, le contact relie deux générations, et les deux personnes doivent vouloir qu’on le lise ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

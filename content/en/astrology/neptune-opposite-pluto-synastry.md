@@ -43,7 +43,7 @@ Holding the Neptune, you meet someone who has already been through the kind of c
 
 Across that many years, projection comes easily. The elder can read the younger's ideals as naïve; the younger can read the elder's realism as control or cynicism. Each may also idealise the other, as the wise one or the hopeful one, and stop seeing a person. The seesaw only moves when each side lends weight to the other: the elder some hope, the younger some respect for what change costs.
 
-- **[Neptune conjunct Pluto in synastry](/astrology/neptune-conjunct-pluto-synastry/):** the two on one degree, the Neptune an elder's by some twenty to thirty years.
+- **[Neptune conjunct Pluto in synastry](/astrology/neptune-conjunct-pluto-synastry/):** the two on one degree, the Neptune an elder's, some 22 to 31 years older.
 - **[Neptune sextile Pluto in synastry](/astrology/neptune-sextile-pluto-synastry/):** an opening that people of nearly the same age often share.
 - **[Neptune square Pluto in synastry](/astrology/neptune-square-pluto-synastry/):** an ideal and a clearing-out at right angles, mostly ten to twenty-four years apart.
 - **[Neptune trine Pluto in synastry](/astrology/neptune-trine-pluto-synastry/):** depth steadying ideals across roughly a generation.

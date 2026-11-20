@@ -27,7 +27,7 @@ faq:
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, 60°, parmi ses aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact, dans un sens ou dans l’autre" }
-  - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "Saturne et Chiron, comptés chacun dans le thème d’une personne" }
+  - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "Saturne et Chiron, chaque placement compté dans le thème d’une personne" }
 ---
 Un sextile est une offre, et Saturne sextile Chiron en synastrie est une offre de structure. Saturne d’une personne et Chiron de l’autre sont séparés par environ 60°, à 3° près : la stabilité que l’une peut prêter est à portée de la façon dont l’autre fait avec une limite qui ne s’en va pas. À portée, pas livrée : il faut que quelqu’un demande.
 

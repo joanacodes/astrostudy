@@ -56,4 +56,4 @@ Neptune and Pluto are the two slowest bodies I read, which makes this the slowes
 
 Neither planet moves more than a sliver in a day; what the hours decide is the houses, whether the meeting falls in the Pluto person's 11th house, among friends and causes, or their 2nd, among values ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Inside one chart, [Neptune conjunct Pluto](/astrology/neptune-conjunct-pluto/) belongs to none of the births I counted; between two charts it joins two generations, and both people need to want it read ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+The count of births from 1930 to 2009 shows [Neptune conjunct Pluto](/astrology/neptune-conjunct-pluto/) in no single chart; between two charts it joins two generations, and both people need to want it read ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

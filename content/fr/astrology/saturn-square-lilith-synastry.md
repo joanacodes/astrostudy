@@ -27,7 +27,7 @@ faq:
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le carré, 90°, parmi ses aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui donnent ce contact, avec la Lilith moyenne" }
-  - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "Saturne et Lilith, comptés chacun dans un seul thème" }
+  - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "Saturne et Lilith, chaque placement compté dans un seul thème" }
 ---
 « Tu devrais » et « je ne veux pas » arrivent à angle droit avec Saturne carré Lilith en synastrie. La Lune noire Lilith de l’une fait un carré à Saturne de l’autre, à 4,25° près, et ce que refuse la première bute sans cesse sur les règles de la seconde.
 
