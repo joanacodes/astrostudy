@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 63
 glyph: "♃"
-definition: "Their Jupiter in your 3rd house gives the other person’s Jupiter a place in your everyday conversations, messages, errands and close circle. In synastry their breadth widens how you think and talk: with them you may learn, read and ask more, and they find in your curiosity the best audience their ideas could have."
+definition: "Their Jupiter in your 3rd house gives the other person’s Jupiter a place in your daily talk, reading, errands and close circle. In synastry their breadth widens how you think and talk: with them you may learn, read and ask more, and they find in your curiosity the best audience their ideas could have."
 facts:
   - { k: "Their body", v: "Their Jupiter ♃" }
   - { k: "Your house", v: "The 3rd house: talk, learning, the near world" }
@@ -40,14 +40,14 @@ For them, your curiosity is the best audience their knowledge could have. They e
 
 Breadth can drown out the everyday. Their explanations may run longer than your question, their opinions can arrive as conclusions, and you might feel lectured in the very place where you wanted a quick word. Plans multiply in conversation faster than anyone can carry them out.
 
-From their side, your many questions can feel like doubt, or your quick changes of subject like not listening. They may want to go deep while you want to move on.
+From their side, your many questions can feel like doubt, or your quick changes of subject like not listening. They may want to go deep while you want to move on, and feel that their best thoughts are being skimmed.
 
 Learning isn't superiority: their Jupiter here describes two minds widening each other, not one teaching and the other being taught. With a sibling or a neighbour, it speaks to how you trade ideas now, as adults.
 
 ## How to meet it {#how-to-meet-it}
 
-Let questions go both ways. Ask them what they're curious about, and tell them when you'd like the short version. In a couple, a shared reading list or a course taken together can be a pleasure; between friends, the long walk with the long conversation; between colleagues, informal teaching works when the learner sets the pace; between adult siblings, it may be the chance to swap the old roles of who knows and who asks.
+Let questions go both ways. Ask them what they're curious about, and tell them when you'd like the short version; a rule that every long answer ends with a question back keeps the balance. In a couple, a shared reading list or a course taken together can be a pleasure; between friends, the long walk with the long conversation; between colleagues, informal teaching works when the learner sets the pace; between adult siblings, it may be the chance to swap the old roles of who knows and who asks.
 
 For them, the matching page is your Jupiter in their 3rd house, where your ideas widen their everyday talk. [Their Jupiter in your 2nd house](/astrology/jupiter-in-2nd-house-synastry/) is generosity towards what you value; [their Jupiter in your 4th house](/astrology/jupiter-in-4th-house-synastry/) carries the breadth home.
 
-Plenty of people born in the same months as them would put Jupiter in the same house of yours, since it spends about a year in each sign; what makes this overlay about them is everything else in the two charts. Your birth time decides where your 3rd begins and ends in Placidus, the house system I use, so I read nothing without it, nor without theirs, which their own houses need ([what changes without a birth time](/blog/unknown-birth-time/)). And if they'd rather keep their chart to themselves, your own has plenty to say about how you learn ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#instead)).
+Plenty of people born in the same months as them would put Jupiter in the same house of yours, since it spends about a year in each sign; what makes this overlay about them is everything else in the two charts. Where your 3rd begins and ends is set by your birth time, in Placidus, the house system I use, so I read nothing without it, nor without theirs, which their own houses need ([what changes without a birth time](/blog/unknown-birth-time/)). And if they'd rather keep their chart to themselves, your own has plenty to say about how you learn ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/#instead)).

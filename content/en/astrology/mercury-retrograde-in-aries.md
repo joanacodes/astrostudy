@@ -33,11 +33,11 @@ Mercury turns back in Aries only between early March and early May, and never fo
 
 ## What slows down {#what-slows-down}
 
-Mercury never really reverses. Seen from Earth, it seems to stop, drift backwards for a few weeks and set off again: that’s [Mercury retrograde](/astrology/mercury-retrograde/). In [Aries](/astrology/aries/), cardinal fire ruled by Mars, Mercury has no dignity of its own and borrows the sign’s pace: say it first, refine it later. Turned back, the sprint becomes a second lap of the same track. The message sent too fast, the idea launched before it was tested, the argument you won and now see from the other side: those are what these weeks bring round.
+Seen from Earth, Mercury seems to stop, drift backwards for a few weeks and set off again: that’s [Mercury retrograde](/astrology/mercury-retrograde/). In [Aries](/astrology/aries/), cardinal fire ruled by Mars, Mercury has no dignity of its own and borrows the sign’s pace: say it first, refine it later. Turned back, the sprint becomes a second lap of the same track. The message sent too fast, the idea launched before it was tested, the argument you won and now see from the other side: those are what these weeks bring round.
 
 In the dates I work from, Aries has thirteen of Mercury’s retrogrades between 2000 and 2040, two or three years running and then none for four or five: 2004 and 2005, 2011 and 2012, 2017 and 2018, 2024 and 2025, 2030 to 2032, 2037 and 2038. The most recent, from 15 March to 7 April 2025, stationed at 9°35′ Aries and backed out of the sign, to turn direct at 26°49′ Pisces ([Mercury retrograde in Pisces](/astrology/mercury-retrograde-in-pisces/)). The next comes from 13 April to 6 May 2030: it starts at 7°47′ Taurus ([Mercury retrograde in Taurus](/astrology/mercury-retrograde-in-taurus/)) and ends at 27°26′ Aries. The one after, from 26 March to 18 April 2031, stays wholly in Aries, from 19°44′ back to 7°50′.
 
-All of this is the sky now. If Mercury was already retrograde in Aries when you were born, that’s a placement of your own, and I read it differently ([natal retrograde planets](/blog/retrograde-planets/)).
+If Mercury was already retrograde in Aries when you were born, that’s a placement of your own, and I read it differently ([natal retrograde planets](/blog/retrograde-planets/)).
 
 ## House by house {#house-by-house}
 
@@ -47,11 +47,11 @@ Which part of your life the retrograde crosses depends on where Aries falls amon
 2. **[2nd house](/astrology/aries-on-2nd-house-cusp/):** what you value, and how quickly you decided it; a choice made in a rush asks to be weighed again.
 3. **[3rd house](/astrology/aries-on-3rd-house-cusp/):** everyday talk with brothers, sisters and neighbours; a blunt remark you’d now put another way.
 4. **[4th house](/astrology/aries-on-4th-house-cusp/):** home; a change you announced under your own roof, talked over before it goes ahead.
-5. **[5th house](/astrology/aries-on-5th-house-cusp/):** play, romance and creative work; a bold first move replayed in your head, or a project begun in a burst, back on the table.
+5. **[5th house](/astrology/aries-on-5th-house-cusp/):** play, romance and creative work; a project begun in a burst, back on the table.
 6. **[6th house](/astrology/aries-on-6th-house-cusp/):** working days; the task you hurried through, wanting a second pass.
 7. **[7th house](/astrology/aries-on-7th-house-cusp/):** Aries on the Descendant, with Libra rising: a frank exchange with a partner comes round again, and may sound different the second time.
 8. **[8th house](/astrology/aries-on-8th-house-cusp/):** what you share and whom you trust; a hard conversation you had head on, reopened more gently.
-9. **[9th house](/astrology/aries-on-9th-house-cusp/):** beliefs and far places; a course or a trip chosen on impulse, reconsidered with the details in front of you.
+9. **[9th house](/astrology/aries-on-9th-house-cusp/):** beliefs and far places; a course or a trip chosen on impulse, reconsidered with the details in view.
 10. **[10th house](/astrology/aries-on-10th-house-cusp/):** work and public role; an initiative launched under your own name, revised.
 11. **[11th house](/astrology/aries-on-11th-house-cusp/):** friends and shared plans; the project you got moving for everyone, rethought with them.
 12. **[12th house](/astrology/aries-on-12th-house-cusp/):** time alone; the things you meant to say and didn’t, turned over in private.
