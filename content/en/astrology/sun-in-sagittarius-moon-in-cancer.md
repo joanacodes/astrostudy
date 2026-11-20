@@ -21,7 +21,7 @@ faq:
     a: "Jupiter is the ruler of Sagittarius and therefore of your Sun, and tradition gives Jupiter its exaltation in Cancer, your Moon’s sign. The planet your sense of purpose answers to is honoured where your needs live. I read that as growth that comes through care: meaning found in looking after people, not only in going far."
   - q: "Is a Sagittarius Sun with a Cancer Moon torn between home and travel?"
     a: "It can feel that way. The Sagittarius Sun wants distance, ideas and room; the Cancer Moon, in its own sign, needs a home base and people to shelter. With neither element nor modality in common, neither gives way by itself. Many people with the pair do best with a home they leave often and always come back to."
-  - q: "Which lunar phase goes with Sun in Sagittarius, Moon in Cancer?"
+  - q: "Which days of the lunar month go with Sun in Sagittarius, Moon in Cancer?"
     a: "The days just after a full moon. The Moon was 181° to 239° ahead of the Sun, fifteen to nineteen and a half days after the new moon. In the eight-phase count, seven in eight are full moon births and one in eight disseminating."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the Moon’s domicile in Cancer and Jupiter’s exaltation there" }

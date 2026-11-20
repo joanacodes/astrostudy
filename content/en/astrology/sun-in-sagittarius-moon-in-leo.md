@@ -21,7 +21,7 @@ faq:
     a: "Something worth believing in, and a few people to share it with who show they’ve heard. The Sagittarius Sun is organised around meaning and room ahead; the Leo Moon steadies itself through wholehearted expression that lands. Both are fire, so enthusiasm comes easily. What takes practice is rest, and feeling loved on an ordinary day."
   - q: "Why is the Sun the ruler of a Leo Moon?"
     a: "Because the Sun rules Leo, every Moon in Leo answers to the Sun. With a Sagittarius Sun, your Moon’s ruler is the very light it shares the chart with: what your feelings need in order to shine is tied to what your sense of purpose is reaching for. I always read the two together."
-  - q: "Which lunar phase goes with Sun in Sagittarius, Moon in Leo?"
+  - q: "How far past the full moon is a Sun in Sagittarius, Moon in Leo birth?"
     a: "The waning Moon after the full. The Moon was 211° to 269° ahead of the Sun, seventeen and a half to twenty-two days after the new moon. The disseminating phase of the eight takes about seven of these births in eight; the rest come in the full moon phase just before it."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the fire signs, the Sun’s rule of Leo and Jupiter’s of Sagittarius" }

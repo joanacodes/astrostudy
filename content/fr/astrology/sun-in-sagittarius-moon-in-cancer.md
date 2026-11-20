@@ -22,7 +22,7 @@ faq:
     a: "Jupiter gouverne le Sagittaire et parle donc pour votre Soleil, et la tradition place l’exaltation de Jupiter en Cancer, le signe de votre Lune. La planète à laquelle répond votre but est honorée là où vivent vos besoins. J’y lis une croissance qui passe par le soin : du sens trouvé auprès des autres, pas seulement au loin."
   - q: "Un Soleil en Sagittaire avec une Lune en Cancer est-il partagé entre le foyer et le voyage ?"
     a: "On peut le ressentir ainsi. Le Soleil en Sagittaire veut de la distance et de l’espace ; la Lune en Cancer, dans son propre signe, a besoin d’un foyer et de personnes à abriter. Sans élément ni mode communs, aucun ne cède de lui-même. Beaucoup de personnes avec ce duo s’épanouissent avec un foyer souvent quitté, toujours retrouvé."
-  - q: "Quelle phase lunaire va avec le Soleil en Sagittaire et la Lune en Cancer ?"
+  - q: "Quels jours du mois lunaire vont avec le Soleil en Sagittaire et la Lune en Cancer ?"
     a: "Les jours qui suivent une pleine lune. La Lune avait 181° à 239° d’avance sur le Soleil, quinze jours à dix-neuf jours et demi après la nouvelle lune. Sept naissances sur huit avec ce duo se placent dans la phase de pleine lune des huit phases, une sur huit dans la phase disséminante qui suit."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le domicile de la Lune en Cancer et l’exaltation de Jupiter dans ce signe" }

@@ -22,7 +22,7 @@ faq:
     a: "De quelque chose en quoi croire, et de quelques personnes qui l’entendent vraiment. Le Soleil en Sagittaire s’organise autour du sens et de l’espace devant lui ; la Lune en Lion se stabilise par une expression entière qui touche son but. Les deux sont de feu : l’enthousiasme vient facilement. Ce qui s’apprend, c’est le repos, et l’affection d’un jour ordinaire."
   - q: "Pourquoi le Soleil gouverne-t-il une Lune en Lion ?"
     a: "Le Lion est le signe du Soleil : toute Lune en Lion répond donc au Soleil. Avec un Soleil en Sagittaire, le maître de votre Lune est le luminaire même avec lequel elle partage le thème : ce dont vos émotions ont besoin pour rayonner est lié à ce que vise votre sens du but. Je lis toujours les deux ensemble."
-  - q: "Quelle phase lunaire va avec le Soleil en Sagittaire et la Lune en Lion ?"
+  - q: "Combien de jours après la pleine lune tombe une naissance Soleil en Sagittaire, Lune en Lion ?"
     a: "La Lune décroissante d’après la pleine lune. La Lune avait 211° à 269° d’avance sur le Soleil, dix-sept jours et demi à vingt-deux jours après la nouvelle lune. La phase disséminante des huit prend environ sept de ces naissances sur huit ; les autres tombent dans la phase de pleine lune qui la précède."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les signes de feu, la maîtrise du Soleil sur le Lion et celle de Jupiter sur le Sagittaire" }
