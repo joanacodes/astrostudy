@@ -32,7 +32,7 @@ With some people, you fall back into your oldest self without noticing, and it f
 
 ## What flows {#what-flows}
 
-[Pluto](/astrology/pluto/) is transformation and regeneration: getting to the bottom of things, clearing what is obsolete, renewing an agency from the inside. The [South Node](/astrology/south-node/) holds the capacities a person has practised longest, available with little effort; the [North Node](/astrology/north-node/) opposite, the complementary capacity they are still building. An [opposition](/astrology/opposition/) holds two functions in polarity; in [synastry aspects](/astrology/synastry-aspects/) like this one, Pluto takes up one end of someone else's axis.
+[Pluto](/astrology/pluto/) is transformation and regeneration: getting to the bottom of things, clearing what is obsolete, renewing an agency from the inside. The [South Node](/astrology/south-node/) holds the capacities a person has practised longest, available with little effort; the [North Node](/astrology/north-node/) opposite, the complementary capacity they are still building. In an [opposition](/astrology/opposition/), two functions pull from opposite ends; in [synastry aspects](/astrology/synastry-aspects/) like this one, Pluto takes up one end of someone else's axis.
 
 For the person whose North Node it is, this person's depth meets you on familiar ground. They understand your old strategies from the inside, sometimes better than you do, and with them you feel known at once. That can steady you through hard times: someone sees what your oldest strengths are worth.
 
@@ -55,6 +55,6 @@ Honour the old ground, and bring something new onto it. If the North Node is you
 
 The dates are close. A chart from mid-1985, with Pluto early in Scorpio, puts it on the South Node of anyone born between January and June 1986, only months younger, as well as those born from June to November 1967 or from August 2004 to January 2005. Their own South Node, in Scorpio too, lies under the Pluto of everyone born from September 1989 to December 1991, with the 1985 North Node, in Taurus, facing it. Since months of births share it, it isn't among the contacts that make up my synastry readings, each of which needs the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven; read through the houses, it shows one era's depth resting on another's inheritance.
 
-The hour decides nothing here; the houses do, and they need both birth times ([what changes without a birth time](/blog/unknown-birth-time/)). I keep the mean node in view beside the true one, which these months follow ([mean node and true node](/astrology/mean-node-and-true-node/)).
+The hour decides nothing here; it matters for the houses, which need both birth times ([what changes without a birth time](/blog/unknown-birth-time/)). I keep the mean node in view beside the true one, which these months follow ([mean node and true node](/astrology/mean-node-and-true-node/)).
 
 [Pluto opposite North Node](/astrology/pluto-opposite-north-node/), in a single chart, makes deep renewal a person's own old skill. Here the old skill belongs to someone else, so I need a yes from each of them first ([synastry and consent](/blog/synastry-behind-their-back/)).

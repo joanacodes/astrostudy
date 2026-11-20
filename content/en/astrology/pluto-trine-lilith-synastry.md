@@ -45,7 +45,7 @@ A welcome offered is not always a welcome felt. Because the trine runs smoothly,
 How the angles change it:
 
 - **[Pluto conjunct Lilith in synastry](/astrology/pluto-conjunct-lilith-synastry/):** depth sits right on the hidden side, closer and more exposing.
-- **[Pluto sextile Lilith in synastry](/astrology/pluto-sextile-lilith-synastry/):** a smaller welcome that has to be asked for.
+- **[Pluto sextile Lilith in synastry](/astrology/pluto-sextile-lilith-synastry/):** a smaller welcome, granted only on request.
 - **[Pluto square Lilith in synastry](/astrology/pluto-square-lilith-synastry/):** transformation and refusal rubbing, until neither tries to steer.
 - **[Pluto opposite Lilith in synastry](/astrology/pluto-opposite-lilith-synastry/):** the two at either end of an axis, magnetic and demanding.
 

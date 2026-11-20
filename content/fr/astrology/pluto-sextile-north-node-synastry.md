@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance où Pluton, chez l’une, est à moins de 2,4° d’un sextile avec le Nœud Nord vrai de l’autre" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds lunaires moyen et vrai" }
 ---
-Changer de direction ne veut pas toujours dire brûler ce qui précède. C’est souvent ce que permet Pluton sextile Nœud Nord en synastrie : le renouveau que porte l’une pose des pierres de gué entre l’ancien terrain de l’autre et sa nouvelle direction, avec un sextile à un nœud et un trigone à l’autre.
+Changer de direction ne veut pas toujours dire brûler ce qui précède. C’est souvent ce que permet Pluton sextile Nœud Nord en synastrie : le renouveau que porte l’une pose des pierres de gué entre l’ancien terrain de l’autre et sa nouvelle direction, avec un sextile vers un nœud et un trigone vers le second.
 
 ## Ce qui circule {#ce-qui-circule}
 
@@ -56,6 +56,6 @@ Nommez une traversée, et faites-la. Si le Nœud Nord est le vôtre, choisissez 
 
 Pluton à la fin du Lion, dans un thème du milieu de 1955, fait ce sextile au Nœud Nord des naissances de juillet à septembre 1958, alors en Balance, comme à celui des naissances de février à juin 1977. Le Nœud Nord de ce thème, à la fin du Sagittaire, reçoit le sextile de Pluton dans tous les thèmes d’octobre 1981 à décembre 1982. Ce sont des cohortes qui le portent, pas des individus, et les contacts que je pèse dans une lecture de synastrie impliquent toujours le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel : celui-ci reste donc hors de ce compte ; ses maisons montrent une époque qui en aide une autre à changer de cap sans brûler ce qui précède.
 
-Le sextile ne tient pas à l’heure ; ses maisons, elles, réclament une heure de naissance de chaque côté ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Avec un orbe de 2,4°, je tiens compte des deux nœuds ; ces mois suivent le nœud vrai ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)).
+Le sextile ne tient pas à l’heure ; ses maisons, elles, réclament une heure de naissance de chaque côté ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Avec un orbe de 2,4°, je tiens compte des deux nœuds ; ces mois se calculent sur le nœud vrai ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)).
 
 [Pluton sextile Nœud Nord](/astrology/pluto-sextile-north-node/) est la même ouverture à l’intérieur d’un seul thème, où les renouveaux d’une personne dégagent son propre chemin. Ici, quelqu’un d’autre tient le renouveau, et je n’ouvre cette lecture qu’une fois les deux d’accord ([synastrie et consentement](/blog/synastry-behind-their-back/)).

@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months with one person’s Pluto within 2.4° of a sextile to another’s true North Node" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the mean and true lunar nodes" }
 ---
-Changing direction doesn't always mean burning what came before. Pluto sextile North Node in synastry is often how that happens: the renewal one person carries lays stepping stones from the other's old ground to their new direction, a sextile to one node and a trine to the other.
+Changing direction doesn't always mean burning what came before. Pluto sextile North Node in synastry is often how that happens: the renewal one person carries lays stepping stones from the other's old ground to their new direction, a sextile to one node and a trine to its opposite.
 
 ## What flows {#what-flows}
 
@@ -40,7 +40,7 @@ Holding the Pluto, you find your capacity for renewal welcome here, and useful. 
 
 ## Where it rubs {#where-it-rubs}
 
-The easy trine to the South Node can win. Renewal is pleasant when it refreshes the familiar, and the pair may spend its energy polishing old strengths together while the sextile, the harder opening towards the new, waits. An opportunity is only potential until someone acts on it, and neither person is obliged to be the one.
+The South Node's easy trine can win out. Renewal is pleasant when it refreshes the familiar, and the pair may spend its energy polishing old strengths together while the sextile, the harder opening towards the new, waits. An opportunity is only potential until someone acts on it, and neither person is obliged to be the one.
 
 Next to the sextile:
 

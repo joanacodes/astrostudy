@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 357
 glyph: "♆⚹☊"
-definition: "Neptune sextile North Node in synastry is a 60° link, give or take 2.4°, between one chart’s Neptune and another’s North Node, and a 120° link to that person’s South Node. One person’s imagination offers the other’s growth a gentle hand, and slips as easily into old habits. I read it as an offer."
+definition: "Neptune sextile North Node in synastry is a 60° link, give or take 2.4°, between one chart’s Neptune and another’s North Node, and a 120° link to that person’s South Node. One person’s imagination offers the other’s growth a gentle hand, and slips as easily into old habits. It reads to me as an offer."
 facts:
   - { k: "Bodies", v: "One person’s Neptune ♆, the other’s North Node ☊" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -47,7 +47,7 @@ How the same two meet at other angles:
 - **[Neptune conjunct North Node in synastry](/astrology/neptune-conjunct-north-node-synastry/):** the dream sits right on the path, harder to tell apart from it.
 - **[Neptune square North Node in synastry](/astrology/neptune-square-north-node-synastry/):** imagination crosses the road at right angles, a detour asking to be folded in.
 - **[Neptune trine North Node in synastry](/astrology/neptune-trine-north-node-synastry/):** a wider, steadier current towards the new, with the sextile turned back to the old.
-- **[Neptune opposite North Node in synastry](/astrology/neptune-opposite-north-node-synastry/):** Neptune at home on the familiar end, facing the growth across the chart.
+- **[Neptune opposite North Node in synastry](/astrology/neptune-opposite-north-node-synastry/):** Neptune resting on old ground, with the growth across the chart.
 
 ## How to meet it {#how-to-meet-it}
 
@@ -55,6 +55,6 @@ Take the offer on purpose. Once in a while, check whether your time together fee
 
 A 1975 birth makes the point: Neptune there, in Sagittarius, is 60° from the North Node of people born from December 1977 to February 1978, and of people born from April to August 1990. Reverse the roles and the 1975 North Node finds Neptune 60° away in everyone born from November 1997 to February 1999, and in people born from August 1942 to October 1943: one contact reaching a parent's generation and a child's. That reach is why it stays off my list of synastry contacts, each of which touches the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven, and read it in the houses, where generations hand each other something.
 
-The hour of birth won't change the sextile; for the houses, both times are needed ([what changes without a birth time](/blog/unknown-birth-time/)). With an orb of 2.4°, the node matters: I look at both nodes here, mean and true; these months come from the true one ([mean node and true node](/astrology/mean-node-and-true-node/)).
+The hour of birth won't change the sextile; for the houses, both times are needed ([what changes without a birth time](/blog/unknown-birth-time/)). The orb is only 2.4°, so the node matters: I look at both nodes here, mean and true; these months come from the true one ([mean node and true node](/astrology/mean-node-and-true-node/)).
 
 [Neptune sextile North Node](/astrology/neptune-sextile-north-node/), in one chart, lets a person's own imagination help their growth. Lent across two charts, it belongs to a pair, and I read it with both of them or not at all ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

@@ -23,7 +23,7 @@ faq:
   - q: "Est-ce que Pluton opposition Chiron est un conflit entre deux personnes ?"
     a: "Non. Ce contact forme une polarité : un seul axe, avec une personne à chaque bout. Certains jours, celle-ci ressemble à une reconnaissance ; d’autres, à une demande de démonter quelque chose qui marche. Alterner les deux questions change souvent la tension en équilibre."
   - q: "Pourquoi tant de personnes nées dans les années 1960 partagent-elles Pluton opposition Chiron ?"
-    a: "Pluton a passé l’essentiel des années 1960 en Vierge, et Chiron, en face, a traversé lentement les Poissons pendant une bonne partie de la même période. Deux personnes nées à quelques années d’écart dans les années 1960 ont donc souvent Pluton de l’une face au Chiron de l’autre, et beaucoup portent la même opposition dans leur propre thème."
+    a: "Pluton a passé l’essentiel des années 1960 en Vierge, et Chiron, en face, a traversé lentement les Poissons pendant une bonne partie de la même période. Des personnes nées à quelques années d’écart dans les années 1960 ont donc souvent Pluton de l’une face au Chiron de l’autre, et beaucoup portent la même opposition dans leur propre thème."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’opposition, 180°, le dernier des quatre aspects" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui opposent Pluton, chez l’une, au Chiron de l’autre, à 4° près" }

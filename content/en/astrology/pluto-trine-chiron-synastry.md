@@ -1,7 +1,7 @@
 ---
 title: "Pluto trine Chiron in synastry"
 h1: "Pluto trine Chiron between two charts"
-description: "Pluto trine Chiron in synastry: one person’s depth meets the other’s tender place with steadiness, not pressure. Each side, what the ease hides, who has it."
+description: "Pluto trine Chiron in synastry: one person’s depth meets the other’s tender place with steadiness, not pressure. Each side, the cost of ease, the dates."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"

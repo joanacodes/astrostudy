@@ -23,7 +23,7 @@ faq:
   - q: "D’où vient l’attirance de Pluton opposition Lilith ?"
     a: "Une opposition montre à chaque personne une qualité qu’elle a moins, portée par quelqu’un qui se tient juste en face. Ici, c’est l’intensité d’un côté et l’autonomie indomptée de l’autre, ce qui fascine volontiers. L’attirance est réelle ; elle ne dit rien de la suite d’une relation."
   - q: "Des personnes du même âge peuvent-elles avoir Pluton opposition Lilith ?"
-    a: "Oui. Les personnes nées de novembre 1975 à février 1976 l’ont avec toute personne née au milieu de 1975, à quelques mois d’écart, parce que la Lilith moyenne traversait alors le Bélier, face à cette position de Pluton en Balance. Les fenêtres reviennent à peu près tous les neuf ans, quand Lilith refait le tour."
+    a: "Oui. Les personnes nées de novembre 1975 à février 1976 l’ont avec toute personne née au milieu de 1975, à quelques mois d’écart, parce que la Lilith moyenne traversait alors le Bélier, face à cette position de Pluton en Balance. Les fenêtres reviennent environ tous les neuf ans, au rythme du tour de Lilith."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "l’opposition, 180°, telle que Ptolémée la range" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui opposent Pluton, chez l’une, à la Lilith moyenne de l’autre, à 4° près" }
@@ -46,7 +46,7 @@ C’est une balançoire, jamais une inimitié, et elle se pose quand les deux ce
 
 Les autres façons dont la paire se rencontre :
 
-- **[Pluton conjonction Lilith en synastrie](/astrology/pluto-conjunct-lilith-synastry/) :** aucune distance, la profondeur posée sur la part cachée.
+- **[Pluton conjonction Lilith en synastrie](/astrology/pluto-conjunct-lilith-synastry/) :** aucune distance : la profondeur s’installe sur la part cachée.
 - **[Pluton sextile Lilith en synastrie](/astrology/pluto-sextile-lilith-synastry/) :** une petite porte ouverte, qui ne sert que si les deux la prennent.
 - **[Pluton carré Lilith en synastrie](/astrology/pluto-square-lilith-synastry/) :** une friction à angle droit, où chacune se sent dirigée.
 - **[Pluton trigone Lilith en synastrie](/astrology/pluto-trine-lilith-synastry/) :** de la place pour la part indomptée, donnée sans peine.
@@ -55,7 +55,7 @@ Les autres façons dont la paire se rencontre :
 
 Dites qui veut quoi. Si Pluton est de votre côté, nommez le changement que vous aimeriez et demandez s’il est voulu, puis acceptez un non. Du côté de la Lilith, dites ce que vous partagez volontiers et ce qui n’est pas sur la table. Des personnes nées à quelques mois d’écart peuvent rencontrer cette opposition, tout comme des amis d’école ou des couples proches en âge ; un parent et un enfant adulte aussi, d’une génération à l’autre.
 
-Les fenêtres sont rapprochées : au milieu de 1975, Pluton était en Balance, et le contact se forme avec les personnes nées de novembre 1975 à février 1976, dont la Lilith traversait le Bélier, puis avec celles nées de septembre à décembre 1984, quand Lilith eut refait le tour. Sa propre Lilith, en Poissons, a en face d’elle Pluton de toutes les naissances de juillet 1964 à novembre 1966, alors en Vierge. Un tel contact appartient à des mois entiers de naissances, et ne pèse donc rien dans mes comptes de synastrie, qui exigent toujours le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel ; lu par les maisons, il met côte à côte deux façons d’époque d’exercer le pouvoir.
+Les fenêtres sont rapprochées : au milieu de 1975, Pluton était en Balance, et le contact se forme avec les personnes nées de novembre 1975 à février 1976, dont la Lilith traversait le Bélier, puis avec celles nées de septembre à décembre 1984, quand Lilith eut refait le tour. Sa propre Lilith, en Poissons, a en face d’elle Pluton de toutes les naissances de juillet 1964 à novembre 1966, alors en Vierge. Un tel contact se répète sur des mois entiers de naissances, et ne pèse donc rien dans mes comptes de synastrie, qui exigent toujours le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel ; lu par les maisons, il met côte à côte deux façons d’époque d’exercer le pouvoir.
 
 Les deux points étant lents, aucune heure de naissance ne décide de l’opposition ; les maisons réclament les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Toutes les fenêtres de cette page utilisent la Lilith moyenne ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)).
 

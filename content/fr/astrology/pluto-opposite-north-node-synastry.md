@@ -33,7 +33,7 @@ Avec certaines personnes, on retombe sans s’en apercevoir dans son plus vieux 
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Pluton](/astrology/pluto/), c’est la transformation et la régénération : aller au fond des choses, écarter l’obsolète, renouveler de l’intérieur une capacité d’agir. Le [Nœud Sud](/astrology/south-node/) garde les capacités qu’une personne pratique depuis le plus longtemps, disponibles sans effort ; le [Nœud Nord](/astrology/north-node/), en face, la capacité complémentaire qu’elle construit encore. Une [opposition](/astrology/opposition/) tient deux fonctions en polarité ; ici, parmi les [aspects de synastrie](/astrology/synastry-aspects/), Pluton occupe un bout de l’axe de quelqu’un d’autre.
+[Pluton](/astrology/pluto/), c’est la transformation et la régénération : aller au fond des choses, écarter l’obsolète, renouveler de l’intérieur une capacité d’agir. Le [Nœud Sud](/astrology/south-node/) garde les capacités qu’une personne pratique depuis le plus longtemps, disponibles sans effort ; le [Nœud Nord](/astrology/north-node/), en face, la capacité complémentaire qu’elle construit encore. Dans une [opposition](/astrology/opposition/), deux fonctions tirent depuis des bouts opposés ; ici, parmi les [aspects de synastrie](/astrology/synastry-aspects/), Pluton occupe un bout de l’axe de quelqu’un d’autre.
 
 Pour la personne dont c’est le Nœud Nord, la profondeur de l’autre vous rejoint sur un terrain familier. Elle comprend vos vieilles stratégies de l’intérieur, parfois mieux que vous, et à ses côtés vous vous sentez connue ou connu d’emblée. Cela peut vous tenir debout dans les moments durs : quelqu’un voit ce que valent vos plus anciennes forces.
 

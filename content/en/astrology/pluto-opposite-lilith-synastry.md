@@ -31,7 +31,7 @@ Some people are fascinated by exactly the kind of power they don't use themselve
 
 ## What flows {#what-flows}
 
-[Pluto](/astrology/pluto/) is empowerment through change: letting go of what is spent and growing an agency that belongs to the person, with a nose for hidden motives and power. [Black Moon Lilith](/astrology/black-moon-lilith/), a point plotted at the Moon's mean apogee, is linked by many astrologers to untamed autonomy, to boundaries, and to what a person would not surrender; the traditions vary, and I keep it symbolic. An [opposition](/astrology/opposition/) works through polarity and awareness: in [synastry aspects](/astrology/synastry-aspects/) like this one, each end lives in a different chart.
+[Pluto](/astrology/pluto/) is empowerment through change: letting go of what is spent and growing an agency that belongs to the person, with a nose for hidden motives and power. [Black Moon Lilith](/astrology/black-moon-lilith/), a point plotted at the Moon's mean apogee, is linked by many astrologers to untamed autonomy, to boundaries, and to what a person would not surrender; the traditions vary, and I keep it symbolic. An [opposition](/astrology/opposition/) brings awareness through polarity: in [synastry aspects](/astrology/synastry-aspects/) like this one, each end lives in a different chart.
 
 What the pair gets is a clear view of power, theirs and each other's. The Pluto person sees in the other an autonomy that doesn't negotiate; the Lilith person sees in the other a capacity for change that doesn't flinch. Handled honestly, that view becomes something rare in any relationship: neither person is naive about power, and neither needs to use it on the other.
 

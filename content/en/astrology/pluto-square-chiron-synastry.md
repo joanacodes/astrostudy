@@ -31,13 +31,13 @@ sources:
 
 ## What flows {#what-flows}
 
-[Pluto](/astrology/pluto/) is where a chart wants things renewed from the root: the obsolete cleared out, strength reclaimed, something more authentic grown in its place. [Chiron](/astrology/chiron/) is where a limit stays, and where a person has built a way of functioning around it: a slower pace, a borrowed tool, an expertise others lack. A [square](/astrology/square/) relates them through constructive friction. Here, as in the other [synastry aspects](/astrology/synastry-aspects/), the functions are shared out, and each person brings one of the two answers to the same problem.
+[Pluto](/astrology/pluto/) is where a chart wants things renewed from the root: the obsolete cleared out, strength reclaimed, something more authentic grown in its place. [Chiron](/astrology/chiron/) is where a limit stays, and where a person has built a way of functioning around it: a slower pace, a borrowed tool, an expertise others lack. A [square](/astrology/square/) puts constructive friction between them. Here, as in the other [synastry aspects](/astrology/synastry-aspects/), the functions are shared out, and each person brings one of the two answers to the same problem.
 
 The friction's gift is discernment. Over time the Pluto person learns that some limits are not failures waiting to be fixed, and that gradual change counts. The Chiron person learns that one or two of their old workarounds can, in fact, be let go. Between them they get good at telling the two situations apart, which neither would have learned so well alone.
 
 ## Where it rubs {#where-it-rubs}
 
-If the Chiron is yours, this person keeps pressing on what you've made peace with. Their certainty that it could all be different can feel like not being seen: as if the care and skill you've put into living with your difficulty were only a delay. You may dig in harder than you mean to.
+If the Chiron is yours, this person keeps pressing on what you've made peace with. Their certainty that it could all be different can feel like not being seen: as if the care and skill you've put into living with your difficulty were only a delay. You may hold your ground harder than you intend.
 
 If the Pluto is yours, the other's acceptance can look like giving up. You offer a way out and meet a wall; you name what isn't working and hear "it works for me". It's easy to feel that your honesty is unwelcome, or to push harder, which never helps. This is friction, not failure, and both of you hold half of the truth: some things should change, and some should be lived with.
 

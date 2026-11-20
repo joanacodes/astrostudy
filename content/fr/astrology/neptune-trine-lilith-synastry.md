@@ -21,7 +21,7 @@ faq:
   - q: "Que veut dire Neptune trigone Lilith en synastrie ?"
     a: "C’est un trigone, environ 120°, entre Neptune dans un premier thème et la Lune noire Lilith dans un second. La première prend souvent les refus et les appétits de la seconde comme ils viennent, et la seconde rend les rêves de la première plus hardis. Facile, ce contact donne le plus, comme tout trigone, quand on s’en sert exprès."
   - q: "Deux personnes nées la même année peuvent-elles avoir Neptune trigone Lilith en synastrie ?"
-    a: "Oui, et parfois dans les deux sens. Prenez une naissance du milieu de 1985 : avec les personnes nées de mai à juillet de cette année-là, le contact va dans les deux directions à la fois. Cette Lilith de 1985 forme aussi un trigone avec Neptune chez les personnes nées en 1930 et pendant la plus grande partie de 1931."
+    a: "Oui, et parfois dans les deux sens. Prenons le milieu de l’année 1985 : avec les personnes nées de mai à juillet de cette année-là, le contact va dans les deux directions à la fois. Cette Lilith de 1985 forme aussi un trigone avec Neptune chez les personnes nées en 1930 et pendant la plus grande partie de 1931."
   - q: "Est-ce que Neptune trigone Lilith veut dire que deux personnes sont faites l’une pour l’autre ?"
     a: "Non. Aucun aspect n’en décide, facile ou difficile, et celui-ci vient avec une saison de naissances plutôt qu’avec deux personnes en particulier. Il décrit une manière dont deux personnes accueillent un côté particulier l’une de l’autre. Leur entente dépend de bien plus qu’un trigone."
 sources:
@@ -33,7 +33,7 @@ Certaines personnes entendent votre refus le plus net et en sont, au fond, soula
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Neptune](/astrology/neptune/) est le côté imaginatif et compatissant d’un thème, à l’aise dans l’ambigu et attiré par ce qui dépasse l’ordinaire. La [Lune noire Lilith](/astrology/black-moon-lilith/), apogée lunaire lissé en un point qui tourne lentement, figure pour beaucoup d’astrologues l’autonomie instinctive, le sens de son propre pouvoir et ce qu’on a laissé hors du cadre ; les traditions varient, c’est un symbole, pas une loi. Un [trigone](/astrology/trine/) est un courant qui facilite : deux fonctions se fortifient l’une l’autre sans perdre leur forme. Parmi les [aspects de synastrie](/astrology/synastry-aspects/), ce courant passe entre deux personnes, et ici dans les deux sens.
+[Neptune](/astrology/neptune/) est le côté imaginatif et compatissant d’un thème, à l’aise dans l’ambigu et attiré par ce qui dépasse l’ordinaire. La [Lune noire Lilith](/astrology/black-moon-lilith/), apogée lunaire lissé en un point qui tourne lentement, figure pour beaucoup d’astrologues l’autonomie instinctive, le sens de son propre pouvoir et ce qu’on a laissé hors du cadre ; les traditions varient, c’est un symbole, pas une loi. Un [trigone](/astrology/trine/) fait couler les choses : deux fonctions se fortifient l’une l’autre sans perdre leur forme. Parmi les [aspects de synastrie](/astrology/synastry-aspects/), ce courant passe entre deux personnes, et ici dans les deux sens.
 
 Si la Lilith est la vôtre, vous n’avez pas à vous adoucir pour cette personne. Votre colère, votre faim, votre refus de jouer le jeu : elle les prend comme ils viennent, avec une joie tranquille. À ses côtés, la part de vous qui était « de trop » devient simplement une part de vous.
 

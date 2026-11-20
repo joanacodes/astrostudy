@@ -29,7 +29,7 @@ sources:
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Pluton, chez l’une, à moins de 3,4° d’un trigone avec le Nœud Nord vrai de l’autre" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "les nœuds vrai et moyen de la Lune" }
 ---
-Certains soutiens poussent moins qu’ils ne soufflent dans le dos. Pluton trigone Nœud Nord en synastrie peut agir ainsi : le renouveau profond de l’une court dans le même sens que la croissance de l’autre, avec un angle facile vers son Nœud Nord et un sextile plus léger vers son Nœud Sud.
+Certains soutiens poussent moins qu’ils ne soufflent dans le dos. C’est ce que fait souvent Pluton trigone Nœud Nord en synastrie : le renouveau profond de l’une court dans le même sens que la croissance de l’autre, avec un angle facile vers son Nœud Nord et un sextile plus léger vers son Nœud Sud.
 
 ## Ce qui circule {#ce-qui-circule}
 

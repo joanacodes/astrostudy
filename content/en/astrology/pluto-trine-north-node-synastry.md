@@ -28,7 +28,7 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "the birth months that set one person’s Pluto within 3.4° of a trine to another’s true North Node" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the true and mean nodes of the Moon" }
 ---
-Some support is less a push than a wind at your back. Pluto trine North Node in synastry can work like that: one person's deep renewal runs the same way as the other's growth, with an easy angle to their North Node and a lighter sextile back to their South Node.
+Some support is less a push than a wind at your back. That is what Pluto trine North Node in synastry often does: one person's deep renewal runs the same way as the other's growth, with an easy angle to their North Node and a lighter sextile back to their South Node.
 
 ## What flows {#what-flows}
 
@@ -47,7 +47,7 @@ Around the trine:
 - **[Pluto conjunct North Node in synastry](/astrology/pluto-conjunct-north-node-synastry/):** renewal right on the growing edge, a push more than a breeze.
 - **[Pluto sextile North Node in synastry](/astrology/pluto-sextile-north-node-synastry/):** a narrower opening, the easy angle facing the old ground.
 - **[Pluto square North Node in synastry](/astrology/pluto-square-north-node-synastry/):** depth crossing the path, a challenge instead of a current.
-- **[Pluto opposite North Node in synastry](/astrology/pluto-opposite-north-node-synastry/):** renewal at home on the familiar end, across from the new.
+- **[Pluto opposite North Node in synastry](/astrology/pluto-opposite-north-node-synastry/):** renewal sitting right on the familiar end, opposite the new.
 
 ## How to meet it {#how-to-meet-it}
 

@@ -46,7 +46,7 @@ The other four, for contrast:
 
 - **[Pluto conjunct North Node in synastry](/astrology/pluto-conjunct-north-node-synastry/):** depth on the growing edge itself, pushing forward.
 - **[Pluto sextile North Node in synastry](/astrology/pluto-sextile-north-node-synastry/):** a gentle opening from old strengths to new ones.
-- **[Pluto trine North Node in synastry](/astrology/pluto-trine-north-node-synastry/):** renewal running with the growth instead of across it.
+- **[Pluto trine North Node in synastry](/astrology/pluto-trine-north-node-synastry/):** renewal that travels alongside the growth rather than cutting across it.
 - **[Pluto opposite North Node in synastry](/astrology/pluto-opposite-north-node-synastry/):** depth resting on familiar ground, facing the new.
 
 ## How to meet it {#how-to-meet-it}

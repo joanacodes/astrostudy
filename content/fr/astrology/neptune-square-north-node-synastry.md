@@ -33,7 +33,7 @@ L’une apprend, lentement et avec effort, à faire quelque chose de nouveau ;
 
 ## Ce qui circule {#ce-qui-circule}
 
-[Neptune](/astrology/neptune/) aspire, imagine et compatit, avec un goût pour les causes et les idéaux plus grands que la tâche du moment. Le [Nœud Nord](/astrology/north-node/) est une capacité bâtie par la répétition et le retour, maladroite avant de devenir naturelle ; le [Nœud Sud](/astrology/south-node/), son autre bout, garde les savoir-faire établis. Un [carré](/astrology/square/) agit par friction constructive ; et comme les nœuds se font face, ce qui forme un carré avec l’un en forme un avec l’autre : Neptune traverse ici toute la route. Comme dans tous les [aspects de synastrie](/astrology/synastry-aspects/), il y a une personne de chaque côté du croisement.
+[Neptune](/astrology/neptune/) aspire, imagine et compatit, avec un goût pour les causes et les idéaux plus grands que la tâche du moment. Le [Nœud Nord](/astrology/north-node/) est une capacité bâtie par la répétition et le retour, maladroite avant de devenir naturelle ; le [Nœud Sud](/astrology/south-node/), son autre bout, garde les savoir-faire établis. Un [carré](/astrology/square/) produit une friction constructive ; et comme les nœuds se font face, ce qui forme un carré avec l’un en forme un avec l’autre : Neptune traverse ici toute la route. Comme dans tous les [aspects de synastrie](/astrology/synastry-aspects/), il y a une personne de chaque côté du croisement.
 
 La friction peut produire une pratique qui garde de l’imagination. Une personne du nœud qui apprend à tenir sa direction malgré l’attrait de quelque chose de beau finit avec un chemin plus solide ; une personne de Neptune qui apprend à viser les pas réels de l’autre finit avec des rêves qui aident.
 
@@ -43,9 +43,9 @@ Si vous portez le Nœud Nord, les rêves de cette personne vous offrent sans ces
 
 Côté Neptune, la pratique soigneuse de l’autre peut vous sembler sèche, presque sans joie, et vos visions rebondissent dessus. Vous offrez de l’inspiration et recevez « pas maintenant ». On croit vite son imagination malvenue, alors qu’elle arrive seulement à angle droit.
 
-Un carré est une friction, jamais un verdict sur la paire. Les deux ont raison sur quelque chose : le rêve compte, et la discipline aussi.
+Cette friction ne rend jamais de verdict sur la paire. Les deux ont raison sur quelque chose : le rêve compte, et la discipline aussi.
 
-Les autres aspects de la paire :
+Face aux autres aspects du même couple :
 
 - **[Neptune conjonction Nœud Nord en synastrie](/astrology/neptune-conjunct-north-node-synastry/) :** le rêve se pose sur la route devant au lieu de la couper.
 - **[Neptune sextile Nœud Nord en synastrie](/astrology/neptune-sextile-north-node-synastry/) :** une offre plus petite et plus amicale, qui longe la route.

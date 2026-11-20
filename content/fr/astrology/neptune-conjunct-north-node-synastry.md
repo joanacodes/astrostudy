@@ -23,7 +23,7 @@ faq:
   - q: "Est-ce que Neptune conjonction Nœud Nord est un lien prédestiné ?"
     a: "Ce n’est pas ma lecture. Le Nœud Nord décrit une capacité qui se construit en s’exerçant, pas un destin, et toutes les naissances de quelques mois partagent ce contact. Il peut donner à une rencontre un air important ; ce que deux personnes en font leur appartient."
   - q: "Quel nœud utilisez-vous pour Neptune conjonction Nœud Nord en synastrie ?"
-    a: "Les deux, le nœud moyen comme le nœud vrai, séparés au plus d’un ou deux degrés. Les mois de naissance de cette page suivent le nœud vrai ; avec un orbe de 4°, ils ne divergent que pour une paire tout à la limite."
+    a: "Les deux, le nœud moyen comme le nœud vrai, séparés au plus d’un ou deux degrés. Ici, les mois de naissance suivent le nœud vrai ; avec un orbe de 4°, ils ne divergent que pour une paire tout à la limite."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "les aspects, dont la conjonction est le point de départ" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance qui placent Neptune, chez l’une, sur le Nœud Nord vrai de l’autre, à 4° près" }
@@ -43,7 +43,7 @@ Du côté de Neptune, le chemin de l’autre capte votre imagination. Vous imagi
 
 Cette conjonction peut brouiller l’avenir de qui l’on imagine. La personne de Neptune peut s’éprendre d’une vision de la croissance de l’autre que celle-ci n’a jamais choisie, ou y verser ses propres désirs. Celle du nœud peut courir après la belle version et sauter la pratique toute simple, parce que rêver d’un savoir-faire ressemble à un progrès. Personne n’égare personne : une direction est simplement plus facile à imaginer qu’à parcourir. Les contacts des nœuds peuvent aussi sembler immenses, et l’une ou l’autre parlera peut-être de destin, alors que le Nœud Nord ne décrit que ce qu’on apprend.
 
-Les quatre autres angles de la paire :
+Le même couple de points, sous quatre autres angles :
 
 - **[Neptune sextile Nœud Nord en synastrie](/astrology/neptune-sextile-north-node-synastry/) :** un rêve offert au bord de la route, amical envers le point de départ de l’autre.
 - **[Neptune carré Nœud Nord en synastrie](/astrology/neptune-square-north-node-synastry/) :** un idéal qui coupe les deux bouts de la route de l’autre.

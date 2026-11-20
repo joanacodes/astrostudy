@@ -23,7 +23,7 @@ faq:
   - q: "Est-ce que Neptune sextile Nœud Nord touche aussi le Nœud Sud ?"
     a: "Oui. Le Nœud Sud se trouve exactement à l’opposé du Nœud Nord : à 60° de l’un, Neptune se trouve à environ 120° de l’autre, en trigone. Ce lien facile avec le bout familier fait partie du contact : la même imagination qui encourage le neuf peut aussi rendre les vieilles habitudes très confortables."
   - q: "Qui a Neptune sextile Nœud Nord avec qui ?"
-    a: "Tout se joue sur les dates de naissance : une personne du milieu de 1975 le partage avec celles nées de décembre 1977 à février 1978 et, dans l’autre sens, avec celles nées de novembre 1997 à février 1999. L’orbe est étroit : les fenêtres sont courtes, et quelques semaines suffisent à les manquer."
+    a: "Les dates de naissance décident de tout : une personne du milieu de 1975 le partage avec celles nées de décembre 1977 à février 1978 et, dans l’autre sens, avec celles nées de novembre 1997 à février 1999. L’orbe est étroit : les fenêtres sont courtes, et quelques semaines suffisent à les manquer."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le sextile, 60°, et le trigone, 120°" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "les mois de naissance où Neptune, chez l’une, est à moins de 2,4° d’un sextile avec le Nœud Nord vrai de l’autre" }
@@ -56,6 +56,6 @@ Prenez l’offre exprès. De temps en temps, vérifiez si le temps passé ensemb
 
 Une naissance de 1975 le montre bien : Neptune, en Sagittaire, y est à 60° du Nœud Nord des personnes nées de décembre 1977 à février 1978, et de celles nées d’avril à août 1990. Inversez les rôles, et le Nœud Nord de 1975 trouve Neptune à 60° chez toutes les naissances de novembre 1997 à février 1999, et chez celles d’août 1942 à octobre 1943 : un même contact atteint la génération d’un parent et celle d’un enfant. Cette portée explique qu’il reste hors de ma liste de contacts de synastrie, qui touchent chacun le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel, et que je le lise dans les maisons, où les générations se passent quelque chose.
 
-L’heure de naissance ne change pas le sextile ; pour les maisons, il faut les deux heures ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Avec un orbe de 2,4°, le nœud compte : je compare le nœud moyen au nœud vrai, et c’est le vrai qui a servi pour ces mois ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)).
+L’heure de naissance ne change pas le sextile ; sans les deux heures, en revanche, pas de maisons ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Avec un orbe de 2,4°, le nœud compte : je compare le nœud moyen au nœud vrai, et c’est le vrai qui a servi pour ces mois ([nœud moyen et nœud vrai](/astrology/mean-node-and-true-node/)).
 
 [Neptune sextile Nœud Nord](/astrology/neptune-sextile-north-node/), dans un seul thème, laisse l’imagination d’une personne aider sa propre croissance. Prêté d’un thème à l’autre, il appartient à une paire, et je le lis avec les deux ou pas du tout ([pourquoi je ne lis pas une synastrie dans le dos de quelqu’un](/blog/synastry-behind-their-back/)).

@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/pluto", "/astrology/chiron", "/astrology/sextile", "/astrology/pluto-sextile-chiron", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Pluto sextile Chiron mean in synastry?"
-    a: "It’s a sextile, roughly 60°, between one chart’s Pluto and another’s Chiron. The Pluto person’s depth tends to make the other’s old ways of coping feel open to change rather than under attack, and the Chiron person’s experience teaches patience in return. The opening is real, and it only works when somebody takes it."
+    a: "It’s a sextile, roughly 60°, between one chart’s Pluto and another’s Chiron. The Pluto person’s depth tends to make the other’s old ways of coping feel open to change rather than under attack, and the Chiron person’s experience teaches patience in return. The opening exists, and it only works when somebody takes it."
   - q: "Is Pluto sextile Chiron a healing aspect in synastry?"
     a: "I don’t read it as a promise of healing. Chiron, as I read it, is about adapting around a difficulty that lasts; this sextile offers a gentle way to rework those adaptations, if both people want to. It says nothing about health, and no aspect replaces the care of a professional."
   - q: "Can two people born the same year have Pluto sextile Chiron?"
