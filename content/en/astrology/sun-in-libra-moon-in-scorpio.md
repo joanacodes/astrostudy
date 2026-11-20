@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 80
 glyph: "☉♎☽♏"
-definition: "Sun in Libra, Moon in Scorpio puts both lights in their fall, the only pair that does, in the first days of a lunar month. I read it as a self that comes into its strength through fair dealing with others, beside needs that settle only once they know the truth beneath the surface."
+definition: "Sun in Libra, Moon in Scorpio puts both lights in their fall, the only pair that does, in the first days of a lunar month. I see in it a self that comes into its strength through fair dealing with others, beside needs that settle only once they know the truth beneath the surface."
 facts:
   - { k: "Sun sign", v: "Libra ♎, ruled by Venus; the Sun’s fall" }
   - { k: "Moon sign", v: "Scorpio ♏, ruled by Pluto and Mars; the Moon’s fall" }
@@ -20,7 +20,7 @@ faq:
   - q: "Are both lights weak with Sun in Libra and Moon in Scorpio?"
     a: "Tradition puts both in their fall, the Sun in Libra and the Moon in Scorpio, and this is the only pair where that happens. I don’t read a fall as weakness. It describes how much effort ease takes, and many people with this pair grow strong precisely through relationships and through facing what is difficult rather than going round it."
   - q: "What does a birth in the days after the new moon mean for a Libra Sun with a Scorpio Moon?"
-    a: "Most of these births fall in the new moon phase, up to about five days after the Sun and Moon met, usually in Libra. Purpose and need share a starting line at a new moon, as I read it, and here they part almost at once: fairness outward, depth inward, both carrying the same beginning."
+    a: "The new moon phase takes most of them: up to five days or so after the Sun and Moon met, usually in Libra. Purpose and need share a starting line at a new moon, as I read it, and here they part almost at once: fairness outward, depth inward, both carrying the same beginning."
   - q: "Why does a Libra Sun with a Scorpio Moon keep feelings private?"
     a: "Because the Scorpio Moon needs to know what lies under the surface before it relaxes, and trusts slowly, while the Libra Sun keeps things pleasant in company. That privacy isn’t secrecy: it protects a deep inner life until another person has proved able to receive it. With the right person, you open completely."
 sources:
@@ -32,13 +32,13 @@ Libra is where tradition finds the Sun weakest, and Scorpio is where it says the
 
 ## How they get along {#how-they-get-along}
 
-Scorpio is the next sign after Libra: neighbours, a [semi-sextile](/astrology/semi-sextile/) by sign, cardinal air beside fixed water, sharing only a border. The [Sun in Libra](/astrology/sun-in-libra/) aims for harmony and fair dealing between people; the [Moon in Scorpio](/astrology/moon-in-scorpio/) settles only when it knows what is really going on underneath, and gives its trust slowly, and completely, to very few. Graciousness comes naturally to you in company; what the Moon wants, in private, is an honesty most company never reaches.
+Scorpio comes straight after Libra, so the signs are next-door, a [semi-sextile](/astrology/semi-sextile/) by sign: cardinal air beside fixed water, sharing only a border. The [Sun in Libra](/astrology/sun-in-libra/) aims for harmony and fair dealing between people; the [Moon in Scorpio](/astrology/moon-in-scorpio/) settles only when it knows what is really going on underneath, and gives its trust slowly, and completely, to very few. Graciousness comes naturally to you in company; what the Moon wants, in private, is an honesty most company never reaches.
 
 The Sun's [fall](/astrology/fall/) is in Libra, the Moon's in Scorpio: Ptolemy's hardest signs for the two lights, here side by side. A fall describes how much effort ease takes, never how much a person can love or achieve. [Venus](/astrology/venus/) rules your Sun's sign. Scorpio has two rulers and I read both: in the older books [Mars](/astrology/mars/), which shows how this Moon defends what it cares about, and for modern astrologers [Pluto](/astrology/pluto/), which shows where it lets things end and then rebuilds. Where Venus and those two disagree, fairness and intensity have to negotiate.
 
-The Moon had only just left the Sun, 0° to 58° ahead of it, in a lunar month no more than about five days old. Most of these births belong to the [new moon](/astrology/new-moon/) phase, about one in eight to the [waxing crescent](/astrology/waxing-crescent/), and the conjunction that opened the month usually took place in Libra. At the very start of the range, a Sun in Libra's last degrees and a Moon in Scorpio's first can be conjunct across the sign line. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) shows where the new moon phase ends.
+The Moon had only just left the Sun, 0° to 58° ahead of it, in a lunar month no more than about five days old. The [new moon](/astrology/new-moon/) phase claims most of these births, the [waxing crescent](/astrology/waxing-crescent/) about one in eight, and the conjunction that opened the month usually took place in Libra. At the very start of the range, a Sun in Libra's last degrees and a Moon in Scorpio's first can be conjunct across the sign line. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) shows where the new moon phase ends.
 
-About 1 person in 144 is born with both lights in their fall. On some birthdays the time decides it: a little earlier, the Moon may still have been in Libra, a little later already in Sagittarius, which would make yours the [Sun in Libra, Moon in Libra](/astrology/sun-in-libra-moon-in-libra/) or the [Sun in Libra, Moon in Sagittarius](/astrology/sun-in-libra-moon-in-sagittarius/) ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)). The rising sign and the houses come from that time as well, and with the lights so close together, the house they share, or the two they straddle, says where this double fall is lived.
+About 1 person in 144 is born with both lights in their fall. On some birthdays the time decides it: a little earlier, the Moon may still have been in Libra, a little later already in Sagittarius, which would make yours the [Sun in Libra, Moon in Libra](/astrology/sun-in-libra-moon-in-libra/) or the [Sun in Libra, Moon in Sagittarius](/astrology/sun-in-libra-moon-in-sagittarius/) ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)). From that time come the rising sign and the houses too, and with the lights so close together, the house they share, or the two they straddle, says where this double fall is lived.
 
 ## In close relationships {#in-close-relationships}
 

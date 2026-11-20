@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 81
 glyph: "☉♎☽♐"
-definition: "Sun in Libra, Moon in Sagittarius puts the Moon two signs ahead of the Sun, a sextile by sign, a few evenings after a new moon. I read it as a self that seeks fairness between people, carried by needs that ask for space, honesty and the sense that life is going somewhere."
+definition: "Sun in Libra, Moon in Sagittarius puts the Moon two signs ahead of the Sun, a sextile by sign, a few evenings after a new moon. It reads to me as a self that seeks fairness between people, carried by needs that ask for space, honesty and the sense that life is going somewhere."
 facts:
   - { k: "Sun sign", v: "Libra ♎, ruled by Venus; the Sun’s fall" }
   - { k: "Moon sign", v: "Sagittarius ♐, ruled by Jupiter" }
@@ -21,7 +21,7 @@ faq:
     a: "Fairness, good company and room to grow. The Libra Sun wants a relationship that is balanced and pleasant; the Sagittarius Moon looks for candour, laughter and something ahead to share. A partner who travels with you, in any sense, suits both lights, and so does freedom that is agreed rather than taken."
   - q: "Why does Jupiter matter for a Libra Sun with a Sagittarius Moon?"
     a: "Because Jupiter rules Sagittarius, so it speaks for your Moon. Its sign, house and aspects show where you go for meaning, study and room to grow, and where you recover the sense that life is going somewhere. Venus, ruler of Libra, does the same for your Sun. Their houses need a birth time."
-  - q: "Why does space matter so much to a Libra Sun with a Sagittarius Moon?"
+  - q: "Why is space so important to a Libra Sun with a Sagittarius Moon?"
     a: "Because the Moon, in Sagittarius, feels safe with room ahead of it: a plan, a journey, a question with room in it. The Libra Sun loves company and partnership, so the two can seem to pull apart. They don’t have to. Space shared with someone you trust gives the Moon its horizon and the Sun its companion."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Venus’s rule of Libra, Jupiter’s of Sagittarius, and the Sun’s fall" }
@@ -32,13 +32,13 @@ With this pair, a sense of what's fair between two people keeps reaching for a s
 
 ## How they get along {#how-they-get-along}
 
-Sagittarius is two signs on from Libra, a [sextile](/astrology/sextile/) by sign: air and fire, which suit each other, cardinal and mutable, which keep different paces. The [Sun in Libra](/astrology/sun-in-libra/) starts things for the sake of fairness and good relations; the [Moon in Sagittarius](/astrology/moon-in-sagittarius/) settles when it has space, honesty and something to look forward to. The two meet easily in conversation, in travel, in any argument about how people ought to live.
+Sagittarius is two signs on from Libra, a [sextile](/astrology/sextile/) by sign: air and fire, which suit each other, cardinal and mutable, which keep different paces. The [Sun in Libra](/astrology/sun-in-libra/) sets things going for the sake of fairness and good relations; the [Moon in Sagittarius](/astrology/moon-in-sagittarius/) relaxes once there is space, honesty and something ahead. The two meet easily in conversation, in travel, in any argument about how people ought to live.
 
-[Venus](/astrology/venus/) governs your Sun's sign and [Jupiter](/astrology/jupiter/) your Moon's: taste and fairness on one side, meaning and growth on the other. The Sun is in its [fall](/astrology/fall/) in Libra, the Moon without dignity or debility in Sagittarius; I read the fall as a self whose strength is consultation, and this Moon as needs that rest on perspective rather than routine. Jupiter's sign and house show where your Moon goes looking for meaning, and Venus's where your Sun finds something worth making fair.
+[Venus](/astrology/venus/) governs your Sun's sign and [Jupiter](/astrology/jupiter/) your Moon's: taste and fairness on one side, meaning and growth on the other. Tradition puts the Sun in its [fall](/astrology/fall/) in Libra and gives the Moon neither dignity nor debility in Sagittarius; I read the fall as a self whose strength is consultation, and this Moon as needs that rest on perspective rather than routine. Jupiter's sign and house show where your Moon goes looking for meaning, and Venus's where your Sun finds something worth making fair.
 
-Two and a half to seven and a half days into the lunar month, the Moon had drawn 31° to 90° ahead of the Sun: a crescent in the west after sunset. These are [waxing crescent](/astrology/waxing-crescent/) births, apart from the earliest, about one in eight, which still belong to the [new moon](/astrology/new-moon/) phase, and near 60° the lights form a [Sun sextile Moon](/astrology/sun-sextile-moon/). I take the crescent to be the stage at which needs start to go their own way, which suits a Moon that likes the road. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) shows where the crescent begins and ends.
+By two and a half to seven and a half days after the new moon, the Moon had pulled 31° to 90° ahead of the Sun: a crescent in the west after sunset. These are [waxing crescent](/astrology/waxing-crescent/) births, apart from the earliest, about one in eight, which still belong to the [new moon](/astrology/new-moon/) phase, and near 60° the lights form a [Sun sextile Moon](/astrology/sun-sextile-moon/). I take the crescent to be the stage at which needs start to go their own way, which suits a Moon that likes the road. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) shows where the crescent begins and ends.
 
-A Libra Sun with a Sagittarius Moon belongs to about 1 person in 143. Should the Moon have entered Sagittarius, or left it, on your birthday, only the time can separate this page from the [Sun in Libra, Moon in Scorpio](/astrology/sun-in-libra-moon-in-scorpio/) and the [Sun in Libra, Moon in Capricorn](/astrology/sun-in-libra-moon-in-capricorn/) ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)). Sun, Moon and rising sign together make a first sketch of a chart, never the finished drawing, and the rising sign needs the time as much as the houses do.
+About one birth in 143 has a Libra Sun and a Sagittarius Moon. Should the Moon have entered Sagittarius, or left it, on your birthday, only the time can separate this page from the [Sun in Libra, Moon in Scorpio](/astrology/sun-in-libra-moon-in-scorpio/) and the [Sun in Libra, Moon in Capricorn](/astrology/sun-in-libra-moon-in-capricorn/) ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)). Sun, Moon and rising sign together make a first sketch of a chart, never the finished drawing, and the rising sign needs the time as much as the houses do.
 
 ## In close relationships {#in-close-relationships}
 
