@@ -33,17 +33,17 @@ Venus turns back in Aries only in early spring, and only once every eight years.
 
 ## What slows down {#what-slows-down}
 
-[Aries](/astrology/aries/) is cardinal fire, ruled by Mars, and tradition counts it as one of the two signs where Venus is in its detriment, opposite its own Libra. That doesn’t make love smaller there; it makes valuing fast and frank, settled on the spot. When [Venus retrograde](/astrology/venus-retrograde/) reaches Aries, the planet seems from Earth to halt and back through the sign for about 42 days, and that quickness turns round to look at itself: the person you chose because they were bold, the thing you bought because you wanted it that minute, the independence you guard inside a relationship and whether it still leaves room for the other person.
+[Aries](/astrology/aries/) is cardinal fire, ruled by Mars, and tradition counts it as one of the two signs where Venus is in its detriment, opposite its own Libra. That doesn’t make love smaller there; it makes valuing fast and frank, settled on the spot. When [Venus retrograde](/astrology/venus-retrograde/) reaches Aries, the planet seems from Earth to halt and back through the sign for about 42 days, and that quickness turns round to look at itself: the person chosen for their boldness, the thing bought because you wanted it that minute, the independence you guard inside a relationship.
 
-In the dates I use, the five retrogrades through Aries between 2000 and 2040 come 2,919 days apart, two days short of eight years, and each begins a little over 2° lower in the sign: 17°43′ in March 2001, 15°27′ in 2009, 13°08′ in 2017, 10°50′ in 2025, 8°31′ in 2033. Only the first stayed wholly in Aries, turning direct at 1°27′. Every one since has slipped over the edge into the sign of Venus’s exaltation ([Venus retrograde in Pisces](/astrology/venus-retrograde-in-pisces/)). The most recent ran from 2 March to 13 April 2025 and turned direct at 24°37′ Pisces; the next runs from 27 February to 10 April 2033 and ends at 22°21′ Pisces. None of them reaches forward into Taurus, which has no Venus retrograde at all in my list ([Venus retrograde in Taurus](/astrology/venus-retrograde-in-taurus/)).
+In the dates I use, the five retrogrades through Aries between 2000 and 2040 come 2,919 days apart, two days short of eight years, each beginning a little over 2° lower: 17°43′ in March 2001, 15°27′ in 2009, 13°08′ in 2017, 10°50′ in 2025, 8°31′ in 2033. Only the first stayed wholly in Aries, turning direct at 1°27′. Every one since has slipped over the edge into the sign of Venus’s exaltation ([Venus retrograde in Pisces](/astrology/venus-retrograde-in-pisces/)). The most recent ran from 2 March to 13 April 2025 and turned direct at 24°37′ Pisces; the next runs from 27 February to 10 April 2033 and ends at 22°21′ Pisces. None of them reaches forward into Taurus, which has no Venus retrograde at all in my list ([Venus retrograde in Taurus](/astrology/venus-retrograde-in-taurus/)).
 
 Born during one of these springs, you carry Venus retrograde in Aries in your own chart, a quick heart that checks its own choices, and I read that differently ([natal retrograde planets](/blog/retrograde-planets/)).
 
 ## House by house {#house-by-house}
 
-The house these weeks cross depends on [your birth time](/blog/unknown-birth-time/), because the cusps move with every few minutes of the day; without it there are no houses to read, and so I don’t read the chart. In Placidus, the house system I use, the house with Aries on its cusp takes most of the retrograde, and since 2009 the last stretch can fall in the house before it, where Pisces sits.
+The house these weeks cross depends on [your birth time](/blog/unknown-birth-time/): the cusps move every few minutes, and without the time there are no houses to read, so I don’t read the chart. In Placidus, the house system I use, the house with Aries on its cusp takes most of the retrograde, and since 2009 the last stretch can fall in the house before it, where Pisces sits.
 
-1. **[1st house](/astrology/aries-rising/):** Aries rising: the way you show a liking the moment you feel it; your look and your manner, reconsidered at leisure.
+1. **[1st house](/astrology/aries-rising/):** Aries rising: the way you show a liking the moment you feel it; your look and manner, reconsidered.
 2. **[2nd house](/astrology/aries-on-2nd-house-cusp/):** what you spend on impulse, and why; the purchase made to feel brave, weighed against what you actually value.
 3. **[3rd house](/astrology/aries-on-3rd-house-cusp/):** compliments and frank words; the message sent in the heat of attraction, read again.
 4. **[4th house](/astrology/aries-on-4th-house-cusp/):** a home arranged on your own terms; what would make it pleasant for everyone under the roof.
@@ -58,6 +58,6 @@ The house these weeks cross depends on [your birth time](/blog/unknown-birth-tim
 
 ## What helps {#what-helps}
 
-Look for Mars in your birth chart: as the ruler of Aries, its house shows where these weeks tend to take the question of what you want. I find it helps to let a strong attraction sit for a few days before acting on it or dismissing it, without making a rule of it: nothing in the sky forbids a beginning, and nothing here decides how a relationship goes.
+Look for Mars in your birth chart: as the ruler of Aries, its house shows where these weeks tend to take the question of what you want. I find it helps to let a strong attraction sit for a few days before acting on it or dismissing it; that isn’t a rule, and nothing here decides how a relationship goes.
 
 In Aries, Venus retrograde is a chance to want things a little more slowly, and to notice which of the wants were really yours.
