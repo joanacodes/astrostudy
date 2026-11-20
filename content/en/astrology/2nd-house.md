@@ -101,7 +101,7 @@ The ruler of the 2nd house is the planet that rules the sign on its cusp. Where 
 The Moon crosses your 2nd house every month and the Sun once a year, while Mercury, Venus and Mars pass through in a few weeks: brief spells when money and what you value are on your mind. The slow planets stay for years, roughly as long as they take to cross a sign, more or less with the size of the house:
 
 - **[Jupiter transiting the 2nd house](/astrology/jupiter-transit-2nd-house/):** about a year of wanting more room and more comfort — and of spending as easily as you earn.
-- **[Saturn transiting the 2nd house](/astrology/saturn-transit-2nd-house/):** about two and a half years of budgets, limits and building security slowly.
+- **[Saturn transiting the 2nd house](/astrology/saturn-transit-2nd-house/):** about three years of budgets, limits and building security slowly.
 - **[Uranus transiting the 2nd house](/astrology/uranus-transit-2nd-house/):** around seven years of changing how you earn or what you value, sometimes abruptly.
 - **[Neptune transiting the 2nd house](/astrology/neptune-transit-2nd-house/):** around fourteen years when money is harder to keep track of and values grow less material: a time for clear accounts.
 - **[Pluto transiting the 2nd house](/astrology/pluto-transit-2nd-house/):** a long, deep change in what you hold on to, and why.

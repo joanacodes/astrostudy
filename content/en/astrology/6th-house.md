@@ -106,7 +106,7 @@ The ruler of the 6th house is the planet that rules the sign on its cusp. Where 
 The Moon crosses your 6th house every month, the Sun once a year, Mercury, Venus and Mars for a few weeks: short spells when the to-do list takes over. The slow planets stay for years, roughly as long as they take to cross a sign, more or less with the size of the house:
 
 - **[Jupiter transiting the 6th house](/astrology/jupiter-transit-6th-house/):** about a year of more work, more willingness, and better habits within reach.
-- **[Saturn transiting the 6th house](/astrology/saturn-transit-6th-house/):** about two and a half years of reorganising your days: discipline, limits, routines rebuilt to last.
+- **[Saturn transiting the 6th house](/astrology/saturn-transit-6th-house/):** about three years of reorganising your days: discipline, limits, routines rebuilt to last.
 - **[Uranus transiting the 6th house](/astrology/uranus-transit-6th-house/):** around seven years of changes in how you work, and a need for freedom in your routine.
 - **[Neptune transiting the 6th house](/astrology/neptune-transit-6th-house/):** around fourteen years when routines dissolve unless they mean something, and work leans towards service.
 - **[Pluto transiting the 6th house](/astrology/pluto-transit-6th-house/):** a long, deep change in your relationship with work.

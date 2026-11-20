@@ -107,7 +107,7 @@ The ruler of the 7th house is the planet that rules the sign on its cusp, and wh
 The Moon passes through your 7th house every month, the Sun once a year, Mercury, Venus and Mars for a few weeks at a time: a conversation, a week of tension or warmth. The slow planets stay for years, roughly as long as they take to cross a sign, more or less with the size of the house:
 
 - **[Jupiter transiting the 7th house](/astrology/jupiter-transit-7th-house/):** about a year when relationships feel roomier and more hopeful, and other people more generous.
-- **[Saturn transiting the 7th house](/astrology/saturn-transit-7th-house/):** about two and a half years of looking hard at commitment: what's unequal asks to be renegotiated, what's solid shows it.
+- **[Saturn transiting the 7th house](/astrology/saturn-transit-7th-house/):** about three years of looking hard at commitment: what's unequal asks to be renegotiated, what's solid shows it.
 - **[Uranus transiting the 7th house](/astrology/uranus-transit-7th-house/):** around seven years of needing more room in close bonds, and of people who shake up your idea of partnership.
 - **[Neptune transiting the 7th house](/astrology/neptune-transit-7th-house/):** around fourteen years of ideals and blurred lines in partnership, and of learning to see the other person clearly.
 - **[Pluto transiting the 7th house](/astrology/pluto-transit-7th-house/):** a long, deep review of power and trust in your closest bonds.

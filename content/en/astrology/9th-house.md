@@ -104,7 +104,7 @@ The ruler of the 9th house is the planet that rules the sign on its cusp, and wh
 The Moon passes through your 9th house every month, the Sun once a year, Mercury, Venus and Mars for a few weeks at a time: a book, a trip, a conversation that stays with you. The slow planets stay for years, roughly as long as they take to cross a sign, more or less with the size of the house:
 
 - **[Jupiter transiting the 9th house](/astrology/jupiter-transit-9th-house/):** about a year of wanting to learn, travel or teach, when the world can feel larger.
-- **[Saturn transiting the 9th house](/astrology/saturn-transit-9th-house/):** about two and a half years when beliefs are put to the test, and serious study or a long project takes shape.
+- **[Saturn transiting the 9th house](/astrology/saturn-transit-9th-house/):** about three years when beliefs are put to the test, and serious study or a long project takes shape.
 - **[Uranus transiting the 9th house](/astrology/uranus-transit-9th-house/):** around seven years of sudden changes of mind, and of breaking with old certainties.
 - **[Neptune transiting the 9th house](/astrology/neptune-transit-9th-house/):** around fourteen years of spiritual longing and wide horizons — and of checking the map twice.
 - **[Pluto transiting the 9th house](/astrology/pluto-transit-9th-house/):** a long, deep change in what you believe, and why.

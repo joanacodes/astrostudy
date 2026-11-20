@@ -105,7 +105,7 @@ The planet that rules your rising sign rules your 1st house, and astrologers cal
 Every planet passes through your 1st house sooner or later. The Moon crosses it in a couple of days each month, the Sun in about a month each year, Mercury, Venus and Mars in a few weeks — short spells when you're more visible, or more aware of yourself. The slow planets stay for years, roughly as long as they take to cross a sign, more or less with the size of the house in your chart:
 
 - **[Jupiter transiting the 1st house](/astrology/jupiter-transit-1st-house/):** about a year of feeling bigger, readier to start something or to show up differently.
-- **[Saturn transiting the 1st house](/astrology/saturn-transit-1st-house/):** about two and a half years of taking yourself seriously; heavier, steadier, more defined.
+- **[Saturn transiting the 1st house](/astrology/saturn-transit-1st-house/):** about three years of taking yourself seriously; heavier, steadier, more defined.
 - **[Uranus transiting the 1st house](/astrology/uranus-transit-1st-house/):** around seven years of shaking off an old image and trying a freer one.
 - **[Neptune transiting the 1st house](/astrology/neptune-transit-1st-house/):** around fourteen years when your outline softens: less sure who you are, more open to who you could be.
 - **[Pluto transiting the 1st house](/astrology/pluto-transit-1st-house/):** a long, slow remaking of how you stand in the world, over a decade or more.

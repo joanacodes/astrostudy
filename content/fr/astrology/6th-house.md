@@ -107,7 +107,7 @@ Le maître de la maison 6 est la planète qui gouverne le signe sur sa cuspide. 
 La Lune traverse votre maison 6 chaque mois, le Soleil une fois par an, Mercure, Vénus et Mars pendant quelques semaines : de courtes périodes où la liste des choses à faire prend toute la place. Les planètes lentes y restent des années, à peu près le temps qu’il leur faut pour traverser un signe, plus ou moins selon la taille de la maison :
 
 - **[Jupiter en transit en maison 6](/astrology/jupiter-transit-6th-house/) :** environ un an de travail en plus, de bonne volonté en plus, et de meilleures habitudes à portée de main.
-- **[Saturne en transit en maison 6](/astrology/saturn-transit-6th-house/) :** environ deux ans et demi à réorganiser vos journées : de la discipline, des limites, des routines reconstruites pour durer.
+- **[Saturne en transit en maison 6](/astrology/saturn-transit-6th-house/) :** environ trois ans à réorganiser vos journées : de la discipline, des limites, des routines reconstruites pour durer.
 - **[Uranus en transit en maison 6](/astrology/uranus-transit-6th-house/) :** environ sept ans de changements dans votre façon de travailler, avec un besoin de liberté dans votre routine.
 - **[Neptune en transit en maison 6](/astrology/neptune-transit-6th-house/) :** environ quatorze ans où les routines se dissolvent si elles n’ont pas de sens, et où le travail penche vers le service.
 - **[Pluton en transit en maison 6](/astrology/pluto-transit-6th-house/) :** un changement long et profond dans votre rapport au travail.

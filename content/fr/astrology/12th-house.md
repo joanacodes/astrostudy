@@ -107,7 +107,7 @@ Le maître de la maison 12 est la planète qui gouverne le signe sur sa cuspide,
 La Lune traverse votre maison 12 chaque mois, le Soleil une fois par an, Mercure, Vénus et Mars pendant quelques semaines : un besoin de sommeil, de calme ou d’une journée à vous. Les planètes lentes y restent des années, à peu près le temps qu’il leur faut pour traverser un signe, plus ou moins selon la taille de la maison, avant d’atteindre votre ascendant :
 
 - **[Jupiter en transit en maison 12](/astrology/jupiter-transit-12th-house/) :** environ un an où l’aide et le sens viennent sans bruit ; un bon moment pour le repos, l’étude ou la retraite.
-- **[Saturne en transit en maison 12](/astrology/saturn-transit-12th-house/) :** environ deux ans et demi de bilan avant un nouveau départ : des chapitres qui se ferment, des peurs affrontées, plus de repos que vous ne le voudriez.
+- **[Saturne en transit en maison 12](/astrology/saturn-transit-12th-house/) :** environ trois ans de bilan avant un nouveau départ : des chapitres qui se ferment, des peurs affrontées, plus de repos que vous ne le voudriez.
 - **[Uranus en transit en maison 12](/astrology/uranus-transit-12th-house/) :** environ sept ans d’intuitions soudaines, et de libération d’anciens schémas cachés.
 - **[Neptune en transit en maison 12](/astrology/neptune-transit-12th-house/) :** environ quatorze ans d’un attrait profond pour la solitude, l’imagination ou la spiritualité — et de besoin de bonnes limites.
 - **[Pluton en transit en maison 12](/astrology/pluto-transit-12th-house/) :** un long et lent changement intérieur, en grande partie loin des regards.
