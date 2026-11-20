@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 67
 glyph: "☉♍☽♎"
-definition: "Soleil en Vierge, Lune en Balance place la Lune un signe devant le Soleil, en Balance, cinq jours au plus après une nouvelle lune. Mercure gouverne le signe du Soleil, Vénus celui de la Lune, et Vénus a sa chute en Vierge. J’y lis une précision qui veut être douce, et une justice qui veut être exacte."
+definition: "Soleil en Vierge, Lune en Balance place la Lune un signe devant le Soleil, en Balance, cinq jours au plus après une nouvelle lune. Vénus, maîtresse de la Lune, est au plus bas dans le signe du Soleil, où la tradition place sa chute. J’y lis une précision qui veut être douce, et une justice qui veut être exacte."
 facts:
   - { k: "Signe solaire", v: "Vierge ♍, gouvernée par Mercure ; signe de la chute de Vénus" }
   - { k: "Signe lunaire", v: "Balance ♎, gouvernée par Vénus" }

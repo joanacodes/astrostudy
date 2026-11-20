@@ -18,16 +18,15 @@ facts:
 related: ["/astrology/sun-in-libra", "/astrology/moon-in-gemini", "/astrology/waning-gibbous-disseminating-moon", "/astrology/sun-trine-moon", "/astrology/mercury"]
 faq:
   - q: "Is a Libra Sun with a Gemini Moon indecisive?"
-    a: "Not as I read it. Libra weighs and Gemini compares, so you may take longer than others to choose, because you can see more than one fair answer. That is a way of deciding, not a failure to decide. It helps to set an end to the weighing, and to say your own preference before you ask for anyone else’s."
+    a: "Slow to choose at times, but that isn’t indecision. Libra weighs and Gemini compares, so you often see more than one fair answer, and weighing them is your way of deciding. It helps to set an end to the weighing, and to say your own preference before you ask for anyone else’s."
   - q: "Do Venus and Mercury count for more with Sun in Libra, Moon in Gemini?"
     a: "They rule the two signs: Venus carries your Sun’s sense of fairness and taste, Mercury your Moon’s need to talk and compare. Their houses show where you weigh and where you think aloud. In my notebook, Venus and Mercury held about a third of the time, like the Sun sign: worth reading, never alone."
   - q: "What does the disseminating moon add to a Libra Sun with a Gemini Moon?"
-    a: "Direction. Most people with this pair arrived 17 to 22 days into the lunar month, in the phase astrologers who count eight phases call disseminating, the Moon waning after full. I read it as understanding that wants to be shared: what you work out tends to become advice, explanation or teaching, offered fairly and in well-chosen words."
+    a: "Direction. Most people with this pair arrived 17 to 22 days into the lunar month, in the phase astrologers who count eight phases call disseminating, the Moon waning after full. I read it as a mind that hands on what it learns: what you work out tends to become advice, explanation or teaching, offered fairly and in well-chosen words."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Venus’s rule of Libra and Mercury’s of Gemini, the air signs, and the Sun’s fall" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and how far the Moon had waned" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the Moon waning after full, up to 270° from the Sun" }
-  - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "what held for Venus, Mercury and the Sun sign" }
 ---
 The scales and the twins: both of your lights sit in signs whose symbols come in twos, and both in air. Your sense of self forms by weighing one thing against another, and your feelings settle by comparing, naming, turning a question over with someone else.
 
@@ -39,7 +38,7 @@ Libra is cardinal air and Gemini mutable air. Counted back from the Sun, Gemini 
 
 With the Moon 211° to 269° ahead of the Sun, you were born in a lunar month 17 to 22 days old, a few days after a full moon. Most of these births, about seven in eight, fall in the [waning gibbous (disseminating) moon](/astrology/waning-gibbous-disseminating-moon/), a phase that turns what you've learnt into something you hand on; the earliest are still in the [full moon](/astrology/full-moon/) phase. A Moon close to 240° gives a waning [Sun trine Moon](/astrology/sun-trine-moon/), and [your birth lunar phase](/astrology/your-birth-lunar-phase/) shows where the two phases meet.
 
-This air pair turns up in about 1 birth in 145. A Moon that changes sign every two and a half days or so may have moved from Taurus into Gemini, or from Gemini into Cancer, on your birthday, and only the hour can say whether you belong here or with the [Sun in Libra, Moon in Taurus](/astrology/sun-in-libra-moon-in-taurus/) or the [Sun in Libra, Moon in Cancer](/astrology/sun-in-libra-moon-in-cancer/) ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)). It decides the rising sign too, and with both lights in air, it is often the rising sign and the houses that bring earth or water into the picture.
+Two air signs, Libra for the Sun and Gemini for the Moon: about 1 person in 145 has them. A Moon that changes sign every two and a half days or so may have moved from Taurus into Gemini, or from Gemini into Cancer, on your birthday, and only the hour can say whether you belong here or with the [Sun in Libra, Moon in Taurus](/astrology/sun-in-libra-moon-in-taurus/) or the [Sun in Libra, Moon in Cancer](/astrology/sun-in-libra-moon-in-cancer/) ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)). It decides the rising sign too, and with both lights in air, it is often the rising sign and the houses that bring earth or water into the picture.
 
 ## In close relationships {#in-close-relationships}
 

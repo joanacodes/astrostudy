@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 67
 glyph: "☉♍☽♎"
-definition: "Sun in Virgo, Moon in Libra puts a Libra Moon just past a Virgo Sun, no more than five days into the lunar month. Mercury rules the Sun’s sign and Venus the Moon’s, and Venus has its fall in Virgo. I read it as precision that wants to be kind, and fairness that wants to be exact."
+definition: "Sun in Virgo, Moon in Libra puts a Libra Moon just past a Virgo Sun, no more than five days into the lunar month. Venus, the Moon’s ruler, is weakest in the Sun’s sign, where tradition places its fall. I read it as precision that wants to be kind, and fairness that wants to be exact."
 facts:
   - { k: "Sun sign", v: "Virgo ♍, ruled by Mercury; the sign of Venus’s fall" }
   - { k: "Moon sign", v: "Libra ♎, ruled by Venus" }

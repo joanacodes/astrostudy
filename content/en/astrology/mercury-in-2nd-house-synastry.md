@@ -40,7 +40,7 @@ For them, your steadiness gives their ideas somewhere to land. They learn from t
 
 Opinions about your spending can feel like opinions about you. A passing remark on a purchase, a raised eyebrow at a price, a habit of reviewing your choices, and the 2nd house's deeper question, what you're worth, gets tangled up in a conversation about money.
 
-From their side, your values may seem immovable. They bring a clever argument and you simply don't change your mind, because what you value isn't up for debate. They can feel that their ideas are being priced, accepted only once they've proved useful.
+To them, your values may look set in stone. They bring a clever argument and you simply don't change your mind, because what you value isn't up for debate. They can feel that their ideas are being priced, accepted only once they've proved useful.
 
 This overlay doesn't say whether you'll earn or lose with them, or whether a plan you make together will pay. No chart can, and I don't read one for that ([can astrology pick investments?](/astrology/can-astrology-pick-investments/)); what it shows is how the two of you talk about what you have.
 

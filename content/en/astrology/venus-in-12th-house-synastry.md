@@ -26,7 +26,7 @@ sources:
   - { title: "Vettius Valens, Anthology", note: "the houses and what tradition gave them" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Venus and its exaltation in Pisces" }
 ---
-Their Venus in your 12th house loves the part of you that hardly anyone sees. The other person's affection reaches your quiet hours, your inner life and the self you keep for yourself, and it often works out of sight, in kindnesses you only notice later.
+Their Venus in your 12th house is fond of a self hardly anyone sees. The other person's affection reaches your quiet hours, your inner life and the self you keep for yourself, and it often works out of sight, in kindnesses you only notice later.
 
 ## What it brings {#what-it-brings}
 

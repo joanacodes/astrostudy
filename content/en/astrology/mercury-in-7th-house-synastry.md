@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 31
 glyph: "☿"
-definition: "Their Mercury in your 7th house puts the other person’s voice directly across from yours, in the house of partners and one-to-one bonds. In synastry, talking tends to sit at the centre of the relationship: you think things through together, negotiate agreements and sharpen each other in debate, whether as partners, friends or colleagues."
+definition: "Their Mercury in your 7th house seats the other person’s voice directly across from yours, in the house of partners and one-to-one bonds. In synastry, talking tends to sit at the centre of the relationship: you think things through together, negotiate agreements and sharpen each other in debate, whether as partners, friends or colleagues."
 facts:
   - { k: "Their body", v: "Their Mercury ☿" }
   - { k: "Your house", v: "The 7th house, partners and the person across the table" }

@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 64
 glyph: "☉♍☽♋"
-definition: "Sun in Virgo, Moon in Cancer puts the Moon at home in its own sign, a sextile behind a Sun in Mercury’s sign, at a birth after the last quarter of the lunar month. I read it as practical tenderness: love that keeps lists, and lists kept out of love."
+definition: "Sun in Virgo, Moon in Cancer puts the Moon at home in its own sign, a sextile behind a Sun in Mercury’s sign, at a birth after the last quarter of the lunar month. To me it is practical tenderness: love that keeps lists, and lists kept out of love."
 facts:
   - { k: "Sun sign", v: "Virgo ♍, ruled by Mercury" }
   - { k: "Moon sign", v: "Cancer ♋, ruled by the Moon; its domicile" }

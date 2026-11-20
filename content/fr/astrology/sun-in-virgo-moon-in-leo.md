@@ -18,12 +18,12 @@ facts:
   - { k: "Fréquence", v: "Environ 1 personne sur 143 née entre 1930 et 2009" }
 related: ["/astrology/sun-in-virgo", "/astrology/moon-in-leo", "/astrology/balsamic-moon", "/astrology/new-moon-in-virgo", "/astrology/sun"]
 faq:
-  - q: "Pourquoi la reconnaissance compte-t-elle tant pour un Soleil en Vierge avec une Lune en Lion ?"
-    a: "Parce que la Lune en Lion se pose quand sa chaleur est vue et rendue, alors que le Soleil en Vierge travaille plutôt en silence et minimise ses talents. Le besoin est réel mais rarement dit. Une reconnaissance précise, pour ce que vous avez réellement fait, touche ce duo bien mieux qu’un compliment général."
+  - q: "Une Lune en Lion a-t-elle besoin d’être reconnue, avec un Soleil en Vierge ?"
+    a: "Oui, même si elle le dit rarement : pour se poser, une Lune en Lion a besoin que sa chaleur soit vue et rendue, alors qu’un Soleil en Vierge travaille en silence et minimise ses talents. Une reconnaissance précise, pour ce que vous avez réellement fait, touche ce duo bien mieux qu’un compliment général."
   - q: "Que veut dire le fait que le Soleil gouverne une Lune en Lion ?"
     a: "Le Lion appartient au Soleil, ce qui fait de votre Soleil le maître de votre Lune : ce que vous ressentez dépend beaucoup de la façon dont avance votre but. Avec le Soleil en Vierge, gouvernée par Mercure, la chaîne va de la Lune au Soleil puis à Mercure, dont le signe et la maison disent où elle s’arrête."
   - q: "Une naissance Soleil en Vierge, Lune en Lion est-elle proche d’une nouvelle lune ?"
-    a: "Oui, juste avant. Avec jusqu’à 58° de retard sur le Soleil, la Lune vivait les quatre ou cinq derniers jours de son tour. Les sept huitièmes environ sont des naissances balsamiques dans le schéma en huit phases, le reste relève du dernier quartier ; la nouvelle lune suivante tombait en général en Vierge."
+    a: "Oui, juste avant. La Lune n’était qu’à 58° au plus derrière le Soleil, dans les quatre ou cinq derniers jours de son tour. Les sept huitièmes environ sont des naissances balsamiques dans le schéma en huit phases, le reste relève du dernier quartier ; la nouvelle lune suivante tombait en général en Vierge."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "la maîtrise du Soleil sur le Lion et celle de Mercure sur la Vierge" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et le retard de la Lune sur le Soleil" }
@@ -39,7 +39,7 @@ Le [Soleil](/astrology/sun/) gouverne le Lion : votre Lune rend donc compte à 
 
 Avec une Lune à 58° au plus derrière le Soleil, la naissance tombe dans les quatre ou cinq derniers jours du mois lunaire : le dernier fil de croissant à l’est avant le lever du soleil, ou pas de Lune visible du tout. La [lune balsamique](/astrology/balsamic-moon/) en prend la quasi-totalité, sept sur huit environ, le [dernier quartier](/astrology/last-quarter-moon/) les plus précoces, et la [nouvelle lune](/astrology/new-moon/) arrivée dans les cinq jours était en général une [nouvelle lune en Vierge](/astrology/new-moon-in-virgo/). Une naissance balsamique, telle que je la lis, sait clore un chapitre avec soin, ce qui va bien à un Soleil qui aime finir les choses correctement ; [votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) montre comment cette phase achève le cycle.
 
-Environ 1 personne sur 143 a ce duo, et l’heure compte deux fois pour lui. Un jour où la Lune quittait le Cancer ou entrait en Vierge, elle décide entre cette page, le [Soleil en Vierge, Lune en Cancer](/astrology/sun-in-virgo-moon-in-cancer/) et le [Soleil en Vierge, Lune en Vierge](/astrology/sun-in-virgo-moon-in-virgo/) ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/#la-lune)) ; et dans le premier jour environ du mois de la Vierge, autour du 23 août, le signe du Soleil lui-même dépend de l’heure. L’ascendant, qui complète la première esquisse, en a besoin lui aussi.
+Environ 1 personne sur 143 a ce duo, et l’heure compte deux fois pour lui. Si la Lune changeait de signe ce jour-là, en sortant du Cancer ou en entrant en Vierge, l’heure décide entre cette page, le [Soleil en Vierge, Lune en Cancer](/astrology/sun-in-virgo-moon-in-cancer/) et le [Soleil en Vierge, Lune en Vierge](/astrology/sun-in-virgo-moon-in-virgo/) ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/#la-lune)) ; et dans le premier jour environ du mois de la Vierge, autour du 23 août, le signe du Soleil lui-même dépend de l’heure. L’ascendant, qui complète la première esquisse, en a besoin lui aussi.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 

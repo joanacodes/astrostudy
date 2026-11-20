@@ -42,7 +42,7 @@ Help can turn into supervision. Advice you didn't ask for about how you load the
 
 From their side, the risk is being wanted only as a fixer. If your conversations shrink to logistics, they may wonder whether you'd talk to them about anything else; if you resist every suggestion, they can feel their help is unwelcome.
 
-Bad Fortune, the old name of the 6th, came with illness attached. This overlay can describe two people who talk about sleep, food or exercise, but it doesn't diagnose or predict anything about anyone's health, and remarks on how you eat or rest are opinions, not findings ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). A question about your health is one for a doctor.
+Bad Fortune, the old name of the 6th, came with illness attached. This overlay can describe two people who talk about sleep, food or exercise, but it doesn't diagnose or predict anything about anyone's health, and remarks on how you eat or rest are opinions, not findings ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). Your health is a matter for your doctor.
 
 ## How to meet it {#how-to-meet-it}
 

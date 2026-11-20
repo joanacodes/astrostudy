@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/sun-in-virgo", "/astrology/moon-in-taurus", "/astrology/venus", "/astrology/waning-gibbous-disseminating-moon", "/astrology/earth-signs"]
 faq:
   - q: "Is the Moon strong in a Virgo Sun, Taurus Moon chart?"
-    a: "By tradition, yes: Taurus is the Moon’s exaltation, the sign where it is most at ease, while Virgo gives the Sun no dignity at all. I read that as feelings that are steadier than your sense of self, and a calm that can carry you through the self-doubt a Virgo Sun sometimes feels."
+    a: "By tradition, yes: Taurus is the Moon’s exaltation, where it feels most at home, while Virgo gives the Sun no dignity at all. I read that as feelings that are steadier than your sense of self, and a calm that can carry you through the self-doubt a Virgo Sun sometimes feels."
   - q: "Why is pleasure tricky for a Virgo Sun with a Taurus Moon?"
     a: "Because Venus, ruler of the sign your Moon is in, has its fall in Virgo, where your Sun is. The Moon finds comfort in simple pleasures; the Sun tends to check whether they have been deserved first. I read it as an invitation to enjoy things before they are perfect, and to let a good evening be good enough."
   - q: "Is Sun in Virgo, Moon in Taurus a disseminating moon birth?"

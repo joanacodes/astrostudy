@@ -48,7 +48,7 @@ The 4th describes your experience of home, not what your family was like; it say
 
 ## How to meet it {#how-to-meet-it}
 
-Let the stories come at your pace, and say which ones are yours to keep. Decisions about a shared home go better on paper, each voice heard before anything is bought or moved. In a couple, talk about what home means to each of you before you share one; between friends, they may be the one who helped you pack and then stayed for supper; between colleagues who work from home, a glimpse of each other's kitchens can become part of the working day; between adult relatives, the one you go over the old stories with, who remembers them differently.
+Let the stories come at your pace, and say which ones are yours to keep. Decisions about a shared home go better on paper, each voice heard before anything is bought or moved. In a couple, compare what home means to each of you before you share one; between friends, they may be the one who helped you pack and then stayed for supper; between colleagues who work from home, a glimpse of each other's kitchens can become part of the working day; between adult relatives, the one you go over the old stories with, who remembers them differently.
 
 From the other chair it's your Mercury in their 4th house, and your questions that reach their roots. Next door, [their Mercury in your 3rd house](/astrology/mercury-in-3rd-house-synastry/) keeps the talk on the street and in your messages, while [their Mercury in your 5th house](/astrology/mercury-in-5th-house-synastry/) takes it out to play.
 

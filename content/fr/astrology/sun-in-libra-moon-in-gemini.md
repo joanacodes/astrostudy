@@ -19,16 +19,15 @@ facts:
 related: ["/astrology/sun-in-libra", "/astrology/moon-in-gemini", "/astrology/waning-gibbous-disseminating-moon", "/astrology/sun-trine-moon", "/astrology/mercury"]
 faq:
   - q: "Un Soleil en Balance avec une Lune en Gémeaux, est-ce de l’indécision ?"
-    a: "Pas comme je le lis. La Balance pèse et les Gémeaux comparent : vous mettez peut-être plus de temps que d’autres à choisir, parce que vous voyez plus d’une réponse juste. C’est une façon de décider, pas une incapacité. Il aide de fixer une fin à la pesée, et de dire votre préférence avant de demander celle des autres."
+    a: "Le choix prend parfois du temps, mais ce n’est pas de l’indécision. La Balance pèse et les Gémeaux comparent : vous voyez souvent plus d’une réponse juste, et les peser est votre façon de décider. Il aide de fixer une fin à la pesée, et de dire votre préférence avant de demander celle des autres."
   - q: "Est-ce que Vénus et Mercure comptent davantage avec le Soleil en Balance et la Lune en Gémeaux ?"
     a: "Ces deux planètes gouvernent les deux signes : Vénus porte l’équité et le goût de votre Soleil, Mercure le besoin de parler et de comparer de votre Lune. Leurs maisons montrent où vous pesez et où vous pensez tout haut. Dans mon carnet, Vénus et Mercure ont tenu environ une fois sur trois : à lire, jamais isolément."
   - q: "Qu’apporte la lune disséminante à un Soleil en Balance avec une Lune en Gémeaux ?"
-    a: "Une direction. La plupart des personnes qui ont ce duo sont nées 17 à 22 jours après une nouvelle lune, dans la phase que les astrologues qui comptent huit phases appellent disséminante. J’y lis une compréhension qui veut être partagée : ce que vous avez compris devient volontiers conseil, explication ou enseignement, offert avec équité et en mots bien choisis."
+    a: "Une direction. La plupart des personnes qui ont ce duo sont nées 17 à 22 jours après une nouvelle lune, dans la phase que les astrologues qui comptent huit phases appellent disséminante. J’y lis un esprit qui transmet ce qu’il apprend : ce que vous avez compris devient volontiers conseil, explication ou enseignement, offert avec équité et en mots bien choisis."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "la maîtrise de Vénus sur la Balance et de Mercure sur les Gémeaux, les signes d’air, la chute du Soleil" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et de combien la Lune avait décru" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "la Lune qui décroît après la pleine lune, jusqu’à 270° du Soleil" }
-  - { title: "Mes notes de test", page: "/blog/i-tested-my-birth-chart", note: "ce qui a tenu pour Vénus, Mercure et le signe solaire" }
 ---
 La balance et les jumeaux : vos deux luminaires se tiennent dans des signes dont le symbole va par deux, et tous deux dans l’air. Votre sentiment de vous-même se forme en pesant une chose contre une autre, et vos émotions se posent en comparant, en nommant, en retournant une question avec quelqu’un.
 
@@ -40,7 +39,7 @@ La Balance est air cardinal, les Gémeaux air mutable. Comptés depuis le Soleil
 
 Avec une Lune à 211° à 269° du Soleil, votre naissance tombe dans un mois lunaire de 17 à 22 jours, quelques jours après une pleine lune. La plupart de ces naissances, environ sept sur huit, relèvent de la [lune gibbeuse décroissante (disséminante)](/astrology/waning-gibbous-disseminating-moon/), une phase qui fait de ce que vous avez appris quelque chose à transmettre ; les plus précoces sont encore dans la phase de [pleine lune](/astrology/full-moon/). Une Lune proche de 240° donne un [Soleil trigone Lune](/astrology/sun-trine-moon/) décroissant, et [votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) montre où les deux phases se rejoignent.
 
-Ce duo d’air revient à environ 1 naissance sur 145. Une Lune qui change de signe tous les deux jours et demi environ a pu passer du Taureau aux Gémeaux, ou des Gémeaux au Cancer, le jour de votre anniversaire, et seule l’heure peut dire si votre place est ici ou avec le [Soleil en Balance, Lune en Taureau](/astrology/sun-in-libra-moon-in-taurus/) ou le [Soleil en Balance, Lune en Cancer](/astrology/sun-in-libra-moon-in-cancer/) ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)). Elle décide aussi de l’ascendant, et avec les deux luminaires dans l’air, ce sont souvent l’ascendant et les maisons qui apportent au tableau la terre ou l’eau.
+Deux signes d’air, la Balance pour le Soleil et les Gémeaux pour la Lune : environ 1 personne sur 145 les a. Une Lune qui change de signe tous les deux jours et demi environ a pu passer du Taureau aux Gémeaux, ou des Gémeaux au Cancer, le jour de votre anniversaire, et seule l’heure peut dire si votre place est ici ou avec le [Soleil en Balance, Lune en Taureau](/astrology/sun-in-libra-moon-in-taurus/) ou le [Soleil en Balance, Lune en Cancer](/astrology/sun-in-libra-moon-in-cancer/) ([la Lune, celle à vérifier](/blog/unknown-birth-time/#la-lune)). Elle décide aussi de l’ascendant, et avec les deux luminaires dans l’air, ce sont souvent l’ascendant et les maisons qui apportent au tableau la terre ou l’eau.
 
 ## Dans les relations proches {#dans-les-relations-proches}
 

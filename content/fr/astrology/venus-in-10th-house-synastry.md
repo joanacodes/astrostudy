@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 46
 glyph: "♀"
-definition: "Avec Vénus de l’autre dans votre maison 10, c’est votre vie publique que cette personne admire : votre travail, votre rôle, votre position. En synastrie, elle se réjouit de vos réussites et vante volontiers vos mérites, même si l’admiration pour un rôle peut se confondre avec l’amour. Rien n’y prédit l’issue d’une carrière."
+definition: "Vénus de l’autre dans votre maison 10 réserve son admiration à votre vie publique : votre travail, votre rôle, votre position. En synastrie, cette personne se réjouit de vos réussites et vante volontiers vos mérites, même si l’admiration pour un rôle peut se confondre avec l’amour. Rien n’y prédit l’issue d’une carrière."
 facts:
   - { k: "Corps de l’autre", v: "Vénus de l’autre ♀" }
   - { k: "Votre maison", v: "La maison 10, la carrière, la position et la vie publique" }

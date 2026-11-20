@@ -20,7 +20,7 @@ faq:
   - q: "Why is Sun in Leo, Moon in Cancer an unusual pair?"
     a: "Because each light is in its own sign. Tradition gives the Sun a single sign, Leo, and the Moon a single sign, Cancer, and here both are at home, next door to each other. Neither answers to another planet, so their houses and aspects carry the reading. I read it as public warmth and private shelter, both strong."
   - q: "Is a Sun in Leo, Moon in Cancer birth just before a new moon?"
-    a: "Close, and always before it. Trailing the Sun by 1° to 59°, the Moon was finishing its round in the closing days of the lunar month. Seven of every eight or so fall in the balsamic phase, the earliest in the last quarter phase; the new moon that followed came at most five days later."
+    a: "Close, and always before it: the Moon, between 1° and 59° short of the Sun, was finishing its round in the closing days of the lunar month. Seven of every eight or so fall in the balsamic phase, the earliest in the last quarter phase; the new moon that followed came at most five days later."
   - q: "How does a Leo Sun with a Cancer Moon love?"
     a: "Protectively and generously. The Cancer Moon builds a safe home and remembers what everyone needs; the Leo Sun brings warmth, celebration and open pride in the people it loves. What this pair needs back is appreciation said aloud, and someone who notices the quieter needs under the generous surface."
 sources:

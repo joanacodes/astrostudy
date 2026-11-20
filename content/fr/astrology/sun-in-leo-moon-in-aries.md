@@ -23,7 +23,7 @@ faq:
   - q: "Qu’apporte l’exaltation du Soleil en Bélier à un thème Soleil en Lion, Lune en Bélier ?"
     a: "La tradition dit le Soleil chez lui en Lion et exalté en Bélier. Avec ce duo, chacun de ces deux lieux abrite l’un de vos luminaires : le Soleil dans son signe, la Lune dans son exaltation. J’y lis des besoins qui nourrissent votre sens du but au lieu de lui faire concurrence, avec Mars pour débouché."
   - q: "La Lune était-elle déjà sur le déclin à la naissance d’un Soleil en Lion, Lune en Bélier ?"
-    a: "Oui. Elle suivait le Soleil à 91° à 149°, 17 à 22 jours après une nouvelle lune : la pleine lune était passée, et la lumière diminuait. Environ sept de ces naissances sur huit relèvent de la phase disséminante, les autres de la phase de pleine lune, juste après l’opposition."
+    a: "Oui. Elle suivait le Soleil à 91° à 149°, entre le 17e et le 22e jour après une nouvelle lune : la pleine lune était passée, et la lumière diminuait. Environ sept de ces naissances sur huit relèvent de la phase disséminante, les autres de la phase de pleine lune, juste après l’opposition."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "le domicile du Soleil en Lion, son exaltation en Bélier, et la maîtrise de Mars sur le Bélier" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et le retard de la Lune sur le Soleil" }

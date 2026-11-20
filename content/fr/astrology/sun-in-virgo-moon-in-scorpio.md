@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 68
 glyph: "☉♍☽♏"
-definition: "Soleil en Vierge, Lune en Scorpion réunit la terre mutable et l’eau fixe en sextile, sous le croissant de la première semaine du mois lunaire. La Lune est dans sa chute ; Mercure gouverne le signe du Soleil. J’y lis une attention précise et profonde : vous voyez le petit détail, et sentez ce qu’il veut dire."
+definition: "Soleil en Vierge, Lune en Scorpion réunit la terre mutable et l’eau fixe en sextile, pendant qu’un jeune croissant brillait dans le ciel du soir. La Lune est dans sa chute ; Mercure gouverne le signe du Soleil. J’y lis une attention précise et profonde : vous voyez le petit détail, et sentez ce qu’il veut dire."
 facts:
   - { k: "Signe solaire", v: "Vierge ♍, gouvernée par Mercure" }
   - { k: "Signe lunaire", v: "Scorpion ♏, gouverné par Pluton et Mars ; chute de la Lune" }

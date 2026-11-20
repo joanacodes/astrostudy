@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 32
 glyph: "☿"
-definition: "Their Mercury in your 8th house sends the other person’s curiosity where few are invited: intimacy, trust, shared money and what people leave unsaid. In synastry, conversation between you goes deep quickly and confiding comes easily; it never forecasts a loss, an inheritance or an ending."
+definition: "With their Mercury in your 8th house, the other person’s curiosity goes where few are invited: intimacy, trust, shared money and what people leave unsaid. In synastry, conversation between you goes deep quickly and confiding comes easily; it never forecasts a loss, an inheritance or an ending."
 facts:
   - { k: "Their body", v: "Their Mercury ☿" }
   - { k: "Your house", v: "The 8th house, trust, intimacy and what you share" }

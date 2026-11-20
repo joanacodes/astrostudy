@@ -43,7 +43,7 @@ L’aide peut tourner à la surveillance. Des conseils que vous n’avez pas dem
 
 De son côté, cette personne risque de n’être sollicitée que pour réparer. Si vos conversations se réduisent à la logistique, cette personne peut se demander si vous lui parleriez d’autre chose ; si vous résistez à chaque suggestion, elle peut sentir que son aide n’est pas la bienvenue.
 
-Fortune défavorable, le vieux nom de la maison 6, venait avec la maladie. Cette superposition peut décrire deux personnes qui parlent de sommeil, d’alimentation ou d’exercice, mais elle ne diagnostique ni ne prévoit rien sur la santé de quiconque, et les remarques sur votre façon de manger ou de vous reposer sont des opinions, pas des constats ([l’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)). Une question sur votre santé se pose à un médecin.
+Fortune défavorable, le vieux nom de la maison 6, venait avec la maladie. Cette superposition peut décrire deux personnes qui parlent de sommeil, d’alimentation ou d’exercice, mais elle ne diagnostique ni ne prévoit rien sur la santé de quiconque, et les remarques sur votre façon de manger ou de vous reposer sont des opinions, pas des constats ([l’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)). Votre santé est l’affaire de votre médecin.
 
 ## Comment le vivre {#comment-le-vivre}
 

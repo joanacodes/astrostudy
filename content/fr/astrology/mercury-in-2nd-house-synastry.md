@@ -41,7 +41,7 @@ De son côté, votre stabilité donne à ses idées un endroit où se poser. Ell
 
 Un avis sur vos dépenses peut ressembler à un avis sur vous. Une remarque en passant sur un achat, un sourcil levé devant un prix, l’habitude de revoir vos choix, et la question de fond de la maison 2, ce que vous valez, se retrouve prise dans une conversation d’argent.
 
-De son côté, vos valeurs peuvent sembler inébranlables. Cette personne avance un argument habile, et vous ne changez tout simplement pas d’avis, parce que ce à quoi vous tenez ne se discute pas. Elle peut avoir l’impression que ses idées sont mises à prix, acceptées seulement une fois leur utilité prouvée.
+Vos valeurs, elles, peuvent lui paraître gravées dans le marbre. Cette personne avance un argument habile, et vous ne changez tout simplement pas d’avis, parce que ce à quoi vous tenez ne se discute pas. Elle peut avoir l’impression que ses idées sont mises à prix, acceptées seulement une fois leur utilité prouvée.
 
 Cette superposition ne dit pas si vous gagnerez ou perdrez avec elle, ni si un projet commun rapportera. Aucun thème ne le peut, et je n’en lis aucun pour cela ([l’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)) ; ce qu’elle montre, c’est comment vous parlez ensemble de ce que vous avez.
 

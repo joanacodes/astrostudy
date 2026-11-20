@@ -23,7 +23,7 @@ faq:
   - q: "Un Soleil en Vierge avec une Lune en Gémeaux réfléchit-il trop ?"
     a: "Cela peut arriver, même si réfléchir est aussi la façon dont ce duo se pose. Le Soleil en Vierge affine, la Lune en Gémeaux parle des choses, et les deux signes sont mutables : l’esprit ne s’arrête presque jamais. La différence entre réfléchir et s’inquiéter, c’est que la réflexion aboutit quelque part : à une décision, une phrase, une marche."
   - q: "Quelle était la lumière de la Lune à une naissance Soleil en Vierge, Lune en Gémeaux ?"
-    a: "À moitié éclairée environ, et décroissante. Avec 61° à 119° de retard sur le Soleil, la Lune avait de dix-neuf jours et demi à vingt-quatre et demi : ces naissances tombent juste avant le dernier quartier ou juste après, à parts égales. Vers 90° de retard, le carré est exact."
+    a: "À moitié éclairée environ, et décroissante. Avec 61° à 119° de retard sur le Soleil, la Lune avait entre dix-neuf jours et demi et vingt-quatre et demi : ces naissances tombent juste avant le dernier quartier ou juste après, à parts égales. Vers 90° de retard, le carré est exact."
 sources:
   - { title: "Ptolémée, Tétrabible, livre I", note: "la maîtrise de Mercure sur la Vierge et les Gémeaux, et son exaltation en Vierge" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et le retard de la Lune sur le Soleil" }

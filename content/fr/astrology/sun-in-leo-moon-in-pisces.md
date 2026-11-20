@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 60
 glyph: "☉♌☽♓"
-definition: "Soleil en Lion, Lune en Poissons réunit le feu fixe et l’eau mutable à travers un quinconce, pour une naissance quelques jours après une pleine lune. Le Soleil est dans son propre signe ; Neptune et Jupiter gouvernent celui de la Lune. J’y lis une scène éclairée avec la mer derrière : un moi net, des émotions presque sans murs."
+definition: "Soleil en Lion, Lune en Poissons réunit le feu fixe et l’eau mutable à travers un quinconce, pour une naissance survenue quelques jours après une pleine lune. Le Soleil est dans son propre signe ; Neptune et Jupiter gouvernent celui de la Lune. J’y lis une scène éclairée avec la mer derrière : un moi net, des émotions presque sans murs."
 facts:
   - { k: "Signe solaire", v: "Lion ♌, gouverné par le Soleil ; son domicile" }
   - { k: "Signe lunaire", v: "Poissons ♓, gouvernés par Neptune et Jupiter" }
@@ -21,7 +21,7 @@ faq:
   - q: "Pourquoi un Soleil en Lion avec une Lune en Poissons a-t-il besoin de solitude ?"
     a: "Parce qu’une Lune en Poissons s’imprègne de l’atmosphère de chaque pièce, et que seul le calme lui permet de reconnaître ses propres émotions, alors que le Soleil en Lion dépense beaucoup de chaleur pour les autres. Les moments seuls sont ceux où ce duo se recharge. Sans eux, le Soleil continue de briller sur des réserves que la Lune a déjà données."
   - q: "Comment est-ce que Neptune et Jupiter agissent avec un Soleil en Lion et une Lune en Poissons ?"
-    a: "À elles deux, ces planètes gouvernent le signe de votre Lune, Neptune pour les modernes et Jupiter pour les anciens livres, et je lis les deux. Neptune marque l’endroit où vos limites sont les plus minces ; Jupiter, les convictions et les études qui donnent une forme à votre tendresse. Le Soleil se gouverne lui-même en Lion : ces deux planètes portent donc l’essentiel de l’histoire de la Lune."
+    a: "Ces deux planètes gouvernent ensemble le signe de votre Lune, Neptune pour les modernes et Jupiter pour les anciens livres, et je lis les deux. Neptune marque l’endroit où vos limites sont les plus minces ; Jupiter, les convictions et les études qui donnent une forme à votre tendresse. Le Soleil se gouverne lui-même en Lion : ces deux planètes portent donc l’essentiel de l’histoire de la Lune."
   - q: "La pleine lune venait-elle de passer à une naissance Soleil en Lion, Lune en Poissons ?"
     a: "Oui : l’opposition datait de cinq jours au plus, et le disque paraissait encore rond. Le schéma de Rudhyar range environ sept de ces naissances sur huit dans sa phase de pleine lune, et le reste dans la phase disséminante, celle qui la suit."
 sources:

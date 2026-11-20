@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/sun-in-virgo", "/astrology/moon-in-taurus", "/astrology/venus", "/astrology/waning-gibbous-disseminating-moon", "/astrology/earth-signs"]
 faq:
   - q: "La Lune est-elle forte dans un thème Soleil en Vierge, Lune en Taureau ?"
-    a: "Selon la tradition, oui : le Taureau est l’exaltation de la Lune, le signe où elle se sent le mieux, quand la Vierge ne donne au Soleil aucune dignité. J’y lis des émotions plus stables que votre sentiment de vous-même, et un calme capable de vous porter à travers les doutes qu’un Soleil en Vierge connaît parfois."
+    a: "Selon la tradition, oui : la Lune a son exaltation en Taureau, là où elle se sent le mieux, quand la Vierge ne donne au Soleil aucune dignité. J’y lis des émotions plus stables que votre sentiment de vous-même, et un calme capable de vous porter à travers les doutes qu’un Soleil en Vierge connaît parfois."
   - q: "Pourquoi le plaisir est-il délicat pour un Soleil en Vierge avec une Lune en Taureau ?"
     a: "Parce que Vénus, maîtresse du signe où se trouve votre Lune, a sa chute en Vierge, là où se trouve votre Soleil. La Lune trouve du réconfort dans les plaisirs simples ; le Soleil vérifie volontiers d’abord s’ils sont mérités. J’y lis une invitation à profiter des choses avant qu’elles soient parfaites, et à laisser une bonne soirée être assez bonne."
   - q: "Soleil en Vierge, Lune en Taureau, est-ce une naissance sous la lune disséminante ?"
