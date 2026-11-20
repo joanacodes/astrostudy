@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/neptune", "/astrology/chiron", "/astrology/trine", "/astrology/neptune-trine-chiron", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Neptune trine Chiron mean in synastry?"
-    a: "One person’s Neptune and the other’s Chiron share an element and a trine, about 120° apart, within 3.4°. The Neptune person’s empathy reaches the place where the Chiron person has adapted around a lasting limit, and respects the adaptation. It describes care that lands easily, in either direction."
+    a: "One person’s Neptune and the other’s Chiron share an element and a trine, about 120° apart, within 3.4°. Empathy from the Neptune side meets the Chiron side’s long adaptation to a limit, and respects it. It describes care that lands easily, in either direction."
   - q: "Is Neptune trine Chiron a caring contact?"
     a: "It describes ease between compassion and adaptation, which often feels caring. The ease has costs to watch: the Neptune person can give without limits until worn out, and the Chiron person can stop saying what is hard because care usually arrives. Checking in keeps it kind on both sides."
   - q: "Who has Neptune trine Chiron with someone?"

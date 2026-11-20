@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/north-node", "/astrology/conjunction", "/astrology/uranus-conjunct-north-node", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Uranus conjonction Nœud Nord en synastrie ?"
-    a: "Uranus, chez une personne, se trouve à moins de 4° du Nœud Nord de l’autre, et donc à l’opposé de son Nœud Sud. L’appétit de nouveauté de la première se pose sur la direction dans laquelle la seconde apprend à grandir. Cela peut porter, pour s’exercer à l’inconnu, ou presser au-delà d’habitudes encore utiles."
+    a: "Le Nœud Nord de l’autre se trouve à moins de 4° d’Uranus chez une personne, ce qui place Uranus face au Nœud Sud de cette autre personne. L’appétit de nouveauté de la première se pose sur la direction dans laquelle la seconde apprend à grandir. Cela peut porter, pour s’exercer à l’inconnu, ou presser au-delà d’habitudes encore utiles."
   - q: "Est-ce qu’Uranus conjonction Nœud Nord est un contact prédestiné ?"
     a: "On décrit parfois les contacts avec les nœuds comme prédestinés. J’y lis une direction qui rencontre une source de changement, jamais un destin : rien ne dit combien de temps deux personnes resteront proches ni ce qu’elles deviendront l’une pour l’autre. Ce que la personne du nœud pratique reste son choix."
   - q: "Qui a Uranus conjonction Nœud Nord avec quelqu’un ?"

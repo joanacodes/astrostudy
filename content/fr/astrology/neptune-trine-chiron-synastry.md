@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/neptune", "/astrology/chiron", "/astrology/trine", "/astrology/neptune-trine-chiron", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Neptune trigone Chiron en synastrie ?"
-    a: "Neptune, chez une personne, et Chiron, chez l’autre, partagent un élément et un trigone, à environ 120°, à 3,4° près. L’empathie de la première atteint l’endroit où la seconde s’est adaptée à une limite durable, et respecte cette adaptation. L’aspect décrit un soin qui arrive facilement, dans un sens comme dans l’autre."
+    a: "Neptune, chez une personne, et Chiron, chez l’autre, partagent un élément et un trigone, à environ 120°, à 3,4° près. L’empathie venue de Neptune rencontre la longue adaptation de l’autre à une limite, et la respecte. L’aspect décrit un soin qui arrive facilement, dans un sens comme dans l’autre."
   - q: "Est-ce que Neptune trigone Chiron est un contact bienveillant ?"
     a: "Il décrit une aisance entre compassion et adaptation, qui ressemble souvent à de la bienveillance. Cette aisance a un coût à surveiller : la personne de Neptune peut donner sans limite jusqu’à l’épuisement, et celle de Chiron cesser de dire ce qui est dur parce que le soin arrive d’habitude. Prendre des nouvelles le garde doux des deux côtés."
   - q: "Qui a Neptune trigone Chiron avec quelqu’un ?"

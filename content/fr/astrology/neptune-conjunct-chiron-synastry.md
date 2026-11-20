@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 346
 glyph: "♆☌⚷"
-definition: "Neptune conjonction Chiron en synastrie étend Neptune, chez une personne, sur le Chiron de l’autre, à 4° près. La compassion et l’imagination de l’une tombent exactement là où l’autre a appris à vivre avec une limite durable, pour l’apaiser ou brouiller ce dont elle a besoin. Partagé par des périodes entières, il se lit par les maisons, avec douceur."
+definition: "Neptune conjonction Chiron en synastrie place Neptune, chez une personne, sur le Chiron de l’autre, à 4° près. La compassion et l’imagination de l’une tombent exactement là où l’autre a appris à vivre avec une limite durable, pour l’apaiser ou brouiller ce dont elle a besoin. Partagé par des périodes entières, il se lit par les maisons, avec douceur."
 facts:
   - { k: "Corps", v: "Neptune ♆ de l’une, le Chiron ⚷ de l’autre" }
   - { k: "Aspect", v: "Conjonction ☌, 0°" }

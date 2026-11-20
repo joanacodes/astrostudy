@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 347
 glyph: "♆⚹⚷"
-definition: "Neptune sextile Chiron en synastrie relie Neptune, dans le thème d’une personne, au Chiron de l’autre, à environ 60°, à 2,4° près. L’imagination de l’une offre à l’autre une façon plus douce de voir une vieille limite, qui aide une fois saisie. Des mois entiers de naissances le partagent, et les maisons le rendent singulier."
+definition: "Neptune sextile Chiron en synastrie offre l’imagination d’une personne à la plus vieille adaptation de l’autre : les deux corps se tiennent à environ 60°, à 2,4° près. Cette imagination propose une façon plus douce de voir une vieille limite, qui aide une fois saisie. Des mois entiers de naissances le partagent, et les maisons le rendent singulier."
 facts:
   - { k: "Corps", v: "Neptune ♆ de l’une, le Chiron ⚷ de l’autre" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -51,7 +51,7 @@ Une ouverture peut être belle et pourtant à côté. La personne de Neptune peu
 
 Proposez le cadre, puis demandez s’il convient. La personne de Chiron peut dire quel genre de sens l’aide et quel genre l’épuise ; celle de Neptune peut associer une idée pleine d’espoir à un pas concret. Des amis peuvent se prêter les livres ou la musique qui ont changé leur regard ; un couple, trouver un rituel qui allège une semaine difficile ; des collègues, transformer une contrainte en cahier des charges.
 
-Une personne née au milieu de 1955, avec Chiron en Verseau, l’a avec toute personne née, par périodes, de décembre 1970 à novembre 1973, dont Neptune en Sagittaire se trouve à 60° ; Neptune en Balance, chez cette même personne, forme un sextile avec le Chiron de toute personne née, par périodes, de janvier à novembre 2001. Ce sont des cadeaux entre générations plus qu’entre personnes : le contact n’est donc pas compté dans une synastrie, où je ne compte que ce qui touche le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Par les maisons, il se lit comme l’imagination d’une époque offerte aux adaptations d’une autre.
+Une personne née au milieu de 1955, avec Chiron en Verseau, l’a avec toute personne née, par périodes, de décembre 1970 à novembre 1973, dont Neptune en Sagittaire se trouve à 60° ; Neptune en Balance, de son côté, forme un sextile avec le Chiron de toute personne née, par périodes, de janvier à novembre 2001. Ce sont des cadeaux entre générations plus qu’entre personnes : le contact n’est donc pas compté dans une synastrie, où je ne compte que ce qui touche le Soleil, la Lune, Mercure, Vénus, Mars, l’ascendant ou le milieu du ciel. Par les maisons, il se lit comme l’imagination d’une époque offerte aux adaptations d’une autre.
 
 Avec un orbe de 2,4°, les fenêtres sont brèves, mais elles relèvent des dates, pas des heures. L’heure choisit les maisons, par exemple Neptune dans la maison 3 de la personne de Chiron, parmi les mots et les récits : les deux heures passent donc d’abord ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

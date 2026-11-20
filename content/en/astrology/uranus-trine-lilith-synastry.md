@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 334
 glyph: "♅△⚸"
-definition: "Uranus trine Lilith in synastry means 120° or so, within 3.4°, between one person’s Uranus and the other’s Black Moon Lilith. One person’s taste for difference and the other’s untamed side encourage each other, so being unedited feels easy. I date it with mean Lilith and read it through the houses, watching what the ease skips."
+definition: "Uranus trine Lilith in synastry means one chart’s Uranus and the other chart’s Black Moon Lilith are some 120° apart, within 3.4°. One person’s taste for difference and the other’s untamed side encourage each other, so being unedited feels easy. I date it with mean Lilith and read it through the houses, watching what the ease skips."
 facts:
   - { k: "Bodies", v: "One person’s Uranus ♅, the other’s Black Moon Lilith ⚸" }
   - { k: "Aspect", v: "Trine △, 120°" }
@@ -38,7 +38,7 @@ Holding the Uranus, you find the other person's refusals refreshing rather than 
 
 Holding the Lilith, you can stop rehearsing. The part of you that usually waits for a safe moment gets one, often without having to ask, and you return the favour by taking the other's oddities seriously.
 
-When the Uranus falls in the Lilith person's 3rd house, for instance, the ease is in speech: the two say things to each other they'd say to no one else.
+Say the Uranus falls in the Lilith person's 3rd house: then the ease is in speech, and the two say things to each other they'd say to no one else.
 
 ## Where it rubs {#where-it-rubs}
 

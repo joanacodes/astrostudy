@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 347
 glyph: "♆⚹⚷"
-definition: "Neptune sextile Chiron in synastry links Neptune in one person’s chart and Chiron in the other’s at about 60°, within 2.4°. One person’s imagination offers the other a kinder way of seeing an old limit, which helps once it is taken up. Whole months of births share it, and the houses make it particular."
+definition: "Neptune sextile Chiron in synastry offers one person’s imagination to the other’s oldest adaptation: the two bodies stand about 60° apart, within 2.4°. That imagination suggests a kinder way of seeing an old limit, which helps once it is taken up. Whole months of births share it, and the houses make it particular."
 facts:
   - { k: "Bodies", v: "One person’s Neptune ♆, the other’s Chiron ⚷" }
   - { k: "Aspect", v: "Sextile ⚹, 60°" }
@@ -50,7 +50,7 @@ An opening can be beautiful and still beside the point. The Neptune person may o
 
 Offer the frame, then ask whether it fits. The Chiron person can say which kind of meaning helps and which kind tires them; the Neptune person can pair a hopeful idea with one practical step. Friends might share books or music that changed how they see things; a couple might find a ritual that makes a hard week lighter; colleagues might reframe a constraint as a design brief.
 
-Someone born in mid-1955, with Chiron in Aquarius, has it with anyone born, on and off, from December 1970 to November 1973, whose Neptune in Sagittarius lies 60° away; the same birth's Neptune in Libra sextiles the Chiron of anyone born, on and off, from January to November 2001. These are gifts between generations more than between persons, so the contact goes uncounted in a synastry, where I count only what touches the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. Through the houses, it reads as one era's imagination offered to another era's adaptations.
+Someone born in mid-1955, with Chiron in Aquarius, has it with anyone born, on and off, from December 1970 to November 1973, whose Neptune in Sagittarius lies 60° away; that 1955 Neptune in Libra, in turn, sextiles the Chiron of anyone born, on and off, from January to November 2001. These are gifts between generations more than between persons, so the contact goes uncounted in a synastry, where I count only what touches the Sun, the Moon, Mercury, Venus, Mars, the Ascendant or the Midheaven. Through the houses, it reads as one era's imagination offered to another era's adaptations.
 
 With an orb of 2.4°, the windows are short, but they are a matter of dates, not hours. The hour picks the houses, such as the Neptune in the Chiron person's 3rd house, among words and stories, so both times come first ([what changes without a birth time](/blog/unknown-birth-time/)).
 

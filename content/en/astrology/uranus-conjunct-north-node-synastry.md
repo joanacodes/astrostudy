@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/north-node", "/astrology/conjunction", "/astrology/uranus-conjunct-north-node", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Uranus conjunct North Node mean in synastry?"
-    a: "One person’s Uranus lies within 4° of the other’s North Node, and therefore opposite their South Node. The Uranus person’s appetite for the new sits on the direction the node person is learning to grow in. It can feel like a tailwind for practising the unfamiliar, or like being hurried past habits that still help."
+    a: "The other’s North Node sits within 4° of one person’s Uranus, which puts that Uranus opposite their South Node. The Uranus person’s appetite for the new sits on the direction the node person is learning to grow in. It can feel like a tailwind for practising the unfamiliar, or like being hurried past habits that still help."
   - q: "Is Uranus conjunct North Node a fated contact?"
     a: "Node contacts are sometimes described as fated. I read this one as a direction meeting a source of change, never as destiny: it says nothing about how long two people stay close or what they become to each other. What the node person practises remains their choice."
   - q: "Who has Uranus conjunct North Node with someone?"

@@ -33,7 +33,7 @@ Some elders have come through enough change to make a younger person's hopes loo
 
 [Neptune](/astrology/neptune/) imagines: it holds ideals, extends compassion, reads symbols and lets unhelpful boundaries go soft. [Pluto](/astrology/pluto/) regenerates: it integrates what was buried, ends what can't be sustained and grows authentic strength. A [trine](/astrology/trine/) lets two functions support each other while each stays distinct, and among the [synastry aspects](/astrology/synastry-aspects/) this one lets an elder's depth and a younger person's ideals carry each other.
 
-The signs usually share an element. Pluto in Virgo for a birth of the mid-1960s and Neptune in Capricorn for births of the early 1990s, both earth: a drive to fix what's broken in how work is done, beside an ideal of structures that actually work.
+Earth carries the example below, Pluto in Virgo in 1965 and Neptune in Capricorn from 1989 to 1992: a drive to fix what's broken in how work is done, beside an ideal of structures that actually work.
 
 Holding the Pluto, you may find that the younger person's ideals honour what you went through. Your hard-won changes become, in their hands, a reason to hope.
 

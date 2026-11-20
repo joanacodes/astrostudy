@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/north-node", "/astrology/sextile", "/astrology/uranus-sextile-north-node", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Uranus sextile Nœud Nord en synastrie ?"
-    a: "Uranus, chez une personne, se trouve à environ 60° du Nœud Nord de l’autre, à 2,4° près, et à 120° de son Nœud Sud. Les essais de la première offrent à la seconde une entrée vers une capacité moins familière, tout en donnant un air neuf à ses anciennes forces. L’ouverture devient réelle dès que quelqu’un s’en sert."
+    a: "Un sextile d’environ 60°, à 2,4° près, va d’Uranus chez une personne au Nœud Nord de l’autre, et un trigone de 120° à son Nœud Sud. Les essais de la première offrent à la seconde une entrée vers une capacité moins familière, tout en donnant un air neuf à ses anciennes forces. L’ouverture devient réelle dès que quelqu’un s’en sert."
   - q: "Pourquoi le Nœud Sud compte-t-il avec Uranus sextile Nœud Nord ?"
     a: "Parce qu’Uranus forme aussi un trigone avec le Nœud Sud : le plus facile des deux liens mène à ce que la personne du nœud sait déjà. L’influence peut finir par rafraîchir des habitudes familières plutôt que d’aider un pas nouveau. Choisir une chose peu familière à pratiquer garde le sextile tourné vers l’avant."
   - q: "Qui a Uranus sextile Nœud Nord avec quelqu’un ?"

@@ -19,7 +19,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/black-moon-lilith", "/astrology/opposition", "/astrology/uranus-opposite-lilith", "/astrology/synastry-aspects"]
 faq:
   - q: "Que veut dire Uranus opposition Lilith en synastrie ?"
-    a: "Uranus, chez une personne, fait face à la Lune noire Lilith de l’autre depuis le signe opposé, à environ 180°. L’une porte souvent l’envie visible de rompre avec les conventions, l’autre un refus plus discret et un instinct gardé. Chacune voit dans l’autre le bout de l’axe qu’elle vit le moins, ce qui peut élargir leur registre à toutes deux."
+    a: "Uranus, chez une personne, fait face à la Lune noire Lilith de l’autre depuis le signe opposé, à environ 180°. L’une porte souvent l’envie visible de rompre avec les conventions, l’autre un refus plus discret et un instinct gardé. Ce que l’une montre, l’autre le garde, et chacune peut apprendre quelque chose du bout opposé."
   - q: "Qui a Uranus opposition Lilith avec quelqu’un ?"
     a: "Prenons une naissance au milieu de 1945 : elle partage l’opposition avec toute personne née de février à mai 1973 ou de novembre 1990 à janvier 1991, des fenêtres qui reviennent environ tous les neuf ans avec la Lilith moyenne, et avec toute personne née, par périodes, de mai 1932 à mars 1935. Rien là ne désigne deux personnes en particulier : d’où l’importance des maisons."
   - q: "Est-ce qu’Uranus opposition Lilith fait de deux personnes des rivales ?"

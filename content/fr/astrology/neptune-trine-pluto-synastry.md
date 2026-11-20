@@ -34,7 +34,7 @@ Certaines aînées ont traversé assez de changements pour qu’à leurs côtés
 
 [Neptune](/astrology/neptune/) imagine : porter des idéaux, offrir sa compassion, lire les symboles, laisser s’assouplir les frontières inutiles. [Pluton](/astrology/pluto/) régénère : intégrer ce qui était enfoui, mettre fin à ce qui n’est plus tenable, faire grandir une force authentique. Un [trigone](/astrology/trine/) permet à deux fonctions de se soutenir en restant distinctes, et parmi les [aspects de synastrie](/astrology/synastry-aspects/), celui-ci laisse la profondeur d’une aînée et les idéaux d’une cadette se porter mutuellement.
 
-Les signes partagent en général un élément. Pluton en Vierge pour une naissance du milieu des années 1960 et Neptune en Capricorne pour les naissances du début des années 1990, deux signes de terre : l’envie de réparer ce qui cloche dans la façon de travailler, à côté d’un idéal de structures qui marchent vraiment.
+La terre porte l’exemple plus bas, Pluton en Vierge en 1965 et Neptune en Capricorne de 1989 à 1992 : l’envie de réparer ce qui cloche dans la façon de travailler, à côté d’un idéal de structures qui marchent vraiment.
 
 Du côté de Pluton, les idéaux de la cadette peuvent rendre hommage à ce que vous avez traversé. Vos changements durement gagnés deviennent, entre ses mains, une raison d’espérer.
 

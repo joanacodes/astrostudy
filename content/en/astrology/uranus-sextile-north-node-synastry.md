@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/north-node", "/astrology/sextile", "/astrology/uranus-sextile-north-node", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Uranus sextile North Node mean in synastry?"
-    a: "One person’s Uranus is about 60° from the other’s North Node, within 2.4°, and 120° from their South Node. The Uranus person’s experiments offer the node person a way into a less familiar capacity, while making old strengths feel fresh. The opening is real once someone uses it."
+    a: "A sextile of about 60°, within 2.4°, runs from one person’s Uranus to the other’s North Node, and a trine of 120° to their South Node. The Uranus person’s experiments offer the node person a way into a less familiar capacity, while making old strengths feel fresh. The opening is real once someone uses it."
   - q: "Why does the South Node matter with Uranus sextile North Node?"
     a: "Because the same Uranus trines the South Node, the easier of the two links runs to what the node person already knows. The influence can end up refreshing familiar habits rather than helping a new step. Choosing one unfamiliar thing to practise keeps the sextile pointed forward."
   - q: "Who has Uranus sextile North Node with someone?"

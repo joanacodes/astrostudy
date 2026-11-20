@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/uranus", "/astrology/black-moon-lilith", "/astrology/sextile", "/astrology/uranus-sextile-lilith", "/astrology/synastry-aspects"]
 faq:
   - q: "What does Uranus sextile Lilith mean in synastry?"
-    a: "About 60° separate one person’s Uranus from the other’s Black Moon Lilith, within 2.4°. The Uranus person’s unconventional settings and ideas offer the Lilith person’s guarded side somewhere to go. Like every sextile it is an opportunity, real only when the Lilith person decides to use it."
+    a: "The sextile spans about 60°, within 2.4°, from one person’s Uranus to the other’s Black Moon Lilith. The Uranus person’s unconventional settings and ideas offer the Lilith person’s guarded side somewhere to go. Like every sextile it is an opportunity, real only when the Lilith person decides to use it."
   - q: "Who has Uranus sextile Lilith with someone?"
     a: "Someone born in mid-1955 and anyone born in April or May 1971 have it both ways round. The 1955 Uranus also meets the Lilith of people born in two short windows in every nine-year round of mean Lilith. With every birth in those weeks sharing it, I read it through the houses."
   - q: "Is Uranus sextile Lilith a sign of attraction?"
