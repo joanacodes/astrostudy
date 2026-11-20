@@ -57,6 +57,6 @@ La maison qu’occupe le Lion dépend de [votre heure de naissance](/blog/unknow
 
 ## Ce qui aide {#ce-qui-aide}
 
-Le feu du Lion réchauffe avant de brûler : je trouve ces semaines plus douces quand vous créez sans public, dessiner, chanter, cuisiner pour une seule personne, jouer. Le Soleil gouverne le Lion, et la maison de votre Soleil natal montre où votre sentiment de vous-même emmène la révision ; celle de Mars, d’où part l’élan. Avant la boucle de 2027, Mars traverse d’abord les degrés qu’il faudra repasser, ce que les astrologues appellent [la période d’ombre](/astrology/shadow-period/) : un moment calme pour remarquer ce que vous cherchez à obtenir.
+Le feu du Lion réchauffe avant de brûler : je trouve ces semaines plus douces quand vous créez sans public, dessiner, chanter, cuisiner pour une seule personne, jouer. Le Soleil gouverne le Lion, et la maison de votre Soleil natal montre où votre sentiment de vous-même emmène la révision ; celle de Mars, l’endroit où votre élan prend sa source. Avant la boucle de 2027, Mars traverse d’abord les degrés qu’il faudra repasser, ce que les astrologues appellent [la période d’ombre](/astrology/shadow-period/) : un moment calme pour remarquer ce que vous cherchez à obtenir.
 
 Rien ici ne décide du succès d’une prestation ni de la fin d’une rivalité. Cela décrit une saison où le plus audacieux des signes de feu se demande pour qui est son courage.

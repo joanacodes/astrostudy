@@ -56,6 +56,6 @@ Where Libra falls among your houses depends on [your birth time](/blog/unknown-b
 
 ## What helps {#what-helps}
 
-Libra weighs, so I find these weeks go better with one plain statement of what you want, made before you start adjusting it for everyone else. Venus rules Libra, and the house of your natal Venus shows where harmony pulls the review; your natal Mars shows where the drive starts.
+Libra weighs, so I find these weeks go better with one plain statement of what you want, made before you start adjusting it for everyone else. Venus rules Libra, and the house of your natal Venus shows where harmony pulls the review; natal Mars, by its house, shows where you push from.
 
 Disagreements that come back aren’t the sky’s doing, and no Mars retrograde decides who is right, in a couple or in court ([Can astrology predict a court case?](/astrology/can-astrology-predict-a-court-case/)). It describes a spring in which fairness includes you.

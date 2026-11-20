@@ -56,6 +56,6 @@ The house Leo occupies depends on [your birth time](/blog/unknown-birth-time/), 
 
 ## What helps {#what-helps}
 
-Leo’s fire is warm before it is fierce, so I find these weeks go better when you create with no audience in mind: draw, sing, cook for one person, play. The Sun rules Leo, and the house of your natal Sun shows where your sense of self takes the review; your natal Mars shows where the drive starts. Before the 2027 loop, Mars first crosses the degrees it will later retrace, the stretch astrologers call [the shadow period](/astrology/shadow-period/), a quiet time to notice what you are pushing for.
+Leo’s fire is warm before it is fierce, so I find these weeks go better when you create with no audience in mind: draw, sing, cook for one person, play. The Sun rules Leo, and the house of your natal Sun shows where your sense of self takes the review; the house of your natal Mars, where your drive sets out from. Before the 2027 loop, Mars first crosses the degrees it will later retrace, the stretch astrologers call [the shadow period](/astrology/shadow-period/), a quiet time to notice what you are pushing for.
 
 None of this decides whether a performance lands or a rivalry ends. It describes a season in which the boldest of the fire signs asks who its courage is for.

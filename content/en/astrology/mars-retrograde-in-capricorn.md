@@ -56,6 +56,6 @@ Which house Capricorn occupies depends on [your birth time](/blog/unknown-birth-
 
 ## What helps {#what-helps}
 
-Capricorn builds for the long term, so these weeks suit an audit rather than a demolition: list what you are working towards, cross out what you no longer want, and keep the rest. Saturn rules Capricorn, and the house of your natal Saturn shows where responsibility shapes the review; your natal Mars shows where the drive starts.
+Capricorn builds for the long term, so these weeks suit an audit rather than a demolition: list what you are working towards, cross out what you no longer want, and keep the rest. Saturn rules Capricorn, and the house of your natal Saturn shows where responsibility shapes the review; the house of natal Mars shows where your effort begins.
 
 None of this predicts a promotion or a setback. It describes a summer in which the most disciplined drive in the zodiac checks what its discipline is for.

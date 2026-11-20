@@ -40,13 +40,13 @@ Mars rétrograde en Scorpion à votre naissance appartient à votre propre thèm
 
 ## Maison par maison {#maison-par-maison}
 
-La maison qu’occupe le Scorpion, et donc l’endroit où creuse cette révision de printemps, dépend de [votre heure de naissance](/blog/unknown-birth-time/) : je ne lis pas de thème sans elle. En Placidus, le système de maisons que j’utilise, la boucle de 2016 peut commencer dans la maison du Sagittaire et finir dans celle du Scorpion.
+La maison qu’occupe le Scorpion, et donc l’endroit où creuse cette révision de printemps, dépend de [votre heure de naissance](/blog/unknown-birth-time/), sans laquelle je ne fais aucune lecture. En Placidus, le système de maisons que j’utilise, la boucle de 2016 a pu partir de la maison du Sagittaire pour finir dans celle du Scorpion.
 
 1. **[Maison I](/astrology/scorpio-rising/) :** le Scorpion à l’ascendant : une présence intense et vigilante ; la garde tenue avant d’agir, un peu baissée.
 2. **[Maison II](/astrology/scorpio-on-2nd-house-cusp/) :** ce à quoi vous vous accrochez, et pourquoi ; une chose défendue farouchement, son sens réexaminé.
 3. **[Maison III](/astrology/scorpio-on-3rd-house-cusp/) :** des mots choisis avec soin ; une conversation interrompue net, rouverte.
 4. **[Maison IV](/astrology/scorpio-on-4th-house-cusp/) :** les loyautés familiales ; une vieille blessure à la maison, abordée avec moins d’armure.
-5. **[Maison V](/astrology/scorpio-on-5th-house-cusp/) :** l’amour passionné et la création qui absorbe ; une attirance vécue en privé, regardée au grand jour.
+5. **[Maison V](/astrology/scorpio-on-5th-house-cusp/) :** les amours passionnées et l’œuvre qui vous happe ; une attirance vécue en privé, regardée au grand jour.
 6. **[Maison VI](/astrology/scorpio-on-6th-house-cusp/) :** un travail auquel vous donnez toute votre énergie ; un bras de fer au travail pour garder la main, examiné.
 7. **[Maison VII](/astrology/scorpio-on-7th-house-cusp/) :** le Scorpion au descendant, face à un ascendant Taureau : une relation de fortes volontés ; qui détient le pouvoir entre vous, dit simplement.
 8. **[Maison VIII](/astrology/scorpio-on-8th-house-cusp/) :** la maison naturelle du Scorpion : l’intimité, la confiance et ce qui se partage, que la tradition liait à la mort et que je ne lis que dans la vie ([L’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)) ; un désir gardé secret, avoué à vous-même.

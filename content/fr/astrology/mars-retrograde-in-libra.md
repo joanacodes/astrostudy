@@ -57,6 +57,6 @@ La place de la Balance parmi vos maisons dépend de [votre heure de naissance](/
 
 ## Ce qui aide {#ce-qui-aide}
 
-La Balance pèse : je trouve ces semaines plus simples avec une phrase claire sur ce que vous voulez, dite avant de l’ajuster pour tout le monde. Vénus gouverne la Balance, et la maison de votre Vénus natale montre où l’harmonie attire la révision ; celle de Mars, d’où part l’élan.
+La Balance pèse : je trouve ces semaines plus simples avec une phrase claire sur ce que vous voulez, dite avant de l’ajuster pour tout le monde. Vénus gouverne la Balance, et la maison de votre Vénus natale montre où l’harmonie attire la révision ; celle de Mars, là où se loge votre élan.
 
 Les désaccords qui reviennent ne viennent pas du ciel, et aucune rétrogradation de Mars ne décide qui a raison, dans un couple ou au tribunal ([L’astrologie peut-elle prédire un procès ?](/astrology/can-astrology-predict-a-court-case/)). Cela décrit un printemps où l’équité vous inclut.

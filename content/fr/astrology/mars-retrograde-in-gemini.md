@@ -57,6 +57,6 @@ La maison qu’occupent les Gémeaux dans votre thème dépend de [votre heure d
 
 ## Ce qui aide {#ce-qui-aide}
 
-Quand Mars recule dans le signe de Mercure, j’ai remarqué qu’écrire aide d’abord plus que parler : mettez l’argument sur le papier, puis voyez s’il a besoin d’être dit. Choisissez un projet parmi ceux qui sont en cours, et donnez-lui l’effort. La maison qu’occupe Mercure, maître des Gémeaux, dans votre thème natal montre où votre esprit emmène la révision ; celle de Mars, d’où part l’élan.
+Quand Mars recule dans le signe de Mercure, j’ai remarqué qu’écrire aide d’abord plus que parler : mettez l’argument sur le papier, puis voyez s’il a besoin d’être dit. Choisissez un projet parmi ceux qui sont en cours, et donnez-lui l’effort. La maison qu’occupe Mercure, maître des Gémeaux, dans votre thème natal montre où votre esprit emmène la révision ; celle de Mars, le point de départ de votre élan.
 
 Rien de tout cela n’annonce une brouille ou une réconciliation. Cela décrit une dizaine de semaines où une énergie agitée découvre ce qu’elle veut mener à terme.

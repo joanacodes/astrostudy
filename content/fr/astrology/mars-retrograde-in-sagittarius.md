@@ -57,6 +57,6 @@ La maison qu’occupe le Sagittaire dépend de [votre heure de naissance](/blog/
 
 ## Ce qui aide {#ce-qui-aide}
 
-Le Sagittaire vise loin : je trouve ces semaines bonnes pour vérifier la carte plutôt que changer de destination. Le but est-il encore le vôtre, et la route est-elle douce pour les personnes qui voyagent avec vous ? Jupiter gouverne le Sagittaire, et la maison qu’occupe Jupiter dans votre thème natal montre où la vue d’ensemble oriente la révision ; celle de Mars, d’où part l’élan.
+Le Sagittaire vise loin : je trouve ces semaines bonnes pour vérifier la carte plutôt que changer de destination. Le but est-il encore le vôtre, et la route est-elle douce pour les personnes qui voyagent avec vous ? Jupiter gouverne le Sagittaire, et la maison qu’occupe Jupiter dans votre thème natal montre où la vue d’ensemble oriente la révision ; celle de Mars, d’où votre énergie s’élance.
 
 Rien de tout cela ne décide d’un voyage, d’un examen ou d’un débat. Cela décrit une saison d’été où la conviction doit dire à quoi elle sert.
