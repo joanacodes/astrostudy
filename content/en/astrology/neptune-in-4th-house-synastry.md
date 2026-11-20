@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 100
 glyph: "♆"
-definition: "Their Neptune in your 4th house brings the other person’s Neptune to your home, roots and private life. In synastry their longing for belonging settles where you live: home can feel like a refuge with them, and your family may look to them like the one they dreamed of. House rules and boundaries, though, tend to stay vague."
+definition: "With their Neptune in your 4th house, the other person’s Neptune reaches the floor of your chart: home, roots and private life. In synastry their longing for belonging settles where you live: home can feel like a refuge, and your family may look to them like the one they dreamed of. House rules and boundaries tend to stay vague."
 facts:
   - { k: "Their body", v: "Their Neptune ♆" }
   - { k: "Your house", v: "The 4th house: home, roots, private life" }
@@ -30,11 +30,11 @@ The kitchen light left on, a door you stop locking when they're due: their Neptu
 
 ## What it brings {#what-it-brings}
 
-[Neptune](/astrology/neptune/) longs for a belonging larger than everyday life, and softens whatever comes near it. [The 4th house](/astrology/4th-house/) is the ground under you: the house you come from and the one you make, your family's story, the part of you only the closest people meet. In this [house overlay](/astrology/house-overlays/), their longing settles in your private rooms.
+[Neptune](/astrology/neptune/) longs for a belonging larger than everyday life, and softens whatever comes near it. [The 4th house](/astrology/4th-house/) is the ground under you: where you started out and where you live now, your family's story, the part of you only the closest people meet. In this [house overlay](/astrology/house-overlays/), their longing settles in your private rooms.
 
 With them, home can feel like a refuge rather than an address. You may want to make your place more beautiful, fill it with music, open it to them sooner than to anyone else; old family memories can soften, as if their presence helped you forgive the place you came from.
 
-In your home they may feel they've found the belonging they imagined: your rooms, your rituals, even your relatives can look to them like the family they dreamed of. Angular and private at once, the 4th is the root of the chart, with [Cancer](/astrology/cancer/), sign of shelter and memory, as its natural sign. When their Neptune lies close to your [Imum Coeli](/astrology/imum-coeli/), it conjoins the lowest point of your chart, and I read that meeting as the strongest note of the overlay.
+In your home they may feel they've found the belonging they imagined: your rooms, your rituals, even your relatives can look to them like the family they dreamed of. Angular and private at once, the 4th is the root of the chart, with [Cancer](/astrology/cancer/), sign of shelter and memory, as its natural sign. Should their Neptune sit near your [Imum Coeli](/astrology/imum-coeli/), the deepest point of your chart, the two make a conjunction, and that contact is the strongest note of the overlay.
 
 ## Where it rubs {#where-it-rubs}
 

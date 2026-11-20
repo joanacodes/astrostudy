@@ -21,7 +21,7 @@ faq:
     a: "Son imagination entre dans votre esprit de tous les jours : les conversations, les messages, les apprentissages, les gens et les lieux tout proches. Parler avec cette personne peut devenir musical et plein d’images, au point de vous comprendre avant la fin des phrases. Le prix, c’est le détail : mieux vaut confirmer par écrit ce qui est pratique."
   - q: "Pourquoi nous comprenons-nous de travers avec Neptune de l’autre dans ma maison 3 ?"
     a: "Souvent parce qu’une des deux personnes parle en images et que l’autre entend des faits. Neptune change les mots en images, et la maison 3 est celle où les mots portent les affaires du jour. Personne ne ment. Reformuler ce que vous avez compris, et confirmer les heures par message, garde la poésie et sauve les rendez-vous."
-  - q: "Que ressent l’autre dans ma maison 3 ?"
+  - q: "Pourquoi cette personne lit-elle autant de choses dans mes messages ?"
     a: "Vos mots lui arrivent comme plus que de l’information : cette personne entend des histoires dans vos messages et les garde des années. Votre curiosité donne un chemin à son imagination. Elle peut aussi se sentir mal lue quand vous prenez au pied de la lettre une phrase lyrique, et avoir besoin que vous demandiez ce qu’elle voulait dire."
 sources:
   - { title: "Vettius Valens, Anthologies", note: "la maison 3, que la tradition appelait la Déesse" }

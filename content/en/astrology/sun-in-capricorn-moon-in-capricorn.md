@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 118
 glyph: "☉♑☽♑"
-definition: "Sun in Capricorn, Moon in Capricorn puts both lights in cardinal earth, at a birth within about two and a half days of the new moon in Capricorn, the first after the December solstice. Saturn rules both, and the Moon is in its detriment. I read it as one long project, with the same patient hands for work and for feeling."
+definition: "Sun in Capricorn, Moon in Capricorn puts both lights in cardinal earth, at a birth within about two and a half days of the new moon in Capricorn, the first after the December solstice. Saturn rules both, and the Moon is in its detriment. I read it as one long project, the same patient hands for work and feeling."
 facts:
   - { k: "Sun sign", v: "Capricorn ♑, ruled by Saturn" }
   - { k: "Moon sign", v: "Capricorn ♑, ruled by Saturn; the Moon’s detriment" }

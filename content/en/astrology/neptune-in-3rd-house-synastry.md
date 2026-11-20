@@ -20,7 +20,7 @@ faq:
     a: "Their imagination enters your everyday mind: conversations, messages, learning, the people and places close by. Talk with them can turn musical and full of images, and you may understand each other without finishing sentences. The cost is detail: plans and promises can blur, so the practical is worth confirming in writing."
   - q: "Why do we keep misunderstanding each other when their Neptune is in my 3rd house?"
     a: "Often because one of you speaks in pictures and the other hears facts. Neptune softens words into images, and the 3rd house is where words carry daily business. Nobody is being dishonest. Repeating back what you understood, and confirming times by message, keeps the poetry and saves the appointments."
-  - q: "What does the Neptune person feel in my 3rd house?"
+  - q: "Why does the Neptune person read so much into my messages?"
     a: "Your words tend to reach them as more than information: they may hear stories in your messages and keep them for years. Your curiosity gives their imagination somewhere to go each day. They can also feel misread when you take a lyrical remark literally, and may need you to ask what they meant."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the 3rd, which tradition called the Goddess" }
