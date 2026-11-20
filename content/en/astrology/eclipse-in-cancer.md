@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 4
 glyph: "●♋"
-definition: "An eclipse in Cancer darkens one of the two lights in Cancer: the Sun, at a new moon near the Moon’s nodes, or the full Moon, with the Sun opposite in Capricorn. Cancer has nineteen from 2000 to 2040, thirteen of them solar. I read one only within about three degrees of a natal point."
+definition: "An eclipse in Cancer darkens one of the two lights in Cancer: the Sun, at a new moon near the Moon’s nodes, or the full Moon, with the Sun opposite in Capricorn. Cancer has nineteen from 2000 to 2040, thirteen of them solar. For a chart, only those within about three degrees of a natal point matter to me."
 facts:
   - { k: "Sign", v: "Cancer ♋, cardinal water, ruled by the Moon" }
   - { k: "Axis", v: "Cancer–Capricorn" }
@@ -17,7 +17,7 @@ facts:
 related: ["/astrology/solar-eclipses", "/astrology/lunar-eclipses", "/astrology/cancer", "/astrology/eclipses-on-your-natal-planets", "/astrology/moon"]
 faq:
   - q: "When does the next eclipse fall in Cancer?"
-    a: "On 12 January 2028, a partial lunar eclipse with the Moon at 21°33′ Cancer and the Sun in Capricorn. The same year brings a total solar eclipse at 29°50′ Cancer on 22 July and a total lunar eclipse at 10°34′ Cancer on 31 December. The last was the annular eclipse of 21 June 2020."
+    a: "The next one is the partial lunar eclipse of 12 January 2028, with the Moon at 21°33′ Cancer and the Sun in Capricorn. The same year brings a total solar eclipse at 29°50′ Cancer on 22 July and a total lunar eclipse at 10°34′ Cancer on 31 December. The last was the annular eclipse of 21 June 2020."
   - q: "Is Cancer the sign with the most solar eclipses?"
     a: "In my list, from 2000 to 2040, yes: thirteen of Cancer’s nineteen eclipses are solar, new moons in late June or July with both lights in Cancer. Its six lunar ones fall in late December and January, when the full Moon stands in Cancer and the Sun in Capricorn."
   - q: "What does an eclipse in Cancer say about family?"

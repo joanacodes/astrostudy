@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 12
 glyph: "●♓"
-definition: "An eclipse falls in Pisces in one of two ways: at a new moon near the Moon’s nodes, with the Sun and Moon together in Pisces, or at a full moon, with the Moon in Pisces and the Sun in Virgo. Thirteen fall between 2000 and 2040. I read one only within about three degrees of a natal point."
+definition: "An eclipse falls in Pisces in one of two ways: at a new moon near the nodes, with the Sun and Moon together in Pisces, or at a full moon, with the Moon in Pisces and the Sun in Virgo. Thirteen fall between 2000 and 2040. One enters a reading only within about three degrees of a natal point."
 facts:
   - { k: "Sign", v: "Pisces ♓, mutable water, ruled by Neptune and Jupiter" }
   - { k: "Axis", v: "Pisces–Virgo" }
@@ -32,7 +32,7 @@ Pisces closes the zodiac, and two of its eclipses sit right at the end of it: to
 
 ## What it stirs {#what-it-stirs}
 
-[Pisces](/astrology/pisces/) is mutable water with two rulers, Jupiter in the tradition and Neptune in modern tropical astrology, which I read together. It is the sign of compassion, imagination and letting go, and its eclipses fall on the Pisces–Virgo axis, the whole and the detail, faith and method, alternating with Virgo’s as the Moon’s nodes move. A [solar eclipse](/astrology/solar-eclipses/) in Pisces joins the Sun and Moon in the sign, as on 9 March 2016 at 18°55′; a [lunar eclipse](/astrology/lunar-eclipses/) puts the full Moon in Pisces and the Sun in Virgo, as on 7 September 2025 at 15°24′.
+[Pisces](/astrology/pisces/) is mutable water with two rulers, Jupiter in the tradition and Neptune in modern tropical astrology, which I read together. It is the sign of compassion, imagination and letting go, and its eclipses fall on the Pisces–Virgo axis, the whole and the detail, faith and method, alternating with Virgo’s as the Moon’s nodes move. In 2016 the Sun and Moon met in Pisces for a [solar eclipse](/astrology/solar-eclipses/) on 9 March, at 18°55′; on 7 September 2025 a [lunar eclipse](/astrology/lunar-eclipses/) caught the full Moon at 15°24′ Pisces, with the Sun in Virgo.
 
 I count an eclipse only by the AGS rule: within about three degrees of a natal planet, angle or node, at either end of the axis, read through that point and its house, with a penumbral lunar eclipse weighing less. If your natal nodes are involved, I look at the mean node and at the true one. That gives emphasis, never an omen.
 
@@ -43,7 +43,7 @@ Thirteen from 2000 to 2040:
 - **2024–2026:** 18 September 2024, partial lunar, 25°46′ · 7 September 2025, total lunar, 15°24′ · 28 August 2026, partial lunar, 4°51′
 - **2034–2036:** 20 March 2034, total solar, 29°52′ · 9 March 2035, annular solar, 19°12′ · 27 February 2036, partial solar, 8°09′
 
-The most recent is the partial lunar eclipse of 28 August 2026, nineteen years to the day after a total one at 4°46′; the next is the total solar eclipse of 20 March 2034. Aquarius and Aries, on either side, have their own pages ([Eclipse in Aquarius](/astrology/eclipse-in-aquarius/), [Eclipse in Aries](/astrology/eclipse-in-aries/)).
+The most recent is the partial lunar eclipse of 28 August 2026, nineteen years to the day after a total one at 4°46′; the next is the total solar eclipse of 20 March 2034. For the eclipses just before and after it in the zodiac, go to Aquarius and Aries ([Eclipse in Aquarius](/astrology/eclipse-in-aquarius/), [Eclipse in Aries](/astrology/eclipse-in-aries/)).
 
 ## House by house {#house-by-house}
 

@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 8
 glyph: "●♏"
-definition: "En Scorpion, une éclipse est soit une nouvelle lune proche des nœuds, le Soleil et la Lune réunis dans le signe, soit une pleine lune, la Lune en Scorpion et le Soleil en Taureau. Quinze tombent entre 2000 et 2040. Je n’en retiens une qu’à environ trois degrés d’un point natal, et jamais comme un présage."
+definition: "En Scorpion, une éclipse est soit une nouvelle lune proche des nœuds, le Soleil et la Lune réunis dans le signe, soit une pleine lune, la Lune en Scorpion et le Soleil en Taureau. Quinze tombent entre 2000 et 2040. Aucune ne compte dans un thème hors d’environ trois degrés d’un point natal, et aucune n’est un présage."
 facts:
   - { k: "Signe", v: "Scorpion ♏, eau fixe, gouverné par Pluton et Mars" }
   - { k: "Axe", v: "Scorpion–Taureau" }
@@ -20,7 +20,7 @@ faq:
   - q: "Une éclipse en Scorpion est-elle dangereuse ?"
     a: "Non. Une éclipse, c’est le Soleil, la Lune et la Terre alignés près des nœuds lunaires, et la réputation du Scorpion n’y change rien. Je ne lis une éclipse en Scorpion que là où elle rencontre un point natal à environ trois degrés, comme un accent sur ce que décrit ce point ; elle n’annonce jamais une perte, une maladie ni un décès."
   - q: "Qu’est-ce qui suit l’éclipse de 2023 en Scorpion ?"
-    a: "Huit années calmes dans le signe, puis une éclipse lunaire par la pénombre le 7 mai 2031 à 16°31′ du Scorpion, une éclipse solaire totale à 22°17′ du Scorpion le 14 novembre 2031, et une éclipse lunaire totale à 6°00′ du Scorpion le 25 avril 2032."
+    a: "Huit années calmes dans le signe, puis une éclipse lunaire par la pénombre le 7 mai 2031 à 16°31′ du Scorpion, une éclipse solaire hybride à 22°17′ du Scorpion le 14 novembre 2031 (totale au milieu de son trajet, annulaire à ses extrémités), et une éclipse lunaire totale à 6°00′ du Scorpion le 25 avril 2032."
   - q: "Qu’apportent les deux maîtres du Scorpion à une éclipse dans ce signe ?"
     a: "Du contexte. Le Scorpion a un maître traditionnel, Mars, et un maître moderne, Pluton, et je lis les deux : quand une éclipse en Scorpion rencontre un point de votre thème, les maisons de Mars et de Pluton dans votre thème natal montrent où son thème tend à mener. Ces planètes décrivent ; elles ne causent rien."
   - q: "Pourquoi la dernière et la prochaine éclipse en Scorpion sont-elles par la pénombre ?"
@@ -40,12 +40,12 @@ Quelle que soit la réputation du signe, la règle AGS que je suis vaut pour tou
 Quinze de 2000 à 2040 :
 
 - **2003–2005 :** 16 mai 2003, lunaire totale, 24°55′ · 4 mai 2004, lunaire totale, 14°39′ · 24 avril 2005, lunaire par la pénombre, 4°13′
-- **2012–2014 :** 13 novembre 2012, solaire totale, 21°56′ · 25 avril 2013, lunaire partielle, 5°52′ · 3 novembre 2013, solaire totale, 11°15′ · 23 octobre 2014, solaire partielle, 0°24′
+- **2012–2014 :** 13 novembre 2012, solaire totale, 21°56′ · 25 avril 2013, lunaire partielle, 5°52′ · 3 novembre 2013, solaire hybride, 11°15′ · 23 octobre 2014, solaire partielle, 0°24′
 - **2022–2023 :** 16 mai 2022, lunaire totale, 25°16′ · 25 octobre 2022, solaire partielle, 2°00′ · 5 mai 2023, lunaire par la pénombre, 14°52′
-- **2031–2032 :** 7 mai 2031, lunaire par la pénombre, 16°31′ · 14 novembre 2031, solaire totale, 22°17′ · 25 avril 2032, lunaire totale, 6°00′ · 3 novembre 2032, solaire partielle, 11°21′
+- **2031–2032 :** 7 mai 2031, lunaire par la pénombre, 16°31′ · 14 novembre 2031, solaire hybride, 22°17′ · 25 avril 2032, lunaire totale, 6°00′ · 3 novembre 2032, solaire partielle, 11°21′
 - **2040 :** 4 novembre 2040, solaire partielle, 12°58′
 
-Dix-neuf ans en ramènent certaines au jour près : le 16 mai 2003 à 24°55′ et le 16 mai 2022 à 25°16′, le 3 novembre 2013 à 11°15′ et le 3 novembre 2032 à 11°21′. Les signes voisins ont leur propre page ([Éclipse en Balance](/astrology/eclipse-in-libra/), [Éclipse en Sagittaire](/astrology/eclipse-in-sagittarius/)).
+Dix-neuf ans en ramènent certaines au jour près : le 16 mai 2003 à 24°55′ et le 16 mai 2022 à 25°16′, le 3 novembre 2013 à 11°15′ et le 3 novembre 2032 à 11°21′. Pour la Balance et le Sagittaire, les signes d’à côté, voyez leurs pages ([Éclipse en Balance](/astrology/eclipse-in-libra/), [Éclipse en Sagittaire](/astrology/eclipse-in-sagittarius/)).
 
 ## Maison par maison {#maison-par-maison}
 
@@ -56,7 +56,7 @@ La maison du Scorpion dans votre thème découle de [votre heure de naissance](/
 3. **[Maison III](/astrology/scorpio-on-3rd-house-cusp/) :** des mots qui vont loin ; une conversation qui va jusqu’à la vérité.
 4. **[Maison IV](/astrology/scorpio-on-4th-house-cusp/) :** les profondeurs de la famille ; les vieilles loyautés et ce qu’elles recouvrent.
 5. **[Maison V](/astrology/scorpio-on-5th-house-cusp/) :** la passion et la création qui absorbe ; le désir, regardé honnêtement.
-6. **[Maison VI](/astrology/scorpio-on-6th-house-cusp/) :** un travail auquel vous vous donnez entièrement ; un problème remonté jusqu’à sa racine.
+6. **[Maison VI](/astrology/scorpio-on-6th-house-cusp/) :** une vie de travail à laquelle vous donnez tout ; un problème suivi jusqu’à sa cause.
 7. **[Maison VII](/astrology/scorpio-on-7th-house-cusp/) :** le Scorpion au descendant, avec l’ascendant Taureau : une relation intense ; la confiance, examinée de près.
 8. **[Maison VIII](/astrology/scorpio-on-8th-house-cusp/) :** le Scorpion dans sa [maison 8](/astrology/8th-house/) naturelle : l’intimité, la confiance et ce que l’on détient ensemble. La tradition liait cette maison à la mort ; une éclipse ici, telle que je la lis, parle de proximité et de changement dans une vie adulte, jamais de la mort de quiconque ([L’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)).
 9. **[Maison IX](/astrology/scorpio-on-9th-house-cusp/) :** des convictions éprouvées jusqu’au fond ; une croyance que vous ne pouvez plus prendre pour acquise.

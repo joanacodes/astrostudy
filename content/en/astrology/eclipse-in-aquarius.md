@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 11
 glyph: "●♒"
-definition: "Aquarius takes its share of eclipses on the Aquarius–Leo axis: solar ones, when a new moon near the nodes joins the Sun in Aquarius, and lunar ones, when the full Moon in Aquarius faces a Leo Sun. Fifteen fall from 2000 to 2040. In a chart I read one only within about three degrees of a natal point."
+definition: "Aquarius takes its share of eclipses on the Aquarius–Leo axis: solar ones, when a new moon near the nodes joins the Sun in Aquarius, and lunar ones, when the full Moon in Aquarius faces a Leo Sun. Fifteen fall from 2000 to 2040. I take one into account only when a natal point lies within about three degrees."
 facts:
   - { k: "Sign", v: "Aquarius ♒, fixed air, ruled by Uranus and Saturn" }
   - { k: "Axis", v: "Aquarius–Leo" }
@@ -32,11 +32,11 @@ From 2026 to 2028, Aquarius has three annular solar eclipses in a row, one each 
 
 ## What it stirs {#what-it-stirs}
 
-[Aquarius](/astrology/aquarius/) is fixed air, with two rulers I read side by side: Saturn, from the tradition, and Uranus, from modern tropical astrology. It is the sign of friendship, ideas and the wider circle, and its eclipses lie on the Aquarius–Leo axis, the group and the individual, alternating with Leo’s as the Moon’s nodes move. A [solar eclipse](/astrology/solar-eclipses/) in Aquarius has the Sun and Moon together there, as on 6 February 2027 at 17°37′; a [lunar eclipse](/astrology/lunar-eclipses/) has the full Moon in Aquarius and the Sun in Leo, as on 7 August 2036 at 15°13′.
+[Aquarius](/astrology/aquarius/) is fixed air, with two rulers I read side by side: Saturn, from the tradition, and Uranus, from modern tropical astrology. It is the sign of friendship, ideas and the wider circle, and its eclipses lie on the Aquarius–Leo axis, the group and the individual, alternating with Leo’s as the Moon’s nodes move. Aquarius had a [solar eclipse](/astrology/solar-eclipses/) on 17 February 2026 and has another on 6 February 2027, at 17°37′; its next total [lunar eclipse](/astrology/lunar-eclipses/), on 7 August 2036 at 15°13′, puts the full Moon here and the Sun in Leo.
 
-Whether any of this reaches you depends on the AGS rule I read by: an eclipse counts within about three degrees of a natal planet, angle or node, at either end of its axis, through that point and its house, and a penumbral lunar one weighs less. Nodes I read as mean and as true. It is emphasis, never an omen.
+Whether any of this reaches you depends on the AGS rule I read by: an eclipse counts within about three degrees of a natal planet, angle or node, at either end of its axis, through that point and its house, and a penumbral lunar one weighs less. Nodes I read as mean and as true. What it brings is emphasis; it is never an omen.
 
-Fifteen from 2000 to 2040:
+Aquarius’s fifteen, in order:
 
 - **2000:** 5 February 2000, partial solar, 16°01′
 - **2008–2009:** 7 February 2008, annular solar, 17°44′ · 16 August 2008, partial lunar, 24°17′ · 26 January 2009, annular solar, 6°29′ · 6 August 2009, penumbral lunar, 13°35′
@@ -44,7 +44,7 @@ Fifteen from 2000 to 2040:
 - **2026–2028:** 17 February 2026, annular solar, 28°50′ · 6 February 2027, annular solar, 17°37′ · 17 August 2027, penumbral lunar, 24°04′ · 26 January 2028, annular solar, 6°10′
 - **2035–2037:** 19 August 2035, partial lunar, 26°00′ · 7 August 2036, total lunar, 15°13′ · 27 July 2037, partial lunar, 4°26′
 
-Nineteen years separate pairs such as 26 January 2009 and 26 January 2028, or 27 July 2018 and 27 July 2037, each within half a degree. The signs on either side, Capricorn and Pisces, have their own pages ([Eclipse in Capricorn](/astrology/eclipse-in-capricorn/), [Eclipse in Pisces](/astrology/eclipse-in-pisces/)).
+Nineteen years separate pairs such as 26 January 2009 and 26 January 2028, or 27 July 2018 and 27 July 2037, each within half a degree. Capricorn and Pisces, which frame it, are treated on their own pages ([Eclipse in Capricorn](/astrology/eclipse-in-capricorn/), [Eclipse in Pisces](/astrology/eclipse-in-pisces/)).
 
 ## House by house {#house-by-house}
 

@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 6
 glyph: "●♍"
-definition: "Virgo’s eclipses are new and full moons near the Moon’s nodes with the Moon in Virgo: solar ones with the Sun beside it, lunar ones with the Sun across the zodiac in Pisces. There are fourteen between 2000 and 2040. I read one only within about three degrees of a natal point, as emphasis."
+definition: "Virgo’s eclipses are new and full moons near the Moon’s nodes with the Moon in Virgo: solar ones with the Sun beside it, lunar ones with the Sun across the zodiac in Pisces. There are fourteen between 2000 and 2040. One of them speaks to a chart only when it falls within about three degrees of a natal point."
 facts:
   - { k: "Sign", v: "Virgo ♍, mutable earth, ruled by Mercury" }
   - { k: "Axis", v: "Virgo–Pisces" }
@@ -49,7 +49,7 @@ Several answer each other across nineteen years: 21 February 2008 and 20 Februar
 
 The house that receives a Virgo eclipse in your chart is set by [your birth time](/blog/unknown-birth-time/); the cusps shift every few minutes, so without the time I don’t read the chart. In Placidus, my house system, a line counts only when a Virgo eclipse meets a natal point in that house; the Pisces end of the axis falls in the house opposite.
 
-1. **[1st house](/astrology/virgo-rising/):** Virgo rising: your careful, capable manner; the way you present your work, rethought.
+1. **[1st house](/astrology/virgo-rising/):** Virgo rising: a composed, exact first impression; how you show what you can do, reconsidered.
 2. **[2nd house](/astrology/virgo-on-2nd-house-cusp/):** practical values; what you do with your skills, and what they are worth to you.
 3. **[3rd house](/astrology/virgo-on-3rd-house-cusp/):** precise words and daily learning; a fact checked, a message corrected.
 4. **[4th house](/astrology/virgo-on-4th-house-cusp/):** an ordered home; the routines that hold a household together.

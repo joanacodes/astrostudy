@@ -38,9 +38,9 @@ In the rule I follow, from the AGS library, an eclipse counts only within about 
 
 The fourteen, from 2000 to 2040:
 
-- **2004–2006:** 19 April 2004, partial solar, 29°49′ · 8 April 2005, total solar, 19°06′ · 17 October 2005, partial lunar, 24°07′ · 29 March 2006, total solar, 8°34′
+- **2004–2006:** 19 April 2004, partial solar, 29°49′ · 8 April 2005, hybrid solar, 19°06′ · 17 October 2005, partial lunar, 24°07′ · 29 March 2006, total solar, 8°34′
 - **2013–2015:** 18 October 2013, penumbral lunar, 25°51′ · 8 October 2014, total lunar, 15°07′ · 28 September 2015, total lunar, 4°38′
-- **2023–2025:** 20 April 2023, total solar, 29°50′ · 8 April 2024, total solar, 19°23′ · 29 March 2025, partial solar, 8°59′
+- **2023–2025:** 20 April 2023, hybrid solar, 29°50′ · 8 April 2024, total solar, 19°23′ · 29 March 2025, partial solar, 8°59′
 - **2032–2034:** 18 October 2032, total lunar, 25°59′ · 30 March 2033, total solar, 10°20′ · 8 October 2033, total lunar, 15°27′ · 28 September 2034, partial lunar, 4°58′
 
 The most recent was the partial solar eclipse of 29 March 2025; the next is the total lunar eclipse of 18 October 2032. Notice the pairs nineteen years apart, 2004 and 2023, 2006 and 2025, 2013 and 2032: the same date within a day, the same degree within a fraction. On either side, the eclipses fall in Pisces and in Taurus ([Eclipse in Pisces](/astrology/eclipse-in-pisces/), [Eclipse in Taurus](/astrology/eclipse-in-taurus/)).

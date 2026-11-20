@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 10
 glyph: "●♑"
-definition: "An eclipse in Capricorn happens when the Sun is darkened by a new moon in Capricorn, or when the full Moon in Capricorn, opposite a Cancer Sun, passes through the Earth’s shadow, in both cases near the Moon’s nodes. Twenty fall from 2000 to 2040. I read one only within about three degrees of a natal point."
+definition: "An eclipse in Capricorn happens when a new moon darkens the Sun there, or when the full Moon in Capricorn, opposite a Cancer Sun, passes through the Earth’s shadow, both near the Moon’s nodes. Capricorn has twenty from 2000 to 2040. What makes one count for a chart is a natal point within about three degrees."
 facts:
   - { k: "Sign", v: "Capricorn ♑, cardinal earth, ruled by Saturn" }
   - { k: "Axis", v: "Capricorn–Cancer" }
@@ -32,11 +32,11 @@ On 26 June 2029 the Moon will be eclipsed at 4°49′ Capricorn, nineteen years 
 
 ## What it stirs {#what-it-stirs}
 
-[Capricorn](/astrology/capricorn/) is cardinal earth, ruled by Saturn: structure, responsibility, the work of years. Its eclipses fall on the Capricorn–Cancer axis, the public world and the private one, duty and care, alternating with Cancer’s as the Moon’s nodes move. A [solar eclipse](/astrology/solar-eclipses/) in Capricorn joins the Sun and Moon in the sign, as on 26 December 2038 at 4°19′, the only total one in my list; a [lunar eclipse](/astrology/lunar-eclipses/) sets the full Moon in Capricorn against the Sun in Cancer, as on 26 June 2029.
+[Capricorn](/astrology/capricorn/) is cardinal earth, ruled by Saturn: structure, responsibility, the work of years. Its eclipses fall on the Capricorn–Cancer axis, the public world and the private one, duty and care, alternating with Cancer’s as the Moon’s nodes move. The only total [solar eclipse](/astrology/solar-eclipses/) in Capricorn in my list, on 26 December 2038 at 4°19′, will bring the Sun and Moon together here; the [lunar eclipse](/astrology/lunar-eclipses/) of 26 June 2029 will set the full Moon in Capricorn against the Sun in Cancer.
 
 In a chart I go by the AGS rule: an eclipse counts within about three degrees of a natal planet, angle or node, at either end of its axis, and I read it through that point and its house. Five of Capricorn’s twenty are penumbral, the most recent, on 5 July 2020, and the next, on 18 July 2027, among them, and those weigh less. I look at the mean and the true node alike. Never an omen; a stretch of emphasis.
 
-Twenty from 2000 to 2040:
+All twenty, year by year:
 
 - **2000–2002:** 16 July 2000, total lunar, 24°19′ · 25 December 2000, partial solar, 4°14′ · 5 July 2001, partial lunar, 13°34′ · 24 June 2002, penumbral lunar, 3°02′
 - **2009–2011:** 7 July 2009, penumbral lunar, 15°32′ · 15 January 2010, annular solar, 25°01′ · 26 June 2010, partial lunar, 4°50′ · 4 January 2011, partial solar, 13°38′

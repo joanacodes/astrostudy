@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 10
 glyph: "●♑"
-definition: "Une éclipse en Capricorne se produit quand le Soleil est obscurci par une nouvelle lune en Capricorne, ou quand la pleine Lune en Capricorne, face à un Soleil en Cancer, traverse l’ombre de la Terre, dans les deux cas près des nœuds. Vingt tombent de 2000 à 2040. Je n’en lis une qu’à environ trois degrés d’un point natal."
+definition: "Une éclipse en Capricorne se produit quand une nouvelle lune y obscurcit le Soleil, ou quand la pleine Lune en Capricorne, face à un Soleil en Cancer, traverse l’ombre de la Terre, toutes deux près des nœuds. Le signe en compte vingt de 2000 à 2040. Ce qui la fait compter, c’est un point natal à environ trois degrés."
 facts:
   - { k: "Signe", v: "Capricorne ♑, terre cardinale, gouverné par Saturne" }
   - { k: "Axe", v: "Capricorne–Cancer" }
@@ -33,11 +33,11 @@ Le 26 juin 2029, la Lune sera éclipsée à 4°49′ du Capricorne, dix-neuf ans
 
 ## Ce qu’elle remue {#ce-qu-elle-remue}
 
-Le [Capricorne](/astrology/capricorn/) est un signe de terre cardinal gouverné par Saturne : la structure, la responsabilité, le travail des années. Ses éclipses tombent sur l’axe Capricorne–Cancer, le monde public et la vie privée, le devoir et le soin, en alternance avec celles du Cancer au fil des nœuds. Une [éclipse solaire](/astrology/solar-eclipses/) en Capricorne réunit le Soleil et la Lune dans le signe, comme le 26 décembre 2038 à 4°19′, la seule totale de ma liste ; une [éclipse lunaire](/astrology/lunar-eclipses/) oppose la pleine Lune en Capricorne au Soleil en Cancer, comme le 26 juin 2029.
+Le [Capricorne](/astrology/capricorn/) est un signe de terre cardinal gouverné par Saturne : la structure, la responsabilité, le travail des années. Ses éclipses tombent sur l’axe Capricorne–Cancer, le monde public et la vie privée, le devoir et le soin, en alternance avec celles du Cancer au fil des nœuds. La seule [éclipse solaire](/astrology/solar-eclipses/) totale en Capricorne de ma liste, le 26 décembre 2038 à 4°19′, réunira ici le Soleil et la Lune ; l’[éclipse lunaire](/astrology/lunar-eclipses/) du 26 juin 2029 opposera la pleine Lune en Capricorne au Soleil en Cancer.
 
 Dans un thème, je m’en tiens à la règle AGS : une éclipse compte à environ trois degrés d’une planète, d’un angle ou d’un nœud natal, à l’un ou l’autre bout de son axe, et je la lis à travers ce point et sa maison. Cinq des vingt éclipses du Capricorne sont par la pénombre, dont la plus récente, le 5 juillet 2020, et la prochaine, le 18 juillet 2027, et celles-là pèsent moins. Je regarde le nœud moyen comme le nœud vrai. Jamais un présage : une période d’accent.
 
-Vingt de 2000 à 2040 :
+Les vingt, année par année :
 
 - **2000–2002 :** 16 juillet 2000, lunaire totale, 24°19′ · 25 décembre 2000, solaire partielle, 4°14′ · 5 juillet 2001, lunaire partielle, 13°34′ · 24 juin 2002, lunaire par la pénombre, 3°02′
 - **2009–2011 :** 7 juillet 2009, lunaire par la pénombre, 15°32′ · 15 janvier 2010, solaire annulaire, 25°01′ · 26 juin 2010, lunaire partielle, 4°50′ · 4 janvier 2011, solaire partielle, 13°38′

@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 5
 glyph: "●♌"
-definition: "Eclipses in Leo come when a new or full moon near the Moon’s nodes lands in Leo: the Sun hidden by the Moon in its own sign, or the full Moon in Leo dimmed by the Earth’s shadow, opposite an Aquarius Sun. Sixteen fall from 2000 to 2040; I read one only within about three degrees of a natal point."
+definition: "Eclipses in Leo come when a new or full moon near the nodes lands in Leo: the Sun hidden by the Moon in its own sign, or the full Moon in Leo in the Earth’s shadow, opposite an Aquarius Sun. Sixteen fall from 2000 to 2040; one counts for me only near a natal point, within about three degrees."
 facts:
   - { k: "Sign", v: "Leo ♌, fixed fire, ruled by the Sun" }
   - { k: "Axis", v: "Leo–Aquarius" }
@@ -36,7 +36,7 @@ Leo is in its eclipse years: a total solar eclipse at 20°02′ Leo on 12 August
 
 For a chart, the AGS rule decides: an eclipse counts within about three degrees of a natal planet, angle or node, at either end of its axis, read through that point and its house, and a penumbral lunar eclipse, like those of February 2009 and February 2017, weighs less. So the eclipse of 2 August 2027 would touch something of yours near 10° Leo or 10° Aquarius, and leave the rest of the chart alone. When natal nodes sit near such a degree, I check the mean node and the true node alike. It is emphasis, never an omen.
 
-Sixteen in my list, from 2000 to 2040:
+Here are the sixteen, as they fall:
 
 - **2000:** 21 January 2000, total lunar, 0°28′ · 31 July 2000, partial solar, 8°11′
 - **2008–2009:** 1 August 2008, total solar, 9°32′ · 9 February 2009, penumbral lunar, 20°52′

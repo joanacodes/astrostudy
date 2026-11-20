@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 4
 glyph: "●♋"
-definition: "Une éclipse en Cancer obscurcit l’un des deux luminaires en Cancer : le Soleil, lors d’une nouvelle lune proche des nœuds, ou la pleine Lune, le Soleil étant en face, en Capricorne. Le Cancer en compte dix-neuf de 2000 à 2040, dont treize solaires. Je n’en lis une qu’à environ trois degrés d’un point natal."
+definition: "Une éclipse en Cancer obscurcit l’un des deux luminaires en Cancer : le Soleil, lors d’une nouvelle lune proche des nœuds, ou la pleine Lune, le Soleil étant en face, en Capricorne. Le Cancer en compte dix-neuf de 2000 à 2040, dont treize solaires. Pour un thème, seules comptent pour moi celles qui tombent à environ trois degrés d’un point natal."
 facts:
   - { k: "Signe", v: "Cancer ♋, eau cardinale, gouverné par la Lune" }
   - { k: "Axe", v: "Cancer–Capricorne" }
@@ -18,7 +18,7 @@ facts:
 related: ["/astrology/solar-eclipses", "/astrology/lunar-eclipses", "/astrology/cancer", "/astrology/eclipses-on-your-natal-planets", "/astrology/moon"]
 faq:
   - q: "Quand tombe la prochaine éclipse en Cancer ?"
-    a: "Le 12 janvier 2028, une éclipse lunaire partielle, la Lune à 21°33′ du Cancer et le Soleil en Capricorne. La même année apporte une éclipse solaire totale à 29°50′ du Cancer le 22 juillet et une éclipse lunaire totale à 10°34′ du Cancer le 31 décembre. La dernière a été l’éclipse annulaire du 21 juin 2020."
+    a: "La prochaine est l’éclipse lunaire partielle du 12 janvier 2028, la Lune à 21°33′ du Cancer et le Soleil en Capricorne. La même année apporte une éclipse solaire totale à 29°50′ du Cancer le 22 juillet et une éclipse lunaire totale à 10°34′ du Cancer le 31 décembre. La dernière a été l’éclipse annulaire du 21 juin 2020."
   - q: "Le Cancer est-il le signe qui compte le plus d’éclipses solaires ?"
     a: "Dans ma liste, de 2000 à 2040, oui : treize des dix-neuf éclipses du Cancer sont solaires, des nouvelles lunes de fin juin ou de juillet avec les deux luminaires en Cancer. Ses six éclipses lunaires tombent fin décembre et en janvier, quand la pleine Lune se tient en Cancer et le Soleil en Capricorne."
   - q: "Que dit une éclipse en Cancer de la famille ?"

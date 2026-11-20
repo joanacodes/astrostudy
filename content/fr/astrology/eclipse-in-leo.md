@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 5
 glyph: "●♌"
-definition: "Les éclipses en Lion arrivent quand une nouvelle ou une pleine lune proche des nœuds tombe en Lion : le Soleil caché par la Lune dans son propre signe, ou la pleine Lune en Lion assombrie par l’ombre terrestre, face au Soleil en Verseau. Seize de 2000 à 2040 ; je n’en lis une qu’à environ trois degrés d’un point natal."
+definition: "Les éclipses en Lion arrivent quand une nouvelle ou une pleine lune proche des nœuds tombe en Lion : le Soleil caché par la Lune dans son signe, ou la pleine Lune en Lion dans l’ombre terrestre, face au Soleil en Verseau. Seize de 2000 à 2040 ; chacune ne compte qu’à environ trois degrés d’un point natal."
 facts:
   - { k: "Signe", v: "Lion ♌, feu fixe, gouverné par le Soleil" }
   - { k: "Axe", v: "Lion–Verseau" }
@@ -37,7 +37,7 @@ Le [Lion](/astrology/leo/) est un signe de feu fixe gouverné par le Soleil : l
 
 Pour un thème, c’est la règle AGS qui tranche : une éclipse compte à environ trois degrés d’une planète, d’un angle ou d’un nœud natal, à l’un ou l’autre bout de son axe, lue à travers ce point et sa maison, et une éclipse lunaire par la pénombre, comme celles de février 2009 et de février 2017, pèse moins. L’éclipse du 2 août 2027 toucherait donc un point vers 10° du Lion ou du Verseau, sans rien changer au reste du thème. Quand des nœuds natals se trouvent près d’un tel degré, je vérifie le nœud moyen comme le nœud vrai. C’est un accent, jamais un présage.
 
-Seize dans ma liste, de 2000 à 2040 :
+Voici les seize, telles qu’elles tombent :
 
 - **2000 :** 21 janvier 2000, lunaire totale, 0°28′ · 31 juillet 2000, solaire partielle, 8°11′
 - **2008–2009 :** 1er août 2008, solaire totale, 9°32′ · 9 février 2009, lunaire par la pénombre, 20°52′

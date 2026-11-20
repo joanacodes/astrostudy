@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 12
 glyph: "●♓"
-definition: "Une éclipse tombe en Poissons de deux façons : lors d’une nouvelle lune proche des nœuds, le Soleil et la Lune réunis en Poissons, ou lors d’une pleine lune, la Lune en Poissons et le Soleil en Vierge. Treize tombent entre 2000 et 2040. Je n’en lis une qu’à environ trois degrés d’un point natal."
+definition: "Une éclipse tombe en Poissons de deux façons : lors d’une nouvelle lune proche des nœuds, le Soleil et la Lune réunis en Poissons, ou lors d’une pleine lune, la Lune en Poissons et le Soleil en Vierge. Treize tombent entre 2000 et 2040. Une éclipse dans ce signe n’entre dans une lecture qu’à environ trois degrés d’un point natal."
 facts:
   - { k: "Signe", v: "Poissons ♓, eau mutable, gouvernés par Neptune et Jupiter" }
   - { k: "Axe", v: "Poissons–Vierge" }
@@ -33,7 +33,7 @@ Les Poissons ferment le zodiaque, et deux de leurs éclipses se placent tout au 
 
 ## Ce qu’elle remue {#ce-qu-elle-remue}
 
-Les [Poissons](/astrology/pisces/) sont un signe d’eau mutable à deux maîtres, Jupiter dans la tradition et Neptune en astrologie tropicale moderne, que je lis ensemble. C’est le signe de la compassion, de l’imagination et du lâcher-prise, et leurs éclipses tombent sur l’axe Poissons–Vierge, l’ensemble et le détail, la foi et la méthode, en alternance avec celles de la Vierge au fil des nœuds. Une [éclipse solaire](/astrology/solar-eclipses/) en Poissons réunit le Soleil et la Lune dans le signe, comme le 9 mars 2016 à 18°55′ ; une [éclipse lunaire](/astrology/lunar-eclipses/) place la pleine Lune en Poissons et le Soleil en Vierge, comme le 7 septembre 2025 à 15°24′.
+Les [Poissons](/astrology/pisces/) sont un signe d’eau mutable à deux maîtres, Jupiter dans la tradition et Neptune en astrologie tropicale moderne, que je lis ensemble. C’est le signe de la compassion, de l’imagination et du lâcher-prise, et leurs éclipses tombent sur l’axe Poissons–Vierge, l’ensemble et le détail, la foi et la méthode, en alternance avec celles de la Vierge au fil des nœuds. En 2016, le Soleil et la Lune se sont rejoints en Poissons pour une [éclipse solaire](/astrology/solar-eclipses/), le 9 mars, à 18°55′ ; le 7 septembre 2025, une [éclipse lunaire](/astrology/lunar-eclipses/) a saisi la pleine Lune à 15°24′ des Poissons, le Soleil en Vierge.
 
 Je ne compte une éclipse que selon la règle AGS : à environ trois degrés d’une planète, d’un angle ou d’un nœud natal, à l’un ou l’autre bout de l’axe, lue à travers ce point et sa maison, une éclipse lunaire par la pénombre pesant moins. Si vos nœuds natals sont en jeu, je regarde le nœud moyen et le nœud vrai. Cela donne un accent, jamais un présage.
 
@@ -44,7 +44,7 @@ Treize de 2000 à 2040 :
 - **2024–2026 :** 18 septembre 2024, lunaire partielle, 25°46′ · 7 septembre 2025, lunaire totale, 15°24′ · 28 août 2026, lunaire partielle, 4°51′
 - **2034–2036 :** 20 mars 2034, solaire totale, 29°52′ · 9 mars 2035, solaire annulaire, 19°12′ · 27 février 2036, solaire partielle, 8°09′
 
-La plus récente est l’éclipse lunaire partielle du 28 août 2026, dix-neuf ans jour pour jour après une totale à 4°46′ ; la prochaine est l’éclipse solaire totale du 20 mars 2034. Le Verseau et le Bélier, de part et d’autre, ont leur propre page ([Éclipse en Verseau](/astrology/eclipse-in-aquarius/), [Éclipse en Bélier](/astrology/eclipse-in-aries/)).
+La plus récente est l’éclipse lunaire partielle du 28 août 2026, dix-neuf ans jour pour jour après une totale à 4°46′ ; la prochaine est l’éclipse solaire totale du 20 mars 2034. Pour les signes qui l’entourent, voyez les pages du Verseau et du Bélier ([Éclipse en Verseau](/astrology/eclipse-in-aquarius/), [Éclipse en Bélier](/astrology/eclipse-in-aries/)).
 
 ## Maison par maison {#maison-par-maison}
 

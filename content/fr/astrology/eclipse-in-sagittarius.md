@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 9
 glyph: "●♐"
-definition: "Les éclipses du Sagittaire sont les nouvelles lunes proches des nœuds qui obscurcissent le Soleil en Sagittaire, et les pleines lunes qui plongent la Lune du Sagittaire dans l’ombre de la Terre, le Soleil étant en Gémeaux. Vingt tombent de 2000 à 2040. Je n’en lis une qu’à environ trois degrés d’un point natal."
+definition: "Les éclipses du Sagittaire sont les nouvelles lunes proches des nœuds qui obscurcissent le Soleil en Sagittaire, et les pleines lunes qui plongent la Lune du Sagittaire dans l’ombre de la Terre, le Soleil étant en Gémeaux. Vingt tombent de 2000 à 2040. Chacune n’atteint un thème qu’à travers un point natal situé à environ trois degrés."
 facts:
   - { k: "Signe", v: "Sagittaire ♐, feu mutable, gouverné par Jupiter" }
   - { k: "Axe", v: "Sagittaire–Gémeaux" }
@@ -33,7 +33,7 @@ Le Sagittaire et le Capricorne se partagent le plus grand nombre d’éclipses d
 
 ## Ce qu’elle remue {#ce-qu-elle-remue}
 
-Le [Sagittaire](/astrology/sagittarius/) est un signe de feu mutable gouverné par Jupiter : l’exploration, l’apprentissage, la foi, le désir de voir plus loin. Ses éclipses tombent sur l’axe Sagittaire–Gémeaux et alternent avec celles des Gémeaux au fil du déplacement des nœuds. Une [éclipse solaire](/astrology/solar-eclipses/) dans ce signe réunit le Soleil et la Lune en Sagittaire, comme le 4 décembre 2021 à 12°21′ ; une [éclipse lunaire](/astrology/lunar-eclipses/) oppose la pleine Lune en Sagittaire à un Soleil en Gémeaux, comme le 26 mai 2040 à 5°49′.
+Le [Sagittaire](/astrology/sagittarius/) est un signe de feu mutable gouverné par Jupiter : l’exploration, l’apprentissage, la foi, le désir de voir plus loin. Ses éclipses se placent sur l’axe Sagittaire–Gémeaux, et le passage des nœuds les fait alterner avec celles des Gémeaux. Le Soleil et la Lune se tenaient ensemble en Sagittaire lors de l’[éclipse solaire](/astrology/solar-eclipses/) totale du 4 décembre 2021, à 12°21′ ; lors de l’[éclipse lunaire](/astrology/lunar-eclipses/) du 26 mai 2040, la pleine Lune sera ici, à 5°49′, et le Soleil en Gémeaux.
 
 Pour un thème, pourtant, le signe ne dit que la moitié. Selon la règle AGS que j’utilise, une éclipse compte à environ trois degrés d’une planète, d’un angle ou d’un nœud natal, à l’un ou l’autre bout de son axe, et se lit à travers ce point et sa maison ; cinq des vingt éclipses du Sagittaire sont par la pénombre, et celles-là pèsent moins. Pour les nœuds, je compare la position moyenne et la position vraie. Un accent, donc, jamais un présage.
 
@@ -45,7 +45,7 @@ Vingt de 2000 à 2040 :
 - **2029–2031 :** 5 décembre 2029, solaire partielle, 13°45′ · 15 juin 2030, lunaire partielle, 24°38′ · 25 novembre 2030, solaire totale, 3°02′ · 5 juin 2031, lunaire par la pénombre, 14°30′
 - **2038–2040 :** 17 juin 2038, lunaire par la pénombre, 26°10′ · 6 juin 2039, lunaire partielle, 15°59′ · 15 décembre 2039, solaire totale, 23°32′ · 26 mai 2040, lunaire totale, 5°49′
 
-La plus récente, une éclipse solaire totale le 4 décembre 2021, est venue dix-neuf ans jour pour jour après l’éclipse totale du 4 décembre 2002 ; la prochaine, le 5 décembre 2029, sera partielle. Les signes voisins ont leur propre page ([Éclipse en Scorpion](/astrology/eclipse-in-scorpio/), [Éclipse en Capricorne](/astrology/eclipse-in-capricorn/)).
+La plus récente, une éclipse solaire totale le 4 décembre 2021, est venue dix-neuf ans jour pour jour après l’éclipse totale du 4 décembre 2002 ; la prochaine, le 5 décembre 2029, sera partielle. Le Scorpion le précède et le Capricorne le suit ; tous deux sont traités à part ([Éclipse en Scorpion](/astrology/eclipse-in-scorpio/), [Éclipse en Capricorne](/astrology/eclipse-in-capricorn/)).
 
 ## Maison par maison {#maison-par-maison}
 

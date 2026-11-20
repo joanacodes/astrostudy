@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 8
 glyph: "●♏"
-definition: "In Scorpio, an eclipse is either a new moon near the Moon’s nodes, with the Sun and Moon joined in Scorpio, or a full moon there, with the Moon in Scorpio and the Sun in Taurus. Fifteen fall between 2000 and 2040. I count one only within about three degrees of a natal point, and never as an omen."
+definition: "In Scorpio, an eclipse is either a new moon near the nodes, with the Sun and Moon joined in Scorpio, or a full moon, with the Moon in Scorpio and the Sun in Taurus. Fifteen fall between 2000 and 2040. None counts in a chart outside about three degrees of a natal point, and none is an omen."
 facts:
   - { k: "Sign", v: "Scorpio ♏, fixed water, ruled by Pluto and Mars" }
   - { k: "Axis", v: "Scorpio–Taurus" }
@@ -19,7 +19,7 @@ faq:
   - q: "Is an eclipse in Scorpio dangerous?"
     a: "No. An eclipse is the Sun, Moon and Earth in line near the Moon’s nodes, and Scorpio’s reputation doesn’t change that. I read an eclipse in Scorpio only where it meets a natal point within about three degrees, as emphasis on what that point describes; it never predicts a loss, an illness or a death."
   - q: "What comes after the 2023 eclipse in Scorpio?"
-    a: "Eight quiet years in the sign, then a penumbral lunar eclipse on 7 May 2031 at 16°31′ Scorpio, a total solar eclipse at 22°17′ Scorpio on 14 November 2031, and a total lunar eclipse at 6°00′ Scorpio on 25 April 2032."
+    a: "Eight quiet years in the sign, then a penumbral lunar eclipse on 7 May 2031 at 16°31′ Scorpio, a hybrid solar eclipse at 22°17′ Scorpio on 14 November 2031 (total along the middle of its path, annular near its ends), and a total lunar eclipse at 6°00′ Scorpio on 25 April 2032."
   - q: "What do Scorpio’s two rulers add to an eclipse there?"
     a: "Context. Scorpio has a traditional ruler, Mars, and a modern one, Pluto, and I read both: when an eclipse in Scorpio meets a point in your chart, the houses of your natal Mars and Pluto show where its theme tends to lead. They describe; they don’t cause anything."
   - q: "Why are the last and the next Scorpio eclipses both penumbral?"
@@ -39,12 +39,12 @@ Whatever the sign’s reputation, the AGS rule I read by is the same for every e
 Fifteen from 2000 to 2040:
 
 - **2003–2005:** 16 May 2003, total lunar, 24°55′ · 4 May 2004, total lunar, 14°39′ · 24 April 2005, penumbral lunar, 4°13′
-- **2012–2014:** 13 November 2012, total solar, 21°56′ · 25 April 2013, partial lunar, 5°52′ · 3 November 2013, total solar, 11°15′ · 23 October 2014, partial solar, 0°24′
+- **2012–2014:** 13 November 2012, total solar, 21°56′ · 25 April 2013, partial lunar, 5°52′ · 3 November 2013, hybrid solar, 11°15′ · 23 October 2014, partial solar, 0°24′
 - **2022–2023:** 16 May 2022, total lunar, 25°16′ · 25 October 2022, partial solar, 2°00′ · 5 May 2023, penumbral lunar, 14°52′
-- **2031–2032:** 7 May 2031, penumbral lunar, 16°31′ · 14 November 2031, total solar, 22°17′ · 25 April 2032, total lunar, 6°00′ · 3 November 2032, partial solar, 11°21′
+- **2031–2032:** 7 May 2031, penumbral lunar, 16°31′ · 14 November 2031, hybrid solar, 22°17′ · 25 April 2032, total lunar, 6°00′ · 3 November 2032, partial solar, 11°21′
 - **2040:** 4 November 2040, partial solar, 12°58′
 
-Nineteen years bring some of them back to the day: 16 May 2003 at 24°55′ and 16 May 2022 at 25°16′, 3 November 2013 at 11°15′ and 3 November 2032 at 11°21′. The neighbouring signs have their own pages ([Eclipse in Libra](/astrology/eclipse-in-libra/), [Eclipse in Sagittarius](/astrology/eclipse-in-sagittarius/)).
+Nineteen years bring some of them back to the day: 16 May 2003 at 24°55′ and 16 May 2022 at 25°16′, 3 November 2013 at 11°15′ and 3 November 2032 at 11°21′. For Libra and Sagittarius, the signs next door, see their pages ([Eclipse in Libra](/astrology/eclipse-in-libra/), [Eclipse in Sagittarius](/astrology/eclipse-in-sagittarius/)).
 
 ## House by house {#house-by-house}
 
@@ -55,7 +55,7 @@ Scorpio’s house in your chart comes from [your birth time](/blog/unknown-birth
 3. **[3rd house](/astrology/scorpio-on-3rd-house-cusp/):** words that go deep; a conversation that gets to the truth.
 4. **[4th house](/astrology/scorpio-on-4th-house-cusp/):** family depths; old loyalties and what lies beneath them.
 5. **[5th house](/astrology/scorpio-on-5th-house-cusp/):** passion and absorbing creative work; desire, looked at honestly.
-6. **[6th house](/astrology/scorpio-on-6th-house-cusp/):** work you throw yourself into; a problem traced to its root.
+6. **[6th house](/astrology/scorpio-on-6th-house-cusp/):** a working life you give everything to; a problem followed down to its cause.
 7. **[7th house](/astrology/scorpio-on-7th-house-cusp/):** Scorpio on the Descendant, with Taurus rising: an intense partnership; trust, examined closely.
 8. **[8th house](/astrology/scorpio-on-8th-house-cusp/):** Scorpio in its natural [8th house](/astrology/8th-house/): intimacy, trust and what’s held jointly. Tradition linked this house with death; an eclipse here, as I read it, speaks of closeness and change in an adult’s life, never of anyone dying ([can astrology predict death?](/astrology/can-astrology-predict-death/)).
 9. **[9th house](/astrology/scorpio-on-9th-house-cusp/):** convictions tested to the bottom; a belief you can no longer take on trust.

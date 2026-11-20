@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 9
 glyph: "●♐"
-definition: "The eclipses of Sagittarius are the new moons near the nodes that darken the Sun in Sagittarius, and the full moons that put the Moon in Sagittarius into the Earth’s shadow, with the Sun in Gemini. Twenty fall from 2000 to 2040. I read one only within about three degrees of a natal point."
+definition: "The eclipses of Sagittarius are the new moons near the nodes that darken the Sun in Sagittarius, and the full moons that put the Moon in Sagittarius into the Earth’s shadow, with the Sun in Gemini. Twenty fall from 2000 to 2040. Each one reaches a chart only through a natal point within about three degrees of it."
 facts:
   - { k: "Sign", v: "Sagittarius ♐, mutable fire, ruled by Jupiter" }
   - { k: "Axis", v: "Sagittarius–Gemini" }
@@ -32,7 +32,7 @@ Sagittarius and Capricorn share the largest count in my list: twenty eclipses ea
 
 ## What it stirs {#what-it-stirs}
 
-[Sagittarius](/astrology/sagittarius/) is mutable fire, ruled by Jupiter: exploration, learning, faith, the wish to see further. Its eclipses fall on the Sagittarius–Gemini axis and alternate with Gemini’s as the Moon’s nodes move. A [solar eclipse](/astrology/solar-eclipses/) here puts the Sun and Moon together in Sagittarius, as on 4 December 2021 at 12°21′; a [lunar eclipse](/astrology/lunar-eclipses/) sets the full Moon in Sagittarius against a Gemini Sun, as on 26 May 2040 at 5°49′.
+[Sagittarius](/astrology/sagittarius/) is mutable fire, ruled by Jupiter: exploration, learning, faith, the wish to see further. Its eclipses sit on the Sagittarius–Gemini axis, and the moving nodes make them alternate with Gemini’s. The Sun and Moon stood together in Sagittarius for the total [solar eclipse](/astrology/solar-eclipses/) of 4 December 2021, at 12°21′; for the [lunar eclipse](/astrology/lunar-eclipses/) of 26 May 2040 the full Moon will be here, at 5°49′, and the Sun in Gemini.
 
 For a chart, though, the sign is only half of it. Under the AGS rule I use, an eclipse counts within about three degrees of a natal planet, angle or node, at either end of its axis, and is read through that point and its house; five of Sagittarius’s twenty are penumbral, and those weigh less. For the nodes I compare the mean and the true positions. Emphasis, then, and never an omen.
 
@@ -44,7 +44,7 @@ Twenty from 2000 to 2040:
 - **2029–2031:** 5 December 2029, partial solar, 13°45′ · 15 June 2030, partial lunar, 24°38′ · 25 November 2030, total solar, 3°02′ · 5 June 2031, penumbral lunar, 14°30′
 - **2038–2040:** 17 June 2038, penumbral lunar, 26°10′ · 6 June 2039, partial lunar, 15°59′ · 15 December 2039, total solar, 23°32′ · 26 May 2040, total lunar, 5°49′
 
-The most recent, a total solar eclipse on 4 December 2021, came nineteen years to the day after the total eclipse of 4 December 2002; the next, on 5 December 2029, is partial. The signs on either side have their own pages ([Eclipse in Scorpio](/astrology/eclipse-in-scorpio/), [Eclipse in Capricorn](/astrology/eclipse-in-capricorn/)).
+The most recent, a total solar eclipse on 4 December 2021, came nineteen years to the day after the total eclipse of 4 December 2002; the next, on 5 December 2029, is partial. Scorpio comes before it and Capricorn after; both are covered separately ([Eclipse in Scorpio](/astrology/eclipse-in-scorpio/), [Eclipse in Capricorn](/astrology/eclipse-in-capricorn/)).
 
 ## House by house {#house-by-house}
 

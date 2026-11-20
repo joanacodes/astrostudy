@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 7
 glyph: "●♎"
-definition: "Les éclipses de la Balance sont les éclipses solaires qui tombent quand le Soleil est en Balance, et les éclipses lunaires où la pleine Lune est en Balance et le Soleil en Bélier. Avec onze entre 2000 et 2040, la Balance en compte le moins de tous les signes. Je n’en lis une qu’à environ trois degrés d’un point natal."
+definition: "Les éclipses de la Balance sont les éclipses solaires avec le Soleil en Balance, et les éclipses lunaires où la pleine Lune est en Balance et le Soleil en Bélier. Avec onze entre 2000 et 2040, c’est le signe qui en compte le moins. Dans une lecture, elle ne compte qu’à environ trois degrés d’un point natal."
 facts:
   - { k: "Signe", v: "Balance ♎, air cardinal, gouvernée par Vénus" }
   - { k: "Axe", v: "Balance–Bélier" }
@@ -33,7 +33,7 @@ La Balance compte le moins d’éclipses des douze signes dans ma liste : onze 
 
 ## Ce qu’elle remue {#ce-qu-elle-remue}
 
-La [Balance](/astrology/libra/) est un signe d’air cardinal gouverné par Vénus : l’équilibre, l’équité, les accords que les gens passent entre eux. Ses éclipses tombent sur l’axe Balance–Bélier et alternent avec celles du Bélier au fil du déplacement des nœuds. Une [éclipse solaire](/astrology/solar-eclipses/) en Balance réunit le Soleil et la Lune dans le signe, comme le 14 octobre 2023 à 21°07′, une éclipse annulaire presque au degré de la partielle du 14 octobre 2004, à 21°06′ ; une [éclipse lunaire](/astrology/lunar-eclipses/) place la pleine Lune en Balance et le Soleil en Bélier, comme ce sera le cas le 14 avril 2033.
+La [Balance](/astrology/libra/) est un signe d’air cardinal gouverné par Vénus : l’équilibre, l’équité, les accords que les gens passent entre eux. Ses éclipses tombent sur l’axe Balance–Bélier et alternent avec celles du Bélier au fil du déplacement des nœuds. Le 14 octobre 2023, le Soleil et la Lune se sont rejoints en Balance pour une [éclipse solaire](/astrology/solar-eclipses/) annulaire à 21°07′, presque au degré de la partielle du 14 octobre 2004, à 21°06′ ; le 14 avril 2033, une [éclipse lunaire](/astrology/lunar-eclipses/) placera la pleine Lune en Balance et le Soleil en Bélier.
 
 Dans un thème, j’applique la règle AGS : environ trois degrés d’une planète, d’un angle ou d’un nœud natal, à l’un ou l’autre bout de l’axe, lus à travers ce point et sa maison, les éclipses lunaires par la pénombre, trois sur onze en Balance, comptant pour moins. Les nœuds natals, je les lis des deux façons, moyen et vrai. L’accent est symbolique, et une éclipse n’est jamais un présage.
 
@@ -44,7 +44,7 @@ Onze de 2000 à 2040 :
 - **2023–2024 :** 14 octobre 2023, solaire annulaire, 21°07′ · 25 mars 2024, lunaire par la pénombre, 5°13′ · 2 octobre 2024, solaire annulaire, 10°03′
 - **2033–2034 :** 14 avril 2033, lunaire totale, 25°06′ · 23 septembre 2033, solaire partielle, 0°51′ · 3 avril 2034, lunaire par la pénombre, 13°59′
 
-La plus récente, l’éclipse annulaire du 2 octobre 2024 à 10°03′, est venue dix-neuf ans après celle du 3 octobre 2005 à 10°18′ ; la prochaine est l’éclipse lunaire totale du 14 avril 2033. Les signes voisins ont leur propre page ([Éclipse en Vierge](/astrology/eclipse-in-virgo/), [Éclipse en Scorpion](/astrology/eclipse-in-scorpio/)).
+La plus récente, l’éclipse annulaire du 2 octobre 2024 à 10°03′, est venue dix-neuf ans après celle du 3 octobre 2005 à 10°18′ ; la prochaine est l’éclipse lunaire totale du 14 avril 2033. Avant et après la Balance viennent la Vierge et le Scorpion, chacun avec sa propre liste ([Éclipse en Vierge](/astrology/eclipse-in-virgo/), [Éclipse en Scorpion](/astrology/eclipse-in-scorpio/)).
 
 ## Maison par maison {#maison-par-maison}
 

@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 7
 glyph: "●♎"
-definition: "Libra’s eclipses are the solar eclipses that fall while the Sun is in Libra and the lunar ones in which the full Moon is in Libra and the Sun in Aries. With eleven between 2000 and 2040, Libra has the fewest of any sign. I read one only within about three degrees of a natal point."
+definition: "Libra’s eclipses are the solar eclipses with the Sun in Libra and the lunar ones in which the full Moon is in Libra and the Sun in Aries. With eleven between 2000 and 2040, Libra has the fewest of any sign. In a reading, one matters only if it lands within about three degrees of a natal point."
 facts:
   - { k: "Sign", v: "Libra ♎, cardinal air, ruled by Venus" }
   - { k: "Axis", v: "Libra–Aries" }
@@ -32,7 +32,7 @@ Libra has the fewest eclipses of the twelve signs in my list: eleven between 200
 
 ## What it stirs {#what-it-stirs}
 
-[Libra](/astrology/libra/) is cardinal air, ruled by Venus: balance, fairness, the agreements people make with each other. Its eclipses fall on the Libra–Aries axis and take turns with those of Aries as the Moon’s nodes move. A [solar eclipse](/astrology/solar-eclipses/) in Libra brings the Sun and Moon together in the sign, as on 14 October 2023 at 21°07′, an annular eclipse almost on the degree of the partial one of 14 October 2004, at 21°06′; a [lunar eclipse](/astrology/lunar-eclipses/) puts the full Moon in Libra and the Sun in Aries, as it will on 14 April 2033.
+[Libra](/astrology/libra/) is cardinal air, ruled by Venus: balance, fairness, the agreements people make with each other. Its eclipses fall on the Libra–Aries axis and take turns with those of Aries as the Moon’s nodes move. On 14 October 2023 the Sun and Moon met in Libra for an annular [solar eclipse](/astrology/solar-eclipses/) at 21°07′, almost on the degree of the partial one of 14 October 2004, at 21°06′; on 14 April 2033 a [lunar eclipse](/astrology/lunar-eclipses/) will put the full Moon in Libra and the Sun in Aries.
 
 In a chart I apply the AGS rule: about three degrees from a natal planet, angle or node, at either end of the axis, read through that point and its house, with penumbral lunar eclipses, three of Libra’s eleven, counting for less. Natal nodes I read both ways, mean and true. The emphasis is symbolic, and an eclipse is never an omen.
 
@@ -43,7 +43,7 @@ Eleven from 2000 to 2040:
 - **2023–2024:** 14 October 2023, annular solar, 21°07′ · 25 March 2024, penumbral lunar, 5°13′ · 2 October 2024, annular solar, 10°03′
 - **2033–2034:** 14 April 2033, total lunar, 25°06′ · 23 September 2033, partial solar, 0°51′ · 3 April 2034, penumbral lunar, 13°59′
 
-The most recent, the annular eclipse of 2 October 2024 at 10°03′, came nineteen years after the one of 3 October 2005 at 10°18′; the next is the total lunar eclipse of 14 April 2033. The adjoining signs have their own pages ([Eclipse in Virgo](/astrology/eclipse-in-virgo/), [Eclipse in Scorpio](/astrology/eclipse-in-scorpio/)).
+The most recent, the annular eclipse of 2 October 2024 at 10°03′, came nineteen years after the one of 3 October 2005 at 10°18′; the next is the total lunar eclipse of 14 April 2033. Before and after Libra come Virgo and Scorpio, each with its own list ([Eclipse in Virgo](/astrology/eclipse-in-virgo/), [Eclipse in Scorpio](/astrology/eclipse-in-scorpio/)).
 
 ## House by house {#house-by-house}
 

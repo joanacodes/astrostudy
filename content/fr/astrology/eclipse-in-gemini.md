@@ -45,7 +45,7 @@ Seize entre 2000 et 2040 :
 - **2029–2031 :** 12 juin 2029, solaire partielle, 21°29′ · 20 décembre 2029, lunaire totale, 29°18′ · 1er juin 2030, solaire annulaire, 10°50′ · 9 décembre 2030, lunaire par la pénombre, 17°47′ · 21 mai 2031, solaire annulaire, 0°04′
 - **2038–2039 :** 11 décembre 2038, lunaire par la pénombre, 19°52′ · 30 novembre 2039, lunaire partielle, 8°22′
 
-La dernière a été l’éclipse annulaire du 10 juin 2021 ; la prochaine sera l’éclipse solaire partielle du 12 juin 2029. Plusieurs reviennent presque le même jour au bout de dix-neuf ans, presque au même degré : le 1er juin 2011 et le 1er juin 2030, le 21 décembre 2010 et le 20 décembre 2029. Les signes voisins ont leur propre page ([Éclipse en Taureau](/astrology/eclipse-in-taurus/), [Éclipse en Cancer](/astrology/eclipse-in-cancer/)).
+La dernière a été l’éclipse annulaire du 10 juin 2021 ; la prochaine sera l’éclipse solaire partielle du 12 juin 2029. Plusieurs reviennent presque le même jour au bout de dix-neuf ans, presque au même degré : le 1er juin 2011 et le 1er juin 2030, le 21 décembre 2010 et le 20 décembre 2029. Le Taureau et le Cancer, qui l’encadrent, ont chacun leur page ([Éclipse en Taureau](/astrology/eclipse-in-taurus/), [Éclipse en Cancer](/astrology/eclipse-in-cancer/)).
 
 ## Maison par maison {#maison-par-maison}
 

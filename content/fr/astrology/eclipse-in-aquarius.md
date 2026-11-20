@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 11
 glyph: "●♒"
-definition: "Le Verseau reçoit sa part d’éclipses sur l’axe Verseau–Lion : solaires, quand une nouvelle lune proche des nœuds rejoint le Soleil en Verseau, et lunaires, quand la pleine Lune en Verseau fait face à un Soleil en Lion. Quinze tombent de 2000 à 2040. Dans un thème, je n’en lis une qu’à environ trois degrés d’un point natal."
+definition: "Le Verseau reçoit sa part d’éclipses sur l’axe Verseau–Lion : solaires, quand une nouvelle lune proche des nœuds rejoint le Soleil en Verseau, et lunaires, quand la pleine Lune en Verseau fait face à un Soleil en Lion. Quinze tombent de 2000 à 2040. Je n’en tiens compte que si un point natal se trouve à environ trois degrés."
 facts:
   - { k: "Signe", v: "Verseau ♒, air fixe, gouverné par Uranus et Saturne" }
   - { k: "Axe", v: "Verseau–Lion" }
@@ -33,11 +33,11 @@ De 2026 à 2028, le Verseau reçoit trois éclipses solaires annulaires d’affi
 
 ## Ce qu’elle remue {#ce-qu-elle-remue}
 
-Le [Verseau](/astrology/aquarius/) est un signe d’air fixe à deux maîtres, que je lis côte à côte : Saturne pour la tradition, Uranus pour l’astrologie tropicale moderne. C’est le signe de l’amitié, des idées et du cercle élargi, et ses éclipses se placent sur l’axe Verseau–Lion, le groupe et la personne, en alternance avec celles du Lion au fil des nœuds. Une [éclipse solaire](/astrology/solar-eclipses/) en Verseau y réunit le Soleil et la Lune, comme le 6 février 2027 à 17°37′ ; une [éclipse lunaire](/astrology/lunar-eclipses/) met la pleine Lune en Verseau et le Soleil en Lion, comme le 7 août 2036 à 15°13′.
+Le [Verseau](/astrology/aquarius/) est un signe d’air fixe à deux maîtres, que je lis côte à côte : Saturne pour la tradition, Uranus pour l’astrologie tropicale moderne. C’est le signe de l’amitié, des idées et du cercle élargi, et ses éclipses se placent sur l’axe Verseau–Lion, le groupe et la personne, en alternance avec celles du Lion au fil des nœuds. Le Verseau a connu une [éclipse solaire](/astrology/solar-eclipses/) le 17 février 2026 et en connaîtra une autre le 6 février 2027, à 17°37′ ; sa prochaine [éclipse lunaire](/astrology/lunar-eclipses/) totale, le 7 août 2036 à 15°13′, place ici la pleine Lune et le Soleil en Lion.
 
-Que cela vous atteigne ou non dépend de la règle AGS que je suis : une éclipse compte à environ trois degrés d’une planète, d’un angle ou d’un nœud natal, à l’un ou l’autre bout de son axe, à travers ce point et sa maison, et une éclipse lunaire par la pénombre pèse moins. Les nœuds, je les lis en moyen et en vrai. C’est un accent, jamais un présage.
+Que cela vous atteigne ou non dépend de la règle AGS que je suis : une éclipse compte à environ trois degrés d’une planète, d’un angle ou d’un nœud natal, à l’un ou l’autre bout de son axe, à travers ce point et sa maison, et une éclipse lunaire par la pénombre pèse moins. Les nœuds, je les lis en moyen et en vrai. Elle apporte un accent ; elle n’est jamais un présage.
 
-Quinze de 2000 à 2040 :
+Les quinze du Verseau, dans l’ordre :
 
 - **2000 :** 5 février 2000, solaire partielle, 16°01′
 - **2008–2009 :** 7 février 2008, solaire annulaire, 17°44′ · 16 août 2008, lunaire partielle, 24°17′ · 26 janvier 2009, solaire annulaire, 6°29′ · 6 août 2009, lunaire par la pénombre, 13°35′
@@ -45,7 +45,7 @@ Quinze de 2000 à 2040 :
 - **2026–2028 :** 17 février 2026, solaire annulaire, 28°50′ · 6 février 2027, solaire annulaire, 17°37′ · 17 août 2027, lunaire par la pénombre, 24°04′ · 26 janvier 2028, solaire annulaire, 6°10′
 - **2035–2037 :** 19 août 2035, lunaire partielle, 26°00′ · 7 août 2036, lunaire totale, 15°13′ · 27 juillet 2037, lunaire partielle, 4°26′
 
-Dix-neuf ans séparent des paires comme le 26 janvier 2009 et le 26 janvier 2028, ou le 27 juillet 2018 et le 27 juillet 2037, chaque fois à moins d’un demi-degré. Les signes voisins, le Capricorne et les Poissons, ont leur propre page ([Éclipse en Capricorne](/astrology/eclipse-in-capricorn/), [Éclipse en Poissons](/astrology/eclipse-in-pisces/)).
+Dix-neuf ans séparent des paires comme le 26 janvier 2009 et le 26 janvier 2028, ou le 27 juillet 2018 et le 27 juillet 2037, chaque fois à moins d’un demi-degré. Le Capricorne et les Poissons, de chaque côté, sont traités sur leurs propres pages ([Éclipse en Capricorne](/astrology/eclipse-in-capricorn/), [Éclipse en Poissons](/astrology/eclipse-in-pisces/)).
 
 ## Maison par maison {#maison-par-maison}
 

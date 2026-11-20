@@ -39,9 +39,9 @@ Dans la règle que je suis, tirée de la bibliothèque AGS, une éclipse ne comp
 
 Les quatorze, de 2000 à 2040 :
 
-- **2004–2006 :** 19 avril 2004, solaire partielle, 29°49′ · 8 avril 2005, solaire totale, 19°06′ · 17 octobre 2005, lunaire partielle, 24°07′ · 29 mars 2006, solaire totale, 8°34′
+- **2004–2006 :** 19 avril 2004, solaire partielle, 29°49′ · 8 avril 2005, solaire hybride, 19°06′ · 17 octobre 2005, lunaire partielle, 24°07′ · 29 mars 2006, solaire totale, 8°34′
 - **2013–2015 :** 18 octobre 2013, lunaire par la pénombre, 25°51′ · 8 octobre 2014, lunaire totale, 15°07′ · 28 septembre 2015, lunaire totale, 4°38′
-- **2023–2025 :** 20 avril 2023, solaire totale, 29°50′ · 8 avril 2024, solaire totale, 19°23′ · 29 mars 2025, solaire partielle, 8°59′
+- **2023–2025 :** 20 avril 2023, solaire hybride, 29°50′ · 8 avril 2024, solaire totale, 19°23′ · 29 mars 2025, solaire partielle, 8°59′
 - **2032–2034 :** 18 octobre 2032, lunaire totale, 25°59′ · 30 mars 2033, solaire totale, 10°20′ · 8 octobre 2033, lunaire totale, 15°27′ · 28 septembre 2034, lunaire partielle, 4°58′
 
 La plus récente a été l’éclipse solaire partielle du 29 mars 2025 ; la prochaine est l’éclipse lunaire totale du 18 octobre 2032. Remarquez les paires à dix-neuf ans d’écart, 2004 et 2023, 2006 et 2025, 2013 et 2032 : la même date à un jour près, le même degré à une fraction près. De part et d’autre, les éclipses tombent en Poissons et en Taureau ([Éclipse en Poissons](/astrology/eclipse-in-pisces/), [Éclipse en Taureau](/astrology/eclipse-in-taurus/)).

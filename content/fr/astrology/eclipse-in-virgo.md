@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 6
 glyph: "●♍"
-definition: "Les éclipses de la Vierge sont des nouvelles et des pleines lunes proches des nœuds, avec la Lune en Vierge : solaires, le Soleil à ses côtés ; lunaires, le Soleil de l’autre côté du zodiaque, en Poissons. On en compte quatorze entre 2000 et 2040. Je n’en lis une qu’à environ trois degrés d’un point natal, comme un accent."
+definition: "Les éclipses de la Vierge sont des nouvelles et des pleines lunes proches des nœuds, avec la Lune en Vierge : solaires, le Soleil à ses côtés ; lunaires, le Soleil en face, en Poissons. Quatorze tombent de 2000 à 2040. L’une d’elles ne parle à un thème que si elle tombe à environ trois degrés d’un point natal."
 facts:
   - { k: "Signe", v: "Vierge ♍, terre mutable, gouvernée par Mercure" }
   - { k: "Axe", v: "Vierge–Poissons" }
@@ -50,7 +50,7 @@ Plusieurs se répondent à dix-neuf ans d’écart : le 21 février 2008 et le 
 
 La maison qui reçoit une éclipse en Vierge dans votre thème dépend de [votre heure de naissance](/blog/unknown-birth-time/) : les cuspides se déplacent toutes les quelques minutes, et sans l’heure je ne lis pas le thème. En Placidus, mon système de maisons, une ligne ne compte que si une éclipse en Vierge rencontre un point natal dans la maison ; le bout Poissons de l’axe tombe dans la maison opposée.
 
-1. **[Maison I](/astrology/virgo-rising/) :** l’ascendant Vierge : votre manière soigneuse et capable ; la façon de présenter votre travail, repensée.
+1. **[Maison I](/astrology/virgo-rising/) :** l’ascendant Vierge : une première impression posée et précise ; la façon de montrer ce que vous savez faire, reconsidérée.
 2. **[Maison II](/astrology/virgo-on-2nd-house-cusp/) :** des valeurs concrètes ; ce que vous faites de vos savoir-faire, et ce qu’ils valent à vos yeux.
 3. **[Maison III](/astrology/virgo-on-3rd-house-cusp/) :** des mots précis et l’apprentissage de tous les jours ; un fait vérifié, un message corrigé.
 4. **[Maison IV](/astrology/virgo-on-4th-house-cusp/) :** un foyer en ordre ; les routines qui tiennent une maisonnée.
