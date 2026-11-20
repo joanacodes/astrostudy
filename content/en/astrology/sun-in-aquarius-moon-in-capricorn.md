@@ -1,13 +1,13 @@
 ---
 title: "Sun in Aquarius, Moon in Capricorn"
 h1: "Sun in Aquarius, Moon in Capricorn in a birth chart"
-description: "Sun in Aquarius, Moon in Capricorn: the only pair with both lights in detriment, Saturn behind each, born in the balsamic days before a new moon."
+description: "Sun in Aquarius, Moon in Capricorn: no other pair puts both lights in detriment. Saturn stands behind each, in the balsamic days before a new moon."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 130
 glyph: "☉♒☽♑"
-definition: "Sun in Aquarius, Moon in Capricorn places the Moon one sign behind the Sun, in the last days before a new moon. Both lights are in their detriment, and Saturn rules both signs in the tradition. I see a self given to the future of people in general, with needs that settle once responsibilities are clear."
+definition: "Sun in Aquarius, Moon in Capricorn places the Moon a sign behind the Sun, within the five days before a new moon. Both lights are in their detriment, and Saturn rules both signs in the tradition. I see a self devoted to a better future for many people, whose needs settle once the responsibilities are clear."
 facts:
   - { k: "Sun sign", v: "Aquarius ♒, ruled by Uranus and Saturn; the Sun’s detriment" }
   - { k: "Moon sign", v: "Capricorn ♑, ruled by Saturn; the Moon’s detriment" }
@@ -18,11 +18,11 @@ facts:
 related: ["/astrology/sun-in-aquarius", "/astrology/moon-in-capricorn", "/astrology/detriment", "/astrology/balsamic-moon", "/astrology/saturn"]
 faq:
   - q: "Is it bad to have both the Sun and the Moon in detriment?"
-    a: "No. Tradition calls Aquarius the Sun’s detriment and Capricorn the Moon’s, and this is the only pair with both, but a detriment describes a sign that asks a light to work against its grain, not a flaw. I read a self and a heart that prefer structure and reliability to display, and are often more dependable for it."
+    a: "No. Aquarius is the Sun’s detriment and Capricorn the Moon’s, by the old rules, and no other pair has both; but a detriment describes a sign that asks a light to work against its grain, not a flaw. I read a self and a heart that prefer structure and reliability to display, and are often more dependable for it."
   - q: "Does Saturn rule both an Aquarius Sun and a Capricorn Moon?"
     a: "Yes, in the tradition: Saturn rules Capricorn and Aquarius alike, so one planet stands behind both lights. Uranus, the modern ruler of Aquarius, adds a second voice to the Sun, and I read both. Saturn’s sign, house and aspects matter more here than in most charts."
   - q: "Was an Aquarius Sun, Capricorn Moon born before a new moon?"
-    a: "Yes, in the last days of the lunar month: the Moon was 300° to 359° ahead of the Sun, within about five days of the next new moon. The balsamic phase, last of the eight, holds seven in eight of these births, and the last quarter phase has the others."
+    a: "Yes, at the very end of the lunar month, with the Moon 300° to 359° from the Sun and the next new moon about five days away at most. Seven in eight of these births are balsamic, the last of the eight phases; the others belong to the last quarter."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the domiciles of the Sun and Moon in Leo and Cancer, opposite Aquarius and Capricorn, and Saturn’s rule of both signs" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s distance from the Sun" }
@@ -34,9 +34,9 @@ Both of your lights stand where tradition finds them least at home: the Sun in A
 
 Capricorn sits one sign behind Aquarius: neighbours, cardinal earth beside fixed air, with nothing in common but a ruler. The [Sun in Aquarius](/astrology/sun-in-aquarius/) gives itself to a better arrangement for people in general, worked out with friends and argued over; the [Moon in Capricorn](/astrology/moon-in-capricorn/) relaxes once its responsibilities are clear and the plan is in place, and shows care by carrying weight. You may be the one who imagines how the organisation could change and also the one who stays late making sure it still runs on Monday.
 
-The Sun's [detriment](/astrology/detriment/) is Aquarius, opposite Leo; the Moon's is Capricorn, opposite Cancer. I read the pair as a self and a set of needs that both prefer structure to spontaneity, and show warmth through reliability rather than display. [Saturn](/astrology/saturn/) rules Capricorn and, in the tradition, Aquarius, so one planet stands behind both lights; Aquarius also has [Uranus](/astrology/uranus/), its modern ruler, and I read both, Uranus for where you insist on change and Saturn for where you build. Of everything I tested in [my notebook](/blog/i-tested-my-birth-chart/), Saturn was among the placements that proved right most often, one of [the three that held](/blog/saturn-chiron-lilith/) 75 to 90% of the time when the list as a whole managed about a third; with Saturn behind both of your lights, its house is the first thing I'd turn to.
+The Sun's [detriment](/astrology/detriment/) is Aquarius, opposite Leo; the Moon's is Capricorn, opposite Cancer. In this pair I read a self and a set of needs that both prefer structure to spontaneity, and show warmth through reliability rather than display. [Saturn](/astrology/saturn/) rules Capricorn and, in the tradition, Aquarius, so one planet stands behind both lights; Aquarius also answers to [Uranus](/astrology/uranus/), the modern ruler; I read both, Uranus for where you insist on change and Saturn for where you build. Saturn proved right more often than almost anything else I tested in [my notebook](/blog/i-tested-my-birth-chart/): alongside Chiron and Lilith, [the three that held](/blog/saturn-chiron-lilith/), it was borne out 75 to 90% of the time, against about a third for the whole list. With Saturn behind both of your lights, its house is the first thing I'd turn to.
 
-The Moon was 300° to 359° on from the Sun, in the last five days or so before a new moon. The [balsamic moon](/astrology/balsamic-moon/) phase takes almost all of these births, seven in eight, and the [last quarter moon](/astrology/last-quarter-moon/) phase the earliest; the new moon that followed was usually a [new moon in Aquarius](/astrology/new-moon-in-aquarius/). I read the balsamic phase as a feel for endings: finishing what others leave half-done, clearing the ground before something starts. Under two Saturn signs it tends to look like a quiet, thorough sense of closure. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) explains the last of the eight phases.
+The Moon was 300° to 359° on from the Sun, in the last five days or so before a new moon. The [balsamic moon](/astrology/balsamic-moon/) phase takes almost all of these births, seven in eight, and the [last quarter moon](/astrology/last-quarter-moon/) phase the earliest; and the coming new moon was usually a [new moon in Aquarius](/astrology/new-moon-in-aquarius/). The balsamic phase, to me, is a feel for endings: finishing what others leave half-done, clearing the ground before something starts. Under two Saturn signs it tends to look like a quiet, thorough sense of closure. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) explains the last of the eight phases.
 
 The count finds this double detriment in about 1 person in 151. The Moon arrives in Capricorn from Sagittarius and leaves it for Aquarius within about two and a half days, and on either crossing day the [Sun in Aquarius, Moon in Sagittarius](/astrology/sun-in-aquarius-moon-in-sagittarius/) and the [Sun in Aquarius, Moon in Aquarius](/astrology/sun-in-aquarius-moon-in-aquarius/) stay possible until the birth time is found ([the Moon, the one to check](/blog/unknown-birth-time/#the-moon)). The hour also gives Saturn its house, and here that house speaks for both lights.
 
