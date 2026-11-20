@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 149
 glyph: "☊"
-definition: "Their North Node in your 5th house brings the other person’s direction of growth into your pleasures, creative projects and romance, and puts their South Node in your 11th. Beside you they practise play and being seen as themselves; slipping into your circle of friends, by contrast, takes them no effort at all."
+definition: "Their North Node in your 5th house is the other person’s growth meeting your pleasures, creative projects and romance, with their South Node away in your 11th. Beside you they practise play and being seen as themselves; slipping into your circle of friends, by contrast, takes them no effort at all."
 facts:
   - { k: "Their body", v: "Their North Node ☊, mean and true" }
   - { k: "Your house", v: "The 5th house: play, creativity, romance" }
@@ -20,9 +20,9 @@ faq:
   - q: "What does their North Node in my 5th house mean?"
     a: "Play is the lesson, and your pleasures are the classroom. Creating, flirting and enjoying themselves without a reason is what they practise around you, often clumsily at first. Their South Node falls in your 11th, so slipping into your group of friends is the part that comes naturally to them."
   - q: "Is their North Node in my 5th house a sign of romance?"
-    a: "It can colour a romance, because the 5th includes falling in love, but friends, colleagues and relatives feel it too, as shared fun and creativity. It describes what they are learning around your pleasures, not whether the two of you will fall for each other. That depends on both whole charts, and on you."
+    a: "It can colour a romance, because the 5th includes falling in love, but friends, colleagues and relatives feel it too, as shared fun and creativity. It describes what they are learning around your pleasures, not whether the two of you will fall for each other. That rests on far more than one overlay, and on the two of you."
   - q: "Does their North Node in my 5th house mean we will have children together?"
-    a: "No. Tradition gave the 5th children, but no chart can say whether or when anyone will have a child, and I never read it that way, in synastry or anywhere else. What this overlay describes is play, pleasure and creativity between two adults, and what each of you learns there."
+    a: "No. Children belonged to the 5th in the old books, yet nothing in two charts can tell anyone whether a child will come, or when, and I don’t read for it. This overlay is about two adults at play: what one of them is learning, and what the other feels as they learn it."
 sources:
   - { title: "Vettius Valens, Anthology", note: "the 5th and 11th houses, Good Fortune and Good Spirit" }
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Leo, the Sun’s sign" }
@@ -40,7 +40,7 @@ For them, being seen as themselves and making something that is theirs is the un
 
 ## Where it rubs {#where-it-rubs}
 
-Their [South Node](/astrology/south-node/) in [the 11th house](/astrology/11th-house/) makes your friends and groups their easy ground. They may fit into your circle within a week, and on the evening you hoped would be just the two of you, they invite everyone. Belonging to the group is habit; being singled out, by you or by their own creativity, is the stretch.
+Your friends and groups, where their [South Node](/astrology/south-node/) falls in [the 11th house](/astrology/11th-house/), are ground they cross without thinking. They may fit into your circle within a week, and on the evening you hoped would be just the two of you, they invite everyone. Belonging to the group is habit; being singled out, by you or by their own creativity, is the stretch.
 
 From their side, your 5th can feel like a stage they're not sure they're allowed on. They may hang back, turn it into a joke, or hide in organising, the comfortable role the 11th gives them.
 
@@ -50,6 +50,6 @@ Tradition gave the 5th children. Neither end of this overlay says anything about
 
 Make room for fun that isn't a group activity. In a couple, plan dates that are only yours and let them choose some; between friends, make something together, badly, and enjoy it; between colleagues, the creative side of a project may be where they surprise you; between adult relatives, a shared hobby can mean more than another family gathering.
 
-Seen from their chart, the same contact is your North Node in their 5th house, so their pleasures would become your lesson. The neighbouring houses read differently: [their North Node in your 4th house](/astrology/north-node-in-4th-house-synastry/) learns belonging in your home, [their North Node in your 6th house](/astrology/north-node-in-6th-house-synastry/) routine in your working day.
+Put the node in your chart and the house in theirs, and you'd be the one learning to play among their pleasures: your North Node in their 5th house. A house earlier, [their North Node in your 4th house](/astrology/north-node-in-4th-house-synastry/) learns belonging at your table; a house later, [their North Node in your 6th house](/astrology/north-node-in-6th-house-synastry/) learns routine from your working week.
 
-Their node is shared by everyone born in the same year and a half or so, which is one reason I never treat it as a verdict on their capacity for joy; their birth date places it, and your houses make it this pair's. Those houses need your birth time: in Placidus, the house system I use, a few minutes either way move the cusps of your 5th ([what changes without a birth time](/blog/unknown-birth-time/)). If their node sits close to the cusp your 5th shares with your 4th, the mean node and the true node can split between your home and your playground; I look at both, and wait for both birth times before reading the pair. Romance and play are personal, so this reading waits for both people's yes ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Their node is shared by everyone born in the same year and a half or so, which is one reason I never treat it as a verdict on their capacity for joy; their birth date places it, and your houses make it this pair's. Those houses need your birth time: in Placidus, the house system I use, a few minutes either way move the cusps of your 5th ([what changes without a birth time](/blog/unknown-birth-time/)). If their node sits close to the cusp your 5th shares with your 4th, the mean node and the true node can split between your home and your playground; I look at both, and wait for both birth times before reading the pair. Flirting and play belong to the people doing them, so I read this only when both of you have asked for it, birth times included ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).

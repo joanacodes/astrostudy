@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 147
 glyph: "☊"
-definition: "Their North Node in your 3rd house is the other person’s direction of growth landing in your near world: daily talk, errands, siblings, first lessons. Their South Node sits across, in your 9th. Between you, everyday questions become their practice and big pronouncements their habit, and each of you feels that difference from your own side."
+definition: "Their North Node in your 3rd house is the other person’s direction of growth landing in your near world, daily talk, errands, siblings, first lessons, while their South Node sits far off in your 9th. Between you, everyday questions become their practice and big pronouncements their habit, and each of you feels that difference from your own side."
 facts:
   - { k: "Their body", v: "Their North Node ☊, mean and true" }
   - { k: "Your house", v: "The 3rd house: daily talk, errands, the near world" }
@@ -36,7 +36,7 @@ This one lives in questions. The other person's North Node falls in your 3rd hou
 
 For you, they may become a person of many questions: how your sister is, what that word means, which way you walk to work. After people who only want the big story, their interest in your daily round can be a relief, and ordinary news, told to them, starts to sound worth telling.
 
-For them, your near world is a school. Listening, asking and staying open, rather than arriving with the answer, is the direction their chart points in, and your talk gives them endless practice. The 3rd is cadent, a house of adjusting and passing things on; its natural sign is [Gemini](/astrology/gemini/), and tradition called it the Goddess, where the Moon has its joy. Since the nodes are the two points where the Moon's path crosses the Sun's, there's a neatness here: their North Node falls in the Moon's house of joy and their South Node in the 9th, the God, where the Sun rejoices.
+To them, your near world works like a school. Listening, asking and staying open, rather than arriving with the answer, is the direction their chart points in, and your talk gives them endless practice. Tradition named the 3rd the Goddess and gave the Moon its joy here; it is a cadent house, with Mercury's sign, [Gemini](/astrology/gemini/), as its natural sign. Since the nodes are the two points where the Moon's path crosses the Sun's, there's a neatness here: their North Node falls in the Moon's house of joy and their South Node in the 9th, the God, where the Sun rejoices.
 
 ## Where it rubs {#where-it-rubs}
 
@@ -52,4 +52,4 @@ Ask each other ordinary questions and answer them properly. In a couple, the wal
 
 From your side of the chart, this would be your North Node in their 3rd house, with their daily conversation as your practice ground. The overlays either side read differently: [their North Node in your 2nd house](/astrology/north-node-in-2nd-house-synastry/) learns from how you value things, [their North Node in your 4th house](/astrology/north-node-in-4th-house-synastry/) from your home.
 
-Your birth time draws your 3rd house, and in Placidus, the house system I use, the house closes at your IC, which turns with the sky as the Ascendant does ([what changes without a birth time](/blog/unknown-birth-time/)). Their node stays about 18 months in a sign, so their birth date places it, yet near the IC the mean node and the true node can disagree about whether they're learning in your street or at your kitchen table; I look at both. The questions they ask run both ways, and so do the overlays: where your own node falls among their houses depends on their time, so I read the two only with both. Everyday closeness is still closeness, and it's read only when you both know ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
+Your birth time draws your 3rd house, and in Placidus, the house system I use, the house closes at your IC, which turns with the sky as the Ascendant does ([what changes without a birth time](/blog/unknown-birth-time/)). Their node stays about 18 months in a sign, so their birth date places it, yet near the IC the mean node and the true node can disagree about whether they're learning in your street or at your kitchen table; I look at both. The questions they ask run both ways, and so do the overlays: where your own node falls among their houses depends on their time, so I read the two only with both. Everyday closeness is still closeness, and I don't read it for one person without the other's knowledge ([why I won't read a synastry behind someone's back](/blog/synastry-behind-their-back/)).
