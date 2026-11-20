@@ -24,7 +24,7 @@ faq:
   - q: "Why did the 2007 and 2015 retrogrades start in Virgo?"
     a: "Because each return of this series lands about 2° lower in the zodiac. In 2007 Venus stationed at 2°57′ Virgo and in 2015 at 0°46′ Virgo, both then backing into Leo; by 2023 the station had slipped to 28°36′ Leo, so the whole retrograde now falls inside Leo."
   - q: "How long is Venus retrograde in Leo?"
-    a: "About 43 days from station to station, with an arc of about 16½° of the zodiac. With the summer series, that’s among the longest of Venus’s retrogrades in my list, by a day or two; the meaning doesn’t depend on the difference."
+    a: "About 43 days from station to station, with an arc of about 16½° of the zodiac. Along with the May series in Gemini, these are the longest of Venus’s retrogrades in my list, by a day or two; the meaning doesn’t depend on the difference."
 sources:
   - { title: "The Astro Study’s dates from the planets’ positions", note: "Venus’s five summer retrogrades ending in Leo, 2000–2040, with their stations" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "Venus’s stations and its inferior conjunctions with the Sun" }

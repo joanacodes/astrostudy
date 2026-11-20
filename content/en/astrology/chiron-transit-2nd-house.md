@@ -48,6 +48,6 @@ If the sign on your 2nd cusp is Aries, the stay may be under way: Chiron is in A
 
 Write down what you charge, or would charge, for your time, and ask whose voice set that number. Chiron in the 2nd rewards noticing where an old belief is doing the pricing.
 
-Keep one thing you own simply because you love it. This stay is as much about permission as it is about security.
+Keep one thing you own simply because you love it. This stay is as much about permission as it is about security. And when someone values your work highly, let the compliment land before you argue with it.
 
 Talk about money with someone you trust, plainly. Shame grows in silence, and this transit gives you time to make the subject easier.

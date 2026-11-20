@@ -8,7 +8,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 62
 glyph: "⚷"
-definition: "Chiron en transit en maison 2, c’est le séjour de Chiron, près de trois ans en général à la latitude de Londres, dans votre maison des ressources et de la valeur personnelle. Il touche une vieille blessure liée à la valeur : ce que vous pensez mériter, ce que vous demandez, ce que vous possédez. Il ne prédit ni gain ni perte."
+definition: "Chiron en transit en maison 2, c’est le séjour de Chiron, près de trois ans à la latitude de Londres, dans votre maison des ressources et de la valeur personnelle. Il touche une vieille blessure liée à la valeur : ce que vous pensez mériter, ce que vous demandez, ce que vous possédez. Il ne prédit ni gain ni perte."
 facts:
   - { k: "Corps", v: "Chiron ⚷, le guérisseur blessé : une vieille blessure et ce qu’elle enseigne" }
   - { k: "Maison", v: "La maison 2 : ce que vous avez et ce qui compte pour vous (succédente)" }
@@ -49,6 +49,6 @@ Si le signe sur la cuspide de votre maison 2 est le Bélier, le séjour est peut
 
 Noter ce que vous demandez, ou demanderiez, pour votre temps, et vous demander quelle voix a fixé ce chiffre. Chiron en maison 2 récompense le fait de repérer où une vieille croyance fixe les prix.
 
-Garder un objet simplement parce que vous l’aimez. Ce séjour parle autant de permission que de sécurité.
+Garder un objet simplement parce que vous l’aimez. Ce séjour parle autant de permission que de sécurité. Et quand quelqu’un estime votre travail, laisser le compliment arriver avant de le discuter.
 
 Parler d’argent, simplement, avec une personne de confiance. La honte grandit dans le silence, et ce transit vous laisse le temps de rendre le sujet plus facile.
