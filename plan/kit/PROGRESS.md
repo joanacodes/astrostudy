@@ -13,12 +13,12 @@ until 3:50 am Paris Friday 20th November" (= 02:50 UTC).
 - Dark mode: agent aaf1d65d39460ffb0 (commits its own files on the branch with [skip ci]).
 
 ## Running (agent ids, for SendMessage after a container restart)
-- overlay[6] a76272b9f8018ea56 · sunmoon[5] a144dd7551aaea9c7 · transit[3] aae23891027616861 · transit[1] a795db51273c912d3
+- overlay[6] a76272b9f8018ea56 · sunmoon[5] a144dd7551aaea9c7 · transit[2] af2d3c3aae0e29205 (stops 02:38) · transit[1] a795db51273c912d3
 - overlay[4] a9f3825b0211a6b0b · cycles[1] aca101aad54363d35
-- cycles[2] acb9a7b1f7e03ff07 · overlay[5] ab899a66c2c276479
-- done since restart: dark mode (4fdde73, 90b6ec6, 0f17d53) · syn[4] leftovers + syn[11] (4d6c424) · syn[8] (in WIP commits) · syn[10] (2707169) · overlay[0] (36d02aa) · syn[7] (1dabb0b) · syn[9] (50d2eaa) · sunmoon[0] leftovers + sunmoon[1] (5bf0895) · syn[13] (b529af0) · syn[15] (in WIP commits) · sunmoon[2] (bcf9d8a) · syn[12] (8790fcd) · overlay[1] (in WIP commits) · overlay[2] (3078909) · syn[14] (6adbed9): every synastry batch done · transit[0] (6cdd612) · cycles[0] (in WIP commits) · t2patterns (3d7dc58) · sunmoon[4] (30a02f5) · overlay[3] (c7c1814) · sunmoon[3] (6c30c0c) · Saturn house stay 'about three years' on the house pages (ccea722) · moon.md birth-time fix (37600e8)
+- cycles[2] acb9a7b1f7e03ff07 (stops 02:38; Aries–Cancer done in 0bbb927) · overlay[5] ab899a66c2c276479
+- done since restart: dark mode (4fdde73, 90b6ec6, 0f17d53) · syn[4] leftovers + syn[11] (4d6c424) · syn[8] (in WIP commits) · syn[10] (2707169) · overlay[0] (36d02aa) · syn[7] (1dabb0b) · syn[9] (50d2eaa) · sunmoon[0] leftovers + sunmoon[1] (5bf0895) · syn[13] (b529af0) · syn[15] (in WIP commits) · sunmoon[2] (bcf9d8a) · syn[12] (8790fcd) · overlay[1] (in WIP commits) · overlay[2] (3078909) · syn[14] (6adbed9): every synastry batch done · transit[0] (6cdd612) · cycles[0] (in WIP commits) · t2patterns (3d7dc58) · sunmoon[4] (30a02f5) · overlay[3] (c7c1814) · sunmoon[3] (6c30c0c) · transit[3] (70fe27b) · Saturn house stay 'about three years' on the house pages (ccea722) · moon.md birth-time fix (37600e8)
 - on main: 46e7daf (dark mode + 270 pages), deployed 23:03 UTC
-- next: transit[2], t2concepts[0..4], t2tech, t2research[0..2], t2asteroids, stars, then tier 3
+- next: t2concepts[0..4], t2tech, t2research[0..2], t2asteroids, stars, then tier 3
 
 ## Data to check
 - plan/retrograde-facts.json files the 2040 Mercury retrograde under Gemini (both stations in Cancer, 9°32′ to 0°31′) and the 2015 one under Virgo (both in Libra, 15°55′ to 0°53′). The sign pages describe them by their stations.
