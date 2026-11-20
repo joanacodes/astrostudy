@@ -50,6 +50,6 @@ The months Saturn enters each sign are enough to find yours: Aries in February 2
 
 Rebuild one routine at a time, starting with the one that holds the others up. The 6th under Saturn suits the slow, boring fix better than the dramatic overhaul.
 
-Give some tasks away. Saturn finds it hard to delegate, and a 6th house full of jobs only you can do is a structure that can't bend.
+Give some tasks away. Delegation isn't Saturn's strength, and a 6th house full of jobs only you can do is a structure that can't bend.
 
 Put rest inside the routine, not at the end of it. Maintenance includes yours, and a schedule with no slack in it isn't discipline, it's brittleness.

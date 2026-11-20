@@ -20,7 +20,7 @@ faq:
   - q: "Do a Sagittarius Sun and a Pisces Moon share a ruler?"
     a: "In the traditional scheme, yes: Jupiter rules both Sagittarius and Pisces. Modern astrologers give Pisces to Neptune, and I read both. With Jupiter speaking for both lights, I look at its sign and house early, since they show where your purpose and your need for meaning meet in practice."
   - q: "Is a Sagittarius Sun with a Pisces Moon idealistic?"
-    a: "Often, and generously so. The Sagittarius Sun believes in something larger and wants to go and find it; the Pisces Moon feels other people’s lives almost as its own. Both signs are mutable and three apart, a square by sign, so the ideals need a form: a practice, a routine, a person who keeps the calendar."
+    a: "Often, and generously so. The Sagittarius Sun believes in something larger and wants to go and find it; the Pisces Moon feels other people’s lives almost as its own. Two mutable signs three apart make a square by sign, so the ideals need a form: a practice, a routine, a person who keeps the calendar."
   - q: "Was a Sun in Sagittarius, Moon in Pisces birth near a half moon?"
     a: "Close to one. The Moon was 61° to 119° ahead of the Sun, five to ten days after the new moon. These births split almost evenly between the crescent and the first quarter phases of the eight, and at 90°, the evening half moon, the waxing square between the lights is exact."
 sources:
@@ -38,7 +38,7 @@ Here the rulers nearly coincide. [Jupiter](/astrology/jupiter/) rules Sagittariu
 
 You were born in the neighbourhood of the first quarter. The Moon had moved 61° to 119° ahead of the Sun, five to ten days after the new moon, and set late in the evening. These births divide almost evenly between the [waxing crescent](/astrology/waxing-crescent/) and the [first quarter moon](/astrology/first-quarter-moon/) as eight phases count them, and close to 90° the square is exact, a waxing [Sun square Moon](/astrology/sun-square-moon/). I read a first quarter birth as a time when a feeling has to become an action; for a Pisces Moon, that often means compassion that wants a job. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) explains the turn at 90°.
 
-About 1 person in 147 is born with this pair. On a day when the Moon moved from Aquarius into Pisces, or from Pisces into Aries, only the time can say whether this page is yours, or the [Sun in Sagittarius, Moon in Aquarius](/astrology/sun-in-sagittarius-moon-in-aquarius/), or the [Sun in Sagittarius, Moon in Aries](/astrology/sun-in-sagittarius-moon-in-aries/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)); near the quarter it settles your phase too. With the rising sign, from the same time, the lights give a first sketch, and nothing more.
+About 1 person in 147 is born with this pair. On a day when the Moon moved from Aquarius into Pisces, or from Pisces into Aries, the hour decides whether this page is yours, or the [Sun in Sagittarius, Moon in Aquarius](/astrology/sun-in-sagittarius-moon-in-aquarius/), or the [Sun in Sagittarius, Moon in Aries](/astrology/sun-in-sagittarius-moon-in-aries/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)); near the quarter it settles your phase too. With the rising sign, from the same time, the lights give a first sketch, and nothing more.
 
 ## In close relationships {#in-close-relationships}
 

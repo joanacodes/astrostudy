@@ -1,13 +1,13 @@
 ---
 title: "Sun in Sagittarius, Moon in Libra"
 h1: "Sun in Sagittarius, Moon in Libra in a birth chart"
-description: "Sun in Sagittarius, Moon in Libra: fire and air in a sextile by sign, Jupiter and Venus as rulers, born near the last quarter. Candour that wants to be fair."
+description: "Sun in Sagittarius, Moon in Libra: a sextile by sign with Jupiter and Venus as rulers, born near the last quarter. Candour that wants to be fair."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "combinations"
 weight: 103
 glyph: "☉♐☽♎"
-definition: "Sun in Sagittarius, Moon in Libra joins mutable fire and cardinal air in a sextile by sign, at a birth around the last quarter, some three weeks after a new moon. Jupiter rules the Sun’s sign and Venus the Moon’s. I read it as candour that wants to be fair: the truth, said so that the friendship survives it."
+definition: "Sun in Sagittarius, Moon in Libra puts the Moon two signs behind the Sun, a sextile by sign between mutable fire and cardinal air, at a birth near the last quarter. Jupiter rules the Sun’s sign and Venus the Moon’s. I read it as candour that wants to be fair: the truth, said so that the friendship survives it."
 facts:
   - { k: "Sun sign", v: "Sagittarius ♐, ruled by Jupiter" }
   - { k: "Moon sign", v: "Libra ♎, ruled by Venus" }
@@ -22,13 +22,13 @@ faq:
   - q: "Is a Sagittarius Sun with a Libra Moon blunt or diplomatic?"
     a: "Both, and the order matters. The Sun’s first instinct is to say what it thinks; the Moon’s is to keep the bond even. Many people with the pair learn to say the true thing in a way the other person can hear, and are trusted for it. Under strain, the Moon may soften the truth until it disappears."
   - q: "What does the last quarter add to a Sun in Sagittarius, Moon in Libra birth?"
-    a: "The Moon was 272° to 329° ahead of the Sun, twenty-two to twenty-seven days after the new moon, just past the waning half moon. Most of these births, seven in eight, fall in the last quarter phase of the eight, the rest in the balsamic phase. I read a last quarter birth as a time for weighing what to keep."
+    a: "The Moon was 272° to 329° ahead of the Sun, twenty-two to twenty-seven days after the new moon, just past the waning half moon. Seven in eight fall in the last quarter phase of the eight, the rest in the balsamic phase. A last quarter birth, as I read it, is a time for weighing what to keep."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "the sextile, Jupiter’s rule of Sagittarius and Venus’s of Libra" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the Moon’s place in the month" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the last quarter and the waning crescent after it" }
 ---
-A Sagittarius Sun says what it believes; a Libra Moon needs the people it says it to. You were born just past the last quarter, with a half moon thinning in the morning sky, and the pair reads to me as candour that wants to be fair: the truth, said so that the friendship survives it.
+A Sagittarius Sun says what it believes; a Libra Moon needs the people it says it to. You were born just past the last quarter, with a half moon thinning in the morning sky. Call it candour that wants to be fair: the truth, said so that the friendship survives it.
 
 ## How they get along {#how-they-get-along}
 
@@ -36,13 +36,13 @@ Libra lies two signs before Sagittarius: a sextile by sign, air feeding fire, a 
 
 [Jupiter](/astrology/jupiter/) rules your Sun's sign and [Venus](/astrology/venus/) your Moon's: the planet that widens meaning and the planet that weighs value and affinity. Neither has a dignity in the other's sign, and the lights have none here either. In practice I look at Venus to see what restores this Moon, a fair exchange, something good to look at, a companion who listens, and at Jupiter to see where the Sun's search leads. When Venus and Jupiter aspect each other in the chart, the pair's breadth and its sense of proportion tend to work as one.
 
-Your birth fell in the last quarter of the lunar month. The Moon had moved 272° to 329° ahead of the Sun, 31° to 88° behind it, twenty-two to twenty-seven days after the new moon, and it rose in the small hours as a waning half moon or a crescent. Seven births in eight fall in the [last quarter moon](/astrology/last-quarter-moon/) as eight phases count it, the rest in the [balsamic moon](/astrology/balsamic-moon/), and near 300° the lights form a waning [Sun sextile Moon](/astrology/sun-sextile-moon/). I read this stretch of the month as weighing up, what was learnt, what is owed, what to carry into the next cycle, and a Libra Moon comes with the scales already in hand. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) places it.
+Your birth fell in the last quarter of the lunar month. The Moon had moved 272° to 329° ahead of the Sun, 31° to 88° behind it, twenty-two to twenty-seven days after the new moon, and it rose in the small hours as a waning half moon or a crescent. Seven births in eight fall in the [last quarter moon](/astrology/last-quarter-moon/) as eight phases count it, the rest in the [balsamic moon](/astrology/balsamic-moon/), and near 300° the waning [Sun sextile Moon](/astrology/sun-sextile-moon/) is exact. I read this stretch of the month as weighing up, what was learnt, what is owed, what to carry into the next cycle, and a Libra Moon comes with the scales already in hand. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) places it.
 
-About 1 person in 149 has this pair. If the Moon reached Libra from Virgo, or moved on into Scorpio, on the day you were born, only the time can say whether this page is yours, or the [Sun in Sagittarius, Moon in Virgo](/astrology/sun-in-sagittarius-moon-in-virgo/), or the [Sun in Sagittarius, Moon in Scorpio](/astrology/sun-in-sagittarius-moon-in-scorpio/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). The rising sign depends on that time as well, and with the two lights it gives a first sketch, never the whole chart.
+About 1 person in 149 has this pair. If the Moon reached Libra from Virgo, or moved on into Scorpio, on the day you were born, only the time can say whether this page is yours, or the [Sun in Sagittarius, Moon in Virgo](/astrology/sun-in-sagittarius-moon-in-virgo/), or the [Sun in Sagittarius, Moon in Scorpio](/astrology/sun-in-sagittarius-moon-in-scorpio/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). The rising sign depends on that time as well, and with the two lights it makes only a first sketch, never the whole chart.
 
 ## In close relationships {#in-close-relationships}
 
-Partnership matters to this pair more than the Sagittarius Sun alone might admit. The Libra Moon feels steadiest with someone beside it and works quietly to keep things even; the Sun wants a partner who is also a friend and a fellow traveller, with opinions of their own. You're good company, quick to see the other side and willing to say yours. The trouble comes when the Sun's frankness and the Moon's wish for peace meet in the same row: you may say too much, then spend the night smoothing it over. Say it once, kindly, and let the other person answer.
+Partnership matters to this pair more than the Sagittarius Sun alone might admit. The Libra Moon feels steadiest with someone beside it and works quietly to keep things even; the Sun wants a partner who doubles as a friend and a fellow traveller, with opinions of their own. You're good company, quick to see the other side and willing to say yours. The trouble comes when the Sun's frankness and the Moon's wish for peace meet in the same row: you may say too much, then spend the night smoothing it over. Say it once, kindly, and let the other person answer.
 
 ## At work {#at-work}
 

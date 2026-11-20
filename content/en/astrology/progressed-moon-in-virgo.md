@@ -31,7 +31,7 @@ After Leo’s bright years, the progressed Moon moves into Virgo and the mood tu
 
 ## What it brings {#what-it-brings}
 
-[The progressed Moon](/astrology/progressed-moon/) is the part of your [secondary progressions](/astrology/secondary-progressions/) that gives the mood of each chapter. In [Virgo](/astrology/virgo/), mutable earth ruled by Mercury, the Moon’s needs come through refinement: noticing what could work better, adjusting it, and feeling steadier for having done so. Care tends to be practical in these years, shown in what you do for people rather than in what you say, and the daily round, from the way you work to the way you keep house, becomes a place where feeling settles.
+[The progressed Moon](/astrology/progressed-moon/) is the part of your [secondary progressions](/astrology/secondary-progressions/) that gives the mood of each chapter. In [Virgo](/astrology/virgo/), mutable earth ruled by Mercury, the Moon’s needs come through refinement: noticing what could work better, adjusting it, and feeling steadier for having done so. Care tends to be practical in these years, shown in what you do for people rather than in what you say, and the daily round, from the way you work to the way you keep house, becomes a place where feeling settles. It can show in small ways: a desk cleared, a recipe perfected, the satisfaction of fixing what had been bothering everyone. In Virgo even rest tends to want a purpose, and part of the chapter’s work is to let some of it have none.
 
 The Moon has no dignity in Virgo, and the chapter’s attention to detail isn’t the same as worry: the sign’s instinct is to improve, not to find fault. The line between helping and overdoing it is worth watching, mostly so that you leave some room for yourself in your own lists.
 
@@ -47,4 +47,4 @@ It follows the [progressed Moon in Leo](/astrology/progressed-moon-in-leo/) and 
 
 Choose the improvements that make your days lighter, not longer. A Virgo chapter is usually at its best with one or two small, real changes, a better routine, a skill practised, a corner put in order, rather than with a plan to fix everything at once.
 
-Mercury rules Virgo, and the house your natal Mercury occupies shows where the wish to sort and refine tends to go in these years. Let the people you help help you in return; usefulness is a gift that runs both ways. And as Libra approaches, the practical care of this chapter can become something you share with someone else.
+Mercury rules Virgo, and the house your natal Mercury occupies shows where the wish to sort and refine tends to go in these years. When you catch yourself redoing what was already fine, take it as the chapter’s signal to rest rather than to refine. Let the people you help help you in return; usefulness is a gift that runs both ways. And as Libra approaches, the practical care of this chapter can become something you share with someone else.

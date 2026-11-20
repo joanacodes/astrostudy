@@ -51,6 +51,6 @@ Les mois où Saturne entre dans chaque signe suffisent pour trouver le vôtre :
 
 Reconstruire une routine à la fois, en commençant par celle qui tient les autres. La maison 6 sous Saturne convient mieux à la réparation lente et ennuyeuse qu’au grand chambardement.
 
-Confier certaines tâches. Saturne a du mal à déléguer, et une maison 6 pleine de travaux que vous êtes la seule personne à pouvoir faire est une structure qui ne plie pas.
+Confier certaines tâches. Déléguer n’est pas le fort de Saturne, et une maison 6 pleine de travaux que vous êtes la seule personne à pouvoir faire est une structure qui ne plie pas.
 
 Mettre le repos dans la routine, pas au bout. L’entretien inclut le vôtre, et un emploi du temps sans marge n’est pas de la discipline, c’est de la fragilité.

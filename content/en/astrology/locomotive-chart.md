@@ -1,7 +1,7 @@
 ---
 title: "Locomotive chart"
 h1: "The locomotive chart in astrology"
-description: "The locomotive chart in astrology: ten planets within two-thirds of the wheel and an empty third, its leading planet, how common it is, and what the birth time adds."
+description: "The locomotive chart in astrology: ten planets within two-thirds of the wheel and an empty third, its leading planet, how common it is, and what the time adds."
 date: 2026-11-19
 reviewed: 2026-11-19
 family: "patterns"

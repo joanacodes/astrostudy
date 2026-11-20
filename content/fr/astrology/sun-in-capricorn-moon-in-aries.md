@@ -1,0 +1,54 @@
+---
+title: "Soleil en Capricorne, Lune en Bélier"
+slug: "soleil-en-capricorne-lune-en-belier"
+h1: "Soleil en Capricorne, Lune en Bélier dans un thème natal"
+description: "Soleil en Capricorne, Lune en Bélier : un carré cardinal près du premier quartier, entre l’exaltation de Mars et la chute de Saturne. Deux façons de commencer."
+date: 2026-11-19
+reviewed: 2026-11-19
+family: "combinations"
+weight: 109
+glyph: "☉♑☽♈"
+definition: "Soleil en Capricorne, Lune en Bélier met en carré deux signes cardinaux, la terre et le feu, pour une naissance autour du premier quartier, cinq à dix jours après une nouvelle lune. Mars, maître de la Lune, a son exaltation en Capricorne ; Saturne, maître du Soleil, sa chute en Bélier. J’y lis un long plan à la mèche courte."
+facts:
+  - { k: "Signe solaire", v: "Capricorne ♑, gouverné par Saturne ; exaltation de Mars" }
+  - { k: "Signe lunaire", v: "Bélier ♈, gouverné par Mars ; chute de Saturne" }
+  - { k: "Éléments", v: "Terre et feu" }
+  - { k: "Modes", v: "Cardinal et cardinal" }
+  - { k: "Phase de naissance", v: "Autour du premier quartier : 5 à 10 jours après une nouvelle lune" }
+  - { k: "Fréquence", v: "Environ 1 personne sur 145 née entre 1930 et 2009" }
+related: ["/astrology/sun-in-capricorn", "/astrology/moon-in-aries", "/astrology/first-quarter-moon", "/astrology/sun-square-moon", "/astrology/mars"]
+faq:
+  - q: "Un Soleil en Capricorne avec une Lune en Bélier est-il impatient ?"
+    a: "En dessous, parfois. Le Soleil en Capricorne bâtit lentement et prévoit loin ; la Lune en Bélier a besoin d’agir tout de suite sur ce qu’elle ressent. Les deux signes sont cardinaux : tous deux veulent lancer les choses, l’un par stratégie, l’autre par élan. Beaucoup apprennent à préparer la campagne et à laisser la Lune mener la première charge."
+  - q: "Quel rôle jouent Saturne et Mars dans un thème Soleil en Capricorne, Lune en Bélier ?"
+    a: "Celui de deux maîtres aux fortunes contraires. Mars, maître de votre Lune, a son exaltation en Capricorne : l’élan de la Lune sert bien les buts du Soleil. Saturne, maître de votre Soleil, a sa chute en Bélier : la Lune a peu de patience pour la prudence du Soleil. Leurs signes, leurs maisons et leurs aspects montrent si les deux coopèrent."
+  - q: "À quel moment du mois lunaire tombe une naissance Soleil en Capricorne, Lune en Bélier ?"
+    a: "Au bout d’une semaine environ, de part et d’autre du premier quartier. La Lune avait 61° à 120° d’avance sur le Soleil, cinq à dix jours après la nouvelle lune. Ces naissances se partagent presque également entre le premier croissant et le premier quartier des huit phases, et à 90°, le carré croissant entre les luminaires est exact."
+sources:
+  - { title: "Ptolémée, Tétrabible, livre I", note: "l’exaltation de Mars en Capricorne et la chute de Saturne en Bélier" }
+  - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "combien de personnes ont ce duo, et l’avance de la Lune sur le Soleil" }
+  - { title: "Jean Meeus, Astronomical Algorithms, 2e éd. (1998)", note: "le premier quartier, quand la Lune est à 90° devant le Soleil" }
+---
+Un Soleil en Capricorne commence les choses par stratégie ; une Lune en Bélier, par élan. Les deux signes sont cardinaux, tous deux lancent, et votre naissance a eu lieu autour du premier quartier, quand la première demi-lune du mois brille le soir. Je lis là un long plan à la mèche courte, qui apprend à se servir des deux.
+
+## Comment ils s’accordent {#comment-ils-s-accordent}
+
+Le Bélier se trouve trois signes après le Capricorne : un carré par signe entre deux signes cardinaux, la terre et le feu. Le [Soleil en Capricorne](/astrology/sun-in-capricorn/) organise une vie par étapes, chacune portante ; la [Lune en Bélier](/astrology/moon-in-aries/) se stabilise en bougeant tout de suite : la réponse envoyée ce soir, la course avant le petit déjeuner, le problème attaqué avant même qu’il ait fini d’arriver. Le Soleil pense toujours à l’an prochain, la Lune aux dix minutes qui viennent, et chacun est sûr d’être celui qui fait avancer les choses.
+
+Les maîtres connaissent des fortunes contraires dans le signe de l’autre. [Mars](/astrology/mars/), maître de votre Lune, a son [exaltation](/astrology/exaltation/) en Capricorne : l’élan de la Lune est bien employé sur le terrain du Soleil. [Saturne](/astrology/saturn/), maître de votre Soleil, a sa [chute](/astrology/fall/) en Bélier : la prudence du Soleil trouve peu d’écoute auprès de la Lune. Les deux luminaires se tiennent dans des signes qui ne leur donnent aucune dignité. Quand les longs plans du Soleil donnent une cible à l’énergie de la Lune, ce duo est redoutable ; quand la Lune attend trop, l’énergie part en frustration.
+
+Votre naissance a eu lieu autour du premier quartier. La Lune avait 61° à 120° d’avance sur le Soleil, cinq à dix jours après la nouvelle lune, dans le ciel du soir et presque à moitié éclairée. Ces naissances se partagent presque également entre le [premier croissant](/astrology/waxing-crescent/) et le [premier quartier](/astrology/first-quarter-moon/) des huit phases, et à 90°, le carré par signe devient exact : un [Soleil carré Lune](/astrology/sun-square-moon/) croissant. Une naissance de premier quartier, pour moi, c’est une friction qui veut être agie plutôt que ruminée, ce qu’une Lune en Bélier fait volontiers. [Votre phase lunaire de naissance](/astrology/your-birth-lunar-phase/) explique ce tournant.
+
+Environ 1 personne sur 145 a ce duo. Si la Lune passait des Poissons au Bélier, ou du Bélier au Taureau, le jour de votre anniversaire, l’heure choisit entre cette page, le [Soleil en Capricorne, Lune en Poissons](/astrology/sun-in-capricorn-moon-in-pisces/) et le [Soleil en Capricorne, Lune en Taureau](/astrology/sun-in-capricorn-moon-in-taurus/) ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/#la-lune)), et près du quartier, elle décide aussi de votre phase. L’ascendant et les maisons de Saturne et de Mars viennent de la même heure.
+
+## Dans les relations proches {#dans-les-relations-proches}
+
+En amour, vous joignez la fidélité, la franchise et l’instinct de protéger. La Lune en Bélier dit ce qu’elle ressent dès qu’elle le ressent ; le Soleil en Capricorne montre son amour par des engagements tenus et des problèmes réglés. Les disputes sont souvent courtes et honnêtes, suivies d’une réparation pratique. La friction apparaît quand la chaleur rapide de la Lune rencontre la réserve du Soleil : vous vous emportez, puis vous vous le reprochez. Une personne qui ne prend ni la chaleur ni la réserve pour de la froideur laisse à ce duo la place d’être les deux.
+
+## Au travail {#au-travail}
+
+Vous avez l’étoffe d’un rôle de direction qui doit agir et planifier à la fois : créer une entreprise, mener un service à travers une crise, bâtir quelque chose à partir de rien avec une échéance. La Lune apporte le cran et la vitesse, le Soleil la stratégie et l’endurance : vous pouvez être la personne qui bouge la première et qui a encore un plan pour la cinquième année. La bureaucratie qui ralentit chaque décision frustre la Lune ; le chaos sans structure heurte le Soleil. De courts sprints à l’intérieur d’un long plan conviennent aux deux.
+
+## Le plus difficile {#le-plus-difficile}
+
+Deux signes cardinaux veulent tous deux mener, et ils mènent à des vitesses différentes. La Lune veut la réponse maintenant ; le Soleil veut que ce soit la bonne dans dix ans. La pression peut tourner en impatience envers vous-même : la frustration devant le retard, puis devant votre propre frustration. Ce qui aide, c’est de donner à la Lune un endroit où dépenser sa chaleur sans mettre le plan en danger, un sport, un projet rapide, une marche soutenue, pour qu’un mauvais mardi ne détourne pas le long travail du Soleil.

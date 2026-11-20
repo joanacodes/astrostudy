@@ -20,9 +20,9 @@ faq:
   - q: "Can a Scorpio Sun and a Sagittarius Moon work together?"
     a: "Yes, once each has its turn. The Scorpio Sun goes deep, holds on and keeps its counsel; the Sagittarius Moon needs space, honesty and something to look forward to. They are neighbours with different elements and tempos, so they take turns rather than blend: the dive, then the air, then the meaning."
   - q: "Does a Sagittarius Moon with a Scorpio Sun mean a fresh lunar month?"
-    a: "Yes: the birth came within about five days after a new moon, usually the one in Scorpio, with the Moon 1° to 59° past the Sun. Most of these births belong to the new moon phase of the eight, and about one in eight to the waxing crescent, when a thin Moon can first be seen in the evening sky."
+    a: "Yes: the birth came within about five days after a new moon, usually the one in Scorpio, with the Moon 1° to 59° past the Sun. Most of these births belong to the new moon phase of the eight, and about one in eight to the waxing crescent, once the crescent stands clear of the sunset."
   - q: "What helps a Scorpio Sun with a Sagittarius Moon after a hard time?"
-    a: "Room and meaning, in that order. The Scorpio Sun needs to go through what happened, fully; the Sagittarius Moon then needs space, movement and a larger view in which the experience makes sense. A long walk, a journey, a good book or a frank talk with a friend often helps more than staying alone with the feeling."
+    a: "Going through it first, then room. The Scorpio Sun needs to feel what happened fully, without hurrying; the Sagittarius Moon then needs space, movement and a larger view in which the experience makes sense. A journey, a good book or a frank talk with a friend often helps more than staying alone with the feeling."
 sources:
   - { title: "Ptolemy, Tetrabiblos, book I", note: "Jupiter’s rule of Sagittarius and Mars’s of Scorpio" }
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and the days since the new moon" }

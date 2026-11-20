@@ -7,7 +7,7 @@ reviewed: 2026-11-19
 family: "combinations"
 weight: 101
 glyph: "☉♐☽♌"
-definition: "Sun in Sagittarius, Moon in Leo is a birth with the Moon eight signs ahead of the Sun, in Leo, under a disseminating Moon some three weeks into the lunar month. Both lights are in fire, and the Sun rules the Moon’s sign. I read it as conviction with a warm voice, wanting an audience it trusts."
+definition: "Sun in Sagittarius, Moon in Leo means the Moon stood eight signs ahead of the Sun, in Leo, at a birth under a disseminating Moon, about three weeks after the new moon. Both lights are in fire, and the Sun rules the Moon’s sign. I read it as conviction with a warm voice, wanting an audience it trusts."
 facts:
   - { k: "Sun sign", v: "Sagittarius ♐, ruled by Jupiter" }
   - { k: "Moon sign", v: "Leo ♌, ruled by the Sun" }
@@ -20,7 +20,7 @@ faq:
   - q: "What does a Sagittarius Sun with a Leo Moon need?"
     a: "Something worth believing in, and a few people to share it with who show they’ve heard. The Sagittarius Sun is organised around meaning and room ahead; the Leo Moon steadies itself through wholehearted expression that lands. Both are fire, so enthusiasm comes easily. What takes practice is rest, and feeling loved on an ordinary day."
   - q: "Why is the Sun the ruler of a Leo Moon?"
-    a: "Leo is the Sun’s own sign, so any Moon in Leo answers to the Sun. With a Sagittarius Sun, your Moon’s ruler is the very light it shares the chart with: what your feelings need in order to shine is tied to what your sense of purpose is reaching for. I always read the two together."
+    a: "Because the Sun rules Leo, every Moon in Leo answers to the Sun. With a Sagittarius Sun, your Moon’s ruler is the very light it shares the chart with: what your feelings need in order to shine is tied to what your sense of purpose is reaching for. I always read the two together."
   - q: "Which lunar phase goes with Sun in Sagittarius, Moon in Leo?"
     a: "The waning Moon after the full. The Moon was 211° to 269° ahead of the Sun, seventeen and a half to twenty-two days after the new moon. The disseminating phase of the eight takes about seven of these births in eight; the rest come in the full moon phase just before it."
 sources:
@@ -28,17 +28,17 @@ sources:
   - { title: "The Astro Study’s count from the planets’ positions, 1930–2009", note: "how many people have the pair, and how far the Moon had moved past the Sun" }
   - { title: "Jean Meeus, Astronomical Algorithms, 2nd ed. (1998)", note: "the waning Moon between the full and the last quarter" }
 ---
-Leo is the Sun's own sign, so a Leo Moon answers to the Sun, and here the Sun is in Sagittarius, the sign of the long view. You were born as the Moon waned after the full, in the phase astrologers call disseminating, and what I hear in the pair is conviction with a warm voice, meaning that wants an audience it trusts.
+A Leo Moon answers to the Sun, which rules its sign, and here the Sun is in Sagittarius, the sign of the long view. You were born as the Moon waned after the full, in the phase astrologers call disseminating, and what I hear in the pair is conviction with a warm voice, meaning that wants an audience it trusts.
 
 ## How they get along {#how-they-get-along}
 
-Both lights are in fire, the Moon's sign four before the Sun's: a trine by sign between the fixed fire of Leo and the mutable fire of Sagittarius. The [Sun in Sagittarius](/astrology/sun-in-sagittarius/) lives by a conviction it keeps refining; the [Moon in Leo](/astrology/moon-in-leo/) steadies itself by giving something wholeheartedly and seeing it received: the toast at a friend's wedding, the dinner for twelve, the story told well at the end of the night. The Sun keeps moving its ideas on, while the Moon keeps its loves lit for years. Same element, different tempo.
+Fire on both sides, the Moon's sign four before the Sun's: a trine by sign between the fixed fire of Leo and the mutable fire of Sagittarius. The [Sun in Sagittarius](/astrology/sun-in-sagittarius/) lives by a conviction it keeps refining; the [Moon in Leo](/astrology/moon-in-leo/) steadies itself by giving something wholeheartedly and seeing it received: the toast at a friend's wedding, the dinner for twelve, the story told well at the end of the night. The Sun keeps moving its ideas on, while the Moon keeps its loves lit for years. Same element, different tempo.
 
-The rulers tie the pair tighter than most. [Jupiter](/astrology/jupiter/) rules your Sun's sign and widens whatever it touches; the [Sun](/astrology/sun/) itself rules your Moon's sign. So your Moon answers to the light it shares the chart with: what your feelings need, to create and to be seen doing it, depends on where your sense of purpose is heading. No dignity applies to either light in these signs, and Jupiter has none in Leo. Jupiter's sign and house, read beside your Sun's, show where this pair's warmth goes looking for meaning.
+Here the rulers knot the two lights together. [Jupiter](/astrology/jupiter/) rules your Sun's sign and widens whatever it touches; the [Sun](/astrology/sun/) itself rules your Moon's sign. So your Moon answers to the light it shares the chart with: what your feelings need, to create and to be seen doing it, depends on where your sense of purpose is heading. These signs give neither light a dignity, and Jupiter has none in Leo. Jupiter's sign and house, read beside your Sun's, show where this pair's warmth goes looking for meaning.
 
 The full moon was behind you. Your Moon had moved 211° to 269° ahead of the Sun, seventeen and a half to twenty-two days after the new moon, rising later each evening and still more than half lit. About seven births in eight fall in the [waning gibbous (disseminating) moon](/astrology/waning-gibbous-disseminating-moon/) as eight phases count it, the rest in the [full moon](/astrology/full-moon/) phase; near 240° the lights form a waning [Sun trine Moon](/astrology/sun-trine-moon/). Disseminating means sowing widely, and I read a birth then as something understood that wants passing on, which suits a Moon that likes to give and a Sun that likes to teach. [Your birth lunar phase](/astrology/your-birth-lunar-phase/) says more.
 
-About 1 person in 147 has this pair. A birthday on which the Moon left Cancer, or moved on into Virgo, needs the time to choose between this page, the [Sun in Sagittarius, Moon in Cancer](/astrology/sun-in-sagittarius-moon-in-cancer/) and the [Sun in Sagittarius, Moon in Virgo](/astrology/sun-in-sagittarius-moon-in-virgo/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). The rising sign needs it too, and the three together are a first sketch: an outline the rest of the chart has to fill.
+About 1 person in 147 has this pair. If the Moon changed sign that day, from Cancer to Leo or from Leo to Virgo, the time of birth picks between this page, the [Sun in Sagittarius, Moon in Cancer](/astrology/sun-in-sagittarius-moon-in-cancer/) and the [Sun in Sagittarius, Moon in Virgo](/astrology/sun-in-sagittarius-moon-in-virgo/) ([what changes without a birth time](/blog/unknown-birth-time/#the-moon)). The rising sign needs it too, and the three together are a first sketch: an outline the rest of the chart has to fill.
 
 ## In close relationships {#in-close-relationships}
 
