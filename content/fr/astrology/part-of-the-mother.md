@@ -67,6 +67,6 @@ Au-delà, je m’en tiens à trois règles :
 ## Idées reçues {#idees-recues}
 
 - **« Votre signe lunaire, c’est le caractère de votre mère. »** Votre Lune décrit votre façon d’accueillir vos propres émotions et vos besoins. Le tempérament de votre mère est dans son thème, pas dans le vôtre.
-- **« La Part de la mère montre si vous aurez des enfants. »** Elle n’a jamais été un point de grossesse, et aucun point ne l’est.
+- **« La Part de la mère est un point de fertilité. »** Elle n’a jamais été un point de grossesse, et aucun point ne l’est.
 - **« Votre Part de la mère est là où la première appli l’a mise. »** Regardez comment cette appli traite une naissance de nuit. Si une deuxième la place en miroir autour de votre ascendant, la différence vient de l’inversion, pas d’une erreur.
 - **« Un placement tendu veut dire que l’amour vous a manqué. »** Aucun placement ne mesure l’amour reçu. Ce qu’un thème peut montrer, c’est ce que les soins vous ont fait ressentir, et ce dont vous avez besoin aujourd’hui.

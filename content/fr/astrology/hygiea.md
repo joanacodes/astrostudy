@@ -25,7 +25,7 @@ faq:
   - q: "Que signifie Hygie en astrologie ?"
     a: "Ses utilisateurs prennent pour repère la déesse de la santé dont il porte le nom, et certains le relient aux pratiques de santé et à l’astrologie médicale. Sa place dans l’astrologie occidentale reste petite et incertaine. Je ne le lis pas, et il n’a rien à apprendre à quiconque sur sa santé."
   - q: "Hygie peut-il prédire des problèmes de santé ?"
-    a: "Non. Diagnostiquer une maladie, en prévoir une ou dire si quelqu’un sera en bonne santé dépasse tout astéroïde, toute planète, toute maison, et la santé est un sujet que je ne lis jamais dans un thème. Ce qu’un thème peut montrer, c’est votre façon de prendre soin de vous. Pour un symptôme ou une inquiétude, voyez un médecin."
+    a: "Non. Diagnostiquer une maladie, en prévoir une ou dire si quelqu’un sera en bonne santé dépasse tout astéroïde, toute planète, toute maison, et la santé est un sujet que je ne lis jamais dans un thème. Votre thème peut refléter vos habitudes de soin, rien de plus. C’est à un médecin qu’il faut parler d’un symptôme ou d’une inquiétude."
   - q: "Hygie est-il une planète naine ?"
     a: "Peut-être, mais pas officiellement. Les images prises depuis 2019 le montrent presque rond, ce qui pourrait en faire une planète naine comme Cérès ; ce serait alors la plus petite connue. L’Union astronomique internationale ne l’a pas classé ainsi : il reste un astéroïde, le quatrième plus gros de la ceinture principale."
   - q: "Pourquoi le symbole d’Hygie est-il un caducée ?"

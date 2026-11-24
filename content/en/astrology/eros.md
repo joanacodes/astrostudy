@@ -61,7 +61,7 @@ Between two people, the same applies. A synastry compares two whole charts, with
 
 ## Common myths {#myths}
 
-- **“Eros in your chart shows who you'll desire.”** No point names a person, and none chooses for you.
+- **“Eros in your chart shows who you'll desire.”** A point can't name a person or make a choice for you.
 - **“An Eros contact between two charts predicts an affair.”** A contact describes how two people may meet, never what they'll do.
-- **“The asteroid and the Lot of Eros are the same thing.”** One is a rock in space; the other is a degree counted from Venus and the Part of Spirit.
-- **“Eros is only about sex.”** In Hesiod he's one of the first powers of the world, long before he's anybody's lover.
+- **“The Lot of Eros is just another name for the asteroid.”** One is a rock in space; the other is a degree counted from Venus and the Part of Spirit.
+- **“Eros is the sex asteroid.”** In Hesiod he's one of the first powers of the world, long before he's anybody's lover.

@@ -54,7 +54,7 @@ Speed matters as well. A midpoint covers half the ground its two bodies cover to
 
 ## In a reading {#in-a-reading}
 
-Midpoint trees don't come into my readings. The system I built prints none, and I read the planets themselves, by sign, house and aspect ([how I read](/how-i-read/)). My notebook has nothing to say about them either. The placements that held best in it, [Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/), are single bodies in signs and houses; a branch joins three factors at once, and nothing I counted tells me how often such a combination holds.
+I work without midpoint trees. The system I built prints none, and I read the planets themselves, by sign, house and aspect ([how I read](/how-i-read/)). My notebook has nothing to say about them either. The placements that held best in it, [Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/), are single bodies in signs and houses; a branch joins three factors at once, and nothing I counted tells me how often such a combination holds.
 
 If you read your own trees, start with the [Sun/Moon midpoint](/astrology/sun-moon-midpoint/) and the trees of the Sun and Moon, keep the orbs small, and give weight only to branches that echo what the planets already say. Read every branch as a link between functions, never as a forecast.
 

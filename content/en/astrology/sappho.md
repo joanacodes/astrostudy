@@ -61,6 +61,6 @@ A chart can still speak to how you love and create. [Venus](/astrology/venus/) s
 ## Common myths {#myths}
 
 - **“Sappho in your chart reveals your sexuality.”** No placement can, and no one needs a chart's permission to be who they are.
-- **“A Sappho contact between two charts proves an attraction.”** Nothing in two charts can prove what someone feels; only they can say.
+- **“If your Sappho touches someone's Venus, they're attracted to you.”** Nothing in two charts can prove what someone feels; only they can say.
 - **“Sappho was a goddess.”** She was a poet, who lived on Lesbos about 2,600 years ago.
 - **“Sappho on your Mercury makes you a poet.”** A placement describes a way of working; it doesn't hand out talents. Writing does that.

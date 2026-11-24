@@ -62,6 +62,6 @@ Un thème peut tout de même parler de votre façon d’aimer et de créer. [Vé
 ## Idées reçues {#idees-recues}
 
 - **« Sappho dans votre thème révèle votre sexualité. »** Aucun placement ne le peut, et personne n’a besoin de la permission d’un thème pour être qui il ou elle est.
-- **« Un contact de Sappho entre deux thèmes prouve une attirance. »** Rien dans deux thèmes ne peut prouver ce que quelqu’un ressent ; cette personne seule peut le dire.
+- **« Si votre Sappho touche la Vénus de quelqu’un, cette personne vous désire. »** Rien dans deux thèmes ne peut prouver ce que quelqu’un ressent ; cette personne seule peut le dire.
 - **« Sappho était une déesse. »** C’était une poétesse, qui vivait à Lesbos il y a environ 2 600 ans.
 - **« Sappho sur votre Mercure vous donne le don de la poésie. »** Un placement décrit une façon de faire ; il ne distribue pas les talents. C’est l’écriture qui s’en charge.

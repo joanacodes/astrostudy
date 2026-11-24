@@ -24,7 +24,7 @@ faq:
   - q: "What does Hygiea mean in astrology?"
     a: "Its users take their cue from the goddess of health it is named after, and some link it to health practices and medical astrology. Its place in Western astrology is small and unsettled. I don’t read it, and it has nothing to tell anyone about their health."
   - q: "Can Hygiea predict health problems?"
-    a: "No. Diagnosing an illness, foreseeing one or judging how healthy anyone will be is beyond any asteroid, planet or house, and health is a subject I never read in a chart. What a chart can show is how you care for yourself. For a symptom or a worry, a doctor is the right person to ask."
+    a: "No. Diagnosing an illness, foreseeing one or judging how healthy anyone will be is beyond any asteroid, planet or house, and health is a subject I never read in a chart. Your chart can reflect your habits of self-care, nothing more. A doctor is the person to ask about a symptom or a worry."
   - q: "Is Hygiea a dwarf planet?"
     a: "Possibly, but not officially. Images taken since 2019 show it nearly round, which could qualify it as a dwarf planet like Ceres; if so, it would be the smallest known. The International Astronomical Union has not classified it as one, so it remains an asteroid, the fourth largest in the main belt."
   - q: "Why is Hygiea’s symbol a caduceus?"

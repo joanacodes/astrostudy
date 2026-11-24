@@ -60,7 +60,7 @@ What I won't do is time a journey. [Transits](/astrology/transits/) describe the
 
 ## Common myths {#myths}
 
-- **“The Part of Travel shows whether a journey will be safe.”** Ptolemy asked that; no point can answer it.
+- **“A well-placed Part of Travel means safe journeys.”** Ptolemy wanted to know the same thing; no point can tell it.
 - **“It tells you where you should live.”** It's one degree in a chart, not a map; and even maps of the chart describe themes, not good and bad places.
 - **“Moving abroad changes your birth chart.”** Your birth chart stays the chart of your birthplace. A relocation chart is a separate drawing, in which every lot shifts with the Ascendant.
 - **“No Part of Travel in the 9th means a life at home.”** The lot can fall in any house, and it doesn't decide how far you go.

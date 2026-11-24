@@ -62,7 +62,7 @@ Entre deux personnes, c’est pareil. Une synastrie compare deux thèmes entiers
 
 ## Idées reçues {#idees-recues}
 
-- **« Éros dans votre thème montre qui vous désirerez. »** Aucun point ne nomme une personne, et aucun ne choisit pour vous.
+- **« Éros dans votre thème montre qui vous désirerez. »** Un point ne peut ni nommer une personne ni choisir à votre place.
 - **« Un contact d’Éros entre deux thèmes annonce une liaison. »** Un contact décrit comment deux personnes peuvent se rencontrer, jamais ce qu’elles feront.
-- **« L’astéroïde et la Part d’Éros, c’est la même chose. »** L’un est un rocher dans l’espace ; l’autre, un degré compté depuis Vénus et la Part de l’Esprit.
-- **« Éros, ce n’est que le sexe. »** Chez Hésiode, c’est l’une des premières puissances du monde, bien avant d’être l’amant de qui que ce soit.
+- **« La Part d’Éros n’est qu’un autre nom de l’astéroïde. »** L’un est un rocher dans l’espace ; l’autre, un degré compté depuis Vénus et la Part de l’Esprit.
+- **« Éros, c’est l’astéroïde du sexe. »** Chez Hésiode, c’est l’une des premières puissances du monde, bien avant d’être l’amant de qui que ce soit.

@@ -64,7 +64,7 @@ Une amitié en particulier, c’est autre chose, parce qu’elle appartient à d
 
 ## Idées reçues {#idees-recues}
 
-- **« La Part des amis montre qui sont vos vrais amis. »** Aucun degré ne peut juger une personne. La loyauté se voit dans ce que les gens font, pas dans votre thème.
+- **« Votre Part des amis peut trier les vrais amis des faux. »** Un degré ne peut se porter garant de personne. La loyauté se voit dans ce que les gens font, pas dans votre thème.
 - **« Un placement difficile annonce une vie solitaire. »** Aucun degré ne décide combien de personnes répondent quand vous allez vers elles.
 - **« Elle peut vous avertir de vos ennemis. »** Ptolémée rangeait amis et ennemis ensemble, mais aucun point ne peut nommer un ennemi, et je ne voudrais pas qu’il le puisse.
 - **« La part a besoin d’une planète posée dessus pour agir. »** Chaque thème a ce degré. Une planète proche change la façon dont la lisent ceux qui s’en servent ; elle ne l’allume pas.

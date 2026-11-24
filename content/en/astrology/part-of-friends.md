@@ -63,7 +63,7 @@ A particular friendship is another matter, because it belongs to two people. Bet
 
 ## Common myths {#myths}
 
-- **“The Part of Friends shows who your real friends are.”** No degree can vet a person. Loyalty shows in what people do, not in your chart.
+- **“Your Part of Friends can sort true friends from false.”** A degree can't vouch for anyone. Loyalty shows in what people do, not in your chart.
 - **“A difficult placement means a lonely life.”** No degree decides how many people answer when you reach out.
 - **“It can warn you about enemies.”** Ptolemy filed friends and enemies together, but no point can name an enemy, and I wouldn't want one to.
 - **“The lot needs a planet on it to work.”** Every chart has this degree. A planet nearby changes how those who use it read it; it doesn't switch it on.

@@ -24,7 +24,7 @@ faq:
   - q: "What does Cupido mean in astrology?"
     a: "It depends which Cupido. The asteroid, number 763, borrows its meaning from the god of desire whose Latin name it carries. Uranian astrologers mean something else: a hypothetical point Alfred Witte proposed, which they read for love, partnership and the arts. I read neither; I read desire through Venus and Mars."
   - q: "What is the difference between the asteroid Cupido and the Uranian Cupido?"
-    a: "The asteroid is a real rock, about 7 km across, found in 1913, which circles the Sun every 3 years and 4 months between Mars and Jupiter. The Uranian Cupido is one of the points Alfred Witte placed beyond Neptune in the 1920s; no telescope has found a planet there. Charts can show either, so check the label."
+    a: "The asteroid is a rock about 7 km across, found in 1913, which circles the Sun every 3 years and 4 months between Mars and Jupiter. The Uranian Cupido is one of the points Alfred Witte placed beyond Neptune in the 1920s; no telescope has found a planet there. Only the label tells them apart on a chart."
   - q: "Why is the asteroid called Cupido?"
     a: "It carries the Latin name of Cupid, the Roman god of desire, attraction and affection; Cupido means passionate desire. The name was probably chosen by the Swedish astronomer Bror Asplind, because of the asteroid’s relative closeness to the Sun; Paul Herget recorded it in 1955."
   - q: "Does Cupido show when I will marry?"
@@ -60,7 +60,7 @@ Desire comes into my readings through [Venus](/astrology/venus/) and [Mars](/ast
 
 ## Common myths {#myths}
 
-- **“The asteroid Cupido and the Uranian Cupido are the same.”** One is a 7-km rock found in 1913; the other, a point proposed beyond Neptune and never observed.
+- **“The asteroid Cupido and the Uranian Cupido are the same.”** The asteroid was found in 1913 and can be observed; Witte's Cupido has never been seen by anyone.
 - **“Cupido shows when you'll marry.”** No point, real or hypothetical, puts a wedding on the calendar.
 - **“Astronomers named Cupido for its astrological meaning.”** It was named, probably by Bror Asplind, for its relative closeness to the Sun; what astrologers read into it came later.
 - **“Cupido is only about falling in love.”** In Ovid, Cupid's arrows make people flee as well as desire.

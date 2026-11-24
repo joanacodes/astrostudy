@@ -10,7 +10,7 @@ categories: ["Planètes et points"]
 tags: ["parts arabes"]
 weight: 19
 glyph: "✦"
-definition: "La Part du commerce est une part faite pour le négoce, acheter, vendre, traiter : un degré calculé, pas un astre dans le ciel, qui exige une heure de naissance exacte. Ce n’est pas la part hermétique de Mercure, qui est la Nécessité. Aucune part, maison ou planète ne peut dire ce qu’une affaire rapportera."
+definition: "La Part du commerce est une part faite pour le négoce, acheter, vendre, traiter : un degré calculé, pas un astre dans le ciel, qui exige une heure de naissance exacte. La part hermétique de Mercure en est une autre, la Nécessité. Aucune part, maison ou planète ne peut dire ce qu’une affaire rapportera."
 facts:
   - { k: "Nature", v: "Une part, dite aussi part arabe" }
   - { k: "Réservée à", v: "Le négoce : acheter, vendre, traiter" }
@@ -23,7 +23,7 @@ facts:
 related: ["/astrology/mercury", "/astrology/part-of-travel", "/astrology/lots-of-death-and-illness-in-history", "/astrology/can-astrology-pick-investments", "/how-i-read"]
 faq:
   - q: "Qu’est-ce que la Part du commerce en astrologie ?"
-    a: "Un degré calculé à partir du thème natal pour les questions d’achat, de vente et de négociation. Sa position suit l’ascendant : il faut donc une heure de naissance exacte. C’est une part distincte de celle de Mercure, et elle ne peut pas dire ce que quiconque gagnera."
+    a: "Un degré calculé à partir du thème natal pour les questions d’achat, de vente et de négociation. Elle se place à partir de l’ascendant : une heure de naissance exacte est donc indispensable. C’est une part distincte de celle de Mercure, et elle ne peut pas dire ce que quiconque gagnera."
   - q: "La Part du commerce peut-elle prédire la réussite d’une affaire ou l’argent ?"
     a: "Non. Aucune part, aucune maison, aucun transit ne peut dire si une entreprise réussira, ce qu’une affaire rapportera ni quand l’argent viendra. Les placements et les décisions financières font partie de ce que je ne lis pas. Un thème peut décrire votre façon de négocier et ce que la sécurité représente pour vous, pas vos comptes."
   - q: "La Part du commerce est-elle la part de Mercure ?"
@@ -47,7 +47,7 @@ Le commerce a eu un dieu avant d’avoir une part. Les Romains l’ont confié �
 
 Ptolémée offre un contraste utile. Il se méfiait des parts, mais pour la richesse matérielle il en utilisait une, la « prétendue Part de Fortune », et la comptait du Soleil vers la Lune de jour comme de nuit, quand la plupart des astrologues de son temps l’inversaient la nuit (*Tétrabible*, livre IV, chapitre 2). Ce qu’une personne faisait pour gagner sa vie, il le traitait à part, deux chapitres plus loin, sous le nom de qualité de l’action ([la Tétrabible de Ptolémée](/astrology/ptolemys-tetrabiblos/)). Pour lui, la richesse et le travail étaient deux questions, et une part du commerce se tient mal entre les deux.
 
-La Part du commerce elle-même fonctionne comme les autres parts : deux points, l’ascendant, souvent une inversion pour une naissance de nuit. Quels points, cette page ne le dit pas : je n’ai pas pu les confirmer, et pour une part qui touche à l’argent, deviner est bien la dernière chose que je ferais. Si votre logiciel la propose, sa documentation devrait nommer les points ; votre heure de naissance, à la minute près, fait le reste.
+La Part du commerce elle-même fonctionne comme les autres parts : deux points, l’ascendant, souvent une inversion pour une naissance de nuit. Quels points, cette page ne le dit pas : je n’ai pas pu les confirmer, et pour une part qui touche à l’argent, deviner est bien la dernière chose que je ferais. C’est dans l’aide de votre logiciel qu’il faut les chercher ; ensuite, votre heure de naissance, à la minute près, fait le reste.
 
 ## Dans une lecture {#dans-une-lecture}
 
@@ -59,7 +59,7 @@ Je ne choisis pas non plus de dates. Choisir un moment pour ouvrir une boutique 
 
 ## Idées reçues {#idees-recues}
 
-- **« La Part du commerce montre si vous serez riche. »** Aucun point ne mesure une fortune, et aucun ne la prédit.
+- **« Les gens riches ont une Part du commerce forte. »** Aucun point ne mesure une fortune, et aucun ne la prédit.
 - **« Elle indique le bon jour pour signer. »** Un jour ne rend pas un contrat équitable. Ses conditions et les personnes derrière, si.
 - **« La part de Mercure est la part du commerce. »** Dans l’ensemble hermétique, la part de Mercure est la Nécessité. Le commerce a eu sa propre part.
 - **« Une Part du commerce forte veut dire que vous devriez vous lancer dans les affaires. »** Aucun degré ne choisit un métier. Vos talents, et ce que vous voulez, en décident.

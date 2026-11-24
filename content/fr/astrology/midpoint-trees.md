@@ -55,7 +55,7 @@ La vitesse compte aussi. Un mi-point parcourt la moitié du chemin que ses deux 
 
 ## Dans une lecture {#dans-une-lecture}
 
-Les arbres de mi-points n’entrent pas dans mes lectures. Le système que j’ai construit n’en imprime aucun, et je lis les planètes elles-mêmes, par signe, maison et aspect ([ma méthode](/how-i-read/)). Mon carnet n’en dit rien non plus. Les placements qui y ont le mieux tenu, [Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/), sont des corps seuls, dans un signe et une maison ; une branche réunit trois facteurs à la fois, et rien de ce que j’ai compté ne me dit à quelle fréquence une telle combinaison tient.
+Je travaille sans arbres de mi-points. Le système que j’ai construit n’en imprime aucun, et je lis les planètes elles-mêmes, par signe, maison et aspect ([ma méthode](/how-i-read/)). Mon carnet n’en dit rien non plus. Les placements qui y ont le mieux tenu, [Saturne, Chiron et Lilith](/blog/saturn-chiron-lilith/), sont des corps seuls, dans un signe et une maison ; une branche réunit trois facteurs à la fois, et rien de ce que j’ai compté ne me dit à quelle fréquence une telle combinaison tient.
 
 Si vous lisez vos propres arbres, commencez par le [mi-point Soleil/Lune](/astrology/sun-moon-midpoint/) et par les arbres du Soleil et de la Lune, gardez des orbes petits, et ne donnez de poids qu’aux branches qui font écho à ce que disent déjà les planètes. Lisez chaque branche comme un lien entre des fonctions, jamais comme une prévision.
 

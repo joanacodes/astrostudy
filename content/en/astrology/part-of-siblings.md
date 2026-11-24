@@ -24,7 +24,7 @@ faq:
   - q: "What is the Part of Siblings in astrology?"
     a: "Old astrology’s lot for brothers and sisters: a degree worked out from the birth chart, on top of the 3rd house that already covered them. Measured from the Ascendant, it needs an exact birth time, and it can say nothing about how many siblings you have or what they are like."
   - q: "Can astrology tell how many siblings I have or will have?"
-    a: "No. No lot, house or planet can count brothers and sisters, past or future. Every chart has a Part of Siblings, an only child’s included, because it is arithmetic, not a record of your family. Your family history lives in people and documents, not in degrees."
+    a: "No. Brothers and sisters can’t be counted from a chart, whether they were born before you or are yet to come. Every chart has a Part of Siblings, an only child’s included, because it is arithmetic, not a record of your family. Your family history lives in people and documents, not in degrees."
   - q: "What is the difference between the Part of Siblings and the 3rd house?"
     a: "The 3rd house is a whole sector of the chart, which tradition gave to siblings among other near things: neighbours, cousins, everyday talk and short trips. The lot is a single degree, calculated for siblings alone, and it can fall in any house. Those who use it read it alongside the 3rd, not instead of it."
   - q: "Do twins have the same Part of Siblings?"
@@ -45,7 +45,7 @@ Siblings were a topic of their own long before anyone calculated a point for the
 
 Counted from the Ascendant, the lot keeps pace with it, which here has a particular consequence. Brothers and sisters born years apart have different Parts of Siblings, as different as their charts. Even twins don't share one: born ten minutes apart, their Ascendants differ by about two and a half degrees, and so do their lots, which near the edge of a sign or a house can put them on opposite sides of it. For everyone else, rounding the birth time to the hour can be enough to change the lot's sign, so [the time](/blog/unknown-birth-time/#what-the-time-decides) has to be settled first.
 
-Which two points it measures between, I leave out, for the reason given on the [Part of the Father](/astrology/part-of-the-father/#how-it-works) page. If a program shows you a Part of Siblings, its settings or help pages should name the points, and say whether it reverses them for a night birth.
+Which two points it measures between, I leave out, for the reason given on the [Part of the Father](/astrology/part-of-the-father/#how-it-works) page. A program that shows you a Part of Siblings ought to document both, along with any change it makes for a night birth.
 
 Horary astrologers also count houses on from the 3rd to ask about a sibling's own affairs, much as they do from a parent's house ([derived houses](/astrology/derived-houses/)).
 
@@ -60,4 +60,4 @@ A brother or sister has a chart of their own. If two adult siblings both want to
 - **“The Part of Siblings tells you how many brothers and sisters you'll have.”** No point can count anyone into or out of a family.
 - **“An only child has no Part of Siblings.”** Every chart has one. It's a calculation, not a census.
 - **“Twins share the same lot.”** Only approximately: their lots differ by as much as their Ascendants do.
-- **“The lot describes your sibling.”** It's a degree in your chart. Your sibling's character is in their chart, read with their agreement.
+- **“The lot describes your sibling.”** It belongs to your chart, and your sibling's character is in theirs, read with their agreement.

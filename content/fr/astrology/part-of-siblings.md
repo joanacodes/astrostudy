@@ -25,7 +25,7 @@ faq:
   - q: "Qu’est-ce que la Part des frères et sœurs en astrologie ?"
     a: "La part que l’astrologie ancienne réservait à la fratrie : un degré calculé à partir du thème natal, en plus de la maison 3 qui la couvrait déjà. Mesurée depuis l’ascendant, elle exige une heure de naissance exacte, et elle ne peut rien dire du nombre de vos frères et sœurs ni de ce qu’ils sont."
   - q: "L’astrologie peut-elle dire combien de frères et sœurs j’ai ou j’aurai ?"
-    a: "Non. Aucune part, aucune maison, aucune planète ne peut compter des frères et sœurs, passés ou à venir. Chaque thème a une Part des frères et sœurs, celui d’un enfant unique compris, parce que c’est un calcul et non un registre de votre famille. Votre histoire familiale se trouve chez les gens et dans les papiers, pas dans les degrés."
+    a: "Non. On ne peut pas compter des frères et sœurs, nés ou à naître, à partir d’un thème. Chaque thème a une Part des frères et sœurs, celui d’un enfant unique compris, parce que c’est un calcul et non un registre de votre famille. Votre histoire familiale est chez les gens et dans les papiers, pas dans les degrés."
   - q: "Quelle différence entre la Part des frères et sœurs et la maison 3 ?"
     a: "La maison 3 est tout un secteur du thème, que la tradition donnait à la fratrie parmi d’autres choses proches : voisins, cousins, conversations quotidiennes, petits trajets. La part est un seul degré, calculé pour la fratrie seule, qui peut tomber dans n’importe quelle maison. Ceux qui s’en servent la lisent avec la maison 3, pas à sa place."
   - q: "Des jumeaux ont-ils la même Part des frères et sœurs ?"
@@ -46,7 +46,7 @@ La fratrie était un sujet à part entière bien avant qu’on calcule un point 
 
 Comptée depuis l’ascendant, la part avance au même rythme que lui, ce qui a ici une conséquence particulière. Des frères et sœurs nés à des années d’écart ont des Parts des frères et sœurs différentes, aussi différentes que leurs thèmes. Même des jumeaux n’en partagent pas une : nés à dix minutes d’écart, leurs ascendants diffèrent d’environ deux degrés et demi, et leurs parts d’autant, ce qui, près de la limite d’un signe ou d’une maison, peut les placer de part et d’autre. Pour tous les autres, arrondir l’heure de naissance à l’heure pleine peut suffire à faire changer la part de signe : [l’heure](/blog/unknown-birth-time/#ce-que-l-heure-decide) doit donc être établie d’abord.
 
-Les deux points entre lesquels elle mesure, je ne les donne pas, pour la raison expliquée sur la page de la [Part du père](/astrology/part-of-the-father/#comment-ca-marche). Si un logiciel vous affiche une Part des frères et sœurs, ses réglages ou son aide devraient nommer ces points, et dire s’il les inverse pour une naissance de nuit.
+Les deux points entre lesquels elle mesure, je ne les donne pas, pour la raison expliquée sur la page de la [Part du père](/astrology/part-of-the-father/#comment-ca-marche). Un logiciel qui vous affiche une Part des frères et sœurs devrait documenter les deux, ainsi que ce qu’il change pour une naissance de nuit.
 
 Les astrologues de l’horaire comptent aussi les maisons à partir de la maison 3 pour interroger les affaires d’un frère ou d’une sœur, comme ils le font à partir de la maison d’un parent ([maisons dérivées](/astrology/derived-houses/)).
 
@@ -61,4 +61,4 @@ Un frère ou une sœur a son propre thème. Si deux adultes d’une même fratri
 - **« La Part des frères et sœurs dit combien de frères et sœurs vous aurez. »** Aucun point ne peut faire entrer quelqu’un dans une famille ni l’en faire sortir.
 - **« Un enfant unique n’a pas de Part des frères et sœurs. »** Chaque thème en a une. C’est un calcul, pas un recensement.
 - **« Des jumeaux ont la même part. »** À peu près seulement : leurs parts diffèrent d’autant que leurs ascendants.
-- **« La part décrit votre frère ou votre sœur. »** C’est un degré de votre thème. Le caractère d’un frère ou d’une sœur est dans son propre thème, lu avec son accord.
+- **« La part décrit votre frère ou votre sœur. »** Elle appartient à votre thème ; le caractère d’un frère ou d’une sœur est dans le sien, lu avec son accord.

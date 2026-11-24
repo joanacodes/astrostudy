@@ -39,7 +39,7 @@ Of all the lots, the Part of the Mother is the one most often mixed up with some
 
 It's a lot ([doctrine of the lots](/astrology/doctrine-of-the-lots/)), and tradition kept it for questions about the mother. It belongs to a small family of lots for relatives, beside the [Part of the Father](/astrology/part-of-the-father/), with the [Part of Siblings](/astrology/part-of-siblings/) one branch further along the family tree.
 
-Many astrology books take a shortcut that's easy to fall into: the Moon is the mother. The idea is widespread enough that a general encyclopaedia records it, carefully, as an association made "for some". I don't read the Moon that way. In the system I read with, the [Moon](/astrology/moon/) is how you process feeling and attachment: what makes you feel safe, the habits that settle you, how you look after a need. Some of that you learned from whoever looked after you, but the Moon describes you, not her.
+Many astrology books take a shortcut that's easy to fall into: the Moon is the mother. The idea is widespread enough that a general encyclopaedia records it, carefully, as an association made "for some". I don't read the Moon that way. In the system I read with, the [Moon](/astrology/moon/) is how you process feeling and attachment: what makes you feel safe, the habits that settle you, how you tend to a need. Some of that you learned from whoever looked after you, but the Moon describes you, not her.
 
 The lot isn't the Moon either. It's a separate degree, produced by arithmetic, which can land in any sign and any house, far from wherever your Moon happens to be.
 
@@ -66,6 +66,6 @@ Beyond that, I keep to three rules:
 ## Common myths {#myths}
 
 - **“Your Moon sign is your mother's personality.”** Your Moon describes how you meet your own feelings and needs. Your mother's temperament is in her chart, not yours.
-- **“The Part of the Mother shows whether you'll have children.”** It was never a pregnancy point, and no point is one.
+- **“The Part of the Mother is a fertility point.”** It was never a pregnancy point, and no point is one.
 - **“Your Part of the Mother is wherever the first app put it.”** Check how that app treats a night birth. If a second one mirrors it around your Ascendant, the difference is the reversal, not a mistake.
 - **“A tense placement means you weren't loved.”** No placement measures the love you received. What a chart can show is how care felt, and what you need from it now.

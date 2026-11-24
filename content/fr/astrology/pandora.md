@@ -64,4 +64,4 @@ Ce que je peux vous dire, c’est qu’aucun placement n’annonce le malheur. J
 - **« Pandore dans votre thème annonce des ennuis. »** Aucun astéroïde n’annonce rien, et un mythe n’est pas un calendrier.
 - **« Pandore a ouvert une boîte. »** C’était une jarre ; la boîte vient d’Érasme, en 1508.
 - **« Pandore, c’est la curiosité punie. »** Son nom parle de dons, et dans le récit, l’espérance reste avec nous.
-- **« Pandore a été nommé pour son sens astrologique. »** Il a été nommé au milieu d’une querelle d’observatoire ; le sens est venu bien après.
+- **« Le nom de Pandore était un avertissement. »** Il a été nommé au milieu d’une querelle d’observatoire ; le sens est venu bien après.

@@ -63,4 +63,4 @@ What I can tell you is that no placement forecasts trouble. I read the planets' 
 - **“Pandora in your chart means trouble is coming.”** No asteroid forecasts anything, and a myth is not a timetable.
 - **“Pandora opened a box.”** It was a jar; the box is Erasmus's, from 1508.
 - **“Pandora is all about curiosity punished.”** Her name is about gifts, and in the story hope stays with us.
-- **“Pandora was named for its astrological meaning.”** It was named in the middle of an observatory quarrel; any meaning came long after.
+- **“Pandora's name was a warning.”** It was named in the middle of an observatory quarrel; any meaning came long after.

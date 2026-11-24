@@ -61,7 +61,7 @@ Ce que je ne fais pas, c’est dater un voyage. Les [transits](/astrology/transi
 
 ## Idées reçues {#idees-recues}
 
-- **« La Part des voyages montre si un voyage se passera bien. »** Ptolémée posait la question ; aucun point ne peut y répondre.
+- **« Une Part des voyages bien placée garantit des voyages sans encombre. »** Ptolémée voulait le savoir lui aussi ; aucun point ne peut le dire.
 - **« Elle dit où vous devriez vivre. »** C’est un degré dans un thème, pas une carte ; et même les cartes tirées du thème décrivent des thèmes de vie, pas de bons et de mauvais endroits.
 - **« Partir vivre à l’étranger change votre thème natal. »** Votre thème natal reste celui de votre lieu de naissance. Un thème de relocalisation est un autre dessin, où chaque part se déplace avec l’ascendant.
 - **« Pas de Part des voyages en maison 9, pas de voyages dans votre vie. »** La part peut tomber dans n’importe quelle maison, et elle ne décide pas jusqu’où vous irez.

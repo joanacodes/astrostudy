@@ -25,7 +25,7 @@ faq:
   - q: "Que signifie Cupido en astrologie ?"
     a: "Tout dépend du Cupido. L’astéroïde, le numéro 763, emprunte son sens au dieu du désir dont il porte le nom latin. Les astrologues uraniens désignent autre chose : un point hypothétique d’Alfred Witte, lu pour l’amour, le partenariat et les arts. Je ne lis ni l’un ni l’autre ; je lis le désir par Vénus et Mars."
   - q: "Quelle différence entre l’astéroïde Cupido et le Cupido uranien ?"
-    a: "L’astéroïde est un rocher d’environ 7 km, découvert en 1913, qui fait le tour du Soleil en 3 ans et 4 mois entre Mars et Jupiter. Le Cupido uranien est l’un des points qu’Alfred Witte a placés au-delà de Neptune dans les années 1920 ; aucun télescope n’y a vu de planète. Un thème peut afficher l’un ou l’autre : vérifiez l’étiquette."
+    a: "L’astéroïde est un rocher d’environ 7 km, découvert en 1913, qui fait le tour du Soleil en 3 ans et 4 mois entre Mars et Jupiter. Le Cupido uranien est l’un des points qu’Alfred Witte a placés au-delà de Neptune dans les années 1920 ; aucun télescope n’y a vu de planète. Sur un thème, seule l’étiquette les distingue."
   - q: "Pourquoi l’astéroïde s’appelle-t-il Cupido ?"
     a: "Il porte le nom latin de Cupidon, le dieu romain du désir, de l’attirance et de l’affection ; Cupido veut dire désir passionné. Le nom a sans doute été choisi par l’astronome suédois Bror Asplind, en raison de la relative proximité de l’astéroïde avec le Soleil ; Paul Herget l’a consigné en 1955."
   - q: "Cupido montre-t-il quand je me marierai ?"
@@ -61,7 +61,7 @@ Le désir entre dans mes lectures par [Vénus](/astrology/venus/) et [Mars](/ast
 
 ## Idées reçues {#idees-recues}
 
-- **« L’astéroïde Cupido et le Cupido uranien, c’est la même chose. »** L’un est un rocher de 7 km découvert en 1913 ; l’autre, un point proposé au-delà de Neptune et jamais observé.
+- **« L’astéroïde Cupido et le Cupido uranien, c’est la même chose. »** L’astéroïde a été découvert en 1913 et peut s’observer ; le Cupido de Witte, personne ne l’a jamais vu.
 - **« Cupido montre quand vous vous marierez. »** Aucun point, réel ou hypothétique, n’inscrit un mariage au calendrier.
 - **« Les astronomes ont nommé Cupido pour son sens astrologique. »** Il a été nommé, sans doute par Bror Asplind, pour sa relative proximité avec le Soleil ; ce que les astrologues y lisent est venu ensuite.
 - **« Cupido, c’est seulement tomber amoureux. »** Chez Ovide, les flèches de Cupidon font fuir autant qu’elles font désirer.

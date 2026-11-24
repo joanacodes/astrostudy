@@ -56,7 +56,7 @@ The lots of death and illness were read with all this, as one more pointer each.
 
 Death, yours or a loved one's, and health questions are on my list of what I won't read ([how I read](/how-i-read/)), and two pages say why in full: [can astrology predict death?](/astrology/can-astrology-predict-death/) and [can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/). I describe this history because people meet these lots in software and old books, and sometimes in a frightening reading built on them. If someone calculated a lot of death in your chart and told you what it meant, it meant nothing about your life.
 
-What a chart can hold is gentler. The [8th house](/astrology/8th-house/), which tradition gave to death, I read as intimacy, trust and what you let go of. The [6th](/astrology/6th-house/), which it gave to illness, I read as daily work and daily care. And if the fear of dying or of falling ill keeps coming back, that fear deserves real help, from a doctor or a therapist ([astrology and mental health](/astrology/astrology-and-mental-health/)).
+A chart has gentler things to offer. The [8th house](/astrology/8th-house/), which tradition gave to death, I read as intimacy, trust and what you let go of. The [6th](/astrology/6th-house/), which it gave to illness, I read as daily work and daily care. And if the fear of dying or of falling ill keeps coming back, that fear deserves real help, from a doctor or a therapist ([astrology and mental health](/astrology/astrology-and-mental-health/)).
 
 ## Common myths {#myths}
 
