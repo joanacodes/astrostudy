@@ -5,6 +5,8 @@ description: "Alkaid in astrology: the last star of the Plough’s handle at 27�
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "stars"
+categories: ["Stars"]
+tags: ["Alkaid", "fixed stars", "Behenian stars"]
 weight: 17
 glyph: "★"
 definition: "Alkaid is the fixed star at the end of the Plough’s handle, in Ursa Major, at 27°18′ Virgo in the tropical zodiac in 2026. Its Arabic name means the leader of the daughters of the bier; medieval magic gave it to Venus and the Moon. Lying 54° north of the Sun’s path, it meets late-Virgo planets only by degree."
