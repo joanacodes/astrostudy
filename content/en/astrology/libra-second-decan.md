@@ -5,6 +5,8 @@ description: "Libra, second decan: 10° to 20° Libra, the Sun about 3 to 12 Oct
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "signs"
+categories: ["Signs"]
+tags: ["Libra", "decans"]
 weight: 41
 glyph: "♎"
 definition: "The second decan of Libra runs from 10° to 20° of the sign, the stretch the Sun crosses from about 3 to 12 October. Saturn rules it twice: as its face in the Chaldean order, and through Aquarius in the modern decans, where Uranus shares the rule. Here Libra’s sense of fairness tends to want rules that last."
@@ -39,7 +41,7 @@ After the Moon's face ([Libra, first decan](/astrology/libra-first-decan/)), the
 
 Counting Aquarius's older ruler, this is one of nine decans in the zodiac where the two systems name the same planet. It also stacks Saturn's dignities. Saturn is [exalted](/astrology/exaltation/) in Libra, so [Saturn in Libra](/astrology/saturn-in-libra/) between 10° and 20° holds exaltation and face together; its exaltation degree, the 21st, lies just ahead ([Libra, third decan](/astrology/libra-third-decan/)).
 
-Uranus, the modern co-ruler, puts its own question beside Saturn's: not only whether the rules hold, but whether they could be fairer.
+Uranus, the modern co-ruler, puts its own question beside Saturn's: not only whether the rules hold, but whether they could be fairer. A planet here can feel both pulls, keeping its word and wanting to rewrite the terms, and I would rather name both than choose.
 
 ## Its image {#its-image}
 

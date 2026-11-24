@@ -5,6 +5,8 @@ description: "Taurus, third decan: 20° to 30° Taurus, ruled by Saturn in both 
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "signs"
+categories: ["Signs"]
+tags: ["Taurus", "decans"]
 weight: 27
 glyph: "♉"
 definition: "The third decan of Taurus is the sign’s last ten degrees, 20° to 30° Taurus, where the Sun stands from about 11 to 20 May. Saturn rules it by face and by element, under Venus as ruler of the sign. I read a planet here as Taurus with Saturn’s patience and sense of structure added."

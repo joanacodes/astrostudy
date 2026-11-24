@@ -36,7 +36,7 @@ Procyon is the star of the Little Dog, and its Greek name says only that it come
 
 ## Where it is {#where-it-is}
 
-At magnitude 0.38, α Canis Minoris is usually the eighth-brightest star of the night sky. Its light takes 11.46 years to reach us, and a faint white dwarf companion, Procyon B, circles it every 40.84 years. With [Sirius](/astrology/sirius/) and Betelgeuse it makes the Winter Triangle, and it is one of the six stars of the larger Winter Hexagon. Sirius lies further east, yet from most northern latitudes Procyon clears the horizon first, because it sits further north: hence the name.
+At magnitude 0.38, α Canis Minoris is usually the eighth-brightest star of the night sky. Its light takes 11.46 years to reach us, and a faint white dwarf companion, Procyon B, circles it every 40.84 years. With [Sirius](/astrology/sirius/) and Betelgeuse, Orion's red shoulder, it makes the Winter Triangle, and it is one of the six stars of the larger Winter Hexagon. Sirius lies further east, yet from most northern latitudes Procyon clears the horizon first, because it sits further north: hence the name.
 
 For every birth in living memory it has sat in the last third of [Cancer](/astrology/cancer/): 24°48′ in 1930, 25°46′ in 2000, 26°08′ in 2026. Its latitude is 16° south of the ecliptic: well clear of the planets in the sky, though nowhere near as far as [Alkaid](/astrology/alkaid/), the star at the end of the Plough's handle, more than fifty degrees north.
 
