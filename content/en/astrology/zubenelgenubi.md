@@ -9,7 +9,7 @@ categories: ["Stars"]
 tags: ["Zubenelgenubi", "fixed stars"]
 weight: 46
 glyph: "★"
-definition: "Zubenelgenubi is the fixed star Alpha Librae, the southern claw of the old Scorpion, at 15°26′ Scorpio in the tropical zodiac. It lies only 0.3° from the Sun’s path, so a planet near 15° Scorpio can truly pass beside it, or in front of it: here a chart’s conjunction and the sky’s agree."
+definition: "Zubenelgenubi is the fixed star Alpha Librae, the southern claw of the old Scorpion, at 15°26′ Scorpio in the tropical zodiac. It lies only 0.3° from the Sun’s path, so a planet near 15° Scorpio can truly pass beside it, or in front of it: here, Pluto apart, a chart’s conjunction and the sky’s agree."
 facts:
   - { k: "Constellation", v: "Libra, the Scales: α² Librae" }
   - { k: "Brightness", v: "Magnitude 2.75, second in Libra to Zubeneschamali" }
@@ -52,6 +52,6 @@ The two claws together made an Arabic lunar mansion, az-Zubānā, the Two Claws 
 
 ## In a birth chart {#in-a-birth-chart}
 
-Any planet or angle from 14°26′ to 16°26′ Scorpio, for a birth in 2026, meets the tradition's test of a conjunction; for 1930 the span ran from 13°06′ to 15°06′ ([conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/)). With this star the word can mean what it says in the sky as well as on paper. The Sun is there on about 7 and 8 November, a [Sun in Scorpio](/astrology/sun-in-scorpio/) at mid-sign, almost in front of the star. The slow planets mark years instead of days: Neptune held the degree in parts of 1962–64, and [Pluto in Scorpio](/astrology/pluto-in-scorpio/) at intervals from December 1988 to September 1990, a contact shared by everyone born inside those months. Whether the Moon was there, and whether it was hiding the star, depends on the hour of birth ([what changes without a birth time](/blog/unknown-birth-time/)).
+Any planet or angle from 14°26′ to 16°26′ Scorpio, for a birth in 2026, meets the tradition's test of a conjunction; for 1930 the span ran from 13°06′ to 15°06′ ([conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/)). With this star the word can mean what it says in the sky as well as on paper. The Sun is there on about 7 and 8 November, a [Sun in Scorpio](/astrology/sun-in-scorpio/) at mid-sign, almost in front of the star. The slow planets mark years instead of days: Neptune held the degree in parts of 1962–64, and [Pluto in Scorpio](/astrology/pluto-in-scorpio/) at intervals from December 1988 to September 1990, a contact shared by everyone born inside those months, though Pluto, on its tilted orbit, went by some 15° north of the star. Whether the Moon was there, and whether it was hiding the star, depends on the hour of birth ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 I don't fold stars into my readings ([How I read](/how-i-read/)), but Zubenelgenubi is worth knowing all the same: it is the rare star where a chart's conjunction and the sky's agree.

@@ -10,7 +10,7 @@ categories: ["Étoiles"]
 tags: ["Zubenelgenubi", "étoiles fixes"]
 weight: 46
 glyph: "★"
-definition: "Zubenelgenubi est l’étoile fixe Alpha de la Balance, la pince sud de l’ancien Scorpion, à 15°26′ du Scorpion. Elle se trouve à 0,3° seulement de la route du Soleil : une planète vers 15° du Scorpion peut vraiment passer à côté d’elle, ou devant elle, et ici la conjonction du thème et celle du ciel s’accordent."
+definition: "Zubenelgenubi est l’étoile fixe Alpha de la Balance, la pince sud de l’ancien Scorpion, à 15°26′ du Scorpion. Elle se trouve à 0,3° seulement de la route du Soleil : une planète vers 15° du Scorpion peut vraiment passer à côté d’elle, ou devant elle, et ici, sauf pour Pluton, la conjonction du thème et celle du ciel s’accordent."
 facts:
   - { k: "Constellation", v: "La Balance : α² Librae" }
   - { k: "Éclat", v: "Magnitude 2,75, deuxième de la Balance après Zubeneschamali" }
@@ -53,6 +53,6 @@ Les deux pinces formaient ensemble une maison lunaire arabe, az-Zubānā, les De
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Toute planète ou tout angle entre 14°26′ et 16°26′ du Scorpion, pour une naissance en 2026, passe le test de la conjonction selon la tradition ; pour 1930, l’intervalle allait de 13°06′ à 15°06′ ([conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/)). Avec cette étoile, le mot peut dire ce qu’il dit dans le ciel autant que sur le papier. Le Soleil s’y trouve vers les 7 et 8 novembre, un [Soleil en Scorpion](/astrology/sun-in-scorpio/) au milieu du signe, presque devant l’étoile. Les planètes lentes marquent des années plutôt que des jours : Neptune tenait le degré à certains moments de 1962–64, et [Pluton en Scorpion](/astrology/pluto-in-scorpio/), par intervalles, de décembre 1988 à septembre 1990, un contact que partagent toutes les personnes nées dans ces mois-là. Savoir si la Lune s’y trouvait, et si elle cachait l’étoile, dépend de l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Toute planète ou tout angle entre 14°26′ et 16°26′ du Scorpion, pour une naissance en 2026, passe le test de la conjonction selon la tradition ; pour 1930, l’intervalle allait de 13°06′ à 15°06′ ([conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/)). Avec cette étoile, le mot peut dire ce qu’il dit dans le ciel autant que sur le papier. Le Soleil s’y trouve vers les 7 et 8 novembre, un [Soleil en Scorpion](/astrology/sun-in-scorpio/) au milieu du signe, presque devant l’étoile. Les planètes lentes marquent des années plutôt que des jours : Neptune tenait le degré à certains moments de 1962–64, et [Pluton en Scorpion](/astrology/pluto-in-scorpio/), par intervalles, de décembre 1988 à septembre 1990, un contact que partagent toutes les personnes nées dans ces mois-là, même si Pluton, dont l’orbite est inclinée, passait à quelque 15° au nord de l’étoile. Savoir si la Lune s’y trouvait, et si elle cachait l’étoile, dépend de l’heure de naissance ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 Je n’intègre pas les étoiles à mes lectures ([Ma méthode](/how-i-read/)), mais Zubenelgenubi vaut d’être connue : c’est la rare étoile où la conjonction du thème et celle du ciel s’accordent.

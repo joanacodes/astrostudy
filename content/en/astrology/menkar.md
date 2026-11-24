@@ -9,7 +9,7 @@ categories: ["Stars"]
 tags: ["Menkar", "fixed stars"]
 weight: 41
 glyph: "★"
-definition: "Menkar is the fixed star Alpha Ceti, the nose of Cetus, the sea monster, at 14°41′ Taurus in the tropical zodiac. It lies 12.6° south of the Sun’s path, so a mid-Taurus planet on its degree shares a number with it without ever passing near it."
+definition: "Menkar is the fixed star Alpha Ceti, the nose of Cetus, the sea monster, at 14°41′ Taurus in the tropical zodiac. It lies 12.6° south of the Sun’s path, so a planet in mid-Taurus can share its degree, though not its place among the stars."
 facts:
   - { k: "Constellation", v: "Cetus, the sea monster: α Ceti" }
   - { k: "Brightness", v: "Magnitude 2.53, second in Cetus to Diphda" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/hamal", "/astrology/mirach", "/astrology/mira", "/astrology/taurus", "/astrology/fixed-stars-in-astrology"]
 faq:
   - q: "What is Menkar in astrology?"
-    a: "The nose of the sea monster Cetus, Alpha Ceti, at 14°41′ Taurus for a birth in 2026: a planet or angle within a degree of that point counts as conjunct it. The star lies 12.6° south of the Sun’s path, so such a planet shares its degree of the zodiac, never its place in the sky."
+    a: "The nose of the sea monster Cetus, Alpha Ceti, at 14°41′ Taurus for a birth in 2026: a planet or angle within a degree of that point counts as conjunct it. For a birth in 1930 that point was 13°20′ Taurus: the older the chart, the earlier the degree."
   - q: "Is Menkar the brightest star in Cetus?"
     a: "No. Bayer lettered it Alpha, but at magnitude 2.53 it is outshone by Diphda, Beta Ceti, at about 2.0. Menkar is a red giant some 250 light-years away, late in its life, and astronomers expect it to grow unstable, like Mira in the same constellation, before it sheds its outer layers."
   - q: "When is the Sun conjunct Menkar?"
@@ -29,7 +29,7 @@ faq:
   - q: "Why is Menkar called the nose?"
     a: "Its name comes from the Arabic manḥar, the nostril, for its place at the snout of Cetus, the sea monster sent against Andromeda in the Greek story. With a handful of nearby stars, it also belonged to an Arabic figure, Al Kaff al Jidhmah, the Part of a Hand."
 sources:
-  - { title: "Yale Bright Star Catalogue, 5th ed. (Hoffleit and Warren, 1991), and The Astro Study’s dates from the Sun’s and Saturn’s positions, 1930–2009", note: "position and brightness; the birthdays that put the Sun or Saturn on its degree" }
+  - { title: "Yale Bright Star Catalogue, 5th ed. (Hoffleit and Warren, 1991), and The Astro Study’s dates from the Sun’s, Saturn’s and Pluto’s positions", note: "position and brightness; the birthdays that put the Sun or Saturn on its degree, 1930–2009, and Pluto’s pass in the 1860s" }
   - { title: "Richard Hinckley Allen, Star-Names and Their Meanings (1899), and Paul Kunitzsch and Tim Smart, A Dictionary of Modern Star Names (2006), via Wikipedia, “Alpha Ceti”", url: "https://en.wikipedia.org/wiki/Alpha_Ceti", note: "its names, the Part of a Hand and the Chinese granary; its future as a giant" }
 ---
 Menkar marks the nose of Cetus, the sea monster of the Andromeda story. The zodiac places it at 14°41′ Taurus, but unlike the stars of Andromeda and Pegasus above it, it lies south of the Sun's path, almost on the celestial equator.
@@ -40,7 +40,7 @@ Menkar is Alpha Ceti, though at magnitude 2.53 it is only the second star of its
 
 Its tropical degree was 13°20′ [Taurus](/astrology/taurus/) for a birth in 1930, 14°18′ in 2000 and 14°41′ in 2026: a mid-Taurus star, though its constellation lies nowhere near the Bull ([constellations versus signs](/astrology/constellations-versus-signs/)). Its neighbours by degree come from other figures too: [Hamal](/astrology/hamal/), the Ram's brightest star, at 8°01′ Taurus, and [Mirach](/astrology/mirach/), from Andromeda, at 0°46′.
 
-Its latitude is 12.6° south of the [ecliptic](/astrology/ecliptic/). The Moon, which strays only about 5° from that line, can never cover Menkar, and no planet passes near it; seen from the Earth, the star sits just 4° north of the celestial equator, well below the stretch of the Sun's path that shares its degree ([celestial latitude](/astrology/celestial-latitude/)).
+Its latitude is 12.6° south of the [ecliptic](/astrology/ecliptic/). The Moon, which strays only about 5° from that line, can never cover Menkar, and no planet has passed near it since the 1860s, when Pluto crossed its degree about 3° to the south; seen from the Earth, the star sits just 4° north of the celestial equator, well below the stretch of the Sun's path that shares its degree ([celestial latitude](/astrology/celestial-latitude/)).
 
 ## Its tradition {#its-tradition}
 

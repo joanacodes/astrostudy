@@ -30,7 +30,7 @@ faq:
   - q: "What is Denebola in astrology?"
     a: "The Lion’s tail, Beta Leonis, at 21°58′ Virgo for a birth in 2026, conjunct by the tradition’s rule with any planet or angle within a degree of that point. Its oldest lore I could check is about weather, not people: its rising and its setting were said to turn the heat and the cold."
 sources:
-  - { title: "Yale Bright Star Catalogue, 5th ed. (Hoffleit and Warren, 1991), and The Astro Study’s dates from the planets’ positions, 1930–2009", note: "position and brightness; the birthdays and the years that put the Sun, Uranus, Neptune or Pluto on its degree" }
+  - { title: "Yale Bright Star Catalogue, 5th ed. (Hoffleit and Warren, 1991), and The Astro Study’s dates from the planets’ positions, 1930–2009", note: "position and brightness; the birthdays and the years that put the Sun, Uranus, Neptune or Pluto on its degree, and how close Pluto came" }
   - { title: "Richard Hinckley Allen, Star Names and Their Meanings (1899), and Paul Kunitzsch, “The Star Catalogue Commonly Appended to the Alfonsine Tables” (1986), via Wikipedia, “Denebola”", url: "https://en.wikipedia.org/wiki/Denebola", note: "its names, Ulugh Beg’s Changer and al-Biruni on the weather" }
   - { title: "Danielle Adams, “Arabic Star Catalog”, Two Deserts, One Sky (University of Arizona), via Wikipedia, “Lunar station”", url: "https://en.wikipedia.org/wiki/Lunar_station", note: "as-Ṣarfa among the Arabic lunar mansions" }
 ---
@@ -40,7 +40,7 @@ Denebola is the tip of the Lion's tail, at the opposite end of the constellation
 
 Denebola is Beta Leonis, magnitude 2.14, the easternmost of the Lion's bright stars, 36 light-years away. It is a young white star, less than 400 million years old, spinning so fast that it bulges at the equator, and it is ringed by a disc of cold dust about 39 times the Earth's distance from the Sun, the kind of disc in which planets are thought to form. Its light wavers too, by a fortieth of a magnitude, some ten times a day.
 
-Its tropical position was 20°38′ [Virgo](/astrology/virgo/) for a birth in 1930, 21°36′ in 2000 and 21°58′ in 2026: the Lion's tail in the sign of the Maiden, while [Regulus](/astrology/regulus/), at the Lion's other end, only crossed into Virgo between 2000 and 2026 ([constellations versus signs](/astrology/constellations-versus-signs/)). Its latitude, 12.3° north of the [ecliptic](/astrology/ecliptic/), is more than twice as far as the Moon ever strays, so no body of the chart passes in front of it.
+Its tropical position was 20°38′ [Virgo](/astrology/virgo/) for a birth in 1930, 21°36′ in 2000 and 21°58′ in 2026: the Lion's tail in the sign of the Maiden, while [Regulus](/astrology/regulus/), at the Lion's other end, only crossed into Virgo between 2000 and 2026 ([constellations versus signs](/astrology/constellations-versus-signs/)). Its latitude, 12.3° north of the [ecliptic](/astrology/ecliptic/), is more than twice as far as the Moon ever strays; of the planets, only Pluto, on its tilted orbit, can pass north of it, as it did in 1966–68, about 2½° away.
 
 With [Arcturus](/astrology/arcturus/) and [Spica](/astrology/spica/), Denebola makes a version of the Spring Triangle, more nearly equilateral than the usual one drawn with Regulus.
 

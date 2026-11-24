@@ -10,7 +10,7 @@ categories: ["Étoiles"]
 tags: ["Menkar", "étoiles fixes"]
 weight: 41
 glyph: "★"
-definition: "Menkar est l’étoile fixe Alpha de la Baleine, le nez du monstre marin Cetus, à 14°41′ du Taureau dans le zodiaque tropical. Elle se trouve à 12,6° au sud de la route du Soleil : une planète du milieu du Taureau posée sur son degré partage un chiffre avec elle sans jamais passer près d’elle."
+definition: "Menkar est l’étoile fixe Alpha de la Baleine, le nez du monstre marin Cetus, à 14°41′ du Taureau dans le zodiaque tropical. Elle se trouve à 12,6° au sud de la route du Soleil : une planète du milieu du Taureau peut partager son degré, mais pas sa place parmi les étoiles."
 facts:
   - { k: "Constellation", v: "La Baleine (Cetus), le monstre marin : α Ceti" }
   - { k: "Éclat", v: "Magnitude 2,53, deuxième de la Baleine après Diphda" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/hamal", "/astrology/mirach", "/astrology/mira", "/astrology/taurus", "/astrology/fixed-stars-in-astrology"]
 faq:
   - q: "Qu’est-ce que Menkar en astrologie ?"
-    a: "Le nez du monstre marin Cetus, Alpha de la Baleine, à 14°41′ du Taureau en 2026 : une planète ou un angle à un degré de ce point lui est conjoint. L’étoile se trouve à 12,6° au sud de la route du Soleil, si bien que cette planète partage son degré du zodiaque, jamais sa place dans le ciel."
+    a: "Le nez du monstre marin Cetus, Alpha de la Baleine, à 14°41′ du Taureau en 2026 : une planète ou un angle à un degré de ce point lui est conjoint. Pour une naissance en 1930, ce point était à 13°20′ du Taureau : plus le thème est ancien, plus ce degré recule."
   - q: "Menkar est-elle l’étoile la plus brillante de la Baleine ?"
     a: "Non. Bayer lui a donné la lettre Alpha, mais avec sa magnitude de 2,53, elle est dépassée par Diphda, Bêta de la Baleine, vers 2,0. Menkar est une géante rouge en fin de vie, et les astronomes s’attendent à la voir devenir instable, comme Mira dans la même constellation, avant de perdre ses couches extérieures."
   - q: "Quand le Soleil est-il conjoint à Menkar ?"
@@ -30,7 +30,7 @@ faq:
   - q: "Pourquoi appelle-t-on Menkar le nez ?"
     a: "Son nom vient de l’arabe manḥar, la narine, pour sa place au museau de Cetus, le monstre marin envoyé contre Andromède dans le récit grec. Avec quelques étoiles voisines, elle appartenait aussi à une figure arabe, Al Kaff al Jidhmah, la Partie d’une main."
 sources:
-  - { title: "Yale Bright Star Catalogue, 5e éd. (Hoffleit et Warren, 1991), et les dates de The Astro Study d’après la position du Soleil et de Saturne, 1930–2009", note: "position et éclat ; les anniversaires qui placent le Soleil ou Saturne sur son degré" }
+  - { title: "Yale Bright Star Catalogue, 5e éd. (Hoffleit et Warren, 1991), et les dates de The Astro Study d’après la position du Soleil, de Saturne et de Pluton", note: "position et éclat ; les anniversaires qui placent le Soleil ou Saturne sur son degré, 1930–2009, et le passage de Pluton dans les années 1860" }
   - { title: "Richard Hinckley Allen, Star-Names and Their Meanings (1899), et Paul Kunitzsch et Tim Smart, A Dictionary of Modern Star Names (2006), via Wikipédia en anglais, « Alpha Ceti »", url: "https://en.wikipedia.org/wiki/Alpha_Ceti", note: "ses noms, la Partie d’une main et le grenier chinois ; son avenir de géante" }
 ---
 Menkar marque le nez de Cetus, le monstre marin de l’histoire d’Andromède, dans la constellation de la Baleine. Le zodiaque la place à 14°41′ du Taureau, mais, à la différence des étoiles d’Andromède et de Pégase au-dessus d’elle, elle se trouve au sud de la route du Soleil, presque sur l’équateur céleste.
@@ -41,7 +41,7 @@ Menkar est Alpha de la Baleine, même si, avec sa magnitude de 2,53, elle n’es
 
 Son degré tropical était de 13°20′ du [Taureau](/astrology/taurus/) pour une naissance en 1930, de 14°18′ en 2000 et de 14°41′ en 2026 : une étoile du milieu du Taureau, alors que sa constellation n’est nulle part près de celle du Taureau ([constellations et signes](/astrology/constellations-versus-signs/)). Ses voisines par le degré viennent elles aussi d’autres figures : [Hamal](/astrology/hamal/), la plus brillante du Bélier, à 8°01′ du Taureau, et [Mirach](/astrology/mirach/), d’Andromède, à 0°46′.
 
-Sa latitude est de 12,6° au sud de l’[écliptique](/astrology/ecliptic/). La Lune, qui ne s’écarte de cette ligne que d’environ 5°, ne peut jamais cacher Menkar, et aucune planète ne passe près d’elle ; vue de la Terre, l’étoile se tient à 4° seulement au nord de l’équateur céleste, bien au-dessous du tronçon de la route du Soleil qui partage son degré ([latitude céleste](/astrology/celestial-latitude/)).
+Sa latitude est de 12,6° au sud de l’[écliptique](/astrology/ecliptic/). La Lune, qui ne s’écarte de cette ligne que d’environ 5°, ne peut jamais cacher Menkar, et aucune planète ne l’a approchée depuis les années 1860, quand Pluton a croisé son degré à environ 3° au sud d’elle ; vue de la Terre, l’étoile se tient à 4° seulement au nord de l’équateur céleste, bien au-dessous du tronçon de la route du Soleil qui partage son degré ([latitude céleste](/astrology/celestial-latitude/)).
 
 ## Sa tradition {#sa-tradition}
 

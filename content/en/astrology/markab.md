@@ -9,7 +9,7 @@ categories: ["Stars"]
 tags: ["Markab", "fixed stars"]
 weight: 37
 glyph: "★"
-definition: "Markab is the fixed star Alpha Pegasi, a corner of the Great Square of Pegasus, at 23°50′ Pisces in the tropical zodiac. In a birth chart it touches only a planet or angle near 23° or 24° Pisces, and even then from 19° north of the Sun’s path, so the meeting is one of degree, not of sky."
+definition: "Markab is the fixed star Alpha Pegasi, a corner of the Great Square of Pegasus, at 23°50′ Pisces in the tropical zodiac. In a birth chart it touches only a planet or angle near 23° or 24° Pisces, and even then it shines 19° north of the Sun’s path, well away from the point it is said to touch."
 facts:
   - { k: "Constellation", v: "Pegasus: α Pegasi" }
   - { k: "Brightness", v: "Magnitude 2.49, the third brightest of Pegasus" }

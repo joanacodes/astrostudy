@@ -10,7 +10,7 @@ categories: ["Étoiles"]
 tags: ["Markab", "étoiles fixes"]
 weight: 37
 glyph: "★"
-definition: "Markab est l’étoile fixe Alpha de Pégase, un coin du Grand Carré, à 23°50′ des Poissons. Dans un thème natal, elle ne touche qu’une planète ou un angle vers 23° ou 24° des Poissons, et encore depuis 19° au nord de la route du Soleil : la rencontre se fait par le degré, pas dans le ciel."
+definition: "Markab est l’étoile fixe Alpha de Pégase, un coin du Grand Carré, à 23°50′ des Poissons. Dans un thème natal, elle ne touche qu’une planète ou un angle vers 23° ou 24° des Poissons, et même alors, elle brille à 19° au nord de la route du Soleil, bien loin du point qu’elle est censée toucher."
 facts:
   - { k: "Constellation", v: "Pégase : α Pegasi" }
   - { k: "Éclat", v: "Magnitude 2,49, la troisième étoile de Pégase" }

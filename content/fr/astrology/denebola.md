@@ -31,7 +31,7 @@ faq:
   - q: "Qu’est-ce que Denebola en astrologie ?"
     a: "La queue du Lion, Bêta du Lion, à 21°58′ de la Vierge en 2026, conjointe selon la tradition à toute planète ou tout angle à un degré de ce point. Son plus ancien savoir vérifiable parle du temps qu’il fait, pas des personnes : son lever et son coucher passaient pour chasser la chaleur et le froid."
 sources:
-  - { title: "Yale Bright Star Catalogue, 5e éd. (Hoffleit et Warren, 1991), et les dates de The Astro Study d’après la position des planètes, 1930–2009", note: "position et éclat ; les anniversaires et les années qui placent le Soleil, Uranus, Neptune ou Pluton sur son degré" }
+  - { title: "Yale Bright Star Catalogue, 5e éd. (Hoffleit et Warren, 1991), et les dates de The Astro Study d’après la position des planètes, 1930–2009", note: "position et éclat ; les anniversaires et les années qui placent le Soleil, Uranus, Neptune ou Pluton sur son degré, et la distance de Pluton à l’étoile" }
   - { title: "Richard Hinckley Allen, Star Names and Their Meanings (1899), et Paul Kunitzsch, « The Star Catalogue Commonly Appended to the Alfonsine Tables » (1986), via Wikipédia en anglais, « Denebola »", url: "https://en.wikipedia.org/wiki/Denebola", note: "ses noms, celle qui change selon Ulugh Beg, et al-Biruni sur le temps" }
   - { title: "Danielle Adams, « Arabic Star Catalog », Two Deserts, One Sky (Université de l’Arizona), via Wikipédia en anglais, « Lunar station »", url: "https://en.wikipedia.org/wiki/Lunar_station", note: "as-Ṣarfa parmi les maisons lunaires arabes" }
 ---
@@ -41,7 +41,7 @@ Denebola est la pointe de la queue du Lion, à l’autre bout de la constellatio
 
 Denebola est Bêta du Lion, de magnitude 2,14, la plus orientale des étoiles brillantes du Lion, à 36 années-lumière. C’est une jeune étoile blanche, de moins de 400 millions d’années, qui tourne si vite qu’elle se renfle à l’équateur, et elle est entourée d’un disque de poussière froide à environ 39 fois la distance de la Terre au Soleil, le genre de disque où l’on pense que naissent les planètes. Sa lumière vacille aussi, d’un quarantième de magnitude, une dizaine de fois par jour.
 
-Sa position tropicale était de 20°38′ de la [Vierge](/astrology/virgo/) pour une naissance en 1930, de 21°36′ en 2000 et de 21°58′ en 2026 : la queue du Lion dans le signe de la Vierge, alors que [Régulus](/astrology/regulus/), à l’autre bout du Lion, n’est passée dans la Vierge qu’entre 2000 et 2026 ([constellations et signes](/astrology/constellations-versus-signs/)). Sa latitude, 12,3° au nord de l’[écliptique](/astrology/ecliptic/), fait plus de deux fois l’écart maximal de la Lune : aucun astre du thème ne passe devant elle.
+Sa position tropicale était de 20°38′ de la [Vierge](/astrology/virgo/) pour une naissance en 1930, de 21°36′ en 2000 et de 21°58′ en 2026 : la queue du Lion dans le signe de la Vierge, alors que [Régulus](/astrology/regulus/), à l’autre bout du Lion, n’est passée dans la Vierge qu’entre 2000 et 2026 ([constellations et signes](/astrology/constellations-versus-signs/)). Sa latitude, 12,3° au nord de l’[écliptique](/astrology/ecliptic/), fait plus de deux fois l’écart maximal de la Lune ; parmi les planètes, il n’y a que Pluton, dont l’orbite est très inclinée, pour passer au nord d’elle, comme en 1966–68, à environ 2° et demi.
 
 Avec [Arcturus](/astrology/arcturus/) et [Spica (l’Épi)](/astrology/spica/), Denebola forme une version du Triangle de printemps, plus proche de l’équilatéral que celle qu’on trace d’habitude avec Régulus.
 

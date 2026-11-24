@@ -43,7 +43,7 @@ Menkalinan est Bêta du Cocher, de magnitude 1,90, la deuxième étoile de la co
 
 Sa position tropicale était de 28°55′ des [Gémeaux](/astrology/gemini/) pour une naissance en 1930 et de 29°54′ en 2000 ; elle est passée dans le [Cancer](/astrology/cancer/) en 2006 et se trouve à 0°16′ du Cancer en 2026. Toute personne née avant 2006 l’a dans le dernier degré des Gémeaux ([le degré anarétique (29°)](/astrology/anaretic-degree-29/)) ; toute personne née depuis, dans le premier degré du Cancer ([0° d’un signe](/astrology/0-of-a-sign/)).
 
-Sa latitude, 21,5° au nord de l’[écliptique](/astrology/ecliptic/), est le chiffre à garder en tête. Le Soleil se trouve toujours sur l’écliptique, la Lune et les planètes restent à quelques degrés d’elle, si bien qu’aucun de ces astres ne s’approche jamais de Menkalinan dans le ciel. Une planète « conjointe » à Menkalinan partage sa longitude, le degré sur l’échelle du zodiaque, et rien d’autre ([latitude céleste](/astrology/celestial-latitude/)).
+Sa latitude, 21,5° au nord de l’[écliptique](/astrology/ecliptic/), est le chiffre à garder en tête. Le Soleil se trouve toujours sur l’écliptique et, à cet endroit du zodiaque, la Lune et les planètes, y compris Pluton, restent à 7° d’elle au plus, si bien qu’aucun de ces astres ne s’approche jamais de Menkalinan dans le ciel. Une planète « conjointe » à Menkalinan partage sa longitude, le degré sur l’échelle du zodiaque, et rien d’autre ([latitude céleste](/astrology/celestial-latitude/)).
 
 ## Sa tradition {#sa-tradition}
 

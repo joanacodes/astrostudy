@@ -42,7 +42,7 @@ Menkalinan is Beta Aurigae, magnitude 1.90, the second star of the Charioteer af
 
 Its tropical position was 28°55′ [Gemini](/astrology/gemini/) for a birth in 1930 and 29°54′ in 2000; it crossed into [Cancer](/astrology/cancer/) in 2006 and stands at 0°16′ Cancer in 2026. Anyone born before 2006 has it in the last degree of Gemini ([the anaretic degree (29°)](/astrology/anaretic-degree-29/)); anyone born since, in the first degree of Cancer ([0° of a sign](/astrology/0-of-a-sign/)).
 
-Its latitude, 21.5° north of the [ecliptic](/astrology/ecliptic/), is the number to keep in mind. The Sun is always on the ecliptic and the Moon and planets keep within a few degrees of it, so none of them ever comes close to Menkalinan in the sky. A planet "conjunct" Menkalinan shares its longitude, the degree on the zodiac's scale, and nothing else ([celestial latitude](/astrology/celestial-latitude/)).
+Its latitude, 21.5° north of the [ecliptic](/astrology/ecliptic/), is the number to keep in mind. The Sun is always on the ecliptic, and at this point of the zodiac the Moon and the planets, even Pluto, stay within about 7° of it, so none of them ever comes close to Menkalinan in the sky. A planet "conjunct" Menkalinan shares its longitude, the degree on the zodiac's scale, and nothing else ([celestial latitude](/astrology/celestial-latitude/)).
 
 ## Its tradition {#its-tradition}
 
