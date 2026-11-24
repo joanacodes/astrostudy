@@ -10,7 +10,7 @@ categories: ["Signes"]
 tags: ["Scorpion", "décans"]
 weight: 45
 glyph: "♏"
-definition: "Le troisième décan du Scorpion, de 20° à 30°, ferme le signe ; le Soleil y passe du 13 au 21 novembre environ. Vénus le gouverne comme face, la Lune dans les décans modernes par le Cancer : deux astres que le Scorpion affaiblit, Vénus en exil et la Lune en chute. J’y lis une intensité tournée vers le soin."
+definition: "Le troisième décan du Scorpion, de 20° à 30°, ferme le signe ; le Soleil y passe du 13 au 21 novembre environ. Vénus le gouverne comme face, la Lune dans les décans modernes par le Cancer : deux astres que le Scorpion affaiblit, Vénus en exil et la Lune en chute. J’y lis une intensité tournée vers le soin."
 facts:
   - { k: "Degrés", v: "20°–30° Scorpion" }
   - { k: "Face (chaldéenne)", v: "Vénus" }
@@ -50,8 +50,8 @@ Les étoiles donnent une image plus nette. [Unukalhai](/astrology/unukalhai/), �
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le Soleil traverse ces degrés du 13 au 21 novembre environ, la dernière étape d’un [Soleil en Scorpion](/astrology/sun-in-scorpio/). Pour une naissance le 21 ou le 22 novembre, le Soleil a peut-être déjà atteint le Sagittaire, et seule l’heure de naissance le dit ([Sagittaire, premier décan](/astrology/sagittarius-first-decan/)). Je lis la nuance de ce décan comme l’intensité du Scorpion tournée vers ce qu’il aime et ce dont il a besoin : la loyauté, et une forme de soin lente et profonde. Vénus ou la Lune placées ici sont les astres que je regarde deux fois : chacune est mal à l’aise dans le signe, et chacune gouverne le décan.
+Le Soleil traverse ces degrés du 13 au 21 novembre environ, la dernière étape d’un [Soleil en Scorpion](/astrology/sun-in-scorpio/). Pour une naissance le 21 ou le 22 novembre, le Soleil a peut-être déjà atteint le Sagittaire, et seule l’heure de naissance le dit ([Sagittaire, premier décan](/astrology/sagittarius-first-decan/)). Je lis la nuance de ce décan comme l’intensité du Scorpion tournée vers ce qu’il aime et ce dont il a besoin : la loyauté, et une forme de soin lente et profonde. Vénus ou la Lune placées ici sont les astres que je regarde deux fois : chacune est mal à l’aise dans le signe, et chacune gouverne le décan.
 
 Un [ascendant Scorpion](/astrology/scorpio-rising/) dans son dernier décan met environ 54 minutes à franchir l’horizon à la latitude de Paris, et 56 à celle de Londres, un peu moins que les décans précédents, car les signes commencent à se lever plus vite. Une heure de naissance arrondie peut encore placer l’ascendant ici alors qu’il appartient au Sagittaire ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-[Uranus en Scorpion](/astrology/uranus-in-scorpio/) a parcouru ces degrés entre le début de 1979 et la fin de 1981, et Pluton entre 1991 et la fin de 1995, ses dernières années dans le signe. Neptune y était passé entre le début de 1965 et 1970. Chacun de ces passages marque une génération ; la maison où tombe chaque placement est ce qui le rend personnel.
+[Uranus en Scorpion](/astrology/uranus-in-scorpio/) a parcouru ces degrés entre le début de 1979 et la fin de 1981, et Pluton entre 1991 et la fin de 1995, ses dernières années dans le signe. Neptune avait traversé ces degrés entre le début de 1965 et 1970. Chacun de ces passages marque une génération ; la maison où tombe chaque placement est ce qui le rend personnel.
