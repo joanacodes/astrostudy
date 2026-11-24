@@ -107,7 +107,7 @@ The ruler of the 4th house is the planet that rules the sign on the IC. Where it
 The Moon passes over your IC every month and the Sun once a year, Mercury, Venus and Mars for a few weeks: short spells when home and family are on your mind. The slow planets stay for years, roughly as long as they take to cross a sign, more or less with the size of the house:
 
 - **[Jupiter transiting the 4th house](/astrology/jupiter-transit-4th-house/):** about a year of wanting more room at home, more family around, more time inside your own life.
-- **[Saturn transiting the 4th house](/astrology/saturn-transit-4th-house/):** about two and a half years of responsibilities at home and repairs to the foundations, in every sense.
+- **[Saturn transiting the 4th house](/astrology/saturn-transit-4th-house/):** about three years of responsibilities at home and repairs to the foundations, in every sense.
 - **[Uranus transiting the 4th house](/astrology/uranus-transit-4th-house/):** around seven years of change in how and where you live, and a need for freedom there.
 - **[Neptune transiting the 4th house](/astrology/neptune-transit-4th-house/):** around fourteen years when home becomes a longing as much as a place.
 - **[Pluto transiting the 4th house](/astrology/pluto-transit-4th-house/):** a long, deep turning-over of roots and family patterns.

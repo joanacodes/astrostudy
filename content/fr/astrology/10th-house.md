@@ -108,7 +108,7 @@ Le maître de la maison 10 est la planète qui gouverne le signe sur sa cuspide,
 La Lune traverse votre maison 10 chaque mois, le Soleil une fois par an, Mercure, Vénus et Mars pendant quelques semaines : une réunion, une échéance, une semaine où l’on vous voit davantage. Les planètes lentes y restent des années, à peu près le temps qu’il leur faut pour traverser un signe, plus ou moins selon la taille de la maison :
 
 - **[Jupiter en transit en maison 10](/astrology/jupiter-transit-10th-house/) :** environ un an où les ambitions semblent à portée de main, et où l’on vous remarque peut-être plus que d’habitude.
-- **[Saturne en transit en maison 10](/astrology/saturn-transit-10th-house/) :** environ deux ans et demi de responsabilités au travail, et un regard lucide sur ce que vous avez bâti.
+- **[Saturne en transit en maison 10](/astrology/saturn-transit-10th-house/) :** environ trois ans de responsabilités au travail, et un regard lucide sur ce que vous avez bâti.
 - **[Uranus en transit en maison 10](/astrology/uranus-transit-10th-house/) :** environ sept ans d’envie de changer de cap, avec de la place pour un travail qui sort du moule.
 - **[Neptune en transit en maison 10](/astrology/neptune-transit-10th-house/) :** environ quatorze ans où votre vocation demande plus de sens, et où votre image publique devient plus difficile à cerner.
 - **[Pluton en transit en maison 10](/astrology/pluto-transit-10th-house/) :** un long et profond changement dans votre rapport au pouvoir, à l’ambition et au rôle que vous jouez.

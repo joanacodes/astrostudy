@@ -96,7 +96,7 @@ The slow planets keep a longer clock. When Saturn crosses your Moon — [Transit
 
 ## What held in my tests {#what-held}
 
-The Moon was on my list like every placement: its sign and its house, a tick or a cross, in [my notebook](/blog/i-tested-my-birth-chart/) — my own chart first, then family, friends and strangers who agreed to it. It wasn't one of the three that held far more often; those were [Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/), which held 75 to 90% of the time. Overall, about a third of what I checked held: 30 to 40%. So I read the Moon in every chart, but I don't build a reading on it alone, and when part of one rests on it, I tell you. If you don't know your birth time and the Moon changed sign that day, I say so too, and read both if they matter. It's a notebook, not a study, and it shapes [how I read](/how-i-read/).
+The Moon was on my list like every placement: its sign and its house, a tick or a cross, in [my notebook](/blog/i-tested-my-birth-chart/) — my own chart first, then family, friends and strangers who agreed to it. It wasn't one of the three that held far more often; those were [Saturn, Chiron and Lilith](/blog/saturn-chiron-lilith/), which held 75 to 90% of the time. Overall, about a third of what I checked held: 30 to 40%. So I read the Moon in every chart, but I don't build a reading on it alone, and when part of one rests on it, I tell you. I only read a chart with its birth time, so even on the day the Moon changes sign, I know which one is yours. It's a notebook, not a study, and it shapes [how I read](/how-i-read/).
 
 ## Common myths {#myths}
 

@@ -80,7 +80,7 @@ En [synastrie](/synastry/), quand Saturne, dans le thème de l’un, touche les 
 
 ## Transits et retour de Saturne {#retour-de-saturne}
 
-Saturne traverse chaque maison de votre thème en environ deux ans et demi, et rejoint sa position de naissance par étapes régulières : un premier carré vers 7 ans, une opposition vers 14 ou 15 ans, un autre carré vers 21 ou 22 ans, puis le premier [retour de Saturne](/astrology/saturn-return/) entre 27 et 30 ans environ. Le cycle recommence : carré vers 36 ou 37 ans, opposition vers 44 ans, carré vers 51 ans, second retour vers 58 à 60 ans.
+Saturne passe en général environ trois ans dans chaque maison de votre thème, et rejoint sa position de naissance par étapes régulières : un premier carré vers 7 ans, une opposition vers 14 ou 15 ans, un autre carré vers 21 ou 22 ans, puis le premier [retour de Saturne](/astrology/saturn-return/) entre 27 et 30 ans environ. Le cycle recommence : carré vers 36 ou 37 ans, opposition vers 44 ans, carré vers 51 ans, second retour vers 58 à 60 ans.
 
 Le retour a la réputation d’une crise. En lecture, il ressemble plutôt à un bilan : ce que vous avez bâti sur le plan de quelqu’un d’autre tend à vaciller, ce que vous avez bâti sur le vôtre tend à tenir.
 

@@ -108,7 +108,7 @@ The ruler of the 12th house is the planet that rules the sign on its cusp, and w
 The Moon passes through your 12th house every month, the Sun once a year, Mercury, Venus and Mars for a few weeks at a time: a need for sleep, quiet or a day to yourself. The slow planets stay for years, roughly as long as they take to cross a sign, more or less with the size of the house, before they reach your Ascendant:
 
 - **[Jupiter transiting the 12th house](/astrology/jupiter-transit-12th-house/):** about a year when help and meaning come quietly; a good time for rest, study or retreat.
-- **[Saturn transiting the 12th house](/astrology/saturn-transit-12th-house/):** about two and a half years of review before a new start: closing chapters, facing fears, resting more than you'd like.
+- **[Saturn transiting the 12th house](/astrology/saturn-transit-12th-house/):** about three years of review before a new start: closing chapters, facing fears, resting more than you'd like.
 - **[Uranus transiting the 12th house](/astrology/uranus-transit-12th-house/):** around seven years of sudden insights, and of freeing yourself from old, hidden patterns.
 - **[Neptune transiting the 12th house](/astrology/neptune-transit-12th-house/):** around fourteen years of a deep pull towards solitude, imagination or spirituality — and of needing good boundaries.
 - **[Pluto transiting the 12th house](/astrology/pluto-transit-12th-house/):** a long, slow inner change, much of it out of sight.

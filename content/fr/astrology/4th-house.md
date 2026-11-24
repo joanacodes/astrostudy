@@ -108,7 +108,7 @@ Le maître de la maison 4 est la planète qui gouverne le signe au Fond du Ciel.
 La Lune passe sur votre Fond du Ciel chaque mois et le Soleil une fois par an, Mercure, Vénus et Mars pendant quelques semaines : de courtes périodes où le foyer et la famille occupent vos pensées. Les planètes lentes y restent des années, à peu près le temps qu’il leur faut pour traverser un signe, plus ou moins selon la taille de la maison :
 
 - **[Jupiter en transit en maison 4](/astrology/jupiter-transit-4th-house/) :** environ un an d’envie de plus d’espace chez vous, de plus de famille autour, de plus de temps dans votre propre vie.
-- **[Saturne en transit en maison 4](/astrology/saturn-transit-4th-house/) :** environ deux ans et demi de responsabilités à la maison et de réparations aux fondations, au propre comme au figuré.
+- **[Saturne en transit en maison 4](/astrology/saturn-transit-4th-house/) :** environ trois ans de responsabilités à la maison et de réparations aux fondations, au propre comme au figuré.
 - **[Uranus en transit en maison 4](/astrology/uranus-transit-4th-house/) :** environ sept ans de changements dans votre façon de vivre et dans le lieu où vous vivez, avec un besoin de liberté.
 - **[Neptune en transit en maison 4](/astrology/neptune-transit-4th-house/) :** environ quatorze ans où le foyer devient une nostalgie autant qu’un lieu.
 - **[Pluton en transit en maison 4](/astrology/pluto-transit-4th-house/) :** un long et profond retournement des racines et des habitudes de famille.

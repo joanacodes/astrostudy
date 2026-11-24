@@ -107,7 +107,7 @@ The ruler of the 10th house is the planet that rules the sign on its cusp, and w
 The Moon passes through your 10th house every month, the Sun once a year, Mercury, Venus and Mars for a few weeks at a time: a meeting, a deadline, a week when you're more visible. The slow planets stay for years, roughly as long as they take to cross a sign, more or less with the size of the house:
 
 - **[Jupiter transiting the 10th house](/astrology/jupiter-transit-10th-house/):** about a year when ambitions feel within reach and you may be more visible than usual.
-- **[Saturn transiting the 10th house](/astrology/saturn-transit-10th-house/):** about two and a half years of responsibility at work, and a clear look at what you've built.
+- **[Saturn transiting the 10th house](/astrology/saturn-transit-10th-house/):** about three years of responsibility at work, and a clear look at what you've built.
 - **[Uranus transiting the 10th house](/astrology/uranus-transit-10th-house/):** around seven years of wanting to change direction, with room for work that doesn't fit the usual mould.
 - **[Neptune transiting the 10th house](/astrology/neptune-transit-10th-house/):** around fourteen years when your vocation asks for more meaning, and your public image is harder to pin down.
 - **[Pluto transiting the 10th house](/astrology/pluto-transit-10th-house/):** a long, deep change in your relationship with power, ambition and the role you play.

@@ -104,7 +104,7 @@ Le maître de la maison 2 est la planète qui gouverne le signe sur sa cuspide. 
 La Lune traverse votre maison 2 chaque mois et le Soleil une fois par an, tandis que Mercure, Vénus et Mars y passent quelques semaines : de courtes périodes où l’argent et ce qui compte pour vous occupent vos pensées. Les planètes lentes y restent des années, à peu près le temps qu’il leur faut pour traverser un signe, plus ou moins selon la taille de la maison :
 
 - **[Jupiter en transit en maison 2](/astrology/jupiter-transit-2nd-house/) :** environ un an d’envie d’espace et de confort — et de dépenses aussi faciles que les rentrées.
-- **[Saturne en transit en maison 2](/astrology/saturn-transit-2nd-house/) :** environ deux ans et demi de budgets, de limites et de sécurité construite lentement.
+- **[Saturne en transit en maison 2](/astrology/saturn-transit-2nd-house/) :** environ trois ans de budgets, de limites et de sécurité construite lentement.
 - **[Uranus en transit en maison 2](/astrology/uranus-transit-2nd-house/) :** environ sept ans à changer votre façon de gagner ou ce qui compte pour vous, parfois d’un coup.
 - **[Neptune en transit en maison 2](/astrology/neptune-transit-2nd-house/) :** environ quatorze ans où l’argent se suit moins bien et où les valeurs deviennent moins matérielles : le moment de tenir des comptes clairs.
 - **[Pluton en transit en maison 2](/astrology/pluto-transit-2nd-house/) :** un changement long et profond dans ce à quoi vous tenez, et dans vos raisons d’y tenir.

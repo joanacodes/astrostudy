@@ -106,7 +106,7 @@ The ruler of the 3rd house is the planet that rules the sign on its cusp, and wh
 The Moon passes through your 3rd house every month, the Sun once a year, Mercury, Venus and Mars for a few weeks at a time: busy spells of messages, errands and conversations. The slow planets stay for years, roughly as long as they take to cross a sign, more or less with the size of the house:
 
 - **[Jupiter transiting the 3rd house](/astrology/jupiter-transit-3rd-house/):** about a year of wanting to learn, read, talk and get about more.
-- **[Saturn transiting the 3rd house](/astrology/saturn-transit-3rd-house/):** about two and a half years of careful study and weighed words.
+- **[Saturn transiting the 3rd house](/astrology/saturn-transit-3rd-house/):** about three years of careful study and weighed words.
 - **[Uranus transiting the 3rd house](/astrology/uranus-transit-3rd-house/):** around seven years of new ideas and new ways of keeping in touch.
 - **[Neptune transiting the 3rd house](/astrology/neptune-transit-3rd-house/):** around fourteen years when imagination grows and details blur: a good time to write, and to read twice what you sign.
 - **[Pluto transiting the 3rd house](/astrology/pluto-transit-3rd-house/):** a long change in how you think and in what you're willing to say.

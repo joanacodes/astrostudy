@@ -105,7 +105,7 @@ The ruler of the 8th house is the planet that rules the sign on its cusp, and wh
 The Moon passes through your 8th house every month, the Sun once a year, Mercury, Venus and Mars for a few weeks at a time: a question of trust or money comes up, then moves on. The slow planets stay for years, roughly as long as they take to cross a sign, more or less with the size of the house:
 
 - **[Jupiter transiting the 8th house](/astrology/jupiter-transit-8th-house/):** about a year when trust comes more easily and sharing feels generous, both ways.
-- **[Saturn transiting the 8th house](/astrology/saturn-transit-8th-house/):** about two and a half years of taking stock of what you owe and are owed, and of whom you really trust.
+- **[Saturn transiting the 8th house](/astrology/saturn-transit-8th-house/):** about three years of taking stock of what you owe and are owed, and of whom you really trust.
 - **[Uranus transiting the 8th house](/astrology/uranus-transit-8th-house/):** around seven years of sudden changes in what's shared, and of needing freedom inside intimacy.
 - **[Neptune transiting the 8th house](/astrology/neptune-transit-8th-house/):** around fourteen years when boundaries in money and closeness soften: a time for compassion, and for clear accounts.
 - **[Pluto transiting the 8th house](/astrology/pluto-transit-8th-house/):** a long, slow change in how you handle power, trust and letting go.

@@ -110,7 +110,7 @@ Le maître de la maison 7 est la planète qui gouverne le signe sur sa cuspide, 
 La Lune traverse votre maison 7 chaque mois, le Soleil une fois par an, Mercure, Vénus et Mars pendant quelques semaines : une conversation, une semaine de tension ou de douceur. Les planètes lentes y restent des années, à peu près le temps qu’il leur faut pour traverser un signe, plus ou moins selon la taille de la maison :
 
 - **[Jupiter en transit en maison 7](/astrology/jupiter-transit-7th-house/) :** environ un an où les relations semblent plus spacieuses et plus confiantes, et les autres plus généreux.
-- **[Saturne en transit en maison 7](/astrology/saturn-transit-7th-house/) :** environ deux ans et demi à regarder l’engagement en face : ce qui est déséquilibré demande à être renégocié, ce qui est solide le montre.
+- **[Saturne en transit en maison 7](/astrology/saturn-transit-7th-house/) :** environ trois ans à regarder l’engagement en face : ce qui est déséquilibré demande à être renégocié, ce qui est solide le montre.
 - **[Uranus en transit en maison 7](/astrology/uranus-transit-7th-house/) :** environ sept ans de besoin d’air dans les liens proches, et de personnes qui bousculent votre idée du couple.
 - **[Neptune en transit en maison 7](/astrology/neptune-transit-7th-house/) :** environ quatorze ans d’idéaux et de frontières floues dans le couple, où l’on apprend à voir l’autre clairement.
 - **[Pluton en transit en maison 7](/astrology/pluto-transit-7th-house/) :** une longue et profonde remise en question du pouvoir et de la confiance dans vos liens les plus proches.

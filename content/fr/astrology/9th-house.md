@@ -107,7 +107,7 @@ Le maître de la maison 9 est la planète qui gouverne le signe sur sa cuspide, 
 La Lune traverse votre maison 9 chaque mois, le Soleil une fois par an, Mercure, Vénus et Mars pendant quelques semaines : un livre, un voyage, une conversation qui reste. Les planètes lentes y restent des années, à peu près le temps qu’il leur faut pour traverser un signe, plus ou moins selon la taille de la maison :
 
 - **[Jupiter en transit en maison 9](/astrology/jupiter-transit-9th-house/) :** environ un an d’envie d’apprendre, de voyager ou d’enseigner, où le monde peut sembler plus grand.
-- **[Saturne en transit en maison 9](/astrology/saturn-transit-9th-house/) :** environ deux ans et demi où les convictions sont mises à l’épreuve, et où des études sérieuses ou un long projet prennent forme.
+- **[Saturne en transit en maison 9](/astrology/saturn-transit-9th-house/) :** environ trois ans où les convictions sont mises à l’épreuve, et où des études sérieuses ou un long projet prennent forme.
 - **[Uranus en transit en maison 9](/astrology/uranus-transit-9th-house/) :** environ sept ans de brusques changements d’avis, et de rupture avec les vieilles certitudes.
 - **[Neptune en transit en maison 9](/astrology/neptune-transit-9th-house/) :** environ quatorze ans d’élan spirituel et d’horizons larges — et de cartes à vérifier deux fois.
 - **[Pluton en transit en maison 9](/astrology/pluto-transit-9th-house/) :** un long et profond changement dans ce que vous croyez, et pourquoi.

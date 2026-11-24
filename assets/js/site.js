@@ -5,9 +5,13 @@
 
 import { initSky } from './sky.js';
 import { wireStudy } from './study.js';
+import { initTheme } from './theme.js';
 
 // Tells the safety net in <head> that the page is in good hands (see head.html).
 window.__astro = true;
+
+// Light or dark: the switch lives in the header and the phone menu, which page changes leave in place.
+initTheme();
 
 const reduce = matchMedia('(prefers-reduced-motion: reduce)');
 const $ = (s, r = document) => r.querySelector(s);
