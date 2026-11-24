@@ -5,6 +5,8 @@ description: "The asteroid Pandora in astrology: found in 1858 and named amid a 
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
+categories: ["Planets and points"]
+tags: ["asteroids"]
 weight: 13
 glyph: "✦"
 definition: "Pandora, asteroid 55, is a main-belt asteroid about 70 to 85 km across, discovered in 1858 and named after Pandora, the first woman in Greek myth, whose opened jar let troubles into the world. Astrologers who use it start from that story. A placement of Pandora forecasts no trouble, and it isn’t part of my readings."
