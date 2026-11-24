@@ -2,7 +2,7 @@
 title: "Uranie"
 slug: "uranie"
 h1: "L’astéroïde Uranie en astrologie"
-description: "L’astéroïde Uranie en astrologie : découvert par Hind en 1854, son orbite de 3,6 ans, la muse de l’astronomie et de l’astrologie, et pourquoi je l’écarte."
+description: "L’astéroïde Uranie en astrologie : trouvé par Hind en 1854, son orbite de 3,6 ans, la muse de l’astronomie et de l’astrologie, un nom flatteur qui ne prouve rien."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/proserpina-26", "/astrology/fortuna", "/astrology/uranus", "/astrology/how-to-use-asteroids-without-drowning-the-chart", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Que signifie Uranie en astrologie ?"
-    a: "L’astéroïde tient son nom de la muse de l’astronomie et de l’astrologie, fille de Zeus et de Mémoire, représentée avec un globe et une baguette. Il a été découvert en 1854, et rien de plus ancien que son nom ne se tient derrière lui. Je le décris ici sans le lire dans les thèmes."
+    a: "L’astéroïde tient son nom de la muse de l’astronomie et de l’astrologie, fille de Zeus et de Mémoire, représentée avec un globe et une baguette. Une muse de mon propre métier dans le ciel, c’est une coïncidence flatteuse, pas une preuve : je décris cette découverte de 1854 sans la lire."
   - q: "Qui était Uranie ?"
     a: "L’une des neuf Muses grecques, filles de Zeus et de Mnémosyne. Elle était la muse de l’astronomie et de l’astrologie, son nom signifie « céleste », et l’art antique lui donne un globe et une baguette. Des observatoires, à Berlin, Vienne et Zurich, ont plus tard pris son nom."
   - q: "Quand l’astéroïde Uranie a-t-il été découvert ?"
@@ -56,7 +56,7 @@ Uranie n’entre pas dans mes lectures, parce qu’une coïncidence de noms est 
 
 Mon carnet, c’est l’endroit où j’ai fait ces vérifications. J’ai passé des thèmes en revue ligne par ligne, le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith, et j’ai mis à chaque placement une coche ou une croix ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)). Uranie n’avait pas de ligne : je n’ai rien à en dire, ni pour ni contre.
 
-Si la muse représente quelque chose dans mon travail, c’est cette habitude de vérifier : un placement gagne sa place dans une lecture parce qu’il tient quand on le teste, pas parce qu’il porte un beau nom ([Ma méthode](/how-i-read/)). Si vous utilisez Uranie, choisissez-la avant de regarder où elle tombe, et limitez-la aux contacts serrés ([Lire les astéroïdes sans noyer le thème](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
+Si la muse représente quelque chose dans mon travail, c’est cette habitude de vérifier : un placement gagne sa place dans une lecture parce qu’il tient quand on le teste, pas parce qu’il porte un beau nom ([Ma méthode](/how-i-read/)). Si vous utilisez Uranie, faites preuve avec elle de plus de rigueur qu’avec tout autre astéroïde, justement parce qu’elle flatte qui la lit : choisissez-la avant de regarder où elle tombe, et limitez-la aux contacts serrés ([Lire les astéroïdes sans noyer le thème](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
 
 ## Idées reçues {#idees-recues}
 

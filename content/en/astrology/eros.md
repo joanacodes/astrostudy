@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["asteroids"]
 weight: 6
 glyph: "✦"
-definition: "Eros, asteroid 433, is the first near-Earth asteroid ever found, discovered in 1898 and named after the Greek god of love and desire. Astrologers who place it take its meaning from that name. It is not the Lot of Eros, the Hermetic lot of Venus, and it isn’t part of my readings."
+definition: "Eros, asteroid 433, is the first near-Earth asteroid ever found, discovered in 1898 and named after the Greek god of love and desire. In a chart, its name is the whole of its meaning. It is not the Lot of Eros, the Hermetic lot of Venus, which shares the name."
 facts:
   - { k: "Type", v: "Near-Earth asteroid of the Amor group, about 17 km across on average" }
   - { k: "Discovered", v: "13 August 1898, by Carl Gustav Witt in Berlin and Auguste Charlois in Nice" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/psyche", "/astrology/amor", "/astrology/hermetic-lots", "/astrology/venus", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Eros mean in astrology?"
-    a: "Astrologers who use the asteroid Eros take its meaning from its name: the Greek god of love and desire, one of the first powers of creation in Hesiod and later the winged son of Aphrodite. I don’t read it; desire, for me, is a matter for Venus and Mars, which my notebook tested."
+    a: "Its name does the work: Eros was the Greek god of love and desire, one of the first powers of creation in Hesiod and later the winged son of Aphrodite, and that is what astrologers who place the asteroid draw on. I don’t read it; desire, for me, is a matter for Venus and Mars, which my notebook tested."
   - q: "Is the asteroid Eros the same as the Lot of Eros?"
     a: "No. The asteroid is a body in space, about 17 km across on average. The Lot of Eros is a calculated degree, the Hermetic lot of Venus: the Ascendant plus Venus minus the Part of Spirit by day, reversed by night. A program that just says Eros could mean either, so check its label."
   - q: "When was the asteroid Eros discovered?"
@@ -35,7 +35,7 @@ sources:
   - { title: "Paulus Alexandrinus, Introductory Matters, trans. Dorian Gieseler Greenbaum (ARHAT, 2001), via Wikipedia, “Arabic parts”", url: "https://en.wikipedia.org/wiki/Arabic_parts", note: "the Lot of Eros, counted from Spirit; checked on 24 November 2026" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "the placements the notebook covered" }
 ---
-In August 1898, an astronomer in Berlin photographed something nobody had seen before: an asteroid whose orbit brings it close to the Earth's. It was named Eros, after the Greek god of desire, and became the first minor planet with a male name. Some astrologers place it in the birth chart. This page says what it is, what it gets confused with, and where I look for desire instead.
+In August 1898, an astronomer in Berlin photographed something nobody had seen before: an asteroid whose orbit brings it close to the Earth's. It was named Eros, after the Greek god of desire, and became the first minor planet with a male name. In astrology it also shares its name with a lot of Venus, which is the first thing to untangle.
 
 ## What it is {#what-it-is}
 

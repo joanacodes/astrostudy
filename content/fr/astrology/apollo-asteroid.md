@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/icarus", "/astrology/personal-name-asteroids", "/astrology/apollon-uranian-point", "/astrology/sun", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Que signifie l’astéroïde Apollon en astrologie ?"
-    a: "Il porte le nom du dieu grec de la prophétie, de la musique, de la poésie et de la guérison, souvent identifié plus tard au Soleil. Découvert en 1932, l’astéroïde n’a pas de tradition propre en astrologie. Je le décris ici sans le lire, et ce n’est pas le point uranien appelé Apollon."
+    a: "Il porte le nom du dieu grec de la prophétie, de la musique, de la poésie et de la guérison, souvent identifié plus tard au Soleil. L’astéroïde n’est ni un second Soleil ni le point uranien appelé Apollon, et comme rien de vérifié ne se tient derrière lui, il reste hors de mes lectures."
   - q: "Que sont les astéroïdes Apollon ?"
     a: "Des géocroiseurs dont l’orbite croise celle de la Terre depuis l’extérieur : en moyenne, ils restent plus loin du Soleil que nous, mais s’en approchent davantage que la Terre à son point le plus éloigné. Ils tiennent leur nom de 1862 Apollon, le premier reconnu, et en janvier 2025, on en connaissait plus de 21 000."
   - q: "L’astéroïde Apollon est-il l’Apollon de l’astrologie uranienne ?"
@@ -56,7 +56,7 @@ L’astrologie a un second Apollon, et on les confond facilement. Apollon est au
 
 ## Dans une lecture {#dans-une-lecture}
 
-Je ne lis pas l’astéroïde Apollon. Il n’a jamais figuré sur ma liste : mon carnet a vérifié le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith, et le système que j’ai construit pour mes lectures ne calcule aucun astéroïde ([Ma méthode](/how-i-read/)).
+Je ne lis pas l’astéroïde Apollon. Perdu pour les astronomes pendant 41 ans, il n’a jamais été trouvé du tout dans mon carnet, qui a vérifié le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith, et le système que j’ai construit pour mes lectures ne calcule aucun astéroïde ([Ma méthode](/how-i-read/)).
 
 Deux choses, dans ce nom, demandent de la prudence. Apollon guérissait et répandait la peste, et un corps qui porte son nom appelle des questions de santé auxquelles aucun thème ne peut répondre ; je ne lis pas les thèmes pour la maladie, et c’est à un médecin qu’il faut poser ces questions ([L’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)). Il a aussi été identifié au Soleil, ce qui donne envie de traiter l’astéroïde comme un second [Soleil](/astrology/sun/). Il n’en est pas un. Le vrai Soleil figure dans chacune de mes lectures, et même le signe solaire n’a tenu qu’environ un tiers du temps dans mon carnet ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)) ; un rocher de 1,5 km sans aucun bilan ne peut pas le remplacer.
 

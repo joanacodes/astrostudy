@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/astraea", "/astrology/medusa", "/astrology/apollo-asteroid", "/astrology/transits", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Que signifie Cassandre en astrologie ?"
-    a: "L’astéroïde porte le nom de Cassandre, princesse troyenne et prêtresse d’Apollon, qui annonçait la vérité sans jamais être crue. Découvert en 1871, il n’a pas de tradition propre. Je le décris ici sans le lire, et je ne fais pas de prédictions du genre de celles qu’elle était condamnée à faire."
+    a: "L’astéroïde porte le nom de Cassandre, princesse troyenne et prêtresse d’Apollon, qui annonçait la vérité sans jamais être crue. Son histoire parle de prédiction, et mes lectures n’en font aucune : cette découverte de 1871 en reste donc dehors."
   - q: "Kassandra et Cassandre, est-ce la même chose ?"
     a: "Oui. Kassandra est la graphie grecque de Cassandre, fille du roi Priam de Troie, et c’est celle que porte l’astéroïde. En français comme en anglais, son nom désigne aujourd’hui une personne dont les avertissements, souvent de malheur, ne sont pas écoutés."
   - q: "Qui a découvert l’astéroïde Cassandre ?"
@@ -49,7 +49,7 @@ Cassandre était une fille de Priam, roi de Troie, et une prêtresse d’Apollon
 
 Sa famille la tenait pour une menteuse ou une folle, et Priam l’aurait tenue enfermée. Homère, qui en fait la plus belle des filles de Priam, lui fait annoncer à la ville que le corps d’Hector est ramené, pour que Troie puisse le pleurer. Elle a survécu à la chute de la ville, a été emmenée à Mycènes par Agamemnon et y est morte à ses côtés. Son nom désigne aujourd’hui quiconque prévient juste sans être écouté.
 
-Son don venait d’Apollon, qui a son propre astéroïde ([Apollon (astéroïde)](/astrology/apollo-asteroid/)). Placée dans un thème, Cassandre se comporte comme n’importe quel astéroïde de la ceinture principale : son signe est partagé par beaucoup de personnes nées à peu près en même temps, sa maison demande l’heure de naissance ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)), et ses contacts ne disent pas grand-chose s’ils ne sont pas serrés ([Orbes](/astrology/orbs/)). Ce que le nom ajoute, c’est l’histoire, et cette histoire parle de prédiction.
+Son don venait d’Apollon, qui a son propre astéroïde ([Apollon (astéroïde)](/astrology/apollo-asteroid/)). Placée dans un thème, Cassandre reçoit ce que reçoit tout astéroïde de la ceinture principale : un signe partagé avec beaucoup de personnes nées à peu près en même temps, une maison qui demande l’heure de naissance ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)), et des contacts qui ne comptent que serrés ([Orbes](/astrology/orbs/)). Rien de tout cela ne peut prédire quoi que ce soit, ce qui est justement la seule chose que son nom semble promettre.
 
 ## Dans une lecture {#dans-une-lecture}
 

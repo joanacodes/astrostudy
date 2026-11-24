@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["asteroids"]
 weight: 10
 glyph: "✦"
-definition: "Cupido, asteroid 763, is a small stony asteroid about 7 km across, discovered in 1913 and named with the Latin name of Cupid, meaning passionate desire. It is a real body, unlike Cupido the Uranian point, a hypothetical planet of the Hamburg School. Astrologers who use the asteroid take its meaning from the god; I read neither."
+definition: "Cupido, asteroid 763, is a small stony asteroid about 7 km across, discovered in 1913 and named with the Latin name of Cupid, meaning passionate desire. It is a real body, unlike Cupido the Uranian point, a hypothetical planet of the Hamburg School. What it means in a chart depends on which Cupido is meant; I read neither."
 facts:
   - { k: "Type", v: "Small stony asteroid of the inner main belt, about 7 km across" }
   - { k: "Discovered", v: "25 September 1913, by Franz Kaiser at Heidelberg" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/cupido-uranian-point", "/astrology/sappho", "/astrology/bacchus", "/astrology/hamburg-school-uranian-astrology", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Cupido mean in astrology?"
-    a: "It depends which Cupido. Astrologers who use the asteroid, number 763, take its meaning from the god of desire whose Latin name it carries. Uranian astrologers mean something else: a hypothetical point Alfred Witte proposed, which they read for love, partnership and the arts. I read neither; I read desire through Venus and Mars."
+    a: "It depends which Cupido. The asteroid, number 763, borrows its meaning from the god of desire whose Latin name it carries. Uranian astrologers mean something else: a hypothetical point Alfred Witte proposed, which they read for love, partnership and the arts. I read neither; I read desire through Venus and Mars."
   - q: "What is the difference between the asteroid Cupido and the Uranian Cupido?"
     a: "The asteroid is a real rock, about 7 km across, found in 1913, which circles the Sun every 3 years and 4 months between Mars and Jupiter. The Uranian Cupido is one of the points Alfred Witte placed beyond Neptune in the 1920s; no telescope has found a planet there. Charts can show either, so check the label."
   - q: "Why is the asteroid called Cupido?"
@@ -46,7 +46,7 @@ Its name is the god's Latin one. *Cupido* means passionate desire; Cupid's other
 
 ## How it works {#how-it-works}
 
-What astrologers who use the asteroid say about it comes from the god: desire, attraction, affection. In Ovid, Cupid carries two kinds of arrow, a golden one that fills its target with desire and a blunt leaden one that makes it flee, and both sides of that story, wanting and refusing, belong to the name.
+The god gives the asteroid its themes: desire, attraction, affection. In Ovid, Cupid carries two kinds of arrow, a golden one that fills its target with desire and a blunt leaden one that makes it flee, and both sides of that story, wanting and refusing, belong to the name.
 
 The confusion starts with Hamburg. Alfred Witte, whose teachings founded the Hamburg School, proposed four planets beyond Neptune, which he named Cupido, Hades, Zeus and Kronos; his collaborator Friedrich Sieggrün added four more in 1927. Their rules were published in 1928, and Uranian astrologers still use these points, reading their Cupido for love, partnership and the arts ([the Hamburg School](/astrology/hamburg-school-uranian-astrology/); [Cupido (Uranian point)](/astrology/cupido-uranian-point/)). None of them has been found as a planet: their positions come from orbits worked out on paper.
 
@@ -56,7 +56,7 @@ So a chart that shows "Cupido" may be showing a rock in the asteroid belt or a h
 
 Neither Cupido is in my readings. The system I built calculates no asteroids and no hypothetical points; it works with the planets, Chiron, Lilith and the lunar nodes. And when I [tested placements one by one](/blog/i-tested-my-birth-chart/), with a tick or a cross for each, Cupido wasn't among them, so I have no count to offer you.
 
-Desire comes into my readings through [Venus](/astrology/venus/), what attracts you and what you value, and [Mars](/astrology/mars/), how you go after it. If you'd like to try the asteroid in your own chart, read it only in close contact with a planet or an angle, as a detail beside them ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
+Desire comes into my readings through [Venus](/astrology/venus/), what attracts you and what you value, and [Mars](/astrology/mars/), how you go after it. If you'd like to try the asteroid in your own chart, first make sure the program is showing number 763 and not the Uranian point, then give it weight only where it touches a planet closely ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
 
 ## Common myths {#myths}
 

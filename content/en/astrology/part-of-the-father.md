@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["Arabic parts"]
 weight: 14
 glyph: "✦"
-definition: "The Part of the Father is a lot: a degree calculated from two points of the birth chart and the Ascendant, which old astrology kept for questions about the father. It moves with the birth time. In an adult’s chart, it can only describe fathering as that adult lived it, never the father himself."
+definition: "The Part of the Father is a lot, one of the calculated points of traditional astrology, built from two points of the birth chart and the Ascendant and kept for questions about the father. It moves with the birth time. In an adult’s chart, it can only describe fathering as that adult lived it, never the father himself."
 facts:
   - { k: "Type", v: "A calculated point: a lot, also called an Arabic part" }
   - { k: "Kept for", v: "Questions about the father" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/part-of-the-mother", "/astrology/part-of-children", "/astrology/doctrine-of-the-lots", "/astrology/4th-house", "/blog/unknown-birth-time"]
 faq:
   - q: "What is the Part of the Father in astrology?"
-    a: "It is a lot: a degree worked out from the birth chart rather than a body in the sky. The distance between two points of the chart is counted again from the Ascendant, and the degree it lands on was kept for questions about the father. It needs an exact birth time, because it moves with the Ascendant."
+    a: "It is a calculated point, one of the lots, which old astrology kept for questions about the father, a subject Ptolemy placed first among those that come before a birth. Like every lot it hangs on the Ascendant, so it needs an exact birth time, and in your chart it describes your experience of fathering, not him."
   - q: "How do I calculate my Part of the Father?"
     a: "A chart program does the arithmetic: the distance from one point to another, counted on from the Ascendant, and often reversed for a night birth. Before trusting the result, look in the program’s settings or help for the two points it uses and what it does at night, and enter your birth time to the minute."
   - q: "Does the Part of the Father describe my dad?"
@@ -54,7 +54,7 @@ The older books also gave the father a house, though they never settled whether 
 
 ## In a reading {#in-a-reading}
 
-I don't calculate this lot. The system behind my readings draws two lots, Fortune and Spirit, and uses them for timing, so a Part of the Father never appears in anything I send you.
+I don't calculate this lot. The system behind my readings draws two lots, Fortune and Spirit, and uses them for timing, so the only fathers in my readings are the ones you bring into the conversation.
 
 Fathers still come up, often, and when one does I read the adult in front of me. Your chart describes your life, so what it can show is fathering as you lived it: what was expected of you, how protection and authority felt, what you took away and what you're still putting down. For that I look at your own placements: the 4th house for roots, [Saturn](/astrology/saturn/) for rules and responsibility, the [Sun](/astrology/sun/) for how you've come to recognise yourself.
 

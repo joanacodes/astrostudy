@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/icarus", "/astrology/personal-name-asteroids", "/astrology/apollon-uranian-point", "/astrology/sun", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does the asteroid Apollo mean in astrology?"
-    a: "It carries the name of the Greek god of prophecy, music, poetry and healing, who was later often identified with the Sun. Found in 1932, the asteroid has no tradition of its own in astrology. I describe it here but don’t read it, and it isn’t the Uranian point called Apollon."
+    a: "It carries the name of the Greek god of prophecy, music, poetry and healing, who was later often identified with the Sun. The asteroid is neither a second Sun nor the Uranian point called Apollon, and with nothing tested behind it, it stays out of my readings."
   - q: "What are Apollo asteroids?"
     a: "Near-Earth asteroids whose orbits cross the Earth’s from outside: on average they stay farther from the Sun than we do, but they come in closer than the Earth’s farthest point. They are named after 1862 Apollo, the first one recognised, and by January 2025 more than 21,000 were known."
   - q: "Is Apollo the same as Apollon in Uranian astrology?"
@@ -55,7 +55,7 @@ Astrology has a second Apollo, and the two are easy to confuse. Apollon is one o
 
 ## In a reading {#in-a-reading}
 
-I don't read the asteroid Apollo. It was never on my list: my notebook checked the Sun, the Moon, the rising sign, each planet, Chiron and Lilith, and the system I built for my readings computes no asteroid ([How I read](/how-i-read/)).
+I don't read the asteroid Apollo. Lost to astronomers for 41 years, it has never been found at all in my notebook, which checked the Sun, the Moon, the rising sign, each planet, Chiron and Lilith, and the system I built for my readings computes no asteroid ([How I read](/how-i-read/)).
 
 Two things about this name call for care. Apollo healed and brought plague, and a body named after him invites questions about health that no chart can answer; I don't read charts for illness, and a doctor is the person for those questions ([Can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). He was also identified with the Sun, which makes it tempting to treat the asteroid as a second [Sun](/astrology/sun/). It isn't one. The real Sun is in every reading I give, and even the Sun sign held only about a third of the time in my notebook ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)); a 1.5-km rock with no record at all can't stand in for it.
 

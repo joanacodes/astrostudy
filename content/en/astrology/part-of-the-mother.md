@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["Arabic parts"]
 weight: 15
 glyph: "✦"
-definition: "The Part of the Mother is a lot, a degree calculated from two points of the birth chart and counted again from the Ascendant, which tradition kept for questions about the mother. It is not the Moon, and it needs an exact birth time. In an adult’s chart it can only speak of care as that adult received it."
+definition: "The Part of the Mother is the lot tradition kept for questions about the mother: a degree worked out from the birth chart, not a body you could see, and not to be confused with the Moon. It needs an exact birth time, and it predicts no pregnancy, yours or anyone else’s."
 facts:
   - { k: "Type", v: "A lot: a degree worked out, not a body in the sky" }
   - { k: "Kept for", v: "Questions about the mother" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/part-of-the-father", "/astrology/part-of-siblings", "/astrology/moon", "/astrology/doctrine-of-the-lots", "/astrology/can-astrology-predict-pregnancy"]
 faq:
   - q: "What is the Part of the Mother in astrology?"
-    a: "It is a lot: a degree calculated from the birth chart rather than a body you could see. The distance between two points of the chart is counted again from the Ascendant, and tradition kept the degree it reaches for questions about the mother. It moves with the Ascendant, so it needs an exact birth time."
+    a: "It is the lot tradition kept for the mother: a degree produced by arithmetic on the birth chart, from two of its points and the Ascendant. It is often confused with the Moon, which it isn’t. Read in an adult’s chart, it could only speak of the care you received, and it needs an exact birth time."
   - q: "Is the Part of the Mother the same as the Moon?"
     a: "No. The lot is a separate degree, produced by arithmetic, and it can land far from your Moon. Many books also make the Moon stand for the mother; I don’t. I read the Moon as how you handle feeling and attachment, which you learned partly from whoever cared for you, but which describes you, not her."
   - q: "Why do two apps put my Part of the Mother in different places?"
@@ -33,11 +33,11 @@ sources:
   - { title: "Paulus Alexandrinus, Introductory Matters, trans. Dorian Gieseler Greenbaum (ARHAT, 2001), via Wikipedia, “Arabic parts”", url: "https://en.wikipedia.org/wiki/Arabic_parts", note: "how lots are built, with their day and night counts; checked on 24 November 2026" }
   - { title: "Wikipedia — Planets in astrology", url: "https://en.wikipedia.org/wiki/Planets_in_astrology", note: "the Moon “associated for some with the mother”; checked on 24 November 2026" }
 ---
-Of all the lots, the Part of the Mother is the one most often mixed up with something else: the Moon. They're two different things. This page keeps them apart: what the lot is, what the Moon is, and what I read when someone wants to talk about their mother.
+Of all the lots, the Part of the Mother is the one most often mixed up with something else: the Moon. They're two different things. Keeping them apart is the first step to reading either of them honestly.
 
 ## What it is {#what-it-is}
 
-The Part of the Mother is a lot: a degree calculated rather than seen, made by taking the distance between two points of the chart and counting it again from the [Ascendant](/astrology/ascendant/) ([doctrine of the lots](/astrology/doctrine-of-the-lots/)). Tradition kept it for questions about the mother. It belongs to a small family of lots for relatives, beside the [Part of the Father](/astrology/part-of-the-father/), with the [Part of Siblings](/astrology/part-of-siblings/) one branch further along the family tree.
+Like any lot, it's a distance measured between two points of the chart and laid off again from the [Ascendant](/astrology/ascendant/) ([doctrine of the lots](/astrology/doctrine-of-the-lots/)). Tradition kept it for questions about the mother. It belongs to a small family of lots for relatives, beside the [Part of the Father](/astrology/part-of-the-father/), with the [Part of Siblings](/astrology/part-of-siblings/) one branch further along the family tree.
 
 Many astrology books take a shortcut that's easy to fall into: the Moon is the mother. The idea is widespread enough that a general encyclopaedia records it, carefully, as an association made "for some". I don't read the Moon that way. In the system I read with, the [Moon](/astrology/moon/) is how you process feeling and attachment: what makes you feel safe, the habits that settle you, how you look after a need. Some of that you learned from whoever looked after you, but the Moon describes you, not her.
 
@@ -47,21 +47,21 @@ The lot isn't the Moon either. It's a separate degree, produced by arithmetic, w
 
 Lots of this kind follow one pattern: the distance from one point to another, counted on from the Ascendant. For a night birth, many astrologers count the other way, from the second point to the first. That reversal leaves a recognisable trace. The day version and the night version always sit at the same distance from your Ascendant, one on each side of it. So if two programs give you two Parts of the Mother that mirror each other around your Ascendant, one has reversed the count for a night birth and the other hasn't.
 
-As for which two points go into it, this page leaves them out. I haven't been able to check them against a source, and I'd rather send you to your program's documentation than copy out a rule I can't stand behind.
+As for which two points go into it, this page leaves them out: I'd rather send you to your program's documentation than copy out a rule I haven't been able to verify.
 
 The rest follows from the Ascendant. It carries the lot round the zodiac in about a day, so [the birth time](/blog/unknown-birth-time/) sets the lot's degree, and its house as well. In Placidus, the house system I use, the house also depends on where the cusps fall for that day and that latitude.
 
 ## In a reading {#in-a-reading}
 
-My readings leave this lot out: of all the lots, the system I built calculates only Fortune and Spirit.
+My readings leave this lot out, since the system I built calculates no lot but Fortune and Spirit, so if your mother comes into a reading, it's through your own Moon and your 4th house.
 
-A mother comes into a reading all the same, often, and she comes in through you. Your Moon shows how you take care of feeling and how you let yourself be cared for; the [4th house](/astrology/4th-house/) shows home and roots as you lived them. Together they describe being mothered, which isn't the same as your mother. Plenty of people were raised by a grandmother, a father, an aunt, a stepmother or foster parents, and a chart has no idea who did the raising. Reading care rather than a person leaves room for every one of those stories.
+She often does. Your Moon shows how you take care of feeling and how you let yourself be cared for; the [4th house](/astrology/4th-house/) shows home and roots as you lived them. Together they describe being mothered, which isn't the same as your mother. Plenty of people were raised by a grandmother, a father, an aunt, a stepmother or foster parents, and a chart has no idea who did the raising. Reading care rather than a person leaves room for every one of those stories.
 
 Beyond that, I keep to three rules:
 
-- **Her life is in her chart.** Your mother has a birth chart of her own, and I'd only read it with her agreement ([synastry and consent](/blog/synastry-behind-their-back/)).
+- **She has her own chart.** If your mother ever wants hers read, that's a reading for her, with her agreement ([synastry and consent](/blog/synastry-behind-their-back/)).
 - **No child's chart.** I read adults. I don't read a child's chart, or the bond between a mother and a young child from either side ([children's charts](/astrology/childrens-charts/)).
-- **No forecast of motherhood.** No lot of the mother can tell you whether you'll become one, and pregnancy is a subject I never read ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)).
+- **No forecast of motherhood.** No lot of the mother can say whether anyone will have a child, and pregnancy is a subject I never read ([can astrology predict pregnancy?](/astrology/can-astrology-predict-pregnancy/)).
 
 ## Common myths {#myths}
 

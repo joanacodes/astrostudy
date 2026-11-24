@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/fortuna", "/astrology/astraea", "/astrology/how-to-use-asteroids-without-drowning-the-chart", "/astrology/astrology-and-mental-health", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Nemesis mean in astrology?"
-    a: "The asteroid carries the name of the Greek goddess who gave each their due and punished arrogance before the gods. Found in 1872, it has no tradition of its own in astrology, and nothing has tested it. I describe it here but don’t read it, and no placement of it names an enemy."
+    a: "The asteroid carries the name of the Greek goddess who gave each their due and punished arrogance before the gods. In English the word now means an arch-enemy, but no placement of this find of 1872 can name one, or show that a hard time is deserved, and I leave it out of readings."
   - q: "Is the asteroid Nemesis the same as the Nemesis star?"
     a: "No. The Nemesis star is a hypothetical companion of the Sun, proposed in 1984 to explain a supposed cycle of mass extinctions; infrared sky surveys have not found it. Asteroid 128 Nemesis is a real body, about 163 km across, orbiting between Mars and Jupiter."
   - q: "Who was Nemesis in Greek mythology?"
@@ -56,7 +56,7 @@ She also belongs to an older story about justice leaving the world. Hesiod fores
 
 I don't read Nemesis, and it's one name I'd be wary of even if I did. The modern sense of the word invites a question no chart can answer, who is my enemy, and the old sense invites a harder one, what am I being punished for. A placement can't name an enemy, and reading someone else's chart to find one would need their agreement anyway ([Synastry and consent](/blog/synastry-behind-their-back/)). Nor can a placement show that a difficult stretch of life is deserved. Reading misfortune as a verdict is the opposite of what I do ([How I read](/how-i-read/)). If a hard time feels like punishment, that's worth talking through with someone qualified, not with a chart ([Astrology and mental health](/astrology/astrology-and-mental-health/)).
 
-It also has no record with me. The system behind my readings doesn't compute it, and my notebook, which went through the Sun, the Moon, the rising sign, each planet, Chiron and Lilith, never reached it ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)).
+Nemesis carried a measuring rod; mine is a notebook, where the Sun, the Moon, the rising sign, each planet, Chiron and Lilith each got a tick or a cross ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)). The asteroid was never measured there, and the system behind my readings doesn't compute it.
 
 If you use it, the goddess herself suggests the rule: proportion. One asteroid in a tight contact with a planet ([Orbs](/astrology/orbs/)) is a detail; it never outweighs the planets, and a dozen asteroids read at once outweigh everything ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
 

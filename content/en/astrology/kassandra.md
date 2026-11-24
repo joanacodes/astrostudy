@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/astraea", "/astrology/medusa", "/astrology/apollo-asteroid", "/astrology/transits", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Kassandra mean in astrology?"
-    a: "The asteroid carries the name of Cassandra, the Trojan princess and priestess of Apollo who foretold the truth and was never believed. Found in 1871, it has no tradition of its own. I describe it here but don’t read it, and I don’t make predictions of the kind she was cursed to make."
+    a: "The asteroid carries the name of Cassandra, the Trojan princess and priestess of Apollo who foretold the truth and was never believed. Her story is about prediction, and my readings make none, so this find of 1871 stays out of them."
   - q: "Is Kassandra the same as Cassandra?"
     a: "Yes. Kassandra is the Greek spelling of Cassandra, daughter of King Priam of Troy, and the asteroid uses it. In English her name has come to mean someone whose accurate warnings, usually of disaster, are ignored."
   - q: "Who discovered the asteroid Kassandra?"
@@ -48,7 +48,7 @@ Cassandra was a daughter of Priam, king of Troy, and a priestess of Apollo. In t
 
 Her family took her for a liar or a madwoman, and Priam is said to have kept her shut away. Homer, who calls her the loveliest of Priam's daughters, has her announce to the city that Hector's body is being brought home, so that Troy can mourn. She survived the fall of the city, was taken to Mycenae by Agamemnon, and died there beside him. In English her name now stands for anyone whose accurate warnings go unheeded.
 
-Her gift came from Apollo, who has an asteroid of his own ([Apollo (asteroid)](/astrology/apollo-asteroid/)). Placed in a chart, Kassandra behaves like any main-belt asteroid: its sign is shared by many people born around the same time, its house needs a birth time ([What changes without a birth time](/blog/unknown-birth-time/)), and its contacts mean little unless they're tight ([Orbs](/astrology/orbs/)). What the name adds is the story, and the story is about prediction.
+Her gift came from Apollo, who has an asteroid of his own ([Apollo (asteroid)](/astrology/apollo-asteroid/)). Placed in a chart, Kassandra gets what any main-belt asteroid gets: a sign shared with many people born around the same time, a house that needs a birth time ([What changes without a birth time](/blog/unknown-birth-time/)), and contacts that matter only when tight ([Orbs](/astrology/orbs/)). None of that can foretell anything, which is the one thing her name seems to promise.
 
 ## In a reading {#in-a-reading}
 

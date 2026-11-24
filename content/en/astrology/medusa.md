@@ -1,7 +1,7 @@
 ---
 title: "Medusa"
 h1: "The asteroid Medusa in astrology"
-description: "Medusa asteroid (149) in astrology: found in 1875, the smallest asteroid then known, the Gorgon’s story and its retellings, and why I leave it out."
+description: "Medusa asteroid (149) in astrology: found in 1875, the smallest asteroid then known, the Gorgon’s story and its retellings, and why it is no verdict on anyone."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/kassandra", "/astrology/arachne", "/astrology/pallas", "/astrology/when-to-see-a-professional-instead", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Medusa mean in astrology?"
-    a: "The asteroid carries the name of the Gorgon of Greek myth, whose gaze turned people to stone and whose head, cut off by Perseus, ended up on Athena’s shield. Found in 1875, it has no tradition of its own in astrology. I describe it here but don’t read it in charts."
+    a: "The asteroid carries the name of the Gorgon of Greek myth, whose gaze turned people to stone and whose head, cut off by Perseus, ended up on Athena’s shield. Her story is too violent to point at a reader, and this small find of 1875 has never been tested, so I don’t read it."
   - q: "When was the asteroid Medusa discovered?"
     a: "On 21 September 1875, by the French astronomer Henri Joseph Perrotin. It is a stony asteroid only about 20 km across, the smallest yet found at the time, though nobody could tell then, and it goes round the Sun in about 3.2 years."
   - q: "Who was Medusa in Greek mythology?"
@@ -56,7 +56,7 @@ I don't read Medusa, and with a myth like hers I'm glad not to have to. It holds
 
 Her oldest use is the one I'd keep: a face on a shield that holds fear at a distance. A reading should leave you less afraid than it found you.
 
-The asteroid also has no record with me. My notebook checked the Sun, the Moon, the rising sign, each planet, Chiron and Lilith, and Medusa never appeared in it ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)); the system behind my readings doesn't compute her either. If you place her yourself, keep her to tight contacts with the planets and read her last ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
+The asteroid held two records in its day and holds none with me. My notebook checked the Sun, the Moon, the rising sign, each planet, Chiron and Lilith, and Medusa never appeared in it ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)); the system behind my readings doesn't compute her either. If you place her yourself, do as Perseus did and look at her indirectly: last, after the planets, and only in a tight contact ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
 
 ## Common myths {#myths}
 

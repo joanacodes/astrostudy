@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["Arabic parts"]
 weight: 16
 glyph: "✦"
-definition: "The Part of Siblings is a lot: a degree calculated from two points of the birth chart and counted on from the Ascendant, which tradition kept for brothers and sisters. It adds a point to the 3rd house, their usual place. It moves with the birth time, and it can neither count your siblings nor describe them."
+definition: "The Part of Siblings is the lot kept for brothers and sisters, a single calculated degree added to the 3rd house that tradition already gave them. Counted from the Ascendant, it differs even between twins born minutes apart. It can neither count your siblings nor describe them."
 facts:
   - { k: "Type", v: "A lot, also called an Arabic part" }
   - { k: "Kept for", v: "Brothers and sisters" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/3rd-house", "/astrology/part-of-the-mother", "/astrology/part-of-friends", "/astrology/charts-for-friends-colleagues-and-family", "/blog/synastry-behind-their-back"]
 faq:
   - q: "What is the Part of Siblings in astrology?"
-    a: "It is a lot: a degree calculated from the birth chart by counting the distance between two of its points again from the Ascendant. Tradition kept it for brothers and sisters, alongside the 3rd house, which already covers them. It moves with the Ascendant, so it needs an exact birth time."
+    a: "It is the lot kept for brothers and sisters: one calculated degree, added to the 3rd house that tradition already gave them. It is counted from the Ascendant, so it needs an exact birth time, and it can say nothing about how many siblings you have or what they are like."
   - q: "Can astrology tell how many siblings I have or will have?"
     a: "No. No lot, house or planet can count brothers and sisters, past or future. Every chart has a Part of Siblings, an only child’s included, because it is arithmetic, not a record of your family. Your family history lives in people and documents, not in degrees."
   - q: "What is the difference between the Part of Siblings and the 3rd house?"
@@ -33,7 +33,7 @@ sources:
   - { title: "Ptolemy, Tetrabiblos, book III, trans. F. E. Robbins (Loeb Classical Library, 1940), via Wikipedia, “Tetrabiblos”", url: "https://en.wikipedia.org/wiki/Tetrabiblos", note: "siblings in chapter 5, after the parents; checked on 24 November 2026" }
   - { title: "Wikipedia — Planets in astrology", url: "https://en.wikipedia.org/wiki/Planets_in_astrology", note: "Mercury and the near world of neighbours, siblings and cousins; checked on 24 November 2026" }
 ---
-Brothers and sisters already have a house in the old scheme, the 3rd. The Part of Siblings gives them a single degree as well: a lot, calculated from your chart and kept for the people you grew up beside, or didn't.
+Brothers and sisters already have a house in the old scheme, the 3rd. The Part of Siblings adds one degree for them, worked out from your Ascendant and two other points: a lot for the people you grew up beside, or didn't.
 
 ## What it is {#what-it-is}
 
@@ -51,7 +51,7 @@ Horary astrologers also count houses on from the 3rd to ask about a sibling's ow
 
 ## In a reading {#in-a-reading}
 
-The lot isn't in my readings; the system I built calculates no lots beyond Fortune and Spirit. Siblings come up anyway, and I read them where tradition put them, in your 3rd house, as you experienced them: the shorthand, the old rivalries, who spoke first and who kept quiet, the cousins and neighbours who filled the same role if there were no brothers or sisters at all. Half-siblings, step-siblings and adopted siblings count just as much; a chart doesn't know your family tree, and doesn't need to.
+With no lot beyond Fortune and Spirit in my system, brothers and sisters come into my readings through the 3rd house alone, where tradition put them, and as you experienced them: the shorthand, the old rivalries, who spoke first and who kept quiet, the cousins and neighbours who filled the same role if there were no brothers or sisters at all. Half-siblings, step-siblings and adopted siblings count just as much; a chart doesn't know your family tree, and doesn't need to.
 
 A brother or sister has a chart of their own. If two adult siblings both want to look at what passes between them, that's a comparison of two charts, with both agreeing ([charts for friends, colleagues and family](/astrology/charts-for-friends-colleagues-and-family/); [synastry and consent](/blog/synastry-behind-their-back/)). And what happened between you as children enters a reading only as what you carry now, as adults: I don't read children's charts.
 

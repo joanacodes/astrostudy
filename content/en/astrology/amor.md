@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["asteroids"]
 weight: 8
 glyph: "✦"
-definition: "Amor, asteroid 1221, is a near-Earth asteroid about a kilometre across, discovered in 1932 and named with the Latin word for love, a name of Cupid. It gave its name to the Amor asteroids, which approach the Earth’s orbit from outside. Astrologers who use it read love through its name; I don’t read it."
+definition: "Amor, asteroid 1221, is a near-Earth asteroid about a kilometre across, discovered in 1932 and named with the Latin word for love, a name of Cupid. It gave its name to the Amor asteroids, which approach the Earth’s orbit from outside. Its astrological meaning rests on that one word, love."
 facts:
   - { k: "Type", v: "Near-Earth asteroid, about 1 km across" }
   - { k: "Discovered", v: "12 March 1932, by Eugène Delporte at Uccle, Belgium" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/psyche", "/astrology/sappho", "/astrology/eros", "/astrology/cupido-asteroid", "/astrology/venus"]
 faq:
   - q: "What does Amor mean in astrology?"
-    a: "Astrologers who use the asteroid Amor take its meaning from its name, the Latin word for love and one of the names of Cupid. Its name, not any old tradition, is where that meaning comes from: the asteroid was only found in 1932. I don’t read it; love, in my readings, goes through Venus and the houses of partnership."
+    a: "Love, quite literally: amor is the Latin word, and one of the names of Cupid. The asteroid was only found in 1932, so its name, not any old tradition, is where that meaning comes from. I don’t read it; love, in my readings, goes through Venus and the houses of partnership."
   - q: "What are the Amor asteroids?"
     a: "They are near-Earth asteroids whose orbits approach the Earth’s from outside without crossing it, named after 1221 Amor, found in 1932. After the Apollo group, which does cross the Earth’s orbit, they are the second largest group of near-Earth objects, with thousands of members. The asteroid Eros is one of them."
   - q: "What is the difference between Amor, Eros and Cupido?"
@@ -34,7 +34,7 @@ sources:
   - { title: "Wikipedia — Cupid", url: "https://en.wikipedia.org/wiki/Cupid", note: "Cupido, “passionate desire”, and Amor, “love”; checked on 24 November 2026" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "the placements the notebook covered" }
 ---
-On 12 March 1932, a Belgian astronomer photographed an asteroid passing within about 16 million kilometres of the Earth, closer than anyone had seen one come before. He called it Amor, the Latin for love. It's small, about a kilometre across, and it has given its name to a whole family of asteroids. Some astrologers place it in the birth chart; this page says what it is and why I don't.
+On 12 March 1932, a Belgian astronomer photographed an asteroid passing within about 16 million kilometres of the Earth, closer than anyone had seen one come before. He called it Amor, the Latin for love. It's small, about a kilometre across, and it has given its name to a whole family of asteroids. It also shares its god with two other asteroids, which is where the confusion starts.
 
 ## What it is {#what-it-is}
 
@@ -46,13 +46,13 @@ The name belongs to the god the Greeks called Eros and the Romans called Cupid. 
 
 ## How it works {#how-it-works}
 
-A body found in 1932 brings no ancient tradition with it, so what astrologers say about Amor comes from its name. That makes the choice of name matter more than usual, and here one god has three asteroids. Eros, Cupido and Amor have separate orbits, so in any chart they usually fall in three different places, and anyone who adds all three has three answers to one question. If you use one, decide which before you see where they land in your chart, so that the chart doesn't choose for you ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)). Nor is the god the only source of love's names among the asteroids: [Sappho](/astrology/sappho/), found in 1864, carries the name of the Greek poet best known in antiquity for her love poems.
+Nothing written before 1932 could mention it, so its name is all astrologers have to go on. That makes the choice of name matter more than usual, and here one god has three asteroids. Eros, Cupido and Amor have separate orbits, so in any chart they usually fall in three different places, and anyone who adds all three has three answers to one question. If you use one, decide which before you see where they land in your chart, so that the chart doesn't choose for you ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)). Nor is the god the only source of love's names among the asteroids: [Sappho](/astrology/sappho/), found in 1864, carries the name of the Greek poet best known in antiquity for her love poems.
 
 Its motion follows from its orbit. Like other near-Earth asteroids, it moves through the zodiac unevenly, fast when it's near us and slowly when it's far, and its house in a chart depends on the birth time, like every house.
 
 ## In a reading {#in-a-reading}
 
-I don't read Amor. The system I built calculates no asteroids, and Amor wasn't among the placements I [counted, tick by tick](/blog/i-tested-my-birth-chart/), so I have nothing to tell you about how often it holds.
+Asteroids aren't part of the system I built for my readings, and my notebook, which went through the planets [tick by tick](/blog/i-tested-my-birth-chart/), never reached Amor, so I have nothing to tell you about how often it holds.
 
 Love comes into a reading through the planets that were in that count. [Venus](/astrology/venus/) is what you value and what draws you; the [5th house](/astrology/5th-house/) is where pleasure and romance play out, and the [7th](/astrology/7th-house/) is partnership, the one person across the table. Venus held about a third of the time in my notebook, like the Sun sign and the rising sign, and I say as much when a reading leans on it.
 
@@ -60,7 +60,7 @@ Between two people, a chart comparison looks at how one person's planets meet th
 
 ## Common myths {#myths}
 
-- **“Amor shows your true love.”** No point names a person or promises a relationship.
+- **“Amor shows your true love.”** An asteroid can't pick a partner out of a crowd, or promise you one.
 - **“Amor, Eros and Cupido are one asteroid with three names.”** They're three bodies, numbers 1221, 433 and 763, on three orbits.
 - **“Amor is the oldest love asteroid.”** It's the youngest of the three: Eros was found in 1898, Cupido in 1913, Amor in 1932.
 - **“A love asteroid on your Venus means love is coming.”** A natal contact describes how you love, not when anyone will arrive.

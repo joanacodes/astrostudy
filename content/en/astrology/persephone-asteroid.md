@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/proserpina-26", "/astrology/hekate", "/astrology/persephone-hypothetical", "/astrology/ceres", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does the asteroid Persephone mean in astrology?"
-    a: "It carries the name of the Greek goddess carried off to the underworld, who comes back to her mother for part of every year. No old text describes the asteroid, found in 1895, so what a chart can take from it is that story. I describe it here and leave it out of my readings."
+    a: "It carries the name of the Greek goddess carried off to the underworld, who returns to her mother for part of every year. No old text describes the asteroid, found by Max Wolf in 1895; all a chart can take from it is her story, and I leave both out of readings."
   - q: "Is Persephone the same as Proserpina in astrology?"
     a: "Same goddess, Greek and Roman, but two different asteroids: 26 Proserpina, found in 1853, and 399 Persephone, found in 1895. Some programs also list a hypothetical planet named Persephone, which is something else again. Check which one your chart shows before reading anything into it."
   - q: "When was the asteroid Persephone discovered?"
@@ -51,11 +51,11 @@ The name comes with one of the best-known stories in Greek myth. Persephone was 
 
 The Greeks told it to explain the seasons: the months she spends above are the growing ones, the months below are the bare ones. She was also queen of the dead, and her name was handled with care: in cult she was often simply Kore, the Maiden.
 
-An asteroid found in 1895 has no centuries of commentary behind it, so whoever places Persephone in a chart places it like any small body. Its sign changes slowly, at about 5.3 years a circuit, so many people born around the same time as you share it. Its house depends on the birth time, as every house does ([What changes without a birth time](/blog/unknown-birth-time/)). Its contacts with the planets and the angles only stand out when they're tight, within a degree or two. What it adds to all that is the story, and a story isn't evidence.
+An asteroid found in 1895 has no centuries of commentary behind it. Placed in a chart, it keeps a plainer rhythm than its goddess, about five and a third years round the zodiac rather than a season below and a season above, so many people born around the same time as you share its sign; its house waits on the birth time ([What changes without a birth time](/blog/unknown-birth-time/)), and only a contact within a degree or two of a planet or an angle would make it stand out. What it adds to all that is the story, and a story isn't evidence.
 
 ## In a reading {#in-a-reading}
 
-Persephone isn't one of the bodies I read. The system I built for my readings computes the planets, Chiron, Lilith and the lunar nodes; no asteroid has a place in it. My notebook can't stand in for it either: when I [went through charts placement by placement](/blog/i-tested-my-birth-chart/), the list was the Sun, the Moon, the rising sign, each planet, Chiron and Lilith. Overall about a third held. Persephone was never on the list, so I have no figure for it, not even a rough one.
+Persephone isn't one of the bodies I read. The system I built for my readings computes the planets, Chiron, Lilith and the lunar nodes; no asteroid has a place in it. In the myth Persephone spends part of every year out of sight; in my notebook she was out of sight the whole time. When I [went through charts placement by placement](/blog/i-tested-my-birth-chart/), the list was the Sun, the Moon, the rising sign, each planet, Chiron and Lilith, and about a third of it held overall; there's no figure for her, not even a rough one.
 
 With this myth there's a second reason. It's the story of a young woman taken without her consent and of a mother who loses her for part of every year, and it would be easy to turn it into a warning about someone you love. No placement can say that anyone will be taken from you, and I don't read a chart for what will happen in a family ([How I read](/how-i-read/)).
 

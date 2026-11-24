@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/hidalgo", "/astrology/apollo-asteroid", "/astrology/mercury", "/astrology/can-astrology-predict-death", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Que signifie Icare en astrologie ?"
-    a: "L’astéroïde porte le nom d’Icare, qui s’échappa de Crète avec des ailes de plumes et de cire, vola trop près du Soleil et tomba dans la mer. Découvert en 1949, il n’a pas de tradition propre en astrologie, et aucun de ses placements n’annonce une chute ou un accident. Je le décris ici sans le lire."
+    a: "L’astéroïde porte le nom d’Icare, qui s’échappa de Crète avec des ailes de plumes et de cire, vola trop près du Soleil et tomba dans la mer. Aucun placement de ce géocroiseur n’annonce une chute, un accident ou un échec, et il ne fait pas partie des corps que je lis."
   - q: "L’astéroïde Icare est-il dangereux ?"
     a: "Les astronomes le classent parmi les astéroïdes potentiellement dangereux : plus de 150 mètres, et une orbite qui passe à moins de 0,05 fois la distance Terre-Soleil de celle de la Terre. Ses approches ont lieu en juin, tous les 9, 19 ou 28 ans ; la prochaine notable, en 2043, le tiendra à environ 8,8 millions de km."
   - q: "Quand l’astéroïde Icare a-t-il été découvert ?"
@@ -52,11 +52,11 @@ C’est aussi, par son numéro, le premier des astéroïdes classés potentielle
 
 Dédale, l’artisan qui avait construit le labyrinthe du roi Minos en Crète, y fut enfermé avec son fils Icare. Pour s’échapper, il fabriqua deux paires d’ailes avec des plumes, du fil, des lanières de cuir et de la cire d’abeille, et recommanda à son fils de garder une route moyenne : trop bas, la mer tremperait les plumes ; trop haut, le Soleil ferait fondre la cire. Icare, grisé par le vol, monta. La cire ramollit, les plumes tombèrent une à une, et il plongea dans la mer, où il se noya. Dédale donna son nom à l’île la plus proche, Icarie, et la mer qui l’entoure s’appelle toujours la mer Icarienne. Des auteurs plus tardifs ont fait de l’évasion un voyage en bateau, d’où Icare serait tombé ; la version qui a duré nous a laissé l’expression « voler trop près du Soleil ».
 
-Le nom de l’astéroïde a été proposé par R. C. Cameron et le Dr Folkman et publié en janvier 1950, et le père a sa propre petite planète, 1864 Daedalus. Placé dans un thème, Icare reçoit un signe, une maison que seule l’heure de naissance peut donner ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)) et ses contacts, comme n’importe quel petit corps. Le mythe fournit le reste, et c’est là que les ennuis commencent.
+Le nom de l’astéroïde a été proposé par R. C. Cameron et le Dr Folkman et publié en janvier 1950, et le père a sa propre petite planète, 1864 Daedalus. Un corps qui croise les routes de quatre planètes ne reçoit pourtant, dans un thème, que ce que reçoit tout petit corps : un signe, une maison que seule l’heure de naissance peut donner ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)), et ses contacts. Le mythe fournit le reste, et c’est là que les ennuis commencent.
 
 ## Dans une lecture {#dans-une-lecture}
 
-Je ne lis pas Icare. Le système que j’ai construit pour mes lectures ne calcule aucun astéroïde, et Icare n’avait pas de ligne dans mon carnet, qui couvrait le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)).
+Je ne lis pas Icare. Il n’a jamais volé jusqu’à mon carnet, dont la liste allait du Soleil, de la Lune et de l’ascendant à chaque planète, à Chiron et à Lilith ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)), et le système que j’ai construit pour mes lectures ne calcule aucun astéroïde.
 
 Avec ce mythe, le danger est évident : la chute. Un corps qui porte le nom d’un garçon noyé, près du Soleil ou de Mars dans un thème, peut ressembler à l’annonce d’un accident, d’un échec ou de pire encore. Aucun placement ne prédit rien de tout cela, et je ne lis jamais un thème pour cela ([L’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)).
 

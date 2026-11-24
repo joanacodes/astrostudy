@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/nemesis", "/astrology/kassandra", "/astrology/virgo", "/astrology/tropical-zodiac", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Astraea mean in astrology?"
-    a: "The asteroid carries the name of the Greek goddess of justice, the last immortal to live among people in the Golden Age, who left as they grew worse and became the constellation Virgo. Found in 1845, it has no older tradition behind it. I describe it here but don’t read it."
+    a: "The asteroid carries the name of the Greek goddess of justice, the last immortal to live among people in the Golden Age, who left as they grew worse and became the constellation Virgo. The fifth asteroid ever found, it has a percent sign for a glyph and no tested meaning, and I don’t read it."
   - q: "Why is Astraea’s symbol a percent sign?"
     a: "It comes from the keyboard: % is shift-5, and Astraea is asteroid number 5. Its discoverer, Karl Ludwig Hencke, had chosen an inverted anchor, perhaps a stylised pair of scales, which is no longer used; astronomers now write a 5 inside a circle."
   - q: "Is Astraea connected to Virgo?"
@@ -53,11 +53,11 @@ The sky kept her scales next to her. Milton set God's golden scales "betwixt Ast
 
 ## In a reading {#in-a-reading}
 
-Astraea stays out of my readings. The system I built computes no asteroid, and my notebook never reached it: the invoice I [went through placement by placement](/blog/i-tested-my-birth-chart/) listed the Sun, the Moon, the rising sign, each planet, Chiron and Lilith, and about a third held overall. A body that was never on the list can't borrow a figure from the ones that were.
+Astraea stays out of my readings. Her emblem is a pair of scales, and the nearest thing I own is my notebook, where I [weighed placement after placement](/blog/i-tested-my-birth-chart/), the Sun, the Moon, the rising sign, each planet, Chiron and Lilith, and found that about a third held overall. She was never put on those scales, and the system I built computes no asteroid, so she can't borrow a figure from the placements that were.
 
 It's also the asteroid most likely to tempt a neat story. Astraea in Virgo or in Libra can look like a goddess come home, and a homecoming is a pleasing thing to read into a chart. But the asteroid's sign comes from where it was when you were born, at about 4.1 years a circuit, so it's shared by many people born around the same time, and the constellations behind the signs have drifted away from them. A pleasing coincidence isn't a reason ([How I read](/how-i-read/)).
 
-If you want Astraea in your chart, place it as you would any small body: a house only with a birth time ([What changes without a birth time](/blog/unknown-birth-time/)), contacts only when they're tight, and always after the planets.
+If you want Astraea in your chart, weigh her last, after the planets: count only a tight contact, and give her a house only with a birth time ([What changes without a birth time](/blog/unknown-birth-time/)).
 
 ## Common myths {#myths}
 

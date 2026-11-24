@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/nemesis", "/astrology/kassandra", "/astrology/virgo", "/astrology/tropical-zodiac", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Que signifie Astrée en astrologie ?"
-    a: "L’astéroïde porte le nom de la déesse grecque de la justice, la dernière immortelle à vivre parmi les humains pendant l’âge d’or, partie quand ils devinrent pires pour devenir la constellation de la Vierge. Découvert en 1845, il n’a pas de tradition plus ancienne. Je le décris ici sans le lire."
+    a: "L’astéroïde porte le nom de la déesse grecque de la justice, la dernière immortelle à vivre parmi les humains pendant l’âge d’or, partie quand ils devinrent pires pour devenir la constellation de la Vierge. Cinquième astéroïde jamais découvert, il a un signe pour cent pour symbole et aucun sens vérifié, et je ne le lis pas."
   - q: "Pourquoi le symbole d’Astrée est-il un signe pour cent ?"
     a: "Il vient du clavier anglais : % s’obtient avec Maj et 5, et Astrée est l’astéroïde numéro 5. Son découvreur, Karl Ludwig Hencke, avait choisi une ancre renversée, peut-être une balance stylisée, qui n’est plus utilisée ; les astronomes écrivent aujourd’hui un 5 dans un cercle."
   - q: "Astrée a-t-elle un lien avec la Vierge ?"
@@ -54,11 +54,11 @@ Le ciel a gardé sa balance à côté d’elle. Milton place la balance d’or d
 
 ## Dans une lecture {#dans-une-lecture}
 
-Astrée reste en dehors de mes lectures. Le système que j’ai construit ne calcule aucun astéroïde, et mon carnet ne l’a jamais atteinte : la facture que j’ai [passée en revue placement par placement](/blog/i-tested-my-birth-chart/) comptait le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith, et environ un tiers a tenu au total. Un corps qui n’a jamais figuré sur la liste ne peut pas emprunter le chiffre de ceux qui y étaient.
+Astrée reste en dehors de mes lectures. Son emblème est une balance, et ce que j’ai de plus proche, c’est mon carnet, où j’ai [pesé un placement après l’autre](/blog/i-tested-my-birth-chart/), le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith, pour constater qu’environ un tiers tenait au total. Elle n’est jamais passée sur cette balance, et le système que j’ai construit ne calcule aucun astéroïde : elle ne peut pas emprunter le chiffre des placements qui y sont passés.
 
 C’est aussi l’astéroïde le plus susceptible d’inspirer une jolie histoire. Astrée en Vierge ou en Balance peut ressembler à une déesse rentrée chez elle, et ce retour au foyer est plaisant à lire dans un thème. Mais le signe de l’astéroïde vient de sa position à votre naissance, avec un tour en 4,1 ans environ : beaucoup de personnes nées à peu près en même temps le partagent, et les constellations derrière les signes s’en sont éloignées. Une coïncidence plaisante n’est pas une raison ([Ma méthode](/how-i-read/)).
 
-Si vous voulez Astrée dans votre thème, placez-la comme n’importe quel petit corps : une maison seulement avec l’heure de naissance ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)), des contacts seulement s’ils sont serrés, et toujours après les planètes.
+Si vous voulez Astrée dans votre thème, pesez-la en dernier, après les planètes : ne comptez qu’un contact serré, et ne lui donnez une maison qu’avec l’heure de naissance ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 ## Idées reçues {#idees-recues}
 

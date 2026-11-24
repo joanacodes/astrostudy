@@ -1,7 +1,7 @@
 ---
 title: "Urania"
 h1: "The asteroid Urania in astrology"
-description: "Urania asteroid in astrology: found by John Russell Hind in 1854, its 3.6-year orbit, the muse of astronomy and astrology, and why I leave it out."
+description: "Urania asteroid in astrology: found by J. R. Hind in 1854, its 3.6-year orbit, the muse of astronomy and astrology, and why a flattering name proves nothing."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/proserpina-26", "/astrology/fortuna", "/astrology/uranus", "/astrology/how-to-use-asteroids-without-drowning-the-chart", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Urania mean in astrology?"
-    a: "The asteroid takes its name from the muse of astronomy and astrology, a daughter of Zeus and Memory, shown with a globe and a pointer. It was found in 1854, and nothing older than its name stands behind it. I describe it here but don’t read it in charts."
+    a: "The asteroid takes its name from the muse of astronomy and astrology, a daughter of Zeus and Memory, shown with a globe and a pointer. A muse of my own trade in the sky is a flattering coincidence, not evidence, so I describe this find of 1854 without reading it."
   - q: "Who was Urania?"
     a: "One of the nine Greek Muses, the daughters of Zeus and Mnemosyne. She was the muse of astronomy and astrology, her name means heavenly, and ancient art gives her a globe and a pointer. Observatories in Berlin, Vienna and Zürich were later named after her."
   - q: "When was the asteroid Urania discovered?"
@@ -55,7 +55,7 @@ Urania isn't in my readings, because a coincidence of names is all it offers, an
 
 My notebook is where I did that checking. I went through charts line by line, the Sun, the Moon, the rising sign, each planet, Chiron and Lilith, and gave each placement a tick or a cross ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)). Urania had no line, so I have nothing to report on it, for or against.
 
-If the muse stands for anything in my work, it's that habit of checking: a placement earns its place in a reading by holding up when it's tested, not by having a beautiful name ([How I read](/how-i-read/)). If you use Urania yourself, choose it before you look at where it falls, and keep it to tight contacts ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
+If the muse stands for anything in my work, it's that habit of checking: a placement earns its place in a reading by holding up when it's tested, not by having a beautiful name ([How I read](/how-i-read/)). If you use Urania yourself, be stricter with it than with any other asteroid, precisely because it flatters the reader: choose it before you look at where it falls, and keep it to tight contacts ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
 
 ## Common myths {#myths}
 

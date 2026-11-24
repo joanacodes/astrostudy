@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/hidalgo", "/astrology/apollo-asteroid", "/astrology/mercury", "/astrology/can-astrology-predict-death", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Icarus mean in astrology?"
-    a: "The asteroid carries the name of Icarus, who escaped Crete on wings of feathers and wax, flew too close to the Sun and fell into the sea. Found in 1949, it has no tradition of its own in astrology, and no placement of it predicts a fall or an accident. I describe it here but don’t read it."
+    a: "The asteroid carries the name of Icarus, who escaped Crete on wings of feathers and wax, flew too close to the Sun and fell into the sea. No placement of this near-Earth asteroid predicts a fall, an accident or a failure, and it isn’t one of the bodies I read."
   - q: "Is the asteroid Icarus dangerous?"
     a: "Astronomers list it as a potentially hazardous asteroid, a label for bodies wider than 150 metres whose orbits pass within 0.05 times the Earth–Sun distance of the Earth’s. Its close approaches come in June, every 9, 19 or 28 years; the next notable one, in 2043, keeps it about 8.8 million km away."
   - q: "When was the asteroid Icarus discovered?"
@@ -51,11 +51,11 @@ It is also the lowest-numbered of the asteroids classed as potentially hazardous
 
 Daedalus, the craftsman who built the labyrinth for King Minos of Crete, was imprisoned there with his son Icarus. To escape, he made two pairs of wings from feathers, thread, leather straps and beeswax, and warned his son to keep a middle course: too low and the sea would soak the feathers, too high and the Sun would melt the wax. Icarus, giddy with flight, climbed. The wax softened, the feathers fell away one by one, and he dropped into the sea and drowned. Daedalus named the nearest island Icaria after him, and the sea around it is still the Icarian Sea. Later writers made the escape a voyage by ship, with Icarus falling overboard; the version that lasted gave us the phrase "to fly too close to the Sun".
 
-The asteroid's name was suggested by R. C. Cameron and Dr Folkman and published in January 1950, and the father has a minor planet of his own, 1864 Daedalus. Placed in a chart, Icarus gets a sign, a house that only a birth time can give ([What changes without a birth time](/blog/unknown-birth-time/)) and its contacts, like any small body. The myth supplies the rest, and that's where the trouble starts.
+The asteroid's name was suggested by R. C. Cameron and Dr Folkman and published in January 1950, and the father has a minor planet of his own, 1864 Daedalus. A body that crosses the paths of four planets still gets only what any small body gets in a chart: a sign, a house that only a birth time can give ([What changes without a birth time](/blog/unknown-birth-time/)), and its contacts. The myth supplies the rest, and that's where the trouble starts.
 
 ## In a reading {#in-a-reading}
 
-I don't read Icarus. The system I built for my readings computes no asteroid, and Icarus had no line in my notebook, which covered the Sun, the Moon, the rising sign, each planet, Chiron and Lilith ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)).
+I don't read Icarus. It never flew into my notebook, whose list ran from the Sun, the Moon and the rising sign to each planet, Chiron and Lilith ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)), and the system I built for my readings computes no asteroid.
 
 With this myth the danger is the obvious one: a fall. A body named after a boy who drowned, close to someone's Sun or Mars, can look like a warning of an accident, a failure or worse. No placement predicts any of those, and I never read a chart for them ([Can astrology predict death?](/astrology/can-astrology-predict-death/)).
 

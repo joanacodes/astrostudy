@@ -1,7 +1,7 @@
 ---
 title: "Hidalgo"
 h1: "The asteroid Hidalgo in astrology"
-description: "Hidalgo asteroid (944) in astrology: the first centaur found, in 1920, its 13.8-year orbit out to Saturn, the Mexican priest it honours, and why I leave it out."
+description: "Hidalgo asteroid (944) in astrology: the first centaur found, in 1920, its 13.8-year orbit out to Saturn, and the Mexican priest whose real life it names."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/karma", "/astrology/icarus", "/astrology/chiron", "/astrology/personal-name-asteroids", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "What does Hidalgo mean in astrology?"
-    a: "The asteroid is named after a man, not a myth: Miguel Hidalgo y Costilla, the Mexican priest who called his country to independence in 1810. Found in 1920, it has no tradition of its own in astrology. I describe it on this page, and it isn’t part of my readings."
+    a: "The asteroid is named after a man, not a myth: Miguel Hidalgo y Costilla, the Mexican priest who called his country to independence in 1810. Reading a real man’s life into strangers’ charts is a bigger leap than reading a myth, and Chiron is the only centaur in my readings."
   - q: "Is Hidalgo a centaur?"
     a: "By its orbit, yes: its average distance from the Sun lies between Jupiter’s and Neptune’s, which is how astronomers define centaurs. It was found in 1920, long before Chiron showed in 1977 that centaurs form a class of their own, and the Minor Planet Center also lists it as an unusual object."
   - q: "Who discovered Hidalgo?"
@@ -54,7 +54,7 @@ The orbit raises a second difficulty. Tilted 43°, almost as steeply as [Eris](/
 
 Hidalgo isn't in my readings, and since a centaur is, I owe a reason. Chiron was on the list in my notebook, and with Saturn and Lilith it held far more often than anything else, 75 to 90% of the time ([The three that held](/blog/saturn-chiron-lilith/)). Being the first of its class doesn't give Hidalgo Chiron's record. It was never on the list, and the system I built for my readings computes no centaur but Chiron ([How I read](/how-i-read/)).
 
-If you place Hidalgo yourself, treat it like the other names on the long list, [Karma](/astrology/karma/) among them: decide in advance whether you'll use it, count only tight contacts, and never let it speak louder than the planets ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
+If you place Hidalgo yourself, remember its 43° tilt before trusting any conjunction, decide in advance whether you'll use it at all, as with every name on the long list, [Karma](/astrology/karma/) among them, and never let it speak louder than the planets ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
 
 ## Common myths {#myths}
 

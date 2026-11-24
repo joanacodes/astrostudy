@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["asteroids"]
 weight: 12
 glyph: "✦"
-definition: "Hygiea, asteroid 10, is the fourth-largest body of the main asteroid belt, about 433 km across and nearly round, discovered in 1849 and named after Hygieia, the Greek goddess of health. Some astrologers link it to health practices. It can’t foresee an illness, no placement can, and I don’t read it."
+definition: "Hygiea, asteroid 10, is the fourth-largest body of the main asteroid belt, about 433 km across and nearly round, discovered in 1849 and named after Hygieia, the Greek goddess of health. Some astrologers link it to health practices. It can’t foresee an illness; no placement can."
 facts:
   - { k: "Type", v: "The fourth-largest main-belt asteroid, about 433 km across, nearly round" }
   - { k: "Discovered", v: "12 April 1849, by Annibale de Gasparis in Naples" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/bacchus", "/astrology/pandora", "/astrology/ceres", "/astrology/can-astrology-predict-health-problems", "/astrology/medical-astrology-in-history"]
 faq:
   - q: "What does Hygiea mean in astrology?"
-    a: "Astrologers who use Hygiea take its meaning from the goddess of health it is named after, and some link it to health practices and medical astrology. Its place in Western astrology is small and unsettled. I don’t read it, and nothing about it can say anything about anyone’s health."
+    a: "Its users take their cue from the goddess of health it is named after, and some link it to health practices and medical astrology. Its place in Western astrology is small and unsettled. I don’t read it, and nothing about it can say anything about anyone’s health."
   - q: "Can Hygiea predict health problems?"
     a: "No. No asteroid, planet or house can diagnose an illness, foresee one or say how healthy anyone will be, and I never read a chart for health. A chart can describe how you tend to look after yourself. For a symptom or a worry, a doctor is the right person to ask."
   - q: "Is Hygiea a dwarf planet?"
@@ -34,11 +34,11 @@ sources:
   - { title: "Wikipedia — Hygieia", url: "https://en.wikipedia.org/wiki/Hygieia", note: "the goddess of health and hygiene, and the Hippocratic Oath; checked on 24 November 2026" }
   - { title: "Wikipedia — Asteroids in astrology", url: "https://en.wikipedia.org/wiki/Asteroids_in_astrology", note: "Hygiea’s small and uncertain place in Western astrology; checked on 24 November 2026" }
 ---
-Hygiea is one of the largest bodies in the asteroid belt. Found in 1849, the tenth asteroid ever seen, it carries the name of the Greek goddess of health, which is exactly why it needs care in astrology. This page says what it is, where its name and symbol came from, and why it can't tell you anything about your health.
+Hygiea is one of the largest bodies in the asteroid belt. Found in 1849, the tenth asteroid ever seen, it carries the name of the Greek goddess of health, which is exactly why it needs care in astrology. Its story runs from a Bourbon king to a mistaken symbol, and it ends with a firm line about health.
 
 ## What it is {#what-it-is}
 
-Annibale de Gasparis found it on the evening of 12 April 1849 from the Capodimonte observatory in Naples, while charting stars along the ecliptic. It was his first asteroid; three years later he found [Psyche](/astrology/psyche/). Hygiea is about 433 km across, the fourth-largest body of the main belt, and nearly round, with a dark, carbon-rich surface much like that of [Ceres](/astrology/ceres/). Because of that round shape, some astronomers consider it a possible dwarf planet, which would make it the smallest known, though the International Astronomical Union hasn't classified it as one. A giant impact two or three billion years ago is thought to have shattered it before it pulled itself back together, leaving a family of more than 7,000 smaller asteroids on similar orbits. It goes round the Sun in about 5.6 years, in the outer belt.
+Annibale de Gasparis found it on the evening of 12 April 1849 from the Capodimonte observatory in Naples, while charting stars along the ecliptic. It was his first asteroid; three years later he found [Psyche](/astrology/psyche/). Hygiea is about 433 km across, the fourth-largest body of the main belt, and nearly round, with a dark, carbon-rich surface much like that of [Ceres](/astrology/ceres/). Because of that round shape, some astronomers consider it a possible dwarf planet, which would make it the smallest known, though the International Astronomical Union hasn't classified it as one. A giant impact two or three billion years ago is thought to have shattered it before it pulled itself back together, leaving a family of more than 7,000 smaller asteroids on similar orbits. Its circuit of the Sun takes about 5.6 years, out in the far part of the belt.
 
 Its name has a political history. The observatory's director, Ernesto Capocci, suggested Igea, the Italian form of Hygieia, and de Gasparis added *Borbonica* in honour of Ferdinand II, the Bourbon king of Naples; the gesture may have helped the two men after their part in the liberal movements of 1848. By 1852 the king's name had gone.
 
@@ -46,19 +46,19 @@ The goddess herself belonged to the cult of Asclepius, the god of medicine, and 
 
 ## How it works {#how-it-works}
 
-Astrologers who use Hygiea take its meaning from the goddess, and some link it to health practices and to medical astrology ([medical astrology, in history](/astrology/medical-astrology-in-history/)). An encyclopaedia account of asteroids in astrology describes its standing in Western astrology as practically unknown, which is a fair warning about how little settled tradition there is.
+Some astrologers link Hygiea to health practices and to medical astrology, after the goddess ([medical astrology, in history](/astrology/medical-astrology-in-history/)). An encyclopaedia account of asteroids in astrology describes its standing in Western astrology as practically unknown, which is a fair warning about how little settled tradition there is.
 
 Even its symbol shows how meanings drift. De Gasparis proposed a serpent crowned with a star, the snake being Hygieia's own emblem. An American astronomer redrew it as the rod of Asclepius, a snake round a staff, and the symbol astrologers adopted later uses Mercury's caduceus, a staff with two snakes: a mistake built on a mistake.
 
 ## In a reading {#in-a-reading}
 
-I don't read Hygiea. The system I built calculates no asteroids, and Hygiea wasn't among the placements I [checked one at a time](/blog/i-tested-my-birth-chart/) in my notebook.
+I don't read Hygiea, any more than any other asteroid, and my notebook, which [checked placements one at a time](/blog/i-tested-my-birth-chart/), never included it.
 
 More importantly, health is on my list of what I won't read, for any chart and through any body ([how I read](/how-i-read/)). No placement can diagnose an illness or say how healthy you'll be, and an asteroid named after the goddess of health is no exception ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). [Bacchus](/astrology/bacchus/) invites the same misreading, about drinking, and gets the same answer. What a chart can describe is how you tend to look after yourself; I read that in the [6th house](/astrology/6th-house/), as daily work and daily care, never as a forecast. For a symptom or a worry, a doctor is the right person to see.
 
 ## Common myths {#myths}
 
-- **“Hygiea shows where you'll fall ill.”** No placement can, and none should be read that way.
+- **“Hygiea shows where you'll fall ill.”** No chart can see an illness coming, through this asteroid or any other.
 - **“A well-placed Hygiea means good health.”** Health depends on bodies, care and circumstances, not on an asteroid's sign.
 - **“Hygiea is a dwarf planet.”** It may qualify one day; for now it's officially an asteroid.
 - **“Its symbol is the doctor's caduceus.”** The caduceus is Mercury's staff; the goddess's emblem was a snake, and the symbol's history is a chain of confusions.

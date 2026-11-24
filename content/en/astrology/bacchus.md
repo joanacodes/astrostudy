@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["asteroids"]
 weight: 11
 glyph: "✦"
-definition: "Bacchus, asteroid 2063, is a near-Earth asteroid about a kilometre long, made of two lobes, discovered in 1977 and named after Bacchus, the name under which Rome knew Dionysus, god of wine, ecstasy and theatre. Astrologers who use it start from the god. No placement can show an addiction, and I don’t read Bacchus."
+definition: "Bacchus, asteroid 2063, is a near-Earth asteroid about a kilometre long, made of two lobes, discovered in 1977 and named after Bacchus, the name under which Rome knew Dionysus, god of wine, ecstasy and theatre. Wine, theatre and release are the themes its users take from him. No placement can show an addiction."
 facts:
   - { k: "Type", v: "Near-Earth asteroid of the Apollo group, about 1 km long" }
   - { k: "Discovered", v: "24 April 1977, by Charles Kowal at Palomar, California" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/cupido-asteroid", "/astrology/hygiea", "/astrology/chiron", "/astrology/can-astrology-predict-health-problems", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "What does Bacchus mean in astrology?"
-    a: "Astrologers who use the asteroid Bacchus start from the god it is named after: Dionysus, whom the Romans worshipped as Bacchus, god of wine, festivity, ecstasy and the theatre. A body found in 1977 brings no older tradition, so the myth is the whole of its meaning. I don’t read it in charts."
+    a: "The god sets its themes: Dionysus, whom the Romans worshipped as Bacchus, god of wine, festivity, ecstasy and the theatre. Found in 1977, the asteroid has no older tradition to draw on. I don’t read it in charts, and no reading of it can say anything about anyone’s drinking."
   - q: "Can the asteroid Bacchus show a drinking problem or an addiction?"
     a: "No. No asteroid, planet or house can show whether someone drinks too much, or will, and I never read a chart for health. If drinking worries you, yours or someone else’s, talk to a doctor: that is where real help starts, without judgement."
   - q: "When was the asteroid Bacchus discovered?"
@@ -44,13 +44,13 @@ It was named after Bacchus, the name under which the Romans worshipped Dionysus,
 
 ## How it works {#how-it-works}
 
-A body found in 1977 brings no ancient tradition with it. What astrologers who use Bacchus say about it starts from the god, and the god is broader than his reputation: wine and celebration, yes, but also the theatre, the mask, and the release from fear and care that his rites were said to bring.
+Bacchus has had astrologers' attention only since 1977, and they draw on the god, who is broader than his reputation: wine and celebration, yes, but also the theatre, the mask, and the release from fear and care that his rites were said to bring.
 
 Because it comes in towards the Sun and out again in just over a year, Bacchus crosses the zodiac quickly and unevenly, faster when it's close to the Earth. It also has a sibling in a sense. [Chiron](/astrology/chiron/), found by the same astronomer at the same observatory six months later, was given an astrological symbol soon after its discovery, by Al H. Morrison, and that symbol became standard among astrologers.
 
 ## In a reading {#in-a-reading}
 
-I don't read Bacchus. The system behind my readings calculates no asteroids, and Bacchus wasn't on the list when I [went through charts like an invoice](/blog/i-tested-my-birth-chart/). Its 1977 sibling was, and the contrast is the clearest thing I can tell you: Chiron, with Saturn and Lilith, held 75 to 90% of the time, far more often than the placements everyone reads first ([the three that held](/blog/saturn-chiron-lilith/)). Chiron earns its place in a reading. Bacchus has never been tested in mine. If you add it to your own chart, read it only in close contact with a planet or an angle, as a detail beside them ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
+Of the two bodies Kowal found that year, only one made it into my notebook when I [went through charts like an invoice](/blog/i-tested-my-birth-chart/), and only one is in my readings, which leave asteroids out. The contrast is the clearest thing I can tell you: Chiron, with Saturn and Lilith, held 75 to 90% of the time, far more often than the placements everyone reads first ([the three that held](/blog/saturn-chiron-lilith/)). Chiron earns its place in a reading. Bacchus has never been tested in mine.
 
 There's a firmer line as well. No asteroid can show whether someone drinks too much, or will, and health questions are on my list of what I won't read ([how I read](/how-i-read/); [can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). The same goes for the mind: no placement is a symptom ([astrology and mental health](/astrology/astrology-and-mental-health/)). Bacchus invites that kind of reading, and so does [Hygiea](/astrology/hygiea/), named after the goddess of health; I refuse it in both cases. If drinking worries you, yours or someone else's, a doctor is the right door, and asking isn't a failure.
 

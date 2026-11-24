@@ -2,7 +2,7 @@
 title: "Pandore"
 slug: "pandore"
 h1: "L’astéroïde Pandore en astrologie"
-description: "L’astéroïde Pandore en astrologie : découvert en 1858 et nommé en pleine querelle, la première femme du mythe, sa jarre qui n’était pas une boîte, et pourquoi il ne prédit rien."
+description: "L’astéroïde Pandore en astrologie : nommé en 1858 en pleine querelle, la première femme du mythe, sa jarre qui n’était pas une boîte, et ce qu’il n’annonce pas."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
@@ -27,7 +27,7 @@ faq:
   - q: "La boîte de Pandore était-elle vraiment une boîte ?"
     a: "Non. Chez Hésiode, vers 700 av. J.-C., Pandore ouvre une grande jarre de stockage, un pithos. On fait d’ordinaire remonter la boîte à l’humaniste Érasme, qui, dans son recueil de proverbes de 1508, changea le mot grec pour jarre en pyxis, une boîte. L’image est restée, et l’expression ouvrir la boîte de Pandore avec elle."
   - q: "Pandore dans mon thème annonce-t-il des ennuis ?"
-    a: "Non. Aucun astéroïde ne peut annoncer de malheur, et un mythe sur les maux du monde n’est pas une prédiction sur vous. Je lis le mouvement du ciel sur un thème comme une météo, pas comme une prévision, et je ne lis pas Pandore du tout. Si quelqu’un se sert d’un placement de Pandore pour vous faire peur, cela en dit plus sur cette personne que sur votre thème."
+    a: "Non. Aucun astéroïde ne peut annoncer de malheur, et un mythe sur les maux du monde n’est pas une prédiction sur vous. Je lis le mouvement du ciel sur un thème comme une météo, pas comme une prévision. Si quelqu’un se sert de Pandore pour vous faire peur, cela en dit plus sur cette personne que sur votre thème."
   - q: "Qui a découvert et nommé l’astéroïde Pandore ?"
     a: "George Mary Searle, astronome américain et prêtre catholique, l’a trouvé le 10 septembre 1858 à l’observatoire Dudley, près d’Albany, dans l’État de New York ; ce fut son seul astéroïde. Le nom a apparemment été choisi par Blandina Dudley, veuve du fondateur de l’observatoire, en pleine querelle avec son directeur, qui le trouva bien choisi."
 sources:

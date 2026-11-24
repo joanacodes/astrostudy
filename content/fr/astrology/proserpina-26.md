@@ -23,7 +23,7 @@ facts:
 related: ["/astrology/persephone-asteroid", "/astrology/urania", "/astrology/pluto", "/astrology/eris", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "Que signifie Proserpine en astrologie ?"
-    a: "L’astéroïde porte le nom de la reine romaine des Enfers, fille de Cérès, enlevée par le roi des morts et autorisée à remonter une partie de chaque année. Découvert en 1853, il n’a derrière lui aucune tradition plus ancienne. Je le décris ici ; il ne fait pas partie de mes lectures."
+    a: "L’astéroïde porte le nom de la reine romaine des Enfers, fille de Cérès, enlevée par le roi des morts et autorisée à remonter la moitié de chaque année chez les poètes latins. Rien de plus ancien que sa découverte, en 1853, ne se tient derrière lui, et le corps du monde souterrain que je lis, c’est la planète Pluton, pas cet astéroïde."
   - q: "Quelle différence entre Proserpine et Perséphone ?"
     a: "Une seule déesse sous deux noms, latin et grec, et deux astéroïdes distincts. 26 Proserpine a été découvert en 1853 et fait le tour du Soleil en 4,3 ans environ ; 399 Perséphone, découvert en 1895, en 5,3 ans environ. La déesse romaine a aussi absorbé une divinité plus ancienne, Libera."
   - q: "Proserpine est-elle une planète en astrologie ?"
@@ -58,7 +58,7 @@ Le monde souterrain a déjà sa place dans mes lectures, et c’est une planète
 
 Proserpine n’a jamais figuré sur cette facture. Le carnet couvrait le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith, et le système que j’ai construit pour mes lectures ne calcule aucun astéroïde : il n’y a donc aucun chiffre à donner, ni à emprunter à Pluton. Partager un mythe avec une planète ne donne pas à un astéroïde le bilan de cette planète ([Ma méthode](/how-i-read/)).
 
-Si vous utilisez Proserpine, la discipline habituelle s’applique : ne la lisez qu’en contact serré avec une planète ou un angle, ne lui donnez une maison qu’avec l’heure de naissance ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)), et choisissez-la avant de regarder le thème plutôt que parce qu’elle tombe à un endroit frappant ([Lire les astéroïdes sans noyer le thème](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
+Si vous utilisez malgré tout Proserpine, vérifiez d’abord que votre logiciel désigne bien l’astéroïde, puis tenez-la à la discipline habituelle : ne la lisez qu’en contact serré avec une planète ou un angle, ne lui donnez une maison qu’avec l’heure de naissance ([Ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)), et choisissez-la avant de regarder le thème plutôt que parce qu’elle tombe à un endroit frappant ([Lire les astéroïdes sans noyer le thème](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
 
 ## Idées reçues {#idees-recues}
 

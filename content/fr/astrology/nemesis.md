@@ -23,7 +23,7 @@ facts:
 related: ["/astrology/fortuna", "/astrology/astraea", "/astrology/how-to-use-asteroids-without-drowning-the-chart", "/astrology/astrology-and-mental-health", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Que signifie Némésis en astrologie ?"
-    a: "L’astéroïde porte le nom de la déesse grecque qui rendait à chacun son dû et punissait l’arrogance envers les dieux. Découvert en 1872, il n’a pas de tradition propre en astrologie, et rien ne l’a vérifié. Je le décris ici sans le lire, et aucun de ses placements ne désigne un ennemi."
+    a: "L’astéroïde porte le nom de la déesse grecque qui rendait à chacun son dû et punissait l’arrogance envers les dieux. Le mot désigne aujourd’hui un ennemi juré, mais aucun placement de cette découverte de 1872 ne peut en nommer un, ni montrer qu’une période dure est méritée, et je ne le lis pas."
   - q: "L’astéroïde Némésis, est-ce l’étoile Némésis ?"
     a: "Non. L’étoile Némésis est une compagne hypothétique du Soleil, supposée en 1984 pour expliquer un prétendu cycle d’extinctions massives ; les relevés du ciel en infrarouge ne l’ont pas trouvée. L’astéroïde 128 Némésis est un corps réel, d’environ 163 km, en orbite entre Mars et Jupiter."
   - q: "Qui était Némésis dans la mythologie grecque ?"
@@ -57,7 +57,7 @@ Elle appartient aussi à une histoire plus ancienne, celle de la justice qui qui
 
 Je ne lis pas Némésis, et c’est un nom dont je me méfierais même si je le lisais. Le sens moderne du mot appelle une question à laquelle aucun thème ne peut répondre : qui est mon ennemi ? Le sens ancien en appelle une plus dure : de quoi me punit-on ? Un placement ne peut pas désigner un ennemi, et lire le thème de quelqu’un d’autre pour en trouver un demanderait de toute façon son accord ([Synastrie et consentement](/blog/synastry-behind-their-back/)). Un placement ne peut pas non plus montrer qu’une période difficile est méritée. Lire le malheur comme un verdict, c’est le contraire de ce que je fais ([Ma méthode](/how-i-read/)). Si un moment dur ressemble à une punition, cela mérite d’en parler avec une personne qualifiée, pas avec un thème ([Astrologie et santé mentale](/astrology/astrology-and-mental-health/)).
 
-Il n’a pas non plus de bilan chez moi. Le système derrière mes lectures ne le calcule pas, et mon carnet, qui a passé en revue le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith, ne l’a jamais atteint ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)).
+Némésis tenait une règle de mesure ; la mienne, c’est un carnet, où le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith ont chacun reçu une coche ou une croix ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)). L’astéroïde n’y a jamais été mesuré, et le système derrière mes lectures ne le calcule pas.
 
 Si vous l’utilisez, la déesse elle-même suggère la règle : la proportion. Un astéroïde en contact serré avec une planète ([Orbes](/astrology/orbs/)) est un détail ; il ne l’emporte jamais sur les planètes, et une douzaine d’astéroïdes lus à la fois l’emportent sur tout ([Lire les astéroïdes sans noyer le thème](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
 

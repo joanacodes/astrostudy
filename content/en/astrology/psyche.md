@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["asteroids"]
 weight: 7
 glyph: "✦"
-definition: "Psyche, asteroid 16, is a large metal-rich asteroid discovered in 1852 and named after the mortal woman who married Cupid in Apuleius’s tale. Her name is the Greek word for soul and for butterfly. Astrologers who place it take its meaning from that story; a NASA spacecraft is on its way to it, and it isn’t in my readings."
+definition: "Psyche, asteroid 16, is a large metal-rich asteroid discovered in 1852 and named after the mortal woman who married Cupid in Apuleius’s tale. Her name is the Greek word for soul and for butterfly, and her tale of trust lost and won back is what astrologers who place it draw on. A NASA spacecraft is on its way to it."
 facts:
   - { k: "Type", v: "Main-belt asteroid, the largest of the metal-rich M type, about 222 km across" }
   - { k: "Discovered", v: "17 March 1852, by Annibale de Gasparis in Naples" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/eros", "/astrology/amor", "/astrology/moon", "/astrology/mercury", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Psyche mean in astrology?"
-    a: "Astrologers who use the asteroid Psyche take its meaning from its name and its story: the mortal woman whose name means soul, who lost Cupid by breaking his trust and won him back through trials. I don’t read it. In old astrology the soul had planets already, Mercury and the Moon."
+    a: "Everything said about it comes from Apuleius’s tale of the mortal woman whose name means soul, who lost Cupid by breaking his trust and won him back through trials. I don’t read it. In old astrology the soul had planets already: Ptolemy read it from Mercury and the Moon."
   - q: "What is the asteroid Psyche made of?"
     a: "Psyche is the largest of the M-type asteroids, rich in metal, about 222 km across. It was long thought to be the bare iron core of a broken young planet, but observations reported in 2020 cast doubt on that, and its density points to a mix of metal and rock."
   - q: "Is NASA going to the asteroid Psyche?"
@@ -34,7 +34,7 @@ sources:
   - { title: "Apuleius, Metamorphoses (The Golden Ass), books 4–6, via Wikipedia, “Psyche (mythology)”", url: "https://en.wikipedia.org/wiki/Psyche_(mythology)", note: "the tale of Psyche and Cupid, and the meanings of her name; checked on 24 November 2026" }
   - { title: "Ptolemy, Tetrabiblos, book III, trans. F. E. Robbins (Loeb Classical Library, 1940), via Wikipedia, “Tetrabiblos”", url: "https://en.wikipedia.org/wiki/Tetrabiblos", note: "the quality of the soul, from Mercury and the Moon; checked on 24 November 2026" }
 ---
-Psyche was the sixteenth asteroid ever found, and the first to be written with a number rather than a picture. Its symbol, which never caught on, was a butterfly's wing topped by a star, because in Greek *psyche* means both the soul and the butterfly. Some astrologers set it in the birth chart; I don't, and here is what it is and why.
+Psyche was the sixteenth asteroid ever found, and the first to be written with a number rather than a picture. Its symbol, which never caught on, was a butterfly's wing topped by a star, because in Greek *psyche* means both the soul and the butterfly. A spacecraft named after it is on its way there now.
 
 ## What it is {#what-it-is}
 
@@ -52,13 +52,13 @@ Before borrowing an asteroid for the soul, it's worth knowing that old astrology
 
 ## In a reading {#in-a-reading}
 
-I don't read Psyche. The system I built calculates no asteroids, and when I [checked my chart like an invoice](/blog/i-tested-my-birth-chart/), placement by placement, Psyche wasn't on the list. Mercury and the Moon were. Mercury was among the placements that held about a third of the time; the Moon was checked like every other placement and wasn't one of the three that held far more often. That's the honest footing for anything I say about your mind or your feelings.
+My readings leave asteroids out, Psyche with them, and when I [checked my chart like an invoice](/blog/i-tested-my-birth-chart/), placement by placement, Psyche wasn't on the list. Mercury and the Moon were. In the notebook, Mercury held about a third of the time, as the Sun sign and the rising sign did; the Moon, checked like everything else, didn't stand out the way Saturn, Chiron and Lilith did. That's the honest footing for anything I say about your mind or your feelings.
 
-A word of care, too, because of the name. A chart describes how you tend to think and feel; it doesn't assess anyone's mental health, and no placement, Psyche's included, is a symptom ([astrology and mental health](/astrology/astrology-and-mental-health/)). If you'd like to add Psyche to your own chart, keep it in proportion: a detail beside the planets, read only in close contact ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
+A word of care, too, because of the name. A chart describes how you tend to think and feel; it doesn't assess anyone's mental health, and no placement, Psyche's included, is a symptom ([astrology and mental health](/astrology/astrology-and-mental-health/)). If you'd like to try Psyche in your own chart, let Mercury and the Moon speak first, and give the asteroid a voice only where it sits close to one of them ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
 
 ## Common myths {#myths}
 
 - **“Psyche shows your soul.”** It's a metal-rich rock named after a soul. What your chart says about your inner life comes from its planets.
-- **“Psyche and Eros together mean a soulmate.”** No contact proves a soulmate, and no point names a partner.
+- **“Psyche and Eros together mean a soulmate.”** Two asteroids from one story make a pretty coincidence in a chart, not a promise.
 - **“NASA's mission will reveal what Psyche means in charts.”** It will tell us what the asteroid is made of, which is astronomy.
 - **“Psyche was always a goddess.”** In the tale she's a mortal woman, made immortal only at the end.

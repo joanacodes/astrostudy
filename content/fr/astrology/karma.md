@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/arachne", "/astrology/hidalgo", "/astrology/evolutionary-astrology", "/astrology/south-node", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Que signifie l’astéroïde Karma en astrologie ?"
-    a: "Il porte le nom du karma, l’idée de la philosophie hindoue selon laquelle les actes et les intentions ont des effets. Découvert en 1953, l’astéroïde n’a pas de tradition astrologique propre et rien à voir avec la lecture karmique des nœuds lunaires. Je le décris ici, et je ne crois pas qu’un thème puisse montrer le karma."
+    a: "Il porte le nom du karma, l’idée de la philosophie hindoue selon laquelle les actes et les intentions ont des effets. Un rocher découvert en Finlande en 1953 ne peut pas porter cette idée, il n’a rien à voir avec la lecture karmique des nœuds lunaires, et je ne crois pas qu’un thème puisse montrer le karma."
   - q: "Qui a découvert l’astéroïde Karma ?"
     a: "Liisi Oterma, à Turku, en Finlande, le 13 octobre 1953. Elle a été la première femme de Finlande à obtenir un doctorat en astronomie, et Karma est la dernière des 54 petites planètes qu’on lui attribue. Elle avait d’abord voulu étudier le sanskrit, la langue d’où vient le mot."
   - q: "Le karma se voit-il dans un thème natal ?"
@@ -59,7 +59,7 @@ Je ne lis le karma dans aucun thème, ni à partir de cet astéroïde ni d’ail
 
 L’astéroïde ajoute un problème qui lui est propre : il a été baptisé d’après une philosophie, pas découvert par elle. Un rocher trouvé à Turku en 1953 ne peut pas porter le poids d’un mot issu de siècles de pensée indienne, et aucun de ses placements ne peut vous dire ce que vous devez. Si une lecture vous présente un jour un placement difficile comme une dette d’une autre vie, vous êtes en droit de demander comment on pourrait le savoir ([Ma méthode](/how-i-read/)).
 
-L’astéroïde lui-même n’a jamais figuré dans mon carnet, qui couvrait le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith, et le système derrière mes lectures ne le calcule pas.
+Le rocher de Turku n’a jamais figuré non plus dans mon carnet, qui couvrait le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith, et le système derrière mes lectures ne le calcule pas.
 
 ## Idées reçues {#idees-recues}
 

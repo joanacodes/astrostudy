@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["Arabic parts"]
 weight: 18
 glyph: "✦"
-definition: "The Part of Travel is a lot: a degree calculated from two points of the birth chart and counted on from the Ascendant, which tradition kept for journeys, above all long ones. It sits beside the 9th house of far travel. It depends on the birth time, and it can neither promise a safe journey nor choose a date."
+definition: "The Part of Travel is the lot old astrology kept for journeys, above all long ones, a calculated degree read beside the 9th house of far travel. It depends on the birth time and moves in a relocated chart. It can neither promise a safe journey nor choose a date."
 facts:
   - { k: "Type", v: "A lot, also called an Arabic part" }
   - { k: "Kept for", v: "Journeys, above all long ones" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/9th-house", "/astrology/part-of-friends", "/astrology/part-of-commerce", "/astrology/relocation-charts", "/blog/unknown-birth-time"]
 faq:
   - q: "What is the Part of Travel in astrology?"
-    a: "It is a lot: a degree calculated from the birth chart by counting the distance between two of its points again from the Ascendant. Tradition kept it for journeys, especially long ones, alongside the 9th house. Because it moves with the Ascendant, it needs an exact birth time."
+    a: "It is the lot kept for journeys, especially long ones: a calculated degree, read beside the 9th house, which tradition called the God. It moves with the Ascendant, so it needs an exact birth time and shifts in a relocated chart. It can never say whether a trip will be safe."
   - q: "Can the Part of Travel tell me when to travel?"
     a: "No. No lot or transit can say whether a journey will be safe, whether a flight will run, or which day to book. Transits describe the weather of a period, not events. Plan a trip with timetables, forecasts and advice from the people who run the journey, not with a chart."
   - q: "Which house is travel in astrology?"
@@ -34,11 +34,11 @@ sources:
   - { title: "William Lilly, Christian Astrology (London, 1647), via Wikipedia, “Christian Astrology”", url: "https://en.wikipedia.org/wiki/Christian_Astrology", note: "horary questions on travel, disease, wealth and marriage; checked on 24 November 2026" }
   - { title: "Wikipedia — Mercury (mythology)", url: "https://en.wikipedia.org/wiki/Mercury_(mythology)", note: "the Roman god of travellers; checked on 24 November 2026" }
 ---
-People have asked the sky about journeys for as long as journeys were dangerous. The Part of Travel is one of the answers astrologers built: a lot, a degree calculated from your chart and kept for travel, above all the long kind.
+People have asked the sky about journeys for as long as journeys were dangerous. The Part of Travel was one of the answers astrologers built, a single degree of your chart reserved for the road, above all the long one.
 
 ## What it is {#what-it-is}
 
-A lot carries the distance between two points of a chart over to the [Ascendant](/astrology/ascendant/) and counts it again from there ([doctrine of the lots](/astrology/doctrine-of-the-lots/)). Among the lots made for the parts of a life, this one follows the [Part of Friends](/astrology/part-of-friends/), the people you go out to meet, and comes before the [Part of Commerce](/astrology/part-of-commerce/), what you go out to trade. In Rome the two shared a god, Mercury, protector of travellers and merchants alike.
+There's nothing in the sky to point at: the lot exists only as a number worked out from your chart and anchored to the [Ascendant](/astrology/ascendant/) ([doctrine of the lots](/astrology/doctrine-of-the-lots/)). Among the lots made for the parts of a life, this one follows the [Part of Friends](/astrology/part-of-friends/), the people you go out to meet, and comes before the [Part of Commerce](/astrology/part-of-commerce/), what you go out to trade. In Rome the two shared a god, Mercury, protector of travellers and merchants alike.
 
 Travel already had two houses. The [9th](/astrology/9th-house/), which tradition called the God and gave the Sun its joy, took the long journeys, the foreign countries and the learning that comes with them. The [3rd](/astrology/3rd-house/), the Goddess, opposite, kept the short trips of an ordinary week ([planetary joys](/astrology/planetary-joys/)).
 
@@ -46,7 +46,7 @@ What the old books wanted to know about travel was mostly whether it would be sa
 
 ## How it works {#how-it-works}
 
-The lot is counted from the Ascendant, so it moves about a degree for every four minutes of birth time; [without an exact time](/blog/unknown-birth-time/#what-the-time-decides) it can't be placed at all. Which two points it measures between, I don't print: I haven't been able to check them against a source, and your program's documentation should name them, along with what it does for a night birth.
+The lot is counted from the Ascendant, so it moves about a degree for every four minutes of birth time; [without an exact time](/blog/unknown-birth-time/#what-the-time-decides) it can't be placed at all. Which two points it measures between is a question for your program's documentation, along with what it does for a night birth; I've left them out rather than guess.
 
 Travel adds a twist of its own. A [relocation chart](/astrology/relocation-charts/) redraws your birth chart for another city: the planets keep their degrees, but the Ascendant and the houses change. Every lot counted from the Ascendant moves with it, by exactly as much. So the one lot made for journeys is also one that won't stay put when you redraw the chart for where you went. In your birth chart itself, nothing moves: it remains the sky of the minute and the place you were born.
 
@@ -54,7 +54,7 @@ Travel adds a twist of its own. A [relocation chart](/astrology/relocation-chart
 
 ## In a reading {#in-a-reading}
 
-This lot isn't part of my readings, and neither are relocation charts: my system calculates two lots, Fortune and Spirit, and I read the chart of your birthplace wherever you live now. Travel still has a place. The 9th house, read as I read it, is about meaning: what you're willing to cross, in miles or in thought, to understand more. A move abroad, a language learnt late, the trip that changed your mind: that's 9th-house material, and I'll talk about it gladly.
+Journeys come into my readings through the 9th house, never through this lot or a relocated chart: my system calculates two lots, Fortune and Spirit, and I read the chart of your birthplace wherever you live now. The 9th house, read as I read it, is about meaning: what you're willing to cross, in miles or in thought, to understand more. A move abroad, a language learnt late, the trip that changed your mind: that's 9th-house material, and I'll talk about it gladly.
 
 What I won't do is time a journey. [Transits](/astrology/transits/) describe the weather of a period, not events, so no chart of mine will tell you a flight is safe, a road dangerous or a date lucky. That's work for timetables, forecasts and the people who run the trip.
 

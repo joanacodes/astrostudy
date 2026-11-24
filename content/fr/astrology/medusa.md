@@ -2,7 +2,7 @@
 title: "Méduse"
 slug: "meduse"
 h1: "L’astéroïde Méduse en astrologie"
-description: "L’astéroïde Méduse (149) en astrologie : découvert en 1875, le plus petit astéroïde connu alors, la Gorgone et ses relectures, et pourquoi je l’écarte."
+description: "L’astéroïde Méduse (149) en astrologie : découvert en 1875, le plus petit astéroïde connu alors, la Gorgone et ses relectures, et pourquoi il n’accuse personne."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/kassandra", "/astrology/arachne", "/astrology/pallas", "/astrology/when-to-see-a-professional-instead", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Que signifie Méduse en astrologie ?"
-    a: "L’astéroïde porte le nom de la Gorgone de la mythologie grecque, dont le regard changeait les gens en pierre et dont la tête, coupée par Persée, finit sur le bouclier d’Athéna. Découvert en 1875, il n’a pas de tradition propre en astrologie. Je le décris ici sans le lire dans les thèmes."
+    a: "L’astéroïde porte le nom de la Gorgone de la mythologie grecque, dont le regard changeait les gens en pierre et dont la tête, coupée par Persée, finit sur le bouclier d’Athéna. Son histoire est trop violente pour être pointée vers quelqu’un, et ce petit corps découvert en 1875 n’a jamais été vérifié : je ne le lis pas."
   - q: "Quand l’astéroïde Méduse a-t-il été découvert ?"
     a: "Le 21 septembre 1875, par l’astronome français Henri Joseph Perrotin. C’est un astéroïde rocheux d’environ 20 km seulement, le plus petit trouvé jusque-là, même si personne ne pouvait le savoir, et il fait le tour du Soleil en 3,2 ans environ."
   - q: "Qui était Méduse dans la mythologie grecque ?"
@@ -57,7 +57,7 @@ Je ne lis pas Méduse, et avec un mythe comme le sien, je suis contente de ne pa
 
 Son plus ancien usage est celui que je garderais : un visage sur un bouclier, qui tient la peur à distance. Une lecture devrait vous laisser avec moins de peur qu’au départ.
 
-L’astéroïde n’a pas non plus de bilan chez moi. Mon carnet a vérifié le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith, et Méduse n’y est jamais apparue ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)) ; le système derrière mes lectures ne la calcule pas non plus. Si vous la placez vous-même, limitez-la aux contacts serrés avec les planètes et lisez-la en dernier ([Lire les astéroïdes sans noyer le thème](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
+L’astéroïde a détenu deux records en son temps, et n’en détient aucun chez moi. Mon carnet a vérifié le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith, et Méduse n’y est jamais apparue ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)) ; le système derrière mes lectures ne la calcule pas non plus. Si vous la placez vous-même, faites comme Persée et ne la regardez qu’indirectement : en dernier, après les planètes, et seulement en contact serré ([Lire les astéroïdes sans noyer le thème](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
 
 ## Idées reçues {#idees-recues}
 

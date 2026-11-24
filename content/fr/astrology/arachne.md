@@ -2,7 +2,7 @@
 title: "Arachné"
 slug: "arachne"
 h1: "L’astéroïde Arachné en astrologie"
-description: "L’astéroïde Arachné (407) en astrologie : découvert par Max Wolf en 1895, son orbite de 4,3 ans, le concours contre Minerve chez Ovide, et pourquoi je l’écarte."
+description: "L’astéroïde Arachné (407) en astrologie : trouvé par Max Wolf en 1895, son orbite de 4,3 ans, le concours contre Minerve chez Ovide, et deux façons de le lire."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "bodies"
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/medusa", "/astrology/karma", "/astrology/persephone-asteroid", "/astrology/astrology-and-mental-health", "/how-i-read"]
 faq:
   - q: "Que signifie Arachné en astrologie ?"
-    a: "L’astéroïde porte le nom de la tisserande des Métamorphoses d’Ovide, qui défia Minerve, tissa dans sa toile les méfaits des dieux et fut changée en araignée. Découvert en 1895, il n’a pas de tradition propre en astrologie. Je le décris ici sans le lire."
+    a: "L’astéroïde porte le nom de la tisserande des Métamorphoses d’Ovide, qui défia Minerve, tissa dans sa toile les méfaits des dieux et fut changée en araignée. Son histoire se lit comme l’orgueil puni ou comme l’art réduit au silence ; je ne poserais ni l’un ni l’autre sur une personne, et je laisse l’astéroïde hors de mes lectures."
   - q: "Qui a découvert l’astéroïde Arachné ?"
     a: "Max Wolf, à Heidelberg, le 13 octobre 1895, l’année où il découvrit aussi l’astéroïde Perséphone. Wolf a été un pionnier de la recherche d’astéroïdes sur photographies plutôt qu’à l’œil. Arachné est un astéroïde sombre d’environ 97 km qui fait le tour du Soleil en 4,3 ans environ."
   - q: "Quelle est l’histoire d’Arachné ?"
@@ -57,7 +57,7 @@ Je laisse Arachné de côté, et je demanderais à qui l’utilise de choisir av
 
 Son histoire comprend aussi une mort volontaire. Si cela touche quelque chose dans votre propre vie, parlez-en à quelqu’un dès maintenant : ma page Avertissements, en lien au bas de chaque page, donne des lignes d’écoute, et [Astrologie et santé mentale](/astrology/astrology-and-mental-health/) dit ce qu’un thème peut faire pour vous, et ce qu’il ne peut pas faire.
 
-Quant à l’astéroïde, il n’a pas de bilan chez moi. Le système derrière mes lectures ne le calcule pas ([Ma méthode](/how-i-read/)), et les placements que mon carnet a vérifiés étaient le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)). Si vous l’ajoutez à votre thème, ajoutez-le après les planètes et tenez-vous-en aux contacts serrés ([Lire les astéroïdes sans noyer le thème](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
+Arachné a plaidé sa cause dans une tapisserie ; la mienne, c’est un carnet, et l’astéroïde n’y a pas un fil. Les placements que j’y ai vérifiés étaient le Soleil, la Lune, l’ascendant, chaque planète, Chiron et Lilith ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)), et le système derrière mes lectures ne calcule pas les astéroïdes ([Ma méthode](/how-i-read/)). Si vous l’ajoutez à votre thème, tissez-le en dernier, après les planètes, et seulement là où il en touche une de près ([Lire les astéroïdes sans noyer le thème](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
 
 ## Idées reçues {#idees-recues}
 

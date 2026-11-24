@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/arachne", "/astrology/hidalgo", "/astrology/evolutionary-astrology", "/astrology/south-node", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does the asteroid Karma mean in astrology?"
-    a: "It carries the name of karma, the idea from Hindu philosophy that actions and intentions have effects. Found in 1953, the asteroid has no astrological tradition of its own and nothing to do with the karmic reading of the lunar nodes. I describe it here, and I don’t think any chart can show karma."
+    a: "It carries the name of karma, the idea from Hindu philosophy that actions and intentions have effects. A rock found in Finland in 1953 can’t carry that idea, it has nothing to do with the karmic reading of the lunar nodes, and I don’t think any chart can show karma."
   - q: "Who discovered the asteroid Karma?"
     a: "Liisi Oterma, at Turku in Finland, on 13 October 1953. She was the first woman in Finland to earn a doctorate in astronomy, and Karma is the last of the 54 minor planets credited to her. She had first hoped to study Sanskrit, the language the word comes from."
   - q: "Does karma show in a birth chart?"
@@ -58,7 +58,7 @@ I don't read karma in a chart, from this asteroid or from anywhere else. My test
 
 The asteroid adds a problem of its own: it was named after a philosophy, not discovered by one. A rock found at Turku in 1953 can't carry the weight of a word from centuries of Indian thought, and a placement of it can't tell you what you owe. If a reading ever presents a hard placement as a debt from another life, you're entitled to ask how anyone could know ([How I read](/how-i-read/)).
 
-The asteroid itself was never in my notebook, which covered the Sun, the Moon, the rising sign, each planet, Chiron and Lilith, and the system behind my readings doesn't compute it.
+The rock from Turku was never in my notebook either, which covered the Sun, the Moon, the rising sign, each planet, Chiron and Lilith, and the system behind my readings doesn't compute it.
 
 ## Common myths {#myths}
 

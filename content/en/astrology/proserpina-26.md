@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/persephone-asteroid", "/astrology/urania", "/astrology/pluto", "/astrology/eris", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "What does Proserpina mean in astrology?"
-    a: "The asteroid carries the name of the Roman queen of the underworld, Ceres’s daughter, carried off by the king of the dead and allowed back above for part of each year. Found in 1853, it has no older tradition behind it. I describe it here; it isn’t part of my readings."
+    a: "The asteroid carries the name of the Roman queen of the underworld, Ceres’s daughter, carried off by the king of the dead and allowed back above for half of each year in the Latin poets. Nothing older than its discovery in 1853 stands behind it, and the underworld body I read is the planet Pluto, not this asteroid."
   - q: "What is the difference between Proserpina and Persephone?"
     a: "They are one goddess under two names, Latin and Greek, and two separate asteroids. 26 Proserpina was found in 1853 and goes round the Sun in about 4.3 years; 399 Persephone was found in 1895 and takes about 5.3. The Roman goddess also absorbed an older one, Libera."
   - q: "Is Proserpina a planet in astrology?"
@@ -57,7 +57,7 @@ The underworld already has its seat in my readings, and it's a planet: [Pluto](/
 
 Proserpina was never on that invoice. The notebook covered the Sun, the Moon, the rising sign, each planet, Chiron and Lilith, and the system I built for my readings computes no asteroid, so there is no figure to give, and none to borrow from Pluto: sharing a myth with a planet doesn't give an asteroid the planet's record ([How I read](/how-i-read/)).
 
-If you use Proserpina, the usual discipline applies: read it only in a tight contact with a planet or an angle, give it a house only with a birth time ([What changes without a birth time](/blog/unknown-birth-time/)), and choose it before you look at the chart rather than because it lands somewhere striking ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
+If you use Proserpina anyway, first make sure your program means the asteroid, then hold it to the usual discipline: read it only in a tight contact with a planet or an angle, give it a house only with a birth time ([What changes without a birth time](/blog/unknown-birth-time/)), and choose it before you look at the chart rather than because it lands somewhere striking ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
 
 ## Common myths {#myths}
 
