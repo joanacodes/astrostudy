@@ -58,9 +58,9 @@ There's a neat symmetry with the [Galactic Centre](/astrology/galactic-centre/),
 
 ## In a reading {#in-a-reading}
 
-The system I built for my readings computes no stars or galaxies, so the Super-Galactic Centre is not part of what I read; I describe it here for anyone who meets it in another chart, as I describe the [fixed stars](/astrology/fixed-stars-in-astrology/) and a planet's [conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/). My notebook never tested it ([my testing notes](/blog/i-tested-my-birth-chart/)).
+Nothing beyond the Solar System is computed in my readings ([how I read](/how-i-read/)), galaxies least of all, so the Super-Galactic Centre is described here for anyone who meets it in another chart, as the [fixed stars](/astrology/fixed-stars-in-astrology/) and a planet's [conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/) are. No galaxy was ever a line in my notebook ([my testing notes](/blog/i-tested-my-birth-chart/)).
 
-If you do meet it, ask which centre the degree stands for before reading anything into a planet at 2° Libra or 12° Scorpio. A Sun at 2° Libra is, to me, a [Sun in Libra](/astrology/sun-in-libra/) at the very start of the sign, read by house and aspects like any other, and shared with everyone born in those few days of late September. What goes into my readings, and what stays out, is in [how I read](/how-i-read/).
+If you do meet it, ask which centre the degree stands for before reading anything into a planet at 2° Libra or 12° Scorpio. A Sun at 2° Libra is, to me, a [Sun in Libra](/astrology/sun-in-libra/) at the very start of the sign, read by house and aspects like any other, and shared with everyone born in those few days of late September.
 
 ## Common myths {#myths}
 

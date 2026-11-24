@@ -58,7 +58,7 @@ The same habit of starting from the two lights shapes the lots. The seven Hermet
 
 Nobody is born with the Thema Mundi, so I never read it as a chart. I read it as the reasoning behind rules I use in every reading. When I look at the ruler of a sign, it's this scheme's ruler, and for Scorpio, Aquarius and Pisces I read both: the traditional ruler the Thema Mundi hands down, Mars, Saturn or Jupiter, and the modern one, Pluto, Uranus or Neptune ([traditional and modern rulers](/astrology/traditional-and-modern-rulers/)).
 
-The aspects are where I part company with it. The chart made the square Martial and the opposition Saturnine, and the old books turned that into a ranking, with the opposition the harder of the two. I keep the geometry and leave the verdict. A square, to me, is friction that pushes two functions to adjust, an opposition a polarity that asks for balance, and neither is a misfortune or a sentence on anyone's life. That's [how I read](/how-i-read/).
+The aspects are where I part company with it. The chart made the square Martial and the opposition Saturnine, and the old books turned that into a ranking, with the opposition the harder of the two. I keep the geometry and leave the verdict. A square, to me, is friction that pushes two functions to adjust, an opposition a polarity that asks for balance, and neither is a misfortune or a sentence on anyone's life: a chart shows how you tend to move, not where you must end up ([how I read](/how-i-read/)).
 
 ## Common myths {#myths}
 

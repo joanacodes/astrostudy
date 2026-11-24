@@ -59,9 +59,9 @@ Il y a une jolie symétrie avec le [Centre galactique](/astrology/galactic-centr
 
 ## Dans une lecture {#dans-une-lecture}
 
-Le système que j’ai construit pour mes lectures ne calcule ni étoiles ni galaxies : le Centre supergalactique ne fait pas partie de ce que je lis, et je le décris ici pour qui le rencontre dans un autre thème, comme je décris les [étoiles fixes](/astrology/fixed-stars-in-astrology/) et les [conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/) d’une planète. Mon carnet ne l’a jamais testé ([mes notes de test](/blog/i-tested-my-birth-chart/)).
+Rien de ce qui se trouve au-delà du système solaire n’est calculé dans mes lectures ([ma façon de lire](/how-i-read/)), et les galaxies encore moins : le Centre supergalactique est décrit ici pour qui le rencontre dans un autre thème, comme le sont les [étoiles fixes](/astrology/fixed-stars-in-astrology/) et les [conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/) d’une planète. Aucune galaxie n’a jamais figuré dans mon carnet ([mes notes de test](/blog/i-tested-my-birth-chart/)).
 
-Si vous le rencontrez, demandez de quel centre le degré tient lieu avant de lire quoi que ce soit dans une planète à 2° Balance ou à 12° Scorpion. Un Soleil à 2° Balance, c’est pour moi un [Soleil en Balance](/astrology/sun-in-libra/) tout au début du signe, lu par maison et par aspects comme n’importe quel autre, et partagé avec toutes les personnes nées dans ces quelques jours de fin septembre. Ce qui entre dans mes lectures, et ce qui en reste dehors, est décrit dans [ma façon de lire](/how-i-read/).
+Si vous le rencontrez, demandez de quel centre le degré tient lieu avant de lire quoi que ce soit dans une planète à 2° Balance ou à 12° Scorpion. Un Soleil à 2° Balance, c’est pour moi un [Soleil en Balance](/astrology/sun-in-libra/) tout au début du signe, lu par maison et par aspects comme n’importe quel autre, et partagé avec toutes les personnes nées dans ces quelques jours de fin septembre.
 
 ## Idées reçues {#idees-recues}
 

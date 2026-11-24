@@ -58,7 +58,7 @@ The White Moon plays no part in my readings. I read one point from this family, 
 
 My notebook is clear about which point it counted: mean Lilith, which held 75 to 90% of the time, with Saturn and Chiron ([the three that held](/blog/saturn-chiron-lilith/)). The White Moon was never in it, so I have nothing of my own to say about how often it describes anyone ([my testing notes](/blog/i-tested-my-birth-chart/)).
 
-If you come across it in someone else's reading, take it as that astrologer's choice and ask how they calculate it, mean or true. Then read your Lilith separately; nothing written about the White Moon transfers to it. What I read, and why, is in [how I read](/how-i-read/).
+If you come across it in someone else's reading, take it as that astrologer's choice and ask how they calculate it, mean or true. Then read your Lilith separately; nothing written about the White Moon transfers to it. Giving the most time to the placements that held best, Lilith among them, is the first rule of [how I read](/how-i-read/).
 
 ## Common myths {#myths}
 

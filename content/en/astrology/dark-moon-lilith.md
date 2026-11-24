@@ -52,11 +52,11 @@ The asteroid that carries the name is something else again: a real body, found i
 
 ## In a reading {#in-a-reading}
 
-I read one Lilith, the mean Black Moon, and the Dark Moon isn't part of my readings. Its position rests on figures for a moon that failed the one test it was given, and a point that has to be taken on trust gives me nothing to check against a life.
+I read one Lilith, the mean Black Moon, and the Dark Moon isn't part of my readings ([how I read](/how-i-read/)). Its position rests on figures for a moon that failed the one test it was given, and a point that has to be taken on trust gives me nothing to check against a life.
 
 Mean Lilith has earned its place in a way the Dark Moon never could. My notebook put it with Saturn and Chiron among [the three that held](/blog/saturn-chiron-lilith/), 75 to 90% of the time, against about a third for placements overall; the Dark Moon was never in the count ([my testing notes](/blog/i-tested-my-birth-chart/)).
 
-If a reading or an app speaks of your dark moon, look at the label beside the glyph before going further: the words Dark Moon point to Waltemath's moon, while mean, true or interpolated point to the Black Moon ([which Lilith is mine?](/astrology/which-lilith-is-mine/)). What I read, and why, is in [how I read](/how-i-read/).
+If a reading or an app speaks of your dark moon, look at the label beside the glyph before going further: the words Dark Moon point to Waltemath's moon, while mean, true or interpolated point to the Black Moon ([which Lilith is mine?](/astrology/which-lilith-is-mine/)).
 
 ## Common myths {#myths}
 

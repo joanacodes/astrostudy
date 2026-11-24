@@ -59,7 +59,7 @@ La Lune blanche n’a aucune place dans mes lectures. Je lis un seul point de ce
 
 Mon carnet dit clairement quel point il a compté : la Lilith moyenne, qui a tenu 75 à 90 % du temps, avec Saturne et Chiron ([les trois qui ont tenu](/blog/saturn-chiron-lilith/)). La Lune blanche n’y figurait pas : je n’ai donc rien à dire par moi-même de la fréquence à laquelle elle décrit quelqu’un ([mes notes de test](/blog/i-tested-my-birth-chart/)).
 
-Si vous la rencontrez dans la lecture de quelqu’un d’autre, prenez-la comme le choix de cette personne et demandez comment elle la calcule, moyenne ou vraie. Puis lisez votre Lilith à part : rien de ce qui est écrit sur la Lune blanche ne s’y transpose. Ce que je lis, et pourquoi, est décrit dans [ma façon de lire](/how-i-read/).
+Si vous la rencontrez dans la lecture de quelqu’un d’autre, prenez-la comme le choix de cette personne et demandez comment elle la calcule, moyenne ou vraie. Puis lisez votre Lilith à part : rien de ce qui est écrit sur la Lune blanche ne s’y transpose. Donner le plus de temps aux placements qui ont le mieux tenu, Lilith parmi eux, est la première règle de [ma façon de lire](/how-i-read/).
 
 ## Idées reçues {#idees-recues}
 

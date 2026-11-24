@@ -59,7 +59,7 @@ La même habitude de partir des deux luminaires façonne les parts. Les sept par
 
 Personne ne naît avec le Thema Mundi : je ne le lis donc jamais comme un thème. Je le lis comme le raisonnement derrière des règles dont je me sers à chaque lecture. Quand je regarde le maître d’un signe, c’est le maître de ce schéma, et pour le Scorpion, le Verseau et les Poissons, je lis les deux : le maître traditionnel que transmet le Thema Mundi, Mars, Saturne ou Jupiter, et le maître moderne, Pluton, Uranus ou Neptune ([maîtrises traditionnelles et modernes](/astrology/traditional-and-modern-rulers/)).
 
-C’est sur les aspects que je m’en sépare. Le thème a donné au carré la nature de Mars et à l’opposition celle de Saturne, et les vieux livres en ont tiré un classement, l’opposition étant la plus dure des deux. Je garde la géométrie et je laisse le verdict. Un carré, pour moi, est une friction qui pousse deux fonctions à s’ajuster, une opposition une polarité qui demande un équilibre, et ni l’un ni l’autre n’est un malheur ou une sentence sur une vie. C’est [ma façon de lire](/how-i-read/).
+C’est sur les aspects que je m’en sépare. Le thème a donné au carré la nature de Mars et à l’opposition celle de Saturne, et les vieux livres en ont tiré un classement, l’opposition étant la plus dure des deux. Je garde la géométrie et je laisse le verdict. Un carré, pour moi, est une friction qui pousse deux fonctions à s’ajuster, une opposition une polarité qui demande un équilibre, et ni l’un ni l’autre n’est un malheur ou une sentence sur une vie : un thème montre comment vous avez tendance à avancer, pas où vous devez arriver ([ma façon de lire](/how-i-read/)).
 
 ## Idées reçues {#idees-recues}
 

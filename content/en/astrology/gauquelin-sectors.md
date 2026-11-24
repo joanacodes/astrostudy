@@ -59,7 +59,7 @@ Then there is the arithmetic of searching. With ten bodies and twelve sectors, a
 
 I don't draw Gauquelin sectors. I read the houses, in [Placidus](/astrology/placidus/), and a planet just past the Ascendant or the Midheaven gets the attention any planet near an angle gets: its function first, then its sign, its aspects and the house it has just entered. Mars a few degrees above your Ascendant is, to me, Mars in the 12th close to the horizon, not a statistical category.
 
-My own notebook counted differently again. It went through each placement by sign and house, with a tick or a cross, and never by sector, so it has nothing to say about Gauquelin's key sectors ([my testing notes](/blog/i-tested-my-birth-chart/)). It's a notebook, not a study, and it proves nothing about astrology in general; the most it can do is tell me which placements to lean on less, and I tell you when a reading rests on one of them. That's [how I read](/how-i-read/).
+My own notebook counted differently again. It went through each placement by sign and house, with a tick or a cross, and never by sector, so it has nothing to say about Gauquelin's key sectors ([my testing notes](/blog/i-tested-my-birth-chart/)). It's a notebook, not a study, and it proves nothing about astrology in general; the most it can do is tell me which placements to lean on less, and telling you when a reading rests on one of them is part of [how I read](/how-i-read/).
 
 ## Common myths {#myths}
 

@@ -62,7 +62,7 @@ La lunaison prénatale ne fait pas partie de mes lectures. Son plus ancien usage
 
 Le cycle lunaire garde pourtant sa place dans ma façon de lire. La phase de votre naissance, l’angle entre votre Soleil et votre Lune, dit dans quelle moitié du mois lunaire vous avez vu le jour, croissante ou décroissante, et c’est ce que je retiens du rythme de la Lune. La lunaison qui la précède ajoute un degré que vous partagez avec toutes les personnes nées dans la même quinzaine.
 
-Si vous rencontrez la lunaison prénatale dans la lecture de quelqu’un d’autre, deux questions aident. Quelle définition : nouvelles et pleines lunes, ou nouvelles lunes seules ? Et quelle maison, puisque le degré lui-même est partagé ? Ces réponses la rendent vôtre, autant qu’elle peut l’être. Ce que j’utilise, et ce que je laisse de côté, est décrit dans [ma façon de lire](/how-i-read/).
+Si vous rencontrez la lunaison prénatale dans la lecture de quelqu’un d’autre, deux questions aident. Quelle définition : nouvelles et pleines lunes, ou nouvelles lunes seules ? Et quelle maison, puisque le degré lui-même est partagé ? Ces réponses la rendent vôtre, autant qu’elle peut l’être. Je préfère consacrer une lecture aux placements qui ont le mieux tenu dans mes tests plutôt qu’à un degré partagé par toute une quinzaine de naissances ([ma façon de lire](/how-i-read/)).
 
 ## Idées reçues {#idees-recues}
 

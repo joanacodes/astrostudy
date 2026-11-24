@@ -55,9 +55,9 @@ La famille des points rangés sous le nom de Lilith dans ce site ne s’arrête 
 
 ## Dans une lecture {#dans-une-lecture}
 
-Le système que j’ai construit pour mes lectures ne calcule pas d’astéroïdes : l’astéroïde Lilith n’en fait donc pas partie. La Lilith que je lis est la Lune noire moyenne, et c’est elle que mon carnet a comptée : avec Saturne et Chiron, l’un des [trois placements qui ont le mieux tenu](/blog/saturn-chiron-lilith/), 75 à 90 % du temps, là où l’ensemble des placements a tenu environ une fois sur trois. L’astéroïde ne figurait pas du tout dans le carnet ([mes notes de test](/blog/i-tested-my-birth-chart/)).
+Les astéroïdes n’ont pas de place dans mes lectures : le système qui les prépare n’en calcule aucun, l’astéroïde Lilith compris ([ma façon de lire](/how-i-read/)). La Lilith que je lis est la Lune noire moyenne, et c’est elle que mon carnet a comptée : avec Saturne et Chiron, l’un des [trois placements qui ont le mieux tenu](/blog/saturn-chiron-lilith/), 75 à 90 % du temps, là où l’ensemble des placements a tenu environ une fois sur trois. L’astéroïde ne figurait pas du tout dans le carnet ([mes notes de test](/blog/i-tested-my-birth-chart/)).
 
-Si vous ajoutez des astéroïdes à votre propre thème, les conseils de la page [lire les astéroïdes sans noyer le thème](/astrology/how-to-use-asteroids-without-drowning-the-chart/) valent ici aussi : lisez d’abord les planètes, tenez-vous-en à quelques astéroïdes, et ne donnez de poids qu’aux contacts serrés. Et gardez l’astéroïde à part de la Lune noire : une description écrite pour l’un ne conviendra pas à l’autre. Ce que je lis, et ce que je laisse de côté, est décrit dans [ma façon de lire](/how-i-read/).
+Si vous ajoutez des astéroïdes à votre propre thème, les conseils de la page [lire les astéroïdes sans noyer le thème](/astrology/how-to-use-asteroids-without-drowning-the-chart/) valent ici aussi : lisez d’abord les planètes, tenez-vous-en à quelques astéroïdes, et ne donnez de poids qu’aux contacts serrés. Et gardez l’astéroïde à part de la Lune noire : une description écrite pour l’un ne conviendra pas à l’autre.
 
 ## Idées reçues {#idees-recues}
 

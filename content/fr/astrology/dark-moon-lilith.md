@@ -53,11 +53,11 @@ L’astéroïde qui porte le nom est encore autre chose : un vrai corps, décou
 
 ## Dans une lecture {#dans-une-lecture}
 
-Je lis une seule Lilith, la Lune noire moyenne, et la Lune sombre ne fait pas partie de mes lectures. Sa position repose sur les chiffres d’une lune qui a échoué à la seule épreuve qu’on lui ait fait passer, et un point qu’il faut croire sur parole ne me donne rien à vérifier dans une vie.
+Je lis une seule Lilith, la Lune noire moyenne, et la Lune sombre ne fait pas partie de mes lectures ([ma façon de lire](/how-i-read/)). Sa position repose sur les chiffres d’une lune qui a échoué à la seule épreuve qu’on lui ait fait passer, et un point qu’il faut croire sur parole ne me donne rien à vérifier dans une vie.
 
 La Lilith moyenne a gagné sa place d’une façon que la Lune sombre n’aurait jamais pu. Mon carnet l’a rangée avec Saturne et Chiron parmi [les trois qui ont tenu](/blog/saturn-chiron-lilith/), 75 à 90 % du temps, contre environ un tiers pour l’ensemble des placements ; la Lune sombre n’a jamais fait partie du compte ([mes notes de test](/blog/i-tested-my-birth-chart/)).
 
-Si une lecture ou une appli parle de votre lune sombre, regardez l’étiquette à côté du glyphe avant d’aller plus loin : les mots Lune sombre ou Dark Moon désignent la lune de Waltemath, tandis que moyenne, vraie ou interpolée désignent la Lune noire ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)). Ce que je lis, et pourquoi, est décrit dans [ma façon de lire](/how-i-read/).
+Si une lecture ou une appli parle de votre lune sombre, regardez l’étiquette à côté du glyphe avant d’aller plus loin : les mots Lune sombre ou Dark Moon désignent la lune de Waltemath, tandis que moyenne, vraie ou interpolée désignent la Lune noire ([Quelle Lilith est la mienne ?](/astrology/which-lilith-is-mine/)).
 
 ## Idées reçues {#idees-recues}
 

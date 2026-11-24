@@ -27,7 +27,7 @@ faq:
   - q: "What are the three conditions of hayz?"
     a: "First, a day planet in a day chart, or a night planet in a night chart. Second, a day planet in a masculine sign, or a night planet in a feminine one. Third, a day planet in the same half of the sky as the Sun, a night planet in the half opposite. All three together make hayz."
   - q: "Is a planet in hayz the same as a planet in its own sign?"
-    a: "No. Saturn rules Capricorn, but Capricorn is a feminine sign, so Saturn can never be in hayz there; in Aquarius, its other sign, in a day chart and above the horizon, it can. Rulership measures a planet against its sign; hayz measures its day or night nature against the whole chart."
+    a: "No. Saturn rules Capricorn, but Capricorn is a feminine sign, so Saturn can never be in hayz there; in Aquarius, its second sign in the tradition, in a day chart and above the horizon, it can. Rulership measures a planet against its sign; hayz measures its day or night nature against the whole chart."
   - q: "Do I need my birth time to know if a planet is in hayz?"
     a: "Yes. Two of the three conditions depend on the horizon: whether the Sun was above it, which makes the chart diurnal or nocturnal, and which side of it the planet was on. Near sunrise or sunset, a few minutes can change both answers."
 sources:
@@ -52,7 +52,7 @@ Take a day chart with [Jupiter](/astrology/jupiter/) at 10° Sagittarius in the 
 
 Followed through, the rules always put a planet in hayz above the horizon. A day planet needs a day chart, and the Sun's half of the sky by day is the upper one. A night planet needs a night chart, and the half opposite a Sun that has set is the upper one again. [Venus](/astrology/venus/) in Taurus, risen, in a night chart, is in hayz; the same Venus in a day chart is not.
 
-Hayz isn't rulership, and the difference shows quickly. [Saturn](/astrology/saturn/) rules Capricorn and Aquarius, but only Aquarius is masculine, so Saturn can be in hayz in Aquarius and never in Capricorn, its own sign. Venus is at home in Libra ([Domicile](/astrology/domicile/)), a masculine sign, and can't be in hayz there. How much hayz should count against the dignities a planet takes from its sign is not clear.
+Hayz isn't rulership, and the difference shows quickly. [Saturn](/astrology/saturn/) rules Capricorn and, in the traditional scheme, Aquarius too; for Aquarius I read both rulers, Saturn and Uranus. Only Aquarius is masculine, so Saturn can be in hayz in Aquarius and never in Capricorn, its own sign. Venus is at home in Libra ([Domicile](/astrology/domicile/)), a masculine sign, and can't be in hayz there. How much hayz should count against the dignities a planet takes from its sign is not clear.
 
 Two of the three conditions hang on the horizon, so hayz needs the birth time: the Sun's side of it decides the chart's sect, and the planet's side decides the third condition. Near sunrise or sunset, minutes count ([what changes without a birth time](/blog/unknown-birth-time/)).
 
@@ -60,7 +60,7 @@ Two of the three conditions hang on the horizon, so hayz needs the birth time: t
 
 When I look at sect, I'm asking which planets work with the grain of a chart and which across it. Hayz sharpens that question for one planet at a time: does everything about where it stands agree with its day or night nature? It's a cousin of the [planetary joys](/astrology/planetary-joys/), the houses where each planet was said to be glad to be, and like them it describes comfort, not rank. A planet in hayz is a planet in surroundings that suit it. A planet out of hayz has lost none of its function; it simply works in a setting that suits it less.
 
-Like sect, hayz was drawn for the seven bodies the eye can see. Uranus, Neptune and Pluto have no part in it, and neither do Chiron and Lilith, two of the [three placements that held best](/blog/saturn-chiron-lilith/) in my notebook. Sect has another refinement with a page of its own, the [benefic and malefic of the sect](/astrology/benefic-and-malefic-of-the-sect/): which of the tradition's benefics and malefics belong to your chart's side of the day. Neither idea is a verdict on a life, and where the tradition is speaking rather than anything I've tested, I say so ([how I read](/how-i-read/)).
+Like sect, hayz was drawn for the seven bodies the eye can see. Uranus, Neptune and Pluto have no part in it, and neither do Chiron and Lilith, two of the [three placements that held best](/blog/saturn-chiron-lilith/) in my notebook. Sect has another refinement with a page of its own, the [benefic and malefic of the sect](/astrology/benefic-and-malefic-of-the-sect/): which of the tradition's benefics and malefics belong to your chart's side of the day. Both ideas come from the tradition, not from my notebook, and if I mention either in a reading, I say where it comes from ([how I read](/how-i-read/)).
 
 ## Common myths {#myths}
 

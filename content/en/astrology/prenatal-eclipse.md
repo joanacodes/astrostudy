@@ -54,7 +54,7 @@ A worked example shows how much is shared. For a birth in March 1965, the last s
 
 The eclipses I read come after birth, not before it. When an eclipse falls within about three degrees of a natal planet or angle, at either end of its axis, I read a period of emphasis for what that point stands for, alongside the transits and progressions of the same months ([eclipses on your natal planets](/astrology/eclipses-on-your-natal-planets/)). The prenatal eclipse isn't part of my readings: a degree shared by a season's worth of births tells me less about you than the planets do.
 
-An eclipse is weather, not a forecast, and that holds for the one before your birth as much as for the ones after. It doesn't mark a fate, a debt or a danger, and nobody can tell you otherwise from your chart. If you want to look at your prenatal eclipses for yourself, read them through the house they fall in and any planet close to their degree, and leave the old omens in the old books. That's [how I read](/how-i-read/).
+An eclipse is weather, not a forecast, and that holds for the one before your birth as much as for the ones after. It doesn't mark a fate, a debt or a danger, and nobody can tell you otherwise from your chart. If you want to look at your prenatal eclipses for yourself, read them through the house they fall in and any planet close to their degree, and leave the old omens in the old books: what a chart shows are tendencies, never a fate ([how I read](/how-i-read/)).
 
 ## Common myths {#myths}
 

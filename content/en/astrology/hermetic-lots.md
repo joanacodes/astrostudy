@@ -71,11 +71,11 @@ The set travelled. Abu Ma'shar and Guido Bonatti both give the formulas, but the
 
 ## In a reading {#in-a-reading}
 
-Two of the seven are part of my work. The Part of Fortune and the Part of Spirit are the only lots the system I built draws, and the chapters of [zodiacal releasing](/astrology/zodiacal-releasing/), one of the techniques in my forecasts, are counted from the Lot of Spirit and the lots related to it. The other five I describe; I don't read them.
+Two of the seven are part of my work ([how I read](/how-i-read/)). The Part of Fortune and the Part of Spirit are the only lots the system I built draws, and the chapters of [zodiacal releasing](/astrology/zodiacal-releasing/), one of the techniques in my forecasts, are counted from the Lot of Spirit and the lots related to it. The other five I describe; I don't read them.
 
 Their names say what tradition looked for in each, and a name is not a forecast. No lot of Victory promises success, and no lot of Nemesis threatens anyone. Lots made for a subject of life, such as the [Part of Marriage](/astrology/part-of-marriage/), aren't among the seven at all: they belong to the longer lists that grew up beside this set.
 
-None of the seven was in my notebook, which went placement by placement through the planets, so I have no count of my own for any of them ([my testing notes](/blog/i-tested-my-birth-chart/)). What goes into a reading of mine is in [how I read](/how-i-read/).
+None of the seven was in my notebook, which went placement by placement through the planets, so I have no count of my own for any of them ([my testing notes](/blog/i-tested-my-birth-chart/)).
 
 ## Common myths {#myths}
 

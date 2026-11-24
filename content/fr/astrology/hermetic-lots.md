@@ -72,11 +72,11 @@ L’ensemble a voyagé. Abu Ma’shar et Guido Bonatti en donnent tous deux les 
 
 ## Dans une lecture {#dans-une-lecture}
 
-Deux des sept font partie de mon travail. La Part de Fortune et la Part de l’Esprit sont les seules parts que trace le système que j’ai construit, et les chapitres du [zodiacal releasing](/astrology/zodiacal-releasing/), l’une des techniques de mes prévisions, se comptent depuis la Part de l’Esprit et les parts qui lui sont liées. Les cinq autres, je les décris ; je ne les lis pas.
+Deux des sept font partie de mon travail ([ma façon de lire](/how-i-read/)). La Part de Fortune et la Part de l’Esprit sont les seules parts que trace le système que j’ai construit, et les chapitres du [zodiacal releasing](/astrology/zodiacal-releasing/), l’une des techniques de mes prévisions, se comptent depuis la Part de l’Esprit et les parts qui lui sont liées. Les cinq autres, je les décris ; je ne les lis pas.
 
 Leurs noms disent ce que la tradition cherchait dans chacune, et un nom n’est pas une prédiction. Aucune part de la Victoire ne promet un succès, et aucune part de Némésis ne menace personne. Les parts consacrées à un domaine de la vie, comme la [Part du mariage](/astrology/part-of-marriage/), ne font pas partie des sept : elles appartiennent aux listes plus longues qui ont poussé à côté de cet ensemble.
 
-Aucune des sept ne figurait dans mon carnet, qui a passé en revue les planètes placement par placement : je n’ai donc pour aucune d’elles de compte à moi ([mes notes de test](/blog/i-tested-my-birth-chart/)). Ce qui entre dans une de mes lectures est décrit dans [ma façon de lire](/how-i-read/).
+Aucune des sept ne figurait dans mon carnet, qui a passé en revue les planètes placement par placement : je n’ai donc pour aucune d’elles de compte à moi ([mes notes de test](/blog/i-tested-my-birth-chart/)).
 
 ## Idées reçues {#idees-recues}
 

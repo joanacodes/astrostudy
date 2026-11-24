@@ -61,11 +61,11 @@ Les éclipses passent dessus aussi. Lors de l’éclipse totale de Lune du 19 d�
 
 ## Dans une lecture {#dans-une-lecture}
 
-Le système que j’ai construit pour mes lectures ne calcule pas les étoiles, et le Centre galactique est, pour un thème, un point fixe du ciel de plus, comme les étoiles décrites dans [les étoiles fixes en astrologie](/astrology/fixed-stars-in-astrology/). Je le décris ; je ne le lis pas, pas plus que je ne lis les [conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/) d’une planète. Mon carnet ne l’a pas testé non plus : je n’ai aucun compte à moi sur la fréquence à laquelle une planète posée dessus dit quelque chose ([mes notes de test](/blog/i-tested-my-birth-chart/)).
+Le système que j’ai construit pour mes lectures ne calcule pas les étoiles ([ma façon de lire](/how-i-read/)), et le Centre galactique est, pour un thème, un point fixe du ciel de plus, comme les étoiles décrites dans [les étoiles fixes en astrologie](/astrology/fixed-stars-in-astrology/). Je le décris ; je ne le lis pas, pas plus que je ne lis les [conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/) d’une planète. Mon carnet ne l’a pas testé non plus : je n’ai aucun compte à moi sur la fréquence à laquelle une planète posée dessus dit quelque chose ([mes notes de test](/blog/i-tested-my-birth-chart/)).
 
 Si votre Soleil est à 27° [Sagittaire](/astrology/sagittarius/), je lis un Soleil en Sagittaire dans sa maison, avec ses aspects, comme à n’importe quel autre degré du signe. C’est la planète qui travaille dans un thème, et la maison, qui demande l’heure de naissance, dit où. Le degré est partagé avec toutes les personnes nées dans les mêmes quelques jours, et pour les planètes lentes, avec toutes celles nées sur un an ou deux.
 
-La Voie lactée appartient elle-même à une famille de galaxies bien plus vaste, dont les astrologues marquent aussi le centre ([Centre supergalactique](/astrology/super-galactic-centre/)). Ce qui entre dans mes lectures, et ce qui en reste dehors, est décrit dans [ma façon de lire](/how-i-read/).
+La Voie lactée appartient elle-même à une famille de galaxies bien plus vaste, dont les astrologues marquent aussi le centre ([Centre supergalactique](/astrology/super-galactic-centre/)).
 
 ## Idées reçues {#idees-recues}
 

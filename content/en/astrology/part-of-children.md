@@ -53,7 +53,7 @@ I don't read this lot, and not only because the system I built draws no lots bey
 
 Nor do I read children's own charts. A child's chart belongs to the child, to open or not as an adult ([children's charts](/astrology/childrens-charts/)).
 
-Tradition gave the [5th house](/astrology/5th-house/) children, along with its old name, Good Fortune, and placed the joy of Venus there ([planetary joys](/astrology/planetary-joys/)). In an adult's chart, I read that house for what the adult makes, enjoys, plays at and falls for; it doesn't count anyone's children, born or not. That's [how I read](/how-i-read/).
+Tradition gave the [5th house](/astrology/5th-house/) children, along with its old name, Good Fortune, and placed the joy of Venus there ([planetary joys](/astrology/planetary-joys/)). In an adult's chart, I read that house for what the adult makes, enjoys, plays at and falls for; it doesn't count anyone's children, born or not. Both questions, pregnancy and children's charts, sit on the list of subjects I refuse ([how I read](/how-i-read/)).
 
 ## Common myths {#myths}
 

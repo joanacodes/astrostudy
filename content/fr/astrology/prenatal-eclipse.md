@@ -55,7 +55,7 @@ Un exemple montre combien elles sont partagées. Pour une naissance en mars 1965
 
 Les éclipses que je lis viennent après la naissance, pas avant. Quand une éclipse tombe à moins de trois degrés environ d’une planète ou d’un angle natal, à l’un ou l’autre bout de son axe, j’y lis une période où ce point est mis en relief, à côté des transits et des progressions des mêmes mois ([éclipses sur vos planètes natales](/astrology/eclipses-on-your-natal-planets/)). L’éclipse prénatale ne fait pas partie de mes lectures : un degré partagé par toute une saison de naissances m’en dit moins sur vous que vos planètes.
 
-Une éclipse, c’est la météo, pas une prédiction, et cela vaut pour celle d’avant votre naissance autant que pour celles d’après. Elle ne marque ni un destin, ni une dette, ni un danger, et personne ne peut vous dire le contraire à partir de votre thème. Si vous voulez regarder vos éclipses prénatales par vous-même, lisez-les par la maison où elles tombent et par les planètes proches de leur degré, et laissez les vieux présages dans les vieux livres. C’est [ma façon de lire](/how-i-read/).
+Une éclipse, c’est la météo, pas une prédiction, et cela vaut pour celle d’avant votre naissance autant que pour celles d’après. Elle ne marque ni un destin, ni une dette, ni un danger, et personne ne peut vous dire le contraire à partir de votre thème. Si vous voulez regarder vos éclipses prénatales par vous-même, lisez-les par la maison où elles tombent et par les planètes proches de leur degré, et laissez les vieux présages dans les vieux livres : un thème montre des tendances, jamais un destin ([ma façon de lire](/how-i-read/)).
 
 ## Idées reçues {#idees-recues}
 

@@ -54,9 +54,9 @@ The family of points filed under Lilith on this site runs on beyond this one: [P
 
 ## In a reading {#in-a-reading}
 
-The system I built for my readings computes no asteroids, so asteroid Lilith isn't part of them. The Lilith I read is the mean Black Moon, and it's the one my notebook counted: with Saturn and Chiron, one of [the three placements that held best](/blog/saturn-chiron-lilith/), 75 to 90% of the time, where placements overall held about a third. The asteroid wasn't in the notebook at all ([my testing notes](/blog/i-tested-my-birth-chart/)).
+Asteroids have no place in my readings: the system behind them computes none, asteroid Lilith included ([how I read](/how-i-read/)). The Lilith I read is the mean Black Moon, and it's the one my notebook counted: with Saturn and Chiron, one of [the three placements that held best](/blog/saturn-chiron-lilith/), 75 to 90% of the time, where placements overall held about a third. The asteroid wasn't in the notebook at all ([my testing notes](/blog/i-tested-my-birth-chart/)).
 
-If you add asteroids to your own chart, the advice on [using asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/) applies here too: read the planets first, keep to a few asteroids, and give weight only to close contacts. And keep the asteroid apart from the Black Moon. A description written for one won't fit the other. What I read, and what I leave out, is in [how I read](/how-i-read/).
+If you add asteroids to your own chart, the advice on [using asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/) applies here too: read the planets first, keep to a few asteroids, and give weight only to close contacts. And keep the asteroid apart from the Black Moon. A description written for one won't fit the other.
 
 ## Common myths {#myths}
 

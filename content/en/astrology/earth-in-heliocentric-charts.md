@@ -63,7 +63,7 @@ The idea is as old as Copernicus's model. Andreas Aurifaber (1514–1559) was th
 
 I read the geocentric chart: the sky from the place and the minute you were born, with the houses in [Placidus](/astrology/placidus/). The angles and the houses turn with the Earth, about a degree every four minutes, and they're what the birth time pins down. A heliocentric chart has no horizon in it, so it is the same for everyone born at the same moment anywhere on Earth; it can't hold what makes a chart yours to the minute. That's also why I don't read a chart without the time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Your Sun, in my readings, is your Sun: identity and direction, read by sign, house and aspects. In a heliocentric chart that same line points the other way and becomes the Earth. I don't add it, and my notebook, which checked the Sun by sign and house and found that the Sun sign held about a third of the time, never had a separate Earth to check ([my testing notes](/blog/i-tested-my-birth-chart/)). What goes into my readings, and what stays out, is in [how I read](/how-i-read/).
+Your Sun, in my readings, is your Sun: identity and direction, read by sign, house and aspects. In a heliocentric chart that same line points the other way and becomes the Earth. I don't add it, and my notebook, which checked the Sun by sign and house and found that the Sun sign held about a third of the time, never had a separate Earth to check ([my testing notes](/blog/i-tested-my-birth-chart/)). Each reading starts from that geocentric chart, prepared with a system I built myself and read by me before it reaches you ([how I read](/how-i-read/)).
 
 ## Common myths {#myths}
 

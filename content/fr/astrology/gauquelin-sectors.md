@@ -60,7 +60,7 @@ Reste l’arithmétique de la recherche. Avec dix astres et douze secteurs, on p
 
 Je ne trace pas les secteurs Gauquelin. Je lis les maisons, en [Placidus](/astrology/placidus/), et une planète juste après l’ascendant ou le Milieu du Ciel reçoit l’attention que reçoit toute planète proche d’un angle : sa fonction d’abord, puis son signe, ses aspects et la maison où elle vient d’entrer. Mars quelques degrés au-dessus de votre ascendant, c’est pour moi Mars en maison 12 près de l’horizon, pas une catégorie statistique.
 
-Mon carnet comptait encore autrement. Il passait chaque placement en revue par signe et par maison, avec une coche ou une croix, jamais par secteur : il n’a rien à dire des secteurs clés de Gauquelin ([mes notes de test](/blog/i-tested-my-birth-chart/)). C’est un carnet, pas une étude, et il ne prouve rien sur l’astrologie en général ; tout au plus me dit-il sur quels placements m’appuyer moins, et je vous préviens quand une lecture repose sur l’un d’eux. C’est [ma façon de lire](/how-i-read/).
+Mon carnet comptait encore autrement. Il passait chaque placement en revue par signe et par maison, avec une coche ou une croix, jamais par secteur : il n’a rien à dire des secteurs clés de Gauquelin ([mes notes de test](/blog/i-tested-my-birth-chart/)). C’est un carnet, pas une étude, et il ne prouve rien sur l’astrologie en général ; tout au plus me dit-il sur quels placements m’appuyer moins, et vous prévenir quand une lecture repose sur l’un d’eux fait partie de [ma façon de lire](/how-i-read/).
 
 ## Idées reçues {#idees-recues}
 

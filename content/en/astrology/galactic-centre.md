@@ -60,11 +60,11 @@ Eclipses pass over it too. At the total lunar eclipse of 19 December 1964, the S
 
 ## In a reading {#in-a-reading}
 
-The system I built for my readings computes no stars, and the Galactic Centre is, for a chart, one more fixed point of the sky, like the stars on [fixed stars in astrology](/astrology/fixed-stars-in-astrology/). I describe it; I don't read it, any more than I read a planet's [conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/). My notebook never tested it either, so I have no count of my own for how often a planet on it says something ([my testing notes](/blog/i-tested-my-birth-chart/)).
+The system I built for my readings computes no stars ([how I read](/how-i-read/)), and the Galactic Centre is, for a chart, one more fixed point of the sky, like the stars on [fixed stars in astrology](/astrology/fixed-stars-in-astrology/). I describe it; I don't read it, any more than I read a planet's [conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/). My notebook never tested it either, so I have no count of my own for how often a planet on it says something ([my testing notes](/blog/i-tested-my-birth-chart/)).
 
 If your Sun is at 27° [Sagittarius](/astrology/sagittarius/), I read a Sagittarius Sun in its house, with its aspects, the way I would at any other degree of the sign. The planet does the work in a chart, and the house, which needs the birth time, says where. The degree is shared with everyone born the same few days, and for the slow planets, with everyone born over a year or two.
 
-The Milky Way, for its part, belongs to a larger family of galaxies, and astrologers mark its centre too ([Super-Galactic Centre](/astrology/super-galactic-centre/)). What goes into my readings, and what stays out, is in [how I read](/how-i-read/).
+The Milky Way, for its part, belongs to a larger family of galaxies, and astrologers mark its centre too ([Super-Galactic Centre](/astrology/super-galactic-centre/)).
 
 ## Common myths {#myths}
 

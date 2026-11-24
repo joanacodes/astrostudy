@@ -54,7 +54,7 @@ Je ne lis pas cette part, et pas seulement parce que le système que j’ai cons
 
 Je ne lis pas non plus le thème des enfants eux-mêmes. Le thème d’un enfant lui appartient, à lui ou à elle de l’ouvrir ou non une fois adulte ([le thème des enfants](/astrology/childrens-charts/)).
 
-La tradition a donné les enfants à la [maison 5](/astrology/5th-house/), avec son ancien nom, la Fortune favorable, et y a placé la joie de Vénus ([joies des planètes](/astrology/planetary-joys/)). Dans le thème d’un adulte, je lis cette maison pour ce que la personne crée et savoure, ce à quoi elle joue et ce qui l’attire ; elle ne compte les enfants de personne, nés ou à naître. C’est [ma façon de lire](/how-i-read/).
+La tradition a donné les enfants à la [maison 5](/astrology/5th-house/), avec son ancien nom, la Fortune favorable, et y a placé la joie de Vénus ([joies des planètes](/astrology/planetary-joys/)). Dans le thème d’un adulte, je lis cette maison pour ce que la personne crée et savoure, ce à quoi elle joue et ce qui l’attire ; elle ne compte les enfants de personne, nés ou à naître. Ces deux questions, la grossesse et le thème des enfants, figurent parmi les sujets que je refuse ([ma façon de lire](/how-i-read/)).
 
 ## Idées reçues {#idees-recues}
 

@@ -61,7 +61,7 @@ The prenatal lunation isn't part of my readings. Its oldest use was to correct a
 
 The lunar cycle still has its place in how I read. The phase you were born in, the angle between your Sun and your Moon, says which half of the month you arrived in, waxing or waning, and that's the part of the story I take from the Moon's rhythm. The lunation before it adds a degree you share with everyone born that fortnight.
 
-If you meet the prenatal lunation in someone else's reading, two questions help. Which definition, new and full moons or new moons only? And which house, since the degree itself is shared? Those answers make it yours, as far as it can be. What I use, and what I leave out, is in [how I read](/how-i-read/).
+If you meet the prenatal lunation in someone else's reading, two questions help. Which definition, new and full moons or new moons only? And which house, since the degree itself is shared? Those answers make it yours, as far as it can be. I'd rather spend a reading on the placements that held best in my tests than on a degree shared by a fortnight of births ([how I read](/how-i-read/)).
 
 ## Common myths {#myths}
 
