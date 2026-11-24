@@ -36,11 +36,11 @@ sources:
   - { title: "Les dates de The Astro Study d’après la position des planètes", note: "les séjours d’Uranus dans chaque signe, de 1700 à 2300" }
   - { title: "Le décompte de The Astro Study d’après la position des planètes, 1930–2009", note: "l’âge au premier carré d’Uranus et à l’opposition d’Uranus" }
 ---
-Parmi les planètes extérieures, seul le retour d’Uranus tient dans une vie : Neptune met environ 165 ans à faire le tour, Pluton environ 248. Uranus en met environ 84, et le retour d’Uranus est le moment où la planète retrouve le degré qu’elle occupait à votre naissance.
+Parmi les planètes extérieures, seul le retour d’Uranus tient dans une vie : Neptune met environ 165 ans à faire le tour, Pluton environ 248. Uranus en met environ 84, et le retour d’Uranus est le moment où Uranus retrouve le degré occupé à votre naissance.
 
 ## Ce que c’est {#ce-que-c-est}
 
-[Uranus](/astrology/uranus/) fait le tour du Soleil en environ 84 ans, et donc celui du zodiaque. Son retour, c’est Uranus en transit en conjonction avec son propre degré natal : la fin d’un cycle complet et, pour qui compte encore, le début du suivant. Trois étapes le précèdent. Le premier carré est tombé entre 18,4 et 22,9 ans dans le décompte du site pour les naissances de 1930 à 2009 ([Uranus en transit carré Uranus du thème natal](/astrology/transiting-uranus-square-natal-uranus/)), l’[opposition d’Uranus](/astrology/uranus-opposition/) entre 38,9 et 44,5 ans, et le second carré vient dans la soixantaine.
+[Uranus](/astrology/uranus/) fait le tour du Soleil en environ 84 ans, et donc celui du zodiaque. Son retour, c’est Uranus en transit en conjonction avec son propre degré natal : la fin d’un cycle complet et le début du suivant. Trois étapes le précèdent. Le premier carré est tombé entre 18,4 et 22,9 ans dans le décompte du site pour les naissances de 1930 à 2009 ([Uranus en transit carré Uranus du thème natal](/astrology/transiting-uranus-square-natal-uranus/)), l’[opposition d’Uranus](/astrology/uranus-opposition/) entre 38,9 et 44,5 ans, et le second carré vient dans la soixantaine.
 
 L’âge de l’opposition varie avec l’année de naissance parce qu’Uranus n’avance pas à une allure régulière sur son orbite. Un tour complet efface ces écarts : d’où qu’il parte, il prend le même temps, et le retour tombe vers 84 ans pour tout le monde.
 
@@ -60,7 +60,7 @@ La maison d’Uranus dans votre thème dit où se situe cette relecture dans vot
 
 ## Idées reçues {#idees-recues}
 
-- **« Peu de gens vivent un retour d’Uranus, donc il ne compte pas. »** Toute personne qui atteint environ 84 ans le vit, et ses étapes précédentes, les carrés et l’opposition, viennent pour tout le monde bien plus tôt.
+- **« Peu de gens vivent un retour d’Uranus : ce retour ne compte donc pas. »** Toute personne qui atteint environ 84 ans le vit, et ses étapes précédentes, les carrés et l’opposition, viennent pour tout le monde bien plus tôt.
 - **« Le retour d’Uranus apporte un bouleversement soudain. »** Dans le système avec lequel je lis, Uranus n’est ni le chaos ni la révolte. Le retour demande ce qui a encore besoin de place, et la réponse peut très bien être : pas grand-chose.
 - **« Le retour d’Uranus dit combien de temps il vous reste. »** Aucun transit ne peut dire combien de temps une personne vivra, et je n’en lis jamais un de cette façon ([L’astrologie peut-elle prédire la mort ?](/astrology/can-astrology-predict-death/)).
 - **« Tous les retours se ressemblent, puisque tout le monde a 84 ans. »** L’âge est partagé ; le signe, la maison et les aspects d’Uranus dans votre thème vous appartiennent.

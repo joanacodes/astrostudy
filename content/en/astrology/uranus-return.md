@@ -39,7 +39,7 @@ Of the outer planets, Uranus is the only one whose return fits inside a lifetime
 
 ## What it is {#what-it-is}
 
-[Uranus](/astrology/uranus/) goes round the Sun in about 84 years, and so round the zodiac. Its return is transiting Uranus conjunct its own natal degree: the end of one full cycle and, for anyone still counting, the start of the next. Three turning points come before it. The first square fell between 18.4 and 22.9 in the site's count for births from 1930 to 2009 ([transiting Uranus square natal Uranus](/astrology/transiting-uranus-square-natal-uranus/)), the [Uranus opposition](/astrology/uranus-opposition/) between 38.9 and 44.5, and the second square comes in the sixties.
+[Uranus](/astrology/uranus/) goes round the Sun in about 84 years, and so round the zodiac. Its return is transiting Uranus conjunct its own natal degree: the end of one full cycle and the start of the next. Three turning points come before it. The first square fell between 18.4 and 22.9 in the site's count for births from 1930 to 2009 ([transiting Uranus square natal Uranus](/astrology/transiting-uranus-square-natal-uranus/)), the [Uranus opposition](/astrology/uranus-opposition/) between 38.9 and 44.5, and the second square comes in the sixties.
 
 The opposition's age moves with the birth year because Uranus doesn't travel at an even pace round its orbit. A full lap evens that out: wherever the lap begins, it takes the same time, so the return comes at about 84 for everyone.
 
