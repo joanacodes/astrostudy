@@ -9,7 +9,7 @@ categories: ["Stars"]
 tags: ["Capella", "fixed stars", "Behenian stars"]
 weight: 14
 glyph: "★"
-definition: "Capella is the bright fixed star of Auriga, the Charioteer, at 22°13′ Gemini in the tropical zodiac in 2026: the little she-goat of Greek myth. Old star lore gave it civic and military honours and wealth, and medieval magic made it a Behenian star of Jupiter and Saturn. Its tradition is read into a planet around 22° Gemini."
+definition: "Capella, the little she-goat of Greek myth, is the bright fixed star of Auriga, the Charioteer, set by the tropical zodiac at 22°13′ Gemini in 2026. Old star lore gave it civic and military honours and wealth; medieval magic tied it to Jupiter and Saturn. A planet near 22° Gemini shares its degree from far below."
 facts:
   - { k: "Constellation", v: "Auriga, the Charioteer (α Aurigae), its brightest star" }
   - { k: "Brightness", v: "Magnitude 0.08, the sixth-brightest star of the night sky" }
@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/fixed-stars-in-astrology", "/astrology/alcyone-and-the-pleiades", "/astrology/sirius", "/astrology/conjunctions-to-fixed-stars", "/astrology/sun-in-gemini"]
 faq:
   - q: "What does Capella mean in astrology?"
-    a: "Old star lore, as R. H. Allen records it, gives Capella civic and military honours and wealth, and the medieval Behenian list pairs it with Jupiter and Saturn and the sapphire. In myth it is Amalthea, the goat whose horn became the horn of plenty. Astrologers who use stars lay those meanings over a planet around 22° Gemini."
+    a: "Old star lore, as R. H. Allen records it, gives Capella civic and military honours and wealth, and the medieval Behenian list pairs it with Jupiter, Saturn and the sapphire. In myth it is Amalthea, the goat whose horn became the horn of plenty. Honours and wealth are the old books’ promise, not a debt owed to a planet."
   - q: "What degree is Capella?"
-    a: "22°13′ Gemini in 2026, in the tropical zodiac; it was at 20°52′ Gemini in 1930 and 21°51′ in 2000. The star belongs to the constellation Auriga and lies almost 23° north of the ecliptic, so a planet at its degree is far from it in the sky."
+    a: "The goat star belongs to the constellation Auriga but to the sign of Gemini: 20°52′ Gemini in 1930, 21°51′ in 2000, 22°13′ in 2026. Since it rides almost 23° north of the ecliptic, the planets that share its degree pass far below it."
   - q: "Why does Capella never set?"
     a: "It sits closer to the north celestial pole than any other first-magnitude star, so north of latitude 44° it circles the pole without dipping below the horizon. That takes in all of Britain and most of Europe. South of latitude 44° south it never rises at all."
 sources:
@@ -38,7 +38,7 @@ Capella is the little she-goat of the sky, the brightest star of Auriga, the Cha
 
 Capella is α Aurigae, magnitude 0.08: the sixth-brightest star of the night sky, and the third-brightest of the northern sky after Arcturus and Vega. It looks like one star and is four, two yellow giants circling each other every 104 days and a faint pair of red dwarfs far out, about 43 light-years from us. No other first-magnitude star sits closer to the north celestial pole, so north of latitude 44° it never sets: all of Britain, most of Europe. South of 44° south, it never rises.
 
-In the tropical zodiac it stood at 20°52′ Gemini in 1930, 21°51′ in 2000 and 22°13′ in 2026, a degree of [Gemini](/astrology/gemini/) for every birth in living memory, though the star belongs to the Charioteer ([constellations versus signs](/astrology/constellations-versus-signs/)). Its latitude is 22.9° north of the ecliptic, and precession, which carries the goat along the zodiac a degree every 72 years, does nothing to bring it closer ([precession of the equinoxes](/astrology/precession-of-the-equinoxes/)).
+[Gemini](/astrology/gemini/) has held it for every birth in living memory, at 20°52′ in 1930, 21°51′ in 2000 and 22°13′ in 2026, though the star belongs to the Charioteer ([constellations versus signs](/astrology/constellations-versus-signs/)). Its latitude is 22.9° north of the ecliptic, and precession, which carries the goat along the zodiac a degree every 72 years, does nothing to bring it closer ([precession of the equinoxes](/astrology/precession-of-the-equinoxes/)).
 
 ## Its tradition {#its-tradition}
 
@@ -50,6 +50,6 @@ R. H. Allen's *Star Names* (1899) records its astrological reputation: civic and
 
 ## In a birth chart {#in-a-birth-chart}
 
-The Sun reaches Capella's degree on about 12–13 June each year, a [Sun in Gemini](/astrology/sun-in-gemini/) in its third decan. For that Sun, as for any planet at 21° to 23° Gemini, the contact the tradition counts is a shared zodiac degree with a star nearly twenty-three degrees away in the sky, within about a degree ([conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/)).
+Mid-June birthdays, about the 12th and 13th, put the Sun on Capella's degree: a [Sun in Gemini](/astrology/sun-in-gemini/) in its third decan. For that Sun, as for any planet at 21° to 23° Gemini, the contact the tradition counts is a shared zodiac degree with a star nearly twenty-three degrees away in the sky, within about a degree ([conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/)).
 
-Capella is a star I could show anyone in Britain on any clear night of the year, and one I never show in a chart: the system I built for my readings places no stars, and none was in the notebook I kept of what held ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)). Honours and wealth are just the kind of promise I'd leave in Allen's pages. If Capella sits on one of your planets, it is that planet, in its sign and its house, that describes you.
+Capella is a star I could show anyone in Britain on any clear night of the year, and one I never show in a chart, because the system behind my readings leaves every star out ([How I read](/how-i-read/)). Honours and wealth are just the kind of promise I'd leave in Allen's pages. If Capella sits on one of your planets, it is that planet, in its sign and its house, that describes you.

@@ -9,7 +9,7 @@ categories: ["Stars"]
 tags: ["Regulus", "fixed stars", "royal stars"]
 weight: 9
 glyph: "★"
-definition: "Regulus is the fixed star at the heart of Leo, the Lion, at 0°11′ Virgo in the tropical zodiac in 2026, having left Leo around 2012. Ptolemy gave it the nature of Mars and Jupiter, and its names, from Babylon to Rome, mean king. Its tradition is read into a planet at the Leo–Virgo cusp."
+definition: "Regulus is the fixed star at the heart of Leo, the Lion, at 0°11′ Virgo in the tropical zodiac in 2026, having left Leo around 2012. Ptolemy gave it the nature of Mars and Jupiter, and its names, from Babylon to Rome, mean king. The tradition looks for that royal tone on a planet at the Leo–Virgo cusp."
 facts:
   - { k: "Constellation", v: "Leo (α Leonis), its brightest star" }
   - { k: "Brightness", v: "Magnitude 1.35" }
@@ -23,11 +23,11 @@ facts:
 related: ["/astrology/fixed-stars-in-astrology", "/astrology/sun-conjunct-regulus", "/astrology/aldebaran", "/astrology/antares", "/astrology/precession-of-the-equinoxes"]
 faq:
   - q: "What does Regulus mean in astrology?"
-    a: "Ptolemy gave Regulus the nature of Mars and Jupiter, and its names are royal: the King to the Babylonians, the little king in Latin, one of the four royal stars of Persia in later books. Astrologers who use stars lay that kingly tone over a planet sitting on it; the old promises of rank are theirs, not a forecast."
+    a: "Ptolemy gave Regulus the nature of Mars and Jupiter, and its names are royal: the King to the Babylonians, the little king in Latin, one of the four royal stars of Persia in later books. That kingly tone is what the tradition lays over a planet on it; the old promises of rank are the books’, not a forecast."
   - q: "Is Regulus in Leo or Virgo?"
     a: "Both, depending on the year of birth. Precession carried it from 28°50′ Leo in 1930 to 29°49′ Leo in 2000, it crossed into Virgo around 2012, and it stands at 0°11′ Virgo in 2026. A chart uses the star’s position for its own year, so older charts show Regulus in Leo."
   - q: "What does Sun conjunct Regulus mean?"
-    a: "A birth on about 22 or 23 August, with the Sun within a degree of the star: about 1 person in 176 born from 1930 to 2009. The tradition reads Ptolemy’s Mars and Jupiter nature, and the star’s royal names, into the Sun’s sense of purpose. The promises of a crown belong to the old books."
+    a: "It belongs to the late-August birthdays, the 22nd and 23rd, when the Sun comes within a degree of the star; between 1930 and 2009 that was about 1 person in 176. The tradition reads Ptolemy’s Mars and Jupiter nature, and the star’s royal names, into the Sun’s sense of purpose. The promises of a crown belong to the old books."
   - q: "Why is Regulus called a royal star?"
     a: "Its names point that way: Lugal, the king, in the Babylonian star list MUL.APIN; Regulus, the little king or prince, in Latin. R. H. Allen’s Star Names of 1899 counts it among the four royal stars of the Persian monarchy, with Aldebaran, Antares and Fomalhaut."
 sources:
@@ -39,7 +39,7 @@ Regulus is the bright star at the heart of Leo, and its names keep crowning it: 
 
 ## Where it is {#where-it-is}
 
-Regulus is α Leonis, the brightest star of the Lion at magnitude 1.35, about the twenty-first brightest star of the night sky. Its tropical position was 28°50′ Leo in 1930 and 29°49′ Leo in 2000; by 2026 precession had carried it to 0°11′ [Virgo](/astrology/virgo/), and by 2050 it will reach 0°31′ ([precession of the equinoxes](/astrology/precession-of-the-equinoxes/)). A chart drawn for a birth before about 2012 has Regulus in [Leo](/astrology/leo/), one drawn since has it in Virgo: the same star, a different sign.
+As α Leonis, Regulus leads the Lion's stars at magnitude 1.35, though among all the stars of the night sky it ranks only about twenty-first. It stood at 28°50′ Leo in 1930 and 29°49′ Leo in 2000; precession then carried it over the cusp to 0°11′ [Virgo](/astrology/virgo/) by 2026, and will bring it to 0°31′ by 2050 ([precession of the equinoxes](/astrology/precession-of-the-equinoxes/)). A chart drawn for a birth before about 2012 has Regulus in [Leo](/astrology/leo/), one drawn since has it in Virgo: the same star, a different sign.
 
 Its latitude sets it apart from every other bright star: half a degree north of the [ecliptic](/astrology/ecliptic/), closer than any of them. The Moon hides Regulus in runs of occultations that come round every 9.3 years, the latest in 2026. Venus last passed in front of it on 7 July 1959 and will again on 1 October 2044. A planet that meets Regulus by degree stands beside it in the sky as well, which few star contacts can claim.
 
@@ -53,6 +53,6 @@ All that royalty is where the star's reputation comes from. I repeat it as the t
 
 ## In a birth chart {#in-a-birth-chart}
 
-The Sun reaches Regulus on about 22–23 August every year, so about 1 person in 176 born from 1930 to 2009 has the [Sun conjunct Regulus](/astrology/sun-conjunct-regulus/). Until about 2012 that Sun always fell in late Leo; since then it can just as well fall in the first degree of Virgo. The rest of its contacts: [Moon conjunct Regulus](/astrology/moon-conjunct-regulus/) about 1 in 179, [Venus conjunct Regulus](/astrology/venus-conjunct-regulus/) 1 in 146, [Mars conjunct Regulus](/astrology/mars-conjunct-regulus/) 1 in 161, and [Saturn conjunct Regulus](/astrology/saturn-conjunct-regulus/) 1 in 151, Saturn's in three stretches: September 1948 to May 1949, October 1977 to July 1978, and August to September 2007.
+Each year the Sun reaches Regulus on about 22–23 August, the birthdays of the [Sun conjunct Regulus](/astrology/sun-conjunct-regulus/), roughly 1 person in 176 across 1930 to 2009. Until about 2012 that Sun always fell in late Leo; since then it can just as well fall in the first degree of Virgo. Venus is the planet most often found there, [Venus conjunct Regulus](/astrology/venus-conjunct-regulus/) at about 1 in 146; [Mars conjunct Regulus](/astrology/mars-conjunct-regulus/) comes to 1 in 161 and [Moon conjunct Regulus](/astrology/moon-conjunct-regulus/) to 1 in 179. [Saturn conjunct Regulus](/astrology/saturn-conjunct-regulus/), about 1 in 151, belongs to three stretches of birth dates: September 1948 to May 1949, October 1977 to July 1978, and August to September 2007.
 
-Regulus never comes into a reading of mine, close as it sits to the Sun's path: the system I built places no stars at all, and none was among the placements I checked in my notebook ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)). The Moon crosses the two degrees around the Leo–Virgo cusp in a few hours, and the Ascendant in about eight minutes, so a Regulus on the Moon or rising stands or falls with an exact birth time.
+Regulus never comes into a reading of mine, however literally a planet can touch it: my readings run on a system with no stars in it, and no star ever made it into the notebook where I counted what held ([The invoice method, and what held overall](/blog/i-tested-my-birth-chart/)). If anything, Regulus shows why the year comes before the meaning: the same star sits in Leo for someone born in 1990 and in Virgo for someone born in 2015.

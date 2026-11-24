@@ -10,7 +10,7 @@ categories: ["Étoiles"]
 tags: ["Alphératz", "étoiles fixes"]
 weight: 39
 glyph: "★"
-definition: "Alphératz est l’étoile fixe Alpha d’Andromède, la tête d’Andromède et un coin du Grand Carré de Pégase, à 14°40′ du Bélier en 2026. Le vieux savoir des étoiles lui prêtait honneurs et richesses pour les personnes nées sous son influence ; dans un thème natal, elle ne compte que pour une planète à un degré environ de sa longitude."
+definition: "Alphératz est l’étoile fixe Alpha d’Andromède, la tête d’Andromède et un coin du Grand Carré de Pégase, à 14°40′ du Bélier en 2026. Le vieux savoir des étoiles lui prêtait honneurs et richesses pour les personnes nées sous son influence ; dans un thème natal, elle ne compte que pour une planète vers 14° ou 15° du Bélier."
 facts:
   - { k: "Constellation", v: "Andromède : α Andromedae, autrefois aussi δ Pegasi" }
   - { k: "Éclat", v: "Magnitude 2,06" }
@@ -52,8 +52,8 @@ Le livre de W. T. Olcott, *Star Lore of All Ages* (1911), rapporte encore deux c
 
 Honneurs et richesses : c’est le genre de promesse que je n’attache au thème de personne. L’argent n’est pas quelque chose qu’un thème peut prédire ([L’astrologie peut-elle choisir des placements ?](/astrology/can-astrology-pick-investments/)), et une planète vers 14° du Bélier décrit la façon dont cette planète agit en vous, pas ce que la vie vous donnera.
 
-Dans la tradition, une planète devrait se trouver à un degré environ de la longitude de l’étoile pour compter ([conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/)) : de 13°40′ à 15°40′ du Bélier pour une naissance en 2026, de 12°19′ à 14°19′ pour une naissance en 1930. Le Soleil traverse cet intervalle vers les 3 et 4 avril chaque année, et Saturne y était pour des naissances à certains moments de 1938–39, au printemps 1968 et en 1997–98. La Lune n’y passe que quelques heures chaque mois, ce que seule l’heure de naissance peut trancher ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
+Dans la tradition, une planète devrait se trouver à un degré environ de la longitude de l’étoile pour compter ([conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/)) : de 13°40′ à 15°40′ du Bélier pour une naissance en 2026, de 12°19′ à 14°19′ pour une naissance en 1930. Chaque année, le Soleil s’y trouve vers les 3 et 4 avril, et Saturne y a séjourné à certains moments de 1938–39, au printemps 1968 et en 1997–98. La Lune n’y passe que quelques heures chaque mois, ce que seule l’heure de naissance peut trancher ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
 La latitude compte autant que le degré. À 25,7° au nord, Alphératz ne se trouve jamais à côté d’une planète dans le ciel, et « conjointe » veut dire ici partager un chiffre sur l’échelle du zodiaque ([latitude céleste](/astrology/celestial-latitude/)).
 
-Sur ce site, Alphératz est décrite, pas lue : les étoiles n’ont pas de place dans le système que j’ai construit pour mes lectures, ni parmi les placements testés dans mon carnet ([Ma méthode](/how-i-read/)).
+Les honneurs et les richesses restent donc dans le livre d’Olcott : sur ce site, Alphératz est décrite, pas lue, puisque les étoiles n’ont pas de place dans le système que j’ai construit pour mes lectures, ni parmi les placements testés dans mon carnet ([Ma méthode](/how-i-read/)).

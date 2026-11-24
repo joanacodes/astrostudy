@@ -9,7 +9,7 @@ categories: ["Stars"]
 tags: ["Scheat", "fixed stars"]
 weight: 38
 glyph: "★"
-definition: "Scheat is the fixed star Beta Pegasi, a red giant at a corner of the Great Square of Pegasus, at 29°44′ Pisces in 2026 and due to enter Aries around 2044. A planet within about a degree of that longitude counts as conjunct it, though the star itself stands 31° north of the Sun’s path."
+definition: "Scheat is the fixed star Beta Pegasi, a red giant at a corner of the Great Square of Pegasus, at 29°44′ Pisces in 2026 and due to enter Aries around 2044. A planet at the very end of Pisces, or just into Aries, can be conjunct it, though the star itself stands 31° north of the Sun’s path."
 facts:
   - { k: "Constellation", v: "Pegasus: β Pegasi" }
   - { k: "Brightness", v: "Magnitude 2.42, varying from 2.31 to 2.74" }
@@ -24,7 +24,7 @@ faq:
   - q: "What degree is Scheat?"
     a: "29°44′ Pisces for a birth in 2026, 29°22′ for one in 2000 and 28°23′ for one in 1930. It moves forward about a degree every 72 years and crosses into Aries around 2044, so for anyone born before then it sits in the last degree of Pisces or just short of it."
   - q: "What does Scheat mean in astrology?"
-    a: "It is the fixed star Beta Pegasi, and astrologers who use stars read it into any planet or angle within about a degree of its longitude. I haven’t found its traditional nature in a source I could check, so on this site I give what I can stand behind: its position, latitude, light and names."
+    a: "A planet or angle in the last degree of Pisces, or just over the line into Aries, may sit on Scheat, Beta Pegasi, and astrologers who use stars would read it there. I haven’t found its traditional nature in a source I could check, so I give what I can stand behind: its position, latitude, light and names."
   - q: "When is the Sun conjunct Scheat?"
     a: "For births on about 19 and 20 March, the last day or two of Pisces, in every year from 1930 to 2009. Once the star crosses into Aries, around 2044, the Sun will meet it on the day of the March equinox instead, just after it changes sign."
   - q: "Can a planet in Aries be conjunct Scheat?"
@@ -39,13 +39,13 @@ Scheat is the red giant at the top of the Great Square of Pegasus and, of all th
 
 Scheat is Beta Pegasi, the second brightest star of the constellation after Enif, at the upper right corner of the Square as it is usually drawn, with [Alpheratz](/astrology/alpheratz/) at the upper left. It is a red giant about 109 times the Sun's width, cool enough to glow orange-red, and its light isn't steady: Johann Schmidt noticed in 1847 that it varies, and it wanders between magnitude 2.31 and 2.74 over roughly 43 days. The catalogue gives 2.42.
 
-It stood at 28°23′ [Pisces](/astrology/pisces/) for a birth in 1930, at 29°22′ in 2000 and at 29°44′ in 2026. [Precession](/astrology/precession-of-the-equinoxes/) adds about a degree every 72 years, which brings it to 0° Aries around 2044. Meanwhile it sits in the last degree of a sign ([the anaretic degree (29°)](/astrology/anaretic-degree-29/)).
+It stood at 28°23′ [Pisces](/astrology/pisces/) for a birth in 1930, at 29°22′ in 2000 and at 29°44′ in 2026. The [precession of the equinoxes](/astrology/precession-of-the-equinoxes/) adds about a degree every 72 years, which brings it to 0° Aries around 2044. Meanwhile it sits in the last degree of a sign ([the anaretic degree (29°)](/astrology/anaretic-degree-29/)).
 
 Of the Square's four stars, Scheat lies furthest from the [ecliptic](/astrology/ecliptic/): 31.1° to the north. A planet at its degree travels on or near the Sun's path, so the two are separated by some sixty full moons laid side by side.
 
 ## Its tradition {#its-tradition}
 
-The name is Arabic, from al-sā'id, the upper arm, or from Sa'd, and for a long time it was shared: Delta Aquarii carried it too, until that star was officially named Skat. Bayer lettered Scheat Beta, and in Chinese astronomy it is the second star of the Encampment, the lodge it makes with [Markab](/astrology/markab/). The Arabic and Indian lunar calendars pair the two in the same way, and Markab's own name may be a miscopying of mankib, the shoulder, once an Arabic name for Scheat.
+Its name goes back either to the Arabic al-sā'id, the upper arm, or to Sa'd, and for a long time it was shared: Delta Aquarii carried it too, until that star was officially named Skat. In Chinese astronomy it is the second star of the Encampment, the lodge it makes with [Markab](/astrology/markab/). The Arabic and Indian lunar calendars pair the two in the same way, and Markab's own name may be a miscopying of mankib, the shoulder, once an Arabic name for Scheat.
 
 What it signifies is the part I can't hand on: I found no traditional nature for it, from Ptolemy or a later author, in a source I could check.
 
@@ -55,4 +55,4 @@ The tradition admits a star into a chart only by conjunction, measured in longit
 
 The Sun reaches it every year on about 19 and 20 March, on the last day or so of Pisces, just before the March equinox. Saturn, on its 29½-year round, stood there for births in parts of 1937–38, 1966–67 and spring 1996. The Moon passes in a few hours each month, which leaves the question to the birth time ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Stars play no part in my own readings ([How I read](/how-i-read/)). I describe Scheat because people meet it in other charts, and the first things worth knowing are where it really is: on the last degree of the zodiac, and far to the north of every planet that shares its number.
+I describe Scheat, though stars play no part in my own readings ([How I read](/how-i-read/)), because people meet it in other charts, and the first things worth knowing are where it really is: on the last degree of the zodiac, and far to the north of every planet that shares its number.

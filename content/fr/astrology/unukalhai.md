@@ -10,7 +10,7 @@ categories: ["Étoiles"]
 tags: ["Unukalhai", "étoiles fixes"]
 weight: 54
 glyph: "★"
-definition: "Unukalhai est l’étoile fixe α Serpentis, l’étoile la plus brillante du Serpent, à 22°26′ du Scorpion dans le zodiaque tropical en 2026. Son nom arabe signifie « le cou du serpent », et son nom latin, Cor Serpentis, « le cœur du serpent ». Elle se trouve à 25,5° au nord de l’écliptique ; le Soleil atteint son degré vers le 13 novembre."
+definition: "Unukalhai, la plus brillante du Serpent, est l’étoile fixe α Serpentis, et son degré tombe dans le Scorpion : 22°26′ en 2026. Son nom arabe signifie « le cou du serpent », son nom latin, Cor Serpentis, « le cœur du serpent ». Elle est à 25,5° au nord de l’écliptique ; le Soleil atteint son degré vers le 13 novembre."
 facts:
   - { k: "Constellation", v: "Serpent : α Serpentis, dans la tête du Serpent (Serpens Caput)" }
   - { k: "Éclat", v: "Magnitude 2,65, l’étoile la plus brillante du Serpent" }
@@ -25,9 +25,9 @@ faq:
   - q: "Que signifie Unukalhai ?"
     a: "Le nom vient de l’arabe ʽunuq al-ḥayya, le cou du serpent, car l’étoile se trouve dans la moitié tête du Serpent, le reptile que tient Ophiuchus. Son nom latin, Cor Serpentis, en fait plutôt le cœur du serpent. Ces noms décrivent sa place dans une figure ; aucun ne juge qui que ce soit dont une planète occupe son degré."
   - q: "Où se trouve Unukalhai dans le zodiaque ?"
-    a: "À 22°26′ du Scorpion en 2026, dans le zodiaque tropical, contre 22°04′ en 2000 : elle avance d’environ un degré tous les 72 ans. Elle se trouve à 25,5° au nord de l’écliptique ; la Lune et les planètes passent donc loin au sud d’elle, et une conjonction avec Unukalhai consiste à partager son degré."
+    a: "Dans le troisième décan du Scorpion : 22°26′ en 2026 et 22°04′ en 2000, la précession la faisant avancer d’environ un degré tous les 72 ans. Avec une latitude de 25,5° au nord, ni la Lune ni les planètes ne l’approchent jamais dans le ciel ; une conjonction avec elle est un degré de longitude partagé."
   - q: "Quand le Soleil est-il en conjonction avec Unukalhai ?"
-    a: "Vers le 13 et le 14 novembre, le Soleil étant alors dans le troisième décan du Scorpion. Parmi les personnes nées de 1930 à 2009, environ 1 sur 185 a le Soleil à moins d’un degré de la longitude d’Unukalhai. C’est environ une semaine avant que le Soleil ne quitte le Scorpion pour le Sagittaire."
+    a: "Chaque année vers le 13 et le 14 novembre, une semaine environ avant que le Soleil ne passe dans le Sagittaire. Parmi les personnes nées de 1930 à 2009, environ 1 sur 185 a le Soleil à moins d’un degré de la longitude d’Unukalhai, toutes du Scorpion."
   - q: "Pourquoi une étoile du Serpent se trouve-t-elle dans le signe du Scorpion ?"
     a: "Parce que signes et constellations sont deux cartes différentes. Les signes tropicaux sont douze parts égales de la course annuelle du Soleil, comptées depuis l’équinoxe de mars ; les constellations sont des figures d’étoiles de toutes les tailles. La longitude d’Unukalhai tombe dans le Scorpion, alors que le dard du Scorpion lui-même se trouve plus loin, dans le signe du Sagittaire."
 sources:
@@ -39,11 +39,11 @@ Unukalhai est le cou du Serpent, l’étoile la plus brillante de la seule const
 
 ## Où elle se trouve {#ou-elle-se-trouve}
 
-Unukalhai, c’est α Serpentis, numéro 5854 du Yale Bright Star Catalogue, et à la magnitude 2,65, l’étoile la plus brillante du Serpent. Le Serpent est la seule constellation coupée en deux parties séparées : quand Eugène Delporte a tracé les frontières modernes, dans les années 1920, il a découpé le reptile en une tête, Serpens Caput, à l’ouest, et une queue, Serpens Cauda, à l’est, avec le Serpentaire, Ophiuchus, debout entre les deux. Unukalhai est dans la tête. C’est une géante orange à environ 74 années-lumière, quelque treize fois plus large que le Soleil.
+Sous le nom d’α Serpentis, numéro 5854 du Yale Bright Star Catalogue, Unukalhai brille à la magnitude 2,65 : c’est l’étoile la plus brillante du Serpent. Le Serpent est la seule constellation coupée en deux parties séparées : quand Eugène Delporte a tracé les frontières modernes, dans les années 1920, il a découpé le reptile en une tête, Serpens Caput, à l’ouest, et une queue, Serpens Cauda, à l’est, avec le Serpentaire, Ophiuchus, debout entre les deux. Unukalhai est dans la tête. C’est une géante orange à environ 74 années-lumière, quelque treize fois plus large que le Soleil.
 
-Dans le zodiaque tropical, elle était à 22°04′ du [Scorpion](/astrology/scorpio/) en 2000 ; elle est à 22°26′ en 2026. Une étoile du Serpent se trouve donc dans le signe du Scorpion, tandis que le dard du Scorpion lui-même, [Shaula](/astrology/shaula/), se trouve plus d’un mois plus loin dans l’année du Soleil, dans le Sagittaire ([constellations et signes](/astrology/constellations-versus-signs/)).
+Avec un degré de 22°04′ du [Scorpion](/astrology/scorpio/) en 2000 et de 22°26′ en 2026, une étoile du Serpent se trouve dans le signe du Scorpion, tandis que le dard du Scorpion lui-même, [Shaula](/astrology/shaula/), se trouve plus d’un mois plus loin dans l’année du Soleil, dans le Sagittaire ([constellations et signes](/astrology/constellations-versus-signs/)).
 
-Sa latitude est de 25,5° au nord de l’[écliptique](/astrology/ecliptic/). La Lune et les planètes passent toutes bien au sud d’elle : dans un thème natal, elles peuvent partager son degré, jamais sa place dans le ciel.
+À 25,5° au nord de l’[écliptique](/astrology/ecliptic/), elle voit la Lune et toutes les planètes passer bien au sud : dans un thème natal, elles peuvent partager son degré, jamais sa place dans le ciel.
 
 ## Sa tradition {#sa-tradition}
 
@@ -55,7 +55,7 @@ Un cou, un cœur, une ligne, un État sur un mur : la tradition d’Unukalhai, 
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le Soleil atteint Unukalhai vers le 13 et le 14 novembre, une semaine environ avant de quitter le Scorpion ([Soleil en Scorpion](/astrology/sun-in-scorpio/)). Une planète compte comme posée sur l’étoile de 21°26′ à 23°26′ du Scorpion dans un thème de 2026, le seul degré de part et d’autre que retient ce site ([conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/)).
+La mi-novembre amène le Soleil sur Unukalhai, vers le 13 et le 14, une semaine environ avant qu’il ne quitte le Scorpion ([Soleil en Scorpion](/astrology/sun-in-scorpio/)). Une planète compte comme posée sur l’étoile de 21°26′ à 23°26′ du Scorpion dans un thème de 2026, le seul degré de part et d’autre que retient ce site ([conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/)).
 
 Les planètes lentes restent plus longtemps, et reviennent. Neptune était à moins d’un degré d’elle, par intermittence, de décembre 1965 à octobre 1967 ([Neptune en Scorpion](/astrology/neptune-in-scorpio/)) ; Uranus pendant une partie de 1979 et de 1980 ; Pluton de la fin de 1991 à l’automne 1993 ([Pluton en Scorpion](/astrology/pluto-in-scorpio/)). Une planète aussi lente franchit le degré de l’étoile, repasse dessus pendant sa rétrogradation, puis le franchit une troisième fois : des personnes nées à plusieurs mois d’écart peuvent ainsi partager le même contact ([planètes rétrogrades natales](/blog/retrograde-planets/)).
 

@@ -9,7 +9,7 @@ categories: ["Stars"]
 tags: ["Lesath", "fixed stars"]
 weight: 56
 glyph: "★"
-definition: "Lesath is the fixed star υ Scorpii, the fainter of the two stars in the Scorpion’s sting, at 24°22′ Sagittarius in the tropical zodiac in 2026. Its name is read as the Arabic for a sting, but began as a misreading of al-laṭkha, the foggy patch. It lies just 35′ of longitude behind Shaula."
+definition: "Lesath, υ Scorpii, is the fainter fixed star of the Scorpion’s sting, at 24°22′ Sagittarius in 2026, only 35′ of longitude behind Shaula. Its name is read as the Arabic for a sting, but began as a misreading of al-laṭkha, the foggy patch, a name for the hazy cluster nearby."
 facts:
   - { k: "Constellation", v: "Scorpius: υ Scorpii, in the sting" }
   - { k: "Brightness", v: "Magnitude 2.69" }
@@ -37,7 +37,7 @@ Lesath is the fainter of the two stars in the Scorpion's sting, at magnitude 2.6
 
 ## Where it is {#where-it-is}
 
-Lesath is υ Scorpii, number 6508 in the Yale Bright Star Catalogue, a hot blue-white subgiant about 580 light-years away, some eleven times the Sun's mass and giving out about 12,300 times its light. In the sky it sits right beside [Shaula](/astrology/shaula/), and the two are sometimes called the Cat's Eyes.
+Catalogued as υ Scorpii, number 6508 in the Yale Bright Star Catalogue, Lesath is a hot blue-white subgiant about 580 light-years away, some eleven times the Sun's mass and giving out about 12,300 times its light. In the sky it sits right beside [Shaula](/astrology/shaula/), and the two are sometimes called the Cat's Eyes.
 
 In the tropical zodiac it stood at 24°00′ [Sagittarius](/astrology/sagittarius/) in 2000, right on the degree, and stands at 24°22′ in 2026, with a latitude of 14.0° south of the [ecliptic](/astrology/ecliptic/). Its window of a degree either side, 23°22′ to 25°22′ in 2026, overlaps Shaula's for 1°25′ of its 2°. So most planets that meet one of the sting's stars meet both, and only the first 35′, from 23°22′ to 23°57′, belongs to Lesath alone ([conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/)).
 
@@ -45,7 +45,7 @@ In the tropical zodiac it stood at 24°00′ [Sagittarius](/astrology/sagittariu
 
 Lesath's name has a history of its own. It is usually traced to the Arabic las‘a, the bite or sting of a poisonous creature, which suits a star in the sting. But that reading is a miscorrection by Scaliger, a European astronomer who knew Arabic, of an older form, Alascha, from the Arabic al-laṭkha, the foggy patch. The foggy patch was the hazy cluster beside the sting, the one astrologers call [Acumen](/astrology/acumen/). The sting's second star carries, by a slip of the pen, a name that belonged to a cloud of stars.
 
-Older still, the Babylonian compendium of stars known as MUL.APIN lists Lesath and Shaula together, as Sharur and Shargaz. In Coptic the pair was Minamref, and the Boorong people of north-western Victoria, in Australia, called them Karik Karik, the falcons. In China, Lesath is the ninth star of Wěi, the Tail.
+Older still, the Babylonian compendium of stars known as MUL.APIN lists Lesath and Shaula together, as Sharur and Shargaz. In Coptic the pair was Minamref, and the Boorong people of north-western Victoria, in Australia, called them Karik Karik, the falcons. Chinese astronomers counted it as the ninth star of Wěi, the Tail, one place after Shaula.
 
 So the same two points of light have been Sharur and Shargaz, two falcons, the end of a tail and a pair of cat's eyes, depending on who was looking; the meaning came from the looking.
 

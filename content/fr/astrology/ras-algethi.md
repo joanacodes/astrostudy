@@ -10,7 +10,7 @@ categories: ["Étoiles"]
 tags: ["Ras Algethi", "étoiles fixes"]
 weight: 53
 glyph: "★"
-definition: "Ras Algethi est l’étoile fixe α Herculis, la tête de l’Agenouillé, aujourd’hui Hercule, à 16°31′ du Sagittaire dans le zodiaque tropical en 2026. C’est une géante rouge pulsante dont l’éclat varie entre les magnitudes 2,7 et 4,0 environ, et elle se trouve à 37,3° au nord de l’écliptique, loin du chemin des planètes."
+definition: "Ras Algethi, α Herculis, marque la tête de l’Agenouillé, aujourd’hui Hercule, et comme étoile fixe elle tombe à 16°31′ du Sagittaire en 2026. C’est une géante rouge pulsante dont l’éclat varie entre les magnitudes 2,7 et 4,0 environ, et elle se trouve à 37,3° au nord de l’écliptique, loin du chemin des planètes."
 facts:
   - { k: "Constellation", v: "Hercule : α¹ Herculis, la tête de l’Agenouillé" }
   - { k: "Éclat", v: "Magnitude 3,48 au catalogue ; elle varie d’environ 2,7 à 4,0" }
@@ -25,9 +25,9 @@ faq:
   - q: "Que signifie Ras Algethi ?"
     a: "C’est de l’arabe pour « la tête de l’agenouillé ». Avant d’être Hercule, la figure était simplement l’Agenouillé, un homme posé sur un genou que même le poète grec Aratos ne savait pas nommer, et les anciennes cartes la dessinaient à l’envers, ce qui place la tête au bas de la figure, près de celle d’Ophiuchus."
   - q: "Ras Algethi est-elle une étoile variable ?"
-    a: "Oui. C’est une géante rouge en fin de vie qui enfle et se contracte, et sa lumière suit : l’amplitude totale va des magnitudes 2,7 à 4,0 environ, même si elle varie d’ordinaire dans 0,6 magnitude environ. Ses changements se répètent sur des semaines et sur des années ; le cycle le plus net dure 128 jours."
+    a: "Oui. C’est une géante rouge en fin de vie qui enfle et se contracte, et sa lumière suit : l’amplitude totale va des magnitudes 2,7 à 4,0 environ, même si d’ordinaire elle ne varie que d’environ 0,6 magnitude. Ses changements se répètent sur des semaines et sur des années ; le cycle le plus net dure 128 jours."
   - q: "Où se trouve Ras Algethi dans le zodiaque ?"
-    a: "À 16°31′ du Sagittaire en 2026, dans le zodiaque tropical, contre 16°08′ en 2000. Elle se trouve à 37,3° au nord de l’écliptique, la route du Soleil : aucune planète ne passe jamais près d’elle dans le ciel, et une conjonction avec Ras Algethi consiste à partager son degré de longitude, mesuré le long du zodiaque."
+    a: "Six degrés avant Rasalhague : 16°31′ du Sagittaire en 2026, 16°08′ en 2000. Elle se trouve à 37,3° au nord de l’écliptique, la route du Soleil : aucune planète ne passe jamais près d’elle dans le ciel, et une conjonction avec Ras Algethi consiste à partager son degré de longitude, mesuré le long du zodiaque."
   - q: "Quand le Soleil est-il en conjonction avec Ras Algethi ?"
     a: "Pour les naissances du 7 et du 8 décembre environ, quelques jours avant que le Soleil n’atteigne Rasalhague, sa voisine dans le ciel. Ces jours-là, le Soleil est à 37° au sud de l’étoile, devant les étoiles d’Ophiuchus, avec Ras Algethi loin au nord."
 sources:
@@ -43,7 +43,7 @@ Ras Algethi, c’est α¹ Herculis, numéro 6406 du Yale Bright Star Catalogue�
 
 C’est une géante rouge en fin de vie, à environ 360 années-lumière, si enflée qu’à la place du Soleil elle dépasserait l’orbite de la Terre. Elle pulse, et son éclat suit : l’amplitude totale va de la magnitude 2,7 à 4,0, même si d’ordinaire elle ne varie que d’environ 0,6 magnitude, selon des cycles de quelques semaines à plusieurs années. Le plus net revient tous les 128 jours.
 
-Dans le zodiaque tropical, elle était à 16°08′ du [Sagittaire](/astrology/sagittarius/) en 2000 ; elle est à 16°31′ en 2026. Sa latitude est de 37,3° au nord de l’[écliptique](/astrology/ecliptic/), plus encore que sa voisine [Rasalhague](/astrology/rasalhague/), la tête d’Ophiuchus, à 5° vers l’est-sud-est : les deux comptent peut-être parmi les couples d’étoiles alpha les plus serrés de tout le ciel. À cette distance de l’écliptique, aucune planète ne passe jamais près d’elle ; un thème ne peut que mettre une planète sur son degré ([latitude céleste](/astrology/celestial-latitude/)).
+Son degré, 16°08′ du [Sagittaire](/astrology/sagittarius/) en 2000 et 16°31′ en 2026, précède de six degrés celui de sa voisine [Rasalhague](/astrology/rasalhague/), la tête d’Ophiuchus, qui brille à 5° vers l’est-sud-est : les deux comptent peut-être parmi les couples d’étoiles alpha les plus serrés de tout le ciel. Sa latitude, 37,3° au nord de l’[écliptique](/astrology/ecliptic/), dépasse encore celle de Rasalhague. À cette distance de l’écliptique, aucune planète ne passe jamais près d’elle ; un thème ne peut que mettre une planète sur son degré ([latitude céleste](/astrology/celestial-latitude/)).
 
 ## Sa tradition {#sa-tradition}
 

@@ -9,7 +9,7 @@ categories: ["Stars"]
 tags: ["Sadalsuud", "fixed stars"]
 weight: 50
 glyph: "★"
-definition: "Sadalsuud is the fixed star β Aquarii, the brightest in the constellation Aquarius, at 23°45′ Aquarius in the tropical zodiac in 2026. Its Arabic name means the luck of lucks, and old astrologers called it the fortune of fortunes. A planet within a degree of it counts as conjunct; the Sun reaches it around 11–12 February."
+definition: "Sadalsuud, β Aquarii, is the brightest star of the constellation Aquarius and a fixed star of astrology, standing at 23°45′ Aquarius in 2026. Its Arabic name means the luck of lucks, and old astrologers called it the fortune of fortunes. A planet within a degree of it counts as conjunct; the Sun reaches it around 11–12 February."
 facts:
   - { k: "Constellation", v: "Aquarius: β Aquarii, in the water-bearer’s left shoulder" }
   - { k: "Brightness", v: "Magnitude 2.91, the brightest star of Aquarius" }
@@ -24,7 +24,7 @@ faq:
   - q: "What does Sadalsuud mean in astrology?"
     a: "Its name is Arabic, sa‘d al-su‘ūd, the luck of lucks, and the astrologers who wrote in Latin called it Fortuna Fortunarum, the fortune of fortunes. So the tradition counts it a fortunate star. I describe it without reading it: the name records an old hope, not a promise about anyone born with a planet there."
   - q: "Where is Sadalsuud in the zodiac?"
-    a: "At 23°45′ Aquarius in 2026, in the tropical zodiac, against 23°23′ in 2000, since every star advances about a degree in 72 years. It lies 8.6° north of the ecliptic, further than the Moon ever strays, so a planet on its degree shares its longitude without passing in front of it."
+    a: "In the last third of Aquarius: 23°45′ in 2026, up from 23°23′ in 2000, because every star advances about a degree in 72 years against the tropical zodiac. Its latitude of 8.6° north is more than the Moon ever strays, so a planet on its degree shares its longitude without passing in front of it."
   - q: "Which birthdays have the Sun on Sadalsuud?"
     a: "Births on about 11 and 12 February: the Sun is then in the third decan of Aquarius, within a degree of the star’s longitude. Among people born from 1930 to 2009, about 1 in 185 has it. The exact day can shift by one from year to year, so the birth year matters too."
   - q: "Is Sadalsuud a lucky star?"
@@ -38,17 +38,17 @@ Sadalsuud is the brightest star of Aquarius, a yellow supergiant in the water-be
 
 ## Where it is {#where-it-is}
 
-Sadalsuud is β Aquarii, number 8232 in the Yale Bright Star Catalogue. At magnitude 2.91 it is a shade brighter than the constellation's alpha, [Sadalmelik](/astrology/sadalmelik/), at 2.96 (the lower the number, the brighter the star), a difference no eye can see.
+Entry 8232 of the Yale Bright Star Catalogue gives β Aquarii a magnitude of 2.91, a shade brighter than the constellation's alpha, [Sadalmelik](/astrology/sadalmelik/), at 2.96 (the lower the number, the brighter the star): a difference no eye can see.
 
-In the tropical zodiac it stood at 23°23′ Aquarius in 2000 and stands at 23°45′ in 2026. Those 22′ are precession: the zodiac is counted from the March equinox, which slides slowly backwards against the stars, so each star creeps forward about a degree every 72 years ([precession of the equinoxes](/astrology/precession-of-the-equinoxes/)). At that pace Sadalsuud won't leave [Aquarius](/astrology/aquarius/) for another four and a half centuries.
+Between 2000 and 2026 its tropical degree moved from 23°23′ to 23°45′ Aquarius, and those 22′ are precession: the zodiac is counted from the March equinox, which slides slowly backwards against the stars, so each star creeps forward about a degree every 72 years ([precession of the equinoxes](/astrology/precession-of-the-equinoxes/)). At that pace Sadalsuud won't leave [Aquarius](/astrology/aquarius/) for another four and a half centuries.
 
-Its latitude is 8.6° north of the [ecliptic](/astrology/ecliptic/), the Sun's path. The Moon never strays more than about 5° from that line, so it slips by to the south of Sadalsuud and never covers it. A planet "on" Sadalsuud in a birth chart shares its degree of the zodiac, not its patch of sky.
+Sadalsuud stands 8.6° north of the [ecliptic](/astrology/ecliptic/), the Sun's path, and the Moon never strays more than about 5° from that line: it slips by to the south and never covers the star. A planet "on" Sadalsuud in a birth chart shares its degree of the zodiac, not its patch of sky.
 
 Like Sadalmelik, it is a yellow supergiant, about 540 light-years away, and with η Pegasi the two belong to a small group of stars moving at right angles to the plane of the Milky Way. Since 1943 astronomers have used Sadalsuud's spectrum as one of the fixed points against which other stars are classified.
 
 ## Its tradition {#its-tradition}
 
-The name is Arabic: sa‘d al-su‘ūd, the luck of lucks. Richard Hinckley Allen's *Star Names* (1899) gives the astrologers' Latin for it, *Fortuna Fortunarum*, the fortune of fortunes, and the star catalogue in the *Calendarium* of al-Achsasi al-Mouakket called it *Lucida Fortunae Fortunarum*, the brightest of the luck of lucks. Allen tied the luck to the season: the end of winter, when the gentle rains of spring began.
+The name is Arabic: sa‘d al-su‘ūd, the luck of lucks. Richard Hinckley Allen's *Star Names* (1899) gives the astrologers' Latin for it, *Fortuna Fortunarum*, the fortune of fortunes, and the star catalogue in the *Calendarium* of al-Achsasi al-Mouakket gave it a name translated into Latin as *Lucida Fortunae Fortunarum*, the brightest of the luck of lucks. Allen tied the luck to the season: the end of winter, when the gentle rains of spring began.
 
 The star also gave its name to one of the twenty-eight Arabic lunar mansions, the stations that mark the Moon's way round the sky ([the 28 lunar mansions](/astrology/28-lunar-mansions/)): Sa‘d as-Su‘ūd, which it shares with ξ Aquarii. Other mansions are named for other stars; [Denebola](/astrology/denebola/), in the Lion's tail, marks as-Sarfa, the change of weather.
 

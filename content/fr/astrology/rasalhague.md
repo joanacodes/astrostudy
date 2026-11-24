@@ -10,7 +10,7 @@ categories: ["Étoiles"]
 tags: ["Rasalhague", "étoiles fixes"]
 weight: 52
 glyph: "★"
-definition: "Rasalhague est l’étoile fixe α Ophiuchi, la tête du Serpentaire et l’étoile la plus brillante d’Ophiuchus, à 22°48′ du Sagittaire dans le zodiaque tropical en 2026. Elle se trouve à 35,8° au nord de l’écliptique : une planète ne la rejoint que par le degré, jamais dans le ciel. Son nom arabe signifie « la tête du charmeur de serpents »."
+definition: "Rasalhague est l’étoile fixe de la tête d’Ophiuchus, le Serpentaire : α Ophiuchi, la plus brillante de la constellation, à 22°48′ du Sagittaire en 2026. Elle est à 35,8° au nord de l’écliptique : une planète ne la rejoint que par le degré, jamais dans le ciel. En arabe, son nom est « la tête du charmeur de serpents »."
 facts:
   - { k: "Constellation", v: "Ophiuchus : α Ophiuchi, la tête du Serpentaire" }
   - { k: "Éclat", v: "Magnitude 2,08, l’étoile la plus brillante d’Ophiuchus" }
@@ -25,9 +25,9 @@ faq:
   - q: "Que signifie Rasalhague en astrologie ?"
     a: "Son nom vient de l’arabe et désigne la tête du charmeur de serpents : elle marque la tête d’Ophiuchus, l’homme qui tient un grand serpent, dont la mythologie d’époque romaine a fait Asclépios le guérisseur. Ce que la tradition lui attache, c’est cette histoire plutôt qu’un verdict, et je la décris sans la lire dans aucun thème."
   - q: "Rasalhague est-elle dans Ophiuchus ou dans le Sagittaire ?"
-    a: "Dans les deux, en deux sens. Sur la carte du ciel, c’est l’étoile la plus brillante de la constellation d’Ophiuchus. Dans le zodiaque tropical, sa longitude est de 22°48′ du Sagittaire en 2026, parce que les signes se mesurent depuis l’équinoxe de mars et non d’après les constellations. Une planète conjointe à elle dans un thème est en Sagittaire."
+    a: "Tout dépend de la carte. Sur la carte du ciel, c’est l’étoile la plus brillante de la constellation d’Ophiuchus. Dans le zodiaque tropical, sa longitude est de 22°48′ du Sagittaire en 2026, car les signes partent de l’équinoxe de mars, pas des constellations. Dans un thème natal, une planète sur son degré se lit donc en Sagittaire."
   - q: "Quand le Soleil est-il en conjonction avec Rasalhague ?"
-    a: "Vers le 13 et le 14 décembre. Ces jours-là, le Soleil se trouve bel et bien devant la constellation d’Ophiuchus, mais à quelque 36° au sud de Rasalhague, car l’étoile est très au nord de la route du Soleil. Environ 1 personne sur 185 née de 1930 à 2009 a le Soleil sur son degré."
+    a: "Vers le 13 et le 14 décembre. Ces jours-là, le Soleil se trouve bel et bien devant la constellation d’Ophiuchus, mais à quelque 36° au sud de Rasalhague, car l’étoile est très au nord de la route du Soleil. Quelle que soit la constellation derrière le Soleil, ce sont des anniversaires du Sagittaire."
   - q: "Une planète peut-elle passer devant Rasalhague ?"
     a: "Non. L’étoile se trouve à 35,8° au nord de l’écliptique ; la Lune ne s’en écarte jamais de plus de 5° environ, et même Pluton reste dans les 17° environ. Une conjonction avec Rasalhague est une rencontre de degrés, rien de plus. Ceux qui veulent le ciel réel utilisent les parans, qui comparent levers et culminations."
 sources:
@@ -39,9 +39,9 @@ Rasalhague marque la tête du Serpentaire, l’étoile la plus brillante d’Oph
 
 ## Où elle se trouve {#ou-elle-se-trouve}
 
-Rasalhague, c’est α Ophiuchi, numéro 6556 du Yale Bright Star Catalogue. À la magnitude 2,08, elle est vraiment l’étoile la plus brillante de sa constellation, à la différence de [Sadalmelik](/astrology/sadalmelik/), l’alpha du Verseau, que sa bêta dépasse. Il s’agit d’un couple d’étoiles situé à 48,6 années-lumière, qui tournent l’une autour de l’autre en 8,6 ans ; la plus brillante des deux tourne sur elle-même si vite, presque à la vitesse qui la disloquerait, qu’elle s’aplatit et s’élargit à l’équateur.
+À la magnitude 2,08, α Ophiuchi est vraiment l’étoile la plus brillante de sa constellation, à la différence de [Sadalmelik](/astrology/sadalmelik/), l’alpha du Verseau, que sa bêta dépasse. Il s’agit d’un couple d’étoiles situé à 48,6 années-lumière, qui tournent l’une autour de l’autre en 8,6 ans ; la plus brillante des deux tourne sur elle-même si vite, presque à la vitesse qui la disloquerait, qu’elle s’aplatit et s’élargit à l’équateur.
 
-Dans le zodiaque tropical, elle était à 22°26′ du [Sagittaire](/astrology/sagittarius/) en 2000 ; elle est à 22°48′ en 2026. Le signe n’est pas la constellation : Ophiuchus est à cheval sur l’équateur céleste, le Soleil traverse sa partie sud chaque année du 30 novembre au 18 décembre environ, et le zodiaque continue d’appeler cette portion Sagittaire, parce que ses signes suivent les saisons ([Ophiuchus et le 13e signe](/astrology/ophiuchus-and-the-13th-sign/)).
+Son degré tropical est passé de 22°26′ du [Sagittaire](/astrology/sagittarius/) en 2000 à 22°48′ en 2026, et ici le signe et la constellation se séparent : Ophiuchus est à cheval sur l’équateur céleste, le Soleil traverse sa partie sud chaque année du 30 novembre au 18 décembre environ, et le zodiaque continue d’appeler cette portion Sagittaire, parce que ses signes suivent les saisons ([Ophiuchus et le 13e signe](/astrology/ophiuchus-and-the-13th-sign/)).
 
 Sa latitude, 35,8° au nord de l’[écliptique](/astrology/ecliptic/), compte davantage que son degré. La Lune ne s’écarte jamais de cette ligne de plus de 5° environ, et même Pluton, qui s’en éloigne le plus, reste dans les 17° environ : rien, dans un thème natal, ne s’approche jamais de Rasalhague dans le ciel ([latitude céleste](/astrology/celestial-latitude/)).
 
@@ -59,4 +59,4 @@ Le Soleil franchit le degré de Rasalhague vers le 13 et le 14 décembre, alors 
 
 Les planètes les plus lentes font de ce contact celui d’une génération. Neptune occupait son degré pour une bonne partie des naissances de 1980 et de 1981 ([Neptune en Sagittaire](/astrology/neptune-in-sagittarius/)), et Pluton pour une partie de celles de 2004 et de 2005 ([Pluton en Sagittaire](/astrology/pluto-in-sagittarius/)).
 
-Avec une étoile aussi au nord, certains astrologues laissent le degré de côté et regardent le ciel : ils cherchent si Rasalhague s’est levée, a culminé ou s’est couchée au même moment qu’une planète, au lieu de naissance ([parans](/astrology/parans/)). Cette méthode suit le ciel réel, mais elle demande l’heure et le lieu de naissance exacts. Je n’utilise ni l’une ni l’autre dans mes lectures, parce que le système que j’ai construit laisse les étoiles de côté ; c’est pourquoi je décris Rasalhague ici au lieu de la lire ([Ma méthode](/how-i-read/)).
+Avec une étoile aussi loin au nord, certains astrologues laissent le degré de côté et regardent le ciel : ils cherchent si Rasalhague s’est levée, a culminé ou s’est couchée au même moment qu’une planète, au lieu de naissance ([parans](/astrology/parans/)). Cette méthode suit le ciel réel, mais elle demande l’heure et le lieu de naissance exacts. Je n’utilise ni l’une ni l’autre dans mes lectures, parce que le système que j’ai construit laisse les étoiles de côté ; c’est pourquoi je décris Rasalhague ici au lieu de la lire ([Ma méthode](/how-i-read/)).

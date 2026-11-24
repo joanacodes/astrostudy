@@ -9,7 +9,7 @@ categories: ["Stars"]
 tags: ["Alpheratz", "fixed stars"]
 weight: 39
 glyph: "★"
-definition: "Alpheratz is the fixed star Alpha Andromedae, the head of Andromeda and a corner of the Great Square of Pegasus, at 14°40′ Aries in 2026. Old star lore said it blessed those born under it with honour and riches; in a birth chart it counts only for a planet within about a degree of its longitude."
+definition: "Alpheratz is the fixed star Alpha Andromedae, the head of Andromeda and a corner of the Great Square of Pegasus, at 14°40′ Aries in 2026. Old star lore said it blessed those born under it with honour and riches; in a birth chart it counts only for a planet near 14° or 15° Aries."
 facts:
   - { k: "Constellation", v: "Andromeda: α Andromedae, once also δ Pegasi" }
   - { k: "Brightness", v: "Magnitude 2.06" }
@@ -51,8 +51,8 @@ W. T. Olcott's *Star Lore of All Ages* (1911) records two more things. Alpheratz
 
 Honour and riches is the kind of promise I won't attach to anyone's chart. Money isn't something a chart can forecast ([Can astrology pick investments?](/astrology/can-astrology-pick-investments/)), and a planet near 14° Aries describes how that planet works in you, not what life will hand you.
 
-In the tradition, a planet would need to sit within about a degree of the star's longitude to count ([conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/)): 13°40′ to 15°40′ Aries for a birth in 2026, 12°19′ to 14°19′ for one in 1930. The Sun crosses that span on about 3 and 4 April each year, and Saturn sat in it for births in parts of 1938–39, spring 1968 and 1997–98. The Moon spends only a few hours there each month, which the birth time alone can settle ([what changes without a birth time](/blog/unknown-birth-time/)).
+In the tradition, a planet would need to sit within about a degree of the star's longitude to count ([conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/)): 13°40′ to 15°40′ Aries for a birth in 2026, 12°19′ to 14°19′ for one in 1930. Each year the Sun is there on about 3 and 4 April, and Saturn's visits fell in parts of 1938–39, spring 1968 and 1997–98. The Moon spends only a few hours there each month, which the birth time alone can settle ([what changes without a birth time](/blog/unknown-birth-time/)).
 
 The latitude counts as much as the degree. At 25.7° north, Alpheratz is never beside a planet in the sky, and "conjunct" here means sharing a number on the zodiac's scale ([celestial latitude](/astrology/celestial-latitude/)).
 
-On this site Alpheratz is described, not read: stars have no place in the system I built for my readings, nor among the placements my notebook tested ([How I read](/how-i-read/)).
+So the honour and riches stay in Olcott's book: on this site Alpheratz is described, not read, since stars have no place in the system I built for my readings, nor among the placements my notebook tested ([How I read](/how-i-read/)).

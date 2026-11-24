@@ -55,4 +55,4 @@ Counted a degree either side, a conjunction to Mirach runs from 29°46′ Aries 
 
 Saturn crossed Mirach's degree for births in parts of 1939–40, spring 1969 and 1998–99. The Moon passes in a few hours each month and the angles in minutes, so for them everything rests on an exact birth time, which is why I don't read a chart without one ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-If Mirach turns up in someone else's reading of your chart, the first question is the year: before 1970 it is an Aries star, after 1970 a Taurus one. Stars stay outside my own readings ([How I read](/how-i-read/)).
+Stars stay outside my own readings ([How I read](/how-i-read/)), but if Mirach turns up in someone else's reading of your chart, the first question is the year: before 1970 it is an Aries star, after 1970 a Taurus one.

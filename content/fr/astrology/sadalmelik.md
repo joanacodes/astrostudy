@@ -10,7 +10,7 @@ categories: ["Étoiles"]
 tags: ["Sadalmelik", "étoiles fixes"]
 weight: 51
 glyph: "★"
-definition: "Sadalmelik est l’étoile fixe α Aquarii, une supergéante jaune de la constellation du Verseau qui se trouve dans le signe tropical des Poissons depuis 1760 environ ; en 2026, elle est à 3°42′ des Poissons. Son nom arabe signifie « l’étoile chanceuse du roi ». Elle est presque exactement sur l’équateur céleste, à 10,7° au nord de l’écliptique."
+definition: "Sadalmelik est l’étoile fixe α Aquarii, une supergéante jaune de la constellation du Verseau qui se trouve dans le signe tropical des Poissons depuis 1760 environ ; en 2026, à 3°42′ des Poissons. Sa‘d al-malik, son nom arabe, signifie « l’étoile chanceuse du roi ». Elle est presque sur l’équateur céleste, à 10,7° au nord de l’écliptique."
 facts:
   - { k: "Constellation", v: "Verseau : α Aquarii, l’épaule droite du porteur d’eau" }
   - { k: "Éclat", v: "Magnitude 2,96, un cheveu derrière Sadalsuud" }
@@ -39,13 +39,13 @@ Sadalmelik appartient au Verseau sur la carte du ciel et aux Poissons dans le zo
 
 ## Où elle se trouve {#ou-elle-se-trouve}
 
-Sadalmelik, c’est α Aquarii, numéro 8414 du Yale Bright Star Catalogue, l’étoile de l’épaule droite du porteur d’eau. L’alpha d’une constellation en est souvent l’étoile la plus brillante, comme [Rasalhague](/astrology/rasalhague/) dans Ophiuchus. Pas ici : à la magnitude 2,96, Sadalmelik arrive un cheveu derrière [Sadalsuud](/astrology/sadalsuud/), l’épaule gauche, à 2,91 (plus le chiffre est bas, plus l’étoile brille).
+L’épaule droite du porteur d’eau, c’est Sadalmelik, α Aquarii. L’alpha d’une constellation en est souvent l’étoile la plus brillante, comme [Rasalhague](/astrology/rasalhague/) dans Ophiuchus. Pas ici : à la magnitude 2,96, Sadalmelik arrive un cheveu derrière [Sadalsuud](/astrology/sadalsuud/), l’épaule gauche, à 2,91 (plus le chiffre est bas, plus l’étoile brille).
 
-Dans le zodiaque tropical, elle est à 3°42′ des [Poissons](/astrology/pisces/) en 2026, contre 3°20′ en 2000 et 2°22′ en 1930. En remontant le temps au rythme de la précession, environ un degré tous les 72 ans, on trouve son degré encore dans le Verseau jusque vers 1760, quand le lent recul de l’équinoxe l’a fait passer la ligne. Une étoile de la constellation du Verseau se trouve donc dans le signe des Poissons, et elle y restera bien plus de mille ans ([constellations et signes](/astrology/constellations-versus-signs/)).
+La précession l’a menée de 2°22′ des [Poissons](/astrology/pisces/) en 1930 à 3°20′ en 2000 et à 3°42′ en 2026. En remontant le temps au même rythme, environ un degré tous les 72 ans, on trouve son degré encore dans le Verseau jusque vers 1760, quand le lent recul de l’équinoxe l’a fait passer la ligne. Une étoile de la constellation du Verseau se trouve donc dans le signe des Poissons, et elle y restera bien plus de mille ans ([constellations et signes](/astrology/constellations-versus-signs/)).
 
 Sa latitude est de 10,7° au nord de l’[écliptique](/astrology/ecliptic/), la route du Soleil, mais sa distance à l’[équateur céleste](/astrology/celestial-equator/) est presque nulle : Sadalmelik se trouve à 19′ au sud de cette ligne, l’une des deux seules étoiles aux noms anciens à moins d’un degré d’elle. Une étoile posée sur l’équateur se lève plein est et se couche plein ouest, où que l’on soit sur Terre, et passe à peu près la moitié de chaque journée au-dessus de l’horizon.
 
-C’est une supergéante jaune, à environ 690 années-lumière, qui brille quelque 3 900 fois plus que le Soleil. Comme Sadalsuud, elle se déplace à angle droit du plan de la Voie lactée.
+À quelque 690 années-lumière, cette supergéante jaune rayonne environ 3 900 fois la lumière du Soleil. Comme Sadalsuud, elle se déplace à angle droit du plan de la Voie lactée.
 
 ## Sa tradition {#sa-tradition}
 

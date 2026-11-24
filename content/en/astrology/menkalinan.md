@@ -5,9 +5,11 @@ description: "Menkalinan, the fixed star at 0° Cancer: the Charioteer’s eclip
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "stars"
+categories: ["Stars"]
+tags: ["Menkalinan", "fixed stars"]
 weight: 44
 glyph: "★"
-definition: "Menkalinan is the fixed star Beta Aurigae, the Charioteer’s shoulder, at 0°16′ Cancer in 2026; for births before 2006 it stood in the last degree of Gemini. It lies 21.5° north of the Sun’s path, so a planet within a degree of its longitude shares its zodiac degree, never its place in the sky."
+definition: "Menkalinan is the fixed star Beta Aurigae, the Charioteer’s shoulder, at 0°16′ Cancer in 2026; for births before 2006 it stood in the last degree of Gemini. It lies 21.5° north of the Sun’s path, so a planet at the Gemini–Cancer cusp shares its zodiac degree, never its place in the sky."
 facts:
   - { k: "Constellation", v: "Auriga, the Charioteer: β Aurigae" }
   - { k: "Brightness", v: "Magnitude 1.90, dipping to 1.94 every two days" }
@@ -44,12 +46,12 @@ Its latitude, 21.5° north of the [ecliptic](/astrology/ecliptic/), is the numbe
 
 ## Its tradition {#its-tradition}
 
-The name is Arabic, mankib dhī al-ʿinān, the shoulder of the rein-holder, after the star's place in the Charioteer's figure. Chinese astronomy counts it as the third of the Five Chariots, an asterism it shares with Capella and [El Nath](/astrology/el-nath/). The Inuit set it with Capella, Castor and Pollux in a figure called Quturjuuk, the collar-bones, whose rising warned that Aagjuuk, the stars of the first dawn after the winter solstice, would soon follow.
+In Arabic it was mankib dhī al-ʿinān, the shoulder of the rein-holder, after the star's place in the Charioteer's figure. Chinese astronomy counts it as the third of the Five Chariots, an asterism it shares with Capella and [El Nath](/astrology/el-nath/). The Inuit set it with Capella, Castor and Pollux in a figure called Quturjuuk, the collar-bones, whose rising warned that Aagjuuk, the stars of the first dawn after the winter solstice, would soon follow.
 
 Its future is a quieter fact than its lore: it and the Sun are drawing closer, and in about a million years Menkalinan should be the brightest star of the night sky.
 
 ## In a birth chart {#in-a-birth-chart}
 
-The tradition's single test is a conjunction within about a degree of longitude ([conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/)). For Menkalinan that span runs from 29°16′ Gemini to 1°16′ Cancer for a birth in 2026, and from 27°55′ to 29°55′ Gemini for one in 1930; since the mid-1930s it has reached across the line into Cancer. The Sun crosses it on about 20 and 21 June, as it reaches its furthest north and enters Cancer ([solstices and equinoxes](/astrology/solstices-and-equinoxes/)). Saturn passed over it for births in June 1944, in parts of 1973–74 and in 2002–03. The Moon and the angles move too fast for anything but an exact birth time to settle ([what changes without a birth time](/blog/unknown-birth-time/)).
+The tradition's single test is a conjunction within about a degree of longitude ([conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/)). For Menkalinan that span runs from 29°16′ Gemini to 1°16′ Cancer for a birth in 2026, and from 27°55′ to 29°55′ Gemini for one in 1930; since the mid-1930s it has reached across the line into Cancer. The Sun crosses it on about 20 and 21 June, as it reaches its furthest north and enters Cancer ([solstices and equinoxes](/astrology/solstices-and-equinoxes/)). Saturn passed over it for births in June 1944, in parts of 1973–74 and in 2002–03. The Moon and the angles move too fast for anything but an exact birth time to settle whether they touch it ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-I don't add stars to readings ([How I read](/how-i-read/)). With Menkalinan in particular, I'd want anyone who meets it in a chart to know that the planet and the star stand 21.5° apart: whatever the tradition reads into that meeting, the sky doesn't show it.
+I don't add stars to readings ([How I read](/how-i-read/)), and with Menkalinan I'd want anyone who meets it in a chart to know that the planet and the star stand 21.5° apart: whatever the tradition reads into that meeting, the sky doesn't show it.

@@ -10,7 +10,7 @@ categories: ["Étoiles"]
 tags: ["Hamal", "étoiles fixes"]
 weight: 42
 glyph: "★"
-definition: "Hamal est l’étoile fixe Alpha du Bélier, la plus brillante de cette constellation, à 8°01′ du Taureau dans le zodiaque tropical : la précession a fait passer la tête du Bélier dans le signe suivant. Dans un thème natal, une planète ou un angle à un degré environ de cette longitude lui est conjoint."
+definition: "Hamal est l’étoile fixe Alpha du Bélier, la plus brillante de cette constellation, à 8°01′ du Taureau dans le zodiaque tropical : la précession a fait passer la tête du Bélier dans le signe suivant. Dans un thème natal, une planète ou un angle entre 7° et 9° du Taureau environ lui est conjoint."
 facts:
   - { k: "Constellation", v: "Le Bélier : α Arietis" }
   - { k: "Éclat", v: "Magnitude 2,00, la plus brillante du Bélier" }
@@ -25,7 +25,7 @@ faq:
   - q: "Pourquoi Hamal est-elle dans le Taureau si c’est l’étoile du Bélier ?"
     a: "Parce que signes et constellations se sont séparés. Le zodiaque tropical se compte depuis l’équinoxe de mars, qui recule devant les étoiles d’environ un degré tous les 72 ans. Sur cette échelle, la plus brillante du Bélier a glissé jusqu’à 8°01′ du Taureau, tandis que le signe du Bélier commence aujourd’hui parmi les étoiles des Poissons."
   - q: "Qu’est-ce que Hamal en astrologie ?"
-    a: "L’étoile fixe Alpha du Bélier, à 8°01′ du Taureau pour une naissance en 2026. Ceux qui utilisent les étoiles lisent à sa lumière une planète ou un angle à un degré environ de cette longitude. Son nom arabe veut dire la tête du bélier, même si le catalogue de Ptolémée la plaçait juste hors de la figure."
+    a: "La plus brillante du Bélier, Alpha du Bélier, à 8°01′ du Taureau pour une naissance en 2026 ; toute planète ou tout angle entre 7°01′ et 9°01′ du Taureau environ lui est conjoint. Son nom arabe veut dire la tête du bélier, même si le catalogue de Ptolémée la plaçait juste hors de la figure."
   - q: "Quand le Soleil est-il conjoint à Hamal ?"
     a: "Pour les naissances vers les 27 et 28 avril, chaque année de 1930 à 2009. Ces anniversaires placent le Soleil sur le degré de la plus brillante du Bélier alors que le Soleil lui-même est en Taureau, et c’est ce signe qu’un thème lit."
   - q: "Le nom El Nath désigne-t-il aussi Hamal ?"
@@ -41,19 +41,19 @@ Hamal est l’étoile la plus brillante du Bélier, la constellation qui a donn�
 
 Hamal est Alpha du Bélier, une géante orangée de magnitude 2,00, à quelque 66 années-lumière, environ 15 fois plus large que le Soleil. Depuis 2011, on lui prête une planète d’au moins 1,8 fois la masse de Jupiter, sur une orbite de 381 jours. Sa déclinaison est presque exactement la latitude du tropique du Cancer : elle passe donc au zénith le long de cette ligne.
 
-Dans le zodiaque tropical, elle se trouvait à 6°40′ du [Taureau](/astrology/taurus/) pour une naissance en 1930, à 7°39′ en 2000 et à 8°01′ en 2026. Sa latitude est de 10,0° au nord de l’[écliptique](/astrology/ecliptic/), environ deux fois plus loin que la Lune ne s’en écarte jamais. Entre Mirach, d’Andromède, à 0°46′ du Taureau et [Menkar](/astrology/menkar/), de la Baleine, à 14°41′, elle fait partie de plusieurs étoiles d’autres constellations dans la première moitié du signe.
+Sur le zodiaque tropical, son degré est passé de 6°40′ du [Taureau](/astrology/taurus/) pour une naissance en 1930 à 7°39′ en 2000 et à 8°01′ en 2026. Sa latitude est de 10,0° au nord de l’[écliptique](/astrology/ecliptic/), environ deux fois la plus grande distance que la Lune puisse atteindre. Entre Mirach, d’Andromède, à 0°46′ du Taureau et [Menkar](/astrology/menkar/), de la Baleine, à 14°41′, elle fait partie de plusieurs étoiles d’autres constellations dans la première moitié du signe.
 
-La raison en est la [précession](/astrology/precession-of-the-equinoxes/). Entre 2000 et 100 avant notre ère environ, le Soleil se trouvait dans la constellation du Bélier à l’équinoxe de mars : c’est pourquoi le zodiaque, et chaque rubrique d’horoscope, commence par le [Bélier](/astrology/aries/). Le zodiaque tropical reste attaché à cet équinoxe ; l’équinoxe a reculé depuis dans les Poissons, et sur l’échelle du zodiaque, les étoiles mêmes du Bélier sont passées dans le Taureau ([constellations et signes](/astrology/constellations-versus-signs/)).
+Si Hamal se trouve dans le Taureau, c’est à cause de la [précession des équinoxes](/astrology/precession-of-the-equinoxes/). Entre 2000 et 100 avant notre ère environ, le Soleil se trouvait dans la constellation du Bélier à l’équinoxe de mars : c’est pourquoi le zodiaque, et chaque rubrique d’horoscope, commence par le [Bélier](/astrology/aries/). Le zodiaque tropical reste attaché à cet équinoxe ; l’équinoxe a reculé depuis dans les Poissons, et sur l’échelle du zodiaque, les étoiles mêmes du Bélier sont passées dans le Taureau ([constellations et signes](/astrology/constellations-versus-signs/)).
 
 ## Sa tradition {#sa-tradition}
 
-Le nom est arabe : rās al-ħamal, la tête du bélier, d’al-ħamal, le bélier, nom arabe de toute la constellation. Ptolémée l’a pourtant laissée hors de la figure. Son Almageste rapporte qu’Hipparque la plaçait au museau du bélier, mais la range parmi les étoiles informes, comme « l’étoile au-dessus de la tête », et l’atlas de John Flamsteed l’a ensuite dessinée là.
+Les astronomes arabes appelaient toute la constellation al-ħamal, le bélier, et cette étoile rās al-ħamal, sa tête, d’où Hamal. Ptolémée l’a pourtant laissée hors de la figure. Son Almageste rapporte qu’Hipparque la plaçait au museau du bélier, mais la range parmi les étoiles informes, comme « l’étoile au-dessus de la tête », et l’atlas de John Flamsteed l’a ensuite dessinée là.
 
 Un autre nom arabe, El Nath ou Alnath, le coup de corne, a lui aussi appartenu à Hamal, et Geoffrey Chaucer l’employait ainsi. Il est passé depuis à Bêta du Taureau, la pointe de la corne du Taureau, que ce site appelle [El Nath](/astrology/el-nath/). Dans l’astronomie chinoise, Hamal est la troisième étoile du Lien, l’une des 28 loges lunaires ([astrologie chinoise](/astrology/chinese-astrology/)).
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le seul contact que la tradition reconnaisse est la conjonction : une planète ou un angle à un degré environ de la longitude de Hamal, soit de 7°01′ à 9°01′ du Taureau pour une naissance en 2026, ou de 5°40′ à 7°40′ pour une naissance en 1930 ([conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/)). Le Soleil traverse cet intervalle vers les 27 et 28 avril : ces anniversaires donnent un [Soleil en Taureau](/astrology/sun-in-taurus/) posé sur la plus brillante du Bélier. Le signe et l’étoile racontent deux histoires différentes, et c’est sur le signe qu’un thème se construit.
+Le seul contact que la tradition reconnaisse est la conjonction : une planète ou un angle à un degré environ de la longitude de Hamal, soit de 7°01′ à 9°01′ du Taureau pour une naissance en 2026, ou de 5°40′ à 7°40′ pour une naissance en 1930 ([conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/)). Les anniversaires des 27 et 28 avril environ y placent le Soleil : un [Soleil en Taureau](/astrology/sun-in-taurus/) posé sur la plus brillante du Bélier. Le signe et l’étoile racontent deux histoires différentes, et c’est sur le signe qu’un thème se construit.
 
 Saturne était sur le degré de Hamal pour des naissances en mai 1940, à certains moments de 1969–70 et au printemps 1999. Pour la Lune, qui met quelques heures à passer, et pour les angles, qui mettent quelques minutes, seule l’heure de naissance peut le dire ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 

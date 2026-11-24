@@ -10,7 +10,7 @@ categories: ["Étoiles"]
 tags: ["Lesath", "étoiles fixes"]
 weight: 56
 glyph: "★"
-definition: "Lesath est l’étoile fixe υ Scorpii, la plus faible des deux étoiles du dard du Scorpion, à 24°22′ du Sagittaire dans le zodiaque tropical en 2026. On lit son nom comme l’arabe pour une piqûre, mais il est né d’une mauvaise lecture d’al-laṭkha, « la tache brumeuse ». Elle suit Shaula à 35′ de longitude seulement."
+definition: "Lesath, υ Scorpii, est la plus faible des étoiles fixes du dard du Scorpion, à 24°22′ du Sagittaire en 2026, à 35′ de longitude seulement derrière Shaula. On lit son nom comme l’arabe pour une piqûre, mais il est né d’une mauvaise lecture d’al-laṭkha, « la tache brumeuse », le nom de l’amas flou voisin."
 facts:
   - { k: "Constellation", v: "Scorpion : υ Scorpii, dans le dard" }
   - { k: "Éclat", v: "Magnitude 2,69" }
@@ -38,7 +38,7 @@ Lesath est la plus faible des deux étoiles du dard du Scorpion, à la magnitude
 
 ## Où elle se trouve {#ou-elle-se-trouve}
 
-Lesath, c’est υ Scorpii, numéro 6508 du Yale Bright Star Catalogue, une sous-géante bleu-blanc très chaude à environ 580 années-lumière, d’à peu près onze fois la masse du Soleil, qui rayonne quelque 12 300 fois sa lumière. Dans le ciel, elle se tient tout contre [Shaula](/astrology/shaula/), et on appelle parfois les deux les Yeux du chat.
+Cataloguée sous le nom d’υ Scorpii, numéro 6508 du Yale Bright Star Catalogue, Lesath est une sous-géante bleu-blanc très chaude à environ 580 années-lumière, d’à peu près onze fois la masse du Soleil, qui rayonne quelque 12 300 fois sa lumière. Dans le ciel, elle se tient tout contre [Shaula](/astrology/shaula/), et on appelle parfois les deux les Yeux du chat.
 
 Dans le zodiaque tropical, elle était à 24°00′ du [Sagittaire](/astrology/sagittarius/) en 2000, pile sur le degré, et elle est à 24°22′ en 2026, avec une latitude de 14,0° au sud de l’[écliptique](/astrology/ecliptic/). Sa fenêtre d’un degré de part et d’autre, de 23°22′ à 25°22′ en 2026, recouvre celle de Shaula sur 1°25′ de ses 2°. La plupart des planètes qui rencontrent l’une des étoiles du dard rencontrent donc les deux, et seuls les premiers 35′, de 23°22′ à 23°57′, n’appartiennent qu’à Lesath ([conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/)).
 
@@ -46,7 +46,7 @@ Dans le zodiaque tropical, elle était à 24°00′ du [Sagittaire](/astrology/s
 
 Le nom de Lesath a son histoire. On le rattache d’ordinaire à l’arabe las‘a, la morsure ou la piqûre d’une bête venimeuse, ce qui convient à une étoile du dard. Mais cette lecture est une correction malheureuse de Scaliger, un astronome européen qui savait l’arabe, à partir d’une forme plus ancienne, Alascha, venue de l’arabe al-laṭkha, la tache brumeuse. Cette tache brumeuse, c’était l’amas flou voisin du dard, celui que les astrologues appellent [Acumen](/astrology/acumen/). La seconde étoile du dard porte ainsi, par une erreur de plume, un nom qui revenait à un nuage d’étoiles.
 
-Plus anciennement encore, le recueil babylonien d’étoiles appelé MUL.APIN cite Lesath et Shaula ensemble, sous les noms de Sharur et Shargaz. En copte, la paire s’appelait Minamref, et le peuple boorong du nord-ouest du Victoria, en Australie, les nommait Karik Karik, les faucons. En Chine, Lesath est la neuvième étoile de Wěi, la Queue.
+Plus anciennement encore, le recueil babylonien d’étoiles appelé MUL.APIN cite Lesath et Shaula ensemble, sous les noms de Sharur et Shargaz. En copte, la paire s’appelait Minamref, et le peuple boorong du nord-ouest du Victoria, en Australie, les nommait Karik Karik, les faucons. Les astronomes chinois la comptaient comme la neuvième étoile de Wěi, la Queue, juste après Shaula.
 
 Les deux mêmes points de lumière ont donc été Sharur et Shargaz, deux faucons, le bout d’une queue et deux yeux de chat, selon qui regardait ; le sens venait du regard.
 

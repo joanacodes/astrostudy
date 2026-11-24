@@ -9,7 +9,7 @@ categories: ["Stars"]
 tags: ["Antares", "fixed stars", "royal stars"]
 weight: 10
 glyph: "★"
-definition: "Antares is the red fixed star at the heart of Scorpius, the Scorpion, at 10°07′ Sagittarius in the tropical zodiac in 2026. Its Greek name means rival of Ares, for a colour like Mars, and astrology counts it among the four royal stars. Its tradition is read into a planet at 9° to 11° Sagittarius."
+definition: "Antares, the red fixed star at the heart of Scorpius, the Scorpion, falls at 10°07′ Sagittarius in the tropical zodiac in 2026. Its Greek name means rival of Ares, for a colour like Mars, and astrology counts it among the four royal stars. The tradition hands that Mars-like colour to any planet from 9° to 11° Sagittarius."
 facts:
   - { k: "Constellation", v: "Scorpius (α Scorpii), its brightest star" }
   - { k: "Brightness", v: "Magnitude 0.96, varying between about 0.6 and 1.6" }
@@ -24,11 +24,11 @@ faq:
   - q: "What does Antares mean in astrology?"
     a: "Antares is the heart of the Scorpion, named in Greek as the rival of Ares, the planet Mars, for its red colour. Astrology counts it among the four royal stars, and medieval magic among the fifteen Behenian stars. A likeness to Mars is a colour, not a verdict: Mars itself stands for effort and initiative."
   - q: "What degree is Antares?"
-    a: "10°07′ Sagittarius in 2026, in the tropical zodiac. It stood at 8°46′ Sagittarius in 1930 and 9°45′ in 2000, gaining about a degree every 72 years. It belongs to the constellation Scorpius but sits in the sign of Sagittarius, because signs and constellations no longer line up."
+    a: "In the sign after the one its constellation names: 10°07′ Sagittarius in 2026, up from 8°46′ in 1930 and 9°45′ in 2000. Antares belongs to the constellation Scorpius, but the tropical signs have drifted nearly a sign’s width from the constellations they were named after."
   - q: "Is Antares a royal star?"
     a: "Astrology books name it as one, with Aldebaran, Regulus and Fomalhaut. Of the four, it has the best claim: the Zoroastrian sources list commanders of the sky’s quarters, and their commander of the south is most likely Antares. The other commanders are Sirius, Vega and the Great Bear."
   - q: "When is the Sun conjunct Antares?"
-    a: "For births on about 1 and 2 December, in every year from 1930 to 2009: about 1 person in 185. On those days the Sun passes about five degrees north of Antares, so the two share a zodiac degree without the Sun covering the star."
+    a: "The first two days of December carry it: a birth then puts the Sun on the Scorpion’s heart, as it did for about 1 person in 185 between 1930 and 2009. On those days the Sun passes some five degrees north of the star rather than over it."
 sources:
   - { title: "Yale Bright Star Catalogue, 5th ed. (Hoffleit and Warren, 1991)", note: "Antares’s coordinates and magnitude, precessed to 1930, 2000 and 2026, and the contact counts worked out from them" }
   - { title: "R. H. Allen, Star Names: Their Lore and Meaning (1899; Dover reprint, 1963), and Hermann Hunger, The Babylonian Astronomical Compendium MUL.APIN (2019), via Wikipedia, “Antares”", url: "https://en.wikipedia.org/wiki/Antares", note: "its names, its brightness and occultations, the royal and Behenian lists" }
@@ -38,7 +38,7 @@ Antares is the red heart of the Scorpion, a supergiant so like Mars in colour th
 
 ## Where it is {#where-it-is}
 
-Antares is α Scorpii, catalogued at magnitude 0.96, though the vast star drifts between about 0.6 and 1.6 as it slowly pulses; on average it is the fifteenth-brightest star of the night sky. Its tropical position was 8°46′ Sagittarius in 1930, 9°45′ in 2000 and 10°07′ in 2026, and [Sagittarius](/astrology/sagittarius/) will hold it for many centuries yet, whatever the constellation maps say ([constellations versus signs](/astrology/constellations-versus-signs/)).
+Antares is α Scorpii, catalogued at magnitude 0.96, though the vast star drifts between about 0.6 and 1.6 as it slowly pulses; on average it is the fifteenth-brightest star of the night sky. From 8°46′ in 1930 to 9°45′ in 2000 and 10°07′ in 2026, it has stayed in [Sagittarius](/astrology/sagittarius/), and will for many centuries yet, whatever the constellation maps say ([constellations versus signs](/astrology/constellations-versus-signs/)).
 
 It lies 4.6° south of the ecliptic, one of four first-magnitude stars within six degrees of the Sun's path, with [Regulus](/astrology/regulus/), Spica and Aldebaran. The Moon passes in front of Antares in cycles that follow the 18.6-year round of the lunar nodes, and the current cycle began in 2023. Around 2 December the Sun goes by about five degrees to the north. Venus last covered the star in 525 BC and will next do so in 2400.
 
@@ -50,6 +50,6 @@ Medieval magic counted Antares among the fifteen Behenian stars, and astrology c
 
 ## In a birth chart {#in-a-birth-chart}
 
-Born on about 1 or 2 December, you have the [Sun conjunct Antares](/astrology/sun-conjunct-antares/), a Sagittarius Sun: about 1 person in 185 among births from 1930 to 2009. The Moon meets it a little more often than the 1 in 180 that chance would give, [Moon conjunct Antares](/astrology/moon-conjunct-antares/) about 1 in 171; [Venus conjunct Antares](/astrology/venus-conjunct-antares/) and [Mars conjunct Antares](/astrology/mars-conjunct-antares/) less often, about 1 in 212 and 1 in 210; and [Saturn conjunct Antares](/astrology/saturn-conjunct-antares/) about 1 in 163, for births from December 1956 to October 1957 or from February to November 1986.
+Early-December birthdays, the 1st and 2nd, bring the [Sun conjunct Antares](/astrology/sun-conjunct-antares/), a Sagittarius Sun with the Scorpion's heart on its degree: about 1 person in 185 between 1930 and 2009. The Moon meets it a little more often than the 1 in 180 that chance would give, [Moon conjunct Antares](/astrology/moon-conjunct-antares/) about 1 in 171; [Venus conjunct Antares](/astrology/venus-conjunct-antares/) and [Mars conjunct Antares](/astrology/mars-conjunct-antares/) less often, about 1 in 212 and 1 in 210; and [Saturn conjunct Antares](/astrology/saturn-conjunct-antares/) about 1 in 163, for births from December 1956 to October 1957 or from February to November 1986.
 
-A star named after Mars invites hot, hasty readings, and I'd rather slow those down. As I read Mars itself, it is effort and initiative, not anger, and a planet on Antares keeps its own work in the chart. Antares doesn't come into my own readings at all, as the system I built for them places no stars; this page sets out what the tradition does with the rival of Ares ([How I read](/how-i-read/)).
+A star named after Mars invites hot, hasty readings, and I'd rather slow those down. As I read Mars itself, it is effort and initiative, not anger, and a planet on Antares keeps its own work in the chart. Antares doesn't come into my own readings at all, since the charts I work from are drawn without stars; this page sets out what the tradition does with the rival of Ares ([How I read](/how-i-read/)).

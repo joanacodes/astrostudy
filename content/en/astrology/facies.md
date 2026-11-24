@@ -5,9 +5,11 @@ description: "Facies, the fixed star of astrology that is really a globular clus
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "stars"
+categories: ["Stars"]
+tags: ["Facies", "fixed stars"]
 weight: 58
 glyph: "★"
-definition: "Facies is the globular cluster Messier 22, in Sagittarius, which astrologers count among the fixed stars; its name is Latin for face. Its centre works out at about 8°40′ Capricorn for 2026. It lies only 0.7° south of the ecliptic, so the Moon and planets that reach its degree really pass across it in the sky."
+definition: "Facies, Latin for face, is astrology’s name for Messier 22, a globular cluster in Sagittarius treated as a fixed star. Measured at its centre, it stands near 8°40′ Capricorn in 2026. It lies only 0.7° south of the ecliptic, so the Moon and planets that reach its degree really pass across it in the sky."
 facts:
   - { k: "What it is", v: "A globular cluster: Messier 22 (NGC 6656)" }
   - { k: "Constellation", v: "Sagittarius" }
@@ -20,13 +22,13 @@ facts:
 related: ["/astrology/aculeus", "/astrology/sabik", "/astrology/capricorn", "/astrology/fixed-stars-in-astrology", "/astrology/celestial-latitude"]
 faq:
   - q: "What is Facies in astrology?"
-    a: "Facies is the name astrology gives to Messier 22, a globular cluster of tens of thousands of stars in the constellation Sagittarius, counted among the fixed stars. The name is Latin for face. Its centre sits at about 8°40′ Capricorn in 2026, and a planet within about a degree of that counts as conjunct it."
+    a: "Facies is astrology’s name for Messier 22, a globular cluster of tens of thousands of stars in Sagittarius, listed with the fixed stars. The name is Latin for face. Unlike most of them, it lies almost on the Sun’s path, so the planets that reach its degree, near 8°40′ Capricorn in 2026, really cross it."
   - q: "Where is Facies in the zodiac?"
-    a: "About 8°40′ Capricorn in 2026 and 8°18′ in 2000, worked out from the centre astronomers measure for the cluster, since a cluster has no entry in the Yale Bright Star Catalogue. It belongs to the constellation Sagittarius but sits in the sign of Capricorn, and it spreads about a quarter of a degree either side."
+    a: "Near 8°40′ Capricorn in 2026 and 8°18′ in 2000. Those degrees are taken from the cluster’s centre, since clusters have no entry in the Yale Bright Star Catalogue, and its stars spread about a quarter of a degree either side. It belongs to the constellation Sagittarius but sits in the sign of Capricorn."
   - q: "Do the planets pass over Facies?"
     a: "Yes, and that sets it apart from most fixed stars. It lies only 0.7° from the ecliptic, so Mercury, Venus and Mars cross the cluster itself every few years, and the Moon passes in front of it in some seasons, as it did in 2020 and will again in 2028. Uranus went within half a degree in June 1990."
   - q: "When is the Sun conjunct Facies?"
-    a: "For births on about 29 and 30 December, a week or so after the December solstice. On those days the Sun passes less than a degree north of the cluster’s centre, a real meeting in the sky, though the cluster is then lost in daylight and can’t be seen."
+    a: "On 29 and 30 December or thereabouts, a week or so after the December solstice. On those days the Sun passes less than a degree north of the cluster’s centre, a real meeting in the sky, though the cluster is then lost in daylight and can’t be seen."
 sources:
   - { title: "Ryan Goldsbury et al., “The ACS Survey of Galactic Globular Clusters. X” (2010), and the Galactic Globular Clusters Database, via Wikipedia, “Messier 22”", url: "https://en.wikipedia.org/wiki/Messier_22", note: "the cluster’s centre (18h 36m 24s, −23°54′, J2000), brightness, size and distance; Ihle in 1665, Messier, Shapley, the planetary nebula" }
   - { title: "The Astro Study’s count from the planets’ positions and the cluster’s centre, 1930–2030", note: "its degree for 2000 and 2026; the Sun’s dates; the years Neptune, Saturn and Uranus crossed it; how close the Moon and planets come" }
@@ -52,8 +54,8 @@ The meanings now attached to Facies in astrology books come from compilations I 
 
 ## In a birth chart {#in-a-birth-chart}
 
-The Sun reaches Facies on about 29 and 30 December, about a week into its stay in Capricorn ([Sun in Capricorn](/astrology/sun-in-capricorn/)). Because the cluster lies on the ecliptic, that is a conjunction in the full sense: the Sun and the cluster share a patch of sky as well as a degree.
+On about 29 and 30 December, a week into Capricorn, the Sun comes to Facies ([Sun in Capricorn](/astrology/sun-in-capricorn/)). Because the cluster lies on the ecliptic, that is a conjunction in the full sense: the Sun and the cluster share a patch of sky as well as a degree.
 
 Between 1987 and 1990, three slow planets crossed its degree in turn: Neptune in 1987 and 1988 ([Neptune in Capricorn](/astrology/neptune-in-capricorn/)), Saturn in 1989, and Uranus in 1990, which passed less than half a degree from the cluster in June of that year. With a cluster half a degree wide, the one-degree orb is counted from its centre ([conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/)).
 
-Facies stays outside my readings, as every star and cluster does; the system I built doesn't place them in a chart ([How I read](/how-i-read/)). Its neighbour in this encyclopaedia, [Aculeus](/astrology/aculeus/), is a cluster of another kind, younger and scattered, in the Scorpion's sting.
+I leave Facies out of my readings, as I leave out every star and cluster; the system I built doesn't place them in a chart ([How I read](/how-i-read/)). [Aculeus](/astrology/aculeus/), near the Scorpion's sting, is a cluster of another kind: younger, looser and much nearer.

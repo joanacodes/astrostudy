@@ -10,7 +10,7 @@ categories: ["Étoiles"]
 tags: ["El Nath", "étoiles fixes"]
 weight: 43
 glyph: "★"
-definition: "El Nath est l’étoile fixe Bêta du Taureau, la pointe de la corne nord du Taureau, à 22°56′ des Gémeaux. Elle se trouve à 5,4° seulement au nord de la route du Soleil, assez près pour que la Lune passe devant elle. Dans un thème natal, une planète à un degré de sa longitude lui est conjointe."
+definition: "El Nath est l’étoile fixe Bêta du Taureau, la pointe de la corne nord du Taureau, à 22°56′ des Gémeaux. Elle se trouve à 5,4° seulement au nord de la route du Soleil, assez près pour que la Lune passe devant elle : une Lune natale vers 23° des Gémeaux a pu la rencontrer vraiment."
 facts:
   - { k: "Constellation", v: "Le Taureau : β Tauri, autrefois aussi γ Aurigae" }
   - { k: "Éclat", v: "Magnitude 1,65, deuxième du Taureau après Aldébaran" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/hamal", "/astrology/menkalinan", "/astrology/aldebaran", "/astrology/gemini", "/astrology/fixed-stars-in-astrology"]
 faq:
   - q: "Qu’est-ce qu’El Nath en astrologie ?"
-    a: "L’étoile fixe Bêta du Taureau, la pointe de sa corne, à 22°56′ des Gémeaux en 2026. Ceux qui utilisent les étoiles lisent sa nature traditionnelle dans une planète ou un angle à un degré environ de cette longitude. Elle est assez proche de la route du Soleil pour que la Lune, de temps à autre, passe devant elle."
+    a: "La pointe de la corne du Taureau, Bêta du Taureau, à 22°56′ des Gémeaux en 2026. Dans la tradition, une planète ou un angle entre 21°56′ et 23°56′ des Gémeaux environ prend sa couleur. Fait rare, la Lune peut parfois passer juste devant elle : un contact lunaire peut alors être réel dans le ciel."
   - q: "El Nath est-elle dans le Taureau ou dans le Cocher ?"
     a: "Dans le Taureau, officiellement. Ptolémée comptait l’étoile à la fois dans le Taureau et dans le Cocher, et Bayer lui a donné deux lettres, Bêta du Taureau et Gamma du Cocher. Quand les limites modernes des constellations ont été fixées, en 1930, elle a été laissée au Taureau. Dans le zodiaque tropical, pourtant, elle se trouve dans les Gémeaux."
   - q: "La Lune peut-elle cacher El Nath ?"
@@ -46,14 +46,14 @@ Sa position tropicale était de 21°35′ des [Gémeaux](/astrology/gemini/) pou
 
 ## Sa tradition {#sa-tradition}
 
-Le nom est arabe, an-naṭḥ, le coup de corne, comme lorsqu’un taureau frappe de ses cornes ; écrit avec l’article en entier, il est devenu El Nath, Elnath ou Alnath. Le même nom a désigné autrefois [Hamal](/astrology/hamal/), la plus brillante du Bélier, et Geoffrey Chaucer l’employait ainsi.
+Les astronomes arabes l’appelaient an-naṭḥ, le coup de corne, comme lorsqu’un taureau frappe de ses cornes ; écrit avec l’article en entier, il est devenu El Nath, Elnath ou Alnath. Le même nom a désigné autrefois [Hamal](/astrology/hamal/), la plus brillante du Bélier, et Geoffrey Chaucer l’employait ainsi.
 
 Ptolémée considérait l’étoile comme partagée entre le Taureau et le Cocher, et Johann Bayer lui a donné une lettre dans chacun, Bêta du Taureau et Gamma du Cocher ; quand les limites des constellations ont été fixées, en 1930, elle a été laissée au Taureau. L’astronomie chinoise a gardé le lien avec le Cocher : El Nath est la cinquième des Cinq Chars, un astérisme qu’elle partage avec [Capella](/astrology/capella/) et [Menkalinan](/astrology/menkalinan/).
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-À un degré de part et d’autre, la fenêtre d’El Nath couvre de 21°56′ à 23°56′ des Gémeaux pour une naissance en 2026, et de 20°35′ à 22°35′ pour une naissance en 1930, et une conjonction à l’intérieur est tout ce que demande la tradition ([conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/)). Le Soleil la remplit vers les 13 et 14 juin. Saturne y était pour des naissances à certains moments de 1943–44, à la fin mai et au début juin 1973, et en 2002–03.
+À un degré de part et d’autre, la fenêtre d’El Nath couvre de 21°56′ à 23°56′ des Gémeaux pour une naissance en 2026, et de 20°35′ à 22°35′ pour une naissance en 1930, et une conjonction à l’intérieur est tout ce que demande la tradition ([conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/)). Le Soleil la remplit vers les 13 et 14 juin. Les passages de Saturne sont tombés à certains moments de 1943–44, à la fin mai et au début juin 1973, et en 2002–03.
 
 La Lune est le cas intéressant. Une Lune natale sur le degré d’El Nath a pu, avec la bonne latitude, passer devant l’étoile au moment même de la naissance : une vraie rencontre dans le ciel, pas seulement un chiffre partagé. Savoir si la Lune s’y trouvait est une affaire d’heure, puisqu’il ne lui faut que quatre heures environ pour traverser ces deux degrés ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)).
 
-Je ne lis pas les étoiles, et le système que j’ai construit pour mes lectures ne leur fait aucune place ([Ma méthode](/how-i-read/)). Ce que je peux vous dire d’El Nath, c’est où elle se trouve et à quel point la Lune s’en approche, et c’est ce que cette page expose.
+Où se trouve El Nath, et à quel point la Lune s’en approche, voilà ce que je peux vous dire ; la lire est une autre affaire, puisque le système que j’ai construit pour mes lectures ne fait aucune place aux étoiles ([Ma méthode](/how-i-read/)).

@@ -9,7 +9,7 @@ categories: ["Stars"]
 tags: ["Ras Algethi", "fixed stars"]
 weight: 53
 glyph: "★"
-definition: "Ras Algethi is the fixed star α Herculis, the head of the Kneeler, the figure now called Hercules, at 16°31′ Sagittarius in the tropical zodiac in 2026. It is a pulsating red giant whose brightness wanders between about magnitude 2.7 and 4.0, and it lies 37.3° north of the ecliptic, far from any planet’s path."
+definition: "Ras Algethi, α Herculis, marks the head of the Kneeler, the figure now called Hercules, and as a fixed star it falls at 16°31′ Sagittarius in 2026. It is a pulsating red giant whose brightness wanders between about magnitude 2.7 and 4.0, and it lies 37.3° north of the ecliptic, far from any planet’s path."
 facts:
   - { k: "Constellation", v: "Hercules: α¹ Herculis, the Kneeler’s head" }
   - { k: "Brightness", v: "Magnitude 3.48 in the catalogue; it varies from about 2.7 to 4.0" }
@@ -26,7 +26,7 @@ faq:
   - q: "Is Ras Algethi a variable star?"
     a: "Yes. It is a red giant near the end of its life that swells and shrinks, and its light follows: the full range runs from about magnitude 2.7 to 4.0, though it usually moves within about 0.6 of a magnitude. Its changes repeat over weeks and over years; the strongest cycle lasts 128 days."
   - q: "Where is Ras Algethi in the zodiac?"
-    a: "At 16°31′ Sagittarius in 2026, in the tropical zodiac, against 16°08′ in 2000. It lies 37.3° north of the ecliptic, the Sun’s path, so no planet ever passes near it in the sky: a conjunction with Ras Algethi is a matter of sharing its degree of longitude, measured along the zodiac."
+    a: "Six degrees short of Rasalhague: 16°31′ Sagittarius in 2026, 16°08′ in 2000. It lies 37.3° north of the ecliptic, the Sun’s path, so no planet ever passes near it in the sky: a conjunction with Ras Algethi is a matter of sharing its degree of longitude, measured along the zodiac."
   - q: "When is the Sun conjunct Ras Algethi?"
     a: "For births on about 7 and 8 December, a few days before the Sun reaches Rasalhague, the star’s neighbour in the sky. On those days the Sun is 37° south of the star, in front of the stars of Ophiuchus, with Ras Algethi far to the north."
 sources:
@@ -42,7 +42,7 @@ Ras Algethi is α¹ Herculis, number 6406 in the Yale Bright Star Catalogue; the
 
 It is a red giant near the end of its life, about 360 light-years away, so swollen that in the Sun's place it would reach past the Earth's orbit. It pulsates, and its brightness follows: the full range runs from magnitude 2.7 to 4.0, though it usually moves within about 0.6 of a magnitude, in cycles of a few weeks to several years. The strongest repeats every 128 days.
 
-In the tropical zodiac it stood at 16°08′ [Sagittarius](/astrology/sagittarius/) in 2000 and stands at 16°31′ in 2026. Its latitude is 37.3° north of the [ecliptic](/astrology/ecliptic/), even further than its neighbour [Rasalhague](/astrology/rasalhague/), the head of Ophiuchus, 5° to the east-south-east: the two may be among the closest pairs of alpha stars in the whole sky. At that distance from the ecliptic, no planet ever passes near it; a chart can only line one up with its degree ([celestial latitude](/astrology/celestial-latitude/)).
+Its degree, 16°08′ [Sagittarius](/astrology/sagittarius/) in 2000 and 16°31′ in 2026, comes six degrees before that of its neighbour [Rasalhague](/astrology/rasalhague/), the head of Ophiuchus, which shines 5° to the east-south-east: the two may be among the closest pairs of alpha stars in the whole sky. Its latitude, 37.3° north of the [ecliptic](/astrology/ecliptic/), is even greater than Rasalhague's. At that distance from the ecliptic, no planet ever passes near it; a chart can only line one up with its degree ([celestial latitude](/astrology/celestial-latitude/)).
 
 ## Its tradition {#its-tradition}
 

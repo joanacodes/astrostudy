@@ -9,7 +9,7 @@ categories: ["Stars"]
 tags: ["Unukalhai", "fixed stars"]
 weight: 54
 glyph: "★"
-definition: "Unukalhai is the fixed star α Serpentis, the brightest star of Serpens, at 22°26′ Scorpio in the tropical zodiac in 2026. Its Arabic name means the serpent’s neck and its Latin one, Cor Serpentis, the serpent’s heart. It lies 25.5° north of the ecliptic; the Sun reaches its degree around 13–14 November."
+definition: "Unukalhai, brightest of the stars of Serpens, is the fixed star α Serpentis, and its degree lies in Scorpio: 22°26′ in 2026. Its Arabic name means the serpent’s neck and its Latin one, Cor Serpentis, the serpent’s heart. It lies 25.5° north of the ecliptic; the Sun reaches its degree around 13–14 November."
 facts:
   - { k: "Constellation", v: "Serpens: α Serpentis, in the Serpent’s head (Serpens Caput)" }
   - { k: "Brightness", v: "Magnitude 2.65, the brightest star of Serpens" }
@@ -24,9 +24,9 @@ faq:
   - q: "What does Unukalhai mean?"
     a: "The name comes from the Arabic ʽunuq al-ḥayya, the serpent’s neck, because the star sits in the head half of Serpens, the snake held by Ophiuchus. Its Latin name, Cor Serpentis, calls it the serpent’s heart instead. The names describe its place in a figure; neither is a judgement on anyone with a planet on its degree."
   - q: "Where is Unukalhai in the zodiac?"
-    a: "At 22°26′ Scorpio in 2026, in the tropical zodiac, against 22°04′ in 2000: it advances about a degree every 72 years. It lies 25.5° north of the ecliptic, so the Moon and planets pass far to the south of it, and a conjunction with Unukalhai is a matter of sharing its degree."
+    a: "In the third decan of Scorpio: 22°26′ in 2026 and 22°04′ in 2000, as precession moves it on about a degree every 72 years. With a latitude of 25.5° north, it is never approached in the sky by the Moon or the planets; a conjunction with it is a shared degree of longitude."
   - q: "When is the Sun conjunct Unukalhai?"
-    a: "On about 13 and 14 November, with the Sun in the third decan of Scorpio. Among people born from 1930 to 2009, about 1 in 185 has the Sun within a degree of Unukalhai’s longitude. That is about a week before the Sun leaves Scorpio for Sagittarius."
+    a: "Each year on about 13 and 14 November, about a week before the Sun moves on into Sagittarius. Of the people born from 1930 to 2009, about 1 in 185 has the Sun within a degree of Unukalhai’s longitude, all of them Scorpios."
   - q: "Why is a star of the Serpent in the sign of Scorpio?"
     a: "Because signs and constellations are two different maps. The tropical signs are twelve equal parts of the Sun’s yearly path, counted from the March equinox; the constellations are star figures of every size. Unukalhai’s longitude falls in Scorpio, while the Scorpion’s own sting lies further along, in the sign of Sagittarius."
 sources:
@@ -38,11 +38,11 @@ Unukalhai is the Serpent's neck, the brightest star of the one constellation tha
 
 ## Where it is {#where-it-is}
 
-Unukalhai is α Serpentis, number 5854 in the Yale Bright Star Catalogue, and at magnitude 2.65 the brightest star of Serpens. Serpens is the only constellation split into two separate parts: when Eugène Delporte drew the modern borders in the 1920s, he cut the snake into a head, Serpens Caput, to the west and a tail, Serpens Cauda, to the east, with the Serpent-bearer, Ophiuchus, standing between them. Unukalhai is in the head. It is an orange giant about 74 light-years away, some thirteen times as wide as the Sun.
+As α Serpentis, number 5854 in the Yale Bright Star Catalogue, Unukalhai shines at magnitude 2.65, the brightest star of Serpens. Serpens is the only constellation split into two separate parts: when Eugène Delporte drew the modern borders in the 1920s, he cut the snake into a head, Serpens Caput, to the west and a tail, Serpens Cauda, to the east, with the Serpent-bearer, Ophiuchus, standing between them. Unukalhai is in the head. It is an orange giant about 74 light-years away, some thirteen times as wide as the Sun.
 
-In the tropical zodiac it stood at 22°04′ [Scorpio](/astrology/scorpio/) in 2000 and stands at 22°26′ in 2026. So a star of the Serpent sits in the sign of the Scorpion, while the Scorpion's own sting, [Shaula](/astrology/shaula/), lies more than a month further along the Sun's year, in Sagittarius ([constellations versus signs](/astrology/constellations-versus-signs/)).
+With a degree of 22°04′ [Scorpio](/astrology/scorpio/) in 2000 and 22°26′ in 2026, a star of the Serpent sits in the sign of the Scorpion, while the Scorpion's own sting, [Shaula](/astrology/shaula/), lies more than a month further along the Sun's year, in Sagittarius ([constellations versus signs](/astrology/constellations-versus-signs/)).
 
-Its latitude is 25.5° north of the [ecliptic](/astrology/ecliptic/). The Moon and planets all pass well to the south of it, and in a birth chart they can share its degree, never its place in the sky.
+At 25.5° north of the [ecliptic](/astrology/ecliptic/), it is passed well to the south by the Moon and every planet: in a birth chart they can share its degree, never its place in the sky.
 
 ## Its tradition {#its-tradition}
 
@@ -54,7 +54,7 @@ A neck, a heart, a line, a state on a wall: Unukalhai's lore is a set of places 
 
 ## In a birth chart {#in-a-birth-chart}
 
-The Sun reaches Unukalhai on about 13 and 14 November, a week or so before it leaves Scorpio ([Sun in Scorpio](/astrology/sun-in-scorpio/)). A planet counts as on the star from 21°26′ to 23°26′ Scorpio in a 2026 chart, the single degree either side that this site uses ([conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/)).
+Mid-November brings the Sun to Unukalhai, on about the 13th and 14th, a week or so before it leaves Scorpio ([Sun in Scorpio](/astrology/sun-in-scorpio/)). A planet counts as on the star from 21°26′ to 23°26′ Scorpio in a 2026 chart, the single degree either side that this site uses ([conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/)).
 
 The slow planets stay longer, and come back. Neptune was within a degree of it, on and off, from December 1965 to October 1967 ([Neptune in Scorpio](/astrology/neptune-in-scorpio/)); Uranus in parts of 1979 and 1980; Pluto from late 1991 to the autumn of 1993 ([Pluto in Scorpio](/astrology/pluto-in-scorpio/)). A planet that slow crosses the star's degree, turns back over it while retrograde, then crosses it a third time, so people born many months apart can share the same contact ([natal retrograde planets](/blog/retrograde-planets/)).
 

@@ -10,7 +10,7 @@ categories: ["Étoiles"]
 tags: ["Sabik", "étoiles fixes"]
 weight: 57
 glyph: "★"
-definition: "Sabik est l’étoile fixe η Ophiuchi, la deuxième plus brillante d’Ophiuchus, à 18°20′ du Sagittaire dans le zodiaque tropical en 2026. Son nom arabe veut dire « celle qui précède », sans qu’on sache ce qu’elle précédait. À 7,2° au nord de l’écliptique, elle est assez près du chemin des planètes pour que Pluton la frôle en 2003."
+definition: "Sabik, η Ophiuchi, se classe deuxième parmi les étoiles d’Ophiuchus ; comme étoile fixe de l’astrologie, son degré en 2026 est 18°20′ du Sagittaire. Son nom arabe veut dire « celle qui précède », sans qu’on sache ce qu’elle précédait. À 7,2° au nord de l’écliptique, elle est assez près du chemin des planètes pour que Pluton la frôle en 2003."
 facts:
   - { k: "Constellation", v: "Ophiuchus : η Ophiuchi" }
   - { k: "Éclat", v: "Magnitude 2,43, deuxième d’Ophiuchus après Rasalhague" }
@@ -25,7 +25,7 @@ faq:
   - q: "Que signifie Sabik ?"
     a: "Sabik vient de l’arabe al-sābiq, celle qui précède. Ce que l’étoile devait précéder reste incertain : les savants qui ont remonté les noms d’étoiles modernes jusqu’à leurs sources n’ont pas trouvé de réponse claire. Un nom qui a perdu son objet est un appui bien mince, et je n’y lis aucune promesse."
   - q: "Où se trouve Sabik dans le zodiaque ?"
-    a: "À 18°20′ du Sagittaire en 2026, dans le zodiaque tropical, et à 17°57′ en 2000 ; elle avance d’environ un degré tous les 72 ans. Elle appartient à la constellation d’Ophiuchus et se trouve à 7,2° au nord de l’écliptique, plus près de la route du Soleil que la plupart des étoiles brillantes qui l’entourent."
+    a: "Le degré tropical de Sabik est 18°20′ du Sagittaire en 2026, 23′ de plus que les 17°57′ de 2000. Étoile de la constellation d’Ophiuchus, elle se trouve à 7,2° au nord de l’écliptique, plus près de la route du Soleil que la plupart des étoiles brillantes qui l’entourent."
   - q: "Quand le Soleil est-il en conjonction avec Sabik ?"
     a: "Vers le 9 et le 10 décembre, alors que le Soleil se tient devant la constellation d’Ophiuchus, à quelque 7° au sud de l’étoile. Environ 1 personne sur 186 née de 1930 à 2009 a le Soleil à moins d’un degré de la longitude de Sabik, une semaine avant que le Soleil n’atteigne les deux étoiles du dard du Scorpion."
   - q: "Les planètes passent-elles parfois près de Sabik ?"
@@ -38,9 +38,9 @@ Sabik est la deuxième étoile la plus brillante d’Ophiuchus, deux étoiles bl
 
 ## Où elle se trouve {#ou-elle-se-trouve}
 
-Sabik, c’est η Ophiuchi, numéro 6378 du Yale Bright Star Catalogue. À la magnitude 2,43, seule [Rasalhague](/astrology/rasalhague/), la tête du Serpentaire, la dépasse dans Ophiuchus. C’est un couple d’étoiles blanches à environ 88 années-lumière, qui tournent l’une autour de l’autre en 87,8 ans sur une orbite très étirée : au plus près, ce qui s’est produit pour la dernière fois en 2024, elles se trouvent à deux fois environ la distance de la Terre au Soleil. Toutes deux sont plus chaudes que le Soleil, et la plus brillante est à peu près deux fois et demie plus large.
+À la magnitude 2,43, η Ophiuchi n’est dépassée dans Ophiuchus que par [Rasalhague](/astrology/rasalhague/), la tête du Serpentaire. C’est un couple d’étoiles blanches à environ 88 années-lumière, qui tournent l’une autour de l’autre en 87,8 ans sur une orbite très étirée : au plus près, ce qui s’est produit pour la dernière fois en 2024, elles se trouvent à deux fois environ la distance de la Terre au Soleil. Toutes deux sont plus chaudes que le Soleil, et la plus brillante est à peu près deux fois et demie plus large.
 
-Dans le zodiaque tropical, elle était à 17°57′ du [Sagittaire](/astrology/sagittarius/) en 2000 ; elle est à 18°20′ en 2026. Le Soleil franchit ce degré chaque mois de décembre, au moment où il passe devant Ophiuchus, la constellation des gros titres sur le « treizième signe » ([Ophiuchus et le 13e signe](/astrology/ophiuchus-and-the-13th-sign/)).
+Son degré, 17°57′ du [Sagittaire](/astrology/sagittarius/) en 2000 et 18°20′ en 2026, est l’un de ceux que le Soleil franchit chaque mois de décembre, au moment où il passe devant Ophiuchus, la constellation des gros titres sur le « treizième signe » ([Ophiuchus et le 13e signe](/astrology/ophiuchus-and-the-13th-sign/)).
 
 C’est sa latitude qui distingue Sabik de la tête d’Ophiuchus. À 7,2° au nord de l’[écliptique](/astrology/ecliptic/), elle se trouve dans la bande d’environ 8° de part et d’autre où voyagent les planètes, mais hors de portée de la Lune, qui ne s’en écarte que d’environ 5° ([latitude céleste](/astrology/celestial-latitude/)). Vingt degrés plus loin dans le zodiaque, l’amas [Facies](/astrology/facies/), dans le Sagittaire, est plus près encore, à moins d’un degré de l’écliptique.
 
@@ -58,4 +58,4 @@ Le Soleil rejoint le degré de Sabik vers le 9 et le 10 décembre, un anniversai
 
 Le passage de Pluton avait quelque chose de rare. Son orbite est la plus inclinée de toutes les planètes qu’on lit dans un thème, et en octobre 2003, Pluton a croisé Sabik à environ 1,6° dans le ciel tout en se trouvant sur le degré de l’étoile : c’est le plus près qu’un contact avec Sabik s’approche d’une vraie rencontre des deux lumières. La Lune, elle, ne vient jamais à moins de 2° environ.
 
-Rien de tout cela n’entre dans mes lectures : le système que j’ai construit ne place pas les étoiles dans un thème, et je m’en tiens à ce qu’il mesure ([Ma méthode](/how-i-read/)). Pour les personnes nées à l’automne 2003, c’est tout de même un joli détail à connaître : Pluton et Sabik se trouvaient vraiment côte à côte dans le ciel cette saison-là.
+Mes lectures laissent tout cela de côté : le système que j’ai construit ne place pas les étoiles dans un thème, et je m’en tiens à ce qu’il mesure ([Ma méthode](/how-i-read/)). Pour les personnes nées à l’automne 2003, c’est tout de même un joli détail à connaître : Pluton et Sabik se trouvaient vraiment côte à côte dans le ciel cette saison-là.

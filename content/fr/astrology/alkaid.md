@@ -2,7 +2,7 @@
 title: "Alkaïd"
 slug: "alkaid"
 h1: "Alkaïd, l’étoile fixe"
-description: "Alkaïd en astrologie : la dernière étoile du timon du Grand Chariot, à 27° de la Vierge, le meneur du cortège dans son nom arabe, une étoile de Vénus et de la Lune."
+description: "Alkaïd en astrologie : le bout du timon du Grand Chariot, à 27° de la Vierge, le meneur d’un cortège dans son nom arabe, une étoile de Vénus et de la Lune."
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "stars"
@@ -10,7 +10,7 @@ categories: ["Étoiles"]
 tags: ["Alkaïd", "étoiles fixes", "étoiles béhéniennes"]
 weight: 17
 glyph: "★"
-definition: "Alkaïd est l’étoile fixe au bout du timon du Grand Chariot, dans la Grande Ourse, à 27°18′ de la Vierge dans le zodiaque tropical en 2026. Son nom arabe désigne le meneur des filles de la civière ; la magie médiévale l’a donnée à Vénus et à la Lune. À 54° au nord de la route du Soleil, elle ne rejoint les planètes que par le degré."
+definition: "Alkaïd est l’étoile fixe au bout du timon du Grand Chariot, à 27°18′ de la Vierge dans le zodiaque tropical en 2026. Son nom arabe en fait le meneur d’un cortège funèbre ; la magie médiévale la donnait à Vénus et à la Lune. À 54° de la route du Soleil, elle ne rejoint les planètes que par le degré."
 facts:
   - { k: "Constellation", v: "La Grande Ourse (η Ursae Majoris)" }
   - { k: "Éclat", v: "Magnitude 1,86, troisième étoile de la Grande Ourse" }
@@ -23,9 +23,9 @@ facts:
 related: ["/astrology/fixed-stars-in-astrology", "/astrology/procyon", "/astrology/algorab", "/astrology/conjunctions-to-fixed-stars", "/astrology/sun-in-virgo"]
 faq:
   - q: "Que signifie Alkaïd en astrologie ?"
-    a: "Dans la liste béhénienne médiévale, elle relève de Vénus et de la Lune, avec l’aimant pour pierre et la chicorée pour plante. Son nom arabe, le meneur des filles de la civière, fait du Grand Chariot un cortège funèbre. Ceux qui utilisent les étoiles la cherchent sur une planète dans les derniers degrés de la Vierge."
+    a: "Son nom arabe, le meneur des filles de la civière, fait du Grand Chariot un cortège funèbre, et la magie médiévale a donné l’étoile à Vénus et à la Lune, avec l’aimant et la chicorée. Dans un thème, cette tradition reposerait sur une planète des derniers degrés de la Vierge, à plus de cinquante degrés de l’étoile."
   - q: "Où se trouve Alkaïd dans le zodiaque ?"
-    a: "À 27°18′ de la Vierge en 2026, dans le zodiaque tropical ; elle était à 25°56′ de la Vierge en 1930 et à 26°55′ en 2000. Dans le ciel, elle se trouve à 54,4° au nord de l’écliptique, au bout du timon du Grand Chariot : aucune planète ne passe jamais près d’elle."
+    a: "Dans les derniers degrés de la Vierge, où elle restera près de deux siècles : 25°56′ en 1930, 26°55′ en 2000, 27°18′ en 2026. Dans le ciel, c’est le bout du timon du Grand Chariot, à 54,4° au nord de l’écliptique, et aucune planète ne passe jamais près d’elle."
   - q: "Alkaïd et Benetnasch sont-elles la même étoile ?"
     a: "Oui. Benetnasch est un nom traditionnel de la même étoile, η Ursae Majoris, au bout du timon du Grand Chariot ; l’Union astronomique internationale a choisi Alkaid comme nom officiel. Les anciennes listes d’étoiles et les livres d’astrologie donnent l’un ou l’autre, pour le même degré de la Vierge."
 sources:
@@ -37,9 +37,9 @@ Alkaïd est l’étoile au bout du timon du Grand Chariot, la dernière que l’
 
 ## Où elle se trouve {#ou-elle-se-trouve}
 
-Alkaïd est η Ursae Majoris, de magnitude 1,86, la troisième étoile la plus brillante de la Grande Ourse. C’est une étoile bleu-blanc, chaude et jeune, âgée de quelques millions d’années seulement, et contrairement à la plupart des étoiles du Grand Chariot, elle ne voyage pas dans l’espace avec les autres : elle n’appartient pas au groupe mobile de la Grande Ourse et s’aligne simplement avec elles, vue d’ici. Son autre nom traditionnel est Benetnasch. Sa déclinaison, de plus de 49° nord, la garde au-dessus de l’horizon toute la nuit et toute l’année au nord du 41e parallèle environ, ce qui comprend toute la France et toute la Grande-Bretagne.
+Parmi les étoiles de la Grande Ourse, deux seulement surpassent η Ursae Majoris, Alkaïd, de magnitude 1,86. C’est une étoile bleu-blanc, chaude et jeune, âgée de quelques millions d’années seulement, et contrairement à la plupart des étoiles du Grand Chariot, elle ne voyage pas dans l’espace avec les autres : elle n’appartient pas au groupe mobile de la Grande Ourse et s’aligne simplement avec elles, vue d’ici. Depuis 1943, les astronomes se servent de son spectre comme l’un des points d’ancrage pour classer les autres étoiles. Son autre nom traditionnel est Benetnasch. Sa déclinaison, de plus de 49° nord, la garde au-dessus de l’horizon toute la nuit et toute l’année au nord du 41e parallèle environ, ce qui comprend toute la France et toute la Grande-Bretagne.
 
-Sa position tropicale était de 25°56′ de la [Vierge](/astrology/virgo/) en 1930, de 26°55′ en 2000 et de 27°18′ en 2026 : les derniers degrés de la Vierge pour toutes les naissances de cette période, et pour longtemps encore, puisqu’à un degré tous les 72 ans elle n’atteindra pas la Balance avant près de deux siècles ([précession des équinoxes](/astrology/precession-of-the-equinoxes/)). Sa latitude est de 54,4° au nord de l’[écliptique](/astrology/ecliptic/) : une planète « sur » Alkaïd se trouve à plus de cinquante degrés d’elle dans le ciel, et les deux ne partagent qu’un nombre.
+La précession l’a menée de 25°56′ de la [Vierge](/astrology/virgo/) en 1930 à 26°55′ en 2000 et à 27°18′ en 2026, et, à un degré tous les 72 ans, elle n’atteindra pas la Balance avant près de deux siècles ([précession des équinoxes](/astrology/precession-of-the-equinoxes/)). Sa latitude est de 54,4° au nord de l’[écliptique](/astrology/ecliptic/) : une planète « sur » Alkaïd se trouve à plus de cinquante degrés d’elle dans le ciel, et les deux ne partagent qu’un nombre.
 
 ## Sa tradition {#sa-tradition}
 
@@ -49,6 +49,6 @@ La magie médiévale, qui plaçait chacune des quinze étoiles béhéniennes sou
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le Soleil atteint le degré d’Alkaïd vers les 19 et 20 septembre chaque année, un [Soleil en Vierge](/astrology/sun-in-virgo/) dans ses derniers jours. La règle est la règle habituelle, une planète à un degré environ de la longitude de l’étoile ([conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/)), mais avec Alkaïd elle s’étire au plus mince : [Procyon](/astrology/procyon/), à seize degrés au sud de la route du Soleil, rejoint une planète de bien plus près que cette étoile ne le pourra jamais.
+Vers les 19 et 20 septembre, dans les derniers jours d’un [Soleil en Vierge](/astrology/sun-in-virgo/), le Soleil atteint le degré d’Alkaïd. La règle d’un degré de la tradition ([conjonctions aux étoiles fixes](/astrology/conjunctions-to-fixed-stars/)) s’étire ici au plus mince : [Procyon](/astrology/procyon/), à seize degrés au sud de la route du Soleil, rejoint une planète de bien plus près que cette étoile ne le pourra jamais.
 
-Pour que l’ascendant ou le Milieu du Ciel tombe sur le degré d’Alkaïd, l’heure de naissance doit être juste à la minute, car un angle balaie les deux degrés autour de 27° de la Vierge en quelques minutes ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Je ne place pas Alkaïd dans mes lectures, puisque le système que j’ai construit pour elles ne place aucune étoile ; un degré de la fin de la Vierge relié à une étoile à plus de cinquante degrés de là, c’est là que je tiens le plus à séparer la description de la lecture.
+Pour que l’ascendant ou le Milieu du Ciel tombe sur le degré d’Alkaïd, l’heure de naissance doit être juste à la minute, car un angle balaie les deux degrés autour de 27° de la Vierge en quelques minutes ([ce qui change sans l’heure de naissance](/blog/unknown-birth-time/)). Je ne place pas Alkaïd dans mes lectures, et de toutes les étoiles c’est celle que je placerais le moins volontiers : un degré de la fin de la Vierge relié à une étoile à plus de cinquante degrés de là, c’est là que la description et la lecture ont le plus besoin d’être tenues à part.

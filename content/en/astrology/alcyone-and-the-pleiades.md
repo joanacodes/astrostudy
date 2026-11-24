@@ -9,7 +9,7 @@ categories: ["Stars"]
 tags: ["Alcyone and the Pleiades", "fixed stars", "Behenian stars"]
 weight: 13
 glyph: "★"
-definition: "Alcyone and the Pleiades are the fixed stars of the Seven Sisters, the cluster in Taurus, placed in astrology by Alcyone, its brightest star, at 0°21′ Gemini in the tropical zodiac in 2026. The medieval Behenian list gives them to the Moon and Mars. Astrologers who use stars look for them on a planet at the Taurus–Gemini cusp."
+definition: "Alcyone and the Pleiades are the fixed stars of the Seven Sisters, the cluster in Taurus, placed in astrology by Alcyone, its brightest star, at 0°21′ Gemini in the tropical zodiac in 2026. The medieval Behenian list gives them to the Moon and Mars. Their degree lies right where Taurus turns into Gemini."
 facts:
   - { k: "Constellation", v: "Taurus; Alcyone is η Tauri" }
   - { k: "Brightness", v: "Alcyone, magnitude 2.87; six or seven stars visible to the eye" }
@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/fixed-stars-in-astrology", "/astrology/algol", "/astrology/capella", "/astrology/conjunctions-to-fixed-stars", "/astrology/28-lunar-mansions"]
 faq:
   - q: "What do the Pleiades mean in astrology?"
-    a: "In the medieval Behenian list, the Pleiades, placed by their brightest star Alcyone, belong to the Moon and Mars, with rock crystal and fennel. Older still, they were a calendar: the Greek sailing season opened when they first rose before dawn. Astrologers who use stars read that tradition into a planet at the Taurus–Gemini cusp."
+    a: "Older than any horoscope, the Pleiades were a calendar: the Greek sailing season opened when they first rose before dawn. Medieval magic placed them by Alcyone and gave them to the Moon and Mars, with rock crystal and fennel. The Sun reaches Alcyone’s degree on about 20 or 21 May."
   - q: "What degree are the Pleiades in?"
-    a: "A cluster has no single degree, so the old star lists use Alcyone, its brightest star: 0°21′ Gemini in 2026, in the tropical zodiac. Alcyone stood at 29°00′ Taurus in 1930 and crossed into Gemini around 2000, so older charts show the Pleiades in the last degree of Taurus."
+    a: "A cluster has no single degree, so the old lists take Alcyone’s: 0°21′ Gemini in 2026. Alcyone stood at 29°00′ Taurus in 1930 and crossed into Gemini around 2000, so older charts show the Pleiades in the last degree of Taurus."
   - q: "Why are the Pleiades called the Seven Sisters?"
     a: "Greek myth made them seven divine sisters, later explained as the daughters of Pleione, and stories in many cultures account for why only six are easily seen. The name itself probably comes from the Greek for sailing, because the sailing season began with their dawn rising."
 sources:
@@ -40,7 +40,7 @@ The Pleiades, also known as Messier 45, are an open cluster of more than a thous
 
 A cluster has no single position, so the tradition gives it one through its brightest star: the medieval Behenian list's entry reads "Alcyone, or the Pleiades". Alcyone stood at 29°00′ [Taurus](/astrology/taurus/) in 1930 and 29°59′ Taurus in 2000, then crossed into [Gemini](/astrology/gemini/) and reached 0°21′ Gemini by 2026 ([precession of the equinoxes](/astrology/precession-of-the-equinoxes/)). Charts from the last century put the Sisters in the final degree of Taurus; charts from this one put them at the start of Gemini.
 
-Their latitude is 4.1° north of the ecliptic. Around 2330 BC the cluster stood at the spring equinox itself, near the Sun's path, and that is why so many early calendars began with it. In the same stretch of zodiac lie [Algol](/astrology/algol/), four degrees back, and [Capella](/astrology/capella/), twenty-two degrees on and far to the north.
+The cluster lies 4.1° north of the ecliptic. Around 2330 BC the cluster stood at the spring equinox itself, near the Sun's path, and that is why so many early calendars began with it. In the same stretch of zodiac lie [Algol](/astrology/algol/), four degrees back, and [Capella](/astrology/capella/), twenty-two degrees on and far to the north.
 
 ## Its tradition {#its-tradition}
 
@@ -50,6 +50,6 @@ The Behenian list of medieval magic gives "Alcyone, or the Pleiades" to the Moon
 
 ## In a birth chart {#in-a-birth-chart}
 
-The Sun reaches Alcyone's degree on about 20–21 May each year, right where two signs meet, so it can be the [Sun in Taurus](/astrology/sun-in-taurus/) or the [Sun in Gemini](/astrology/sun-in-gemini/), depending on the year and the hour of birth. The rule the tradition applies is the usual one, a planet within about a degree of the star's longitude ([conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/)).
+Born on about 20 or 21 May, you have the Sun on Alcyone's degree, right where two signs meet, so it can be the [Sun in Taurus](/astrology/sun-in-taurus/) or the [Sun in Gemini](/astrology/sun-in-gemini/), depending on the year and the hour of birth. For a cluster, the tradition's one-degree rule is measured from Alcyone alone ([conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/)).
 
-A cluster is a patch of sky, not a point, and a one-degree orb measured from its brightest star is a convention more than a measurement. That is one more reason the Seven Sisters stay out of my readings, alongside the plainer one: the system I built for them places no stars at all ([How I read](/how-i-read/)). What I'd keep from the Pleiades is their oldest use, as a calendar written in the sky, telling sailors when the sea was open.
+A cluster is a patch of sky, not a point, and a one-degree orb measured from its brightest star is a convention more than a measurement. That is one more reason the Seven Sisters stay out of my readings, alongside the plainer one, that stars have no place in the way I read ([How I read](/how-i-read/)). What I'd keep from the Pleiades is their oldest use, as a calendar written in the sky, telling sailors when the sea was open.

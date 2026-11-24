@@ -9,7 +9,7 @@ categories: ["Stars"]
 tags: ["El Nath", "fixed stars"]
 weight: 43
 glyph: "★"
-definition: "El Nath is the fixed star Beta Tauri, the tip of the Bull’s northern horn, at 22°56′ Gemini in the tropical zodiac. It lies only 5.4° north of the Sun’s path, close enough for the Moon to pass in front of it. In a birth chart, a planet within a degree of its longitude counts as conjunct it."
+definition: "El Nath is the fixed star Beta Tauri, the tip of the Bull’s northern horn, at 22°56′ Gemini in the tropical zodiac. It lies only 5.4° north of the Sun’s path, close enough for the Moon to pass in front of it, so a natal Moon near 23° Gemini may truly have met it."
 facts:
   - { k: "Constellation", v: "Taurus, the Bull: β Tauri, once also γ Aurigae" }
   - { k: "Brightness", v: "Magnitude 1.65, second in Taurus to Aldebaran" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/hamal", "/astrology/menkalinan", "/astrology/aldebaran", "/astrology/gemini", "/astrology/fixed-stars-in-astrology"]
 faq:
   - q: "What is El Nath in astrology?"
-    a: "The fixed star Beta Tauri, the tip of the Bull’s horn, at 22°56′ Gemini for a birth in 2026. Astrologers who use stars read its traditional nature into a planet or angle within about a degree of that longitude. It lies close enough to the Sun’s path for the Moon, now and then, to pass in front of it."
+    a: "The tip of the Bull’s horn, Beta Tauri, at 22°56′ Gemini for a birth in 2026. In the tradition, a planet or angle between about 21°56′ and 23°56′ Gemini is coloured by it. Unusually, the Moon can sometimes pass right in front of it, so a lunar contact may be real in the sky."
   - q: "Is El Nath in Taurus or Auriga?"
     a: "In Taurus, officially. Ptolemy counted the star in both the Bull and the Charioteer, and Bayer gave it two letters, Beta Tauri and Gamma Aurigae. When the modern constellation boundaries were fixed in 1930, it was left to Taurus. In the tropical zodiac, though, it stands in Gemini."
   - q: "Can the Moon cover El Nath?"
@@ -45,14 +45,14 @@ At 5.4° north of the [ecliptic](/astrology/ecliptic/), it is within reach of th
 
 ## Its tradition {#its-tradition}
 
-The name is Arabic, an-naṭḥ, the butting, as a bull butts with its horns; written with the article in full, it became El Nath, Elnath or Alnath. The same name once served for [Hamal](/astrology/hamal/), the Ram's brightest star, and Geoffrey Chaucer used it that way.
+Arabic astronomers called it an-naṭḥ, the butting, as a bull butts with its horns; written with the article in full, it became El Nath, Elnath or Alnath. The same name once served for [Hamal](/astrology/hamal/), the Ram's brightest star, and Geoffrey Chaucer used it that way.
 
 Ptolemy treated the star as shared between the Bull and the Charioteer, and Johann Bayer gave it a letter in each, Beta Tauri and Gamma Aurigae; when the constellation boundaries were fixed in 1930, it was left to Taurus. Chinese astronomy kept the link with the Charioteer: El Nath is the fifth of the Five Chariots, an asterism it shares with [Capella](/astrology/capella/) and [Menkalinan](/astrology/menkalinan/).
 
 ## In a birth chart {#in-a-birth-chart}
 
-With a degree each way, El Nath's window covers 21°56′ to 23°56′ Gemini for a birth in 2026 and 20°35′ to 22°35′ for one in 1930, and a conjunction inside it is the tradition's whole requirement ([conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/)). The Sun fills it on about 13 and 14 June. Saturn sat in it for births in parts of 1943–44, at the turn of May and June 1973, and in 2002–03.
+With a degree each way, El Nath's window covers 21°56′ to 23°56′ Gemini for a birth in 2026 and 20°35′ to 22°35′ for one in 1930, and a conjunction inside it is the tradition's whole requirement ([conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/)). The Sun fills it on about 13 and 14 June. Saturn's passes came in parts of 1943–44, at the turn of May and June 1973, and in 2002–03.
 
 The Moon is the interesting case. A natal Moon on El Nath's degree may, with the right latitude, have been passing in front of the star at the moment of birth: a real meeting in the sky, not only a shared number. Whether the Moon was there at all is a question of the hour, since it needs only about four hours to cross those two degrees ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-I don't read stars, and the system I built for my readings has no place for them ([How I read](/how-i-read/)). What I can tell you about El Nath is where it is and how near the Moon comes, and this page sets that out.
+Where El Nath is, and how near the Moon comes, is what I can tell you; reading it is another matter, since the system I built for my readings has no place for stars ([How I read](/how-i-read/)).

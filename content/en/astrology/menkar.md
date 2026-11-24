@@ -9,7 +9,7 @@ categories: ["Stars"]
 tags: ["Menkar", "fixed stars"]
 weight: 41
 glyph: "★"
-definition: "Menkar is the fixed star Alpha Ceti, the nose of Cetus, the sea monster, at 14°41′ Taurus in the tropical zodiac. It lies 12.6° south of the Sun’s path, so a planet within about a degree of its longitude shares its degree without ever passing near it. I describe it here rather than read it."
+definition: "Menkar is the fixed star Alpha Ceti, the nose of Cetus, the sea monster, at 14°41′ Taurus in the tropical zodiac. It lies 12.6° south of the Sun’s path, so a mid-Taurus planet on its degree shares a number with it without ever passing near it."
 facts:
   - { k: "Constellation", v: "Cetus, the sea monster: α Ceti" }
   - { k: "Brightness", v: "Magnitude 2.53, second in Cetus to Diphda" }
@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/hamal", "/astrology/mirach", "/astrology/mira", "/astrology/taurus", "/astrology/fixed-stars-in-astrology"]
 faq:
   - q: "What is Menkar in astrology?"
-    a: "The fixed star Alpha Ceti, at 14°41′ Taurus for a birth in 2026. Astrologers who use stars read a planet or angle within about a degree of that longitude in its light. It lies 12.6° south of the Sun’s path, so the planet shares its degree of the zodiac, not its place in the sky."
+    a: "The nose of the sea monster Cetus, Alpha Ceti, at 14°41′ Taurus for a birth in 2026: a planet or angle within a degree of that point counts as conjunct it. The star lies 12.6° south of the Sun’s path, so such a planet shares its degree of the zodiac, never its place in the sky."
   - q: "Is Menkar the brightest star in Cetus?"
     a: "No. Bayer lettered it Alpha, but at magnitude 2.53 it is outshone by Diphda, Beta Ceti, at about 2.0. Menkar is a red giant some 250 light-years away, late in its life, and astronomers expect it to grow unstable, like Mira in the same constellation, before it sheds its outer layers."
   - q: "When is the Sun conjunct Menkar?"
@@ -38,18 +38,18 @@ Menkar marks the nose of Cetus, the sea monster of the Andromeda story. The zodi
 
 Menkar is Alpha Ceti, though at magnitude 2.53 it is only the second star of its constellation; Diphda, Beta Ceti, is brighter. It is a red giant about 250 light-years away and some 100 times the Sun's size, which has used up first the hydrogen and then the helium at its core. Astronomers expect it to turn unstable, like [Mira](/astrology/mira/) in the same constellation, before it sheds its outer layers. A fainter star beside it, 93 Ceti, lies about 440 light-years away, much further off.
 
-In the tropical zodiac it stood at 13°20′ [Taurus](/astrology/taurus/) for a birth in 1930, at 14°18′ in 2000 and at 14°41′ in 2026: a mid-Taurus star, though its constellation lies nowhere near the Bull ([constellations versus signs](/astrology/constellations-versus-signs/)). Its neighbours by degree come from other figures too: [Hamal](/astrology/hamal/), the Ram's brightest star, at 8°01′ Taurus, and [Mirach](/astrology/mirach/), from Andromeda, at 0°46′.
+Its tropical degree was 13°20′ [Taurus](/astrology/taurus/) for a birth in 1930, 14°18′ in 2000 and 14°41′ in 2026: a mid-Taurus star, though its constellation lies nowhere near the Bull ([constellations versus signs](/astrology/constellations-versus-signs/)). Its neighbours by degree come from other figures too: [Hamal](/astrology/hamal/), the Ram's brightest star, at 8°01′ Taurus, and [Mirach](/astrology/mirach/), from Andromeda, at 0°46′.
 
 Its latitude is 12.6° south of the [ecliptic](/astrology/ecliptic/). The Moon, which strays only about 5° from that line, can never cover Menkar, and no planet passes near it; seen from the Earth, the star sits just 4° north of the celestial equator, well below the stretch of the Sun's path that shares its degree ([celestial latitude](/astrology/celestial-latitude/)).
 
 ## Its tradition {#its-tradition}
 
-The name is Arabic, manḥar, the nostril, for the star's place at the monster's snout. In the Greek story Cetus was the sea monster sent to devour Andromeda as she stood chained to a rock, and in the sky its stars lie south of hers, below the princess whose hip Mirach marks.
+Menkar means the nostril, from the Arabic manḥar, for the star's place at the monster's snout. In the Greek story Cetus was the sea monster sent to devour Andromeda as she stood chained to a rock, and in the sky its stars lie south of hers, below the princess whose hip Mirach marks.
 
 In Arabic star lore, Menkar and a handful of neighbours, among them Gamma, Delta and Mu Ceti, made Al Kaff al Jidhmah, the Part of a Hand. Chinese astronomy made it the first star of the Circular Celestial Granary, a ring of thirteen stars across the same patch of sky.
 
 ## In a birth chart {#in-a-birth-chart}
 
-Star lore counts Menkar only for a planet or angle within about a degree of its longitude, which for a birth in 2026 means 13°41′ to 15°41′ Taurus, and for one in 1930, 12°20′ to 14°20′ ([conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/)). The Sun crosses that span on about 4 and 5 May every year. Saturn sat in it for births in parts of 1940–41, spring 1970 and 1999–2000. The Moon covers it in a few hours each month, and whether it did so at your birth is a question for the clock ([what changes without a birth time](/blog/unknown-birth-time/)).
+Star lore counts Menkar only for a planet or angle within about a degree of its longitude, which for a birth in 2026 means 13°41′ to 15°41′ Taurus, and for one in 1930, 12°20′ to 14°20′ ([conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/)). The Sun arrives on about 4 and 5 May every year, and births in parts of 1940–41, in spring 1970 and in 1999–2000 have Saturn there. The Moon crosses that span in a few hours each month, and whether it did so at your birth is a question for the clock ([what changes without a birth time](/blog/unknown-birth-time/)).
 
-Stars have no part in my own readings, and the system I built for them leaves Menkar out like the rest; this page is here to say where it is and what it has been called ([How I read](/how-i-read/)). If someone reads a mid-Taurus planet of yours through Menkar, ask about the latitude as well as the degree: the star never comes near the planet it is said to touch.
+The system I built for my readings leaves Menkar out like every other star, so this page keeps to where it is and what it has been called: a nostril, a hand, a granary ([How I read](/how-i-read/)). If someone reads a mid-Taurus planet of yours through Menkar, ask about the latitude as well as the degree: the star never comes near the planet it is said to touch.

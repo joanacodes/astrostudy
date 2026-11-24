@@ -9,7 +9,7 @@ categories: ["Stars"]
 tags: ["Aldebaran", "fixed stars", "royal stars"]
 weight: 8
 glyph: "★"
-definition: "Aldebaran is the bright red fixed star of Taurus, the Bull, at 10°09′ Gemini in the tropical zodiac in 2026. Ptolemy called it the Torch and gave it a nature like Mars, and later astrologers made it one of the four royal stars. Astrologers who use stars read it into a planet at 9° to 11° Gemini."
+definition: "Aldebaran is the bright red fixed star of Taurus, the Bull, placed by the tropical zodiac at 10°09′ Gemini in 2026. Ptolemy called it the Torch and gave it a nature like Mars, and later astrologers made it one of the four royal stars. In the tradition, a planet from 9° to 11° Gemini takes on its Mars-like tone."
 facts:
   - { k: "Constellation", v: "Taurus (α Tauri), its brightest star" }
   - { k: "Brightness", v: "Magnitude 0.85" }
@@ -24,11 +24,11 @@ faq:
   - q: "What does Aldebaran mean in astrology?"
     a: "It is the star Ptolemy called the Torch, with a temperature like that of Mars, the planet of effort and initiative. Later astrology called it a fortunate star of riches and honour and counted it among the four royal stars. Those are the tradition’s meanings for a planet sitting on it, not a fate written for anyone."
   - q: "What degree is Aldebaran in 2026?"
-    a: "10°09′ Gemini in the tropical zodiac. It stood at 8°48′ Gemini in 1930 and 9°47′ in 2000, moving on about a degree in 72 years as the equinoxes precess, so a chart from 1950 and one from 2020 place it about a degree apart."
+    a: "The Torch sits at 10°09′ Gemini in 2026, a degree and a third further on than the 8°48′ it held in 1930. Precession moves it about a degree every 72 years, so a chart drawn for 1950 and one for 2020 place it roughly a degree apart."
   - q: "What are the four royal stars?"
     a: "Aldebaran, Regulus, Antares and Fomalhaut: four bright stars about six hours of right ascension apart, a quarter of the sky each, every one tied in the story to a season, Aldebaran to the spring equinox. Books call them the royal stars of Persia, though a paper of 1945 already wrote of the so-called royal stars."
   - q: "When is the Sun conjunct Aldebaran?"
-    a: "For births on about 30 and 31 May, give or take a day, in every year from 1930 to 2009: about 1 person in 176. Aldebaran lies 5.5° south of the Sun’s path, so on those days the Sun shares its zodiac degree while passing well north of the star."
+    a: "Anyone born around 30 or 31 May has the Sun on Aldebaran’s degree; across the births of 1930 to 2009 that comes to about 1 person in 176. On those days the Sun passes 5.5° north of the Torch, sharing its longitude rather than its place in the sky."
 sources:
   - { title: "Yale Bright Star Catalogue, 5th ed. (Hoffleit and Warren, 1991)", note: "Aldebaran’s coordinates and magnitude, precessed to 1930, 2000 and 2026, and the contact counts worked out from them" }
   - { title: "Ptolemy, Tetrabiblos, book I, chapter 9, trans. F. E. Robbins (Loeb Classical Library, 1940), via Wikipedia, “Tetrabiblos”", url: "https://en.wikipedia.org/wiki/Tetrabiblos", note: "the Torch, with a temperature like that of Mars, and the Hyades" }
@@ -40,9 +40,9 @@ Aldebaran is the bright red star of Taurus, the Bull, the one Ptolemy called the
 
 Aldebaran is α Tauri, the brightest star of the Bull, a red giant of magnitude 0.85 on a scale where lower numbers mean brighter stars. It shines in front of the Hyades, the V of fainter stars that draws the Bull's face.
 
-In the tropical zodiac it stood at 8°48′ Gemini in 1930, 9°47′ in 2000 and 10°09′ in 2026, gaining about a degree every 72 years as the equinox slides back against the stars ([precession of the equinoxes](/astrology/precession-of-the-equinoxes/)). At that pace Gemini keeps it for well over a thousand years: a star of the constellation Taurus in the sign of Gemini, which is how far signs and constellations have drifted apart ([constellations versus signs](/astrology/constellations-versus-signs/)).
+A chart for 1930 puts it at 8°48′ Gemini, one for 2000 at 9°47′, one for 2026 at 10°09′: it gains about a degree every 72 years as the equinox slides back against the stars ([precession of the equinoxes](/astrology/precession-of-the-equinoxes/)). At that pace Gemini keeps it for well over a thousand years: a star of the constellation Taurus in the sign of Gemini, which is how far signs and constellations have drifted apart ([constellations versus signs](/astrology/constellations-versus-signs/)).
 
-Its latitude, 5.5° south of the ecliptic, keeps it near the Sun's path. Each year at the end of May the Sun reaches its degree and passes 5.5° to the north of it, and the Moon, whose own path tilts about five degrees, can come right by it.
+Five and a half degrees south of the ecliptic, Aldebaran is never far from the Sun's path. Each year at the end of May the Sun reaches its degree and passes 5.5° to the north of it, and the Moon, whose own path tilts about five degrees, can come right by it.
 
 ## Its tradition {#its-tradition}
 
@@ -54,7 +54,7 @@ Medieval magic gave the Torch a stone and a plant as well: among the fifteen Beh
 
 ## In a birth chart {#in-a-birth-chart}
 
-Born on about 30 or 31 May, you have the [Sun conjunct Aldebaran](/astrology/sun-conjunct-aldebaran/): about 1 person in 176 among births from 1930 to 2009. The other contacts with the Torch are about as rare: [Moon conjunct Aldebaran](/astrology/moon-conjunct-aldebaran/) about 1 in 178, [Venus conjunct Aldebaran](/astrology/venus-conjunct-aldebaran/) 1 in 187, [Mars conjunct Aldebaran](/astrology/mars-conjunct-aldebaran/) 1 in 181, and [Saturn conjunct Aldebaran](/astrology/saturn-conjunct-aldebaran/) 1 in 186, for births from July 1942 to April 1943, in May and June 1972, or from June 2001 to April 2002.
+The Sun meets the Torch at the end of May, on about the 30th or 31st, which gives about 1 person in 176 born between 1930 and 2009 the [Sun conjunct Aldebaran](/astrology/sun-conjunct-aldebaran/). Its other contacts sit close to the same odds: 1 in 178 for the [Moon conjunct Aldebaran](/astrology/moon-conjunct-aldebaran/), 1 in 181 for [Mars conjunct Aldebaran](/astrology/mars-conjunct-aldebaran/), 1 in 187 for [Venus conjunct Aldebaran](/astrology/venus-conjunct-aldebaran/). Saturn, slowest of them, held the star in three spells, from July 1942 to April 1943, in May and June 1972, and from June 2001 to April 2002: about 1 in 186 for [Saturn conjunct Aldebaran](/astrology/saturn-conjunct-aldebaran/).
 
 With Antares opposite to within a few minutes of arc, any planet on Aldebaran also faces the Scorpion's heart across the chart. The tradition reads only the conjunction, so that opposition is geometry rather than lore ([conjunctions to fixed stars](/astrology/conjunctions-to-fixed-stars/)).
 

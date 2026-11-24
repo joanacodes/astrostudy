@@ -10,7 +10,7 @@ categories: ["Étoiles"]
 tags: ["Régulus", "étoiles fixes", "étoiles royales"]
 weight: 9
 glyph: "★"
-definition: "Régulus est l’étoile fixe du cœur du Lion, à 0°11′ de la Vierge dans le zodiaque tropical en 2026 : elle a quitté le Lion vers 2012. Ptolémée lui prêtait la nature de Mars et de Jupiter, et ses noms, de Babylone à Rome, veulent dire roi. Sa tradition se lit sur une planète à la cuspide Lion-Vierge."
+definition: "Régulus est l’étoile fixe du cœur du Lion, à 0°11′ de la Vierge dans le zodiaque tropical en 2026 : elle a quitté le Lion vers 2012. Ptolémée lui prêtait la nature de Mars et de Jupiter, et ses noms, de Babylone à Rome, veulent dire roi. C’est à la cuspide Lion-Vierge que la tradition cherche ce ton royal."
 facts:
   - { k: "Constellation", v: "Le Lion (α Leonis), dont c’est l’étoile la plus brillante" }
   - { k: "Éclat", v: "Magnitude 1,35" }
@@ -24,11 +24,11 @@ facts:
 related: ["/astrology/fixed-stars-in-astrology", "/astrology/sun-conjunct-regulus", "/astrology/aldebaran", "/astrology/antares", "/astrology/precession-of-the-equinoxes"]
 faq:
   - q: "Que signifie Régulus en astrologie ?"
-    a: "Ptolémée prêtait à Régulus la nature de Mars et de Jupiter, et ses noms sont royaux : le Roi pour les Babyloniens, le petit roi en latin, une étoile royale de Perse dans des livres plus tardifs. Ceux qui utilisent les étoiles posent ce ton royal sur la planète qui s’y trouve ; les promesses de rang restent aux vieux livres."
+    a: "Ptolémée prêtait à Régulus la nature de Mars et de Jupiter, et ses noms sont royaux : le Roi pour les Babyloniens, le petit roi en latin, une étoile royale de Perse dans des livres plus tardifs. Ce ton royal, la tradition le pose sur la planète qui s’y trouve ; les promesses de rang restent celles des livres, pas une prévision."
   - q: "Régulus est-elle dans le Lion ou dans la Vierge ?"
     a: "Dans les deux, selon l’année de naissance. La précession l’a portée de 28°50′ du Lion en 1930 à 29°49′ en 2000 ; elle est passée dans la Vierge vers 2012 et se trouve à 0°11′ de la Vierge en 2026. Un thème prend sa position pour son année : les thèmes plus anciens la montrent dans le Lion."
   - q: "Que veut dire Soleil conjonction Régulus ?"
-    a: "Une naissance vers le 22 ou le 23 août, avec le Soleil à moins d’un degré de l’étoile : environ 1 personne sur 176 parmi les naissances de 1930 à 2009. La tradition y lit la nature de Mars et de Jupiter selon Ptolémée, et ses noms royaux, posés sur le Soleil. Les promesses de couronne appartiennent aux vieux livres."
+    a: "Elle revient aux anniversaires de la fin août, les 22 et 23, quand le Soleil passe à moins d’un degré de l’étoile : entre 1930 et 2009, environ 1 personne sur 176. La tradition y lit la nature de Mars et de Jupiter selon Ptolémée, et ses noms royaux, posés sur le Soleil. Les promesses de couronne restent aux vieux livres."
   - q: "Pourquoi Régulus est-elle une étoile royale ?"
     a: "Ses noms vont dans ce sens : Lugal, le roi, dans la liste d’étoiles babylonienne MUL.APIN ; Regulus, le petit roi ou le prince, en latin. Star Names, le livre de R. H. Allen paru en 1899, la compte parmi les quatre étoiles royales de la monarchie perse, avec Aldébaran, Antarès et Fomalhaut."
 sources:
@@ -40,7 +40,7 @@ Régulus est l’étoile brillante du cœur du Lion, et ses noms ne cessent de l
 
 ## Où elle se trouve {#ou-elle-se-trouve}
 
-Régulus est α Leonis, l’étoile la plus brillante du Lion, de magnitude 1,35 : à peu près la vingt et unième étoile la plus brillante du ciel nocturne. Sa position tropicale était de 28°50′ du Lion en 1930 et de 29°49′ du Lion en 2000 ; en 2026, la précession l’a portée à 0°11′ de la [Vierge](/astrology/virgo/), et elle atteindra 0°31′ en 2050 ([précession des équinoxes](/astrology/precession-of-the-equinoxes/)). Un thème dressé pour une naissance d’avant 2012 environ place Régulus dans le [Lion](/astrology/leo/), un thème plus récent dans la Vierge : la même étoile, un autre signe.
+Sous le nom d’α Leonis, Régulus mène les étoiles du Lion avec sa magnitude de 1,35, même si, parmi toutes les étoiles du ciel nocturne, elle ne se classe qu’autour de la vingt et unième place. Elle était à 28°50′ du Lion en 1930 et à 29°49′ du Lion en 2000 ; la précession lui a ensuite fait franchir la cuspide jusqu’à 0°11′ de la [Vierge](/astrology/virgo/) en 2026, et la portera à 0°31′ en 2050 ([précession des équinoxes](/astrology/precession-of-the-equinoxes/)). Un thème dressé pour une naissance d’avant 2012 environ place Régulus dans le [Lion](/astrology/leo/), un thème plus récent dans la Vierge : la même étoile, un autre signe.
 
 Sa latitude la distingue de toutes les autres étoiles brillantes : un demi-degré au nord de l’[écliptique](/astrology/ecliptic/), plus près qu’aucune d’entre elles. La Lune cache Régulus par séries d’occultations qui reviennent tous les 9,3 ans, la dernière en 2026. Vénus est passée devant elle le 7 juillet 1959 et y repassera le 1er octobre 2044. Une planète qui rejoint Régulus par le degré se tient aussi à côté d’elle dans le ciel, ce que peu de contacts d’étoile peuvent dire.
 
@@ -54,6 +54,6 @@ Toute cette royauté explique la réputation de l’étoile. Je la rapporte comm
 
 ## Dans un thème natal {#dans-un-theme-natal}
 
-Le Soleil atteint Régulus vers les 22 et 23 août chaque année : environ 1 personne sur 176 parmi les naissances de 1930 à 2009 a le [Soleil conjonction Régulus](/astrology/sun-conjunct-regulus/). Jusque vers 2012, ce Soleil tombait toujours à la fin du Lion ; depuis, il peut aussi bien tomber dans le premier degré de la Vierge. Ses autres contacts : [Lune conjonction Régulus](/astrology/moon-conjunct-regulus/) environ 1 sur 179, [Vénus conjonction Régulus](/astrology/venus-conjunct-regulus/) 1 sur 146, [Mars conjonction Régulus](/astrology/mars-conjunct-regulus/) 1 sur 161, et [Saturne conjonction Régulus](/astrology/saturn-conjunct-regulus/) 1 sur 151, en trois périodes pour Saturne : de septembre 1948 à mai 1949, d’octobre 1977 à juillet 1978, et d’août à septembre 2007.
+Chaque année, le Soleil atteint Régulus vers les 22 et 23 août, les anniversaires du [Soleil conjonction Régulus](/astrology/sun-conjunct-regulus/), soit environ 1 personne sur 176 de 1930 à 2009. Jusque vers 2012, ce Soleil tombait toujours à la fin du Lion ; depuis, il peut aussi bien tomber dans le premier degré de la Vierge. Vénus rejoint l’étoile plus souvent que le hasard ne le voudrait, [Vénus conjonction Régulus](/astrology/venus-conjunct-regulus/) à environ 1 sur 146 ; [Mars conjonction Régulus](/astrology/mars-conjunct-regulus/) concerne 1 personne sur 161 et [Lune conjonction Régulus](/astrology/moon-conjunct-regulus/) 1 sur 179. [Saturne conjonction Régulus](/astrology/saturn-conjunct-regulus/), environ 1 sur 151, appartient à trois périodes de naissance : de septembre 1948 à mai 1949, d’octobre 1977 à juillet 1978, et d’août à septembre 2007.
 
-Régulus n’entre jamais dans mes lectures, si près qu’elle soit de la route du Soleil : le système que j’ai construit ne place aucune étoile, et aucune ne figurait parmi les placements vérifiés dans mon carnet ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)). La Lune traverse les deux degrés autour de la cuspide Lion-Vierge en quelques heures, et l’ascendant en huit minutes environ : un contact de Régulus avec la Lune ou l’ascendant tient ou tombe avec une heure de naissance exacte.
+Régulus n’entre jamais dans mes lectures, si concrètement qu’une planète puisse la toucher : mes lectures reposent sur un système sans étoiles, et aucune étoile n’est jamais entrée dans le carnet où j’ai compté ce qui tenait ([La méthode de la facture, et ce qui a tenu](/blog/i-tested-my-birth-chart/)). Régulus montre plutôt pourquoi l’année passe avant le sens : la même étoile est dans le Lion pour une naissance de 1990, et dans la Vierge pour une naissance de 2015.

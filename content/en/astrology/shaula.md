@@ -9,7 +9,7 @@ categories: ["Stars"]
 tags: ["Shaula", "fixed stars"]
 weight: 55
 glyph: "★"
-definition: "Shaula is the fixed star λ Scorpii, the bright star at the tip of the Scorpion’s tail, at 24°57′ Sagittarius in the tropical zodiac in 2026. Its Arabic name means the raised tail. It lies 35′ of longitude from Lesath, so a planet within a degree of one is usually within a degree of both."
+definition: "Shaula, the fixed star that tips the Scorpion’s raised tail, is λ Scorpii, one of the brightest stars of the night sky; in 2026 its degree is 24°57′ Sagittarius. Its Arabic name means the raised tail. It lies 35′ of longitude from Lesath, so a planet within a degree of one is usually within a degree of both."
 facts:
   - { k: "Constellation", v: "Scorpius: λ Scorpii, at the tip of the tail" }
   - { k: "Brightness", v: "Magnitude 1.63, second in Scorpius only to Antares" }
@@ -38,9 +38,9 @@ Shaula is the star at the tip of the Scorpion's raised tail, and at magnitude 1.
 
 ## Where it is {#where-it-is}
 
-Shaula is λ Scorpii, number 6527 in the Yale Bright Star Catalogue, and in its constellation only [Antares](/astrology/antares/), the Scorpion's red heart, outshines it. It is a system of three stars about 570 light-years away, the largest of them heavy enough to end its life as a supernova.
+In the Yale Bright Star Catalogue Shaula is λ Scorpii, number 6527, and in its constellation only [Antares](/astrology/antares/), the Scorpion's red heart, outshines it. It is a system of three stars about 570 light-years away, the largest of them heavy enough to end its life as a supernova.
 
-In the tropical zodiac it stood at 24°34′ [Sagittarius](/astrology/sagittarius/) in 2000 and stands at 24°57′ in 2026: like Antares, a star of the Scorpion in the sign that comes after Scorpio ([constellations versus signs](/astrology/constellations-versus-signs/)). [Lesath](/astrology/lesath/), the fainter star of the sting, trails it by 35′ of longitude. Any planet from 23°57′ to 25°22′ Sagittarius in a 2026 chart is within a degree of both; only in Shaula's last stretch, from 25°22′ to 25°57′, is it on Shaula alone.
+By 2026 its degree had reached 24°57′ [Sagittarius](/astrology/sagittarius/), from 24°34′ in 2000: like Antares, a star of the Scorpion in the sign that comes after Scorpio ([constellations versus signs](/astrology/constellations-versus-signs/)). [Lesath](/astrology/lesath/), the fainter star of the sting, trails it by 35′ of longitude. Any planet from 23°57′ to 25°22′ Sagittarius in a 2026 chart is within a degree of both; only in Shaula's last stretch, from 25°22′ to 25°57′, is it on Shaula alone.
 
 Its latitude, 13.8° south of the [ecliptic](/astrology/ecliptic/), puts it well beyond the Moon's reach of about 5°. When a chart sets a planet on Shaula, the two share a degree of longitude while the planet passes far to the north of the sting.
 
@@ -58,4 +58,4 @@ The Sun reaches Shaula on about 16 and 17 December, or the 15th and 16th in some
 
 Slow planets cover both stars at once. Pluto did for births in 2005 and 2006 ([Pluto in Sagittarius](/astrology/pluto-in-sagittarius/)), Neptune in 1981 and 1982, and Uranus, on and off, from December 1986 to late 1987.
 
-I can give the degree and the dates; what Shaula would mean in your chart is another matter, because stars stay out of my readings altogether. The system I built doesn't compute them, and they weren't among the placements I tested ([How I read](/how-i-read/)). If another astrologer reads it for you, a planet in Sagittarius is still the thing being read, in its own house, with the star's lore laid lightly on top.
+I can give the degree and the dates; what Shaula would mean in your chart is another matter, because stars stay out of my readings altogether. My system leaves them out, and my notebook never tested them ([How I read](/how-i-read/)). If another astrologer reads it for you, a planet in Sagittarius is still the thing being read, in its own house, with the star's lore laid lightly on top.

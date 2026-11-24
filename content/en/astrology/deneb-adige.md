@@ -21,7 +21,7 @@ facts:
 related: ["/astrology/fixed-stars-in-astrology", "/astrology/celestial-latitude", "/astrology/altair", "/astrology/vega", "/astrology/pisces"]
 faq:
   - q: "What is Deneb Adige in astrology?"
-    a: "The fixed star Alpha Cygni, at 5°41′ Pisces for a birth in 2026. Astrologers who use stars look for a planet or angle within about a degree of that longitude and read the star’s traditional nature into it. Since the star lies 60° north of the Sun’s path, the contact exists on paper, not in the sky."
+    a: "The bright star at the Swan’s tail, Alpha Cygni, placed at 5°41′ Pisces for a birth in 2026. A planet or angle from about 4°41′ to 6°41′ Pisces would count as conjunct it. Because the star lies 60° north of the Sun’s path, that conjunction exists on paper, never in the sky."
   - q: "Why is it called Deneb Adige?"
     a: "Deneb is Arabic for tail. The full phrase, dhanab al-dajājah, means the tail of the hen, the hen being the Arabic name for the Swan. The Alfonsine Tables spelled it Denebadigege, and Deneb Adige is one of the variants. The longer name also tells it apart from the other tails in the sky, Denebola and Deneb Algedi."
   - q: "Can a planet really be conjunct Deneb Adige?"
@@ -39,9 +39,9 @@ Deneb Adige is the tail of the Swan, one of the brightest stars of the northern 
 
 Astronomers call it Deneb, or Alpha Cygni: the brightest star of Cygnus, at the bird's tail and at the head of the shape called the Northern Cross. At magnitude 1.25 (the scale runs backwards, so lower means brighter) it is the 19th brightest star of the night sky, and it manages that from about 2,000 light-years away.
 
-In the tropical zodiac it stood at 5°19′ [Pisces](/astrology/pisces/) in 2000 and stands at 5°41′ in 2026; for a birth in 1930 it was at 4°21′. [Precession](/astrology/precession-of-the-equinoxes/) moves it forward about a degree every 72 years, and with more than 24° of Pisces still ahead, it will keep that sign for well over a thousand years. [Fomalhaut](/astrology/fomalhaut/) sits just behind it at 4°13′ Pisces, and [Markab](/astrology/markab/), a corner of the Great Square of Pegasus, further on at 23°50′.
+In the tropical zodiac it stood at 5°19′ [Pisces](/astrology/pisces/) in 2000 and stands at 5°41′ in 2026; for a birth in 1930 it was at 4°21′. The [precession of the equinoxes](/astrology/precession-of-the-equinoxes/) moves it forward about a degree every 72 years, and with more than 24° of Pisces still ahead, it will keep that sign for well over a thousand years. [Fomalhaut](/astrology/fomalhaut/) sits just behind it at 4°13′ Pisces, and [Markab](/astrology/markab/), a corner of the Great Square of Pegasus, further on at 23°50′.
 
-What sets it apart in a chart is its latitude: 59.9° north of the [ecliptic](/astrology/ecliptic/), the Sun's path, near which the Moon and planets also stay ([celestial latitude](/astrology/celestial-latitude/)). A planet at 5° Pisces and Deneb Adige share a degree of the zodiac while standing about 60° apart, two-thirds of the way from the horizon to the point overhead. Fomalhaut, 21° south of the line, makes the point sharper still: a degree and a half from Deneb Adige in the zodiac, about 81° from it in the sky. From Paris or London, Deneb Adige never even sets.
+What sets it apart in a chart is its latitude: 59.9° north of the [ecliptic](/astrology/ecliptic/), the Sun's path, near which the Moon and planets also stay ([celestial latitude](/astrology/celestial-latitude/)). A planet at 5° Pisces and Deneb Adige share a degree of the zodiac while standing about 60° apart, two-thirds of the way from the horizon to the point overhead. Fomalhaut, 21° south of the line, makes the point sharper still: a degree and a half from Deneb Adige in the zodiac, about 81° from it in the sky.
 
 ## Its tradition {#its-tradition}
 
@@ -57,4 +57,4 @@ Only a conjunction brings a star into a chart, and it is counted in longitude. F
 
 With a star this far north, I'd ask what the contact is made of. Nothing lines up overhead: a planet at 5° Pisces rises, culminates and sets at other moments than the star. Astrologers who want the real sky look instead for planets that rise or culminate together with it ([parans](/astrology/parans/)).
 
-Nothing here is a reading. Stars aren't part of the system I built for my readings, and my notebook never tested them, so this page offers the sky as it is ([fixed stars in astrology](/astrology/fixed-stars-in-astrology/)). If a reading elsewhere hangs something on this star, ask which year its degree was taken for, and remember the 60° between them.
+A star some 60° from the planets that share its degree is one I'd describe rather than read, and I read no stars at all: the system I built for my readings computes none, and my notebook never tested them ([fixed stars in astrology](/astrology/fixed-stars-in-astrology/)). If a reading elsewhere hangs something on this star, ask which year its degree was taken for, and remember the 60° between them.

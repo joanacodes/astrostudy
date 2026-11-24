@@ -9,7 +9,7 @@ categories: ["Stars"]
 tags: ["Rasalhague", "fixed stars"]
 weight: 52
 glyph: "★"
-definition: "Rasalhague is the fixed star α Ophiuchi, the head of the Serpent-bearer and the brightest star of Ophiuchus, at 22°48′ Sagittarius in the tropical zodiac in 2026. It lies 35.8° north of the ecliptic, so a planet only ever meets it by degree, never in the sky. Its Arabic name means the head of the serpent collector."
+definition: "Rasalhague is the fixed star at the head of Ophiuchus, the Serpent-bearer: α Ophiuchi, the constellation’s brightest star, whose degree in 2026 is 22°48′ Sagittarius. It lies 35.8° north of the ecliptic, so a planet only ever meets it by degree, never in the sky. In Arabic, its name is the head of the serpent collector."
 facts:
   - { k: "Constellation", v: "Ophiuchus: α Ophiuchi, the Serpent-bearer’s head" }
   - { k: "Brightness", v: "Magnitude 2.08, the brightest star of Ophiuchus" }
@@ -24,9 +24,9 @@ faq:
   - q: "What does Rasalhague mean in astrology?"
     a: "Its name is Arabic for the head of the serpent collector: it marks the head of Ophiuchus, the man holding a great snake, whom Roman-era myth made into Asclepius the healer. The star’s lore is that story rather than a verdict, and I describe it without reading it into anyone’s chart."
   - q: "Is Rasalhague in Ophiuchus or in Sagittarius?"
-    a: "In both, in two senses. On the star map it is the brightest star of the constellation Ophiuchus. In the tropical zodiac its longitude is 22°48′ Sagittarius in 2026, because the signs are measured from the March equinox and not from the constellations. A planet conjunct it in a chart is in Sagittarius."
+    a: "It depends which map you mean. On the star map it is the brightest star of the constellation Ophiuchus. In the tropical zodiac its longitude is 22°48′ Sagittarius in 2026, because the signs are measured from the March equinox and not from the constellations. So in a birth chart, a planet on Rasalhague’s degree is read in Sagittarius."
   - q: "When is the Sun conjunct Rasalhague?"
-    a: "On about 13 and 14 December. On those days the Sun really is in front of the constellation Ophiuchus, but some 36° south of Rasalhague itself, because the star lies so far north of the Sun’s path. About 1 person in 185 born from 1930 to 2009 has the Sun on its degree."
+    a: "On about 13 and 14 December. On those days the Sun really is in front of the constellation Ophiuchus, but some 36° south of Rasalhague itself, because the star lies so far north of the Sun’s path. Whatever constellation lies behind the Sun, those are Sagittarius birthdays."
   - q: "Can a planet pass in front of Rasalhague?"
     a: "No. The star lies 35.8° north of the ecliptic, and the Moon never strays more than about 5° from it, while even Pluto stays within about 17°. A conjunction with Rasalhague is a match of zodiac degrees only. Astrologers who want the real sky use parans, which compare risings and culminations instead."
 sources:
@@ -38,9 +38,9 @@ Rasalhague marks the head of the Serpent-bearer, the brightest star of Ophiuchus
 
 ## Where it is {#where-it-is}
 
-Rasalhague is α Ophiuchi, number 6556 in the Yale Bright Star Catalogue. At magnitude 2.08 it really is the brightest star of its constellation, unlike [Sadalmelik](/astrology/sadalmelik/), the alpha of Aquarius, which its beta outshines. It is a pair of stars 48.6 light-years away, circling each other every 8.6 years, and the brighter of the two spins so fast, close to the speed that would tear it apart, that it bulges at the equator.
+At magnitude 2.08, α Ophiuchi really is the brightest star of its constellation, unlike [Sadalmelik](/astrology/sadalmelik/), the alpha of Aquarius, which its beta outshines. It is a pair of stars 48.6 light-years away, circling each other every 8.6 years, and the brighter of the two spins so fast, close to the speed that would tear it apart, that it bulges at the equator.
 
-In the tropical zodiac it stood at 22°26′ [Sagittarius](/astrology/sagittarius/) in 2000 and stands at 22°48′ in 2026. The sign isn't the constellation: Ophiuchus straddles the celestial equator, the Sun crosses its southern part every year from about 30 November to 18 December, and the zodiac goes on calling that stretch Sagittarius, because its signs follow the seasons ([Ophiuchus and the 13th sign](/astrology/ophiuchus-and-the-13th-sign/)).
+Its tropical degree has moved from 22°26′ [Sagittarius](/astrology/sagittarius/) in 2000 to 22°48′ in 2026, and here sign and constellation part company: Ophiuchus straddles the celestial equator, the Sun crosses its southern part every year from about 30 November to 18 December, and the zodiac goes on calling that stretch Sagittarius, because its signs follow the seasons ([Ophiuchus and the 13th sign](/astrology/ophiuchus-and-the-13th-sign/)).
 
 Its latitude, 35.8° north of the [ecliptic](/astrology/ecliptic/), matters more than its degree. The Moon never strays more than about 5° from that line and even Pluto, the furthest wanderer, stays within about 17°, so nothing in a birth chart ever comes near Rasalhague in the sky ([celestial latitude](/astrology/celestial-latitude/)).
 

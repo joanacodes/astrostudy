@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/fixed-stars-in-astrology", "/astrology/procyon", "/astrology/capella", "/astrology/parans", "/astrology/sun-in-cancer"]
 faq:
   - q: "What does Sirius mean in astrology?"
-    a: "In the medieval Behenian list it is one of fifteen stars of power, with beryl and juniper. Its older meanings come from the calendar: Egypt’s goddess Sopdet, whose return to the dawn sky announced the Nile flood, and the dog days of the Greek summer. Astrologers who use stars read it into a planet near 14° Cancer."
+    a: "The medieval Behenian list makes it one of fifteen stars of power, with beryl and juniper. Its older meanings come from the calendar: Egypt’s goddess Sopdet, whose return to the dawn sky announced the Nile flood, and the dog days of the Greek summer. In a chart, all of that rests on a planet near 14° Cancer."
   - q: "What degree is Sirius in 2026?"
-    a: "14°26′ Cancer, in the tropical zodiac. It was at 13°06′ Cancer in 1930 and 14°04′ in 2000, and Cancer will keep it for centuries. It lies 39.6° south of the ecliptic, so a planet at that degree is never anywhere near the star in the sky."
+    a: "Mid-Cancer: 14°26′ in 2026, after 13°06′ in 1930 and 14°04′ in 2000, and the sign will keep it for centuries. With 39.6° of southern latitude, the brightest star in the sky and a planet at its degree are never close."
   - q: "When is the Sun conjunct Sirius?"
     a: "On about 5 and 6 July each year, for births from 1930 to 2009 alike, with the Sun in the middle of Cancer. The star is then lost in the daylight, forty degrees south of the Sun, which is why the old calendars watched for its return to the dawn sky weeks later."
   - q: "Why is Sirius called the Dog Star?"
@@ -40,7 +40,7 @@ Sirius is the brightest star of the night sky, the Dog Star of Canis Major, whos
 
 Sirius is α Canis Majoris, magnitude −1.46, almost twice as bright as Canopus, the next brightest star. Part of that is closeness: at 8.6 light-years it is one of the Sun's nearest neighbours, with a white dwarf, Sirius B, circling it every fifty years. In 1717 Edmond Halley compared its place with the one recorded in Ptolemy's *Almagest* and found it had moved about half a degree on its own, as had Aldebaran and Arcturus: the "fixed" stars drift too, if far more slowly than precession moves them along the zodiac.
 
-Its tropical position was 13°06′ [Cancer](/astrology/cancer/) in 1930, 14°04′ in 2000 and 14°26′ in 2026, and Cancer holds it for centuries more. Along the zodiac it follows [Capella](/astrology/capella/), the goat star at 22° Gemini, and precedes [Procyon](/astrology/procyon/), the little dog's star, which shares its sign at 26° Cancer. Its latitude, 39.6° south of the [ecliptic](/astrology/ecliptic/), means that when the Sun reaches its degree in early July, the star is lost in the daylight forty degrees away.
+Precession has walked it from 13°06′ [Cancer](/astrology/cancer/) in 1930 to 14°04′ in 2000 and 14°26′ in 2026, and Cancer holds it for centuries more. Along the zodiac it follows [Capella](/astrology/capella/), the goat star at 22° Gemini, and precedes [Procyon](/astrology/procyon/), the little dog's star, which shares its sign at 26° Cancer. Its latitude, 39.6° south of the [ecliptic](/astrology/ecliptic/), means that when the Sun reaches its degree in early July, the star is lost in the daylight forty degrees away.
 
 ## Its tradition {#its-tradition}
 
@@ -50,6 +50,6 @@ Medieval astrologers counted Sirius among the fifteen Behenian stars, with beryl
 
 ## In a birth chart {#in-a-birth-chart}
 
-The Sun reaches Sirius's degree on about 5–6 July each year, a [Sun in Cancer](/astrology/sun-in-cancer/) in mid-sign, and that Sun shares a degree with the brightest star of the night and nothing more physical: the star is forty degrees away. Any planet near 14° Cancer is in the same position, linked to Sirius by a line drawn from the zodiac, never by closeness in the sky ([fixed stars in astrology](/astrology/fixed-stars-in-astrology/)).
+In early July, on about the 5th or 6th, the Sun reaches Sirius's degree, a [Sun in Cancer](/astrology/sun-in-cancer/) in mid-sign that shares a degree with the brightest star of the night and nothing more physical: the star is forty degrees away. Any planet near 14° Cancer is in the same position, linked to Sirius by a line drawn from the zodiac, never by closeness in the sky ([fixed stars in astrology](/astrology/fixed-stars-in-astrology/)).
 
-Bright as it is, Sirius has never appeared in a reading of mine. The system I built for my readings places no stars, and a degree of Cancer forty degrees from the star is a thin thread to hang a meaning on ([How I read](/how-i-read/)). What it offers instead is a calendar and a story, the Dog Star whose rising marked the flood and the hottest days of the year, and those I'm glad to pass on as they are.
+Bright as it is, Sirius has never appeared in a reading of mine: I read planets, angles and houses, and a degree of Cancer forty degrees from the star is a thin thread to hang a meaning on ([How I read](/how-i-read/)). What it offers instead is a calendar and a story, the Dog Star whose rising marked the flood and the hottest days of the year, and those I'm glad to pass on as they are.

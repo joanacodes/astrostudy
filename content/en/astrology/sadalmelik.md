@@ -9,7 +9,7 @@ categories: ["Stars"]
 tags: ["Sadalmelik", "fixed stars"]
 weight: 51
 glyph: "★"
-definition: "Sadalmelik is the fixed star α Aquarii, a yellow supergiant of the constellation Aquarius that has stood in the tropical sign of Pisces since about 1760; in 2026 it is at 3°42′ Pisces. Its Arabic name means the lucky star of the king. It lies almost exactly on the celestial equator, 10.7° north of the ecliptic."
+definition: "Sadalmelik is the fixed star α Aquarii, a yellow supergiant of the constellation Aquarius that has stood in the tropical sign of Pisces since about 1760; in 2026, 3°42′ Pisces. Sa‘d al-malik, its Arabic name, means the lucky star of the king. It lies almost on the celestial equator, 10.7° north of the ecliptic."
 facts:
   - { k: "Constellation", v: "Aquarius: α Aquarii, the water-bearer’s right shoulder" }
   - { k: "Brightness", v: "Magnitude 2.96, a hair fainter than Sadalsuud" }
@@ -38,13 +38,13 @@ Sadalmelik belongs to Aquarius on the star map and to Pisces in the zodiac: its 
 
 ## Where it is {#where-it-is}
 
-Sadalmelik is α Aquarii, number 8414 in the Yale Bright Star Catalogue, the star in the water-bearer's right shoulder. An alpha is often its constellation's brightest star, as [Rasalhague](/astrology/rasalhague/) is in Ophiuchus. Not here: at magnitude 2.96, Sadalmelik comes a hair behind [Sadalsuud](/astrology/sadalsuud/), the left shoulder, at 2.91 (the lower the number, the brighter).
+The water-bearer's right shoulder is Sadalmelik, α Aquarii. An alpha is often its constellation's brightest star, as [Rasalhague](/astrology/rasalhague/) is in Ophiuchus. Not here: at magnitude 2.96, Sadalmelik comes a hair behind [Sadalsuud](/astrology/sadalsuud/), the left shoulder, at 2.91 (the lower the number, the brighter).
 
-In the tropical zodiac it stands at 3°42′ [Pisces](/astrology/pisces/) in 2026, against 3°20′ in 2000 and 2°22′ in 1930. Count back at precession's pace, about a degree every 72 years, and its degree was still in Aquarius until around 1760, when the slow backward drift of the equinox carried it over the line. So a star of the constellation Aquarius now sits in the sign of Pisces, and will for well over a thousand years ([constellations versus signs](/astrology/constellations-versus-signs/)).
+Precession has taken it from 2°22′ [Pisces](/astrology/pisces/) in 1930 to 3°20′ in 2000 and 3°42′ in 2026. Count back at the same pace, about a degree every 72 years, and its degree was still in Aquarius until around 1760, when the slow backward drift of the equinox carried it over the line. So a star of the constellation Aquarius now sits in the sign of Pisces, and will for well over a thousand years ([constellations versus signs](/astrology/constellations-versus-signs/)).
 
 Its latitude is 10.7° north of the [ecliptic](/astrology/ecliptic/), the Sun's path, but its distance from the [celestial equator](/astrology/celestial-equator/) is almost nil: Sadalmelik lies 19′ south of that line, one of only two stars with ancient names within a degree of it. A star on the equator rises due east and sets due west wherever you stand on Earth, and spends about half of each day above the horizon.
 
-It is a yellow supergiant about 690 light-years away, shining some 3,900 times as brightly as the Sun. Like Sadalsuud, it travels through space at right angles to the plane of the Milky Way.
+Some 690 light-years away, this yellow supergiant gives out about 3,900 times the Sun's light. Like Sadalsuud, it travels through space at right angles to the plane of the Milky Way.
 
 ## Its tradition {#its-tradition}
 

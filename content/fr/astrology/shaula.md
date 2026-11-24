@@ -10,7 +10,7 @@ categories: ["Étoiles"]
 tags: ["Shaula", "étoiles fixes"]
 weight: 55
 glyph: "★"
-definition: "Shaula est l’étoile fixe λ Scorpii, l’étoile brillante du bout de la queue du Scorpion, à 24°57′ du Sagittaire dans le zodiaque tropical en 2026. Son nom arabe signifie « la queue dressée ». Elle n’est qu’à 35′ de longitude de Lesath : une planète à un degré de l’une est d’ordinaire à un degré des deux."
+definition: "Shaula, l’étoile fixe qui termine la queue dressée du Scorpion, est λ Scorpii, l’une des plus brillantes du ciel nocturne ; en 2026, son degré est 24°57′ du Sagittaire. Son nom arabe signifie « la queue dressée ». Elle n’est qu’à 35′ de longitude de Lesath : une planète à un degré de l’une est d’ordinaire à un degré des deux."
 facts:
   - { k: "Constellation", v: "Scorpion : λ Scorpii, au bout de la queue" }
   - { k: "Éclat", v: "Magnitude 1,63, seconde du Scorpion après Antarès" }
@@ -39,9 +39,9 @@ Shaula est l’étoile du bout de la queue dressée du Scorpion et, à la magnit
 
 ## Où elle se trouve {#ou-elle-se-trouve}
 
-Shaula, c’est λ Scorpii, numéro 6527 du Yale Bright Star Catalogue, et dans sa constellation, seule [Antarès](/astrology/antares/), le cœur rouge du Scorpion, la dépasse. C’est un système de trois étoiles à environ 570 années-lumière, dont la plus grosse est assez massive pour finir sa vie en supernova.
+Dans le Yale Bright Star Catalogue, Shaula est λ Scorpii, numéro 6527, et dans sa constellation, seule [Antarès](/astrology/antares/), le cœur rouge du Scorpion, la dépasse. C’est un système de trois étoiles à environ 570 années-lumière, dont la plus grosse est assez massive pour finir sa vie en supernova.
 
-Dans le zodiaque tropical, elle était à 24°34′ du [Sagittaire](/astrology/sagittarius/) en 2000 ; elle est à 24°57′ en 2026 : comme Antarès, une étoile du Scorpion dans le signe qui suit le Scorpion ([constellations et signes](/astrology/constellations-versus-signs/)). [Lesath](/astrology/lesath/), l’étoile plus faible du dard, la suit à 35′ de longitude. Toute planète entre 23°57′ et 25°22′ du Sagittaire dans un thème de 2026 est à moins d’un degré des deux ; ce n’est que dans le dernier tronçon de Shaula, de 25°22′ à 25°57′, qu’elle est sur Shaula seule.
+En 2026, son degré avait atteint 24°57′ du [Sagittaire](/astrology/sagittarius/), contre 24°34′ en 2000 : comme Antarès, une étoile du Scorpion dans le signe qui suit le Scorpion ([constellations et signes](/astrology/constellations-versus-signs/)). [Lesath](/astrology/lesath/), l’étoile plus faible du dard, la suit à 35′ de longitude. Toute planète entre 23°57′ et 25°22′ du Sagittaire dans un thème de 2026 est à moins d’un degré des deux ; ce n’est que dans le dernier tronçon de Shaula, de 25°22′ à 25°57′, qu’elle est sur Shaula seule.
 
 Sa latitude, 13,8° au sud de l’[écliptique](/astrology/ecliptic/), la place bien au-delà de ce que la Lune peut atteindre, environ 5°. Quand un thème pose une planète sur Shaula, les deux partagent un degré de longitude, tandis que la planète passe loin au nord du dard.
 
@@ -59,4 +59,4 @@ Le Soleil atteint Shaula vers le 16 et le 17 décembre, ou le 15 et le 16 certai
 
 Les planètes lentes couvrent les deux étoiles à la fois. Pluton l’a fait pour les naissances de 2005 et de 2006 ([Pluton en Sagittaire](/astrology/pluto-in-sagittarius/)), Neptune pour celles de 1981 et de 1982, et Uranus, par intermittence, de décembre 1986 à la fin de 1987.
 
-Je peux donner le degré et les dates ; ce que Shaula voudrait dire dans votre thème est une autre affaire, car les étoiles restent tout à fait en dehors de mes lectures. Le système que j’ai construit ne les calcule pas, et elles ne figuraient pas parmi les placements que j’ai testés ([Ma méthode](/how-i-read/)). Si un autre astrologue vous la lit, c’est toujours une planète en Sagittaire qu’on lit, dans sa propre maison, avec la tradition de l’étoile posée légèrement par-dessus.
+Je peux donner le degré et les dates ; ce que Shaula voudrait dire dans votre thème est une autre affaire, car les étoiles restent tout à fait en dehors de mes lectures. Mon système les laisse de côté, et mon carnet ne les a jamais testées ([Ma méthode](/how-i-read/)). Si un autre astrologue vous la lit, c’est toujours une planète en Sagittaire qu’on lit, dans sa propre maison, avec la tradition de l’étoile posée légèrement par-dessus.
