@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/cupido-asteroid", "/astrology/hygiea", "/astrology/chiron", "/astrology/can-astrology-predict-health-problems", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "What does Bacchus mean in astrology?"
-    a: "The god sets its themes: Dionysus, whom the Romans worshipped as Bacchus, god of wine, festivity, ecstasy and the theatre. Found in 1977, the asteroid has no older tradition to draw on. I don’t read it in charts, and no reading of it can say anything about anyone’s drinking."
+    a: "The god sets its themes: Dionysus, whom the Romans worshipped as Bacchus, god of wine, festivity, ecstasy and the theatre; the asteroid itself has only been known since 1977. I leave it out of my readings, and no chart can tell you anything about anyone’s drinking."
   - q: "Can the asteroid Bacchus show a drinking problem or an addiction?"
-    a: "No. No asteroid, planet or house can show whether someone drinks too much, or will, and I never read a chart for health. If drinking worries you, yours or someone else’s, talk to a doctor: that is where real help starts, without judgement."
+    a: "No. No asteroid, planet or house can show whether someone drinks too much, or will, and I never read a chart for health. If you’re worried about drinking, your own or someone else’s, a doctor is where real help starts, without judgement."
   - q: "When was the asteroid Bacchus discovered?"
     a: "On 24 April 1977, by Charles Kowal at the Palomar Observatory in California. That November, Kowal also found Chiron, the first known centaur. Bacchus was named after the god Bacchus, also called Dionysus, and the name was published in 1978."
   - q: "Does the asteroid Bacchus come close to the Earth?"

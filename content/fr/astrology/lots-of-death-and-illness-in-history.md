@@ -23,9 +23,9 @@ facts:
 related: ["/astrology/can-astrology-predict-death", "/astrology/can-astrology-predict-health-problems", "/astrology/medical-astrology-in-history", "/astrology/doctrine-of-the-lots", "/how-i-read"]
 faq:
   - q: "Qu’est-ce que la part de la mort en astrologie ?"
-    a: "C’est l’un des points calculés que les astrologues anciens construisaient pour interroger la fin d’une vie, mesuré comme toute part à partir de deux points du thème et de l’ascendant. Elle appartient à l’histoire de l’astrologie. Aucun point ne peut dire quand ni comment quelqu’un mourra, et je ne lis jamais un thème pour la mort."
+    a: "C’est l’un des points calculés que les astrologues anciens construisaient pour interroger la fin d’une vie, mesuré comme toute part à partir de deux points du thème et de l’ascendant. Cette part appartient à l’histoire de l’astrologie. Quand et comment quelqu’un mourra échappe à tout point d’un thème, et la mort est un sujet que je ne lis jamais."
   - q: "L’astrologie peut-elle prédire une maladie ?"
-    a: "Non. Un thème natal ne voit pas à l’intérieur d’un corps, ne prévoit aucune maladie et ne dit pas si quelqu’un sera en bonne santé, quelle que soit la part ou la maison utilisée. L’astrologie a essayé, et l’astrologie médicale a été enseignée pendant des siècles ; elle n’a aucun fondement scientifique. Pour un symptôme, voyez un médecin."
+    a: "Non. Un thème ne voit pas à l’intérieur d’un corps, ne prévoit aucune maladie et ne dit pas si quelqu’un sera en bonne santé, quelle que soit la part ou la maison. L’astrologie a essayé, et l’astrologie médicale a été enseignée pendant des siècles ; elle n’a aucun fondement scientifique. Tout ce qui vous inquiète dans votre corps relève d’un médecin."
   - q: "Que disait Ptolémée de la durée de vie ?"
     a: "Il la plaçait en tête des questions qui suivent une naissance, dans la Tétrabible, livre III, chapitre 10, et construisait une méthode longue et complexe pour l’estimer à partir de cinq lieux du thème, dont la Part de Fortune. Elle appartient à l’histoire : aucune méthode de ce genre ne peut mesurer une vie."
   - q: "Pourquoi ne donnez-vous pas les formules de ces parts ?"

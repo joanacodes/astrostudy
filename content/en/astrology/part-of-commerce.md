@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["Arabic parts"]
 weight: 19
 glyph: "✦"
-definition: "The Part of Commerce is the lot tradition kept for trade, for buying, selling and dealing: a calculated degree, not a body in the sky, which needs an exact birth time. It is not Mercury’s Hermetic lot, which is Necessity. No lot, house or planet can tell you what a deal will earn."
+definition: "The Part of Commerce is a lot made for trade, for buying, selling and dealing: a calculated degree, not a body in the sky, which needs an exact birth time. It is not Mercury’s Hermetic lot, which is Necessity. No lot, house or planet can tell you what a deal will earn."
 facts:
   - { k: "Type", v: "A lot, also called an Arabic part" }
   - { k: "Kept for", v: "Trade: buying, selling and dealing" }
@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/mercury", "/astrology/part-of-travel", "/astrology/lots-of-death-and-illness-in-history", "/astrology/can-astrology-pick-investments", "/how-i-read"]
 faq:
   - q: "What is the Part of Commerce in astrology?"
-    a: "It is the lot kept for trade, for buying, selling and dealing: a calculated degree that moves with the Ascendant, about a degree every four minutes, so it needs an exact birth time. It is a separate lot from Mercury’s, and it can’t say what anyone will earn."
+    a: "A degree calculated from the birth chart for questions of buying, selling and dealing. Its position follows the Ascendant, so it needs an exact birth time. It is a separate lot from Mercury’s, and it can’t say what anyone will earn."
   - q: "Can the Part of Commerce predict business success or money?"
     a: "No. No lot, house or transit can say whether a business will succeed, what a deal will earn or when money will come. Investments and financial decisions are on my list of what I won’t read. A chart can describe how you negotiate and what security means to you, not your accounts."
   - q: "Is the Part of Commerce Mercury’s lot?"
@@ -46,7 +46,7 @@ Trade had a god before it had a lot. The Romans gave it to [Mercury](/astrology/
 
 Ptolemy is a useful contrast. He distrusted lots, yet for material wealth he used one, the "so-called Lot of Fortune", and counted it from the Sun to the Moon by day and by night alike, where most astrologers of his time reversed it at night (*Tetrabiblos*, book IV, chapter 2). What a person did for a living he handled separately, two chapters later, under the quality of action ([Ptolemy's Tetrabiblos](/astrology/ptolemys-tetrabiblos/)). Wealth and work were two questions for him, and a lot of commerce sits awkwardly between them.
 
-The Part of Commerce itself works like the other lots: two points, the Ascendant, often a reversal for a night birth. Which two points, this page doesn't say: I found no source I could check, and with a lot about money, guessing is the last thing I'd do. If your program offers it, its documentation should name the points; your birth time, to the minute, does the rest, since the lot moves about a degree every four minutes.
+The Part of Commerce itself works like the other lots: two points, the Ascendant, often a reversal for a night birth. Which two points, this page doesn't say: I couldn't confirm them, and with a lot about money, guessing is the last thing I'd do. If your program offers it, its documentation should name the points; your birth time, to the minute, does the rest.
 
 ## In a reading {#in-a-reading}
 

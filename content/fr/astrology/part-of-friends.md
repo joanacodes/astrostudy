@@ -10,7 +10,7 @@ categories: ["Planètes et points"]
 tags: ["parts arabes"]
 weight: 17
 glyph: "✦"
-definition: "La Part des amis est la part que la tradition réservait aux amis, aux alliés et à ceux qui aident, un degré calculé qui côtoie la maison 11, l’ancien Bon Génie, et se déplace avec l’heure de naissance. Elle ne peut ni nommer, ni éprouver, ni choisir un ami : une amitié se joue entre deux thèmes."
+definition: "La Part des amis est une part conçue pour les amis, les alliés et ceux qui aident, un degré calculé qui côtoie la maison 11, l’ancien Bon Génie, et se déplace avec l’heure de naissance. Elle ne peut ni nommer, ni éprouver, ni choisir un ami : une amitié se joue entre deux thèmes."
 facts:
   - { k: "Nature", v: "Une part : un degré calculé à partir du thème" }
   - { k: "Réservée à", v: "Les amis, les alliés et ceux qui aident" }
@@ -58,7 +58,7 @@ Ceux qui se servent de la part partent de sa maison : une Part des amis en mais
 
 ## Dans une lecture {#dans-une-lecture}
 
-L’amitié entre dans mes lectures par la maison 11, jamais par cette part : mon système n’en calcule aucune en dehors de la Fortune et de l’Esprit. Je lis cette maison comme l’appartenance plutôt que la popularité : les gens avec qui vous vous rassemblez, les causes que vous rejoignez, ce que vous espérez construire ensemble. Elle montre votre façon de vous faire des amis ; elle ne les produit pas, et ne peut pas les promettre.
+L’amitié entre dans mes lectures par la maison 11, jamais par cette part : mon système s’arrête à la Fortune et à l’Esprit. Je lis cette maison comme l’appartenance plutôt que la popularité : les gens avec qui vous vous rassemblez, les causes que vous rejoignez, ce que vous espérez construire ensemble. Elle montre votre façon de vous faire des amis ; elle ne les produit pas, et ne peut pas les promettre.
 
 Une amitié en particulier, c’est autre chose, parce qu’elle appartient à deux personnes. Entre deux amis adultes qui veulent tous deux la regarder, je comparerais leurs deux thèmes, une [synastrie](/synastry/) lue dans les deux sens ([thèmes entre amis, collègues et famille](/astrology/charts-for-friends-colleagues-and-family/)). Les deux doivent être au courant et d’accord ([synastrie et consentement](/blog/synastry-behind-their-back/)). Et aucune comparaison ne vous dira si un ami est loyal : cela, deux personnes le découvrent en le vivant.
 

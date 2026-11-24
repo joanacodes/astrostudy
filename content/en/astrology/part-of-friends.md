@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["Arabic parts"]
 weight: 17
 glyph: "✦"
-definition: "The Part of Friends is the lot tradition kept for friends, allies and helpers, a calculated degree that sits beside the 11th house, the old Good Spirit, and shifts with the birth time. It can’t name, test or choose a friend: a friendship lives between two charts, not in one degree."
+definition: "The Part of Friends is a lot built for friends, allies and helpers, a calculated degree that sits beside the 11th house, the old Good Spirit, and shifts with the birth time. It can’t name, test or choose a friend: a friendship lives between two charts, not in one degree."
 facts:
   - { k: "Type", v: "A lot: a degree calculated from the chart" }
   - { k: "Kept for", v: "Friends, allies and helpers" }
@@ -57,7 +57,7 @@ Those who use the lot start from its house: a Part of Friends in the 7th, say, w
 
 ## In a reading {#in-a-reading}
 
-Friendship reaches my readings through the 11th house, never through this lot: my system draws none but Fortune and Spirit. I read that house as belonging rather than popularity: the people you gather with, the causes you join, what you hope to build together. That house shows how you make friends; it doesn't produce them, and it can't promise them.
+Friendship reaches my readings through the 11th house, never through this lot: my system stops at Fortune and Spirit. I read that house as belonging rather than popularity: the people you gather with, the causes you join, what you hope to build together. That house shows how you make friends; it doesn't produce them, and it can't promise them.
 
 A particular friendship is another matter, because it belongs to two people. Between two adult friends who both want to look at it, I'd compare their two charts, a [synastry](/synastry/) read in both directions ([charts for friends, colleagues and family](/astrology/charts-for-friends-colleagues-and-family/)). Both have to know and agree ([synastry and consent](/blog/synastry-behind-their-back/)). And no comparison will tell you whether a friend is loyal; that's something two people find out by living it.
 

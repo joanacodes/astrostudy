@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/bacchus", "/astrology/pandora", "/astrology/ceres", "/astrology/can-astrology-predict-health-problems", "/astrology/medical-astrology-in-history"]
 faq:
   - q: "What does Hygiea mean in astrology?"
-    a: "Its users take their cue from the goddess of health it is named after, and some link it to health practices and medical astrology. Its place in Western astrology is small and unsettled. I don’t read it, and nothing about it can say anything about anyone’s health."
+    a: "Its users take their cue from the goddess of health it is named after, and some link it to health practices and medical astrology. Its place in Western astrology is small and unsettled. I don’t read it, and it has nothing to tell anyone about their health."
   - q: "Can Hygiea predict health problems?"
-    a: "No. No asteroid, planet or house can diagnose an illness, foresee one or say how healthy anyone will be, and I never read a chart for health. A chart can describe how you tend to look after yourself. For a symptom or a worry, a doctor is the right person to ask."
+    a: "No. Diagnosing an illness, foreseeing one or judging how healthy anyone will be is beyond any asteroid, planet or house, and health is a subject I never read in a chart. What a chart can show is how you care for yourself. For a symptom or a worry, a doctor is the right person to ask."
   - q: "Is Hygiea a dwarf planet?"
     a: "Possibly, but not officially. Images taken since 2019 show it nearly round, which could qualify it as a dwarf planet like Ceres; if so, it would be the smallest known. The International Astronomical Union has not classified it as one, so it remains an asteroid, the fourth largest in the main belt."
   - q: "Why is Hygiea’s symbol a caduceus?"
@@ -54,7 +54,7 @@ Even its symbol shows how meanings drift. De Gasparis proposed a serpent crowned
 
 I don't read Hygiea, any more than any other asteroid, and my notebook, which [checked placements one at a time](/blog/i-tested-my-birth-chart/), never included it.
 
-More importantly, health is on my list of what I won't read, for any chart and through any body ([how I read](/how-i-read/)). No placement can diagnose an illness or say how healthy you'll be, and an asteroid named after the goddess of health is no exception ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). [Bacchus](/astrology/bacchus/) invites the same misreading, about drinking, and gets the same answer. What a chart can describe is how you tend to look after yourself; I read that in the [6th house](/astrology/6th-house/), as daily work and daily care, never as a forecast. For a symptom or a worry, a doctor is the right person to see.
+More importantly, health is on my list of what I won't read, for any chart and through any body ([how I read](/how-i-read/)). No placement can diagnose an illness or say how healthy you'll be, and an asteroid named after the goddess of health is no exception ([can astrology predict health problems?](/astrology/can-astrology-predict-health-problems/)). [Bacchus](/astrology/bacchus/) invites the same misreading, about drinking, and gets the same answer. The part of a chart that touches this is the [6th house](/astrology/6th-house/), which I read as your daily work and the care you give yourself, never as a forecast. If something worries you, a doctor can look; a chart can't.
 
 ## Common myths {#myths}
 

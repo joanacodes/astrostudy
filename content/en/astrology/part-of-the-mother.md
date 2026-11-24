@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["Arabic parts"]
 weight: 15
 glyph: "✦"
-definition: "The Part of the Mother is the lot tradition kept for questions about the mother: a degree worked out from the birth chart, not a body you could see, and not to be confused with the Moon. It needs an exact birth time, and it predicts no pregnancy, yours or anyone else’s."
+definition: "The Part of the Mother is a lot, a degree worked out from the birth chart, that tradition used for questions about the mother: not a body you could see, and not to be confused with the Moon. It needs an exact birth time, and it predicts no pregnancy, yours or anyone else’s."
 facts:
   - { k: "Type", v: "A lot: a degree worked out, not a body in the sky" }
   - { k: "Kept for", v: "Questions about the mother" }

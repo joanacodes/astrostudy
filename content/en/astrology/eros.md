@@ -49,13 +49,13 @@ The god is older than most. In Hesiod's *Theogony*, Eros is one of the first pow
 
 Because Eros comes so near, it doesn't move through the zodiac at an even pace. At its closest oppositions, which come round about every 81 years, it can reach the seventh magnitude and seems almost to halt in the sky; at the one of early 2137, its backward loop will cover only 34 minutes of right ascension. Its [retrograde](/astrology/retrograde-explained/) periods are nothing like the steady rhythm of the main-belt asteroids.
 
-Watch the name, too. Among the seven [Hermetic lots](/astrology/hermetic-lots/), Venus has a Lot of Eros: by day, the Ascendant plus Venus minus the [Part of Spirit](/astrology/part-of-spirit/), reversed by night. That's a calculated degree, with nothing to do with the asteroid. A program that simply lists "Eros" may mean either, so read its label before you read anything into it.
+Watch the name, too. Venus's own lot among the seven [Hermetic lots](/astrology/hermetic-lots/) is called Eros, and it is worked out from the [Part of Spirit](/astrology/part-of-spirit/): Ascendant + Venus − Spirit by day, the other way round by night. That's a calculated degree, with nothing to do with the asteroid. A program that simply lists "Eros" may mean either, so read its label first.
 
 ## In a reading {#in-a-reading}
 
-I don't read the asteroid Eros. The system behind my readings calculates no asteroids, and Eros wasn't in the notebook where I [ticked or crossed every placement](/blog/i-tested-my-birth-chart/) of my own chart and other people's, so I can't tell you how often an Eros placement holds.
+The system behind my readings calculates no asteroids, Eros included, and it wasn't in the notebook where I [ticked or crossed every placement](/blog/i-tested-my-birth-chart/) of my own chart and other people's, so I can't tell you how often an Eros placement holds.
 
-Desire does come into a reading, through two planets the notebook did cover. [Venus](/astrology/venus/) is how you value and what attracts you; [Mars](/astrology/mars/) is how you go after it. Venus was among the placements that held about a third of the time; Mars was checked like every other and wasn't one of the three that held far more often. I say so in a reading when something rests on them.
+Desire does come into a reading, through two planets the notebook did cover: [Venus](/astrology/venus/), for what draws you and what you prize, and [Mars](/astrology/mars/), for the way you pursue it. Neither is one of the strong results: Venus held about a third of the time, like the placements everyone reads first, and the three that held far more often were Saturn, Chiron and Lilith. I say so in a reading when something rests on Venus or Mars.
 
 Between two people, the same applies. A synastry compares two whole charts, with both people's agreement ([synastry and consent](/blog/synastry-behind-their-back/)), and no single contact, asteroid or planet, can prove that two people want each other. If you do add Eros, keep it as a detail beside Venus and Mars, never in place of them ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
 

@@ -52,7 +52,7 @@ Le contre-antisce est le reflet de part et d’autre de l’autre axe, celui des
 
 ## Comment ça marche {#comment-ca-marche}
 
-Le miroir n’a rien d’arbitraire : il suit le Soleil. Deux degrés en antisce ont la même [déclinaison](/astrology/declination/), la même distance au nord ou au sud de l’équateur céleste. Quand le Soleil se trouve sur l’un ou l’autre, il se lève au même point de l’horizon et le jour dure autant. Vers le 5 juin, le Soleil est près de 15° Gémeaux ; vers le 7 juillet, près de 15° Cancer : deux jours de même durée, de part et d’autre du plus long. C’est pourquoi les antisces sont proches parents du [parallèle](/astrology/parallel/), qui relie deux planètes de même déclinaison.
+Le miroir n’a rien d’arbitraire : il suit le Soleil. Deux degrés en antisce partagent une même [déclinaison](/astrology/declination/) : ils sont à égale distance de l’équateur céleste, du même côté. Quand le Soleil se trouve sur l’un ou l’autre, il se lève au même point de l’horizon et le jour dure autant. Vers le 5 juin, le Soleil est près de 15° Gémeaux ; vers le 7 juillet, près de 15° Cancer : deux jours de même durée, de part et d’autre du plus long. C’est pourquoi les antisces sont proches parents du [parallèle](/astrology/parallel/), qui relie deux planètes de même déclinaison.
 
 Les contre-antisces fonctionnent à l’inverse. Leurs déclinaisons sont égales et de signes opposés, l’une au nord, l’autre au sud : le jour de l’un vaut la nuit de l’autre, et la lumière d’un début juin dure autant que la nuit d’un début janvier, quand le Soleil est près de 15° Capricorne. Leur pendant parmi les contacts de déclinaison est le [contre-parallèle](/astrology/contra-parallel/).
 
@@ -62,7 +62,7 @@ Les antisces demandent des [orbes](/astrology/orbs/) serrés : un degré enviro
 
 ## Dans une lecture {#dans-une-lecture}
 
-Les antisces ne font pas partie des contacts que comptent mes lectures. Le système avec lequel je lis travaille avec les planètes dans leurs signes, leurs maisons et leurs aspects ([ma méthode](/how-i-read/)), et deux planètes en antisce, sans aspect entre elles, n’y entrent pas. Mon carnet ne les a pas testés non plus : il allait placement par placement, une coche ou une croix pour chaque signe et chaque maison.
+Je laisse les antisces de côté quand je lis un thème. Le système avec lequel je lis travaille avec les planètes dans leurs signes, leurs maisons et leurs aspects ([ma méthode](/how-i-read/)), et deux planètes en antisce, sans aspect entre elles, n’y entrent pas. Mon carnet ne les a pas testés non plus : il donnait à chaque placement en signe ou en maison sa propre coche ou sa propre croix.
 
 Si vous travaillez avec eux, quelques habitudes aident. Gardez un orbe d’un degré environ. Vérifiez si les deux planètes sont aussi en parallèle, puisque c’est la même idée mesurée sur le ciel plutôt que sur le zodiaque. Et lisez une planète posée sur l’antisce d’une autre comme un lien discret entre deux fonctions, jamais comme un verdict sur l’une ou l’autre.
 

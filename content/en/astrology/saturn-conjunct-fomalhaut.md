@@ -5,6 +5,8 @@ description: "Saturn conjunct Fomalhaut in a birth chart: Saturn in early Pisces
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
+categories: ["Placements"]
+tags: ["Saturn", "Fomalhaut", "fixed stars"]
 weight: 2584
 glyph: "♄☌★"
 definition: "Saturn conjunct Fomalhaut is Saturn within 1° of Fomalhaut’s zodiac degree, early in Pisces: births from March to November 1935, April 1964 to January 1965, or February to March 1994. About 1 person in 183 has it. The star’s royal title is doubtful; Saturn was among the three placements that held most often in my notebook."

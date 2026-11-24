@@ -5,6 +5,8 @@ description: "Mars conjunct Fomalhaut in a birth chart: Mars in early Pisces on 
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
+categories: ["Placements"]
+tags: ["Mars", "Fomalhaut", "fixed stars"]
 weight: 2583
 glyph: "♂☌★"
 definition: "Mars conjunct Fomalhaut is Mars within 1° of the zodiac degree of Fomalhaut, the bright star of the Southern Fish, in early Pisces. Mars usually crosses it in two or three days, roughly every other year; in 2003 it crossed three times. About 1 person in 210 has it. Chinese astronomy made the star the gate of an army camp."

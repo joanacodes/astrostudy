@@ -5,6 +5,8 @@ description: "Venus conjunct Fomalhaut in a birth chart: Venus exalted in early 
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
+categories: ["Placements"]
+tags: ["Venus", "Fomalhaut", "fixed stars"]
 weight: 2582
 glyph: "♀☌★"
 definition: "Venus conjunct Fomalhaut is Venus within 1° of the zodiac degree of Fomalhaut, the star in the Southern Fish’s mouth: always Venus in early Pisces, the sign of its exaltation, and only for births between early January and early April. About 1 person in 216 has it. An old Syrian story makes the fish a rescuer of Aphrodite’s daughter."
@@ -33,7 +35,7 @@ Venus conjunct Fomalhaut puts Venus in the first degrees of Pisces, the sign the
 
 ## What it means {#what-it-means}
 
-I read [Venus](/astrology/venus/) as judgement of value: what attracts you, what you choose when you could have either, what you count as a fair exchange between two people. Of the stories told about [Fomalhaut](/astrology/fomalhaut/), one comes unusually close to Venus's own name. Ctesias, a Greek historian of the fifth century BC, wrote of a fish in a lake near Bambyce, in Syria, that saved Derceto, a daughter of Aphrodite, and was set among the stars for it; many Syrians, he said, would not eat fish because of it. Aphrodite is the goddess the Romans called Venus, so in one of its oldest tellings the Southern Fish rescues a member of her family. An Egyptian version gives the fish the same part with Isis.
+I read [Venus](/astrology/venus/) as judgement of value: what attracts you, what you choose when you could have either, what you count as a fair exchange between two people. Of the stories told about [Fomalhaut](/astrology/fomalhaut/), one comes unusually close to Venus's own name. Ctesias, a Greek historian of the fifth century BC, wrote of a fish in a lake near Bambyce, in Syria, that saved Derceto, a daughter of Aphrodite, and was set among the stars for it; for that reason, the account goes on, many Syrians held fish sacred and would not eat them. Aphrodite is the goddess the Romans called Venus, so in one of its oldest tellings the Southern Fish rescues a member of her family. An Egyptian version gives the fish the same part with Isis.
 
 Those stories are the tradition's colour for this contact, and they are kindly ones: a star that saves rather than threatens. They remain stories. Venus keeps its own work here, and what describes it best is the sign. The star's degree, 2°52′ Pisces in 1930 and 4°13′ in 2026, always makes this a [Venus in Pisces](/astrology/venus-in-pisces/), and Pisces is where the old books held Venus in [exaltation](/astrology/exaltation/), its most honoured place. Read without any star, that is a Venus whose sense of value tends to run through tenderness, imagination and acceptance.
 

@@ -10,7 +10,7 @@ categories: ["Planètes et points"]
 tags: ["astéroïdes"]
 weight: 7
 glyph: "✦"
-definition: "Psyché, l’astéroïde 16, est un gros astéroïde riche en métal découvert en 1852, baptisé du nom de la mortelle qui épousa Cupidon chez Apulée. Son nom veut dire en grec l’âme et le papillon. Les astrologues qui le placent tirent son sens de ce récit ; une sonde de la NASA est en route, et je ne le lis pas."
+definition: "Psyché, l’astéroïde 16, est un gros astéroïde riche en métal découvert en 1852, baptisé du nom de la mortelle qui épousa Cupidon chez Apulée. Son nom veut dire en grec l’âme et le papillon, et son histoire de confiance perdue puis regagnée nourrit les astrologues qui le placent. Une sonde de la NASA est en route vers lui."
 facts:
   - { k: "Nature", v: "Astéroïde de la ceinture principale, le plus grand du type M, riche en métal, environ 222 km" }
   - { k: "Découverte", v: "Le 17 mars 1852, par Annibale de Gasparis à Naples" }
@@ -23,7 +23,7 @@ facts:
 related: ["/astrology/eros", "/astrology/amor", "/astrology/moon", "/astrology/mercury", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Que signifie Psyché en astrologie ?"
-    a: "Les astrologues qui utilisent l’astéroïde Psyché tirent son sens de son nom et de son histoire : la mortelle dont le nom veut dire l’âme, qui perdit Cupidon en trahissant sa confiance et le regagna à travers des épreuves. Je ne le lis pas. Dans l’astrologie ancienne, l’âme avait déjà ses planètes, Mercure et la Lune."
+    a: "Tout ce qu’on en dit vient du conte d’Apulée : la mortelle dont le nom veut dire l’âme, qui perdit Cupidon en trahissant sa confiance et le regagna à travers des épreuves. Je ne le lis pas. Dans l’astrologie ancienne, l’âme avait déjà ses planètes : Ptolémée la lisait d’après Mercure et la Lune."
   - q: "De quoi l’astéroïde Psyché est-il fait ?"
     a: "Psyché est le plus grand des astéroïdes de type M, riches en métal, avec environ 222 km de diamètre. On l’a longtemps pris pour le noyau de fer mis à nu d’une jeune planète brisée, mais des observations publiées en 2020 en font douter, et sa densité indique un mélange de métal et de roche."
   - q: "La NASA va-t-elle vers l’astéroïde Psyché ?"
@@ -35,7 +35,7 @@ sources:
   - { title: "Apulée, Métamorphoses (L’Âne d’or), livres 4 à 6, via Wikipédia en anglais, « Psyche (mythology) »", url: "https://en.wikipedia.org/wiki/Psyche_(mythology)", note: "le conte de Psyché et Cupidon, et les sens de son nom ; vérifié le 24 novembre 2026" }
   - { title: "Ptolémée, Tétrabible, livre III, trad. F. E. Robbins (Loeb Classical Library, 1940), via Wikipédia en anglais, « Tetrabiblos »", url: "https://en.wikipedia.org/wiki/Tetrabiblos", note: "la qualité de l’âme, d’après Mercure et la Lune ; vérifié le 24 novembre 2026" }
 ---
-Psyché est le seizième astéroïde jamais découvert, et le premier qu’on ait écrit avec un numéro plutôt qu’avec un dessin. Son symbole, qui ne s’est jamais imposé, était une aile de papillon surmontée d’une étoile, parce qu’en grec *psyché* veut dire à la fois l’âme et le papillon. Certains astrologues le placent dans le thème natal ; pas moi, et voici ce qu’il est, et pourquoi.
+Psyché est le seizième astéroïde jamais découvert, et le premier qu’on ait écrit avec un numéro plutôt qu’avec un dessin. Son symbole, qui ne s’est jamais imposé, était une aile de papillon surmontée d’une étoile, parce qu’en grec *psyché* veut dire à la fois l’âme et le papillon. Une sonde qui porte son nom est en route vers lui.
 
 ## Ce que c’est {#ce-que-c-est}
 
@@ -53,13 +53,13 @@ Avant d’emprunter un astéroïde pour l’âme, il est bon de savoir que l’a
 
 ## Dans une lecture {#dans-une-lecture}
 
-Je ne lis pas Psyché. Le système que j’ai construit ne calcule aucun astéroïde, et quand j’ai [vérifié mon thème comme une facture](/blog/i-tested-my-birth-chart/), placement par placement, Psyché n’était pas sur la liste. Mercure et la Lune, si. Mercure faisait partie des placements qui ont tenu environ une fois sur trois ; la Lune a été vérifiée comme tous les autres placements et ne figurait pas parmi les trois qui ont tenu bien plus souvent. C’est le socle honnête de tout ce que je dis de votre esprit ou de vos émotions.
+Mes lectures laissent les astéroïdes de côté, Psyché avec eux, et quand j’ai [vérifié mon thème comme une facture](/blog/i-tested-my-birth-chart/), ligne par ligne, Psyché n’était pas sur la liste. Mercure et la Lune, si. Dans le carnet, Mercure a tenu environ une fois sur trois, comme le signe solaire et l’ascendant ; la Lune, vérifiée comme tout le reste, ne s’est pas distinguée comme Saturne, Chiron et Lilith. C’est le socle honnête de tout ce que je dis de votre esprit ou de vos émotions.
 
-Un mot de prudence aussi, à cause du nom. Un thème décrit votre façon de penser et de ressentir ; il n’évalue la santé mentale de personne, et aucun placement, celui de Psyché compris, n’est un symptôme ([astrologie et santé mentale](/astrology/astrology-and-mental-health/)). Si vous voulez ajouter Psyché à votre thème, gardez-le à sa place : un détail à côté des planètes, lu seulement en contact serré ([lire les astéroïdes sans noyer le thème](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
+Un mot de prudence aussi, à cause du nom. Un thème décrit votre façon de penser et de ressentir ; il n’évalue la santé mentale de personne, et aucun placement, celui de Psyché compris, n’est un symptôme ([astrologie et santé mentale](/astrology/astrology-and-mental-health/)). Si vous voulez essayer Psyché dans votre propre thème, laissez d’abord parler Mercure et la Lune, et ne donnez la parole à l’astéroïde que là où il se tient près de l’une de ces deux voix ([lire les astéroïdes sans noyer le thème](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
 
 ## Idées reçues {#idees-recues}
 
 - **« Psyché montre votre âme. »** C’est un rocher riche en métal qui porte le nom d’une âme. Ce que votre thème dit de votre vie intérieure vient de ses planètes.
-- **« Psyché et Éros ensemble, c’est l’âme sœur. »** Aucun contact ne prouve une âme sœur, et aucun point ne nomme un partenaire.
+- **« Psyché et Éros ensemble, c’est l’âme sœur. »** Deux astéroïdes tirés d’une même histoire font une jolie coïncidence dans un thème, pas une promesse.
 - **« La mission de la NASA révélera ce que Psyché signifie dans un thème. »** Elle dira de quoi l’astéroïde est fait, ce qui relève de l’astronomie.
 - **« Psyché a toujours été une déesse. »** Dans le conte, c’est une femme mortelle, rendue immortelle à la fin seulement.

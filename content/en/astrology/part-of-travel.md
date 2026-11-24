@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["Arabic parts"]
 weight: 18
 glyph: "✦"
-definition: "The Part of Travel is the lot old astrology kept for journeys, above all long ones, a calculated degree read beside the 9th house of far travel. It needs the birth time, and a relocated chart moves it. It can neither promise a safe journey nor choose a date."
+definition: "The Part of Travel is a lot devoted to journeys, above all long ones, a calculated degree read beside the 9th house of far travel. It needs the birth time, and a relocated chart moves it. It can neither promise a safe journey nor choose a date."
 facts:
   - { k: "Type", v: "A lot, also called an Arabic part" }
   - { k: "Kept for", v: "Journeys, above all long ones" }

@@ -40,7 +40,7 @@ Of the four points Witte proposed beyond Neptune, Hades and [Cupido](/astrology/
 
 The name belongs to the Greek god of the dead and of riches, king of the underworld; since antiquity it has generally been taken to mean the unseen one. He was the eldest son of Cronus and Rhea. With his brothers Zeus and [Poseidon](/astrology/poseidon/) he overthrew the Titans, and the three shared out the world: Zeus took the sky, Poseidon the sea, Hades the realm of the dead, with the earth left to all three.
 
-Around the fifth century BC, perhaps wary of saying his name aloud, Greeks began to call him Plouton, the rich one, for the wealth that comes up out of the ground, crops and metals. Latin made it Pluto, the name the body found in 1930 now carries ([Pluto](/astrology/pluto/)).
+Around the fifth century BC, perhaps wary of saying his name aloud, Greeks began to call him Plouton, the rich one, for the wealth that comes up out of the ground, crops and metals. Latin made it Pluto, the name the body found in 1930 now carries ([Pluto](/astrology/pluto/)). Roman writers later folded other underworld gods into him under that name, Dis Pater and Orcus among them, and the dwarf planet [Orcus](/astrology/orcus/) carries one of them. His queen was Persephone, daughter of Zeus and Demeter, whom he carried off below; a planet once imagined beyond Pluto has carried her name too ([Persephone (hypothetical planet)](/astrology/persephone-hypothetical/)).
 
 ## How it works {#how-it-works}
 

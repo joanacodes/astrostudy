@@ -5,6 +5,8 @@ description: "Sun conjunct Fomalhaut in a birth chart: born about 21–22 Februa
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "combinations"
+categories: ["Placements"]
+tags: ["Sun", "Fomalhaut", "fixed stars"]
 weight: 2580
 glyph: "☉☌★"
 definition: "Sun conjunct Fomalhaut is the Sun within 1° of the zodiac degree of Fomalhaut, the bright star in the mouth of the Southern Fish: a birthday on about 21 or 22 February, early in Pisces. Astrology books count the star among four royal stars, on doubtful evidence. In the sky, the Sun passes 21° north of it."

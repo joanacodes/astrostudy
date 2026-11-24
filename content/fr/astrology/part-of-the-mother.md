@@ -10,7 +10,7 @@ categories: ["Planètes et points"]
 tags: ["parts arabes"]
 weight: 15
 glyph: "✦"
-definition: "La Part de la mère est la part que la tradition réservait aux questions sur la mère : un degré calculé à partir du thème natal, pas un astre visible, et à ne pas confondre avec la Lune. Elle exige une heure de naissance exacte, et elle ne prédit aucune grossesse, ni la vôtre ni celle de quiconque."
+definition: "La Part de la mère est une part, un degré calculé à partir du thème natal, dont la tradition se servait pour les questions sur la mère : pas un astre visible, et à ne pas confondre avec la Lune. Elle exige une heure de naissance exacte, et elle ne prédit de grossesse pour personne."
 facts:
   - { k: "Nature", v: "Une part : un degré calculé, pas un astre dans le ciel" }
   - { k: "Réservée à", v: "Les questions sur la mère" }

@@ -10,7 +10,7 @@ categories: ["Planètes et points"]
 tags: ["astéroïdes"]
 weight: 11
 glyph: "✦"
-definition: "Bacchus, l’astéroïde 2063, est un astéroïde géocroiseur long d’environ un kilomètre, fait de deux lobes, découvert en 1977 et baptisé Bacchus, le nom sous lequel Rome connaissait Dionysos, dieu du vin, de l’extase et du théâtre. Les astrologues qui l’utilisent partent du dieu. Aucun placement ne montre une addiction, et je ne lis pas Bacchus."
+definition: "Bacchus, l’astéroïde 2063, est un astéroïde géocroiseur long d’environ un kilomètre, fait de deux lobes, découvert en 1977 et baptisé Bacchus, le nom sous lequel Rome connaissait Dionysos, dieu du vin, de l’extase et du théâtre. Ses utilisateurs en retiennent le vin, le théâtre et la libération. Aucun placement ne peut montrer une addiction."
 facts:
   - { k: "Nature", v: "Astéroïde géocroiseur du groupe Apollon, long d’environ 1 km" }
   - { k: "Découverte", v: "Le 24 avril 1977, par Charles Kowal à Palomar, en Californie" }
@@ -23,9 +23,9 @@ facts:
 related: ["/astrology/cupido-asteroid", "/astrology/hygiea", "/astrology/chiron", "/astrology/can-astrology-predict-health-problems", "/blog/saturn-chiron-lilith"]
 faq:
   - q: "Que signifie Bacchus en astrologie ?"
-    a: "Les astrologues qui utilisent l’astéroïde Bacchus partent du dieu dont il porte le nom : Dionysos, que les Romains honoraient sous le nom de Bacchus, dieu du vin, de la fête, de l’extase et du théâtre. Un corps découvert en 1977 n’apporte aucune tradition plus ancienne : le mythe fait tout son sens. Je ne le lis pas dans les thèmes."
+    a: "Le dieu fixe ses thèmes : Dionysos, que les Romains honoraient sous le nom de Bacchus, dieu du vin, de la fête, de l’extase et du théâtre ; l’astéroïde lui-même n’est connu que depuis 1977. Je le laisse hors de mes lectures, et aucun thème ne peut rien dire de la consommation d’alcool de qui que ce soit."
   - q: "L’astéroïde Bacchus peut-il montrer un problème d’alcool ou une addiction ?"
-    a: "Non. Aucun astéroïde, aucune planète, aucune maison ne peut montrer si quelqu’un boit trop, ou boira trop, et je ne lis jamais un thème pour la santé. Si l’alcool vous inquiète, pour vous ou pour un proche, parlez-en à un médecin : c’est là que commence une vraie aide, sans jugement."
+    a: "Non. Aucun astéroïde, aucune planète, aucune maison ne peut montrer si quelqu’un boit trop, ou boira trop, et je ne lis jamais un thème pour la santé. Si vous vous inquiétez de l’alcool, le vôtre ou celui d’un proche, c’est auprès d’un médecin que commence une vraie aide, sans jugement."
   - q: "Quand l’astéroïde Bacchus a-t-il été découvert ?"
     a: "Le 24 avril 1977, par Charles Kowal à l’observatoire Palomar, en Californie. En novembre de la même année, Kowal découvrait aussi Chiron, le premier centaure connu. Bacchus a été nommé d’après le dieu Bacchus, aussi appelé Dionysos, et le nom a été publié en 1978."
   - q: "L’astéroïde Bacchus s’approche-t-il de la Terre ?"
@@ -45,13 +45,13 @@ Il a été nommé d’après Bacchus, le nom sous lequel les Romains honoraient 
 
 ## Comment ça marche {#comment-ca-marche}
 
-Un corps découvert en 1977 n’apporte avec lui aucune tradition ancienne. Ce que disent de Bacchus les astrologues qui l’utilisent part du dieu, et le dieu est plus vaste que sa réputation : le vin et la fête, bien sûr, mais aussi le théâtre, le masque, et la libération de la peur et des soucis que ses rites passaient pour apporter.
+Bacchus n’a l’attention des astrologues que depuis 1977, et ils puisent dans le dieu, plus vaste que sa réputation : le vin et la fête, bien sûr, mais aussi le théâtre, le masque, et la libération de la peur et des soucis que ses rites passaient pour apporter.
 
 Comme il plonge vers le Soleil et en ressort en un peu plus d’un an, Bacchus traverse le zodiaque vite et de façon irrégulière, plus vite quand il est proche de la Terre. Il a aussi un frère, en un sens. [Chiron](/astrology/chiron/), découvert par le même astronome au même observatoire six mois plus tard, a reçu un symbole astrologique peu après sa découverte, dessiné par Al H. Morrison, et ce symbole est devenu la norme chez les astrologues.
 
 ## Dans une lecture {#dans-une-lecture}
 
-Je ne lis pas Bacchus. Le système derrière mes lectures ne calcule aucun astéroïde, et Bacchus ne figurait pas sur la liste quand j’ai [vérifié des thèmes comme une facture](/blog/i-tested-my-birth-chart/). Son frère de 1977, si, et le contraste est ce que je peux vous dire de plus clair : Chiron, avec Saturne et Lilith, a tenu 75 à 90 % du temps, bien plus souvent que les placements que tout le monde lit en premier ([les trois qui ont tenu](/blog/saturn-chiron-lilith/)). Chiron mérite sa place dans une lecture. Bacchus n’a jamais été testé dans les miennes. Si vous l’ajoutez à votre propre thème, ne le lisez qu’en contact serré avec une planète ou un angle, comme un détail à côté d’eux ([lire les astéroïdes sans noyer le thème](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
+Des deux corps que Kowal a trouvés cette année-là, un seul est entré dans mon carnet quand j’ai [vérifié des thèmes comme une facture](/blog/i-tested-my-birth-chart/), et un seul est dans mes lectures, qui laissent les astéroïdes de côté. Le contraste est ce que je peux vous dire de plus clair : Chiron, avec Saturne et Lilith, a tenu 75 à 90 % du temps, bien plus souvent que les placements que tout le monde lit en premier ([les trois qui ont tenu](/blog/saturn-chiron-lilith/)). Chiron mérite sa place dans une lecture. Bacchus n’a jamais été testé dans les miennes.
 
 Il y a aussi une limite plus ferme. Aucun astéroïde ne peut montrer si quelqu’un boit trop, ou boira trop, et les questions de santé font partie de ce que je ne lis pas ([ma méthode](/how-i-read/) ; [l’astrologie peut-elle prédire la santé ?](/astrology/can-astrology-predict-health-problems/)). Il en va de même pour l’esprit : aucun placement n’est un symptôme ([astrologie et santé mentale](/astrology/astrology-and-mental-health/)). Bacchus invite à ce genre de lecture, tout comme [Hygie](/astrology/hygiea/), qui porte le nom de la déesse de la santé ; je la refuse dans les deux cas. Si l’alcool vous inquiète, pour vous ou pour un proche, un médecin est la bonne porte, et demander n’a rien d’un échec.
 

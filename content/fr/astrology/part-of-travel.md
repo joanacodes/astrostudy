@@ -10,7 +10,7 @@ categories: ["Planètes et points"]
 tags: ["parts arabes"]
 weight: 18
 glyph: "✦"
-definition: "La Part des voyages est la part que l’astrologie ancienne réservait aux voyages, surtout lointains, un degré calculé lu à côté de la maison 9, celle du lointain. Elle a besoin de l’heure de naissance, et un thème relocalisé la déplace. Elle ne peut ni promettre un voyage sans encombre ni choisir une date."
+definition: "La Part des voyages est une part consacrée aux déplacements, surtout lointains, un degré calculé lu à côté de la maison 9, celle du lointain. Elle a besoin de l’heure de naissance, et un thème relocalisé la déplace. Elle ne peut ni promettre un voyage sans encombre ni choisir une date."
 facts:
   - { k: "Nature", v: "Une part, dite aussi part arabe" }
   - { k: "Réservée à", v: "Les voyages, surtout lointains" }

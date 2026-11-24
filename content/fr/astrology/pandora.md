@@ -10,7 +10,7 @@ categories: ["Planètes et points"]
 tags: ["astéroïdes"]
 weight: 13
 glyph: "✦"
-definition: "Pandore, l’astéroïde 55, est un astéroïde de la ceinture principale d’environ 70 à 85 km, découvert en 1858 et baptisé d’après Pandore, la première femme du mythe grec, dont la jarre ouverte laissa les maux entrer dans le monde. Les astrologues qui l’utilisent partent de ce récit. Pandore n’annonce aucun malheur, et je ne le lis pas."
+definition: "Pandore, l’astéroïde 55, est un astéroïde de la ceinture principale d’environ 70 à 85 km, découvert en 1858 et baptisé d’après Pandore, la première femme du mythe grec, dont la jarre ouverte laissa les maux entrer dans le monde. Ceux qui l’utilisent y lisent la jarre ouverte, et l’espérance restée à l’intérieur. Un placement de Pandore n’annonce aucun malheur."
 facts:
   - { k: "Nature", v: "Astéroïde de la ceinture principale, environ 70 à 85 km" }
   - { k: "Découverte", v: "Le 10 septembre 1858, par George Mary Searle à l’observatoire Dudley, à Albany" }
@@ -23,11 +23,11 @@ facts:
 related: ["/astrology/hygiea", "/astrology/hekate", "/astrology/how-to-use-asteroids-without-drowning-the-chart", "/astrology/transits", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "Que signifie Pandore en astrologie ?"
-    a: "Les astrologues qui utilisent l’astéroïde Pandore partent du mythe : la première femme, façonnée et comblée de dons par les dieux, qui ouvrit une jarre et laissa les maux se répandre dans le monde, l’espérance restant à l’intérieur. Ce récit est la seule source du sens qu’on lui donne. Je ne lis pas Pandore dans les thèmes."
+    a: "Il n’a que son mythe : la première femme, façonnée et comblée de dons par les dieux, qui ouvrit une jarre et laissa les maux se répandre dans le monde, l’espérance restant à l’intérieur. Tout sens donné à l’astéroïde vient de ce récit. Je ne lis pas Pandore dans les thèmes."
   - q: "La boîte de Pandore était-elle vraiment une boîte ?"
     a: "Non. Chez Hésiode, vers 700 av. J.-C., Pandore ouvre une grande jarre de stockage, un pithos. On fait d’ordinaire remonter la boîte à l’humaniste Érasme, qui, dans son recueil de proverbes de 1508, changea le mot grec pour jarre en pyxis, une boîte. L’image est restée, et l’expression ouvrir la boîte de Pandore avec elle."
   - q: "Pandore dans mon thème annonce-t-il des ennuis ?"
-    a: "Non. Aucun astéroïde ne peut annoncer de malheur, et un mythe sur les maux du monde n’est pas une prédiction sur vous. Je lis le mouvement du ciel sur un thème comme une météo, pas comme une prévision. Si quelqu’un se sert de Pandore pour vous faire peur, cela en dit plus sur cette personne que sur votre thème."
+    a: "Non. Aucun astéroïde ne peut annoncer de malheur, et un mythe sur les maux du monde n’est pas une prédiction sur vous ; je laisse Pandore hors de toutes mes lectures. Si quelqu’un se sert de Pandore pour vous faire peur, cela en dit plus sur cette personne que sur votre thème."
   - q: "Qui a découvert et nommé l’astéroïde Pandore ?"
     a: "George Mary Searle, astronome américain et prêtre catholique, l’a trouvé le 10 septembre 1858 à l’observatoire Dudley, près d’Albany, dans l’État de New York ; ce fut son seul astéroïde. Le nom a apparemment été choisi par Blandina Dudley, veuve du fondateur de l’observatoire, en pleine querelle avec son directeur, qui le trouva bien choisi."
 sources:
@@ -35,7 +35,7 @@ sources:
   - { title: "Hésiode, Les Travaux et les Jours 47–105, et Érasme, Adages (1508), via Wikipédia en anglais, « Pandora’s box »", url: "https://en.wikipedia.org/wiki/Pandora%27s_box", note: "la jarre, son contenu, et comment elle est devenue une boîte ; vérifié le 24 novembre 2026" }
   - { title: "Wikipédia en anglais — Benjamin Apthorp Gould", url: "https://en.wikipedia.org/wiki/Benjamin_Apthorp_Gould", note: "directeur de l’observatoire Dudley de 1855 à 1859 ; vérifié le 24 novembre 2026" }
 ---
-Pandore est le cinquante-cinquième astéroïde jamais découvert, et son nom est sorti d’une querelle. En 1858, l’observatoire Dudley, à Albany, était le théâtre d’un conflit amer, et le nom de l’astéroïde trouvé là en septembre fut choisi, apparemment, par un camp et jugé bien trouvé par l’autre. Certains astrologues placent Pandore dans le thème natal. Cette page dit ce qu’il est, d’où vient son histoire, et pourquoi il n’annonce rien.
+Pandore est le cinquante-cinquième astéroïde jamais découvert, et son nom est sorti d’une querelle. En 1858, l’observatoire Dudley, à Albany, était le théâtre d’un conflit amer, et le nom de l’astéroïde trouvé là en septembre fut choisi, apparemment, par un camp et jugé bien trouvé par l’autre. Son mythe, des maux lâchés sur le monde, est de ceux qui font peur : mieux vaut savoir ce que dit vraiment le récit.
 
 ## Ce que c’est {#ce-que-c-est}
 
@@ -47,7 +47,7 @@ Celle dont il porte le nom est la première femme du mythe grec. Chez Hésiode, 
 
 ## Comment ça marche {#comment-ca-marche}
 
-Un corps baptisé en 1858 n’apporte aucune tradition plus ancienne : ce que les astrologues disent de Pandore part du mythe, les dons, la curiosité, la jarre, l’espérance. Deux détails méritent d’être connus avant d’y lire quoi que ce soit.
+Tout ce que les astrologues disent de Pandore vient du récit d’Hésiode : les dons, la curiosité, la jarre, l’espérance. Deux détails méritent d’être connus d’abord.
 
 Le premier, c’est la boîte. La Pandore d’Hésiode ouvre une grande jarre de stockage, un *pithos*. On fait d’ordinaire remonter la boîte à 1508, quand l’humaniste Érasme, reprenant l’histoire dans son recueil de proverbes, changea la jarre grecque en *pyxis*, une boîte. L’expression « ouvrir la boîte de Pandore » est née de ce glissement.
 
@@ -55,9 +55,9 @@ Le second, c’est le nom lui-même. Il a été choisi en pleine querelle, et ap
 
 ## Dans une lecture {#dans-une-lecture}
 
-Je ne lis pas Pandore. Le système derrière mes lectures ne calcule aucun astéroïde, et Pandore ne faisait pas partie des placements que j’ai [comptés, coche ou croix](/blog/i-tested-my-birth-chart/) : je ne peux pas vous dire à quelle fréquence il tient.
+Pandore n’a aucune place dans mes lectures, ni dans le carnet où j’ai [compté, coche ou croix](/blog/i-tested-my-birth-chart/), ce qui tenait dans des vies réelles.
 
-Ce que je peux vous dire, c’est qu’aucun placement n’annonce le malheur. Je lis le mouvement des planètes sur un thème, les [transits](/astrology/transits/), comme une météo, pas comme une prévision, et un mythe sur des maux lâchés dans le monde n’est pas une prédiction sur votre vie. Si quelqu’un s’est servi d’un placement de Pandore pour vous faire peur, ou pour vous vendre un remède, cela vous renseigne sur cette personne, pas sur votre thème ([arnaques au désenvoûtement](/astrology/curse-removal-scams/)). Et si vous ajoutez Pandore à votre propre thème, gardez-le à sa place : contacts serrés seulement, lu comme un détail à côté des planètes ([lire les astéroïdes sans noyer le thème](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
+Ce que je peux vous dire, c’est qu’aucun placement n’annonce le malheur. Je lis le mouvement des planètes sur un thème, les [transits](/astrology/transits/), comme une météo, pas comme une prévision, et un mythe sur des maux lâchés dans le monde n’est pas une prédiction sur votre vie. Si quelqu’un s’est servi d’un placement de Pandore pour vous faire peur, ou pour vous vendre un remède, cela vous renseigne sur cette personne, pas sur votre thème ([arnaques au désenvoûtement](/astrology/curse-removal-scams/)).
 
 ## Idées reçues {#idees-recues}
 

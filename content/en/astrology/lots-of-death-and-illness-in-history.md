@@ -22,9 +22,9 @@ facts:
 related: ["/astrology/can-astrology-predict-death", "/astrology/can-astrology-predict-health-problems", "/astrology/medical-astrology-in-history", "/astrology/doctrine-of-the-lots", "/how-i-read"]
 faq:
   - q: "What is the lot of death in astrology?"
-    a: "It is one of the calculated points that old astrologers built to question the end of a life, measured like any lot from two points of a chart and the Ascendant. It belongs to the history of astrology. No point can tell when or how anyone will die, and I never read a chart for death."
+    a: "It is one of the calculated points that old astrologers built to question the end of a life, measured like any lot from two points of a chart and the Ascendant. It belongs to the history of astrology. When and how anyone will die is beyond any point in a chart, and death is a subject I never read."
   - q: "Can astrology predict illness?"
-    a: "No. A birth chart can’t see inside a body, foresee an illness or say how healthy anyone will be, whatever lot or house is used. Astrology once tried, and medical astrology was taught for centuries; it has no scientific basis. For a symptom or a worry about your health, see a doctor."
+    a: "No. A birth chart can’t see inside a body, foresee an illness or say how healthy anyone will be, whatever lot or house is used. Astrology once tried, and medical astrology was taught for centuries; it has no scientific basis. Anything that worries you in your body is a question for a doctor."
   - q: "What did Ptolemy say about the length of life?"
     a: "He put it first among the questions that follow a birth, in the Tetrabiblos, book III, chapter 10, and built a long, complex method to estimate it from five places of the chart, the Lot of Fortune among them. It belongs to history: no such method can measure a life."
   - q: "Why don’t you give the formulas of these lots?"

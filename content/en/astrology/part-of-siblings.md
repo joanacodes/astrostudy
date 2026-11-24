@@ -9,7 +9,7 @@ categories: ["Planets and points"]
 tags: ["Arabic parts"]
 weight: 16
 glyph: "✦"
-definition: "The Part of Siblings is the lot kept for brothers and sisters, a single calculated degree added to the 3rd house that tradition already gave them. Counted from the Ascendant, it differs even between twins born minutes apart. It can neither count your siblings nor describe them."
+definition: "The Part of Siblings is the lot for brothers and sisters, a single calculated degree added to the 3rd house that tradition already gave them. Counted from the Ascendant, it differs even between twins born minutes apart. It can neither count your siblings nor describe them."
 facts:
   - { k: "Type", v: "A lot, also called an Arabic part" }
   - { k: "Kept for", v: "Brothers and sisters" }

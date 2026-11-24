@@ -51,7 +51,7 @@ The contra-antiscion is the reflection across the other axis, the equinoxes, 0°
 
 ## How it works {#how-it-works}
 
-The mirror isn't arbitrary: it follows the Sun. Degrees in antiscia sit at the same [declination](/astrology/declination/), the same distance north or south of the celestial equator. When the Sun stands on either of them, it rises at the same point of the horizon and the day lasts as long. Around 5 June the Sun is near 15° Gemini; around 7 July, near 15° Cancer: two days of the same length, one each side of the longest. That's why antiscia are close kin of the [parallel](/astrology/parallel/), which joins two planets at the same declination.
+The mirror isn't arbitrary: it follows the Sun. Degrees in antiscia share a [declination](/astrology/declination/): they lie equally far from the celestial equator, on the same side of it. When the Sun stands on either of them, it rises at the same point of the horizon and the day lasts as long. Around 5 June the Sun is near 15° Gemini; around 7 July, near 15° Cancer: two days of the same length, one each side of the longest. That's why antiscia are close kin of the [parallel](/astrology/parallel/), which joins two planets at the same declination.
 
 Contra-antiscia work the other way round. Their declinations are equal and opposite, one north, one south, so the day at one matches the night at the other: early June's daylight is as long as early January's night, with the Sun near 15° Capricorn. Their partner among the declination contacts is the [contra-parallel](/astrology/contra-parallel/).
 
@@ -61,7 +61,7 @@ Antiscia need tight [orbs](/astrology/orbs/): a degree or so. A planet's mirror 
 
 ## In a reading {#in-a-reading}
 
-Antiscia aren't among the contacts my readings count. The system I read with works with the planets in their signs, houses and aspects ([how I read](/how-i-read/)), and two planets in antiscia, with no aspect between them, don't come into it. Nor did my notebook test them: it went placement by placement, a tick or a cross for each sign and house.
+I leave antiscia out when I read a chart. The system I read with works with the planets in their signs, houses and aspects ([how I read](/how-i-read/)), and two planets in antiscia, with no aspect between them, don't come into it. Nor did my notebook test them: it gave each placement in a sign or a house its own tick or cross.
 
 If you work with them, a few habits help. Keep the orb to a degree or so. Check whether the two planets are also in parallel, since that's the same idea measured on the sky rather than the zodiac. And read a planet on another's antiscion as a quiet link between two functions, never as a verdict on either.
 

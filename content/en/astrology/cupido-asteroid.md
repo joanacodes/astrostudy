@@ -28,13 +28,13 @@ faq:
   - q: "Why is the asteroid called Cupido?"
     a: "It carries the Latin name of Cupid, the Roman god of desire, attraction and affection; Cupido means passionate desire. The name was probably chosen by the Swedish astronomer Bror Asplind, because of the asteroid’s relative closeness to the Sun; Paul Herget recorded it in 1955."
   - q: "Does Cupido show when I will marry?"
-    a: "No. Some Uranian astrologers read their Cupido for marriage, but no point, real or hypothetical, can date a wedding or promise one, and I never read a chart for that. A chart describes how you love and commit; when and whether you marry is yours to decide."
+    a: "No. Some Uranian astrologers read their Cupido for marriage, but no point, real or hypothetical, can date a wedding or promise one, and I never read a chart for that. Your chart can describe how you love and commit; whether and when you marry is yours to decide."
 sources:
   - { title: "Lutz D. Schmadel, Dictionary of Minor Planet Names (Springer, 2007), “(763) Cupido”, and Frederick Pilcher et al., “763 Cupido: A Tumbling Asteroid”, Minor Planet Bulletin 45 (2018), via Wikipedia, “763 Cupido”", url: "https://en.wikipedia.org/wiki/763_Cupido", note: "discovery, orbit, size, spin and name; checked on 24 November 2026" }
   - { title: "Ovid, Metamorphoses 1.463–473, via Wikipedia, “Cupid”", url: "https://en.wikipedia.org/wiki/Cupid", note: "the god’s Latin names and his two arrows; checked on 24 November 2026" }
   - { title: "Alfred Witte and Ludwig Rudolph, Regelwerk für Planetenbilder (Witte-Verlag, 1928), via Wikipedia, “Uranian astrology”", url: "https://en.wikipedia.org/wiki/Uranian_astrology", note: "Witte’s Cupido and the other hypothetical points; checked on 24 November 2026" }
 ---
-Two things in astrology are called Cupido, and they have almost nothing in common but the name. One is an asteroid, number 763, a small rock you could photograph. The other is a point that a Hamburg astrologer proposed in the 1920s, beyond Neptune, where no planet has ever been seen. This page is about the asteroid, and about telling the two apart.
+Two things in astrology are called Cupido, and they have almost nothing in common but the name. One is an asteroid, number 763, a small rock you could photograph. The other is a point that a Hamburg astrologer proposed in the 1920s, beyond Neptune, where no planet has ever been seen.
 
 ## What it is {#what-it-is}
 
@@ -50,17 +50,17 @@ The god gives the asteroid its themes: desire, attraction, affection. In Ovid, C
 
 The confusion starts with Hamburg. Alfred Witte, whose teachings founded the Hamburg School, proposed four planets beyond Neptune, which he named Cupido, Hades, Zeus and Kronos; his collaborator Friedrich Sieggrün added four more in 1927. Their rules were published in 1928, and Uranian astrologers still use these points, reading their Cupido for love, partnership and the arts ([the Hamburg School](/astrology/hamburg-school-uranian-astrology/); [Cupido (Uranian point)](/astrology/cupido-uranian-point/)). None of them has been found as a planet: their positions come from orbits worked out on paper.
 
-So a chart that shows "Cupido" may be showing a rock in the asteroid belt or a hypothetical point far beyond Neptune. The two move at completely different speeds and land in different places. Check the label, or the program's settings, before reading anything into it.
+So a chart that shows "Cupido" may be showing a rock in the asteroid belt or a hypothetical point far beyond Neptune. The two move at completely different speeds and land in different places. The label, or the program's settings, will tell you which one you're looking at.
 
 ## In a reading {#in-a-reading}
 
 Neither Cupido is in my readings. The system I built calculates no asteroids and no hypothetical points; it works with the planets, Chiron, Lilith and the lunar nodes. And when I [tested placements one by one](/blog/i-tested-my-birth-chart/), with a tick or a cross for each, Cupido wasn't among them, so I have no count to offer you.
 
-Desire comes into my readings through [Venus](/astrology/venus/), what attracts you and what you value, and [Mars](/astrology/mars/), how you go after it. If you'd like to try the asteroid in your own chart, first make sure the program is showing number 763 and not the Uranian point, then give it weight only where it touches a planet closely ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
+Desire comes into my readings through [Venus](/astrology/venus/) and [Mars](/astrology/mars/), the planets of attraction and pursuit. If you'd like to try the asteroid in your own chart, first make sure the program is showing number 763 and not the Uranian point, then give it weight only where it touches a planet closely ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
 
 ## Common myths {#myths}
 
 - **“The asteroid Cupido and the Uranian Cupido are the same.”** One is a 7-km rock found in 1913; the other, a point proposed beyond Neptune and never observed.
-- **“Cupido shows when you'll marry.”** No point, real or hypothetical, can date a wedding.
+- **“Cupido shows when you'll marry.”** No point, real or hypothetical, puts a wedding on the calendar.
 - **“Astronomers named Cupido for its astrological meaning.”** It was named, probably by Bror Asplind, for its relative closeness to the Sun; what astrologers read into it came later.
 - **“Cupido is only about falling in love.”** In Ovid, Cupid's arrows make people flee as well as desire.

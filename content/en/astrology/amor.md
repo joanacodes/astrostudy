@@ -28,7 +28,7 @@ faq:
   - q: "What is the difference between Amor, Eros and Cupido?"
     a: "They are three different asteroids named after one god. Eros, number 433, found in 1898, carries his Greek name; Cupido, number 763, found in 1913, and Amor, number 1221, found in 1932, carry his two Latin names, desire and love. Each has its own orbit, so each lands in its own place in a chart."
   - q: "Can the asteroid Amor show my true love?"
-    a: "No. No asteroid, planet or point can name a person or promise a relationship. A chart describes how you love and what you value, not who you will meet. Between two people, a comparison of both charts, made with both agreeing, can describe how you meet, never whether you are meant to be."
+    a: "No. No asteroid, planet or point can name a person or promise a relationship; your chart is about you, not about who you will meet. Between two people, a comparison of both charts, made with both agreeing, can describe how you meet, never whether you are meant to be."
 sources:
   - { title: "Lutz D. Schmadel, Dictionary of Minor Planet Names (Springer, 2007), “(1221) Amor”, and the Minor Planet Center, via Wikipedia, “1221 Amor”", url: "https://en.wikipedia.org/wiki/1221_Amor", note: "discovery, orbit, close approaches and the Amor group; checked on 24 November 2026" }
   - { title: "Wikipedia — Cupid", url: "https://en.wikipedia.org/wiki/Cupid", note: "Cupido, “passionate desire”, and Amor, “love”; checked on 24 November 2026" }
@@ -52,9 +52,9 @@ Its motion follows from its orbit. Like other near-Earth asteroids, it moves thr
 
 ## In a reading {#in-a-reading}
 
-Asteroids aren't part of the system I built for my readings, and my notebook, which went through the planets [tick by tick](/blog/i-tested-my-birth-chart/), never reached Amor, so I have nothing to tell you about how often it holds.
+Asteroids aren't part of the system I built for my readings, and my notebook stopped at the planets and the points I read ([what I tested](/blog/i-tested-my-birth-chart/)), so I have nothing to tell you about how often Amor holds.
 
-Love comes into a reading through the planets that were in that count. [Venus](/astrology/venus/) is what you value and what draws you; the [5th house](/astrology/5th-house/) is where pleasure and romance play out, and the [7th](/astrology/7th-house/) is partnership, the one person across the table. Venus held about a third of the time in my notebook, like the Sun sign and the rising sign, and I say as much when a reading leans on it.
+When love is the question, I turn to placements I did count. [Venus](/astrology/venus/) describes how you love and what you find beautiful; the [5th house](/astrology/5th-house/) is where pleasure and romance play out, and the [7th](/astrology/7th-house/) is partnership, the one person across the table. My notebook gave Venus a plain record, holding about one time in three, and I say as much when a reading leans on it.
 
 Between two people, a chart comparison looks at how one person's planets meet the other's, both ways, and only with both people's agreement ([synastry and consent](/blog/synastry-behind-their-back/)). No asteroid can stand in for that, and none can say whether two people are meant for each other.
 

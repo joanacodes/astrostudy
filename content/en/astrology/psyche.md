@@ -52,7 +52,7 @@ Before borrowing an asteroid for the soul, it's worth knowing that old astrology
 
 ## In a reading {#in-a-reading}
 
-My readings leave asteroids out, Psyche with them, and when I [checked my chart like an invoice](/blog/i-tested-my-birth-chart/), placement by placement, Psyche wasn't on the list. Mercury and the Moon were. In the notebook, Mercury held about a third of the time, as the Sun sign and the rising sign did; the Moon, checked like everything else, didn't stand out the way Saturn, Chiron and Lilith did. That's the honest footing for anything I say about your mind or your feelings.
+My readings leave asteroids out, Psyche with them, and when I [checked my chart like an invoice](/blog/i-tested-my-birth-chart/), line by line, Psyche wasn't on the list. Mercury and the Moon were. In the notebook, Mercury held about a third of the time, as the Sun sign and the rising sign did; the Moon, checked like everything else, didn't stand out the way Saturn, Chiron and Lilith did. That's the honest footing for anything I say about your mind or your feelings.
 
 A word of care, too, because of the name. A chart describes how you tend to think and feel; it doesn't assess anyone's mental health, and no placement, Psyche's included, is a symptom ([astrology and mental health](/astrology/astrology-and-mental-health/)). If you'd like to try Psyche in your own chart, let Mercury and the Moon speak first, and give the asteroid a voice only where it sits close to one of them ([How to use asteroids without drowning the chart](/astrology/how-to-use-asteroids-without-drowning-the-chart/)).
 

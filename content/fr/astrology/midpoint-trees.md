@@ -23,7 +23,7 @@ facts:
 related: ["/astrology/midpoints", "/astrology/venus-mars-midpoint", "/astrology/sun-moon-midpoint", "/astrology/cosmobiology", "/blog/unknown-birth-time"]
 faq:
   - q: "Qu’est-ce qu’un arbre de mi-points en astrologie ?"
-    a: "C’est une liste imprimée pour chaque planète ou point d’un thème, qui montre tous les mi-points sur lesquels ce point se trouve ou avec lesquels il forme un aspect dur, dans un petit orbe. Si votre Lune est à mi-chemin entre votre Vénus et Mars, Vénus/Mars figure dans l’arbre de la Lune. Chaque branche se lit comme une combinaison."
+    a: "C’est une liste dressée pour chaque planète ou point d’un thème : tous les mi-points que ce point occupe ou touche par un aspect dur, dans un petit orbe. Une Lune à mi-chemin entre Vénus et Mars, par exemple, inscrit Vénus/Mars sur la liste de la Lune. Chaque ligne, ou branche, se lit comme une combinaison de trois facteurs."
   - q: "Comment lire un arbre de mi-points ?"
     a: "Partez du point en haut de la liste, puis prenez les branches par ordre d’orbe, la plus serrée d’abord. Chaque branche relie ce point aux deux corps dont il touche le mi-point, et une branche qui répète ce que le reste du thème dit déjà pèse plus qu’une branche isolée. Rien de tout cela ne décrit un événement."
   - q: "Quel orbe utiliser pour un arbre de mi-points ?"
@@ -39,11 +39,11 @@ Ouvrez un rapport de mi-points et vous trouverez, sous chaque planète, une cour
 
 ## Ce que c’est {#ce-que-c-est}
 
-Un mi-point est le degré à mi-chemin entre deux corps ou deux points d’un thème ([mi-points](/astrology/midpoints/)). L’arbre retourne l’idée. Au lieu de partir d’une paire et de chercher ce qui se trouve entre les deux, il part d’un point, le tronc, et liste toutes les paires dont ce point touche le mi-point : ce sont les branches.
+Deux points quelconques d’un thème ont un degré à mi-chemin entre eux, leur [mi-point](/astrology/midpoints/). L’arbre retourne l’idée. Au lieu de partir d’une paire et de chercher ce qui se trouve entre les deux, il part d’un point, le tronc, et liste toutes les paires dont ce point touche le mi-point : ce sont les branches.
 
 Voici une branche, calculée. Mettons Mars à 18° Bélier et Vénus à 2° Lion. L’arc le plus court entre les deux planètes mesure 104° : leur mi-point tombe 52° après Mars, à 10° Gémeaux, avec son opposé à 10° Sagittaire. Une Lune à 11° Gémeaux se trouve à un degré de là : Vénus/Mars entre dans l’arbre de la Lune ([mi-point Vénus/Mars](/astrology/venus-mars-midpoint/)). Jupiter à 10,5° Vierge, au carré de ce mi-point, ferait aussi figurer Vénus/Mars dans son propre arbre. Le premier contact est ce que les livres de mi-points appellent direct, avec un corps sur le mi-point lui-même ; le second est indirect, un corps en aspect avec le mi-point sans que rien ne s’y trouve.
 
-Les noms de la méthode viennent de Hambourg. Alfred Witte calculait ces combinaisons sur des cadrans mobiles, et son école en a publié les règles en 1928 dans le *Regelwerk für Planetenbilder*, les règles des images planétaires ([l’école de Hambourg](/astrology/hamburg-school-uranian-astrology/)) ; une branche est l’une de ces images, trois facteurs lus comme un seul. Reinhold Ebertin a gardé les mi-points, abandonné les planètes hypothétiques de Witte et publié ses combinaisons dans *The Combination of Stellar Influences* (1940), le manuel de la [cosmobiologie](/astrology/cosmobiology/).
+Le vocabulaire vient de Hambourg. Alfred Witte calculait ces combinaisons sur des cadrans mobiles, et les règles publiées par son école en 1928, le *Regelwerk für Planetenbilder* ([l’école de Hambourg](/astrology/hamburg-school-uranian-astrology/)), appellent image planétaire trois facteurs lus comme un seul ; chaque branche d’un arbre est l’une de ces images. La [cosmobiologie](/astrology/cosmobiology/) de Reinhold Ebertin a fondé son principal ouvrage de référence, *The Combination of Stellar Influences* (1940), en grande partie sur les premières versions de ces règles, mais sans les planètes hypothétiques inventées par l’école de Witte.
 
 ## Comment ça marche {#comment-ca-marche}
 
@@ -63,5 +63,5 @@ Si vous lisez vos propres arbres, commencez par le [mi-point Soleil/Lune](/astro
 
 - **« Un arbre très fourni appartient à une planète puissante. »** Avec un orbe de 1,5°, le hasard seul donne trois ou quatre branches à la plupart des arbres.
 - **« Tous ceux qui sont nés ce jour-là ont les mêmes arbres. »** Les branches où entrent l’ascendant, le milieu du ciel ou la Lune changent avec l’heure.
-- **« Une branche prédit un événement. »** Une combinaison natale décrit comment trois fonctions se relient en vous, pas ce qui va arriver.
+- **« Une branche prédit un événement. »** Dans un thème natal, une branche décrit trois facettes de vous qui agissent ensemble, pas quelque chose qui attend d’arriver.
 - **« Les arbres de mi-points sont nés avec les ordinateurs. »** Witte travaillait avec des cadrans mobiles bien avant les logiciels ; les programmes n’ont fait qu’accélérer l’impression des listes.

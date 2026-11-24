@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/midpoints", "/astrology/venus-mars-midpoint", "/astrology/sun-moon-midpoint", "/astrology/cosmobiology", "/blog/unknown-birth-time"]
 faq:
   - q: "What is a midpoint tree in astrology?"
-    a: "It is a list printed for each planet or point of a chart, showing every midpoint that point sits on or makes a hard aspect to, within a small orb. If your Moon sits halfway between your Venus and Mars, Venus/Mars appears in the Moon’s tree. Each line, or branch, is read as one combination of three factors."
+    a: "It is a list printed for each planet or point of a chart, showing every midpoint that point sits on or makes a hard aspect to, within a small orb. A Moon halfway between Venus and Mars, for instance, puts the pair Venus/Mars on the Moon’s list. Each line, or branch, is read as one combination of three factors."
   - q: "How do you read a midpoint tree?"
     a: "Start from the point at the top, then take the branches in order of orb, tightest first. Each branch joins the point with the two bodies whose midpoint it touches, and a branch that repeats what the rest of the chart already says carries more weight than one that stands alone. None of it describes an event."
   - q: "What orb should a midpoint tree use?"
@@ -38,11 +38,11 @@ Open a midpoint report and you'll find, under each planet, a short column of pai
 
 ## What it is {#what-it-is}
 
-A midpoint is the degree halfway between two bodies or points of a chart ([midpoints](/astrology/midpoints/)). A tree turns the idea round. Instead of starting from a pair and asking what sits between them, it starts from one point, the trunk, and lists every pair whose midpoint that point touches: those are the branches.
+Any two points of a chart have a degree halfway between them, their [midpoint](/astrology/midpoints/). A tree turns the idea round. Instead of starting from a pair and asking what sits between them, it starts from one point, the trunk, and lists every pair whose midpoint that point touches: those are the branches.
 
 Here is one branch, worked out. Say Mars is at 18° Aries and Venus at 2° Leo. The shorter arc between them is 104°, so their midpoint falls 52° on from Mars, at 10° Gemini, with its opposite at 10° Sagittarius. A Moon at 11° Gemini sits a degree from it, so Venus/Mars goes into the Moon's tree ([Venus/Mars midpoint](/astrology/venus-mars-midpoint/)). A Jupiter at 10½° Virgo, square to that midpoint, would list Venus/Mars in its own tree too. The first contact is what midpoint books call direct, with a body on the midpoint itself; the second is indirect, a body in aspect to the midpoint without anything sitting there.
 
-The method's names come from Hamburg. Alfred Witte worked out these combinations on movable dials, and his school published its rules in 1928 as the *Rules for Planetary Pictures* ([the Hamburg School](/astrology/hamburg-school-uranian-astrology/)); a branch is one such picture, three factors read as one. Reinhold Ebertin kept the midpoints, dropped Witte's hypothetical planets, and published his combinations in *The Combination of Stellar Influences* (1940), the handbook of [cosmobiology](/astrology/cosmobiology/).
+The vocabulary is Hamburg's. Alfred Witte worked out these combinations on movable dials, and the rules his school published in 1928 call three factors read as one a planetary picture ([the Hamburg School](/astrology/hamburg-school-uranian-astrology/)); each branch of a tree is one such picture. Reinhold Ebertin's [cosmobiology](/astrology/cosmobiology/) built its main reference book, *The Combination of Stellar Influences* (1940), largely on early versions of those rules, but without the hypothetical planets Witte's school had invented.
 
 ## How it works {#how-it-works}
 
@@ -62,5 +62,5 @@ If you read your own trees, start with the [Sun/Moon midpoint](/astrology/sun-mo
 
 - **“A tree with many branches belongs to a powerful planet.”** With a 1½° orb, chance alone gives most trees three or four.
 - **“Everyone born that day has the same trees.”** The branches that involve the Ascendant, the Midheaven or the Moon change with the hour.
-- **“A branch predicts an event.”** A natal combination describes how three functions link up in you, not what will happen.
+- **“A branch predicts an event.”** In a birth chart, a branch describes three parts of you acting as one, not something waiting to happen.
 - **“Midpoint trees came with computers.”** Witte worked with movable dials long before software; programs only made the lists faster to print.

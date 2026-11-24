@@ -26,7 +26,7 @@ faq:
   - q: "Was Pandora’s box really a box?"
     a: "No. In Hesiod, around 700 BC, Pandora opens a large storage jar, a pithos. The box is usually traced to the humanist Erasmus, who in his collection of proverbs of 1508 turned the Greek word for jar into pyxis, a box. The image stuck, and so did the idiom of opening Pandora’s box."
   - q: "Does Pandora in my chart mean trouble is coming?"
-    a: "No. No asteroid can forecast trouble, and a myth about troubles isn’t a prediction about you. I read the sky’s movement over a chart as weather, not a forecast, and I don’t read Pandora at all. If someone uses a Pandora placement to frighten you, that says more about them than about your chart."
+    a: "No. No asteroid can forecast trouble, and a myth about troubles isn’t a prediction about you; I leave Pandora out of every reading I give. If someone uses a Pandora placement to frighten you, that says more about them than about your chart."
   - q: "Who discovered and named the asteroid Pandora?"
     a: "George Mary Searle, an American astronomer and Catholic priest, found it on 10 September 1858 at the Dudley Observatory near Albany, New York; it was his only asteroid. The name was apparently chosen by Blandina Dudley, widow of the observatory’s founder, during a bitter dispute with its director, who thought it fitting."
 sources:
@@ -46,7 +46,7 @@ Its namesake is the first woman of Greek myth. In Hesiod, around 700 BC, Zeus ha
 
 ## How it works {#how-it-works}
 
-Everything astrologers say about Pandora comes from Hesiod's story: the gifts, the curiosity, the jar, the hope. Two details are worth knowing before reading anything into it.
+Everything astrologers say about Pandora comes from Hesiod's story: the gifts, the curiosity, the jar, the hope. Two details are worth knowing first.
 
 The first is the box. Hesiod's Pandora opens a large storage jar, a *pithos*. The box is usually traced to 1508, when the humanist Erasmus, retelling the story in his collection of proverbs, turned the Greek jar into a *pyxis*, a box. The idiom of opening Pandora's box grew from that slip.
 

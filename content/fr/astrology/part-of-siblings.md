@@ -10,7 +10,7 @@ categories: ["Planètes et points"]
 tags: ["parts arabes"]
 weight: 16
 glyph: "✦"
-definition: "La Part des frères et sœurs est la part réservée à la fratrie, un seul degré calculé, ajouté à la maison 3 que la tradition lui donnait déjà. Comptée depuis l’ascendant, elle diffère même entre des jumeaux nés à quelques minutes d’écart. Elle ne peut ni compter vos frères et sœurs ni les décrire."
+definition: "La Part des frères et sœurs est la part de la fratrie, un seul degré calculé, ajouté à la maison 3 que la tradition lui donnait déjà. Comptée depuis l’ascendant, elle diffère même entre des jumeaux nés à quelques minutes d’écart. Elle ne peut ni compter vos frères et sœurs ni les décrire."
 facts:
   - { k: "Nature", v: "Une part, dite aussi part arabe" }
   - { k: "Réservée à", v: "Les frères et sœurs" }

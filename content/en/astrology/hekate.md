@@ -22,7 +22,7 @@ facts:
 related: ["/astrology/pandora", "/astrology/persephone-asteroid", "/astrology/hygiea", "/astrology/curse-removal-scams", "/blog/i-tested-my-birth-chart"]
 faq:
   - q: "What does Hekate mean in astrology?"
-    a: "The goddess supplies it: Hecate of the crossroads, who carried torches and keys, watched over thresholds and was linked with night, the Moon and magic. Found in 1868, the asteroid has nothing older behind it. I don’t read it in charts, and no reading of it can reveal a curse."
+    a: "The goddess supplies it: Hecate of the crossroads, who carried torches and keys, watched over thresholds and was linked with night, the Moon and magic. Found in 1868, the asteroid has nothing older behind it. I don’t read it in charts, and no one’s reading of it can uncover a curse."
   - q: "Why is asteroid 100 called Hekate?"
     a: "Because it was the hundredth asteroid found, on 11 July 1868, and its name does two jobs: it honours the goddess Hecate and echoes hekaton, the Greek word for a hundred. Its discoverer, J. C. Watson, had found three asteroids before it."
   - q: "Does Hekate in my chart mean witchcraft or a curse?"

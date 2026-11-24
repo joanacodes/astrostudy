@@ -24,7 +24,7 @@ faq:
   - q: "What does Sappho mean in astrology?"
     a: "Whatever astrologers read in it begins with the woman behind the name: the poet of Lesbos, called the Tenth Muse in antiquity and best known for her poems of love and desire. I don’t read it; I read love and creativity through the planets and houses, and never a person’s sexuality."
   - q: "Can the asteroid Sappho show if someone is gay or lesbian?"
-    a: "No. No asteroid, planet or placement can tell anyone’s sexuality, and reading a chart to guess at it would be both bad astrology and an intrusion. A person’s sexuality is theirs to know and to name. A chart describes how someone loves and values, never whom they should love."
+    a: "No. No asteroid, planet or placement can tell anyone’s sexuality, and reading a chart to guess at it would be both bad astrology and an intrusion. A person’s sexuality is theirs to know and to name. A chart can speak to the way a person loves, never to whom."
   - q: "Who was Sappho?"
     a: "A Greek lyric poet from Lesbos, born around 630 BC, whose poems were sung to music. Ancient readers ranked her among the greatest lyric poets and called her the Tenth Muse. Most of her work is lost; only the Ode to Aphrodite survives complete. The words sapphic and lesbian come from her name and her island."
   - q: "When was the asteroid Sappho discovered?"
@@ -56,7 +56,7 @@ No asteroid enters my readings, and my notebook of [ticks and crosses](/blog/i-t
 
 There's a firmer line too, and it's the main reason for this page. No asteroid, planet or placement can tell anyone's sexuality, and I'd never use a chart to guess at it, yours or anyone else's. Doing it to another person, without their knowledge, would be an intrusion as well as bad astrology ([synastry and consent](/blog/synastry-behind-their-back/)). A person's sexuality is theirs to know and to name.
 
-A chart can still speak to how you love and create. [Venus](/astrology/venus/) shows what you value and what draws you, whoever draws you; the [5th house](/astrology/5th-house/), the house of creativity, play and romance, shows where pleasure and self-expression find room.
+A chart can still speak to how you love and create. [Venus](/astrology/venus/) shows the kind of beauty and closeness you seek, whoever you seek it with; the [5th house](/astrology/5th-house/), the house of creativity, play and romance, shows where pleasure and self-expression find room.
 
 ## Common myths {#myths}
 

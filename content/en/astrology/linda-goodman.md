@@ -5,6 +5,8 @@ description: "Linda Goodman, the American astrologer and poet behind Sun Signs (
 date: 2026-11-24
 reviewed: 2026-11-24
 family: "history"
+categories: ["History"]
+tags: []
 weight: 47
 glyph: "✦"
 definition: "Linda Goodman, born Mary Alice Kemery, was an American astrologer and poet who died in 1995. Her Sun Signs (1968) was the first astrology book to reach The New York Times best-seller list, and Love Signs (1978) followed it there. She has been described as the writer who moved astrology from a niche interest to the centre of popular culture."
@@ -32,8 +34,9 @@ sources:
   - { title: "Linda Goodman, Linda Goodman’s Sun Signs (Taplinger, 1968), 231–232", note: "no effect until discovered" }
   - { title: "Linda Goodman, Venus Trines at Midnight (Bantam, 1970); Linda Goodman’s Love Signs (Harper & Row, 1978); Linda Goodman’s Love Poems (Harper & Row, 1980); Linda Goodman’s Star Signs (St Martin’s Press, 1987); Gooberz (Hampton Roads, 1989); Relationship Signs (Bantam, 1998)", note: "her books" }
   - { title: "Robert McG. Thomas Jr., “Linda Goodman, Writer Turned Astrologer, Dies”, The New York Times (25 October 1995)", note: "her death in 1995" }
-  - { title: "Bertram R. Forer, “The fallacy of personal validation: a classroom demonstration of gullibility”, Journal of Abnormal and Social Psychology 44 (1949), 118–123", note: "the Barnum effect" }
+  - { title: "B. R. Forer, “The fallacy of personal validation: A classroom demonstration of gullibility”, Journal of Abnormal and Social Psychology 44 (1949), 118–123", note: "a broad sketch that feels personal" }
   - { title: "Wikipedia — Linda Goodman", url: "https://en.wikipedia.org/wiki/Linda_Goodman", note: "checked on 24 November 2026" }
+  - { title: "Wikipedia — Barnum effect", url: "https://en.wikipedia.org/wiki/Barnum_effect", note: "checked on 24 November 2026" }
   - { title: "My testing notes", page: "/blog/i-tested-my-birth-chart", note: "the Sun sign, about a third" }
 ---
 Linda Goodman made astrology a best-seller. *Sun Signs*, in 1968, was the first astrology book to reach *The New York Times* best-seller list, and a profile in *The New Yorker* in 2026 presented her as the astrologer who brought astrology to the masses.
