@@ -34,7 +34,7 @@ const kinds = {
     ['À quoi elle ressemble', 'Dans un thème natal', 'Ce qui aide', 'Questions']],
   star: [['Where it is', 'Its tradition', 'In a birth chart', 'Questions'],
     ['Où elle se trouve', 'Sa tradition', 'Dans un thème natal', 'Questions']],
-  decan: [['Its rulers', 'Its image', 'In a birth chart'], ['Ses maîtres', 'Son image', 'Dans un thème natal']],
+  decan: [['Its rulers', 'Its image', 'In a birth chart', 'Questions'], ['Ses maîtres', 'Son image', 'Dans un thème natal', 'Questions']],
   sabian: [['The symbol', 'How it is read', 'Questions'], ['Le symbole', 'Comment on le lit', 'Questions']],
   history: [['What it was', 'What it gave astrology', 'Questions'], ['Ce que c’était', 'Ce qu’elle a apporté', 'Questions']],
   person: [['Who', 'What they changed', 'Questions'], ['Qui', 'Son apport', 'Questions']],
